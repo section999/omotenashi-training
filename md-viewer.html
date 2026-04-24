@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <title>Lesson — Omotenashi Training</title>
+  <meta name="description" content="Interactive Japanese hospitality training — lessons, quizzes, and simulator scenarios." />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Omotenashi Training" />
+  <meta property="og:description" content="Interactive Japanese hospitality training — lessons, quizzes, and simulator scenarios." />
+  <meta property="og:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Omotenashi Training" />
+  <meta name="twitter:description" content="Interactive Japanese hospitality training — lessons, quizzes, and simulator scenarios." />
+  <meta name="twitter:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
+  <style>
+    :root {
+      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
+      --accent-yellow:#f1be32; --accent-blue:#198eee;
+      --accent-green:#1fad69; --accent-red:#c5442a;
+      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
+      --text-inverse:#0a0a23; --border-default:#2a2a4a;
+      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+    }
+    [data-theme="light"] {
+      --bg-primary:    #ffffff;
+      --bg-secondary:  #f5f6f7;
+      --bg-tertiary:   #eaeaef;
+      --text-primary:   #1b1b32;
+      --text-secondary: #46465e;
+      --text-muted:     #78788a;
+      --text-inverse:   #ffffff;
+      --border-default: #c8c9cc;
+      --accent-yellow:  #d4a017;
+      --accent-blue:    #0096db;
+      --accent-green:   #1a9058;
+      --accent-red:     #c5442a;
+    }
+    [data-theme="light"] .nav { background: #0a0a23 !important; }
+    [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
+    [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
+    [data-theme="light"] .nav-dropdown a:hover { background: rgba(255,255,255,0.08) !important; }
+    [data-theme="light"] .msg-bubble { color: #3b3b4f !important; }
+    [data-theme="light"] .msg-label { color: #3b3b4f !important; }
+    [data-theme="light"] .chat-header-title { color: #3b3b4f !important; }
+    [data-theme="light"] .chat-turn-progress { color: #3b3b4f !important; }
+    [data-theme="light"] .choice-btn { color: #3b3b4f; }
+    [data-theme="light"] .choice-btn:hover { color: #1b1b32; }
+    [data-theme="light"] .modal { background: #ffffff !important; border-color: #c8c9cc !important; }
+    [data-theme="light"] .modal-bar { background: #f5f6f7 !important; border-color: #c8c9cc !important; }
+    [data-theme="light"] .modal-bar-title { color: #1b1b32 !important; }
+    [data-theme="light"] .modal-section-title { color: #1b1b32 !important; }
+    [data-theme="light"] .modal-body { background: #ffffff !important; }
+    [data-theme="light"] .modal-check { background: #1b1b32 !important; }
+    [data-theme="light"] .modal-check polyline { stroke: #ffffff; }
+    [data-theme="light"] .modal-btn-next { background: #eaeaef !important; color: #1b1b32 !important; }
+    [data-theme="light"] .modal-btn-next:hover { background: #d8d8e0 !important; }
+    [data-theme="light"] #jp-toast { background: #ffffff; border-color: #c8c9cc; color: #1b1b32; }
+    [data-theme="light"] .section-body p,
+    [data-theme="light"] .section-body li,
+    [data-theme="light"] .section-body strong,
+    [data-theme="light"] .section-body em,
+    [data-theme="light"] .section-body ul,
+    [data-theme="light"] .section-body ol,
+    [data-theme="light"] .section-body th,
+    [data-theme="light"] .section-body td { color: #1b1b32; }
+    [data-theme="light"] .section-body th { background: rgba(0,0,0,0.04); }
+    [data-theme="light"] .section-body td { border-bottom-color: rgba(0,0,0,0.08); }
+    [data-theme="light"] .quiz-label,
+    [data-theme="light"] .quiz-q { color: #1b1b32; }
+    [data-theme="light"] .quiz-opt,
+    [data-theme="light"] .tf-btn { color: #3b3b4f; }
+    [data-theme="light"] .quiz-opt:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
+    [data-theme="light"] .tf-btn:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
+    [data-theme="light"] .footer { background: #0a0a23 !important; }
+    [data-theme="light"] .footer * { color: #ffffff !important; }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 18px; }
+    body { background: var(--bg-secondary); color: var(--text-primary); font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; }
+
+    /* NAV */
+    .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 60px; background: #0a0a23; backdrop-filter: blur(16px); }
+    .nav-inner { max-width: 1200px; margin: 0 auto; padding: 0 32px; height: 100%; display: flex; align-items: center; justify-content: space-between; position: relative; }
+    .logo-small { display: none; }
+    @media (max-width: 640px) {
+      .nav-inner { padding: 0 16px; }
+      .logo-large { display: none !important; }
+      .logo-small { display: block !important; }
+    }
+    .tts-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: var(--bg-tertiary); border: 1px solid var(--border-default); color: var(--text-secondary); font-size: 0.85rem; padding: 10px 20px; border-radius: 8px; z-index: 9999; pointer-events: none; opacity: 0; transition: opacity 0.2s; }
+    .tts-toast.show { opacity: 1; }
+
+    /* LAYOUT */
+    .layout { display: flex; margin-top: 60px; min-height: calc(100vh - 60px); }
+
+    /* MAIN */
+    .main { flex: 1; margin-left: auto; margin-right: auto; padding: 48px 40px 80px; max-width: 860px; }
+
+    /* BREADCRUMB */
+    .breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 0.875rem; color: var(--text-muted); margin-bottom: 32px; flex-wrap: wrap; }
+    .breadcrumb a { color: var(--text-muted); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--text-secondary); }
+    .breadcrumb span { color: var(--border-default); }
+
+    /* SECTION */
+    .lesson-section { margin-bottom: 48px; }
+    .section-heading {
+      font-family: var(--font-mono); font-size: 1rem; font-weight: 700;
+      color: var(--accent-yellow); border-left: 3px solid var(--accent-yellow);
+      padding-left: 12px; margin-bottom: 20px; line-height: 1.3;
+    }
+    .section-body { line-height: 1.75; }
+    .section-body p { font-size: 1rem; color: #fff; line-height: 1.75; margin-bottom: 0.9rem; }
+    .section-body h1, .section-body h2 { font-size: 1.2rem; font-weight: 700; color: var(--accent-yellow); margin: 1.4rem 0 0.6rem; }
+    .section-body h3 { font-size: 1rem; font-weight: 600; color: var(--text-secondary); margin: 1rem 0 0.4rem; }
+    .section-body strong { color: #fff; font-weight: 700; }
+    .section-body em { color: #fff; font-style: italic; }
+    .section-body ul, .section-body ol { margin: 0.5rem 0 1rem 1.4rem; color: #fff; }
+    .section-body li { margin-bottom: 0.4rem; line-height: 1.65; font-size: 1rem; color: #fff; }
+    .section-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
+    .section-body table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; display: block; overflow-x: auto; }
+    .section-body th { background: rgba(255,255,255,0.04); text-align: left; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); white-space: nowrap; }
+    .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); color: #fff; }
+    .section-body blockquote { border-left: 3px solid var(--accent-blue); padding-left: 16px; color: var(--text-secondary); margin: 1rem 0; font-style: italic; }
+
+    /* QUIZ */
+    .section-quiz { margin-top: 28px; background: var(--bg-primary); border: 1px solid var(--border-default); border-radius: 8px; padding: 20px 24px; }
+    .quiz-label { font-family: var(--font-mono); font-size: 0.875rem; letter-spacing: 0.1em; text-transform: uppercase; color: #fff; margin-bottom: 10px; text-align: center; }
+    .quiz-q { font-size: 1rem; font-weight: 600; margin-bottom: 14px; line-height: 1.5; color: #fff; white-space: pre-line; }
+    .quiz-options { display: flex; flex-direction: column; gap: 8px; }
+    .quiz-opt { display: flex; align-items: center; gap: 10px; padding: 9px 14px; border-radius: 5px; border: 1px solid var(--border-default); cursor: pointer; font-size: 1rem; color: #fff; transition: background 0.12s, border-color 0.12s; }
+    .quiz-opt:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.2); }
+    .quiz-opt.selected { border-color: var(--accent-blue); background: rgba(25,142,238,0.08); }
+    .quiz-opt.correct { border-color: var(--accent-green); color: var(--accent-green); background: rgba(31,173,105,0.08); }
+    .quiz-opt.wrong { border-color: var(--accent-red); color: var(--accent-red); background: rgba(197,68,42,0.08); }
+    .quiz-opt-letter { width: 22px; height: 22px; border-radius: 50%; border: 1px solid currentColor; display: flex; align-items: center; justify-content: center; font-family: var(--font-mono); font-size: 0.7rem; flex-shrink: 0; }
+    .tf-options { display: flex; gap: 10px; margin-bottom: 12px; }
+    .tf-btn { padding: 8px 24px; border-radius: 5px; border: 1px solid var(--border-default); background: transparent; color: #fff; font-size: 1rem; cursor: pointer; transition: background 0.12s, border-color 0.12s; }
+    .tf-btn:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.2); }
+    .tf-btn.correct { border-color: var(--accent-green); background: rgba(31,173,105,0.08); color: var(--accent-green); }
+    .tf-btn.wrong { border-color: var(--accent-red); background: rgba(197,68,42,0.08); color: var(--accent-red); }
+    .fitb-input { width: 100%; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); border-radius: 5px; padding: 10px 14px; color: var(--text-primary); font-size: 0.875rem; font-family: inherit; margin-bottom: 10px; }
+    .fitb-input:focus { outline: none; border-color: var(--accent-blue); }
+    .fitb-input:disabled { opacity: 0.6; }
+    .short-input { width: 100%; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); border-radius: 5px; padding: 10px 14px; color: var(--text-primary); font-size: 0.875rem; font-family: inherit; resize: vertical; min-height: 70px; margin-bottom: 10px; }
+    .short-input:focus { outline: none; border-color: var(--accent-blue); }
+    .model-answer { display: none; margin-top: 10px; padding: 12px 14px; border-radius: 5px; background: rgba(255,255,255,0.04); border: 1px solid var(--border-default); font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6; }
+    .model-answer strong { color: var(--accent-green); display: block; margin-bottom: 4px; }
+    .quiz-check { display: block; margin: 12px auto 0; padding: 9px 20px; background: var(--accent-green); color: var(--text-inverse); border: none; border-radius: 5px; font-weight: 700; font-size: 1rem; cursor: pointer; transition: opacity 0.15s; }
+    .quiz-check:hover { opacity: 0.85; }
+    .quiz-check:disabled { opacity: 0.4; cursor: default; }
+    .quiz-feedback { margin-top: 12px; padding: 10px 14px; border-radius: 5px; font-size: 0.85rem; line-height: 1.5; display: none; }
+    .quiz-feedback.ok { background: rgba(31,173,105,0.12); border: 1px solid rgba(31,173,105,0.3); color: var(--accent-green); }
+    .quiz-feedback.err { background: rgba(197,68,42,0.12); border: 1px solid rgba(197,68,42,0.3); color: #e07060; }
+
+
+    /* SIMULATOR */
+    .chat-area { display: flex; flex-direction: column; background: var(--bg-primary); border: 1px solid var(--border-default); border-radius: 8px; overflow: hidden; }
+    .chat-header { padding: 14px 20px; border-bottom: 1px solid var(--border-default); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+    .chat-header-title { font-weight: 700; font-size: 1.2rem; color: #fff; }
+    .chat-turn-progress { font-size: 0.8rem; color: rgba(255,255,255,0.55); margin-top: 2px; }
+    .msg-system { display: flex; align-items: center; gap: 10px; font-size: 0.78rem; color: var(--text-muted); margin: 8px 16px; font-style: italic; }
+    .msg-system::before, .msg-system::after { content: ''; flex: 1; height: 1px; background: var(--border-muted); }
+    .chat-messages { padding: 24px; display: flex; flex-direction: column; gap: 18px; min-height: 300px; max-height: 480px; overflow-y: auto; }
+    .msg { display: flex; gap: 12px; align-items: flex-start; }
+    .msg-user { justify-content: flex-end; }
+    .msg-guest > div, .msg-user > div { max-width: 50%; }
+    .msg-bubble { max-width: 100%; width: 100%; padding: 14px 18px; border-radius: 8px; font-size: 1.1rem; line-height: 1.7; line-break: strict; overflow-wrap: anywhere; }
+    .msg-guest .msg-bubble { background: var(--bg-tertiary); color: #fff; border-bottom-left-radius: 2px; }
+    .msg-user .msg-bubble { background: rgba(31,173,105,0.15); color: #fff; border: 1px solid rgba(31,173,105,0.3); border-bottom-right-radius: 2px; }
+    .msg-label { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px; }
+    .msg-guest .msg-label { text-align: left; }
+    .msg-user .msg-label { text-align: right; }
+    .chat-choices { padding: 18px 24px; border-top: 1px solid var(--border-default); display: flex; flex-direction: column; gap: 10px; }
+    .choices-label { font-size: 0.85rem; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 4px; text-align: center; }
+    .choice-btn { background: transparent; border: 1px solid var(--border-default); color: var(--text-secondary); padding: 13px 18px; border-radius: 5px; text-align: left; font-size: 1.05rem; cursor: pointer; transition: border-color 0.12s, color 0.12s, background 0.12s; line-height: 1.5; line-break: strict; width: 100%; }
+    .choice-btn:hover { border-color: var(--accent-blue); color: #fff; background: rgba(25,142,238,0.06); }
+    .choice-btn.wrong { border-color: var(--accent-red); color: #e07060; opacity: 0.6; }
+    .choice-btn.answered { opacity: 0.4; cursor: default; pointer-events: none; }
+    .sim-speak-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 44px; height: auto; border-radius: 5px; cursor: pointer; font-size: 1.1rem; display: flex; align-items: center; justify-content: center; align-self: stretch; transition: border-color 0.12s, color 0.12s; }
+    .sim-speak-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); }
+    .msg-speak-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 36px; height: 32px; border-radius: 5px; cursor: pointer; font-size: 0.95rem; display: flex; align-items: center; justify-content: center; transition: border-color 0.12s, color 0.12s; }
+    .msg-speak-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); }
+    .choice-wrap { display: flex; flex-direction: column; }
+    .choice-row { display: flex; gap: 8px; align-items: stretch; }
+    .choice-row .choice-btn { flex: 1; }
+    .practice-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 44px; border-radius: 5px; cursor: pointer; font-size: 1.1rem; display: flex; align-items: center; justify-content: center; transition: border-color 0.12s, color 0.12s, background 0.12s; }
+    .practice-btn:hover { border-color: var(--accent-blue); color: var(--accent-blue); }
+    .practice-btn.listening { border-color: var(--accent-red); color: var(--accent-red); background: rgba(197,68,42,0.1); animation: mic-pulse 0.9s ease-in-out infinite; }
+    .practice-btn.done { border-color: var(--accent-green); color: var(--accent-green); }
+    @keyframes mic-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+    .typing-indicator { display:flex; gap:12px; align-items:flex-start; }
+    .typing-indicator > div { max-width:50%; }
+    .typing-dots { display:flex; align-items:center; gap:5px; padding:14px 18px; background:var(--bg-tertiary); border-radius:8px; border-bottom-left-radius:2px; }
+    .typing-dots span { width:8px; height:8px; border-radius:50%; background:var(--text-muted); display:inline-block; animation:typing-bounce 1.2s ease-in-out infinite; }
+    .typing-dots span:nth-child(2) { animation-delay:0.2s; }
+    .typing-dots span:nth-child(3) { animation-delay:0.4s; }
+    @keyframes typing-bounce { 0%,60%,100% { transform:translateY(0); opacity:0.4; } 30% { transform:translateY(-5px); opacity:1; } }
+    .practice-result { margin-top: 6px; font-size: 0.83rem; padding: 8px 12px; border-radius: 5px; background: var(--bg-tertiary); border: 1px solid var(--border-default); line-height: 1.5; }
+    .psc-good { color: var(--accent-green); }
+    .psc-ok   { color: var(--accent-yellow); }
+    .psc-bad  { color: #e07060; }
+    .feedback-badge { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: 0.7rem; font-family: var(--font-mono); font-weight: 700; letter-spacing: 0.05em; margin-top: 6px; }
+    .badge-perfect { background: rgba(31,173,105,0.15); color: var(--accent-green); border: 1px solid rgba(31,173,105,0.3); }
+    .badge-good    { background: rgba(241,190,50,0.1);  color: var(--accent-yellow); border: 1px solid rgba(241,190,50,0.3); }
+    .badge-review  { background: rgba(197,68,42,0.1);   color: #e07060;              border: 1px solid rgba(197,68,42,0.3); }
+    @media (max-width: 640px) {
+      .msg-guest > div, .msg-user > div { max-width: 90%; }
+      .chat-messages { padding: 14px; gap: 14px; max-height: none; }
+      .msg-bubble { font-size: 0.97rem; padding: 11px 13px; line-height: 1.6; }
+      .msg-label { font-size: 0.78rem; }
+      .chat-choices { padding: 12px 14px; gap: 8px; }
+      .choices-label { font-size: 0.75rem; }
+      .choice-btn { font-size: 0.93rem; padding: 11px 13px; }
+      .sim-speak-btn, .practice-btn { width: 38px; font-size: 1rem; }
+      .chat-header { padding: 10px 14px; }
+      .chat-header-title { font-size: 1rem; }
+      .main { padding-left: 12px; padding-right: 12px; }
+    }
+
+    /* ── VOCAB PRONUNCIATION WIDGET ────────────────────────────────── */
+    .vocab-pron-btns { display: flex; gap: 10px; margin-top: 14px; }
+    .vocab-pron-btns .quiz-check { flex: 1; margin: 0; }
+    .vocab-pron-romaji { font-size: 0.9rem; color: var(--text-muted); margin-top: 4px; font-family: var(--font-mono); }
+
+    /* FOOTER */
+    .footer { border-top: none; padding: 18px 0; margin-top: 64px; background: #0a0a23; }
+    .footer-inner { max-width: 1300px; margin: 0 auto; padding: 0 32px; display: flex; align-items: center; justify-content: center; position: relative; }
+    .footer-brand { font-family: var(--font-mono); font-size: 1rem; color: #ffffff; text-decoration: none; }
+    .scroll-top { position: absolute; right: 32px; width: 36px; height: 36px; background: transparent; border: none; border-radius: 4px; color: #fff; cursor: pointer; font-size: 1.1rem; opacity: 0.7; transition: opacity 0.2s; }
+    .scroll-top:hover { opacity: 1; }
+
+    /* LOADING */
+    .loading { text-align: center; padding: 80px 24px; color: var(--text-muted); font-size: 1.1rem; }
+
+    /* JAPANESE PRONUNCIATION */
+    .jp-word {
+      cursor: pointer;
+      border-bottom: 1.5px dashed rgba(241,190,50,0.5);
+      transition: border-color 0.15s, background 0.15s;
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+    .jp-word:hover {
+      border-bottom-color: var(--accent-yellow);
+      background: rgba(241,190,50,0.08);
+    }
+    .jp-word.speaking {
+      border-bottom-color: var(--accent-green);
+      background: rgba(31,173,105,0.12);
+      animation: jp-pulse 0.6s ease-in-out infinite alternate;
+    }
+    @keyframes jp-pulse {
+      from { background: rgba(31,173,105,0.08); }
+      to   { background: rgba(31,173,105,0.2);  }
+    }
+    #jp-toast {
+      position: fixed; bottom: 28px; left: 50%; transform: translateX(-50%);
+      background: #1b1b32; border: 1px solid #3b3b5c;
+      color: #fff; font-size: 0.85rem; padding: 8px 18px;
+      border-radius: 99px; z-index: 999; pointer-events: none;
+      opacity: 0; transition: opacity 0.2s;
+      display: flex; align-items: center; gap: 8px;
+    }
+    #jp-toast.show { opacity: 1; }
+
+    /* COMPLETION MODAL */
+    .modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.55); z-index:500; align-items:center; justify-content:center; }
+    .modal-overlay.open { display:flex; }
+    .modal { background:#1b1b32; border:1px solid #3b3b5c; border-radius:0; width:800px; max-width:96vw; overflow:hidden; box-shadow:0 24px 80px rgba(0,0,0,0.7); }
+    .modal-bar { display:flex; align-items:center; justify-content:space-between; padding:12px 16px; border-bottom:1px solid #3b3b5c; background:#1b1b32; }
+    .modal-bar-title { flex:1; text-align:center; font-size:1rem; font-weight:600; color:#fff; padding-left:28px; }
+    .modal-close { width:28px; height:28px; border:2px solid #198eee; background:transparent; color:#198eee; font-size:1rem; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; flex-shrink:0; transition:background 0.15s; }
+    .modal-close:hover { background:rgba(25,142,238,0.2); }
+    .modal-body { padding:44px 32px 36px; display:flex; flex-direction:column; align-items:center; gap:14px; border-bottom:1px solid #3b3b5c; background:#1b1b32; }
+    .modal-check { width:124px; height:124px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .modal-check svg { width:68px; height:68px; }
+    .modal-section-title { font-size:1rem; font-weight:700; color:#fff; text-align:center; }
+    .modal-progress-bar { width:130px; height:5px; background:#3b3b5c; border-radius:0; overflow:hidden; }
+    .modal-progress-fill { height:100%; background:#f1be32; transition:width 0.5s ease; }
+    .modal-percent { font-size:1rem; color:#a3a3c2; margin-top:-4px; }
+    .modal-footer { display:flex; flex-direction:column; }
+    .modal-btn-next { display:block; width:100%; padding:20px 24px; text-align:center; font-size:1rem; font-weight:600; background:#3b3b5c; color:#fff; border:none; cursor:pointer; text-decoration:none; transition:background 0.15s; }
+    .modal-btn-next:hover { background:#4a4a6e; }
+    .btn-next-sub { font-size:0.8em; opacity:0.6; }
+  </style>
+  <link rel="stylesheet" href="assets/nav.css" />
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <div class="nav-search-wrap">
+      <div class="nav-search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off" />
+      </div>
+      <div id="navSearchDrop" class="nav-search-drop"></div>
+    </div>
+    <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener" aria-label="freeCodeCamp" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;">
+      <img class="logo-large" src="assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
+      <img class="logo-small" src="assets/fcc_primary_small.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" />
+    </a>
+    <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
+      <div class="nav-menu-wrap">
+        <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="nav-dropdown">
+          <a href="index.html">Main</a>
+          <a href="curriculum.html">Curriculum</a>
+          <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+          <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div id="jp-toast">🔊 <span id="jp-toast-text"></span></div>
+
+<div class="layout">
+  <main class="main" id="main">
+    <div class="loading">Loading…</div>
+  </main>
+</div>
+
+<footer class="footer">
+  <div style="max-width:1300px; margin:0 auto; padding:0 32px;">
+    <div class="footer-inner">
+      <a href="index.html" class="footer-brand" style="text-decoration:none;">Omotenashi Training</a>
+      <button class="scroll-top" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+    </div>
+  </div>
+</footer>
+
+<!-- COMPLETION MODAL -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <div class="modal-bar">
+      <span class="modal-bar-title">You're unstoppable!</span>
+      <button class="modal-close" onclick="closeModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-check">
+        <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <polyline points="12,32 24,44 48,18" stroke="#0a0a23" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="modal-section-title" id="modalSectionTitle"></div>
+      <div class="modal-progress-bar"><div class="modal-progress-fill" id="modalProgressFill"></div></div>
+      <div class="modal-percent" id="modalPercent"></div>
+    </div>
+    <div class="modal-footer" style="display:flex;">
+      <a class="modal-btn-next" id="modalNextBtn" href="#">Go to next section <span class="btn-next-sub">(Ctrl + Enter)</span></a>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+<script>
+// ── FILE MAP: md path → { module, lesson, totalSections } ─────────────────
+const FILE_MAP = {
+  // m1-philosophy (6)
+  'content/foundations/m1-philosophy-01.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:1, total:6, prev:null,                                              next:'content/foundations/m1-philosophy-02.md' },
+  'content/foundations/m1-philosophy-02.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:2, total:6, prev:'content/foundations/m1-philosophy-01.md',   next:'content/foundations/m1-philosophy-03.md' },
+  'content/foundations/m1-philosophy-03.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:3, total:6, prev:'content/foundations/m1-philosophy-02.md',   next:'content/foundations/m1-philosophy-04.md' },
+  'content/foundations/m1-philosophy-04.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:4, total:6, prev:'content/foundations/m1-philosophy-03.md',   next:'content/foundations/m1-philosophy-05.md' },
+  'content/foundations/m1-philosophy-05.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:5, total:6, prev:'content/foundations/m1-philosophy-04.md',   next:'content/foundations/m1-philosophy-06.md' },
+  'content/foundations/m1-philosophy-06.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:6, total:6, prev:'content/foundations/m1-philosophy-05.md',   next:'content/foundations/m1-comms-01.md' },
+  // m1-comms (5)
+  'content/foundations/m1-comms-01.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:1, total:5, prev:'content/foundations/m1-philosophy-06.md', next:'content/foundations/m1-comms-02.md' },
+  'content/foundations/m1-comms-02.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:2, total:5, prev:'content/foundations/m1-comms-01.md',       next:'content/foundations/m1-comms-03.md' },
+  'content/foundations/m1-comms-03.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:3, total:5, prev:'content/foundations/m1-comms-02.md',       next:'content/foundations/m1-comms-04.md' },
+  'content/foundations/m1-comms-04.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:4, total:5, prev:'content/foundations/m1-comms-03.md',       next:'content/foundations/m1-comms-05.md' },
+  'content/foundations/m1-comms-05.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:5, total:5, prev:'content/foundations/m1-comms-04.md',       next:'content/foundations/m1-skills-01.md' },
+  // m1-skills (5)
+  'content/foundations/m1-skills-01.md': { module:'Hospitality Basics', lesson:'Service Skills', section:1, total:5, prev:'content/foundations/m1-comms-05.md',   next:'content/foundations/m1-skills-02.md' },
+  'content/foundations/m1-skills-02.md': { module:'Hospitality Basics', lesson:'Service Skills', section:2, total:5, prev:'content/foundations/m1-skills-01.md',  next:'content/foundations/m1-skills-03.md' },
+  'content/foundations/m1-skills-03.md': { module:'Hospitality Basics', lesson:'Service Skills', section:3, total:5, prev:'content/foundations/m1-skills-02.md',  next:'content/foundations/m1-skills-04.md' },
+  'content/foundations/m1-skills-04.md': { module:'Hospitality Basics', lesson:'Service Skills', section:4, total:5, prev:'content/foundations/m1-skills-03.md',  next:'content/foundations/m1-skills-05.md' },
+  'content/foundations/m1-skills-05.md': { module:'Hospitality Basics', lesson:'Service Skills', section:5, total:5, prev:'content/foundations/m1-skills-04.md',  next:'content/foundations/m1-fnb-01.md' },
+  // m1-fnb (4)
+  'content/foundations/m1-fnb-01.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:1, total:4, prev:'content/foundations/m1-skills-05.md', next:'content/foundations/m1-fnb-02.md' },
+  'content/foundations/m1-fnb-02.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:2, total:4, prev:'content/foundations/m1-fnb-01.md',    next:'content/foundations/m1-fnb-03.md' },
+  'content/foundations/m1-fnb-03.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:3, total:4, prev:'content/foundations/m1-fnb-02.md',    next:'content/foundations/m1-fnb-04.md' },
+  'content/foundations/m1-fnb-04.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:4, total:4, prev:'content/foundations/m1-fnb-03.md',    next:'content/foundations/m1-crisis-01.md' },
+  // m1-crisis (4)
+  'content/foundations/m1-crisis-01.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:1, total:4, prev:'content/foundations/m1-fnb-04.md',      next:'content/foundations/m1-crisis-02.md' },
+  'content/foundations/m1-crisis-02.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:2, total:4, prev:'content/foundations/m1-crisis-01.md',   next:'content/foundations/m1-crisis-03.md' },
+  'content/foundations/m1-crisis-03.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:3, total:4, prev:'content/foundations/m1-crisis-02.md',   next:'content/foundations/m1-crisis-04.md' },
+  'content/foundations/m1-crisis-04.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:4, total:4, prev:'content/foundations/m1-crisis-03.md',   next:null },
+
+  // ── VOCABULARY MODULES ────────────────────────────────────────────────────
+  // v01-vocab (24)
+  'content/vocabulary/v01-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:1, total:24, prev:null, next:'content/vocabulary/v01-vocab-02.md' },
+  'content/vocabulary/v01-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:2, total:24, prev:'content/vocabulary/v01-vocab-01.md', next:'content/vocabulary/v01-vocab-03.md' },
+  'content/vocabulary/v01-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:3, total:24, prev:'content/vocabulary/v01-vocab-02.md', next:'content/vocabulary/v01-vocab-04.md' },
+  'content/vocabulary/v01-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:4, total:24, prev:'content/vocabulary/v01-vocab-03.md', next:'content/vocabulary/v01-vocab-05.md' },
+  'content/vocabulary/v01-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:5, total:24, prev:'content/vocabulary/v01-vocab-04.md', next:'content/vocabulary/v01-vocab-06.md' },
+  'content/vocabulary/v01-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:6, total:24, prev:'content/vocabulary/v01-vocab-05.md', next:'content/vocabulary/v01-vocab-07.md' },
+  'content/vocabulary/v01-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:7, total:24, prev:'content/vocabulary/v01-vocab-06.md', next:'content/vocabulary/v01-vocab-08.md' },
+  'content/vocabulary/v01-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:8, total:24, prev:'content/vocabulary/v01-vocab-07.md', next:'content/vocabulary/v01-vocab-09.md' },
+  'content/vocabulary/v01-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:9, total:24, prev:'content/vocabulary/v01-vocab-08.md', next:'content/vocabulary/v01-vocab-10.md' },
+  'content/vocabulary/v01-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:10, total:24, prev:'content/vocabulary/v01-vocab-09.md', next:'content/vocabulary/v01-vocab-11.md' },
+  'content/vocabulary/v01-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:11, total:24, prev:'content/vocabulary/v01-vocab-10.md', next:'content/vocabulary/v01-vocab-12.md' },
+  'content/vocabulary/v01-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:12, total:24, prev:'content/vocabulary/v01-vocab-11.md', next:'content/vocabulary/v01-vocab-13.md' },
+  'content/vocabulary/v01-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:13, total:24, prev:'content/vocabulary/v01-vocab-12.md', next:'content/vocabulary/v01-vocab-14.md' },
+  'content/vocabulary/v01-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:14, total:24, prev:'content/vocabulary/v01-vocab-13.md', next:'content/vocabulary/v01-vocab-15.md' },
+  'content/vocabulary/v01-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:15, total:24, prev:'content/vocabulary/v01-vocab-14.md', next:'content/vocabulary/v01-vocab-16.md' },
+  'content/vocabulary/v01-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:16, total:24, prev:'content/vocabulary/v01-vocab-15.md', next:'content/vocabulary/v01-vocab-17.md' },
+  'content/vocabulary/v01-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:17, total:24, prev:'content/vocabulary/v01-vocab-16.md', next:'content/vocabulary/v01-vocab-18.md' },
+  'content/vocabulary/v01-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:18, total:24, prev:'content/vocabulary/v01-vocab-17.md', next:'content/vocabulary/v01-vocab-19.md' },
+  'content/vocabulary/v01-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:19, total:24, prev:'content/vocabulary/v01-vocab-18.md', next:'content/vocabulary/v01-vocab-20.md' },
+  'content/vocabulary/v01-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:20, total:24, prev:'content/vocabulary/v01-vocab-19.md', next:'content/vocabulary/v01-vocab-21.md' },
+  'content/vocabulary/v01-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:21, total:24, prev:'content/vocabulary/v01-vocab-20.md', next:'content/vocabulary/v01-vocab-22.md' },
+  'content/vocabulary/v01-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:22, total:24, prev:'content/vocabulary/v01-vocab-21.md', next:'content/vocabulary/v01-vocab-23.md' },
+  'content/vocabulary/v01-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:23, total:24, prev:'content/vocabulary/v01-vocab-22.md', next:'content/vocabulary/v01-vocab-24.md' },
+  'content/vocabulary/v01-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Basic Greetings & Service', section:24, total:24, prev:'content/vocabulary/v01-vocab-23.md', next:'content/vocabulary/v02-vocab-01.md' },
+  // v02-vocab (30)
+  'content/vocabulary/v02-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:1, total:30, prev:'content/vocabulary/v01-vocab-24.md', next:'content/vocabulary/v02-vocab-02.md' },
+  'content/vocabulary/v02-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:2, total:30, prev:'content/vocabulary/v02-vocab-01.md', next:'content/vocabulary/v02-vocab-03.md' },
+  'content/vocabulary/v02-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:3, total:30, prev:'content/vocabulary/v02-vocab-02.md', next:'content/vocabulary/v02-vocab-04.md' },
+  'content/vocabulary/v02-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:4, total:30, prev:'content/vocabulary/v02-vocab-03.md', next:'content/vocabulary/v02-vocab-05.md' },
+  'content/vocabulary/v02-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:5, total:30, prev:'content/vocabulary/v02-vocab-04.md', next:'content/vocabulary/v02-vocab-06.md' },
+  'content/vocabulary/v02-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:6, total:30, prev:'content/vocabulary/v02-vocab-05.md', next:'content/vocabulary/v02-vocab-07.md' },
+  'content/vocabulary/v02-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:7, total:30, prev:'content/vocabulary/v02-vocab-06.md', next:'content/vocabulary/v02-vocab-08.md' },
+  'content/vocabulary/v02-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:8, total:30, prev:'content/vocabulary/v02-vocab-07.md', next:'content/vocabulary/v02-vocab-09.md' },
+  'content/vocabulary/v02-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:9, total:30, prev:'content/vocabulary/v02-vocab-08.md', next:'content/vocabulary/v02-vocab-10.md' },
+  'content/vocabulary/v02-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:10, total:30, prev:'content/vocabulary/v02-vocab-09.md', next:'content/vocabulary/v02-vocab-11.md' },
+  'content/vocabulary/v02-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:11, total:30, prev:'content/vocabulary/v02-vocab-10.md', next:'content/vocabulary/v02-vocab-12.md' },
+  'content/vocabulary/v02-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:12, total:30, prev:'content/vocabulary/v02-vocab-11.md', next:'content/vocabulary/v02-vocab-13.md' },
+  'content/vocabulary/v02-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:13, total:30, prev:'content/vocabulary/v02-vocab-12.md', next:'content/vocabulary/v02-vocab-14.md' },
+  'content/vocabulary/v02-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:14, total:30, prev:'content/vocabulary/v02-vocab-13.md', next:'content/vocabulary/v02-vocab-15.md' },
+  'content/vocabulary/v02-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:15, total:30, prev:'content/vocabulary/v02-vocab-14.md', next:'content/vocabulary/v02-vocab-16.md' },
+  'content/vocabulary/v02-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:16, total:30, prev:'content/vocabulary/v02-vocab-15.md', next:'content/vocabulary/v02-vocab-17.md' },
+  'content/vocabulary/v02-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:17, total:30, prev:'content/vocabulary/v02-vocab-16.md', next:'content/vocabulary/v02-vocab-18.md' },
+  'content/vocabulary/v02-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:18, total:30, prev:'content/vocabulary/v02-vocab-17.md', next:'content/vocabulary/v02-vocab-19.md' },
+  'content/vocabulary/v02-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:19, total:30, prev:'content/vocabulary/v02-vocab-18.md', next:'content/vocabulary/v02-vocab-20.md' },
+  'content/vocabulary/v02-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:20, total:30, prev:'content/vocabulary/v02-vocab-19.md', next:'content/vocabulary/v02-vocab-21.md' },
+  'content/vocabulary/v02-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:21, total:30, prev:'content/vocabulary/v02-vocab-20.md', next:'content/vocabulary/v02-vocab-22.md' },
+  'content/vocabulary/v02-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:22, total:30, prev:'content/vocabulary/v02-vocab-21.md', next:'content/vocabulary/v02-vocab-23.md' },
+  'content/vocabulary/v02-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:23, total:30, prev:'content/vocabulary/v02-vocab-22.md', next:'content/vocabulary/v02-vocab-24.md' },
+  'content/vocabulary/v02-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:24, total:30, prev:'content/vocabulary/v02-vocab-23.md', next:'content/vocabulary/v02-vocab-25.md' },
+  'content/vocabulary/v02-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:25, total:30, prev:'content/vocabulary/v02-vocab-24.md', next:'content/vocabulary/v02-vocab-26.md' },
+  'content/vocabulary/v02-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:26, total:30, prev:'content/vocabulary/v02-vocab-25.md', next:'content/vocabulary/v02-vocab-27.md' },
+  'content/vocabulary/v02-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:27, total:30, prev:'content/vocabulary/v02-vocab-26.md', next:'content/vocabulary/v02-vocab-28.md' },
+  'content/vocabulary/v02-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:28, total:30, prev:'content/vocabulary/v02-vocab-27.md', next:'content/vocabulary/v02-vocab-29.md' },
+  'content/vocabulary/v02-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:29, total:30, prev:'content/vocabulary/v02-vocab-28.md', next:'content/vocabulary/v02-vocab-30.md' },
+  'content/vocabulary/v02-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Front Desk Operations', section:30, total:30, prev:'content/vocabulary/v02-vocab-29.md', next:'content/vocabulary/v03-vocab-01.md' },
+  // v03-vocab (30)
+  'content/vocabulary/v03-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:1, total:30, prev:'content/vocabulary/v02-vocab-30.md', next:'content/vocabulary/v03-vocab-02.md' },
+  'content/vocabulary/v03-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:2, total:30, prev:'content/vocabulary/v03-vocab-01.md', next:'content/vocabulary/v03-vocab-03.md' },
+  'content/vocabulary/v03-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:3, total:30, prev:'content/vocabulary/v03-vocab-02.md', next:'content/vocabulary/v03-vocab-04.md' },
+  'content/vocabulary/v03-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:4, total:30, prev:'content/vocabulary/v03-vocab-03.md', next:'content/vocabulary/v03-vocab-05.md' },
+  'content/vocabulary/v03-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:5, total:30, prev:'content/vocabulary/v03-vocab-04.md', next:'content/vocabulary/v03-vocab-06.md' },
+  'content/vocabulary/v03-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:6, total:30, prev:'content/vocabulary/v03-vocab-05.md', next:'content/vocabulary/v03-vocab-07.md' },
+  'content/vocabulary/v03-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:7, total:30, prev:'content/vocabulary/v03-vocab-06.md', next:'content/vocabulary/v03-vocab-08.md' },
+  'content/vocabulary/v03-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:8, total:30, prev:'content/vocabulary/v03-vocab-07.md', next:'content/vocabulary/v03-vocab-09.md' },
+  'content/vocabulary/v03-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:9, total:30, prev:'content/vocabulary/v03-vocab-08.md', next:'content/vocabulary/v03-vocab-10.md' },
+  'content/vocabulary/v03-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:10, total:30, prev:'content/vocabulary/v03-vocab-09.md', next:'content/vocabulary/v03-vocab-11.md' },
+  'content/vocabulary/v03-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:11, total:30, prev:'content/vocabulary/v03-vocab-10.md', next:'content/vocabulary/v03-vocab-12.md' },
+  'content/vocabulary/v03-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:12, total:30, prev:'content/vocabulary/v03-vocab-11.md', next:'content/vocabulary/v03-vocab-13.md' },
+  'content/vocabulary/v03-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:13, total:30, prev:'content/vocabulary/v03-vocab-12.md', next:'content/vocabulary/v03-vocab-14.md' },
+  'content/vocabulary/v03-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:14, total:30, prev:'content/vocabulary/v03-vocab-13.md', next:'content/vocabulary/v03-vocab-15.md' },
+  'content/vocabulary/v03-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:15, total:30, prev:'content/vocabulary/v03-vocab-14.md', next:'content/vocabulary/v03-vocab-16.md' },
+  'content/vocabulary/v03-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:16, total:30, prev:'content/vocabulary/v03-vocab-15.md', next:'content/vocabulary/v03-vocab-17.md' },
+  'content/vocabulary/v03-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:17, total:30, prev:'content/vocabulary/v03-vocab-16.md', next:'content/vocabulary/v03-vocab-18.md' },
+  'content/vocabulary/v03-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:18, total:30, prev:'content/vocabulary/v03-vocab-17.md', next:'content/vocabulary/v03-vocab-19.md' },
+  'content/vocabulary/v03-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:19, total:30, prev:'content/vocabulary/v03-vocab-18.md', next:'content/vocabulary/v03-vocab-20.md' },
+  'content/vocabulary/v03-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:20, total:30, prev:'content/vocabulary/v03-vocab-19.md', next:'content/vocabulary/v03-vocab-21.md' },
+  'content/vocabulary/v03-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:21, total:30, prev:'content/vocabulary/v03-vocab-20.md', next:'content/vocabulary/v03-vocab-22.md' },
+  'content/vocabulary/v03-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:22, total:30, prev:'content/vocabulary/v03-vocab-21.md', next:'content/vocabulary/v03-vocab-23.md' },
+  'content/vocabulary/v03-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:23, total:30, prev:'content/vocabulary/v03-vocab-22.md', next:'content/vocabulary/v03-vocab-24.md' },
+  'content/vocabulary/v03-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:24, total:30, prev:'content/vocabulary/v03-vocab-23.md', next:'content/vocabulary/v03-vocab-25.md' },
+  'content/vocabulary/v03-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:25, total:30, prev:'content/vocabulary/v03-vocab-24.md', next:'content/vocabulary/v03-vocab-26.md' },
+  'content/vocabulary/v03-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:26, total:30, prev:'content/vocabulary/v03-vocab-25.md', next:'content/vocabulary/v03-vocab-27.md' },
+  'content/vocabulary/v03-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:27, total:30, prev:'content/vocabulary/v03-vocab-26.md', next:'content/vocabulary/v03-vocab-28.md' },
+  'content/vocabulary/v03-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:28, total:30, prev:'content/vocabulary/v03-vocab-27.md', next:'content/vocabulary/v03-vocab-29.md' },
+  'content/vocabulary/v03-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:29, total:30, prev:'content/vocabulary/v03-vocab-28.md', next:'content/vocabulary/v03-vocab-30.md' },
+  'content/vocabulary/v03-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Guest Room Services', section:30, total:30, prev:'content/vocabulary/v03-vocab-29.md', next:'content/vocabulary/v04-vocab-01.md' },
+  // v04-vocab (20)
+  'content/vocabulary/v04-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:1, total:20, prev:'content/vocabulary/v03-vocab-30.md', next:'content/vocabulary/v04-vocab-02.md' },
+  'content/vocabulary/v04-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:2, total:20, prev:'content/vocabulary/v04-vocab-01.md', next:'content/vocabulary/v04-vocab-03.md' },
+  'content/vocabulary/v04-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:3, total:20, prev:'content/vocabulary/v04-vocab-02.md', next:'content/vocabulary/v04-vocab-04.md' },
+  'content/vocabulary/v04-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:4, total:20, prev:'content/vocabulary/v04-vocab-03.md', next:'content/vocabulary/v04-vocab-05.md' },
+  'content/vocabulary/v04-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:5, total:20, prev:'content/vocabulary/v04-vocab-04.md', next:'content/vocabulary/v04-vocab-06.md' },
+  'content/vocabulary/v04-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:6, total:20, prev:'content/vocabulary/v04-vocab-05.md', next:'content/vocabulary/v04-vocab-07.md' },
+  'content/vocabulary/v04-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:7, total:20, prev:'content/vocabulary/v04-vocab-06.md', next:'content/vocabulary/v04-vocab-08.md' },
+  'content/vocabulary/v04-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:8, total:20, prev:'content/vocabulary/v04-vocab-07.md', next:'content/vocabulary/v04-vocab-09.md' },
+  'content/vocabulary/v04-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:9, total:20, prev:'content/vocabulary/v04-vocab-08.md', next:'content/vocabulary/v04-vocab-10.md' },
+  'content/vocabulary/v04-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:10, total:20, prev:'content/vocabulary/v04-vocab-09.md', next:'content/vocabulary/v04-vocab-11.md' },
+  'content/vocabulary/v04-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:11, total:20, prev:'content/vocabulary/v04-vocab-10.md', next:'content/vocabulary/v04-vocab-12.md' },
+  'content/vocabulary/v04-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:12, total:20, prev:'content/vocabulary/v04-vocab-11.md', next:'content/vocabulary/v04-vocab-13.md' },
+  'content/vocabulary/v04-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:13, total:20, prev:'content/vocabulary/v04-vocab-12.md', next:'content/vocabulary/v04-vocab-14.md' },
+  'content/vocabulary/v04-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:14, total:20, prev:'content/vocabulary/v04-vocab-13.md', next:'content/vocabulary/v04-vocab-15.md' },
+  'content/vocabulary/v04-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:15, total:20, prev:'content/vocabulary/v04-vocab-14.md', next:'content/vocabulary/v04-vocab-16.md' },
+  'content/vocabulary/v04-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:16, total:20, prev:'content/vocabulary/v04-vocab-15.md', next:'content/vocabulary/v04-vocab-17.md' },
+  'content/vocabulary/v04-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:17, total:20, prev:'content/vocabulary/v04-vocab-16.md', next:'content/vocabulary/v04-vocab-18.md' },
+  'content/vocabulary/v04-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:18, total:20, prev:'content/vocabulary/v04-vocab-17.md', next:'content/vocabulary/v04-vocab-19.md' },
+  'content/vocabulary/v04-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:19, total:20, prev:'content/vocabulary/v04-vocab-18.md', next:'content/vocabulary/v04-vocab-20.md' },
+  'content/vocabulary/v04-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Housekeeping', section:20, total:20, prev:'content/vocabulary/v04-vocab-19.md', next:'content/vocabulary/v05-vocab-01.md' },
+  // v05-vocab (20)
+  'content/vocabulary/v05-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:1, total:20, prev:'content/vocabulary/v04-vocab-20.md', next:'content/vocabulary/v05-vocab-02.md' },
+  'content/vocabulary/v05-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:2, total:20, prev:'content/vocabulary/v05-vocab-01.md', next:'content/vocabulary/v05-vocab-03.md' },
+  'content/vocabulary/v05-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:3, total:20, prev:'content/vocabulary/v05-vocab-02.md', next:'content/vocabulary/v05-vocab-04.md' },
+  'content/vocabulary/v05-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:4, total:20, prev:'content/vocabulary/v05-vocab-03.md', next:'content/vocabulary/v05-vocab-05.md' },
+  'content/vocabulary/v05-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:5, total:20, prev:'content/vocabulary/v05-vocab-04.md', next:'content/vocabulary/v05-vocab-06.md' },
+  'content/vocabulary/v05-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:6, total:20, prev:'content/vocabulary/v05-vocab-05.md', next:'content/vocabulary/v05-vocab-07.md' },
+  'content/vocabulary/v05-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:7, total:20, prev:'content/vocabulary/v05-vocab-06.md', next:'content/vocabulary/v05-vocab-08.md' },
+  'content/vocabulary/v05-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:8, total:20, prev:'content/vocabulary/v05-vocab-07.md', next:'content/vocabulary/v05-vocab-09.md' },
+  'content/vocabulary/v05-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:9, total:20, prev:'content/vocabulary/v05-vocab-08.md', next:'content/vocabulary/v05-vocab-10.md' },
+  'content/vocabulary/v05-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:10, total:20, prev:'content/vocabulary/v05-vocab-09.md', next:'content/vocabulary/v05-vocab-11.md' },
+  'content/vocabulary/v05-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:11, total:20, prev:'content/vocabulary/v05-vocab-10.md', next:'content/vocabulary/v05-vocab-12.md' },
+  'content/vocabulary/v05-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:12, total:20, prev:'content/vocabulary/v05-vocab-11.md', next:'content/vocabulary/v05-vocab-13.md' },
+  'content/vocabulary/v05-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:13, total:20, prev:'content/vocabulary/v05-vocab-12.md', next:'content/vocabulary/v05-vocab-14.md' },
+  'content/vocabulary/v05-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:14, total:20, prev:'content/vocabulary/v05-vocab-13.md', next:'content/vocabulary/v05-vocab-15.md' },
+  'content/vocabulary/v05-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:15, total:20, prev:'content/vocabulary/v05-vocab-14.md', next:'content/vocabulary/v05-vocab-16.md' },
+  'content/vocabulary/v05-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:16, total:20, prev:'content/vocabulary/v05-vocab-15.md', next:'content/vocabulary/v05-vocab-17.md' },
+  'content/vocabulary/v05-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:17, total:20, prev:'content/vocabulary/v05-vocab-16.md', next:'content/vocabulary/v05-vocab-18.md' },
+  'content/vocabulary/v05-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:18, total:20, prev:'content/vocabulary/v05-vocab-17.md', next:'content/vocabulary/v05-vocab-19.md' },
+  'content/vocabulary/v05-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:19, total:20, prev:'content/vocabulary/v05-vocab-18.md', next:'content/vocabulary/v05-vocab-20.md' },
+  'content/vocabulary/v05-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Restaurant & F&B Service', section:20, total:20, prev:'content/vocabulary/v05-vocab-19.md', next:'content/vocabulary/v06-vocab-01.md' },
+  // v06-vocab (25)
+  'content/vocabulary/v06-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:1, total:25, prev:'content/vocabulary/v05-vocab-20.md', next:'content/vocabulary/v06-vocab-02.md' },
+  'content/vocabulary/v06-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:2, total:25, prev:'content/vocabulary/v06-vocab-01.md', next:'content/vocabulary/v06-vocab-03.md' },
+  'content/vocabulary/v06-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:3, total:25, prev:'content/vocabulary/v06-vocab-02.md', next:'content/vocabulary/v06-vocab-04.md' },
+  'content/vocabulary/v06-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:4, total:25, prev:'content/vocabulary/v06-vocab-03.md', next:'content/vocabulary/v06-vocab-05.md' },
+  'content/vocabulary/v06-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:5, total:25, prev:'content/vocabulary/v06-vocab-04.md', next:'content/vocabulary/v06-vocab-06.md' },
+  'content/vocabulary/v06-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:6, total:25, prev:'content/vocabulary/v06-vocab-05.md', next:'content/vocabulary/v06-vocab-07.md' },
+  'content/vocabulary/v06-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:7, total:25, prev:'content/vocabulary/v06-vocab-06.md', next:'content/vocabulary/v06-vocab-08.md' },
+  'content/vocabulary/v06-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:8, total:25, prev:'content/vocabulary/v06-vocab-07.md', next:'content/vocabulary/v06-vocab-09.md' },
+  'content/vocabulary/v06-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:9, total:25, prev:'content/vocabulary/v06-vocab-08.md', next:'content/vocabulary/v06-vocab-10.md' },
+  'content/vocabulary/v06-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:10, total:25, prev:'content/vocabulary/v06-vocab-09.md', next:'content/vocabulary/v06-vocab-11.md' },
+  'content/vocabulary/v06-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:11, total:25, prev:'content/vocabulary/v06-vocab-10.md', next:'content/vocabulary/v06-vocab-12.md' },
+  'content/vocabulary/v06-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:12, total:25, prev:'content/vocabulary/v06-vocab-11.md', next:'content/vocabulary/v06-vocab-13.md' },
+  'content/vocabulary/v06-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:13, total:25, prev:'content/vocabulary/v06-vocab-12.md', next:'content/vocabulary/v06-vocab-14.md' },
+  'content/vocabulary/v06-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:14, total:25, prev:'content/vocabulary/v06-vocab-13.md', next:'content/vocabulary/v06-vocab-15.md' },
+  'content/vocabulary/v06-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:15, total:25, prev:'content/vocabulary/v06-vocab-14.md', next:'content/vocabulary/v06-vocab-16.md' },
+  'content/vocabulary/v06-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:16, total:25, prev:'content/vocabulary/v06-vocab-15.md', next:'content/vocabulary/v06-vocab-17.md' },
+  'content/vocabulary/v06-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:17, total:25, prev:'content/vocabulary/v06-vocab-16.md', next:'content/vocabulary/v06-vocab-18.md' },
+  'content/vocabulary/v06-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:18, total:25, prev:'content/vocabulary/v06-vocab-17.md', next:'content/vocabulary/v06-vocab-19.md' },
+  'content/vocabulary/v06-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:19, total:25, prev:'content/vocabulary/v06-vocab-18.md', next:'content/vocabulary/v06-vocab-20.md' },
+  'content/vocabulary/v06-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:20, total:25, prev:'content/vocabulary/v06-vocab-19.md', next:'content/vocabulary/v06-vocab-21.md' },
+  'content/vocabulary/v06-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:21, total:25, prev:'content/vocabulary/v06-vocab-20.md', next:'content/vocabulary/v06-vocab-22.md' },
+  'content/vocabulary/v06-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:22, total:25, prev:'content/vocabulary/v06-vocab-21.md', next:'content/vocabulary/v06-vocab-23.md' },
+  'content/vocabulary/v06-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:23, total:25, prev:'content/vocabulary/v06-vocab-22.md', next:'content/vocabulary/v06-vocab-24.md' },
+  'content/vocabulary/v06-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:24, total:25, prev:'content/vocabulary/v06-vocab-23.md', next:'content/vocabulary/v06-vocab-25.md' },
+  'content/vocabulary/v06-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Guest Requests & Problem Solving', section:25, total:25, prev:'content/vocabulary/v06-vocab-24.md', next:'content/vocabulary/v07-vocab-01.md' },
+  // v07-vocab (10)
+  'content/vocabulary/v07-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:1, total:10, prev:'content/vocabulary/v06-vocab-25.md', next:'content/vocabulary/v07-vocab-02.md' },
+  'content/vocabulary/v07-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:2, total:10, prev:'content/vocabulary/v07-vocab-01.md', next:'content/vocabulary/v07-vocab-03.md' },
+  'content/vocabulary/v07-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:3, total:10, prev:'content/vocabulary/v07-vocab-02.md', next:'content/vocabulary/v07-vocab-04.md' },
+  'content/vocabulary/v07-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:4, total:10, prev:'content/vocabulary/v07-vocab-03.md', next:'content/vocabulary/v07-vocab-05.md' },
+  'content/vocabulary/v07-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:5, total:10, prev:'content/vocabulary/v07-vocab-04.md', next:'content/vocabulary/v07-vocab-06.md' },
+  'content/vocabulary/v07-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:6, total:10, prev:'content/vocabulary/v07-vocab-05.md', next:'content/vocabulary/v07-vocab-07.md' },
+  'content/vocabulary/v07-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:7, total:10, prev:'content/vocabulary/v07-vocab-06.md', next:'content/vocabulary/v07-vocab-08.md' },
+  'content/vocabulary/v07-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:8, total:10, prev:'content/vocabulary/v07-vocab-07.md', next:'content/vocabulary/v07-vocab-09.md' },
+  'content/vocabulary/v07-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:9, total:10, prev:'content/vocabulary/v07-vocab-08.md', next:'content/vocabulary/v07-vocab-10.md' },
+  'content/vocabulary/v07-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Essential Vocabulary', section:10, total:10, prev:'content/vocabulary/v07-vocab-09.md', next:'content/vocabulary/v08-vocab-01.md' },
+  // v08-vocab (40)
+  'content/vocabulary/v08-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:1, total:40, prev:'content/vocabulary/v07-vocab-10.md', next:'content/vocabulary/v08-vocab-02.md' },
+  'content/vocabulary/v08-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:2, total:40, prev:'content/vocabulary/v08-vocab-01.md', next:'content/vocabulary/v08-vocab-03.md' },
+  'content/vocabulary/v08-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:3, total:40, prev:'content/vocabulary/v08-vocab-02.md', next:'content/vocabulary/v08-vocab-04.md' },
+  'content/vocabulary/v08-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:4, total:40, prev:'content/vocabulary/v08-vocab-03.md', next:'content/vocabulary/v08-vocab-05.md' },
+  'content/vocabulary/v08-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:5, total:40, prev:'content/vocabulary/v08-vocab-04.md', next:'content/vocabulary/v08-vocab-06.md' },
+  'content/vocabulary/v08-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:6, total:40, prev:'content/vocabulary/v08-vocab-05.md', next:'content/vocabulary/v08-vocab-07.md' },
+  'content/vocabulary/v08-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:7, total:40, prev:'content/vocabulary/v08-vocab-06.md', next:'content/vocabulary/v08-vocab-08.md' },
+  'content/vocabulary/v08-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:8, total:40, prev:'content/vocabulary/v08-vocab-07.md', next:'content/vocabulary/v08-vocab-09.md' },
+  'content/vocabulary/v08-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:9, total:40, prev:'content/vocabulary/v08-vocab-08.md', next:'content/vocabulary/v08-vocab-10.md' },
+  'content/vocabulary/v08-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:10, total:40, prev:'content/vocabulary/v08-vocab-09.md', next:'content/vocabulary/v08-vocab-11.md' },
+  'content/vocabulary/v08-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:11, total:40, prev:'content/vocabulary/v08-vocab-10.md', next:'content/vocabulary/v08-vocab-12.md' },
+  'content/vocabulary/v08-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:12, total:40, prev:'content/vocabulary/v08-vocab-11.md', next:'content/vocabulary/v08-vocab-13.md' },
+  'content/vocabulary/v08-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:13, total:40, prev:'content/vocabulary/v08-vocab-12.md', next:'content/vocabulary/v08-vocab-14.md' },
+  'content/vocabulary/v08-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:14, total:40, prev:'content/vocabulary/v08-vocab-13.md', next:'content/vocabulary/v08-vocab-15.md' },
+  'content/vocabulary/v08-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:15, total:40, prev:'content/vocabulary/v08-vocab-14.md', next:'content/vocabulary/v08-vocab-16.md' },
+  'content/vocabulary/v08-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:16, total:40, prev:'content/vocabulary/v08-vocab-15.md', next:'content/vocabulary/v08-vocab-17.md' },
+  'content/vocabulary/v08-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:17, total:40, prev:'content/vocabulary/v08-vocab-16.md', next:'content/vocabulary/v08-vocab-18.md' },
+  'content/vocabulary/v08-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:18, total:40, prev:'content/vocabulary/v08-vocab-17.md', next:'content/vocabulary/v08-vocab-19.md' },
+  'content/vocabulary/v08-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:19, total:40, prev:'content/vocabulary/v08-vocab-18.md', next:'content/vocabulary/v08-vocab-20.md' },
+  'content/vocabulary/v08-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:20, total:40, prev:'content/vocabulary/v08-vocab-19.md', next:'content/vocabulary/v08-vocab-21.md' },
+  'content/vocabulary/v08-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:21, total:40, prev:'content/vocabulary/v08-vocab-20.md', next:'content/vocabulary/v08-vocab-22.md' },
+  'content/vocabulary/v08-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:22, total:40, prev:'content/vocabulary/v08-vocab-21.md', next:'content/vocabulary/v08-vocab-23.md' },
+  'content/vocabulary/v08-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:23, total:40, prev:'content/vocabulary/v08-vocab-22.md', next:'content/vocabulary/v08-vocab-24.md' },
+  'content/vocabulary/v08-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:24, total:40, prev:'content/vocabulary/v08-vocab-23.md', next:'content/vocabulary/v08-vocab-25.md' },
+  'content/vocabulary/v08-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:25, total:40, prev:'content/vocabulary/v08-vocab-24.md', next:'content/vocabulary/v08-vocab-26.md' },
+  'content/vocabulary/v08-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:26, total:40, prev:'content/vocabulary/v08-vocab-25.md', next:'content/vocabulary/v08-vocab-27.md' },
+  'content/vocabulary/v08-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:27, total:40, prev:'content/vocabulary/v08-vocab-26.md', next:'content/vocabulary/v08-vocab-28.md' },
+  'content/vocabulary/v08-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:28, total:40, prev:'content/vocabulary/v08-vocab-27.md', next:'content/vocabulary/v08-vocab-29.md' },
+  'content/vocabulary/v08-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:29, total:40, prev:'content/vocabulary/v08-vocab-28.md', next:'content/vocabulary/v08-vocab-30.md' },
+  'content/vocabulary/v08-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:30, total:40, prev:'content/vocabulary/v08-vocab-29.md', next:'content/vocabulary/v08-vocab-31.md' },
+  'content/vocabulary/v08-vocab-31.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:31, total:40, prev:'content/vocabulary/v08-vocab-30.md', next:'content/vocabulary/v08-vocab-32.md' },
+  'content/vocabulary/v08-vocab-32.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:32, total:40, prev:'content/vocabulary/v08-vocab-31.md', next:'content/vocabulary/v08-vocab-33.md' },
+  'content/vocabulary/v08-vocab-33.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:33, total:40, prev:'content/vocabulary/v08-vocab-32.md', next:'content/vocabulary/v08-vocab-34.md' },
+  'content/vocabulary/v08-vocab-34.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:34, total:40, prev:'content/vocabulary/v08-vocab-33.md', next:'content/vocabulary/v08-vocab-35.md' },
+  'content/vocabulary/v08-vocab-35.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:35, total:40, prev:'content/vocabulary/v08-vocab-34.md', next:'content/vocabulary/v08-vocab-36.md' },
+  'content/vocabulary/v08-vocab-36.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:36, total:40, prev:'content/vocabulary/v08-vocab-35.md', next:'content/vocabulary/v08-vocab-37.md' },
+  'content/vocabulary/v08-vocab-37.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:37, total:40, prev:'content/vocabulary/v08-vocab-36.md', next:'content/vocabulary/v08-vocab-38.md' },
+  'content/vocabulary/v08-vocab-38.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:38, total:40, prev:'content/vocabulary/v08-vocab-37.md', next:'content/vocabulary/v08-vocab-39.md' },
+  'content/vocabulary/v08-vocab-39.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:39, total:40, prev:'content/vocabulary/v08-vocab-38.md', next:'content/vocabulary/v08-vocab-40.md' },
+  'content/vocabulary/v08-vocab-40.md': { module:'Vocabulary & Language Skills', lesson:'Directions & Navigation', section:40, total:40, prev:'content/vocabulary/v08-vocab-39.md', next:'content/vocabulary/v09-vocab-01.md' },
+  // v09-vocab (40)
+  'content/vocabulary/v09-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:1, total:40, prev:'content/vocabulary/v08-vocab-40.md', next:'content/vocabulary/v09-vocab-02.md' },
+  'content/vocabulary/v09-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:2, total:40, prev:'content/vocabulary/v09-vocab-01.md', next:'content/vocabulary/v09-vocab-03.md' },
+  'content/vocabulary/v09-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:3, total:40, prev:'content/vocabulary/v09-vocab-02.md', next:'content/vocabulary/v09-vocab-04.md' },
+  'content/vocabulary/v09-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:4, total:40, prev:'content/vocabulary/v09-vocab-03.md', next:'content/vocabulary/v09-vocab-05.md' },
+  'content/vocabulary/v09-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:5, total:40, prev:'content/vocabulary/v09-vocab-04.md', next:'content/vocabulary/v09-vocab-06.md' },
+  'content/vocabulary/v09-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:6, total:40, prev:'content/vocabulary/v09-vocab-05.md', next:'content/vocabulary/v09-vocab-07.md' },
+  'content/vocabulary/v09-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:7, total:40, prev:'content/vocabulary/v09-vocab-06.md', next:'content/vocabulary/v09-vocab-08.md' },
+  'content/vocabulary/v09-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:8, total:40, prev:'content/vocabulary/v09-vocab-07.md', next:'content/vocabulary/v09-vocab-09.md' },
+  'content/vocabulary/v09-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:9, total:40, prev:'content/vocabulary/v09-vocab-08.md', next:'content/vocabulary/v09-vocab-10.md' },
+  'content/vocabulary/v09-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:10, total:40, prev:'content/vocabulary/v09-vocab-09.md', next:'content/vocabulary/v09-vocab-11.md' },
+  'content/vocabulary/v09-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:11, total:40, prev:'content/vocabulary/v09-vocab-10.md', next:'content/vocabulary/v09-vocab-12.md' },
+  'content/vocabulary/v09-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:12, total:40, prev:'content/vocabulary/v09-vocab-11.md', next:'content/vocabulary/v09-vocab-13.md' },
+  'content/vocabulary/v09-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:13, total:40, prev:'content/vocabulary/v09-vocab-12.md', next:'content/vocabulary/v09-vocab-14.md' },
+  'content/vocabulary/v09-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:14, total:40, prev:'content/vocabulary/v09-vocab-13.md', next:'content/vocabulary/v09-vocab-15.md' },
+  'content/vocabulary/v09-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:15, total:40, prev:'content/vocabulary/v09-vocab-14.md', next:'content/vocabulary/v09-vocab-16.md' },
+  'content/vocabulary/v09-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:16, total:40, prev:'content/vocabulary/v09-vocab-15.md', next:'content/vocabulary/v09-vocab-17.md' },
+  'content/vocabulary/v09-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:17, total:40, prev:'content/vocabulary/v09-vocab-16.md', next:'content/vocabulary/v09-vocab-18.md' },
+  'content/vocabulary/v09-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:18, total:40, prev:'content/vocabulary/v09-vocab-17.md', next:'content/vocabulary/v09-vocab-19.md' },
+  'content/vocabulary/v09-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:19, total:40, prev:'content/vocabulary/v09-vocab-18.md', next:'content/vocabulary/v09-vocab-20.md' },
+  'content/vocabulary/v09-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:20, total:40, prev:'content/vocabulary/v09-vocab-19.md', next:'content/vocabulary/v09-vocab-21.md' },
+  'content/vocabulary/v09-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:21, total:40, prev:'content/vocabulary/v09-vocab-20.md', next:'content/vocabulary/v09-vocab-22.md' },
+  'content/vocabulary/v09-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:22, total:40, prev:'content/vocabulary/v09-vocab-21.md', next:'content/vocabulary/v09-vocab-23.md' },
+  'content/vocabulary/v09-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:23, total:40, prev:'content/vocabulary/v09-vocab-22.md', next:'content/vocabulary/v09-vocab-24.md' },
+  'content/vocabulary/v09-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:24, total:40, prev:'content/vocabulary/v09-vocab-23.md', next:'content/vocabulary/v09-vocab-25.md' },
+  'content/vocabulary/v09-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:25, total:40, prev:'content/vocabulary/v09-vocab-24.md', next:'content/vocabulary/v09-vocab-26.md' },
+  'content/vocabulary/v09-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:26, total:40, prev:'content/vocabulary/v09-vocab-25.md', next:'content/vocabulary/v09-vocab-27.md' },
+  'content/vocabulary/v09-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:27, total:40, prev:'content/vocabulary/v09-vocab-26.md', next:'content/vocabulary/v09-vocab-28.md' },
+  'content/vocabulary/v09-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:28, total:40, prev:'content/vocabulary/v09-vocab-27.md', next:'content/vocabulary/v09-vocab-29.md' },
+  'content/vocabulary/v09-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:29, total:40, prev:'content/vocabulary/v09-vocab-28.md', next:'content/vocabulary/v09-vocab-30.md' },
+  'content/vocabulary/v09-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:30, total:40, prev:'content/vocabulary/v09-vocab-29.md', next:'content/vocabulary/v09-vocab-31.md' },
+  'content/vocabulary/v09-vocab-31.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:31, total:40, prev:'content/vocabulary/v09-vocab-30.md', next:'content/vocabulary/v09-vocab-32.md' },
+  'content/vocabulary/v09-vocab-32.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:32, total:40, prev:'content/vocabulary/v09-vocab-31.md', next:'content/vocabulary/v09-vocab-33.md' },
+  'content/vocabulary/v09-vocab-33.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:33, total:40, prev:'content/vocabulary/v09-vocab-32.md', next:'content/vocabulary/v09-vocab-34.md' },
+  'content/vocabulary/v09-vocab-34.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:34, total:40, prev:'content/vocabulary/v09-vocab-33.md', next:'content/vocabulary/v09-vocab-35.md' },
+  'content/vocabulary/v09-vocab-35.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:35, total:40, prev:'content/vocabulary/v09-vocab-34.md', next:'content/vocabulary/v09-vocab-36.md' },
+  'content/vocabulary/v09-vocab-36.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:36, total:40, prev:'content/vocabulary/v09-vocab-35.md', next:'content/vocabulary/v09-vocab-37.md' },
+  'content/vocabulary/v09-vocab-37.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:37, total:40, prev:'content/vocabulary/v09-vocab-36.md', next:'content/vocabulary/v09-vocab-38.md' },
+  'content/vocabulary/v09-vocab-38.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:38, total:40, prev:'content/vocabulary/v09-vocab-37.md', next:'content/vocabulary/v09-vocab-39.md' },
+  'content/vocabulary/v09-vocab-39.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:39, total:40, prev:'content/vocabulary/v09-vocab-38.md', next:'content/vocabulary/v09-vocab-40.md' },
+  'content/vocabulary/v09-vocab-40.md': { module:'Vocabulary & Language Skills', lesson:'Reservations & Scheduling', section:40, total:40, prev:'content/vocabulary/v09-vocab-39.md', next:'content/vocabulary/v10-vocab-01.md' },
+  // v10-vocab (40)
+  'content/vocabulary/v10-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:1, total:40, prev:'content/vocabulary/v09-vocab-40.md', next:'content/vocabulary/v10-vocab-02.md' },
+  'content/vocabulary/v10-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:2, total:40, prev:'content/vocabulary/v10-vocab-01.md', next:'content/vocabulary/v10-vocab-03.md' },
+  'content/vocabulary/v10-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:3, total:40, prev:'content/vocabulary/v10-vocab-02.md', next:'content/vocabulary/v10-vocab-04.md' },
+  'content/vocabulary/v10-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:4, total:40, prev:'content/vocabulary/v10-vocab-03.md', next:'content/vocabulary/v10-vocab-05.md' },
+  'content/vocabulary/v10-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:5, total:40, prev:'content/vocabulary/v10-vocab-04.md', next:'content/vocabulary/v10-vocab-06.md' },
+  'content/vocabulary/v10-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:6, total:40, prev:'content/vocabulary/v10-vocab-05.md', next:'content/vocabulary/v10-vocab-07.md' },
+  'content/vocabulary/v10-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:7, total:40, prev:'content/vocabulary/v10-vocab-06.md', next:'content/vocabulary/v10-vocab-08.md' },
+  'content/vocabulary/v10-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:8, total:40, prev:'content/vocabulary/v10-vocab-07.md', next:'content/vocabulary/v10-vocab-09.md' },
+  'content/vocabulary/v10-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:9, total:40, prev:'content/vocabulary/v10-vocab-08.md', next:'content/vocabulary/v10-vocab-10.md' },
+  'content/vocabulary/v10-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:10, total:40, prev:'content/vocabulary/v10-vocab-09.md', next:'content/vocabulary/v10-vocab-11.md' },
+  'content/vocabulary/v10-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:11, total:40, prev:'content/vocabulary/v10-vocab-10.md', next:'content/vocabulary/v10-vocab-12.md' },
+  'content/vocabulary/v10-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:12, total:40, prev:'content/vocabulary/v10-vocab-11.md', next:'content/vocabulary/v10-vocab-13.md' },
+  'content/vocabulary/v10-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:13, total:40, prev:'content/vocabulary/v10-vocab-12.md', next:'content/vocabulary/v10-vocab-14.md' },
+  'content/vocabulary/v10-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:14, total:40, prev:'content/vocabulary/v10-vocab-13.md', next:'content/vocabulary/v10-vocab-15.md' },
+  'content/vocabulary/v10-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:15, total:40, prev:'content/vocabulary/v10-vocab-14.md', next:'content/vocabulary/v10-vocab-16.md' },
+  'content/vocabulary/v10-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:16, total:40, prev:'content/vocabulary/v10-vocab-15.md', next:'content/vocabulary/v10-vocab-17.md' },
+  'content/vocabulary/v10-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:17, total:40, prev:'content/vocabulary/v10-vocab-16.md', next:'content/vocabulary/v10-vocab-18.md' },
+  'content/vocabulary/v10-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:18, total:40, prev:'content/vocabulary/v10-vocab-17.md', next:'content/vocabulary/v10-vocab-19.md' },
+  'content/vocabulary/v10-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:19, total:40, prev:'content/vocabulary/v10-vocab-18.md', next:'content/vocabulary/v10-vocab-20.md' },
+  'content/vocabulary/v10-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:20, total:40, prev:'content/vocabulary/v10-vocab-19.md', next:'content/vocabulary/v10-vocab-21.md' },
+  'content/vocabulary/v10-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:21, total:40, prev:'content/vocabulary/v10-vocab-20.md', next:'content/vocabulary/v10-vocab-22.md' },
+  'content/vocabulary/v10-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:22, total:40, prev:'content/vocabulary/v10-vocab-21.md', next:'content/vocabulary/v10-vocab-23.md' },
+  'content/vocabulary/v10-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:23, total:40, prev:'content/vocabulary/v10-vocab-22.md', next:'content/vocabulary/v10-vocab-24.md' },
+  'content/vocabulary/v10-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:24, total:40, prev:'content/vocabulary/v10-vocab-23.md', next:'content/vocabulary/v10-vocab-25.md' },
+  'content/vocabulary/v10-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:25, total:40, prev:'content/vocabulary/v10-vocab-24.md', next:'content/vocabulary/v10-vocab-26.md' },
+  'content/vocabulary/v10-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:26, total:40, prev:'content/vocabulary/v10-vocab-25.md', next:'content/vocabulary/v10-vocab-27.md' },
+  'content/vocabulary/v10-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:27, total:40, prev:'content/vocabulary/v10-vocab-26.md', next:'content/vocabulary/v10-vocab-28.md' },
+  'content/vocabulary/v10-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:28, total:40, prev:'content/vocabulary/v10-vocab-27.md', next:'content/vocabulary/v10-vocab-29.md' },
+  'content/vocabulary/v10-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:29, total:40, prev:'content/vocabulary/v10-vocab-28.md', next:'content/vocabulary/v10-vocab-30.md' },
+  'content/vocabulary/v10-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:30, total:40, prev:'content/vocabulary/v10-vocab-29.md', next:'content/vocabulary/v10-vocab-31.md' },
+  'content/vocabulary/v10-vocab-31.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:31, total:40, prev:'content/vocabulary/v10-vocab-30.md', next:'content/vocabulary/v10-vocab-32.md' },
+  'content/vocabulary/v10-vocab-32.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:32, total:40, prev:'content/vocabulary/v10-vocab-31.md', next:'content/vocabulary/v10-vocab-33.md' },
+  'content/vocabulary/v10-vocab-33.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:33, total:40, prev:'content/vocabulary/v10-vocab-32.md', next:'content/vocabulary/v10-vocab-34.md' },
+  'content/vocabulary/v10-vocab-34.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:34, total:40, prev:'content/vocabulary/v10-vocab-33.md', next:'content/vocabulary/v10-vocab-35.md' },
+  'content/vocabulary/v10-vocab-35.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:35, total:40, prev:'content/vocabulary/v10-vocab-34.md', next:'content/vocabulary/v10-vocab-36.md' },
+  'content/vocabulary/v10-vocab-36.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:36, total:40, prev:'content/vocabulary/v10-vocab-35.md', next:'content/vocabulary/v10-vocab-37.md' },
+  'content/vocabulary/v10-vocab-37.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:37, total:40, prev:'content/vocabulary/v10-vocab-36.md', next:'content/vocabulary/v10-vocab-38.md' },
+  'content/vocabulary/v10-vocab-38.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:38, total:40, prev:'content/vocabulary/v10-vocab-37.md', next:'content/vocabulary/v10-vocab-39.md' },
+  'content/vocabulary/v10-vocab-39.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:39, total:40, prev:'content/vocabulary/v10-vocab-38.md', next:'content/vocabulary/v10-vocab-40.md' },
+  'content/vocabulary/v10-vocab-40.md': { module:'Vocabulary & Language Skills', lesson:'Payments & Accounting', section:40, total:40, prev:'content/vocabulary/v10-vocab-39.md', next:'content/vocabulary/v11-vocab-01.md' },
+  // v11-vocab (40)
+  'content/vocabulary/v11-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:1, total:40, prev:'content/vocabulary/v10-vocab-40.md', next:'content/vocabulary/v11-vocab-02.md' },
+  'content/vocabulary/v11-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:2, total:40, prev:'content/vocabulary/v11-vocab-01.md', next:'content/vocabulary/v11-vocab-03.md' },
+  'content/vocabulary/v11-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:3, total:40, prev:'content/vocabulary/v11-vocab-02.md', next:'content/vocabulary/v11-vocab-04.md' },
+  'content/vocabulary/v11-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:4, total:40, prev:'content/vocabulary/v11-vocab-03.md', next:'content/vocabulary/v11-vocab-05.md' },
+  'content/vocabulary/v11-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:5, total:40, prev:'content/vocabulary/v11-vocab-04.md', next:'content/vocabulary/v11-vocab-06.md' },
+  'content/vocabulary/v11-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:6, total:40, prev:'content/vocabulary/v11-vocab-05.md', next:'content/vocabulary/v11-vocab-07.md' },
+  'content/vocabulary/v11-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:7, total:40, prev:'content/vocabulary/v11-vocab-06.md', next:'content/vocabulary/v11-vocab-08.md' },
+  'content/vocabulary/v11-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:8, total:40, prev:'content/vocabulary/v11-vocab-07.md', next:'content/vocabulary/v11-vocab-09.md' },
+  'content/vocabulary/v11-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:9, total:40, prev:'content/vocabulary/v11-vocab-08.md', next:'content/vocabulary/v11-vocab-10.md' },
+  'content/vocabulary/v11-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:10, total:40, prev:'content/vocabulary/v11-vocab-09.md', next:'content/vocabulary/v11-vocab-11.md' },
+  'content/vocabulary/v11-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:11, total:40, prev:'content/vocabulary/v11-vocab-10.md', next:'content/vocabulary/v11-vocab-12.md' },
+  'content/vocabulary/v11-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:12, total:40, prev:'content/vocabulary/v11-vocab-11.md', next:'content/vocabulary/v11-vocab-13.md' },
+  'content/vocabulary/v11-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:13, total:40, prev:'content/vocabulary/v11-vocab-12.md', next:'content/vocabulary/v11-vocab-14.md' },
+  'content/vocabulary/v11-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:14, total:40, prev:'content/vocabulary/v11-vocab-13.md', next:'content/vocabulary/v11-vocab-15.md' },
+  'content/vocabulary/v11-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:15, total:40, prev:'content/vocabulary/v11-vocab-14.md', next:'content/vocabulary/v11-vocab-16.md' },
+  'content/vocabulary/v11-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:16, total:40, prev:'content/vocabulary/v11-vocab-15.md', next:'content/vocabulary/v11-vocab-17.md' },
+  'content/vocabulary/v11-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:17, total:40, prev:'content/vocabulary/v11-vocab-16.md', next:'content/vocabulary/v11-vocab-18.md' },
+  'content/vocabulary/v11-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:18, total:40, prev:'content/vocabulary/v11-vocab-17.md', next:'content/vocabulary/v11-vocab-19.md' },
+  'content/vocabulary/v11-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:19, total:40, prev:'content/vocabulary/v11-vocab-18.md', next:'content/vocabulary/v11-vocab-20.md' },
+  'content/vocabulary/v11-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:20, total:40, prev:'content/vocabulary/v11-vocab-19.md', next:'content/vocabulary/v11-vocab-21.md' },
+  'content/vocabulary/v11-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:21, total:40, prev:'content/vocabulary/v11-vocab-20.md', next:'content/vocabulary/v11-vocab-22.md' },
+  'content/vocabulary/v11-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:22, total:40, prev:'content/vocabulary/v11-vocab-21.md', next:'content/vocabulary/v11-vocab-23.md' },
+  'content/vocabulary/v11-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:23, total:40, prev:'content/vocabulary/v11-vocab-22.md', next:'content/vocabulary/v11-vocab-24.md' },
+  'content/vocabulary/v11-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:24, total:40, prev:'content/vocabulary/v11-vocab-23.md', next:'content/vocabulary/v11-vocab-25.md' },
+  'content/vocabulary/v11-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:25, total:40, prev:'content/vocabulary/v11-vocab-24.md', next:'content/vocabulary/v11-vocab-26.md' },
+  'content/vocabulary/v11-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:26, total:40, prev:'content/vocabulary/v11-vocab-25.md', next:'content/vocabulary/v11-vocab-27.md' },
+  'content/vocabulary/v11-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:27, total:40, prev:'content/vocabulary/v11-vocab-26.md', next:'content/vocabulary/v11-vocab-28.md' },
+  'content/vocabulary/v11-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:28, total:40, prev:'content/vocabulary/v11-vocab-27.md', next:'content/vocabulary/v11-vocab-29.md' },
+  'content/vocabulary/v11-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:29, total:40, prev:'content/vocabulary/v11-vocab-28.md', next:'content/vocabulary/v11-vocab-30.md' },
+  'content/vocabulary/v11-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:30, total:40, prev:'content/vocabulary/v11-vocab-29.md', next:'content/vocabulary/v11-vocab-31.md' },
+  'content/vocabulary/v11-vocab-31.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:31, total:40, prev:'content/vocabulary/v11-vocab-30.md', next:'content/vocabulary/v11-vocab-32.md' },
+  'content/vocabulary/v11-vocab-32.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:32, total:40, prev:'content/vocabulary/v11-vocab-31.md', next:'content/vocabulary/v11-vocab-33.md' },
+  'content/vocabulary/v11-vocab-33.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:33, total:40, prev:'content/vocabulary/v11-vocab-32.md', next:'content/vocabulary/v11-vocab-34.md' },
+  'content/vocabulary/v11-vocab-34.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:34, total:40, prev:'content/vocabulary/v11-vocab-33.md', next:'content/vocabulary/v11-vocab-35.md' },
+  'content/vocabulary/v11-vocab-35.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:35, total:40, prev:'content/vocabulary/v11-vocab-34.md', next:'content/vocabulary/v11-vocab-36.md' },
+  'content/vocabulary/v11-vocab-36.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:36, total:40, prev:'content/vocabulary/v11-vocab-35.md', next:'content/vocabulary/v11-vocab-37.md' },
+  'content/vocabulary/v11-vocab-37.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:37, total:40, prev:'content/vocabulary/v11-vocab-36.md', next:'content/vocabulary/v11-vocab-38.md' },
+  'content/vocabulary/v11-vocab-38.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:38, total:40, prev:'content/vocabulary/v11-vocab-37.md', next:'content/vocabulary/v11-vocab-39.md' },
+  'content/vocabulary/v11-vocab-39.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:39, total:40, prev:'content/vocabulary/v11-vocab-38.md', next:'content/vocabulary/v11-vocab-40.md' },
+  'content/vocabulary/v11-vocab-40.md': { module:'Vocabulary & Language Skills', lesson:'Phone & Communication', section:40, total:40, prev:'content/vocabulary/v11-vocab-39.md', next:'content/vocabulary/v12-vocab-01.md' },
+  // v12-vocab (30)
+  'content/vocabulary/v12-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:1, total:30, prev:'content/vocabulary/v11-vocab-40.md', next:'content/vocabulary/v12-vocab-02.md' },
+  'content/vocabulary/v12-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:2, total:30, prev:'content/vocabulary/v12-vocab-01.md', next:'content/vocabulary/v12-vocab-03.md' },
+  'content/vocabulary/v12-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:3, total:30, prev:'content/vocabulary/v12-vocab-02.md', next:'content/vocabulary/v12-vocab-04.md' },
+  'content/vocabulary/v12-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:4, total:30, prev:'content/vocabulary/v12-vocab-03.md', next:'content/vocabulary/v12-vocab-05.md' },
+  'content/vocabulary/v12-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:5, total:30, prev:'content/vocabulary/v12-vocab-04.md', next:'content/vocabulary/v12-vocab-06.md' },
+  'content/vocabulary/v12-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:6, total:30, prev:'content/vocabulary/v12-vocab-05.md', next:'content/vocabulary/v12-vocab-07.md' },
+  'content/vocabulary/v12-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:7, total:30, prev:'content/vocabulary/v12-vocab-06.md', next:'content/vocabulary/v12-vocab-08.md' },
+  'content/vocabulary/v12-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:8, total:30, prev:'content/vocabulary/v12-vocab-07.md', next:'content/vocabulary/v12-vocab-09.md' },
+  'content/vocabulary/v12-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:9, total:30, prev:'content/vocabulary/v12-vocab-08.md', next:'content/vocabulary/v12-vocab-10.md' },
+  'content/vocabulary/v12-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:10, total:30, prev:'content/vocabulary/v12-vocab-09.md', next:'content/vocabulary/v12-vocab-11.md' },
+  'content/vocabulary/v12-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:11, total:30, prev:'content/vocabulary/v12-vocab-10.md', next:'content/vocabulary/v12-vocab-12.md' },
+  'content/vocabulary/v12-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:12, total:30, prev:'content/vocabulary/v12-vocab-11.md', next:'content/vocabulary/v12-vocab-13.md' },
+  'content/vocabulary/v12-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:13, total:30, prev:'content/vocabulary/v12-vocab-12.md', next:'content/vocabulary/v12-vocab-14.md' },
+  'content/vocabulary/v12-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:14, total:30, prev:'content/vocabulary/v12-vocab-13.md', next:'content/vocabulary/v12-vocab-15.md' },
+  'content/vocabulary/v12-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:15, total:30, prev:'content/vocabulary/v12-vocab-14.md', next:'content/vocabulary/v12-vocab-16.md' },
+  'content/vocabulary/v12-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:16, total:30, prev:'content/vocabulary/v12-vocab-15.md', next:'content/vocabulary/v12-vocab-17.md' },
+  'content/vocabulary/v12-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:17, total:30, prev:'content/vocabulary/v12-vocab-16.md', next:'content/vocabulary/v12-vocab-18.md' },
+  'content/vocabulary/v12-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:18, total:30, prev:'content/vocabulary/v12-vocab-17.md', next:'content/vocabulary/v12-vocab-19.md' },
+  'content/vocabulary/v12-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:19, total:30, prev:'content/vocabulary/v12-vocab-18.md', next:'content/vocabulary/v12-vocab-20.md' },
+  'content/vocabulary/v12-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:20, total:30, prev:'content/vocabulary/v12-vocab-19.md', next:'content/vocabulary/v12-vocab-21.md' },
+  'content/vocabulary/v12-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:21, total:30, prev:'content/vocabulary/v12-vocab-20.md', next:'content/vocabulary/v12-vocab-22.md' },
+  'content/vocabulary/v12-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:22, total:30, prev:'content/vocabulary/v12-vocab-21.md', next:'content/vocabulary/v12-vocab-23.md' },
+  'content/vocabulary/v12-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:23, total:30, prev:'content/vocabulary/v12-vocab-22.md', next:'content/vocabulary/v12-vocab-24.md' },
+  'content/vocabulary/v12-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:24, total:30, prev:'content/vocabulary/v12-vocab-23.md', next:'content/vocabulary/v12-vocab-25.md' },
+  'content/vocabulary/v12-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:25, total:30, prev:'content/vocabulary/v12-vocab-24.md', next:'content/vocabulary/v12-vocab-26.md' },
+  'content/vocabulary/v12-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:26, total:30, prev:'content/vocabulary/v12-vocab-25.md', next:'content/vocabulary/v12-vocab-27.md' },
+  'content/vocabulary/v12-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:27, total:30, prev:'content/vocabulary/v12-vocab-26.md', next:'content/vocabulary/v12-vocab-28.md' },
+  'content/vocabulary/v12-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:28, total:30, prev:'content/vocabulary/v12-vocab-27.md', next:'content/vocabulary/v12-vocab-29.md' },
+  'content/vocabulary/v12-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:29, total:30, prev:'content/vocabulary/v12-vocab-28.md', next:'content/vocabulary/v12-vocab-30.md' },
+  'content/vocabulary/v12-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Safety & Emergency', section:30, total:30, prev:'content/vocabulary/v12-vocab-29.md', next:'content/vocabulary/v13-vocab-01.md' },
+  // v13-vocab (30)
+  'content/vocabulary/v13-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:1, total:30, prev:'content/vocabulary/v12-vocab-30.md', next:'content/vocabulary/v13-vocab-02.md' },
+  'content/vocabulary/v13-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:2, total:30, prev:'content/vocabulary/v13-vocab-01.md', next:'content/vocabulary/v13-vocab-03.md' },
+  'content/vocabulary/v13-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:3, total:30, prev:'content/vocabulary/v13-vocab-02.md', next:'content/vocabulary/v13-vocab-04.md' },
+  'content/vocabulary/v13-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:4, total:30, prev:'content/vocabulary/v13-vocab-03.md', next:'content/vocabulary/v13-vocab-05.md' },
+  'content/vocabulary/v13-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:5, total:30, prev:'content/vocabulary/v13-vocab-04.md', next:'content/vocabulary/v13-vocab-06.md' },
+  'content/vocabulary/v13-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:6, total:30, prev:'content/vocabulary/v13-vocab-05.md', next:'content/vocabulary/v13-vocab-07.md' },
+  'content/vocabulary/v13-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:7, total:30, prev:'content/vocabulary/v13-vocab-06.md', next:'content/vocabulary/v13-vocab-08.md' },
+  'content/vocabulary/v13-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:8, total:30, prev:'content/vocabulary/v13-vocab-07.md', next:'content/vocabulary/v13-vocab-09.md' },
+  'content/vocabulary/v13-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:9, total:30, prev:'content/vocabulary/v13-vocab-08.md', next:'content/vocabulary/v13-vocab-10.md' },
+  'content/vocabulary/v13-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:10, total:30, prev:'content/vocabulary/v13-vocab-09.md', next:'content/vocabulary/v13-vocab-11.md' },
+  'content/vocabulary/v13-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:11, total:30, prev:'content/vocabulary/v13-vocab-10.md', next:'content/vocabulary/v13-vocab-12.md' },
+  'content/vocabulary/v13-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:12, total:30, prev:'content/vocabulary/v13-vocab-11.md', next:'content/vocabulary/v13-vocab-13.md' },
+  'content/vocabulary/v13-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:13, total:30, prev:'content/vocabulary/v13-vocab-12.md', next:'content/vocabulary/v13-vocab-14.md' },
+  'content/vocabulary/v13-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:14, total:30, prev:'content/vocabulary/v13-vocab-13.md', next:'content/vocabulary/v13-vocab-15.md' },
+  'content/vocabulary/v13-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:15, total:30, prev:'content/vocabulary/v13-vocab-14.md', next:'content/vocabulary/v13-vocab-16.md' },
+  'content/vocabulary/v13-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:16, total:30, prev:'content/vocabulary/v13-vocab-15.md', next:'content/vocabulary/v13-vocab-17.md' },
+  'content/vocabulary/v13-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:17, total:30, prev:'content/vocabulary/v13-vocab-16.md', next:'content/vocabulary/v13-vocab-18.md' },
+  'content/vocabulary/v13-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:18, total:30, prev:'content/vocabulary/v13-vocab-17.md', next:'content/vocabulary/v13-vocab-19.md' },
+  'content/vocabulary/v13-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:19, total:30, prev:'content/vocabulary/v13-vocab-18.md', next:'content/vocabulary/v13-vocab-20.md' },
+  'content/vocabulary/v13-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:20, total:30, prev:'content/vocabulary/v13-vocab-19.md', next:'content/vocabulary/v13-vocab-21.md' },
+  'content/vocabulary/v13-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:21, total:30, prev:'content/vocabulary/v13-vocab-20.md', next:'content/vocabulary/v13-vocab-22.md' },
+  'content/vocabulary/v13-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:22, total:30, prev:'content/vocabulary/v13-vocab-21.md', next:'content/vocabulary/v13-vocab-23.md' },
+  'content/vocabulary/v13-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:23, total:30, prev:'content/vocabulary/v13-vocab-22.md', next:'content/vocabulary/v13-vocab-24.md' },
+  'content/vocabulary/v13-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:24, total:30, prev:'content/vocabulary/v13-vocab-23.md', next:'content/vocabulary/v13-vocab-25.md' },
+  'content/vocabulary/v13-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:25, total:30, prev:'content/vocabulary/v13-vocab-24.md', next:'content/vocabulary/v13-vocab-26.md' },
+  'content/vocabulary/v13-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:26, total:30, prev:'content/vocabulary/v13-vocab-25.md', next:'content/vocabulary/v13-vocab-27.md' },
+  'content/vocabulary/v13-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:27, total:30, prev:'content/vocabulary/v13-vocab-26.md', next:'content/vocabulary/v13-vocab-28.md' },
+  'content/vocabulary/v13-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:28, total:30, prev:'content/vocabulary/v13-vocab-27.md', next:'content/vocabulary/v13-vocab-29.md' },
+  'content/vocabulary/v13-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:29, total:30, prev:'content/vocabulary/v13-vocab-28.md', next:'content/vocabulary/v13-vocab-30.md' },
+  'content/vocabulary/v13-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Staff & Operations', section:30, total:30, prev:'content/vocabulary/v13-vocab-29.md', next:'content/vocabulary/v14-vocab-01.md' },
+  // v14-vocab (30)
+  'content/vocabulary/v14-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:1, total:30, prev:'content/vocabulary/v13-vocab-30.md', next:'content/vocabulary/v14-vocab-02.md' },
+  'content/vocabulary/v14-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:2, total:30, prev:'content/vocabulary/v14-vocab-01.md', next:'content/vocabulary/v14-vocab-03.md' },
+  'content/vocabulary/v14-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:3, total:30, prev:'content/vocabulary/v14-vocab-02.md', next:'content/vocabulary/v14-vocab-04.md' },
+  'content/vocabulary/v14-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:4, total:30, prev:'content/vocabulary/v14-vocab-03.md', next:'content/vocabulary/v14-vocab-05.md' },
+  'content/vocabulary/v14-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:5, total:30, prev:'content/vocabulary/v14-vocab-04.md', next:'content/vocabulary/v14-vocab-06.md' },
+  'content/vocabulary/v14-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:6, total:30, prev:'content/vocabulary/v14-vocab-05.md', next:'content/vocabulary/v14-vocab-07.md' },
+  'content/vocabulary/v14-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:7, total:30, prev:'content/vocabulary/v14-vocab-06.md', next:'content/vocabulary/v14-vocab-08.md' },
+  'content/vocabulary/v14-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:8, total:30, prev:'content/vocabulary/v14-vocab-07.md', next:'content/vocabulary/v14-vocab-09.md' },
+  'content/vocabulary/v14-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:9, total:30, prev:'content/vocabulary/v14-vocab-08.md', next:'content/vocabulary/v14-vocab-10.md' },
+  'content/vocabulary/v14-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:10, total:30, prev:'content/vocabulary/v14-vocab-09.md', next:'content/vocabulary/v14-vocab-11.md' },
+  'content/vocabulary/v14-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:11, total:30, prev:'content/vocabulary/v14-vocab-10.md', next:'content/vocabulary/v14-vocab-12.md' },
+  'content/vocabulary/v14-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:12, total:30, prev:'content/vocabulary/v14-vocab-11.md', next:'content/vocabulary/v14-vocab-13.md' },
+  'content/vocabulary/v14-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:13, total:30, prev:'content/vocabulary/v14-vocab-12.md', next:'content/vocabulary/v14-vocab-14.md' },
+  'content/vocabulary/v14-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:14, total:30, prev:'content/vocabulary/v14-vocab-13.md', next:'content/vocabulary/v14-vocab-15.md' },
+  'content/vocabulary/v14-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:15, total:30, prev:'content/vocabulary/v14-vocab-14.md', next:'content/vocabulary/v14-vocab-16.md' },
+  'content/vocabulary/v14-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:16, total:30, prev:'content/vocabulary/v14-vocab-15.md', next:'content/vocabulary/v14-vocab-17.md' },
+  'content/vocabulary/v14-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:17, total:30, prev:'content/vocabulary/v14-vocab-16.md', next:'content/vocabulary/v14-vocab-18.md' },
+  'content/vocabulary/v14-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:18, total:30, prev:'content/vocabulary/v14-vocab-17.md', next:'content/vocabulary/v14-vocab-19.md' },
+  'content/vocabulary/v14-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:19, total:30, prev:'content/vocabulary/v14-vocab-18.md', next:'content/vocabulary/v14-vocab-20.md' },
+  'content/vocabulary/v14-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:20, total:30, prev:'content/vocabulary/v14-vocab-19.md', next:'content/vocabulary/v14-vocab-21.md' },
+  'content/vocabulary/v14-vocab-21.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:21, total:30, prev:'content/vocabulary/v14-vocab-20.md', next:'content/vocabulary/v14-vocab-22.md' },
+  'content/vocabulary/v14-vocab-22.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:22, total:30, prev:'content/vocabulary/v14-vocab-21.md', next:'content/vocabulary/v14-vocab-23.md' },
+  'content/vocabulary/v14-vocab-23.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:23, total:30, prev:'content/vocabulary/v14-vocab-22.md', next:'content/vocabulary/v14-vocab-24.md' },
+  'content/vocabulary/v14-vocab-24.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:24, total:30, prev:'content/vocabulary/v14-vocab-23.md', next:'content/vocabulary/v14-vocab-25.md' },
+  'content/vocabulary/v14-vocab-25.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:25, total:30, prev:'content/vocabulary/v14-vocab-24.md', next:'content/vocabulary/v14-vocab-26.md' },
+  'content/vocabulary/v14-vocab-26.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:26, total:30, prev:'content/vocabulary/v14-vocab-25.md', next:'content/vocabulary/v14-vocab-27.md' },
+  'content/vocabulary/v14-vocab-27.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:27, total:30, prev:'content/vocabulary/v14-vocab-26.md', next:'content/vocabulary/v14-vocab-28.md' },
+  'content/vocabulary/v14-vocab-28.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:28, total:30, prev:'content/vocabulary/v14-vocab-27.md', next:'content/vocabulary/v14-vocab-29.md' },
+  'content/vocabulary/v14-vocab-29.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:29, total:30, prev:'content/vocabulary/v14-vocab-28.md', next:'content/vocabulary/v14-vocab-30.md' },
+  'content/vocabulary/v14-vocab-30.md': { module:'Vocabulary & Language Skills', lesson:'Tourism and Travel', section:30, total:30, prev:'content/vocabulary/v14-vocab-29.md', next:'content/vocabulary/v15-vocab-01.md' },
+  // v15-vocab (20)
+  'content/vocabulary/v15-vocab-01.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:1, total:20, prev:'content/vocabulary/v14-vocab-30.md', next:'content/vocabulary/v15-vocab-02.md' },
+  'content/vocabulary/v15-vocab-02.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:2, total:20, prev:'content/vocabulary/v15-vocab-01.md', next:'content/vocabulary/v15-vocab-03.md' },
+  'content/vocabulary/v15-vocab-03.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:3, total:20, prev:'content/vocabulary/v15-vocab-02.md', next:'content/vocabulary/v15-vocab-04.md' },
+  'content/vocabulary/v15-vocab-04.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:4, total:20, prev:'content/vocabulary/v15-vocab-03.md', next:'content/vocabulary/v15-vocab-05.md' },
+  'content/vocabulary/v15-vocab-05.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:5, total:20, prev:'content/vocabulary/v15-vocab-04.md', next:'content/vocabulary/v15-vocab-06.md' },
+  'content/vocabulary/v15-vocab-06.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:6, total:20, prev:'content/vocabulary/v15-vocab-05.md', next:'content/vocabulary/v15-vocab-07.md' },
+  'content/vocabulary/v15-vocab-07.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:7, total:20, prev:'content/vocabulary/v15-vocab-06.md', next:'content/vocabulary/v15-vocab-08.md' },
+  'content/vocabulary/v15-vocab-08.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:8, total:20, prev:'content/vocabulary/v15-vocab-07.md', next:'content/vocabulary/v15-vocab-09.md' },
+  'content/vocabulary/v15-vocab-09.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:9, total:20, prev:'content/vocabulary/v15-vocab-08.md', next:'content/vocabulary/v15-vocab-10.md' },
+  'content/vocabulary/v15-vocab-10.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:10, total:20, prev:'content/vocabulary/v15-vocab-09.md', next:'content/vocabulary/v15-vocab-11.md' },
+  'content/vocabulary/v15-vocab-11.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:11, total:20, prev:'content/vocabulary/v15-vocab-10.md', next:'content/vocabulary/v15-vocab-12.md' },
+  'content/vocabulary/v15-vocab-12.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:12, total:20, prev:'content/vocabulary/v15-vocab-11.md', next:'content/vocabulary/v15-vocab-13.md' },
+  'content/vocabulary/v15-vocab-13.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:13, total:20, prev:'content/vocabulary/v15-vocab-12.md', next:'content/vocabulary/v15-vocab-14.md' },
+  'content/vocabulary/v15-vocab-14.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:14, total:20, prev:'content/vocabulary/v15-vocab-13.md', next:'content/vocabulary/v15-vocab-15.md' },
+  'content/vocabulary/v15-vocab-15.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:15, total:20, prev:'content/vocabulary/v15-vocab-14.md', next:'content/vocabulary/v15-vocab-16.md' },
+  'content/vocabulary/v15-vocab-16.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:16, total:20, prev:'content/vocabulary/v15-vocab-15.md', next:'content/vocabulary/v15-vocab-17.md' },
+  'content/vocabulary/v15-vocab-17.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:17, total:20, prev:'content/vocabulary/v15-vocab-16.md', next:'content/vocabulary/v15-vocab-18.md' },
+  'content/vocabulary/v15-vocab-18.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:18, total:20, prev:'content/vocabulary/v15-vocab-17.md', next:'content/vocabulary/v15-vocab-19.md' },
+  'content/vocabulary/v15-vocab-19.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:19, total:20, prev:'content/vocabulary/v15-vocab-18.md', next:'content/vocabulary/v15-vocab-20.md' },
+  'content/vocabulary/v15-vocab-20.md': { module:'Vocabulary & Language Skills', lesson:'Laundry & Additional Services', section:20, total:20, prev:'content/vocabulary/v15-vocab-19.md', next:null },
+};
+
+// ── QUIZ RENDERER ─────────────────────────────────────────────────────────────
+function renderQuiz(meta) {
+  if (!meta) return '';
+  const { type, q, opts, correct, exp, answer, answers, a } = meta;
+  const qId = 'q_' + Math.random().toString(36).slice(2);
+
+  if (type === 'mcq') {
+    const optHtml = opts.map((o, i) => {
+      const letter = String.fromCharCode(65 + i);
+      return `<div class="quiz-opt" data-i="${i}" onclick="selectOpt(this,'${qId}')">
+        <span class="quiz-opt-letter">${letter}</span>${o}
+      </div>`;
+    }).join('');
+    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    return `<div class="section-quiz">
+      <div class="quiz-label">Quiz</div>
+      <div class="quiz-q">${q}</div>
+      <div class="quiz-options" id="${qId}-opts">${optHtml}</div>
+      <button class="quiz-check" id="${qId}-btn" onclick="checkMCQ('${qId}',${correct},'${expEsc}')" disabled>Check Answer</button>
+      <div class="quiz-feedback" id="${qId}-fb"></div>
+    </div>`;
+  }
+  if (type === 'tf') {
+    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    return `<div class="section-quiz">
+      <div class="quiz-label">True / False</div>
+      <div class="quiz-q">${q}</div>
+      <div class="tf-options">
+        <button class="tf-btn" onclick="checkTF(this,true,${correct},'${expEsc}')">True</button>
+        <button class="tf-btn" onclick="checkTF(this,false,${correct},'${expEsc}')">False</button>
+      </div>
+      <div class="quiz-feedback" id="${qId}-fb"></div>
+    </div>`;
+  }
+  if (type === 'fitb') {
+    const ansEsc = answer.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    const extras = JSON.stringify(answers || []);
+    return `<div class="section-quiz">
+      <div class="quiz-label">Fill in the Blank</div>
+      <div class="quiz-q">${q}</div>
+      <input class="fitb-input" id="${qId}-input" type="text" placeholder="Type your answer…" autocomplete="off">
+      <button class="quiz-check" onclick="checkFITB('${qId}','${ansEsc}','${expEsc}',${extras})">Check Answer</button>
+      <div class="quiz-feedback" id="${qId}-fb"></div>
+    </div>`;
+  }
+  if (type === 'short') {
+    const aEsc = (a || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    return `<div class="section-quiz">
+      <div class="quiz-label">Short Answer</div>
+      <div class="quiz-q">${q}</div>
+      <textarea class="short-input" id="${qId}-input" placeholder="Write your answer here…"></textarea>
+      <button class="quiz-check" onclick="showModel('${qId}','${aEsc}','${expEsc}')">Show Model Answer</button>
+      <div class="model-answer" id="${qId}-ma"></div>
+    </div>`;
+  }
+  return '';
+}
+
+// ── COMPLETION MODAL ─────────────────────────────────────────────────────────
+function showCompletionModal() {
+  // Save completion to localStorage so curriculum.html can track progress
+  const file = new URLSearchParams(location.search).get('file') || '';
+  const m = file.match(/\/([^/]+)-(\d+)\.md$/);
+  if (m) localStorage.setItem('omotenashi:' + m[1] + ':' + parseInt(m[2], 10), '1');
+  document.getElementById('modalOverlay').classList.add('open');
+}
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+}
+document.addEventListener('keydown', e => {
+  if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
+    if (document.getElementById('modalOverlay').classList.contains('open')) {
+      window.location.href = window._nextUrl || 'curriculum.html';
+    }
+  }
+  if (e.key === 'Escape') closeModal();
+});
+
+// ── QUIZ INTERACTION ──────────────────────────────────────────────────────────
+function selectOpt(el, qId) {
+  document.querySelectorAll(`#${qId}-opts .quiz-opt`).forEach(o => o.classList.remove('selected'));
+  el.classList.add('selected');
+  document.getElementById(qId + '-btn').disabled = false;
+}
+function checkMCQ(qId, correct, exp) {
+  const opts = document.querySelectorAll(`#${qId}-opts .quiz-opt`);
+  let sel = -1;
+  opts.forEach((o, i) => { if (o.classList.contains('selected')) sel = i; });
+  if (sel < 0) return;
+  const fb = document.getElementById(qId + '-fb');
+  fb.style.display = 'block';
+  if (sel === correct) {
+    opts[correct].classList.add('correct');
+    document.getElementById(qId + '-btn').disabled = true;
+    fb.className = 'quiz-feedback ok';
+    fb.textContent = '✓ Correct! ' + exp;
+    setTimeout(showCompletionModal, 600);
+  } else {
+    opts[sel].classList.add('wrong');
+    fb.className = 'quiz-feedback err';
+    fb.textContent = '✗ Incorrect. Try again.';
+    opts[sel].classList.remove('wrong', 'selected');
+    document.getElementById(qId + '-btn').disabled = false;
+  }
+}
+function checkTF(btn, val, correct, exp) {
+  const fb = btn.closest('.section-quiz').querySelector('.quiz-feedback');
+  const allBtns = btn.closest('.tf-options').querySelectorAll('.tf-btn');
+  fb.style.display = 'block';
+  if (val === correct) {
+    allBtns.forEach(b => b.disabled = true);
+    btn.classList.add('correct');
+    fb.className = 'quiz-feedback ok';
+    fb.textContent = '✓ Correct! ' + exp;
+    setTimeout(showCompletionModal, 600);
+  } else {
+    btn.classList.add('wrong');
+    fb.className = 'quiz-feedback err';
+    fb.textContent = '✗ Incorrect. Try again.';
+    setTimeout(() => {
+      btn.classList.remove('wrong');
+      fb.style.display = 'none';
+    }, 800);
+  }
+}
+function checkFITB(qId, answer, exp, extras) {
+  const input = document.getElementById(qId + '-input');
+  const fb = document.getElementById(qId + '-fb');
+  const val = input.value.trim();
+  if (!val) return;
+  const accepted = [answer, ...(extras || [])];
+  const romajiMatch = exp.match(/\(([a-zA-Z][^)]*)\)/);
+  if (romajiMatch) accepted.push(romajiMatch[1].trim());
+  const ok = accepted.some(a => val === a || val.toLowerCase() === a.toLowerCase());
+  fb.style.display = 'block';
+  if (ok) {
+    input.disabled = true;
+    fb.className = 'quiz-feedback ok';
+    fb.textContent = '✓ Correct! ' + exp;
+    setTimeout(showCompletionModal, 600);
+  } else {
+    fb.className = 'quiz-feedback err';
+    fb.textContent = '✗ Incorrect. Try again.';
+  }
+}
+function showModel(qId, a, exp) {
+  const ma = document.getElementById(qId + '-ma');
+  ma.style.display = 'block';
+  ma.innerHTML = `<strong>Model Answer</strong>${a}<br><br>${exp}`;
+  setTimeout(showCompletionModal, 600);
+}
+
+// ── JAPANESE TTS ──────────────────────────────────────────────────────────────
+let _toastTimer = null;
+let _activeSpeakEl = null;
+
+function speakJapanese(text, el) {
+  if (!text) return;
+  speechSynthesis.cancel();
+
+  if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); }
+  _activeSpeakEl = el || null;
+  if (_activeSpeakEl) _activeSpeakEl.classList.add('speaking');
+
+  const toast = document.getElementById('jp-toast');
+  document.getElementById('jp-toast-text').textContent = text;
+  toast.classList.add('show');
+  clearTimeout(_toastTimer);
+
+  // Chrome needs a small delay after cancel() before speak()
+  setTimeout(() => {
+    const utt = new SpeechSynthesisUtterance(text);
+    utt.lang = 'ja-JP';
+    utt.rate  = _jaVoiceParams ? _jaVoiceParams.rate  : 0.90;
+    utt.pitch = _jaVoiceParams ? _jaVoiceParams.pitch : 1.0;
+    if (_jaVoice) utt.voice = _jaVoice;
+
+    utt.onend = () => {
+      if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
+      _toastTimer = setTimeout(() => toast.classList.remove('show'), 800);
+    };
+    utt.onerror = () => {
+      if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
+      toast.classList.remove('show');
+    };
+    speechSynthesis.speak(utt);
+  }, 50);
+}
+
+// Event delegation — one listener handles all .jp-word clicks
+document.addEventListener('click', e => {
+  const w = e.target.closest('.jp-word');
+  if (w) speakJapanese(w.textContent.trim(), w);
+});
+
+// Wrap Japanese character runs in .section-body with clickable spans
+function wrapJapanese(root) {
+  const JP_RE = /([\u3040-\u9FFF\uFF00-\uFFEF]+)/g;
+
+  // Recursive walk — collect text nodes safely before mutating
+  function collectTextNodes(node, acc) {
+    if (node.nodeType === 3) { acc.push(node); return; }
+    if (node.nodeType !== 1) return;
+    const tag = node.tagName;
+    if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'CODE' || tag === 'PRE') return;
+    node.childNodes.forEach(c => collectTextNodes(c, acc));
+  }
+  const textNodes = [];
+  collectTextNodes(root, textNodes);
+
+  textNodes.forEach(tn => {
+    const text = tn.textContent;
+    if (!JP_RE.test(text)) { JP_RE.lastIndex = 0; return; }
+    JP_RE.lastIndex = 0;
+
+    const frag = document.createDocumentFragment();
+    let last = 0, m;
+    while ((m = JP_RE.exec(text)) !== null) {
+      if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+      const span = document.createElement('span');
+      span.className = 'jp-word';
+      span.textContent = m[0];             // text captured at this iteration
+      span.title = 'クリックで発音を聞く';
+      frag.appendChild(span);
+      last = m.index + m[0].length;
+    }
+    if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+    tn.parentNode.replaceChild(frag, tn);
+  });
+}
+
+// ── FRONTMATTER PARSER ────────────────────────────────────────────────────────
+function parseFrontmatter(raw) {
+  const match = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!match) return { meta: {}, body: raw };
+  const meta = {};
+  match[1].split('\n').forEach(line => {
+    const [k, ...v] = line.split(':');
+    if (k) meta[k.trim()] = v.join(':').trim();
+  });
+  return { meta, body: match[2] };
+}
+
+// ── QUIZ BLOCK PARSER ─────────────────────────────────────────────────────────
+function extractQuizBlock(body) {
+  const dividerIdx = body.lastIndexOf('\n---\n');
+  if (dividerIdx < 0) return { content: body, quizRaw: null };
+  return {
+    content: body.slice(0, dividerIdx),
+    quizRaw: body.slice(dividerIdx + 5)
+  };
+}
+
+function parseQuizMarkdown(raw) {
+  if (!raw) return null;
+  const lines = raw.split('\n').map(l => l.trim()).filter(l => l);
+
+  // Detect type — use regex on raw to capture multi-line bold questions
+  const boldBlocks = [...raw.matchAll(/\*\*([\s\S]*?)\*\*/g)];
+  const qBlock = boldBlocks.find(m => {
+    const t = m[1].trim();
+    return !t.startsWith('Correct') && !t.startsWith('Answer:') && !t.startsWith('Explanation:') && !t.startsWith('Model Answer:');
+  });
+  const q = qBlock ? qBlock[1].trim() : '';
+
+  const optLines = lines.filter(l => /^- [A-D]\./.test(l));
+  const correctLine = lines.find(l => l.startsWith('**Correct Answer:**'));
+  const answerLine = lines.find(l => l.startsWith('**Answer:**'));
+  const modelLine = lines.find(l => l.startsWith('**Model Answer:**'));
+  const expLine = lines.find(l => l.startsWith('**Explanation:**'));
+  const exp = expLine ? expLine.replace('**Explanation:**', '').trim() : '';
+
+  if (optLines.length > 0) {
+    // MCQ
+    const opts = optLines.map(l => l.replace(/^- [A-D]\.\s*/, ''));
+    const correctText = correctLine ? correctLine.replace('**Correct Answer:**', '').trim() : '';
+    const correct = opts.findIndex(o => o === correctText);
+    return { type: 'mcq', q, opts, correct: correct >= 0 ? correct : 0, exp };
+  }
+  if (answerLine && !modelLine) {
+    const ans = answerLine.replace('**Answer:**', '').trim();
+    if (ans === 'True' || ans === 'False') {
+      return { type: 'tf', q, correct: ans === 'True', exp };
+    }
+    return { type: 'fitb', q, answer: ans, exp };
+  }
+  if (modelLine) {
+    return { type: 'short', q, a: modelLine.replace('**Model Answer:**', '').trim(), exp };
+  }
+  return null;
+}
+
+// ── VOCAB PRONUNCIATION WIDGET ────────────────────────────────────────────────
+
+function injectVocabPronWidget(jp, romaji) {
+  const section = document.querySelector('.lesson-section');
+  if (!section) return;
+  const widget = document.createElement('div');
+  widget.className = 'section-quiz';
+  widget.innerHTML = `
+    <div class="quiz-label">Pronunciation</div>
+    <div class="quiz-q"></div>
+    <div class="vocab-pron-romaji"></div>
+    <div class="vocab-pron-btns">
+      <button class="quiz-check" style="background:var(--bg-tertiary);color:var(--text-primary);">🔊 Listen</button>
+      <button class="quiz-check" style="background:var(--bg-tertiary);color:var(--text-primary);">🎤 Practice</button>
+    </div>
+    <div class="quiz-feedback" id="vocabPronFeedback"></div>`;
+  widget.querySelector('.quiz-q').textContent = jp;
+  widget.querySelector('.vocab-pron-romaji').textContent = romaji;
+  widget.querySelector('.vocab-pron-btns button:first-child').addEventListener('click', () => speakJp(jp));
+  widget.querySelector('.vocab-pron-btns button:last-child').addEventListener('click', function() { vocabPractice(jp, this); });
+  const quiz = section.querySelector('.section-quiz');
+  quiz ? section.insertBefore(widget, quiz) : section.appendChild(widget);
+}
+
+let _vocabActiveRec = null;
+function vocabPractice(jp, btn) {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  const fb = document.getElementById('vocabPronFeedback');
+  if (!SR) { if (fb) fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Speech recognition not supported. Try Chrome.</div>'; return; }
+  if (_vocabActiveRec) { _vocabActiveRec.abort(); _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; return; }
+  const recognition = new SR();
+  recognition.lang = 'ja-JP';
+  recognition.interimResults = false;
+  recognition.maxAlternatives = 3;
+  _vocabActiveRec = recognition;
+  btn.style.opacity = '0.6';
+  btn.textContent = '🔴 Listening…';
+  let got = false;
+  recognition.onresult = e => {
+    got = true; _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+    const best = Array.from(e.results[0]).reduce((a, b) => a.confidence > b.confidence ? a : b);
+    const score = simPronunciationScore(best.transcript.trim(), jp);
+    vocabShowScore(score, best.transcript.trim());
+  };
+  recognition.onerror = () => { _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; };
+  recognition.onend = () => { if (!got) { _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; } };
+  recognition.start();
+}
+
+function vocabShowScore(score, heard) {
+  const fb = document.getElementById('vocabPronFeedback');
+  if (!fb) return;
+  const isGood = score >= 85, isOk = score >= 65;
+  const label = isGood ? `✓ Perfect — ${score}%` : isOk ? `△ Good — ${score}%` : `✗ Try Again — ${score}%`;
+  const heardLine = heard ? ` Recognized: 「${heard}」` : '';
+  fb.className = 'quiz-feedback ' + (isGood ? 'ok' : isOk ? 'ok' : 'err');
+  fb.style.cssText = '';
+  if (!isGood && isOk) {
+    fb.style.background = 'rgba(241,190,50,0.1)';
+    fb.style.borderColor = 'rgba(241,190,50,0.3)';
+    fb.style.color = 'var(--accent-yellow)';
+  }
+  fb.textContent = label + heardLine;
+  fb.style.display = 'block';
+}
+
+
+// ── SIMULATOR ─────────────────────────────────────────────────────────────────
+
+function parseMD(text) {
+  const fm = {};
+  const fmMatch = text.match(/^---\n([\s\S]*?)\n---/);
+  if (fmMatch) {
+    fmMatch[1].split('\n').forEach(line => {
+      const colon = line.indexOf(':');
+      if (colon > -1) fm[line.slice(0, colon).trim()] = line.slice(colon + 1).trim();
+    });
+  }
+  const turns = [];
+  const sections = text.split(/^## Turn \d+/m).slice(1);
+  for (const sec of sections) {
+    const sysM   = sec.match(/\*\*System:\*\*\s*(.+)/);
+    const guestM = sec.match(/\*\*Guest:\*\*\s*(.+)/);
+    const jpM    = sec.match(/\*\*Guest JP:\*\*\s*(.+)/);
+    const choices = [];
+    const re = /^- \[(\d)\] (.+)\n  - EN: (.+)\n  - Feedback: (.+)/gm;
+    let m;
+    while ((m = re.exec(sec)) !== null) {
+      choices.push({ score: parseInt(m[1]), text: m[2].trim(), label: m[3].trim(), feedback: m[4].trim() });
+    }
+    if (guestM && choices.length) {
+      turns.push({ system: sysM ? sysM[1].trim() : '', guest: guestM[1].trim(), guestJp: jpM ? jpM[1].trim() : '', choices });
+    }
+  }
+  if (!turns.length) return null;
+  return { id: parseInt(fm.id), title: fm.title, description: fm.description, turns };
+}
+
+// ── TTS toast ─────────────────────────────────────────────────────────────────
+let _ttsToastTimer = null;
+function showTtsToast(msg) {
+  let el = document.getElementById('ttsToast');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'ttsToast';
+    el.className = 'tts-toast';
+    document.body.appendChild(el);
+  }
+  el.textContent = msg;
+  el.classList.add('show');
+  if (_ttsToastTimer) clearTimeout(_ttsToastTimer);
+  _ttsToastTimer = setTimeout(() => { el.classList.remove('show'); }, 3000);
+}
+
+// ── Shared TTS (used by vocab widget and simulator) ────────────────────────────
+
+// Voice priority: Neural/Online voices first, then standard, then any ja-JP
+// Scored: higher = better quality
+const _JA_VOICE_PRIORITY = [
+  // Edge Neural (highest quality — streamed from Microsoft servers)
+  { match: 'Nanami Online (Natural)',  rate: 0.92, pitch: 1.0  },
+  { match: 'Keita Online (Natural)',   rate: 0.92, pitch: 1.0  },
+  { match: 'Aoi Online (Natural)',     rate: 0.92, pitch: 1.0  },
+  { match: 'Daichi Online (Natural)',  rate: 0.92, pitch: 1.0  },
+  // Chrome desktop — Google Neural
+  { match: 'Google 日本語',            rate: 0.90, pitch: 1.0  },
+  // Edge / Windows standard
+  { match: 'Microsoft Nanami',         rate: 0.90, pitch: 1.02 },
+  { match: 'Microsoft Keita',          rate: 0.90, pitch: 1.0  },
+  { match: 'Microsoft Haruka',         rate: 0.88, pitch: 1.02 },
+  // macOS / iOS
+  { match: 'Kyoko',                    rate: 0.88, pitch: 1.0  },
+  { match: 'O-ren',                    rate: 0.88, pitch: 1.0  },
+  { match: 'Otoya',                    rate: 0.88, pitch: 1.0  },
+  // Android Chrome
+  { match: 'Google Japanese',          rate: 0.90, pitch: 1.0  },
+];
+
+let _jaVoice = null;
+let _jaVoiceParams = { rate: 0.90, pitch: 1.0 };
+let _voiceLoadAttempts = 0;
+
+function _loadJaVoice() {
+  if (!window.speechSynthesis) return;
+  const voices = speechSynthesis.getVoices();
+  if (!voices.length && _voiceLoadAttempts < 5) {
+    // Voices not ready yet — retry shortly
+    _voiceLoadAttempts++;
+    setTimeout(_loadJaVoice, 250);
+    return;
+  }
+  for (const { match, rate, pitch } of _JA_VOICE_PRIORITY) {
+    const v = voices.find(v => v.name.includes(match));
+    if (v) {
+      _jaVoice = v;
+      _jaVoiceParams = { rate, pitch };
+      return;
+    }
+  }
+  // Fallback: any Japanese voice
+  const fallback = voices.find(v => v.lang && v.lang.startsWith('ja'));
+  if (fallback) { _jaVoice = fallback; _jaVoiceParams = { rate: 0.88, pitch: 1.0 }; }
+}
+
+if (window.speechSynthesis) {
+  speechSynthesis.onvoiceschanged = _loadJaVoice;
+  _loadJaVoice();
+}
+
+// Chrome/Android: speech synthesis silently stops after ~15s — keep it alive
+let _ttsKeepAliveTimer = null;
+function _ttsKeepAlive() {
+  if (!window.speechSynthesis) return;
+  if (speechSynthesis.speaking) {
+    speechSynthesis.pause();
+    speechSynthesis.resume();
+    _ttsKeepAliveTimer = setTimeout(_ttsKeepAlive, 10000);
+  }
+}
+
+// Split text at natural Japanese sentence boundaries to avoid truncation
+function _splitJp(text) {
+  // Split after 。！？ or newlines, keep delimiter attached
+  const chunks = text.match(/[^。！？\n]+[。！？\n]?/g) || [text];
+  return chunks.map(c => c.trim()).filter(Boolean);
+}
+
+function speakJp(text) {
+  if (!window.speechSynthesis) {
+    showTtsToast('お使いのブラウザは音声合成に対応していません。');
+    return;
+  }
+  if (!_jaVoice) {
+    // Try one more time in case voices loaded late
+    _loadJaVoice();
+    if (!_jaVoice) {
+      showTtsToast('日本語音声が見つかりません。ChromeまたはEdgeをお試しください。');
+      return;
+    }
+  }
+
+  speechSynthesis.cancel();
+  if (_ttsKeepAliveTimer) { clearTimeout(_ttsKeepAliveTimer); _ttsKeepAliveTimer = null; }
+
+  const chunks = _splitJp(text);
+  const { rate, pitch } = _jaVoiceParams;
+
+  function speakChunk(i) {
+    if (i >= chunks.length) return;
+    const utter = new SpeechSynthesisUtterance(chunks[i]);
+    utter.lang  = 'ja-JP';
+    utter.voice = _jaVoice;
+    utter.rate  = rate;
+    utter.pitch = pitch;
+    utter.volume = 1.0;
+    utter.onend = () => speakChunk(i + 1);
+    utter.onerror = (e) => {
+      if (e && e.error !== 'interrupted') showTtsToast('音声の再生に失敗しました。');
+    };
+    speechSynthesis.speak(utter);
+    // Start keepalive for long utterances
+    if (_ttsKeepAliveTimer) clearTimeout(_ttsKeepAliveTimer);
+    _ttsKeepAliveTimer = setTimeout(_ttsKeepAlive, 10000);
+  }
+
+  speakChunk(0);
+}
+const simSpeak = speakJp;
+
+// Japanese line break hints
+function jpWrap(text) {
+  return text
+    .replace(/(ございます|いたします|ください|ていただ|させていただ)/g, '$1<wbr>')
+    .replace(/([をにはがでへともの])/g, '$1<wbr>')
+    .replace(/(から|まで|より|ので|けど|でも|には|との|での|への|ても|ては|して|ました|ます。|です。)/g, '$1<wbr>');
+}
+
+// Speaking practice
+let _simActiveRec = null;
+function simStartPractice(expectedText, btn) {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) {
+    alert('このブラウザは音声認識に対応していません。\nChrome、Edge、または Safari をお試しください。');
+    return;
+  }
+  if (location.protocol === 'http:' && /iPhone|iPad|iPod/.test(navigator.userAgent)) {
+    alert('iOS Safari では HTTPS 接続が必要です。');
+    return;
+  }
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  document.querySelectorAll('.practice-btn.listening').forEach(b => {
+    b.classList.remove('listening','done'); b.textContent = '🎤';
+  });
+  const recognition = new SR();
+  recognition.lang = 'ja-JP';
+  recognition.interimResults = false;
+  recognition.continuous = false;
+  recognition.maxAlternatives = 1;
+  _simActiveRec = recognition;
+  let gotResult = false;
+  btn.classList.add('listening');
+  btn.textContent = '⏹';
+  try { recognition.start(); }
+  catch (e) {
+    btn.classList.remove('listening'); btn.textContent = '🎤';
+    simShowPracticeResult(btn, null, null); return;
+  }
+  recognition.onresult = function(event) {
+    gotResult = true; _simActiveRec = null;
+    const spoken = event.results[0][0].transcript;
+    const score = simPronunciationScore(spoken, expectedText);
+    btn.classList.remove('listening'); btn.classList.add('done'); btn.textContent = '🎤';
+    simShowPracticeResult(btn, spoken, score);
+  };
+  recognition.onerror = function(event) {
+    recognition.abort();
+    _simActiveRec = null; btn.classList.remove('listening'); btn.textContent = '🎤';
+    if (event.error === 'aborted') return;
+    if (event.error === 'not-allowed') simShowPracticeResult(btn, 'マイクへのアクセスが拒否されました', null);
+    else if (event.error === 'network') simShowPracticeResult(btn, 'ネットワークエラーです。接続を確認してください', null);
+    else simShowPracticeResult(btn, null, null);
+  };
+  recognition.onend = function() {
+    if (_simActiveRec === recognition) _simActiveRec = null;
+    btn.classList.remove('listening');
+    if (btn.textContent === '⏹') btn.textContent = '🎤';
+    if (!gotResult) simShowPracticeResult(btn, null, null);
+  };
+}
+function simPronunciationScore(spoken, expected) {
+  const norm = s => s.replace(/[\s\u3000。、！？「」『』・～ー]/g,'').toLowerCase();
+  const a = norm(spoken), b = norm(expected);
+  if (!b.length) return 100;
+  if (!a.length) return 0;
+  if (a === b) return 100;
+  const dist = simLevenshtein(a, b);
+  return Math.max(0, Math.round((1 - dist / Math.max(a.length, b.length)) * 100));
+}
+function simLevenshtein(a, b) {
+  const m = a.length, n = b.length, dp = [];
+  for (let i = 0; i <= m; i++) {
+    dp[i] = [i];
+    for (let j = 1; j <= n; j++) dp[i][j] = i === 0 ? j : 0;
+  }
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      dp[i][j] = a[i-1] === b[j-1] ? dp[i-1][j-1] : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
+  return dp[m][n];
+}
+function escapeHtml(str) {
+  return (str || '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+function simShowPracticeResult(btn, spoken, score) {
+  const wrap = btn.closest('.choice-wrap');
+  if (!wrap) return;
+  let el = wrap.querySelector('.practice-result');
+  if (!el) { el = document.createElement('div'); el.className = 'practice-result'; wrap.appendChild(el); }
+  if (score === null) {
+    el.innerHTML = `<span class="psc-bad">${escapeHtml(spoken) || '認識できませんでした。もう一度お試しください。'}</span>`;
+    return;
+  }
+  const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
+  const msg = score >= 80 ? '上手です！Great pronunciation!' : score >= 50 ? 'もう少しです Keep practicing!' : 'もう一度練習しましょう Try again!';
+  el.innerHTML = `<span class="${cls}"><strong>${score}%</strong> — ${msg}</span><div style="color:var(--text-muted);margin-top:4px;">認識: 「${escapeHtml(spoken)}」</div>`;
+}
+
+// Simulator state
+let _simScenario = null;
+let _simTurn = 0;
+let _simTotalScore = 0;
+let _simMaxScore = 0;
+let _simFileId = null;
+let _simNextTimer = null;
+
+const SIM_CATEGORIES = [
+  { name: 'Front Desk',                ids: [1, 4, 13, 14, 37, 45, 47, 48, 49, 51, 52, 53, 57, 60, 64, 70, 71, 72, 77, 84, 90, 91, 99] },
+  { name: 'Concierge & Transportation', ids: [5, 7, 9, 11, 25, 35, 38, 21, 36, 54, 63, 67, 74, 92, 100] },
+  { name: 'Room & Housekeeping',       ids: [6, 10, 12, 15, 16, 30, 31, 32, 55, 61, 62, 66, 73, 76, 88, 93] },
+  { name: 'Dining & Bar',              ids: [3, 26, 27, 28, 29, 56, 65, 79, 94] },
+  { name: 'Facilities',                ids: [8, 22, 23, 24, 33, 34, 58, 59, 80, 95] },
+  { name: 'Complaints & Issues',       ids: [2, 17, 18, 39, 75, 82, 83, 87, 96] },
+  { name: 'Safety & Emergency',        ids: [19, 20, 44, 69, 81, 86, 89, 97] },
+  { name: 'Special Guests',            ids: [40, 41, 42, 43, 46, 50, 68, 78, 85, 98] },
+];
+
+function renderSimulator(scenario, file, info) {
+  _simScenario = scenario;
+  _simFileId = file;
+  document.title = scenario.title + ' — Omotenashi Training';
+
+  const cat = SIM_CATEGORIES.find(c => c.ids.includes(scenario.id));
+  const catName = cat ? cat.name : 'Hospitality Simulator';
+  const breadcrumb = `<div class="breadcrumb">
+    <a href="curriculum.html">Curriculum</a>
+    <span>/</span>
+    <a href="curriculum.html">${catName}</a>
+    <span>/</span>
+    <span>${scenario.title}</span>
+  </div>`;
+
+  document.getElementById('main').innerHTML = `
+    ${breadcrumb}
+    <div class="chat-area" id="chatArea">
+      <div class="chat-header">
+        <div class="chat-header-title" id="chatTitle">${scenario.title}</div>
+        <div class="chat-turn-progress" id="chatTurnProgress"></div>
+      </div>
+      <div class="chat-messages" id="chatMessages"></div>
+      <div class="chat-choices" id="chatChoices"></div>
+    </div>`;
+
+  const idMatch = file.match(/(\d+)\.md$/);
+  const currentId = idMatch ? parseInt(idMatch[1]) : 0;
+  const hasNext = currentId > 0 && currentId < 100;
+  window._nextUrl = hasNext
+    ? `md-viewer.html?file=scenarios/${String(currentId + 1).padStart(2,'0')}.md`
+    : 'curriculum.html';
+
+  const nextBtn = document.getElementById('modalNextBtn');
+  nextBtn.href = window._nextUrl;
+  nextBtn.innerHTML = hasNext ? 'Go to next section <span class="btn-next-sub">(Ctrl + Enter)</span>' : 'Back to Curriculum';
+
+  simStartScenario();
+}
+
+function simStartScenario() {
+  if (_simNextTimer) { clearTimeout(_simNextTimer); _simNextTimer = null; }
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  _simTurn = 0; _simTotalScore = 0;
+  _simMaxScore = _simScenario.turns.length * 2;
+  document.getElementById('chatMessages').innerHTML = '';
+  document.getElementById('modalOverlay').classList.remove('open');
+  simRenderTurn();
+}
+
+function simTryAgain() { closeModal(); simStartScenario(); }
+
+function simShuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function simRenderTurn() {
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  const turn = _simScenario.turns[_simTurn];
+  const prog = document.getElementById('chatTurnProgress');
+  if (prog) prog.textContent = `Turn ${_simTurn + 1} / ${_simScenario.turns.length}`;
+  if (turn.system) simAddSystemMessage(turn.system);
+  simAddGuestMessage(turn.guest, turn.guestJp || '');
+  const choices = simShuffle([...turn.choices]);
+  const choicesEl = document.getElementById('chatChoices');
+  choicesEl.innerHTML = `<div class="choices-label">Your response</div>` +
+    choices.map(c => {
+      const idx = turn.choices.indexOf(c);
+      const safeText = c.text.replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+      return `<div class="choice-wrap">
+        <div class="choice-row">
+          <button class="choice-btn" data-idx="${idx}" onclick="simSelectChoice(${idx})">
+            <strong>${jpWrap(c.text)}</strong>
+            ${c.label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${c.label}</div>` : ''}
+          </button>
+          <button class="sim-speak-btn" data-speak="${safeText}" onclick="simSpeak(this.dataset.speak)" title="音声を聞く">🔊</button>
+          <button class="practice-btn" data-practice="${safeText}" onclick="simStartPractice(this.dataset.practice,this)" title="発音練習">🎤</button>
+        </div>
+      </div>`;
+    }).join('');
+}
+
+function simSelectChoice(idx) {
+  const btn = document.querySelector(`.choice-btn[data-idx="${idx}"]`);
+  if (btn && (btn.classList.contains('wrong') || btn.classList.contains('answered'))) return;
+  const turn = _simScenario.turns[_simTurn];
+  const choice = turn.choices[idx];
+  if (choice.score === 0) {
+    if (btn) {
+      btn.classList.add('wrong');
+      if (choice.feedback) btn.innerHTML += `<div style="font-size:0.85rem;margin-top:6px;color:#e07060;">${choice.feedback}</div>`;
+    }
+    return;
+  }
+  document.querySelectorAll('.choice-btn').forEach(b => b.classList.add('answered'));
+  _simTotalScore += choice.score;
+  const badge = choice.score === 2 ? '<span class="feedback-badge badge-perfect">✓ Perfect</span>'
+                                   : '<span class="feedback-badge badge-good">△ Good</span>';
+  simAddUserMessage(choice.text, choice.label || '', choice.feedback || '', badge);
+  _simTurn++;
+  // show typing indicator
+  const msgs = document.getElementById('chatMessages');
+  const typer = document.createElement('div');
+  typer.className = 'typing-indicator';
+  typer.innerHTML = '<div><div class="typing-dots"><span></span><span></span><span></span></div></div>';
+  msgs.appendChild(typer);
+  msgs.scrollTop = msgs.scrollHeight;
+  if (window.innerWidth <= 640) typer.scrollIntoView({ behavior:'smooth', block:'nearest' });
+  _simNextTimer = setTimeout(() => {
+    _simNextTimer = null;
+    typer.remove();
+    if (_simTurn < _simScenario.turns.length) simRenderTurn();
+    else simShowResult();
+  }, 900);
+}
+
+function simAddSystemMessage(text) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg-system';
+  div.textContent = text;
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function simAddGuestMessage(text, jp) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg msg-guest';
+  const safeJp = jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  div.innerHTML = `<div>
+    <div class="msg-label">Guest</div>
+    <div class="msg-bubble">
+      <div style="display:flex;align-items:flex-start;gap:8px;">
+        <strong style="flex:1;">${jpWrap(jp || text)}</strong>
+        ${jp ? `<button class="msg-speak-btn" data-speak="${safeJp}" onclick="simSpeak(this.dataset.speak)" title="音声を聞く">🔊</button>` : ''}
+      </div>
+      ${jp ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${text}</div>` : ''}
+    </div>
+  </div>`;
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+  // On mobile (no max-height), scroll page so new message is visible
+  if (window.innerWidth <= 640) div.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function simAddUserMessage(jp, label, feedback, badge) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg msg-user';
+  div.innerHTML = `<div>
+    <div class="msg-label">You (Staff)</div>
+    <div class="msg-bubble">
+      <div style="display:flex;align-items:flex-start;gap:8px;">
+        <span style="flex:1;">${jpWrap(jp)}</span>
+        <button class="msg-speak-btn" data-speak="${jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="simSpeak(this.dataset.speak)" title="音声を聞く">🔊</button>
+      </div>
+      ${label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${label}</div>` : ''}
+      <div style="margin-top:8px;">${badge}</div>
+      ${feedback ? `<div style="font-size:0.85rem;color:var(--text-muted);margin-top:6px;font-style:italic;">${feedback}</div>` : ''}
+    </div>
+  </div>`;
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function simShowResult() {
+  document.getElementById('chatChoices').innerHTML = '';
+  const pct = Math.round((_simTotalScore / _simMaxScore) * 100);
+  const m = _simFileId.match(/(\d+)\.md$/);
+  if (m) localStorage.setItem('omotenashi:simulator:' + parseInt(m[1]), '1');
+  document.getElementById('modalSectionTitle').textContent = _simScenario.title;
+  const fill = document.getElementById('modalProgressFill');
+  fill.style.width = pct + '%';
+  fill.style.background = pct >= 80 ? '#1fad69' : pct >= 50 ? '#f1be32' : '#c5442a';
+  document.getElementById('modalPercent').textContent = pct + '% complete';
+  document.getElementById('modalOverlay').classList.add('open');
+}
+
+
+// ── MAIN RENDER ───────────────────────────────────────────────────────────────
+async function render() {
+  const params = new URLSearchParams(location.search);
+  const file = params.get('file');
+  if (!file) {
+    document.getElementById('main').innerHTML = '<div class="loading">No file specified. <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>';
+    return;
+  }
+
+  // Validate file against known files to prevent path traversal
+  const isKnownContent = !!FILE_MAP[file];
+  const isKnownScenario = /^scenarios\/\d+\.md$/.test(file);
+  if (!isKnownContent && !isKnownScenario) {
+    document.getElementById('main').innerHTML = '<div class="loading">Invalid file. <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>';
+    return;
+  }
+
+  const info = FILE_MAP[file] || {};
+
+  let raw;
+  try {
+    const base = location.hostname === '127.0.0.1' || location.hostname === 'localhost' ? '/' : '/jp-hospitality/';
+    const res = await fetch(base + file);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    raw = await res.text();
+  } catch(e) {
+    document.getElementById('main').innerHTML = `<div class="loading">Could not load file (${e.message}). <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>`;
+    return;
+  }
+
+  // Detect scenario file and render simulator
+  if (/^scenarios\/\d+\.md$/.test(file)) {
+    const scenario = parseMD(raw);
+    if (scenario) { renderSimulator(scenario, file, info); return; }
+  }
+
+  const { meta, body } = parseFrontmatter(raw);
+  const { content, quizRaw } = extractQuizBlock(body);
+  const quiz = parseQuizMarkdown(quizRaw);
+
+  const sectionTitle = meta.title || '';
+  const moduleLabel = info.module || 'Course Foundations';
+  const lessonLabel = info.lesson || '';
+  const sectionNum = info.section || meta.section || '';
+  const total = info.total || '';
+
+  document.title = sectionTitle + ' — Omotenashi Training';
+
+  // Nav info (must be declared before modal setup)
+  const prevFile = info.prev;
+  const nextFile = info.next;
+
+  // Set next URL for modal
+  window._nextUrl = nextFile ? `md-viewer.html?file=${encodeURIComponent(nextFile)}` : 'curriculum.html';
+  const pct = total ? Math.round((sectionNum / total) * 100) : 100;
+  document.getElementById('modalSectionTitle').textContent = sectionTitle;
+  document.getElementById('modalProgressFill').style.width = pct + '%';
+  document.getElementById('modalPercent').textContent = pct + '% complete';
+  const nextBtn = document.getElementById('modalNextBtn');
+  nextBtn.href = window._nextUrl;
+  nextBtn.innerHTML = nextFile
+    ? `Go to next section <span class="btn-next-sub">(Ctrl + Enter)</span>`
+    : 'Back to Curriculum';
+
+  // Breadcrumb
+  const breadcrumb = `<div class="breadcrumb">
+    <a href="curriculum.html">Curriculum</a>
+    <span>/</span>
+    <a href="curriculum.html">${moduleLabel}</a>
+    <span>/</span>
+    <span>${lessonLabel}</span>
+  </div>`;
+
+  // Body HTML via marked
+  const bodyHtml = DOMPurify.sanitize(marked.parse(content));
+
+  document.getElementById('main').innerHTML = `
+    ${breadcrumb}
+    <div class="lesson-section">
+      <div class="section-heading">${sectionTitle}</div>
+      <div class="section-body">${bodyHtml}</div>
+      ${quiz ? renderQuiz(quiz) : ''}
+    </div>
+  `;
+
+  // Wrap Japanese text in body (not quiz) with clickable pronunciation spans
+  const isVocabFile = /^content\/vocabulary\/v\d+-vocab-\d+\.md$/.test(file);
+
+  // wrapJapanese only on non-vocabulary pages (vocab uses the Pronunciation widget instead)
+  const bodyEl = document.querySelector('.section-body');
+  if (bodyEl && !isVocabFile) wrapJapanese(bodyEl);
+
+  // Inject pronunciation widget for vocabulary files (above quiz)
+  if (isVocabFile) {
+    const m = sectionTitle.match(/^(.+?)\s*\((.+?)\)$/);
+    if (m) injectVocabPronWidget(m[1].trim(), m[2].trim());
+  }
+
+}
+
+render();
+
+function toggleMode() {
+  const html = document.documentElement;
+  const isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  localStorage.setItem('theme', isLight ? 'dark' : 'light');
+}
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
+})();
+
+</script>
+<script src="search.js"></script>
+<script src="assets/nav.js"></script>
+</body>
+</html>
