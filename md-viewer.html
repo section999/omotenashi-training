@@ -1685,7 +1685,7 @@ async function render() {
 
   let raw;
   try {
-    const base = location.hostname === '127.0.0.1' || location.hostname === 'localhost' ? '/' : '/jp-hospitality/';
+    const base = location.hostname === '127.0.0.1' || location.hostname === 'localhost' ? '/' : '/omotenashi-training/';
     const res = await fetch(base + file);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     raw = await res.text();
