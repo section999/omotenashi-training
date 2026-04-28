@@ -1,0 +1,40 @@
+---
+id: m3-vip
+section: 4
+title: Handling Entourages and Support Staff
+---
+
+Many VIP guests arrive with a support team: personal assistants, security personnel, publicists, medical staff, or family members. Managing these relationships well is as important as managing the guest's own experience — because the entourage mediates much of what the principal guest receives.
+
+**The personal assistant or chief of staff:**
+
+In many cases, a PA or chief of staff is the primary point of contact for the property. They manage the guest's schedule, communicate preferences, and approve arrangements. Treat them with the same respect and attentiveness as the principal guest — they have delegated authority and significant influence over the guest's perception of the stay.
+
+Establish contact before arrival: *"I understand you are coordinating Mr/Ms ○○'s stay. I am ○○, and I will be your point of contact throughout. Please let me know anything you need."*
+
+**Security personnel:**
+
+Security staff have specific operational requirements: they need to know the property's floor plan, service entrances, emergency exits, and communication channels. Brief them thoroughly on arrival and assign a staff contact who is available to them throughout the stay. Do not treat security personnel as obstacles — they are part of the team protecting the guest.
+
+**Managing the entourage's needs:**
+
+Support staff have their own rooms, meals, and logistical requirements. These are often coordinated separately from the principal guest but must be managed with equal care — a PA who cannot get their meals sorted will be frustrated, and that frustration affects how they represent the stay to the principal guest.
+
+**The internal briefing:**
+
+Every staff member who may come into contact with the VIP guest — or their entourage — should be briefed. Not on gossip or personal details, but on: name pronunciation, preferred form of address, known sensitivities, and the scale of the party. An uninformed colleague can undo careful preparation in a single interaction.
+
+---
+
+## Quiz
+
+**Why is it important to treat a VIP guest's personal assistant with the same attentiveness as the principal guest?**
+
+- A. The personal assistant may become a VIP guest themselves in the future
+- B. The personal assistant has delegated authority and significantly influences how the guest's stay is perceived
+- C. It is legally required when hosting high-profile guests
+- D. The personal assistant typically pays the bill
+
+**Correct Answer:** The personal assistant has delegated authority and significantly influences how the guest's stay is perceived
+
+**Explanation:** A PA or chief of staff manages communication between the property and the principal guest. Their experience directly shapes the guest's experience. A PA who is frustrated or poorly served will communicate that — consciously or not — to the person they support.

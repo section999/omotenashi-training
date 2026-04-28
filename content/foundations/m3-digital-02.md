@@ -1,0 +1,48 @@
+---
+id: m3-digital
+section: 2
+title: Telephone Manner in Japanese Hospitality
+---
+
+The telephone call occupies a different register in Japanese business culture than in many Western contexts. It is considered more formal and more significant than a casual interaction — the caller has chosen to speak directly rather than message, and that choice implies a degree of urgency or importance. Receiving a call well is a core professional skill.
+
+**Answering the phone:**
+
+Pick up within three rings. Answering after five or more rings requires an immediate apology: *"大変お待たせいたしました"* (I sincerely apologise for keeping you waiting).
+
+Standard answer format:
+*"○○ホテル、○○でございます。いつもお世話になっております。"*
+— "[Property name], this is [your name]. Thank you for calling."
+
+The phrase *"いつもお世話になっております"* (thank you for your continued support) is a standard opening in Japanese business calls — use it with guests who have stayed before or with business partners.
+
+**Active listening signals:**
+
+In Japanese telephone conversation, the listener regularly signals that they are following the speaker — *"はい"* (yes), *"承知いたしました"* (understood), *"かしこまりました"* (certainly). These are not interruptions; they are required social signals. Silence on a phone call communicates disconnection.
+
+**Taking a message:**
+
+When the caller needs someone who is unavailable:
+- Confirm the caller's name and contact number
+- Note the purpose of the call
+- Give a specific timeframe for the callback: *"○○より1時間以内にご連絡いたします"* (○○ will contact you within one hour)
+- Repeat the details back to confirm accuracy
+
+**Ending the call:**
+
+Do not hang up until the guest has disconnected. In Japanese telephone etiquette, hanging up first is considered abrupt. Wait for the line to go quiet before replacing the receiver.
+
+---
+
+## Quiz
+
+**During a phone call, a Japanese hospitality professional responds with "はい、はい" repeatedly while the guest explains their request. Why?**
+
+- A. They are agreeing to fulfil the request before hearing it fully
+- B. They are signalling that they are following the conversation — a required courtesy in Japanese telephone etiquette
+- C. They are buying time while they look up the answer
+- D. It is a nervous habit, not a meaningful signal
+
+**Correct Answer:** They are signalling that they are following the conversation — a required courtesy in Japanese telephone etiquette
+
+**Explanation:** Regular verbal signals (はい, 承知いたしました) during a phone call indicate active listening in Japanese communication. Silence would signal disengagement or that the call has been dropped. These responses are social and professional norms, not premature agreement.

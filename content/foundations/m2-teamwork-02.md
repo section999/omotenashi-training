@@ -1,0 +1,41 @@
+---
+id: m2-teamwork
+section: 2
+title: Hierarchy and Respect Among Staff
+---
+
+Japanese workplace culture operates with a clear awareness of **hierarchy (上下関係, *jōge kankei*)** — the structured relationship between seniors and juniors in an organisation. In hospitality, this structure serves not as a system of dominance but as a framework for mentorship, accountability, and consistent standards.
+
+**Key terms:**
+
+- **Senpai (先輩)** — a senior colleague; someone with more experience in the role or organisation
+- **Kōhai (後輩)** — a junior colleague; someone with less experience
+- **Jōshi (上司)** — a direct superior or manager
+
+The relationship between senpai and kōhai is one of guidance and responsibility. The senpai is expected to actively support and teach the kōhai; the kōhai is expected to observe carefully, ask questions respectfully, and take initiative to learn.
+
+**How hierarchy functions in practice:**
+
+- When addressing a senpai or jōshi, use respectful language — keigo applies internally as well as with guests, particularly in formal properties.
+- When reporting to a manager (hōkoku), be direct, concise, and complete: state the situation, the action you took, and the current status.
+- Disagreement with a senior colleague should be raised privately and respectfully — not in front of guests or junior staff.
+- Decisions beyond your authority level should always be escalated, not made unilaterally. Overstepping creates confusion; escalating shows judgment.
+
+**The purpose of hierarchy:**
+
+In a hospitality context, hierarchy ensures that accountability is clear and that experience is transmitted. A kōhai who respects their senpai's guidance becomes a better hospitality professional faster than one who operates in isolation.
+
+---
+
+## Quiz
+
+**A junior staff member disagrees with how a senior colleague handled a guest complaint. What is the appropriate course of action?**
+
+- A. Correct the senior colleague immediately in front of the guest to show the guest the correct procedure
+- B. Do nothing — junior staff should not comment on senior decisions
+- C. Raise the concern privately with the senior colleague or manager after the guest interaction has concluded
+- D. Report the incident directly to the general manager, bypassing the senior colleague
+
+**Correct Answer:** Raise the concern privately with the senior colleague or manager after the guest interaction has concluded
+
+**Explanation:** Disagreements among staff should never be visible to guests. The appropriate time to raise a concern is privately, after the interaction, and through the correct channel — either directly with the senior or via the manager.

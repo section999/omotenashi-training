@@ -1,0 +1,37 @@
+---
+id: m2-teamwork
+section: 4
+title: Supporting Colleagues in Front of Guests
+---
+
+How staff interact with each other in guest-facing spaces is itself a form of hospitality. Guests observe team dynamics constantly — and the atmosphere of a team communicates the atmosphere of the property. A team that is visibly supportive, calm, and coordinated reassures guests; one that is visibly strained, dismissive, or disorganised unsettles them.
+
+**The principle of mutual support (相互扶助, *sōgo fujo*):**
+
+No individual staff member should let a colleague struggle in front of a guest when they have the ability to help. If a colleague is occupied with one guest and another guest approaches, step in. If a colleague is handling a difficult situation, position yourself nearby as quiet backup without interfering.
+
+**Practical rules for in-guest interactions with colleagues:**
+
+- **Never criticise a colleague in front of a guest** — even gently. If a mistake was made, correct it smoothly without attributing blame: *"Please allow me to clarify..."* rather than *"My colleague was mistaken."*
+- **Never show frustration with a colleague** — sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism.
+- **Share workload fluidly** — experienced teams move without explicit instruction. If you see a guest waiting, a table uncleared, or a colleague visibly stretched, act.
+- **Use internal language carefully** — conversations with colleagues in earshot of guests should be kept professional in both content and tone. Assume guests can hear more than you think.
+
+**The back-of-house boundary:**
+
+Guests occasionally walk into staff areas or overhear back-of-house conversations. The standard is to behave in back-of-house exactly as you would in front of guests — the distinction between spaces is logistical, not one of standards.
+
+---
+
+## Quiz
+
+**A guest approaches while your colleague is occupied with another guest. What should you do?**
+
+- A. Wait for your colleague to finish before approaching the new guest
+- B. Tell the new guest to wait at the front desk
+- C. Step in immediately to greet and assist the new guest yourself
+- D. Make eye contact with the guest to signal you have seen them, then continue with your current task until free
+
+**Correct Answer:** Step in immediately to greet and assist the new guest yourself
+
+**Explanation:** Mutual support means not leaving a guest unattended when a colleague is occupied. Stepping in ensures the guest is welcomed without delay and demonstrates seamless teamwork.

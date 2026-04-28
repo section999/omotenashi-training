@@ -365,34 +365,106 @@
 // ── FILE MAP: md path → { module, lesson, totalSections } ─────────────────
 const FILE_MAP = {
   // m1-philosophy (6)
-  'content/foundations/m1-philosophy-01.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:1, total:6, prev:null,                                              next:'content/foundations/m1-philosophy-02.md' },
-  'content/foundations/m1-philosophy-02.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:2, total:6, prev:'content/foundations/m1-philosophy-01.md',   next:'content/foundations/m1-philosophy-03.md' },
-  'content/foundations/m1-philosophy-03.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:3, total:6, prev:'content/foundations/m1-philosophy-02.md',   next:'content/foundations/m1-philosophy-04.md' },
-  'content/foundations/m1-philosophy-04.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:4, total:6, prev:'content/foundations/m1-philosophy-03.md',   next:'content/foundations/m1-philosophy-05.md' },
-  'content/foundations/m1-philosophy-05.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:5, total:6, prev:'content/foundations/m1-philosophy-04.md',   next:'content/foundations/m1-philosophy-06.md' },
-  'content/foundations/m1-philosophy-06.md': { module:'Hospitality Basics', lesson:'Understanding Japanese Service Spirit and Culture', section:6, total:6, prev:'content/foundations/m1-philosophy-05.md',   next:'content/foundations/m1-comms-01.md' },
+  'content/foundations/m1-philosophy-01.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:1, total:6, prev:null,                                              next:'content/foundations/m1-philosophy-02.md' },
+  'content/foundations/m1-philosophy-02.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:2, total:6, prev:'content/foundations/m1-philosophy-01.md',   next:'content/foundations/m1-philosophy-03.md' },
+  'content/foundations/m1-philosophy-03.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:3, total:6, prev:'content/foundations/m1-philosophy-02.md',   next:'content/foundations/m1-philosophy-04.md' },
+  'content/foundations/m1-philosophy-04.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:4, total:6, prev:'content/foundations/m1-philosophy-03.md',   next:'content/foundations/m1-philosophy-05.md' },
+  'content/foundations/m1-philosophy-05.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:5, total:6, prev:'content/foundations/m1-philosophy-04.md',   next:'content/foundations/m1-philosophy-06.md' },
+  'content/foundations/m1-philosophy-06.md': { module:'The Spirit of Omotenashi', lesson:'Understanding Japanese Service Spirit and Culture', section:6, total:6, prev:'content/foundations/m1-philosophy-05.md',   next:'content/foundations/m1-comms-01.md' },
   // m1-comms (5)
-  'content/foundations/m1-comms-01.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:1, total:5, prev:'content/foundations/m1-philosophy-06.md', next:'content/foundations/m1-comms-02.md' },
-  'content/foundations/m1-comms-02.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:2, total:5, prev:'content/foundations/m1-comms-01.md',       next:'content/foundations/m1-comms-03.md' },
-  'content/foundations/m1-comms-03.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:3, total:5, prev:'content/foundations/m1-comms-02.md',       next:'content/foundations/m1-comms-04.md' },
-  'content/foundations/m1-comms-04.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:4, total:5, prev:'content/foundations/m1-comms-03.md',       next:'content/foundations/m1-comms-05.md' },
-  'content/foundations/m1-comms-05.md': { module:'Hospitality Basics', lesson:'Communication & Etiquette', section:5, total:5, prev:'content/foundations/m1-comms-04.md',       next:'content/foundations/m1-skills-01.md' },
+  'content/foundations/m1-comms-01.md': { module:'The Spirit of Omotenashi', lesson:'Communication & Etiquette', section:1, total:5, prev:'content/foundations/m1-philosophy-06.md', next:'content/foundations/m1-comms-02.md' },
+  'content/foundations/m1-comms-02.md': { module:'The Spirit of Omotenashi', lesson:'Communication & Etiquette', section:2, total:5, prev:'content/foundations/m1-comms-01.md',       next:'content/foundations/m1-comms-03.md' },
+  'content/foundations/m1-comms-03.md': { module:'The Spirit of Omotenashi', lesson:'Communication & Etiquette', section:3, total:5, prev:'content/foundations/m1-comms-02.md',       next:'content/foundations/m1-comms-04.md' },
+  'content/foundations/m1-comms-04.md': { module:'The Spirit of Omotenashi', lesson:'Communication & Etiquette', section:4, total:5, prev:'content/foundations/m1-comms-03.md',       next:'content/foundations/m1-comms-05.md' },
+  'content/foundations/m1-comms-05.md': { module:'The Spirit of Omotenashi', lesson:'Communication & Etiquette', section:5, total:5, prev:'content/foundations/m1-comms-04.md',       next:'content/foundations/m1-skills-01.md' },
   // m1-skills (5)
-  'content/foundations/m1-skills-01.md': { module:'Hospitality Basics', lesson:'Service Skills', section:1, total:5, prev:'content/foundations/m1-comms-05.md',   next:'content/foundations/m1-skills-02.md' },
-  'content/foundations/m1-skills-02.md': { module:'Hospitality Basics', lesson:'Service Skills', section:2, total:5, prev:'content/foundations/m1-skills-01.md',  next:'content/foundations/m1-skills-03.md' },
-  'content/foundations/m1-skills-03.md': { module:'Hospitality Basics', lesson:'Service Skills', section:3, total:5, prev:'content/foundations/m1-skills-02.md',  next:'content/foundations/m1-skills-04.md' },
-  'content/foundations/m1-skills-04.md': { module:'Hospitality Basics', lesson:'Service Skills', section:4, total:5, prev:'content/foundations/m1-skills-03.md',  next:'content/foundations/m1-skills-05.md' },
-  'content/foundations/m1-skills-05.md': { module:'Hospitality Basics', lesson:'Service Skills', section:5, total:5, prev:'content/foundations/m1-skills-04.md',  next:'content/foundations/m1-fnb-01.md' },
+  'content/foundations/m1-skills-01.md': { module:'The Spirit of Omotenashi', lesson:'Service Skills', section:1, total:5, prev:'content/foundations/m1-comms-05.md',   next:'content/foundations/m1-skills-02.md' },
+  'content/foundations/m1-skills-02.md': { module:'The Spirit of Omotenashi', lesson:'Service Skills', section:2, total:5, prev:'content/foundations/m1-skills-01.md',  next:'content/foundations/m1-skills-03.md' },
+  'content/foundations/m1-skills-03.md': { module:'The Spirit of Omotenashi', lesson:'Service Skills', section:3, total:5, prev:'content/foundations/m1-skills-02.md',  next:'content/foundations/m1-skills-04.md' },
+  'content/foundations/m1-skills-04.md': { module:'The Spirit of Omotenashi', lesson:'Service Skills', section:4, total:5, prev:'content/foundations/m1-skills-03.md',  next:'content/foundations/m1-skills-05.md' },
+  'content/foundations/m1-skills-05.md': { module:'The Spirit of Omotenashi', lesson:'Service Skills', section:5, total:5, prev:'content/foundations/m1-skills-04.md',  next:'content/foundations/m1-fnb-01.md' },
   // m1-fnb (4)
-  'content/foundations/m1-fnb-01.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:1, total:4, prev:'content/foundations/m1-skills-05.md', next:'content/foundations/m1-fnb-02.md' },
-  'content/foundations/m1-fnb-02.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:2, total:4, prev:'content/foundations/m1-fnb-01.md',    next:'content/foundations/m1-fnb-03.md' },
-  'content/foundations/m1-fnb-03.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:3, total:4, prev:'content/foundations/m1-fnb-02.md',    next:'content/foundations/m1-fnb-04.md' },
-  'content/foundations/m1-fnb-04.md': { module:'Hospitality Basics', lesson:'Food & Beverage', section:4, total:4, prev:'content/foundations/m1-fnb-03.md',    next:'content/foundations/m1-crisis-01.md' },
+  'content/foundations/m1-fnb-01.md': { module:'The Spirit of Omotenashi', lesson:'Food & Beverage', section:1, total:4, prev:'content/foundations/m1-skills-05.md', next:'content/foundations/m1-fnb-02.md' },
+  'content/foundations/m1-fnb-02.md': { module:'The Spirit of Omotenashi', lesson:'Food & Beverage', section:2, total:4, prev:'content/foundations/m1-fnb-01.md',    next:'content/foundations/m1-fnb-03.md' },
+  'content/foundations/m1-fnb-03.md': { module:'The Spirit of Omotenashi', lesson:'Food & Beverage', section:3, total:4, prev:'content/foundations/m1-fnb-02.md',    next:'content/foundations/m1-fnb-04.md' },
+  'content/foundations/m1-fnb-04.md': { module:'The Spirit of Omotenashi', lesson:'Food & Beverage', section:4, total:4, prev:'content/foundations/m1-fnb-03.md',    next:'content/foundations/m1-crisis-01.md' },
   // m1-crisis (4)
-  'content/foundations/m1-crisis-01.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:1, total:4, prev:'content/foundations/m1-fnb-04.md',      next:'content/foundations/m1-crisis-02.md' },
-  'content/foundations/m1-crisis-02.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:2, total:4, prev:'content/foundations/m1-crisis-01.md',   next:'content/foundations/m1-crisis-03.md' },
-  'content/foundations/m1-crisis-03.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:3, total:4, prev:'content/foundations/m1-crisis-02.md',   next:'content/foundations/m1-crisis-04.md' },
-  'content/foundations/m1-crisis-04.md': { module:'Hospitality Basics', lesson:'Crisis Management', section:4, total:4, prev:'content/foundations/m1-crisis-03.md',   next:null },
+  'content/foundations/m1-crisis-01.md': { module:'The Spirit of Omotenashi', lesson:'Crisis Management', section:1, total:4, prev:'content/foundations/m1-fnb-04.md',      next:'content/foundations/m1-crisis-02.md' },
+  'content/foundations/m1-crisis-02.md': { module:'The Spirit of Omotenashi', lesson:'Crisis Management', section:2, total:4, prev:'content/foundations/m1-crisis-01.md',   next:'content/foundations/m1-crisis-03.md' },
+  'content/foundations/m1-crisis-03.md': { module:'The Spirit of Omotenashi', lesson:'Crisis Management', section:3, total:4, prev:'content/foundations/m1-crisis-02.md',   next:'content/foundations/m1-crisis-04.md' },
+  'content/foundations/m1-crisis-04.md': { module:'The Spirit of Omotenashi', lesson:'Crisis Management', section:4, total:4, prev:'content/foundations/m1-crisis-03.md',   next:null },
+
+  // ── FOUNDATIONS II MODULES ────────────────────────────────────────────────
+  // m2-keigo (5)
+  'content/foundations/m2-keigo-01.md': { module:'Practical Service Skills', lesson:'Keigo — Honorific Language', section:1, total:5, prev:null,                                         next:'content/foundations/m2-keigo-02.md' },
+  'content/foundations/m2-keigo-02.md': { module:'Practical Service Skills', lesson:'Keigo — Honorific Language', section:2, total:5, prev:'content/foundations/m2-keigo-01.md',        next:'content/foundations/m2-keigo-03.md' },
+  'content/foundations/m2-keigo-03.md': { module:'Practical Service Skills', lesson:'Keigo — Honorific Language', section:3, total:5, prev:'content/foundations/m2-keigo-02.md',        next:'content/foundations/m2-keigo-04.md' },
+  'content/foundations/m2-keigo-04.md': { module:'Practical Service Skills', lesson:'Keigo — Honorific Language', section:4, total:5, prev:'content/foundations/m2-keigo-03.md',        next:'content/foundations/m2-keigo-05.md' },
+  'content/foundations/m2-keigo-05.md': { module:'Practical Service Skills', lesson:'Keigo — Honorific Language', section:5, total:5, prev:'content/foundations/m2-keigo-04.md',        next:null },
+  // m2-seasons (5)
+  'content/foundations/m2-seasons-01.md': { module:'Practical Service Skills', lesson:'Seasons & Cultural Calendar', section:1, total:5, prev:null,                                       next:'content/foundations/m2-seasons-02.md' },
+  'content/foundations/m2-seasons-02.md': { module:'Practical Service Skills', lesson:'Seasons & Cultural Calendar', section:2, total:5, prev:'content/foundations/m2-seasons-01.md',    next:'content/foundations/m2-seasons-03.md' },
+  'content/foundations/m2-seasons-03.md': { module:'Practical Service Skills', lesson:'Seasons & Cultural Calendar', section:3, total:5, prev:'content/foundations/m2-seasons-02.md',    next:'content/foundations/m2-seasons-04.md' },
+  'content/foundations/m2-seasons-04.md': { module:'Practical Service Skills', lesson:'Seasons & Cultural Calendar', section:4, total:5, prev:'content/foundations/m2-seasons-03.md',    next:'content/foundations/m2-seasons-05.md' },
+  'content/foundations/m2-seasons-05.md': { module:'Practical Service Skills', lesson:'Seasons & Cultural Calendar', section:5, total:5, prev:'content/foundations/m2-seasons-04.md',    next:null },
+  // m2-gift (5)
+  'content/foundations/m2-gift-01.md': { module:'Practical Service Skills', lesson:'Gift-Giving Etiquette', section:1, total:5, prev:null,                                               next:'content/foundations/m2-gift-02.md' },
+  'content/foundations/m2-gift-02.md': { module:'Practical Service Skills', lesson:'Gift-Giving Etiquette', section:2, total:5, prev:'content/foundations/m2-gift-01.md',               next:'content/foundations/m2-gift-03.md' },
+  'content/foundations/m2-gift-03.md': { module:'Practical Service Skills', lesson:'Gift-Giving Etiquette', section:3, total:5, prev:'content/foundations/m2-gift-02.md',               next:'content/foundations/m2-gift-04.md' },
+  'content/foundations/m2-gift-04.md': { module:'Practical Service Skills', lesson:'Gift-Giving Etiquette', section:4, total:5, prev:'content/foundations/m2-gift-03.md',               next:'content/foundations/m2-gift-05.md' },
+  'content/foundations/m2-gift-05.md': { module:'Practical Service Skills', lesson:'Gift-Giving Etiquette', section:5, total:5, prev:'content/foundations/m2-gift-04.md',               next:null },
+  // m2-accommodation (5)
+  'content/foundations/m2-accommodation-01.md': { module:'Practical Service Skills', lesson:'Accommodation Services', section:1, total:5, prev:null,                                              next:'content/foundations/m2-accommodation-02.md' },
+  'content/foundations/m2-accommodation-02.md': { module:'Practical Service Skills', lesson:'Accommodation Services', section:2, total:5, prev:'content/foundations/m2-accommodation-01.md',     next:'content/foundations/m2-accommodation-03.md' },
+  'content/foundations/m2-accommodation-03.md': { module:'Practical Service Skills', lesson:'Accommodation Services', section:3, total:5, prev:'content/foundations/m2-accommodation-02.md',     next:'content/foundations/m2-accommodation-04.md' },
+  'content/foundations/m2-accommodation-04.md': { module:'Practical Service Skills', lesson:'Accommodation Services', section:4, total:5, prev:'content/foundations/m2-accommodation-03.md',     next:'content/foundations/m2-accommodation-05.md' },
+  'content/foundations/m2-accommodation-05.md': { module:'Practical Service Skills', lesson:'Accommodation Services', section:5, total:5, prev:'content/foundations/m2-accommodation-04.md',     next:null },
+  // m2-appearance (5)
+  'content/foundations/m2-appearance-01.md': { module:'Practical Service Skills', lesson:'Professional Appearance', section:1, total:5, prev:null,                                          next:'content/foundations/m2-appearance-02.md' },
+  'content/foundations/m2-appearance-02.md': { module:'Practical Service Skills', lesson:'Professional Appearance', section:2, total:5, prev:'content/foundations/m2-appearance-01.md',    next:'content/foundations/m2-appearance-03.md' },
+  'content/foundations/m2-appearance-03.md': { module:'Practical Service Skills', lesson:'Professional Appearance', section:3, total:5, prev:'content/foundations/m2-appearance-02.md',    next:'content/foundations/m2-appearance-04.md' },
+  'content/foundations/m2-appearance-04.md': { module:'Practical Service Skills', lesson:'Professional Appearance', section:4, total:5, prev:'content/foundations/m2-appearance-03.md',    next:'content/foundations/m2-appearance-05.md' },
+  'content/foundations/m2-appearance-05.md': { module:'Practical Service Skills', lesson:'Professional Appearance', section:5, total:5, prev:'content/foundations/m2-appearance-04.md',    next:null },
+  // m2-teamwork (5)
+  'content/foundations/m2-teamwork-01.md': { module:'Practical Service Skills', lesson:'Teamwork & Staff Harmony', section:1, total:5, prev:null,                                          next:'content/foundations/m2-teamwork-02.md' },
+  'content/foundations/m2-teamwork-02.md': { module:'Practical Service Skills', lesson:'Teamwork & Staff Harmony', section:2, total:5, prev:'content/foundations/m2-teamwork-01.md',       next:'content/foundations/m2-teamwork-03.md' },
+  'content/foundations/m2-teamwork-03.md': { module:'Practical Service Skills', lesson:'Teamwork & Staff Harmony', section:3, total:5, prev:'content/foundations/m2-teamwork-02.md',       next:'content/foundations/m2-teamwork-04.md' },
+  'content/foundations/m2-teamwork-04.md': { module:'Practical Service Skills', lesson:'Teamwork & Staff Harmony', section:4, total:5, prev:'content/foundations/m2-teamwork-03.md',       next:'content/foundations/m2-teamwork-05.md' },
+  'content/foundations/m2-teamwork-05.md': { module:'Practical Service Skills', lesson:'Teamwork & Staff Harmony', section:5, total:5, prev:'content/foundations/m2-teamwork-04.md',       next:null },
+
+  // ── ADVANCED PRACTICE MODULES ─────────────────────────────────────────────
+  // m3-vip (5)
+  'content/foundations/m3-vip-01.md': { module:'Expert Specialization', lesson:'VIP & High-Profile Guest Handling', section:1, total:5, prev:null,                                  next:'content/foundations/m3-vip-02.md' },
+  'content/foundations/m3-vip-02.md': { module:'Expert Specialization', lesson:'VIP & High-Profile Guest Handling', section:2, total:5, prev:'content/foundations/m3-vip-01.md',   next:'content/foundations/m3-vip-03.md' },
+  'content/foundations/m3-vip-03.md': { module:'Expert Specialization', lesson:'VIP & High-Profile Guest Handling', section:3, total:5, prev:'content/foundations/m3-vip-02.md',   next:'content/foundations/m3-vip-04.md' },
+  'content/foundations/m3-vip-04.md': { module:'Expert Specialization', lesson:'VIP & High-Profile Guest Handling', section:4, total:5, prev:'content/foundations/m3-vip-03.md',   next:'content/foundations/m3-vip-05.md' },
+  'content/foundations/m3-vip-05.md': { module:'Expert Specialization', lesson:'VIP & High-Profile Guest Handling', section:5, total:5, prev:'content/foundations/m3-vip-04.md',   next:null },
+  // m3-onsen (5)
+  'content/foundations/m3-onsen-01.md': { module:'Expert Specialization', lesson:'Onsen & Ryokan Etiquette', section:1, total:5, prev:null,                                          next:'content/foundations/m3-onsen-02.md' },
+  'content/foundations/m3-onsen-02.md': { module:'Expert Specialization', lesson:'Onsen & Ryokan Etiquette', section:2, total:5, prev:'content/foundations/m3-onsen-01.md',         next:'content/foundations/m3-onsen-03.md' },
+  'content/foundations/m3-onsen-03.md': { module:'Expert Specialization', lesson:'Onsen & Ryokan Etiquette', section:3, total:5, prev:'content/foundations/m3-onsen-02.md',         next:'content/foundations/m3-onsen-04.md' },
+  'content/foundations/m3-onsen-04.md': { module:'Expert Specialization', lesson:'Onsen & Ryokan Etiquette', section:4, total:5, prev:'content/foundations/m3-onsen-03.md',         next:'content/foundations/m3-onsen-05.md' },
+  'content/foundations/m3-onsen-05.md': { module:'Expert Specialization', lesson:'Onsen & Ryokan Etiquette', section:5, total:5, prev:'content/foundations/m3-onsen-04.md',         next:null },
+  // m3-crosscultural (5)
+  'content/foundations/m3-crosscultural-01.md': { module:'Expert Specialization', lesson:'Cross-Cultural Communication', section:1, total:5, prev:null,                                         next:'content/foundations/m3-crosscultural-02.md' },
+  'content/foundations/m3-crosscultural-02.md': { module:'Expert Specialization', lesson:'Cross-Cultural Communication', section:2, total:5, prev:'content/foundations/m3-crosscultural-01.md', next:'content/foundations/m3-crosscultural-03.md' },
+  'content/foundations/m3-crosscultural-03.md': { module:'Expert Specialization', lesson:'Cross-Cultural Communication', section:3, total:5, prev:'content/foundations/m3-crosscultural-02.md', next:'content/foundations/m3-crosscultural-04.md' },
+  'content/foundations/m3-crosscultural-04.md': { module:'Expert Specialization', lesson:'Cross-Cultural Communication', section:4, total:5, prev:'content/foundations/m3-crosscultural-03.md', next:'content/foundations/m3-crosscultural-05.md' },
+  'content/foundations/m3-crosscultural-05.md': { module:'Expert Specialization', lesson:'Cross-Cultural Communication', section:5, total:5, prev:'content/foundations/m3-crosscultural-04.md', next:null },
+  // m3-digital (5)
+  'content/foundations/m3-digital-01.md': { module:'Expert Specialization', lesson:'Digital Tools & Modern Hospitality', section:1, total:5, prev:null,                                      next:'content/foundations/m3-digital-02.md' },
+  'content/foundations/m3-digital-02.md': { module:'Expert Specialization', lesson:'Digital Tools & Modern Hospitality', section:2, total:5, prev:'content/foundations/m3-digital-01.md',   next:'content/foundations/m3-digital-03.md' },
+  'content/foundations/m3-digital-03.md': { module:'Expert Specialization', lesson:'Digital Tools & Modern Hospitality', section:3, total:5, prev:'content/foundations/m3-digital-02.md',   next:'content/foundations/m3-digital-04.md' },
+  'content/foundations/m3-digital-04.md': { module:'Expert Specialization', lesson:'Digital Tools & Modern Hospitality', section:4, total:5, prev:'content/foundations/m3-digital-03.md',   next:'content/foundations/m3-digital-05.md' },
+  'content/foundations/m3-digital-05.md': { module:'Expert Specialization', lesson:'Digital Tools & Modern Hospitality', section:5, total:5, prev:'content/foundations/m3-digital-04.md',   next:null },
+
+  // ── READING GUEST EMOTIONS (5) ────────────────────────────────────────────
+  'content/foundations/m4-emotions-01.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:1, total:6, prev:null,                                         next:'content/foundations/m4-emotions-02.md' },
+  'content/foundations/m4-emotions-02.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:2, total:6, prev:'content/foundations/m4-emotions-01.md',      next:'content/foundations/m4-emotions-03.md' },
+  'content/foundations/m4-emotions-03.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:3, total:6, prev:'content/foundations/m4-emotions-02.md',      next:'content/foundations/m4-emotions-04.md' },
+  'content/foundations/m4-emotions-04.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:4, total:6, prev:'content/foundations/m4-emotions-03.md',      next:'content/foundations/m4-emotions-05.md' },
+  'content/foundations/m4-emotions-05.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:5, total:6, prev:'content/foundations/m4-emotions-04.md',      next:'content/foundations/m4-emotions-06.md' },
+  'content/foundations/m4-emotions-06.md': { module:'Reading Guest Emotions', lesson:'Reading Guest Emotions', section:6, total:6, prev:'content/foundations/m4-emotions-05.md',      next:null },
 
   // ── VOCABULARY MODULES ────────────────────────────────────────────────────
   // v01-vocab (24)
@@ -842,10 +914,11 @@ const FILE_MAP = {
 };
 
 // ── QUIZ RENDERER ─────────────────────────────────────────────────────────────
+let _quizCounter = 0;
 function renderQuiz(meta) {
   if (!meta) return '';
   const { type, q, opts, correct, exp, answer, answers, a } = meta;
-  const qId = 'q_' + Math.random().toString(36).slice(2);
+  const qId = 'q_' + (++_quizCounter);
 
   if (type === 'mcq') {
     const optHtml = opts.map((o, i) => {
@@ -882,7 +955,7 @@ function renderQuiz(meta) {
     return `<div class="section-quiz">
       <div class="quiz-label">Fill in the Blank</div>
       <div class="quiz-q">${q}</div>
-      <input class="fitb-input" id="${qId}-input" type="text" placeholder="Type your answer…" autocomplete="off">
+      <input class="fitb-input" id="${qId}-input" type="text" placeholder="Type your answer…" autocomplete="off" onkeydown="if(event.key==='Enter')checkFITB('${qId}','${ansEsc}','${expEsc}',${extras})">
       <button class="quiz-check" onclick="checkFITB('${qId}','${ansEsc}','${expEsc}',${extras})">Check Answer</button>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
@@ -980,6 +1053,7 @@ function checkFITB(qId, answer, exp, extras) {
   fb.style.display = 'block';
   if (ok) {
     input.disabled = true;
+    input.nextElementSibling.disabled = true;
     fb.className = 'quiz-feedback ok';
     fb.textContent = '✓ Correct! ' + exp;
     setTimeout(showCompletionModal, 600);
@@ -1685,10 +1759,12 @@ async function render() {
 
   let raw;
   try {
-    const base = location.hostname === '127.0.0.1' || location.hostname === 'localhost' ? '/' : '/omotenashi-training/';
+    const h = location.hostname;
+    const isLocal = h === '127.0.0.1' || h === 'localhost' || h === '::1';
+    const base = isLocal ? '/' : '/omotenashi-training/';
     const res = await fetch(base + file);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    raw = await res.text();
+    raw = (await res.text()).replace(/\r\n/g, '\n');
   } catch(e) {
     document.getElementById('main').innerHTML = `<div class="loading">Could not load file (${e.message}). <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>`;
     return;
@@ -1705,7 +1781,7 @@ async function render() {
   const quiz = parseQuizMarkdown(quizRaw);
 
   const sectionTitle = meta.title || '';
-  const moduleLabel = info.module || 'Course Foundations';
+  const moduleLabel = info.module || 'The Spirit of Omotenashi';
   const lessonLabel = info.lesson || '';
   const sectionNum = info.section || meta.section || '';
   const total = info.total || '';
@@ -1778,7 +1854,7 @@ function toggleMode() {
 })();
 
 </script>
-<script src="search.js"></script>
+<script src="assets/search.js"></script>
 <script src="assets/nav.js"></script>
 </body>
 </html>

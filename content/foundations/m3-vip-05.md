@@ -1,0 +1,44 @@
+---
+id: m3-vip
+section: 5
+title: Recovery at the VIP Level
+---
+
+Service failures at the VIP level carry amplified consequences — and amplified recovery potential. A VIP guest who experiences a problem and sees it resolved with exceptional speed, sincerity, and personalisation will often become the property's most loyal advocate. The same guest who experiences a failure that is handled poorly will not return, and may very publicly not return.
+
+**The speed imperative:**
+
+At the VIP level, the acceptable time between a problem being identified and action being taken is measured in minutes, not hours. The moment a staff member becomes aware of an issue involving a VIP guest, it is escalated immediately — to the duty manager if minor, to the general manager if significant. No one should decide alone whether an issue involving a VIP guest is "serious enough" to escalate.
+
+**The personal response:**
+
+A VIP guest who has experienced a failure should hear from a senior person — the general manager or department head — in person, not by phone, and not through a written apology alone. The senior staff member should:
+
+1. Acknowledge the failure specifically and without deflection
+2. Apologise sincerely — not formulaically
+3. Explain what is being done to resolve it
+4. Offer a meaningful gesture of recovery, calibrated to the nature of the failure
+5. Follow up personally to confirm that the resolution was satisfactory
+
+**The recovery gesture:**
+
+The gesture must be proportionate and personal — not a generic gift. A bottle of champagne offered to a guest who does not drink is worse than no gesture. Review what you know about the guest and respond accordingly.
+
+**The after-action:**
+
+Once the guest has departed, conduct an internal review. What failed, why, and what changes in process or communication would prevent a recurrence? The VIP recovery is not complete until the system has been improved.
+
+---
+
+## Quiz
+
+**A VIP guest reports that their room was not prepared to the specifications agreed in advance. Who should respond, and how?**
+
+- A. The front desk agent who receives the complaint should handle it and send a written apology
+- B. A senior manager should respond in person — acknowledging, apologising, resolving, and following up
+- C. The housekeeping supervisor should re-prepare the room and leave a note of apology
+- D. The general manager should call the guest from the office to apologise
+
+**Correct Answer:** A senior manager should respond in person — acknowledging, apologising, resolving, and following up
+
+**Explanation:** At the VIP level, a significant failure requires a personal, senior response. Phone calls and written apologies lack the weight of a face-to-face acknowledgement. The response must be immediate, sincere, and followed up personally.
