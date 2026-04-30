@@ -399,7 +399,7 @@ function showCardScreen() {
       '<button class="cs-btn cs-know" id="csKnow" onclick="markCard(\'know\')" disabled>Know it ✓</button>' +
       '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')" disabled>Still learning △</button>' +
     '</div>' +
-    '<div class="cs-status" id="csStatus">flip the card first</div>' +
+    '<div class="cs-status" id="csStatus"></div>' +
     '<div class="cs-adv-bar" id="csAdvBar"></div>' +
     '<div class="cs-nav">' +
       '<button class="cs-nav-btn" id="csNavPrev" onclick="goPrev()" disabled>← Prev</button>' +
@@ -467,7 +467,7 @@ function updateCard(file, data) {
   if (statusEl) {
     if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span> — flip to re-evaluate';
     else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span> — flip to re-evaluate';
-    else statusEl.textContent = 'flip the card first';
+    else statusEl.textContent = '';
   }
 
   // Counter & nav
