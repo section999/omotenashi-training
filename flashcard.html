@@ -510,7 +510,7 @@ function flipCard() {
     if (learning) learning.disabled = false;
     const statusEl = document.getElementById('csStatus');
     const file = session.roundFiles[session.queueIdx];
-    if (statusEl && !getStatus(file)) statusEl.textContent = 'How well did you know this?';
+    if (statusEl && !getStatus(file)) statusEl.textContent = '';
   } else {
     back.style.opacity = '0';
     setTimeout(() => {
