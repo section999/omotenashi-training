@@ -243,7 +243,8 @@ function parseVocabMD(text) {
   const romaji = tm ? tm[2].trim() : '';
   const body = text.replace(/^---\n[\s\S]*?\n---\n?/, '').trim();
   const paras = body.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
-  const definition = paras.length > 1 ? paras[1].replace(/^#+\s*/, '') : (paras[0] || '');
+  let definition = paras.length > 1 ? paras[1] : (paras[0] || '');
+  definition = definition.replace(/^#+\s*/, '').replace(/^\*\*Meaning:\*\*\s*/i, '');
   return { jp, romaji, definition };
 }
 
