@@ -543,6 +543,8 @@
           <div class="nav-dropdown">
             <a href="index.html">Main</a>
             <a href="curriculum.html">Curriculum</a>
+            <a href="progress.html">Progress</a>
+            <a href="calendar.html">Cultural Calendar</a>
             <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
             <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
           </div>
@@ -587,6 +589,15 @@
       <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
         Start Learning
       </button>
+    </div>
+  </div>
+
+  <!-- SRS REVIEW PANEL -->
+  <div id="srs-panel" style="display:none;background:var(--bg-primary);border-bottom:1px solid var(--border-default);">
+    <div style="max-width:860px;margin:0 auto;padding:12px 32px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+      <span style="font-size:1.1rem;">🔁</span>
+      <span id="srs-text" style="color:var(--text-secondary);font-size:0.9rem;flex:1;"></span>
+      <a id="srs-link" href="#" style="background:var(--accent-yellow);color:#0a0a23;padding:7px 16px;border-radius:4px;font-size:0.85rem;font-weight:700;text-decoration:none;">Review Now</a>
     </div>
   </div>
 
@@ -1983,6 +1994,30 @@
     (function() {
       const name = localStorage.getItem('omotenashi:user:name');
       if (name) updateBanner(name);
+    })();
+
+    // ── SRS REVIEW PANEL ──────────────────────────────────────────────────────
+    (function() {
+      const now = Date.now();
+      const due = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (!k || !k.startsWith('omotenashi:srs:')) continue;
+        try {
+          const d = JSON.parse(localStorage.getItem(k));
+          if (d && d.nextReview && d.nextReview <= now) {
+            due.push(k.replace('omotenashi:srs:', ''));
+          }
+        } catch(e) {}
+      }
+      if (!due.length) return;
+      const panel = document.getElementById('srs-panel');
+      const text  = document.getElementById('srs-text');
+      const link  = document.getElementById('srs-link');
+      if (!panel || !text || !link) return;
+      text.textContent = due.length + ' lesson' + (due.length > 1 ? 's' : '') + ' ready for review';
+      link.href = 'md-viewer.html?file=' + encodeURIComponent(due[0]);
+      panel.style.display = 'block';
     })();
 
     // Dark / Light mode toggle

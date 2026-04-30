@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <title>Cultural Calendar — Omotenashi Training</title>
+  <style>
+    :root {
+      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
+      --accent-yellow:#f1be32; --accent-blue:#198eee;
+      --accent-green:#1fad69; --accent-red:#c5442a;
+      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
+      --border-default:#2a2a4a;
+      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+    }
+    [data-theme="light"] {
+      --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
+      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a;
+      --border-default:#c8c9cc;
+    }
+    [data-theme="light"] .nav { background:#0a0a23 !important; }
+    [data-theme="light"] .nav * { color:#ffffff !important; border-color:transparent !important; }
+    [data-theme="light"] .nav-dropdown { background:#1b1b32 !important; border-color:#3b3b5c !important; }
+    [data-theme="light"] .nav-dropdown a:hover { background:rgba(255,255,255,0.08) !important; }
+    [data-theme="light"] .footer { background:#0a0a23 !important; }
+    [data-theme="light"] .footer * { color:#ffffff !important; }
+    [data-theme="light"] .phrase-box { background:#f0f4f8 !important; border-color:#c8c9cc !important; }
+    [data-theme="light"] .phrase-jp { color:#1b1b32 !important; }
+    [data-theme="light"] .event-card { background:#ffffff !important; }
+    [data-theme="light"] .event-card p, [data-theme="light"] .event-card li { color:#46465e; }
+
+    *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
+    html { font-size:18px; }
+    body { background:var(--bg-secondary); color:var(--text-primary); font-family:'Segoe UI',system-ui,sans-serif; min-height:100vh; }
+
+    /* NAV */
+    .nav { position:fixed; top:0; left:0; right:0; z-index:200; height:60px; background:#0a0a23; }
+    .nav-inner { max-width:1200px; margin:0 auto; padding:0 32px; height:100%; display:flex; align-items:center; justify-content:space-between; position:relative; }
+    @media (max-width:640px) { .nav-inner { padding:0 16px; } }
+
+    /* MAIN */
+    .main { max-width:860px; margin:0 auto; padding:96px 32px 80px; }
+    .page-title { font-size:1.5rem; font-weight:700; color:var(--accent-yellow); margin-bottom:6px; font-family:var(--font-mono); }
+    .page-sub { color:var(--text-secondary); font-size:0.9rem; margin-bottom:48px; line-height:1.6; }
+
+    /* SEASON HEADER */
+    .season-header {
+      display:flex; align-items:center; gap:14px;
+      margin:48px 0 24px; padding-bottom:10px;
+      border-bottom:2px solid var(--border-default);
+    }
+    .season-icon { font-size:1.6rem; }
+    .season-name { font-size:1.15rem; font-weight:700; color:var(--accent-yellow); font-family:var(--font-mono); }
+    .season-months { font-size:0.82rem; color:var(--text-muted); margin-top:2px; }
+
+    /* EVENT CARD */
+    .event-card {
+      background:var(--bg-primary); border:1px solid var(--border-default);
+      border-radius:8px; padding:20px 24px; margin-bottom:20px;
+    }
+    .event-title { font-size:1rem; font-weight:700; color:#fff; margin-bottom:10px; }
+    .event-card p { font-size:0.88rem; color:var(--text-secondary); line-height:1.7; margin-bottom:10px; }
+    .event-card ul { font-size:0.88rem; color:var(--text-secondary); line-height:1.7; margin:0 0 10px 1.2rem; }
+    .event-card li { margin-bottom:4px; }
+    .event-card strong { color:var(--text-primary); }
+
+    /* PHRASE BOX */
+    .phrase-box {
+      background:var(--bg-tertiary); border:1px solid var(--border-default);
+      border-radius:6px; padding:12px 16px; margin-top:10px;
+    }
+    .phrase-label { font-size:0.72rem; font-family:var(--font-mono); text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); margin-bottom:6px; }
+    .phrase-jp { font-size:1rem; color:var(--accent-yellow); margin-bottom:2px; line-height:1.5; }
+    .phrase-ro { font-size:0.78rem; color:var(--text-muted); font-family:var(--font-mono); margin-bottom:4px; }
+    .phrase-en { font-size:0.82rem; color:var(--text-secondary); font-style:italic; }
+
+    /* FOOTER */
+    .footer { border-top:none; padding:18px 0; margin-top:40px; background:#0a0a23; }
+    .footer-inner { max-width:1300px; margin:0 auto; padding:0 32px; display:flex; align-items:center; justify-content:center; position:relative; }
+    .footer-brand { font-family:var(--font-mono); font-size:1rem; color:#fff; text-decoration:none; }
+    .scroll-top { position:absolute; right:32px; width:36px; height:36px; background:transparent; border:none; border-radius:4px; color:#fff; cursor:pointer; font-size:1.1rem; opacity:0.7; transition:opacity 0.2s; }
+    .scroll-top:hover { opacity:1; }
+
+    @media (max-width:640px) {
+      .main { padding:80px 16px 60px; }
+      .event-card { padding:16px; }
+    }
+  </style>
+  <link rel="stylesheet" href="assets/nav.css" />
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <div class="nav-search-wrap">
+      <div class="nav-search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off" />
+      </div>
+      <div id="navSearchDrop" class="nav-search-drop"></div>
+    </div>
+    <a href="index.html" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;">
+      <img src="assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
+    </a>
+    <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
+      <div class="nav-menu-wrap">
+        <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="nav-dropdown">
+          <a href="index.html">Main</a>
+          <a href="curriculum.html">Curriculum</a>
+          <a href="progress.html">Progress</a>
+          <a href="calendar.html">Cultural Calendar</a>
+          <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+          <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<main class="main">
+  <div class="page-title">Cultural Calendar</div>
+  <div class="page-sub">
+    Japan's hospitality experience changes throughout the year. Each season brings distinct cultural events, guest expectations, and appropriate greetings.
+    Understanding this rhythm allows you to serve guests with greater sensitivity and context.
+  </div>
+
+  <!-- ── SPRING ─────────────────────────────────────────────── -->
+  <div class="season-header">
+    <span class="season-icon">🌸</span>
+    <div>
+      <div class="season-name">Spring</div>
+      <div class="season-months">March — May</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Sakura Season — Cherry Blossom Viewing (花見 Hanami)</div>
+    <p>From late March through mid-April, Japan's cherry blossoms transform cities and countryside alike. This is one of the peak foreign tourist seasons, and guests arrive in an elevated, celebratory mood. Parks fill with picnickers, and the atmosphere is festive yet fleeting.</p>
+    <p><strong>Hospitality context:</strong> Guests often want local recommendations for viewing spots. The sakura season is brief — weather-dependent and lasting only one to two weeks — so urgency matters. Offer seasonal amenities where possible: sakura-themed sweets, tea, or small decorations in rooms.</p>
+    <ul>
+      <li>Recommend the best nearby viewing times and locations</li>
+      <li>Have umbrellas available — spring rains arrive during peak bloom</li>
+      <li>Celebrate the season in greetings without overstating it</li>
+    </ul>
+    <div class="phrase-box">
+      <div class="phrase-label">Seasonal Greeting</div>
+      <div class="phrase-jp">今年の桜はとても綺麗ですね。</div>
+      <div class="phrase-ro">Kotoshi no sakura wa totemo kirei desu ne.</div>
+      <div class="phrase-en">"The cherry blossoms are especially beautiful this year, aren't they."</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">New Fiscal &amp; Academic Year (新年度 Shinnendo) — April 1</div>
+    <p>Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities welcome new students, and employees transfer to new positions. This creates a wave of celebratory travel — family trips to accompany children starting university, farewell dinners, and welcome gatherings.</p>
+    <p><strong>Hospitality context:</strong> Many guests are experiencing significant life transitions. A warm, congratulatory tone is appropriate. Listen for context cues: a family checking in may be accompanying a child moving to the city. A solo guest in business attire may be relocating for a new position.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Celebratory Greetings</div>
+      <div class="phrase-jp">ご入学おめでとうございます。</div>
+      <div class="phrase-ro">Go-nyuugaku omedetou gozaimasu.</div>
+      <div class="phrase-en">"Congratulations on your enrollment."</div>
+    </div>
+    <div class="phrase-box" style="margin-top:8px;">
+      <div class="phrase-label"></div>
+      <div class="phrase-jp">ご就職おめでとうございます。</div>
+      <div class="phrase-ro">Go-shuushoku omedetou gozaimasu.</div>
+      <div class="phrase-en">"Congratulations on your new position."</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Golden Week — Late April to Early May</div>
+    <p>Golden Week is Japan's longest holiday cluster — a series of national holidays concentrated over approximately ten days. Showa Day (April 29), Constitution Day (May 3), Greenery Day (May 4), and Children's Day (May 5) fall in quick succession. Japan's tourism infrastructure operates at maximum capacity.</p>
+    <p><strong>Hospitality context:</strong> Hotels are fully booked months in advance. Guests are in holiday mode — relaxed, indulgent, and expecting premium experiences. Domestic travel is very high, meaning many guests will be Japanese families. Manage queues with grace, maintain energy among staff, and ensure all amenities are fully stocked.</p>
+    <ul>
+      <li>Staff levels should be at maximum during Golden Week</li>
+      <li>Pre-anticipate breakfast and dining demand — consider extended service hours</li>
+      <li>Children's Day (May 5): families with children are the dominant guest type</li>
+    </ul>
+  </div>
+
+  <!-- ── SUMMER ─────────────────────────────────────────────── -->
+  <div class="season-header">
+    <span class="season-icon">☀️</span>
+    <div>
+      <div class="season-name">Summer</div>
+      <div class="season-months">June — August</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Tsuyu — Rainy Season (梅雨) — June to Mid-July</div>
+    <p>The rainy season (tsuyu) brings sustained humidity and frequent rain across most of Japan. Guests arrive damp, and the atmosphere can feel heavy. This is an underrated opportunity for warmth.</p>
+    <p><strong>Hospitality context:</strong> Have umbrellas available at entrances. Greet guests who have clearly walked in the rain with immediate acknowledgement. A warm towel or dry cloth offered without being asked is a powerful act of omoiyari.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Wet-Weather Greeting</div>
+      <div class="phrase-jp">お足元の悪い中、お越しいただきありがとうございます。</div>
+      <div class="phrase-ro">O-ashimoto no warui naka, okosei itadaki arigatou gozaimasu.</div>
+      <div class="phrase-en">"Thank you for coming despite the difficult conditions underfoot."</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Tanabata — Star Festival (七夕) — July 7</div>
+    <p>Tanabata celebrates the annual meeting of two star deities — Orihime and Hikoboshi — separated by the Milky Way. Tradition involves writing wishes on colourful paper strips (tanzaku) and hanging them on bamboo branches. Many hotels and ryokan display elaborate bamboo decorations throughout the lobby.</p>
+    <p><strong>Hospitality context:</strong> This is an excellent guest-engagement opportunity. Placing a wish-writing station in the lobby invites participation without obligation. Japanese guests will be familiar with the tradition; international guests will find it charming and memorable.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Guest Invitation</div>
+      <div class="phrase-jp">お願い事を短冊に書かれますか？</div>
+      <div class="phrase-ro">O-negaigoto wo tanzaku ni kaka re masu ka?</div>
+      <div class="phrase-en">"Would you like to write a wish on a strip of paper?"</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Obon — Ancestral Memorial Period (お盆) — Mid-August</div>
+    <p>Obon is Japan's most significant ancestral remembrance period. Many Japanese travel to their family hometowns to tend graves and hold family reunions. Urban hotels may see a drop in occupancy while rural and coastal properties fill completely. Traditional festivals (bon odori dance gatherings) take place throughout the country.</p>
+    <p><strong>Hospitality context:</strong> The emotional register of Obon is reflective and familial — different from the celebratory energy of other peak seasons. Some guests may be processing grief. Quieter, more attentive service is appropriate. Yukata are common; traditional-style properties should be fully stocked.</p>
+    <ul>
+      <li>Domestic travel peaks in second week of August — prepare accordingly</li>
+      <li>Be aware guests may be in a reflective, not festive, frame of mind</li>
+      <li>Public transport and roads are very busy — airport transfers may take longer</li>
+    </ul>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Summer Heat Greeting — July &amp; August</div>
+    <p>During Japan's hot, humid summer, acknowledging the heat in greetings is standard practice — both between colleagues and toward guests. It is a form of care, not small talk.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Summer Greeting</div>
+      <div class="phrase-jp">暑い中をお越しいただきありがとうございます。</div>
+      <div class="phrase-ro">Atsui naka wo okoshi itadaki arigatou gozaimasu.</div>
+      <div class="phrase-en">"Thank you for coming in this heat."</div>
+    </div>
+    <div class="phrase-box" style="margin-top:8px;">
+      <div class="phrase-label">Written Summer Greeting (formal)</div>
+      <div class="phrase-jp">暑中お見舞い申し上げます。</div>
+      <div class="phrase-ro">Shochuu omimai moushiagemasu.</div>
+      <div class="phrase-en">"I offer my summer greetings to you." (Used on seasonal cards and formal communications.)</div>
+    </div>
+  </div>
+
+  <!-- ── AUTUMN ─────────────────────────────────────────────── -->
+  <div class="season-header">
+    <span class="season-icon">🍂</span>
+    <div>
+      <div class="season-name">Autumn</div>
+      <div class="season-months">September — November</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Koyo — Autumn Foliage (紅葉) — October to November</div>
+    <p>Japan's autumn foliage season rivals cherry blossom season in its national significance. The progression of red and gold leaves moves southward through October and November. Kyoto, Nikko, Hakone, and countless mountain resorts are completely full. International tourism peaks during koyo, particularly from East Asia.</p>
+    <p><strong>Hospitality context:</strong> Guests are highly motivated to see foliage at its peak — which, like sakura, is weather-dependent and brief. Current foliage conditions should be known by all front-line staff. Offer recommendations proactively.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Seasonal Comment</div>
+      <div class="phrase-jp">紅葉がきれいな季節になりましたね。</div>
+      <div class="phrase-ro">Kouyou ga kirei na kisetsu ni nari mashita ne.</div>
+      <div class="phrase-en">"The autumn colours have become so beautiful, haven't they."</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Respect for the Aged Day (敬老の日) — 3rd Monday of September</div>
+    <p>This national holiday honours Japan's elderly population. Many families take older relatives out for meals or short trips. Elderly guests should always receive additional attentiveness — but on this day especially, multi-generational groups are common and a celebratory dynamic may be present.</p>
+    <p><strong>Hospitality context:</strong> Anticipate the needs of elderly guests without drawing attention to their age. Offer to carry bags, slow your pace when walking with them, provide clear and simple directions. If a family is celebrating an elderly relative, a small acknowledgement from the property is a meaningful touch.</p>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Culture Day (文化の日) — November 3</div>
+    <p>Culture Day is a national holiday celebrating art, culture, and the arts. Museums offer free admission, cultural events are held nationwide, and traditional ceremonies take place at significant sites. Guest behaviour leans toward cultural exploration.</p>
+    <p><strong>Hospitality context:</strong> Be ready to recommend cultural events, museum exhibitions, and traditional experiences nearby. Guests on this day are often seeking depth of experience over pure leisure.</p>
+  </div>
+
+  <!-- ── WINTER ─────────────────────────────────────────────── -->
+  <div class="season-header">
+    <span class="season-icon">❄️</span>
+    <div>
+      <div class="season-name">Winter</div>
+      <div class="season-months">December — February</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Oseibo — Year-End Gift Giving (お歳暮) — December</div>
+    <p>Oseibo is the traditional year-end gift-giving custom, where businesses and individuals send gifts of appreciation to those who have helped them during the year. High-end department stores and hotels process large volumes of gift deliveries throughout December.</p>
+    <p><strong>Hospitality context:</strong> Business guests may be coordinating gift deliveries to their company's clients. Provide efficient assistance with receiving and forwarding deliveries. Gift wrapping and luggage storage services may see increased demand.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Year-End Appreciation</div>
+      <div class="phrase-jp">本年も大変お世話になりました。</div>
+      <div class="phrase-ro">Honnen mo taihen osewa ni narimashita.</div>
+      <div class="phrase-en">"Thank you very much for your continued support throughout this year."</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">New Year — Oshogatsu (お正月) — December 31 to January 3</div>
+    <p>New Year is Japan's most important cultural period. December 31st (Oomisoka) is spent with family, and January 1–3 are the core holiday days. Many Japanese visit shrines and temples for Hatsumode (first shrine visit of the year). Ryokan and hot spring resorts are booked months in advance.</p>
+    <p><strong>Hospitality context:</strong> New Year's greetings change precisely on January 1st. Using the correct greeting at the right time is a mark of professionalism. Osechi ryori (traditional New Year cuisine) is central to the experience at traditional properties. Properties often decorate entrances with kadomatsu (bamboo and pine arrangements) and shimekazari (rope decorations).</p>
+    <ul>
+      <li>Before January 1: use year-end farewell expressions</li>
+      <li>From January 1: switch to New Year greeting immediately</li>
+      <li>New Year greetings remain appropriate through mid-January (松の内 matsu no uchi period)</li>
+    </ul>
+    <div class="phrase-box">
+      <div class="phrase-label">New Year Greeting (from January 1)</div>
+      <div class="phrase-jp">明けましておめでとうございます。本年もよろしくお願いいたします。</div>
+      <div class="phrase-ro">Akemashite omedetou gozaimasu. Honnen mo yoroshiku onegai itashimasu.</div>
+      <div class="phrase-en">"Happy New Year. I look forward to your continued support this year."</div>
+    </div>
+    <div class="phrase-box" style="margin-top:8px;">
+      <div class="phrase-label">Year-End Farewell (December)</div>
+      <div class="phrase-jp">良いお年をお迎えください。</div>
+      <div class="phrase-ro">Yoi otoshi wo omukae kudasai.</div>
+      <div class="phrase-en">"Please have a good New Year." (Said before the New Year arrives.)</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Setsubun — Bean Throwing Festival (節分) — February 3 or 4</div>
+    <p>Setsubun marks the day before the traditional start of spring. The primary tradition is mamemaki (bean throwing) — shouting "Oni wa soto! Fuku wa uchi!" (Out with demons! In with luck!) while throwing roasted soybeans. Many shrines hold public ceremonies, and families participate at home.</p>
+    <p><strong>Hospitality context:</strong> Some hotels and ryokan hold small Setsubun events for guests, including bean-throwing or demon mask displays. It is an excellent conversation starter with Japanese guests and a charming cultural introduction for international visitors.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Setsubun Ritual Phrase</div>
+      <div class="phrase-jp">鬼は外！福は内！</div>
+      <div class="phrase-ro">Oni wa soto! Fuku wa uchi!</div>
+      <div class="phrase-en">"Out with demons! In with good fortune!"</div>
+    </div>
+  </div>
+
+  <div class="event-card">
+    <div class="event-title">Cold-Weather Greeting — December to February</div>
+    <p>In winter, acknowledging the cold in your greeting is a natural and considerate act — particularly when guests have come from outside. It signals awareness and care.</p>
+    <div class="phrase-box">
+      <div class="phrase-label">Cold-Weather Greeting</div>
+      <div class="phrase-jp">寒い中をお越しいただきありがとうございます。</div>
+      <div class="phrase-ro">Samui naka wo okoshi itadaki arigatou gozaimasu.</div>
+      <div class="phrase-en">"Thank you for coming in this cold."</div>
+    </div>
+    <div class="phrase-box" style="margin-top:8px;">
+      <div class="phrase-label">Written Winter Greeting (formal)</div>
+      <div class="phrase-jp">寒中お見舞い申し上げます。</div>
+      <div class="phrase-ro">Kanchuu omimai moushiagemasu.</div>
+      <div class="phrase-en">"I offer my midwinter greetings to you."</div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="footer">
+  <div style="max-width:1300px;margin:0 auto;padding:0 32px;">
+    <div class="footer-inner">
+      <a href="index.html" class="footer-brand">Omotenashi Training</a>
+      <button class="scroll-top" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+    </div>
+  </div>
+</footer>
+
+<script>
+function toggleMode() {
+  const html = document.documentElement;
+  const isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  localStorage.setItem('theme', isLight ? 'dark' : 'light');
+}
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
+  document.addEventListener('click', e => {
+    document.querySelectorAll('.nav-dropdown.open').forEach(d => {
+      if (!d.parentElement.contains(e.target)) d.classList.remove('open');
+    });
+  });
+})();
+</script>
+<script src="assets/search.js"></script>
+<script src="assets/nav.js"></script>
+</body>
+</html>
