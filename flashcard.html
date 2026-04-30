@@ -4,7 +4,7 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="icon" type="image/png" href="assets/favicon-32x32.png"/>
-  <title>Flashcard Practice — Omotenashi Training</title>
+  <title>Flashcard — Omotenashi Training</title>
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
@@ -302,7 +302,7 @@ function showSetupScreen(preGroup) {
   const known = allKnownCount();
   const pct = Math.round((known / ALL_FILES.length) * 100);
   document.getElementById('mainContent').innerHTML =
-    '<div class="setup-title">Flashcard Practice</div>' +
+    '<div class="setup-title">Flashcard</div>' +
     '<div class="setup-sub">429 vocabulary words · 15 topics · interactive study</div>' +
     '<div class="setup-card">' +
       '<div class="setup-row">' +
