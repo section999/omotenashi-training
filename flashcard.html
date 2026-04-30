@@ -1,120 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png"/>
   <title>Flashcard Practice — Omotenashi Training</title>
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
-      --accent-yellow:#f1be32; --accent-blue:#198eee;
-      --accent-green:#1fad69; --accent-red:#c5442a;
+      --accent-yellow:#f1be32; --accent-blue:#198eee; --accent-green:#1fad69; --accent-red:#c5442a;
       --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
-      --text-inverse:#0a0a23; --border-default:#2a2a4a;
-      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+      --border-default:#2a2a4a; --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
     }
     [data-theme="light"] {
       --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
-      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a;
-      --border-default:#c8c9cc;
+      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a; --border-default:#c8c9cc;
     }
     [data-theme="light"] .nav { background:#0a0a23 !important; }
-    [data-theme="light"] .nav * { color:#ffffff !important; border-color:transparent !important; }
+    [data-theme="light"] .nav * { color:#ffffff !important; }
     [data-theme="light"] .nav-dropdown { background:#1b1b32 !important; border-color:#3b3b5c !important; }
-    [data-theme="light"] .nav-dropdown a:hover { background:rgba(255,255,255,0.08) !important; }
     [data-theme="light"] .footer { background:#0a0a23 !important; }
     [data-theme="light"] .footer * { color:#ffffff !important; }
     *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; }
     html { font-size:18px; }
     body { background:var(--bg-secondary); color:var(--text-primary); font-family:'Segoe UI',system-ui,sans-serif; min-height:100vh; }
 
-    /* NAV */
     .nav { position:fixed; top:0; left:0; right:0; z-index:200; height:60px; background:#0a0a23; }
     .nav-inner { max-width:1200px; margin:0 auto; padding:0 32px; height:100%; display:flex; align-items:center; justify-content:space-between; position:relative; }
     @media (max-width:640px) { .nav-inner { padding:0 16px; } }
 
-    /* MAIN */
-    .main { max-width:700px; margin:0 auto; padding:96px 32px 80px; display:flex; flex-direction:column; align-items:center; }
+    .main { max-width:660px; margin:0 auto; padding:84px 24px 80px; }
 
-    /* HEADER */
-    .fc-header { width:100%; margin-bottom:24px; }
-    .fc-group-name { font-family:var(--font-mono); font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em; color:var(--text-muted); margin-bottom:4px; }
-    .fc-progress-row { display:flex; align-items:center; gap:12px; }
-    .fc-progress-bar-wrap { flex:1; height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; }
-    .fc-progress-bar { height:100%; background:var(--accent-green); border-radius:3px; transition:width 0.4s; }
-    .fc-progress-label { font-size:0.8rem; color:var(--text-muted); font-family:var(--font-mono); white-space:nowrap; }
+    /* ── SETUP ── */
+    .setup-title { font-family:var(--font-mono); font-size:1.4rem; font-weight:700; color:var(--accent-yellow); margin-bottom:4px; }
+    .setup-sub { font-size:0.82rem; color:var(--text-muted); margin-bottom:24px; }
+    .setup-card { background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px; padding:24px 28px; margin-bottom:16px; }
+    .setup-row { margin-bottom:18px; }
+    .setup-label { display:block; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); margin-bottom:7px; font-family:var(--font-mono); }
+    .setup-select { width:100%; background:var(--bg-tertiary); color:var(--text-primary); border:1px solid var(--border-default); border-radius:5px; padding:9px 12px; font-size:0.85rem; cursor:pointer; }
+    .tog-group { display:flex; gap:8px; }
+    .tog-btn { flex:1; padding:9px 10px; border-radius:5px; border:1px solid var(--border-default); background:transparent; color:var(--text-secondary); font-size:0.83rem; cursor:pointer; transition:all 0.15s; }
+    .tog-btn.active { background:var(--accent-yellow); color:#0a0a23; border-color:var(--accent-yellow); font-weight:700; }
+    .setup-divider { border-top:1px solid var(--border-default); margin:18px 0; }
+    .setup-check-col { display:flex; flex-direction:column; gap:14px; }
+    .setup-check-label { display:flex; align-items:flex-start; gap:11px; cursor:pointer; }
+    .setup-check-label input[type="checkbox"] { margin-top:3px; flex-shrink:0; accent-color:var(--accent-green); width:15px; height:15px; cursor:pointer; }
+    .setup-check-text { display:flex; flex-direction:column; gap:2px; }
+    .setup-check-text strong { font-size:0.86rem; }
+    .setup-check-sub { font-size:0.74rem; color:var(--text-muted); line-height:1.4; }
+    .setup-start { width:100%; margin-top:22px; padding:13px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.95rem; font-weight:700; cursor:pointer; transition:opacity 0.15s; }
+    .setup-start:hover { opacity:0.85; }
+    .setup-stats { font-size:0.8rem; color:var(--text-muted); text-align:center; }
+    .setup-stats strong { color:var(--accent-green); }
 
-    /* CARD */
-    .fc-card {
-      width:100%; min-height:260px; background:var(--bg-primary);
-      border:1px solid var(--border-default); border-radius:10px;
-      padding:36px 28px; cursor:pointer; user-select:none;
-      display:flex; flex-direction:column; align-items:center; justify-content:center;
-      transition:border-color 0.2s, background 0.2s;
-      position:relative; margin-bottom:20px;
-    }
-    .fc-card:hover { border-color:var(--accent-blue); }
-    .fc-card.flipped { background:rgba(25,142,238,0.04); border-color:rgba(25,142,238,0.3); }
-    .fc-jp { font-size:2.2rem; font-weight:700; color:var(--accent-yellow); text-align:center; transition:font-size 0.2s; }
-    .fc-card.flipped .fc-jp { font-size:1.5rem; }
-    .fc-romaji { font-size:0.9rem; color:var(--text-muted); font-family:var(--font-mono); margin-top:6px; text-align:center; }
-    .fc-hint { font-size:0.78rem; color:var(--text-muted); margin-top:14px; }
-    .fc-card.flipped .fc-hint { display:none; }
-    .fc-def { display:none; font-size:0.92rem; color:var(--text-primary); line-height:1.7; text-align:center; max-width:500px; margin-top:12px; }
-    .fc-card.flipped .fc-def { display:block; }
-    .fc-flip-icon { position:absolute; top:12px; right:14px; font-size:0.75rem; color:var(--text-muted); opacity:0.5; }
+    /* ── CARD SCREEN ── */
+    .cs-topbar { display:flex; align-items:center; gap:10px; margin-bottom:12px; }
+    .cs-back { padding:6px 13px; background:transparent; border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.8rem; cursor:pointer; white-space:nowrap; }
+    .cs-back:hover { background:var(--bg-tertiary); color:var(--text-primary); }
+    .cs-round { font-family:var(--font-mono); font-size:0.76rem; color:var(--text-muted); white-space:nowrap; }
+    .cs-group-sel { margin-left:auto; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.76rem; padding:5px 8px; cursor:pointer; max-width:190px; }
 
-    /* MARK BUTTONS */
-    .fc-actions { display:flex; gap:12px; width:100%; max-width:420px; margin-bottom:12px; }
-    .fc-btn { flex:1; padding:11px 16px; border-radius:6px; border:1px solid transparent; font-size:0.92rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; }
-    .fc-know { background:var(--accent-green); color:#fff; border-color:var(--accent-green); }
-    .fc-know:hover { opacity:0.85; }
-    .fc-learning { background:transparent; color:var(--text-primary); border-color:var(--border-default); }
-    .fc-learning:hover { background:rgba(255,255,255,0.05); }
-    .fc-status { font-size:0.78rem; color:var(--text-muted); text-align:center; min-height:1.2em; margin-bottom:28px; }
+    .cs-prog-wrap { height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; margin-bottom:6px; }
+    .cs-prog-bar { height:100%; background:var(--accent-green); border-radius:3px; transition:width 0.4s; }
+    .cs-prog-label { font-size:0.74rem; color:var(--text-muted); font-family:var(--font-mono); text-align:right; margin-bottom:16px; }
 
-    /* NAV BUTTONS */
-    .fc-nav { display:flex; align-items:center; gap:16px; width:100%; max-width:420px; justify-content:space-between; }
-    .fc-nav-btn {
-      padding:9px 20px; border-radius:5px; border:1px solid var(--border-default);
-      background:transparent; color:var(--text-secondary); font-size:0.88rem;
-      cursor:pointer; transition:background 0.15s, color 0.15s;
-    }
-    .fc-nav-btn:hover:not(:disabled) { background:var(--bg-tertiary); color:var(--text-primary); }
-    .fc-nav-btn:disabled { opacity:0.25; cursor:default; }
-    .fc-counter { font-family:var(--font-mono); font-size:0.85rem; color:var(--text-muted); }
+    .cs-card { background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px; min-height:240px; width:100%; cursor:pointer; padding:32px 28px; margin-bottom:14px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; position:relative; transition:border-color 0.2s; user-select:none; }
+    .cs-card:hover { border-color:rgba(25,142,238,0.3); }
+    .cs-card.flipped { border-color:rgba(25,142,238,0.22); background:rgba(25,142,238,0.03); }
+    .cs-flip-icon { position:absolute; top:10px; right:13px; font-size:0.7rem; color:var(--text-muted); opacity:0.45; pointer-events:none; }
+    .cs-face { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; width:100%; transition:opacity 0.13s; }
+    .cs-face-back { display:none; opacity:0; }
 
-    /* KEYBOARD HINT */
-    .fc-keys { font-size:0.72rem; color:var(--text-muted); margin-top:20px; text-align:center; line-height:1.8; }
-    .key { display:inline-block; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:3px; padding:1px 6px; font-family:var(--font-mono); font-size:0.7rem; }
+    .cs-jp { font-size:2rem; font-weight:700; color:var(--accent-yellow); }
+    .cs-romaji { font-size:0.84rem; color:var(--text-muted); font-family:var(--font-mono); }
+    .cs-flip-hint { font-size:0.74rem; color:var(--text-muted); margin-top:6px; }
+    .cs-def { font-size:0.88rem; color:var(--text-primary); line-height:1.65; max-width:480px; }
+    .cs-jp-sm { font-size:1.5rem; font-weight:700; color:var(--accent-yellow); }
+    .cs-romaji-sm { font-size:0.8rem; color:var(--text-muted); font-family:var(--font-mono); }
+    .cs-en-prompt { font-size:0.72rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); }
+    .cs-def-front { font-size:0.92rem; color:var(--text-primary); line-height:1.6; max-width:480px; font-style:italic; }
+    .cs-def-sm { font-size:0.78rem; color:var(--text-secondary); margin-top:4px; max-width:440px; line-height:1.5; }
 
-    /* LOADING / ERROR */
-    .fc-loading { text-align:center; color:var(--text-muted); padding:60px 0; }
+    .cs-actions { display:flex; gap:10px; width:100%; margin-bottom:5px; }
+    .cs-btn { flex:1; padding:11px; border-radius:6px; font-size:0.88rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; border:1px solid transparent; }
+    .cs-btn:disabled { opacity:0.28; cursor:not-allowed; }
+    .cs-know { background:var(--accent-green); color:#fff; border-color:var(--accent-green); }
+    .cs-know:hover:not(:disabled) { opacity:0.85; }
+    .cs-learning { background:transparent; color:var(--text-primary); border-color:var(--border-default); }
+    .cs-learning:hover:not(:disabled) { background:var(--bg-tertiary); }
+    .cs-status { font-size:0.76rem; color:var(--text-muted); text-align:center; min-height:1.1em; margin-bottom:3px; }
+    .cs-adv-bar { height:3px; border-radius:2px; overflow:hidden; margin-bottom:14px; background:transparent; }
+    .adv-prog { height:100%; background:var(--accent-green); border-radius:2px; }
 
-    /* SUMMARY BAR */
-    .fc-summary { width:100%; background:var(--bg-primary); border:1px solid var(--border-default); border-radius:8px; padding:16px 20px; margin-top:28px; display:flex; gap:24px; flex-wrap:wrap; }
-    .fc-summary-item { display:flex; flex-direction:column; align-items:center; gap:2px; }
-    .fc-summary-count { font-size:1.4rem; font-weight:700; font-family:var(--font-mono); }
-    .fc-summary-label { font-size:0.72rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.08em; }
-    .fc-summary-know { color:var(--accent-green); }
-    .fc-summary-learning { color:var(--accent-yellow); }
-    .fc-summary-unseen { color:var(--text-muted); }
+    .cs-nav { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+    .cs-nav-btn { padding:8px 18px; border-radius:5px; border:1px solid var(--border-default); background:transparent; color:var(--text-secondary); font-size:0.83rem; cursor:pointer; }
+    .cs-nav-btn:hover:not(:disabled) { background:var(--bg-tertiary); color:var(--text-primary); }
+    .cs-nav-btn:disabled { opacity:0.25; cursor:default; }
+    .cs-counter { font-family:var(--font-mono); font-size:0.8rem; color:var(--text-muted); }
+
+    .cs-swipe-hint { font-size:0.7rem; color:var(--text-muted); text-align:center; margin-top:16px; display:none; }
+    @media (pointer:coarse) { .cs-swipe-hint { display:block; } }
+    .cs-kbd { font-size:0.7rem; color:var(--text-muted); text-align:center; margin-top:13px; line-height:1.9; }
+    @media (pointer:coarse) { .cs-kbd { display:none; } }
+    .key { display:inline-block; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:3px; padding:1px 5px; font-family:var(--font-mono); font-size:0.68rem; }
+
+    /* ── COMPLETE ── */
+    .complete-wrap { text-align:center; padding:12px 0; }
+    .complete-icon { font-size:2.4rem; margin-bottom:10px; }
+    .complete-title { font-family:var(--font-mono); font-size:1.15rem; font-weight:700; color:var(--accent-yellow); margin-bottom:4px; }
+    .complete-sub { font-size:0.82rem; color:var(--text-muted); margin-bottom:26px; }
+    .complete-stats { display:flex; gap:24px; justify-content:center; flex-wrap:wrap; margin-bottom:28px; }
+    .c-stat { display:flex; flex-direction:column; align-items:center; gap:3px; }
+    .c-stat-n { font-size:2rem; font-weight:700; font-family:var(--font-mono); }
+    .c-stat-l { font-size:0.7rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); }
+    .c-know { color:var(--accent-green); }
+    .c-learning { color:var(--accent-yellow); }
+    .complete-btns { display:flex; flex-direction:column; gap:9px; max-width:320px; margin:0 auto; }
+    .c-btn-primary { padding:12px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.88rem; font-weight:700; cursor:pointer; }
+    .c-btn-primary:hover { opacity:0.85; }
+    .c-btn-sec { padding:11px; background:transparent; color:var(--text-secondary); border:1px solid var(--border-default); border-radius:6px; font-size:0.85rem; cursor:pointer; }
+    .c-btn-sec:hover { background:var(--bg-tertiary); color:var(--text-primary); }
 
     /* FOOTER */
     .footer { border-top:none; padding:18px 0; margin-top:40px; background:#0a0a23; }
     .footer-inner { max-width:1300px; margin:0 auto; padding:0 32px; display:flex; align-items:center; justify-content:center; position:relative; }
     .footer-brand { font-family:var(--font-mono); font-size:1rem; color:#fff; text-decoration:none; }
-    .scroll-top { position:absolute; right:32px; width:36px; height:36px; background:transparent; border:none; border-radius:4px; color:#fff; cursor:pointer; font-size:1.1rem; opacity:0.7; transition:opacity 0.2s; }
+    .scroll-top { position:absolute; right:32px; width:36px; height:36px; background:transparent; border:none; border-radius:4px; color:#fff; cursor:pointer; font-size:1.1rem; opacity:0.7; }
     .scroll-top:hover { opacity:1; }
 
-    @media (max-width:640px) {
-      .main { padding:80px 16px 60px; }
-      .fc-jp { font-size:1.7rem; }
-      .fc-card.flipped .fc-jp { font-size:1.2rem; }
+    @media (max-width:500px) {
+      .main { padding:76px 14px 60px; }
+      .cs-jp { font-size:1.6rem; }
+      .cs-jp-sm { font-size:1.2rem; }
+      .cs-group-sel { display:none; }
     }
   </style>
-  <link rel="stylesheet" href="assets/nav.css" />
+  <link rel="stylesheet" href="assets/nav.css"/>
 </head>
 <body>
 
@@ -123,12 +144,12 @@
     <div class="nav-search-wrap">
       <div class="nav-search">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off" />
+        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off"/>
       </div>
       <div id="navSearchDrop" class="nav-search-drop"></div>
     </div>
     <a href="index.html" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;">
-      <img src="assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
+      <img src="assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'"/>
     </a>
     <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
       <div class="nav-menu-wrap">
@@ -148,256 +169,482 @@
   </div>
 </nav>
 
-<main class="main" id="mainContent">
-  <div class="fc-loading" id="loadingEl">Loading flashcard…</div>
-</main>
+<main class="main" id="mainContent"></main>
 
 <footer class="footer">
   <div style="max-width:1300px;margin:0 auto;padding:0 32px;">
     <div class="footer-inner">
       <a href="index.html" class="footer-brand">Omotenashi Training</a>
-      <button class="scroll-top" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+      <button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
     </div>
   </div>
 </footer>
 
 <script>
+// ── CONSTANTS ────────────────────────────────────────────────────────────────
 const VOCAB_GROUPS = [
-  { id: 'v01-vocab', name: 'Basic Greetings & Service',         total: 24 },
-  { id: 'v02-vocab', name: 'Front Desk Operations',             total: 30 },
-  { id: 'v03-vocab', name: 'Guest Room Services',               total: 30 },
-  { id: 'v04-vocab', name: 'Housekeeping',                      total: 20 },
-  { id: 'v05-vocab', name: 'Restaurant & F&B Service',          total: 20 },
-  { id: 'v06-vocab', name: 'Guest Requests & Problem Solving',  total: 25 },
-  { id: 'v07-vocab', name: 'Essential Vocabulary',              total: 10 },
-  { id: 'v08-vocab', name: 'Directions & Navigation',           total: 40 },
-  { id: 'v09-vocab', name: 'Reservations & Scheduling',         total: 40 },
-  { id: 'v10-vocab', name: 'Payments & Accounting',             total: 40 },
-  { id: 'v11-vocab', name: 'Phone & Communication',             total: 40 },
-  { id: 'v12-vocab', name: 'Safety & Emergency',                total: 30 },
-  { id: 'v13-vocab', name: 'Staff & Operations',                total: 30 },
-  { id: 'v14-vocab', name: 'Tourism and Travel',                total: 30 },
-  { id: 'v15-vocab', name: 'Laundry & Additional Services',     total: 20 },
+  { id:'v01-vocab', name:'Basic Greetings & Service',        total:24 },
+  { id:'v02-vocab', name:'Front Desk Operations',            total:30 },
+  { id:'v03-vocab', name:'Guest Room Services',              total:30 },
+  { id:'v04-vocab', name:'Housekeeping',                     total:20 },
+  { id:'v05-vocab', name:'Restaurant & F&B Service',         total:20 },
+  { id:'v06-vocab', name:'Guest Requests & Problem Solving', total:25 },
+  { id:'v07-vocab', name:'Essential Vocabulary',             total:10 },
+  { id:'v08-vocab', name:'Directions & Navigation',          total:40 },
+  { id:'v09-vocab', name:'Reservations & Scheduling',        total:40 },
+  { id:'v10-vocab', name:'Payments & Accounting',            total:40 },
+  { id:'v11-vocab', name:'Phone & Communication',            total:40 },
+  { id:'v12-vocab', name:'Safety & Emergency',               total:30 },
+  { id:'v13-vocab', name:'Staff & Operations',               total:30 },
+  { id:'v14-vocab', name:'Tourism and Travel',               total:30 },
+  { id:'v15-vocab', name:'Laundry & Additional Services',    total:20 },
 ];
 
-// ── URL / base path ─────────────────────────────────────────────────────────
-const h = location.hostname;
-const isLocal = h === '127.0.0.1' || h === 'localhost' || h === '::1';
-const BASE = isLocal ? '/' : '/omotenashi-training/';
-
-function resolvePath(filePath) {
-  return BASE + filePath;
+function buildGroupFiles(id) {
+  const g = VOCAB_GROUPS.find(x => x.id === id);
+  if (!g) return [];
+  const out = [];
+  for (let i = 1; i <= g.total; i++)
+    out.push('content/vocabulary/' + id + '-' + String(i).padStart(2,'0') + '.md');
+  return out;
 }
 
-// ── State ───────────────────────────────────────────────────────────────────
-const params  = new URLSearchParams(location.search);
-const fileParam = params.get('file') || '';
+const ALL_FILES = VOCAB_GROUPS.flatMap(g => buildGroupFiles(g.id)); // 429
 
-let groupInfo = null;
-let cardIndex  = 0; // 0-based within group
+const _h = location.hostname;
+const BASE = (_h==='127.0.0.1'||_h==='localhost'||_h==='::1') ? '/' : '/omotenashi-training/';
 
-function parseFileParam(file) {
-  // file = "content/vocabulary/v01-vocab-03.md"
-  const m = file.match(/content\/vocabulary\/(v\d+-vocab)-(\d+)\.md$/);
-  if (!m) return null;
-  const id  = m[1]; // "v01-vocab"
-  const num = parseInt(m[2], 10); // 3
-  const grp = VOCAB_GROUPS.find(g => g.id === id);
-  if (!grp) return null;
-  return { id, num, grp };
-}
-
-function fileForCard(id, num) {
-  return `content/vocabulary/${id}-${String(num).padStart(2, '0')}.md`;
-}
-
-// ── FC key helpers ──────────────────────────────────────────────────────────
-function fcKey(file) { return 'omotenashi:fc:' + file; }
-function getStatus(file) { return localStorage.getItem(fcKey(file)); }
-function setStatus(file, status) { localStorage.setItem(fcKey(file), status); }
-
-// ── Summary counts ──────────────────────────────────────────────────────────
-function groupCounts(id, total) {
-  let know = 0, learning = 0;
-  for (let i = 1; i <= total; i++) {
-    const s = getStatus(fileForCard(id, i));
-    if (s === 'know') know++;
-    else if (s === 'learning') learning++;
+// ── HELPERS ──────────────────────────────────────────────────────────────────
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
-  return { know, learning, unseen: total - know - learning, total };
+  return arr;
 }
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function fcKey(f) { return 'omotenashi:fc:' + f; }
+function getStatus(f) { return localStorage.getItem(fcKey(f)); }
+function setStatus(f, s) { localStorage.setItem(fcKey(f), s); }
+function allKnownCount() { return ALL_FILES.filter(f => getStatus(f) === 'know').length; }
 
-// ── Parse MD ────────────────────────────────────────────────────────────────
-function parseFrontmatter(text) {
+function parseFM(text) {
   const fm = {};
   const m = text.match(/^---\n([\s\S]*?)\n---/);
-  if (m) {
-    m[1].split('\n').forEach(line => {
-      const colon = line.indexOf(':');
-      if (colon > -1) fm[line.slice(0, colon).trim()] = line.slice(colon + 1).trim();
-    });
-  }
+  if (m) m[1].split('\n').forEach(l => { const c = l.indexOf(':'); if (c>-1) fm[l.slice(0,c).trim()] = l.slice(c+1).trim(); });
   return fm;
 }
-
 function parseVocabMD(text) {
-  const fm = parseFrontmatter(text);
+  const fm = parseFM(text);
   const title = fm.title || '';
-  // title format: "いらっしゃいませ (irasshaimase)"
   const tm = title.match(/^(.+?)\s*\((.+?)\)$/);
-  const jp      = tm ? tm[1].trim() : title;
-  const romaji  = tm ? tm[2].trim() : '';
-  // Body: everything after frontmatter
+  const jp = tm ? tm[1].trim() : title;
+  const romaji = tm ? tm[2].trim() : '';
   const body = text.replace(/^---\n[\s\S]*?\n---\n?/, '').trim();
-  // First non-empty paragraph after the bold line
   const paras = body.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
-  // paras[0] is "**word** *(romaji)*", paras[1] is definition
-  const definition = paras.length > 1 ? paras[1].replace(/^#+\s*/, '') : '';
+  const definition = paras.length > 1 ? paras[1].replace(/^#+\s*/, '') : (paras[0] || '');
   return { jp, romaji, definition };
 }
 
-// ── Render ───────────────────────────────────────────────────────────────────
-let currentFile = '';
-let isFlipped   = false;
-
-function renderCard(file, data) {
-  currentFile = file;
-  isFlipped   = false;
-  const info  = parseFileParam(file);
-  const saved = getStatus(file);
-  const counts = info ? groupCounts(info.id, info.grp.total) : null;
-  const knownPct = counts ? Math.round((counts.know / counts.total) * 100) : 0;
-
-  const statusText = saved === 'know'
-    ? '<span style="color:var(--accent-green)">✓ Marked as known</span>'
-    : saved === 'learning'
-    ? '<span style="color:var(--accent-yellow)">△ Still learning</span>'
-    : '';
-
-  const main = document.getElementById('mainContent');
-  main.innerHTML = `
-    <div class="fc-header" style="width:100%;">
-      <div class="fc-group-name">${info ? info.grp.name : 'Flashcard Practice'}</div>
-      <div class="fc-progress-row">
-        <div class="fc-progress-bar-wrap">
-          <div class="fc-progress-bar" id="fcProgressBar" style="width:${knownPct}%"></div>
-        </div>
-        <span class="fc-progress-label" id="fcProgressLabel">${counts ? counts.know : 0} / ${counts ? counts.total : '?'} known</span>
-      </div>
-    </div>
-
-    <div class="fc-card" id="fcCard" onclick="flipCard()" tabindex="0" aria-label="Flashcard, click to flip">
-      <div class="fc-flip-icon">↩ flip</div>
-      <div class="fc-jp" id="fcJp">${escHtml(data.jp)}</div>
-      <div class="fc-romaji" id="fcRomaji">${escHtml(data.romaji)}</div>
-      <div class="fc-hint">Click to reveal meaning</div>
-      <div class="fc-def" id="fcDef">${escHtml(data.definition)}</div>
-    </div>
-
-    <div class="fc-actions">
-      <button class="fc-btn fc-know"     onclick="markCard('know')">Know it ✓</button>
-      <button class="fc-btn fc-learning" onclick="markCard('learning')">Still learning △</button>
-    </div>
-    <div class="fc-status" id="fcStatus">${statusText}</div>
-
-    <div class="fc-nav">
-      <button class="fc-nav-btn" id="btnPrev" onclick="navigate(-1)" ${(!info || info.num <= 1) ? 'disabled' : ''}>← Prev</button>
-      <span class="fc-counter" id="fcCounter">${info ? info.num : '?'} / ${info ? info.grp.total : '?'}</span>
-      <button class="fc-nav-btn" id="btnNext" onclick="navigate(1)" ${(!info || info.num >= info.grp.total) ? 'disabled' : ''}>Next →</button>
-    </div>
-
-    ${counts ? `
-    <div class="fc-summary">
-      <div class="fc-summary-item"><span class="fc-summary-count fc-summary-know">${counts.know}</span><span class="fc-summary-label">Known</span></div>
-      <div class="fc-summary-item"><span class="fc-summary-count fc-summary-learning">${counts.learning}</span><span class="fc-summary-label">Learning</span></div>
-      <div class="fc-summary-item"><span class="fc-summary-count fc-summary-unseen">${counts.unseen}</span><span class="fc-summary-label">Unseen</span></div>
-    </div>` : ''}
-
-    <div class="fc-keys">
-      <span class="key">Space</span> flip &nbsp;
-      <span class="key">K</span> know it &nbsp;
-      <span class="key">L</span> still learning &nbsp;
-      <span class="key">←</span> <span class="key">→</span> navigate
-    </div>`;
-}
-
-function flipCard() {
-  const card = document.getElementById('fcCard');
-  if (!card) return;
-  isFlipped = !isFlipped;
-  card.classList.toggle('flipped', isFlipped);
-}
-
-function markCard(status) {
-  if (!currentFile) return;
-  setStatus(currentFile, status);
-  const st = document.getElementById('fcStatus');
-  if (st) {
-    st.innerHTML = status === 'know'
-      ? '<span style="color:var(--accent-green)">✓ Marked as known</span>'
-      : '<span style="color:var(--accent-yellow)">△ Still learning</span>';
-  }
-  // Update summary + progress bar
-  const info = parseFileParam(currentFile);
-  if (!info) return;
-  const counts = groupCounts(info.id, info.grp.total);
-  const pct = Math.round((counts.know / counts.total) * 100);
-  const bar = document.getElementById('fcProgressBar');
-  if (bar) bar.style.width = pct + '%';
-  const lbl = document.getElementById('fcProgressLabel');
-  if (lbl) lbl.textContent = counts.know + ' / ' + counts.total + ' known';
-  // Refresh summary counts
-  const sumKnow = document.querySelector('.fc-summary-know');
-  const sumLearning = document.querySelector('.fc-summary-learning');
-  const sumUnseen = document.querySelector('.fc-summary-unseen');
-  if (sumKnow) sumKnow.textContent = counts.know;
-  if (sumLearning) sumLearning.textContent = counts.learning;
-  if (sumUnseen) sumUnseen.textContent = counts.unseen;
-}
-
-function navigate(delta) {
-  const info = parseFileParam(currentFile);
-  if (!info) return;
-  const newNum = info.num + delta;
-  if (newNum < 1 || newNum > info.grp.total) return;
-  const newFile = fileForCard(info.id, newNum);
-  goToFile(newFile);
-}
-
-function goToFile(file) {
-  // Update URL without reload
-  history.replaceState(null, '', '?file=' + encodeURIComponent(file));
-  loadCard(file);
-}
-
-function loadCard(file) {
-  const main = document.getElementById('mainContent');
-  main.innerHTML = '<div class="fc-loading">Loading…</div>';
-  fetch(resolvePath(file))
+// ── CACHE ────────────────────────────────────────────────────────────────────
+const cardCache = {};
+function fetchCard(file) {
+  if (cardCache[file]) return Promise.resolve(cardCache[file]);
+  return fetch(BASE + file)
     .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
-    .then(text => renderCard(file, parseVocabMD(text)))
+    .then(text => { cardCache[file] = parseVocabMD(text); return cardCache[file]; });
+}
+function prefetch(file) { if (file && !cardCache[file]) fetchCard(file).catch(()=>{}); }
+
+// ── STATE ────────────────────────────────────────────────────────────────────
+let session = null;
+let isFlipped = false;
+let autoAdvTimer = null;
+let setupDir = 'jp-en';
+let setupOrder = 'shuffle';
+
+// ── SWIPE ────────────────────────────────────────────────────────────────────
+let _tx = 0, _ty = 0, _swipeDone = false;
+document.addEventListener('touchstart', e => { _tx = e.touches[0].clientX; _ty = e.touches[0].clientY; _swipeDone = false; }, { passive:true });
+document.addEventListener('touchend', e => {
+  if (!session) return;
+  const dx = e.changedTouches[0].clientX - _tx;
+  const dy = e.changedTouches[0].clientY - _ty;
+  if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+    _swipeDone = true;
+    markCard(dx > 0 ? 'know' : 'learning');
+  }
+}, { passive:true });
+
+// ── KEYBOARD ─────────────────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  const tag = e.target.tagName;
+  if (tag==='INPUT'||tag==='SELECT'||tag==='TEXTAREA') return;
+  if (!session) return;
+  if (e.key===' '||e.code==='Space') { e.preventDefault(); flipCard(); }
+  else if (e.key==='ArrowRight') goNext();
+  else if (e.key==='ArrowLeft') goPrev();
+  else if (e.key==='k'||e.key==='K') markCard('know');
+  else if (e.key==='l'||e.key==='L') markCard('learning');
+});
+
+// ── GROUP OPTIONS ─────────────────────────────────────────────────────────────
+function groupOptsHtml(sel) {
+  return '<option value="all"' + (sel==='all'?' selected':'') + '>All 429 cards</option>' +
+    VOCAB_GROUPS.map(g => '<option value="' + g.id + '"' + (sel===g.id?' selected':'') + '>' + escHtml(g.name) + ' (' + g.total + ')</option>').join('');
+}
+
+// ── SCREEN: SETUP ─────────────────────────────────────────────────────────────
+function showSetupScreen(preGroup) {
+  session = null;
+  clearAutoAdv();
+  const known = allKnownCount();
+  const pct = Math.round((known / ALL_FILES.length) * 100);
+  document.getElementById('mainContent').innerHTML =
+    '<div class="setup-title">Flashcard Practice</div>' +
+    '<div class="setup-sub">429 vocabulary words · 15 topics · interactive study</div>' +
+    '<div class="setup-card">' +
+      '<div class="setup-row">' +
+        '<label class="setup-label" for="setupGroup">Topic</label>' +
+        '<select class="setup-select" id="setupGroup">' + groupOptsHtml(preGroup||'all') + '</select>' +
+      '</div>' +
+      '<div class="setup-row">' +
+        '<label class="setup-label">Direction</label>' +
+        '<div class="tog-group">' +
+          '<button class="tog-btn' + (setupDir==='jp-en'?' active':'') + '" id="togJpEn" onclick="setDir(\'jp-en\')">JP → EN</button>' +
+          '<button class="tog-btn' + (setupDir==='en-jp'?' active':'') + '" id="togEnJp" onclick="setDir(\'en-jp\')">EN → JP</button>' +
+        '</div>' +
+      '</div>' +
+      '<div class="setup-row">' +
+        '<label class="setup-label">Order</label>' +
+        '<div class="tog-group">' +
+          '<button class="tog-btn' + (setupOrder==='sequential'?' active':'') + '" id="togSeq" onclick="setOrder(\'sequential\')">Sequential</button>' +
+          '<button class="tog-btn' + (setupOrder==='shuffle'?' active':'') + '" id="togShuffle" onclick="setOrder(\'shuffle\')">Shuffle</button>' +
+        '</div>' +
+      '</div>' +
+      '<div class="setup-divider"></div>' +
+      '<div class="setup-row setup-check-col">' +
+        '<label class="setup-check-label"><input type="checkbox" id="setupStudySession" checked/>' +
+          '<span class="setup-check-text"><strong>Study Session</strong>' +
+          '<span class="setup-check-sub">Re-show "Still learning" cards each round until all are known</span></span></label>' +
+        '<label class="setup-check-label"><input type="checkbox" id="setupAutoAdv"/>' +
+          '<span class="setup-check-text"><strong>Auto-advance</strong>' +
+          '<span class="setup-check-sub">Move to next card automatically 0.8s after marking</span></span></label>' +
+      '</div>' +
+      '<button class="setup-start" onclick="startSession()">Start Practice →</button>' +
+    '</div>' +
+    '<div class="setup-stats">Overall: <strong>' + known + '</strong> of ' + ALL_FILES.length + ' cards known (' + pct + '%)</div>';
+}
+
+function setDir(d) {
+  setupDir = d;
+  document.getElementById('togJpEn')?.classList.toggle('active', d==='jp-en');
+  document.getElementById('togEnJp')?.classList.toggle('active', d==='en-jp');
+}
+function setOrder(o) {
+  setupOrder = o;
+  document.getElementById('togSeq')?.classList.toggle('active', o==='sequential');
+  document.getElementById('togShuffle')?.classList.toggle('active', o==='shuffle');
+}
+
+// ── SESSION ───────────────────────────────────────────────────────────────────
+function startSession() {
+  const group = document.getElementById('setupGroup').value;
+  const studySession = document.getElementById('setupStudySession').checked;
+  const autoAdv = document.getElementById('setupAutoAdv').checked;
+  const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
+  session = {
+    roundFiles: [], queueIdx: 0, round: 1,
+    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group }
+  };
+  showCardScreen();
+  startRound(files, 1);
+}
+
+function startRound(files, roundNum) {
+  const arr = [...files];
+  if (session.settings.shuffle) shuffle(arr);
+  session.roundFiles = arr;
+  session.queueIdx = 0;
+  session.round = roundNum;
+  const rl = document.getElementById('csRoundLabel');
+  if (rl) rl.textContent = 'Round ' + roundNum;
+  if (arr.length > 0) loadCard(arr[0]); else endRound();
+}
+
+function changeGroup(val) {
+  session.settings.groupFilter = val;
+  const files = val === 'all' ? [...ALL_FILES] : buildGroupFiles(val);
+  showCardScreen();
+  session.settings.groupFilter = val;
+  startRound(files, 1);
+}
+
+// ── SCREEN: CARD ──────────────────────────────────────────────────────────────
+function showCardScreen() {
+  document.getElementById('mainContent').innerHTML =
+    '<div class="cs-topbar">' +
+      '<button class="cs-back" onclick="showSetupScreen()">← Setup</button>' +
+      '<span class="cs-round" id="csRoundLabel">Round ' + session.round + '</span>' +
+      '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
+    '</div>' +
+    '<div class="cs-prog-wrap"><div class="cs-prog-bar" id="csPBar" style="width:0%"></div></div>' +
+    '<div class="cs-prog-label" id="csPLabel">0 / 0 known</div>' +
+    '<div class="cs-card" id="csCard" onclick="cardClick()">' +
+      '<div class="cs-flip-icon">↩ flip</div>' +
+      '<div class="cs-face cs-face-front" id="csFront"><div style="color:var(--text-muted);font-size:0.85rem;">Loading…</div></div>' +
+      '<div class="cs-face cs-face-back" id="csBack"></div>' +
+    '</div>' +
+    '<div class="cs-actions">' +
+      '<button class="cs-btn cs-know" id="csKnow" onclick="markCard(\'know\')" disabled>Know it ✓</button>' +
+      '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')" disabled>Still learning △</button>' +
+    '</div>' +
+    '<div class="cs-status" id="csStatus">flip the card first</div>' +
+    '<div class="cs-adv-bar" id="csAdvBar"></div>' +
+    '<div class="cs-nav">' +
+      '<button class="cs-nav-btn" id="csNavPrev" onclick="goPrev()" disabled>← Prev</button>' +
+      '<span class="cs-counter" id="csCounter">— / —</span>' +
+      '<button class="cs-nav-btn" id="csNavNext" onclick="goNext()">Next →</button>' +
+    '</div>' +
+    '<div class="cs-swipe-hint">swipe right = know &nbsp;·&nbsp; swipe left = still learning</div>' +
+    '<div class="cs-kbd"><span class="key">Space</span> flip &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>';
+}
+
+// ── CARD LOAD + RENDER ────────────────────────────────────────────────────────
+function loadCard(file) {
+  clearAutoAdv();
+  fetchCard(file)
+    .then(data => updateCard(file, data))
     .catch(err => {
-      main.innerHTML = `<div class="fc-loading" style="color:var(--accent-red)">Failed to load flashcard.<br>${escHtml(err.message)}</div>`;
+      const front = document.getElementById('csFront');
+      if (front) front.innerHTML = '<div style="color:var(--accent-red);font-size:0.82rem;">Failed to load.<br>' + escHtml(err.message) + '</div>';
     });
 }
 
-function escHtml(str) {
-  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+function updateCard(file, data) {
+  isFlipped = false;
+  const card = document.getElementById('csCard');
+  if (!card) return;
+  card.classList.remove('flipped');
+
+  const front = document.getElementById('csFront');
+  const back  = document.getElementById('csBack');
+  if (!front || !back) return;
+
+  front.style.display = 'flex'; front.style.opacity = '1';
+  back.style.display = 'none';  back.style.opacity = '0';
+
+  const dir = session.settings.direction;
+  if (dir === 'jp-en') {
+    front.innerHTML =
+      '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
+      '<div class="cs-romaji">' + escHtml(data.romaji) + '</div>' +
+      '<div class="cs-flip-hint">↩ tap to reveal meaning</div>';
+    back.innerHTML =
+      '<div class="cs-jp-sm">' + escHtml(data.jp) + '</div>' +
+      '<div class="cs-romaji-sm">' + escHtml(data.romaji) + '</div>' +
+      '<div class="cs-def">' + escHtml(data.definition) + '</div>';
+  } else {
+    front.innerHTML =
+      '<div class="cs-en-prompt">What is the Japanese word for:</div>' +
+      '<div class="cs-def-front">&ldquo;' + escHtml(data.definition) + '&rdquo;</div>' +
+      '<div class="cs-flip-hint">↩ tap to reveal</div>';
+    back.innerHTML =
+      '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
+      '<div class="cs-romaji">' + escHtml(data.romaji) + '</div>' +
+      '<div class="cs-def-sm">' + escHtml(data.definition) + '</div>';
+  }
+
+  // K/L buttons disabled until flip
+  const know = document.getElementById('csKnow');
+  const learning = document.getElementById('csLearning');
+  if (know) know.disabled = true;
+  if (learning) learning.disabled = true;
+
+  // Status
+  const saved = getStatus(file);
+  const statusEl = document.getElementById('csStatus');
+  if (statusEl) {
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span> — flip to re-evaluate';
+    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span> — flip to re-evaluate';
+    else statusEl.textContent = 'flip the card first';
+  }
+
+  // Counter & nav
+  const total = session.roundFiles.length;
+  const cur = session.queueIdx + 1;
+  const counterEl = document.getElementById('csCounter');
+  if (counterEl) counterEl.textContent = cur + ' / ' + total;
+  const prev = document.getElementById('csNavPrev');
+  const next = document.getElementById('csNavNext');
+  if (prev) prev.disabled = session.queueIdx <= 0;
+  if (next) next.textContent = session.queueIdx >= total - 1 ? 'Finish →' : 'Next →';
+
+  updateProgressBar();
+  prefetch(session.roundFiles[session.queueIdx + 1]);
 }
 
-// ── Keyboard shortcuts ───────────────────────────────────────────────────────
-document.addEventListener('keydown', e => {
-  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-  if (e.key === ' ' || e.code === 'Space') { e.preventDefault(); flipCard(); }
-  else if (e.key === 'ArrowLeft')  { navigate(-1); }
-  else if (e.key === 'ArrowRight') { navigate(1); }
-  else if (e.key === 'k' || e.key === 'K') markCard('know');
-  else if (e.key === 'l' || e.key === 'L') markCard('learning');
-});
+// ── FLIP ─────────────────────────────────────────────────────────────────────
+function flipCard() {
+  const front = document.getElementById('csFront');
+  const back  = document.getElementById('csBack');
+  const card  = document.getElementById('csCard');
+  if (!front || !back || !card) return;
 
-// ── Init ─────────────────────────────────────────────────────────────────────
+  isFlipped = !isFlipped;
+  card.classList.toggle('flipped', isFlipped);
+
+  if (isFlipped) {
+    front.style.opacity = '0';
+    setTimeout(() => {
+      front.style.display = 'none';
+      back.style.display = 'flex';
+      back.style.opacity = '0';
+      requestAnimationFrame(() => { back.style.transition = 'opacity 0.13s'; back.style.opacity = '1'; });
+    }, 110);
+    const know = document.getElementById('csKnow');
+    const learning = document.getElementById('csLearning');
+    if (know) know.disabled = false;
+    if (learning) learning.disabled = false;
+    const statusEl = document.getElementById('csStatus');
+    const file = session.roundFiles[session.queueIdx];
+    if (statusEl && !getStatus(file)) statusEl.textContent = 'How well did you know this?';
+  } else {
+    back.style.opacity = '0';
+    setTimeout(() => {
+      back.style.display = 'none';
+      front.style.display = 'flex';
+      front.style.opacity = '0';
+      requestAnimationFrame(() => { front.style.transition = 'opacity 0.13s'; front.style.opacity = '1'; });
+    }, 110);
+    const know = document.getElementById('csKnow');
+    const learning = document.getElementById('csLearning');
+    if (know) know.disabled = true;
+    if (learning) learning.disabled = true;
+  }
+}
+
+function cardClick() {
+  if (_swipeDone) { _swipeDone = false; return; }
+  flipCard();
+}
+
+// ── MARK ─────────────────────────────────────────────────────────────────────
+function markCard(status) {
+  if (!session) return;
+  if (!isFlipped) { flipCard(); return; } // auto-flip first
+  const file = session.roundFiles[session.queueIdx];
+  if (!file) return;
+  setStatus(file, status);
+  const statusEl = document.getElementById('csStatus');
+  if (statusEl) statusEl.innerHTML = status === 'know'
+    ? '<span style="color:var(--accent-green)">✓ Marked as known</span>'
+    : '<span style="color:var(--accent-yellow)">△ Still learning</span>';
+  updateProgressBar();
+  if (session.settings.autoAdvance) startAutoAdv();
+}
+
+// ── NAVIGATE ─────────────────────────────────────────────────────────────────
+function goNext() {
+  clearAutoAdv();
+  if (session.queueIdx >= session.roundFiles.length - 1) { endRound(); return; }
+  session.queueIdx++;
+  loadCard(session.roundFiles[session.queueIdx]);
+}
+function goPrev() {
+  clearAutoAdv();
+  if (session.queueIdx <= 0) return;
+  session.queueIdx--;
+  loadCard(session.roundFiles[session.queueIdx]);
+}
+
+function endRound() { showCompleteScreen(); }
+
+function updateProgressBar() {
+  const files = session.roundFiles;
+  if (!files.length) return;
+  const known = files.filter(f => getStatus(f) === 'know').length;
+  const pct = Math.round((known / files.length) * 100);
+  const bar = document.getElementById('csPBar');
+  const lbl = document.getElementById('csPLabel');
+  if (bar) bar.style.width = pct + '%';
+  if (lbl) lbl.textContent = known + ' / ' + files.length + ' known';
+}
+
+// ── AUTO-ADVANCE ─────────────────────────────────────────────────────────────
+function startAutoAdv() {
+  clearAutoAdv();
+  const bar = document.getElementById('csAdvBar');
+  if (bar) {
+    bar.innerHTML = '<div class="adv-prog" id="advProg" style="width:0%;transition:none;"></div>';
+    requestAnimationFrame(() => {
+      const p = document.getElementById('advProg');
+      if (p) { p.style.transition = 'width 0.8s linear'; p.style.width = '100%'; }
+    });
+  }
+  autoAdvTimer = setTimeout(goNext, 800);
+}
+function clearAutoAdv() {
+  if (autoAdvTimer) { clearTimeout(autoAdvTimer); autoAdvTimer = null; }
+  const bar = document.getElementById('csAdvBar');
+  if (bar) bar.innerHTML = '';
+}
+
+// ── SCREEN: COMPLETE ──────────────────────────────────────────────────────────
+function showCompleteScreen() {
+  const files = session.roundFiles;
+  const know     = files.filter(f => getStatus(f) === 'know').length;
+  const learning = files.filter(f => getStatus(f) === 'learning').length;
+  const unseen   = files.filter(f => !getStatus(f)).length;
+  const learningFiles = files.filter(f => getStatus(f) === 'learning');
+  const allKnown = learningFiles.length === 0 && unseen === 0;
+
+  const studyAgainBtn = (session.settings.studySession && learningFiles.length > 0)
+    ? '<button class="c-btn-primary" onclick="doStudyLearning()">Study &ldquo;Still learning&rdquo; again (' + learningFiles.length + ' cards) →</button>'
+    : (allKnown ? '<div style="color:var(--accent-green);font-weight:600;margin-bottom:8px;">All cards known! 🎉</div>' : '');
+
+  document.getElementById('mainContent').innerHTML =
+    '<div class="complete-wrap">' +
+      '<div class="complete-icon">' + (allKnown ? '🎉' : '✓') + '</div>' +
+      '<div class="complete-title">Round ' + session.round + ' Complete!</div>' +
+      '<div class="complete-sub">' + files.length + ' cards reviewed' + (session.round > 1 ? ' · Round ' + session.round : '') + '</div>' +
+      '<div class="complete-stats">' +
+        '<div class="c-stat"><div class="c-stat-n c-know">' + know + '</div><div class="c-stat-l">Known</div></div>' +
+        '<div class="c-stat"><div class="c-stat-n c-learning">' + learning + '</div><div class="c-stat-l">Still learning</div></div>' +
+        (unseen ? '<div class="c-stat"><div class="c-stat-n" style="color:var(--text-muted)">' + unseen + '</div><div class="c-stat-l">Unseen</div></div>' : '') +
+      '</div>' +
+      '<div class="complete-btns">' +
+        studyAgainBtn +
+        '<button class="c-btn-sec" onclick="restartSame()">Restart same deck</button>' +
+        '<button class="c-btn-sec" onclick="showSetupScreen()">← Back to Setup</button>' +
+      '</div>' +
+    '</div>';
+}
+
+function doStudyLearning() {
+  const learningFiles = session.roundFiles.filter(f => getStatus(f) === 'learning');
+  showCardScreen();
+  startRound([...learningFiles], session.round + 1);
+}
+function restartSame() {
+  const group = session.settings.groupFilter;
+  const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
+  showCardScreen();
+  startRound(files, 1);
+}
+
+// ── THEME ─────────────────────────────────────────────────────────────────────
+function toggleMode() {
+  const html = document.documentElement;
+  const isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  localStorage.setItem('theme', isLight ? 'dark' : 'light');
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
 (function init() {
-  // Theme
   const saved = localStorage.getItem('theme');
   if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
   document.addEventListener('click', e => {
@@ -405,24 +652,9 @@ document.addEventListener('keydown', e => {
       if (!d.parentElement.contains(e.target)) d.classList.remove('open');
     });
   });
-
-  if (!fileParam) {
-    document.getElementById('mainContent').innerHTML = `
-      <div class="fc-loading">
-        <p style="margin-bottom:12px;">No flashcard selected.</p>
-        <p><a href="curriculum.html" style="color:var(--accent-blue)">Browse flashcards in the curriculum →</a></p>
-      </div>`;
-    return;
-  }
-  loadCard(fileParam);
+  const groupParam = new URLSearchParams(location.search).get('group');
+  showSetupScreen(groupParam);
 })();
-
-function toggleMode() {
-  const html = document.documentElement;
-  const isLight = html.getAttribute('data-theme') === 'light';
-  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
-  localStorage.setItem('theme', isLight ? 'dark' : 'light');
-}
 </script>
 <script src="assets/search.js"></script>
 <script src="assets/nav.js"></script>
