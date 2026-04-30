@@ -185,13 +185,35 @@ const MODULES = [
   { group: 'Hospitality Simulator', lessons: [
     { id: 'simulator', name: 'Scenario Practice (100 scenarios)', total: 100, sim: true },
   ]},
+  { group: 'Flashcard Practice', lessons: [
+    { id: 'v01-vocab', name: 'Basic Greetings & Service',         total: 24,  fc: true },
+    { id: 'v02-vocab', name: 'Front Desk Operations',             total: 30,  fc: true },
+    { id: 'v03-vocab', name: 'Guest Room Services',               total: 30,  fc: true },
+    { id: 'v04-vocab', name: 'Housekeeping',                      total: 20,  fc: true },
+    { id: 'v05-vocab', name: 'Restaurant & F&B Service',          total: 20,  fc: true },
+    { id: 'v06-vocab', name: 'Guest Requests & Problem Solving',  total: 25,  fc: true },
+    { id: 'v07-vocab', name: 'Essential Vocabulary',              total: 10,  fc: true },
+    { id: 'v08-vocab', name: 'Directions & Navigation',           total: 40,  fc: true },
+    { id: 'v09-vocab', name: 'Reservations & Scheduling',         total: 40,  fc: true },
+    { id: 'v10-vocab', name: 'Payments & Accounting',             total: 40,  fc: true },
+    { id: 'v11-vocab', name: 'Phone & Communication',             total: 40,  fc: true },
+    { id: 'v12-vocab', name: 'Safety & Emergency',                total: 30,  fc: true },
+    { id: 'v13-vocab', name: 'Staff & Operations',                total: 30,  fc: true },
+    { id: 'v14-vocab', name: 'Tourism and Travel',                total: 30,  fc: true },
+    { id: 'v15-vocab', name: 'Laundry & Additional Services',     total: 20,  fc: true },
+  ]},
 ];
 
-function countCompleted(id, total, isSim) {
+function countCompleted(id, total, isSim, isFc) {
   let count = 0;
   if (isSim) {
     for (let i = 1; i <= total; i++) {
       if (localStorage.getItem('omotenashi:simulator:' + i) === '1') count++;
+    }
+  } else if (isFc) {
+    for (let i = 1; i <= total; i++) {
+      const num = String(i).padStart(2, '0');
+      if (localStorage.getItem('omotenashi:fc:content/vocabulary/' + id + '-' + num + '.md')) count++;
     }
   } else {
     for (let i = 1; i <= total; i++) {
@@ -207,7 +229,7 @@ function renderProgress() {
   const groupsHtml = MODULES.map(g => {
     let groupTotal = 0, groupDone = 0;
     const rows = g.lessons.map(l => {
-      const done = countCompleted(l.id, l.total, l.sim);
+      const done = countCompleted(l.id, l.total, l.sim, l.fc);
       const pct  = l.total ? Math.round((done / l.total) * 100) : 0;
       groupTotal += l.total;
       groupDone  += done;

@@ -1910,16 +1910,10 @@ async function render() {
   const bodyEl = document.querySelector('.section-body');
   if (bodyEl && !isVocabFile) wrapJapanese(bodyEl);
 
-  // Inject flashcard + pronunciation widget for vocabulary files
+  // Inject pronunciation widget for vocabulary files
   if (isVocabFile) {
     const m = sectionTitle.match(/^(.+?)\s*\((.+?)\)$/);
-    if (m) {
-      // Extract definition: second paragraph after the bold word line
-      const paras = content.split('\n\n').map(p => p.trim()).filter(Boolean);
-      const definition = paras.length > 1 ? paras[1] : '';
-      injectFlashcard(m[1].trim(), m[2].trim(), definition);
-      injectVocabPronWidget(m[1].trim(), m[2].trim());
-    }
+    if (m) injectVocabPronWidget(m[1].trim(), m[2].trim());
   }
 
 }
