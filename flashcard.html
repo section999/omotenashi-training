@@ -387,7 +387,6 @@ function showCardScreen() {
   document.getElementById('mainContent').innerHTML =
     '<div class="cs-topbar">' +
       '<button class="cs-back" onclick="showSetupScreen()">← Setup</button>' +
-      '<span class="cs-round" id="csRoundLabel">Round ' + session.round + '</span>' +
       '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
     '</div>' +
     '<div class="cs-prog-wrap"><div class="cs-prog-bar" id="csPBar" style="width:0%"></div></div>' +
