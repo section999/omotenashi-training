@@ -4,8 +4,6 @@ section: 29
 title: 税別 (zeibetsu)
 ---
 
-**税別** *(zeibetsu)*
-
 "税別" indicates that taxes are not included in the listed price. Staff must clearly explain total amounts after adding tax. Guests avoid surprises and understand exact costs. Proper disclosure builds trust.
 
 *Example: この価格は税別です。* (This price excludes tax.)

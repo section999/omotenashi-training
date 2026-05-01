@@ -4,8 +4,6 @@ section: 32
 title: クーポン (kuupon)
 ---
 
-**クーポン** *(kuupon)*
-
 "クーポン" is a voucher offering discounts or benefits. Staff must verify validity and expiration. Guests use coupons for savings or promotions. Proper management ensures smooth redemption.
 
 *Example: このクーポンで10%割引になります。* (This coupon gives a 10% discount.)

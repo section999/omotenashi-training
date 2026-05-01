@@ -4,8 +4,6 @@ section: 31
 title: 当日予約 (toujitsu yoyaku)
 ---
 
-**当日予約** *(toujitsu yoyaku)*
-
 "当日予約" is a booking made on the same day as the stay. Staff check room availability carefully and may offer limited options. Guests often choose this for last-minute travel. Handling these requests efficiently improves guest satisfaction.
 
 *Example: 当日予約でも空室があれば可能です。* (Same-day reservations are possible if rooms are available.)

@@ -4,8 +4,6 @@ section: 6
 title: 宿泊 (shukuhaku)
 ---
 
-**宿泊** *(shukuhaku)*
-
 "宿泊" means lodging or staying overnight. It is a formal term often used in written or professional communication. Staff use it when discussing length of stay or booking details. It sounds more professional than casual alternatives.
 
 ---

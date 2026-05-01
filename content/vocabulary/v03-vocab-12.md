@@ -4,8 +4,6 @@ section: 12
 title: シーツ (sheets)
 ---
 
-**シーツ** *(shītsu)*
-
 "シーツ" refers to bed sheets. Staff may change sheets for hygiene or upon guest request. Important for cleanliness standards.
 
 ---
@@ -16,8 +14,8 @@ title: シーツ (sheets)
 
 - A. シーツを交換いたします (we will change the bed sheets)
 - B. シーツありません (there are no bed sheets)
-- C. シーツ自分で (change sheets yourself)
-- D. シーツ使って (use the sheets)
+- C. シーツの交換はチェックアウト後となっております (sheet replacement is after check-out)
+- D. 少々お待ちください。係の者が参ります (please wait; staff will come)
 
 **Correct Answer:** シーツを交換いたします (we will change the bed sheets)
 

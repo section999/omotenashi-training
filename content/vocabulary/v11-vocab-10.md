@@ -4,8 +4,6 @@ section: 10
 title: 折り返し (orikaeshi)
 ---
 
-**折り返し** *(orikaeshi)*
-
 "折り返し" is used when a call is returned after initial contact. Staff schedule or confirm call backs properly. Guests appreciate timely responses. It ensures no inquiry is missed.
 
 *Example: 担当者から折り返しご連絡いたします。* (The person in charge will call you back.)

@@ -4,8 +4,6 @@ section: 6
 title: 近く (chikaku)
 ---
 
-**近く** *(chikaku)*
-
 "近く" means nearby and is commonly used when explaining the distance to places such as stations, restaurants, or attractions. Staff should give clear and realistic information about walking time or accessibility.
 
 Using "近く" helps reassure guests that destinations are convenient. Combining it with directions or landmarks improves clarity and usability of the information.

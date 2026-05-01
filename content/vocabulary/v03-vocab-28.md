@@ -4,8 +4,6 @@ section: 28
 title: ルームサービス (room service)
 ---
 
-**ルームサービス** *(rūmu sābisu)*
-
 "ルームサービス" is service provided directly to guest rooms, including food, drinks, or amenities. Staff may explain hours, menu, and charges. Clear communication improves guest satisfaction and avoids misunderstandings.
 
 ---

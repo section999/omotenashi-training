@@ -4,8 +4,6 @@ section: 8
 title: 内訳 (uchiwake)
 ---
 
-**内訳** *(uchiwake)*
-
 "内訳" shows itemized charges like room fee, meals, taxes, and extras. Staff provide this to guests to ensure clarity and transparency. Itemized bills prevent disputes and misunderstandings. Guests appreciate knowing exactly what they are paying for.
 
 *Example: 料金の内訳はこちらです。* (Here is the breakdown of charges.)

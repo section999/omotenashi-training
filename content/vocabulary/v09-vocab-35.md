@@ -4,8 +4,6 @@ section: 35
 title: 個人予約 (kojin yoyaku)
 ---
 
-**個人予約** *(kojin yoyaku)*
-
 "個人予約" is a booking for a single guest or a small party, unlike group bookings. Staff provide standard services, room allocation, and meal planning. Individual bookings are simpler but still require confirmation and clarity. Guests often choose flexible plans.
 
 *Example: 個人予約でダブルルームを予約しました。* (I booked a double room for an individual reservation.)

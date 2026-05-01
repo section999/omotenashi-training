@@ -4,8 +4,6 @@ section: 11
 title: どうぞ (douzo)
 ---
 
-**どうぞ** *(douzo)*
-
 This word means "please" or "here you go." It is used when offering something to someone. In hotels, it is commonly used when handing keys, documents, or items. It sounds polite and inviting.
 
 ---

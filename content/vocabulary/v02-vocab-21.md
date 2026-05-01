@@ -4,8 +4,6 @@ section: 21
 title: 変更 (henkou)
 ---
 
-**変更** *(henkō)*
-
 "変更" means change or modification. It is used when adjusting reservation details such as dates or room types. Hotels try to accommodate changes when possible. Staff should respond politely and confirm availability.
 
 ---

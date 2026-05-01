@@ -4,8 +4,6 @@ section: 24
 title: レイトチェックアウト (late check-out)
 ---
 
-**レイトチェックアウト** *(reito chekku-auto)*
-
 This means checking out later than the standard time. It is often requested by guests. Availability and fees depend on hotel policy. Staff should confirm politely.
 
 ---

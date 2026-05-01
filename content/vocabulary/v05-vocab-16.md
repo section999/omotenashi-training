@@ -4,8 +4,6 @@ section: 16
 title: 予約席 (yoyaku seki)
 ---
 
-**予約席** *(yoyaku seki)*
-
 "予約席" means reserved seating for guests who made a reservation. Staff must manage these seats carefully.
 
 Clear labeling prevents misunderstandings.

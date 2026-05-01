@@ -4,8 +4,6 @@ section: 17
 title: 承認 (shounin)
 ---
 
-**承認** *(shounin)*
-
 "承認" means approval of a payment, transaction, or document. Staff confirm details before authorizing the process. Ensures security and compliance with policies. Proper approval avoids mistakes and protects both hotel and guest.
 
 *Example: 支払いは上司の承認が必要です。* (Payment requires manager approval.)

@@ -4,8 +4,6 @@ section: 1
 title: 従業員 (juugyouin)
 ---
 
-## 従業員 (じゅうぎょういん · juugyouin)
-
 **Meaning:** employee
 
 従業員 refers to a person employed by a company or organisation to perform assigned duties. Employees follow company policies and contribute to achieving business goals. Proper management of employees ensures productivity and a safe working environment. Recognising employee roles is key to smooth operations.

@@ -4,8 +4,6 @@ section: 14
 title: 手前 (temae)
 ---
 
-**手前** *(temae)*
-
 "手前" refers to the front or near side of a location. Staff use it to distinguish areas closer to the entrance or street. It is helpful in guiding guests to seating, counters, or exits. Accurate instruction avoids confusion.
 
 *Example: 受付カウンターは入り口の手前にございます。* (The reception counter is near the entrance.)

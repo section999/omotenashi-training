@@ -4,8 +4,6 @@ section: 5
 title: ゴミ箱 (gomibako)
 ---
 
-**ゴミ箱** *(gomibako)*
-
 "ゴミ箱" refers to the trash can in the room. Staff check it during cleaning and replace liners if necessary. Proper presentation of trash cans ensures cleanliness and guest comfort.
 
 ---
@@ -16,8 +14,8 @@ title: ゴミ箱 (gomibako)
 
 - A. ゴミ箱はこちらでございます (the trash can is here)
 - B. ゴミは捨てません (will not dispose of trash)
-- C. ゴミ箱ない (no trash can)
-- D. ゴミ箱自分で (use the trash can yourself)
+- C. ゴミ箱はお部屋のバスルームにございます (the trash can is in the bathroom)
+- D. ゴミの回収は毎朝行っております (trash is collected every morning)
 
 **Correct Answer:** ゴミ箱はこちらでございます (the trash can is here)
 

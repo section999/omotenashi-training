@@ -4,8 +4,6 @@ section: 7
 title: 階 (kai)
 ---
 
-**階** *(kai)*
-
 "階" refers to a floor in a building. Staff must indicate floors clearly for rooms, restaurants, or conference areas. Using elevators or stairs in explanation improves navigation. Correct floor indication prevents guests from entering wrong levels.
 
 *Example: 客室は3階にございます。* (The guest rooms are on the 3rd floor.)

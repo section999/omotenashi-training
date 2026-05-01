@@ -4,8 +4,6 @@ section: 4
 title: ダブルルーム (double room)
 ---
 
-**ダブルルーム** *(daburu rūmu)*
-
 A double room has one bed for two people. Often chosen by couples. Staff must clarify this type during booking or check-in to avoid confusion.
 
 ---

@@ -4,8 +4,6 @@ section: 29
 title: 受付 (uketsuke)
 ---
 
-**受付** *(uketsuke)*
-
 "受付" refers to reception or registration. It can mean both the place and the process. It is often used in formal contexts. It overlaps with front desk functions.
 
 ---

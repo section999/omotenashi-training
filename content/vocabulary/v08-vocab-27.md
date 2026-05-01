@@ -4,8 +4,6 @@ section: 27
 title: こちら側 (kochira gawa)
 ---
 
-**こちら側** *(kochira gawa)*
-
 "こちら側" refers to "this side" near the speaker. Staff use it for room directions, entrances, or seating. It helps guests distinguish between left/right sides. Clear indication ensures smooth navigation.
 
 *Example: エレベーターはこちら側にございます。* (The elevator is on this side.)

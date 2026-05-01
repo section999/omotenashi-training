@@ -4,8 +4,6 @@ section: 37
 title: わかりました (wakarimashita)
 ---
 
-**わかりました** *(wakarimashita)*
-
 "わかりました" is a slightly less formal way to confirm understanding. Used in polite conversation with guests or colleagues. Signals that instructions will be followed. Ensures smooth operation and reduces miscommunication.
 
 *Example: わかりました、すぐ対応いたします。* (Got it, I will respond immediately.)

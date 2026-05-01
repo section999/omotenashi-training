@@ -4,8 +4,6 @@ section: 9
 title: 石鹸 (sekken)
 ---
 
-**石鹸** *(sekken)*
-
 "石鹸" is soap. It is a basic amenity in guest rooms. Staff ensure it is clean, hygienic, and replenished when needed. Explaining placement or type can help foreign guests.
 
 ---
@@ -16,7 +14,7 @@ title: 石鹸 (sekken)
 
 - A. 石鹸をお持ちいたします (I will bring soap)
 - B. 石鹸ありません (there is no soap)
-- C. 石鹸自分で (get soap yourself)
+- C. 石鹸はバスルームにご用意しております (soap is prepared in the bathroom)
 - D. 石鹸どうぞ (here is soap)
 
 **Correct Answer:** 石鹸をお持ちいたします (I will bring soap)

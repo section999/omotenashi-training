@@ -4,8 +4,6 @@ section: 7
 title: 警察 (keisatsu)
 ---
 
-## 警察 (けいさつ · keisatsu)
-
 **Meaning:** police
 
 警察 refers to law enforcement authorities responsible for public safety, crime prevention, and emergency response. Staff may need to contact the police for theft, violence, or public disturbance. Clear communication and prompt reporting enhance security. Guests rely on police intervention during incidents.

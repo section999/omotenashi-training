@@ -4,8 +4,6 @@ section: 12
 title: 請求書 (seikyuusho)
 ---
 
-**請求書** *(seikyuusho)*
-
 "請求書" is an invoice issued for payment requests. Staff must include accurate amounts, dates, and recipient information. Businesses often use invoices for reimbursement. Proper handling ensures payment and legal compliance.
 
 *Example: 請求書をメールでお送りします。* (We will send the invoice by email.)

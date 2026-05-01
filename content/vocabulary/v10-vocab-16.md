@@ -4,8 +4,6 @@ section: 16
 title: 決済 (kessai)
 ---
 
-**決済** *(kessai)*
-
 "決済" refers to the act of processing a payment, including card, electronic, or cash transactions. Staff must ensure security and accuracy. Proper payment processing avoids errors, fraud, or disputes. Guests expect fast and smooth transactions.
 
 *Example: クレジットカードでの決済が可能です。* (Payment by credit card is available.)

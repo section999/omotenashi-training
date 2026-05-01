@@ -4,8 +4,6 @@ section: 1
 title: 右 (migi)
 ---
 
-**右** *(migi)*
-
 "右" means "right" and is used for directions in hallways, streets, or inside buildings. Staff should clearly distinguish it from left to prevent guest confusion. It is commonly combined with landmarks or distance. Proper use ensures safe and efficient navigation.
 
 *Example: 次の角を右に曲がってください。* (Please turn right at the next corner.)

@@ -4,8 +4,6 @@ section: 25
 title: 仮予約 (kari yoyaku)
 ---
 
-**仮予約** *(kari yoyaku)*
-
 "仮予約" is a provisional booking awaiting final confirmation. Staff must track tentative reservations to prevent overbooking. Guests are informed that the reservation is not yet guaranteed and may have a deadline to confirm. Clear communication avoids confusion and disappointment.
 
 *Example: ご予約は仮予約です。* (Your booking is tentative.)

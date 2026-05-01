@@ -4,8 +4,6 @@ section: 18
 title: 利用明細 (riyou meisai)
 ---
 
-**利用明細** *(riyou meisai)*
-
 "利用明細" lists all charges for services used. Staff provide it to guests for verification and record-keeping. Clear statements prevent misunderstandings. Businesses often require them for expense reimbursement.
 
 *Example: 利用明細をメールでお送りいたします。* (We will send your usage statement by email.)

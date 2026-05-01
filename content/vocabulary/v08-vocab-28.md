@@ -4,8 +4,6 @@ section: 28
 title: あちら側 (achira gawa)
 ---
 
-**あちら側** *(achira gawa)*
-
 "あちら側" refers to "that side" farther from the speaker. Staff use it for giving directions across halls or streets. Proper explanation prevents confusion in larger buildings. Guests can find locations more easily.
 
 *Example: トイレはあちら側です。* (The restroom is on that side.)

@@ -4,8 +4,6 @@ section: 33
 title: 連泊 (renpaku)
 ---
 
-**連泊** *(renpaku)*
-
 "連泊" refers to staying multiple nights in a row. Staff plan housekeeping, meals, and billing accordingly. Guests benefit from reduced check-in/out procedures. Proper management ensures comfort and operational efficiency.
 
 *Example: このお客様は3連泊されます。* (The guest will stay for 3 consecutive nights.)

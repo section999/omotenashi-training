@@ -4,8 +4,6 @@ section: 26
 title: 避難場所 (hinan basho)
 ---
 
-## 避難場所 (ひなんばしょ · hinan basho)
-
 **Meaning:** evacuation area
 
 避難場所 indicates designated locations where people should gather during emergencies like fire or earthquake. Staff must know the nearest evacuation areas and guide guests. Proper signage and maps help ensure orderly evacuation. Regular drills enhance preparedness and safety awareness.

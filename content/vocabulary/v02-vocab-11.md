@@ -4,8 +4,6 @@ section: 11
 title: 身分証明書 (mibun shomeisho)
 ---
 
-**身分証明書** *(mibun shomeisho)*
-
 "身分証明書" refers to any identification document. It is used for verifying identity and ensuring security. Hotels may request it depending on policy. It is more general than "passport."
 
 ---

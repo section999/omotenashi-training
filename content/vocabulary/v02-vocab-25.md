@@ -4,8 +4,6 @@ section: 25
 title: 鍵 (kagi)
 ---
 
-**鍵** *(kagi)*
-
 "鍵" means key and refers to a physical key. Although many hotels now use cards, the term is still understood. It is a basic but essential word. Staff must hand it over politely.
 
 ---

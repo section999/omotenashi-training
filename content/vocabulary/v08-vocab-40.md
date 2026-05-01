@@ -4,8 +4,6 @@ section: 40
 title: 表示 (hyouji)
 ---
 
-**表示** *(hyouji)*
-
 "表示" refers to any display or sign indicating instructions, warnings, or directions. Staff ensure it is clear, visible, and up-to-date. It guides guests efficiently and safely. Proper signage prevents misunderstandings or accidents.
 
 *Example: 出口は赤い表示で示されています。* (The exit is indicated by a red sign.)

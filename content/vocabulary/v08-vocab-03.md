@@ -4,8 +4,6 @@ section: 3
 title: まっすぐ (massugu)
 ---
 
-**まっすぐ** *(massugu)*
-
 "まっすぐ" means "straight" and instructs guests to continue in a direct line without turning. Staff often pair it with distance markers or floor numbers. Proper use prevents confusion in corridors or streets. Combining it with landmarks ensures guests arrive efficiently.
 
 *Example: ロビーまでまっすぐお進みください。* (Please go straight to the lobby.)

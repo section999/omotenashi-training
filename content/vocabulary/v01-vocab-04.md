@@ -4,8 +4,6 @@ section: 4
 title: こんばんは (konbanwa)
 ---
 
-**こんばんは** *(konbanwa)*
-
 This phrase means "good evening" and is used in the evening or nighttime. It maintains a polite tone suitable for customer service situations. Hotel staff often use this when greeting guests returning at night. It helps create a warm and respectful atmosphere.
 
 ---

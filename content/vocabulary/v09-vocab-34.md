@@ -4,8 +4,6 @@ section: 34
 title: 団体予約 (dantai yoyaku)
 ---
 
-**団体予約** *(dantai yoyaku)*
-
 "団体予約" refers to bookings for groups, such as tours, corporate events, or school trips. Staff allocate multiple rooms, coordinate check-ins, and manage meal plans. Clear organization prevents confusion and ensures smooth service. Hotels often offer special rates or perks for group bookings.
 
 *Example: 団体予約は10名以上です。* (A group booking is for 10 or more people.)

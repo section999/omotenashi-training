@@ -4,8 +4,6 @@ section: 30
 title: フロント係 (furonto kakari)
 ---
 
-**フロント係** *(furonto kakari)*
-
 "フロント係" means front desk staff. These employees handle guest interactions and represent the hotel. They must maintain a polite and professional attitude at all times. Their communication skills are essential.
 
 ---

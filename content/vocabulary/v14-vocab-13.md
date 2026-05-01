@@ -4,8 +4,6 @@ section: 13
 title: 人気 (ninki)
 ---
 
-## 人気 (にんき · ninki)
-
 **Meaning:** popular
 
 人気 describes something well-liked or frequently visited by people. Popularity affects tourism trends, reservation demand, and social media attention. Understanding 人気 helps tourists choose attractions wisely. Businesses use popularity for promotions.

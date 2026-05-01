@@ -4,8 +4,6 @@ section: 7
 title: 日数 (nissuu)
 ---
 
-**日数** *(nissuu)*
-
 "日数" specifies how many days the guest will be staying. Staff use it to plan room rates, service charges, and meal arrangements. It is important for billing accuracy and scheduling housekeeping. Guests may ask for this information to double-check reservations.
 
 *Example: 滞在日数は3日です。* (The number of days of stay is 3.)

@@ -4,8 +4,6 @@ section: 12
 title: おかわり (okawari)
 ---
 
-**おかわり** *(okawari)*
-
 "おかわり" means a refill or second serving. It is commonly used for drinks, rice, or buffet items.
 
 Staff should offer refills proactively when appropriate.

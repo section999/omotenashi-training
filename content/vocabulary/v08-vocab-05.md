@@ -4,8 +4,6 @@ section: 5
 title: 角 (kado)
 ---
 
-**角** *(kado)*
-
 "角" refers to a corner and is a key reference point in navigation. Staff should specify which corner to turn at or pass. Using visual cues improves clarity. Accurate guidance prevents guests from getting lost in hallways or streets.
 
 *Example: 次の角を右に曲がってください。* (Turn right at the next corner.)

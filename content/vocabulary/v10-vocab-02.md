@@ -4,8 +4,6 @@ section: 2
 title: 一括払い (ikkatsu barai)
 ---
 
-**一括払い** *(ikkatsu barai)*
-
 "一括払い" is paying the entire amount in one single payment. Staff must confirm the total accurately before processing. This method simplifies transactions and is preferred for shorter stays or single services. Guests benefit from avoiding installment tracking or extra fees.
 
 *Example: 宿泊料金は一括払いでお願いします。* (Please pay the accommodation fee in a lump sum.)

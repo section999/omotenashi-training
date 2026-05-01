@@ -4,8 +4,6 @@ section: 20
 title: キャンセル料 (kyanseru ryou)
 ---
 
-**キャンセル料** *(kyanseru ryou)*
-
 "キャンセル料" is the fee charged when a guest cancels a reservation. Staff explain policies clearly to prevent disputes. Fees may depend on timing or plan type. Transparency builds trust with guests.
 
 *Example: キャンセル料は宿泊日の3日前から発生します。* (The cancellation fee applies from 3 days before the stay.)

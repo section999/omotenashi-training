@@ -4,8 +4,6 @@ section: 38
 title: 無効 (mukou)
 ---
 
-**無効** *(mukou)*
-
 "無効" indicates a payment, coupon, or card is not valid. Staff must notify guests and provide alternatives. Invalid transactions cannot be processed. Guests must be informed clearly to avoid confusion.
 
 *Example: このクーポンは無効です。* (This coupon is invalid.)

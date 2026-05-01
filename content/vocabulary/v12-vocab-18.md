@@ -4,8 +4,6 @@ section: 18
 title: 救助 (kyuujo)
 ---
 
-## 救助 (きゅうじょ · kyuujo)
-
 **Meaning:** rescue
 
 救助 refers to the act of saving people from danger or life-threatening situations. Staff may assist in evacuations, fires, or natural disasters. Coordination with emergency services ensures efficiency. Rapid and calm response reduces risk to life.

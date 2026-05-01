@@ -4,8 +4,6 @@ section: 17
 title: トイレ (toilet)
 ---
 
-**トイレ** *(toire)*
-
 "トイレ" refers to the toilet in the room. Staff often explain whether it is separate from the bathroom or combined. Proper instruction ensures comfort for guests, especially those with accessibility needs. It is essential to be polite when guiding guests.
 
 ---

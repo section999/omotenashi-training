@@ -4,8 +4,6 @@ section: 21
 title: 乗り場 (noriba)
 ---
 
-## 乗り場 (のりば · noriba)
-
 **Meaning:** boarding area
 
 乗り場 refers to designated places where passengers board transportation, such as buses or taxis. Clear signage and organisation ensure safety and smooth flow. Tourists must locate the correct boarding area to avoid delays. Stations often have multiple 乗り場 for different routes.

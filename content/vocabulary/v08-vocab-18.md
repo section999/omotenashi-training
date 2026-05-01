@@ -4,8 +4,6 @@ section: 18
 title: 裏 (ura)
 ---
 
-**裏** *(ura)*
-
 "裏" refers to the back or rear side of a location. It is commonly used for deliveries, staff entrances, or back rooms. Staff should distinguish it from the main entrance to avoid confusion. Guests must understand the difference for efficient navigation.
 
 *Example: 荷物受け取りは建物の裏にございます。* (The baggage pickup is at the back of the building.)

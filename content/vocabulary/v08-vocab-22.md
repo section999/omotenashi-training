@@ -4,8 +4,6 @@ section: 22
 title: 遠くに (tooku ni)
 ---
 
-**遠くに** *(tooku ni)*
-
 "遠くに" means far away. Staff use it to indicate locations requiring longer travel time. It is helpful for sightseeing, attractions, or distant facilities. Clear explanation avoids guest confusion and planning errors.
 
 *Example: 山はホテルから遠くに見えます。* (The mountain can be seen far away from the hotel.)

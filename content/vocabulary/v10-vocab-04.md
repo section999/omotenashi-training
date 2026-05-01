@@ -4,8 +4,6 @@ section: 4
 title: 前払い (maebarai)
 ---
 
-**前払い** *(maebarai)*
-
 "前払い" means paying before receiving services. Staff must confirm payment receipt before check-in or service delivery. Prepayment guarantees booking and protects against cancellations. Guests often choose this for special rates or packages.
 
 *Example: 予約の前払いが必要です。* (Prepayment is required for the reservation.)

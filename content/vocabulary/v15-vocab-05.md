@@ -4,8 +4,6 @@ section: 5
 title: クリーニング (kuriiningu)
 ---
 
-## クリーニング (くりーにんぐ · kuriiningu)
-
 **Meaning:** dry cleaning
 
 クリーニング refers to professional cleaning for delicate fabrics using chemical solvents instead of water. It is used for suits, coats, and formal wear. Dry cleaning preserves fabric quality and appearance. Hotels often offer クリーニング for guest convenience.

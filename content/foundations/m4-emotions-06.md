@@ -4,8 +4,6 @@ section: 6
 title: The Travel-Fatigued Guest
 ---
 
-## The Travel-Fatigued Guest
-
 Not every quiet, withdrawn, or irritable guest is dissatisfied with your service. Many are simply exhausted. Long-haul flights, time zone shifts, delayed connections, and the disorientation of arriving in an unfamiliar country all take a significant physical and cognitive toll. Recognising travel fatigue — and distinguishing it from genuine dissatisfaction — is a vital skill.
 
 ### What Travel Fatigue Looks Like

@@ -4,8 +4,6 @@ section: 20
 title: 不足 (fusoku)
 ---
 
-**不足** *(fusoku)*
-
 "不足" indicates a shortage of funds or payment. Staff must notify guests promptly and explain solutions. Guests may need to add cash or adjust payment method. Proper handling avoids service delays and dissatisfaction.
 
 *Example: 料金が不足しています。* (The payment is insufficient.)

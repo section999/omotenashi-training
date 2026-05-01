@@ -4,8 +4,6 @@ section: 35
 title: 説明します (setsumei shimasu)
 ---
 
-**説明します** *(setsumei shimasu)*
-
 "説明します" is used when staff provide information or instructions. Clear explanation ensures guests understand procedures or services. Polite phrasing enhances professionalism. Staff must be accurate and concise.
 
 *Example: 設備の使い方を説明します。* (I will explain how to use the equipment.)

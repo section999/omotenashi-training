@@ -4,8 +4,6 @@ section: 26
 title: 手順 (tejun)
 ---
 
-## 手順 (てじゅん · tejun)
-
 **Meaning:** procedure
 
 手順 refers to the step-by-step instructions to complete a task. Following correct procedures ensures efficiency and safety. Procedures standardise work and prevent mistakes. Employees should be trained to follow procedures accurately.

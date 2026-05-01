@@ -4,8 +4,6 @@ section: 4
 title: 駐車場 (chuushajou)
 ---
 
-**駐車場** *(chuushajou)*
-
 "駐車場" means parking lot, which is an important facility for guests traveling by car. Staff should provide clear information about location, availability, fees, and access rules.
 
 In some hotels, reservations or validation may be required, so accurate explanation is necessary. Guiding guests safely to the parking area and informing them about height limits or security measures is also part of good service.
@@ -17,9 +15,9 @@ In some hotels, reservations or validation may be required, so accurate explanat
 **Guest asks: "Is parking available?" Best response?**
 
 - A. 駐車場をご利用いただけます (you can use the parking lot)
-- B. 車ダメです (car is not allowed)
-- C. 知らない (don't know)
-- D. 自分で探してください (please find it yourself)
+- B. 駐車場は現在満車でございます (the parking lot is currently full)
+- C. 駐車場は徒歩5分のところにございます (the parking lot is a 5-minute walk away)
+- D. 駐車は時間制限がございます (parking has a time limit)
 
 **Correct Answer:** 駐車場をご利用いただけます (you can use the parking lot)
 

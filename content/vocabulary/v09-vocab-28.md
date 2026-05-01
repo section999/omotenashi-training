@@ -4,8 +4,6 @@ section: 28
 title: 延長 (enchou)
 ---
 
-**延長** *(enchou)*
-
 "延長" refers to extending the stay beyond the original plan. Staff check room availability, rates, and additional charges. Guests often request extension for convenience or unexpected changes. Proper handling ensures smooth check-out for extended stays.
 
 *Example: 滞在を1泊延長したいです。* (I would like to extend my stay by one night.)

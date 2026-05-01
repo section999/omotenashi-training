@@ -4,8 +4,6 @@ section: 16
 title: 打ち合わせ (uchiawase)
 ---
 
-## 打ち合わせ (うちあわせ · uchiawase)
-
 **Meaning:** briefing / coordination meeting
 
 打ち合わせ refers to an informal or short meeting to coordinate tasks or clarify details. It is often used before events or projects. Effective briefings prevent miscommunication and ensure smooth workflow. Regular communication with colleagues reduces errors.

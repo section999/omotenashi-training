@@ -4,8 +4,6 @@ section: 10
 title: 荷物預かり (nimotsu azukari)
 ---
 
-## 荷物預かり (にもつあずかり · nimotsu azukari)
-
 **Meaning:** luggage storage
 
 荷物預かり is a service where staff temporarily holds luggage. Useful for early arrivals, late departures, or sightseeing without carrying bags. The service ensures security and convenience for travelers.

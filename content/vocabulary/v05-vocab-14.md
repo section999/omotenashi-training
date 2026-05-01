@@ -4,8 +4,6 @@ section: 14
 title: 満席 (manseki)
 ---
 
-**満席** *(manseki)*
-
 "満席" means the restaurant is full. Staff should politely inform guests and suggest waiting or alternatives.
 
 Proper wording is important to maintain a positive impression.

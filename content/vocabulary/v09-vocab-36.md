@@ -4,8 +4,6 @@ section: 36
 title: 予約変更 (yoyaku henkou)
 ---
 
-**予約変更** *(yoyaku henkou)*
-
 "予約変更" is modifying an existing reservation, such as dates, room type, or number of guests. Staff must check availability and any applicable fees. Clear communication prevents misunderstandings and ensures guest satisfaction. Proper handling avoids booking conflicts.
 
 *Example: 予約変更は可能ですか。* (Can I change my reservation?)

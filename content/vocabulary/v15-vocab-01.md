@@ -4,8 +4,6 @@ section: 1
 title: ランドリー (randorii)
 ---
 
-## ランドリー (らんどりー · randorii)
-
 **Meaning:** laundry
 
 ランドリー refers to washing services provided in hotels, laundromats, or apartment complexes. It can include washing, drying, folding, and ironing. For travelers, ランドリー ensures clean clothing without needing to carry bulky items. Efficient laundry services improve guest satisfaction and convenience.

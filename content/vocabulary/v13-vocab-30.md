@@ -4,8 +4,6 @@ section: 30
 title: 評価 (hyouka)
 ---
 
-## 評価 (ひょうか · hyouka)
-
 **Meaning:** evaluation
 
 評価 refers to assessing employees' performance, processes, or products. Evaluations identify strengths, weaknesses, and areas for improvement. Regular feedback helps employees grow professionally. Fair and transparent evaluation builds trust and motivates staff.

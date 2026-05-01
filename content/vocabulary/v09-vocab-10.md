@@ -4,8 +4,6 @@ section: 10
 title: 大人 (otona)
 ---
 
-**大人** *(otona)*
-
 "大人" refers to guests considered adults, typically over a set age like 12 or 13. Staff calculate rates, allocate beds, and prepare meals accordingly. Differentiating adults from children is important for billing and service. Accurate counting prevents disputes and ensures smooth check-in.
 
 *Example: 大人2名で予約しております。* (The reservation is for 2 adults.)

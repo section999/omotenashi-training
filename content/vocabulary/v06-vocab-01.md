@@ -4,8 +4,6 @@ section: 1
 title: 問題 (mondai)
 ---
 
-**問題** *(mondai)*
-
 "問題" refers to a problem or issue that occurs during a guest's stay. It can include service errors, facility issues, or misunderstandings. Hotel staff must identify the problem accurately and respond quickly to resolve it. Proper handling of problems helps maintain guest trust and satisfaction.
 
 ---

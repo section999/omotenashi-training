@@ -4,8 +4,6 @@ section: 13
 title: 伝票 (denpyou)
 ---
 
-**伝票** *(denpyou)*
-
 "伝票" is a slip used to record orders, payments, or internal notes. Staff write accurate details to avoid errors. It serves as proof of request or transaction. Proper usage ensures smooth accounting and service delivery.
 
 *Example: この伝票にサインをお願いします。* (Please sign this slip.)

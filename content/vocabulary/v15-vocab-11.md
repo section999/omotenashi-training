@@ -4,8 +4,6 @@ section: 11
 title: 発送 (hassou)
 ---
 
-## 発送 (はっそう · hassou)
-
 **Meaning:** shipping
 
 発送 refers to sending items to another location, domestically or internationally. Hotels often assist guests with 発送 of souvenirs or parcels. Proper packaging and labelling are important to ensure safe arrival.

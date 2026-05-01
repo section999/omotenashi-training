@@ -4,8 +4,6 @@ section: 2
 title: 階段 (kaidan)
 ---
 
-**階段** *(kaidan)*
-
 "階段" means stairs, which serve as an alternative to elevators and are also crucial in emergencies such as fire evacuations. Staff should be able to explain their location clearly and emphasize safety when needed.
 
 In some situations, guests may prefer stairs for health reasons or to avoid waiting. Providing clear directions and indicating whether the stairs are accessible or restricted ensures both safety and convenience.

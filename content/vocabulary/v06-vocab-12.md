@@ -4,8 +4,6 @@ section: 12
 title: 故障 (koshou)
 ---
 
-**故障** *(koshou)*
-
 "故障" refers to a breakdown of equipment or facilities. It requires immediate attention from maintenance staff. Proper reporting ensures quick repair. Preventing recurrence is also important.
 
 ---

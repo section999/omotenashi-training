@@ -4,8 +4,6 @@ section: 11
 title: 危険 (kiken)
 ---
 
-## 危険 (きけん · kiken)
-
 **Meaning:** danger
 
 危険 refers to situations or objects that pose a threat to life, health, or property. Staff must identify hazardous areas and warn guests appropriately. Preventive measures reduce the risk of accidents. Clear signage and verbal warnings are essential for hazard management.

@@ -4,8 +4,6 @@ section: 2
 title: 内線 (naisen)
 ---
 
-**内線** *(naisen)*
-
 "内線" is used for calls within the same building or organization. Staff use extensions to connect departments quickly. Guests can reach specific services without dialing external numbers. Efficient use improves response speed and guest satisfaction.
 
 *Example: 内線101におかけください。* (Please dial extension 101.)

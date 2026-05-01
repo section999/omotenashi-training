@@ -23,7 +23,11 @@
       --text-secondary: #a3a3c2;
       --text-muted:     #5f5f7a;
       --border-default: #2a2a4a;
+      --border-strong:  #4a4a6a;
       --accent-yellow:  #f1be32;
+      --accent-green:   #1fad69;
+      --accent-rgb:     241,190,50;
+      --transition:     150ms ease;
       --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
     }
 
@@ -106,7 +110,7 @@
     .module-header {
       display: flex; align-items: center; gap: 18px;
       padding: 24px 28px 20px;
-      cursor: pointer; user-select: none;
+      cursor: pointer;
     }
     .module-chevron {
       font-size: 0.75rem; color: var(--text-muted);
@@ -154,7 +158,7 @@
       transition: max-height 0.3s ease;
     }
     .module-block.open .lesson-list {
-      max-height: 600px;
+      max-height: 3000px;
     }
     .lesson-item {
       display: flex; align-items: center; gap: 14px;
@@ -193,7 +197,7 @@
       background: var(--bg-primary);
       border: 1px solid rgba(255,255,255,0.06);
       border-radius: 10px;
-      margin-top: 10px;
+      margin-top: 20px;
       overflow: hidden;
     }
 
@@ -201,7 +205,7 @@
     .tree-l1-row {
       display: flex; align-items: center; gap: 12px;
       padding: 18px 24px;
-      cursor: pointer; user-select: none;
+      cursor: pointer;
       border-bottom: 1px solid rgba(255,255,255,0.05);
       transition: background 0.12s;
     }
@@ -239,7 +243,7 @@
     .tree-l2-row {
       display: flex; align-items: center; gap: 10px;
       padding: 11px 24px 11px 40px;
-      cursor: pointer; user-select: none;
+      cursor: pointer;
       border-bottom: 1px solid rgba(255,255,255,0.04);
       color: var(--text-secondary);
       transition: background 0.12s, color 0.12s;
@@ -314,7 +318,7 @@
       .pillar-icon { width: 36px; height: 36px; font-size: 1rem; }
       .philosophy-grid p[style*="font-size:0.9rem"],
       .philosophy-grid p[style*="font-size:0.95rem"] { font-size: 0.7rem !important; }
-      [style*="font-size:0.9rem"] { font-size: 0.75rem !important; }
+      .pillar-text-desc { font-size: 0.75rem !important; }
       .section-label { font-size: 0.8rem; }
       .tree-l1-label { font-size: 0.8rem; }
       .tree-l1-progress { font-size: 0.625rem; }
@@ -517,6 +521,10 @@
     25%      { transform: translateX(-6px); }
     75%      { transform: translateX(6px); }
   }
+  .vocab-xref { display:flex; align-items:center; gap:6px; flex-wrap:wrap; margin-top:10px; padding:8px 0 4px; border-top:1px solid var(--border-default); }
+  .vocab-xref-label { font-family:var(--font-mono); font-size:0.68rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); white-space:nowrap; }
+  .vocab-chip { display:inline-block; padding:3px 10px; border-radius:12px; border:1px solid var(--accent-blue); color:var(--accent-blue); font-size:0.75rem; font-weight:600; text-decoration:none; white-space:nowrap; transition:background 0.12s; }
+  .vocab-chip:hover { background:rgba(25,142,238,0.1); }
   </style>
   <link rel="stylesheet" href="assets/nav.css" />
 </head>
@@ -544,7 +552,6 @@
           <div class="nav-dropdown">
             <a href="index.html">Main</a>
             <a href="curriculum.html">Curriculum</a>
-            <a href="calendar.html">Cultural Calendar</a>
             <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
             <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
           </div>
@@ -560,6 +567,16 @@
         <h1 class="page-title" lang="ja">おもてなし</h1>
         <p style="font-family:var(--font-mono);font-size:0.95rem;color:var(--accent-yellow);letter-spacing:0.12em;margin-top:10px;">O · MO · TE · NA · SHI</p>
         <p style="font-size:0.95rem;color:var(--text-secondary);line-height:1.7;max-width:620px;margin:12px auto 0;">This course introduces おもてなし, the Japanese way of hospitality — serving from the heart with sincerity, transparency, and no hidden agenda. Derived from <em>omote</em> (surface) and <em>nashi</em> (without), it represents pure and genuine care offered wholeheartedly.</p>
+        <div style="max-width:620px;margin:32px auto 0;text-align:left;background:var(--bg-primary);border:1px solid var(--border-default);border-radius:10px;padding:24px 28px;">
+          <p style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-muted);font-family:var(--font-mono);margin-bottom:14px;">Course Goals</p>
+          <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
+            <li style="font-size:0.88rem;color:var(--text-secondary);line-height:1.6;padding-left:14px;border-left:2px solid var(--accent-yellow);">Understand the philosophy of おもてなし — its origins, meaning, and why it remains central to Japanese service culture</li>
+            <li style="font-size:0.88rem;color:var(--text-secondary);line-height:1.6;padding-left:14px;border-left:2px solid var(--accent-yellow);">Develop a mindset shift: from completing tasks to anticipating needs before they are expressed</li>
+            <li style="font-size:0.88rem;color:var(--text-secondary);line-height:1.6;padding-left:14px;border-left:2px solid var(--accent-yellow);">Build practical vocabulary and expressions used in real hotel, restaurant, and service environments</li>
+            <li style="font-size:0.88rem;color:var(--text-secondary);line-height:1.6;padding-left:14px;border-left:2px solid var(--accent-yellow);">Recognise how seasonal events, cultural context, and guest emotions shape the service experience</li>
+            <li style="font-size:0.88rem;color:var(--text-secondary);line-height:1.6;padding-left:14px;border-left:2px solid var(--accent-yellow);">Apply おもてなし principles with consistency — not as performance, but as genuine character</li>
+          </ul>
+        </div>
       </div>
     </div>
   </header>
@@ -570,7 +587,7 @@
       <span id="banner-text" style="flex:1;font-size:0.9rem;color:var(--text-secondary);">
         Start tracking your progress today — no account needed
       </span>
-      <button id="banner-btn" onclick="openSignInModal()" style="background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:8px 20px;font-size:0.875rem;font-weight:600;cursor:pointer;white-space:nowrap;">
+      <button id="banner-btn" onclick="openSignInModal()" style="background:var(--accent-yellow);color:#0a0a23;border:none;border-radius:6px;padding:8px 20px;font-size:0.875rem;font-weight:600;cursor:pointer;white-space:nowrap;">
         Save Progress
       </button>
     </div>
@@ -589,6 +606,16 @@
       <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
         Start Learning
       </button>
+      <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
+      <p style="font-size:0.78rem;color:var(--text-muted);margin-bottom:10px;">Progress is saved in this browser only. Use export/import to move it across devices.</p>
+      <div style="display:flex;gap:8px;">
+        <button onclick="exportProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
+          Export Progress
+        </button>
+        <button onclick="importProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
+          Import Progress
+        </button>
+      </div>
     </div>
   </div>
 
@@ -596,52 +623,22 @@
   <div id="srs-panel" style="display:none;background:var(--bg-primary);border-bottom:1px solid var(--border-default);">
     <div style="max-width:860px;margin:0 auto;padding:12px 32px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
       <span style="font-size:1.1rem;">🔁</span>
-      <span id="srs-text" style="color:var(--text-secondary);font-size:0.9rem;flex:1;"></span>
-      <a id="srs-link" href="#" style="background:var(--accent-yellow);color:#0a0a23;padding:7px 16px;border-radius:4px;font-size:0.85rem;font-weight:700;text-decoration:none;">Review Now</a>
+      <span id="srs-text" style="color:var(--text-secondary);font-size:0.9rem;margin-right:4px;"></span>
+      <div id="srs-links" style="display:flex;gap:6px;flex-wrap:wrap;"></div>
+    </div>
+  </div>
+
+  <!-- COURSE SEARCH -->
+  <div style="background:var(--bg-secondary);border-bottom:1px solid var(--border-default);">
+    <div style="max-width:860px;margin:0 auto;padding:10px 32px;">
+      <input id="courseSearch" type="text" placeholder="Search modules and lessons..." autocomplete="off"
+        oninput="searchCurriculum(this.value)"
+        style="width:100%;padding:9px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-primary);font-size:0.9rem;outline:none;box-sizing:border-box;" />
     </div>
   </div>
 
   <!-- MODULES -->
   <div class="page-inner" style="padding-bottom:80px;">
-
-    <!-- THE JAPANESE WAY -->
-    <div style="margin-bottom:64px;">
-      <p class="section-label" style="margin-bottom:8px;">the japanese way</p>
-      <div class="philosophy-grid">
-        <div>
-          <ul class="pillar-list">
-            <li class="pillar-item">
-              <div class="pillar-icon yellow">👁️</div>
-              <div>
-                <p class="pillar-text-title">Anticipation (先読み)</p>
-                <p class="pillar-text-desc">Respond to needs before they are voiced. True service means reading context, not just requests.</p>
-              </div>
-            </li>
-            <li class="pillar-item">
-              <div class="pillar-icon blue">🌸</div>
-              <div>
-                <p class="pillar-text-title">Selflessness (無償の心)</p>
-                <p class="pillar-text-desc">Service given without expectation of reward or recognition. The guest's experience is the only measure.</p>
-              </div>
-            </li>
-            <li class="pillar-item">
-              <div class="pillar-icon green">💎</div>
-              <div>
-                <p class="pillar-text-title">Perfection (完璧主義)</p>
-                <p class="pillar-text-desc">Attention to every detail — posture, tone, timing, environment — executed with quiet precision.</p>
-              </div>
-            </li>
-            <li class="pillar-item">
-              <div class="pillar-icon purple">🙏</div>
-              <div>
-                <p class="pillar-text-title">Sincerity (誠実さ)</p>
-                <p class="pillar-text-desc">Warmth that is genuine, not performed. The guest should feel valued as a person, not a transaction.</p>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
 
     <!-- 01 The Spirit of Omotenashi — tree structure -->
     <div class="course-tree">
@@ -692,6 +689,11 @@
                 <a href="md-viewer.html?file=content/foundations/m1-comms-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m1-comms-05.md" class="step-btn">5</a>
               </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
+                <a href="flashcard.html?module=v08-vocab" class="vocab-chip">V08 Keigo</a>
+              </div>
             </div>
           </div>
 
@@ -711,6 +713,11 @@
                 <a href="md-viewer.html?file=content/foundations/m1-skills-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m1-skills-05.md" class="step-btn">5</a>
               </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v02-vocab" class="vocab-chip">V02 Front Desk</a>
+                <a href="flashcard.html?module=v03-vocab" class="vocab-chip">V03 Guest Room</a>
+              </div>
             </div>
           </div>
 
@@ -728,6 +735,10 @@
                 <a href="md-viewer.html?file=content/foundations/m1-fnb-02.md" class="step-btn">2</a>
                 <a href="md-viewer.html?file=content/foundations/m1-fnb-03.md" class="step-btn">3</a>
                 <a href="md-viewer.html?file=content/foundations/m1-fnb-04.md" class="step-btn">4</a>
+              </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v05-vocab" class="vocab-chip">V05 Restaurant &amp; F&amp;B</a>
               </div>
             </div>
           </div>
@@ -747,6 +758,11 @@
                 <a href="md-viewer.html?file=content/foundations/m1-crisis-03.md" class="step-btn">3</a>
                 <a href="md-viewer.html?file=content/foundations/m1-crisis-04.md" class="step-btn">4</a>
               </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v06-vocab" class="vocab-chip">V06 Complaints</a>
+                <a href="flashcard.html?module=v12-vocab" class="vocab-chip">V12 Safety &amp; Emergency</a>
+              </div>
             </div>
           </div>
 
@@ -755,8 +771,7 @@
 
     </div>
 
-    <div style="margin-top:40px;"></div>
-    <!-- Practical Service Skills — tree structure -->
+    <!--Practical Service Skills — tree structure -->
     <div class="course-tree">
 
       <div class="tree-l1" id="tree-l1-f2">
@@ -783,6 +798,11 @@
                 <a href="md-viewer.html?file=content/foundations/m2-keigo-03.md" class="step-btn">3</a>
                 <a href="md-viewer.html?file=content/foundations/m2-keigo-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m2-keigo-05.md" class="step-btn">5</a>
+              </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
+                <a href="flashcard.html?module=v02-vocab" class="vocab-chip">V02 Front Desk</a>
               </div>
             </div>
           </div>
@@ -841,6 +861,11 @@
                 <a href="md-viewer.html?file=content/foundations/m2-accommodation-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m2-accommodation-05.md" class="step-btn">5</a>
               </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v03-vocab" class="vocab-chip">V03 Guest Room</a>
+                <a href="flashcard.html?module=v04-vocab" class="vocab-chip">V04 Housekeeping</a>
+              </div>
             </div>
           </div>
 
@@ -879,6 +904,10 @@
                 <a href="md-viewer.html?file=content/foundations/m2-teamwork-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m2-teamwork-05.md" class="step-btn">5</a>
               </div>
+              <div class="vocab-xref">
+                <span class="vocab-xref-label">Related Vocab:</span>
+                <a href="flashcard.html?module=v13-vocab" class="vocab-chip">V13 Staff &amp; Teamwork</a>
+              </div>
             </div>
           </div>
 
@@ -887,8 +916,7 @@
 
     </div>
 
-    <div style="margin-top:40px;"></div>
-    <!-- Expert Specialization — tree structure -->
+    <!--Expert Specialization — tree structure -->
     <div class="course-tree">
 
       <div class="tree-l1" id="tree-l1-ap">
@@ -981,8 +1009,7 @@
 
     </div>
 
-    <div style="margin-top:40px;"></div>
-    <!-- Vocabulary & Language Skills — tree structure -->
+    <!--Vocabulary & Language Skills — tree structure -->
     <div class="course-tree">
 
       <div class="tree-l1" id="tree-l1-vocab">
@@ -993,25 +1020,6 @@
         </div>
 
         <div class="tree-l1-children">
-
-          <div class="tree-l2" id="tree-l2-emotions">
-            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-emotions').classList.toggle('open')">
-              <span class="tree-l2-chevron">▶</span>
-              <span class="tree-circle"></span>
-              <span class="tree-l2-label">Reading Guest Emotions</span>
-              <span class="tree-l2-progress">0 of 6 steps complete</span>
-            </div>
-            <div class="tree-l2-children">
-              <div class="step-grid">
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-01.md" class="step-btn">1</a>
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-02.md" class="step-btn">2</a>
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-03.md" class="step-btn">3</a>
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-04.md" class="step-btn">4</a>
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-05.md" class="step-btn">5</a>
-                <a href="md-viewer.html?file=content/foundations/m4-emotions-06.md" class="step-btn">6</a>
-              </div>
-            </div>
-          </div>
 
           <div class="tree-l2" id="tree-l2-v01">
             <div class="tree-l2-row" onclick="document.getElementById('tree-l2-v01').classList.toggle('open')">
@@ -1141,7 +1149,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Housekeeping</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 20 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1174,7 +1182,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Restaurant &amp; F&amp;B Service</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 20 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1207,7 +1215,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Guest Requests &amp; Problem Solving</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 25 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1245,7 +1253,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Essential Vocabulary</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 10 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1268,7 +1276,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Directions &amp; Navigation</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 40 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1321,7 +1329,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Reservations &amp; Scheduling</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 40 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1374,7 +1382,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Payments &amp; Accounting</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 40 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1427,7 +1435,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Phone &amp; Communication</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 40 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1480,7 +1488,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Safety &amp; Emergency</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 30 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1523,7 +1531,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Staff &amp; Operations</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 30 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1566,7 +1574,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Tourism and Travel</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 30 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1609,7 +1617,7 @@
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Laundry &amp; Additional Services</span>
-              <span class="tree-l2-progress">0 of 5 steps complete</span>
+              <span class="tree-l2-progress">0 of 20 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1644,10 +1652,115 @@
 
     <hr style="border:none; border-top:1px solid var(--border-default); margin:48px 0 40px;">
 
+    <!-- Reading Guest Emotions -->
+    <div class="course-tree">
+      <div class="tree-l1" id="tree-l1-emotions">
+        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-emotions').classList.toggle('open')">
+          <span class="tree-l1-label">Reading Guest Emotions</span>
+          <span class="tree-l1-progress" id="emotions-progress">0 of 6 complete</span>
+          <span class="tree-l1-chevron">▾</span>
+        </div>
+        <div class="tree-l1-children">
+          <div style="padding:8px 24px 16px 24px;">
+            <div class="step-grid" style="padding:0; flex-wrap:wrap;">
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-01.md" class="step-btn">1</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-02.md" class="step-btn">2</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-03.md" class="step-btn">3</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-04.md" class="step-btn">4</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-05.md" class="step-btn">5</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-06.md" class="step-btn">6</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cultural Calendar -->
+    <div class="course-tree">
+      <div class="tree-l1" id="tree-l1-cal">
+        <div class="tree-l1-row" onclick="document.getElementById('tree-l1-cal').classList.toggle('open')">
+          <span class="tree-l1-label">Cultural Calendar</span>
+          <span class="tree-l1-progress">4 seasons · 14 events</span>
+          <span class="tree-l1-chevron">▾</span>
+        </div>
+        <div class="tree-l1-children">
+
+          <div class="tree-l2" id="tree-l2-cal-spring">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-spring').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">🌸 Spring</span>
+              <span class="tree-l2-progress">March — May · 3 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/spring-01.md" class="step-btn" title="Sakura Season">1</a>
+                <a href="md-viewer.html?file=content/calendar/spring-02.md" class="step-btn" title="New Fiscal &amp; Academic Year">2</a>
+                <a href="md-viewer.html?file=content/calendar/spring-03.md" class="step-btn" title="Golden Week">3</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-summer">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-summer').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">☀️ Summer</span>
+              <span class="tree-l2-progress">June — August · 4 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/summer-01.md" class="step-btn" title="Tsuyu — Rainy Season">1</a>
+                <a href="md-viewer.html?file=content/calendar/summer-02.md" class="step-btn" title="Tanabata">2</a>
+                <a href="md-viewer.html?file=content/calendar/summer-03.md" class="step-btn" title="Obon">3</a>
+                <a href="md-viewer.html?file=content/calendar/summer-04.md" class="step-btn" title="Summer Heat Greeting">4</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-autumn">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-autumn').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">🍂 Autumn</span>
+              <span class="tree-l2-progress">September — November · 3 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/autumn-01.md" class="step-btn" title="Koyo — Autumn Foliage">1</a>
+                <a href="md-viewer.html?file=content/calendar/autumn-02.md" class="step-btn" title="Respect for the Aged Day">2</a>
+                <a href="md-viewer.html?file=content/calendar/autumn-03.md" class="step-btn" title="Culture Day">3</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-winter">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-winter').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">❄️ Winter</span>
+              <span class="tree-l2-progress">December — February · 4 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/winter-01.md" class="step-btn" title="Oseibo — Year-End Gift Giving">1</a>
+                <a href="md-viewer.html?file=content/calendar/winter-02.md" class="step-btn" title="New Year — Oshogatsu">2</a>
+                <a href="md-viewer.html?file=content/calendar/winter-03.md" class="step-btn" title="Setsubun">3</a>
+                <a href="md-viewer.html?file=content/calendar/winter-04.md" class="step-btn" title="Cold-Weather Greeting">4</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <hr style="border:none; border-top:1px solid var(--border-default); margin:48px 0 40px;">
+
     <!-- Flashcard -->
     <div class="course-tree">
-      <div class="tree-l1 open" id="tree-l1-flash">
-        <div class="tree-l1-row" onclick="document.getElementById('tree-l1-flash').classList.toggle('open')">
+      <div class="tree-l1" id="tree-l1-flash">
+        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-flash').classList.toggle('open')">
           <span class="tree-l1-label">Flashcard</span>
           <span class="tree-l1-progress" id="fc-global-progress">429 cards</span>
           <span class="tree-l1-chevron">▾</span>
@@ -1657,7 +1770,7 @@
             <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:20px;line-height:1.6;">
               Practice all 429 vocabulary words with interactive flashcards — shuffle mode, reverse direction (EN→JP), and Study Session mode that re-shows cards you're still learning.
             </p>
-            <a href="flashcard.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Start Flashcard →</a>
+            <a href="flashcard.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Start Flashcard</a>
           </div>
         </div>
       </div>
@@ -1880,6 +1993,7 @@
       </div>
     </div>
 
+
   </div>
 
   <!-- FOOTER -->
@@ -2053,12 +2167,83 @@
       if (!due.length) return;
       const panel = document.getElementById('srs-panel');
       const text  = document.getElementById('srs-text');
-      const link  = document.getElementById('srs-link');
-      if (!panel || !text || !link) return;
-      text.textContent = due.length + ' lesson' + (due.length > 1 ? 's' : '') + ' ready for review';
-      link.href = 'md-viewer.html?file=' + encodeURIComponent(due[0]);
+      const linksEl = document.getElementById('srs-links');
+      if (!panel || !text || !linksEl) return;
+      text.textContent = due.length + ' lesson' + (due.length > 1 ? 's' : '') + ' ready for review:';
+      due.forEach((f, i) => {
+        const a = document.createElement('a');
+        a.href = 'md-viewer.html?file=' + encodeURIComponent(f);
+        a.textContent = '#' + (i + 1);
+        a.title = f.replace(/^content\//, '').replace(/\.md$/, '');
+        a.style.cssText = 'background:var(--accent-yellow);color:#0a0a23;padding:5px 12px;border-radius:4px;font-size:0.8rem;font-weight:700;text-decoration:none;white-space:nowrap;';
+        linksEl.appendChild(a);
+      });
       panel.style.display = 'block';
     })();
+
+    // ── COURSE SEARCH ─────────────────────────────────────────────────────────
+    function searchCurriculum(q) {
+      q = q.trim().toLowerCase();
+      document.querySelectorAll('.tree-l1, .tree-l2').forEach(el => {
+        el.style.display = '';
+      });
+      if (!q) return;
+      document.querySelectorAll('.tree-l2').forEach(sec => {
+        const label = (sec.querySelector('.tree-l2-label') || sec).textContent.toLowerCase();
+        const match = label.includes(q);
+        sec.style.display = match ? '' : 'none';
+        if (match) {
+          // Open section and its parent L1
+          sec.classList.add('open');
+          const l1 = sec.closest('.tree-l1');
+          if (l1) l1.classList.add('open');
+        }
+      });
+      document.querySelectorAll('.tree-l1').forEach(l1 => {
+        const hasVisible = [...l1.querySelectorAll('.tree-l2')].some(s => s.style.display !== 'none');
+        l1.style.display = hasVisible ? '' : 'none';
+      });
+    }
+
+    // ── EXPORT / IMPORT PROGRESS ──────────────────────────────────────────────
+    function exportProgress() {
+      const data = {};
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && k.startsWith('omotenashi:')) data[k] = localStorage.getItem(k);
+      }
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'omotenashi-progress-' + new Date().toISOString().slice(0, 10) + '.json';
+      a.click();
+      URL.revokeObjectURL(a.href);
+    }
+    function importProgress() {
+      const input = document.createElement('input');
+      input.type = 'file';
+      input.accept = '.json';
+      input.onchange = e => {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = ev => {
+          try {
+            const data = JSON.parse(ev.target.result);
+            let count = 0;
+            for (const [k, v] of Object.entries(data)) {
+              if (k.startsWith('omotenashi:')) { localStorage.setItem(k, v); count++; }
+            }
+            alert('Imported ' + count + ' entries. Refreshing...');
+            location.reload();
+          } catch(err) {
+            alert('Invalid file. Please select a valid progress export.');
+          }
+        };
+        reader.readAsText(file);
+      };
+      input.click();
+    }
 
     // Dark / Light mode toggle
     function toggleMode() {

@@ -4,8 +4,6 @@ section: 9
 title: ベッド (bed)
 ---
 
-**ベッド** *(beddo)*
-
 "ベッド" refers to the bed in the guest room. Staff may ask about bed preferences or arrangements. Correct usage ensures guest comfort.
 
 ---

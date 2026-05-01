@@ -4,8 +4,6 @@ section: 4
 title: ゴミ (gomi)
 ---
 
-**ゴミ** *(gomi)*
-
 "ゴミ" means trash or garbage. Proper management and disposal are essential for hygiene. Staff should handle it with care, separating recyclables when needed, and follow hotel disposal procedures.
 
 ---

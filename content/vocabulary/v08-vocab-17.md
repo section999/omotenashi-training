@@ -4,8 +4,6 @@ section: 17
 title: 正面 (shoumen)
 ---
 
-**正面** *(shoumen)*
-
 "正面" means front or facing forward. Staff use it to indicate the main facade of a building or room. It is often paired with entrances, signage, or reception areas. Clear communication ensures guests approach the correct location.
 
 *Example: ホテルの正面に駐車場がございます。* (The parking lot is in front of the hotel.)

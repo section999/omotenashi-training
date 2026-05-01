@@ -4,8 +4,6 @@ section: 9
 title: 二階 (nikai)
 ---
 
-**二階** *(nikai)*
-
 "二階" is the second floor above ground. Staff should specify elevator or stair use. It is common for restaurants, conference rooms, or guest rooms. Clear directions reduce guest confusion.
 
 *Example: レストランは二階にございます。* (The restaurant is on the second floor.)

@@ -4,8 +4,6 @@ section: 14
 title: ガイド (gaido)
 ---
 
-## ガイド (がいど · gaido)
-
 **Meaning:** guide
 
 ガイド is a person or tool providing information about a place, event, or culture. Guides help tourists understand local history, customs, and attractions. Professional guides ensure safety, timing, and an engaging experience. Audio or written guides supplement personal guidance.

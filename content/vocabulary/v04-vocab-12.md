@@ -4,8 +4,6 @@ section: 12
 title: 歯ブラシ (haburashi)
 ---
 
-**歯ブラシ** *(haburashi)*
-
 "歯ブラシ" is a toothbrush provided in rooms. Staff may supply it upon check-in or upon request. Ensuring hygiene and timely replacement is important for guest satisfaction.
 
 ---

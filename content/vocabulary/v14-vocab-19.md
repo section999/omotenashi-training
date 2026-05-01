@@ -4,8 +4,6 @@ section: 19
 title: バス (basu)
 ---
 
-## バス (ばす · basu)
-
 **Meaning:** bus
 
 バス refers to road-based public transportation for local or intercity travel. Buses provide access to areas not served by trains. Knowledge of routes, stops, and fares is important for tourists. Buses often complement trains in comprehensive travel planning.

@@ -4,8 +4,6 @@ section: 13
 title: タオル (towel)
 ---
 
-**タオル** *(taoru)*
-
 "タオル" refers to a towel, typically for hands or face. Staff should provide towels and replenish them as needed.
 
 ---

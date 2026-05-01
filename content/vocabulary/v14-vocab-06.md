@@ -4,8 +4,6 @@ section: 6
 title: 出国 (shukkoku)
 ---
 
-## 出国 (しゅっこく · shukkoku)
-
 **Meaning:** departure (from a country)
 
 出国 refers to leaving a country for travel abroad. Departure involves passport checks, security, and customs clearance. Travelers must follow airline and government regulations. Efficient departure procedures ensure smooth travel.

@@ -4,8 +4,6 @@ section: 10
 title: 休み (yasumi)
 ---
 
-## 休み (やすみ · yasumi)
-
 **Meaning:** day off
 
 休み refers to days when employees are not scheduled to work. Days off are essential for rest, personal time, and maintaining work-life balance. Employers must respect legal holidays and agreed-upon leave. Planning rest days properly enhances long-term productivity.

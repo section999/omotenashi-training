@@ -4,8 +4,6 @@ section: 15
 title: 特典 (tokuten)
 ---
 
-**特典** *(tokuten)*
-
 "特典" refers to extra benefits provided in a booking, like free breakfast, spa access, or late check-out. Staff explain perks clearly to enhance guest experience. Guests often select plans based on these perks. Proper explanation ensures expectations match service.
 
 *Example: プランには特典として朝食が付きます。* (The plan includes breakfast as a perk.)

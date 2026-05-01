@@ -4,8 +4,6 @@ section: 15
 title: お手伝いしましょうか (otetsudai shimashou ka)
 ---
 
-**お手伝いしましょうか** *(otetsudai shimashou ka)*
-
 This means "may I help you?" It is used to offer assistance to guests. It is polite and shows attentiveness and care. This phrase is essential in hospitality to improve customer satisfaction.
 
 ---

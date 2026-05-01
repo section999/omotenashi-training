@@ -4,8 +4,6 @@ section: 17
 title: 報告 (houkoku)
 ---
 
-## 報告 (ほうこく · houkoku)
-
 **Meaning:** report
 
 報告 refers to providing information on completed tasks, incidents, or status updates. Timely reporting ensures management is informed for decision-making. Reports maintain transparency and accountability. Employees must report accurately and professionally.

@@ -4,8 +4,6 @@ section: 37
 title: 再確認 (sai kakunin)
 ---
 
-**再確認** *(sai kakunin)*
-
 "再確認" refers to checking a reservation again to ensure details are correct. Staff may ask for confirmation numbers or guest details. Reconfirmation prevents errors and improves guest satisfaction. It is especially important for high-demand dates or large groups.
 
 *Example: ご予約内容を再確認いたします。* (We will reconfirm your reservation details.)

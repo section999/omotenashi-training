@@ -4,8 +4,6 @@ section: 13
 title: 料金 (ryokin)
 ---
 
-**料金** *(ryōkin)*
-
 "料金" refers to the total cost for the stay or services. Staff must explain it clearly to avoid confusion. It is often combined with tax and additional charges. Transparency is important.
 
 ---

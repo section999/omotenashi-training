@@ -4,8 +4,6 @@ section: 9
 title: 開店 (kaiten)
 ---
 
-**開店** *(kaiten)*
-
 "開店" means opening time when a restaurant or shop begins service. It is important for staff to inform guests when services become available.
 
 Guests often plan their schedule based on opening times, especially for breakfast or facilities. Providing precise information helps avoid waiting or confusion.

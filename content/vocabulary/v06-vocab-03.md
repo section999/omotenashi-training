@@ -4,8 +4,6 @@ section: 3
 title: 苦情 (kujou)
 ---
 
-**苦情** *(kujou)*
-
 "苦情" means a complaint expressed by a guest, often regarding dissatisfaction with service or facilities. Staff must listen attentively without interrupting and show empathy. A sincere apology and appropriate action are essential. Proper handling can turn a negative experience into a positive one.
 
 ---

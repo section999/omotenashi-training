@@ -4,8 +4,6 @@ section: 13
 title: 怪我 (kega)
 ---
 
-## 怪我 (けが · kega)
-
 **Meaning:** injury
 
 怪我 refers to physical harm or wounds sustained by a person. Staff must provide immediate first aid and contact medical services if necessary. Proper reporting ensures that guests receive appropriate care. Awareness of hazards helps prevent injuries.

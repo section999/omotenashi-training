@@ -4,8 +4,6 @@ section: 28
 title: 会話 (kaiwa)
 ---
 
-**会話** *(kaiwa)*
-
 "会話" refers to interactive communication between staff and guests. Effective conversation requires clarity, politeness, and listening skills. Proper engagement improves guest satisfaction and efficiency.
 
 *Example: 英語で会話できますか。* (Can you have a conversation in English?)

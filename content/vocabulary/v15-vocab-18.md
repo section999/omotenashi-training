@@ -4,8 +4,6 @@ section: 18
 title: ロッカー (rokkaa)
 ---
 
-## ロッカー (ろっかー · rokkaa)
-
 **Meaning:** locker
 
 ロッカー is a secure storage compartment for personal belongings. Useful in gyms, stations, or hotels. Provides convenience and security for travelers. Lockers may require keys, codes, or coins to operate.

@@ -4,8 +4,6 @@ section: 2
 title: 部屋 (heya)
 ---
 
-**部屋** *(heya)*
-
 "部屋" is a general term for room. It can refer to hotel rooms, private rooms, or any enclosed space. In hotels, it is often used in conversation with guests for clarity. Less formal than "客室."
 
 ---

@@ -4,8 +4,6 @@ section: 21
 title: ご用件 (goyouken)
 ---
 
-**ご用件** *(goyouken)*
-
 "ご用件" refers to the purpose of a caller's call. Staff use it to understand the inquiry efficiently. Accurate identification ensures the right department handles the request. Proper use saves time and improves satisfaction.
 
 *Example: ご用件をお伺いしてもよろしいですか。* (May I ask the purpose of your call?)

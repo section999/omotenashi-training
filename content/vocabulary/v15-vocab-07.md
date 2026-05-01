@@ -4,8 +4,6 @@ section: 7
 title: アイロン台 (airon dai)
 ---
 
-## アイロン台 (あいろんだい · airon dai)
-
 **Meaning:** ironing board
 
 アイロン台 is the flat surface used to support clothes while ironing. It ensures even heat distribution and safety. Most hotels and laundries provide an アイロン台 with irons. Proper use prevents damage and enhances efficiency.

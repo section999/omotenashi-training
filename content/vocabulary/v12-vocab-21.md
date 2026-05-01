@@ -4,8 +4,6 @@ section: 21
 title: 点検中 (tenken chuu)
 ---
 
-## 点検中 (てんけんちゅう · tenken chuu)
-
 **Meaning:** under inspection
 
 点検中 indicates that equipment, systems, or facilities are being checked for safety or functionality. Staff must ensure all devices are operational and report any issues. Clear signage prevents guest use during maintenance. Regular inspections minimise accidents and ensure compliance with safety standards.

@@ -4,8 +4,6 @@ section: 18
 title: 破損 (hason)
 ---
 
-**破損** *(hason)*
-
 "破損" means damage. Staff must report or repair any damage to hotel property. Handling with care and prompt response prevents complaints and maintains hotel standards.
 
 ---

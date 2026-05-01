@@ -4,8 +4,6 @@ section: 20
 title: 点検 (tenken)
 ---
 
-**点検** *(tenken)*
-
 "点検" means inspection or checking. Staff perform regular inspections of rooms, equipment, and amenities to maintain safety and service quality. Proper documentation ensures accountability.
 
 ---

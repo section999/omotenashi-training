@@ -4,8 +4,6 @@ section: 14
 title: 恐れ入ります (osore irimasu)
 ---
 
-**恐れ入ります** *(osore irimasu)*
-
 This phrase is used to politely say "excuse me" or "sorry to bother you." It shows humility and respect toward the listener. It is often used before making a request or asking a question. It is very common in customer service.
 
 ---

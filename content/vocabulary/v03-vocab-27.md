@@ -4,8 +4,6 @@ section: 27
 title: 清掃係 (seisou kakari)
 ---
 
-**清掃係** *(seisō kakari)*
-
 "清掃係" means housekeeping staff. They handle cleaning, replenishing amenities, and maintaining guest room standards. Staff may introduce them or explain their duties politely. Proper introduction ensures guest comfort.
 
 ---

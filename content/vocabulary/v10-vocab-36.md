@@ -4,8 +4,6 @@ section: 36
 title: 署名 (shomei)
 ---
 
-**署名** *(shomei)*
-
 "署名" is signing to authorize a payment or confirm agreement. Staff must ensure proper placement and readability. Signatures are legal proof for transactions. Guests\'s signatures validate charges.
 
 *Example: ここに署名をお願いします。* (Please sign here.)

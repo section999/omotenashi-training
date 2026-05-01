@@ -4,8 +4,6 @@ section: 13
 title: 空いている席 (aiteiru seki)
 ---
 
-**空いている席** *(aiteiru seki)*
-
 "空いている席" refers to available seats in the restaurant. Staff should guide guests efficiently to open tables.
 
 Clear communication prevents confusion and waiting.
@@ -17,8 +15,8 @@ Clear communication prevents confusion and waiting.
 **Guest asks: "Are there any seats available?" Best response?**
 
 - A. 空いている席はこちらです (the available seat is here)
-- B. 席ない (no seats)
-- C. 自分で探す (find it yourself)
+- B. ただいまお席のご案内をしております (we are currently guiding guests to seats)
+- C. 少々お待ちいただきますと、席が空きます (if you wait a moment, a seat will become available)
 - D. 分かりません (I don't understand)
 
 **Correct Answer:** 空いている席はこちらです (the available seat is here)

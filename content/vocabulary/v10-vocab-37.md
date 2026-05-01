@@ -4,8 +4,6 @@ section: 37
 title: 暗証番号 (anshou bangou)
 ---
 
-**暗証番号** *(anshou bangou)*
-
 "暗証番号" is a personal identification number for card or digital payments. Staff must protect guests' confidentiality. PIN ensures secure transactions. Proper handling avoids fraud or misuse.
 
 *Example: カードの暗証番号を入力してください。* (Please enter your card PIN.)

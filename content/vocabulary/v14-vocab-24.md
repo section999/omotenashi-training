@@ -4,8 +4,6 @@ section: 24
 title: ICカード (IC kaado)
 ---
 
-## ICカード (ICカード · IC kaado)
-
 **Meaning:** IC card
 
 ICカード is a rechargeable smart card used for electronic payments on trains, buses, and some stores. IC cards speed up transactions and reduce the need for cash. Tourists benefit from IC cards for convenience and flexibility. Popular examples include Suica and Pasmo.

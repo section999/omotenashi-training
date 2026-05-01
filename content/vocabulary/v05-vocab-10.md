@@ -4,8 +4,6 @@ section: 10
 title: コーヒー (koohii)
 ---
 
-**コーヒー** *(koohii)*
-
 "コーヒー" is a common beverage served after meals or during breakfast. Hotels may offer different types such as espresso or drip coffee.
 
 Staff should ask preferences like hot or iced.

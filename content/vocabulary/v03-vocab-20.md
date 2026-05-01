@@ -4,8 +4,6 @@ section: 20
 title: テレビ (television)
 ---
 
-**テレビ** *(terebi)*
-
 "テレビ" means television. Staff may explain how to operate it, channel lists, or on-demand services. Proper explanation enhances the guest experience. Polite guidance is expected, especially for foreign visitors.
 
 ---

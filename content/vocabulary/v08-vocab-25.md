@@ -4,8 +4,6 @@ section: 25
 title: 分 (fun/pun)
 ---
 
-**分** *(fun / pun)*
-
 "分" indicates minutes for time estimation. Staff use it with "徒歩" or transport time. Clear use of minutes helps guests plan effectively. It prevents delays and confusion during check-ins or sightseeing.
 
 *Example: 空港まで車で30分です。* (It's 30 minutes by car to the airport.)

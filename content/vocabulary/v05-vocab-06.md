@@ -4,8 +4,6 @@ section: 6
 title: メニュー (menyuu)
 ---
 
-**メニュー** *(menyuu)*
-
 "メニュー" is the list of food and beverages available in the restaurant. It may include descriptions, prices, and allergen information.
 
 Staff should present it clearly and assist guests in understanding unfamiliar dishes.

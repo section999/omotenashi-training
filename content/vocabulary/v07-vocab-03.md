@@ -4,8 +4,6 @@ section: 3
 title: ロビー (robii)
 ---
 
-**ロビー** *(robii)*
-
 "ロビー" refers to the main public area of a hotel where guests check in, wait, or meet others. It is often the first impression of the hotel, so cleanliness and atmosphere are very important.
 
 Staff should guide guests to the lobby for meetings, waiting, or assistance. It is also a central location for services such as concierge, seating, and information, so clear communication about its use is essential.

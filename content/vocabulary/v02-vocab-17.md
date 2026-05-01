@@ -4,8 +4,6 @@ section: 17
 title: 現金 (genkin)
 ---
 
-**現金** *(genkin)*
-
 "現金" means cash and is one of the basic payment methods. Hotels usually confirm how the guest would like to pay. It is important to ask politely rather than assume. This helps avoid confusion at checkout.
 
 ---

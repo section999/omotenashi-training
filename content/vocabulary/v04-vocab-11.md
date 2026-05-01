@@ -4,8 +4,6 @@ section: 11
 title: コンディショナー (kondishonaa)
 ---
 
-**コンディショナー** *(kondishonaa)*
-
 "コンディショナー" is hair conditioner, often paired with shampoo. Staff should ensure availability and replace when requested. Clear explanation avoids confusion, especially for foreign guests.
 
 ---
@@ -16,8 +14,8 @@ title: コンディショナー (kondishonaa)
 
 - A. コンディショナーはシャワー横にございます (conditioner is next to the shower)
 - B. コンディショナーありません (there is no conditioner)
-- C. コンディショナー自分で (get conditioner yourself)
-- D. コンディショナー使って (use the conditioner)
+- C. コンディショナーはシャワー室の棚にございます (conditioner is on the shower shelf)
+- D. シャンプーのみご用意しております (only shampoo is available)
 
 **Correct Answer:** コンディショナーはシャワー横にございます (conditioner is next to the shower)
 

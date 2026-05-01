@@ -4,8 +4,6 @@ section: 26
 title: 為替 (kawase)
 ---
 
-**為替** *(kawase)*
-
 "為替" indicates the rate used to convert foreign currency. Staff must update rates daily. Guests rely on accurate exchange rates to calculate payments. Transparency avoids disputes.
 
 *Example: 今日の為替レートはいくらですか。* (What is today's exchange rate?)

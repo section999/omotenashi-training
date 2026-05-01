@@ -4,8 +4,6 @@ section: 23
 title: 徒歩 (toho)
 ---
 
-**徒歩** *(toho)*
-
 "徒歩" refers to traveling by walking. Staff use it to give directions for nearby locations. Providing approximate walking times improves guest planning. Clear communication prevents misunderstandings about distance.
 
 *Example: 駅まで徒歩10分です。* (It's a 10-minute walk to the station.)

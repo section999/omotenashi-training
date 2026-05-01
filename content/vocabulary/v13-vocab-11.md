@@ -4,8 +4,6 @@ section: 11
 title: 残業 (zangyou)
 ---
 
-## 残業 (ざんぎょう · zangyou)
-
 **Meaning:** overtime
 
 残業 refers to work done beyond regular working hours. Overtime is often necessary to meet deadlines or handle urgent tasks. Proper management ensures employees are compensated and prevents burnout. Monitoring overtime is essential for workplace health and legal compliance.

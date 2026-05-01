@@ -4,8 +4,6 @@ section: 13
 title: お願いいたします (onegai itashimasu)
 ---
 
-**お願いいたします** *(onegai itashimasu)*
-
 This is a very polite way to say "please" when making a request. It is often used in formal situations like hotels or business settings. Compared to "onegai shimasu," it is more respectful. It is commonly used when asking guests to do something.
 
 ---

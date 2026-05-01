@@ -4,8 +4,6 @@ section: 18
 title: 喫煙席 (kitsuen seki)
 ---
 
-**喫煙席** *(kitsuen seki)*
-
 "喫煙席" means smoking seating areas. These are often separated from non-smoking areas.
 
 Staff should guide guests appropriately and follow regulations.
@@ -17,9 +15,9 @@ Staff should guide guests appropriately and follow regulations.
 **Which phrase correctly directs a guest to the smoking section?**
 
 - A. 喫煙席はこちらでございます (the smoking seat is here)
-- B. 喫煙席ない (no smoking seats)
-- C. 喫煙席自分で (find smoking seat yourself)
-- D. 喫煙席ダメ (smoking seat not available)
+- B. 禁煙席のほうがよろしいでしょうか (would you prefer a non-smoking seat?)
+- C. 2階に喫煙スペースがございます (there is a smoking area on the 2nd floor)
+- D. 当店は全席禁煙でございます (this restaurant is entirely non-smoking)
 
 **Correct Answer:** 喫煙席はこちらでございます (the smoking seat is here)
 

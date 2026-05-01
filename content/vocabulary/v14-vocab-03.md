@@ -4,8 +4,6 @@ section: 3
 title: パスポート確認 (pasupoto kakunin)
 ---
 
-## パスポート確認 (ぱすぽーとかくにん · pasupoto kakunin)
-
 **Meaning:** passport check
 
 パスポート確認 refers to verifying a traveller\'s passport at airports, hotels, or border controls. Ensuring valid identification is crucial for security and legal compliance. Staff must check expiration dates and visa status carefully. Passport checks prevent illegal entry and maintain safety.

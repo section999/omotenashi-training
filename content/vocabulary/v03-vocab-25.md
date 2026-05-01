@@ -4,8 +4,6 @@ section: 25
 title: 窓 (mado)
 ---
 
-**窓** *(mado)*
-
 "窓" means window. Staff may explain how to open or close windows safely or point out the view. Proper instruction ensures comfort and prevents accidents. It can also be mentioned when discussing room features.
 
 ---

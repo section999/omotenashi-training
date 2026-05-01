@@ -4,8 +4,6 @@ section: 12
 title: 受取 (uketori)
 ---
 
-## 受取 (うけとり · uketori)
-
 **Meaning:** pickup / receipt
 
 受取 is the act of receiving goods, parcels, or laundry. Ensures correct handling and delivery confirmation. Hotels often manage 受取 for packages or laundry. Verification using tracking numbers or claim tickets is standard.

@@ -4,8 +4,6 @@ section: 6
 title: 忘れ物 (wasuremono)
 ---
 
-**忘れ物** *(wasuremono)*
-
 "忘れ物" refers to items left behind by guests. Staff should carefully check rooms and report found items. Proper storage and documentation are essential. Returning lost items improves guest satisfaction and trust.
 
 ---

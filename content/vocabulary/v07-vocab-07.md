@@ -4,8 +4,6 @@ section: 7
 title: 遠い (tooi)
 ---
 
-**遠い** *(tooi)*
-
 "遠い" means far and is used when a destination is not within easy walking distance. Staff should use this word carefully and politely, often suggesting alternatives such as taxis or public transport.
 
 Providing additional information like travel time helps guests plan better. Clear communication prevents misunderstandings and improves satisfaction.

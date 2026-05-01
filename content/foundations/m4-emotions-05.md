@@ -4,8 +4,6 @@ section: 5
 title: Responding to Emotional Cues
 ---
 
-## Responding to Emotional Cues
-
 Reading emotional cues is only half the skill. The other half is responding in a way that feels natural, warm, and unobtrusive — never making the guest feel observed, analysed, or embarrassed.
 
 ### Match Your Response to the Signal

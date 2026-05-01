@@ -4,8 +4,6 @@ section: 15
 title: 入口 (iriguchi)
 ---
 
-**入口** *(iriguchi)*
-
 "入口" means entrance and indicates where guests enter a building or room. Staff should clarify main and secondary entrances. Signage or verbal instructions help guests locate it quickly. Proper guidance improves flow and safety.
 
 *Example: ホテルの入口は正面にございます。* (The hotel entrance is at the front.)

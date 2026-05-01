@@ -4,8 +4,6 @@ section: 23
 title: 注意 (chuui)
 ---
 
-## 注意 (ちゅうい · chuui)
-
 **Meaning:** caution
 
 注意 indicates that extra care or alertness is required to prevent accidents. Staff often combine verbal warnings and signage to communicate hazards. Awareness reduces the likelihood of injury. Proper use of caution signs ensures guests understand potential risks.

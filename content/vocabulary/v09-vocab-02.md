@@ -4,8 +4,6 @@ section: 2
 title: 予約日 (yoyaku bi)
 ---
 
-**予約日** *(yoyaku bi)*
-
 "予約日" indicates the date when the guest made the reservation. Staff use it to verify promotions, early booking discounts, and track booking trends. It is important for auditing purposes and confirming guest eligibility for certain plans. Knowing the reservation date helps avoid misunderstandings with repeated or duplicate bookings.
 
 *Example: 予約日は2026年4月1日です。* (The reservation date is April 1, 2026.)

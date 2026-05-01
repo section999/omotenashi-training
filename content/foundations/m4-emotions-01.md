@@ -4,8 +4,6 @@ section: 1
 title: Understanding Non-Verbal Communication
 ---
 
-## Understanding Non-Verbal Communication
-
 In Japanese hospitality, words are only part of the message. Research suggests that the majority of human communication is non-verbal — conveyed through posture, gesture, eye contact, and tone of voice. For hospitality professionals, learning to read these signals is as important as mastering keigo.
 
 ### Why Non-Verbal Matters More in Japan

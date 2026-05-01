@@ -4,8 +4,6 @@ section: 19
 title: 隣 (tonari)
 ---
 
-**隣** *(tonari)*
-
 "隣" means next to or adjacent. Staff use it to describe rooms, shops, or facilities nearby. Combining it with landmarks improves guest understanding. Accurate use prevents guests from going to the wrong location.
 
 *Example: レストランの隣にカフェがあります。* (There is a cafe next to the restaurant.)

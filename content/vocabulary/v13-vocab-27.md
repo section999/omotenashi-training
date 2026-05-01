@@ -4,8 +4,6 @@ section: 27
 title: マニュアル (manyuaru)
 ---
 
-## マニュアル (まにゅある · manyuaru)
-
 **Meaning:** manual
 
 マニュアル is a document that provides detailed instructions or guidelines for tasks. Manuals ensure consistency, safety, and quality in work. They are used for training, troubleshooting, and reference. Employees should consult the manual when uncertain about procedures.

@@ -4,8 +4,6 @@ section: 32
 title: 直前予約 (chokuzen yoyaku)
 ---
 
-**直前予約** *(chokuzen yoyaku)*
-
 "直前予約" refers to a booking made shortly before arrival. Staff must quickly confirm availability and prepare rooms. Hotels may have higher rates or restrictions for last-minute bookings. Efficient handling ensures guest satisfaction.
 
 *Example: 直前予約は通常料金で承ります。* (Last-minute bookings are accepted at the regular rate.)

@@ -4,8 +4,6 @@ section: 4
 title: Detecting Dissatisfaction Early
 ---
 
-## Detecting Dissatisfaction Early
-
 The best complaint is the one that never happens. By detecting the early signs of guest dissatisfaction and acting before the guest speaks, you embody the highest principle of omotenashi — anticipation (先読み).
 
 ### The Dissatisfaction Ladder

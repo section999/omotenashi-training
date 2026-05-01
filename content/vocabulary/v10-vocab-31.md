@@ -4,8 +4,6 @@ section: 31
 title: 宿泊税 (shukuhaku zei)
 ---
 
-**宿泊税** *(shukuhaku zei)*
-
 "宿泊税" is a local tax applied to hotel stays. Staff must include this in the total bill. Guests should be informed beforehand. Proper handling ensures compliance and transparency.
 
 *Example: 宿泊税は料金に含まれています。* (The accommodation tax is included in the price.)

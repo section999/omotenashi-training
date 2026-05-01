@@ -4,8 +4,6 @@ section: 16
 title: パスワード (pasuwaado)
 ---
 
-**パスワード** *(pasuwaado)*
-
 "パスワード" is required to access Wi-Fi or certain services. Staff should provide it clearly and securely. Miscommunication can cause frustration. Clear instructions are important.
 
 ---

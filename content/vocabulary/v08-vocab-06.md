@@ -4,8 +4,6 @@ section: 6
 title: 交差点 (kousaten)
 ---
 
-**交差点** *(kousaten)*
-
 "交差点" is an intersection where streets meet, crucial for navigation. Staff should indicate signals, turns, and nearby landmarks. Clear instructions prevent guests from taking wrong paths. It also helps in giving safe walking directions outside the hotel.
 
 *Example: 交差点を渡って左に曲がってください。* (Cross the intersection and turn left.)

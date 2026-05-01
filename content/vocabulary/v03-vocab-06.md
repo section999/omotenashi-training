@@ -4,8 +4,6 @@ section: 6
 title: スイートルーム (suite room)
 ---
 
-**スイートルーム** *(suīto rūmu)*
-
 A suite room is a high-end room with multiple areas, like a living space and bedroom. It often includes extra amenities and services. Staff must handle suite bookings politely and professionally.
 
 ---

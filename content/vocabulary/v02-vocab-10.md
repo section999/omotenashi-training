@@ -4,8 +4,6 @@ section: 10
 title: パスポート (passport)
 ---
 
-**パスポート** *(passport)*
-
 A passport is required for identity verification, especially for foreign guests. It is checked during check-in as part of legal requirements. Staff must request it politely. Handling personal documents carefully is very important.
 
 ---

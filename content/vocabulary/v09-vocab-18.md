@@ -4,8 +4,6 @@ section: 18
 title: 朝食付き (choushoku tsuki)
 ---
 
-**朝食付き** *(choushoku tsuki)*
-
 "朝食付き" shows the plan includes breakfast. Staff provide details about timing, menu, and location. Guests value this convenience for planning their day. Clear explanation prevents misunderstandings.
 
 *Example: このプランは朝食付きです。* (This plan includes breakfast.)

@@ -4,8 +4,6 @@ section: 15
 title: ツアー (tsuaa)
 ---
 
-## ツアー (つあー · tsuaa)
-
 **Meaning:** tour
 
 ツアー refers to a planned itinerary for sightseeing, often including transportation and guides. Tours make travel efficient and organised. Group or private tours cater to different preferences. A well-structured tour enhances learning and enjoyment.

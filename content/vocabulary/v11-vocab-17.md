@@ -4,8 +4,6 @@ section: 17
 title: 切断 (setsudan)
 ---
 
-**切断** *(setsudan)*
-
 "切断" means the line has been disconnected or cut off. Staff must quickly identify the cause. Proper handling ensures guests are not left without service. Immediate reconnection is essential for smooth communication.
 
 *Example: 通話中に切断されました。* (The call was disconnected.)

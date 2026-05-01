@@ -4,8 +4,6 @@ section: 36
 title: 非常口 (hijouguchi)
 ---
 
-**非常口** *(hijouguchi)*
-
 "非常口" indicates an emergency exit for safe evacuation. Staff must point it out during check-in or tours. It ensures guest safety during emergencies. Proper signage and verbal instructions are crucial.
 
 *Example: 非常口は奥の右側です。* (The emergency exit is at the back on the right.)

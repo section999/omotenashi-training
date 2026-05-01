@@ -4,8 +4,6 @@ section: 9
 title: 税関 (zeikan)
 ---
 
-## 税関 (ぜいかん · zeikan)
-
 **Meaning:** customs
 
 税関 refers to government authorities checking goods entering or leaving a country. Travelers declare items and pay duties as needed. Customs ensure safety, legal compliance, and prevent smuggling. Tourists must follow customs regulations to avoid fines.

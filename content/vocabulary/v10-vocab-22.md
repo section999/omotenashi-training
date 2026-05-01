@@ -4,8 +4,6 @@ section: 22
 title: 返金 (henkin)
 ---
 
-**返金** *(henkin)*
-
 "返金" means returning money to a guest after cancellation or overpayment. Staff must verify eligibility and process quickly. Clear explanation prevents complaints. Guests expect refunds to be timely and accurate.
 
 *Example: キャンセル料は返金されます。* (The cancellation fee will be refunded.)

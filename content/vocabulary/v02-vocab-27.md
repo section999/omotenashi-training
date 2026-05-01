@@ -4,8 +4,6 @@ section: 27
 title: カードキー (card key)
 ---
 
-**カードキー** *(kādo kī)*
-
 "カードキー" is an electronic key card used in modern hotels. It is more common than traditional keys. Guests use it to unlock doors and sometimes for elevators. Staff should explain its use if needed.
 
 ---

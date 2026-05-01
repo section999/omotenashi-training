@@ -4,8 +4,6 @@ section: 11
 title: 伝言 (dengon)
 ---
 
-**伝言** *(dengon)*
-
 "伝言" is leaving a verbal or written note for someone unavailable. Staff must record details accurately. Messages ensure that information is communicated even when direct contact is not possible. Proper handling prevents errors.
 
 *Example: 伝言をお預かりいたします。* (I will take a message.)

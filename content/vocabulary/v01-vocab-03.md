@@ -4,8 +4,6 @@ section: 3
 title: こんにちは (konnichiwa)
 ---
 
-**こんにちは** *(konnichiwa)*
-
 This is a standard greeting meaning "hello" or "good afternoon." It is polite and can be used with guests at any time during the daytime. In hotel settings, it sounds friendly yet professional. It is one of the most commonly used greetings in Japanese.
 
 ---

@@ -4,8 +4,6 @@ section: 1
 title: 掃除 (souji)
 ---
 
-**掃除** *(souji)*
-
 "掃除" means cleaning in general and refers to all activities to maintain room or hotel hygiene. It includes dusting, vacuuming, and sanitizing surfaces. Staff should follow hotel standards to ensure guest satisfaction and a safe environment.
 
 ---

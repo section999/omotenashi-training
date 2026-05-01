@@ -4,8 +4,6 @@ section: 40
 title: 確認番号 (kakunin bangou)
 ---
 
-**確認番号** *(kakunin bangou)*
-
 "確認番号" is a unique number verifying a reservation, payment, or booking. Staff use it to confirm details quickly. Guests provide it for check-in or inquiries. Accurate management prevents errors or miscommunication.
 
 *Example: 予約の確認番号を教えてください。* (Please tell me your reservation confirmation number.)

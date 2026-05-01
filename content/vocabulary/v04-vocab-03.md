@@ -4,8 +4,6 @@ section: 3
 title: 清掃済み (seisou zumi)
 ---
 
-**清掃済み** *(seisou zumi)*
-
 "清掃済み" means the room has been cleaned. It indicates that cleaning is finished and the room is ready for guest use. Staff may place a card or sign to mark the room as ready.
 
 ---

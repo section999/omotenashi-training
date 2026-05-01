@@ -4,8 +4,6 @@ section: 13
 title: 追加料金 (tsuika ryoukin)
 ---
 
-**追加料金** *(tsuika ryoukin)*
-
 "追加料金" refers to fees for extra services or amenities beyond the standard plan. Staff calculate these for extra beds, meals, or late check-outs. Transparent communication prevents disputes. Guests expect clear explanation of what triggers extra charges.
 
 *Example: 追加料金は1泊5000円です。* (The extra charge is 5000 yen per night.)

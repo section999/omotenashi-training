@@ -4,8 +4,6 @@ section: 14
 title: 掃除機 (soujiki)
 ---
 
-**掃除機** *(soujiki)*
-
 "掃除機" is the vacuum cleaner. Staff use it during room cleaning to maintain hygiene. Guests may rarely request it for special situations. Proper handling ensures safety and effectiveness.
 
 ---

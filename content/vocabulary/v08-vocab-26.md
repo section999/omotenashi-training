@@ -4,8 +4,6 @@ section: 26
 title: 秒 (byou)
 ---
 
-**秒** *(byou)*
-
 "秒" refers to seconds, often used in precise timing, such as elevator doors or train schedules. Staff should use it in combination with minutes for clarity. It ensures guests are aware of exact waiting or travel times.
 
 *Example: エレベーターのドアは5秒で閉まります。* (The elevator doors close in 5 seconds.)

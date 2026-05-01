@@ -4,8 +4,6 @@ section: 2
 title: スタッフ (sutaffu)
 ---
 
-## スタッフ (すたっふ · sutaffu)
-
 **Meaning:** staff
 
 スタッフ refers to personnel who support operations in various roles, such as service, administration, or management. Staff work collectively to ensure organisational goals are met. The term is widely used in hospitality, events, and service industries. Coordination among staff improves efficiency and guest satisfaction.

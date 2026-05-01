@@ -4,8 +4,6 @@ section: 29
 title: 通訳 (tsuuyaku)
 ---
 
-**通訳** *(tsuuyaku)*
-
 "通訳" is orally translating between languages. Staff must provide accurate interpretation when assisting foreign guests. Proper interpretation ensures smooth communication and prevents misunderstandings.
 
 *Example: 会議で通訳を依頼しました。* (We requested an interpreter for the meeting.)

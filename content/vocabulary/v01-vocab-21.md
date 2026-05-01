@@ -4,8 +4,6 @@ section: 21
 title: ご理解ください (go-rikai kudasai)
 ---
 
-**ご理解ください** *(go-rikai kudasai)*
-
 This phrase means "please understand" and is used when asking for the customer's patience or acceptance of a situation. It is commonly used when there is an inconvenience, rule, or limitation that cannot be changed. The phrase sounds polite but can feel firm, so it is often softened with an apology. In hospitality, it helps maintain professionalism while explaining difficult situations.
 
 ---

@@ -4,8 +4,6 @@ section: 16
 title: 管理番号 (kanri bangou)
 ---
 
-## 管理番号 (かんりばんごう · kanri bangou)
-
 **Meaning:** tracking number
 
 管理番号 is a unique code used to track items, luggage, or shipments. It ensures accurate delivery and pickup. Hotels or couriers assign 管理番号 for organisational control.

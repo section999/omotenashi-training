@@ -4,8 +4,6 @@ section: 24
 title: 手数料 (tesuuryou)
 ---
 
-**手数料** *(tesuuryou)*
-
 "手数料" is an additional charge for processing a service or payment. Staff must inform guests beforehand. Clear explanation prevents complaints about extra costs. Proper documentation ensures transparency.
 
 *Example: 銀行振込には手数料がかかります。* (Bank transfers incur a fee.)

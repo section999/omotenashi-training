@@ -4,8 +4,6 @@ section: 29
 title: アメニティ (amenity)
 ---
 
-**アメニティ** *(ameniti)*
-
 "アメニティ" refers to in-room items provided for guest convenience, such as shampoo, soap, or slippers. Staff must explain availability and replenish items as needed. Proper explanation enhances guest comfort.
 
 ---

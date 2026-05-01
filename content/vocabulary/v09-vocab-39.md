@@ -4,8 +4,6 @@ section: 39
 title: 締切 (shimekiri)
 ---
 
-**締切** *(shimekiri)*
-
 "締切" is the last date or time for an action, such as booking, payment, or submission. Staff enforce deadlines to ensure proper scheduling. Guests must be informed to avoid missed opportunities or penalties. Clarity about cutoff times improves operational efficiency.
 
 *Example: キャンセルの締切は明日です。* (The cancellation deadline is tomorrow.)

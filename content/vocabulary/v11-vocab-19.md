@@ -4,8 +4,6 @@ section: 19
 title: 確認いたします (kakunin itashimasu)
 ---
 
-**確認いたします** *(kakunin itashimasu)*
-
 "確認いたします" is used to politely assure a guest that the staff will verify information. It conveys professionalism and attentiveness. Staff must follow up promptly after checking. Clear communication prevents misunderstandings.
 
 *Example: 担当者に確認いたします。* (I will check with the person in charge.)

@@ -4,8 +4,6 @@ section: 2
 title: 観光客 (kankoukyaku)
 ---
 
-## 観光客 (かんこうきゃく · kankoukyaku)
-
 **Meaning:** tourist
 
 観光客 is a visitor traveling for leisure, sightseeing, or cultural experiences. Tourists contribute to local economies and require guidance and safety information. Proper signage and services improve their travel experience. Understanding tourist behaviour helps improve tourism services.

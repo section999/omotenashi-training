@@ -4,8 +4,6 @@ section: 12
 title: 幼児 (youji)
 ---
 
-**幼児** *(youji)*
-
 "幼児" means infants or toddlers. Hotels provide cribs, baby amenities, and safety measures. Policies often differ from older children, and infants may stay free. Clear communication prevents misunderstandings with parents.
 
 *Example: 幼児は無料で宿泊できます。* (Infants can stay for free.)

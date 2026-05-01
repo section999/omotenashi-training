@@ -4,8 +4,6 @@ section: 1
 title: 外国人 (gaikokujin)
 ---
 
-## 外国人 (がいこくじん · gaikokujin)
-
 **Meaning:** foreigner
 
 外国人 refers to a person from another country. In tourism and service industries, interacting with foreigners requires cultural awareness and language skills. Understanding their needs ensures smooth communication and satisfaction. Hospitality for foreigners promotes a welcoming environment.

@@ -4,8 +4,6 @@ section: 11
 title: 名所 (meisho)
 ---
 
-## 名所 (めいしょ · meisho)
-
 **Meaning:** famous place
 
 名所 refers to well-known locations, often historical or cultural. Famous places attract both domestic and international tourists. Knowledge of 名所 enhances sightseeing experiences. Local guides often highlight these places for educational purposes.

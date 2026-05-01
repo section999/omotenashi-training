@@ -4,8 +4,6 @@ section: 35
 title: QRコード (kyuu aru koodo)
 ---
 
-**QRコード** *(kyuu aru koodo)*
-
 "QRコード" is used for scanning and processing payments quickly. Staff should guide guests on scanning correctly. Guests enjoy contactless and fast payment options. Accuracy prevents failed transactions.
 
 *Example: こちらのQRコードでお支払いください。* (Please pay using this QR code.)

@@ -4,8 +4,6 @@ section: 28
 title: 案内 (annai)
 ---
 
-**案内** *(annai)*
-
 "案内" means guidance or showing someone around. It is commonly used when escorting guests or explaining facilities. It is usually paired with polite verbs. It reflects attentive service.
 
 ---

@@ -4,8 +4,6 @@ section: 6
 title: 警報 (keihou)
 ---
 
-## 警報 (けいほう · keihou)
-
 **Meaning:** alarm
 
 警報 is a signal alerting people to imminent danger such as fire, earthquake, or gas leak. It can be auditory, visual, or both. Staff must respond immediately upon hearing a warning. Regular testing ensures alarms function properly during emergencies.

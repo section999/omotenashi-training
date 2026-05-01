@@ -4,8 +4,6 @@ section: 25
 title: 立入禁止 (tachiiri kinshi)
 ---
 
-## 立入禁止 (たちいりきんし · tachiiri kinshi)
-
 **Meaning:** no entry
 
 立入禁止 restricts access to areas that are hazardous, under maintenance, or restricted for security. Staff must place visible signs and inform guests to prevent accidents. Compliance with no-entry rules protects guests and staff. Monitoring and enforcement are key responsibilities.

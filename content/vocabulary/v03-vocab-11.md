@@ -4,8 +4,6 @@ section: 11
 title: 毛布 (moufu)
 ---
 
-**毛布** *(mōfu)*
-
 "毛布" means blanket. Some guests request extra blankets, especially in cold seasons. Staff should confirm politely and provide promptly.
 
 ---

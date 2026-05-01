@@ -4,8 +4,6 @@ section: 33
 title: バウチャー (bauchaa)
 ---
 
-**バウチャー** *(bauchaa)*
-
 "バウチャー" is proof of prepayment or entitlement to a service. Staff must confirm details and validity. Guests use vouchers for booking hotels, meals, or services. Proper verification ensures correct usage.
 
 *Example: バウチャーを受付でご提示ください。* (Please present the voucher at reception.)

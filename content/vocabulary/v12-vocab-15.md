@@ -4,8 +4,6 @@ section: 15
 title: 応急処置 (oukyuu shochi)
 ---
 
-## 応急処置 (おうきゅうしょち · oukyuu shochi)
-
 **Meaning:** first aid
 
 応急処置 refers to immediate, temporary care given to injured or sick individuals before professional medical help arrives. Staff must know basic first aid procedures like CPR, wound dressing, or bandaging. Quick response stabilises the patient and prevents worsening conditions. Training and certification are essential for hotel safety staff.

@@ -4,8 +4,6 @@ section: 25
 title: 料金表 (ryoukinhyou)
 ---
 
-## 料金表 (りょうきんひょう · ryoukinhyou)
-
 **Meaning:** price list
 
 料金表 displays fares or costs for transportation, services, or attractions. Clear price lists help tourists budget and avoid confusion. Price lists may be posted physically or digitally. Understanding fare structures ensures transparency and fairness.

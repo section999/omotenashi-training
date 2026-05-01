@@ -4,8 +4,6 @@ section: 5
 title: シフト (shifuto)
 ---
 
-## シフト (しふと · shifuto)
-
 **Meaning:** shift
 
 シフト refers to assigned working hours or schedules for employees. Shifts allow businesses to operate continuously or according to demand. Proper shift management ensures adequate staffing and prevents overwork. Employees must follow their shifts to maintain operational efficiency.

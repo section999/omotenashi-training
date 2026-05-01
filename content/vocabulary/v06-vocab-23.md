@@ -4,8 +4,6 @@ section: 23
 title: 対応 (taiou)
 ---
 
-**対応** *(taiou)*
-
 "対応" means handling or responding to a situation. It is widely used in customer service. Staff must respond politely and efficiently. Good 対応 builds trust.
 
 ---

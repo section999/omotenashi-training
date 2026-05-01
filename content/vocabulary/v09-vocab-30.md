@@ -4,8 +4,6 @@ section: 30
 title: 早割 (hayawari)
 ---
 
-**早割** *(hayawari)*
-
 "早割" is a discount for guests who book early. Staff apply it automatically if the booking meets the conditions. It incentivizes early reservations and helps forecast occupancy. Guests benefit from lower rates, and hotels secure early bookings.
 
 *Example: 早割で宿泊料金が10％引きです。* (You get a 10% early bird discount.)

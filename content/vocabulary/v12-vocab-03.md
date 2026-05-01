@@ -4,8 +4,6 @@ section: 3
 title: 地震 (jishin)
 ---
 
-## 地震 (じしん · jishin)
-
 **Meaning:** earthquake
 
 地震 is a natural disaster caused by the sudden movement of tectonic plates, leading to ground shaking. Staff should know safe zones, evacuation routes, and secure heavy objects in advance. Prompt response reduces injury and panic. Emergency kits and guest guidance are essential during earthquakes.

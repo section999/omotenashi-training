@@ -4,8 +4,6 @@ section: 15
 title: Wi-Fi (waifai)
 ---
 
-**Wi-Fi** *(waifai)*
-
 "Wi-Fi" is a wireless internet service provided in hotels. Guests often rely on it for communication and work. Staff should explain access clearly. Stable connection is important for satisfaction.
 
 ---

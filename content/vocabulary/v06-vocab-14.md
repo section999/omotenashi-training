@@ -4,8 +4,6 @@ section: 14
 title: 停電 (teiden)
 ---
 
-**停電** *(teiden)*
-
 "停電" refers to a power outage affecting electricity supply. It may disrupt lighting and appliances. Staff should inform guests and provide updates. Emergency procedures must be followed.
 
 ---

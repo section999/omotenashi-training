@@ -4,8 +4,6 @@ section: 18
 title: クレジットカード (credit card)
 ---
 
-**クレジットカード** *(kurejitto kādo)*
-
 "クレジットカード" is a very common payment method in hotels. It is often required at check-in for deposits or guarantees. Staff should request it politely and clearly. Professional tone is essential.
 
 ---

@@ -4,8 +4,6 @@ section: 16
 title: 出口 (deguchi)
 ---
 
-**出口** *(deguchi)*
-
 "出口" indicates an exit, often for leaving buildings or rooms. Staff should point out emergency and main exits. Clear directions prevent congestion or accidents during emergencies. Proper signage is essential for guest safety.
 
 *Example: 非常口の出口は右側です。* (The emergency exit is on the right.)

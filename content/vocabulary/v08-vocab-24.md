@@ -4,8 +4,6 @@ section: 24
 title: 約 (yaku)
 ---
 
-**約** *(yaku)*
-
 "約" is used to indicate an approximate number or time. Staff combine it with distances, times, or quantities. It gives guests a realistic expectation without overpromising. Accuracy enhances trust.
 
 *Example: 駅まで徒歩約10分です。* (It's approximately a 10-minute walk to the station.)

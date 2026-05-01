@@ -4,8 +4,6 @@ section: 19
 title: 相談 (soudan)
 ---
 
-## 相談 (そうだん · soudan)
-
 **Meaning:** consultation
 
 相談 is seeking advice or discussing problems with colleagues or supervisors. Proper consultation can prevent mistakes and help in decision-making. Encouraging open communication promotes team cohesion. Confidentiality and respect are key during consultations.

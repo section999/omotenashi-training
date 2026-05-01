@@ -4,8 +4,6 @@ section: 1
 title: 客室 (kyakushitsu)
 ---
 
-**客室** *(kyakushitsu)*
-
 "客室" means guest room in a hotel and refers to any room designated for guests. It is more formal than "部屋" and is often used in brochures, signage, or official hotel communication. Staff use it when describing room types or locations.
 
 ---

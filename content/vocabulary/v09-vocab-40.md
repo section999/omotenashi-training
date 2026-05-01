@@ -4,8 +4,6 @@ section: 40
 title: 手配 (tehai)
 ---
 
-**手配** *(tehai)*
-
 "手配" refers to organizing or arranging services, such as airport transfers, special requests, or room preparations. Staff must ensure all arrangements are clear, timely, and accurate. Proper arrangements improve guest satisfaction and operational efficiency. Communication with the guest is key to successful handling.
 
 *Example: 空港送迎を手配いたします。* (We will arrange the airport transfer.)

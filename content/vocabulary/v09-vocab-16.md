@@ -4,8 +4,6 @@ section: 16
 title: プラン (puran)
 ---
 
-**プラン** *(puran)*
-
 "プラン" describes a booking package, including room type, meals, and perks. Staff explain options so guests can choose according to preferences. Understanding the plan avoids misunderstandings about meals or services included. Clear explanation helps manage expectations.
 
 *Example: このプランは素泊まりです。* (This plan is room-only.)

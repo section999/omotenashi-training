@@ -4,8 +4,6 @@ section: 19
 title: 通報 (tsuuhou)
 ---
 
-## 通報 (つうほう · tsuuhou)
-
 **Meaning:** report (to authorities)
 
 通報 refers to notifying the proper authorities about an emergency, crime, or accident. Timely reporting enables quick intervention and resolution. Staff must know how to contact police, fire, or medical services. Clear, concise communication ensures effective response.

@@ -4,8 +4,6 @@ section: 25
 title: 確認作業 (kakunin sagyou)
 ---
 
-## 確認作業 (かくにんさぎょう · kakunin sagyou)
-
 **Meaning:** checking work
 
 確認作業 is the process of reviewing tasks to ensure accuracy and quality. Checking work prevents errors and maintains standards. It is essential in operational, administrative, and service settings. Proper documentation ensures accountability.

@@ -4,8 +4,6 @@ section: 18
 title: 電車 (densha)
 ---
 
-## 電車 (でんしゃ · densha)
-
 **Meaning:** train
 
 電車 is a rail-based transportation system, commonly used in urban and intercity travel. Trains are punctual, efficient, and widely used in Japan. Tourists must understand routes, tickets, and etiquette. Trains reduce traffic congestion and provide eco-friendly travel.

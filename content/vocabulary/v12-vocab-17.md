@@ -4,8 +4,6 @@ section: 17
 title: 病院 (byouin)
 ---
 
-## 病院 (びょういん · byouin)
-
 **Meaning:** hospital
 
 病院 is a medical facility where professional care is provided for illness or injury. Staff must know the nearest hospital and transportation options for guests. Quick access saves lives during emergencies. Clear directions and coordination with medical services are critical.

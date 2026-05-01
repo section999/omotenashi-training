@@ -4,8 +4,6 @@ section: 38
 title: 聞き取れません (kikitorimasen)
 ---
 
-**聞き取れません** *(kikitorimasen)*
-
 "聞き取れません" is used when staff cannot hear or understand a caller. Essential to request repetition politely. Prevents mistakes and ensures accurate communication. Staff must maintain professionalism.
 
 *Example: すみません、聞き取れませんでした。* (Sorry, I couldn't hear you.)

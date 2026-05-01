@@ -4,8 +4,6 @@ section: 6
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**少々お待ちください** *(shoushou omachi kudasai)*
-
 This phrase is used when a caller must wait briefly. Staff must remain polite and professional. Proper use avoids frustration and maintains a good impression. It is essential for smooth communication.
 
 *Example: 少々お待ちください、担当者に確認いたします。* (Please wait a moment; I will check with the person in charge.)

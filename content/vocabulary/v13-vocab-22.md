@@ -4,8 +4,6 @@ section: 22
 title: 担当 (tantou)
 ---
 
-## 担当 (たんとう · tantou)
-
 **Meaning:** person in charge
 
 担当 is the individual responsible for a particular task or area. Being in charge includes decision-making, coordination, and accountability. Clear assignment prevents confusion and overlaps. Employees should report to their designated担当 for guidance.

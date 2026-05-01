@@ -4,8 +4,6 @@ section: 30
 title: サービス料 (saabisu ryou)
 ---
 
-**サービス料** *(saabisu ryou)*
-
 "サービス料" is an extra fee for service, often for restaurants or hotels. Staff must disclose rates in advance. Guests should understand it is separate from taxes. Transparent service charges prevent complaints.
 
 *Example: サービス料は10%です。* (The service charge is 10%.)

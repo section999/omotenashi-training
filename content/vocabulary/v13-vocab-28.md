@@ -4,8 +4,6 @@ section: 28
 title: 効率 (kouritsu)
 ---
 
-## 効率 (こうりつ · kouritsu)
-
 **Meaning:** efficiency
 
 効率 refers to performing tasks using minimal time and resources while achieving desired results. High efficiency increases productivity and reduces waste. Employees and managers should analyse workflows to improve efficiency. It is a key measure of operational success.

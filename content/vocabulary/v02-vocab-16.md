@@ -4,8 +4,6 @@ section: 16
 title: 支払い (shiharai)
 ---
 
-**支払い** *(shiharai)*
-
 "支払い" means payment and refers to the act of settling charges for the stay. In hotels, payment is usually done at check-out, but sometimes at check-in depending on policy. Staff must clearly explain timing and methods. It is important to sound polite and not too direct when requesting payment.
 
 ---

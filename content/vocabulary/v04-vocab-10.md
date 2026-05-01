@@ -4,8 +4,6 @@ section: 10
 title: シャンプー (shanpuu)
 ---
 
-**シャンプー** *(shanpuu)*
-
 "シャンプー" is shampoo provided in guest bathrooms. Staff must ensure sufficient supply and check for guest needs. Proper handling ensures guest comfort and cleanliness.
 
 ---

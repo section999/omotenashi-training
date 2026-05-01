@@ -4,8 +4,6 @@ section: 9
 title: かしこまりました (kashikomarimashita)
 ---
 
-**かしこまりました** *(kashikomarimashita)*
-
 This is a very polite way to say "certainly" or "understood." It is used when responding to a customer's request. Compared to "wakarimashita," it is more formal and appropriate in service industries. It shows respect and readiness to assist.
 
 ---

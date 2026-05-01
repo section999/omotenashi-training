@@ -4,8 +4,6 @@ section: 8
 title: 担当部署 (tantou busho)
 ---
 
-**担当部署** *(tantou busho)*
-
 "担当部署" indicates the department responsible for a matter. Staff need to direct calls correctly to avoid confusion. Guests may be transferred or referred for specialized assistance. Proper routing improves service efficiency.
 
 *Example: この件は担当部署に確認します。* (We will check with the department in charge regarding this matter.)

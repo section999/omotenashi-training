@@ -4,8 +4,6 @@ section: 4
 title: 同僚 (douryou)
 ---
 
-## 同僚 (どうりょう · douryou)
-
 **Meaning:** colleague
 
 同僚 refers to coworkers who work together on similar tasks or in the same department. Positive relationships among colleagues improve collaboration and morale. Sharing knowledge and supporting one another is essential for team efficiency. Mutual respect ensures a productive and harmonious workplace.

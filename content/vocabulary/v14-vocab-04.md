@@ -4,8 +4,6 @@ section: 4
 title: ビザ (biza)
 ---
 
-## ビザ (びざ · biza)
-
 **Meaning:** visa
 
 ビザ is an official document allowing entry to a foreign country. Different countries have different visa requirements and durations. Tourists, students, and workers must obtain appropriate visas. Checking visas ensures legal travel and avoids penalties.

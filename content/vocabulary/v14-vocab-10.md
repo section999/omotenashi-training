@@ -4,8 +4,6 @@ section: 10
 title: 観光地 (kankouchi)
 ---
 
-## 観光地 (かんこうち · kankouchi)
-
 **Meaning:** tourist spot
 
 観光地 is a place of interest for visitors, such as landmarks, parks, or cultural sites. Tourist spots attract people and generate local revenue. Clear signs, guides, and accessibility improve the tourist experience. Planning visits helps avoid crowded times.

@@ -4,8 +4,6 @@ section: 33
 title: 外国語 (gaikokugo)
 ---
 
-**外国語** *(gaikokugo)*
-
 "外国語" refers to any non-Japanese language. Staff may need knowledge or translation to assist guests. Proper handling ensures inclusivity and satisfaction. Essential in international hotels.
 
 *Example: 外国語での案内も可能です。* (We can provide guidance in foreign languages.)

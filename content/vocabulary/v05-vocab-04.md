@@ -4,8 +4,6 @@ section: 4
 title: 夕食 (yuushoku)
 ---
 
-**夕食** *(yuushoku)*
-
 "夕食" means dinner, typically the main meal of the day. Hotel dinner service may include multiple courses or special menus.
 
 Staff should explain reservation requirements and dining hours clearly.

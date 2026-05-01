@@ -4,8 +4,6 @@ section: 15
 title: シャワー (shower)
 ---
 
-**シャワー** *(shawā)*
-
 "シャワー" refers to a shower facility in the room. Staff may explain its use, especially for foreign guests. It is essential for comfort.
 
 ---

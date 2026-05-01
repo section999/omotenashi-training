@@ -4,8 +4,6 @@ section: 24
 title: 管理 (kanri)
 ---
 
-## 管理 (かんり · kanri)
-
 **Meaning:** management
 
 管理 refers to overseeing, organising, and controlling tasks, people, or resources. Effective management ensures goals are met efficiently and safely. Managers must monitor performance, provide guidance, and solve problems. Good management maintains productivity and workplace harmony.

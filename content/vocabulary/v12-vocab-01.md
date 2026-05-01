@@ -4,8 +4,6 @@ section: 1
 title: 緊急 (kinkyuu)
 ---
 
-## 緊急 (きんきゅう · kinkyuu)
-
 **Meaning:** emergency
 
 緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency. It applies to both natural disasters and human-made incidents. Staff must recognise emergencies quickly to protect guests and property. Clear communication and following established emergency protocols are essential to prevent harm.

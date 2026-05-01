@@ -4,8 +4,6 @@ section: 22
 title: 時刻表 (jikokuhyou)
 ---
 
-## 時刻表 (じこくひょう · jikokuhyou)
-
 **Meaning:** timetable
 
 時刻表 lists the schedule of transportation services. Tourists use timetables to plan trips efficiently. Accurate knowledge of schedules prevents missed connections. Timetables are available digitally or physically at stations.

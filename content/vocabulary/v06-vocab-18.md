@@ -4,8 +4,6 @@ section: 18
 title: 利用 (riyou)
 ---
 
-**利用** *(riyou)*
-
 "利用" means usage or use of services and facilities. It is commonly used in polite service language. Staff should explain how guests can use services. Clear guidance avoids confusion.
 
 ---

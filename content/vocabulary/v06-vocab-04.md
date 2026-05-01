@@ -4,8 +4,6 @@ section: 4
 title: クレーム (kuremu)
 ---
 
-**クレーム** *(kuremu)*
-
 "クレーム" is similar to "苦情" but often implies a stronger or more formal complaint. It may require escalation or managerial involvement. Staff should remain professional and avoid defensive responses. Proper documentation is also important for follow-up.
 
 ---

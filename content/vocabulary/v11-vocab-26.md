@@ -4,8 +4,6 @@ section: 26
 title: 保留 (horyuu)
 ---
 
-**保留** *(horyuu)*
-
 "保留" is placing a caller temporarily on hold. Staff must inform the guest politely. It allows time to check information or connect to the right person. Proper use avoids frustration.
 
 *Example: 少々保留にさせていただきます。* (I will put you on hold for a moment.)

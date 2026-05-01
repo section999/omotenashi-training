@@ -4,8 +4,6 @@ section: 5
 title: 消火器 (shoukaki)
 ---
 
-## 消火器 (しょうかき · shoukaki)
-
 **Meaning:** fire extinguisher
 
 消火器 is a device used to suppress or extinguish small fires. Staff must be trained to operate it correctly and know its location. Timely use can prevent a fire from spreading and causing major damage. Routine checks ensure the extinguisher is functional and accessible.

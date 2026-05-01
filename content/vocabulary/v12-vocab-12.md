@@ -4,8 +4,6 @@ section: 12
 title: 事故 (jiko)
 ---
 
-## 事故 (じこ · jiko)
-
 **Meaning:** accident
 
 事故 refers to an unplanned event resulting in injury, damage, or disruption. Staff must report accidents promptly and assist affected guests. Preventive measures and adherence to safety rules reduce accident occurrence. Documentation ensures accountability and future safety improvements.

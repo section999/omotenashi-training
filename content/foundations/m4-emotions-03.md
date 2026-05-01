@@ -4,8 +4,6 @@ section: 3
 title: Interpreting Silence & Indirect Communication
 ---
 
-## Interpreting Silence & Indirect Communication
-
 In many Western cultures, silence in conversation is uncomfortable — something to be filled. In Japan, silence carries meaning and deserves respect. Misreading silence is one of the most common errors foreign hospitality staff make.
 
 ### The Meaning of Silence

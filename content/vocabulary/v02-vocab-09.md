@@ -4,8 +4,6 @@ section: 9
 title: お名前 (onamae)
 ---
 
-**お名前** *(onamae)*
-
 "お名前" is the polite form of "name." The prefix "お" adds respect and is essential in customer interactions. It is used when confirming reservations or registering guests. Politeness is key when asking personal information.
 
 ---

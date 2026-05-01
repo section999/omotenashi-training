@@ -4,8 +4,6 @@ section: 22
 title: 期限 (kigen)
 ---
 
-**期限** *(kigen)*
-
 "期限" refers to the final date or time by which an action must be completed, such as payment, cancellation, or booking confirmation. Staff monitor deadlines to ensure bookings and charges are managed properly. Informing guests about deadlines avoids confusion and potential complaints. Accurate tracking improves hotel operations.
 
 *Example: 予約の変更期限は明日までです。* (The deadline to change your reservation is tomorrow.)

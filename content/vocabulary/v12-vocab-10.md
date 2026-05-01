@@ -4,8 +4,6 @@ section: 10
 title: 安全 (anzen)
 ---
 
-## 安全 (あんぜん · anzen)
-
 **Meaning:** safety
 
 安全 means being free from harm, danger, or risk. Staff must ensure that the environment, equipment, and procedures protect guests and employees. Regular inspections and safety checks prevent accidents. Promoting a safety-first culture improves overall trust and security.

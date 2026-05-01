@@ -4,8 +4,6 @@ section: 10
 title: はい / いいえ (hai / iie)
 ---
 
-**はい / いいえ** *(hai / iie)*
-
 These mean "yes" and "no." While simple, they are essential in communication with guests. In polite settings, tone and context matter greatly. Staff often combine them with more formal phrases to sound more professional.
 
 ---

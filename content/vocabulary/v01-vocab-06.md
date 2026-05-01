@@ -4,8 +4,6 @@ section: 6
 title: 申し訳ございません (moushiwake gozaimasen)
 ---
 
-**申し訳ございません** *(moushiwake gozaimasen)*
-
 This is a very formal and strong apology used in professional settings. It expresses deep regret and responsibility for inconvenience caused to the customer. It is more polite than "sumimasen" and is often used in hotels. It shows sincerity and respect.
 
 ---

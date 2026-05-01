@@ -4,8 +4,6 @@ section: 19
 title: 残高 (zandaka)
 ---
 
-**残高** *(zandaka)*
-
 "残高" refers to the remaining balance after payment or withdrawal. Staff must update balances accurately for accounts or prepaid services. Guests rely on balance information to plan further payments. Accuracy avoids disputes.
 
 *Example: 口座の残高はいくらですか。* (What is the account balance?)

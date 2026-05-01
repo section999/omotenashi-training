@@ -4,8 +4,6 @@ section: 23
 title: 変更可能 (henkou kanou)
 ---
 
-**変更可能** *(henkou kanou)*
-
 "変更可能" indicates that a reservation can be modified, such as adjusting dates, room type, or number of guests. Staff must communicate which elements are changeable and any conditions or deadlines. This helps prevent misunderstandings and ensures guest satisfaction. Clear instructions save time for both staff and guests.
 
 *Example: 予約内容は変更可能です。* (Your reservation can be changed.)

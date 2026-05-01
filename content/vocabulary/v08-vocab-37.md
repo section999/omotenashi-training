@@ -4,8 +4,6 @@ section: 37
 title: 避難経路 (hinan keiro)
 ---
 
-**避難経路** *(hinan keiro)*
-
 "避難経路" shows the path to evacuate safely. Staff explain it during check-in or tours. It is critical for fire safety and disaster preparedness. Clear marking and instruction prevent confusion.
 
 *Example: 避難経路は廊下の右側です。* (The evacuation route is along the right side of the corridor.)

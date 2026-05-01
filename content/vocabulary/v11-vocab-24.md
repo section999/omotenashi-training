@@ -4,8 +4,6 @@ section: 24
 title: 緊急連絡先 (kinkyuu renrakusaki)
 ---
 
-**緊急連絡先** *(kinkyuu renrakusaki)*
-
 "緊急連絡先" refers to a number used in urgent situations. Staff must ensure it is accurate and accessible. Guests rely on it during emergencies. Correct handling can prevent serious problems.
 
 *Example: 緊急連絡先を教えてください。* (Please provide an emergency contact.)

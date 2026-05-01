@@ -4,8 +4,6 @@ section: 9
 title: 荷物 (nimotsu)
 ---
 
-## 荷物 (にもつ · nimotsu)
-
 **Meaning:** luggage
 
 荷物 refers to personal items or suitcases carried during travel. Proper handling of 荷物 ensures safety and convenience. Hotels and airports provide services for 荷物 management. Accurate labelling and care prevent loss or damage.

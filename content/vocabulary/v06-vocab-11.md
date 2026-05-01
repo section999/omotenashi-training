@@ -4,8 +4,6 @@ section: 11
 title: 寒い (samui)
 ---
 
-**寒い** *(samui)*
-
 "寒い" means cold and indicates discomfort due to low temperature. Staff should check heating systems or provide blankets. Prompt action ensures guest comfort. Proper response shows attentiveness.
 
 ---

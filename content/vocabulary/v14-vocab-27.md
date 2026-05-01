@@ -4,8 +4,6 @@ section: 27
 title: 文化 (bunka)
 ---
 
-## 文化 (ぶんか · bunka)
-
 **Meaning:** culture
 
 文化 refers to a country or region's traditions, art, and social practices. Tourists often experience local culture through food, festivals, and customs. Understanding culture promotes respect and enjoyable interactions. Cultural knowledge enhances travel experiences.

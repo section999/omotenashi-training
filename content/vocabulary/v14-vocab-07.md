@@ -4,8 +4,6 @@ section: 7
 title: 通貨 (tsuuka)
 ---
 
-## 通貨 (つうか · tsuuka)
-
 **Meaning:** currency
 
 通貨 refers to money used in a country. Tourists must be aware of local currency for payments. Knowledge of exchange rates is important for budgeting. Currency handling impacts travel convenience and financial safety.

@@ -4,8 +4,6 @@ section: 8
 title: 補充 (hojuu)
 ---
 
-**補充** *(hojuu)*
-
 "補充" means replenishment of supplies like toiletries or minibar items. Staff should check inventory and replace items as needed. Proper replenishment improves guest satisfaction and hotel reputation.
 
 ---

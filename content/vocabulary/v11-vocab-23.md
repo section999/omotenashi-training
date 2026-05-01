@@ -4,8 +4,6 @@ section: 23
 title: ご連絡 (go-renraku)
 ---
 
-**ご連絡** *(go-renraku)*
-
 "ご連絡" refers to communication with staff or departments. It is used for updating information or responding to requests. Polite phrasing ensures professional communication. Guests feel assured when staff provide timely contact.
 
 *Example: ご連絡をお待ちしております。* (We look forward to your contact.)

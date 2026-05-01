@@ -4,8 +4,6 @@ section: 9
 title: うるさい (urusai)
 ---
 
-**うるさい** *(urusai)*
-
 "うるさい" means noisy and is often used by guests to describe discomfort caused by sound. Staff should respond politely and take action. Avoid repeating the word directly and instead use formal expressions. This ensures professionalism.
 
 ---

@@ -4,8 +4,6 @@ section: 24
 title: 確認します (kakunin shimasu)
 ---
 
-**確認します** *(kakunin shimasu)*
-
 "確認します" means "I will check." It is used when staff need to verify information or conditions. It reassures guests that action is being taken. Follow-up is important.
 
 ---

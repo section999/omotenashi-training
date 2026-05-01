@@ -4,8 +4,6 @@ section: 21
 title: 無料キャンセル (muryou kyanseru)
 ---
 
-**無料キャンセル** *(muryou kyanseru)*
-
 "無料キャンセル" allows guests to cancel their booking without paying any fees. Hotels often set deadlines for free cancellations. Staff must explain conditions clearly to avoid misunderstandings. Guests appreciate flexibility and transparency when making plans.
 
 *Example: このプランは無料キャンセルが可能です。* (This plan allows free cancellation.)

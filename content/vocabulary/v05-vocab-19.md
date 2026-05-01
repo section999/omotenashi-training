@@ -4,8 +4,6 @@ section: 19
 title: ナイフ (naifu)
 ---
 
-**ナイフ** *(naifu)*
-
 "ナイフ" is a knife used for cutting food. Proper table setting includes placing it correctly.
 
 Staff should provide it when needed and ensure cleanliness.

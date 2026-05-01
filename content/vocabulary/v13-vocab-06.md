@@ -4,8 +4,6 @@ section: 6
 title: 勤務 (kinmu)
 ---
 
-## 勤務 (きんむ · kinmu)
-
 **Meaning:** duty / work
 
 勤務 refers to the period or act of performing assigned work duties. Employees must complete their responsibilities according to company standards. Clear understanding of duties improves productivity and prevents misunderstandings. Monitoring work performance helps ensure compliance and quality.

@@ -4,8 +4,6 @@ section: 16
 title: 浴室 (yokushitsu)
 ---
 
-**浴室** *(yokushitsu)*
-
 "浴室" means bathroom and refers to the room where guests can take a bath or shower. It is used in formal communication, hotel brochures, and guidance. Staff may explain bathroom amenities or safety features. Clear explanation enhances guest satisfaction.
 
 ---

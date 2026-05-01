@@ -4,8 +4,6 @@ section: 29
 title: 上 (ue)
 ---
 
-**上** *(ue)*
-
 "上" indicates a higher position, such as floors or shelves. Staff combine it with elevators, stairs, or floors. Guests use it to locate rooms or amenities above. Accurate directions enhance guest satisfaction.
 
 *Example: 会議室は二階の上です。* (The conference room is upstairs on the second floor.)

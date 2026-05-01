@@ -4,8 +4,6 @@ section: 4
 title: 予約 (yoyaku)
 ---
 
-**予約** *(yoyaku)*
-
 "予約" means reservation and is central to hotel operations. Guests typically book rooms in advance, and staff must confirm these details accurately. It is often used together with polite questions. Miscommunication here can cause major issues.
 
 ---

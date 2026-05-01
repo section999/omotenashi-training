@@ -4,8 +4,6 @@ section: 7
 title: 禁煙 (kin'en)
 ---
 
-**禁煙** *(kin'en)*
-
 "禁煙" means non-smoking. Hotels clearly label non-smoking rooms for guest comfort. Staff must confirm this preference during booking or check-in.
 
 ---

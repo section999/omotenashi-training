@@ -4,8 +4,6 @@ section: 20
 title: またお越しくださいませ (mata okoshi kudasaimase)
 ---
 
-**またお越しくださいませ** *(mata okoshi kudasaimase)*
-
 This phrase means "please come again." It is very polite and commonly used when guests leave. It expresses gratitude and encourages repeat visits. It is essential in customer service etiquette.
 
 ---

@@ -4,8 +4,6 @@ section: 5
 title: 後払い (atobarai)
 ---
 
-**後払い** *(atobarai)*
-
 "後払い" is paying after the service has been provided. Staff must verify payment methods and ensure validity. This method suits corporate accounts or VIP guests who settle later. Clear explanation prevents payment delays or confusion.
 
 *Example: お食事代は後払いで承ります。* (The meal can be paid afterward.)

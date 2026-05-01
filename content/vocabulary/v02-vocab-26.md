@@ -4,8 +4,6 @@ section: 26
 title: ルームキー (room key)
 ---
 
-**ルームキー** *(rūmu kī)*
-
 "ルームキー" refers specifically to the key for a guest's room. It is usually given at check-in. Staff often combine it with polite expressions when handing it over. It is essential for access.
 
 ---

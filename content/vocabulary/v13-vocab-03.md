@@ -4,8 +4,6 @@ section: 3
 title: 上司 (joushi)
 ---
 
-## 上司 (じょうし · joushi)
-
 **Meaning:** boss / supervisor
 
 上司 is a person who supervises employees and oversees their work. A good supervisor provides guidance, feedback, and ensures tasks are completed according to standards. Effective communication with a supervisor is crucial for workplace harmony. Respecting hierarchical roles is important in Japanese work culture.

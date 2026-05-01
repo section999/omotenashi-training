@@ -4,8 +4,6 @@ section: 10
 title: 最上階 (saijoukai)
 ---
 
-**最上階** *(saijoukai)*
-
 "最上階" refers to the top floor, often for premium facilities. Staff should indicate elevators or stairs. Mentioning views or amenities adds clarity. It is important to provide precise directions for guest convenience.
 
 *Example: スカイラウンジは最上階にございます。* (The sky lounge is on the top floor.)

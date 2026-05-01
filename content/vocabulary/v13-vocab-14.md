@@ -4,8 +4,6 @@ section: 14
 title: 指導 (shidou)
 ---
 
-## 指導 (しどう · shidou)
-
 **Meaning:** instruction / guidance
 
 指導 refers to guiding or supervising employees to ensure proper performance. It can involve correcting mistakes, teaching procedures, and offering advice. Clear instruction prevents errors and improves productivity. Supervisors must balance guidance with autonomy for effective management.

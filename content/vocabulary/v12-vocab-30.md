@@ -4,8 +4,6 @@ section: 30
 title: 落ち着いてください (ochitsuite kudasai)
 ---
 
-## 落ち着いてください (おちついてください · ochitsuite kudasai)
-
 **Meaning:** please stay calm
 
 落ち着いてください is a phrase used to calm people during stressful or emergency situations. Staff must communicate with a calm tone to reduce panic. Ensuring guests remain composed improves safety and efficiency. Training in emergency psychology helps staff handle crises effectively.

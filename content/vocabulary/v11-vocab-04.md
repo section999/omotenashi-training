@@ -4,8 +4,6 @@ section: 4
 title: 電話番号 (denwa bangou)
 ---
 
-**電話番号** *(denwa bangou)*
-
 "電話番号" is the unique number used to contact a person or department. Staff must confirm it carefully to prevent miscommunication. Guests often need it for reservations or emergency calls. Accurate numbers ensure smooth connections.
 
 *Example: ホテルの電話番号を教えてください。* (Please tell me the hotel's phone number.)

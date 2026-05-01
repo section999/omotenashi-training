@@ -4,8 +4,6 @@ section: 14
 title: 留守番電話 (rusuban denwa)
 ---
 
-**留守番電話** *(rusuban denwa)*
-
 "留守番電話" records messages when staff or guests are unavailable. Staff must check and forward messages promptly. Guests rely on voicemail to communicate important matters. Proper use ensures nothing is missed.
 
 *Example: 留守番電話にメッセージを残しました。* (I left a message on the voicemail.)

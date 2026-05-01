@@ -4,8 +4,6 @@ section: 13
 title: 教育 (kyouiku)
 ---
 
-## 教育 (きょういく · kyouiku)
-
 **Meaning:** education / training
 
 教育 refers to the ongoing process of teaching and guiding employees to improve their competencies. It includes mentoring, formal courses, and skill development. Strong educational programmes enhance workplace performance and employee satisfaction. Education ensures consistent quality across teams.

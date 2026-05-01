@@ -4,8 +4,6 @@ section: 3
 title: 分割払い (bunkatsu barai)
 ---
 
-**分割払い** *(bunkatsu barai)*
-
 "分割払い" allows guests to pay the total amount in multiple installments. Staff must explain payment schedules and any additional fees clearly. This option provides financial flexibility for expensive bookings. Tracking installments carefully prevents misunderstandings and ensures accountability.
 
 *Example: 高額料金は分割払いも可能です。* (High charges can be paid in installments.)

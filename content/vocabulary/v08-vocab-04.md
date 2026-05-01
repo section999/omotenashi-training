@@ -4,8 +4,6 @@ section: 4
 title: 曲がる (magaru)
 ---
 
-**曲がる** *(magaru)*
-
 "曲がる" means "to turn" and is essential for indicating a change of direction. It is commonly paired with "右" or "左" for clarity. Staff should specify landmarks or distances to avoid guest confusion. Clear instructions prevent guests from getting lost.
 
 *Example: 二つ目の交差点で左に曲がってください。* (Please turn left at the second intersection.)

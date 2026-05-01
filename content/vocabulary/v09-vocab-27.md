@@ -4,8 +4,6 @@ section: 27
 title: 満席状況 (manseki joukyou)
 ---
 
-**満席状況** *(manseki joukyou)*
-
 "満席状況" indicates that no rooms or slots are available. Staff must inform guests promptly and suggest alternative dates or rooms. Understanding full booking status prevents overbooking and ensures proper customer service. Guests value timely information.
 
 *Example: 4月10日は満席状況です。* (April 10 is fully booked.)

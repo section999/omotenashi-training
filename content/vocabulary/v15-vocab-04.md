@@ -4,8 +4,6 @@ section: 4
 title: 洗剤 (senzai)
 ---
 
-## 洗剤 (せんざい · senzai)
-
 **Meaning:** detergent
 
 洗剤 is a chemical substance used for cleaning clothes. Detergents remove dirt, grease, and stains effectively. Choosing the right 洗剤 protects fabrics and improves cleaning efficiency. Hotels or laundromats provide 洗剤 for convenience.

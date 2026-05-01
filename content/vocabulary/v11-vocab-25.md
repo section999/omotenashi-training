@@ -4,8 +4,6 @@ section: 25
 title: 対応中 (taiou chuu)
 ---
 
-**対応中** *(taiou chuu)*
-
 "対応中" indicates that a request or inquiry is currently being addressed. Staff must update status promptly. Guests feel reassured when they know their matter is being handled. Proper tracking ensures efficiency.
 
 *Example: ご依頼は現在対応中です。* (Your request is currently being handled.)

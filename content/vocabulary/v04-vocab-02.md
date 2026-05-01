@@ -4,8 +4,6 @@ section: 2
 title: 清掃中 (seisouchuu)
 ---
 
-**清掃中** *(seisouchuu)*
-
 "清掃中" means "cleaning in progress." It is often used on signs or door hangers to inform guests that staff are currently cleaning the room. Proper signage prevents interruptions and ensures privacy.
 
 ---

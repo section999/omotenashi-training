@@ -4,8 +4,6 @@ section: 19
 title: お気をつけて (oki o tsukete)
 ---
 
-**お気をつけて** *(oki o tsukete)*
-
 This means "take care." It is used when someone is leaving. It expresses concern for the person's safety. In hotels, staff say this to guests going out.
 
 ---

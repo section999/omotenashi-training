@@ -4,8 +4,6 @@ section: 11
 title: 子供 (kodomo)
 ---
 
-**子供** *(kodomo)*
-
 "子供" refers to children who will stay at the hotel. Staff plan beds, meals, and amenities based on age. Children may have discounted rates compared to adults. Proper identification ensures correct billing and service.
 
 *Example: 子供1名を追加しました。* (One child has been added.)

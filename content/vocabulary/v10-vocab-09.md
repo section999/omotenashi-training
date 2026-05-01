@@ -4,8 +4,6 @@ section: 9
 title: お釣り (otsuri)
 ---
 
-**お釣り** *(otsuri)*
-
 "お釣り" is the amount returned when a guest overpays. Staff must count carefully and hand over politely. Accurate change prevents complaints and builds trust. Guests expect clarity and correctness.
 
 *Example: 千円を出したら、お釣りは500円です。* (You paid 1,000 yen; your change is 500 yen.)

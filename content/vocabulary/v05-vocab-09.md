@@ -4,8 +4,6 @@ section: 9
 title: 水 (mizu)
 ---
 
-**水** *(mizu)*
-
 "水" means water, typically offered complimentary in restaurants. Staff should refill water regularly without being asked.
 
 Providing water promptly shows attentiveness and professionalism.
@@ -17,9 +15,9 @@ Providing water promptly shows attentiveness and professionalism.
 **Guest says: "Can I have some water?" Best response?**
 
 - A. お水をお持ちいたします (I will bring you water)
-- B. 水ない (no water)
-- C. 水自分で (get water yourself)
-- D. 水ダメ (water is not available)
+- B. お水はセルフサービスでございます (water is self-service)
+- C. ご注文はお水のみでよろしいですか (is water all you would like to order?)
+- D. 少々お待ちください。ただいま確認いたします (please wait; I will check now)
 
 **Correct Answer:** お水をお持ちいたします (I will bring you water)
 

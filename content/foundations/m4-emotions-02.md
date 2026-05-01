@@ -4,8 +4,6 @@ section: 2
 title: Reading Facial Expressions & Body Language
 ---
 
-## Reading Facial Expressions & Body Language
-
 The face and body are constant broadcasters of emotional state. Learning to observe them accurately — without staring or making guests feel watched — is a core skill of omotenashi.
 
 ### Key Facial Signals

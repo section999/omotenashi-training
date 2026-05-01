@@ -4,8 +4,6 @@ section: 30
 title: 交換 (koukan)
 ---
 
-**交換** *(kōkan)*
-
 "交換" means replacement. Guests may request replacement of towels, bedding, or amenities. Staff must respond promptly and politely. Clear communication ensures high service standards.
 
 ---
@@ -16,8 +14,8 @@ title: 交換 (koukan)
 
 - A. タオルを交換いたします (we will change the towels)
 - B. タオルありません (there are no towels)
-- C. タオル自分で (change towels yourself)
-- D. タオル使って (use the towel)
+- C. 交換はハウスキーピングがお伺いいたします (housekeeping will come for replacement)
+- D. 毛布の交換もご用意できます (blanket replacement is also available)
 
 **Correct Answer:** タオルを交換いたします (we will change the towels)
 

@@ -4,8 +4,6 @@ section: 1
 title: 電話 (denwa)
 ---
 
-**電話** *(denwa)*
-
 "電話" refers to a telephone used for internal or external communication. Staff must know how to operate it properly to assist guests. It is essential for reservations, inquiries, or emergency calls. Clear communication prevents misunderstandings and delays.
 
 *Example: 客室から内線電話をかけることができます。* (You can make calls from the room phone.)

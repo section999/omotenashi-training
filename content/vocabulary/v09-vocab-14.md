@@ -4,8 +4,6 @@ section: 14
 title: 割引 (waribiki)
 ---
 
-**割引** *(waribiki)*
-
 "割引" is a price reduction applied for early bookings, promotions, or loyalty programs. Staff apply it carefully to ensure accurate billing. Discounts attract more guests and improve satisfaction. Clear explanation avoids confusion or disputes.
 
 *Example: 早割で10％割引になります。* (You get a 10% discount with early booking.)

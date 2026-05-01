@@ -4,8 +4,6 @@ section: 5
 title: ありがとうございます (arigatou gozaimasu)
 ---
 
-**ありがとうございます** *(arigatou gozaimasu)*
-
 This is a polite way to say "thank you." It is used in customer service to show appreciation to guests. Compared to casual "arigatou," this form is more respectful and professional. It is essential in hospitality communication.
 
 ---

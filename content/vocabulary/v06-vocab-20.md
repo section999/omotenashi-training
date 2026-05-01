@@ -4,8 +4,6 @@ section: 20
 title: 有料 (yuuryou)
 ---
 
-**有料** *(yuuryou)*
-
 "有料" means a service requires payment. Some services like room service or premium Wi-Fi may cost extra. Staff must explain clearly. Avoid hidden charges.
 
 ---

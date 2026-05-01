@@ -4,8 +4,6 @@ section: 8
 title: 喫煙 (kitsuen)
 ---
 
-**喫煙** *(kitsuen)*
-
 "喫煙" means smoking. Hotels assign rooms accordingly. Staff must politely confirm smoking preferences to avoid complaints.
 
 ---

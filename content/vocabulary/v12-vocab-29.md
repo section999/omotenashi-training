@@ -4,8 +4,6 @@ section: 29
 title: 指示 (shiji)
 ---
 
-## 指示 (しじ · shiji)
-
 **Meaning:** instruction
 
 指示 refers to guidance or commands given to staff or guests during normal operations or emergencies. Clear, concise instructions ensure tasks are understood and executed safely. Staff must communicate effectively, especially under pressure. Proper instructions prevent confusion and accidents.

@@ -4,8 +4,6 @@ section: 22
 title: ご確認ください (go-kakunin kudasai)
 ---
 
-**ご確認ください** *(go-kakunin kudasai)*
-
 This phrase means "please check" or "please confirm." It is used when asking guests to review information such as reservations, documents, or details. It is polite and commonly used in both spoken and written communication. In hotels, it helps avoid misunderstandings and ensures accuracy.
 
 ---

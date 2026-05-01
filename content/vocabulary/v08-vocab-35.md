@@ -4,8 +4,6 @@ section: 35
 title: エスカレーター (esukareetaa)
 ---
 
-**エスカレーター** *(esukareetaa)*
-
 "エスカレーター" is an escalator for moving between floors. Staff explain its location and direction. It improves accessibility for guests with luggage or mobility issues. Clear guidance prevents accidents.
 
 *Example: エスカレーターは正面にございます。* (The escalator is in front.)

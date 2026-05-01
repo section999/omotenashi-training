@@ -4,8 +4,6 @@ section: 12
 title: 地下一階 (chika ikkai)
 ---
 
-**地下一階** *(chika ikkai)*
-
 "地下一階" specifies the first basement level below ground. Staff should explain elevator buttons or stair access. It is often used for parking, laundry, or fitness centers. Clear directions ensure safety and convenience for guests.
 
 *Example: ジムは地下一階にございます。* (The gym is on basement level 1.)

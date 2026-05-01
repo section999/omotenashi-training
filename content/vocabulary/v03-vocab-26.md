@@ -4,8 +4,6 @@ section: 26
 title: 清掃 (seisou)
 ---
 
-**清掃** *(seisō)*
-
 "清掃" means cleaning. Staff use it to describe daily room cleaning or additional housekeeping. Guests may request special cleaning times. Clear explanation ensures expectations are aligned.
 
 ---

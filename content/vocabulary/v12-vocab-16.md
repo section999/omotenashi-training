@@ -4,8 +4,6 @@ section: 16
 title: 医者 (isha)
 ---
 
-## 医者 (いしゃ · isha)
-
 **Meaning:** doctor
 
 医者 refers to a licensed professional who diagnoses and treats illnesses or injuries. Staff may need to contact a doctor for guest emergencies. Proper identification of symptoms ensures the correct specialist is called. Cooperation with medical professionals ensures guest safety and comfort.

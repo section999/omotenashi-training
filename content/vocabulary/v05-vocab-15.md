@@ -4,8 +4,6 @@ section: 15
 title: 会計 (kaikei)
 ---
 
-**会計** *(kaikei)*
-
 "会計" refers to the bill or checkout process after dining. Staff should handle it accurately and politely.
 
 Explaining payment methods helps avoid confusion.

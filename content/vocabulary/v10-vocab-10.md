@@ -4,8 +4,6 @@ section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
 
-**領収書発行** *(ryoushuusho hakkou)*
-
 "領収書発行" is issuing a receipt as proof of payment. Staff must ensure the name, amount, and date are correct. Receipts are crucial for reimbursement or business records. Timely issuance improves guest trust.
 
 *Example: 領収書を発行いたしますか。* (Would you like a receipt issued?)

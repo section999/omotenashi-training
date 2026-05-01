@@ -4,8 +4,6 @@ section: 23
 title: ドア (door)
 ---
 
-**ドア** *(doa)*
-
 "ドア" refers to the door of the guest room. Staff may explain security features, automatic locks, or emergency exit instructions. Clear instructions reduce confusion and improve safety.
 
 ---

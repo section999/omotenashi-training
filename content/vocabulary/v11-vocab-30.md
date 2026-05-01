@@ -4,8 +4,6 @@ section: 30
 title: 翻訳 (hon'yaku)
 ---
 
-**翻訳** *(hon'yaku)*
-
 "翻訳" refers to converting written text from one language to another. Staff may translate menus, guides, or notices for foreign guests. Accuracy is critical to avoid errors. It enhances the guest experience.
 
 *Example: この文書を英語に翻訳してください。* (Please translate this document into English.)

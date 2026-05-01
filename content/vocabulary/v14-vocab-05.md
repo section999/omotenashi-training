@@ -4,8 +4,6 @@ section: 5
 title: 入国 (nyuukoku)
 ---
 
-## 入国 (にゅうこく · nyuukoku)
-
 **Meaning:** entry (into a country)
 
 入国 refers to the act of entering a country. Immigration officers check passports, visas, and customs declarations. Proper documentation is required for legal entry. Travelers should understand entry procedures to avoid delays.

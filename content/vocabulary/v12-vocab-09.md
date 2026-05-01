@@ -4,8 +4,6 @@ section: 9
 title: 消防車 (shoubousha)
 ---
 
-## 消防車 (しょうぼうしゃ · shoubousha)
-
 **Meaning:** fire truck
 
 消防車 is a specialised vehicle dispatched to fight fires, rescue people, and support emergency operations. Staff must coordinate with fire services during incidents. Quick access for fire trucks reduces damage. Awareness of their routes and clearance areas ensures efficient firefighting.

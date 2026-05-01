@@ -4,8 +4,6 @@ section: 11
 title: 紅茶 (koucha)
 ---
 
-**紅茶** *(koucha)*
-
 "紅茶" means black tea, often served as an alternative to coffee. It may be offered with milk, lemon, or sugar.
 
 Staff should explain options to international guests.
@@ -17,9 +15,9 @@ Staff should explain options to international guests.
 **Which phrase correctly tells a guest that tea is also available?**
 
 - A. 紅茶もご用意できます (we can also prepare black tea)
-- B. 紅茶ない (no black tea)
-- C. 紅茶自分で (get black tea yourself)
-- D. 紅茶しない (will not have black tea)
+- B. コーヒーはご用意しております (we have coffee available)
+- C. 紅茶はホットのみでございます (black tea is hot only)
+- D. 紅茶の提供は朝食のみでございます (black tea is served at breakfast only)
 
 **Correct Answer:** 紅茶もご用意できます (we can also prepare black tea)
 

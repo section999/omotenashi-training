@@ -4,8 +4,6 @@ section: 8
 title: 配達 (haitatsu)
 ---
 
-## 配達 (はいたつ · haitatsu)
-
 **Meaning:** delivery
 
 配達 refers to delivering goods, packages, or laundry to a specified location. In hotels, 配達 can include room service, laundry return, or parcel service. Timely 配達 ensures guest satisfaction and convenience.

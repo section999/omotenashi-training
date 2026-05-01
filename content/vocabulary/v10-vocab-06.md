@@ -4,8 +4,6 @@ section: 6
 title: 精算 (seisan)
 ---
 
-**精算** *(seisan)*
-
 "精算" is finalizing all charges at check-out or after service. Staff calculate totals including taxes, fees, discounts, and extras. Accurate settlement prevents errors or disputes. Proper handling ensures smooth departure and accounting transparency.
 
 *Example: チェックアウト時に精算をお願いします。* (Please settle your bill at check-out.)

@@ -4,8 +4,6 @@ section: 17
 title: 素泊まり (sudomari)
 ---
 
-**素泊まり** *(sudomari)*
-
 "素泊まり" indicates a booking without meals. Guests may choose to eat outside or order separately. Staff should clarify to avoid confusion. This plan often costs less than meal-included plans.
 
 *Example: このプランは素泊まりです。* (This plan is room-only.)

@@ -4,8 +4,6 @@ section: 14
 title: 保管 (hokan)
 ---
 
-## 保管 (ほかん · hokan)
-
 **Meaning:** storage
 
 保管 refers to safely keeping items for a period of time. Hotels and services offer 保管 for luggage, valuables, or packages. Proper management during storage prevents loss or damage.

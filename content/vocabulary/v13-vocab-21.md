@@ -4,8 +4,6 @@ section: 21
 title: 作業 (sagyou)
 ---
 
-## 作業 (さぎょう · sagyou)
-
 **Meaning:** task / work
 
 作業 refers to specific pieces of work or tasks performed during duty. Tasks can be part of larger projects or daily operations. Proper planning and execution ensure high-quality output. Recording completed tasks improves accountability.

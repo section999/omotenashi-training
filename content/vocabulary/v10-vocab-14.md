@@ -4,8 +4,6 @@ section: 14
 title: レジ (reji)
 ---
 
-**レジ** *(reji)*
-
 "レジ" refers to the cash register used for processing payments. Staff must handle it accurately and operate it securely. Registers track daily sales and record transactions. Proper usage prevents mistakes and theft.
 
 *Example: レジでお支払いをお願いします。* (Please pay at the cash register.)

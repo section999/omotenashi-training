@@ -4,8 +4,6 @@ section: 19
 title: 夕食付き (yuushoku tsuki)
 ---
 
-**夕食付き** *(yuushoku tsuki)*
-
 "夕食付き" means the plan includes dinner. Staff provide information on menu, timing, and restaurant location. It helps guests plan their evening activities. Accurate information avoids dissatisfaction.
 
 *Example: このプランは夕食付きです。* (This plan includes dinner.)

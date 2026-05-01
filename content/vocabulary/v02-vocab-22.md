@@ -4,8 +4,6 @@ section: 22
 title: 延泊 (enpaku)
 ---
 
-**延泊** *(enpaku)*
-
 "延泊" means extending the stay beyond the original reservation. This is a common request from guests. Staff must check availability before confirming. It is important to respond clearly and politely.
 
 ---

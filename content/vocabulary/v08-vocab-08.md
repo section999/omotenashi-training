@@ -4,8 +4,6 @@ section: 8
 title: 一階 (ikkai)
 ---
 
-**一階** *(ikkai)*
-
 "一階" means the first floor (street level in Japan). Staff should clarify that it is ground level. Guests often need this info for lobbies, restaurants, or shops. Accurate instructions prevent confusion.
 
 *Example: ロビーは一階にございます。* (The lobby is on the first floor.)

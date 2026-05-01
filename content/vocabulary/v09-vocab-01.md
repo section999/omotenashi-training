@@ -4,8 +4,6 @@ section: 1
 title: 予約番号 (yoyaku bangou)
 ---
 
-**予約番号** *(yoyaku bangou)*
-
 "予約番号" is a unique identifier assigned to each booking. It helps hotel staff locate the reservation quickly and avoid confusion with other guests. Guests are often asked for this number during check-in or inquiries. Keeping it handy ensures smooth and fast service.
 
 *Example: ご予約番号を教えていただけますか。* (Could you provide your reservation number, please?)

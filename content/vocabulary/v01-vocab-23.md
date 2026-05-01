@@ -4,8 +4,6 @@ section: 23
 title: 承知いたしました (shouchi itashimashita)
 ---
 
-**承知いたしました** *(shouchi itashimashita)*
-
 This is a very formal way to say "understood" or "certainly." It is more polite and respectful than "wakarimashita." It is often used when responding to customer requests or instructions. This phrase shows professionalism and careful attention to the guest's needs.
 
 ---

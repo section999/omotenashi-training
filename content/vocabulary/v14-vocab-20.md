@@ -4,8 +4,6 @@ section: 20
 title: タクシー (takushii)
 ---
 
-## タクシー (たくしー · takushii)
-
 **Meaning:** taxi
 
 タクシー is a paid vehicle service for individual travel. Taxis offer flexibility, door-to-door service, and convenience. Tourists use taxis when public transport is unavailable or for luggage-heavy travel. Fares depend on distance and time.

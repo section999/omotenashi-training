@@ -4,8 +4,6 @@ section: 23
 title: 早朝チェックイン (early check-in)
 ---
 
-**早朝チェックイン** *(sōchō chekku-in)*
-
 This refers to checking in earlier than the standard time. It depends on room availability and may include extra charges. Staff should explain this condition clearly. Managing expectations is important.
 
 ---

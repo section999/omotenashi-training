@@ -4,8 +4,6 @@ section: 16
 title: 雑巾 (zoukin)
 ---
 
-**雑巾** *(zoukin)*
-
 "雑巾" is a cleaning cloth. Staff use it for wiping surfaces or spills. Proper use maintains hygiene and cleanliness in guest rooms. Clear instruction ensures safe and effective cleaning.
 
 ---

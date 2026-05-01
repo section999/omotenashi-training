@@ -4,8 +4,6 @@ section: 20
 title: 非常ベル (hijou beru)
 ---
 
-## 非常ベル (ひじょうベル · hijou beru)
-
 **Meaning:** emergency bell
 
 非常ベル is a device that signals an emergency, usually with a loud sound. It alerts occupants to evacuate or take action. Staff must ensure it is functional and familiar to guests. Regular drills and maintenance ensure reliability during crises.

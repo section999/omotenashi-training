@@ -4,8 +4,6 @@ section: 1
 title: 支払い方法 (shiharai houhou)
 ---
 
-**支払い方法** *(shiharai houhou)*
-
 "支払い方法" refers to the way guests choose to pay for services, such as cash, card, or electronic payment. Staff must clearly explain available options to avoid confusion. Understanding guests\'s preferences ensures smooth transactions. Proper guidance minimizes errors and enhances satisfaction.
 
 *Example: お支払い方法は現金かカードか選べます。* (You can choose to pay by cash or card.)

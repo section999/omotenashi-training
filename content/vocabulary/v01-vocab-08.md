@@ -4,8 +4,6 @@ section: 8
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**少々お待ちください** *(shoushou omachi kudasai)*
-
 This phrase means "please wait a moment" in a polite way. It is commonly used when staff need time to check something. The word "shoushou" softens the request and makes it sound more courteous. It is frequently used at reception desks.
 
 ---

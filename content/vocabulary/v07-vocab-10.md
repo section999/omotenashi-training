@@ -4,8 +4,6 @@ section: 10
 title: 閉店 (heiten)
 ---
 
-**閉店** *(heiten)*
-
 "閉店" means closing time when services end for the day. Staff should inform guests politely and in advance to avoid inconvenience.
 
 It is important to communicate last order times as well, especially in restaurants. Proper explanation ensures guests can plan accordingly and reduces dissatisfaction.

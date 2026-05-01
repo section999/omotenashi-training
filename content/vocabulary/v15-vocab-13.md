@@ -4,8 +4,6 @@ section: 13
 title: 宅配便 (takkyuubin)
 ---
 
-## 宅配便 (たっきゅうびん · takkyuubin)
-
 **Meaning:** courier service
 
 宅配便 is a service that transports packages to designated addresses. Widely used in Japan for personal and business deliveries. Efficient 宅配便 enhances convenience for tourists and residents alike.

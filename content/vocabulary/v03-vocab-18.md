@@ -4,8 +4,6 @@ section: 18
 title: 洗面所 (senmenjo)
 ---
 
-**洗面所** *(senmenjo)*
-
 "洗面所" is the washroom or sink area. Guests may use it for brushing teeth, washing hands, or grooming. Staff may guide guests to the washroom or explain available amenities. Accurate guidance avoids confusion and improves service quality.
 
 ---

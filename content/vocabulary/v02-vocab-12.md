@@ -4,8 +4,6 @@ section: 12
 title: サイン (sign)
 ---
 
-**サイン** *(sain)*
-
 "サイン" means signature. Guests are often required to sign forms to confirm agreements. This step is important for legal and administrative purposes. It must be requested politely.
 
 ---

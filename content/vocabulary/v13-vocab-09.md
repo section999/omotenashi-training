@@ -4,8 +4,6 @@ section: 9
 title: 休憩 (kyuukei)
 ---
 
-## 休憩 (きゅうけい · kyuukei)
-
 **Meaning:** break
 
 休憩 is a period during work when employees rest to recharge physically and mentally. Scheduled breaks improve concentration and prevent fatigue. Employers must ensure breaks comply with labour laws. Taking breaks responsibly ensures productivity and well-being.

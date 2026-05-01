@@ -4,8 +4,6 @@ section: 2
 title: 火災 (kasai)
 ---
 
-## 火災 (かさい · kasai)
-
 **Meaning:** fire
 
 火災 refers to the outbreak of fire that can cause property damage, injury, or death. Staff must know fire locations, alarms, and evacuation procedures. Quick detection and response can prevent escalation. Regular fire drills ensure that both staff and guests can act appropriately during a fire.

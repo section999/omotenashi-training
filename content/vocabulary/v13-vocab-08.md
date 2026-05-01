@@ -4,8 +4,6 @@ section: 8
 title: 退勤 (taikin)
 ---
 
-## 退勤 (たいきん · taikin)
-
 **Meaning:** leaving work
 
 退勤 refers to finishing work and leaving the workplace at the end of a shift or day. Proper logging of departure times ensures accurate attendance records. Employees should complete tasks and hand over responsibilities before leaving. Timely departure contributes to work-life balance.

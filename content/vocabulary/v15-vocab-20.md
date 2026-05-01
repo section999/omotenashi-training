@@ -4,8 +4,6 @@ section: 20
 title: 延長料金 (enchou ryoukin)
 ---
 
-## 延長料金 (えんちょうりょうきん · enchou ryoukin)
-
 **Meaning:** extension fee
 
 延長料金 is an extra charge for extending the usage of a service beyond the allotted time. Common for lockers, laundry, or rentals. Clear information about fees prevents misunderstandings.

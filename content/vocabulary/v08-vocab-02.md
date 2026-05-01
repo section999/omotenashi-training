@@ -4,8 +4,6 @@ section: 2
 title: 左 (hidari)
 ---
 
-**左** *(hidari)*
-
 "左" means "left" and is essential for giving directions inside hotels or streets. It prevents mistakes when guests look for rooms, elevators, or facilities. Staff should combine it with landmarks for clarity. Correct usage improves guest satisfaction and navigation.
 
 *Example: 入口は左側にございます。* (The entrance is on the left side.)

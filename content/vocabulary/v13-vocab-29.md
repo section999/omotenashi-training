@@ -4,8 +4,6 @@ section: 29
 title: 改善 (kaizen)
 ---
 
-## 改善 (かいぜん · kaizen)
-
 **Meaning:** improvement
 
 改善 is the continuous process of making work methods, processes, or products better. It is central to Japanese business culture, promoting quality and productivity. Employees are encouraged to suggest and implement improvements regularly. Small incremental improvements create long-term benefits.

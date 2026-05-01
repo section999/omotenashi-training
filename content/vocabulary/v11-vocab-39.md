@@ -4,8 +4,6 @@ section: 39
 title: もう一度お願いします (mouichido onegai shimasu)
 ---
 
-**もう一度お願いします** *(mouichido onegai shimasu)*
-
 This polite phrase requests the caller to repeat themselves. Staff use it when details were missed or unclear. Essential for accurate information transfer. Enhances communication and prevents misunderstandings.
 
 *Example: もう一度お願いします、番号を教えてください。* (Please say it again, tell me the number.)

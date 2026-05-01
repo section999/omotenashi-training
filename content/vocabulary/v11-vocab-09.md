@@ -4,8 +4,6 @@ section: 9
 title: 不在 (fuzai)
 ---
 
-**不在** *(fuzai)*
-
 "不在" indicates someone is not available to take the call. Staff must inform callers politely and offer alternatives. Guests expect courteous communication. Properly managing absent staff ensures efficiency.
 
 *Example: 担当者はただいま不在です。* (The person in charge is currently absent.)

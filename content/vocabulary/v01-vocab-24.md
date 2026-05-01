@@ -4,8 +4,6 @@ section: 24
 title: ご案内いたします (go-annai itashimasu)
 ---
 
-**ご案内いたします** *(go-annai itashimasu)*
-
 This phrase means "I will guide you" or "I will show you." It is used when staff escort guests to a location such as a room or facility. The expression is very polite and commonly used in hospitality settings. It helps create a smooth and welcoming experience for guests.
 
 ---

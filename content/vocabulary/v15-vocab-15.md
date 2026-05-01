@@ -4,8 +4,6 @@ section: 15
 title: 貴重品 (kichouhin)
 ---
 
-## 貴重品 (きちょうひん · kichouhin)
-
 **Meaning:** valuables
 
 貴重品 refers to items of high value such as money, jewellery, or passports. Safe handling is critical in hotels or transport services. Valuables may require separate storage or lockers for security.

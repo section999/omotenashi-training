@@ -4,8 +4,6 @@ section: 21
 title: 超過 (chouka)
 ---
 
-**超過** *(chouka)*
-
 "超過" refers to exceeding a limit, such as overpayment or extra charges. Staff must explain why an additional fee applies. Guests expect clear communication on excess charges. Proper handling maintains trust and satisfaction.
 
 *Example: 荷物の重量が超過しています。* (The luggage exceeds the weight limit.)

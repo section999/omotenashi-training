@@ -4,8 +4,6 @@ section: 39
 title: 有効 (yuukou)
 ---
 
-**有効** *(yuukou)*
-
 "有効" indicates a payment, coupon, or card is valid. Staff confirm the guest can use it. Validity ensures smooth processing and satisfaction. Guests rely on valid documents for discounts or access.
 
 *Example: このバウチャーは有効です。* (This voucher is valid.)

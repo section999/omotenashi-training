@@ -4,8 +4,6 @@ section: 20
 title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 ---
 
-**お名前を頂戴できますか** *(onamae wo choudai dekimasu ka)*
-
 This phrase is used politely to ask a caller's name. Staff must use it to identify guests or clients correctly. It ensures proper record-keeping and personalized service. Politeness improves overall impression.
 
 *Example: お名前を頂戴できますか？* (May I have your name?)

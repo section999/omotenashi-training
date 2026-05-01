@@ -4,8 +4,6 @@ section: 7
 title: 担当者 (tantousha)
 ---
 
-**担当者** *(tantousha)*
-
 "担当者" refers to the staff member responsible for a task or inquiry. Callers are often transferred to the appropriate person in charge. Correct handling ensures efficiency and guest satisfaction. Clear identification prevents miscommunication.
 
 *Example: 担当者におつなぎいたします。* (I will connect you to the person in charge.)

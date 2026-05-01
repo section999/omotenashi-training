@@ -4,8 +4,6 @@ section: 5
 title: お繋ぎします (otsunagi shimasu)
 ---
 
-**お繋ぎします** *(otsunagi shimasu)*
-
 "お繋ぎします" is used by staff when transferring a call. It assures the caller that they will be connected to the right person. Polite phrasing improves guest experience. Correct handling avoids confusion or wrong connections.
 
 *Example: 担当者にお繋ぎします。* (I will connect you to the person in charge.)

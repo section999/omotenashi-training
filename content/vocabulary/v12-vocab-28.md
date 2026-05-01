@@ -4,8 +4,6 @@ section: 28
 title: 緊急対応 (kinkyuu taiou)
 ---
 
-## 緊急対応 (きんきゅうたいおう · kinkyuu taiou)
-
 **Meaning:** emergency response
 
 緊急対応 refers to the actions taken to handle emergencies efficiently, such as fires, medical incidents, or natural disasters. Staff must be trained to react quickly, communicate clearly, and follow protocols. Coordination with emergency services is essential. Effective response reduces injury and damage.

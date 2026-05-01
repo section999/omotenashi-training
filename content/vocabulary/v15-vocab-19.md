@@ -4,8 +4,6 @@ section: 19
 title: 利用時間 (riyou jikan)
 ---
 
-## 利用時間 (りようじかん · riyou jikan)
-
 **Meaning:** usage hours
 
 利用時間 specifies the time period during which a service can be used. Important for scheduling laundry, lockers, or deliveries. Knowing 利用時間 prevents inconvenience or delays.

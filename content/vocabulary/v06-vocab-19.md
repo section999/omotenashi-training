@@ -4,8 +4,6 @@ section: 19
 title: 無料 (muryou)
 ---
 
-**無料** *(muryou)*
-
 "無料" means free of charge. Many hotel services such as Wi-Fi or water may be free. Staff should clearly inform guests. Transparency avoids misunderstandings.
 
 ---

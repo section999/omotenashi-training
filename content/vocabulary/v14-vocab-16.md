@@ -4,8 +4,6 @@ section: 16
 title: 地図アプリ (chizu apuri)
 ---
 
-## 地図アプリ (ちずアプリ · chizu apuri)
-
 **Meaning:** map app
 
 地図アプリ is a digital application used to navigate and find locations. Map apps provide routes, nearby facilities, and real-time traffic information. Tourists rely on map apps for efficiency and safety. Features like GPS enhance accuracy and convenience.

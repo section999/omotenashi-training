@@ -4,8 +4,6 @@ section: 30
 title: 注意事項 (chuui jikou)
 ---
 
-## 注意事項 (ちゅういじこう · chuui jikou)
-
 **Meaning:** precautions
 
 注意事項 are safety tips, warnings, or guidelines tourists should follow. Precautions prevent accidents, misunderstandings, or fines. Staff, signage, and guides provide precautions for public safety and smooth travel. Observing these ensures a pleasant visit.

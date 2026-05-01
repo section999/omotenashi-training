@@ -4,8 +4,6 @@ section: 7
 title: 失礼いたします (shitsurei itashimasu)
 ---
 
-**失礼いたします** *(shitsurei itashimasu)*
-
 This phrase means "excuse me" in a very polite way. It is used before entering a room, interrupting someone, or leaving a conversation. In hotels, staff use it to maintain professionalism. It shows respect for the other person's space and time.
 
 ---

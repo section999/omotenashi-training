@@ -4,8 +4,6 @@ section: 15
 title: 会計係 (kaikei kakari)
 ---
 
-**会計係** *(kaikei kakari)*
-
 "会計係" is the staff responsible for handling payments and bills. They calculate totals, give change, and issue receipts. Accuracy and polite communication are essential. Guests expect efficient service from the cashier.
 
 *Example: 会計係が精算を行います。* (The cashier will settle your bill.)

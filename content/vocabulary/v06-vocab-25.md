@@ -4,8 +4,6 @@ section: 25
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**少々お待ちください** *(shoushou omachi kudasai)*
-
 "少々お待ちください" is a polite expression meaning "please wait a moment." It is commonly used in service situations. It shows respect and professionalism. Proper tone is important.
 
 ---

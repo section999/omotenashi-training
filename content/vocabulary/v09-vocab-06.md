@@ -4,8 +4,6 @@ section: 6
 title: 滞在 (taizai)
 ---
 
-**滞在** *(taizai)*
-
 "滞在" refers to the entire period a guest spends at the hotel. Staff monitor the stay for room cleaning, meal planning, and service scheduling. Understanding the stay period is essential for calculating total charges and managing room availability. Clear communication with guests prevents misunderstandings about the length of their visit.
 
 *Example: 滞在は3泊4日です。* (The stay is for 3 nights and 4 days.)

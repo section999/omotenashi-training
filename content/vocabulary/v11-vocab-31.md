@@ -4,8 +4,6 @@ section: 31
 title: 英語対応 (eigo taiou)
 ---
 
-**英語対応** *(eigo taiou)*
-
 "英語対応" indicates that staff can assist guests in English. Essential for international visitors. Proper language support ensures clear communication and service satisfaction. Staff must confirm capability before engaging.
 
 *Example: 英語対応が可能です。* (We can assist you in English.)

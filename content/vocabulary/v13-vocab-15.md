@@ -4,8 +4,6 @@ section: 15
 title: 会議 (kaigi)
 ---
 
-## 会議 (かいぎ · kaigi)
-
 **Meaning:** meeting
 
 会議 is a formal gathering where employees discuss plans, review performance, and make decisions. Meetings are essential for communication, problem-solving, and aligning team goals. Proper preparation and participation ensure productive meetings. Documentation of meetings supports accountability.

@@ -4,8 +4,6 @@ section: 23
 title: 切符 (kippu)
 ---
 
-## 切符 (きっぷ · kippu)
-
 **Meaning:** ticket
 
 切符 is a document or digital pass granting access to transportation. Tickets indicate fare, route, and validity. Tourists must purchase correct tickets to avoid penalties. Ticketing systems include single rides, passes, and IC card integration.

@@ -4,8 +4,6 @@ section: 40
 title: ゆっくり話してください (yukkuri hanashite kudasai)
 ---
 
-**ゆっくり話してください** *(yukkuri hanashite kudasai)*
-
 Used when staff or guests need slower speech to understand clearly. Essential for language learners or unclear connections. Improves comprehension and reduces errors. Polite phrasing maintains professionalism.
 
 *Example: 申し訳ありません、ゆっくり話してください。* (Sorry, please speak slowly.)

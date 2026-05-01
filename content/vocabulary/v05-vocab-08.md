@@ -4,8 +4,6 @@ section: 8
 title: 提供 (teikyou)
 ---
 
-**提供** *(teikyou)*
-
 "提供" means serving food or drinks to guests. It involves timing, presentation, and proper etiquette.
 
 Staff should ensure that dishes are served promptly and correctly.

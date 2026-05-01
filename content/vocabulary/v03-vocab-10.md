@@ -4,8 +4,6 @@ section: 10
 title: 枕 (makura)
 ---
 
-**枕** *(makura)*
-
 "枕" means pillow. Guests may request extra pillows for comfort. Staff should handle requests politely.
 
 ---
@@ -16,7 +14,7 @@ title: 枕 (makura)
 
 - A. 枕をご用意いたします (we will prepare a pillow)
 - B. 枕はありません (there are no pillows)
-- C. 枕自分で (get a pillow yourself)
+- C. 毛布をお持ちいたします (I will bring a blanket)
 - D. 枕どうぞ (here is a pillow)
 
 **Correct Answer:** 枕をご用意いたします (we will prepare a pillow)

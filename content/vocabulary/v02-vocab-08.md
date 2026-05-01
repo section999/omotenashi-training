@@ -4,8 +4,6 @@ section: 8
 title: 満室 (manshitsu)
 ---
 
-**満室** *(manshitsu)*
-
 "満室" means fully booked, with no rooms available. It must be communicated carefully and politely. It is usually paired with an apology to soften the message. This is important for maintaining customer satisfaction.
 
 ---

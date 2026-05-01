@@ -4,8 +4,6 @@ section: 26
 title: 道案内 (michi annai)
 ---
 
-## 道案内 (みちあんない · michi annai)
-
 **Meaning:** directions
 
 道案内 means giving or receiving instructions on how to reach a place. Accurate directions are essential for tourists in unfamiliar areas. Staff, maps, or apps can provide directions. Clear guidance prevents getting lost and improves satisfaction.

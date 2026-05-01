@@ -4,8 +4,6 @@ section: 31
 title: 中 (naka)
 ---
 
-**中** *(naka)*
-
 "中" refers to inside a space, such as rooms or buildings. Staff use it to indicate where guests should enter or go. Clear instructions prevent guests from waiting outside or lost in corridors. It enhances navigation.
 
 *Example: 会議室は建物の中にございます。* (The conference room is inside the building.)

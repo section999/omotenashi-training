@@ -4,8 +4,6 @@ section: 39
 title: 案内板 (annaiban)
 ---
 
-**案内板** *(annaiban)*
-
 "案内板" is an information board showing directions, announcements, or facility information. Staff can guide guests using it. It helps orient visitors in large buildings. Clear display improves guest experience.
 
 *Example: ロビーに案内板がございます。* (There is an information board in the lobby.)

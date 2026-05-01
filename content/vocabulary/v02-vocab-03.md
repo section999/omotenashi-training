@@ -4,8 +4,6 @@ section: 3
 title: チェックアウト (check-out)
 ---
 
-**チェックアウト** *(check-out)*
-
 "チェックアウト" refers to the process when guests leave the hotel and settle their bill. It is the final interaction and leaves a lasting impression. Staff often confirm the time and ask about the stay experience. Politeness is essential.
 
 ---

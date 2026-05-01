@@ -4,8 +4,6 @@ section: 16
 title: ごゆっくりどうぞ (goyukkuri douzo)
 ---
 
-**ごゆっくりどうぞ** *(goyukkuri douzo)*
-
 This phrase means "please take your time" or "please relax." It is used to make guests feel comfortable. It shows hospitality and kindness. It is often used when guests enter their rooms or facilities.
 
 ---

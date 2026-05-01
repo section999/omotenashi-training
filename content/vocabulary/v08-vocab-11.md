@@ -4,8 +4,6 @@ section: 11
 title: 地下 (chika)
 ---
 
-**地下** *(chika)*
-
 "地下" refers to the basement level of a building. It is often used for parking, storage, or facilities like shops. Staff should clearly indicate stairs, elevators, or ramps to reach the basement. Proper guidance prevents guests from getting lost or accessing restricted areas.
 
 *Example: 駐車場は地下にございます。* (The parking lot is in the basement.)

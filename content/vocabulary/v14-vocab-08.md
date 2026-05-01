@@ -4,8 +4,6 @@ section: 8
 title: 両替所 (ryougaejo)
 ---
 
-## 両替所 (りょうがえじょ · ryougaejo)
-
 **Meaning:** exchange office
 
 両替所 is a place where travelers exchange foreign currency. Rates may vary, so tourists should compare rates and fees. Safe and convenient locations are usually found at airports or tourist areas. Proper exchange ensures travelers have usable money.

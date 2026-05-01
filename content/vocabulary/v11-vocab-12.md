@@ -4,8 +4,6 @@ section: 12
 title: メッセージ (messeeji)
 ---
 
-**メッセージ** *(messeeji)*
-
 "メッセージ" can be verbal, written, or digital communication left for someone. Staff use it for guest inquiries or internal notices. Accurate messaging ensures clear communication. Differentiating from direct calls is important.
 
 *Example: メッセージを残してもよろしいですか。* (May I leave a message?)

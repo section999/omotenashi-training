@@ -4,8 +4,6 @@ section: 3
 title: シングルルーム (single room)
 ---
 
-**シングルルーム** *(shinguru rūmu)*
-
 This refers to a single room designed for one person. It usually has one bed and basic amenities. Staff often confirm the type of room during check-in. Important for room assignment accuracy.
 
 ---

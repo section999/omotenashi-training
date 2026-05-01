@@ -4,8 +4,6 @@ section: 20
 title: キャンセル (cancel)
 ---
 
-**キャンセル** *(kyanseru)*
-
 "キャンセル" refers to canceling a reservation. Hotels often have specific cancellation policies, including fees. Staff must communicate this politely and clearly. It is important to confirm the guest's intention.
 
 ---

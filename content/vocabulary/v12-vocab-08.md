@@ -4,8 +4,6 @@ section: 8
 title: 救急車 (kyuukyuusha)
 ---
 
-## 救急車 (きゅうきゅうしゃ · kyuukyuusha)
-
 **Meaning:** ambulance
 
 救急車 is a vehicle used to transport injured or ill persons to medical facilities quickly. Staff must know how to call an ambulance immediately. Prompt response saves lives in emergencies. Understanding local emergency numbers and procedures is crucial.

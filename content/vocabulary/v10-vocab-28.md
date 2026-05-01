@@ -4,8 +4,6 @@ section: 28
 title: 税込 (zeikomi)
 ---
 
-**税込** *(zeikomi)*
-
 "税込" indicates that the price already includes taxes. Staff must inform guests to avoid confusion. Clear labeling ensures transparency in billing. Guests understand exactly what they pay.
 
 *Example: この料金は税込です。* (This price includes tax.)

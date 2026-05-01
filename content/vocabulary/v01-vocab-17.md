@@ -4,8 +4,6 @@ section: 17
 title: ようこそ (youkoso)
 ---
 
-**ようこそ** *(youkoso)*
-
 This means "welcome" and is slightly less formal than "irasshaimase." It is often used in written messages or announcements. It expresses warmth and friendliness. It is suitable for greeting guests in a broader sense.
 
 ---

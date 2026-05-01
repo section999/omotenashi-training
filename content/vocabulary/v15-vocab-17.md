@@ -4,8 +4,6 @@ section: 17
 title: 引換券 (hikikaeken)
 ---
 
-## 引換券 (ひきかえけん · hikikaeken)
-
 **Meaning:** claim ticket
 
 引換券 is a ticket or receipt used to retrieve stored items or packages. Verification ensures the correct person receives the item. Hotels provide 引換券 for laundry or valuables storage.

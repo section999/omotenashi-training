@@ -4,8 +4,6 @@ section: 26
 title: 空き状況 (aki joukyou)
 ---
 
-**空き状況** *(aki joukyou)*
-
 "空き状況" refers to whether rooms are available for booking on a certain date. Staff check availability before confirming reservations. Accurate information helps manage guest expectations and prevents disappointment. Guests often request this in advance to plan trips.
 
 *Example: 空き状況を確認いたします。* (I will check room availability.)

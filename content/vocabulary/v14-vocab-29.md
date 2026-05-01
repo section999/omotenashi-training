@@ -4,8 +4,6 @@ section: 29
 title: マナー (manaa)
 ---
 
-## マナー (まなー · manaa)
-
 **Meaning:** manners
 
 マナー is proper or polite behaviour expected in social situations. Tourists should follow local manners to show respect. Good manners prevent conflicts and enhance the experience for all. Observing manners includes etiquette in transport, dining, and public areas.

@@ -4,8 +4,6 @@ section: 18
 title: お疲れ様です (otsukaresama desu)
 ---
 
-**お疲れ様です** *(otsukaresama desu)*
-
 This phrase means "thank you for your hard work." It is commonly used among staff members. It acknowledges effort and builds good relationships in the workplace. It is not typically used for customers.
 
 ---

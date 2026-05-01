@@ -4,8 +4,6 @@ section: 5
 title: 予約確認 (yoyaku kakunin)
 ---
 
-**予約確認** *(yoyaku kakunin)*
-
 "予約確認" refers to verifying reservation details such as name, date, and room type. This step prevents errors and ensures smooth service. It is often done during check-in using polite expressions. Accuracy is very important.
 
 ---

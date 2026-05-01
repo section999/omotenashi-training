@@ -4,8 +4,6 @@ section: 34
 title: 案内図 (annaizu)
 ---
 
-**案内図** *(annaizu)*
-
 "案内図" is a guide map for the building, floor, or facility. Staff provide it for navigation, showing exits, restrooms, or rooms. Guests rely on it for easy orientation. Clear labeling improves guest experience.
 
 *Example: ロビーに案内図がございます。* (There is a guide map in the lobby.)

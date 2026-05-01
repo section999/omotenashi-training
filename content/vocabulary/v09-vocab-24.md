@@ -4,8 +4,6 @@ section: 24
 title: 確定 (kakutei)
 ---
 
-**確定** *(kakutei)*
-
 "確定" shows that a reservation is finalized and guaranteed. Staff use this status to allocate rooms and resources confidently. Guests may require confirmation numbers or documents as proof. Accurate confirmation avoids double bookings and ensures smooth check-in.
 
 *Example: ご予約は確定しております。* (Your reservation is confirmed.)

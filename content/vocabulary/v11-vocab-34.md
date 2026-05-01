@@ -4,8 +4,6 @@ section: 34
 title: 案内します (annai shimasu)
 ---
 
-**案内します** *(annai shimasu)*
-
 "案内します" is used when a staff member guides a guest to a location or service. Polite and professional phrasing is essential. Clear guidance prevents confusion and ensures efficiency. Often used in lobbies or facility tours.
 
 *Example: ロビーまでご案内します。* (I will guide you to the lobby.)

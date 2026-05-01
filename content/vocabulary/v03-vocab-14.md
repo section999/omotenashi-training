@@ -4,8 +4,6 @@ section: 14
 title: バスタオル (bath towel)
 ---
 
-**バスタオル** *(basu taoru)*
-
 "バスタオル" is a large towel used after bathing. Guests may request extra. Staff must provide quickly and politely.
 
 ---
@@ -16,7 +14,7 @@ title: バスタオル (bath towel)
 
 - A. バスタオルをご用意いたしました (we have prepared a bath towel)
 - B. バスタオルありません (there are no bath towels)
-- C. バスタオル自分で (get bath towel yourself)
+- C. バスタオルはただいま在庫確認中でございます (bath towels are currently being checked)
 - D. バスタオルどうぞ (here is a bath towel)
 
 **Correct Answer:** バスタオルをご用意いたしました (we have prepared a bath towel)

@@ -4,8 +4,6 @@ section: 15
 title: 領収書 (ryoushusho)
 ---
 
-**領収書** *(ryōshūsho)*
-
 "領収書" is a receipt given after payment. It is especially important for business travelers. Staff should confirm if the guest needs one. It should be issued accurately.
 
 ---

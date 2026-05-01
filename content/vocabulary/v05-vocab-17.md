@@ -4,8 +4,6 @@ section: 17
 title: 禁煙席 (kin'en seki)
 ---
 
-**禁煙席** *(kin'en seki)*
-
 "禁煙席" refers to non-smoking seating areas. Many hotels prioritize these areas for comfort and health reasons.
 
 Staff should confirm guest preferences when seating them.

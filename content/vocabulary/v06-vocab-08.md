@@ -4,8 +4,6 @@ section: 8
 title: 騒音 (souon)
 ---
 
-**騒音** *(souon)*
-
 "騒音" refers to noise disturbances that may affect guest comfort. It can come from other rooms, outside, or facilities. Staff should respond promptly and investigate. Managing noise is essential for a comfortable stay.
 
 ---

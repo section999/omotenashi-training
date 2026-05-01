@@ -4,8 +4,6 @@ section: 16
 title: 回線 (kaisen)
 ---
 
-**回線** *(kaisen)*
-
 "回線" refers to the telephone or internet line used for communication. Staff must ensure lines are functioning properly to avoid disruptions. Guests rely on stable lines for inquiries or emergency calls. Proper maintenance prevents delays and confusion.
 
 *Example: この部屋の回線は高速です。* (The line in this room is high-speed.)

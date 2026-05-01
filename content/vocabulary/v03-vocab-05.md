@@ -4,8 +4,6 @@ section: 5
 title: ツインルーム (twin room)
 ---
 
-**ツインルーム** *(tsuin rūmu)*
-
 A twin room has two separate beds, ideal for friends or colleagues. Staff confirm this during check-in to match guest preferences. Correct room assignment ensures guest satisfaction.
 
 ---

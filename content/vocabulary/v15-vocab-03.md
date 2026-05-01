@@ -4,8 +4,6 @@ section: 3
 title: 乾燥 (kansou)
 ---
 
-## 乾燥 (かんそう · kansou)
-
 **Meaning:** drying
 
 乾燥 refers to removing moisture from washed items, typically using a dryer or hanging clothes to air dry. Proper 乾燥 prevents mold and unpleasant odors. Travelers often combine 洗濯 and 乾燥 for complete laundry care.

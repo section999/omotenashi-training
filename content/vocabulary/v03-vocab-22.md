@@ -4,8 +4,6 @@ section: 22
 title: 金庫 (kinko)
 ---
 
-**金庫** *(kinko)*
-
 "金庫" means safe, used to store valuables securely. Staff must explain its operation, location, and any restrictions. Proper guidance reassures guests about safety. Miscommunication may cause frustration or security issues.
 
 ---

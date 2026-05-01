@@ -4,8 +4,6 @@ section: 38
 title: 受付時間 (uketsuke jikan)
 ---
 
-**受付時間** *(uketsuke jikan)*
-
 "受付時間" indicates the hours when the front desk is available for check-in, inquiries, and assistance. Staff must communicate this clearly to guests. Accurate reception hours prevent confusion and ensure smooth service. Guests appreciate knowing when support is available.
 
 *Example: 受付時間は午前7時から午後10時までです。* (Reception hours are from 7 AM to 10 PM.)

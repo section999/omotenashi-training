@@ -4,8 +4,6 @@ section: 22
 title: 交換希望 (koukan kibou)
 ---
 
-**交換希望** *(koukan kibou)*
-
 "交換希望" means a request for replacement, such as changing items or rooms. Staff should confirm reasons and respond appropriately. Proper handling improves satisfaction. Flexibility is important.
 
 ---

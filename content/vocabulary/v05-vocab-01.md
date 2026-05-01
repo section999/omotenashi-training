@@ -4,8 +4,6 @@ section: 1
 title: レストラン (resutoran)
 ---
 
-**レストラン** *(resutoran)*
-
 "レストラン" refers to a dining facility where guests can enjoy meals and beverages. In hotels, it can range from casual dining to fine dining. Staff should be able to guide guests, explain services, and ensure a comfortable dining experience.
 
 It is also important to inform guests about operating hours, dress codes, and available cuisines. Clear communication helps avoid confusion and enhances satisfaction.
@@ -17,9 +15,9 @@ It is also important to inform guests about operating hours, dress codes, and av
 **A guest asks: "Where can I eat in the hotel?"**
 
 - A. レストランはこちらでございます (the restaurant is here)
-- B. 食べません (will not eat)
-- C. レストランない (no restaurant)
-- D. 自分で探してください (please find it yourself)
+- B. ただいまレストランは準備中でございます (the restaurant is currently being prepared)
+- C. 本日は満席でございます (we are fully booked today)
+- D. レストランは外にございます (the restaurant is outside)
 
 **Correct Answer:** レストランはこちらでございます (the restaurant is here)
 

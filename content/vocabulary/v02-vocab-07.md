@@ -4,8 +4,6 @@ section: 7
 title: 空室 (kuushitsu)
 ---
 
-**空室** *(kuushitsu)*
-
 "空室" means vacant rooms available for booking. It is commonly used when responding to walk-in guests. Staff should provide clear and polite information about availability. It is often combined with numbers or quantities.
 
 ---

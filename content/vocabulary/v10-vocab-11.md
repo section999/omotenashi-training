@@ -4,8 +4,6 @@ section: 11
 title: 明細書 (meisaisho)
 ---
 
-**明細書** *(meisaisho)*
-
 "明細書" is a detailed financial statement for services used. Staff provide this to help guests or companies verify charges. It lists amounts, dates, and service details. Statements prevent disputes and aid accounting.
 
 *Example: ご希望であれば明細書をお渡しします。* (We can provide a statement if you wish.)

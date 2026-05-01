@@ -4,8 +4,6 @@ section: 9
 title: 人数 (ninzuu)
 ---
 
-**人数** *(ninzuu)*
-
 "人数" refers to the total number of guests in the reservation. Staff use it to assign rooms, beds, and prepare meals. Correct information is crucial for safety, billing, and service planning. Guests often provide 人数 during booking or check-in.
 
 *Example: 人数は大人2名、子供1名です。* (The number of people is 2 adults and 1 child.)

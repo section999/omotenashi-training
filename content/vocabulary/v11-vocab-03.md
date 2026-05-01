@@ -4,8 +4,6 @@ section: 3
 title: 外線 (gaisen)
 ---
 
-**外線** *(gaisen)*
-
 "外線" refers to calls made outside the hotel or organization. Staff need to access outside lines for guest calls or business purposes. Proper handling ensures security and accurate billing. Guests rely on it to reach external contacts efficiently.
 
 *Example: 外線は0を押してから番号を入力してください。* (Press 0 before dialing an outside line.)

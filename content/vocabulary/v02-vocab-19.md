@@ -4,8 +4,6 @@ section: 19
 title: デポジット (deposit)
 ---
 
-**デポジット** *(dejitto)*
-
 "デポジット" refers to a deposit held during the guest's stay. It is used to cover possible additional charges. It is usually refunded after check-out if unused. Staff must explain this clearly to avoid misunderstandings.
 
 ---

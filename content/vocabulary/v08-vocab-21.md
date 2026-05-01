@@ -4,8 +4,6 @@ section: 21
 title: 近くに (chikaku ni)
 ---
 
-**近くに** *(chikaku ni)*
-
 "近くに" means nearby or close to a location. Staff use it to indicate proximity to hotels, attractions, or stations. It helps guests find restaurants, shops, or transportation efficiently. Clear instructions improve satisfaction and convenience.
 
 *Example: コンビニはホテルの近くにございます。* (There is a convenience store near the hotel.)

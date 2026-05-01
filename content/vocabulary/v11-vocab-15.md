@@ -4,8 +4,6 @@ section: 15
 title: 通話中 (tsuuwachuu)
 ---
 
-**通話中** *(tsuuwachuu)*
-
 "通話中" indicates that the line is currently occupied. Staff must inform callers politely. Guests expect to be notified rather than left waiting. Managing busy lines maintains smooth communication.
 
 *Example: ただいま通話中です。* (The line is currently busy.)

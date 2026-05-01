@@ -4,8 +4,6 @@ section: 5
 title: 出発日 (shuppatsu bi)
 ---
 
-**出発日** *(shuppatsu bi)*
-
 "出発日" refers to the day the guest leaves the hotel. Staff plan housekeeping, check-out procedures, and billing based on this date. It is also essential for scheduling late check-outs or room turnovers for incoming guests. Proper management ensures smooth transitions and avoids guest complaints.
 
 *Example: 出発日は4月12日です。* (The departure date is April 12.)

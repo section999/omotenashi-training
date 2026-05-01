@@ -4,8 +4,6 @@ section: 6
 title: シーツ交換 (shiitsu koukan)
 ---
 
-**シーツ交換** *(shiitsu koukan)*
-
 "シーツ交換" refers to changing bed sheets. Hotels perform this regularly or upon guest request. Proper handling ensures hygiene and prevents discomfort. Staff should confirm if guests want extra or immediate changes.
 
 ---

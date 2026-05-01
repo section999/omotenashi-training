@@ -4,8 +4,6 @@ section: 8
 title: 何泊 (nanpaku)
 ---
 
-**何泊** *(nanpaku)*
-
 "何泊" shows how many nights a guest is staying, which may differ from total days if check-in or check-out spans partial days. Staff calculate rates, meals, and extra charges based on this. It is crucial for group bookings or extended stays. Proper explanation ensures guests understand how charges are applied.
 
 *Example: 今回の予約は2泊です。* (This reservation is for 2 nights.)

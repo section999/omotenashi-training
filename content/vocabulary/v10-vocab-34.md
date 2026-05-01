@@ -4,8 +4,6 @@ section: 34
 title: 電子決済 (denshi kessai)
 ---
 
-**電子決済** *(denshi kessai)*
-
 "電子決済" refers to payments via apps, cards, or digital wallets. Staff must ensure secure processing. Guests prefer electronic payment for convenience and speed. Correct handling avoids fraud or technical issues.
 
 *Example: 電子決済はスマホで可能です。* (Electronic payment is available via smartphone.)

@@ -4,8 +4,6 @@ section: 32
 title: 日本語対応 (nihongo taiou)
 ---
 
-**日本語対応** *(nihongo taiou)*
-
 "日本語対応" indicates staff can assist in Japanese. Important for domestic guests or when verifying documentation. Ensures clear and accurate communication.
 
 *Example: 日本語対応可能です。* (We can assist you in Japanese.)

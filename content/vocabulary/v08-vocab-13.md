@@ -4,8 +4,6 @@ section: 13
 title: 奥 (oku)
 ---
 
-**奥** *(oku)*
-
 "奥" means "back" or "inside" and indicates a location further within a room or area. Staff often use it to direct guests to deeper sections of shops, restaurants, or halls. Clear explanation prevents confusion in large spaces. Properly using "奥" enhances guest navigation.
 
 *Example: レストランのトイレは奥にございます。* (The restroom is at the back of the restaurant.)

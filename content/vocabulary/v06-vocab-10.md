@@ -4,8 +4,6 @@ section: 10
 title: 暑い (atsui)
 ---
 
-**暑い** *(atsui)*
-
 "暑い" means hot and is used when guests feel uncomfortable due to temperature. Staff should check air conditioning and offer solutions. Adjusting room temperature improves comfort. Quick response is important.
 
 ---

@@ -4,8 +4,6 @@ section: 22
 title: 使用禁止 (shiyou kinshi)
 ---
 
-## 使用禁止 (しようきんし · shiyou kinshi)
-
 **Meaning:** do not use
 
 使用禁止 warns that a device, facility, or area must not be used due to safety or operational reasons. Staff must place clear warnings and inform guests verbally if necessary. Ignoring these warnings can result in injury or damage. Compliance ensures safety for both guests and staff.

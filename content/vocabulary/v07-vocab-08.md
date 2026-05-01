@@ -4,8 +4,6 @@ section: 8
 title: 営業時間 (eigyou jikan)
 ---
 
-**営業時間** *(eigyou jikan)*
-
 "営業時間" refers to business hours, indicating when a facility or service is available. This is crucial information for restaurants, spas, and hotel services.
 
 Staff must provide accurate and up-to-date hours to avoid inconvenience. Clearly explaining opening and closing times helps guests plan their activities efficiently and prevents complaints.

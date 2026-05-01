@@ -4,8 +4,6 @@ section: 12
 title: おすすめ (osusume)
 ---
 
-## おすすめ (おすすめ · osusume)
-
 **Meaning:** recommendation
 
 おすすめ is a suggestion or advice given to tourists about places, food, or activities. Recommendations enhance the travel experience. Staff often share おすすめ to highlight local attractions or services. Personalised suggestions increase satisfaction.

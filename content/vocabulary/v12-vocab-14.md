@@ -4,8 +4,6 @@ section: 14
 title: 病気 (byouki)
 ---
 
-## 病気 (びょうき · byouki)
-
 **Meaning:** illness
 
 病気 refers to physical or mental conditions that impair normal health. Staff should assist guests in seeking medical care or calling a doctor. Awareness of symptoms and proper response prevents escalation. Clear communication ensures comfort and timely treatment.

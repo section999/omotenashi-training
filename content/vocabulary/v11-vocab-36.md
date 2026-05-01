@@ -4,8 +4,6 @@ section: 36
 title: 理解しました (rikai shimashita)
 ---
 
-**理解しました** *(rikai shimashita)*
-
 "理解しました" confirms that a staff member comprehends information. Polite acknowledgment reassures guests. Accurate understanding prevents errors. Staff must respond appropriately in conversations.
 
 *Example: 内容を理解しました。* (I understood the content.)

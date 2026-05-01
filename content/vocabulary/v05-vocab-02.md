@@ -4,8 +4,6 @@ section: 2
 title: 朝食 (choushoku)
 ---
 
-**朝食** *(choushoku)*
-
 "朝食" means breakfast, typically served in the morning. Hotels may offer buffet-style or set meals. Staff should inform guests about the time, location, and whether it is included in their stay.
 
 Breakfast service is important as it often shapes the guest's first impression of the day.

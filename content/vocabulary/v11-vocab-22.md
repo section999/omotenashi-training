@@ -4,8 +4,6 @@ section: 22
 title: お問い合わせ (otoiawase)
 ---
 
-**お問い合わせ** *(otoiawase)*
-
 "お問い合わせ" is used for questions or requests from guests. Staff should respond clearly and politely. It includes calls, emails, or messages. Efficient handling improves guest trust and satisfaction.
 
 *Example: お問い合わせありがとうございます。* (Thank you for your inquiry.)

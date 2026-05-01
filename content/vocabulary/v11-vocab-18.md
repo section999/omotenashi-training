@@ -4,8 +4,6 @@ section: 18
 title: 接続不良 (setsuzoku furyou)
 ---
 
-**接続不良** *(setsuzoku furyou)*
-
 "接続不良" indicates a weak or failed connection. Staff must troubleshoot and resolve promptly. Guests expect stable calls, especially for important matters. Proper handling minimizes frustration.
 
 *Example: 接続不良で通話が途切れました。* (The call was interrupted due to poor connection.)

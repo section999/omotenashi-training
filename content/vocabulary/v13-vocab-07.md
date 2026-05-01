@@ -4,8 +4,6 @@ section: 7
 title: 出勤 (shukkin)
 ---
 
-## 出勤 (しゅっきん · shukkin)
-
 **Meaning:** going to work
 
 出勤 refers to arriving at the workplace to start one's duties. Punctual attendance is crucial in maintaining operational efficiency. Proper recording of arrival times ensures accountability. Employees often check in at the start of each shift or workday.

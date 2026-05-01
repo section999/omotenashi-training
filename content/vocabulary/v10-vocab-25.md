@@ -4,8 +4,6 @@ section: 25
 title: 外貨 (gaika)
 ---
 
-**外貨** *(gaika)*
-
 "外貨" refers to money from a foreign country. Staff must exchange and process accurately. Guests often request currency for travel or payment. Proper handling avoids errors and ensures satisfaction.
 
 *Example: 外貨での支払いも可能です。* (Payment in foreign currency is also possible.)

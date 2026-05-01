@@ -4,8 +4,6 @@ section: 27
 title: 両替 (ryougae)
 ---
 
-**両替** *(ryougae)*
-
 "両替" is exchanging one currency for another. Staff must check authenticity and provide correct amounts. Guests may need small bills or coins for convenience. Proper service improves satisfaction.
 
 *Example: 円をドルに両替してください。* (Please exchange yen to dollars.)

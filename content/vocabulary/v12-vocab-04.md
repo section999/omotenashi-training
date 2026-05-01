@@ -4,8 +4,6 @@ section: 4
 title: 避難 (hinan)
 ---
 
-## 避難 (ひなん · hinan)
-
 **Meaning:** evacuation
 
 避難 is the act of moving people to a safe location to protect them from danger. It is essential during fires, earthquakes, floods, or other emergencies. Staff must guide guests calmly and efficiently along evacuation routes. Clear signage, announcements, and practice drills improve safety outcomes.

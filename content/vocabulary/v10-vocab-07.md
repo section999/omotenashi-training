@@ -4,8 +4,6 @@ section: 7
 title: 合計 (goukei)
 ---
 
-**合計** *(goukei)*
-
 "合計" refers to the sum of all charges, including services, taxes, and additional fees. Staff must display this clearly to avoid misunderstandings. Guests rely on this to confirm their payment amount. Correct calculation enhances trust and transparency.
 
 *Example: 合計金額は15,000円です。* (The total amount is 15,000 yen.)

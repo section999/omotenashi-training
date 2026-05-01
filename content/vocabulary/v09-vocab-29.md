@@ -4,8 +4,6 @@ section: 29
 title: 短縮 (tanshuku)
 ---
 
-**短縮** *(tanshuku)*
-
 "短縮" indicates reducing the number of nights in a stay. Staff adjust reservations, charges, and services accordingly. Guests must be informed about cancellation fees or changes in rates. Proper handling avoids complaints and maintains smooth operations.
 
 *Example: 滞在を1泊短縮します。* (We will shorten the stay by one night.)

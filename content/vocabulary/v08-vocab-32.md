@@ -4,8 +4,6 @@ section: 32
 title: 外 (soto)
 ---
 
-**外** *(soto)*
-
 "外" refers to outside a building or room. Staff use it to indicate entrances, parking, or outdoor amenities. Proper explanation prevents guests from entering the wrong area. Combining with landmarks improves clarity.
 
 *Example: 喫煙所は建物の外にございます。* (The smoking area is outside the building.)
