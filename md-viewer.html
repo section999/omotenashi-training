@@ -82,7 +82,7 @@
 
     /* NAV */
     .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 60px; background: #0a0a23; backdrop-filter: blur(16px); }
-    .nav-inner { max-width: 1200px; margin: 0 auto; padding: 0 32px; height: 100%; display: flex; align-items: center; justify-content: space-between; position: relative; }
+    .nav-inner { max-width: 100%; padding: 0 32px; height: 100%; display: flex; align-items: center; justify-content: space-between; position: relative; }
     .logo-small { display: none; }
     @media (max-width: 640px) {
       .nav-inner { padding: 0 16px; }
@@ -329,7 +329,7 @@
     <div class="nav-search-wrap">
       <div class="nav-search">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off" />
+        <input type="text" id="navSearchInput" name="navSearch" placeholder="Search vocabulary and lessons" autocomplete="off" />
       </div>
       <div id="navSearchDrop" class="nav-search-drop"></div>
     </div>
@@ -346,12 +346,39 @@
           <a href="index.html">Main</a>
           <a href="curriculum.html">Curriculum</a>
           <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+          <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
           <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
         </div>
       </div>
     </div>
   </div>
 </nav>
+
+<!-- SIGN-IN MODAL -->
+<div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;">
+  <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:12px;padding:40px 36px;max-width:400px;width:90%;position:relative;">
+    <button onclick="closeSignInModal()" style="position:absolute;top:14px;right:18px;background:none;border:none;color:var(--text-secondary);font-size:1.25rem;cursor:pointer;line-height:1;">✕</button>
+    <h2 style="font-size:1.15rem;font-weight:700;margin-bottom:6px;">Save your progress</h2>
+    <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:24px;">Enter your name to track completed lessons. Progress is stored locally in your browser.</p>
+    <label style="font-size:0.8rem;color:var(--text-secondary);display:block;margin-bottom:6px;">Your name</label>
+    <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
+      style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
+      onkeydown="if(event.key==='Enter')submitSignIn()" />
+    <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
+      Start Learning
+    </button>
+    <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
+    <p style="font-size:0.78rem;color:var(--text-muted);margin-bottom:10px;">Progress is saved in this browser only. Use export/import to move it across devices.</p>
+    <div style="display:flex;gap:8px;">
+      <button onclick="exportProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
+        Export Progress
+      </button>
+      <button onclick="importProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
+        Import Progress
+      </button>
+    </div>
+  </div>
+</div>
 
 <div id="jp-toast">🔊 <span id="jp-toast-text"></span></div>
 

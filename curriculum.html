@@ -51,7 +51,7 @@
       background: var(--bg-primary);
     }
     .nav-inner {
-      max-width: 1200px; margin: 0 auto; padding: 0 32px;
+      max-width: 100%; padding: 0 32px;
       height: 100%; display: flex; align-items: center;
       justify-content: space-between; position: relative;
     }
@@ -536,7 +536,7 @@
       <div class="nav-search-wrap">
         <div class="nav-search">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-          <input type="text" id="navSearchInput" name="navSearch" placeholder="Search phrases..." autocomplete="off" />
+          <input type="text" id="navSearchInput" name="navSearch" placeholder="Search vocabulary and lessons" autocomplete="off" />
         </div>
         <div id="navSearchDrop" class="nav-search-drop"></div>
       </div>
@@ -553,6 +553,7 @@
             <a href="index.html">Main</a>
             <a href="curriculum.html">Curriculum</a>
             <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+            <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
             <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
           </div>
         </div>
@@ -581,18 +582,6 @@
     </div>
   </header>
 
-  <!-- SIGN-IN BANNER -->
-  <div id="signin-banner" style="background:var(--bg-primary);border-bottom:1px solid var(--border-default);">
-    <div style="max-width:860px;margin:0 auto;padding:14px 32px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
-      <span id="banner-text" style="flex:1;font-size:0.9rem;color:var(--text-secondary);">
-        Start tracking your progress today — no account needed
-      </span>
-      <button id="banner-btn" onclick="openSignInModal()" style="background:var(--accent-yellow);color:#0a0a23;border:none;border-radius:6px;padding:8px 20px;font-size:0.875rem;font-weight:600;cursor:pointer;white-space:nowrap;">
-        Save Progress
-      </button>
-    </div>
-  </div>
-
   <!-- SIGN-IN MODAL -->
   <div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;">
     <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:12px;padding:40px 36px;max-width:400px;width:90%;position:relative;">
@@ -616,15 +605,6 @@
           Import Progress
         </button>
       </div>
-    </div>
-  </div>
-
-  <!-- SRS REVIEW PANEL -->
-  <div id="srs-panel" style="display:none;background:var(--bg-primary);border-bottom:1px solid var(--border-default);">
-    <div style="max-width:860px;margin:0 auto;padding:12px 32px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-      <span style="font-size:1.1rem;">🔁</span>
-      <span id="srs-text" style="color:var(--text-secondary);font-size:0.9rem;margin-right:4px;"></span>
-      <div id="srs-links" style="display:flex;gap:6px;flex-wrap:wrap;"></div>
     </div>
   </div>
 
@@ -2075,112 +2055,6 @@
     });
 
 
-    // ── SIGN-IN ────────────────────────────────────────────────────────────────
-    function openSignInModal() {
-      const modal = document.getElementById('signin-modal');
-      document.getElementById('signin-name').value = '';
-      modal.style.display = 'flex';
-      setTimeout(() => document.getElementById('signin-name').focus(), 50);
-    }
-    function closeSignInModal() {
-      document.getElementById('signin-modal').style.display = 'none';
-    }
-    function submitSignIn() {
-      const input = document.getElementById('signin-name');
-      const name = input.value.trim();
-      if (!name) {
-        input.style.borderColor = '#c5442a';
-        input.style.animation = 'shake 0.3s ease';
-        setTimeout(() => { input.style.animation = ''; input.style.borderColor = ''; }, 400);
-        return;
-      }
-      localStorage.setItem('omotenashi:user:name', name);
-      updateBanner(name);
-      closeSignInModal();
-    }
-    function signOut() {
-      localStorage.removeItem('omotenashi:user:name');
-      updateBanner(null);
-    }
-    function updateBanner(name) {
-      const text = document.getElementById('banner-text');
-      const btn  = document.getElementById('banner-btn');
-      if (name) {
-        const safeName = name.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-        text.innerHTML = '<span style="color:#fff;">Hi, <strong>' + safeName + '</strong></span>';
-        btn.textContent = 'Not you?';
-        btn.onclick = signOut;
-        btn.style.background = 'transparent';
-        btn.style.border = '1px solid var(--border-default)';
-        btn.style.color = 'var(--text-secondary)';
-      } else {
-        text.textContent = "Start tracking your progress today — no account needed";
-        btn.textContent = 'Save Progress';
-        btn.onclick = openSignInModal;
-        btn.style.background = '#0a84ff';
-        btn.style.border = 'none';
-        btn.style.color = '#fff';
-      }
-    }
-    // Close modal on backdrop click
-    document.getElementById('signin-modal').addEventListener('click', function(e) {
-      if (e.target === this) closeSignInModal();
-    });
-    // Close modal on Escape key
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape' && document.getElementById('signin-modal').style.display === 'flex') {
-        closeSignInModal();
-      }
-    });
-    // Focus trap inside modal
-    document.getElementById('signin-modal').addEventListener('keydown', function(e) {
-      if (e.key !== 'Tab') return;
-      const focusable = this.querySelectorAll('button, input');
-      const first = focusable[0];
-      const last = focusable[focusable.length - 1];
-      if (e.shiftKey) {
-        if (document.activeElement === first) { e.preventDefault(); last.focus(); }
-      } else {
-        if (document.activeElement === last) { e.preventDefault(); first.focus(); }
-      }
-    });
-    // Init banner from localStorage
-    (function() {
-      const name = localStorage.getItem('omotenashi:user:name');
-      if (name) updateBanner(name);
-    })();
-
-    // ── SRS REVIEW PANEL ──────────────────────────────────────────────────────
-    (function() {
-      const now = Date.now();
-      const due = [];
-      for (let i = 0; i < localStorage.length; i++) {
-        const k = localStorage.key(i);
-        if (!k || !k.startsWith('omotenashi:srs:')) continue;
-        try {
-          const d = JSON.parse(localStorage.getItem(k));
-          if (d && d.nextReview && d.nextReview <= now) {
-            due.push(k.replace('omotenashi:srs:', ''));
-          }
-        } catch(e) {}
-      }
-      if (!due.length) return;
-      const panel = document.getElementById('srs-panel');
-      const text  = document.getElementById('srs-text');
-      const linksEl = document.getElementById('srs-links');
-      if (!panel || !text || !linksEl) return;
-      text.textContent = due.length + ' lesson' + (due.length > 1 ? 's' : '') + ' ready for review:';
-      due.forEach((f, i) => {
-        const a = document.createElement('a');
-        a.href = 'md-viewer.html?file=' + encodeURIComponent(f);
-        a.textContent = '#' + (i + 1);
-        a.title = f.replace(/^content\//, '').replace(/\.md$/, '');
-        a.style.cssText = 'background:var(--accent-yellow);color:#0a0a23;padding:5px 12px;border-radius:4px;font-size:0.8rem;font-weight:700;text-decoration:none;white-space:nowrap;';
-        linksEl.appendChild(a);
-      });
-      panel.style.display = 'block';
-    })();
-
     // ── COURSE SEARCH ─────────────────────────────────────────────────────────
     function searchCurriculum(q) {
       q = q.trim().toLowerCase();
@@ -2203,46 +2077,6 @@
         const hasVisible = [...l1.querySelectorAll('.tree-l2')].some(s => s.style.display !== 'none');
         l1.style.display = hasVisible ? '' : 'none';
       });
-    }
-
-    // ── EXPORT / IMPORT PROGRESS ──────────────────────────────────────────────
-    function exportProgress() {
-      const data = {};
-      for (let i = 0; i < localStorage.length; i++) {
-        const k = localStorage.key(i);
-        if (k && k.startsWith('omotenashi:')) data[k] = localStorage.getItem(k);
-      }
-      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = 'omotenashi-progress-' + new Date().toISOString().slice(0, 10) + '.json';
-      a.click();
-      URL.revokeObjectURL(a.href);
-    }
-    function importProgress() {
-      const input = document.createElement('input');
-      input.type = 'file';
-      input.accept = '.json';
-      input.onchange = e => {
-        const file = e.target.files[0];
-        if (!file) return;
-        const reader = new FileReader();
-        reader.onload = ev => {
-          try {
-            const data = JSON.parse(ev.target.result);
-            let count = 0;
-            for (const [k, v] of Object.entries(data)) {
-              if (k.startsWith('omotenashi:')) { localStorage.setItem(k, v); count++; }
-            }
-            alert('Imported ' + count + ' entries. Refreshing...');
-            location.reload();
-          } catch(err) {
-            alert('Invalid file. Please select a valid progress export.');
-          }
-        };
-        reader.readAsText(file);
-      };
-      input.click();
     }
 
     // Dark / Light mode toggle
