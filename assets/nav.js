@@ -138,13 +138,8 @@ function updateBanner(name) {
     btn.style.background = 'transparent';
     btn.style.border = '1px solid var(--border-default)';
     btn.style.color = 'var(--text-secondary)';
-  } else {
-    text.textContent = "Start tracking your progress today — no account needed";
-    btn.textContent = 'Save Progress';
-    btn.onclick = openSignInModal;
-    btn.style.background = 'var(--accent-blue)';
-    btn.style.border = 'none';
-    btn.style.color = '#fff';
+    text.style.display = 'inline';
+    btn.style.display = 'inline-block';
   }
 }
 function exportProgress() {

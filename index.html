@@ -349,8 +349,8 @@
       transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
     }
     .btn-hero-secondary:hover {
-      background: rgba(var(--accent-blue-rgb),0.08);
-      box-shadow: 0 0 0 4px rgba(var(--accent-blue-rgb),.15);
+      background: rgba(241,190,50,0.08);
+      box-shadow: 0 0 0 4px rgba(241,190,50,.15);
       transform: translateY(-2px);
     }
 
@@ -665,7 +665,7 @@
       border: 1px solid;
     }
     .pillar-icon.yellow { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
-    .pillar-icon.blue   { background: rgba(var(--accent-blue-rgb),.1); border-color: rgba(var(--accent-blue-rgb),.3); }
+    .pillar-icon.blue   { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
     .pillar-icon.green  { background: rgba(31,173,105,.1); border-color: rgba(31,173,105,.3); }
     .pillar-icon.purple { background: rgba(155,89,182,.1); border-color: rgba(155,89,182,.3); }
     .pillar-text-title {
@@ -731,7 +731,7 @@
       inset: 0;
       background:
         radial-gradient(ellipse 70% 80% at 50% 50%, rgba(241,190,50,0.07) 0%, transparent 70%),
-        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(var(--accent-blue-rgb),0.06) 0%, transparent 60%);
+        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(241,190,50,0.06) 0%, transparent 60%);
     }
     .cta-inner {
       position: relative;
@@ -913,6 +913,8 @@
         <img class="logo-small" src="assets/fcc_primary_small.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
       </a>
       <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
+        <span id="banner-text" style="display:none;font-size:0.78rem;color:var(--text-muted);white-space:nowrap;"></span>
+        <button id="banner-btn" style="display:none;padding:5px 10px;border-radius:4px;font-size:0.72rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;"></button>
         <div class="nav-menu-wrap">
           <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
             <span></span><span></span><span></span>
@@ -1058,8 +1060,6 @@
         : 'var(--border-default)';
     }, { passive: true });
 
-    // Scroll to top
-    document.getElementById('scrollTop')?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   </script>
 <script src="assets/search.js"></script>
 <script src="assets/nav.js"></script>
