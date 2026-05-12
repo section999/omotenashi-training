@@ -4,7 +4,7 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="icon" type="image/png" href="assets/favicon-32x32.png"/>
-  <title>Flashcard — Omotenashi Training</title>
+  <title>Vocabulary Practice — Omotenashi Training</title>
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
@@ -121,7 +121,7 @@
     .dict-input:disabled { opacity:0.5; }
     .dict-result { font-size:0.92rem; line-height:1.6; text-align:center; min-height:2.5em; }
     .dict-result .answer { font-size:1.4rem; font-weight:700; color:var(--accent-yellow); margin-top:6px; }
-    .dict-actions { display:flex; gap:10px; }
+    .dict-actions { display:flex; gap:10px; justify-content:center; margin-bottom:10px; }
     .dict-btn { padding:9px 24px; border-radius:6px; font-size:0.9rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; font-family:inherit; }
     .dict-btn:disabled { opacity:0.3; cursor:default; }
     .dict-btn-check { background:var(--accent-blue); color:#fff; border:1px solid var(--accent-blue); }
@@ -376,7 +376,7 @@ let autoAdvTimer = null;
 let setupDir = 'jp-en';
 let setupOrder = 'shuffle';
 let setupMode = 'flashcard';
-let setupAutoPlay = true;
+
 let currentCardData = null;
 
 // ── SWIPE ────────────────────────────────────────────────────────────────────
@@ -427,7 +427,7 @@ function showSetupScreen(preGroup) {
   const known = allKnownCount();
   const pct = Math.round((known / ALL_FILES.length) * 100);
   document.getElementById('mainContent').innerHTML =
-    '<div class="setup-title">Flashcard</div>' +
+    '<div class="setup-title">Vocabulary Practice</div>' +
     '<div class="setup-card">' +
       '<div class="setup-row">' +
         '<label class="setup-label" for="setupGroup">Topic</label>' +
@@ -450,7 +450,7 @@ function showSetupScreen(preGroup) {
       '<div class="setup-row">' +
         '<label class="setup-label">Mode</label>' +
         '<div class="tog-group">' +
-          '<button class="tog-btn' + (setupMode==='flashcard'?' active':'') + '" id="togFlashcard" onclick="setMode(\'flashcard\')">Flashcard</button>' +
+          '<button class="tog-btn' + (setupMode==='flashcard'?' active':'') + '" id="togFlashcard" onclick="setMode(\'flashcard\')">Vocabulary</button>' +
           '<button class="tog-btn' + (setupMode==='dictation'?' active':'') + '" id="togDictation" onclick="setMode(\'dictation\')">Dictation</button>' +
         '</div>' +
       '</div>' +
@@ -492,7 +492,7 @@ function startSession() {
   const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
   session = {
     roundFiles: [], queueIdx: 0, round: 1,
-    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group, mode: setupMode, autoPlay: setupAutoPlay }
+    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group, mode: setupMode }
   };
   showCardScreen();
   startRound(files, 1);
@@ -536,16 +536,16 @@ function showCardScreen() {
               '<input type="text" class="dict-input" id="dictInput" placeholder="Type in Japanese…" autocomplete="off" ' +
                 'onkeydown="if(event.key===\'Enter\'&&!this.disabled)checkDictation()" />' +
               '<div class="dict-result" id="dictResult"></div>' +
-              '<div class="dict-actions">' +
-                '<button class="dict-btn dict-btn-check" id="dictCheckBtn" onclick="checkDictation()">Check</button>' +
-                '<button class="dict-btn dict-btn-skip" id="dictSkipBtn" onclick="skipDictation()">Show Answer</button>' +
-              '</div>' +
             '</div>'
           : '<div style="color:var(--text-muted);font-size:0.85rem;">Loading…</div>'
         ) +
       '</div>' +
       (isDictation ? '' : '<div class="cs-face cs-face-back" id="csBack"></div>') +
     '</div>' +
+    (isDictation ? '<div class="dict-actions">' +
+      '<button class="dict-btn dict-btn-check" id="dictCheckBtn" onclick="checkDictation()">Check</button>' +
+      '<button class="dict-btn dict-btn-skip" id="dictSkipBtn" onclick="skipDictation()">Show Answer</button>' +
+    '</div>' : '') +
     '<div class="cs-actions" id="csActions"' + (isDictation ? ' style="display:none"' : '') + '>' +
       '<button class="cs-btn cs-know" id="csKnow" onclick="markCard(\'know\')"' + (isDictation ? ' disabled' : '') + '>Know it</button>' +
       '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')"' + (isDictation ? ' disabled' : '') + '>Still learning</button>' +
@@ -697,10 +697,7 @@ function updateDictationCard(file, data) {
   updateProgressBar();
   prefetch(session.roundFiles[session.queueIdx + 1]);
 
-  // Auto-play audio
-  if (session.settings.autoPlay !== false) {
-    setTimeout(function () { playDictation(); }, 350);
-  }
+
 }
 
 function playDictation() {

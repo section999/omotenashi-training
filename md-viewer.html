@@ -222,7 +222,8 @@
 .pron-retry-msg { font-size:0.82rem; color:var(--accent-yellow); margin-top:4px; animation:fadeIn 0.3s; }
 .pron-meter { display:flex; align-items:center; gap:6px; margin-bottom:3px; }
 .pron-meter-track { flex:1; height:6px; background:rgba(255,255,255,0.08); border-radius:3px; overflow:hidden; }
-.pron-meter-fill { height:100%; border-radius:3px; transition:width 0.4s ease; }
+.pron-meter-fill { height:100%; border-radius:3px; animation:meterGrow 0.5s ease-out both; }
+@keyframes meterGrow { from { width:0 !important; } }
 .pron-summary { font-size:0.78rem; color:var(--text-muted); margin-bottom:6px; }
 .pron-utterance { font-size:0.82rem; color:var(--text-secondary); margin-bottom:5px; padding:4px 8px; background:rgba(255,255,255,0.03); border-radius:4px; word-break:break-all; }
 .pron-details summary::-webkit-details-marker { display:none; }
@@ -493,7 +494,8 @@
       <div class="modal-percent" id="modalPercent"></div>
     </div>
     <div class="modal-footer" style="display:flex;">
-      <a class="modal-btn-next" id="modalNextBtn" href="#">Go to next section <span class="btn-next-sub">(Ctrl + Enter)</span></a>
+      <button class="modal-btn-next" onclick="simTryAgain()" style="flex:1;border-right:1px solid var(--border-default);">🔄 Try Again</button>
+      <a class="modal-btn-next" id="modalNextBtn" href="#" style="flex:1;">Go to next section <span class="btn-next-sub">(Ctrl + Enter)</span></a>
     </div>
   </div>
 </div>
@@ -1249,9 +1251,20 @@ function showModel(qId, a, exp) {
 // ── JAPANESE TTS ──────────────────────────────────────────────────────────────
 let _toastTimer = null;
 let _activeSpeakEl = null;
+let _ttsQueue = [];
+let _ttsPlaying = false;
 
 function speakJapanese(text, el) {
   if (!text) return;
+  _ttsQueue.push({ text, el });
+  if (!_ttsPlaying) _ttsProcessQueue();
+}
+
+function _ttsProcessQueue() {
+  if (!_ttsQueue.length) { _ttsPlaying = false; return; }
+  _ttsPlaying = true;
+  var item = _ttsQueue.shift();
+  var text = item.text, el = item.el;
   speechSynthesis.cancel();
 
   if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); }
@@ -1267,17 +1280,19 @@ function speakJapanese(text, el) {
   setTimeout(() => {
     const utt = new SpeechSynthesisUtterance(text);
     utt.lang = 'ja-JP';
-    utt.rate  = _jaVoiceParams ? _jaVoiceParams.rate  : 0.90;
+    utt.rate  = _jaVoiceParams ? _jaVoiceParams.rate  : 0.85;
     utt.pitch = _jaVoiceParams ? _jaVoiceParams.pitch : 1.0;
     if (_jaVoice) utt.voice = _jaVoice;
 
     utt.onend = () => {
       if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
       _toastTimer = setTimeout(() => toast.classList.remove('show'), 800);
+      _ttsProcessQueue();
     };
     utt.onerror = () => {
       if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
       toast.classList.remove('show');
+      _ttsProcessQueue();
     };
     speechSynthesis.speak(utt);
   }, 50);
@@ -1593,36 +1608,39 @@ function simCloseGuide() {
 // Scored: higher = better quality
 const _JA_VOICE_PRIORITY = [
   // Edge Neural (highest quality — streamed from Microsoft servers)
-  { match: 'Nanami Online (Natural)',  rate: 0.92, pitch: 1.0  },
-  { match: 'Keita Online (Natural)',   rate: 0.92, pitch: 1.0  },
-  { match: 'Aoi Online (Natural)',     rate: 0.92, pitch: 1.0  },
-  { match: 'Daichi Online (Natural)',  rate: 0.92, pitch: 1.0  },
+  { match: 'Nanami Online (Natural)',  rate: 0.85, pitch: 1.0  },
+  { match: 'Keita Online (Natural)',   rate: 0.85, pitch: 1.0  },
+  { match: 'Aoi Online (Natural)',     rate: 0.85, pitch: 1.0  },
+  { match: 'Daichi Online (Natural)',  rate: 0.85, pitch: 1.0  },
   // Chrome desktop — Google Neural
-  { match: 'Google 日本語',            rate: 0.90, pitch: 1.0  },
+  { match: 'Google 日本語',            rate: 0.84, pitch: 1.0  },
   // Edge / Windows standard
-  { match: 'Microsoft Nanami',         rate: 0.90, pitch: 1.02 },
-  { match: 'Microsoft Keita',          rate: 0.90, pitch: 1.0  },
-  { match: 'Microsoft Haruka',         rate: 0.88, pitch: 1.02 },
+  { match: 'Microsoft Nanami',         rate: 0.85, pitch: 1.02 },
+  { match: 'Microsoft Keita',          rate: 0.85, pitch: 1.0  },
+  { match: 'Microsoft Haruka',         rate: 0.84, pitch: 1.02 },
   // macOS / iOS
-  { match: 'Kyoko',                    rate: 0.88, pitch: 1.0  },
-  { match: 'O-ren',                    rate: 0.88, pitch: 1.0  },
-  { match: 'Otoya',                    rate: 0.88, pitch: 1.0  },
+  { match: 'Kyoko',                    rate: 0.83, pitch: 1.0  },
+  { match: 'O-ren',                    rate: 0.83, pitch: 1.0  },
+  { match: 'Otoya',                    rate: 0.83, pitch: 1.0  },
   // Android Chrome
-  { match: 'Google Japanese',          rate: 0.90, pitch: 1.0  },
+  { match: 'Google Japanese',          rate: 0.84, pitch: 1.0  },
 ];
 
 let _jaVoice = null;
-let _jaVoiceParams = { rate: 0.90, pitch: 1.0 };
+let _jaVoiceParams = { rate: 0.85, pitch: 1.0 };
 let _voiceLoadAttempts = 0;
 
 function _loadJaVoice() {
   if (!window.speechSynthesis) return;
-  const voices = speechSynthesis.getVoices();
-  if (!voices.length && _voiceLoadAttempts < 5) {
-    // Voices not ready yet — retry shortly
-    _voiceLoadAttempts++;
-    setTimeout(_loadJaVoice, 250);
-    return;
+  var voices = speechSynthesis.getVoices();
+  // Chrome sometimes returns empty on first call — force reload
+  if (!voices.length || (voices.length === 1 && voices[0].name === 'default')) {
+    if (_voiceLoadAttempts < 8) {
+      _voiceLoadAttempts++;
+      setTimeout(_loadJaVoice, 300);
+      return;
+    }
+    voices = speechSynthesis.getVoices();
   }
   for (const { match, rate, pitch } of _JA_VOICE_PRIORITY) {
     const v = voices.find(v => v.name.includes(match));
@@ -1634,7 +1652,7 @@ function _loadJaVoice() {
   }
   // Fallback: any Japanese voice
   const fallback = voices.find(v => v.lang && v.lang.startsWith('ja'));
-  if (fallback) { _jaVoice = fallback; _jaVoiceParams = { rate: 0.88, pitch: 1.0 }; }
+  if (fallback) { _jaVoice = fallback; _jaVoiceParams = { rate: 0.83, pitch: 1.0 }; }
 }
 
 if (window.speechSynthesis) {
@@ -1655,7 +1673,7 @@ function _ttsKeepAlive() {
 
 // Split text at natural Japanese sentence boundaries to avoid truncation
 function _splitJp(text) {
-  // Split after 。！？ or newlines, keep delimiter attached
+  // Split after 。！？ or newlines, keep delimiter attached; also split on か for question rises
   const chunks = text.match(/[^。！？\n]+[。！？\n]?/g) || [text];
   return chunks.map(c => c.trim()).filter(Boolean);
 }
@@ -1682,11 +1700,23 @@ function speakJp(text) {
 
   function speakChunk(i) {
     if (i >= chunks.length) return;
-    const utter = new SpeechSynthesisUtterance(chunks[i]);
+    var chunk = chunks[i];
+    // Slight pitch rise for questions
+    var chunkPitch = (/[？か]$/.test(chunk) || /[？]$/.test(chunk)) ? Math.min(pitch + 0.08, 1.3) : pitch;
+    // Add a tiny natural pause before each chunk (except the first)
+    if (i > 0) {
+      var pause = new SpeechSynthesisUtterance('　');
+      pause.voice = _jaVoice;
+      pause.lang  = 'ja-JP';
+      pause.rate  = 0.1;
+      pause.volume = 0;
+      speechSynthesis.speak(pause);
+    }
+    const utter = new SpeechSynthesisUtterance(chunk);
     utter.lang  = 'ja-JP';
     utter.voice = _jaVoice;
     utter.rate  = rate;
-    utter.pitch = pitch;
+    utter.pitch = chunkPitch;
     utter.volume = 1.0;
     utter.onend = () => speakChunk(i + 1);
     utter.onerror = (e) => {
@@ -1726,6 +1756,7 @@ function simStartPractice(expectedText, btn) {
     return;
   }
   if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
   if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
   document.querySelectorAll('.practice-btn.listening').forEach(b => {
     b.classList.remove('listening','done'); b.textContent = '🎤';
@@ -1801,7 +1832,7 @@ function simStartPractice(expectedText, btn) {
     _simActiveRec = null; btn.classList.remove('listening'); btn.textContent = '🎤';
     simShowWave(btn, false);
     if (event.error === 'aborted') return;
-    if (event.error === 'not-allowed') simShowPracticeResult(btn, 'マイクへのアクセスが拒否されました', null, null);
+    if (event.error === 'not-allowed') simShowPracticeResult(btn, 'Microphone access denied. Please allow microphone access in your browser settings and try again.\nマイクへのアクセスが拒否されました。ブラウザの設定でマイクを許可してからもう一度お試しください。', null, null);
     else if (event.error === 'network') simShowPracticeResult(btn, 'ネットワークエラーです。接続を確認してください', null, null);
     else simShowPracticeResult(btn, null, null, null);
   };
@@ -1826,8 +1857,20 @@ function simShowWave(btn, show) {
   if (existing) wrap.insertBefore(el, existing);
   else wrap.appendChild(el);
 }
+function simNorm(s) {
+  return s.replace(/[\s\u3000。、！？「」『』・～]/g, '')
+    .replace(/[ー－]/g, '')
+    .replace(/[ゃャ]/g, 'や').replace(/[ゅュ]/g, 'ゆ').replace(/[ょョ]/g, 'よ')
+    .replace(/[ぁァ]/g, 'あ').replace(/[ぃィ]/g, 'い').replace(/[ぅゥ]/g, 'う').replace(/[ぇェ]/g, 'え').replace(/[ぉォ]/g, 'お')
+    .replace(/[っッ]/g, 'つ')
+    .toLowerCase();
+}
+function simStars(score) {
+  var n = score >= 90 ? 5 : score >= 70 ? 4 : score >= 50 ? 3 : score >= 30 ? 2 : 1;
+  return '<span style="color:var(--accent-yellow);font-size:0.85rem;">' + '★'.repeat(n) + '<span style="opacity:0.2;">' + '★'.repeat(5 - n) + '</span></span>';
+}
 function simAnalyzePronunciation(spoken, expected) {
-  const norm = s => s.replace(/[\s\u3000。、！？「」『』・～ー]/g, '').toLowerCase();
+  const norm = simNorm;
   const a = norm(spoken), b = norm(expected);
   if (!b.length) return { score: 100, spoken: [{ char: a || '(silence)', status: 'info' }], expected: [] };
   if (!a.length) {
@@ -1912,7 +1955,7 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
     '<span class="' + cls + '" style="font-weight:700;font-size:0.85rem;">' + score + '%</span>' +
     '</div>';
   // Message
-  var msgHtml = '<div style="font-size:0.88rem;margin-bottom:2px;">' + msg + '</div>';
+  var msgHtml = '<div style="font-size:0.88rem;margin-bottom:2px;">' + msg + ' ' + simStars(score) + '</div>';
   // Summary
   var parts = [];
   if (matchCnt) parts.push('<span style="color:var(--accent-green);">✓ ' + matchCnt + ' correct</span>');
@@ -1950,12 +1993,11 @@ let _simFileId = null;
 let _simNextTimer = null;
 
 function simMatchChoice(transcript, choices) {
-  const norm = function(s) { return s.replace(/[\s\u3000。、！？「」『』・～ー]/g, '').toLowerCase(); };
-  const t = norm(transcript);
+  const t = simNorm(transcript);
   if (!t) return null;
   let bestIdx = null, bestScore = 0;
   choices.forEach(function(c, idx) {
-    const ct = norm(c.text);
+    const ct = simNorm(c.text);
     // Simple substring + overlap scoring
     let score = 0;
     if (ct.includes(t) || t.includes(ct)) {
@@ -2103,7 +2145,7 @@ function simRenderTurn() {
         <div class="choice-row">
           <button class="choice-btn" data-idx="${idx}" onclick="simSelectChoice(${idx})">
             <strong>${jpWrap(c.text)}</strong>
-            <span class="choice-speak-icon" data-speak="${safeText}" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" title="Hear pronunciation"> 🔊</span>
+            <span class="choice-speak-icon" tabindex="0" role="button" data-speak="${safeText}" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" onkeydown="if(event.key==='Enter'||event.key===' '){event.stopPropagation();event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation"> 🔊</span>
             ${c.label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${c.label}</div>` : ''}
           </button>
           <button class="practice-btn" data-practice="${safeText}" onclick="simStartPractice(this.dataset.practice,this)" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()" title="Click, allow mic, then speak aloud">🎤</button>
@@ -2134,6 +2176,7 @@ function simRenderTurn() {
 }
 
 function simSelectChoice(idx) {
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
   const btn = document.querySelector(`.choice-btn[data-idx="${idx}"]`);
   if (btn && (btn.classList.contains('wrong') || btn.classList.contains('answered'))) return;
   const turn = _simScenario.turns[_simTurn];
@@ -2166,7 +2209,7 @@ function simSelectChoice(idx) {
     typer.remove();
     if (_simTurn < _simScenario.turns.length) simRenderTurn();
     else simShowResult();
-  }, 900);
+  }, 1200);
 }
 
 // ── SIMULATOR — MESSAGES ───────────────────────────────────────────────────────
@@ -2187,7 +2230,7 @@ function simAddGuestMessage(text, jp) {
   div.innerHTML = `<div>
     <div class="msg-label">Guest</div>
     <div class="msg-bubble">
-      <strong>${jpWrap(jp || text)}</strong>${jp ? ` <button class="msg-speak-btn" data-speak="${safeJp}" onclick="simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</button>` : ''}
+      <strong>${jpWrap(jp || text)}</strong>${jp ? ` <button class="msg-speak-btn" data-speak="${safeJp}" onclick="simSpeak(this.dataset.speak)" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation">🔊</button>` : ''}
       ${jp ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:3px;">${text}</div>` : ''}
     </div>
   </div>`;
@@ -2246,7 +2289,7 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
       '<div style="margin-top:8px;">' +
       '<div class="pron-meter" style="margin-bottom:4px;">' +
         '<div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
-        '<span style="font-weight:700;font-size:0.85rem;color:' + fillColor + ';">' + score + '%</span>' +
+        '<span style="font-weight:700;font-size:0.85rem;color:' + fillColor + ';">' + score + '% ' + simStars(score) + '</span>' +
       '</div>' +
       (parts.length ? '<div class="pron-summary" style="margin-bottom:0;">' + parts.join(' · ') + '</div>' : '') +
       (pr.spoken ? '<div class="pron-utterance" style="margin-bottom:0;">💬 ' + escapeHtml(pr.spoken) + '</div>' : '') +
@@ -2261,7 +2304,7 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
     <div class="msg-bubble">
       <div style="display:flex;align-items:flex-start;gap:8px;">
         <span style="flex:1;">${jpWrap(jp)}</span>
-        <button class="msg-speak-btn" data-speak="${jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</button>
+        <button class="msg-speak-btn" data-speak="${jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="simSpeak(this.dataset.speak)" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation">🔊</button>
       </div>
       ${label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${label}</div>` : ''}
       <div style="margin-top:8px;">${badge}</div>
