@@ -40,7 +40,7 @@
     body {
       background: var(--bg-secondary);
       color: #fff;
-      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-family: var(--font-sans);
       font-size: 1rem;
       line-height: 1.75;
       letter-spacing: normal;
@@ -340,24 +340,13 @@ margin-top: 48px;
       .lesson-item { padding: 11px 18px; }
     }
 
-    /* ── FOOTER ── */
 
-    .scroll-top {
-      position: absolute; right: 32px;
-      width: 36px; height: 36px; background: transparent;
-      border: none; border-radius: 4px; color: #fff; cursor: pointer;
-      display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
-      transition: opacity 0.2s; opacity: 0.7;
-    }
-    .scroll-top:hover { opacity: 1; }
 
     @media (max-width: 600px) {
       .page-title { font-size: 2.6rem; }
       .module-header { padding: 20px 18px 16px; gap: 14px; }
       .lesson-item { padding: 12px 18px; }
       .module-count { display: none; }
-
-      .scroll-top { right: 0; }
     }
     [data-theme="light"] {
       --bg-primary:    #ffffff;
@@ -651,15 +640,8 @@ margin-top: 48px;
                 <a href="md-viewer.html?file=content/foundations/m1-comms-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m1-comms-05.md" class="step-btn">5</a>
               </div>
-              <div class="vocab-xref">
-                <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?group=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
-                <a href="vocabularypractice.html?group=v08-vocab" class="vocab-chip">V08 Keigo</a>
-                <a href="vocabularypractice.html?group=v11-vocab" class="vocab-chip">V11 Phone &amp; Communication</a>
-                <a href="vocabularypractice.html?group=v14-vocab" class="vocab-chip">V14 Tourism &amp; Travel</a>
-              </div>
-            </div>
-          </div>
+             </div>
+           </div>
 
           <!-- L2: Service Skills (5 sections) -->
           <div class="tree-l2" id="tree-l2-skills">
@@ -676,14 +658,6 @@ margin-top: 48px;
                 <a href="md-viewer.html?file=content/foundations/m1-skills-03.md" class="step-btn">3</a>
                 <a href="md-viewer.html?file=content/foundations/m1-skills-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m1-skills-05.md" class="step-btn">5</a>
-              </div>
-              <div class="vocab-xref">
-                <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?group=v02-vocab" class="vocab-chip">V02 Front Desk</a>
-                <a href="vocabularypractice.html?group=v03-vocab" class="vocab-chip">V03 Guest Room</a>
-                <a href="vocabularypractice.html?group=v07-vocab" class="vocab-chip">V07 Essential Vocabulary</a>
-                <a href="vocabularypractice.html?group=v09-vocab" class="vocab-chip">V09 Reservations &amp; Scheduling</a>
-                <a href="vocabularypractice.html?group=v10-vocab" class="vocab-chip">V10 Payments &amp; Accounting</a>
               </div>
             </div>
           </div>
@@ -727,7 +701,7 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?group=v06-vocab" class="vocab-chip">V06 Complaints</a>
+                <a href="vocabularypractice.html?group=v06-vocab" class="vocab-chip">V06 Guest Requests &amp; Problem Solving</a>
                 <a href="vocabularypractice.html?group=v12-vocab" class="vocab-chip">V12 Safety &amp; Emergency</a>
               </div>
             </div>
@@ -766,13 +740,8 @@ margin-top: 48px;
                 <a href="md-viewer.html?file=content/foundations/m2-keigo-04.md" class="step-btn">4</a>
                 <a href="md-viewer.html?file=content/foundations/m2-keigo-05.md" class="step-btn">5</a>
               </div>
-              <div class="vocab-xref">
-                <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?group=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
-                <a href="vocabularypractice.html?group=v02-vocab" class="vocab-chip">V02 Front Desk</a>
-              </div>
-            </div>
-          </div>
+             </div>
+           </div>
 
           <!-- L2: Seasons -->
           <div class="tree-l2" id="tree-l2-seasons">
@@ -874,7 +843,7 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?group=v13-vocab" class="vocab-chip">V13 Staff &amp; Teamwork</a>
+                <a href="vocabularypractice.html?group=v13-vocab" class="vocab-chip">V13 Staff &amp; Operations</a>
               </div>
             </div>
           </div>
@@ -1963,8 +1932,6 @@ margin-top: 48px;
 
 
   </div>
-
-  <!-- FOOTER -->
 
 
   <script>

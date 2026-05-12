@@ -801,15 +801,6 @@
       transform: translateY(-2px);
     }
 
-    /* ── SCROLL TO TOP ───────────────────────────── */
-    .scroll-top {
-      width: 36px; height: 36px; background: transparent;
-      border: none; border-radius: 4px;
-      color: #ffffff; cursor: pointer;
-      display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
-      transition: opacity 0.2s; opacity: 0.7;
-    }
-    .scroll-top:hover { opacity: 1; }
     .logo-small { display: none; }
     .btn-line2 { display: none; }
     .btn-line1::after { content: " (It's free)"; }
@@ -972,10 +963,209 @@
     </div>
   </section>
 
+  <!-- STATS BAR -->
+  <section class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-value">429</span>
+        <span class="stat-label">Vocabulary Cards</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">100</span>
+        <span class="stat-label">Scenarios</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">47</span>
+        <span class="stat-label">Lessons</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">6</span>
+        <span class="stat-label">Modules</span>
+      </div>
+    </div>
+  </section>
 
+  <!-- MODULES -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-label">Curriculum</div>
+      <h2 class="section-title">Your Learning Path</h2>
+      <p class="section-desc">Six comprehensive modules take you from foundational hospitality concepts to expert-level service skills.</p>
+      <div class="modules-grid">
+        <div class="module-card m1">
+          <div class="module-num">Module 01</div>
+          <div class="module-kanji">心</div>
+          <h3 class="module-title">The Spirit of Omotenashi</h3>
+          <p class="module-subtitle">Kokoro — Heart</p>
+          <p class="module-desc">Foundational principles of Japanese hospitality: etiquette, service skills, food &amp; beverage, and crisis management.</p>
+          <div class="module-tags">
+            <span class="tag">Communication</span>
+            <span class="tag">Service Skills</span>
+            <span class="tag">F&amp;B</span>
+            <span class="tag">Crisis</span>
+          </div>
+        </div>
+        <div class="module-card m2">
+          <div class="module-num">Module 02</div>
+          <div class="module-kanji">礼</div>
+          <h3 class="module-title">Practical Service Skills</h3>
+          <p class="module-subtitle">Rei — Respect</p>
+          <p class="module-desc">Master keigo honorific language, accommodation service, appearance &amp; deportment, and staff communication.</p>
+          <div class="module-tags">
+            <span class="tag">Keigo</span>
+            <span class="tag">Accommodation</span>
+            <span class="tag">Appearance</span>
+            <span class="tag">Teamwork</span>
+          </div>
+        </div>
+        <div class="module-card m3">
+          <div class="module-num">Module 03</div>
+          <div class="module-kanji">誠</div>
+          <h3 class="module-title">Expert Specialization</h3>
+          <p class="module-subtitle">Makoto — Sincerity</p>
+          <p class="module-desc">Advanced skills for VIP &amp; dignitary service, onsen &amp; spa, cross-cultural hospitality, and digital hospitality.</p>
+          <div class="module-tags">
+            <span class="tag">VIP</span>
+            <span class="tag">Onsen</span>
+            <span class="tag">Cross-cultural</span>
+            <span class="tag">Digital</span>
+          </div>
+        </div>
+        <div class="module-card m4">
+          <div class="module-num">Module 04</div>
+          <div class="module-kanji">察</div>
+          <h3 class="module-title">Reading Guest Emotions</h3>
+          <p class="module-subtitle">Sasshi — Empathy</p>
+          <p class="module-desc">Develop the skill of anticipation — reading subtle cues and responding to unspoken guest needs with grace.</p>
+          <div class="module-tags">
+            <span class="tag">Empathy</span>
+            <span class="tag">Anticipation</span>
+            <span class="tag">Non-verbal</span>
+          </div>
+        </div>
+        <div class="module-card m5">
+          <div class="module-num">Module 05</div>
+          <div class="module-kanji">和</div>
+          <h3 class="module-title">Cultural Calendar</h3>
+          <p class="module-subtitle">Wa — Harmony</p>
+          <p class="module-desc">Navigate Japan's seasonal events and festivals — from cherry blossom season to Obon and New Year's traditions.</p>
+          <div class="module-tags">
+            <span class="tag">Spring</span>
+            <span class="tag">Summer</span>
+            <span class="tag">Autumn</span>
+            <span class="tag">Winter</span>
+          </div>
+        </div>
+        <div class="module-card m-wide">
+          <div class="module-num">Vocabulary</div>
+          <div class="module-kanji">語</div>
+          <h3 class="module-title">Vocabulary &amp; Language Skills</h3>
+          <p class="module-subtitle">Goi — Words</p>
+          <p class="module-desc">Build your Japanese hospitality vocabulary across 15 topic areas — from basic greetings to phone communication and tourism.</p>
+          <div class="module-tags">
+            <span class="tag">15 Groups</span>
+            <span class="tag">429 Cards</span>
+            <span class="tag">Dictation</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- PHILOSOPHY -->
+  <section class="philosophy">
+    <div class="section-inner">
+      <div class="philosophy-grid">
+        <div class="philosophy-quote">
+          <div class="philosophy-jp">おもてなし</div>
+          <div class="philosophy-romaji">Omotenashi</div>
+          <div class="philosophy-meaning">The uniquely Japanese approach to hospitality — anticipating needs before they are expressed, with genuine warmth and attention to detail.</div>
+        </div>
+        <div>
+          <ul class="pillar-list">
+            <li class="pillar-item">
+              <div class="pillar-icon yellow">&loz;</div>
+              <div>
+                <div class="pillar-text-title">Kokoro — Heartfelt Service</div>
+                <div class="pillar-text-desc">Service comes from the heart. Every interaction is an opportunity to create a memorable experience.</div>
+              </div>
+            </li>
+            <li class="pillar-item">
+              <div class="pillar-icon blue">&loz;</div>
+              <div>
+                <div class="pillar-text-title">Sasshi — Anticipatory Empathy</div>
+                <div class="pillar-text-desc">Read the room. Understand unspoken needs and respond before being asked.</div>
+              </div>
+            </li>
+            <li class="pillar-item">
+              <div class="pillar-icon green">&loz;</div>
+              <div>
+                <div class="pillar-text-title">Keigo — Respectful Language</div>
+                <div class="pillar-text-desc">Master the three levels of Japanese honorific speech to address guests with appropriate formality.</div>
+              </div>
+            </li>
+            <li class="pillar-item">
+              <div class="pillar-icon purple">&loz;</div>
+              <div>
+                <div class="pillar-text-title">Wa — Harmony in Service</div>
+                <div class="pillar-text-desc">Create balance and harmony in every guest interaction, from the physical environment to personal conduct.</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- OUTCOMES -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-label">Outcomes</div>
+      <h2 class="section-title">What You'll Achieve</h2>
+      <p class="section-desc">By completing this training, you will be able to confidently serve Japanese guests with cultural authenticity.</p>
+      <div class="outcomes-grid">
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Confident Communication</strong> — Use keigo appropriately in front desk, phone, and service interactions</div>
+        </div>
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Cultural Awareness</strong> — Navigate Japanese customs, seasons, and celebrations with confidence</div>
+        </div>
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Vocabulary Mastery</strong> — Know 400+ essential hospitality terms across 15 real-world categories</div>
+        </div>
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Service Excellence</strong> — Apply omotenashi principles to anticipate and exceed guest expectations</div>
+        </div>
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Problem Solving</strong> — Handle guest complaints, emergencies, and special requests with poise</div>
+        </div>
+        <div class="outcome-item">
+          <div class="outcome-check">&#10003;</div>
+          <div class="outcome-text"><strong>Role-play Ready</strong> — Practice 100 real-world scenarios through interactive simulations</div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="cta-inner">
+      <div class="cta-eyebrow">Begin your journey</div>
+      <h2 class="cta-title">
+        <span class="jp-large">一歩を踏み出そう</span>
+        Ready to Master Omotenashi?
+      </h2>
+      <p class="cta-desc">Start with Module 1: Foundations, or jump straight into vocabulary practice and interactive scenarios.</p>
+      <div class="cta-actions">
+        <a class="btn-cta" href="curriculum.html">Start Learning</a>
+      </div>
+    </div>
+  </section>
 
   <script>
     // Dark / Light mode toggle
