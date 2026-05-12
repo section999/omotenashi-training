@@ -109,6 +109,26 @@
     @media (pointer:coarse) { .cs-kbd { display:none; } }
     .key { display:inline-block; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:3px; padding:1px 5px; font-family:var(--font-mono); font-size:0.68rem; }
 
+    /* ── DICTATION ── */
+    .dict-wrap { display:flex; flex-direction:column; align-items:center; gap:14px; width:100%; padding:10px 0; }
+    .dict-play-btn { width:72px; height:72px; border-radius:50%; background:var(--bg-tertiary); border:2px solid var(--accent-yellow); color:var(--accent-yellow); font-size:1.8rem; cursor:pointer; transition:all 0.15s; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .dict-play-btn:hover { background:rgba(241,190,50,0.1); transform:scale(1.05); }
+    .dict-play-btn.playing { animation:dict-pulse 0.8s ease-in-out infinite; }
+    @keyframes dict-pulse { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 14px rgba(241,190,50,0); } }
+    .dict-hint { font-size:0.82rem; color:var(--text-muted); }
+    .dict-input { width:100%; max-width:380px; padding:10px 14px; border-radius:6px; border:1px solid var(--border-default); background:var(--bg-tertiary); color:var(--text-primary); font-size:1.2rem; text-align:center; outline:none; font-family:inherit; }
+    .dict-input:focus { border-color:var(--accent-blue); }
+    .dict-input:disabled { opacity:0.5; }
+    .dict-result { font-size:0.92rem; line-height:1.6; text-align:center; min-height:2.5em; }
+    .dict-result .answer { font-size:1.4rem; font-weight:700; color:var(--accent-yellow); margin-top:6px; }
+    .dict-actions { display:flex; gap:10px; }
+    .dict-btn { padding:9px 24px; border-radius:6px; font-size:0.9rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; font-family:inherit; }
+    .dict-btn:disabled { opacity:0.3; cursor:default; }
+    .dict-btn-check { background:var(--accent-blue); color:#fff; border:1px solid var(--accent-blue); }
+    .dict-btn-check:hover:not(:disabled) { opacity:0.85; }
+    .dict-btn-skip { background:transparent; color:var(--text-secondary); border:1px solid var(--border-default); }
+    .dict-btn-skip:hover:not(:disabled) { background:var(--bg-tertiary); color:var(--text-primary); }
+
     /* ── COMPLETE ── */
     .complete-wrap { text-align:center; padding:12px 0; }
     .complete-icon { font-size:2.4rem; margin-bottom:10px; }
@@ -355,6 +375,9 @@ let isFlipped = false;
 let autoAdvTimer = null;
 let setupDir = 'jp-en';
 let setupOrder = 'shuffle';
+let setupMode = 'flashcard';
+let setupAutoPlay = true;
+let currentCardData = null;
 
 // ── SWIPE ────────────────────────────────────────────────────────────────────
 let _tx = 0, _ty = 0, _swipeDone = false;
@@ -374,6 +397,15 @@ document.addEventListener('keydown', e => {
   const tag = e.target.tagName;
   if (tag==='INPUT'||tag==='SELECT'||tag==='TEXTAREA') return;
   if (!session) return;
+  const isDict = session.settings.mode === 'dictation';
+  if (isDict) {
+    if (e.key==='ArrowRight') goNext();
+    else if (e.key==='ArrowLeft') goPrev();
+    else if (e.key==='k'||e.key==='K') markCard('know');
+    else if (e.key==='l'||e.key==='L') markCard('learning');
+    else if (e.key==='s'||e.key==='S') playDictation();
+    return;
+  }
   if (e.key===' '||e.code==='Space') { e.preventDefault(); flipCard(); }
   else if (e.key==='ArrowRight') goNext();
   else if (e.key==='ArrowLeft') goPrev();
@@ -415,6 +447,13 @@ function showSetupScreen(preGroup) {
           '<button class="tog-btn' + (setupOrder==='shuffle'?' active':'') + '" id="togShuffle" onclick="setOrder(\'shuffle\')">Shuffle</button>' +
         '</div>' +
       '</div>' +
+      '<div class="setup-row">' +
+        '<label class="setup-label">Mode</label>' +
+        '<div class="tog-group">' +
+          '<button class="tog-btn' + (setupMode==='flashcard'?' active':'') + '" id="togFlashcard" onclick="setMode(\'flashcard\')">Flashcard</button>' +
+          '<button class="tog-btn' + (setupMode==='dictation'?' active':'') + '" id="togDictation" onclick="setMode(\'dictation\')">Dictation</button>' +
+        '</div>' +
+      '</div>' +
       '<div class="setup-divider"></div>' +
       '<div class="setup-row setup-check-col">' +
         '<label class="setup-check-label"><input type="checkbox" id="setupStudySession" checked/>' +
@@ -439,6 +478,11 @@ function setOrder(o) {
   document.getElementById('togSeq')?.classList.toggle('active', o==='sequential');
   document.getElementById('togShuffle')?.classList.toggle('active', o==='shuffle');
 }
+function setMode(m) {
+  setupMode = m;
+  document.getElementById('togFlashcard')?.classList.toggle('active', m==='flashcard');
+  document.getElementById('togDictation')?.classList.toggle('active', m==='dictation');
+}
 
 // ── SESSION ───────────────────────────────────────────────────────────────────
 function startSession() {
@@ -448,7 +492,7 @@ function startSession() {
   const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
   session = {
     roundFiles: [], queueIdx: 0, round: 1,
-    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group }
+    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group, mode: setupMode, autoPlay: setupAutoPlay }
   };
   showCardScreen();
   startRound(files, 1);
@@ -475,19 +519,36 @@ function changeGroup(val) {
 
 // ── SCREEN: CARD ──────────────────────────────────────────────────────────────
 function showCardScreen() {
+  const isDictation = session && session.settings.mode === 'dictation';
   document.getElementById('mainContent').innerHTML =
     '<div class="cs-topbar">' +
       '<button class="cs-back" onclick="showSetupScreen()">← Setup</button>' +
       '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
     '</div>' +
-    '<div class="cs-card" id="csCard" onclick="cardClick()">' +
-      '<div class="cs-flip-icon">↩ flip</div>' +
-      '<div class="cs-face cs-face-front" id="csFront"><div style="color:var(--text-muted);font-size:0.85rem;">Loading…</div></div>' +
-      '<div class="cs-face cs-face-back" id="csBack"></div>' +
+    '<div class="cs-card" id="csCard"' + (isDictation ? '' : ' onclick="cardClick()"') + '>' +
+      (isDictation ? '' : '<div class="cs-flip-icon">↩ flip</div>') +
+      '<div class="cs-face cs-face-front" id="csFront" style="display:flex;opacity:1;">' +
+        (isDictation
+          ? '<div class="dict-wrap">' +
+              '<div class="dict-play-btn" id="dictPlayBtn" onclick="playDictation()">🔊</div>' +
+              '<div class="dict-romaji" id="dictRomaji" style="display:none;"></div>' +
+              '<div class="dict-hint" id="dictHint">Listen and type what you hear</div>' +
+              '<input type="text" class="dict-input" id="dictInput" placeholder="Type in Japanese…" autocomplete="off" ' +
+                'onkeydown="if(event.key===\'Enter\'&&!this.disabled)checkDictation()" />' +
+              '<div class="dict-result" id="dictResult"></div>' +
+              '<div class="dict-actions">' +
+                '<button class="dict-btn dict-btn-check" id="dictCheckBtn" onclick="checkDictation()">Check</button>' +
+                '<button class="dict-btn dict-btn-skip" id="dictSkipBtn" onclick="skipDictation()">Show Answer</button>' +
+              '</div>' +
+            '</div>'
+          : '<div style="color:var(--text-muted);font-size:0.85rem;">Loading…</div>'
+        ) +
+      '</div>' +
+      (isDictation ? '' : '<div class="cs-face cs-face-back" id="csBack"></div>') +
     '</div>' +
-    '<div class="cs-actions">' +
-      '<button class="cs-btn cs-know" id="csKnow" onclick="markCard(\'know\')">Know it</button>' +
-      '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')">Still learning</button>' +
+    '<div class="cs-actions" id="csActions"' + (isDictation ? ' style="display:none"' : '') + '>' +
+      '<button class="cs-btn cs-know" id="csKnow" onclick="markCard(\'know\')"' + (isDictation ? ' disabled' : '') + '>Know it</button>' +
+      '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')"' + (isDictation ? ' disabled' : '') + '>Still learning</button>' +
     '</div>' +
     '<div class="cs-status" id="csStatus"></div>' +
     '<div class="cs-adv-bar" id="csAdvBar"></div>' +
@@ -496,8 +557,11 @@ function showCardScreen() {
       '<span class="cs-counter" id="csCounter">— / —</span>' +
       '<button class="cs-nav-btn" id="csNavNext" onclick="goNext()">Next →</button>' +
     '</div>' +
-    '<div class="cs-swipe-hint">swipe right = know &nbsp;·&nbsp; swipe left = still learning</div>' +
-    '<div class="cs-kbd"><span class="key">Space</span> flip &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> speak &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>';
+    (isDictation
+      ? '<div class="cs-swipe-hint"></div><div class="cs-kbd"><span class="key">Enter</span> check &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> replay &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>'
+      : '<div class="cs-swipe-hint">swipe right = know &nbsp;·&nbsp; swipe left = still learning</div>' +
+        '<div class="cs-kbd"><span class="key">Space</span> flip &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> speak &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>'
+    );
 }
 
 // ── CARD LOAD + RENDER ────────────────────────────────────────────────────────
@@ -512,6 +576,9 @@ function loadCard(file) {
 }
 
 function updateCard(file, data) {
+  if (session && session.settings.mode === 'dictation') {
+    return updateDictationCard(file, data);
+  }
   isFlipped = false;
   const card = document.getElementById('csCard');
   if (!card) return;
@@ -576,6 +643,163 @@ function updateCard(file, data) {
   prefetch(session.roundFiles[session.queueIdx + 1]);
 }
 
+// ── DICTATION ────────────────────────────────────────────────────────────────
+function updateDictationCard(file, data) {
+  currentCardData = data;
+  currentJP = data.jp;
+  speechSynthesis.cancel();
+  const front = document.getElementById('csFront');
+  if (!front) return;
+  front.style.display = 'flex';
+  front.style.opacity = '1';
+
+  const hint = document.getElementById('dictHint');
+  const romajiEl = document.getElementById('dictRomaji');
+  const input = document.getElementById('dictInput');
+  const result = document.getElementById('dictResult');
+  const checkBtn = document.getElementById('dictCheckBtn');
+  const skipBtn = document.getElementById('dictSkipBtn');
+
+  if (hint) hint.textContent = 'Listen and type what you hear';
+  if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'none'; }
+  if (input) { input.value = ''; input.disabled = false; input.focus(); }
+  if (result) result.innerHTML = '';
+  if (checkBtn) checkBtn.disabled = false;
+  if (skipBtn) skipBtn.disabled = false;
+
+  // Hide know/learning until check
+  const actions = document.getElementById('csActions');
+  if (actions) actions.style.display = 'none';
+  const know = document.getElementById('csKnow');
+  const learning = document.getElementById('csLearning');
+  if (know) know.disabled = true;
+  if (learning) learning.disabled = true;
+
+  // Status
+  const statusEl = document.getElementById('csStatus');
+  const saved = getStatus(file);
+  if (statusEl) {
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span>';
+    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Previously marked learning</span>';
+    else statusEl.textContent = '';
+  }
+
+  // Counter & nav
+  const total = session.roundFiles.length;
+  const cur = session.queueIdx + 1;
+  const counterEl = document.getElementById('csCounter');
+  if (counterEl) counterEl.textContent = cur + ' / ' + total;
+  const prev = document.getElementById('csNavPrev');
+  const next = document.getElementById('csNavNext');
+  if (prev) prev.disabled = session.queueIdx <= 0;
+  if (next) next.textContent = session.queueIdx >= total - 1 ? 'Finish →' : 'Next →';
+
+  updateProgressBar();
+  prefetch(session.roundFiles[session.queueIdx + 1]);
+
+  // Auto-play audio
+  if (session.settings.autoPlay !== false) {
+    setTimeout(function () { playDictation(); }, 350);
+  }
+}
+
+function playDictation() {
+  if (!currentJP) return;
+  speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(currentJP);
+  utt.lang = 'ja-JP';
+  utt.rate = 0.85;
+  const voice = getBestJapaneseVoice();
+  if (voice) utt.voice = voice;
+  const btn = document.getElementById('dictPlayBtn');
+  if (btn) btn.classList.add('playing');
+  utt.onend = function () { if (btn) btn.classList.remove('playing'); };
+  speechSynthesis.speak(utt);
+}
+
+function checkDictation() {
+  const input = document.getElementById('dictInput');
+  const result = document.getElementById('dictResult');
+  const data = currentCardData;
+  if (!input || !result || !data) return;
+
+  const userAns = input.value.trim();
+  if (!userAns) {
+    result.innerHTML = '<span style="color:var(--text-muted)">Type your answer first.</span>';
+    return;
+  }
+
+  const normUser = userAns.replace(/\s+/g, '');
+  const normCorrect = data.jp.replace(/\s+/g, '');
+  const isCorrect = normUser === normCorrect;
+
+  if (isCorrect) {
+    result.innerHTML =
+      '<div style="color:var(--accent-green);font-size:1.05rem;">✓ Correct!</div>' +
+      '<div class="answer">' + escHtml(data.jp) + '</div>';
+  } else {
+    result.innerHTML =
+      '<div style="color:var(--accent-red);font-size:1.05rem;">✗ Not quite</div>' +
+      '<div class="answer">' + escHtml(data.jp) + '</div>' +
+      '<div class="dict-romaji" style="margin-top:6px;display:block;">' + escHtml(data.romaji) + '</div>' +
+      '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">You typed: ' + escHtml(userAns) + '</div>';
+  }
+
+  input.disabled = true;
+  const checkBtn = document.getElementById('dictCheckBtn');
+  const skipBtn = document.getElementById('dictSkipBtn');
+  if (checkBtn) checkBtn.disabled = true;
+  if (skipBtn) skipBtn.disabled = true;
+
+  const romajiEl = document.getElementById('dictRomaji');
+  if (romajiEl) romajiEl.style.display = 'block';
+
+  const actions = document.getElementById('csActions');
+  if (actions) actions.style.display = 'flex';
+  const know = document.getElementById('csKnow');
+  const learning = document.getElementById('csLearning');
+  if (know) know.disabled = false;
+  if (learning) learning.disabled = false;
+  if (data) {
+    const def = data.definition || '';
+    const statusEl = document.getElementById('csStatus');
+    if (statusEl) statusEl.innerHTML = '<span style="color:var(--text-secondary);font-size:0.82rem;">' + escHtml(def) + '</span>';
+  }
+}
+
+function skipDictation() {
+  const data = currentCardData;
+  if (!data) return;
+
+  const result = document.getElementById('dictResult');
+  if (result) {
+    result.innerHTML =
+      '<div style="color:var(--text-muted);font-size:1.05rem;">Answer</div>' +
+      '<div class="answer">' + escHtml(data.jp) + '</div>' +
+      '<div class="dict-romaji" style="margin-top:6px;display:block;">' + escHtml(data.romaji) + '</div>';
+  }
+
+  const input = document.getElementById('dictInput');
+  if (input) input.disabled = true;
+  const checkBtn = document.getElementById('dictCheckBtn');
+  const skipBtn = document.getElementById('dictSkipBtn');
+  if (checkBtn) checkBtn.disabled = true;
+  if (skipBtn) skipBtn.disabled = true;
+
+  const romajiEl = document.getElementById('dictRomaji');
+  if (romajiEl) romajiEl.style.display = 'block';
+
+  const actions = document.getElementById('csActions');
+  if (actions) actions.style.display = 'flex';
+  const know = document.getElementById('csKnow');
+  const learning = document.getElementById('csLearning');
+  if (know) know.disabled = false;
+  if (learning) learning.disabled = false;
+
+  const statusEl = document.getElementById('csStatus');
+  if (statusEl && data.definition) statusEl.innerHTML = '<span style="color:var(--text-secondary);font-size:0.82rem;">' + escHtml(data.definition) + '</span>';
+}
+
 // ── FLIP ─────────────────────────────────────────────────────────────────────
 function flipCard() {
   const front = document.getElementById('csFront');
@@ -628,6 +852,11 @@ function markCard(status) {
   if (!file) return;
   setStatus(file, status);
   updateProgressBar();
+  if (session.settings.mode === 'dictation') {
+    // In dictation mode, always advance immediately
+    goNext();
+    return;
+  }
   if (isFlipped) {
     // Card was flipped — advance immediately
     goNext();
