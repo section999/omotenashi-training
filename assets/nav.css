@@ -101,12 +101,20 @@
   box-shadow: 0 8px 24px rgba(0,0,0,0.4);
 }
 .nav-dropdown.open { display: block; }
-.nav-dropdown a {
+.nav-dropdown a,
+.nav-dropdown button {
   display: block;
+  width: 100%;
   padding: 11px 18px;
   font-size: 0.875rem;
   color: var(--text-secondary);
   text-decoration: none;
+  background: none;
+  border: none;
+  font-family: inherit;
+  text-align: left;
+  cursor: pointer;
   transition: background 0.15s, color 0.15s;
 }
-.nav-dropdown a:hover { background: var(--bg-tertiary); color: var(--text-primary); }
+.nav-dropdown a:hover,
+.nav-dropdown button:hover { background: var(--bg-tertiary); color: var(--text-primary); }
