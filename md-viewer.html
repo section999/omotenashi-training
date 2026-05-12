@@ -168,7 +168,7 @@
     .chat-area { display: flex; flex-direction: column; background: var(--bg-primary); border: 1px solid var(--border-default); border-radius: 8px; overflow: hidden; }
     .chat-header { padding: 14px 20px; border-bottom: 1px solid var(--border-default); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
     .chat-header-title { font-weight: 700; font-size: 1.2rem; color: #fff; }
-    .chat-turn-progress { position:absolute; right:20px; top:14px; font-size:0.7rem; color:rgba(255,255,255,0.35); letter-spacing:0.04em; }
+    .chat-turn-progress { position:absolute; right:20px; top:50%; transform:translateY(-50%); font-size:0.7rem; color:rgba(255,255,255,0.35); letter-spacing:0.04em; }
     .msg-system { display: flex; align-items: center; gap: 10px; font-size: 0.78rem; color: var(--text-muted); margin: 8px 16px; font-style: italic; }
     .msg-system::before, .msg-system::after { content: ''; flex: 1; height: 1px; background: var(--border-muted); }
     .chat-messages { padding: 24px; display: flex; flex-direction: column; gap: 18px; min-height: 300px; max-height: 480px; overflow-y: auto; }
@@ -187,8 +187,8 @@
     .choice-btn:hover { border-color: var(--accent-blue); color: #fff; background: rgba(25,142,238,0.06); }
     .choice-btn.wrong { border-color: var(--accent-red); color: #e07060; opacity: 0.6; }
     .choice-btn.answered { opacity: 0.4; cursor: default; pointer-events: none; }
-    .sim-speak-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 44px; height: auto; border-radius: 5px; cursor: pointer; font-size: 1.1rem; display: flex; align-items: center; justify-content: center; align-self: stretch; transition: border-color 0.12s, color 0.12s; }
-    .sim-speak-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); }
+    .choice-speak-icon { cursor:pointer; font-size:0.85rem; margin-right:8px; flex-shrink:0; opacity:0.5; transition:opacity 0.15s; line-height:1; }
+    .choice-speak-icon:hover { opacity:1; }
     .msg-speak-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 36px; height: 32px; border-radius: 5px; cursor: pointer; font-size: 0.95rem; display: flex; align-items: center; justify-content: center; transition: border-color 0.12s, color 0.12s; }
     .msg-speak-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); }
     .choice-wrap { display: flex; flex-direction: column; }
@@ -229,53 +229,7 @@
 .wave-bar span:nth-child(4) { animation-delay:0.08s; height:50%; }
 .wave-bar span:nth-child(5) { animation-delay:0s; height:70%; }
 @keyframes waveAnim { 0% { transform:scaleY(0.4); } 100% { transform:scaleY(1); } }
-    /* ── VOICE GROUP (toggle + guide) ───────────────────────────────── */
-    .voice-group {
-      display:inline-flex; align-items:stretch; position:relative;
-      border:1px solid var(--border-default);
-      border-radius:99px; overflow:hidden;
-      margin-top:4px; height:28px;
-      transition:border-color 0.2s, box-shadow 0.2s;
-    }
-    .voice-group:hover { border-color:var(--accent-blue); box-shadow:0 0 0 1px rgba(25,142,238,0.15); }
-    .voice-group.active { border-color:var(--accent-blue); box-shadow:0 0 0 1px rgba(25,142,238,0.2); }
-    .sim-voice-toggle {
-      display:inline-flex; align-items:center; gap:6px;
-      padding:0 10px 0 12px;
-      background:transparent; color:var(--text-muted);
-      font-size:0.75rem; cursor:pointer; transition:all 0.2s;
-      font-family:inherit; border:none; white-space:nowrap;
-    }
-    .voice-group.active .sim-voice-toggle {
-      background:rgba(25,142,238,0.08); color:var(--accent-blue);
-    }
-    .sim-voice-toggle .dot {
-      width:7px; height:7px; border-radius:50%;
-      background:var(--text-muted); flex-shrink:0;
-      transition:background 0.2s, box-shadow 0.2s;
-    }
-    .voice-group.active .dot {
-      background:var(--accent-green);
-      box-shadow:0 0 4px rgba(31,173,105,0.5);
-      animation:mic-pulse 1.2s ease-in-out infinite;
-    }
-    .voice-group-divider {
-      width:1px; background:var(--border-default);
-      align-self:center; height:16px; flex-shrink:0;
-      transition:background 0.2s;
-    }
-    .voice-group:hover .voice-group-divider { background:var(--accent-blue); }
-    .voice-guide-btn {
-      display:inline-flex; align-items:center; justify-content:center;
-      width:26px; padding:0;
-      background:transparent; color:var(--text-muted);
-      font-size:0.7rem; font-weight:700; cursor:pointer;
-      transition:all 0.2s; font-family:inherit; border:none; line-height:1;
-    }
-    .voice-guide-btn:hover {
-      color:var(--accent-yellow);
-      background:rgba(241,190,50,0.06);
-    }
+    /* ── VOICE GUIDE ─────────────────────────────────────────────────── */
     .voice-guide-popover {
       position:absolute; top:100%; right:0; margin-top:10px;
       width:340px; max-width:92vw;
@@ -335,12 +289,12 @@
     }
     .vg-note-icon { font-size:0.85rem; flex-shrink:0; }
     .vg-footer {
-      display:flex; align-items:center; justify-content:space-between;
+      display:flex; align-items:center; gap:12px; flex-wrap:wrap;
       padding:10px 18px;
       background:rgba(255,255,255,0.02);
       border-top:1px solid var(--border-default);
     }
-    .vg-compat { font-size:0.78rem; display:flex; align-items:center; gap:6px; }
+    .vg-compat { font-size:0.78rem; display:flex; align-items:center; gap:6px; margin-right:auto; }
     .vg-compat .dot { width:7px; height:7px; border-radius:50%; display:inline-block; }
     .vg-compat .dot.ok { background:var(--accent-green); }
     .vg-compat .dot.fail { background:#e07060; }
@@ -354,7 +308,7 @@
       border:6px solid transparent; border-bottom-color:var(--bg-secondary);
       z-index:1;
     }
-    .chat-header { position:relative; } /* anchor for popover */
+    .chat-header { position:relative; }
     /* ── FIRST-USE GUIDE ─────────────────────────────────────────────── */
     @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(25,142,238,0.4); } 50% { box-shadow:0 0 0 6px rgba(25,142,238,0); } }
     .practice-btn.guide-glow { animation:guide-glow 1.5s ease-in-out 3; border-color:var(--accent-blue); }
@@ -370,7 +324,7 @@
       .chat-choices { padding: 12px 14px; gap: 8px; }
       .choices-label { font-size: 0.75rem; }
       .choice-btn { font-size: 0.93rem; padding: 11px 13px; }
-      .sim-speak-btn, .practice-btn { width: 38px; font-size: 1rem; }
+      .practice-btn { width: 38px; font-size: 1rem; }
       .chat-header { padding: 10px 14px; }
       .chat-header-title { font-size: 1rem; }
       .main { padding-left: 12px; padding-right: 12px; }
@@ -1632,29 +1586,16 @@ function showTtsToast(msg) {
 }
 
 // ── SIMULATOR — VOICE GUIDE ────────────────────────────────────────────────────
-function simToggleVoiceGuide(event) {
-  if (event) event.stopPropagation();
+let _guideCloseTimer = null;
+function simOpenGuide() {
+  if (_guideCloseTimer) { clearTimeout(_guideCloseTimer); _guideCloseTimer = null; }
   const pop = document.getElementById('voiceGuidePopover');
-  if (!pop) return;
-  const open = pop.classList.toggle('open');
-  if (open) {
-    // Update compatibility status dynamically
-    const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-    const dot = document.getElementById('vgCompatDot');
-    const label = document.getElementById('vgCompatLabel');
-    if (dot && label) {
-      dot.className = 'dot ' + (SR ? 'ok' : 'fail');
-      label.textContent = SR ? 'Supported in this browser' : 'Not supported';
-    }
-    // Close on outside click
-    function close(e) {
-      if (!e.target.closest('#voiceGuidePopover') && !e.target.closest('#voiceGuideBtn')) {
-        pop.classList.remove('open');
-        document.removeEventListener('click', close);
-      }
-    }
-    setTimeout(function() { document.addEventListener('click', close); }, 0);
-  }
+  if (pop) pop.classList.add('open');
+}
+function simCloseGuide() {
+  if (_guideCloseTimer) clearTimeout(_guideCloseTimer);
+  const pop = document.getElementById('voiceGuidePopover');
+  if (pop) pop.classList.remove('open');
 }
 
 // ── SIMULATOR — TTS (voice setup) ──────────────────────────────────────────────
@@ -1782,6 +1723,7 @@ function jpWrap(text) {
 // ── SIMULATOR — SPEAKING PRACTICE ──────────────────────────────────────────────
 let _simActiveRec = null;
 let _simRetryTimer = null;
+let _simAutoSelectTimer = null;
 function simStartPractice(expectedText, btn) {
   const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
   if (!SR) {
@@ -1830,6 +1772,19 @@ function simStartPractice(expectedText, btn) {
     btn.classList.remove('listening'); btn.classList.add('done'); btn.textContent = '🎤';
     simShowWave(btn, false);
     simShowPracticeResult(btn, bestSpoken, analysis, bestConf);
+    // Try to auto-select choice if speech matches
+    const turn = _simScenario ? _simScenario.turns[_simTurn] : null;
+    if (turn) {
+      const idx = simMatchChoice(bestSpoken, turn.choices);
+      if (idx !== null) {
+        if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
+        _simAutoSelectTimer = setTimeout(function() {
+          _simAutoSelectTimer = null;
+          simSelectChoice(idx);
+        }, 1200);
+        return;
+      }
+    }
     // Auto-retry on low score
     if (analysis.score < 50) {
       _simRetryTimer = setTimeout(function() {
@@ -1980,82 +1935,6 @@ let _simMaxScore = 0;
 let _simFileId = null;
 let _simNextTimer = null;
 
-// ── SIMULATOR — VOICE MODE ─────────────────────────────────────────────────────
-let _simVoiceActive = false;
-let _simVoiceRec = null;
-
-function simToggleVoiceMode() {
-  _simVoiceActive = !_simVoiceActive;
-  const grp = document.getElementById('voiceGroup');
-  if (grp) grp.classList.toggle('active', _simVoiceActive);
-  if (_simVoiceActive) {
-    simStartVoiceRecognition();
-  } else {
-    if (_simVoiceRec) { _simVoiceRec.abort(); _simVoiceRec = null; }
-    document.querySelectorAll('.choice-btn').forEach(function(b) { b.style.borderColor = ''; });
-  }
-}
-function simStartVoiceRecognition() {
-  if (!_simVoiceActive) return;
-  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (!SR) { simToggleVoiceMode(); return; }
-  if (_simVoiceRec) _simVoiceRec.abort();
-  const rec = new SR();
-  rec.lang = 'ja-JP';
-  rec.interimResults = true;
-  rec.continuous = true;
-  rec.maxAlternatives = 3;
-  _simVoiceRec = rec;
-  let finalTranscript = '';
-  rec.onresult = function(event) {
-    // Highlight the closest matching choice based on interim results
-    let bestText = '', bestScore = 0;
-    for (var k = 0; k < event.results.length; k++) {
-      const t = event.results[k][0].transcript;
-      if (t.length > bestText.length) { bestText = t; }
-    }
-    // Match against choices
-    const turn = _simScenario ? _simScenario.turns[_simTurn] : null;
-    if (!turn) return;
-    const bestChoice = simMatchChoice(bestText, turn.choices);
-    document.querySelectorAll('.choice-btn').forEach(function(b) {
-      b.style.borderColor = '';
-      const idx = parseInt(b.dataset.idx);
-      if (bestChoice !== null && idx === bestChoice) {
-        b.style.borderColor = 'var(--accent-blue)';
-        b.style.background = 'rgba(25,142,238,0.08)';
-      }
-    });
-    // Check for final results that are a clear match
-    for (var i = event.resultIndex; i < event.results.length; i++) {
-      if (event.results[i].isFinal) {
-        const transcript = event.results[i][0].transcript.trim();
-        if (!transcript) continue;
-        const confidence = event.results[i][0].confidence;
-        const idx = simMatchChoice(transcript, turn.choices);
-        if (idx !== null && confidence > 0.5) {
-          rec.stop();
-          _simVoiceRec = null;
-          simSelectChoice(idx);
-          // Restart voice mode after a delay if still active
-          if (_simVoiceActive) {
-            setTimeout(function() { simStartVoiceRecognition(); }, 600);
-          }
-          return;
-        }
-      }
-    }
-  };
-  rec.onerror = function() {
-    _simVoiceRec = null;
-    if (_simVoiceActive) setTimeout(function() { simStartVoiceRecognition(); }, 500);
-  };
-  rec.onend = function() {
-    if (_simVoiceRec === rec) _simVoiceRec = null;
-    if (_simVoiceActive) setTimeout(function() { simStartVoiceRecognition(); }, 500);
-  };
-  try { rec.start(); } catch (e) { _simVoiceRec = null; }
-}
 function simMatchChoice(transcript, choices) {
   const norm = function(s) { return s.replace(/[\s\u3000。、！？「」『』・～ー]/g, '').toLowerCase(); };
   const t = norm(transcript);
@@ -2110,53 +1989,6 @@ function renderSimulator(scenario, file, info) {
       <div class="chat-header">
         <div class="chat-header-title" id="chatTitle">${scenario.title}</div>
         <span class="chat-turn-progress" id="chatTurnProgress"></span>
-        <div class="voice-group" id="voiceGroup">
-          <button class="sim-voice-toggle" id="simVoiceToggle" onclick="simToggleVoiceMode()">
-            <span class="dot"></span> Voice Mode
-          </button>
-          <span class="voice-group-divider"></span>
-          <button class="voice-guide-btn" id="voiceGuideBtn" onclick="simToggleVoiceGuide(event)" title="How voice mode works">?</button>
-        </div>
-        <div class="voice-guide-popover" id="voiceGuidePopover">
-          <div class="vg-header">
-            <div class="vg-header-icon">🎤</div>
-            <div>
-              <h4>Voice Mode Guide</h4>
-              <div class="vg-sub">Speak your answers &amp; practice pronunciation</div>
-            </div>
-          </div>
-          <div class="vg-body">
-            <div class="vg-section">
-              <div class="vg-section-title">How to use</div>
-              <div class="vg-steps">
-                <div class="vg-step">
-                  <span class="vg-step-num">1</span>
-                  <span class="vg-step-text">Click <strong>Voice Mode</strong> or press <strong>🎤</strong> on any choice</span>
-                </div>
-                <div class="vg-step">
-                  <span class="vg-step-num">2</span>
-                  <span class="vg-step-text">Grant <strong>microphone access</strong> when your browser asks</span>
-                </div>
-                <div class="vg-step">
-                  <span class="vg-step-num">3</span>
-                  <span class="vg-step-text">Read the Japanese phrase <strong>aloud clearly</strong></span>
-                </div>
-                <div class="vg-step">
-                  <span class="vg-step-num">4</span>
-                  <span class="vg-step-text">Get instant <strong>pronunciation scoring</strong> with character-level feedback</span>
-                </div>
-              </div>
-            </div>
-            <div class="vg-note">
-              <span class="vg-note-icon">📱</span>
-              <span>HTTPS required on iOS. Best with <strong>Chrome</strong>, <strong>Edge</strong>, or <strong>Safari</strong>.</span>
-            </div>
-          </div>
-          <div class="vg-footer">
-            <span class="vg-compat"><span class="dot" id="vgCompatDot"></span><span id="vgCompatLabel">Checking…</span></span>
-            <span class="vg-dim">Not supported in Firefox</span>
-          </div>
-        </div>
       </div>
       <div class="chat-messages" id="chatMessages"></div>
       <div class="chat-choices" id="chatChoices"></div>
@@ -2199,33 +2031,66 @@ function simShuffle(arr) {
 function simRenderTurn() {
   if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
   if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
-  if (_simVoiceRec) { _simVoiceRec.abort(); _simVoiceRec = null; }
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
   const turn = _simScenario.turns[_simTurn];
   const prog = document.getElementById('chatTurnProgress');
-  if (prog) prog.textContent = `${_simTurn + 1}/${_simScenario.turns.length}`;
+  if (prog) prog.textContent = `Turn ${_simTurn + 1}/${_simScenario.turns.length}`;
   if (turn.system) simAddSystemMessage(turn.system);
   simAddGuestMessage(turn.guest, turn.guestJp || '');
   const choices = simShuffle([...turn.choices]);
   const choicesEl = document.getElementById('chatChoices');
-  choicesEl.innerHTML = `<div class="choices-label">Your response</div>` +
+  choicesEl.innerHTML =
+    `<div style="display:flex;align-items:center;justify-content:center;margin-bottom:10px;position:relative;">
+      <div style="text-align:center;">
+        <div class="choices-label" style="margin:0;font-size:0.95rem;">Your response</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);margin-top:2px;">Click the correct answer or press 🎤 to speak</div>
+      </div>
+      <div class="voice-guide-popover" id="voiceGuidePopover" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()">
+        <div class="vg-header">
+          <div class="vg-header-icon">🎤</div>
+          <div>
+              <h4>Voice Mode Guide</h4>
+          </div>
+        </div>
+        <div class="vg-body">
+          <div class="vg-section">
+            <div class="vg-section-title">How to use</div>
+            <div class="vg-steps">
+                <div class="vg-step">
+                  <span class="vg-step-num">1</span>
+                  <span class="vg-step-text">Press the <strong>🎤 button</strong> next to any phrase</span>
+                </div>
+                <div class="vg-step">
+                  <span class="vg-step-num">2</span>
+                  <span class="vg-step-text">Allow <strong>microphone access</strong> when prompted</span>
+                </div>
+                <div class="vg-step">
+                  <span class="vg-step-num">3</span>
+                  <span class="vg-step-text">Read the Japanese phrase <strong>out loud</strong></span>
+                </div>
+                <div class="vg-step">
+                  <span class="vg-step-num">4</span>
+                  <span class="vg-step-text">Get scored on <strong>pronunciation &amp; intonation</strong> with detailed character-by-character feedback</span>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>` +
     choices.map(c => {
       const idx = turn.choices.indexOf(c);
       const safeText = c.text.replace(/"/g,'&quot;').replace(/'/g,'&#39;');
       return `<div class="choice-wrap">
         <div class="choice-row">
           <button class="choice-btn" data-idx="${idx}" onclick="simSelectChoice(${idx})">
+            <span class="choice-speak-icon" data-speak="${safeText}" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</span>
             <strong>${jpWrap(c.text)}</strong>
             ${c.label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${c.label}</div>` : ''}
           </button>
-          <button class="sim-speak-btn" data-speak="${safeText}" onclick="simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</button>
-          <button class="practice-btn" data-practice="${safeText}" onclick="simStartPractice(this.dataset.practice,this)" title="Practice saying this — click, allow mic, then speak aloud">🎤</button>
+          <button class="practice-btn" data-practice="${safeText}" onclick="simStartPractice(this.dataset.practice,this)" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()" title="Click, allow mic, then speak aloud">🎤</button>
         </div>
       </div>`;
     }).join('');
-  // Restart voice mode if active
-  if (_simVoiceActive) {
-    setTimeout(function() { simStartVoiceRecognition(); }, 300);
-  }
   // First-use guide: highlight practice buttons and show toast
   if (!localStorage.getItem('_voiceGuideSeen')) {
     localStorage.setItem('_voiceGuideSeen', '1');
