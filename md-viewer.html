@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -21,6 +21,7 @@
       --accent-green:#1fad69; --accent-red:#c5442a;
       --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
       --text-inverse:#0a0a23; --border-default:#2a2a4a;
+      --font-sans:'Segoe UI',system-ui,sans-serif;
       --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
     }
     [data-theme="light"] {
@@ -74,9 +75,6 @@
     [data-theme="light"] .tf-btn { color: #3b3b4f; }
     [data-theme="light"] .quiz-opt:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
     [data-theme="light"] .tf-btn:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
-    [data-theme="light"] .footer { background: #0a0a23 !important; }
-    [data-theme="light"] .footer * { color: #ffffff !important; }
-
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: 18px; }
     body { background: var(--bg-secondary); color: var(--text-primary); font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; }
@@ -346,12 +344,7 @@
     .fc-learning:hover { background: rgba(255,255,255,0.04); }
     .fc-status { font-size: 0.78rem; color: var(--text-muted); text-align: center; min-height: 1.2em; margin-top: 4px; }
 
-    /* FOOTER */
-    .footer { border-top: none; padding: 18px 0; margin-top: 64px; background: #0a0a23; }
-    .footer-inner { max-width: 1300px; margin: 0 auto; padding: 0 32px; display: flex; align-items: center; justify-content: center; position: relative; }
-    .footer-brand { font-family: var(--font-mono); font-size: 1rem; color: #ffffff; text-decoration: none; }
-    .scroll-top { position: absolute; right: 32px; width: 36px; height: 36px; background: transparent; border: none; border-radius: 4px; color: #fff; cursor: pointer; font-size: 1.1rem; opacity: 0.7; transition: opacity 0.2s; }
-    .scroll-top:hover { opacity: 1; }
+
 
     /* LOADING */
     .loading { text-align: center; padding: 80px 24px; color: var(--text-muted); font-size: 1.1rem; }

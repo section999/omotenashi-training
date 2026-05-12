@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -10,7 +10,7 @@
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
       --accent-yellow:#f1be32; --accent-blue:#f1be32; --accent-blue-rgb:241,190,50; --accent-green:#1fad69; --accent-red:#c5442a;
       --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
-      --border-default:#2a2a4a; --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+      --border-default:#2a2a4a; --font-sans:'Segoe UI',system-ui,sans-serif; --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
     }
     [data-theme="light"] {
       --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
@@ -20,8 +20,6 @@
     [data-theme="light"] .nav { background:#0a0a23 !important; }
     [data-theme="light"] .nav * { color:#ffffff !important; }
     [data-theme="light"] .nav-dropdown { background:#1b1b32 !important; border-color:#3b3b5c !important; }
-    [data-theme="light"] .footer { background:#0a0a23 !important; }
-    [data-theme="light"] .footer * { color:#ffffff !important; }
     *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
     html { font-size:18px; }
     body { background:var(--bg-secondary); color:var(--text-primary); font-family:'Segoe UI',system-ui,sans-serif; min-height:100vh; }
@@ -147,12 +145,7 @@
     .c-btn-sec { padding:11px; background:transparent; color:var(--text-secondary); border:1px solid var(--border-default); border-radius:6px; font-size:0.85rem; cursor:pointer; }
     .c-btn-sec:hover { background:var(--bg-tertiary); color:var(--text-primary); }
 
-    /* FOOTER */
-    .footer { border-top:none; padding:18px 0; margin-top:0; background:#0a0a23; position:fixed; bottom:0; left:0; right:0; z-index:100; }
-    .footer-inner { max-width:1300px; margin:0 auto; padding:0 32px; display:flex; align-items:center; justify-content:center; position:relative; }
-    .footer-brand { font-family:var(--font-mono); font-size:1rem; color:#fff; text-decoration:none; }
-    .scroll-top { position:absolute; right:32px; width:36px; height:36px; background:transparent; border:none; border-radius:4px; color:#fff; cursor:pointer; font-size:1.1rem; opacity:0.7; }
-    .scroll-top:hover { opacity:1; }
+
 
     @media (max-width:500px) {
       .main { padding:76px 14px 68px; }
@@ -554,6 +547,8 @@ function showCardScreen() {
       '<button class="cs-btn cs-learning" id="csLearning" onclick="markCard(\'learning\')"' + (isDictation ? ' disabled' : '') + '>Still learning</button>' +
     '</div>' +
     '<div class="cs-status" id="csStatus"></div>' +
+    '<div class="cs-prog-wrap"><div class="cs-prog-bar" id="csPBar"></div></div>' +
+    '<div class="cs-prog-label" id="csPLabel">0 / 0 known</div>' +
     '<div class="cs-adv-bar" id="csAdvBar"></div>' +
     '<div class="cs-nav">' +
       '<button class="cs-nav-btn" id="csNavPrev" onclick="goPrev()" disabled>← Prev</button>' +

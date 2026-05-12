@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -30,6 +30,7 @@
       --accent-green:   #1fad69;
       --accent-rgb:     241,190,50;
       --transition:     150ms ease;
+      --font-sans: 'Segoe UI', system-ui, sans-serif;
       --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
     }
 
@@ -340,18 +341,7 @@ margin-top: 48px;
     }
 
     /* ── FOOTER ── */
-    .footer {
-      border-top: none; padding: 18px 0;
-      margin-top: 64px; background: var(--bg-primary);
-    }
-    .footer-inner {
-      max-width: 1300px; margin: 0 auto; padding: 0 32px;
-      display: flex; align-items: center; justify-content: center; position: relative;
-    }
-    .footer-brand {
-      font-family: var(--font-mono); font-size: 1rem;
-      color: #ffffff; text-decoration: none;
-    }
+
     .scroll-top {
       position: absolute; right: 32px;
       width: 36px; height: 36px; background: transparent;
@@ -366,9 +356,7 @@ margin-top: 48px;
       .module-header { padding: 20px 18px 16px; gap: 14px; }
       .lesson-item { padding: 12px 18px; }
       .module-count { display: none; }
-      .footer-inner { padding: 0 20px; justify-content: center; }
-      .footer { padding: 10px 0; margin-top: 32px; }
-      .footer-brand { font-size: 0.75rem; }
+
       .scroll-top { right: 0; }
     }
     [data-theme="light"] {
@@ -391,13 +379,11 @@ margin-top: 48px;
     }
     [data-theme="light"] body * { color: #0a0a23 !important; }
     [data-theme="light"] * { border-color: #d0d0d5 !important; }
-    /* nav & footer always dark */
+    /* nav always dark */
     [data-theme="light"] .nav { background: #0a0a23 !important; }
     [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
     [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
     [data-theme="light"] .nav-dropdown a:hover { background: rgba(255,255,255,0.08) !important; }
-    [data-theme="light"] .footer { background: #0a0a23 !important; }
-    [data-theme="light"] .footer * { color: #ffffff !important; border-color: transparent !important; }
     /* ── PHILOSOPHY (japanese way) ──────────────────── */
     .philosophy-grid {
       margin-bottom: 40px;
@@ -667,8 +653,10 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
-                <a href="vocabularypractice.html?module=v08-vocab" class="vocab-chip">V08 Keigo</a>
+                <a href="vocabularypractice.html?group=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
+                <a href="vocabularypractice.html?group=v08-vocab" class="vocab-chip">V08 Keigo</a>
+                <a href="vocabularypractice.html?group=v11-vocab" class="vocab-chip">V11 Phone &amp; Communication</a>
+                <a href="vocabularypractice.html?group=v14-vocab" class="vocab-chip">V14 Tourism &amp; Travel</a>
               </div>
             </div>
           </div>
@@ -691,8 +679,11 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v02-vocab" class="vocab-chip">V02 Front Desk</a>
-                <a href="vocabularypractice.html?module=v03-vocab" class="vocab-chip">V03 Guest Room</a>
+                <a href="vocabularypractice.html?group=v02-vocab" class="vocab-chip">V02 Front Desk</a>
+                <a href="vocabularypractice.html?group=v03-vocab" class="vocab-chip">V03 Guest Room</a>
+                <a href="vocabularypractice.html?group=v07-vocab" class="vocab-chip">V07 Essential Vocabulary</a>
+                <a href="vocabularypractice.html?group=v09-vocab" class="vocab-chip">V09 Reservations &amp; Scheduling</a>
+                <a href="vocabularypractice.html?group=v10-vocab" class="vocab-chip">V10 Payments &amp; Accounting</a>
               </div>
             </div>
           </div>
@@ -714,7 +705,7 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v05-vocab" class="vocab-chip">V05 Restaurant &amp; F&amp;B</a>
+                <a href="vocabularypractice.html?group=v05-vocab" class="vocab-chip">V05 Restaurant &amp; F&amp;B</a>
               </div>
             </div>
           </div>
@@ -736,8 +727,8 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v06-vocab" class="vocab-chip">V06 Complaints</a>
-                <a href="vocabularypractice.html?module=v12-vocab" class="vocab-chip">V12 Safety &amp; Emergency</a>
+                <a href="vocabularypractice.html?group=v06-vocab" class="vocab-chip">V06 Complaints</a>
+                <a href="vocabularypractice.html?group=v12-vocab" class="vocab-chip">V12 Safety &amp; Emergency</a>
               </div>
             </div>
           </div>
@@ -777,8 +768,8 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
-                <a href="vocabularypractice.html?module=v02-vocab" class="vocab-chip">V02 Front Desk</a>
+                <a href="vocabularypractice.html?group=v01-vocab" class="vocab-chip">V01 Basic Greetings</a>
+                <a href="vocabularypractice.html?group=v02-vocab" class="vocab-chip">V02 Front Desk</a>
               </div>
             </div>
           </div>
@@ -839,8 +830,9 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v03-vocab" class="vocab-chip">V03 Guest Room</a>
-                <a href="vocabularypractice.html?module=v04-vocab" class="vocab-chip">V04 Housekeeping</a>
+                <a href="vocabularypractice.html?group=v03-vocab" class="vocab-chip">V03 Guest Room</a>
+                <a href="vocabularypractice.html?group=v04-vocab" class="vocab-chip">V04 Housekeeping</a>
+                <a href="vocabularypractice.html?group=v15-vocab" class="vocab-chip">V15 Laundry &amp; Additional Services</a>
               </div>
             </div>
           </div>
@@ -882,7 +874,7 @@ margin-top: 48px;
               </div>
               <div class="vocab-xref">
                 <span class="vocab-xref-label">Related Vocab:</span>
-                <a href="vocabularypractice.html?module=v13-vocab" class="vocab-chip">V13 Staff &amp; Teamwork</a>
+                <a href="vocabularypractice.html?group=v13-vocab" class="vocab-chip">V13 Staff &amp; Teamwork</a>
               </div>
             </div>
           </div>
