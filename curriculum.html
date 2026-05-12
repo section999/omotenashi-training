@@ -25,6 +25,8 @@
       --border-default: #2a2a4a;
       --border-strong:  #4a4a6a;
       --accent-yellow:  #f1be32;
+      --accent-blue:    #f1be32;
+      --accent-blue-rgb: 241,190,50;
       --accent-green:   #1fad69;
       --accent-rgb:     241,190,50;
       --transition:     150ms ease;
@@ -381,7 +383,8 @@ margin-top: 48px;
       --border-default: #c8c9cc;
       --border-strong:  #8e8e9a;
       --accent-yellow:  #f1be32;
-      --accent-blue:    #0096db;
+      --accent-blue:    #002ead;
+      --accent-blue-rgb: 0,46,173;
       --accent-green:   #71b771;
       --accent-red:     #e47777;
       --accent-purple:  #9b59b6;
@@ -457,7 +460,7 @@ margin-top: 48px;
       border: 1px solid;
     }
     .pillar-icon.yellow { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
-    .pillar-icon.blue   { background: rgba(25,142,238,.1); border-color: rgba(25,142,238,.3); }
+    .pillar-icon.blue   { background: rgba(var(--accent-blue-rgb),.1); border-color: rgba(var(--accent-blue-rgb),.3); }
     .pillar-icon.green  { background: rgba(31,173,105,.1); border-color: rgba(31,173,105,.3); }
     .pillar-icon.purple { background: rgba(155,89,182,.1); border-color: rgba(155,89,182,.3); }
     .pillar-text-title {
@@ -524,7 +527,7 @@ margin-top: 48px;
   .vocab-xref { display:flex; align-items:center; gap:6px; flex-wrap:wrap; margin-top:10px; padding:8px 0 4px; border-top:1px solid var(--border-default); }
   .vocab-xref-label { font-family:var(--font-mono); font-size:0.68rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); white-space:nowrap; }
   .vocab-chip { display:inline-block; padding:3px 10px; border-radius:12px; border:1px solid var(--accent-blue); color:var(--accent-blue); font-size:0.75rem; font-weight:600; text-decoration:none; white-space:nowrap; transition:background 0.12s; }
-  .vocab-chip:hover { background:rgba(25,142,238,0.1); }
+  .vocab-chip:hover { background:rgba(var(--accent-blue-rgb),0.1); }
   </style>
   <link rel="stylesheet" href="assets/nav.css" />
 </head>
@@ -592,7 +595,7 @@ margin-top: 48px;
       <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
         style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
         onkeydown="if(event.key==='Enter')submitSignIn()" />
-      <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
+      <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
         Start Learning
       </button>
       <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />

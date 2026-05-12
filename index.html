@@ -22,7 +22,8 @@
       --bg-tertiary:   #2a2a4a;
       --bg-surface:    #0d0d1a;
       --accent-yellow: #f1be32;
-      --accent-blue:   #198eee;
+      --accent-blue:   #f1be32;
+      --accent-blue-rgb: 241,190,50;
       --accent-green:  #1fad69;
       --accent-red:    #c5442a;
       --accent-purple: #9b59b6;
@@ -51,7 +52,8 @@
       --border-default: #c8c9cc;
       --border-strong:  #8e8e9a;
       --accent-yellow:  #f1be32;
-      --accent-blue:    #0096db;
+      --accent-blue:    #002ead;
+      --accent-blue-rgb: 0,46,173;
       --accent-green:   #71b771;
       --accent-red:     #e47777;
       --accent-purple:  #9b59b6;
@@ -347,8 +349,8 @@
       transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
     }
     .btn-hero-secondary:hover {
-      background: rgba(25,142,238,0.08);
-      box-shadow: 0 0 0 4px rgba(25,142,238,.15);
+      background: rgba(var(--accent-blue-rgb),0.08);
+      box-shadow: 0 0 0 4px rgba(var(--accent-blue-rgb),.15);
       transform: translateY(-2px);
     }
 
@@ -663,7 +665,7 @@
       border: 1px solid;
     }
     .pillar-icon.yellow { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
-    .pillar-icon.blue   { background: rgba(25,142,238,.1); border-color: rgba(25,142,238,.3); }
+    .pillar-icon.blue   { background: rgba(var(--accent-blue-rgb),.1); border-color: rgba(var(--accent-blue-rgb),.3); }
     .pillar-icon.green  { background: rgba(31,173,105,.1); border-color: rgba(31,173,105,.3); }
     .pillar-icon.purple { background: rgba(155,89,182,.1); border-color: rgba(155,89,182,.3); }
     .pillar-text-title {
@@ -729,7 +731,7 @@
       inset: 0;
       background:
         radial-gradient(ellipse 70% 80% at 50% 50%, rgba(241,190,50,0.07) 0%, transparent 70%),
-        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(25,142,238,0.06) 0%, transparent 60%);
+        radial-gradient(ellipse 40% 40% at 10% 90%, rgba(var(--accent-blue-rgb),0.06) 0%, transparent 60%);
     }
     .cta-inner {
       position: relative;
@@ -937,7 +939,7 @@
       <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
         style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
         onkeydown="if(event.key==='Enter')submitSignIn()" />
-      <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
+      <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
         Start Learning
       </button>
       <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />

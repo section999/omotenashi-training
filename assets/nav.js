@@ -142,7 +142,7 @@ function updateBanner(name) {
     text.textContent = "Start tracking your progress today — no account needed";
     btn.textContent = 'Save Progress';
     btn.onclick = openSignInModal;
-    btn.style.background = '#0a84ff';
+    btn.style.background = 'var(--accent-blue)';
     btn.style.border = 'none';
     btn.style.color = '#fff';
   }

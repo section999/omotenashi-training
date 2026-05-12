@@ -8,13 +8,14 @@
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
-      --accent-yellow:#f1be32; --accent-blue:#198eee; --accent-green:#1fad69; --accent-red:#c5442a;
+      --accent-yellow:#f1be32; --accent-blue:#f1be32; --accent-blue-rgb:241,190,50; --accent-green:#1fad69; --accent-red:#c5442a;
       --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
       --border-default:#2a2a4a; --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
     }
     [data-theme="light"] {
       --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
       --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a; --border-default:#c8c9cc;
+      --accent-blue:#002ead; --accent-blue-rgb:0,46,173;
     }
     [data-theme="light"] .nav { background:#0a0a23 !important; }
     [data-theme="light"] .nav * { color:#ffffff !important; }
@@ -67,10 +68,10 @@
     .cs-card { background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px; height:400px; width:100%; cursor:pointer; padding:48px 40px; margin-bottom:28px; overflow:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; position:relative; transition:border-color 0.2s; user-select:none; }
     .cs-card.flipped { user-select:text; cursor:default; }
     .cs-card.flipped .cs-face-back { user-select:text; }
-    .cs-card:hover { border-color:rgba(25,142,238,0.3); }
-    .cs-card.flipped { border-color:rgba(25,142,238,0.22); background:rgba(25,142,238,0.03); }
+    .cs-card.flipped { border-color:rgba(var(--accent-blue-rgb),0.22); background:rgba(var(--accent-blue-rgb),0.03); }
+    .cs-card .dict-wrap { user-select:text; cursor:auto; }
     .cs-flip-icon { position:absolute; top:10px; right:13px; font-size:0.7rem; color:var(--text-muted); opacity:0.45; pointer-events:none; }
-    .cs-face { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; width:100%; height:100%; overflow-y:auto; transition:opacity 0.13s; }
+    .cs-face { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; width:100%; height:100%; overflow-y:visible; transition:opacity 0.13s; }
     .cs-face-back { display:none; opacity:0; }
 
     .cs-jp { font-size:2.6rem; font-weight:700; color:var(--accent-yellow); }
@@ -110,19 +111,19 @@
     .key { display:inline-block; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:3px; padding:1px 5px; font-family:var(--font-mono); font-size:0.68rem; }
 
     /* ── DICTATION ── */
-    .dict-wrap { display:flex; flex-direction:column; align-items:center; gap:14px; width:100%; padding:10px 0; }
-    .dict-play-btn { width:72px; height:72px; border-radius:50%; background:var(--bg-tertiary); border:2px solid var(--accent-yellow); color:var(--accent-yellow); font-size:1.8rem; cursor:pointer; transition:all 0.15s; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
-    .dict-play-btn:hover { background:rgba(241,190,50,0.1); transform:scale(1.05); }
+    .dict-wrap { display:flex; flex-direction:column; align-items:center; gap:28px; width:100%; padding:60px 0 14px; }
+    .dict-play-btn { background:none; border:none; color:var(--accent-yellow); font-size:3rem; cursor:pointer; transition:transform 0.15s, opacity 0.15s; padding:6px; line-height:1; }
+    .dict-play-btn:hover { opacity:0.8; transform:scale(1.08); }
     .dict-play-btn.playing { animation:dict-pulse 0.8s ease-in-out infinite; }
-    @keyframes dict-pulse { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 14px rgba(241,190,50,0); } }
-    .dict-hint { font-size:0.82rem; color:var(--text-muted); }
-    .dict-input { width:100%; max-width:380px; padding:10px 14px; border-radius:6px; border:1px solid var(--border-default); background:var(--bg-tertiary); color:var(--text-primary); font-size:1.2rem; text-align:center; outline:none; font-family:inherit; }
-    .dict-input:focus { border-color:var(--accent-blue); }
-    .dict-input:disabled { opacity:0.5; }
-    .dict-result { font-size:0.92rem; line-height:1.6; text-align:center; min-height:2.5em; }
-    .dict-result .answer { font-size:1.4rem; font-weight:700; color:var(--accent-yellow); margin-top:6px; }
-    .dict-actions { display:flex; gap:10px; justify-content:center; margin-bottom:10px; }
-    .dict-btn { padding:9px 24px; border-radius:6px; font-size:0.9rem; font-weight:600; cursor:pointer; transition:opacity 0.15s; font-family:inherit; }
+    @keyframes dict-pulse { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.3); } 50% { box-shadow:0 0 0 16px rgba(241,190,50,0); } }
+    .dict-hint { font-size:1.3rem; color:var(--text-muted); letter-spacing:0.02em; }
+    .dict-input { width:100%; max-width:360px; padding:12px 18px; border-radius:8px; border:1.5px solid var(--border-default); background:var(--bg-tertiary); color:var(--text-primary); font-size:1.15rem; text-align:center; outline:none; font-family:inherit; transition:border-color 0.2s, box-shadow 0.2s; margin-top:32px; }
+    .dict-input:focus { border-color:var(--text-secondary); box-shadow:0 0 0 3px rgba(255,255,255,0.06); }
+    .dict-input:disabled { opacity:0.45; }
+    .dict-result { font-size:0.95rem; line-height:1.65; text-align:center; min-height:3em; padding:4px 0; }
+    .dict-result .answer { font-size:1.5rem; font-weight:700; color:var(--accent-yellow); margin-top:8px; }
+    .dict-actions { display:flex; gap:12px; justify-content:center; margin:4px 0 12px; }
+    .dict-btn { padding:10px 28px; border-radius:8px; font-size:0.9rem; font-weight:600; cursor:pointer; transition:opacity 0.15s, background 0.15s; font-family:inherit; }
     .dict-btn:disabled { opacity:0.3; cursor:default; }
     .dict-btn-check { background:var(--accent-blue); color:#fff; border:1px solid var(--accent-blue); }
     .dict-btn-check:hover:not(:disabled) { opacity:0.85; }
@@ -222,7 +223,7 @@
     <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
       style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
       onkeydown="if(event.key==='Enter')submitSignIn()" />
-    <button onclick="submitSignIn()" style="width:100%;background:#0a84ff;color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
+    <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
       Start Learning
     </button>
     <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
@@ -660,9 +661,9 @@ function updateDictationCard(file, data) {
   const checkBtn = document.getElementById('dictCheckBtn');
   const skipBtn = document.getElementById('dictSkipBtn');
 
-  if (hint) hint.textContent = 'Listen and type what you hear';
+  if (hint) { hint.textContent = 'Listen and type what you hear'; hint.style.display = ''; }
   if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'none'; }
-  if (input) { input.value = ''; input.disabled = false; input.focus(); }
+  if (input) { input.value = ''; input.disabled = false; input.style.display = ''; input.focus(); }
   if (result) result.innerHTML = '';
   if (checkBtn) checkBtn.disabled = false;
   if (skipBtn) skipBtn.disabled = false;
@@ -730,16 +731,20 @@ function checkDictation() {
   const normCorrect = data.jp.replace(/\s+/g, '');
   const isCorrect = normUser === normCorrect;
 
+  const hint = document.getElementById('dictHint');
+  if (hint) hint.style.display = 'none';
+
+  const defHtml = data.definition ? '<div style="font-size:0.85rem;color:var(--text-secondary);margin-top:10px;line-height:1.55;">' + escHtml(data.definition) + '</div>' : '';
+
   if (isCorrect) {
     result.innerHTML =
       '<div style="color:var(--accent-green);font-size:1.05rem;">✓ Correct!</div>' +
-      '<div class="answer">' + escHtml(data.jp) + '</div>';
+      '<div class="answer">' + escHtml(data.jp) + '</div>' + defHtml;
   } else {
     result.innerHTML =
       '<div style="color:var(--accent-red);font-size:1.05rem;">✗ Not quite</div>' +
       '<div class="answer">' + escHtml(data.jp) + '</div>' +
-      '<div class="dict-romaji" style="margin-top:6px;display:block;">' + escHtml(data.romaji) + '</div>' +
-      '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">You typed: ' + escHtml(userAns) + '</div>';
+      '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">You typed: ' + escHtml(userAns) + '</div>' + defHtml;
   }
 
   input.disabled = true;
@@ -749,52 +754,32 @@ function checkDictation() {
   if (skipBtn) skipBtn.disabled = true;
 
   const romajiEl = document.getElementById('dictRomaji');
-  if (romajiEl) romajiEl.style.display = 'block';
-
-  const actions = document.getElementById('csActions');
-  if (actions) actions.style.display = 'flex';
-  const know = document.getElementById('csKnow');
-  const learning = document.getElementById('csLearning');
-  if (know) know.disabled = false;
-  if (learning) learning.disabled = false;
-  if (data) {
-    const def = data.definition || '';
-    const statusEl = document.getElementById('csStatus');
-    if (statusEl) statusEl.innerHTML = '<span style="color:var(--text-secondary);font-size:0.82rem;">' + escHtml(def) + '</span>';
-  }
+  if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'block'; }
 }
 
 function skipDictation() {
   const data = currentCardData;
   if (!data) return;
 
+  const defHtml = data.definition ? '<div style="font-size:0.85rem;color:var(--text-secondary);margin-top:10px;line-height:1.55;">' + escHtml(data.definition) + '</div>' : '';
   const result = document.getElementById('dictResult');
   if (result) {
     result.innerHTML =
       '<div style="color:var(--text-muted);font-size:1.05rem;">Answer</div>' +
-      '<div class="answer">' + escHtml(data.jp) + '</div>' +
-      '<div class="dict-romaji" style="margin-top:6px;display:block;">' + escHtml(data.romaji) + '</div>';
+      '<div class="answer">' + escHtml(data.jp) + '</div>' + defHtml;
   }
 
   const input = document.getElementById('dictInput');
-  if (input) input.disabled = true;
+  if (input) { input.disabled = true; input.style.display = 'none'; }
   const checkBtn = document.getElementById('dictCheckBtn');
   const skipBtn = document.getElementById('dictSkipBtn');
   if (checkBtn) checkBtn.disabled = true;
   if (skipBtn) skipBtn.disabled = true;
 
+  const hint = document.getElementById('dictHint');
+  if (hint) hint.style.display = 'none';
   const romajiEl = document.getElementById('dictRomaji');
-  if (romajiEl) romajiEl.style.display = 'block';
-
-  const actions = document.getElementById('csActions');
-  if (actions) actions.style.display = 'flex';
-  const know = document.getElementById('csKnow');
-  const learning = document.getElementById('csLearning');
-  if (know) know.disabled = false;
-  if (learning) learning.disabled = false;
-
-  const statusEl = document.getElementById('csStatus');
-  if (statusEl && data.definition) statusEl.innerHTML = '<span style="color:var(--text-secondary);font-size:0.82rem;">' + escHtml(data.definition) + '</span>';
+  if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'block'; }
 }
 
 // ── FLIP ─────────────────────────────────────────────────────────────────────
