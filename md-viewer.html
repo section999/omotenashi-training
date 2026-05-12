@@ -187,10 +187,10 @@
     .choice-btn:hover { border-color: var(--accent-blue); color: #fff; background: rgba(25,142,238,0.06); }
     .choice-btn.wrong { border-color: var(--accent-red); color: #e07060; opacity: 0.6; }
     .choice-btn.answered { opacity: 0.4; cursor: default; pointer-events: none; }
-    .choice-speak-icon { cursor:pointer; font-size:0.85rem; margin-right:8px; flex-shrink:0; opacity:0.5; transition:opacity 0.15s; line-height:1; }
-    .choice-speak-icon:hover { opacity:1; }
-    .msg-speak-btn { flex-shrink: 0; background: transparent; border: 1px solid var(--border-default); color: var(--text-muted); width: 36px; height: 32px; border-radius: 5px; cursor: pointer; font-size: 0.95rem; display: flex; align-items: center; justify-content: center; transition: border-color 0.12s, color 0.12s; }
-    .msg-speak-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); }
+    .choice-speak-icon { cursor:pointer; font-size:0.85rem; margin-left:4px; flex-shrink:0; opacity:0.45; transition:opacity 0.18s, transform 0.18s; line-height:1; }
+    .choice-speak-icon:hover { opacity:1; transform:scale(1.25); text-shadow:0 0 6px rgba(241,190,50,0.5); }
+    .msg-speak-btn { background:none; border:none; cursor:pointer; font-size:0.85rem; padding:0; vertical-align:middle; opacity:0.55; transition:opacity 0.18s, transform 0.18s; }
+    .msg-speak-btn:hover { opacity:1; transform:scale(1.25); text-shadow:0 0 6px rgba(241,190,50,0.5); }
     .choice-wrap { display: flex; flex-direction: column; }
     .choice-row { display: flex; gap: 8px; align-items: stretch; }
     .choice-row .choice-btn { flex: 1; }
@@ -220,6 +220,16 @@
 .pron-label { font-size:0.68rem; text-transform:uppercase; letter-spacing:0.06em; color:var(--text-muted); margin-bottom:2px; }
 .pron-conf { font-size:0.75rem; color:var(--text-muted); margin:2px 0; }
 .pron-retry-msg { font-size:0.82rem; color:var(--accent-yellow); margin-top:4px; animation:fadeIn 0.3s; }
+.pron-meter { display:flex; align-items:center; gap:6px; margin-bottom:3px; }
+.pron-meter-track { flex:1; height:6px; background:rgba(255,255,255,0.08); border-radius:3px; overflow:hidden; }
+.pron-meter-fill { height:100%; border-radius:3px; transition:width 0.4s ease; }
+.pron-summary { font-size:0.78rem; color:var(--text-muted); margin-bottom:6px; }
+.pron-utterance { font-size:0.82rem; color:var(--text-secondary); margin-bottom:5px; padding:4px 8px; background:rgba(255,255,255,0.03); border-radius:4px; word-break:break-all; }
+.pron-details summary::-webkit-details-marker { display:none; }
+.pron-details summary { list-style:none; display:flex; align-items:center; gap:8px; padding:2px 0; cursor:pointer; user-select:none; }
+.pron-details summary:hover { opacity:0.8; }
+.pron-details summary::before { content:'\25B6'; font-size:0.6rem; color:var(--text-muted); transition:transform 0.2s; }
+.pron-details[open] summary::before { content:'\25B6'; transform:rotate(90deg); }
 @keyframes fadeIn { from { opacity:0; transform:translateY(-4px); } to { opacity:1; transform:translateY(0); } }
 .wave-bar { display:flex; align-items:flex-end; gap:2px; height:24px; margin:6px 0; justify-content:center; }
 .wave-bar span { width:4px; background:var(--accent-yellow); border-radius:2px; animation:waveAnim 0.6s ease-in-out infinite alternate; }
@@ -231,20 +241,19 @@
 @keyframes waveAnim { 0% { transform:scaleY(0.4); } 100% { transform:scaleY(1); } }
     /* ── VOICE GUIDE ─────────────────────────────────────────────────── */
     .voice-guide-popover {
-      position:absolute; top:100%; right:0; margin-top:10px;
+      position:fixed; top:50%; right:24px; transform:translateY(-50%);
       width:340px; max-width:92vw;
       background:var(--bg-secondary);
       border:1px solid var(--border-default);
       border-radius:10px; padding:0;
-      z-index:100;
+      z-index:1000;
       box-shadow:0 12px 48px rgba(0,0,0,0.6);
       opacity:0; visibility:hidden;
-      transform:translateY(-6px);
-      transition:opacity 0.25s, visibility 0.25s, transform 0.25s;
+      transition:opacity 0.25s, visibility 0.25s;
       font-size:0.82rem; line-height:1.6;
       overflow:hidden;
     }
-    .voice-guide-popover.open { opacity:1; visibility:visible; transform:translateY(0); }
+    .voice-guide-popover.open { opacity:1; visibility:visible; }
     .vg-header {
       display:flex; align-items:center; gap:10px;
       padding:14px 18px 10px;
@@ -281,33 +290,7 @@
     }
     .vg-step-text { color:var(--text-secondary); font-size:0.8rem; line-height:1.5; }
     .vg-step-text strong { color:var(--text-primary); font-weight:600; }
-    .vg-note {
-      display:flex; align-items:center; gap:8px;
-      padding:8px 10px; border-radius:6px;
-      background:rgba(241,190,50,0.06);
-      font-size:0.78rem; color:var(--text-secondary);
-    }
-    .vg-note-icon { font-size:0.85rem; flex-shrink:0; }
-    .vg-footer {
-      display:flex; align-items:center; gap:12px; flex-wrap:wrap;
-      padding:10px 18px;
-      background:rgba(255,255,255,0.02);
-      border-top:1px solid var(--border-default);
-    }
-    .vg-compat { font-size:0.78rem; display:flex; align-items:center; gap:6px; margin-right:auto; }
-    .vg-compat .dot { width:7px; height:7px; border-radius:50%; display:inline-block; }
-    .vg-compat .dot.ok { background:var(--accent-green); }
-    .vg-compat .dot.fail { background:#e07060; }
     .vg-dim { color:var(--text-muted); font-size:0.72rem; }
-    .voice-guide-popover::after {
-      content:''; position:absolute; bottom:100%; right:18px;
-      border:7px solid transparent; border-bottom-color:var(--border-default);
-    }
-    .voice-guide-popover::before {
-      content:''; position:absolute; bottom:100%; right:18px;
-      border:6px solid transparent; border-bottom-color:var(--bg-secondary);
-      z-index:1;
-    }
     .chat-header { position:relative; }
     /* ── FIRST-USE GUIDE ─────────────────────────────────────────────── */
     @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(25,142,238,0.4); } 50% { box-shadow:0 0 0 6px rgba(25,142,238,0); } }
@@ -1460,7 +1443,18 @@ function vocabShowScore(analysis, heard, confidence) {
   const score = analysis.score;
   const isGood = score >= 85, isOk = score >= 65;
   const cls = isGood ? 'ok' : isOk ? 'ok' : 'err';
-  const label = isGood ? '✓ Perfect — ' + score + '%' : isOk ? '△ Good — ' + score + '%' : '✗ Try Again — ' + score + '%';
+  const fillColor = isGood ? 'var(--accent-green)' : 'var(--accent-yellow)';
+  const label = isGood ? 'Perfect!' : isOk ? 'Good' : 'Try Again';
+  let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
+  if (analysis.expected) analysis.expected.forEach(function(c) {
+    if (c.status === 'match') matchCnt++; else if (c.status === 'wrong') wrongCnt++; else if (c.status === 'missing') missingCnt++;
+  });
+  if (analysis.spoken) analysis.spoken.forEach(function(c) { if (c.status === 'extra') extraCnt++; });
+  let parts = [];
+  if (matchCnt) parts.push('<span style="color:var(--accent-green);">' + matchCnt + ' correct</span>');
+  if (wrongCnt) parts.push('<span style="color:#e07060;">' + wrongCnt + ' wrong</span>');
+  if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+' + extraCnt + '</span>');
+  if (missingCnt) parts.push('<span style="color:var(--text-muted);">-' + missingCnt + '</span>');
   let alignHtml = '';
   if (analysis.expected && analysis.expected.length) {
     alignHtml += simBuildAlignHtml(analysis.expected, 'Expected');
@@ -1468,33 +1462,29 @@ function vocabShowScore(analysis, heard, confidence) {
   if (analysis.spoken && analysis.spoken.length) {
     alignHtml += simBuildAlignHtml(analysis.spoken, 'You said');
   }
-  const confHtml = confidence ? '<div class="pron-conf">Confidence: ' + Math.round(confidence * 100) + '%</div>' : '';
+  const confHtml = confidence !== null && confidence !== undefined
+    ? '<div class="pron-meter" style="margin-top:4px;">' +
+      '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
+      '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
+      '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(confidence * 100) + '%</span>' +
+      '</div>'
+    : '';
   fb.className = 'quiz-feedback ' + cls;
   fb.style.cssText = '';
   if (!isGood && isOk) {
     fb.style.background = 'rgba(241,190,50,0.1)';
     fb.style.borderColor = 'rgba(241,190,50,0.3)';
   }
-  fb.innerHTML = '<div style="font-weight:600;margin-bottom:4px;">' + label + '</div>' + alignHtml + confHtml;
+  fb.innerHTML = '<div class="pron-meter">' +
+    '<div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
+    '<span style="font-weight:700;font-size:0.85rem;color:' + fillColor + ';">' + score + '% ' + label + '</span>' +
+    '</div>' +
+    (parts.length ? '<div class="pron-summary">' + parts.join(' · ') + '</div>' : '') +
+    (heard ? '<div class="pron-utterance">💬 ' + escapeHtml(heard) + '</div>' : '') +
+    alignHtml + confHtml;
   fb.style.display = 'block';
 }
 
-function vocabShowScore(score, heard) {
-  const fb = document.getElementById('vocabPronFeedback');
-  if (!fb) return;
-  const isGood = score >= 85, isOk = score >= 65;
-  const label = isGood ? `✓ Perfect — ${score}%` : isOk ? `△ Good — ${score}%` : `✗ Try Again — ${score}%`;
-  const heardLine = heard ? ` Recognized: 「${heard}」` : '';
-  fb.className = 'quiz-feedback ' + (isGood ? 'ok' : isOk ? 'ok' : 'err');
-  fb.style.cssText = '';
-  if (!isGood && isOk) {
-    fb.style.background = 'rgba(241,190,50,0.1)';
-    fb.style.borderColor = 'rgba(241,190,50,0.3)';
-    fb.style.color = 'var(--accent-yellow)';
-  }
-  fb.textContent = label + heardLine;
-  fb.style.display = 'block';
-}
 
 
 // ── FLASHCARD ─────────────────────────────────────────────────────────────────
@@ -1724,6 +1714,7 @@ function jpWrap(text) {
 let _simActiveRec = null;
 let _simRetryTimer = null;
 let _simAutoSelectTimer = null;
+let _lastPracticeResult = null;
 function simStartPractice(expectedText, btn) {
   const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
   if (!SR) {
@@ -1772,6 +1763,8 @@ function simStartPractice(expectedText, btn) {
     btn.classList.remove('listening'); btn.classList.add('done'); btn.textContent = '🎤';
     simShowWave(btn, false);
     simShowPracticeResult(btn, bestSpoken, analysis, bestConf);
+    // Store for persistence in user message
+    _lastPracticeResult = { spoken: bestSpoken, analysis, confidence: bestConf };
     // Try to auto-select choice if speech matches
     const turn = _simScenario ? _simScenario.turns[_simTurn] : null;
     if (turn) {
@@ -1905,8 +1898,31 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   }
   const score = analysis.score;
   const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
+  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
   const msg = score >= 80 ? '上手です！ Great!' : score >= 50 ? 'もう少し！ Keep practicing' : 'もう一度！ Try again';
-  // Build alignment HTML
+  // Count statuses
+  let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
+  if (analysis.expected) analysis.expected.forEach(function(c) {
+    if (c.status === 'match') matchCnt++; else if (c.status === 'wrong') wrongCnt++; else if (c.status === 'missing') missingCnt++;
+  });
+  if (analysis.spoken) analysis.spoken.forEach(function(c) { if (c.status === 'extra') extraCnt++; });
+  // Score bar
+  var scoreBarHtml = '<div class="pron-meter">' +
+    '<div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
+    '<span class="' + cls + '" style="font-weight:700;font-size:0.85rem;">' + score + '%</span>' +
+    '</div>';
+  // Message
+  var msgHtml = '<div style="font-size:0.88rem;margin-bottom:2px;">' + msg + '</div>';
+  // Summary
+  var parts = [];
+  if (matchCnt) parts.push('<span style="color:var(--accent-green);">✓ ' + matchCnt + ' correct</span>');
+  if (wrongCnt) parts.push('<span style="color:#e07060;">✗ ' + wrongCnt + ' wrong</span>');
+  if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+ ' + extraCnt + ' extra</span>');
+  if (missingCnt) parts.push('<span style="color:var(--text-muted);">− ' + missingCnt + ' missing</span>');
+  var summaryHtml = parts.length ? '<div class="pron-summary">' + parts.join(' · ') + '</div>' : '';
+  // Spoken utterance
+  var utteranceHtml = spoken ? '<div class="pron-utterance">💬 ' + escapeHtml(spoken) + '</div>' : '';
+  // Alignment
   let alignHtml = '';
   if (analysis.expected && analysis.expected.length) {
     alignHtml += simBuildAlignHtml(analysis.expected, 'Expected');
@@ -1914,17 +1930,15 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   if (analysis.spoken && analysis.spoken.length) {
     alignHtml += simBuildAlignHtml(analysis.spoken, 'You said');
   }
-  const confHtml = confidence !== null && confidence !== undefined
-    ? '<div class="pron-conf">Confidence: ' + Math.round(confidence * 100) + '%</div>'
+  // Confidence bar
+  var confHtml = confidence !== null && confidence !== undefined
+    ? '<div class="pron-meter" style="margin-top:4px;">' +
+      '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
+      '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
+      '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(confidence * 100) + '%</span>' +
+      '</div>'
     : '';
-  el.innerHTML =
-    '<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px;">' +
-      '<span class="' + cls + '" style="font-size:1rem;">' +
-        '<strong>' + score + '%</strong> — ' + msg +
-      '</span>' +
-    '</div>' +
-    alignHtml +
-    confHtml;
+  el.innerHTML = scoreBarHtml + msgHtml + summaryHtml + utteranceHtml + alignHtml + confHtml;
 }
 
 // ── SIMULATOR — SCENARIO RENDERER ──────────────────────────────────────────────
@@ -2032,6 +2046,7 @@ function simRenderTurn() {
   if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
   if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
   if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
+  _lastPracticeResult = null;
   const turn = _simScenario.turns[_simTurn];
   const prog = document.getElementById('chatTurnProgress');
   if (prog) prog.textContent = `Turn ${_simTurn + 1}/${_simScenario.turns.length}`;
@@ -2043,13 +2058,17 @@ function simRenderTurn() {
     `<div style="display:flex;align-items:center;justify-content:center;margin-bottom:10px;position:relative;">
       <div style="text-align:center;">
         <div class="choices-label" style="margin:0;font-size:0.95rem;">Your response</div>
-        <div style="font-size:0.78rem;color:var(--text-muted);margin-top:2px;">Click the correct answer or press 🎤 to speak</div>
+        <div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:0.78rem;color:var(--text-muted);margin-top:2px;">
+          <span>Click or <span style="font-size:0.82rem;">🎤</span> to speak</span>
+          <span style="color:var(--border-default);font-size:0.6rem;">|</span>
+          <span><span style="font-size:0.82rem;">🔊</span> to hear pronunciation</span>
+        </div>
       </div>
       <div class="voice-guide-popover" id="voiceGuidePopover" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()">
         <div class="vg-header">
           <div class="vg-header-icon">🎤</div>
           <div>
-              <h4>Voice Mode Guide</h4>
+              <h4>Pronunciation Guide</h4>
           </div>
         </div>
         <div class="vg-body">
@@ -2083,8 +2102,8 @@ function simRenderTurn() {
       return `<div class="choice-wrap">
         <div class="choice-row">
           <button class="choice-btn" data-idx="${idx}" onclick="simSelectChoice(${idx})">
-            <span class="choice-speak-icon" data-speak="${safeText}" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</span>
             <strong>${jpWrap(c.text)}</strong>
+            <span class="choice-speak-icon" data-speak="${safeText}" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" title="Hear pronunciation"> 🔊</span>
             ${c.label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${c.label}</div>` : ''}
           </button>
           <button class="practice-btn" data-practice="${safeText}" onclick="simStartPractice(this.dataset.practice,this)" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()" title="Click, allow mic, then speak aloud">🎤</button>
@@ -2101,7 +2120,7 @@ function simRenderTurn() {
       });
       const toast = document.getElementById('jp-toast');
       if (toast) {
-        document.getElementById('jp-toast-text').textContent = '💡 Click 🎤 to practice speaking aloud!';
+        document.getElementById('jp-toast-text').textContent = 'Click 🎤 to practice speaking aloud!';
         toast.classList.add('show');
         clearTimeout(_toastTimer);
         _toastTimer = setTimeout(function() { toast.classList.remove('show'); }, 5000);
@@ -2120,6 +2139,7 @@ function simSelectChoice(idx) {
   const turn = _simScenario.turns[_simTurn];
   const choice = turn.choices[idx];
   if (choice.score === 0) {
+    _lastPracticeResult = null;
     if (btn) {
       btn.classList.add('wrong');
       if (choice.feedback) btn.innerHTML += `<div style="font-size:0.85rem;margin-top:6px;color:#e07060;">${choice.feedback}</div>`;
@@ -2130,7 +2150,8 @@ function simSelectChoice(idx) {
   _simTotalScore += choice.score;
   const badge = choice.score === 2 ? '<span class="feedback-badge badge-perfect">✓ Perfect</span>'
                                    : '<span class="feedback-badge badge-good">△ Good</span>';
-  simAddUserMessage(choice.text, choice.label || '', choice.feedback || '', badge);
+  simAddUserMessage(choice.text, choice.label || '', choice.feedback || '', badge, _lastPracticeResult);
+  _lastPracticeResult = null;
   _simTurn++;
   // show typing indicator
   const msgs = document.getElementById('chatMessages');
@@ -2166,11 +2187,8 @@ function simAddGuestMessage(text, jp) {
   div.innerHTML = `<div>
     <div class="msg-label">Guest</div>
     <div class="msg-bubble">
-      <div style="display:flex;align-items:flex-start;gap:8px;">
-        <strong style="flex:1;">${jpWrap(jp || text)}</strong>
-        ${jp ? `<button class="msg-speak-btn" data-speak="${safeJp}" onclick="simSpeak(this.dataset.speak)" title="音声を聞く">🔊</button>` : ''}
-      </div>
-      ${jp ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${text}</div>` : ''}
+      <strong>${jpWrap(jp || text)}</strong>${jp ? ` <button class="msg-speak-btn" data-speak="${safeJp}" onclick="simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</button>` : ''}
+      ${jp ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:3px;">${text}</div>` : ''}
     </div>
   </div>`;
   msgs.appendChild(div);
@@ -2179,20 +2197,76 @@ function simAddGuestMessage(text, jp) {
   if (window.innerWidth <= 640) div.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
-function simAddUserMessage(jp, label, feedback, badge) {
+function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
   const msgs = document.getElementById('chatMessages');
   const div = document.createElement('div');
   div.className = 'msg msg-user';
+  // Build practice feedback HTML if available
+  let practiceHtml = '';
+  if (practiceResult && practiceResult.analysis) {
+    var pr = practiceResult;
+    var score = pr.analysis.score;
+    var fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
+    // Count statuses
+    var m = 0, w = 0, e = 0, mis = 0;
+    if (pr.analysis.expected) pr.analysis.expected.forEach(function(c) {
+      if (c.status === 'match') m++; else if (c.status === 'wrong') w++; else if (c.status === 'missing') mis++;
+    });
+    if (pr.analysis.spoken) pr.analysis.spoken.forEach(function(c) { if (c.status === 'extra') e++; });
+    var parts = [];
+    if (m) parts.push('<span style="color:var(--accent-green);">' + m + ' correct</span>');
+    if (w) parts.push('<span style="color:#e07060;">' + w + ' wrong</span>');
+    if (e) parts.push('<span style="color:var(--accent-yellow);">+' + e + '</span>');
+    if (mis) parts.push('<span style="color:var(--text-muted);">-'+mis+'</span>');
+    // Alignment HTML
+    var alignHtml = '';
+    if (pr.analysis.expected && pr.analysis.expected.length) {
+      alignHtml += simBuildAlignHtml(pr.analysis.expected, 'Expected');
+    }
+    if (pr.analysis.spoken && pr.analysis.spoken.length) {
+      alignHtml += simBuildAlignHtml(pr.analysis.spoken, 'You said');
+    }
+    // Confidence
+    var confHtml = pr.confidence !== null && pr.confidence !== undefined
+      ? '<div class="pron-meter" style="margin-top:4px;">' +
+        '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
+        '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(pr.confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
+        '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(pr.confidence * 100) + '%</span>' +
+        '</div>'
+      : '';
+    // Details wrapper
+    practiceHtml =
+      '<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border-default);">' +
+      '<details class="pron-details">' +
+      '<summary>' +
+      '<span style="font-size:0.78rem;color:var(--text-muted);flex-shrink:0;">🎤 Practice</span>' +
+      '<div class="pron-meter-track" style="flex:1;height:4px;"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
+      '<span style="font-weight:700;font-size:0.82rem;color:' + fillColor + ';flex-shrink:0;">' + score + '%</span>' +
+      '</summary>' +
+      '<div style="margin-top:8px;">' +
+      '<div class="pron-meter" style="margin-bottom:4px;">' +
+        '<div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
+        '<span style="font-weight:700;font-size:0.85rem;color:' + fillColor + ';">' + score + '%</span>' +
+      '</div>' +
+      (parts.length ? '<div class="pron-summary" style="margin-bottom:0;">' + parts.join(' · ') + '</div>' : '') +
+      (pr.spoken ? '<div class="pron-utterance" style="margin-bottom:0;">💬 ' + escapeHtml(pr.spoken) + '</div>' : '') +
+      alignHtml +
+      confHtml +
+      '</div>' +
+      '</details>' +
+      '</div>';
+  }
   div.innerHTML = `<div>
     <div class="msg-label">You (Staff)</div>
     <div class="msg-bubble">
       <div style="display:flex;align-items:flex-start;gap:8px;">
         <span style="flex:1;">${jpWrap(jp)}</span>
-        <button class="msg-speak-btn" data-speak="${jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="simSpeak(this.dataset.speak)" title="音声を聞く">🔊</button>
+        <button class="msg-speak-btn" data-speak="${jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}" onclick="simSpeak(this.dataset.speak)" title="Hear pronunciation">🔊</button>
       </div>
       ${label ? `<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">${label}</div>` : ''}
       <div style="margin-top:8px;">${badge}</div>
       ${feedback ? `<div style="font-size:0.85rem;color:var(--text-muted);margin-top:6px;font-style:italic;">${feedback}</div>` : ''}
+      ${practiceHtml}
     </div>
   </div>`;
   msgs.appendChild(div);
