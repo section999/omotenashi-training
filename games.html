@@ -95,7 +95,7 @@
     /* ── INSTRUCTIONS MODAL ── */
     .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.65);z-index:999;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);animation:modalFadeIn 0.2s ease}
     @keyframes modalFadeIn{from{opacity:0}to{opacity:1}}
-    .modal-box{background:var(--bg-secondary);border:1px solid rgba(var(--accent-rgb),0.25);border-radius:16px;padding:0;max-width:420px;width:90%;text-align:center;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.5);animation:modalSlideIn 0.25s ease}
+    .modal-box{background:var(--bg-secondary);border-radius:16px;padding:0;max-width:420px;width:90%;text-align:center;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.5);animation:modalSlideIn 0.25s ease}
     @keyframes modalSlideIn{from{transform:translateY(30px);opacity:0}to{transform:translateY(0);opacity:1}}
     .modal-header{background:var(--bg-primary);padding:28px 28px 18px;border-bottom:1px solid var(--border-default)}
     .modal-icon{font-size:2.2rem;margin-bottom:6px}
@@ -111,9 +111,9 @@
     .modal-btn:active{transform:translateY(0)}
 
     /* ── MEMORY IMPROVEMENTS ── */
-    .mem-card-inner{width:100%;height:100%;transition:transform 0.4s;transform-style:preserve-3d;position:relative;border-radius:6px}
+    .mem-card-inner{width:100%;height:100%;transition:transform 0.35s;transform-style:preserve-3d;position:relative;border-radius:6px;pointer-events:none}
     .mem-card.flipped .mem-card-inner{transform:rotateY(180deg)}
-    .mem-card-face{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;border-radius:6px;backface-visibility:hidden;font-size:0.85rem;font-weight:600}
+    .mem-card-face{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;border-radius:6px;backface-visibility:hidden;font-size:0.85rem;font-weight:600;pointer-events:none}
     .mem-card-front{background:var(--bg-t);color:transparent;border:2px solid var(--border)}
     .mem-card-front::after{content:'?';color:var(--t-m);font-size:1.3rem;font-weight:700}
     .mem-card-back{background:var(--bg-p);color:var(--t-p);border:2px solid rgba(var(--accent-rgb),0.3);transform:rotateY(180deg);flex-direction:column;gap:2px}
@@ -137,11 +137,49 @@
     .hm-kana-row-label{width:100%;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-m);margin-bottom:2px;text-align:center}
 
     /* ── SPEED MATCH IMPROVEMENTS ── */
-    .sm-streak-display{text-align:center;margin-bottom:8px}
+    .sm-streak-display{text-align:center;margin-bottom:4px}
     .sm-streak-fire{font-size:1.1rem}
     .sm-streak-num{font-family:var(--font-mono);font-size:0.85rem;color:var(--t-m);margin-left:4px}
+    .sm-feedback{text-align:center;font-size:0.85rem;min-height:1.6em;margin-bottom:4px;transition:opacity 0.15s}
+    .sm-feedback.ok{color:var(--green)}
+    .sm-feedback.bad{color:var(--red)}
 
-    @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-card{min-height:54px}.mem-card-face{font-size:0.72rem}.mem-card-front::after{font-size:1rem}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}}
+    /* ── WORD SCRAMBLE ── */
+    .sc-word-num{font-size:0.72rem;color:var(--t-m);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
+    .sc-en{text-align:center;font-size:1rem;color:var(--t-s);margin:12px 0 8px}
+    .sc-hint{text-align:center;font-size:0.78rem;color:var(--t-m);margin:0 0 8px}
+    .sc-letters{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin:16px 0;min-height:44px}
+    .sc-letter{width:36px;height:36px;border-radius:6px;border:1.5px solid var(--border);background:var(--bg-t);color:var(--accent);font-size:0.95rem;font-weight:700;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono);cursor:pointer;transition:0.12s;user-select:none}
+    .sc-letter:hover{border-color:rgba(var(--accent-rgb),0.5);background:rgba(var(--accent-rgb),0.06)}
+    .sc-answer-wrap{background:var(--bg-primary);border:1.5px dashed var(--border-strong);border-radius:8px;padding:10px;min-height:44px;margin:8px 0 12px;display:flex;flex-wrap:wrap;justify-content:center;gap:6px}
+    .sc-answer-letter{width:36px;height:36px;border-radius:6px;border:1.5px solid var(--border);background:var(--bg-t);color:var(--t-p);font-size:0.95rem;font-weight:700;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono);cursor:pointer;transition:0.12s;user-select:none}
+    .sc-answer-letter:hover{border-color:var(--red);background:rgba(197,68,42,0.06)}
+    .sc-answer-letter.correct{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green);cursor:default}
+    .sc-answer-letter.wrong{background:rgba(197,68,42,0.1);border-color:var(--red);color:var(--red);cursor:default}
+    .sc-answer-placeholder{font-size:0.8rem;color:var(--t-m);padding:8px 0}
+    .sc-check-btn{display:block;margin:0 auto;padding:10px 32px;border-radius:6px;border:none;background:var(--accent);color:#0a0a23;font-size:0.9rem;font-weight:700;cursor:pointer;font-family:inherit;transition:0.12s}
+    .sc-check-btn:hover:not(:disabled){transform:translateY(-1px)}
+    .sc-check-btn:disabled{opacity:0.3;cursor:default}
+    .sc-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px}
+    .sc-feedback.ok{color:var(--green)}
+    .sc-feedback.bad{color:var(--red)}
+    /* ── FILL THE BLANK ── */
+    .bl-en{text-align:center;font-size:1rem;color:var(--t-s);margin:12px 0 8px}
+    .bl-word{text-align:center;font-size:1.8rem;font-weight:700;color:var(--t-p);margin:16px 0;letter-spacing:0.08em}
+    .bl-blank{color:var(--accent);text-decoration:underline;text-decoration-style:wavy;text-underline-offset:4px}
+    .bl-char{color:var(--t-p)}
+    .bl-opts{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;max-width:360px;margin:16px auto}
+    .bl-opt{width:48px;height:48px;border-radius:8px;border:1.5px solid var(--border);background:var(--bg-t);color:var(--t-p);font-size:1.1rem;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:inherit;transition:0.12s}
+    .bl-opt:hover{border-color:rgba(var(--accent-rgb),0.4)}
+    .bl-opt.correct{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green)}
+    .bl-opt.wrong{background:rgba(197,68,42,0.1);border-color:var(--red);color:var(--red)}
+    .bl-opt:disabled{opacity:0.5;cursor:default}
+    .bl-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px}
+    .bl-feedback.ok{color:var(--green)}
+    .bl-feedback.bad{color:var(--red)}
+    .bl-word-num{font-size:0.72rem;color:var(--t-m);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
+
+    @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-card{min-height:54px}.mem-card-face{font-size:0.72rem}.mem-card-front::after{font-size:1rem}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}.sc-letter{width:30px;height:30px;font-size:0.85rem}.sc-answer-letter{width:30px;height:30px;font-size:0.85rem}.bl-word{font-size:1.3rem}.bl-opt{width:42px;height:42px;font-size:1rem}}
     @media(max-height:500px) and (orientation:landscape){.mem-card{min-height:50px}}
 
     .logo-small { display: none; }
@@ -172,87 +210,435 @@
 
 <script>
 var GAMES_VOCAB = [
-  {jp:"いらっしゃいませ",rom:"irasshaimase",en:"Welcome"},
-  {jp:"おはようございます",rom:"ohayou gozaimasu",en:"Good morning"},
-  {jp:"こんにちは",rom:"konnichiwa",en:"Hello / good afternoon"},
-  {jp:"こんばんは",rom:"konbanwa",en:"Good evening"},
-  {jp:"ありがとうございます",rom:"arigatou gozaimasu",en:"Thank you"},
-  {jp:"かしこまりました",rom:"kashikomarimashita",en:"Certainly / understood"},
+  {jp:"いらっしゃいませ",rom:"irasshaimase",en:"welcome"},
+  {jp:"おはようございます",rom:"ohayou gozaimasu",en:"good morning"},
+  {jp:"こんにちは",rom:"konnichiwa",en:"hello / good afternoon"},
+  {jp:"こんばんは",rom:"konbanwa",en:"good evening"},
+  {jp:"ありがとうございます",rom:"arigatou gozaimasu",en:"thank you"},
   {jp:"申し訳ございません",rom:"moushiwake gozaimasen",en:"I am very sorry"},
-  {jp:"少々お待ちください",rom:"shoushou omachi kudasai",en:"Please wait a moment"},
-  {jp:"お名前",rom:"o-namae",en:"Name (polite)"},
-  {jp:"ご予約",rom:"go-yoyaku",en:"Reservation"},
-  {jp:"チェックイン",rom:"chekkuin",en:"Check-in"},
-  {jp:"チェックアウト",rom:"chekkuauto",en:"Check-out"},
-  {jp:"パスポート",rom:"pasupooto",en:"Passport"},
-  {jp:"お部屋",rom:"o-heya",en:"Room (polite)"},
-  {jp:"お荷物",rom:"o-nimotsu",en:"Luggage"},
-  {jp:"お湯",rom:"o-yu",en:"Hot water"},
-  {jp:"タオル",rom:"taoru",en:"Towel"},
-  {jp:"シーツ",rom:"shiitsu",en:"Sheets"},
-  {jp:"アメニティ",rom:"ameniti",en:"Amenities"},
-  {jp:"エアコン",rom:"eakon",en:"Air conditioner"},
-  {jp:"鍵",rom:"kagi",en:"Key"},
-  {jp:"清掃",rom:"seisou",en:"Cleaning"},
-  {jp:"ベッドメイキング",rom:"beddo meikingu",en:"Bed making"},
-  {jp:"ゴミ",rom:"gomi",en:"Trash"},
-  {jp:"メニュー",rom:"menyuu",en:"Menu"},
-  {jp:"注文",rom:"chuumon",en:"Order"},
-  {jp:"お勘定",rom:"o-kanjou",en:"Bill / check"},
-  {jp:"朝食",rom:"choushoku",en:"Breakfast"},
-  {jp:"夕食",rom:"yuushoku",en:"Dinner"},
-  {jp:"昼食",rom:"chuushoku",en:"Lunch"},
-  {jp:"お会計",rom:"o-kaikei",en:"Payment"},
-  {jp:"領収書",rom:"ryoushuusho",en:"Receipt"},
-  {jp:"現金",rom:"genkin",en:"Cash"},
-  {jp:"クレジットカード",rom:"kurejitto kaado",en:"Credit card"},
-  {jp:"予約",rom:"yoyaku",en:"Reservation"},
-  {jp:"キャンセル",rom:"kyanseru",en:"Cancellation"},
-  {jp:"空室",rom:"kuushitsu",en:"Vacant room"},
-  {jp:"満室",rom:"manshitsu",en:"Full / no vacancy"},
-  {jp:"フロント",rom:"furonto",en:"Front desk"},
-  {jp:"玄関",rom:"genkan",en:"Entrance"},
-  {jp:"ロビー",rom:"robii",en:"Lobby"},
-  {jp:"階段",rom:"kaidan",en:"Stairs"},
-  {jp:"エレベーター",rom:"erebeetaa",en:"Elevator"},
-  {jp:"お手洗い",rom:"o-tearai",en:"Restroom"},
-  {jp:"禁煙",rom:"kin'en",en:"No smoking"},
-  {jp:"喫煙",rom:"kitsuen",en:"Smoking"},
-  {jp:"大丈夫",rom:"daijoubu",en:"It's okay / alright"},
-  {jp:"結構",rom:"kekkou",en:"No thank you / sufficient"},
-  {jp:"お願いします",rom:"onegai shimasu",en:"Please"},
-  {jp:"失礼します",rom:"shitsurei shimasu",en:"Excuse me"},
-  {jp:"お電話",rom:"o-denwa",en:"Phone call"},
-  {jp:"伝言",rom:"dengon",en:"Message"},
-  {jp:"忘れ物",rom:"wasuremono",en:"Lost item"},
-  {jp:"お薬",rom:"o-kusuri",en:"Medicine"},
-  {jp:"病院",rom:"byouin",en:"Hospital"},
-  {jp:"救急車",rom:"kyuukyuusha",en:"Ambulance"},
-  {jp:"消防署",rom:"shoubousho",en:"Fire station"},
-  {jp:"警察",rom:"keisatsu",en:"Police"},
-  {jp:"お大事に",rom:"o-daiji ni",en:"Take care / get well"},
-  {jp:"お気をつけて",rom:"o-ki o tsukete",en:"Please take care"},
-  {jp:"行ってらっしゃい",rom:"itterasshai",en:"Have a good day"},
-  {jp:"恐れ入ります",rom:"osore irimasu",en:"I am sorry / excuse me"},
-  {jp:"承知しました",rom:"shouchi shimashita",en:"Understood"},
+  {jp:"失礼いたします",rom:"shitsurei itashimasu",en:"excuse me"},
+  {jp:"少々お待ちください",rom:"shoushou omachi kudasai",en:"please wait a moment"},
+  {jp:"かしこまりました",rom:"kashikomarimashita",en:"certainly / understood (very formal)"},
+  {jp:"はい / いいえ",rom:"hai / iie",en:"yes"},
+  {jp:"どうぞ",rom:"douzo",en:"please / go ahead"},
+  {jp:"こちらへどうぞ",rom:"kochira e douzo",en:"please come this way"},
+  {jp:"お願いいたします",rom:"onegai itashimasu",en:"please / I humbly request"},
+  {jp:"恐れ入ります",rom:"osore irimasu",en:"I appreciate / excuse me (polite)"},
+  {jp:"お手伝いしましょうか",rom:"otetsudai shimashou ka",en:"may I help you?"},
+  {jp:"ごゆっくりどうぞ",rom:"goyukkuri douzo",en:"please take your time"},
+  {jp:"ようこそ",rom:"youkoso",en:"welcome"},
+  {jp:"お疲れ様です",rom:"otsukaresama desu",en:"good work / thank you for your efforts"},
+  {jp:"お気をつけて",rom:"oki o tsukete",en:"please take care"},
+  {jp:"またお越しくださいませ",rom:"mata okoshi kudasaimase",en:"please come again"},
+  {jp:"ご理解ください",rom:"go-rikai kudasai",en:"please understand"},
+  {jp:"ご確認ください",rom:"go-kakunin kudasai",en:"please confirm"},
+  {jp:"承知いたしました",rom:"shouchi itashimashita",en:"certainly / understood"},
+  {jp:"ご案内いたします",rom:"go-annai itashimasu",en:"I will guide you"},
+  {jp:"フロント",rom:"furonto",en:"front desk"},
+  {jp:"チェックイン",rom:"check-in",en:"check-in"},
+  {jp:"チェックアウト",rom:"check-out",en:"check-out"},
+  {jp:"予約",rom:"yoyaku",en:"reservation"},
+  {jp:"予約確認",rom:"yoyaku kakunin",en:"confirmation"},
+  {jp:"宿泊",rom:"shukuhaku",en:"accommodation / stay"},
+  {jp:"空室",rom:"kuushitsu",en:"vacant room"},
+  {jp:"満室",rom:"manshitsu",en:"full / no vacancy"},
+  {jp:"お名前",rom:"onamae",en:"your name"},
+  {jp:"パスポート",rom:"passport",en:"passport"},
+  {jp:"身分証明書",rom:"mibun shomeisho",en:"ID"},
+  {jp:"サイン",rom:"sign",en:"signature"},
+  {jp:"料金",rom:"ryokin",en:"fee / charge"},
+  {jp:"税金",rom:"zeikin",en:"tax"},
+  {jp:"領収書",rom:"ryoushusho",en:"receipt"},
+  {jp:"支払い",rom:"shiharai",en:"payment"},
+  {jp:"現金",rom:"genkin",en:"cash"},
+  {jp:"クレジットカード",rom:"credit card",en:"credit card"},
+  {jp:"デポジット",rom:"deposit",en:"deposit"},
+  {jp:"キャンセル",rom:"cancel",en:"cancellation"},
+  {jp:"変更",rom:"henkou",en:"change"},
+  {jp:"延泊",rom:"enpaku",en:"extended stay"},
+  {jp:"早朝チェックイン",rom:"early check-in",en:"early check-in"},
+  {jp:"レイトチェックアウト",rom:"late check-out",en:"late check-out"},
+  {jp:"鍵",rom:"kagi",en:"key"},
+  {jp:"ルームキー",rom:"room key",en:"room key"},
+  {jp:"カードキー",rom:"card key",en:"card key"},
+  {jp:"案内",rom:"annai",en:"guidance / information"},
+  {jp:"受付",rom:"uketsuke",en:"reception"},
+  {jp:"フロント係",rom:"furonto kakari",en:"front desk staff"},
+  {jp:"客室",rom:"kyakushitsu",en:"guest room"},
+  {jp:"部屋",rom:"heya",en:"room"},
+  {jp:"シングルルーム",rom:"single room",en:"single room"},
+  {jp:"ダブルルーム",rom:"double room",en:"double room"},
+  {jp:"ツインルーム",rom:"twin room",en:"twin room"},
+  {jp:"スイートルーム",rom:"suite room",en:"suite room"},
+  {jp:"禁煙",rom:"kin'en",en:"non-smoking"},
+  {jp:"喫煙",rom:"kitsuen",en:"smoking"},
+  {jp:"ベッド",rom:"bed",en:"bed"},
+  {jp:"枕",rom:"makura",en:"pillow"},
+  {jp:"毛布",rom:"moufu",en:"blanket"},
+  {jp:"シーツ",rom:"sheets",en:"sheets"},
+  {jp:"タオル",rom:"towel",en:"towel"},
+  {jp:"バスタオル",rom:"bath towel",en:"bath towel"},
+  {jp:"シャワー",rom:"shower",en:"shower"},
+  {jp:"浴室",rom:"yokushitsu",en:"bathroom"},
+  {jp:"トイレ",rom:"toilet",en:"restroom"},
+  {jp:"洗面所",rom:"senmenjo",en:"washroom"},
+  {jp:"エアコン",rom:"air conditioner",en:"air conditioner"},
+  {jp:"テレビ",rom:"television",en:"TV / television"},
+  {jp:"冷蔵庫",rom:"reizouko",en:"refrigerator"},
+  {jp:"金庫",rom:"kinko",en:"safe"},
+  {jp:"ドア",rom:"door",en:"door"},
+  {jp:"鍵穴",rom:"kagiana",en:"keyhole"},
+  {jp:"窓",rom:"mado",en:"window"},
+  {jp:"清掃",rom:"seisou",en:"cleaning"},
+  {jp:"清掃係",rom:"seisou kakari",en:"cleaning staff"},
+  {jp:"ルームサービス",rom:"room service",en:"room service"},
+  {jp:"アメニティ",rom:"amenity",en:"amenities"},
+  {jp:"交換",rom:"koukan",en:"exchange / replacement"},
+  {jp:"掃除",rom:"souji",en:"cleaning"},
+  {jp:"清掃中",rom:"seisouchuu",en:"cleaning in progress"},
+  {jp:"清掃済み",rom:"seisou zumi",en:"cleaned"},
+  {jp:"ゴミ",rom:"gomi",en:"trash / garbage"},
+  {jp:"ゴミ箱",rom:"gomibako",en:"trash can"},
+  {jp:"シーツ交換",rom:"shiitsu koukan",en:"sheet change"},
+  {jp:"タオル交換",rom:"taoru koukan",en:"towel change"},
+  {jp:"補充",rom:"hojuu",en:"replenishment / refill"},
+  {jp:"石鹸",rom:"sekken",en:"soap"},
+  {jp:"シャンプー",rom:"shanpuu",en:"shampoo"},
+  {jp:"コンディショナー",rom:"kondishonaa",en:"conditioner"},
+  {jp:"歯ブラシ",rom:"haburashi",en:"toothbrush"},
+  {jp:"ドライヤー",rom:"doraiyaa",en:"hair dryer"},
+  {jp:"掃除機",rom:"soujiki",en:"vacuum cleaner"},
+  {jp:"モップ",rom:"moppu",en:"mop"},
+  {jp:"雑巾",rom:"zoukin",en:"cleaning cloth"},
+  {jp:"汚れ",rom:"yogore",en:"stain / dirt"},
+  {jp:"破損",rom:"hason",en:"damage"},
+  {jp:"修理",rom:"shuuri",en:"repair"},
+  {jp:"点検",rom:"tenken",en:"inspection"},
+  {jp:"レストラン",rom:"resutoran",en:"restaurant"},
+  {jp:"朝食",rom:"choushoku",en:"breakfast"},
+  {jp:"昼食",rom:"chuushoku",en:"lunch"},
+  {jp:"夕食",rom:"yuushoku",en:"dinner"},
+  {jp:"バイキング",rom:"baikingu",en:"buffet"},
+  {jp:"メニュー",rom:"menyuu",en:"menu"},
+  {jp:"注文",rom:"chuumon",en:"order"},
+  {jp:"提供",rom:"teikyou",en:"provision / service"},
+  {jp:"水",rom:"mizu",en:"water"},
+  {jp:"コーヒー",rom:"koohii",en:"coffee"},
+  {jp:"紅茶",rom:"koucha",en:"black tea"},
+  {jp:"おかわり",rom:"okawari",en:"refill / second helping"},
+  {jp:"空いている席",rom:"aiteiru seki",en:"available seat"},
+  {jp:"満席",rom:"manseki",en:"fully seated"},
+  {jp:"会計",rom:"kaikei",en:"billing / accounting"},
+  {jp:"予約席",rom:"yoyaku seki",en:"reserved seat"},
+  {jp:"禁煙席",rom:"kin'en seki",en:"non-smoking seat"},
+  {jp:"喫煙席",rom:"kitsuen seki",en:"smoking seat"},
+  {jp:"ナイフ",rom:"naifu",en:"knife"},
+  {jp:"フォーク",rom:"fooku",en:"fork"},
+  {jp:"問題",rom:"mondai",en:"problem"},
+  {jp:"トラブル",rom:"toraburu",en:"trouble / issue"},
+  {jp:"苦情",rom:"kujou",en:"complaint"},
+  {jp:"クレーム",rom:"kuremu",en:"complaint"},
+  {jp:"修理依頼",rom:"shuuri irai",en:"repair request"},
+  {jp:"忘れ物",rom:"wasuremono",en:"lost item"},
+  {jp:"紛失",rom:"funshitsu",en:"loss / lost"},
+  {jp:"騒音",rom:"souon",en:"noise"},
+  {jp:"うるさい",rom:"urusai",en:"noisy"},
+  {jp:"暑い",rom:"atsui",en:"hot"},
+  {jp:"寒い",rom:"samui",en:"cold"},
+  {jp:"故障",rom:"koshou",en:"breakdown / malfunction"},
+  {jp:"水漏れ",rom:"mizumore",en:"water leak"},
+  {jp:"停電",rom:"teiden",en:"power outage"},
+  {jp:"Wi-Fi",rom:"waifai",en:"Wi-Fi"},
+  {jp:"パスワード",rom:"pasuwaado",en:"password"},
+  {jp:"接続",rom:"setsuzoku",en:"connection"},
+  {jp:"利用",rom:"riyou",en:"use / usage"},
+  {jp:"無料",rom:"muryou",en:"free"},
+  {jp:"有料",rom:"yuuryou",en:"paid / chargeable"},
+  {jp:"追加",rom:"tsuika",en:"additional"},
+  {jp:"交換希望",rom:"koukan kibou",en:"exchange requested"},
+  {jp:"対応",rom:"taiou",en:"response / handling"},
   {jp:"確認します",rom:"kakunin shimasu",en:"I will confirm"},
-  {jp:"かしこまりました",rom:"kashikomarimashita",en:"Certainly"},
-  {jp:"お任せください",rom:"o-makase kudasai",en:"Leave it to me"},
-  {jp:"喜んで",rom:"yorokonde",en:"With pleasure"},
-  {jp:"どうぞ",rom:"douzo",en:"Here you go / please"},
-  {jp:"こちら",rom:"kochira",en:"This way"},
-  {jp:"お席",rom:"o-seki",en:"Seat (polite)"},
-  {jp:"メッセージ",rom:"messeiji",en:"Message"},
-  {jp:"インターネット",rom:"intaanetto",en:"Internet"},
-  {jp:"パスワード",rom:"pasuwaado",en:"Password"},
-  {jp:"クリーニング",rom:"kuriiningu",en:"Laundry / dry cleaning"},
-  {jp:"モーニングコール",rom:"mooningu kooru",en:"Wake-up call"},
-  {jp:"ルームサービス",rom:"ruumu saabisu",en:"Room service"},
-  {jp:"お客様",rom:"o-kyaku-sama",en:"Guest (honorific)"},
-  {jp:"本日",rom:"honjitsu",en:"Today (formal)"},
-  {jp:"明日",rom:"ashita",en:"Tomorrow"},
-  {jp:"昨夜",rom:"sakuya",en:"Last night"},
-  {jp:"少々",rom:"shoushou",en:"A little / a moment"},
+  {jp:"少々お待ちください",rom:"shoushou omachi kudasai",en:"please wait a moment (polite)"},
+  {jp:"エレベーター",rom:"erebeetaa",en:"elevator"},
+  {jp:"階段",rom:"kaidan",en:"stairs"},
+  {jp:"ロビー",rom:"robii",en:"lobby"},
+  {jp:"駐車場",rom:"chuushajou",en:"parking lot"},
+  {jp:"地図",rom:"chizu",en:"map"},
+  {jp:"近く",rom:"chikaku",en:"nearby"},
+  {jp:"遠い",rom:"tooi",en:"far"},
+  {jp:"営業時間",rom:"eigyou jikan",en:"business hours"},
+  {jp:"開店",rom:"kaiten",en:"opening"},
+  {jp:"閉店",rom:"heiten",en:"closing"},
+  {jp:"右",rom:"migi",en:"right"},
+  {jp:"左",rom:"hidari",en:"left"},
+  {jp:"まっすぐ",rom:"massugu",en:"straight"},
+  {jp:"曲がる",rom:"magaru",en:"turn"},
+  {jp:"角",rom:"kado",en:"corner"},
+  {jp:"交差点",rom:"kousaten",en:"intersection"},
+  {jp:"階",rom:"kai",en:"floor"},
+  {jp:"一階",rom:"ikkai",en:"first floor"},
+  {jp:"二階",rom:"nikai",en:"second floor"},
+  {jp:"最上階",rom:"saijoukai",en:"top floor"},
+  {jp:"地下",rom:"chika",en:"basement"},
+  {jp:"地下一階",rom:"chika ikkai",en:"basement floor"},
+  {jp:"奥",rom:"oku",en:"back / deeper in"},
+  {jp:"手前",rom:"temae",en:"front / near side"},
+  {jp:"入口",rom:"iriguchi",en:"entrance"},
+  {jp:"出口",rom:"deguchi",en:"exit"},
+  {jp:"正面",rom:"shoumen",en:"front"},
+  {jp:"裏",rom:"ura",en:"back / behind"},
+  {jp:"隣",rom:"tonari",en:"next to"},
+  {jp:"向かい",rom:"mukai",en:"across"},
+  {jp:"近くに",rom:"chikaku ni",en:"nearby"},
+  {jp:"遠くに",rom:"tooku ni",en:"far away"},
+  {jp:"徒歩",rom:"toho",en:"on foot"},
+  {jp:"約",rom:"yaku",en:"approximately"},
+  {jp:"分",rom:"fun/pun",en:"minutes"},
+  {jp:"秒",rom:"byou",en:"seconds"},
+  {jp:"こちら側",rom:"kochira gawa",en:"this side"},
+  {jp:"あちら側",rom:"achira gawa",en:"that side"},
+  {jp:"上",rom:"ue",en:"up / above"},
+  {jp:"下",rom:"shita",en:"down / below"},
+  {jp:"中",rom:"naka",en:"inside"},
+  {jp:"外",rom:"soto",en:"outside"},
+  {jp:"フロアマップ",rom:"furoamappu",en:"floor map"},
+  {jp:"案内図",rom:"annaizu",en:"guide map"},
+  {jp:"エスカレーター",rom:"esukareetaa",en:"escalator"},
+  {jp:"非常口",rom:"hijouguchi",en:"emergency exit"},
+  {jp:"避難経路",rom:"hinan keiro",en:"evacuation route"},
+  {jp:"緊急出口",rom:"kinkyuu deguchi",en:"emergency exit"},
+  {jp:"案内板",rom:"annaiban",en:"information board"},
+  {jp:"表示",rom:"hyouji",en:"sign / display"},
+  {jp:"予約番号",rom:"yoyaku bangou",en:"reservation number"},
+  {jp:"予約日",rom:"yoyaku bi",en:"reservation date"},
+  {jp:"宿泊日",rom:"shukuhaku bi",en:"stay date"},
+  {jp:"到着日",rom:"touchaku bi",en:"arrival date"},
+  {jp:"出発日",rom:"shuppatsu bi",en:"departure date"},
+  {jp:"滞在",rom:"taizai",en:"stay"},
+  {jp:"日数",rom:"nissuu",en:"number of days"},
+  {jp:"何泊",rom:"nanpaku",en:"how many nights"},
+  {jp:"人数",rom:"ninzuu",en:"number of people"},
+  {jp:"大人",rom:"otona",en:"adult"},
+  {jp:"子供",rom:"kodomo",en:"child"},
+  {jp:"幼児",rom:"youji",en:"infant"},
+  {jp:"追加料金",rom:"tsuika ryoukin",en:"additional charge"},
+  {jp:"割引",rom:"waribiki",en:"discount"},
+  {jp:"特典",rom:"tokuten",en:"benefit / privilege"},
+  {jp:"プラン",rom:"puran",en:"plan"},
+  {jp:"素泊まり",rom:"sudomari",en:"room only (no meals)"},
+  {jp:"朝食付き",rom:"choushoku tsuki",en:"breakfast included"},
+  {jp:"夕食付き",rom:"yuushoku tsuki",en:"dinner included"},
+  {jp:"キャンセル料",rom:"kyanseru ryou",en:"cancellation fee"},
+  {jp:"無料キャンセル",rom:"muryou kyanseru",en:"free cancellation"},
+  {jp:"期限",rom:"kigen",en:"deadline / expiry"},
+  {jp:"変更可能",rom:"henkou kanou",en:"change possible"},
+  {jp:"確定",rom:"kakutei",en:"confirmed"},
+  {jp:"仮予約",rom:"kari yoyaku",en:"tentative reservation"},
+  {jp:"空き状況",rom:"aki joukyou",en:"availability"},
+  {jp:"満席状況",rom:"manseki joukyou",en:"seating availability"},
+  {jp:"延長",rom:"enchou",en:"extension"},
+  {jp:"短縮",rom:"tanshuku",en:"shortening"},
+  {jp:"早割",rom:"hayawari",en:"early discount"},
+  {jp:"当日予約",rom:"toujitsu yoyaku",en:"same-day reservation"},
+  {jp:"直前予約",rom:"chokuzen yoyaku",en:"last-minute reservation"},
+  {jp:"連泊",rom:"renpaku",en:"multi-night stay"},
+  {jp:"団体予約",rom:"dantai yoyaku",en:"group reservation"},
+  {jp:"個人予約",rom:"kojin yoyaku",en:"individual reservation"},
+  {jp:"予約変更",rom:"yoyaku henkou",en:"reservation change"},
+  {jp:"再確認",rom:"sai kakunin",en:"reconfirmation"},
+  {jp:"受付時間",rom:"uketsuke jikan",en:"reception hours"},
+  {jp:"締切",rom:"shimekiri",en:"deadline"},
+  {jp:"手配",rom:"tehai",en:"arrangement"},
+  {jp:"支払い方法",rom:"shiharai houhou",en:"payment method"},
+  {jp:"一括払い",rom:"ikkatsu barai",en:"lump sum payment"},
+  {jp:"分割払い",rom:"bunkatsu barai",en:"installment payment"},
+  {jp:"前払い",rom:"maebarai",en:"prepayment"},
+  {jp:"後払い",rom:"atobarai",en:"pay later"},
+  {jp:"精算",rom:"seisan",en:"settlement"},
+  {jp:"合計",rom:"goukei",en:"total"},
+  {jp:"内訳",rom:"uchiwake",en:"breakdown"},
+  {jp:"お釣り",rom:"otsuri",en:"change"},
+  {jp:"領収書発行",rom:"ryoushuusho hakkou",en:"receipt issuance"},
+  {jp:"明細書",rom:"meisaisho",en:"itemized statement"},
+  {jp:"請求書",rom:"seikyuusho",en:"invoice / bill"},
+  {jp:"伝票",rom:"denpyou",en:"bill slip"},
+  {jp:"レジ",rom:"reji",en:"cash register"},
+  {jp:"会計係",rom:"kaikei kakari",en:"cashier"},
+  {jp:"決済",rom:"kessai",en:"payment settlement"},
+  {jp:"承認",rom:"shounin",en:"approval"},
+  {jp:"利用明細",rom:"riyou meisai",en:"usage statement"},
+  {jp:"残高",rom:"zandaka",en:"balance"},
+  {jp:"不足",rom:"fusoku",en:"shortage"},
+  {jp:"超過",rom:"chouka",en:"excess"},
+  {jp:"返金",rom:"henkin",en:"refund"},
+  {jp:"取消",rom:"torikeshi",en:"cancellation"},
+  {jp:"手数料",rom:"tesuuryou",en:"handling fee"},
+  {jp:"外貨",rom:"gaika",en:"foreign currency"},
+  {jp:"為替",rom:"kawase",en:"exchange rate"},
+  {jp:"両替",rom:"ryougae",en:"currency exchange"},
+  {jp:"税込",rom:"zeikomi",en:"tax included"},
+  {jp:"税別",rom:"zeibetsu",en:"tax excluded"},
+  {jp:"サービス料",rom:"saabisu ryou",en:"service charge"},
+  {jp:"宿泊税",rom:"shukuhaku zei",en:"accommodation tax"},
+  {jp:"クーポン",rom:"kuupon",en:"coupon"},
+  {jp:"バウチャー",rom:"bauchaa",en:"voucher"},
+  {jp:"電子決済",rom:"denshi kessai",en:"electronic payment"},
+  {jp:"QRコード",rom:"kyuu aru koodo",en:"QR code"},
+  {jp:"署名",rom:"shomei",en:"signature"},
+  {jp:"暗証番号",rom:"anshou bangou",en:"PIN code"},
+  {jp:"無効",rom:"mukou",en:"invalid"},
+  {jp:"有効",rom:"yuukou",en:"valid"},
+  {jp:"確認番号",rom:"kakunin bangou",en:"confirmation number"},
+  {jp:"電話",rom:"denwa",en:"telephone"},
+  {jp:"内線",rom:"naisen",en:"extension line"},
+  {jp:"外線",rom:"gaisen",en:"outside line"},
+  {jp:"電話番号",rom:"denwa bangou",en:"phone number"},
+  {jp:"お繋ぎします",rom:"otsunagi shimasu",en:"I will connect you"},
+  {jp:"少々お待ちください",rom:"shoushou omachi kudasai",en:"please wait a moment"},
+  {jp:"担当者",rom:"tantousha",en:"person in charge"},
+  {jp:"担当部署",rom:"tantou busho",en:"responsible department"},
+  {jp:"不在",rom:"fuzai",en:"absent"},
+  {jp:"折り返し",rom:"orikaeshi",en:"call back"},
+  {jp:"伝言",rom:"dengon",en:"message"},
+  {jp:"メッセージ",rom:"messeeji",en:"message"},
+  {jp:"音声案内",rom:"onsei annai",en:"audio guidance"},
+  {jp:"留守番電話",rom:"rusuban denwa",en:"voicemail"},
+  {jp:"通話中",rom:"tsuuwachuu",en:"on a call"},
+  {jp:"回線",rom:"kaisen",en:"line / circuit"},
+  {jp:"切断",rom:"setsudan",en:"disconnection"},
+  {jp:"接続不良",rom:"setsuzoku furyou",en:"poor connection"},
+  {jp:"確認いたします",rom:"kakunin itashimasu",en:"I will confirm"},
+  {jp:"お名前を頂戴できますか",rom:"onamae wo choudai dekimasu ka",en:"may I have your name?"},
+  {jp:"ご用件",rom:"goyouken",en:"inquiry / business"},
+  {jp:"お問い合わせ",rom:"otoiawase",en:"inquiry"},
+  {jp:"ご連絡",rom:"go-renraku",en:"contact"},
+  {jp:"緊急連絡先",rom:"kinkyuu renrakusaki",en:"emergency contact"},
+  {jp:"対応中",rom:"taiou chuu",en:"responding"},
+  {jp:"保留",rom:"horyuu",en:"hold"},
+  {jp:"転送",rom:"tensou",en:"transfer"},
+  {jp:"会話",rom:"kaiwa",en:"conversation"},
+  {jp:"通訳",rom:"tsuuyaku",en:"interpretation"},
+  {jp:"翻訳",rom:"hon'yaku",en:"translation"},
+  {jp:"英語対応",rom:"eigo taiou",en:"English support"},
+  {jp:"日本語対応",rom:"nihongo taiou",en:"Japanese support"},
+  {jp:"外国語",rom:"gaikokugo",en:"foreign language"},
+  {jp:"案内します",rom:"annai shimasu",en:"I will guide you"},
+  {jp:"説明します",rom:"setsumei shimasu",en:"I will explain"},
+  {jp:"理解しました",rom:"rikai shimashita",en:"I understand"},
+  {jp:"わかりました",rom:"wakarimashita",en:"understood"},
+  {jp:"聞き取れません",rom:"kikitorimasen",en:"cannot hear / understand"},
+  {jp:"もう一度お願いします",rom:"mouichido onegai shimasu",en:"say that again"},
+  {jp:"ゆっくり話してください",rom:"yukkuri hanashite kudasai",en:"please speak slowly"},
+  {jp:"緊急",rom:"kinkyuu",en:"emergency"},
+  {jp:"火災",rom:"kasai",en:"fire"},
+  {jp:"地震",rom:"jishin",en:"earthquake"},
+  {jp:"避難",rom:"hinan",en:"evacuation"},
+  {jp:"消火器",rom:"shoukaki",en:"fire extinguisher"},
+  {jp:"警報",rom:"keihou",en:"alarm"},
+  {jp:"警察",rom:"keisatsu",en:"police"},
+  {jp:"救急車",rom:"kyuukyuusha",en:"ambulance"},
+  {jp:"消防車",rom:"shoubousha",en:"fire truck"},
+  {jp:"安全",rom:"anzen",en:"safety"},
+  {jp:"危険",rom:"kiken",en:"danger"},
+  {jp:"事故",rom:"jiko",en:"accident"},
+  {jp:"怪我",rom:"kega",en:"injury"},
+  {jp:"病気",rom:"byouki",en:"illness"},
+  {jp:"応急処置",rom:"oukyuu shochi",en:"first aid"},
+  {jp:"医者",rom:"isha",en:"doctor"},
+  {jp:"病院",rom:"byouin",en:"hospital"},
+  {jp:"救助",rom:"kyuujo",en:"rescue"},
+  {jp:"通報",rom:"tsuuhou",en:"report"},
+  {jp:"非常ベル",rom:"hijou beru",en:"emergency bell"},
+  {jp:"点検中",rom:"tenken chuu",en:"under inspection"},
+  {jp:"使用禁止",rom:"shiyou kinshi",en:"do not use"},
+  {jp:"注意",rom:"chuui",en:"caution"},
+  {jp:"警告",rom:"keikoku",en:"warning"},
+  {jp:"立入禁止",rom:"tachiiri kinshi",en:"no entry"},
+  {jp:"避難場所",rom:"hinan basho",en:"evacuation area"},
+  {jp:"安全確認",rom:"anzen kakunin",en:"safety check"},
+  {jp:"緊急対応",rom:"kinkyuu taiou",en:"emergency response"},
+  {jp:"指示",rom:"shiji",en:"instruction"},
+  {jp:"落ち着いてください",rom:"ochitsuite kudasai",en:"please stay calm"},
+  {jp:"従業員",rom:"juugyouin",en:"employee"},
+  {jp:"スタッフ",rom:"sutaffu",en:"staff"},
+  {jp:"上司",rom:"joushi",en:"supervisor"},
+  {jp:"同僚",rom:"douryou",en:"colleague"},
+  {jp:"シフト",rom:"shifuto",en:"shift"},
+  {jp:"勤務",rom:"kinmu",en:"duty / work"},
+  {jp:"出勤",rom:"shukkin",en:"going to work"},
+  {jp:"退勤",rom:"taikin",en:"leaving work"},
+  {jp:"休憩",rom:"kyuukei",en:"break"},
+  {jp:"休み",rom:"yasumi",en:"day off"},
+  {jp:"残業",rom:"zangyou",en:"overtime"},
+  {jp:"研修",rom:"kenshuu",en:"training"},
+  {jp:"教育",rom:"kyouiku",en:"education / training"},
+  {jp:"指導",rom:"shidou",en:"guidance"},
+  {jp:"会議",rom:"kaigi",en:"meeting"},
+  {jp:"打ち合わせ",rom:"uchiawase",en:"meeting / briefing"},
+  {jp:"報告",rom:"houkoku",en:"report"},
+  {jp:"連絡",rom:"renraku",en:"contact"},
+  {jp:"相談",rom:"soudan",en:"consultation"},
+  {jp:"業務",rom:"gyoumu",en:"duties"},
+  {jp:"作業",rom:"sagyou",en:"work / task"},
+  {jp:"担当",rom:"tantou",en:"person in charge"},
+  {jp:"配置",rom:"haichi",en:"placement"},
+  {jp:"管理",rom:"kanri",en:"management"},
+  {jp:"確認作業",rom:"kakunin sagyou",en:"verification work"},
+  {jp:"手順",rom:"tejun",en:"procedure"},
+  {jp:"マニュアル",rom:"manyuaru",en:"manual"},
+  {jp:"効率",rom:"kouritsu",en:"efficiency"},
+  {jp:"改善",rom:"kaizen",en:"improvement"},
+  {jp:"評価",rom:"hyouka",en:"evaluation"},
+  {jp:"外国人",rom:"gaikokujin",en:"foreigner"},
+  {jp:"観光客",rom:"kankoukyaku",en:"tourist"},
+  {jp:"パスポート確認",rom:"pasupoto kakunin",en:"passport check"},
+  {jp:"ビザ",rom:"biza",en:"visa"},
+  {jp:"入国",rom:"nyuukoku",en:"entry"},
+  {jp:"出国",rom:"shukkoku",en:"departure"},
+  {jp:"通貨",rom:"tsuuka",en:"currency"},
+  {jp:"両替所",rom:"ryougaejo",en:"exchange office"},
+  {jp:"税関",rom:"zeikan",en:"customs"},
+  {jp:"観光地",rom:"kankouchi",en:"tourist spot"},
+  {jp:"名所",rom:"meisho",en:"sightseeing spot"},
+  {jp:"おすすめ",rom:"osusume",en:"recommendation"},
+  {jp:"人気",rom:"ninki",en:"popular"},
+  {jp:"ガイド",rom:"gaido",en:"guide"},
+  {jp:"ツアー",rom:"tsuaa",en:"tour"},
+  {jp:"地図アプリ",rom:"chizu apuri",en:"map app"},
+  {jp:"交通機関",rom:"koutsuu kikan",en:"transportation"},
+  {jp:"電車",rom:"densha",en:"train"},
+  {jp:"バス",rom:"basu",en:"bus"},
+  {jp:"タクシー",rom:"takushii",en:"taxi"},
+  {jp:"乗り場",rom:"noriba",en:"boarding area"},
+  {jp:"時刻表",rom:"jikokuhyou",en:"timetable"},
+  {jp:"切符",rom:"kippu",en:"ticket"},
+  {jp:"ICカード",rom:"IC kaado",en:"IC card"},
+  {jp:"料金表",rom:"ryoukinhyou",en:"price list"},
+  {jp:"道案内",rom:"michi annai",en:"directions"},
+  {jp:"文化",rom:"bunka",en:"culture"},
+  {jp:"習慣",rom:"shuukan",en:"custom / habit"},
+  {jp:"マナー",rom:"manaa",en:"manners"},
+  {jp:"注意事項",rom:"chuui jikou",en:"precautions"},
+  {jp:"ランドリー",rom:"randorii",en:"laundry"},
+  {jp:"洗濯",rom:"sentaku",en:"washing"},
+  {jp:"乾燥",rom:"kansou",en:"drying"},
+  {jp:"洗剤",rom:"senzai",en:"detergent"},
+  {jp:"クリーニング",rom:"kuriiningu",en:"dry cleaning"},
+  {jp:"アイロン",rom:"airon",en:"iron"},
+  {jp:"アイロン台",rom:"airon dai",en:"ironing board"},
+  {jp:"配達",rom:"haitatsu",en:"delivery"},
+  {jp:"荷物",rom:"nimotsu",en:"luggage"},
+  {jp:"荷物預かり",rom:"nimotsu azukari",en:"luggage storage"},
+  {jp:"発送",rom:"hassou",en:"shipping"},
+  {jp:"受取",rom:"uketori",en:"pickup / receipt"},
+  {jp:"宅配便",rom:"takkyuubin",en:"courier service"},
+  {jp:"保管",rom:"hokan",en:"storage"},
+  {jp:"貴重品",rom:"kichouhin",en:"valuables"},
+  {jp:"管理番号",rom:"kanri bangou",en:"tracking number"},
+  {jp:"引換券",rom:"hikikaeken",en:"claim ticket"},
+  {jp:"ロッカー",rom:"rokkaa",en:"locker"},
+  {jp:"利用時間",rom:"riyou jikan",en:"usage hours"},
+  {jp:"延長料金",rom:"enchou ryoukin",en:"extension fee"}
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────────────────────────
@@ -265,13 +651,15 @@ function esc(s){var d=document.createElement('div');d.textContent=s;return d.inn
 // ── RENDER ────────────────────────────────────────────────────────────────────────
 function showHub(){
   document.getElementById('main-content').innerHTML=
-    '<div class="gh-title">&#x1F3AE; Language Games</div>'+
+    '<div class="gh-title">Language Games</div>'+
     '<div class="gh-sub">Practice Japanese hospitality vocabulary through fun challenges</div>'+
     '<div class="gh-grid">'+
       '<div class="gh-card" onclick="showGame(\'memory\')"><div class="gh-icon">&#x1F0CF;</div><div class="gh-name">Memory Match</div><div class="gh-desc">Flip cards to match Japanese words with English meanings</div></div>'+
       '<div class="gh-card" onclick="showGame(\'typing\')"><div class="gh-icon">&#x2328;&#xFE0F;</div><div class="gh-name">Typing Challenge</div><div class="gh-desc">Type Japanese words as fast as you can — 60 seconds</div></div>'+
       '<div class="gh-card" onclick="showGame(\'hangman\')"><div class="gh-icon">&#x1F3AD;</div><div class="gh-name">Hangman</div><div class="gh-desc">Guess the hospitality word one letter at a time</div></div>'+
       '<div class="gh-card" onclick="showGame(\'speedmatch\')"><div class="gh-icon">&#x26A1;</div><div class="gh-name">Speed Match</div><div class="gh-desc">Match words to meanings before time runs out</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'scramble\')"><div class="gh-icon">&#x1F3B2;</div><div class="gh-name">Word Scramble</div><div class="gh-desc">Unscramble romaji letters to spell the word</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'blank\')"><div class="gh-icon">&#x2753;</div><div class="gh-name">Fill the Blank</div><div class="gh-desc">Pick the missing character to complete the word</div></div>'+
     '</div>';
 }
 function showGame(type){
@@ -279,11 +667,13 @@ function showGame(type){
   else if(type==='typing'){_gameState={};GameTyping.init()}
   else if(type==='hangman'){_gameState={};GameHangman.init()}
   else if(type==='speedmatch'){_gameState={};GameSpeedMatch.init()}
+  else if(type==='scramble'){_gameState={};GameScramble.init()}
+  else if(type==='blank'){_gameState={};GameBlank.init()}
 }
 
 // ── INSTRUCTIONS MODAL ────────────────────────────────────────────────────────────
 function showInstructions(title,icon,lines,callback){
-  var html='<div class="modal-overlay" id="instr-modal"><div class="modal-box"><div class="modal-header"><div class="modal-icon">'+icon+'</div><div class="modal-title">'+title+'</div></div><div class="modal-body"><ul>'+lines.map(function(l){return '<li>'+l+'</li>'}).join('')+'</ul></div><div class="modal-footer"><button class="modal-btn" id="instr-start-btn">Start Game</button></div></div></div>';
+  var html='<div class="modal-overlay" id="instr-modal"><div class="modal-box"><div class="modal-header">'+(icon?'<div class="modal-icon">'+icon+'</div>':'')+'<div class="modal-title">'+title+'</div></div><div class="modal-body"><ul>'+lines.map(function(l){return '<li>'+l+'</li>'}).join('')+'</ul></div><div class="modal-footer"><button class="modal-btn" id="instr-start-btn">Start Game</button></div></div></div>';
   var div=document.createElement('div');div.id='instr-place';div.innerHTML=html;
   document.body.appendChild(div);
   document.getElementById('instr-start-btn').onclick=function(){
@@ -312,8 +702,8 @@ var GameMemory={
     var items=pick(GAMES_VOCAB,8);
     var cards=[];
     items.forEach(function(v,i){
-      cards.push({id:i,type:'jp',pair:i});
-      cards.push({id:i,type:'en',pair:i});
+      cards.push({id:i*2,type:'jp',pair:i});
+      cards.push({id:i*2+1,type:'en',pair:i});
     });
     cards.forEach(function(c,i){
       var w=items[c.pair];
@@ -343,20 +733,30 @@ var GameMemory={
     }
     html+='</div>';
     document.getElementById('main-content').innerHTML=html;
-    if(matchedCount<total){setTimeout(GameMemory.tick,500)}
+    if(matchedCount<total&&!s._clock){s._clock=setInterval(GameMemory.tick,500)}
   },
-  tick:function(){if(_gameState&&!_gameState.done)GameMemory.render()},
+  tick:function(){
+    var s=_gameState;if(!s||s.done){if(s&&s._clock){clearInterval(s._clock);s._clock=null}return}
+    var el=document.querySelector('.g-row .g-label:last-child strong');
+    if(!el)return;
+    var elapsed=Math.floor((Date.now()-s.start)/1000);
+    var m=Math.floor(elapsed/60),sec=elapsed%60;
+    el.textContent=(m>0?m+':':'')+(sec<10?'0':'')+sec;
+  },
   flip:function(i){
     var s=_gameState;
     if(s.done)return;
     if(s.flipped.indexOf(i)>=0||s.matched[s.cards[i].pair])return;
-    if(s.flipped.length>=2)return;
+    if(s.flipped.length>=2){
+      s._ver=(s._ver||0)+1;s.flipped=[]
+    }
     s.flipped.push(i);s.moves++;
     if(s.flipped.length===2){
       var a=s.cards[s.flipped[0]],b=s.cards[s.flipped[1]];
       if(a.pair===b.pair&&a.id!==b.id){s.matched[a.pair]=true;s.flipped=[];this.render();return}
+      s._ver=(s._ver||0)+1;var ver=s._ver;
       var that=this;
-      setTimeout(function(){s.flipped=[];that.render()},800);
+      setTimeout(function(){if(s._ver!==ver)return;s.flipped=[];that.render()},600);
     }
     this.render();
   }
@@ -373,7 +773,7 @@ var GameTyping={
     ],function(){GameTyping._start()});
   },
   _start:function(){
-    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:60,start:null,timer:null,ended:false};
+    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:60,start:null,started:false,timer:null,ended:false};
     this.render();
   },
   barColor:function(pct){
@@ -393,27 +793,31 @@ var GameTyping={
       var barBg=this.barColor(barPct);
       html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Time: <strong id="ty-time">'+s.time+'s</strong></span></div>';
       html+='<div class="ty-bar-wrap"><div class="ty-bar"><div class="ty-bar-fill" id="ty-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div></div>';
-      html+='<div class="ty-word-num">Word '+(s.index+1)+' of 80</div>';
+      html+='<div class="ty-word-num">Word '+(s.index+1)+' of '+GAMES_VOCAB.length+'</div>';
       html+='<div class="typ-en">'+esc(w.en)+'</div><div class="typ-rom">'+esc(w.rom)+'</div>';
-      html+='<input class="typ-input" id="ty-input" type="text" placeholder="Type in Japanese…" autocomplete="off" onkeydown="GameTyping.check(event)"/>';
+      html+='<input class="typ-input" id="ty-input" type="text" placeholder="Type in Japanese…" autocomplete="off" onkeydown="GameTyping.check(event)" oninput="GameTyping.onInput()"/>';
       html+='<div class="ty-feedback" id="ty-feedback"></div>';
     }
     html+='</div>';
     document.getElementById('main-content').innerHTML=html;
     if(!s.ended){var inp=document.getElementById('ty-input');if(inp)setTimeout(function(){inp.focus()},50)}
   },
+  onInput:function(){
+    var s=_gameState;if(s.ended||s.started)return;
+    s.started=true;s.start=Date.now();GameTyping.startTimer();
+  },
   check:function(e){
     if(e.key!=='Enter')return;
     var s=_gameState;if(s.ended)return;
-    if(!s.start){s.start=Date.now();GameTyping.startTimer()}
+    if(!s.started){s.started=true;s.start=Date.now();GameTyping.startTimer()}
     var inp=document.getElementById('ty-input');
     var val=inp.value.trim();if(!val)return;
     var w=s.words[s.index];
     s.total++;
     var fb=document.getElementById('ty-feedback');
     var ok=val===w.jp||val.toLowerCase()===w.jp.toLowerCase();
-    if(ok){s.score++;fb.innerHTML='&#x2705; Correct!';fb.className='ty-feedback ok';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},300)}
-    else{fb.innerHTML='&#x274C; Expected: <strong>'+esc(w.jp)+'</strong>';fb.className='ty-feedback bad';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},800)}
+    if(ok){s.score++;s.time=Math.min(s.time+3,60);fb.innerHTML='&#x2705; +3s!';fb.className='ty-feedback ok';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},300)}
+    else{s.time=Math.max(s.time-5,0);fb.innerHTML='&#x274C; -5s: <strong>'+esc(w.jp)+'</strong>';fb.className='ty-feedback bad';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},800)}
   },
   startTimer:function(){
     var s=_gameState;
@@ -424,7 +828,7 @@ var GameTyping={
       if(s.time<=0){clearInterval(s.timer);s.ended=true;GameTyping.render()}
     },1000);
   },
-  cleanup:function(){var s=_gameState;if(s&&s.timer){clearInterval(s.timer);s.timer=null}}
+  cleanup:function(){var s=_gameState;if(s){if(s.timer){clearInterval(s.timer);s.timer=null};s.started=false}}
 };
 
 // ── GAME: HANGMAN ─────────────────────────────────────────────────────────────────
@@ -551,6 +955,7 @@ var GameSpeedMatch={
       html+='<div class="sm-bar"><div class="sm-bar-fill" id="sm-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div>';
       var fire=s.streak>=3?'🔥'.repeat(Math.min(s.streak,5)):'';
       html+='<div class="sm-streak-display"><span class="sm-streak-num">Streak: '+s.streak+'</span>'+(fire?' <span class="sm-streak-fire">'+fire+'</span>':'')+'</div>';
+      html+='<div class="sm-feedback" id="sm-feedback"></div>';
       if(s.index<s.words.length){
         var w=s.words[s.index];
         html+='<div class="sm-q">'+esc(w.jp)+'</div>';
@@ -582,8 +987,9 @@ var GameSpeedMatch={
     var correctIdx=allOpts.indexOf(w.en);
     var pickText=btns[idx].textContent;
     s.total++;
-    if(pickText===w.en){s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;btns[idx].classList.add('correct')}
-    else{s.streak=0;btns[idx].classList.add('wrong');btns[correctIdx].classList.add('correct')}
+    var fb=document.getElementById('sm-feedback');
+    if(pickText===w.en){s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;btns[idx].classList.add('correct');s.time=Math.min(s.time+3,45);if(fb){fb.innerHTML='&#x2705; +3s!';fb.className='sm-feedback ok'}}
+    else{s.streak=0;s.time=Math.max(s.time-5,0);btns[idx].classList.add('wrong');btns[correctIdx].classList.add('correct');if(fb){fb.innerHTML='&#x274C; -5s';fb.className='sm-feedback bad'}}
     s.index++;
     var that=this;
     setTimeout(function(){that.render()},500);
@@ -595,6 +1001,246 @@ var GameSpeedMatch={
       if(bar){var pct=s.time/45*100;bar.style.width=pct+'%';bar.style.background=GameSpeedMatch.barColor(pct)}
       if(tm)tm.textContent=s.time+'s';
       if(s.time<=0){clearInterval(s.timer);s.ended=true;GameSpeedMatch.render()}
+    },1000);
+  },
+  cleanup:function(){var s=_gameState;if(s&&s.timer){clearInterval(s.timer);s.timer=null}}
+};
+
+// ── GAME: WORD SCRAMBLE ─────────────────────────────────────────────────────────────
+var GameScramble={
+  init:function(){
+    showInstructions('Word Scramble','&#x1F3B2;',[
+      'Read the English meaning',
+      'Click the scrambled kana in the correct order to spell the Japanese word',
+      'Click a kana in your answer to remove it',
+      'Auto-checks when all kana are placed',
+      'Correct answers add 3 seconds, wrong answers subtract 5'
+    ],function(){GameScramble._start()});
+  },
+  _start:function(){
+    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:45,timer:null,ended:false,streak:0,bestStreak:0,start:null,started:false,letters:null,used:null,answer:null};
+    this.render();
+  },
+  barColor:function(pct){
+    if(pct>50)return 'var(--green)';
+    if(pct>25)return 'var(--accent)';
+    return 'var(--red)';
+  },
+  scramble:function(str){
+    var arr=str.split('');
+    for(var i=arr.length-1;i>0;i--){
+      var j=Math.random()*i|0;
+      var t=arr[i];arr[i]=arr[j];arr[j]=t;
+    }
+    if(arr.join('')===str)return this.scramble(str);
+    return arr.join('');
+  },
+  render:function(){
+    var s=_gameState;
+    var html='<button class="gh-back" onclick="GameScramble.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3B2; Word Scramble</div><div class="g-area">';
+    if(s.ended){
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameScramble._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+    }else{
+      if(!s.letters){
+        var w=s.words[s.index];
+        var chars=this.scramble(w.jp).split('');
+        s.letters=chars;
+        s.used=chars.map(function(){return false});
+        s.answer=[];
+      }
+      var w=s.words[s.index];
+      var barPct=s.time/45*100;
+      var barBg=this.barColor(barPct);
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Streak: <strong>'+s.streak+'</strong></span><span class="g-label">Time: <strong id="sc-time">'+s.time+'s</strong></span></div>';
+      html+='<div class="ty-bar-wrap"><div class="ty-bar"><div class="ty-bar-fill" id="sc-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div></div>';
+      html+='<div class="sc-word-num">Word '+(s.index+1)+' of '+GAMES_VOCAB.length+'</div>';
+      html+='<div class="sc-en">'+esc(w.en)+'</div>';
+      html+='<div class="sc-hint">Click letters to build the answer</div>';
+      html+='<div class="sc-letters">';
+      for(var i=0;i<s.letters.length;i++){
+        if(!s.used[i])html+='<span class="sc-letter" onclick="GameScramble.clickLetter('+i+')">'+esc(s.letters[i])+'</span>';
+      }
+      html+='</div>';
+      html+='<div class="sc-answer-wrap">';
+      if(s.answer.length===0){
+        html+='<span class="sc-answer-placeholder">Your answer will appear here\u2026</span>';
+      }else{
+        for(var i=0;i<s.answer.length;i++){
+          html+='<span class="sc-answer-letter" onclick="GameScramble.clickAnswer('+i+')">'+esc(s.letters[s.answer[i]])+'</span>';
+        }
+      }
+      html+='</div>';
+      var ready=s.answer.length===s.letters.length;
+      html+='<button class="sc-check-btn" id="sc-check-btn" onclick="GameScramble.submit()"'+(ready?'':' disabled')+'>'+(ready?'Check':'Check')+'</button>';
+      html+='<div class="sc-feedback" id="sc-feedback"></div>';
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+    if(!s.ended&&s.answer.length===s.letters.length){
+      var btn=document.getElementById('sc-check-btn');if(btn)setTimeout(function(){btn.focus()},50);
+    }
+  },
+  clickLetter:function(idx){
+    var s=_gameState;if(s.ended)return;
+    if(!s.started){s.started=true;s.start=Date.now();GameScramble.startTimer()}
+    s.used[idx]=true;
+    s.answer.push(idx);
+    if(s.answer.length===s.letters.length)GameScramble.submit();
+    else GameScramble.render();
+  },
+  clickAnswer:function(idx){
+    var s=_gameState;if(s.ended)return;
+    s.used[s.answer[idx]]=false;
+    s.answer.splice(idx,1);
+    GameScramble.render();
+  },
+  submit:function(){
+    var s=_gameState;if(s.ended)return;
+    if(s.answer.length!==s.letters.length)return;
+    var w=s.words[s.index];
+    var val=s.answer.map(function(i){return s.letters[i]}).join('');
+    s.total++;
+    var fb=document.getElementById('sc-feedback');
+    var ok=val===w.rom;
+    if(ok){
+      s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;
+      s.time=Math.min(s.time+3,45);
+      fb.innerHTML='&#x2705; +3s!';fb.className='sc-feedback ok';
+      var els=document.querySelectorAll('.sc-answer-letter');els.forEach(function(e){e.classList.add('correct')});
+      s.letters=null;s.used=null;s.answer=null;
+      s.index=(s.index+1)%s.words.length;
+      var that=this;setTimeout(function(){that.render()},300);
+    }else{
+      s.streak=0;s.time=Math.max(s.time-5,0);
+      fb.innerHTML='&#x274C; -5s: Expected <strong>'+esc(w.rom)+'</strong>';fb.className='sc-feedback bad';
+      var els=document.querySelectorAll('.sc-answer-letter');els.forEach(function(e){e.classList.add('wrong')});
+      s.letters=null;s.used=null;s.answer=null;
+      s.index=(s.index+1)%s.words.length;
+      var that=this;setTimeout(function(){that.render()},800);
+    }
+  },
+  startTimer:function(){
+    var s=_gameState;
+    s.timer=setInterval(function(){
+      s.time--;var bar=document.getElementById('sc-bar'),tm=document.getElementById('sc-time');
+      if(bar){var pct=s.time/45*100;bar.style.width=pct+'%';bar.style.background=GameScramble.barColor(pct)}
+      if(tm)tm.textContent=s.time+'s';
+      if(s.time<=0){clearInterval(s.timer);s.ended=true;GameScramble.render()}
+    },1000);
+  },
+  cleanup:function(){var s=_gameState;if(s){if(s.timer){clearInterval(s.timer);s.timer=null};s.started=false;s.letters=null;s.used=null;s.answer=null}}
+};
+
+// ── GAME: FILL THE BLANK ────────────────────────────────────────────────────────────
+var GameBlank={
+  init:function(){
+    showInstructions('Fill the Blank','&#x2753;',[
+      'Read the English meaning and find the missing character',
+      'Click the correct character to complete the Japanese word',
+      'Correct answers add 3 seconds, wrong answers subtract 5',
+      'Try to get the highest score before time runs out!'
+    ],function(){GameBlank._start()});
+  },
+  _start:function(){
+    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:45,timer:null,ended:false,streak:0,bestStreak:0,start:null,blankData:null};
+    this.render();
+  },
+  barColor:function(pct){
+    if(pct>50)return 'var(--green)';
+    if(pct>25)return 'var(--accent)';
+    return 'var(--red)';
+  },
+  buildBlank:function(jp){
+    var chars=jp.split('');
+    var validPos=[];
+    for(var i=0;i<chars.length;i++){
+      if(chars[i].trim()&&!/^[、。！？・…ー\s]+$/.test(chars[i]))validPos.push(i);
+    }
+    if(validPos.length<2)return null;
+    var pos=validPos[Math.floor(Math.random()*validPos.length)];
+    var correct=chars[pos];
+    var display=chars.slice();display[pos]='\u25CB';
+    var pool=[];
+    GAMES_VOCAB.forEach(function(v){
+      v.jp.split('').forEach(function(c){
+        if(c!==correct&&c.trim()&&!/^[、。！？・…ー\s]+$/.test(c))pool.push(c);
+      });
+    });
+    var opts=shuffle(pool).slice(0,3);
+    while(opts.length<3)opts.push('\uFF1F');
+    opts.push(correct);
+    shuffle(opts);
+    return {display:display.join(''),correct:correct,options:opts};
+  },
+  render:function(){
+    var s=_gameState;
+    var html='<button class="gh-back" onclick="GameBlank.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x2753; Fill the Blank</div><div class="g-area">';
+    if(s.ended){
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameBlank._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+    }else{
+      s.blankData=null;
+      while(s.index<s.words.length){
+        var bd=this.buildBlank(s.words[s.index].jp);
+        if(bd){s.blankData=bd;break}
+        s.index++;
+      }
+      if(!s.blankData||s.index>=s.words.length){
+        s.ended=true;this.render();return;
+      }
+      var w=s.words[s.index];
+      var barPct=s.time/45*100;
+      var barBg=this.barColor(barPct);
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Streak: <strong>'+s.streak+'</strong></span><span class="g-label">Time: <strong id="bl-time">'+s.time+'s</strong></span></div>';
+      html+='<div class="ty-bar-wrap"><div class="ty-bar"><div class="ty-bar-fill" id="bl-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div></div>';
+      html+='<div class="bl-word-num">Word '+(s.index+1)+' of '+GAMES_VOCAB.length+'</div>';
+      html+='<div class="bl-en">'+esc(w.en)+'</div>';
+      html+='<div class="bl-word">';
+      var chars=s.blankData.display.split('');
+      for(var i=0;i<chars.length;i++){
+        if(chars[i]==='\u25CB')html+='<span class="bl-blank">\u25CB</span>';
+        else html+='<span class="bl-char">'+esc(chars[i])+'</span>';
+      }
+      html+='</div>';
+      html+='<div class="bl-opts" id="bl-opts">';
+      for(var i=0;i<s.blankData.options.length;i++){
+        html+='<button class="bl-opt" onclick="GameBlank.pick('+i+')">'+esc(s.blankData.options[i])+'</button>';
+      }
+      html+='</div>';
+      html+='<div class="bl-feedback" id="bl-feedback"></div>';
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+    if(!s.ended&&!s.start){s.start=Date.now();this.startTimer()}
+  },
+  pick:function(idx){
+    var s=_gameState;if(s.ended||!s.blankData)return;
+    var btns=document.getElementById('bl-opts').querySelectorAll('.bl-opt');
+    btns.forEach(function(b){b.disabled=true});
+    var pickText=btns[idx].textContent;
+    s.total++;
+    var fb=document.getElementById('bl-feedback');
+    if(pickText===s.blankData.correct){
+      s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;
+      btns[idx].classList.add('correct');
+      s.time=Math.min(s.time+3,45);
+      if(fb){fb.innerHTML='&#x2705; +3s!';fb.className='bl-feedback ok'}
+    }else{
+      s.streak=0;s.time=Math.max(s.time-5,0);
+      btns[idx].classList.add('wrong');
+      for(var i=0;i<btns.length;i++){if(btns[i].textContent===s.blankData.correct)btns[i].classList.add('correct')}
+      if(fb){fb.innerHTML='&#x274C; -5s';fb.className='bl-feedback bad'}
+    }
+    s.index++;s.blankData=null;
+    var that=this;
+    setTimeout(function(){that.render()},500);
+  },
+  startTimer:function(){
+    var s=_gameState;
+    s.timer=setInterval(function(){
+      s.time--;var bar=document.getElementById('bl-bar'),tm=document.getElementById('bl-time');
+      if(bar){var pct=s.time/45*100;bar.style.width=pct+'%';bar.style.background=GameBlank.barColor(pct)}
+      if(tm)tm.textContent=s.time+'s';
+      if(s.time<=0){clearInterval(s.timer);s.ended=true;GameBlank.render()}
     },1000);
   },
   cleanup:function(){var s=_gameState;if(s&&s.timer){clearInterval(s.timer);s.timer=null}}
