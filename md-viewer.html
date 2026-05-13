@@ -239,7 +239,6 @@
 .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
 .pron-gap { display:inline-block; width:0.6em; }
 .pron-label { font-size:0.68rem; text-transform:uppercase; letter-spacing:0.06em; color:var(--text-muted); margin-bottom:2px; }
-.pron-conf { font-size:0.75rem; color:var(--text-muted); margin:2px 0; }
 .pron-retry-msg { font-size:0.82rem; color:var(--accent-yellow); margin-top:4px; animation:fadeIn 0.3s; }
 .pron-meter { display:flex; align-items:center; gap:6px; margin-bottom:3px; }
 .pron-meter-track { flex:1; height:6px; background:rgba(255,255,255,0.08); border-radius:3px; overflow:hidden; }
@@ -1081,106 +1080,351 @@ const FILE_MAP = {
 
 // ── QUIZ RENDERER ─────────────────────────────────────────────────────────────
 let _quizCounter = 0;
+const _quizData = new Map();
+
 function renderQuiz(meta) {
   if (!meta) return '';
   const { type, q, opts, correct, exp, answer, answers, a } = meta;
   const qId = 'q_' + (++_quizCounter);
 
   if (type === 'mcq') {
+    _quizData.set(qId, { type, correct, exp, opts });
     const optHtml = opts.map((o, i) => {
       const letter = String.fromCharCode(65 + i);
-      return `<div class="quiz-opt" data-i="${i}" onclick="selectOpt(this,'${qId}')">
+      return `<div class="quiz-opt" data-qid="${qId}" data-i="${i}">
         <span class="quiz-opt-letter">${letter}</span>${o}
       </div>`;
     }).join('');
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    return `<div class="section-quiz">
+    return `<div class="section-quiz" data-qtype="mcq" data-qid="${qId}">
       <div class="quiz-label">Quiz</div>
       <div class="quiz-q">${q}</div>
       <div class="quiz-options" id="${qId}-opts">${optHtml}</div>
-      <button class="quiz-check" id="${qId}-btn" onclick="checkMCQ('${qId}',${correct},'${expEsc}')" disabled>Check Answer</button>
+      <button class="quiz-check" id="${qId}-btn" data-qid="${qId}" disabled>Check Answer</button>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
   }
   if (type === 'tf') {
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    return `<div class="section-quiz">
+    _quizData.set(qId, { type, correct, exp });
+    return `<div class="section-quiz" data-qtype="tf" data-qid="${qId}">
       <div class="quiz-label">True / False</div>
       <div class="quiz-q">${q}</div>
       <div class="tf-options">
-        <button class="tf-btn" onclick="checkTF(this,true,${correct},'${expEsc}')">True</button>
-        <button class="tf-btn" onclick="checkTF(this,false,${correct},'${expEsc}')">False</button>
+        <button class="tf-btn" data-qid="${qId}" data-val="true">True</button>
+        <button class="tf-btn" data-qid="${qId}" data-val="false">False</button>
       </div>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
   }
   if (type === 'fitb') {
-    const ansEsc = answer.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    const extras = JSON.stringify(answers || []);
-    return `<div class="section-quiz">
+    _quizData.set(qId, { type, answer, exp, answers });
+    return `<div class="section-quiz" data-qtype="fitb" data-qid="${qId}">
       <div class="quiz-label">Fill in the Blank</div>
       <div class="quiz-q">${q}</div>
-      <input class="fitb-input" id="${qId}-input" type="text" placeholder="Type your answer…" autocomplete="off" onkeydown="if(event.key==='Enter')checkFITB('${qId}','${ansEsc}','${expEsc}',${extras})">
-      <button class="quiz-check" id="${qId}-check" onclick="checkFITB('${qId}','${ansEsc}','${expEsc}',${extras})">Check Answer</button>
+      <input class="fitb-input" id="${qId}-input" type="text" placeholder="Type your answer…" autocomplete="off" data-qid="${qId}">
+      <button class="quiz-check" id="${qId}-check" data-qid="${qId}" data-action="fitb-check">Check Answer</button>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
   }
   if (type === 'short') {
-    const aEsc = (a || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    return `<div class="section-quiz">
+    _quizData.set(qId, { type, a, exp });
+    return `<div class="section-quiz" data-qtype="short" data-qid="${qId}">
       <div class="quiz-label">Short Answer</div>
       <div class="quiz-q">${q}</div>
       <textarea class="short-input" id="${qId}-input" placeholder="Write your answer here…"></textarea>
-      <button class="quiz-check" onclick="showModel('${qId}','${aEsc}','${expEsc}')">Show Model Answer</button>
+      <button class="quiz-check" data-qid="${qId}" data-action="show-model">Show Model Answer</button>
       <div class="model-answer" id="${qId}-ma"></div>
     </div>`;
   }
   if (type === 'match') {
     const correctStr = JSON.stringify(correct);
+    _quizData.set(qId, { type, correct, exp, opts });
     const pairHtml = opts.map(function(p, i) {
       return `<div class="match-row" data-i="${i}">
         <span class="match-left">${p[0]}</span>
         <span class="match-arrow">→</span>
-        <select class="match-select" id="${qId}-sel-${i}" onchange="checkMatch('${qId}')">
+        <select class="match-select" id="${qId}-sel-${i}" data-qid="${qId}">
           <option value="">—</option>${p[1].split(',').map(function(s, j) {
             return `<option value="${j}">${s.trim()}</option>`
           }).join('')}
         </select>
       </div>`;
     }).join('');
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    return `<div class="section-quiz" data-match-correct="${correctStr.replace(/"/g,'&quot;')}">
+    return `<div class="section-quiz" data-qtype="match" data-qid="${qId}" data-match-correct="${correctStr.replace(/"/g,'&quot;')}">
       <div class="quiz-label">Matching</div>
       <div class="quiz-q">${q}</div>
       <div class="match-pairs" id="${qId}-list">${pairHtml}</div>
-      <button class="quiz-check" onclick="checkMatchSubmit('${qId}','${expEsc}')">Check Answers</button>
+      <button class="quiz-check" data-qid="${qId}" data-action="match-submit" disabled>Check Answers</button>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
   }
   if (type === 'order') {
+    _quizData.set(qId, { type, correct, exp });
     const itemHtml = opts.map(function(item, i) {
-      return `<div class="order-item" data-i="${i}" draggable="true">
+      return `<div class="order-item" data-qid="${qId}" data-i="${i}" draggable="true">
         <span class="order-grip">⠿</span>
         <span class="order-num">${i + 1}</span>
         <span class="order-text">${item}</span>
         <span class="order-btns">
-          <button class="order-btn" onclick="orderUp('${qId}',${i})" type="button" aria-label="Move up">▲</button>
-          <button class="order-btn" onclick="orderDown('${qId}',${i})" type="button" aria-label="Move down">▼</button>
+          <button class="order-btn" data-qid="${qId}" data-idx="${i}" data-dir="up" type="button" aria-label="Move up">▲</button>
+          <button class="order-btn" data-qid="${qId}" data-idx="${i}" data-dir="down" type="button" aria-label="Move down">▼</button>
         </span>
       </div>`;
     }).join('');
-    const expEsc = exp.replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    return `<div class="section-quiz">
+    return `<div class="section-quiz" data-qtype="order" data-qid="${qId}">
       <div class="quiz-label">Ordering</div>
       <div class="quiz-q">${q}</div>
       <div class="order-list" id="${qId}-list">${itemHtml}</div>
-      <button class="quiz-check" onclick="checkOrder('${qId}',${JSON.stringify(correct)},'${expEsc}')">Check Order</button>
+      <button class="quiz-check" data-qid="${qId}" data-action="order-check">Check Order</button>
       <div class="quiz-feedback" id="${qId}-fb"></div>
     </div>`;
   }
   return '';
+}
+// ── QUIZ EVENT DELEGATION ──────────────────────────────────────────────────────
+function initQuizInteractions() {
+  const main = document.getElementById('main');
+  if (!main) return;
+
+  main.addEventListener('click', function(e) {
+    const opt = e.target.closest('.quiz-opt');
+    if (opt) {
+      const qId = opt.dataset.qid;
+      if (!qId) return;
+      document.querySelectorAll('#' + qId + '-opts .quiz-opt').forEach(function(o) { o.classList.remove('selected') });
+      opt.classList.add('selected');
+      var btn = document.getElementById(qId + '-btn');
+      if (btn) btn.disabled = false;
+      return;
+    }
+  });
+
+  main.addEventListener('click', function(e) {
+    var tfBtn = e.target.closest('.tf-btn');
+    if (!tfBtn) return;
+    var qId = tfBtn.dataset.qid;
+    if (!qId) return;
+    var qData = _quizData.get(qId);
+    if (!qData) return;
+    var val = tfBtn.dataset.val === 'true';
+    var quizEl = tfBtn.closest('.section-quiz');
+    if (!quizEl) return;
+    var fb = quizEl.querySelector('.quiz-feedback');
+    if (!fb) return;
+    var allBtns = quizEl.querySelectorAll('.tf-btn');
+    fb.style.display = 'block';
+    if (val === qData.correct) {
+      allBtns.forEach(function(b) { b.disabled = true });
+      tfBtn.classList.add('correct');
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      tfBtn.classList.add('wrong');
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Incorrect. Try again.';
+      setTimeout(function() {
+        tfBtn.classList.remove('wrong');
+        fb.style.display = 'none';
+      }, 800);
+    }
+  });
+
+  main.addEventListener('click', function(e) {
+    var checkBtn = e.target.closest('.quiz-check');
+    if (!checkBtn) return;
+    handleQuizCheck(checkBtn);
+  });
+
+  main.addEventListener('click', function(e) {
+    var orderBtn = e.target.closest('.order-btn');
+    if (!orderBtn) return;
+    handleOrderBtn(orderBtn);
+  });
+
+  main.addEventListener('keydown', function(e) {
+    var input = e.target.closest('.fitb-input');
+    if (!input || e.key !== 'Enter') return;
+    var qId = input.dataset.qid;
+    if (!qId) return;
+    var qData = _quizData.get(qId);
+    if (!qData) return;
+    var fb = document.getElementById(qId + '-fb');
+    if (!fb) return;
+    var val = input.value.trim();
+    if (!val) return;
+    var accepted = [qData.answer].concat(qData.answers || []);
+    var romajiMatch = qData.exp.match(/\(([a-zA-Z][^)]*)\)/);
+    if (romajiMatch) accepted.push(romajiMatch[1].trim());
+    var ok = accepted.some(function(a) { return val === a || val.toLowerCase() === a.toLowerCase() });
+    fb.style.display = 'block';
+    if (ok) {
+      input.disabled = true;
+      var checkBtn = document.getElementById(qId + '-check');
+      if (checkBtn) checkBtn.disabled = true;
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Incorrect. Try again.';
+    }
+  });
+
+  main.addEventListener('change', function(e) {
+    var sel = e.target.closest('.match-select');
+    if (!sel) return;
+    var qId = sel.dataset.qid;
+    if (!qId) return;
+    var list = document.getElementById(qId + '-list');
+    if (!list) return;
+    var selects = list.querySelectorAll('.match-select');
+    var allSelected = true;
+    selects.forEach(function(s) { if (!s.value) allSelected = false });
+    var quizEl = list.closest('.section-quiz');
+    if (!quizEl) return;
+    var btn = quizEl.querySelector('.quiz-check');
+    if (btn) btn.disabled = !allSelected;
+  });
+}
+
+function handleQuizCheck(btn) {
+  var qId = btn.dataset.qid;
+  if (!qId) return;
+  var qData = _quizData.get(qId);
+  if (!qData) return;
+
+  if (qData.type === 'mcq') {
+    var opts = document.querySelectorAll('#' + qId + '-opts .quiz-opt');
+    var sel = -1;
+    opts.forEach(function(o, i) { if (o.classList.contains('selected')) sel = i });
+    if (sel < 0) return;
+    var fb = document.getElementById(qId + '-fb');
+    if (!fb) return;
+    fb.style.display = 'block';
+    if (sel === qData.correct) {
+      opts[qData.correct].classList.add('correct');
+      btn.disabled = true;
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      opts[sel].classList.add('wrong');
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Incorrect. Try again.';
+      opts[sel].classList.remove('wrong', 'selected');
+      btn.disabled = false;
+    }
+    return;
+  }
+
+  if (qData.type === 'fitb') {
+    var input = document.getElementById(qId + '-input');
+    if (!input) return;
+    var fb = document.getElementById(qId + '-fb');
+    if (!fb) return;
+    var val = input.value.trim();
+    if (!val) return;
+    var accepted = [qData.answer].concat(qData.answers || []);
+    var romajiMatch = qData.exp.match(/\(([a-zA-Z][^)]*)\)/);
+    if (romajiMatch) accepted.push(romajiMatch[1].trim());
+    var ok = accepted.some(function(a) { return val === a || val.toLowerCase() === a.toLowerCase() });
+    fb.style.display = 'block';
+    if (ok) {
+      input.disabled = true;
+      btn.disabled = true;
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Incorrect. Try again.';
+    }
+    return;
+  }
+
+  if (qData.type === 'match') {
+    var list = document.getElementById(qId + '-list');
+    if (!list) return;
+    var quizEl = list.closest('.section-quiz');
+    if (!quizEl) return;
+    var selects = list.querySelectorAll('.match-select');
+    var correct = JSON.parse(quizEl.getAttribute('data-match-correct') || '[]');
+    var ok = true;
+    selects.forEach(function(s, i) {
+      var val = parseInt(s.value);
+      if (isNaN(val)) { ok = false; return; }
+      if (val !== correct[i]) { s.classList.add('wrong'); ok = false; }
+      else s.classList.add('correct');
+    });
+    var fb = quizEl.querySelector('.quiz-feedback');
+    if (!fb) return;
+    fb.style.display = 'block';
+    if (ok) {
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Some answers are wrong. Try again.';
+      setTimeout(function() {
+        selects.forEach(function(s) { s.classList.remove('wrong') });
+      }, 1200);
+    }
+    return;
+  }
+
+  if (qData.type === 'order') {
+    var list = document.getElementById(qId + '-list');
+    if (!list) return;
+    var items = list.querySelectorAll('.order-item');
+    var current = Array.from(items).map(function(el) { return parseInt(el.dataset.i) });
+    var ok = current.every(function(v, i) { return v === qData.correct[i] });
+    var quizEl = list.closest('.section-quiz');
+    if (!quizEl) return;
+    var fb = quizEl.querySelector('.quiz-feedback');
+    if (!fb) return;
+    fb.style.display = 'block';
+    if (ok) {
+      items.forEach(function(el) { el.style.borderColor = '#2ecc71' });
+      fb.className = 'quiz-feedback ok';
+      fb.textContent = '✓ Correct order! ' + qData.exp;
+      setTimeout(showCompletionModal, 600);
+    } else {
+      items.forEach(function(el) { el.style.borderColor = '#c5442a' });
+      fb.className = 'quiz-feedback err';
+      fb.textContent = '✗ Incorrect order. Try again.';
+      setTimeout(function() {
+        items.forEach(function(el) { el.style.borderColor = '' });
+      }, 1200);
+    }
+    return;
+  }
+
+  if (qData.type === 'short') {
+    var ma = document.getElementById(qId + '-ma');
+    if (!ma) return;
+    ma.style.display = 'block';
+    ma.innerHTML = '<strong>Model Answer</strong>' + qData.a + '<br><br>' + qData.exp;
+    setTimeout(showCompletionModal, 600);
+    return;
+  }
+}
+
+function handleOrderBtn(orderBtn) {
+  var qId = orderBtn.dataset.qid;
+  var idx = parseInt(orderBtn.dataset.idx);
+  var dir = orderBtn.dataset.dir;
+  if (!qId || isNaN(idx)) return;
+  if (dir === 'up') {
+    if (idx === 0) return;
+    swapOrderItems(qId, idx, idx - 1);
+  } else if (dir === 'down') {
+    var list = document.getElementById(qId + '-list');
+    if (!list) return;
+    var items = list.querySelectorAll('.order-item');
+    if (idx >= items.length - 1) return;
+    swapOrderItems(qId, idx, idx + 1);
+  }
 }
 
 // ── COMPLETION MODAL ─────────────────────────────────────────────────────────
@@ -1248,11 +1492,16 @@ function checkMCQ(qId, correct, exp) {
   }
 }
 function checkTF(btn, val, correct, exp) {
-  const fb = btn.closest('.section-quiz').querySelector('.quiz-feedback');
-  const allBtns = btn.closest('.tf-options').querySelectorAll('.tf-btn');
+  const quizEl = btn.closest('.section-quiz');
+  if (!quizEl) return;
+  const fb = quizEl.querySelector('.quiz-feedback');
+  if (!fb) return;
+  const allBtns = btn.closest('.tf-options');
+  if (!allBtns) return;
+  const btns = allBtns.querySelectorAll('.tf-btn');
   fb.style.display = 'block';
   if (val === correct) {
-    allBtns.forEach(b => b.disabled = true);
+    btns.forEach(b => b.disabled = true);
     btn.classList.add('correct');
     fb.className = 'quiz-feedback ok';
     fb.textContent = '✓ Correct! ' + exp;
@@ -1299,16 +1548,21 @@ function showModel(qId, a, exp) {
 // ── MATCHING QUIZ ──────────────────────────────────────────────────────────────
 function checkMatch(qId) {
   var list = document.getElementById(qId + '-list')
+  if (!list) return
   var selects = list.querySelectorAll('.match-select')
   var allSelected = true
   selects.forEach(function(s) { if (!s.value) allSelected = false })
-  var btn = list.closest('.section-quiz').querySelector('.quiz-check')
+  var quizEl = list.closest('.section-quiz')
+  if (!quizEl) return
+  var btn = quizEl.querySelector('.quiz-check')
   if (btn) btn.disabled = !allSelected
 }
 function checkMatchSubmit(qId, exp) {
   var list = document.getElementById(qId + '-list')
+  if (!list) return
   var selects = list.querySelectorAll('.match-select')
   var quizEl = list.closest('.section-quiz')
+  if (!quizEl) return
   var correct = JSON.parse(quizEl.getAttribute('data-match-correct') || '[]')
   var ok = true
   selects.forEach(function(s, i) {
@@ -1317,7 +1571,8 @@ function checkMatchSubmit(qId, exp) {
     if (val !== correct[i]) { s.classList.add('wrong'); ok = false }
     else s.classList.add('correct')
   })
-  var fb = list.closest('.section-quiz').querySelector('.quiz-feedback')
+  var fb = quizEl.querySelector('.quiz-feedback')
+  if (!fb) return
   fb.style.display = 'block'
   if (ok) {
     fb.className = 'quiz-feedback ok'
@@ -1357,16 +1612,20 @@ function renumberOrder(qId) {
     el.dataset.i = i
     var upBtn = el.querySelector('.order-btn:first-child')
     var dnBtn = el.querySelector('.order-btn:last-child')
-    if (upBtn) upBtn.setAttribute('onclick', "orderUp('" + qId + "'," + i + ")")
-    if (dnBtn) dnBtn.setAttribute('onclick', "orderDown('" + qId + "'," + i + ")")
+    if (upBtn) { upBtn.dataset.qid = qId; upBtn.dataset.idx = i; upBtn.dataset.dir = 'up' }
+    if (dnBtn) { dnBtn.dataset.qid = qId; dnBtn.dataset.idx = i; dnBtn.dataset.dir = 'down' }
   })
 }
 function checkOrder(qId, correct, exp) {
   var list = document.getElementById(qId + '-list')
+  if (!list) return
   var items = list.querySelectorAll('.order-item')
   var current = Array.from(items).map(function(el) { return parseInt(el.dataset.i) })
   var ok = current.every(function(v, i) { return v === correct[i] })
-  var fb = list.closest('.section-quiz').querySelector('.quiz-feedback')
+  var quizEl = list.closest('.section-quiz')
+  if (!quizEl) return
+  var fb = quizEl.querySelector('.quiz-feedback')
+  if (!fb) return
   fb.style.display = 'block'
   if (ok) {
     items.forEach(function(el) { el.style.borderColor = '#2ecc71' })
@@ -1633,13 +1892,6 @@ function vocabShowScore(analysis, heard, confidence) {
   if (analysis.spoken && analysis.spoken.length) {
     alignHtml += simBuildAlignHtml(analysis.spoken, 'You said');
   }
-  const confHtml = confidence !== null && confidence !== undefined
-    ? '<div class="pron-meter" style="margin-top:4px;">' +
-      '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
-      '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
-      '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(confidence * 100) + '%</span>' +
-      '</div>'
-    : '';
   fb.className = 'quiz-feedback ' + cls;
   fb.style.cssText = '';
   if (!isGood && isOk) {
@@ -1652,7 +1904,7 @@ function vocabShowScore(analysis, heard, confidence) {
     '</div>' +
     (parts.length ? '<div class="pron-summary">' + parts.join(' · ') + '</div>' : '') +
     (heard ? '<div class="pron-utterance">💬 ' + escapeHtml(heard) + '</div>' : '') +
-    alignHtml + confHtml;
+    alignHtml;
   fb.style.display = 'block';
 }
 
@@ -2129,15 +2381,7 @@ function simShowPracticeResult(btn, spoken, analysis, confidence) {
   if (analysis.spoken && analysis.spoken.length) {
     alignHtml += simBuildAlignHtml(analysis.spoken, 'You said');
   }
-  // Confidence bar
-  var confHtml = confidence !== null && confidence !== undefined
-    ? '<div class="pron-meter" style="margin-top:4px;">' +
-      '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
-      '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
-      '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(confidence * 100) + '%</span>' +
-      '</div>'
-    : '';
-  el.innerHTML = scoreBarHtml + msgHtml + summaryHtml + utteranceHtml + alignHtml + confHtml;
+  el.innerHTML = scoreBarHtml + msgHtml + summaryHtml + utteranceHtml + alignHtml;
 }
 
 // ── SIMULATOR — SCENARIO RENDERER ──────────────────────────────────────────────
@@ -2426,13 +2670,7 @@ function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
       alignHtml += simBuildAlignHtml(pr.analysis.spoken, 'You said');
     }
     // Confidence
-    var confHtml = pr.confidence !== null && pr.confidence !== undefined
-      ? '<div class="pron-meter" style="margin-top:4px;">' +
-        '<span style="font-size:0.68rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;flex-shrink:0;">Conf</span>' +
-        '<div class="pron-meter-track" style="height:4px;"><div class="pron-meter-fill" style="width:' + Math.round(pr.confidence * 100) + '%;background:rgba(241,190,50,0.6);"></div></div>' +
-        '<span style="font-size:0.72rem;color:var(--text-muted);flex-shrink:0;">' + Math.round(pr.confidence * 100) + '%</span>' +
-        '</div>'
-      : '';
+    var confHtml = ''
     // Details wrapper
     practiceHtml =
       '<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border-default);">' +
@@ -2508,9 +2746,7 @@ async function render() {
 
   let raw;
   try {
-    const h = location.hostname;
-    const isLocal = h === '127.0.0.1' || h === 'localhost' || h === '::1';
-    const base = isLocal ? '/' : '/omotenashi-training/';
+    const base = location.pathname.replace(/\/[^/]*$/, '/');
     const res = await fetch(base + file);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     raw = (await res.text()).replace(/\r\n/g, '\n');
@@ -2615,6 +2851,8 @@ function toggleMode() {
   const saved = localStorage.getItem('theme');
   if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
 })();
+
+initQuizInteractions();
 
 </script>
 <script src="assets/search-init.js"></script>

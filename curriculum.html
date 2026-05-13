@@ -31,6 +31,8 @@
       --accent-blue-rgb: 241,190,50;
       --accent-green:   #1fad69;
       --accent-rgb:     241,190,50;
+      --accent-bg:      #2a2a4a;
+      --accent:         #f1be32;
       --transition:     150ms ease;
       --font-sans: 'Segoe UI', system-ui, sans-serif;
       --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
@@ -1974,17 +1976,21 @@ margin-top: 48px;
         // Scenario format: md-viewer.html?file=scenarios/NN.md
         const mScenario = href.match(/scenarios\/(\d+)\.md/);
         if (mScenario) {
-          if (localStorage.getItem('omotenashi:simulator:' + parseInt(mScenario[1]))) {
-            btn.classList.add('done');
-          }
+          try {
+            if (localStorage.getItem('omotenashi:simulator:' + parseInt(mScenario[1], 10))) {
+              btn.classList.add('done');
+            }
+          } catch(e) {}
           return;
         }
         // Lesson format: md-viewer.html?file=.../module-NN.md
         const mFile = href.match(/\/([^/]+)-(\d+)\.md/);
         if (!mFile) return;
-        if (localStorage.getItem('omotenashi:' + mFile[1] + ':' + parseInt(mFile[2], 10))) {
-          btn.classList.add('done');
-        }
+        try {
+          if (localStorage.getItem('omotenashi:' + mFile[1] + ':' + parseInt(mFile[2], 10))) {
+            btn.classList.add('done');
+          }
+        } catch(e) {}
       });
 
       // Update "X of Y steps complete" for each L2
@@ -1993,7 +1999,7 @@ margin-top: 48px;
         if (!btns.length) return;
         const done = l2.querySelectorAll('.step-btn.done').length;
         const prog = l2.querySelector('.tree-l2-progress');
-        if (prog) prog.textContent = done + ' of ' + btns.length + ' steps complete';
+        if (prog) prog.textContent = done + ' of ' + btns.length + (done === 1 && btns.length === 1 ? ' step' : ' steps') + ' complete';
       });
 
       // Update "X of Y steps complete" for each L1
@@ -2002,7 +2008,7 @@ margin-top: 48px;
         if (!btns.length) return;
         const done = l1.querySelectorAll('.step-btn.done').length;
         const prog = l1.querySelector('.tree-l1-progress');
-        if (prog) prog.textContent = done + ' of ' + btns.length + ' steps complete';
+        if (prog) prog.textContent = done + ' of ' + btns.length + (done === 1 && btns.length === 1 ? ' step' : ' steps') + ' complete';
       });
 
       // Update vocabulary practice known count
@@ -2018,7 +2024,7 @@ margin-top: 48px;
         fcGroups.forEach(g => {
           for (let i = 1; i <= g.t; i++) {
             const num = String(i).padStart(2,'0');
-            if (localStorage.getItem('omotenashi:fc:content/vocabulary/'+g.id+'-'+num+'.md') === 'know') known++;
+            try { if (localStorage.getItem('omotenashi:fc:content/vocabulary/'+g.id+'-'+num+'.md') === 'know') known++; } catch(e) {}
           }
         });
         const el = document.getElementById('fc-global-progress');
@@ -2046,8 +2052,12 @@ margin-top: 48px;
         }
       });
       document.querySelectorAll('.tree-l1').forEach(l1 => {
-        const hasVisible = [...l1.querySelectorAll('.tree-l2')].some(s => s.style.display !== 'none');
-        l1.style.display = hasVisible ? '' : 'none';
+        const l1Label = (l1.querySelector('.tree-l1-label') || '').textContent.toLowerCase();
+        const l1Match = l1Label.includes(q);
+        const l2s = l1.querySelectorAll('.tree-l2');
+        const hasVisible = [...l2s].some(s => s.style.display !== 'none');
+        l1.style.display = (hasVisible || l1Match) ? '' : 'none';
+        if (l1Match) l1.classList.add('open');
       });
     }
 
@@ -2056,12 +2066,25 @@ margin-top: 48px;
       const html = document.documentElement;
       const isLight = html.getAttribute('data-theme') === 'light';
       html.setAttribute('data-theme', isLight ? 'dark' : 'light');
-      localStorage.setItem('theme', isLight ? 'dark' : 'light');
+      try { localStorage.setItem('theme', isLight ? 'dark' : 'light'); } catch(e) {}
     }
     (function() {
-      const saved = localStorage.getItem('theme');
+      let saved;
+      try { saved = localStorage.getItem('theme'); } catch(e) {}
       if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
     })();
+
+    // Keyboard accessibility for collapsible tree rows
+    document.querySelectorAll('.tree-l1-row, .tree-l2-row').forEach(function(row) {
+      row.setAttribute('tabindex', '0');
+      row.setAttribute('role', 'button');
+      row.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          row.click();
+        }
+      });
+    });
   </script>
 
 <script src="assets/search-init.js"></script>

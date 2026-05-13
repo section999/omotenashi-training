@@ -24,8 +24,8 @@
       --bg-tertiary:   #2a2a4a;
       --bg-surface:    #0d0d1a;
       --accent-yellow: #f1be32;
-      --accent-blue:   #f1be32;
-      --accent-blue-rgb: 241,190,50;
+      --accent-blue:   #0a2a6a;
+      --accent-blue-rgb: 10,42,106;
       --accent-green:  #1fad69;
       --accent-red:    #c5442a;
       --accent-purple: #9b59b6;
@@ -668,7 +668,7 @@
       border: 1px solid;
     }
     .pillar-icon.yellow { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
-    .pillar-icon.blue   { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
+    .pillar-icon.blue   { background: rgba(10,42,106,.1); border-color: rgba(10,42,106,.3); }
     .pillar-icon.green  { background: rgba(31,173,105,.1); border-color: rgba(31,173,105,.3); }
     .pillar-icon.purple { background: rgba(155,89,182,.1); border-color: rgba(155,89,182,.3); }
     .pillar-text-title {
@@ -894,15 +894,15 @@
 
 <a href="#main-content" class="skip-link">Skip to main content</a>
 <div id="nav-root"></div>
-<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+<script>try{document.getElementById('nav-root').innerHTML=renderNav()}catch(e){document.getElementById('nav-root').innerHTML='<nav class="nav"><div class="nav-inner"><a href="/" style="color:#fff;text-decoration:none;font-weight:700">Omotenashi Training</a></div></nav>'}</script>
 
   <!-- SIGN-IN MODAL -->
-  <div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;">
+  <div id="signin-modal" role="dialog" aria-modal="true" aria-label="Save your progress" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;" onkeydown="if(event.key==='Escape')closeSignInModal()">
     <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:12px;padding:40px 36px;max-width:400px;width:90%;position:relative;">
       <button onclick="closeSignInModal()" style="position:absolute;top:14px;right:18px;background:none;border:none;color:var(--text-secondary);font-size:1.25rem;cursor:pointer;line-height:1;">✕</button>
       <h2 style="font-size:1.15rem;font-weight:700;margin-bottom:6px;">Save your progress</h2>
       <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:24px;">Enter your name to track completed lessons. Progress is stored locally in your browser.</p>
-      <label style="font-size:0.8rem;color:var(--text-secondary);display:block;margin-bottom:6px;">Your name</label>
+      <label for="signin-name" style="font-size:0.8rem;color:var(--text-secondary);display:block;margin-bottom:6px;">Your name</label>
       <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
         style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:#fff;font-size:0.95rem;outline:none;margin-bottom:20px;"
         onkeydown="if(event.key==='Enter')submitSignIn()" />
@@ -1012,11 +1012,13 @@
 
     // Subtle nav border on scroll
     const nav = document.querySelector('.nav');
-    window.addEventListener('scroll', () => {
-      nav.style.borderBottomColor = window.scrollY > 40
-        ? 'rgba(74,74,106,0.8)'
-        : 'var(--border-default)';
-    }, { passive: true });
+    if (nav) {
+      window.addEventListener('scroll', () => {
+        nav.style.borderBottomColor = window.scrollY > 40
+          ? 'rgba(74,74,106,0.8)'
+          : 'var(--border-default)';
+      }, { passive: true });
+    }
 
   </script>
 <script src="assets/search-init.js"></script>

@@ -10,13 +10,12 @@
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
-      --accent-yellow:#f1be32; --accent-blue:#f1be32; --accent-blue-rgb:241,190,50; --accent-green:#1fad69; --accent-red:#c5442a;
+      --accent-yellow:#f1be32; --accent-green:#1fad69; --accent-red:#c5442a;
       --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
       --border-default:#2a2a4a; --border-strong:#4a4a6a;
       --accent-rgb:241,190,50; --transition:150ms ease;
       --font-sans:'Segoe UI',system-ui,sans-serif;
       --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
-
       --bg-p:#0a0a23; --bg-s:#1b1b32; --bg-t:#2a2a4a;
       --accent:#f1be32;
       --green:#1fad69; --red:#c5442a;
@@ -719,7 +718,7 @@ var GameMemory={
     var m=Math.floor(elapsed/60),sec=elapsed%60;
     var matchedCount=Object.keys(s.matched).length;
     var total=s.cards.length/2;
-    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F0CF; Memory Match</div><div class="g-area"><div class="g-row"><span class="g-label">Moves: <strong>'+s.moves+'</strong></span><span class="g-label">Pairs: <strong>'+matchedCount+'/'+total+'</strong></span><span class="g-label">Time: <strong>'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</strong></span></div><div class="mem-grid">';
+    var html='<button class="gh-back" onclick="GameMemory.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F0CF; Memory Match</div><div class="g-area"><div class="g-row"><span class="g-label">Moves: <strong>'+s.moves+'</strong></span><span class="g-label">Pairs: <strong>'+matchedCount+'/'+total+'</strong></span><span class="g-label">Time: <strong>'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</strong></span></div><div class="mem-grid">';
     s.cards.forEach(function(c,i){
       var flipped=s.flipped.indexOf(i)>=0||s.matched[c.pair];
       var matched=s.matched[c.pair];
@@ -748,7 +747,7 @@ var GameMemory={
     if(s.done)return;
     if(s.flipped.indexOf(i)>=0||s.matched[s.cards[i].pair])return;
     if(s.flipped.length>=2){
-      s._ver=(s._ver||0)+1;s.flipped=[]
+      s._ver=(s._ver||0)+1;s.flipped=[];s.moves--;
     }
     s.flipped.push(i);s.moves++;
     if(s.flipped.length===2){
@@ -759,7 +758,8 @@ var GameMemory={
       setTimeout(function(){if(s._ver!==ver)return;s.flipped=[];that.render()},600);
     }
     this.render();
-  }
+  },
+  cleanup:function(){var s=_gameState;if(s&&s._clock){clearInterval(s._clock);s._clock=null}}
 };
 
 // ── GAME: TYPING CHALLENGE ────────────────────────────────────────────────────────
@@ -978,18 +978,15 @@ var GameSpeedMatch={
   },
   pick:function(idx){
     var s=_gameState;if(s.ended)return;
-    var btns=document.getElementById('sm-opts').querySelectorAll('.sm-opt');
+    var optsEl=document.getElementById('sm-opts');if(!optsEl)return;
+    var btns=optsEl.querySelectorAll('.sm-opt');
     btns.forEach(function(b){b.disabled=true});
     var w=s.words[s.index];
-    var opts=GAMES_VOCAB.filter(function(v){return v.en!==w.en});
-    var allOpts=[w.en];for(var i=0;i<3&&i<opts.length;i++)allOpts.push(opts[i].en);
-    shuffle(allOpts);
-    var correctIdx=allOpts.indexOf(w.en);
     var pickText=btns[idx].textContent;
     s.total++;
     var fb=document.getElementById('sm-feedback');
     if(pickText===w.en){s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;btns[idx].classList.add('correct');s.time=Math.min(s.time+3,45);if(fb){fb.innerHTML='&#x2705; +3s!';fb.className='sm-feedback ok'}}
-    else{s.streak=0;s.time=Math.max(s.time-5,0);btns[idx].classList.add('wrong');btns[correctIdx].classList.add('correct');if(fb){fb.innerHTML='&#x274C; -5s';fb.className='sm-feedback bad'}}
+    else{s.streak=0;s.time=Math.max(s.time-5,0);btns[idx].classList.add('wrong');for(var i=0;i<btns.length;i++){if(btns[i].textContent===w.en)btns[i].classList.add('correct')};if(fb){fb.innerHTML='&#x274C; -5s';fb.className='sm-feedback bad'}}
     s.index++;
     var that=this;
     setTimeout(function(){that.render()},500);
@@ -1035,6 +1032,13 @@ var GameScramble={
     if(arr.join('')===str)return this.scramble(str);
     return arr.join('');
   },
+  shuffleArr:function(a){
+    for(var i=a.length-1;i>0;i--){
+      var j=Math.random()*i|0;
+      var t=a[i];a[i]=a[j];a[j]=t;
+    }
+    return a;
+  },
   render:function(){
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameScramble.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3B2; Word Scramble</div><div class="g-area">';
@@ -1043,7 +1047,9 @@ var GameScramble={
     }else{
       if(!s.letters){
         var w=s.words[s.index];
-        var chars=this.scramble(w.jp).split('');
+        var chars=w.jp.split('');
+        this.shuffleArr(chars);
+        if(chars.join('')===w.jp){var t=chars[0];chars[0]=chars[1];chars[1]=t}
         s.letters=chars;
         s.used=chars.map(function(){return false});
         s.answer=[];
@@ -1167,7 +1173,7 @@ var GameBlank={
       });
     });
     var opts=shuffle(pool).slice(0,3);
-    while(opts.length<3)opts.push('\uFF1F');
+    while(opts.length<3)opts.push(correct);
     opts.push(correct);
     shuffle(opts);
     return {display:display.join(''),correct:correct,options:opts};

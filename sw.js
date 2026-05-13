@@ -1,23 +1,33 @@
 const CACHE = 'omotenashi-v1'
 
+const BASE = self.location.pathname.replace(/\/[^/]*$/, '/')
+
 const PRECACHE = [
-  '/omotenashi-training/',
-  '/omotenashi-training/index.html',
-  '/omotenashi-training/curriculum.html',
-  '/omotenashi-training/md-viewer.html',
-  '/omotenashi-training/vocabularypractice.html',
-  '/omotenashi-training/manifest.json',
-  '/omotenashi-training/assets/nav.css',
-  '/omotenashi-training/assets/nav.js',
-  '/omotenashi-training/assets/icon.svg',
-  '/omotenashi-training/assets/favicon-32x32.png'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'curriculum.html',
+  BASE + 'md-viewer.html',
+  BASE + 'vocabularypractice.html',
+  BASE + 'games.html',
+  BASE + 'manifest.json',
+  BASE + 'assets/nav.css',
+  BASE + 'assets/nav-template.js',
+  BASE + 'assets/nav.js',
+  BASE + 'assets/search-init.js',
+  BASE + 'assets/analytics.js',
+  BASE + 'assets/icon.svg',
+  BASE + 'assets/favicon-32x32.png'
 ]
+
+const CDN_CACHE = 'omotenashi-cdn-v1'
 
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE).then(cache =>
-      cache.addAll(PRECACHE).then(() => self.skipWaiting())
-    )
+      cache.addAll(PRECACHE).catch(err => {
+        console.warn('SW: PRECACHE partial failure', err)
+      })
+    ).then(() => self.skipWaiting())
   )
 })
 
@@ -25,7 +35,7 @@ self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(keys => {
       return Promise.all(
-        keys.filter(k => k !== CACHE).map(k => caches.delete(k))
+        keys.filter(k => k !== CACHE && k !== CDN_CACHE).map(k => caches.delete(k))
       )
     }).then(() => self.clients.claim())
   )
@@ -35,13 +45,17 @@ self.addEventListener('fetch', event => {
   const req = event.request
   const url = new URL(req.url)
 
-  if (url.pathname.startsWith('/omotenashi-training/content/') ||
-      url.pathname.startsWith('/omotenashi-training/scenarios/')) {
+  if (url.origin !== self.location.origin) {
+    if (url.hostname === 'cdn.jsdelivr.net' && req.method === 'GET') {
+      event.respondWith(cacheFirstCDN(req))
+    }
+    return
+  }
+
+  const p = url.pathname
+  if (p.startsWith(BASE + 'content/') || p.startsWith(BASE + 'scenarios/')) {
     event.respondWith(networkFirst(req))
-  } else if (
-    req.method === 'GET' &&
-    url.origin === location.origin
-  ) {
+  } else if (req.method === 'GET') {
     event.respondWith(cacheFirst(req))
   }
 })
@@ -57,6 +71,25 @@ async function cacheFirst(req) {
     }
     return res
   } catch {
+    const fallback = await caches.match(BASE + 'index.html')
+    if (fallback) return fallback
+    return new Response('Offline', { status: 503 })
+  }
+}
+
+async function cacheFirstCDN(req) {
+  const cached = await caches.match(req)
+  if (cached) return cached
+  try {
+    const res = await fetch(req)
+    if (res.ok) {
+      const cache = await caches.open(CDN_CACHE)
+      cache.put(req, res.clone())
+    }
+    return res
+  } catch {
+    const cached = await caches.match(req)
+    if (cached) return cached
     return new Response('Offline', { status: 503 })
   }
 }

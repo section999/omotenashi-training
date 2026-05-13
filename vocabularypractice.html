@@ -259,6 +259,7 @@ const _h = location.hostname;
 const BASE = (_h==='127.0.0.1'||_h==='localhost'||_h==='::1') ? '/' : '/omotenashi-training/';
 
 // ── HELPERS ──────────────────────────────────────────────────────────────────
+let currentCardFile = null;
 function shuffle(arr) {
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -282,8 +283,8 @@ function allKnownCount() { return ALL_FILES.filter(f => getStatus(f) === 'know')
 
 function parseFM(text) {
   const fm = {};
-  const m = text.match(/^---\n([\s\S]*?)\n---/);
-  if (m) m[1].split('\n').forEach(l => { const c = l.indexOf(':'); if (c>-1) fm[l.slice(0,c).trim()] = l.slice(c+1).trim(); });
+  const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (m) m[1].split(/\r?\n/).forEach(l => { const c = l.indexOf(':'); if (c>-1) fm[l.slice(0,c).trim()] = l.slice(c+1).trim(); });
   return fm;
 }
 function parseVocabMD(text) {
@@ -377,7 +378,8 @@ document.addEventListener('touchend', e => {
 // ── KEYBOARD ─────────────────────────────────────────────────────────────────
 document.addEventListener('keydown', e => {
   const tag = e.target.tagName;
-  if (tag==='INPUT'||tag==='SELECT'||tag==='TEXTAREA') return;
+  const isDict = session && session.settings.mode === 'dictation';
+  if (!isDict && (tag==='INPUT'||tag==='SELECT'||tag==='TEXTAREA')) return;
   if (!session) return;
   const isDict = session.settings.mode === 'dictation';
   if (isDict) {
@@ -505,6 +507,7 @@ function showCardScreen() {
   document.getElementById('main-content').innerHTML =
     '<div class="cs-topbar">' +
       '<button class="cs-back" onclick="showSetupScreen()">← Setup</button>' +
+      '<span class="cs-round" id="csRoundLabel">Round 1</span>' +
       '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
     '</div>' +
     '<div class="cs-card" id="csCard"' + (isDictation ? '' : ' onclick="cardClick()"') + '>' +
@@ -560,6 +563,7 @@ function loadCard(file) {
 }
 
 function updateCard(file, data) {
+  currentCardFile = file;
   if (session && session.settings.mode === 'dictation') {
     return updateDictationCard(file, data);
   }
@@ -738,6 +742,10 @@ function checkDictation() {
 
   const romajiEl = document.getElementById('dictRomaji');
   if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'block'; }
+
+  const file = currentCardFile;
+  if (isCorrect && file) { setStatus(file, 'know'); updateProgressBar(); }
+  else if (file) { setStatus(file, 'learning'); updateProgressBar(); }
 }
 
 function skipDictation() {
@@ -763,6 +771,8 @@ function skipDictation() {
   if (hint) hint.style.display = 'none';
   const romajiEl = document.getElementById('dictRomaji');
   if (romajiEl) { romajiEl.textContent = data.romaji; romajiEl.style.display = 'block'; }
+  const file = currentCardFile;
+  if (file) { setStatus(file, 'learning'); updateProgressBar(); }
 }
 
 // ── FLIP ─────────────────────────────────────────────────────────────────────
