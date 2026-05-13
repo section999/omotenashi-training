@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0a0a23" />
   <title>Omotenashi Training — Japanese Hospitality Mastery</title>
   <meta name="description" content="Master Japanese hospitality with interactive lessons, vocabulary drills, and role-play simulations. Learn keigo, omotenashi, and hotel service skills." />
   <meta property="og:type" content="website" />
@@ -872,41 +874,27 @@
     }
   </style>
   <link rel="stylesheet" href="assets/nav.css" />
+  <script src="assets/nav-template.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Omotenashi Training",
+  "url": "https://section999.github.io/omotenashi-training/",
+  "description": "Master Japanese hospitality with interactive lessons, vocabulary drills, and role-play simulations.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://section999.github.io/omotenashi-training/curriculum.html?search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 </head>
 <body>
 
-  <!-- NAV -->
-  <nav class="nav">
-    <div class="nav-inner">
-      <div class="nav-search-wrap">
-        <div class="nav-search">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-          <input type="text" id="navSearchInput" name="navSearch" placeholder="Search vocabulary and lessons" autocomplete="off" aria-label="Search vocabulary and lessons" />
-        </div>
-        <div id="navSearchDrop" class="nav-search-drop"></div>
-      </div>
-      <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener" aria-label="freeCodeCamp" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;opacity:1;">
-        <img class="logo-large" src="assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
-        <img class="logo-small" src="assets/fcc_primary_small.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
-      </a>
-      <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
-        <span id="banner-text" style="display:none;font-size:0.78rem;color:var(--text-muted);white-space:nowrap;"></span>
-        <button id="banner-btn" style="display:none;padding:5px 10px;border-radius:4px;font-size:0.72rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;"></button>
-        <div class="nav-menu-wrap">
-          <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
-            <span></span><span></span><span></span>
-          </button>
-          <div class="nav-dropdown">
-            <a href="index.html">Main</a>
-            <a href="curriculum.html">Curriculum</a>
-            <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
-            <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
-            <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </nav>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
 
   <!-- SIGN-IN MODAL -->
   <div id="signin-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;">
@@ -934,7 +922,7 @@
     </div>
   </div>
 
-  <main>
+  <main id="main-content">
   <section class="hero">
     <div class="hero-bg"></div>
     <div class="hero-grid"></div>
@@ -1031,7 +1019,9 @@
     }, { passive: true });
 
   </script>
-<script src="assets/search.js"></script>
+<script src="assets/search-init.js"></script>
 <script src="assets/nav.js"></script>
+<script src="assets/analytics.js"></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}</script>
 </body>
 </html>

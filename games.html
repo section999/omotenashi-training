@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png"/>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0a0a23" />
+  <title>Games — Omotenashi Training</title>
+  <style>
+    :root {
+      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
+      --accent-yellow:#f1be32; --accent-blue:#f1be32; --accent-blue-rgb:241,190,50; --accent-green:#1fad69; --accent-red:#c5442a;
+      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
+      --border-default:#2a2a4a; --border-strong:#4a4a6a;
+      --accent-rgb:241,190,50; --transition:150ms ease;
+      --font-sans:'Segoe UI',system-ui,sans-serif;
+      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+
+      --bg-p:#0a0a23; --bg-s:#1b1b32; --bg-t:#2a2a4a;
+      --accent:#f1be32;
+      --green:#1fad69; --red:#c5442a;
+      --t-p:#fff; --t-s:#a3a3c2; --t-m:#5f5f7a;
+      --border:#2a2a4a;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{font-size:18px}
+    body{background:var(--bg-secondary);color:#fff;font-family:var(--font-sans);font-size:1rem;line-height:1.75;letter-spacing:normal;min-height:100vh}
+
+    /* ── NAVBAR ── */
+    .nav{position:fixed;top:0;left:0;right:0;z-index:200;height:60px;background:var(--bg-primary)}
+    .nav-inner{max-width:100%;padding:0 32px;height:100%;display:flex;align-items:center;justify-content:space-between;position:relative}
+    .main{max-width:700px;margin:0 auto;padding:84px 24px 72px}
+    .gh-title{font-family:var(--font-mono);font-size:1.8rem;font-weight:700;color:var(--accent);text-align:center;margin:40px 0 8px}
+    .gh-sub{font-size:0.85rem;color:var(--t-m);text-align:center;margin-bottom:32px}
+    .gh-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+    @media(max-width:560px){.gh-grid{grid-template-columns:1fr}}
+    .gh-card{background:var(--bg-p);border:1px solid var(--border);border-radius:10px;padding:24px;cursor:pointer;transition:border-color 0.2s,transform 0.15s;text-align:center}
+    .gh-card:hover{border-color:rgba(var(--accent-rgb),0.4);transform:translateY(-2px)}
+    .gh-icon{font-size:2.2rem;margin-bottom:8px}
+    .gh-name{font-size:0.95rem;font-weight:700;color:var(--t-p);margin-bottom:4px}
+    .gh-desc{font-size:0.78rem;color:var(--t-s);line-height:1.45}
+    .gh-back{display:inline-block;padding:6px 14px;background:transparent;border:1px solid var(--border);border-radius:4px;color:var(--t-s);font-size:0.8rem;cursor:pointer;font-family:inherit;margin-bottom:20px}
+    .gh-back:hover{background:var(--bg-t);color:var(--t-p)}
+    .g-title{font-family:var(--font-mono);font-size:1.15rem;font-weight:700;color:var(--accent);margin-bottom:16px}
+    .g-area{background:var(--bg-p);border:1px solid var(--border);border-radius:10px;padding:28px;min-height:320px}
+    .g-row{display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap}
+    .g-label{font-family:var(--font-mono);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--t-m)}
+    .g-btn{padding:8px 18px;border-radius:5px;font-size:0.85rem;font-weight:600;cursor:pointer;font-family:inherit;transition:opacity 0.15s,background 0.15s}
+    .g-btn:hover{opacity:0.85}
+    .g-btn-p{background:var(--green);color:#fff;border:1px solid var(--green)}
+    .g-btn-y{background:var(--accent);color:#0a0a23;border:1px solid var(--accent)}
+    .g-btn-o{background:var(--bg-t);color:var(--t-s);border:1px solid var(--border)}
+    .g-btn:disabled{opacity:0.3;cursor:default}
+    .g-score{font-family:var(--font-mono);font-size:0.85rem;color:var(--t-m);margin-left:auto}
+
+    /* Memory */
+    .mem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:500px;margin:16px auto}
+    .mem-card{aspect-ratio:1;border-radius:8px;font-size:0.85rem;cursor:pointer;display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;transition:0.15s;font-weight:600;min-height:70px;border:2px solid var(--border);background:var(--bg-t);color:transparent;user-select:none}
+    .mem-card.flipped{background:var(--bg-p);color:var(--t-p);border-color:rgba(var(--accent-rgb),0.3)}
+    .mem-card.matched{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green);cursor:default}
+    .mem-card.matched::after{content:' ✓';font-size:0.7rem}
+
+    /* Typing */
+    .typ-en{font-size:1.4rem;font-weight:700;color:var(--t-p);text-align:center;margin:20px 0 8px}
+    .typ-rom{font-size:0.95rem;color:var(--t-m);text-align:center;margin-bottom:16px}
+    .typ-input{width:100%;max-width:340px;padding:12px 16px;border-radius:6px;border:1.5px solid var(--border);background:var(--bg-t);color:var(--t-p);font-size:1.1rem;text-align:center;outline:none;font-family:inherit;display:block;margin:0 auto}
+    .typ-input:focus{border-color:var(--t-s)}
+    .typ-input:disabled{opacity:0.4}
+    .typ-result{text-align:center;font-size:0.9rem;color:var(--t-s);margin-top:12px;min-height:2em}
+    .typ-bar{height:6px;background:var(--bg-t);border-radius:3px;overflow:hidden;margin:16px 0 8px}
+    .typ-bar-fill{height:100%;background:var(--green);border-radius:3px;transition:width 0.3s}
+    .typ-stats{display:flex;justify-content:center;gap:24px;margin-bottom:12px}
+    .typ-stat{text-align:center}
+    .typ-stat-n{font-family:var(--font-mono);font-size:1.3rem;font-weight:700;color:var(--accent)}
+    .typ-stat-l{font-size:0.68rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-m)}
+
+    /* Hangman */
+    .hm-word{text-align:center;font-size:1.8rem;font-family:var(--font-mono);letter-spacing:0.15em;margin:20px 0;color:var(--t-p);min-height:2.5em}
+    .hm-hint{text-align:center;font-size:0.85rem;color:var(--t-m);margin-bottom:12px}
+    .hm-letters{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;max-width:440px;margin:12px auto}
+    .hm-letter{width:36px;height:36px;border-radius:4px;border:1px solid var(--border);background:var(--bg-t);color:var(--t-s);font-size:0.85rem;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono)}
+    .hm-letter.used{opacity:0.2;cursor:default}
+    .hm-letter.ok{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green)}
+    .hm-letter.bad{background:rgba(197,68,42,0.1);border-color:var(--red);color:var(--red)}
+    .hm-gallows{font-family:var(--font-mono);font-size:0.75rem;color:var(--t-m);text-align:center;line-height:1.3;margin:10px 0;white-space:pre}
+
+    /* Speed Match */
+    .sm-q{text-align:center;font-size:1.6rem;font-weight:700;color:var(--accent);margin:12px 0 16px;min-height:2em}
+    .sm-opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:480px;margin:0 auto}
+    .sm-opt{padding:12px 8px;border-radius:6px;border:1.5px solid var(--border);background:var(--bg-t);color:var(--t-p);font-size:0.85rem;cursor:pointer;text-align:center;transition:0.12s;font-family:inherit;font-weight:600}
+    .sm-opt:hover{border-color:rgba(var(--accent-rgb),0.4)}
+    .sm-opt.correct{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green)}
+    .sm-opt.wrong{background:rgba(197,68,42,0.1);border-color:var(--red);color:var(--red)}
+    .sm-opt:disabled{opacity:0.5;cursor:default}
+    .sm-bar{height:6px;background:var(--bg-t);border-radius:3px;overflow:hidden;margin:16px 0}
+    .sm-bar-fill{height:100%;background:var(--accent);border-radius:3px;transition:width 0.3s}
+    .sm-streak{text-align:center;font-size:0.85rem;color:var(--t-s);margin-bottom:8px}
+
+    .g-result{text-align:center;padding:20px 0}
+    .g-result-score{font-family:var(--font-mono);font-size:2.2rem;font-weight:700;color:var(--accent)}
+    .g-result-label{font-size:0.78rem;color:var(--t-m);margin-bottom:16px}
+    .g-result-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+    @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-grid{gap:6px}.mem-card{font-size:0.72rem;min-height:54px}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}}
+    @media(max-height:500px) and (orientation:landscape){.mem-card{min-height:50px}}
+
+    .logo-small { display: none; }
+
+    @media (max-width: 640px) {
+      .nav-inner { padding: 0 16px; }
+      .logo-large { display: none !important; }
+      .logo-small { display: block !important; }
+      .nav-search input { display: none; }
+      .nav-search { padding: 6px 10px; }
+    }
+
+    [data-theme="light"] .nav { background: #0a0a23 !important; }
+    [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
+    [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
+    [data-theme="light"] .nav-dropdown a:hover,
+    [data-theme="light"] .nav-dropdown button:hover { background: rgba(255,255,255,0.08) !important; }
+  </style>
+  <link rel="stylesheet" href="assets/nav.css"/>
+  <script src="assets/nav-template.js"></script>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+
+<main class="main" id="main-content"></main>
+
+<script>
+var GAMES_VOCAB = [
+  {jp:"いらっしゃいませ",rom:"irasshaimase",en:"Welcome"},
+  {jp:"おはようございます",rom:"ohayou gozaimasu",en:"Good morning"},
+  {jp:"こんにちは",rom:"konnichiwa",en:"Hello / good afternoon"},
+  {jp:"こんばんは",rom:"konbanwa",en:"Good evening"},
+  {jp:"ありがとうございます",rom:"arigatou gozaimasu",en:"Thank you"},
+  {jp:"かしこまりました",rom:"kashikomarimashita",en:"Certainly / understood"},
+  {jp:"申し訳ございません",rom:"moushiwake gozaimasen",en:"I am very sorry"},
+  {jp:"少々お待ちください",rom:"shoushou omachi kudasai",en:"Please wait a moment"},
+  {jp:"お名前",rom:"o-namae",en:"Name (polite)"},
+  {jp:"ご予約",rom:"go-yoyaku",en:"Reservation"},
+  {jp:"チェックイン",rom:"chekkuin",en:"Check-in"},
+  {jp:"チェックアウト",rom:"chekkuauto",en:"Check-out"},
+  {jp:"パスポート",rom:"pasupooto",en:"Passport"},
+  {jp:"お部屋",rom:"o-heya",en:"Room (polite)"},
+  {jp:"お荷物",rom:"o-nimotsu",en:"Luggage"},
+  {jp:"お湯",rom:"o-yu",en:"Hot water"},
+  {jp:"タオル",rom:"taoru",en:"Towel"},
+  {jp:"シーツ",rom:"shiitsu",en:"Sheets"},
+  {jp:"アメニティ",rom:"ameniti",en:"Amenities"},
+  {jp:"エアコン",rom:"eakon",en:"Air conditioner"},
+  {jp:"鍵",rom:"kagi",en:"Key"},
+  {jp:"清掃",rom:"seisou",en:"Cleaning"},
+  {jp:"ベッドメイキング",rom:"beddo meikingu",en:"Bed making"},
+  {jp:"ゴミ",rom:"gomi",en:"Trash"},
+  {jp:"メニュー",rom:"menyuu",en:"Menu"},
+  {jp:"注文",rom:"chuumon",en:"Order"},
+  {jp:"お勘定",rom:"o-kanjou",en:"Bill / check"},
+  {jp:"朝食",rom:"choushoku",en:"Breakfast"},
+  {jp:"夕食",rom:"yuushoku",en:"Dinner"},
+  {jp:"昼食",rom:"chuushoku",en:"Lunch"},
+  {jp:"お会計",rom:"o-kaikei",en:"Payment"},
+  {jp:"領収書",rom:"ryoushuusho",en:"Receipt"},
+  {jp:"現金",rom:"genkin",en:"Cash"},
+  {jp:"クレジットカード",rom:"kurejitto kaado",en:"Credit card"},
+  {jp:"予約",rom:"yoyaku",en:"Reservation"},
+  {jp:"キャンセル",rom:"kyanseru",en:"Cancellation"},
+  {jp:"空室",rom:"kuushitsu",en:"Vacant room"},
+  {jp:"満室",rom:"manshitsu",en:"Full / no vacancy"},
+  {jp:"フロント",rom:"furonto",en:"Front desk"},
+  {jp:"玄関",rom:"genkan",en:"Entrance"},
+  {jp:"ロビー",rom:"robii",en:"Lobby"},
+  {jp:"階段",rom:"kaidan",en:"Stairs"},
+  {jp:"エレベーター",rom:"erebeetaa",en:"Elevator"},
+  {jp:"お手洗い",rom:"o-tearai",en:"Restroom"},
+  {jp:"禁煙",rom:"kin'en",en:"No smoking"},
+  {jp:"喫煙",rom:"kitsuen",en:"Smoking"},
+  {jp:"大丈夫",rom:"daijoubu",en:"It's okay / alright"},
+  {jp:"結構",rom:"kekkou",en:"No thank you / sufficient"},
+  {jp:"お願いします",rom:"onegai shimasu",en:"Please"},
+  {jp:"失礼します",rom:"shitsurei shimasu",en:"Excuse me"},
+  {jp:"お電話",rom:"o-denwa",en:"Phone call"},
+  {jp:"伝言",rom:"dengon",en:"Message"},
+  {jp:"忘れ物",rom:"wasuremono",en:"Lost item"},
+  {jp:"お薬",rom:"o-kusuri",en:"Medicine"},
+  {jp:"病院",rom:"byouin",en:"Hospital"},
+  {jp:"救急車",rom:"kyuukyuusha",en:"Ambulance"},
+  {jp:"消防署",rom:"shoubousho",en:"Fire station"},
+  {jp:"警察",rom:"keisatsu",en:"Police"},
+  {jp:"お大事に",rom:"o-daiji ni",en:"Take care / get well"},
+  {jp:"お気をつけて",rom:"o-ki o tsukete",en:"Please take care"},
+  {jp:"行ってらっしゃい",rom:"itterasshai",en:"Have a good day"},
+  {jp:"恐れ入ります",rom:"osore irimasu",en:"I am sorry / excuse me"},
+  {jp:"承知しました",rom:"shouchi shimashita",en:"Understood"},
+  {jp:"確認します",rom:"kakunin shimasu",en:"I will confirm"},
+  {jp:"かしこまりました",rom:"kashikomarimashita",en:"Certainly"},
+  {jp:"お任せください",rom:"o-makase kudasai",en:"Leave it to me"},
+  {jp:"喜んで",rom:"yorokonde",en:"With pleasure"},
+  {jp:"どうぞ",rom:"douzo",en:"Here you go / please"},
+  {jp:"こちら",rom:"kochira",en:"This way"},
+  {jp:"お席",rom:"o-seki",en:"Seat (polite)"},
+  {jp:"メッセージ",rom:"messeiji",en:"Message"},
+  {jp:"インターネット",rom:"intaanetto",en:"Internet"},
+  {jp:"パスワード",rom:"pasuwaado",en:"Password"},
+  {jp:"クリーニング",rom:"kuriiningu",en:"Laundry / dry cleaning"},
+  {jp:"モーニングコール",rom:"mooningu kooru",en:"Wake-up call"},
+  {jp:"ルームサービス",rom:"ruumu saabisu",en:"Room service"},
+  {jp:"お客様",rom:"o-kyaku-sama",en:"Guest (honorific)"},
+  {jp:"本日",rom:"honjitsu",en:"Today (formal)"},
+  {jp:"明日",rom:"ashita",en:"Tomorrow"},
+  {jp:"昨夜",rom:"sakuya",en:"Last night"},
+  {jp:"少々",rom:"shoushou",en:"A little / a moment"},
+];
+
+// ── HELPERS ──────────────────────────────────────────────────────────────────────
+var _gameState = null;
+function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.random()*i|0;var t=a[i];a[i]=a[j];a[j]=t}return a}
+function pick(arr,n){return shuffle([...arr]).slice(0,n)}
+function qs(s,ctx){return(ctx||document).querySelector(s)}
+function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+// ── RENDER ────────────────────────────────────────────────────────────────────────
+function showHub(){
+  document.getElementById('main-content').innerHTML=
+    '<div class="gh-title">&#x1F3AE; Language Games</div>'+
+    '<div class="gh-sub">Practice Japanese hospitality vocabulary through fun challenges</div>'+
+    '<div class="gh-grid">'+
+      '<div class="gh-card" onclick="showGame(\'memory\')"><div class="gh-icon">&#x1F0CF;</div><div class="gh-name">Memory Match</div><div class="gh-desc">Flip cards to match Japanese words with English meanings</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'typing\')"><div class="gh-icon">&#x2328;&#xFE0F;</div><div class="gh-name">Typing Challenge</div><div class="gh-desc">Type Japanese words as fast as you can — 60 seconds</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'hangman\')"><div class="gh-icon">&#x1F3AD;</div><div class="gh-name">Hangman</div><div class="gh-desc">Guess the hospitality word one letter at a time</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'speedmatch\')"><div class="gh-icon">&#x26A1;</div><div class="gh-name">Speed Match</div><div class="gh-desc">Match words to meanings before time runs out</div></div>'+
+    '</div>';
+}
+function showGame(type){
+  if(type==='memory'){_gameState={};GameMemory.init()}
+  else if(type==='typing'){_gameState={};GameTyping.init()}
+  else if(type==='hangman'){_gameState={};GameHangman.init()}
+  else if(type==='speedmatch'){_gameState={};GameSpeedMatch.init()}
+}
+
+// ── GAME: MEMORY ──────────────────────────────────────────────────────────────────
+var GameMemory={
+  init:function(){
+    var items=pick(GAMES_VOCAB,8);
+    var cards=[];
+    items.forEach(function(v,i){cards.push({id:i,type:'jp',text:v.jp,pair:i});cards.push({id:i,type:'en',text:v.en,pair:i})});
+    shuffle(cards);
+    _gameState={cards:cards,flipped:[],matched:{},moves:0,start:Date.now(),done:false};
+    this.render();
+  },
+  render:function(){
+    var s=_gameState;
+    var elapsed=Math.floor((Date.now()-s.start)/1000);
+    var m=Math.floor(elapsed/60),sec=elapsed%60;
+    var matchedCount=Object.keys(s.matched).length;
+    var total=s.cards.length/2;
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F0CF; Memory Match</div><div class="g-area"><div class="g-row"><span class="g-label">Moves: <strong>'+s.moves+'</strong></span><span class="g-label">Pairs: <strong>'+matchedCount+'/'+total+'</strong></span><span class="g-label">Time: <strong>'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</strong></span></div><div class="mem-grid">';
+    s.cards.forEach(function(c,i){
+      var flipped=s.flipped.indexOf(i)>=0||s.matched[c.pair];
+      var matched=s.matched[c.pair];
+      html+='<div class="mem-card'+(flipped?' flipped':'')+(matched?' matched':'')+'" onclick="GameMemory.flip('+i+')">'+(flipped||matched?esc(c.text):'')+'</div>';
+    });
+    html+='</div>';
+    if(matchedCount===total&&!s.done){s.done=true;
+      html+='<div class="g-result"><div class="g-result-score">'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</div><div class="g-result-label">Time in '+s.moves+' moves</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameMemory.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+    if(matchedCount<total){setTimeout(GameMemory.tick,500)}
+  },
+  tick:function(){if(_gameState&&!_gameState.done)GameMemory.render()},
+  flip:function(i){
+    var s=_gameState;
+    if(s.done)return;
+    if(s.flipped.indexOf(i)>=0||s.matched[s.cards[i].pair])return;
+    if(s.flipped.length>=2)return;
+    s.flipped.push(i);s.moves++;
+    if(s.flipped.length===2){
+      var a=s.cards[s.flipped[0]],b=s.cards[s.flipped[1]];
+      if(a.pair===b.pair&&a.id!==b.id){s.matched[a.pair]=true;s.flipped=[];this.render();return}
+      var that=this;
+      setTimeout(function(){s.flipped=[];that.render()},800);
+    }
+    this.render();
+  }
+};
+
+// ── GAME: TYPING CHALLENGE ────────────────────────────────────────────────────────
+var GameTyping={
+  init:function(){
+    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:60,start:null,timer:null,ended:false};
+    this.render();
+  },
+  render:function(){
+    var s=_gameState;
+    var html='<button class="gh-back" onclick="GameTyping.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x2328;&#xFE0F; Typing Challenge</div><div class="g-area">';
+    if(s.ended){
+      var pct=Math.round(s.score/Math.max(s.total,1)*100);
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' ('+pct+'%)</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameTyping.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+    }else{
+      var w=s.words[s.index];
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Attempts: <strong>'+s.total+'</strong></span><span class="g-label">Time: <strong id="ty-time">'+s.time+'s</strong></span></div><div class="typ-bar"><div class="typ-bar-fill" id="ty-bar" style="width:'+(s.time/60*100)+'%"></div></div>';
+      html+='<div class="typ-en">'+esc(w.en)+'</div><div class="typ-rom">'+esc(w.rom)+'</div>';
+      html+='<input class="typ-input" id="ty-input" type="text" placeholder="Type in Japanese…" autocomplete="off" onkeydown="GameTyping.check(event)"/>';
+      html+='<div class="typ-result" id="ty-result"></div>';
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+    if(!s.ended){var inp=document.getElementById('ty-input');if(inp)setTimeout(function(){inp.focus()},50)}
+  },
+  check:function(e){
+    if(e.key!=='Enter')return;
+    var s=_gameState;if(s.ended)return;
+    if(!s.start){s.start=Date.now();GameTyping.startTimer()}
+    var inp=document.getElementById('ty-input');
+    var val=inp.value.trim();if(!val)return;
+    var w=s.words[s.index];
+    s.total++;
+    var ok=val===w.jp||val.toLowerCase()===w.jp.toLowerCase();
+    if(ok){s.score++;document.getElementById('ty-result').innerHTML='&#x2713; Correct!';inp.value='';s.index=(s.index+1)%s.words.length;this.render()}
+    else{document.getElementById('ty-result').innerHTML='&#x2717; Expected: <strong>'+esc(w.jp)+'</strong>';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},600)}
+  },
+  startTimer:function(){
+    var s=_gameState;
+    s.timer=setInterval(function(){
+      s.time--;var bar=document.getElementById('ty-bar'),tm=document.getElementById('ty-time');
+      if(bar)bar.style.width=(s.time/60*100)+'%';if(tm)tm.textContent=s.time+'s';
+      if(s.time<=0){clearInterval(s.timer);s.ended=true;GameTyping.render()}
+    },1000);
+  },
+  cleanup:function(){var s=_gameState;if(s&&s.timer){clearInterval(s.timer);s.timer=null}}
+};
+
+// ── GAME: HANGMAN ─────────────────────────────────────────────────────────────────
+var GameHangman={
+  init:function(){
+    var words=pick(GAMES_VOCAB,10);
+    _gameState={words:words,index:0,wrong:0,maxWrong:6,guessed:[],done:false};
+    this.render();
+  },
+  render:function(){
+    var s=_gameState;
+    if(s.index>=s.words.length){this.showResult();return}
+    var w=s.words[s.index];
+    var display=w.jp.split('').map(function(c){return s.guessed.indexOf(c)>=0?c:'_'}).join(' ');
+    var won=display.indexOf('_')<0;
+    var lost=s.wrong>=s.maxWrong;
+    var allLetters='あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポ'.split('');
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area">';
+    html+='<div class="g-row"><span class="g-label">Word <strong>'+(s.index+1)+'/'+s.words.length+'</strong></span><span class="g-label">Mistakes <strong>'+s.wrong+'/'+s.maxWrong+'</strong></span></div>';
+    html+='<div class="hm-gallows">'+this.gallows(s.wrong)+'</div><div class="hm-word">'+(won||lost?'':display)+'</div>';
+    html+='<div class="hm-hint">'+(won?'Correct! It was <strong>'+esc(w.jp)+'</strong> ('+esc(w.en)+')':lost?'The word was <strong>'+esc(w.jp)+'</strong> ('+esc(w.en)+')':'English: '+esc(w.en))+'</div>';
+    if(!won&&!lost){
+      html+='<div class="hm-letters">';
+      allLetters.forEach(function(l){
+        var used=s.guessed.indexOf(l)>=0;
+        var ok=used&&w.jp.indexOf(l)>=0;
+        var bad=used&&w.jp.indexOf(l)<0;
+        html+='<div class="hm-letter'+(used?' used':'')+(ok?' ok':'')+(bad?' bad':'')+'" onclick="GameHangman.guess(\''+l+'\')">'+l+'</div>';
+      });
+      html+='</div>';
+    }else{
+      html+='<div class="g-result-btns" style="margin-top:16px">';
+      if(won){html+='<button class="g-btn g-btn-p" onclick="GameHangman.next()">Next Word</button>'}
+      else{html+='<button class="g-btn g-btn-y" onclick="GameHangman.next()">Next Word</button>'}
+      html+='<button class="g-btn g-btn-o" onclick="showHub()">Quit</button></div>';
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+  },
+  gallows:function(n){
+    var stages=[
+      '\n\n\n\n\n\n\n________',      '\n|\n|\n|\n|\n|\n|________',
+      '____\n|  |\n|\n|\n|\n|\n|________','____\n|  |\n|  O\n|\n|\n|\n|________',
+      '____\n|  |\n|  O\n|  |\n|\n|\n|________','____\n|  |\n|  O\n| /|\\\n|\n|\n|________',
+      '____\n|  |\n|  O\n| /|\\\n| / \\\n|\n|________'
+    ];
+    return stages[Math.min(n,6)];
+  },
+  guess:function(letter){
+    var s=_gameState;if(s.done)return;
+    if(s.guessed.indexOf(letter)>=0)return;
+    var w=s.words[s.index];
+    s.guessed.push(letter);
+    if(w.jp.indexOf(letter)<0)s.wrong++;
+    this.render();
+  },
+  next:function(){
+    var s=_gameState;s.index++;s.wrong=0;s.guessed=[];
+    if(s.index>=s.words.length)this.showResult();else this.render();
+  },
+  showResult:function(){
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
+    document.getElementById('main-content').innerHTML=html;
+  }
+};
+
+// ── GAME: SPEED MATCH ─────────────────────────────────────────────────────────────
+var GameSpeedMatch={
+  init:function(){
+    _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:45,timer:null,ended:false,streak:0,bestStreak:0,start:null};
+    this.render();
+  },
+  render:function(){
+    var s=_gameState;
+    var html='<button class="gh-back" onclick="GameSpeedMatch.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x26A1; Speed Match</div><div class="g-area">';
+    if(s.ended){
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameSpeedMatch.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+    }else{
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Streak: <strong>'+s.streak+'</strong></span><span class="g-label">Time: <strong id="sm-time">'+s.time+'s</strong></span></div>';
+      html+='<div class="sm-bar"><div class="sm-bar-fill" id="sm-bar" style="width:'+(s.time/45*100)+'%"></div></div>';
+      if(s.index<s.words.length){
+        var w=s.words[s.index];
+        html+='<div class="sm-q">'+esc(w.jp)+'</div>';
+        var opts=this.buildOpts(w);
+        html+='<div class="sm-opts" id="sm-opts">';
+        opts.forEach(function(o,i){html+='<button class="sm-opt" onclick="GameSpeedMatch.pick('+i+')">'+esc(o)+'</button>'});
+        html+='</div>';
+      }
+    }
+    html+='</div>';
+    document.getElementById('main-content').innerHTML=html;
+    if(!s.ended&&!s.start){s.start=Date.now();this.startTimer()}
+  },
+  buildOpts:function(w){
+    var opts=[w.en];
+    var others=GAMES_VOCAB.filter(function(v){return v.en!==w.en});
+    shuffle(others);
+    for(var i=0;i<3&&i<others.length;i++)opts.push(others[i].en);
+    return shuffle(opts);
+  },
+  pick:function(idx){
+    var s=_gameState;if(s.ended)return;
+    var btns=document.getElementById('sm-opts').querySelectorAll('.sm-opt');
+    btns.forEach(function(b){b.disabled=true});
+    var w=s.words[s.index];
+    var opts=GAMES_VOCAB.filter(function(v){return v.en!==w.en});
+    var allOpts=[w.en];for(var i=0;i<3&&i<opts.length;i++)allOpts.push(opts[i].en);
+    shuffle(allOpts);
+    var correctIdx=allOpts.indexOf(w.en);
+    var pickText=btns[idx].textContent;
+    s.total++;
+    if(pickText===w.en){s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;btns[idx].classList.add('correct')}
+    else{s.streak=0;btns[idx].classList.add('wrong');btns[correctIdx].classList.add('correct')}
+    s.index++;
+    var that=this;
+    setTimeout(function(){that.render()},500);
+  },
+  startTimer:function(){
+    var s=_gameState;
+    s.timer=setInterval(function(){
+      s.time--;var bar=document.getElementById('sm-bar'),tm=document.getElementById('sm-time');
+      if(bar)bar.style.width=(s.time/45*100)+'%';if(tm)tm.textContent=s.time+'s';
+      if(s.time<=0){clearInterval(s.timer);s.ended=true;GameSpeedMatch.render()}
+    },1000);
+  },
+  cleanup:function(){var s=_gameState;if(s&&s.timer){clearInterval(s.timer);s.timer=null}}
+};
+
+showHub();
+</script>
+<script src="assets/search-init.js"></script>
+<script src="assets/nav.js"></script>
+<script src="assets/analytics.js"></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}</script>
+</body>
+</html>
