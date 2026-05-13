@@ -55,11 +55,9 @@
     .g-score{font-family:var(--font-mono);font-size:0.85rem;color:var(--t-m);margin-left:auto}
 
     /* Memory */
-    .mem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:500px;margin:16px auto}
-    .mem-card{aspect-ratio:1;border-radius:8px;font-size:0.85rem;cursor:pointer;display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;transition:0.15s;font-weight:600;min-height:70px;border:2px solid var(--border);background:var(--bg-t);color:transparent;user-select:none}
-    .mem-card.flipped{background:var(--bg-p);color:var(--t-p);border-color:rgba(var(--accent-rgb),0.3)}
-    .mem-card.matched{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green);cursor:default}
-    .mem-card.matched::after{content:' ✓';font-size:0.7rem}
+    .mem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:500px;margin:16px auto;perspective:800px}
+    .mem-card{aspect-ratio:1;border-radius:8px;cursor:pointer;user-select:none;position:relative;min-height:70px}
+    .mem-card.matched{cursor:default}
 
     /* Typing */
     .typ-en{font-size:1.4rem;font-weight:700;color:var(--t-p);text-align:center;margin:20px 0 8px}
@@ -68,12 +66,6 @@
     .typ-input:focus{border-color:var(--t-s)}
     .typ-input:disabled{opacity:0.4}
     .typ-result{text-align:center;font-size:0.9rem;color:var(--t-s);margin-top:12px;min-height:2em}
-    .typ-bar{height:6px;background:var(--bg-t);border-radius:3px;overflow:hidden;margin:16px 0 8px}
-    .typ-bar-fill{height:100%;background:var(--green);border-radius:3px;transition:width 0.3s}
-    .typ-stats{display:flex;justify-content:center;gap:24px;margin-bottom:12px}
-    .typ-stat{text-align:center}
-    .typ-stat-n{font-family:var(--font-mono);font-size:1.3rem;font-weight:700;color:var(--accent)}
-    .typ-stat-l{font-size:0.68rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-m)}
 
     /* Hangman */
     .hm-word{text-align:center;font-size:1.8rem;font-family:var(--font-mono);letter-spacing:0.15em;margin:20px 0;color:var(--t-p);min-height:2.5em}
@@ -83,8 +75,6 @@
     .hm-letter.used{opacity:0.2;cursor:default}
     .hm-letter.ok{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green)}
     .hm-letter.bad{background:rgba(197,68,42,0.1);border-color:var(--red);color:var(--red)}
-    .hm-gallows{font-family:var(--font-mono);font-size:0.75rem;color:var(--t-m);text-align:center;line-height:1.3;margin:10px 0;white-space:pre}
-
     /* Speed Match */
     .sm-q{text-align:center;font-size:1.6rem;font-weight:700;color:var(--accent);margin:12px 0 16px;min-height:2em}
     .sm-opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:480px;margin:0 auto}
@@ -101,7 +91,57 @@
     .g-result-score{font-family:var(--font-mono);font-size:2.2rem;font-weight:700;color:var(--accent)}
     .g-result-label{font-size:0.78rem;color:var(--t-m);margin-bottom:16px}
     .g-result-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
-    @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-grid{gap:6px}.mem-card{font-size:0.72rem;min-height:54px}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}}
+
+    /* ── INSTRUCTIONS MODAL ── */
+    .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.65);z-index:999;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);animation:modalFadeIn 0.2s ease}
+    @keyframes modalFadeIn{from{opacity:0}to{opacity:1}}
+    .modal-box{background:var(--bg-secondary);border:1px solid rgba(var(--accent-rgb),0.25);border-radius:16px;padding:0;max-width:420px;width:90%;text-align:center;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.5);animation:modalSlideIn 0.25s ease}
+    @keyframes modalSlideIn{from{transform:translateY(30px);opacity:0}to{transform:translateY(0);opacity:1}}
+    .modal-header{background:var(--bg-primary);padding:28px 28px 18px;border-bottom:1px solid var(--border-default)}
+    .modal-icon{font-size:2.2rem;margin-bottom:6px}
+    .modal-title{font-family:var(--font-mono);font-size:1.1rem;font-weight:700;color:var(--accent);letter-spacing:0.02em}
+    .modal-body{padding:20px 28px}
+    .modal-body ul{list-style:none;padding:0;margin:0}
+    .modal-body li{font-size:0.82rem;color:var(--text-secondary);line-height:1.5;padding:5px 0 5px 24px;position:relative;text-align:left;border-bottom:1px solid rgba(255,255,255,0.04)}
+    .modal-body li:last-child{border-bottom:none}
+    .modal-body li::before{content:'\25B8';position:absolute;left:0;color:var(--accent);font-size:0.7rem}
+    .modal-footer{background:var(--bg-primary);padding:16px 28px;border-top:1px solid var(--border-default)}
+    .modal-btn{display:block;width:100%;padding:12px 0;border-radius:8px;font-size:0.95rem;font-weight:700;cursor:pointer;font-family:inherit;border:none;background:var(--accent);color:#0a0a23;transition:background 0.15s,transform 0.1s}
+    .modal-btn:hover{background:#f5cb5c;transform:translateY(-1px)}
+    .modal-btn:active{transform:translateY(0)}
+
+    /* ── MEMORY IMPROVEMENTS ── */
+    .mem-card-inner{width:100%;height:100%;transition:transform 0.4s;transform-style:preserve-3d;position:relative;border-radius:6px}
+    .mem-card.flipped .mem-card-inner{transform:rotateY(180deg)}
+    .mem-card-face{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:6px;border-radius:6px;backface-visibility:hidden;font-size:0.85rem;font-weight:600}
+    .mem-card-front{background:var(--bg-t);color:transparent;border:2px solid var(--border)}
+    .mem-card-front::after{content:'?';color:var(--t-m);font-size:1.3rem;font-weight:700}
+    .mem-card-back{background:var(--bg-p);color:var(--t-p);border:2px solid rgba(var(--accent-rgb),0.3);transform:rotateY(180deg);flex-direction:column;gap:2px}
+    .mem-card-back .rom{font-size:0.65rem;color:var(--t-m);font-weight:400}
+    .mem-card.matched .mem-card-inner .mem-card-back{background:rgba(31,173,105,0.15);border-color:var(--green);color:var(--green)}
+    .mem-card.matched .mem-card-inner .mem-card-back .rom{color:var(--green)}
+
+    /* ── TYPING IMPROVEMENTS ── */
+    .ty-bar-wrap{display:flex;gap:6px;align-items:center;margin-bottom:4px}
+    .ty-bar{flex:1;height:8px;background:var(--bg-t);border-radius:4px;overflow:hidden}
+    .ty-bar-fill{height:100%;border-radius:4px;transition:width 0.3s,background 0.5s}
+    .ty-word-num{font-size:0.72rem;color:var(--t-m);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
+    .ty-feedback{text-align:center;font-size:0.9rem;min-height:2em;margin-top:8px;transition:opacity 0.15s}
+    .ty-feedback.ok{color:var(--green)}
+    .ty-feedback.bad{color:var(--red)}
+
+    /* ── HANGMAN IMPROVEMENTS ── */
+    .hm-gallows-area{font-family:var(--font-mono);font-size:0.7rem;color:var(--t-m);text-align:center;line-height:1.25;margin:8px 0;white-space:pre;min-height:100px}
+    .hm-wrong-letters{text-align:center;font-size:0.78rem;color:var(--red);margin-bottom:8px;min-height:1.5em}
+    .hm-kana-row{display:flex;flex-wrap:wrap;justify-content:center;gap:5px;margin-bottom:4px}
+    .hm-kana-row-label{width:100%;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--t-m);margin-bottom:2px;text-align:center}
+
+    /* ── SPEED MATCH IMPROVEMENTS ── */
+    .sm-streak-display{text-align:center;margin-bottom:8px}
+    .sm-streak-fire{font-size:1.1rem}
+    .sm-streak-num{font-family:var(--font-mono);font-size:0.85rem;color:var(--t-m);margin-left:4px}
+
+    @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-card{min-height:54px}.mem-card-face{font-size:0.72rem}.mem-card-front::after{font-size:1rem}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}}
     @media(max-height:500px) and (orientation:landscape){.mem-card{min-height:50px}}
 
     .logo-small { display: none; }
@@ -241,12 +281,44 @@ function showGame(type){
   else if(type==='speedmatch'){_gameState={};GameSpeedMatch.init()}
 }
 
+// ── INSTRUCTIONS MODAL ────────────────────────────────────────────────────────────
+function showInstructions(title,icon,lines,callback){
+  var html='<div class="modal-overlay" id="instr-modal"><div class="modal-box"><div class="modal-header"><div class="modal-icon">'+icon+'</div><div class="modal-title">'+title+'</div></div><div class="modal-body"><ul>'+lines.map(function(l){return '<li>'+l+'</li>'}).join('')+'</ul></div><div class="modal-footer"><button class="modal-btn" id="instr-start-btn">Start Game</button></div></div></div>';
+  var div=document.createElement('div');div.id='instr-place';div.innerHTML=html;
+  document.body.appendChild(div);
+  document.getElementById('instr-start-btn').onclick=function(){
+    closeInstructions();
+    callback();
+  };
+  document.getElementById('instr-modal').onclick=function(e){
+    if(e.target===this){closeInstructions()}
+  };
+}
+function closeInstructions(){
+  var el=document.getElementById('instr-place');
+  if(el)el.remove();
+}
+
 // ── GAME: MEMORY ──────────────────────────────────────────────────────────────────
 var GameMemory={
   init:function(){
+    showInstructions('Memory Match','&#x1F0CF;',[
+      'Flip two cards to find Japanese-English matching pairs',
+      'Match all 8 pairs to complete the game',
+      'Fewer moves and less time = higher score'
+    ],function(){GameMemory._start()});
+  },
+  _start:function(){
     var items=pick(GAMES_VOCAB,8);
     var cards=[];
-    items.forEach(function(v,i){cards.push({id:i,type:'jp',text:v.jp,pair:i});cards.push({id:i,type:'en',text:v.en,pair:i})});
+    items.forEach(function(v,i){
+      cards.push({id:i,type:'jp',pair:i});
+      cards.push({id:i,type:'en',pair:i});
+    });
+    cards.forEach(function(c,i){
+      var w=items[c.pair];
+      c.jp=w.jp; c.en=w.en; c.rom=w.rom;
+    });
     shuffle(cards);
     _gameState={cards:cards,flipped:[],matched:{},moves:0,start:Date.now(),done:false};
     this.render();
@@ -261,11 +333,13 @@ var GameMemory={
     s.cards.forEach(function(c,i){
       var flipped=s.flipped.indexOf(i)>=0||s.matched[c.pair];
       var matched=s.matched[c.pair];
-      html+='<div class="mem-card'+(flipped?' flipped':'')+(matched?' matched':'')+'" onclick="GameMemory.flip('+i+')">'+(flipped||matched?esc(c.text):'')+'</div>';
+      var face=matched||flipped?(c.type==='jp'?esc(c.jp):esc(c.en)):'';
+      var rom=matched||flipped?(c.type==='jp'?esc(c.rom):''):'';
+      html+='<div class="mem-card'+(flipped?' flipped':'')+(matched?' matched':'')+'" onclick="GameMemory.flip('+i+')"><div class="mem-card-inner"><div class="mem-card-face mem-card-front"></div><div class="mem-card-face mem-card-back">'+(face?face:'')+(rom?'<span class="rom">'+rom+'</span>':'')+'</div></div></div>';
     });
     html+='</div>';
     if(matchedCount===total&&!s.done){s.done=true;
-      html+='<div class="g-result"><div class="g-result-score">'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</div><div class="g-result-label">Time in '+s.moves+' moves</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameMemory.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      html+='<div class="g-result"><div class="g-result-score">'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</div><div class="g-result-label">Completed in '+s.moves+' moves</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameMemory._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }
     html+='</div>';
     document.getElementById('main-content').innerHTML=html;
@@ -291,21 +365,38 @@ var GameMemory={
 // ── GAME: TYPING CHALLENGE ────────────────────────────────────────────────────────
 var GameTyping={
   init:function(){
+    showInstructions('Typing Challenge','&#x2328;&#xFE0F;',[
+      'Type the Japanese word that matches the English prompt',
+      'Use your IME to type in Japanese (hiragana/katakana)',
+      'Press Enter to submit each answer',
+      'You have 60 seconds — answer as many as you can!'
+    ],function(){GameTyping._start()});
+  },
+  _start:function(){
     _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:60,start:null,timer:null,ended:false};
     this.render();
+  },
+  barColor:function(pct){
+    if(pct>50)return 'var(--green)';
+    if(pct>25)return 'var(--accent)';
+    return 'var(--red)';
   },
   render:function(){
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameTyping.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x2328;&#xFE0F; Typing Challenge</div><div class="g-area">';
     if(s.ended){
       var pct=Math.round(s.score/Math.max(s.total,1)*100);
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' ('+pct+'%)</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameTyping.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' ('+pct+'%)</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameTyping._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
       var w=s.words[s.index];
-      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Attempts: <strong>'+s.total+'</strong></span><span class="g-label">Time: <strong id="ty-time">'+s.time+'s</strong></span></div><div class="typ-bar"><div class="typ-bar-fill" id="ty-bar" style="width:'+(s.time/60*100)+'%"></div></div>';
+      var barPct=s.time/60*100;
+      var barBg=this.barColor(barPct);
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Time: <strong id="ty-time">'+s.time+'s</strong></span></div>';
+      html+='<div class="ty-bar-wrap"><div class="ty-bar"><div class="ty-bar-fill" id="ty-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div></div>';
+      html+='<div class="ty-word-num">Word '+(s.index+1)+' of 80</div>';
       html+='<div class="typ-en">'+esc(w.en)+'</div><div class="typ-rom">'+esc(w.rom)+'</div>';
       html+='<input class="typ-input" id="ty-input" type="text" placeholder="Type in Japanese…" autocomplete="off" onkeydown="GameTyping.check(event)"/>';
-      html+='<div class="typ-result" id="ty-result"></div>';
+      html+='<div class="ty-feedback" id="ty-feedback"></div>';
     }
     html+='</div>';
     document.getElementById('main-content').innerHTML=html;
@@ -319,15 +410,17 @@ var GameTyping={
     var val=inp.value.trim();if(!val)return;
     var w=s.words[s.index];
     s.total++;
+    var fb=document.getElementById('ty-feedback');
     var ok=val===w.jp||val.toLowerCase()===w.jp.toLowerCase();
-    if(ok){s.score++;document.getElementById('ty-result').innerHTML='&#x2713; Correct!';inp.value='';s.index=(s.index+1)%s.words.length;this.render()}
-    else{document.getElementById('ty-result').innerHTML='&#x2717; Expected: <strong>'+esc(w.jp)+'</strong>';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},600)}
+    if(ok){s.score++;fb.innerHTML='&#x2705; Correct!';fb.className='ty-feedback ok';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},300)}
+    else{fb.innerHTML='&#x274C; Expected: <strong>'+esc(w.jp)+'</strong>';fb.className='ty-feedback bad';inp.value='';s.index=(s.index+1)%s.words.length;var that=this;setTimeout(function(){that.render()},800)}
   },
   startTimer:function(){
     var s=_gameState;
     s.timer=setInterval(function(){
       s.time--;var bar=document.getElementById('ty-bar'),tm=document.getElementById('ty-time');
-      if(bar)bar.style.width=(s.time/60*100)+'%';if(tm)tm.textContent=s.time+'s';
+      if(bar){var pct=s.time/60*100;bar.style.width=pct+'%';bar.style.background=GameTyping.barColor(pct)}
+      if(tm)tm.textContent=s.time+'s';
       if(s.time<=0){clearInterval(s.timer);s.ended=true;GameTyping.render()}
     },1000);
   },
@@ -337,6 +430,14 @@ var GameTyping={
 // ── GAME: HANGMAN ─────────────────────────────────────────────────────────────────
 var GameHangman={
   init:function(){
+    showInstructions('Hangman','&#x1F3AD;',[
+      'Guess the Japanese hospitality word one letter at a time',
+      'Click kana characters to fill in the blanks',
+      'Each wrong guess adds a body part to the gallows',
+      '6 wrong guesses and you lose — solve it before then!'
+    ],function(){GameHangman._start()});
+  },
+  _start:function(){
     var words=pick(GAMES_VOCAB,10);
     _gameState={words:words,index:0,wrong:0,maxWrong:6,guessed:[],done:false};
     this.render();
@@ -348,18 +449,39 @@ var GameHangman={
     var display=w.jp.split('').map(function(c){return s.guessed.indexOf(c)>=0?c:'_'}).join(' ');
     var won=display.indexOf('_')<0;
     var lost=s.wrong>=s.maxWrong;
-    var allLetters='あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポ'.split('');
+    var kanaRows={
+      'A':'あいうえおアイウエオ','K':'かきくけこカキクケコ',
+      'S':'さしすせそサシスセソ','T':'たちつてとタチツテト',
+      'N':'なにぬねのナニヌネノ','H':'はひふへほハヒフヘホ',
+      'M':'まみむめもマミムメモ','Y':'やゆよヤユヨ',
+      'R':'らりるれろラリルレロ','W':'わをんワヲン',
+      'G':'がぎぐげごガギグゲゴ','Z':'ざじずぜぞザジズゼゾ',
+      'D':'だぢづでどダヂヅデド','B':'ばびぶべぼバビブベボ',
+      'P':'ぱぴぷぺぽパピプペポ'
+    };
     var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area">';
     html+='<div class="g-row"><span class="g-label">Word <strong>'+(s.index+1)+'/'+s.words.length+'</strong></span><span class="g-label">Mistakes <strong>'+s.wrong+'/'+s.maxWrong+'</strong></span></div>';
-    html+='<div class="hm-gallows">'+this.gallows(s.wrong)+'</div><div class="hm-word">'+(won||lost?'':display)+'</div>';
-    html+='<div class="hm-hint">'+(won?'Correct! It was <strong>'+esc(w.jp)+'</strong> ('+esc(w.en)+')':lost?'The word was <strong>'+esc(w.jp)+'</strong> ('+esc(w.en)+')':'English: '+esc(w.en))+'</div>';
+    html+='<div class="hm-gallows-area">'+this.gallows(s.wrong)+'</div><div class="hm-word">'+(won||lost?esc(w.jp):display)+'</div>';
+    html+='<div class="hm-hint">'+(won?'Correct! <strong>'+esc(w.jp)+'</strong> = '+esc(w.en):lost?'The word was <strong>'+esc(w.jp)+'</strong> = '+esc(w.en):'English: '+esc(w.en))+'</div>';
+    var wrongLetters=s.guessed.filter(function(l){return w.jp.indexOf(l)<0});
+    if(wrongLetters.length>0){
+      html+='<div class="hm-wrong-letters">Wrong: '+wrongLetters.join(' ')+'</div>';
+    }
     if(!won&&!lost){
       html+='<div class="hm-letters">';
-      allLetters.forEach(function(l){
-        var used=s.guessed.indexOf(l)>=0;
-        var ok=used&&w.jp.indexOf(l)>=0;
-        var bad=used&&w.jp.indexOf(l)<0;
-        html+='<div class="hm-letter'+(used?' used':'')+(ok?' ok':'')+(bad?' bad':'')+'" onclick="GameHangman.guess(\''+l+'\')">'+l+'</div>';
+      var rowNames=Object.keys(kanaRows);
+      rowNames.forEach(function(rn){
+        var chars=kanaRows[rn].split('');
+        var hasActive=chars.some(function(c){return s.guessed.indexOf(c)<0});
+        if(!hasActive)return;
+        html+='<div class="hm-kana-row"><div class="hm-kana-row-label">'+rn+'</div>';
+        chars.forEach(function(l){
+          var used=s.guessed.indexOf(l)>=0;
+          var ok=used&&w.jp.indexOf(l)>=0;
+          var bad=used&&w.jp.indexOf(l)<0;
+          html+='<div class="hm-letter'+(used?' used':'')+(ok?' ok':'')+(bad?' bad':'')+'" onclick="GameHangman.guess(\''+l+'\')">'+l+'</div>';
+        });
+        html+='</div>';
       });
       html+='</div>';
     }else{
@@ -393,7 +515,7 @@ var GameHangman={
     if(s.index>=s.words.length)this.showResult();else this.render();
   },
   showResult:function(){
-    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
     document.getElementById('main-content').innerHTML=html;
   }
 };
@@ -401,17 +523,34 @@ var GameHangman={
 // ── GAME: SPEED MATCH ─────────────────────────────────────────────────────────────
 var GameSpeedMatch={
   init:function(){
+    showInstructions('Speed Match','&#x26A1;',[
+      'Read the Japanese word and pick the correct English meaning',
+      'Answer as many as you can in 45 seconds',
+      'Correct answers in a row build your streak',
+      'Wrong answers reset your streak to zero'
+    ],function(){GameSpeedMatch._start()});
+  },
+  _start:function(){
     _gameState={words:shuffle([...GAMES_VOCAB]),index:0,score:0,total:0,time:45,timer:null,ended:false,streak:0,bestStreak:0,start:null};
     this.render();
+  },
+  barColor:function(pct){
+    if(pct>50)return 'var(--accent)';
+    if(pct>25)return 'var(--accent-yellow)';
+    return 'var(--red)';
   },
   render:function(){
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameSpeedMatch.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x26A1; Speed Match</div><div class="g-area">';
     if(s.ended){
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameSpeedMatch.init()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameSpeedMatch._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
-      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Streak: <strong>'+s.streak+'</strong></span><span class="g-label">Time: <strong id="sm-time">'+s.time+'s</strong></span></div>';
-      html+='<div class="sm-bar"><div class="sm-bar-fill" id="sm-bar" style="width:'+(s.time/45*100)+'%"></div></div>';
+      var barPct=s.time/45*100;
+      var barBg=this.barColor(barPct);
+      html+='<div class="g-row"><span class="g-label">Score: <strong>'+s.score+'</strong></span><span class="g-label">Time: <strong id="sm-time">'+s.time+'s</strong></span></div>';
+      html+='<div class="sm-bar"><div class="sm-bar-fill" id="sm-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div>';
+      var fire=s.streak>=3?'🔥'.repeat(Math.min(s.streak,5)):'';
+      html+='<div class="sm-streak-display"><span class="sm-streak-num">Streak: '+s.streak+'</span>'+(fire?' <span class="sm-streak-fire">'+fire+'</span>':'')+'</div>';
       if(s.index<s.words.length){
         var w=s.words[s.index];
         html+='<div class="sm-q">'+esc(w.jp)+'</div>';
@@ -453,7 +592,8 @@ var GameSpeedMatch={
     var s=_gameState;
     s.timer=setInterval(function(){
       s.time--;var bar=document.getElementById('sm-bar'),tm=document.getElementById('sm-time');
-      if(bar)bar.style.width=(s.time/45*100)+'%';if(tm)tm.textContent=s.time+'s';
+      if(bar){var pct=s.time/45*100;bar.style.width=pct+'%';bar.style.background=GameSpeedMatch.barColor(pct)}
+      if(tm)tm.textContent=s.time+'s';
       if(s.time<=0){clearInterval(s.timer);s.ended=true;GameSpeedMatch.render()}
     },1000);
   },
