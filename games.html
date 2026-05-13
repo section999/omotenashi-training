@@ -1095,7 +1095,7 @@ var GameScramble={
     GameScramble.render();
   },
   submit:function(){
-    var s=_gameState;if(s.ended)return;
+    var s=_gameState;if(s.ended||!s.letters||!s.answer)return;
     if(s.answer.length!==s.letters.length)return;
     var w=s.words[s.index];
     var val=s.answer.map(function(i){return s.letters[i]}).join('');
