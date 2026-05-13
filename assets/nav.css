@@ -107,6 +107,7 @@
   width: 100%;
   padding: 11px 18px;
   font-size: 0.875rem;
+  line-height: inherit;
   color: var(--text-secondary);
   text-decoration: none;
   background: none;
@@ -114,6 +115,7 @@
   font-family: inherit;
   text-align: left;
   cursor: pointer;
+  appearance: none;
   transition: background 0.15s, color 0.15s;
 }
 .nav-dropdown a:hover,

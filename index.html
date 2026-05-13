@@ -61,7 +61,8 @@
     [data-theme="light"] .nav { background: #0a0a23 !important; }
     [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
     [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
-    [data-theme="light"] .nav-dropdown a:hover { background: rgba(255,255,255,0.08) !important; }
+    [data-theme="light"] .nav-dropdown a:hover,
+    [data-theme="light"] .nav-dropdown button:hover { background: rgba(255,255,255,0.08) !important; }
     [data-theme="light"] .kanji-char { color: rgba(27,27,50,0.05); }
     [data-theme="light"] .hero-bg {
       background: linear-gradient(to bottom, #f5f6f7 70%, #ffffff 100%);
@@ -898,8 +899,8 @@
           <div class="nav-dropdown">
             <a href="index.html">Main</a>
             <a href="curriculum.html">Curriculum</a>
-            <button onclick="toggleMode();return false;">Switch Mode</button>
-            <button onclick="openSignInModal();return false;">Save Progress</button>
+            <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+            <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
             <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
           </div>
         </div>

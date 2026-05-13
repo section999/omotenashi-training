@@ -385,7 +385,8 @@ margin-top: 48px;
     [data-theme="light"] .nav { background: #0a0a23 !important; }
     [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
     [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
-    [data-theme="light"] .nav-dropdown a:hover { background: rgba(255,255,255,0.08) !important; }
+    [data-theme="light"] .nav-dropdown a:hover,
+    [data-theme="light"] .nav-dropdown button:hover { background: rgba(255,255,255,0.08) !important; }
     /* ── PHILOSOPHY (japanese way) ──────────────────── */
     .philosophy-grid {
       margin-bottom: 40px;
@@ -545,8 +546,8 @@ margin-top: 48px;
           <div class="nav-dropdown">
             <a href="index.html">Main</a>
             <a href="curriculum.html">Curriculum</a>
-            <button onclick="toggleMode();return false;">Switch Mode</button>
-            <button onclick="openSignInModal();return false;">Save Progress</button>
+            <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
+            <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
             <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
           </div>
         </div>
