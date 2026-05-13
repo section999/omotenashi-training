@@ -1055,7 +1055,7 @@ var GameScramble={
       html+='<div class="ty-bar-wrap"><div class="ty-bar"><div class="ty-bar-fill" id="sc-bar" style="width:'+barPct+'%;background:'+barBg+'"></div></div></div>';
       html+='<div class="sc-word-num">Word '+(s.index+1)+' of '+GAMES_VOCAB.length+'</div>';
       html+='<div class="sc-en">'+esc(w.en)+'</div>';
-      html+='<div class="sc-hint">Click letters to build the answer</div>';
+      html+='<div class="sc-hint">Click kana to build the answer</div>';
       html+='<div class="sc-letters">';
       for(var i=0;i<s.letters.length;i++){
         if(!s.used[i])html+='<span class="sc-letter" onclick="GameScramble.clickLetter('+i+')">'+esc(s.letters[i])+'</span>';
@@ -1101,7 +1101,7 @@ var GameScramble={
     var val=s.answer.map(function(i){return s.letters[i]}).join('');
     s.total++;
     var fb=document.getElementById('sc-feedback');
-    var ok=val===w.rom;
+    var ok=val===w.jp;
     if(ok){
       s.score++;s.streak++;if(s.streak>s.bestStreak)s.bestStreak=s.streak;
       s.time=Math.min(s.time+3,45);
@@ -1112,7 +1112,7 @@ var GameScramble={
       var that=this;setTimeout(function(){that.render()},300);
     }else{
       s.streak=0;s.time=Math.max(s.time-5,0);
-      fb.innerHTML='&#x274C; -5s: Expected <strong>'+esc(w.rom)+'</strong>';fb.className='sc-feedback bad';
+      fb.innerHTML='&#x274C; -5s: Expected <strong>'+esc(w.jp)+'</strong>';fb.className='sc-feedback bad';
       var els=document.querySelectorAll('.sc-answer-letter');els.forEach(function(e){e.classList.add('wrong')});
       s.letters=null;s.used=null;s.answer=null;
       s.index=(s.index+1)%s.words.length;
