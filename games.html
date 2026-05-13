@@ -1085,8 +1085,8 @@ var GameScramble={
     if(!s.started){s.started=true;s.start=Date.now();GameScramble.startTimer()}
     s.used[idx]=true;
     s.answer.push(idx);
-    if(s.answer.length===s.letters.length)GameScramble.submit();
-    else GameScramble.render();
+    GameScramble.render();
+    if(s.answer.length===s.letters.length)setTimeout(function(){GameScramble.submit()},100);
   },
   clickAnswer:function(idx){
     var s=_gameState;if(s.ended)return;
