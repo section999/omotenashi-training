@@ -24,6 +24,18 @@ A guest who is seamlessly passed between departments feels that the property ope
 
 ---
 
+## Key Phrases
+
+**引き継ぎ (hikitsugi)** — handover; the act of transferring responsibility and information from one staff member to another between departments or shifts
+
+**こちらは田中がご案内いたします。** *(Kochira wa Tanaka ga go-annai itashimasu.)*
+"My colleague Tanaka will assist you from here." — the preferred phrase for a personal introduction during a warm, invisible handover
+
+**事前にご連絡いたします。** *(Jizen ni go-renraku itashimasu.)*
+"I will contact them in advance." — the commitment that makes an invisible handover possible; renraku before the guest arrives at the next touchpoint
+
+---
+
 ## Quiz
 
 **What distinguishes an invisible handover from a visible one?**

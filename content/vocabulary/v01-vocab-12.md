@@ -4,21 +4,51 @@ section: 12
 title: こちらへどうぞ (kochira e douzo)
 ---
 
-This phrase means "this way, please." It is used when guiding guests to a location. It is polite and commonly used in hospitality settings. It helps create a smooth and professional guest experience.
+**Pronunciation:** ko-chi-ra-e-dō-zo — *kochira* is three syllables; *e* is the directional particle; *dōzo* has a long *ō*
+
+**Register:** Polite — standard in all guest-facing guiding situations. The phrasing is warm and inviting rather than commanding, making it well-suited for hospitality.
+
+**こちらへどうぞ** means "please come this way" — *kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that initiates movement: you say it as you begin to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way" — it is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
+
+What distinguishes excellent guiding from adequate guiding in Japanese hospitality is the physical component. *Kochira e dōzo* is spoken while extending an open hand (palm up) in the direction of travel — never pointing with a single finger, which is considered impolite. The gesture and the phrase together create a smooth, welcoming invitation for the guest to follow.
+
+During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu* — "excuse me, there are stairs"), and pauses at the destination to confirm arrival. The quality of the guided walk is part of the hospitality experience itself.
+
+## Example Sentences
+
+**1.** こちらへどうぞ。お部屋までご案内いたします。
+*Kochira e dōzo. O-heya made go-annai itashimasu.*
+"Please come this way. I will show you to your room."
+
+**2.** レストランはこちらでございます。こちらへどうぞ。
+*Resutoran wa kochira de gozaimasu. Kochira e dōzo.*
+"The restaurant is this way. Please follow me."
+
+**3.** こちらへどうぞ。足元にお気をつけくださいませ。
+*Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.*
+"Please come this way. Please watch your step."
+
+## Related Expressions
+
+- **ご案内いたします (go-annai itashimasu)** — "I will guide you" — the more formal declaration of guidance, often said before *kochira e dōzo*
+- **こちらでございます (kochira de gozaimasu)** — "It is this way / here it is" — used to indicate a destination or object
+- **足元にお気をつけください (ashimoto ni o-ki wo tsukete kudasai)** — "Please watch your step" — said near stairs, thresholds, or uneven surfaces
+
+## Common Mistakes
+
+The most common mistake is pointing with a single finger rather than using an open-hand gesture. In Japanese etiquette, the open palm toward the direction of travel is the correct movement. A second mistake is walking too fast — the guest's pace should set the speed, not the staff member's. A third mistake is not announcing hazards (steps, thresholds, wet floors) before the guest encounters them; proactive safety guidance is part of the guiding responsibility.
 
 ---
 
 ## Quiz
 
-**ロビーはこちらです。____。
-(The lobby is this way.)**
+**A guest has just checked in and you are about to lead them to their room. What do you say as you begin walking?**
 
-- A. どうぞ (please / go ahead)
-- B. こちらへどうぞ (please come this way)
-- C. ごゆっくりどうぞ (please take your time)
-- D. 失礼いたします (excuse me)
+- A. ついてきてください。(Please follow me — too casual/direct)
+- B. こちらへどうぞ。お部屋までご案内いたします。(Please come this way. I will show you to your room.)
+- C. お部屋はあちらです。(Your room is that way — unhelpfully vague and unguiding)
+- D. エレベーターはそこです。(The elevator is there — pointing, not guiding)
 
-**Correct Answer:** こちらへどうぞ (please come this way)
+**Correct Answer:** こちらへどうぞ。お部屋までご案内いたします。(Please come this way. I will show you to your room.)
 
-**Explanation:** こちらへどうぞ invites the guest to follow — it is the standard phrase for guiding guests in any direction.
-
+**Explanation:** *Kochira e dōzo* combined with *go-annai itashimasu* creates a complete, warm guiding invitation. It tells the guest where they are going and assures them they will be led there — no confusion, no independent navigation required. Use an open-palm gesture toward the direction of travel.

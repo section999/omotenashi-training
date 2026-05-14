@@ -23,6 +23,18 @@ Guests occasionally walk into staff areas or overhear back-of-house conversation
 
 ---
 
+## Key Phrases
+
+**相互扶助 (sōgo fujo)** — mutual support; the principle that no colleague should struggle in a guest-facing situation when another staff member can help
+
+**よろしければ私がご案内いたします。** *(Yoroshikereba watashi ga go-annai itashimasu.)*
+"If you don't mind, I will assist you." — the phrase for stepping in naturally for an occupied colleague, without drawing attention to the gap in service
+
+**ご案内が行き届かず大変失礼いたしました。** *(Go-annai ga yukitodokazu taihen shitsurei itashimashita.)*
+"I apologise that you were not attended to more promptly." — used if a guest has had to wait while staff were occupied; takes collective responsibility without blaming the colleague
+
+---
+
 ## Quiz
 
 **A guest approaches while your colleague is occupied with another guest. What should you do?**

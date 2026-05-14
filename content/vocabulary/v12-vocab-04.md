@@ -4,15 +4,35 @@ section: 4
 title: 避難 (hinan)
 ---
 
-**Meaning:** evacuation
+**Pronunciation:** hi-**nan**
+**Register:** Formal — used in official announcements, evacuation signage, emergency manuals, and direct staff-to-guest communication during any crisis situation.
 
-避難 is the act of moving people to a safe location to protect them from danger. It is essential during fires, earthquakes, floods, or other emergencies. Staff must guide guests calmly and efficiently along evacuation routes. Clear signage, announcements, and practice drills improve safety outcomes.
+避難 is the act of moving people to a safe location to protect them from imminent danger, and it is one of the most operationally critical concepts in Japanese hospitality emergency management. Whether triggered by fire, earthquake, flood, gas leak, or other hazard, the ability to conduct a calm, orderly, and complete evacuation is a fundamental expectation of all hospitality staff. In Japan's omotenashi culture, ensuring that every single guest — including elderly guests, guests with disabilities, and non-Japanese-speaking visitors — safely reaches the designated evacuation area is considered a non-negotiable duty of care.
 
-**Example:**
+In practice, 避難 is announced over the public address system and reinforced by staff stationed at key points along evacuation routes. Staff should know the exact 避難経路 (evacuation route) for every floor of the property, identify guests who may need physical assistance, and account for all guests at the 避難場所 (evacuation area) after departure. Regular 避難訓練 (evacuation drills) are conducted to ensure both speed and composure.
 
-避難経路に従って安全な場所へ移動してください。
+## Example Sentences
 
-*Follow the evacuation route to move to a safe location.*
+**1.** 避難経路に従って安全な場所へ移動してください。
+*Hinan keiro ni shitagatte anzen na basho e idou shite kudasai.*
+"Please follow the evacuation route and move to a safe location."
+
+**2.** 火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。
+*Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*
+"As the fire alarm is sounding, all staff please begin evacuation guidance immediately."
+
+**3.** 避難の際は、エレベーターをご利用にならず、非常階段をお使いください。
+*Hinan no sai wa, erebētā wo goriyou ni narazu, hijou kaidan wo otsukai kudasai.*
+"During evacuation, please do not use the elevators — use the emergency staircase."
+
+## Related Expressions
+
+- **避難訓練 (hinan kunren)** — evacuation drill; the regular practice exercise that prepares staff and familiarises guests with the evacuation procedure before an emergency actually occurs.
+- **誘導 (yuudou)** — guidance or escorting; when staff actively lead guests toward the evacuation route they are performing 誘導, which is a key staff responsibility during 避難.
+
+## Common Mistakes
+
+A critical mistake is using the elevators during 避難 — staff must be trained to redirect guests to stairs even when guests resist, as elevator shafts can fill with smoke and power failures can trap occupants. Learners sometimes confuse 避難 (evacuation — moving to safety) with 救助 (kyuujo — rescue — saving someone already in danger), which are related but distinct actions. Staff should also avoid using vague language during an evacuation announcement; phrases like 「外に出てください」 without specifying the route can cause confusion and crowd congestion.
 
 ---
 
@@ -28,4 +48,3 @@ title: 避難 (hinan)
 **Correct Answer:** 避難 (evacuation)
 
 **Explanation:** 避難 (hinan) means evacuation — moving people to safety. 消火器 = fire extinguisher, 応急処置 = first aid, 警告 = warning.
-

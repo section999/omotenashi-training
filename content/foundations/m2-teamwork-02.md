@@ -27,6 +27,17 @@ In a hospitality context, hierarchy ensures that accountability is clear and tha
 
 ---
 
+## Key Phrases
+
+**先輩 / 後輩 (senpai / kōhai)** — senior and junior colleague; the foundational relationship of mentorship and learning in Japanese professional culture
+
+**上司 (jōshi)** — direct superior or manager; the person to whom hōkoku (reporting) is directed
+
+**状況・対応・現状の順でご報告いたします。** *(Jōkyō, taiō, genjō no jun de go-hōkoku itashimasu.)*
+"I will report in order: the situation, the action taken, and the current status." — the recommended structure for clear, direct reporting to a superior
+
+---
+
 ## Quiz
 
 **A junior staff member disagrees with how a senior colleague handled a guest complaint. What is the appropriate course of action?**

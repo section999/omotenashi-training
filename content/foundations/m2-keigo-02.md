@@ -24,6 +24,17 @@ A useful tip: sonkeigo patterns often use the structure **お + verb stem + に�
 
 ---
 
+## Key Phrases
+
+**お客様は召し上がりますか？** *(O-kyakusama wa meshiagarimasu ka?)*
+"Would you like to eat/drink?" — *meshiagaru* is the sonkeigo form for eating or drinking
+
+**いらっしゃいます** *(irasshaimasu)* — sonkeigo for "to be / to come / to go" when referring to the guest
+
+**おっしゃいました** *(osshaimashita)* — sonkeigo for "said" when referring to the guest's words
+
+---
+
 ## Quiz
 
 **Which sonkeigo verb is correct for asking a guest if they would like to eat?**

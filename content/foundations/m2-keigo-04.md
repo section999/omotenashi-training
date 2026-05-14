@@ -26,6 +26,15 @@ Teineigo is the minimum standard in hospitality environments. Sonkeigo and kenj�
 
 ---
 
+## Key Phrases
+
+**のちほど** *(nochihodo)* — "later" (formal); replaces casual *ato de* in polite speech
+**さきほど** *(sakihodo)* — "a moment ago" (formal); replaces casual *sakki*
+**ただいま** *(tadaima)* — "right now / at this moment" (formal); replaces casual *ima*
+**よろしい** *(yoroshii)* — "good / acceptable" (formal); replaces casual *ii*
+
+---
+
 ## Quiz
 
 **Which of the following is the teineigo (polite) form of "later"?**

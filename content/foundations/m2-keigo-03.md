@@ -26,6 +26,19 @@ A common structural pattern is **お + verb stem + する / いたす** (e.g., *
 
 ---
 
+## Key Phrases
+
+**お荷物をお持ちいたします。** *(O-nimotsu wo o-mochi itashimasu.)*
+"Allow me to carry your luggage." — *itashimasu* (kenjōgo of *shimasu*) lowers the speaker's action
+
+**ご案内いたします。** *(Go-annai itashimasu.)*
+"I will guide you." — the standard kenjōgo phrase for escorting a guest
+
+**参ります。** *(Mairimasu.)*
+"I will go / I am coming." — kenjōgo for *ikimasu/kimasu* when speaking of one's own movement
+
+---
+
 ## Quiz
 
 **A staff member says: "Only a moment, please — 確認いたします." What is いたします doing in this sentence?**

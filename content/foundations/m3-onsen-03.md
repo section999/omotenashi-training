@@ -22,6 +22,19 @@ Many properties prohibit tattoos in communal onsen, due to historical associatio
 
 ---
 
+## Key Phrases
+
+**男女別浴場となっております。** *(Danjo betsu-yokujō to natte orimasu.)*
+"The baths are separated by gender." — a key reassurance for international guests unfamiliar with communal onsen; should be stated early and matter-of-factly to address the most common concern
+
+**事前にお知らせしたいことがございます。** *(Jizen ni o-shirase shitai koto ga gozaimasu.)*
+"There is something I would like to mention in advance." — the correct opener for communicating the tattoo policy at check-in, before the guest has made plans; frames the information as helpful rather than restrictive
+
+**プライベートのお風呂もご用意しております。** *(Puraiběto no o-furo mo go-yōi shite orimasu.)*
+"We also have a private bath available." — offered immediately after communicating any onsen restriction; ensures the guest never leaves the conversation without an alternative
+
+---
+
 ## Quiz
 
 **When is the best time to inform a guest with tattoos about the onsen policy?**

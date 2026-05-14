@@ -25,6 +25,15 @@ Accept with both hands, a bow, and a brief, sincere expression of gratitude: *"�
 
 ---
 
+## Key Phrases
+
+**恐れ入ります、ありがとうございます。** *(Osore irimasu, arigatō gozaimasu.)*
+"I am humbled — thank you." — the correct phrase when receiving a gift from a guest
+
+**熨斗 (noshi)** — the formal gift notation paper; its uwagaki (occasion label) and shasho (giver's name) must be written correctly
+
+---
+
 ## Quiz
 
 **In Japanese gift-giving, what does the uwagaki (上書き) on a noshi paper indicate?**

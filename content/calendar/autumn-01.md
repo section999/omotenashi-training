@@ -6,31 +6,59 @@ title: Koyo — Autumn Foliage (紅葉) — October to November
 
 **Season:** Autumn · September — November
 
-Japan's autumn foliage season rivals cherry blossom season in its national significance. The progression of red and gold leaves moves southward through October and November. Kyoto, Nikko, Hakone, and countless mountain resorts are completely full. International tourism peaks during koyo, particularly from East Asia.
+Japan's autumn foliage season — *koyo* (紅葉, literally "crimson leaves") — rivals cherry blossom season in its national significance. The progression of colour begins in Hokkaido in September and moves southward through the country over approximately two months, reaching Kyushu by November. Kyoto, Nikko, Hakone, the Japanese Alps, and countless mountain resorts are at full capacity. International tourism peaks during koyo, particularly from East Asian countries where the tradition of viewing autumn leaves is deeply appreciated.
 
-**Hospitality context:** Guests are highly motivated to see foliage at its peak — which, like sakura, is weather-dependent and brief. Current foliage conditions should be known by all front-line staff. Offer recommendations proactively.
+**What makes koyo different from hanami:**
+
+While cherry blossom season is defined by transience and delicate beauty, koyo carries a different emotional register — deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo are often in a slower, more reflective mood — they tend to linger, to photograph carefully, to seek the most intense colours.
+
+**Critical front-line knowledge:**
+
+Like cherry blossoms, koyo is **weather-dependent and changes daily.** The question every front-line staff member must be able to answer accurately is: *"Where are the leaves at their best right now, and for how many more days?"* This information changes with temperature and rainfall. Staff should:
+
+- Know the current foliage status at the two or three nearest major viewing spots
+- Know whether the leaves are just beginning, at peak, or starting to fall
+- Be able to recommend the best viewing times (early morning for mist; late afternoon for golden light)
+- Know which areas are accessible by public transport vs. taxi
+
+**Service touchpoints during koyo:**
+
+- Suggest packed lunch options or nearby teahouses along popular foliage routes
+- Have detailed maps of walking routes marked with the best viewing points
+- Offer to book transportation in advance for popular spots that become congested on peak weekends
+- In the room: autumn-themed wagashi (sweet potato, chestnut, persimmon) and warm hojicha or roasted tea reflect the season naturally
 
 ---
 
-**Seasonal Comment**
+## Seasonal Greeting
 
 紅葉がきれいな季節になりましたね。
 
-*Kouyou ga kirei na kisetsu ni nari mashita ne.*
+*Kōyō ga kirei na kisetsu ni nari mashita ne.*
 
 "The autumn colours have become so beautiful, haven't they."
 
 ---
 
+**Extended guidance phrase:**
+
+今年の紅葉は特に見事です。○○では今がちょうど見頃ですので、ぜひ足をお運びください。
+
+*Kotoshi no kōyō wa toku ni migoto desu. ○○ de wa ima ga chōdo migorō desu no de, zehi ashi wo o-hakobi kudasai.*
+
+"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now — I would really recommend visiting."
+
+---
+
 ## Quiz
 
-**A guest asks about the current koyo conditions at a nearby mountain. You are unsure of today's status. What should you do?**
+**A guest asks about the current koyo conditions at a nearby mountain. You are not fully certain of today's status. What is the professional response?**
 
-- A. Give a general answer and say it's probably fine
-- B. Check current conditions with your team or a reliable source before advising the guest
-- C. Refer the guest to a travel app without further assistance
-- D. Tell the guest koyo season is over to avoid disappointment
+- A. Give a general answer and say the leaves are probably beautiful
+- B. Say the season is over to avoid disappointing them if conditions are poor
+- C. Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update — including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
+- D. Refer the guest to a travel app without further assistance
 
-**Correct Answer:** Check current conditions with your team or a reliable source before advising the guest
+**Correct Answer:** Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update — including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
 
-**Explanation:** Koyo conditions change daily and are weather-dependent. Front-line staff should know current foliage status. If uncertain, verifying before advising — rather than guessing — is the professional and trustworthy response.
+**Explanation:** Koyo conditions change daily, and a guest who misses the peak because of inaccurate information will feel let down. Professional hospitality requires accurate knowledge — and when you don't have it, the correct response is a brief check rather than a guess. Returning with specific, current information is far more valuable than an immediate but uncertain answer.

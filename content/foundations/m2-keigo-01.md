@@ -18,6 +18,14 @@ All three serve the same purpose: to make the guest feel honoured and at ease. M
 
 ---
 
+## Key Phrases
+
+**尊敬語 (sonkeigo)** — respectful language; elevates the *guest's* actions
+**謙譲語 (kenjōgo)** — humble language; lowers the *speaker's* actions
+**丁寧語 (teineigo)** — polite language; the everyday formal register using です/ます
+
+---
+
 ## Quiz
 
 **Which of the following best describes the purpose of keigo in a hospitality setting?**

@@ -4,9 +4,35 @@ section: 9
 title: 開店 (kaiten)
 ---
 
-"開店" means opening time when a restaurant or shop begins service. It is important for staff to inform guests when services become available.
+**Pronunciation:** **kai**-ten
+**Register:** Formal — standard vocabulary used by hospitality staff to communicate the start of service; it appears in spoken guest interaction, telephone responses, and printed schedules.
 
-Guests often plan their schedule based on opening times, especially for breakfast or facilities. Providing precise information helps avoid waiting or confusion.
+開店 literally means "open store" and refers to the moment a restaurant, shop, or service facility begins its operating period for the day. In a hotel context, it is used most often to communicate breakfast start times, restaurant opening, and the commencement of amenity services such as the spa, gift shop, or pool. Because many guests plan their morning and afternoon activities around when facilities open, providing accurate and readily available 開店 information is a basic but vital service competency. Misstating or being unsure of opening times disrupts guests' plans and reflects poorly on the professionalism of the property.
+
+The cultural nuance of 開店 in a Japanese hospitality setting goes slightly beyond the mechanical act of unlocking a door: it signals readiness, presentation, and preparedness to receive guests at the highest standard. A restaurant that 開店 at 7 a.m. in a top hotel is expected to be fully staffed, lit, and arranged at exactly that moment — not in the process of setting up. Staff announcing opening times to guests are implicitly vouching for this standard of readiness. For this reason, knowing not just the official opening time but the practical nuances (e.g., hot dishes available from 7:30 a.m., though the room opens at 7 a.m.) makes communication more useful and trustworthy.
+
+## Example Sentences
+
+**1.** レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。
+*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*
+"The restaurant opens at 7 o'clock. We hope you enjoy your breakfast."
+
+**2.** ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。
+*Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*
+"The current time is 6:45, and the restaurant will open in fifteen minutes."
+
+**3.** ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。
+*Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*
+"The gift shop opens at 10 o'clock, so you are welcome to stop by before your departure."
+
+## Related Expressions
+
+- **閉店 (heiten)** — closing; the opposite of 開店; equally important to communicate so guests know the end of service and can plan their last orders or final visits accordingly.
+- **営業時間 (eigyou jikan)** — business hours; the full time window that encompasses both 開店 and 閉店; when a guest asks a general question about a facility's hours, providing the entire 営業時間 is more complete than stating only the opening time.
+
+## Common Mistakes
+
+Learners often give the opening time correctly but forget to mention ラストオーダー (last order) or 閉店 (closing), leaving the guest with an incomplete picture of the service window — always aim to provide the full context. Another mistake is using the plain form 「開店します」 rather than the more polished 「開店いたします」 in formal guest communication; いたします is the humble-polite form appropriate for hotel staff. Finally, avoid guessing if you are not certain of the current day's opening time — seasonal or event-related schedule changes are common, and incorrect information damages credibility.
 
 ---
 

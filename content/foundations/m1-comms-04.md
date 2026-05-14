@@ -4,16 +4,51 @@ section: 4
 title: The Power of Timing
 ---
 
-Timing is perhaps the most difficult service skill to teach, and one of the most revealing. Approaching a table too early interrupts the guest; too late signals neglect. The right moment — identified through observation — creates the impression that you were somehow always there exactly when needed.
+Timing is perhaps the most difficult service skill to teach and one of the most revealing to observe. A staff member's timing — when to approach, when to step back, when to speak and when to wait — tells you more about their understanding of hospitality than almost any other behaviour. Approach a guest too early and you interrupt; too late, and you signal neglect. The right moment, identified through genuine observation, creates the impression that you were somehow always present exactly when needed.
 
-Indicators to watch for: a guest finishing their current course, a glass approaching empty, a menu being set down, a glance toward the service area. Each of these signals a moment of readiness — not a request, but an opening. Skilled service reads these openings and acts on them without hesitation.
+**Reading the signals:**
+
+Good timing comes from watching for specific cues rather than following a fixed schedule:
+
+- **In a restaurant**: a guest who has set down their cutlery, pushed their plate slightly forward, and is looking around — this is a signal of readiness. A guest who is eating with one hand while gesturing in conversation with the other is not ready. Do not approach.
+- **At the bar**: a glass approaching empty is an opening; a glass still three-quarters full is not. Watch the glass, not the clock.
+- **At the desk**: a guest who has finished their initial question and is looking at you expectantly is ready for your response. A guest who is still sorting through their bag or looking at their phone is not yet fully present for you.
+- **In the lobby**: a guest who is standing still and looking around is likely disoriented and open to assistance. A guest moving with purpose to a known destination does not need to be intercepted.
+
+**The timing of interruption:**
+
+One of the most common timing errors is interrupting a guest in the middle of a sentence or thought — particularly when delivering information or service items at the exact moment the guest is speaking. This says: "what I need to do takes priority over what you are saying." The correct approach is to pause, complete the delivery of whatever you are presenting, and then give the guest your full attention.
+
+Similarly, approaching a table in the middle of what is clearly an important or emotional conversation — even with the best intentions — signals that the operational schedule matters more than the guest's experience. Read the room. Some moments are not for service.
+
+**Consistency over time:**
+
+Timing within a single interaction is only part of the picture. The pacing of an entire stay — how the experience unfolds across meals, through check-in, during the night, at check-out — also requires deliberate timing awareness. A rushed check-in followed by a leisurely breakfast creates inconsistency that the guest feels. The overall rhythm of a stay should be considered and intentional.
+
+---
+
+## Key Phrases
+
+**少々タイミングをいただいてよろしいですか？** *(Shōshō taimingu wo itadaite yoroshii desu ka?)*
+"May I take a brief moment with your timing?" — politely requesting a guest's attention when you need to interject.
+
+**ご用意ができましたら、お声がけいたします。** *(Go-yōi ga dekimashitara, o-koe gake itashimasu.)*
+"When it is ready, I will let you know." — used to set a guest's expectation about timing, so they are not waiting and wondering.
+
+**お席のご準備ができております。** *(O-seki no go-junbi ga dekite orimasu.)*
+"Your table is ready." — delivered at the right moment: when the guest's wait is complete and they are ready to move, not before.
 
 ---
 
 ## Quiz
 
-**Silence in service means lack of attention.**
+**You are clearing empty glasses from a dining table when a guest begins speaking to their companion mid-sentence. What should you do?**
 
-**Answer:** False
+- A. Continue clearing the glasses quickly so as not to extend the interruption
+- B. Pause immediately, step back slightly, and wait for a natural break in their conversation before proceeding or excusing yourself
+- C. Ask the guest to pause briefly so you can complete the task
+- D. Leave the glasses and return later when the conversation has completely ended
 
-**Explanation:** Silence is often a deliberate and respectful form of communication — it signals focus and care.
+**Correct Answer:** Pause immediately, step back slightly, and wait for a natural break in their conversation before proceeding or excusing yourself
+
+**Explanation:** The guest's conversation takes priority. Continuing to work through someone's speech signals that your operational task matters more than their experience. Pausing and stepping back shows awareness; waiting for a natural break and then proceeding quietly (or with a brief 失礼いたします) is the correct execution of timing in this situation.

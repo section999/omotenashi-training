@@ -26,6 +26,16 @@ Autumn invites slower, more reflective dining experiences. Guests linger longer;
 
 ---
 
+## Key Phrases
+
+**日に日に秋らしくなってまいりました。** *(Hi ni hi ni aki rashiku natte mairimashita.)*
+"Day by day it becomes more and more autumnal."
+
+**秋の深まりとともに、皆様のご来館を心よりお待ちしております。** *(Aki no fukamari to tomo ni, minasama no go-raikan wo kokoro yori o-machi shite orimasu.)*
+"As autumn deepens, we sincerely await your visit."
+
+---
+
 ## Quiz
 
 **What is shinmai (新米), and why is it significant in autumn hospitality?**

@@ -25,6 +25,14 @@ The guest absorbs all of this before you speak. Appearance is the first moment o
 
 ---
 
+## Key Phrases
+
+**身だしなみ (midashinami)** — professional grooming to put others at ease; distinct from personal style (*oshare*)
+
+**所作 (shosa)** — manner of movement and deportment; the non-verbal language of professionalism
+
+---
+
 ## Quiz
 
 **What is the difference between midashinami (身だしなみ) and oshare (おしゃれ)?**

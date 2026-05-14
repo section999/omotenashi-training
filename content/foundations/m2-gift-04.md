@@ -25,6 +25,19 @@ Avoid giving gifts in sets of four (四, *shi* — associated with death) or nin
 
 ---
 
+## Key Phrases
+
+**つまらないものですが。** *(Tsumaranai mono desu ga.)*
+"This is a trifling thing, but…" — the conventional humble phrase when presenting a gift
+
+**心ばかりのものですが。** *(Kokoro bakari no mono desu ga.)*
+"It is just a small token of my feelings." — an alternative phrase when presenting a gift
+
+**ご丁寧に、恐れ入ります。** *(Go-teinei ni, osore irimasu.)*
+"How kind of you — I am humbled." — the expected response when receiving a gift
+
+---
+
 ## Quiz
 
 **What does the phrase "つまらないものですが" literally mean, and why is it used?**

@@ -27,6 +27,16 @@ Spring carries a mood of fresh beginnings. Guests visiting in this season often 
 
 ---
 
+## Key Phrases
+
+**春らしい陽気になってまいりました。** *(Haru rashii yōki ni natte mairimashita.)*
+"The weather has begun to feel like spring."
+
+**桜の季節を迎え、心よりお喜び申し上げます。** *(Sakura no kisetsu wo mukae, kokoro yori o-yorokobi mōshiagemasu.)*
+"We are delighted to welcome you in this cherry blossom season."
+
+---
+
 ## Quiz
 
 **What is 物の哀れ (mono no aware)?**

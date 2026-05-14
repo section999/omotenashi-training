@@ -4,7 +4,35 @@ section: 10
 title: 暑い (atsui)
 ---
 
-"暑い" means hot and is used when guests feel uncomfortable due to temperature. Staff should check air conditioning and offer solutions. Adjusting room temperature improves comfort. Quick response is important.
+**Pronunciation:** a-**tsu**-i
+**Register:** Informal — used freely by guests to describe physical discomfort from heat; staff should recognise it and respond by referencing the formal solution (空調の調整) rather than simply agreeing.
+
+暑い is an i-adjective meaning hot or uncomfortably warm. In the context of Japanese hospitality, temperature complaints are among the most common guest concerns, particularly during the humid summer months. When a guest says 「部屋が暑い」 (the room is hot) or simply 「暑い」 with a look of discomfort, staff must respond immediately with a concrete action rather than a sympathetic agreement. The omotenashi philosophy prioritises physical comfort as a baseline — a guest who is too warm cannot relax, sleep, or enjoy their experience, so addressing 暑い complaints swiftly is a matter of service fundamentals.
+
+In practice, the response to a 暑い complaint will depend on the cause: the air conditioning may need to be adjusted, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact, rather than offering advice from a distance. In ryokan settings where air conditioning may be limited by design, alternative solutions such as portable fans, ice water, or cooled towels are standard comfort measures that demonstrate thoughtful preparation.
+
+## Example Sentences
+
+**1.** 「お部屋が暑い」とのことで、ただいま空調を確認いたします。
+*"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.*
+"We understand that your room is warm — we will check the air conditioning right away."
+
+**2.** 空調の温度調整が必要でございましたら、スタッフまでお申し付けください。
+*Kuuchou no ondo chousei ga hitsuyou de gozaimashitara, sutaffu made o-moushitsuke kudasai.*
+"If you need the air conditioning temperature adjusted, please let a member of staff know."
+
+**3.** 暑くてお休みになれないとのこと、大変失礼いたしました。すぐに係の者をお送りします。
+*Atsukute o-yasumi ni narenai to no koto, taihen shitsurei itashimashita. Sugu ni kakari no mono wo o-okuri shimasu.*
+"We sincerely apologise that the heat has prevented you from resting. We will send someone to your room right away."
+
+## Related Expressions
+
+- **空調 (kuuchou)** — air conditioning / HVAC system; the solution most commonly referenced in response to 暑い complaints; 空調を調整いたします is the standard action phrase.
+- **蒸し暑い (mushiatsui)** — hot and humid; a more specific complaint that may arise in summer, particularly in traditional buildings where climate control is limited.
+
+## Common Mistakes
+
+The most common staff error is agreeing with 暑いですね and doing nothing further — this sounds empathetic but communicates inaction. Another mistake is assuming the guest wants the air conditioning lowered when they might actually want a window opened or a fan brought in; asking ご希望の温度はございますか (is there a temperature you prefer?) before acting avoids a mismatch. Learners should also avoid the overly casual 暑いなら窓を開けてください (if you're hot, please open the window), which places the burden on the guest.
 
 ---
 
@@ -19,5 +47,5 @@ title: 暑い (atsui)
 
 **Correct Answer:** 空調を確認いたします (we will check the air conditioning)
 
-**Explanation:** 空調を確認いたします — responding with a concrete action (checking the air conditioning) rather than agreeing (暑いですね) shows the guest that comfort is being prioritized.
+**Explanation:** 空調を確認いたします — responding with a concrete action (checking the air conditioning) rather than agreeing (暑いですね) shows the guest that comfort is being prioritised.
 

@@ -29,6 +29,19 @@ It is acceptable — and more professional — to say *"I am not certain — let
 
 ---
 
+## Key Phrases
+
+**文化の違いからくるものかと存じます。** *(Bunka no chigai kara kuru mono ka to zonjimasu.)*
+"I believe this may come from a difference in cultural practice." — an internal framing phrase that guides the charitable interpretation mindset before approaching a guest about behaviour that conflicts with local norms
+
+**こちらでは○○をお願いしております。お分かりいただけますと幸いでございます。** *(Kochira de wa ○○ o o-negai shite orimasu. O-wakari itadakemasu to saiwai de gozaimasu.)*
+"In our property, we ask that ○○. We would be grateful for your understanding." — a warm, non-judgmental way to explain a house rule to a guest from a different cultural background
+
+**よろしければ、こちらをお試しいただけますか。** *(Yoroshikereba, kochira o o-tameshi itadakemasu ka.)*
+"Would you be willing to try this?" — offers an alternative after a cultural conflict, giving the guest a way forward without confrontation
+
+---
+
 ## Quiz
 
 **A guest is speaking very loudly on a phone call in the lobby, disturbing other guests. Before approaching them, what should the hospitality professional consider?**

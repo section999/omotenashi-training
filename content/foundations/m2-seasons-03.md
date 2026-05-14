@@ -26,6 +26,16 @@ A traditional practice of sprinkling water on the ground outside entrances to co
 
 ---
 
+## Key Phrases
+
+**お暑い中、ご来館いただきまして誠にありがとうございます。** *(O-atsui naka, go-raikan itadakimashite makoto ni arigatō gozaimasu.)*
+"Thank you sincerely for visiting in this heat."
+
+**暑い日が続いておりますが、お体にお気をつけください。** *(Atsui hi ga tsuzuite orimasu ga, o-karada ni o-ki wo tsukete kudasai.)*
+"The heat continues — please take care of yourself."
+
+---
+
 ## Quiz
 
 **What is uchimizu (打ち水), and why does it matter in hospitality?**

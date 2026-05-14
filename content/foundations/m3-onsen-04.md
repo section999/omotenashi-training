@@ -28,6 +28,17 @@ Premium rooms in ryokan sometimes feature a private bath fed directly from the h
 
 ---
 
+## Key Phrases
+
+**貸切温泉 (kashikiri onsen)** — private reserved bath; an onsen facility reserved exclusively for one guest or group for a set period; ideal for guests who prefer privacy, couples, and families with young children
+
+**露天風呂 (rotenburo)** — open-air bath; a bathing facility exposed to the natural outdoor environment; one of the most iconic Japanese bathing experiences and a key recommendation tool for seasonal hospitality
+
+**ご希望のお時間をお知らせいただければ、ご予約いたします。** *(Go-kibō no o-jikan o o-shirase itadakereba, go-yoyaku itashimasu.)*
+"Please let us know your preferred time and we will make a reservation for you." — the standard phrase for taking a kashikiri reservation; positions the arrangement as effortless for the guest
+
+---
+
 ## Quiz
 
 **What is a kashikiri onsen (貸切温泉)?**

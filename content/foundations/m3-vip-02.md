@@ -23,6 +23,16 @@ Use discreet codenames or room numbers rather than personal names in radio commu
 
 ---
 
+## Key Phrases
+
+**お客様に関する情報はお答えいたしかねます。** *(O-kyakusama ni kan suru jōhō wa o-kotae itashikane masu.)*
+"I'm afraid I'm unable to share information about our guests." — the standard refusal for any enquiry about a guest's presence or stay; neither confirms nor denies; used with journalists, other guests, and callers regardless of how the enquiry is framed
+
+**恐れ入りますが、ゲストの情報は一切お伝えできません。** *(Osoreirimasu ga, gesuto no jōhō wa issai o-tsutae dekimasen.)*
+"I apologise, but I am unable to share any information about our guests." — a firmer version used when the initial refusal is pressed; maintains politeness while making the boundary clear
+
+---
+
 ## Quiz
 
 **A journalist calls the front desk asking to confirm whether a well-known celebrity is staying at the property. What is the correct response?**

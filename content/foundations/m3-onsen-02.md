@@ -28,6 +28,18 @@ The communal onsen operates according to a set of customs that are not merely po
 
 ---
 
+## Key Phrases
+
+**カラン (karan)** — the individual shower station at an onsen facility used for washing thoroughly before entering the communal bath; using it is mandatory, not optional
+
+**ご入浴前に、シャワーでお体をよくお流しください。** *(Go-nyūyoku mae ni, shawā de o-karada o yoku o-nagashi kudasai.)*
+"Please wash thoroughly at the shower station before entering the bath." — the essential instruction for all first-time onsen guests; delivered warmly at the changing room entrance or in the orientation
+
+**小タオルはお湯の中にお入れにならないようお願いいたします。** *(Ko-taoru wa o-yu no naka ni o-ire ni naranai yō o-negai itashimasu.)*
+"Please keep the small towel out of the water." — a key etiquette point that many first-time onsen visitors overlook; can be explained gently alongside the towel's permitted uses (folded on the head or left at the bath edge)
+
+---
+
 ## Quiz
 
 **What must every bather do before entering the communal onsen bath?**

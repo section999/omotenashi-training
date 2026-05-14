@@ -53,6 +53,18 @@ Not every quiet, withdrawn, or irritable guest is dissatisfied with your service
 
 ---
 
+## Key Phrases
+
+**思いやり (omoiyari)** — empathy; imagining what another person is feeling and acting on it without being asked; for a travel-fatigued guest, omoiyari is expressed through a glass of water placed without comment, a faster process, and a softer voice
+
+**お部屋に直接ご案内いたします。** *(O-heya ni chokusetsu go-annai itashimasu.)*
+"I will take you directly to your room." — the correct response to visible travel fatigue at check-in; skips the full property introduction and gets the guest to rest as efficiently as possible
+
+**ご入り用の際は、いつでもお申し付けください。** *(Go-iriyō no sai wa, itsudemo o-mōshitsuke kudasai.)*
+"Please let us know whenever you need anything." — a brief, warm closing phrase for a streamlined check-in; leaves the door open for later requests without burdening the fatigued guest with information now
+
+---
+
 ## Quiz
 
 **A guest arrives at check-in with heavy eyes, slow speech, and struggles to remember their booking reference. What is the most appropriate response?**

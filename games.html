@@ -206,6 +206,10 @@
     .bl-feedback.bad{color:var(--red)}
     .bl-word-num{font-size:0.72rem;color:var(--t-m);font-family:var(--font-mono);text-align:center;margin-bottom:4px}
 
+    /* ── SCORE TRACKING ── */
+    .gh-best{font-size:0.71rem;color:var(--accent);font-family:var(--font-mono);margin-top:6px;letter-spacing:0.02em;opacity:0.85}
+    .g-newbest{display:inline-block;background:rgba(var(--accent-rgb),0.12);border:1px solid rgba(var(--accent-rgb),0.35);border-radius:4px;padding:2px 10px;font-size:0.75rem;color:var(--accent);font-family:var(--font-mono);margin-top:6px;letter-spacing:0.03em}
+
     @media(max-width:500px){.main{padding:76px 12px 60px}.gh-title{font-size:1.3rem;margin-top:20px}.mem-card{min-height:54px}.mem-card-face{font-size:0.72rem}.mem-card-front::after{font-size:1rem}.hm-word{font-size:1.3rem}.sm-q{font-size:1.2rem}.hm-letter{width:30px;height:30px;font-size:0.75rem}.sc-letter{width:30px;height:30px;font-size:0.85rem}.sc-answer-letter{width:30px;height:30px;font-size:0.85rem}.bl-word{font-size:1.3rem}.bl-opt{width:42px;height:42px;font-size:1rem}}
     @media(max-height:500px) and (orientation:landscape){.mem-card{min-height:50px}}
 
@@ -664,6 +668,18 @@ var GAMES_VOCAB = [
   {jp:"延長料金",rom:"enchou ryoukin",en:"extension fee"}
 ];
 
+// ── SCORE PERSISTENCE ────────────────────────────────────────────────────────────
+var _SCORES_KEY='omotenashi:games:scores';
+function _getScores(){try{return JSON.parse(localStorage.getItem(_SCORES_KEY))||{}}catch(e){return{}}}
+function _saveBest(game,score,higherIsBetter){
+  var scores=_getScores();
+  var prev=scores[game];
+  var isNew=(prev===undefined)||(higherIsBetter?score>prev:score<prev);
+  if(isNew){scores[game]=score;try{localStorage.setItem(_SCORES_KEY,JSON.stringify(scores))}catch(e){}}
+  return isNew;
+}
+function _getBest(game){var s=_getScores();return s[game]===undefined?null:s[game]}
+
 // ── HELPERS ──────────────────────────────────────────────────────────────────────
 var _gameState = null;
 function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.random()*i|0;var t=a[i];a[i]=a[j];a[j]=t}return a}
@@ -672,17 +688,18 @@ function qs(s,ctx){return(ctx||document).querySelector(s)}
 function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
 // ── RENDER ────────────────────────────────────────────────────────────────────────
+function _bestTag(game,label){var b=_getBest(game);return b!==null?'<div class="gh-best">Best: '+b+' '+label+'</div>':''}
 function showHub(){
   document.getElementById('main-content').innerHTML=
     '<div class="gh-title">Language Games</div>'+
     '<div class="gh-sub">Practice Japanese hospitality vocabulary through fun challenges</div>'+
     '<div class="gh-grid">'+
-      '<div class="gh-card" onclick="showGame(\'memory\')"><div class="gh-icon">&#x1F0CF;</div><div class="gh-name">Memory Match</div><div class="gh-desc">Flip cards to match Japanese words with English meanings</div></div>'+
-      '<div class="gh-card" onclick="showGame(\'typing\')"><div class="gh-icon">&#x2328;&#xFE0F;</div><div class="gh-name">Typing Challenge</div><div class="gh-desc">Type Japanese words as fast as you can — 60 seconds</div></div>'+
-      '<div class="gh-card" onclick="showGame(\'hangman\')"><div class="gh-icon">&#x1F3AD;</div><div class="gh-name">Hangman</div><div class="gh-desc">Guess the hospitality word one letter at a time</div></div>'+
-      '<div class="gh-card" onclick="showGame(\'speedmatch\')"><div class="gh-icon">&#x26A1;</div><div class="gh-name">Speed Match</div><div class="gh-desc">Match words to meanings before time runs out</div></div>'+
-      '<div class="gh-card" onclick="showGame(\'scramble\')"><div class="gh-icon">&#x1F3B2;</div><div class="gh-name">Word Scramble</div><div class="gh-desc">Unscramble romaji letters to spell the word</div></div>'+
-      '<div class="gh-card" onclick="showGame(\'blank\')"><div class="gh-icon">&#x2753;</div><div class="gh-name">Fill the Blank</div><div class="gh-desc">Pick the missing character to complete the word</div></div>'+
+      '<div class="gh-card" onclick="showGame(\'memory\')"><div class="gh-icon">&#x1F0CF;</div><div class="gh-name">Memory Match</div><div class="gh-desc">Flip cards to match Japanese words with English meanings</div>'+_bestTag('memory','moves')+'</div>'+
+      '<div class="gh-card" onclick="showGame(\'typing\')"><div class="gh-icon">&#x2328;&#xFE0F;</div><div class="gh-name">Typing Challenge</div><div class="gh-desc">Type Japanese words as fast as you can — 60 seconds</div>'+_bestTag('typing','correct')+'</div>'+
+      '<div class="gh-card" onclick="showGame(\'hangman\')"><div class="gh-icon">&#x1F3AD;</div><div class="gh-name">Hangman</div><div class="gh-desc">Guess the hospitality word one letter at a time</div>'+_bestTag('hangman','correct')+'</div>'+
+      '<div class="gh-card" onclick="showGame(\'speedmatch\')"><div class="gh-icon">&#x26A1;</div><div class="gh-name">Speed Match</div><div class="gh-desc">Match words to meanings before time runs out</div>'+_bestTag('speedmatch','correct')+'</div>'+
+      '<div class="gh-card" onclick="showGame(\'scramble\')"><div class="gh-icon">&#x1F3B2;</div><div class="gh-name">Word Scramble</div><div class="gh-desc">Unscramble romaji letters to spell the word</div>'+_bestTag('scramble','correct')+'</div>'+
+      '<div class="gh-card" onclick="showGame(\'blank\')"><div class="gh-icon">&#x2753;</div><div class="gh-name">Fill the Blank</div><div class="gh-desc">Pick the missing character to complete the word</div>'+_bestTag('blank','correct')+'</div>'+
     '</div>';
 }
 function showGame(type){
@@ -752,7 +769,8 @@ var GameMemory={
     });
     html+='</div>';
     if(matchedCount===total&&!s.done){s.done=true;
-      html+='<div class="g-result"><div class="g-result-score">'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</div><div class="g-result-label">Completed in '+s.moves+' moves</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameMemory._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      var isNewBest=_saveBest('memory',s.moves,false);
+      html+='<div class="g-result"><div class="g-result-score">'+(m>0?m+':':'')+(sec<10?'0':'')+sec+'</div><div class="g-result-label">Completed in '+s.moves+' moves</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns" style="margin-top:12px"><button class="g-btn g-btn-y" onclick="GameMemory._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }
     html+='</div>';
     document.getElementById('main-content').innerHTML=html;
@@ -810,7 +828,8 @@ var GameTyping={
     var html='<button class="gh-back" onclick="GameTyping.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x2328;&#xFE0F; Typing Challenge</div><div class="g-area">';
     if(s.ended){
       var pct=Math.round(s.score/Math.max(s.total,1)*100);
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' ('+pct+'%)</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameTyping._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      var isNewBest=_saveBest('typing',s.score,true);
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' ('+pct+'%)</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns" style="margin-top:12px"><button class="g-btn g-btn-y" onclick="GameTyping._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
       var w=s.words[s.index];
       var barPct=s.time/60*100;
@@ -943,7 +962,10 @@ var GameHangman={
     if(s.index>=s.words.length)this.showResult();else this.render();
   },
   showResult:function(){
-    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
+    var s=_gameState;
+    var correct=s.words.length-(s.wrong>0?1:0);
+    _saveBest('hangman',s.words.length,true);
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all '+s.words.length+' words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
     document.getElementById('main-content').innerHTML=html;
   }
 };
@@ -971,7 +993,8 @@ var GameSpeedMatch={
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameSpeedMatch.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x26A1; Speed Match</div><div class="g-area">';
     if(s.ended){
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameSpeedMatch._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      var isNewBest=_saveBest('speedmatch',s.score,true);
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns" style="margin-top:12px"><button class="g-btn g-btn-y" onclick="GameSpeedMatch._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
       var barPct=s.time/45*100;
       var barBg=this.barColor(barPct);
@@ -1067,7 +1090,8 @@ var GameScramble={
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameScramble.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3B2; Word Scramble</div><div class="g-area">';
     if(s.ended){
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameScramble._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      var isNewBest=_saveBest('scramble',s.score,true);
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns" style="margin-top:12px"><button class="g-btn g-btn-y" onclick="GameScramble._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
       if(!s.letters){
         var w=s.words[s.index];
@@ -1206,7 +1230,8 @@ var GameBlank={
     var s=_gameState;
     var html='<button class="gh-back" onclick="GameBlank.cleanup();showHub()">&#x2190; Back to Games</button><div class="g-title">&#x2753; Fill the Blank</div><div class="g-area">';
     if(s.ended){
-      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameBlank._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
+      var isNewBest=_saveBest('blank',s.score,true);
+      html+='<div class="g-result"><div class="g-result-score">'+s.score+'</div><div class="g-result-label">Correct out of '+s.total+' | Best streak: '+s.bestStreak+'</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns" style="margin-top:12px"><button class="g-btn g-btn-y" onclick="GameBlank._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div>';
     }else{
       s.blankData=null;
       while(s.index<s.words.length){

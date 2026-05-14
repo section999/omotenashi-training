@@ -18,6 +18,16 @@ For a hospitality professional, seasonal awareness has three practical dimension
 
 ---
 
+## Key Phrases
+
+**季節感 (kisetsukan)** — seasonal awareness; the quality of responding to nature's rhythms in hospitality
+
+**旬 (shun)** — peak season for an ingredient; serving *shun* food is serving the best version of a dish
+
+**季節の挨拶 (kisetsu no aisatsu)** — seasonal greetings; the time-appropriate opening to any formal conversation or correspondence
+
+---
+
 ## Quiz
 
 **What is 旬 (shun) in the context of Japanese hospitality?**

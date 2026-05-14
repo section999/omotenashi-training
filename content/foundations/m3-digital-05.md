@@ -28,6 +28,19 @@ Staff should not post about guests, post from guest areas during working hours, 
 
 ---
 
+## Key Phrases
+
+**ご不便をおかけして誠に申し訳ございません。** *(Go-fuben o okake shite makoto ni mōshiwake gozaimasen.)*
+"We sincerely apologise for the inconvenience." — the opening of a public social media response to a negative post; brief, genuine, and visible to all who read the thread
+
+**詳細につきましては、直接ご連絡いただけますでしょうか。** *(Shōsai ni tsukimashite wa, chokusetsu go-renraku itadakemasu deshō ka.)*
+"Could you contact us directly so we can address this properly?" — the phrase that moves a public dispute to a private channel; shows responsiveness while taking the resolution out of public view
+
+**お客様のプライバシーを最優先に考えております。** *(O-kyakusama no puraibashī o saiyūsen ni kangaete orimasu.)*
+"We place the highest priority on our guests' privacy." — used when a guest enquires about photo consent or privacy; communicates the property's commitment clearly and without defensive language
+
+---
+
 ## Quiz
 
 **A guest posts a negative comment about the property on social media, tagging the property's account. What is the correct first response?**

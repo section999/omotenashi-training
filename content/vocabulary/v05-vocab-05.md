@@ -4,9 +4,35 @@ section: 5
 title: バイキング (baikingu)
 ---
 
-"バイキング" refers to a buffet-style meal where guests serve themselves. It is popular in hotels for breakfast or dinner.
+**Pronunciation:** ba-i-**kin**-gu
+**Register:** Neutral — widely understood and used by hospitality staff across all service levels when describing self-service buffet-style dining; the word is uniquely Japanese-English.
 
-Staff should explain rules such as time limits, hygiene practices, and food handling.
+バイキング is the Japanese term for a buffet, derived from the name of a celebrated restaurant called "Imperial Vikings" that opened in Tokyo in 1958 and popularized the all-you-can-serve concept in Japan. Despite its Viking origins in name, it is now the standard word used in hotel dining to describe a self-service meal format where guests move freely to select from multiple dishes. In hotel breakfast service especially, バイキング is the dominant format, offering a wide variety of Japanese and Western items to accommodate all guest preferences. Staff must be familiar not only with the word itself but with the rules, hygiene standards, and time limits that govern バイキング service.
+
+When explaining バイキング to guests, staff should clarify key details: whether it is all-you-can-eat, any time restrictions, the variety of dishes available, and any rules around plate handling or food hygiene. For international guests unfamiliar with the Japanese buffet etiquette, a brief and friendly explanation prevents misunderstandings. It is also important to watch for guests who need assistance — elderly guests, families with small children, or guests with mobility challenges may need additional support navigating the buffet layout.
+
+## Example Sentences
+
+**1.** 朝食はバイキング形式でお好きなものをお取りいただけます。
+*Choushoku wa baikingu keishiki de o-suki na mono wo o-tori itadakemasu.*
+"Breakfast is buffet-style; please help yourself to whatever you like."
+
+**2.** バイキングのご利用時間は9時までとなっております。
+*Baikingu no go-riyou jikan wa ku-ji made to natte orimasu.*
+"The buffet is available until 9:00 a.m."
+
+**3.** 本日のバイキングには和食と洋食、両方のメニューをご用意しております。
+*Honjitsu no baikingu ni wa washoku to youshoku, ryouhou no menyuu wo go-youi shite orimasu.*
+"Today's buffet features both Japanese and Western menu options."
+
+## Related Expressions
+
+- **ビュッフェ (byuffe)** — a direct borrowing from the French "buffet," used mainly in upscale or international hotel contexts; carries a slightly more refined connotation than バイキング.
+- **食べ放題 (tabe-houdai)** — literally "all you can eat," commonly used in casual restaurant advertising; less formal than バイキング and rarely used by hotel staff in guest-facing speech.
+
+## Common Mistakes
+
+Learners sometimes confuse バイキング with ビュッフェ and use them interchangeably without awareness of register; in many hotel contexts バイキング is warmer and more familiar while ビュッフェ sounds more upscale. A frequent practical error is neglecting to mention the end time of the buffet, which can cause guests to arrive after service has closed. Staff should also avoid assuming all guests understand the self-service format — always offer a brief explanation rather than assuming familiarity.
 
 ---
 

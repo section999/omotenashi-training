@@ -32,6 +32,19 @@ Inform parents that children should not be left unattended near the bath at any 
 
 ---
 
+## Key Phrases
+
+**飲酒後すぐのご入浴はご遠慮ください。** *(Inshu-go sugu no go-nyūyoku wa go-enryō kudasai.)*
+"Please refrain from bathing immediately after drinking alcohol." — safety guidance to be communicated proactively and warmly, particularly in ryokan where alcohol is served with dinner; not a warning but an act of care
+
+**ご入浴の際は、こまめに水分補給をお忘れなく。** *(Go-nyūyoku no sai wa, koma-meni suibun hōkyū o o-wasure naku.)*
+"Please remember to stay well hydrated when bathing." — a genuine care reminder; providing chilled water at the onsen entrance is the service gesture that accompanies this phrase
+
+**お体の具合が悪くなりましたら、すぐにスタッフにお知らせください。** *(O-karada no guai ga waruku narimashitara, sugu ni sutaffu ni o-shirase kudasai.)*
+"If you feel unwell at any time, please let a staff member know immediately." — the safety instruction that covers all guest vulnerability scenarios; delivered with warmth, not alarm
+
+---
+
 ## Quiz
 
 **A guest mentions they plan to go to the onsen immediately after the welcome sake service. What is the appropriate guidance?**

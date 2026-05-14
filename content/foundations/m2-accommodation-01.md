@@ -22,6 +22,19 @@ Staff who understand the room's design logic can explain it to curious guests, c
 
 ---
 
+## Key Phrases
+
+**床の間 (tokonoma)** — the decorative alcove; the spiritual focal point of a washitsu
+*Never place items inside it.*
+
+**お部屋にご案内いたします。** *(O-heya ni go-annai itashimasu.)*
+"I will show you to your room."
+
+**ごゆっくりおくつろぎください。** *(Goyukkuri o-kutsurogikudasai.)*
+"Please relax fully at your leisure."
+
+---
+
 ## Quiz
 
 **What is the tokonoma (床の間), and how should it be treated?**

@@ -25,6 +25,19 @@ The standard for hospitality email enquiries is within 24 hours — ideally with
 
 ---
 
+## Key Phrases
+
+**お問い合わせいただきありがとうございます。** *(O-toiawase itadaki arigatō gozaimasu.)*
+"Thank you for your enquiry." — the standard opening line for any professional email response to a guest; acknowledges the guest's contact before addressing the substance
+
+**詳細につきましては確認次第ご連絡いたします。** *(Shōsai ni tsukimashite wa kakunin shidai go-renraku itashimasu.)*
+"I will contact you with the details as soon as I have confirmed them." — the correct phrase when a full answer requires time; acknowledges the enquiry and commits to a follow-up rather than leaving the guest waiting in silence
+
+**何かご不明な点がございましたら、お気軽にお問い合わせください。** *(Nanika go-fumei na ten ga gozaimashitara, o-ki garu ni o-toiawase kudasai.)*
+"Please feel free to contact us if you have any questions." — the standard professional email closing; invites further dialogue and signals genuine willingness to assist
+
+---
+
 ## Quiz
 
 **A guest enquiry asks about room availability and dining options. The room is available but the dining question requires checking with the restaurant team. What should you do?**

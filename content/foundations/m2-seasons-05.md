@@ -26,6 +26,19 @@ The concept of *kansha* (感謝, gratitude) intensifies at year's end. For hospi
 
 ---
 
+## Key Phrases
+
+**寒い日が続いておりますが、どうかお体にお気をつけください。** *(Samui hi ga tsuzuite orimasu ga, dōka o-karada ni o-ki wo tsukete kudasai.)*
+"Cold days continue — please take care of yourself."
+
+**明けましておめでとうございます。本年もよろしくお願い申し上げます。** *(Akemashite omedetō gozaimasu. Honnen mo yoroshiku o-negai mōshiagemasu.)*
+"Happy New Year. I look forward to your continued support this year." — used from January 1st to approximately January 7th
+
+**本年もお世話になりました。来年もどうぞよろしくお願いいたします。** *(Honnen mo o-sewa ni narimashita. Rainen mo dōzo yoroshiku o-negai itashimasu.)*
+"Thank you for your support this year. We look forward to continuing our relationship next year."
+
+---
+
 ## Quiz
 
 **Until approximately when is it appropriate to use the New Year's greeting "明けましておめでとうございます"?**

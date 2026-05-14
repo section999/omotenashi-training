@@ -25,6 +25,18 @@ The best teams cultivate a culture in which information is shared freely and wit
 
 ---
 
+## Key Phrases
+
+**申し送り (mōshiokuri)** — shift briefing; the formal transfer of guest status, open issues, and operational notes from the outgoing to the incoming team
+
+**○○号室のお客様はチェックアウトが遅れる予定でございます。** *(○○-gōshitsu no o-kyakusama wa chekku-auto ga okureru yotei de gozaimasu.)*
+"The guest in room ○○ is expected to check out late." — the clear, factual format recommended for shift notes; specific and immediately actionable
+
+**引き続きよろしくお願いいたします。** *(Hikitsuzuki yoroshiku o-negai itashimasu.)*
+"I leave the rest in your capable hands." — the standard closing phrase when completing a verbal shift handover to an incoming colleague
+
+---
+
 ## Quiz
 
 **What is the primary risk of a poor shift handover in hospitality?**

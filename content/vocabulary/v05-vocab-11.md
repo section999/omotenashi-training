@@ -4,9 +4,35 @@ section: 11
 title: 紅茶 (koucha)
 ---
 
-"紅茶" means black tea, often served as an alternative to coffee. It may be offered with milk, lemon, or sugar.
+**Pronunciation:** **kou**-cha
+**Register:** Neutral — standard term used in all hotel and restaurant settings when offering or discussing black tea; appropriate for both Japanese and international guests.
 
-Staff should explain options to international guests.
+紅茶, literally "red tea," is the Japanese term for black tea and is one of the most commonly offered beverages in hotel dining alongside コーヒー. While green tea (お茶 or 緑茶) remains the quintessential Japanese beverage, 紅茶 became firmly established in Japan during the Meiji era through Western influence, and today it occupies a central place in hotel afternoon tea services, breakfast menus, and post-dinner offerings. In luxury hotels, a thoughtfully curated 紅茶 selection — Darjeeling, Earl Grey, Assam, or Japanese domestic varieties — is part of the beverage identity, and staff who can describe the character of each blend demonstrate a level of expertise that guests genuinely appreciate. Understanding 紅茶 options is therefore not just practical knowledge but an element of refined hospitality.
+
+When offering 紅茶 to a guest, staff should present accompaniment choices clearly: whether milk (ミルク), lemon (レモン), or honey (はちみつ) is available, and whether the temperature can be adjusted. For guests seated in the afternoon tea lounge, explaining the recommended steeping time or the origin of a particular leaf adds a storytelling dimension to the service. Proactively refilling the hot water pot so the guest can brew a second cup without asking is a small but meaningful gesture of attentiveness.
+
+## Example Sentences
+
+**1.** 紅茶もご用意できますが、いかがでしょうか。
+*Koucha mo go-youi dekimasu ga, ikaga deshou ka.*
+"We can also prepare black tea — would you like some?"
+
+**2.** 紅茶はダージリンとアールグレイをご用意しております。
+*Koucha wa Daajirin to Aarugurai wo go-youi shite orimasu.*
+"For black tea, we have Darjeeling and Earl Grey available."
+
+**3.** ミルクとレモン、どちらをお付けしましょうか。
+*Miruku to remon, dochira wo o-tsuke shimashou ka.*
+"Shall I bring milk or lemon with that?"
+
+## Related Expressions
+
+- **お茶 (o-cha)** — in a Japanese context, お茶 often defaults to green tea (緑茶) rather than black tea; staff should clarify which type of tea is being discussed to avoid confusion, especially with international guests.
+- **ハーブティー (haabu tii)** — herbal tea, an increasingly common request in upscale hotel settings, particularly for guests seeking caffeine-free options in the evening; useful to know alongside 紅茶.
+
+## Common Mistakes
+
+A common error is assuming all tea-drinking guests want コーヒーの代わりに紅茶 (black tea as a coffee substitute) when some guests may actually prefer green tea or herbal options — always ask rather than assume. Forgetting to offer milk or lemon when bringing 紅茶 is a notable oversight in formal service. Staff should also avoid steeping the tea for the guest without offering the option, as some guests prefer to control the strength themselves.
 
 ---
 

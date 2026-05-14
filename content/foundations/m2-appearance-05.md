@@ -29,6 +29,16 @@ In a group of guests, distribute eye contact evenly. Consistently ignoring one m
 
 ---
 
+## Key Phrases
+
+**こちらでございます。** *(Kochira de gozaimasu.)*
+"It is this way." — said with an open-palm gesture, never with a pointing finger
+
+**何かご不明な点はございますか。** *(Nanika go-fumei na ten wa gozaimasu ka.)*
+"Is there anything that is unclear?" — open invitation used when the guest appears uncertain
+
+---
+
 ## Quiz
 
 **A guest asks for directions to the elevator. What is the correct way to indicate the direction?**

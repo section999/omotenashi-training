@@ -4,9 +4,35 @@ section: 5
 title: 後払い (atobarai)
 ---
 
-"後払い" is paying after the service has been provided. Staff must verify payment methods and ensure validity. This method suits corporate accounts or VIP guests who settle later. Clear explanation prevents payment delays or confusion.
+**Pronunciation:** a-to-**ba**-ra-i
+**Register:** Formal — used by front desk staff, restaurant supervisors, and billing departments when arranging payment terms for corporate accounts, VIP guests, or services billed to the room.
 
-*Example: お食事代は後払いで承ります。* (The meal can be paid afterward.)
+後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays where room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended more readily to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs whose accounts are managed through the concierge. The key professional responsibility is ensuring that proper documentation — a signed agreement, purchase order, or registered credit card — is in place before service is rendered under a 後払い arrangement.
+
+Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, which is then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event, and payment is expected within an agreed number of business days. Staff must track all 後払い accounts carefully and flag overdue balances promptly. The hospitality principle of anticipating guest needs still applies — proactively preparing the final bill before the guest arrives at checkout is a professional standard.
+
+## Example Sentences
+
+**1.** お食事代はお部屋付けにて後払いでお承りいたします。
+*O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.*
+"The dining charges can be billed to your room and settled at checkout."
+
+**2.** 法人のお客様には、後払いでの請求書払いも承っております。
+*Houjin no o-kyakusama ni wa, atobarai de no seikyuusho barai mo uketamattwatte orimasu.*
+"For corporate clients, we also accept invoice-based deferred payment."
+
+**3.** 後払いご希望の場合は、事前にフロントにてご登録が必要です。
+*Atobarai go-kibou no baai wa, jizen ni furonto nite go-touroku ga hitsuyou desu.*
+"If you would like to use deferred payment, prior registration at the front desk is required."
+
+## Related Expressions
+
+- **前払い (maebarai)** — the opposite; payment made before the service is received, often associated with discounted or non-refundable plans.
+- **ルームチャージ (ruumu chaaji)** — "room charge"; the practice of billing services used during a stay (dining, spa, etc.) to the room account for settlement at checkout, a specific form of 後払い.
+
+## Common Mistakes
+
+A frequent error is allowing a guest to use 後払い without any verification of payment ability — verbal agreements alone are not sufficient and often lead to disputes. Learners may also confuse 後払い with 分割払い; the former simply defers payment to a later point, while the latter splits it into a schedule. Staff should never issue a 領収書 (receipt) for a 後払い transaction before actual payment has been received, as this creates false accounting records.
 
 ---
 
@@ -23,4 +49,3 @@ title: 後払い (atobarai)
 **Correct Answer:** 後払い (deferred payment / pay later)
 
 **Explanation:** 後払い is common for room charges billed at check-out — when a corporate guest uses 後払い, ensure a signed 請求書 or purchase order is on file before service; verbal 後払い agreements without documentation are a leading cause of payment disputes.
-

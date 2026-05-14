@@ -27,6 +27,16 @@ Some VIP guests find elaborate, visible attention uncomfortable — they want to
 
 ---
 
+## Key Phrases
+
+**○○様、いつもご利用いただきありがとうございます。** *(○○-sama, itsumo go-riyō itadaki arigatō gozaimasu.)*
+"Thank you as always for choosing us, ○○." — the recognition phrase that distinguishes VIP service from standard service
+
+**ご不便なことがございましたら、すぐにお申し付けください。** *(Go-fuben na koto ga gozaimashitara, sugu ni o-mōshitsuke kudasai.)*
+"If there is anything inconvenient at all, please let us know immediately."
+
+---
+
 ## Quiz
 
 **What is the most important distinction between VIP service and standard hospitality?**

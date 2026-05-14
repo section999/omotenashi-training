@@ -28,6 +28,16 @@ When passing a colleague or entering a space where a guest is seated, indicate a
 
 ---
 
+## Key Phrases
+
+**失礼いたします。** *(Shitsurei itashimasu.)*
+"Excuse me." — said when entering a guest's space, passing in a corridor, or any minor social intrusion
+
+**足元にお気をつけください。** *(Ashimoto ni o-ki wo tsukete kudasai.)*
+"Please watch your step." — said when guiding guests near steps or uneven surfaces
+
+---
+
 ## Quiz
 
 **A staff member is walking quickly through the lobby with their hands in their pockets. What does this communicate to a guest, even if unintentionally?**

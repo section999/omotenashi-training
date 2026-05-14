@@ -26,6 +26,15 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 
 ---
 
+## Key Phrases
+
+**鏡の前で確認しましょう。** *(Kagami no mae de kakunin shimashō.)*
+"Let's check in the mirror." — the mirror check principle before any guest-facing shift
+
+**清潔感 (seiketsugan)** — the impression of cleanliness; the quality that a well-maintained uniform communicates before a word is spoken
+
+---
+
 ## Quiz
 
 **Why is strong perfume or cologne discouraged in hospitality environments, particularly in dining?**

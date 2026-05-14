@@ -4,9 +4,35 @@ section: 9
 title: 二階 (nikai)
 ---
 
-"二階" is the second floor above ground. Staff should specify elevator or stair use. It is common for restaurants, conference rooms, or guest rooms. Clear directions reduce guest confusion.
+**Pronunciation:** **ni**-kai
+**Register:** Neutral — standard vocabulary for all hospitality staff; one of the most frequently cited floor numbers since restaurants, function rooms, and lounge areas are very commonly located on the second floor.
 
-*Example: レストランは二階にございます。* (The restaurant is on the second floor.)
+二階 (nikai) means "the second floor" and is one of the most commonly referenced floors in Japanese hotel and ryokan settings. In many properties, the second floor houses the main dining area, a tea lounge, banquet rooms, or supplementary guest amenities — making 二階にございます a phrase that front desk and concierge staff use dozens of times daily. The cultural significance of 二階 extends to traditional Japanese architecture as well: in a ryokan, the second floor of a two-story wooden structure is often the most prized level, offering garden or courtyard views, which adds an aspirational quality to the term.
+
+In practice, directing a guest to 二階 should always include access instructions — エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask demonstrates the anticipatory aspect of omotenashi.
+
+## Example Sentences
+
+**1.** レストランは二階にございます。
+*Resutoran wa nikai ni gozaimasu.*
+"The restaurant is on the second floor."
+
+**2.** 二階のラウンジにてウェルカムドリンクをご用意しております。
+*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*
+"We have a welcome drink prepared for you in the second-floor lounge."
+
+**3.** 会議室は二階の突き当たり左にございます。
+*Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.*
+"The conference room is on the second floor at the end of the corridor on the left."
+
+## Related Expressions
+
+- **上の階 (ue no kai)** — "the floor above"; a relative term used when the specific floor number is less important than the direction; less precise than 二階 and should be avoided when a specific floor can be named
+- **一階 (ikkai)** — "first floor / ground level"; always the floor immediately below 二階; understanding both in context helps guests build a mental map of the building's vertical layout
+
+## Common Mistakes
+
+Learners sometimes pronounce 二階 as ni-gai under the influence of other irregular floor readings, but 二階 is simply nikai — it follows the standard pattern. Saying just 二階 without following with にございます or にあります is insufficient formality for hotel speech. A subtle but important error is failing to mention elevator access when directing guests to 二階 — guests with heavy luggage should not have to ask whether stairs are the only option.
 
 ---
 
@@ -23,4 +49,3 @@ title: 二階 (nikai)
 **Correct Answer:** 二階 (second floor)
 
 **Explanation:** 二階 is a very common floor for hotel restaurants and function rooms — always follow a floor number with にございます or エレベーターをご利用ください to give guests both location and access guidance.
-

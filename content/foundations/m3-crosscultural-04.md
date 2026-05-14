@@ -30,6 +30,19 @@ Western guests — particularly from North America — may find standard Japanes
 
 ---
 
+## Key Phrases
+
+**お気持ちだけで十分でございます。** *(O-kimochi dake de jūbun de gozaimasu.)*
+"Your kind thought alone is more than enough." — the gracious, warm refusal of a tip; acknowledges the guest's intention without making them feel embarrassed
+
+**ご厚意に心より感謝申し上げます。** *(Go-kōi ni kokoro yori kansha mōshiagemasu.)*
+"I am sincerely grateful for your generosity." — expresses genuine appreciation before or alongside declining; ensures the guest feels their gesture was received warmly, not dismissed
+
+**ご不明な点やご希望がございましたら、遠慮なくお申し付けください。** *(Go-fumei na ten ya go-kibō ga gozaimashitara, enryo naku o-mōshitsuke kudasai.)*
+"Please do not hesitate to let us know if you have any questions or preferences." — a broadly applicable phrase for Western guests who tend toward direct communication; invites them to ask without filtering
+
+---
+
 ## Quiz
 
 **A Western guest attempts to tip a staff member in cash after excellent service. What is the correct response?**

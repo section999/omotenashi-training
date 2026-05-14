@@ -24,6 +24,16 @@ Across all cultures, guests want to feel: welcomed, respected, understood, and c
 
 ---
 
+## Key Phrases
+
+**何かご不便なことはございますか？** *(Nanika go-fuben na koto wa gozaimasu ka?)*
+"Is there anything inconvenient?" — open-ended check-in when a guest seems uncomfortable
+
+**お気軽にお申し付けください。** *(O-ki garu ni o-mōshitsuke kudasai.)*
+"Please feel free to let us know." — invites cross-cultural guests to express preferences without hesitation
+
+---
+
 ## Quiz
 
 **A guest from another culture does not remove their shoes at the entrance to the tatami room. What is the most appropriate response?**

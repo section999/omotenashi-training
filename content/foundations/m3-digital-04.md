@@ -29,6 +29,19 @@ Complaints, refunds, contract terms, and any communication that may need to be r
 
 ---
 
+## Key Phrases
+
+**メッセージをいただきありがとうございます。** *(Messēji o itadaki arigatō gozaimasu.)*
+"Thank you for your message." — a formal opening appropriate even in messaging apps; maintains the professional register regardless of the platform's casual nature
+
+**ご確認のほど、よろしくお願いいたします。** *(Go-kakunin no hodo, yoroshiku o-negai itashimasu.)*
+"We would be grateful for your confirmation." — a professional closing when summarising details and asking the guest to verify; used at the end of a confirmation message
+
+**何かご不明な点がございましたら、いつでもご連絡ください。** *(Nanika go-fumei na ten ga gozaimashitara, itsudemo go-renraku kudasai.)*
+"Please contact us any time if you have any questions." — the proactive closing for messaging communications; encourages the guest to reach out again rather than leaving the exchange feeling closed
+
+---
+
 ## Quiz
 
 **A guest messages the property on WhatsApp asking to confirm their check-in time. The correct reply is:**

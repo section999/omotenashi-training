@@ -31,6 +31,19 @@ End with an open offer — *"何かご不明な点がございましたら、い
 
 ---
 
+## Key Phrases
+
+**いらっしゃいませ。お待ちしておりました。** *(Irasshaimase. O-machi shite orimashita.)*
+"Welcome. We have been looking forward to your arrival."
+
+**○○様でいらっしゃいますね。お越しいただきまして誠にありがとうございます。** *(○○-sama de irasshaimasu ne. O-koshi itadakimashite makoto ni arigatō gozaimasu.)*
+"You must be Mr/Ms ○○. Thank you sincerely for coming."
+
+**何かご不明な点がございましたら、いつでもお申し付けください。** *(Nanika go-fumei na ten ga gozaimashitara, itsu demo o-mōshitsuke kudasai.)*
+"If there is anything unclear or anything you need, please do not hesitate to ask."
+
+---
+
 ## Quiz
 
 **When escorting a guest through the property, where should a staff member position themselves?**

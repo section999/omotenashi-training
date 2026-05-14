@@ -26,6 +26,16 @@ Every staff member who may come into contact with the VIP guest — or their ent
 
 ---
 
+## Key Phrases
+
+**ご滞在中、担当としてご対応させていただきます○○と申します。** *(Go-taizai-chū, tantō to shite go-taiō sasete itadakimasu ○○ to mōshimasu.)*
+"I am ○○, and I will be your point of contact throughout the stay." — the correct self-introduction to a VIP guest's personal assistant or chief of staff; establishes a named, direct relationship from the outset
+
+**ご同行の皆様のご要望も、どうぞお気軽にお申し付けください。** *(Go-dōkō no mina-sama no go-yōbō mo, dōzo o-ki garu ni o-mōshitsuke kudasai.)*
+"Please don't hesitate to let us know the needs of the members of your party as well." — extends the same quality of service explicitly to entourage members, ensuring no one's needs fall through the gap
+
+---
+
 ## Quiz
 
 **Why is it important to treat a VIP guest's personal assistant with the same attentiveness as the principal guest?**

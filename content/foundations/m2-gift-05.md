@@ -27,6 +27,16 @@ Every culture has some form of gift-giving, and every culture values the feeling
 
 ---
 
+## Key Phrases
+
+**こちらは○○でございます。** *(Kochira wa ○○ de gozaimasu.)*
+"This is ○○." — used when presenting a property gift and explaining its meaning to international guests
+
+**どうぞ、お受け取りください。** *(Dōzo, o-uketori kudasai.)*
+"Please accept this." — warm, clear offer when presenting a welcome gift
+
+---
+
 ## Quiz
 
 **A Western guest presents a gift to a staff member and is clearly waiting for it to be opened. What is the best response?**

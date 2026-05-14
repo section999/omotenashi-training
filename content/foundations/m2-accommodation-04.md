@@ -28,6 +28,16 @@ Many international guests are unfamiliar with communal bathing customs. Key poin
 
 ---
 
+## Key Phrases
+
+**左を上にしてお召しください。** *(Hidari wo ue ni shite o-meshi kudasai.)*
+"Please wear it with the left side over the right." — for yukata guidance
+
+**ご入浴の前に、シャワーでお体をお清めください。** *(Go-nyūyoku no mae ni, shawā de o-karada wo o-kiyome kudasai.)*
+"Before entering the bath, please wash and rinse thoroughly at the shower."
+
+---
+
 ## Quiz
 
 **A guest has put on a yukata with the right side crossed over the left. What should you do?**

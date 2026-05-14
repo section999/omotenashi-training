@@ -34,6 +34,14 @@ Return the guest's bow at an equal or slightly deeper angle. Never fail to retur
 
 ---
 
+## Key Phrases
+
+**会釈 (eshaku)** — 15° bow; brief acknowledgement passing a colleague or guest
+**敬礼 (keirei)** — 30° bow; standard greeting and farewell with guests
+**最敬礼 (saikeirei)** — 45° bow; deep gratitude, sincere apology, VIP reception
+
+---
+
 ## Quiz
 
 **What is the correct bowing technique for a standard guest greeting (敬礼, keirei)?**

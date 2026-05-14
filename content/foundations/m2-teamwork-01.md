@@ -22,6 +22,16 @@ Report bad news immediately. Waiting to report a problem — in hopes it will re
 
 ---
 
+## Key Phrases
+
+**報告 (hōkoku)** — reporting completed tasks or developments to the relevant person
+**連絡 (renraku)** — sharing information others need to know, proactively
+**相談 (sōdan)** — consulting before a decision when uncertain
+
+**報・連・相 (hōrenso)** — the three-part communication principle; also the Japanese word for spinach (ほうれん草)
+
+---
+
 ## Quiz
 
 **A guest at breakfast mentions they need a late checkout. According to hōrenso principles, what should happen next?**

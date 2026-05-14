@@ -4,21 +4,50 @@ section: 1
 title: いらっしゃいませ (irasshaimase)
 ---
 
-This is a highly polite expression used to welcome customers into a store, hotel, or restaurant. It is more formal than just saying "welcome" and is commonly used by staff, not customers. In Japan, you will hear this immediately when entering almost any business. It does not require a response from the customer.
+**Pronunciation:** i-ra-**ssha**-i-ma-se — the *ssha* is a soft double-sh sound; do not separate it into "ra-sha"
+
+**Register:** Formal — used exclusively by staff addressing guests or customers. Never used between colleagues or in casual conversation.
+
+**いらっしゃいませ** is the foundational greeting of Japanese hospitality. It means "welcome" in the sense of *you have honoured us by coming* — not merely "hello." The phrase derives from the honorific verb *irassharu* (a respectful form of "to be" or "to come"), combined with the polite request ending *mase*. Together they form an expression that places the guest on an elevated level from the very first word.
+
+In practice, this phrase is spoken the moment a guest enters any service space — a hotel lobby, restaurant, or shop. It is not a question and requires no verbal response from the guest. Its purpose is to signal: *you have been seen, and you are welcome here.* The warmth of the delivery — tone, eye contact, the small bow that accompanies it — carries as much meaning as the words themselves.
+
+For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. A flat, distracted delivery signals indifference; a warm, genuine delivery signals readiness to serve. Practice the phrase until it becomes natural, not mechanical.
+
+## Example Sentences
+
+**1.** いらっしゃいませ。本日はお越しいただきありがとうございます。
+*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*
+"Welcome. Thank you so much for visiting us today."
+
+**2.** いらっしゃいませ。ご予約はいただいておりますでしょうか。
+*Irasshaimase. Go-yoyaku wa itadaite orimasu deshō ka.*
+"Welcome. Do you have a reservation with us?"
+
+**3.** いらっしゃいませ。お荷物をお持ちいたします。
+*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*
+"Welcome. Allow me to carry your luggage."
+
+## Related Expressions
+
+- **ようこそ (yōkoso)** — Also means "welcome," but used for more formal or special occasions (welcome ceremonies, written greetings). Less common as an everyday arrival greeting.
+- **おいでくださいませ (oide kudasaimase)** — A regional or ceremonial variant, slightly more literary in tone.
+
+## Common Mistakes
+
+The most common mistake is delivering *irasshaimase* without making eye contact or pausing from another task. The guest should feel they are being welcomed, not that the phrase is being broadcast to the room. A second mistake is rushing the pronunciation — the *ssha* syllable is often mangled into *sa*, which sounds abrupt. Slow the greeting down slightly and let each syllable carry its weight.
 
 ---
 
 ## Quiz
 
-**____！ご予約はございますか？
-(Welcome! Do you have a reservation?)**
+**A guest walks through the hotel entrance. You are at the front desk. What do you say first?**
 
-- A. いらっしゃいませ (welcome)
-- B. おはようございます (good morning)
-- C. ありがとうございます (thank you)
-- D. かしこまりました (certainly / understood (very formal))
+- A. ご予約はありますか？ (Do you have a reservation?)
+- B. お名前をどうぞ。 (Your name, please.)
+- C. いらっしゃいませ。 (Welcome.)
+- D. こんにちは。 (Hello.)
 
-**Correct Answer:** いらっしゃいませ (welcome)
+**Correct Answer:** いらっしゃいませ。(Welcome.)
 
-**Explanation:** いらっしゃいませ is the standard polite welcome used by staff to greet any guest entering a business.
-
+**Explanation:** *Irasshaimase* is always the first word a guest hears. It signals presence, readiness, and respect before any transaction begins. Jumping directly to a question — even a practical one — bypasses this essential moment of acknowledgement.

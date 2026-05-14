@@ -21,6 +21,16 @@ Know your top three omiyage recommendations: what they are, why they are local, 
 
 ---
 
+## Key Phrases
+
+**こちらのお土産はいかがでしょうか。** *(Kochira no o-miyage wa ikaga deshō ka.)*
+"How about this as a souvenir?" — used when making an omiyage recommendation to a guest
+
+**こちらは当地ならではの一品でございます。** *(Kochira wa tōchi nara dewa no ippin de gozaimasu.)*
+"This is an item unique to this region." — emphasises the local specificity that defines quality omiyage
+
+---
+
 ## Quiz
 
 **Why is individual wrapping important in omiyage?**

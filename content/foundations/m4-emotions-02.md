@@ -40,6 +40,15 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 
 ---
 
+## Key Phrases
+
+**デュシェンヌスマイル (Dyushenu sumairu)** — the Duchenne smile; a genuine smile that involves the muscles around the eyes, not just the mouth; named after the researcher who identified it — distinguishes authentic from polite-social expressions
+
+**何かご不便はございませんか？** *(Nanika go-fuben wa gozaimasu ka?)*
+"Is there anything that could be more comfortable for you?" — the recommended proactive check-in phrase when body language signals suggest discomfort; open-ended and face-saving — the guest can respond in any direction
+
+---
+
 ## Quiz
 
 **A genuine smile always involves movement around the eyes, not just the mouth.**

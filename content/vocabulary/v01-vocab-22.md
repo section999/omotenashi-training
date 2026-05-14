@@ -4,21 +4,51 @@ section: 22
 title: ご確認ください (go-kakunin kudasai)
 ---
 
-This phrase means "please check" or "please confirm." It is used when asking guests to review information such as reservations, documents, or details. It is polite and commonly used in both spoken and written communication. In hotels, it helps avoid misunderstandings and ensures accuracy.
+**Pronunciation:** go-ka-ku-ni-n-ku-da-sa-i — *kakunin* is four syllables; the *n* at the end of *kakunin* connects to *kudasai* with a nasal transition
+
+**Register:** Polite — standard for all professional communication involving requests for the guest to review or confirm information. Often softened further to *go-kakunin itadakemasu deshō ka* (could I ask you to confirm?) in spoken interactions.
+
+**ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. The phrase is used whenever you need a guest to review information — a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
+
+The phrase is essential in hospitality because unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not bureaucratic — it is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
+
+In written contexts — emails, printed confirmations, room service menus — *go-kakunin kudasai* appears frequently as a closing instruction. It signals that the document requires a review response. In spoken contexts, it is often preceded by *osore irimasu ga* (excuse me, but) or *moushiwake gozaimasen ga* to soften the request.
+
+## Example Sentences
+
+**1.** こちらのご予約内容をご確認ください。
+*Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*
+"Please confirm the details of your reservation."
+
+**2.** お名前のスペルをご確認いただけますでしょうか。
+*O-namae no superu wo go-kakunin itadakemasu deshō ka.*
+"Could I ask you to confirm the spelling of your name?"
+
+**3.** ご請求書をご確認の上、ご署名をお願いいたします。
+*Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.*
+"Please review the invoice and then sign."
+
+## Related Expressions
+
+- **ご確認いただけますでしょうか (go-kakunin itadakemasu deshō ka)** — "Could I ask you to confirm?" — softer, more question-form version for spoken use
+- **内容をご確認の上 (naiyō wo go-kakunin no ue)** — "After confirming the contents" — formal connector used in written communication
+- **お間違いはございませんか (o-machigai wa gozaimasu ka)** — "Is there anything incorrect?" — an alternative way to invite review of details
+
+## Common Mistakes
+
+The most common mistake is presenting information to a guest without asking for confirmation — assuming the details are correct when the guest may have a different expectation. A second mistake is asking for confirmation in a way that implies doubt about the guest: "Are you sure this is right?" The correct framing is always that you are asking the guest to *verify*, not to *correct* — the responsibility belongs to the staff to have accurate information, and the confirmation step is a quality check, not a suspicion.
 
 ---
 
 ## Quiz
 
-**内容を____。
-(Please confirm the details.)**
+**At check-in, you have pulled up a guest's reservation. What is the appropriate phrase before presenting it to them?**
 
-- A. ご理解ください (please understand)
-- B. ご確認ください (please confirm)
-- C. お願いいたします (please / I humbly request)
-- D. 承知いたしました (certainly / understood)
+- A. これは正しいですか？(Is this correct? — too casual and implies you doubt your own records)
+- B. こちらのご予約内容をご確認ください。(Please confirm the details of your reservation.)
+- C. サインしてください。(Please sign — skips the confirmation step entirely)
+- D. 大丈夫ですか？(Is this okay? — too casual for professional hospitality)
 
-**Correct Answer:** ご確認ください (please confirm)
+**Correct Answer:** こちらのご予約内容をご確認ください。(Please confirm the details of your reservation.)
 
-**Explanation:** ご確認ください asks the guest to review or confirm information — essential at check-in and when handling documents.
-
+**Explanation:** Asking the guest to confirm reservation details before proceeding is both professional and practical. It prevents downstream errors and signals that the property values accuracy. *Kochira no go-yoyaku naiyō wo go-kakunin kudasai* is the standard, clear, polite way to invite that review.

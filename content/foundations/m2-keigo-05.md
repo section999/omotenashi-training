@@ -30,6 +30,15 @@ Correct: *"こちらがコーヒーでございます"*
 
 ---
 
+## Key Phrases
+
+**こちらがコーヒーでございます。** *(Kochira ga kōhī de gozaimasu.)*
+"Here is your coffee." — *de gozaimasu* is correct; *ni narimasu* (will become) is a common error to avoid
+
+**おっしゃいました** *(osshaimashita)* — correct sonkeigo past form for "said"; *osshararemashita* (double honorific) is incorrect
+
+---
+
 ## Quiz
 
 **A staff member says: "こちらがお部屋になります." What is wrong with this sentence?**

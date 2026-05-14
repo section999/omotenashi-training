@@ -33,6 +33,15 @@ Similarly, silence is not awkward in Japanese communication — it is thoughtful
 
 ---
 
+## Key Phrases
+
+**表向き / 本音 (tatemae / honne)** — the public face presented vs. one's true inner feelings; the gap between these is at the heart of reading non-verbal communication in Japanese culture
+
+**何かお力になれることはございますか？** *(Nanika o-chikara ni nareru koto wa gozaimasu ka?)*
+"Is there anything I can do for you?" — a gentle, open follow-up when non-verbal signals suggest the guest is not fine despite saying so
+
+---
+
 ## Quiz
 
 **A Japanese guest says "it's fine" but avoids eye contact and has crossed arms. What should you do?**

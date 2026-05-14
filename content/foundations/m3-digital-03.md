@@ -29,6 +29,19 @@ Online reviews on platforms such as Google, TripAdvisor, and booking sites are n
 
 ---
 
+## Key Phrases
+
+**この度はご意見をお寄せいただきありがとうございます。** *(Kono tabi wa go-iken o o-yose itadaki arigatō gozaimasu.)*
+"Thank you for sharing your feedback with us." — the opening of a professional response to any review, positive or negative; acknowledges the guest before addressing the content
+
+**ご不便をおかけし、深くお詫び申し上げます。** *(Go-fuben o okake shi, fukaku o-wabi mōshiagemasu.)*
+"We sincerely apologise for the inconvenience caused." — the correct form of apology in a review response; direct and without deflection — avoids conditional language such as "if you felt"
+
+**またのご来館を心よりお待ち申し上げております。** *(Mata no go-raikan o kokoro yori o-machi mōshiagemasu.)*
+"We sincerely look forward to welcoming you again." — the correct closing of a review response; invites the guest to return and shows confidence in the property's ability to deliver better
+
+---
+
 ## Quiz
 
 **A guest leaves a negative review stating that their room was noisy. The management response reads: "We are sorry if you found the room unsatisfactory." What is wrong with this response?**

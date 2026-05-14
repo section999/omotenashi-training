@@ -4,9 +4,35 @@ section: 13
 title: 奥 (oku)
 ---
 
-"奥" means "back" or "inside" and indicates a location further within a room or area. Staff often use it to direct guests to deeper sections of shops, restaurants, or halls. Clear explanation prevents confusion in large spaces. Properly using "奥" enhances guest navigation.
+**Pronunciation:** **o**-ku
+**Register:** Neutral — very common in spoken hospitality guidance; also appears in written signs; conveys a sense of depth or interiority that carries a slightly warm, welcoming nuance in Japanese spatial language.
 
-*Example: レストランのトイレは奥にございます。* (The restroom is at the back of the restaurant.)
+奥 (oku) means "the back," "further inside," or "the inner part" of a space, and is one of the most distinctively Japanese concepts in spatial description. Unlike a simple directional word like 右 or 左, 奥 expresses a sense of depth — an invitation to move deeper into a space, past the visible threshold, into the fuller interior. In Japanese architectural and hospitality culture, the innermost part of a room (奥の間) has traditionally held the most honored position, where important guests were seated farthest from the entrance and closest to the tokonoma (decorative alcove). This cultural resonance gives 奥 a subtle connotation of special place or privileged location.
+
+In modern hotel and restaurant settings, 奥 is used practically to direct guests to facilities located at the far end of a room, corridor, or dining area: お手洗いは奥にございます, お席は奥の方でございます. When the destination is at the very end of the space, 突き当たり (dead end / far wall) is often paired with 奥 for even greater precision: 廊下の突き当たり奥にございます. Staff should be careful to distinguish 奥 from 裏 — 奥 means the interior far end of a space the guest is already inside, while 裏 means the rear exterior of a building.
+
+## Example Sentences
+
+**1.** レストランのお手洗いは奥にございます。
+*Resutoran no o-tearai wa oku ni gozaimasu.*
+"The restroom is at the back of the restaurant."
+
+**2.** お席は奥の窓際にご用意しております。
+*O-seki wa oku no madogiwa ni go-youi shite orimasu.*
+"Your table is prepared at the back by the window."
+
+**3.** ロッカールームは廊下の奥、突き当たりを右にございます。
+*Rokkaa ruumu wa rouka no oku, tsukiatari wo migi ni gozaimasu.*
+"The locker room is at the back of the corridor — turn right at the end."
+
+## Related Expressions
+
+- **手前 (temae)** — "the near side / in front of"; the spatial opposite of 奥; together they form the near-far axis used to locate anything within a room or along a corridor
+- **突き当たり (tsukiatari)** — "the end of the corridor / the far wall"; more specific than 奥, indicating the very endpoint of a space; often used together (奥の突き当たり) for maximum precision
+
+## Common Mistakes
+
+Learners frequently confuse 奥 with 裏 — 奥 is used for the far interior of a space you are already inside, while 裏 refers to the rear exterior side of a building. Another common error is using 奥 without pairing it with a more specific landmark or direction when the space is large, leaving guests uncertain of exactly how far "back" is; adding 突き当たり or a landmark resolves this. Using 奥 to mean "far away" in general outdoor contexts is also incorrect — 奥 is an interior spatial term, while 遠くに is used for general distance outdoors.
 
 ---
 
@@ -23,4 +49,3 @@ title: 奥 (oku)
 **Correct Answer:** 奥 (back / deeper in)
 
 **Explanation:** 奥 (back / inner area) contrasts with 手前 (near side) — using 奥 tells the guest to walk further in, so pairing it with a visual cue (突き当たり、一番奥) helps when the space is large.
-

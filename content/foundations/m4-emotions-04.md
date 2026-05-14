@@ -43,6 +43,18 @@ If the guest does express dissatisfaction — thank them. A guest who tells you 
 
 ---
 
+## Key Phrases
+
+**先読み (sakiyomi)** — anticipation; reading what a guest needs before they express it; one of the highest principles of omotenashi — acting on what you observe rather than waiting to be asked
+
+**何かご不便はございませんか？** *(Nanika go-fuben wa gozaimasu ka?)*
+"Is there anything that could be more comfortable for you?" — the recommended proactive check-in when early dissatisfaction signals are detected; non-accusatory, face-saving, and invites honest feedback without pressure
+
+**少々お時間をいただけますでしょうか。** *(Shōshō o-jikan o itadakemasu deshō ka.)*
+"May I have a moment with you?" — a gentle approach phrase used at Stage 1 or early Stage 2 of dissatisfaction; signals attentiveness without creating alarm or drawing attention from other guests
+
+---
+
 ## Quiz
 
 **A guest is sitting alone and has checked their watch three times in the last few minutes. What stage of dissatisfaction is this most likely?**

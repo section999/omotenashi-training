@@ -28,6 +28,18 @@ For all East Asian guests, the experience of being seen as an individual — not
 
 ---
 
+## Key Phrases
+
+**面子 (miànzi / めんつ)** — face; the concept of social dignity and public reputation central to East Asian cultures; loss of face in front of others causes genuine harm and must be avoided
+
+**ようこそいらっしゃいました。ご一行様のご滞在を心よりお待ちしておりました。** *(Yōkoso irasshaimashita. Go-ikkō-sama no go-taizai o kokoro yori o-machi shite orimashita.)*
+"Welcome. We have been truly looking forward to your group's stay." — an appropriate opening for a group arrival; acknowledges the whole party and signals genuine preparation
+
+**ご案内役の方にも何かございましたらお気軽にお申し付けください。** *(Go-annai-yaku no kata ni mo nanika gozaimashitara o-ki garu ni o-mōshitsuke kudasai.)*
+"Please also feel free to let the tour guide know if there is anything you need." — acknowledges the guide's role as the group's primary communicator and treats them as a respected partner
+
+---
+
 ## Quiz
 
 **A group of Chinese tourists arrives with a tour guide. Who should the front desk primarily coordinate with for group logistics?**

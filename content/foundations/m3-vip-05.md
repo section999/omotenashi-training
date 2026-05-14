@@ -30,6 +30,19 @@ Once the guest has departed, conduct an internal review. What failed, why, and w
 
 ---
 
+## Key Phrases
+
+**この度は大変ご不便をおかけし、誠に申し訳ございませんでした。** *(Kono tabi wa taihen go-fuben o okake shi, makoto ni mōshiwake gozaimasen deshita.)*
+"We are deeply sorry for the significant inconvenience caused on this occasion." — the full formal apology for a significant VIP service failure; delivered in person by a senior manager, not by phone or written message alone
+
+**直ちに対処いたします。** *(Tadachi ni taisho itashimasu.)*
+"We will address this immediately." — the commitment phrase that immediately follows an apology for a VIP failure; signals urgency and prevents the guest from wondering what will happen next
+
+**ご不便をお詫びする気持ちを込めて、こちらをご用意いたしました。** *(Go-fuben o o-wabi suru kimochi o komete, kochira o go-yōi itashimashita.)*
+"This is offered with our sincere apologies for the inconvenience." — used when presenting a recovery gesture; the phrasing connects the gesture to the specific failure rather than presenting it as a generic gift
+
+---
+
 ## Quiz
 
 **A VIP guest reports that their room was not prepared to the specifications agreed in advance. Who should respond, and how?**

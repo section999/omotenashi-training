@@ -4,7 +4,35 @@ section: 9
 title: お名前 (onamae)
 ---
 
-"お名前" is the polite form of "name." The prefix "お" adds respect and is essential in customer interactions. It is used when confirming reservations or registering guests. Politeness is key when asking personal information.
+**Pronunciation:** o-**na**-ma-e
+**Register:** Formal — used by all hospitality staff when addressing or asking for a guest's name; the honorific お is non-negotiable in any customer-facing context.
+
+お名前 is the polite form of 名前 (namae), meaning "name." The prefix お (o-) is an honorific that elevates the word, signalling respect for the person whose name is being requested or mentioned. In Japanese hospitality, a guest's name is treated with particular care — it is the key to their reservation, their identity at the property, and the means by which staff address them personally throughout the stay. Using the full polite form お名前 is a baseline expectation, and requesting it through the most respectful phrasing available — お名前をお伺いしてもよろしいでしょうか — signals that the hotel values the guest as an individual, not merely as a room number.
+
+In practice, staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness.
+
+## Example Sentences
+
+**1.** お名前をお伺いしてもよろしいでしょうか。
+*O-namae o o-ukagai shite mo yoroshii deshō ka.*
+"May I ask your name?"
+
+**2.** 田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。
+*Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.*
+"Mr./Ms. Tanaka, I have confirmed your reservation. Thank you for visiting us today."
+
+**3.** 恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。
+*Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*
+"I apologise for the inconvenience — could you kindly tell me your name once more?"
+
+## Related Expressions
+
+- **〜様 (〜sama)** — the honorific suffix added to a guest's name in all direct address; never use さん in a formal hotel context when speaking to guests.
+- **お苗字 (o-myōji)** — the polite term for surname/family name; use this when you need to distinguish the family name specifically from the full name.
+
+## Common Mistakes
+
+Using 名前ください or 名前は？ in any professional context is a serious register error — these forms are too blunt and sound demanding rather than respectful. Learners sometimes also forget to use the humble verb お伺いする when asking for the name, defaulting instead to 聞いてもいいですか, which is insufficiently formal for hotel settings. Additionally, once a name has been given, it must be remembered and used consistently throughout the interaction; reverting to generic terms like お客様 (o-kyaku-sama) when the guest's name is known feels impersonal.
 
 ---
 
@@ -20,4 +48,3 @@ title: お名前 (onamae)
 **Correct Answer:** お名前をお伺いしてもよろしいでしょうか (may I ask your name?)
 
 **Explanation:** お名前をお伺いしてもよろしいでしょうか is the most respectful form — it asks permission and uses humble language (お伺い).
-

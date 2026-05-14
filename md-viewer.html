@@ -365,8 +365,30 @@
 
 
 
-    /* LOADING */
+    /* LOADING / SKELETON */
     .loading { text-align: center; padding: 80px 24px; color: var(--text-muted); font-size: 1.1rem; }
+    @keyframes skeleton-shimmer {
+      0%   { background-position: -600px 0; }
+      100% { background-position:  600px 0; }
+    }
+    .skeleton-block {
+      max-width: 760px;
+      margin: 64px auto 0;
+      padding: 0 24px;
+    }
+    .skeleton-line {
+      height: 14px;
+      border-radius: 4px;
+      margin-bottom: 12px;
+      background: linear-gradient(90deg, var(--bg-tertiary) 25%, rgba(255,255,255,0.06) 50%, var(--bg-tertiary) 75%);
+      background-size: 600px 100%;
+      animation: skeleton-shimmer 1.4s infinite linear;
+    }
+    .skeleton-line.sh  { width: 40%; height: 22px; margin-bottom: 24px; }
+    .skeleton-line.lg  { width: 95%; }
+    .skeleton-line.md  { width: 80%; }
+    .skeleton-line.sm  { width: 60%; }
+    .skeleton-line.gap { margin-top: 28px; }
 
     /* JAPANESE PRONUNCIATION */
     .jp-word {
@@ -472,7 +494,16 @@
 <div class="layout">
   <div id="main-content"></div>
   <main class="main" id="main">
-    <div class="loading">Loading…</div>
+    <div class="skeleton-block" id="skeletonLoader" aria-label="Loading content…" aria-busy="true">
+      <div class="skeleton-line sh"></div>
+      <div class="skeleton-line lg"></div>
+      <div class="skeleton-line lg"></div>
+      <div class="skeleton-line md"></div>
+      <div class="skeleton-line sm"></div>
+      <div class="skeleton-line lg gap"></div>
+      <div class="skeleton-line lg"></div>
+      <div class="skeleton-line md"></div>
+    </div>
   </main>
 </div>
 
@@ -2770,6 +2801,9 @@ async function render() {
   const total = info.total || '';
 
   document.title = sectionTitle + ' — Omotenashi Training';
+
+  // Save last visited lesson for "Continue" banner on homepage
+  try { localStorage.setItem('omotenashi:lastLesson', JSON.stringify({ file, title: sectionTitle, module: moduleLabel })); } catch(e) {}
 
   // Nav info (must be declared before modal setup)
   const prevFile = info.prev;

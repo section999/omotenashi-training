@@ -25,6 +25,19 @@ Requests that are illegal, harmful, or deeply unethical are declined firmly and 
 
 ---
 
+## Key Phrases
+
+**確認の上、最善の方法でご手配いたします。** *(Kakunin no ue, saizen no hōhō de go-tehai itashimasu.)*
+"I will look into the best way to arrange that for you." — the correct first response to any unusual VIP request; takes ownership of the problem without immediately limiting the guest's expectations
+
+**ご要望に添えるよう、全力で努めます。** *(Go-yōbō ni soeru yō, zenryoku de tsutomemasu.)*
+"I will do everything in my power to meet your request." — a stronger commitment phrase used when the request is significant and the intent to find a solution should be made explicit
+
+**少々お時間をいただけますでしょうか。** *(Shōshō o-jikan o itadakemasu deshō ka.)*
+"May I have a little time?" — used when a VIP request requires coordination or confirmation; never leaves the guest in silence, but manages expectations around timing
+
+---
+
 ## Quiz
 
 **A VIP guest requests something the property does not normally offer. What is the first response?**

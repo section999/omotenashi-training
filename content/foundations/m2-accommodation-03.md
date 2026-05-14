@@ -22,6 +22,16 @@ Turndown is typically performed while guests are at dinner. Co-ordinate with the
 
 ---
 
+## Key Phrases
+
+**失礼いたします。お布団をご用意いたします。** *(Shitsurei itashimasu. O-futon wo go-yōi itashimasu.)*
+"Excuse me. I will prepare your futon."
+
+**お部屋のご準備が整いました。** *(O-heya no go-junbi ga totonoimashita.)*
+"Your room is now ready."
+
+---
+
 ## Quiz
 
 **In what direction should the head of a futon be positioned in a tatami room?**

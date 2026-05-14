@@ -19,6 +19,16 @@ Guests arriving with gifts for staff, or purchasing omiyage to take home, are pa
 
 ---
 
+## Key Phrases
+
+**贈答 (zōtō)** — the structured social practice of gift-giving in Japanese culture
+
+**義理 (giri)** — social duty or obligation; the underlying motivation for many gift exchanges
+
+**お中元 / お歳暮 (ochugen / oseibo)** — the two principal gift-giving seasons: mid-year (July) and year-end (December)
+
+---
+
 ## Quiz
 
 **What is giri (義理) in the context of Japanese gift-giving?**

@@ -4,9 +4,35 @@ section: 10
 title: 閉店 (heiten)
 ---
 
-"閉店" means closing time when services end for the day. Staff should inform guests politely and in advance to avoid inconvenience.
+**Pronunciation:** **hei**-ten
+**Register:** Formal — used by hospitality staff to communicate the end of service; requires careful, empathetic framing when delivered to a guest who has missed the service window.
 
-It is important to communicate last order times as well, especially in restaurants. Proper explanation ensures guests can plan accordingly and reduces dissatisfaction.
+閉店 means "closed" or "closing time," indicating that a restaurant, shop, or facility has ended — or is about to end — its service for the day. In a hospitality context, communicating 閉店 is one of the more sensitive language tasks a staff member faces, because delivering the news that a service is no longer available risks disappointing or frustrating a guest. The omotenashi approach to this situation is to lead with a sincere apology, state the closure clearly and honestly, and then immediately redirect the guest toward an alternative — another dining option, room service, or a nearby restaurant recommendation. A refusal delivered with care and a solution is an act of service; a blunt refusal is not.
+
+Staff should also be aware of the distinction between approaching 閉店 (the facility is about to close and last orders are no longer accepted) and having already reached 閉店 (the facility is now closed). In the former case, there may still be options — extending a brief courtesy, directing to another open facility, or alerting a supervisor. In the latter, the response must be clear and final while remaining warm. Announcing 閉店 in advance — for example, giving guests a 10–15 minute courtesy notice before a restaurant closes — is itself a gesture of omotenashi that many guests appreciate deeply.
+
+## Example Sentences
+
+**1.** 申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。
+*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*
+"I sincerely apologise, but we are already closed. Room service is still available — would that be of interest to you?"
+
+**2.** レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。
+*Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.*
+"The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience."
+
+**3.** 只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。
+*Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.*
+"We have passed the last order time, which makes it difficult for us to take further orders at this point."
+
+## Related Expressions
+
+- **開店 (kaiten)** — opening; the direct opposite of 閉店; always valuable to offer as an alternative reference point (「明日の開店は7時でございます」) when a guest has missed tonight's service.
+- **ラストオーダー (rasuto oodaa)** — last order; the cut-off time for placing orders, typically 30–60 minutes before 閉店; important to distinguish, as guests sometimes arrive after last order but before closing and expect full service.
+
+## Common Mistakes
+
+The most serious error is delivering 閉店 without an apology or alternative, which comes across as dismissive and directly contradicts omotenashi values — always pair the closure with 申し訳ございませんが and a follow-up suggestion. Learners also sometimes confuse 閉店 (the facility is closed) with 満席 (fully booked/no seats available), particularly in restaurant contexts; these require very different responses. Finally, avoid informal closures like simply saying 「閉まっています」 to a guest — 「すでに閉店しております」 is the correct formal phrasing that maintains service register even when the answer is negative.
 
 ---
 

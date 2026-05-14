@@ -28,6 +28,17 @@ Knowing your property's water type and being able to describe its benefits — b
 
 ---
 
+## Key Phrases
+
+**温泉 (onsen)** — natural hot spring; distinct from a regular bath (*furoba*)
+
+**湯治 (tōji)** — extended therapeutic soaking; the historical basis for the restorative reputation of onsen
+
+**こちらの温泉は○○泉でございます。○○に効果があると言われております。** *(Kochira no onsen wa ○○-sen de gozaimasu. ○○ ni kōka ga aru to iwarete orimasu.)*
+"Our hot spring is a ○○ spring. It is said to be effective for ○○." — the recommended template for explaining a spring's water type to guests
+
+---
+
 ## Quiz
 
 **What is tōji (湯治) in the context of onsen culture?**

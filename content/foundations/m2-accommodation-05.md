@@ -28,6 +28,16 @@ A farewell that shows the guest was remembered — not just processed — is the
 
 ---
 
+## Key Phrases
+
+**このたびはご滞在いただきまして、誠にありがとうございました。** *(Kono tabi wa go-taizai itadakimashite, makoto ni arigatō gozaimashita.)*
+"Thank you sincerely for staying with us."
+
+**どうぞ道中お気をつけて。またのお越しをお待ちしております。** *(Dōzo michichū o-ki wo tsukete. Mata no o-koshi wo o-machi shite orimasu.)*
+"Please take care on your journey. We look forward to welcoming you again."
+
+---
+
 ## Quiz
 
 **What is osenderi (お見送り), and why does it matter?**
