@@ -132,12 +132,13 @@ function updateBanner(name) {
   if (!text || !btn) return;
   if (name) {
     var safeName = name.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    text.innerHTML = '<span style="color:#fff;">Hi, <strong>' + safeName + '</strong></span>';
+    text.innerHTML = '<span style="color:#fff;font-family:\'Cascadia Code\',\'Fira Code\',\'Consolas\',monospace;">Hi, <strong>' + safeName + '</strong></span>';
     btn.textContent = 'Not you?';
     btn.onclick = signOut;
     btn.style.background = 'transparent';
     btn.style.border = '1px solid var(--border-default)';
     btn.style.color = 'var(--text-secondary)';
+    btn.style.fontFamily = '\'Cascadia Code\',\'Fira Code\',\'Consolas\',monospace';
     text.style.display = 'inline';
     btn.style.display = 'inline-block';
   }

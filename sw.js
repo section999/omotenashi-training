@@ -18,7 +18,8 @@ const PRECACHE = [
   BASE + 'assets/icon.svg',
   BASE + 'assets/favicon-32x32.png',
   BASE + 'assets/fcc_primary_large.png',
-  BASE + 'assets/fcc_primary_small.png'
+  BASE + 'assets/fcc_primary_small.png',
+  BASE + 'dashboard.html'
 ]
 
 const CDN_CACHE = 'omotenashi-cdn-v1'

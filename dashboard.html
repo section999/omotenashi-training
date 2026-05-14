@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <title>Progress Dashboard — Omotenashi Training</title>
+  <style>
+    :root {
+      --bg-primary:    #0a0a23;
+      --bg-secondary:  #1b1b32;
+      --bg-tertiary:   #2a2a4a;
+      --accent-yellow: #f1be32;
+      --accent-blue:   #0a2a6a;
+      --accent-green:  #1fad69;
+      --accent-red:    #c5442a;
+      --accent-purple: #9b59b6;
+      --text-primary:   #ffffff;
+      --text-secondary: #a3a3c2;
+      --text-muted:     #5f5f7a;
+      --border-default: #2a2a4a;
+      --border-strong:  #4a4a6a;
+      --font-sans: 'Segoe UI', system-ui, sans-serif;
+      --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+      --transition: 150ms ease;
+    }
+    [data-theme="light"] {
+      --bg-primary:    #f5f6f7;
+      --bg-secondary:  #ffffff;
+      --bg-tertiary:   #eef0f2;
+      --text-primary:   #1b1b32;
+      --text-secondary: #46465e;
+      --text-muted:     #78788a;
+      --border-default: #c8c9cc;
+      --border-strong:  #8e8e9a;
+      --accent-blue:    #002ead;
+    }
+    [data-theme="light"] .nav { background: #0a0a23 !important; }
+    [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
+    [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 18px; scroll-behavior: smooth; }
+    body { background: var(--bg-primary); color: var(--text-primary); font-family: var(--font-sans); line-height: 1.6; min-height: 100vh; }
+    :focus-visible { outline: 2px solid var(--accent-yellow); outline-offset: 3px; }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg-secondary); }
+    ::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 88px 32px 80px;
+    }
+
+    /* ── PAGE HEADER ── */
+    .page-inner {
+      max-width: 860px; margin: 0 auto; padding: 0 24px;
+    }
+    .page-header {
+      background: var(--bg-primary);
+      border-bottom: 1px solid var(--border-default);
+      padding: 64px 0 48px;
+      margin-top: 60px;
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    .page-title {
+      font-family: var(--font-mono);
+      font-size: 3.6rem;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 0.06em;
+      line-height: 1.1;
+    }
+
+    /* ── STATS ROW ── */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 56px;
+    }
+    .stat-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-default);
+      border-radius: 12px;
+      padding: 24px 22px;
+      position: relative;
+      overflow: hidden;
+    }
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: var(--stat-color, var(--accent-yellow));
+    }
+    .stat-value {
+      font-family: var(--font-mono);
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: var(--stat-color, var(--accent-yellow));
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .stat-label {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .stat-sub {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      margin-top: 6px;
+    }
+
+    /* ── SECTION HEADER ── */
+    .section-label {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent-yellow);
+      margin-bottom: 16px;
+    }
+
+    /* ── MODULES ── */
+    .modules-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 48px;
+    }
+    .module-row {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-default);
+      border-radius: 10px;
+      padding: 18px 22px;
+      transition: border-color var(--transition);
+    }
+    .module-row:hover { border-color: var(--border-strong); }
+    .module-row-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+    .module-name {
+      font-family: var(--font-mono);
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+    .module-count {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+    }
+    .module-pct {
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      margin-left: 10px;
+    }
+    .progress-track {
+      height: 5px;
+      background: var(--bg-tertiary);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      border-radius: 3px;
+      transition: width 0.7s cubic-bezier(.4,0,.2,1);
+      min-width: 0;
+    }
+
+    /* ── VOCABULARY ── */
+    .vocab-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-bottom: 48px;
+    }
+    .vocab-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-default);
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+    }
+    .vocab-card-val {
+      font-family: var(--font-mono);
+      font-size: 1.8rem;
+      font-weight: 700;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .vocab-card-label {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    /* ── DUE REVIEWS ── */
+    .due-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .due-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-default);
+      border-radius: 8px;
+      padding: 12px 18px;
+      font-size: 0.85rem;
+      text-decoration: none;
+      color: var(--text-primary);
+      transition: border-color var(--transition), background var(--transition);
+    }
+    .due-item:hover { border-color: var(--accent-yellow); background: rgba(241,190,50,0.04); }
+    .due-item-name { flex: 1; }
+    .due-badge {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: rgba(241,190,50,0.12);
+      color: var(--accent-yellow);
+      border: 1px solid rgba(241,190,50,0.3);
+      margin-left: 12px;
+      white-space: nowrap;
+    }
+    .due-empty {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      padding: 12px 0;
+    }
+
+    /* ── SAVE PROGRESS ── */
+    .save-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-default);
+      border-radius: 12px;
+      padding: 24px 22px;
+      margin-bottom: 48px;
+    }
+    .save-name-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    .save-name-input {
+      flex: 1;
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border-default);
+      border-radius: 6px;
+      color: var(--text-primary);
+      font-size: 0.9rem;
+      padding: 9px 14px;
+      outline: none;
+      font-family: var(--font-sans);
+      transition: border-color var(--transition);
+    }
+    .save-name-input:focus { border-color: var(--accent-yellow); }
+    .save-name-btn {
+      padding: 9px 18px;
+      background: var(--accent-yellow);
+      color: #0a0a23;
+      border: none;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: var(--font-mono);
+      transition: opacity var(--transition);
+      white-space: nowrap;
+    }
+    .save-name-btn:hover { opacity: 0.85; }
+    .save-actions {
+      display: flex;
+      gap: 10px;
+    }
+    .save-action-btn {
+      flex: 1;
+      padding: 10px;
+      background: transparent;
+      border: 1px solid var(--border-default);
+      border-radius: 6px;
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: var(--font-sans);
+      transition: border-color var(--transition), color var(--transition), background var(--transition);
+    }
+    .save-action-btn:hover { border-color: var(--border-strong); color: var(--text-primary); background: var(--bg-tertiary); }
+    .save-note {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 14px;
+      line-height: 1.5;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      main { padding: 80px 16px 56px; }
+      .stats-row { grid-template-columns: 1fr 1fr; }
+      .stats-row .stat-card:first-child { grid-column: span 2; }
+      .vocab-row { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 400px) {
+      .stats-row { grid-template-columns: 1fr; }
+      .stats-row .stat-card:first-child { grid-column: span 1; }
+    }
+  </style>
+</head>
+<body>
+
+<main>
+  <!-- Close button -->
+  <button onclick="if(history.length>1){history.back()}else{location.href='curriculum.html'}" aria-label="Close" style="position:fixed;top:70px;right:24px;z-index:100;width:36px;height:36px;border-radius:50%;background:var(--bg-tertiary);border:1px solid var(--border-default);color:var(--text-secondary);font-size:1.1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.15s,color 0.15s;" onmouseover="this.style.background='var(--border-strong)';this.style.color='#fff'" onmouseout="this.style.background='var(--bg-tertiary)';this.style.color='var(--text-secondary)'">✕</button>
+
+  <!-- Save Progress -->
+  <div class="section-label">// save progress</div>
+  <div class="save-card">
+    <div class="save-name-row">
+      <input class="save-name-input" id="dash-name-input" type="text" placeholder="Your name" maxlength="40"
+        onkeydown="if(event.key==='Enter')dashSaveName()" />
+      <button class="save-name-btn" onclick="dashSaveName()">Save Name</button>
+    </div>
+    <div class="save-actions">
+      <button class="save-action-btn" onclick="exportProgress()">⬇ Export Progress</button>
+      <button class="save-action-btn" onclick="importProgress()">⬆ Import Progress</button>
+    </div>
+    <p class="save-note">Progress is stored in this browser only. Use Export / Import to move it across devices.</p>
+  </div>
+
+
+  <!-- Module progress -->
+  <div class="section-label">// modules</div>
+  <div class="modules-list" id="modules-list"></div>
+
+  <!-- Vocabulary flashcards -->
+  <div class="section-label">// vocabulary</div>
+  <div class="vocab-row">
+    <div class="vocab-card">
+      <div class="vocab-card-val" id="vocab-known" style="color:var(--accent-green)">0</div>
+      <div class="vocab-card-label">Known</div>
+    </div>
+    <div class="vocab-card">
+      <div class="vocab-card-val" id="vocab-learning" style="color:var(--accent-yellow)">0</div>
+      <div class="vocab-card-label">Learning</div>
+    </div>
+    <div class="vocab-card">
+      <div class="vocab-card-val" id="vocab-unseen" style="color:var(--text-muted)">429</div>
+      <div class="vocab-card-label">Not Started</div>
+    </div>
+  </div>
+
+  <!-- SRS due today -->
+  <div class="section-label">// due for review</div>
+  <div class="due-list" id="due-list" style="margin-bottom:48px;">
+    <div class="due-empty">No reviews due — check back later.</div>
+  </div>
+
+</main>
+
+<script>
+// ── CURRICULUM DATA ──────────────────────────────────────────────────────────
+const MODULES = [
+  {
+    name: 'The Spirit of Omotenashi',
+    color: '#f1be32',
+    lessons: [
+      { stem: 'm1-philosophy', count: 6 },
+      { stem: 'm1-comms',      count: 5 },
+      { stem: 'm1-crisis',     count: 4 },
+      { stem: 'm1-fnb',        count: 4 },
+      { stem: 'm1-skills',     count: 5 },
+    ]
+  },
+  {
+    name: 'Practical Service Skills',
+    color: '#4a6cf7',
+    lessons: [
+      { stem: 'm2-keigo',         count: 5 },
+      { stem: 'm2-seasons',       count: 5 },
+      { stem: 'm2-gift',          count: 5 },
+      { stem: 'm2-accommodation', count: 5 },
+      { stem: 'm2-appearance',    count: 5 },
+      { stem: 'm2-teamwork',      count: 5 },
+    ]
+  },
+  {
+    name: 'Expert Specialization',
+    color: '#c5442a',
+    lessons: [
+      { stem: 'm3-vip',           count: 5 },
+      { stem: 'm3-onsen',         count: 5 },
+      { stem: 'm3-crosscultural', count: 5 },
+      { stem: 'm3-digital',       count: 5 },
+    ]
+  },
+  {
+    name: 'Reading Guest Emotions',
+    color: '#1fad69',
+    lessons: [
+      { stem: 'm4-emotions', count: 6 },
+    ]
+  },
+  {
+    name: 'Cultural Calendar',
+    color: '#9b59b6',
+    lessons: [
+      { stem: 'spring', count: 3 },
+      { stem: 'summer', count: 4 },
+      { stem: 'autumn', count: 3 },
+      { stem: 'winter', count: 4 },
+    ]
+  },
+  {
+    name: 'Hospitality Japanese Essentials',
+    color: '#e67e22',
+    lessons: [
+      { stem: 'v01-vocab', count: 24 },
+      { stem: 'v02-vocab', count: 30 },
+      { stem: 'v03-vocab', count: 30 },
+      { stem: 'v04-vocab', count: 20 },
+      { stem: 'v05-vocab', count: 20 },
+      { stem: 'v06-vocab', count: 25 },
+      { stem: 'v07-vocab', count: 10 },
+      { stem: 'v08-vocab', count: 40 },
+      { stem: 'v09-vocab', count: 40 },
+      { stem: 'v10-vocab', count: 40 },
+      { stem: 'v11-vocab', count: 40 },
+      { stem: 'v12-vocab', count: 30 },
+      { stem: 'v13-vocab', count: 30 },
+      { stem: 'v14-vocab', count: 30 },
+      { stem: 'v15-vocab', count: 20 },
+    ]
+  },
+  {
+    name: 'Simulator',
+    color: '#f1be32',
+    isSimulator: true,
+    total: 100
+  }
+];
+
+const TOTAL_LESSONS = MODULES.reduce((acc, m) => {
+  if (m.isSimulator) return acc + m.total;
+  return acc + m.lessons.reduce((a, l) => a + l.count, 0);
+}, 0); // 623
+
+// ── HELPERS ──────────────────────────────────────────────────────────────────
+function countModuleDone(mod) {
+  if (mod.isSimulator) {
+    let done = 0;
+    for (let i = 1; i <= mod.total; i++) {
+      if (localStorage.getItem('omotenashi:simulator:' + i)) done++;
+    }
+    return { done, total: mod.total };
+  }
+  let done = 0, total = 0;
+  for (const { stem, count } of mod.lessons) {
+    total += count;
+    for (let i = 1; i <= count; i++) {
+      if (localStorage.getItem('omotenashi:' + stem + ':' + i)) done++;
+    }
+  }
+  return { done, total };
+}
+
+function countVocabFlashcards() {
+  let known = 0, learning = 0;
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (!key.startsWith('omotenashi:fc:')) continue;
+    const val = localStorage.getItem(key);
+    if (val === 'know') known++;
+    else if (val === 'learning') learning++;
+  }
+  return { known, learning };
+}
+
+function getDueReviews() {
+  const now = Date.now();
+  const due = [];
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (!key.startsWith('omotenashi:srs:')) continue;
+    try {
+      const data = JSON.parse(localStorage.getItem(key));
+      if (data.nextReview && data.nextReview <= now) {
+        const file = key.replace('omotenashi:srs:', '');
+        const parts = file.split('/');
+        const raw = parts[parts.length - 1].replace('.md', '');
+        const name = raw.replace(/-/g, ' ');
+        due.push({ file, name, reps: data.reps || 0 });
+      }
+    } catch(e) {}
+  }
+  return due;
+}
+
+// ── RENDER ───────────────────────────────────────────────────────────────────
+function render() {
+  // Modules
+  let totalDone = 0;
+  const listEl = document.getElementById('modules-list');
+  listEl.innerHTML = MODULES.map(mod => {
+    const { done, total } = countModuleDone(mod);
+    totalDone += done;
+    const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+    return `
+      <div class="module-row">
+        <div class="module-row-top">
+          <span class="module-name">${mod.name}</span>
+          <span class="module-count">${done} / ${total}<span class="module-pct">${pct}%</span></span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" style="width:${pct}%;background:${mod.color}"></div>
+        </div>
+      </div>`;
+  }).join('');
+
+  // Top stats
+  const overallPct = Math.round((totalDone / TOTAL_LESSONS) * 100);
+  document.getElementById('stat-pct').textContent = overallPct + '%';
+  document.getElementById('stat-pct-sub').textContent = totalDone + ' of ' + TOTAL_LESSONS + ' lessons';
+
+  // Flashcards
+  const { known, learning } = countVocabFlashcards();
+  document.getElementById('stat-vocab').textContent = known;
+  document.getElementById('vocab-known').textContent = known;
+  document.getElementById('vocab-learning').textContent = learning;
+  document.getElementById('vocab-unseen').textContent = Math.max(0, 429 - known - learning);
+
+  // Due reviews
+  const due = getDueReviews();
+  document.getElementById('stat-due').textContent = due.length;
+  const dueEl = document.getElementById('due-list');
+  if (due.length === 0) {
+    dueEl.innerHTML = '<div class="due-empty">No reviews due — check back later.</div>';
+  } else {
+    dueEl.innerHTML = due.map(d => `
+      <a class="due-item" href="md-viewer.html?file=${encodeURIComponent(d.file)}">
+        <span class="due-item-name">${d.name}</span>
+        <span class="due-badge">${d.reps} rep${d.reps !== 1 ? 's' : ''}</span>
+      </a>`).join('');
+  }
+}
+
+// ── EXPORT / IMPORT (from nav.js, inlined here) ──────────────────────────────
+function exportProgress() {
+  const data = {};
+  for (let i = 0; i < localStorage.length; i++) {
+    const k = localStorage.key(i);
+    if (k && k.startsWith('omotenashi:')) data[k] = localStorage.getItem(k);
+  }
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'omotenashi-progress-' + new Date().toISOString().slice(0, 10) + '.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+function importProgress() {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.json';
+  input.onchange = function(e) {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = function(ev) {
+      try {
+        const data = JSON.parse(ev.target.result);
+        let count = 0;
+        for (const key in data) {
+          if (data.hasOwnProperty(key) && key.startsWith('omotenashi:')) {
+            localStorage.setItem(key, data[key]);
+            count++;
+          }
+        }
+        alert('Imported ' + count + ' entries. Refreshing...');
+        location.reload();
+      } catch(err) {
+        alert('Invalid file. Please select a valid progress export.');
+      }
+    };
+    reader.readAsText(file);
+  };
+  input.click();
+}
+
+// ── SAVE PROGRESS ────────────────────────────────────────────────────────────
+function dashSaveName() {
+  const input = document.getElementById('dash-name-input');
+  const name = input.value.trim();
+  if (!name) { input.focus(); return; }
+  localStorage.setItem('omotenashi:user:name', name);
+  input.blur();
+  const btn = input.nextElementSibling;
+  const orig = btn.textContent;
+  btn.textContent = 'Saved!';
+  setTimeout(() => { btn.textContent = orig; }, 1500);
+  if (typeof updateBanner === 'function') updateBanner(name);
+}
+
+// Theme
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
+})();
+
+render();
+
+// Pre-fill name if already saved
+(function() {
+  const name = localStorage.getItem('omotenashi:user:name');
+  if (name) {
+    const input = document.getElementById('dash-name-input');
+    if (input) input.value = name;
+  }
+})();
+</script>
+
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{})}</script>
+</body>
+</html>

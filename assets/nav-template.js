@@ -15,6 +15,10 @@ function renderNav() {
     <div style="display:flex;align-items:center;gap:16px;margin-left:auto;">
       <span id="banner-text" style="display:none;font-size:0.78rem;color:var(--text-muted);white-space:nowrap;"></span>
       <button id="banner-btn" style="display:none;padding:5px 10px;border-radius:4px;font-size:0.72rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;"></button>
+      <a href="dashboard.html" style="display:inline-flex;align-items:center;gap:6px;padding:6px 14px;background:var(--accent-yellow);color:#0a0a23;font-size:0.78rem;font-weight:700;font-family:'Cascadia Code','Fira Code',monospace;border-radius:6px;text-decoration:none;transition:opacity 0.15s;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+        Dashboard
+      </a>
       <div class="nav-menu-wrap">
         <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">
           <span></span><span></span><span></span>
@@ -22,9 +26,7 @@ function renderNav() {
         <div class="nav-dropdown">
           <a href="index.html">Main</a>
           <a href="curriculum.html">Curriculum</a>
-          <a href="games.html">Games</a>
           <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
-          <a href="#" onclick="openSignInModal();return false;">Save Progress</a>
           <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
         </div>
       </div>
