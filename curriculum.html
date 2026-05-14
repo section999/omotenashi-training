@@ -2049,18 +2049,6 @@ margin-top: 48px;
       });
     }
 
-    // Dark / Light mode toggle
-    function toggleMode() {
-      const html = document.documentElement;
-      const isLight = html.getAttribute('data-theme') === 'light';
-      html.setAttribute('data-theme', isLight ? 'dark' : 'light');
-      try { localStorage.setItem('theme', isLight ? 'dark' : 'light'); } catch(e) {}
-    }
-    (function() {
-      let saved;
-      try { saved = localStorage.getItem('theme'); } catch(e) {}
-      if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
-    })();
 
     // Keyboard accessibility for collapsible tree rows
     document.querySelectorAll('.tree-l1-row, .tree-l2-row').forEach(function(row) {

@@ -932,23 +932,8 @@ function restartSame() {
   startRound(files, 1);
 }
 
-// ── THEME ─────────────────────────────────────────────────────────────────────
-function toggleMode() {
-  const html = document.documentElement;
-  const isLight = html.getAttribute('data-theme') === 'light';
-  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
-  localStorage.setItem('theme', isLight ? 'dark' : 'light');
-}
-
 // ── INIT ──────────────────────────────────────────────────────────────────────
 (function init() {
-  const saved = localStorage.getItem('theme');
-  if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
-  document.addEventListener('click', e => {
-    document.querySelectorAll('.nav-dropdown.open').forEach(d => {
-      if (!d.parentElement.contains(e.target)) d.classList.remove('open');
-    });
-  });
   const groupParam = new URLSearchParams(location.search).get('group');
   showSetupScreen(groupParam);
 })();

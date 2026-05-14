@@ -373,91 +373,37 @@
 </main>
 
 <script>
-// ── CURRICULUM DATA ──────────────────────────────────────────────────────────
-const MODULES = [
-  {
-    name: 'The Spirit of Omotenashi',
-    color: '#f1be32',
-    lessons: [
-      { stem: 'm1-philosophy', count: 6 },
-      { stem: 'm1-comms',      count: 5 },
-      { stem: 'm1-crisis',     count: 4 },
-      { stem: 'm1-fnb',        count: 4 },
-      { stem: 'm1-skills',     count: 5 },
-    ]
-  },
-  {
-    name: 'Practical Service Skills',
-    color: '#4a6cf7',
-    lessons: [
-      { stem: 'm2-keigo',         count: 5 },
-      { stem: 'm2-seasons',       count: 5 },
-      { stem: 'm2-gift',          count: 5 },
-      { stem: 'm2-accommodation', count: 5 },
-      { stem: 'm2-appearance',    count: 5 },
-      { stem: 'm2-teamwork',      count: 5 },
-    ]
-  },
-  {
-    name: 'Expert Specialization',
-    color: '#c5442a',
-    lessons: [
-      { stem: 'm3-vip',           count: 5 },
-      { stem: 'm3-onsen',         count: 5 },
-      { stem: 'm3-crosscultural', count: 5 },
-      { stem: 'm3-digital',       count: 5 },
-    ]
-  },
-  {
-    name: 'Reading Guest Emotions',
-    color: '#1fad69',
-    lessons: [
-      { stem: 'm4-emotions', count: 6 },
-    ]
-  },
-  {
-    name: 'Cultural Calendar',
-    color: '#9b59b6',
-    lessons: [
-      { stem: 'spring', count: 3 },
-      { stem: 'summer', count: 4 },
-      { stem: 'autumn', count: 3 },
-      { stem: 'winter', count: 4 },
-    ]
-  },
-  {
-    name: 'Hospitality Japanese Essentials',
-    color: '#e67e22',
-    lessons: [
-      { stem: 'v01-vocab', count: 24 },
-      { stem: 'v02-vocab', count: 30 },
-      { stem: 'v03-vocab', count: 30 },
-      { stem: 'v04-vocab', count: 20 },
-      { stem: 'v05-vocab', count: 20 },
-      { stem: 'v06-vocab', count: 25 },
-      { stem: 'v07-vocab', count: 10 },
-      { stem: 'v08-vocab', count: 40 },
-      { stem: 'v09-vocab', count: 40 },
-      { stem: 'v10-vocab', count: 40 },
-      { stem: 'v11-vocab', count: 40 },
-      { stem: 'v12-vocab', count: 30 },
-      { stem: 'v13-vocab', count: 30 },
-      { stem: 'v14-vocab', count: 30 },
-      { stem: 'v15-vocab', count: 20 },
-    ]
-  },
-  {
-    name: 'Simulator',
-    color: '#f1be32',
-    isSimulator: true,
-    total: 100
-  }
-];
-
-const TOTAL_LESSONS = MODULES.reduce((acc, m) => {
-  if (m.isSimulator) return acc + m.total;
-  return acc + m.lessons.reduce((a, l) => a + l.count, 0);
-}, 0); // 623
+// ── CURRICULUM DATA (auto-parsed from curriculum.html) ────────────────────
+const MODULE_COLORS = ['#f1be32','#4a6cf7','#c5442a','#1fad69','#9b59b6','#e67e22','#f1be32'];
+async function fetchModules() {
+  try {
+    const resp = await fetch('curriculum.html');
+    const html = await resp.text();
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const modules = [];
+    doc.querySelectorAll('.course-tree').forEach((tree, idx) => {
+      const nameEl = tree.querySelector('.tree-l1-label');
+      if (!nameEl) return;
+      const name = nameEl.textContent.trim();
+      const color = MODULE_COLORS[idx] || '#f1be32';
+      const progressEl = tree.querySelector('.tree-l1-progress');
+      if (progressEl && /scenario/i.test(progressEl.textContent)) {
+        modules.push({ name, color, isSimulator: true, total: 100 });
+        return;
+      }
+      const stems = {};
+      tree.querySelectorAll('a.step-btn').forEach(btn => {
+        const href = btn.getAttribute('href') || '';
+        const fn = href.split('/').pop();
+        const m = fn.match(/^(.+)-(\d+)\.md$/);
+        if (m) stems[m[1]] = Math.max(stems[m[1]] || 0, parseInt(m[2]));
+      });
+      const lessons = Object.entries(stems).map(([stem, count]) => ({ stem, count }));
+      if (lessons.length) modules.push({ name, color, lessons });
+    });
+    return modules.length ? modules : null;
+  } catch(e) { return null; }
+}
 
 // ── HELPERS ──────────────────────────────────────────────────────────────────
 function countModuleDone(mod) {
@@ -511,7 +457,11 @@ function getDueReviews() {
 }
 
 // ── RENDER ───────────────────────────────────────────────────────────────────
-function render() {
+function render(MODULES) {
+  const TOTAL_LESSONS = MODULES.reduce((acc, m) => {
+    if (m.isSimulator) return acc + m.total;
+    return acc + m.lessons.reduce((a, l) => a + l.count, 0);
+  }, 0);
   // Modules
   let totalDone = 0;
   const listEl = document.getElementById('modules-list');
@@ -615,16 +565,9 @@ function dashSaveName() {
   if (typeof updateBanner === 'function') updateBanner(name);
 }
 
-// Theme
-(function() {
-  const saved = localStorage.getItem('theme');
-  if (saved === 'light') document.documentElement.setAttribute('data-theme', 'light');
-})();
-
-render();
-
-// Pre-fill name if already saved
-(function() {
+(async () => {
+  const modules = await fetchModules();
+  render(modules || []);
   const name = localStorage.getItem('omotenashi:user:name');
   if (name) {
     const input = document.getElementById('dash-name-input');
