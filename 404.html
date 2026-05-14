@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <meta name="theme-color" content="#0a0a23" />
+  <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
+  <title>404 — Omotenashi Training</title>
+  <link rel="stylesheet" href="assets/nav.css" />
+  <script src="assets/nav-template.js"></script>
+  <style>
+    :root {
+      --bg-primary: #0a0a23; --bg-secondary: #1b1b32;
+      --text-primary: #ffffff; --text-secondary: #a3a3c2; --text-muted: #5f5f7a;
+      --accent-yellow: #f1be32; --border-default: #2a2a4a;
+      --font-sans: 'Segoe UI', system-ui, sans-serif;
+      --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+    }
+    [data-theme="light"] {
+      --bg-primary: #ffffff; --bg-secondary: #f5f5fa;
+      --text-primary: #1b1b32; --text-secondary: #46465e; --text-muted: #78788a;
+      --border-default: #c8c9cc;
+    }
+    [data-theme="light"] .nav { background: #0a0a23 !important; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 18px; }
+    body { background: var(--bg-secondary); color: var(--text-primary); font-family: var(--font-sans); min-height: 100vh; display: flex; flex-direction: column; }
+    .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 200; height: 60px; background: #0a0a23; }
+    .nav-inner { max-width: 100%; padding: 0 32px; height: 100%; display: flex; align-items: center; justify-content: space-between; position: relative; }
+    .container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 24px 48px;
+      text-align: center;
+    }
+    .code {
+      font-family: var(--font-mono);
+      font-size: 6rem;
+      font-weight: 700;
+      color: var(--accent-yellow);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+    .message {
+      font-size: 1.1rem;
+      color: var(--text-secondary);
+      margin-bottom: 8px;
+    }
+    .sub {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 40px;
+    }
+    .links {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 24px;
+      background: var(--accent-yellow);
+      color: #0a0a23;
+      font-weight: 700;
+      font-size: 0.85rem;
+      font-family: var(--font-mono);
+      border-radius: 6px;
+      text-decoration: none;
+      transition: opacity 0.15s;
+    }
+    .btn-primary:hover { opacity: 0.85; }
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 24px;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      font-family: var(--font-mono);
+      border-radius: 6px;
+      border: 1px solid var(--border-default);
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+    .btn-secondary:hover { background: var(--bg-primary); color: var(--text-primary); }
+    .logo-small { display: none; }
+    @media (max-width: 640px) {
+      .nav-inner { padding: 0 16px; }
+      .logo-large { display: none !important; }
+      .logo-small { display: block !important; }
+      .code { font-size: 4rem; }
+    }
+  </style>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+
+<main class="container" id="main-content">
+  <div class="code">404</div>
+  <p class="message">Page not found</p>
+  <p class="sub">The page you're looking for doesn't exist or has been moved.</p>
+  <div class="links">
+    <a href="index.html" class="btn-primary">Go Home</a>
+    <a href="curriculum.html" class="btn-secondary">Curriculum</a>
+  </div>
+</main>
+
+<script src="assets/search-init.js"></script>
+<script src="assets/nav.js"></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}</script>
+</body>
+</html>

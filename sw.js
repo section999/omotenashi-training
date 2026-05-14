@@ -1,4 +1,4 @@
-const CACHE = 'omotenashi-v2'
+const CACHE = 'omotenashi-v3'
 
 const BASE = self.location.pathname.replace(/\/[^/]*$/, '/')
 
@@ -19,7 +19,8 @@ const PRECACHE = [
   BASE + 'assets/favicon-32x32.png',
   BASE + 'assets/fcc_primary_large.png',
   BASE + 'assets/fcc_primary_small.png',
-  BASE + 'dashboard.html'
+  BASE + 'dashboard.html',
+  BASE + '404.html'
 ]
 
 const CDN_CACHE = 'omotenashi-cdn-v1'

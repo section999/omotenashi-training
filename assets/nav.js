@@ -95,6 +95,13 @@
   drop.setAttribute('aria-expanded', 'false');
 })();
 
+// ── NAV DROPDOWN: CLOSE ON OUTSIDE CLICK ──────────────────────────────────────
+document.addEventListener('click', function(e) {
+  document.querySelectorAll('.nav-dropdown.open').forEach(function(d) {
+    if (!d.parentElement.contains(e.target)) d.classList.remove('open');
+  });
+});
+
 // ── THEME TOGGLE ──────────────────────────────────────────────────────────────
 function toggleMode() {
   var html = document.documentElement;
