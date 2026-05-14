@@ -27,8 +27,8 @@
       --border-default: #2a2a4a;
       --border-strong:  #4a4a6a;
       --accent-yellow:  #f1be32;
-      --accent-blue:    #f1be32;
-      --accent-blue-rgb: 241,190,50;
+      --accent-blue:    #0a2a6a;
+      --accent-blue-rgb: 10,42,106;
       --accent-green:   #1fad69;
       --accent-rgb:     241,190,50;
       --accent-bg:      #2a2a4a;
@@ -537,7 +537,7 @@ margin-top: 48px;
     {"@type":"ListItem","position":3,"name":"Expert Specialization"},
     {"@type":"ListItem","position":4,"name":"Reading Guest Emotions"},
     {"@type":"ListItem","position":5,"name":"Cultural Calendar"},
-    {"@type":"ListItem","position":6,"name":"Vocabulary & Language Skills"}
+    {"@type":"ListItem","position":6,"name":"Hospitality Japanese Essentials"}
   ]
 }
 </script>
@@ -950,12 +950,114 @@ margin-top: 48px;
       </div>
 
     </div>
-<!--Vocabulary & Language Skills — tree structure -->
+    <!-- Reading Guest Emotions -->
+    <div class="course-tree">
+      <div class="tree-l1" id="tree-l1-emotions">
+        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-emotions').classList.toggle('open')">
+          <span class="tree-l1-label">Reading Guest Emotions</span>
+          <span class="tree-l1-progress" id="emotions-progress">0 of 6 complete</span>
+          <span class="tree-l1-chevron">▾</span>
+        </div>
+        <div class="tree-l1-children">
+          <div style="padding:8px 24px 16px 24px;">
+            <div class="step-grid" style="padding:0; flex-wrap:wrap;">
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-01.md" class="step-btn">1</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-02.md" class="step-btn">2</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-03.md" class="step-btn">3</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-04.md" class="step-btn">4</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-05.md" class="step-btn">5</a>
+              <a href="md-viewer.html?file=content/foundations/m4-emotions-06.md" class="step-btn">6</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Cultural Calendar -->
+    <div class="course-tree">
+      <div class="tree-l1" id="tree-l1-cal">
+        <div class="tree-l1-row" onclick="document.getElementById('tree-l1-cal').classList.toggle('open')">
+          <span class="tree-l1-label">Cultural Calendar</span>
+          <span class="tree-l1-progress">4 seasons · 14 events</span>
+          <span class="tree-l1-chevron">▾</span>
+        </div>
+        <div class="tree-l1-children">
+
+          <div class="tree-l2" id="tree-l2-cal-spring">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-spring').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">Spring</span>
+              <span class="tree-l2-progress">March — May · 3 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/spring-01.md" class="step-btn" title="Sakura Season">1</a>
+                <a href="md-viewer.html?file=content/calendar/spring-02.md" class="step-btn" title="New Fiscal &amp; Academic Year">2</a>
+                <a href="md-viewer.html?file=content/calendar/spring-03.md" class="step-btn" title="Golden Week">3</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-summer">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-summer').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">Summer</span>
+              <span class="tree-l2-progress">June — August · 4 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/summer-01.md" class="step-btn" title="Tsuyu — Rainy Season">1</a>
+                <a href="md-viewer.html?file=content/calendar/summer-02.md" class="step-btn" title="Tanabata">2</a>
+                <a href="md-viewer.html?file=content/calendar/summer-03.md" class="step-btn" title="Obon">3</a>
+                <a href="md-viewer.html?file=content/calendar/summer-04.md" class="step-btn" title="Summer Heat Greeting">4</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-autumn">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-autumn').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">Autumn</span>
+              <span class="tree-l2-progress">September — November · 3 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/autumn-01.md" class="step-btn" title="Koyo — Autumn Foliage">1</a>
+                <a href="md-viewer.html?file=content/calendar/autumn-02.md" class="step-btn" title="Respect for the Aged Day">2</a>
+                <a href="md-viewer.html?file=content/calendar/autumn-03.md" class="step-btn" title="Culture Day">3</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="tree-l2" id="tree-l2-cal-winter">
+            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-winter').classList.toggle('open')">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">Winter</span>
+              <span class="tree-l2-progress">December — February · 4 events</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/calendar/winter-01.md" class="step-btn" title="Oseibo — Year-End Gift Giving">1</a>
+                <a href="md-viewer.html?file=content/calendar/winter-02.md" class="step-btn" title="New Year — Oshogatsu">2</a>
+                <a href="md-viewer.html?file=content/calendar/winter-03.md" class="step-btn" title="Setsubun">3</a>
+                <a href="md-viewer.html?file=content/calendar/winter-04.md" class="step-btn" title="Cold-Weather Greeting">4</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+<!--Hospitality Japanese Essentials — tree structure -->
     <div class="course-tree">
 
       <div class="tree-l1" id="tree-l1-vocab">
         <div class="tree-l1-row" onclick="document.getElementById('tree-l1-vocab').classList.toggle('open')">
-          <span class="tree-l1-label">Vocabulary &amp; Language Skills</span>
+          <span class="tree-l1-label">Hospitality Japanese Essentials</span>
           <span class="tree-l1-progress">0 of 15 complete</span>
           <span class="tree-l1-chevron">▾</span>
         </div>
@@ -1590,108 +1692,6 @@ margin-top: 48px;
       </div>
 
     </div>
-    <!-- Cultural Calendar -->
-    <div class="course-tree">
-      <div class="tree-l1" id="tree-l1-cal">
-        <div class="tree-l1-row" onclick="document.getElementById('tree-l1-cal').classList.toggle('open')">
-          <span class="tree-l1-label">Cultural Calendar</span>
-          <span class="tree-l1-progress">4 seasons · 14 events</span>
-          <span class="tree-l1-chevron">▾</span>
-        </div>
-        <div class="tree-l1-children">
-
-          <div class="tree-l2" id="tree-l2-cal-spring">
-            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-spring').classList.toggle('open')">
-              <span class="tree-l2-chevron">▶</span>
-              <span class="tree-circle"></span>
-              <span class="tree-l2-label">Spring</span>
-              <span class="tree-l2-progress">March — May · 3 events</span>
-            </div>
-            <div class="tree-l2-children">
-              <div class="step-grid">
-                <a href="md-viewer.html?file=content/calendar/spring-01.md" class="step-btn" title="Sakura Season">1</a>
-                <a href="md-viewer.html?file=content/calendar/spring-02.md" class="step-btn" title="New Fiscal &amp; Academic Year">2</a>
-                <a href="md-viewer.html?file=content/calendar/spring-03.md" class="step-btn" title="Golden Week">3</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="tree-l2" id="tree-l2-cal-summer">
-            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-summer').classList.toggle('open')">
-              <span class="tree-l2-chevron">▶</span>
-              <span class="tree-circle"></span>
-              <span class="tree-l2-label">Summer</span>
-              <span class="tree-l2-progress">June — August · 4 events</span>
-            </div>
-            <div class="tree-l2-children">
-              <div class="step-grid">
-                <a href="md-viewer.html?file=content/calendar/summer-01.md" class="step-btn" title="Tsuyu — Rainy Season">1</a>
-                <a href="md-viewer.html?file=content/calendar/summer-02.md" class="step-btn" title="Tanabata">2</a>
-                <a href="md-viewer.html?file=content/calendar/summer-03.md" class="step-btn" title="Obon">3</a>
-                <a href="md-viewer.html?file=content/calendar/summer-04.md" class="step-btn" title="Summer Heat Greeting">4</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="tree-l2" id="tree-l2-cal-autumn">
-            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-autumn').classList.toggle('open')">
-              <span class="tree-l2-chevron">▶</span>
-              <span class="tree-circle"></span>
-              <span class="tree-l2-label">Autumn</span>
-              <span class="tree-l2-progress">September — November · 3 events</span>
-            </div>
-            <div class="tree-l2-children">
-              <div class="step-grid">
-                <a href="md-viewer.html?file=content/calendar/autumn-01.md" class="step-btn" title="Koyo — Autumn Foliage">1</a>
-                <a href="md-viewer.html?file=content/calendar/autumn-02.md" class="step-btn" title="Respect for the Aged Day">2</a>
-                <a href="md-viewer.html?file=content/calendar/autumn-03.md" class="step-btn" title="Culture Day">3</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="tree-l2" id="tree-l2-cal-winter">
-            <div class="tree-l2-row" onclick="document.getElementById('tree-l2-cal-winter').classList.toggle('open')">
-              <span class="tree-l2-chevron">▶</span>
-              <span class="tree-circle"></span>
-              <span class="tree-l2-label">Winter</span>
-              <span class="tree-l2-progress">December — February · 4 events</span>
-            </div>
-            <div class="tree-l2-children">
-              <div class="step-grid">
-                <a href="md-viewer.html?file=content/calendar/winter-01.md" class="step-btn" title="Oseibo — Year-End Gift Giving">1</a>
-                <a href="md-viewer.html?file=content/calendar/winter-02.md" class="step-btn" title="New Year — Oshogatsu">2</a>
-                <a href="md-viewer.html?file=content/calendar/winter-03.md" class="step-btn" title="Setsubun">3</a>
-                <a href="md-viewer.html?file=content/calendar/winter-04.md" class="step-btn" title="Cold-Weather Greeting">4</a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-    <!-- Reading Guest Emotions -->
-    <div class="course-tree">
-      <div class="tree-l1" id="tree-l1-emotions">
-        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-emotions').classList.toggle('open')">
-          <span class="tree-l1-label">Reading Guest Emotions</span>
-          <span class="tree-l1-progress" id="emotions-progress">0 of 6 complete</span>
-          <span class="tree-l1-chevron">▾</span>
-        </div>
-        <div class="tree-l1-children">
-          <div style="padding:8px 24px 16px 24px;">
-            <div class="step-grid" style="padding:0; flex-wrap:wrap;">
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-01.md" class="step-btn">1</a>
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-02.md" class="step-btn">2</a>
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-03.md" class="step-btn">3</a>
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-04.md" class="step-btn">4</a>
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-05.md" class="step-btn">5</a>
-              <a href="md-viewer.html?file=content/foundations/m4-emotions-06.md" class="step-btn">6</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <hr style="border:none; border-top:1px solid var(--border-default); margin:48px 0 40px;">
 
     <!-- Vocabulary Practice -->
@@ -1699,7 +1699,7 @@ margin-top: 48px;
       <div class="tree-l1" id="tree-l1-flash">
         <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-flash').classList.toggle('open')">
           <span class="tree-l1-label">Vocabulary Practice</span>
-          <span class="tree-l1-progress" id="fc-global-progress">429 cards</span>
+          <span class="tree-l1-progress" id="fc-global-progress">2 practice modes</span>
           <span class="tree-l1-chevron">▾</span>
         </div>
         <div class="tree-l1-children">
@@ -1707,7 +1707,25 @@ margin-top: 48px;
             <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:20px;line-height:1.6;">
               Practice all 429 vocabulary words with interactive flashcards and dictation exercises — shuffle, reverse direction (EN→JP), Study Session mode, and listen-and-type drills.
             </p>
-            <a href="vocabularypractice.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Start Practice</a>
+            <a href="vocabularypractice.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Start</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="course-tree">
+      <div class="tree-l1" id="tree-l1-games">
+        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-games').classList.toggle('open')">
+          <span class="tree-l1-label">Games</span>
+          <span class="tree-l1-progress">6 games</span>
+          <span class="tree-l1-chevron">&#x25BE;</span>
+        </div>
+        <div class="tree-l1-children">
+          <div style="padding:20px 28px 28px;">
+            <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:20px;line-height:1.6;">
+              Reinforce vocabulary through fun interactive games: Memory Match, Typing Challenge, Hangman, Speed Match, Word Scramble, and Fill the Blank.
+            </p>
+            <a href="games.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Start</a>
           </div>
         </div>
       </div>
@@ -1930,27 +1948,6 @@ margin-top: 48px;
       </div>
     </div>
 
-    <!-- Games -->
-    <hr style="border:none; border-top:1px solid var(--border-default); margin:48px 0 40px;">
-
-    <div class="course-tree">
-      <div class="tree-l1" id="tree-l1-games">
-        <div class="tree-l1-row" style="border-bottom:none;" onclick="document.getElementById('tree-l1-games').classList.toggle('open')">
-          <span class="tree-l1-label">Language Games</span>
-          <span class="tree-l1-progress">6 games</span>
-          <span class="tree-l1-chevron">&#x25BE;</span>
-        </div>
-        <div class="tree-l1-children">
-          <div style="padding:20px 28px 28px;">
-            <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:20px;line-height:1.6;">
-              Reinforce vocabulary through fun interactive games: Memory Match, Typing Challenge, Hangman, Speed Match, Word Scramble, and Fill the Blank.
-            </p>
-            <a href="games.html" style="display:inline-block;background:var(--accent-yellow);color:#0a0a23;padding:10px 24px;border-radius:5px;font-weight:700;font-size:0.9rem;text-decoration:none;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">Play Games</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
   </main>
 
 
@@ -2022,7 +2019,7 @@ margin-top: 48px;
           }
         });
         const el = document.getElementById('fc-global-progress');
-        if (el) el.textContent = known + ' of 429 known';
+        if (el) el.textContent = '2 practice modes';
       })();
     });
 
