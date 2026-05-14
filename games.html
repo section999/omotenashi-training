@@ -7,6 +7,7 @@
   <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#0a0a23" />
   <title>Games — Omotenashi Training</title>
+  <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
   <style>
     :root {
       --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
@@ -22,6 +23,33 @@
       --t-p:#fff; --t-s:#a3a3c2; --t-m:#5f5f7a;
       --border:#2a2a4a;
     }
+    [data-theme="light"] {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f5f5fa;
+      --bg-tertiary: #eeeef5;
+      --bg-p: #ffffff;
+      --bg-s: #f5f5fa;
+      --bg-t: #eeeef5;
+      --text-primary: #1b1b32;
+      --text-secondary: #46465e;
+      --text-muted: #78788a;
+      --t-p: #1b1b32;
+      --t-s: #46465e;
+      --t-m: #78788a;
+      --border-default: #c8c9cc;
+      --border-strong: #8e8e9a;
+      --border: #c8c9cc;
+      --accent-yellow: #f1be32;
+      --accent-green: #17954e;
+      --accent-red: #c5442a;
+      --accent: #f1be32;
+      --green: #17954e;
+      --red: #c5442a;
+      --accent-rgb: 241,190,50;
+    }
+    [data-theme="light"] body { color: #1b1b32; }
+    [data-theme="light"] .modal-body li { border-bottom-color: rgba(0,0,0,0.06); }
+
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{font-size:18px}
     body{background:var(--bg-secondary);color:#fff;font-family:var(--font-sans);font-size:1rem;line-height:1.75;letter-spacing:normal;min-height:100vh}
@@ -192,10 +220,6 @@
     }
 
     [data-theme="light"] .nav { background: #0a0a23 !important; }
-    [data-theme="light"] .nav * { color: #ffffff !important; border-color: transparent !important; }
-    [data-theme="light"] .nav-dropdown { background: #1b1b32 !important; border-color: #3b3b5c !important; }
-    [data-theme="light"] .nav-dropdown a:hover,
-    [data-theme="light"] .nav-dropdown button:hover { background: rgba(255,255,255,0.08) !important; }
   </style>
   <link rel="stylesheet" href="assets/nav.css"/>
   <script src="assets/nav-template.js"></script>
@@ -208,6 +232,16 @@
 <main class="main" id="main-content"></main>
 
 <script>
+function toggleMode() {
+  var html = document.documentElement;
+  var isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  try { localStorage.setItem('theme', isLight ? 'dark' : 'light'); } catch(e) {}
+}
+(function() {
+  try { if (localStorage.getItem('theme') === 'light') document.documentElement.setAttribute('data-theme', 'light'); } catch(e) {}
+})();
+
 var GAMES_VOCAB = [
   {jp:"いらっしゃいませ",rom:"irasshaimase",en:"welcome"},
   {jp:"おはようございます",rom:"ohayou gozaimasu",en:"good morning"},

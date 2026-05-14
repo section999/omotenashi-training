@@ -95,6 +95,14 @@
   drop.setAttribute('aria-expanded', 'false');
 })();
 
+// ── THEME TOGGLE ──────────────────────────────────────────────────────────────
+function toggleMode() {
+  var html = document.documentElement;
+  var isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  try { localStorage.setItem('theme', isLight ? 'dark' : 'light'); } catch(e) {}
+}
+
 // ── SAVE PROGRESS ─────────────────────────────────────────────────────────────
 function openSignInModal() {
   var modal = document.getElementById('signin-modal');
@@ -136,8 +144,8 @@ function updateBanner(name) {
     btn.textContent = 'Not you?';
     btn.onclick = signOut;
     btn.style.background = 'transparent';
-    btn.style.border = '1px solid var(--border-default)';
-    btn.style.color = 'var(--text-secondary)';
+    btn.style.border = '1px solid #2a2a4a';
+    btn.style.color = '#a3a3c2';
     btn.style.fontFamily = '\'Cascadia Code\',\'Fira Code\',\'Consolas\',monospace';
     text.style.display = 'inline';
     btn.style.display = 'inline-block';
