@@ -263,8 +263,7 @@ function buildGroupFiles(id) {
 
 const ALL_FILES = VOCAB_GROUPS.flatMap(g => buildGroupFiles(g.id)); // 429
 
-const _h = location.hostname;
-const BASE = (_h==='127.0.0.1'||_h==='localhost'||_h==='::1') ? '/' : '/omotenashi-training/';
+const BASE = location.pathname.replace(/\/pages\/[^/]*$/, '/');
 
 // ── HELPERS ──────────────────────────────────────────────────────────────────
 let currentCardFile = null;
