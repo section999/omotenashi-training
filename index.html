@@ -66,7 +66,6 @@
     [data-theme="light"] .hero-bg {
       background: linear-gradient(to bottom, #f5f6f7 70%, #ffffff 100%);
     }
-    [data-theme="light"] .btn-cta { color: #0d0d1a; }
     [data-theme="light"] .hero-title .highlight {
       background: none;
       -webkit-text-fill-color: #1b1b32;
@@ -108,37 +107,6 @@
       justify-content: space-between;
       position: relative;
     }
-    .nav-brand {
-      font-family: var(--font-mono);
-      font-size: 0.9rem;
-      font-weight: 700;
-      color: #ffffff;
-      text-decoration: none;
-      letter-spacing: -0.01em;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-    }
-    .nav-brand .prompt { opacity: 0.5; }
-    .nav-brand .jp { font-size: 0.75rem; color: var(--text-muted); margin-left: 4px; }
-    .nav-links {
-      display: flex;
-      gap: 4px;
-      list-style: none;
-    }
-    .nav-links a {
-      display: block;
-      padding: 6px 14px;
-      font-size: 0.85rem;
-      color: rgba(255,255,255,0.75);
-      text-decoration: none;
-      border-radius: 6px;
-      transition: color var(--transition), background var(--transition);
-    }
-    .nav-links a:hover { color: #ffffff; background: rgba(255,255,255,0.1); }
     .nav-cta {
       display: inline-flex;
       align-items: center;
@@ -245,19 +213,6 @@
       align-items: center;
     }
 
-    .hero-eyebrow {
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: var(--accent-yellow);
-      margin-bottom: 20px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-    .hero-eyebrow::before { display: none; }
-
     .hero-title {
       font-family: var(--font-mono);
       font-size: clamp(4rem, 7vw, 7rem);
@@ -282,10 +237,6 @@
       letter-spacing: 0.04em;
       white-space: nowrap;
     }
-    .hero-subtitle .jp {
-      color: var(--text-secondary);
-    }
-
     /* ── CONTINUE BANNER ──────────────────────────── */
     .continue-banner {
       display: none;
@@ -327,34 +278,6 @@
     }
     .continue-banner-dismiss:hover { color: var(--text-secondary); }
 
-    /* ── OVERVIEW SECTION ──────────────────────────── */
-    .overview {
-      background: var(--bg-primary);
-      padding: 72px 0 80px;
-    }
-    .overview-inner {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 0 32px;
-    }
-.features-heading {
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: var(--accent-yellow);
-      text-align: center;
-      margin-bottom: 12px;
-    }
-    .features-title {
-      font-family: var(--font-mono);
-      font-size: clamp(1.4rem, 2.5vw, 1.9rem);
-      font-weight: 700;
-      color: var(--text-primary);
-      text-align: center;
-      margin-bottom: 40px;
-      letter-spacing: -0.02em;
-    }
     .features-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -397,36 +320,9 @@
       letter-spacing: 0.04em;
     }
     .feature-link:hover { text-decoration: underline; }
-    [data-theme="light"] .overview { background: var(--bg-secondary); }
     [data-theme="light"] .feature-card { background: var(--bg-primary); }
-    @keyframes modalIn { from { opacity:0; transform:translateY(20px); } to { opacity:1; transform:translateY(0); } }
-
-    /* ── START BUTTON ────────────────────────────── */
-    .btn-cta {
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 20px 48px;
-      font-family: var(--font-mono);
-      font-size: 1.3rem;
-      font-weight: 700;
-      background: var(--accent-yellow);
-      color: #0a0a23;
-      text-decoration: none;
-      border-radius: 8px;
-      border: 2px solid var(--accent-yellow);
-      transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
-    }
-    .btn-cta:hover {
-      background: #e6b020;
-      border-color: #e6b020;
-      box-shadow: 0 0 0 5px rgba(241,190,50,.2), 0 12px 32px rgba(241,190,50,.2);
-      transform: translateY(-2px);
-    }
 
     .logo-small { display: none; }
-    .btn-line2 { display: none; }
-    .btn-line1::after { content: " (It's free)"; }
 
     /* ── MOBILE HERO ── */
     @media (max-width: 640px) {
@@ -438,14 +334,6 @@
         font-size: clamp(1.3rem, 5vw, 1.8rem);
         white-space: normal;
       }
-      .btn-cta {
-        font-size: 1.2rem;
-        padding: 16px 32px;
-        flex-direction: column;
-        gap: 2px;
-      }
-      .btn-line1::after { display: none; }
-      .btn-line2 { display: block; font-size: 0.85rem; opacity: 0.8; }
       .hero-content { padding: 0 20px; }
     }
 
@@ -565,26 +453,6 @@
 
 </main>
 
-  <!-- LANGUAGE PRACTICE PICKER MODAL -->
-  <div id="langModal" role="dialog" aria-modal="true" aria-label="Choose practice mode" style="display:none;position:fixed;inset:0;z-index:950;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;padding:24px;" onclick="if(event.target===this)closeLangModal()">
-    <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:16px;max-width:520px;width:100%;overflow:hidden;animation:modalIn 0.2s ease;">
-      <div style="display:flex;align-items:center;justify-content:space-between;padding:22px 28px 18px;border-bottom:1px solid var(--border-default);">
-        <span style="font-family:var(--font-mono);font-size:0.95rem;font-weight:700;color:var(--accent-yellow);">言 Language &amp; Keigo</span>
-        <button onclick="closeLangModal()" style="background:none;border:none;color:var(--text-muted);font-size:1.2rem;cursor:pointer;line-height:1;padding:4px 8px;">✕</button>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:24px;">
-        <a href="vocabularypractice.html" style="display:block;background:var(--bg-tertiary);border:1px solid var(--border-default);border-radius:10px;padding:24px 20px;text-decoration:none;transition:border-color 0.18s,transform 0.15s;" onmouseover="this.style.borderColor='rgba(241,190,50,0.45)';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border-default)';this.style.transform='none'">
-          <div style="font-family:var(--font-mono);font-size:0.9rem;font-weight:700;color:var(--text-primary);margin-bottom:8px;">Vocabulary Practice</div>
-          <div style="font-size:0.78rem;color:var(--text-secondary);line-height:1.55;">Flashcard &amp; dictation drills across 429 hospitality terms in 15 topic sets.</div>
-        </a>
-        <a href="simulator.html" style="display:block;background:var(--bg-tertiary);border:1px solid var(--border-default);border-radius:10px;padding:24px 20px;text-decoration:none;transition:border-color 0.18s,transform 0.15s;" onmouseover="this.style.borderColor='rgba(241,190,50,0.45)';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border-default)';this.style.transform='none'">
-          <div style="font-family:var(--font-mono);font-size:0.9rem;font-weight:700;color:var(--text-primary);margin-bottom:8px;">Hospitality Simulator</div>
-          <div style="font-size:0.78rem;color:var(--text-secondary);line-height:1.55;">100 role-play scenarios — practice real guest interactions with immediate feedback.</div>
-        </a>
-      </div>
-    </div>
-  </div>
-
   <script>
 
 
@@ -609,19 +477,6 @@
         container.appendChild(p);
       }
     })();
-
-    // Language practice picker modal
-    function openLangModal() {
-      var m = document.getElementById('langModal');
-      m.style.display = 'flex';
-      document.addEventListener('keydown', _langModalKey);
-    }
-    function closeLangModal() {
-      var m = document.getElementById('langModal');
-      m.style.display = 'none';
-      document.removeEventListener('keydown', _langModalKey);
-    }
-    function _langModalKey(e) { if (e.key === 'Escape') closeLangModal(); }
 
     // Subtle nav border on scroll
     const nav = document.querySelector('.nav');

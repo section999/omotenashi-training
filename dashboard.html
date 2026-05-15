@@ -403,11 +403,6 @@ async function fetchModules() {
       if (!nameEl) return;
       const name = nameEl.textContent.trim();
       const color = MODULE_COLORS[idx] || '#f1be32';
-      const progressEl = tree.querySelector('.tree-l1-progress');
-      if (progressEl && /scenario/i.test(progressEl.textContent)) {
-        modules.push({ name, color, isSimulator: true, total: 100 });
-        return;
-      }
       const stems = {};
       tree.querySelectorAll('a.step-btn').forEach(btn => {
         const href = btn.getAttribute('href') || '';
@@ -424,13 +419,6 @@ async function fetchModules() {
 
 // ── HELPERS ──────────────────────────────────────────────────────────────────
 function countModuleDone(mod) {
-  if (mod.isSimulator) {
-    let done = 0;
-    for (let i = 1; i <= mod.total; i++) {
-      if (localStorage.getItem('omotenashi:simulator:' + i)) done++;
-    }
-    return { done, total: mod.total };
-  }
   let done = 0, total = 0;
   for (const { stem, count } of mod.lessons) {
     total += count;
@@ -476,8 +464,7 @@ function getDueReviews() {
 // ── RENDER ───────────────────────────────────────────────────────────────────
 function render(MODULES) {
   const TOTAL_LESSONS = MODULES.reduce((acc, m) => {
-    if (m.isSimulator) return acc + m.total;
-    return acc + m.lessons.reduce((a, l) => a + l.count, 0);
+    return acc + (m.lessons || []).reduce((a, l) => a + l.count, 0);
   }, 0);
   // Modules
   let totalDone = 0;
@@ -499,7 +486,7 @@ function render(MODULES) {
   }).join('');
 
   // Top stats
-  const overallPct = Math.round((totalDone / TOTAL_LESSONS) * 100);
+  const overallPct = TOTAL_LESSONS > 0 ? Math.round((totalDone / TOTAL_LESSONS) * 100) : 0;
   document.getElementById('stat-pct').textContent = overallPct + '%';
   document.getElementById('stat-pct-sub').textContent = totalDone + ' of ' + TOTAL_LESSONS + ' lessons';
 
