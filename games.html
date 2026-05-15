@@ -692,7 +692,7 @@ function esc(s){var d=document.createElement('div');d.textContent=s;return d.inn
 function _bestTag(game,label){var b=_getBest(game);return b!==null?'<div class="gh-best">Best: '+b+' '+label+'</div>':''}
 function showHub(){
   document.getElementById('main-content').innerHTML=
-    '<div class="gh-title">Language Games</div>'+
+    '<div class="gh-title">Games</div>'+
     '<div class="gh-sub">Practice Japanese hospitality vocabulary through fun challenges</div>'+
     '<div class="gh-grid">'+
       '<div class="gh-card" onclick="showGame(\'memory\')"><div class="gh-icon">&#x1F0CF;</div><div class="gh-name">Memory Match</div><div class="gh-desc">Flip cards to match Japanese words with English meanings</div>'+_bestTag('memory','moves')+'</div>'+

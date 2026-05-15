@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png"/>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0a0a23" />
+  <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
+  <title>Language Dojo — Omotenashi Training</title>
+  <meta name="description" content="Practice Japanese hospitality language — vocabulary flashcards and role-play simulator scenarios." />
+  <style>
+    :root {
+      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
+      --accent-yellow:#f1be32; --accent-green:#1fad69; --accent-red:#c5442a;
+      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
+      --border-default:#2a2a4a;
+      --font-sans:'Segoe UI',system-ui,sans-serif;
+      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+    }
+    [data-theme="light"] {
+      --bg-primary:#ffffff; --bg-secondary:#f5f5fa; --bg-tertiary:#eeeef5;
+      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a;
+      --border-default:#c8c9cc;
+    }
+    [data-theme="light"] .nav { background:#0a0a23 !important; }
+    *,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+    html { font-size:18px; }
+    body { background:var(--bg-secondary); color:var(--text-primary); font-family:var(--font-sans); font-size:1rem; line-height:1.75; min-height:100vh; }
+
+    .nav { position:fixed; top:0; left:0; right:0; z-index:200; height:60px; background:#0a0a23; }
+    .nav-inner { max-width:100%; padding:0 32px; height:100%; display:flex; align-items:center; justify-content:space-between; position:relative; }
+    .logo-small { display:none; }
+    @media (max-width:640px) {
+      .nav-inner { padding:0 16px; }
+      .logo-large { display:none !important; }
+      .logo-small { display:block !important; }
+    }
+
+    .main { max-width:680px; margin:0 auto; padding:84px 24px 72px; }
+
+    .page-title { font-family:var(--font-mono); font-size:1.8rem; font-weight:700; color:var(--accent-yellow); text-align:center; margin:40px 0 8px; }
+    .page-sub { font-size:0.85rem; color:var(--text-muted); text-align:center; margin-bottom:32px; }
+
+    .tool-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+    @media (max-width:540px) { .tool-grid { grid-template-columns:1fr; } }
+
+    .tool-card {
+      display:block; text-decoration:none;
+      background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px;
+      padding:24px; cursor:pointer;
+      transition:border-color 0.2s, transform 0.15s;
+      text-align:center;
+    }
+    .tool-card:hover { border-color:rgba(241,190,50,0.4); transform:translateY(-2px); }
+    .tool-icon { font-size:2.2rem; margin-bottom:8px; }
+    .tool-name { font-size:0.95rem; font-weight:700; color:var(--text-primary); margin-bottom:4px; }
+    .tool-desc { font-size:0.78rem; color:var(--text-secondary); line-height:1.45; }
+  </style>
+  <link rel="stylesheet" href="assets/nav.css" />
+  <script src="assets/nav-template.js"></script>
+</head>
+<body>
+
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+
+<div class="main">
+  <div class="page-title">Language Dojo</div>
+  <div class="page-sub">Build real-world Japanese through vocabulary drills and role-play practice.</div>
+
+  <div class="tool-grid">
+    <a href="vocabularypractice.html" class="tool-card">
+      <div class="tool-icon">🃏</div>
+      <div class="tool-name">Vocabulary Practice</div>
+      <div class="tool-desc">Flashcard &amp; dictation drills across 429 hospitality terms in 15 topic sets.</div>
+    </a>
+    <a href="simulator.html" class="tool-card">
+      <div class="tool-icon">🎭</div>
+      <div class="tool-name">Hospitality Simulator</div>
+      <div class="tool-desc">100 role-play scenarios — practice real guest interactions with immediate feedback.</div>
+    </a>
+  </div>
+</div>
+
+<script src="assets/search-init.js"></script>
+<script src="assets/nav.js"></script>
+<script src="assets/analytics.js"></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}</script>
+</body>
+</html>

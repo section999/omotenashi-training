@@ -399,6 +399,7 @@
     .feature-link:hover { text-decoration: underline; }
     [data-theme="light"] .overview { background: var(--bg-secondary); }
     [data-theme="light"] .feature-card { background: var(--bg-primary); }
+    @keyframes modalIn { from { opacity:0; transform:translateY(20px); } to { opacity:1; transform:translateY(0); } }
 
     /* ── START BUTTON ────────────────────────────── */
     .btn-cta {
@@ -535,43 +536,54 @@
         <p class="hero-subtitle">
           The spirit of Japanese Hospitality
         </p>
-        <a class="btn-cta" href="curriculum.html" style="margin-top:16px;">
-          <span class="btn-line1">Get Started</span><span class="btn-line2">(It's free)</span>
-        </a>
-      </div>
-
-    </div>
-  </section>
-
-  <section class="overview" aria-label="Course overview">
-    <div class="overview-inner">
-<p class="features-heading">What you will learn</p>
-      <h2 class="features-title">Everything Japanese hospitality requires</h2>
-
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon">🏯</div>
-          <div class="feature-title">Philosophy &amp; Mindset</div>
-          <div class="feature-desc">The spirit of おもてなし — anticipating needs, reading silence, mastering self-reflection, and leading with humility.</div>
-          <a class="feature-link" href="curriculum.html">Start Module 1 →</a>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">言</div>
-          <div class="feature-title">Language &amp; Keigo</div>
-          <div class="feature-desc">429 hospitality vocabulary terms across 15 topics — from greetings and keigo forms to complaints, payments, and directions.</div>
-          <a class="feature-link" href="vocabularypractice.html">Open Vocabulary →</a>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">🎮</div>
-          <div class="feature-title">Practice &amp; Application</div>
-          <div class="feature-desc">Six interactive games, 100 role-play scenarios, spaced repetition review, and a personal dashboard tracking your progress.</div>
-          <a class="feature-link" href="games.html">Play Games →</a>
+        <div style="margin:48px auto 0;width:100%;max-width:900px;">
+          <div class="features-grid">
+            <div class="feature-card">
+              <div class="feature-icon">🏯</div>
+              <div class="feature-title">Philosophy &amp; Mindset</div>
+              <div class="feature-desc">The spirit of おもてなし — anticipating needs, reading silence, mastering self-reflection, and leading with humility.</div>
+              <a class="feature-link" href="curriculum.html">Start →</a>
+            </div>
+            <div class="feature-card">
+              <div class="feature-icon">言</div>
+              <div class="feature-title">Language &amp; Keigo</div>
+              <div class="feature-desc">Master the language of exceptional service — vocabulary drills, keigo forms, and real guest conversation practice.</div>
+              <a class="feature-link" href="languagedojo.html">Start →</a>
+            </div>
+            <div class="feature-card">
+              <div class="feature-icon">🎮</div>
+              <div class="feature-title">Practice &amp; Application</div>
+              <div class="feature-desc">Six interactive games, 100 role-play scenarios, spaced repetition review, and a personal dashboard tracking your progress.</div>
+              <a class="feature-link" href="games.html">Start →</a>
+            </div>
+          </div>
         </div>
       </div>
+
     </div>
   </section>
 
 </main>
+
+  <!-- LANGUAGE PRACTICE PICKER MODAL -->
+  <div id="langModal" role="dialog" aria-modal="true" aria-label="Choose practice mode" style="display:none;position:fixed;inset:0;z-index:950;background:rgba(0,0,0,0.7);align-items:center;justify-content:center;padding:24px;" onclick="if(event.target===this)closeLangModal()">
+    <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:16px;max-width:520px;width:100%;overflow:hidden;animation:modalIn 0.2s ease;">
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:22px 28px 18px;border-bottom:1px solid var(--border-default);">
+        <span style="font-family:var(--font-mono);font-size:0.95rem;font-weight:700;color:var(--accent-yellow);">言 Language &amp; Keigo</span>
+        <button onclick="closeLangModal()" style="background:none;border:none;color:var(--text-muted);font-size:1.2rem;cursor:pointer;line-height:1;padding:4px 8px;">✕</button>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:24px;">
+        <a href="vocabularypractice.html" style="display:block;background:var(--bg-tertiary);border:1px solid var(--border-default);border-radius:10px;padding:24px 20px;text-decoration:none;transition:border-color 0.18s,transform 0.15s;" onmouseover="this.style.borderColor='rgba(241,190,50,0.45)';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border-default)';this.style.transform='none'">
+          <div style="font-family:var(--font-mono);font-size:0.9rem;font-weight:700;color:var(--text-primary);margin-bottom:8px;">Vocabulary Practice</div>
+          <div style="font-size:0.78rem;color:var(--text-secondary);line-height:1.55;">Flashcard &amp; dictation drills across 429 hospitality terms in 15 topic sets.</div>
+        </a>
+        <a href="simulator.html" style="display:block;background:var(--bg-tertiary);border:1px solid var(--border-default);border-radius:10px;padding:24px 20px;text-decoration:none;transition:border-color 0.18s,transform 0.15s;" onmouseover="this.style.borderColor='rgba(241,190,50,0.45)';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border-default)';this.style.transform='none'">
+          <div style="font-family:var(--font-mono);font-size:0.9rem;font-weight:700;color:var(--text-primary);margin-bottom:8px;">Hospitality Simulator</div>
+          <div style="font-size:0.78rem;color:var(--text-secondary);line-height:1.55;">100 role-play scenarios — practice real guest interactions with immediate feedback.</div>
+        </a>
+      </div>
+    </div>
+  </div>
 
   <script>
 
@@ -597,6 +609,19 @@
         container.appendChild(p);
       }
     })();
+
+    // Language practice picker modal
+    function openLangModal() {
+      var m = document.getElementById('langModal');
+      m.style.display = 'flex';
+      document.addEventListener('keydown', _langModalKey);
+    }
+    function closeLangModal() {
+      var m = document.getElementById('langModal');
+      m.style.display = 'none';
+      document.removeEventListener('keydown', _langModalKey);
+    }
+    function _langModalKey(e) { if (e.key === 'Escape') closeLangModal(); }
 
     // Subtle nav border on scroll
     const nav = document.querySelector('.nav');

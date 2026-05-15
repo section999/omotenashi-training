@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0a0a23" />
+  <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
+  <title>Hospitality Simulator — Omotenashi Training</title>
+  <meta name="description" content="Practice real Japanese hospitality interactions with 100 role-play scenarios and pronunciation feedback." />
+  <style>
+    :root {
+      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
+      --accent-yellow:#f1be32; --accent-blue:#0a2a6a; --accent-blue-rgb:10,42,106;
+      --accent-green:#1fad69; --accent-red:#c5442a;
+      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
+      --text-inverse:#0a0a23; --border-default:#2a2a4a;
+      --font-sans:'Segoe UI',system-ui,sans-serif;
+      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
+    }
+    [data-theme="light"] {
+      --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
+      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a;
+      --text-inverse:#ffffff; --border-default:#c8c9cc;
+      --accent-yellow:#f1be32; --accent-blue:#002ead; --accent-blue-rgb:0,46,173;
+      --accent-green:#1a9058; --accent-red:#c5442a;
+    }
+    [data-theme="light"] .nav { background:#0a0a23 !important; }
+    [data-theme="light"] .msg-bubble { color:#3b3b4f !important; }
+    [data-theme="light"] .msg-label { color:#3b3b4f !important; }
+    [data-theme="light"] .chat-header-title { color:#3b3b4f !important; }
+    [data-theme="light"] .chat-turn-progress { color:#78788a !important; }
+    [data-theme="light"] .choice-btn { color:#3b3b4f; }
+    [data-theme="light"] .choice-btn:hover { color:#1b1b32; }
+    [data-theme="light"] .modal { background:#ffffff !important; border-color:#c8c9cc !important; }
+    [data-theme="light"] .modal-bar { background:#f5f6f7 !important; border-color:#c8c9cc !important; }
+    [data-theme="light"] .modal-bar-title { color:#1b1b32 !important; }
+    [data-theme="light"] .modal-section-title { color:#1b1b32 !important; }
+    [data-theme="light"] .modal-body { background:#ffffff !important; }
+    [data-theme="light"] .modal-check { background:#1b1b32 !important; }
+    [data-theme="light"] .modal-check polyline { stroke:#ffffff; }
+    [data-theme="light"] .modal-btn-next { background:#eaeaef !important; color:#1b1b32 !important; }
+    [data-theme="light"] .modal-btn-next:hover { background:#d8d8e0 !important; }
+    [data-theme="light"] #jp-toast { background:#ffffff; border-color:#c8c9cc; color:#1b1b32; }
+    *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+    html { font-size:18px; }
+    body { background:var(--bg-secondary); color:var(--text-primary); font-family:var(--font-sans); min-height:100vh; }
+
+    /* NAV */
+    .nav { position:fixed; top:0; left:0; right:0; z-index:200; height:60px; background:#0a0a23; backdrop-filter:blur(16px); }
+    .nav-inner { max-width:100%; padding:0 32px; height:100%; display:flex; align-items:center; justify-content:space-between; position:relative; }
+    .logo-small { display:none; }
+    @media (max-width:640px) {
+      .nav-inner { padding:0 16px; }
+      .logo-large { display:none !important; }
+      .logo-small { display:block !important; }
+    }
+
+    /* MAIN */
+    .main { max-width:760px; margin:0 auto; padding:84px 24px 72px; }
+
+    /* SETUP SCREEN */
+    .setup-title { font-family:var(--font-mono); font-size:1.4rem; font-weight:700; color:var(--accent-yellow); margin:32px 0 8px; text-align:center; }
+    .setup-sub { font-size:0.82rem; color:var(--text-muted); margin-bottom:28px; text-align:center; }
+    .setup-card { background:var(--bg-primary); border:1px solid var(--border-default); border-radius:10px; padding:24px 28px; margin-bottom:16px; }
+    .setup-row { margin-bottom:18px; }
+    .setup-row:last-child { margin-bottom:0; }
+    .setup-label { display:block; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); margin-bottom:7px; font-family:var(--font-mono); }
+    .setup-select { width:100%; background:var(--bg-tertiary); color:var(--text-primary); border:1px solid var(--border-default); border-radius:5px; padding:9px 12px; font-size:0.85rem; cursor:pointer; }
+    .tog-group { display:flex; gap:8px; }
+    .tog-btn { flex:1; padding:9px 10px; border-radius:5px; border:1px solid var(--border-default); background:transparent; color:var(--text-secondary); font-size:0.83rem; cursor:pointer; transition:all 0.15s; font-family:inherit; }
+    .tog-btn.active { background:var(--accent-yellow); color:#0a0a23; border-color:var(--accent-yellow); font-weight:700; }
+    .setup-start { width:100%; margin-top:22px; padding:13px; background:var(--accent-yellow); color:#0a0a23; border:none; border-radius:6px; font-size:0.95rem; font-weight:700; cursor:pointer; transition:opacity 0.15s; font-family:inherit; }
+    .setup-start:hover { opacity:0.85; }
+    .setup-stats { font-size:0.8rem; color:var(--text-muted); text-align:center; margin-top:10px; }
+    .setup-stats strong { color:var(--accent-green); }
+
+    /* SIMULATOR SCREEN */
+    #simScreen { display:none; }
+    .sim-topbar { display:flex; align-items:center; gap:12px; margin-top:40px; margin-bottom:18px; }
+    .sim-back-btn { padding:6px 13px; background:transparent; border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.8rem; cursor:pointer; white-space:nowrap; flex-shrink:0; font-family:inherit; }
+    .sim-back-btn:hover { background:var(--bg-tertiary); color:var(--text-primary); }
+    .sim-queue-info { font-family:var(--font-mono); font-size:0.76rem; color:var(--text-muted); white-space:nowrap; flex-shrink:0; }
+    .sim-prog-wrap { flex:1; height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; }
+    .sim-prog-bar { height:100%; background:var(--accent-green); border-radius:3px; transition:width 0.4s; }
+    .sim-loading { text-align:center; padding:60px 24px; color:var(--text-muted); font-size:1rem; }
+
+    /* CHAT */
+    .chat-area { display:flex; flex-direction:column; background:var(--bg-primary); border:1px solid var(--border-default); border-radius:8px; overflow:hidden; }
+    .chat-header { position:relative; padding:14px 20px; border-bottom:1px solid var(--border-default); display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; }
+    .chat-header-title { font-weight:700; font-size:1.2rem; color:#fff; }
+    .chat-turn-progress { position:absolute; right:20px; top:50%; transform:translateY(-50%); font-size:0.7rem; color:rgba(255,255,255,0.35); letter-spacing:0.04em; }
+    .msg-system { display:flex; align-items:center; gap:10px; font-size:0.78rem; color:var(--text-muted); margin:8px 16px; font-style:italic; }
+    .msg-system::before, .msg-system::after { content:''; flex:1; height:1px; background:var(--border-default); }
+    .chat-messages { padding:24px; display:flex; flex-direction:column; gap:18px; min-height:300px; max-height:480px; overflow-y:auto; }
+    .msg { display:flex; gap:12px; align-items:flex-start; }
+    .msg-user { justify-content:flex-end; }
+    .msg-guest > div, .msg-user > div { max-width:50%; }
+    .msg-bubble { max-width:100%; width:100%; padding:14px 18px; border-radius:8px; font-size:1.1rem; line-height:1.7; line-break:strict; overflow-wrap:anywhere; }
+    .msg-guest .msg-bubble { background:var(--bg-tertiary); color:#fff; border-bottom-left-radius:2px; }
+    .msg-user .msg-bubble { background:rgba(31,173,105,0.15); color:#fff; border:1px solid rgba(31,173,105,0.3); border-bottom-right-radius:2px; }
+    .msg-label { font-size:0.85rem; color:var(--text-muted); margin-bottom:4px; }
+    .msg-guest .msg-label { text-align:left; }
+    .msg-user .msg-label { text-align:right; }
+    .chat-choices { padding:18px 24px; border-top:1px solid var(--border-default); display:flex; flex-direction:column; gap:10px; }
+    .choices-label { font-size:0.85rem; font-family:var(--font-mono); text-transform:uppercase; letter-spacing:0.1em; color:var(--text-muted); margin-bottom:4px; text-align:center; }
+    .choice-btn { background:transparent; border:1px solid var(--border-default); color:var(--text-secondary); padding:13px 18px; border-radius:5px; text-align:left; font-size:1.05rem; cursor:pointer; transition:border-color 0.12s,color 0.12s,background 0.12s; line-height:1.5; line-break:strict; width:100%; font-family:inherit; }
+    .choice-btn:hover { border-color:var(--accent-blue); color:#fff; background:rgba(241,190,50,0.06); }
+    .choice-btn.wrong { border-color:var(--accent-red); color:#e07060; opacity:0.6; }
+    .choice-btn.answered { opacity:0.4; cursor:default; pointer-events:none; }
+    .choice-speak-icon { cursor:pointer; font-size:0.85rem; margin-left:4px; flex-shrink:0; opacity:0.45; transition:opacity 0.18s,transform 0.18s; line-height:1; }
+    .choice-speak-icon:hover { opacity:1; transform:scale(1.25); text-shadow:0 0 6px rgba(241,190,50,0.5); }
+    .msg-speak-btn { background:none; border:none; cursor:pointer; font-size:0.85rem; padding:0; vertical-align:middle; opacity:0.55; transition:opacity 0.18s,transform 0.18s; }
+    .msg-speak-btn:hover { opacity:1; transform:scale(1.25); text-shadow:0 0 6px rgba(241,190,50,0.5); }
+    .choice-wrap { display:flex; flex-direction:column; }
+    .choice-row { display:flex; gap:8px; align-items:stretch; }
+    .choice-row .choice-btn { flex:1; }
+    .practice-btn { flex-shrink:0; background:transparent; border:1px solid var(--border-default); color:var(--text-muted); width:44px; border-radius:5px; cursor:pointer; font-size:1.1rem; display:flex; align-items:center; justify-content:center; transition:border-color 0.12s,color 0.12s,background 0.12s; }
+    .practice-btn:hover { border-color:var(--accent-blue); color:var(--accent-blue); }
+    .practice-btn.listening { border-color:var(--accent-red); color:var(--accent-red); background:rgba(197,68,42,0.1); animation:mic-pulse 0.9s ease-in-out infinite; }
+    .practice-btn.done { border-color:var(--accent-green); color:var(--accent-green); }
+    @keyframes mic-pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+    .typing-indicator { display:flex; gap:12px; align-items:flex-start; }
+    .typing-indicator > div { max-width:50%; }
+    .typing-dots { display:flex; align-items:center; gap:5px; padding:14px 18px; background:var(--bg-tertiary); border-radius:8px; border-bottom-left-radius:2px; }
+    .typing-dots span { width:8px; height:8px; border-radius:50%; background:var(--text-muted); display:inline-block; animation:typing-bounce 1.2s ease-in-out infinite; }
+    .typing-dots span:nth-child(2) { animation-delay:0.2s; }
+    .typing-dots span:nth-child(3) { animation-delay:0.4s; }
+    @keyframes typing-bounce { 0%,60%,100% { transform:translateY(0); opacity:0.4; } 30% { transform:translateY(-5px); opacity:1; } }
+    .practice-result { margin-top:6px; font-size:0.83rem; padding:8px 12px; border-radius:5px; background:var(--bg-tertiary); border:1px solid var(--border-default); line-height:1.5; }
+    .psc-good { color:var(--accent-green); }
+    .psc-ok   { color:var(--accent-yellow); }
+    .psc-bad  { color:#e07060; }
+
+    /* PRONUNCIATION */
+    .pron-align { display:flex; flex-wrap:wrap; gap:2px; margin:6px 0 4px; font-size:1.1rem; }
+    .pron-char { display:inline-block; padding:1px 2px; border-radius:3px; min-width:0.6em; text-align:center; transition:background 0.15s; }
+    .pron-match { color:var(--accent-green); background:rgba(31,173,105,0.1); }
+    .pron-wrong { color:#e07060; background:rgba(197,68,42,0.12); text-decoration:underline; text-decoration-color:#e07060; }
+    .pron-extra { color:var(--accent-yellow); background:rgba(241,190,50,0.1); text-decoration:underline; text-decoration-style:dotted; }
+    .pron-missing { color:var(--text-muted); background:rgba(255,255,255,0.03); opacity:0.5; }
+    .pron-gap { display:inline-block; width:0.6em; }
+    .pron-label { font-size:0.68rem; text-transform:uppercase; letter-spacing:0.06em; color:var(--text-muted); margin-bottom:2px; }
+    .pron-retry-msg { font-size:0.82rem; color:var(--accent-yellow); margin-top:4px; animation:fadeIn 0.3s; }
+    .pron-meter { display:flex; align-items:center; gap:6px; margin-bottom:3px; }
+    .pron-meter-track { flex:1; height:6px; background:rgba(255,255,255,0.08); border-radius:3px; overflow:hidden; }
+    .pron-meter-fill { height:100%; border-radius:3px; animation:meterGrow 0.5s ease-out both; }
+    @keyframes meterGrow { from { width:0 !important; } }
+    .pron-summary { font-size:0.78rem; color:var(--text-muted); margin-bottom:6px; }
+    .pron-utterance { font-size:0.82rem; color:var(--text-secondary); margin-bottom:5px; padding:4px 8px; background:rgba(255,255,255,0.03); border-radius:4px; word-break:break-all; }
+    .pron-details summary::-webkit-details-marker { display:none; }
+    .pron-details summary { list-style:none; display:flex; align-items:center; gap:8px; padding:2px 0; cursor:pointer; user-select:none; }
+    .pron-details summary:hover { opacity:0.8; }
+    .pron-details summary::before { content:'\25B6'; font-size:0.6rem; color:var(--text-muted); transition:transform 0.2s; }
+    .pron-details[open] summary::before { content:'\25B6'; transform:rotate(90deg); }
+    @keyframes fadeIn { from { opacity:0; transform:translateY(-4px); } to { opacity:1; transform:translateY(0); } }
+    .wave-bar { display:flex; align-items:flex-end; gap:2px; height:24px; margin:6px 0; justify-content:center; }
+    .wave-bar span { width:4px; background:var(--accent-yellow); border-radius:2px; animation:waveAnim 0.6s ease-in-out infinite alternate; }
+    .wave-bar span:nth-child(1) { animation-delay:0s; height:30%; }
+    .wave-bar span:nth-child(2) { animation-delay:0.08s; height:60%; }
+    .wave-bar span:nth-child(3) { animation-delay:0.16s; height:90%; }
+    .wave-bar span:nth-child(4) { animation-delay:0.08s; height:50%; }
+    .wave-bar span:nth-child(5) { animation-delay:0s; height:70%; }
+    @keyframes waveAnim { 0% { transform:scaleY(0.4); } 100% { transform:scaleY(1); } }
+
+    /* VOICE GUIDE POPOVER */
+    .voice-guide-popover { position:fixed; top:50%; right:24px; transform:translateY(-50%); width:340px; max-width:92vw; background:var(--bg-secondary); border:1px solid var(--border-default); border-radius:10px; padding:0; z-index:1000; box-shadow:0 12px 48px rgba(0,0,0,0.6); opacity:0; visibility:hidden; transition:opacity 0.25s,visibility 0.25s; font-size:0.82rem; line-height:1.6; overflow:hidden; }
+    .voice-guide-popover.open { opacity:1; visibility:visible; }
+    .vg-header { display:flex; align-items:center; gap:10px; padding:14px 18px 10px; border-bottom:1px solid var(--border-default); }
+    .vg-header-icon { width:34px; height:34px; border-radius:8px; background:rgba(241,190,50,0.12); display:flex; align-items:center; justify-content:center; font-size:1.1rem; flex-shrink:0; }
+    .vg-header h4 { font-size:0.9rem; font-weight:700; color:var(--text-primary); margin:0; }
+    .vg-body { padding:12px 18px 14px; }
+    .vg-section { margin-bottom:14px; }
+    .vg-section:last-child { margin-bottom:0; }
+    .vg-section-title { font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--text-muted); margin-bottom:8px; }
+    .vg-steps { display:flex; flex-direction:column; gap:6px; }
+    .vg-step { display:flex; align-items:flex-start; gap:10px; padding:7px 10px; border-radius:6px; background:rgba(255,255,255,0.02); }
+    .vg-step-num { width:20px; height:20px; border-radius:50%; background:rgba(241,190,50,0.15); color:var(--accent-yellow); display:flex; align-items:center; justify-content:center; font-size:0.65rem; font-weight:700; flex-shrink:0; margin-top:1px; }
+    .vg-step-text { color:var(--text-secondary); font-size:0.8rem; line-height:1.5; }
+    .vg-step-text strong { color:var(--text-primary); font-weight:600; }
+    @keyframes guide-glow { 0%,100% { box-shadow:0 0 0 0 rgba(241,190,50,0.4); } 50% { box-shadow:0 0 0 6px rgba(241,190,50,0); } }
+    .practice-btn.guide-glow { animation:guide-glow 1.5s ease-in-out 3; border-color:var(--accent-yellow); }
+    .feedback-badge { display:inline-block; padding:3px 10px; border-radius:99px; font-size:0.7rem; font-family:var(--font-mono); font-weight:700; letter-spacing:0.05em; margin-top:6px; }
+    .badge-perfect { background:rgba(31,173,105,0.15); color:var(--accent-green); border:1px solid rgba(31,173,105,0.3); }
+    .badge-good    { background:rgba(241,190,50,0.1); color:var(--accent-yellow); border:1px solid rgba(241,190,50,0.3); }
+
+    /* TOAST */
+    .tts-toast { position:fixed; bottom:24px; left:50%; transform:translateX(-50%); background:var(--bg-tertiary); border:1px solid var(--border-default); color:var(--text-secondary); font-size:0.85rem; padding:10px 20px; border-radius:8px; z-index:9999; pointer-events:none; opacity:0; transition:opacity 0.2s; }
+    .tts-toast.show { opacity:1; }
+    #jp-toast { position:fixed; bottom:28px; left:50%; transform:translateX(-50%); background:#1b1b32; border:1px solid #3b3b5c; color:#fff; font-size:0.85rem; padding:8px 18px; border-radius:99px; z-index:999; pointer-events:none; opacity:0; transition:opacity 0.2s; display:flex; align-items:center; gap:8px; }
+    #jp-toast.show { opacity:1; }
+
+    /* COMPLETION MODAL */
+    .modal-overlay { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.55); z-index:500; align-items:center; justify-content:center; }
+    .modal-overlay.open { display:flex; }
+    .modal { background:#1b1b32; border:1px solid #3b3b5c; border-radius:0; width:800px; max-width:96vw; overflow:hidden; box-shadow:0 24px 80px rgba(0,0,0,0.7); }
+    .modal-bar { display:flex; align-items:center; justify-content:space-between; padding:12px 16px; border-bottom:1px solid #3b3b5c; background:#1b1b32; }
+    .modal-bar-title { flex:1; text-align:center; font-size:1rem; font-weight:600; color:#fff; padding-left:28px; }
+    .modal-close { width:28px; height:28px; border:2px solid var(--accent-yellow); background:transparent; color:var(--accent-yellow); font-size:1rem; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; flex-shrink:0; transition:background 0.15s; font-family:inherit; }
+    .modal-close:hover { background:rgba(241,190,50,0.2); }
+    .modal-body { padding:44px 32px 36px; display:flex; flex-direction:column; align-items:center; gap:14px; border-bottom:1px solid #3b3b5c; background:#1b1b32; }
+    .modal-check { width:124px; height:124px; border-radius:50%; background:#fff; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .modal-check svg { width:68px; height:68px; }
+    .modal-section-title { font-size:1rem; font-weight:700; color:#fff; text-align:center; }
+    .modal-progress-bar { width:130px; height:5px; background:#3b3b5c; border-radius:0; overflow:hidden; }
+    .modal-progress-fill { height:100%; background:#f1be32; transition:width 0.5s ease; }
+    .modal-percent { font-size:1rem; color:#a3a3c2; margin-top:-4px; }
+    .modal-footer { display:flex; }
+    .modal-btn-next { display:block; width:100%; padding:20px 24px; text-align:center; font-size:1rem; font-weight:600; background:#3b3b5c; color:#fff; border:none; cursor:pointer; text-decoration:none; transition:background 0.15s; font-family:inherit; }
+    .modal-btn-next:hover { background:#4a4a6e; }
+
+    /* MOBILE */
+    @media (max-width:640px) {
+      .msg-guest > div, .msg-user > div { max-width:90%; }
+      .chat-messages { padding:14px; gap:14px; max-height:none; }
+      .msg-bubble { font-size:0.97rem; padding:11px 13px; line-height:1.6; }
+      .msg-label { font-size:0.78rem; }
+      .chat-choices { padding:12px 14px; gap:8px; }
+      .choices-label { font-size:0.75rem; }
+      .choice-btn { font-size:0.93rem; padding:11px 13px; }
+      .practice-btn { width:38px; font-size:1rem; }
+      .chat-header { padding:10px 14px; }
+      .chat-header-title { font-size:1rem; }
+      .main { padding-left:12px; padding-right:12px; }
+    }
+  </style>
+  <link rel="stylesheet" href="assets/nav.css" />
+  <script src="assets/nav-template.js"></script>
+</head>
+<body>
+
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+
+<div id="jp-toast">🔊 <span id="jp-toast-text"></span></div>
+
+<div class="main">
+
+  <!-- SETUP SCREEN -->
+  <div id="setupScreen">
+    <div class="setup-title">Hospitality Simulator</div>
+    <div class="setup-sub">Practice real guest interactions across 100 role-play scenarios with pronunciation feedback.</div>
+    <div class="setup-card">
+      <div class="setup-row">
+        <label class="setup-label" for="simSetupCat">Category</label>
+        <select class="setup-select" id="simSetupCat" onchange="updateSetupStats()">
+          <option value="all">All 100 scenarios</option>
+          <option value="0">Front Desk (23)</option>
+          <option value="1">Concierge &amp; Transportation (15)</option>
+          <option value="2">Room &amp; Housekeeping (16)</option>
+          <option value="3">Dining &amp; Bar (9)</option>
+          <option value="4">Facilities (10)</option>
+          <option value="5">Complaints &amp; Issues (9)</option>
+          <option value="6">Safety &amp; Emergency (8)</option>
+          <option value="7">Special Guests (10)</option>
+        </select>
+      </div>
+      <div class="setup-row">
+        <label class="setup-label">Order</label>
+        <div class="tog-group">
+          <button class="tog-btn active" data-order="sequential" onclick="togOrder(this)">Sequential</button>
+          <button class="tog-btn" data-order="shuffle" onclick="togOrder(this)">Shuffle</button>
+        </div>
+      </div>
+    </div>
+    <button class="setup-start" onclick="startSimulator()">Start Simulator &#8594;</button>
+    <div class="setup-stats" id="setupStats"><strong>100</strong> scenarios available</div>
+  </div>
+
+  <!-- SIMULATOR SCREEN -->
+  <div id="simScreen">
+    <div class="sim-topbar">
+      <button class="sim-back-btn" onclick="showSetupScreen()">&#8592; Setup</button>
+      <div class="sim-prog-wrap"><div class="sim-prog-bar" id="simProgBar" style="width:0%"></div></div>
+      <div class="sim-queue-info" id="simQueueInfo"></div>
+    </div>
+    <div id="simContent">
+      <div class="sim-loading">Loading scenario&#8230;</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- COMPLETION MODAL -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <div class="modal-bar">
+      <span class="modal-bar-title">Scenario Complete!</span>
+      <button class="modal-close" onclick="closeModal()">&#10005;</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-check">
+        <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <polyline points="12,32 24,44 48,18" stroke="#0a0a23" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="modal-section-title" id="modalSectionTitle"></div>
+      <div class="modal-progress-bar"><div class="modal-progress-fill" id="modalProgressFill"></div></div>
+      <div class="modal-percent" id="modalPercent"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="modal-btn-next" onclick="simTryAgain()" style="flex:1;border-right:1px solid #3b3b5c;">&#8635; Try Again</button>
+      <button class="modal-btn-next" id="modalNextBtn" onclick="simNextInQueue()" style="flex:1;">Next Scenario &#8594;</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── CATEGORIES ─────────────────────────────────────────────────────────────────
+const SIM_CATEGORIES = [
+  { name: 'Front Desk',                 ids: [1,4,13,14,37,45,47,48,49,51,52,53,57,60,64,70,71,72,77,84,90,91,99] },
+  { name: 'Concierge & Transportation', ids: [5,7,9,11,25,35,38,21,36,54,63,67,74,92,100] },
+  { name: 'Room & Housekeeping',        ids: [6,10,12,15,16,30,31,32,55,61,62,66,73,76,88,93] },
+  { name: 'Dining & Bar',               ids: [3,26,27,28,29,56,65,79,94] },
+  { name: 'Facilities',                 ids: [8,22,23,24,33,34,58,59,80,95] },
+  { name: 'Complaints & Issues',        ids: [2,17,18,39,75,82,83,87,96] },
+  { name: 'Safety & Emergency',         ids: [19,20,44,69,81,86,89,97] },
+  { name: 'Special Guests',             ids: [40,41,42,43,46,50,68,78,85,98] },
+];
+
+// ── QUEUE STATE ────────────────────────────────────────────────────────────────
+let _simQueue = [];
+let _simQueueIdx = 0;
+
+// ── SETUP UI ───────────────────────────────────────────────────────────────────
+function togOrder(btn) {
+  document.querySelectorAll('.tog-btn[data-order]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+}
+
+function updateSetupStats() {
+  const val = document.getElementById('simSetupCat').value;
+  const count = val === 'all' ? 100 : SIM_CATEGORIES[parseInt(val)].ids.length;
+  document.getElementById('setupStats').innerHTML = '<strong>' + count + '</strong> scenario' + (count !== 1 ? 's' : '') + ' available';
+}
+
+function startSimulator() {
+  const catVal = document.getElementById('simSetupCat').value;
+  const orderBtn = document.querySelector('.tog-btn.active[data-order]');
+  const order = orderBtn ? orderBtn.dataset.order : 'sequential';
+  let ids;
+  if (catVal === 'all') {
+    ids = Array.from({length: 100}, (_, i) => i + 1);
+  } else {
+    ids = [...SIM_CATEGORIES[parseInt(catVal)].ids];
+  }
+  if (order === 'shuffle') simShuffle(ids);
+  _simQueue = ids;
+  _simQueueIdx = 0;
+  showSimScreen();
+  loadScenario(_simQueue[0]);
+}
+
+function showSetupScreen() {
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  if (_simNextTimer) { clearTimeout(_simNextTimer); _simNextTimer = null; }
+  document.getElementById('setupScreen').style.display = '';
+  document.getElementById('simScreen').style.display = 'none';
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.title = 'Hospitality Simulator \u2014 Omotenashi Training';
+}
+
+function showSimScreen() {
+  document.getElementById('setupScreen').style.display = 'none';
+  document.getElementById('simScreen').style.display = 'block';
+}
+
+function updateQueueProgress() {
+  const total = _simQueue.length;
+  const current = _simQueueIdx + 1;
+  const pct = Math.round((current / total) * 100);
+  document.getElementById('simProgBar').style.width = pct + '%';
+  document.getElementById('simQueueInfo').textContent = current + ' / ' + total;
+}
+
+// ── SCENARIO LOADING ───────────────────────────────────────────────────────────
+async function loadScenario(id) {
+  const file = 'scenarios/' + String(id).padStart(2, '0') + '.md';
+  document.getElementById('simContent').innerHTML = '<div class="sim-loading">Loading scenario\u2026</div>';
+  updateQueueProgress();
+  try {
+    const base = location.pathname.replace(/\/[^/]*$/, '/');
+    const res = await fetch(base + file);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const raw = (await res.text()).replace(/\r\n/g, '\n');
+    const scenario = parseMD(raw);
+    if (!scenario) throw new Error('Invalid scenario format');
+    runSimulator(scenario, file);
+  } catch(e) {
+    document.getElementById('simContent').innerHTML =
+      '<div class="sim-loading">Could not load scenario (' + escapeHtml(e.message) +
+      '). <button onclick="loadScenario(' + id + ')" style="background:var(--bg-tertiary);color:var(--text-primary);border:1px solid var(--border-default);border-radius:4px;padding:6px 14px;cursor:pointer;margin:0 8px;font:inherit;">Retry</button>' +
+      ' <button onclick="showSetupScreen()" style="background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:4px;padding:6px 14px;cursor:pointer;font:inherit;">Back to Setup</button></div>';
+  }
+}
+
+function runSimulator(scenario, file) {
+  _simScenario = scenario;
+  _simFileId = file;
+  document.title = scenario.title + ' \u2014 Omotenashi Training';
+  document.getElementById('simContent').innerHTML =
+    '<div class="chat-area" id="chatArea">' +
+      '<div class="chat-header">' +
+        '<div class="chat-header-title" id="chatTitle">' + escapeHtml(scenario.title) + '</div>' +
+        '<span class="chat-turn-progress" id="chatTurnProgress"></span>' +
+      '</div>' +
+      '<div class="chat-messages" id="chatMessages"></div>' +
+      '<div class="chat-choices" id="chatChoices"></div>' +
+    '</div>';
+  const hasNext = _simQueueIdx < _simQueue.length - 1;
+  document.getElementById('modalNextBtn').textContent = hasNext ? 'Next Scenario \u2192' : 'Back to Setup';
+  simStartScenario();
+}
+
+function simNextInQueue() {
+  closeModal();
+  _simQueueIdx++;
+  if (_simQueueIdx < _simQueue.length) {
+    updateQueueProgress();
+    loadScenario(_simQueue[_simQueueIdx]);
+  } else {
+    showSetupScreen();
+  }
+}
+
+// ── SIMULATOR STATE ────────────────────────────────────────────────────────────
+let _simScenario = null;
+let _simTurn = 0;
+let _simTotalScore = 0;
+let _simMaxScore = 0;
+let _simFileId = null;
+let _simNextTimer = null;
+
+function simStartScenario() {
+  if (_simNextTimer) { clearTimeout(_simNextTimer); _simNextTimer = null; }
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  _simTurn = 0;
+  _simTotalScore = 0;
+  _simMaxScore = _simScenario.turns.length * 2;
+  document.getElementById('chatMessages').innerHTML = '';
+  document.getElementById('modalOverlay').classList.remove('open');
+  simRenderTurn();
+}
+
+function simTryAgain() { closeModal(); simStartScenario(); }
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+}
+
+// ── SCENARIO PARSER ────────────────────────────────────────────────────────────
+function parseMD(text) {
+  const fm = {};
+  const fmMatch = text.match(/^---\n([\s\S]*?)\n---/);
+  if (fmMatch) {
+    fmMatch[1].split('\n').forEach(line => {
+      const colon = line.indexOf(':');
+      if (colon > -1) fm[line.slice(0, colon).trim()] = line.slice(colon + 1).trim();
+    });
+  }
+  const turns = [];
+  const sections = text.split(/^## Turn \d+/m).slice(1);
+  for (const sec of sections) {
+    const sysM   = sec.match(/\*\*System:\*\*\s*(.+)/);
+    const guestM = sec.match(/\*\*Guest:\*\*\s*(.+)/);
+    const jpM    = sec.match(/\*\*Guest JP:\*\*\s*(.+)/);
+    const choices = [];
+    const re = /^- \[(\d)\] (.+)\n  - EN: (.+)\n  - Feedback: (.+)/gm;
+    let m;
+    while ((m = re.exec(sec)) !== null) {
+      choices.push({ score: parseInt(m[1]), text: m[2].trim(), label: m[3].trim(), feedback: m[4].trim() });
+    }
+    if (guestM && choices.length) {
+      turns.push({ system: sysM ? sysM[1].trim() : '', guest: guestM[1].trim(), guestJp: jpM ? jpM[1].trim() : '', choices });
+    }
+  }
+  if (!turns.length) return null;
+  return { id: parseInt(fm.id), title: fm.title, description: fm.description, turns };
+}
+
+// ── UTILITIES ──────────────────────────────────────────────────────────────────
+function simShuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function jpWrap(text) {
+  return text
+    .replace(/(ございます|いたします|ください|ていただ|させていただ)/g, '$1<wbr>')
+    .replace(/([をにはがでへともの])/g, '$1<wbr>')
+    .replace(/(から|まで|より|ので|けど|でも|には|との|での|への|ても|ては|して|ました|ます。|です。)/g, '$1<wbr>');
+}
+
+function escapeHtml(str) {
+  return (str || '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+}
+
+function simNorm(s) {
+  return s.replace(/[\s\u3000\u3002\u3001\uff01\uff1f\u300c\u300d\u300e\u300f\u30fb\uff5e]/g, '')
+    .replace(/[\u30fc\uff0d]/g, '')
+    .replace(/[\u3083\u30e3]/g, '\u3084').replace(/[\u3085\u30e5]/g, '\u3086').replace(/[\u3087\u30e7]/g, '\u3088')
+    .replace(/[\u3041\u30a1]/g, '\u3042').replace(/[\u3043\u30a3]/g, '\u3044').replace(/[\u3045\u30a5]/g, '\u3046').replace(/[\u3047\u30a7]/g, '\u3048').replace(/[\u3049\u30a9]/g, '\u304a')
+    .replace(/[\u3063\u30c3]/g, '\u3064')
+    .toLowerCase();
+}
+
+function simStars(score) {
+  const n = score >= 90 ? 5 : score >= 70 ? 4 : score >= 50 ? 3 : score >= 30 ? 2 : 1;
+  return '<span style="color:var(--accent-yellow);font-size:0.85rem;">' + '\u2605'.repeat(n) + '<span style="opacity:0.2;">' + '\u2605'.repeat(5 - n) + '</span></span>';
+}
+
+function simAnalyzePronunciation(spoken, expected) {
+  const a = simNorm(spoken), b = simNorm(expected);
+  if (!b.length) return { score: 100, spoken: [{ char: a || '(silence)', status: 'info' }], expected: [] };
+  if (!a.length) return { score: 0, spoken: [], expected: b.split('').map(c => ({ char: c, status: 'missing' })) };
+  if (a === b) { const chars = a.split('').map(c => ({ char: c, status: 'match' })); return { score: 100, spoken: chars, expected: chars }; }
+  const m = a.length, n = b.length;
+  const dp = Array.from({ length: m + 1 }, () => Array(n + 1).fill(0));
+  for (let i = 0; i <= m; i++) dp[i][0] = i;
+  for (let j = 0; j <= n; j++) dp[0][j] = j;
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      dp[i][j] = a[i-1] === b[j-1] ? dp[i-1][j-1] : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
+  const sRes = [], eRes = [];
+  let i = m, j = n;
+  while (i > 0 || j > 0) {
+    if (i > 0 && j > 0 && a[i-1] === b[j-1]) {
+      sRes.unshift({ char: a[i-1], status: 'match' }); eRes.unshift({ char: b[j-1], status: 'match' }); i--; j--;
+    } else if (j > 0 && (i === 0 || dp[i][j-1] <= dp[i-1][j])) {
+      eRes.unshift({ char: b[j-1], status: 'missing' }); sRes.unshift({ char: '', status: 'gap' }); j--;
+    } else if (i > 0 && (j === 0 || dp[i-1][j] < dp[i][j-1])) {
+      sRes.unshift({ char: a[i-1], status: 'extra' }); eRes.unshift({ char: '', status: 'gap' }); i--;
+    } else {
+      sRes.unshift({ char: a[i-1], status: 'wrong' }); eRes.unshift({ char: b[j-1], status: 'wrong' }); i--; j--;
+    }
+  }
+  const score = Math.max(0, Math.round((1 - dp[m][n] / Math.max(m, n)) * 100));
+  return { score, spoken: sRes, expected: eRes };
+}
+
+function simBuildAlignHtml(chars, label) {
+  const statusMap = { match:'pron-match', wrong:'pron-wrong', extra:'pron-extra', missing:'pron-missing', gap:'pron-gap', info:'' };
+  let html = '<div class="pron-label">' + label + '</div><div class="pron-align">';
+  chars.forEach(function(c) {
+    if (c.status === 'gap') { html += '<span class="pron-gap"></span>'; return; }
+    if (c.status === 'info') { html += '<span style="color:var(--text-muted);font-style:italic;">' + escapeHtml(c.char) + '</span>'; return; }
+    html += '<span class="pron-char ' + (statusMap[c.status] || '') + '">' + escapeHtml(c.char) + '</span>';
+  });
+  return html + '</div>';
+}
+
+function simShowPracticeResult(btn, spoken, analysis, confidence) {
+  const wrap = btn.closest('.choice-wrap');
+  if (!wrap) return;
+  let el = wrap.querySelector('.practice-result');
+  if (!el) { el = document.createElement('div'); el.className = 'practice-result'; wrap.appendChild(el); }
+  const wave = wrap.querySelector('.wave-bar');
+  if (wave) wave.remove();
+  if (analysis === null) {
+    el.innerHTML = '<span class="psc-bad">' + (spoken ? escapeHtml(spoken) : '\u8a8d\u8b58\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u3082\u3046\u4e00\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002') + '</span>';
+    return;
+  }
+  const score = analysis.score;
+  const cls = score >= 80 ? 'psc-good' : score >= 50 ? 'psc-ok' : 'psc-bad';
+  const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
+  const msg = score >= 80 ? '\u4e0a\u624b\u3067\u3059\uff01 Great!' : score >= 50 ? '\u3082\u3046\u5c11\u3057\uff01 Keep practicing' : '\u3082\u3046\u4e00\u5ea6\uff01 Try again';
+  let matchCnt = 0, wrongCnt = 0, extraCnt = 0, missingCnt = 0;
+  if (analysis.expected) analysis.expected.forEach(c => { if (c.status === 'match') matchCnt++; else if (c.status === 'wrong') wrongCnt++; else if (c.status === 'missing') missingCnt++; });
+  if (analysis.spoken) analysis.spoken.forEach(c => { if (c.status === 'extra') extraCnt++; });
+  let parts = [];
+  if (matchCnt) parts.push('<span style="color:var(--accent-green);">\u2713 ' + matchCnt + ' correct</span>');
+  if (wrongCnt) parts.push('<span style="color:#e07060;">\u2717 ' + wrongCnt + ' wrong</span>');
+  if (extraCnt) parts.push('<span style="color:var(--accent-yellow);">+ ' + extraCnt + ' extra</span>');
+  if (missingCnt) parts.push('<span style="color:var(--text-muted);">\u2212 ' + missingCnt + ' missing</span>');
+  let alignHtml = '';
+  if (analysis.expected && analysis.expected.length) alignHtml += simBuildAlignHtml(analysis.expected, 'Expected');
+  if (analysis.spoken && analysis.spoken.length) alignHtml += simBuildAlignHtml(analysis.spoken, 'You said');
+  el.innerHTML =
+    '<div class="pron-meter"><div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div><span class="' + cls + '" style="font-weight:700;font-size:0.85rem;">' + score + '%</span></div>' +
+    '<div style="font-size:0.88rem;margin-bottom:2px;">' + msg + ' ' + simStars(score) + '</div>' +
+    (parts.length ? '<div class="pron-summary">' + parts.join(' \u00b7 ') + '</div>' : '') +
+    (spoken ? '<div class="pron-utterance">\ud83d\udcac ' + escapeHtml(spoken) + '</div>' : '') +
+    alignHtml;
+}
+
+// ── TTS ────────────────────────────────────────────────────────────────────────
+let _ttsToastTimer = null;
+function showTtsToast(msg) {
+  let el = document.getElementById('ttsToast');
+  if (!el) { el = document.createElement('div'); el.id = 'ttsToast'; el.className = 'tts-toast'; document.body.appendChild(el); }
+  el.textContent = msg;
+  el.classList.add('show');
+  if (_ttsToastTimer) clearTimeout(_ttsToastTimer);
+  _ttsToastTimer = setTimeout(() => el.classList.remove('show'), 3000);
+}
+
+const _JA_VOICE_PRIORITY = [
+  { match: 'Nanami Online (Natural)',  rate: 0.85, pitch: 1.0  },
+  { match: 'Keita Online (Natural)',   rate: 0.85, pitch: 1.0  },
+  { match: 'Aoi Online (Natural)',     rate: 0.85, pitch: 1.0  },
+  { match: 'Daichi Online (Natural)',  rate: 0.85, pitch: 1.0  },
+  { match: 'Google \u65e5\u672c\u8a9e', rate: 0.84, pitch: 1.0  },
+  { match: 'Microsoft Nanami',         rate: 0.85, pitch: 1.02 },
+  { match: 'Microsoft Keita',          rate: 0.85, pitch: 1.0  },
+  { match: 'Microsoft Haruka',         rate: 0.84, pitch: 1.02 },
+  { match: 'Kyoko',                    rate: 0.83, pitch: 1.0  },
+  { match: 'O-ren',                    rate: 0.83, pitch: 1.0  },
+  { match: 'Otoya',                    rate: 0.83, pitch: 1.0  },
+  { match: 'Google Japanese',          rate: 0.84, pitch: 1.0  },
+];
+let _jaVoice = null, _jaVoiceParams = { rate: 0.85, pitch: 1.0 }, _voiceLoadAttempts = 0;
+
+function _loadJaVoice() {
+  if (!window.speechSynthesis) return;
+  let voices = speechSynthesis.getVoices();
+  if (!voices.length || (voices.length === 1 && voices[0].name === 'default')) {
+    if (_voiceLoadAttempts < 8) { _voiceLoadAttempts++; setTimeout(_loadJaVoice, 300); return; }
+    voices = speechSynthesis.getVoices();
+  }
+  for (const { match, rate, pitch } of _JA_VOICE_PRIORITY) {
+    const v = voices.find(v => v.name.includes(match));
+    if (v) { _jaVoice = v; _jaVoiceParams = { rate, pitch }; return; }
+  }
+  const fallback = voices.find(v => v.lang && v.lang.startsWith('ja'));
+  if (fallback) { _jaVoice = fallback; _jaVoiceParams = { rate: 0.83, pitch: 1.0 }; }
+}
+if (window.speechSynthesis) { speechSynthesis.onvoiceschanged = _loadJaVoice; _loadJaVoice(); }
+
+let _ttsKeepAliveTimer = null;
+function _ttsKeepAlive() {
+  if (!window.speechSynthesis) return;
+  if (speechSynthesis.speaking) { speechSynthesis.pause(); speechSynthesis.resume(); _ttsKeepAliveTimer = setTimeout(_ttsKeepAlive, 10000); }
+}
+function _splitJp(text) {
+  const chunks = text.match(/[^\u3002\uff01\uff1f\n]+[\u3002\uff01\uff1f\n]?/g) || [text];
+  return chunks.map(c => c.trim()).filter(Boolean);
+}
+function speakJp(text) {
+  if (!window.speechSynthesis) { showTtsToast('\u304a\u4f7f\u3044\u306e\u30d6\u30e9\u30a6\u30b6\u306f\u97f3\u58f0\u5408\u6210\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u305b\u3093\u3002'); return; }
+  if (!_jaVoice) { _loadJaVoice(); if (!_jaVoice) { showTtsToast('\u65e5\u672c\u8a9e\u97f3\u58f0\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002Chrome\u307e\u305f\u306fEdge\u3092\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002'); return; } }
+  speechSynthesis.cancel();
+  if (_ttsKeepAliveTimer) { clearTimeout(_ttsKeepAliveTimer); _ttsKeepAliveTimer = null; }
+  const chunks = _splitJp(text);
+  const { rate, pitch } = _jaVoiceParams;
+  function speakChunk(i) {
+    if (i >= chunks.length) return;
+    const chunk = chunks[i];
+    const chunkPitch = (/[\uff1f\u304b]$/.test(chunk)) ? Math.min(pitch + 0.08, 1.3) : pitch;
+    if (i > 0) { const p = new SpeechSynthesisUtterance('\u3000'); p.voice = _jaVoice; p.lang = 'ja-JP'; p.rate = 0.1; p.volume = 0; speechSynthesis.speak(p); }
+    const utter = new SpeechSynthesisUtterance(chunk);
+    utter.lang = 'ja-JP'; utter.voice = _jaVoice; utter.rate = rate; utter.pitch = chunkPitch; utter.volume = 1.0;
+    utter.onend = () => speakChunk(i + 1);
+    utter.onerror = e => { if (e && e.error !== 'interrupted') showTtsToast('\u97f3\u58f0\u306e\u518d\u751f\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002'); };
+    speechSynthesis.speak(utter);
+    if (_ttsKeepAliveTimer) clearTimeout(_ttsKeepAliveTimer);
+    _ttsKeepAliveTimer = setTimeout(_ttsKeepAlive, 10000);
+  }
+  speakChunk(0);
+}
+const simSpeak = speakJp;
+
+// ── SPEECH RECOGNITION ─────────────────────────────────────────────────────────
+let _simActiveRec = null, _simRetryTimer = null, _simAutoSelectTimer = null, _lastPracticeResult = null;
+
+function simStartPractice(expectedText, btn) {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) { alert('\u3053\u306e\u30d6\u30e9\u30a6\u30b6\u306f\u97f3\u58f0\u8a8d\u8b58\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u305b\u3093\u3002\nChrome\u3001Edge\u3001\u307e\u305f\u306f Safari \u3092\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002'); return; }
+  if (location.protocol === 'http:' && /iPhone|iPad|iPod/.test(navigator.userAgent)) { alert('iOS Safari \u3067\u306f HTTPS \u63a5\u7d9a\u304c\u5fc5\u8981\u3067\u3059\u3002'); return; }
+  if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  document.querySelectorAll('.practice-btn.listening').forEach(b => { b.classList.remove('listening', 'done'); b.textContent = '\ud83c\udfa4'; });
+  const recognition = new SR();
+  recognition.lang = 'ja-JP';
+  recognition.interimResults = false;
+  recognition.continuous = false;
+  recognition.maxAlternatives = 3;
+  _simActiveRec = recognition;
+  let gotResult = false;
+  btn.classList.add('listening');
+  btn.textContent = '\u23f9';
+  simShowWave(btn, true);
+  try { recognition.start(); }
+  catch(e) { btn.classList.remove('listening'); btn.textContent = '\ud83c\udfa4'; simShowWave(btn, false); simShowPracticeResult(btn, null, null, null); return; }
+  recognition.onresult = function(event) {
+    gotResult = true; _simActiveRec = null;
+    let bestSpoken = event.results[0][0].transcript, bestConf = event.results[0][0].confidence;
+    for (let k = 0; k < event.results[0].length; k++) {
+      if (event.results[0][k].confidence > bestConf) { bestConf = event.results[0][k].confidence; bestSpoken = event.results[0][k].transcript; }
+    }
+    const analysis = simAnalyzePronunciation(bestSpoken, expectedText);
+    btn.classList.remove('listening'); btn.classList.add('done'); btn.textContent = '\ud83c\udfa4';
+    simShowWave(btn, false);
+    simShowPracticeResult(btn, bestSpoken, analysis, bestConf);
+    _lastPracticeResult = { spoken: bestSpoken, analysis, confidence: bestConf };
+    const turn = _simScenario ? _simScenario.turns[_simTurn] : null;
+    if (turn) {
+      const idx = simMatchChoice(bestSpoken, turn.choices);
+      if (idx !== null) {
+        if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
+        _simAutoSelectTimer = setTimeout(() => { _simAutoSelectTimer = null; simSelectChoice(idx); }, 1200);
+        return;
+      }
+    }
+    if (analysis.score < 50) {
+      _simRetryTimer = setTimeout(() => {
+        _simRetryTimer = null;
+        const wrap = btn.closest('.choice-wrap');
+        if (wrap) {
+          const el = wrap.querySelector('.practice-result');
+          if (el) { const r = document.createElement('div'); r.className = 'pron-retry-msg'; r.textContent = '\ud83d\udd04 \u3082\u3046\u4e00\u5ea6\u8a71\u3057\u3066\u304f\u3060\u3055\u3044 Speak again\u2026'; el.appendChild(r); }
+        }
+        simStartPractice(expectedText, btn);
+      }, 2000);
+    }
+  };
+  recognition.onerror = function(event) {
+    recognition.abort(); _simActiveRec = null;
+    btn.classList.remove('listening'); btn.textContent = '\ud83c\udfa4';
+    simShowWave(btn, false);
+    if (event.error === 'aborted') return;
+    if (event.error === 'not-allowed') simShowPracticeResult(btn, 'Microphone access denied. Please allow microphone access in your browser settings.', null, null);
+    else if (event.error === 'network') simShowPracticeResult(btn, '\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30a8\u30e9\u30fc\u3067\u3059\u3002\u63a5\u7d9a\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044', null, null);
+    else simShowPracticeResult(btn, null, null, null);
+  };
+  recognition.onend = function() {
+    if (_simActiveRec === recognition) _simActiveRec = null;
+    btn.classList.remove('listening');
+    if (btn.textContent === '\u23f9') btn.textContent = '\ud83c\udfa4';
+    simShowWave(btn, false);
+    if (!gotResult) simShowPracticeResult(btn, null, null, null);
+  };
+}
+
+function simShowWave(btn, show) {
+  const wrap = btn.closest('.choice-wrap');
+  if (!wrap) return;
+  let el = wrap.querySelector('.wave-bar');
+  if (!show) { if (el) el.remove(); return; }
+  if (el) return;
+  el = document.createElement('div');
+  el.className = 'wave-bar';
+  el.innerHTML = '<span></span><span></span><span></span><span></span><span></span>';
+  const existing = wrap.querySelector('.practice-result');
+  if (existing) wrap.insertBefore(el, existing);
+  else wrap.appendChild(el);
+}
+
+function simMatchChoice(transcript, choices) {
+  const t = simNorm(transcript);
+  if (!t) return null;
+  let bestIdx = null, bestScore = 0;
+  choices.forEach((c, idx) => {
+    const ct = simNorm(c.text);
+    let score = 0;
+    if (ct.includes(t) || t.includes(ct)) { score = Math.min(t.length, ct.length) / Math.max(t.length, ct.length) * 100; }
+    else { let mc = 0; for (let i = 0; i < t.length; i++) { if (ct.indexOf(t[i]) >= 0) mc++; } score = (mc / Math.max(t.length, ct.length)) * 50; }
+    if (score > bestScore) { bestScore = score; bestIdx = idx; }
+  });
+  return bestScore > 30 ? bestIdx : null;
+}
+
+// ── VOICE GUIDE ────────────────────────────────────────────────────────────────
+function simOpenGuide() { const p = document.getElementById('voiceGuidePopover'); if (p) p.classList.add('open'); }
+function simCloseGuide() { const p = document.getElementById('voiceGuidePopover'); if (p) p.classList.remove('open'); }
+
+// ── SIMULATOR RENDER ───────────────────────────────────────────────────────────
+let _toastTimer = null;
+
+function simRenderTurn() {
+  if (_simActiveRec) { _simActiveRec.abort(); _simActiveRec = null; }
+  if (_simRetryTimer) { clearTimeout(_simRetryTimer); _simRetryTimer = null; }
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
+  _lastPracticeResult = null;
+  const turn = _simScenario.turns[_simTurn];
+  const prog = document.getElementById('chatTurnProgress');
+  if (prog) prog.textContent = 'Turn ' + (_simTurn + 1) + '/' + _simScenario.turns.length;
+  if (turn.system) simAddSystemMessage(turn.system);
+  simAddGuestMessage(turn.guest, turn.guestJp || '');
+  const choices = simShuffle([...turn.choices]);
+  const choicesEl = document.getElementById('chatChoices');
+  choicesEl.innerHTML =
+    '<div style="display:flex;align-items:center;justify-content:center;margin-bottom:10px;position:relative;">' +
+      '<div style="text-align:center;">' +
+        '<div class="choices-label" style="margin:0;font-size:0.95rem;">Your response</div>' +
+        '<div style="display:flex;align-items:center;justify-content:center;gap:10px;font-size:0.78rem;color:var(--text-muted);margin-top:2px;">' +
+          '<span>Click or <span style="font-size:0.82rem;">\ud83c\udfa4</span> to speak</span>' +
+          '<span style="color:var(--border-default);font-size:0.6rem;">|</span>' +
+          '<span><span style="font-size:0.82rem;">\ud83d\udd0a</span> to hear pronunciation</span>' +
+        '</div>' +
+      '</div>' +
+      '<div class="voice-guide-popover" id="voiceGuidePopover" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()">' +
+        '<div class="vg-header"><div class="vg-header-icon">\ud83c\udfa4</div><div><h4>Pronunciation Guide</h4></div></div>' +
+        '<div class="vg-body"><div class="vg-section"><div class="vg-section-title">How to use</div><div class="vg-steps">' +
+          '<div class="vg-step"><span class="vg-step-num">1</span><span class="vg-step-text">Press the <strong>\ud83c\udfa4 button</strong> next to any phrase</span></div>' +
+          '<div class="vg-step"><span class="vg-step-num">2</span><span class="vg-step-text">Allow <strong>microphone access</strong> when prompted</span></div>' +
+          '<div class="vg-step"><span class="vg-step-num">3</span><span class="vg-step-text">Read the Japanese phrase <strong>out loud</strong></span></div>' +
+          '<div class="vg-step"><span class="vg-step-num">4</span><span class="vg-step-text">Get scored on <strong>pronunciation</strong> with character-by-character feedback</span></div>' +
+        '</div></div></div>' +
+      '</div>' +
+    '</div>' +
+    choices.map(c => {
+      const idx = turn.choices.indexOf(c);
+      const safeText = c.text.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+      return '<div class="choice-wrap">' +
+        '<div class="choice-row">' +
+          '<button class="choice-btn" data-idx="' + idx + '" onclick="simSelectChoice(' + idx + ')">' +
+            '<strong>' + jpWrap(c.text) + '</strong>' +
+            '<span class="choice-speak-icon" tabindex="0" role="button" data-speak="' + safeText + '" onclick="event.stopPropagation();simSpeak(this.dataset.speak)" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.stopPropagation();event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation"> \ud83d\udd0a</span>' +
+            (c.label ? '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">' + escapeHtml(c.label) + '</div>' : '') +
+          '</button>' +
+          '<button class="practice-btn" data-practice="' + safeText + '" onclick="simStartPractice(this.dataset.practice,this)" onmouseenter="simOpenGuide()" onmouseleave="simCloseGuide()" title="Click, allow mic, then speak aloud">\ud83c\udfa4</button>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  if (!localStorage.getItem('_voiceGuideSeen')) {
+    localStorage.setItem('_voiceGuideSeen', '1');
+    setTimeout(() => {
+      document.querySelectorAll('.practice-btn').forEach(b => b.classList.add('guide-glow'));
+      const toast = document.getElementById('jp-toast');
+      if (toast) {
+        document.getElementById('jp-toast-text').textContent = 'Click \ud83c\udfa4 to practice speaking aloud!';
+        toast.classList.add('show');
+        clearTimeout(_toastTimer);
+        _toastTimer = setTimeout(() => toast.classList.remove('show'), 5000);
+      }
+      setTimeout(() => document.querySelectorAll('.practice-btn.guide-glow').forEach(b => b.classList.remove('guide-glow')), 5000);
+    }, 800);
+  }
+}
+
+function simSelectChoice(idx) {
+  if (_simAutoSelectTimer) { clearTimeout(_simAutoSelectTimer); _simAutoSelectTimer = null; }
+  const btn = document.querySelector('.choice-btn[data-idx="' + idx + '"]');
+  if (btn && (btn.classList.contains('wrong') || btn.classList.contains('answered'))) return;
+  const turn = _simScenario.turns[_simTurn];
+  const choice = turn.choices[idx];
+  if (choice.score === 0) {
+    _lastPracticeResult = null;
+    if (btn) { btn.classList.add('wrong'); if (choice.feedback) btn.innerHTML += '<div style="font-size:0.85rem;margin-top:6px;color:#e07060;">' + escapeHtml(choice.feedback) + '</div>'; }
+    return;
+  }
+  document.querySelectorAll('.choice-btn').forEach(b => b.classList.add('answered'));
+  _simTotalScore += choice.score;
+  const badge = choice.score === 2
+    ? '<span class="feedback-badge badge-perfect">\u2713 Perfect</span>'
+    : '<span class="feedback-badge badge-good">\u25b3 Good</span>';
+  simAddUserMessage(choice.text, choice.label || '', choice.feedback || '', badge, _lastPracticeResult);
+  _lastPracticeResult = null;
+  _simTurn++;
+  const msgs = document.getElementById('chatMessages');
+  const typer = document.createElement('div');
+  typer.className = 'typing-indicator';
+  typer.innerHTML = '<div><div class="typing-dots"><span></span><span></span><span></span></div></div>';
+  msgs.appendChild(typer);
+  msgs.scrollTop = msgs.scrollHeight;
+  if (window.innerWidth <= 640) typer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  _simNextTimer = setTimeout(() => {
+    _simNextTimer = null;
+    typer.remove();
+    if (_simTurn < _simScenario.turns.length) simRenderTurn();
+    else simShowResult();
+  }, 1200);
+}
+
+function simAddSystemMessage(text) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg-system';
+  div.textContent = text;
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function simAddGuestMessage(text, jp) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg msg-guest';
+  const safeJp = jp.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  div.innerHTML =
+    '<div><div class="msg-label">Guest</div><div class="msg-bubble">' +
+    '<strong>' + jpWrap(jp || text) + '</strong>' +
+    (jp ? ' <button class="msg-speak-btn" data-speak="' + safeJp + '" onclick="simSpeak(this.dataset.speak)" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation">\ud83d\udd0a</button>' : '') +
+    (jp ? '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:3px;">' + escapeHtml(text) + '</div>' : '') +
+    '</div></div>';
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+  if (window.innerWidth <= 640) div.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function simAddUserMessage(jp, label, feedback, badge, practiceResult) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'msg msg-user';
+  let practiceHtml = '';
+  if (practiceResult && practiceResult.analysis) {
+    const pr = practiceResult;
+    const score = pr.analysis.score;
+    const fillColor = score >= 80 ? 'var(--accent-green)' : score >= 50 ? 'var(--accent-yellow)' : '#e07060';
+    let mc = 0, wc = 0, ec = 0, mis = 0;
+    if (pr.analysis.expected) pr.analysis.expected.forEach(c => { if (c.status === 'match') mc++; else if (c.status === 'wrong') wc++; else if (c.status === 'missing') mis++; });
+    if (pr.analysis.spoken) pr.analysis.spoken.forEach(c => { if (c.status === 'extra') ec++; });
+    let parts = [];
+    if (mc) parts.push('<span style="color:var(--accent-green);">' + mc + ' correct</span>');
+    if (wc) parts.push('<span style="color:#e07060;">' + wc + ' wrong</span>');
+    if (ec) parts.push('<span style="color:var(--accent-yellow);">+' + ec + '</span>');
+    if (mis) parts.push('<span style="color:var(--text-muted);">-' + mis + '</span>');
+    let alignHtml = '';
+    if (pr.analysis.expected && pr.analysis.expected.length) alignHtml += simBuildAlignHtml(pr.analysis.expected, 'Expected');
+    if (pr.analysis.spoken && pr.analysis.spoken.length) alignHtml += simBuildAlignHtml(pr.analysis.spoken, 'You said');
+    practiceHtml =
+      '<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border-default);">' +
+      '<details class="pron-details"><summary>' +
+        '<span style="font-size:0.78rem;color:var(--text-muted);flex-shrink:0;">\ud83c\udfa4 Practice</span>' +
+        '<div class="pron-meter-track" style="flex:1;height:4px;"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div>' +
+        '<span style="font-weight:700;font-size:0.82rem;color:' + fillColor + ';flex-shrink:0;">' + score + '%</span>' +
+      '</summary>' +
+      '<div style="margin-top:8px;">' +
+        '<div class="pron-meter" style="margin-bottom:4px;"><div class="pron-meter-track"><div class="pron-meter-fill" style="width:' + score + '%;background:' + fillColor + ';"></div></div><span style="font-weight:700;font-size:0.85rem;color:' + fillColor + ';">' + score + '% ' + simStars(score) + '</span></div>' +
+        (parts.length ? '<div class="pron-summary" style="margin-bottom:0;">' + parts.join(' \u00b7 ') + '</div>' : '') +
+        (pr.spoken ? '<div class="pron-utterance" style="margin-bottom:0;">\ud83d\udcac ' + escapeHtml(pr.spoken) + '</div>' : '') +
+        alignHtml +
+      '</div></details></div>';
+  }
+  div.innerHTML =
+    '<div><div class="msg-label">You (Staff)</div><div class="msg-bubble">' +
+    '<div style="display:flex;align-items:flex-start;gap:8px;"><span style="flex:1;">' + jpWrap(jp) + '</span>' +
+    '<button class="msg-speak-btn" data-speak="' + jp.replace(/"/g,'&quot;').replace(/'/g,'&#39;') + '" onclick="simSpeak(this.dataset.speak)" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();simSpeak(this.dataset.speak)}" title="Hear pronunciation">\ud83d\udd0a</button></div>' +
+    (label ? '<div style="font-size:0.82rem;color:var(--text-muted);margin-top:4px;">' + escapeHtml(label) + '</div>' : '') +
+    '<div style="margin-top:8px;">' + badge + '</div>' +
+    (feedback ? '<div style="font-size:0.85rem;color:var(--text-muted);margin-top:6px;font-style:italic;">' + escapeHtml(feedback) + '</div>' : '') +
+    practiceHtml +
+    '</div></div>';
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function simShowResult() {
+  document.getElementById('chatChoices').innerHTML = '';
+  const pct = Math.round((_simTotalScore / _simMaxScore) * 100);
+  const mo = _simFileId.match(/(\d+)\.md$/);
+  if (mo) try { localStorage.setItem('omotenashi:simulator:' + parseInt(mo[1]), '1'); } catch(e) {}
+  document.getElementById('modalSectionTitle').textContent = _simScenario.title;
+  const fill = document.getElementById('modalProgressFill');
+  fill.style.width = pct + '%';
+  fill.style.background = pct >= 80 ? '#1fad69' : pct >= 50 ? '#f1be32' : '#c5442a';
+  document.getElementById('modalPercent').textContent = pct + '% complete';
+  const hasNext = _simQueueIdx < _simQueue.length - 1;
+  document.getElementById('modalNextBtn').textContent = hasNext ? 'Next Scenario \u2192' : 'Back to Setup';
+  document.getElementById('modalOverlay').classList.add('open');
+}
+
+// ── INIT: pre-select category from URL param ───────────────────────────────────
+(function() {
+  try {
+    const params = new URLSearchParams(location.search);
+    const cat = params.get('cat');
+    if (cat !== null) {
+      const sel = document.getElementById('simSetupCat');
+      if (sel) { sel.value = cat; updateSetupStats(); }
+    }
+  } catch(e) {}
+})();
+</script>
+<script src="assets/search-init.js"></script>
+<script src="assets/nav.js"></script>
+<script src="assets/analytics.js"></script>
+<script>if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}</script>
+</body>
+</html>
