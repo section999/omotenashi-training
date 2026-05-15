@@ -1,0 +1,52 @@
+---
+id: m4-leadership-04
+section: 4
+title: Giving Feedback in Japanese Culture
+---
+
+Feedback is one of the most powerful and most delicate tools in professional development. Delivered well, it accelerates growth, builds trust, and deepens professional relationships. Delivered poorly, it creates shame, defensiveness, and a reluctance to take risks. In Japanese workplace culture, where face-saving and group harmony are deeply embedded values, the art of giving feedback requires particular sensitivity and skill.
+
+### The Cultural Context
+
+Japanese professional culture places high value on *wa* (和 — harmony). Direct, blunt criticism — common in some Western professional environments — is experienced in Japanese contexts as aggressive, disrespectful, and damaging to the relationship. This does not mean that honest feedback is avoided entirely; it means that it must be delivered in a way that preserves the dignity of the recipient and the harmony of the team.
+
+This cultural context does not require dishonesty. It requires care in timing, setting, tone, and framing. Honest, developmental feedback — delivered privately, respectfully, and with genuine positive intent — is not only acceptable in Japanese professional culture, it is an expression of care.
+
+### The Four Conditions for Feedback
+
+**1. Privacy**
+Feedback that points to a shortcoming is always given privately — never in front of colleagues, guests, or anyone whose presence might cause the recipient embarrassment. Even gentle, well-intentioned feedback can become devastating if delivered publicly.
+
+**2. Timing**
+Immediate correction during a guest interaction is almost never appropriate. Wait for a natural break, or for after the shift. The exception is a safety issue or an error severe enough that not correcting it immediately would cause worse harm.
+
+**3. Specificity**
+Effective feedback is specific: not "you need to be more attentive" but "when the couple at table four were ready to order, there was about a five-minute wait — next time, if you notice they have closed their menus, that's a good signal to approach." Specific feedback is actionable; vague feedback generates anxiety without direction.
+
+**4. Positive framing**
+In Japanese professional culture, feedback is often framed within a context of affirmation — acknowledging what is working before naming what could be improved. This is not a formality; it is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability.
+
+---
+
+## Key Phrases
+
+**一つアドバイスをさせていただいてもよろしいでしょうか (hitotsu adobaisu wo sasete itadaite mo yoroshii deshō ka)** *(Hitotsu adobaisu wo sasete itadaite mo yoroshii deshō ka?)*
+"May I offer one piece of advice?" — the standard polite opener for developmental feedback; asking permission signals respect and creates a receptive context for what follows
+
+**次はこうしてみましょう (tsugi wa kō shite mimashō)** *(Tsugi wa kō shite mimashō.)*
+"Next time, let's try it this way." — a forward-looking, collaborative framing for feedback that positions the conversation as growth-oriented rather than corrective
+
+---
+
+## Quiz
+
+**You notice a junior colleague forgot to confirm a guest's allergy at the time of ordering. The meal has not yet been served. What is the right approach?**
+
+- A. Correct them loudly at the pass so all kitchen staff are aware
+- B. Quietly handle it yourself immediately, then find a private moment after service to discuss what happened and why checking is important
+- C. Let it pass — the guest did not seem concerned
+- D. Submit a written report to the manager
+
+**Correct Answer:** Quietly handle it yourself immediately, then find a private moment after service to discuss what happened and why checking is important
+
+**Explanation:** The priority in the moment is the guest's safety — handle it immediately and without drama. The developmental conversation comes later, privately, and focuses on understanding and growth rather than blame.
