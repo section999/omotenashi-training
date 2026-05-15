@@ -4,15 +4,35 @@ section: 14
 title: 指導 (shidou)
 ---
 
-**Meaning:** instruction / guidance
+**Pronunciation:** shi-**dou**
+**Register:** Formal — used in professional and hospitality management contexts when a senior staff member trains, corrects, or mentors a subordinate.
 
-指導 refers to guiding or supervising employees to ensure proper performance. It can involve correcting mistakes, teaching procedures, and offering advice. Clear instruction prevents errors and improves productivity. Supervisors must balance guidance with autonomy for effective management.
+指導 means instruction, guidance, or supervision, and it plays a central role in Japanese workplace culture. In hospitality settings, 指導 is how senior staff transmit the standards of omotenashi to new employees. It encompasses teaching procedures, correcting errors, demonstrating proper technique, and offering constructive feedback. The concept goes beyond simple instruction — it carries a sense of nurturing professional development with patience and care. Hotels place great importance on thorough 指導 during onboarding, as first impressions with guests depend on well-trained staff.
 
-**Example:**
+In practice, a senior concierge or front desk supervisor will give 指導 by walking a new hire through actual guest interactions, then debriefing afterward to highlight areas for improvement. Good 指導 balances correction with encouragement, reflecting the Japanese principle of 育てる (sodateru — to raise, to cultivate). Phrases such as ご指導よろしくお願いします (go-shidou yoroshiku onegai shimasu — "I ask for your kind guidance") are commonly used by new staff as a humble expression of willingness to learn.
 
-先輩が新人に業務の指導をしています。
+## Example Sentences
 
-*A senior employee is giving guidance to a new employee.*
+**1.** 先輩が新人スタッフにフロント業務の指導をしております。
+*Senpai ga shinjin sutaffu ni furonto gyoumu no shidou wo shite orimasu.*
+"A senior staff member is providing guidance on front desk operations to the new employee."
+
+**2.** 丁寧なご指導のおかげで、業務に自信が持てるようになりました。
+*Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.*
+"Thanks to your thorough guidance, I have grown confident in my duties."
+
+**3.** 新人研修では、接客マナーについての指導を重点的に行っています。
+*Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*
+"In new employee training, we focus heavily on guidance regarding guest service etiquette."
+
+## Related Expressions
+
+- **ご指導ください (go-shidou kudasai)** — a polite request for guidance, used by staff seeking direction from a superior
+- **OJT (on-the-job training)** — the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting
+
+## Common Mistakes
+
+Learners sometimes confuse 指導 with 教育 (kyouiku — education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors — it implies the speaker is the one guiding, so this would be disrespectful upward. Always use ご指導 with the honorific prefix when referring to the guidance you receive from someone above you.
 
 ---
 
@@ -25,4 +45,3 @@ title: 指導 (shidou)
 **Answer:** 指導
 
 **Explanation:** 指導 (shidou) means instruction or guidance — supervising employees, correcting mistakes, and teaching procedures to improve performance.
-

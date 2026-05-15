@@ -4,9 +4,35 @@ section: 23
 title: 徒歩 (toho)
 ---
 
-"徒歩" refers to traveling by walking. Staff use it to give directions for nearby locations. Providing approximate walking times improves guest planning. Clear communication prevents misunderstandings about distance.
+**Pronunciation:** **to**-ho
+**Register:** Neutral to Slightly Formal — 徒歩 is the standard written and spoken term for walking as a mode of transport. It is more formal and precise than simply saying 歩いて (aruite, walking), making it the preferred choice in professional hospitality contexts. Staff at hotels and ryokan routinely use 徒歩〇分 as a standard distance measurement in guest communications.
 
-*Example: 駅まで徒歩10分です。* (It's a 10-minute walk to the station.)
+徒歩 (徒歩) literally means "foot travel" and is the formal Japanese term for traveling on foot. In the context of hospitality, it is most powerfully used in the pattern 徒歩〇分 (〇-minute walk), which gives guests a practical, intuitive sense of distance that maps and street names alone cannot convey. This phrasing is ubiquitous in Japan — on Google Maps, station signage, restaurant websites, and hotel concierge guidance — because Japanese urban culture is highly pedestrian-oriented, and walking time is the primary unit of navigational distance. For international guests unfamiliar with Japanese geography, a confident 徒歩10分 from the front desk is far more useful than a street address or a distance in kilometers.
+
+In practice, 徒歩 nearly always appears alongside 約 (approximately) and a specific minute count: 駅まで徒歩約10分です. Staff should calibrate these estimates carefully, accounting for traffic lights, elevation changes, and the pace of an average guest with luggage. For elderly guests or guests with heavy bags, staff at quality properties also consider proactively suggesting alternatives: 徒歩ですと少々遠くなりますので、タクシーをご用意いたしましょうか (it is a bit far on foot; shall we arrange a taxi for you?). This anticipation of need is a hallmark of Japanese hospitality culture.
+
+## Example Sentences
+
+**1.** 駅まで徒歩10分です。地図をお持ちいたしましょうか。
+*Eki made toho juppun desu. Chizu o omochi itashimashou ka.*
+"It is a 10-minute walk to the station. Shall I bring you a map?"
+
+**2.** 観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。
+*Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.*
+"It is approximately a 15-minute walk to the sightseeing landmark. There is a row of cherry trees along the way, so please enjoy them."
+
+**3.** お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。
+*Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.*
+"Since you have luggage, how about a taxi? It takes about 20 minutes on foot."
+
+## Related Expressions
+
+- **約〇分 (yaku 〇-fun)** — Approximately 〇 minutes, the standard hedge that always accompanies 徒歩 in professional guidance. Saying 徒歩10分 without 約 implies a precision that cannot be guaranteed; 徒歩約10分 acknowledges natural variation and is both more honest and more natural-sounding to Japanese guests.
+- **バス・タクシー (basu / takushii)** — Bus and taxi, the most common transport alternatives offered when 徒歩 is impractical. Staff should be prepared to pivot from a 徒歩 answer to a transport recommendation in the same breath when guest circumstances (age, luggage, weather, distance) make walking unsuitable.
+
+## Common Mistakes
+
+A frequent mistake is giving 徒歩 estimates based on one's own walking speed rather than an average guest's pace — staff who walk quickly may underestimate by several minutes, leading guests to feel rushed or lost. Another common error is using 歩いて〇分 in formal written or spoken contexts where 徒歩〇分 is the professional standard; while both are understood, 歩いて sounds conversational and slightly informal compared to the crisp 徒歩. Learners should also note the pronunciation shifts for 分: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん) — incorrect pronunciation of minutes stands out immediately to Japanese guests.
 
 ---
 

@@ -4,7 +4,35 @@ section: 24
 title: レイトチェックアウト (late check-out)
 ---
 
-This means checking out later than the standard time. It is often requested by guests. Availability and fees depend on hotel policy. Staff should confirm politely.
+**Pronunciation:** **rē**-to-chek-ku-**a**-u-to
+**Register:** Formal / Neutral — used by both staff and guests in hotel contexts. Like 早朝チェックイン, this loanword compound is embedded in polite grammatical structures during guest interactions. Staff must be prepared to explain availability, conditions, and potential fees clearly and warmly, as this is one of the most commonly requested special services.
+
+レイトチェックアウト refers to the option of departing from one's hotel room later than the standard check-out time, which in most Japanese hotels is 11:00 AM or 12:00 PM. It is a highly popular request, particularly among guests who have late afternoon flights, business meetings running into the day, or simply wish to enjoy a more leisurely departure. When granted, it allows the guest to use the room — including shower, rest, and storage of belongings — beyond the normal deadline. Hotels typically offer this subject to availability, and it may be complimentary for members or chargeable depending on policy.
+
+Staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.
+
+## Example Sentences
+
+**1.** レイトチェックアウトはご利用可能でございます。追加料金は三千円となります。
+*Reito chekku-auto wa go-riyō kanō de gozaimasu. Tsuika ryōkin wa san-zen en to narimasu.*
+"Late check-out is available. The additional charge will be 3,000 yen."
+
+**2.** レイトチェックアウトをご希望の場合、当日の空き状況によりご案内が可能でございます。
+*Reito chekku-auto wo go-kibō no baai, tōjitsu no aki jōkyō ni yori go-annai ga kanō de gozaimasu.*
+"If you would like late check-out, we can accommodate you depending on same-day availability."
+
+**3.** 本日は満室のため、レイトチェックアウトのご対応が難しい状況でございます。
+*Honjitsu wa manseki no tame, reito chekku-auto no go-taiō ga muzukashii jōkyō de gozaimasu.*
+"Unfortunately, as we are fully booked today, late check-out would be difficult to accommodate."
+
+## Related Expressions
+
+- **早朝チェックイン (sōchō chekku-in)** — early check-in, the counterpart concept. Both services involve extending the standard boundaries of room occupancy and carry similar policies regarding availability and fees. Staff handling one should be equally fluent in explaining the other.
+- **チェックアウト時間 (chekku-auto jikan)** — the check-out time. Staff must know and clearly communicate the hotel's standard チェックアウト時間 as the baseline for any レイトチェックアウト discussion. Always state the standard time first before offering or explaining the late option.
+
+## Common Mistakes
+
+A common error is agreeing to レイトチェックアウト without first checking system availability — this can lead to housekeeping conflicts and complaints if the room is needed for an incoming guest. Learners sometimes omit the fee disclosure, either forgetting it or hoping to avoid awkwardness, but this invariably causes disputes at check-out; fees must always be communicated upfront. Staff should also avoid saying レイトチェックアウトはできません flatly — instead, acknowledge the request warmly and offer the closest available alternative before delivering the refusal.
 
 ---
 
@@ -20,4 +48,3 @@ This means checking out later than the standard time. It is often requested by g
 **Correct Answer:** レイトチェックアウトできますか (can I have late check-out?)
 
 **Explanation:** レイトチェックアウトできますか is the natural and polite way for a guest to ask — staff should recognize and respond warmly to this.
-

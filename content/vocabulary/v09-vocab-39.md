@@ -4,9 +4,35 @@ section: 39
 title: 締切 (shimekiri)
 ---
 
-"締切" is the last date or time for an action, such as booking, payment, or submission. Staff enforce deadlines to ensure proper scheduling. Guests must be informed to avoid missed opportunities or penalties. Clarity about cutoff times improves operational efficiency.
+**Pronunciation:** shi-me-**ki**-ri
+**Register:** Formal — used by hotel staff and reservation agents when communicating time-sensitive booking conditions to guests.
 
-*Example: キャンセルの締切は明日です。* (The cancellation deadline is tomorrow.)
+締切 means a firm cutoff deadline beyond which an action can no longer be taken. In the hospitality industry, this term appears most often in contexts such as the last date for free cancellation, the deadline for confirming a special-rate booking, or the closing time for an amenity reservation. Unlike the softer 期限 (kigen), which can suggest a general expiry, 締切 carries a sense of finality — the window closes and cannot be reopened. Understanding this distinction helps staff communicate with precision and prevents guests from assuming flexibility where none exists. The word is written with characters meaning "to close" and "to cut," vividly conveying the idea of a door that shuts permanently at a specified moment.
+
+In practice, staff should always pair 締切 with an exact date and time to eliminate ambiguity. A phrase such as キャンセル無料の締切は〇月〇日の午後三時でございます gives the guest a concrete target. When guests are close to a deadline, proactive communication is essential — reaching out a day or two in advance demonstrates the attentiveness that defines omotenashi. If a guest misses a 締切, staff must explain the consequence calmly and clearly while exploring any alternatives the property's policy may allow, such as partial refunds or rescheduling options.
+
+## Example Sentences
+
+**1.** キャンセル無料の締切は明日の正午でございます。
+*Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.*
+"The deadline for free cancellation is tomorrow at noon."
+
+**2.** ご予約プランの締切が本日深夜零時となっております。
+*Goyoyaku puran no shimekiri ga honjitsu shin'ya reiji to natte orimasu.*
+"The reservation plan deadline is midnight tonight."
+
+**3.** 締切までにご連絡いただけますと大変助かります。
+*Shimekiri made ni go-renraku itadakemasu to taihen tasukarimasu.*
+"We would greatly appreciate it if you could contact us before the deadline."
+
+## Related Expressions
+
+- **期限 (kigen)** — a general term for an expiry or time limit; broader and sometimes renewable, whereas 締切 is typically absolute and non-negotiable
+- **有効期限 (yuukou kigen)** — validity period, used for coupons or points; related to time constraints but focuses on when a benefit expires rather than when an action must be taken
+
+## Common Mistakes
+
+Learners often use 締切 and 期限 interchangeably, but in hospitality contexts this can cause confusion — 締切 signals a hard stop, while 期限 may imply some flexibility. Another common error is stating a 締切 without specifying the time zone or exact hour, which is especially problematic for international guests or cross-regional bookings. Staff should avoid vague expressions like 締切が近いです without concrete dates, as this can cause unnecessary anxiety or lead guests to assume the deadline is further away than it is.
 
 ---
 
@@ -23,4 +49,3 @@ title: 締切 (shimekiri)
 **Correct Answer:** 締切 (deadline)
 
 **Explanation:** 締切 and 期限 are near-synonyms but 締切 is more absolute — missing a 締切 usually results in loss of rights (free cancellation, special rate), so communicating it with a precise date-time (〇月〇日〇時まで) is critical for guest trust.
-

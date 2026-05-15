@@ -4,7 +4,35 @@ section: 19
 title: エアコン (air conditioner)
 ---
 
-"エアコン" refers to the air conditioner in the room. Staff may explain operation, temperature settings, or remote controls. Proper instruction ensures guests comfort and avoids complaints. It is often included in check-in guidance.
+**Pronunciation:** **e**-a-kon
+**Register:** Neutral — エアコン is a loanword from English ("air conditioner") and is used freely across all registers in Japanese. In hotel contexts it appears in room-orientation briefings, guest manuals, and repair request forms. Staff use it without adjustment for formality, though surrounding sentences should maintain polite keigo forms.
+
+エアコン is an abbreviation of "air conditioner," universally understood in Japan and found in virtually every hotel and ryokan guest room. Comfort temperature is a sensitive personal matter — guests from warmer or cooler climates may have very different expectations from the default room setting — and studies in Japanese hospitality consistently show that room temperature is among the top factors affecting guest satisfaction. Staff who proactively explain how to operate the エアコン, including how to adjust temperature, switch between heating and cooling modes, and use the timer function, demonstrate the anticipatory service at the heart of omotenashi. Some older ryokan may have floor-based heating systems rather than a wall-mounted エアコン, and being able to clarify this difference is equally valuable.
+
+In practice, staff typically point out the エアコン remote control during room orientation: 「エアコンのリモコンはテレビ台の上にございます」 (the air conditioner remote is on the TV stand). If a guest reports a malfunction, the appropriate response would be 「すぐに係の者を向かわせます」 (I will send a staff member right away). Staff should also be ready to explain the difference between 冷房 (cooling) and 暖房 (heating) mode settings on the remote.
+
+## Example Sentences
+
+**1.** エアコンはこちらで操作できますので、温度はご自由にお調節ください。
+*Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*
+"You can operate the air conditioner here — please adjust the temperature as you like."
+
+**2.** エアコンのリモコンはテレビ台の上にございます。
+*Eakon no rimokon wa terebi dai no ue ni gozaimasu.*
+"The air conditioner remote is on the TV stand."
+
+**3.** エアコンの調子がよくない場合は、フロントまでお知らせください。
+*Eakon no choushi ga yokunai baai wa, furonto made o-shirase kudasai.*
+"If the air conditioner is not working properly, please let the front desk know."
+
+## Related Expressions
+
+- **冷房 (reibou)** — Refers specifically to the cooling function of the air conditioner. When explaining the remote to guests, staff may need to distinguish 冷房 (cool mode) from 暖房 (heat mode) to prevent guests from accidentally setting the wrong function.
+- **暖房 (danbou)** — The heating function. In Japanese hospitality, especially in colder seasons or mountainous ryokan, explaining how to switch to 暖房 is an important part of room orientation, as guests unfamiliar with Japanese remote controls can easily be confused by kanji-labeled buttons.
+
+## Common Mistakes
+
+Learners sometimes give only the word エアコン without explaining how to use it, which does not constitute useful guidance. The phrase 「エアコンはこちらで操作できます」 should be paired with pointing to the remote or control panel. Another error is omitting ございます when identifying where the remote is located — 「リモコンはテレビ台の上にあります」 is grammatically correct but too casual for guest-facing hotel speech. Finally, failing to mention both heating and cooling modes can leave guests confused during seasonal transitions.
 
 ---
 

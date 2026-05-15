@@ -4,7 +4,35 @@ section: 14
 title: 停電 (teiden)
 ---
 
-"停電" refers to a power outage affecting electricity supply. It may disrupt lighting and appliances. Staff should inform guests and provide updates. Emergency procedures must be followed.
+**Pronunciation:** **tei**-den
+**Register:** Neutral to Formal — used by staff in announcements, incident reports, and direct communication with guests. The word itself is standard Japanese used across all settings, but in hospitality it almost always appears in polite sentence structures (ております, いたします) to maintain calm professionalism during an emergency.
+
+停電 (停電) is written with the characters for "stopping" (停) and "electricity" (電), literally meaning a halt in electrical power. Power outages in Japanese hotels are treated as serious operational incidents, and how staff communicate during one reflects directly on the property's reputation. Guests who are calmly informed feel cared for; guests who discover a problem on their own feel neglected. Knowing this word enables staff to act as a reassuring presence during an unexpected event.
+
+In practice, 停電 is announced promptly over intercom, at the front desk, or directly in corridors. Staff use it in phrases such as 「現在、停電が発生しております」 (a power outage is currently occurring) and 「停電により、ご不便をおかけしております」 (we apologize for the inconvenience caused by the power outage). Emergency lighting, candles in ryokan, and battery-powered flashlights are standard equipment to offer guests. Staff should always pair the announcement with an estimated resolution time when available and a clear instruction about what guests should do.
+
+## Example Sentences
+
+**1.** 現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。
+*Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.*
+"A power outage is currently occurring. We sincerely apologize for the inconvenience."
+
+**2.** 停電の復旧まで、非常用照明をご利用ください。
+*Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.*
+"Please use the emergency lighting until power is restored."
+
+**3.** 停電の影響で、エレベーターが一時的にご利用いただけません。
+*Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.*
+"Due to the power outage, the elevator is temporarily out of service."
+
+## Related Expressions
+
+- **故障 (koshou)** — Refers to a mechanical breakdown or malfunction of a specific device or piece of equipment, such as an air conditioner or elevator. Unlike 停電, which affects the entire electrical supply, 故障 is localized to a single item and does not imply a broader outage.
+- **停止 (teishi)** — Means a stoppage or suspension, often used for scheduled service interruptions (e.g., 運転停止, suspension of service). Unlike 停電, which is almost always unplanned and urgent, 停止 can be planned and communicated in advance.
+
+## Common Mistakes
+
+Learners sometimes confuse 停電 with 故障 and use them interchangeably, but this leads to miscommunication — telling a guest there is a 停電 when only the air conditioner has broken down (故障) is inaccurate and may cause unnecessary alarm. Another common error is announcing 停電が起きました (occurred, past tense) when the outage is still active; the correct ongoing form is 停電が発生しております. Staff should also avoid casual phrasing like 「電気が消えました」in formal guest-facing situations, as it sounds imprecise.
 
 ---
 

@@ -4,15 +4,35 @@ section: 29
 title: 改善 (kaizen)
 ---
 
-**Meaning:** improvement
+**Pronunciation:** kai-**zen**
+**Register:** Formal to Neutral — central to Japanese business culture and used at all levels, from frontline staff to senior management, in hotels and service organisations.
 
-改善 is the continuous process of making work methods, processes, or products better. It is central to Japanese business culture, promoting quality and productivity. Employees are encouraged to suggest and implement improvements regularly. Small incremental improvements create long-term benefits.
+改善 literally means "change for the better" and is one of the most internationally recognised concepts to emerge from Japanese management philosophy. In the hospitality context, it refers to the ongoing, systematic effort to refine service methods, eliminate inefficiencies, and elevate the guest experience through small, incremental improvements rather than radical overhauls. Every department — from housekeeping and front desk to kitchen and concierge — is expected to participate in the 改善 process, and staff at all levels are encouraged to notice problems and propose solutions. This culture of continuous improvement ensures that service quality does not stagnate but evolves with guest expectations.
 
-**Example:**
+In practice, 改善 activities may be as simple as repositioning a towel storage rack to reduce the number of steps a housekeeper takes per room, or as significant as redesigning the check-in sequence to eliminate wait times. Many hotels hold regular 改善ミーティング (kaizen miitingu, improvement meetings) where staff share observations from their daily work. Proposals that are adopted are often acknowledged publicly to reinforce the value of participation. The language around 改善 is important: rather than framing issues as failures, Japanese hospitality culture uses 改善 to frame them as opportunities, which preserves team morale and encourages open communication.
 
-業務の効率化のため、改善案を提出しました。
+## Example Sentences
 
-*I submitted improvement suggestions for workflow efficiency.*
+**1.** お客様からのご意見をもとに、フロントサービスの改善を進めております。
+*Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*
+"We are advancing improvements to our front desk service based on feedback from guests."
+
+**2.** 先月の改善提案が採用され、清掃時間が15分短縮されました。
+*Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.*
+"Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes."
+
+**3.** 小さな改善の積み重ねが、最終的に大きな品質向上につながります。
+*Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.*
+"The accumulation of small improvements ultimately leads to significant quality enhancement."
+
+## Related Expressions
+
+- **業務改善 (gyoumu kaizen)** — operational improvement; the specific application of 改善 to work processes and administrative systems, often the focus of formal kaizen projects in hotel management
+- **PDCAサイクル (PDCA saikuru)** — the Plan-Do-Check-Act cycle; the structured methodology most commonly used to drive 改善 in Japanese organisations, ensuring improvements are tested, evaluated, and standardised
+
+## Common Mistakes
+
+Learners sometimes assume 改善 is synonymous with 修理 (shuuri, repair) or 修正 (shuusei, correction), but 改善 implies proactive, forward-looking enhancement rather than fixing something that is broken. Another frequent error is treating 改善 as a one-time event — in Japanese workplace culture it is understood as continuous and never truly complete. When proposing a 改善, use the polite form 「改善案を提案させていただきます」 (I would like to propose an improvement idea) rather than more direct phrasing, as the humble register shows respect for the team and decision-makers.
 
 ---
 
@@ -28,4 +48,3 @@ title: 改善 (kaizen)
 **Correct Answer:** 改善 (improvement)
 
 **Explanation:** 改善 (kaizen) means improvement — the continuous process of refining work methods and processes. 効率 = efficiency, 評価 = evaluation, 指導 = guidance.
-

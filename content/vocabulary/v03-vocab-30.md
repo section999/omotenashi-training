@@ -4,7 +4,35 @@ section: 30
 title: 交換 (koukan)
 ---
 
-"交換" means replacement. Guests may request replacement of towels, bedding, or amenities. Staff must respond promptly and politely. Clear communication ensures high service standards.
+**Pronunciation:** **kou**-kan
+**Register:** Formal / Neutral — 交換 is a Sino-Japanese compound that carries a formal, professional tone appropriate for hotel communication. It is used in both guest-facing speech and internal staff coordination. In guest communications, 交換 typically appears with humble verb forms (交換いたします, 交換させていただきます) to reflect deference to the guest.
+
+交換 (交 = exchange/cross, 換 = replace/change) means "exchange" or "replacement," and in hospitality it refers specifically to the act of replacing guest room items — most commonly towels, bed linen, yukata (in ryokan), or amenity items. The ability to respond promptly and gracefully to a 交換 request is a direct test of service quality: a well-handled replacement request — where the staff acknowledges the request immediately, confirms what will be brought, and delivers it without delay — creates a positive impression that elevates the entire stay. In Japanese hospitality culture, guests are not expected to have to ask twice; the expectation is that the first request is met with full and prompt action, with a polite apology if any delay occurs.
+
+In practice, 交換 arises most often when guests request fresh towels, when the minibar is restocked, when yukata sizes need to be changed, or when bedding is replaced between guests. The standard response to a towel replacement request is: 「タオルを交換いたします。少々お待ちください」 (I will replace the towels. Please wait a moment). For scheduled bedding changes, staff may say: 「リネンの交換は毎日午前中に行っております」 (linen replacement is carried out every morning). If a guest declines service, the response should be gracious and non-insistent.
+
+## Example Sentences
+
+**1.** タオルを交換いたします。少々お待ちくださいませ。
+*Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.*
+"I will replace the towels. Please wait a moment."
+
+**2.** リネンの交換は毎日午前中に行っております。
+*Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.*
+"Linen replacement is carried out every morning."
+
+**3.** ご不便をおかけして大変申し訳ございません。すぐに交換いたします。
+*Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*
+"I sincerely apologize for the inconvenience. I will replace it right away."
+
+## Related Expressions
+
+- **補充 (hojuu)** — Replenishment, used when restocking rather than replacing one item with another of the same kind. While 交換 implies swapping a used item for a fresh one (e.g., a used towel for a clean one), 補充 is used when topping up supplies (e.g., adding more shampoo bottles). The distinction matters when responding precisely to guest requests.
+- **ご用意 (go-youi)** — "Preparation / providing." When proactively setting up replacement items rather than responding to a complaint, staff use ご用意: 「新しいタオルをご用意いたします」 (I will prepare fresh towels for you). This phrasing sounds more hospitable and less reactive than simply 交換します.
+
+## Common Mistakes
+
+A common mistake is confirming the replacement with a bare 「交換します」 (plain form) rather than the humble 「交換いたします」, which is the required register in guest-facing hospitality speech. Learners may also forget to apologize when a replacement is needed due to a shortage or error — always acknowledge any inconvenience to the guest before proceeding with the action. Additionally, confusing 交換 (replacing one item with another) with 補充 (adding to what is already there) can lead to incorrect action — for example, adding a towel when the guest wanted the used one taken away and a fresh one left.
 
 ---
 

@@ -4,9 +4,35 @@ section: 18
 title: 喫煙席 (kitsuen seki)
 ---
 
-"喫煙席" means smoking seating areas. These are often separated from non-smoking areas.
+**Pronunciation:** **ki**-tsu-en **se**-ki
+**Register:** Formal to Neutral — used by front-of-house staff in the same contexts as 禁煙席, always as part of a paired offering or directional statement. The word is neutral in tone; staff must take care to deliver it without any hesitation or negative inflection, so that guests who prefer to smoke feel respected in their choice.
 
-Staff should guide guests appropriately and follow regulations.
+喫煙席 refers to a smoking seat or smoking section — a designated area of a restaurant or dining venue where guests are permitted to smoke. In Japan's evolving tobacco regulation landscape, indoor 喫煙席 have become increasingly rare in hotels and restaurants, with many establishments either going fully non-smoking or confining smoking to separately ventilated rooms or outdoor terraces. Despite this trend, knowing how to accurately direct a guest to a 喫煙席, or politely explain its absence, remains an important front-of-house skill.
+
+In practice, staff guide guests to 喫煙席 using directional phrases such as 喫煙席はこちらでございます ("the smoking section is this way"). If 喫煙席 is available only in a specific location — such as a separate room or terrace — staff should explain clearly: 喫煙席は2階にございます ("the smoking section is on the 2nd floor"). When a venue has eliminated 喫煙席 entirely, staff should inform the guest proactively and offer alternatives: 当店は全席禁煙でございます。屋外に喫煙スペースがございます ("this restaurant is entirely non-smoking; there is a smoking area outside").
+
+## Example Sentences
+
+**1.** 喫煙席はこちらでございます。どうぞこちらへ。
+*Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.*
+"The smoking section is this way. Please come this way."
+
+**2.** 喫煙席は換気の整った別室にご用意しております。
+*Kitsuen seki wa kanki no totonotta bessho ni go-youi shite orimasu.*
+"The smoking section is prepared in a separate, well-ventilated room."
+
+**3.** 大変申し訳ございませんが、現在喫煙席はご用意しておりません。屋外の喫煙スペースをご利用いただけます。
+*Taihen moushiwake gozaimasen ga, genzai kitsuen seki wa go-youi shite orimasen. Okugai no kitsuen supesu wo go-riyou itadakemasu.*
+"We sincerely apologize, but we currently do not have a smoking section. You are welcome to use the outdoor smoking area."
+
+## Related Expressions
+
+- **禁煙席 (kin'en seki)** — Non-smoking seat. 喫煙席 and 禁煙席 are always presented as a pair in seating preference questions; staff must be comfortable handling guests who choose either option without expressing a preference or judgment of their own.
+- **喫煙スペース (kitsuen supesu)** — Smoking area/space. When a restaurant no longer offers 喫煙席 at the table level, it may still have a designated 喫煙スペース (often outdoors or in a separate lounge); knowing this term allows staff to redirect smoking guests appropriately.
+
+## Common Mistakes
+
+Staff sometimes make the mistake of appearing apologetic or hesitant when escorting a guest to 喫煙席 — in professional hospitality, guest choice must be honored without judgment, and the tone should be the same as guiding someone to any other seat. A practical error is failing to mention any relevant conditions of the 喫煙席 (e.g., it is in a separate building or has a time limit); surprises after seating create negative impressions. Learners also sometimes confuse 喫煙席 with 喫煙室 (kitsuen shitsu — a dedicated smoking room, often used in office buildings or hotels); the 席 (seat) versus 室 (room) distinction is meaningful and should be used accurately.
 
 ---
 
@@ -22,4 +48,3 @@ Staff should guide guests appropriately and follow regulations.
 **Correct Answer:** 喫煙席はこちらでございます (the smoking seat is here)
 
 **Explanation:** 喫煙席はこちらでございます — はこちら (this way) with ございます is the standard directional phrase; it guides without judgment, respecting the guest's choice.
-

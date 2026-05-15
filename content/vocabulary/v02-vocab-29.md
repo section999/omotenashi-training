@@ -4,7 +4,35 @@ section: 29
 title: 受付 (uketsuke)
 ---
 
-"受付" refers to reception or registration. It can mean both the place and the process. It is often used in formal contexts. It overlaps with front desk functions.
+**Pronunciation:** u-**ke**-tsu-ke
+**Register:** Formal / Neutral — 受付 is used across professional contexts including hotels, hospitals, offices, and event venues. In hospitality, it functions both as a noun (the reception desk / the reception process) and as a concept (the act of receiving and registering guests). Staff commonly use it with polite directional phrases to guide guests, and it may also appear in signage and written materials throughout the property.
+
+受付 (uketsuke) means "reception" or "front desk" as a location, and also refers to the act of receiving or registering a guest or visitor. In a hotel context, 受付 often overlaps with フロント (furonto, front desk), but 受付 carries a slightly broader meaning — it can refer to any official registration point within a facility, such as a spa reception, event registration desk, or concierge counter. Understanding this distinction helps staff use the word precisely depending on which service point they are directing a guest toward. The word also conveys the idea of being formally "received" — which connects to the broader hospitality value of making guests feel acknowledged and welcomed.
+
+In practical hotel use, 受付 most frequently appears when directing guests: 受付はこちらでございます (the reception is here) or チェックインのお手続きは受付にてお願いいたします (please complete your check-in at the reception). Staff might also use it when explaining where to go for various services: スパの受付は地下一階でございます (the spa reception is on basement level one). Being able to direct guests clearly and confidently to the correct 受付 at any facility within the property is an essential navigation skill for all hospitality staff.
+
+## Example Sentences
+
+**1.** 受付はこちらでございます。
+*Uketsuke wa kochira de gozaimasu.*
+"The reception is here."
+
+**2.** チェックインのお手続きは受付にてお願いいたします。
+*Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.*
+"Please complete your check-in at the reception desk."
+
+**3.** スパの受付は地下一階にございます。
+*Supa no uketsuke wa chika ik-kai ni gozaimasu.*
+"The spa reception is on the basement level."
+
+## Related Expressions
+
+- **フロント (furonto)** — the front desk, the primary service counter at a hotel's main entrance. While フロント is specific to the hotel's main front desk, 受付 is broader and can refer to any registration or reception point within a property. When directing guests to the main desk, either term works, but 受付 is slightly more formal.
+- **カウンター (kauntā)** — counter, often used to describe the physical structure of a service desk. In guest-facing speech, カウンター is less common than フロント or 受付, but it may appear in directions such as あちらのカウンターでお手続きいただけます (you can complete the procedure at that counter).
+
+## Common Mistakes
+
+Learners sometimes use 受付 and フロント interchangeably without considering context — when directing a guest to the spa or restaurant check-in point, 受付 is correct, while フロント specifically implies the hotel's main front desk. A common phrasing error is 受付こちら without the copula and honorific — the full form 受付はこちらでございます is required in formal hospitality speech. Staff should also remember that 受付 can refer to a process (the act of checking in), not just a place, so understanding its use in phrases like 受付時間 (reception hours) or 受付を済ます (to complete registration) is equally important.
 
 ---
 
@@ -20,4 +48,3 @@ title: 受付 (uketsuke)
 **Correct Answer:** 受付はこちらでございます (the reception is here)
 
 **Explanation:** 受付はこちらでございます uses the complete polite structure — はこちらでございます is the standard directional phrase in hospitality.
-
