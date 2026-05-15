@@ -4,6 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="assets/favicon-32x32.png" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0a0a23" />
+  <meta name="robots" content="noindex" />
   <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
   <title>Progress Dashboard — Omotenashi Training</title>
   <style>
@@ -324,6 +327,7 @@
 <body>
 
 <main>
+  <h1 class="page-title" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">Progress Dashboard</h1>
   <!-- Close button -->
   <button onclick="if(history.length>1){history.back()}else{location.href='curriculum.html'}" aria-label="Close" style="position:fixed;top:70px;right:24px;z-index:100;width:36px;height:36px;border-radius:50%;background:var(--bg-tertiary);border:1px solid var(--border-default);color:var(--text-secondary);font-size:1.1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.15s,color 0.15s;" onmouseover="this.style.background='var(--border-strong)';this.style.color='#fff'" onmouseout="this.style.background='var(--bg-tertiary)';this.style.color='var(--text-secondary)'">✕</button>
 

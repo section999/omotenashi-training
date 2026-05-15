@@ -154,8 +154,6 @@
       100% { opacity: 0.85; }
     }
 
-    .hero-grid { display: none; }
-
     /* Floating kanji */
     .kanji-bg {
       position: absolute;
@@ -285,6 +283,9 @@
     }
     @media (max-width: 700px) { .features-grid { grid-template-columns: 1fr; } }
     .feature-card {
+      display: block;
+      text-decoration: none;
+      color: inherit;
       background: var(--bg-secondary);
       border: 1px solid var(--border-default);
       border-radius: 12px;
@@ -316,34 +317,30 @@
       font-family: var(--font-mono);
       font-size: 0.75rem;
       color: var(--accent-yellow);
-      text-decoration: none;
       letter-spacing: 0.04em;
     }
-    .feature-link:hover { text-decoration: underline; }
     [data-theme="light"] .feature-card { background: var(--bg-primary); }
 
     .logo-small { display: none; }
 
-    /* ── MOBILE HERO ── */
-    @media (max-width: 640px) {
-      .hero-title {
-        font-size: clamp(2.8rem, 10vw, 4rem);
-        white-space: normal;
-      }
-      .hero-subtitle {
-        font-size: clamp(1.3rem, 5vw, 1.8rem);
-        white-space: normal;
-      }
-      .hero-content { padding: 0 20px; }
-    }
-
-    /* ── MOBILE NAV ── */
+    /* ── MOBILE ── */
     @media (max-width: 640px) {
       .nav-inner { padding: 0 16px; }
       .logo-large { display: none !important; }
       .logo-small { display: block !important; }
       .nav-search input { display: none; }
       .nav-search { padding: 6px 10px; }
+      .hero-title {
+        font-size: clamp(2.8rem, 10vw, 4rem);
+        white-space: normal;
+        margin-bottom: 40px;
+      }
+      .hero-subtitle {
+        font-size: clamp(1.3rem, 5vw, 1.8rem);
+        white-space: normal;
+        margin-bottom: 32px;
+      }
+      .hero-content { padding: 0 20px; }
     }
 
   </style>
@@ -403,9 +400,8 @@
     <button class="continue-banner-dismiss" id="continueBannerDismiss" aria-label="Dismiss">✕</button>
   </div>
 
-  <section class="hero">
+  <section class="hero" aria-label="Course overview">
     <div class="hero-bg"></div>
-    <div class="hero-grid"></div>
     <div class="sakura-bg" id="sakuraBg" aria-hidden="true"></div>
     <div class="kanji-bg" aria-hidden="true">
       <span class="kanji-char" style="top:12%;left:8%;animation-duration:9s;animation-delay:-2s;">礼</span>
@@ -417,37 +413,34 @@
     </div>
 
     <div class="hero-content">
-      <div class="hero-text">
-        <h1 class="hero-title">
-          <span class="highlight">Omotenashi Training</span>
-        </h1>
-        <p class="hero-subtitle">
-          The spirit of Japanese Hospitality
-        </p>
-        <div style="margin:48px auto 0;width:100%;max-width:900px;">
-          <div class="features-grid">
-            <div class="feature-card">
-              <div class="feature-icon">🏯</div>
-              <div class="feature-title">Philosophy &amp; Mindset</div>
-              <div class="feature-desc">The spirit of おもてなし — anticipating needs, reading silence, mastering self-reflection, and leading with humility.</div>
-              <a class="feature-link" href="curriculum.html">Start →</a>
-            </div>
-            <div class="feature-card">
-              <div class="feature-icon">言</div>
-              <div class="feature-title">Language &amp; Keigo</div>
-              <div class="feature-desc">Master the language of exceptional service — vocabulary drills, keigo forms, and real guest conversation practice.</div>
-              <a class="feature-link" href="languagedojo.html">Start →</a>
-            </div>
-            <div class="feature-card">
-              <div class="feature-icon">🎮</div>
-              <div class="feature-title">Practice &amp; Application</div>
-              <div class="feature-desc">Six interactive games, 100 role-play scenarios, spaced repetition review, and a personal dashboard tracking your progress.</div>
-              <a class="feature-link" href="games.html">Start →</a>
-            </div>
-          </div>
+      <h1 class="hero-title">
+        <span class="highlight">Omotenashi Training</span>
+      </h1>
+      <p class="hero-subtitle">
+        The spirit of Japanese Hospitality
+      </p>
+      <div style="margin:48px auto 0;width:100%;max-width:900px;">
+        <div class="features-grid">
+          <a class="feature-card" href="curriculum.html">
+            <div class="feature-icon">🏯</div>
+            <div class="feature-title">Philosophy &amp; Mindset</div>
+            <div class="feature-desc">The spirit of <span lang="ja">おもてなし</span> — anticipating needs, reading silence, mastering self-reflection, and leading with humility.</div>
+            <span class="feature-link">Start →</span>
+          </a>
+          <a class="feature-card" href="languagedojo.html">
+            <div class="feature-icon">言</div>
+            <div class="feature-title">Language &amp; Keigo</div>
+            <div class="feature-desc">Master the language of exceptional service — vocabulary drills, keigo forms, and real guest conversation practice.</div>
+            <span class="feature-link">Start →</span>
+          </a>
+          <a class="feature-card" href="games.html">
+            <div class="feature-icon">🎮</div>
+            <div class="feature-title">Practice &amp; Application</div>
+            <div class="feature-desc">Six interactive games, 100 role-play scenarios, spaced repetition review, and a personal dashboard tracking your progress.</div>
+            <span class="feature-link">Start →</span>
+          </a>
         </div>
       </div>
-
     </div>
   </section>
 
