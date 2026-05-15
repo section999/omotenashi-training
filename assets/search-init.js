@@ -6,7 +6,7 @@
     if (loaded || loading) return
     loading = true
     var s = document.createElement('script')
-    s.src = 'assets/search.js'
+    s.src = (location.pathname.includes('/pages/') ? '../' : '') + 'assets/search.js'
     s.async = true
     s.onload = function() { loaded = true; loading = false }
     s.onerror = function() { loading = false }

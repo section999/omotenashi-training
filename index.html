@@ -421,19 +421,19 @@
       </p>
       <div style="margin:48px auto 0;width:100%;max-width:900px;">
         <div class="features-grid">
-          <a class="feature-card" href="curriculum.html">
+          <a class="feature-card" href="pages/curriculum.html">
             <div class="feature-icon">🏯</div>
             <div class="feature-title">Philosophy &amp; Mindset</div>
             <div class="feature-desc">The spirit of <span lang="ja">おもてなし</span> — anticipating needs, reading silence, mastering self-reflection, and leading with humility.</div>
             <span class="feature-link">Start →</span>
           </a>
-          <a class="feature-card" href="languagedojo.html">
+          <a class="feature-card" href="pages/languagedojo.html">
             <div class="feature-icon">言</div>
             <div class="feature-title">Language &amp; Keigo</div>
             <div class="feature-desc">Master the language of exceptional service — vocabulary drills, keigo forms, and real guest conversation practice.</div>
             <span class="feature-link">Start →</span>
           </a>
-          <a class="feature-card" href="games.html">
+          <a class="feature-card" href="pages/games.html">
             <div class="feature-icon">🎮</div>
             <div class="feature-title">Practice &amp; Application</div>
             <div class="feature-desc">Six interactive games, 100 role-play scenarios, spaced repetition review, and a personal dashboard tracking your progress.</div>
@@ -494,7 +494,7 @@
         var dismiss = document.getElementById('continueBannerDismiss');
         if (!banner || !titleEl || !link || !dismiss) return;
         titleEl.textContent = data.title;
-        link.href = 'md-viewer.html?file=' + encodeURIComponent(data.file);
+        link.href = 'pages/md-viewer.html?file=' + encodeURIComponent(data.file);
         banner.classList.add('visible');
         dismiss.addEventListener('click', function() {
           banner.classList.remove('visible');

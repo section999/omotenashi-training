@@ -21,6 +21,13 @@
     }).slice(0, 8);
   }
 
+  function resolveUrl(url) {
+    if (location.pathname.includes('/pages/') && url.startsWith('pages/')) {
+      return url.slice(6);
+    }
+    return url;
+  }
+
   function render(results) {
     focusedIdx = -1;
     if (!results.length) {
@@ -28,7 +35,7 @@
     } else {
       drop.innerHTML = results.map(function (item, i) {
         var sub = item.sub ? ' — ' + esc(item.sub) : '';
-        return '<a class="nav-search-result" href="' + esc(item.url) + '"' +
+        return '<a class="nav-search-result" href="' + esc(resolveUrl(item.url)) + '"' +
                ' data-idx="' + i + '" role="option">' +
                '<strong>' + esc(item.title) + '</strong>' +
                '<small>' + esc(item.lesson || '') + sub + '</small>' +
