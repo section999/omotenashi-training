@@ -4,9 +4,6 @@ section: 9
 title: 二階 (nikai)
 ---
 
-**Pronunciation:** **ni**-kai
-**Register:** Neutral — standard vocabulary for all hospitality staff; one of the most frequently cited floor numbers since restaurants, function rooms, and lounge areas are very commonly located on the second floor.
-
 二階 (nikai) means "the second floor" and is one of the most commonly referenced floors in Japanese hotel and ryokan settings. In many properties, the second floor houses the main dining area, a tea lounge, banquet rooms, or supplementary guest amenities — making 二階にございます a phrase that front desk and concierge staff use dozens of times daily. The cultural significance of 二階 extends to traditional Japanese architecture as well: in a ryokan, the second floor of a two-story wooden structure is often the most prized level, offering garden or courtyard views, which adds an aspirational quality to the term.
 
 In practice, directing a guest to 二階 should always include access instructions — エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask demonstrates the anticipatory aspect of omotenashi.

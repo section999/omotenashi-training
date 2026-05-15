@@ -4,9 +4,6 @@ section: 1
 title: エレベーター (erebeetaa)
 ---
 
-**Pronunciation:** e-re-**bee**-taa
-**Register:** Formal — used by hotel and ryokan staff when directing or assisting guests in navigating multi-floor properties.
-
 エレベーター is a loanword from English ("elevator") and refers to the lift used to transport guests between floors in hotels, department stores, and large facilities. In Japanese hospitality, guiding a guest to the elevator — rather than simply pointing — is considered the proper expression of omotenashi. Staff are expected to escort guests when appropriate, especially those carrying heavy luggage or with mobility challenges. Because the elevator is frequently the first facility interaction a guest has upon arrival, a confident and clear explanation sets the tone for the entire stay.
 
 From a practical standpoint, staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels, it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using practiced, calm language.

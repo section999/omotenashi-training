@@ -4,9 +4,6 @@ section: 6
 title: 精算 (seisan)
 ---
 
-**Pronunciation:** **sei**-san
-**Register:** Formal — used by front desk and cashier staff during checkout, as well as in accounting and billing contexts throughout a guest's stay.
-
 精算 refers to the process of finalizing and settling all charges incurred during a stay or service engagement. Unlike simply presenting a total, 精算 encompasses the complete reconciliation of room charges, meals, spa treatments, telephone calls, minibar items, and any other extras, including the application of applicable taxes, discounts, and promotional deductions. In Japanese hospitality culture, the 精算 process is considered a final touchpoint of the guest experience, and how it is handled leaves a lasting impression. A smooth, accurate, and courteous 精算 reinforces the guest's overall satisfaction even if minor service issues arose during the stay.
 
 Staff conducting 精算 should ideally prepare the statement before the guest arrives at the front desk, so that the interaction is efficient rather than a waiting exercise. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing payment is both a professional and courteous step, as it gives the guest an opportunity to flag any discrepancies without feeling rushed. Any disputes arising during 精算 should be handled calmly and resolved before processing the final payment, as reversing a completed transaction is significantly more complicated.

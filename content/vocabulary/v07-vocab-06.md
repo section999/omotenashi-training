@@ -4,9 +4,6 @@ section: 6
 title: 近く (chikaku)
 ---
 
-**Pronunciation:** **chi**-ka-ku
-**Register:** Formal/Neutral — the word itself is neutral; in guest-facing speech it should always appear within formal sentence structures using ございます or でございます.
-
 近く means "nearby" or "close by" and is one of the most commonly used spatial descriptors in hospitality communication. In the context of omotenashi, the way staff characterize distance reflects their attentiveness to the guest's situation: a destination described as 近く without further detail is only marginally helpful, whereas 近く paired with a specific walking time, landmark, and directional reference transforms a simple answer into genuine guidance. Reassuring a guest that a key destination — the nearest station, a recommended restaurant, a convenience store — is within easy reach can meaningfully reduce the anxiety of navigating an unfamiliar city. For guests with limited mobility, being near is especially significant, so staff should calibrate their use of 近く honestly.
 
 In daily hotel operations, 近く appears in responses to questions about the surrounding neighborhood, in printed materials such as room folders and welcome guides, and in recommendations made by concierge and front desk staff. When combined with phrases such as 「徒歩約〇分」 (approximately a [number]-minute walk) or 「〇〇を目印に」 (using [landmark] as a reference point), the description becomes precise enough to be genuinely useful. Avoid using 近く as a vague reassurance when a destination is only borderline convenient for walking; guests who find the journey longer than implied may feel misled.

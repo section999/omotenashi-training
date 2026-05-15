@@ -4,9 +4,6 @@ section: 21
 title: 超過 (chouka)
 ---
 
-**Pronunciation:** **chou**-ka
-**Register:** Formal to Neutral — 超過 is a standard administrative and transactional term used in hotels, airlines, shipping, and financial services. Staff use it when explaining additional charges that arise from exceeding a defined limit. It is factual and neutral in tone, but should always be delivered with a polite and empathetic manner to avoid sounding like an accusation.
-
 超過 means excess or overage — the condition of surpassing a specified limit, quota, or threshold. In hospitality, this most frequently refers to situations such as luggage exceeding a weight limit, guests occupying a room past the defined checkout time (late checkout 超過料金), or a group exceeding the contracted number of covers at a banquet. Understanding 超過 is important for staff because it directly leads to 超過料金 (excess charges), which must be explained clearly and diplomatically to guests. Transparency in how these charges are calculated is essential to maintaining trust.
 
 When explaining a 超過 situation, staff should follow a three-part structure: state the defined limit, state the actual amount or time, and state the resulting charge. For example, チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. This approach prevents ambiguity and allows the guest to understand and accept the charge without feeling they have been penalized arbitrarily. In some cases, when the 超過 is minor or the guest is a loyal customer, staff may seek 承認 (supervisor approval) to waive the 超過料金 as a goodwill gesture.

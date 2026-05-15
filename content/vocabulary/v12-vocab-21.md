@@ -4,9 +4,6 @@ section: 21
 title: 点検中 (tenken chuu)
 ---
 
-**Pronunciation:** **ten**-ken **chuu**
-**Register:** Neutral/Formal — used in signage, announcements, and verbal communication to notify guests and staff that a facility or system is currently being inspected or serviced.
-
 点検中 (tenken chuu) is a compound term meaning "under inspection" or "currently being checked." It combines 点検 (inspection, check) with 中 (in the middle of, currently underway). In a hotel environment, this status notice appears on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems when scheduled or emergency maintenance is taking place. Regular 点検 (inspections) are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so the 点検中 sign is a familiar and important communication tool for both safety and compliance.
 
 When a system or facility is 点検中, staff must do more than simply post a sign — they should also communicate the situation verbally to guests who approach the area, explain the estimated duration of the inspection, and offer alternative options where available. For example, if an elevator is 点検中, staff should direct guests to the nearest staircase or available alternative elevator and offer assistance to guests who have difficulty using stairs. The tone of communication should remain apologetic and helpful, reflecting the omotenashi principle of anticipating inconvenience and minimising its impact. After the inspection is complete, the area should be reopened promptly and any findings reported to the maintenance log.

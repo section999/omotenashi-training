@@ -4,9 +4,6 @@ section: 8
 title: 一階 (ikkai)
 ---
 
-**Pronunciation:** **ik**-kai
-**Register:** Neutral — used universally by all hotel staff in both directional speech and signage; the first floor is referenced more than any other level due to the lobby and front desk being located there.
-
 一階 (ikkai) means "the first floor" and corresponds to ground level in the Japanese floor-numbering system — equivalent to the ground floor (G) in British convention or the first floor (1F) in American convention. In Japanese hotels and commercial buildings, 一階 is always street level, making it the reference point from which all other floors are counted upward (二階、三階...) and downward (地下一階...). The lobby, front desk, concierge, main restaurant, and primary amenities are almost universally located on the 一階 in Japanese hospitality venues, so this word appears constantly in guest conversations from check-in through check-out.
 
 Staff should note that the pronunciation 一階 is ikkai — not ichi-kai — as this is one of the irregular counters that learners must memorize. When guests arrive confused about which floor they are on, confirming こちらが一階でございます reassures them and provides an orientation anchor for the rest of the facility. Pairing 一階 with the access method (エレベーターのB/1Fボタン or 正面玄関をご利用ください) completes the guidance.

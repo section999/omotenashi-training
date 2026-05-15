@@ -4,9 +4,6 @@ section: 1
 title: 客室 (kyakushitsu)
 ---
 
-**Pronunciation:** **kyaku**-shi-tsu
-**Register:** Formal — used by hotel staff in all guest-facing and official contexts, including written materials, signage, and professional speech.
-
 客室 (kyakushitsu) is the formal designation for a guest room in a hotel, ryokan, or similar lodging establishment. Unlike the everyday word 部屋 (heya), 客室 carries an institutional weight that signals professional distance and respect. The word combines 客 (kyaku, guest) and 室 (shitsu, room/chamber), making its meaning transparent: a room designated for a guest. This vocabulary is central to hotel operations and appears consistently in brochures, floor directories, and front desk communications.
 
 In practice, 客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations — such as 客室係 (room attendant) and 客室番号 (room number) — is foundational for anyone working in Japanese hospitality.

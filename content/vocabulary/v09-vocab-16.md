@@ -4,9 +4,6 @@ section: 16
 title: プラン (puran)
 ---
 
-**Pronunciation:** **pu**-ran
-**Register:** Neutral — プラン is a loanword from English "plan" and is used freely across all registers in hotel and travel contexts, from casual guest inquiries to formal written contracts. It is universally understood and does not require adjustment for formality, though it is always embedded in polite grammatical structures when staff speak to guests.
-
 プラン (puran) refers to a booking package that bundles together a specific combination of room type, meal arrangements, special perks, and pricing into a single named offering. In Japanese hotels and ryokan, a wide variety of プラン exist to suit different guest purposes — a romantic anniversary プラン might include a special dinner and flower arrangement, while a business プラン might prioritize late check-out and a simple breakfast. Understanding which プラン a guest has booked is the single most important piece of information a front desk agent needs at check-in, because it determines every service entitlement the guest holds during their stay.
 
 In daily hotel operations, staff reference プラン constantly: when answering reservation inquiries, during check-in confirmation, when resolving disputes about included meals, and when making upsell recommendations. The professional practice is to name the プラン explicitly — for example, スタンダード朝食付きプランでご予約いただいております — rather than vaguely referring to "your booking," because naming the プラン reassures the guest that their specific choice has been recorded and will be honoured. At check-in, confirming the プラン details prevents mid-stay misunderstandings about what is and is not included.

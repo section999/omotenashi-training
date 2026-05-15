@@ -4,9 +4,6 @@ section: 18
 title: 裏 (ura)
 ---
 
-**Pronunciation:** **u**-ra
-**Register:** Neutral — common in everyday Japanese and used by both staff and guests without formality concerns. However, in polite service speech, staff often pair it with the polite locative: 裏手にございます or 建物の裏側にございます, which sounds more professional than the plain 裏です.
-
 裏 (裏) means the back, rear, or reverse side of something, and in a hospitality setting it most commonly refers to the back of a building or facility. The 裏 of a hotel or restaurant is typically reserved for service operations: deliveries, staff entrances, waste collection, and back-of-house logistics. Understanding and communicating this distinction is important for staff because guests directed to the 裏 without context may feel they are being sent somewhere inappropriate, while delivery personnel or vendors need to know clearly that the 裏 is where they should go. Proper use of the word prevents operational confusion and maintains the separation between front-of-house hospitality and back-of-house service.
 
 In practice, 裏 appears in directional guidance such as 荷物のお受け取りは建物の裏にございます (baggage pickup is at the back of the building) or 配送の方は裏口をご利用ください (delivery personnel should use the rear entrance). Staff may also use it when explaining the layout of a property to guests who are curious about the grounds: 駐車場は建物の裏側にございます (the parking area is at the rear of the building). When guiding a guest to an area near the 裏, staff should accompany the word with a clear reason and ideally offer to escort the guest rather than simply pointing.

@@ -4,9 +4,6 @@ section: 31
 title: 当日予約 (toujitsu yoyaku)
 ---
 
-**Pronunciation:** tou-**ji**-tsu yo-**ya**-ku
-**Register:** Formal/Neutral — used at the front desk and reservations when handling bookings that are made on the same calendar day as the intended stay.
-
 当日予約 (toujitsu yoyaku) combines 当日 (toujitsu, "the day itself" or "today") with 予約 (yoyaku, reservation), referring specifically to a booking made on the same calendar day as the guest's check-in. This is distinct from simply arriving without a reservation (飛び込み, tobikomi), as the guest has still made a formal inquiry or booking — just within the same day. 当日予約 is relatively common in Japan, particularly among business travelers whose schedules change unexpectedly, or leisure travelers who decide spontaneously to extend a trip. Hotels with online booking systems often accept 当日予約 up to a certain cutoff time, after which only the front desk can handle them directly.
 
 From an operational standpoint, 当日予約 requires staff to quickly verify room availability in real time, check whether housekeeping has finished preparing available rooms, and confirm the applicable rate — which may differ from advance booking rates since 早割 and similar discounts typically do not apply. The appropriate keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします (I have received your same-day reservation; we will contact you as soon as your room is ready). Even when scrambling to accommodate a last-minute guest, the tone should remain calm and welcoming — the guest chose this hotel specifically and deserves a warm reception regardless of timing.

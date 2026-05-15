@@ -4,9 +4,6 @@ section: 19
 title: 通報 (tsuuhou)
 ---
 
-**Pronunciation:** **tsuu**-hou
-**Register:** Formal — used in official communications, safety procedures, and when instructing guests or staff to contact emergency services; not typical in casual conversation.
-
 通報 (tsuuhou) means to report an emergency or critical incident to the appropriate authorities, such as the fire department (消防署), police (警察), or ambulance service (救急). The word carries a sense of civic and professional duty — the act of 通報 is not merely informing someone but formally notifying an official body that an emergency exists and requires intervention. In the hotel context, timely and accurate 通報 is one of the most important responsibilities a staff member has during a crisis. Delays in 通報 can dramatically worsen outcomes in situations involving fire, medical emergencies, suspected crimes, or natural disasters.
 
 Japanese staff are trained to provide specific, structured information when making a 通報 call: the type of emergency, the exact address of the hotel (written and readily available at every station), the floor and room number if applicable, the number of people affected, and whether any hazardous materials are involved. The key emergency numbers in Japan are 119 for fire and ambulance, and 110 for police — these are different from the 911 system used in other countries, and international guests often need reminding. Staff must be able to relay this information clearly under pressure, and protocols are rehearsed during regular safety drills. After a 通報, a record of the call — including time, the name of the authority contacted, and information relayed — must be entered into the hotel's emergency log.

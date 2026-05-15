@@ -4,9 +4,6 @@ section: 39
 title: 締切 (shimekiri)
 ---
 
-**Pronunciation:** shi-me-**ki**-ri
-**Register:** Formal — used by hotel staff and reservation agents when communicating time-sensitive booking conditions to guests.
-
 締切 means a firm cutoff deadline beyond which an action can no longer be taken. In the hospitality industry, this term appears most often in contexts such as the last date for free cancellation, the deadline for confirming a special-rate booking, or the closing time for an amenity reservation. Unlike the softer 期限 (kigen), which can suggest a general expiry, 締切 carries a sense of finality — the window closes and cannot be reopened. Understanding this distinction helps staff communicate with precision and prevents guests from assuming flexibility where none exists. The word is written with characters meaning "to close" and "to cut," vividly conveying the idea of a door that shuts permanently at a specified moment.
 
 In practice, staff should always pair 締切 with an exact date and time to eliminate ambiguity. A phrase such as キャンセル無料の締切は〇月〇日の午後三時でございます gives the guest a concrete target. When guests are close to a deadline, proactive communication is essential — reaching out a day or two in advance demonstrates the attentiveness that defines omotenashi. If a guest misses a 締切, staff must explain the consequence calmly and clearly while exploring any alternatives the property's policy may allow, such as partial refunds or rescheduling options.

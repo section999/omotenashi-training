@@ -4,9 +4,6 @@ section: 4
 title: クレーム (kuremu)
 ---
 
-**Pronunciation:** ku-**re**-mu
-**Register:** Formal — used in both guest-facing and internal hospitality contexts; carries stronger implications of formal dissatisfaction than 苦情 in many business settings.
-
 クレーム (kuremu), borrowed from the English word "claim," refers to a formal complaint — one that typically carries an expectation of remedy, compensation, or escalation. While 苦情 can describe a softer expression of dissatisfaction, クレーム implies that the guest has a firm grievance and may be requesting concrete action. In hotel and ryokan management, the phrase クレーム対応 (handling complaints) is a recognised professional skill set, and staff who handle it well are respected for their ability to de-escalate tension and protect the establishment's reputation.
 
 Receiving a クレーム should trigger a clear internal process: listen carefully, apologise sincerely, and if the issue cannot be resolved at the front-line level, contact a supervisor without delay. Staff should never argue, make excuses, or dismiss the guest's perspective, even if the complaint involves a misunderstanding. Proper documentation of クレーム is also standard practice in professional hospitality environments, as patterns of complaints can reveal systemic issues that need management attention.

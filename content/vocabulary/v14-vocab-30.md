@@ -4,9 +4,6 @@ section: 30
 title: 注意事項 (chuui jikou)
 ---
 
-**Pronunciation:** **chuu**-i-**ji**-kou
-**Register:** Formal — used in official signage, staff announcements, tour briefings, and written guest communications to convey safety guidelines and important rules.
-
 注意事項 combines 注意 (chuui, caution/attention) and 事項 (jikou, matters/items), creating a compound term meaning "matters to be careful about" — commonly translated as precautions, important notices, or safety guidelines. In the hospitality and tourism industries, 注意事項 are the specific instructions and warnings that staff communicate to guests before and during activities, facility use, or visits to attractions. They serve both a safety function — preventing accidents and protecting health — and a regulatory function, ensuring that guests comply with laws, local ordinances, and facility rules. Failing to communicate 注意事項 clearly is considered a serious lapse in professional responsibility.
 
 Tourism staff encounter 注意事項 in a wide variety of settings: onsen facilities list bathing rules including tattooed guests' restrictions; cultural heritage sites specify no-photography zones and dress codes; adventure tourism operators brief participants on physical requirements and equipment use; and hotel staff remind guests of quiet hours and evacuation procedures. Communicating 注意事項 requires a delicate balance — the information must be clear and complete without making guests feel unwelcome or distrusted. Skilled hospitality professionals frame 注意事項 positively, emphasising guest safety and a better experience rather than a list of prohibitions. Written 注意事項 in multiple languages are now standard practice at major tourist facilities across Japan.

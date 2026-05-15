@@ -4,9 +4,6 @@ section: 25
 title: 鍵 (kagi)
 ---
 
-**Pronunciation:** **ka**-gi
-**Register:** Neutral — 鍵 is an everyday word used by everyone. In hospitality contexts, staff use it in formal sentence structures (こちらが鍵でございます) rather than changing the word itself. It is widely understood and appropriate in all hotel and ryokan settings, though modern properties may more commonly reference ルームキー or カードキー (see related expressions) in day-to-day operations.
-
 鍵 (kagi) means "key" and refers primarily to a physical key — the traditional metal type used to lock and unlock a door. While many contemporary hotels have transitioned to electronic card keys, 鍵 remains a universally understood term and is still used in ryokan and smaller traditional inns that maintain physical key systems. Beyond the literal object, 鍵 carries a symbolic weight in hospitality: handing a guest their key represents the transfer of the room to them — a moment of trust and welcome that should always be executed with care and dignity.
 
 The handover of a 鍵 is one of the most choreographed moments in the check-in process. Staff typically present it with both hands (両手で渡す), make direct eye contact, and accompany the gesture with a verbal phrase: こちらがお部屋の鍵でございます。どうぞ。 If the key requires explanation — such as a traditional ryokan key with a specific locking mechanism — staff should briefly demonstrate its use before sending the guest to their room. At check-out, guests are asked to return the key (鍵のご返却をお願いいたします), and this exchange is handled with equal courtesy.

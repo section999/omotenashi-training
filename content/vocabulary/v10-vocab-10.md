@@ -4,9 +4,6 @@ section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
 
-**Pronunciation:** ryou-**shuu**-sho **hak**-kou
-**Register:** Formal — used by front desk, cashier, and administrative staff when confirming whether a guest requires an official receipt and when processing the document itself.
-
 領収書発行 refers to the issuance of an official receipt as documentary proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy — staff are expected to ask proactively rather than wait for the guest to request it. The 領収書 (receipt) serves an important function for business travelers and corporate guests who need to claim expenses: it must bear the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt cannot typically be used for business reimbursement, requiring a reissue that is inconvenient for both parties.
 
 The issuance process begins with confirming the 宛名 — the name or company name to appear on the receipt — before printing. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always require their company name. Staff should also confirm whether the guest needs the 領収書 to itemize the charges or show a consolidated amount, as different accounting departments have different requirements. Handling this correctly on the first attempt is a hallmark of professional cashier service.

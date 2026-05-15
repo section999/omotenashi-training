@@ -4,9 +4,6 @@ section: 13
 title: 追加料金 (tsuika ryoukin)
 ---
 
-**Pronunciation:** tsui-ka **ryou**-kin
-**Register:** Formal — used by front desk staff and accounts teams when informing guests of charges beyond the base plan rate, covering extra beds, late check-out, additional meals, or incidental expenses.
-
 追加料金 refers to any charge applied on top of the standard reservation price, arising from services or items that fall outside the original plan. In Japanese hotel and ryokan operations, transparency around 追加料金 is a cornerstone of trust — omotenashi culture holds that guests should never be surprised by unexpected costs, so staff are trained to communicate potential 追加料金 proactively and clearly before the service is rendered, not at checkout. Common triggers include extra beds (エキストラベッド), extending the checkout time, ordering room service after a certain hour, or adding guests to an existing booking. In ryokan, ordering alcohol beyond what is included in the plan or using certain onsen facilities outside the standard access period may also incur 追加料金.
 
 The standard phrasing for communicating this is 「〇〇には追加料金が発生いたします」 (an additional charge applies for 〇〇), which is direct, clear, and appropriately formal. Staff should provide the specific amount or rate whenever possible — saying a fee "may apply" without a figure is less reassuring than quoting 「1泊5,000円の追加料金となります」. Keeping guests fully informed is not only courteous but also reduces disputes at checkout.

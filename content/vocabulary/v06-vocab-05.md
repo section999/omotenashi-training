@@ -4,9 +4,6 @@ section: 5
 title: 修理依頼 (shuuri irai)
 ---
 
-**Pronunciation:** shuu-**ri**-i-**rai**
-**Register:** Formal — used by both guests and staff when formally requesting or logging a repair; standard in hotel maintenance and front-desk communication.
-
 修理依頼 (shuuri irai) combines 修理 (repair) and 依頼 (request), together forming the standard expression for a repair request in Japanese hospitality settings. When a guest reports that something in their room or in the facility is broken — whether a leaking tap, a non-functioning television, or a faulty door lock — the correct professional response is to acknowledge the 修理依頼 formally and initiate the appropriate maintenance procedure. In omotenashi culture, speed and accuracy in handling 修理依頼 are direct indicators of the quality of an establishment's service standards.
 
 In practice, 修理依頼 is both spoken and written. Staff at the front desk will typically log the request in the maintenance system, communicate the timeline to the guest, and follow up after the repair is completed. The word 承ります (uketamawarimasu — I receive/accept your request) is the most appropriate response phrase, as it commits the hotel to action while remaining humble. If a repair cannot be completed immediately, offering alternative solutions — such as a room change or a loan of equipment — is expected as part of professional service recovery.

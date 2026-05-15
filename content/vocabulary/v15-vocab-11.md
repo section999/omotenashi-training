@@ -4,9 +4,6 @@ section: 11
 title: 発送 (hassou)
 ---
 
-**Pronunciation:** has-**sou**
-**Register:** Neutral to Formal — used in both front desk conversations and written service instructions.
-
 発送 refers to the act of dispatching or sending items out from one location to another, domestically or internationally. In Japanese hospitality, 発送 is most commonly associated with helping guests send purchased souvenirs, personal belongings, or excess luggage to a home address or a subsequent hotel. This service is a major convenience, particularly for tourists who do not want to carry heavy or bulky items throughout their trip. Many hotels in Japan work closely with courier companies (宅配便) to offer 発送 at competitive rates, with packaging materials available at the front desk.
 
 When assisting a guest with 発送, staff should help complete the shipping form accurately, confirm the delivery address, advise on expected transit times, and inform the guest of any restrictions on what can be shipped (such as liquids or lithium batteries on international routes). Offering to handle the paperwork on the guest's behalf — particularly for guests who do not read Japanese — is an act of thoughtful omotenashi. Staff should always provide the guest with a tracking number (管理番号) or receipt after completing the 発送.

@@ -4,9 +4,6 @@ section: 19
 title: 残高 (zandaka)
 ---
 
-**Pronunciation:** **zan**-da-ka
-**Register:** Neutral to Formal — 残高 is used naturally in financial, banking, and hospitality contexts. Staff use it when discussing prepaid card balances, loyalty point totals, or remaining credit on a guest account. Guests may ask about 残高 themselves. The term is precise and professional without being overly stiff, making it appropriate for both written statements and spoken interaction.
-
 残高 refers to the remaining balance in an account, on a prepaid card, or within a guest's accumulated charges. In hospitality settings, 残高 most commonly appears in two contexts: the remaining balance on a guest's prepaid account or hotel card (positive 残高 meaning money left to spend), and the outstanding balance owed before full settlement (negative 残高 meaning the amount still to be paid). Understanding this dual direction of 残高 is important for staff, as the same word can describe either a credit or a debt depending on context. Accurate 残高 tracking is essential to prevent underpayment at checkout or overselling of prepaid services.
 
 Staff should be ready to communicate 残高 clearly and tactfully in situations such as informing a guest that their prepaid card balance is insufficient (残高不足) or providing a balance inquiry during a stay. Proactively checking and communicating 残高 before the final bill prevents awkward surprises at checkout. In ryokan and resort settings where all services are often settled at once at the end of a stay, monitoring each guest's running 残高 is a critical backstage function that supports a smooth departure experience.

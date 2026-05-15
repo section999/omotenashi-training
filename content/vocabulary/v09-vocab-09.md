@@ -4,9 +4,6 @@ section: 9
 title: 人数 (ninzuu)
 ---
 
-**Pronunciation:** nin-**zuu**
-**Register:** Formal — used by front desk agents, reservation staff, and restaurant hosts when confirming the total number of guests in a party for room allocation, meal preparation, and safety compliance.
-
 人数 is the total count of individuals included in a reservation, encompassing adults (大人), children (子供), and infants (幼児). In Japanese hotel and ryokan operations, confirming 人数 is never merely an administrative formality — it directly determines room capacity assignment, the number of futon or beds to prepare, the portions planned for kaiseki or buffet service, and compliance with fire safety regulations that cap the number of occupants per room. Ryokan in particular are meticulous about 人数 because each additional guest triggers a corresponding adjustment in meal portions, yukata sizes, and amenity quantities. Over- or under-reporting 人数 disrupts operations and can create safety risks.
 
 Staff confirm 人数 at multiple stages: during initial reservation, again at check-in, and sometimes when guests arrive at the dining area. The standard phrasing 「お客様のご人数をお知らせください」 is used at front desk, while 「お何名様でしょうか」 is the equivalent greeting at a restaurant host stand. Both are necessary expressions for anyone working in Japanese hospitality. If a guest's actual party size differs from the reservation, staff must update the record immediately to ensure every department receives accurate information.

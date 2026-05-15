@@ -4,9 +4,6 @@ section: 23
 title: 注意 (chuui)
 ---
 
-**Pronunciation:** **chuu**-i
-**Register:** Neutral — widely used in both everyday and formal hotel communication; appears prominently on safety signage, in verbal warnings to guests, and in written safety guidelines.
-
 注意 (chuui) means caution or attention — a warning to take care in a situation that presents a moderate level of risk. In the context of hospitality safety signage, 注意 represents the lowest tier of hazard communication, indicating a potential hazard that could cause minor injury or inconvenience if not heeded. Common hotel scenarios for 注意 include wet floor signs after mopping, caution notices near steps or uneven surfaces, reminders around pool decks, and warnings near hot surfaces in a buffet area. The word is derived from 注 (to pour attention into) and 意 (mind, intention), conveying the idea of directing one's full awareness toward a situation.
 
 Beyond signage, 注意 is a vital part of verbal communication in hotel service. Staff frequently use the phrase 足元にご注意ください (please watch your step) when guiding guests through areas under construction, down staircases, or across uneven terrain. Similarly, お荷物にご注意ください (please be careful with your belongings) serves as a gentle reminder in crowded lobby areas. The verb form 注意する means to be careful or to caution someone, and in safety contexts, staff may say 注意してください when alerting a guest to a nearby hazard. Because 注意 signals a moderate — not extreme — level of risk, it should not be used for genuinely dangerous situations, which call for 危険 (danger) or 警告 (warning) instead.

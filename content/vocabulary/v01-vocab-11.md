@@ -4,10 +4,6 @@ section: 11
 title: どうぞ (douzo)
 ---
 
-**Pronunciation:** dō-zo — two syllables; the first is a long *ō* sound, do not shorten it to *do*
-
-**Register:** Polite — *dōzo* is versatile and appropriate in most professional contexts. It is warm without being overly formal, and it works across a wide range of offering and inviting situations.
-
 **どうぞ** is one of the most versatile words in Japanese hospitality. Its core meaning is "please" or "go ahead," but its nuance shifts depending on the situation. When presenting an item to a guest, *dōzo* means "here you are." When inviting a guest to enter a space, it means "please come in." When offering a seat, it means "please sit." When yielding at a door, it means "please, after you." In each case, *dōzo* is the gentle hand extended toward the guest — an invitation without pressure.
 
 The word is almost always accompanied by a physical gesture: presenting an item with both hands, gesturing toward a seat, opening a door. The gesture and the word work together; one without the other feels incomplete. In Japanese hospitality, the physical act of giving or offering is as important as the verbal acknowledgement.

@@ -4,9 +4,6 @@ section: 24
 title: 緊急連絡先 (kinkyuu renrakusaki)
 ---
 
-**Pronunciation:** **kin**-kyuu **ren**-ra-ku-sa-ki
-**Register:** Neutral to Formal — used in both guest-facing contexts (at check-in, in emergency instructions) and internal operational communication (between front desk, security, and management). The term itself is direct and clear; it can be used with guests without modification, though the surrounding request should use polite keigo forms.
-
 緊急連絡先 refers to an emergency contact — a phone number or person that can be reached when an urgent situation arises involving a guest. In Japanese hotels and ryokan, collecting this information is standard practice at check-in, both as a safety protocol and as an expression of the hotel's duty of care toward each guest. Having accurate 緊急連絡先 information can be critical in medical emergencies, accidents, or situations where a guest cannot be reached directly.
 
 Staff ask for 緊急連絡先 during the check-in process using a polite, non-alarming phrasing such as ご緊急の場合のご連絡先をお教えいただけますか (may I have your emergency contact information?). This information must be stored securely and made accessible to relevant staff (front desk, security, medical liaison) without compromising guest privacy. Staff should also know how to quickly retrieve and act on 緊急連絡先 during an actual emergency, minimizing delays when every second counts.

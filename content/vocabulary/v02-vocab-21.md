@@ -4,9 +4,6 @@ section: 21
 title: 変更 (henkou)
 ---
 
-**Pronunciation:** **hen**-kō
-**Register:** Formal / Neutral — 変更 is a slightly formal word used in professional and administrative contexts. In hospitality, it appears in spoken and written communication when discussing reservation adjustments. Staff attach the honorific ご prefix when referring to a guest's modification: ご変更 (go-henkō). It is more formal than 変える (kaeru, to change casually) and more appropriate than the informal alternatives in front-desk speech.
-
 変更 means "change" or "modification" in the sense of an official alteration to an existing arrangement, plan, or reservation. In hotel settings, guests frequently request 変更 to adjust their check-in or check-out dates, room type, number of guests, or special requests. Unlike キャンセル (cancellation), 変更 preserves the original booking relationship while updating its details. Staff should always respond to change requests with a cooperative and accommodating attitude, checking availability before confirming or offering alternatives.
 
 When handling a 変更 request, the typical staff workflow begins with acknowledging the request (ご変更のご希望でございますね), checking the system for availability, and then either confirming the change or politely explaining limitations (ご希望のお部屋は満室でございますが、〇〇タイプはご用意できます). If a change incurs an additional charge — such as upgrading a room type mid-stay — this must be clearly communicated. Confirming all modifications with a summary statement such as 変更内容をご確認いただけますか ensures accuracy and prevents misunderstandings.

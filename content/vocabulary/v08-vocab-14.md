@@ -4,9 +4,6 @@ section: 14
 title: 手前 (temae)
 ---
 
-**Pronunciation:** te-**ma**-e
-**Register:** Neutral to Formal — used by all hospitality staff in spatial guidance; carries a slightly more refined nuance than simply saying "near" and is well suited to polished hotel speech.
-
 手前 (temae) means "the near side," "just before," or "in front of" in a spatial sense — specifically indicating a location that is close to the speaker or to the entrance of a space, as opposed to farther inside. It forms the natural counterpart to 奥 (the far interior) and together these two words describe the near-far spatial axis that is fundamental to Japanese wayfinding language. In hospitality contexts, 手前 is used when a facility or counter is located near the entrance or in the first part of a room, so guests do not need to walk all the way in — a distinction that saves time and prevents confusion in large lobbies, restaurants, or corridors.
 
 The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). This last usage is particularly important: 手前 can indicate "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (〜で). Staff should use it precisely to avoid sending guests past their destination.

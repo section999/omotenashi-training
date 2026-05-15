@@ -334,6 +334,7 @@
     }
 
     /* ── VOCAB PRONUNCIATION WIDGET ────────────────────────────────── */
+    .vocab-pron-widget { margin-bottom: 2rem; }
     .vocab-pron-btns { display: flex; gap: 10px; margin-top: 14px; }
     .vocab-pron-btns .quiz-check { flex: 1; margin: 0; }
     .vocab-pron-romaji { font-size: 0.9rem; color: var(--text-muted); margin-top: 4px; font-family: var(--font-mono); }
@@ -1781,6 +1782,7 @@ function wrapJapanese(root) {
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
       const span = document.createElement('span');
       span.className = 'jp-word';
+      span.setAttribute('lang', 'ja');
       span.textContent = m[0];             // text captured at this iteration
       span.title = 'クリックで発音を聞く';
       frag.appendChild(span);
@@ -1880,7 +1882,7 @@ function injectVocabPronWidget(jp, romaji) {
   const section = document.querySelector('.lesson-section');
   if (!section) return;
   const widget = document.createElement('div');
-  widget.className = 'section-quiz';
+  widget.className = 'section-quiz vocab-pron-widget';
   widget.innerHTML = `
     <div class="quiz-label">Pronunciation</div>
     <div class="quiz-q"></div>
@@ -1894,8 +1896,8 @@ function injectVocabPronWidget(jp, romaji) {
   widget.querySelector('.vocab-pron-romaji').textContent = romaji;
   widget.querySelector('.vocab-pron-btns button:first-child').addEventListener('click', () => speakJp(jp));
   widget.querySelector('.vocab-pron-btns button:last-child').addEventListener('click', function() { vocabPractice(jp, this); });
-  const quiz = section.querySelector('.section-quiz');
-  quiz ? section.insertBefore(widget, quiz) : section.appendChild(widget);
+  const heading = section.querySelector('.section-heading');
+  heading ? heading.insertAdjacentElement('afterend', widget) : section.prepend(widget);
 }
 
 let _vocabActiveRec = null;

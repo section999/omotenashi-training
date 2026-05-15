@@ -4,10 +4,6 @@ section: 17
 title: ようこそ (youkoso)
 ---
 
-**Pronunciation:** yō-ko-so — three syllables; *yō* is a long vowel; do not shorten it to *yo*
-
-**Register:** Polite to formal — more often found in written greetings, announcements, and ceremonial welcomes than in everyday spoken hospitality. When spoken, it has a slightly elevated, celebratory quality.
-
 **ようこそ** means "welcome" — but it carries a more expansive, commemorative warmth than the operational *irasshaimase*. While *irasshaimase* signals immediate service readiness ("welcome, I am here for you"), *yōkoso* signals honour and celebration ("we are truly glad you have come"). It is the welcome on a banner at the entrance to a festival; it is the first word of a letter to a valued guest; it is the opening of a welcoming speech.
 
 In Japanese hospitality, *yōkoso* is used in moments that have a slightly ceremonial or commemorative quality: the opening sentence of a welcome letter in the room, the greeting displayed on a digital welcome screen, the first line of a formal introduction at a banquet, or the phrase said to a very special guest upon arrival. It is also commonly combined with a location or occasion: *yōkoso, Nihon e* (welcome to Japan), *yōkoso, [hotel name] e* (welcome to [hotel name]).

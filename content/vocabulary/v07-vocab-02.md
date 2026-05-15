@@ -4,9 +4,6 @@ section: 2
 title: 階段 (kaidan)
 ---
 
-**Pronunciation:** **kai**-dan
-**Register:** Formal/Neutral — used by hotel and ryokan staff both in routine direction-giving and in emergency situations; the register should be calm and authoritative during drills or evacuations.
-
 階段 refers to a staircase and holds dual importance in the hospitality setting: it is both a routine navigational option and the mandatory evacuation route in emergencies. In the context of omotenashi, proactively mentioning the stairs to guests who may benefit — such as those seeking light exercise, guests on the second floor, or those uncomfortable with elevators — demonstrates thoughtful attentiveness. Knowing the exact location and condition of every stairwell in the building is therefore a non-negotiable part of staff training. In ryokan and traditional properties, staircases may be narrow or steep, so warning guests in advance prevents accidents and reflects professional care.
 
 During fire drills and actual emergencies, the word 階段 becomes critical operational vocabulary. Staff must be able to direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit especially from concise, repeated instruction. It is equally important that staff themselves know which stairwells are pressurized, which exit to the street, and any access restrictions that apply to guest-facing routes.

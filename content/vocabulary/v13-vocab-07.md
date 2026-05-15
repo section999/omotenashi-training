@@ -4,9 +4,6 @@ section: 7
 title: 出勤 (shukkin)
 ---
 
-**Pronunciation:** **shuk**-kin
-**Register:** Formal — standard workplace term used in attendance management, HR records, and daily staff communications in hotels and hospitality businesses.
-
 出勤 means to arrive at work or to come in for one's shift. The kanji break down neatly: 出 means "to go out / to come," and 勤 means "diligent service" — so 出勤 literally means "setting out to perform one's duties." In Japanese hospitality culture, punctuality is not merely appreciated; it is expected as a baseline professional standard. Arriving on time for 出勤 signals respect for one's colleagues, one's manager, and ultimately the guests who depend on fully staffed service. Many hotels and ryokan use electronic time-stamp systems (タイムカード) to record each employee's 出勤 time precisely.
 
 From a management perspective, monitoring 出勤 records allows supervisors to identify patterns of lateness, calculate actual working hours for payroll, and ensure legal compliance with Japanese labour laws regarding minimum rest periods. For employees, understanding 出勤 as a formal obligation — not just a casual act of "showing up" — is essential for building a professional reputation in Japan's service industry, where reliability directly affects team trust and guest satisfaction.

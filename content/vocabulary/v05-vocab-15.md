@@ -4,9 +4,6 @@ section: 15
 title: 会計 (kaikei)
 ---
 
-**Pronunciation:** **ka**-i-ke-i
-**Register:** Formal to Neutral — 会計 is the standard word used by restaurant and hotel F&B staff when discussing billing. The honorific prefix お is regularly added in guest-facing speech (お会計), making it polite without being overly ceremonial. It is appropriate both at tableside and at a cashier counter.
-
 会計 refers to the bill or the act of settling payment after dining, and more broadly encompasses accounting or financial settlement in a business context. In Japanese hospitality, the handling of お会計 is considered a critical moment in the guest experience — it is often the last direct interaction before the guest leaves, and a smooth, accurate, and gracious payment process leaves a lasting positive impression. Mistakes or awkwardness at this stage can overshadow an otherwise excellent dining experience, which is why staff training dedicates significant attention to payment procedures and language.
 
 In practical restaurant and hotel F&B settings, staff use 会計 when presenting the bill, directing guests to the cashier, or confirming payment methods. The phrase お会計はこちらで承ります ("we will take care of the bill here") is a standard tableside or cashier expression. Staff may also ask お支払い方法はいかがなさいますか ("how would you like to pay?") after presenting お会計 to smoothly transition into payment confirmation. Knowing the vocabulary surrounding 会計 — including 領収書 (receipt) and 分けて (split) — prepares staff for the full range of billing scenarios.

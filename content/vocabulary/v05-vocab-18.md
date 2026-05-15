@@ -4,9 +4,6 @@ section: 18
 title: 喫煙席 (kitsuen seki)
 ---
 
-**Pronunciation:** **ki**-tsu-en **se**-ki
-**Register:** Formal to Neutral — used by front-of-house staff in the same contexts as 禁煙席, always as part of a paired offering or directional statement. The word is neutral in tone; staff must take care to deliver it without any hesitation or negative inflection, so that guests who prefer to smoke feel respected in their choice.
-
 喫煙席 refers to a smoking seat or smoking section — a designated area of a restaurant or dining venue where guests are permitted to smoke. In Japan's evolving tobacco regulation landscape, indoor 喫煙席 have become increasingly rare in hotels and restaurants, with many establishments either going fully non-smoking or confining smoking to separately ventilated rooms or outdoor terraces. Despite this trend, knowing how to accurately direct a guest to a 喫煙席, or politely explain its absence, remains an important front-of-house skill.
 
 In practice, staff guide guests to 喫煙席 using directional phrases such as 喫煙席はこちらでございます ("the smoking section is this way"). If 喫煙席 is available only in a specific location — such as a separate room or terrace — staff should explain clearly: 喫煙席は2階にございます ("the smoking section is on the 2nd floor"). When a venue has eliminated 喫煙席 entirely, staff should inform the guest proactively and offer alternatives: 当店は全席禁煙でございます。屋外に喫煙スペースがございます ("this restaurant is entirely non-smoking; there is a smoking area outside").

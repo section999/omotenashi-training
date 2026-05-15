@@ -4,9 +4,6 @@ section: 21
 title: 追加 (tsuika)
 ---
 
-**Pronunciation:** **tsui**-ka
-**Register:** Neutral to Formal — 追加 appears in both written requests (備品追加依頼, additional amenity request) and spoken service language. In guest-facing contexts it is wrapped in polite structures: 「追加でご用意いたします」 or 「追加料金が発生する場合がございます」. The word itself is standard Japanese, making it appropriate in both hotel and restaurant environments.
-
 追加 combines the characters for "pursue/chase" (追) and "add" (加), together conveying the idea of adding on top of what already exists. In hospitality, it typically signals a guest request that goes beyond what was originally arranged — an extra towel, an additional bed (加ベッド), an extra portion at dinner, or a supplementary service. Responding to 追加 requests gracefully is a hallmark of quality service: the best properties fulfill them before guests even need to ask twice.
 
 Staff encounter 追加 most frequently at the front desk and in housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an additional item or service carries a charge, staff must clearly state this: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). Proactive communication prevents misunderstandings at checkout.

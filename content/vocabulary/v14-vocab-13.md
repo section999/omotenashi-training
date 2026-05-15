@@ -4,9 +4,6 @@ section: 13
 title: 人気 (ninki)
 ---
 
-**Pronunciation:** nin-**ki**
-**Register:** Neutral — used naturally in both spoken and written hospitality contexts when describing popular attractions, services, or dining options.
-
 人気 (ninki) means "popularity" and describes anything that is well-liked, in high demand, or frequently chosen by many people. In tourism and hospitality settings, the word appears constantly — from hotel concierges recommending popular local restaurants to tour brochures highlighting must-see attractions. The concept carries a positive, trustworthy connotation, implying that something has been tried and approved by a large number of people. Guests often specifically seek out 人気スポット (ninki supotto, popular spots) because the crowd's endorsement provides reassurance.
 
 For hotel staff, 人気 is a powerful tool in service conversations. When a guest asks for a recommendation, responding with 「こちらはとても人気があります」("This one is very popular") signals genuine helpfulness without pushing a personal opinion. The phrase 人気ランキング (ninki rankingu, popularity ranking) appears on tourist maps, app listings, and printed guides, and staff who can cite these rankings are seen as knowledgeable and attentive. Being aware of seasonal 人気 — such as cherry blossom viewing spots in spring or autumn foliage destinations — allows concierges to tailor recommendations to the time of year.

@@ -4,9 +4,6 @@ section: 2
 title: チェックイン (check-in)
 ---
 
-**Pronunciation:** che-**ku**-in
-**Register:** Formal — used by front desk staff and guests alike; the loanword itself is neutral, but surrounding keigo elevates the register appropriately.
-
 チェックイン is the formal process by which a guest registers upon arriving at a hotel, ryokan, or similar accommodation. It encompasses confirming the reservation, verifying identification, explaining room details and hotel facilities, collecting payment information, and issuing the room key. This moment is considered the most critical touchpoint in Japanese hospitality because it shapes the guest's entire impression of the property. Staff are trained to complete チェックイン smoothly and warmly, treating it not merely as an administrative task but as a genuine welcome ritual.
 
 From a practical standpoint, the チェックイン process requires staff to speak clearly, use appropriate honorifics when referring to the guest's name and reservation, and guide the guest step by step without rushing. Phrases such as チェックインでございますか are used to confirm the guest's purpose upon approach, and かしこまりました is the expected response once the purpose is understood. In busy periods, managing a queue politely while ensuring each guest feels individually attended to is a hallmark of skilled front desk performance.

@@ -4,9 +4,6 @@ section: 30
 title: 早割 (hayawari)
 ---
 
-**Pronunciation:** ha-ya-**wa**-ri
-**Register:** Neutral/Formal — used in reservations, promotional materials, and front desk communications when explaining discounted rates for advance bookings.
-
 早割 (hayawari) is a compound of 早い (hayai, early) and 割引 (waribiki, discount), typically abbreviated to 割 in compound forms. It refers to an early-bird discount — a reduced rate offered to guests who book a certain number of days or weeks in advance of their stay, rewarding forward planning. In the Japanese hotel industry, 早割 plans are widely used as a revenue management tool: by locking in reservations early, hotels can forecast occupancy, staff appropriately, and reduce last-minute uncertainty. Common structures include 30日前早割 (30-day advance rate), 60日前早割, and 90日前早割, each offering progressively deeper discounts the further in advance the guest commits.
 
 From a staff perspective, 早割 rates typically come with conditions that must be communicated clearly at the time of booking: they are almost always prepaid (事前決済), non-refundable (返金不可), and modification-restricted (変更不可). When a guest qualifies for a 早割, the professional response is to confirm the discount proactively rather than waiting for the guest to ask — 早割が適用され、通常料金より〇〇円お得でございます (the early bird discount has been applied, saving you [amount] yen compared to the standard rate). This proactive disclosure demonstrates transparency and makes the guest feel rewarded. Staff should also note that 早割 eligibility is based on the booking date, not the stay date, so the calculation must reference when the reservation was made.

@@ -4,9 +4,6 @@ section: 14
 title: 病気 (byouki)
 ---
 
-**Pronunciation:** **byou**-ki
-**Register:** Neutral — appropriate across all hospitality contexts when addressing a guest's health condition, though more formal phrasing is expected when speaking directly to guests.
-
 病気 (byouki) describes a physical or mental health condition that impairs a person's normal functioning, encompassing illnesses ranging from mild colds and food poisoning to serious conditions requiring hospitalisation. In Japanese hotels, guest wellbeing is treated with the utmost seriousness, and staff are expected to respond to signs of 病気 with both genuine care and calm professionalism. The cultural value of 思いやり (omoiyari) — empathy — means that staff should acknowledge a guest's distress before moving to practical solutions. Recognising symptoms early and responding appropriately reflects the spirit of omotenashi.
 
 When a guest reports feeling unwell, staff should first ask about their symptoms in simple, clear language before offering assistance. The front desk can typically arrange a hotel doctor visit (ドクターコール), direct the guest to the nearest hospital, or provide basic over-the-counter medications where permitted. For international guests, language barriers may complicate communication, so hotels often maintain multilingual health-related phrase cards and a list of nearby clinics with English-speaking staff. All incidents of guest illness should be recorded, and if a contagious illness is suspected, hygiene protocols must be immediately activated to protect other guests and staff.

@@ -4,9 +4,6 @@ section: 32
 title: 日本語対応 (nihongo taiou)
 ---
 
-**Pronunciation:** ni-hon-go-**tai**-ou
-**Register:** Formal — used in hospitality and business communication to indicate that Japanese-language service is available, particularly relevant in multilingual or international hotel environments where this capability must be explicitly stated.
-
 日本語対応 (日本語対応) combines 日本語 (the Japanese language) and 対応 (support, handling, response) to describe the availability of service in Japanese. While 日本語対応 is the default expectation within Japan, explicitly stating it serves a specific communicative purpose in certain contexts. On multilingual hotel websites or international booking platforms, advertising 日本語対応 assures Japanese-speaking guests — including overseas Japanese nationals and Japanese-speaking travelers from other countries — that they will receive full, natural service in their mother tongue rather than being redirected to a translator or offered only approximate assistance. In a globalized hotel environment, this distinction matters.
 
 日本語対応 also plays a role in internal communications and in setting expectations for international staff. A hotel with a multinational workforce may need to designate certain staff as 日本語対応 to ensure that guests seeking assistance in Japanese are connected with appropriately proficient team members. For non-native Japanese speaking staff, 日本語対応 can serve as a personal proficiency milestone to work toward, indicating that their Japanese has reached a level suitable for guest-facing service. Training programs often structure certification levels around the concept of 対応 — at what level of Japanese can a staff member comfortably 対応 in a given scenario.

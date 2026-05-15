@@ -4,9 +4,6 @@ section: 27
 title: 文化 (bunka)
 ---
 
-**Pronunciation:** **bun**-ka
-**Register:** Neutral — used in both casual and formal tourism contexts when discussing Japanese traditions, arts, and social practices with guests and colleagues.
-
 文化 means culture — the collective traditions, values, arts, social practices, and customs that define a society's identity and way of life. In the context of Japanese tourism and hospitality, 文化 is one of the most frequently discussed topics because many visitors come to Japan specifically to experience its unique cultural heritage, from ancient temple ceremonies and tea rituals to contemporary pop culture and cuisine. Hotel and tourism staff who can speak knowledgeably about 文化 are better equipped to enrich the guest experience, recommend meaningful activities, and answer questions that go beyond logistics.
 
 Understanding and communicating about 文化 is also important for hospitality professionals because it helps bridge potential misunderstandings between guests from different backgrounds and Japanese social norms. When a guest unknowingly acts in a way that conflicts with local 文化 — such as tipping in a restaurant or speaking loudly in a shrine — a staff member who can gently and respectfully explain the relevant cultural context turns an awkward moment into a learning opportunity. Tourism staff often use phrases such as 「日本の文化では～とされています」 (In Japanese culture, it is considered that...) to frame cultural explanations diplomatically without making guests feel criticised.

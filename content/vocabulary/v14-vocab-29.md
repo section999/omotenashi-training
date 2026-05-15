@@ -4,9 +4,6 @@ section: 29
 title: マナー (manaa)
 ---
 
-**Pronunciation:** ma-**naa**
-**Register:** Neutral to Polite — used in public signage, staff training, and guest communication across transportation, hospitality, and tourism sectors.
-
 マナー is a loanword from the English "manners," referring to the socially accepted standards of behaviour that people are expected to observe in various settings. In Japan, マナー carries particular importance because the harmony and comfort of shared public spaces — trains, temples, hotels, restaurants — depend on everyone following established norms of consideration for others. Unlike rules (ルール, ruuru) which are formally enforced, マナー are social expectations maintained through awareness and mutual respect. Hospitality and tourism staff frequently encounter situations where guests are unaware of local マナー, and navigating these moments with grace is a key professional skill.
 
 In hotel and tourism contexts, マナー covers a wide range of behaviours: keeping voices low in lobby areas, not using mobile phones in certain settings, following onsen bathing protocols, respecting no-photography zones at cultural sites, and dressing appropriately when visiting temples and shrines. Staff training emphasises that when informing guests about マナー, the communication should be gentle, informative, and respectful — never condescending. Common signage phrases such as 「静かにお願いします」 (please be quiet) and 「飲食はご遠慮ください」 (please refrain from eating and drinking) communicate マナー expectations without singling out individuals. Mastering these phrases helps tourism staff manage guest behaviour effectively while preserving the positive atmosphere.

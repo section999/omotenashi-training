@@ -4,10 +4,6 @@ section: 10
 title: はい / いいえ (hai / iie)
 ---
 
-**Pronunciation:** ha-i / i-i-e — *hai* is one clear syllable with a rising tone; *iie* has two distinct *i* sounds — do not reduce it to a single *ie*
-
-**Register:** Neutral — *hai* and *iie* are the base forms, but in formal settings they are typically combined with polite phrases. A bare *iie* to a guest can sound abrupt; a bare *hai* can sound terse. In professional contexts, these words are almost always part of a larger response.
-
 **はい** (yes) and **いいえ** (no) are among the first words any Japanese learner encounters, but their use in professional hospitality is more nuanced than simple agreement or disagreement. The manner, speed, and follow-up of these responses shape how they land — a confident, clear *hai* with a slight nod communicates attentiveness; a hesitant *hai* can suggest uncertainty.
 
 In Japanese service culture, *iie* requires particular care. Directly refusing a guest with a flat *iie* can feel blunt or even rude. Native speakers and experienced hospitality professionals often soften the negative with a humble lead-in: *moushiwake gozaimasen ga, chotto muzukashii jōkyō de gozaimasu* ("I am very sorry, but the situation is a little difficult") — or they offer an alternative rather than a flat refusal. The art of saying "no" in Japanese hospitality is the art of redirecting without rejecting.

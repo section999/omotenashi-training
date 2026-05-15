@@ -4,9 +4,6 @@ section: 12
 title: おかわり (okawari)
 ---
 
-**Pronunciation:** o-ka-**wa**-ri
-**Register:** Neutral-to-Formal — the word itself is everyday Japanese, but in a hotel or restaurant setting it is always used with polite verb forms; offering おかわり proactively is a hallmark of attentive service.
-
 おかわり means a second helping or refill, and in the context of Japanese hospitality it carries a deeper significance than a simple top-up. Offering おかわり before a guest's glass is empty or their rice bowl is bare is an expression of 気配り (kikubari) — the attentive awareness of a guest's needs that distinguishes reactive service from truly anticipatory hospitality. In traditional Japanese dining, the act of silently refilling a guest's tea or green tea without being asked is considered an art form. At hotel restaurants, the same principle applies: watching the level of drinks, bread baskets, or buffet items and offering replenishment at exactly the right moment elevates the entire dining experience.
 
 Practically, おかわり applies across multiple dining scenarios: coffee refills after breakfast, water refills throughout a meal, rice refills at Japanese-style dinners, and beverage top-ups in the lounge. The phrasing should always be a soft offer rather than a direct question — お飲み物のおかわりはいかがでしょうか is far more graceful than おかわりしますか. When a guest declines, always acknowledge with a warm response such as かしこまりました or 承知いたしました and retreat without making the guest feel they have inconvenienced you.

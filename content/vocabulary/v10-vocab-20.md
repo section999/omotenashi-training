@@ -4,9 +4,6 @@ section: 20
 title: 不足 (fusoku)
 ---
 
-**Pronunciation:** **fu**-so-ku
-**Register:** Neutral to Formal — 不足 is a standard Japanese word used across many contexts including everyday speech, business communication, and hospitality. In a guest-facing situation, staff pair it with polite verb forms to soften its impact. The compound 残高不足 (insufficient balance) and verb form ご不足 are the most common hospitality-specific uses.
-
 不足 means a shortage, insufficiency, or deficit — specifically that the amount provided is less than what is required. In hospitality and payment contexts, it most often refers to a guest's payment being short of the total due, or a prepaid balance being insufficient to cover a service charge. This situation, while potentially awkward, must be handled with composure and discretion in Japanese hospitality. How a staff member communicates 不足 to a guest — particularly in a public or semi-public space — directly affects the guest's dignity and their overall impression of the establishment.
 
 The most important practical skill with 不足 is phrasing the notification correctly. Rather than stating blbare facts bluntly (お金が足りません), staff should use the formal construction 〇〇円ご不足です to indicate the exact shortfall without suggesting carelessness on the guest's part. It is equally important to immediately follow the notification with a solution: offering alternative payment methods, suggesting a smaller transaction, or discreetly stepping away to process a supplementary payment. In ryokan and high-end hotels, this type of conversation should ideally happen away from other guests.

@@ -4,9 +4,6 @@ section: 22
 title: 使用禁止 (shiyou kinshi)
 ---
 
-**Pronunciation:** shi-**you** **kin**-shi
-**Register:** Formal — used in official signage, written notices, and formal verbal communication when a guest must be prevented from using a facility or device for safety or operational reasons.
-
 使用禁止 (shiyou kinshi) means "do not use" or "use prohibited" — a directive that restricts access to a particular device, facility, or area. The compound combines 使用 (use, utilisation) and 禁止 (prohibition, ban), making it one of the clearest and most unambiguous safety communications in a Japanese hotel. Unlike 点検中 (under inspection), which implies a temporary pause pending a check, 使用禁止 carries the force of a rule — the facility cannot and must not be used until the prohibition is lifted. Common contexts in hotels include pool closures for water quality testing, out-of-order gym equipment, malfunctioning kitchen appliances, or areas sealed following an incident.
 
 When posting a 使用禁止 notice, staff must ensure it is clearly visible at every access point to the restricted facility and that the reason for the prohibition is communicated, either on the sign or verbally. Guests should never be left guessing — providing a brief explanation such as 安全確認のため (for safety verification) or 設備修理のため (for equipment repair) reassures guests that the restriction is purposeful and temporary. In cases where the prohibition affects a service the guest was expecting — such as a pool included in their booking — it is important to offer alternatives or compensation as appropriate. Compliance monitoring is also a staff duty; if a guest disregards the 使用禁止 sign, staff must intervene calmly and politely to prevent injury or damage.

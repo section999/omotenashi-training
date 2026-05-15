@@ -4,9 +4,6 @@ section: 17
 title: 切断 (setsudan)
 ---
 
-**Pronunciation:** **se**-tsu-dan
-**Register:** Neutral to Formal — used by hotel staff when reporting or explaining a phone disconnection, both in internal communications and when addressing guests. While the word itself is not especially elevated, it is more precise and professional than simply saying 電話が切れた in a guest-facing context.
-
 切断 means that a telephone call has been completely severed — the connection has ended abruptly and unintentionally. In Japanese hospitality, a call that drops mid-conversation is not simply a technical inconvenience; it is a service failure that must be addressed immediately. Staff are expected to recognize when a 切断 has occurred and to take proactive steps to reconnect with the guest rather than waiting for them to call back.
 
 The standard recovery procedure after a 切断 is to call the guest back as quickly as possible and open with an apology: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). This acknowledges the disruption before continuing with the conversation. Distinguishing 切断 from 接続不良 (poor connection that is intermittent) is also important — a complete 切断 requires a callback, while 接続不良 may be resolved by asking the guest to switch to another line.

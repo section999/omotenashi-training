@@ -4,9 +4,6 @@ section: 17
 title: トイレ (toilet)
 ---
 
-**Pronunciation:** **to**-i-re
-**Register:** Neutral — トイレ is widely used across all registers, from informal daily conversation to formal hotel guidance. In keigo contexts, it may be preceded by honorific お (お手洗い is more refined), but トイレ itself is universally understood and not considered rude in professional settings.
-
 トイレ is a loanword from the French "toilette," and in Japanese it refers specifically to the toilet or restroom. In Japanese hotels, the toilet is often a point of genuine interest for international guests, as Japan is renowned for its technologically advanced washlets (ウォシュレット) featuring heated seats, bidet functions, and automated lids. Staff who can explain these features not only help guests use the facilities comfortably but also highlight an aspect of Japanese innovation that contributes to the country's reputation for exceptional hospitality. Knowing correct and polite phrasing for guiding guests to the toilet or explaining its features is a core competency for hotel and ryokan staff.
 
 In practical hotel contexts, トイレ is most commonly used when guests ask for directions or when staff explain room layout at check-in: 「トイレはこちらでございます」 (the toilet is this way) or 「お手洗いはエレベーターの隣にございます」 (the restroom is next to the elevator). Staff should always combine verbal direction with a gesture — pointing or gently indicating the direction — consistent with Japanese hospitality etiquette. In some hotels, the toilet is a separate room from the bath, which is worth clarifying to guests unfamiliar with this layout.

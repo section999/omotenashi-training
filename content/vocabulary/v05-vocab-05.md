@@ -4,9 +4,6 @@ section: 5
 title: バイキング (baikingu)
 ---
 
-**Pronunciation:** ba-i-**kin**-gu
-**Register:** Neutral — widely understood and used by hospitality staff across all service levels when describing self-service buffet-style dining; the word is uniquely Japanese-English.
-
 バイキング is the Japanese term for a buffet, derived from the name of a celebrated restaurant called "Imperial Vikings" that opened in Tokyo in 1958 and popularized the all-you-can-serve concept in Japan. Despite its Viking origins in name, it is now the standard word used in hotel dining to describe a self-service meal format where guests move freely to select from multiple dishes. In hotel breakfast service especially, バイキング is the dominant format, offering a wide variety of Japanese and Western items to accommodate all guest preferences. Staff must be familiar not only with the word itself but with the rules, hygiene standards, and time limits that govern バイキング service.
 
 When explaining バイキング to guests, staff should clarify key details: whether it is all-you-can-eat, any time restrictions, the variety of dishes available, and any rules around plate handling or food hygiene. For international guests unfamiliar with the Japanese buffet etiquette, a brief and friendly explanation prevents misunderstandings. It is also important to watch for guests who need assistance — elderly guests, families with small children, or guests with mobility challenges may need additional support navigating the buffet layout.

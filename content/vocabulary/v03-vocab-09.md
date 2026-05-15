@@ -4,9 +4,6 @@ section: 9
 title: ベッド (bed)
 ---
 
-**Pronunciation:** **be**-ddo
-**Register:** Neutral — universally understood loanword used in both casual and formal hotel contexts; appropriate in all guest-facing interactions.
-
 ベッド is the standard Japanese term for a bed, borrowed directly from the English word. In the hospitality context, it is one of the most frequently used room vocabulary items — appearing in discussions of room type, bedding preferences, extra bed requests, and room descriptions during check-in. Japanese hotels offer a wide range of ベッド configurations including シングルベッド (single bed), セミダブルベッド (semi-double), ダブルベッド (double), クイーンベッド (queen), and キングベッド (king), and staff are expected to know these distinctions well enough to describe them to guests without hesitation.
 
 The quality of the ベッド is central to guest satisfaction in Japanese hospitality, and many luxury hotels invest heavily in premium mattresses, linen, and pillow menus. Staff should be familiar with what bedding items are available for supplementary request — such as extra blankets (毛布), additional pillows (枕), or mattress toppers — so they can respond proactively when a guest expresses any concern about sleeping comfort. Whenever escorting a guest to their room, pointing out the ベッド and briefly describing its type reinforces attentive service.

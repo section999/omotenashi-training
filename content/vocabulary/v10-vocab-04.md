@@ -4,9 +4,6 @@ section: 4
 title: 前払い (maebarai)
 ---
 
-**Pronunciation:** ma-e-**ba**-ra-i
-**Register:** Formal — used by reservations staff, front desk agents, and online booking systems when communicating payment conditions tied to advance-purchase rates or non-refundable plans.
-
 前払い means paying for a service before it is received, and it is common in Japanese hospitality for special rates, non-refundable booking plans, and online reservations through travel portals. Hotels and ryokans offering early-bird discounts or fully prepaid packages require 前払い to secure the booking and protect against last-minute cancellations. For guests, it guarantees their reservation is confirmed and often unlocks a reduced rate. Staff must communicate the payment deadline clearly along with the accepted payment methods to ensure the guest can complete the process without difficulty.
 
 In practice, 前払い is processed at the time of booking (online or by phone) or at a specified deadline before check-in. Front desk staff need to verify upon arrival that the 前払い has been received and recorded correctly before granting room access. When a prepayment has not been received by the deadline, proactively contacting the guest to resolve the situation is the professional expectation. Failing to do so risks the reservation falling through, causing inconvenience for both parties.

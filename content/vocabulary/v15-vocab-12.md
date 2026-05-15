@@ -4,9 +4,6 @@ section: 12
 title: 受取 (uketori)
 ---
 
-**Pronunciation:** u-ke-**to**-ri
-**Register:** Neutral to Formal — used across hotel front desk, concierge, and logistics contexts when confirming the receipt of items.
-
 受取 (uketori) refers to the act of physically receiving or picking up goods, parcels, laundry, or any item handed over through a formal process. In Japanese hospitality, the word carries an implicit sense of responsibility: the moment of 受取 is when accountability transfers from the sender or service provider to the recipient. Hotels routinely manage 受取 on behalf of guests who are out of their rooms, holding packages at the front desk until the guest is ready to collect them. This careful stewardship reflects the omotenashi principle of anticipating needs without being asked.
 
 In practice, hotel staff use 受取 when confirming that a courier delivery has arrived, when returning laundered items to a guest, or when handing over stored luggage. The process typically involves verifying a guest's name, room number, or claim ticket before releasing any item, ensuring that nothing is given to the wrong person. Staff will often say 「お受け取りの確認をさせていただきます」 to signal that a verification step is taking place. When guests come to collect their belongings, a smooth 受取 experience — with courteous acknowledgment and efficient handling — leaves a strong positive impression.

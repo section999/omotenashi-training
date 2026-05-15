@@ -4,9 +4,6 @@ section: 2
 title: 洗濯 (sentaku)
 ---
 
-**Pronunciation:** sen-**ta**-ku
-**Register:** Neutral — a standard everyday word appropriate in both guest conversations and staff briefings.
-
 洗濯 is the core Japanese term for the act of washing clothes or other fabrics, whether by hand or machine. In Japanese hospitality, understanding 洗濯 is essential because guests frequently ask about washing facilities, and staff must be able to guide them to the appropriate service — whether a coin laundry room, a valet service, or nearby laundromat. The word carries a practical, domestic nuance that distinguishes it from the more commercial-sounding ランドリー. For longer-stay guests at business hotels or guesthouses, 洗濯 is often a daily necessity that directly affects their comfort.
 
 When explaining 洗濯 options to guests, staff should mention whether a washing machine is available in the room or a shared laundry space, what the operating hours are, and whether detergent is provided. In ryokan settings, guests may not have direct access to 洗濯 machines, so staff should proactively offer the in-house laundry service. Phrasing requests and instructions politely using keigo ensures guests feel well cared for.

@@ -4,9 +4,6 @@ section: 5
 title: 予約確認 (yoyaku kakunin)
 ---
 
-**Pronunciation:** yo-**ya**-ku ka-ku-**nin**
-**Register:** Formal — used by front desk staff when verifying booking details at check-in or in response to a guest inquiry; paired with させていただきます in professional speech.
-
 予約確認 is the act of verifying and confirming the details of a guest's reservation. It is a critical step in the check-in process that ensures both staff and guest are aligned on dates, room type, number of guests, meal plans, and any special requests. In Japanese hospitality, accuracy during 予約確認 is not merely administrative — it reflects the hotel's attentiveness and care. Catching a discrepancy early (such as a mismatched date or room type) and resolving it calmly demonstrates the professionalism guests expect.
 
 The standard phrase for initiating this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is humbly asking for the guest's cooperation. This phrase signals to the guest that their information is about to be reviewed and invites them to participate in the verification process. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve, adding a layer of transparency that reduces misunderstanding.

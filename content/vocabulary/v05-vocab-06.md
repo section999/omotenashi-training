@@ -4,9 +4,6 @@ section: 6
 title: メニュー (menyuu)
 ---
 
-**Pronunciation:** me-**nyuu**
-**Register:** Neutral — universally used across all levels of hotel and restaurant service; the presentation of the メニュー is a formal ritual in fine dining contexts.
-
 メニュー, borrowed from the French "menu," refers to the list of food and beverage offerings available in a restaurant or dining venue. In Japanese hospitality, the presentation of the menu to a guest is not a mere procedural step but the opening of a dining narrative — it is done with both hands, accompanied by a slight bow, and often with a welcoming phrase that sets the tone for the meal. High-end hotel restaurants may offer separate menus for seasonal set courses, à la carte selections, wine, and dessert, all of which staff must be able to explain and recommend fluently. The メニュー is also a key tool for communicating allergen information, dietary options, and the kitchen's specialties.
 
 Staff should be familiar with every item on the メニュー and be able to explain dishes in accessible language without resorting to kitchen jargon. When a guest has difficulty deciding, offering a confident recommendation — particularly highlighting the chef's seasonal selection — is both helpful and demonstrates expertise. If the menu is only available in Japanese, offering an explanation or a translated summary to international guests reflects the inclusive hospitality philosophy at the heart of omotenashi.

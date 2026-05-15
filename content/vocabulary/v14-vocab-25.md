@@ -4,9 +4,6 @@ section: 25
 title: 料金表 (ryoukinhyou)
 ---
 
-**Pronunciation:** ryou-kin-**hyou**
-**Register:** Neutral/Formal — used in guest-facing materials, at transport terminals, and in concierge conversations when explaining costs for transportation, services, or facility entry.
-
 料金表 (ryoukinhyou) combines 料金 (ryoukin, fee/charge/fare) and 表 (hyou, table/chart/list) to mean "price list" or "fare table." It refers to any officially posted or published display of costs — train fare charts at station entrances, bus fare boards near the driver's seat, taxi meter rate cards, admission fee boards at museums, and spa or dining menus at hotels all qualify as 料金表. In Japan, transparency in pricing is a cultural expectation, and well-organised 料金表 are considered a mark of trustworthy service. Deliberately obscuring or omitting pricing information is contrary to the spirit of omotenashi.
 
 Hotel staff frequently encounter 料金表-related questions from guests trying to budget excursions, understand taxi costs, or compare transportation options. Being able to read a train station's fare map (which is itself a type of 料金表) and explain the appropriate fare for a guest's destination is a core concierge skill. For taxi-related queries, staff should know the base fare (初乗り料金, hatsunori ryoukin) and approximate metered cost to common destinations. A useful phrase is 「こちらに料金表がございますので、ご参照ください」("There is a price list here, please refer to it"). Offering to interpret or explain a 料金表 adds a personal service dimension that automated displays cannot replicate.

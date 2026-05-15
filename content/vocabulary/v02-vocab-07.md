@@ -4,9 +4,6 @@ section: 7
 title: 空室 (kuushitsu)
 ---
 
-**Pronunciation:** **kuu**-shi-tsu
-**Register:** Formal — used by front desk and reservations staff; appears in both verbal and written contexts such as availability displays and inquiry responses.
-
 空室 means "vacant room" or "available room," and it is one of the most operationally important terms in hotel management. When a guest arrives without a reservation, or when a caller inquires about availability, the question of 空室 becomes immediately central to the interaction. Japanese hospitality culture emphasises the importance of never dismissing a guest without first checking — even when fully booked periods are expected, a thorough and polite verification of 空室 demonstrates genuine effort and care. The word combines 空 (empty, vacant) and 室 (room), forming a precise and professional compound.
 
 In daily front desk operations, 空室 often appears in phrases such as ただいま空室をお調べいたします (I will check available rooms for you now), which pairs the word with お調べ — the humble/polite form of 調べる (to check, to look into). This construction signals to the guest that the staff member is actively working on their behalf. Availability systems in modern hotels display 空室 status in real time, and staff are expected to relay this information promptly and with appropriate language.

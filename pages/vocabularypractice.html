@@ -188,11 +188,13 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebApplication",
+  "@type": "LearningResource",
   "name": "Vocabulary Practice — Omotenashi Training",
-  "description": "Flashcard and dictation practice for 429 Japanese hospitality vocabulary items.",
-  "applicationCategory": "EducationalApplication",
-  "offers": {"@type":"Offer","price":"0"}
+  "url": "https://section999.github.io/omotenashi-training/pages/vocabularypractice.html",
+  "description": "Flashcard and dictation drills across 429 Japanese hospitality terms in 15 topic sets, with spaced repetition review.",
+  "educationalUse": "Practice",
+  "inLanguage": ["en", "ja"],
+  "isPartOf": { "@type": "WebSite", "url": "https://section999.github.io/omotenashi-training/" }
 }
 </script>
 </head>
@@ -302,7 +304,7 @@ function parseVocabMD(text) {
   const romaji = tm ? tm[2].trim() : '';
   const body = text.replace(/^---\n[\s\S]*?\n---\n?/, '').trim();
   const paras = body.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
-  const filtered = paras.filter(p => p !== '---' && !/^##/.test(p) && !/^\*\*(Correct|Explanation|Quiz)/.test(p));
+  const filtered = paras.filter(p => p !== '---' && !/^##/.test(p) && !/^\*\*(Correct|Explanation|Quiz|Pronunciation|Register)/.test(p));
   let definition = '';
   if (filtered.length >= 2 && /^\*\*Meaning:\*\*/i.test(filtered[0])) {
     definition = filtered[1]; // v12-style: **Meaning:** label → use next paragraph
@@ -310,6 +312,9 @@ function parseVocabMD(text) {
     definition = filtered[0] || ''; // v01-v11 style: first real paragraph IS the definition
   }
   definition = definition.replace(/^#+\s*/, '').replace(/^\*\*Meaning:\*\*\s*/i, '').replace(/"/g, '');
+  const sentenceEnd = definition.search(/\.\s/);
+  if (sentenceEnd !== -1) definition = definition.slice(0, sentenceEnd + 1);
+  definition = definition.replace(/^\*{0,2}[^\x00-\x7F\s]+\*{0,2}(\s*\([^)]+\))?\s+/, 'It ');
   return { jp, romaji, definition };
 }
 
@@ -592,7 +597,6 @@ function updateCard(file, data) {
   if (dir === 'jp-en') {
     front.innerHTML =
       '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
-      '<div class="cs-romaji">' + escHtml(data.romaji) + '</div>' +
       speakBtn +
       '<div class="cs-flip-hint">↩ tap to reveal meaning</div>';
     back.innerHTML =
@@ -604,7 +608,6 @@ function updateCard(file, data) {
       '<div class="cs-flip-hint">↩ tap to reveal</div>';
     back.innerHTML =
       '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
-      '<div class="cs-romaji">' + escHtml(data.romaji) + '</div>' +
       speakBtn +
       '<div class="cs-def-sm">' + escHtml(data.definition) + '</div>';
   }

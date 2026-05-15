@@ -4,9 +4,6 @@ section: 21
 title: 近くに (chikaku ni)
 ---
 
-**Pronunciation:** **chi**-ka-ku ni
-**Register:** Neutral — appropriate in both casual conversation and polite service speech. In formal hospitality contexts, staff typically say 近くにございます rather than 近くにあります to elevate the register. The phrase is very common in concierge-style guidance and local recommendation conversations.
-
 近くに (近くに) means "nearby" or "in the vicinity of" and is one of the most frequently used proximity expressions in Japanese hospitality. Unlike 隣 (immediately adjacent) or 向かい (directly opposite), 近くに communicates that a destination is within reasonable walking distance without specifying the exact spatial relationship. This makes it particularly useful for concierge recommendations where staff want to encourage guests to explore without overwhelming them with precise coordinates. When guests ask about convenience stores, ATMs, pharmacies, restaurants, or public transport, 近くに is often the first word in the answer, setting a reassuring tone that the destination is accessible and not far.
 
 In practical hospitality use, 近くに is almost always followed by a walking time to make the information actionable: コンビニはホテルの近くに、徒歩約3分のところにございます (there is a convenience store near the hotel, about a 3-minute walk). Concierge staff recommend layering 近くに with 徒歩〇分 (〇-minute walk) and then adding landmark-based directions as a third layer for the clearest possible guidance. Ryokan staff similarly use 近くに when describing the location of the nearest temple, onsen source, or village shop in relation to the property.

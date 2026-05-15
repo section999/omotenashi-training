@@ -4,9 +4,6 @@ section: 8
 title: 営業時間 (eigyou jikan)
 ---
 
-**Pronunciation:** ei-**gyou**-**ji**-kan
-**Register:** Formal — standard business vocabulary used across all sectors; in hospitality it appears in guest-facing conversation, telephone inquiries, printed signage, and digital communications.
-
 営業時間 means "business hours" or "operating hours" and is one of the highest-frequency information items that guests request and staff must accurately deliver. In a hotel environment, different facilities maintain different operating schedules — the main restaurant, the spa, the bar, the fitness centre, room service, and the front desk itself may all have distinct hours — and confusing or incorrectly stating these causes tangible guest inconvenience. Mastery of 営業時間 therefore implies not only knowing the word itself but being thoroughly briefed on the current hours of every facility in the property, including any seasonal or holiday variations. This level of preparedness is a practical expression of the omotenashi spirit.
 
 From a guest experience perspective, proactively sharing 営業時間 — rather than waiting to be asked — prevents frustration. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access demonstrates attentiveness and helps the guest plan their stay effectively. When hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically prevents complaints and maintains trust. Staff should also know the distinction between ラストオーダー (last order) and actual closing time, as guests frequently conflate these.

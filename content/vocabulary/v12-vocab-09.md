@@ -4,9 +4,6 @@ section: 9
 title: 消防車 (shoubousha)
 ---
 
-**Pronunciation:** shō-bō-**sha**
-**Register:** Formal/Neutral — used in emergency communications, safety reports, and general conversation whenever fire service vehicles are referenced.
-
 消防車 is the specialised fire service vehicle dispatched by the 消防署 (fire station) in response to a 火災 or other emergency requiring firefighting capacity, heavy rescue equipment, or aerial ladder access. In Japan, calling 119 simultaneously alerts both 救急車 (ambulance) and 消防車 services, allowing coordinated response. For hospitality staff, understanding the role of the 消防車 means knowing how to facilitate its arrival: keeping building access roads clear, unlocking gate barriers or parking area entrances, and meeting firefighters at the entrance to provide a floor plan and information about where guests may still be located.
 
 Cooperation with 消防 (fire service) personnel is legally required, and obstructing or delaying fire department access is a serious offense. Hotels are periodically inspected by the fire department (消防署) to verify that access routes, hydrant connections, sprinkler systems, and evacuation plans meet regulatory standards. Staff should know where the building's 消防用水 (fire service water supply connections) are located so they can direct firefighters immediately upon arrival.

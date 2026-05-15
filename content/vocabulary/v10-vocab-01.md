@@ -4,9 +4,6 @@ section: 1
 title: 支払い方法 (shiharai houhou)
 ---
 
-**Pronunciation:** shi-ha-**ra**-i **hou**-hou
-**Register:** Formal — used by front desk staff, cashiers, and restaurant servers when discussing payment options with guests at any point during the transaction process.
-
 支払い方法 literally means "method of payment" and encompasses all the ways a guest can settle their bill — cash (現金), credit or debit card (クレジットカード), electronic wallets (電子決済), and bank transfer (銀行振込). In Japanese hospitality, proactively informing guests of available options is considered a mark of professionalism, as it prevents awkward surprises at checkout. Because Japan is still a cash-heavy society in many contexts, yet also rapidly embracing digital payments, staff must be knowledgeable about all accepted methods at their property. Mastering this term allows staff to guide transactions smoothly and reduce waiting time at the register.
 
 In practice, the phrase is most commonly used when a guest is about to pay or when explaining booking conditions. Staff typically list the accepted 支払い方法 clearly at the start of checkout rather than waiting to be asked. When dealing with international guests, confirming which cards or payment apps are accepted in advance saves time and avoids declined transactions. Properties that accept multiple methods often display a sign, but a verbal confirmation reinforces the service standard.

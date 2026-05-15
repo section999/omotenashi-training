@@ -4,9 +4,6 @@ section: 26
 title: 手順 (tejun)
 ---
 
-**Pronunciation:** te-**jun**
-**Register:** Formal — standard operational language used across all hotel departments when referencing established step-by-step methods for completing tasks correctly and consistently.
-
 手順 means procedure or sequence of steps — a predefined, ordered set of instructions for completing a task correctly, safely, and consistently. In Japanese hospitality, 手順 are the backbone of operational excellence. Every department has documented 手順 for its core activities: the housekeeping 手順 for preparing a guest room, the front desk 手順 for processing a check-in, the concierge 手順 for arranging private car service. These procedures exist not to constrain staff, but to guarantee that every guest receives the same high standard of service regardless of who is on duty. Consistent adherence to 手順 is a form of respect for the guest.
 
 手順 are taught during onboarding and reinforced through ongoing 指導 (shidou — guidance). Supervisors observe staff performing tasks and provide feedback when steps are skipped or done out of order. In safety-critical areas such as kitchen operations, food hygiene, and maintenance, following 手順 precisely is not just about quality — it is about preventing accidents. New employees are expected to master the established 手順 before being encouraged to develop their own efficiency within those boundaries. The phrase 手順を踏む (tejun wo fumu — to follow the procedure step by step) reflects the cultural value placed on doing things in the right order.

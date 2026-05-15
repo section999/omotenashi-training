@@ -4,9 +4,6 @@ section: 23
 title: 切符 (kippu)
 ---
 
-**Pronunciation:** **kip**-pu
-**Register:** Neutral — the standard everyday word for a paper or printed ticket; used by hotel staff when discussing train and bus ticketing with guests, appropriate in both spoken advice and written directions.
-
 切符 (kippu) originally referred to a paper document cut from a larger sheet to confirm passage — the 切 (ki) means "to cut" — and today it encompasses any physical or printed ticket granting access to transportation. While IC cards and mobile ticketing have become increasingly common in Japan, 切符 remain essential for certain journeys: specific rural routes, reserved seating on limited express trains, and tourist passes that are not IC-card-compatible all still use traditional paper 切符. For international visitors unfamiliar with the layered Japanese ticketing system, understanding 切符 versus other payment methods is an important part of pre-departure preparation.
 
 Hotel staff often help guests navigate 切符 purchases, particularly for guests planning day trips or onward journeys. The 切符 vending machines (自動券売機, jidou kenbaiki) at Japanese stations can be intimidating for first-time users due to the number of fare options and the Japanese-language interface. Staff who know which machines have English menus or which manned windows (みどりの窓口, midori no madoguchi) can assist with complex itineraries are invaluable. A reassuring phrase to offer is 「切符の購入でお困りの際は、駅員にお声がけいただければ親切に対応してくださいます」("If you have any trouble purchasing your ticket, the station staff will kindly assist you").

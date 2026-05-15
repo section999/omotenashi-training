@@ -4,9 +4,6 @@ section: 4
 title: 駐車場 (chuushajou)
 ---
 
-**Pronunciation:** chuu-**sha**-jou
-**Register:** Formal — used by hotel staff in guest-facing communication regarding vehicle parking arrangements; appears in check-in conversation, telephone inquiries, and valet coordination.
-
 駐車場 means parking lot or car park, and in a hospitality context it represents a significant logistical touchpoint for guests arriving by private vehicle. In Japan, hotel parking facilities vary greatly — from expansive ground-level lots at resort hotels to compact mechanical tower parking systems in urban business hotels — so staff must communicate the specifics of their property accurately and proactively. The moment a guest drives up, the quality of the parking guidance they receive contributes directly to their overall impression of the hotel. Providing clear information about entry procedures, height restrictions, fee structures, and validation policies is therefore an essential service skill.
 
 Beyond simply confirming availability, staff should be prepared to assist with valet parking where offered, explain overnight charges, and manage situations where the parking facility is at capacity. In such cases, directing guests to the nearest alternative parking facility with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are helpful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property.

@@ -4,9 +4,6 @@ section: 14
 title: 指導 (shidou)
 ---
 
-**Pronunciation:** shi-**dou**
-**Register:** Formal — used in professional and hospitality management contexts when a senior staff member trains, corrects, or mentors a subordinate.
-
 指導 means instruction, guidance, or supervision, and it plays a central role in Japanese workplace culture. In hospitality settings, 指導 is how senior staff transmit the standards of omotenashi to new employees. It encompasses teaching procedures, correcting errors, demonstrating proper technique, and offering constructive feedback. The concept goes beyond simple instruction — it carries a sense of nurturing professional development with patience and care. Hotels place great importance on thorough 指導 during onboarding, as first impressions with guests depend on well-trained staff.
 
 In practice, a senior concierge or front desk supervisor will give 指導 by walking a new hire through actual guest interactions, then debriefing afterward to highlight areas for improvement. Good 指導 balances correction with encouragement, reflecting the Japanese principle of 育てる (sodateru — to raise, to cultivate). Phrases such as ご指導よろしくお願いします (go-shidou yoroshiku onegai shimasu — "I ask for your kind guidance") are commonly used by new staff as a humble expression of willingness to learn.

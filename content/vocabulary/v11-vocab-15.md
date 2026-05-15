@@ -4,9 +4,6 @@ section: 15
 title: 通話中 (tsuuwachuu)
 ---
 
-**Pronunciation:** **tsuu**-wa-**chuu**
-**Register:** Neutral — used by staff in both internal communication and when speaking directly with callers. It appears in standard phone scripts and on system displays. The word itself is neutral; the surrounding language (でございます vs. です) adjusts the register to match the situation.
-
 通話中 means that a telephone line is currently in use — either that the staff member the caller is trying to reach is already on another call, or that the line itself is occupied. In a hospitality setting, this status must be communicated immediately and with care, as callers who are left on hold without explanation quickly become frustrated. Knowing this term allows staff to respond in a clear, professional way that keeps the guest informed rather than guessing.
 
 When a caller reaches a busy line, staff should not simply say 通話中です and go silent. The proper response pairs the status with an action offer: ただいま通話中でございます。折り返しご連絡いたしましょうか (the line is currently busy; shall we call you back?), or しばらくお待ちいただけますか (would you be able to wait a moment?). This two-part structure — status plus option — is the professional standard in Japanese hotel telephone etiquette.

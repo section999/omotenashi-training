@@ -4,9 +4,6 @@ section: 29
 title: 上 (ue)
 ---
 
-**Pronunciation:** **u**-e
-**Register:** Neutral to Formal — used in hotel navigation contexts to indicate upper floors, higher shelves, or elevated positions within a building.
-
 上 (ue) is one of the most fundamental spatial words in Japanese, meaning "above," "up," or "upper." In hospitality settings it primarily refers to higher floors of a building, upper levels of a shelf or rack, or anything positioned above the current reference point. While 上 itself is a plain word, staff elevate the register of the surrounding sentence by using keigo structures such as 上にございます or 上の階でございます rather than plain forms. The word is concise and universally understood, making it ideal for quick directional guidance in hotel lobbies, corridors, and facility tours.
 
 When combined with floor numbers and direction vocabulary, 上 becomes the cornerstone of vertical navigation instructions. Phrases like 一つ上の階 (the next floor up) or 上の階のレストラン (the restaurant on the floor above) are heard constantly in hotel service. Staff also use 上 when describing amenity placement: 棚の上にございます (it is on the upper shelf) is a typical phrase in room service or housekeeping interactions. In buildings with mezzanine levels or split-floor designs, 上 helps disambiguate which section of a floor a guest should head toward.

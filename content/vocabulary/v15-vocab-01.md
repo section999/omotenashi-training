@@ -4,9 +4,6 @@ section: 1
 title: ランドリー (randorii)
 ---
 
-**Pronunciation:** ran-**do**-rii
-**Register:** Neutral — used comfortably in both hotel service conversations and everyday speech.
-
 ランドリー is a loanword from English that encompasses the full range of laundry services available in Japanese hospitality settings, including washing, drying, folding, and ironing of guest garments. In hotels and ryokan, ランドリー may refer either to a coin-operated self-service laundry room on the premises or to the professional valet laundry service collected and returned by staff. The word signals convenience and care for the guest's personal belongings, which is a core expression of omotenashi. Guests who are on extended stays particularly rely on ランドリー to keep their wardrobe fresh without overpacking.
 
 When a guest inquires at the front desk, staff should be prepared to explain both self-service and full-service ランドリー options clearly, including pricing and turnaround time. In full-service hotels, a laundry bag and order form are typically placed in the room, allowing guests to request the service without coming to the desk in person. It is good practice to mention any cut-off times for same-day processing so guests can plan accordingly.

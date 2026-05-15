@@ -4,10 +4,6 @@ section: 24
 title: ご案内いたします (go-annai itashimasu)
 ---
 
-**Pronunciation:** go-a-n-na-i-i-ta-shi-ma-su — *annai* is three syllables; the double *n* in *an-nai* is a lengthened nasal; the two *i* sounds at the join flow together
-
-**Register:** Formal — the standard phrase for escorting or guiding in any professional hospitality setting. Paired naturally with *kochira e dōzo* (please come this way) to create a complete guiding sequence.
-
 **ご案内いたします** means "I will guide you" or "I will show you." *Annai* (案内) means guidance, escort, or information, elevated by the honorific *go-* prefix and completed with *itashimasu*, the humble form of "to do." The phrase is a declaration of service: *I am taking responsibility for getting you where you need to go.*
 
 In hospitality, guiding a guest is one of the most intimate forms of service. Unlike answering a question at a desk, guiding places the staff member physically alongside the guest — creating a small, temporary bond of movement and trust. *Go-annai itashimasu* is the formal declaration that initiates this bond. It is said when picking up a guest from the lobby, when escorting them to their room, when leading them to a facility, or when walking them to the entrance at departure.

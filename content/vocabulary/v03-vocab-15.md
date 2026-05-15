@@ -4,9 +4,6 @@ section: 15
 title: シャワー (shower)
 ---
 
-**Pronunciation:** **sha**-wa-a
-**Register:** Neutral — シャワー is a loanword from English used universally across all registers, from casual guest conversation to formal hotel briefings. Staff may use it freely without adjusting for formality, though sentences surrounding it should maintain keigo (polite language) during guest interactions.
-
 シャワー is a katakana loanword denoting the shower facility found in nearly every hotel and ryokan guest room in Japan. In the context of Japanese hospitality, guests — particularly first-time visitors or foreign travelers — may be unfamiliar with the specific shower setup, which can vary from a fully separate shower cubicle to a handheld showerhead over a bathtub. Understanding and explaining this distinction is essential for ensuring guest comfort. Staff who clearly introduce shower features demonstrate attentiveness that elevates the overall hospitality experience.
 
 In practical hotel settings, staff typically explain the shower during the room orientation given at check-in, pointing out how to adjust water temperature, how the handheld unit functions, and where the controls are located. Common phrases include 「シャワーは温度調節が可能でございます」 (the shower temperature is adjustable) and 「シャワーのご使用方法についてご説明いたします」 (I will explain how to use the shower). In ryokan settings where a communal bath is the norm, staff may also clarify whether the in-room shower serves as a rinsing station before entering the ofuro.

@@ -4,9 +4,6 @@ section: 16
 title: 医者 (isha)
 ---
 
-**Pronunciation:** **i**-sha
-**Register:** Neutral — used in everyday and professional contexts; in very formal speech, お医者様 (oishasha-sama) is preferred when referring to the doctor respectfully.
-
 医者 (isha) means doctor — a licensed medical professional qualified to diagnose, treat, and advise on health conditions. In the hotel setting, the ability to quickly summon or refer a guest to an 医者 is an essential service, particularly for luxury and high-end establishments where guests expect comprehensive support during their stay. Many large Japanese hotels maintain a roster of contracted physicians who can respond to the property for in-room consultations, a service known as ドクターコール (doctor call). This removes the burden of hospital transport for guests with non-life-threatening conditions and reflects the hospitality principle of anticipating and fulfilling every guest need.
 
 Staff at the front desk are typically responsible for coordinating contact with an 医者 when a guest requests one or when a health concern is escalated from another department. It is important to gather basic information before making the call — the guest's room number, the nature of their symptoms, any known allergies or existing conditions, and whether they have travel insurance. When communicating with the doctor on behalf of the guest, use clear and accurate language; avoid speculation about diagnosis. After the doctor's visit, follow up with the guest to ensure they received appropriate care and to ask whether any additional support is needed — this follow-through is central to omotenashi.

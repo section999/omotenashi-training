@@ -4,10 +4,6 @@ section: 3
 title: こんにちは (konnichiwa)
 ---
 
-**Pronunciation:** ko-n-ni-chi-**wa** — the final *wa* is the topic particle は, not the syllable わ, though they sound the same
-
-**Register:** Polite — appropriate for most daytime interactions. More neutral in register than *ohayō gozaimasu*; can be used with guests, colleagues, and acquaintances alike during daytime hours.
-
 **こんにちは** is the standard daytime greeting in Japanese, used from approximately late morning (around 11:00 AM) to early evening (around 6:00 PM). Its literal meaning has a slightly archaic origin — it was once part of a longer phrase meaning "How is today (treating you)?" — but in modern usage it functions simply as a warm acknowledgement: *I see you, and I greet you.*
 
 In hospitality, *konnichiwa* most often appears mid-stay — when a guest passes through the lobby in the afternoon, returns from an outing, or approaches the concierge desk during daytime hours. It is a lighter, more conversational greeting than the formal *irasshaimase*, and in some contexts it feels more human and less transactional. Learning when to use *irasshaimase* (first contact, formal arrival) versus *konnichiwa* (ongoing daytime encounters) is part of reading the moment correctly.

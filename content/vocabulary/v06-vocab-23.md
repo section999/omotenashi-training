@@ -4,9 +4,6 @@ section: 23
 title: 対応 (taiou)
 ---
 
-**Pronunciation:** **tai**-ou
-**Register:** Formal — 対応 is a key term in professional Japanese service language and appears in both internal communication and guest-facing speech. Phrases like 「迅速に対応いたします」 (we will respond promptly) and 「担当者が対応いたします」 (the responsible staff member will handle it) are standard in hotel, ryokan, and restaurant operations. The word signals organized, professional action and is more formal than casual equivalents like 「やります」 (I'll do it).
-
 対応 is composed of the characters for "face/oppose" (対) and "respond/answer" (応), conveying the idea of meeting a situation face-on and responding appropriately. In Japanese hospitality, 対応 is one of the most valued competencies: it encompasses not just the physical action taken but also the speed, attitude, and communication quality that accompany it. A guest who receives poor 対応 — slow, vague, or dismissive responses — is unlikely to return, regardless of how beautiful the property is. Mastery of 対応 language is therefore central to professional development in the service industry.
 
 In daily operations, 対応 is used broadly: handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is especially important — it is a commitment both to action and to speed, which together form the guest's expectation of professional service. Following up after the 対応 is complete (「対応が完了いたしました」) closes the loop and demonstrates reliability.

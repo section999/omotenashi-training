@@ -4,9 +4,6 @@ section: 30
 title: 評価 (hyouka)
 ---
 
-**Pronunciation:** **hyou**-ka
-**Register:** Formal — used in performance reviews, quality assessments, and guest satisfaction analysis in hotel and hospitality management contexts.
-
 評価 means evaluation or assessment, and in a hospitality setting it encompasses a wide range of measurement activities: staff performance reviews, guest satisfaction surveys, quality audits, and departmental assessments. Evaluations are central to the culture of continuous improvement (改善) because they provide the data needed to identify what is working and what requires change. In Japanese hospitality, 評価 is approached with great care — managers aim to give balanced, constructive feedback that acknowledges effort and achievement while clearly identifying areas for development. The goal is not to judge but to support growth.
 
 Staff evaluations in Japanese hotels typically occur on a regular cycle — monthly, quarterly, or annually — and may include both quantitative metrics (room-cleaning completion rates, complaint resolution times) and qualitative assessments (attitude, communication, attention to guest needs). Guest-facing 評価 often comes through アンケート (anketto, questionnaires) or online review scores, and these results are shared transparently with staff to reinforce the connection between daily behaviour and guest satisfaction. Managers use the phrase 「フィードバックをお伝えします」 (fiido-bakku wo ootsutae shimasu — I will share some feedback) before delivering 評価 to frame it as supportive rather than critical.

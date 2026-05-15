@@ -4,9 +4,6 @@ section: 24
 title: 確認します (kakunin shimasu)
 ---
 
-**Pronunciation:** ka-ku-**nin** shi-**mas**-u
-**Register:** Neutral to Formal — 確認します is widely used in both professional and everyday speech, but in hospitality it typically appears in its more formal variants: 「確認いたします」 (humble, speaker-lowering) when directed at guests, or 「確認しております」 for actions already in progress. The plain form 確認します is acceptable in internal team communications but should be elevated for guest-facing interactions.
-
 確認 is composed of the characters for "confirm/affirm" (確) and "recognize/verify" (認), together meaning to verify or confirm that something is as it should be. In hospitality operations, 確認します is one of the most frequently used phrases because the nature of service work involves constant checking — availability, reservations, room status, billing, guest preferences, and incident conditions. It is a phrase that buys time gracefully: rather than saying "I don't know," it signals that the answer is coming and that the staff member is actively working on it.
 
 Practically, 確認します is used in a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting reported issues (「状況を確認いたします」), and double-checking guest requests (「ただいま確認いたします」). The phrase is most powerful when paired with a time expectation: 「すぐに確認いたします」 (I will check immediately) or 「少々お時間をいただき、確認いたします」 (please allow me a moment to verify). This combination reassures the guest and manages their expectations simultaneously.

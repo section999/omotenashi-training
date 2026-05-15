@@ -4,9 +4,6 @@ section: 20
 title: テレビ (television)
 ---
 
-**Pronunciation:** **te**-re-bi
-**Register:** Neutral — テレビ is a loanword used across all registers without adjustment for formality. It appears in everyday conversation as well as formal hotel orientations. The surrounding sentence structure should reflect the appropriate keigo level for guest-facing communication.
-
 テレビ is an abbreviation of "television," borrowed into Japanese from English. In the context of hotel hospitality, it is more than just an entertainment device — it often serves as a medium for hotel information channels, news updates for international travelers, weather forecasts, and on-demand content. In many Japanese hotels, the television doubles as a guest information terminal displaying check-out procedures, restaurant menus, and local attraction guides. For foreign guests who may rely on the TV for language-accessible news or entertainment, a brief orientation to available channels and functions is a meaningful expression of consideration. Staff who can explain the テレビ and its features — including how to access the hotel's own broadcast channel — demonstrate thorough and attentive service.
 
 In room-orientation briefings, staff typically explain: 「テレビはリモコンで操作可能でございます」 (the TV can be operated with the remote) and may add which channel displays hotel information: 「1チャンネルがホテルの案内チャンネルでございます」 (channel 1 is the hotel information channel). If a guest reports a problem with the TV, staff should apologize and offer to send a technician or arrange a room with a functioning set.

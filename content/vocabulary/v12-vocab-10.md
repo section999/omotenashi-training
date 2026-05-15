@@ -4,9 +4,6 @@ section: 10
 title: 安全 (anzen)
 ---
 
-**Pronunciation:** an-**zen**
-**Register:** Neutral to Formal — used across all hospitality contexts from everyday operational checklists to formal safety policy documents and guest-facing communications.
-
 安全 means the state of being free from harm, danger, or unacceptable risk, and it underpins every operational decision in Japanese hospitality. The principle of 安全第一 (anzen daichi — safety first) is deeply embedded in Japanese workplace culture, and hotels, ryokan, and restaurants are legally and ethically bound to maintain safe environments for both guests and staff. In omotenashi culture, 安全 is not merely a regulatory compliance concept — it is an expression of genuine care for the guest's wellbeing, a precondition without which true hospitality cannot exist.
 
 In daily operations, 安全 manifests through regular equipment inspections, proper food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. Staff at all levels contribute to 安全 by reporting hazards immediately, following established protocols, and proactively informing guests of risks (wet floors, slippery outdoor paths, uneven tatami, etc.). Management demonstrates commitment to 安全 through training investment, maintenance schedules, and a culture where staff feel safe to report problems without fear of blame.

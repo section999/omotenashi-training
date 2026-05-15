@@ -4,9 +4,6 @@ section: 15
 title: 会計係 (kaikei kakari)
 ---
 
-**Pronunciation:** **kai**-kei **ka**-ka-ri
-**Register:** Formal — this is a professional role title used within hospitality and service environments. Staff would use it when referring to a colleague's role or when explaining a process to a guest. Guests may use it naturally when asking who handles payment, though they are more likely to say お会計をお願いします rather than naming the role directly.
-
 会計係 is the designated staff member responsible for handling all aspects of guest payment, including calculating totals, processing transactions, issuing receipts, and giving correct change. In Japanese hospitality culture, the payment interaction is considered the final impression a guest carries away, making the 会計係 role one that demands both numerical precision and warm interpersonal communication. Even a perfectly smooth stay can be undermined by a hurried or cold checkout experience. The 会計係 is therefore expected to balance efficiency with genuine courtesy.
 
 In hotels and ryokan, the 会計係 may also be responsible for verifying itemized charges (利用明細) with the guest, answering questions about specific line items, and processing late charges after departure. In restaurants, the 会計係 may be a dedicated cashier or the server themselves. Common phrases include 会計係が精算を行います when explaining the checkout process to a guest, or 会計係にお申し付けください when directing them to the appropriate person for billing inquiries.

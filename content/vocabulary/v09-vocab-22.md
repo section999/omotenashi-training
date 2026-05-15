@@ -4,9 +4,6 @@ section: 22
 title: 期限 (kigen)
 ---
 
-**Pronunciation:** ki-**gen**
-**Register:** Neutral to Formal — 期限 is a precise, professional term used in written policies, reservation confirmations, and spoken guest communication. It conveys a clear sense of finality and obligation, which is appropriate in hospitality contexts where deadlines carry real consequences. In guest-facing speech, it is typically softened with polite constructions such as 〇月〇日まででございます rather than blunt statements.
-
 期限 (kigen) refers to a fixed deadline — the last date or time by which a particular action must be completed. In hotel operations, 期限 governs a wide range of processes: the deadline to confirm a tentative reservation (仮予約の確認期限), the cutoff for free cancellation (無料キャンセルの期限), the payment deadline for pre-paid plans, and the response window for special requests. Understanding and accurately communicating 期限 is a core competency for hotel staff because a missed deadline on either side — by the guest or by staff — can result in lost bookings, unexpected charges, or operational failures.
 
 The standard professional practice is to state 期限 with both the date and time, not just one or the other. A statement like 期限は明日です is too vague because "tomorrow" could reasonably be interpreted as any time during that day, and a guest who acts at 11:59 p.m. may miss a cutoff intended for 3:00 p.m. The complete and courteous formulation is 〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます, which eliminates ambiguity and prevents misunderstandings that could harm the guest relationship or the hotel's operations.

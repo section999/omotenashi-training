@@ -4,9 +4,6 @@ section: 24
 title: 手数料 (tesuuryou)
 ---
 
-**Pronunciation:** te-**suu**-ryou
-**Register:** Formal to Neutral — 手数料 is a standard financial and administrative term used across banking, hospitality, travel, and commerce. Staff use it when informing guests of additional processing costs associated with specific payment methods or services. Transparent disclosure of 手数料 before a transaction is both a legal best practice and a hospitality standard; surprising a guest with undisclosed fees after the fact is a serious service failure.
-
 手数料 refers to a service or handling fee charged in addition to the base price of a transaction or service. Common examples in hospitality include currency exchange handling fees, credit card surcharges in certain establishments, bank transfer fees for advance payments, cancellation processing fees, and booking platform fees. In Japanese culture, there is a strong expectation that all costs be disclosed upfront and in full — unexpected 手数料 are one of the most common sources of guest complaints and distrust. Staff who know how and when to communicate 手数料 clearly build a reputation for transparency that differentiates the establishment.
 
 When informing a guest about a 手数料, staff should state the fee, explain what service it covers, and offer an alternative where possible. For example, 銀行振込には〇〇円の手数料がかかります。クレジットカードでのお支払いには手数料はかかりません (bank transfer carries a fee of 〇〇 yen; credit card payment has no fee) gives the guest a clear choice. This approach demonstrates honesty and allows the guest to make an informed decision. In formal communication, 手数料が発生いたします is the preferred phrasing over the simpler 手数料がかかります.

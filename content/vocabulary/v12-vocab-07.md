@@ -4,9 +4,6 @@ section: 7
 title: 警察 (keisatsu)
 ---
 
-**Pronunciation:** kei-**satsu**
-**Register:** Formal/Neutral — universally understood; used in both everyday and professional contexts whenever law enforcement is referenced or contacted.
-
 警察 refers to Japan's law enforcement authorities, responsible for public safety, crime prevention, investigation, and emergency response. In the hospitality industry, staff may need to contact the 警察 in situations involving theft of guest property, violence or threats on the premises, public disturbances, missing persons, suspicious items, or fraud. Japan's police are generally highly professional and responsive, and they operate through regional police stations (警察署, keisatsusho) and substations (交番, kouban). Front desk staff should keep the direct number of the nearest 警察署 posted at the concierge and front desk, in addition to the general emergency number 110.
 
 When contacting the 警察, staff must be prepared to give the facility name and address, describe the nature of the incident clearly and concisely, and remain on the line until instructed otherwise. In the spirit of omotenashi, staff should also protect the privacy and dignity of guests involved in incidents while fulfilling their legal obligations to report crimes. After police arrive, staff should cooperate fully and designate one supervisor as the primary point of contact to avoid conflicting information.

@@ -4,9 +4,6 @@ section: 1
 title: フロント (furonto)
 ---
 
-**Pronunciation:** **fu**-ron-to
-**Register:** Formal — used by all hotel staff when referring to the front desk as a location or department; also used by guests when asking for directions.
-
 フロント is the central hub of any Japanese hotel, serving as the primary point of contact between guests and the establishment. It is the place where check-in, check-out, key handling, billing inquiries, and general guest requests are all managed. The term is a loanword from the English "front" (short for "front desk"), and it is so embedded in hospitality Japanese that no formal equivalent replaces it. Understanding フロント as both a physical space and a service role is essential for any hotel professional.
 
 In practice, staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments — housekeeping, concierge, and room service — making it the operational nerve centre of the property.

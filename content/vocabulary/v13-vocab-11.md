@@ -4,9 +4,6 @@ section: 11
 title: 残業 (zangyou)
 ---
 
-**Pronunciation:** **zan**-gyou
-**Register:** Neutral to Formal — used widely by all staff and managers when discussing work performed beyond scheduled hours, and appears frequently in HR and payroll contexts.
-
 残業 means overtime — work carried out beyond the standard contracted working hours. The word is composed of 残 (remaining) and 業 (work/duty), capturing the sense of "work that remains after regular hours." In Japan's hospitality industry, 残業 is a familiar reality: end-of-shift handovers that run long, unexpected guest situations, event overruns, or staff shortages can all lead to employees working past their scheduled finish time. While 残業 is sometimes unavoidable, Japanese labour law requires that it be compensated at a premium rate (typically 25% above the base hourly wage), and excessive 残業 has become a major social and workplace health issue in Japan.
 
 Management in hotels and ryokan must balance the genuine operational need for flexibility with their legal and ethical duty to prevent overwork. Modern hospitality employers are increasingly implementing strict 残業 monitoring systems and encouraging staff to complete their duties within shift time where possible. For employees, understanding that 残業 should be authorised by a supervisor before it begins — not simply performed and reported after the fact — is an important professional habit to develop.

@@ -4,9 +4,6 @@ section: 22
 title: 遠くに (tooku ni)
 ---
 
-**Pronunciation:** **too**-ku ni
-**Register:** Neutral — used comfortably in both everyday conversation and polite service speech. In formal hospitality contexts, staff say 遠くにございます rather than 遠くにあります. The word carries an inherent note of caution or advisory tone when used by staff, who are typically flagging that a guest should consider transport alternatives.
-
 遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, honesty about distance is considered part of professional integrity and genuine omotenashi — guests who are told something is 近く (nearby) when it is actually far away feel misled, and that disappointment damages the overall guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Used with care and followed by practical transport suggestions, 遠くに is an act of service, not discouragement.
 
 In practice, 遠くに is most useful when guests ask about destinations and staff need to manage their expectations honestly: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (you can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view.

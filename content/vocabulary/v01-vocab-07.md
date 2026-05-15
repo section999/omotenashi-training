@@ -4,10 +4,6 @@ section: 7
 title: 失礼いたします (shitsurei itashimasu)
 ---
 
-**Pronunciation:** shi-tsu-re-i-i-ta-shi-ma-su — *shitsurei* is four syllables; the two *i* sounds at the join (*rei-i*) flow together without a pause
-
-**Register:** Formal — used by staff in professional settings. Appropriate for guests, senior colleagues, and any situation where you are entering another person's space or attention.
-
 **失礼いたします** literally means "I am committing a rudeness" — *shitsurei* (失礼) means impoliteness or breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct — to acknowledge impact before taking action.
 
 The phrase has a wide range of uses, all sharing the same underlying meaning: *I am about to do something that may disturb you, and I acknowledge this.* Knocking before entering a room, interrupting a guest's conversation, stepping past someone in a narrow corridor, passing in front of someone — all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group (the equivalent of "excuse me" when departing).

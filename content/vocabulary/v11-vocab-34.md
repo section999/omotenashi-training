@@ -4,9 +4,6 @@ section: 34
 title: 案内します (annai shimasu)
 ---
 
-**Pronunciation:** an-nai-**shi**-ma-su
-**Register:** Polite — the standard polite form used in hotel guest interactions; elevated to ご案内いたします for formal keigo appropriate in upscale hotel settings and telephone communications.
-
 案内します (案内します) means "I will guide you" or "I will direct you," derived from the noun 案内 (guidance, directions, information). The verb form 案内する, made polite as 案内します, is used by hotel staff whenever they are providing directional assistance — whether physically accompanying a guest, giving verbal directions over the telephone, or pointing out a location on a map. The more formal humble variant, ご案内いたします, is expected in higher-end hospitality settings and elevates the interaction by placing the staff member in a service role relative to the guest. This phrase is one of the most frequently used in hotel lobbies and during telephone inquiries about facilities or room locations.
 
 In telephone communication, 案内します takes on a verbal guidance role rather than a physical one. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide you to the lobby by giving you directions) and then proceed to describe the route clearly, using landmarks rather than left-right instructions whenever possible, as landmark-based directions are easier to follow without visual reference. Good telephone 案内 involves checking in at each step — こちらはご理解いただけましたでしょうか (was this part clear to you?) — rather than delivering all information at once and leaving the guest to process it alone.

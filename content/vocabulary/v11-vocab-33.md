@@ -4,9 +4,6 @@ section: 33
 title: 外国語 (gaikokugo)
 ---
 
-**Pronunciation:** gai-ko-ku-**go**
-**Register:** Neutral — a general term for any non-Japanese language used in staff training, hotel communications, and guest-facing materials to describe foreign language capability or need.
-
 外国語 (外国語) is composed of 外国 (foreign country) and 語 (language), literally meaning "the language of a foreign country." It is the overarching term for any language other than Japanese, and in a hospitality context it most frequently appears in compound phrases such as 外国語対応 (foreign language support) or 外国語サービス (foreign language services). Hotels use this term broadly when advertising multilingual capabilities without specifying every individual language available. Understanding 外国語 as a concept is important for staff, because it frames language diversity as an expected feature of international guest service rather than an exception to the norm.
 
 Proficiency in 外国語 is increasingly valued in Japan's hotel industry, driven by the expansion of international tourism. Hotels are encouraged not only to employ staff with 外国語 skills but to create systems — such as language resource cards, translation tools, and on-call interpreter services — that support all staff in assisting 外国語 speakers regardless of individual ability. Even a small effort in a guest's 外国語, such as offering a greeting in Chinese, Korean, or French, has an outsized impact on the guest's experience. Staff training increasingly includes basic hospitality phrases across multiple 外国語 to ensure every encounter begins with warmth.

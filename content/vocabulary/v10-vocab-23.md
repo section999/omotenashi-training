@@ -4,9 +4,6 @@ section: 23
 title: 取消 (torikeshi)
 ---
 
-**Pronunciation:** to-ri-**ke**-shi
-**Register:** Formal to Neutral — 取消 is a standard term in hotel, airline, restaurant, and administrative contexts. It is professional but not overly stiff, and is used comfortably by both staff and guests. In written correspondence and policy documents the kanji form 取消 is standard; in conversation, staff may also say キャンセル (kyanseru) interchangeably when speaking with guests who may be more familiar with the loanword.
-
 取消 refers to the act of canceling a reservation, order, transaction, or document. In Japanese hospitality, a 取消 is not a simple single step — it initiates a sequence of procedural actions that must be followed in a precise order to avoid errors such as double bookings, incorrect billing, or unprocessed refunds. Staff need to understand both the guest-facing communication aspects of handling a 取消 request with empathy and the back-end operational requirements of properly executing one in the property management system. The manner in which a 取消 is handled reflects the establishment's professionalism and its commitment to clear, fair dealings with guests.
 
 When a guest requests a 取消, staff should first confirm the reservation details, then apply the キャンセルポリシー to determine if a 取消料 (cancellation fee) applies, communicate the result clearly to the guest, process the 取消 in the system, release the room inventory, and initiate any applicable 返金. A guest requesting 取消 close to the arrival date may be subject to a 100% キャンセル料, and this must be communicated sensitively but accurately before the 取消 is finalized. Offering a date change as an alternative before processing a 取消 is considered a proactive and guest-oriented service gesture.

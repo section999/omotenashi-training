@@ -4,9 +4,6 @@ section: 30
 title: 翻訳 (hon'yaku)
 ---
 
-**Pronunciation:** hon-**ya**-ku
-**Register:** Formal — used in professional contexts when referring to written translation of documents, menus, notices, or other printed materials for guests or business purposes.
-
 翻訳 (翻訳) means the conversion of written text from one language into another, composed of 翻 (to turn over, to flip) and 訳 (to interpret, to translate). In hotel settings, 翻訳 is required across a wide range of materials: guest room service menus, facility guidebooks, house rules, event programs, and allergy notices. Accurate 翻訳 is essential for guest safety as well as satisfaction, since errors in translated materials — particularly those involving dietary restrictions, emergency procedures, or pricing — can have serious consequences. Hotels that invest in professional 翻訳 signal their commitment to serving international guests with the same care afforded to domestic guests.
 
 When providing 翻訳 services, staff must distinguish between materials that require professional translators and those that can be handled with careful in-house efforts or translation tools. Machine translation (翻訳ツール) such as AI-assisted services can produce useful first drafts, but guest-facing documents should always be reviewed by a human with native-level proficiency before distribution. Hotels often maintain a library of pre-approved 翻訳 documents for common situations. If a guest requests translation of a personal document — a letter, a contract, or a prescription — staff should clarify the purpose and recommend professional translation services rather than attempting informal help.

@@ -4,9 +4,6 @@ section: 3
 title: 昼食 (chuushoku)
 ---
 
-**Pronunciation:** **chuu**-sho-ku
-**Register:** Formal — used in hotel and restaurant settings when communicating about the midday meal; more polished than the casual お昼 or 昼ごはん.
-
 昼食 is the formal Japanese word for lunch, covering the midday meal service in hotel restaurants, banquet halls, and room service. In Japanese hospitality, lunch service often presents opportunities for upselling seasonal set menus, business lunch packages, or special chef's recommendations, so staff who can describe the offerings clearly add tangible value. Unlike breakfast, which most staying guests consume on-property, lunch guests may include day visitors or local diners, requiring staff to be equally skilled at welcoming non-resident guests. Knowing the peak hours and average table turnover time helps staff manage flow and set realistic expectations.
 
 Practical communication around 昼食 centers on informing guests of available times, menu highlights, and reservation requirements. During peak periods, noting waiting times honestly and offering alternatives — such as the hotel lounge or a later table — demonstrates problem-solving in line with omotenashi values. When serving business guests, speed and discretion are often as important as flavor, so balancing attentive service with respect for the guest's time is essential.

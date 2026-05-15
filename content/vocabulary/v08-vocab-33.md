@@ -4,9 +4,6 @@ section: 33
 title: フロアマップ (furoamappu)
 ---
 
-**Pronunciation:** fu-ro-a-**map**-pu
-**Register:** Neutral — used naturally by hotel and facility staff when offering or referring guests to a printed or displayed map showing the layout of one or more floors.
-
 フロアマップ is a loanword from English ("floor map") that has become standard terminology in Japanese hotel and commercial facility management. It refers to a visual diagram — either printed on paper, posted on a wall, or displayed digitally on a screen — showing the arrangement of rooms, facilities, and services on a given floor or across multiple floors. Unlike 案内図 (annaizu), which tends to cover the entire facility or complex, フロアマップ is specifically focused on floor-by-floor spatial layout, making it the most practical tool for guests trying to locate their room, a specific meeting space, or an amenity relative to where they currently stand. In large hotels, フロアマップ boards are placed at elevator landings on every floor precisely for this purpose.
 
 The act of offering a フロアマップ proactively — before a guest even asks — is a recognized expression of kikubari (attentive care). Skilled hotel staff notice when a guest is studying a hallway or looking uncertain, and immediately approach with こちらがフロアマップでございます. The map is often handed with both hands, a subtle but meaningful gesture in Japanese hospitality. In multilingual hotel environments, フロアマップ is typically printed in Japanese, English, Chinese, and Korean, and staff should be prepared to briefly orient the guest to the map — pointing out their current location, the destination, and any key landmarks in between.

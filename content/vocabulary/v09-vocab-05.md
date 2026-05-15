@@ -4,9 +4,6 @@ section: 5
 title: 出発日 (shuppatsu bi)
 ---
 
-**Pronunciation:** shup-pa-tsu **bi**
-**Register:** Formal — used by front desk staff, housekeeping supervisors, and accounts teams when managing check-out procedures, room turnovers, and final billing.
-
 出発日 is the date on which a guest is scheduled to leave the hotel, completing their stay. In hotel operations, the 出発日 is as critical as the 到着日 because it drives the checkout workflow: housekeeping schedules deep cleaning and room preparation for incoming guests, the front desk prepares the final bill, and transportation or luggage-handling services are arranged accordingly. In ryokan settings, the 出発日 determines when the farewell breakfast will be served and whether the okami or senior staff will personally see off the guest at the entrance — a gesture deeply embedded in Japanese hospitality. Misjudging a guest's 出発日 by even one day can create a double-booking crisis or leave a room uncleaned for an arriving guest.
 
 When confirming a reservation, staff always verify the 出発日 explicitly alongside the 到着日. If a guest wishes to extend their stay, the 出発日 becomes the reference point for checking whether the same room is available for additional nights. It also governs the application of late check-out fees, which are calculated based on how many hours past the standard departure time the guest remains in the room.

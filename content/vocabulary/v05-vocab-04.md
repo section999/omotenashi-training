@@ -4,9 +4,6 @@ section: 4
 title: 夕食 (yuushoku)
 ---
 
-**Pronunciation:** **yuu**-sho-ku
-**Register:** Formal — the standard term used by hotel and ryokan staff when discussing evening meal service; preferred over the casual 晩ごはん in all guest-facing communication.
-
 夕食 is the formal word for dinner and represents the most important meal service in many Japanese hotels and ryokan. In luxury ryokan in particular, the evening kaiseki meal (懐石料理) is the centerpiece of the entire stay, showcasing seasonal ingredients, regional specialties, and the chef's artistry through multiple meticulously presented courses. Hotel restaurants likewise treat 夕食 as a premium experience, often requiring reservations and offering set menus or à la carte options. Staff must be well-versed not only in service timing but also in the cultural and culinary significance of what they are presenting to guests.
 
 Because 夕食 often involves advance reservations, table assignments, and menu pre-selection, preparation by staff before service begins is critical. Confirming arrival times, dietary restrictions, and any celebratory occasions during the afternoon allows the kitchen and floor team to personalize the experience. When communicating with guests about 夕食, the phrasing should convey anticipation and warmth — the dinner hour is not just a meal but the emotional high point of the guest's day.

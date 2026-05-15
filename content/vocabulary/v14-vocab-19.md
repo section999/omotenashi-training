@@ -4,9 +4,6 @@ section: 19
 title: バス (basu)
 ---
 
-**Pronunciation:** **ba**-su
-**Register:** Neutral — used naturally in everyday hospitality conversation when advising guests on routes that trains do not cover, including airport shuttles and sightseeing loops.
-
 バス (basu) is the Japanese loanword for "bus" and refers to road-based public transportation vehicles that operate on fixed routes with scheduled stops. While Japan's train network is extensive, バス services fill crucial gaps — serving rural areas, mountaintop destinations, and city neighbourhoods that lack rail connections. In tourist-heavy cities like Kyoto, certain sightseeing loop buses (観光バス, kankoukyaku basu) are specifically designed for visitors and stop at the most popular temples and shrines, making them an excellent recommendation for guests who prefer a relaxed pace over rush-hour trains.
 
 Hotel staff are frequently asked about バス routes, particularly for airport transfers. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (rimujin basu, limousine bus/airport shuttle) as the primary guest transportation option. Being able to explain the バス stop location (バス乗り場, basu noriba), the nearest stop name, and approximate journey time is part of standard concierge knowledge. A useful phrase is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」("You can board the bus bound for XX from the bus stop in front of the hotel").

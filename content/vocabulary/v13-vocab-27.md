@@ -4,9 +4,6 @@ section: 27
 title: マニュアル (manyuaru)
 ---
 
-**Pronunciation:** ma-**nyu**-a-ru
-**Register:** Formal — used in staff training, operational briefings, and internal documentation across hotels and hospitality facilities.
-
 マニュアル is a loanword from the English "manual," referring to a document that provides systematic, step-by-step instructions for completing tasks and following procedures. In Japanese hospitality operations, manuals are treated as authoritative references that define the standard of service, ensuring every staff member performs duties consistently regardless of experience level. A well-written マニュアル covers everything from check-in procedures and room-cleaning sequences to emergency responses and guest complaint protocols. Hotels invest considerable effort in producing and updating their manuals because inconsistency in service quality is considered a serious flaw in omotenashi culture.
 
 New employees are typically required to study the マニュアル thoroughly during the 研修 (kenshuu, training period), and senior staff periodically review it to ensure it reflects the latest procedures. When a guest raises an unusual request or a situation arises that a staff member has not encountered before, consulting the マニュアル is the correct and expected action. Managers update the manual after incidents, customer feedback analysis, or introduction of new equipment to keep it current. The phrase 「マニュアル通りに行ってください」 (manyuaru doori ni okonatte kudasai — "please proceed according to the manual") is commonly heard in pre-shift briefings.

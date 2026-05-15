@@ -4,9 +4,6 @@ section: 3
 title: まっすぐ (massugu)
 ---
 
-**Pronunciation:** **mas**-su-gu
-**Register:** Neutral — common in everyday spoken guidance by all hotel staff; also used in written wayfinding text on maps and signs.
-
 まっすぐ means "straight ahead" and is one of the most frequently used directional words in Japanese hospitality. When a destination lies directly along a guest's current path without any turns required, まっすぐ communicates this with perfect economy and clarity. In the omotenashi philosophy, efficient and unambiguous guidance is a form of respect — no guest should have to stop and retrace their steps because instructions were unclear. まっすぐ provides an immediate, intuitive orientation cue that works across language barriers and familiarity levels.
 
 In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if you go straight, you will find〜), or まっすぐ突き当たりに (straight ahead at the end). It is particularly useful in long corridors, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes from the hotel to a station or attraction. Adding a distance marker (〇〇メートルほど、徒歩〇分) after まっすぐ makes guidance significantly more practical.

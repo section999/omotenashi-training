@@ -4,9 +4,6 @@ section: 15
 title: 会議 (kaigi)
 ---
 
-**Pronunciation:** **kai**-gi
-**Register:** Formal — standard business Japanese used across all hospitality departments when referring to scheduled, structured meetings.
-
 会議 refers to a formal meeting or conference in which participants come together to discuss plans, review performance, address problems, and make decisions. In hotel operations, 会議 are regularly held at department level — morning briefings for front desk, weekly operations reviews for managers, and monthly all-staff meetings to share performance data and guest feedback. The formality of a 会議 is signalled by its advance scheduling, use of an agenda (議題, gidai), and often the production of minutes (議事録, gijiroku). Punctuality and prepared contributions are expected of all attendees, reflecting the professional standards of Japanese hospitality.
 
 During a 会議, participants are expected to speak clearly and concisely, listen without interrupting, and express disagreement with care so as not to disrupt group harmony (和, wa). A chairperson (司会, shikai) typically guides proceedings. In Japanese hotels, 会議 may also involve cross-departmental coordination — for example, when planning large banquets or VIP visits. Staff who facilitate or attend meetings are expected to bring relevant data and follow up on action items promptly.

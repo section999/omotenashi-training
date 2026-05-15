@@ -4,9 +4,6 @@ section: 17
 title: 病院 (byouin)
 ---
 
-**Pronunciation:** **byou**-in
-**Register:** Neutral — used in both everyday conversation and formal guest communication; no special honorific form is required for the facility name itself.
-
 病院 (byouin) refers to a hospital — a medical facility equipped with professional staff, diagnostic equipment, and treatment capabilities for a wide range of illnesses and injuries. In the hotel context, knowing the locations of the nearest 病院 is a fundamental responsibility for front desk and concierge staff, as guests may require urgent care that goes beyond what can be provided on-site. Japanese hospitals are typically categorised by size and function: 診療所 (shinryoujo) are small clinics for outpatient care, while 病院 in the strict legal sense must have at least 20 inpatient beds and offer broader services. Staff should be familiar with both types and be able to recommend the most appropriate facility based on the guest's condition.
 
 For international guests, navigating a Japanese 病院 can be daunting due to language barriers and unfamiliar procedures, so hotel staff play a crucial supportive role. This may include providing written directions and the hospital's address in the guest's language, arranging taxi or vehicle transport, contacting the hospital in advance to explain the guest's condition, or accompanying the guest if the situation warrants it. Staff should also have a basic understanding of how Japanese emergency numbers work — 119 is the number for ambulance (救急) and fire services, while 110 is for police. Knowing nearby hospitals that offer English-language services is particularly valuable for hotels that cater to international visitors.

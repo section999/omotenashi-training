@@ -4,9 +4,6 @@ section: 8
 title: 救急車 (kyuukyuusha)
 ---
 
-**Pronunciation:** kyū-kyū-**sha**
-**Register:** Formal/Neutral — used in all settings from casual conversation to official emergency communications; universally recognised.
-
 救急車 is an emergency medical vehicle staffed by paramedics (救急救命士, kyuukyuu kyuumeishi) and equipped to provide immediate care and rapid transport to hospital. In Japan, the emergency number for an ambulance is 119, which is also used for the fire service. Hospitality staff must know this number and be ready to call it without hesitation when a guest loses consciousness, experiences a serious medical episode, sustains a severe injury, or requires urgent care beyond what first aid can provide. Japan's ambulance response times are generally excellent in urban areas, but staff should begin 応急処置 (first aid) immediately rather than waiting for the vehicle to arrive.
 
 When calling for a 救急車, staff should clearly state the facility name and complete address, describe the patient's condition and symptoms, specify any known medical history the guest has shared, and keep the line open to follow the dispatcher's instructions. A designated staff member should wait at the building entrance to meet and guide the paramedics directly to the patient, as lobby navigation can cost critical seconds. After the incident, staff must complete an incident report and follow up with the guest's family or the hospital as appropriate.

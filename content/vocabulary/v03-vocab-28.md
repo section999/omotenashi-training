@@ -4,9 +4,6 @@ section: 28
 title: ルームサービス (room service)
 ---
 
-**Pronunciation:** **ruu**-mu sa-a-bi-su
-**Register:** Neutral — ルームサービス is a loanword used universally in hotel contexts without register adjustment. It appears in guest information booklets, menu cards, telephone prompts, and verbal explanations. As with all loanwords, the surrounding sentence structure should use keigo forms appropriate for guest-facing communication.
-
 ルームサービス (room service) refers to the hotel service of delivering food, beverages, and other items directly to a guest's room upon request. In the Japanese hospitality industry, ルームサービス represents both convenience and the fulfillment of individual guest needs — a core omotenashi value. Guests who are tired after travel, have dietary restrictions that require careful preparation, or simply prefer to dine privately rely on ルームサービス as a meaningful aspect of their stay. High-end hotels may offer round-the-clock ルームサービス with an extensive menu, while smaller properties may have limited hours or a simplified menu. Staff must be thoroughly familiar with the hotel's ルームサービス capabilities — including operating hours, available items, delivery times, and any additional charges — to respond to guest inquiries accurately and helpfully.
 
 In practice, the ルームサービス menu is typically found in the guest room, and staff at the front desk or via telephone explain: 「ルームサービスは24時間対応でございます」 (room service is available 24 hours) or 「ルームサービスのご注文はお部屋の電話よりどうぞ」 (please order room service by calling from your room telephone). If an order is delayed, proactive communication — 「お待たせいたしまして、大変申し訳ございません」 (I sincerely apologize for the wait) — is essential to maintain trust.

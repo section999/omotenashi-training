@@ -4,9 +4,6 @@ section: 19
 title: 相談 (soudan)
 ---
 
-**Pronunciation:** sou-**dan**
-**Register:** Neutral to Formal — used internally across all hospitality roles when seeking advice, input, or collaborative problem-solving from a colleague or supervisor.
-
 相談 means consultation — the act of discussing a problem, concern, or decision with another person in order to seek advice or reach a shared understanding. It forms the third pillar of ホウレンソウ (報告・連絡・相談), and its role is especially important in complex or ambiguous situations where a staff member is uncertain how to proceed. In hotel operations, 相談 might involve a front desk associate asking a senior colleague how to handle an unusual guest request, a concierge consulting management about a VIP's special arrangements, or a housekeeper checking with a supervisor before discarding an item left in a guest room. Encouraging a culture of 相談 is central to preventing costly errors and building team cohesion.
 
 Japanese workplace culture values the willingness to consult — staff who attempt to resolve all issues independently without consulting are sometimes seen as lacking humility or team awareness. The phrase ご相談があります (go-soudan ga arimasu — "I have something I would like to consult you about") is a professional and respectful way to approach a superior. Confidentiality is a key element: information shared during a 相談, particularly involving guest matters or staff personal issues, must be treated with discretion and respect.

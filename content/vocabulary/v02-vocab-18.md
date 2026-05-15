@@ -4,9 +4,6 @@ section: 18
 title: クレジットカード (credit card)
 ---
 
-**Pronunciation:** ku-re-**ji**-tto **kā**-do
-**Register:** Neutral — this loanword (外来語 / gairaigo) is used freely in all registers. In formal hospitality speech, it is embedded in polite structures such as クレジットカードを拝見してもよろしいでしょうか. The term itself does not change form, but the surrounding language must reflect the formal register expected at front desks and reception areas.
-
 クレジットカード is the standard Japanese term for a credit card, and it plays a central role in hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Understanding when and how to request a credit card respectfully — without making the guest feel distrusted — is a key hospitality skill.
 
 Front desk staff regularly use クレジットカード in two distinct contexts: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). It is also important to name the accepted card networks — Visa, Mastercard, JCB, American Express — when a guest asks which cards are accepted: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these scenarios signals high professional competence.

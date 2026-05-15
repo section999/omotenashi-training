@@ -4,9 +4,6 @@ section: 9
 title: うるさい (urusai)
 ---
 
-**Pronunciation:** u-ru-**sa**-i
-**Register:** Informal — commonly used by guests to describe noise discomfort; staff should recognise it immediately but respond using the formal equivalent 騒音 to maintain professional register.
-
 うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously to express displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must be able to recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The word has a directness that can sound blunt or even confrontational in certain contexts, which is why professional hospitality training emphasises substituting it with the more measured term 騒音 when acknowledging the complaint.
 
 Understanding うるさい also helps staff identify the emotional state of the guest. When a guest uses this word unprompted, they are typically at a threshold of frustration — the issue has been affecting them for long enough that they feel compelled to say something. This signals that the situation calls for a particularly empathetic and swift response, not just routine acknowledgement. Staff training in Japanese hospitality devotes specific attention to this kind of vocabulary gap: understanding the casual word the guest uses, while responding in formal, solution-focused language.

@@ -4,9 +4,6 @@ section: 35
 title: QRコード (kyuu aru koodo)
 ---
 
-**Pronunciation:** **kyuu**-aa-ru-**koo**-do (キューアールコード)
-**Register:** Neutral — universally understood in modern Japanese service settings; used comfortably with guests in both formal and informal contexts.
-
 QRコード stands for "Quick Response Code," a type of two-dimensional barcode that can store data and be scanned rapidly by smartphone cameras. In Japanese hospitality, QRコード have become a standard interface for 電子決済 (electronic payment), allowing guests to scan a displayed code with apps such as PayPay, LINE Pay, or d-払い to complete transactions instantly without physical contact. Beyond payments, QRコード are also used in hotels and restaurants for digital menus, Wi-Fi access, and informational guides, making them a versatile tool in modern omotenashi service. The ubiquity of QRコード in Japan reflects the country's embrace of efficient, technology-driven hospitality solutions.
 
 When guiding a guest through a QRコード payment, staff should present the code clearly — ensuring it is clean, undamaged, and displayed at a comfortable viewing angle — and confirm that the amount shown in the guest's app matches the total before they confirm the payment. After the guest completes the scan, staff must wait for the 決済完了 (payment complete) confirmation on their own terminal before concluding the transaction. If a guest's app fails to read the QRコード, staff should check for obstructions on the code or suggest switching to an alternative payment method calmly and without making the guest feel at fault.

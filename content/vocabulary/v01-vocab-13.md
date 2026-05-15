@@ -4,10 +4,6 @@ section: 13
 title: お願いいたします (onegai itashimasu)
 ---
 
-**Pronunciation:** o-ne-ga-i-i-ta-shi-ma-su — *onegai* is four syllables; the two *i* sounds at the join (*gai-i*) flow together; do not pause between them
-
-**Register:** Highly formal — more respectful than the everyday *onegai shimasu*. Appropriate for all guest-facing requests and formal professional contexts.
-
 **お願いいたします** is the most formal way to say "please" when making a request of someone — or to close a request politely. The base word is *negau* (願う), meaning "to wish" or "to request," elevated through the honorific prefix *o-* and the humble auxiliary *itashimasu* (the kenjōgo form of *shimasu*). The full phrase thus carries the weight of a humble, earnest request: *I humbly ask this of you.*
 
 In hospitality, this phrase is used in two main directions. Staff use it when asking guests to do something — fill out a form, confirm information, wait briefly. It can also be used at the end of a phone call or interaction as a polite closing: *yoroshiku o-negai itashimasu* ("I look forward to your kind cooperation"). In both cases, the phrase communicates deference and sincerity.

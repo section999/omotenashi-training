@@ -4,9 +4,6 @@ section: 8
 title: 退勤 (taikin)
 ---
 
-**Pronunciation:** **tai**-kin
-**Register:** Formal — used in attendance records, HR communications, and workplace handover procedures in hospitality and other service industries.
-
 退勤 means to finish work and leave the workplace at the end of a shift or workday. The kanji reflect this meaning directly: 退 means "to leave / withdraw," and 勤 means "service / duty," so 退勤 is the formal act of concluding one's professional service for the day. In Japanese hospitality, 退勤 is not simply walking out the door — it involves a proper handover process where outgoing staff communicate the status of tasks, ongoing guest needs, and any unresolved issues to the incoming shift. This handover culture is a hallmark of Japan's service excellence.
 
 Many hotels and ryokan require staff to record their 退勤 time using a time-stamp system, ensuring accurate payroll calculations and legal compliance. It is also standard practice for employees to report to their 上司 before 退勤 if there are outstanding matters. Leaving without completing these steps — even if the shift has technically ended — would be seen as irresponsible in the Japanese hospitality context. Proper 退勤 is part of showing respect for both the organisation and the next shift's team.

@@ -4,9 +4,6 @@ section: 6
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**Pronunciation:** shō-shō o-**ma**-chi ku-da-**sa**-i
-**Register:** Formal — a standard polite request used in all guest-facing situations; an even more respectful alternative is 少々お待ちいただけますでしょうか, appropriate for luxury hotel contexts.
-
 少々お待ちください is one of the most frequently used phrases in Japanese hospitality telephone communication, and it forms an essential part of the service script whenever a caller must be placed on brief hold, a transfer is being arranged, or information needs to be verified. The word 少々 (a little, briefly) is deliberately modest — it sets the expectation of a short wait rather than an indefinite delay, which helps manage the caller's patience. In the philosophy of omotenashi, even the act of asking a guest to wait must be performed with grace, acknowledgment, and a sense of urgency on the staff's part.
 
 The critical aspect of using 少々お待ちください professionally is what happens during and after the wait. If the wait extends beyond approximately 30 seconds, staff should return to the line with お待たせいたしました (thank you for your patience) and either provide an update or offer an alternative such as a callback. Leaving a caller in silence for more than a minute without checking in is considered poor service and erodes the trust the phrase was meant to build. After returning to the call, お待たせいたしました should always precede the next sentence.

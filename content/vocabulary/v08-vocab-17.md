@@ -4,9 +4,6 @@ section: 17
 title: 正面 (shoumen)
 ---
 
-**Pronunciation:** **shou**-men
-**Register:** Neutral to Formal — widely used in both spoken directions and written signage. In service speech, staff naturally pair it with polite expressions (正面にございます, 正面玄関でございます). The word itself carries a sense of formality and centrality, making it appropriate even in upscale hospitality settings.
-
 正面 (正面) literally means "front face" or "directly ahead" and refers to the main, forward-facing side of a building, room, or object. In hospitality, 正面 is a key orientation word because it anchors all other directional descriptions — once a guest knows where the 正面 (front) is, terms like 右 (right), 左 (left), and 裏 (back) become immediately meaningful. The 正面玄関 (main front entrance) of a hotel is the ceremonial and logistical center of the property, where guests arrive, taxis pull up, and the first impression is made. Communicating its location clearly is fundamental to welcoming guests from the moment they approach the building.
 
 In practical use, 正面 appears in directions such as 正面玄関はこちらでございます (the main entrance is this way), or describing the layout of a lobby: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what guests see when they face a particular direction: エレベーターを出て正面がレストランでございます (when you exit the elevator, the restaurant is directly in front of you). Staff should use 正面 to create a clear spatial frame of reference before adding further directions.

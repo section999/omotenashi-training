@@ -4,10 +4,6 @@ section: 9
 title: かしこまりました (kashikomarimashita)
 ---
 
-**Pronunciation:** ka-shi-ko-ma-ri-ma-shi-ta — seven syllables, evenly spaced; *kashiko* is the root, meaning "to sit formally/humbly"
-
-**Register:** Highly formal — the highest register response to a guest request. Used in premium hospitality settings, formal service contexts, and any situation where the guest's instruction deserves the most respectful acknowledgement.
-
 **かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence — the posture of someone who is humbly receiving an instruction. When you say *kashikomarimashita*, you are conveying not just "I understand" but "I receive your request with full attention and respect, and I will act on it."
 
 In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました — "certainly, understood"), and below that is *wakarimashita* (わかりました — "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual.

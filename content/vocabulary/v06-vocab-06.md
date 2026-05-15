@@ -4,9 +4,6 @@ section: 6
 title: 忘れ物 (wasuremono)
 ---
 
-**Pronunciation:** wa-su-re-**mo**-no
-**Register:** Formal/Neutral — used naturally by both guests and staff; the word itself is neutral, but how staff handle it reflects the formality of their establishment.
-
 忘れ物 (wasuremono) refers to an item that a guest has left behind, and its careful handling is one of the most visible expressions of omotenashi in Japanese hospitality. When a guest forgets something — whether a phone charger, a piece of jewellery, or medication — the expectation in Japanese hotels and ryokan is that the item will be retrieved, properly stored, and actively returned, often through a phone call or follow-up message. This proactive approach to 忘れ物 reflects the core omotenashi value of caring for the guest beyond the moment they depart.
 
 In practice, all items found in guest rooms after checkout must be logged immediately with a description, the room number, the date found, and the staff member's name. Items are typically stored in a designated 忘れ物保管場所 (lost-item storage area) at the front desk or housekeeping station. If the guest has already departed, staff are expected to make reasonable contact attempts; perishable items or medications are given highest priority. Mailing lost items at the hotel's expense is considered standard practice at premium establishments.

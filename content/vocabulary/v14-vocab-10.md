@@ -4,9 +4,6 @@ section: 10
 title: 観光地 (kankouchi)
 ---
 
-**Pronunciation:** kan-**kou**-chi
-**Register:** Neutral — used freely in spoken conversation, tourism materials, and professional contexts.
-
 観光地 is a location that attracts visitors due to its scenic beauty, historical significance, cultural richness, or entertainment value. Japan has an extraordinary number of 観光地, ranging from ancient temples and castles to modern theme parks and natural landscapes. In the hospitality industry, knowing the local 観光地 around your property is fundamental — guests expect front desk staff and concierges to be knowledgeable guides who can recommend where to go, how to get there, and what to see at each location. An enthusiastic, well-informed response to "What are the best 観光地 nearby?" is one of the most memorable moments of omotenashi a guest can experience.
 
 Beyond simple recommendations, hospitality professionals should understand the seasonal dynamics of 観光地 — cherry blossom season at certain spots, autumn foliage at others, and summer festivals at specific shrines. Knowing peak visiting times helps staff advise guests on when to arrive to avoid crowds, how long to allow, and which nearby spots might be less visited but equally rewarding. This level of local expertise transforms a hotel or ryokan into a trusted gateway to the surrounding area.

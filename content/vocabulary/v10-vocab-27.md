@@ -4,9 +4,6 @@ section: 27
 title: 両替 (ryougae)
 ---
 
-**Pronunciation:** ryo-u-**ga**-e (りょうがえ)
-**Register:** Neutral — used naturally in both formal service settings and everyday conversation; staff may use it with guests and colleagues alike.
-
 両替 (両替) literally means "exchanging both sides," with 両 (ryou) meaning "both" and 替 (gae) derived from 替える (kaeru), "to exchange." In the context of Japanese hospitality, it refers specifically to the exchange of currencies or the breaking of large bills into smaller denominations. For international guests, currency exchange is often one of the first services they require upon arrival, and handling it smoothly signals the hotel's attentiveness to foreign visitors. Demonstrating precision and transparency during 両替 reflects the omotenashi spirit of anticipating and meeting guest needs without being asked.
 
 In hotels, ryokan, and airport facilities, 両替 services may include foreign currency exchange as well as providing change in smaller denominations for tipping at onsen or purchasing items from vending machines. Staff should always count bills aloud in front of the guest to confirm the total, then present the exchanged money neatly — ideally placed in a small tray or envelope. If foreign currency exchange is not available on-site, staff should proactively direct guests to the nearest bank, post office, or authorized exchange bureau (両替所).

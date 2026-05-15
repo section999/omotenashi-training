@@ -4,9 +4,6 @@ section: 17
 title: 現金 (genkin)
 ---
 
-**Pronunciation:** **gen**-kin
-**Register:** Neutral — used freely by both staff and guests. In polite hospitality speech, it appears within formal structures such as お支払いは現金でよろしいでしょうか, but the word 現金 itself carries no register distinction. It is direct and clear, making it universally understood across all service settings.
-
 現金 means "cash" and refers specifically to physical banknotes and coins as a payment method. Despite the rise of digital payments and credit cards, cash remains extremely important in Japan, and many guests — both domestic and international — prefer or exclusively use it. In hotels and ryokan, confirming the guest's preferred payment method early helps staff prepare the correct change and receipt. Understanding how to discuss 現金 politely is a basic but essential skill for any front desk role.
 
 In hospitality practice, staff typically confirm payment method toward the end of a guest's stay or when presenting a bill: お支払いは現金でよろしいでしょうか is the standard phrasing. If the guest confirms cash, staff must ensure they have sufficient change available and process the transaction with care. When handing back change, the phrase お釣りでございます (here is your change) completes the interaction professionally. Always count out change clearly and present it with both hands.

@@ -4,9 +4,6 @@ section: 16
 title: 地図アプリ (chizu apuri)
 ---
 
-**Pronunciation:** chi-zu **a**-pu-ri
-**Register:** Neutral — everyday language used comfortably by hotel staff when advising guests on navigation tools, appropriate for both casual and semi-formal conversation.
-
 地図アプリ (chizu apuri) combines 地図 (chizu, map) and アプリ (apuri, app — short for application) to describe digital navigation applications on smartphones. These apps have transformed the way tourists move through Japan, offering turn-by-turn directions, public transit route planning, nearby restaurant and facility searches, and real-time traffic updates — all in multiple languages. For visitors unfamiliar with Japanese train networks or street addressing systems (Japan's addressing is uniquely non-sequential), 地図アプリ are often essential companions throughout a trip.
 
 Hotel staff who recommend 地図アプリ add tangible value to a guest's stay. When asked for directions, a concierge might say 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」("Using a map app such as Google Maps or Yahoo Maps would be convenient"). Pointing out that many 地図アプリ work offline when maps are downloaded in advance is especially helpful for guests worried about mobile data costs. Staff should also mention that Japan-specific apps like Navitime offer detailed transit integration that international apps sometimes lack.

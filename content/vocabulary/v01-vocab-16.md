@@ -4,10 +4,6 @@ section: 16
 title: ごゆっくりどうぞ (goyukkuri douzo)
 ---
 
-**Pronunciation:** go-yuk-ku-ri-dō-zo — *yukkuri* is three syllables with a double *k*; *dōzo* has a long *ō*
-
-**Register:** Polite — warm and inviting. Appropriate at the moment of a guest arriving in a room, sitting down to a meal, or settling into any space. One of the most emotionally generous phrases in Japanese hospitality.
-
 **ごゆっくりどうぞ** means "please take your time" or "please relax" — but its true meaning in hospitality is deeper: *there is no hurry here. This space is yours. We are not rushing you.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
 
 The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality — a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. It is particularly powerful because it is proactive — not said in response to a guest who looks rushed, but offered freely at the start of every appropriate moment.

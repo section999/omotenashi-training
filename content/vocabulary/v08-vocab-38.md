@@ -4,9 +4,6 @@ section: 38
 title: 緊急出口 (kinkyuu deguchi)
 ---
 
-**Pronunciation:** kin-**kyuu**-de-gu-chi
-**Register:** Formal — used in hotel safety communication, particularly in spoken instructions and verbal briefings, as an alternative or complement to the signage term 非常口.
-
 緊急出口 combines 緊急 (kinkyuu, urgent / emergency) with 出口 (deguchi, exit), forming "emergency exit." It is a near-synonym of 非常口 (hijouguchi), and both terms refer to the same physical thing: a designated exit used specifically during emergencies such as fires, earthquakes, or other disasters. The key practical distinction is one of register and medium: 非常口 is the official term enshrined in fire safety regulations and used on standardized Japanese emergency exit signs (the green running-figure signs seen in all public buildings), while 緊急出口 appears more commonly in spoken instructions, safety briefings, multilingual signage, and international hotel contexts where English-influenced terminology is more prevalent.
 
 For hotel staff, being fluent in both terms is professionally essential. When conducting a room orientation and pointing at a 非常口 sign, it is natural to say 非常口はこちらです. In a verbal conversation where a guest asks about fire safety, 緊急出口 often flows more naturally in speech. In some modern hotels catering to international guests, 緊急出口 appears alongside 非常口 on bilingual safety cards and signs, so staff should recognize and use both without confusion. The underlying message — that guests must know the location of the emergency exit before they need it — is the same regardless of which term is used.

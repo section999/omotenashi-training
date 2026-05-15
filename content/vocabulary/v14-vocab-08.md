@@ -4,9 +4,6 @@ section: 8
 title: 両替所 (ryougaejo)
 ---
 
-**Pronunciation:** ryou-**ga**-e-jo
-**Register:** Neutral — a practical, everyday term used widely in travel and hospitality settings.
-
 両替所 is a facility where travellers can exchange foreign currency for Japanese yen, or vice versa. These offices are commonly found at international airports, major train stations, large hotels, and post offices across Japan. For incoming international guests, locating a 両替所 is often one of the first practical needs upon arrival, and hospitality staff should be able to direct guests quickly and confidently. It is worth knowing that bank 両替所 and airport exchange counters may offer different rates and charge different fees, and that post offices (郵便局) often provide competitive rates with convenient locations.
 
 Hospitality professionals at hotels with high numbers of foreign guests may be asked whether the hotel itself offers currency exchange. Many large international hotels do provide this service at the front desk, albeit often at less favorable rates than dedicated exchange offices or banks. Being transparent about alternatives — including nearby ATMs that accept international cards, which typically draw directly on a bank's exchange rate — demonstrates the kind of genuine, guest-centred service that defines omotenashi.

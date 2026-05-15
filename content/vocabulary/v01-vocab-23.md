@@ -4,10 +4,6 @@ section: 23
 title: 承知いたしました (shouchi itashimashita)
 ---
 
-**Pronunciation:** shō-chi-i-ta-shi-ma-shi-ta — *shōchi* is two syllables with a long *ō*; *itashimashita* is the past humble form
-
-**Register:** Formal — one step below *kashikomarimashita* in the hierarchy of acknowledgement. Appropriate for most professional hospitality settings; particularly used in telephone communication, emails, and situations where *kashikomarimashita* might feel slightly excessive.
-
 **承知いたしました** means "I understand" or "certainly, understood" — but at a significantly more elevated register than the everyday *wakarimashita*. *Shōchi* (承知) means comprehension or acknowledgement — the character 承 (shō) carries the sense of "receiving" or "inheriting," and 知 (chi) means knowledge. Together: "I have received and understood." *Itashimashita* is the past humble form, indicating that the understanding is already complete at the moment of speaking.
 
 In the register hierarchy of acknowledgement phrases:

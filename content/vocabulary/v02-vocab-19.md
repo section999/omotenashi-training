@@ -4,9 +4,6 @@ section: 19
 title: デポジット (deposit)
 ---
 
-**Pronunciation:** de-**po**-ji-tto
-**Register:** Formal / Neutral — primarily used by hotel staff when explaining check-in financial procedures. Guests may also use the word, particularly business travelers and those with international hotel experience. In formal explanations, it appears in the phrase デポジットをお預かりいたします, and staff should be prepared to explain the concept clearly if a guest is unfamiliar with it.
-
 デポジット refers to a security deposit or pre-authorization hold placed on a guest's credit card (or occasionally collected as cash) at the time of check-in. Its purpose is to cover any incidental charges incurred during the stay — such as room service, minibar use, phone calls, or potential damages — that are not part of the original room rate. This practice is standard in hotels worldwide, but some guests may be surprised by it, making a calm and clear explanation essential. The deposit is released or refunded once check-out is completed without unresolved charges.
 
 Staff typically introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation involves stating the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします。If the deposit is a credit card hold rather than an actual charge, staff should clarify this distinction to prevent misunderstanding. Professionalism in this explanation builds trust and sets a positive tone for the stay.

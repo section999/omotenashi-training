@@ -4,9 +4,6 @@ section: 38
 title: 受付時間 (uketsuke jikan)
 ---
 
-**Pronunciation:** u-ke-tsu-**ke** ji-**kan**
-**Register:** Formal — used by front desk and concierge staff when communicating operational hours for reception services to guests in person, by phone, or in written materials.
-
 受付時間 (uketsuke jikan) joins 受付 (uketsuke, reception / front desk) with 時間 (jikan, time / hours), producing "reception hours" — the designated period during which the front desk is staffed and available to assist guests with check-in, inquiries, requests, and general support. In Japanese hotels, clearly communicating 受付時間 is considered an important aspect of service transparency. Unlike some international hotels that operate a 24-hour front desk, smaller Japanese ryokan (traditional inns), boutique hotels, and budget properties may have limited 受付時間, after which guests must use an intercom system or key drop for after-hours needs. Even full-service hotels distinguish between full-staffing hours and reduced overnight staffing levels.
 
 When a guest asks about 受付時間, the complete and professional response includes both the opening and closing time, the days of operation if they vary, and — critically — what support is available outside those hours. Simply stating a closing time without offering an alternative contact method creates a gap that can make guests feel abandoned, particularly new arrivals unfamiliar with the hotel. The standard model is to say 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします (reception hours are from [time] to [time]; after hours, we assist guests via the intercom system). This two-part answer closes the informational gap and reassures guests that support is always accessible in some form.

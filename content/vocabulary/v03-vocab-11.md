@@ -4,9 +4,6 @@ section: 11
 title: 毛布 (moufu)
 ---
 
-**Pronunciation:** **mou**-fu
-**Register:** Neutral — standard hospitality vocabulary used in both spoken guest requests and housekeeping communications; appropriate across all property types.
-
 毛布 (moufu) means blanket and is a fundamental comfort item in any lodging environment. In the context of Japanese hospitality, blankets are part of the room's standard bedding setup, and guests may request additional ones during colder months, when sleeping in heavily air-conditioned rooms, or simply based on personal preference. Hotels typically stock extra blankets in the wardrobe or upon request from the front desk or housekeeping. Responding swiftly and warmly to a blanket request is a simple but powerful demonstration of attentive service — the comfort of the guest's sleep directly influences the quality of their stay and their overall assessment of the property.
 
 The phrase お持ちいたしましょうか ("shall I bring you one?") is the gold standard for proactively offering a 毛布, particularly when a guest mentions feeling cold or when temperatures are expected to drop. In ryokan settings, blankets may be called 掛け布団 (kakebuton) when referring to the traditional quilted covering used over futon bedding — staff should be aware of both terms depending on the property style. When delivering a 毛布, always present it with both hands and a brief acknowledgment.

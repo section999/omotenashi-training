@@ -4,9 +4,6 @@ section: 16
 title: 管理番号 (kanri bangou)
 ---
 
-**Pronunciation:** **kan**-ri **ban**-gou
-**Register:** Formal to Neutral — operational terminology used by hotel and logistics staff when tracking stored items, deliveries, or reservations.
-
 管理番号 (kanri bangou) is a unique identifying number assigned to an item, booking, or shipment for the purpose of systematic tracking and retrieval. The term combines 管理 (kanri, meaning management or administration) and 番号 (bangou, meaning number), forming the concept of an "administrative number" — a code that allows staff to locate and verify any item within an organised system. In hotel operations, 管理番号 may appear on luggage tags, package receipts, courier slips, laundry tickets, or reservation confirmations. The purpose is always the same: to eliminate confusion and ensure that the right item reaches the right person.
 
 Japanese hospitality culture places great emphasis on accuracy and reliability, and 管理番号 is a practical tool that supports these values. When a guest drops off luggage for storage, the staff member records a 管理番号 on the claim ticket issued to the guest and on the corresponding storage tag attached to the bag. This dual-recording system means that even if a bag is moved within the storage area, it can always be traced back to its owner. For courier deliveries, the 管理番号 on the waybill links the parcel to the guest's room number. Staff should always read the 管理番号 aloud when handing it to a guest and encourage them to keep it safe until the item is retrieved.

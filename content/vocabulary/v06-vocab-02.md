@@ -4,9 +4,6 @@ section: 2
 title: トラブル (toraburu)
 ---
 
-**Pronunciation:** to-**ra**-bu-ru
-**Register:** Formal/Neutral — used by hospitality staff and managers when describing unexpected disruptions; slightly more urgent in nuance than 問題.
-
 トラブル (toraburu), borrowed from the English word "trouble," refers to unexpected incidents or disruptions that interfere with a guest's comfort or experience. It is commonly used in internal staff communication as well as in direct guest-facing speech when the situation warrants clear urgency — for example, a noisy neighbouring room, a technical failure, or a service delay. In the omotenashi tradition, responding to トラブル requires staff to remain visibly calm and empathetic, because a composed reaction reassures the guest and prevents panic from escalating the incident further.
 
 When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Staff should ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to signal that the guest's account is being taken seriously. After gathering details, the appropriate action — whether that is involving maintenance, offering a room change, or contacting a supervisor — should be communicated clearly so the guest knows what to expect next.

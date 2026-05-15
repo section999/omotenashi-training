@@ -4,9 +4,6 @@ section: 8
 title: 担当部署 (tantou busho)
 ---
 
-**Pronunciation:** tan-**tō** **bu**-sho
-**Register:** Formal — used in internal communications and guest-facing calls to indicate departmental routing; always paired with polite transfer language when speaking with a guest.
-
 担当部署 refers to the department within a hotel or organization that is specifically responsible for handling a particular type of inquiry or service. While 担当者 points to an individual, 担当部署 points to the team or division — for example, the reservations department, the banquet department, or the facilities management team. In large hotels with multiple specialized departments, correctly identifying and routing to the 担当部署 is essential for efficient service delivery. Guests who are routed to the wrong department must repeat their inquiry, which erodes satisfaction and reflects poorly on the hotel's internal coordination.
 
 When informing a caller about a transfer to another 担当部署, naming the department explicitly prepares the guest for who will answer and why. A phrase such as 予約担当部署におつなぎいたします (I will connect you to the reservations department) is far more informative than simply saying 転送いたします (I will transfer you). This transparency is a core element of professional Japanese telephone communication, demonstrating that the staff member understands the caller's need and is routing it appropriately rather than simply passing the call along.

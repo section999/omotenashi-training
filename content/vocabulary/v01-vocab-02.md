@@ -4,10 +4,6 @@ section: 2
 title: おはようございます (ohayou gozaimasu)
 ---
 
-**Pronunciation:** o-ha-**yō**-go-za-i-ma-su — the *yō* is a long vowel; do not shorten it to *yo*
-
-**Register:** Polite — the full form *ohayō gozaimasu* is appropriate for staff-to-guest and colleague-to-colleague use in professional settings. The shortened *ohayō* is informal and should not be used with guests.
-
 **おはようございます** is the standard morning greeting in Japanese, used from the time of waking until approximately 10:00–11:00 AM, depending on context. In hospitality, it is the first phrase a guest may hear on any given morning — at breakfast, in the corridor, or at the front desk — and the quality of its delivery sets the emotional tone for their entire day.
 
 The phrase has an interesting origin: it derives from *hayai* (早い), meaning "early" — the full original sense was something like "you are out early (and I respect that)." This historical root gives the greeting an underlying warmth: to say *ohayō gozaimasu* is, in a sense, to acknowledge and honour the other person's presence and effort.

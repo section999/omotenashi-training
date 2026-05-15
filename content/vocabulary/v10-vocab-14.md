@@ -4,9 +4,6 @@ section: 14
 title: レジ (reji)
 ---
 
-**Pronunciation:** **re**-ji
-**Register:** Neutral — used freely by both staff and guests in retail shops, hotels, and restaurants. The word is a loanword from the English "register" and carries no particular formality; however, in high-end establishments staff may pair it with polite sentence endings to elevate the interaction.
-
 レジ is the cash register or checkout counter where guests complete their financial transactions. In Japanese hospitality, the moment of payment is treated as a meaningful part of the guest experience, not merely an administrative task. How a guest is guided to and served at the レジ reflects the overall quality of service the establishment provides. Knowing this term well allows staff to communicate clearly and efficiently at what is often the final interaction of a guest's visit.
 
 In hotels and restaurants, staff will often say レジでお支払いをお願いいたします to direct guests to the payment point. In ryokan and high-end hotels, physically escorting the guest to the レジ — rather than simply pointing — is standard practice and considered a mark of attentiveness. The レジ may also be the location where receipts (領収書) and itemized statements (利用明細) are issued, making accuracy and composure at this station especially important.

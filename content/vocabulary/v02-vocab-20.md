@@ -4,9 +4,6 @@ section: 20
 title: キャンセル (cancel)
 ---
 
-**Pronunciation:** **kyan**-se-ru
-**Register:** Neutral — used freely by both staff and guests. While キャンセル itself is a casual loanword, it must be embedded in polite grammatical structures when used by hospitality staff. In formal writing or official communications, the Japanese term 取り消し (torikeshi) may appear, but キャンセル is universally understood and appropriate in spoken hotel contexts.
-
 キャンセル means "cancellation" or "to cancel," and it arises most often in the context of reservation management. Hotels rely on accurate bookings to plan staffing and room allocation, so cancellations have real operational impact. More importantly, most hotels have cancellation policies — often with fees applied if the cancellation occurs within a certain window of the check-in date. Staff must be able to explain these policies calmly and clearly, without making the guest feel penalized even when fees do apply. The way キャンセル is handled reflects directly on the hotel's reputation for care and professionalism.
 
 In practice, staff encounter キャンセル requests over the phone, at the front desk, and occasionally via email. When a guest initiates a cancellation, the standard flow is: confirm their intent (ご予約をキャンセルされますか), check the reservation, explain any applicable fees (キャンセル料が発生いたします), and confirm the cancellation in writing if required. If no fee applies, the gracious response is 承知いたしました。キャンセル手続きをいたします. Maintaining a warm and understanding tone throughout is essential, as guests may be canceling due to emergencies.

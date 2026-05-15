@@ -4,9 +4,6 @@ section: 28
 title: 緊急対応 (kinkyuu taiou)
 ---
 
-**Pronunciation:** kin-kyuu-**tai**-ou
-**Register:** Formal — used in operational manuals, staff training, and emergency briefings to describe the coordinated response protocol activated during crises.
-
 緊急対応 means "emergency response" and refers to the full set of actions, procedures, and communications activated when a serious and time-critical incident occurs at a hotel. This includes responses to fires, medical emergencies, natural disasters, security threats, and other situations requiring immediate intervention. In Japanese hotel management, 緊急対応 is codified into a 緊急対応マニュアル (emergency response manual) that every staff member is trained on. The concept reflects the understanding that when seconds matter, the quality of the response is determined not by improvisation but by how well staff have internalized their assigned roles. A well-executed 緊急対応 minimizes harm, projects calm authority, and maintains the hotel's duty of care to every guest on the premises.
 
 Staff responsibilities within 緊急対応 vary by role: front desk staff typically manage guest communications and roll calls, security staff coordinate with emergency services, housekeeping assists with evacuation, and management oversees the overall response. The key language actions in a 緊急対応 include announcing the situation clearly (without causing panic), directing guests to safe zones, contacting emergency services (119番 for fire/ambulance, 110番 for police), and documenting the sequence of events for post-incident reporting. Regular drills (避難訓練) ensure that when 緊急対応 is activated for real, every team member acts with confidence and precision rather than confusion.

@@ -4,9 +4,6 @@ section: 15
 title: Wi-Fi (waifai)
 ---
 
-**Pronunciation:** **wai**-fai
-**Register:** Neutral — a loanword (外来語, gairaigo) used universally across formal and informal contexts in Japan. In hotel settings it appears in both casual spoken exchanges and formal written signage. Staff can use it freely with guests of all backgrounds, though always within polite grammatical structures.
-
 Wi-Fi (ワイファイ) has become one of the most requested amenities in modern hospitality, and its availability is frequently a deciding factor in guest satisfaction surveys. In Japan, where both domestic business travelers and international tourists depend heavily on connectivity, a hotel's ability to provide fast, reliable Wi-Fi reflects its standard of service. Staff who can explain access procedures clearly — including how to find the network name (SSID) and enter the password — demonstrate attentiveness that goes beyond the basics.
 
 Wi-Fi information is typically displayed on a card in the room, printed on the key sleeve, or available at the front desk. Common phrases include 「Wi-Fiをご利用いただけます」 (Wi-Fi is available for your use) and 「Wi-Fiのパスワードはこちらでございます」 (here is the Wi-Fi password). When a guest reports a connectivity problem, staff should offer to assist step by step and escalate to technical support if needed. Proactively mentioning Wi-Fi during check-in is considered good practice in higher-end properties.

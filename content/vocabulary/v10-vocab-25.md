@@ -4,9 +4,6 @@ section: 25
 title: 外貨 (gaika)
 ---
 
-**Pronunciation:** **gai**-ka
-**Register:** Formal to Neutral — 外貨 is a standard financial and administrative term used in hotels, currency exchange counters, and travel services. It is professional but accessible, and guests with international travel experience will use it naturally. Staff in hotels and tourist facilities that serve foreign visitors should be comfortable using 外貨 and its related compounds in both spoken and written communication.
-
 外貨 literally means "outside-country money" and refers to any currency issued by a foreign nation. In Japanese hospitality, the ability to accept, exchange, and properly account for 外貨 is increasingly important as inbound tourism grows. Hotels and facilities that accommodate international guests need to have clear policies on which 外貨 they accept for direct payment, what exchange rates are applied, and whether 両替 (currency exchange) services are available on-site or nearby. For guests unfamiliar with Japanese yen, staff who can communicate 外貨 handling procedures clearly and helpfully create a significantly more comfortable experience.
 
 When a guest attempts to pay with 外貨, staff must know the current 為替レート (exchange rate) — which should be checked daily, not from memory — and clearly communicate the converted amount before processing the transaction. If the hotel does not accept 外貨 directly, staff should direct guests to the nearest 両替所 (currency exchange counter) or ATM accepting foreign cards. In tourist-heavy destinations, some ryokan and hotels post the day's accepted 外貨 rates near the front desk so guests can verify amounts independently, which increases transparency and reduces checkout delays.

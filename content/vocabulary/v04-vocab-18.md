@@ -4,9 +4,6 @@ section: 18
 title: 破損 (hason)
 ---
 
-**Pronunciation:** **ha**-son
-**Register:** Formal to Neutral — used in written incident reports, verbal reports to supervisors, and polite communication with guests when explaining that an item is damaged. The word carries a slightly formal, technical weight compared to everyday expressions like 壊れている (kowarete iru — broken), making it the preferred choice in professional hotel documentation.
-
 破損 refers to physical damage — breakage, cracking, chipping, tearing, or any form of structural harm to hotel property, furniture, fixtures, or equipment. In Japanese hospitality, the condition of every item in a guest room or public area reflects directly on the property's quality and care. Identifying and reporting 破損 promptly is therefore not just a maintenance task but a service responsibility, because a damaged item — a cracked chair leg, a broken door latch, a chipped teacup — can affect guest safety and satisfaction.
 
 In daily hotel operations, staff encounter 破損 during room inspections (点検), checkout checks, and routine housekeeping. The standard protocol is to report 破損 immediately to the maintenance or engineering department, with a clear description of what is damaged and where. Common phrases include 破損がございました ("there is damage") used in reports, and 破損のため使用できません ("cannot be used due to damage") when removing an item from service. When speaking to a guest who has reported damage, the appropriate response is to apologize, act promptly, and offer a solution.

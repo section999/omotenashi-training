@@ -4,9 +4,6 @@ section: 35
 title: 説明します (setsumei shimasu)
 ---
 
-**Pronunciation:** se-tsu-mei-**shi**-ma-su
-**Register:** Polite — the standard polite form for explaining; elevated to ご説明いたします for formal hotel keigo, particularly in telephone conversations, facility orientations, and service briefings.
-
 説明します (説明します) means "I will explain" and comes from the noun 説明 (explanation, description), which itself derives from 説 (to speak, to explain) and 明 (clear, bright). In hotel settings, 説明します is used whenever staff walk guests through procedures, services, equipment, or policies. The formal equivalent ご説明いたします is the standard telephone and guest-facing phrasing, and it signals that the staff member is about to provide important information that the guest should listen to carefully. Clear 説明 is a hallmark of professional hospitality — confusion arising from poor explanation often leads to complaints that could have been easily prevented.
 
 Effective 説明 in hotel service follows a structured pattern: introduce what you are about to explain, deliver the information in logical steps, and close with a summary phrase such as 以上が〇〇のご説明でございます (that concludes the explanation of 〇〇). This closing is important because it clearly signals to the guest that the 説明 is complete and invites them to ask questions. Over the telephone, this structure is even more critical because guests cannot see facial expressions or gestures that would otherwise signal when a speaker has finished. Slowing the pace, pausing between key points, and using the summary close all contribute to effective telephone 説明.

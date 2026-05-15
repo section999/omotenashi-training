@@ -4,9 +4,6 @@ section: 6
 title: 宿泊 (shukuhaku)
 ---
 
-**Pronunciation:** shu-**ku**-ha-ku
-**Register:** Formal — used by hotel and ryokan staff in written communications, verbal check-in procedures, and billing documents; more formal than 泊まる, which is used in everyday casual speech.
-
 宿泊 is the formal Japanese word for an overnight stay or lodging. Unlike the casual verb 泊まる (to stay overnight), 宿泊 carries a professional register that makes it the natural choice for any written or spoken communication in a hospitality environment. It appears on registration forms, billing sheets, welcome letters, and in verbal exchanges between staff and guests. The word combines 宿 (lodging, inn) and 泊 (overnight stay), reflecting its roots in traditional Japanese travel culture where inns and lodgings played a central social role.
 
 In practical hotel operations, 宿泊 is used to discuss the number of nights (宿泊数), the period of stay (宿泊期間), and the guest's overall accommodation arrangement. The polite prefix ご (go-shukuhaku) is always added when referring to a guest's stay. Phrases like ご宿泊の期間はいつからいつまででしょうか are used to confirm check-in and check-out dates. Understanding the difference between 宿泊 and other related words — such as 滞在 (taizai, a broader term for one's time spent somewhere) — helps staff use precisely the right term in every context.

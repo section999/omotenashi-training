@@ -4,9 +4,6 @@ section: 27
 title: こちら側 (kochira gawa)
 ---
 
-**Pronunciation:** **ko**-chi-ra **ga**-wa
-**Register:** Formal — こちら is an inherently polite directional pronoun (versus ここ, which is neutral/casual), and 側 (gawa, side) adds spatial precision. The compound こちら側 is the standard phrasing in hotel and ryokan service when guiding guests physically, as it combines directional clarity with the respectful distance implied by こちら. It is significantly more appropriate than simply pointing and saying こっち (kocchi, the casual equivalent).
-
 こちら側 (こちら側) means "this side" — specifically the side near the speaker — and is used to orient guests spatially when guiding them through lobbies, corridors, elevator halls, or seating areas. The word 側 (gawa, side) is what distinguishes this expression from the simpler こちら (this way/here): こちら indicates a general direction or location, while こちら側 emphasizes that the relevant object or area is on a specific side of a space, which is especially useful in wide corridors, dual-elevator banks, or split-level lobbies where guests might otherwise be uncertain which side to look at. This precision reduces hesitation and makes the guest's navigation seamless.
 
 In daily hospitality use, こちら側 appears when staff are physically present and can gesture to indicate "this side": エレベーターはこちら側にございます (the elevator is on this side), or 窓側のお席はこちら側でございます (the window seats are on this side). It is especially useful during welcome walks — when a staff member escorts a guest through a property and provides a running commentary of the layout. The companion expression あちら側 (that side, far from speaker) is used together with こちら側 to explain a bilateral layout: 洋室はあちら側、和室はこちら側でございます (Western rooms are on that side; Japanese-style rooms are on this side).

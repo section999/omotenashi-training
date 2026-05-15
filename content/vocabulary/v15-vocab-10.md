@@ -4,9 +4,6 @@ section: 10
 title: 荷物預かり (nimotsu azukari)
 ---
 
-**Pronunciation:** ni-mo-tsu a-**zu**-ka-ri
-**Register:** Neutral to Formal — used in both signage and direct guest interactions; the polite service-oriented term for luggage storage.
-
 荷物預かり is the service by which hotel or facility staff temporarily hold a guest's luggage on their behalf. This service is especially valuable for guests who arrive before their room is ready, those who have checked out but wish to explore the city before their flight, and travelers making a day trip who do not want to carry heavy bags. The 荷物預かり service reflects a fundamental omotenashi principle: anticipating the guest's needs and removing friction from their experience. In many Japanese hotels, this service is offered free of charge as a courtesy, though some properties may have time limits or charge for extended storage.
 
 When accepting luggage for 荷物預かり, staff should always issue a 引換券 (claim ticket), carefully label each item with the guest's name and room or reference number, and store items in a secure, designated area. Fragile items or those with special requirements should be noted and handled accordingly. At busy periods such as Golden Week or peak tourist season, the 荷物預かり area can fill quickly, so proactive communication about capacity is important.

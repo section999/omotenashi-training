@@ -4,10 +4,6 @@ section: 8
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**Pronunciation:** shō-shō-o-ma-chi-ku-da-sa-i — *shōshō* has two long *ō* sounds; do not shorten them to *shosho*
-
-**Register:** Polite — standard for all guest-facing interactions. The *shōshō* (少々, "just a little") is what makes this phrase courteous rather than blunt; omitting it results in the more abrupt *o-machi kudasai*.
-
 **少々お待ちください** means "please wait a moment" — but the phrase contains more than its translation suggests. *Shōshō* (少々) means "just a little / a small amount," and its inclusion is a deliberate act of courtesy: you are minimising the imposition, signalling that you will return quickly, and communicating that the guest's time is valued. The full phrase carries the implicit promise: *this won't take long, and I haven't forgotten you.*
 
 In hospitality practice, this phrase is only half of the interaction. The other half is what happens during the wait: acknowledging the guest when you return, thanking them for waiting (*o-matase itashimashita*), and never making them wait beyond what "a moment" reasonably implies. If the wait turns out to be longer than expected, return to the guest before the promised time expires and update them — do not let them stand or sit without acknowledgement.

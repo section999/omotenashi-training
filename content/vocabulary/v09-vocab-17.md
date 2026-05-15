@@ -4,9 +4,6 @@ section: 17
 title: 素泊まり (sudomari)
 ---
 
-**Pronunciation:** su-do-**ma**-ri
-**Register:** Neutral — 素泊まり is a standard industry term used by hotel staff, travel agencies, and guests alike. It appears in plan names, booking confirmations, and spoken communication without register concerns. The word carries a matter-of-fact, practical nuance — it states simply what is not included rather than positioning the absence of meals as a negative.
-
 素泊まり (sudomari) literally combines 素 (su, meaning "plain" or "bare") with 泊まり (tomari, meaning "staying overnight"), resulting in the concept of an accommodation stay with no meals attached. This is the most basic accommodation unit in Japanese hotel and ryokan settings, and it exists in contrast to the meal-inclusive plans that are especially common at ryokan. For guests who prefer to dine out, explore local restaurants, or simply want a lower-cost option, 素泊まり offers flexibility; for staff, correctly identifying a guest's plan as 素泊まり prevents the awkward situation of directing a guest to the dining room for a meal they have not paid for.
 
 Front-line hotel staff use 素泊まり when confirming plan contents at check-in and when answering guest inquiries about what is included. The conscientious approach, consistent with omotenashi principles, is not merely to confirm that meals are absent but to proactively offer alternatives — mentioning nearby restaurant recommendations, in-room dining options, or convenience store directions. This transforms a potentially disappointing revelation into a helpful service moment.

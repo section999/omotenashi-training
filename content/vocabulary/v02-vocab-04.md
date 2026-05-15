@@ -4,9 +4,6 @@ section: 4
 title: 予約 (yoyaku)
 ---
 
-**Pronunciation:** yo-**ya**-ku
-**Register:** Formal — used across all hospitality departments; always prefixed with ご (go-yoyaku) when addressing guests or referring to their reservation.
-
 予約 is one of the most fundamental words in Japanese hospitality, meaning reservation or booking. It is the point at which a guest's relationship with the hotel begins, often before they even set foot on the property. Reservations may be made by phone, online, or through a travel agent, and staff must handle all related inquiries — creation, confirmation, modification, and cancellation — with precision and politeness. A mishandled 予約 can damage trust irreparably, while a smoothly managed one builds confidence in the property from the outset.
 
 When confirming a reservation at the front desk, staff use the phrase ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and signals respect for the guest's arrangement. Beyond the front desk, 予約 appears in restaurant seating, spa bookings, tour reservations, and shuttle scheduling — anywhere in the hotel where advance arrangement is required. Accurate record-keeping and clear communication of reservation details are the practical cornerstones of every 予約-related interaction.

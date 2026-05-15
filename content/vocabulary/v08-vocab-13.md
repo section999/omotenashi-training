@@ -4,9 +4,6 @@ section: 13
 title: 奥 (oku)
 ---
 
-**Pronunciation:** **o**-ku
-**Register:** Neutral — very common in spoken hospitality guidance; also appears in written signs; conveys a sense of depth or interiority that carries a slightly warm, welcoming nuance in Japanese spatial language.
-
 奥 (oku) means "the back," "further inside," or "the inner part" of a space, and is one of the most distinctively Japanese concepts in spatial description. Unlike a simple directional word like 右 or 左, 奥 expresses a sense of depth — an invitation to move deeper into a space, past the visible threshold, into the fuller interior. In Japanese architectural and hospitality culture, the innermost part of a room (奥の間) has traditionally held the most honored position, where important guests were seated farthest from the entrance and closest to the tokonoma (decorative alcove). This cultural resonance gives 奥 a subtle connotation of special place or privileged location.
 
 In modern hotel and restaurant settings, 奥 is used practically to direct guests to facilities located at the far end of a room, corridor, or dining area: お手洗いは奥にございます, お席は奥の方でございます. When the destination is at the very end of the space, 突き当たり (dead end / far wall) is often paired with 奥 for even greater precision: 廊下の突き当たり奥にございます. Staff should be careful to distinguish 奥 from 裏 — 奥 means the interior far end of a space the guest is already inside, while 裏 means the rear exterior of a building.

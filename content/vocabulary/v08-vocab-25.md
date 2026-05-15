@@ -4,9 +4,6 @@ section: 25
 title: 分 (fun/pun)
 ---
 
-**Pronunciation:** **fun** / **pun** (pronunciation shifts based on preceding number — see Common Mistakes)
-**Register:** Neutral — 分 as a time counter is universal across all registers and situations. There is no formal or informal variation in the word itself; the service register is carried by the surrounding sentence structure. Staff at all levels of hospitality, from budget hotels to luxury ryokan, use 徒歩〇分 as a standard measurement.
-
 分 (分) is the Japanese counter for minutes and is one of the most practically important units of communication in hospitality settings. Nearly every directional exchange involving distance or waiting time will include 分, making it a high-frequency, high-stakes vocabulary item. In Japanese service culture, time estimates are taken seriously — guests make decisions about whether to walk or take a taxi, whether to explore before dinner or rest, based on the minute counts staff provide. An accurate, confidently delivered 徒歩約10分です carries real informational weight and contributes directly to guest satisfaction and planning.
 
 In hospitality use, 分 nearly always appears in the pattern 〇分 (〇-fun/pun), either in the 徒歩〇分 (〇-minute walk) format for directions, or in the お待ち時間は約〇分でございます (the wait is approximately 〇 minutes) format for service timing. Staff should memorize the phonetic changes that 分 undergoes with different numbers, as these changes are automatic for native speakers but a common stumbling block for learners. Clear pronunciation of time estimates signals professionalism and prevents misunderstandings that lead to missed appointments or unhappy guests.

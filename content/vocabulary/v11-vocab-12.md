@@ -4,9 +4,6 @@ section: 12
 title: メッセージ (messeeji)
 ---
 
-**Pronunciation:** me-**sē**-ji
-**Register:** Neutral — a loanword used in both internal and guest-facing contexts; slightly less formal in tone than 伝言 and more appropriate when discussing written, digital, or recorded communications.
-
 メッセージ is a broad loanword from English that covers any form of communication left for someone who is not immediately available — including handwritten notes, digital messages, SMS texts, emails, and recorded audio. In a modern Japanese hotel, メッセージ is used across a wide range of service touchpoints: the front desk may receive a written メッセージ for a guest, housekeeping may leave a メッセージ slip in a room, and concierge services may use digital メッセージ platforms to coordinate with guests. As hospitality becomes increasingly digital, the ability to handle メッセージ across multiple channels is a growing skill requirement for hotel staff.
 
 While 伝言 implies a personal, trusted relay between two people — typically over the phone — メッセージ is broader and often implies written or recorded media. When a guest asks to メッセージを残す (leave a message), it may be by voicemail, a note at the front desk, or a hotel app notification. Staff should confirm the preferred channel when receiving such a request: ご希望の連絡方法はございますか (do you have a preferred method of contact?) — this allows the hotel to tailor its response to the guest's communication habits.

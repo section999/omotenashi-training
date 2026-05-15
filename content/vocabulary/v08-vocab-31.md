@@ -4,9 +4,6 @@ section: 31
 title: 中 (naka)
 ---
 
-**Pronunciation:** **na**-ka
-**Register:** Neutral to Formal — used in hotel navigation to indicate that something is inside a room, building, enclosure, or defined space.
-
 中 (naka) means "inside," "within," or "interior," and is one of the most frequently used spatial words in hotel service. Whether directing guests to a meeting room inside a building, an amenity within a guest room, or a facility located in an interior courtyard, 中 communicates interiority clearly and concisely. In formal keigo sentences it appears as 中にございます or 建物の中にございます, and it pairs naturally with the verb 入る (hairu, to enter) — 中にお入りください (please come inside). Knowing 中 is especially important in large hotels where guests might otherwise circle a building looking for an outdoor entrance that is actually located inside a lobby.
 
 Culturally, directing a guest 中へどうぞ (please come inside / right this way inside) carries warmth and a welcoming nuance, as it signals an invitation into the space rather than a mere pointing of direction. Staff use 中 to distinguish clearly between a facility that is inside the hotel versus one that requires going outside — a distinction that matters greatly in inclement weather. When handing over room keys or conducting room orientations, 中 is also used to introduce in-room features: クローゼットの中にハンガーがございます (there are hangers inside the closet).

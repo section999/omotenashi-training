@@ -4,9 +4,6 @@ section: 20
 title: 業務 (gyoumu)
 ---
 
-**Pronunciation:** **gyou**-mu
-**Register:** Formal — the standard professional term used across all hotel departments to refer to official work duties and operational responsibilities.
-
 業務 refers to the totality of duties, tasks, and responsibilities that constitute an employee's official work scope within an organisation. In a hotel context, 業務 encompasses everything from front desk operations and housekeeping routines to concierge services and food and beverage management. The term carries a sense of institutional responsibility — 業務 is not simply "work" in an abstract sense, but the specific, assigned functions that define a role. When a new employee is onboarded, they receive a 業務内容の説明 (gyoumu naiyou no setsumei — explanation of duties) to clarify exactly what their 業務 entails. Understanding one's 業務 thoroughly is considered essential for delivering consistent, high-quality omotenashi.
 
 In daily hotel operations, 業務 is used in many compound phrases: 業務効率化 (gyoumu kooritsu-ka — improvement of operational efficiency), 業務報告 (gyoumu houkoku — work report), and 業務手順 (gyoumu tejun — operational procedure). Staff are expected to prioritise 業務 over personal preferences, and any deviation from assigned duties requires approval. The smooth execution of 業務 across all departments is what allows a hotel to function as a seamlessly coordinated service organisation.

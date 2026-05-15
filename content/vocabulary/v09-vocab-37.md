@@ -4,9 +4,6 @@ section: 37
 title: 再確認 (sai kakunin)
 ---
 
-**Pronunciation:** sai-**ka**-ku-nin
-**Register:** Formal — used by reservation and front desk staff when verifying details of an existing booking, typically 24–48 hours before the guest's scheduled arrival.
-
 再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), meaning "reconfirmation" — the act of checking the details of an existing reservation a second time to ensure accuracy. In Japanese hotel practice, 再確認 is a proactive quality-control step taken before a guest arrives, not merely a response to uncertainty. It serves multiple functions: catching any data-entry errors, updating the file if the guest's plans have changed since booking, and creating a moment of warm anticipation by reaching out to the guest in advance. For VIP guests, large groups, or bookings on high-demand dates such as holidays and festivals, 再確認 is considered mandatory rather than optional.
 
 The format of a 再確認 contact may be by phone, email, or in some cases a messaging app notification through the hotel's booking platform. When conducted by phone, the standard opening is ご予約の再確認のためお電話いたしました (I am calling to reconfirm your reservation), followed by reading back all key details: name, arrival date and time, room type, meal plan, and any special requests. This scripted reconfirmation ensures no element has been misrecorded. The 再確認 call also gives the guest a natural opportunity to flag any last-minute changes — a different arrival time, a dietary update, or an additional request — before they arrive, reducing the likelihood of on-arrival surprises for both parties.

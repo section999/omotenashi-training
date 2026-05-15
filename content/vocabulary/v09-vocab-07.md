@@ -4,9 +4,6 @@ section: 7
 title: 日数 (nissuu)
 ---
 
-**Pronunciation:** **ni**-ssuu
-**Register:** Formal/Neutral — used by front desk staff and accounts teams when calculating the total number of days involved in a stay for billing and scheduling purposes.
-
 日数 refers to the total count of calendar days associated with a guest's stay, counting both the arrival day and the departure day. It is primarily a billing and scheduling term, used when communicating the full span of a visit in terms of days rather than nights. In Japanese hotel accounting, 日数 appears on invoices and internal reports where a day-based breakdown of services — such as parking fees, day-use spa access, or equipment rentals charged per calendar day — is required. It provides a different lens from 何泊 (number of nights), which is the more common unit for overnight accommodation charges.
 
 Understanding when to use 日数 versus 何泊 is an important professional skill. A guest staying from April 10 to April 12 has a 日数 of 3 (April 10, 11, and 12 are all counted) but a 何泊 count of 2 (only the nights of April 10 and 11 are chargeable). Confusing these can result in over- or under-billing. Staff in full-service hotels also use 日数 when coordinating with restaurants and activity partners who charge by the day rather than by the night.

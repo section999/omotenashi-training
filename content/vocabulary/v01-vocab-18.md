@@ -4,10 +4,6 @@ section: 18
 title: お疲れ様です (otsukaresama desu)
 ---
 
-**Pronunciation:** o-tsu-ka-re-sa-ma-de-su — *tsukaresama* is five syllables; *desu* is the standard polite ending
-
-**Register:** Polite — used between colleagues in a professional setting. Critically, this phrase is used *among staff*, not toward guests. Using it with guests is a common error that signals a misunderstanding of the phrase's social function.
-
 **お疲れ様です** means "thank you for your hard work" or "you must be tired (and I acknowledge that)." The root word *tsukareru* (疲れる) means "to become tired," elevated to *tsukaresama* through the honorific forms. The phrase is a way of acknowledging that the other person has been working, is working, or has just completed work — and that their effort is seen and valued.
 
 This phrase is one of the most frequently used expressions in Japanese workplace culture. It is said when passing a colleague in the corridor, when someone finishes a task, when greeting a team member who has just arrived for their shift, or when saying goodbye at the end of the day. Its emotional function is to create solidarity: *I see your work. I recognise your effort. We are in this together.*

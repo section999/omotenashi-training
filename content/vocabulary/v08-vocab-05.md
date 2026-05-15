@@ -4,9 +4,6 @@ section: 5
 title: 角 (kado)
 ---
 
-**Pronunciation:** **ka**-do
-**Register:** Neutral — widely used in both casual and formal speech; in hotel contexts, paired with polite request forms for directions.
-
 角 (kado) means "corner" and serves as one of the most practical landmark references in Japanese wayfinding communication. In hospitality settings, abstract directions ("turn right after a while") are far less useful than direction-plus-landmark combinations ("turn right at the next corner"), and 角 is the landmark of choice in corridors, streets, and building interiors. The word refers specifically to the point where a path changes direction — a street corner, a corridor junction, a room corner — giving guests a clear visual target to walk toward before acting on the instruction. This precision is a hallmark of thoughtful guest guidance.
 
 In hotel communication, 角 most frequently appears as 次の角 (the next corner), 最初の角 (the first corner), or 二つ目の角 (the second corner), combined with the verb 曲がる: 次の角を右に曲がってください. It is also used in retail and restaurant contexts when directing guests around the exterior of a building or through a shopping complex. Staff should make sure to clarify which corner to turn at when multiple intersections are visible, as ambiguity at corners is a leading cause of guest misdirection.

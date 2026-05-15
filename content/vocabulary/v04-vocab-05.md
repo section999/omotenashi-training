@@ -4,9 +4,6 @@ section: 5
 title: ゴミ箱 (gomibako)
 ---
 
-**Pronunciation:** **go**-mi-ba-ko
-**Register:** Neutral — used freely by housekeeping staff in internal communication and in polite, practical guidance to guests who ask about trash disposal.
-
 ゴミ箱 refers to the trash can or waste bin provided in guest rooms and throughout hotel common areas. In the Japanese hospitality setting, ゴミ箱 are typically placed thoughtfully — beside the desk, in the bathroom, and occasionally near the entrance — to anticipate guest needs without being visually obtrusive. Housekeeping staff check each ゴミ箱 during the cleaning cycle, emptying and re-lining it even if it contains only minimal waste, as part of maintaining impeccable room standards. The presentation of a clean, properly lined ゴミ箱 is a small but meaningful signal of the attentive service guests expect in a quality hotel or ryokan.
 
 When assisting guests who ask where to discard something, staff should guide them to the nearest ゴミ箱 with clear and polite direction, using phrases such as こちらでございます or バスルームにもございます to indicate location. In hotels with recycling policies, staff may also need to explain which ゴミ箱 is designated for which type of waste. Knowing the placement and number of ゴミ箱 in each room type is part of the practical knowledge expected of housekeeping professionals.

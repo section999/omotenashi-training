@@ -4,9 +4,6 @@ section: 22
 title: 担当 (tantou)
 ---
 
-**Pronunciation:** tan-**tou**
-**Register:** Neutral to Formal — standard professional Japanese used in all hotel departments to identify who is responsible for a particular task, area, or guest.
-
 担当 means the person in charge, or the individual designated as responsible for a specific task, area, or function. In Japanese hospitality, clearly defining 担当 is essential for ensuring accountability and seamless service. Every guest interaction, every department, and every operational zone typically has a designated 担当 who is responsible for its smooth running. A guest checking in may be assigned a personal 担当 at a ryokan, who attends to their needs throughout the stay. At a hotel front desk, 担当者 (tantousha — the person in charge) handles specific reservations or guest accounts.
 
 The concept of 担当 also extends to internal organisational structure. Staff may be 担当 for a particular floor, a VIP arrival, an event, or a recurring task such as supply ordering. When a guest or colleague needs to reach the right person, asking 担当の方はどなたですか (tantou no kata wa donata desu ka — "who is the person in charge?") is the standard phrase. In Japanese professional culture, being appointed as 担当 carries a sense of personal responsibility — the 担当 is expected to see the matter through to completion and report back.

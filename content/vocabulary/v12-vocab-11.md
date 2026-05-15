@@ -4,9 +4,6 @@ section: 11
 title: 危険 (kiken)
 ---
 
-**Pronunciation:** ki-**ken**
-**Register:** Formal/Neutral — used in safety signage, verbal warnings, staff briefings, and emergency communications; understood by all age groups and in all professional contexts.
-
 危険 refers to situations, objects, or conditions that pose a genuine threat to life, health, or property. In Japanese hospitality, recognising and communicating 危険 accurately and promptly is a fundamental responsibility — both for the physical safety of guests and the legal liability of the property. Unlike 注意 (caution), which signals the need for care, 危険 indicates a serious, immediate, or high-probability risk that demands a strong response, such as restricting access, issuing a verbal warning, or triggering emergency procedures.
 
 In hotels, 危険 zones may include areas under construction or maintenance, rooms with reported gas leaks, unstable furniture or fixtures, flooded corridors, or locations affected by earthquake damage. Staff must be empowered to place 危険 signage, verbally redirect guests, and escalate to management without hesitation when they identify a hazard. In Japanese workplace culture, the concept of 危険予知 (kiken yochi — hazard prediction or danger anticipation) is trained across many industries, encouraging workers to identify potential dangers before incidents occur.

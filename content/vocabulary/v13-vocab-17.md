@@ -4,9 +4,6 @@ section: 17
 title: 報告 (houkoku)
 ---
 
-**Pronunciation:** **hou**-ko-ku
-**Register:** Formal — an essential term in professional Japanese communication, used at all levels of hospitality operations to convey status updates, incidents, and task completion.
-
 報告 means report — the act of conveying information about completed tasks, ongoing situations, or incidents to a supervisor or relevant party. In Japanese workplace culture, 報告 is considered a fundamental professional responsibility, forming part of the widely taught triad 報告・連絡・相談 (houkoku, renraku, soudan), often abbreviated as ホウレンソウ (hourensou). This triad — report, communicate, consult — is the backbone of internal communication in Japanese organizations including hotels. Timely and accurate 報告 ensures that management can make informed decisions, respond to guest issues quickly, and maintain service quality. Failing to report promptly is considered a serious professional lapse.
 
 In a hotel context, 報告 takes many forms: a front desk associate reporting a guest complaint to the duty manager, a housekeeper informing the floor supervisor that a room is ready, or a maintenance team submitting a written report on a repair. The phrasing is important — 報告いたします (houkoku itashimasu) is the humble, formal way to announce a report to a superior. Verbal reports are often followed by written documentation, especially for incidents that may require follow-up or insurance purposes.

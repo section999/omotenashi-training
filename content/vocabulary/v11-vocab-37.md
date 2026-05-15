@@ -4,9 +4,6 @@ section: 37
 title: わかりました (wakarimashita)
 ---
 
-**Pronunciation:** wa-ka-ri-**ma**-shi-ta
-**Register:** Polite — the standard polite form for acknowledging understanding; appropriate for most hotel interactions, though かしこまりました is preferred in luxury settings when responding to guest instructions.
-
 わかりました (わかりました) means "I understood" or "understood," coming from the verb わかる (to understand, to become clear), which has roots in the concept of something separating or becoming distinct enough to perceive. In hotel communication, わかりました is the workhorse acknowledgment phrase — it is polite, clear, and natural in a wide range of contexts including telephone calls, face-to-face interactions with guests, and communication between staff members. While it sits below かしこまりました and 承知しました on the formality scale, わかりました is entirely appropriate for the majority of everyday hospitality interactions and is far preferable to casual forms like うん or なるほど, which would be inappropriate with guests.
 
 The true power of わかりました in guest service comes from what follows it. A standalone わかりました can feel passive; pairing it with an immediate action statement transforms it into an active, reassuring response. For example, わかりました、すぐにお持ちいたします (understood — I will bring it right away) or わかりました、担当者にお伝えいたします (understood — I will pass this on to the person in charge) signals not only comprehension but initiative. On the telephone, this combination pattern is especially important because guests cannot see body language that might otherwise convey attentiveness and readiness to act.

@@ -4,10 +4,6 @@ section: 20
 title: またお越しくださいませ (mata okoshi kudasaimase)
 ---
 
-**Pronunciation:** ma-ta-o-ko-shi-ku-da-sa-i-ma-se — *mata* means "again"; *okoshi* is the honorific form of "coming/visiting"; *kudasaimase* is the polite request ending
-
-**Register:** Formal — the standard farewell at the conclusion of a guest's visit. Used when a guest is departing the property and may or may not return. Warmly invites without pressuring.
-
 **またお越しくださいませ** means "please come again" — but it carries considerably more warmth than its translation suggests. *Mata* (また) means "again," *okoshi* (お越し) is the honorific for "coming/visiting," and *kudasaimase* is the most polite form of "please do." The phrase is the hospitality professional's final act of care: a sincere, dignified invitation for the guest to return.
 
 The timing and delivery of this phrase matter enormously. It is the last impression the guest carries out the door — which means it has disproportionate weight in shaping their memory of the entire stay. A deeply felt *mata o-koshi kudasaimase*, delivered with genuine eye contact, a bow, and the staff member's full attention, communicates: *you mattered to us. Come back when you can.*

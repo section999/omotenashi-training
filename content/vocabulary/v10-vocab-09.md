@@ -4,9 +4,6 @@ section: 9
 title: お釣り (otsuri)
 ---
 
-**Pronunciation:** o-**tsu**-ri
-**Register:** Formal/Neutral — used by cashiers and front desk staff whenever cash transactions occur and change is to be returned to the guest.
-
 お釣り is the change returned to a guest who has paid more than the total amount owed. The honorific prefix お (o-) elevates the word from the plain form 釣り and is obligatory in all guest-facing contexts. While Japan's transition to cashless payments is well underway, cash remains widely used — particularly in traditional ryokan and onsen establishments — making accurate and polite 釣り return a fundamental cashier skill. In Japanese hospitality, counting the change visibly and aloud in front of the guest (お客様の前で数える) is standard practice, serving as a transparent double-check that reassures both the guest and the staff member that the amount is correct.
 
 The professional protocol for returning お釣り involves stating the amount before and after counting: "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます" (I will take 〇〇 yen; your total is 〇〇 yen, so your change is 〇〇 yen). Handing お釣り with both hands on a small tray (お盆) is the expected etiquette in formal hospitality settings. This small ritual communicates attentiveness and respect, turning a mundane transaction into a moment of genuine service.

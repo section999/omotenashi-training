@@ -4,9 +4,6 @@ section: 6
 title: 警報 (keihou)
 ---
 
-**Pronunciation:** kei-**hō**
-**Register:** Formal — appears in official signage, public address system announcements, government weather alerts, and emergency protocols throughout hospitality facilities.
-
 警報 is a signal — auditory, visual, or both — that alerts occupants to imminent danger, triggering an immediate protective response. In the context of Japanese hospitality, the most common forms are 火災警報 (fire alarm), 気象警報 (weather warning from the Japan Meteorological Agency), and internal emergency alerts broadcast over a hotel's PA system. Because a 警報 is designed to provoke urgent action, staff must respond to every activation with complete seriousness — even when they suspect a false alarm — because hesitation or dismissal can be fatal in a genuine emergency.
 
 Staff responsibilities upon activation of a 警報 include verifying the cause as rapidly as safety allows, initiating the evacuation announcement, contacting the appropriate emergency services, and maintaining order among guests. Hotels are also required to regularly test their alarm systems, and staff should be familiar with the difference between a test sound and a live activation. When a 気象警報 is issued for severe weather such as typhoons or heavy snow, the hotel must adjust operations, restrict outdoor activities, and prepare contingency measures for stranded guests.

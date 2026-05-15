@@ -4,9 +4,6 @@ section: 19
 title: 確認いたします (kakunin itashimasu)
 ---
 
-**Pronunciation:** ka-ku-nin i-**ta**-shi-ma-su
-**Register:** Formal — this is a keigo (honorific language) expression that uses the humble form いたします (itashimasu) of する (suru). It is used by hotel and service staff in all guest-facing contexts: phone calls, in-person interactions, and written correspondence. It would be out of place in casual conversation between colleagues; internally, staff might simply say 確認します or 確認しておきます.
-
 確認いたします means "I will confirm" or "I will check," and it functions as a professional promise to take action. In Japanese hospitality, making this declaration to a guest carries a strong implicit obligation to follow through and report back — it is not merely an acknowledgment, but a commitment. This phrase is one of the most frequently used expressions in hotel telephone scripts and in-person service, and mastering its nuances is essential for staff at all levels.
 
 On a practical level, 確認いたします is used whenever a staff member needs to verify availability, check a reservation, confirm a request, or consult with a colleague before giving an answer. It should always be followed either by an update within an appropriate time or by a return to the guest with the confirmed information. Leaving a guest waiting without any follow-up after saying 確認いたします is one of the most serious lapses in Japanese service etiquette.

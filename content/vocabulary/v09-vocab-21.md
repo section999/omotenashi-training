@@ -4,9 +4,6 @@ section: 21
 title: 無料キャンセル (muryou kyanseru)
 ---
 
-**Pronunciation:** mu-**ryoo** **kyan**-se-ru
-**Register:** Neutral — 無料キャンセル is a standard term used in reservation policies, online booking platforms, plan descriptions, and spoken guest communication. It requires no register adjustment but should always be accompanied by specific condition details in formal guest-facing contexts. Staff often pair it with a deadline date to make it operationally precise.
-
 無料キャンセル (muryou kyanseru) means "free cancellation" — the ability to cancel a reservation without incurring any charge, typically valid up to a specified number of days or hours before the arrival date. In the modern hospitality landscape, 無料キャンセル has become a major factor in guests' booking decisions, particularly for plans booked on online travel agencies (OTAs) where flexible cancellation is highlighted as a key filter. For hotel staff, the ability to clearly explain 無料キャンセル conditions — including the exact deadline — is essential for both reservation sales and complaint prevention.
 
 The operational importance of 無料キャンセル lies in precise communication of the deadline. A guest who understands that 無料キャンセルは宿泊日の7日前まで (free cancellation applies up to 7 days before the stay) can plan accordingly; a guest who is told only that "free cancellation is available" without a deadline may assume the window is unlimited, resulting in a disputed キャンセル料 charge when they cancel the day before arrival. At check-in and during booking confirmation calls, proactively repeating the 無料キャンセル deadline is a simple but effective way to prevent this class of complaint.

@@ -4,9 +4,6 @@ section: 8
 title: 配達 (haitatsu)
 ---
 
-**Pronunciation:** hai-**ta**-tsu
-**Register:** Neutral — a standard service term used comfortably in both staff communications and guest-facing explanations.
-
 配達 refers to the act of delivering goods, packages, or returned laundry to a designated location, whether that is a hotel room, a reception desk, or a home address. In Japanese hospitality, 配達 encompasses a wide range of delivery scenarios: returning pressed garments from the laundry service, bringing room service orders, delivering parcels sent by guests' families or companies, and even forwarding luggage ahead of the guest (takuhaibin forwarding). The reliability and timing of 配達 are treated with great seriousness in Japan, where punctuality is a cultural cornerstone — guests should be given accurate estimated delivery times, and any delays must be communicated promptly and apologetically.
 
 When handling 配達 in a hotel context, staff should confirm the guest's room number, preferred delivery time, and whether they should knock or leave the item outside the door. For laundry 配達, re-confirming that all items are accounted for before delivery prevents complaints. In larger hotels, a dedicated porter or bellhop team manages 配達 so that front desk staff can remain available for other guest needs.

@@ -4,9 +4,6 @@ section: 17
 title: 汚れ (yogore)
 ---
 
-**Pronunciation:** yo-**go**-re
-**Register:** Neutral — used freely by all staff levels in both internal reports and guest-facing communication. When addressing a guest directly about a stain or dirty area, 汚れ is typically embedded in a polite, action-oriented sentence that emphasizes prompt resolution rather than dwelling on the problem itself.
-
 汚れ refers to dirt, stains, grime, or any visible soiling on surfaces, fabrics, or fixtures. In Japanese hospitality culture, the presence of 汚れ in a guest room or dining area is treated as an urgent matter, because spotless cleanliness is one of the foundational expectations guests have of any hotel or ryokan. The ability to spot, name, and address 汚れ accurately and quickly is therefore a key professional skill for housekeeping and front-line service staff alike.
 
 In practical hotel operations, staff encounter 汚れ in a wide range of contexts — carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, and scuff marks on corridor walls. When a guest reports a 汚れ, the ideal response combines acknowledgment with immediate action, as expressed in the phrase 汚れをすぐに清掃いたします. In internal communication, staff may describe the type of stain (e.g., 食べ物の汚れ — food stain, 水の汚れ — water stain) to ensure the correct cleaning method is applied.

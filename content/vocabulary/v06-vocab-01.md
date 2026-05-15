@@ -4,9 +4,6 @@ section: 1
 title: 問題 (mondai)
 ---
 
-**Pronunciation:** mo-n-**da**-i
-**Register:** Formal/Neutral — used by both guests and staff in hotel, restaurant, and ryokan settings to identify an issue that requires resolution.
-
 In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a problem or issue that arises during a guest's stay. It encompasses a broad range of situations — from a malfunctioning appliance to a billing discrepancy or a miscommunication about a reservation. The word itself carries no emotional charge, which makes it useful for staff who need to acknowledge an issue calmly without amplifying the guest's frustration. In omotenashi culture, the ability to identify a 問題 swiftly and frame it professionally is considered a fundamental skill, as guests trust establishments that handle difficulties with composure and clarity.
 
 Practically speaking, 問題 is most often heard as part of conditional invitations to guests: phrases like 何かご問題がございましたら (if there is any problem at all) serve as open-ended expressions of readiness that encourage guests to speak up before a minor inconvenience becomes a serious complaint. Staff should use it proactively, not just reactively. Because the word is neutral in register, it is safe to use in both spoken and written guest communication, including informational signage and follow-up correspondence.

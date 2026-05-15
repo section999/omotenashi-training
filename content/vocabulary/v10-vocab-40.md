@@ -4,9 +4,6 @@ section: 40
 title: 確認番号 (kakunin bangou)
 ---
 
-**Pronunciation:** ka-ku-nin-**ban**-gō (かくにんばんごう)
-**Register:** Formal — used in front desk, reservation, and customer service contexts; requesting a 確認番号 is standard procedure for identifying a booking or transaction quickly and accurately.
-
 確認番号 is composed of 確認 (kakunin), meaning "confirmation" or "verification," and 番号 (bangō), meaning "number." It is a unique alphanumeric or numeric code assigned to a reservation, payment, or booking to allow staff and guests to quickly identify and verify a specific transaction. In Japanese hospitality, the 確認番号 serves as the primary reference point for resolving inquiries, making changes, or checking in — without it, staff must search by name or other details, which is slower and more prone to error. Providing and referencing a 確認番号 accurately reflects the precision and efficiency that define professional omotenashi service.
 
 In hotels and ryokan, guests are typically issued a 確認番号 (or 予約番号, reservation number) at the time of booking via email, SMS, or the booking platform. At check-in, staff should request this number to pull up the reservation instantly, rather than relying solely on the guest's name, which may be spelled differently across systems. If a guest does not have their 確認番号, staff should offer alternative lookup methods courteously, such as searching by email address, phone number, or arrival date, without making the guest feel at fault for not having the number available.

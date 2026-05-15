@@ -4,9 +4,6 @@ section: 14
 title: 割引 (waribiki)
 ---
 
-**Pronunciation:** wa-ri-**bi**-ki
-**Register:** Neutral — used freely by both staff and guests in hotels, travel agencies, and retail settings. In formal guest-facing speech, staff often embed it in polite constructions such as 〇％割引となっております, but the word itself carries no inherent formality level and is comfortable in both written correspondence and spoken interaction.
-
 割引 (waribiki) means a reduction in price, offered through mechanisms such as early-bird booking rates, seasonal promotions, loyalty programme discounts, or package deals. In Japanese hospitality, clearly communicating any applicable 割引 is considered a mark of transparent and considerate service, as guests who feel they received good value are far more likely to return. Understanding this term allows front-line staff to explain pricing structures with confidence and precision.
 
 In practice, 割引 appears in a wide range of hotel interactions: confirming a reservation rate, explaining the difference between a standard rate and a promotional rate, or breaking down a guest's invoice at checkout. The standard staff phrase is 通常〇円のところ、〇円割引で〇円でございます, which states the original price, the discount amount, and the final charge in sequence. This three-part structure eliminates ambiguity and allows the guest to feel the benefit concretely rather than just seeing a final number.

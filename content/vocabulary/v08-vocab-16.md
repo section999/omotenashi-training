@@ -4,9 +4,6 @@ section: 16
 title: 出口 (deguchi)
 ---
 
-**Pronunciation:** **de**-gu-chi
-**Register:** Neutral — used in everyday speech by both guests and staff across all hospitality settings. In formal service situations, staff typically attach polite endings (は右側にございます, etc.) rather than changing the word itself. Emergency contexts (非常口, hijouguchi) use a related but distinct term, so staff should be familiar with both.
-
 出口 (出口) literally means "exit opening" and is the standard word for any exit in a Japanese building or facility. In hospitality, communicating the location of exits is not merely a matter of convenience — it is a legal safety requirement in Japanese facilities, and guests who cannot locate exits quickly in an emergency may be at risk. Staff are trained to know all exits in their area: the main guest exit, the emergency exit (非常口), the parking exit, and the staff exit. Proactively telling guests about the nearest exit, especially in large hotels, banquet halls, or convention centers, is considered a mark of thorough professionalism.
 
 In daily hospitality use, 出口 appears in sentences like 出口は右手にございます (the exit is on your right) or ご利用後は出口にてスタッフがご案内いたします (a staff member will guide you to the exit after your visit). Restaurant staff use it to guide departing guests toward the correct door, particularly when there are multiple exits in a large dining room. In emergency situations, staff must be able to pair 出口 with directional language and calm, clear delivery to guide guests safely without causing panic.

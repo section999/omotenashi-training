@@ -4,9 +4,6 @@ section: 4
 title: 電話番号 (denwa bangou)
 ---
 
-**Pronunciation:** **den**-wa **ban**-gō
-**Register:** Neutral — used universally across all contexts; when asking a guest for their number, the phrase is elevated with polite grammar rather than changes to the word itself.
-
 電話番号 is the specific numeric sequence used to reach a person, room, department, or external party by telephone. In Japanese hospitality, 電話番号 appears constantly — in reservation confirmations, check-in forms, guest registration cards, and whenever staff need to record contact information for a follow-up call. Accuracy is paramount, as a single incorrect digit means the communication chain is broken entirely. The cultural expectation in Japan is that staff will always repeat a 電話番号 back to the person who provided it to confirm its accuracy before ending the call or interaction.
 
 Staff should be familiar with the standard protocol for collecting and confirming 電話番号: first ask politely (お電話番号をお伺いできますか), listen carefully while writing, then read the number back group by group (〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか). In Japan, phone numbers are typically grouped in three segments separated by hyphens, and reading them in this grouped format is more natural and easier for the listener to verify. When dealing with international guests, staff should also be prepared for country codes and the varying formats of international numbers.

@@ -4,9 +4,6 @@ section: 1
 title: 外国人 (gaikokujin)
 ---
 
-**Pronunciation:** gai-**ko**-ku-jin
-**Register:** Neutral — the standard, respectful term used in both official and everyday contexts.
-
 外国人 literally means "person from outside the country" and is the standard Japanese term for a foreigner or international visitor. In the hotel, ryokan, and tourism industry, this word appears frequently in training materials, internal memos, and guest communication policies. Staff are expected to approach 外国人 guests with heightened attentiveness to cultural differences, language barriers, and unfamiliar customs. Treating every 外国人 as an individual — rather than as a uniform category — reflects the spirit of genuine omotenashi.
 
 When working at a reception desk or in a concierge role, anticipating the needs of 外国人 guests is essential. This includes preparing multilingual menus, ensuring signage is bilingual, and briefing staff on common greetings in English or other languages. Hospitality professionals should avoid making assumptions about a guest's nationality based on appearance alone, as 外国人 encompasses visitors from every country in the world.

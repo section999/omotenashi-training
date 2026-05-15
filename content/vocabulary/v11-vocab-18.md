@@ -4,9 +4,6 @@ section: 18
 title: 接続不良 (setsuzoku furyou)
 ---
 
-**Pronunciation:** **se**-tsu-zo-ku **fu**-ryou
-**Register:** Neutral to Formal — used internally when reporting technical issues to maintenance or IT, and in guest-facing communication when explaining a call quality problem. More precise than saying 電話が悪い and conveys that the issue is a technical one, not a user error.
-
 接続不良 describes a weak, unstable, or degraded connection — one where the call does not drop completely but the audio is interrupted, choppy, or delayed. In hotels, this can be caused by congested lines, poor signal in certain rooms, or infrastructure issues. Because guests often make important calls (business calls, international calls, emergency calls) from their rooms or the lobby, 接続不良 can significantly affect their experience and must be addressed swiftly and professionally.
 
 When a guest reports 接続不良, staff should acknowledge the issue, offer an alternative line or location, and escalate to maintenance if needed. Typical responses include 接続不良でご不便をおかけしております (I apologize for the inconvenience caused by the poor connection) and 別の回線をご用意いたします (we will prepare a different line). Reporting to maintenance should specify 接続不良 rather than 切断, since the two require different diagnostic approaches.

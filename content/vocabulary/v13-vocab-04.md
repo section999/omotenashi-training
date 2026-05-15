@@ -4,9 +4,6 @@ section: 4
 title: 同僚 (douryou)
 ---
 
-**Pronunciation:** **dou**-ryou
-**Register:** Neutral — used comfortably by staff at all levels when referring to coworkers of equal or similar standing in the workplace.
-
 同僚 refers to colleagues — people who work alongside you in the same organisation or department at a comparable level. In the hospitality industry, positive relationships among 同僚 are essential to delivering seamless guest experiences. When a front-desk colleague covers your duties during a break, or when kitchen staff coordinate timing with the dining room team, that cooperation is the daily expression of 同僚 spirit. Japanese hospitality culture places high value on team harmony (和, wa), and 同僚 relationships are the foundation of that harmony.
 
 Because much of hospitality work is shift-based and fast-paced, trust among 同僚 is critical. Staff rely on one another for accurate handovers, shared knowledge of guest preferences, and mutual support during busy periods. Socialising with 同僚 outside of work — through team meals or post-shift gatherings — is also part of Japanese workplace culture and helps strengthen bonds that translate into better in-service coordination.

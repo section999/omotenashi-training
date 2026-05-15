@@ -4,9 +4,6 @@ section: 9
 title: 水 (mizu)
 ---
 
-**Pronunciation:** **mi**-zu
-**Register:** Neutral — the word 水 itself is plain, but in hospitality contexts it is always elevated with the honorific prefix お (お水), which is the expected form in all guest-facing speech.
-
 お水 (water) holds a special place in Japanese restaurant culture because, unlike many Western countries where water must be requested, complimentary cold water is served automatically and refilled proactively in most Japanese dining establishments. This practice is part of the broader service philosophy of 気配り (kikubari) — the art of anticipating needs before they are voiced. Allowing a guest's water glass to run empty without offering a refill is considered a service lapse, and attentive servers make water replenishment a constant, unobtrusive priority throughout the meal. In fine dining and ryokan contexts, the quality of water served — sometimes spring water or lightly mineral water — is itself communicated to guests as part of the dining experience.
 
 Beyond refilling, staff should be aware of temperature preferences: some guests, particularly elderly Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect cold water with ice. Asking about temperature preference without being asked demonstrates the anticipatory awareness central to omotenashi. When bringing water, approach quietly and refill without interrupting the guest's conversation.

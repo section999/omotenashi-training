@@ -4,9 +4,6 @@ section: 3
 title: 乾燥 (kansou)
 ---
 
-**Pronunciation:** **kan**-sou
-**Register:** Neutral — a technical yet everyday term used naturally by both staff and guests.
-
 乾燥 refers to the process of removing moisture from washed items, either through a mechanical dryer or by air drying on a rack or line. In Japanese hospitality, 乾燥 is an integral part of laundry service, and guests often ask about dryer availability or drying time before placing a laundry order. The word can also describe environmental dryness — for example, dry indoor air in winter — so context usually clarifies the meaning. A thorough 乾燥 step is essential because improperly dried clothing can develop mildew odors, which would be an unacceptable experience for hotel guests.
 
 In coin-operated laundry rooms within hotels or guesthouses, 乾燥 machines are typically separate from washing machines and charge by the minute or cycle. Staff should be able to advise guests on appropriate drying settings for different fabric types to prevent shrinkage or damage. For valet laundry service, it is standard practice to confirm with guests whether they prefer machine drying or air drying for delicate items.

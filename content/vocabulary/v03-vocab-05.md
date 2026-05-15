@@ -4,9 +4,6 @@ section: 5
 title: ツインルーム (twin room)
 ---
 
-**Pronunciation:** **tsuin**-**ruu**-mu
-**Register:** Neutral — standard room type terminology used in all reservation and check-in contexts by both staff and guests.
-
 ツインルーム refers to a guest room containing two separate single or semi-double beds, making it the standard choice for pairs of business travellers, friends, or family members who prefer individual sleeping spaces. In Japan, the ツインルーム is one of the most commonly booked room configurations in business hotels and is also prevalent in resort and resort-adjacent ryokan-style properties that have incorporated Western-style bedding. Correctly identifying and confirming the ツインルーム type is essential because guests who expect separate beds and receive a ダブルルーム (one shared bed) may experience significant discomfort or embarrassment.
 
 During check-in, staff should confirm the ツインルーム type clearly and describe the bed arrangement if there is any possibility of confusion. Phrases like ベッドが二つのお部屋でございます ("it is a room with two beds") provide helpful supplementary clarification. When only one bed type is available due to occupancy, staff must communicate any changes with an apology and a clear explanation before leading the guest to the room.

@@ -4,9 +4,6 @@ section: 21
 title: 作業 (sagyou)
 ---
 
-**Pronunciation:** sa-**gyou**
-**Register:** Neutral — used across all hospitality departments to refer to specific, discrete tasks, especially those that are procedural or hands-on in nature.
-
 作業 refers to a specific task, piece of work, or operation — a defined activity with a clear start and end point. While 業務 describes the full scope of a staff member's official duties, 作業 zooms in on individual actions within that scope. In a hotel setting, 作業 might refer to arranging amenities in a guest room, restocking a minibar, cleaning a banquet hall after an event, or setting up audiovisual equipment for a conference. The word conveys practicality and precision — 作業 is something that can be planned, assigned, tracked, and completed. Using checklists to manage 作業 is common in housekeeping and engineering departments.
 
 In Japanese hospitality, even routine 作業 are performed with attention to detail and care, reflecting omotenashi values. A room attendant turning down a bed or placing a towel in an origami fold is performing 作業, but the spirit behind it is guest care. Supervisors often use 作業確認 (sagyou kakunin — task verification) to ensure that all assigned 作業 have been completed to standard before a guest arrives or an event begins. The concept of 作業手順 (sagyou tejun — task procedure) ensures that each 作業 is carried out consistently across all staff.

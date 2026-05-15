@@ -4,9 +4,6 @@ section: 24
 title: レイトチェックアウト (late check-out)
 ---
 
-**Pronunciation:** **rē**-to-chek-ku-**a**-u-to
-**Register:** Formal / Neutral — used by both staff and guests in hotel contexts. Like 早朝チェックイン, this loanword compound is embedded in polite grammatical structures during guest interactions. Staff must be prepared to explain availability, conditions, and potential fees clearly and warmly, as this is one of the most commonly requested special services.
-
 レイトチェックアウト refers to the option of departing from one's hotel room later than the standard check-out time, which in most Japanese hotels is 11:00 AM or 12:00 PM. It is a highly popular request, particularly among guests who have late afternoon flights, business meetings running into the day, or simply wish to enjoy a more leisurely departure. When granted, it allows the guest to use the room — including shower, rest, and storage of belongings — beyond the normal deadline. Hotels typically offer this subject to availability, and it may be complimentary for members or chargeable depending on policy.
 
 Staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.

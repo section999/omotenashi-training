@@ -4,9 +4,6 @@ section: 1
 title: 掃除 (souji)
 ---
 
-**Pronunciation:** **sou**-ji
-**Register:** Neutral — used by housekeeping staff, supervisors, and front desk personnel across all hotel departments when referring to general cleaning tasks.
-
 掃除 is the everyday Japanese word for cleaning and encompasses all activities carried out to maintain hygiene and order in a hotel or ryokan. In the hospitality context, it covers a wide range of tasks including dusting furniture, vacuuming carpets, wiping surfaces, sanitizing bathroom fixtures, and refreshing the overall presentation of a guest room. The word carries a strong professional connotation in hotel settings, where cleaning is understood not merely as a physical task but as an expression of care and respect toward the guest. High standards of 掃除 are central to the philosophy of omotenashi, as a spotless environment signals that every detail of the guest's comfort has been considered.
 
 In daily hotel operations, 掃除 is performed on a scheduled basis — typically each morning after check-out or during a guest's absence — and may also be requested on demand. Staff should be prepared to discuss the scope and timing of 掃除 with guests clearly and politely, especially when a guest asks whether their room has been serviced or wishes to arrange a specific cleaning time. When combined with verbs such as 行う (to carry out) or いたす (humble form), the term fits naturally into formal guest-facing speech.

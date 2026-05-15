@@ -4,9 +4,6 @@ section: 26
 title: 道案内 (michi annai)
 ---
 
-**Pronunciation:** mi-chi-**an**-nai
-**Register:** Polite to Neutral — used by hotel concierge, front desk staff, and tourism workers when assisting guests with navigation and wayfinding.
-
 道案内 combines 道 (michi, road/path) and 案内 (annai, guidance), literally meaning "road guidance" or directions. In the hospitality context, providing accurate and friendly 道案内 is one of the most frequent and valued services that hotel staff and tourism workers offer to guests, particularly international visitors unfamiliar with Japan's address system and train network. Japan's cities can be difficult to navigate because street names are rare and addresses are organised by block rather than by street, making verbal or written guidance especially important. A staff member skilled at 道案内 is genuinely valuable and reflects well on the establishment.
 
 When providing 道案内, hospitality professionals typically offer multiple reference points — landmarks, station exits, convenience stores — rather than relying solely on distance or compass directions, which many guests find abstract. It is considered excellent service to draw a simple map or write down key station names in both Japanese and romaji for foreign guests. The phrase 「ご案内いたします」 (go-annai itashimasu — I will guide you) can signal that a staff member is willing to escort a guest in person to a destination, which represents the highest level of 道案内 service. Digital tools such as Google Maps are often shared with guests on the hotel's tablet or printed as supplementary material.

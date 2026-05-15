@@ -4,9 +4,6 @@ section: 1
 title: 電話 (denwa)
 ---
 
-**Pronunciation:** **den**-wa
-**Register:** Neutral — used by all staff and guests alike; in formal guest-facing speech, the honorific prefix お is added to form お電話, which is the expected standard.
-
 電話 is the foundational word for telephone communication in any Japanese hospitality setting, covering everything from the guest-room handset to the front desk switchboard. In Japanese hotels and ryokan, the telephone is not merely a communication tool but an extension of the property's service promise — guests expect calls to be answered promptly, courteously, and with the hotel name clearly stated. Mastering telephone vocabulary begins here, because nearly every related term (内線, 外線, 転送, 保留) builds directly on this word. Understanding 電話 in a hospitality context means understanding the entire telephone culture of omotenashi service.
 
 In practice, staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank you for calling), which is the standard opening greeting when answering. Failing to use the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. Staff should also be aware that 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける — to make a call; 電話を受ける — to receive a call).

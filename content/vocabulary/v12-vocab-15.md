@@ -4,9 +4,6 @@ section: 15
 title: 応急処置 (oukyuu shochi)
 ---
 
-**Pronunciation:** ou-**kyuu** sho-**chi**
-**Register:** Formal — used in professional and emergency contexts within hotels; staff training and safety manuals regularly employ this term.
-
 応急処置 (oukyuu shochi) refers to the immediate, temporary care provided to an injured or suddenly ill person before professional medical assistance arrives. The term literally combines 応急 (emergency / makeshift response) and 処置 (treatment / measures), conveying the idea of a rapid practical intervention. In the hotel industry, the ability to perform 応急処置 is a core safety competency — staff may encounter situations involving cuts, burns, choking, cardiac arrest, or allergic reactions, and a prompt, correct response can be the difference between a minor incident and a life-threatening emergency. Japanese hotel chains frequently require front-line staff to hold basic first aid certification, and refresher drills are conducted regularly.
 
 The scope of 応急処置 in a hotel setting typically includes wound cleaning and bandaging, the application of ice packs for sprains or minor swelling, assisting a choking guest with the Heimlich manoeuvre, and performing CPR (心肺蘇生, shinpai sosei) until paramedics arrive. Every floor of a Japanese hotel is generally required to have a first aid kit (救急箱, kyuukyuubako) in an accessible location, and staff must know exactly where it is stored. When communicating with guests during 応急処置, staff should use calm, reassuring language to prevent panic while managing the situation efficiently. After the immediate crisis is resolved, a written incident report must be completed and submitted to management.

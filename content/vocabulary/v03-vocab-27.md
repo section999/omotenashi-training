@@ -4,9 +4,6 @@ section: 27
 title: 清掃係 (seisou kakari)
 ---
 
-**Pronunciation:** sei-sou-**ka**-ka-ri
-**Register:** Formal — 清掃係 is the professional designation for housekeeping staff used in hotel and ryokan settings. It is more formal than saying スタッフ (staff) generically and conveys specificity and respect toward the role. When speaking about 清掃係 in front of guests, staff should use humble forms (参ります instead of 来ます) to reflect the hotel's collective deference to the guest.
-
 清掃係 (清掃 = cleaning, 係 = person in charge) refers to the dedicated housekeeping staff responsible for maintaining the cleanliness and order of guest rooms and common areas. In Japanese hospitality, 清掃係 are not considered background service workers — they are integral members of the guest experience team, and their meticulous work is what upholds the high cleanliness standards that define Japanese accommodation. In ryokan especially, 清掃係 may also be the same person who sets up the futon bedding before dinner, creating a direct and personal link between the cleaning role and the guest experience. Front-desk staff who introduce or coordinate with the 清掃係 must do so with appropriate language that reflects respect for both the guest and the colleague.
 
 In guest-facing communication, staff might say: 「清掃係がまいります」 (the cleaning staff will come) when informing a guest that housekeeping will visit. When a guest requests additional items or service, the response 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) is professional and complete. In contexts where the guest must be present, staff should confirm: 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for you?).

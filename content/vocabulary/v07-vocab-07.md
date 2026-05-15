@@ -4,9 +4,6 @@ section: 7
 title: 遠い (tooi)
 ---
 
-**Pronunciation:** to-**o**-i
-**Register:** Formal/Neutral — the adjective itself is neutral; in hospitality speech it must be embedded in formal, solution-oriented sentences rather than delivered as a blunt standalone statement.
-
 遠い means "far" or "distant" and represents one of the more delicate pieces of vocabulary in the hospitality communicator's toolkit. In omotenashi culture, the goal is never simply to relay information but to serve the guest's overall wellbeing — and telling someone their intended destination is far, without offering a practical alternative, falls short of that standard. The word 遠い must therefore almost always appear within a sentence that acknowledges the situation and immediately pivots to a helpful recommendation: a taxi, a bus route, a hotel car service, or a reassuring time estimate. This solution-first framing transforms a potentially disappointing answer into a demonstration of care.
 
 In practical terms, staff should also moderate how definitively they use 遠い. Softening with 少し (a little) or やや (somewhat) before 遠い signals honesty without alarm, making the guest feel informed rather than dismissed. Knowing typical travel times from the hotel to major nearby destinations by foot, taxi, and public transport allows staff to replace vague uses of 遠い with specific, actionable alternatives. At ryokan in rural areas where distances are especially relevant, this knowledge is particularly important for guest planning and satisfaction.

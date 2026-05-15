@@ -4,9 +4,6 @@ section: 35
 title: エスカレーター (esukareetaa)
 ---
 
-**Pronunciation:** e-su-ka-**ree**-taa
-**Register:** Neutral — used in hotel and commercial facility contexts when directing guests to a moving staircase, with care taken to recommend the appropriate vertical transport option based on the guest's needs.
-
 エスカレーター is the Japanese rendering of the English word "escalator," referring to the motorized moving staircase found in hotels, department stores, stations, and shopping centers. In hotel navigation, エスカレーター is typically one of three vertical transport options alongside エレベーター (elevator) and 階段 (stairs), and staff are trained to recommend the most appropriate one based on a guest's situation. For most mobile guests moving between adjacent floors, the エスカレーター is a natural recommendation. However, attentive staff will observe whether a guest is carrying heavy luggage, pushing a stroller, or has mobility challenges, and in those cases proactively suggest the エレベーター instead — an act of thoughtful service that goes beyond a simple directional response.
 
 エスカレーター directions typically include both location and direction of travel. In a multi-floor hotel or shopping mall, staff may say 上りのエスカレーターはこちらでございます (the up escalator is this way) or 下りのエスカレーターはあちらにございます (the down escalator is over there), as escalators are usually separated by direction. Safety language is also part of エスカレーター guidance: staff remind guests to 足元にお気をつけください (please watch your step) and to 手すりにお掴まりください (please hold the handrail), especially for elderly guests or those with children. These small verbal additions demonstrate genuine care for guest safety.

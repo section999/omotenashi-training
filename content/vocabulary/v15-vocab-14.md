@@ -4,9 +4,6 @@ section: 14
 title: 保管 (hokan)
 ---
 
-**Pronunciation:** **ho**-kan
-**Register:** Formal — standard terminology in hotel operations, used when discussing the safe-keeping of guest luggage, valuables, or delivered packages.
-
 保管 (hokan) means the careful, responsible storage of items for a defined period. The word is built from 保 (ho, meaning to protect or maintain) and 管 (kan, meaning to oversee or administer), together conveying not just the physical act of storing but the ongoing duty of stewardship over someone else's possessions. In Japanese hospitality culture, 保管 is taken seriously: a hotel that accepts an item for storage implicitly promises to return it in exactly the condition it was received. This reflects the broader omotenashi value of treating a guest's belongings as if they were one's own.
 
 Hotels offer 保管 services in several common scenarios: early-arriving guests who check in before their room is ready may leave their luggage for 保管 at the front desk; guests who have checked out but wish to continue sightseeing may request 保管 until their departure; and valuable or fragile items such as musical instruments, art, or medical equipment may require special 保管 arrangements. Staff should always issue a receipt or claim ticket (引換券) when accepting items for 保管, and should record the storage start time and the guest's contact details. When returning stored items, a brief inspection in front of the guest confirms that nothing was damaged during storage — a small but meaningful gesture of transparency.

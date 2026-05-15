@@ -4,9 +4,6 @@ section: 8
 title: 騒音 (souon)
 ---
 
-**Pronunciation:** so-u-**on**
-**Register:** Formal — the preferred professional term for noise disturbances in hospitality; more appropriate in guest-facing and management communication than informal alternatives.
-
 騒音 (souon) refers to noise that causes discomfort or disruption, and is the formal term staff should use when acknowledging or investigating sound-related complaints. Sources of 騒音 in a hotel or ryokan can include other guests, street traffic, kitchen ventilation, construction work, or malfunctioning equipment. In Japanese hospitality, noise management is taken seriously because the atmosphere of tranquility — particularly in ryokan and traditional inns — is central to the guest experience. A calm, quiet environment is not just a comfort preference but an expected component of the service promise.
 
 When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. The professional approach is to acknowledge the disruption, investigate the source promptly, and offer intermediate solutions — such as a room relocation or earplugs — while the investigation is underway. If the noise originates from another guest, staff must handle the situation with discretion, as directly confronting another guest on behalf of a complainant requires careful judgment and often manager involvement.

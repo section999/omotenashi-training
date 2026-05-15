@@ -4,9 +4,6 @@ section: 20
 title: キャンセル料 (kyanseru ryou)
 ---
 
-**Pronunciation:** **kyan**-se-ru ryoo
-**Register:** Neutral to Formal — キャンセル料 is a standard administrative term used across all hospitality contexts. When informing guests of cancellation charges, staff use formal polite language (キャンセル料が発生する場合がございます) to soften what can be an unwelcome message, while the term itself remains unchanged regardless of formality level. Written policies use the same word.
-
 キャンセル料 (kyanseru ryou) is the fee charged to a guest when a reservation is cancelled, typically calculated as a percentage of the total booking value and applied when the cancellation falls within a specified window before the arrival date. In Japan's hospitality industry, cancellation policies are taken seriously: properties rely on confirmed bookings to manage staffing, food procurement, and room allocation, and late cancellations cause genuine operational and financial disruption. For this reason, communicating キャンセル料 policies clearly at the time of booking is both a legal obligation and a mark of professional integrity.
 
 The practical skill for staff is not simply knowing that キャンセル料 exists, but being able to explain the specific policy attached to a given プラン — which day the charge begins, what percentage applies at each tier, and how to calculate the actual amount. A clear explanation at booking time — キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます — prevents disputes at cancellation and ensures the guest gives informed consent to the policy when confirming their reservation.

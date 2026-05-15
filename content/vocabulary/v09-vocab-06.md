@@ -4,9 +4,6 @@ section: 6
 title: 滞在 (taizai)
 ---
 
-**Pronunciation:** tai-**zai**
-**Register:** Formal — used by front desk staff, concierge teams, and management across hotels and ryokan to describe the entirety of a guest's visit, from arrival to departure.
-
 滞在 refers to the full period a guest spends at the property — it is broader than 到着日 or 出発日, capturing the complete guest experience as a continuous whole. In omotenashi philosophy, thinking in terms of 滞在 rather than isolated transactions encourages staff to consider the guest's comfort, mood, and needs across the entire visit, not just at check-in or checkout. Phrases like お滞在中はごゆっくりおくつろぎください (please relax during your stay) are standard hospitality expressions that frame the hotel as a sanctuary for the duration of the guest's time there. This holistic perspective is one of the defining qualities of Japanese hospitality.
 
 Practically, 滞在 appears in billing summaries (ご滞在中の料金), service announcements (滞在中はルームサービスをご利用いただけます), and post-stay follow-ups (ご滞在はいかがでしたでしょうか). It also crops up in conversation when staff enquire about a guest's overall comfort — choosing 滞在 over narrower terms signals that staff are attending to the whole experience, not just a specific moment. When calculating charges or planning services, 滞在 encompasses every element booked from arrival to departure.

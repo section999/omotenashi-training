@@ -4,9 +4,6 @@ section: 4
 title: 曲がる (magaru)
 ---
 
-**Pronunciation:** ma-**ga**-ru
-**Register:** Neutral — used in both casual and polite speech; in hotel contexts, always appears in its polite request form 曲がってください or 曲がっていただけますか.
-
 曲がる means "to turn" and is essential vocabulary for guiding guests through hotel corridors, streets, and building interiors. Unlike まっすぐ, which indicates continuation of a straight path, 曲がる signals a change of direction and therefore requires precise pairing with a direction word (右に曲がる、左に曲がる) and a reference point such as a corner, intersection, or landmark. In Japanese hospitality training, turn-by-turn navigation is emphasized because a guest who misses a turn wastes time and may feel embarrassed or frustrated — both outcomes that omotenashi aims to prevent.
 
 Practically, 曲がる is used constantly at the front desk when giving walking directions, in lobby guidance when escorting guests partway to their destination, and in verbal route descriptions for nearby restaurants or attractions. The pattern [landmark] + を/で + [direction] + に曲がってください is the standard construction: ロビーを出て右に曲がってください, 次の角を左に曲がってください. When there are multiple turns, staff should number them clearly (最初の角を右に、次に左に) to prevent confusion.

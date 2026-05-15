@@ -4,9 +4,6 @@ section: 12
 title: 請求書 (seikyuusho)
 ---
 
-**Pronunciation:** **sei**-kyuu-sho
-**Register:** Formal — used by front desk, billing departments, and event coordinators when issuing formal payment requests to corporate clients, travel agencies, or organizations following a service.
-
 請求書 is a formal invoice issued to request payment from a client or organization. It is the document that precedes payment, stating what is owed, by when, and to whom payment should be made. In Japanese hospitality, 請求書 are most commonly used in corporate billing scenarios — when a company books rooms or conference facilities for employees or events, payment is not collected at checkout but rather through a post-stay invoicing process. The 請求書 must include the recipient's name and address, the payment due date, an itemized list of services, the total amount, bank transfer details, and the issuing hotel's information.
 
 Unlike the 領収書 (receipt), which is issued after payment, the 請求書 is issued before payment is received. This distinction is important both procedurally and legally. Staff responsible for billing must ensure the 請求書 is accurate and dispatched promptly after the service is completed, as delayed invoicing can hold up a client's accounts payable process. Following up politely on unpaid 請求書 within the agreed timeframe is also part of professional billing management in hospitality.

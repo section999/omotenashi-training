@@ -4,10 +4,6 @@ section: 14
 title: 恐れ入ります (osore irimasu)
 ---
 
-**Pronunciation:** o-so-re-i-ri-ma-su — *osore* is three syllables; the *i* in *irimasu* connects to the *e* ending of *osore* smoothly
-
-**Register:** Highly formal — one of the most refined expressions in professional Japanese. Used to soften requests, express deep appreciation, or acknowledge an imposition with genuine humility.
-
 **恐れ入ります** is difficult to translate directly because it functions differently depending on context. Its literal meaning is "I enter into awe/fear" — *osore* (畏れ / 恐れ) meaning awe, reverence, or humility, and *irimasu* meaning "to enter." The phrase expresses a kind of humble embarrassment at the trouble one is causing or receiving. In English, the closest equivalents are "I am terribly sorry to trouble you" or "I am most grateful" — depending on whether it prefaces a request or a thanks.
 
 The key to understanding *osore irimasu* is that it is always about the self being small relative to the other. When you use it before making a request of a guest ("Excuse me, may I ask your name?"), you are acknowledging that asking anything of the guest is itself a small imposition — and you are lowering yourself before you do so. When you use it to receive gratitude from a guest, you are deflecting the praise with humility rather than accepting it directly.

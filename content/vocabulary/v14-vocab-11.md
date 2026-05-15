@@ -4,9 +4,6 @@ section: 11
 title: 名所 (meisho)
 ---
 
-**Pronunciation:** **mei**-sho
-**Register:** Neutral — used in both everyday conversation and formal tourism or cultural contexts.
-
 名所 refers to a place of renown — a famous spot that is well-known for its historical, cultural, scenic, or architectural significance. Unlike the broader term 観光地 (tourist spot), 名所 carries an implication of established prestige; it is a place that people have recognised and celebrated for generations. Classic examples of 名所 in Japan include Kinkaku-ji in Kyoto, Fushimi Inari Shrine, Matsumoto Castle, and Mount Fuji. In a hospitality setting, being able to speak knowledgeably about local 名所 — their history, the best time to visit, and how to get there — is a core competency for concierge staff and front desk teams alike.
 
 When recommending 名所 to guests, hospitality professionals should consider the guest's interests and abilities. A guest with limited mobility may need information about accessible routes; a guest with only one day to spend may need to prioritise the single most iconic 名所 nearby. Providing context — why a particular site is famous, what makes it unique — elevates a simple recommendation into a memorable cultural exchange that embodies the spirit of omotenashi.

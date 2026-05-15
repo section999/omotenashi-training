@@ -4,9 +4,6 @@ section: 22
 title: 時刻表 (jikokuhyou)
 ---
 
-**Pronunciation:** ji-ko-ku-**hyou**
-**Register:** Neutral/Formal — used in both everyday guest conversation and formal printed materials; indispensable vocabulary for any hospitality staff member assisting with transport planning.
-
 時刻表 (jikokuhyou) is formed from 時刻 (jikoku, time/hour) and 表 (hyou, table/chart), meaning "timetable" or "schedule." It refers to any official listing of departure and arrival times for trains, buses, ferries, or other scheduled transport. In Japan, the 時刻表 is treated with great seriousness — the iconic 時刻表 publication (a thick monthly booklet listing every train in Japan) is a cultural institution, and the precision of Japanese transit schedules means that the 時刻表 is genuinely reliable down to the minute. For tourists, checking the 時刻表 before travel is standard practice and is often the difference between catching and missing a connection.
 
 Hotel concierge staff who can read and interpret the 時刻表 — or who can quickly look one up using apps like Navitime or the JR East website — are exceptionally valuable. Guests with day trips planned around specific temple opening hours, seasonal illuminations, or restaurant reservations often need accurate 時刻表 information to time their departures from the hotel. A helpful service response is 「時刻表を調べてみますので、少々お待ちくださいませ」("Allow me to check the timetable for you"). Knowing which platform and car number to use for reserved shinkansen seats extends this service further.

@@ -4,9 +4,6 @@ section: 6
 title: 出国 (shukkoku)
 ---
 
-**Pronunciation:** **shuk**-ko-ku
-**Register:** Formal — used in official travel, immigration, and airline service contexts.
-
 出国 refers to the formal process of leaving Japan through an official port of exit, such as an international airport or seaport. Just as 入国 marks the beginning of a visit, 出国 marks its conclusion, and the procedures involved — passport presentation, security screening, and departure gate clearance — mirror those of entry in reverse. For hospitality workers, being aware of 出国 procedures helps them provide better service to departing guests, particularly regarding airport transfer times, baggage allowances, and duty-free shopping opportunities. Guests often ask front desk staff how early they should depart for the airport and whether there is time for a final sightseeing stop before their 出国.
 
 Ryokans and hotels can add significant value by offering a smooth farewell experience tied to a guest's 出国 schedule. This might include arranging early luggage storage after check-out, providing a printed airport access guide, or confirming shuttle bus timings. Staff who know the 出国 process well can also alert guests to common delays, such as long queues at security during peak seasons, so guests can plan their departure with confidence and without unnecessary stress.

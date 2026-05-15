@@ -4,9 +4,6 @@ section: 32
 title: 直前予約 (chokuzen yoyaku)
 ---
 
-**Pronunciation:** choku-**zen** yo-**ya**-ku
-**Register:** Formal/Neutral — used at the front desk and operations desk to describe bookings received within a very short window before the guest's expected arrival.
-
 直前予約 (chokuzen yoyaku) combines 直前 (chokuzen, "immediately before" or "just prior") with 予約 (yoyaku, reservation), referring to a last-minute booking made only a short time — typically a few hours — before the guest's intended check-in. While 当日予約 encompasses any same-day booking, 直前予約 carries the additional implication of extreme urgency, often meaning the guest will arrive within one to two hours of booking. In the context of Japanese hospitality operations, a 直前予約 triggers an immediate cascade of tasks: the front desk must alert housekeeping for priority room preparation, confirm the available room category, and have a rate ready to quote, all while maintaining the calm, welcoming demeanor that guests expect.
 
 Hotels often have different policies for 直前予約 compared to advance bookings. Special rates, promotional packages, or room upgrade options may not be available for 直前予約, and some properties set a cutoff time (例: 当日午後5時まで受付) after which online 直前予約 are no longer possible and only phone reservations are handled. Staff must be familiar with these cutoffs so they can accurately advise callers. When accepting a 直前予約, the key phrase is ただいまご準備いたしますので、ご到着をお待ちしております (we are preparing your room right now and look forward to your arrival). This phrase conveys both urgency of action and warmth of welcome simultaneously.

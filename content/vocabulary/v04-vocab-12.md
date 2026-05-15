@@ -4,9 +4,6 @@ section: 12
 title: 歯ブラシ (haburashi)
 ---
 
-**Pronunciation:** ha-bu-**ra**-shi
-**Register:** Neutral — used in housekeeping inventory and amenity checklists, and in polite guest-facing service when providing or explaining toothbrush availability.
-
 歯ブラシ means toothbrush and is a key component of the amenity set provided in Japanese hotel and ryokan rooms. Japan has a strong cultural emphasis on dental hygiene, and it is considered standard hospitality practice to provide each guest with an individually wrapped, disposable 歯ブラシ along with toothpaste (歯磨き粉). In ryokan, the 歯ブラシ is often part of an elegantly arranged amenity kit set on the bathroom counter, alongside yukata accessories and other care items. Housekeeping staff must ensure that a fresh, sealed 歯ブラシ is provided for every new guest and that used ones are discarded without exception during room turnover.
 
 When a guest requests a 歯ブラシ — whether because they forgot to pack one or because they need a replacement — staff should bring it to the room promptly and politely, treating the request as completely routine. In some hotels, 歯ブラシ kits are stored at the front desk for easy access, while in others they are kept in the housekeeping supply closet on each floor. Knowing how to locate and deliver a 歯ブラシ efficiently, and how to communicate this service in polite Japanese, is an essential practical skill for all hotel staff.

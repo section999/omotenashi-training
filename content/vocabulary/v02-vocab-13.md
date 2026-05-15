@@ -4,9 +4,6 @@ section: 13
 title: 料金 (ryokin)
 ---
 
-**Pronunciation:** **ryō**-kin
-**Register:** Formal — used by front desk and restaurant staff when presenting or explaining charges; always presented with the demonstrative こちら and the polite copula ございます.
-
 料金 means charge, fee, or rate, and is the standard professional term for the cost associated with a hotel stay, room service, facility use, or any other paid service. It is a precise word that carries appropriate formality for written and verbal communication in a hospitality context. While 値段 (nedan) or お金 (okane) are used in everyday speech to discuss prices, 料金 is the word guests and staff use in hotels, restaurants, spas, and similar settings where a clear, professional presentation of costs is expected. Transparency in 料金 communication is essential to building guest trust and avoiding disputes at check-out.
 
 When presenting the total charge, staff use こちらが料金でございます to indicate the bill, pointing to or presenting the itemised statement. If additional charges are involved — such as room service, minibar consumption, or early check-in fees — these should be explained individually before being combined into the final 料金. Many guests, particularly business travellers, will request a breakdown, so staff must be prepared to itemise and explain each component of the total.

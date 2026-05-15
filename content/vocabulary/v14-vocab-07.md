@@ -4,9 +4,6 @@ section: 7
 title: 通貨 (tsuuka)
 ---
 
-**Pronunciation:** **tsuu**-ka
-**Register:** Neutral — a standard term used in finance, travel, and everyday hospitality contexts.
-
 通貨 refers to the official monetary system or currency of a country — in Japan's case, the 円 (en, yen). Understanding 通貨 is fundamental for hospitality professionals who handle payments, assist guests with money exchange, or answer questions about pricing. International guests arriving in Japan may be unfamiliar with the value of the yen and may ask front desk staff to help them understand costs in their home currency. A basic awareness of current exchange rates, while not a requirement for every staff member, allows for more helpful and reassuring responses.
 
 In practical terms, hospitality staff should be ready to explain whether a property accepts foreign 通貨 directly (most do not), which credit cards are accepted, and where the nearest ATM or 両替所 (exchange office) is located. Some ryokans and traditional establishments remain cash-only, making it especially important to inform guests in advance so they can prepare the appropriate 通貨. A proactive reminder at check-in about nearby ATMs that accept international cards goes a long way toward preventing guest inconvenience.

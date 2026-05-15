@@ -4,9 +4,6 @@ section: 10
 title: コーヒー (koohii)
 ---
 
-**Pronunciation:** **koo**-hii
-**Register:** Neutral — widely used across all hospitality settings; offering コーヒー after a meal is a standard and expected part of the dining service flow in hotel restaurants.
-
 コーヒー is one of the most frequently requested beverages in hotel dining, served at breakfast buffets, after meals, during afternoon tea service, and in hotel lounges. In Japan, coffee culture is highly developed, and guests — particularly business travelers and coffee enthusiasts — may have specific preferences regarding brewing method (pour-over, espresso, drip), strength, temperature (hot or iced), and accompaniments (milk, cream, sugar). Hotel staff who can speak knowledgeably about the coffee offered — its origin, roast level, or brewing style — elevate a routine beverage offer into a moment of genuine hospitality. The post-meal coffee service is also a natural upselling opportunity when handled gracefully.
 
 The phrase 食後にコーヒーはいかがでしょうか (how about coffee after your meal?) is a textbook example of the soft, non-pressuring offer style prized in Japanese service culture. Unlike a direct recommendation, this phrasing invites the guest to decide without obligation. Staff should always follow up by asking whether the guest prefers hot or iced, and whether they take milk or sugar, rather than making assumptions.

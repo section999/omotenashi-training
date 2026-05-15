@@ -4,9 +4,6 @@ section: 5
 title: 入国 (nyuukoku)
 ---
 
-**Pronunciation:** **nyuu**-ko-ku
-**Register:** Formal — used in official immigration, travel, and hospitality documentation contexts.
-
 入国 literally means "entering a country" and refers to the formal process by which a traveller is admitted into Japan through an immigration checkpoint. The procedure involves presenting a valid passport, completing an arrival card (now largely digitised), passing through biometric screening at major airports, and receiving an entry stamp or status confirmation. For hospitality workers, understanding the concept of 入国 is important because it directly affects when a guest can legally begin their stay — a guest cannot check into a hotel before completing 入国 procedures at the port of entry. Issues arising from denied or delayed 入国 can occasionally affect reservations, and knowing how to handle such situations calmly and helpfully reflects professionalism.
 
 Staff at airport hotels and transit accommodations, in particular, should be familiar with 入国 procedures since guests in these locations are often mid-journey and may have complex travel itineraries. Being able to explain where the immigration counters are, how long the process typically takes, and what documents are needed can be invaluable assistance. After a long international flight, a guest who receives warm, clear guidance on 入国 formalities will carry that positive first impression through their entire stay.

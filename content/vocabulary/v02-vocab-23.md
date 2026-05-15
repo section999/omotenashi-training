@@ -4,9 +4,6 @@ section: 23
 title: 早朝チェックイン (early check-in)
 ---
 
-**Pronunciation:** sō-**chō**-chek-ku-**in**
-**Register:** Formal / Neutral — this compound term is used primarily by hotel staff and experienced travelers. In operational contexts, it may appear as an official service option (早朝チェックインプラン), and front desk staff use it when explaining check-in timing flexibility. It is always discussed in formal speech during guest interactions.
-
 早朝チェックイン (sōchō chekku-in) refers to the option of checking into a hotel room earlier than the standard check-in time, which in most Japanese hotels is between 3:00 PM and 4:00 PM. Guests who arrive on early morning flights or overnight trains frequently request this service. The possibility depends on whether a room has been cleaned and vacated from the previous guest's stay. When available, the hotel may offer 早朝チェックイン as a complimentary gesture for loyal members or high-tier guests, but it commonly comes with an additional charge (追加料金 / tsuika ryōkin).
 
 Staff should address 早朝チェックイン requests proactively and transparently. If a guest has pre-arranged early check-in, confirm it warmly at arrival; if not, explain the situation and set realistic expectations. The key phrases include 早朝チェックインには追加料金が発生する場合がございます (early check-in may incur an additional charge) and お部屋の準備が整い次第、ご案内いたします (we will show you to your room as soon as it is ready). In either case, offering the guest access to luggage storage (お荷物のお預かり) and lobby or lounge amenities while they wait shows genuine omotenashi.

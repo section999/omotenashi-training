@@ -4,9 +4,6 @@ section: 7
 title: 階 (kai)
 ---
 
-**Pronunciation:** **ka**-i
-**Register:** Neutral — used universally by all hotel staff and guests; appears in both polite directional speech and informational signage throughout the property.
-
 階 (kai) is the counter suffix for floors in a building and is one of the most fundamental vocabulary items in hotel navigation. Because hotels, ryokan, and large hospitality venues span multiple floors, staff must be able to specify exactly which floor a guest needs to reach — whether for their room, the restaurant, the spa, a conference hall, or any other amenity. Telling a guest simply "it's upstairs" is insufficient; naming the exact floor with 階 gives them the information they need to select the correct elevator button and arrive without wandering. This precision is a basic expectation in Japanese hospitality culture.
 
 The pronunciation of 階 changes depending on the number it is attached to: 一階 (ikkai), 二階 (nikai), 三階 (sangai), 四階 (yonkai), 五階 (gokai), and so on — learners must practice these readings carefully as mispronunciation can cause confusion. In hotel speech, 〇階にございます is the standard locating phrase, often followed by エレベーターをご利用ください or 階段はこちらでございます to provide the access method. Proactively mentioning both the floor and how to get there reflects the full-service mentality of omotenashi.

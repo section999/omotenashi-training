@@ -4,9 +4,6 @@ section: 7
 title: 紛失 (funshitsu)
 ---
 
-**Pronunciation:** fun-**shi**-tsu
-**Register:** Formal — used in professional hospitality settings when reporting or investigating a missing item; more serious in tone than 忘れ物.
-
 紛失 (funshitsu) means the loss of an item, and unlike 忘れ物 (where the item was left at a known location), 紛失 implies that the item's whereabouts are entirely unknown. This distinction is important in hospitality practice: a 忘れ物 triggers a search of a specific location, while 紛失 may require a broader investigation, including checking security camera footage, interviewing staff, or filing a report. Depending on the value or nature of the missing item — for example, a passport, a wallet, or prescription medication — the urgency and scope of the response will differ significantly.
 
 Staff encountering a 紛失 report should begin by calmly gathering precise information: what was lost, when it was last seen, and where the guest believes it may have been. This information is critical before any search begins, as retracing the guest's steps within the property is often the fastest resolution path. If the item cannot be located, staff should provide the guest with information about local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed — a process that may be important for insurance claims or replacing identification documents.

@@ -4,9 +4,6 @@ section: 9
 title: 荷物 (nimotsu)
 ---
 
-**Pronunciation:** ni-**mo**-tsu
-**Register:** Neutral — a widely used, everyday word appropriate in all hospitality contexts from casual guesthouses to luxury hotels.
-
 荷物 is the standard Japanese word for luggage, baggage, or any personal belongings that a guest carries or transports. In Japanese hospitality, the proper handling of a guest's 荷物 is one of the most visible expressions of care and professionalism — bellhops and porters treat each piece with deliberate care, never tossing or stacking items carelessly. The word covers everything from a small handbag to a large suitcase, and staff should always ask for permission before touching a guest's 荷物. Upon check-in and check-out, offering to assist with 荷物 promptly and without being asked is a hallmark of attentive omotenashi service.
 
 Hospitality staff must also be familiar with related 荷物 services such as storage between check-out and departure, forwarding luggage to the next hotel, and handling oversized or fragile items. When a guest reports missing or damaged 荷物, the response must be calm, apologetic, and action-oriented — immediately checking storage records, reviewing CCTV if available, and escalating to a supervisor if needed. Accurate labelling of stored 荷物 with the guest's name and room number is a basic but critical practice.

@@ -4,9 +4,6 @@ section: 12
 title: 幼児 (youji)
 ---
 
-**Pronunciation:** you-**ji**
-**Register:** Formal — used by front desk staff and reservation agents when classifying the youngest guest category for accommodation pricing, safety equipment, and special amenity preparation.
-
 幼児 refers to infants and toddlers, typically children under 3 or 4 years old, though the exact age boundary varies by property. In Japanese hotel and ryokan operations, 幼児 form a distinct pricing category because they generally stay free of charge when sharing a bed with parents and not requiring a separate meal — but this "free" status comes with its own set of preparation requirements. Cribs (ベビーベッド), baby bath products, changing mats, and sterilized bottle warmers may all need to be arranged in advance. Ryokan serving kaiseki meals often cannot easily modify portions for very young children, so parents with 幼児 are usually informed upfront about the meal situation. Proactively addressing these details before the guest arrives is a practical expression of kikubari (thoughtful anticipation).
 
 The presence of 幼児 in a reservation should automatically trigger a mental checklist for staff: Is a crib needed? Is the room layout safe for a crawling child? Does the property's elevator and bathing area accommodate a stroller? These questions reflect the omotenashi principle that genuine hospitality considers not just the stated request but the full circumstances of the guest's situation.

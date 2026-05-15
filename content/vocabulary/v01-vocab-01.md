@@ -4,10 +4,6 @@ section: 1
 title: いらっしゃいませ (irasshaimase)
 ---
 
-**Pronunciation:** i-ra-**ssha**-i-ma-se — the *ssha* is a soft double-sh sound; do not separate it into "ra-sha"
-
-**Register:** Formal — used exclusively by staff addressing guests or customers. Never used between colleagues or in casual conversation.
-
 **いらっしゃいませ** is the foundational greeting of Japanese hospitality. It means "welcome" in the sense of *you have honoured us by coming* — not merely "hello." The phrase derives from the honorific verb *irassharu* (a respectful form of "to be" or "to come"), combined with the polite request ending *mase*. Together they form an expression that places the guest on an elevated level from the very first word.
 
 In practice, this phrase is spoken the moment a guest enters any service space — a hotel lobby, restaurant, or shop. It is not a question and requires no verbal response from the guest. Its purpose is to signal: *you have been seen, and you are welcome here.* The warmth of the delivery — tone, eye contact, the small bow that accompanies it — carries as much meaning as the words themselves.

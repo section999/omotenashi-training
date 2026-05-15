@@ -4,9 +4,6 @@ section: 3
 title: 地震 (jishin)
 ---
 
-**Pronunciation:** ji-**shin**
-**Register:** Neutral to Formal — universally understood and used in both everyday speech and official emergency communications across all hospitality settings.
-
 地震 is a natural disaster caused by the sudden movement of tectonic plates, resulting in ground shaking that can range from barely perceptible tremors to destructive seismic events. Japan is one of the most seismically active countries in the world, and hospitality workers must treat earthquake preparedness as a core professional skill rather than an optional concern. Guests — especially foreign visitors — may be completely unfamiliar with earthquake protocol, making staff the critical link between panic and safe, orderly response. Hotels and ryokan are legally required to post earthquake emergency instructions and conduct regular drills.
 
 When a 地震 occurs, staff should remain calm, use simple and reassuring language with guests, guide everyone away from windows and heavy furniture, and identify safe zones (under sturdy tables, in doorframes of older buildings). After the shaking stops, conducting a systematic safety check of the facility before resuming normal operations is standard procedure. Staff should also know how to shut off gas lines and check for structural damage before allowing guests back into affected areas.

@@ -4,10 +4,6 @@ section: 6
 title: 申し訳ございません (moushiwake gozaimasen)
 ---
 
-**Pronunciation:** mō-shi-**wa**-ke-go-za-i-ma-se-n — five distinct parts: *mōshi* + *wake* + *gozaimasen*; do not rush *wake* into one syllable
-
-**Register:** Highly formal — the most elevated apology form in professional Japanese. Reserved for genuine errors, significant inconveniences, and situations that require deep sincerity. Not for casual use.
-
 **申し訳ございません** is the apex of Japanese apology language. Broken down: *mōshi* (to say, to speak), *wake* (reason, justification) — literally, "there is no reason I can give for this." This etymology is not merely poetic; it shapes the philosophy behind the phrase. When you say *moushiwake gozaimasen*, you are not offering an explanation or deflecting blame. You are saying: *I have no excuse. What happened was unacceptable. I accept responsibility.*
 
 In Japanese hospitality, the manner of the apology matters as much as the words. *Moushiwake gozaimasen* is delivered with a sincere, deep bow (typically 45°), eye contact before and after, and a calm, unhurried tone. The physical expression of the apology is part of its meaning — rushing through the phrase while multitasking communicates the opposite of what the words say.

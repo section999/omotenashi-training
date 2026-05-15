@@ -4,9 +4,6 @@ section: 6
 title: シーツ交換 (shiitsu koukan)
 ---
 
-**Pronunciation:** **shii**-tsu **kou**-kan
-**Register:** Formal — used by housekeeping staff in operational communication, guest requests, and service explanations regarding bed linen changes.
-
 シーツ交換 refers to the changing of bed sheets and is one of the core housekeeping tasks in any hotel or ryokan. In the Japanese hospitality context, freshly changed sheets are a fundamental expectation of guest comfort, and the precision with which they are folded, tucked, and presented is treated as a reflection of the establishment's overall service quality. Many hotels in Japan change sheets after every checkout as standard procedure, while during longer stays they may do so on alternating days or upon guest request. The act of シーツ交換 is not merely functional — the crisp, clean presentation of a remade bed is a visual promise of hygiene and care.
 
 In practice, staff should confirm guest preferences for シーツ交換 frequency, particularly in eco-conscious hotels that encourage guests to reuse sheets to reduce environmental impact. When a guest requests a sheet change outside the regular schedule, staff should respond promptly with 「承りました、すぐに手配いたします」to confirm the request. Knowing how to distinguish シーツ交換 from タオル交換 (towel change) is also important to avoid fulfilling the wrong service request.

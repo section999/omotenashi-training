@@ -4,9 +4,6 @@ section: 36
 title: 予約変更 (yoyaku henkou)
 ---
 
-**Pronunciation:** yo-**ya**-ku **hen**-kou
-**Register:** Formal — the standard term used at the front desk, reservations, and in written communication when a guest or agent requests modification to any element of an existing booking.
-
 予約変更 (yoyaku henkou) joins 予約 (yoyaku, reservation) with 変更 (henkou, change / modification), describing the act of modifying an existing reservation. Changes can encompass a wide range of elements: check-in or check-out dates, room type, number of guests, meal plan selection, or special request details. As an umbrella term, 予約変更 does not specify which aspect is being changed — it simply signals that a modification is needed — so staff must ask a clarifying question to understand the scope before accessing the reservation system. In Japanese hotels, handling 予約変更 efficiently and without inconveniencing the guest is considered a mark of professional competence.
 
 Before processing any 予約変更, staff must review three factors: the booking plan's modification conditions (変更条件), whether the desired change is operationally possible given current availability, and whether any rate differences apply. For date changes, a new availability check is mandatory. For room-type changes, the inventory for the desired category must be verified. If a fee or rate difference applies, it must be disclosed before the change is confirmed: 変更に伴いまして、差額が〜円発生いたします (the modification will result in a price difference of [amount] yen). Once all conditions are communicated and accepted by the guest, the change is processed and a revised confirmation is sent. Documentation of the change and its reason in the guest's reservation notes helps other staff who may later interact with the same guest.

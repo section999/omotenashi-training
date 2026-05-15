@@ -4,9 +4,6 @@ section: 20
 title: 延長料金 (enchou ryoukin)
 ---
 
-**Pronunciation:** en-**chou** **ryou**-kin
-**Register:** Formal — standard billing and operations terminology used when explaining additional charges for extended service use to guests.
-
 延長料金 (enchou ryoukin) refers to the supplemental charge applied when a guest uses a service beyond its standard allotted time or period. The word is formed from 延長 (enchou, meaning extension or prolongation) and 料金 (ryoukin, meaning fee or charge). In hotel and hospitality contexts, 延長料金 most commonly arises with locker rentals, late checkout, parking, equipment rentals, and private dining room bookings. Japan's culture of precision and fairness means that 延長料金 structures are typically clearly published — often displayed at the point of service — and guests are expected to have read them. However, a guest who inadvertently exceeds the standard time should always be informed of the additional charge before payment is requested, never after.
 
 The manner in which staff communicate 延長料金 is crucial in hospitality. An unexpected charge can turn a positive experience negative if handled poorly. The gold standard is proactive communication: for example, when a guest deposits luggage in a coin locker, a good staff member might note, 「4時間を超えますと延長料金が発生いたしますのでご注意ください」 (Please note that an extension fee will apply if you exceed four hours). If a guest is surprised by an 延長料金 at checkout, staff should explain the charge clearly and calmly, with empathy, and — where hotel policy allows — exercise discretion in waiving small overages for valued guests. Handling 延長料金 conversations with grace is a mark of skilled hospitality.

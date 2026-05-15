@@ -4,9 +4,6 @@ section: 2
 title: 観光客 (kankoukyaku)
 ---
 
-**Pronunciation:** kan-**kou**-kya-ku
-**Register:** Neutral — widely used in both spoken and written hospitality and tourism contexts.
-
 観光客 refers specifically to a visitor who has come to a place for sightseeing, leisure, or cultural experiences, as opposed to someone travelling for business or other purposes. In Japanese hospitality settings, recognising that a guest is a 観光客 helps staff tailor their service — offering sightseeing recommendations, transport guidance, and area maps becomes a priority. Major destinations like Kyoto, Nikko, and Hiroshima rely heavily on 観光客 traffic to sustain their local economies and tourism infrastructure. Understanding what motivates 観光客 — whether history, cuisine, nature, or festivals — allows hospitality professionals to personalise every interaction.
 
 Because 観光客 often arrive unfamiliar with local customs, train systems, or even the layout of a building, front-line staff at hotels and ryokans should be proactive in anticipating their questions. A warm, informative welcome that includes practical details such as check-out time, nearby attractions, and dinner reservations sets the tone for a memorable stay. Knowing peak tourism seasons also allows properties to prepare multilingual materials and increase staffing levels in advance.

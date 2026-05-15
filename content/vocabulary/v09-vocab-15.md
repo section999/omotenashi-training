@@ -4,9 +4,6 @@ section: 15
 title: 特典 (tokuten)
 ---
 
-**Pronunciation:** to-**ku**-ten
-**Register:** Neutral to Formal — 特典 is used comfortably in both written plan descriptions and spoken guest interactions. In sales or upselling contexts, staff often emphasize it with polite phrasing such as 特典としてご用意しております to make the benefit feel like a gift rather than a contractual inclusion, which is consistent with the omotenashi spirit of going beyond mere transaction.
-
 特典 (tokuten) refers to a bonus or perk that is included in a booking plan, such as complimentary breakfast, spa access, airport transfer, welcome drinks, or late check-out. In Japanese hospitality, 特典 plays a strategic role: guests frequently choose one plan over another specifically because of its 特典, and staff who can articulate these benefits clearly and enthusiastically help guests feel they have made a rewarding choice. Knowing this word is essential for any staff member involved in reservations, check-in, or plan recommendations.
 
 In practical hotel communication, 特典 appears when describing plan contents during booking inquiries, at check-in when confirming what a guest is entitled to, and in promotional materials. A well-trained staff member proactively volunteers 特典 information — for example, このプランの特典として、ご到着時にウェルカムドリンクをご用意しております — so the guest discovers the benefit as a pleasant surprise rather than having to ask. Failing to mention 特典 can lead guests to feel they did not receive what they paid for, even if the perk existed all along.

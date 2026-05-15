@@ -4,9 +4,6 @@ section: 21
 title: 冷蔵庫 (reizouko)
 ---
 
-**Pronunciation:** rei-**zou**-ko
-**Register:** Neutral / Formal — 冷蔵庫 is the standard term used in both everyday language and formal hospitality settings. In hotels it appears in room guides, minibar menus, and check-in briefings. No simpler informal substitute exists, so the same word is used regardless of register level.
-
 冷蔵庫 (冷蔵 = refrigerated storage, 庫 = storehouse) refers to the in-room refrigerator, a standard amenity in most Japanese hotels and many ryokan. The 冷蔵庫 in hotel rooms often functions as a minibar containing pre-stocked beverages and snacks, each individually priced and tracked via an inventory system. This creates a potential source of misunderstanding if guests are not clearly told which items are complimentary and which are charged — a miscommunication that can lead to disputes at checkout. In ryokan or business hotels without minibar stock, the 冷蔵庫 may be empty and available for guests to store their own food and drinks. Proactively clarifying this at check-in is essential for trust and service quality.
 
 During room orientation, staff typically explain: 「冷蔵庫はご自由にお使いください」 (please feel free to use the refrigerator) if it is empty, or 「冷蔵庫の飲み物はすべて有料となっております」 (all beverages in the refrigerator are charged) if it is a minibar. If a guest asks for ice, staff may explain that ice machines are located on each floor: 「製氷機は各階にございます」. Staff should also mention the 冷蔵庫 when guests arrive with medications or special dietary items requiring refrigeration.

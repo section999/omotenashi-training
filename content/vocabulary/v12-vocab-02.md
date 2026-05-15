@@ -4,9 +4,6 @@ section: 2
 title: 火災 (kasai)
 ---
 
-**Pronunciation:** ka-**sai**
-**Register:** Formal — used in official announcements, safety manuals, and emergency communications by staff, management, and public authorities.
-
 火災 refers to the outbreak of fire that poses a serious threat to life, property, and business continuity. In Japanese hospitality settings, fire safety is treated with the utmost seriousness because hotels and ryokan accommodate sleeping guests who may not be alert to early warning signs. Staff must know the location of all fire extinguishers, alarm pull stations, and evacuation routes before beginning their first shift. The word 火災 signals not just the presence of flames but the full activation of the establishment's emergency protocol — a distinction that separates a minor incident from a life-threatening event.
 
 Regular fire drills (防災訓練, bousai kunren) ensure that both staff and guests can respond correctly when a 火災 occurs. When communicating a fire situation, staff should use 火災 in combination with location information and clear directives to avoid confusion and enable fast, orderly evacuation.

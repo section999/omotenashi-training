@@ -4,9 +4,6 @@ section: 28
 title: 延長 (enchou)
 ---
 
-**Pronunciation:** en-**chou**
-**Register:** Formal/Neutral — used at the front desk when guests request additional nights or when extending any time-bound service arrangement.
-
 延長 (enchou) means "extension" — the act of lengthening or prolonging something beyond its original endpoint. In hotel operations, it most commonly refers to 滞在延長 (taizai enchou), extending the duration of a guest's stay beyond the checkout date already recorded in the reservation system. However, 延長 also applies to late checkout requests, extended use of a meeting room, or prolonged rental of hotel equipment. Japanese hospitality culture views the ability to accommodate a guest's wish to stay longer as a positive mark of service quality, making the smooth handling of 延長 requests a valued skill at the front desk.
 
 When a guest requests 延長, the front desk procedure involves three critical steps: verifying whether the current room is available for the additional night, checking whether the next guest is already scheduled to check into that same room, and confirming any applicable rate differences before giving approval. The appropriate response after internal verification is ご延長のご希望を承りました。本日の料金は〜円でご案内いたします (I have received your request to extend your stay; the rate for tonight will be [amount]). Staff should also notify housekeeping so that turnover schedules are updated accordingly. Never verbally confirm an extension before the system check is completed, as this can create a double-booking conflict that is difficult to resolve once the guest has been told "yes."

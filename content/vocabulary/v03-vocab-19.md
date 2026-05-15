@@ -4,9 +4,6 @@ section: 19
 title: エアコン (air conditioner)
 ---
 
-**Pronunciation:** **e**-a-kon
-**Register:** Neutral — エアコン is a loanword from English ("air conditioner") and is used freely across all registers in Japanese. In hotel contexts it appears in room-orientation briefings, guest manuals, and repair request forms. Staff use it without adjustment for formality, though surrounding sentences should maintain polite keigo forms.
-
 エアコン is an abbreviation of "air conditioner," universally understood in Japan and found in virtually every hotel and ryokan guest room. Comfort temperature is a sensitive personal matter — guests from warmer or cooler climates may have very different expectations from the default room setting — and studies in Japanese hospitality consistently show that room temperature is among the top factors affecting guest satisfaction. Staff who proactively explain how to operate the エアコン, including how to adjust temperature, switch between heating and cooling modes, and use the timer function, demonstrate the anticipatory service at the heart of omotenashi. Some older ryokan may have floor-based heating systems rather than a wall-mounted エアコン, and being able to clarify this difference is equally valuable.
 
 In practice, staff typically point out the エアコン remote control during room orientation: 「エアコンのリモコンはテレビ台の上にございます」 (the air conditioner remote is on the TV stand). If a guest reports a malfunction, the appropriate response would be 「すぐに係の者を向かわせます」 (I will send a staff member right away). Staff should also be ready to explain the difference between 冷房 (cooling) and 暖房 (heating) mode settings on the remote.

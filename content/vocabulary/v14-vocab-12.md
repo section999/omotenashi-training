@@ -4,9 +4,6 @@ section: 12
 title: おすすめ (osusume)
 ---
 
-**Pronunciation:** o-**su**-su-me
-**Register:** Neutral to Informal — natural in both guest-facing conversation and casual staff discussion; polished forms like ご おすすめ elevate it for formal service contexts.
-
 おすすめ means a recommendation — a suggestion offered to help someone make a good choice. In hospitality, おすすめ is one of the most powerful tools in a staff member's vocabulary because it transforms a routine service interaction into a personalised, curated experience. When a guest asks "What do you recommend?" (おすすめはありますか?), they are inviting the staff member to share genuine local knowledge and expertise. A thoughtful おすすめ — whether for a dish, a nearby attraction, a transport route, or a cultural experience — signals that the staff member is engaged, attentive, and invested in the guest's enjoyment.
 
 In restaurant settings, the おすすめ is often displayed on a small board or mentioned by servers as the dish they particularly endorse that day, often based on seasonal ingredients or the chef's specialty. In hotel or ryokan settings, staff おすすめ may include a particular garden view at a certain hour, a local izakaya off the beaten path, or a specific time to visit a shrine when it is quietest. The best おすすめ are personal, specific, and delivered with genuine enthusiasm — not generic suggestions read off a pamphlet.

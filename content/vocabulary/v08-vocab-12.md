@@ -4,9 +4,6 @@ section: 12
 title: 地下一階 (chika ikkai)
 ---
 
-**Pronunciation:** chi-ka-**ik**-kai
-**Register:** Neutral — precise, practical vocabulary used by all hotel staff; the most specific and therefore most useful form of basement-floor reference in Japanese building navigation.
-
 地下一階 (chika ikkai) specifies the first level below ground, equivalent to "Basement 1" or "B1" in English signage. While 地下 is a general term for any basement area, 地下一階 is the precise designation needed when a building has multiple below-ground levels or when guests must select the correct elevator button. In Japanese hotels, 地下一階 is frequently the location of parking, fitness facilities, indoor pools, laundry rooms, or staff service areas, and guests need to be directed to the exact level without ambiguity. Using the specific form reflects attentiveness and reduces the risk of guests pressing the wrong elevator button and arriving at an incorrect floor.
 
 The pronunciation follows the irregular counter pattern: 地下一階 is chika-ikkai, not chika-ichi-kai. When directing guests, the most helpful phrasing pairs the floor name with both the elevator button label and what awaits them: 地下一階にございます。エレベーターのB1ボタンをお押しください. This two-part structure — location plus access instruction — is the standard for below-ground guidance in Japanese hospitality.

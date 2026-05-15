@@ -4,9 +4,6 @@ section: 40
 title: ゆっくり話してください (yukkuri hanashite kudasai)
 ---
 
-**Pronunciation:** yuk-ku-ri ha-na-shi-te ku-da-**sai**
-**Register:** Polite — appropriate for use by staff when managing difficult phone connections or language barriers; also frequently used by international guests requesting slower speech from staff.
-
 ゆっくり話してください means "please speak slowly" and is an essential phrase in hospitality telephone communication where clarity can be hampered by accents, rapid speech, background noise, or language differences. For staff interacting with non-native Japanese speakers or guests calling from abroad, this phrase provides a polite mechanism for adjusting the pace of the conversation to ensure mutual understanding. It can be used in both directions: staff may request it of a caller who is speaking very fast, and guests may request it of staff. In either case, the phrase should be treated as a cooperative tool for better communication rather than as a criticism. Japanese hospitality values the guest's comfort above all, so if a guest says this phrase, the staff member must immediately and visibly slow their pace without any sense of impatience.
 
 When staff need to request slower speech themselves, a softened version is recommended: 申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか — "I sincerely apologize, but could you speak a little more slowly?" This version uses the conditional itadakemasu form and the deferential deshou ka ending to express the highest level of politeness. When responding to a guest's request to slow down, staff should not just reduce speed but also simplify vocabulary, pause between key pieces of information, and avoid running words together. Offering to send written confirmation by email or fax after the call is another excellent strategy when language or speed presents persistent barriers during telephone interactions.

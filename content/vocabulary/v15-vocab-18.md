@@ -4,9 +4,6 @@ section: 18
 title: ロッカー (rokkaa)
 ---
 
-**Pronunciation:** **rok**-kaa
-**Register:** Neutral — everyday term used in hotels, train stations, tourist sites, and gyms; staff use it matter-of-factly when directing guests to self-service storage options.
-
 ロッカー (rokkaa) is the Japanese adoption of the English word "locker," referring to a secure, individual storage compartment that guests can use independently to store bags, clothing, or other personal belongings. In Japan, coin-operated ロッカー are found at virtually every major train station, tourist attraction, and shopping area, making them an essential piece of infrastructure for travelers who want to explore freely without carrying luggage. Unlike the luggage storage service (保管) offered by hotel staff, a ロッカー is a self-service solution — the guest operates it directly using a key, digital code, or coin without needing to interact with staff.
 
 In hotels, ロッカー may be found in gym changing rooms, spa facilities, or even lobby areas for day-use guests. Hotel staff are frequently asked by guests about nearby ロッカー options, particularly at train stations close to popular tourist areas. A good hospitality professional is familiar with the local ロッカー infrastructure: which stations have them, what sizes are available (small, medium, large), how the payment works (most now accept IC cards like Suica as well as coins), and what to do if a ロッカー malfunctions. Guiding a guest confidently to the right storage solution — whether a hotel 保管 service or a nearby coin ロッカー — reflects the practical dimension of omotenashi.

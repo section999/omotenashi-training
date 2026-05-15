@@ -4,9 +4,6 @@ section: 12
 title: 故障 (koshou)
 ---
 
-**Pronunciation:** ko-**shou**
-**Register:** Formal — used by staff and in signage to describe mechanical or equipment failure; appropriate in both guest-facing communication and internal maintenance reporting.
-
 故障 (koshou) means a breakdown, malfunction, or failure of equipment or machinery. In hospitality settings, 故障 can apply to in-room appliances such as televisions, air conditioners, refrigerators, and electronic door locks, as well as shared facilities such as elevators, vending machines, and onsen equipment. Correctly identifying and communicating a 故障 is important because it determines which team responds — a general 問題 might be handled by a front-desk agent, but a 故障 requires maintenance or engineering staff with the appropriate tools and knowledge.
 
 When a 故障 is reported or discovered, the standard procedure is to confirm the nature of the failure, inform the relevant department immediately, and update the guest on the expected timeline for resolution. If the affected item is essential to the guest's comfort — such as a broken shower or a non-functioning door lock — offering an alternative room is expected without waiting to be asked. 故障中 (koshou-chuu, currently broken) signs placed on malfunctioning equipment are a visible hospitality gesture that prevents guests from encountering broken items and feeling frustrated, reflecting a proactive service mindset.

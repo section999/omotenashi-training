@@ -4,9 +4,6 @@ section: 30
 title: 交換 (koukan)
 ---
 
-**Pronunciation:** **kou**-kan
-**Register:** Formal / Neutral — 交換 is a Sino-Japanese compound that carries a formal, professional tone appropriate for hotel communication. It is used in both guest-facing speech and internal staff coordination. In guest communications, 交換 typically appears with humble verb forms (交換いたします, 交換させていただきます) to reflect deference to the guest.
-
 交換 (交 = exchange/cross, 換 = replace/change) means "exchange" or "replacement," and in hospitality it refers specifically to the act of replacing guest room items — most commonly towels, bed linen, yukata (in ryokan), or amenity items. The ability to respond promptly and gracefully to a 交換 request is a direct test of service quality: a well-handled replacement request — where the staff acknowledges the request immediately, confirms what will be brought, and delivers it without delay — creates a positive impression that elevates the entire stay. In Japanese hospitality culture, guests are not expected to have to ask twice; the expectation is that the first request is met with full and prompt action, with a polite apology if any delay occurs.
 
 In practice, 交換 arises most often when guests request fresh towels, when the minibar is restocked, when yukata sizes need to be changed, or when bedding is replaced between guests. The standard response to a towel replacement request is: 「タオルを交換いたします。少々お待ちください」 (I will replace the towels. Please wait a moment). For scheduled bedding changes, staff may say: 「リネンの交換は毎日午前中に行っております」 (linen replacement is carried out every morning). If a guest declines service, the response should be gracious and non-insistent.

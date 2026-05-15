@@ -4,9 +4,6 @@ section: 13
 title: 伝票 (denpyou)
 ---
 
-**Pronunciation:** **den**-pyou
-**Register:** Formal — used by restaurant, bar, and banquet staff internally to record orders and transactions, and with guests when a signature or confirmation is required.
-
 伝票 is a transaction slip or bill used to record orders, services rendered, or payments in the hospitality context. In hotel restaurants and bars, the 伝票 is the paper or digital record that travels from the service point to the kitchen or bar and back, tracking what was ordered, for which table, at what time, and at what cost. When a guest is billed to their room (ルームチャージ), the 伝票 documents the specific charges that will later be consolidated into the final 精算 at checkout. Because the 伝票 feeds directly into billing, accuracy at the point of entry is critical — a wrong table number or misrecorded item cascades into incorrect billing and potential guest complaints.
 
 Staff in F&B settings rely on 伝票 management as a core operational skill. Keeping the 伝票 organized by table, time, and service type ensures smooth reconciliation at end of shift. When guests are asked to sign a 伝票 for a room-charge authorization, staff should briefly explain what they are signing and where: ご利用料金の確認書でございます、こちらにご署名をお願いいたします (this is a confirmation of your charges, please sign here). This transparency prevents disputes about unauthorized charges.

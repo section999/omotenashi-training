@@ -4,9 +4,6 @@ section: 3
 title: 清掃済み (seisou zumi)
 ---
 
-**Pronunciation:** sei-**sou** zu-mi
-**Register:** Formal — used by housekeeping staff in written room-status reports, door cards, and verbal confirmation to supervisors or guests that a room is fully cleaned and ready.
-
 清掃済み is the formal designation indicating that a room has been completely cleaned and is prepared for guest occupancy or inspection. The suffix 済み (zumi) attached to a verb stem in Japanese signifies that an action has been finished, making 清掃済み literally "cleaning-completed." This term is the essential counterpart to 清掃中 (cleaning in progress) and forms part of the standard room-status vocabulary used in hotels and ryokan across Japan. Accurate use of 清掃済み ensures that the front desk can assign rooms to arriving guests without delay and that housekeeping supervisors can confirm readiness during inspections.
 
 Staff typically mark a room as 清掃済み by updating a room management system, placing a completed card or tag inside the room, or verbally reporting to a floor supervisor. When communicating directly with guests — for example, when a guest inquires whether their room is ready before standard check-in time — the phrase この部屋は清掃済みでございます delivers the information with the appropriate level of formality. It is important that staff only mark a room 清掃済み after all tasks, including amenity replenishment and final visual inspection, have been completed.

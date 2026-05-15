@@ -4,9 +4,6 @@ section: 13
 title: 怪我 (kega)
 ---
 
-**Pronunciation:** **ke**-ga
-**Register:** Neutral — used across all levels of hotel communication when a guest or staff member has sustained a physical injury.
-
 怪我 (kega) refers to a physical injury or wound sustained by a person, ranging from minor cuts and bruises to serious trauma requiring immediate medical attention. In the hotel environment, injuries can occur in a variety of settings — slippery bathroom floors, staircases, fitness facilities, kitchen areas, or outdoor walkways. Recognising the severity of a guest's 怪我 is the first critical step in determining the appropriate response. Staff must remain calm, reassure the guest, and act swiftly to minimise further harm.
 
 When a guest sustains a 怪我, the immediate priority is to assess whether first aid can be administered on-site or whether emergency services must be contacted. Minor injuries such as small cuts may be treated with the hotel's first aid kit, while fractures, head injuries, or deep lacerations require professional medical intervention. All incidents involving injury must be documented in an accident report regardless of severity, both for the guest's protection and for the hotel's liability records. Proactive hazard identification — such as placing wet floor signs and maintaining well-lit corridors — is equally important in preventing 怪我 from occurring in the first place.

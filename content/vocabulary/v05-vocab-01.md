@@ -4,9 +4,6 @@ section: 1
 title: レストラン (resutoran)
 ---
 
-**Pronunciation:** re-su-**to**-ran
-**Register:** Neutral — used by all hospitality staff when referring to the hotel's dining facility, appropriate with both Japanese and international guests.
-
 レストラン is the standard Japanese term for a restaurant, borrowed from the French "restaurant." In the hotel context it encompasses the full spectrum of dining facilities, from casual all-day dining to formal fine-dining venues within the property. Understanding what the hotel's レストラン offers — cuisine type, price range, and ambiance — is fundamental knowledge every front-line staff member must have before interacting with guests. Being able to confidently direct guests and communicate the dining experience reflects professionalism and embodies the omotenashi spirit of anticipating needs.
 
 When a guest arrives at the front desk or asks for dining recommendations, the staff member should be ready to state operating hours, current availability, and any special features such as seasonal menus or dress codes. If the hotel has multiple dining outlets, it is important to clarify which specific venue is being discussed. Phrases like レストランはこちらでございます pair naturally with a graceful gesture toward the dining area, making the guest feel personally guided rather than simply pointed in a direction.

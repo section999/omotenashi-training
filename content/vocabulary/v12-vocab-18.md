@@ -4,9 +4,6 @@ section: 18
 title: 救助 (kyuujo)
 ---
 
-**Pronunciation:** **kyuu**-jo
-**Register:** Formal — primarily used in official emergency communications, safety announcements, and incident reports; also appropriate in direct guest communication during crises.
-
 救助 (kyuujo) means rescue — the act of saving a person from a dangerous, life-threatening, or distressing situation. The term conveys active intervention, not merely passive assistance, and carries a sense of urgency and purpose. In the hotel environment, 救助 may refer to pulling a guest from a flooded area, assisting someone trapped in an elevator, locating a missing child on the premises, or coordinating with emergency services to extract guests during a fire or structural emergency. Japanese law places obligations on hotel management to establish and maintain effective emergency response systems, and 救助 procedures are a central component of these frameworks.
 
 Hotel staff are trained to perform initial 救助 actions while simultaneously alerting professional emergency responders — the goal is never to delay calling 119 (fire and ambulance) but to take immediate stabilising action while help is on the way. Evacuation scenarios, in particular, require staff to account for guests with mobility limitations, elderly visitors, and families with young children, all of whom may need prioritised 救助 assistance. During drills, staff practise communication routes, rescue paths, and accountability procedures to ensure no guest is left behind. Clear, calm verbal guidance — including the use of simple Japanese or physical gestures for international guests — is an essential skill in effective 救助.

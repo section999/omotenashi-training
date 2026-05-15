@@ -4,9 +4,6 @@ section: 7
 title: タオル交換 (taoru koukan)
 ---
 
-**Pronunciation:** **ta**-o-ru **kou**-kan
-**Register:** Formal — used by housekeeping staff in daily operations and guest-facing service communication when handling towel replacement requests or explaining towel policies.
-
 タオル交換 means the replacement or exchange of towels, covering bath towels, hand towels, face towels, and in ryokan settings, yukata sashes and other fabric items associated with the guest's bath experience. Towels are considered a high-visibility amenity — their freshness, folding presentation, and adequate quantity directly affect a guest's perception of cleanliness and service attentiveness. In many Japanese hotels, towels are arranged with specific folds displayed prominently in the bathroom, and housekeeping staff are trained to replicate this standard consistently. Prompt and gracious response to a タオル交換 request reflects the omotenashi spirit of anticipating and fulfilling guest needs without making them feel like a burden.
 
 Housekeeping staff typically perform タオル交換 during daily cleaning, but guests may request additional changes at any time. In environmentally conscious properties, guests may be asked to hang used towels if they wish to reuse them, with replacement only performed if towels are left on the floor. Staff should communicate this policy clearly and without pressure, offering the exchange warmly regardless of the hotel's environmental guidelines.

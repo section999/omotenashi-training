@@ -4,9 +4,6 @@ section: 1
 title: 従業員 (juugyouin)
 ---
 
-**Pronunciation:** ju-u-**gyou**-in
-**Register:** Formal — used by managers, HR personnel, and administrators when referring to members of staff in official or written contexts.
-
 従業員 is the standard term for an employee in Japanese business and hospitality settings. It carries a formal, institutional tone, reflecting the professional relationship between an organisation and its workforce. In hotels, ryokan, and restaurants, the word encompasses all staff from front-desk clerks and concierge to kitchen workers and housekeeping teams. Understanding who qualifies as a 従業員 under Japanese labour law is important for management, as it determines entitlements to wages, benefits, and legal protections.
 
 In day-to-day operations, managers use this word when writing rosters, drafting internal memos, or conducting performance reviews. It is rarely used by staff members when referring to themselves in conversation — in those cases, more humble expressions are preferred. However, guests and visitors may hear it when a manager addresses a group of workers collectively, and new hires will encounter it frequently in onboarding documentation.

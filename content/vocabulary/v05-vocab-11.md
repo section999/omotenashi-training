@@ -4,9 +4,6 @@ section: 11
 title: 紅茶 (koucha)
 ---
 
-**Pronunciation:** **kou**-cha
-**Register:** Neutral — standard term used in all hotel and restaurant settings when offering or discussing black tea; appropriate for both Japanese and international guests.
-
 紅茶, literally "red tea," is the Japanese term for black tea and is one of the most commonly offered beverages in hotel dining alongside コーヒー. While green tea (お茶 or 緑茶) remains the quintessential Japanese beverage, 紅茶 became firmly established in Japan during the Meiji era through Western influence, and today it occupies a central place in hotel afternoon tea services, breakfast menus, and post-dinner offerings. In luxury hotels, a thoughtfully curated 紅茶 selection — Darjeeling, Earl Grey, Assam, or Japanese domestic varieties — is part of the beverage identity, and staff who can describe the character of each blend demonstrate a level of expertise that guests genuinely appreciate. Understanding 紅茶 options is therefore not just practical knowledge but an element of refined hospitality.
 
 When offering 紅茶 to a guest, staff should present accompaniment choices clearly: whether milk (ミルク), lemon (レモン), or honey (はちみつ) is available, and whether the temperature can be adjusted. For guests seated in the afternoon tea lounge, explaining the recommended steeping time or the origin of a particular leaf adds a storytelling dimension to the service. Proactively refilling the hot water pot so the guest can brew a second cup without asking is a small but meaningful gesture of attentiveness.

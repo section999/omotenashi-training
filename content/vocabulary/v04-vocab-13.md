@@ -4,9 +4,6 @@ section: 13
 title: ドライヤー (doraiyaa)
 ---
 
-**Pronunciation:** do-rai-**yaa**
-**Register:** Neutral — used by housekeeping staff in equipment checklists and in polite guest-facing explanations about in-room appliance usage and location.
-
 ドライヤー is the Japanese loanword for hair dryer and is a standard in-room electrical appliance provided in hotels and ryokan across Japan. In the Japanese hospitality context, the presence and quality of a ドライヤー is closely linked to guest satisfaction — particularly among Japanese guests, for whom hair care after bathing is an important part of the daily routine. Housekeeping staff are responsible for confirming that the ドライヤー is present in its designated location (typically the bathroom or a bedside drawer), that it is functioning correctly, and that the cord is neatly stored. Any appliance that is found to be damaged, missing, or malfunctioning should be reported to the housekeeping supervisor immediately.
 
 When a guest asks about the ドライヤー — how to use it, where it is stored, or whether it is compatible with international voltages — staff should provide clear and patient guidance. Japan operates on 100V electricity, which differs from the 220–240V used in many European and other countries, so voltage compatibility may be a concern for international guests. Staff should be prepared to explain this if asked, and ideally direct guests to the information booklet in the room. If a ドライヤー malfunctions during a guest's stay, arranging a quick replacement is a high-priority service action.

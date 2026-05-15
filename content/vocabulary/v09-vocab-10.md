@@ -4,9 +4,6 @@ section: 10
 title: 大人 (otona)
 ---
 
-**Pronunciation:** o-**to**-na
-**Register:** Formal/Neutral — used by front desk staff, reservations agents, and restaurant hosts when categorizing guests by age for billing, room allocation, and meal planning purposes.
-
 大人 is the standard hospitality term for an adult guest, typically defined as a person aged 12 or 13 and above, though the exact age threshold varies by property and plan. In the context of Japanese hotel and ryokan reservations, 大人 determines the base room rate: most pricing structures in Japan quote a per-person, per-night rate for adults, which includes accommodation and any meals included in the plan. This per-person pricing model — different from the per-room pricing common in Western hotels — makes accurate identification of 大人 versus 子供 or 幼児 essential for correct invoicing. A family that books as "2大人 + 1子供" will be billed very differently from one that books as "3大人."
 
 In omotenashi practice, correctly identifying and addressing adult guests by their status also signals attentiveness. When a party includes teenagers who are on the cusp of the adult age threshold, staff should check the hotel's policy before applying adult rates — applying an adult rate to an 11-year-old would be an overcharge, while applying a child rate to a 14-year-old might underbill the property. The polite counter for 大人 in service settings is 名様 (mei-sama), as in 大人2名様 (two adult guests).

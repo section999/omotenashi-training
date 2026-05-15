@@ -4,9 +4,6 @@ section: 6
 title: 交差点 (kousaten)
 ---
 
-**Pronunciation:** kou-**sa**-ten
-**Register:** Neutral to Formal — used by concierge, front desk staff, and bellstaff when giving outdoor walking or driving directions; less common inside buildings where 角 is preferred.
-
 交差点 (kousaten) means "intersection" and refers to the point where two or more roads cross, typically governed by traffic signals. In hotel hospitality, this word becomes essential whenever staff give directions beyond the building's interior — to nearby restaurants, train stations, tourist attractions, or transportation hubs. Japanese guests and international visitors alike rely on intersection-based navigation because traffic lights serve as unmistakable, fixed landmarks that are impossible to miss. Giving clear, safe directions to and from 交差点 is an expression of genuine care for the guest's well-being, a core value of omotenashi.
 
 When using 交差点 in guidance, staff should always specify the action required — whether to cross it (渡る), turn at it (曲がる), or use it as a reference point — and ideally mention the traffic signal (信号) or a nearby landmark such as a konbini or bank on the corner. For guests unfamiliar with local traffic flow, reminding them to wait for the signal and check for bikes (自転車にご注意ください) demonstrates the proactive thoughtfulness expected of hospitality professionals.

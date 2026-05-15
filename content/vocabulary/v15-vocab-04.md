@@ -4,9 +4,6 @@ section: 4
 title: 洗剤 (senzai)
 ---
 
-**Pronunciation:** **sen**-zai
-**Register:** Neutral — used in everyday conversation and practical service explanations without any formality concerns.
-
 洗剤 refers to the chemical cleaning agents used to remove dirt, grease, stains, and odors from fabrics during washing. In hotel and ryokan settings, providing 洗剤 free of charge in the laundry room is a standard hospitality touch that guests appreciate, sparing them from having to purchase detergent for a single wash. There are several types of 洗剤 relevant to hospitality — liquid, powder, and pod formats — and staff may be asked which type is available or which is best suited for certain fabrics. Understanding these differences allows staff to give genuinely helpful advice that reflects omotenashi values.
 
 When stocking the laundry room or advising guests on proper laundry care, it is important to distinguish between detergents designed for regular cotton fabrics and those formulated for delicates or color-safe washing. Some guests with sensitive skin may also inquire about fragrance-free or hypoallergenic 洗剤 options, and being prepared for such requests demonstrates attentive service. Staff should also remind guests not to use excessive amounts of 洗剤, as this can leave residue on garments and damage the machine.

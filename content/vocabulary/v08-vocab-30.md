@@ -4,9 +4,6 @@ section: 30
 title: 下 (shita)
 ---
 
-**Pronunciation:** shi-**ta**
-**Register:** Neutral to Formal — used in hotel contexts when directing guests to lower floors, basement levels, or items positioned beneath a reference point.
-
 下 (shita) means "below," "underneath," or "down," and is the direct vertical counterpart to 上 (ue). In hotel navigation it most commonly directs guests to basement levels — Japanese hotels frequently place parking garages, spas, laundry facilities, and storage rooms in 地下 (chika, underground) floors. The word is short, unambiguous, and versatile: it works equally well for floor-level navigation (駐車場は下の階にございます) and for locating objects in a room (ソファーの下にございます). Like 上, the word itself is neutral, and staff elevate the register through surrounding keigo.
 
 A key practical nuance is distinguishing between 下 as a general "downward" reference and 地下 (chika) as the specific term for basement floors. In most hotel direction-giving scenarios, guests heading to a basement-level parking lot or restaurant should be told 地下一階にございます for precision, with 下 used as a complementary spatial cue: エレベーターで下にお降りください (please take the elevator down). Staff should also be aware that directing guests 下 in a building they are unfamiliar with can feel disorienting, so accompanying the word with an access method — エレベーター, エスカレーター, or 階段 — reassures the guest about how to get there safely.

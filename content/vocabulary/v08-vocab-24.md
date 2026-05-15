@@ -4,9 +4,6 @@ section: 24
 title: 約 (yaku)
 ---
 
-**Pronunciation:** **ya**-ku
-**Register:** Neutral — used comfortably in both casual conversation and formal service contexts without any change in form. In professional hospitality speech, 約 is a standard hedging word that signals intellectual honesty about estimates, and its use actually increases a speaker's credibility rather than undermining it. Omitting 約 when giving time or distance estimates can sound overconfident and may create complaints if guests find the reality different from what was stated.
-
 約 (約) means "approximately" or "about" and functions as a prenominal modifier placed before numbers to indicate that the figure is an estimate rather than a precise measurement. In the high-expectation environment of Japanese hospitality, guests are conditioned by decades of service culture to expect accuracy — which means that when a number cannot be exact, the proper professional response is to qualify it with 約 rather than either guessing precisely or refusing to answer. This small word does significant service work: it sets realistic expectations, signals that the speaker is thinking carefully about the guest's needs, and protects the property from complaints based on minor timing discrepancies.
 
 In practice, 約 appears throughout hospitality communication wherever estimates are necessary: 駅まで徒歩約10分です (approximately 10 minutes on foot to the station), お部屋の準備に約30分いただけますでしょうか (may we have approximately 30 minutes to prepare your room), or ご夕食は約2時間のコースでございます (dinner is approximately a 2-hour course). Staff should aim to give the most accurate estimate possible, use 約 to acknowledge natural variation, and then follow up if the actual time differs significantly from the estimate.

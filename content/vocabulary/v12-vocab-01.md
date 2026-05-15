@@ -4,9 +4,6 @@ section: 1
 title: 緊急 (kinkyuu)
 ---
 
-**Pronunciation:** kin-**kyū**
-**Register:** Formal — used by all hospitality staff and management when communicating any situation requiring immediate action, from front desk announcements to emergency broadcasts.
-
 緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency, and it is one of the most operationally important words in Japanese hospitality. In hotels, ryokan, and restaurants, emergencies range from natural disasters like earthquakes and fires to medical incidents or security threats. Staff who recognise and respond to 緊急 situations without hesitation directly uphold the guest's physical safety, which is the highest expression of omotenashi. Clear communication using this word signals to colleagues and guests alike that normal procedures are suspended and life-safety protocols take priority.
 
 In practice, 緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity — saying 緊急 without a genuine emergency is a serious breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what you are doing) ensures guests understand not just the severity but the expected response.

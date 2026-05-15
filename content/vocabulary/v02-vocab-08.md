@@ -4,9 +4,6 @@ section: 8
 title: 満室 (manshitsu)
 ---
 
-**Pronunciation:** **man**-shi-tsu
-**Register:** Formal — used exclusively by hotel staff to inform guests that no rooms are available; must always be delivered with an apology and in polite keigo.
-
 満室 means "fully booked" or "no vacancies," indicating that every room in the property is currently occupied. It is the direct opposite of 空室 (vacant room), and communicating 満室 to a guest who has arrived without a reservation — or one whose modification request cannot be accommodated — is one of the most delicate situations a front desk professional faces. In Japanese hospitality culture, delivering negative information requires even greater care than delivering positive news; the manner in which 満室 is communicated can preserve or destroy a guest's goodwill toward the property.
 
 The standard professional approach is to prefix the announcement with an apology (大変申し訳ございませんが), specify the time frame clearly (本日は, meaning "for today"), and if possible, offer an alternative such as a referral to a nearby partner hotel. The full phrase 本日は満室でございます (we are fully booked today) uses ございます for formality and 本日 to limit the scope to the current day, implying that availability may change. Offering a waitlist option or suggesting a future date demonstrates that the hotel values the guest even when it cannot serve them immediately.

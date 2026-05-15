@@ -4,9 +4,6 @@ section: 2
 title: 内線 (naisen)
 ---
 
-**Pronunciation:** **nai**-sen
-**Register:** Neutral to Formal — used internally between staff departments and also when informing guests of extension numbers; always presented formally to guests.
-
 内線 refers to an internal telephone extension line that connects different rooms, departments, or staff positions within the same building or organization. In Japanese hotels, the 内線 system is the backbone of rapid inter-departmental communication, allowing the front desk to reach housekeeping, room service, or the concierge without going through an external switchboard. Guests also use 内線 from their room phones to contact front desk services, making it one of the most frequently encountered telephone terms during a stay. A well-managed 内線 system reduces response times and is essential to delivering seamless omotenashi service.
 
 Staff must be able to clearly communicate 内線番号 (extension numbers) to guests both in person and by phone. The standard phrasing is 内線〇〇番でございます, and staff should confirm that the guest knows how to access the internal line from their room handset — typically by dialing the extension number directly without pressing 0 first (though this varies by property). Confusing 内線 with 外線 (external line) can cause guests to incur unexpected call charges or reach a wrong destination, so clarity in explanation is critical.

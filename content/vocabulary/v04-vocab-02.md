@@ -4,9 +4,6 @@ section: 2
 title: 清掃中 (seisouchuu)
 ---
 
-**Pronunciation:** sei-**sou**-chuu
-**Register:** Formal — used by housekeeping staff and displayed on official hotel signage to communicate that a room is actively being cleaned.
-
 清掃中 is the professional term for "cleaning in progress" and is a critical piece of vocabulary in hotel housekeeping operations. Unlike the more casual 掃除, the word 清掃 carries a formal, institutional weight that makes it appropriate for door hangers, digital room-status systems, and verbal communication between staff and guests. The 中 suffix indicates that the action is currently ongoing, creating a clear and immediate message that the room is occupied by staff and not yet available. In a ryokan or hotel context, displaying 清掃中 is an essential courtesy that respects the guest's privacy and prevents awkward or uncomfortable interruptions.
 
 In practical terms, housekeeping staff hang a 清掃中 sign or card on the door handle before entering a room to clean, and the sign remains in place until all work is complete. Verbally, staff may also use this phrase when redirecting a guest who attempts to return to their room early, apologizing politely while explaining that cleaning is still underway. Understanding the difference between 清掃中 and 清掃済み (seisou zumi — cleaning complete) is essential for communicating accurate room status to both guests and supervisors.

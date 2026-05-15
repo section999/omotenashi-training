@@ -4,9 +4,6 @@ section: 25
 title: 窓 (mado)
 ---
 
-**Pronunciation:** **ma**-do
-**Register:** Neutral — 窓 is an everyday Japanese word used without register adjustment across all formality levels. In hotel orientations, it appears naturally in polite sentences using ございます and keigo verb forms. No elevated or humble synonym is required; the surrounding grammar signals the appropriate level of formality.
-
 窓 (window) is one of the most frequently discussed room features in hospitality, encompassing both practical function and aesthetic experience. In Japan's famous city hotels, mountain ryokan, and seaside inns, the view from the 窓 is often a key selling point of the room itself — whether it frames Mount Fuji, a Kyoto garden, or the Tokyo skyline. Staff who draw attention to the view with genuine enthusiasm and provide clear guidance on how to open or close the 窓 are fulfilling both the practical and experiential dimensions of hospitality. At the same time, 窓 safety is a concern, particularly in high-rise hotels where windows may be restricted from fully opening; staff must be prepared to explain any such restrictions honestly and calmly.
 
 In room orientation, staff commonly say: 「窓からは〇〇の景色がご覧いただけます」 (from the window you can enjoy a view of [location]) to highlight the view, and 「窓は手前に引いて開けてください」 (please pull the window toward you to open it) to explain operation. In rooms where windows do not open for safety reasons, staff might say: 「安全のため、窓は開かない仕様になっております」 (for safety reasons, the window is designed not to open). Curtain and blind controls are typically explained alongside the 窓.

@@ -4,9 +4,6 @@ section: 37
 title: 避難経路 (hinan keiro)
 ---
 
-**Pronunciation:** hi-nan-**kei**-ro
-**Register:** Formal — used in hotel safety briefings, fire drills, and emergency procedures when communicating the path guests and staff should follow to reach safety during an evacuation.
-
 避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), forming the standard term for "evacuation route." It refers to the designated pathway leading from any point in the building to a safe outdoor assembly area via emergency exits. Unlike 非常口 (hijouguchi), which names the exit itself, 避難経路 names the entire path — the corridor to follow, the turns to take, and the exit to use. In Japan, evacuation routes are mandated by fire safety law and must be posted visibly on every floor, typically displayed beside or near elevator landings and at room entrances. Hotel staff are required not only to know these routes but to be able to walk guests through them verbally and physically during a real emergency.
 
 In the context of omotenashi, communicating 避難経路 information to guests goes beyond legal compliance — it reflects the deepest level of duty of care. Professional hotel staff deliver this information calmly and clearly during check-in (ご宿泊中のご案内として、避難経路をご確認ください), provide a written reference on the safety card in the room, and rehearse evacuation procedures regularly through hotel fire drills (避難訓練). When a real emergency occurs, the staff member who has internalized 避難経路 information can guide panicked guests efficiently, preventing injury and demonstrating the true meaning of responsible hospitality service.

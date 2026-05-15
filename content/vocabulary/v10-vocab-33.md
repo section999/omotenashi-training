@@ -4,9 +4,6 @@ section: 33
 title: バウチャー (bauchaa)
 ---
 
-**Pronunciation:** **bau**-chaa (バウチャー)
-**Register:** Formal to Neutral — commonly used in hotel front desk, travel agency, and tour operator contexts; guests may present バウチャー at check-in or prior to a service.
-
 バウチャー is a loanword from the English "voucher," and in Japanese hospitality it refers to a document — printed or digital — that confirms prepayment for or entitlement to a specific service such as a hotel stay, meal plan, spa treatment, or tour. Unlike a クーポン, which offers a partial discount, a バウチャー typically covers the full cost of a service that has already been purchased, often through a travel agency, online booking platform, or corporate account. Accepting and processing バウチャー correctly is essential for accurate revenue reconciliation and guest satisfaction, as errors can result in guests being charged for services they have already paid for.
 
 When a guest presents a バウチャー, staff should confirm three things: the guest's name matches the バウチャー, the service and date are correct, and the バウチャー has not already been used. If anything appears inconsistent, staff should verify with the issuing agency or booking system before proceeding. After accepting a バウチャー, it should be retained by the property and processed through the appropriate billing channel to collect payment from the issuing party.

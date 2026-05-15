@@ -4,9 +4,6 @@ section: 30
 title: フロント係 (furonto kakari)
 ---
 
-**Pronunciation:** **fu**-ron-to-**ka**-ka-ri
-**Register:** Formal — フロント係 is a professional designation used within the hotel industry. Staff use it in self-introductions, internal communications, and when guests ask who to contact for front desk services. It carries a sense of designated responsibility, and when combined with formal copulas (でございます), it produces a polished and professional self-identification appropriate for any Japanese hotel environment.
-
 フロント係 (furonto kakari) means "front desk staff" or "front desk attendant" — the person assigned to manage the hotel's front desk operations. The term 係 (kakari) specifically denotes a person assigned to or responsible for a particular role or duty, giving フロント係 a precise, role-based meaning that goes beyond simply "someone who works at the front." These staff members are the face of the hotel: they are the first people guests encounter upon arrival and the last they interact with upon departure. Their professionalism, language ability, and interpersonal warmth shape the guest's entire impression of the property.
 
 フロント係 are responsible for a wide range of duties: check-in and check-out, reservation management, payment processing, key handling, guest inquiries, and coordinating with other departments on behalf of guests. In Japanese hospitality culture, the フロント係 must maintain keigo (respectful language) at all times and embody the values of omotenashi — anticipating needs, responding gracefully to requests and complaints, and ensuring every guest feels genuinely welcomed. The self-introduction 私はフロント係でございます is a foundational phrase, but equally important is the ability to say 何かございましたら、いつでもおっしゃってください (please feel free to ask if you need anything at any time).

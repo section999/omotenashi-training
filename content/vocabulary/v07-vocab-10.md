@@ -4,9 +4,6 @@ section: 10
 title: 閉店 (heiten)
 ---
 
-**Pronunciation:** **hei**-ten
-**Register:** Formal — used by hospitality staff to communicate the end of service; requires careful, empathetic framing when delivered to a guest who has missed the service window.
-
 閉店 means "closed" or "closing time," indicating that a restaurant, shop, or facility has ended — or is about to end — its service for the day. In a hospitality context, communicating 閉店 is one of the more sensitive language tasks a staff member faces, because delivering the news that a service is no longer available risks disappointing or frustrating a guest. The omotenashi approach to this situation is to lead with a sincere apology, state the closure clearly and honestly, and then immediately redirect the guest toward an alternative — another dining option, room service, or a nearby restaurant recommendation. A refusal delivered with care and a solution is an act of service; a blunt refusal is not.
 
 Staff should also be aware of the distinction between approaching 閉店 (the facility is about to close and last orders are no longer accepted) and having already reached 閉店 (the facility is now closed). In the former case, there may still be options — extending a brief courtesy, directing to another open facility, or alerting a supervisor. In the latter, the response must be clear and final while remaining warm. Announcing 閉店 in advance — for example, giving guests a 10–15 minute courtesy notice before a restaurant closes — is itself a gesture of omotenashi that many guests appreciate deeply.

@@ -4,9 +4,6 @@ section: 7
 title: 合計 (goukei)
 ---
 
-**Pronunciation:** **gou**-kei
-**Register:** Formal/Neutral — used universally by front desk, restaurant, and retail staff within hospitality settings whenever communicating the final sum owed by a guest.
-
 合計 means the total sum of all charges, representing the final figure that a guest is required to pay after all individual items, taxes, service charges, and applicable discounts have been calculated. In Japanese hospitality, stating the 合計 clearly and accurately is a non-negotiable professional standard — ambiguity around the amount owed causes discomfort and erodes trust. The 合計 is typically the last figure the guest sees before completing payment, so it must be communicated with precision, at a measured pace, and accompanied by a visible display such as a screen or printed receipt to prevent misunderstanding, especially with international guests unfamiliar with large Japanese yen amounts.
 
 The word 合計 appears on printed bills, digital terminals, and in verbal communication alike. Restaurant staff use it when presenting the table bill, while front desk agents invoke it at checkout after completing 精算. In verbal communication, the polite phrasing 合計〇〇円でございます is standard and expected across all hospitality tiers. Staff who state the 合計 confidently and clearly, while pointing to or displaying the figure, create a seamless and professional payment experience.

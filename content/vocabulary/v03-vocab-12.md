@@ -4,9 +4,6 @@ section: 12
 title: シーツ (sheets)
 ---
 
-**Pronunciation:** **shii**-tsu
-**Register:** Neutral — standard housekeeping and guest service vocabulary; used in both spoken interactions with guests and internal staff communications.
-
 シーツ refers to bed sheets — the fitted and flat linens that cover the mattress and are laid over the sleeper. In Japanese hotel operations, シーツ are changed according to a defined schedule, typically between every guest stay for standard turnover, and on request during longer stays. Cleanliness standards around シーツ are particularly high in Japanese hospitality, where guests place great weight on hygiene and freshness. Stained, wrinkled, or improperly made beds are among the most frequently cited negative comments in hotel reviews, making シーツ management a genuinely important skill for housekeeping staff.
 
 Guests may request シーツ交換 (sheet replacement) mid-stay, especially during extended bookings. Staff should handle this request immediately using the phrase シーツを交換いたします. In some eco-conscious or boutique properties, guests are given the option to opt out of daily シーツ replacement as part of a sustainability initiative — staff should be able to explain this policy clearly if a guest asks about it.

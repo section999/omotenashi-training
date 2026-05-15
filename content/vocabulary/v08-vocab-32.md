@@ -4,9 +4,6 @@ section: 32
 title: 外 (soto)
 ---
 
-**Pronunciation:** so-**to**
-**Register:** Neutral to Formal — used in hotel contexts to indicate locations or amenities that are outside the building, in outdoor areas, or beyond an interior space.
-
 外 (soto) means "outside" or "exterior," and is the essential counterpart to 中 (naka, inside). In hotel service, 外 is used whenever a guest needs to be directed to an outdoor smoking area, a garden, a car drop-off zone, an outdoor pool, or any facility that requires leaving the building's interior. The distinction between 中 and 外 is especially important in large hotel complexes where guests may not know which amenities are indoors versus outdoors. When staff say 外にございます, they are implicitly alerting the guest to check weather conditions and potentially prepare accordingly — a thoughtful nuance that reflects omotenashi.
 
 Beyond simple directional use, 外 carries broader cultural relevance in Japanese hospitality. The concept of 内 (uchi, inside / our group) versus 外 (soto, outside / beyond) is foundational to Japanese social hierarchy and hospitality etiquette, though in a hotel navigation context it is used in its straightforward physical sense. When giving 外 directions, staff add value by specifying exactly which exit to use (正面玄関を出てすぐ右, immediately right after the main entrance) and, where relevant, what landmarks to look for. Proactively advising guests of the weather or providing an umbrella when directing them outside is a premium example of kikubari built on the use of 外.

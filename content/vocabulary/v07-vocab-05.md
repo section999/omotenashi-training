@@ -4,9 +4,6 @@ section: 5
 title: 地図 (chizu)
 ---
 
-**Pronunciation:** **chi**-zu
-**Register:** Formal/Neutral — used across all levels of hospitality service when directing guests to external destinations; the word itself is neutral, but surrounding language should remain formal.
-
 地図 means map, and in the hotel context it is an indispensable communication tool that bridges the gap between a guest's unfamiliarity with the local area and their desire to explore independently. High-quality, clearly annotated hotel area maps are a hallmark of well-prepared hospitality establishments in Japan, where walking to stations, restaurants, shrines, and tourist spots is common. Offering a map proactively — before a guest has to ask — embodies the anticipatory spirit of omotenashi: perceiving a need and fulfilling it without being prompted. Staff who can use a physical map to trace a route, mark a destination with a pen, and verbally explain landmarks simultaneously provide a far richer experience than those who simply hand over a map without explanation.
 
 When using a map to guide a guest, best practice is to orient the map in the direction the guest is facing, mark the hotel's current location clearly, and identify one or two prominent landmarks on the route before indicating the destination. For foreign guests, bilingual maps (日英両語) are strongly preferred. Digital alternatives such as directing guests to Google Maps have their place, but a well-handled physical map interaction remains more personal and is often better remembered by guests.

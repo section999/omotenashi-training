@@ -4,10 +4,6 @@ section: 4
 title: こんばんは (konbanwa)
 ---
 
-**Pronunciation:** ko-n-ba-n-**wa** — the *n* before *ba* is a nasal sound; *wa* at the end is the particle は
-
-**Register:** Polite — appropriate for guests and colleagues in the evening. Slightly warmer in tone than *konnichiwa* due to the intimacy of evening; use it with the same care you give any time-specific greeting.
-
 **こんばんは** is the standard evening greeting in Japanese, used from approximately 6:00 PM onward — or whenever the shift from afternoon to evening is clearly felt. It carries a slightly quieter, more reflective warmth than the daytime greetings: evening arrivals often involve guests who are tired from travel or full from a day of activity, and *konbanwa* acknowledges that temporal shift.
 
 In hospitality, the evening greeting window is particularly important because it often coincides with the most sensitive arrival moments: guests checking in after a long journey, guests returning from dinner, or late-night arrivals who have been traveling for many hours. A well-delivered *konbanwa* — with genuine warmth and a calm tone — signals that the property is still fully attentive, regardless of the hour.

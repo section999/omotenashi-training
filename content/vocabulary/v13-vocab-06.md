@@ -4,9 +4,6 @@ section: 6
 title: 勤務 (kinmu)
 ---
 
-**Pronunciation:** **kin**-mu
-**Register:** Formal — used in official workplace contexts, HR documentation, labour law discussions, and formal reports about working conditions.
-
 勤務 refers to the act or period of performing one's work duties in an official capacity. It is a more formal and legally resonant word than everyday terms like シフト or 仕事, and it appears frequently in employment contracts, labour regulations, and internal policy documents for hotels and hospitality businesses. In Japan's service industry, where punctuality and professionalism are paramount, 勤務 carries the connotation of dutiful, responsible service — not just showing up, but actively fulfilling one's professional obligations throughout the working period.
 
 Managers in hotels and ryokan use 勤務 when discussing attendance records, evaluating staff reliability, or setting expectations about conduct during working hours. Phrases such as 勤務態度 (work attitude) and 勤務時間 (working hours) are standard in performance review contexts. Employees are expected to maintain a professional demeanour for the entire duration of their 勤務, which in Japanese hospitality culture includes appearance, speech style, and attentiveness to guests.

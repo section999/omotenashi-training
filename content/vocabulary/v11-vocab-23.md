@@ -4,9 +4,6 @@ section: 23
 title: ご連絡 (go-renraku)
 ---
 
-**Pronunciation:** go-**ren**-ra-ku
-**Register:** Formal — the honorific prefix ご (go) elevates this from the plain 連絡 (renraku, contact/communication) to a polite form suitable for guest-facing use. Staff use ご連絡 when speaking about communication with or from guests, while 連絡 without the honorific may appear in internal team messages and briefing notes.
-
 ご連絡 refers to any act of communication or contact — a phone call, email, written notice, or message — especially in professional or formal contexts. In Japanese hospitality, maintaining timely and clear ご連絡 is a core service responsibility. Whether informing a guest of a change to their reservation, updating a colleague about a guest's request, or following up after a problem has been resolved, prompt ご連絡 demonstrates reliability and respect for the guest's time.
 
 Staff encounter ご連絡 in a range of standard hospitality phrases: ご連絡をお待ちしております (we look forward to hearing from you), ご連絡いただきありがとうございます (thank you for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These expressions are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. The consistent use of ご連絡 also signals to guests that the hotel values ongoing communication and welcomes future contact.

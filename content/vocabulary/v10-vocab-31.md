@@ -4,9 +4,6 @@ section: 31
 title: 宿泊税 (shukuhaku zei)
 ---
 
-**Pronunciation:** shu-ku-**ha**-ku-ze-i (しゅくはくぜい)
-**Register:** Formal — used in official billing, regulatory communication, and guest-facing explanations; distinct from general consumption tax.
-
 宿泊税 is composed of 宿泊 (shukuhaku), meaning "lodging" or "overnight stay," and 税 (zei), meaning "tax." It is a local government tax levied on hotel and inn guests based on the room rate per person per night, and the applicable amount varies by municipality and price tier. Major Japanese cities such as Tokyo and Osaka have enacted their own 宿泊税 ordinances, reflecting the growth of inbound tourism and the need to fund local infrastructure and tourism promotion. Because rates differ by city and can change, hospitality staff must stay informed of current local regulations to quote accurate totals to guests.
 
 In hotel operations, 宿泊税 is typically collected by the accommodation on behalf of the local government and remitted periodically. Staff should disclose the 宿泊税 at check-in and on the final bill, specifying it as a separate line item from both サービス料 and 消費税. For guests staying multiple nights or booking multiple rooms, the cumulative 宿泊税 can be a noticeable addition to the bill, so proactive communication helps avoid confusion at checkout.

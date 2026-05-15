@@ -4,9 +4,6 @@ section: 4
 title: ビザ (biza)
 ---
 
-**Pronunciation:** **bi**-za
-**Register:** Neutral — a loanword used in formal, official, and everyday travel contexts.
-
 ビザ is borrowed from the English word "visa" and refers to the official endorsement stamped or affixed in a passport that grants a foreign national permission to enter and remain in a country for a specified period. Japan offers multiple visa categories, including tourist visas, work visas, student visas, and visa-exempt entry agreements with many countries. Hospitality professionals should have a basic awareness of visa categories, as they affect the length of a guest's stay and whether an extension is possible. Guests sometimes inquire at hotel front desks about visa-related concerns, and knowing how to refer them to the correct authority — such as the nearest immigration office — is an important service skill.
 
 While hotel staff are not immigration officers and cannot provide legal advice, they should know the difference between common visa types and understand that visa-exempt visitors, such as many European and American passport holders, can stay in Japan for up to 90 days without a visa. If a guest appears confused about their visa status, the appropriate response is to politely direct them to the Immigration Services Agency of Japan. Keeping a list of relevant government contacts at the front desk is a practical measure for well-prepared hospitality properties.

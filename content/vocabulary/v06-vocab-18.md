@@ -4,9 +4,6 @@ section: 18
 title: 利用 (riyou)
 ---
 
-**Pronunciation:** **ri**-you
-**Register:** Formal — 利用 is a Sino-Japanese (漢語) word that sits in the formal register and is preferred over the more casual 使う (tsukau, to use) in guest-facing service language. It appears consistently in signage, announcements, and staff speech throughout Japanese hospitality: 「ご利用ありがとうございます」 (thank you for using our services) is one of the most ubiquitous phrases in Japanese customer service.
-
 利用 (利用) combines the characters for "benefit/profit" (利) and "use" (用), together meaning "to make use of" in a purposeful, beneficial sense. In hospitality, it subtly frames the act of using a service or facility as something the property has prepared for the guest's benefit — a nuance absent in the everyday word 使う. This framing aligns with the omotenashi philosophy of anticipating and serving guests' needs. Understanding 利用 and its honorific form ご利用 is essential for any hospitality professional because it appears in nearly every formal guest communication.
 
 Staff use 利用 when explaining what facilities or services guests may access: 「大浴場はご自由にご利用いただけます」 (the large communal bath is available for your free use) or 「コンシェルジュサービスをご利用ください」 (please make use of the concierge service). It also appears in usage restrictions: 「プールのご利用は午後9時までとなっております」 (pool use is available until 9 PM). The prefix ご is added when referring to the guest's use of the hotel's services — always present in polite guest-facing speech.

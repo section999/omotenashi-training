@@ -4,9 +4,6 @@ section: 24
 title: 警告 (keikoku)
 ---
 
-**Pronunciation:** **kei**-ko-ku
-**Register:** Formal — used in official safety communications, emergency announcements, warning signage, and written notices where the risk level is serious and requires urgent guest attention.
-
 警告 (keikoku) means warning — a formal, serious alert that a significant or potentially imminent hazard exists. Positioned in the Japanese safety communication hierarchy between 注意 (caution, moderate risk) and 危険 (danger, severe/life-threatening risk), 警告 signals that the situation demands immediate action or strict avoidance, though the hazard may not yet be actively occurring. In hotel safety signage, 警告 labels appear on high-voltage electrical panels, machinery with moving parts, areas with extreme heat, chemical storage rooms, and high-risk swimming areas. The word derives from 警 (to alert, to guard) and 告 (to inform, to announce), capturing the dual purpose of both alerting and informing.
 
 In practice, hotel staff may issue a verbal 警告 when observing a guest engaging in genuinely risky behaviour — for example, attempting to enter a restricted mechanical area, ignoring pool depth indicators, or handling equipment incorrectly in a cooking class. The communication should be firm but respectful: the guest must understand the seriousness of the risk without feeling humiliated. Written 警告 notices in hotels must comply with the visual standards set by Japanese Industrial Standards (JIS), which specify the use of an orange triangle symbol for 警告 level hazards, distinguishing them visually from the yellow 注意 and red 危険 symbols. Staff responsible for safety compliance must regularly audit that all 警告 signs are visible, legible, and correctly positioned.

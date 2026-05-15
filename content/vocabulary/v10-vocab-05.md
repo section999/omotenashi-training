@@ -4,9 +4,6 @@ section: 5
 title: 後払い (atobarai)
 ---
 
-**Pronunciation:** a-to-**ba**-ra-i
-**Register:** Formal — used by front desk staff, restaurant supervisors, and billing departments when arranging payment terms for corporate accounts, VIP guests, or services billed to the room.
-
 後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays where room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended more readily to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs whose accounts are managed through the concierge. The key professional responsibility is ensuring that proper documentation — a signed agreement, purchase order, or registered credit card — is in place before service is rendered under a 後払い arrangement.
 
 Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, which is then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event, and payment is expected within an agreed number of business days. Staff must track all 後払い accounts carefully and flag overdue balances promptly. The hospitality principle of anticipating guest needs still applies — proactively preparing the final bill before the guest arrives at checkout is a professional standard.

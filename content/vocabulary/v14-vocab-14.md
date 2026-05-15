@@ -4,9 +4,6 @@ section: 14
 title: ガイド (gaido)
 ---
 
-**Pronunciation:** **gai**-do
-**Register:** Neutral — used freely across hospitality settings, from hotel concierge desks to tour operators and audio guide rental counters.
-
 ガイド (gaido) is a loanword from English "guide" and refers both to the person who leads tours and to the informational material — such as a guidebook or audio device — that explains a destination. In Japan's tourism industry, professional tour guides (観光ガイド, kankoukyaku gaido) are often licensed, particularly for certain cultural sites and national parks, and their expertise is considered part of the overall quality of service. Guests who book guided tours place trust in the ガイド to manage timing, interpret cultural context, and ensure a safe and enriching experience.
 
 Hotel staff frequently encounter questions about ガイド services and must be prepared to explain options clearly. Some properties offer in-house guided experiences or maintain relationships with reputable ガイド agencies. When recommending, staff might say 「ガイドをご依頼なさいますか？」("Would you like to arrange a guide?") or point guests toward 音声ガイド (onsei gaido, audio guide) rental desks at major museums. Understanding the difference between a general 案内 (annai, guidance/information) and a specialist ガイド helps staff match the right service to each guest's needs.

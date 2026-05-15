@@ -4,9 +4,6 @@ section: 7
 title: 注文 (chuumon)
 ---
 
-**Pronunciation:** **chuu**-mon
-**Register:** Formal — the standard term for placing or receiving an order in any hotel or restaurant context; used by both guests and staff, though the phrasing differs by role.
-
 注文 means an order — the act of a guest selecting and requesting specific food or beverages from the menu. In Japanese restaurant service, the order-taking process is treated with considerable care and formality: a server approaches only when the guest signals readiness, confirms each item clearly, and often repeats the order back to ensure accuracy. This repetition is not mere bureaucracy but a reflection of the hospitality value of 確認 (kakunin — confirmation), which prevents errors that could disappoint a guest. Missing or incorrect items are considered significant service failures in Japanese dining culture.
 
 The vocabulary and grammar used when taking an order reveals a server's level of training. ご注文をお伺いいたします — using the deeply humble form お伺いいたします — signals to the guest that their selection is an honor to receive. After writing down the order, confirming with ご注文をご復唱いたします (I will repeat your order) is common practice in formal hotel restaurants. Staff should also be prepared to answer questions about dishes during the order-taking process, which requires solid knowledge of the menu.

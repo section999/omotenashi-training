@@ -4,9 +4,6 @@ section: 3
 title: ロビー (robii)
 ---
 
-**Pronunciation:** ro-**bii**
-**Register:** Formal — used naturally by all front-facing hotel staff; the term appears in guest communication, signage, and internal coordination throughout a property.
-
 ロビー is a loanword from English ("lobby") and denotes the central public area of a hotel where guests arrive, check in, wait, and gather. In the philosophy of omotenashi, the lobby is far more than a transitional space — it is the stage on which the guest's very first impression of the hotel is formed. Cleanliness, ambient music, seasonal flower arrangements, and the attentive presence of staff all contribute to whether the lobby communicates warmth and refinement. Front-line staff stationed in or near the lobby must be prepared to greet, direct, and assist at any moment, without waiting to be asked.
 
 Operationally, the lobby serves as a hub for multiple services: concierge assistance, luggage storage coordination, waiting areas for tours and taxis, and access to the front desk. When directing guests to meet others or wait for arrangements, using ロビー as a reference point is natural and immediately understood. Phrases anchoring a rendezvous point in the lobby (「1階のロビーでお待ちください」) are standard in telephone communication, wake-up call follow-ups, and tour preparation coordination.

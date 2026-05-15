@@ -4,9 +4,6 @@ section: 8
 title: 補充 (hojuu)
 ---
 
-**Pronunciation:** ho-**juu**
-**Register:** Formal — used by housekeeping staff in internal checklists, verbal reporting to supervisors, and polite guest-facing explanations about amenity restocking.
-
 補充 means replenishment or restocking and refers to the act of refilling or replacing consumable items in a guest room or facility. In the hotel and ryokan context, 補充 is performed every time a room is serviced and covers a wide range of items: toiletries such as shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The thoroughness and anticipation behind 補充 is a direct expression of omotenashi — ideally, a guest should never notice that an item is running low, because it has already been refilled before the shortage becomes apparent.
 
 In daily operations, housekeeping staff use printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests that a particular item be replenished — for instance, asking for more green tea packets or an extra roll of toilet paper — staff should respond with immediate confirmation and follow through without delay. Clear internal communication about 補充 status also helps prevent the embarrassment of a guest discovering an empty dispenser or depleted supply.

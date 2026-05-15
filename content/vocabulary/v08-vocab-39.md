@@ -4,9 +4,6 @@ section: 39
 title: 案内板 (annaiban)
 ---
 
-**Pronunciation:** an-**nai**-ban
-**Register:** Neutral to Formal — used when referring to a fixed information board or directional signage display installed in a hotel or facility to help guests orient themselves and locate services.
-
 案内板 combines 案内 (annai, guidance / information) with 板 (ban, board / panel), creating the term for a fixed directional sign or information display panel. Unlike フロアマップ (a portable printed map) or 案内図 (a detailed guide diagram), 案内板 refers specifically to a static physical sign mounted on a wall, pillar, or stand — the kind of board that lists floor-by-floor facilities, shows directional arrows to key areas, or displays current events and announcements. In a hotel setting, 案内板 boards are installed at the entrance, in the lobby, at elevator landings, and at major corridor junctions to help guests navigate without needing to ask staff for every destination.
 
 Proactively directing guests to the 案内板 is an efficient and respectful service technique. When a guest asks a question that the board answers — such as which floor the restaurant is on, or what time the pool opens — a skilled staff member says フロアの施設は案内板でご確認いただけます (you can check the floor facilities on the information board) while walking the guest to it and briefly explaining how to read it. This empowers the guest to find answers independently while demonstrating attentiveness. In event-heavy hotels, 案内板 also serves a dynamic function: it is where banquet hall assignments, wedding receptions, and conference schedules are posted, making it a critical daily reference for both guests and staff.

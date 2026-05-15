@@ -4,9 +4,6 @@ section: 9
 title: 不在 (fuzai)
 ---
 
-**Pronunciation:** **fu**-zai
-**Register:** Formal — used in guest-facing and internal contexts to explain someone's absence; always followed immediately by an alternative offer in professional hotel communication.
-
 不在 means that a person is not present, unavailable, or away from their post — unable to take a call or attend to a matter at that moment. In Japanese hospitality telephone etiquette, 不在 is never delivered as a final answer; it always functions as the beginning of a service response, not the end of one. The moment a staff member says 担当者はただいま不在でございます (the person in charge is currently unavailable), they are expected to follow up seamlessly with an alternative — offering to take a message, arranging a callback, or connecting to a colleague. This reflexive continuation reflects the omotenashi principle that the guest's need persists regardless of any individual's availability.
 
 The word 不在 can describe temporary unavailability (stepped away from the desk, on another call) or longer absences (out of the office, on a day off), and the follow-up offer should reflect the likely wait time accordingly. Informing a guest that the 担当者 is away on a day off versus briefly away from the phone requires different alternative solutions, and a skilled staff member will communicate this distinction without over-explaining. 不在 is also used in the compound 留守番電話 (voicemail/answering machine), which literally means "telephone for guarding the house in one's absence."

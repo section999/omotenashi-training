@@ -4,9 +4,6 @@ section: 26
 title: 為替 (kawase)
 ---
 
-**Pronunciation:** ka-**wa**-se
-**Register:** Formal — 為替 is a financial and commercial term most commonly encountered in banking, foreign exchange, and international hospitality contexts. Staff at hotels, airports, and financial institutions use it regularly when handling foreign currency transactions. In everyday speech, guests may simply ask レートはいくらですか, but staff should be able to use the full term 為替レート with confidence in both spoken and written communication.
-
 為替 refers to the mechanism of converting one currency into another, and in hospitality it is most frequently used as part of the compound 為替レート (exchange rate) — the numerical value applied when converting a guest's foreign currency into Japanese yen. The exchange rate is not fixed; it changes continuously based on global financial markets, and hotels or exchange counters that accept 外貨 must update their posted rates daily. A staff member who quotes an outdated or incorrect 為替レート, even inadvertently, may cause the hotel to incur a financial loss or may overcharge the guest — both of which damage trust and require remediation.
 
 In practical terms, staff working at properties that handle 外貨 payments should know where to find the day's official 為替レート (typically from a bank or financial service provider the hotel is affiliated with), how to apply it to a payment calculation, and how to display or communicate it clearly to guests. Posting the rate visibly — 本日の為替レートはこちらです — reduces misunderstandings and allows guests to make informed decisions about whether to pay in foreign currency or convert at a separate exchange counter. If a guest disputes the rate, always refer to the displayed official source rather than arguing from memory.

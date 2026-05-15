@@ -4,9 +4,6 @@ section: 18
 title: 朝食付き (choushoku tsuki)
 ---
 
-**Pronunciation:** choo-**sho**-ku tsu-ki
-**Register:** Neutral — 朝食付き is a standard, widely understood phrase used in hotel plan names, reservation confirmations, and everyday guest communication. It requires no register adjustment and appears identically in written brochures and spoken front-desk interactions. In formal speech, staff embed it in polite sentence structures without changing the phrase itself.
-
 朝食付き (choushoku tsuki) means "with breakfast included" and designates a booking plan in which the morning meal is provided as part of the accommodation charge. In Japanese hospitality, breakfast — whether a Japanese-style washoku spread at a ryokan or a Western-style buffet at a city hotel — is considered an important part of the guest experience and often a key reason guests choose one property over another. Staff who can clearly confirm and elaborate on the breakfast provision help guests feel confident and cared for from the moment of check-in.
 
 When communicating about a 朝食付き plan, effective hotel staff go beyond simply confirming the inclusion; they provide actionable details such as the breakfast location, service hours, and style of food offered. The full confirmation — 朝食は7時から9時まで、2階レストランにてお召し上がりいただけます — answers the questions the guest will almost certainly ask next, reducing follow-up inquiries and creating a smooth, professional interaction. At ryokan in particular, breakfast timing may require advance coordination, and mentioning this proactively demonstrates attentiveness.

@@ -4,9 +4,6 @@ section: 9
 title: 休憩 (kyuukei)
 ---
 
-**Pronunciation:** **kyuu**-kei
-**Register:** Neutral — used naturally by all staff and managers when discussing scheduled rest periods during a working shift.
-
 休憩 refers to a break period during work — a designated time when employees step away from their duties to rest, eat, and recharge. In Japan, 休憩 time is legally regulated: the Labour Standards Act requires at least a 45-minute break for shifts exceeding 6 hours, and at least 60 minutes for shifts exceeding 8 hours. For hospitality workers — who are often on their feet throughout a shift, managing guest requests and maintaining high service standards — 休憩 is not a luxury but a necessity for sustained performance. Hotels and ryokan typically stagger break times across departments to ensure service continuity.
 
 Culturally, Japanese employees tend to be conscientious about not taking breaks that are too long or too frequent, as this could be seen as a lack of commitment. At the same time, responsible managers actively encourage their team to take 休憩 properly, recognising that rested staff deliver better service. During 休憩, it is common to step to a designated staff area, eat a meal, or simply sit quietly — away from the public areas and guest sight lines.

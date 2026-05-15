@@ -4,9 +4,6 @@ section: 10
 title: 最上階 (saijoukai)
 ---
 
-**Pronunciation:** sai-**jou**-kai
-**Register:** Neutral to Formal — used by concierge and front desk staff when directing guests to premium or destination facilities; carries a slight prestige connotation that aligns with elevated hospitality language.
-
 最上階 (saijoukai) means "the top floor" and carries both a navigational and aspirational quality in Japanese hospitality. Unlike a specific floor number (十五階、二十階), 最上階 is relative — it always means the highest floor in the building, wherever that happens to be. This makes it particularly useful for directing guests to premium amenities that are intentionally placed at the summit of the property: sky lounges, rooftop bars, observation decks, executive floors, and top-tier suites. In Japanese hospitality culture, the top floor represents exclusivity and distinction, and the language used to describe it should reflect that elevated status.
 
 When directing guests to 最上階, staff should always mention the elevator and confirm the button or floor number to press, since "top floor" is a concept but the elevator requires a specific number. A phrase like 最上階の〇〇階でございます naturally bridges the evocative word with the practical information. Mentioning the view (眺望がすばらしいです) or any amenities awaiting the guest on the top floor turns a simple directional exchange into a moment of anticipation-building — a hallmark of world-class omotenashi.

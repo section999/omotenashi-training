@@ -4,9 +4,6 @@ section: 33
 title: 連泊 (renpaku)
 ---
 
-**Pronunciation:** **ren**-paku
-**Register:** Formal/Neutral — used across all hotel departments when coordinating services, billing, and housekeeping schedules for guests staying multiple consecutive nights.
-
 連泊 (renpaku) combines 連 (ren, consecutive / continuous) with 泊 (paku, overnight stay), creating a term meaning "consecutive-night stay" or "multi-night stay." When a guest books more than one night in a single reservation without checking out in between, that is a 連泊. In Japanese hotel culture, 連泊 guests receive special consideration across multiple departments: housekeeping may adopt a lighter daily service routine (replacing towels without full room cleaning), the restaurant may offer personalized meal recommendations to prevent monotony, and the front desk tracks any evolving preferences. The ability to manage 連泊 guests smoothly reflects the hotel's capacity for long-term attentive care, which is deeply rooted in the omotenashi philosophy.
 
 Operationally, 連泊 affects room assignments (the guest should ideally not be moved between rooms mid-stay), billing (charges accumulate daily and are settled at checkout rather than nightly), and housekeeping frequency. The key phrase for addressing this proactively is 連泊中のお部屋の清掃についてお伺いしてもよろしいでしょうか (may I ask about your preferences for housekeeping during your consecutive-night stay?). This check-in conversation is a best practice at quality Japanese hotels, ensuring the guest's privacy and personal comfort preferences are respected throughout the stay. Some guests, particularly business travelers on 連泊, prefer to maintain their personal organization in the room and welcome only towel and amenity replenishment.

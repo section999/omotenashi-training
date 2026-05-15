@@ -4,9 +4,6 @@ section: 38
 title: 聞き取れません (kikitorimasen)
 ---
 
-**Pronunciation:** ki-ki-to-re-**ma**-sen
-**Register:** Polite — used by hotel telephone staff when audio quality or the caller's speech makes communication difficult; requires a softening prefix to maintain professionalism.
-
 聞き取れません literally means "I am unable to make out what is being said," and it is the appropriate expression when a staff member cannot physically hear or aurally distinguish the caller's words. This differs from わかりません (I do not understand), which relates to comprehension of meaning rather than audibility. On hotel telephone lines, poor connections, background noise, or a caller speaking very quietly can make it impossible to capture critical details such as room numbers, names, or arrival times. Using the correct phrase is important because it diagnoses the communication problem accurately and signals to the caller exactly what kind of clarification is needed. Mistaking an audibility problem for a comprehension problem — or vice versa — can frustrate the caller and damage the professional impression of the property.
 
 In a hospitality telephone setting, 聞き取れません is almost always preceded by a softening phrase such as 恐れ入りますが (I humbly beg your pardon) or 申し訳ございませんが (I sincerely apologize) to cushion the difficulty. A complete polite expression would be 恐れ入りますが、お声が聞き取れません — "I beg your pardon, but I am having difficulty hearing you." Staff should never simply say 聞き取れません alone, as it can sound abrupt. When the problem is persistent, offering to call back on a clearer line (折り返しお電話させていただけますか) is a considerate alternative that shows initiative.

@@ -4,9 +4,6 @@ section: 28
 title: 会話 (kaiwa)
 ---
 
-**Pronunciation:** kai-**wa**
-**Register:** Neutral — a general term for conversation used across all hospitality contexts, from staff briefings to guest interactions, and often appears in compound phrases describing language capability.
-
 会話 (会話) means conversation or dialogue, formed from 会 (to meet, to come together) and 話 (speech, talk). In the hospitality industry, 会話 is more than the exchange of words — it encompasses active listening, appropriate pacing, the right level of formality, and the ability to read a guest's emotional state. A skilled hotel staff member understands that effective 会話 involves not just vocabulary but tone, pausing to confirm understanding, and adapting language to the guest's needs. In training contexts, 会話スキル (conversation skills) is a core competency evaluated in staff assessments.
 
 When assisting international guests, 会話 ability becomes especially important in situations where neither party is speaking their first language. Hotel staff are encouraged to speak slowly and clearly, avoid idiomatic expressions that may be misunderstood, and use confirming phrases such as ご理解いただけましたでしょうか (may I ask whether that was clear to you). The goal is not perfection in grammar but ensuring that the guest feels heard and helped. Even brief, well-managed 会話 can dramatically improve a guest's overall impression of a property.

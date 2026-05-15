@@ -4,9 +4,6 @@ section: 11
 title: 身分証明書 (mibun shomeisho)
 ---
 
-**Pronunciation:** mi-bun-shō-**mei**-sho
-**Register:** Formal — used by front desk staff when requesting identification from guests; applies to both domestic and international guests, unlike パスポート which is specific to foreign nationals.
-
 身分証明書 means identification document and serves as the umbrella term for any official document that establishes a person's identity. While international guests typically present a パスポート, domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued ID. Understanding this distinction allows staff to request identification from all guests, regardless of nationality, using appropriate language. The need to verify identity is both a legal requirement in Japan and an important security measure for the property.
 
 When requesting 身分証明書, the same humble language principles that apply to パスポート requests hold true — the key phrase is 身分証明書を拝見してもよろしいでしょうか. Because the term is longer and less familiar to some international guests, staff working in multilingual environments may supplement the verbal request with a written prompt or a gesture toward the appropriate document type. After viewing the ID, it should be returned immediately and the guest thanked for their cooperation.

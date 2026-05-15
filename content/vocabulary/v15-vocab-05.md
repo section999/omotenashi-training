@@ -4,9 +4,6 @@ section: 5
 title: クリーニング (kuriiningu)
 ---
 
-**Pronunciation:** ku-**rii**-nin-gu
-**Register:** Neutral — widely understood and used in both formal hotel service contexts and general conversation.
-
 クリーニング is a loanword from English "cleaning" that in Japanese specifically denotes professional dry cleaning — a process that uses chemical solvents rather than water to clean garments. It is the appropriate service for suits, blazers, formal dresses, wool coats, and other items whose care labels indicate they cannot be washed with water. In Japanese hotels, particularly business and luxury properties, offering a クリーニング service is considered an essential guest amenity that enables travelers to maintain a polished, professional appearance throughout their stay. Garments treated with クリーニング are typically returned pressed and covered in protective plastic wrapping, reflecting the meticulous standards Japanese hospitality demands.
 
 Hotel staff should be able to clearly differentiate クリーニング from regular ランドリー service when guests inquire, and should proactively suggest クリーニング for high-value or delicate items. Turnaround time for クリーニング is generally longer than standard laundry — often one to two days — so informing guests in advance helps them plan their wardrobe accordingly. Some hotels partner with off-site クリーニング shops, so items may need to leave the property; staff should communicate this transparently.

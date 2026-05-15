@@ -4,9 +4,6 @@ section: 22
 title: 返金 (henkin)
 ---
 
-**Pronunciation:** **hen**-kin
-**Register:** Formal — 返金 is a professional term used in financial and guest-service contexts. It is appropriate in written communications, formal explanations, and transactional discussions. Guests may use it directly when requesting a refund, and staff should respond with clear, polite, and structured information about eligibility, timing, and method.
-
 返金 means the return of money to a guest, most commonly arising from a cancellation, an overpayment, a billing error, or a failed service. In Japanese hospitality, the 返金 process must be handled with both precision and empathy — the guest is often in a position of dissatisfaction or inconvenience, and how the 返金 is managed will significantly influence whether that dissatisfaction is resolved or compounded. A smooth and transparent 返金 process, communicated proactively and completed within the stated timeframe, can actually strengthen the guest's trust in the establishment.
 
 When processing a 返金, staff must confirm three key pieces of information: the eligible amount (based on the cancellation policy or billing correction), the method of return (back to the original card, by bank transfer, or in cash), and the expected timeline (〇営業日以内に返金いたします). This three-point structure prevents follow-up complaints. In cases where a 返金 cannot be processed immediately — for example, because card refunds take several business days — staff should provide written confirmation of the 返金 details so the guest has a record to refer to.

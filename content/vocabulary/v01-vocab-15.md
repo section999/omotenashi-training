@@ -4,10 +4,6 @@ section: 15
 title: お手伝いしましょうか (otetsudai shimashou ka)
 ---
 
-**Pronunciation:** o-te-tsu-da-i-shi-ma-shō-ka — *tetsudai* is four syllables; *shō* is a long vowel; the *ka* at the end makes it a question
-
-**Register:** Polite — appropriate for all guest interactions. The phrase is warm and service-oriented without being overly formal; it fits both standard and upscale hospitality settings.
-
 **お手伝いしましょうか** means "may I help you?" or "shall I assist you?" It is the proactive, attentive staff member's most useful phrase — offered not in response to a complaint, but in anticipation of a need. The word *tetsudai* (手伝い) means assistance or help, elevated by the honorific *o-* prefix. The *shōmashōka* ending is a polite offer/proposal form: "shall I...?"
 
 The key distinction between this phrase and the more passive "is there anything I can help you with?" (何かお手伝いできることはございますか) is timing. *O-tetsudai shimashō ka* is said proactively, in the moment, when you see a guest who looks like they might need assistance — struggling with luggage, looking around as if searching for something, standing at a confusing junction. It is the phrase of noticed need.

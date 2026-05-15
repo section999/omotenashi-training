@@ -4,9 +4,6 @@ section: 16
 title: 回線 (kaisen)
 ---
 
-**Pronunciation:** **kai**-sen
-**Register:** Neutral to Formal — primarily a technical term used by staff when discussing telephone or internet infrastructure with maintenance teams, IT departments, or guests reporting connectivity issues. It rarely appears in casual conversation but is essential in professional hotel contexts when diagnosing communication problems.
-
 回線 refers to the physical or virtual channel through which telephone calls and internet data are transmitted — in short, the "line" or "circuit." In a hotel environment, 回線 quality directly affects a guest's ability to make calls, access the internet, and conduct business. When a guest reports communication problems, using 回線 precisely signals to internal teams that the investigation is at the infrastructure level, not merely a device or handset issue.
 
 Staff encounter 回線 in contexts such as reporting a guest's phone problem to maintenance (回線の問題を確認いたします — I will check the line), explaining internet speed options at check-in (この部屋の回線は高速です — the line in this room is high-speed), or coordinating with telecoms providers during outages. Knowing this term helps staff communicate more accurately internally and reassures technically informed guests that the problem is being handled at the right level.

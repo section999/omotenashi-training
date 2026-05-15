@@ -4,10 +4,6 @@ section: 12
 title: こちらへどうぞ (kochira e douzo)
 ---
 
-**Pronunciation:** ko-chi-ra-e-dō-zo — *kochira* is three syllables; *e* is the directional particle; *dōzo* has a long *ō*
-
-**Register:** Polite — standard in all guest-facing guiding situations. The phrasing is warm and inviting rather than commanding, making it well-suited for hospitality.
-
 **こちらへどうぞ** means "please come this way" — *kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that initiates movement: you say it as you begin to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way" — it is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
 
 What distinguishes excellent guiding from adequate guiding in Japanese hospitality is the physical component. *Kochira e dōzo* is spoken while extending an open hand (palm up) in the direction of travel — never pointing with a single finger, which is considered impolite. The gesture and the phrase together create a smooth, welcoming invitation for the guest to follow.

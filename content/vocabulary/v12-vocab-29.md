@@ -4,9 +4,6 @@ section: 29
 title: 指示 (shiji)
 ---
 
-**Pronunciation:** **shi**-ji
-**Register:** Formal — used by supervisors, managers, and emergency coordinators when giving authoritative guidance to staff or guests during both routine operations and crises.
-
 指示 means "instruction" or "directive" — a clear, purposeful communication from a person in authority that tells others what to do and, often, how to do it. In hotel operations, 指示 occurs at multiple levels: a manager gives 指示 to a team about service procedures for a VIP arrival, a fire warden gives 指示 to guests during an evacuation, and a chef gives 指示 to kitchen staff about dish preparation. The key distinction between 指示 and mere 案内 (guidance/information) is that 指示 carries an expectation of action — the recipient is expected to comply. In emergency situations, the authority and clarity of 指示 is especially critical, as ambiguous or hesitant instructions can cause confusion that delays evacuation or medical response. Japanese hospitality culture expects staff to follow 指示 from their superiors promptly and to give 指示 to guests with calm confidence when safety requires it.
 
 When issuing 指示 to guests during emergencies, staff must balance firmness with courtesy. The phrase スタッフの指示に従ってください (please follow staff instructions) is commonly used in announcements and evacuation briefings. This phrasing respects guest autonomy while making clear that following staff guidance is the safest course of action. In non-emergency operational contexts, 指示を出す (to issue instructions) and 指示に従う (to follow instructions) are the standard verb phrases. Documentation of 指示 — particularly when delegating tasks to other staff or contractors — helps ensure accountability and prevents tasks from falling through the cracks.

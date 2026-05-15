@@ -4,10 +4,6 @@ section: 5
 title: ありがとうございます (arigatou gozaimasu)
 ---
 
-**Pronunciation:** a-ri-ga-**tō**-go-za-i-ma-su — the *tō* is a long vowel; in natural speech *go-za-i-ma-su* flows together smoothly
-
-**Register:** Polite — the standard polite form for all professional settings. The casual *arigatō* is for friends and family; the intensified past form *arigatō gozaimashita* is used when thanking someone for something completed.
-
 **ありがとうございます** means "thank you," but its usage in Japanese hospitality extends well beyond a reflexive response to a favour. In the omotenashi tradition, gratitude is expressed proactively, genuinely, and with specificity — not just as a social reflex. The phrase itself has an interesting etymology: *arigatai* (ありがたい) historically meant "difficult to exist" or "rare" — implying that what you are thankful for is precious and not to be taken for granted.
 
 This sense of genuine rarity is worth holding onto when using the phrase. In professional hospitality, *arigatō gozaimasu* should sound like it means something — like the guest's presence and patronage are genuinely appreciated. A flat, automatic *arigatō* risks sounding hollow through overuse. Vary your delivery: make eye contact, bow slightly, and give the phrase the weight it deserves.

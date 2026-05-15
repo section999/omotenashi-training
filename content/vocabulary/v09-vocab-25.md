@@ -4,9 +4,6 @@ section: 25
 title: 仮予約 (kari yoyaku)
 ---
 
-**Pronunciation:** ka-ri-**yo**-ya-ku
-**Register:** Neutral to Formal — 仮予約 is a standard operational term used in reservation systems, phone bookings, written correspondence, and front desk interactions. When communicating 仮予約 status to guests, staff should use a polite and informative tone that neither alarrms the guest nor implies the booking is insecure; the goal is to convey the provisional nature while clearly explaining what the guest needs to do to reach 確定 status.
-
 仮予約 (kari yoyaku) means "tentative reservation" or "provisional booking" — a reservation that has been recorded but not yet finalised, typically because payment, written confirmation, or another condition from the guest is still pending. In Japanese hospitality, 仮予約 is a common intermediate state, particularly for group bookings, travel agency reservations, or plans where a deposit is required. The property records the intent to book, sets aside the room or resource conditionally, and waits for the guest or agent to complete the required steps before transitioning the booking to 確定 status.
 
 The critical operational responsibility associated with 仮予約 is communicating and enforcing the confirmation deadline (確認期限). Without a clear deadline, a 仮予約 can sit in limbo indefinitely, blocking inventory that could otherwise be sold to other guests. When informing a guest of their 仮予約 status, staff must always state: what the booking is (仮予約), what is needed to confirm it (payment, written approval, etc.), and by when (the 確認期限 date and time). This three-part communication prevents misunderstandings and ensures the property does not inadvertently lose revenue by holding unconfirmed inventory too long.

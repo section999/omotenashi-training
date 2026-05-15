@@ -4,9 +4,6 @@ section: 5
 title: お繋ぎします (otsunagi shimasu)
 ---
 
-**Pronunciation:** o-tsu-**na**-gi shi-**ma**-su
-**Register:** Formal — this is a guest-facing phrase used exclusively by hotel staff when transferring a call; the fully humble form お繋ぎいたします is preferred in high-end establishments.
-
 お繋ぎします is the standard Japanese hospitality phrase used to inform a caller that they are being transferred or connected to another person or department. In the context of omotenashi, this phrase carries a commitment: the staff member is not simply redirecting a call but taking personal responsibility for ensuring the connection succeeds. It signals attentiveness and control, reassuring the guest that they will not be lost in a transfer loop or left waiting on a dead line. Used at the right moment with the right tone, it transforms a routine call transfer into a smooth and human service experience.
 
 Best practice in Japanese hotel phone etiquette requires that staff name the person or department before using お繋ぎします, so the caller knows exactly who will answer. For example: レストランの予約担当部署にお繋ぎいたします — this gives the guest both the destination and the reason, setting clear expectations. When possible, a warm transfer — where the transferring staff member briefly explains the guest's situation to the receiving party before completing the connection — is considered the gold standard and prevents the guest from having to repeat their inquiry.

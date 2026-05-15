@@ -4,9 +4,6 @@ section: 20
 title: 有料 (yuuryou)
 ---
 
-**Pronunciation:** **yuu**-ryou
-**Register:** Neutral to Formal — 有料 is a standard term used in signage, verbal communication, and billing documentation. In guest-facing speech it appears inside polite structures: 「有料でございます」 or 「別途料金が発生いたします」. While the word itself is neutral in register, how and when staff deliver it — ideally before a service is rendered, not after — is where professionalism is demonstrated.
-
 有料 combines the characters for "existence/having" (有) and "fee/charge" (料), literally meaning "there is a fee." It is the direct counterpart to 無料 (free of charge). In Japanese hospitality culture, transparency about pricing is considered fundamental to trust: surprising a guest with an unexpected charge is one of the most damaging service failures possible. Staff who communicate 有料 clearly and in advance protect both the guest's experience and the property's reputation.
 
 有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry services, and late check-out fees. It is also common in printed in-room materials and on menus. When informing a guest that something is 有料, staff should always mention the price or refer the guest to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; you can check the pricing on the menu).

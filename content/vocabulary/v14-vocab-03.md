@@ -4,9 +4,6 @@ section: 3
 title: パスポート確認 (pasupoto kakunin)
 ---
 
-**Pronunciation:** pa-su-**po**-to ka-**ku**-nin
-**Register:** Formal — used in official check-in procedures and legal compliance contexts.
-
 パスポート確認 is the process of verifying a guest's passport at the time of hotel check-in, border crossing, or entry into certain facilities. In Japan, hotels are legally required to record the passport information of foreign nationals at check-in, making パスポート確認 a routine but essential step in the hospitality workflow. Staff must check that the passport is valid (not expired), that the guest's visa status permits their stay, and that the name on the booking matches the document. Conducting this process with professionalism and a warm demeanour ensures the guest does not feel singled out or suspected.
 
 When performing パスポート確認, it is important to handle passports with care, using both hands when receiving and returning the document — a mark of respect in Japanese service culture. Staff should explain the process clearly and reassure guests that the information is collected solely for legal registration purposes. Having a multilingual explanation card at the front desk can ease any discomfort for international guests unfamiliar with this requirement.

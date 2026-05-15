@@ -4,9 +4,6 @@ section: 23
 title: ドア (door)
 ---
 
-**Pronunciation:** **do**-a
-**Register:** Neutral — ドア is a loanword from English used across all registers without modification. In formal hotel contexts it appears in room orientations, safety briefings, and guest communications. Surrounding sentences should maintain the polite keigo structure appropriate for guest-facing speech.
-
 ドア is a loanword for "door," generally referring to a Western-style hinged or sliding door as distinct from 引き戸 (sliding panel door) or 障子 (paper screen). In hotel and ryokan contexts, the guest room ドア is the primary point of privacy and security, and staff are expected to ensure guests understand how to lock it securely from the inside. Modern hotel rooms typically feature electronic key card locks, where the ドア automatically locks when closed; however, an internal deadbolt or chain (チェーンロック) provides an additional layer of security that guests should be made aware of. In emergencies, staff must also be able to guide guests regarding fire escape routes and not blocking the ドア. Clear, calm communication about ドア operation is a hallmark of professional hospitality.
 
 During room orientation, staff commonly explain: 「ドアはオートロックになっております」 (the door is auto-locking) and 「お部屋の中からはチェーンをかけてください」 (please use the chain lock from inside). Emergency instructions such as 「非常口は廊下の左側にございます」 (the emergency exit is on the left side of the corridor) are often also delivered in conjunction with door-related guidance. When a guest has difficulty with their key card activating the door lock, staff should respond promptly and offer to re-issue the card if necessary.

@@ -322,14 +322,22 @@
       .stats-row { grid-template-columns: 1fr; }
       .stats-row .stat-card:first-child { grid-column: span 1; }
     }
+    .dash-close-btn { position:fixed; top:70px; right:24px; z-index:100; width:36px; height:36px; border-radius:50%; background:var(--bg-tertiary); border:1px solid var(--border-default); color:var(--text-secondary); font-size:1.1rem; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background 0.15s,color 0.15s; }
+    .dash-close-btn:hover { background:var(--border-strong); color:#fff; }
   </style>
+  <link rel="stylesheet" href="../assets/nav.css" />
+  <script src="../assets/nav-template.js"></script>
 </head>
 <body>
 
-<main>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<div id="nav-root"></div>
+<script>document.getElementById('nav-root').innerHTML = renderNav()</script>
+
+<main id="main-content">
   <h1 class="page-title" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">Progress Dashboard</h1>
   <!-- Close button -->
-  <button onclick="if(history.length>1){history.back()}else{location.href='curriculum.html'}" aria-label="Close" style="position:fixed;top:70px;right:24px;z-index:100;width:36px;height:36px;border-radius:50%;background:var(--bg-tertiary);border:1px solid var(--border-default);color:var(--text-secondary);font-size:1.1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background 0.15s,color 0.15s;" onmouseover="this.style.background='var(--border-strong)';this.style.color='#fff'" onmouseout="this.style.background='var(--bg-tertiary)';this.style.color='var(--text-secondary)'">✕</button>
+  <button class="dash-close-btn" onclick="if(history.length>1){history.back()}else{location.href='curriculum.html'}" aria-label="Close">✕</button>
 
   <!-- Save Progress -->
   <div class="section-label">// save progress</div>
@@ -584,6 +592,9 @@ function dashSaveName() {
 })();
 </script>
 
+<script src="../assets/search-init.js"></script>
+<script src="../assets/nav.js"></script>
+<script src="../assets/analytics.js"></script>
 <script>if('serviceWorker' in navigator){navigator.serviceWorker.register('../sw.js').catch(()=>{})}</script>
 </body>
 </html>

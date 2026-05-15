@@ -4,9 +4,6 @@ section: 2
 title: 左 (hidari)
 ---
 
-**Pronunciation:** hi-**da**-ri
-**Register:** Neutral — standard directional vocabulary used by all hospitality staff in both spoken guidance and written signage.
-
 左 (hidari) means "left" and is an indispensable word in Japanese hospitality communication. Whether directing guests from the elevator to their room, guiding visitors from the lobby to the restaurant, or describing an outdoor route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort — vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastery of 左 alongside its partner 右 is a baseline competency for anyone working a guest-facing role.
 
 Left-side directions are especially common in hotel corridors, where rooms are often arranged alternately on both sides of a hallway. Staff should combine 左 with a polite locating phrase such as 左にございます or 左側でございます, and ideally add a distance cue (突き当たりの左、二つ目の扉の左) to make the instruction complete. When accompanying a guest in person, gesturing with an open hand toward the left side simultaneously reinforces comprehension.

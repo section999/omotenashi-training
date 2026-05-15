@@ -4,9 +4,6 @@ section: 20
 title: タクシー (takushii)
 ---
 
-**Pronunciation:** ta-ku-**shii**
-**Register:** Neutral — a standard term used across all hospitality contexts; hotel staff use it daily when arranging transport for guests, booking taxi queues, or recommending alternatives to public transit.
-
 タクシー (takushii) is the Japanese loanword for "taxi" and refers to metered, hired vehicles available for door-to-door transport. In Japan, タクシー services are known for their high cleanliness standards, professional drivers, and, in many cities, automatic door-opening mechanisms (the rear left door opens and closes automatically — guests should never touch it). This distinctive feature often surprises international visitors and is worth mentioning as a cultural note. タクシー fares in Japan are calculated by both distance and time (including time spent in traffic), and starting fares and rate structures vary by region and company.
 
 Hotel staff are regularly involved in タクシー arrangements, from asking the doorman to hail one to calling a taxi dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is the recommended option. Staff should be ready to share the hotel's address card (ホテルの名刺, hoteru no meishi) or a printed destination card with guests to hand to the driver, as verbal communication with drivers may be challenging for non-Japanese speakers. A standard staff phrase is 「タクシーをお呼びいたしましょうか？」("Shall I call a taxi for you?")

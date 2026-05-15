@@ -4,9 +4,6 @@ section: 8
 title: 内訳 (uchiwake)
 ---
 
-**Pronunciation:** u-chi-**wa**-ke
-**Register:** Formal — used by front desk, cashier, and restaurant staff when presenting itemized billing information to guests, particularly during checkout or upon request.
-
 内訳 refers to an itemized breakdown that details each individual charge making up a total bill — room rate, meals, in-room services, taxes, service charges, and any additional fees are listed separately so the guest can see exactly how the total was calculated. In Japanese hospitality, providing a clear 内訳 is a demonstration of transparency and respect for the guest's financial understanding. The omotenashi philosophy places great value on anticipating the guest's need for information, and proactively offering the 内訳 before the guest asks for it is considered a mark of professional excellence. Corporate guests in particular rely heavily on itemized statements for expense reporting and accounting purposes.
 
 In practice, the 内訳 is printed on the 精算書 (settlement statement) or 明細書 (itemized statement) presented at checkout. Restaurant staff may offer a 内訳 when a guest questions a charge, or proactively when the bill includes multiple components. Staff should be able to walk through each line item calmly and explain any charges the guest is unfamiliar with. If a discrepancy is found during review of the 内訳, it should be resolved before finalizing payment rather than after.

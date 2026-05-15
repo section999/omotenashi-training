@@ -4,9 +4,6 @@ section: 13
 title: 宅配便 (takkyuubin)
 ---
 
-**Pronunciation:** tak-**kyuu**-bin
-**Register:** Neutral — used in everyday and professional hospitality contexts when discussing parcel delivery services for guests or staff.
-
 宅配便 (takkyuubin) is Japan's iconic door-to-door parcel delivery service, a system that has become one of the most efficient and reliable logistics networks in the world. The word combines 宅 (taku, meaning home or residence), 配 (hai, meaning distribution), and 便 (bin, meaning service or transport), literally meaning "home delivery service." Major carriers such as Yamato Transport (クロネコヤマト) and Sagawa Express operate 宅配便 networks that allow packages to be sent anywhere in Japan with guaranteed delivery windows — sometimes as precise as a two-hour slot. For international visitors unfamiliar with Japan's postal system, 宅配便 is often a revelation: packages arrive on time, undamaged, and handled with great care.
 
 In hotel hospitality, 宅配便 plays an important role in the guest experience. Many hotels offer forwarding services where guests can ship their luggage directly from the hotel to the airport (called 手荷物宅配, te-nimotsu takkyuu), freeing them to explore the city comfortably on their last day. Staff at the front desk often assist guests in completing 宅配便 slips (宅配伝票, takkyuu denpyou), calculating shipping costs, and tracking shipments. Hotels acting as recipients for guest deliveries must ensure that packages are stored safely and handed over with proper verification. Knowing how to explain 宅配便 services confidently in Japanese is a key hospitality skill.

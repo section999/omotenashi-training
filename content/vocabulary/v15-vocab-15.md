@@ -4,9 +4,6 @@ section: 15
 title: 貴重品 (kichouhin)
 ---
 
-**Pronunciation:** ki-**chou**-hin
-**Register:** Formal — standard term used by hotel staff when advising guests about the management and security of high-value items.
-
 貴重品 (kichouhin) refers to items of significant monetary or personal value, including cash, credit cards, passports, jewellery, electronic devices, and important documents. The word is composed of 貴重 (kichou, meaning precious or valuable) and 品 (hin, meaning item or article). In Japanese hotel culture, guests are routinely reminded to store their 貴重品 in the in-room safe (金庫, kinko) or to deposit them at the front desk for safekeeping. This is not merely a legal precaution; it reflects the hotel's genuine concern for the guest's security and peace of mind.
 
 Hotel staff are trained to handle 貴重品 conversations with both professionalism and sensitivity. Announcing that "the hotel is not responsible for lost valuables left in the room" — while legally necessary — must be delivered in a way that feels caring rather than dismissive. The standard approach is to proactively guide guests: 「貴重品はお部屋の金庫またはフロントにてお預かりできます」 (We can keep your valuables in the room safe or at the front desk). When guests do deposit 貴重品 at the front desk, staff issue a detailed receipt listing each item, which protects both parties. The handling, counting, and return of 貴重品 must always be done in full view of the guest to maintain trust.

@@ -4,9 +4,6 @@ section: 18
 title: 電車 (densha)
 ---
 
-**Pronunciation:** **den**-sha
-**Register:** Neutral — the everyday word for train used comfortably in all hospitality contexts, from casual front-desk conversation to formal written directions in guest information booklets.
-
 電車 (densha) literally means "electric car/vehicle" and refers to electrically powered rail transport — the most dominant and iconic form of urban and intercity travel in Japan. The Japanese rail network is celebrated worldwide for its punctuality (delays of even one minute are formally announced with apologies), its cleanliness, and the sheer density of its coverage. For hotel guests, 電車 is almost always the most efficient way to reach major attractions, airports, and business districts, and advising guests on train routes is one of the most common concierge tasks.
 
 Staff should be comfortable explaining the layered complexity of the 電車 system: the difference between JR lines and private railway operators (私鉄, shitetsu), the distinction between 各駅停車 (kakueki teisha, local trains that stop at every station) and 急行・特急 (express and limited express services), and the key transfer hubs in major cities. A helpful phrase is 「○○駅で乗り換えていただくと便利です」("It is convenient to transfer at XX station"). Knowing which 電車 lines connect directly to the hotel's nearest station greatly reduces guest confusion.

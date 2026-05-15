@@ -4,9 +4,6 @@ section: 37
 title: 暗証番号 (anshou bangou)
 ---
 
-**Pronunciation:** an-shō-**ban**-gō (あんしょうばんごう)
-**Register:** Formal — used in financial and security-sensitive contexts; the term signals to guests that confidential information is being requested and should be handled with care.
-
 暗証番号 is a compound of 暗証 (anshō), meaning "secret code" or "private cipher," and 番号 (bangō), meaning "number." It refers to the personal identification number (PIN) that a guest enters to authorize a card payment or authenticate their identity on a digital system. In Japanese hospitality, protecting a guest's 暗証番号 is not just a procedural requirement but a matter of professional ethics and personal respect — staff must actively create conditions that prevent others from observing the input. This aligns with the omotenashi principle of anticipating the guest's comfort and security needs without being asked.
 
 When a card transaction requires a 暗証番号, staff should orient the PIN pad toward the guest and step back slightly, giving them privacy to enter the number without being observed. Staff should never attempt to see the PIN, never ask the guest to say it aloud, and should ensure no nearby customers or colleagues can view the keypad. If a guest enters an incorrect PIN, the staff member should calmly inform them of the error and allow them to try again, remaining discreet throughout.

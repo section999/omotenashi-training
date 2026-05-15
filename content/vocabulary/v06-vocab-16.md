@@ -4,9 +4,6 @@ section: 16
 title: パスワード (pasuwaado)
 ---
 
-**Pronunciation:** pa-su-**waa**-do
-**Register:** Neutral — a loanword used universally. In hospitality contexts it always appears inside polite grammatical structures: 「パスワードはこちらでございます」 or 「パスワードをお知らせいたします」. The word itself carries no register weight, but how it is delivered — calmly, clearly, with a written copy offered — determines the professionalism of the interaction.
-
 パスワード is the Japanese rendering of the English word "password," adopted as one of many technology-related loanwords that became standard in the digital age. In hotel contexts it refers almost exclusively to the Wi-Fi access password, though it can also apply to digital room safes or online reservation portals. Because passwords often contain a mix of letters, numbers, and symbols, miscommunication is common when they are only spoken aloud, making written delivery an essential hospitality practice.
 
 Staff typically present パスワード on a printed card in the room, on the key envelope, or on a small slip handed to the guest at check-in. When communicating it verbally, staff should speak slowly and offer to write it down. Useful phrases include 「Wi-FiのパスワードはこちらにXXXXとございます」 and 「大文字・小文字にご注意ください」 (please pay attention to uppercase and lowercase letters). In ryokan settings, the password may be brushed calligraphically on a card as part of the aesthetic — a thoughtful detail.

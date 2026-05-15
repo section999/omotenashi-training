@@ -4,9 +4,6 @@ section: 22
 title: お問い合わせ (otoiawase)
 ---
 
-**Pronunciation:** o-**toi**-a-wa-se
-**Register:** Formal — the honorific prefix お (o) marks this as a polite, guest-facing term. It is used universally in Japanese customer service: on phone calls, in emails, at reception desks, and on hotel websites. The plain form 問い合わせ may appear in internal documents or staff briefings, but お問い合わせ is the standard in any context involving guests or clients.
-
 お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is one of the most important terms in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank you for your inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome and appreciated event, not an interruption.
 
 In practice, お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly — rather than the more abrupt 質問 (shitsumon, question) — signals professionalism and sets a courteous tone for the entire interaction.

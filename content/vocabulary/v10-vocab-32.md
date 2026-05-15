@@ -4,9 +4,6 @@ section: 32
 title: クーポン (kuupon)
 ---
 
-**Pronunciation:** **kuu**-pon (クーポン)
-**Register:** Neutral — a widely understood loanword used in retail, dining, and hospitality contexts; appropriate in both formal explanations and casual interactions with guests.
-
 クーポン is a Japanese loanword derived from the English "coupon," referring to a certificate, voucher, or digital code that entitles the holder to a discount, complimentary item, or special benefit. In Japanese hospitality, クーポン appear in many forms — paper coupons distributed in hotel amenity packets, digital codes sent via email or booking platforms, or QR-based promotions on travel apps. They serve as a key marketing tool to attract guests and reward loyalty, and handling them correctly is an important operational skill. The concept aligns with the Japanese value of 割引 (waribiki, discount) while maintaining the dignity of the service exchange.
 
 Staff must verify two things before applying a クーポン: that it is 有効 (valid, i.e., within the expiry date) and that the guest's purchase or service qualifies under the stated conditions. If a クーポン cannot be applied, staff should explain the reason clearly and apologetically, offering alternative assistance if possible. When a クーポン is accepted, it is good practice to confirm the discounted amount with the guest before finalizing the transaction so there are no surprises.

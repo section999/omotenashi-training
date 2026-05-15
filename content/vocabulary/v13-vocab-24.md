@@ -4,9 +4,6 @@ section: 24
 title: 管理 (kanri)
 ---
 
-**Pronunciation:** kan-**ri**
-**Register:** Formal — used in management and operational contexts across all hotel departments when referring to oversight, control, and administration of resources, people, or processes.
-
 管理 means management, control, or administration — the systematic oversight of people, resources, processes, or data to ensure that goals are achieved efficiently and safely. In a hotel context, 管理 encompasses a vast range of activities: 在庫管理 (zaiko kanri — inventory management), 品質管理 (hinshitsu kanri — quality management), 衛生管理 (eisei kanri — hygiene management), and 顧客管理 (kokyaku kanri — guest relationship management). Each department within a hotel has its own 管理 responsibilities, and managers are evaluated on how effectively they fulfil them. Good 管理 is invisible to guests — when it works well, service flows without disruption; when it fails, guests notice immediately.
 
 The philosophy behind 管理 in Japanese hospitality is one of proactive diligence. Managers do not simply react to problems — they anticipate them by maintaining rigorous systems. Regular 管理 checks, such as inventorying supplies before a busy weekend or auditing room cleanliness standards, reflect this proactive mindset. Staff at all levels contribute to 管理 through accurate record-keeping, timely reporting, and adherence to procedures. A culture of strong 管理 supports the omotenashi ideal of seamless, attentive service.

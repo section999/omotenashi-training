@@ -4,10 +4,6 @@ section: 22
 title: ご確認ください (go-kakunin kudasai)
 ---
 
-**Pronunciation:** go-ka-ku-ni-n-ku-da-sa-i — *kakunin* is four syllables; the *n* at the end of *kakunin* connects to *kudasai* with a nasal transition
-
-**Register:** Polite — standard for all professional communication involving requests for the guest to review or confirm information. Often softened further to *go-kakunin itadakemasu deshō ka* (could I ask you to confirm?) in spoken interactions.
-
 **ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. The phrase is used whenever you need a guest to review information — a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
 
 The phrase is essential in hospitality because unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not bureaucratic — it is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.

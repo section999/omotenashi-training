@@ -4,9 +4,6 @@ section: 5
 title: 消火器 (shoukaki)
 ---
 
-**Pronunciation:** shō-ka-**ki**
-**Register:** Formal/Neutral — used in safety training, staff manuals, emergency signage, and any direct communication about fire suppression equipment.
-
 消火器 is a portable device used to suppress or extinguish small fires before they spread into a major 火災. In Japanese hotels, ryokan, and restaurants, 消火器 are required by law to be installed at regular intervals throughout the building, and their locations must be clearly marked with red signage. The ability to use a 消火器 correctly is considered a core safety competency for all hospitality staff — not just security or maintenance personnel. During the critical first minutes of a fire, a well-trained staff member with a 消火器 can prevent a containable incident from becoming a life-threatening evacuation.
 
 Effective use of a 消火器 requires knowing the PASS technique: Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side. Staff should know the difference between powder-type (粉末, funmatsu), CO₂-type, and foam-type extinguishers, as using the wrong type on a grease fire, for example, can be dangerous. After any use, the 消火器 must be removed from service immediately and replaced or recharged, and the incident reported to management.

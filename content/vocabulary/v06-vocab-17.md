@@ -4,9 +4,6 @@ section: 17
 title: 接続 (setsuzoku)
 ---
 
-**Pronunciation:** se-tsu-**zo**-ku
-**Register:** Neutral to Formal — used in both technical and service contexts. In hospitality, 接続 appears in polite explanatory phrases such as 「接続方法をご案内いたします」. The word is not exclusive to technology; it also describes connecting corridors (連絡通路) or shuttle connections (接続バス), but in the context of this section it refers specifically to digital network connectivity.
-
 接続 is composed of the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, this word is most commonly encountered when guests ask for help connecting their devices — smartphones, laptops, or tablets — to the property's Wi-Fi network. Understanding 接続 and the vocabulary around it allows staff to walk guests through the process step by step, reducing frustration and improving the overall stay experience.
 
 Practical usage centers on guiding guests through the connection procedure. Staff might say 「画面のWi-Fi設定をお開きください」 (please open your device's Wi-Fi settings), then 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). When a connection fails, staff should ask 「接続はできましたか？」 (were you able to connect?) to check progress. Offering to demonstrate on a similar device or calling technical support are secondary escalation steps.

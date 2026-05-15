@@ -4,9 +4,6 @@ section: 23
 title: 配置 (haichi)
 ---
 
-**Pronunciation:** ha-**i**-chi
-**Register:** Formal — used in operational and management contexts when planning or communicating the placement of staff, equipment, or resources for events and daily operations.
-
 配置 means assignment or placement — the deliberate positioning of staff members, equipment, or resources to cover operational needs effectively. In hotel management, 配置 is a critical planning function. Before a major event such as a wedding reception or a VIP arrival, managers carefully arrange the 配置 of staff to ensure full coverage of entry points, dining areas, guest rooms, and support zones. The right 配置 ensures that no guest is left unattended and that response times are minimised. In Japanese hospitality, the precision of 配置 reflects the thoroughness of omotenashi — every position is considered and purposeful.
 
 Staff 配置 is communicated through 配置図 (haichi-zu — a placement diagram or floor plan indicating where each person is stationed). This is particularly common in banquet and event operations. 配置 also refers to the longer-term organisational decision of which department a staff member is assigned to — a new hire might be 配置 (placed) in the front desk team or the concierge department based on their strengths. This broader sense of 配置 relates to human resources and staffing strategy.

@@ -4,9 +4,6 @@ section: 28
 title: 習慣 (shuukan)
 ---
 
-**Pronunciation:** **shuu**-kan
-**Register:** Neutral — used in tourism and hospitality settings when explaining local customs and behavioural norms to guests, and in cultural orientation for new staff.
-
 習慣 means custom or habit, referring to the established patterns of behaviour that are commonly practised within a culture or community. In the Japanese hospitality and tourism context, 習慣 is an essential concept because Japan has many customs that differ significantly from practices in other countries, and unfamiliarity with them can lead to unintentional rudeness or confusion. Common examples include removing shoes before entering a home or certain traditional facilities, not tipping service staff, queuing patiently in designated areas, and refraining from eating or drinking while walking. Hospitality staff who can explain these 習慣 clearly and warmly help guests feel informed and respected rather than judged.
 
 Understanding 習慣 also helps tourism professionals appreciate why certain guest behaviours may seem unusual — a habit perfectly normal in one country may be considered inappropriate in Japan, and vice versa. Staff training often includes a module on cultural 習慣 so that employees can respond diplomatically when a guest unknowingly breaches a local norm. The distinction between 習慣 and 文化 (bunka, culture) is important: 習慣 refers to the specific behavioural practices, while 文化 describes the broader cultural environment in which those practices exist. Common phrases include 「日本では～という習慣があります」 (In Japan, there is a custom of...) which is a polite and effective way to introduce cultural norms to international guests.

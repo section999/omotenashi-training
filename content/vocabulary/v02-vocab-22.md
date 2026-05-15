@@ -4,9 +4,6 @@ section: 22
 title: 延泊 (enpaku)
 ---
 
-**Pronunciation:** **en**-pa-ku
-**Register:** Formal — 延泊 is a hospitality-specific term used primarily by hotel and ryokan staff. Guests may use it if they are frequent travelers or familiar with hotel terminology, but it is not a word encountered in everyday casual conversation. Staff should be fully comfortable with it as it reflects the professional vocabulary expected of front desk personnel.
-
 延泊 (enpaku) means "extended stay" — specifically, remaining in one's room for one or more additional nights beyond the original check-out date. This is one of the more common mid-stay requests hotels receive, and how staff handle it reflects their service quality. Because 延泊 is subject to room availability, it cannot always be accommodated, and staff must be skilled at both confirming successful extensions and declining gracefully when no availability exists. The guest's comfort and understanding should be the priority in either case.
 
 When a guest requests 延泊, the standard procedure is to first confirm availability for the desired additional nights, then check whether the same room can be maintained or if a room change is needed (同じお部屋でのご延泊は可能でございます / 翌日は別のお部屋にご移動いただく必要がございます). If the extension is possible, staff confirm the new check-out date and update payment details. If it is not possible, offering alternatives such as nearby sister properties or waiting lists demonstrates omotenashi spirit even in the face of constraints.

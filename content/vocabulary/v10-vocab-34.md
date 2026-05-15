@@ -4,9 +4,6 @@ section: 34
 title: 電子決済 (denshi kessai)
 ---
 
-**Pronunciation:** den-shi-**kes**-sai (でんしけっさい)
-**Register:** Neutral to Formal — used in both professional billing contexts and consumer-facing signage; increasingly standard vocabulary across all Japanese service industries.
-
 電子決済 combines 電子 (denshi), meaning "electronic," and 決済 (kessai), meaning "settlement" or "payment." It is an umbrella term for all forms of cashless payment conducted through digital means, including credit and debit cards, smartphone apps such as PayPay and LINE Pay, IC cards such as Suica and PASMO, and contactless systems such as Apple Pay and Google Pay. The rapid adoption of 電子決済 in Japan has been accelerated by government initiatives promoting cashless transactions, and hospitality venues are expected to accommodate a wide range of payment methods to serve both domestic guests and international visitors. Staff who can confidently guide guests through 電子決済 options demonstrate modern service proficiency.
 
 In hotels, restaurants, and ryokan, staff should be familiar with which 電子決済 methods are accepted at their property and be able to direct guests to the correct terminal or QR code for their preferred payment app. When a 電子決済 transaction is initiated, staff should confirm that the displayed amount matches the bill before the guest completes the payment, and should always wait for a 決済完了 (payment complete) notification on the property's terminal before releasing the guest or goods. Technical failures with 電子決済 require calm, professional handling — always offer an alternative payment method rather than leaving the guest in an awkward situation.

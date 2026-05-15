@@ -4,9 +4,6 @@ section: 9
 title: 税関 (zeikan)
 ---
 
-**Pronunciation:** **zei**-kan
-**Register:** Formal — used in official, governmental, and travel documentation contexts.
-
 税関 refers to the government authority responsible for inspecting goods entering or leaving a country and for collecting import duties and taxes where applicable. In Japan, 税関 falls under the jurisdiction of the Ministry of Finance and operates at all international airports, seaports, and land border crossings. Travellers are required to declare items they are bringing into Japan that exceed duty-free allowances — including certain quantities of alcohol, tobacco, and goods over a set monetary value — and failure to declare can result in fines or confiscation. Hospitality staff, especially at airport hotels, are sometimes asked by guests how the 税関 process works or what items are permitted entry.
 
 Understanding basic 税関 regulations helps hospitality professionals give accurate and helpful information. Staff should know the general duty-free allowance thresholds and be able to direct guests to official customs information in multiple languages. At high-end hotels and ryokans catering to international guests who may arrive with gifts, luxury goods, or large amounts of cash, a polished explanation of customs requirements reflects both legal awareness and attentive guest care.

@@ -4,9 +4,6 @@ section: 36
 title: 非常口 (hijouguchi)
 ---
 
-**Pronunciation:** hi-**jou**-gu-chi
-**Register:** Formal — used in safety briefings and emergency preparedness communication by hotel staff when informing guests about the location of emergency exits.
-
 非常口 combines 非常 (hijou, emergency / extraordinary situation) with 口 (guchi, opening / exit), creating the standard term for "emergency exit" in Japanese buildings. It is one of the most safety-critical vocabulary words in all of hotel service. In Japan, 非常口 signage is standardized — the iconic green running-figure pictogram with an arrow is recognized nationwide — and the word appears on every fire safety sign, evacuation route map, and hotel in-room safety card. Hotel staff are professionally obligated to know the location of every 非常口 on every floor, and to communicate this information clearly to guests as part of check-in or room orientation procedures, not as an afterthought.
 
 The cultural weight of proactive safety communication in Japanese hospitality cannot be overstated. Telling a guest 非常口の場所はこちらでございます (the emergency exit is located here) during room orientation reflects both legal compliance and genuine care for the guest's wellbeing. In emergency situations such as fire or earthquake, a panicked guest who has never been told where the 非常口 is may be placed in serious danger, which is why professional hotels train staff to deliver this information as a standard part of every check-in routine. Staff should also be familiar with the evacuation route (避難経路) from each 非常口 and be able to guide guests during an actual emergency.

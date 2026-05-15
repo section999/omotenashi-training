@@ -4,9 +4,6 @@ section: 14
 title: 掃除機 (soujiki)
 ---
 
-**Pronunciation:** sou-**ji**-ki
-**Register:** Neutral — primarily used in internal housekeeping operations and staff communication; rarely appears in direct guest-facing speech but may come up when explaining cleaning activities.
-
 掃除機 refers to the vacuum cleaner and is one of the primary tools used by housekeeping staff to maintain floor cleanliness in hotel and ryokan guest rooms. In properties with carpeted rooms, the 掃除機 is essential for removing dust, hair, crumbs, and debris that cannot be addressed with a cloth or mop. Even in rooms with wooden or tatami flooring, specialized vacuum attachments may be used for delicate surfaces. Proper use of the 掃除機 — including correct technique for carpet pile direction and attention to corners, under furniture, and along baseboards — is a key component of professional housekeeping training. In ryokan with tatami rooms, staff must use lower-suction or tatami-specific attachments to avoid damaging the fragile woven surface.
 
 Because the 掃除機 generates noise, housekeeping staff must be mindful of the time of day when using it, avoiding early mornings and late evenings to prevent disturbing guests in adjacent rooms. If a guest is present in the room, staff should always ask permission before operating the 掃除機 or offer to return at a more convenient time. Guests may occasionally ask to borrow a 掃除機 for their own use, in which case staff should assess whether hotel policy permits this and respond accordingly.

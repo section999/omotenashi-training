@@ -4,9 +4,6 @@ section: 26
 title: 空き状況 (aki joukyou)
 ---
 
-**Pronunciation:** a-ki-**joo**-kyoo
-**Register:** Neutral to Formal — 空き状況 is a standard operational term used in reservation inquiries, availability searches, and front desk communication. It is comfortable in both spoken interactions (空き状況を確認いたします) and written contexts such as booking platforms and emails. The phrase is inherently professional and does not require register adjustment, though it should always appear within polite sentence constructions when directed at guests.
-
 空き状況 (aki joukyou) literally combines 空き (aki, meaning "vacancy" or "open space") with 状況 (joukyou, meaning "status" or "situation"), yielding the concept of "vacancy status" or "availability." In hotel operations, 空き状況 is one of the most frequently queried pieces of information: guests ask before booking, staff check before confirming, and housekeeping updates it in real time as rooms are cleaned and released. Accurate 空き状況 information is the foundation of effective revenue management — overselling leads to 満室 (fully booked) situations that damage guest trust, while underselling due to inaccurate availability data leaves revenue on the table.
 
 The most important professional behaviour associated with 空き状況 is verification before assertion. A staff member who tells a guest そのお日にちは満室でございます (we are fully booked on that date) without actually checking the system risks turning away a booking that was possible, or creating a contradiction if another channel shows availability. The correct response to any availability inquiry is always 空き状況を確認いたします — check first, then report — and this habit should be instilled as a non-negotiable standard. When 空き状況 is confirmed, staff should state the result clearly and, if rooms are available, move promptly to the next step of the booking process.

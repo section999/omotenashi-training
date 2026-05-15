@@ -4,9 +4,6 @@ section: 10
 title: 暑い (atsui)
 ---
 
-**Pronunciation:** a-**tsu**-i
-**Register:** Informal — used freely by guests to describe physical discomfort from heat; staff should recognise it and respond by referencing the formal solution (空調の調整) rather than simply agreeing.
-
 暑い is an i-adjective meaning hot or uncomfortably warm. In the context of Japanese hospitality, temperature complaints are among the most common guest concerns, particularly during the humid summer months. When a guest says 「部屋が暑い」 (the room is hot) or simply 「暑い」 with a look of discomfort, staff must respond immediately with a concrete action rather than a sympathetic agreement. The omotenashi philosophy prioritises physical comfort as a baseline — a guest who is too warm cannot relax, sleep, or enjoy their experience, so addressing 暑い complaints swiftly is a matter of service fundamentals.
 
 In practice, the response to a 暑い complaint will depend on the cause: the air conditioning may need to be adjusted, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact, rather than offering advice from a distance. In ryokan settings where air conditioning may be limited by design, alternative solutions such as portable fans, ice water, or cooled towels are standard comfort measures that demonstrate thoughtful preparation.

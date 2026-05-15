@@ -4,9 +4,6 @@ section: 4
 title: ゴミ (gomi)
 ---
 
-**Pronunciation:** **go**-mi
-**Register:** Neutral — used by housekeeping staff in internal communication and, when necessary, in polite guest-facing explanation of trash collection procedures.
-
 ゴミ is the standard Japanese word for trash or garbage, and its proper management is a fundamental responsibility of hotel housekeeping staff. In the Japanese hospitality context, visible or unmanaged ゴミ is considered a serious lapse in service standards, as a clean and uncluttered environment is central to the guest experience. Housekeeping staff collect ゴミ from bins throughout the room during each cleaning cycle, replacing liners and ensuring that no residual odors or unsightly waste remains. In ryokan and eco-conscious hotels, staff may also be responsible for separating ゴミ into burnable waste (燃えるゴミ), non-burnable waste (燃えないゴミ), and recyclables (リサイクル) in accordance with local municipal rules.
 
 When communicating with guests about trash, staff should use polite language and avoid drawing unnecessary attention to waste or mess. If a guest asks about disposal, staff can guide them to the nearest ゴミ箱 (trash can) or explain collection schedules. Understanding ゴミ-related vocabulary also helps staff communicate clearly in internal reports — for example, when flagging rooms where an unusually large amount of waste needs special handling.

@@ -4,9 +4,6 @@ section: 28
 title: 案内 (annai)
 ---
 
-**Pronunciation:** **an**-na-i
-**Register:** Formal — 案内 is used extensively in professional and public service contexts. In hospitality, it is almost always prefixed with ご (go-annai) when referring to a service offered to or received by a guest. The phrase ご案内いたします (I will guide you / let me show you) is one of the most frequently spoken expressions in Japanese hotels and represents the attentive, personalized guidance that defines high-quality service.
-
 案内 means guidance, information, or the act of escorting or directing someone. In Japanese hospitality, it encompasses both physical escorting (walking a guest to their room or to a facility) and verbal direction (explaining where something is located). The concept of 案内 is deeply tied to omotenashi because true guidance is not merely transactional — it anticipates what the guest needs to know, delivers that information proactively and clearly, and ensures the guest feels looked after rather than simply redirected. A staff member who provides excellent 案内 leaves guests feeling confident and cared for.
 
 案内 appears in a wide range of hotel scenarios: escorting a guest to their room at check-in (お部屋へご案内いたします), directing them to the restaurant or spa (レストランへご案内いたします), explaining the hotel's facilities during orientation (施設をご案内いたします), or providing local area information (近隣の観光地についてご案内いたします). The key is always to accompany the guest whenever possible rather than merely pointing, and to match the pace and communication style to the guest's comfort level. Even when physical escorting is not possible, verbal 案内 should be clear, complete, and accompanied by a gesture.

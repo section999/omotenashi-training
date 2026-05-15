@@ -4,9 +4,6 @@ section: 10
 title: 枕 (makura)
 ---
 
-**Pronunciation:** ma-**ku**-ra
-**Register:** Neutral — everyday vocabulary used in all guest service contexts; appropriate in both spoken requests and written amenity lists.
-
 枕 (makura) means pillow and is a small but significant element of guest comfort in Japanese hospitality. Pillows have strong personal associations with sleep quality, and many guests are particular about firmness, height, or material. Upscale hotels and ryokan in Japan often offer a 枕メニュー (pillow menu), allowing guests to select from a range of options including buckwheat (そばがら), memory foam (低反発), latex, and feather-filled varieties. The ability to accommodate such preferences is a hallmark of attentive omotenashi, as it demonstrates that the property anticipates individual needs rather than applying a one-size-fits-all approach.
 
 When a guest requests an additional or different 枕, staff should respond immediately and positively, using the phrase 枕をご用意いたします or 枕をお持ちいたします. In ryokan settings, traditional cylindrical pillow shapes or 高枕 (takamakura, high pillows) may be offered alongside modern options, and explaining these choices with patience and warmth is part of the service experience. Proactively asking about pillow preferences during check-in, particularly in luxury or extended-stay contexts, elevates the perceived quality of service.

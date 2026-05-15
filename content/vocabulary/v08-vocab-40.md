@@ -4,9 +4,6 @@ section: 40
 title: 表示 (hyouji)
 ---
 
-**Pronunciation:** **hyou**-ji
-**Register:** Neutral to Formal — used in hotel service contexts when referring to any form of signage, display text, or visual indicator that conveys instructions, directions, warnings, or facility information to guests.
-
 表示 (hyouji) combines 表 (hyou, to express / show) with 示 (ji, to indicate / point out), forming a word that broadly means "display," "indication," or "sign." In hotel and hospitality contexts, 表示 refers to any visual marker that communicates information — from the illuminated floor numbers above an elevator, to the color-coded arrows on emergency exit signs, to the bilingual text on a room service menu, to the digital display showing today's events in the lobby. It is a more general term than 案内板 (a specific type of board) or 非常口 (a specific type of exit sign), and it encompasses the full range of informational and directional visual communication in a building.
 
 Understanding 表示 as a concept is valuable because it underpins how staff teach guests to navigate independently. When a staff member says 表示に従ってください (please follow the signs), they are empowering the guest to use the built environment's navigation system rather than relying entirely on staff for every step. This is particularly important in large hotels, airports, or convention facilities where the volume of guests makes individual escorting impractical. The quality of 表示 — whether signs are clearly worded, correctly placed, well-lit, and multilingual — reflects the hotel's overall standard of service design, and maintaining 表示 is a responsibility shared between management and frontline staff who notice when a sign is damaged, missing, or confusing.

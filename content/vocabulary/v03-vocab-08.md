@@ -4,9 +4,6 @@ section: 8
 title: 喫煙 (kitsuen)
 ---
 
-**Pronunciation:** **kitsu**-en
-**Register:** Formal — operational term used in reservation confirmations, room signage, and guest communications; must be handled with precision to avoid assignment errors.
-
 喫煙 (kitsuen) means "smoking" and designates areas, floors, or rooms where tobacco use is permitted. The word pairs with 禁煙 (kin'en, non-smoking) as its direct opposite, and together these two terms form the core vocabulary for managing smoking preferences in any Japanese hospitality setting. With Japan's indoor smoking regulations becoming increasingly stringent — particularly after revisions to the Health Promotion Act — smoking rooms are now a minority offering in many urban hotels. However, some properties still maintain designated 喫煙室 (smoking rooms) or 喫煙フロア (smoking floors), and guests who smoke will actively request them.
 
 When a guest requests a 喫煙室, staff should confirm availability promptly, state the floor or room number clearly, and note any specific usage conditions (e.g., ventilated balconies, designated smoking lounges). If no 喫煙室 is available, the refusal must be delivered with a sincere apology and, where possible, guidance to the nearest outdoor smoking area. Using the term accurately and without hesitation demonstrates professionalism and prevents the very costly error of assigning a non-smoking guest to a smoking room.

@@ -4,9 +4,6 @@ section: 26
 title: 保留 (horyuu)
 ---
 
-**Pronunciation:** ho-**ryuu**
-**Register:** Formal — used exclusively in telephone contexts when informing a guest that their call is being placed on hold while information is retrieved or a connection is arranged.
-
 保留 (保留) literally means "temporary retention" and refers to the act of placing a telephone caller on hold. In hotel phone etiquette, properly announcing a 保留 is a critical courtesy skill: the guest must be told why they are being placed on hold, approximately how long the wait will be, and that they will be attended to shortly. A sudden silence on the line without explanation is considered a serious lapse in service quality. The term comes from 保 (to hold or preserve) and 留 (to keep or detain), together conveying the idea of keeping the caller in a waiting state.
 
 Hotel staff are trained never to put a guest on hold for longer than sixty seconds without returning to the line. The standard phrase 少々保留にさせていただきます (I will place you on hold for a brief moment) must be followed by a return to the caller with an update even if the information is not yet ready. If the wait extends, the polite return phrase is お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you very much for your patience — may I ask for just a little more of your time). Mastering this cycle of 保留 and follow-up shows guests that they have not been forgotten.

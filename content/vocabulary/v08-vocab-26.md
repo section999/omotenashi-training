@@ -4,9 +4,6 @@ section: 26
 title: 秒 (byou)
 ---
 
-**Pronunciation:** **byou** (one syllable in natural speech, though technically a long vowel: び-ょ-う)
-**Register:** Neutral — 秒 is a universal counter that appears across all registers without variation. It is less commonly needed in hospitality than 分 (minutes), but in precise safety-related contexts — elevator doors, countdown timers, express service timings — it is the only appropriate unit. Staff rarely need to speak 秒 often, but when they do, accuracy and calm delivery matter.
-
 秒 (秒) is the Japanese counter for seconds and is used when describing time intervals too short to be measured in minutes. In hospitality settings, its most common application is in safety and facility communications: alerting guests to the closing time of elevator doors, warning about timed security gates, or indicating the brief countdown before an automated service begins. These seconds-level communications are not merely informational — they directly affect guest safety and comfort. A guest who does not understand that an elevator door closes in 5 seconds may be struck by it; a guest informed of this interval can board or step back with confidence.
 
 Beyond elevator contexts, 秒 can appear in descriptions of spa treatments with timed intervals, countdown announcements in hotel convenience areas, or even in explanations of automated room features (this door locks automatically in 10 seconds after closing). While it is far less frequent in daily hospitality language than 分 or 時間, staff in modern hotels with automated or timed facilities should be comfortable deploying 秒 accurately and pairing it with clear, calm explanation. The goal is to make precision feel reassuring rather than clinical.

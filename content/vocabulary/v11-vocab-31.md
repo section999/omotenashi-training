@@ -4,9 +4,6 @@ section: 31
 title: 英語対応 (eigo taiou)
 ---
 
-**Pronunciation:** ei-go-**tai**-ou
-**Register:** Formal — a compound term used in hospitality and business contexts to indicate that English-language service is available, often displayed on signage, websites, or communicated verbally by staff.
-
 英語対応 (英語対応) is a compound noun formed from 英語 (English language) and 対応 (response, handling, support). Together they describe the capacity or readiness of a hotel, department, or staff member to serve guests in English. In Japan's hospitality industry, 英語対応 has become an increasingly important service differentiator as the volume of international visitors grows. Hotels that can clearly and honestly advertise 英語対応 gain confidence from overseas guests and travel agencies when booking. Staff training in 英語対応 goes beyond teaching vocabulary — it also covers cultural differences in communication styles, such as the tendency in some cultures to be more direct than is typical in Japanese hospitality.
 
 The omotenashi spirit elevates 英語対応 from a reactive service to a proactive one. Rather than waiting for a guest to ask in English, a well-trained staff member will notice non-verbal cues — hesitation, a foreign language document, unfamiliar currency — and proactively offer 英語対応 before the guest struggles. The phrase 英語でのご対応も可能でございます (we are also able to assist you in English) offered at the right moment can instantly reassure a guest and create a positive impression that sets the tone for the entire stay. Hotels should also ensure that their 英語対応 is consistent across all touchpoints, from telephone to check-in to room service orders.

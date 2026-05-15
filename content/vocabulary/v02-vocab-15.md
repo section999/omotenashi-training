@@ -4,9 +4,6 @@ section: 15
 title: 領収書 (ryoushusho)
 ---
 
-**Pronunciation:** ryō-**shū**-sho
-**Register:** Formal — used by front desk and cashier staff when issuing or offering a receipt; business travellers in particular expect it to be offered proactively.
-
 領収書 is the official receipt issued after payment, serving as proof that a transaction has been completed. In Japanese business culture, the 領収書 holds particular importance because it is frequently required for expense reimbursement claims. Business travellers routinely request 領収書 at check-out, and in many cases they will specify how they need it made out — the payee name (宛名, atena), the amount, the date, and the purpose of payment are all standard elements. Issuing an accurate 領収書 is a legal and professional obligation, and any errors must be corrected promptly and apologetically.
 
 In practice, staff should proactively ask whether the guest requires a 領収書 rather than waiting to be asked — this anticipatory approach is a hallmark of omotenashi. The phrase はい、領収書をご用意いたします (yes, I will prepare a receipt) is the standard response. When the guest specifies how the receipt should be made out, staff should confirm the details back to the guest (宛名は〇〇様でよろしいでしょうか) before issuing it, as corrections to a printed 領収書 can be complicated.

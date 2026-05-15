@@ -4,9 +4,6 @@ section: 21
 title: ご用件 (goyouken)
 ---
 
-**Pronunciation:** go-**you**-ken
-**Register:** Formal — the honorific prefix ご (go) elevates this from the plain 用件 (youken) to a polite form appropriate for guest-facing use. Staff use ご用件 in phone scripts and in-person conversations. The plain form 用件 may appear in internal memos or among colleagues but should not be used directly with guests.
-
 ご用件 refers to the purpose, matter, or reason for a call or visit — in essence, "what the guest needs." In Japanese hotel communication, identifying ご用件 early in a conversation is not merely efficient; it is a sign of attentiveness and professionalism. A staff member who listens carefully to ご用件 before acting ensures that the guest is routed to the right person or department on the first attempt, which is a fundamental measure of service quality.
 
 The standard phrase ご用件をお伺いします (may I ask the purpose of your call?) is typically the second or third thing said after the hotel name greeting, appearing right after the caller's name is obtained. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Staff should never assume they know ご用件 without asking — even a regular guest may be calling or visiting for an unexpected reason.

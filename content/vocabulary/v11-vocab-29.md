@@ -4,9 +4,6 @@ section: 29
 title: 通訳 (tsuuyaku)
 ---
 
-**Pronunciation:** tsuu-**ya**-ku
-**Register:** Formal — used in professional and hospitality contexts when referring to spoken interpretation between languages, often in the context of arranging or providing language assistance for guests.
-
 通訳 (通訳) refers to the live, oral translation of spoken language from one tongue to another. The word combines 通 (to pass through, to communicate) and 訳 (to interpret, to translate), together conveying the idea of making meaning pass through language barriers. In hotel contexts, 通訳 arises in many situations: a foreign guest requiring assistance at check-in, a business conference needing a professional interpreter, or a staff member helping to mediate a misunderstanding. Unlike 翻訳 (written translation), 通訳 is always spoken and occurs in real time, making accuracy and composure under pressure critical qualities for anyone providing this service.
 
 When arranging 通訳 services, hotel staff should clarify the language pair, the nature of the interaction, and whether a professional interpreter or a bilingual staff member is needed. For routine conversations, a staff member with adequate language ability can handle the 通訳 role. For legal, medical, or complex business matters, the hotel concierge should arrange a certified professional interpreter. It is important to inform the guest of these distinctions so that they can make an informed decision. Phrases such as 通訳が必要な場合はお申し付けください (please let us know if you require interpretation) demonstrate proactive hospitality.

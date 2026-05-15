@@ -4,9 +4,6 @@ section: 21
 title: 乗り場 (noriba)
 ---
 
-**Pronunciation:** no-ri-**ba**
-**Register:** Neutral — a practical, everyday term used by hotel staff when directing guests to specific departure or boarding points for buses, taxis, ferries, and other transport.
-
 乗り場 (noriba) is a compound of 乗り (nori, from 乗る — to board/ride) and 場 (ba, place/spot), literally meaning "the place where one boards." It designates any official, designated area where passengers wait for and board a specific mode of transport. 乗り場 signage is standard at Japanese train stations, airports, and ferry terminals, and each mode typically has a clearly numbered or colour-coded 乗り場 to prevent confusion. In a busy urban station, you might find 1番乗り場 (Number 1 boarding area) through multiple numbered platforms and bus bays.
 
 Hotel staff frequently need to direct guests to the correct 乗り場, particularly for airport buses, limousine coaches, and sightseeing bus services that depart from fixed points. Precise instructions are important: rather than just saying "go to the bus stop," a skilled staff member will say 「駅の南口を出ていただきますと、バスの乗り場がすぐ左手にございます」("If you exit from the south gate of the station, the bus boarding area is immediately to your left"). Providing the 乗り場 number, if applicable, further reduces the chance of a guest boarding the wrong service.

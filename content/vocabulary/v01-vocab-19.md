@@ -4,10 +4,6 @@ section: 19
 title: お気をつけて (oki o tsukete)
 ---
 
-**Pronunciation:** o-ki-o-tsu-ke-te — six syllables; *ki* is short; *tsu* is a standard *ts* sound; *kete* flows smoothly
-
-**Register:** Polite — appropriate for all guest farewells in most contexts. The phrase is warm without being overly formal, making it natural across a range of settings.
-
 **お気をつけて** means "please take care" or "please be safe" — it is said when someone is departing, going out, or heading somewhere that involves travel. The phrase contains *ki* (気, spirit/mind/attention) and *tsukeru* (付ける, to attach/apply), together forming "please apply your attention to safety." It is an expression of genuine concern for the other person's wellbeing on their journey.
 
 In hospitality, *o-ki wo tsukete* is said when a guest leaves for the day (heading out sightseeing, departing for the station, leaving after a meal). It is often combined with *itterasshai* (行ってらっしゃい — "please go and come back safely") for guests who will be returning, or with *mata okoshi kudasaimase* (またお越しくださいませ — "please come again") for guests who are checking out.

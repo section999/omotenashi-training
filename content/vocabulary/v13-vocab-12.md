@@ -4,9 +4,6 @@ section: 12
 title: 研修 (kenshuu)
 ---
 
-**Pronunciation:** **ken**-shuu
-**Register:** Formal — used in HR, management, and staff communications when referring to structured training programmes, induction periods, or skills workshops.
-
 研修 refers to a structured, often intensive training programme designed to equip employees with the knowledge, skills, and attitudes required for their role. In Japan's hospitality industry, 研修 is taken extremely seriously: new hotel staff may undergo a week or more of initial 研修 before ever being placed in a guest-facing position, covering everything from greeting etiquette (礼儀作法) and phone manner to fire safety and emergency protocols. This investment in 研修 reflects the industry's commitment to consistent, high-quality service — the foundation of Japanese omotenashi (おもてなし).
 
 研修 is not limited to new employees. Seasonal 研修 updates staff on new menus, services, or technologies, while ongoing 研修 sessions address changing customer expectations and industry standards. In prestigious establishments such as traditional ryokan, 研修 may also include cultural education — teaching staff about the history of the property, local customs, and the deeper meaning of hospitality in the Japanese tradition. For learners entering the industry, being a willing and attentive participant in 研修 is one of the fastest ways to build credibility with management.
