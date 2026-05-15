@@ -219,7 +219,6 @@
       letter-spacing: -0.03em;
       color: var(--text-primary);
       margin-bottom: 72px;
-      white-space: nowrap;
     }
     .hero-title .highlight {
       background: none;
@@ -233,7 +232,6 @@
       color: var(--text-muted);
       margin-bottom: 48px;
       letter-spacing: 0.04em;
-      white-space: nowrap;
     }
     /* ── CONTINUE BANNER ──────────────────────────── */
     .continue-banner {
@@ -352,12 +350,7 @@
   "@type": "WebSite",
   "name": "Omotenashi Training",
   "url": "https://section999.github.io/omotenashi-training/",
-  "description": "Master Japanese hospitality with interactive lessons, vocabulary drills, and role-play simulations.",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://section999.github.io/omotenashi-training/pages/curriculum.html?search={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "description": "Master Japanese hospitality with interactive lessons, vocabulary drills, and role-play simulations."
 }
 </script>
 </head>
@@ -366,32 +359,6 @@
 <a href="#main-content" class="skip-link">Skip to main content</a>
 <div id="nav-root"></div>
 <script>try{document.getElementById('nav-root').innerHTML=renderNav()}catch(e){document.getElementById('nav-root').innerHTML='<nav class="nav"><div class="nav-inner"><a href="/" style="color:#fff;text-decoration:none;font-weight:700">Omotenashi Training</a></div></nav>'}</script>
-
-  <!-- SIGN-IN MODAL -->
-  <div id="signin-modal" role="dialog" aria-modal="true" aria-label="Save your progress" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(0,0,0,0.65);align-items:center;justify-content:center;" onkeydown="if(event.key==='Escape')closeSignInModal()">
-    <div style="background:var(--bg-secondary);border:1px solid var(--border-default);border-radius:12px;padding:40px 36px;max-width:400px;width:90%;position:relative;">
-      <button onclick="closeSignInModal()" style="position:absolute;top:14px;right:18px;background:none;border:none;color:var(--text-secondary);font-size:1.25rem;cursor:pointer;line-height:1;">✕</button>
-      <h2 style="font-size:1.15rem;font-weight:700;margin-bottom:6px;">Save your progress</h2>
-      <p style="font-size:0.85rem;color:var(--text-secondary);margin-bottom:24px;">Enter your name to track completed lessons. Progress is stored locally in your browser.</p>
-      <label for="signin-name" style="font-size:0.8rem;color:var(--text-secondary);display:block;margin-bottom:6px;">Your name</label>
-      <input id="signin-name" type="text" placeholder="e.g. Tanaka" maxlength="40"
-        style="width:100%;padding:10px 14px;border-radius:6px;border:1px solid var(--border-default);background:var(--bg-tertiary);color:var(--text-primary);font-size:0.95rem;outline:none;margin-bottom:20px;"
-        onkeydown="if(event.key==='Enter')submitSignIn()" />
-      <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
-        Start Learning
-      </button>
-      <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
-      <p style="font-size:0.78rem;color:var(--text-muted);margin-bottom:10px;">Progress is saved in this browser only. Use export/import to move it across devices.</p>
-      <div style="display:flex;gap:8px;">
-        <button onclick="exportProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
-          Export Progress
-        </button>
-        <button onclick="importProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
-          Import Progress
-        </button>
-      </div>
-    </div>
-  </div>
 
   <main id="main-content">
   <div class="continue-banner" id="continueBanner" role="status">
