@@ -26,6 +26,8 @@ function renderNav() {
         <div class="nav-dropdown">
           <a href="index.html">Main</a>
           <a href="curriculum.html">Curriculum</a>
+          <a href="games.html">Games</a>
+          <a href="vocabularypractice.html">Vocabulary</a>
           <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
           <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>
         </div>

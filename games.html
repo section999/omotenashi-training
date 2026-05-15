@@ -83,6 +83,7 @@
 
     /* Memory */
     .mem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:500px;margin:16px auto;perspective:800px}
+    @media(max-width:480px){.mem-grid{grid-template-columns:repeat(3,1fr)}}
     .mem-card{aspect-ratio:1;border-radius:8px;cursor:pointer;user-select:none;position:relative;min-height:70px}
     .mem-card.matched{cursor:default}
 

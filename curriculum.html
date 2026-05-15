@@ -348,9 +348,9 @@ margin-top: 48px;
     }
     [data-theme="light"] {
       --bg-primary:    #ffffff;
-      --bg-secondary:  #ffffff;
-      --bg-tertiary:   #ffffff;
-      --bg-surface:    #ffffff;
+      --bg-secondary:  #f5f5fa;
+      --bg-tertiary:   #eeeef5;
+      --bg-surface:    #f0f0f8;
       --text-primary:   #1b1b32;
       --text-secondary: #46465e;
       --text-muted:     #78788a;
@@ -2150,6 +2150,38 @@ margin-top: 48px;
         }
       });
     });
+
+    // Mark completed step-btns from localStorage + update progress labels
+    (function() {
+      try {
+        document.querySelectorAll('.step-btn').forEach(function(btn) {
+          var href = btn.getAttribute('href') || '';
+          var fm = href.match(/file=([^&]+)/);
+          if (!fm) return;
+          var filePath = decodeURIComponent(fm[1]);
+          var m = filePath.match(/\/([^/]+)-(\d+)\.md$/);
+          if (!m) return;
+          var key = 'omotenashi:' + m[1] + ':' + parseInt(m[2], 10);
+          if (localStorage.getItem(key) === '1') btn.classList.add('done');
+        });
+        // Update section-level "X of Y steps complete" labels
+        document.querySelectorAll('.tree-l2').forEach(function(sec) {
+          var total = sec.querySelectorAll('.step-btn').length;
+          if (!total) return;
+          var done = sec.querySelectorAll('.step-btn.done').length;
+          var lbl = sec.querySelector('.tree-l2-progress');
+          if (lbl) lbl.textContent = lbl.textContent.replace(/^\d+/, done);
+        });
+        // Update top-level module "X of Y steps complete" labels
+        document.querySelectorAll('.tree-l1').forEach(function(mod) {
+          var total = mod.querySelectorAll('.step-btn').length;
+          if (!total) return;
+          var done = mod.querySelectorAll('.step-btn.done').length;
+          var lbl = mod.querySelector('.tree-l1-progress');
+          if (lbl) lbl.textContent = lbl.textContent.replace(/^\d+/, done);
+        });
+      } catch(e) {}
+    })();
   </script>
 
 <script src="assets/search-init.js"></script>
