@@ -313,17 +313,27 @@
 
     /* ── RESPONSIVE ── */
     @media (max-width: 640px) {
-      main { padding: 80px 16px 56px; }
+      #nav-root { display: none; }
+      main { padding: 56px 16px 56px; }
       .stats-row { grid-template-columns: 1fr 1fr; }
       .stats-row .stat-card:first-child { grid-column: span 2; }
       .vocab-row { grid-template-columns: repeat(3, 1fr); }
+      .module-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60vw; }
+      .module-row-top { gap: 8px; }
+      .due-item-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .save-name-row { flex-wrap: wrap; }
+      .save-name-input { min-width: 0; }
     }
     @media (max-width: 400px) {
       .stats-row { grid-template-columns: 1fr; }
       .stats-row .stat-card:first-child { grid-column: span 1; }
+      .vocab-row { grid-template-columns: 1fr 1fr; }
     }
     .dash-close-btn { position:fixed; top:70px; right:24px; z-index:100; width:36px; height:36px; border-radius:50%; background:var(--bg-tertiary); border:1px solid var(--border-default); color:var(--text-secondary); font-size:1.1rem; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:background 0.15s,color 0.15s; }
     .dash-close-btn:hover { background:var(--border-strong); color:#fff; }
+    @media (max-width: 640px) {
+      .dash-close-btn { top: 12px; right: 16px; }
+    }
   </style>
   <link rel="stylesheet" href="../assets/nav.css" />
   <script src="../assets/nav-template.js"></script>
