@@ -44,6 +44,6 @@ The most common mistake is delivering *irasshaimase* without making eye contact 
 - C. いらっしゃいませ。 (Welcome.)
 - D. こんにちは。 (Hello.)
 
-**Correct Answer:** いらっしゃいませ。(Welcome.)
+**Correct Answer:** いらっしゃいませ。 (Welcome.)
 
 **Explanation:** *Irasshaimase* is always the first word a guest hears. It signals presence, readiness, and respect before any transaction begins. Jumping directly to a question — even a practical one — bypasses this essential moment of acknowledgement.

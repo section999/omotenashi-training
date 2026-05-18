@@ -45,6 +45,6 @@ The most common mistake is waiting for a guest to make eye contact or directly a
 - C. Walk toward them, make eye contact, and say: お荷物をお持ちでしょうか。お手伝いしましょうか。(Do you have luggage? May I help you?)
 - D. Call out "Can I help?" from across the lobby.
 
-**Correct Answer:** Walk toward them, make eye contact, and say: お荷物をお持ちでしょうか。お手伝いしましょうか。
+**Correct Answer:** Walk toward them, make eye contact, and say: お荷物をお持ちでしょうか。お手伝いしましょうか。(Do you have luggage? May I help you?)
 
 **Explanation:** Omotenashi means noticing a need before it becomes a request. Walking toward the guest, establishing warm eye contact, and offering *o-tetsudai shimashō ka* proactively is the complete hospitality response. The guest should never have to seek you out — you should arrive at their side before they need to.

@@ -522,7 +522,7 @@ function showCardScreen() {
       '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
     '</div>' +
     '<div class="cs-card" id="csCard"' + (isDictation ? '' : ' onclick="cardClick()"') + '>' +
-      (isDictation ? '' : '<div class="cs-flip-icon">↩ flip</div>') +
+      (isDictation ? '' : '') +
       '<div class="cs-face cs-face-front" id="csFront" style="display:flex;opacity:1;">' +
         (isDictation
           ? '<div class="dict-wrap">' +
@@ -558,7 +558,7 @@ function showCardScreen() {
     (isDictation
       ? '<div class="cs-swipe-hint"></div><div class="cs-kbd"><span class="key">Enter</span> check &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> replay &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>'
       : '<div class="cs-swipe-hint">swipe right = know &nbsp;·&nbsp; swipe left = still learning</div>' +
-        '<div class="cs-kbd"><span class="key">Space</span> flip &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> speak &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>'
+        '<div class="cs-kbd"><span class="key">Space</span> &nbsp; <span class="key">K</span> know &nbsp; <span class="key">L</span> learning &nbsp; <span class="key">S</span> speak &nbsp; <span class="key">←</span><span class="key">→</span> navigate</div>'
     );
 }
 
@@ -598,14 +598,14 @@ function updateCard(file, data) {
     front.innerHTML =
       '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
       speakBtn +
-      '<div class="cs-flip-hint">↩ tap to reveal meaning</div>';
+      '<div class="cs-flip-hint">tap to reveal meaning</div>';
     back.innerHTML =
       '<div class="cs-def">' + escHtml(data.definition) + '</div>';
   } else {
     front.innerHTML =
       '<div class="cs-en-prompt">What is the Japanese word for:</div>' +
       '<div class="cs-def-front">&ldquo;' + escHtml(data.definition) + '&rdquo;</div>' +
-      '<div class="cs-flip-hint">↩ tap to reveal</div>';
+      '<div class="cs-flip-hint">tap to reveal</div>';
     back.innerHTML =
       '<div class="cs-jp">' + escHtml(data.jp) + '</div>' +
       speakBtn +
@@ -621,8 +621,8 @@ function updateCard(file, data) {
   const saved = getStatus(file);
   const statusEl = document.getElementById('csStatus');
   if (statusEl) {
-    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span> — flip to re-evaluate';
-    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span> — flip to re-evaluate';
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span> — tap to re-evaluate';
+    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span> — tap to re-evaluate';
     else statusEl.textContent = '';
   }
 

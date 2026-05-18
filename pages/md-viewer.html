@@ -1838,8 +1838,9 @@ function parseQuizMarkdown(raw) {
     // MCQ
     const opts = optLines.map(l => l.replace(/^- [A-D]\.\s*/, ''));
     const correctText = correctLine ? correctLine.replace('**Correct Answer:**', '').trim() : '';
-    let correct = opts.findIndex(o => o === correctText);
-    if (correct < 0) correct = opts.findIndex(o => o.toLowerCase().trim() === correctText.toLowerCase().trim());
+    const norm = s => s.replace(/\s+/g, ' ').replace(/\s+\(/g, '(').trim().toLowerCase();
+    let correct = opts.findIndex(o => norm(o) === norm(correctText));
+    if (correct < 0) correct = opts.findIndex(o => norm(o).startsWith(norm(correctText)) || norm(correctText).startsWith(norm(o)));
     return { type: 'mcq', q, opts, correct: correct >= 0 ? correct : 0, exp };
   }
   if (answerLine && !modelLine) {

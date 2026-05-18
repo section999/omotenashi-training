@@ -45,6 +45,6 @@ The most common mistake is forgetting to say *goyukkuri dōzo* at all — treati
 - C. 以上でございます。(That is all — too abrupt)
 - D. では、失礼いたします。(Excuse me — ending too quickly without the warm invitation)
 
-**Correct Answer:** ごゆっくりどうぞ。何かご不明な点がございましたら、フロントまでご連絡ください。
+**Correct Answer:** ごゆっくりどうぞ。何かご不明な点がございましたら、フロントまでご連絡ください。(Please take your time. If you have any questions, please contact the front desk.)
 
 **Explanation:** *Goyukkuri dōzo* is the emotional core of the room delivery moment. Pairing it with a brief, clear invitation to contact the front desk if needed gives the guest both warmth and practical reassurance. The guest enters their room feeling welcomed and supported — which is exactly the goal.
