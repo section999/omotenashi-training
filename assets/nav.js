@@ -93,6 +93,9 @@
     if (!inp.closest('.nav-search-wrap').contains(e.target)) hide();
   });
 
+  // Mobile: shorten placeholder
+  if (window.innerWidth <= 640) inp.placeholder = 'Search';
+
   // ARIA
   inp.setAttribute('role', 'combobox');
   inp.setAttribute('aria-autocomplete', 'list');

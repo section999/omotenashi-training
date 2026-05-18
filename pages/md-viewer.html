@@ -1920,9 +1920,30 @@ function vocabPractice(jp, btn) {
     const analysis = simAnalyzePronunciation(best.transcript.trim(), jp);
     vocabShowScore(analysis, best.transcript.trim(), best.confidence);
   };
-  recognition.onerror = () => { _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; };
-  recognition.onend = () => { if (!got) { _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; } };
-  recognition.start();
+  recognition.onerror = (e) => {
+    _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+    if (fb) {
+      const msg = e.error === 'not-allowed'  ? 'Microphone access denied. Check browser permissions.' :
+                  e.error === 'no-speech'    ? 'No speech detected. Speak closer to the mic.' :
+                  e.error === 'network'      ? 'Network error. Speech recognition requires internet.' :
+                  e.error === 'aborted'      ? '' :
+                  'Recognition failed (' + e.error + '). Try again.';
+      if (msg) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">' + msg + '</div>'; fb.style.display = 'block'; }
+    }
+  };
+  recognition.onend = () => {
+    if (!got) {
+      _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+      if (fb && !fb.querySelector('.pron-score')) {
+        fb.innerHTML = '<div class="pron-score" style="color:#e07060;">No speech detected. Try speaking closer to the mic.</div>';
+        fb.style.display = 'block';
+      }
+    }
+  };
+  try { recognition.start(); } catch(e) {
+    _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+    if (fb) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Could not start microphone. Try again.</div>'; fb.style.display = 'block'; }
+  }
 }
 
 function vocabShowScore(analysis, heard, confidence) {

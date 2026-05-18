@@ -21,7 +21,7 @@ function renderNav() {
       <button id="banner-btn" style="display:none;padding:5px 10px;border-radius:4px;font-size:0.72rem;font-weight:600;cursor:pointer;font-family:inherit;white-space:nowrap;color:#a3a3c2;background:transparent;border:1px solid #2a2a4a;"></button>
       <a href="${toPages}dashboard.html" class="nav-cta" style="display:inline-flex;align-items:center;gap:6px;padding:6px 14px;background:#f1be32;color:#0a0a23;font-size:0.78rem;font-weight:700;font-family:'Cascadia Code','Fira Code',monospace;border-radius:6px;text-decoration:none;transition:opacity 0.15s;" onmouseover="this.style.opacity='0.85'" onmouseout="this.style.opacity='1'">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#0a0a23" stroke-width="2.5"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-        Dashboard
+        <span class="nav-cta-label">Dashboard</span>
       </a>
       <div class="nav-menu-wrap">
         <button class="nav-menu-btn" aria-label="Open menu" onclick="this.nextElementSibling.classList.toggle('open')">

@@ -47,9 +47,15 @@
 }
 .nav-search input::placeholder { color: rgba(255,255,255,0.5); }
 @media (max-width: 640px) {
-  .nav-search input { display: none; }
+  .nav-inner { padding: 0 16px; }
   .nav-search { padding: 6px 10px; }
+  .nav-search svg { display: none; }
+  .nav-search input { display: block; width: 60px; }
+  .nav-cta-label { display: none; }
+  .logo-large { display: none !important; }
+  .logo-small { display: block !important; }
 }
+.logo-small { display: none; }
 
 /* Search dropdown */
 .nav-search-wrap { position: relative; }
