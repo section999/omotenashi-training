@@ -4,15 +4,15 @@ section: 1
 title: Understanding the Japanese Guest Room
 ---
 
-A Japanese accommodation space — whether a hotel room or a traditional *ryokan* — is not simply a place to sleep. It is a curated environment designed to make the guest feel at ease, at home, and honoured. Understanding the elements of that space is the foundation of excellent room service.
+A Japanese accommodation space, whether a hotel room or a traditional *ryokan*, is not simply a place to sleep. It is a curated environment designed to make the guest feel at ease, at home, and honoured. Understanding the elements of that space is what good room service is built on.
 
 **The tatami room (和室, *washitsu*):**
-Traditional Japanese rooms are floored with *tatami* — woven rush mats with a distinctive smell and a soft surface. Guests remove shoes before entering (slippers are left at the threshold). The space is intentionally minimal: furniture is low, storage is concealed, and the room breathes. The open quality of the washitsu is deliberate — it communicates calm.
+Traditional Japanese rooms are floored with *tatami*, woven rush mats with a distinctive smell and a soft surface. Guests remove shoes before entering; slippers are left at the threshold. The space is intentionally minimal: furniture is low, storage is concealed, and the room breathes. That open, uncluttered quality is deliberate. It communicates calm in a way that a furnished room simply cannot.
 
 Key elements of the washitsu:
-- **Tokonoma (床の間)** — an alcove displaying a hanging scroll (*kakejiku*) and a seasonal flower arrangement. This is the spiritual and aesthetic focal point of the room. Nothing should be placed in the tokonoma by guests or staff.
-- **Chabudai (ちゃぶ台)** — a low table around which guests sit on floor cushions (*zabuton*).
-- **Futon** — stored in the closet (*oshiire*) during the day, laid out by staff in the evening.
+- **Tokonoma (床の間)**: an alcove displaying a hanging scroll (*kakejiku*) and a seasonal flower arrangement. This is the spiritual and aesthetic focal point of the room. Nothing should be placed in the tokonoma by guests or staff.
+- **Chabudai (ちゃぶ台)**: a low table around which guests sit on floor cushions (*zabuton*).
+- **Futon**: stored in the closet (*oshiire*) during the day, laid out by staff in the evening.
 
 **The hotel-style room (洋室, *yōshitsu*):**
 Western-style rooms follow international conventions but often include Japanese details: yukata robes, green tea sets, and seasonal decorations that reflect the property's local identity.
@@ -24,7 +24,7 @@ Staff who understand the room's design logic can explain it to curious guests, c
 
 ## Key Phrases
 
-**床の間 (tokonoma)** — the decorative alcove; the spiritual focal point of a washitsu
+**床の間 (tokonoma)**: the decorative alcove; the spiritual focal point of a washitsu
 *Never place items inside it.*
 
 **お部屋にご案内いたします。** *(O-heya ni go-annai itashimasu.)*

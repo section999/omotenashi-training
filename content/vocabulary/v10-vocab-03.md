@@ -4,9 +4,9 @@ section: 3
 title: 分割払い (bunkatsu barai)
 ---
 
-分割払い refers to dividing a total payment into multiple scheduled installments, typically processed through a credit card's installment function. In Japanese hospitality, it is most relevant for high-value stays such as extended hotel packages, wedding banquets, or premium ryokan experiences where the total charge may be significant. Staff must be prepared to explain not only the number of installments (何回払い) but also whether the card issuer or the hotel applies a 手数料 (processing fee), as this can affect the guest's decision. Transparency at this stage is a core omotenashi value — guests should never be surprised by additional costs.
+分割払い refers to dividing a total payment into multiple scheduled installments, typically processed through a credit card's installment function. In Japanese hospitality it comes up most often for high-value stays — extended hotel packages, wedding banquets, or premium ryokan experiences where the total is significant. Staff need to be prepared to explain not just the number of installments (何回払い) but also whether the card issuer or the hotel applies a 手数料 (processing fee), since that can affect the guest's decision. The tricky part is that transparency here isn't optional — guests who feel surprised by extra costs will remember it.
 
-Practically, the option for 分割払い is presented on the card terminal during payment, and staff guide guests through selecting the appropriate number of installments. Not all cards or card brands support installments, and some hotels do not offer the option at all, so staff must know their property's policy precisely. When installments are offered, stating the monthly amount clearly (毎月〇〇円のお支払いになります) helps guests visualize the financial commitment and make an informed choice.
+In practice, the 分割払い option appears on the card terminal during payment, and staff guide guests through selecting the right number of installments. Not all cards support it, and some hotels simply don't offer it, so knowing your property's actual policy precisely matters. When installments are available, stating the monthly amount clearly — 毎月〇〇円のお支払いになります — helps guests understand the financial commitment and make a real choice.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Practically, the option for 分割払い is presented on the card terminal durin
 
 ## Related Expressions
 
-- **一括払い (ikkatsu barai)** — the default single-payment alternative; always offered alongside 分割払い so the guest can compare and choose.
-- **リボ払い (ribo barai)** — revolving credit payment, a different type of installment where a fixed monthly amount is charged regardless of total; sometimes confused with 分割払い but operates differently and usually carries higher fees.
+- **一括払い (ikkatsu barai)**: the default single-payment alternative; always offered alongside 分割払い so the guest can compare and choose.
+- **リボ払い (ribo barai)**: revolving credit payment, a different type of installment where a fixed monthly amount is charged regardless of total; sometimes confused with 分割払い but operates differently and usually carries higher fees.
 
 ## Common Mistakes
 
-A common error is presenting 分割払い before the guest has asked about it, which can imply the hotel doubts the guest's ability to pay in full — always offer 一括払い first. Learners sometimes confuse 分割払い with 後払い (pay later); 分割払い involves a structured schedule through the card issuer, while 後払い is simply deferred payment. Staff must also avoid quoting specific installment fee rates without checking, as rates vary by card brand and can change.
+A common error is bringing up 分割払い before the guest has asked about it — this can come across as implying the hotel doubts the guest's ability to pay in full. Always offer 一括払い first. Students also sometimes mix up 分割払い with 後払い (pay later); 分割払い involves a structured schedule through the card issuer, while 後払い simply defers payment. One more: never quote specific installment fee rates without checking first, since rates vary by card brand and change.
 
 ---
 

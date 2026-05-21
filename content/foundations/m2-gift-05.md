@@ -4,7 +4,7 @@ section: 5
 title: Gift-Giving with International Guests
 ---
 
-International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where gift-giving at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully — without imposing Japanese customs or dismissing the guest's own — is a refined hospitality skill.
+International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where offering gifts at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully, without imposing Japanese customs or dismissing the guest's own, is a refined hospitality skill.
 
 **When a guest from abroad presents a gift:**
 
@@ -16,14 +16,14 @@ If your property has a custom of presenting welcome gifts, brief explanations ad
 
 **What to avoid:**
 
-- **Giving an even number of items to Chinese guests** — in some contexts, even numbers (except four) are preferred; however, in Chinese culture, giving four of anything is highly inauspicious, as in Japanese.
-- **Giving white flowers or chrysanthemums to many East Asian guests** — these are associated with funerals and mourning in several cultures.
-- **Giving alcohol to guests who may be Muslim** — always know your guest's background before selecting any food or drink gift.
-- **Giving leather goods to Hindu guests** — sacred cow considerations apply.
+- **Giving an even number of items to Chinese guests**: in some contexts, even numbers (except four) are preferred; however, giving four of anything is highly inauspicious in Chinese culture, as in Japanese.
+- **Giving white flowers or chrysanthemums to many East Asian guests**: these are associated with funerals and mourning in several cultures.
+- **Giving alcohol to guests who may be Muslim**: always know your guest's background before selecting any food or drink gift.
+- **Giving leather goods to Hindu guests**: sacred cow considerations apply.
 
 **The universal principle:**
 
-Every culture has some form of gift-giving, and every culture values the feeling of being thought about. When in doubt, prioritise sincerity and local meaning over technical correctness. A gift that carries a genuine story is appreciated in any culture.
+Every culture has some form of gift-giving, and every culture values the feeling of being thought about. When in doubt, prioritise sincerity and local meaning over technical correctness. A gift that carries a genuine story is appreciated anywhere.
 
 ---
 

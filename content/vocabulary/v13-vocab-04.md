@@ -4,9 +4,9 @@ section: 4
 title: 同僚 (douryou)
 ---
 
-同僚 refers to colleagues — people who work alongside you in the same organisation or department at a comparable level. In the hospitality industry, positive relationships among 同僚 are essential to delivering seamless guest experiences. When a front-desk colleague covers your duties during a break, or when kitchen staff coordinate timing with the dining room team, that cooperation is the daily expression of 同僚 spirit. Japanese hospitality culture places high value on team harmony (和, wa), and 同僚 relationships are the foundation of that harmony.
+同僚 refers to colleagues — the people who work alongside you in the same organisation or department at a comparable level. In hospitality, good 同僚 relationships are what keep the operation running smoothly. When a front-desk colleague covers your duties during a break, or when kitchen staff and the dining room team coordinate on timing, that's the day-to-day expression of 同僚 spirit in action. Japanese hospitality culture places high value on team harmony — 和 (wa) — and 同僚 relationships are where that harmony gets built or broken.
 
-Because much of hospitality work is shift-based and fast-paced, trust among 同僚 is critical. Staff rely on one another for accurate handovers, shared knowledge of guest preferences, and mutual support during busy periods. Socialising with 同僚 outside of work — through team meals or post-shift gatherings — is also part of Japanese workplace culture and helps strengthen bonds that translate into better in-service coordination.
+Because so much of hospitality work is shift-based and fast-paced, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and backup during busy stretches. Socialising outside of work, through team meals or post-shift gatherings, is also part of the culture and tends to build the kind of rapport that translates into better coordination during service.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Because much of hospitality work is shift-based and fast-paced, trust among 同�
 
 ## Related Expressions
 
-- **先輩 (senpai)** — a senior colleague with more experience or tenure; the relationship is less equal than 同僚 and carries mentoring responsibilities for the senior party.
-- **後輩 (kouhai)** — a junior colleague who joined after you; the counterpart to 先輩, and someone you are expected to guide and support.
+- **先輩 (senpai)**: a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries mentoring responsibilities for the senior party.
+- **後輩 (kouhai)**: a junior colleague who joined after you; the counterpart to 先輩, and someone you're expected to guide and support.
 
 ## Common Mistakes
 
-A frequent mistake is using 同僚 to describe someone who is clearly your senior — that would be 先輩 or 上司. Similarly, do not use it for someone much more junior, as that may come across as dismissive of the seniority gap. Learners also sometimes confuse 同僚 (colleague at the same level) with スタッフ (staff in general), but スタッフ refers to the group as a whole rather than to a specific peer relationship.
+A frequent mistake is using 同僚 to describe someone who is clearly more senior — that would be 先輩 or 上司. Similarly, using it for someone much more junior can come across as dismissive of the seniority gap. Students also sometimes confuse 同僚 with スタッフ. The difference is straightforward: スタッフ refers to the group as a whole, while 同僚 is about a specific peer relationship — someone at your level.
 
 ---
 

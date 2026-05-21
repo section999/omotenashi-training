@@ -4,7 +4,7 @@ section: 4
 title: Bowing — Ojigi, the Language of Respect
 ---
 
-**お辞儀 (ojigi)** — the bow — is the most visible gesture in Japanese hospitality. It is not a single act but a spectrum of expressions, each calibrated to the relationship, the situation, and the degree of respect being communicated. Understanding the bow in depth transforms it from a mechanical habit into a genuine language.
+**お辞儀 (ojigi)**, the bow, is the most visible gesture in Japanese hospitality. It is not a single act but a spectrum of expressions, each calibrated to the relationship, the situation, and the degree of respect being conveyed. Understanding the bow in depth transforms it from a mechanical habit into a genuine language.
 
 **The three primary bowing angles:**
 
@@ -25,9 +25,9 @@ title: Bowing — Ojigi, the Language of Respect
 
 **Common errors to avoid:**
 
-- **Nodding instead of bowing** — a head nod is not a bow and reads as casual
-- **Bowing while speaking** — the bow and the words should be separate; bow, then speak, or speak, then bow
-- **Mechanical repetition** — bowing without intention is worse than not bowing; the guest feels the difference
+- **Nodding instead of bowing**: a head nod is not a bow and reads as casual
+- **Bowing while speaking**: the bow and the words should be separate; bow, then speak, or speak, then bow
+- **Mechanical repetition**: bowing without intention is worse than not bowing; the guest feels the difference
 
 **Receiving a bow:**
 Return the guest's bow at an equal or slightly deeper angle. Never fail to return a bow — it is a gesture that expects acknowledgement.
@@ -36,9 +36,9 @@ Return the guest's bow at an equal or slightly deeper angle. Never fail to retur
 
 ## Key Phrases
 
-**会釈 (eshaku)** — 15° bow; brief acknowledgement passing a colleague or guest
-**敬礼 (keirei)** — 30° bow; standard greeting and farewell with guests
-**最敬礼 (saikeirei)** — 45° bow; deep gratitude, sincere apology, VIP reception
+**会釈 (eshaku)**: 15° bow; brief acknowledgement passing a colleague or guest
+**敬礼 (keirei)**: 30° bow; standard greeting and farewell with guests
+**最敬礼 (saikeirei)**: 45° bow; deep gratitude, sincere apology, VIP reception
 
 ---
 

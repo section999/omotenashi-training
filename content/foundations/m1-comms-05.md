@@ -16,16 +16,16 @@ The most important decision is not *how* to approach but *whether* to approach r
 
 When you have identified that the moment is right:
 
-- Move **unhurried but purposeful**. Rushing signals anxiety; ambling signals indifference. The pace communicates: "I am coming to you with full attention, at your speed."
-- A slight **bow or nod** as you arrive acknowledges the guest's presence before you speak. It says: "I see you" before you say anything.
+- Move **unhurried but purposeful**. Rushing suggests anxiety; ambling suggests indifference. The pace says: "I am coming to you with full attention, at your speed."
+- A slight **bow or nod** as you arrive acknowledges the guest's presence before you speak. It says "I see you" before you say anything.
 - Position yourself at a **natural conversational distance** — not hovering over a seated guest, not speaking from so far away that they must raise their voices to respond.
 - Your **opening words** should be open and warm, not transactional. "Good evening — I hope everything is to your liking" invites a real response. "Ready to order?" does not.
 
 **Tone and register:**
 
-The tone of your approach should match the context. At a formal dinner, the approach is quiet and unhurried, the voice low and the manner reserved. At a casual poolside setting, a warmer and more relaxed manner is appropriate. The register of your voice — not just the words but the pace, volume, and warmth — signals that you have read the environment.
+The tone of your approach should match the context. At a formal dinner, the approach is quiet and unhurried, the voice low and the manner reserved. At a casual poolside setting, a warmer and more relaxed manner is appropriate. The register of your voice — not just the words but the pace, volume, and warmth — shows that you have read the environment.
 
-In all cases, begin with acknowledgement before function. Acknowledge the guest as a person first ("Good evening, welcome back") before moving to operational matters ("Your reservation is confirmed"). The order communicates what you prioritise.
+In all cases, begin with acknowledgement before function. Acknowledge the guest as a person first ("Good evening, welcome back") before moving to operational matters ("Your reservation is confirmed"). The order says something about what you prioritise.
 
 **The close:**
 

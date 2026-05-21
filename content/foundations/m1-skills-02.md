@@ -4,7 +4,7 @@ section: 2
 title: Handling Guest Belongings
 ---
 
-The way you handle a guest's belongings communicates volumes before a word is spoken. Luggage, coats, personal items — each one represents something the guest values. Handling them with quiet care and precision signals: *I understand that what matters to you matters to me.* Handling them carelessly, even if efficient, signals the opposite.
+The way you handle a guest's belongings communicates volumes before a word is spoken. Luggage, coats, personal items — each one represents something the guest values. Handling them with quiet care and precision says: *I understand that what matters to you matters to me.* Handling them carelessly, even if efficient, says the opposite.
 
 **The principle of visible respect:**
 

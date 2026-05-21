@@ -4,9 +4,9 @@ section: 8
 title: 騒音 (souon)
 ---
 
-騒音 (souon) refers to noise that causes discomfort or disruption, and is the formal term staff should use when acknowledging or investigating sound-related complaints. Sources of 騒音 in a hotel or ryokan can include other guests, street traffic, kitchen ventilation, construction work, or malfunctioning equipment. In Japanese hospitality, noise management is taken seriously because the atmosphere of tranquility — particularly in ryokan and traditional inns — is central to the guest experience. A calm, quiet environment is not just a comfort preference but an expected component of the service promise.
+騒音 (souon) refers to noise that causes discomfort or disruption, and is the formal term staff should use when acknowledging or investigating sound-related complaints. Sources of 騒音 in a hotel or ryokan can include other guests, street traffic, kitchen ventilation, construction work, or malfunctioning equipment. Noise management is taken seriously in Japanese hospitality because a quiet, tranquil atmosphere — especially in ryokan and traditional inns — is central to what guests are paying for. When that atmosphere is broken, guests feel the failure immediately.
 
-When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. The professional approach is to acknowledge the disruption, investigate the source promptly, and offer intermediate solutions — such as a room relocation or earplugs — while the investigation is underway. If the noise originates from another guest, staff must handle the situation with discretion, as directly confronting another guest on behalf of a complainant requires careful judgment and often manager involvement.
+When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. Investigate promptly, acknowledge the disruption, and offer intermediate solutions — a room relocation or earplugs — while the investigation is underway. The tricky part is when the noise originates from another guest. Directly confronting another guest on behalf of a complainant requires careful judgment and usually manager involvement. Students often underestimate how diplomatically that situation must be handled.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When a guest reports 騒音, staff should respond without dismissing or minimisi
 
 ## Related Expressions
 
-- **うるさい (urusai)** — a casual adjective meaning "noisy" or "loud"; used by guests to describe discomfort but inappropriate for staff to use in formal responses — 騒音 should be substituted.
-- **物音 (monooto)** — sounds made by objects or movement (footsteps, doors closing); slightly narrower than 騒音, which encompasses all noise types.
+- **うるさい (urusai)**: a casual adjective meaning "noisy" or "loud"; guests will use it freely, but staff should avoid it in formal responses, substituting 騒音 instead.
+- **物音 (monooto)**: sounds made by objects or movement (footsteps, doors closing); slightly narrower than 騒音, which encompasses all noise types.
 
 ## Common Mistakes
 
-The most common mistake is echoing a guest's casual language by saying うるさいですね (it's noisy, isn't it) — this matches the informal register and fails to signal professional action. Staff must reframe the guest's complaint using the formal term 騒音 and pair it immediately with a commitment to investigate. Another error is over-promising that the noise will stop — unless the source is directly controllable by staff, the correct approach is to commit to investigating and offer alternatives rather than guaranteeing silence.
+The most common mistake is echoing a guest's casual language by saying うるさいですね — it matches their register but signals no professional action, and it sounds out of place coming from a staff member. Reframe using the formal term 騒音 and pair it immediately with a commitment to investigate. Another error is over-promising: unless the source is directly controllable by staff, do not guarantee silence. The right approach is to commit to investigating and offer alternatives. In practice, guests are usually more reassured by genuine effort than by promises that cannot be kept.
 
 ---
 

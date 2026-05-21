@@ -4,9 +4,9 @@ section: 11
 title: 寒い (samui)
 ---
 
-寒い is an i-adjective meaning cold or chilly. Like its counterpart 暑い, this is one of the most fundamental physical comfort complaints a guest may express, and responding to it swiftly reflects directly on the quality of the hotel's attentiveness. In Japanese hospitality, cold discomfort is taken particularly seriously in winter months and in traditional ryokan settings, where the transition between heated common areas and cooler private rooms can be stark. Additionally, elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold, so staff should be especially alert to 寒い signals and respond with care.
+寒い is an i-adjective meaning cold or chilly. Like its counterpart 暑い, this is one of the most fundamental physical comfort complaints a guest may express, and responding to it swiftly reflects directly on the quality of the hotel's attentiveness. Cold discomfort is taken particularly seriously in winter months and in traditional ryokan settings, where the transition between heated common areas and cooler private rooms can be stark. Elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold than average, so staff should be alert to 寒い signals and not wait for a second complaint before acting.
 
-Practical responses to 寒い complaints include adjusting the air conditioning or heating system, offering extra blankets (毛布, moufu), providing a hot-water bottle (湯たんぽ, yutanpo) — particularly in ryokan — or preparing warm beverages. At premium establishments, anticipating cold complaints before they arise — for example, by pre-warming rooms in winter — is considered excellent service. Staff should be familiar with the heating controls in each room type so they can guide guests through adjustments or offer to make changes on their behalf.
+Practical responses include adjusting the heating system, offering extra blankets (毛布, moufu), providing a hot-water bottle (湯たんぽ, yutanpo) — particularly useful in ryokan — or preparing warm beverages. At premium establishments, anticipating cold complaints before they arise, such as pre-warming rooms in winter, is considered excellent service. That kind of proactive thinking does not happen by accident — it comes from staff who understand what their guests will need before they ask.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Practical responses to 寒い complaints include adjusting the air conditioning 
 
 ## Related Expressions
 
-- **空調 (kuuchou)** — the HVAC system governing both heating and cooling; 空調を調整いたします is the standard response phrase for both 寒い and 暑い complaints.
-- **毛布 (moufu)** — blanket; a tangible and immediate solution to cold discomfort that can be offered while longer-term heating adjustments are made.
+- **空調 (kuuchou)**: the HVAC system governing both heating and cooling; 空調を調整いたします is the standard response phrase for both 寒い and 暑い complaints.
+- **毛布 (moufu)**: blanket; a tangible and immediate solution to cold discomfort that can be offered while longer-term heating adjustments are being made.
 
 ## Common Mistakes
 
-A common mistake is offering the same solution for all cold complaints without distinguishing cause: a guest who is cold because the heating is broken needs a different response than one who is cold because the window is open. Asking a simple clarifying question — 暖房はついておりますでしょうか (is the heating on?) — before acting shows attentiveness. Staff should also avoid the phrase 寒いですね without following it with action, as the sympathetic but passive response can feel dismissive in a premium service context.
+A common mistake is offering the same solution for all cold complaints without first understanding the cause. A guest who is cold because the heating is broken needs a different response from one who is cold because the window is open. Asking a simple clarifying question — 暖房はついておりますでしょうか (is the heating on?) — before acting shows genuine attentiveness. Staff should also avoid the phrase 寒いですね without following it with action. In a premium service context, sympathetic agreement without a next step feels dismissive.
 
 ---
 

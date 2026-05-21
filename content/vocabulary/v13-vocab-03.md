@@ -4,9 +4,9 @@ section: 3
 title: 上司 (joushi)
 ---
 
-上司 means boss or supervisor — the person above you in the workplace hierarchy who oversees your performance and gives instructions. In Japanese hospitality culture, the relationship between an employee and their 上司 is built on respect, clear communication, and a strong sense of duty. Referring to your superior as 上司 when speaking to a third party is standard practice, though when addressing them directly, you would use their name plus さん or their title (e.g., 部長, 支配人). The deference shown to a 上司 is a cornerstone of Japanese business etiquette and is especially visible in hotel and ryokan environments where hierarchy shapes every interaction.
+上司 means boss or supervisor — the person above you in the workplace hierarchy who oversees your performance and gives instructions. In Japanese hospitality culture, the relationship between an employee and their 上司 is built on respect, clear communication, and a strong sense of duty. When referring to your superior in conversation with a third party, 上司 is the standard word. When speaking directly to them, though, you never use it — you'd address them by name with さん or by their title (部長, 支配人, and so on). This is one of those distinctions that catches learners off guard.
 
-In practical terms, employees are expected to report task progress to their 上司, seek approval before making decisions, and consult them when problems arise. The concept of "hōkoku, renraku, sōdan" (報告・連絡・相談) — report, communicate, consult — is a widely taught principle in Japanese workplaces, and 上司 is central to all three of those flows. A good supervisor in hospitality also models guest-service behaviour, setting the standard for their team.
+In practical terms, employees are expected to report task progress to their 上司, seek approval before making independent decisions, and consult them when anything uncertain comes up. The triad 報告・連絡・相談 — report, communicate, consult, often abbreviated as ホウレンソウ — is something every Japanese hospitality professional learns early, and 上司 sits at the centre of all three flows. A good supervisor in hospitality also models guest-service behaviour, setting the tone that the rest of the team follows.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practical terms, employees are expected to report task progress to their 上�
 
 ## Related Expressions
 
-- **部長 (buchou)** — department head; a specific title for an upper-level manager, used when you know their exact rank rather than just referring to them generically as 上司.
-- **先輩 (senpai)** — a senior colleague who joined the company before you; carries mentoring connotations but is not necessarily a supervisor in the formal management sense.
+- **部長 (buchou)**: department head; a specific title for an upper-level manager, useful when you know their rank rather than just referring to them generically as 上司.
+- **先輩 (senpai)**: a senior colleague who joined before you; carries mentoring connotations but isn't necessarily your supervisor in any formal sense.
 
 ## Common Mistakes
 
-Learners sometimes use 上司 when directly addressing their manager, which sounds awkward — you never call someone "上司" to their face, just as you would not call someone "boss" in English as a direct address in formal Japanese settings. Another error is confusing 上司 with 先輩: 先輩 denotes seniority in experience or tenure, while 上司 denotes authority in the organisational structure.
+Students sometimes use 上司 when talking directly to their manager, which sounds wrong — you would never call someone "上司" to their face, any more than you'd call someone "boss" in that particular direct way in formal Japanese settings. Another mix-up is confusing 上司 with 先輩. 先輩 is about seniority in tenure or experience; 上司 is about authority in the org chart. The two sometimes overlap, but not always — you might have a 先輩 who isn't your 上司, and vice versa.
 
 ---
 

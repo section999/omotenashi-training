@@ -4,7 +4,7 @@ section: 1
 title: What is Omotenashi?
 ---
 
-**Omotenashi (おもてなし)** is the Japanese concept of wholehearted hospitality. It is often translated as "selfless service" or "entertaining with no expectation of anything in return" — but neither fully captures the meaning. The word is composed of *omote* (表, public face or surface) and *nashi* (なし, without, lacking). Together they suggest: *service with no hidden agenda, no false face, nothing held back*.
+**Omotenashi (おもてなし)** is the Japanese concept of wholehearted hospitality. It is often translated as "selfless service" or "entertaining with no expectation of anything in return," but neither fully captures the meaning. The word is composed of *omote* (表, public face or surface) and *nashi* (なし, without, lacking). Together they suggest: *service with no hidden agenda, no false face, nothing held back*.
 
 At its heart, omotenashi is a philosophy of complete sincerity. The host acts entirely for the guest's benefit — not to earn a tip, not to meet a performance target, not to perform a role — but because the guest's comfort and happiness are genuinely valued. This is what separates omotenashi from other service traditions: the absence of transaction.
 
@@ -12,15 +12,15 @@ At its heart, omotenashi is a philosophy of complete sincerity. The host acts en
 
 In many service contexts, hospitality is framed as an exchange. The guest pays; the property delivers. Expectations are managed; complaints are handled according to protocol. In omotenashi, the frame is entirely different. The guest is received as a valued person, not as a customer. The host's purpose is not to satisfy a contract but to create a genuinely meaningful experience.
 
-This distinction has practical consequences. In a transactional model, staff do what is asked. In omotenashi, staff do what is needed — including things the guest hasn't asked for, hasn't thought to ask for, and may not even notice. The effort is invisible; only its effect is felt. The highest expression of omotenashi is when the guest feels completely at ease without being conscious of the care that produced that ease.
+This distinction has practical consequences. In a transactional model, staff do what is asked. In omotenashi, staff do what is needed, including things the guest hasn't asked for, hasn't thought to ask for, and may not even notice. The effort is invisible; only its effect is felt. The highest expression of omotenashi is when the guest feels completely at ease without being conscious of the care that produced that ease.
 
 **Three defining qualities:**
 
-1. **Anticipation** — acting on what the guest will need before they ask. A hot towel for a tired traveller. A preferred pillow remembered from a previous stay. A room adjusted to the guest's known comfort temperature before they arrive.
+1. **Anticipation:** acting on what the guest will need before they ask. A hot towel for a tired traveller. A preferred pillow remembered from a previous stay. A room adjusted to the guest's known comfort temperature before they arrive.
 
-2. **Sincerity** — every action motivated by genuine care, not by performance or obligation. A guest can feel the difference between a warm welcome and a scripted one, even if they cannot explain how.
+2. **Sincerity:** every action motivated by genuine care, not by performance or obligation. A guest can feel the difference between a warm welcome and a scripted one, even if they cannot explain how.
 
-3. **Invisibility of effort** — the host's preparation and attention should not be visible to the guest. The experience should feel effortless and natural. When a guest has to think about how much effort has been made, the illusion of seamlessness is broken.
+3. **Invisibility of effort:** the host's preparation and attention should not be visible to the guest. The experience should feel effortless and natural. When a guest has to think about how much effort has been made, the illusion of seamlessness is broken.
 
 **Omotenashi as a team culture:**
 

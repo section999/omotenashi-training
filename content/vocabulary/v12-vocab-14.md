@@ -18,8 +18,8 @@ When a guest reports feeling unwell, staff should first ask about their symptoms
 *Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.*
 "If you experience any symptoms of illness, please inform the front desk immediately."
 
-**3.** お子様が病気になられた場合は、最寄りの小児科病院へご案内いたします。
-*Okosama ga byouki ni narareta baai wa, moyori no shōnika byouin e goannai itashimasu.*
+**3.** お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。
+*Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*
 "If your child falls ill, we will direct you to the nearest paediatric hospital."
 
 ## Related Expressions

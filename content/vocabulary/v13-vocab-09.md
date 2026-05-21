@@ -4,9 +4,9 @@ section: 9
 title: 休憩 (kyuukei)
 ---
 
-休憩 refers to a break period during work — a designated time when employees step away from their duties to rest, eat, and recharge. In Japan, 休憩 time is legally regulated: the Labour Standards Act requires at least a 45-minute break for shifts exceeding 6 hours, and at least 60 minutes for shifts exceeding 8 hours. For hospitality workers — who are often on their feet throughout a shift, managing guest requests and maintaining high service standards — 休憩 is not a luxury but a necessity for sustained performance. Hotels and ryokan typically stagger break times across departments to ensure service continuity.
+休憩 refers to a break period during work — a designated time when employees step away from their duties to rest, eat, and recharge. In Japan, this is legally regulated: the Labour Standards Act requires at least a 45-minute break for shifts exceeding six hours, and at least 60 minutes for shifts over eight hours. For hospitality workers on their feet throughout a shift — fielding guest requests, maintaining service standards — 休憩 isn't optional. It's how they sustain performance. Hotels and ryokan typically stagger breaks across departments so service continuity is never interrupted.
 
-Culturally, Japanese employees tend to be conscientious about not taking breaks that are too long or too frequent, as this could be seen as a lack of commitment. At the same time, responsible managers actively encourage their team to take 休憩 properly, recognising that rested staff deliver better service. During 休憩, it is common to step to a designated staff area, eat a meal, or simply sit quietly — away from the public areas and guest sight lines.
+Culturally, Japanese employees tend to be conscientious about not taking breaks that run long or feel self-indulgent, since that could read as a lack of commitment. At the same time, good managers actively push their teams to take 休憩 properly, knowing that rested staff deliver better service. During 休憩, the expectation is to step to a designated staff area — away from guest sight lines — eat, and genuinely rest.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Culturally, Japanese employees tend to be conscientious about not taking breaks 
 
 ## Related Expressions
 
-- **休み (yasumi)** — refers to a day off, not a break within a shift; a common source of confusion for learners since both involve rest.
-- **残業 (zangyou)** — overtime, the opposite end of the spectrum; if 残業 is frequent, it can erode the 休憩 time employees are entitled to, raising both legal and welfare concerns.
+- **休み (yasumi)**: refers to a day off, not a break within a shift; a common source of confusion since both involve rest.
+- **残業 (zangyou)**: overtime, the opposite end of the spectrum — if 残業 is frequent, it can eat into the 休憩 time employees are entitled to, raising both legal and welfare concerns.
 
 ## Common Mistakes
 
-The most common mistake is confusing 休憩 (break during a shift) with 休み (a day off work entirely). A sentence like「今日は休憩です」sounds strange — you would say 「今日は休みです」to mean "I have the day off." Learners should also note that 休憩する is the correct verbal form (not just 休憩 alone), and that 休憩中 means "currently on a break," which is a useful phrase for guest-facing staff to know.
+The most common mistake is confusing 休憩 with 休み. A sentence like「今日は休憩です」sounds strange — you'd say「今日は休みです」to mean "I have the day off." These are different concepts and students should keep them clearly separated. Also worth knowing: 休憩する is the correct verbal form, and 休憩中 means "currently on a break" — a useful phrase for guest-facing staff to know when explaining why a colleague is momentarily unavailable.
 
 ---
 

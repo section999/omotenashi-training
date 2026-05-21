@@ -4,7 +4,7 @@ section: 4
 title: Giving and Receiving — The Ritual Exchange
 ---
 
-The moment of exchange — presenting or receiving a gift — is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual is essential whether you are presenting a gift on behalf of the property, receiving one from a guest, or assisting a guest who is preparing to give.
+The moment of exchange — presenting or receiving a gift — is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual matters whether you are presenting a gift on behalf of the property, receiving one from a guest, or helping a guest who is preparing to give.
 
 **Presenting a gift:**
 
@@ -15,13 +15,13 @@ Use the phrase *"つまらないものですが"* (tsumaranai mono desu ga) — 
 
 **Receiving a gift:**
 
-The recipient typically protests slightly before accepting — *"ご丁寧に、恐れ入ります"* (How kind of you — I am humbled). This is not false modesty; it is the socially expected ritual of demonstrating that you are not grabbing at the gift greedily.
+The recipient typically protests slightly before accepting: *"ご丁寧に、恐れ入ります"* (How kind of you — I am humbled). This is not false modesty; it is the socially expected ritual of showing that you are not grabbing at the gift greedily.
 
 **The timing of opening:**
-In traditional Japanese practice, gifts are not opened in front of the giver. This prevents any visible disappointment and removes any implicit pressure on the giver. However, guests from non-Japanese cultures may expect the gift to be opened and reacted to immediately. Read the situation — if a foreign guest clearly expects you to open their gift, doing so warmly and enthusiastically is the right response.
+In traditional Japanese practice, gifts are not opened in front of the giver. This prevents any visible disappointment and removes any pressure on the giver. That said, guests from non-Japanese cultures may expect the gift to be opened and reacted to immediately. Read the situation. If a foreign guest clearly expects you to open their gift, doing so warmly and enthusiastically is absolutely the right response.
 
 **Number symbolism:**
-Avoid giving gifts in sets of four (四, *shi* — associated with death) or nine (九, *ku* — associated with suffering). Sets of three, five, or seven are considered auspicious.
+Avoid giving gifts in sets of four (四, *shi*, associated with death) or nine (九, *ku*, associated with suffering). Sets of three, five, or seven are considered auspicious.
 
 ---
 

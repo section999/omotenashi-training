@@ -4,9 +4,9 @@ section: 2
 title: 一括払い (ikkatsu barai)
 ---
 
-一括払い means paying the full amount in a single transaction, as opposed to spreading it across multiple installments. In Japanese hospitality, this is the standard and assumed payment mode for most hotel stays, restaurant bills, and spa services; staff confirm it as the default before processing rather than assuming. The term is especially important in card transactions, where the terminal may prompt a choice between 一括 (lump sum) and 分割 (installments). Being clear about this distinction prevents the need to void and reprocess a payment, which causes delays and can unsettle guests.
+一括払い means paying the full amount in a single transaction, as opposed to spreading it across installments. In Japanese hospitality, this is the standard assumed payment mode for most hotel stays, restaurant bills, and spa services. Staff confirm it as the default before processing, rather than just assuming. The term matters most in card transactions, where the terminal will prompt a choice between 一括 (lump sum) and 分割 (installments). Getting this wrong means voiding and reprocessing a payment, which delays everyone and can visibly unsettle a guest.
 
-For shorter stays or straightforward service charges, 一括払い is almost always appropriate and preferred. When a guest's bill is particularly high — such as a multi-night banquet package — staff may gently introduce the option of 分割払い, but 一括払い remains the default starting point. The confirmation phrase ご一括でよろしいでしょうか is a standard check before processing any card payment, and staff should use it consistently regardless of the bill size.
+For shorter stays or straightforward charges, 一括払い is almost always appropriate. That said, when a bill is particularly large — a multi-night banquet package, for instance — staff may gently introduce 分割払い as an option. Still, 一括払い is where you start. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ For shorter stays or straightforward service charges, 一括払い is almost alw
 
 ## Related Expressions
 
-- **分割払い (bunkatsu barai)** — the opposite of 一括払い; payment split into multiple installments, which may incur additional fees depending on the card issuer.
-- **全額 (zengaku)** — "full amount"; used in related contexts such as 全額ご負担いただきます (you will be responsible for the full amount), but not a payment method term itself.
+- **分割払い (bunkatsu barai)**: the opposite of 一括払い; payment split into multiple installments, which may incur additional fees depending on the card issuer.
+- **全額 (zengaku)**: "full amount"; used in related contexts such as 全額ご負担いただきます (you will be responsible for the full amount), but not a payment method term itself.
 
 ## Common Mistakes
 
-Learners often forget to confirm 一括払い before processing a card, leading to the terminal defaulting to installments if the guest accidentally selects the wrong option. Some staff confuse 一括払い with 前払い (prepayment) — 一括払い refers only to paying everything at once, not necessarily paying in advance. Avoid using the casual form 一括で (ikkatsu de) without a polite ending in guest-facing speech; the full phrase ご一括でよろしいでしょうか is expected in formal hospitality settings.
+Students often forget to confirm 一括払い before processing a card, so the terminal defaults to installments if the guest accidentally selects the wrong option. Some staff also confuse 一括払い with 前払い (prepayment) — 一括払い only refers to paying everything at once, not necessarily paying in advance. In guest-facing speech, avoid the casual shorthand 一括で without a polite ending; the full phrase ご一括でよろしいでしょうか is what formal hospitality contexts call for.
 
 ---
 

@@ -4,9 +4,9 @@ section: 4
 title: 前払い (maebarai)
 ---
 
-前払い means paying for a service before it is received, and it is common in Japanese hospitality for special rates, non-refundable booking plans, and online reservations through travel portals. Hotels and ryokans offering early-bird discounts or fully prepaid packages require 前払い to secure the booking and protect against last-minute cancellations. For guests, it guarantees their reservation is confirmed and often unlocks a reduced rate. Staff must communicate the payment deadline clearly along with the accepted payment methods to ensure the guest can complete the process without difficulty.
+前払い means paying for a service before receiving it, and it appears regularly in Japanese hospitality for special rates, non-refundable booking plans, and online reservations through travel portals. Hotels and ryokan offering early-bird discounts or fully prepaid packages use 前払い to secure the booking and protect against last-minute cancellations. For guests, prepaying confirms the reservation is locked and often unlocks a lower rate. Staff need to communicate the payment deadline clearly along with accepted methods — leaving either detail vague almost always causes problems later.
 
-In practice, 前払い is processed at the time of booking (online or by phone) or at a specified deadline before check-in. Front desk staff need to verify upon arrival that the 前払い has been received and recorded correctly before granting room access. When a prepayment has not been received by the deadline, proactively contacting the guest to resolve the situation is the professional expectation. Failing to do so risks the reservation falling through, causing inconvenience for both parties.
+In practice, 前払い is processed at booking (online or by phone) or by a set deadline before check-in. Front desk staff must verify on arrival that the 前払い has actually been received and recorded before granting room access. When a prepayment hasn't arrived by the deadline, proactively calling the guest to resolve it is the professional expectation — not waiting for the guest to show up. Failing to follow up risks the reservation falling through, which inconveniences everyone.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, 前払い is processed at the time of booking (online or by phone) 
 
 ## Related Expressions
 
-- **後払い (atobarai)** — the opposite arrangement, where payment is made after the service is received; common for room charges billed at checkout.
-- **デポジット (depojitto)** — a deposit rather than full prepayment; often required to hold a reservation without committing to full 前払い, especially for high-demand periods.
+- **後払い (atobarai)**: the opposite arrangement, where payment is made after the service is received; common for room charges billed at checkout.
+- **デポジット (depojitto)**: a deposit rather than full prepayment; often required to hold a reservation without committing to full 前払い, especially for high-demand periods.
 
 ## Common Mistakes
 
-Learners sometimes confuse 前払い with デポジット — a deposit is partial, while 前払い typically means the full amount paid in advance. Another mistake is failing to communicate the payment deadline clearly, leaving guests uncertain about when they must pay. Staff should also avoid confirming a reservation as "secured" before verifying the 前払い has actually been received and processed, as a pending bank transfer is not the same as confirmed payment.
+Students sometimes treat 前払い and デポジット as the same thing — a deposit is partial, while 前払い typically means the full amount paid in advance. Another slip is not communicating the payment deadline clearly, leaving guests uncertain about when they need to pay. Staff should also avoid confirming a reservation as "secured" before the 前払い has actually been received and processed. A pending bank transfer is not confirmed payment.
 
 ---
 

@@ -14,11 +14,11 @@ Hearing only the stated request is efficient. Hearing the implied context is car
 
 **The pattern of excellent request handling:**
 
-1. **Confirm clearly** — repeat the request back to ensure accuracy: *"Certainly — two extra pillows, I'll bring those up shortly."* This prevents errors and communicates that the guest has been heard.
+1. **Confirm clearly:** repeat the request back to ensure accuracy: *"Certainly — two extra pillows, I'll bring those up shortly."* This prevents errors and shows the guest they have been heard.
 
-2. **Act immediately** — do not delay, hedge, or offer an unclear timeline unless one is genuinely needed. *"I'll have that for you right away"* is the standard. If there will be a wait, say so specifically: *"It will take approximately fifteen minutes — shall I bring it as soon as it is ready?"*
+2. **Act immediately:** do not delay, hedge, or offer an unclear timeline unless one is genuinely needed. *"I'll have that for you right away"* is the standard. If there will be a wait, say so specifically: *"It will take approximately fifteen minutes — shall I bring it as soon as it is ready?"*
 
-3. **Anticipate the next logical need** — after fulfilling the request, consider what naturally follows. Examples:
+3. **Anticipate the next logical need:** after fulfilling the request, consider what naturally follows. Examples:
    - Extra pillows → *"Would you also like an extra blanket?"*
    - The bill → *"Shall I arrange a taxi for you as well?"*
    - Directions to the pharmacy → *"Is there anything specific you're looking for? I may be able to check availability for you."*
@@ -30,7 +30,7 @@ An extension of care serves the guest's actual need — it anticipates what they
 
 **When to extend and when to step back:**
 
-Not every request needs an extended response. A guest who asks for a glass of water at the bar wants water, not a conversation. Read the context: a guest in a hurry wants their request fulfilled quickly and completely; a guest with time may appreciate engagement. Match the response to what the guest's overall state signals.
+Not every request needs an extended response. A guest who asks for a glass of water at the bar wants water, not a conversation. Read the context: a guest in a hurry wants their request fulfilled quickly and completely; a guest with time may appreciate engagement. Match the response to what the guest's overall state suggests.
 
 ---
 

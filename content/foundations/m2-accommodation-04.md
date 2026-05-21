@@ -4,10 +4,10 @@ section: 4
 title: Ryokan Customs — Yukata, Futon, and Onsen
 ---
 
-A traditional Japanese inn — **ryokan (旅館)** — operates by customs that differ significantly from hotel norms. For international guests especially, these customs can be sources of delight or confusion. A well-prepared staff member can turn potential bewilderment into a memorable cultural experience.
+A traditional Japanese inn, **ryokan (旅館)**, operates by customs that differ significantly from hotel norms. For international guests especially, these customs can be sources of delight or confusion. A well-prepared staff member can turn potential bewilderment into a memorable cultural experience.
 
 **Yukata (浴衣):**
-A lightweight cotton robe provided for guests to wear within the ryokan — in the corridors, at dinner, and to the onsen. How to wear it correctly:
+A lightweight cotton robe provided for guests to wear within the ryokan: in the corridors, at dinner, and to the onsen. How to wear it correctly:
 
 - Left side over right (right over left is reserved for the deceased — a critical distinction)
 - Tied with the *obi* (sash) in a simple bow at the front
@@ -19,7 +19,7 @@ When explaining this to guests: *"左を上にしてお召しください。右�
 Guests sometimes try to help staff lay out the futon, or ask to do it themselves. Accept this graciously but complete the preparation to the property's standard. The guest has paid for the experience of returning to a prepared room.
 
 **Onsen (温泉) guidance:**
-Many international guests are unfamiliar with communal bathing customs. Key points to communicate clearly:
+Many international guests are unfamiliar with communal bathing customs. Worth communicating clearly:
 
 - Wash and rinse thoroughly at the shower station **before** entering the bath
 - Towels are not taken into the bath — small towels may be placed on the head or folded at the edge

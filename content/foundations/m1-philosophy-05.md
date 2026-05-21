@@ -6,16 +6,16 @@ title: Wabi-Sabi in the Modern Hotel
 
 **Wabi-sabi (侘び寂び)** is the Japanese aesthetic philosophy of finding beauty in imperfection, transience, and simplicity. It emerged from Zen Buddhism and the culture of the tea ceremony, where the worn edge of a bowl or the asymmetry of a hand-shaped cup were considered more beautiful — more honest — than perfect symmetry and flawless glaze. The flaw is evidence of a human hand; the impermanence is a reminder that this moment will pass.
 
-In hospitality, wabi-sabi is sometimes misunderstood as a preference for the rustic or the austere. Its real function is to guide aesthetic sensibility toward **restraint, seasonality, and the absence of the unnecessary.** A room decorated with a single seasonal branch communicates more care than one filled with elaborate decorations, because the restraint demonstrates that a considered choice was made: *this one thing, for this moment, for this guest.*
+In hospitality, wabi-sabi is sometimes misunderstood as a preference for the rustic or the austere. Its real function is to guide aesthetic sensibility toward **restraint, seasonality, and the absence of the unnecessary.** A room decorated with a single seasonal branch communicates more care than one filled with elaborate decorations, because the restraint tells you that a considered choice was made: *this one thing, for this moment, for this guest.*
 
 **Wabi-sabi in physical space:**
 
 The modern luxury hotel expresses wabi-sabi through:
 
-- **Natural materials** — wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and change, rather than maintaining an artificial perfection.
-- **Seasonal rotation** — decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu says: *we are not paying attention to the time.*
-- **Deliberate absence of clutter** — the tokonoma alcove contains only one carefully chosen scroll and one arrangement. The room breathes. There is space for the guest to rest their eye and their mind.
-- **Quiet and calm as design choices** — the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness; it is the space in which the guest's own experience can exist.
+- **Natural materials:** wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and change, rather than maintaining an artificial perfection.
+- **Seasonal rotation:** decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu says: *we are not paying attention to the time.*
+- **Deliberate absence of clutter:** the tokonoma alcove contains only one carefully chosen scroll and one arrangement. The room breathes. There is space for the guest to rest their eye and their mind.
+- **Quiet and calm as design choices:** the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness; it is the space in which the guest's own experience can exist.
 
 **Wabi-sabi in food and service:**
 
@@ -27,9 +27,9 @@ In kaiseki and fine dining, wabi-sabi appears in:
 
 **The message:**
 
-Every wabi-sabi element communicates the same thing: *we have thought about what is truly needed, and nothing more.* This restraint is not minimalism for its own sake — it is an act of care, a signal that the host has made deliberate choices rather than filling the space with whatever was available.
+Every wabi-sabi element says the same thing: *we have thought about what is truly needed, and nothing more.* This restraint is not minimalism for its own sake — it is an act of care, an indication that the host has made deliberate choices rather than filling the space with whatever was available.
 
-For hospitality professionals, this translates into a practical principle: when in doubt, do less with more intention. One perfectly chosen gesture is worth ten generic ones.
+For hospitality professionals, this becomes a practical principle: when in doubt, do less with more intention. One perfectly chosen gesture is worth ten generic ones.
 
 ---
 

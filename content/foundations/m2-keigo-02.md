@@ -18,9 +18,9 @@ The transformation is not simply adding a polite prefix; the verbs themselves ch
 | 飲む (nomu) | 召し上がる (meshiagaru) | to drink |
 | する (suru) | なさる (nasaru) | to do |
 
-In practice: instead of saying *"お客様は食べますか？"* (casual), a hospitality professional says *"お客様は召し上がりますか？"* — using the sonkeigo form to honour the guest's action of eating.
+In practice: instead of saying *"お客様は食べますか？"* (casual), a hospitality professional says *"お客様は召し上がりますか？"*, using the sonkeigo form to honour the guest's action of eating.
 
-A useful tip: sonkeigo patterns often use the structure **お + verb stem + になる** (e.g., *お帰りになる* — "to return/go back"). Recognising this pattern helps you construct polite forms even for verbs you have not memorised.
+A useful tip: sonkeigo patterns often use the structure **お + verb stem + になる** (e.g., *お帰りになる* — "to return/go back"). Recognising this pattern helps you construct polite forms even for verbs you have not yet memorised.
 
 ---
 

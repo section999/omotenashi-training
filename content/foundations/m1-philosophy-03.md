@@ -4,7 +4,7 @@ section: 3
 title: The Language of Respect — Keigo
 ---
 
-Japanese hospitality is inseparable from its language. **Keigo (敬語)** is the system of honorific speech used in all professional guest-facing contexts. It is not simply a polite register — it is a structured grammar that encodes the social relationship between speaker and listener into every sentence. To use keigo correctly is to communicate, at the level of language structure itself, that the guest is valued and respected.
+Japanese hospitality is inseparable from its language. **Keigo (敬語)** is the system of honorific speech used in all professional guest-facing contexts. It is not simply a polite register — it is a structured grammar that encodes the social relationship between speaker and listener into every sentence. To use keigo correctly is to express, at the level of language structure itself, that the guest is valued and respected.
 
 Keigo has three registers, each with a distinct function:
 
@@ -16,19 +16,21 @@ Keigo has three registers, each with a distinct function:
 
 **Why the structure matters:**
 
-Choosing the correct register is not merely grammar — it is an act of respect. Using sonkeigo to describe the guest's actions elevates them; using kenjōgo for your own actions demonstrates humility. Together, they create an asymmetry: the guest is placed above; the speaker places themselves below. This asymmetry is felt by the guest even if they cannot name its mechanism.
+Choosing the correct register is not merely grammar — it is an act of respect. Using sonkeigo to describe the guest's actions elevates them; using kenjōgo for your own actions shows humility. Together, they create an asymmetry: the guest is placed above; the speaker places themselves below. This asymmetry is felt by the guest even if they cannot name its mechanism.
 
-Using the wrong register — kenjōgo for the guest's actions, for instance — inverts the intended meaning. Saying *"お客様、いただきますか？"* (using humble language for the guest) is linguistically incorrect and, to a discerning Japanese guest, signals a failure of training.
+Using the wrong register — kenjōgo for the guest's actions, for instance — inverts the intended meaning. Saying *"お客様、いただきますか？"* (using humble language for the guest) is linguistically incorrect and, to a discerning Japanese guest, a clear signal of inadequate training.
 
 **The three-level model in everyday use:**
 
 Teineigo is the minimum standard. Every guest-facing interaction should be conducted in teineigo: です/ます endings, formal vocabulary (*のちほど* rather than *あとで*). For check-in, check-out, formal greetings, and moments of special service, sonkeigo and kenjōgo layer on top.
 
-A practical example: instead of *"食べますか？"* (casual: "Will you eat?"), a hospitality professional says *"召し上がりますか？"* — using the sonkeigo form of 食べる to honour the guest's action of eating.
+A practical example: instead of *"食べますか？"* (casual: "Will you eat?"), a hospitality professional says *"召し上がりますか？"*, using the sonkeigo form of 食べる to honour the guest's action of eating.
 
 **Keigo as a cultural signal:**
 
-For many Japanese guests, fluent keigo from staff is not merely expected — its absence is noticed acutely. The quality of a property's keigo is a direct indicator of its service standard. A luxury hotel where staff revert to casual speech in informal moments signals inconsistency. Consistent, natural keigo communicates: *this is a team that has thought deeply about how to receive you.*
+For many Japanese guests, fluent keigo from staff is not merely expected — its absence is noticed acutely. The quality of a property's keigo is a direct indicator of its service standard. A luxury hotel where staff revert to casual speech in informal moments shows inconsistency. Consistent, natural keigo says: *this is a team that has thought deeply about how to receive you.*
+
+Worth noting here: students often focus on vocabulary and forget that register consistency matters just as much. A single slip into casual speech mid-interaction can undo the impression built by everything before it.
 
 ---
 

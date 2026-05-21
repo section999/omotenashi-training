@@ -4,13 +4,13 @@ section: 3
 title: Wrapping and Presentation — The Gift Before the Gift
 ---
 
-In Japanese gift culture, **how a gift is presented is as important as what it contains**. The wrapping is not decorative afterthought — it is the first communication of care. A poorly wrapped gift, or one handed over carelessly, diminishes the gift itself regardless of its value.
+In Japanese gift culture, **how a gift is presented is as important as what it contains**. The wrapping is not decorative afterthought — it is the first act of care. A poorly wrapped gift, or one handed over carelessly, diminishes the gift itself regardless of its value.
 
 **Noshi (熨斗):**
-A noshi is a decorative element attached to the front of a gift box — originally a strip of dried abalone, now a printed paper emblem. It signals that the item is a formal gift. Noshi paper (*noshigami*) displays two written elements:
+A noshi is a decorative element attached to the front of a gift box, originally a strip of dried abalone, now a printed paper emblem. It marks the item as a formal gift. Noshi paper (*noshigami*) displays two written elements:
 
-- **Uwagaki (上書き)** — the purpose of the gift, written above the ribbon pattern (e.g., *御礼* = gratitude, *御中元* = mid-year gift)
-- **Shasho (差出人)** — the giver's name, written below the ribbon pattern
+- **Uwagaki (上書き)**: the purpose of the gift, written above the ribbon pattern (e.g., *御礼* = gratitude, *御中元* = mid-year gift)
+- **Shasho (差出人)**: the giver's name, written below the ribbon pattern
 
 **Furoshiki (風呂敷):**
 A square cloth used to wrap and carry items. Furoshiki wrapping is an elegant, sustainable alternative to boxes and bags. Several standard knot techniques exist for different shaped items. Offering to wrap a guest's purchase in furoshiki is both a practical service and a cultural experience they are unlikely to forget.
@@ -30,7 +30,7 @@ Accept with both hands, a bow, and a brief, sincere expression of gratitude: *"�
 **恐れ入ります、ありがとうございます。** *(Osore irimasu, arigatō gozaimasu.)*
 "I am humbled — thank you." — the correct phrase when receiving a gift from a guest
 
-**熨斗 (noshi)** — the formal gift notation paper; its uwagaki (occasion label) and shasho (giver's name) must be written correctly
+**熨斗 (noshi)**: the formal gift notation paper; its uwagaki (occasion label) and shasho (giver's name) must be written correctly
 
 ---
 

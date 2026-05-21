@@ -4,9 +4,9 @@ section: 13
 title: 伝票 (denpyou)
 ---
 
-伝票 is a transaction slip or bill used to record orders, services rendered, or payments in the hospitality context. In hotel restaurants and bars, the 伝票 is the paper or digital record that travels from the service point to the kitchen or bar and back, tracking what was ordered, for which table, at what time, and at what cost. When a guest is billed to their room (ルームチャージ), the 伝票 documents the specific charges that will later be consolidated into the final 精算 at checkout. Because the 伝票 feeds directly into billing, accuracy at the point of entry is critical — a wrong table number or misrecorded item cascades into incorrect billing and potential guest complaints.
+伝票 is the transaction slip or bill used to record orders, services rendered, or payments in a hospitality context. In hotel restaurants and bars, the 伝票 is the paper or digital record that travels from the service point to the kitchen or bar and back, tracking what was ordered, for which table, at what time, and at what cost. When a guest's charges are billed to their room (ルームチャージ), the 伝票 documents those specific charges, which are later consolidated into the final 精算 at checkout. A wrong table number or misrecorded item on a 伝票 cascades directly into incorrect billing and guest complaints — accuracy at point of entry isn't optional.
 
-Staff in F&B settings rely on 伝票 management as a core operational skill. Keeping the 伝票 organized by table, time, and service type ensures smooth reconciliation at end of shift. When guests are asked to sign a 伝票 for a room-charge authorization, staff should briefly explain what they are signing and where: ご利用料金の確認書でございます、こちらにご署名をお願いいたします (this is a confirmation of your charges, please sign here). This transparency prevents disputes about unauthorized charges.
+F&B staff rely on 伝票 management as a core daily skill. Keeping slips organized by table, time, and service type makes end-of-shift reconciliation much smoother. When a guest signs a 伝票 for room-charge authorization, always briefly explain what they're signing: ご利用料金の確認書でございます、こちらにご署名をお願いいたします. This small step prevents later disputes about unauthorized charges and shows you're treating the guest as a partner in the process, not just a signature to collect.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff in F&B settings rely on 伝票 management as a core operational skill. Kee
 
 ## Related Expressions
 
-- **レシート (reshiito)** — a printed register receipt given to the guest; the customer-facing output that is generated from the internal 伝票 process.
-- **オーダー票 (oodaa hyou)** — order form or order ticket; a more specific term for the kitchen order slip, as opposed to the billing 伝票.
+- **レシート (reshiito)**: a printed register receipt given to the guest; the customer-facing output generated from the internal 伝票 process.
+- **オーダー票 (oodaa hyou)**: order form or order ticket; a more specific term for the kitchen order slip, as opposed to the billing 伝票.
 
 ## Common Mistakes
 
-Learners sometimes use 伝票 and 領収書 interchangeably, but 伝票 is primarily an internal or transactional slip, while 領収書 is the official proof of payment given to the guest. A common operational error is failing to note the table number or guest room clearly on the 伝票, leading to order mix-ups or incorrect room billing. Staff should also avoid leaving a signed 伝票 accessible to other guests or staff, as it contains financial information that requires confidentiality.
+Students sometimes use 伝票 and 領収書 interchangeably, but they serve different purposes — 伝票 is primarily an internal or transactional slip, while 領収書 is the official proof of payment given to the guest. A common operational error is failing to note the table number or guest room clearly on the 伝票, leading to order mix-ups or incorrect room billing. Signed 伝票 also contain financial information and should not be left where other guests or staff can see them — handle them with appropriate discretion.
 
 ---
 

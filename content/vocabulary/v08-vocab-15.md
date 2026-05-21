@@ -15,7 +15,7 @@ In practice, 入口 appears most often in directional phrases such as 入口は�
 "The hotel entrance is at the front. Please proceed this way."
 
 **2.** 宴会場の入口はエレベーターを降りて左手にございます。
-*EnkaiJou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.*
+*Enkaijou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.*
 "The banquet hall entrance is on the left after you exit the elevator."
 
 **3.** レストランのお客様用入口はこちらでございます。スタッフ用は裏口をご利用ください。

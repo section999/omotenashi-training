@@ -4,11 +4,11 @@ section: 2
 title: Check-in — First Impressions and Room Guidance
 ---
 
-Check-in is the guest's first experience of your property as a host. Everything that follows will be shaped by this moment. A smooth, warm, and unhurried check-in sets a tone that the guest carries with them throughout their stay; a rushed or impersonal one creates a gap that is difficult to close.
+Check-in is the guest's first real experience of your property as a host. Everything that follows will be shaped by this moment. A smooth, warm, unhurried check-in sets a tone the guest carries through the entire stay. A rushed or impersonal one creates a gap that is very difficult to close.
 
 **The check-in greeting:**
 
-Rise to greet the guest before they reach the desk. In a ryokan, staff often meet arriving guests at the entrance, assist with bags, and escort them through the property to the room — the guest is never left to find their own way.
+Rise to greet the guest before they reach the desk. In a ryokan, staff often meet arriving guests at the entrance, help with bags, and escort them through the property to the room. The guest is never left to find their own way.
 
 Standard greeting on arrival:
 *"いらっしゃいませ。お待ちしておりました。"* — "Welcome. We have been looking forward to your arrival."
@@ -18,7 +18,7 @@ If the guest has a reservation:
 
 **Room guidance (部屋案内, *heya annai*):**
 
-When escorting a guest to their room, walk slightly ahead and to the side — never directly in front, which feels like leading, and never behind, which feels like following. Pause at doorways and indicate the way with an open hand, palm up, fingers together.
+When escorting a guest to their room, walk slightly ahead and to the side. Walking directly in front feels like leading; walking directly behind feels like following. Neither is right. Pause at doorways and indicate the way with an open hand, palm up, fingers together.
 
 In the room, explain the essential elements clearly and briefly:
 - Location of bathroom, controls, and emergency exits
@@ -27,7 +27,7 @@ In the room, explain the essential elements clearly and briefly:
 - Contact number for the front desk
 
 **The close:**
-End with an open offer — *"何かご不明な点がございましたら、いつでもお申し付けください。"* — "If there is anything unclear or anything you need, please do not hesitate to ask." Then withdraw quietly.
+End with an open offer. *"何かご不明な点がございましたら、いつでもお申し付けください。"* — "If there is anything unclear or anything you need, please do not hesitate to ask." Then withdraw quietly.
 
 ---
 

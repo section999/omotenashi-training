@@ -4,9 +4,9 @@ section: 9
 title: うるさい (urusai)
 ---
 
-うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously to express displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must be able to recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The word has a directness that can sound blunt or even confrontational in certain contexts, which is why professional hospitality training emphasises substituting it with the more measured term 騒音 when acknowledging the complaint.
+うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously when expressing displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The directness of うるさい can read as blunt or even confrontational in certain contexts — which is exactly why professional training emphasises substituting it with the more measured term 騒音 when acknowledging the complaint.
 
-Understanding うるさい also helps staff identify the emotional state of the guest. When a guest uses this word unprompted, they are typically at a threshold of frustration — the issue has been affecting them for long enough that they feel compelled to say something. This signals that the situation calls for a particularly empathetic and swift response, not just routine acknowledgement. Staff training in Japanese hospitality devotes specific attention to this kind of vocabulary gap: understanding the casual word the guest uses, while responding in formal, solution-focused language.
+Understanding うるさい also helps staff read the emotional state of the guest. When someone uses this word unprompted, they are typically past their frustration threshold — the issue has been affecting them long enough that they felt compelled to say something. That calls for a particularly empathetic and swift response, not routine acknowledgement. In practice, students often underestimate this signal. Hospitality training in Japan specifically addresses this vocabulary gap: recognising the casual word the guest uses while responding in formal, solution-focused language.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Understanding うるさい also helps staff identify the emotional state of the 
 
 ## Related Expressions
 
-- **騒音 (souon)** — the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context.
-- **ご迷惑 (go-meiwaku)** — nuisance or bother; often used in apologies — ご迷惑をおかけして申し訳ございません (we are sorry for causing you trouble) — and pairs naturally with noise-related complaints.
+- **騒音 (souon)**: the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context.
+- **ご迷惑 (go-meiwaku)**: nuisance or bother; often used in apologies — ご迷惑をおかけして申し訳ございません (we are sorry for causing you trouble) — and pairs naturally with noise-related complaints.
 
 ## Common Mistakes
 
-The most critical mistake is for staff to mirror the guest's language and say うるさいですね — this validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume; the word can also mean annoying or bothersome in other senses, so context matters. Staff should listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before responding with a solution.
+The most critical mistake is mirroring the guest's language and saying うるさいですね — it validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume. The word can also mean annoying or bothersome in other senses, so context matters. Listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before offering a solution. Worth noting: the correct substitution is not just dropping うるさい for 騒音 and moving on — the response must also include a concrete next step.
 
 ---
 

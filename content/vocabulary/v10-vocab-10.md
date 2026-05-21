@@ -4,9 +4,9 @@ section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
 
-領収書発行 refers to the issuance of an official receipt as documentary proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy — staff are expected to ask proactively rather than wait for the guest to request it. The 領収書 (receipt) serves an important function for business travelers and corporate guests who need to claim expenses: it must bear the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt cannot typically be used for business reimbursement, requiring a reissue that is inconvenient for both parties.
+領収書発行 refers to issuing an official receipt as documentary proof that payment has been received. In Japanese hospitality this is a standard post-payment courtesy — staff are expected to ask proactively rather than wait for the guest to bring it up. The 領収書 (receipt) matters most for business travelers and corporate guests who need it for expense claims: it must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt typically can't be used for reimbursement, which means a reissue — inconvenient for both sides.
 
-The issuance process begins with confirming the 宛名 — the name or company name to appear on the receipt — before printing. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always require their company name. Staff should also confirm whether the guest needs the 領収書 to itemize the charges or show a consolidated amount, as different accounting departments have different requirements. Handling this correctly on the first attempt is a hallmark of professional cashier service.
+The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name. Beyond that, some guests need the 領収書 to itemize charges; others only need a consolidated total — different accounting departments have different requirements. Handling this correctly on the first attempt is what marks a skilled cashier.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The issuance process begins with confirming the 宛名 — the name or company n
 
 ## Related Expressions
 
-- **明細書 (meisaisho)** — itemized statement; often requested alongside the 領収書 by corporate guests who need a breakdown of charges in addition to proof of payment.
-- **宛名 (atena)** — addressee name on the receipt; must be confirmed before printing, as it cannot be corrected after issuance without reissuing the entire document.
+- **明細書 (meisaisho)**: itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment.
+- **宛名 (atena)**: addressee name on the receipt; must be confirmed before printing, as it cannot be corrected after issuance without reissuing the entire document.
 
 ## Common Mistakes
 
-The most common mistake is printing the 領収書 before confirming the 宛名, resulting in a document the guest cannot use and the need for a reissue. Learners sometimes confuse 領収書 with 明細書 — a 領収書 proves payment was made, while a 明細書 shows what was charged; guests who need both documents should receive both. Staff should never write the amount on a 領収書 in pencil or leave the 宛名 blank, as this compromises the legal validity of the document.
+The most common mistake is printing the 領収書 before confirming the 宛名 — the result is a document the guest can't use, followed by a reissue and an apology. Students sometimes also confuse 領収書 with 明細書: a 領収書 proves payment was made, while a 明細書 shows what was charged. Guests who need both documents should receive both. Never write the amount in pencil or leave the 宛名 blank — either one compromises the legal validity of the receipt.
 
 ---
 

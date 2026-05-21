@@ -4,9 +4,9 @@ section: 5
 title: シフト (shifuto)
 ---
 
-シフト is the loanword from English "shift" and is the standard term for a scheduled block of working hours in Japanese hospitality environments. Hotels, restaurants, and ryokan operate around the clock, which means シフト management is one of the most operationally critical functions for any manager. Shifts are typically divided into morning (早番, hayaban), afternoon (中番, nakaban), and night or late shifts (遅番, osoban or 夜勤, yakin). Having a clear シフト system ensures that guest-facing departments are never understaffed and that employees know exactly when their responsibilities begin and end.
+シフト is the loanword from English "shift" and is the standard term for a scheduled block of working hours in Japanese hospitality environments. Hotels, restaurants, and ryokan run around the clock, which makes シフト management one of the most operationally critical functions a manager handles. Shifts typically break down into morning (早番, hayaban), afternoon (中番, nakaban), and night or late shifts (遅番, osoban or 夜勤, yakin). A well-constructed シフト ensures that guest-facing departments are never understaffed and that every employee knows exactly when their responsibilities begin and end.
 
-For employees, the シフト represents not only their working hours but also their accountability window. Arriving on time for a シフト is a basic professional expectation, and failing to do so without notice is considered a serious breach of responsibility in Japanese workplace culture. Many hotels use digital scheduling systems where staff can view their シフト, request changes, and swap with colleagues — all tracked precisely to maintain operational continuity.
+For employees, the シフト isn't just about hours — it's also the accountability window. Arriving on time is a basic professional expectation, and failing to show up without notice is considered a serious breach in Japanese workplace culture. Many hotels now use digital scheduling systems where staff can view their シフト, request changes, and swap with colleagues, all tracked precisely to keep operations running smoothly.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ For employees, the シフト represents not only their working hours but also th
 
 ## Related Expressions
 
-- **勤務 (kinmu)** — refers to the act or period of performing work duties; broader than シフト, which specifically means a scheduled time block. 勤務時間 means "working hours" in a general sense.
-- **早番・遅番 (hayaban / osoban)** — specific terms for the early shift and late shift respectively; used within the シフト system to denote which rotation an employee is assigned to.
+- **勤務 (kinmu)**: refers to the act or period of performing work duties; broader than シフト, which specifically means a scheduled time block. 勤務時間 means "working hours" in a general sense.
+- **早番・遅番 (hayaban / osoban)**: specific terms for the early shift and late shift respectively; used within the シフト system to specify which rotation a staff member is assigned to.
 
 ## Common Mistakes
 
-Learners sometimes confuse シフト (the scheduled time slot) with 勤務 (the actual performance of work duties). You are "on シフト" when the schedule says so, but 勤務 refers to the work itself. Another error is forgetting that シフト is a countable noun in context — it is natural to say 「シフトに入る」(to be on a shift) or 「シフトを交代する」(to swap a shift), so learners should practise these verb collocations.
+Students sometimes treat シフト and 勤務 as the same thing. They're not. You are "on シフト" when the schedule says so, but 勤務 refers to the work itself — the duties you carry out during that time. The other thing worth practising: シフト doesn't just sit as a standalone noun in real speech. You need the collocations. 「シフトに入る」(to be on a shift) and 「シフトを交代する」(to swap a shift) are both common, and getting comfortable with those forms will make your Japanese sound much more natural.
 
 ---
 

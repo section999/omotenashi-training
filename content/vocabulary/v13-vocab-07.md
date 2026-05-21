@@ -4,9 +4,9 @@ section: 7
 title: 出勤 (shukkin)
 ---
 
-出勤 means to arrive at work or to come in for one's shift. The kanji break down neatly: 出 means "to go out / to come," and 勤 means "diligent service" — so 出勤 literally means "setting out to perform one's duties." In Japanese hospitality culture, punctuality is not merely appreciated; it is expected as a baseline professional standard. Arriving on time for 出勤 signals respect for one's colleagues, one's manager, and ultimately the guests who depend on fully staffed service. Many hotels and ryokan use electronic time-stamp systems (タイムカード) to record each employee's 出勤 time precisely.
+出勤 means to arrive at work or to come in for one's shift. Break down the kanji and the meaning is right there: 出 means "to go out / to come," and 勤 means "diligent service" — so 出勤 is literally "setting out to perform one's duties." In Japanese hospitality culture, punctuality isn't just appreciated — it's a baseline professional standard. Arriving on time for 出勤 shows respect for your colleagues, your manager, and ultimately the guests who depend on fully staffed service. Many hotels and ryokan use electronic time-stamp systems (タイムカード) to record each employee's 出勤 time precisely.
 
-From a management perspective, monitoring 出勤 records allows supervisors to identify patterns of lateness, calculate actual working hours for payroll, and ensure legal compliance with Japanese labour laws regarding minimum rest periods. For employees, understanding 出勤 as a formal obligation — not just a casual act of "showing up" — is essential for building a professional reputation in Japan's service industry, where reliability directly affects team trust and guest satisfaction.
+From a management perspective, tracking 出勤 records lets supervisors spot patterns of lateness, calculate actual working hours for payroll, and confirm compliance with Japanese labour law requirements around minimum rest periods. For employees, the key shift in mindset is understanding 出勤 as a formal obligation rather than just "showing up." In Japan's service industry, reliability directly shapes team trust and guest satisfaction.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ From a management perspective, monitoring 出勤 records allows supervisors to i
 
 ## Related Expressions
 
-- **退勤 (taikin)** — the direct opposite: leaving work at the end of a shift. These two terms are often discussed together in the context of attendance records.
-- **遅刻 (chikoku)** — arriving late; the consequence of failing to 出勤 on time. In hospitality, 遅刻 can cause serious service disruptions and is treated seriously by management.
+- **退勤 (taikin)**: the direct opposite — leaving work at the end of a shift. The two terms are almost always discussed together when dealing with attendance records.
+- **遅刻 (chikoku)**: arriving late; what happens when 出勤 doesn't happen on time. In hospitality, 遅刻 can cause real service disruptions and is taken seriously by management.
 
 ## Common Mistakes
 
-Learners sometimes confuse 出勤 (arriving at work) with 出社 (arriving at the company office), which is used more specifically for office environments. In hotel and service settings, 出勤 is the more universally appropriate term. A second common mistake is omitting the verb — 出勤 is almost always used with する (出勤する) and should not be treated as a standalone noun in verbal contexts.
+Students sometimes confuse 出勤 with 出社 (arriving at the company office), which is more specific to office environments. In hotel and service settings, 出勤 is the universally appropriate term. The other thing to watch: 出勤 is almost always used with する, as in 出勤する. Treating it as a standalone noun in verbal contexts, without the する, sounds incomplete and unnatural.
 
 ---
 

@@ -4,26 +4,26 @@ section: 6
 title: Omotenashi in Practice
 ---
 
-Understanding omotenashi as a philosophy is only the beginning. The real work is translating it into a hundred small decisions made every shift. What temperature is the room when the guest arrives? Is the pillow preference remembered from last time? Has the team been briefed on the guest's dietary requirements before they sit down — not when they mention it at the table?
+Understanding omotenashi as a philosophy is only the beginning. The real work is translating it into a hundred small decisions made every shift. What temperature is the room when the guest arrives? Is the pillow preference remembered from last time? Has the team been briefed on the guest's dietary requirements before they sit down, not when they mention it at the table?
 
 None of these are grand gestures. They are the accumulation of small, deliberate acts of attention that create the impression — for the guest — of being deeply cared for. The goal of omotenashi is not to dazzle with a single dramatic moment but to make the guest feel, throughout their entire stay, that someone is paying genuine attention to them.
 
 **The gap between knowing and doing:**
 
-Many hospitality professionals understand omotenashi conceptually but struggle to translate it into consistent behaviour under the pressures of a real shift. A busy service period, an understaffed desk, a difficult guest earlier in the evening — all of these can erode the quality of attention that omotenashi requires. Recognising this gap and actively working to close it is the lifelong work of a hospitality professional.
+Many hospitality professionals understand omotenashi conceptually but struggle to translate it into consistent behaviour under the pressures of a real shift. A busy service period, an understaffed desk, a difficult guest earlier in the evening — all of these can erode the quality of attention that omotenashi requires. Recognising this gap and actively working to close it is the lifelong work of a hospitality professional. Students often find this the hardest part: not the knowledge, but the consistency.
 
-The Japanese concept of **kaizen (改善)** — continuous improvement through small, regular increments — applies here. Omotenashi is not a standard you achieve and then maintain; it is a standard you perpetually approach more closely. Every shift is an opportunity to notice one thing you could do better, one moment where your attention slipped, one guest whose need you anticipated correctly or missed.
+The Japanese concept of **kaizen (改善)**, continuous improvement through small, regular increments, applies here. Omotenashi is not a standard you achieve and then maintain; it is a standard you perpetually approach more closely. Every shift is an opportunity to notice one thing you could do better, one moment where your attention slipped, one guest whose need you anticipated correctly or missed.
 
 **Practical expressions of omotenashi in daily work:**
 
-- **Before the shift**: Review what you know about today's guests — arrivals, anniversaries, dietary needs, preferences noted from previous stays. Preparation is where omotenashi begins.
-- **During the shift**: Practice kikubari continuously — read the room, read each guest, and act on what you observe. Do not wait to be asked.
-- **At the moment of service**: Make every interaction feel unhurried and personal, even when you are busy. The guest should never feel like a queue number.
-- **After the interaction**: Note what was said, what was preferred, what would improve the next visit. Memory — or its systematic equivalent in guest notes — is what transforms one good stay into a relationship.
+- **Before the shift:** Review what you know about today's guests — arrivals, anniversaries, dietary needs, preferences noted from previous stays. Preparation is where omotenashi begins.
+- **During the shift:** Practice kikubari continuously — read the room, read each guest, and act on what you observe. Do not wait to be asked.
+- **At the moment of service:** Make every interaction feel unhurried and personal, even when you are busy. The guest should never feel like a queue number.
+- **After the interaction:** Note what was said, what was preferred, what would improve the next visit. Memory — or its systematic equivalent in guest notes — is what transforms one good stay into a relationship.
 
 **The kokorozukai principle:**
 
-The Japanese concept of **kokorozukai (心遣い)** — literally "the use of the heart" or thoughtfulness expressed through action — captures the essence of omotenashi in practice. A birthday card left on the pillow. A note explaining the origin of the ingredients in the meal. Remembering the guest's name on their second visit. These things take moments to execute but communicate that the guest was held in mind.
+The Japanese concept of **kokorozukai (心遣い)**, literally "the use of the heart," or thoughtfulness expressed through action, captures the essence of omotenashi in practice. A birthday card left on the pillow. A note explaining the origin of the ingredients in the meal. Remembering the guest's name on their second visit. These things take moments to execute but show that the guest was held in mind.
 
 Kokorozukai is not occasional. It is a way of moving through every interaction with the habit of consideration — asking not "what does this guest need?" but "what would make this person feel genuinely cared for?"
 

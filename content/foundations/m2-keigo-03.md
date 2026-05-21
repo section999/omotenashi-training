@@ -20,9 +20,9 @@ Key kenjōgo verbs:
 | 行く / 来る | 参る (mairu) | to go / to come |
 | 知る (shiru) | 存じる (zonjiru) | to know |
 
-In practice: when offering to carry a guest's bag, you would say *"お荷物をお持ちいたします"* — using いたす (the kenjōgo of する) to signal that it is your privilege, not a burden, to serve.
+In practice: when offering to carry a guest's bag, you would say *"お荷物をお持ちいたします"*, using いたす (the kenjōgo of する) to signal that it is your privilege, not a burden, to serve.
 
-A common structural pattern is **お + verb stem + する / いたす** (e.g., *ご案内いたします* — "I will guide you"). This construction is frequently used throughout hotel and restaurant service.
+A common structural pattern is **お + verb stem + する / いたす** (e.g., *ご案内いたします* — "I will guide you"). This construction comes up constantly throughout hotel and restaurant service.
 
 ---
 

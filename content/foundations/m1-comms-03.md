@@ -18,7 +18,7 @@ The stillness of a bow, held at the correct angle for a breath before rising, co
 
 The most common silence-related mistake in hospitality is filling every quiet moment with unnecessary words. A guest dining alone does not need constant check-ins. A guest on a phone call does not need to be approached. A guest who has just received their food and begun to eat does not need to be asked immediately if everything is to their satisfaction — give them a moment to taste it.
 
-Over-speaking signals that the staff member is uncomfortable with silence, or is following a script that requires certain phrases at certain intervals. Neither is reassuring to the guest. The ability to be present, attentive, and quiet simultaneously is one of the most refined service skills.
+Over-speaking suggests that the staff member is uncomfortable with silence, or is following a script that requires certain phrases at certain intervals. Neither is reassuring to the guest. Being present, attentive, and quiet simultaneously is one of the most refined service skills — and one of the hardest to learn.
 
 **The art of being there without intruding:**
 

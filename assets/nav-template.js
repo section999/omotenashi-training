@@ -12,7 +12,7 @@ function renderNav() {
       </div>
       <div id="navSearchDrop" class="nav-search-drop"></div>
     </div>
-    <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener" aria-label="freeCodeCamp" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;opacity:1;">
+    <a href="${toRoot}index.html" aria-label="Home" style="position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;opacity:1;">
       <img class="logo-large" src="${toAssets}assets/fcc_primary_large.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
       <img class="logo-small" src="${toAssets}assets/fcc_primary_small.png" alt="freeCodeCamp" style="height:28px;width:auto;filter:brightness(0) invert(1);" onerror="this.style.display='none'" />
     </a>

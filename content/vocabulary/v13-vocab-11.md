@@ -4,9 +4,9 @@ section: 11
 title: 残業 (zangyou)
 ---
 
-残業 means overtime — work carried out beyond the standard contracted working hours. The word is composed of 残 (remaining) and 業 (work/duty), capturing the sense of "work that remains after regular hours." In Japan's hospitality industry, 残業 is a familiar reality: end-of-shift handovers that run long, unexpected guest situations, event overruns, or staff shortages can all lead to employees working past their scheduled finish time. While 残業 is sometimes unavoidable, Japanese labour law requires that it be compensated at a premium rate (typically 25% above the base hourly wage), and excessive 残業 has become a major social and workplace health issue in Japan.
+残業 means overtime — work carried out beyond the standard contracted hours. The word itself is telling: 残 means "remaining" and 業 means "work / duty," so it captures that sense of "work left over after regular hours." In hospitality, 残業 is a familiar reality. End-of-shift handovers that run long, unexpected guest situations, event overruns, or staff shortages can all push employees past their scheduled finish time. While it's sometimes unavoidable, Japanese labour law requires that 残業 be compensated at a premium rate — typically 25% above the base hourly wage — and excessive 残業 has become a serious social and workplace health issue in Japan.
 
-Management in hotels and ryokan must balance the genuine operational need for flexibility with their legal and ethical duty to prevent overwork. Modern hospitality employers are increasingly implementing strict 残業 monitoring systems and encouraging staff to complete their duties within shift time where possible. For employees, understanding that 残業 should be authorised by a supervisor before it begins — not simply performed and reported after the fact — is an important professional habit to develop.
+Management in hotels and ryokan has to balance genuine operational flexibility with a legal and ethical responsibility to prevent overwork. Many modern hospitality employers are implementing stricter 残業 monitoring and actively encouraging staff to finish within shift time where possible. For employees, the habit to develop is getting approval from a supervisor before starting 残業, rather than working the extra hours and reporting it after the fact.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Management in hotels and ryokan must balance the genuine operational need for fl
 
 ## Related Expressions
 
-- **休憩 (kyuukei)** — break during a shift; stands in contrast to 残業, which extends work beyond the scheduled period rather than providing relief within it.
-- **過労 (karou)** — overwork or exhaustion from excessive labour; the serious health consequence associated with unchecked 残業, and a term that has entered public consciousness through Japan's ongoing work-reform debates.
+- **休憩 (kyuukei)**: break during a shift; stands in contrast to 残業, which extends work beyond the scheduled period rather than providing relief within it.
+- **過労 (karou)**: overwork or exhaustion from excessive labour; the serious health consequence associated with unchecked 残業, and a term that has entered public consciousness through Japan's ongoing work-reform debates.
 
 ## Common Mistakes
 
-Learners sometimes assume that 残業 is a voluntary act, but in Japanese workplace culture it can carry an implicit obligation — declining 残業 when a team is under pressure requires tact and clear communication. Another error is confusing 残業 with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift, whereas 残業 is unplanned work beyond a scheduled shift end time.
+Students sometimes assume 残業 is purely voluntary. In Japanese workplace culture it can carry an implicit pressure — declining when the team is under strain requires tact and clear communication, not just a quick refusal. There's also a common mix-up with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift that's part of the schedule, whereas 残業 is unplanned work beyond a scheduled shift end time. The two can overlap but they're not the same thing.
 
 ---
 

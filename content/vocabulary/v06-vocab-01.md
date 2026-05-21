@@ -4,9 +4,9 @@ section: 1
 title: 問題 (mondai)
 ---
 
-In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a problem or issue that arises during a guest's stay. It encompasses a broad range of situations — from a malfunctioning appliance to a billing discrepancy or a miscommunication about a reservation. The word itself carries no emotional charge, which makes it useful for staff who need to acknowledge an issue calmly without amplifying the guest's frustration. In omotenashi culture, the ability to identify a 問題 swiftly and frame it professionally is considered a fundamental skill, as guests trust establishments that handle difficulties with composure and clarity.
+In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a problem or issue that arises during a guest's stay. It covers a surprisingly broad range of situations, from a malfunctioning appliance to a billing discrepancy or a miscommunication about a reservation. The word itself carries no emotional charge, which makes it genuinely useful for staff who need to acknowledge an issue calmly without amplifying the guest's frustration. In omotenashi culture, the ability to identify a 問題 swiftly and frame it professionally is treated as a basic skill, since guests naturally trust establishments that handle difficulties with composure.
 
-Practically speaking, 問題 is most often heard as part of conditional invitations to guests: phrases like 何かご問題がございましたら (if there is any problem at all) serve as open-ended expressions of readiness that encourage guests to speak up before a minor inconvenience becomes a serious complaint. Staff should use it proactively, not just reactively. Because the word is neutral in register, it is safe to use in both spoken and written guest communication, including informational signage and follow-up correspondence.
+That said, 問題 is most often heard as part of conditional invitations to speak up: phrases like 何かご問題がございましたら (if there is any problem at all) function as open-ended expressions of readiness that encourage guests to come forward before a minor inconvenience turns into a serious complaint. Students often treat this as a reactive word, but the best staff use it proactively. Because the word is neutral in register, it works in both spoken and written guest communication, including printed signage and follow-up correspondence.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Practically speaking, 問題 is most often heard as part of conditional invitati
 
 ## Related Expressions
 
-- **トラブル (toraburu)** — borrowed from English "trouble"; slightly more urgent or event-like in feel, often used for technical or unexpected disruptions rather than general issues.
-- **不具合 (fuguai)** — specifically refers to a malfunction or irregularity in equipment or systems; more technical than 問題 and used primarily in maintenance contexts.
+- **トラブル (toraburu)**: borrowed from English "trouble"; slightly more urgent or event-like in feel, often used for technical or unexpected disruptions rather than general issues.
+- **不具合 (fuguai)**: specifically refers to a malfunction or irregularity in equipment or systems; more technical than 問題 and used primarily in maintenance contexts.
 
 ## Common Mistakes
 
-Learners sometimes confuse 問題 with クレーム (kuremu), treating them as interchangeable. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest — using クレーム prematurely can escalate the situation unnecessarily. Additionally, staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
+Students often confuse 問題 with クレーム (kuremu), treating them as interchangeable. They are not. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest — reaching for クレーム prematurely can escalate the situation unnecessarily. Worth noting too: staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
 
 ---
 

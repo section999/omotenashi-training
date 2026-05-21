@@ -4,9 +4,9 @@ section: 9
 title: お釣り (otsuri)
 ---
 
-お釣り is the change returned to a guest who has paid more than the total amount owed. The honorific prefix お (o-) elevates the word from the plain form 釣り and is obligatory in all guest-facing contexts. While Japan's transition to cashless payments is well underway, cash remains widely used — particularly in traditional ryokan and onsen establishments — making accurate and polite 釣り return a fundamental cashier skill. In Japanese hospitality, counting the change visibly and aloud in front of the guest (お客様の前で数える) is standard practice, serving as a transparent double-check that reassures both the guest and the staff member that the amount is correct.
+お釣り is the change returned to a guest who has paid more than the total amount owed. The honorific prefix お (o-) elevates the word from the plain form 釣り and is obligatory in all guest-facing contexts — dropping it sounds noticeably informal. Japan's shift to cashless is well underway, but cash is still widely used, particularly in traditional ryokan and onsen establishments. Accurate and polite change-handling remains a genuinely important skill. The standard professional practice is to count the change visibly and aloud in front of the guest, which serves as a transparent double-check for both parties.
 
-The professional protocol for returning お釣り involves stating the amount before and after counting: "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます" (I will take 〇〇 yen; your total is 〇〇 yen, so your change is 〇〇 yen). Handing お釣り with both hands on a small tray (お盆) is the expected etiquette in formal hospitality settings. This small ritual communicates attentiveness and respect, turning a mundane transaction into a moment of genuine service.
+The expected protocol goes something like this: state the amount received, confirm the total, then state the change — "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます." In formal hospitality settings, お釣り is handed back with both hands on a small tray (お盆). Students often underestimate this step. It might seem like a minor ritual, but turning a cash transaction into a moment of genuine attentiveness is exactly what separates good service from perfunctory service.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The professional protocol for returning お釣り involves stating the amount be
 
 ## Related Expressions
 
-- **お預かりいたします (o-azukari itashimasu)** — "I will take/receive [the amount]"; the formal phrase used when accepting cash from a guest before counting out お釣り; always spoken before handling the money.
-- **両替 (ryougae)** — currency exchange or bill-breaking; sometimes guests hand over large bills not to pay but to get smaller denominations, which is a 両替 request rather than an お釣り situation.
+- **お預かりいたします (o-azukari itashimasu)**: "I will take/receive [the amount]"; the formal phrase used when accepting cash from a guest before counting out お釣り; always spoken before handling the money.
+- **両替 (ryougae)**: currency exchange or bill-breaking; sometimes guests hand over large bills not to pay but to get smaller denominations, which is a 両替 request rather than an お釣り situation.
 
 ## Common Mistakes
 
-A frequent mistake is returning お釣り without stating the amount aloud, which removes the transparency check and can lead to disputes. Learners sometimes handle お釣り with one hand or place it directly on the counter without a tray, which is considered informal and below standard in hospitality contexts. Staff should also avoid the casual phrase はい、お釣りです (here's your change) — the correct form is お釣りは〇〇円でございます, spoken clearly before handing it over.
+Returning お釣り without stating the amount aloud removes the transparency check and can lead to disputes. Students sometimes handle change with one hand or place it directly on the counter without a tray — both are considered informal and below standard in hospitality contexts. Avoid the casual はい、お釣りです; the correct form is お釣りは〇〇円でございます, spoken clearly before handing the change over.
 
 ---
 

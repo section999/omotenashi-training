@@ -4,9 +4,9 @@ section: 2
 title: トラブル (toraburu)
 ---
 
-トラブル (toraburu), borrowed from the English word "trouble," refers to unexpected incidents or disruptions that interfere with a guest's comfort or experience. It is commonly used in internal staff communication as well as in direct guest-facing speech when the situation warrants clear urgency — for example, a noisy neighbouring room, a technical failure, or a service delay. In the omotenashi tradition, responding to トラブル requires staff to remain visibly calm and empathetic, because a composed reaction reassures the guest and prevents panic from escalating the incident further.
+トラブル (toraburu), borrowed from the English word "trouble," refers to unexpected incidents or disruptions that interfere with a guest's comfort or experience. It comes up in both internal staff communication and direct guest-facing speech when a situation warrants clear urgency: a noisy neighbouring room, a technical failure, a service delay. The key thing to understand about this word is its emotional weight. In the omotenashi tradition, how you respond to トラブル matters as much as what you do, because a composed reaction reassures the guest and prevents panic from making things worse.
 
-When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Staff should ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to signal that the guest's account is being taken seriously. After gathering details, the appropriate action — whether that is involving maintenance, offering a room change, or contacting a supervisor — should be communicated clearly so the guest knows what to expect next.
+When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Students often want to jump to solutions immediately — resist that impulse. Ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to show that the guest's account is being taken seriously. After gathering details, communicate clearly what happens next, whether that is calling maintenance, offering a room change, or bringing in a supervisor, so the guest knows what to expect.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When a guest reports a トラブル, the first professional step is always to li
 
 ## Related Expressions
 
-- **問題 (mondai)** — broader and more neutral; appropriate for any kind of issue, whereas トラブル suggests something more disruptive or time-sensitive.
-- **アクシデント (akushidento)** — from English "accident"; used for physical mishaps (a spill, a fall) rather than systemic or service issues.
+- **問題 (mondai)**: broader and more neutral; appropriate for any kind of issue, whereas トラブル suggests something more disruptive or time-sensitive.
+- **アクシデント (akushidento)**: from English "accident"; used for physical mishaps (a spill, a fall) rather than systemic or service issues.
 
 ## Common Mistakes
 
-Learners sometimes use トラブル in positive or neutral contexts, not realising the word always implies something has gone wrong. Saying 「トラブルはありません」 (there is no trouble) is grammatically fine but sounds defensive — proactive service language avoids the word unless an issue already exists. Staff should also resist the urge to use the English word "trouble" directly in guest speech; the Japanese loanword トラブル is more appropriate and sounds more natural in the hospitality register.
+Students sometimes use トラブル in positive or neutral contexts, not realising the word always implies something has gone wrong. Saying 「トラブルはありません」 (there is no trouble) is grammatically fine but sounds oddly defensive — good service language avoids the word unless an issue already exists. Staff should also resist the temptation to use the English word "trouble" directly in guest speech; the Japanese loanword トラブル is more appropriate and sounds more natural in the hospitality register.
 
 ---
 

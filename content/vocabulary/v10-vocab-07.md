@@ -4,9 +4,9 @@ section: 7
 title: 合計 (goukei)
 ---
 
-合計 means the total sum of all charges, representing the final figure that a guest is required to pay after all individual items, taxes, service charges, and applicable discounts have been calculated. In Japanese hospitality, stating the 合計 clearly and accurately is a non-negotiable professional standard — ambiguity around the amount owed causes discomfort and erodes trust. The 合計 is typically the last figure the guest sees before completing payment, so it must be communicated with precision, at a measured pace, and accompanied by a visible display such as a screen or printed receipt to prevent misunderstanding, especially with international guests unfamiliar with large Japanese yen amounts.
+合計 means the total sum of all charges — the final figure a guest is required to pay after every item, tax, service charge, and applicable discount has been calculated. In Japanese hospitality, stating the 合計 clearly and accurately is non-negotiable. Ambiguity about the amount owed creates real discomfort and erodes trust quickly. The 合計 is typically the last number the guest sees before paying, so it must be communicated at a measured pace and backed up with something visible — a screen or printed receipt — to prevent misunderstanding, especially with international guests not accustomed to large yen amounts.
 
-The word 合計 appears on printed bills, digital terminals, and in verbal communication alike. Restaurant staff use it when presenting the table bill, while front desk agents invoke it at checkout after completing 精算. In verbal communication, the polite phrasing 合計〇〇円でございます is standard and expected across all hospitality tiers. Staff who state the 合計 confidently and clearly, while pointing to or displaying the figure, create a seamless and professional payment experience.
+合計 shows up on printed bills, digital terminals, and in verbal communication. Restaurant staff use it when presenting the table bill; front desk agents use it at checkout after completing 精算. In conversation, 合計〇〇円でございます is standard and expected across all hospitality tiers. Staff who state the figure clearly and confidently — while pointing to or displaying the amount — create a seamless payment experience. It sounds simple, but students underestimate how often a mumbled total leads to confusion.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The word 合計 appears on printed bills, digital terminals, and in verbal commu
 
 ## Related Expressions
 
-- **小計 (shookei)** — subtotal; the sum before taxes and service charges are added; used when breaking down a bill to show the pre-tax figure separately.
-- **内訳 (uchiwake)** — itemized breakdown; what comes before the 合計, detailing how the total was reached; offering to show the 内訳 before stating the 合計 is a courteous practice.
+- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added; used when breaking down a bill to show the pre-tax figure separately.
+- **内訳 (uchiwake)**: itemized breakdown; what comes before the 合計, detailing how the total was reached; offering to show the 内訳 before stating the 合計 is a considerate practice.
 
 ## Common Mistakes
 
-A common mistake is stating the 合計 too quickly or without visual confirmation, particularly for guests unfamiliar with Japanese currency denominations — large yen figures can be confusing to international travelers. Learners sometimes confuse 合計 with 小計, presenting the pre-tax subtotal as if it were the final amount, which leads to guest confusion when the actual total is higher. Staff should always specify 合計〇〇円、税込でございます to make it clear the figure is all-inclusive.
+A common mistake is stating the 合計 too quickly or without visual confirmation, particularly for guests unfamiliar with Japanese currency denominations — large yen figures genuinely confuse many international travelers. Students also sometimes present the 小計 (pre-tax subtotal) as though it were the final amount, which causes confusion when the actual total is higher. Always specify 合計〇〇円、税込でございます so the guest knows the figure is all-inclusive.
 
 ---
 

@@ -8,19 +8,19 @@ The most impressive hospitality often happens before any guest interaction takes
 
 **Preparation as the first act of service:**
 
-**Kikubari (気配り)** — anticipatory attentiveness — begins at the preparation stage. Before a guest's arrival, the question to ask is not "what do I need to set up?" but "what does this specific guest need in order to feel genuinely cared for?" These are different questions, and the gap between them is the gap between adequate and exceptional.
+**Kikubari (気配り)**, anticipatory attentiveness, begins at the preparation stage. Before a guest's arrival, the question to ask is not "what do I need to set up?" but "what does this specific guest need in order to feel genuinely cared for?" These are different questions, and the gap between them is the gap between adequate and exceptional.
 
 The information you need is often already available: previous preference notes, booking details, the purpose of the visit, the time of arrival, the duration of the stay. Acting on this information before the guest arrives — rather than asking them to state it again at check-in — is what distinguishes competent service from memorable hospitality.
 
 **Practical preparation in different roles:**
 
-- **Front desk / reception**: Review all arriving guests before the shift begins. Note names (and practice pronunciation of unfamiliar ones), special requests, loyalty tier, anniversary or occasion markers, dietary notes in the restaurant reservation.
+- **Front desk / reception:** Review all arriving guests before the shift begins. Note names (and practice pronunciation of unfamiliar ones), special requests, loyalty tier, anniversary or occasion markers, dietary notes in the restaurant reservation.
 
-- **Housekeeping**: A room for a guest who has noted a preference for firm pillows should have firm pillows before they arrive — not a note offering to swap them. A family room should be arranged with children's needs anticipated: lower towel placement, the minibar secured if requested, child-friendly amenities present.
+- **Housekeeping:** A room for a guest who has noted a preference for firm pillows should have firm pillows before they arrive, not a note offering to swap them. A family room should be arranged with children's needs anticipated: lower towel placement, the minibar secured if requested, child-friendly amenities present.
 
-- **Restaurant**: A table reserved for a business lunch may benefit from a power socket being accessible, slightly more space between tables, and water available on arrival. A birthday dinner should have its agreed-upon celebration arrangement confirmed, the kitchen briefed, the cake coordinated.
+- **Restaurant:** A table reserved for a business lunch may benefit from a power socket being accessible, slightly more space between tables, and water available on arrival. A birthday dinner should have its agreed-upon celebration arrangement confirmed, the kitchen briefed, the cake coordinated.
 
-- **Concierge**: If a guest has mentioned an interest in local pottery or hiking, relevant recommendations should be ready before they ask — not assembled while they wait.
+- **Concierge:** If a guest has mentioned an interest in local pottery or hiking, relevant recommendations should be ready before they ask, not assembled while they wait.
 
 **The briefing:**
 

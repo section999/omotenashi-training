@@ -4,9 +4,9 @@ section: 6
 title: 精算 (seisan)
 ---
 
-精算 refers to the process of finalizing and settling all charges incurred during a stay or service engagement. Unlike simply presenting a total, 精算 encompasses the complete reconciliation of room charges, meals, spa treatments, telephone calls, minibar items, and any other extras, including the application of applicable taxes, discounts, and promotional deductions. In Japanese hospitality culture, the 精算 process is considered a final touchpoint of the guest experience, and how it is handled leaves a lasting impression. A smooth, accurate, and courteous 精算 reinforces the guest's overall satisfaction even if minor service issues arose during the stay.
+精算 refers to the process of finalizing and settling all charges from a stay or service engagement. It goes beyond simply presenting a total — 精算 involves reconciling room charges, meals, spa treatments, telephone calls, minibar items, and any extras, including applicable taxes, discounts, and promotional deductions. In Japanese hospitality culture, the 精算 process is treated as the final touchpoint of the guest experience, and how it's handled leaves a real impression. A smooth, accurate, and courteous 精算 can actually reinforce a guest's overall satisfaction even if something minor went wrong earlier in the stay.
 
-Staff conducting 精算 should ideally prepare the statement before the guest arrives at the front desk, so that the interaction is efficient rather than a waiting exercise. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing payment is both a professional and courteous step, as it gives the guest an opportunity to flag any discrepancies without feeling rushed. Any disputes arising during 精算 should be handled calmly and resolved before processing the final payment, as reversing a completed transaction is significantly more complicated.
+Staff should ideally prepare the statement before the guest arrives at the front desk, so the interaction is efficient rather than a waiting exercise. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing is both professional and considerate — it gives them the chance to flag discrepancies without feeling rushed. Any disputes should be resolved before processing the final payment. Reversing a completed transaction is considerably more complicated than catching the problem beforehand.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff conducting 精算 should ideally prepare the statement before the guest ar
 
 ## Related Expressions
 
-- **チェックアウト (chekkuauto)** — checkout; 精算 typically occurs as part of the checkout process but can also happen mid-stay for partial billing or conference billing.
-- **内訳 (uchiwake)** — itemized breakdown; closely paired with 精算, as reviewing the 内訳 is the step that precedes finalizing the 精算.
+- **チェックアウト (chekkuauto)**: checkout; 精算 typically occurs as part of the checkout process but can also happen mid-stay for partial billing or conference billing.
+- **内訳 (uchiwake)**: itemized breakdown; closely paired with 精算, as reviewing the 内訳 is the step that precedes finalizing the 精算.
 
 ## Common Mistakes
 
-Learners sometimes use 精算 and 支払い (shiharai) interchangeably, but they are not the same — 支払い is the act of paying, while 精算 is the broader process of calculating and reconciling all charges before payment. Another mistake is rushing the 精算 process without reviewing the 内訳 with the guest, which can lead to disputes after checkout. Staff should also avoid finalizing 精算 before confirming that all room charges have been posted by housekeeping or F&B, as late-posted charges create the need for additional billing.
+Students sometimes use 精算 and 支払い (shiharai) as if they mean the same thing, but they don't — 支払い is the act of paying, while 精算 is the broader process of calculating and reconciling all charges before payment happens. Another mistake is rushing through 精算 without reviewing the 内訳 with the guest, which is exactly when disputes tend to surface after checkout. Staff should also confirm all room charges have been posted by housekeeping or F&B before finalizing — late-posted charges mean additional billing, which no one wants.
 
 ---
 

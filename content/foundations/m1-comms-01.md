@@ -4,15 +4,15 @@ section: 1
 title: Reading the Air
 ---
 
-**空気を読む (kuuki wo yomu)** — literally "reading the air" — is one of the most important social skills in Japanese culture, and it is indispensable in hospitality. It means sensing the unspoken mood of a situation and adjusting your behaviour accordingly, without being told what is needed. In a professional context, it is the difference between service that feels natural and service that feels tone-deaf.
+**空気を読む (kuuki wo yomu)**, literally "reading the air," is one of the most important social skills in Japanese culture, and it is indispensable in hospitality. It means sensing the unspoken mood of a situation and adjusting your behaviour accordingly, without being told what is needed. In a professional context, it is the difference between service that feels natural and service that feels tone-deaf.
 
-The concept exists because Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is there — in their posture, their pace, their tone, the brevity of their responses — but it must be read, not waited for.
+The concept matters because Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is there — in their posture, their pace, their tone, the brevity of their responses — but it must be read, not waited for.
 
 **Two contrasting guests:**
 
-A guest who responds to your greeting in short, clipped sentences is communicating something. They may be tired, stressed, in a hurry, or simply private. The appropriate response is to match their efficiency: be warm but brief, complete the service without unnecessary conversation, and give them their space. Do not try to draw them out; do not fill the silence with pleasantries.
+A guest who responds to your greeting in short, clipped sentences is telling you something. They may be tired, stressed, in a hurry, or simply private. The appropriate response is to match their efficiency: be warm but brief, complete the service without unnecessary conversation, and give them their space. Do not try to draw them out; do not fill the silence with pleasantries.
 
-A guest who lingers at check-in and asks questions about the local area is also communicating something. They are open to engagement, curious, and in the mood for conversation. The appropriate response is to engage warmly, answer fully, and offer more than the minimum. A recommendation they didn't ask for, a story about the property, a question about what they enjoy — these are all welcome.
+A guest who lingers at check-in and asks questions about the local area is also telling you something. They are open to engagement, curious, and in the mood for conversation. Here, warmth and generosity are welcome — answer fully, offer more than the minimum. A recommendation they didn't ask for, a story about the property, a question about what they enjoy: all of these will land well.
 
 Neither guest told you what they needed. You read it.
 
@@ -20,11 +20,11 @@ Neither guest told you what they needed. You read it.
 
 Reading the air is a skill built from specific observations:
 
-- **Pace** — how quickly or slowly is the guest moving and speaking? Match it.
-- **Eye contact** — are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze signals a desire for less.
-- **Response length** — one-word answers vs. expansive conversation. Respond in kind.
-- **Posture** — leaning toward you (engaged) or away (guarded). Adjust your physical proximity accordingly.
-- **Mood on arrival** — a guest who arrives flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
+- **Pace:** how quickly or slowly is the guest moving and speaking? Match it.
+- **Eye contact:** are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze suggests a desire for less.
+- **Response length:** one-word answers vs. expansive conversation. Respond in kind.
+- **Posture:** leaning toward you (engaged) or away (guarded). Adjust your physical proximity accordingly.
+- **Mood on arrival:** a guest who arrives flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
 
 **The common mistake:**
 

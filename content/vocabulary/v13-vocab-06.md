@@ -4,9 +4,9 @@ section: 6
 title: 勤務 (kinmu)
 ---
 
-勤務 refers to the act or period of performing one's work duties in an official capacity. It is a more formal and legally resonant word than everyday terms like シフト or 仕事, and it appears frequently in employment contracts, labour regulations, and internal policy documents for hotels and hospitality businesses. In Japan's service industry, where punctuality and professionalism are paramount, 勤務 carries the connotation of dutiful, responsible service — not just showing up, but actively fulfilling one's professional obligations throughout the working period.
+勤務 refers to the act or period of performing one's work duties in an official capacity. It's a more formal and legally resonant word than everyday terms like シフト or 仕事, and you'll find it throughout employment contracts, labour regulations, and internal policy documents for hotels and hospitality businesses. In Japan's service industry, where punctuality and professionalism are baseline expectations, 勤務 carries the connotation of dutiful, responsible service — not just showing up, but actively fulfilling your professional obligations throughout the working period.
 
-Managers in hotels and ryokan use 勤務 when discussing attendance records, evaluating staff reliability, or setting expectations about conduct during working hours. Phrases such as 勤務態度 (work attitude) and 勤務時間 (working hours) are standard in performance review contexts. Employees are expected to maintain a professional demeanour for the entire duration of their 勤務, which in Japanese hospitality culture includes appearance, speech style, and attentiveness to guests.
+Managers in hotels and ryokan reach for 勤務 when discussing attendance records, evaluating staff reliability, or setting expectations about conduct during working hours. Phrases like 勤務態度 (work attitude) and 勤務時間 (working hours) come up regularly in performance review contexts. The expectation is that employees maintain professional behaviour — in appearance, speech, and attentiveness to guests — for the entire duration of their 勤務. That's a higher bar than simply being present.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Managers in hotels and ryokan use 勤務 when discussing attendance records, eva
 
 ## Related Expressions
 
-- **シフト (shifuto)** — the specific scheduled time block for work; more concrete and scheduling-focused than 勤務, which refers to the duty or period of service itself.
-- **業務 (gyoumu)** — refers to the actual tasks and responsibilities carried out during 勤務; while 勤務 is about the working period, 業務 is about the content of the work.
+- **シフト (shifuto)**: the specific scheduled time block for work; more concrete and scheduling-focused than 勤務, which refers to the duty or period of service itself.
+- **業務 (gyoumu)**: refers to the actual tasks and responsibilities carried out during 勤務; while 勤務 is about the working period, 業務 is about what fills that period.
 
 ## Common Mistakes
 
-A common error is treating 勤務 and シフト as synonyms. シフト specifically means a rostered time slot, while 勤務 is about the nature and act of working during that time. Learners also sometimes misread the kanji: 勤 relates to diligence and service, while 務 relates to duty — together they convey purposeful, committed work, not merely attendance.
+The most common error is treating 勤務 and シフト as synonyms. シフト means a rostered time slot; 勤務 is about the nature and act of working during that time. They overlap but aren't the same. It's also worth pausing on the kanji: 勤 relates to diligence and service, while 務 relates to duty. Together they convey purposeful, committed work — not just attendance. Students who understand that distinction tend to use the word much more accurately.
 
 ---
 
