@@ -1274,7 +1274,7 @@ function initQuizInteractions() {
       allBtns.forEach(function(b) { b.disabled = true });
       tfBtn.classList.add('correct');
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct! ' + qData.exp;
+      fb.textContent = '✓ Correct!';
       setTimeout(showCompletionModal, 600);
     } else {
       tfBtn.classList.add('wrong');
@@ -1320,7 +1320,7 @@ function initQuizInteractions() {
       var checkBtn = document.getElementById(qId + '-check');
       if (checkBtn) checkBtn.disabled = true;
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct! ' + qData.exp;
+      fb.textContent = '✓ Correct!';
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
@@ -1364,7 +1364,7 @@ function handleQuizCheck(btn) {
       opts[qData.correct].classList.add('correct');
       btn.disabled = true;
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct! ' + qData.exp;
+      fb.textContent = '✓ Correct!';
       setTimeout(showCompletionModal, 600);
     } else {
       opts[sel].classList.add('wrong');
@@ -1392,7 +1392,7 @@ function handleQuizCheck(btn) {
       input.disabled = true;
       btn.disabled = true;
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct! ' + qData.exp;
+      fb.textContent = '✓ Correct!';
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
@@ -1420,7 +1420,7 @@ function handleQuizCheck(btn) {
     fb.style.display = 'block';
     if (ok) {
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct! ' + qData.exp;
+      fb.textContent = '✓ Correct!';
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
@@ -1540,7 +1540,7 @@ function checkMCQ(qId, correct, exp) {
     opts[correct].classList.add('correct');
     document.getElementById(qId + '-btn').disabled = true;
     fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct! ' + exp;
+    fb.textContent = '✓ Correct!';
     setTimeout(showCompletionModal, 600);
   } else {
     opts[sel].classList.add('wrong');
@@ -1563,7 +1563,7 @@ function checkTF(btn, val, correct, exp) {
     btns.forEach(b => b.disabled = true);
     btn.classList.add('correct');
     fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct! ' + exp;
+    fb.textContent = '✓ Correct!';
     setTimeout(showCompletionModal, 600);
   } else {
     btn.classList.add('wrong');
@@ -1590,7 +1590,7 @@ function checkFITB(qId, answer, exp, extras) {
     const checkBtn = document.getElementById(qId + '-check');
     if (checkBtn) checkBtn.disabled = true;
     fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct! ' + exp;
+    fb.textContent = '✓ Correct!';
     setTimeout(showCompletionModal, 600);
   } else {
     fb.className = 'quiz-feedback err';
@@ -1635,7 +1635,7 @@ function checkMatchSubmit(qId, exp) {
   fb.style.display = 'block'
   if (ok) {
     fb.className = 'quiz-feedback ok'
-    fb.textContent = '✓ Correct! ' + exp
+    fb.textContent = '✓ Correct!'
     setTimeout(showCompletionModal, 600)
   } else {
     fb.className = 'quiz-feedback err'
