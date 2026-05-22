@@ -4,9 +4,12 @@ section: 9
 title: 休憩 (kyuukei)
 ---
 
-休憩 refers to a break period during work — a designated time when employees step away from their duties to rest, eat, and recharge. In Japan, this is legally regulated: the Labour Standards Act requires at least a 45-minute break for shifts exceeding six hours, and at least 60 minutes for shifts over eight hours. For hospitality workers on their feet throughout a shift — fielding guest requests, maintaining service standards — 休憩 isn't optional. It's how they sustain performance. Hotels and ryokan typically stagger breaks across departments so service continuity is never interrupted.
+**Pronunciation:** [kyuu-**kei**]
+**Register:** Neutral, workplace welfare and scheduling
 
-Culturally, Japanese employees tend to be conscientious about not taking breaks that run long or feel self-indulgent, since that could read as a lack of commitment. At the same time, good managers actively push their teams to take 休憩 properly, knowing that rested staff deliver better service. During 休憩, the expectation is to step to a designated staff area — away from guest sight lines — eat, and genuinely rest.
+休憩 refers to a break period during work, a designated time when employees step away from their duties to rest, eat, and recharge. In Japan this is legally regulated: the Labour Standards Act requires at least 45 minutes for shifts exceeding six hours, and at least 60 minutes for shifts over eight hours. For hospitality workers on their feet all shift, managing guest requests and keeping service standards up, 休憩 isn't optional. It's how they sustain performance across the full working day. Hotels and ryokan typically stagger breaks across departments so service continuity is never interrupted.
+
+Culturally, Japanese employees tend to be mindful of not letting breaks run long or feel self-indulgent, since that can read as a lack of commitment to the team. That said, good managers actively encourage their teams to take 休憩 properly, because rested staff genuinely deliver better service. The expected practice is to step to a designated staff area away from guest sight lines, eat, and actually rest rather than spending the whole break on a phone.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Culturally, Japanese employees tend to be conscientious about not taking breaks 
 
 ## Related Expressions
 
-- **休み (yasumi)**: refers to a day off, not a break within a shift; a common source of confusion since both involve rest.
-- **残業 (zangyou)**: overtime, the opposite end of the spectrum — if 残業 is frequent, it can eat into the 休憩 time employees are entitled to, raising both legal and welfare concerns.
+- **休み (yasumi)**: a day off, not a break within a shift. Both involve rest, which makes them easy to mix up, but they operate at completely different scales.
+- **残業 (zangyou)**: overtime; the opposite end of the spectrum. Frequent 残業 can eat into the 休憩 time employees are legally entitled to, raising both legal and staff welfare concerns.
 
 ## Common Mistakes
 
-The most common mistake is confusing 休憩 with 休み. A sentence like「今日は休憩です」sounds strange — you'd say「今日は休みです」to mean "I have the day off." These are different concepts and students should keep them clearly separated. Also worth knowing: 休憩する is the correct verbal form, and 休憩中 means "currently on a break" — a useful phrase for guest-facing staff to know when explaining why a colleague is momentarily unavailable.
+The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. You'd say 「今日は休みです」to mean "I have the day off." These are different concepts and it's worth keeping them clearly separated in your mind. Students often also need a reminder about verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a genuinely useful phrase when explaining to a guest why a colleague is momentarily unavailable.
 
 ---
 
@@ -44,4 +47,4 @@ The most common mistake is confusing 休憩 with 休み. A sentence like「今�
 
 **Correct Answer:** 休憩 (break)
 
-**Explanation:** 休憩 (kyuukei) means break — a scheduled rest period during work. 休み = day off, 残業 = overtime, 勤務 = duty.
+**Explanation:** 休憩 (kyuukei) means break: a scheduled rest period during work. 休み = day off, 残業 = overtime, 勤務 = duty.

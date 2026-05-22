@@ -4,9 +4,9 @@ section: 22
 title: お問い合わせ (otoiawase)
 ---
 
-お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is one of the most important terms in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank you for your inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome and appreciated event, not an interruption.
+お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is one of the most important terms in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank you for your inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome event, not an interruption. That framing matters more than it might initially seem.
 
-In practice, お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly — rather than the more abrupt 質問 (shitsumon, question) — signals professionalism and sets a courteous tone for the entire interaction.
+In practice, お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly, rather than the more abrupt 質問 (shitsumon, question), sets a courteous tone for the entire interaction.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, お問い合わせ covers a wide range of guest contacts: questions
 
 ## Related Expressions
 
-- **ご用件 (goyouken)** — The purpose or matter of a call or visit. ご用件 is the broader category — お問い合わせ is one type of ご用件, specifically a question or request for information. A guest may have a ご用件 that is a complaint, a reservation request, or an お問い合わせ, among other things.
-- **ご質問 (go-shitsumon)** — A question, more direct and slightly less formal than お問い合わせ. ご質問 tends to refer to a single specific question, while お問い合わせ can encompass a broader, multi-part inquiry. In formal phone scripts, お問い合わせ is generally preferred.
+- **ご用件 (goyouken)**: The purpose or matter of a call or visit. ご用件 is the broader category: お問い合わせ is one type of ご用件, specifically a question or request for information. A guest may have a ご用件 that is a complaint, a reservation request, or an お問い合わせ, among other things.
+- **ご質問 (go-shitsumon)**: A question, more direct and slightly less formal than お問い合わせ. ご質問 tends to refer to a single specific question, while お問い合わせ can encompass a broader, multi-part inquiry. In formal phone scripts, お問い合わせ is generally preferred.
 
 ## Common Mistakes
 
-Staff sometimes open a call with 何ですか or 何でしょうか instead of the standard お問い合わせありがとうございます, which sounds abrupt and unwelcoming. Another mistake is treating お問い合わせ as a synonym for 苦情 (kujo, complaint) — while a complaint may arrive as an お問い合わせ, not every お問い合わせ is a complaint, and assuming so can create unnecessary defensiveness. Learners should also avoid using the casual 質問がありますか with guests, as it lacks the respectful framing that お問い合わせ provides.
+Staff sometimes open a call with 何ですか or 何でしょうか instead of the standard お問い合わせありがとうございます, which sounds abrupt and unwelcoming. Students often don't realize how much that opening phrase shapes the guest's entire experience of the call. Another mistake is treating お問い合わせ as a synonym for 苦情 (kujo, complaint): while a complaint may arrive as an お問い合わせ, not every お問い合わせ is a complaint, and assuming so creates unnecessary defensiveness. Learners should also avoid using the casual 質問がありますか with guests, as it lacks the respectful framing that お問い合わせ provides.
 
 ---
 
@@ -45,4 +45,4 @@ Staff sometimes open a call with 何ですか or 何でしょうか instead of t
 
 **Correct Answer:** お問い合わせ (inquiry)
 
-**Explanation:** お問い合わせありがとうございます is the standard phone opening line — it immediately signals professionalism and gratitude, setting a warm tone; staff who skip it and go straight to 何ですか sound abrupt and unwelcoming on the phone.
+**Explanation:** お問い合わせありがとうございます is the standard phone opening line: it sets a warm, professional tone immediately; staff who skip it and go straight to 何ですか sound abrupt and unwelcoming on the phone.

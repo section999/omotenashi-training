@@ -4,9 +4,12 @@ section: 37
 title: 再確認 (sai kakunin)
 ---
 
-再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), meaning "reconfirmation" — the act of checking the details of an existing reservation a second time to ensure accuracy. In Japanese hotel practice, 再確認 is a proactive quality-control step taken before a guest arrives, not merely a response to uncertainty. It serves multiple functions: catching any data-entry errors, updating the file if the guest's plans have changed since booking, and creating a moment of warm anticipation by reaching out to the guest in advance. For VIP guests, large groups, or bookings on high-demand dates such as holidays and festivals, 再確認 is considered mandatory rather than optional.
+**Pronunciation:** [sai-**ka**-ku-nin]
+**Register:** Formal -- standard front desk and reservations usage
 
-The format of a 再確認 contact may be by phone, email, or in some cases a messaging app notification through the hotel's booking platform. When conducted by phone, the standard opening is ご予約の再確認のためお電話いたしました (I am calling to reconfirm your reservation), followed by reading back all key details: name, arrival date and time, room type, meal plan, and any special requests. This scripted reconfirmation ensures no element has been misrecorded. The 再確認 call also gives the guest a natural opportunity to flag any last-minute changes — a different arrival time, a dietary update, or an additional request — before they arrive, reducing the likelihood of on-arrival surprises for both parties.
+再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), giving you "reconfirmation" -- the act of checking a reservation's details a second time before the guest arrives. In Japanese hotel practice, this isn't done because staff distrust the original booking; it's a proactive quality-control step, and guests who receive it tend to feel genuinely looked after. Think of it as a warm heads-up rather than an administrative chore. For VIP guests, large groups, or bookings tied to holidays and festivals, 再確認 is treated as mandatory rather than optional.
+
+The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. Worth noting here is that this scripted read-back isn't about doubting the guest; it's about catching data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request, which saves everyone a headache on the day.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ The format of a 再確認 contact may be by phone, email, or in some cases a mes
 
 **2.** ご予約内容を再確認いたします。〇月〇日から2泊、デラックスダブルルーム1室、朝食付きプランでよろしいでしょうか。
 *Go-yoyaku naiyou wo sai-kakunin itashimasu. 〇gatsu〇ka kara nihaku, derakkusu daburu ruumu isshitsu, choushoku tsuki puran de yoroshii deshou ka.*
-"Allow me to reconfirm your reservation details: [dates], 2 nights, one Deluxe Double Room, breakfast included plan — is that correct?"
+"Allow me to reconfirm your reservation details: [dates], 2 nights, one Deluxe Double Room, breakfast included plan: is that correct?"
 
 **3.** 再確認の際に、ご到着時間のご変更やご要望がございましたらお知らせください。
 *Sai-kakunin no sai ni, go-touchaku jikan no go-henkou ya go-youbou ga gozaimashitara o-shirase kudasai.*
@@ -24,12 +27,12 @@ The format of a 再確認 contact may be by phone, email, or in some cases a mes
 
 ## Related Expressions
 
-- **確認 (kakunin)** — confirmation; the initial verification done at the time of booking; 再確認 is the follow-up confirmation done closer to arrival, distinguished by the prefix 再 (again).
-- **予約変更 (yoyaku henkou)** — reservation change; a 再確認 call frequently reveals that a guest needs a 予約変更, making the two processes naturally connected and often sequentially handled in the same call.
+- **確認 (kakunin)**: confirmation; the initial verification done at the time of booking. 再確認 is the follow-up done closer to arrival, and the 再 prefix is what signals you're revisiting rather than confirming for the first time.
+- **予約変更 (yoyaku henkou)**: reservation change; a 再確認 call frequently uncovers the need for a 予約変更, and handling both in the same call is perfectly natural and efficient.
 
 ## Common Mistakes
 
-Learners sometimes treat 再確認 as an unnecessary formality and skip it for non-VIP guests, but this misses its operational value — even standard reservations can contain errors that create problems at check-in, and a brief reconfirmation call eliminates those before they become complaints. Another mistake is reading back only partial details during the 再確認, such as confirming the date but omitting the meal plan or room type. Since errors in any element can affect the guest's experience, all key reservation details should be read aloud in full and the guest should explicitly confirm each one. Finally, avoid conducting 再確認 too early — calling a week before arrival loses the urgency that makes it meaningful; the ideal window is 24 to 48 hours prior.
+Students often treat 再確認 as unnecessary for non-VIP guests and skip it, but that misses the point. Even an ordinary booking can contain a data-entry error that turns into a real problem at check-in, and a brief call prevents that entirely. Another common slip is doing a partial read-back -- confirming the arrival date but forgetting to mention the meal plan or room category. Since errors in any element can affect the guest's experience, all key details need to be read aloud and confirmed one by one. One more thing: timing matters. Calling a week before arrival dilutes the impact; the ideal window is 24 to 48 hours before the guest arrives, when changes are still easy to make.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes treat 再確認 as an unnecessary formality and skip it for n
 
 **Correct Answer:** 再確認 (reconfirmation)
 
-**Explanation:** 再確認 is best done 24–48 hours before arrival for VIP or large bookings — a brief confirmation call (明日のご到着をお待ちしております) also doubles as a warm welcome and gives guests a chance to update any late changes.
+**Explanation:** 再確認 is best done 24–48 hours before arrival for VIP or large bookings: a brief confirmation call (明日のご到着をお待ちしております) also doubles as a warm welcome and gives guests a chance to update any late changes.

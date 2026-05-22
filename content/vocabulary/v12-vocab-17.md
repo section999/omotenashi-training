@@ -4,9 +4,12 @@ section: 17
 title: 病院 (byouin)
 ---
 
-病院 (byouin) refers to a hospital — a medical facility equipped with professional staff, diagnostic equipment, and treatment capabilities for a wide range of illnesses and injuries. In the hotel context, knowing the locations of the nearest 病院 is a fundamental responsibility for front desk and concierge staff, as guests may require urgent care that goes beyond what can be provided on-site. Japanese hospitals are typically categorised by size and function: 診療所 (shinryoujo) are small clinics for outpatient care, while 病院 in the strict legal sense must have at least 20 inpatient beds and offer broader services. Staff should be familiar with both types and be able to recommend the most appropriate facility based on the guest's condition.
+**Pronunciation:** [**byou**-in]
+**Register:** Formal/Neutral, guest medical support and referral
 
-For international guests, navigating a Japanese 病院 can be daunting due to language barriers and unfamiliar procedures, so hotel staff play a crucial supportive role. This may include providing written directions and the hospital's address in the guest's language, arranging taxi or vehicle transport, contacting the hospital in advance to explain the guest's condition, or accompanying the guest if the situation warrants it. Staff should also have a basic understanding of how Japanese emergency numbers work — 119 is the number for ambulance (救急) and fire services, while 110 is for police. Knowing nearby hospitals that offer English-language services is particularly valuable for hotels that cater to international visitors.
+病院 means hospital, a medical facility with professional staff, diagnostic equipment, and treatment capabilities for a broad range of conditions. Knowing the location of the nearest 病院 is basic knowledge that every front desk and concierge staff member needs to have ready. Worth noting is how Japanese hospitals are categorised: a 診療所 (shinryoujo) is a small clinic handling outpatient care, while 病院 in the legal sense must have at least 20 inpatient beds and offer broader services. Knowing which type is appropriate for a given situation makes a real difference: sending a guest with a sprained wrist to a full emergency hospital, or a guest with chest pains to a small clinic, are both the wrong call.
+
+For international guests, walking into a Japanese 病院 can be genuinely daunting. Language barriers, unfamiliar administrative procedures, and a different approach to triage all add stress on top of an already difficult situation. That is where your role becomes really valuable. Offer written directions with the address in the guest's language, arrange a taxi, call ahead to explain the guest's condition, or in serious cases, accompany the guest. Students often just hand over an address and feel their job is done. In practice, proactively offering transport and a phone call to the hospital goes much further. Also keep in mind the emergency numbers: 119 for ambulance and fire, 110 for police. International guests often assume it works like their home country's system, so it helps to tell them directly.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ For international guests, navigating a Japanese 病院 can be daunting due to la
 
 ## Related Expressions
 
-- **救急病院 (kyuukyuu byouin)** — emergency hospital; specifically equipped for critical and life-threatening cases, operating 24 hours a day, which staff should identify in advance for their area.
-- **診療所 (shinryoujo)** — clinic or small medical office; often the appropriate referral for minor illnesses or injuries that do not require the full resources of a 病院.
+- **救急病院 (kyuukyuu byouin)**: emergency hospital; a facility specifically equipped for critical and life-threatening cases, operating 24 hours a day. Every hotel should have at least one identified in advance for their local area.
+- **診療所 (shinryoujo)**: clinic or small medical office; the appropriate referral for minor illnesses and non-urgent injuries. Knowing the difference between this and a full 病院 helps you direct guests to the right level of care.
 
 ## Common Mistakes
 
-Learners sometimes use 病院 when referring to a doctor's clinic or small medical office — in Japanese, small outpatient facilities are properly called 診療所 or クリニック (clinic), not 病院 unless they meet the minimum bed requirement. Another error is assuming all guests know how to use the Japanese emergency system; always proactively offer to contact or transport the guest rather than simply providing an address. When speaking to a distressed guest, avoid clinical or overly direct statements like 病院に行ってください; instead, say something like お病院にお連れいたしましょうか ("Shall we take you to the hospital?") to demonstrate care and initiative.
+Students often use 病院 for any medical facility, but in Japanese, small outpatient places are 診療所 or クリニック, not 病院 unless they meet the legal minimum bed count. Using 病院 for a neighbourhood clinic is not catastrophically wrong, but it can create confusion. Another common mistake is handing a distressed guest an address and leaving it at that. Always offer to call ahead or arrange transport rather than simply providing information. When speaking to a guest who is clearly worried, avoid blunt directives like 病院に行ってください. Instead, ask お病院にお連れいたしましょうか (shall we take you to the hospital?) which puts the hotel in a supportive, active role rather than an instructing one.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 病院 when referring to a doctor's clinic or small medic
 
 **Correct Answer:** 病院 (hospital)
 
-**Explanation:** 病院 (byouin) means hospital — the medical facility for serious illness or injury. 消防車 = fire truck, 警報 = alarm, 安全 = safety.
+**Explanation:** 病院 (byouin) means hospital: the medical facility for serious illness or injury. 消防車 = fire truck, 警報 = alarm, 安全 = safety.

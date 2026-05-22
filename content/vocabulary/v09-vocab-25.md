@@ -4,9 +4,12 @@ section: 25
 title: 仮予約 (kari yoyaku)
 ---
 
-仮予約 (kari yoyaku) means "tentative reservation" or "provisional booking" — a reservation that has been recorded but not yet finalised, typically because payment, written confirmation, or another condition from the guest is still pending. In Japanese hospitality, 仮予約 is a common intermediate state, particularly for group bookings, travel agency reservations, or plans where a deposit is required. The property records the intent to book, sets aside the room or resource conditionally, and waits for the guest or agent to complete the required steps before transitioning the booking to 確定 status.
+**Pronunciation:** [ka-ri-yo-**ya**-ku]
+**Register:** Formal/Neutral, reservation desk and booking confirmation contexts
 
-The critical operational responsibility associated with 仮予約 is communicating and enforcing the confirmation deadline (確認期限). Without a clear deadline, a 仮予約 can sit in limbo indefinitely, blocking inventory that could otherwise be sold to other guests. When informing a guest of their 仮予約 status, staff must always state: what the booking is (仮予約), what is needed to confirm it (payment, written approval, etc.), and by when (the 確認期限 date and time). This three-part communication prevents misunderstandings and ensures the property does not inadvertently lose revenue by holding unconfirmed inventory too long.
+仮予約 (kari yoyaku) means "tentative reservation" or "provisional booking", a reservation that has been recorded but not yet finalized, usually because payment, a signed agreement, or some other confirmation from the guest is still pending. In Japanese hotels, 仮予約 is a normal intermediate step, especially for group bookings, travel agency reservations, or any plan that requires a deposit before the booking locks in. The property sets the room or resource aside conditionally and waits for the guest or their agent to complete what's needed before the booking moves to 確定 (confirmed) status.
+
+The most important responsibility that comes with 仮予約 is communicating the 確認期限 clearly. Without a firm deadline, a tentative reservation can sit in limbo, blocking inventory that could be sold to other guests. When you inform a guest of their 仮予約 status, you need to cover three things in one message: what the booking currently is (tentative), what is needed to confirm it (payment, written approval, etc.), and by when (the exact date and time of the 確認期限). That three-part structure prevents misunderstandings and protects both the guest and the property.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The critical operational responsibility associated with 仮予約 is communicati
 
 ## Related Expressions
 
-- **確定 (kakutei)** — The completed state that 仮予約 transitions into once all required conditions are met. Staff should frame 仮予約 not as a problem but as a step in a process: 現在は仮予約ですが、〇日までにご確認いただければ確定となります clarifies the pathway forward.
-- **確認期限 (kakunin kigen)** — The specific deadline by which a 仮予約 must be converted to 確定. This compound term is used specifically in the context of tentative reservations and is worth learning as a set phrase alongside 仮予約 itself.
+- **確定 (kakutei)**: the completed state that 仮予約 transitions into once all conditions are met. Frame 仮予約 as a step in a process, not a problem: telling guests 現在は仮予約ですが、〇日までにご確認いただければ確定となります makes the path forward clear and actionable.
+- **確認期限 (kakunin kigen)**: the specific deadline for converting 仮予約 to 確定. Learn this as a set phrase alongside 仮予約 itself, since you will almost never say one without needing the other.
 
 ## Common Mistakes
 
-Failing to tell the guest the 確認期限 when informing them of their 仮予約 status is the most common and consequential error — without a deadline, the guest has no urgency to act, and the property may end up holding inventory indefinitely. Staff sometimes also reassure the guest that their 仮予約 is "almost like a confirmed booking," which is misleading and sets up disappointment if the room is released due to non-confirmation. A third mistake is not following up with the guest as the 確認期限 approaches; a courteous reminder call or email is standard practice at professional properties and prevents inadvertent cancellations.
+Students often forget to state the 確認期限 when telling a guest their booking is tentative, and this is the single most consequential error. Without a deadline, the guest feels no urgency to act, and the property ends up holding unconfirmed inventory far too long. One more thing to be careful about: some staff reassure guests that 仮予約 is "almost the same as confirmed," which is both inaccurate and unhelpful. If the room gets released due to non-confirmation, that reassurance makes the disappointment much worse. A third mistake is not following up as the deadline approaches. A brief, courteous reminder call or email is standard practice at professional properties, and it often saves both the guest and the hotel from an inadvertent cancellation.
 
 ---
 
@@ -44,5 +47,5 @@ Failing to tell the guest the 確認期限 when informing them of their 仮予�
 
 **Correct Answer:** 仮予約 (tentative reservation)
 
-**Explanation:** 仮予約 must always come with a clear confirmation deadline — saying ご確認いただける期限は〇月〇日です (the deadline to confirm is〜) prevents the guest from assuming the room is held indefinitely, which would block other bookings.
+**Explanation:** 仮予約 must always come with a clear confirmation deadline: saying ご確認いただける期限は〇月〇日です (the deadline to confirm is〜) prevents the guest from assuming the room is held indefinitely, which would block other bookings.
 

@@ -4,9 +4,12 @@ section: 7
 title: 日数 (nissuu)
 ---
 
-日数 refers to the total count of calendar days associated with a guest's stay, counting both the arrival day and the departure day. It is primarily a billing and scheduling term, used when communicating the full span of a visit in terms of days rather than nights. In Japanese hotel accounting, 日数 appears on invoices and internal reports where a day-based breakdown of services — such as parking fees, day-use spa access, or equipment rentals charged per calendar day — is required. It provides a different lens from 何泊 (number of nights), which is the more common unit for overnight accommodation charges.
+**Pronunciation:** [**nis**-suu]
+**Register:** Formal -- used in billing documents, invoices, and scheduling
 
-Understanding when to use 日数 versus 何泊 is an important professional skill. A guest staying from April 10 to April 12 has a 日数 of 3 (April 10, 11, and 12 are all counted) but a 何泊 count of 2 (only the nights of April 10 and 11 are chargeable). Confusing these can result in over- or under-billing. Staff in full-service hotels also use 日数 when coordinating with restaurants and activity partners who charge by the day rather than by the night.
+日数 refers to the total count of calendar days associated with a guest's stay, counting both the arrival day and the departure day. It is primarily a billing and scheduling term, used when communicating the full span of a visit in terms of days rather than nights. In Japanese hotel accounting, 日数 shows up on invoices and internal reports where day-based service charges apply, things like parking fees, day-use spa access, or equipment rentals billed per calendar day rather than per occupancy night. If you only ever work in overnight accommodation, 何泊 (the number of nights) is the unit you will use most. But the moment your property offers day-use services or partners with external vendors who bill differently, 日数 becomes a term you need to handle accurately.
+
+The distinction between 日数 and 何泊 trips up students more often than almost any other billing concept. Here is the clearest way to see it: a guest who checks in on April 10 and checks out on April 12 has a 日数 of 3 (April 10, 11, and 12 are all counted as calendar days) but a 何泊 of only 2 (the nights of April 10 and 11 are the chargeable overnight stays). In practice, if you bill for 3 nights when only 2 were occupied, you will get a complaint and a refund request. Getting this right upfront is simply more professional.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Understanding when to use 日数 versus 何泊 is an important professional skil
 
 ## Related Expressions
 
-- **何泊 (nanpaku)** — the night-based counterpart to 日数; used for accommodation charges, as hotels bill per night rather than per day; always confirm which unit applies before quoting a price.
-- **泊数 (hakusuu)** — a more formal or written variant of 何泊, meaning the count of chargeable nights; appears in invoices and reservation systems.
+- **何泊 (nanpaku)**: the night-based counterpart to 日数; used for room charges, since hotels bill per night of occupancy; always confirm which unit applies before quoting any price to a guest
+- **泊数 (hakusuu)**: a more formal or written variant of 何泊, meaning the count of chargeable nights; appears in invoices and reservation systems rather than in casual conversation
 
 ## Common Mistakes
 
-The most common error is using 日数 and 何泊 as if they were identical. A 3-day stay is not the same as a 3-night stay: a guest who checks in on April 10 and checks out on April 12 has stayed 2 nights (何泊 = 2) across 3 calendar days (日数 = 3). Billing for 3 nights when only 2 were occupied leads to complaints and refund requests. Learners also sometimes say 日にち instead of 日数 in formal billing contexts, which sounds casual and imprecise.
+Students often use 日数 and 何泊 as if they are the same thing, and this is the error that causes the most billing headaches. A 3-day stay is not the same as a 3-night stay: a guest checking in on April 10 and checking out on April 12 has a 日数 of 3 and a 何泊 of 2. Bill for 3 nights and you owe that guest a refund. One more thing to watch: saying 日にち instead of 日数 in formal billing contexts. It is understandable but registers as casual and imprecise, which is not the impression you want to give when you are presenting a final invoice to a guest.
 
 ---
 
@@ -45,4 +48,4 @@ The most common error is using 日数 and 何泊 as if they were identical. A 3-
 
 **Correct Answer:** 日数 (number of days)
 
-**Explanation:** 日数 (number of days) includes both arrival and departure days — note that 3日数 and 2泊 (2 nights) can describe the same trip; knowing when to use each prevents billing mismatches with the guest's expectations.
+**Explanation:** 日数 (number of days) includes both arrival and departure days: note that 3日数 and 2泊 (2 nights) can describe the same trip; knowing when to use each prevents billing mismatches with the guest's expectations.

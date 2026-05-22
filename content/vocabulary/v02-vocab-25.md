@@ -4,9 +4,12 @@ section: 25
 title: 鍵 (kagi)
 ---
 
-鍵 (kagi) means "key" and refers primarily to a physical key — the traditional metal type used to lock and unlock a door. While many contemporary hotels have transitioned to electronic card keys, 鍵 remains a universally understood term and is still used in ryokan and smaller traditional inns that maintain physical key systems. Beyond the literal object, 鍵 carries a symbolic weight in hospitality: handing a guest their key represents the transfer of the room to them — a moment of trust and welcome that should always be executed with care and dignity.
+**Pronunciation:** [**ka**-gi]
+**Register:** Neutral/Formal, standard guest-facing contexts
 
-The handover of a 鍵 is one of the most choreographed moments in the check-in process. Staff typically present it with both hands (両手で渡す), make direct eye contact, and accompany the gesture with a verbal phrase: こちらがお部屋の鍵でございます。どうぞ。 If the key requires explanation — such as a traditional ryokan key with a specific locking mechanism — staff should briefly demonstrate its use before sending the guest to their room. At check-out, guests are asked to return the key (鍵のご返却をお願いいたします), and this exchange is handled with equal courtesy.
+鍵 (kagi) means "key" and refers primarily to the traditional physical metal key used to lock and unlock a door. Many modern hotels have moved to card-based systems, but 鍵 remains a universally understood term and is still common at ryokan and smaller inns that have kept traditional key systems. Beyond the object itself, the moment of handing over a 鍵 carries real weight in hospitality. It represents the transfer of the room to the guest, a gesture of trust and welcome that deserves to be handled with genuine care, not rushed or done with one hand while looking at a screen.
+
+In practice, the key handover is one of the most carefully choreographed moments in check-in. Present it with both hands, make brief eye contact, and pair the gesture with こちらがお部屋の鍵でございます。どうぞ。 If the key has any quirks, such as a ryokan-style mechanism that guests may not immediately recognize, take fifteen seconds to show how it works before sending them off to the room. At check-out, the return is just as important: 鍵のご返却をお願いいたします should be delivered with equal courtesy, not like a transaction being closed.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The handover of a 鍵 is one of the most choreographed moments in the check-in p
 
 ## Related Expressions
 
-- **ルームキー (rūmu kī)** — room key, a more specific term that clarifies the key is for the guest room. In hotels that use both physical and card-based systems, ルームキー may refer to either type, while 鍵 specifically implies a physical metal key.
-- **カードキー (kādo kī)** — card key, the electronic access card used in modern hotels. Although functionally equivalent to 鍵 in purpose, staff should use the correct term depending on the hotel's system — referring to a card as 鍵 is understood but slightly imprecise.
+- **ルームキー (rūmu kī)**: room key, a more specific term that makes clear the key is for the guest room. In hotels that run both physical and card-based systems, ルームキー can refer to either type, while 鍵 specifically implies a physical metal key.
+- **カードキー (kādo kī)**: card key, the electronic access card used in most modern hotels. Functionally the same as 鍵 in purpose, but staff should use the appropriate term for their property's system rather than defaulting to 鍵 when what they mean is a card.
 
 ## Common Mistakes
 
-Learners sometimes simply say 鍵です when presenting a key, which is grammatically correct but too terse for a hospitality setting; こちらが鍵でございます accompanied by a gesture and eye contact is the expected standard. A frequent cultural mistake is handing the key with one hand or sliding it across the counter — two-handed presentation is the norm in Japanese service culture. Staff should also remember to instruct guests on key return at check-out rather than assuming they will know the procedure.
+Students sometimes just say 鍵です when presenting the key to a guest. Grammatically fine, practically too bare. こちらが鍵でございます with a gesture and a moment of eye contact is the standard, and anything less can feel flat. One more thing that gets overlooked regularly: the two-handed presentation. Handing a key with one hand, or placing it on the counter and sliding it over, misses the quiet signal of respect that guests notice even if they cannot name it. Two hands is the norm in Japanese service culture and it should become automatic. Also remember to mention key return at check-out rather than assuming guests already know the drill.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes simply say 鍵です when presenting a key, which is grammati
 
 **Correct Answer:** こちらが鍵でございます (here is your key)
 
-**Explanation:** こちらが鍵でございます presents the key respectfully — こちら draws attention to the item and ございます adds formality.
+**Explanation:** こちらが鍵でございます presents the key respectfully: こちら draws attention to the item and ございます adds formality.

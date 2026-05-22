@@ -4,9 +4,12 @@ section: 18
 title: 電車 (densha)
 ---
 
-電車 (densha) literally means "electric car/vehicle" and refers to electrically powered rail transport — the most dominant and iconic form of urban and intercity travel in Japan. The Japanese rail network is celebrated worldwide for its punctuality (delays of even one minute are formally announced with apologies), its cleanliness, and the sheer density of its coverage. For hotel guests, 電車 is almost always the most efficient way to reach major attractions, airports, and business districts, and advising guests on train routes is one of the most common concierge tasks.
+**Pronunciation:** [**den**-sha]
+**Register:** Neutral, everyday speech, guest directions, concierge advice
 
-Staff should be comfortable explaining the layered complexity of the 電車 system: the difference between JR lines and private railway operators (私鉄, shitetsu), the distinction between 各駅停車 (kakueki teisha, local trains that stop at every station) and 急行・特急 (express and limited express services), and the key transfer hubs in major cities. A helpful phrase is 「○○駅で乗り換えていただくと便利です」("It is convenient to transfer at XX station"). Knowing which 電車 lines connect directly to the hotel's nearest station greatly reduces guest confusion.
+電車 literally means "electric car" and refers to electrically powered rail transport, the most dominant and iconic form of travel in Japan, both within cities and between them. The network is celebrated worldwide for punctuality: delays of even one minute are formally announced with apologies. For hotel guests, the 電車 is almost always the fastest and most cost-effective way to reach major attractions, airports, and business districts, which is why helping guests navigate the train system is one of the most frequent tasks at any hotel front desk.
+
+Staff should get comfortable explaining the layers of the 電車 system: the difference between JR lines and private railways (私鉄, shitetsu), how 各駅停車 local trains stop at every station while 急行 and 特急 services skip ahead, and which major hubs are the best transfer points in your city. A phrase like 「○○駅で乗り換えていただくと便利です」 is genuinely useful to a guest holding a train map and looking lost. In practice, guests who arrive at the hotel already knowing their nearest station number and the main line they'll use have a much smoother stay.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff should be comfortable explaining the layered complexity of the 電車 syst
 
 ## Related Expressions
 
-- **地下鉄 (chikatetsu)** — subway or underground train; a type of 電車 that runs underground, common in major cities like Tokyo and Osaka
-- **新幹線 (shinkansen)** — the bullet train; a specialised high-speed 電車 for long-distance intercity travel, distinct from regular 電車 services
+- **地下鉄 (chikatetsu)**: subway or underground train; a type of 電車 that runs underground, common in major cities like Tokyo and Osaka
+- **新幹線 (shinkansen)**: the bullet train; technically a type of 電車 for long-distance intercity travel, but almost never called 電車 in casual speech; guests and staff always refer to it by name
 
 ## Common Mistakes
 
-Learners often use 電車 and 列車 (ressha, train) interchangeably, but 列車 is a more formal or literary term and is less common in everyday spoken conversation. In daily speech and hospitality, 電車 is almost always the correct choice for passenger rail. Another error is confusing 電車に乗る (to ride the train) with 電車を乗る — the correct particle is に, not を, for boarding a vehicle. Also, 新幹線 is technically a type of 電車 but is rarely referred to as one in casual speech — guests and staff typically call it by name.
+Learners often use 電車 and 列車 (ressha) interchangeably, but 列車 is more literary and formal, while 電車 is the natural spoken word for passenger rail. In everyday hospitality conversation, 電車 is almost always right. The bigger grammar trap is the particle: 電車に乗る is correct, not 電車を乗る. The に for boarding vehicles is a rule that comes up over and over with バスに乗る and タクシーに乗る too, so learning it once with 電車 will save you from repeating the same mistake across all transport vocabulary.
 
 ---
 
@@ -41,4 +44,4 @@ Learners often use 電車 and 列車 (ressha, train) interchangeably, but 列車
 
 **Answer:** 電車
 
-**Explanation:** 電車 (densha) means train — rail-based public transport that is punctual, efficient, and widely used across Japan.
+**Explanation:** 電車 (densha) means train: rail-based public transport that is punctual, efficient, and widely used across Japan.

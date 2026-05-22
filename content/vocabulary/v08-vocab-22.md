@@ -4,7 +4,7 @@ section: 22
 title: 遠くに (tooku ni)
 ---
 
-遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, honesty about distance is considered part of professional integrity and genuine omotenashi — guests who are told something is 近く (nearby) when it is actually far away feel misled, and that disappointment damages the overall guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Used with care and followed by practical transport suggestions, 遠くに is an act of service, not discouragement.
+遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, honesty about distance is considered part of professional integrity and genuine omotenashi, guests who are told something is 近く (nearby) when it is actually far away feel misled, and that disappointment damages the overall guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Used with care and followed by practical transport suggestions, 遠くに is an act of service, not discouragement.
 
 In practice, 遠くに is most useful when guests ask about destinations and staff need to manage their expectations honestly: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (you can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view.
 
@@ -24,12 +24,12 @@ In practice, 遠くに is most useful when guests ask about destinations and sta
 
 ## Related Expressions
 
-- **近くに (chikaku ni)** — Nearby or in the vicinity, the direct antonym of 遠くに. The contrast between these two terms is the core of distance communication in hospitality; staff who can deploy both honestly and fluently give guests the accurate information they need to plan their time effectively.
-- **徒歩 (toho)** — On foot / walking, which often appears in sentences alongside 遠くに as a way of clarifying that walking is not recommended. Saying 徒歩では遠くにございます (it is too far to walk) smoothly combines both words to steer guests toward transport options.
+- **近くに (chikaku ni)**: Nearby or in the vicinity, the direct antonym of 遠くに. The contrast between these two terms is the core of distance communication in hospitality; staff who can deploy both honestly and fluently give guests the accurate information they need to plan their time effectively.
+- **徒歩 (toho)**: On foot / walking, which often appears in sentences alongside 遠くに as a way of clarifying that walking is not recommended. Saying 徒歩では遠くにございます (it is too far to walk) smoothly combines both words to steer guests toward transport options.
 
 ## Common Mistakes
 
-The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment — this creates a false expectation that harms the guest experience far more than honest information would. Learners also sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. Finally, when using 遠くに, staff should always follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
+The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment: this creates a false expectation that harms the guest experience far more than honest information would. Learners also sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. Finally, when using 遠くに, staff should always follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
 
 ---
 
@@ -44,5 +44,5 @@ The most problematic mistake is avoiding 遠くに out of a desire to be encoura
 
 **Correct Answer:** 遠くにございます (it is far away)
 
-**Explanation:** 遠くにございます — honesty about distance is part of good service; follow it with a transport suggestion (バスや電車が便利です) so the information remains helpful rather than just discouraging.
+**Explanation:** 遠くにございます: honesty about distance is part of good service; follow it with a transport suggestion (バスや電車が便利です) so the information remains helpful rather than just discouraging.
 

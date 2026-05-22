@@ -4,9 +4,12 @@ section: 7
 title: 通貨 (tsuuka)
 ---
 
-通貨 refers to the official monetary system or currency of a country — in Japan's case, the 円 (en, yen). Understanding 通貨 is fundamental for hospitality professionals who handle payments, assist guests with money exchange, or answer questions about pricing. International guests arriving in Japan may be unfamiliar with the value of the yen and may ask front desk staff to help them understand costs in their home currency. A basic awareness of current exchange rates, while not a requirement for every staff member, allows for more helpful and reassuring responses.
+**Pronunciation:** [**tsuu**-ka]
+**Register:** Neutral/Formal, used in business, service, and everyday contexts
 
-In practical terms, hospitality staff should be ready to explain whether a property accepts foreign 通貨 directly (most do not), which credit cards are accepted, and where the nearest ATM or 両替所 (exchange office) is located. Some ryokans and traditional establishments remain cash-only, making it especially important to inform guests in advance so they can prepare the appropriate 通貨. A proactive reminder at check-in about nearby ATMs that accept international cards goes a long way toward preventing guest inconvenience.
+通貨 refers to the official monetary system or currency of a country. In Japan, that's the 円 (en, yen), and while this might seem like background knowledge rather than front-of-house vocabulary, it comes up more often than you'd expect. International guests frequently ask about costs in their home currency, want to know whether a property accepts cards or cash only, and occasionally arrive without local money at all. A hospitality professional who can address those concerns confidently, by knowing the nearest ATM, the closest 両替所, and whether the property accepts major credit cards, gives guests a much more reassuring arrival experience.
+
+In practice, the most common scenario you'll face is a guest at a traditional ryokan who didn't know it was cash-only. Some of the most beloved traditional properties in Japan still don't accept cards, and if guests aren't told ahead of time, they'll arrive unprepared. Proactively mentioning this during the reservation confirmation, or at the very least at check-in with a clear direction to the nearest ATM, prevents what could otherwise be an embarrassing and stressful situation. That said, even for properties that do accept cards, knowing the current exchange rate range well enough to give a rough estimate in US dollars or euros is a small but genuinely appreciated skill.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In practical terms, hospitality staff should be ready to explain whether a prope
 
 ## Related Expressions
 
-- **円 (en)** — "yen"; the specific name of Japan's 通貨, used when referring to actual amounts (e.g., 1,000円).
-- **為替レート (kawase reeto)** — "exchange rate"; the ratio at which one 通貨 can be converted to another, directly relevant when guests ask how much something costs in their home currency.
+- **円 (en)**: the specific name of Japan's 通貨; used when talking about actual amounts, such as 1,000円, rather than the monetary system in the abstract.
+- **為替レート (kawase reeto)**: the exchange rate between currencies; directly relevant when guests ask you to translate a price into their home currency.
 
 ## Common Mistakes
 
-Learners sometimes confuse 通貨 (the currency system) with 現金 (genkin, "cash") — 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins. Another error is mispronouncing 通貨 as *tsuu-ga* with a voiced final consonant; it is *tsuu-ka* with an unvoiced /k/. Do not confuse 通貨 with 通過 (tsuuka, "passing through"), which is a homophone with a completely different meaning — context usually makes the distinction clear, but be attentive in written communication.
+Students often confuse 通貨 (the currency system as a concept) with 現金 (genkin, "cash"): 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins in your hand. Worth noting here is a tricky homophone: 通過 (tsuuka) means "passing through" and is written and pronounced identically. Context usually saves you in speech, but in written communication be careful which kanji you reach for. On pronunciation, the final consonant is an unvoiced /k/: *tsuu-ka*, not *tsuu-ga*.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 通貨 (the currency system) with 現金 (genkin, "ca
 
 **Correct Answer:** 通貨 (currency)
 
-**Explanation:** 通貨 (tsuuka) means currency — the money system used in a country. 税関 = customs, 料金表 = price list, 両替所 = exchange office.
+**Explanation:** 通貨 (tsuuka) means currency: the money system used in a country. 税関 = customs, 料金表 = price list, 両替所 = exchange office.

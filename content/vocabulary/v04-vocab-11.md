@@ -4,9 +4,9 @@ section: 11
 title: コンディショナー (kondishonaa)
 ---
 
-コンディショナー is the Japanese loanword for hair conditioner and is a standard companion amenity to シャンプー in hotel and ryokan bathrooms. While historically some budget properties offered only shampoo, contemporary guest expectations — particularly among international visitors — include conditioner as a baseline provision, and higher-end properties now treat the two as an inseparable pair. In ryokan settings, the コンディショナー provided may be linked to the property's theme, using local botanical extracts such as camellia oil (椿油) or hinoki (Japanese cypress), adding a distinctive regional character to the bath experience. Housekeeping staff are responsible for ensuring コンディショナー is stocked, sealed or full, and positioned attractively alongside シャンプー.
+コンディショナー is the Japanese loanword for hair conditioner, and it goes hand-in-hand with シャンプー in hotel and ryokan bathrooms. Some budget properties historically offered only shampoo, but guest expectations have shifted, especially among international travelers, and conditioner is now treated as a baseline item. Higher-end properties provide both as a matched pair without question. In ryokan settings, the コンディショナー sometimes reflects the property's regional character, with products featuring camellia oil (椿油) or hinoki (Japanese cypress) extract adding something genuinely local to the bath experience. Housekeeping staff are responsible for making sure コンディショナー is stocked, sealed or full, and neatly positioned beside シャンプー.
 
-Staff must be confident explaining the location of コンディショナー to guests who cannot find it — whether it is on a shower shelf, in a wall-mounted dispenser, or alongside other amenities near the sink. If a guest has concerns about hair care or specific product ingredients, staff should respond helpfully without guessing, offering to retrieve product information or to source an alternative amenity if the property's inventory allows. Knowing the difference between コンディショナー (rinse-out conditioner) and トリートメント (treatment, a deeper conditioning product occasionally offered at luxury properties) helps staff answer guest questions precisely.
+Staff should be ready to tell guests exactly where the コンディショナー is located, whether that is on a shower shelf, in a wall-mounted dispenser, or near the sink with other amenities. If a guest raises product concerns or ingredient questions, respond helpfully and honestly rather than guessing. Offer to retrieve the product information card or check for alternatives if the property's inventory allows. Worth noting: the distinction between コンディショナー (a rinse-out conditioner) and トリートメント (a deeper conditioning treatment offered at some luxury properties) does come up with guests, so knowing the difference helps you answer confidently.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff must be confident explaining the location of コンディショナー to g
 
 ## Related Expressions
 
-- **シャンプー (shanpuu)** — Shampoo; always checked and replenished together with コンディショナー as they form a matched bathroom amenity pair.
-- **トリートメント (toriitomento)** — Hair treatment; a richer conditioning product sometimes offered at premium properties — deeper conditioning than standard コンディショナー.
+- **シャンプー (shanpuu)**: shampoo; always check and replenish it together with コンディショナー since the two form a matched bathroom amenity pair.
+- **トリートメント (toriitomento)**: hair treatment; a richer conditioning product sometimes offered at premium properties, going deeper than a standard コンディショナー rinse.
 
 ## Common Mistakes
 
-A frequent oversight is replenishing シャンプー without checking コンディショナー levels at the same time — both should always be assessed together during room servicing. When directing a guest, be specific about location (シャワー横 — beside the shower, or シンク横 — beside the sink) rather than giving a vague direction. Learners sometimes mispronounce or misspell this loanword as コンデショナー or コンデイショナー — the correct form is コンディショナー.
+A very common oversight is restocking シャンプー without checking whether コンディショナー also needs replenishing. They sit right next to each other, so check both while you are there. When telling a guest where the コンディショナー is, be specific: シャワー横 (beside the shower) or シンク横 (beside the sink) is far more helpful than a vague gesture toward the bathroom. Students often misspell or mispronounce this loanword as コンデショナー or コンデイショナー. The correct form is コンディショナー, with a clear short イ in the middle, and it is worth getting that right before you need to use it in front of a guest.
 
 ---
 
@@ -44,5 +44,5 @@ A frequent oversight is replenishing シャンプー without checking コンデ�
 
 **Correct Answer:** コンディショナーはシャワー横にございます (conditioner is next to the shower)
 
-**Explanation:** コンディショナーはシャワー横にございます — ございます is the polite form of ある, used when describing the location of an item for a guest.
+**Explanation:** コンディショナーはシャワー横にございます: ございます is the polite form of ある, used when describing the location of an item for a guest.
 

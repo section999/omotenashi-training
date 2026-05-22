@@ -4,9 +4,12 @@ section: 19
 title: 無料 (muryou)
 ---
 
-無料 combines the characters for "nothing/none" (無) and "fee/charge" (料), together meaning "no charge." In Japanese hospitality, being explicit about what is free is considered a courtesy — guests should never have to wonder or discover charges they did not expect. Properties that communicate 無料 clearly signal transparency and build trust, a value deeply embedded in Japanese service culture. Knowing this word allows staff to set correct expectations immediately and confidently.
+**Pronunciation:** [mu-**ryou**]
+**Register:** Formal/Neutral, used proactively in guest communication to confirm that no charge applies
 
-Staff use 無料 proactively when describing complimentary services: 「朝食は無料でご提供しております」 (breakfast is provided free of charge) or 「駐車場は無料でございます」 (the parking lot is complimentary). When a guest asks whether a service is free, a quick, clear 「無料でございます」 is the ideal response — short, formal, and reassuring. The contrast with 有料 (charged) is important: staff must know which services are which and communicate accordingly to avoid billing disputes.
+無料 combines the characters for "nothing/none" (無) and "fee/charge" (料), meaning "no charge." In Japanese hospitality, being explicit about what is free is considered a basic courtesy. Guests should never have to wonder whether they will be billed for something, and they should certainly never discover a charge they did not expect. Properties that communicate 無料 clearly signal transparency, and that transparency builds the kind of trust that brings guests back. Knowing this word lets you set correct expectations quickly and with confidence.
+
+Staff use 無料 proactively when describing complimentary services: 「朝食は無料でご提供しております」 (breakfast is provided free of charge) or 「駐車場は無料でございます」 (the parking lot is complimentary). When a guest asks whether something costs money, a clear 「無料でございます」 is the ideal response: short, formal, and reassuring. The contrast with 有料 (chargeable) is something you need to have sorted before you start your shift. In practice, knowing off the top of your head which services are free and which are not is part of doing the job well.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff use 無料 proactively when describing complimentary services: 「朝食�
 
 ## Related Expressions
 
-- **有料 (yuuryou)** — The direct opposite of 無料, meaning a charge applies. Staff must be able to use both words clearly and without hesitation — announcing 有料 when a guest assumes a service is free should always be done proactively and before the service is rendered, not afterward.
-- **サービス料込み (saabisu ryou komi)** — Meaning "service charge included," this phrase is used in restaurants and hotels where a percentage-based service fee is built into the bill. It reassures guests that tipping is unnecessary in Japan, and distinguishes all-inclusive pricing from à la carte 有料 items.
+- **有料 (yuuryou)**: the direct opposite of 無料, meaning a charge applies. Staff must be equally fluent in both terms and able to use them without hesitation. A single check-in explanation might need both: Wi-Fi is 無料, but room service is 有料.
+- **サービス料込み (saabisu ryou komi)**: meaning "service charge included," used in restaurants and hotels where a percentage-based fee is built into the bill. It reassures guests that tipping is unnecessary in Japan, and distinguishes all-inclusive pricing from individual 有料 items.
 
 ## Common Mistakes
 
-A common mistake is responding to a guest's question about cost with only 「はい、無料です」 — while technically correct, the plain-form です is too casual for formal hotel environments; 「無料でございます」 is expected. Staff sometimes also forget to mention whether tax is included (税込み) when discussing pricing, which can cause confusion at checkout. Additionally, learners may confuse 無料 with 無償 (mushō), a more formal/legal term meaning "without compensation" used in contracts — 無料 is always the correct term in spoken guest-facing hospitality.
+A common mistake is answering a guest's question about cost with just 「はい、無料です」. While technically correct, plain-form です is too casual for a formal hotel environment. 「無料でございます」 is what guests expect to hear. Students often also forget to mention whether tax is included (税込み) when discussing pricing, and that omission can create confusion at checkout. Worth noting: do not confuse 無料 with 無償 (mushoo), which is a more formal or legal term meaning "without compensation," used in contracts rather than spoken conversation. In guest-facing hospitality, 無料 is always the right word.
 
 ---
 
@@ -44,5 +47,5 @@ A common mistake is responding to a guest's question about cost with only 「は
 
 **Correct Answer:** 無料でございます (it is free of charge)
 
-**Explanation:** 無料でございます — a short, clear answer with ございます is best; guests asking about charges need reassurance quickly, and using でございます keeps it formal without adding unnecessary words.
+**Explanation:** 無料でございます: a short, clear answer with ございます is best; guests asking about charges need reassurance quickly, and using でございます keeps it formal without adding unnecessary words.
 

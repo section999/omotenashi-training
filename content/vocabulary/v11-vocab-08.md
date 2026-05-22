@@ -4,9 +4,12 @@ section: 8
 title: 担当部署 (tantou busho)
 ---
 
-担当部署 refers to the department within a hotel or organization that is specifically responsible for handling a particular type of inquiry or service. While 担当者 points to an individual, 担当部署 points to the team or division — for example, the reservations department, the banquet department, or the facilities management team. In large hotels with multiple specialized departments, correctly identifying and routing to the 担当部署 is essential for efficient service delivery. Guests who are routed to the wrong department must repeat their inquiry, which erodes satisfaction and reflects poorly on the hotel's internal coordination.
+**Pronunciation:** [tan-**tou**-bu-sho]
+**Register:** Formal, professional hotel and office communication
 
-When informing a caller about a transfer to another 担当部署, naming the department explicitly prepares the guest for who will answer and why. A phrase such as 予約担当部署におつなぎいたします (I will connect you to the reservations department) is far more informative than simply saying 転送いたします (I will transfer you). This transparency is a core element of professional Japanese telephone communication, demonstrating that the staff member understands the caller's need and is routing it appropriately rather than simply passing the call along.
+担当部署 is the team or division specifically responsible for a particular type of inquiry or service. Keep this separate in your mind from 担当者, which points to an individual: 担当部署 points to the whole group, whether that's the reservations department, the banquet team, or facilities management. In a large hotel with many specialized departments, sending a call to the wrong 担当部署 means the guest has to repeat their entire question from scratch, and that experience reflects badly on how the hotel is run.
+
+When you transfer a caller, always name the 担当部署 before you do it. Saying 予約担当部署におつなぎいたします tells the guest exactly who will pick up and gives them a reason to feel confident. Compare that with simply saying 転送いたします and the difference is obvious: one shows you understood the guest's need, the other just sounds like you're getting the call off your hands. Worth noting is that guests who hear a specific department name almost always relax, because it tells them someone with the right expertise is waiting.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When informing a caller about a transfer to another 担当部署, naming the dep
 
 ## Related Expressions
 
-- **担当者** — the specific individual within the 担当部署; when the caller's matter requires a named contact, redirect to 担当者 rather than the broader 担当部署.
-- **フロント** — the front desk, which often serves as the first point of contact and the hub for routing calls to the appropriate 担当部署; knowing which 担当部署 handles what is a core front desk skill.
+- **担当者**: the specific individual within a 担当部署; when the caller's matter needs a named contact rather than a team, route to 担当者 instead
+- **フロント**: the front desk, which typically acts as the first point of contact and the routing hub for all calls to the appropriate 担当部署; knowing which department handles what is a core front desk skill
 
 ## Common Mistakes
 
-A frequent error is using the generic 部署 without 担当 — saying ご連絡先の部署 instead of 担当部署 loses the specificity that reassures the caller the right team is involved. Some staff incorrectly say 関係の部署 (the related department) as a vague hedge when they are unsure who handles the matter; in Japanese hospitality, admitting uncertainty and investigating is preferable to vague language. Learners also sometimes fail to name the 担当部署 before transferring, leaving the guest uncertain about what to expect.
+Dropping 担当 and just saying 部署 loses the specificity that reassures the caller the right team is involved. Some staff reach for 関係の部署 (the related department) when they're genuinely unsure who handles something, but that kind of vague language sounds evasive. In practice, it's far better to acknowledge the uncertainty, check quickly, and then route correctly. Students often forget to name the 担当部署 before transferring, which leaves the guest staring at a ringing call from an unknown extension with no idea who they're about to speak to or why.
 
 ---
 
@@ -45,4 +48,4 @@ A frequent error is using the generic 部署 without 担当 — saying ご連絡
 
 **Correct Answer:** 担当部署 (responsible department)
 
-**Explanation:** 担当部署 — when routing a call, naming the department (例: 予約担当部署、客室担当部署) before transferring prepares the guest for who will answer and prevents the confusion of an unexplained ring to an anonymous extension.
+**Explanation:** 担当部署: when routing a call, naming the department (例: 予約担当部署、客室担当部署) before transferring prepares the guest for who will answer and prevents the confusion of an unexplained ring to an anonymous extension.

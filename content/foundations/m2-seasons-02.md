@@ -1,19 +1,19 @@
 ---
 id: m2-seasons
 section: 2
-title: Spring — Renewal and the Cherry Blossom
+title: Spring, Renewal and the Cherry Blossom
 ---
 
-Spring in Japan is defined by **sakura (桜)** — the cherry blossom — and the concept of **mono no aware (物の哀れ)**: the bittersweet beauty of things that do not last. Cherry blossoms bloom for only a week or two, and their brief, perfect flowering has shaped Japanese aesthetics for centuries.
+Spring in Japan is defined by **sakura (桜)**, the cherry blossom, and the concept of **mono no aware (物の哀れ)**: the bittersweet beauty of things that do not last. Cherry blossoms bloom for only a week or two, and their brief, perfect flowering has shaped Japanese aesthetics for centuries.
 
 For hospitality professionals, spring presents rich opportunities to create meaningful, memorable guest experiences.
 
 **Seasonal greetings (March–May):**
-- *"春らしい陽気になってまいりました。"* — "The weather has begun to feel like spring."
-- *"桜の季節を迎え、心よりお喜び申し上げます。"* — "We are delighted to welcome you in this cherry blossom season."
+- *"春らしい陽気になってまいりました。"*, "The weather has begun to feel like spring."
+- *"桜の季節を迎え、心よりお喜び申し上げます。"*, "We are delighted to welcome you in this cherry blossom season."
 
 **Environment:**
-- Pale pink and white floral arrangements — cherry blossom branches in minimalist vases are ideal.
+- Pale pink and white floral arrangements, cherry blossom branches in minimalist vases are ideal.
 - Spring themes in room amenities: green tea from the season's first harvest (一番茶, *ichibancha*), sakura-flavoured sweets (*wagashi*).
 - Light, airy table linens in cream or pale greens.
 
@@ -23,7 +23,7 @@ For hospitality professionals, spring presents rich opportunities to create mean
 - New season green tea, particularly the prized *shincha* (新茶), which arrives in April–May.
 
 **Service attitude in spring:**
-Spring carries a mood of fresh beginnings. Guests visiting in this season often associate the trip with a milestone — a graduation trip, a new job, a first anniversary. Be attentive to the emotional weight the season carries for them.
+Spring carries a mood of fresh beginnings. Guests visiting in this season often associate the trip with a milestone: a graduation trip, a new job, a first anniversary. Be attentive to the emotional weight the season carries for them. In practice, it may matter more than you initially expect.
 
 ---
 
@@ -48,4 +48,4 @@ Spring carries a mood of fresh beginnings. Guests visiting in this season often 
 
 **Correct Answer:** The bittersweet appreciation of beauty that does not last
 
-**Explanation:** Mono no aware is a Japanese aesthetic concept that finds beauty in transience — most famously expressed through the brief flowering of cherry blossoms. Understanding it helps hospitality professionals appreciate why spring is emotionally significant for many guests.
+**Explanation:** Mono no aware is a Japanese aesthetic concept that finds beauty in transience: most famously expressed through the brief flowering of cherry blossoms. Understanding it helps hospitality professionals appreciate why spring is emotionally significant for many guests.

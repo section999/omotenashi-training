@@ -4,9 +4,9 @@ section: 9
 title: 開店 (kaiten)
 ---
 
-開店 literally means "open store" and refers to the moment a restaurant, shop, or service facility begins its operating period for the day. In a hotel context, it is used most often to communicate breakfast start times, restaurant opening, and the commencement of amenity services such as the spa, gift shop, or pool. Because many guests plan their morning and afternoon activities around when facilities open, providing accurate and readily available 開店 information is a basic but vital service competency. Misstating or being unsure of opening times disrupts guests' plans and reflects poorly on the professionalism of the property.
+開店 literally means "open store" and refers to the moment a restaurant, shop, or service facility begins its operating period for the day. In a hotel context, it is used most often to communicate breakfast start times, restaurant opening, and the commencement of amenity services such as the spa, gift shop, or pool. Because many guests plan their morning and afternoon activities around when facilities open, providing accurate 開店 information is a basic but vital service competency. Being unsure of opening times disrupts guests' plans and reflects poorly on the property's professionalism.
 
-The cultural nuance of 開店 in a Japanese hospitality setting goes slightly beyond the mechanical act of unlocking a door: it signals readiness, presentation, and preparedness to receive guests at the highest standard. A restaurant that 開店 at 7 a.m. in a top hotel is expected to be fully staffed, lit, and arranged at exactly that moment — not in the process of setting up. Staff announcing opening times to guests are implicitly vouching for this standard of readiness. For this reason, knowing not just the official opening time but the practical nuances (e.g., hot dishes available from 7:30 a.m., though the room opens at 7 a.m.) makes communication more useful and trustworthy.
+The cultural nuance of 開店 in a Japanese hospitality setting goes slightly beyond the mechanical act of unlocking a door. It conveys readiness, presentation, and full preparedness to receive guests at the highest standard. A restaurant that 開店 at 7 a.m. in a top hotel is expected to be fully staffed, lit, and arranged at exactly that moment, not still setting up. Staff announcing opening times to guests are implicitly vouching for this standard of readiness. That said, knowing the practical nuances, for example, that hot dishes may not be available until 7:30 a.m. even though the room opens at 7 a.m., makes your communication more useful and trustworthy.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The cultural nuance of 開店 in a Japanese hospitality setting goes slightly be
 
 ## Related Expressions
 
-- **閉店 (heiten)** — closing; the opposite of 開店; equally important to communicate so guests know the end of service and can plan their last orders or final visits accordingly.
-- **営業時間 (eigyou jikan)** — business hours; the full time window that encompasses both 開店 and 閉店; when a guest asks a general question about a facility's hours, providing the entire 営業時間 is more complete than stating only the opening time.
+- **閉店 (heiten)**: closing; the opposite of 開店; equally important to communicate so guests know the end of service and can plan their last orders or final visits accordingly.
+- **営業時間 (eigyou jikan)**: business hours; the full time window that encompasses both 開店 and 閉店; when a guest asks a general question about a facility's hours, providing the entire 営業時間 is more complete than stating only the opening time.
 
 ## Common Mistakes
 
-Learners often give the opening time correctly but forget to mention ラストオーダー (last order) or 閉店 (closing), leaving the guest with an incomplete picture of the service window — always aim to provide the full context. Another mistake is using the plain form 「開店します」 rather than the more polished 「開店いたします」 in formal guest communication; いたします is the humble-polite form appropriate for hotel staff. Finally, avoid guessing if you are not certain of the current day's opening time — seasonal or event-related schedule changes are common, and incorrect information damages credibility.
+Students often give the opening time correctly but forget to mention ラストオーダー (last order) or 閉店 (closing), leaving the guest with an incomplete picture of the service window. Always aim to provide the full context. Another mistake is using the plain form 「開店します」 rather than 「開店いたします」 in formal guest communication. The humble いたします is what the register requires. Finally, never guess if you are not certain of the current day's opening time. Seasonal or event-related schedule changes are common, and incorrect information damages credibility.
 
 ---
 
@@ -44,5 +44,5 @@ Learners often give the opening time correctly but forget to mention ラスト�
 
 **Correct Answer:** レストランは7時に開店いたします (the restaurant opens at 7 o'clock)
 
-**Explanation:** レストランは7時に開店いたします — いたします (humble form) elevates opening time from a plain fact into a service announcement; giving a specific time (7時) makes the answer immediately useful.
+**Explanation:** レストランは7時に開店いたします: いたします (humble form) elevates opening time from a plain fact into a service announcement; giving a specific time (7時) makes the answer immediately useful.
 

@@ -4,9 +4,9 @@ section: 12
 title: サイン (sign)
 ---
 
-サイン is the Japanese loanword for signature, derived from the English "sign." In a hotel context, guests are asked to sign a variety of documents: the check-in registration form, credit card charge slips, room service orders, and agreements for any special arrangements. The act of signing has legal and administrative significance, confirming that the guest acknowledges the terms presented. In Japanese hospitality culture, the request for a サイン must be made as graciously as any other interaction — the guest should feel that they are being invited to complete a formality, not pressed to sign a contract.
+サイン is the Japanese loanword for signature, borrowed directly from the English "sign." In a hotel context, guests are asked to sign a range of documents: the check-in registration form, credit card charge slips, room service orders, and agreements for any special arrangements. The act of signing carries real legal and administrative weight, confirming that the guest acknowledges what has been presented. In Japanese hospitality culture, requesting a サイン should feel exactly as gracious as any other part of the interaction. The guest should feel invited to complete a formality, not pressed to sign something.
 
-The most professional way to request a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the action サイン, and the double-layered polite request form お願いいただけますでしょうか. Staff should indicate exactly where on the document the signature is required — either by pointing with an open hand (never a single finger) or by providing a small marker. After the guest has signed, staff should acknowledge the completion with かしこまりました or ありがとうございました.
+The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. In practice, staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The most professional way to request a signature is こちらにサインをお�
 
 ## Related Expressions
 
-- **署名 (shomei)** — a more formal, legal term for signature; 署名 appears on official documents and contracts, while サイン is used in everyday hospitality interactions such as check-in forms and charge slips.
-- **捺印 (natsu-in)** — personal stamp/seal (hanko); in Japan, a personal seal may sometimes be used in place of a handwritten signature on formal documents, though hotels typically accept サイン from all guests.
+- **署名 (shomei)**: a more formal, legal term for signature; 署名 belongs on official documents and contracts, while サイン handles everyday hospitality situations like check-in forms and charge slips.
+- **捺印 (natsu-in)**: personal stamp or seal (hanko); in Japan, a personal seal can sometimes substitute for a handwritten signature on formal documents, though hotels generally accept サイン from all guests.
 
 ## Common Mistakes
 
-Using サインしてください is a common error — while grammatically understandable, it is too direct and lacks the required politeness of お願いいただけますでしょうか. Learners also sometimes point with a single finger to indicate where the guest should sign, which is considered impolite in Japanese culture; always use an open hand or a pen to indicate the signature line. Additionally, do not rush the guest during signing — even when there is a queue, maintaining a calm and patient demeanor is part of professional omotenashi.
+Using サインしてください is a common slip. It makes grammatical sense but it is too direct and lacks the level of politeness that the situation calls for. Students also sometimes point with a single finger to indicate the signature line, which comes across as rude in Japanese culture. An open hand or a pen laid near the line is the right approach. Worth noting: the subtler mistake is rushing the guest when there is a queue behind them. Staying calm and patient during the signing process is not just polite, it is part of what professional omotenashi actually looks like.
 
 ---
 
@@ -45,4 +45,4 @@ Using サインしてください is a common error — while grammatically unde
 
 **Correct Answer:** お願い (request / please)
 
-**Explanation:** お願いいただけますでしょうか is the most polite way to request an action — using お願い elevates the request appropriately.
+**Explanation:** お願いいただけますでしょうか is the most polite way to request an action: using お願い elevates the request appropriately.

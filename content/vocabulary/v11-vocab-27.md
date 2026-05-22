@@ -4,9 +4,9 @@ section: 27
 title: 転送 (tensou)
 ---
 
-転送 (転送) means to forward or redirect a call, combining 転 (to turn or transfer) and 送 (to send). In hotel telephone operations, 転送 is one of the most frequently performed actions, connecting guests to the appropriate department — whether that is room service, the concierge desk, housekeeping, or a specific staff member. Done well, a 転送 feels seamless to the guest; done poorly, it means the guest is either disconnected or forced to re-explain their request from the beginning. The quality of a hotel's 転送 handling directly reflects its overall service culture.
+転送 means to forward or redirect a telephone call, built from 転 (to turn or transfer) and 送 (to send). In hotel operations it is one of the most routine telephone actions you will perform, connecting guests to room service, the concierge, housekeeping, or whoever can actually help them. When handled well the guest barely notices the transfer happened. When handled poorly they either get disconnected or have to repeat their entire request from scratch, which is a frustrating experience that reflects badly on the whole hotel.
 
-The gold standard in hotel telephony is the "warm transfer" (ウォームトランスファー): before connecting the guest, the staff member first contacts the receiving party, summarizes the guest's need, and then joins the two parties. This is expressed as 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect you). In contrast, a "cold transfer" — simply forwarding the call without preparation — is strongly discouraged in omotenashi-oriented settings. Staff should also confirm that the transfer was successful and not assume the connection went through without error.
+The standard to aim for is what practitioners call a warm transfer. Before connecting the guest, you reach the receiving party first, briefly explain the guest's situation, and then bring them together. You signal this to the guest with 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect you). In practice this takes only an extra thirty seconds but completely changes the experience for the guest. A cold transfer, where you just forward the call without any preparation, is strongly discouraged in omotenashi settings.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The gold standard in hotel telephony is the "warm transfer" (ウォームトラ�
 
 ## Related Expressions
 
-- **お繋ぎします (otsunagi shimasu)** — a softer, more guest-focused way to say "I will connect you," often used in place of 転送します in face-to-face or high-register telephone settings
-- **直通 (chokutsuu)** — a direct line, as in 直通番号 (direct number); relevant because knowing which departments have direct lines affects how 転送 is arranged
+- **お繋ぎします (otsunagi shimasu)**: a softer, more guest-centered way to say "I will connect you." This phrasing is preferred over 転送します in face-to-face situations and in higher-register telephone settings because it puts the focus on serving the guest rather than describing the technical action.
+- **直通 (chokutsuu)**: a direct line, as in 直通番号 (direct number). Knowing which departments have direct lines matters when you arrange a 転送, because routing a call directly avoids extra rings and the risk of the guest being passed through an unnecessary switchboard step.
 
 ## Common Mistakes
 
-A common error is using 転送します without explaining why or where the call is going, which leaves guests disoriented. Always name the destination department or person: 〇〇部署に転送いたします. Another mistake is attempting a transfer without verifying that the receiving line is available — an unanswered 転送 that returns to the guest empty is worse than asking the guest to call back. Finally, learners sometimes confuse 転送 with 保留; 保留 keeps the caller on the same line while 転送 moves them to a different one.
+A very common error is saying 転送します without telling the guest where the call is going or why. Always name the destination: 〇〇部署に転送いたします gives the guest a sense of direction and shows they are being handled deliberately. Another mistake is trying to transfer without first checking that the receiving line is available. An unanswered 転送 that comes back to the guest empty is genuinely worse than asking them to wait or offering to call them back. Students often confuse 転送 with 保留 as well: 保留 keeps the caller on the same line while you work, while 転送 physically moves them to a different line entirely.
 
 ---
 
@@ -44,4 +44,4 @@ A common error is using 転送します without explaining why or where the call
 
 **Correct Answer:** 転送 (transfer / forwarding)
 
-**Explanation:** 転送 best practice is to brief the receiving party first — whenever possible, do a warm transfer (担当者に状況をお伝えしてからお繋ぎします) so the guest does not have to repeat themselves; cold transfers where the caller must re-explain are one of the top complaints in hotel phone service.
+**Explanation:** 転送 best practice is to brief the receiving party first: whenever possible, do a warm transfer (担当者に状況をお伝えしてからお繋ぎします) so the guest does not have to repeat themselves; cold transfers where the caller must re-explain are one of the top complaints in hotel phone service.

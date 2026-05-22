@@ -4,9 +4,9 @@ section: 1
 title: 掃除 (souji)
 ---
 
-掃除 is the everyday Japanese word for cleaning and encompasses all activities carried out to maintain hygiene and order in a hotel or ryokan. In the hospitality context, it covers a wide range of tasks including dusting furniture, vacuuming carpets, wiping surfaces, sanitizing bathroom fixtures, and refreshing the overall presentation of a guest room. The word carries a strong professional connotation in hotel settings, where cleaning is understood not merely as a physical task but as an expression of care and respect toward the guest. High standards of 掃除 are central to the philosophy of omotenashi, as a spotless environment signals that every detail of the guest's comfort has been considered.
+掃除 is the everyday Japanese word for cleaning, and it covers the full range of tasks that keep a hotel or ryokan in good condition: dusting furniture, vacuuming carpets, wiping surfaces, sanitizing bathroom fixtures, and refreshing the general presentation of a guest room. In a professional hospitality setting, cleaning is not just a physical task. It is an expression of care and respect toward the guest, and guests notice the difference between a room that has been cleaned and one that has been cleaned thoughtfully.
 
-In daily hotel operations, 掃除 is performed on a scheduled basis — typically each morning after check-out or during a guest's absence — and may also be requested on demand. Staff should be prepared to discuss the scope and timing of 掃除 with guests clearly and politely, especially when a guest asks whether their room has been serviced or wishes to arrange a specific cleaning time. When combined with verbs such as 行う (to carry out) or いたす (humble form), the term fits naturally into formal guest-facing speech.
+In daily hotel operations, 掃除 runs on a schedule, typically each morning after checkout or during a guest's absence, and can also be requested on demand. Staff need to be able to talk about this clearly and politely with guests, whether they are asking if the room has already been serviced or want to arrange a specific time. Worth noting: when combined with verbs like 行う (to carry out) or the humble いたす, the word fits naturally into formal guest-facing speech.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In daily hotel operations, 掃除 is performed on a scheduled basis — typicall
 
 ## Related Expressions
 
-- **清掃 (seisou)** — A more formal, professional term for cleaning, preferred in written notices, staff manuals, and official announcements; 掃除 is more conversational.
-- **お掃除 (o-souji)** — The honorific prefix お softens the word slightly; used when referring to cleaning performed by or for a guest in a respectful tone.
+- **清掃 (seisou)**: A more formal, professional term for cleaning, preferred in written notices, staff manuals, and official announcements; 掃除 is more conversational.
+- **お掃除 (o-souji)**: The honorific prefix お softens the word slightly; used when referring to cleaning performed by or for a guest in a respectful tone.
 
 ## Common Mistakes
 
-Learners sometimes use 掃除 interchangeably with 清掃, but in formal hotel signage and reports 清掃 is strongly preferred. Another common error is forgetting to attach polite verb endings — saying just 掃除します instead of 掃除いたします can sound too casual in a guest-facing context. Be careful not to confuse 掃除 with 整理 (seirii), which means tidying or organizing rather than cleaning.
+Students often use 掃除 interchangeably with 清掃, but on formal hotel signage and in written reports 清掃 is the standard. Another common slip is sticking with 掃除します instead of 掃除いたします, which can come across as too casual in front of a guest. Also be careful not to mix up 掃除 with 整理 (seirii): 整理 is about tidying and organizing, not actual cleaning.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes use 掃除 interchangeably with 清掃, but in formal hotel s
 
 **Correct Answer:** 掃除 (cleaning)
 
-**Explanation:** 掃除 means general cleaning — used when describing daily room maintenance across all areas of the hotel.
+**Explanation:** 掃除 means general cleaning: used when describing daily room maintenance across all areas of the hotel.
 

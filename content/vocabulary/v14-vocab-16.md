@@ -4,9 +4,12 @@ section: 16
 title: 地図アプリ (chizu apuri)
 ---
 
-地図アプリ (chizu apuri) combines 地図 (chizu, map) and アプリ (apuri, app — short for application) to describe digital navigation applications on smartphones. These apps have transformed the way tourists move through Japan, offering turn-by-turn directions, public transit route planning, nearby restaurant and facility searches, and real-time traffic updates — all in multiple languages. For visitors unfamiliar with Japanese train networks or street addressing systems (Japan's addressing is uniquely non-sequential), 地図アプリ are often essential companions throughout a trip.
+**Pronunciation:** [chi-zu-**a**-pu-ri]
+**Register:** Neutral, casual and professional conversation, guest assistance
 
-Hotel staff who recommend 地図アプリ add tangible value to a guest's stay. When asked for directions, a concierge might say 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」("Using a map app such as Google Maps or Yahoo Maps would be convenient"). Pointing out that many 地図アプリ work offline when maps are downloaded in advance is especially helpful for guests worried about mobile data costs. Staff should also mention that Japan-specific apps like Navitime offer detailed transit integration that international apps sometimes lack.
+地図アプリ combines 地図 (map) and アプリ (app, short for application) to mean a smartphone navigation application. These apps have genuinely changed how tourists move through Japan: they offer turn-by-turn walking directions, public transit planning, nearby restaurant searches, and real-time traffic data, all in multiple languages. Japan's addressing system is notoriously non-sequential compared to most countries, so for visitors trying to find a side-street restaurant or a small shrine off the main road, a 地図アプリ is less a convenience and more a necessity.
+
+Hotel staff who proactively recommend 地図アプリ add real value to the guest's day. When someone asks for directions, responding with 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」 is practical and guest-focused. Worth noting is that Japan-specific apps like Navitime offer far deeper transit integration than international apps, including precise transfer timing and platform numbers, so it's worth mentioning both options. Guests worried about mobile data costs will also appreciate being told that most 地図アプリ can download maps in advance for offline use.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff who recommend 地図アプリ add tangible value to a guest's stay. 
 
 ## Related Expressions
 
-- **ナビ (nabi)** — short for ナビゲーション (navigation); commonly used for in-car GPS systems and can refer to any navigation function within a 地図アプリ
-- **道案内 (michi-annai)** — giving directions on foot or verbally; what hotel staff do manually when a 地図アプリ is unavailable or confusing
+- **ナビ (nabi)**: short for ナビゲーション (navigation); used for in-car GPS systems and can refer to any navigation function within a 地図アプリ
+- **道案内 (michi-annai)**: giving directions verbally or on foot; the human equivalent of what a 地図アプリ does, used by hotel staff when the app is unavailable or the guest needs a personal explanation
 
 ## Common Mistakes
 
-A common error is pronouncing アプリ as "appli" (the French-influenced short form) rather than the more standard Japanese アプリ (a-pu-ri). When writing, learners sometimes omit the space between 地図 and アプリ in romaji transcriptions, but both should be treated as a compound noun. Also note that 地図 alone refers to a paper or digital map in general, while 地図アプリ specifically indicates a smartphone application — the distinction matters when recommending resources at the concierge desk.
+Pronouncing アプリ as "appli" (the French-influenced form) sounds off in Japanese: the correct three-beat pronunciation is a-pu-ri. When writing, learners sometimes leave out the space between 地図 and アプリ in romaji, but both elements are part of a compound noun and should be treated as one unit. That said, remember that 地図 alone can refer to any map (paper or digital), while 地図アプリ specifically means a smartphone application: the distinction matters when you're at the concierge desk pointing a guest toward the right resource.
 
 ---
 
@@ -41,4 +44,4 @@ A common error is pronouncing アプリ as "appli" (the French-influenced short 
 
 **Answer:** 地図アプリ
 
-**Explanation:** 地図アプリ (chizu apuri) means map app — a digital navigation tool that provides routes, nearby facilities, and real-time guidance.
+**Explanation:** 地図アプリ (chizu apuri) means map app: a digital navigation tool that provides routes, nearby facilities, and real-time guidance.

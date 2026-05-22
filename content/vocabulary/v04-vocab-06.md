@@ -4,9 +4,9 @@ section: 6
 title: シーツ交換 (shiitsu koukan)
 ---
 
-シーツ交換 refers to the changing of bed sheets and is one of the core housekeeping tasks in any hotel or ryokan. In the Japanese hospitality context, freshly changed sheets are a fundamental expectation of guest comfort, and the precision with which they are folded, tucked, and presented is treated as a reflection of the establishment's overall service quality. Many hotels in Japan change sheets after every checkout as standard procedure, while during longer stays they may do so on alternating days or upon guest request. The act of シーツ交換 is not merely functional — the crisp, clean presentation of a remade bed is a visual promise of hygiene and care.
+シーツ交換 means changing the bed sheets, and it is one of the core tasks in hotel housekeeping. A freshly made bed with clean, crisp sheets is something guests notice immediately when they walk into a room. The precision involved: pulling the fabric taut, tucking corners correctly, aligning the fold at the top: is not just about aesthetics. It is a visible sign that care was taken, and in omotenashi hospitality, that matters. Many hotels in Japan change sheets after every checkout as standard, while longer stays may see a change every few days or upon guest request.
 
-In practice, staff should confirm guest preferences for シーツ交換 frequency, particularly in eco-conscious hotels that encourage guests to reuse sheets to reduce environmental impact. When a guest requests a sheet change outside the regular schedule, staff should respond promptly with 「承りました、すぐに手配いたします」to confirm the request. Knowing how to distinguish シーツ交換 from タオル交換 (towel change) is also important to avoid fulfilling the wrong service request.
+In practice, staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. Worth knowing: it is surprisingly common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Always confirm which one they want before heading off to get supplies.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, staff should confirm guest preferences for シーツ交換 frequenc
 
 ## Related Expressions
 
-- **タオル交換 (taoru koukan)** — Towel replacement; often requested alongside シーツ交換 but refers specifically to bath and hand towels, not bed linen.
-- **ターンダウン (taandaun)** — Turndown service; a premium evening service that includes straightening the bed and sometimes involves refreshing linen, distinct from full シーツ交換.
+- **タオル交換 (taoru koukan)**: Towel replacement; often requested alongside シーツ交換 but refers specifically to bath and hand towels, not bed linen.
+- **ターンダウン (taandaun)**: Turndown service; a premium evening service that includes straightening the bed and sometimes involves refreshing linen, distinct from full シーツ交換.
 
 ## Common Mistakes
 
-A common error is confusing シーツ (sheets) with タオル (towels) when responding to a guest request — always confirm which item the guest is referring to before proceeding. Learners may also use the less formal 取り替え (torikae) instead of 交換 in guest-facing speech; while both mean replacement, 交換 sounds more professional in a hotel context. Avoid telling a guest that シーツ交換 cannot be done outside the regular schedule without first checking with a supervisor.
+Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is actually asking for before going to get anything. Students also tend to use 取り替え (torikae) in guest-facing speech, but 交換 sounds more professional in a hotel context. And never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
 
 ---
 
@@ -45,5 +45,5 @@ A common error is confusing シーツ (sheets) with タオル (towels) when resp
 
 **Correct Answer:** シーツ交換 (sheet change)
 
-**Explanation:** シーツ交換 specifically means changing bed sheets — knowing the difference from タオル交換 (towel change) avoids guest confusion.
+**Explanation:** シーツ交換 specifically means changing bed sheets: knowing the difference from タオル交換 (towel change) avoids guest confusion.
 

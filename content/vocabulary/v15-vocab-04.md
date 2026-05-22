@@ -4,9 +4,12 @@ section: 4
 title: 洗剤 (senzai)
 ---
 
-洗剤 refers to the chemical cleaning agents used to remove dirt, grease, stains, and odors from fabrics during washing. In hotel and ryokan settings, providing 洗剤 free of charge in the laundry room is a standard hospitality touch that guests appreciate, sparing them from having to purchase detergent for a single wash. There are several types of 洗剤 relevant to hospitality — liquid, powder, and pod formats — and staff may be asked which type is available or which is best suited for certain fabrics. Understanding these differences allows staff to give genuinely helpful advice that reflects omotenashi values.
+**Pronunciation:** [**sen**-zai]
+**Register:** Neutral, practical vocabulary used in laundry rooms and service instructions
 
-When stocking the laundry room or advising guests on proper laundry care, it is important to distinguish between detergents designed for regular cotton fabrics and those formulated for delicates or color-safe washing. Some guests with sensitive skin may also inquire about fragrance-free or hypoallergenic 洗剤 options, and being prepared for such requests demonstrates attentive service. Staff should also remind guests not to use excessive amounts of 洗剤, as this can leave residue on garments and damage the machine.
+洗剤 refers to the cleaning agents used to remove dirt, grease, stains, and odours from fabrics during washing. In hotels and ryokan, providing 洗剤 free of charge in the laundry room is a small but appreciated touch of hospitality that spares guests from hunting down detergent for a single wash. There are several formats guests might encounter: liquid (液体洗剤), powder (粉末洗剤), and capsule or pod style. Each has its strengths, and being able to give a short, helpful answer when guests ask which to use reflects the kind of attentive service that omotenashi is all about.
+
+Guests with sensitive skin sometimes ask specifically about fragrance-free or hypoallergenic options, and being prepared for that question is a nice mark of thoroughness. Knowing the difference between detergents for regular cotton and those formulated for delicates is equally useful. Students often overlook one practical point: too much 洗剤 is actually a problem, as excess detergent leaves residue on garments and can irritate the skin. Mentioning this to guests before they start a wash is a small piece of advice that tends to be genuinely welcomed.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When stocking the laundry room or advising guests on proper laundry care, it is 
 
 ## Related Expressions
 
-- **柔軟剤 (juunanai)** — fabric softener; often used after 洗剤 to add softness and fragrance to laundry, but kept separate as a different product.
-- **漂白剤 (hyouhakuzai)** — bleach; a stronger cleaning agent used for stain removal, not suitable for colored or delicate fabrics.
+- **柔軟剤 (juunanai)**: fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so make sure guests know not to mix the two.
+- **漂白剤 (hyouhakuzai)**: bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area.
 
 ## Common Mistakes
 
-A common mistake is confusing 洗剤 (senzai, detergent) with 洗浄剤 (senjouzai, cleaning agent for surfaces), which sounds similar but is not used for clothing. Learners also sometimes forget to distinguish 洗剤 from 柔軟剤; advising a guest to add 洗剤 when they ask about softener would result in a very different — and unpleasant — outcome. Finally, avoid the blunt instruction 洗剤を入れてください when speaking with guests; a more helpful phrasing such as こちらの洗剤をご使用ください is more appropriate in a service setting.
+A straightforward but important mistake is confusing 洗剤 (senzai, detergent for clothes) with 洗浄剤 (senjouzai, cleaning agent for surfaces or equipment). They sound similar but are used in completely different contexts. The potentially costly error is mixing up 洗剤 and 柔軟剤: if a guest asks about softener and you hand them detergent, the results will not be what they expected. In guest-facing speech, avoid the blunt instruction 洗剤を入れてください. A more helpful and polite phrasing like こちらの洗剤をご使用ください fits the service context much better.
 
 ---
 
@@ -41,4 +44,4 @@ A common mistake is confusing 洗剤 (senzai, detergent) with 洗浄剤 (senjouz
 
 **Answer:** 洗剤
 
-**Explanation:** 洗剤 (senzai) means detergent — a cleaning substance that removes dirt, grease, and stains from fabrics.
+**Explanation:** 洗剤 (senzai) means detergent: a cleaning substance that removes dirt, grease, and stains from fabrics.

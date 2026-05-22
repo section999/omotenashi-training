@@ -6,7 +6,7 @@ title: 一括払い (ikkatsu barai)
 
 一括払い means paying the full amount in a single transaction, as opposed to spreading it across installments. In Japanese hospitality, this is the standard assumed payment mode for most hotel stays, restaurant bills, and spa services. Staff confirm it as the default before processing, rather than just assuming. The term matters most in card transactions, where the terminal will prompt a choice between 一括 (lump sum) and 分割 (installments). Getting this wrong means voiding and reprocessing a payment, which delays everyone and can visibly unsettle a guest.
 
-For shorter stays or straightforward charges, 一括払い is almost always appropriate. That said, when a bill is particularly large — a multi-night banquet package, for instance — staff may gently introduce 分割払い as an option. Still, 一括払い is where you start. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.
+For shorter stays or straightforward charges, 一括払い is almost always appropriate. That said, when a bill is particularly large, a multi-night banquet package, for instance, staff may gently introduce 分割払い as an option. Still, 一括払い is where you start. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ For shorter stays or straightforward charges, 一括払い is almost always appr
 
 ## Common Mistakes
 
-Students often forget to confirm 一括払い before processing a card, so the terminal defaults to installments if the guest accidentally selects the wrong option. Some staff also confuse 一括払い with 前払い (prepayment) — 一括払い only refers to paying everything at once, not necessarily paying in advance. In guest-facing speech, avoid the casual shorthand 一括で without a polite ending; the full phrase ご一括でよろしいでしょうか is what formal hospitality contexts call for.
+Students often forget to confirm 一括払い before processing a card, so the terminal defaults to installments if the guest accidentally selects the wrong option. Some staff also confuse 一括払い with 前払い (prepayment): 一括払い only refers to paying everything at once, not necessarily paying in advance. In guest-facing speech, avoid the casual shorthand 一括で without a polite ending; the full phrase ご一括でよろしいでしょうか is what formal hospitality contexts call for.
 
 ---
 
@@ -45,4 +45,4 @@ Students often forget to confirm 一括払い before processing a card, so the t
 
 **Correct Answer:** 一括払い (lump sum payment)
 
-**Explanation:** 一括払い (lump-sum payment) is the default in most hotel transactions — confirming ご一括でよろしいでしょうか (shall I process this as a single payment?) before swiping prevents the need to void and reprocess if the guest preferred installments.
+**Explanation:** 一括払い (lump-sum payment) is the default in most hotel transactions: confirming ご一括でよろしいでしょうか (shall I process this as a single payment?) before swiping prevents the need to void and reprocess if the guest preferred installments.

@@ -4,9 +4,12 @@ section: 16
 title: 医者 (isha)
 ---
 
-医者 (isha) means doctor — a licensed medical professional qualified to diagnose, treat, and advise on health conditions. In the hotel setting, the ability to quickly summon or refer a guest to an 医者 is an essential service, particularly for luxury and high-end establishments where guests expect comprehensive support during their stay. Many large Japanese hotels maintain a roster of contracted physicians who can respond to the property for in-room consultations, a service known as ドクターコール (doctor call). This removes the burden of hospital transport for guests with non-life-threatening conditions and reflects the hospitality principle of anticipating and fulfilling every guest need.
+**Pronunciation:** [**i**-sha]
+**Register:** Formal/Neutral, medical coordination and guest care
 
-Staff at the front desk are typically responsible for coordinating contact with an 医者 when a guest requests one or when a health concern is escalated from another department. It is important to gather basic information before making the call — the guest's room number, the nature of their symptoms, any known allergies or existing conditions, and whether they have travel insurance. When communicating with the doctor on behalf of the guest, use clear and accurate language; avoid speculation about diagnosis. After the doctor's visit, follow up with the guest to ensure they received appropriate care and to ask whether any additional support is needed — this follow-through is central to omotenashi.
+医者 simply means doctor, a licensed medical professional who can diagnose, treat, and advise on health conditions. In a hotel setting, especially a luxury or high-end property, being able to quickly connect a guest with an 医者 is considered a standard service, not an exceptional one. Many large Japanese hotels maintain a roster of contracted physicians who can come directly to the property for in-room consultations. This service is called ドクターコール (doctor call), and it spares guests with non-life-threatening conditions from having to navigate an unfamiliar hospital system. That kind of anticipatory support is exactly what omotenashi looks like in a medical context.
+
+Front desk staff are usually the ones who coordinate contact with an 医者 when a guest requests one or when a health concern is passed up from another department. Before making the call, gather the basics: room number, symptoms, any known allergies or existing conditions, and whether the guest has travel insurance. When relaying information to the doctor on behalf of a guest, be accurate and concise, and avoid speculating about diagnosis. One more thing: after the visit, follow up with the guest. A simple check-in to ask whether they received adequate care and whether there is anything else the hotel can do for them is small in effort but significant in terms of how a guest feels cared for.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff at the front desk are typically responsible for coordinating contact with 
 
 ## Related Expressions
 
-- **ドクターコール (dokutaa kooru)** — doctor call; the hotel service of summoning a physician to a guest's room, made possible through the hotel's network of contracted 医者.
-- **診察 (shinsatsu)** — medical examination; what an 医者 performs when called to assess a guest's condition, usually involving checking vital signs and asking about symptoms.
+- **ドクターコール (dokutaa kooru)**: doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is one of the most appreciated services a luxury hotel can offer.
+- **診察 (shinsatsu)**: medical examination; what the 医者 performs when called to assess a guest's condition, typically involving checking vital signs and asking about symptoms before recommending a course of action.
 
 ## Common Mistakes
 
-A common mistake is using 医者 directly before a guest's name or when addressing a doctor — always use お医者様 or 先生 (sensei) when speaking to or about the physician in a respectful context. Learners also sometimes confuse 医者 (a general term for doctor) with 専門医 (senmon-i), which refers to a specialist, and 外科医 (gekai), a surgeon — these distinctions matter when arranging appropriate care. Finally, do not use 医者に行く ("go to a doctor") as a directive to guests; softer phrasing such as お医者様にご診察いただくことをおすすめします ("We recommend seeing a doctor") is more appropriate in a hospitality context.
+Never use plain 医者 when speaking to or about the doctor in a respectful context. Always say お医者様 or 先生 (sensei). Using the bare noun 医者 sounds dismissive in a formal setting. Students also sometimes confuse 医者 (a general doctor) with 専門医 (senmon-i), a specialist, or 外科医 (gekai), a surgeon. These distinctions can matter when you are trying to arrange appropriate care for a specific condition. In practice, perhaps the most common error is telling a guest to "go to a doctor" in a blunt, directive way. Instead, say something like お医者様にご診察いただくことをおすすめします, which frames the recommendation as a service and a suggestion rather than an instruction.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is using 医者 directly before a guest's name or when addressi
 
 **Correct Answer:** 医者 (doctor)
 
-**Explanation:** 医者 (isha) means doctor — the medical professional to call for illness or injury. 消防車 = fire truck, 警察 = police, 救助 = rescue.
+**Explanation:** 医者 (isha) means doctor: the medical professional to call for illness or injury. 消防車 = fire truck, 警察 = police, 救助 = rescue.

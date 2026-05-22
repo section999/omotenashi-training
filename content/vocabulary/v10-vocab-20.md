@@ -4,9 +4,12 @@ section: 20
 title: 不足 (fusoku)
 ---
 
-不足 means a shortage, insufficiency, or deficit — specifically that the amount provided is less than what is required. In hospitality and payment contexts, it most often refers to a guest's payment being short of the total due, or a prepaid balance being insufficient to cover a service charge. This situation, while potentially awkward, must be handled with composure and discretion in Japanese hospitality. How a staff member communicates 不足 to a guest — particularly in a public or semi-public space — directly affects the guest's dignity and their overall impression of the establishment.
+**Pronunciation:** [fu-**so**-ku]
+**Register:** Formal/Neutral, common in billing and payment situations
 
-The most important practical skill with 不足 is phrasing the notification correctly. Rather than stating blbare facts bluntly (お金が足りません), staff should use the formal construction 〇〇円ご不足です to indicate the exact shortfall without suggesting carelessness on the guest's part. It is equally important to immediately follow the notification with a solution: offering alternative payment methods, suggesting a smaller transaction, or discreetly stepping away to process a supplementary payment. In ryokan and high-end hotels, this type of conversation should ideally happen away from other guests.
+不足 means a shortage or insufficiency: the amount provided is less than what is required. In hospitality, this most often comes up when a guest's payment falls short of the total, or when a prepaid balance doesn't cover the charge. These moments can feel uncomfortable, but they don't have to be. The way you handle a 不足 situation tells a guest a lot about the establishment, and a staff member who manages it calmly and discreetly turns a potentially awkward moment into a demonstration of professional care.
+
+The phrasing you choose matters enormously here. Students often default to お金が足りません out of habit, but that phrasing can come across as blunt, even accusatory. The polished way to do it is 〇〇円ご不足です, which states the shortfall factually and without any judgment. One more thing to remember: never stop at just announcing the problem. Immediately offer a path forward, whether that's an alternative payment method, a smaller transaction, or a quiet step away from the counter to process a supplementary payment. In a high-end hotel or ryokan, this kind of conversation should always happen away from other guests.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The most important practical skill with 不足 is phrasing the notification corr
 
 ## Related Expressions
 
-- **残高不足 (zandaka fusoku)** — This compound term specifically means an insufficient account or card balance, and is the most common form in which 不足 appears in hotel payment contexts; it is also the error message guests may see on electronic payment terminals.
-- **超過 (chouka)** — 超過 is the direct opposite of 不足, meaning excess or overage; understanding both terms together helps staff communicate clearly about any discrepancy between expected and actual amounts in either direction.
+- **残高不足 (zandaka fusoku)**: This compound specifically means an insufficient account or card balance, and is the most common form 不足 takes in hotel payment contexts; it also appears as an error message on electronic payment terminals, so guests may already be familiar with it.
+- **超過 (chouka)**: 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps you communicate about any financial discrepancy, whether the guest has too little or the charge is too high.
 
 ## Common Mistakes
 
-The most common mistake is phrasing a payment shortfall too casually or too bluntly — お金が足りません is technically correct but can sound accusatory. The polished alternative is 〇〇円ご不足です, which frames the situation factually without implying fault. Learners also sometimes forget to follow up a 不足 notification with a concrete solution; in hospitality, identifying a problem without offering a path forward is considered incomplete service. Finally, avoid announcing 不足 loudly or in front of other guests.
+The most common mistake is using お金が足りません, which is technically accurate but sounds like a reprimand. Reach for 〇〇円ご不足です instead: same information, far more dignified. Learners also forget that identifying a problem without offering a solution is considered incomplete service in Japanese hospitality culture. Announcing 不足 and then standing there waiting is not enough; follow up immediately with an option. And as a general rule, never announce a payment shortfall loudly or in earshot of other guests.
 
 ---
 
@@ -44,5 +47,4 @@ The most common mistake is phrasing a payment shortfall too casually or too blun
 
 **Correct Answer:** 不足 (shortage / insufficient)
 
-**Explanation:** 不足 — when informing a guest of a payment shortage, phrase it carefully: 〇〇円ご不足です (you are〜yen short) rather than お金が足りません; the formal phrasing is gentler and prevents embarrassment, especially in a public area.
-
+**Explanation:** 不足: when informing a guest of a payment shortage, phrase it carefully: 〇〇円ご不足です (you are〜yen short) rather than お金が足りません; the formal phrasing is gentler and prevents embarrassment, especially in a public area.

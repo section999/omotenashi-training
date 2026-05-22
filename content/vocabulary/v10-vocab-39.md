@@ -4,9 +4,9 @@ section: 39
 title: 有効 (yuukou)
 ---
 
-有効 combines 有 (yū), meaning "to have" or "existing," and 効 (kō), derived from 効力 (kōryoku), meaning "effect" or "force." In hospitality, 有効 confirms that a coupon, バウチャー, credit card, reservation, or promotional offer is current, meets the applicable conditions, and can be accepted for the intended purpose. Confirming 有効 before proceeding with a transaction gives the guest confidence and prevents service disruptions. The opposite of 有効 is 無効 (mukō, invalid), and the two terms are often considered together when verifying documents.
+有効 comes from 有 (existing, to have) and 効 from 効力 (force, effect), and in hospitality it means that a coupon, バウチャー, credit card, reservation, or promotional offer is current, meets the applicable conditions, and can be accepted for its intended purpose. The opposite is 無効 (mukō, invalid), and the two are naturally paired whenever you're verifying a document. Telling a guest their document is 有効 gives them instant confidence, and telling them it is 無効 requires a careful, respectful explanation.
 
-In hotels and restaurants, staff verify 有効 status by checking the 有効期限 (expiry date), the applicable conditions printed on the document, and whether the item has already been used. When confirming 有効 with a guest, it is good practice to also state what the document entitles them to — for example, 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」 (This voucher is valid and covers the full room charge). This prevents any confusion about the scope of the benefit.
+In practice, confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. When you confirm it's valid, go one step further and tell the guest what they're entitled to, something like 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. That extra sentence removes any uncertainty about the scope of the benefit and saves awkward questions later.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In hotels and restaurants, staff verify 有効 status by checking the 有効期�
 
 ## Related Expressions
 
-- **無効 (mukō)** — invalid; the direct opposite of 有効, used when a document, card, or offer cannot be accepted
-- **有効期限 (yūkō kigen)** — expiry date; the most critical factor in determining whether something is 有効 or 無効
+- **無効 (mukō)**: invalid; the direct opposite of 有効, used when a document, card, or offer cannot be accepted and always requires a gentle, clear explanation to the guest
+- **有効期限 (yūkō kigen)**: expiry date; the first thing to check when determining whether something is 有効 or 無効, though it's not the only condition to verify
 
 ## Common Mistakes
 
-Learners sometimes confirm 有効 without checking all conditions — a coupon may be within its expiry date but restricted to specific services or minimum spend amounts, making it effectively 無効 for a particular guest's purchase. Another mistake is using 有効 too casually without verifying the actual status in the system, which can lead to acceptance of genuinely expired or already-used documents. Always perform a thorough verification before confirming 有効でございます.
+Students often confirm 有効 after only glancing at the expiry date, forgetting that a coupon can be within its date range and still be 無効 for a specific purchase if there are service restrictions or minimum spend conditions attached. Worth noting too: accepting a document as valid without actually checking the system can mean you're approving something that has already been used or has quietly expired. Do a full verification before you say 有効でございます, because unwinding a mistaken acceptance is far more uncomfortable than taking thirty extra seconds to confirm properly.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes confirm 有効 without checking all conditions — a coupon m
 
 **Correct Answer:** 有効 (valid)
 
-**Explanation:** 有効 confirmation gives guests confidence — always check both the 有効期限 (expiry date) and the applicable conditions (利用条件) before confirming 有効でございます; a voucher valid for a different service or a past expiry date is not 有効 even if it looks legitimate.
+**Explanation:** 有効 confirmation gives guests confidence: always check both the 有効期限 (expiry date) and the applicable conditions (利用条件) before confirming 有効でございます; a voucher valid for a different service or a past expiry date is not 有効 even if it looks legitimate.
 

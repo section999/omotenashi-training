@@ -4,9 +4,12 @@ section: 1
 title: 予約番号 (yoyaku bangou)
 ---
 
-予約番号 is the unique numeric or alphanumeric identifier assigned to every reservation at the time of booking. In Japanese hospitality operations, it serves as the primary key in property management systems, allowing staff to retrieve a complete guest profile — including stay dates, room type, meal plan, and special requests — within seconds. Because many guests share common surnames, relying on a name search alone risks pulling up the wrong record, so the 予約番号 is treated as the authoritative reference point. Its importance is reinforced in omotenashi culture, where swift, accurate service is inseparable from genuine care for the guest.
+**Pronunciation:** [yo-ya-ku-**ban**-gou]
+**Register:** Formal -- standard in all reservation-related communication
 
-When a guest contacts the hotel by phone, email, or in person, asking for the 予約番号 first is standard practice before any changes or confirmations are made. It appears on booking confirmation emails, OTA (online travel agency) booking slips, and hotel-issued vouchers, so guests are expected to have it accessible. Staff should phrase the request politely using the humble form — ご予約番号をお知らせいただけますでしょうか — to maintain the courteous tone required in formal hospitality settings. If a guest cannot provide the number, staff shift to secondary verification methods such as name, arrival date, and contact information.
+予約番号 is the unique numeric or alphanumeric identifier assigned to every reservation at the time of booking. In Japanese hospitality operations, it serves as the primary lookup key in the property management system, letting staff pull up a complete guest profile, including stay dates, room type, meal plan, and special requests, within seconds. This matters more than it might seem at first, because many guests share common surnames. A name-only search can return multiple records, and choosing the wrong one creates real problems down the line. The 予約番号 cuts through that ambiguity instantly. Its importance is reinforced by omotenashi culture, where swift and accurate service is understood as a direct expression of genuine care for the guest.
+
+When a guest contacts the hotel by phone, email, or in person, asking for the 予約番号 before making any changes or confirmations is standard practice. The number appears on booking confirmation emails, OTA (online travel agency) booking slips, and hotel-issued vouchers, so guests are generally expected to have it handy. Staff should phrase the request using the polite humble form: ご予約番号をお知らせいただけますでしょうか. That said, some guests simply will not have it, and in those cases you shift to secondary verification methods such as name, arrival date, and contact information. Asking for the number first is not about being rigid; it is about being fast.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest contacts the hotel by phone, email, or in person, asking for the �
 
 ## Related Expressions
 
-- **予約確認番号 (yoyaku kakunin bangou)** — a more explicit term emphasizing the confirmation aspect; used interchangeably but slightly more formal in written correspondence.
-- **受付番号 (uketsuke bangou)** — a reception or counter number issued on the spot, distinct from a pre-booking identifier; used more in clinics or government offices than hotels.
+- **予約確認番号 (yoyaku kakunin bangou)**: a slightly longer form that emphasizes the confirmation aspect; used interchangeably with 予約番号 but tends to appear more in formal written correspondence
+- **受付番号 (uketsuke bangou)**: a counter or reception number issued on the spot, not a pre-booking identifier; you are more likely to encounter this in clinics or government offices than in hotel settings
 
 ## Common Mistakes
 
-Learners sometimes confuse 予約番号 with 部屋番号 (room number), which is assigned only after check-in. Using the wrong number in a sentence — for example, quoting a room number when asked for a reservation number — causes lookup failures and delays. Another common error is omitting the honorific prefix ご- when speaking to a guest (saying 予約番号は？ instead of ご予約番号をお知らせください), which sounds abrupt and inappropriate in a formal hospitality context.
+Students often mix up 予約番号 and 部屋番号 (room number), which is only assigned after check-in. Quoting a room number when asked for a reservation number sends the lookup in completely the wrong direction and wastes everyone's time. Worth noting is the register issue: saying 予約番号は？ to a guest instead of ご予約番号をお知らせください sounds abrupt and strips away the courteous tone that formal hospitality communication requires. The ご- prefix is not optional here; it signals respect and keeps the interaction warm even in a purely transactional moment.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 予約番号 with 部屋番号 (room number), which i
 
 **Correct Answer:** 予約番号 (reservation number)
 
-**Explanation:** 予約番号 is the fastest lookup key in any hotel system — asking for it first allows staff to pull up the full record instantly and avoids the privacy risk of asking for names or dates over the phone without verification.
+**Explanation:** 予約番号 is the fastest lookup key in any hotel system: asking for it first allows staff to pull up the full record instantly and avoids the privacy risk of asking for names or dates over the phone without verification.

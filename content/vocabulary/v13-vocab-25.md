@@ -4,9 +4,12 @@ section: 25
 title: 確認作業 (kakunin sagyou)
 ---
 
-確認作業 means checking work or verification work — the deliberate process of reviewing tasks, documents, room conditions, or event setups to confirm that they meet required standards before they are presented to guests or superiors. In Japanese hospitality, 確認作業 is not optional but a fundamental step in every service workflow. A room attendant performs 確認作業 after cleaning a guest room, checking that amenities are properly arranged, towels are folded correctly, and nothing has been missed. A front desk associate performs 確認作業 before processing a checkout, ensuring that all charges are accurate. This culture of verification before delivery is a key reason why Japanese hospitality is renowned for its precision.
+**Pronunciation:** [ka-ku-**ni**-n sa-**gyo**-u]
+**Register:** Formal/Neutral -- used in internal staff communications and operational procedures
 
-確認作業 is built into standard operating procedures (SOP) at every level. Banquet staff verify setup diagrams before a function; kitchen teams confirm that all dishes match the order ticket; concierge staff double-check tour bookings before a guest departs. The goal is zero defects — by catching errors internally before they reach the guest, staff uphold the hotel's reputation for flawless service. Checklists (チェックリスト) are the most common tool for structuring 確認作業, ensuring nothing is overlooked even during busy periods.
+確認作業 means checking work or verification work: the deliberate, systematic process of reviewing tasks, room conditions, documents, or event setups to confirm that everything meets required standards before it reaches a guest or a superior. In Japanese hospitality, 確認作業 is not optional. It is a built-in step in every service workflow. A room attendant performs 確認作業 after cleaning a guest room, working through the checklist to confirm that amenities are properly placed, towels are folded correctly, and nothing has been missed. A front desk associate performs 確認作業 before processing a checkout, making sure all charges are accurate. This habit of verifying before delivering is one of the clearest reasons why Japanese hospitality has its reputation for precision.
+
+Students often notice that Japanese hotels seem to catch errors before they ever become visible to guests, and 確認作業 is exactly why. Banquet staff verify setup diagrams before a function. Kitchen teams confirm every dish against the order ticket. Concierge staff double-check tour bookings the morning a guest departs. The goal is zero defects: catch the mistake internally, fix it quietly, and the guest never knows it happened. Checklists (チェックリスト) are the main tool for keeping 確認作業 organised, and they become especially valuable during busy periods when it is easy to lose track of what has and has not been done.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ title: 確認作業 (kakunin sagyou)
 
 ## Related Expressions
 
-- **チェックリスト (chekku risuto)** — a checklist, the primary tool used to structure 確認作業 and ensure that all verification steps are completed in order
-- **ダブルチェック (daburu chekku)** — double-checking, an enhanced form of 確認作業 where a second staff member independently verifies the same task, commonly used for financial transactions and VIP room preparations
+- **チェックリスト (chekku risuto)**: the checklist used to structure 確認作業, making sure every verification step is completed in the right order and nothing is missed
+- **ダブルチェック (daburu chekku)**: double-checking, where a second staff member independently verifies the same task; standard practice for financial transactions and VIP room preparations
 
 ## Common Mistakes
 
-Learners sometimes treat 確認作業 as a passive activity — simply looking at something briefly. In Japanese hospitality, 確認作業 is active and deliberate: it means systematically going through each item on a checklist and confirming its status. Another common error is confusing 確認作業 with 点検 (tenken — inspection). While both involve checking, 点検 implies a periodic formal inspection of equipment or facilities, while 確認作業 is the routine verification integrated into every workflow before a task is considered complete.
+Students sometimes treat 確認作業 as a quick glance over something. In Japanese hospitality it means the opposite: a deliberate, item-by-item review where each point is actively confirmed. Simply looking at a room and deciding it looks fine is not 確認作業. Worth noting is the difference between 確認作業 and 点検 (tenken: inspection). Both involve checking, but 点検 is a periodic formal inspection of equipment or facilities -- the kind scheduled in advance by management. 確認作業 is the routine verification woven into every workflow before a task is marked complete. Mixing these up in conversation with a supervisor will suggest you are not quite sure which kind of checking is happening.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes treat 確認作業 as a passive activity — simply looking a
 
 **Correct Answer:** 確認作業 (verification work)
 
-**Explanation:** 確認作業 (kakunin sagyou) means checking work — reviewing tasks for accuracy and quality before submission or completion. 指導 = guidance, 作業 = task, 連絡 = contact.
+**Explanation:** 確認作業 (kakunin sagyou) means checking work: reviewing tasks for accuracy and quality before submission or completion. 指導 = guidance, 作業 = task, 連絡 = contact.

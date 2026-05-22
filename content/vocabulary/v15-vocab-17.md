@@ -4,9 +4,9 @@ section: 17
 title: 引換券 (hikikaeken)
 ---
 
-引換券 (hikikaeken) is a claim ticket, exchange voucher, or receipt slip that a guest receives when depositing an item for storage, laundry, or any other service where they will collect the item later. The word breaks down into 引換 (hikikae, meaning exchange or redemption) and 券 (ken, meaning ticket or coupon), together meaning "redemption ticket." In Japanese hospitality, the 引換券 system is deeply trusted: it creates a clear, auditable link between the guest and their belonging, ensuring that no item is released without the proper authorisation. Presenting a 引換券 is the expected protocol when retrieving luggage from storage, collecting laundered garments, or picking up gift-wrapped purchases.
+引換券 (hikikaeken) is the claim ticket a guest receives whenever they hand over an item for storage, laundry, or any service where they will come back to collect it later. Break the word down: 引換 (hikikae) means exchange or redemption, and 券 (ken) means ticket or coupon. Together you get "redemption ticket," which is a pretty accurate description of how it works. In Japanese hospitality, the 引換券 system is taken seriously because it creates a clear, verifiable link between a guest and their belonging. Presenting the ticket is the expected step when retrieving stored luggage, collecting laundered garments, or picking up a wrapped purchase.
 
-From a practical standpoint, hotel staff issue 引換券 at the moment of accepting any item, and they are trained never to release an item without seeing the corresponding ticket. This protects guests from theft or mix-ups and protects the hotel from false claims. The ticket typically bears the 管理番号 (tracking number), the date of deposit, a description of the item, and sometimes the guest's room number. Staff should instruct guests to keep their 引換券 in a safe place and explain what to do if the ticket is lost — usually a verification process involving identification and a signed declaration. The 引換券 is a small piece of paper, but it represents a significant promise of accountability.
+In practice, you issue a 引換券 the moment you accept any item, and you never release that item without seeing the corresponding ticket first. This protects guests from mix-ups and protects the hotel from false claims. The ticket typically shows the 管理番号 (tracking number), the date of deposit, a description of the item, and sometimes the guest's room number. One more thing to handle well: always tell guests to keep the 引換券 somewhere safe, and explain clearly what happens if they lose it. At most properties it means going through an identification and signed declaration process. The ticket is just a small piece of paper, but the promise it represents is not small at all.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ From a practical standpoint, hotel staff issue 引換券 at the moment of accept
 
 ## Related Expressions
 
-- **預かり証 (azukarishou)** — a formal receipt or acknowledgment of custody, similar to 引換券 but more document-like in format, often used for high-value or sensitive items
-- **チケット (chiketto)** — the loanword "ticket," used more loosely in casual contexts but not appropriate as a substitute for 引換券 in formal hotel communication
+- **預かり証 (azukarishou)**: a formal receipt or acknowledgment of custody, similar to 引換券 but more document-like in its format, typically used for high-value or sensitive items where a more official record is needed
+- **チケット (chiketto)**: the loanword "ticket," which works fine in casual conversation but should not replace 引換券 in formal hotel communication
 
 ## Common Mistakes
 
-A common confusion is between 引換券 and クーポン (kuupon, coupon), which is used for discounts rather than item retrieval. In guest communication, staff should always specify what the 引換券 is for — 「クリーニングの引換券」 or 「荷物の引換券」 — to avoid any ambiguity about what can be redeemed with it. Learners should also note that the verb used with 引換券 is typically 提示する (teiji suru, to present/show), not 使う (tsukau, to use), as the ticket is shown rather than consumed.
+A common confusion is between 引換券 and クーポン (kuupon, coupon). Coupons are for discounts; 引換券 is for retrieving something you already handed over. They are completely different things, so be precise. When communicating with guests, always say what the 引換券 is for: 「クリーニングの引換券」 or 「荷物の引換券」. That small clarification removes any doubt about what can be redeemed with it. Students often reach for 使う (tsukau, to use) when talking about the ticket, but the correct verb is 提示する (teiji suru, to present/show). You show the ticket; you do not use it up like a coupon.
 
 ---
 
@@ -44,4 +44,4 @@ A common confusion is between 引換券 and クーポン (kuupon, coupon), which
 
 **Correct Answer:** 引換券 (exchange ticket / voucher)
 
-**Explanation:** 引換券 (hikikaeken) means claim ticket — a receipt used to retrieve stored luggage or valuables. 管理番号 = tracking number, ロッカー = locker, 荷物 = luggage.
+**Explanation:** 引換券 (hikikaeken) means claim ticket: a receipt used to retrieve stored luggage or valuables. 管理番号 = tracking number, ロッカー = locker, 荷物 = luggage.

@@ -4,9 +4,12 @@ section: 6
 title: 出国 (shukkoku)
 ---
 
-出国 refers to the formal process of leaving Japan through an official port of exit, such as an international airport or seaport. Just as 入国 marks the beginning of a visit, 出国 marks its conclusion, and the procedures involved — passport presentation, security screening, and departure gate clearance — mirror those of entry in reverse. For hospitality workers, being aware of 出国 procedures helps them provide better service to departing guests, particularly regarding airport transfer times, baggage allowances, and duty-free shopping opportunities. Guests often ask front desk staff how early they should depart for the airport and whether there is time for a final sightseeing stop before their 出国.
+**Pronunciation:** [**shuk**-ko-ku]
+**Register:** Formal/Official, used in immigration, travel, and hospitality contexts
 
-Ryokans and hotels can add significant value by offering a smooth farewell experience tied to a guest's 出国 schedule. This might include arranging early luggage storage after check-out, providing a printed airport access guide, or confirming shuttle bus timings. Staff who know the 出国 process well can also alert guests to common delays, such as long queues at security during peak seasons, so guests can plan their departure with confidence and without unnecessary stress.
+出国 is the formal process of leaving Japan through an official port of exit: an international airport, seaport, or border crossing. Where 入国 marks the start of a visit, 出国 marks its end, and the procedures involved are essentially the mirror image: passport presentation, security screening, and departure gate clearance. For hospitality professionals, understanding 出国 well is less about paperwork and more about the service opportunity it creates. Guests departing Japan are often thinking about their flight time, their bags, and whether they remembered to buy their last souvenir, and a front desk or concierge who can answer those concerns smoothly makes the farewell as memorable as the welcome.
+
+In practice, this means knowing your airport transfer options inside out, which train lines serve which terminals, how long the ride takes, when shuttle buses run, and whether pre-booking is recommended. It also means knowing about duty-free shopping opportunities at the departure gates, which guests asking about 出国 often bring up. Students often underestimate how much value a detailed, practical departure briefing adds: "I'd suggest leaving by two o'clock given the security queues on weekend afternoons" is the kind of specific, useful advice that guests remember and mention in reviews.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Ryokans and hotels can add significant value by offering a smooth farewell exper
 
 ## Related Expressions
 
-- **入国 (nyuukoku)** — "entry into a country"; the direct antonym, referring to the process of arriving in Japan through immigration.
-- **出発 (shuppatsu)** — "departure/leaving"; a more general term that can refer to leaving any place — a hotel, a station, a city — rather than specifically leaving a country at an official checkpoint.
+- **入国 (nyuukoku)**: the direct antonym, referring to arriving in Japan through immigration; together, 入国 and 出国 frame the full arc of a guest's visit.
+- **出発 (shuppatsu)**: a more general word for departure or leaving; unlike 出国, it can refer to leaving a hotel, a station, or a city, not just crossing a national border.
 
 ## Common Mistakes
 
-A common confusion is between 出国 (leaving a country) and 出発 (departure in general) — 出国 specifically refers to crossing a national border, while 出発 can be used for any kind of leaving. Learners also sometimes mix up 出国 with 帰国 (kikoku, "returning to one's home country"), which implies going back to one's native land, whereas 出国 is neutral about the destination. Note the pronunciation: the double consonant in *shuk-koku* (促音 sokuon) should be given a brief pause, not merged into a single smooth sound.
+The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Worth noting also: 出国 and 帰国 (kikoku, "returning to one's home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes your Japanese sound noticeably more natural.
 
 ---
 
@@ -41,4 +44,4 @@ A common confusion is between 出国 (leaving a country) and 出発 (departure i
 
 **Answer:** 出国
 
-**Explanation:** 出国 (shukkoku) means departure from a country — the process of leaving, involving passport checks and security clearance.
+**Explanation:** 出国 (shukkoku) means departure from a country: the process of leaving, involving passport checks and security clearance.

@@ -4,15 +4,15 @@ section: 40
 title: 確認番号 (kakunin bangou)
 ---
 
-確認番号 is composed of 確認 (kakunin), meaning "confirmation" or "verification," and 番号 (bangō), meaning "number." It is a unique alphanumeric or numeric code assigned to a reservation, payment, or booking to allow staff and guests to quickly identify and verify a specific transaction. In Japanese hospitality, the 確認番号 serves as the primary reference point for resolving inquiries, making changes, or checking in — without it, staff must search by name or other details, which is slower and more prone to error. Providing and referencing a 確認番号 accurately reflects the precision and efficiency that define professional omotenashi service.
+確認番号 combines 確認 (confirmation or verification) and 番号 (number), giving you a unique alphanumeric or numeric code tied to a reservation, payment, or booking. Think of it as the single fastest way for both staff and guests to find a specific transaction without any ambiguity. Searching by name alone is slower and mistakes happen more often, because the same name can appear differently across different booking systems or be spelled multiple ways in romanized form.
 
-In hotels and ryokan, guests are typically issued a 確認番号 (or 予約番号, reservation number) at the time of booking via email, SMS, or the booking platform. At check-in, staff should request this number to pull up the reservation instantly, rather than relying solely on the guest's name, which may be spelled differently across systems. If a guest does not have their 確認番号, staff should offer alternative lookup methods courteously, such as searching by email address, phone number, or arrival date, without making the guest feel at fault for not having the number available.
+Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, ask for it early so you can pull up the reservation instantly. That said, not every guest will have it handy, and that's fine. Offer to look them up by email address, phone number, or arrival date, and do so graciously. Never make a guest feel like they've done something wrong by not memorizing their confirmation number.
 
 ## Example Sentences
 
 **1.** 恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。
 *Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*
-"I apologize for the trouble — could you please provide your reservation confirmation number?"
+"I apologize for the trouble: could you please provide your reservation confirmation number?"
 
 **2.** 確認番号はご予約確認メールに記載されております。
 *Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.*
@@ -24,12 +24,12 @@ In hotels and ryokan, guests are typically issued a 確認番号 (or 予約番�
 
 ## Related Expressions
 
-- **予約番号 (yoyaku bangō)** — reservation number; closely related to 確認番号 but specifically assigned at the time of booking; the two terms are sometimes used interchangeably, but a 確認番号 may refer to a separate verification code issued after the booking
-- **照会番号 (shōkai bangō)** — inquiry or reference number; used in customer service contexts to track a service request or complaint, distinct from a reservation or payment confirmation
+- **予約番号 (yoyaku bangō)**: reservation number; closely related to 確認番号 but specifically assigned at booking time; the two are sometimes used interchangeably, but some systems issue a separate 確認番号 after the booking as a verification step
+- **照会番号 (shōkai bangō)**: inquiry or reference number; used in customer service to track a request or complaint, and is a different thing from a reservation or payment confirmation
 
 ## Common Mistakes
 
-Learners often use 確認番号 and 予約番号 interchangeably without understanding that some booking systems distinguish between them — a guest may have both, and asking for the wrong one can cause confusion. Another common error is failing to offer alternative lookup methods when a guest does not have their 確認番号, which can come across as unhelpful. Always acknowledge the guest's situation graciously and offer to assist through other means rather than simply restating that the 確認番号 is required.
+Students often use 確認番号 and 予約番号 as if they're always the same thing, but some booking systems treat them as separate codes. A guest may have both, and asking for the wrong one creates unnecessary confusion. The other common misstep is simply repeating that the 確認番号 is required when a guest doesn't have it, which comes across as unhelpful and rigid. In practice, your job is to find the reservation by whatever means available, so offer alternatives immediately and move forward without making the guest feel they've caused a problem.
 
 ---
 
@@ -44,5 +44,5 @@ Learners often use 確認番号 and 予約番号 interchangeably without underst
 
 **Correct Answer:** 確認番号 (confirmation number)
 
-**Explanation:** 確認番号 and 予約番号 serve similar purposes but at different stages — 予約番号 is assigned at booking time, while 確認番号 may refer to a separate verification code sent by email or SMS; always clarify which one you need to avoid confusion when the guest has both.
+**Explanation:** 確認番号 and 予約番号 serve similar purposes but at different stages: 予約番号 is assigned at booking time, while 確認番号 may refer to a separate verification code sent by email or SMS; always clarify which one you need to avoid confusion when the guest has both.
 

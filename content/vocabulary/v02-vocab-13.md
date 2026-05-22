@@ -4,9 +4,9 @@ section: 13
 title: 料金 (ryokin)
 ---
 
-料金 means charge, fee, or rate, and is the standard professional term for the cost associated with a hotel stay, room service, facility use, or any other paid service. It is a precise word that carries appropriate formality for written and verbal communication in a hospitality context. While 値段 (nedan) or お金 (okane) are used in everyday speech to discuss prices, 料金 is the word guests and staff use in hotels, restaurants, spas, and similar settings where a clear, professional presentation of costs is expected. Transparency in 料金 communication is essential to building guest trust and avoiding disputes at check-out.
+料金 means charge, fee, or rate, and is the standard professional term for the cost of a hotel stay, room service, facility use, or any other paid service. It carries the right level of formality for written and verbal communication in a hospitality setting. In everyday conversation, 値段 (nedan) or お金 (okane) are natural ways to talk about prices. In a hotel, restaurant, or spa, 料金 is the expected term whenever a clear and professional presentation of costs is called for. Getting this right matters because transparency around 料金 is what prevents disputes at check-out.
 
-When presenting the total charge, staff use こちらが料金でございます to indicate the bill, pointing to or presenting the itemised statement. If additional charges are involved — such as room service, minibar consumption, or early check-in fees — these should be explained individually before being combined into the final 料金. Many guests, particularly business travellers, will request a breakdown, so staff must be prepared to itemise and explain each component of the total.
+When presenting the total charge, use こちらが料金でございます while pointing to or presenting the itemised statement. In practice, if additional charges are involved, such as room service, minibar consumption, or early check-in fees, walk the guest through each one individually before showing the final 料金. Many guests, business travellers especially, will ask for a full breakdown, so being ready to explain each component is simply part of the job.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When presenting the total charge, staff use こちらが料金でございます
 
 ## Related Expressions
 
-- **お会計 (o-kaikei)** — the bill or total amount due; o-kaikei is used in restaurant settings especially, while 料金 is used more broadly for any type of charge in hotel operations.
-- **追加料金 (tsuika ryōkin)** — additional/extra charge; used whenever a fee is added beyond the base room rate, such as for extra services or extended stay.
+- **お会計 (o-kaikei)**: the bill or total amount due; o-kaikei is more at home in restaurant settings, while 料金 is used more broadly across all types of charges in hotel operations.
+- **追加料金 (tsuika ryōkin)**: additional or extra charge; this comes up whenever a fee is added beyond the base room rate, such as for extra services, late check-out, or extended stays.
 
 ## Common Mistakes
 
-Using 値段 (nedan) in a hotel context sounds too casual — 料金 is the expected professional term. Some learners present the bill by simply saying 料金です without the demonstrative こちらが and the polite ございます, which sounds abrupt; the full phrase こちらが料金でございます is the correct form. Additionally, never announce the total without first offering the itemised statement — guests should be able to see what they are paying for before being asked to settle the bill.
+Using 値段 in a hotel context sounds too casual. 料金 is the professional term. Students sometimes present the bill by saying just 料金です, dropping both こちらが and the polite ございます. That sounds abrupt and a bit dismissive. The full phrase こちらが料金でございます is the correct form. Worth emphasising: never state the total without showing the itemised statement first. Guests should be able to see what they are paying for before anyone asks them to settle the bill.
 
 ---
 
@@ -44,4 +44,4 @@ Using 値段 (nedan) in a hotel context sounds too casual — 料金 is the expe
 
 **Correct Answer:** こちらが料金でございます (this is the charge)
 
-**Explanation:** こちらが料金でございます uses こちら (this/here) and ございます — the professional and polite standard for presenting fees.
+**Explanation:** こちらが料金でございます uses こちら (this/here) and ございます: the professional and polite standard for presenting fees.

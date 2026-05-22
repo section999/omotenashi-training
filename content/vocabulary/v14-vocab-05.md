@@ -4,9 +4,12 @@ section: 5
 title: 入国 (nyuukoku)
 ---
 
-入国 literally means "entering a country" and refers to the formal process by which a traveller is admitted into Japan through an immigration checkpoint. The procedure involves presenting a valid passport, completing an arrival card (now largely digitised), passing through biometric screening at major airports, and receiving an entry stamp or status confirmation. For hospitality workers, understanding the concept of 入国 is important because it directly affects when a guest can legally begin their stay — a guest cannot check into a hotel before completing 入国 procedures at the port of entry. Issues arising from denied or delayed 入国 can occasionally affect reservations, and knowing how to handle such situations calmly and helpfully reflects professionalism.
+**Pronunciation:** [nyuu-**ko**-ku]
+**Register:** Formal/Official, used in immigration, legal, and hospitality contexts
 
-Staff at airport hotels and transit accommodations, in particular, should be familiar with 入国 procedures since guests in these locations are often mid-journey and may have complex travel itineraries. Being able to explain where the immigration counters are, how long the process typically takes, and what documents are needed can be invaluable assistance. After a long international flight, a guest who receives warm, clear guidance on 入国 formalities will carry that positive first impression through their entire stay.
+入国 literally means "entering a country," and it refers to the formal process of being admitted into Japan through an immigration checkpoint. In practice, this involves presenting a valid passport, completing an arrival card (mostly digital now), passing biometric screening at major international airports, and receiving an entry stamp or status confirmation. For hospitality staff, the key thing to understand about 入国 is that it's a prerequisite: a guest cannot legally begin their stay until this process is complete, which means issues at the immigration counter can directly affect your check-in desk.
+
+Airport hotels and transit accommodations deal with this most directly, since guests there are often mid-journey and may have complicated itineraries. Knowing where the immigration counters are, how long the process typically takes during busy periods, and what documents guests need to have ready can make a real difference for someone who just came off an 11-hour flight and feels disoriented. That said, even properties far from airports should understand 入国 basics: guests sometimes arrive with questions they didn't have time to ask at the border, and a confident, helpful answer at check-in sets the tone for everything that follows.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff at airport hotels and transit accommodations, in particular, should be fam
 
 ## Related Expressions
 
-- **出国 (shukkoku)** — "departure from a country"; the direct antonym of 入国, referring to the process of leaving Japan through an exit checkpoint.
-- **入国審査 (nyuukoku shinsa)** — "immigration screening/inspection"; a more specific term for the actual officer-conducted check that is part of the broader 入国 process.
+- **出国 (shukkoku)**: the direct opposite of 入国, referring to the process of leaving Japan; the procedures mirror each other but happen at different points in the guest's journey.
+- **入国審査 (nyuukoku shinsa)**: immigration screening specifically, the officer-conducted check that forms part of the broader 入国 process; knowing this distinction helps you use each term precisely.
 
 ## Common Mistakes
 
-Learners sometimes mix up 入国 (entering a country) with 入室 (nyuushitsu, entering a room) or 入店 (nyuuten, entering a shop) — the key difference is the compound character 国 (country). A common error is also treating 入国 as synonymous with 入国審査; the latter is specifically the screening check, while 入国 refers to the broader act of entry. Note that 入国 is always used in the context of crossing national borders — it is not used for entering a building or venue.
+Students sometimes confuse 入国 with 入室 (nyuushitsu, entering a room) or 入店 (nyuuten, entering a shop). The shared character 入 means "enter," but the second character tells you what you're entering: 国 is "country." Once you lock that in, the compound makes complete sense. Another mix-up is treating 入国 and 入国審査 as synonyms: 入国審査 is the screening check specifically, while 入国 is the broader act of crossing into Japan. One more thing: 入国 is always about crossing a national border. You wouldn't use it to describe entering a building or venue.
 
 ---
 

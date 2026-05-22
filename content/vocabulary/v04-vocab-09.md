@@ -4,9 +4,9 @@ section: 9
 title: 石鹸 (sekken)
 ---
 
-石鹸 is the Japanese word for soap and is one of the essential bathroom amenities provided in every hotel and ryokan room. In the Japanese hospitality context, soap quality is often considered a reflection of the property's overall standard — upscale hotels may offer branded or locally crafted 石鹸, while ryokan sometimes feature artisanal bars infused with regional botanical ingredients. Housekeeping staff are responsible for ensuring that 石鹸 is present, hygienic, and properly placed at both the sink and in the bathtub or shower area. A partially used bar of soap left by a previous guest must always be discarded and replaced with a fresh, sealed bar before a new guest checks in.
+石鹸 is the Japanese word for soap, and it is one of those bathroom amenities that every single guest expects to find without having to ask. Soap quality signals where a property sits: upscale hotels may offer branded or locally made bars, while ryokan often feature artisanal soap with regional botanical ingredients, things like yuzu or hinoki, that connect the product to the place. Housekeeping staff are responsible for making sure 石鹸 is present, hygienic, and correctly positioned at both the sink and in the bathtub or shower area. A partially used bar from the previous guest must be discarded and replaced with a fresh, sealed one before the next guest arrives. There are no exceptions here.
 
-When a guest requests additional or replacement 石鹸, staff should respond immediately using humble and polite language to bring the item directly to the room. In some properties, liquid soap dispensers are used instead of bar soap, and staff should be aware of the correct terminology (液体石鹸, ekitai sekken) and refill procedures for these. Foreign guests may sometimes refer to soap by gestures or the English word — staff should be prepared to recognize the request and respond in the appropriate language.
+When a guest asks for more 石鹸, respond promptly with polite, humble language and bring it directly to the room. Some properties use liquid dispensers rather than bars, and staff should know the right terminology (液体石鹸, ekitai sekken) and be comfortable with the refill procedure. In practice, international guests sometimes make the request by gesture or in English, so being ready to recognize what they are asking for and respond appropriately is a real and useful skill.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When a guest requests additional or replacement 石鹸, staff should respond imm
 
 ## Related Expressions
 
-- **液体石鹸 (ekitai sekken)** — Liquid soap; increasingly common in hotels as a hygiene-forward and eco-friendly alternative to bar soap; staff should know the refill process.
-- **アメニティ (ameniti)** — Amenities; the collective term for bathroom supplies including 石鹸, shampoo, conditioner, and toothbrush — useful when discussing the full set of bathroom provisions.
+- **液体石鹸 (ekitai sekken)**: liquid soap; increasingly common in hotels as a cleaner and more eco-friendly alternative to bar soap, so know the refill process at your property.
+- **アメニティ (ameniti)**: amenities; the collective term for bathroom supplies including 石鹸, shampoo, conditioner, and toothbrush, useful when discussing the full bathroom provision as a group.
 
 ## Common Mistakes
 
-A common mistake is placing a previously opened or used bar of 石鹸 in a freshly cleaned room — hotel standards require sealed, unused soap for every new guest. When responding to a guest request, avoid saying 石鹸どうぞ, which is too abrupt; always use a complete, polite phrase such as 石鹸をお持ちいたします. Learners may also confuse 石鹸 (bar/liquid soap) with シャンプー (shampoo), so ensure the correct item is delivered when a guest makes a bathroom amenity request.
+Placing a partially used bar of 石鹸 in a freshly serviced room is a hygiene error, full stop. Hotel standards require a sealed, unused bar for every new guest, and that standard is not negotiable. When bringing soap to a room, drop the abrupt 石鹸どうぞ and always use a complete, polite phrase like 石鹸をお持ちいたします. Students sometimes mix up 石鹸 (soap) with シャンプー (shampoo) when fielding bathroom requests, so always take a moment to confirm which item the guest is actually asking for before heading off to get it.
 
 ---
 
@@ -44,5 +44,5 @@ A common mistake is placing a previously opened or used bar of 石鹸 in a fresh
 
 **Correct Answer:** 石鹸をお持ちいたします (I will bring soap)
 
-**Explanation:** 石鹸をお持ちいたします means "I will bring you soap" — お持ちいたします is humble and formal, appropriate for any guest-facing response.
+**Explanation:** 石鹸をお持ちいたします means "I will bring you soap": お持ちいたします is humble and formal, appropriate for any guest-facing response.
 

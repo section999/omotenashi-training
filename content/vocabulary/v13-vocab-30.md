@@ -4,9 +4,12 @@ section: 30
 title: 評価 (hyouka)
 ---
 
-評価 means evaluation or assessment, and in a hospitality setting it encompasses a wide range of measurement activities: staff performance reviews, guest satisfaction surveys, quality audits, and departmental assessments. Evaluations are central to the culture of continuous improvement (改善) because they provide the data needed to identify what is working and what requires change. In Japanese hospitality, 評価 is approached with great care — managers aim to give balanced, constructive feedback that acknowledges effort and achievement while clearly identifying areas for development. The goal is not to judge but to support growth.
+**Pronunciation:** [hyo-u-**ka**]
+**Register:** Formal -- used in management contexts, staff reviews, and guest satisfaction discussions
 
-Staff evaluations in Japanese hotels typically occur on a regular cycle — monthly, quarterly, or annually — and may include both quantitative metrics (room-cleaning completion rates, complaint resolution times) and qualitative assessments (attitude, communication, attention to guest needs). Guest-facing 評価 often comes through アンケート (anketto, questionnaires) or online review scores, and these results are shared transparently with staff to reinforce the connection between daily behaviour and guest satisfaction. Managers use the phrase 「フィードバックをお伝えします」 (fiido-bakku wo ootsutae shimasu — I will share some feedback) before delivering 評価 to frame it as supportive rather than critical.
+評価 means evaluation or assessment, and in a hospitality setting it covers a wide range of measurement activities: staff performance reviews, guest satisfaction surveys, quality audits, and departmental assessments. Evaluations drive continuous improvement (改善) because they give you the data you need to see what is working and what needs to change. In Japanese hospitality, 評価 is handled with care. Managers aim to deliver balanced, constructive feedback that acknowledges both effort and achievement while being honest about areas for development. The goal is never to judge a person harshly but to support their growth.
+
+Staff evaluations in Japanese hotels typically follow a regular cycle -- monthly, quarterly, or annual -- and usually combine quantitative metrics (room-cleaning completion rates, complaint resolution times) with qualitative assessments (attitude, communication, attentiveness to guest needs). Guest-facing 評価 comes largely through アンケート (anketto, questionnaires) or online review scores, and these results are shared openly with staff to connect daily behaviour to real guest satisfaction. Managers tend to open evaluation conversations with「フィードバックをお伝えします」(fiido-bakku wo ootsutae shimasu, "I will share some feedback"), which frames what follows as supportive rather than critical. Students often find this framing helpful to learn because it signals the tone of the exchange before it begins.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff evaluations in Japanese hotels typically occur on a regular cycle — mont
 
 ## Related Expressions
 
-- **査定 (satei)** — assessment, particularly in the context of salary reviews or formal grading; more administrative in tone than 評価, which can be used more broadly including for guest satisfaction
-- **フィードバック (fiido-bakku)** — feedback; the conversational delivery of evaluation findings to an individual staff member, typically framed constructively and used alongside the formal 評価 process
+- **査定 (satei)**: assessment in the context of salary reviews or formal grading; more administrative in tone than 評価, which can be used broadly for anything from guest satisfaction to staff performance
+- **フィードバック (fiido-bakku)**: the conversational delivery of evaluation findings to an individual, typically framed warmly and used alongside the more formal 評価 process
 
 ## Common Mistakes
 
-Learners sometimes confuse 評価 with 批判 (hihan, criticism) or 判断 (handan, judgement), but 評価 carries a neutral-to-positive connotation of comprehensive assessment rather than negative judgement. It is also important to note that 「評価する」 can mean both "to evaluate" and "to appreciate/value highly" — for example, 「お客様に高く評価していただいた」 means "We were highly rated by our guests," not "We were evaluated by guests." This dual meaning requires careful attention to context. Avoid using 評価 casually in conversation with guests, as it can sound overly clinical; save it for internal staff communications and management reports.
+Students sometimes confuse 評価 with 批判 (hihan, criticism) or 判断 (handan, judgement), but 評価 carries a neutral-to-positive tone of comprehensive assessment rather than negative criticism. Worth noting is that 評価する has two distinct meanings that context determines: it can mean "to evaluate" and it can also mean "to appreciate or rate highly." For example, お客様に高く評価していただいた means "We were highly rated by our guests," not simply "We were evaluated by guests." That double meaning requires real attention in reading and listening. One more practical point: avoid using 評価 in casual conversation with guests, as it sounds clinical and out of place. Keep it for internal staff communications and management reports where that level of formality fits naturally.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes confuse 評価 with 批判 (hihan, criticism) or 判断 (hand
 
 **Answer:** 評価
 
-**Explanation:** 評価 (hyouka) means evaluation — assessing performance, processes, or products to identify strengths and areas for improvement.
+**Explanation:** 評価 (hyouka) means evaluation: assessing performance, processes, or products to identify strengths and areas for improvement.

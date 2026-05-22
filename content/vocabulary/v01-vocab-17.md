@@ -4,11 +4,14 @@ section: 17
 title: ようこそ (youkoso)
 ---
 
-**ようこそ** means "welcome" — but it carries a more expansive, commemorative warmth than the operational *irasshaimase*. While *irasshaimase* signals immediate service readiness ("welcome, I am here for you"), *yōkoso* signals honour and celebration ("we are truly glad you have come"). It is the welcome on a banner at the entrance to a festival; it is the first word of a letter to a valued guest; it is the opening of a welcoming speech.
+**Pronunciation:** [**yō**-ko-so]
+**Register:** Formal, Ceremonial, written communication, VIP arrivals, special-occasion greetings
 
-In Japanese hospitality, *yōkoso* is used in moments that have a slightly ceremonial or commemorative quality: the opening sentence of a welcome letter in the room, the greeting displayed on a digital welcome screen, the first line of a formal introduction at a banquet, or the phrase said to a very special guest upon arrival. It is also commonly combined with a location or occasion: *yōkoso, Nihon e* (welcome to Japan), *yōkoso, [hotel name] e* (welcome to [hotel name]).
+*Yōkoso* means "welcome," but it carries a different emotional weight than *irasshaimase*. Where *irasshaimase* says "welcome, I am ready to serve you," *yōkoso* says "we are genuinely glad you are here." It has a slightly commemorative feeling to it, the kind of welcome you see on a banner at a festival entrance, at the top of a letter to a valued guest, or in the opening line of a formal banquet speech. It marks the moment as meaningful.
 
-Understanding when to use *yōkoso* versus *irasshaimase* is part of reading the register of a moment. A repeat guest celebrating a special anniversary: *yōkoso*. A standard check-in at a business hotel: *irasshaimase*. Both are sincere; the difference is the emotional register of the occasion.
+In practice, *yōkoso* belongs to situations with a genuinely ceremonial or special quality. A welcome card placed in a honeymoon suite, the greeting on a digital screen for a VIP arrival, the first sentence of a speech at a dinner event. It combines naturally with a destination or occasion: *yōkoso, Nihon e* (welcome to Japan), *yōkoso, [hotel name] e* (welcome to our hotel). The trick is knowing when to use it versus when *irasshaimase* is the right call. A repeat guest on their anniversary visit deserves *yōkoso*. A Tuesday check-in at a business hotel calls for *irasshaimase*. Both are sincere; they just signal different levels of occasion.
+
+Students sometimes use *yōkoso* in everyday spoken greetings, and it ends up sounding a little theatrical, like someone turned up the formality dial one notch too high. Save it for moments that genuinely call for it. When you do use it, it lands beautifully.
 
 ## Example Sentences
 
@@ -26,13 +29,13 @@ Understanding when to use *yōkoso* versus *irasshaimase* is part of reading the
 
 ## Related Expressions
 
-- **いらっしゃいませ (irasshaimase)** — The operational welcome at the moment of arrival; used constantly in day-to-day guest greetings
-- **お越しいただきありがとうございます (o-koshi itadaki arigatō gozaimasu)** — "Thank you for visiting us" — an expression of gratitude for the guest's presence
-- **心よりお迎えいたします (kokoro yori o-mukae itashimasu)** — "We welcome you from the heart" — a formal, warm welcome often found in written communication
+- **いらっしゃいませ (irasshaimase)**: the everyday spoken welcome you use at the moment a guest arrives; this is your go-to phrase for routine arrivals and should feel natural and immediate
+- **お越しいただきありがとうございます (o-koshi itadaki arigatō gozaimasu)**: "Thank you for coming to us", expresses gratitude for the guest making the effort to visit, with a warm and slightly more personal tone
+- **心よりお迎えいたします (kokoro yori o-mukae itashimasu)**: "We welcome you from the heart", a beautiful phrase for written communication and formal spoken greetings on special occasions
 
 ## Common Mistakes
 
-The most common mistake is using *yōkoso* as an everyday spoken greeting, which can feel slightly theatrical or over-formal in routine interactions. Reserve it for written contexts, special arrivals, or moments with a genuinely ceremonial quality. Conversely, avoid using the same boilerplate *irasshaimase* for every guest — for VIP or anniversary guests, upgrading to *yōkoso* language shows that you recognise the special nature of their visit.
+The most common mistake is using *yōkoso* as a casual spoken greeting, which can make it feel overdone or slightly awkward in routine interactions. Keep it for written contexts, ceremonial moments, or genuinely special arrivals. That said, the opposite mistake also happens: treating every guest the same with *irasshaimase* regardless of the occasion. For a VIP guest, an anniversary couple, or a long-awaited reunion visit, stepping up to *yōkoso* language shows that you have noticed something meaningful about their presence.
 
 ---
 
@@ -40,11 +43,11 @@ The most common mistake is using *yōkoso* as an everyday spoken greeting, which
 
 **You are writing a welcome card to be placed in a guest's room for their honeymoon stay. Which opening is most appropriate?**
 
-- A. いらっしゃいませ。(Welcome — operational, not appropriate for a written card)
-- B. こんにちは。(Good afternoon — too casual)
+- A. いらっしゃいませ。(Welcome: operational, not appropriate for a written card)
+- B. こんにちは。(Good afternoon: too casual)
 - C. ようこそ〇〇ホテルへ。お二人のご宿泊を心よりお祝い申し上げます。(Welcome to ○○ Hotel. We celebrate your stay with all our hearts.)
-- D. お疲れ様でした。(Thank you for your hard work — wrong context entirely)
+- D. お疲れ様でした。(Thank you for your hard work: wrong context entirely)
 
 **Correct Answer:** ようこそ〇〇ホテルへ。お二人のご宿泊を心よりお祝い申し上げます。(Welcome to ○○ Hotel. We celebrate your stay with all our hearts.)
 
-**Explanation:** *Yōkoso* is the right register for a written welcome in a special-occasion context. It conveys honour and celebration. *Irasshaimase* is for operational spoken greetings — it would feel mechanical on a handwritten card. The addition of *kokoro yori o-iwai mōshiagemasu* (we celebrate with all our hearts) personalises the message for a honeymoon occasion.
+**Explanation:** *Yōkoso* is the right register for a written welcome in a special-occasion context. It conveys honour and celebration. *Irasshaimase* is for operational spoken greetings: it would feel mechanical on a handwritten card. The addition of *kokoro yori o-iwai mōshiagemasu* (we celebrate with all our hearts) personalises the message for a honeymoon occasion.

@@ -4,9 +4,9 @@ section: 6
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-少々お待ちください is one of the most frequently used phrases in Japanese hospitality telephone communication, and it forms an essential part of the service script whenever a caller must be placed on brief hold, a transfer is being arranged, or information needs to be verified. The word 少々 (a little, briefly) is deliberately modest — it sets the expectation of a short wait rather than an indefinite delay, which helps manage the caller's patience. In the philosophy of omotenashi, even the act of asking a guest to wait must be performed with grace, acknowledgment, and a sense of urgency on the staff's part.
+少々お待ちください is one of the phrases you'll use most in Japanese hospitality phone communication, and you'll reach for it whenever a caller needs to be briefly placed on hold, a transfer is being arranged, or you need a moment to verify information. The word 少々 is doing important work here: it signals "just a little while" rather than an open-ended wait, which quietly manages the caller's expectations and keeps their patience intact. In omotenashi, even asking someone to hold has to be done with warmth and a clear sense that you're moving quickly on their behalf.
 
-The critical aspect of using 少々お待ちください professionally is what happens during and after the wait. If the wait extends beyond approximately 30 seconds, staff should return to the line with お待たせいたしました (thank you for your patience) and either provide an update or offer an alternative such as a callback. Leaving a caller in silence for more than a minute without checking in is considered poor service and erodes the trust the phrase was meant to build. After returning to the call, お待たせいたしました should always precede the next sentence.
+That said, the phrase is only as good as what follows it. If the wait goes beyond about 30 seconds, come back to the line, say お待たせいたしました, and give an update or offer a callback. Leaving someone in silence for a minute or more without checking in breaks the trust that 少々 was meant to establish. And when you do return, never skip the お待たせいたしました, starting straight into business without it feels like you forgot the caller was there.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The critical aspect of using 少々お待ちください professionally is what 
 
 ## Related Expressions
 
-- **お待たせいたしました** — the mandatory follow-up phrase when returning to a caller after a wait; never skip this phrase, as it acknowledges the caller's time and restores the warmth of the interaction.
-- **保留にさせていただきます** — a more explicit phrase meaning "I will place you on hold"; it is paired with 少々お待ちください when the hold will involve the guest hearing hold music rather than silence.
+- **お待たせいたしました**: the mandatory follow-up phrase when returning to a caller after a wait; skipping it feels dismissive and breaks the warmth the wait phrase was meant to set up
+- **保留にさせていただきます**: a more explicit phrase meaning "I will place you on hold"; it pairs with 少々お待ちください when the hold will involve hold music rather than open silence
 
 ## Common Mistakes
 
-A common mistake is saying お待ちください without the prefix 少々 — while grammatically correct, it can sound abrupt or even dismissive in a hospitality context because it omits the reassuring "just briefly" nuance. Learners also sometimes forget to return to the call promptly, effectively breaking the implied promise of 少々. Another error is skipping お待たせいたしました upon returning, which leaves the caller feeling unacknowledged.
+A common slip is saying お待ちください without the 少々 in front of it. Grammatically there's nothing wrong with it, but it loses the "just briefly" nuance that softens the request and can come across as blunt in a hospitality context. Students also sometimes forget to return to the line promptly, which breaks the unspoken promise that 少々 makes. And skipping お待たせいたしました when you do come back leaves the caller feeling like they were on hold in a void, with no one actually minding them. Each of these is a small thing, but together they define whether the call feels professionally handled or not.
 
 ---
 
@@ -45,4 +45,4 @@ A common mistake is saying お待ちください without the prefix 少々 — w
 
 **Correct Answer:** 少々お待ちください (please wait a moment)
 
-**Explanation:** 少々お待ちください — 少々 (a little) sets a short expectation; if the wait exceeds 30 seconds, return to the line and say お待たせいたしました、もう少々お時間をいただけますか (thank you for waiting, may I have a little more time) rather than leaving the guest in silence.
+**Explanation:** 少々お待ちください: 少々 (a little) sets a short expectation; if the wait exceeds 30 seconds, return to the line and say お待たせいたしました、もう少々お時間をいただけますか (thank you for waiting, may I have a little more time) rather than leaving the guest in silence.

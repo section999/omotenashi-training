@@ -4,9 +4,12 @@ section: 14
 title: 病気 (byouki)
 ---
 
-病気 (byouki) describes a physical or mental health condition that impairs a person's normal functioning, encompassing illnesses ranging from mild colds and food poisoning to serious conditions requiring hospitalisation. In Japanese hotels, guest wellbeing is treated with the utmost seriousness, and staff are expected to respond to signs of 病気 with both genuine care and calm professionalism. The cultural value of 思いやり (omoiyari) — empathy — means that staff should acknowledge a guest's distress before moving to practical solutions. Recognising symptoms early and responding appropriately reflects the spirit of omotenashi.
+**Pronunciation:** [**byou**-ki]
+**Register:** Formal/Neutral, guest wellbeing and medical coordination
 
-When a guest reports feeling unwell, staff should first ask about their symptoms in simple, clear language before offering assistance. The front desk can typically arrange a hotel doctor visit (ドクターコール), direct the guest to the nearest hospital, or provide basic over-the-counter medications where permitted. For international guests, language barriers may complicate communication, so hotels often maintain multilingual health-related phrase cards and a list of nearby clinics with English-speaking staff. All incidents of guest illness should be recorded, and if a contagious illness is suspected, hygiene protocols must be immediately activated to protect other guests and staff.
+病気 covers physical and mental health conditions that impair a person's normal functioning, from a mild cold or bout of food poisoning all the way to conditions serious enough to require hospitalisation. When a guest shows signs of 病気, your job is to respond with genuine warmth and calm professionalism at the same time. The cultural value of 思いやり (omoiyari), meaning empathy, means you should acknowledge how a guest is feeling before you jump into logistics. Saying "I'm sorry to hear you're unwell, let me help you right away" lands very differently from just immediately reaching for the phone.
+
+When a guest reports feeling ill, ask about their symptoms clearly and simply before deciding on a course of action. Most hotels can arrange a doctor visit through ドクターコール, direct the guest to the nearest hospital, or provide basic medications where permitted. For international guests, language is often the biggest barrier, so having multilingual health phrase cards and a list of nearby clinics with English-speaking staff is worth the preparation. In practice, you should always record every guest illness, and if a contagious condition is suspected, activate hygiene protocols immediately to protect other guests and staff.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest reports feeling unwell, staff should first ask about their symptoms
 
 ## Related Expressions
 
-- **体調不良 (taichou furyou)** — a softer, more polite way to say "feeling unwell" or "in poor physical condition," often preferred over 病気 in direct guest conversations to avoid sounding alarming.
-- **症状 (shoujou)** — symptoms; staff frequently need to ask about 症状 in order to determine the appropriate level of medical response for a guest's 病気.
+- **体調不良 (taichou furyou)**: feeling unwell or in poor physical condition; softer and gentler than 病気, and generally preferred in direct conversation with guests because it sounds less alarming. When speaking with a guest who looks off-colour, reach for 体調不良 first.
+- **症状 (shoujou)**: symptoms; you will need to ask about a guest's 症状 in order to gauge how urgent the medical response should be, and to pass accurate information to a doctor or emergency service.
 
 ## Common Mistakes
 
-A frequent error is using 病気 in direct speech to a guest in a blunt or clinical way, which can feel cold in a hospitality context. Instead, softer expressions like お体の具合はいかがですか (How are you feeling?) ease into the topic more naturally. Learners also sometimes confuse 病気 with 怪我 (physical injury); remember that 病気 arises from internal conditions such as infection, fever, or chronic disease, whereas 怪我 results from an external physical event. Lastly, always pair 病気-related communication with reassurances of assistance — simply stating a guest is ill without offering help is considered insufficient in omotenashi culture.
+Using 病気 too bluntly in direct conversation with a guest can feel cold and clinical. Instead of saying flat out "you are sick," ease into it with something like お体の具合はいかがですか (how are you feeling?), which invites the guest to describe what's happening without making them feel labelled. Students also regularly mix up 病気 and 怪我: keep in mind that 病気 comes from internal conditions like infection, fever, or chronic disease, while 怪我 results from an external physical event. That said, the most important point is this: never communicate that a guest has 病気 without immediately offering assistance. Simply observing the problem without acting is not acceptable in omotenashi culture.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent error is using 病気 in direct speech to a guest in a blunt or clini
 
 **Correct Answer:** 病気 (illness)
 
-**Explanation:** 病気 (byouki) means illness — a condition impairing health. 怪我 = injury (physical wound), 危険 = danger, 事故 = accident.
+**Explanation:** 病気 (byouki) means illness: a condition impairing health. 怪我 = injury (physical wound), 危険 = danger, 事故 = accident.

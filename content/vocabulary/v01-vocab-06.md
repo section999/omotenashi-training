@@ -4,11 +4,11 @@ section: 6
 title: 申し訳ございません (moushiwake gozaimasen)
 ---
 
-**申し訳ございません** is the apex of Japanese apology language. Broken down: *mōshi* (to say, to speak), *wake* (reason, justification) — literally, "there is no reason I can give for this." This etymology is not merely poetic; it shapes the philosophy behind the phrase. When you say *moushiwake gozaimasen*, you are not offering an explanation or deflecting blame. You are saying: *I have no excuse. What happened was unacceptable. I accept responsibility.*
+**申し訳ございません** is the apex of Japanese apology language. Broken down: *mōshi* (to say, to speak), *wake* (reason, justification), literally, "there is no reason I can give for this." This etymology is not merely poetic; it shapes the philosophy behind the phrase. When you say *moushiwake gozaimasen*, you are not offering an explanation or deflecting blame. You are saying: *I have no excuse. What happened was unacceptable. I accept responsibility.*
 
-In Japanese hospitality, the manner of the apology matters as much as the words. *Moushiwake gozaimasen* is delivered with a sincere, deep bow (typically 45°), eye contact before and after, and a calm, unhurried tone. The physical expression of the apology is inseparable from its meaning. Students often practice the phrase in isolation and then rush through it in real situations, multitasking while they speak — which communicates the opposite of what the words say.
+In Japanese hospitality, the manner of the apology matters as much as the words. *Moushiwake gozaimasen* is delivered with a sincere, deep bow (typically 45°), eye contact before and after, and a calm, unhurried tone. The physical expression of the apology is inseparable from its meaning. Students often practice the phrase in isolation and then rush through it in real situations, multitasking while they speak, which communicates the opposite of what the words say.
 
-Worth noting: *moushiwake gozaimasen* is different from lighter expressions. Use it when something has genuinely gone wrong — a room not ready, a reservation lost, a meal incorrect, an unreasonable wait. For minor social intrusions (interrupting briefly to ask a question), *shitsurei itashimasu* or *sumimasen* are more appropriate. Reaching for the deepest apology for every small moment dilutes its meaning when you truly need it.
+Worth noting: *moushiwake gozaimasen* is different from lighter expressions. Use it when something has genuinely gone wrong, a room not ready, a reservation lost, a meal incorrect, an unreasonable wait. For minor social intrusions (interrupting briefly to ask a question), *shitsurei itashimasu* or *sumimasen* are more appropriate. Reaching for the deepest apology for every small moment dilutes its meaning when you truly need it.
 
 ## Example Sentences
 
@@ -28,11 +28,11 @@ Worth noting: *moushiwake gozaimasen* is different from lighter expressions. Use
 
 - **すみません (sumimasen)**: A lighter, more casual apology/excuse me; not appropriate for serious situations
 - **失礼いたします (shitsurei itashimasu)**: "Excuse me" for minor social intrusions, not for genuine errors
-- **誠に申し訳ございません (makoto ni moushiwake gozaimasen)**: Intensified form with *makoto ni* ("truly") — used when maximum sincerity is required
+- **誠に申し訳ございません (makoto ni moushiwake gozaimasen)**: Intensified form with *makoto ni* ("truly"): used when maximum sincerity is required
 
 ## Common Mistakes
 
-The most serious mistake is using *moushiwake gozaimasen* too casually — turning it into a routine phrase delivered without genuine feeling. When the deepest apology is required, guests can tell the difference between sincerity and performance. That is not a metaphor; human beings are quite good at detecting hollow apologies. A second mistake is following the apology immediately with an explanation or excuse. Explanations should come *after* the guest's emotion has been acknowledged, never as a counter to it — the sequence matters enormously.
+The most serious mistake is using *moushiwake gozaimasen* too casually, turning it into a routine phrase delivered without genuine feeling. When the deepest apology is required, guests can tell the difference between sincerity and performance. That is not a metaphor; human beings are quite good at detecting hollow apologies. A second mistake is following the apology immediately with an explanation or excuse. Explanations should come *after* the guest's emotion has been acknowledged, never as a counter to it. The sequence matters enormously.
 
 ---
 
@@ -40,7 +40,7 @@ The most serious mistake is using *moushiwake gozaimasen* too casually — turni
 
 **A guest discovers their reserved room was given to another guest and is not available. What is the appropriate first response?**
 
-- A. すみません、少し待ってください。(Sorry, please wait a moment — casual)
+- A. すみません、少し待ってください。(Sorry, please wait a moment: casual)
 - B. 申し訳ございません。ただいますぐに対応いたします。(I am very sorry. I will resolve this immediately.)
 - C. こちらの手違いではございません。(This is not our error.)
 - D. 失礼いたします。(Excuse me.)

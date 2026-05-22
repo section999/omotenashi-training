@@ -4,9 +4,9 @@ section: 10
 title: シャンプー (shanpuu)
 ---
 
-シャンプー is the Japanese loanword for shampoo and is one of the standard bathroom amenities stocked in hotel and ryokan guest rooms. In the Japanese hospitality setting, the quality and selection of シャンプー is taken seriously — luxury properties often provide branded or salon-quality products, while ryokan may feature locally sourced botanical shampoos that reflect regional ingredients and craftsmanship. Housekeeping staff check シャンプー levels during every room servicing and replace bottles or refill dispensers to ensure guests always have a full supply available. The care taken in selecting and presenting シャンプー is part of the broader commitment to making every element of the guest's stay feel considered and generous.
+シャンプー is the Japanese loanword for shampoo and is a standard bathroom amenity in hotel and ryokan guest rooms. In Japan's hospitality sector, the quality and selection of シャンプー is taken seriously. Luxury properties often provide branded or salon-quality products, while ryokan may feature locally sourced botanical shampoos that reflect regional ingredients. Housekeeping staff check シャンプー levels during every room servicing and replace bottles or refill dispensers to ensure guests always have a full supply. The goal is that a guest never reaches for the shampoo and finds it almost empty.
 
-In practice, staff must know whether a property uses individual travel-sized bottles, large refillable dispensers, or pump-top containers, as each requires a different replenishment approach. When a guest requests additional シャンプー, the correct response is to bring it promptly without making the guest feel they have inconvenienced anyone. For guests with allergies or specific hair care needs, staff should be aware of the シャンプー's ingredients and, if uncertain, offer to check or provide an alternative option.
+In practice, staff need to know whether a property uses individual travel-sized bottles, large refillable dispensers, or pump-top containers, because each type requires a different replenishment approach. When a guest asks for more シャンプー, the response should be prompt and warm, with no suggestion that the request is an inconvenience. For guests with allergies or specific hair care concerns, staff should be aware of the product's ingredients. If uncertain, offer to retrieve the packaging or provide an alternative rather than guessing.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, staff must know whether a property uses individual travel-sized bot
 
 ## Related Expressions
 
-- **コンディショナー (kondishonaa)** — Hair conditioner; almost always provided alongside シャンプー and should be checked and replenished at the same time.
-- **ボディーソープ (bodiisoopu)** — Body wash/soap; another bathroom amenity frequently grouped with シャンプー in hotel amenity sets — staff should know all three when restocking.
+- **コンディショナー (kondishonaa)**: Hair conditioner; almost always provided alongside シャンプー and should be checked and replenished at the same time.
+- **ボディーソープ (bodiisoopu)**: Body wash/soap; another bathroom amenity frequently grouped with シャンプー in hotel amenity sets: staff should know all three when restocking.
 
 ## Common Mistakes
 
-Staff sometimes replenish only シャンプー while overlooking コンディショナー or ボディーソープ — always check the entire bathroom amenity set together. When a guest has a hair or skin allergy, staff should never guess at ingredient information — instead, offer to retrieve the product packaging or consult with a supervisor. Avoid confusing シャンプー (a liquid hair-washing product) with 石鹸 (soap), which is used for the body or hands.
+Staff sometimes top up シャンプー while overlooking コンディショナー or ボディーソープ sitting right next to it. Check the full amenity set together, not one item at a time. When a guest mentions a hair or skin allergy, never guess at ingredient information: offer to retrieve the product packaging or check with a supervisor. And do not confuse シャンプー with 石鹸: they are different products and guests will notice if you bring the wrong one.
 
 ---
 
@@ -45,5 +45,5 @@ Staff sometimes replenish only シャンプー while overlooking コンディシ
 
 **Correct Answer:** シャンプー (shampoo)
 
-**Explanation:** シャンプー is a standard bathroom amenity — ご用意しております (we have prepared) is the polite way to inform guests what is available.
+**Explanation:** シャンプー is a standard bathroom amenity: ご用意しております (we have prepared) is the polite way to inform guests what is available.
 

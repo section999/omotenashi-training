@@ -4,9 +4,12 @@ section: 11
 title: 危険 (kiken)
 ---
 
-危険 refers to situations, objects, or conditions that pose a genuine threat to life, health, or property. In Japanese hospitality, recognising and communicating 危険 accurately and promptly is a fundamental responsibility — both for the physical safety of guests and the legal liability of the property. Unlike 注意 (caution), which signals the need for care, 危険 indicates a serious, immediate, or high-probability risk that demands a strong response, such as restricting access, issuing a verbal warning, or triggering emergency procedures.
+**Pronunciation:** [ki-**ken**]
+**Register:** Formal/Neutral, safety and emergency communication
 
-In hotels, 危険 zones may include areas under construction or maintenance, rooms with reported gas leaks, unstable furniture or fixtures, flooded corridors, or locations affected by earthquake damage. Staff must be empowered to place 危険 signage, verbally redirect guests, and escalate to management without hesitation when they identify a hazard. In Japanese workplace culture, the concept of 危険予知 (kiken yochi — hazard prediction or danger anticipation) is trained across many industries, encouraging workers to identify potential dangers before incidents occur.
+危険 describes situations, objects, or conditions that pose a genuine threat to life, health, or property. The key thing to understand is how it sits in a hierarchy: 注意 signals "be careful," while 危険 signals "this is serious." In a hotel, you'll use 危険 for things like a gas leak, post-earthquake structural damage, a flooded corridor, or a construction zone where guests should not go under any circumstances.
+
+In practice, Japanese workplaces across many industries train staff in something called 危険予知 (kiken yochi), which roughly means hazard prediction. The idea is to spot potential dangers before anyone gets hurt. For hotel staff, this mindset means regularly scanning your environment, not just waiting for something to go wrong before acting. Worth noting is that 危険 alone is never enough: the word must always be paired with a clear instruction, such as "do not enter" or "please evacuate." A sign that just says 危険 without telling people what to do leaves guests confused and unsafe.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hotels, 危険 zones may include areas under construction or maintenance, roo
 
 ## Related Expressions
 
-- **注意 (chuui)** — caution; a milder level of alert than 危険, used when care is needed but the risk is not immediately life-threatening; in the hierarchy of safety communication, 注意 < 警告 < 危険.
-- **危険物 (kikenbutsu)** — hazardous material; a substance classified as dangerous due to flammability, toxicity, or reactivity; this term appears in regulations governing what guests and staff may bring into or store within a property.
+- **注意 (chuui)**: caution; a milder alert you'd use when guests just need to slow down and be careful, not when the risk is genuinely life-threatening. Think of it as the lower rung on a ladder: 注意 first, then 警告, then 危険 at the top.
+- **危険物 (kikenbutsu)**: hazardous material; a substance that is flammable, toxic, or reactive. This term appears in Japanese regulations that govern what guests and staff may bring onto or store within a property.
 
 ## Common Mistakes
 
-Learners sometimes use 危険 for minor inconveniences (a slightly slippery floor, a sticky door) when 注意 would be more appropriate — overuse of 危険 can desensitise staff and guests to genuine warnings. Conversely, understating a truly dangerous situation as 注意 when 危険 is warranted is a more serious error with potentially life-threatening consequences. Staff should also be aware that 危険 alone is not sufficient — it must always be accompanied by a specific instruction or action (do not enter, evacuate, stand back) to be effective in an emergency.
+Students often reach for 危険 when 注意 is actually the right word. A slightly sticky door or a mildly damp floor does not warrant 危険, and overusing it dulls people's reactions to genuine warnings. That said, the reverse error is actually more dangerous: calling a truly hazardous situation 注意 instead of 危険 can have real consequences for guest safety. Train yourself to assess the probability and severity of harm before choosing between the two. One more thing: whenever you communicate 危険, always follow it immediately with a specific action. "This is dangerous" with nothing else is incomplete and ineffective in an emergency.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 危険 for minor inconveniences (a slightly slippery floo
 
 **Correct Answer:** 危険 (danger)
 
-**Explanation:** 危険 (kiken) means danger — a situation posing risk to life or property. 安全 = safety, 救助 = rescue, 警報 = alarm.
+**Explanation:** 危険 (kiken) means danger: a situation posing risk to life or property. 安全 = safety, 救助 = rescue, 警報 = alarm.

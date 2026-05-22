@@ -4,9 +4,12 @@ section: 3
 title: 乾燥 (kansou)
 ---
 
-乾燥 refers to the process of removing moisture from washed items, either through a mechanical dryer or by air drying on a rack or line. In Japanese hospitality, 乾燥 is an integral part of laundry service, and guests often ask about dryer availability or drying time before placing a laundry order. The word can also describe environmental dryness — for example, dry indoor air in winter — so context usually clarifies the meaning. A thorough 乾燥 step is essential because improperly dried clothing can develop mildew odors, which would be an unacceptable experience for hotel guests.
+**Pronunciation:** [**kan**-sou]
+**Register:** Neutral, used in laundry instructions, machine labels, and guest explanations
 
-In coin-operated laundry rooms within hotels or guesthouses, 乾燥 machines are typically separate from washing machines and charge by the minute or cycle. Staff should be able to advise guests on appropriate drying settings for different fabric types to prevent shrinkage or damage. For valet laundry service, it is standard practice to confirm with guests whether they prefer machine drying or air drying for delicate items.
+乾燥 refers to the process of removing moisture from washed items, either in a machine dryer or by air drying on a rack or line. In hotel laundry services, 乾燥 is just as important as the washing step itself, because garments that are not dried properly can develop mildew odours, which is the last thing you want a guest to discover when they open their bag. The word can also describe environmental dryness, such as dry winter air indoors, so context usually makes the intended meaning clear. In laundry conversations, 乾燥 almost always refers to the drying step.
+
+In coin-operated laundry rooms, 乾燥 machines are typically separate from washing machines and charge by the cycle or minute. Worth noting: guests don't always know to ask about dryer settings, so if they bring delicate items, it is a genuine service to bring up the topic first. For valet laundry, standard practice is to confirm with guests whether they prefer machine drying or air drying for items like wool or silk. Getting this right protects both the garment and the hotel's reputation.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In coin-operated laundry rooms within hotels or guesthouses, 乾燥 machines are
 
 ## Related Expressions
 
-- **洗濯 (sentaku)** — the washing step that precedes 乾燥; the two words are often paired as 洗濯・乾燥 to describe the complete laundry process.
-- **乾燥機 (kansouki)** — the dryer machine itself; 乾燥 is the process, while 乾燥機 is the appliance used to carry it out.
+- **洗濯 (sentaku)**: the washing step that comes before 乾燥; the two are often listed together as 洗濯・乾燥 to describe the full laundry process from start to finish.
+- **乾燥機 (kansouki)**: the dryer machine itself; 乾燥 is the process, 乾燥機 is the appliance. Students often find it helpful to remember that adding 機 (ki, machine) to a process word gives you the device.
 
 ## Common Mistakes
 
-Learners occasionally confuse 乾燥 (drying clothes) with 乾燥 used to describe dry weather or dry skin, since the same word applies in all cases — always rely on context. Another common mistake is advising guests to use the 乾燥機 for all garments without checking care labels; delicate fabrics such as silk and cashmere should never go in a machine dryer. Additionally, do not use 乾燥する as a polite guest-facing verb without proper keigo phrasing; prefer expressions like 乾燥をお願いできますか in a service context.
+Students sometimes get confused because 乾燥 describes both drying laundry and dry environmental conditions, like dry skin or dry winter air. The word is identical in both cases, so always read the context. Another practical mistake is advising guests to use the 乾燥機 for all garments without first checking care labels. Silk and cashmere should never go in a machine dryer, and wool can shrink dramatically. In practice, a quick mention of "please check the label" when guests ask about the dryer can save a lot of grief. Finally, in guest-facing speech, avoid the plain 乾燥する; use polished phrases like 乾燥をお願いできますか or 乾燥のご確認をお願いいたします.
 
 ---
 
@@ -44,4 +47,4 @@ Learners occasionally confuse 乾燥 (drying clothes) with 乾燥 used to descri
 
 **Correct Answer:** 乾燥 (drying)
 
-**Explanation:** 乾燥 (kansou) means drying — removing moisture from washed items using a dryer or air drying. 洗濯 = washing, 洗剤 = detergent, アイロン = iron.
+**Explanation:** 乾燥 (kansou) means drying: removing moisture from washed items using a dryer or air drying. 洗濯 = washing, 洗剤 = detergent, アイロン = iron.

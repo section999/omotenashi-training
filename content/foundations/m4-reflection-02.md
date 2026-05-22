@@ -1,37 +1,37 @@
 ---
 id: m4-reflection-02
 section: 2
-title: Kaizen — Continuous Improvement
+title: Kaizen, Continuous Improvement
 ---
 
-*Kaizen* (改善) — commonly translated as "continuous improvement" — is one of the most widely known Japanese professional concepts in the world, and one of the most frequently misunderstood. It is often described as a management philosophy or a quality system. At its core, however, kaizen is simpler and more personal than that. It is the belief that every person, in every role, can make their work a little better today than it was yesterday — and that this accumulation of small improvements, sustained over time, produces excellence that no single large intervention could achieve.
+*Kaizen* (改善) is probably the most widely recognised Japanese professional concept outside Japan, and also one of the most frequently misread. People tend to describe it as a management philosophy or a quality system. Those descriptions are not wrong, but they miss what makes kaizen powerful at the personal level. At its core, kaizen is a simple belief: every person, in every role, can make their work a little better today than it was yesterday. And when that accumulates over time, the result is a standard of excellence that no single training programme or top-down initiative could ever produce on its own.
 
 ### The Character of Kaizen
 
-改 means "to change" or "to reform." 善 means "good" or "better." Together: to change toward the better. Not toward perfection — toward better. This distinction matters. Perfection is a fixed endpoint that, in reality, cannot be reached. Better is always achievable. The kaizen mindset focuses on what is possible right now, with the resources and circumstances available right now.
+改 means "to change" or "to reform." 善 means "good" or "better." Together: to change toward the better. Not toward perfection, toward better. That difference matters more than it might seem. Perfection is a fixed endpoint that no one can actually reach. Better is always within reach. The kaizen mindset fixes its attention on what is possible right now, with what is available right now.
 
 ### Kaizen in Hospitality
 
-In a hospitality context, kaizen might look like:
-- Noticing that guests frequently ask for directions to the elevator at a particular point in the lobby, and suggesting a small sign that would prevent the question
-- Realising that the way a form is currently filled out causes delays at check-out, and proposing a simpler order of questions
-- Identifying that a particular handover procedure is losing information, and developing a clearer template
-- Discovering through personal reflection that pausing before responding to guest questions results in better answers, and deliberately building that pause into practice
+In practice, kaizen in a hospitality setting looks like small, specific observations turned into small, specific improvements:
+- You notice guests frequently stop at the same spot in the lobby to ask where the elevator is, and you suggest a small sign that removes the question entirely
+- You realise a form's current layout is causing delays at check-out, and you propose a simpler order of fields
+- You identify that a handover procedure is consistently losing details, and you draft a clearer template
+- Through your own hansei practice, you discover that pausing one second before responding to a guest question produces noticeably better answers, and you start building that pause in deliberately
 
-These are small things. Each one alone is unremarkable. But an individual who consistently improves their practice in small ways, and a team that shares and builds on each other's improvements, creates a standard of excellence that cannot be matched by those who are waiting for a system to change or for formal training to provide the next level of skill.
+Each of these is a small thing. None of them alone is remarkable. But a person who does this consistently, and a team that shares and builds on each other's observations, creates a standard that the person waiting for a training course to fix things simply cannot match.
 
 ### Kaizen and Humility
 
-Kaizen requires a specific kind of humility: the recognition that however good one's current practice is, it can be better. This humility is not about low self-regard — it is about the honest appraisal of one's own work against its own potential. The best hospitality professionals in Japan are, without exception, people who believe they still have much to learn — not because they lack confidence, but because they understand that the depth of excellent service is genuinely inexhaustible.
+That said, kaizen asks something of you personally: the honest recognition that however good your current practice is, it can be better. Students often worry this means doubting yourself. It does not. The best hospitality professionals in Japan are, without exception, people who believe they still have a great deal to learn, not because they lack confidence, but because they genuinely understand that excellent service has no ceiling.
 
 ---
 
 ## Key Phrases
 
-**改善 (kaizen)** — continuous improvement; the practice of making small, incremental improvements to one's work or process on a regular basis; a core principle of Japanese professional culture
+**改善 (kaizen)**: continuous improvement; the practice of making small, incremental improvements to one's work or process on a regular basis; a core principle of Japanese professional culture
 
 **もっと良くなれると思います (motto yoku nareru to omoimasu)** *(Motto yoku nareru to omoimasu.)*
-"I believe we can become even better." — an expression of the kaizen mindset; used to open a discussion about improvement without implying that current standards are inadequate
+"I believe we can become even better.": an expression of the kaizen mindset; used to open a discussion about improvement without implying that current standards are inadequate
 
 ---
 

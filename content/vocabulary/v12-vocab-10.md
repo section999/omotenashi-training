@@ -4,9 +4,12 @@ section: 10
 title: 安全 (anzen)
 ---
 
-安全 means the state of being free from harm, danger, or unacceptable risk, and it underpins every operational decision in Japanese hospitality. The principle of 安全第一 (anzen daichi — safety first) is deeply embedded in Japanese workplace culture, and hotels, ryokan, and restaurants are legally and ethically bound to maintain safe environments for both guests and staff. In omotenashi culture, 安全 is not merely a regulatory compliance concept — it is an expression of genuine care for the guest's wellbeing, a precondition without which true hospitality cannot exist.
+**Pronunciation:** [**an**-zen]
+**Register:** Standard, used across all registers in both operational and guest-facing contexts
 
-In daily operations, 安全 manifests through regular equipment inspections, proper food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. Staff at all levels contribute to 安全 by reporting hazards immediately, following established protocols, and proactively informing guests of risks (wet floors, slippery outdoor paths, uneven tatami, etc.). Management demonstrates commitment to 安全 through training investment, maintenance schedules, and a culture where staff feel safe to report problems without fear of blame.
+安全 means the state of being free from harm, danger, or unacceptable risk. In Japanese workplace culture the principle of 安全第一 (anzen daichi, safety first) is deeply embedded, and hotels, ryokan, and restaurants are both legally and ethically bound to maintain safe environments for guests and staff alike. In omotenashi culture, 安全 goes beyond regulatory compliance. It is an expression of genuine care for the person in front of you. A guest cannot truly experience hospitality if they do not feel safe, which makes 安全 not just a checklist item but the foundation everything else rests on.
+
+In daily operations, 安全 shows up in equipment inspections, food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. Students often think safety is someone else's job, but every staff member contributes by reporting hazards immediately, following established protocols, and proactively warning guests about risks like wet floors, slippery outdoor paths, or uneven tatami. Management's commitment to 安全 is visible through training programs, maintenance schedules, and a workplace culture where people feel safe to raise concerns without blame.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In daily operations, 安全 manifests through regular equipment inspections, pro
 
 ## Related Expressions
 
-- **安全確認 (anzen kakunin)** — safety check; the specific act of verifying that a space, equipment, or procedure meets safety standards before use; more active and procedural than 安全 alone.
-- **安心 (anshin)** — peace of mind; closely related to 安全 but describing the psychological feeling of reassurance rather than the objective state of being safe. Hospitality staff aim to give guests both 安全 (actual safety) and 安心 (the feeling of safety).
+- **安全確認 (anzen kakunin)**: safety check; the specific act of verifying that a space, piece of equipment, or procedure meets safety standards before use; more active and procedural than 安全 used alone
+- **安心 (anshin)**: peace of mind; related to 安全 but describing the psychological feeling of reassurance rather than the objective physical state of being safe; in omotenashi, staff aim to give guests both 安全 (actual safety) and 安心 (the feeling of safety)
 
 ## Common Mistakes
 
-A common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management — all staff members are expected to contribute to a safe environment as part of their role. Learners sometimes confuse 安全 (anzen — safety, safe) with 安心 (anshin — peace of mind, reassurance), but while the two are linked, 安全 is objective and physical while 安心 is subjective and emotional. Staff should also avoid using 安全 as empty reassurance without evidence — telling a guest 「ご安心ください」 while ignoring a genuine hazard damages trust and violates the spirit of omotenashi.
+One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment, and that attitude needs to be genuine rather than just stated. Worth noting, students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but they are not the same thing, and the distinction matters in hospitality because you can achieve one without the other. One more thing: never use 安全 as empty reassurance. Saying 「ご安心ください」 to a guest while ignoring an actual hazard is not just unhelpful, it actively damages trust and goes against the spirit of omotenashi.
 
 ---
 
@@ -41,4 +44,4 @@ A common conceptual mistake is treating 安全 as solely the responsibility of m
 
 **Answer:** 安全
 
-**Explanation:** 安全 (anzen) means safety — a state of being free from harm, risk, or danger in the environment.
+**Explanation:** 安全 (anzen) means safety: a state of being free from harm, risk, or danger in the environment.

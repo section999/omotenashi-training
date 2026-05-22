@@ -4,9 +4,9 @@ section: 12
 title: シーツ (sheets)
 ---
 
-シーツ refers to bed sheets — the fitted and flat linens that cover the mattress and are laid over the sleeper. In Japanese hotel operations, シーツ are changed according to a defined schedule, typically between every guest stay for standard turnover, and on request during longer stays. Cleanliness standards around シーツ are particularly high in Japanese hospitality, where guests place great weight on hygiene and freshness. Stained, wrinkled, or improperly made beds are among the most frequently cited negative comments in hotel reviews, making シーツ management a genuinely important skill for housekeeping staff.
+シーツ refers to bed sheets, the fitted and flat linens that cover the mattress and lay over the sleeper. In Japanese hotel operations, シーツ are changed between every guest stay as standard, and on request during longer stays. Cleanliness standards around linens are extremely high in Japanese hospitality, and guests notice immediately when something is off. Stained, wrinkled, or poorly made beds are among the most common complaints in hotel reviews, which tells you how seriously guests take this.
 
-Guests may request シーツ交換 (sheet replacement) mid-stay, especially during extended bookings. Staff should handle this request immediately using the phrase シーツを交換いたします. In some eco-conscious or boutique properties, guests are given the option to opt out of daily シーツ replacement as part of a sustainability initiative — staff should be able to explain this policy clearly if a guest asks about it.
+Guests on extended stays may request シーツ交換 mid-stay, and when they do, handle it immediately using シーツを交換いたします. That said, some eco-conscious or boutique properties now offer guests the option to skip daily sheet changes as part of a sustainability program. If your property has that policy, be ready to explain it clearly and without awkwardness, because guests who ask about their sheets deserve a direct, honest answer.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Guests may request シーツ交換 (sheet replacement) mid-stay, especially duri
 
 ## Related Expressions
 
-- **シーツ交換 (shiitsu koukan)** — "sheet replacement/change"; the compound phrase used when a guest requests or staff announces a linen change, more specific and professional than saying シーツ alone.
-- **枕カバー (makura kabaa)** — pillowcase; often replaced alongside シーツ as part of a full linen change, so knowing both terms helps staff communicate the full scope of housekeeping work.
+- **シーツ交換 (shiitsu koukan)**: "sheet replacement/change"; the compound phrase used when a guest requests or staff announces a linen change, more specific and professional than saying シーツ alone.
+- **枕カバー (makura kabaa)**: pillowcase; typically replaced at the same time as シーツ during a full linen change, so knowing both terms helps you describe the full scope of what housekeeping will do.
 
 ## Common Mistakes
 
-Learners sometimes use the phrase シーツを変えます (shiitsu wo kaemasu) instead of the more professional シーツを交換いたします — while grammatically correct, the humble いたします form is expected in guest interactions. Confusing シーツ (sheets) with シーズン (season) can occasionally trip up beginners due to the similar opening sound — context makes the difference clear, but careful pronunciation helps. Staff should also avoid describing a mid-stay sheet change as being for cleanliness "because the guest requested it" in a way that implies criticism — frame it simply as fulfilling the guest's wish.
+Students often default to シーツを変えます, which is grammatically fine in everyday speech but too casual for guest interactions. The expected form is シーツを交換いたします, using the humble いたします. Worth noting: beginners sometimes stumble on pronunciation and mix up シーツ (sheets) with シーズン (season) due to the similar opening sound. Context usually makes it clear, but clean pronunciation saves everyone confusion. Also, when handling a mid-stay sheet change, never frame it in a way that implies the guest's room was somehow dirty. Just say you are fulfilling their request and leave it at that.
 
 ---
 
@@ -44,5 +44,5 @@ Learners sometimes use the phrase シーツを変えます (shiitsu wo kaemasu) 
 
 **Correct Answer:** シーツを交換いたします (we will change the bed sheets)
 
-**Explanation:** シーツを交換いたします uses the humble いたします — the professional way to confirm you will replace something for the guest.
+**Explanation:** シーツを交換いたします uses the humble いたします: the professional way to confirm you will replace something for the guest.
 

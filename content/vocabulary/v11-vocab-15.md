@@ -4,9 +4,12 @@ section: 15
 title: 通話中 (tsuuwachuu)
 ---
 
-通話中 means that a telephone line is currently in use — either that the staff member the caller is trying to reach is already on another call, or that the line itself is occupied. In a hospitality setting, this status must be communicated immediately and with care, as callers who are left on hold without explanation quickly become frustrated. Knowing this term allows staff to respond in a clear, professional way that keeps the guest informed rather than guessing.
+**Pronunciation:** [tsuu-wa-**CHUU**]
+**Register:** Formal, used in hotel telephone contexts
 
-When a caller reaches a busy line, staff should not simply say 通話中です and go silent. The proper response pairs the status with an action offer: ただいま通話中でございます。折り返しご連絡いたしましょうか (the line is currently busy; shall we call you back?), or しばらくお待ちいただけますか (would you be able to wait a moment?). This two-part structure — status plus option — is the professional standard in Japanese hotel telephone etiquette.
+通話中 means that a telephone line is currently in use. Either the person the caller wants is already on another call, or the line itself is occupied. Knowing this term matters because in hospitality, how you communicate this status is just as important as the information itself. A caller who hears 通話中です with no follow-up will immediately wonder what they are supposed to do next, and that moment of uncertainty is not the experience you want to create.
+
+The professional standard is simple: pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call you back?) or しばらくお待ちいただけますか (would you be able to wait a moment?) gives the caller a clear path forward. In practice, this two-part structure, status plus option, is one of the most fundamental patterns in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a caller reaches a busy line, staff should not simply say 通話中です a
 
 ## Related Expressions
 
-- **保留 (horyuu)** — Being placed on hold during an active call, whereas 通話中 describes the state of a line being occupied. A guest can be put on 保留 while the staff member is 通話中 with someone else on a different line.
-- **話し中 (hanashichuu)** — A more casual, everyday expression meaning the line is busy (literally "in the middle of talking"). 通話中 is the more formal, professional term used in hospitality contexts.
+- **保留 (horyuu)**: being placed on hold during an active call; 通話中 describes the state of a line being occupied, while 保留 describes what happens to a guest while the staff member handles something on another line simultaneously.
+- **話し中 (hanashichuu)**: a casual, everyday expression meaning the line is busy; 通話中 is the more formal, professional term that belongs in hospitality contexts.
 
 ## Common Mistakes
 
-Learners often state 通話中です without offering any follow-up option, leaving the caller uncertain about what to do next. Always pair 通話中 with an action such as a callback offer or a hold option. Another mistake is confusing 通話中 (line is in use) with 接続不良 (poor connection) — these are different problems requiring different responses. Using 通話中 when the actual issue is a weak signal can mislead both the caller and internal maintenance staff.
+Students often state 通話中です and stop there, which leaves the caller in limbo. That follow-up offer is not optional. Worth noting: 通話中 and 接続不良 (poor connection) are not the same problem, and using the wrong term creates confusion. If someone cannot connect because the line is genuinely in use, that is 通話中. If the line is available but the audio keeps cutting out, that is 接続不良. Getting that distinction right also helps internal maintenance staff diagnose issues more accurately when you escalate.
 
 ---
 
@@ -44,4 +47,4 @@ Learners often state 通話中です without offering any follow-up option, leav
 
 **Correct Answer:** 通話中 (line is busy / on a call)
 
-**Explanation:** 通話中 should be followed by an offer — ただいま通話中でございます (the line is currently busy) alone leaves the caller uncertain; adding 折り返しご連絡いたしましょうか (shall we call you back?) or しばらくお待ちいただけますか (could you wait a moment?) keeps the caller engaged.
+**Explanation:** 通話中 should be followed by an offer: ただいま通話中でございます (the line is currently busy) alone leaves the caller uncertain; adding 折り返しご連絡いたしましょうか (shall we call you back?) or しばらくお待ちいただけますか (could you wait a moment?) keeps the caller engaged.

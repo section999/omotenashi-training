@@ -4,9 +4,12 @@ section: 22
 title: 延泊 (enpaku)
 ---
 
-延泊 (enpaku) means "extended stay" — specifically, remaining in one's room for one or more additional nights beyond the original check-out date. This is one of the more common mid-stay requests hotels receive, and how staff handle it reflects their service quality. Because 延泊 is subject to room availability, it cannot always be accommodated, and staff must be skilled at both confirming successful extensions and declining gracefully when no availability exists. The guest's comfort and understanding should be the priority in either case.
+**Pronunciation:** [en-**pa**-ku]
+**Register:** Formal, standard service and reservation contexts
 
-When a guest requests 延泊, the standard procedure is to first confirm availability for the desired additional nights, then check whether the same room can be maintained or if a room change is needed (同じお部屋でのご延泊は可能でございます / 翌日は別のお部屋にご移動いただく必要がございます). If the extension is possible, staff confirm the new check-out date and update payment details. If it is not possible, offering alternatives such as nearby sister properties or waiting lists demonstrates omotenashi spirit even in the face of constraints.
+延泊 (enpaku) means "extended stay," specifically remaining in one's room for one or more additional nights beyond the original check-out date. It comes up more often than you might expect, and how your team handles it says a lot about the property's service quality. Because 延泊 depends entirely on room availability, it cannot always be granted, and staff need to be equally good at confirming a successful extension and at declining gracefully when nothing is available. The guest's peace of mind should be the focus either way.
+
+That said, the procedure is not complicated once you know it. Start by checking availability for the requested nights, then determine whether the same room can be kept (same-room continuation is always the ideal) or whether a room change is unavoidable. If the extension is possible, confirm the new check-out date and sort out any payment adjustments before the guest returns to their room. If 延泊 is not possible, offering to look at sister properties or taking the guest's contact for a cancellation spot shows omotenashi spirit even when you cannot say yes.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest requests 延泊, the standard procedure is to first confirm availab
 
 ## Related Expressions
 
-- **チェックアウト日 (chekku-auto bi)** — the check-out date, which 延泊 effectively changes. When confirming an extension, staff should always restate the new チェックアウト日 clearly to avoid any ambiguity about when the guest's stay now ends.
-- **満室 (manseki)** — fully booked / no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver this information politely — with an apology and alternative suggestions — is essential for professional hospitality service.
+- **チェックアウト日 (chekku-auto bi)**: the check-out date, which 延泊 effectively pushes back. When confirming an extension, restate the new チェックアウト日 clearly so the guest knows exactly when their stay now ends.
+- **満室 (manseki)**: fully booked, no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver that news politely, with a genuine apology and a suggestion or two, is what separates good hospitality from adequate hospitality.
 
 ## Common Mistakes
 
-A common mistake is telling a guest 延泊できない without softening the refusal — hospitality language always cushions negative responses with 大変申し訳ございませんが (we sincerely apologize). Learners sometimes use 泊まる (tomaru, to stay/lodge) as a substitute, but 延泊 is the precise and professional term for an extension specifically. Staff should also avoid confirming 延泊 before actually checking the system — falsely raising a guest's hopes and then retracting the confirmation is a serious service failure.
+Students often jump straight to 延泊できない without any softening, which lands badly on a guest who was hoping to stay longer. Always lead with 大変申し訳ございませんが before explaining the constraint. Worth noting here is that 泊まる (tomaru, to stay) is not a substitute for 延泊 in professional speech. 泊まる is casual and vague; 延泊 is the precise term for an extension specifically. The other mistake to avoid: confirming 延泊 before checking the system. Telling a guest their extension is approved and then having to walk it back is one of the most damaging service failures you can make at a front desk.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is telling a guest 延泊できない without softening the ref
 
 **Correct Answer:** 延泊は可能でございます (an extension of stay is possible)
 
-**Explanation:** 延泊は可能でございます uses ございます and states availability clearly — polite and direct.
+**Explanation:** 延泊は可能でございます uses ございます and states availability clearly: polite and direct.

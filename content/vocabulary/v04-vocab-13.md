@@ -4,9 +4,9 @@ section: 13
 title: ドライヤー (doraiyaa)
 ---
 
-ドライヤー is the Japanese loanword for hair dryer and is a standard in-room electrical appliance provided in hotels and ryokan across Japan. In the Japanese hospitality context, the presence and quality of a ドライヤー is closely linked to guest satisfaction — particularly among Japanese guests, for whom hair care after bathing is an important part of the daily routine. Housekeeping staff are responsible for confirming that the ドライヤー is present in its designated location (typically the bathroom or a bedside drawer), that it is functioning correctly, and that the cord is neatly stored. Any appliance that is found to be damaged, missing, or malfunctioning should be reported to the housekeeping supervisor immediately.
+ドライヤー is the Japanese loanword for hair dryer, and it is a standard in-room appliance in hotels and ryokan across Japan. For many Japanese guests, thoroughly drying hair after bathing is a genuine daily ritual, so a missing or broken ドライヤー is a real inconvenience, not a minor detail. During room checks, housekeeping staff verify that the ドライヤー is in its designated location (typically the bathroom or a bedside drawer), working correctly, and stored neatly with the cord wrapped. Any appliance that is damaged, missing, or malfunctioning must be reported to the supervisor right away. A broken ドライヤー should never be left in a guest room.
 
-When a guest asks about the ドライヤー — how to use it, where it is stored, or whether it is compatible with international voltages — staff should provide clear and patient guidance. Japan operates on 100V electricity, which differs from the 220–240V used in many European and other countries, so voltage compatibility may be a concern for international guests. Staff should be prepared to explain this if asked, and ideally direct guests to the information booklet in the room. If a ドライヤー malfunctions during a guest's stay, arranging a quick replacement is a high-priority service action.
+When guests ask about the ドライヤー, whether they are wondering where it is stored, how to use it, or whether it works with their home country's voltage, answer patiently and clearly. Japan runs on 100V electricity, which is lower than the 220-240V standard in much of Europe and elsewhere, so voltage compatibility is a real concern for international guests. Staff should be ready to explain this calmly and point guests toward the information booklet in the room. In practice, if a ドライヤー fails during a stay, arranging a replacement quickly is a priority action, not something to leave for the next cleaning round.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When a guest asks about the ドライヤー — how to use it, where it is store
 
 ## Related Expressions
 
-- **コンセント (konsento)** — Electrical outlet/plug socket; essential vocabulary when explaining how to use the ドライヤー or any other in-room electrical appliance.
-- **電圧 (den'atsu)** — Voltage; important when assisting international guests who need to know whether their own appliances or the hotel's ドライヤー is compatible with their country's electrical standard.
+- **コンセント (konsento)**: electrical outlet or plug socket; essential vocabulary when explaining how to use the ドライヤー or any other in-room appliance.
+- **電圧 (den'atsu)**: voltage; comes up when international guests need to know whether their own devices or the hotel's ドライヤー is compatible with their country's electrical standard.
 
 ## Common Mistakes
 
-A common error is storing the ドライヤー in an unexpected location without noting it in the room information booklet, leading to frustrated guests who cannot find it. When explaining usage, do not assume guests know the Japanese plug type — offer to demonstrate or clearly indicate the コンセント location. Avoid the mistake of leaving a ドライヤー with a damaged cord in a guest room; a faulty electrical appliance is both a safety hazard and a service failure.
+Storing the ドライヤー somewhere unexpected without updating the room information booklet creates the kind of frustration where guests spend five minutes searching before calling the front desk. When explaining how to use it, do not assume guests know the Japanese plug type: point clearly to the コンセント and offer to demonstrate if needed. Never leave a ドライヤー with a damaged cord in a guest room. A faulty electrical appliance is a safety risk, and it is also simply bad service.
 
 ---
 
@@ -44,5 +44,5 @@ A common error is storing the ドライヤー in an unexpected location without 
 
 **Correct Answer:** ドライヤーはコンセントに差してご使用ください (please plug the hair dryer in and use it)
 
-**Explanation:** ドライヤーはコンセントに差してご使用ください — コンセント means plug socket; ご使用ください is the polite imperative for "please use".
+**Explanation:** ドライヤーはコンセントに差してご使用ください: コンセント means plug socket; ご使用ください is the polite imperative for "please use".
 

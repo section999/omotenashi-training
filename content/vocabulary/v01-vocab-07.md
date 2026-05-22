@@ -4,11 +4,11 @@ section: 7
 title: 失礼いたします (shitsurei itashimasu)
 ---
 
-**失礼いたします** literally means "I am committing a rudeness" — *shitsurei* (失礼) means impoliteness or breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct — to acknowledge impact before taking action.
+**失礼いたします** literally means "I am committing a rudeness." *Shitsurei* (失礼) means impoliteness or a breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct, to acknowledge impact before taking action, and it shows up constantly in professional service contexts.
 
-The phrase covers a wide range of situations, all sharing the same underlying logic: *I am about to do something that may disturb you, and I acknowledge this.* Knocking before entering a room, interrupting a guest's conversation to ask something, stepping past someone in a narrow corridor, passing in front of someone — all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group, functioning as a polite "excuse me" on departure.
+The phrase covers a wide range of situations, all sharing the same underlying logic: I am about to do something that may disturb you, and I acknowledge this. Knocking before entering a room, interrupting a guest's conversation to ask something, stepping past someone in a narrow corridor, all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group, functioning as a polite "excuse me" on departure. One more thing: if you need to pass in front of someone, even briefly, say it. The habit of verbalising these small intrusions is part of what separates thoughtful service from functional service.
 
-Importantly, *shitsurei itashimasu* is not an apology. Do not use it for genuine errors or serious inconveniences — for those, *moushiwake gozaimasen* is correct. *Shitsurei itashimasu* is for the small social navigations of daily professional life.
+*Shitsurei itashimasu* is not an apology. Do not reach for it when a guest's room was not ready or their meal was incorrect. For genuine errors and serious inconveniences, *moushiwake gozaimasen* is the right phrase. *Shitsurei itashimasu* belongs to the small social navigations of daily professional life, nothing more and nothing less.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ Importantly, *shitsurei itashimasu* is not an apology. Do not use it for genuine
 
 ## Related Expressions
 
-- **申し訳ございません (moushiwake gozaimasen)**: Deep apology for genuine errors; much stronger than *shitsurei itashimasu*
-- **すみません (sumimasen)**: Casual "excuse me" or light apology; appropriate between colleagues but too informal for guest interaction
-- **恐れ入ります (osore irimasu)**: Humble "excuse me" or "I appreciate"; used when making a request of the guest
+- **申し訳ございません (moushiwake gozaimasen)**: Deep apology for genuine errors. Much stronger than *shitsurei itashimasu*, and the right phrase when something has actually gone wrong.
+- **すみません (sumimasen)**: Casual "excuse me" or light apology. Fine between colleagues, but too informal for guest-facing interactions.
+- **恐れ入ります (osore irimasu)**: A more humble "excuse me" or expression of appreciation. Used when making a request of the guest or receiving their thanks.
 
 ## Common Mistakes
 
-A common confusion is using *shitsurei itashimasu* as an apology for a serious problem. If a guest's room is not ready or their meal was incorrect, *shitsurei itashimasu* sounds far too light — almost dismissive. Reserve it for its proper purpose: the polite social navigation of minor intrusions. The tricky part is that in casual speech, Japanese people sometimes use *shitsurei* loosely, which can give learners the impression that it covers a wider range. In formal hospitality, the boundaries are stricter.
+A common confusion is using *shitsurei itashimasu* as an apology for a serious problem. If a guest's room was not ready or their dinner had an error, *shitsurei itashimasu* sounds far too light and can come across as almost dismissive. Reserve it for its proper purpose: the polite navigation of minor social intrusions. The tricky part is that in casual spoken Japanese, people sometimes use *shitsurei* more loosely, which gives learners the impression it covers a wider range. In formal hospitality, the boundaries are stricter, and it is worth knowing exactly where this phrase belongs.
 
 ---
 
@@ -47,4 +47,4 @@ A common confusion is using *shitsurei itashimasu* as an apology for a serious p
 
 **Correct Answer:** 失礼いたします。(Excuse me.)
 
-**Explanation:** Entering a guest's personal space — even when invited — requires acknowledgement of the intrusion. *Shitsurei itashimasu* is exactly right here: it names the social interruption, softens the entry, and demonstrates respect for the guest's private space. Using *moushiwake gozaimasen* would imply you've done something wrong.
+**Explanation:** Entering a guest's personal space: even when invited: requires acknowledgement of the intrusion. *Shitsurei itashimasu* is exactly right here: it names the social interruption, softens the entry, and demonstrates respect for the guest's private space. Using *moushiwake gozaimasen* would imply you've done something wrong.

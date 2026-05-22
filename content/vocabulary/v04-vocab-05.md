@@ -4,9 +4,9 @@ section: 5
 title: ゴミ箱 (gomibako)
 ---
 
-ゴミ箱 refers to the trash can or waste bin provided in guest rooms and throughout hotel common areas. In the Japanese hospitality setting, ゴミ箱 are typically placed thoughtfully — beside the desk, in the bathroom, and occasionally near the entrance — to anticipate guest needs without being visually obtrusive. Housekeeping staff check each ゴミ箱 during the cleaning cycle, emptying and re-lining it even if it contains only minimal waste, as part of maintaining impeccable room standards. The presentation of a clean, properly lined ゴミ箱 is a small but meaningful signal of the attentive service guests expect in a quality hotel or ryokan.
+ゴミ箱 is the trash can or waste bin in guest rooms and throughout hotel common areas. Japanese hotels are deliberate about where bins are placed: beside the desk, in the bathroom, sometimes near the entrance. The thinking is to anticipate where guests will actually generate waste without letting bins dominate the room visually. Housekeeping staff empty and re-line every ゴミ箱 during each cleaning cycle, even when there is barely anything inside. That fresh liner matters more than it sounds, because a detail-minded guest notices a bare bin the same way they notice a missing amenity.
 
-When assisting guests who ask where to discard something, staff should guide them to the nearest ゴミ箱 with clear and polite direction, using phrases such as こちらでございます or バスルームにもございます to indicate location. In hotels with recycling policies, staff may also need to explain which ゴミ箱 is designated for which type of waste. Knowing the placement and number of ゴミ箱 in each room type is part of the practical knowledge expected of housekeeping professionals.
+When guests ask where to throw something away, point them to the nearest ゴミ箱 clearly and politely, using phrases like こちらでございます or バスルームにもございます. In hotels with recycling policies, you may also need to explain which bin is for which waste type, so knowing the property's rules is part of the job. In practice, knowing the number and location of ゴミ箱 in each room type is exactly the kind of specific detail that separates a well-prepared housekeeper from someone who is just going through the motions.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When assisting guests who ask where to discard something, staff should guide the
 
 ## Related Expressions
 
-- **ゴミ (gomi)** — The trash itself; ゴミ箱 is the container that holds it — be careful not to use the two words interchangeably when directing guests.
-- **分別ボックス (bunbetsu bokkusu)** — A recycling/sorting box; found in eco-certified hotels where guests are asked to separate waste by category.
+- **ゴミ (gomi)**: the trash itself; ゴミ箱 is the container that holds it, so be careful not to use the two words interchangeably when directing guests.
+- **分別ボックス (bunbetsu bokkusu)**: a recycling or sorting box found in eco-certified hotels where guests separate waste by category.
 
 ## Common Mistakes
 
-Staff occasionally forget to replace the liner after emptying the ゴミ箱, leaving a bare bin which looks incomplete to detail-oriented guests. When speaking to guests, avoid the abrupt phrase 「ゴミはここ」— always frame it politely as 「ゴミ箱はこちらでございます」. Learners may also confuse ゴミ箱 with 灰皿 (haizara, ashtray), which is a different receptacle — smoking rules and designated areas must be communicated separately.
+A very common oversight is emptying the ゴミ箱 and forgetting to put a fresh liner in. It takes seconds, but guests notice. When directing a guest verbally, drop the shortcut 「ゴミはここ」, which sounds abrupt and unprofessional. Always go with 「ゴミ箱はこちらでございます」. Students also mix up ゴミ箱 with 灰皿 (haizara, ashtray) from time to time. They are entirely different items, and smoking areas and ashtrays come with their own separate communication requirements.
 
 ---
 
@@ -44,5 +44,5 @@ Staff occasionally forget to replace the liner after emptying the ゴミ箱, lea
 
 **Correct Answer:** ゴミ箱はこちらでございます (the trash can is here)
 
-**Explanation:** ゴミ箱はこちらでございます guides the guest politely to the bin — はこちら (over here) with ございます maintains formal hotel tone.
+**Explanation:** ゴミ箱はこちらでございます guides the guest politely to the bin: はこちら (over here) with ございます maintains formal hotel tone.
 

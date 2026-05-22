@@ -4,9 +4,12 @@ section: 9
 title: 不在 (fuzai)
 ---
 
-不在 means that a person is not present, unavailable, or away from their post — unable to take a call or attend to a matter at that moment. In Japanese hospitality telephone etiquette, 不在 is never delivered as a final answer; it always functions as the beginning of a service response, not the end of one. The moment a staff member says 担当者はただいま不在でございます (the person in charge is currently unavailable), they are expected to follow up seamlessly with an alternative — offering to take a message, arranging a callback, or connecting to a colleague. This reflexive continuation reflects the omotenashi principle that the guest's need persists regardless of any individual's availability.
+**Pronunciation:** [fu-**ZAI**]
+**Register:** Formal, used in professional telephone and front-desk contexts
 
-The word 不在 can describe temporary unavailability (stepped away from the desk, on another call) or longer absences (out of the office, on a day off), and the follow-up offer should reflect the likely wait time accordingly. Informing a guest that the 担当者 is away on a day off versus briefly away from the phone requires different alternative solutions, and a skilled staff member will communicate this distinction without over-explaining. 不在 is also used in the compound 留守番電話 (voicemail/answering machine), which literally means "telephone for guarding the house in one's absence."
+不在 tells a caller that the person they need is not available right now. In the world of Japanese hospitality telephone etiquette, though, 不在 is never the end of a sentence, it is always the beginning of one. The moment you say 担当者はただいま不在でございます, your next breath should already be offering an alternative. That reflex is what separates a trained hotel professional from someone just reporting facts. The guest's need does not disappear because one staff member is away, and omotenashi demands you respond to that need regardless.
+
+不在 can cover anything from "stepped away from the desk for two minutes" to "out of the office on annual leave." In practice, those two situations call for very different follow-up offers. If the 担当者 is briefly on another floor, you can offer a hold or a quick callback. If they are off for the day, you need to offer a colleague who can actually help. Getting this distinction right matters, because an inaccurate time estimate is almost as bad as offering no help at all. Worth noting: 不在 also appears in the compound 留守番電話 (voicemail), which literally means "telephone for guarding the house in one's absence", a vivid image that hints at why the word carries such a sense of responsibility.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The word 不在 can describe temporary unavailability (stepped away from the des
 
 ## Related Expressions
 
-- **留守** — a more casual or domestic term for being away or out; 不在 is the formal equivalent used in professional hotel contexts, whereas 留守 might appear in the compound 留守番電話.
-- **折り返し** — the callback offer that almost always follows a notification of 不在; together, 不在 and 折り返し form a natural service pairing in telephone communication.
+- **留守**: a more casual or domestic word for being away; 不在 is its formal professional equivalent, so reach for 不在 at the front desk and leave 留守 to everyday conversation and compound words like 留守番電話.
+- **折り返し**: the callback offer that almost always follows 不在; together, these two words form a natural pairing in telephone scripts, because every unavailability notification needs a clear next step.
 
 ## Common Mistakes
 
-The most significant mistake is stating 不在 without immediately offering an alternative — leaving a caller with only 不在です forces them to ask what to do next, which creates friction. Some learners use いません (is not here) rather than 不在でございます, which is grammatically valid but too informal for front-desk telephone communication. Another error is not distinguishing between temporary 不在 and longer-term absence, which can lead to inaccurate expectations about when the callback will occur.
+Students often state 不在 and stop there, which forces the caller to ask what to do next. That pause creates friction and breaks the natural service flow, so train yourself to attach an offer before the caller has a chance to feel stranded. Some learners also default to いません rather than 不在でございます; it is not wrong, but it is too informal for front-desk telephone work. One more thing: make sure your follow-up offer matches the actual length of the absence. Telling a caller someone will be back shortly when they are off for the day sets a false expectation, and that always makes things worse, not better.
 
 ---
 
@@ -44,4 +47,4 @@ The most significant mistake is stating 不在 without immediately offering an a
 
 **Correct Answer:** 不在 (absent)
 
-**Explanation:** 不在 always requires a follow-up offer — ただいま不在でございます alone is insufficient; follow with ご伝言をお預かりいたしましょうか (may I take a message?) or 折り返しご連絡いたします (we will call you back) so the caller knows what happens next.
+**Explanation:** 不在 always requires a follow-up offer: ただいま不在でございます alone is insufficient; follow with ご伝言をお預かりいたしましょうか (may I take a message?) or 折り返しご連絡いたします (we will call you back) so the caller knows what happens next.

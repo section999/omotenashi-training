@@ -4,9 +4,12 @@ section: 18
 title: 利用 (riyou)
 ---
 
-利用 (利用) combines the characters for "benefit/profit" (利) and "use" (用), together meaning "to make use of" in a purposeful, beneficial sense. In hospitality, it subtly frames the act of using a service or facility as something the property has prepared for the guest's benefit — a nuance absent in the everyday word 使う. This framing aligns with the omotenashi philosophy of anticipating and serving guests' needs. Understanding 利用 and its honorific form ご利用 is essential for any hospitality professional because it appears in nearly every formal guest communication.
+**Pronunciation:** [ri-**you**]
+**Register:** Formal, standard in all guest-facing speech when describing the use of services or facilities
 
-Staff use 利用 when explaining what facilities or services guests may access: 「大浴場はご自由にご利用いただけます」 (the large communal bath is available for your free use) or 「コンシェルジュサービスをご利用ください」 (please make use of the concierge service). It also appears in usage restrictions: 「プールのご利用は午後9時までとなっております」 (pool use is available until 9 PM). The prefix ご is added when referring to the guest's use of the hotel's services — always present in polite guest-facing speech.
+利用 (riyou) combines the characters for "benefit/profit" (利) and "use" (用), together meaning "to make use of" in a purposeful, beneficial sense. What sets this word apart from the everyday 使う is the nuance it carries: 利用 frames the act of using a service as something the property has prepared for the guest's benefit. That framing aligns naturally with the omotenashi mindset of anticipating and serving guests' needs. Understanding 利用 and its honorific form ご利用 is something every hospitality professional needs to get right early, because it appears in nearly every formal guest communication.
+
+Staff use 利用 when explaining what facilities or services guests may access: 「大浴場はご自由にご利用いただけます」 (the large communal bath is available for your free use) or 「コンシェルジュサービスをご利用ください」 (please make use of the concierge service). It also appears in usage restrictions: 「プールのご利用は午後9時までとなっております」 (pool use is available until 9 PM). The prefix ご is always added when referring to the guest's use of the hotel's services. In practice, you will rarely speak to a guest about a service without this word coming up.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff use 利用 when explaining what facilities or services guests may access: 
 
 ## Related Expressions
 
-- **使用 (shiyou)** — Also means "use," but tends to refer to the physical operation of an object or device (e.g., 機器の使用, use of equipment). 利用 is broader and more relational — it implies using a service provided by someone — making it the correct choice in guest-staff interactions.
-- **活用 (katsuyou)** — Means "to make full or effective use of," with a nuance of maximizing potential. While not standard in everyday hospitality phrases, it occasionally appears in marketing copy: 「施設を最大限にご活用ください」 (please make the most of our facilities). It is stronger and more emphatic than 利用.
+- **使用 (shiyou)**: also means "use," but tends to refer to the physical operation of an object or device, such as 機器の使用 (use of equipment). 利用 is broader and more relational, implying using a service that someone has provided, which makes it the right word in guest-staff interactions.
+- **活用 (katsuyou)**: means "to make full or effective use of," with a nuance of maximising potential. It is not standard in everyday hospitality phrases, but appears in marketing copy like 「施設を最大限にご活用ください」 (please make the most of our facilities). It is noticeably stronger and more emphatic than 利用.
 
 ## Common Mistakes
 
-The most common mistake is using 使う or 使用 in guest-facing sentences instead of 利用 — for example, 「施設を使ってください」 instead of 「施設をご利用ください」. The former sounds blunt; the latter is appropriately formal and service-oriented. Another error is forgetting the honorific prefix ご when speaking of a guest's actions: 「利用できます」 is correct for internal reports, but guest-facing speech requires 「ご利用いただけます」. Staff should also avoid 「利用してください」 in favor of 「ご利用ください」 or 「ご利用いただけます」 for the most polished delivery.
+The most common mistake is using 使う or 使用 in guest-facing sentences instead of 利用. Compare 「施設を使ってください」 with 「施設をご利用ください」: the first sounds blunt, the second is appropriately formal and service-oriented. Students often carry the casual form over from everyday speech without realising the shift in register. That said, there is a second trap: forgetting the ご prefix. 「利用できます」 is fine for internal reports, but guest-facing speech requires 「ご利用いただけます」. Aim for 「ご利用ください」 or 「ご利用いただけます」 for the most polished delivery.
 
 ---
 
@@ -45,5 +48,5 @@ The most common mistake is using 使う or 使用 in guest-facing sentences inst
 
 **Correct Answer:** 利用 (use / usage)
 
-**Explanation:** 利用いただけます — ご利用いただけます is the standard phrase for describing services available to guests; 自由に (freely) emphasizes that no special request is needed to use the facility.
+**Explanation:** 利用いただけます: ご利用いただけます is the standard phrase for describing services available to guests; 自由に (freely) emphasizes that no special request is needed to use the facility.
 

@@ -4,9 +4,9 @@ section: 2
 title: 内線 (naisen)
 ---
 
-内線 refers to an internal telephone extension line that connects different rooms, departments, or staff positions within the same building or organization. In Japanese hotels, the 内線 system is the backbone of rapid inter-departmental communication, allowing the front desk to reach housekeeping, room service, or the concierge without going through an external switchboard. Guests also use 内線 from their room phones to contact front desk services, making it one of the most frequently encountered telephone terms during a stay. A well-managed 内線 system reduces response times and is essential to delivering seamless omotenashi service.
+内線 is the internal telephone extension network that connects rooms, departments, and staff positions within the same building. In a hotel setting it's the backbone of fast inter-departmental communication: the front desk can reach housekeeping, room service, or the concierge in seconds without routing through an external switchboard. Guests also call 内線 from their room phones when they need something, so it's one of the telephone terms they'll encounter most during their stay.
 
-Staff must be able to clearly communicate 内線番号 (extension numbers) to guests both in person and by phone. The standard phrasing is 内線〇〇番でございます, and staff should confirm that the guest knows how to access the internal line from their room handset — typically by dialing the extension number directly without pressing 0 first (though this varies by property). Confusing 内線 with 外線 (external line) can cause guests to incur unexpected call charges or reach a wrong destination, so clarity in explanation is critical.
+When you give a guest an 内線番号, the standard phrasing is 内線〇〇番でございます. Make sure you also confirm how to access the internal line from their room handset, because the procedure varies by property. Typically guests dial the extension number directly without pressing 0 first, but don't assume they know that. Worth noting here: confusing 内線 with 外線 (the external line) can lead to unexpected charges on a guest's account or connect them to completely the wrong place, so be precise when explaining which line to use.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff must be able to clearly communicate 内線番号 (extension numbers) to gu
 
 ## Related Expressions
 
-- **外線** — the external line used for calls outside the hotel; guests must be reminded that 外線 may incur charges, unlike 内線 calls which are generally free within the property.
-- **内線番号** — the specific extension number assigned to a room or department; always repeat the number clearly and confirm the guest has noted it before ending the conversation.
+- **外線**: the external line for calls outside the hotel; remind guests that 外線 may incur charges, unlike 内線 calls which are generally free within the property
+- **内線番号**: the specific extension number assigned to a room or department; always repeat the number clearly and confirm the guest has it before ending the conversation
 
 ## Common Mistakes
 
-Learners frequently mix up 内線 and 外線, especially when explaining phone instructions to guests — a guest accidentally pressing 0 for an 外線 when they wanted an 内線 may reach an operator or incur charges. Another common error is omitting 番 when giving an extension number, saying 内線101 instead of the more natural 内線101番. Staff sometimes also use the plain form 内線につなぐ in guest-facing speech when the humble 内線におつなぎいたします is required.
+Students often mix up 内線 and 外線 when explaining phone instructions, and a guest who accidentally dials an 外線 instead of 内線 may reach an operator or get charged for an outside call. Another thing that trips people up: omitting 番 when giving an extension number. Saying 内線101 instead of 内線101番 sounds unnatural and slightly incomplete. And remember to match the register to the context: 内線につなぐ is plain-form speech, but in front of a guest you need 内線におつなぎいたします.
 
 ---
 
@@ -45,4 +45,4 @@ Learners frequently mix up 内線 and 外線, especially when explaining phone i
 
 **Correct Answer:** 内線 (internal / extension line)
 
-**Explanation:** 内線 connects internal departments instantly — when giving a guest an 内線番号, say 内線〇〇番でございます and confirm they know how to access the internal line (通常、客室電話から0を押さずにそのままお番号をお押しください).
+**Explanation:** 内線 connects internal departments instantly: when giving a guest an 内線番号, say 内線〇〇番でございます and confirm they know how to access the internal line (通常、客室電話から0を押さずにそのままお番号をお押しください).

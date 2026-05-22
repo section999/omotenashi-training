@@ -4,9 +4,12 @@ section: 28
 title: 緊急対応 (kinkyuu taiou)
 ---
 
-緊急対応 means "emergency response" and refers to the full set of actions, procedures, and communications activated when a serious and time-critical incident occurs at a hotel. This includes responses to fires, medical emergencies, natural disasters, security threats, and other situations requiring immediate intervention. In Japanese hotel management, 緊急対応 is codified into a 緊急対応マニュアル (emergency response manual) that every staff member is trained on. The concept reflects the understanding that when seconds matter, the quality of the response is determined not by improvisation but by how well staff have internalized their assigned roles. A well-executed 緊急対応 minimizes harm, projects calm authority, and maintains the hotel's duty of care to every guest on the premises.
+**Pronunciation:** [kin-kyuu **ta**-i-ou]
+**Register:** Formal, emergency operations and safety management
 
-Staff responsibilities within 緊急対応 vary by role: front desk staff typically manage guest communications and roll calls, security staff coordinate with emergency services, housekeeping assists with evacuation, and management oversees the overall response. The key language actions in a 緊急対応 include announcing the situation clearly (without causing panic), directing guests to safe zones, contacting emergency services (119番 for fire/ambulance, 110番 for police), and documenting the sequence of events for post-incident reporting. Regular drills (避難訓練) ensure that when 緊急対応 is activated for real, every team member acts with confidence and precision rather than confusion.
+緊急対応 means "emergency response" and covers the full set of actions, procedures, and communications that get activated when a serious, time-critical incident happens at a hotel. Fires, medical emergencies, natural disasters, security threats: these all fall under 緊急対応. Japanese hotels codify this into a 緊急対応マニュアル (emergency response manual) that every staff member is trained on, because when seconds matter, the quality of the response depends on preparation, not improvisation. A well-executed 緊急対応 minimises harm, projects calm authority to guests, and upholds the hotel's duty of care for everyone on the premises.
+
+Staff responsibilities within 緊急対応 differ by role. Front desk handles guest communications and roll calls, security coordinates with emergency services, housekeeping supports evacuation, and management oversees the overall response. The key language tasks in that moment include announcing the situation clearly without causing panic, directing guests to safe zones, contacting 119番 (fire/ambulance) or 110番 (police) as needed, and documenting the sequence of events for the post-incident report. In practice, teams that drill regularly with 避難訓練 (evacuation drills) act with far more confidence when 緊急対応 is triggered for real, because the procedures are already second nature.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff responsibilities within 緊急対応 vary by role: front desk staff typica
 
 ## Related Expressions
 
-- **応急処置 (oukyuu shochi)** — first aid; refers specifically to immediate medical intervention before professional help arrives; a component of 緊急対応 in medical incidents but narrower in scope
-- **避難誘導 (hinan yuudou)** — evacuation guidance; the specific act of directing people to safety during an emergency; one of the primary tasks within a broader 緊急対応
+- **応急処置 (oukyuu shochi)**: first aid; immediate medical intervention before professional help arrives. It's one component of 緊急対応 in medical incidents, but much narrower in scope than the full emergency response system.
+- **避難誘導 (hinan yuudou)**: evacuation guidance; the specific task of directing people to safety during an emergency. This is one of the primary responsibilities within a broader 緊急対応.
 
 ## Common Mistakes
 
-Learners sometimes confuse 緊急対応 with 応急処置 — while first aid (応急処置) is part of emergency response, 緊急対応 is the overarching coordinated response system, not just medical treatment. Another common error is treating 緊急対応 as something that only security or management staff need to know — in a hotel, every staff member has a defined role in the emergency response protocol and must be able to execute it. Staff should also avoid using 緊急対応 in front of guests during a non-emergency situation, as the term can cause alarm; internal communication should use clear codes or radio channels.
+Students often confuse 緊急対応 with 応急処置, thinking they're basically the same thing. First aid is one piece of emergency response, but 緊急対応 is the coordinated system as a whole. There's also a tendency among newer staff to assume 緊急対応 is someone else's job, something for security or management to worry about. That's not how it works. Every department has defined roles in the protocol and every staff member needs to be able to execute them. One more thing: avoid using 緊急対応 in front of guests during a non-emergency situation. It's a term that signals crisis, and using it out of context causes alarm rather than reassurance. Keep it in internal channels.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 緊急対応 with 応急処置 — while first aid (�
 
 **Correct Answer:** 緊急対応 (emergency response)
 
-**Explanation:** 緊急対応 (kinkyuu taiou) means emergency response — coordinated actions taken to handle a crisis. 注意 = caution, 点検中 = under inspection, 応急処置 = first aid.
+**Explanation:** 緊急対応 (kinkyuu taiou) means emergency response: coordinated actions taken to handle a crisis. 注意 = caution, 点検中 = under inspection, 応急処置 = first aid.

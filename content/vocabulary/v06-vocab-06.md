@@ -4,9 +4,9 @@ section: 6
 title: 忘れ物 (wasuremono)
 ---
 
-忘れ物 (wasuremono) refers to an item a guest has left behind, and its careful handling is one of the most visible expressions of omotenashi in Japanese hospitality. When a guest forgets something — a phone charger, a piece of jewellery, medication — the expectation at Japanese hotels and ryokan is that the item will be retrieved, properly stored, and actively returned, often through a phone call or follow-up message. This proactive approach reflects the omotenashi value of caring for the guest beyond the moment they depart. Most guests will never forget a call telling them their medication is safe.
+忘れ物 (wasuremono) refers to an item a guest has left behind, and its careful handling is one of the most visible expressions of omotenashi in Japanese hospitality. When a guest forgets something, a phone charger, a piece of jewellery, medication, the expectation at Japanese hotels and ryokan is that the item will be retrieved, properly stored, and actively returned, often through a phone call or follow-up message. This proactive approach reflects the omotenashi value of caring for the guest beyond the moment they depart. Most guests will never forget a call telling them their medication is safe.
 
-In practice, all items found in guest rooms after checkout must be logged immediately with a description, the room number, the date found, and the staff member's name. Items go into a designated 忘れ物保管場所 (lost-item storage area) at the front desk or housekeeping station. If the guest has already departed, staff are expected to make reasonable contact attempts — perishable items or medications get highest priority. Mailing lost items at the hotel's expense is considered standard practice at premium establishments.
+In practice, all items found in guest rooms after checkout must be logged immediately with a description, the room number, the date found, and the staff member's name. Items go into a designated 忘れ物保管場所 (lost-item storage area) at the front desk or housekeeping station. If the guest has already departed, staff are expected to make reasonable contact attempts, perishable items or medications get highest priority. Mailing lost items at the hotel's expense is considered standard practice at premium establishments.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, all items found in guest rooms after checkout must be logged immedi
 
 ## Common Mistakes
 
-A common error is storing found items without logging them properly, which makes retrieval nearly impossible when guests call to enquire days later. Another mistake is discarding items that appear to be rubbish — staff should always check with a supervisor before disposing of anything found in a guest room. The tricky part linguistically: avoid saying 「忘れましたよ」 (you forgot it) when returning items to a guest, as that direct phrasing can feel accusatory. Instead, use お忘れ物がございました (there was a forgotten item) — it keeps the tone warm and non-judgmental.
+A common error is storing found items without logging them properly, which makes retrieval nearly impossible when guests call to enquire days later. Another mistake is discarding items that appear to be rubbish: staff should always check with a supervisor before disposing of anything found in a guest room. The tricky part linguistically: avoid saying 「忘れましたよ」 (you forgot it) when returning items to a guest, as that direct phrasing can feel accusatory. Instead, use お忘れ物がございました (there was a forgotten item): it keeps the tone warm and non-judgmental.
 
 ---
 
@@ -45,5 +45,5 @@ A common error is storing found items without logging them properly, which makes
 
 **Correct Answer:** 忘れ物 (lost and found / forgotten item)
 
-**Explanation:** 忘れ物 means a forgotten item — reporting 忘れ物 promptly with proper documentation is a key omotenashi value, showing care for the guest even after departure.
+**Explanation:** 忘れ物 means a forgotten item: reporting 忘れ物 promptly with proper documentation is a key omotenashi value, showing care for the guest even after departure.
 

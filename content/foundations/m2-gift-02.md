@@ -1,33 +1,33 @@
 ---
 id: m2-gift
 section: 2
-title: Omiyage — The Art of the Travel Gift
+title: Omiyage, The Art of the Travel Gift
 ---
 
-**Omiyage (お土産)**, travel souvenirs brought back for family, friends, and colleagues, is one of the most widely practised gift-giving customs in Japan. It is so deeply embedded in social expectation that the souvenir shops at airports, train stations, and tourist destinations are among the most visited spaces in the country.
+**Omiyage (お土産)** refers to the souvenirs people bring back for family, friends, and colleagues after travelling. In Japan, this is not an optional nice-to-do. It is a deeply ingrained social expectation. Souvenir shops at airports, train stations, and tourist destinations are among the most visited spaces in the country, and for good reason: returning without omiyage for the people at home is genuinely awkward in Japanese social culture.
 
-The key quality of omiyage is that it should be **local and shareable**. The ideal omiyage is a food item that comes from the specific place visited and can be distributed among a group. The act of sharing reflects that the traveller was thinking of others even while away.
+The defining quality of good omiyage is that it should be **local and shareable**. The ideal is a food item that comes specifically from the place you visited and can be distributed among a group. The act of sharing it carries a message of its own: even while I was away, I was thinking of you.
 
 **What makes a good omiyage:**
-- **Regional specificity**: a product unique to the area, not something available everywhere
-- **Portionability**: individually wrapped pieces that can be distributed one by one
-- **Presentation**: a beautiful box or wrapping, because the visual impression matters before the box is even opened
-- **Perishability window**: fresh sweets should not be too short-lived; guests need time to travel home
+- **Regional specificity**: something unique to that area, not a product you can buy anywhere in the country
+- **Portionability**: individually wrapped pieces that can be handed out one at a time
+- **Presentation**: a well-designed box or wrapping, because the visual impression matters before anyone even opens it
+- **Perishability window**: fresh sweets cannot expire in two days; guests need enough time to actually get home
 
 **For hospitality professionals:**
-Staff in shops, lobbies, and concierge roles are frequently asked *"What is a good omiyage from here?"* This is a meaningful question. The guest is going to represent your property and region to their network. A thoughtful, specific recommendation (not a generic one) reflects well on your property and helps the guest succeed socially.
+Staff in shops, lobbies, and concierge roles get asked *"What is a good omiyage from here?"* constantly. That question deserves a real answer. The guest is about to represent your property and your region to their entire personal and professional network. A specific, thoughtful recommendation reflects well on where they stayed. A vague shrug or a generic suggestion does the opposite.
 
-Worth knowing: your top three omiyage recommendations — what they are, why they are local, what they taste like, and how long they keep.
+In practice, you should know your top three omiyage picks before anyone asks. What they are, why they are genuinely local, what they taste like, and how long they keep. Students often treat this as minor background knowledge, but it comes up in almost every guest interaction near checkout. Have that answer ready.
 
 ---
 
 ## Key Phrases
 
 **こちらのお土産はいかがでしょうか。** *(Kochira no o-miyage wa ikaga deshō ka.)*
-"How about this as a souvenir?" — used when making an omiyage recommendation to a guest
+"How about this as a souvenir?": used when making an omiyage recommendation to a guest
 
 **こちらは当地ならではの一品でございます。** *(Kochira wa tōchi nara dewa no ippin de gozaimasu.)*
-"This is an item unique to this region." — emphasises the local specificity that defines quality omiyage
+"This is an item unique to this region.": emphasises the local specificity that defines quality omiyage
 
 ---
 
@@ -42,4 +42,4 @@ Worth knowing: your top three omiyage recommendations — what they are, why the
 
 **Correct Answer:** It allows the gift to be distributed among multiple people, one portion at a time
 
-**Explanation:** The social function of omiyage is sharing — bringing something back for everyone. Individual wrapping makes it easy to distribute the gift among colleagues or family members, which is the cultural expectation.
+**Explanation:** The social function of omiyage is sharing: bringing something back for everyone. Individual wrapping makes it easy to distribute the gift among colleagues or family members, which is the cultural expectation.

@@ -4,9 +4,12 @@ section: 21
 title: 乗り場 (noriba)
 ---
 
-乗り場 (noriba) is a compound of 乗り (nori, from 乗る — to board/ride) and 場 (ba, place/spot), literally meaning "the place where one boards." It designates any official, designated area where passengers wait for and board a specific mode of transport. 乗り場 signage is standard at Japanese train stations, airports, and ferry terminals, and each mode typically has a clearly numbered or colour-coded 乗り場 to prevent confusion. In a busy urban station, you might find 1番乗り場 (Number 1 boarding area) through multiple numbered platforms and bus bays.
+**Pronunciation:** [no-ri-**ba**]
+**Register:** Neutral to formal, signage, guest directions, concierge communication
 
-Hotel staff frequently need to direct guests to the correct 乗り場, particularly for airport buses, limousine coaches, and sightseeing bus services that depart from fixed points. Precise instructions are important: rather than just saying "go to the bus stop," a skilled staff member will say 「駅の南口を出ていただきますと、バスの乗り場がすぐ左手にございます」("If you exit from the south gate of the station, the bus boarding area is immediately to your left"). Providing the 乗り場 number, if applicable, further reduces the chance of a guest boarding the wrong service.
+乗り場 combines 乗り (from 乗る, to board) and 場 (place/spot), giving you "the place where one boards." It marks any official, designated area where passengers wait for and board a specific mode of transport. You'll see 乗り場 signage at train stations, airports, and ferry terminals, often numbered or colour-coded to keep things orderly. In a large urban station, you might be directing someone to 1番乗り場 for the airport bus while 2番乗り場 is for a different route entirely, so precision with this word matters.
+
+Hotel staff need to direct guests to the correct 乗り場 on a daily basis, especially for airport coaches, limousine buses, and sightseeing services that depart from fixed points. Vague directions don't serve guests well here. In practice, a skilled staff member says something like 「駅の南口を出ていただきますと、バスの乗り場がすぐ左手にございます」 rather than just "go to the bus stop," because that sentence gives an exit name, a transport type, and a spatial reference all at once. When a 乗り場 number is available, include it: it removes the last remaining source of confusion.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff frequently need to direct guests to the correct 乗り場, particula
 
 ## Related Expressions
 
-- **バス停 (basu-tei)** — a bus stop; a more general term for any point along a bus route where passengers board, whereas 乗り場 implies a designated, organised departure facility
-- **のりば (noriba written in hiragana)** — the same word often written in hiragana on station signage to make it more readable for all age groups and foreign visitors
+- **バス停 (basu-tei)**: a bus stop; a more general term for any boarding point along a bus route, while 乗り場 implies a designated, organized departure facility with specific structure
+- **のりば (noriba written in hiragana)**: the same word written in hiragana, which appears frequently on station signage to improve readability for younger visitors and international guests
 
 ## Common Mistakes
 
-Learners sometimes confuse 乗り場 with ホーム (hoomu, platform), but ホーム specifically refers to the railway platform alongside the track, while 乗り場 can apply to any transport type. Using ホーム when directing someone to a bus or taxi bay would be incorrect and confusing. Another mistake is omitting the transport type when giving directions — saying just 「乗り場はあちらです」 is ambiguous if multiple transport modes are nearby; always specify 「バスの乗り場」 or 「タクシーの乗り場」 for clarity.
+Students often mix up 乗り場 with ホーム (platform). ホーム refers specifically to the trackside platform at a railway station: it's the wrong word for a bus bay or taxi stand. Using ホーム when directing someone to a バス乗り場 would send them looking for something that doesn't exist at that location. One more thing: always specify the transport type when giving directions with 乗り場. Saying 「乗り場はあちらです」 is ambiguous if multiple transport modes are nearby. 「バスの乗り場」 or 「タクシーの乗り場」 makes the direction unambiguous.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 乗り場 with ホーム (hoomu, platform), but ホ�
 
 **Correct Answer:** 乗り場 (boarding area / stop)
 
-**Explanation:** 乗り場 (noriba) means boarding area — the designated spot for passengers to board buses, taxis, or other transport. 切符 = ticket, 地図アプリ = map app, 料金表 = price list.
+**Explanation:** 乗り場 (noriba) means boarding area: the designated spot for passengers to board buses, taxis, or other transport. 切符 = ticket, 地図アプリ = map app, 料金表 = price list.

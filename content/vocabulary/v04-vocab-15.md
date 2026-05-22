@@ -4,9 +4,9 @@ section: 15
 title: モップ (moppu)
 ---
 
-モップ is a wet-cleaning mop used to wash hard floor surfaces such as marble lobbies, corridor tiles, and bathroom floors in hotels and ryokan. The word is a direct loanword from English, making it immediately recognizable, but proper technique — including wringing the mop to appropriate dampness and using the correct cleaning solution — is what separates professional housekeeping from casual cleaning. In high-end hospitality, visible effort and correct tool selection signal to guests that their environment is being maintained to exacting standards.
+モップ is a wet-cleaning mop used to wash hard floor surfaces: marble lobbies, corridor tiles, bathroom floors, and similar areas in hotels and ryokan. The word is a direct English loanword, so it is easy to recognize. That said, good モップ technique is what separates professional housekeeping from casual wiping. That means wringing the mop to the right dampness, choosing the correct cleaning solution, and working in a systematic pattern. In high-end hospitality, guests notice floors, and a streaky or damp-smelling corridor tells them something about the attention to detail across the whole property.
 
-In daily hotel operations, staff refer to モップ when discussing floor-cleaning schedules, selecting the right cleaning tools from the supply room, or responding to spills in corridors and guest rooms. A common phrase is モップで床を清掃いたします ("we will clean the floor with a mop"), which uses the polite humble form appropriate when informing guests or supervisors of cleaning activity. Staff should also know when to choose モップ over a 雑巾 (cloth) or 掃除機 (vacuum), as each tool is suited to a specific type of soiling.
+In daily operations, staff refer to モップ when discussing floor-cleaning schedules, selecting tools from the supply room, or dealing with spills in corridors or guest rooms. A useful phrase is モップで床を清掃いたします ("we will clean the floor with a mop"), which uses the humble form appropriate for informing guests or supervisors. Worth noting: staff should also know when to use モップ versus a 雑巾 (cloth) or 掃除機 (vacuum). Each tool fits a specific type of surface and soiling, and reaching for the wrong one costs time.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In daily hotel operations, staff refer to モップ when discussing floor-cleani
 
 ## Related Expressions
 
-- **雑巾 (zoukin)** — A cloth used for wiping surfaces by hand. While モップ covers large floor areas efficiently, 雑巾 is used for detailed wiping of tables, shelves, and tight corners where a mop cannot reach.
-- **バケツ (baketsu)** — A bucket used alongside a mop to hold cleaning water or solution. The two items are typically mentioned together: モップとバケツ (mop and bucket) as a set.
+- **雑巾 (zoukin)**: A cloth used for wiping surfaces by hand. While モップ covers large floor areas efficiently, 雑巾 is used for detailed wiping of tables, shelves, and tight corners where a mop cannot reach.
+- **バケツ (baketsu)**: A bucket used alongside a mop to hold cleaning water or solution. The two items are typically mentioned together: モップとバケツ (mop and bucket) as a set.
 
 ## Common Mistakes
 
-Learners sometimes use モップ when referring to dry sweeping, but モップ specifically implies wet cleaning — for dry sweeping, ほうき (broom) or 掃除機 (vacuum) is the correct term. Another common error is omitting the tool particle で when forming sentences; the correct pattern is モップ**で**清掃します, not モップを清掃します. Finally, in guest-facing situations, always embed モップ within a humble verb construction such as 清掃いたします rather than the plain 清掃します.
+モップ is a wet-cleaning tool. Students sometimes use it in contexts that call for dry sweeping, which is the job of ほうき (broom) or 掃除機 (vacuum). Another common error is omitting the particle で: the correct pattern is モップ**で**清掃します, not モップを清掃します. In guest-facing situations, always embed モップ within a humble verb construction like 清掃いたします rather than the plain 清掃します.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes use モップ when referring to dry sweeping, but モップ s
 
 **Correct Answer:** モップで床を清掃いたします (we will clean the floor with a mop)
 
-**Explanation:** モップで床を清掃いたします — the で particle marks the tool being used; 清掃いたします is the humble form appropriate for hotel housekeeping staff.
+**Explanation:** モップで床を清掃いたします: the で particle marks the tool being used; 清掃いたします is the humble form appropriate for hotel housekeeping staff.

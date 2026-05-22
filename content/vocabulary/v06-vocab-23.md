@@ -4,9 +4,12 @@ section: 23
 title: 対応 (taiou)
 ---
 
-対応 is composed of the characters for "face/oppose" (対) and "respond/answer" (応), conveying the idea of meeting a situation face-on and responding appropriately. In Japanese hospitality, 対応 is one of the most valued competencies: it encompasses not just the physical action taken but also the speed, attitude, and communication quality that accompany it. A guest who receives poor 対応 — slow, vague, or dismissive responses — is unlikely to return, regardless of how beautiful the property is. Mastery of 対応 language is therefore central to professional development in the service industry.
+**Pronunciation:** [tai-**ou**]
+**Register:** Formal, standard professional service vocabulary
 
-In daily operations, 対応 is used broadly: handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is especially important — it is a commitment both to action and to speed, which together form the guest's expectation of professional service. Following up after the 対応 is complete (「対応が完了いたしました」) closes the loop and demonstrates reliability.
+対応 is built from two kanji: 対, meaning "to face" or "to oppose," and 応, meaning "to respond" or "to answer." Together they describe the act of meeting a situation head-on and doing something about it. In Japanese hospitality, 対応 is one of the most valued competencies a staff member can demonstrate. It covers not just the physical action taken, but the speed, attitude, and communication quality that surround it. A guest who receives slow, vague, or dismissive responses is unlikely to return, no matter how beautifully appointed the property is.
+
+In daily operations, you will use 対応 broadly. It covers handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). Worth noting is the phrase 「迅速に対応いたします」, which is a commitment to both action and speed simultaneously. Following up once the task is done (「対応が完了いたしました」) closes the loop and shows the guest that you followed through.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In daily operations, 対応 is used broadly: handling complaints (「クレー�
 
 ## Related Expressions
 
-- **処理 (shori)** — Means "processing" or "handling" with a more administrative, mechanical nuance — used for paperwork, data, or systematic tasks (e.g., チェックイン処理, check-in processing). Unlike 対応, which emphasizes the relational quality of the response, 処理 is task-focused and less appropriate for describing person-to-person service interactions.
-- **解決 (kaiketsu)** — Means "resolution" or "solving," and while related, it represents the outcome of a successful 対応 rather than the act of responding itself. In escalation language: 「対応いたします」 begins the process; 「解決いたしました」 concludes it. Both words together give guests confidence that an issue is both being handled and will be resolved.
+- **処理 (shori)**: has a more administrative, task-processing feel; it handles paperwork, data, and systematic procedures like チェックイン処理. Unlike 対応, which captures the relational quality of a response, 処理 is mechanical and not suitable for describing person-to-person service moments.
+- **解決 (kaiketsu)**: means "resolution" and represents the outcome of a successful 対応 rather than the act of responding itself. Think of it as the two-step sequence: 「対応いたします」 opens the process, and 「解決いたしました」 closes it. Used together, they reassure the guest that the issue is being handled and will be resolved.
 
 ## Common Mistakes
 
-A common error is using 対応する in its plain form with guests — 「対応します」 — which lacks the formal humility expected in hotel service; the correct form is 「対応いたします」. Learners also sometimes overuse 対応 for situations that warrant more specific verbs (e.g., using 「対応いたします」 for every task instead of specifying 「ご案内いたします」 for guiding or 「お持ちいたします」 for bringing items). Additionally, promising 対応 without following through — or without confirming completion to the guest — is a service failure even if the underlying task was completed correctly.
+Students often use 対応する in plain form with guests: 「対応します」 lacks the humble register that hotel service demands. The correct form is always 「対応いたします」. Another pattern to avoid is defaulting to 対応 for every task when a more specific verb would serve better. Saying 「対応いたします」 when you mean 「ご案内いたします」 or 「お持ちいたします」 is vague and less reassuring to the guest. In practice, the most consequential mistake is promising 対応 and then not confirming completion. Even if the underlying task was handled perfectly, a guest who never heard back will feel the issue was dropped.
 
 ---
 
@@ -44,5 +47,5 @@ A common error is using 対応する in its plain form with guests — 「対応
 
 **Correct Answer:** 迅速に対応いたします (we will respond promptly)
 
-**Explanation:** 迅速に対応いたします — 迅速に (swiftly) signals urgency while 対応いたします anchors it in polite commitment; together they tell the guest that speed and professionalism are both guaranteed.
+**Explanation:** 迅速に対応いたします: 迅速に (swiftly) signals urgency while 対応いたします anchors it in polite commitment; together they tell the guest that speed and professionalism are both guaranteed.
 

@@ -4,9 +4,12 @@ section: 10
 title: 観光地 (kankouchi)
 ---
 
-観光地 is a location that attracts visitors due to its scenic beauty, historical significance, cultural richness, or entertainment value. Japan has an extraordinary number of 観光地, ranging from ancient temples and castles to modern theme parks and natural landscapes. In the hospitality industry, knowing the local 観光地 around your property is fundamental — guests expect front desk staff and concierges to be knowledgeable guides who can recommend where to go, how to get there, and what to see at each location. An enthusiastic, well-informed response to "What are the best 観光地 nearby?" is one of the most memorable moments of omotenashi a guest can experience.
+**Pronunciation:** [kan-**kou**-chi]
+**Register:** Neutral/Formal, used in hospitality, tourism, and everyday conversation
 
-Beyond simple recommendations, hospitality professionals should understand the seasonal dynamics of 観光地 — cherry blossom season at certain spots, autumn foliage at others, and summer festivals at specific shrines. Knowing peak visiting times helps staff advise guests on when to arrive to avoid crowds, how long to allow, and which nearby spots might be less visited but equally rewarding. This level of local expertise transforms a hotel or ryokan into a trusted gateway to the surrounding area.
+観光地 is a place that attracts visitors: for its scenery, historical significance, cultural richness, entertainment, or natural beauty. Japan has an extraordinary range of them, from ancient temples and castle towns to volcanic hot springs and modern theme parks. What this word means for your daily work is that knowing the 観光地 around your property isn't just a nice extra: it's a core part of the job. Guests expect front desk staff and concierges to be knowledgeable local guides, and a confident, enthusiastic answer to "What are the best 観光地 nearby?" is one of the most impactful omotenashi moments you can create.
+
+Beyond basic recommendations, good hospitality staff understand the seasonal dynamics of local 観光地. Cherry blossom season transforms certain spots into something magical, autumn foliage does the same for others, and summer festivals draw crowds to specific shrines and parks. Knowing peak visiting times allows you to advise guests on when to arrive to beat the crowds, how long to allow, and which lesser-known spots nearby might be equally rewarding with a fraction of the queue. That level of local expertise is what turns your hotel or ryokan into a trusted gateway to the region, not just a place to sleep.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Beyond simple recommendations, hospitality professionals should understand the s
 
 ## Related Expressions
 
-- **名所 (meisho)** — "famous place/landmark"; a more specific term that emphasises the historical or cultural prestige of a location, whereas 観光地 is broader and simply means any place tourists visit.
-- **穴場 (anaba)** — "hidden gem / less-known spot"; a contrast to the well-known 観光地, referring to places that are excellent but not yet crowded with tourists — a favourite type of recommendation among knowledgeable concierges.
+- **名所 (meisho)**: a famous or historically prestigious place; while 観光地 simply describes any place tourists visit, 名所 carries the weight of established cultural or historical recognition.
+- **穴場 (anaba)**: a hidden gem or lesser-known spot; the contrast to the crowded 観光地, and often the most appreciated type of recommendation from a knowledgeable concierge.
 
 ## Common Mistakes
 
-Learners often confuse 観光地 with 名所 — while they overlap, 名所 implies the site is historically or culturally renowned, while 観光地 simply means a place people go for sightseeing. A grammatical error to avoid is saying 観光地に行きたい without a particle; the correct form is 観光地へ行きたい or 観光地に行きたい, both of which are acceptable. Also note that 観光地 is a noun and cannot function directly as an adjective without modification — say 有名な観光地 (a famous tourist spot) rather than just 観光地スポット.
+Students often use 観光地 and 名所 as if they mean the same thing, but the nuance matters. 名所 implies a site with genuine historical or cultural prestige, while 観光地 simply means a place people visit for tourism purposes. A recently opened theme park might qualify as a 観光地 but probably not a 名所. On grammar, note that 観光地 is a noun and can't function directly as an adjective. Say 有名な観光地 for "a famous tourist spot," not 観光地スポット. One more thing on particles: both 観光地へ行く and 観光地に行く are grammatically correct, so you'll hear both from native speakers.
 
 ---
 
@@ -41,4 +44,4 @@ Learners often confuse 観光地 with 名所 — while they overlap, 名所 impl
 
 **Answer:** 観光地
 
-**Explanation:** 観光地 (kankouchi) means tourist spot — a location of interest such as a landmark, park, or cultural site that attracts visitors.
+**Explanation:** 観光地 (kankouchi) means tourist spot: a location of interest such as a landmark, park, or cultural site that attracts visitors.

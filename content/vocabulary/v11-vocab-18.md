@@ -4,9 +4,12 @@ section: 18
 title: 接続不良 (setsuzoku furyou)
 ---
 
-接続不良 describes a weak, unstable, or degraded connection — one where the call does not drop completely but the audio is interrupted, choppy, or delayed. In hotels, this can be caused by congested lines, poor signal in certain rooms, or infrastructure issues. Because guests often make important calls (business calls, international calls, emergency calls) from their rooms or the lobby, 接続不良 can significantly affect their experience and must be addressed swiftly and professionally.
+**Pronunciation:** [se-tsu-zo-ku-**FU**-ryou]
+**Register:** Formal/Technical, used in guest communication and maintenance reporting
 
-When a guest reports 接続不良, staff should acknowledge the issue, offer an alternative line or location, and escalate to maintenance if needed. Typical responses include 接続不良でご不便をおかけしております (I apologize for the inconvenience caused by the poor connection) and 別の回線をご用意いたします (we will prepare a different line). Reporting to maintenance should specify 接続不良 rather than 切断, since the two require different diagnostic approaches.
+接続不良 describes a weak, unstable, or degraded connection. The call has not dropped completely, but the audio is choppy, delayed, or intermittently cutting out. Hotels are particularly sensitive to this issue because guests often make calls that matter from their rooms: business calls, international check-ins with family, emergency contacts. A room with chronic 接続不良 is not just an inconvenience, it is a real problem, and addressing it swiftly is part of delivering on the hotel's service promise.
+
+When a guest reports 接続不良, the response follows a clear structure: acknowledge the issue, offer a practical alternative, and escalate to maintenance if needed. Useful phrases include 接続不良でご不便をおかけしております (I apologize for the inconvenience caused by the poor connection) and 別の回線をご用意いたします (we will prepare a different line). In practice, when you report the issue internally, use the term 接続不良 specifically rather than just saying "the phone is bad." Maintenance teams diagnose 接続不良 differently from 切断, and accurate language gets the guest back to a working line faster.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest reports 接続不良, staff should acknowledge the issue, offer an 
 
 ## Related Expressions
 
-- **切断 (setsudan)** — A complete disconnection where the call ends abruptly. While 接続不良 is intermittent and the call remains partially active, 切断 means the line is fully severed and a callback is required. Distinguishing between these two when reporting to maintenance is important for accurate diagnosis.
-- **回線 (kaisen)** — The line or circuit through which the connection is made. 接続不良 is often a symptom of a problem with the 回線, so these two terms frequently appear together in maintenance reports and guest explanations.
+- **切断 (setsudan)**: a complete disconnection where the call ends abruptly; while 接続不良 is intermittent and the call remains at least partially active, 切断 means the line is fully severed and a callback is required.
+- **回線 (kaisen)**: the line or circuit through which the connection is made; 接続不良 is often a symptom of a problem with the 回線, so these two terms appear together naturally in maintenance reports and guest explanations.
 
 ## Common Mistakes
 
-The most common mistake is using 切断 and 接続不良 interchangeably — they describe fundamentally different states and require different responses. Another error is failing to offer a practical solution when informing a guest of 接続不良; simply stating the problem without an alternative (such as a different room phone or the lobby line) is insufficient in a hospitality context. Learners should also note that 接続不良 is a noun phrase — to use it in a sentence, it must be attached to a verb or copula (接続不良です / 接続不良が発生しています), not used alone.
+Students often use 切断 and 接続不良 as if they are the same word, but they describe fundamentally different situations that require different responses. 接続不良 is intermittent; 切断 is a complete break. Worth noting: when telling a guest about 接続不良, always offer a concrete solution alongside the acknowledgment. Saying only 接続不良です without suggesting a different phone or the lobby line leaves the guest with a problem and no path forward, which is exactly the opposite of omotenashi. One more thing: 接続不良 is a noun phrase and needs a verb or copula to work in a sentence, so practice attaching 接続不良です or 接続不良が発生しています until it feels natural.
 
 ---
 
@@ -45,4 +48,4 @@ The most common mistake is using 切断 and 接続不良 interchangeably — the
 
 **Correct Answer:** 接続不良 (poor connection)
 
-**Explanation:** 接続不良 vs 切断 — 接続不良 is intermittent (断続的に途切れる) while 切断 is a complete break; when reporting to maintenance, specifying which helps them diagnose faster and reduces the guest's total time without a working line.
+**Explanation:** 接続不良 vs 切断: 接続不良 is intermittent (断続的に途切れる) while 切断 is a complete break; when reporting to maintenance, specifying which helps them diagnose faster and reduces the guest's total time without a working line.

@@ -4,9 +4,9 @@ section: 2
 title: チェックイン (check-in)
 ---
 
-チェックイン is the formal process by which a guest registers upon arriving at a hotel, ryokan, or similar accommodation. It encompasses confirming the reservation, verifying identification, explaining room details and hotel facilities, collecting payment information, and issuing the room key. This moment is considered the most critical touchpoint in Japanese hospitality because it shapes the guest's entire impression of the property. Staff are trained to complete チェックイン smoothly and warmly, treating it not merely as an administrative task but as a genuine welcome ritual.
+チェックイン is the formal process by which a guest registers upon arriving at a hotel, ryokan, or similar accommodation. It covers confirming the reservation, verifying identification, explaining room details and hotel facilities, collecting payment information, and issuing the room key. This moment tends to shape the guest's entire impression of the property, which is why staff treat it not merely as an administrative task but as a genuine welcome ritual.
 
-From a practical standpoint, the チェックイン process requires staff to speak clearly, use appropriate honorifics when referring to the guest's name and reservation, and guide the guest step by step without rushing. Phrases such as チェックインでございますか are used to confirm the guest's purpose upon approach, and かしこまりました is the expected response once the purpose is understood. In busy periods, managing a queue politely while ensuring each guest feels individually attended to is a hallmark of skilled front desk performance.
+In practice, the チェックイン process requires staff to speak clearly, use appropriate honorifics when referring to the guest's name and reservation, and guide the guest step by step without rushing. チェックインでございますか confirms the guest's purpose upon approach, and かしこまりました is the expected response once that purpose is understood. In busy periods, managing a queue politely while ensuring each guest feels individually attended to is a hallmark of skilled front desk performance.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ From a practical standpoint, the チェックイン process requires staff to sp
 
 ## Related Expressions
 
-- **チェックアウト (chekku-auto)** — the departure counterpart; always pair your knowledge of チェックイン procedures with チェックアウト so you can handle both ends of a guest's stay.
-- **フロント手続き (furonto tetsuzuki)** — "front desk procedures"; a broader phrase that encompasses チェックイン as well as other administrative processes at the front desk.
+- **チェックアウト (chekku-auto)**: the departure counterpart; always pair your knowledge of チェックイン procedures with チェックアウト so you can handle both ends of a guest's stay.
+- **フロント手続き (furonto tetsuzuki)**: "front desk procedures"; a broader phrase that encompasses チェックイン as well as other administrative processes at the front desk.
 
 ## Common Mistakes
 
-A frequent error is asking チェックインしますか? in place of the more polite チェックインでございますか? — the former sounds abrupt and places the action on the guest rather than confirming their purpose graciously. Learners also sometimes omit the honorific ご before 予約 when verifying a reservation, which reduces the level of respect conveyed. Finally, avoid rushing through the チェックイン explanation of facilities; in Japanese hospitality culture, a thorough, calm briefing signals attentiveness, not inefficiency.
+A frequent error is asking チェックインしますか? rather than チェックインでございますか?. The former sounds abrupt and places the action on the guest, while the latter confirms their purpose graciously. Students also sometimes drop the honorific ご before 予約 when verifying a reservation, which quietly reduces the level of respect conveyed. Worth noting too: avoid rushing through the facility explanation during チェックイン. In Japanese hospitality culture, a thorough, calm briefing reads as attentiveness, not inefficiency.
 
 ---
 

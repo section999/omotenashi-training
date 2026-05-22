@@ -4,9 +4,9 @@ section: 35
 title: QRコード (kyuu aru koodo)
 ---
 
-QRコード stands for "Quick Response Code," a type of two-dimensional barcode that can store data and be scanned rapidly by smartphone cameras. In Japanese hospitality, QRコード have become a standard interface for 電子決済 (electronic payment), allowing guests to scan a displayed code with apps such as PayPay, LINE Pay, or d-払い to complete transactions instantly without physical contact. Beyond payments, QRコード are also used in hotels and restaurants for digital menus, Wi-Fi access, and informational guides, making them a versatile tool in modern omotenashi service. The ubiquity of QRコード in Japan reflects the country's embrace of efficient, technology-driven hospitality solutions.
+QRコード stands for "Quick Response Code," and it's now one of the most common payment interfaces you'll encounter in Japanese hospitality. Guests open apps like PayPay, LINE Pay, or d-払い, scan the code you display, and the transaction completes without any physical contact. Beyond payments, QRコード show up for digital menus, Wi-Fi access, and informational guides, so you'll be working with them constantly in a modern hotel or restaurant environment.
 
-When guiding a guest through a QRコード payment, staff should present the code clearly — ensuring it is clean, undamaged, and displayed at a comfortable viewing angle — and confirm that the amount shown in the guest's app matches the total before they confirm the payment. After the guest completes the scan, staff must wait for the 決済完了 (payment complete) confirmation on their own terminal before concluding the transaction. If a guest's app fails to read the QRコード, staff should check for obstructions on the code or suggest switching to an alternative payment method calmly and without making the guest feel at fault.
+When you're guiding a guest through a QRコード payment, present the code clearly at a comfortable angle, make sure the surface is clean and undamaged, and confirm that the amount showing in the guest's app matches the actual total before they confirm. Then wait for the 決済完了 (payment complete) signal on your own terminal before wrapping up. Worth noting: if a guest's app refuses to read the code, check for anything blocking the scanner or interfering with the display, and offer an alternative payment method calmly without any hint of frustration.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When guiding a guest through a QRコード payment, staff should present the cod
 
 ## Related Expressions
 
-- **電子決済 (denshi kessai)** — electronic payment; QRコード is one of the primary methods through which 電子決済 is executed in Japan
-- **バーコード (bākōdo)** — barcode; a one-dimensional predecessor to the QRコード, still used in retail but less versatile for payment purposes
+- **電子決済 (denshi kessai)**: electronic payment; QRコード is one of the main delivery methods for 電子決済 in Japan, so the two concepts go hand in hand
+- **バーコード (bākōdo)**: barcode; a one-dimensional predecessor to the QRコード, still found in retail but far less flexible when it comes to handling payments
 
 ## Common Mistakes
 
-Learners sometimes present a QRコード without first confirming the amount, leading to situations where the guest pays the wrong total. Another mistake is not checking that the QRコード is clearly readable — a damaged or dirty code will fail to scan and frustrate the guest. Staff should also be aware that different payment apps may have different scanning procedures and be ready to assist guests who are unfamiliar with the process.
+Students often present a QRコード before confirming the amount, which means the guest can end up paying the wrong total. That's a hard situation to fix after the fact, so make amount confirmation a habit before you display the code. A dirty or physically damaged code will simply refuse to scan, so check the condition of any printed code regularly. Different payment apps also have slightly different scanning procedures, so be ready to guide guests who are unfamiliar rather than assuming they'll figure it out themselves.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes present a QRコード without first confirming the amount, le
 
 **Correct Answer:** QRコード (QR code)
 
-**Explanation:** QRコード payments are now ubiquitous in Japan — when presenting a QRコード, ensure the amount displayed on screen matches what the guest is paying and confirm 決済完了 (payment complete) on your own terminal before allowing the guest to leave.
+**Explanation:** QRコード payments are now ubiquitous in Japan: when presenting a QRコード, ensure the amount displayed on screen matches what the guest is paying and confirm 決済完了 (payment complete) on your own terminal before allowing the guest to leave.
 

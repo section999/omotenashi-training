@@ -4,9 +4,12 @@ section: 22
 title: 使用禁止 (shiyou kinshi)
 ---
 
-使用禁止 (shiyou kinshi) means "do not use" or "use prohibited" — a directive that restricts access to a particular device, facility, or area. The compound combines 使用 (use, utilisation) and 禁止 (prohibition, ban), making it one of the clearest and most unambiguous safety communications in a Japanese hotel. Unlike 点検中 (under inspection), which implies a temporary pause pending a check, 使用禁止 carries the force of a rule — the facility cannot and must not be used until the prohibition is lifted. Common contexts in hotels include pool closures for water quality testing, out-of-order gym equipment, malfunctioning kitchen appliances, or areas sealed following an incident.
+**Pronunciation:** [shi-**you** **kin**-shi]
+**Register:** Formal, facility restrictions and guest safety communication
 
-When posting a 使用禁止 notice, staff must ensure it is clearly visible at every access point to the restricted facility and that the reason for the prohibition is communicated, either on the sign or verbally. Guests should never be left guessing — providing a brief explanation such as 安全確認のため (for safety verification) or 設備修理のため (for equipment repair) reassures guests that the restriction is purposeful and temporary. In cases where the prohibition affects a service the guest was expecting — such as a pool included in their booking — it is important to offer alternatives or compensation as appropriate. Compliance monitoring is also a staff duty; if a guest disregards the 使用禁止 sign, staff must intervene calmly and politely to prevent injury or damage.
+使用禁止 means "do not use" or "use prohibited," a directive that restricts access to a particular device, facility, or area. The compound combines 使用 (use) and 禁止 (prohibition), making it one of the clearest safety communications you will encounter in a Japanese hotel. Unlike 点検中 (under inspection), which implies a temporary pause while something is being checked, 使用禁止 has the weight of a rule behind it: the facility cannot and must not be used until the prohibition is formally lifted. You will see this applied to pools closed for water quality testing, out-of-order gym equipment, malfunctioning kitchen appliances, or areas sealed after an incident.
+
+When you post a 使用禁止 notice, make sure it is visible at every access point to the restricted area and that the reason is communicated alongside it, whether on the sign itself or in person. Guests should never be left guessing. A short explanation like 安全確認のため (for safety verification) or 設備修理のため (for equipment repair) reassures guests that the restriction is purposeful and temporary rather than arbitrary. Students often forget that when 使用禁止 affects a service the guest was expecting, such as a pool included in their booking, you also need to offer alternatives or compensation as appropriate. One more thing: monitoring compliance is part of your job too. If a guest ignores the sign, intervene calmly, politely, and without making them feel embarrassed.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When posting a 使用禁止 notice, staff must ensure it is clearly visible at e
 
 ## Related Expressions
 
-- **立入禁止 (tachiiri kinshi)** — no entry; while 使用禁止 prohibits operation of a specific device or facility, 立入禁止 prohibits physical access to an entire area or zone, representing a broader spatial restriction.
-- **故障中 (koshouchuu)** — out of order; used specifically when a device is broken or malfunctioning, as opposed to 使用禁止, which may be imposed even on a functioning facility for safety or administrative reasons.
+- **立入禁止 (tachiiri kinshi)**: no entry; while 使用禁止 prohibits operating a specific device or facility, 立入禁止 prohibits physically entering an area or zone. It is a broader spatial restriction, not tied to a particular piece of equipment.
+- **故障中 (koshouchuu)**: out of order; used specifically when a device is broken or malfunctioning. The key difference from 使用禁止 is that 故障中 describes a technical problem, whereas 使用禁止 may be imposed on a perfectly functional facility for safety or administrative reasons.
 
 ## Common Mistakes
 
-Learners often confuse 使用禁止 with 故障中 (out of order) — the key distinction is that 使用禁止 is an active prohibition imposed by management for any reason, while 故障中 describes a specific technical malfunction. Another error is posting 使用禁止 signs without verbal follow-up; in omotenashi culture, written notices are supplementary, not a substitute for personal communication. When explaining the restriction to guests, avoid abrupt language — use softeners such as 誠に恐れ入りますが ("I am truly sorry to trouble you, but...") before delivering the prohibition to maintain warmth even in restrictive situations.
+Confusing 使用禁止 with 故障中 is very common. Remember: 使用禁止 is an active prohibition imposed by management for any reason, while 故障中 describes a specific technical malfunction. A pool can be 使用禁止 even though the equipment is working perfectly, simply because the water quality failed a test. In practice, the next most frequent mistake is treating the posted sign as the end of the job. In omotenashi culture, written notices are supplements to personal communication, not replacements for it. When you do speak to a guest about a 使用禁止 situation, always soften the message. Start with 誠に恐れ入りますが (I am truly sorry to trouble you, but...) before explaining the restriction, and you will find that most guests receive the news graciously.
 
 ---
 
@@ -41,4 +44,4 @@ Learners often confuse 使用禁止 with 故障中 (out of order) — the key di
 
 **Answer:** 使用禁止
 
-**Explanation:** 使用禁止 (shiyou kinshi) means do not use — a prohibitive sign preventing use of a facility or device for safety reasons.
+**Explanation:** 使用禁止 (shiyou kinshi) means do not use: a prohibitive sign preventing use of a facility or device for safety reasons.

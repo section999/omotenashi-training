@@ -4,9 +4,9 @@ section: 14
 title: 指導 (shidou)
 ---
 
-指導 means instruction, guidance, or supervision, and it plays a central role in Japanese workplace culture. In hospitality settings, 指導 is how senior staff transmit the standards of omotenashi to new employees. It encompasses teaching procedures, correcting errors, demonstrating proper technique, and offering constructive feedback. The concept goes beyond simple instruction — it carries a sense of nurturing professional development with patience and care. Hotels place great importance on thorough 指導 during onboarding, as first impressions with guests depend on well-trained staff.
+指導 means instruction, guidance, or supervision, and it plays a central role in Japanese workplace culture. In hospitality settings, 指導 is how senior staff pass the standards of omotenashi on to new employees. It covers teaching procedures, correcting errors, demonstrating proper technique, and offering constructive feedback. The concept goes beyond simple instruction, it carries a sense of nurturing professional development with patience and care. Hotels place great importance on thorough 指導 during onboarding, because first impressions with guests depend on well-trained staff.
 
-In practice, a senior concierge or front desk supervisor will give 指導 by walking a new hire through actual guest interactions, then debriefing afterward to highlight areas for improvement. Good 指導 balances correction with encouragement, reflecting the Japanese principle of 育てる (sodateru — to raise, to cultivate). Phrases such as ご指導よろしくお願いします (go-shidou yoroshiku onegai shimasu — "I ask for your kind guidance") are commonly used by new staff as a humble expression of willingness to learn.
+In practice, a senior concierge or front desk supervisor will give 指導 by walking a new hire through actual guest interactions, then debriefing afterward to highlight areas for improvement. Good 指導 balances correction with encouragement, reflecting the Japanese principle of 育てる (sodateru, to raise, to cultivate). Phrases such as ご指導よろしくお願いします (go-shidou yoroshiku onegai shimasu, "I ask for your kind guidance") are commonly used by new staff as a humble expression of willingness to learn.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, a senior concierge or front desk supervisor will give 指導 by wal
 
 ## Related Expressions
 
-- **ご指導ください (go-shidou kudasai)** — a polite request for guidance, used by staff seeking direction from a superior
-- **OJT (on-the-job training)** — the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting
+- **ご指導ください (go-shidou kudasai)**: a polite request for guidance, used by staff seeking direction from a superior
+- **OJT (on-the-job training)**: the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting
 
 ## Common Mistakes
 
-Learners sometimes confuse 指導 with 教育 (kyouiku — education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors — it implies the speaker is the one guiding, so this would be disrespectful upward. Always use ご指導 with the honorific prefix when referring to the guidance you receive from someone above you.
+Learners sometimes confuse 指導 with 教育 (kyouiku: education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors, it implies the speaker is the one guiding, so this would be disrespectful upward. Always use ご指導 with the honorific prefix when referring to the guidance you receive from someone above you.
 
 ---
 
@@ -41,4 +41,4 @@ Learners sometimes confuse 指導 with 教育 (kyouiku — education/training), 
 
 **Answer:** 指導
 
-**Explanation:** 指導 (shidou) means instruction or guidance — supervising employees, correcting mistakes, and teaching procedures to improve performance.
+**Explanation:** 指導 (shidou) means instruction or guidance: supervising employees, correcting mistakes, and teaching procedures to improve performance.

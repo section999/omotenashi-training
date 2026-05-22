@@ -4,9 +4,12 @@ section: 7
 title: 遠い (tooi)
 ---
 
-遠い means "far" or "distant" and represents one of the more delicate pieces of vocabulary in the hospitality communicator's toolkit. In omotenashi culture, the goal is never simply to relay information but to serve the guest's overall wellbeing — and telling someone their intended destination is far, without offering a practical alternative, falls short of that standard. The word 遠い must therefore almost always appear within a sentence that acknowledges the situation and immediately pivots to a helpful recommendation: a taxi, a bus route, a hotel car service, or a reassuring time estimate. This solution-first framing transforms a potentially disappointing answer into a demonstration of care.
+**Pronunciation:** [**too**-i]
+**Register:** Neutral, softened with 少し or やや in formal service
 
-In practical terms, staff should also moderate how definitively they use 遠い. Softening with 少し (a little) or やや (somewhat) before 遠い signals honesty without alarm, making the guest feel informed rather than dismissed. Knowing typical travel times from the hotel to major nearby destinations by foot, taxi, and public transport allows staff to replace vague uses of 遠い with specific, actionable alternatives. At ryokan in rural areas where distances are especially relevant, this knowledge is particularly important for guest planning and satisfaction.
+遠い means "far" or "distant" and is one of the more delicate words in a hospitality communicator's toolkit. In omotenashi culture, the goal is never simply to relay information but to serve the guest's overall well-being. Telling someone their intended destination is far, without offering a practical alternative, falls short of that standard. So 遠い almost always needs to appear inside a sentence that acknowledges the situation and immediately pivots to a helpful solution: a taxi recommendation, a bus route, a hotel shuttle, or a reassuring time estimate. That solution-first approach transforms a potentially disappointing answer into a genuine demonstration of care.
+
+Staff should also moderate how they use 遠い. Softening with 少し (a little) or やや (somewhat) before the word signals honesty without alarm, making the guest feel informed rather than brushed off. The ideal is to replace vague uses of 遠い with specific, actionable alternatives. Knowing typical travel times from your property to major local destinations by foot, taxi, and public transport puts you in a position to do that. Worth noting is that at ryokan in rural areas, guests often have little prior knowledge of local distances, so this kind of preparation is especially valued.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ In practical terms, staff should also moderate how definitively they use 遠い.
 
 **2.** お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。
 *O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.*
-"Your destination is a little far to walk to — shall I give you directions to the bus?"
+"Your destination is a little far to walk to: shall I give you directions to the bus?"
 
 **3.** 観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。
 *Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.*
@@ -24,12 +27,12 @@ In practical terms, staff should also moderate how definitively they use 遠い.
 
 ## Related Expressions
 
-- **近く (chikaku)** — nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed.
-- **送迎サービス (sougei saabisu)** — shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing your property's shuttle schedule and route makes this recommendation immediately actionable.
+- **近く (chikaku)**: nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed
+- **送迎サービス (sougei saabisu)**: shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing your property's shuttle schedule and route makes this recommendation immediately actionable
 
 ## Common Mistakes
 
-The most significant mistake is delivering 遠い without any follow-up solution — in hospitality, an unanswered problem is an incomplete response. Learners also sometimes forget the softener 少し, causing 「遠いです」 to sound blunt or even dismissive; the more considerate framing is 「少し遠うございます」. Additionally, using 遠い for a distance that could reasonably be walked in 10–15 minutes undersells the guest's capability and may unnecessarily add transport costs; calibrate honestly and let the guest decide.
+The most significant mistake is delivering 遠い without any follow-up solution. In hospitality, an unanswered problem is an incomplete response. Students also often drop the softener 少し, causing 「遠いです」 to sound blunt or even dismissive. The more considerate framing is 「少し遠うございます」. That said, there is also the opposite error: if a destination can reasonably be walked in 10 to 15 minutes, calling it 遠い oversells the difficulty and may push the guest toward unnecessary transport costs. Calibrate honestly and let the guest decide.
 
 ---
 
@@ -44,5 +47,5 @@ The most significant mistake is delivering 遠い without any follow-up solution
 
 **Correct Answer:** 少し遠いため、タクシーのご利用をおすすめいたします (it is a bit far, so we recommend using a taxi)
 
-**Explanation:** 少し遠いため、タクシーのご利用をおすすめいたします — 少し (a little) softens the news; ため (because) explains the reason; おすすめいたします (I recommend) offers a solution rather than just a negative answer.
+**Explanation:** 少し遠いため、タクシーのご利用をおすすめいたします: 少し (a little) softens the news; ため (because) explains the reason; おすすめいたします (I recommend) offers a solution rather than just a negative answer.
 

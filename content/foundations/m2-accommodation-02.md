@@ -1,7 +1,7 @@
 ---
 id: m2-accommodation
 section: 2
-title: Check-in — First Impressions and Room Guidance
+title: Check-in, First Impressions and Room Guidance
 ---
 
 Check-in is the guest's first real experience of your property as a host. Everything that follows will be shaped by this moment. A smooth, warm, unhurried check-in sets a tone the guest carries through the entire stay. A rushed or impersonal one creates a gap that is very difficult to close.
@@ -11,10 +11,10 @@ Check-in is the guest's first real experience of your property as a host. Everyt
 Rise to greet the guest before they reach the desk. In a ryokan, staff often meet arriving guests at the entrance, help with bags, and escort them through the property to the room. The guest is never left to find their own way.
 
 Standard greeting on arrival:
-*"いらっしゃいませ。お待ちしておりました。"* — "Welcome. We have been looking forward to your arrival."
+*"いらっしゃいませ。お待ちしておりました。"*, "Welcome. We have been looking forward to your arrival."
 
 If the guest has a reservation:
-*"○○様でいらっしゃいますね。お越しいただきまして誠にありがとうございます。"* — "You must be Mr/Ms ○○. Thank you sincerely for coming."
+*"○○様でいらっしゃいますね。お越しいただきまして誠にありがとうございます。"*, "You must be Mr/Ms ○○. Thank you sincerely for coming."
 
 **Room guidance (部屋案内, *heya annai*):**
 
@@ -26,8 +26,10 @@ In the room, explain the essential elements clearly and briefly:
 - Green tea set and how to prepare it
 - Contact number for the front desk
 
+Worth noting: the room explanation should feel like a short, friendly orientation, not a checklist recited at speed. Students often rush this part when they are busy. That is exactly the moment to slow down, because it is the guest's first experience of the space they will be living in.
+
 **The close:**
-End with an open offer. *"何かご不明な点がございましたら、いつでもお申し付けください。"* — "If there is anything unclear or anything you need, please do not hesitate to ask." Then withdraw quietly.
+End with an open offer. *"何かご不明な点がございましたら、いつでもお申し付けください。"*, "If there is anything unclear or anything you need, please do not hesitate to ask." Then withdraw quietly.
 
 ---
 

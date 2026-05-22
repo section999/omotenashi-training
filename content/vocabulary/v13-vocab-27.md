@@ -4,9 +4,12 @@ section: 27
 title: マニュアル (manyuaru)
 ---
 
-マニュアル is a loanword from the English "manual," referring to a document that provides systematic, step-by-step instructions for completing tasks and following procedures. In Japanese hospitality operations, manuals are treated as authoritative references that define the standard of service, ensuring every staff member performs duties consistently regardless of experience level. A well-written マニュアル covers everything from check-in procedures and room-cleaning sequences to emergency responses and guest complaint protocols. Hotels invest considerable effort in producing and updating their manuals because inconsistency in service quality is considered a serious flaw in omotenashi culture.
+**Pronunciation:** [ma-nyu-**a**-ru]
+**Register:** Neutral/Formal -- used in training contexts and operational discussions across all departments
 
-New employees are typically required to study the マニュアル thoroughly during the 研修 (kenshuu, training period), and senior staff periodically review it to ensure it reflects the latest procedures. When a guest raises an unusual request or a situation arises that a staff member has not encountered before, consulting the マニュアル is the correct and expected action. Managers update the manual after incidents, customer feedback analysis, or introduction of new equipment to keep it current. The phrase 「マニュアル通りに行ってください」 (manyuaru doori ni okonatte kudasai — "please proceed according to the manual") is commonly heard in pre-shift briefings.
+マニュアル is borrowed from English and refers to a document that provides systematic, step-by-step instructions for completing tasks and following procedures. In Japanese hospitality, the マニュアル is treated as an authoritative reference that defines the service standard, ensuring every staff member performs duties consistently regardless of experience level. A well-written マニュアル covers everything from check-in procedures and room-cleaning sequences to emergency responses and guest complaint protocols. Hotels invest real effort in producing and updating their manuals, because inconsistency in service quality is considered a fundamental flaw in omotenashi culture.
+
+New employees study the マニュアル thoroughly during 研修 (kenshuu, the training period), and senior staff revisit it periodically to make sure it still reflects current procedures. When an unusual guest request comes in, or a situation arises that a staff member has not faced before, checking the マニュアル is the correct and expected first step. Managers revise the manual after incidents, customer feedback analysis, or the introduction of new equipment. In practice, you will hear「マニュアル通りに行ってください」(manyuaru doori ni okonatte kudasai, "please proceed according to the manual") in pre-shift briefings fairly regularly, especially during busy seasons when consistency matters most.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ New employees are typically required to study the マニュアル thoroughly dur
 
 ## Related Expressions
 
-- **手順書 (tejunsho)** — a procedural document similar to a manual but typically more narrowly focused on a single task or workflow; often used alongside the broader マニュアル
-- **規定 (kitei)** — formal rules and regulations that underpin the content of a manual; while the マニュアル explains how to act, 規定 states what is officially required
+- **手順書 (tejunsho)**: a procedural document narrowly focused on a single task or workflow; it works alongside the broader マニュアル rather than replacing it
+- **規定 (kitei)**: the formal rules and regulations that underpin the manual's content; the マニュアル tells you how to act, while 規定 states what is officially required
 
 ## Common Mistakes
 
-Learners sometimes treat マニュアル as a negative term, assuming it implies rigid or robotic service lacking genuine hospitality. In Japanese workplace culture, however, the manual is respected as a foundation that ensures quality rather than a constraint that limits creativity. Another error is confusing マニュアル with 手順 (tejun, procedure) — the manual is the document itself, while 手順 refers to the sequential steps within it. Always use the full term マニュアルを参照する (to consult the manual) rather than simply saying 「見る」 (miru, to look at) in a professional context, as the latter sounds too casual.
+Students sometimes assume マニュアル is a negative term, imagining robotic service where staff simply follow scripts without genuine warmth. That is not how it is viewed in Japan at all. The manual is respected as the foundation that makes quality consistent, and experienced staff take pride in knowing it well. That said, a different confusion trips learners up: mixing up マニュアル (the document) with 手順 (tejun, the procedure). The マニュアル is the book or guide; 手順 are the sequential steps written inside it. One more thing worth knowing: in professional speech, always say マニュアルを参照する (to consult the manual) rather than just 見る (to look at it). The latter sounds as casual as saying you "glanced" at it, which does not carry the right meaning in a work context.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes treat マニュアル as a negative term, assuming it implies
 
 **Correct Answer:** マニュアル (manual)
 
-**Explanation:** マニュアル (manyuaru) means manual — a reference document with detailed instructions. 手順 = procedure (steps), 研修 = training programme, 指導 = guidance.
+**Explanation:** マニュアル (manyuaru) means manual: a reference document with detailed instructions. 手順 = procedure (steps), 研修 = training programme, 指導 = guidance.

@@ -4,9 +4,12 @@ section: 21
 title: 追加 (tsuika)
 ---
 
-追加 combines the characters for "pursue/chase" (追) and "add" (加), together conveying the idea of adding on top of what already exists. In hospitality, it typically signals a guest request that goes beyond what was originally arranged — an extra towel, an additional bed (加ベッド), an extra portion at dinner, or a supplementary service. Responding to 追加 requests gracefully is a hallmark of quality service: the best properties fulfill them before guests even need to ask twice.
+**Pronunciation:** [tsu-**i**-ka]
+**Register:** Formal/Neutral, used when a guest requests more of something or when staff communicate add-on services
 
-Staff encounter 追加 most frequently at the front desk and in housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an additional item or service carries a charge, staff must clearly state this: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). Proactive communication prevents misunderstandings at checkout.
+追加 combines the characters for "pursue/chase" (追) and "add" (加), together conveying the idea of adding on top of what already exists. In hospitality, it typically signals a guest request that goes beyond what was originally arranged: an extra towel, an additional bed, an extra portion at dinner, or a supplementary amenity. Responding to 追加 requests with warmth and speed is a hallmark of quality service, and at the best properties these requests are fulfilled before a guest needs to ask a second time.
+
+Staff encounter 追加 most often at the front desk and through housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an add-on carries a charge, say so clearly at the time of the request: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). In practice, proactive communication at this moment prevents the kind of billing confusion that creates complaints at checkout.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff encounter 追加 most frequently at the front desk and in housekeeping req
 
 ## Related Expressions
 
-- **補充 (hojuu)** — Means "replenishment" or restocking, often used for restoring items to their original quantity rather than adding above it. Housekeeping 補充 of toiletries is a routine task; a guest's 追加 request is a deliberate ask for more than what was there before. The distinction matters in internal communication.
-- **追加料金 (tsuika ryoukin)** — The compound noun meaning "additional charge." Knowing this closely linked phrase is essential for any context where 追加 services are chargeable, such as late check-out, extra beds, or premium menu additions. Always communicate 追加料金 proactively, not retroactively.
+- **補充 (hojuu)**: means "replenishment" or restocking, used for restoring items to their original quantity rather than adding above it. Housekeeping 補充 of toiletries is routine maintenance; a guest's 追加 request is a deliberate ask for more than what was provided. The distinction matters in internal communication.
+- **追加料金 (tsuika ryoukin)**: the compound noun meaning "additional charge." This closely related phrase is essential for any context where 追加 services carry a cost, such as late check-out, extra beds, or premium menu additions. Always communicate 追加料金 proactively, never retroactively.
 
 ## Common Mistakes
 
-A common error is conflating 追加 with 交換 (replacement) — if a guest wants a dirty towel swapped for a clean one, that is 交換希望 (replacement request), not 追加 (additional). Using the wrong word internally can send the wrong signal to housekeeping. Staff also sometimes forget to mention additional charges associated with 追加 requests, leading to billing disputes; the standard practice is to mention any potential charge at the time of the request. Finally, avoid using the plain form 「追加します」 in guest interactions; the correct service form is 「追加でご用意いたします」.
+One more thing to keep straight: 追加 is not the same as 交換 (replacement). If a guest wants a dirty towel swapped for a clean one, that is a 交換希望 (replacement request), not an 追加. Using the wrong word in an internal message can send housekeeping the wrong instruction. Students often conflate these two without realising it. On the billing side, staff sometimes forget to mention the additional charge at the time of the request and only bring it up at checkout, which is exactly when it causes the most friction. Say it early, say it clearly, and guests will almost always appreciate the transparency.
 
 ---
 
@@ -44,5 +47,5 @@ A common error is conflating 追加 with 交換 (replacement) — if a guest wan
 
 **Correct Answer:** 追加でご用意いたします (we will prepare additionally)
 
-**Explanation:** 追加でご用意いたします — ご用意いたします (we will prepare) shows immediate readiness; saying 追加で first acknowledges that it is an extra request, not a default, which sets correct expectations.
+**Explanation:** 追加でご用意いたします: ご用意いたします (we will prepare) shows immediate readiness; saying 追加で first acknowledges that it is an extra request, not a default, which sets correct expectations.
 

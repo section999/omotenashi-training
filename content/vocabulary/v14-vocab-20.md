@@ -4,9 +4,12 @@ section: 20
 title: タクシー (takushii)
 ---
 
-タクシー (takushii) is the Japanese loanword for "taxi" and refers to metered, hired vehicles available for door-to-door transport. In Japan, タクシー services are known for their high cleanliness standards, professional drivers, and, in many cities, automatic door-opening mechanisms (the rear left door opens and closes automatically — guests should never touch it). This distinctive feature often surprises international visitors and is worth mentioning as a cultural note. タクシー fares in Japan are calculated by both distance and time (including time spent in traffic), and starting fares and rate structures vary by region and company.
+**Pronunciation:** [ta-ku-**shii**]
+**Register:** Neutral, everyday speech, guest assistance, concierge recommendations
 
-Hotel staff are regularly involved in タクシー arrangements, from asking the doorman to hail one to calling a taxi dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is the recommended option. Staff should be ready to share the hotel's address card (ホテルの名刺, hoteru no meishi) or a printed destination card with guests to hand to the driver, as verbal communication with drivers may be challenging for non-Japanese speakers. A standard staff phrase is 「タクシーをお呼びいたしましょうか？」("Shall I call a taxi for you?")
+タクシー is the Japanese loanword for "taxi" and refers to metered hired vehicles for door-to-door transport. Japanese タクシー are known for cleanliness, professional drivers, and one feature that surprises nearly every international visitor: the rear left door opens and closes automatically. Guests should never touch it. Worth noting is that this is one of those small cultural details that's worth mentioning proactively before a guest approaches the vehicle, because nothing breaks the elegance of a hotel send-off like a guest trying to wrestle with a door that opens on its own. Fares are calculated by both distance and waiting time, and starting rates vary by region and company.
+
+Hotel staff get involved in タクシー arrangements more than you might expect, from asking the doorman to hail one to calling a dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is almost always the right call. Have the hotel's address card ready to hand to guests so they can pass it directly to the driver: verbal communication can be challenging for non-Japanese speakers, and a printed card with the destination address removes the guesswork entirely. The standard phrase to offer is 「タクシーをお呼びいたしましょうか？」
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff are regularly involved in タクシー arrangements, from asking the
 
 ## Related Expressions
 
-- **配車アプリ (haisha apuri)** — a taxi-hailing app (such as GO or DiDi); a modern alternative to hailing a タクシー on the street, increasingly popular in Japan
-- **ハイヤー (haiyaa)** — a hired car or chauffeured vehicle; a higher-end version of タクシー, typically booked in advance and associated with corporate or VIP travel
+- **配車アプリ (haisha apuri)**: a taxi-hailing app such as GO or DiDi; an increasingly popular modern alternative to flagging down a タクシー on the street
+- **ハイヤー (haiyaa)**: a hired car or chauffeured vehicle; a higher-end version of タクシー, typically pre-booked and associated with corporate or VIP travel
 
 ## Common Mistakes
 
-Non-Japanese guests sometimes attempt to open the rear door of a タクシー themselves, not knowing it opens automatically — hotel staff should proactively inform guests about this before they approach the vehicle. A common language error is saying タクシーを乗る rather than the correct タクシーに乗る (particle に is required for boarding vehicles). Also, learners sometimes confuse タクシー with ハイヤー — while both are hired vehicles, ハイヤー implies a pre-booked, higher-class service and should not be used interchangeably in guest-facing communication.
+The automatic door is the biggest practical point to communicate: non-Japanese guests regularly try to open it themselves and look confused or embarrassed when it moves on its own. Proactively mentioning it before they leave the lobby saves everyone from that moment. The grammar error to watch is the particle: タクシーに乗る is correct, not タクシーを乗る. Students who learn this once for 電車 sometimes forget to carry it over to other vehicles. That said, also be careful with ハイヤー: it's not just a fancier word for タクシー, it implies a pre-booked, premium service, and using the two interchangeably in guest-facing communication can create mismatched expectations.
 
 ---
 
@@ -41,4 +44,4 @@ Non-Japanese guests sometimes attempt to open the rear door of a タクシー th
 
 **Answer:** タクシー
 
-**Explanation:** タクシー (takushii) means taxi — a paid door-to-door vehicle service useful when carrying luggage or travelling outside train and bus routes.
+**Explanation:** タクシー (takushii) means taxi: a paid door-to-door vehicle service useful when carrying luggage or travelling outside train and bus routes.

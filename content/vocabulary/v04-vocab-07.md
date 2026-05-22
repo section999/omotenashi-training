@@ -4,9 +4,9 @@ section: 7
 title: タオル交換 (taoru koukan)
 ---
 
-タオル交換 means the replacement or exchange of towels, covering bath towels, hand towels, face towels, and in ryokan settings, yukata sashes and other fabric items associated with the guest's bath experience. Towels are considered a high-visibility amenity — their freshness, folding presentation, and adequate quantity directly affect a guest's perception of cleanliness and service attentiveness. In many Japanese hotels, towels are arranged with specific folds displayed prominently in the bathroom, and housekeeping staff are trained to replicate this standard consistently. Prompt and gracious response to a タオル交換 request reflects the omotenashi spirit of anticipating and fulfilling guest needs without making them feel like a burden.
+タオル交換 means replacing or exchanging towels. That covers bath towels, hand towels, and face towels, and in ryokan settings it can extend to yukata sashes and other fabric items connected to the bathing experience. Towels are among the most visible amenity items in any room: their freshness, how they are folded, and whether there are enough of them all leave a direct impression of how attentive the property is. Japanese hotels often require specific folding and display methods as part of the room standard, and housekeeping staff are expected to reproduce these consistently every single time.
 
-Housekeeping staff typically perform タオル交換 during daily cleaning, but guests may request additional changes at any time. In environmentally conscious properties, guests may be asked to hang used towels if they wish to reuse them, with replacement only performed if towels are left on the floor. Staff should communicate this policy clearly and without pressure, offering the exchange warmly regardless of the hotel's environmental guidelines.
+Daily cleaning includes タオル交換 as a matter of course, but guests may ask for extra changes at any point, and the right response is to handle it promptly and without making them feel like the request is unusual. That said, many eco-conscious properties now ask guests to hang towels they wish to reuse, with replacement only triggered when towels are left on the floor. Whatever the hotel's policy, explain it warmly and without pressure. A guest who feels judged for asking tends not to ask again, and that silence is actually harder to manage than a towel request.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Housekeeping staff typically perform タオル交換 during daily cleaning, but 
 
 ## Related Expressions
 
-- **シーツ交換 (shiitsu koukan)** — Bed sheet change; a related but distinct service — guests and staff must not confuse the two when making or fulfilling requests.
-- **アメニティ補充 (ameniti hojuu)** — Amenity replenishment; covers a broader range of bathroom supplies and may be done alongside タオル交換 during room servicing.
+- **シーツ交換 (shiitsu koukan)**: bed sheet change; related but distinct from タオル交換, so make sure guests and staff are clear about which service is being requested or fulfilled.
+- **アメニティ補充 (ameniti hojuu)**: amenity replenishment; covers a broader set of bathroom supplies and is often carried out at the same time as タオル交換 during room servicing.
 
 ## Common Mistakes
 
-Learners sometimes use 交換します instead of the more appropriate humble form 承ります or 手配いたします when responding to a guest's towel request, which sounds insufficiently polite. Another mistake is not replacing all towel types when a guest requests a change — make sure to address all towels in the room, not just the most visible bath towel. Avoid offering only one replacement towel when a guest room is occupied by two people, as each guest requires their own set.
+Students often reach for 交換します when responding to a towel request, but that is too plain for a guest-facing interaction. The humble forms 承ります or 手配いたします are considerably more appropriate and should become second nature. One more thing: when a guest asks for a towel change, do not just replace the bath towel. Walk through the whole room and check every towel, because the one guests do not mention is often the one they actually wanted changed. And for double-occupancy rooms, each guest needs their own full set, so factor that in before leaving the room.
 
 ---
 
@@ -44,5 +44,5 @@ Learners sometimes use 交換します instead of the more appropriate humble fo
 
 **Correct Answer:** タオル交換はご希望のときに承ります (towel changes are available upon request)
 
-**Explanation:** タオル交換はご希望のときに承ります means "we will handle towel changes whenever you wish" — 承ります is the polite humble form of receiving a request.
+**Explanation:** タオル交換はご希望のときに承ります means "we will handle towel changes whenever you wish": 承ります is the polite humble form of receiving a request.
 

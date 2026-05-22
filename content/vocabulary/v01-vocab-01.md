@@ -4,11 +4,11 @@ section: 1
 title: いらっしゃいませ (irasshaimase)
 ---
 
-**いらっしゃいませ** is the greeting at the heart of Japanese hospitality. It means "welcome" in the sense of *you have honoured us by coming* — not merely "hello." The phrase derives from the honorific verb *irassharu* (a respectful form of "to be" or "to come"), combined with the polite request ending *mase*. Together they form an expression that places the guest on an elevated level from the very first word.
+**いらっしゃいませ** is the greeting at the heart of Japanese hospitality. It means "welcome" in the sense of *you have honoured us by coming*, not merely "hello." The phrase derives from the honorific verb *irassharu* (a respectful form of "to be" or "to come"), combined with the polite request ending *mase*. Together they form an expression that places the guest on an elevated level from the very first word.
 
-In practice, this phrase is spoken the moment a guest enters any service space — a hotel lobby, restaurant, or shop. It is not a question and requires no verbal response from the guest. Its purpose is to say: *you have been seen, and you are welcome here.* The warmth of the delivery — tone, eye contact, the small bow that accompanies it — carries as much meaning as the words themselves. Worth noting: a flat, distracted delivery of *irasshaimase* is almost worse than silence; it implies the guest has been processed rather than welcomed.
+In practice, this phrase is spoken the moment a guest enters any service space, a hotel lobby, restaurant, or shop. It is not a question and requires no verbal response from the guest. Its purpose is to say: *you have been seen, and you are welcome here.* The warmth of the delivery, tone, eye contact, the small bow that accompanies it, carries as much meaning as the words themselves. Worth noting: a flat, distracted delivery of *irasshaimase* is almost worse than silence; it implies the guest has been processed rather than welcomed.
 
-For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. Students often find that the physical habits — pausing from whatever they were doing, turning fully toward the guest, making genuine eye contact — take time to develop alongside the spoken word. Practice the phrase until it becomes natural, not mechanical.
+For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. Students often find that the physical habits, pausing from whatever they were doing, turning fully toward the guest, making genuine eye contact, take time to develop alongside the spoken word. Practice the phrase until it becomes natural, not mechanical.
 
 ## Example Sentences
 
@@ -31,7 +31,7 @@ For hospitality professionals, *irasshaimase* is more than a scripted phrase. It
 
 ## Common Mistakes
 
-The most common mistake is delivering *irasshaimase* without making eye contact or pausing from another task. The guest should feel they are being welcomed, not that the phrase is being broadcast to the room. Students often underestimate how visible divided attention is — a quick glance at a screen while speaking completely undermines the phrase. A second mistake is rushing the pronunciation: the *ssha* syllable is often compressed into something closer to *sa*, which sounds abrupt. Slow the greeting down slightly and let each syllable carry its weight.
+The most common mistake is delivering *irasshaimase* without making eye contact or pausing from another task. The guest should feel they are being welcomed, not that the phrase is being broadcast to the room. Students often underestimate how visible divided attention is: a quick glance at a screen while speaking completely undermines the phrase. A second mistake is rushing the pronunciation: the *ssha* syllable is often compressed into something closer to *sa*, which sounds abrupt. Slow the greeting down slightly and let each syllable carry its weight.
 
 ---
 
@@ -46,4 +46,4 @@ The most common mistake is delivering *irasshaimase* without making eye contact 
 
 **Correct Answer:** いらっしゃいませ。 (Welcome.)
 
-**Explanation:** *Irasshaimase* is always the first word a guest hears. It signals presence, readiness, and respect before any transaction begins. Jumping directly to a question — even a practical one — bypasses this essential moment of acknowledgement.
+**Explanation:** *Irasshaimase* is always the first word a guest hears. It signals presence, readiness, and respect before any transaction begins. Jumping directly to a question: even a practical one: bypasses this essential moment of acknowledgement.

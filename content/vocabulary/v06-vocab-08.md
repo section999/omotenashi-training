@@ -4,9 +4,9 @@ section: 8
 title: 騒音 (souon)
 ---
 
-騒音 (souon) refers to noise that causes discomfort or disruption, and is the formal term staff should use when acknowledging or investigating sound-related complaints. Sources of 騒音 in a hotel or ryokan can include other guests, street traffic, kitchen ventilation, construction work, or malfunctioning equipment. Noise management is taken seriously in Japanese hospitality because a quiet, tranquil atmosphere — especially in ryokan and traditional inns — is central to what guests are paying for. When that atmosphere is broken, guests feel the failure immediately.
+騒音 (souon) refers to noise that causes discomfort or disruption, and is the formal term staff should use when acknowledging or investigating sound-related complaints. Sources of 騒音 in a hotel or ryokan can include other guests, street traffic, kitchen ventilation, construction work, or malfunctioning equipment. Noise management is taken seriously in Japanese hospitality because a quiet, tranquil atmosphere, especially in ryokan and traditional inns, is central to what guests are paying for. When that atmosphere is broken, guests feel the failure immediately.
 
-When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. Investigate promptly, acknowledge the disruption, and offer intermediate solutions — a room relocation or earplugs — while the investigation is underway. The tricky part is when the noise originates from another guest. Directly confronting another guest on behalf of a complainant requires careful judgment and usually manager involvement. Students often underestimate how diplomatically that situation must be handled.
+When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. Investigate promptly, acknowledge the disruption, and offer intermediate solutions, a room relocation or earplugs, while the investigation is underway. The tricky part is when the noise originates from another guest. Directly confronting another guest on behalf of a complainant requires careful judgment and usually manager involvement. Students often underestimate how diplomatically that situation must be handled.
 
 ## Example Sentences
 
@@ -16,7 +16,7 @@ When a guest reports 騒音, staff should respond without dismissing or minimisi
 
 **2.** 騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。
 *Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.*
-"We will look into the cause of the noise — could you give us just a little time?"
+"We will look into the cause of the noise: could you give us just a little time?"
 
 **3.** 騒音が続く場合は、別のお部屋へのご移動もご提案できます。
 *Souon ga tsuzuku baai wa, betsu no oheya e no go-idou mo go-teian dekimasu.*
@@ -29,7 +29,7 @@ When a guest reports 騒音, staff should respond without dismissing or minimisi
 
 ## Common Mistakes
 
-The most common mistake is echoing a guest's casual language by saying うるさいですね — it matches their register but signals no professional action, and it sounds out of place coming from a staff member. Reframe using the formal term 騒音 and pair it immediately with a commitment to investigate. Another error is over-promising: unless the source is directly controllable by staff, do not guarantee silence. The right approach is to commit to investigating and offer alternatives. In practice, guests are usually more reassured by genuine effort than by promises that cannot be kept.
+The most common mistake is echoing a guest's casual language by saying うるさいですね: it matches their register but signals no professional action, and it sounds out of place coming from a staff member. Reframe using the formal term 騒音 and pair it immediately with a commitment to investigate. Another error is over-promising: unless the source is directly controllable by staff, do not guarantee silence. The right approach is to commit to investigating and offer alternatives. In practice, guests are usually more reassured by genuine effort than by promises that cannot be kept.
 
 ---
 
@@ -45,5 +45,5 @@ The most common mistake is echoing a guest's casual language by saying うるさ
 
 **Correct Answer:** 対応 (response / handling)
 
-**Explanation:** 騒音について対応いたします — 対応いたします covers both investigating and resolving; using it shows the guest that their comfort concern is being acted upon, not just acknowledged.
+**Explanation:** 騒音について対応いたします: 対応いたします covers both investigating and resolving; using it shows the guest that their comfort concern is being acted upon, not just acknowledged.
 

@@ -24,12 +24,12 @@ In practice, many Japanese hotels quote room rates as tax-inclusive to simplify 
 
 ## Related Expressions
 
-- **消費税 (shōhi-zei)** — consumption tax; the specific type of 税金 most commonly referenced in hotel billing, currently 10% in Japan for most hospitality services.
-- **税込み / 税抜き (zei-komi / zei-nuki)** — tax-inclusive / tax-exclusive; the two key billing formats that guests frequently ask about when comparing rates.
+- **消費税 (shōhi-zei)**: consumption tax; the specific type of 税金 most commonly referenced in hotel billing, currently 10% in Japan for most hospitality services.
+- **税込み / 税抜き (zei-komi / zei-nuki)**: tax-inclusive / tax-exclusive; the two key billing formats that guests frequently ask about when comparing rates.
 
 ## Common Mistakes
 
-A common confusion is between 税金 (zeikin, general term for tax) and 消費税 (shōhi-zei, consumption tax specifically) — in hotel billing contexts, 消費税 is the precise term, though 税金 is understood. Some learners incorrectly say 税金は別です (tax is separate) without specifying the amount or percentage, leaving guests uncertain; always provide the rate or amount. Additionally, do not confuse 税込み (tax included) with 込み (included in general) — when discussing pricing, always specify that it is tax that is included.
+A common confusion is between 税金 (zeikin, general term for tax) and 消費税 (shōhi-zei, consumption tax specifically): in hotel billing contexts, 消費税 is the precise term, though 税金 is understood. Some learners incorrectly say 税金は別です (tax is separate) without specifying the amount or percentage, leaving guests uncertain; always provide the rate or amount. Additionally, do not confuse 税込み (tax included) with 込み (included in general): when discussing pricing, always specify that it is tax that is included.
 
 ---
 
@@ -45,4 +45,4 @@ A common confusion is between 税金 (zeikin, general term for tax) and 消費�
 
 **Correct Answer:** 含ま (included)
 
-**Explanation:** 含まれております (fukumarete orimasu) means "is included" — the correct and polite expression for explaining what is covered in the price.
+**Explanation:** 含まれております (fukumarete orimasu) means "is included": the correct and polite expression for explaining what is covered in the price.

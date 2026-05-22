@@ -4,9 +4,12 @@ section: 32
 title: 直前予約 (chokuzen yoyaku)
 ---
 
-直前予約 (chokuzen yoyaku) combines 直前 (chokuzen, "immediately before" or "just prior") with 予約 (yoyaku, reservation), referring to a last-minute booking made only a short time — typically a few hours — before the guest's intended check-in. While 当日予約 encompasses any same-day booking, 直前予約 carries the additional implication of extreme urgency, often meaning the guest will arrive within one to two hours of booking. In the context of Japanese hospitality operations, a 直前予約 triggers an immediate cascade of tasks: the front desk must alert housekeeping for priority room preparation, confirm the available room category, and have a rate ready to quote, all while maintaining the calm, welcoming demeanor that guests expect.
+**Pronunciation:** [cho-ku-**zen**-yo-ya-ku]
+**Register:** Formal/Neutral, front desk and same-day arrival handling
 
-Hotels often have different policies for 直前予約 compared to advance bookings. Special rates, promotional packages, or room upgrade options may not be available for 直前予約, and some properties set a cutoff time (例: 当日午後5時まで受付) after which online 直前予約 are no longer possible and only phone reservations are handled. Staff must be familiar with these cutoffs so they can accurately advise callers. When accepting a 直前予約, the key phrase is ただいまご準備いたしますので、ご到着をお待ちしております (we are preparing your room right now and look forward to your arrival). This phrase conveys both urgency of action and warmth of welcome simultaneously.
+直前予約 (chokuzen yoyaku) puts 直前 (chokuzen, "immediately before" or "just prior") together with 予約 (yoyaku, reservation), describing a last-minute booking made only a short time before check-in, typically a few hours. While 当日予約 covers any same-day booking, 直前予約 carries the additional weight of extreme urgency. The guest will often arrive within one to two hours of calling. In practice, accepting a 直前予約 sets off an immediate chain of tasks: alert housekeeping for priority room preparation, confirm the available room category, have a rate ready to quote, and do all of that while maintaining the calm, welcoming presence guests expect from a professional front desk.
+
+Hotels often handle 直前予約 differently from advance bookings. Special promotional packages or upgrade options may be unavailable, and many properties set a cutoff time after which online booking is closed and only phone reservations are accepted. Staff need to know those cutoffs so they can advise callers accurately. When accepting a 直前予約, the phrase that works well is ただいまご準備いたしますので、ご到着をお待ちしております. It tells the guest that action is already happening while making them feel genuinely welcomed.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ Hotels often have different policies for 直前予約 compared to advance bookin
 
 **2.** ただいまご準備いたしますので、ご到着は何時頃をご予定でしょうか。
 *Tadaima go-junbi itashimasu node, go-touchaku wa nanji goro wo go-yotei deshou ka.*
-"We will begin preparing right away — approximately what time do you expect to arrive?"
+"We will begin preparing right away: approximately what time do you expect to arrive?"
 
 **3.** 直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。
 *Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.*
@@ -24,12 +27,12 @@ Hotels often have different policies for 直前予約 compared to advance bookin
 
 ## Related Expressions
 
-- **当日予約 (toujitsu yoyaku)** — same-day reservation; the broader category that includes 直前予約, but 当日予約 may be made hours in advance with more time for preparation, while 直前予約 implies arrival is imminent.
-- **飛び込み (tobikomi)** — walk-in; a guest with no reservation at all who simply arrives at the front desk; even more urgent than 直前予約 as there is zero advance notice.
+- **当日予約 (toujitsu yoyaku)**: same-day reservation, the broader category that includes 直前予約. A 当日予約 made in the morning for an evening check-in can allow several hours for preparation. 直前予約 implies the guest is arriving very soon, which changes your urgency level entirely.
+- **飛び込み (tobikomi)**: walk-in guest with no reservation at all, even more urgent than 直前予約 since there is literally zero advance notice for the room to be readied.
 
 ## Common Mistakes
 
-One key mistake is treating 直前予約 identically to 当日予約 in terms of room preparation urgency. Because a 直前予約 guest is arriving soon, housekeeping must be notified immediately — whereas a morning 当日予約 may allow several hours of lead time. Learners also sometimes forget to confirm the guest's estimated arrival time, which is essential for 直前予約 so that the room is guaranteed ready rather than still being serviced when the guest walks in. A second common error is offering promotional rates that require advance booking conditions — always check that the rate being quoted is valid for last-minute reservations before communicating it to the guest.
+One key mistake is treating 直前予約 with the same urgency level as a regular 当日予約. They are not the same. A morning same-day booking for a 3 PM check-in gives you time to breathe. A 直前予約 made at 2 PM for a 4 PM arrival does not. Students often underestimate this and delay notifying housekeeping, resulting in a guest waiting at the front desk for a room that is not ready. Always ask for the estimated arrival time when accepting a 直前予約, because that single piece of information determines how quickly everything else needs to move. Worth noting as well: never quote a promotional rate that has advance-booking conditions attached. Check that the rate is valid for last-minute reservations before saying a number to the guest.
 
 ---
 
@@ -44,4 +47,4 @@ One key mistake is treating 直前予約 identically to 当日予約 in terms of
 
 **Correct Answer:** 直前予約 (last-minute reservation)
 
-**Explanation:** 直前予約 (last-minute booking, hours before) vs 当日予約 (same-day booking, could be morning for that evening) — the distinction matters for room preparation time; a 直前予約 arriving in 2 hours needs the room ready faster than a 当日予約 made at 8am for a 3pm arrival.
+**Explanation:** 直前予約 (last-minute booking, hours before) vs 当日予約 (same-day booking, could be morning for that evening): the distinction matters for room preparation time; a 直前予約 arriving in 2 hours needs the room ready faster than a 当日予約 made at 8am for a 3pm arrival.

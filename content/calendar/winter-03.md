@@ -1,22 +1,22 @@
 ---
 id: cal-winter
 section: 3
-title: Setsubun — Bean Throwing Festival (節分) — February 3 or 4
+title: Setsubun, Bean Throwing Festival (節分), February 3 or 4
 ---
 
-**Season:** Winter · December — February
+**Season:** Winter · December, February
 
-**Setsubun (節分)** — literally "seasonal division" — marks the day before *Risshun* (立春), the traditional start of spring in the Japanese lunar calendar. February 3rd or 4th (the date varies slightly by year) has been observed for centuries as a day for purification rituals to drive out evil and welcome good fortune into the new year of the old calendar.
+**Setsubun (節分)**, literally "seasonal division", marks the day before *Risshun* (立春), the traditional start of spring in the Japanese lunar calendar. February 3rd or 4th (the date varies slightly by year) has been observed for centuries as a day for purification rituals to drive out evil and welcome good fortune into the new year of the old calendar.
 
 **The tradition:**
 
-The central Setsubun practice is **mamemaki (豆まき)** — bean throwing. Family members, typically the eldest male, don an *oni* (demon/ogre) mask while others throw roasted soybeans (*fukumame*) and shout:
+The central Setsubun practice is **mamemaki (豆まき)**, bean throwing. Family members, typically the eldest male, don an *oni* (demon/ogre) mask while others throw roasted soybeans (*fukumame*) and shout:
 
 **鬼は外！福は内！**
 *(Oni wa soto! Fuku wa uchi!)*
 "Out with demons! In with good fortune!"
 
-It is also traditional to eat one roasted soybean for each year of your age (plus one for good luck in the coming year). In recent decades, the tradition of eating an *ehomaki* (恵方巻き) — a whole uncut *maki* sushi roll eaten silently while facing the year's lucky direction — has spread from the Kansai region to become a nationwide custom.
+It is also traditional to eat one roasted soybean for each year of your age (plus one for good luck in the coming year). In recent decades, the tradition of eating an *ehomaki* (恵方巻き), a whole uncut *maki* sushi roll eaten silently while facing the year's lucky direction, has spread from the Kansai region to become a nationwide custom.
 
 **At shrines and temples:**
 
@@ -27,9 +27,9 @@ Public mamemaki ceremonies are held at shrines and temples throughout the countr
 Setsubun is one of the most guest-interactive seasonal events available to hospitality professionals:
 
 - **Lobby mamemaki station**: provide roasted soybeans, oni masks, and tanzaku-style cards explaining the tradition
-- **Ehomaki on the dinner menu**: note the lucky direction for the year and offer whole uncut maki rolls — frame it as a participatory experience
+- **Ehomaki on the dinner menu**: note the lucky direction for the year and offer whole uncut maki rolls, frame it as a participatory experience
 - **Oni mask display with photo opportunity**: a visually striking, fun, and culturally genuine touch for families and international guests
-- **The story approach**: when explaining Setsubun to guests unfamiliar with it, lead with the story (the demons and the fortune) before the practice — the narrative makes the tradition come alive
+- **The story approach**: when explaining Setsubun to guests unfamiliar with it, lead with the story (the demons and the fortune) before the practice, the narrative makes the tradition come alive
 
 ---
 
@@ -57,11 +57,11 @@ Setsubun is one of the most guest-interactive seasonal events available to hospi
 
 **An international guest watches a staff member wearing an oni mask in the lobby and looks confused. They approach you and ask: "What is happening?" What is the ideal response?**
 
-- A. "It's just a staff activity — please don't be concerned."
-- B. "Today is Setsubun — would you like to learn about it?" Then briefly explain the legend of the oni, the mamemaki tradition, and invite them to participate — offering a handful of soybeans and perhaps a photo with the oni mask
+- A. "It's just a staff activity: please don't be concerned."
+- B. "Today is Setsubun: would you like to learn about it?" Then briefly explain the legend of the oni, the mamemaki tradition, and invite them to participate: offering a handful of soybeans and perhaps a photo with the oni mask
 - C. Explain that it is a private staff ceremony and redirect them to their room
 - D. Hand them a pamphlet and say "it's all explained in here"
 
-**Correct Answer:** "Today is Setsubun — would you like to learn about it?" Then briefly explain the legend of the oni, the mamemaki tradition, and invite them to participate — offering a handful of soybeans and perhaps a photo with the oni mask
+**Correct Answer:** "Today is Setsubun: would you like to learn about it?" Then briefly explain the legend of the oni, the mamemaki tradition, and invite them to participate: offering a handful of soybeans and perhaps a photo with the oni mask
 
-**Explanation:** A curious guest is giving you an invitation for genuine cultural exchange. The Setsubun tradition — with its vivid imagery of demons and fortune — is highly engaging when explained with warmth and enthusiasm. Inviting participation (without pressure) transforms a moment of confusion into one of the most memorable experiences of their stay.
+**Explanation:** A curious guest is giving you an invitation for genuine cultural exchange. The Setsubun tradition: with its vivid imagery of demons and fortune: is highly engaging when explained with warmth and enthusiasm. Inviting participation (without pressure) transforms a moment of confusion into one of the most memorable experiences of their stay.

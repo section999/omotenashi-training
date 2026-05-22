@@ -6,13 +6,13 @@ title: What is Omotenashi?
 
 **Omotenashi (おもてなし)** is the Japanese concept of wholehearted hospitality. It is often translated as "selfless service" or "entertaining with no expectation of anything in return," but neither fully captures the meaning. The word is composed of *omote* (表, public face or surface) and *nashi* (なし, without, lacking). Together they suggest: *service with no hidden agenda, no false face, nothing held back*.
 
-At its heart, omotenashi is a philosophy of complete sincerity. The host acts entirely for the guest's benefit — not to earn a tip, not to meet a performance target, not to perform a role — but because the guest's comfort and happiness are genuinely valued. This is what separates omotenashi from other service traditions: the absence of transaction.
+At its heart, omotenashi is a philosophy of complete sincerity. The host acts entirely for the guest's benefit, not to earn a tip, not to meet a performance target, not to perform a role, but because the guest's comfort and happiness are genuinely valued. This is what separates omotenashi from other service traditions: the absence of transaction.
 
 **The contrast with transactional service:**
 
 In many service contexts, hospitality is framed as an exchange. The guest pays; the property delivers. Expectations are managed; complaints are handled according to protocol. In omotenashi, the frame is entirely different. The guest is received as a valued person, not as a customer. The host's purpose is not to satisfy a contract but to create a genuinely meaningful experience.
 
-This distinction has practical consequences. In a transactional model, staff do what is asked. In omotenashi, staff do what is needed, including things the guest hasn't asked for, hasn't thought to ask for, and may not even notice. The effort is invisible; only its effect is felt. The highest expression of omotenashi is when the guest feels completely at ease without being conscious of the care that produced that ease.
+This distinction has real consequences. In a transactional model, staff do what is asked. In omotenashi, staff do what is needed, including things the guest hasn't asked for, hasn't thought to ask for, and may not even notice. The effort is invisible; only its effect is felt. The highest expression of omotenashi is when the guest feels completely at ease without being conscious of the care that produced that ease.
 
 **Three defining qualities:**
 
@@ -24,17 +24,17 @@ This distinction has practical consequences. In a transactional model, staff do 
 
 **Omotenashi as a team culture:**
 
-Omotenashi is not solely the responsibility of guest-facing staff. The chef who selects ingredients at their seasonal peak, the housekeeper who folds a towel with precision, the coordinator who ensures a VIP's preferences are communicated before arrival — all of these are expressions of omotenashi. The philosophy runs through every function and every role, connecting each person's work to the guest's experience.
+Worth noting: omotenashi is not solely the responsibility of guest-facing staff. The chef who selects ingredients at their seasonal peak, the housekeeper who folds a towel with precision, the coordinator who ensures a VIP's preferences are communicated before arrival, all of these are expressions of omotenashi. The philosophy runs through every function and every role, connecting each person's work to the guest's experience.
 
 ---
 
 ## Key Phrases
 
 **いらっしゃいませ。** *(Irasshaimase.)*
-The first greeting a guest hears upon arrival — "Welcome." It is not directed at any one person; it is an expression that the guest's presence is felt and honoured.
+The first greeting a guest hears upon arrival: "Welcome." It is not directed at any one person; it is an expression that the guest's presence is felt and honoured.
 
 **どうぞ、ごゆっくりおくつろぎください。** *(Douzo, goyukkuri okutsurogikudasai.)*
-"Please relax at your leisure." Said when escorting a guest to their room or table — an invitation to take their time and feel at home.
+"Please relax at your leisure." Said when escorting a guest to their room or table: an invitation to take their time and feel at home.
 
 **何かご要望がございましたら、いつでもお申し付けください。** *(Nanika go-yōbō ga gozaimashitara, itsudemo o-mōshitsuke kudasai.)*
 "If there is anything you need, please do not hesitate to let us know at any time."
@@ -52,4 +52,4 @@ The first greeting a guest hears upon arrival — "Welcome." It is not directed 
 
 **Correct Answer:** Serving the guest sincerely and anticipating their needs, with no expectation of return
 
-**Explanation:** Omotenashi is defined by wholehearted sincerity and proactive care — not by transactional delivery or scripted interaction. The host acts for the guest's benefit, not for acknowledgement or reward. The effort is invisible; only its effect — the guest feeling genuinely welcomed and cared for — is meant to be experienced.
+**Explanation:** Omotenashi is defined by wholehearted sincerity and proactive care: not by transactional delivery or scripted interaction. The host acts for the guest's benefit, not for acknowledgement or reward. The effort is invisible; only its effect: the guest feeling genuinely welcomed and cared for: is meant to be experienced.

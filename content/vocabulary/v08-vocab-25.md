@@ -4,9 +4,12 @@ section: 25
 title: 分 (fun/pun)
 ---
 
-分 (分) is the Japanese counter for minutes and is one of the most practically important units of communication in hospitality settings. Nearly every directional exchange involving distance or waiting time will include 分, making it a high-frequency, high-stakes vocabulary item. In Japanese service culture, time estimates are taken seriously — guests make decisions about whether to walk or take a taxi, whether to explore before dinner or rest, based on the minute counts staff provide. An accurate, confidently delivered 徒歩約10分です carries real informational weight and contributes directly to guest satisfaction and planning.
+**Pronunciation:** [fun / pun, changes based on number]
+**Register:** Neutral to Formal, directions, wait times, schedule information
 
-In hospitality use, 分 nearly always appears in the pattern 〇分 (〇-fun/pun), either in the 徒歩〇分 (〇-minute walk) format for directions, or in the お待ち時間は約〇分でございます (the wait is approximately 〇 minutes) format for service timing. Staff should memorize the phonetic changes that 分 undergoes with different numbers, as these changes are automatic for native speakers but a common stumbling block for learners. Clear pronunciation of time estimates signals professionalism and prevents misunderstandings that lead to missed appointments or unhappy guests.
+分 is the counter for minutes, and in hospitality it gets used constantly. Every time you tell a guest how far the station is, how long the wait will be, or how much time dinner will take, 分 is in that sentence. Guests make real decisions based on the numbers you give them: do they walk or take a taxi, do they have time to explore before the restaurant opens, should they rest first. A confidently and accurately delivered 徒歩約10分です carries genuine informational weight.
+
+The trickier part of 分 is its pronunciation changes, and this is where students often trip up in actual service situations. The numbers 1, 3, 6, 8, and 10 all trigger a shift from ふん (fun) to ぷん (pun): 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Native speakers make these shifts automatically without thinking about them, so if you use ふん across the board, it immediately signals that you are still learning. That said, getting the numbers right is very achievable with consistent practice, and it is worth prioritizing early.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hospitality use, 分 nearly always appears in the pattern 〇分 (〇-fun/pun
 
 ## Related Expressions
 
-- **時間 (jikan)** — Hours (as in the duration counter), used for longer time spans. While 分 covers minutes, 時間 covers hours (1時間 = one hour); staff need both for full flexibility in time communication — for example, ご夕食は約2時間のコースでございます (dinner is approximately a 2-hour course) uses 時間, not 分.
-- **秒 (byou)** — Seconds, the smaller time unit below 分. In most hospitality directions and wait-time contexts, 分 is the appropriate unit; 秒 is only needed for very short intervals such as elevator door closing times or precise countdown situations, making it far less common than 分 in daily service.
+- **時間 (jikan)**: Hours as a duration counter. You need both 分 and 時間 to handle the full range of time communication: ご夕食は約2時間のコースでございます uses 時間, while a short walk uses 分. Mix them up and your estimates sound wildly off.
+- **秒 (byou)**: Seconds, the smaller unit below 分. In most directions and wait-time situations, 分 is what you want. Seconds come up mainly for facility-specific timing like elevator door closings, so 秒 is far less frequent in daily service.
 
 ## Common Mistakes
 
-The most important — and frequently tested — aspect of 分 is its pronunciation changes depending on the preceding number. The key irregular forms are: 1分 (いっぷん, ippun), 3分 (さんぷん, sanpun), 6分 (ろっぷん, roppun), 8分 (はっぷん, happun), 10分 (じゅっぷん, juppun). Using the base form ふん (fun) with these numbers sounds unnatural and immediately signals to Japanese guests that the speaker is a learner. Learners sometimes also confuse 分 (minutes) with 時間 (hours) when estimating longer journeys, giving 30時間 instead of 30分 — a catastrophic overestimate. Consistent practice with the full number-plus-counter combinations is essential before using them confidently in service.
+Students often learn the base form ふん first and then apply it everywhere, which is understandable but creates an unnatural sound. The irregular forms with ぷん are not exceptions to memorize reluctantly; they are the normal forms for those numbers. Drill 1分, 3分, 6分, 8分, and 10分 as a group until they come out automatically. A more serious mistake is confusing 分 (minutes) with 時間 (hours) when estimating a journey: telling a guest the airport is 30時間 away by car instead of 30分 is a significant error that will cause real alarm. When in doubt about a time estimate, it is better to say 約 (approximately) than to state a wrong number with confidence.
 
 ---
 
@@ -45,5 +48,5 @@ The most important — and frequently tested — aspect of 分 is its pronunciat
 
 **Correct Answer:** 分 (minutes)
 
-**Explanation:** 分 (minutes) is the standard time unit for walking distances — note the pronunciation change: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん); using the wrong pronunciation sounds unnatural to Japanese guests.
+**Explanation:** 分 (minutes) is the standard time unit for walking distances: note the pronunciation change: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん); using the wrong pronunciation sounds unnatural to Japanese guests.
 

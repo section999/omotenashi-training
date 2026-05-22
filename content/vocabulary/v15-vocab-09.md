@@ -4,9 +4,12 @@ section: 9
 title: 荷物 (nimotsu)
 ---
 
-荷物 is the standard Japanese word for luggage, baggage, or any personal belongings that a guest carries or transports. In Japanese hospitality, the proper handling of a guest's 荷物 is one of the most visible expressions of care and professionalism — bellhops and porters treat each piece with deliberate care, never tossing or stacking items carelessly. The word covers everything from a small handbag to a large suitcase, and staff should always ask for permission before touching a guest's 荷物. Upon check-in and check-out, offering to assist with 荷物 promptly and without being asked is a hallmark of attentive omotenashi service.
+**Pronunciation:** [ni-**mo**-tsu]
+**Register:** Neutral to Formal, always use with お (o-nimotsu) when addressing guests directly
 
-Hospitality staff must also be familiar with related 荷物 services such as storage between check-out and departure, forwarding luggage to the next hotel, and handling oversized or fragile items. When a guest reports missing or damaged 荷物, the response must be calm, apologetic, and action-oriented — immediately checking storage records, reviewing CCTV if available, and escalating to a supervisor if needed. Accurate labelling of stored 荷物 with the guest's name and room number is a basic but critical practice.
+荷物 is the standard Japanese word for luggage, baggage, or any personal belongings a guest is travelling with. It covers everything from a small handbag to an oversized suitcase, and using it correctly matters because hospitality staff interact with guests' 荷物 constantly. Bellhops and porters in Japan handle each piece with deliberate care, never tossing or stacking carelessly, and guests notice that attention. Always ask permission before touching a guest's 荷物. That small gesture of asking signals respect for their belongings and sets the tone for the whole interaction.
+
+Knowing the related services is just as important as knowing the word. Luggage storage between check-out and departure, forwarding bags to the next hotel, handling fragile or oversized items: all of these fall under the umbrella of 荷物 care. If a guest reports missing or damaged 荷物, stay calm, apologise sincerely, and move directly into action: check storage records, review the log, loop in a supervisor if needed. Students often underestimate how serious a missing bag situation feels to the guest. Accurate labelling with name and room number from the start prevents almost all of these moments.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hospitality staff must also be familiar with related 荷物 services such as sto
 
 ## Related Expressions
 
-- **手荷物 (tenimotsu)** — hand luggage or carry-on baggage; the smaller items a traveler keeps with them rather than checking in.
-- **荷物預かり (nimotsu azukari)** — luggage storage service; the formal service name used when guests wish to leave their 荷物 temporarily with hotel staff.
+- **手荷物 (tenimotsu)**: hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over.
+- **荷物預かり (nimotsu azukari)**: the luggage storage service itself; this is the formal service name you'll use when a guest wants to leave their bags temporarily in your care.
 
 ## Common Mistakes
 
-A frequent mistake is forgetting to use the honorific お before 荷物 when speaking to guests — always say お荷物 (o-nimotsu) in guest-facing speech. Learners also sometimes use スーツケース (suutsukeesu, suitcase) when a guest has multiple types of bags; 荷物 is the broader, more inclusive term. Additionally, never move or touch a guest's 荷物 without first asking permission — even with the best intentions, doing so without consent can make guests uncomfortable and reflects poorly on the hotel's professionalism.
+The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Always say お荷物 (o-nimotsu) when talking directly with a guest. Learners also sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. One more thing: never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someone's bag without a word can come across as intrusive rather than helpful.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent mistake is forgetting to use the honorific お before 荷物 when spe
 
 **Correct Answer:** 荷物 (luggage / baggage)
 
-**Explanation:** 荷物 (nimotsu) means luggage — personal items and bags carried during travel. 宅配便 = courier, 配達 = delivery, 貴重品 = valuables.
+**Explanation:** 荷物 (nimotsu) means luggage: personal items and bags carried during travel. 宅配便 = courier, 配達 = delivery, 貴重品 = valuables.

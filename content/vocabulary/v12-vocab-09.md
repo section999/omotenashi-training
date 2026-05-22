@@ -4,9 +4,12 @@ section: 9
 title: 消防車 (shoubousha)
 ---
 
-消防車 is the specialised fire service vehicle dispatched by the 消防署 (fire station) in response to a 火災 or other emergency requiring firefighting capacity, heavy rescue equipment, or aerial ladder access. In Japan, calling 119 simultaneously alerts both 救急車 (ambulance) and 消防車 services, allowing coordinated response. For hospitality staff, understanding the role of the 消防車 means knowing how to facilitate its arrival: keeping building access roads clear, unlocking gate barriers or parking area entrances, and meeting firefighters at the entrance to provide a floor plan and information about where guests may still be located.
+**Pronunciation:** [shou-**bou**-sha]
+**Register:** Standard, used in emergency communication and safety briefings
 
-Cooperation with 消防 (fire service) personnel is legally required, and obstructing or delaying fire department access is a serious offense. Hotels are periodically inspected by the fire department (消防署) to verify that access routes, hydrant connections, sprinkler systems, and evacuation plans meet regulatory standards. Staff should know where the building's 消防用水 (fire service water supply connections) are located so they can direct firefighters immediately upon arrival.
+消防車 is the fire service vehicle dispatched by the 消防署 (fire station) in response to a 火災 or any emergency requiring firefighting equipment, heavy rescue capacity, or aerial ladder access. In Japan, calling 119 triggers a coordinated response that can send both 救急車 and 消防車 at the same time, which is exactly why knowing that single number matters so much. For hospitality staff, understanding 消防車 is not just about vocabulary. It means knowing how to support their arrival: keep building access roads clear, unlock gate barriers and parking area entrances in advance, and have a floor plan ready to hand to the incident commander showing where guests may still be located.
+
+Cooperation with 消防 (fire service) personnel is legally required once they are on scene. When a 消防車 arrives, operational authority over the building shifts to the fire incident commander and staff must follow firefighter instructions, not attempt to manage the situation on their own. Hotels are also inspected periodically by the 消防署 to verify that access routes, hydrant connections, sprinkler systems, and evacuation plans meet code. Worth noting, knowing where your building's 消防用水 (fire service water supply connections) are located is the kind of detail that genuinely helps firefighters do their job faster when seconds count.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Cooperation with 消防 (fire service) personnel is legally required, and obstru
 
 ## Related Expressions
 
-- **消防署 (shoubousho)** — fire station; the permanent facility where 消防車 and firefighters are based; hospitality staff should know the address and direct phone number of the nearest 消防署.
-- **はしご車 (hashigoguruma)** — ladder truck; a type of 消防車 equipped with an extendable aerial ladder used for high-rise rescue; hotels above a certain height are required to verify their facilities are accessible by 消防車 including はしご車.
+- **消防署 (shoubousho)**: fire station; the permanent facility where 消防車 and firefighters are based; know the address and direct number of the nearest one, not just the emergency 119 line
+- **はしご車 (hashigoguruma)**: ladder truck; a type of 消防車 with an extendable aerial ladder used for high-rise rescue; hotels above a certain height are required to confirm their facilities are accessible to these vehicles
 
 ## Common Mistakes
 
-Learners sometimes confuse 消防車 (fire truck) with 消火器 (fire extinguisher) due to the shared first character 消 — the key distinction is that 消防車 is a large vehicle operated by professional firefighters, while 消火器 is a portable device used by anyone on site. Staff occasionally forget that when a 消防車 arrives, operational authority over the building shifts to the fire incident commander — staff must follow firefighter instructions, not attempt to manage the situation independently. Additionally, blocking fire lanes — even briefly for loading and unloading — is a violation that can have serious consequences in an actual emergency.
+Students often confuse 消防車 (fire truck) with 消火器 (fire extinguisher) because both start with 消. The distinction is simple: 消防車 is a large vehicle operated by professional firefighters responding from the fire station, while 消火器 is a portable device you pick up and use yourself on site. Another mistake is thinking that staff remain in charge once the 消防車 arrives. In practice, authority shifts to the fire incident commander and your job becomes supporting their operation, not running it. One more thing: fire lanes in front of hotels and access roads must never be blocked, even briefly for deliveries or guest loading. A vehicle in the wrong place during an actual emergency can delay the 消防車 in ways that matter.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 消防車 (fire truck) with 消火器 (fire extinguis
 
 **Correct Answer:** 消防車 (fire truck)
 
-**Explanation:** 消防車 (shoubousha) means fire truck — the specialised vehicle used to fight fires. 救急車 = ambulance, 警察 = police, タクシー = taxi.
+**Explanation:** 消防車 (shoubousha) means fire truck: the specialised vehicle used to fight fires. 救急車 = ambulance, 警察 = police, タクシー = taxi.

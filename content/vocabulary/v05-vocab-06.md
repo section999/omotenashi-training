@@ -4,9 +4,12 @@ section: 6
 title: メニュー (menyuu)
 ---
 
-メニュー, borrowed from the French "menu," refers to the list of food and beverage offerings available in a restaurant or dining venue. In Japanese hospitality, the presentation of the menu to a guest is not a mere procedural step but the opening of a dining narrative — it is done with both hands, accompanied by a slight bow, and often with a welcoming phrase that sets the tone for the meal. High-end hotel restaurants may offer separate menus for seasonal set courses, à la carte selections, wine, and dessert, all of which staff must be able to explain and recommend fluently. The メニュー is also a key tool for communicating allergen information, dietary options, and the kitchen's specialties.
+**Pronunciation:** [me-**nyuu**]
+**Register:** Formal/Neutral, used in all restaurant and dining contexts
 
-Staff should be familiar with every item on the メニュー and be able to explain dishes in accessible language without resorting to kitchen jargon. When a guest has difficulty deciding, offering a confident recommendation — particularly highlighting the chef's seasonal selection — is both helpful and demonstrates expertise. If the menu is only available in Japanese, offering an explanation or a translated summary to international guests reflects the inclusive hospitality philosophy at the heart of omotenashi.
+メニュー comes from the French "menu" and refers to the list of food and beverage offerings at a restaurant or dining venue. In Japan, presenting the menu is never just a formality. It is the opening moment of the dining experience, and guests notice immediately whether it is handled with care or indifference. The standard approach is to offer it with both hands, with a slight bow and a welcoming phrase that signals you are genuinely happy to help. High-end hotel restaurants often carry separate menus for seasonal set courses, à la carte, wine, and dessert, and staff need to be ready to explain and recommend items across all of them.
+
+Students often underestimate how much a confident menu explanation matters. When a guest seems unsure what to order, a well-placed recommendation, especially something seasonal or the chef's signature, reassures them that they are in good hands. Worth noting: when your menu is only in Japanese, offering a verbal summary or translated explanation to international guests is not just a nice touch, it is a direct expression of the inclusive spirit of omotenashi. The メニュー is also your primary tool for sharing allergen information and dietary options, so know it inside and out.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff should be familiar with every item on the メニュー and be able to expl
 
 ## Related Expressions
 
-- **お品書き (o-shinagaki)** — the traditional Japanese term for a written list of dishes, most commonly used in kaiseki or traditional Japanese restaurants; more culturally specific than メニュー.
-- **コース (koosu)** — refers specifically to a set multi-course meal rather than an à la carte selection; used when explaining fixed dining packages to guests.
+- **お品書き (o-shinagaki)**: the traditional Japanese term for a written list of dishes, most commonly used in kaiseki or traditional Japanese restaurants; it carries a more culturally rooted feeling than the loanword メニュー.
+- **コース (koosu)**: a fixed multi-course meal, as opposed to ordering à la carte; you will use this word often when walking guests through set dining packages.
 
 ## Common Mistakes
 
-A common mistake is simply placing the menu on the table without any accompanying words or gesture, which can feel impersonal in a hospitality context. Presenting with one hand rather than two is also considered insufficiently respectful in formal dining. Staff should avoid saying 見ておいて (take a look) — instead, always use the respectful ごゆっくりご覧ください or 何かご不明な点はございますか.
+A common mistake is simply placing the menu on the table without any accompanying words or gesture, which can feel cold and mechanical in a hospitality context. Presenting with one hand instead of two is also considered insufficiently respectful in formal dining. Staff should avoid saying 見ておいて to a guest. Instead, always use the respectful ごゆっくりご覧ください or 何かご不明な点はございますか. Students often overlook just how much the physical presentation of the menu communicates to a guest.
 
 ---
 
@@ -45,5 +48,5 @@ A common mistake is simply placing the menu on the table without any accompanyin
 
 **Correct Answer:** メニュー (menu)
 
-**Explanation:** メニュー is the menu — こちらが本日の〜でございます is the standard phrase for presenting the menu at tableside with appropriate ceremony.
+**Explanation:** メニュー is the menu: こちらが本日の〜でございます is the standard phrase for presenting the menu at tableside with appropriate ceremony.
 

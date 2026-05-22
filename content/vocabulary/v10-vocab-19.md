@@ -4,9 +4,12 @@ section: 19
 title: 残高 (zandaka)
 ---
 
-残高 refers to the remaining balance in an account, on a prepaid card, or within a guest's accumulated charges. In hospitality settings, 残高 most commonly appears in two contexts: the remaining balance on a guest's prepaid account or hotel card (positive 残高 meaning money left to spend), and the outstanding balance owed before full settlement (negative 残高 meaning the amount still to be paid). Understanding this dual direction of 残高 is important for staff, as the same word can describe either a credit or a debt depending on context. Accurate 残高 tracking is essential to prevent underpayment at checkout or overselling of prepaid services.
+**Pronunciation:** [zan-**da**-ka]
+**Register:** Formal/Neutral, standard in front desk and billing conversations
 
-Staff should be ready to communicate 残高 clearly and tactfully in situations such as informing a guest that their prepaid card balance is insufficient (残高不足) or providing a balance inquiry during a stay. Proactively checking and communicating 残高 before the final bill prevents awkward surprises at checkout. In ryokan and resort settings where all services are often settled at once at the end of a stay, monitoring each guest's running 残高 is a critical backstage function that supports a smooth departure experience.
+残高 is the word for a remaining balance, and it shows up in two distinct situations that are almost opposites. On one side, you have a guest with a prepaid account or hotel card who still has money left to spend (positive 残高). On the other, you have a guest who has used services but hasn't fully paid yet (outstanding 残高). Students often get tripped up here because the same word covers both directions. The key is context: are you talking about money the guest has available, or money they still owe?
+
+In practice, keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero, especially in a ryokan or resort where everything gets settled at checkout, saves you from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without any stress. That said, how you communicate this matters just as much as when you do it: 残高 conversations should always be calm, private, and matter-of-fact.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff should be ready to communicate 残高 clearly and tactfully in situations 
 
 ## Related Expressions
 
-- **不足 (fusoku)** — 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound term used when a balance is too low to cover a charge; understanding this pairing helps staff communicate payment shortfalls precisely and politely.
-- **合計 (goukei)** — 合計 is the total amount due, whereas 残高 is what remains after partial payment or what is left in a prepaid account; these two figures together help both staff and guests understand the full financial picture at checkout.
+- **不足 (fusoku)**: 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound you reach for when a balance falls short of a charge; knowing this pairing lets you communicate payment shortfalls precisely without sounding blunt.
+- **合計 (goukei)**: 合計 is the full total owed, while 残高 is what remains after partial payment or what sits in a prepaid account; together they give both staff and guests a clear picture of where things stand at checkout.
 
 ## Common Mistakes
 
-A frequent mistake is using 残高 without sufficient context, leaving a guest uncertain whether it refers to money they have left to spend or money they still owe. Always clarify the direction — for example, ご利用可能な残高 (available balance to spend) versus お支払い残高 (outstanding balance to be paid). Another error is failing to check 残高 before the final transaction, leading to embarrassing payment failures at checkout that could have been prevented with a simple prior inquiry.
+Worth noting: the most common error is using 残高 without specifying which direction it points, leaving the guest wondering whether they have money to spend or money they owe. Get in the habit of adding a qualifier: ご利用可能な残高 for an available balance to spend, and お支払い残高 for an outstanding amount due. The other mistake is skipping the balance check before the final transaction. A quick inquiry beforehand prevents payment failures at the desk, which are far more awkward for everyone than a gentle heads-up the day before.
 
 ---
 
@@ -45,5 +48,4 @@ A frequent mistake is using 残高 without sufficient context, leaving a guest u
 
 **Correct Answer:** 残高 (balance)
 
-**Explanation:** 残高 matters for prepaid accounts and loyalty points — if a guest's prepaid balance is insufficient (残高不足), inform them before the service is rendered rather than after, so they can top up or choose an alternative payment method without delay.
-
+**Explanation:** 残高 matters for prepaid accounts and loyalty points: if a guest's prepaid balance is insufficient (残高不足), inform them before the service is rendered rather than after, so they can top up or choose an alternative payment method without delay.

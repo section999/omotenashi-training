@@ -4,11 +4,11 @@ section: 12
 title: こちらへどうぞ (kochira e douzo)
 ---
 
-**こちらへどうぞ** means "please come this way" — *kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that initiates movement: you say it as you begin to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way" — it is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
+**こちらへどうぞ** means "please come this way." *Kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that starts movement: you say it as you begin to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way." It is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
 
-What distinguishes excellent guiding from adequate guiding in Japanese hospitality is the physical component. *Kochira e dōzo* is spoken while extending an open hand (palm up) in the direction of travel — never pointing with a single finger, which is considered impolite. The gesture and the phrase together create a smooth, welcoming invitation for the guest to follow.
+What separates excellent guiding from adequate guiding in Japanese hospitality is the physical component. *Kochira e dōzo* is spoken while extending an open hand (palm up) in the direction of travel, never pointing with a single finger, which is considered impolite. The gesture and the phrase together create a smooth, welcoming invitation for the guest to follow.
 
-During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu* — "excuse me, there are stairs"), and pauses at the destination to confirm arrival. The quality of the guided walk is part of the hospitality experience itself.
+During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu*, "excuse me, there are stairs"), and pauses at the destination to confirm arrival. Students sometimes focus so much on the verbal side that they neglect this physical dimension. In practice, the quality of the guided walk is itself part of the hospitality experience.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ During the walk itself, the guiding staff member typically walks slightly ahead 
 
 ## Related Expressions
 
-- **ご案内いたします (go-annai itashimasu)** — "I will guide you" — the more formal declaration of guidance, often said before *kochira e dōzo*
-- **こちらでございます (kochira de gozaimasu)** — "It is this way / here it is" — used to indicate a destination or object
-- **足元にお気をつけください (ashimoto ni o-ki wo tsukete kudasai)** — "Please watch your step" — said near stairs, thresholds, or uneven surfaces
+- **ご案内いたします (go-annai itashimasu)**: "I will guide you": the more formal declaration of guidance, often said before *kochira e dōzo*
+- **こちらでございます (kochira de gozaimasu)**: "It is this way / here it is": used to indicate a destination or object
+- **足元にお気をつけください (ashimoto ni o-ki wo tsukete kudasai)**: "Please watch your step": said near stairs, thresholds, or uneven surfaces
 
 ## Common Mistakes
 
-The most common mistake is pointing with a single finger rather than using an open-hand gesture. In Japanese etiquette, the open palm toward the direction of travel is the correct movement. A second mistake is walking too fast — the guest's pace should set the speed, not the staff member's. A third mistake is not announcing hazards (steps, thresholds, wet floors) before the guest encounters them; proactive safety guidance is part of the guiding responsibility.
+The most common mistake is pointing with a single finger rather than using an open-hand gesture. In Japanese etiquette, the open palm toward the direction of travel is correct. A second mistake is walking too fast: the guest's pace should set the speed, not the staff member's. A third mistake is not announcing hazards (steps, thresholds, wet floors) before the guest encounters them; proactive safety guidance is part of the guiding responsibility.
 
 ---
 
@@ -40,11 +40,11 @@ The most common mistake is pointing with a single finger rather than using an op
 
 **A guest has just checked in and you are about to lead them to their room. What do you say as you begin walking?**
 
-- A. ついてきてください。(Please follow me — too casual/direct)
+- A. ついてきてください。(Please follow me: too casual/direct)
 - B. こちらへどうぞ。お部屋までご案内いたします。(Please come this way. I will show you to your room.)
-- C. お部屋はあちらです。(Your room is that way — unhelpfully vague and unguiding)
-- D. エレベーターはそこです。(The elevator is there — pointing, not guiding)
+- C. お部屋はあちらです。(Your room is that way: unhelpfully vague and unguiding)
+- D. エレベーターはそこです。(The elevator is there: pointing, not guiding)
 
 **Correct Answer:** こちらへどうぞ。お部屋までご案内いたします。(Please come this way. I will show you to your room.)
 
-**Explanation:** *Kochira e dōzo* combined with *go-annai itashimasu* creates a complete, warm guiding invitation. It tells the guest where they are going and assures them they will be led there — no confusion, no independent navigation required. Use an open-palm gesture toward the direction of travel.
+**Explanation:** *Kochira e dōzo* combined with *go-annai itashimasu* creates a complete, warm guiding invitation. It tells the guest where they are going and assures them they will be led there: no confusion, no independent navigation required. Use an open-palm gesture toward the direction of travel.

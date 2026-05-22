@@ -4,9 +4,12 @@ section: 26
 title: 為替 (kawase)
 ---
 
-為替 refers to the mechanism of converting one currency into another, and in hospitality it is most frequently used as part of the compound 為替レート (exchange rate) — the numerical value applied when converting a guest's foreign currency into Japanese yen. The exchange rate is not fixed; it changes continuously based on global financial markets, and hotels or exchange counters that accept 外貨 must update their posted rates daily. A staff member who quotes an outdated or incorrect 為替レート, even inadvertently, may cause the hotel to incur a financial loss or may overcharge the guest — both of which damage trust and require remediation.
+**Pronunciation:** [ka-**wa**-se]
+**Register:** Formal -- most often used as part of the compound 為替レート in hospitality contexts
 
-In practical terms, staff working at properties that handle 外貨 payments should know where to find the day's official 為替レート (typically from a bank or financial service provider the hotel is affiliated with), how to apply it to a payment calculation, and how to display or communicate it clearly to guests. Posting the rate visibly — 本日の為替レートはこちらです — reduces misunderstandings and allows guests to make informed decisions about whether to pay in foreign currency or convert at a separate exchange counter. If a guest disputes the rate, always refer to the displayed official source rather than arguing from memory.
+為替 refers to the mechanism of converting one currency into another, and in hospitality it almost always appears as 為替レート, the exchange rate. This is the number that tells you how much Japanese yen a unit of foreign currency is worth on any given day. The rate is not fixed: it shifts continuously based on global markets, and a figure that was accurate yesterday may be noticeably off today. Staff who handle 外貨 payments need to know where to find the official daily rate and how to apply it, because an incorrect rate, even an innocent one, either costs the hotel money or overcharges the guest.
+
+In practice, the cleanest approach is to post the current 為替レート visibly near the front desk or cashier area with a sign like 本日の為替レートはこちらです. This lets guests verify the conversion themselves before deciding whether to pay in foreign currency or go to a separate exchange counter. When a guest questions your rate, always point to the official posted source rather than defending it from memory. Students often skip that documentation step and then find themselves in an uncomfortable standoff over a number they can't prove.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In practical terms, staff working at properties that handle 外貨 payments shou
 
 ## Related Expressions
 
-- **外貨 (gaika)** — 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; you need 外貨 to have a need for 為替, and you need the 為替 to calculate how much the 外貨 is worth in yen.
-- **両替 (ryougae)** — 両替 is the act of physically exchanging one currency for another; the 為替レート is what determines how much of one currency is given in exchange for another, making 為替 the foundation on which any 両替 transaction is calculated.
+- **外貨 (gaika)**: 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; you need 外貨 to have a reason to use 為替, and you need 為替 to know what the 外貨 is actually worth.
+- **両替 (ryougae)**: 両替 is the physical act of swapping one currency for another; the 為替レート is what determines how much of one currency is given for another, making 為替 the arithmetic foundation of every 両替 transaction.
 
 ## Common Mistakes
 
-The most critical mistake with 為替 is quoting a rate from memory rather than checking the official daily rate — exchange rates can shift significantly even within a single day, and a rate quoted from yesterday or from a previous interaction may be materially incorrect. Learners also sometimes use 為替 alone when they mean 為替レート; in hospitality conversation, always specify レート to avoid ambiguity (為替 alone can also refer to bill-of-exchange instruments in a banking context). Finally, never round exchange rates arbitrarily — always use the official posted rate and document it on the transaction record for accountability.
+The biggest mistake is quoting a rate from memory. Exchange rates can move significantly within a single day, so a figure from this morning's check-in may already be wrong by afternoon. Always verify before quoting. Worth noting for learners: saying 為替 alone in a hospitality conversation can cause confusion because in a broader banking context 為替 also refers to bill-of-exchange instruments. Saying 為替レート makes your meaning unambiguous. One more thing: never round the exchange rate arbitrarily. Use the official posted figure and record it on the transaction for accountability.
 
 ---
 
@@ -44,5 +47,4 @@ The most critical mistake with 為替 is quoting a rate from memory rather than 
 
 **Correct Answer:** 為替 (exchange rate)
 
-**Explanation:** 為替レートは毎日変わります (exchange rates change daily) — always use the official rate of the day and never quote a rate from memory; an incorrect rate, even if given in good faith, can result in the hotel absorbing losses or the guest being overcharged.
-
+**Explanation:** 為替レートは毎日変わります (exchange rates change daily): always use the official rate of the day and never quote a rate from memory; an incorrect rate, even if given in good faith, can result in the hotel absorbing losses or the guest being overcharged.

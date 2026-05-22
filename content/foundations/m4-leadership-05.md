@@ -4,37 +4,37 @@ section: 5
 title: Building a Culture of Excellence
 ---
 
-The quality of a hotel or restaurant is not determined by its facilities, its location, or even its individual staff members. It is determined by its culture — the shared values, habits, and expectations that govern how people behave when no one is watching. A culture of excellence is one in which every member of the team, at every level, takes genuine personal responsibility for the quality of the guest experience. Building and sustaining that culture is the most important work a leader in hospitality can do.
+The quality of a hotel or restaurant is not determined by its facilities, its location, or even its individual staff members. It is determined by its culture, the shared values, habits, and expectations that govern how people behave when no one is watching. A culture of excellence is one in which every member of the team, at every level, takes genuine personal responsibility for the quality of the guest experience. Building and sustaining that culture is the most important work a leader in hospitality can do.
 
 ### What Culture Actually Is
 
 Culture is not a mission statement on a wall. It is the accumulation of a thousand small decisions made every day: whether staff greet each other respectfully in the corridor, whether concerns are raised openly or suppressed, whether a piece of litter on the floor is picked up by whoever sees it or left for someone else. Culture is what people do when no rule specifically requires it.
 
-A culture of excellence is one in which each person's standard for their own behaviour is higher than any external requirement. It is a culture in which staff feel genuine pride in their work — not because they have been told to, but because they care about the people they serve and the team they belong to.
+A culture of excellence is one in which each person's standard for their own behaviour is higher than any external requirement. It is a culture in which staff feel genuine pride in their work, not because they have been told to, but because they care about the people they serve and the team they belong to.
 
 ### The Leader's Role in Culture
 
-Culture is built through consistency and ceremony. Consistency means that the leader's conduct — their standards, their care, their response to difficulty — remains the same whether they are being observed or not. Ceremony means that the team's achievements and values are made visible and celebrated: the quiet acknowledgement of a colleague who handled a difficult situation with exceptional grace, the team briefing that begins with a story of excellent guest care from the previous week.
+Culture is built through consistency and ceremony. Consistency means that the leader's conduct, their standards, their care, their response to difficulty, remains the same whether they are being observed or not. Ceremony means that the team's achievements and values are made visible and celebrated: the quiet acknowledgement of a colleague who handled a difficult situation with exceptional grace, the team briefing that begins with a story of excellent guest care from the previous week.
 
 ### Rituals That Build Culture
 
 - **The recognition moment**: Beginning briefings with a genuine acknowledgement of something excellent from the previous shift
 - **The reflection question**: Ending shifts with "What was one moment today when you truly felt you made a difference?"
 - **The standard question**: When a new practice is proposed, asking "Does this serve the guest, or just us?" as the primary filter
-- **The open door**: Maintaining a genuine openness to feedback from junior staff — the people closest to the guest experience often see things that leaders cannot
+- **The open door**: Maintaining a genuine openness to feedback from junior staff, the people closest to the guest experience often see things that leaders cannot
 
 ### The Long View
 
-Culture is built slowly and can be damaged quickly. The leader who cuts corners once teaches the team that corners can be cut. The leader who maintains standards under genuine difficulty — exhausted, understaffed, under pressure — teaches the team that the standards are real. The most powerful thing a leader in hospitality can do is to care about the guest as sincerely at the end of a difficult Friday night as they did on their first day. That sincerity, witnessed by the team, becomes the culture.
+Culture is built slowly and can be damaged quickly. The leader who cuts corners once teaches the team that corners can be cut. The leader who maintains standards under genuine difficulty, exhausted, understaffed, under pressure, teaches the team that the standards are real. In practice, the most powerful thing a leader in hospitality can do is to care about the guest as sincerely at the end of a difficult Friday night as they did on their first day. That sincerity, witnessed by the team, becomes the culture.
 
 ---
 
 ## Key Phrases
 
-**チーム一丸となって (chīmu ichigan to natte)** — "as a united team / with the whole team as one" — an expression of collective purpose; used in briefings and team contexts to reinforce that excellent hospitality is a shared commitment, not an individual achievement
+**チーム一丸となって (chīmu ichigan to natte)**: "as a united team / with the whole team as one": an expression of collective purpose; used in briefings and team contexts to reinforce that excellent hospitality is a shared commitment, not an individual achievement
 
 **おもてなしの心を忘れずに (omotenashi no kokoro wo wasurezu ni)** *(Omotenashi no kokoro wo wasurezu ni.)*
-"Without forgetting the spirit of omotenashi." — a phrase used by leaders to call the team back to the core value beneath all technical standards; a reminder that the guest's experience, not the procedure, is the ultimate measure
+"Without forgetting the spirit of omotenashi.": a phrase used by leaders to call the team back to the core value beneath all technical standards; a reminder that the guest's experience, not the procedure, is the ultimate measure
 
 ---
 
@@ -43,10 +43,10 @@ Culture is built slowly and can be damaged quickly. The leader who cuts corners 
 **A leader wants to build a stronger culture of excellence in their team. Which action is most effective?**
 
 - A. Issue a formal policy document outlining expected conduct
-- B. Consistently model the standards they expect — in every interaction, every day — and create regular moments that celebrate excellent guest care
+- B. Consistently model the standards they expect: in every interaction, every day: and create regular moments that celebrate excellent guest care
 - C. Increase the frequency of formal performance reviews
 - D. Post the mission statement in a prominent location for all staff to see
 
-**Correct Answer:** Consistently model the standards they expect — in every interaction, every day — and create regular moments that celebrate excellent guest care
+**Correct Answer:** Consistently model the standards they expect: in every interaction, every day: and create regular moments that celebrate excellent guest care
 
-**Explanation:** Culture is built through consistent demonstration and shared ceremony — not policy documents. A leader who embodies the standards they expect, and who regularly celebrates those standards when they appear in others, creates a team that carries those values as their own.
+**Explanation:** Culture is built through consistent action and shared ceremony: not policy documents. A leader who embodies the standards they expect, and who regularly celebrates those standards when they appear in others, creates a team that carries those values as their own.

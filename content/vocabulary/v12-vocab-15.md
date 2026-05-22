@@ -4,9 +4,12 @@ section: 15
 title: 応急処置 (oukyuu shochi)
 ---
 
-応急処置 (oukyuu shochi) refers to the immediate, temporary care provided to an injured or suddenly ill person before professional medical assistance arrives. The term literally combines 応急 (emergency / makeshift response) and 処置 (treatment / measures), conveying the idea of a rapid practical intervention. In the hotel industry, the ability to perform 応急処置 is a core safety competency — staff may encounter situations involving cuts, burns, choking, cardiac arrest, or allergic reactions, and a prompt, correct response can be the difference between a minor incident and a life-threatening emergency. Japanese hotel chains frequently require front-line staff to hold basic first aid certification, and refresher drills are conducted regularly.
+**Pronunciation:** [ou-**kyuu** sho-**chi**]
+**Register:** Formal, emergency response and first aid
 
-The scope of 応急処置 in a hotel setting typically includes wound cleaning and bandaging, the application of ice packs for sprains or minor swelling, assisting a choking guest with the Heimlich manoeuvre, and performing CPR (心肺蘇生, shinpai sosei) until paramedics arrive. Every floor of a Japanese hotel is generally required to have a first aid kit (救急箱, kyuukyuubako) in an accessible location, and staff must know exactly where it is stored. When communicating with guests during 応急処置, staff should use calm, reassuring language to prevent panic while managing the situation efficiently. After the immediate crisis is resolved, a written incident report must be completed and submitted to management.
+応急処置 is the immediate, temporary care you give to an injured or suddenly ill person before professional medical help arrives. Break the word down: 応急 means an emergency or makeshift response, and 処置 means treatment or measures. Together they describe exactly what first aid is, a rapid practical intervention designed to stabilise the situation, not to replace a doctor. In hotel work, this skill comes up more than many new staff expect. Cuts, burns, choking, allergic reactions, cardiac arrest, sprained ankles from staircase falls: these are all real scenarios. Japanese hotel chains frequently require front-line staff to hold a basic first aid certification, and drills are run regularly for good reason.
+
+In practice, the scope of 応急処置 in a hotel includes wound cleaning and bandaging, ice packs for sprains, assisting a choking guest with the Heimlich manoeuvre, and performing CPR (心肺蘇生, shinpai sosei) until paramedics arrive. Every floor should have a first aid kit (救急箱, kyuukyuubako) in an accessible location, and every staff member should know exactly where theirs is without having to think twice. When you are treating a guest, your tone matters enormously. Calm, reassuring language prevents panic and keeps the situation manageable. Once the immediate crisis is resolved, you must complete a written incident report and submit it to management that same day.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The scope of 応急処置 in a hotel setting typically includes wound cleaning a
 
 ## Related Expressions
 
-- **救急箱 (kyuukyuubako)** — first aid kit; the physical container of supplies used when carrying out 応急処置, which must be regularly checked and restocked.
-- **心肺蘇生 (shinpai sosei)** — CPR (cardiopulmonary resuscitation); the most critical form of 応急処置 performed when a guest goes into cardiac arrest.
+- **救急箱 (kyuukyuubako)**: first aid kit; the physical container of supplies used when carrying out 応急処置. It must be checked and restocked regularly, and every staff member needs to know its location on their floor.
+- **心肺蘇生 (shinpai sosei)**: CPR (cardiopulmonary resuscitation); the most critical form of 応急処置, performed when a guest goes into cardiac arrest. Knowing how to do this is not optional for hotel staff.
 
 ## Common Mistakes
 
-Learners sometimes translate 応急処置 too narrowly as just "bandaging," when in fact it covers all forms of immediate care — including CPR, recovery positioning, and choking response. Another mistake is conflating 応急処置 with 治療 (chiryou), which refers to ongoing medical treatment by a professional; 応急処置 is explicitly a temporary measure. In spoken hotel communication, be careful to pronounce 応急 (oukyuu) clearly, as it can be confused with 救急 (kyuukyuu), which specifically refers to emergency services or ambulances — a related but distinct concept.
+Students often think of 応急処置 as just bandaging, but the term covers all forms of immediate care: CPR, recovery positioning, choking response, everything up until the medical professionals take over. Worth noting is the difference between 応急処置 and 治療 (chiryou): 治療 refers to ongoing medical treatment by a qualified professional, while 応急処置 is explicitly a temporary bridge. There is also a pronunciation trap: 応急 (oukyuu) can be confused with 救急 (kyuukyuu), which refers specifically to emergency services and ambulances. The words are related but distinct, and mixing them up in a real emergency would cause confusion. Say them both aloud a few times until you can keep them apart confidently.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes translate 応急処置 too narrowly as just "bandaging," when
 
 **Answer:** 応急処置
 
-**Explanation:** 応急処置 (oukyuu shochi) means first aid — temporary immediate care to stabilise a patient before professional treatment.
+**Explanation:** 応急処置 (oukyuu shochi) means first aid: temporary immediate care to stabilise a patient before professional treatment.

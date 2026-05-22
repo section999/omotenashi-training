@@ -4,9 +4,12 @@ section: 19
 title: 利用時間 (riyou jikan)
 ---
 
-利用時間 (riyou jikan) means "usage hours" or "hours of operation," referring to the designated time period during which a particular service or facility is available for guest use. The term is composed of 利用 (riyou, meaning use or utilisation) and 時間 (jikan, meaning time or hours), making the meaning transparent: the hours during which something may be used. In hotel environments, 利用時間 appears prominently in the context of facilities such as the laundry room, coin lockers, gym, pool, spa, business centre, and restaurant. Guests unfamiliar with Japanese hotels often expect 24-hour access to all facilities, so clear communication of 利用時間 is essential for managing expectations and avoiding frustration.
+**Pronunciation:** [ri-**you**-ji-kan]
+**Register:** Formal/Neutral -- standard hospitality usage for facility hours
 
-Hotel staff are responsible for proactively communicating 利用時間 when guests inquire about a service, as well as when the staff member anticipates a potential issue — for example, if a guest arrives at the lobby at 11 PM asking about the gym. The phrasing is typically polite and constructive: 「当施設のプールの利用時間は午前6時より午後10時までとなっております」 (Our pool is available from 6 AM until 10 PM). If a service has different 利用時間 on weekdays versus weekends, or during peak versus off-peak seasons, staff should know these details and communicate them clearly. Posting 利用時間 clearly at facility entrances is also a standard courtesy.
+利用時間 (riyou jikan) means "usage hours" or "hours of operation" -- the designated window during which a facility or service is available for guests to use. The word breaks down simply: 利用 (riyou) means "use," and 時間 (jikan) means "time" or "hours." In practice, you'll see this word constantly across hotel environments -- laundry rooms, coin lockers, the gym, the pool, the spa, the business center. Guests from outside Japan sometimes assume 24-hour access to everything, so knowing how to communicate 利用時間 clearly is one of those small skills that prevents a lot of frustration.
+
+Your job isn't just to answer when asked. If a guest arrives at the lobby at 11 PM and mentions they want to use the gym, you should be the one to bring up 利用時間 before they walk over and find a locked door. The phrasing is typically constructive and polite: 「当施設のプールの利用時間は午前6時より午後10時までとなっております」 (Our pool is available from 6 AM until 10 PM). Worth noting: some facilities have different hours on weekdays versus weekends, or during peak seasons, and guests do ask. Know your property's schedule in detail -- front desk staff who hesitate on this question don't leave a confident impression.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff are responsible for proactively communicating 利用時間 when gues
 
 ## Related Expressions
 
-- **営業時間 (eigyou jikan)** — business hours; similar to 利用時間 but typically refers to the opening hours of a shop, restaurant, or service counter rather than a self-use facility
-- **受付時間 (uketsuke jikan)** — reception hours; the specific period during which a desk or counter is staffed and accepting requests, often a subset of the facility's overall 利用時間
+- **営業時間 (eigyou jikan)**: business hours; similar concept to 利用時間, but this one is used for shops, restaurants, or service counters that are staffed -- not self-use facilities where you just walk in
+- **受付時間 (uketsuke jikan)**: reception hours; the specific window when a desk or counter is staffed and taking requests, which is often shorter than the facility's overall 利用時間
 
 ## Common Mistakes
 
-Learners sometimes use 開店時間 (kaiten jikan, opening time of a shop) or simply 時間 (jikan, time) when they mean 利用時間. In hospitality, specificity matters: using the correct term shows professionalism and prevents misunderstandings. Another error is stating 利用時間 without specifying AM or PM — always use 午前 (gozen) and 午後 (gogo) to be unambiguous, as the 12-hour clock without these qualifiers can cause confusion.
+Students often reach for 開店時間 (kaiten jikan, shop opening time) or just say 時間 (jikan, time) when they mean 利用時間. In hospitality, using the right term matters -- it tells the guest you know the space you're working in. One more thing: always qualify times with 午前 (gozen) or 午後 (gogo) when speaking. Saying "seven o'clock" without clarifying AM or PM genuinely confuses people, and that confusion lands on you.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 開店時間 (kaiten jikan, opening time of a shop) or si
 
 **Correct Answer:** 利用時間 (usage hours)
 
-**Explanation:** 利用時間 (riyou jikan) means usage hours — the designated time period during which a service such as laundry or lockers is available. 延長料金 = extension fee, 荷物 = luggage, 管理番号 = tracking number.
+**Explanation:** 利用時間 (riyou jikan) means usage hours: the designated time period during which a service such as laundry or lockers is available. 延長料金 = extension fee, 荷物 = luggage, 管理番号 = tracking number.

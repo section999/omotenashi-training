@@ -4,9 +4,12 @@ section: 27
 title: 安全確認 (anzen kakunin)
 ---
 
-安全確認 means a safety check or safety verification — the systematic process of confirming that equipment, spaces, or procedures are free from hazards before guests use them. In a hotel environment, 安全確認 takes many forms: testing elevator mechanisms before the morning rush, inspecting pool or spa water quality, checking that fire exits are unobstructed, and verifying that kitchen appliances are functioning correctly. The practice reflects the Japanese hospitality philosophy that guest safety is a prerequisite for omotenashi — excellence of service cannot be delivered if the environment poses risk. 安全確認 is therefore not a reactive activity but a proactive, scheduled discipline embedded in the daily routine of every department. Staff members are expected to conduct and document these checks as a matter of professional responsibility.
+**Pronunciation:** [an-zen **ka**-ku-nin]
+**Register:** Formal, operational and safety procedures
 
-In operational language, 安全確認を行う (anzen kakunin wo okonau) or 安全確認を実施する (anzen kakunin wo jisshi suru) are the standard verbal phrases for "to conduct a safety check." Results are typically logged in a 点検記録 (inspection record) that can be reviewed by management or regulatory authorities. When a safety check reveals a problem, the affected area or equipment must be taken out of service and marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Communicating clearly with guests about temporary unavailability due to safety checks demonstrates that the hotel prioritizes their wellbeing over convenience.
+安全確認 means a safety check or safety verification, the systematic process of confirming that equipment, spaces, or procedures are clear of hazards before guests use them. In a hotel this takes many shapes: testing elevator mechanisms before the morning rush, checking pool or spa water quality, making sure fire exits are unobstructed, verifying that kitchen appliances are working correctly. The underlying principle here is that guest safety is a prerequisite for omotenashi. You can't deliver excellent service in an environment that poses risk, so 安全確認 isn't a reactive activity you do after something goes wrong. It's a proactive, scheduled discipline that every department builds into its daily routine.
+
+In operational language, 安全確認を行う or 安全確認を実施する are the standard verb phrases for "to conduct a safety check." Results go into a 点検記録 (inspection record) available for management or regulatory review. When a check turns up a problem, the affected area or equipment comes out of service immediately and gets marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Worth noting is how you handle guest communication in those moments: explaining that something is temporarily unavailable due to a safety check, rather than saying nothing, signals that the hotel takes their wellbeing seriously. Most guests respond well to that transparency.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In operational language, 安全確認を行う (anzen kakunin wo okonau) or 安�
 
 ## Related Expressions
 
-- **点検 (tenken)** — inspection or maintenance check; a broader term encompassing both safety and operational checks; 安全確認 specifically emphasizes the safety dimension of an inspection
-- **確認作業 (kakunin sagyou)** — verification work; refers to the broader category of confirmation activities, of which 安全確認 is the safety-specific subset
+- **点検 (tenken)**: inspection or maintenance check; a broader term covering both safety and operational checks. 安全確認 specifically emphasizes the safety dimension of an inspection, so while the two overlap, they're not interchangeable.
+- **確認作業 (kakunin sagyou)**: verification work; the broader category of confirmation activities, of which 安全確認 is the safety-specific subset.
 
 ## Common Mistakes
 
-Learners sometimes treat 安全確認 as purely administrative paperwork rather than a hands-on physical verification process — in hospitality, both the physical check and its documentation are essential and inseparable. Another error is failing to communicate the outcome of a safety check to the relevant department or management, leaving issues unresolved. Staff should also avoid using the word 安全確認 casually with guests unless they are explaining a specific service interruption, as it can raise unnecessary concern if mentioned without context.
+Students sometimes treat 安全確認 as administrative paperwork rather than a hands-on physical process. In hospitality, both the physical check and its documentation are equally essential. Another common gap is failing to communicate findings to the relevant department or manager, which leaves problems sitting unresolved. One more thing to be careful about: avoid dropping the phrase 安全確認 casually into guest conversation unless you're directly explaining a service interruption. Without context it can raise unnecessary alarm rather than reassure.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes treat 安全確認 as purely administrative paperwork rather 
 
 **Answer:** 安全確認
 
-**Explanation:** 安全確認 (anzen kakunin) means safety check — verifying equipment or areas are safe before allowing use.
+**Explanation:** 安全確認 (anzen kakunin) means safety check: verifying equipment or areas are safe before allowing use.

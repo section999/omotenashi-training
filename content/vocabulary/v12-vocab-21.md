@@ -4,9 +4,12 @@ section: 21
 title: 点検中 (tenken chuu)
 ---
 
-点検中 (tenken chuu) is a compound term meaning "under inspection" or "currently being checked." It combines 点検 (inspection, check) with 中 (in the middle of, currently underway). In a hotel environment, this status notice appears on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems when scheduled or emergency maintenance is taking place. Regular 点検 (inspections) are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so the 点検中 sign is a familiar and important communication tool for both safety and compliance.
+**Pronunciation:** [**ten**-ken **chuu**]
+**Register:** Formal/Neutral, facility management and guest communication
 
-When a system or facility is 点検中, staff must do more than simply post a sign — they should also communicate the situation verbally to guests who approach the area, explain the estimated duration of the inspection, and offer alternative options where available. For example, if an elevator is 点検中, staff should direct guests to the nearest staircase or available alternative elevator and offer assistance to guests who have difficulty using stairs. The tone of communication should remain apologetic and helpful, reflecting the omotenashi principle of anticipating inconvenience and minimising its impact. After the inspection is complete, the area should be reopened promptly and any findings reported to the maintenance log.
+点検中 means "under inspection" or "currently being checked." It combines 点検 (inspection) with 中 (in the middle of, currently underway). You will see this status posted on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems whenever scheduled or emergency maintenance is taking place. Regular inspections are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so 点検中 is a familiar notice for both staff and guests. It tells people that a system is being checked, and that access to it is temporarily paused.
+
+When something is 点検中, posting a sign is just the start of your job. Staff should approach any guest who comes toward the restricted area, explain the situation verbally, give an estimated duration if possible, and offer alternatives. If the elevator is 点検中, direct guests to the nearest staircase or an available lift and offer to carry luggage or accompany anyone who has difficulty with stairs. In practice, guests who receive a clear, apologetic explanation and are pointed toward a workable alternative almost never complain about routine maintenance. It is the silence and the unexplained sign that causes frustration. After the inspection is complete, reopen the area promptly and log the findings in the maintenance record.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a system or facility is 点検中, staff must do more than simply post a si
 
 ## Related Expressions
 
-- **定期点検 (teiki tenken)** — scheduled inspection; a routine, planned 点検 conducted at regular intervals (monthly, quarterly, annually) to ensure systems remain safe and compliant, as opposed to emergency inspections.
-- **修理中 (shuurichuu)** — under repair; a related status that follows 点検中 when the inspection reveals a fault, indicating the facility is being actively fixed rather than simply checked.
+- **定期点検 (teiki tenken)**: scheduled inspection; a routine, planned 点検 carried out at regular intervals, whether monthly, quarterly, or annually, to keep systems safe and compliant. This is distinct from an emergency inspection triggered by a fault.
+- **修理中 (shuurichuu)**: under repair; the status that follows 点検中 when the inspection reveals a fault and active fixing is underway. Worth knowing the difference: 点検中 means being checked, 修理中 means being fixed.
 
 ## Common Mistakes
 
-A common error is using 点検中 and 修理中 interchangeably — 点検中 means the system is being checked (no fault may have been found yet), while 修理中 means it is actively being repaired due to a confirmed problem. Learners sometimes also omit the formal apology when informing guests of a 点検中 situation; in omotenashi culture, even routine maintenance that causes minor inconvenience should be acknowledged with a sincere お詫び (apology). Finally, remember that 点検中 signs alone are insufficient — verbal communication and alternative guidance are always expected alongside posted notices.
+Students often use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong one gives guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. That said, the biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and genuine alternative guidance for every guest who approaches.
 
 ---
 
@@ -44,4 +47,4 @@ A common error is using 点検中 and 修理中 interchangeably — 点検中 me
 
 **Correct Answer:** 点検中 (under inspection)
 
-**Explanation:** 点検中 (tenken chuu) means under inspection — a facility or device is currently being checked. 使用禁止 = do not use, 注意 = caution, 危険 = danger.
+**Explanation:** 点検中 (tenken chuu) means under inspection: a facility or device is currently being checked. 使用禁止 = do not use, 注意 = caution, 危険 = danger.

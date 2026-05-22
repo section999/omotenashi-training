@@ -4,9 +4,12 @@ section: 1
 title: レストラン (resutoran)
 ---
 
-レストラン is the standard Japanese term for a restaurant, borrowed from the French "restaurant." In the hotel context it encompasses the full spectrum of dining facilities, from casual all-day dining to formal fine-dining venues within the property. Understanding what the hotel's レストラン offers — cuisine type, price range, and ambiance — is fundamental knowledge every front-line staff member must have before interacting with guests. Being able to confidently direct guests and communicate the dining experience reflects professionalism and embodies the omotenashi spirit of anticipating needs.
+**Pronunciation:** [re-su-**to**-ran]
+**Register:** Neutral, Operational, dining information, guest directions, F&B communication
 
-When a guest arrives at the front desk or asks for dining recommendations, the staff member should be ready to state operating hours, current availability, and any special features such as seasonal menus or dress codes. If the hotel has multiple dining outlets, it is important to clarify which specific venue is being discussed. Phrases like レストランはこちらでございます pair naturally with a graceful gesture toward the dining area, making the guest feel personally guided rather than simply pointed in a direction.
+レストラン is the standard Japanese word for a restaurant, borrowed from French, and in the hotel context it can mean anything from a casual all-day cafe to a formal fine-dining venue on the top floor. Before you start directing guests to it, take the time to actually know what the hotel's レストラン offers: the cuisine type, the price range, the dress code if there is one, and what makes it worth visiting. Being able to say "our restaurant specialises in seasonal kaiseki cuisine and has views of the garden" is a completely different level of service from just pointing and saying "it is over there." The first shows omotenashi; the second shows that you know where the door is.
+
+When guests ask about dining, be ready with operating hours, current availability, and reservation requirements. If the hotel has multiple dining outlets, be specific about which one you are describing. That said, the most important thing is how you deliver the information. The phrase レストランはこちらでございます, delivered with a proper guiding gesture and genuine warmth, makes a guest feel personally accompanied rather than just redirected. That difference, between pointing and guiding, between saying words and actually serving, is what hospitality training is really about.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest arrives at the front desk or asks for dining recommendations, the s
 
 ## Related Expressions
 
-- **食堂 (shokudou)** — a more utilitarian dining hall, common in ryokan or staff canteen settings; carries a less elegant connotation than レストラン and is rarely used with hotel guests.
-- **ダイニング (dainingu)** — an upscale loanword alternative sometimes used in luxury hotel branding; interchangeable in many contexts but implies a more refined atmosphere.
+- **食堂 (shokudou)**: a more utilitarian dining hall, common in ryokan or staff canteen settings; carries a much less polished feel than レストラン and is rarely the right word to use in guest-facing situations
+- **ダイニング (dainingu)**: an upscale loanword alternative used in some luxury hotel branding; similar in meaning but implies a slightly more curated, refined atmosphere
 
 ## Common Mistakes
 
-Learners sometimes use the casual form レストランはあそこです when directing guests, which sounds abrupt in a professional setting; always attach ございます or でございます. Another frequent error is forgetting to add the honorific prefix ご when discussing the guest's dining experience (e.g., ご利用 rather than 利用). Avoid mixing casual directional phrases like そこ or あそこ with otherwise polished sentences.
+Students often direct guests with the casual form レストランはあそこです, which sounds abrupt in a professional setting. Always use ございます or でございます at the end. Another frequent slip is forgetting the honorific prefix ご when talking about the guest's dining experience, ご利用 rather than 利用, for example. And avoid mixing casual directional words like そこ or あそこ into an otherwise polished sentence; the register inconsistency stands out more than you might think.
 
 ---
 
@@ -44,5 +47,4 @@ Learners sometimes use the casual form レストランはあそこです when di
 
 **Correct Answer:** レストランはこちらでございます (the restaurant is here)
 
-**Explanation:** レストランはこちらでございます guides the guest to the dining area — はこちら (this way) paired with ございます creates a polite, welcoming direction.
-
+**Explanation:** レストランはこちらでございます guides the guest to the dining area: はこちら (this way) paired with ございます creates a polite, welcoming direction.

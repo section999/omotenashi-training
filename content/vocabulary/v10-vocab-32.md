@@ -4,9 +4,12 @@ section: 32
 title: クーポン (kuupon)
 ---
 
-クーポン is a Japanese loanword derived from the English "coupon," referring to a certificate, voucher, or digital code that entitles the holder to a discount, complimentary item, or special benefit. In Japanese hospitality, クーポン appear in many forms — paper coupons distributed in hotel amenity packets, digital codes sent via email or booking platforms, or QR-based promotions on travel apps. They serve as a key marketing tool to attract guests and reward loyalty, and handling them correctly is an important operational skill. The concept aligns with the Japanese value of 割引 (waribiki, discount) while maintaining the dignity of the service exchange.
+**Pronunciation:** [ku-u-**pon**]
+**Register:** Neutral -- used with guests in everyday service interactions
 
-Staff must verify two things before applying a クーポン: that it is 有効 (valid, i.e., within the expiry date) and that the guest's purchase or service qualifies under the stated conditions. If a クーポン cannot be applied, staff should explain the reason clearly and apologetically, offering alternative assistance if possible. When a クーポン is accepted, it is good practice to confirm the discounted amount with the guest before finalizing the transaction so there are no surprises.
+クーポン comes from the English "coupon" and refers to any certificate, voucher, or digital code that entitles the holder to a discount, complimentary item, or special benefit. In Japanese hospitality, クーポン come in many forms: paper coupons tucked into hotel amenity packets, digital codes sent via email or booking platforms, and QR-based promotions on travel apps. They serve as marketing tools to attract new guests and reward returning ones, and handling them well is a routine but important operational skill. Done right, a smooth クーポン redemption leaves the guest feeling valued. Done poorly, it creates exactly the kind of awkward moment at the counter that no one wants.
+
+Before applying any クーポン, check two things: that it's 有効 (valid, meaning within its expiry date) and that the guest's purchase or service actually qualifies under the stated conditions. If a クーポン can't be applied, explain the specific reason clearly and apologetically, then offer whatever help you can. Students often skip checking the conditions and just try to apply it, which leads to system errors and confusion. Worth noting: when a クーポン is accepted, always confirm the discounted amount out loud with the guest before finalizing the transaction so there's no surprise at the total.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff must verify two things before applying a クーポン: that it is 有効 (
 
 ## Related Expressions
 
-- **バウチャー (bauchaa)** — a prepaid voucher representing a specific service or monetary value; unlike a クーポン, it typically covers the full cost rather than offering a partial discount
-- **割引 (waribiki)** — discount; the general term for a price reduction, of which クーポン is one mechanism
+- **バウチャー (bauchaa)**: a prepaid voucher representing a specific service or monetary value; unlike a クーポン that offers a partial discount, a バウチャー typically covers the full cost of the service it represents
+- **割引 (waribiki)**: discount; the general term for any price reduction, of which クーポン is one specific mechanism
 
 ## Common Mistakes
 
-Learners often confuse クーポン with バウチャー, but a クーポン is a discount instrument while a バウチャー typically represents prepaid value or service entitlement. Another mistake is applying a クーポン without first checking its validity conditions, which can result in accounting errors. Staff should also avoid assuming a クーポン shown on a phone screen is automatically valid — always check the expiry date and applicable services listed on the coupon.
+Confusing クーポン with バウチャー is a common slip. A クーポン is a discount instrument; a バウチャー represents prepaid value or a service entitlement. The practical difference matters when guests hand you something at the desk expecting one thing and your system expects another. Another mistake is assuming a クーポン displayed on a phone screen is automatically valid. Always check the expiry date and the applicable services listed. Applying an invalid or inapplicable クーポン creates accounting errors that take far longer to sort out than a quick verification would have.
 
 ---
 
@@ -44,5 +47,4 @@ Learners often confuse クーポン with バウチャー, but a クーポン is 
 
 **Correct Answer:** クーポン (coupon)
 
-**Explanation:** クーポン validation is a two-step process — confirm the クーポン is still 有効 (valid) and that the guest's purchase qualifies before applying the discount; applying an invalid or inapplicable クーポン creates accounting errors that are time-consuming to reverse.
-
+**Explanation:** クーポン validation is a two-step process: confirm the クーポン is still 有効 (valid) and that the guest's purchase qualifies before applying the discount; applying an invalid or inapplicable クーポン creates accounting errors that are time-consuming to reverse.

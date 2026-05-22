@@ -4,11 +4,11 @@ section: 13
 title: お願いいたします (onegai itashimasu)
 ---
 
-**お願いいたします** is the most formal way to say "please" when making a request of someone — or to close a request politely. The base word is *negau* (願う), meaning "to wish" or "to request," elevated through the honorific prefix *o-* and the humble auxiliary *itashimasu* (the kenjōgo form of *shimasu*). The full phrase thus carries the weight of a humble, earnest request: *I humbly ask this of you.*
+**お願いいたします** is the most formal way to say "please" when making a request of someone, or to close a request politely. The base word is *negau* (願う), meaning "to wish" or "to request," elevated through the honorific prefix *o-* and the humble auxiliary *itashimasu* (the kenjōgo form of *shimasu*). The full phrase carries the weight of a humble, earnest request: *I humbly ask this of you.*
 
-In hospitality, this phrase is used in two main directions. Staff use it when asking guests to do something — fill out a form, confirm information, wait briefly. It can also be used at the end of a phone call or interaction as a polite closing: *yoroshiku o-negai itashimasu* ("I look forward to your kind cooperation"). In both cases, the phrase communicates deference and sincerity.
+In hospitality, this phrase works in two main directions. Staff use it when asking guests to do something: fill out a form, confirm information, wait briefly. It is also used at the end of a phone call or interaction as a polite closing: *yoroshiku o-negai itashimasu* ("I look forward to your kind cooperation"). In both cases, the phrase conveys deference and sincerity.
 
-The phrasing is important: unlike *kashikomarimashita* (which acknowledges a guest's request) or *dōzo* (which invites), *o-negai itashimasu* expresses the speaker's request or wish. The direction is reversed — it is you, the staff member, asking something of the guest or expressing a mutual wish.
+Worth noting: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, and students sometimes mix them up. *Kashikomarimashita* acknowledges a guest's request directed at you. *Dōzo* invites. *O-negai itashimasu* comes from the staff member asking something of the guest, or expressing a mutual wish. The direction is reversed. Keeping that distinction clear will help you reach for the right phrase without hesitating.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ The phrasing is important: unlike *kashikomarimashita* (which acknowledges a gue
 
 ## Related Expressions
 
-- **よろしくお願いいたします (yoroshiku o-negai itashimasu)** — "I ask for your kind cooperation / thank you in advance" — one of the most versatile polite expressions in Japanese
-- **お願いします (o-negai shimasu)** — Slightly less formal version; appropriate in everyday professional contexts
-- **ご協力をお願いいたします (go-kyōryoku wo o-negai itashimasu)** — "We kindly ask for your cooperation" — used when asking guests to follow a rule or procedure
+- **よろしくお願いいたします (yoroshiku o-negai itashimasu)**: "I ask for your kind cooperation / thank you in advance": one of the most versatile polite expressions in Japanese
+- **お願いします (o-negai shimasu)**: Slightly less formal version; appropriate in everyday professional contexts
+- **ご協力をお願いいたします (go-kyōryoku wo o-negai itashimasu)**: "We kindly ask for your cooperation": used when asking guests to follow a rule or procedure
 
 ## Common Mistakes
 
-A common error is using the casual *onegai* alone in a professional setting — it sounds like you're asking a favour from a friend. The full *o-negai itashimasu* maintains the appropriate distance and respect. Another mistake is overloading requests with too many phrases — keep the request clear and the polite form concise so the guest understands what is being asked.
+A common error is using the casual *onegai* alone in a professional setting: it sounds like you're asking a favour from a friend. The full *o-negai itashimasu* maintains the appropriate distance and respect. Another mistake is overloading requests with too many phrases. Keep the request clear and the polite form concise so the guest understands what is being asked of them.
 
 ---
 
@@ -40,11 +40,11 @@ A common error is using the casual *onegai* alone in a professional setting — 
 
 **You need a guest to sign a document at check-in. What do you say?**
 
-- A. サインして。(Sign this — casual and rude)
+- A. サインして。(Sign this: casual and rude)
 - B. こちらにご署名をお願いいたします。(Please sign here.)
-- C. サインしてください。(Please sign — acceptable but too casual for formal hospitality)
-- D. 書いてもらえますか。(Could you write it for me — too informal)
+- C. サインしてください。(Please sign: acceptable but too casual for formal hospitality)
+- D. 書いてもらえますか。(Could you write it for me: too informal)
 
 **Correct Answer:** こちらにご署名をお願いいたします。(Please sign here.)
 
-**Explanation:** *Go-shomei wo o-negai itashimasu* uses the formal vocabulary for "signature" (*go-shomei*) and the most polite request form. The *kochira ni* (here) adds clarity. Together the phrase is precise, respectful, and complete — the gold standard for asking a guest to complete a necessary action.
+**Explanation:** *Go-shomei wo o-negai itashimasu* uses the formal vocabulary for "signature" (*go-shomei*) and the most polite request form. The *kochira ni* (here) adds clarity. Together the phrase is precise, respectful, and complete: the gold standard for asking a guest to complete a necessary action.

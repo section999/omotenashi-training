@@ -4,9 +4,9 @@ section: 21
 title: 冷蔵庫 (reizouko)
 ---
 
-冷蔵庫 (冷蔵 = refrigerated storage, 庫 = storehouse) refers to the in-room refrigerator, a standard amenity in most Japanese hotels and many ryokan. The 冷蔵庫 in hotel rooms often functions as a minibar containing pre-stocked beverages and snacks, each individually priced and tracked via an inventory system. This creates a potential source of misunderstanding if guests are not clearly told which items are complimentary and which are charged — a miscommunication that can lead to disputes at checkout. In ryokan or business hotels without minibar stock, the 冷蔵庫 may be empty and available for guests to store their own food and drinks. Proactively clarifying this at check-in is essential for trust and service quality.
+冷蔵庫 breaks down as 冷蔵 (refrigerated storage) and 庫 (storehouse), and it refers to the in-room refrigerator found in most Japanese hotels and many ryokan. In many hotel rooms it doubles as a minibar, pre-stocked with beverages and snacks that are individually priced and tracked. That setup is a common source of confusion at checkout if guests were not told upfront which items cost money. The good news is that this kind of dispute is entirely avoidable with one clear sentence during check-in. In business hotels or ryokan without minibar stock, the 冷蔵庫 is simply empty and free for the guest to use.
 
-During room orientation, staff typically explain: 「冷蔵庫はご自由にお使いください」 (please feel free to use the refrigerator) if it is empty, or 「冷蔵庫の飲み物はすべて有料となっております」 (all beverages in the refrigerator are charged) if it is a minibar. If a guest asks for ice, staff may explain that ice machines are located on each floor: 「製氷機は各階にございます」. Staff should also mention the 冷蔵庫 when guests arrive with medications or special dietary items requiring refrigeration.
+During room orientation, the rule is simple: if the fridge is empty, say 「冷蔵庫はご自由にお使いください」; if it is a minibar, say 「冷蔵庫の飲み物はすべて有料となっております」. Worth noting: guests who arrive with medications or special dietary items depend on knowing the refrigerator is available, so always mention it even when it feels routine. If a guest asks about ice, let them know the ice machines are on each floor: 「製氷機は各階にございます」.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ During room orientation, staff typically explain: 「冷蔵庫はご自由にお
 
 ## Related Expressions
 
-- **ミニバー (minibaa)** — The English loanword used when the 冷蔵庫 is pre-stocked and functions as a minibar. The distinction is important: a ミニバー implies all items are priced and inventoried, whereas an empty 冷蔵庫 is free for guest use. Staff should clarify which applies to avoid disputes.
-- **製氷機 (seihouki)** — Ice machine, often found in the corridor of each floor. Guests wishing to add ice to drinks from the 冷蔵庫 are typically directed to the 製氷機, and knowing this term allows staff to give complete guidance when explaining the refrigerator.
+- **ミニバー (minibaa)**: the English loanword used when the 冷蔵庫 is pre-stocked as a minibar. A ミニバー means everything inside is priced and tracked; an empty 冷蔵庫 is free for guests to use. Making this distinction clear avoids billing disputes.
+- **製氷機 (seihouki)**: ice machine, typically in the corridor on each floor. When guests want ice for their 冷蔵庫 drinks, point them here, and knowing this term lets you give a complete, helpful answer.
 
 ## Common Mistakes
 
-A frequent error is failing to clarify whether the 冷蔵庫 contents are chargeable — saying only 「冷蔵庫はこちらです」 without explaining the minibar policy leaves guests uncertain and risks billing disputes. Learners sometimes also use 「使えます」 (plain potential form) rather than the polite invitation form 「ご自由にお使いください」. Additionally, omitting information about the refrigerator entirely during orientation is a missed opportunity, since guests with medications or perishable items depend on knowing it is available.
+The most frequent error here is simply pointing to the 冷蔵庫 and saying 「冷蔵庫はこちらです」 without explaining the minibar situation. That leaves guests uncertain, and uncertain guests are guests who argue at checkout. Students also tend to reach for 「使えます」 (the plain potential form) when the correct and welcoming phrase is 「ご自由にお使いください」. That said, the biggest gap I see is staff skipping the 冷蔵庫 orientation entirely. If someone has medication that needs refrigeration and they find out too late, that is a real problem, not just a missed service point.
 
 ---
 
@@ -44,5 +44,5 @@ A frequent error is failing to clarify whether the 冷蔵庫 contents are charge
 
 **Correct Answer:** 冷蔵庫はご自由にお使いください (please feel free to use the refrigerator)
 
-**Explanation:** 冷蔵庫はご自由にお使いください warmly invites the guest to use the fridge freely — a welcoming and clear response.
+**Explanation:** 冷蔵庫はご自由にお使いください warmly invites the guest to use the fridge freely: a welcoming and clear response.
 

@@ -4,9 +4,12 @@ section: 23
 title: 注意 (chuui)
 ---
 
-注意 (chuui) means caution or attention — a warning to take care in a situation that presents a moderate level of risk. In the context of hospitality safety signage, 注意 represents the lowest tier of hazard communication, indicating a potential hazard that could cause minor injury or inconvenience if not heeded. Common hotel scenarios for 注意 include wet floor signs after mopping, caution notices near steps or uneven surfaces, reminders around pool decks, and warnings near hot surfaces in a buffet area. The word is derived from 注 (to pour attention into) and 意 (mind, intention), conveying the idea of directing one's full awareness toward a situation.
+**Pronunciation:** [chuu-**i**]
+**Register:** Neutral to Formal, safety communication
 
-Beyond signage, 注意 is a vital part of verbal communication in hotel service. Staff frequently use the phrase 足元にご注意ください (please watch your step) when guiding guests through areas under construction, down staircases, or across uneven terrain. Similarly, お荷物にご注意ください (please be careful with your belongings) serves as a gentle reminder in crowded lobby areas. The verb form 注意する means to be careful or to caution someone, and in safety contexts, staff may say 注意してください when alerting a guest to a nearby hazard. Because 注意 signals a moderate — not extreme — level of risk, it should not be used for genuinely dangerous situations, which call for 危険 (danger) or 警告 (warning) instead.
+注意 (chuui) means caution or attention, and in the context of safety signage it sits at the lowest tier of hazard communication. You'll see it on wet floor signs after mopping, near steps or uneven surfaces, around pool decks, and beside hot surfaces in buffet setups. The word is built from 注 (to pour attention into) and 意 (mind, intention), so the meaning is quite literal: direct your full awareness toward this situation. Worth noting is that 注意 belongs to a three-tier scale alongside 警告 (warning) and 危険 (danger), so each word carries a specific weight you shouldn't swap out casually.
+
+Beyond signage, 注意 is part of everyday spoken service. The phrase 足元にご注意ください (please watch your step) comes up constantly when guiding guests through construction zones, down staircases, or over uneven ground. Similarly, お荷物にご注意ください is a natural reminder in busy lobbies. Because 注意 signals a moderate and precautionary level of risk, you should not reach for it when the situation is genuinely dangerous. Those cases call for 危険 or 警告, and choosing the wrong word could cause guests to underestimate a real hazard.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Beyond signage, 注意 is a vital part of verbal communication in hotel service.
 
 ## Related Expressions
 
-- **危険 (kiken)** — danger; a stronger hazard designation than 注意, used when there is a significant risk of serious injury or harm; the two terms represent different levels on the safety warning scale.
-- **警告 (keikoku)** — warning; intermediate between 注意 (caution) and 危険 (danger), used when the risk is serious and immediate action is required, though the situation may not yet be life-threatening.
+- **危険 (kiken)**: danger; a stronger hazard designation used when there is significant risk of serious injury. The two words represent different rungs on the safety warning scale, so choosing the right one really matters.
+- **警告 (keikoku)**: warning; sitting between 注意 and 危険, it signals that the risk is serious and immediate action is required, even if the situation isn't yet life-threatening.
 
 ## Common Mistakes
 
-A common mistake is using 注意 and 危険 interchangeably — 注意 is for moderate, precautionary situations, while 危険 signals genuine, serious hazard. Using 注意 where 危険 is appropriate may cause guests to underestimate a real risk. Learners also sometimes confuse 注意 (caution) with 注文 (chuumon, order), which sounds similar and is used frequently in restaurant settings — context and kanji recognition are important here. When giving verbal cautions to guests, always soften the instruction with polite phrasing: 注意してください alone can sound abrupt, so pair it with お足元にお気をつけくださいませ for a more gracious hospitality register.
+Students often mix up 注意 and 危険, treating them as rough equivalents, but they signal very different levels of risk. Using 注意 in a genuinely dangerous situation can cause guests to underestimate what they're dealing with. There's also a pronunciation trap here: 注意 (chuui) and 注文 (chuumon, order) sound somewhat alike, and since 注文 comes up constantly in restaurant settings, context and kanji recognition both matter. One more thing to keep in mind: when giving verbal cautions to guests, 注意してください on its own can sound a bit abrupt. Pairing it with softer phrasing like お足元にお気をつけくださいませ keeps you squarely in hospitality register.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is using 注意 and 危険 interchangeably — 注意 is for mo
 
 **Correct Answer:** 注意 (caution / attention)
 
-**Explanation:** 注意 (chuui) means caution — a warning to take care. 危険 = danger (stronger level), 安全 = safety, 応急処置 = first aid.
+**Explanation:** 注意 (chuui) means caution: a warning to take care. 危険 = danger (stronger level), 安全 = safety, 応急処置 = first aid.

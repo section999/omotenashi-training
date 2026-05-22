@@ -4,9 +4,12 @@ section: 17
 title: 接続 (setsuzoku)
 ---
 
-接続 is composed of the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, this word is most commonly encountered when guests ask for help connecting their devices — smartphones, laptops, or tablets — to the property's Wi-Fi network. Understanding 接続 and the vocabulary around it allows staff to walk guests through the process step by step, reducing frustration and improving the overall stay experience.
+**Pronunciation:** [se-tsu-**zo**-ku]
+**Register:** Formal/Neutral, used when guiding guests through the process of connecting devices to the hotel network
 
-Practical usage centers on guiding guests through the connection procedure. Staff might say 「画面のWi-Fi設定をお開きください」 (please open your device's Wi-Fi settings), then 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). When a connection fails, staff should ask 「接続はできましたか？」 (were you able to connect?) to check progress. Offering to demonstrate on a similar device or calling technical support are secondary escalation steps.
+接続 is built from the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, you will encounter this word most often when a guest needs help connecting a smartphone, laptop, or tablet to the property's Wi-Fi. Knowing 接続 and the vocabulary around it lets you walk guests through the process step by step, which reduces frustration and leaves a genuinely positive impression of the stay.
+
+Practical guidance centers on the connection steps themselves. You might say 「画面のWi-Fi設定をお開きください」 (please open your device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, check in with 「接続はできましたか？」 (were you able to connect?). In practice, if the problem persists after those steps, offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first one does not work.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Practical usage centers on guiding guests through the connection procedure. Staf
 
 ## Related Expressions
 
-- **Wi-Fi (waifai)** — The wireless network service itself, as distinct from 接続, which is the act of linking to it. Staff explain Wi-Fi availability first (「Wi-Fiをご利用いただけます」) and then offer 接続 assistance (「接続方法をご案内いたします」) as a follow-up service.
-- **切断 (setsudan)** — The opposite of 接続, meaning disconnection or severance of the link. Used when explaining that a device has dropped the connection: 「接続が切断されましたか？」 (has the connection been cut?). Knowing both terms helps staff diagnose and describe connectivity issues accurately.
+- **Wi-Fi (waifai)**: the wireless network service itself, as distinct from 接続, which is the act of linking to it. The natural sequence is: explain Wi-Fi availability first (「Wi-Fiをご利用いただけます」), then offer 接続 assistance (「接続方法をご案内いたします」) as a follow-up.
+- **切断 (setsudan)**: the opposite of 接続, meaning disconnection or severance of the link. Used when explaining that a device has dropped the connection: 「接続が切断されましたか？」 (has the connection been cut?). Knowing both terms helps you describe connectivity issues accurately.
 
 ## Common Mistakes
 
-Learners sometimes use 接続する in its plain dictionary form when speaking to guests — 「接続する方法を教えます」 — which sounds abrupt. The correct hospitality register is 「接続方法をご案内いたします」, using ご案内いたします to humble the speaker's action. Another error is confusing 接続 (connection to a network) with 通信 (tsuushin, communication/signal); a weak signal issue is a 通信 or 電波 problem, not a 接続 problem per se. Precision in distinguishing these helps both staff and guests identify the actual source of the issue.
+Students often use 接続する in its plain dictionary form when speaking to guests, something like 「接続する方法を教えます」, which sounds quite abrupt. The correct hospitality register is 「接続方法をご案内いたします」, using ご案内いたします to humble the speaker's action. Worth noting: there is also a common mix-up between 接続 (connection to a network) and 通信 (tsuushin, communication or signal). A weak signal issue is a 通信 or 電波 problem, not a 接続 problem. Being precise about this distinction actually helps both staff and guests identify where the real problem is coming from.
 
 ---
 
@@ -44,5 +47,5 @@ Learners sometimes use 接続する in its plain dictionary form when speaking t
 
 **Correct Answer:** 接続方法をご案内いたします (I will guide you on how to connect)
 
-**Explanation:** 接続方法をご案内いたします — ご案内いたします (I will guide you) is the humble form for directing or explaining; 方法 (method) narrows the offer specifically to the how-to process.
+**Explanation:** 接続方法をご案内いたします: ご案内いたします (I will guide you) is the humble form for directing or explaining; 方法 (method) narrows the offer specifically to the how-to process.
 

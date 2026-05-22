@@ -6,7 +6,7 @@ title: トラブル (toraburu)
 
 トラブル (toraburu), borrowed from the English word "trouble," refers to unexpected incidents or disruptions that interfere with a guest's comfort or experience. It comes up in both internal staff communication and direct guest-facing speech when a situation warrants clear urgency: a noisy neighbouring room, a technical failure, a service delay. The key thing to understand about this word is its emotional weight. In the omotenashi tradition, how you respond to トラブル matters as much as what you do, because a composed reaction reassures the guest and prevents panic from making things worse.
 
-When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Students often want to jump to solutions immediately — resist that impulse. Ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to show that the guest's account is being taken seriously. After gathering details, communicate clearly what happens next, whether that is calling maintenance, offering a room change, or bringing in a supervisor, so the guest knows what to expect.
+When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Students often want to jump to solutions immediately, resist that impulse. Ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to show that the guest's account is being taken seriously. After gathering details, communicate clearly what happens next, whether that is calling maintenance, offering a room change, or bringing in a supervisor, so the guest knows what to expect.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ When a guest reports a トラブル, the first professional step is always to li
 
 ## Common Mistakes
 
-Students sometimes use トラブル in positive or neutral contexts, not realising the word always implies something has gone wrong. Saying 「トラブルはありません」 (there is no trouble) is grammatically fine but sounds oddly defensive — good service language avoids the word unless an issue already exists. Staff should also resist the temptation to use the English word "trouble" directly in guest speech; the Japanese loanword トラブル is more appropriate and sounds more natural in the hospitality register.
+Students sometimes use トラブル in positive or neutral contexts, not realising the word always implies something has gone wrong. Saying 「トラブルはありません」 (there is no trouble) is grammatically fine but sounds oddly defensive: good service language avoids the word unless an issue already exists. Staff should also resist the temptation to use the English word "trouble" directly in guest speech; the Japanese loanword トラブル is more appropriate and sounds more natural in the hospitality register.
 
 ---
 
@@ -44,5 +44,5 @@ Students sometimes use トラブル in positive or neutral contexts, not realisi
 
 **Correct Answer:** トラブルについてお伺いいたします (I will ask about the issue)
 
-**Explanation:** トラブルについてお伺いいたします — お伺いいたします (I will listen / I will hear about it) is deeply humble and signals that the guest's concern is being taken seriously.
+**Explanation:** トラブルについてお伺いいたします: お伺いいたします (I will listen / I will hear about it) is deeply humble and signals that the guest's concern is being taken seriously.
 

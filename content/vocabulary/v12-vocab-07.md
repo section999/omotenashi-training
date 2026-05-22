@@ -4,9 +4,12 @@ section: 7
 title: 警察 (keisatsu)
 ---
 
-警察 refers to Japan's law enforcement authorities, responsible for public safety, crime prevention, investigation, and emergency response. In the hospitality industry, staff may need to contact the 警察 in situations involving theft of guest property, violence or threats on the premises, public disturbances, missing persons, suspicious items, or fraud. Japan's police are generally highly professional and responsive, and they operate through regional police stations (警察署, keisatsusho) and substations (交番, kouban). Front desk staff should keep the direct number of the nearest 警察署 posted at the concierge and front desk, in addition to the general emergency number 110.
+**Pronunciation:** [**kei**-sa-tsu]
+**Register:** Standard, used across all registers when referring to law enforcement
 
-When contacting the 警察, staff must be prepared to give the facility name and address, describe the nature of the incident clearly and concisely, and remain on the line until instructed otherwise. In the spirit of omotenashi, staff should also protect the privacy and dignity of guests involved in incidents while fulfilling their legal obligations to report crimes. After police arrive, staff should cooperate fully and designate one supervisor as the primary point of contact to avoid conflicting information.
+警察 refers to Japan's police authorities, responsible for public safety, crime prevention, and emergency response. In hospitality, you may need to contact the 警察 for situations involving theft, violence or threats on the premises, missing persons, suspicious items, public disturbances, or fraud. Japan's police are generally professional and responsive, operating through regional 警察署 (police stations) and neighbourhood 交番 (substations). That said, the general emergency number 110 is the one every staff member must have committed to memory, and the direct number of the nearest 警察署 should be posted at the front desk and concierge station where anyone can reach it without searching.
+
+When you do call the 警察, be ready to give your facility name and full address, describe the incident clearly and concisely, and stay on the line until the dispatcher tells you otherwise. Part of omotenashi is protecting the dignity and privacy of any guest involved in an incident, even while you fulfill your legal obligation to report what happened. When police arrive, cooperate fully and designate one supervisor as the single point of contact. Conflicting information from multiple staff members can slow an investigation and create unnecessary complications.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When contacting the 警察, staff must be prepared to give the facility name and
 
 ## Related Expressions
 
-- **110番 (hyaku-juu-ban)** — the emergency police contact number in Japan (equivalent to calling 911 in the US); all hospitality staff must have this memorised.
-- **警備員 (keibiin)** — security guard; an on-site security staff member employed by the hotel itself, as distinct from 警察, who are government law enforcement. 警備員 handle routine security while 警察 are called for criminal matters.
+- **110番 (hyaku-juu-ban)**: Japan's emergency police contact number, equivalent to 911 in the US; every hospitality staff member must have this memorised before their first shift, no exceptions
+- **警備員 (keibiin)**: on-site security guard employed by the hotel; 警備員 handle routine security matters on the premises, while 警察 are the government law enforcement called for actual criminal incidents
 
 ## Common Mistakes
 
-A common mistake is failing to call 警察 promptly out of reluctance to escalate a situation or concern about the hotel's reputation — under-reporting can result in harm to other guests and legal liability for the property. Learners sometimes confuse 警察 (police) with 警備 (security), calling on-site 警備員 for incidents that require law enforcement authority. Staff should also avoid interviewing or questioning a suspected criminal themselves before the 警察 arrive, as this can compromise the investigation.
+Students often describe a reluctance to call 警察 promptly out of worry about escalating the situation or affecting the hotel's reputation. This is the wrong instinct. Under-reporting can lead to harm for other guests and serious legal liability for the property. Worth noting, there is also a common confusion between 警察 (police) and 警備 (security): on-site 警備員 are your first line for routine security, but criminal matters require law enforcement authority and should not be left to hotel security alone. One more thing: do not attempt to question or detain a suspected criminal yourself before the 警察 arrive. That can compromise the investigation and put staff at risk.
 
 ---
 
@@ -41,4 +44,4 @@ A common mistake is failing to call 警察 promptly out of reluctance to escalat
 
 **Answer:** 警察
 
-**Explanation:** 警察 (keisatsu) means police — the law enforcement agency responsible for public safety and crime response.
+**Explanation:** 警察 (keisatsu) means police: the law enforcement agency responsible for public safety and crime response.

@@ -4,7 +4,7 @@ section: 20
 title: テレビ (television)
 ---
 
-テレビ is an abbreviation of "television," borrowed into Japanese from English. In the context of hotel hospitality, it is more than just an entertainment device — it often serves as a medium for hotel information channels, news updates for international travelers, weather forecasts, and on-demand content. In many Japanese hotels, the television doubles as a guest information terminal displaying check-out procedures, restaurant menus, and local attraction guides. For foreign guests who may rely on the TV for language-accessible news or entertainment, a brief orientation to available channels and functions is a meaningful expression of consideration. Staff who can explain the テレビ and its features — including how to access the hotel's own broadcast channel — demonstrate thorough and attentive service.
+テレビ is an abbreviation of "television," borrowed into Japanese from English. In the context of hotel hospitality, it is more than just an entertainment device. It often serves as a medium for hotel information channels, news updates for international travelers, weather forecasts, and on-demand content. In many Japanese hotels, the television doubles as a guest information terminal displaying check-out procedures, restaurant menus, and local attraction guides. For foreign guests who rely on the TV for language-accessible news or entertainment, a brief orientation to available channels and functions is a meaningful expression of consideration. Staff who can explain the テレビ and its features, including how to access the hotel's own broadcast channel, show the kind of thorough and attentive service guests remember.
 
 In room-orientation briefings, staff typically explain: 「テレビはリモコンで操作可能でございます」 (the TV can be operated with the remote) and may add which channel displays hotel information: 「1チャンネルがホテルの案内チャンネルでございます」 (channel 1 is the hotel information channel). If a guest reports a problem with the TV, staff should apologize and offer to send a technician or arrange a room with a functioning set.
 
@@ -24,12 +24,12 @@ In room-orientation briefings, staff typically explain: 「テレビはリモコ
 
 ## Related Expressions
 
-- **リモコン (rimokon)** — Short for "remote control." When explaining the テレビ to guests, the リモコン is an essential item to point out and locate specifically. Learners should practice the full phrase 「リモコンはテレビ台の上にございます」 as a standard orientation sentence.
-- **チャンネル (channeru)** — "Channel." Staff may need to explain specific channel numbers for hotel information, local news, or English-language broadcasts. Knowing how to count channels naturally in Japanese (「1チャンネル」, 「2チャンネル」) is part of competent room orientation.
+- **リモコン (rimokon)**: Short for "remote control." When explaining the テレビ to guests, the リモコン is an essential item to point out and locate specifically. Learners should practice the full phrase 「リモコンはテレビ台の上にございます」 as a standard orientation sentence.
+- **チャンネル (channeru)**: "Channel." Staff may need to explain specific channel numbers for hotel information, local news, or English-language broadcasts. Knowing how to count channels naturally in Japanese (「1チャンネル」, 「2チャンネル」) is part of competent room orientation.
 
 ## Common Mistakes
 
-A common oversight is simply showing the guest where the テレビ is without explaining how to operate it or which channel provides hotel-specific information — this misses an opportunity to be genuinely helpful. Learners sometimes also use 「テレビが使えます」 (plain form) rather than the more polite 「テレビはリモコンで操作可能でございます」. Additionally, failing to point out the remote's location when the TV itself is mentioned leaves guests to search for it on their own, which is contrary to the proactive spirit of omotenashi.
+A common oversight is simply showing the guest where the テレビ is without explaining how to operate it or which channel provides hotel-specific information. That misses the point of the orientation. Students also sometimes say 「テレビが使えます」 (plain form) rather than the more polite 「テレビはリモコンで操作可能でございます」. Worth noting: when you mention the TV, always point out where the remote is kept at the same time. Guests should not have to hunt for it, and leaving that detail out runs counter to the proactive spirit of omotenashi.
 
 ---
 
@@ -45,5 +45,5 @@ A common oversight is simply showing the guest where the テレビ is without ex
 
 **Correct Answer:** テレビ (TV / television)
 
-**Explanation:** テレビはリモコンで操作可能でございます — clear and polite instruction about room equipment is a key part of check-in service.
+**Explanation:** テレビはリモコンで操作可能でございます: clear and polite instruction about room equipment is a key part of check-in service.
 

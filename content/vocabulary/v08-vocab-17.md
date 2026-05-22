@@ -4,9 +4,12 @@ section: 17
 title: 正面 (shoumen)
 ---
 
-正面 (正面) literally means "front face" or "directly ahead" and refers to the main, forward-facing side of a building, room, or object. In hospitality, 正面 is a key orientation word because it anchors all other directional descriptions — once a guest knows where the 正面 (front) is, terms like 右 (right), 左 (left), and 裏 (back) become immediately meaningful. The 正面玄関 (main front entrance) of a hotel is the ceremonial and logistical center of the property, where guests arrive, taxis pull up, and the first impression is made. Communicating its location clearly is fundamental to welcoming guests from the moment they approach the building.
+**Pronunciation:** [sho-**u**-men]
+**Register:** Neutral to Formal, orientation, entrances, and spatial directions
 
-In practical use, 正面 appears in directions such as 正面玄関はこちらでございます (the main entrance is this way), or describing the layout of a lobby: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what guests see when they face a particular direction: エレベーターを出て正面がレストランでございます (when you exit the elevator, the restaurant is directly in front of you). Staff should use 正面 to create a clear spatial frame of reference before adding further directions.
+正面 literally means "front face" or "directly ahead" and refers to the main, forward-facing side of a building, room, or object. In hospitality, 正面 is a key orientation word because it anchors all other directional descriptions. Once a guest knows where the 正面 (front) is, terms like 右 (right), 左 (left), and 裏 (back) become immediately meaningful. The 正面玄関 (main front entrance) of a hotel is the ceremonial and logistical center of the property, where guests arrive, taxis pull up, and the first impression is made. Students often learn right, left, and up-down first, but 正面 is the word that makes all those directions click into place.
+
+In practical use, 正面 appears in directions such as 正面玄関はこちらでございます, or when describing a lobby layout: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what a guest sees when facing a particular direction, as in エレベーターを出て正面がレストランでございます. That said, simply saying 正面です without a subject can be ambiguous in a large lobby with multiple focal points, so always pair it with a clear reference.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In practical use, 正面 appears in directions such as 正面玄関はこちら�
 
 ## Related Expressions
 
-- **裏 (ura)** — The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary.
-- **玄関 (genkan)** — The formal entryway or threshold, often used together with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position (the front side), 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance.
+- **裏 (ura)**: The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary.
+- **玄関 (genkan)**: The formal entryway or threshold, often combined with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position, 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance.
 
 ## Common Mistakes
 
-Learners sometimes confuse 正面 (front, the direction you face) with 前 (mae, in front of / ahead), using them interchangeably. While both can mean "in front," 正面 specifically refers to the primary face of a structure and implies it is the intended point of approach, whereas 前 is a more general spatial term. Another mistake is using 正面 to describe a guest's movement when 前へ (forward / ahead) would be more natural for walking directions. Staff should also remember that saying just 正面です without a subject can be ambiguous in a lobby with multiple focal points.
+Learners sometimes confuse 正面 (the front, the direction you face) with 前 (mae, in front of or ahead), using them interchangeably. While both can mean "in front," 正面 specifically refers to the primary face of a structure and implies it is the intended point of approach, whereas 前 is a more general spatial term. Another mistake is using 正面 to describe a guest's movement when 前へ (forward or ahead) would be more natural for walking directions. In practice, the clearest approach is to use 正面 to establish the reference frame, then add 右 or 左 to complete the direction.
 
 ---
 
@@ -45,5 +48,5 @@ Learners sometimes confuse 正面 (front, the direction you face) with 前 (mae,
 
 **Correct Answer:** 正面 (front / facing)
 
-**Explanation:** 正面 (the front / main facade) is the standard word for a building's front-facing side — saying 正面にございます immediately orients guests who are approaching from outside.
+**Explanation:** 正面 (the front / main facade) is the standard word for a building's front-facing side: saying 正面にございます immediately orients guests who are approaching from outside.
 

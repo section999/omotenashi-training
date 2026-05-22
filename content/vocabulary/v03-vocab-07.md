@@ -4,9 +4,12 @@ section: 7
 title: 禁煙 (kin'en)
 ---
 
-禁煙 (kin'en) means "no smoking" and is one of the most operationally significant terms in Japanese hotel management. The word is composed of 禁 (kin, prohibition) and 煙 (en, smoke), making its meaning direct and unambiguous. In Japan, non-smoking rooms are the standard at most modern hotels, and confirming a guest's smoking preference at the time of booking or check-in is a mandatory step in the reservation process. Assigning a guest who requires a non-smoking room to a smoking room — or vice versa — is among the most common causes of formal guest complaints and can severely damage a property's reputation.
+**Pronunciation:** [**kin**-en]
+**Register:** Neutral, Operational, front desk, reservations, room assignments
 
-Beyond the guest experience, 禁煙 also carries legal and safety implications, as violating non-smoking rules can result in cleaning fees, penalties, and in severe cases, alarm activation. Staff must be confident using 禁煙 in both question form (ご希望は禁煙でございますか？) and confirmation form (禁煙室をご用意しております). Understanding the contrast with 喫煙 (kitsuen, smoking) is equally essential so that no mix-up occurs when processing room assignments.
+禁煙 (kin'en) means "no smoking," built from 禁 (kin, prohibition) and 煙 (en, smoke). It is one of the most operationally critical terms in hotel work. Non-smoking rooms are the default at most modern Japanese hotels, and confirming a guest's smoking preference at check-in is not optional, it is a mandatory step in the process. Assigning a guest who needs a non-smoking room to a smoking room, or the reverse, is among the most reliable ways to generate a formal complaint and damage your property's reputation in online reviews. Get this one right, every single time.
+
+Beyond the guest experience, 禁煙 has real legal and safety implications. Smoking in a designated non-smoking room can trigger alarms, incur cleaning fees, and in some cases result in penalties for the guest. Staff need to be confident using 禁煙 both as a question, ご希望は禁煙でございますか ("is your preference non-smoking?"), and as a confirmation, 禁煙室をご用意しております ("we have a non-smoking room prepared for you"). Students often focus so much on learning 禁煙 that they forget to learn 喫煙 (kitsuen, smoking) with equal care. Both matter, because a mix-up between the two leads to exactly the wrong outcome.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Beyond the guest experience, 禁煙 also carries legal and safety implications, 
 
 ## Related Expressions
 
-- **喫煙 (kitsuen)** — "smoking"; the direct antonym of 禁煙, used to designate rooms or areas where smoking is permitted; always confirm which the guest prefers before assigning a room.
-- **禁煙フロア (kin'en furoa)** — "non-smoking floor"; an important extension of the concept, as many hotels designate entire floors rather than individual rooms as non-smoking zones.
+- **喫煙 (kitsuen)**: "smoking", the direct opposite of 禁煙; always confirm which the guest prefers before finalising a room assignment, and write it down so it does not get lost
+- **禁煙フロア (kin'en furoa)**: "non-smoking floor", many hotels designate entire floors rather than individual rooms, so knowing this extension of the term helps you give complete information
 
 ## Common Mistakes
 
-A critical error is confusing 禁煙 and 喫煙 when recording or communicating room preferences — the two words sound and look similar enough that careless handling can result in the completely opposite room being assigned. Learners also sometimes forget to add 室 (shitsu, room) when speaking about a specific non-smoking room, saying only 禁煙でございます when the fuller 禁煙室でございます is clearer. Finally, do not assume a guest prefers 禁煙 simply because they appear health-conscious; always confirm explicitly.
+Confusing 禁煙 and 喫煙 when recording or communicating room preferences is the most serious error you can make here. The two words are similar enough that a moment of carelessness results in the completely opposite room being assigned. Students also sometimes say only 禁煙でございます when they mean a specific room, when the fuller 禁煙室でございます is clearer and more precise. That single character 室 (shitsu, room) matters. Worth noting as well: do not assume a guest prefers 禁煙 based on appearance or assumptions. Always ask explicitly, every time.
 
 ---
 
@@ -45,5 +48,4 @@ A critical error is confusing 禁煙 and 喫煙 when recording or communicating 
 
 **Correct Answer:** 禁煙 (non-smoking)
 
-**Explanation:** 禁煙 means no smoking — always confirm smoking preferences early to ensure the correct room is assigned.
-
+**Explanation:** 禁煙 means no smoking: always confirm smoking preferences early to ensure the correct room is assigned.

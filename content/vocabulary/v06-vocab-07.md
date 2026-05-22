@@ -4,9 +4,12 @@ section: 7
 title: 紛失 (funshitsu)
 ---
 
-紛失 (funshitsu) means the loss of an item, and unlike 忘れ物 (where the item was left at a known location), 紛失 implies the item's whereabouts are entirely unknown. This distinction matters practically. A 忘れ物 triggers a search of a specific location; a 紛失 may require a broader investigation, including checking security footage, interviewing staff, or filing a report. Depending on the value or nature of the missing item — a passport, a wallet, prescription medication — the urgency and scope of the response will differ significantly.
+**Pronunciation:** [fun-**shi**-tsu]
+**Register:** Formal, used when reporting or responding to a missing item with unknown whereabouts
 
-Staff encountering a 紛失 report should start by gathering precise information calmly: what was lost, when it was last seen, and where the guest believes it may have been. This is critical before any search begins, as retracing the guest's steps within the property is often the fastest path to resolution. If the item cannot be located, provide information about local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed — a process that may matter for insurance claims or replacing identification documents.
+紛失 (funshitsu) means the loss of an item, and it is importantly different from 忘れ物, where the item was left at a known location. With 紛失, the whereabouts are entirely unknown. That distinction matters in practice: a 忘れ物 sends you to check one specific place, while a 紛失 may require a broader investigation covering security footage, staff interviews, or a formal report. The appropriate scope of the response will also depend on what was lost. A missing passport or prescription medication demands a very different level of urgency than a misplaced book.
+
+In practice, the first thing to do when a guest reports a 紛失 is gather precise information calmly: what was lost, when it was last seen, and where on the property the guest has already been. Getting this picture clearly before launching a search is not bureaucratic delay, it is the fastest path to resolution. If the item cannot be located, point the guest toward local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed. That document may matter for insurance claims or replacing identification.
 
 ## Example Sentences
 
@@ -25,11 +28,11 @@ Staff encountering a 紛失 report should start by gathering precise information
 ## Related Expressions
 
 - **忘れ物 (wasuremono)**: an item left behind at a known location; less serious in implication than 紛失 and usually resolved by checking a specific room or area.
-- **紛失届 (funshitsu-todoke)**: a formal lost-item report filed with a police station; staff may need to explain this process to guests when an item cannot be recovered on-site.
+- **紛失届 (funshitsu-todoke)**: a formal lost-item report filed with a police station; staff may need to walk guests through this process when an item cannot be recovered on-site.
 
 ## Common Mistakes
 
-Staff sometimes confuse 紛失 with theft (盗難, tounan) and may inadvertently suggest that an item was stolen when it may simply be misplaced. This distinction is critical — using 盗難 without evidence can cause serious legal and reputational consequences for the property. Students should also avoid pressuring guests to give up hope prematurely. Phrases like 見つからないと思います (I don't think it will be found) are deeply inappropriate. Instead, 引き続き確認いたします (we will continue checking) maintains professionalism and reassurance.
+One more thing to keep firmly in mind: never confuse 紛失 with theft (盗難, tounan). Suggesting that an item was stolen when it may simply be misplaced can cause serious legal and reputational consequences for the property. Students often make the mistake of using 盗難 too quickly when a guest is distressed, so be careful with that word. On the other side of the same error, avoid phrases like 見つからないと思います (I don't think it will be found), which sound dismissive and unkind. 引き続き確認いたします (we will continue checking) keeps the tone professional and reassuring.
 
 ---
 
@@ -44,5 +47,5 @@ Staff sometimes confuse 紛失 with theft (盗難, tounan) and may inadvertently
 
 **Correct Answer:** 紛失について確認いたします (we will confirm about the lost item)
 
-**Explanation:** 紛失について確認いたします — 確認いたします (I will check/verify) signals immediate action; responding calmly reassures the guest and begins the recovery process.
+**Explanation:** 紛失について確認いたします: 確認いたします (I will check/verify) signals immediate action; responding calmly reassures the guest and begins the recovery process.
 

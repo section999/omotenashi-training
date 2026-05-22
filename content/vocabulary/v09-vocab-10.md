@@ -4,9 +4,9 @@ section: 10
 title: 大人 (otona)
 ---
 
-大人 is the standard hospitality term for an adult guest, typically defined as a person aged 12 or 13 and above, though the exact age threshold varies by property and plan. In the context of Japanese hotel and ryokan reservations, 大人 determines the base room rate: most pricing structures in Japan quote a per-person, per-night rate for adults, which includes accommodation and any meals included in the plan. This per-person pricing model — different from the per-room pricing common in Western hotels — makes accurate identification of 大人 versus 子供 or 幼児 essential for correct invoicing. A family that books as "2大人 + 1子供" will be billed very differently from one that books as "3大人."
+大人 is the standard hospitality term for an adult guest, typically someone aged 12 or 13 and above, though the exact threshold depends on the property and plan. What surprises many students is that Japanese hotels price stays per person rather than per room. That means a family booking of "2大人 + 1子供" looks very different on the invoice from a booking of "3大人," and getting the category right from the start matters a lot. Worth noting: correctly categorising guests is not just an accounting detail; it affects meal portions, yukata sizes, and other preparation steps that follow from the booking.
 
-In omotenashi practice, correctly identifying and addressing adult guests by their status also signals attentiveness. When a party includes teenagers who are on the cusp of the adult age threshold, staff should check the hotel's policy before applying adult rates — applying an adult rate to an 11-year-old would be an overcharge, while applying a child rate to a 14-year-old might underbill the property. The polite counter for 大人 in service settings is 名様 (mei-sama), as in 大人2名様 (two adult guests).
+In practice, the tricky cases are teenagers who sit right on the boundary of the adult threshold. If a 12-year-old travels with a property that sets its adult age at 13, charging adult rates would be an overcharge you will have to unwind at checkout. Always check your property's specific policy before assigning rates to younger guests. One more thing: when speaking about 大人 guests in service language, use the counter 名様, not 人. Saying 大人2名様 instead of 大人2人 is a small but meaningful signal that you are working at the right register.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In omotenashi practice, correctly identifying and addressing adult guests by the
 
 ## Related Expressions
 
-- **子供 (kodomo)** — the child category, typically under 12 or 13; priced differently from 大人 and may require different amenities such as smaller yukata or child-friendly meal options.
-- **シニア (shinia)** — a senior guest category sometimes offered by properties with age-based loyalty discounts; not a universal category but worth knowing when relevant plans are available.
+- **子供 (kodomo)**: the child category, typically under 12 or 13; priced differently from 大人, and the booking also signals a need for different amenities such as smaller yukata or kid-friendly meal portions.
+- **シニア (shinia)**: a senior guest category used by some properties that offer age-based loyalty discounts; not universal, but good to know when your property has plans designed for older travellers.
 
 ## Common Mistakes
 
-Learners sometimes assume the adult age threshold is universally 18, but Japanese hospitality commonly sets it at 12 or 13 — applying the wrong threshold causes billing errors that are embarrassing to correct at checkout. Another mistake is omitting the polite counter 名様 when speaking to or about guests, saying 「大人2人です」 instead of 「大人2名様でございます」, which sounds informal and does not meet the service register expected in hotels and ryokan.
+Students often assume the adult threshold follows the legal adulthood age of 18, but Japanese hospitality sets it much earlier, usually 12 or 13. Applying the wrong age cutoff means billing errors that are genuinely awkward to correct in front of a guest at checkout. The other slip is dropping 名様 and saying 「大人2人です」 in service situations. That phrasing belongs at the dinner table, not at the front desk; 「大人2名様でございます」 is the form guests expect to hear.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes assume the adult age threshold is universally 18, but Japanes
 
 **Correct Answer:** 大人 (adult)
 
-**Explanation:** 大人 (adult) determines the base room rate — Japanese hotels typically define 大人 as 12+ or 13+, but the threshold varies; always confirm the hotel's age policy before applying adult rates to avoid overcharging families.
+**Explanation:** 大人 (adult) determines the base room rate: Japanese hotels typically define 大人 as 12+ or 13+, but the threshold varies; always confirm the hotel's age policy before applying adult rates to avoid overcharging families.

@@ -4,9 +4,12 @@ section: 7
 title: 注文 (chuumon)
 ---
 
-注文 means an order — the act of a guest selecting and requesting specific food or beverages from the menu. In Japanese restaurant service, the order-taking process is treated with considerable care and formality: a server approaches only when the guest signals readiness, confirms each item clearly, and often repeats the order back to ensure accuracy. This repetition is not mere bureaucracy but a reflection of the hospitality value of 確認 (kakunin — confirmation), which prevents errors that could disappoint a guest. Missing or incorrect items are considered significant service failures in Japanese dining culture.
+**Pronunciation:** [chuu-**mon**]
+**Register:** Formal, always use the honorific ご in guest-facing speech
 
-The vocabulary and grammar used when taking an order reveals a server's level of training. ご注文をお伺いいたします — using the deeply humble form お伺いいたします — signals to the guest that their selection is an honor to receive. After writing down the order, confirming with ご注文をご復唱いたします (I will repeat your order) is common practice in formal hotel restaurants. Staff should also be prepared to answer questions about dishes during the order-taking process, which requires solid knowledge of the menu.
+注文 is the order, the moment when a guest chooses what they want from the menu and communicates that choice to you. In Japanese restaurant service, this process is handled with real care. A server waits until the guest signals they are ready, listens attentively to each item, and then confirms everything back before walking away. That repetition is not just a bureaucratic habit. It reflects the hospitality value of 確認 (kakunin, confirmation), which exists because a missing or incorrect dish is treated as a genuine service failure here, not a minor inconvenience.
+
+The language you use when taking an order tells a guest a great deal about your training. ご注文をお伺いいたします uses the deeply humble form お伺いいたします, which signals that receiving the guest's selection is something you are honored to do. After writing everything down, confirming with ご注文をご復唱いたします is standard practice in formal hotel restaurants. Students sometimes also forget to repeat the order back to confirm, which can lead to errors. Always repeat the order before leaving the table, and be ready to answer questions about dishes as you go, since solid menu knowledge is a basic requirement of the role.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The vocabulary and grammar used when taking an order reveals a server's level of
 
 ## Related Expressions
 
-- **オーダー (oodaa)** — the loanword equivalent used informally among kitchen and floor staff; acceptable behind the scenes but 注文 or ご注文 is preferred in guest-facing speech.
-- **ご用命 (go-youmei)** — a very formal expression meaning "your request" or "your order," found in written menus or high-end restaurant communication; rarely spoken but seen in formal menus.
+- **オーダー (oodaa)**: the English loanword equivalent, fine among kitchen and floor staff behind the scenes but 注文 or ご注文 is the right choice whenever you are speaking directly with a guest.
+- **ご用命 (go-youmei)**: a very formal word for "your request" or "your order," more often seen in written menus or formal correspondence than in spoken service; worth recognizing even if you rarely say it aloud.
 
 ## Common Mistakes
 
-A frequent mistake is approaching the table before the guest has had sufficient time to review the menu, which creates pressure rather than comfort. Using 注文は？ without the honorific ご is too abrupt and inappropriate in a hotel restaurant. Staff sometimes forget to repeat the order back to confirm, which can lead to errors — always repeating the order is standard practice and guests generally appreciate the thoroughness.
+A frequent mistake is approaching the table before the guest has had enough time to read through the menu, which creates pressure rather than comfort. Using 注文は？ without the honorific ご is too abrupt and inappropriate in a hotel restaurant. That said, the most commonly overlooked step is the confirmation itself: some staff take the order and immediately walk away without repeating it back, and that is exactly where errors happen. Always repeat the order. Guests generally appreciate the thoroughness rather than finding it excessive.
 
 ---
 
@@ -44,5 +47,5 @@ A frequent mistake is approaching the table before the guest has had sufficient 
 
 **Correct Answer:** ご注文をお伺いいたします (I will take your order)
 
-**Explanation:** ご注文をお伺いいたします — お伺いいたします is the deeply humble form of "to hear / to receive", expressing that the guest's order is an honour to receive.
+**Explanation:** ご注文をお伺いいたします: お伺いいたします is the deeply humble form of "to hear / to receive", expressing that the guest's order is an honour to receive.
 

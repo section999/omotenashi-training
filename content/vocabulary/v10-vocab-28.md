@@ -4,9 +4,12 @@ section: 28
 title: 税込 (zeikomi)
 ---
 
-税込 is a compound of 税 (zei), meaning "tax," and 込み (komi), meaning "included" or "all-in." When a price is described as 税込, it means the Japanese consumption tax (消費税, currently 10% for most goods and services) is already incorporated into the displayed amount — what the guest sees is exactly what they pay. This transparency is highly valued in Japanese hospitality culture, where clarity and honesty in financial dealings are considered fundamental to building trust. Guests who are unfamiliar with Japan's tax system particularly appreciate being explicitly told whether quoted prices are 税込 or not.
+**Pronunciation:** [zei-**ko**-mi]
+**Register:** Formal/Neutral -- standard in pricing, billing, and rate quotation
 
-In hotel and restaurant settings, staff should always specify 税込 when quoting room rates, dining prices, or additional service costs, especially during check-in or when answering inquiries over the phone. If a price list does not clearly indicate 税込, proactively clarifying this prevents misunderstandings at checkout. It is good practice to state the full phrase such as 「〇〇円、税込でございます」 to leave no ambiguity for the guest.
+税込 is a compound of 税 (zei, "tax") and 込み (komi, "included"). When a price is 税込, Japan's consumption tax (消費税, currently 10% on most goods and services) is already built into the number you see. What the guest reads is exactly what they pay. This clarity is central to how Japanese hospitality handles financial communication: guests should never be surprised by an amount that turns out to be different from what was quoted. For international visitors especially, being told clearly whether a price is 税込 or not removes a common source of confusion.
+
+In practice, make it a habit to state 税込 explicitly whenever you quote a rate, whether at check-in, over the phone, or in response to an inquiry. Saying 「〇〇円、税込でございます」 takes only a second and eliminates ambiguity entirely. That said, if a price list you're referencing doesn't specify, check before you quote rather than assuming one way or the other. Students often assume that because prices in Japan are commonly displayed 税込, they can skip the verbal confirmation. That assumption leads to billing disputes.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hotel and restaurant settings, staff should always specify 税込 when quotin
 
 ## Related Expressions
 
-- **税別 (zeibetsu)** — tax-exclusive; the opposite of 税込, meaning tax will be added on top of the quoted price
-- **消費税 (shōhizei)** — consumption tax; the specific tax that is either included (税込) or excluded (税別) in a given price
+- **税別 (zeibetsu)**: the opposite of 税込; tax is not included and will be added on top of the quoted price
+- **消費税 (shōhizei)**: consumption tax; the specific levy that is either included (税込) or excluded (税別) in any given price
 
 ## Common Mistakes
 
-A frequent error is using 税込 and 税別 interchangeably or failing to specify which applies when quoting a price. Learners also sometimes omit the clarification altogether, assuming guests understand — but international visitors may be unfamiliar with Japan's consumption tax system and need explicit guidance. Always pair a price quote with one of these terms to avoid billing disputes.
+The most frequent error is using 税込 and 税別 as if they're interchangeable, or simply not specifying which applies when quoting a price. Students also sometimes skip the clarification entirely, assuming guests will figure it out. International visitors often have no working knowledge of Japan's consumption tax system, so they genuinely need the information spelled out. Always pair any price quote with one of these two terms. It takes one second and prevents billing disputes that take much longer to resolve.
 
 ---
 
@@ -44,5 +47,4 @@ A frequent error is using 税込 and 税別 interchangeably or failing to specif
 
 **Correct Answer:** 税込 (tax included)
 
-**Explanation:** 税込 vs 税別 is one of the most common sources of billing surprises — always specify which applies when quoting a rate (〇〇円、税込でございます); a guest who was quoted 税別 but expected 税込 will feel misled even if the hotel followed policy correctly.
-
+**Explanation:** 税込 vs 税別 is one of the most common sources of billing surprises: always specify which applies when quoting a rate (〇〇円、税込でございます); a guest who was quoted 税別 but expected 税込 will feel misled even if the hotel followed policy correctly.

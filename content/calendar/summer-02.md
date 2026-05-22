@@ -1,12 +1,12 @@
 ---
 id: cal-summer
 section: 2
-title: Tanabata — Star Festival (七夕) — July 7
+title: Tanabata, Star Festival (七夕), July 7
 ---
 
-**Season:** Summer · June — August
+**Season:** Summer · June, August
 
-Tanabata celebrates the annual meeting of the star deities **Orihime (織姫)** — the weaving princess represented by the star Vega — and **Hikoboshi (彦星)** — the cowherd represented by the star Altair. According to the legend, they are separated by the Milky Way and allowed to meet only once a year, on the seventh day of the seventh month. The bittersweet quality of this reunion — anticipated for an entire year, over in a night — gives Tanabata its particular emotional resonance.
+Tanabata celebrates the annual meeting of the star deities **Orihime (織姫)**, the weaving princess represented by the star Vega, and **Hikoboshi (彦星)**, the cowherd represented by the star Altair. According to the legend, they are separated by the Milky Way and allowed to meet only once a year, on the seventh day of the seventh month. The bittersweet quality of this reunion, anticipated for an entire year, over in a night, gives Tanabata its particular emotional resonance.
 
 **The tradition of tanzaku:**
 
@@ -20,9 +20,9 @@ Tanabata is one of the most guest-engaging seasonal events in the Japanese hospi
 
 - Place a decorated bamboo (*sasa*) in the lobby or common area with tanzaku and pens available
 - Station a staff member nearby who can explain the tradition briefly and invite participation without pressure
-- For Japanese guests, the tradition is familiar — acknowledge it warmly and perhaps invite them to add a wish
-- For international guests, a brief explanation transforms a decorative element into a cultural experience: *"This is a bamboo for Tanabata — we write wishes on the paper strips and hang them, sending them to the stars."*
-- Collect the wishes at the end of the day and, at some properties, burn them ceremonially — this is the traditional way to send wishes onward
+- For Japanese guests, the tradition is familiar, acknowledge it warmly and perhaps invite them to add a wish
+- For international guests, a brief explanation transforms a decorative element into a cultural experience: *"This is a bamboo for Tanabata, we write wishes on the paper strips and hang them, sending them to the stars."*
+- Collect the wishes at the end of the day and, at some properties, burn them ceremonially, this is the traditional way to send wishes onward
 
 ---
 
@@ -50,11 +50,11 @@ Tanabata is one of the most guest-engaging seasonal events in the Japanese hospi
 
 **An international guest stops in front of the Tanabata bamboo display and takes a photo but doesn't approach the wish-writing station. What is the ideal staff response?**
 
-- A. Approach them, explain the Tanabata tradition briefly and warmly, and invite them to write a wish — without pressure if they decline
-- B. Leave them to observe — they are clearly not interested in participating
+- A. Approach them, explain the Tanabata tradition briefly and warmly, and invite them to write a wish: without pressure if they decline
+- B. Leave them to observe: they are clearly not interested in participating
 - C. Ask them not to photograph the decoration as it is for guests only
 - D. Tell them the bamboo will be taken down soon, creating urgency to participate
 
-**Correct Answer:** Approach them, explain the Tanabata tradition briefly and warmly, and invite them to write a wish — without pressure if they decline
+**Correct Answer:** Approach them, explain the Tanabata tradition briefly and warmly, and invite them to write a wish: without pressure if they decline
 
-**Explanation:** A guest who photographs the display is curious and engaged — they simply don't know how to participate. A warm, brief explanation of the tradition followed by a gentle invitation is an act of genuine hospitality. The pressure-free element is essential: the goal is an experience the guest chooses, not an obligation they feel.
+**Explanation:** A guest who photographs the display is curious and engaged: they simply don't know how to participate. A warm, brief explanation of the tradition followed by a gentle invitation is an act of genuine hospitality. The pressure-free element is essential: the goal is an experience the guest chooses, not an obligation they feel.

@@ -4,9 +4,12 @@ section: 22
 title: 時刻表 (jikokuhyou)
 ---
 
-時刻表 (jikokuhyou) is formed from 時刻 (jikoku, time/hour) and 表 (hyou, table/chart), meaning "timetable" or "schedule." It refers to any official listing of departure and arrival times for trains, buses, ferries, or other scheduled transport. In Japan, the 時刻表 is treated with great seriousness — the iconic 時刻表 publication (a thick monthly booklet listing every train in Japan) is a cultural institution, and the precision of Japanese transit schedules means that the 時刻表 is genuinely reliable down to the minute. For tourists, checking the 時刻表 before travel is standard practice and is often the difference between catching and missing a connection.
+**Pronunciation:** [ji-ko-ku-**hyou**]
+**Register:** Formal to neutral, professional communication, transit planning, written materials
 
-Hotel concierge staff who can read and interpret the 時刻表 — or who can quickly look one up using apps like Navitime or the JR East website — are exceptionally valuable. Guests with day trips planned around specific temple opening hours, seasonal illuminations, or restaurant reservations often need accurate 時刻表 information to time their departures from the hotel. A helpful service response is 「時刻表を調べてみますので、少々お待ちくださいませ」("Allow me to check the timetable for you"). Knowing which platform and car number to use for reserved shinkansen seats extends this service further.
+時刻表 combines 時刻 (time) and 表 (table or chart) to mean "timetable" or "schedule." It refers to any official listing of departure and arrival times for trains, buses, ferries, and other scheduled transport. Japan takes its 時刻表 seriously: the thick monthly booklet listing every train in the country is a cultural institution, and the precision of Japanese transit means the 時刻表 is genuinely reliable down to the minute. That reliability is what makes it such a useful reference during a guest's stay, because they can actually plan their entire day around it.
+
+Concierge staff who can read a 時刻表 quickly, or who know how to pull one up on Navitime or the JR East website, are genuinely valuable. Guests planning day trips around temple opening hours, seasonal illuminations, or restaurant reservations often need accurate departure times to work backward from. Students often underestimate how often this skill comes up: in a single afternoon at a busy hotel, you might check the 時刻表 five or six times. A good response phrase is 「時刻表を調べてみますので、少々お待ちくださいませ」, which shows initiative and keeps the guest calm while you look it up.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel concierge staff who can read and interpret the 時刻表 — or who can qu
 
 ## Related Expressions
 
-- **ダイヤ (daiya)** — short for ダイヤグラム (diagram); refers to a train's operational schedule and is often used when discussing whether trains are running on time (ダイヤ通り, on schedule) or behind schedule
-- **発車時刻 (hassha jikoku)** — departure time; a key element within a 時刻表, specifically referring to the moment a service leaves a stop or station
+- **ダイヤ (daiya)**: short for ダイヤグラム (diagram); refers to a train's operational schedule and used when discussing whether services are running on time (ダイヤ通り) or delayed
+- **発車時刻 (hassha jikoku)**: departure time; a key element within any 時刻表, specifically the moment a service leaves a stop or station
 
 ## Common Mistakes
 
-Learners sometimes use スケジュール (sukejuuru, schedule) when they mean 時刻表, but スケジュール is a personal or event schedule, while 時刻表 specifically refers to a transport timetable. In a hospitality context, using 時刻表 when discussing trains and buses sounds professional and precise. Another confusion arises with 到着時刻 (touchaku jikoku, arrival time) versus 発車時刻 (departure time) — when helping guests plan return trips, always confirm which time they are asking about to avoid misunderstanding.
+スケジュール (schedule) and 時刻表 are not the same thing. スケジュール is a personal agenda or event schedule, while 時刻表 refers specifically to a transport timetable. In hospitality, using 時刻表 when discussing trains and buses sounds precise and professional. That said, the confusion that causes real problems is between 到着時刻 (arrival time) and 発車時刻 (departure time). When a guest asks what time the train is, always confirm which one they need: the answer is different by several minutes, and getting it wrong can mean a missed connection.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes use スケジュール (sukejuuru, schedule) when they mean �
 
 **Answer:** 時刻表
 
-**Explanation:** 時刻表 (jikokuhyou) means timetable — a schedule listing departure and arrival times for trains, buses, and other transport.
+**Explanation:** 時刻表 (jikokuhyou) means timetable: a schedule listing departure and arrival times for trains, buses, and other transport.

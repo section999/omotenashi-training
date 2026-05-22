@@ -4,9 +4,9 @@ section: 1
 title: 従業員 (juugyouin)
 ---
 
-従業員 is the standard term for an employee in Japanese business and hospitality settings. It carries a formal, institutional tone that reflects the professional relationship between an organisation and its workforce. In hotels, ryokan, and restaurants, the word covers everyone from front-desk clerks and concierge staff to kitchen workers and housekeeping teams. Worth noting: understanding who qualifies as a 従業員 under Japanese labour law matters enormously for management, since it determines entitlements to wages, benefits, and legal protections.
+従業員 is the standard term for an employee in Japanese business and hospitality settings. It carries a formal, institutional tone and covers everyone from front-desk clerks and concierge staff to kitchen workers and housekeeping teams. Worth noting: the word matters quite a lot under Japanese labour law, because who counts as a 従業員 determines entitlements to wages, benefits, and legal protections. That's not just an HR abstraction, managers working in hotels need to understand this.
 
-In day-to-day operations, managers reach for this word when writing rosters, drafting internal memos, or conducting performance reviews. Staff members rarely use it to describe themselves in conversation — humble role titles are more natural there. Guests might hear it when a manager addresses the team collectively, and new hires will run into it constantly during onboarding.
+In day-to-day operations, 従業員 is the word managers reach for when writing rosters, drafting internal memos, or conducting performance reviews. Staff rarely use it to describe themselves in conversation, though. Humble role titles feel far more natural in those situations. Guests might hear it when a manager addresses the team collectively, and new hires will run into it constantly during onboarding.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In day-to-day operations, managers reach for this word when writing rosters, dra
 
 ## Common Mistakes
 
-Students often mix up 従業員 and 社員, assuming they mean the same thing. They don't. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There's also a register issue: using 従業員 to refer to yourself in front of a guest sounds stiff and impersonal. In those situations, simply stating your role, such as フロントスタッフ, comes across far more naturally.
+Students often mix up 従業員 and 社員, assuming they mean the same thing. They don't. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There's also a register issue worth flagging: using 従業員 to refer to yourself in front of a guest sounds stiff and impersonal. In those moments, simply stating your role, フロントスタッフ, for instance, comes across far more naturally.
 
 ---
 
@@ -41,4 +41,4 @@ Students often mix up 従業員 and 社員, assuming they mean the same thing. T
 
 **Answer:** 従業員
 
-**Explanation:** 従業員 (juugyouin) means employee — a person employed by an organisation to perform assigned duties and follow company policies.
+**Explanation:** 従業員 (juugyouin) means employee: a person employed by an organisation to perform assigned duties and follow company policies.

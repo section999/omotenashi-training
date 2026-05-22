@@ -4,9 +4,9 @@ section: 29
 title: アメニティ (amenity)
 ---
 
-アメニティ refers to the complimentary in-room convenience items provided by hotels and ryokan for guests' personal care and comfort. These typically include toiletries such as shampoo, conditioner, body wash, soap, toothbrushes, toothpaste, razors, cotton swabs, and skincare products, along with non-toiletry items such as slippers, yukatas (in ryokan), shower caps, and sewing kits. In Japanese hospitality, the quality and range of アメニティ is closely tied to the perceived prestige of the property — luxury hotels often partner with internationally recognized cosmetic brands, while eco-conscious properties may have shifted to refillable dispensers in line with sustainability initiatives. Understanding what アメニティ are provided, knowing how to explain them to guests, and being prepared to replenish or supplement them on request are all essential competencies for hotel and ryokan staff.
+アメニティ refers to the complimentary in-room convenience items provided by hotels and ryokan for guests' personal care and comfort. These typically include toiletries such as shampoo, conditioner, body wash, soap, toothbrushes, toothpaste, razors, cotton swabs, and skincare products, along with non-toiletry items such as slippers, yukatas (in ryokan), shower caps, and sewing kits. In Japanese hospitality, the quality and range of アメニティ is closely tied to the perceived prestige of the property. Luxury hotels often partner with internationally recognized cosmetic brands, while eco-conscious properties may have shifted to refillable dispensers in line with sustainability initiatives. Knowing what アメニティ are provided, being able to explain them to guests, and responding confidently to requests for more are all practical competencies for hotel and ryokan staff.
 
-In practical hospitality communication, staff use アメニティ when orienting guests to the bathroom: 「洗面所にはアメニティをご用意しております」 (amenities are prepared in the washroom) or when responding to requests: 「ご滞在中の必要なアメニティはお申し付けください」 (please let us know if you need any amenities during your stay). If a specific item is not stocked, staff should offer to source it: 「確認してご用意いたします」 (I will check and prepare it for you).
+In practice, staff use アメニティ when orienting guests to the bathroom: 「洗面所にはアメニティをご用意しております」 (amenities are prepared in the washroom) or when responding to requests: 「ご滞在中の必要なアメニティはお申し付けください」 (please let us know if you need any amenities during your stay). If a specific item is not stocked, staff should offer to source it: 「確認してご用意いたします」 (I will check and prepare it for you).
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practical hospitality communication, staff use アメニティ when orienting
 
 ## Related Expressions
 
-- **備品 (bihin)** — General in-room supplies or equipment, encompassing a broader category than アメニティ. While アメニティ typically refers to personal care items, 備品 can also include items like the hair dryer, iron, or kettle. Staff use both terms, choosing based on context.
-- **タオル (taoru)** — Towels, which are closely related to アメニティ but often discussed separately in the context of replacement requests (交換) or housekeeping. When a guest requests additional アメニティ, they may mean toiletries, towels, or both — staff should clarify the specific need.
+- **備品 (bihin)**: General in-room supplies or equipment, encompassing a broader category than アメニティ. While アメニティ typically refers to personal care items, 備品 can also include items like the hair dryer, iron, or kettle. Staff use both terms, choosing based on context.
+- **タオル (taoru)**: Towels, which are closely related to アメニティ but often discussed separately in the context of replacement requests (交換) or housekeeping. When a guest requests additional アメニティ, they may mean toiletries, towels, or both: staff should clarify the specific need.
 
 ## Common Mistakes
 
-A common mistake is listing アメニティ items at check-in without inviting the guest to request more if needed — saying only 「アメニティがあります」 (there are amenities) without the follow-up invitation 「お申し付けください」 misses the welcoming tone expected in omotenashi. Learners may also be vague about what is and is not included, which can lead to guests discovering items are missing only after staff have left. Additionally, in properties transitioning to eco-friendly bulk dispensers, staff must be able to explain the change proactively so guests understand why individual items may not be present.
+A common mistake is listing アメニティ items at check-in without following up with an invitation to request more. Saying only 「アメニティがあります」 without the closing 「お申し付けください」 loses the welcoming tone that omotenashi requires. Students also tend to be vague about exactly what is and is not included, which can leave guests discovering missing items only after staff have left. In properties transitioning to eco-friendly bulk dispensers, there is an additional point worth remembering: staff should explain the change proactively so guests understand why individual items may not be present.
 
 ---
 
@@ -45,5 +45,5 @@ A common mistake is listing アメニティ items at check-in without inviting t
 
 **Correct Answer:** アメニティ (amenities)
 
-**Explanation:** アメニティ refers to in-room convenience items — お申し付けください invites guests to make requests at any time, reflecting attentive hospitality.
+**Explanation:** アメニティ refers to in-room convenience items: お申し付けください invites guests to make requests at any time, reflecting attentive hospitality.
 

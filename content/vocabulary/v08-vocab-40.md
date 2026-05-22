@@ -4,9 +4,12 @@ section: 40
 title: 表示 (hyouji)
 ---
 
-表示 (hyouji) combines 表 (hyou, to express / show) with 示 (ji, to indicate / point out), forming a word that broadly means "display," "indication," or "sign." In hotel and hospitality contexts, 表示 refers to any visual marker that communicates information — from the illuminated floor numbers above an elevator, to the color-coded arrows on emergency exit signs, to the bilingual text on a room service menu, to the digital display showing today's events in the lobby. It is a more general term than 案内板 (a specific type of board) or 非常口 (a specific type of exit sign), and it encompasses the full range of informational and directional visual communication in a building.
+**Pronunciation:** [**hyou**-ji]
+**Register:** Neutral to Formal -- used across all types of visual communication
 
-Understanding 表示 as a concept is valuable because it underpins how staff teach guests to navigate independently. When a staff member says 表示に従ってください (please follow the signs), they are empowering the guest to use the built environment's navigation system rather than relying entirely on staff for every step. This is particularly important in large hotels, airports, or convention facilities where the volume of guests makes individual escorting impractical. The quality of 表示 — whether signs are clearly worded, correctly placed, well-lit, and multilingual — reflects the hotel's overall standard of service design, and maintaining 表示 is a responsibility shared between management and frontline staff who notice when a sign is damaged, missing, or confusing.
+表示 (hyouji) brings together 表 (hyou, to express / show) and 示 (ji, to indicate / point out) into a word that means "display," "indication," or "sign." In a hotel, 表示 covers the full spectrum of visual communication: the illuminated floor numbers above an elevator, the color-coded arrows on emergency exit signs, the bilingual text on a room service menu, the digital screen in the lobby showing today's event schedule. It is a broader, more general term than 案内板 (a specific type of sign) or 非常口 (a specific type of exit marker). Think of 表示 as the category name and those other terms as specific examples within it. Students find this easier to remember once they realize the word basically means "anything visual that communicates information."
+
+Understanding 表示 as a concept matters because it shapes how staff teach guests to navigate independently. When someone says 表示に従ってください (please follow the signs), they are handing the guest a skill, not just answering a question. This matters most in large hotels, airports, or convention centers where the sheer number of guests makes walking everyone to their destination impractical. Worth noting is that the quality of a property's 表示 reflects its service design at a fundamental level. Signs that are clearly worded, correctly placed, well-lit, and available in multiple languages tell guests that someone thought carefully about their experience. When a sign is missing, damaged, or confusing, frontline staff who spot it and report it are genuinely contributing to service quality.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Understanding 表示 as a concept is valuable because it underpins how staff tea
 
 ## Related Expressions
 
-- **案内板 (annaiban)** — "information board," a specific type of 表示 in the form of a fixed mounted sign; 表示 is the broader category of all visual indicators, while 案内板 is one particular format within that category
-- **サイン (sain)** — "sign" (from English), used colloquially in modern hotel settings to refer to directional or informational signage; 表示 is the more formal and precise Japanese equivalent used in professional and official contexts
+- **案内板 (annaiban)**: a fixed mounted sign, which is one specific format of 表示; 表示 is the wider category that includes all visual indicators, and 案内板 is one particular type within it
+- **サイン (sain)**: the colloquial term borrowed from English, used casually in modern hotel settings for directional or informational signage; 表示 is the more formal and precise Japanese equivalent for professional and official contexts
 
 ## Common Mistakes
 
-Learners sometimes confuse 表示 with 表示する (hyouji suru, to display / to show), which is the verb form — be careful about sentence structure when using 表示 as a noun versus as a verb. Another common error is using 表示 too broadly when a more specific term is available: if the sign in question is specifically a 非常口 sign, use 非常口の表示 or simply 非常口 for clarity rather than the generic 表示 alone. When instructing a guest to follow signs, always pair 表示に従ってください with a gesture toward the first visible sign, so the guest knows which type of display to look for as they proceed.
+Watch out for mixing up the noun 表示 and the verb 表示する (hyouji suru, to display / to show). The sentence structure shifts depending on which form you need, so check what role the word is playing before you write or say it. In practice, another mistake is using 表示 generically when a more specific term is available and clearer. If the sign in question is a 非常口 sign, say 非常口の表示 or simply 非常口: the specificity helps the guest find exactly what they are looking for. One more thing: whenever you tell a guest 表示に従ってください, pair it with a gesture toward the first visible sign in that direction. Without that starting point, the instruction is technically correct but practically incomplete.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 表示 with 表示する (hyouji suru, to display / t
 
 **Correct Answer:** 表示に従ってください (please follow the sign)
 
-**Explanation:** 表示に従ってください (please follow the signs) — teaching guests to read 表示 is empowering and efficient in large venues; combine it with a gesture toward the first sign to start them in the right direction.
+**Explanation:** 表示に従ってください (please follow the signs): teaching guests to read 表示 is empowering and efficient in large venues; combine it with a gesture toward the first sign to start them in the right direction.

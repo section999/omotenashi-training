@@ -4,9 +4,12 @@ section: 7
 title: アイロン台 (airon dai)
 ---
 
-アイロン台 is the ironing board — the padded, flat surface on which garments are placed and stretched out during ironing. Without an アイロン台, it is difficult to iron clothes effectively and safely, as using an iron on an unpadded surface can damage both the garment and the surface underneath. In Japanese hotels, the アイロン台 is typically stored in the wardrobe or closet alongside the アイロン, and both items should be in clean, functioning condition before the guest's arrival as part of room preparation. The quality and stability of the アイロン台 are small but meaningful details that reflect overall service standards.
+**Pronunciation:** [a-i-ron-**da**-i]
+**Register:** Neutral, standard housekeeping and guest service contexts
 
-When explaining how to set up and use an アイロン台, staff should communicate clearly that it should be placed on a stable surface at a comfortable height, with the narrow end pointed away from the user. Some guests — particularly those from countries where ironing boards are less common — may need a brief orientation. Staff should also check periodically that the padding and cover of the アイロン台 are clean and intact, as a scorched or stained cover can transfer marks to guest garments.
+アイロン台 is the ironing board: the padded, flat surface on which garments are laid out flat during ironing. Without a proper アイロン台, ironing effectively is nearly impossible, and pressing on a hard unpadded surface can scorch or flatten the fabric in ways that are hard to fix. In Japanese hotels, the アイロン台 lives in the wardrobe or closet alongside the アイロン, and both should be clean and in working condition before the guest ever sets foot in the room. The quality and stability of the アイロン台 might seem like a small detail, but guests notice when it wobbles or when the cover is stained.
+
+When explaining how to set up the board, keep it practical: place it on a stable surface, extend the legs fully, and point the narrow tapered end away from you. Some guests, particularly those travelling from countries where ironing boards are less common, may genuinely need that brief walk-through. One more thing to check during room prep: the cover. A scorched or dirty cover can transfer marks directly onto a guest's shirt, which is the last thing anyone wants.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When explaining how to set up and use an アイロン台, staff should communica
 
 ## Related Expressions
 
-- **アイロン (airon)** — the iron itself; アイロン台 and アイロン are always used together and are typically requested and stored as a pair.
-- **プレス台 (puresu dai)** — a pressing board; used in professional tailoring or laundry settings for more precise pressing of garments.
+- **アイロン (airon)**: the iron itself; these two items go together as a pair and are typically requested and stored that way.
+- **プレス台 (puresu dai)**: a pressing board used in professional tailoring or laundry settings, designed for more controlled and precise pressing than a standard アイロン台.
 
 ## Common Mistakes
 
-Learners sometimes refer to the アイロン台 simply as アイロン when speaking quickly, which can confuse guests who are actually asking for the iron itself. Always be precise and use the full term アイロン台 when specifically referring to the board. Another mistake is forgetting to mention that the アイロン台 must be set up before the iron is turned on — guests unfamiliar with ironing boards may heat the iron first and then struggle to unfold the board safely. Finally, the word 台 (dai) means stand or platform and appears in many hospitality contexts (e.g.,受付台, カウンター台), so learning it as a building block helps with vocabulary retention.
+Students sometimes shorten アイロン台 to just アイロン when speaking quickly, which can confuse a guest who is specifically asking for the board and not the iron. Get into the habit of using the full term. Another gap that comes up: learners sometimes forget to mention that the board should be fully set up and stable before the iron is switched on. A guest who heats the iron first and then tries to unfold a stiff board one-handed is not going to have a good time. Worth noting is that 台 (dai) shows up in many other hospitality words, like 受付台 (reception counter) and カウンター台, so treating it as a building block will help your vocabulary grow faster.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes refer to the アイロン台 simply as アイロン when spea
 
 **Correct Answer:** アイロン台 (ironing board)
 
-**Explanation:** アイロン台 (airon dai) means ironing board — the flat surface that supports garments during ironing. アイロン = iron, クリーニング = dry cleaning, 洗濯 = washing.
+**Explanation:** アイロン台 (airon dai) means ironing board: the flat surface that supports garments during ironing. アイロン = iron, クリーニング = dry cleaning, 洗濯 = washing.

@@ -4,9 +4,12 @@ section: 4
 title: 同僚 (douryou)
 ---
 
-同僚 refers to colleagues — the people who work alongside you in the same organisation or department at a comparable level. In hospitality, good 同僚 relationships are what keep the operation running smoothly. When a front-desk colleague covers your duties during a break, or when kitchen staff and the dining room team coordinate on timing, that's the day-to-day expression of 同僚 spirit in action. Japanese hospitality culture places high value on team harmony — 和 (wa) — and 同僚 relationships are where that harmony gets built or broken.
+**Pronunciation:** [**dou**-ryou]
+**Register:** Neutral, workplace relationships
 
-Because so much of hospitality work is shift-based and fast-paced, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and backup during busy stretches. Socialising outside of work, through team meals or post-shift gatherings, is also part of the culture and tends to build the kind of rapport that translates into better coordination during service.
+同僚 refers to colleagues, the people who work alongside you in the same organisation or department at a comparable level. In hospitality, strong 同僚 relationships are what keep the operation running smoothly day to day. When a front-desk colleague covers your duties during a break, or when kitchen staff and the dining room team coordinate on timing, that's 同僚 spirit working exactly as it should. Japanese hospitality culture places high value on team harmony, 和 (wa), and 同僚 relationships are where that harmony gets built or gradually eroded.
+
+Because so much hospitality work is shift-based and fast-moving, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and support during heavy service periods. Socialising outside work, through team meals or post-shift gatherings, is genuinely part of the culture and tends to build the kind of rapport that translates into better coordination when it counts.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Because so much of hospitality work is shift-based and fast-paced, trust among �
 
 ## Related Expressions
 
-- **先輩 (senpai)**: a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries mentoring responsibilities for the senior party.
-- **後輩 (kouhai)**: a junior colleague who joined after you; the counterpart to 先輩, and someone you're expected to guide and support.
+- **先輩 (senpai)**: a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries an expectation that the senior party will mentor and support those below them.
+- **後輩 (kouhai)**: a junior colleague who joined after you; the direct counterpart to 先輩, and someone you're expected to guide and look out for.
 
 ## Common Mistakes
 
-A frequent mistake is using 同僚 to describe someone who is clearly more senior — that would be 先輩 or 上司. Similarly, using it for someone much more junior can come across as dismissive of the seniority gap. Students also sometimes confuse 同僚 with スタッフ. The difference is straightforward: スタッフ refers to the group as a whole, while 同僚 is about a specific peer relationship — someone at your level.
+A common error is using 同僚 to describe someone who is clearly more senior. That would be 先輩 or 上司, and calling a senior colleague your 同僚 can come across as dismissive of the seniority gap. Conversely, using it for someone noticeably more junior feels the same way. Students often also mix up 同僚 with スタッフ. In practice, スタッフ refers to the team as a whole, while 同僚 is a peer relationship, specifically someone at your own level. That distinction is worth keeping sharp.
 
 ---
 
@@ -41,4 +44,4 @@ A frequent mistake is using 同僚 to describe someone who is clearly more senio
 
 **Answer:** 同僚
 
-**Explanation:** 同僚 (douryou) means colleague — a coworker in the same organisation or department who collaborates on shared tasks.
+**Explanation:** 同僚 (douryou) means colleague: a coworker in the same organisation or department who collaborates on shared tasks.

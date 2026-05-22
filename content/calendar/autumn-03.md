@@ -1,12 +1,12 @@
 ---
 id: cal-autumn
 section: 3
-title: Culture Day (文化の日) — November 3
+title: Culture Day (文化の日), November 3
 ---
 
-**Season:** Autumn · September — November
+**Season:** Autumn · September, November
 
-**Bunka no Hi (文化の日)** — Culture Day — is a national holiday on November 3rd that celebrates art, culture, academic achievement, and the love of freedom and peace. The date commemorates the day the current Japanese Constitution was promulgated in 1946. Many public museums offer free admission, traditional arts ceremonies are held at significant sites, outdoor cultural exhibitions take place in parks, and local communities organise performances of traditional music, dance, and theatre.
+**Bunka no Hi (文化の日)**, Culture Day, is a national holiday on November 3rd that celebrates art, culture, academic achievement, and the love of freedom and peace. The date commemorates the day the current Japanese Constitution was promulgated in 1946. Many public museums offer free admission, traditional arts ceremonies are held at significant sites, outdoor cultural exhibitions take place in parks, and local communities organise performances of traditional music, dance, and theatre.
 
 **The guest profile on Culture Day:**
 
@@ -18,7 +18,7 @@ Guests visiting during Culture Day lean toward cultural exploration over passive
 
 **The concierge and recommendation opportunity:**
 
-Culture Day is one of the best days of the year for the hospitality professional to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer — not a general tourist pamphlet.
+Culture Day is one of the best days of the year for the hospitality professional to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer, not a general tourist pamphlet.
 
 Know in advance:
 - Which museums in the area have free admission today and what their current exhibitions cover
@@ -26,11 +26,11 @@ Know in advance:
 - Any outdoor performances of traditional arts (Noh, Gagaku, traditional dance)
 - Any seasonal craft demonstrations that align with autumn themes
 
-A recommendation that includes *why* the event is significant — not just its location — transforms it from information into hospitality.
+A recommendation that includes *why* the event is significant, not just its location, transforms it from information into hospitality.
 
 **Autumn themes in cultural recommendations:**
 
-November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape: *"The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard — it's only available on Culture Day."* This kind of specific, layered recommendation is the standard to aim for.
+November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape: *"The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard, it's only available on Culture Day."* This kind of specific, layered recommendation is the standard to aim for.
 
 ---
 
@@ -60,9 +60,9 @@ November 3rd falls in the heart of koyo season for most of Japan. Culture Day re
 
 - A. Hand the guest the standard tourist map and suggest they explore
 - B. Mention that it is Culture Day without giving specifics
-- C. Share all three specific recommendations with brief descriptions of each — what they are, why they are significant, when to go, and which one you personally think is best for them based on anything you know about their interests
+- C. Share all three specific recommendations with brief descriptions of each: what they are, why they are significant, when to go, and which one you personally think is best for them based on anything you know about their interests
 - D. Recommend only the most popular option to keep it simple
 
-**Correct Answer:** Share all three specific recommendations with brief descriptions of each — what they are, why they are significant, when to go, and which one you personally think is best for them based on anything you know about their interests
+**Correct Answer:** Share all three specific recommendations with brief descriptions of each: what they are, why they are significant, when to go, and which one you personally think is best for them based on anything you know about their interests
 
-**Explanation:** On Culture Day, guests are specifically seeking cultural depth. Giving multiple specific, informed recommendations — including timing and personal guidance — demonstrates both local knowledge and genuine engagement with the guest's experience. The personal recommendation ("based on what you've mentioned, I think you would particularly enjoy...") elevates information to hospitality.
+**Explanation:** On Culture Day, guests are specifically seeking cultural depth. Giving multiple specific, informed recommendations: including timing and personal guidance: demonstrates both local knowledge and genuine engagement with the guest's experience. The personal recommendation ("based on what you've mentioned, I think you would particularly enjoy...") elevates information to hospitality.

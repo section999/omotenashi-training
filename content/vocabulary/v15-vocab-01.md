@@ -4,9 +4,12 @@ section: 1
 title: ランドリー (randorii)
 ---
 
-ランドリー is a loanword from English that encompasses the full range of laundry services available in Japanese hospitality settings, including washing, drying, folding, and ironing of guest garments. In hotels and ryokan, ランドリー may refer either to a coin-operated self-service laundry room on the premises or to the professional valet laundry service collected and returned by staff. The word signals convenience and care for the guest's personal belongings, which is a core expression of omotenashi. Guests who are on extended stays particularly rely on ランドリー to keep their wardrobe fresh without overpacking.
+**Pronunciation:** [ran-**do**-rii]
+**Register:** Neutral, widely used in hotel settings for both service descriptions and facility signs
 
-When a guest inquires at the front desk, staff should be prepared to explain both self-service and full-service ランドリー options clearly, including pricing and turnaround time. In full-service hotels, a laundry bag and order form are typically placed in the room, allowing guests to request the service without coming to the desk in person. It is good practice to mention any cut-off times for same-day processing so guests can plan accordingly.
+ランドリー comes from English and covers the full range of laundry services you find in Japanese hotels and ryokan: washing, drying, folding, and ironing of guest garments. Depending on the property, it may refer to a coin-operated self-service room on the premises or to a professional valet service where staff collect and return items. For guests on extended stays, ランドリー is not a luxury but a genuine necessity, and handling these requests smoothly is a small but meaningful part of omotenashi. The word immediately signals convenience and care for the guest's personal belongings.
+
+When a guest comes to the front desk asking about ランドリー, be ready to explain both options clearly: what's available, what it costs, and how long it takes. In full-service hotels, a laundry bag and order form are usually placed in the room so guests can request the service without making a trip to reception. In practice, the most important thing to mention upfront is the cut-off time for same-day processing, because if a guest misses it, their plans for the following morning may be affected. Getting that detail in early saves everyone a frustrating conversation later.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest inquires at the front desk, staff should be prepared to explain bot
 
 ## Related Expressions
 
-- **洗濯 (sentaku)** — the general Japanese word for doing laundry; more domestic in nuance, whereas ランドリー often implies a service or facility.
-- **クリーニング (kuriiningu)** — refers specifically to dry cleaning using chemical solvents, suitable for delicate or formal garments that cannot be washed with water.
+- **洗濯 (sentaku)**: the native Japanese word for the act of washing clothes, more domestic in tone. ランドリー leans toward a commercial facility or hotel service, while 洗濯 feels more like something you do at home.
+- **クリーニング (kuriiningu)**: professional dry cleaning using chemical solvents, the right choice for suits, formal dresses, and any garment whose care label says no water washing.
 
 ## Common Mistakes
 
-Learners sometimes use ランドリー and 洗濯 interchangeably, but 洗濯 is the native Japanese word for the act of washing clothes at home, while ランドリー emphasises a commercial facility or service. Avoid saying ランドリーをする when describing personal home washing; use 洗濯をする instead. Additionally, some guests confuse ランドリー with クリーニング — it is important to clarify that ランドリー involves water-based washing, not chemical dry cleaning.
+Students often use ランドリー and 洗濯 as if they mean exactly the same thing. They are close, but 洗濯 is the word for doing laundry at home, while ランドリー points to a commercial facility or service. Avoid saying ランドリーをする when describing personal home washing; 洗濯をする is the natural phrase there. One more thing: when a guest asks about ランドリー, always check whether they mean regular washing or dry cleaning. Some guests use ランドリー loosely to mean "get my clothes cleaned," and the answer changes significantly depending on what they actually need.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use ランドリー and 洗濯 interchangeably, but 洗濯 is
 
 **Correct Answer:** ランドリー (laundry)
 
-**Explanation:** ランドリー (randorii) means laundry — a service covering washing, drying, and folding clothes. 洗剤 = detergent, 乾燥 = drying, アイロン = iron.
+**Explanation:** ランドリー (randorii) means laundry: a service covering washing, drying, and folding clothes. 洗剤 = detergent, 乾燥 = drying, アイロン = iron.

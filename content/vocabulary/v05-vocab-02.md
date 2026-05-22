@@ -4,9 +4,12 @@ section: 2
 title: 朝食 (choushoku)
 ---
 
-朝食 is the formal word for breakfast, and in the hotel environment it carries significant weight because the morning meal is often the guest's first full sensory experience of the property after a night's sleep. Whether served as a traditional Japanese set (和朝食), a Western buffet (洋朝食), or a combination of both, the breakfast offering reflects the hotel's identity and commitment to quality. Staff should be thoroughly familiar with the menu contents, including any allergies or dietary variations available, so that inquiries can be answered promptly and accurately. A well-delivered breakfast experience strengthens the guest's overall impression and contributes directly to positive reviews and repeat stays.
+**Pronunciation:** [**chou**-sho-ku]
+**Register:** Formal, Operational, check-in communication, dining information, F&B service
 
-Breakfast time information — start and end times, location, and whether it is included in the room rate — should be proactively communicated to arriving guests during check-in. If a guest has a specific dietary requirement, staff should liaise with the kitchen in advance using respectful and reassuring language. In ryokan settings, 朝食 is often served in the guest room or a dedicated tatami dining hall, so directional guidance may differ from standard hotel practice.
+朝食 is the formal word for breakfast, and in the hotel environment it carries real weight. The morning meal is often the first full sensory experience a guest has of the property after a night's sleep, and it shapes the emotional tone of their day. Whether your hotel serves a traditional Japanese set (和朝食), a Western buffet (洋朝食), or both, the breakfast offering reflects the property's identity. You should be thoroughly familiar with the menu contents, including any allergy accommodations or dietary variations, so that guest questions can be answered promptly and confidently. A smooth, well-informed breakfast conversation at check-in is one of those small things that quietly builds a guest's trust in the whole property.
+
+Do not wait for guests to ask about breakfast. Share the key details proactively during check-in: start and end times, location, and whether it is included in the room rate. Students often remember to mention the start time but forget the end time, which leads to guests arriving at the restaurant after service has closed. That is an avoidable frustration. If a guest has a dietary requirement, liaise with the kitchen in advance and let the guest know you have taken care of it. In ryokan settings, 朝食 is often served in the guest room or a dedicated tatami dining hall, so the guidance you give will differ from a standard hotel.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Breakfast time information — start and end times, location, and whether it is 
 
 ## Related Expressions
 
-- **朝ごはん (asagohan)** — the everyday, informal word for breakfast; appropriate among colleagues but too casual for guest-facing communication in a hotel or ryokan.
-- **和朝食 (wa-choushoku)** — specifically a Japanese-style breakfast featuring rice, miso soup, grilled fish, and pickles; used when distinguishing meal style options for guests.
+- **朝ごはん (asagohan)**: the everyday, informal word for breakfast; perfectly fine to use with colleagues, but it sounds too casual for guest-facing communication in a hotel or ryokan
+- **和朝食 (wa-choushoku)**: specifically a Japanese-style breakfast featuring rice, miso soup, grilled fish, and pickles; know this term so you can help guests understand their menu options clearly
 
 ## Common Mistakes
 
-A common error is using 朝ごはん instead of 朝食 when speaking with guests, which sounds overly casual and undermines the formal hospitality register. Staff sometimes forget the honorific prefix ご when referring to the guest's breakfast (ご朝食), which should be standard. Additionally, announcing only the start time without the end time can cause confusion, so always communicate both clearly.
+Using 朝ごはん instead of 朝食 in a guest conversation is the most common register slip here, and it stands out. In formal hospitality settings, 朝食 is the right word. Staff also frequently drop the honorific prefix ご when referring to the guest's meal, saying just 朝食 when the correct guest-facing form is ご朝食. One more thing: telling guests only the start time and not the end time seems like a small omission, but it reliably causes confusion. Always give both times together.
 
 ---
 
@@ -45,5 +48,4 @@ A common error is using 朝ごはん instead of 朝食 when speaking with guests
 
 **Correct Answer:** 朝食 (breakfast)
 
-**Explanation:** 朝食 means breakfast — ご提供しております is the humble-polite form of "we provide", used when describing hotel services to guests.
-
+**Explanation:** 朝食 means breakfast: ご提供しております is the humble-polite form of "we provide", used when describing hotel services to guests.

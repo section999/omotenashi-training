@@ -4,9 +4,12 @@ section: 39
 title: 案内板 (annaiban)
 ---
 
-案内板 combines 案内 (annai, guidance / information) with 板 (ban, board / panel), creating the term for a fixed directional sign or information display panel. Unlike フロアマップ (a portable printed map) or 案内図 (a detailed guide diagram), 案内板 refers specifically to a static physical sign mounted on a wall, pillar, or stand — the kind of board that lists floor-by-floor facilities, shows directional arrows to key areas, or displays current events and announcements. In a hotel setting, 案内板 boards are installed at the entrance, in the lobby, at elevator landings, and at major corridor junctions to help guests navigate without needing to ask staff for every destination.
+**Pronunciation:** [an-**nai**-ban]
+**Register:** Neutral to Formal -- everyday navigation and guest guidance contexts
 
-Proactively directing guests to the 案内板 is an efficient and respectful service technique. When a guest asks a question that the board answers — such as which floor the restaurant is on, or what time the pool opens — a skilled staff member says フロアの施設は案内板でご確認いただけます (you can check the floor facilities on the information board) while walking the guest to it and briefly explaining how to read it. This empowers the guest to find answers independently while demonstrating attentiveness. In event-heavy hotels, 案内板 also serves a dynamic function: it is where banquet hall assignments, wedding receptions, and conference schedules are posted, making it a critical daily reference for both guests and staff.
+案内板 puts 案内 (annai, guidance / information) together with 板 (ban, board / panel) to get the fixed directional sign or information display you see mounted on walls, pillars, and stands throughout a hotel. The key word here is "fixed." This is not a portable map you hand to a guest or a printed diagram you pull out of a drawer. The 案内板 stays where it is, listing floor-by-floor facilities, pointing arrows toward key areas, and displaying event or conference schedules. You will find them at the hotel entrance, in the lobby, at elevator landings, and at major corridor junctions. Students sometimes underestimate how much navigational work a good 案内板 does quietly in the background, freeing staff from having to repeat the same directions dozens of times a day.
+
+Knowing how to use 案内板 as a service tool is a small but real skill. When a guest asks which floor the restaurant is on, or what time the pool opens, a skilled staff member does not just answer verbally and send the guest off. They say フロアの施設は案内板でご確認いただけます, walk the guest over to the board, and briefly point out the relevant section. That thirty-second moment of guidance empowers the guest to find answers on their own for the rest of the stay. In event-heavy hotels, the 案内板 also carries real-time information: banquet hall assignments, wedding reception schedules, and conference room postings are updated daily, making it a reference point that both guests and staff check throughout the day.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Proactively directing guests to the 案内板 is an efficient and respectful ser
 
 ## Related Expressions
 
-- **案内図 (annaizu)** — "guide map," a diagram-based navigation document; 案内板 is a fixed wall-mounted sign while 案内図 is typically a printed or illustrated map that can be picked up and carried
-- **フロアマップ (furoamappu)** — "floor map," a detailed floor plan; 案内板 provides directional signage and general facility information, while フロアマップ gives a spatial layout of each floor
+- **案内図 (annaizu)**: a diagram-based navigation document, usually printed and carried; where 案内板 stays fixed on the wall, 案内図 is something a guest can pick up and take with them
+- **フロアマップ (furoamappu)**: a detailed spatial floor plan showing the layout of each level; 案内板 handles directional signage and general facility overviews, while フロアマップ gives the bird's-eye spatial picture
 
 ## Common Mistakes
 
-Learners sometimes use 案内板 and 案内図 interchangeably, but they are distinct: 案内板 is always a fixed mounted sign or board, while 案内図 is a printed or drawn diagram. Another mistake is pointing at the 案内板 without briefly explaining what section to look at — always orient the guest to the relevant part of the board so they find the information efficiently. In formal speech, say 案内板をご覧ください or 案内板でご確認いただけます rather than casual equivalents, and if escorting the guest to the board, use 案内板はこちらにございます as you approach it.
+Students often use 案内板 and 案内図 as though they mean the same thing, but the distinction is straightforward: 案内板 is always a mounted, fixed sign, while 案内図 is a printed or illustrated diagram. One more thing to watch: when you direct a guest to the 案内板, do not just point in the general direction and leave. Always indicate the specific section of the board they need, otherwise you have saved them one question and replaced it with another. In formal speech, use 案内板をご覧ください or 案内板でご確認いただけます, and if you are walking the guest there, 案内板はこちらにございます is the natural phrase as you approach it together.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes use 案内板 and 案内図 interchangeably, but they are dis
 
 **Correct Answer:** 案内板 (information board)
 
-**Explanation:** 案内板 (information board) is a fixed sign or display — pointing guests to the 案内板 rather than verbally listing every facility is efficient and empowers them to self-navigate, which is valued in modern hotel service.
+**Explanation:** 案内板 (information board) is a fixed sign or display: pointing guests to the 案内板 rather than verbally listing every facility is efficient and empowers them to self-navigate, which is valued in modern hotel service.

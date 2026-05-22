@@ -4,9 +4,12 @@ section: 14
 title: 留守番電話 (rusuban denwa)
 ---
 
-留守番電話 is the voicemail or answering machine system that records messages when a staff member or guest cannot be reached. In Japanese hospitality, where a missed call can mean a missed opportunity to serve, the management of voicemail is taken seriously as part of overall service quality. Hotels typically assign clear ownership over which team monitors the 留守番電話 for each department, ensuring that no guest message goes unheard.
+**Pronunciation:** [ru-su-ban-**DEN**-wa]
+**Register:** Formal/Neutral, standard in professional and guest communication contexts
 
-Staff are expected to check 留守番電話 at regular intervals — especially during shift changes — and to respond to any messages promptly. When notifying a guest that their message has been received, staff may say 留守番電話にメッセージをいただきました、ありがとうございます (thank you for leaving a voicemail message). Equally important is informing callers when they are about to reach voicemail, so they know to leave a message rather than hanging up.
+留守番電話 is the voicemail or answering machine system that records messages when a staff member or guest cannot be reached. The word itself is wonderfully literal: 留守 means "guarding the house while away," and 番電話 means "the phone doing that watching." In a hotel context, that image is surprisingly apt. The system is standing in for a person, and that means someone needs to check it regularly and treat what it contains as real, actionable communication, not a secondary inbox to glance at when convenient.
+
+Hotels typically assign clear ownership over which team monitors each department's 留守番電話, especially important during shift changes when messages can slip through the cracks. Staff should check 留守番電話 at set intervals, and when responding to a message, acknowledge that it came via voicemail: 留守番電話にメッセージをいただきました、ありがとうございます (thank you for leaving a voicemail message). Worth noting: it is also your job to let callers know when they are about to reach voicemail, so they can leave their message intentionally rather than being surprised by a recording.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff are expected to check 留守番電話 at regular intervals — especially 
 
 ## Related Expressions
 
-- **伝言 (dengon)** — A message or note left for someone, whether via voicemail, written memo, or verbally through a third party. 留守番電話 is the system; 伝言 is the content of the message left within it.
-- **不在 (fuzai)** — Absence or being unavailable. 不在 is often the reason a caller reaches 留守番電話; using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation.
+- **伝言 (dengon)**: the content of the message left within 留守番電話; 留守番電話 is the system, 伝言 is what goes inside it, so these terms describe different layers of the same process.
+- **不在 (fuzai)**: absence or being unavailable; 不在 is usually the reason a caller ends up at 留守番電話, so using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation.
 
 ## Common Mistakes
 
-A frequent mistake is failing to identify which department's 留守番電話 was checked, leading to messages falling through the cracks during shift changes. Learners also sometimes use 留守番電話 when referring to a live voicemail greeting message — be careful to distinguish between the system itself and the recorded greeting (応答メッセージ). Finally, neglecting to call back within a reasonable timeframe after a voicemail is received is a serious service failure in Japanese hospitality contexts.
+A frequent issue is not knowing whose 留守番電話 was actually checked, which lets messages fall through during shift handovers. Before leaving your shift, confirm which voicemail boxes you covered and which still need attention. Students also sometimes use 留守番電話 to refer to a recorded greeting message specifically, but the correct term for that is 応答メッセージ. That said, the most serious failure in this area is simply not calling back after a voicemail is received. In Japanese hospitality, a guest who leaves a voicemail and hears nothing back feels not just ignored, but actively dismissed.
 
 ---
 
@@ -45,4 +48,4 @@ A frequent mistake is failing to identify which department's 留守番電話 was
 
 **Correct Answer:** 留守番電話 (voicemail / answering machine)
 
-**Explanation:** 留守番電話 (voicemail) must be checked regularly — a hotel that fails to return voicemail messages within a reasonable time creates an impression of negligence; assigning a staff member to check 留守番電話 at set intervals is good practice.
+**Explanation:** 留守番電話 (voicemail) must be checked regularly: a hotel that fails to return voicemail messages within a reasonable time creates an impression of negligence; assigning a staff member to check 留守番電話 at set intervals is good practice.

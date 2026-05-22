@@ -4,9 +4,12 @@ section: 3
 title: パスポート確認 (pasupoto kakunin)
 ---
 
-パスポート確認 is the process of verifying a guest's passport at the time of hotel check-in, border crossing, or entry into certain facilities. In Japan, hotels are legally required to record the passport information of foreign nationals at check-in, making パスポート確認 a routine but essential step in the hospitality workflow. Staff must check that the passport is valid (not expired), that the guest's visa status permits their stay, and that the name on the booking matches the document. Conducting this process with professionalism and a warm demeanour ensures the guest does not feel singled out or suspected.
+**Pronunciation:** [pa-su-po-to ka-**ku**-nin]
+**Register:** Formal/Procedural, standard language in hotel operations and front desk work
 
-When performing パスポート確認, it is important to handle passports with care, using both hands when receiving and returning the document — a mark of respect in Japanese service culture. Staff should explain the process clearly and reassure guests that the information is collected solely for legal registration purposes. Having a multilingual explanation card at the front desk can ease any discomfort for international guests unfamiliar with this requirement.
+パスポート確認 is the process of verifying a guest's passport at check-in, and in Japan it isn't optional: hotels are legally required to record the passport information of foreign nationals at the time of arrival. Your job is to check that the passport is valid and not expired, that the visa status is consistent with the guest's stay, and that the name on the booking matches the document in front of you. The legal requirement is non-negotiable, but how you carry it out absolutely is, and doing it with warmth and professionalism is what separates a smooth check-in from one that leaves a guest feeling interrogated.
+
+In practice, the small details of how you handle the document matter as much as the check itself. Receive and return the passport with both hands: this is standard Japanese service etiquette and signals respect. Explain clearly why you need to see the passport and reassure the guest that the information is collected purely for legal registration, not stored for any other purpose. If your property sees a lot of international guests, a multilingual card at the front desk explaining the process in a few languages is a simple touch that can prevent a lot of awkward moments.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When performing パスポート確認, it is important to handle passports with 
 
 ## Related Expressions
 
-- **身分証明書の確認 (mibun shoumeisho no kakunin)** — "identity document verification"; a broader term that covers any form of ID check, not limited to passports, sometimes used for domestic guests with a driver's licence or residence card.
-- **チェックイン手続き (chekku-in tetsuzuki)** — "check-in procedure"; the full set of steps at arrival, of which パスポート確認 is one component.
+- **身分証明書の確認 (mibun shoumeisho no kakunin)**: the broader term for identity document verification; this covers any form of ID check, including driver's licences and residence cards for domestic guests, not just passport checks for foreign nationals.
+- **チェックイン手続き (chekku-in tetsuzuki)**: the full check-in procedure as a whole; パスポート確認 is one step within this larger process.
 
 ## Common Mistakes
 
-Learners sometimes confuse パスポート確認 with ビザ確認 (visa check); while related, they are distinct — the passport check verifies identity and document validity, while the visa check confirms travel permission. It is also a mistake to skip this step for guests who "look" Japanese, as residency status and nationality cannot be assumed from appearance. Remember that 確認 (kakunin) means "verification/confirmation," not "collection" — staff check and return the document; they do not keep it.
+Students sometimes blur the line between パスポート確認 and ビザ確認 (visa check). They're related but distinct: the passport check confirms who the person is and whether their document is valid, while a visa check confirms their permission to be in the country. One more thing that surprises newer staff: you must request the passport check from every foreign guest, regardless of whether they appear Japanese or not. Residency status and nationality cannot be judged by appearance, and skipping the check for some guests is both a legal risk and an inconsistency in service. Also remember that 確認 means "verification," not "collection": you check the document and hand it back. You do not keep it.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse パスポート確認 with ビザ確認 (visa check);
 
 **Correct Answer:** パスポート確認 (passport check)
 
-**Explanation:** パスポート確認 (pasupoto kakunin) means passport check — verifying identity documents at borders, hotels, or airports. ビザ = visa, 入国 = entry, 税関 = customs.
+**Explanation:** パスポート確認 (pasupoto kakunin) means passport check: verifying identity documents at borders, hotels, or airports. ビザ = visa, 入国 = entry, 税関 = customs.

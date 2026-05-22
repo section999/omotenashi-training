@@ -4,9 +4,12 @@ section: 4
 title: ダブルルーム (double room)
 ---
 
-ダブルルーム designates a guest room furnished with one double or queen-sized bed designed for two occupants. It is the room type of choice for couples and is frequently booked through online reservation platforms where the terminology mirrors international hotel conventions. In the Japanese hotel context, the distinction between ダブルルーム and ツインルーム is critically important: both accommodate two guests but differ in bed configuration, and mixing them up at check-in can cause significant disappointment, particularly for couples expecting to share a bed or business travellers expecting separate beds.
+**Pronunciation:** [da-bu-ru **ruu**-mu]
+**Register:** Formal/Neutral, standard in reservations and check-in contexts
 
-Staff must verify ダブルルーム reservations carefully at check-in and phrase the confirmation using polite language that leaves no ambiguity. When upgrading guests or making changes, proposing a ダブルルーム as an alternative should be done with an explanation of the bed arrangement. In some luxury properties, the ダブルルーム may be described more specifically as a queen or king room — knowing these sub-categories helps staff respond precisely to guest inquiries about bed size.
+ダブルルーム designates a guest room with one double or queen-sized bed, intended for two occupants. It is the room type couples most commonly book, and it aligns with international hotel terminology, so guests who have travelled widely will expect the term to mean what it says. The critical distinction to keep sharp is between ダブルルーム and ツインルーム. Both rooms sleep two people. The difference is the bed arrangement, and getting it wrong at check-in can cause real disappointment, particularly for couples expecting to share a bed or business partners expecting separate ones.
+
+In practice, staff should verify ダブルルーム reservations carefully at check-in and phrase confirmations so there is no room for misunderstanding. When proposing a ダブルルーム as an upgrade or alternative, explain the bed setup clearly. Worth noting is that higher-end properties sometimes label their offerings as queen or king rooms rather than ダブルルーム. Knowing those sub-categories means you can answer bed-size questions precisely rather than vaguely.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ Staff must verify ダブルルーム reservations carefully at check-in and phra
 
 **2.** ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？
 *Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*
-"A double room has one bed — will that be all right for you?"
+"A double room has one bed: will that be all right for you?"
 
 **3.** ダブルルームに空室がございますので、ご希望でしたらご案内できます。
 *Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*
@@ -24,12 +27,12 @@ Staff must verify ダブルルーム reservations carefully at check-in and phra
 
 ## Related Expressions
 
-- **ツインルーム (tsuin-ruumu)** — a room with two separate single beds; the key alternative for two guests who prefer individual beds rather than sharing one.
-- **キングルーム (kingu-ruumu)** — a room with a king-sized bed; a premium variant of the ダブルルーム found in upscale properties, offering more space.
+- **ツインルーム (tsuin-ruumu)**: a room with two separate single beds; the key alternative for guests who want individual sleeping spaces rather than sharing one bed.
+- **キングルーム (kingu-ruumu)**: a room with a king-sized bed; a premium variant of the ダブルルーム found in upscale properties, offering additional space and a larger bed.
 
 ## Common Mistakes
 
-The most common error is confusing ダブルルーム (one bed for two) with ツインルーム (two beds for two) — staff must confirm which type the guest actually wants rather than assuming. Some learners also misread ダブル as meaning "double the rooms" rather than "a room with a double bed." When speaking with guests, avoid the shorthand ダブル without ルーム unless within a conversation where the room type context has already been firmly established.
+The most common error is mixing up ダブルルーム (one bed for two people) with ツインルーム (two beds for two people). Students often know the distinction conceptually but still hesitate during a real check-in interaction. The fix is to confirm the bed type with the guest rather than relying on the reservation alone. That said, another mistake is misreading ダブル as meaning "two rooms" or "double the space," when it simply means "a room with a double bed." When the room type context is already clear in conversation, using just ダブル is acceptable among staff. In front of guests, though, the full ダブルルーム is the professional choice.
 
 ---
 
@@ -44,5 +47,5 @@ The most common error is confusing ダブルルーム (one bed for two) with ツ
 
 **Correct Answer:** ダブルルームでございます (it is a double room)
 
-**Explanation:** ダブルルームでございます confirms the room type respectfully using ございます — always verify the correct room type with the guest.
+**Explanation:** ダブルルームでございます confirms the room type respectfully using ございます: always verify the correct room type with the guest.
 

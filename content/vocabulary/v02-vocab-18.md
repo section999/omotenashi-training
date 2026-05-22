@@ -4,9 +4,9 @@ section: 18
 title: クレジットカード (credit card)
 ---
 
-クレジットカード is the standard Japanese term for a credit card, and it plays a central role in hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Understanding when and how to request a credit card respectfully — without making the guest feel distrusted — is a key hospitality skill.
+クレジットカード is the standard Japanese term for a credit card, and it comes up throughout hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Knowing when and how to request a credit card without making the guest feel distrusted is a skill worth practising.
 
-Front desk staff regularly use クレジットカード in two distinct contexts: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). It is also important to name the accepted card networks — Visa, Mastercard, JCB, American Express — when a guest asks which cards are accepted: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these scenarios signals high professional competence.
+In practice, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). Worth noting: when a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is a reliable indicator of professional competence.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Front desk staff regularly use クレジットカード in two distinct contexts
 
 ## Related Expressions
 
-- **デビットカード (debitto kādo)** — a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out.
-- **電子マネー (denshi manē)** — electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately.
+- **デビットカード (debitto kādo)**: a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out.
+- **電子マネー (denshi manē)**: electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately.
 
 ## Common Mistakes
 
-Learners frequently use 見る (miru) instead of 拝見する (haiken suru) when asking to examine a guest's card — 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. Another mistake is saying カードください, which sounds like a demand; the correct framing is a request with explanatory context. Staff should also avoid processing a card without first confirming the amount with the guest: お支払い金額は〇〇円でよろしいでしょうか should precede any transaction.
+Students frequently reach for 見る (miru) rather than 拝見する (haiken suru) when asking to examine a guest's card. 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. A separate issue is saying カードください, which sounds like a demand with no context. Frame the request properly and explain why the card is needed. And before processing any card, always confirm the amount with the guest first: お支払い金額は〇〇円でよろしいでしょうか should come before any transaction.
 
 ---
 
@@ -45,4 +45,4 @@ Learners frequently use 見る (miru) instead of 拝見する (haiken suru) when
 
 **Correct Answer:** 拝見 (to humbly look at / see)
 
-**Explanation:** 拝見 is the humble form of seeing/examining — the correct polite verb when requesting to view any document or card.
+**Explanation:** 拝見 is the humble form of seeing/examining: the correct polite verb when requesting to view any document or card.

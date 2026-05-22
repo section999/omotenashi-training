@@ -4,9 +4,12 @@ section: 11
 title: 名所 (meisho)
 ---
 
-名所 refers to a place of renown — a famous spot that is well-known for its historical, cultural, scenic, or architectural significance. Unlike the broader term 観光地 (tourist spot), 名所 carries an implication of established prestige; it is a place that people have recognised and celebrated for generations. Classic examples of 名所 in Japan include Kinkaku-ji in Kyoto, Fushimi Inari Shrine, Matsumoto Castle, and Mount Fuji. In a hospitality setting, being able to speak knowledgeably about local 名所 — their history, the best time to visit, and how to get there — is a core competency for concierge staff and front desk teams alike.
+**Pronunciation:** [**mei**-sho]
+**Register:** Neutral/Formal, used in tourism, hospitality, and general conversation
 
-When recommending 名所 to guests, hospitality professionals should consider the guest's interests and abilities. A guest with limited mobility may need information about accessible routes; a guest with only one day to spend may need to prioritise the single most iconic 名所 nearby. Providing context — why a particular site is famous, what makes it unique — elevates a simple recommendation into a memorable cultural exchange that embodies the spirit of omotenashi.
+名所 refers to a famous or celebrated place, somewhere that people have recognised and valued for generations because of its historical significance, cultural weight, scenic beauty, or architectural distinction. Unlike the broader 観光地 (tourist spot), which covers any place visitors happen to go, 名所 carries a sense of established prestige. Think of Kinkaku-ji in Kyoto, Fushimi Inari Shrine, Matsumoto Castle, or the view of Mount Fuji from Kawaguchiko. These aren't just popular destinations: they're 名所, places with a story, a reputation, and a reason why people have been visiting them for centuries.
+
+For concierge and front desk staff, knowing your local 名所 thoroughly is non-negotiable. That means not just knowing where they are, but knowing their history, what makes each one unique, the best time of day or year to visit, and how to get there without confusion. When you can tell a guest something they didn't know about a site, like the fact that a particular shrine gate was built without nails, or that a certain garden was designed to look different from every viewing angle, you're not just giving directions. You're delivering the kind of insight that turns a sightseeing trip into a memory. That's omotenashi at its most natural.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When recommending 名所 to guests, hospitality professionals should consider th
 
 ## Related Expressions
 
-- **観光地 (kankouchi)** — "tourist spot"; a broader term for any place tourists visit, while 名所 specifically implies historical or cultural fame and established recognition.
-- **旧跡 (kyuuseki)** — "historic site/relic"; a more scholarly term for ancient or historically significant places, often used in academic, governmental, or preservation contexts.
+- **観光地 (kankouchi)**: the broader term for any tourist spot; 名所 is a subset of 観光地, specifically the places with established cultural or historical renown.
+- **旧跡 (kyuuseki)**: a more scholarly or governmental term for ancient or historically significant sites, often used in preservation and academic contexts rather than in everyday hospitality conversation.
 
 ## Common Mistakes
 
-The most common mistake is using 名所 and 観光地 interchangeably — every 名所 is likely a 観光地, but not every 観光地 has the prestige of a 名所. A newly opened theme park, for instance, is a 観光地 but probably not a 名所. Learners sometimes also mispronounce 名所 as *meisho* with equal length on both syllables; the first mora *mei* carries the natural stress. Note also that 名所 is typically used for outdoor or built-environment sites rather than for food or activities — you would not call a famous restaurant a 名所 in standard usage.
+The most common error is treating 名所 and 観光地 as interchangeable. Every 名所 is a 観光地, but the reverse isn't true. A newly opened theme park is definitely a 観光地, but it hasn't earned the prestige of a 名所 yet. Worth noting on usage: 名所 is conventionally used for outdoor, architectural, or natural sites, not for food or activities. You wouldn't call a famous ramen restaurant a 名所 in standard usage, even if it has a line around the block. On pronunciation, the first mora *mei* carries the natural stress: *MEI-sho*, not *mei-SHO*.
 
 ---
 
@@ -44,4 +47,4 @@ The most common mistake is using 名所 and 観光地 interchangeably — every 
 
 **Correct Answer:** 名所 (sightseeing spot / landmark)
 
-**Explanation:** 名所 (meisho) means famous place — a well-known location of historical or cultural significance. 観光地 = tourist spot (broader), おすすめ = recommendation, 地図アプリ = map app.
+**Explanation:** 名所 (meisho) means famous place: a well-known location of historical or cultural significance. 観光地 = tourist spot (broader), おすすめ = recommendation, 地図アプリ = map app.

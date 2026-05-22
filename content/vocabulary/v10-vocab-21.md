@@ -4,9 +4,12 @@ section: 21
 title: 超過 (chouka)
 ---
 
-超過 means excess or overage — the condition of surpassing a specified limit, quota, or threshold. In hospitality, this most frequently refers to situations such as luggage exceeding a weight limit, guests occupying a room past the defined checkout time (late checkout 超過料金), or a group exceeding the contracted number of covers at a banquet. Understanding 超過 is important for staff because it directly leads to 超過料金 (excess charges), which must be explained clearly and diplomatically to guests. Transparency in how these charges are calculated is essential to maintaining trust.
+**Pronunciation:** [cho-**u**-ka]
+**Register:** Formal/Neutral, used in billing, logistics, and checkout conversations
 
-When explaining a 超過 situation, staff should follow a three-part structure: state the defined limit, state the actual amount or time, and state the resulting charge. For example, チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. This approach prevents ambiguity and allows the guest to understand and accept the charge without feeling they have been penalized arbitrarily. In some cases, when the 超過 is minor or the guest is a loyal customer, staff may seek 承認 (supervisor approval) to waive the 超過料金 as a goodwill gesture.
+超過 means excess or overage: a defined limit has been surpassed. In hospitality, you'll encounter this most often with late checkouts (the guest stayed past noon), luggage over a weight limit, or a banquet group that exceeded the contracted number of covers. Each situation generates a 超過料金 (excess charge), and explaining that charge clearly and diplomatically is where your language skills get tested. Guests tend to accept 超過料金 without complaint when they understand exactly how it was calculated. The problem arises when the charge seems to come from nowhere.
+
+A reliable three-part structure makes these conversations much smoother: state the defined limit, state the actual usage, then state the resulting charge. For example: チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. That sequence is transparent and easy to follow. In practice, if the 超過 is minor and the guest is a loyal or long-staying customer, it's worth checking with a supervisor about waiving the 超過料金 as a goodwill gesture. Knowing when to escalate that decision is part of the job.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When explaining a 超過 situation, staff should follow a three-part structure: 
 
 ## Related Expressions
 
-- **不足 (fusoku)** — 不足 is the opposite of 超過: where 超過 describes exceeding a limit, 不足 describes falling short of a required amount; together they represent the two types of discrepancy staff must handle at the payment and service stage.
-- **超過料金 (chouka ryoukin)** — This compound is the most common applied form of 超過 in hospitality, referring specifically to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume.
+- **不足 (fusoku)**: 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy you'll be explaining to guests at billing time.
+- **超過料金 (chouka ryoukin)**: The most common applied form in hospitality, referring to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume.
 
 ## Common Mistakes
 
-Learners sometimes announce a 超過 charge without explaining the basis for it, which can make the guest feel the charge is arbitrary or unfair. Always lead with the defined limit and the actual usage before stating the charge. Another common error is confusing 超過 with 追加 (addition) — 超過料金 is specifically a penalty for exceeding a limit, while 追加料金 may simply be a charge for an extra service that was added without any limit being breached. The distinction matters when explaining charges to guests.
+Students often announce a 超過 charge without explaining its basis, which makes the guest feel the charge is arbitrary. Always lead with the limit and the actual usage before stating the amount owed. Worth noting: 超過 and 追加 are not the same thing. 超過料金 is a penalty for exceeding a threshold; 追加料金 is simply a charge for an extra service that was added. Mixing these up causes real confusion when guests ask you to break down their bill.
 
 ---
 
@@ -45,5 +48,4 @@ Learners sometimes announce a 超過 charge without explaining the basis for it,
 
 **Correct Answer:** 超過 (excess / overage)
 
-**Explanation:** 超過 applies to weight limits, time limits, and charges — when explaining a 超過料金 (excess charge), always state the limit, the actual amount, and the resulting fee clearly (制限〇〇、実際〇〇、追加〇〇円) so the guest understands the calculation.
-
+**Explanation:** 超過 applies to weight limits, time limits, and charges: when explaining a 超過料金 (excess charge), always state the limit, the actual amount, and the resulting fee clearly (制限〇〇、実際〇〇、追加〇〇円) so the guest understands the calculation.

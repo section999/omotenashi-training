@@ -4,9 +4,9 @@ section: 29
 title: 通訳 (tsuuyaku)
 ---
 
-通訳 (通訳) refers to the live, oral translation of spoken language from one tongue to another. The word combines 通 (to pass through, to communicate) and 訳 (to interpret, to translate), together conveying the idea of making meaning pass through language barriers. In hotel contexts, 通訳 arises in many situations: a foreign guest requiring assistance at check-in, a business conference needing a professional interpreter, or a staff member helping to mediate a misunderstanding. Unlike 翻訳 (written translation), 通訳 is always spoken and occurs in real time, making accuracy and composure under pressure critical qualities for anyone providing this service.
+通訳 means live, spoken interpretation between languages. The characters break down as 通 (to pass through, to communicate) and 訳 (to interpret or translate), and together they describe making meaning travel across a language barrier in real time. Hotel contexts generate 通訳 needs all the time: a guest struggling at check-in, a business conference that needs a professional interpreter, a staff member trying to smooth out a misunderstanding. The critical thing to understand is that 通訳 is always spoken and always live, which puts real pressure on accuracy and composure. This is what distinguishes it from 翻訳, which handles written text at a more deliberate pace.
 
-When arranging 通訳 services, hotel staff should clarify the language pair, the nature of the interaction, and whether a professional interpreter or a bilingual staff member is needed. For routine conversations, a staff member with adequate language ability can handle the 通訳 role. For legal, medical, or complex business matters, the hotel concierge should arrange a certified professional interpreter. It is important to inform the guest of these distinctions so that they can make an informed decision. Phrases such as 通訳が必要な場合はお申し付けください (please let us know if you require interpretation) demonstrate proactive hospitality.
+When a guest needs 通訳 help, your first job is to clarify what kind they need: the language pair, the context, and whether a bilingual staff member can manage it or whether a certified professional is required. For a relaxed lobby conversation, a staff member with decent language skills is fine. For medical situations, legal matters, or complex business negotiations, a professional interpreter is the right call. Worth noting: proactively offering this with 通訳が必要な場合はお申し付けください (please let us know if you need interpretation) is far better than waiting for a guest to struggle visibly and then reacting.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When arranging 通訳 services, hotel staff should clarify the language pair, th
 
 ## Related Expressions
 
-- **翻訳 (hon'yaku)** — written translation, as opposed to 通訳 which is spoken; a critical distinction in hospitality where guests may need either service and the correct one must be arranged
-- **バイリンガルスタッフ (bairingaru sutaffu)** — bilingual staff, who often handle informal 通訳 duties within the hotel without being professional interpreters
+- **翻訳 (hon'yaku)**: written translation, as opposed to 通訳 which is spoken. In hospitality you need to get this distinction right quickly, because offering one when the guest needs the other wastes time and can leave them more frustrated than before.
+- **バイリンガルスタッフ (bairingaru sutaffu)**: bilingual staff members who routinely handle informal 通訳 duties within the hotel without holding professional interpreter credentials. Valuable for day-to-day conversations, but not the right resource for high-stakes situations.
 
 ## Common Mistakes
 
-The most important mistake to avoid is confusing 通訳 (spoken/oral) with 翻訳 (written). Offering 通訳 when a guest needs a document translated wastes time and creates confusion. Learners also sometimes assume that any bilingual staff member is an adequate 通訳 for all situations — this is untrue for high-stakes scenarios such as medical emergencies or legal matters, where professional credentials matter. Finally, when describing what you can provide, be precise: 簡単な通訳であれば対応できます (I can handle basic interpretation) is more honest and helpful than implying full professional capability.
+The biggest mistake with 通訳 is confusing it with 翻訳. If a guest hands you a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. Students sometimes also assume that any bilingual colleague can handle all 通訳 situations: that is fine for casual conversation, but in a medical emergency or a legal dispute, you need someone with professional credentials, not just general language ability. When describing what your hotel can provide, be specific: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy and more useful than overpromising.
 
 ---
 
@@ -44,4 +44,4 @@ The most important mistake to avoid is confusing 通訳 (spoken/oral) with 翻�
 
 **Correct Answer:** 通訳 (interpretation)
 
-**Explanation:** 通訳 (spoken) vs 翻訳 (written) — this distinction matters when a guest asks for help: a guest who needs a document translated needs 翻訳, while one who needs someone to speak on their behalf in a meeting needs 通訳; offering the wrong type wastes time and erodes confidence.
+**Explanation:** 通訳 (spoken) vs 翻訳 (written): this distinction matters when a guest asks for help: a guest who needs a document translated needs 翻訳, while one who needs someone to speak on their behalf in a meeting needs 通訳; offering the wrong type wastes time and erodes confidence.

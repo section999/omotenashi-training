@@ -4,9 +4,12 @@ section: 6
 title: 交差点 (kousaten)
 ---
 
-交差点 (kousaten) means "intersection" and refers to the point where two or more roads cross, typically governed by traffic signals. In hotel hospitality, this word becomes essential whenever staff give directions beyond the building's interior — to nearby restaurants, train stations, tourist attractions, or transportation hubs. Japanese guests and international visitors alike rely on intersection-based navigation because traffic lights serve as unmistakable, fixed landmarks that are impossible to miss. Giving clear, safe directions to and from 交差点 is an expression of genuine care for the guest's well-being, a core value of omotenashi.
+**Pronunciation:** [kou-**sa**-ten]
+**Register:** Formal/Neutral, standard in outdoor directional guidance
 
-When using 交差点 in guidance, staff should always specify the action required — whether to cross it (渡る), turn at it (曲がる), or use it as a reference point — and ideally mention the traffic signal (信号) or a nearby landmark such as a konbini or bank on the corner. For guests unfamiliar with local traffic flow, reminding them to wait for the signal and check for bikes (自転車にご注意ください) demonstrates the proactive thoughtfulness expected of hospitality professionals.
+交差点 means "intersection" and refers to the point where two or more roads cross, typically governed by traffic signals. In hotel hospitality, this word becomes essential whenever staff give directions that extend beyond the building's interior: to nearby restaurants, train stations, tourist attractions, or transport hubs. Traffic lights are unmistakable, fixed landmarks that guests can see from a distance, which makes intersection-based navigation unusually reliable. Giving clear, safe directions involving 交差点 is a direct expression of genuine care for the guest's well-being, not just their navigation.
+
+When using 交差点 in guidance, always specify what the guest should do at it: whether to cross it (渡る), turn at it (曲がる), or simply use it as a reference point. Mentioning the traffic signal (信号) alongside it helps guests locate the intersection before they reach it. For guests unfamiliar with local traffic flow, a reminder to wait for the signal and stay alert for bicycles (自転車にご注意ください) is exactly the kind of proactive thoughtfulness that distinguishes omotenashi hospitality from ordinary service.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When using 交差点 in guidance, staff should always specify the action require
 
 ## Related Expressions
 
-- **角 (kado)** — "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals
-- **信号 (shingou)** — "traffic signal / traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing
+- **角 (kado)**: "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals
+- **信号 (shingou)**: "traffic signal" or "traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing
 
 ## Common Mistakes
 
-A frequent error is using 交差点 when describing a corridor junction inside a building — in indoor spaces, 角 is the correct and natural term. Learners sometimes forget to specify the action at the intersection (crossing vs. turning), leaving guests unsure whether to cross the road or simply turn. Omitting the safety reminder about traffic signals (信号をご確認ください) is also a missed opportunity that true omotenashi service would not overlook.
+A frequent error is using 交差点 to describe a corridor junction inside a building. In indoor spaces, 角 is the correct and natural term. Students sometimes also forget to specify the action at the intersection, whether the guest should cross it or turn at it, leaving them standing at the signal unsure what to do next. In practice, omitting the safety reminder about traffic signals is a missed opportunity. True omotenashi means giving guests information that keeps them safe, not just information that gets them to their destination. Worth noting is that cyclists often run red lights in Japan, so mentioning 自転車にご注意ください is not overcaution.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent error is using 交差点 when describing a corridor junction inside a
 
 **Correct Answer:** 交差点で信号を確認してください (please check the traffic light at the intersection)
 
-**Explanation:** 交差点で信号を確認してください — reminding guests to check the signal (信号) at intersections shows care for their safety beyond just navigation, which is true omotenashi.
+**Explanation:** 交差点で信号を確認してください: reminding guests to check the signal (信号) at intersections shows care for their safety beyond just navigation, which is true omotenashi.

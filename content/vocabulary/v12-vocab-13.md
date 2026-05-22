@@ -4,9 +4,12 @@ section: 13
 title: 怪我 (kega)
 ---
 
-怪我 (kega) refers to a physical injury or wound sustained by a person, ranging from minor cuts and bruises to serious trauma requiring immediate medical attention. In the hotel environment, injuries can occur in a variety of settings — slippery bathroom floors, staircases, fitness facilities, kitchen areas, or outdoor walkways. Recognising the severity of a guest's 怪我 is the first critical step in determining the appropriate response. Staff must remain calm, reassure the guest, and act swiftly to minimise further harm.
+**Pronunciation:** [**ke**-ga]
+**Register:** Neutral to Formal, guest care and incident response
 
-When a guest sustains a 怪我, the immediate priority is to assess whether first aid can be administered on-site or whether emergency services must be contacted. Minor injuries such as small cuts may be treated with the hotel's first aid kit, while fractures, head injuries, or deep lacerations require professional medical intervention. All incidents involving injury must be documented in an accident report regardless of severity, both for the guest's protection and for the hotel's liability records. Proactive hazard identification — such as placing wet floor signs and maintaining well-lit corridors — is equally important in preventing 怪我 from occurring in the first place.
+怪我 refers to a physical injury caused by an external event, anything from a small cut or bruise to a serious trauma that needs immediate medical attention. In a hotel, you encounter 怪我 in all sorts of settings: slippery bathroom floors, staircases, fitness facilities, outdoor walkways, kitchen areas. The first thing you need to do when you see that a guest has been hurt is assess how serious it is. That single step determines everything that follows.
+
+Minor injuries like small cuts can often be handled with the hotel's first aid kit. Fractures, head injuries, deep lacerations, or anything where you are not certain about severity should always mean calling for professional help. In practice, the instinct to reassure a guest can sometimes cause staff to underestimate an injury, so when in doubt, escalate. Every incident involving injury must be documented in an accident report, no matter how small it seems, both to protect the guest and to protect the hotel. Preventing 怪我 in the first place, through wet floor signs, good lighting, and regular hazard checks, is just as much a part of your job as responding to it.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest sustains a 怪我, the immediate priority is to assess whether firs
 
 ## Related Expressions
 
-- **負傷 (fushō)** — a more formal term for injury, often used in official reports and medical documentation rather than in everyday guest communication.
-- **擦り傷 (surikizu)** — a scrape or abrasion; a specific type of minor 怪我 that hotel staff frequently encounter when guests fall or brush against rough surfaces.
+- **負傷 (fushō)**: a more formal word for injury, found mainly in official reports and medical documentation rather than in everyday conversation with guests. You would write 負傷 in an incident report but say 怪我 out loud.
+- **擦り傷 (surikizu)**: a scrape or abrasion; one of the more common minor 怪我 you'll deal with when guests fall or brush against rough surfaces, especially around outdoor areas or staircases.
 
 ## Common Mistakes
 
-Learners sometimes confuse 怪我 with 病気 (illness), but 怪我 refers specifically to physical trauma caused by an external event, such as a fall or cut, rather than an internally developed medical condition. Another common error is omitting the honorific construction when speaking to or about guests — always use 怪我をされました rather than 怪我をしました when the injured party is a guest. Additionally, be careful not to use the casual verb form 怪我した in formal hotel speech; the polite form 怪我をされました or 怪我をなさいました is expected.
+Students often mix up 怪我 and 病気 (illness), but they are distinct: 怪我 is physical trauma caused by an external event such as a fall or cut, not an illness that develops from within. One more thing about speaking to guests: always use the honorific construction when the injured person is a guest. Say 怪我をされました, not 怪我をしました. The casual form 怪我した has no place in formal hotel speech at all. Using the wrong register here, even accidentally, can make a guest feel that the staff member is being careless or disrespectful at a vulnerable moment.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 怪我 with 病気 (illness), but 怪我 refers speci
 
 **Correct Answer:** 怪我 (injury)
 
-**Explanation:** 怪我 (kega) means injury — physical harm to the body. 病気 = illness, 救助 = rescue, 危険 = danger.
+**Explanation:** 怪我 (kega) means injury: physical harm to the body. 病気 = illness, 救助 = rescue, 危険 = danger.

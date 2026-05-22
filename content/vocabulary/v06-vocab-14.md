@@ -24,12 +24,12 @@ In practice, 停電 is announced promptly over intercom, at the front desk, or d
 
 ## Related Expressions
 
-- **故障 (koshou)** — Refers to a mechanical breakdown or malfunction of a specific device or piece of equipment, such as an air conditioner or elevator. Unlike 停電, which affects the entire electrical supply, 故障 is localized to a single item and does not imply a broader outage.
-- **停止 (teishi)** — Means a stoppage or suspension, often used for scheduled service interruptions (e.g., 運転停止, suspension of service). Unlike 停電, which is almost always unplanned and urgent, 停止 can be planned and communicated in advance.
+- **故障 (koshou)**: Refers to a mechanical breakdown or malfunction of a specific device or piece of equipment, such as an air conditioner or elevator. Unlike 停電, which affects the entire electrical supply, 故障 is localized to a single item and does not imply a broader outage.
+- **停止 (teishi)**: Means a stoppage or suspension, often used for scheduled service interruptions (e.g., 運転停止, suspension of service). Unlike 停電, which is almost always unplanned and urgent, 停止 can be planned and communicated in advance.
 
 ## Common Mistakes
 
-Learners sometimes confuse 停電 with 故障 and use them interchangeably, but this leads to miscommunication — telling a guest there is a 停電 when only the air conditioner has broken down (故障) is inaccurate and may cause unnecessary alarm. Another common error is announcing 停電が起きました (occurred, past tense) when the outage is still active; the correct ongoing form is 停電が発生しております. Staff should also avoid casual phrasing like 「電気が消えました」in formal guest-facing situations, as it sounds imprecise.
+Learners sometimes confuse 停電 with 故障 and use them interchangeably, but this leads to miscommunication: telling a guest there is a 停電 when only the air conditioner has broken down (故障) is inaccurate and may cause unnecessary alarm. Another common error is announcing 停電が起きました (occurred, past tense) when the outage is still active; the correct ongoing form is 停電が発生しております. Staff should also avoid casual phrasing like 「電気が消えました」in formal guest-facing situations, as it sounds imprecise.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes confuse 停電 with 故障 and use them interchangeably, but 
 
 **Correct Answer:** 停電 (power outage)
 
-**Explanation:** 停電が発生しております — 発生しております (is occurring) paired with 現在 (currently) is the standard phrase for announcing an active incident; it informs guests calmly and accurately.
+**Explanation:** 停電が発生しております: 発生しております (is occurring) paired with 現在 (currently) is the standard phrase for announcing an active incident; it informs guests calmly and accurately.
 

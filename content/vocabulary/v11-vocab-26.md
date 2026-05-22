@@ -4,9 +4,9 @@ section: 26
 title: 保留 (horyuu)
 ---
 
-保留 (保留) literally means "temporary retention" and refers to the act of placing a telephone caller on hold. In hotel phone etiquette, properly announcing a 保留 is a critical courtesy skill: the guest must be told why they are being placed on hold, approximately how long the wait will be, and that they will be attended to shortly. A sudden silence on the line without explanation is considered a serious lapse in service quality. The term comes from 保 (to hold or preserve) and 留 (to keep or detain), together conveying the idea of keeping the caller in a waiting state.
+保留 literally means "temporary retention" and refers to placing a telephone caller on hold. The characters break down as 保 (to hold or preserve) and 留 (to keep or detain), so together they describe keeping the caller in a waiting state. In hotel phone etiquette, this is one of those small details that makes a big difference: a guest who is placed on hold without any explanation is left in silence wondering if the call dropped. That uncertainty is the opposite of omotenashi.
 
-Hotel staff are trained never to put a guest on hold for longer than sixty seconds without returning to the line. The standard phrase 少々保留にさせていただきます (I will place you on hold for a brief moment) must be followed by a return to the caller with an update even if the information is not yet ready. If the wait extends, the polite return phrase is お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you very much for your patience — may I ask for just a little more of your time). Mastering this cycle of 保留 and follow-up shows guests that they have not been forgotten.
+Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place you on hold for a brief moment), and it must be followed by an actual return, not just silence. That said, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you for your patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is one of the clearest markers of professional telephone service.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Hotel staff are trained never to put a guest on hold for longer than sixty secon
 
 ## Related Expressions
 
-- **お待たせいたしました (omatase itashimashita)** — the essential phrase spoken immediately upon returning from 保留, acknowledging the guest's wait before any other information is given
-- **そのままお待ちください (sono mama omachi kudasai)** — a gentler instruction to stay on the line while on hold, softer than simply pressing the hold button without a word
+- **お待たせいたしました (omatase itashimashita)**: the first thing you say when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before you move into your update.
+- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that you are coming back.
 
 ## Common Mistakes
 
-Learners often omit the reason for 保留 or fail to give a time estimate before placing the caller on hold, which creates anxiety for the guest. Saying only 少々お待ちください without the 保留にさせていただきます framing can be ambiguous — the caller may not realize they are being placed on a formal hold. Additionally, using the casual わかりました before placing a caller on hold is too informal; the hold announcement itself should maintain the same keigo register as the rest of the call.
+Students often skip the reason for 保留 or forget to give any estimate before pressing hold. That omission creates real anxiety for the caller because they cannot see what is happening on your end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous too: the caller may not realize they are actually being placed on a formal hold. Also watch for register slippage: using the casual わかりました right before you place someone on hold breaks the keigo flow of the call. Keep the same register from the greeting all the way through the hold announcement.
 
 ---
 
@@ -45,4 +45,4 @@ Learners often omit the reason for 保留 or fail to give a time estimate before
 
 **Correct Answer:** 保留 (hold / on hold)
 
-**Explanation:** 保留 etiquette requires checking back every 30-60 seconds — if information takes time, return to the line with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you for waiting, may I have a little more time); never leave a caller on hold without updates for more than one minute.
+**Explanation:** 保留 etiquette requires checking back every 30-60 seconds: if information takes time, return to the line with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you for waiting, may I have a little more time); never leave a caller on hold without updates for more than one minute.

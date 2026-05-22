@@ -4,9 +4,9 @@ section: 11
 title: 子供 (kodomo)
 ---
 
-子供 refers to child guests, typically defined as those below the adult age threshold (often under 12 or 13, depending on the property). In Japanese hotel and ryokan reservations, the 子供 category carries specific implications for pricing and amenities: child rates are usually discounted compared to adult rates, and the exact discount often depends on whether the child is sharing a bed with parents, using an extra futon, or occupying their own space. Many properties further subdivide 子供 into age brackets — for example, school-age children (小学生) versus younger children (未就学児) — each with different pricing and meal portion sizes. Staff must know their property's exact classification system before quoting rates.
+子供 refers to child guests, generally those below the adult age threshold, which at most properties means under 12 or 13. The pricing gets a bit more involved than a simple adult-versus-child split: the rate often depends on whether the child is sharing a bed with parents, using an extra futon, or taking a separate room. Many properties break 子供 down further into age brackets, such as elementary school students (小学生) and preschool-age children (未就学児), with different meal portions and room setup expectations for each. Before you quote a family any rate, make sure you know exactly how your property defines these brackets.
 
-From a service perspective, the presence of 子供 in a reservation signals the need for proactive preparation: child-size yukata, step stools in the bathroom, a highchair for dining, and if applicable, a separate children's menu. Anticipating these needs without being asked is a hallmark of omotenashi. When speaking to parents about their children, always use the honorific お子様 rather than the plain 子供 to show respect.
+That said, the service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to start thinking: child-size yukata, a step stool in the bathroom, a highchair at the dining table, maybe a separate children's menu. Doing this without being asked is exactly what omotenashi looks like in action. In practice, always use お子様 when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ From a service perspective, the presence of 子供 in a reservation signals the 
 
 ## Related Expressions
 
-- **幼児 (youji)** — infants and toddlers (typically under 3 or 4 years old); a subcategory of 子供 with its own pricing rules, often staying free but requiring a crib.
-- **小学生 (shougakusei)** — elementary school-age children; many properties use this as a distinct pricing bracket with specific meal options and room setup requirements.
+- **幼児 (youji)**: infants and toddlers, typically under 3 or 4 years old; a subcategory of 子供 with its own rules, often free of charge but still needing a crib and other baby-specific arrangements.
+- **小学生 (shougakusei)**: elementary school-age children; many properties treat this as its own pricing bracket with specific meal options and room setup considerations that differ from both younger children and adults.
 
 ## Common Mistakes
 
-Learners often use 子供 (plain form) when speaking directly to guests, rather than the polite お子様 — this comes across as blunt and lacks the warmth expected in hospitality settings. Another common error is applying a blanket child rate without confirming the child's age, which may result in incorrect billing if the property uses age-based subcategories. Always clarify age before assigning a rate category.
+Students often reach for the plain form 子供 when speaking with guests, which is a quick way to sound casual in a situation that calls for warmth and formality. お子様 is the one to use in any guest-facing context, no exceptions. The other regular mistake is slapping a generic child rate on a booking without first asking the child's age. If your property has age-based subcategories, you could end up billing incorrectly, and correcting it later is uncomfortable for everyone. A quick age confirmation at the reservation stage prevents all of that.
 
 ---
 
@@ -45,4 +45,4 @@ Learners often use 子供 (plain form) when speaking directly to guests, rather 
 
 **Correct Answer:** 子供 (child)
 
-**Explanation:** 子供 (child) often qualifies for reduced rates — when adding a 子供 to a reservation, confirm age to determine whether they fall into the 子供 or 幼児 category, as pricing and amenities (cribs, high chairs) differ.
+**Explanation:** 子供 (child) often qualifies for reduced rates: when adding a 子供 to a reservation, confirm age to determine whether they fall into the 子供 or 幼児 category, as pricing and amenities (cribs, high chairs) differ.

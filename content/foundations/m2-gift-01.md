@@ -4,9 +4,9 @@ section: 1
 title: The Role of Gifts in Japanese Culture
 ---
 
-Gift-giving in Japan, **贈答 (zōtō)**, is not a casual act. It is a structured social ritual that conveys gratitude, respect, obligation, and care. Understanding it is genuinely important for hospitality professionals, both for serving guests who participate in it and for knowing when and how to present gifts on behalf of your property.
+Gift-giving in Japan, **贈答 (zōtō)**, is not a casual act. It is a structured social ritual that carries real weight: gratitude, respect, obligation, and care all woven together in a single wrapped box. Understanding this matters for hospitality professionals, both for serving guests who participate in it and for knowing how to present gifts on behalf of your property.
 
-At its core, Japanese gift-giving is governed by a concept called **giri (義理)**, a sense of social duty or obligation. A gift is rarely just a gift; it is an acknowledgement of a relationship and an investment in its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries real social weight.
+At its core, Japanese gift-giving is governed by a concept called **giri (義理)**, a sense of social duty or obligation. A gift is rarely just a gift. It is an acknowledgement of a relationship and an investment in its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries real social weight. Students often find this uncomfortable at first, as if the sentiment must be forced. But once you understand that giri is about maintaining connections rather than checking a box, it starts to feel much more natural. Think of it as the formalised version of what good friends do anyway.
 
 **Two major gift-giving seasons:**
 
@@ -15,7 +15,7 @@ At its core, Japanese gift-giving is governed by a concept called **giri (義理
 
 **Why this matters in hospitality:**
 
-Guests arriving with gifts for staff, or purchasing omiyage to take home, are participating in a social ritual. Staff who understand giri and zōtō can respond with the correct level of appreciation, handle received gifts appropriately, and help guests select meaningful items from the property's shop or local area.
+In practice, guests participating in these customs will look to you for guidance, whether selecting something at the property's shop or asking about local specialties worth bringing home. Staff who understand giri and zōtō can respond with the right level of appreciation, handle received gifts correctly, and help guests make choices that will land well with whoever receives them. That kind of guidance is a genuine service.
 
 ---
 

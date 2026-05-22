@@ -4,9 +4,12 @@ section: 28
 title: 習慣 (shuukan)
 ---
 
-習慣 means custom or habit, referring to the established patterns of behaviour that are commonly practised within a culture or community. In the Japanese hospitality and tourism context, 習慣 is an essential concept because Japan has many customs that differ significantly from practices in other countries, and unfamiliarity with them can lead to unintentional rudeness or confusion. Common examples include removing shoes before entering a home or certain traditional facilities, not tipping service staff, queuing patiently in designated areas, and refraining from eating or drinking while walking. Hospitality staff who can explain these 習慣 clearly and warmly help guests feel informed and respected rather than judged.
+**Pronunciation:** [**shuu**-kan]
+**Register:** Neutral, appropriate in both conversational and formal explanations
 
-Understanding 習慣 also helps tourism professionals appreciate why certain guest behaviours may seem unusual — a habit perfectly normal in one country may be considered inappropriate in Japan, and vice versa. Staff training often includes a module on cultural 習慣 so that employees can respond diplomatically when a guest unknowingly breaches a local norm. The distinction between 習慣 and 文化 (bunka, culture) is important: 習慣 refers to the specific behavioural practices, while 文化 describes the broader cultural environment in which those practices exist. Common phrases include 「日本では～という習慣があります」 (In Japan, there is a custom of...) which is a polite and effective way to introduce cultural norms to international guests.
+習慣 means custom or habit, the established patterns of behaviour that people in a particular culture carry out almost automatically. Japan has many 習慣 that surprise visitors from other countries: not tipping service staff, queueing in orderly lines, removing shoes before entering certain spaces, and refraining from eating while walking. None of these are arbitrary rules. They reflect deeper values about respect, cleanliness, and consideration for others. Hospitality staff who understand this can explain 習慣 with genuine warmth rather than just reciting a list of dos and don'ts.
+
+One phrase that works really well in these situations is 「日本では～という習慣があります」, which translates naturally as "In Japan, there is a custom of..." It's informative without being preachy, and it signals to the guest that you're inviting them into local culture, not scolding them. That said, it's good to remember why these customs exist, because the explanation lands much better when it comes with a little context. Understanding where a 習慣 comes from helps both you and your guest appreciate it more deeply.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Understanding 習慣 also helps tourism professionals appreciate why certain gue
 
 ## Related Expressions
 
-- **慣習 (kanshuu)** — established social convention or formal custom, slightly more institutional than 習慣; often used to describe customs that carry a sense of obligation or tradition, such as annual gift-giving (お歳暮) or formal greetings
-- **マナー (manaa)** — manners; while 習慣 describes what people habitually do in a culture, マナー refers to the polite behaviour expected in specific social situations — the two concepts overlap but are not identical
+- **慣習 (kanshuu)**: established social convention; carries a slightly more institutional weight than 習慣, often describing customs with a sense of obligation, like annual gift-giving cycles or formal greetings at the start of a business relationship.
+- **マナー (manaa)**: manners; while 習慣 describes what people habitually do as part of their culture, マナー refers to the polite behaviour expected in specific social situations. The two overlap but are not the same.
 
 ## Common Mistakes
 
-A frequent mistake is using 習慣 to mean personal habit in a clinical sense (such as a bad habit), when in hospitality contexts it almost always refers to culturally shared practices. The word 癖 (kuse) is more appropriate for individual quirks or negative habits. Learners also sometimes confuse 習慣 with 慣例 (kanrei, precedent or established practice in an organisation) — 習慣 is broader and societal, while 慣例 is typically institutional. When explaining a 習慣 to a guest, always frame it positively as an invitation to participate in local culture rather than a rule they must follow.
+One common mistake is using 習慣 to describe a personal quirk or bad habit. For that, 癖 (kuse) is the right word. In hospitality contexts, 習慣 almost always refers to culturally shared practices, not individual behaviour. Students also sometimes confuse 習慣 with 慣例 (kanrei, precedent or established practice within an organisation): 習慣 is societal and broad, while 慣例 is typically internal and institutional. One more thing: when you explain a 習慣 to a guest, always frame it as an invitation to participate, not a correction. That shift in tone makes all the difference.
 
 ---
 
@@ -41,4 +44,4 @@ A frequent mistake is using 習慣 to mean personal habit in a clinical sense (s
 
 **Answer:** 習慣
 
-**Explanation:** 習慣 (shuukan) means custom or habit — the habitual behaviours and social practices observed within a culture.
+**Explanation:** 習慣 (shuukan) means custom or habit: the habitual behaviours and social practices observed within a culture.

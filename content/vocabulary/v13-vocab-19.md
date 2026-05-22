@@ -4,9 +4,12 @@ section: 19
 title: 相談 (soudan)
 ---
 
-相談 means consultation — the act of discussing a problem, concern, or decision with another person in order to seek advice or reach a shared understanding. It forms the third pillar of ホウレンソウ (報告・連絡・相談), and its role is especially important in complex or ambiguous situations where a staff member is uncertain how to proceed. In hotel operations, 相談 might involve a front desk associate asking a senior colleague how to handle an unusual guest request, a concierge consulting management about a VIP's special arrangements, or a housekeeper checking with a supervisor before discarding an item left in a guest room. Encouraging a culture of 相談 is central to preventing costly errors and building team cohesion.
+**Pronunciation:** [so-u-**da**-n]
+**Register:** Formal/Neutral -- appropriate in both internal staff situations and guest-facing service
 
-Japanese workplace culture values the willingness to consult — staff who attempt to resolve all issues independently without consulting are sometimes seen as lacking humility or team awareness. The phrase ご相談があります (go-soudan ga arimasu — "I have something I would like to consult you about") is a professional and respectful way to approach a superior. Confidentiality is a key element: information shared during a 相談, particularly involving guest matters or staff personal issues, must be treated with discretion and respect.
+相談 means consultation: sitting down with someone to talk through a problem, a concern, or a decision when you are not sure how to proceed on your own. It is the third pillar of ホウレンソウ (報告・連絡・相談), and in many ways it is the most important one for newer staff. A front desk associate asking a senior colleague how to handle an unusual guest request, a concierge checking with management before arranging something special for a VIP, a housekeeper pausing to ask a supervisor whether to discard an item left in a guest room -- all of these are 相談 in action. The culture around 相談 actively encourages staff to consult rather than guess.
+
+Worth noting here is that in Japanese workplaces, the willingness to consult is seen as a sign of professionalism, not weakness. Staff who try to solve everything alone, without ever consulting, can come across as lacking humility or situational awareness. The phrase ご相談があります (go-soudan ga arimasu, "I have something I would like to consult you about") is a respectful, natural way to approach a superior. Confidentiality matters too: anything discussed during a 相談, whether a guest concern or a personal staff issue, must be handled with real discretion.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Japanese workplace culture values the willingness to consult — staff who attem
 
 ## Related Expressions
 
-- **ホウレンソウ (hourensou)** — the complete triad; 相談 completes the cycle by ensuring difficult decisions involve the right people before action is taken
-- **ご相談承ります (go-soudan uketamawarimasu)** — a formal phrase used by concierge and guest services staff to invite guests to bring any requests or concerns to them
+- **ホウレンソウ (hourensou)**: the full communication triad; 相談 completes the cycle by making sure that difficult or uncertain decisions are brought to the right people before anyone acts
+- **ご相談承ります (go-soudan uketamawarimasu)**: a formal phrase you will hear from concierge and guest services staff, warmly inviting guests to bring any request or concern forward
 
 ## Common Mistakes
 
-Learners sometimes confuse 相談 with 質問 (shitsumon — question). A 質問 seeks factual information, while 相談 involves a deeper discussion to resolve an uncertain situation or reach a decision together. Using 質問があります when you actually need advice or collaborative problem-solving will result in a less supportive response. Also, the honorific form ご相談 should always be used in guest-facing and superior-directed contexts — omitting the ご makes the phrase sound internal and casual.
+Students sometimes reach for 質問があります (shitsumon ga arimasu: "I have a question") when they actually need 相談. A 質問 asks for a specific fact, while 相談 opens a conversation to work through a problem together. Using 質問 when you need advice signals that you just want a quick answer, and your colleague or supervisor may respond accordingly with a short reply rather than genuine guidance. Also, the honorific prefix ご belongs in front of 相談 whenever you are speaking to a guest or a superior; dropping it makes the phrase sound like casual internal chatter, which is not the right register for either situation.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 相談 with 質問 (shitsumon — question). A 質問
 
 **Correct Answer:** 相談 (consultation)
 
-**Explanation:** 相談 (soudan) means consultation — seeking advice or discussing issues with a colleague or supervisor. 指導 = guidance, 報告 = report, 連絡 = contact.
+**Explanation:** 相談 (soudan) means consultation: seeking advice or discussing issues with a colleague or supervisor. 指導 = guidance, 報告 = report, 連絡 = contact.

@@ -24,12 +24,12 @@ In practice, 裏 appears in directional guidance such as 荷物のお受け取�
 
 ## Related Expressions
 
-- **正面 (shoumen)** — The front or main face of a building, the direct spatial counterpart to 裏. Where 正面 is the public, guest-facing side of a property, 裏 is the operational, staff-oriented side; maintaining this distinction in communication helps guests understand which spaces are intended for them.
-- **裏口 (uraguchi)** — Literally "back opening," the specific rear entrance of a building. While 裏 refers broadly to the back side, 裏口 specifies the door or gate itself; staff should use 裏口 when directing someone to use a specific rear entry point rather than just indicating the general back area.
+- **正面 (shoumen)**: The front or main face of a building, the direct spatial counterpart to 裏. Where 正面 is the public, guest-facing side of a property, 裏 is the operational, staff-oriented side; maintaining this distinction in communication helps guests understand which spaces are intended for them.
+- **裏口 (uraguchi)**: Literally "back opening," the specific rear entrance of a building. While 裏 refers broadly to the back side, 裏口 specifies the door or gate itself; staff should use 裏口 when directing someone to use a specific rear entry point rather than just indicating the general back area.
 
 ## Common Mistakes
 
-A common mistake is using 裏 without clarification, which can sound abrupt or even suggest that a guest is being sent somewhere off-limits. Staff should always accompany 裏 with a reason or a polite offer to escort (ご案内いたします). Learners sometimes also confuse 裏 with 奥 (oku, meaning deeper inside a space), but 裏 refers to the outside rear of a building while 奥 refers to the far interior; directing a guest to the 裏 of a restaurant when you mean the back corner table (奥のお席) would be a significant misdirection. Finally, avoid using 裏 casually about a guest area — it can imply an unflattering "hidden" or "unofficial" quality.
+A common mistake is using 裏 without clarification, which can sound abrupt or even suggest that a guest is being sent somewhere off-limits. Staff should always accompany 裏 with a reason or a polite offer to escort (ご案内いたします). Learners sometimes also confuse 裏 with 奥 (oku, meaning deeper inside a space), but 裏 refers to the outside rear of a building while 奥 refers to the far interior; directing a guest to the 裏 of a restaurant when you mean the back corner table (奥のお席) would be a significant misdirection. Finally, avoid using 裏 casually about a guest area: it can imply an unflattering "hidden" or "unofficial" quality.
 
 ---
 
@@ -44,5 +44,5 @@ A common mistake is using 裏 without clarification, which can sound abrupt or e
 
 **Correct Answer:** 裏です (it is at the back)
 
-**Explanation:** 裏 (back/rear) is contrasted with 正面 (front) — guests and delivery personnel both need to know this distinction; directing a guest to the 裏 may also require a safety or access note.
+**Explanation:** 裏 (back/rear) is contrasted with 正面 (front): guests and delivery personnel both need to know this distinction; directing a guest to the 裏 may also require a safety or access note.
 

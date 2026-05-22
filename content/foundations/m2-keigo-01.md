@@ -6,7 +6,7 @@ title: What is Keigo?
 
 **Keigo (敬語)** is the system of honorific speech that forms the backbone of formal Japanese communication. It is not merely a set of polite words. It is a structured grammar that encodes the social relationship between speaker and listener into every sentence.
 
-In a hospitality context, keigo tells the guest that they are valued, respected, and treated as a person of significance. Using incorrect or casual language — even unintentionally — can undermine an otherwise excellent service experience. Conversely, fluent, natural keigo creates an immediate atmosphere of care and professionalism.
+In a hospitality context, keigo tells the guest that they are valued, respected, and treated as a person of significance. Using incorrect or casual language, even unintentionally, can undermine an otherwise excellent service experience. Conversely, fluent, natural keigo creates an immediate atmosphere of care and professionalism.
 
 Keigo is divided into three main categories:
 
@@ -14,7 +14,7 @@ Keigo is divided into three main categories:
 - **Kenjōgo (謙譲語)**: Humble language. Used to lower the speaker's own actions, showing deference.
 - **Teineigo (丁寧語)**: Polite language. Everyday formal speech using です and ます forms.
 
-All three serve the same purpose: to make the guest feel honoured and at ease. Mastering the differences between them — and knowing when to use each — is a core hospitality skill.
+Students often ask: do I really need all three? In practice, yes. Teineigo gets you through most situations, but knowing when to reach for sonkeigo or kenjōgo, and doing it naturally, is what separates adequate service Japanese from genuinely polished hospitality speech.
 
 ---
 

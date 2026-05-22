@@ -4,9 +4,12 @@ section: 17
 title: 報告 (houkoku)
 ---
 
-報告 means report — the act of conveying information about completed tasks, ongoing situations, or incidents to a supervisor or relevant party. In Japanese workplace culture, 報告 is considered a fundamental professional responsibility, forming part of the widely taught triad 報告・連絡・相談 (houkoku, renraku, soudan), often abbreviated as ホウレンソウ (hourensou). This triad — report, communicate, consult — is the backbone of internal communication in Japanese organizations including hotels. Timely and accurate 報告 ensures that management can make informed decisions, respond to guest issues quickly, and maintain service quality. Failing to report promptly is considered a serious professional lapse.
+**Pronunciation:** [ho-u-**ko**-ku]
+**Register:** Formal -- used in internal professional communication, especially toward superiors
 
-In a hotel context, 報告 takes many forms: a front desk associate reporting a guest complaint to the duty manager, a housekeeper informing the floor supervisor that a room is ready, or a maintenance team submitting a written report on a repair. The phrasing is important — 報告いたします (houkoku itashimasu) is the humble, formal way to announce a report to a superior. Verbal reports are often followed by written documentation, especially for incidents that may require follow-up or insurance purposes.
+報告 means report: the act of telling a supervisor or relevant party what has happened, what was completed, or what you observed. In Japanese workplace culture, 報告 is treated as a fundamental professional duty, and you will hear it taught alongside two companion words as the triad 報告・連絡・相談 (houkoku, renraku, soudan), commonly shortened to ホウレンソウ (hourensou). Timely 報告 lets management react to guest issues quickly, adjust staffing, and maintain service quality. Failing to report promptly is considered a serious professional lapse, not just a minor oversight.
+
+In a hotel context, 報告 shows up constantly: a front desk associate reporting a guest complaint to the duty manager, a housekeeper letting the floor supervisor know that a room is ready, a maintenance team submitting a written account of a repair. The phrasing matters here. 報告いたします (houkoku itashimasu) is the humble, formal way to announce a report to a superior. In practice, verbal reports are almost always followed by written documentation, especially for incidents that may require follow-up or have insurance implications.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In a hotel context, 報告 takes many forms: a front desk associate reporting a 
 
 ## Related Expressions
 
-- **ホウレンソウ (hourensou)** — the acronym for 報告・連絡・相談, the three pillars of Japanese workplace communication; learning this triad is essential for any hospitality professional
-- **インシデントレポート (incident report)** — a written 報告 documenting a guest complaint, accident, or service failure, used for accountability and improvement
+- **ホウレンソウ (hourensou)**: the three-word triad 報告・連絡・相談 that underpins communication in any Japanese workplace; knowing this acronym immediately signals that you understand the professional culture
+- **インシデントレポート (incident report)**: a written 報告 documenting a guest complaint, accident, or service failure, kept on record for accountability and continuous improvement
 
 ## Common Mistakes
 
-Learners sometimes confuse 報告 with 連絡 (renraku — communication/notification). The key distinction is directionality and purpose: 報告 is always upward (to a supervisor) and concerns completed or observed events, while 連絡 is lateral communication to share information with colleagues. Using 報告 for a message sent to a peer, or 連絡 when speaking formally to a superior about an incident, will sound awkward to native speakers. Always pair 報告 with humble verb forms such as いたします when addressing superiors.
+Students sometimes mix up 報告 and 連絡 (renraku: communication/notification), and the confusion is understandable because both involve passing information. The key difference is direction and purpose: 報告 flows upward to a supervisor and concerns completed or observed events, while 連絡 moves laterally to share information with colleagues. Using 報告 for a message sent to a peer sounds odd, and using 連絡 when formally addressing a superior about an incident will feel too casual. One more thing to remember: always pair 報告 with humble verb forms such as いたします when speaking upward. Saying just 報告します is acceptable among colleagues, but not when addressing a manager.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 報告 with 連絡 (renraku — communication/notific
 
 **Correct Answer:** 報告 (report)
 
-**Explanation:** 報告 (houkoku) means report — sharing information on completed tasks or incidents. 連絡 = contact/communication, 会議 = meeting, 指導 = guidance.
+**Explanation:** 報告 (houkoku) means report: sharing information on completed tasks or incidents. 連絡 = contact/communication, 会議 = meeting, 指導 = guidance.

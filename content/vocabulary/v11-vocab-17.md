@@ -4,9 +4,12 @@ section: 17
 title: 切断 (setsudan)
 ---
 
-切断 means that a telephone call has been completely severed — the connection has ended abruptly and unintentionally. In Japanese hospitality, a call that drops mid-conversation is not simply a technical inconvenience; it is a service failure that must be addressed immediately. Staff are expected to recognize when a 切断 has occurred and to take proactive steps to reconnect with the guest rather than waiting for them to call back.
+**Pronunciation:** [se-tsu-**DAN**]
+**Register:** Formal, used in service recovery and maintenance communication
 
-The standard recovery procedure after a 切断 is to call the guest back as quickly as possible and open with an apology: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). This acknowledges the disruption before continuing with the conversation. Distinguishing 切断 from 接続不良 (poor connection that is intermittent) is also important — a complete 切断 requires a callback, while 接続不良 may be resolved by asking the guest to switch to another line.
+切断 means that a telephone call has been completely severed. The connection ended abruptly and unintentionally. In Japanese hospitality, a dropped call is not just a technical nuisance, it is a service failure, and the way you respond to it matters as much as the disruption itself. The rule is straightforward: when a 切断 occurs mid-conversation, the hotel calls back first. The guest should never have to be the one to re-dial.
+
+The standard recovery script opens with an apology before anything else: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). That acknowledgment comes first, before continuing with whatever the call was about. Students often want to jump straight back to the topic and skip the apology, but the guest experienced an interruption, and recognizing that matters. That said, you should also learn to distinguish 切断 from 接続不良 (intermittent poor quality). A complete 切断 demands a callback. 接続不良 might be managed by asking the guest to try a different line, which is a less disruptive fix.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The standard recovery procedure after a 切断 is to call the guest back as quic
 
 ## Related Expressions
 
-- **接続不良 (setsuzoku furyou)** — Poor or unstable connection, where the call does not end completely but is interrupted by static, delays, or breaking audio. Unlike 切断, 接続不良 is intermittent and may improve without a full reconnection.
-- **通話中 (tsuuwachuu)** — The state of being on a call. A 切断 ends the 通話中 state abruptly, which is precisely why it requires immediate corrective action on the staff's part.
+- **接続不良 (setsuzoku furyou)**: poor or unstable connection, where the call does not end completely but the audio is interrupted, choppy, or delayed; unlike 切断, 接続不良 is intermittent and may improve without a full reconnection.
+- **通話中 (tsuuwachuu)**: the state of being on an active call; a 切断 ends the 通話中 state without warning, which is why it requires immediate corrective action on the hotel's part.
 
 ## Common Mistakes
 
-A common mistake is waiting for the guest to call back after a 切断, rather than proactively re-dialing. In Japanese hospitality, the responsibility to restore the connection lies with the hotel, not the guest. Another error is using 切断 and 接続不良 interchangeably — they describe different problems, and specifying which occurred helps maintenance teams diagnose the cause more efficiently. Learners should also avoid using the casual form 電話が切れた with guests; 切断されました is the appropriate polite form.
+The biggest mistake is waiting for the guest to call back rather than proactively re-dialing. In Japanese hospitality, the responsibility to restore the connection belongs to the hotel, full stop. Another error is mixing up 切断 and 接続不良 when reporting to maintenance: they describe different problems, and using the right term helps the technical team diagnose the cause much faster. One more thing: with guests, avoid the casual phrase 電話が切れた. The appropriate polite form is 切断されました, and that distinction in register reflects the professionalism guests expect.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is waiting for the guest to call back after a 切断, rather th
 
 **Correct Answer:** 切断 (disconnection)
 
-**Explanation:** 切断 requires proactive recovery — if a call is 切断 mid-conversation, call the guest back immediately; beginning with 先ほどは途中で切れてしまい、申し訳ございませんでした (I apologize for the disconnection earlier) acknowledges the issue before continuing.
+**Explanation:** 切断 requires proactive recovery: if a call is 切断 mid-conversation, call the guest back immediately; beginning with 先ほどは途中で切れてしまい、申し訳ございませんでした (I apologize for the disconnection earlier) acknowledges the issue before continuing.

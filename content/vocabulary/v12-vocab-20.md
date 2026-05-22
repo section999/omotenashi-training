@@ -4,9 +4,12 @@ section: 20
 title: 非常ベル (hijou beru)
 ---
 
-非常ベル (hijou beru) refers to an emergency bell or alarm — the audible signalling device installed throughout a hotel to alert occupants to a developing emergency, most commonly fire. The word 非常 (hijou) means "emergency" or "extraordinary situation," while ベル (beru) is the loanword for bell. When a 非常ベル sounds, it is an immediate signal for all occupants to begin evacuation or follow emergency procedures without delay. In Japanese hotels, fire alarms are interconnected throughout the building and are monitored both locally and by the regional fire department, meaning activation automatically triggers an emergency response.
+**Pronunciation:** [hi-**jou** **be**-ru]
+**Register:** Formal/Neutral, emergency response and fire safety
 
-Staff training emphasises that no 非常ベル activation should ever be ignored or assumed to be a false alarm until it has been confirmed otherwise. The standard response protocol involves: immediately notifying the duty manager, activating the public address system with evacuation instructions, deploying staff to assigned evacuation posts, and confirming that all guests — including those who may be sleeping, have hearing impairments, or are in the bath — have been alerted. Hotels must also maintain a log of every 非常ベル activation, whether genuine or a false alarm, and report repeated false activations to the fire authorities for inspection. Guests should be shown the location of manual call points (手動式発信機) on check-in, so they know how to trigger the 非常ベル if they discover an emergency before a sensor activates it.
+非常ベル is the emergency bell or alarm, the audible signalling device installed throughout a hotel to alert everyone inside to a developing emergency, most commonly fire. The word 非常 (hijou) means "emergency" or "extraordinary situation," and ベル (beru) is the loanword for bell. When the 非常ベル sounds, that is your signal to start evacuation procedures immediately, not to pause and wonder whether it might be a drill or a false alarm. In Japanese hotels, fire alarms are interconnected throughout the building and monitored both locally and by the regional fire department, so activation automatically triggers an emergency response chain.
+
+Staff training on the 非常ベル comes back to one core principle: treat every activation as real until confirmed otherwise. The standard response involves notifying the duty manager, activating the public address system with evacuation instructions, deploying staff to assigned evacuation posts, and accounting for every guest, including those who may be asleep, have hearing impairments, or are in the bath and may not have heard the alarm. In practice, it also means logging every activation, whether genuine or a false alarm, and reporting repeated false activations to the fire authorities for inspection. One more thing that tends to get overlooked: guests should be shown the locations of manual call points (手動式発信機) at check-in, so they know how to trigger the 非常ベル themselves if they discover an emergency before a smoke sensor does.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff training emphasises that no 非常ベル activation should ever be ignored
 
 ## Related Expressions
 
-- **火災報知器 (kasai houchiki)** — fire alarm detector; the automatic sensor that detects smoke or heat and triggers the 非常ベル system, distinguishing automatic activation from manual bell pulls.
-- **避難訓練 (hinan kunren)** — evacuation drill; the regular rehearsal through which staff and sometimes guests practise responding correctly to the 非常ベル, ensuring efficient and orderly egress.
+- **火災報知器 (kasai houchiki)**: fire alarm detector; the automatic sensor that picks up smoke or heat and triggers the 非常ベル system. It is distinct from a manual bell pull, and understanding whether activation was automatic or manual helps staff assess the situation faster.
+- **避難訓練 (hinan kunren)**: evacuation drill; the regular rehearsal through which staff, and sometimes guests, practise responding correctly to the 非常ベル to ensure efficient and orderly egress when it matters most.
 
 ## Common Mistakes
 
-Learners sometimes use 警報 (keihou) and 非常ベル interchangeably, but 警報 is a broader term for any alarm or warning signal (including weather alerts), whereas 非常ベル specifically refers to the building emergency alarm. Another error is failing to communicate the 非常ベル response to international guests during check-in — this is a safety obligation, not optional. Staff should also avoid the mistake of silencing the 非常ベル before confirming it is a false alarm; the alarm must remain active until the source of activation is investigated and cleared by the duty manager or fire safety officer.
+Students sometimes use 警報 (keihou) and 非常ベル interchangeably, but 警報 is a broad term for any warning signal, including weather alerts, while 非常ベル refers specifically to the building emergency alarm. They are different tools for different purposes. Another common mistake is failing to brief international guests about the 非常ベル response during check-in. This is a safety obligation, not an optional nicety. That said, the most serious operational error is silencing the 非常ベル before confirming it is a false alarm. The alarm must stay active until the duty manager or fire safety officer has investigated the source of activation and formally cleared it. Silencing it early, even with good intentions, removes the warning signal before anyone knows the building is safe.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 警報 (keihou) and 非常ベル interchangeably, but 警
 
 **Correct Answer:** 非常ベル (emergency bell)
 
-**Explanation:** 非常ベル (hijou beru) means emergency bell — the alarm device that signals danger and prompts evacuation. 消火器 = fire extinguisher, 警察 = police, 医者 = doctor.
+**Explanation:** 非常ベル (hijou beru) means emergency bell: the alarm device that signals danger and prompts evacuation. 消火器 = fire extinguisher, 警察 = police, 医者 = doctor.

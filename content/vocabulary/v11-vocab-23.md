@@ -4,9 +4,12 @@ section: 23
 title: ご連絡 (go-renraku)
 ---
 
-ご連絡 refers to any act of communication or contact — a phone call, email, written notice, or message — especially in professional or formal contexts. In Japanese hospitality, maintaining timely and clear ご連絡 is a core service responsibility. Whether informing a guest of a change to their reservation, updating a colleague about a guest's request, or following up after a problem has been resolved, prompt ご連絡 demonstrates reliability and respect for the guest's time.
+**Pronunciation:** [go-**REN**-raku]
+**Register:** Formal, used in telephone, email, and all professional communication contexts
 
-Staff encounter ご連絡 in a range of standard hospitality phrases: ご連絡をお待ちしております (we look forward to hearing from you), ご連絡いただきありがとうございます (thank you for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These expressions are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. The consistent use of ご連絡 also signals to guests that the hotel values ongoing communication and welcomes future contact.
+ご連絡 refers to any act of communication or contact: a phone call, email, written notice, or message, especially in professional or formal settings. In Japanese hospitality, timely and clear ご連絡 is a core service responsibility. Whether informing a guest of a reservation change, updating a colleague about a special request, or following up after a problem has been resolved, prompt ご連絡 shows that the hotel is reliable and that it respects the guest's time. Delayed ご連絡 is one of those small failures that guests remember long after the details of their stay have faded.
+
+Staff encounter ご連絡 across a wide range of standard phrases: ご連絡をお待ちしております (we look forward to hearing from you), ご連絡いただきありがとうございます (thank you for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. In practice, using ご連絡 consistently also signals to guests that the hotel welcomes ongoing communication and is genuinely available, not just saying so as a formality.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff encounter ご連絡 in a range of standard hospitality phrases: ご連絡�
 
 ## Related Expressions
 
-- **お問い合わせ (otoiawase)** — An inquiry or question from a guest. ご連絡 is the broader term for any form of contact or communication, while お問い合わせ specifically refers to a guest reaching out with a question or request. A guest may make ご連絡 in the form of an お問い合わせ, or simply to confirm details already discussed.
-- **折り返し (orikaeshi)** — A return call or response. 折り返しご連絡いたします (we will contact you in return) is one of the most common hospitality phrases and combines both concepts: ご連絡 is the act of communication, and 折り返し specifies that it is in response to a prior contact.
+- **お問い合わせ (otoiawase)**: an inquiry or question from a guest; ご連絡 is the broader term for any form of contact, while お問い合わせ specifically describes a guest reaching out with a question or request.
+- **折り返し (orikaeshi)**: a return call or response; 折り返しご連絡いたします is one of the most common phrases in hospitality and combines both concepts neatly, with ご連絡 as the act and 折り返し specifying that it is a response to prior contact.
 
 ## Common Mistakes
 
-A frequent mistake is using 連絡します (without ご) when speaking with guests, which sounds too casual for a formal service environment. Another error is closing a call with ありがとうございました without adding ご連絡をお待ちしております or またいつでもご連絡ください — the closing invitation to future contact is an important element of warm, omotenashi-oriented service. Learners should also be careful not to confuse ご連絡 with 伝言 (dengon, a message left for someone); ご連絡 is the act of communicating, while 伝言 is the content of a message relayed by a third party.
+Using 連絡します without ご when speaking with guests is a common slip. It sounds too casual for a formal service environment, so make ご連絡 the default when you are guest-facing. Students also sometimes close a call with ありがとうございました and nothing more, but the closing invitation, ご連絡をお待ちしております or またいつでもご連絡ください, is an important part of the warm finish that omotenashi calls for. That said, be careful not to confuse ご連絡 with 伝言: ご連絡 is the act of communicating directly, while 伝言 is a message relayed through a third party. The distinction is worth remembering because mixing them up can lead to a guest expecting a direct call when what actually happened was a note left at the front desk.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent mistake is using 連絡します (without ご) when speaking with gue
 
 **Correct Answer:** ご連絡 (contact / notification (polite))
 
-**Explanation:** ご連絡をお待ちしております is a warm closing — it invites the guest to reach out again and signals that the hotel welcomes further contact; pairing it with またいつでもご連絡ください (please feel free to contact us anytime) reinforces openness and hospitality.
+**Explanation:** ご連絡をお待ちしております is a warm closing: it invites the guest to reach out again and shows the hotel welcomes further contact; pairing it with またいつでもご連絡ください (please feel free to contact us anytime) reinforces openness and hospitality.

@@ -4,9 +4,12 @@ section: 29
 title: マナー (manaa)
 ---
 
-マナー is a loanword from the English "manners," referring to the socially accepted standards of behaviour that people are expected to observe in various settings. In Japan, マナー carries particular importance because the harmony and comfort of shared public spaces — trains, temples, hotels, restaurants — depend on everyone following established norms of consideration for others. Unlike rules (ルール, ruuru) which are formally enforced, マナー are social expectations maintained through awareness and mutual respect. Hospitality and tourism staff frequently encounter situations where guests are unaware of local マナー, and navigating these moments with grace is a key professional skill.
+**Pronunciation:** [ma-**naa**]
+**Register:** Neutral to polite, used widely in public signage, service speech, and everyday conversation
 
-In hotel and tourism contexts, マナー covers a wide range of behaviours: keeping voices low in lobby areas, not using mobile phones in certain settings, following onsen bathing protocols, respecting no-photography zones at cultural sites, and dressing appropriately when visiting temples and shrines. Staff training emphasises that when informing guests about マナー, the communication should be gentle, informative, and respectful — never condescending. Common signage phrases such as 「静かにお願いします」 (please be quiet) and 「飲食はご遠慮ください」 (please refrain from eating and drinking) communicate マナー expectations without singling out individuals. Mastering these phrases helps tourism staff manage guest behaviour effectively while preserving the positive atmosphere.
+マナー is borrowed from the English "manners" and refers to the socially accepted standards of behaviour that keep shared spaces pleasant for everyone. In Japan, マナー matters a lot, because so much of daily life takes place in close proximity to others: packed trains, quiet temple grounds, bustling hotel lobbies. Unlike formal rules (ルール), which are enforced with consequences, マナー rely on awareness and mutual respect. When everyone observes them, the result is a calm, harmonious atmosphere that visitors often describe as one of the most striking things about Japan.
+
+In practice, hospitality staff need to handle マナー situations with a light touch. Guests sometimes arrive unaware of local expectations, and how you address that is where your professional skill shows. The goal is never to embarrass someone, it is to help them understand. Signage phrases like 「静かにお願いします」 and 「飲食はご遠慮ください」 communicate expectations gently and impersonally. When direct conversation is needed, the indirect Japanese approach works best: something like 「こちらではご遠慮いただいております」 (We kindly ask guests to refrain from that here) is far more effective than pointing out a マナー violation directly.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hotel and tourism contexts, マナー covers a wide range of behaviours: keep
 
 ## Related Expressions
 
-- **エチケット (echiketto)** — etiquette; a near-synonym for マナー but with a slightly more formal or European connotation; often used in dining contexts or when referring to international social protocols that overlap with Japanese expectations
-- **ルール (ruuru)** — rule; unlike マナー which relies on social awareness and voluntary compliance, ルール refers to formally stated regulations that may carry consequences if broken, such as no-smoking zones or prohibited photography areas
+- **エチケット (echiketto)**: etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. You hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings.
+- **ルール (ruuru)**: rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone.
 
 ## Common Mistakes
 
-Learners sometimes treat マナー as strictly synonymous with 礼儀 (reigi, etiquette/courtesy), but マナー has a broader, more modern and public connotation while 礼儀 relates more specifically to respectful personal conduct in interpersonal relationships. Another error is being too direct when correcting guest behaviour — saying 「マナー違反です」 (That is a manner violation) sounds accusatory and should be replaced with a gentler phrase such as 「こちらではご遠慮いただいております」 (We kindly ask guests to refrain from that here). The indirect approach is far more consistent with Japanese hospitality values and will be better received by guests.
+Students often treat マナー as identical to 礼儀 (reigi, courtesy), but 礼儀 is more about respectful conduct within personal relationships, while マナー has a broader, more public connotation covering everyday shared spaces. The two overlap but are not interchangeable. Worth noting on correction technique: saying 「マナー違反です」 directly to a guest sounds blunt and accusatory. Swap it for 「こちらではご遠慮いただいております」, which achieves the same goal while keeping the interaction warm and face-saving for everyone involved.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes treat マナー as strictly synonymous with 礼儀 (reigi, et
 
 **Correct Answer:** マナー (manners)
 
-**Explanation:** マナー (manaa) means manners — the expected polite behaviour in social situations. 注意事項 = precautions, 習慣 = customs, 文化 = culture.
+**Explanation:** マナー (manaa) means manners: the expected polite behaviour in social situations. 注意事項 = precautions, 習慣 = customs, 文化 = culture.

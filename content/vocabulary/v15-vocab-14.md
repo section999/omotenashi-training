@@ -4,9 +4,12 @@ section: 14
 title: 保管 (hokan)
 ---
 
-保管 (hokan) means the careful, responsible storage of items for a defined period. The word is built from 保 (ho, meaning to protect or maintain) and 管 (kan, meaning to oversee or administer), together conveying not just the physical act of storing but the ongoing duty of stewardship over someone else's possessions. In Japanese hospitality culture, 保管 is taken seriously: a hotel that accepts an item for storage implicitly promises to return it in exactly the condition it was received. This reflects the broader omotenashi value of treating a guest's belongings as if they were one's own.
+**Pronunciation:** [**ho**-kan]
+**Register:** Formal to neutral, standard in hotel service speech and written notices
 
-Hotels offer 保管 services in several common scenarios: early-arriving guests who check in before their room is ready may leave their luggage for 保管 at the front desk; guests who have checked out but wish to continue sightseeing may request 保管 until their departure; and valuable or fragile items such as musical instruments, art, or medical equipment may require special 保管 arrangements. Staff should always issue a receipt or claim ticket (引換券) when accepting items for 保管, and should record the storage start time and the guest's contact details. When returning stored items, a brief inspection in front of the guest confirms that nothing was damaged during storage — a small but meaningful gesture of transparency.
+保管 means the careful, responsible storage of items for a defined period. It is built from 保 (ho, to protect or maintain) and 管 (kan, to oversee or administer), and together they convey something more than just "putting things in a room." 保管 implies active stewardship: accepting an item means taking on the duty to return it in exactly the condition you received it. In Japanese hospitality culture, that responsibility is taken seriously, and it connects directly to the omotenashi value of treating a guest's belongings as if they were your own.
+
+Hotels offer 保管 in several common situations. Early-arriving guests whose room is not yet ready often leave their luggage at the front desk. Guests who have checked out but are not leaving until later in the day may also need their bags held for a few hours. And occasionally you will handle more unusual requests: a musical instrument, fragile artwork, or medical equipment that needs special handling. In all cases, issuing a receipt or claim ticket (引換券) is standard practice. When you return an item, doing a brief inspection in the guest's presence before handing it over is a small but meaningful gesture of transparency that reinforces trust.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotels offer 保管 services in several common scenarios: early-arriving guests 
 
 ## Related Expressions
 
-- **お預かり (o-azukari)** — the act of accepting an item into one's care; more transactional and guest-facing than 保管, often used as the verb form (お預かりします)
-- **一時保管 (ichiji hokan)** — temporary storage, emphasising that the storage is for a limited, specified period rather than long-term
+- **お預かり (o-azukari)**: the act of accepting an item into your care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします).
+- **一時保管 (ichiji hokan)**: temporary storage, specifying that the storage is for a limited, defined period rather than indefinitely. Useful when you want to be clear about the timeframe.
 
 ## Common Mistakes
 
-Learners sometimes use 保存 (hozon, meaning preservation or saving data/food) instead of 保管 when talking about storing physical items in a hotel context. 保存 is appropriate for digital files or preserving food, not for storing luggage or valuables. Another common mistake is forgetting the polite verb form when speaking to guests — 「保管します」 is acceptable internally, but 「保管させていただきます」 or 「お預かりいたします」 is more appropriate in direct guest communication.
+Students sometimes reach for 保存 (hozon) when they mean 保管. 保存 is the right word for preserving food or saving a digital file, not for storing luggage or valuables in a hotel. Using it in a guest context sounds wrong and can create confusion. In terms of speech level, 「保管します」 is fine internally but too plain for direct guest communication. The polite forms 「保管させていただきます」 or 「お預かりいたします」 are the ones you want in front of guests. One more thing: always record the storage start time and the guest's contact details when accepting items for 保管. It protects both sides if any question arises later.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes use 保存 (hozon, meaning preservation or saving data/food) 
 
 **Answer:** 保管
 
-**Explanation:** 保管 (hokan) means storage — safely keeping items such as luggage or valuables for a defined period.
+**Explanation:** 保管 (hokan) means storage: safely keeping items such as luggage or valuables for a defined period.

@@ -4,14 +4,14 @@ section: 23
 title: 承知いたしました (shouchi itashimashita)
 ---
 
-**承知いたしました** means "I understand" or "certainly, understood" — but at a significantly more elevated register than the everyday *wakarimashita*. *Shōchi* (承知) means comprehension or acknowledgement — the character 承 (shō) carries the sense of "receiving" or "inheriting," and 知 (chi) means knowledge. Together: "I have received and understood." *Itashimashita* is the past humble form, indicating that the understanding is already complete at the moment of speaking.
+**承知いたしました** means "I understand" or "certainly, understood", but at a noticeably more elevated register than the everyday *wakarimashita*. *Shōchi* (承知) means comprehension or acknowledgement. The character 承 (shō) carries the sense of "receiving" or "inheriting," and 知 (chi) means knowledge. Together they give you something like: "I have received and understood." *Itashimashita* is the past humble form, indicating that the understanding is already complete at the moment of speaking.
 
 In the register hierarchy of acknowledgement phrases:
-- **承知いたしました** — formal, respectful; appropriate in most professional settings
-- **かしこまりました** — the most formal; used in premium luxury hospitality
-- **わかりました** — neutral; appropriate between colleagues but too casual for guest interactions
+- **承知いたしました**, formal, respectful; appropriate in most professional settings
+- **かしこまりました**, the most formal; used in premium luxury hospitality
+- **わかりました**, neutral; appropriate between colleagues but too casual for guest interactions
 
-*Shōchi itashimashita* is particularly natural in telephone and written contexts, where *kashikomarimashita* can occasionally feel overly theatrical. When a guest calls to request a late checkout, a dietary change, or an additional amenity, *shōchi itashimashita, tadaima taiō itashimasu* ("certainly, I will take care of that right now") is precise and professional.
+In practice, *shōchi itashimashita* fits telephone and written contexts particularly well. *Kashikomarimashita* can occasionally feel overly theatrical in those settings. When a guest calls to request a late checkout, a dietary change, or an additional amenity, *shōchi itashimashita, tadaima taiō itashimasu* ("certainly, I will take care of that right now") is precise and professional.
 
 ## Example Sentences
 
@@ -29,13 +29,13 @@ In the register hierarchy of acknowledgement phrases:
 
 ## Related Expressions
 
-- **かしこまりました (kashikomarimashita)** — More formal; the highest register acknowledgement in Japanese service language
-- **わかりました (wakarimashita)** — "I understand" — neutral/casual; not appropriate for guest-facing formal contexts
-- **了解いたしました (ryōkai itashimashita)** — "Understood" — used in business and military contexts; considered slightly less service-oriented than *shōchi itashimashita* for hospitality
+- **かしこまりました (kashikomarimashita)**: More formal; the highest register acknowledgement in Japanese service language
+- **わかりました (wakarimashita)**: "I understand": neutral/casual; not appropriate for guest-facing formal contexts
+- **了解いたしました (ryōkai itashimashita)**: "Understood": used in business and military contexts; considered slightly less service-oriented than *shōchi itashimashita* for hospitality
 
 ## Common Mistakes
 
-A common mistake is using *ryōkai itashimashita* in a guest-facing context. While grammatically correct, *ryōkai* carries associations with business or operational communication rather than guest service — *shōchi itashimashita* sounds warmer and more appropriate. Another mistake is using *wakarimashita* in situations that call for more formal language — always assess the guest and the setting to determine the appropriate level.
+Students often reach for *ryōkai itashimashita* in guest-facing situations. It is grammatically fine, but *ryōkai* carries associations with business or operational communication rather than guest service. *Shōchi itashimashita* sounds warmer and fits the hospitality context better. The other frequent error is falling back on *wakarimashita* in moments that call for more formal language. Always read the guest and the setting before choosing your register.
 
 ---
 
@@ -43,11 +43,11 @@ A common mistake is using *ryōkai itashimashita* in a guest-facing context. Whi
 
 **A guest calls the front desk to request extra towels. You note the request. What do you say?**
 
-- A. わかりました。(I understand — too casual)
-- B. オーケーです。(Okay — completely inappropriate)
+- A. わかりました。(I understand: too casual)
+- B. オーケーです。(Okay: completely inappropriate)
 - C. 承知いたしました。すぐにお届けいたします。(Certainly, understood. I will bring them right away.)
-- D. 了解です。(Roger / Understood — too operational in tone)
+- D. 了解です。(Roger / Understood: too operational in tone)
 
 **Correct Answer:** 承知いたしました。すぐにお届けいたします。(Certainly, understood. I will bring them right away.)
 
-**Explanation:** *Shōchi itashimashita* is the appropriate register for telephone guest requests. Pairing it with an immediate action phrase (*sugu ni o-todoke itashimasu*) completes the response — it shows that understanding has been received and action is already beginning.
+**Explanation:** *Shōchi itashimashita* is the appropriate register for telephone guest requests. Pairing it with an immediate action phrase (*sugu ni o-todoke itashimasu*) completes the response: it shows that understanding has been received and action is already beginning.

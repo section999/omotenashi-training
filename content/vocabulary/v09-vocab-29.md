@@ -4,9 +4,12 @@ section: 29
 title: 短縮 (tanshuku)
 ---
 
-短縮 (tanshuku) means "shortening" or "reduction," and in hotel operations it specifically refers to the act of reducing the number of nights in an existing reservation. When a guest's plans change and they need to depart earlier than originally booked, staff describe this as 滞在の短縮 (taizai no tanshuku). Unlike a full cancellation, a 短縮 retains part of the original reservation while removing the final night or nights. This distinction matters for billing — cancellation policies often treat removed nights differently depending on whether the guest is shortening or cancelling entirely. Japanese hotels take care to explain these distinctions clearly, as transparency about fees is an important component of trust in hospitality.
+**Pronunciation:** [tan-**shu**-ku]
+**Register:** Formal/Neutral, reservation changes and front desk communication
 
-The practical handling of a 短縮 request begins with pulling up the reservation and reviewing the cancellation and modification conditions of the booking plan (プランの条件). Some advance-purchase or discounted plans charge the full rate for unused nights, while flexible plans may allow fee-free adjustment. After reviewing, staff should communicate any applicable fees clearly before processing the change: 短縮に伴いまして、〇月〇日分のキャンセル料が発生いたします (shortening your stay will incur a cancellation charge for [date]). The guest should explicitly confirm they understand and accept the fee before the change is made. Housekeeping and the billing system must also be updated simultaneously.
+短縮 (tanshuku) means "shortening" or "reduction," and in a hotel context it specifically refers to reducing the number of nights in an existing reservation. When a guest's plans change and they need to leave earlier than originally booked, that is 滞在の短縮 (taizai no tanshuku). Unlike a full cancellation, a 短縮 keeps the remaining reservation intact while removing only the final night or nights. That distinction matters practically because cancellation policies often treat removed nights differently depending on whether the guest is shortening or cancelling entirely. Japanese hotels take care to communicate these distinctions clearly, since transparency about fees is part of what builds trust with guests.
+
+Handling a 短縮 request properly starts with pulling up the reservation and reviewing the plan's conditions (プランの条件) before saying anything about cost. Some advance-purchase or discounted plans charge the full rate for unused nights; flexible plans may allow a no-cost adjustment. After reviewing, communicate any applicable fee clearly before processing: 短縮に伴いまして、〇月〇日分のキャンセル料が発生いたします. Get the guest's explicit agreement before touching the system. Housekeeping and billing both need to be updated at the same time.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The practical handling of a 短縮 request begins with pulling up the reservatio
 
 ## Related Expressions
 
-- **延長 (enchou)** — the direct opposite of 短縮; extending a stay rather than shortening it; staff should be equally prepared for both types of duration changes.
-- **キャンセル料 (kyanseru ryou)** — cancellation charge; the fee that often becomes relevant when a 短縮 request removes a night that falls within the cancellation policy's penalty window.
+- **延長 (enchou)**: the direct opposite of 短縮, extending a stay rather than cutting it short. Staff should be equally ready for both types of duration changes, since they require similar plan-condition checks before any system action.
+- **キャンセル料 (kyanseru ryou)**: the cancellation charge that often becomes relevant when a 短縮 request removes a night that falls within the policy's penalty window. Always check before quoting "no charge."
 
 ## Common Mistakes
 
-Learners sometimes confuse 短縮 with full キャンセル (cancellation), but they are distinct: 短縮 means only the removed nights are in question, while the remaining reservation stays intact. Processing a full cancellation when a guest only wanted 短縮 is a serious error that would eliminate their entire booking. Another pitfall is failing to check the plan's cancellation conditions before telling the guest "no problem" — certain discounted plans have strict no-modification clauses, and approving a 短縮 without reading the terms can result in billing disputes. Always verify the plan, quote any fees, and get the guest's explicit agreement before making changes in the system.
+Students sometimes confuse 短縮 with a full キャンセル (cancellation), but they are different things. With 短縮, only the removed nights are in question; the rest of the reservation stays intact. Processing a full cancellation when a guest only wanted to shorten their stay would wipe out their entire booking, which is a serious error. Another pitfall is telling a guest "no problem" before actually checking the plan's modification terms. Some discounted plans have strict no-change clauses, and approving a 短縮 without reading the conditions can lead to billing disputes that could have been avoided. In practice, the sequence is always the same: check the plan, quote any fees, get confirmation from the guest, then make the change.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 短縮 with full キャンセル (cancellation), but 
 
 **Correct Answer:** 短縮 (shortening / abbreviation)
 
-**Explanation:** 短縮 may trigger a cancellation fee for the removed night — always check the plan's conditions before confirming 短縮; some plans charge for unused nights while others allow adjustment; informing the guest before processing is essential.
+**Explanation:** 短縮 may trigger a cancellation fee for the removed night: always check the plan's conditions before confirming 短縮; some plans charge for unused nights while others allow adjustment; informing the guest before processing is essential.

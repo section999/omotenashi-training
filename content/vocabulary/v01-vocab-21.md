@@ -4,11 +4,11 @@ section: 21
 title: ご理解ください (go-rikai kudasai)
 ---
 
-**ご理解ください** means "please understand" — it is used when asking a guest to accept a situation, rule, limitation, or constraint that cannot be changed. *Rikai* (理解) means understanding or comprehension, elevated by the honorific *go-* prefix. The phrase is a way of acknowledging that a situation may be inconvenient and asking for the guest's patience and acceptance.
+**ご理解ください** means "please understand." It is used when asking a guest to accept a situation, rule, limitation, or constraint that cannot be changed. *Rikai* (理解) means understanding or comprehension, elevated by the honorific *go-* prefix. In practice, the phrase acknowledges that a situation may be inconvenient while asking for the guest's patience and acceptance.
 
-The phrase requires careful handling. In isolation, *go-rikai kudasai* can feel slightly imposing — as if you are requiring the guest to comply. In professional hospitality, it is nearly always softened: *taihen moushiwake gozaimasen ga, go-rikai itadakemasu deshō ka* ("I am very sorry, but could we ask for your understanding?"). This construction transforms the bare directive into a humble, apologetic request.
+Worth noting: in isolation, *go-rikai kudasai* can feel slightly imposing, as if you are requiring the guest to comply. In professional hospitality, it is nearly always softened: *taihen moushiwake gozaimasen ga, go-rikai itadakemasu deshō ka* ("I am very sorry, but could we ask for your understanding?"). This construction transforms the bare directive into a humble, apologetic request.
 
-Context matters: the phrase is appropriate when a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or a situation is beyond the property's control (weather, external events). It is not appropriate for situations where the property itself made an error — in those cases, *moushiwake gozaimasen* followed by immediate resolution is the right approach.
+Context matters here. The phrase fits situations where a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or circumstances are beyond the property's control, such as weather or external events. That said, it is not the right choice when the property itself made an error. In those cases, full apology and immediate resolution are required.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ Context matters: the phrase is appropriate when a facility is temporarily unavai
 
 ## Related Expressions
 
-- **ご了承ください (go-ryōshō kudasai)** — "Please note / please accept" — slightly more formal, often used in written notices
-- **ご容赦ください (go-yōsha kudasai)** — "Please forgive us / please excuse us" — emphasises asking for forgiveness rather than understanding
-- **あいにく〜となっております (ainiku ~ to natte orimasu)** — "Unfortunately, ~ is the case" — a gentler way to introduce an unavailability
+- **ご了承ください (go-ryōshō kudasai)**: "Please note / please accept": slightly more formal, often used in written notices
+- **ご容赦ください (go-yōsha kudasai)**: "Please forgive us / please excuse us": places emphasis on asking for forgiveness rather than understanding
+- **あいにく〜となっております (ainiku ~ to natte orimasu)**: "Unfortunately, ~ is the case": a gentler way to introduce an unavailability
 
 ## Common Mistakes
 
-Using *go-rikai kudasai* without an apologetic lead-in is the most common mistake — it can sound like a command. Always pair it with *moushiwake gozaimasen* or a similar expression of regret. A second mistake is using this phrase when the property itself is at fault — in those cases, full apology and immediate resolution are required, not a request for the guest's understanding.
+Using *go-rikai kudasai* without an apologetic lead-in is the most common mistake: it can sound like a command. Always pair it with *moushiwake gozaimasen* or a similar expression of regret. Students often reach for this phrase reflexively in difficult moments, but when the property itself is at fault, a request for understanding is the wrong move entirely. Full apology and immediate resolution come first.
 
 ---
 
@@ -40,10 +40,10 @@ Using *go-rikai kudasai* without an apologetic lead-in is the most common mistak
 
 **The hotel's hot spring bath is under maintenance and unavailable for the evening. A guest asks if they can use it. What is the best response?**
 
-- A. ご利用いただけません。(You cannot use it — blunt refusal)
-- B. ご理解ください。(Please understand — too bare and assertive)
+- A. ご利用いただけません。(You cannot use it: blunt refusal)
+- B. ご理解ください。(Please understand: too bare and assertive)
 - C. 誠に申し訳ございません。本日は温泉のメンテナンスのため、ご利用いただけない状況でございます。ご理解のほど、よろしくお願いいたします。(I am very sorry. The hot spring is currently undergoing maintenance and is unavailable this evening. We ask for your kind understanding.)
-- D. 知りません。(I don't know — completely inappropriate)
+- D. 知りません。(I don't know: completely inappropriate)
 
 **Correct Answer:** 誠に申し訳ございません。本日は温泉のメンテナンスのため、ご利用いただけない状況でございます。ご理解のほど、よろしくお願いいたします。(I am very sorry. The hot spring is currently undergoing maintenance and is unavailable this evening. We ask for your kind understanding.)
 

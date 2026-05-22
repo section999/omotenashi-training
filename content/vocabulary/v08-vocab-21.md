@@ -4,9 +4,12 @@ section: 21
 title: 近くに (chikaku ni)
 ---
 
-近くに (近くに) means "nearby" or "in the vicinity of" and is one of the most frequently used proximity expressions in Japanese hospitality. Unlike 隣 (immediately adjacent) or 向かい (directly opposite), 近くに communicates that a destination is within reasonable walking distance without specifying the exact spatial relationship. This makes it particularly useful for concierge recommendations where staff want to encourage guests to explore without overwhelming them with precise coordinates. When guests ask about convenience stores, ATMs, pharmacies, restaurants, or public transport, 近くに is often the first word in the answer, setting a reassuring tone that the destination is accessible and not far.
+**Pronunciation:** [chi-**ka**-ku ni]
+**Register:** Neutral to Formal, everyday directions and concierge guidance
 
-In practical hospitality use, 近くに is almost always followed by a walking time to make the information actionable: コンビニはホテルの近くに、徒歩約3分のところにございます (there is a convenience store near the hotel, about a 3-minute walk). Concierge staff recommend layering 近くに with 徒歩〇分 (〇-minute walk) and then adding landmark-based directions as a third layer for the clearest possible guidance. Ryokan staff similarly use 近くに when describing the location of the nearest temple, onsen source, or village shop in relation to the property.
+近くに means "nearby" or "in the vicinity of," and it comes up constantly in hospitality settings. Guests ask about convenience stores, ATMs, pharmacies, restaurants, and transport stops dozens of times a day, and 近くに is usually the first word in your answer. What makes it so useful is that it signals accessibility without committing to a precise distance, which is exactly the reassuring tone you want when encouraging a guest to explore on foot. Unlike 隣 (directly next door) or 向かい (directly across), 近くに leaves room for "around the corner" to mean a short walk rather than an exact adjacency.
+
+In practice, 近くに on its own is not enough. Always follow it with a walking time: コンビニはホテルの近くに、徒歩約3分のところにございます gives the guest something actionable. Think of it as a three-layer response: 近くに sets the tone, 徒歩〇分 gives the time, and a landmark reference seals it. Ryokan staff use the same structure when pointing guests toward a nearby temple or onsen source, so this pattern travels across property types.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In practical hospitality use, 近くに is almost always followed by a walking t
 
 ## Related Expressions
 
-- **隣 (tonari)** — Immediately adjacent or next door, a more precise proximity term than 近くに. While 近くに allows for a range of distances (anything from around the corner to a few blocks away), 隣 means directly beside with no gap; staff should choose 隣 when precision matters and 近くに when giving a general sense of accessibility.
-- **遠くに (tooku ni)** — Far away, the direct antonym of 近くに. Knowing both terms and using them honestly is essential: overstating proximity by saying 近くに when a destination is actually 遠くに sets unrealistic expectations and erodes guest trust when they discover the walk is much longer than implied.
+- **隣 (tonari)**: Immediately next door, no gap between the two things. Choose 隣 when precision matters, like when a pharmacy shares a wall with the hotel entrance, and save 近くに for anything in the general walking-distance range.
+- **遠くに (tooku ni)**: Far away, the opposite of 近くに. Students often feel pressure to say 近くに just to avoid disappointing a guest, but honest use of 遠くに builds more trust in the long run. If something really is a 20-minute walk, say so.
 
 ## Common Mistakes
 
-The most common mistake with 近くに is using it without a follow-up distance estimate, leaving guests with no practical sense of how long they will be walking. Staff should always append 徒歩〇分 or a landmark reference after 近くに to make the guidance actionable. Learners sometimes also use 近く (without に) in a context that requires the full locative phrase 近くに, which sounds grammatically incomplete. Additionally, be careful not to misuse 近くに when the correct word is 隣に — if a pharmacy is literally next door sharing a wall, saying 近くに (nearby) understates its proximity and may cause guests to walk past it looking for something farther away.
+Worth noting: the most common slip is using 近くに without adding a distance estimate afterward. A guest who hears 近くにございます but gets no follow-up has no idea whether "nearby" means two minutes or fifteen, and that ambiguity causes frustration. Always tie it to 徒歩〇分 or a landmark. Learners also sometimes drop the に and say 近く alone, which sounds grammatically incomplete in a full sentence. One more thing to watch: if a place is literally next door, 近くに understates the proximity and could actually send the guest walking past it looking for something farther away. When it is truly 隣, use 隣に.
 
 ---
 
@@ -45,5 +48,5 @@ The most common mistake with 近くに is using it without a follow-up distance 
 
 **Correct Answer:** 近くに (nearby)
 
-**Explanation:** 近くに (nearby) — following up with a walking time (徒歩〇分) after saying 近くに makes the information practical; 近く alone is vague without a distance indicator.
+**Explanation:** 近くに (nearby): following up with a walking time (徒歩〇分) after saying 近くに makes the information practical; 近く alone is vague without a distance indicator.
 

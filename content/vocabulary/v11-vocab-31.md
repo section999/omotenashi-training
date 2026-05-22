@@ -4,9 +4,9 @@ section: 31
 title: 英語対応 (eigo taiou)
 ---
 
-英語対応 (英語対応) is a compound noun formed from 英語 (English language) and 対応 (response, handling, support). Together they describe the capacity or readiness of a hotel, department, or staff member to serve guests in English. In Japan's hospitality industry, 英語対応 has become an increasingly important service differentiator as the volume of international visitors grows. Hotels that can clearly and honestly advertise 英語対応 gain confidence from overseas guests and travel agencies when booking. Staff training in 英語対応 goes beyond teaching vocabulary — it also covers cultural differences in communication styles, such as the tendency in some cultures to be more direct than is typical in Japanese hospitality.
+英語対応 is a compound noun made from 英語 (English language) and 対応 (response, handling, support). Together they describe the capacity of a hotel, a department, or a specific staff member to serve guests in English. As international visitor numbers in Japan continue to grow, 英語対応 has become one of the clearest service differentiators a hotel can offer. Travel agencies and overseas guests genuinely look for it when booking, so advertising it clearly and honestly has real commercial value alongside its obvious service benefits. Staff training in 英語対応 also covers cultural communication differences, since guests from some regions tend to communicate more directly than is typical in Japanese hospitality culture.
 
-The omotenashi spirit elevates 英語対応 from a reactive service to a proactive one. Rather than waiting for a guest to ask in English, a well-trained staff member will notice non-verbal cues — hesitation, a foreign language document, unfamiliar currency — and proactively offer 英語対応 before the guest struggles. The phrase 英語でのご対応も可能でございます (we are also able to assist you in English) offered at the right moment can instantly reassure a guest and create a positive impression that sets the tone for the entire stay. Hotels should also ensure that their 英語対応 is consistent across all touchpoints, from telephone to check-in to room service orders.
+The omotenashi approach pushes 英語対応 from reactive to proactive. A well-trained staff member does not wait for a foreign guest to stumble over a Japanese-only form. They read the signals early: hesitation, a foreign-language document in hand, uncertainty at the counter, and they offer 英語でのご対応も可能でございます (we are also able to assist you in English) before the guest has to ask. That moment of anticipation can set the entire tone for a guest's stay. Worth noting: 英語対応 needs to be consistent across all touchpoints, not just the front desk. A guest who receives excellent English support at check-in but none at the restaurant feels the inconsistency.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The omotenashi spirit elevates 英語対応 from a reactive service to a proacti
 
 ## Related Expressions
 
-- **多言語対応 (tago gengo taiou)** — multilingual support, a broader version of 英語対応 indicating capability in multiple foreign languages; used in hotels catering to diverse international clientele
-- **外国語対応 (gaikokugo taiou)** — foreign language support in general, a more inclusive phrasing that encompasses English and other languages when specific language capabilities vary by department
+- **多言語対応 (tago gengo taiou)**: multilingual support, a broader version of 英語対応 indicating that the hotel or department can serve guests in multiple foreign languages. Used in hotels with a diverse international clientele where English alone is not sufficient.
+- **外国語対応 (gaikokugo taiou)**: foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when you cannot list every language but still want to signal that non-Japanese speakers will be helped.
 
 ## Common Mistakes
 
-A common mistake is claiming 英語対応 without qualifying the level of proficiency, which can create unrealistic expectations. If only basic English is available, it is more honest and ultimately more helpful to say 基本的な英語での対応は可能です (basic English support is available). Another error is limiting 英語対応 to front desk staff only, when in fact guests may need English assistance in restaurants, during room service calls, or in the spa — ensuring consistent 英語対応 across all departments is the gold standard.
+Claiming 英語対応 without qualifying the level of proficiency is a trap that creates disappointed guests. If your hotel only has basic English coverage, say that plainly: 基本的な英語での対応は可能です (basic English support is available). Honest qualification is more helpful to a guest than a vague promise that falls apart at the first complex question. The other common mistake is treating 英語対応 as something that lives only at the front desk. Guests need English support at the restaurant, during room service calls, at the spa, on the phone. Consistency across all of those touchpoints is what makes the difference between a hotel that is technically 英語対応 and one that actually feels it.
 
 ---
 
@@ -44,4 +44,4 @@ A common mistake is claiming 英語対応 without qualifying the level of profic
 
 **Correct Answer:** 英語対応 (English support)
 
-**Explanation:** 英語対応 availability should be proactively communicated — if a guest seems to be struggling in Japanese, switching to English (May I assist you in English?) without waiting to be asked is a direct expression of omotenashi and removes a barrier for international guests.
+**Explanation:** 英語対応 availability should be proactively communicated: if a guest seems to be struggling in Japanese, switching to English (May I assist you in English?) without waiting to be asked is a direct expression of omotenashi and removes a barrier for international guests.

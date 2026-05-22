@@ -4,9 +4,9 @@ section: 23
 title: ドア (door)
 ---
 
-ドア is a loanword for "door," generally referring to a Western-style hinged or sliding door as distinct from 引き戸 (sliding panel door) or 障子 (paper screen). In hotel and ryokan contexts, the guest room ドア is the primary point of privacy and security, and staff are expected to ensure guests understand how to lock it securely from the inside. Modern hotel rooms typically feature electronic key card locks, where the ドア automatically locks when closed; however, an internal deadbolt or chain (チェーンロック) provides an additional layer of security that guests should be made aware of. In emergencies, staff must also be able to guide guests regarding fire escape routes and not blocking the ドア. Clear, calm communication about ドア operation is a hallmark of professional hospitality.
+ドア is a loanword for "door," and in hotel contexts it specifically refers to the Western-style hinged room door rather than a 引き戸 (sliding panel door) or 障子 (paper screen). The guest room ドア is the front line of both privacy and security, and every guest needs to know how to operate it properly. Modern hotel rooms use electronic key card locks that auto-lock when the door closes, which is convenient but also means a guest who steps out without their card is locked out instantly. Guests should also know about the internal chain lock (チェーンロック) for added security while inside the room.
 
-During room orientation, staff commonly explain: 「ドアはオートロックになっております」 (the door is auto-locking) and 「お部屋の中からはチェーンをかけてください」 (please use the chain lock from inside). Emergency instructions such as 「非常口は廊下の左側にございます」 (the emergency exit is on the left side of the corridor) are often also delivered in conjunction with door-related guidance. When a guest has difficulty with their key card activating the door lock, staff should respond promptly and offer to re-issue the card if necessary.
+During room orientation, cover the basics clearly: 「ドアはオートロックになっております」 so guests remember their key card, and 「お部屋の中からはチェーンをかけてください」 to recommend the chain lock at night. Emergency exit information, such as 「非常口は廊下の左側にございます」, is naturally delivered alongside this ドア guidance. When a guest's key card stops working, respond promptly and offer to re-issue it, because a locked-out guest standing in the corridor is one of the more stressful situations you can create by being slow.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ During room orientation, staff commonly explain: 「ドアはオートロック�
 
 ## Related Expressions
 
-- **カードキー (kaado kii)** — The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out.
-- **チェーンロック (cheen rokku)** — The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation.
+- **カードキー (kaado kii)**: The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out.
+- **チェーンロック (cheen rokku)**: The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation.
 
 ## Common Mistakes
 
-A common error is giving only the minimal instruction 「ドアは鍵をかけてください」 without explaining the auto-lock mechanism or the chain lock, leaving guests without full information. Learners sometimes use casual imperative forms like 「ドア閉めて」 rather than the polite 「ドアをお閉めください」 or contextual guidance forms. Another oversight is not connecting ドア-related guidance to emergency exit instructions — in Japanese hotel practice, safety information about the nearest fire exit is typically delivered together with door and lock orientation.
+A common error is giving only the minimal instruction 「ドアは鍵をかけてください」 without explaining the auto-lock mechanism or the chain lock. Guests leave that orientation without full information. Students sometimes also use casual imperative forms like 「ドア閉めて」 rather than the polite 「ドアをお閉めください」 or contextual guidance forms. Worth noting: in Japanese hotel practice, safety information about the nearest fire exit is typically delivered together with door and lock orientation, and overlooking that connection is a common gap in new staff training.
 
 ---
 
@@ -44,5 +44,5 @@ A common error is giving only the minimal instruction 「ドアは鍵をかけ�
 
 **Correct Answer:** ドアは内側から鍵を回してください (please lock the door from the inside)
 
-**Explanation:** ドアは内側から鍵を回してください clearly explains the action — security instructions must always be clear and complete.
+**Explanation:** ドアは内側から鍵を回してください clearly explains the action: security instructions must always be clear and complete.
 

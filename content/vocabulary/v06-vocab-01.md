@@ -29,7 +29,7 @@ That said, 問題 is most often heard as part of conditional invitations to spea
 
 ## Common Mistakes
 
-Students often confuse 問題 with クレーム (kuremu), treating them as interchangeable. They are not. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest — reaching for クレーム prematurely can escalate the situation unnecessarily. Worth noting too: staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
+Students often confuse 問題 with クレーム (kuremu), treating them as interchangeable. They are not. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest: reaching for クレーム prematurely can escalate the situation unnecessarily. Worth noting too: staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
 
 ---
 
@@ -45,5 +45,5 @@ Students often confuse 問題 with クレーム (kuremu), treating them as inter
 
 **Correct Answer:** 問題 (problem)
 
-**Explanation:** 問題 means problem or issue — 何か〜がございましたら is the conditional polite form of "if there is anything", inviting guests to speak up without pressure.
+**Explanation:** 問題 means problem or issue: 何か〜がございましたら is the conditional polite form of "if there is anything", inviting guests to speak up without pressure.
 

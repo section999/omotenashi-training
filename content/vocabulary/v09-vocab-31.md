@@ -4,9 +4,12 @@ section: 31
 title: 当日予約 (toujitsu yoyaku)
 ---
 
-当日予約 (toujitsu yoyaku) combines 当日 (toujitsu, "the day itself" or "today") with 予約 (yoyaku, reservation), referring specifically to a booking made on the same calendar day as the guest's check-in. This is distinct from simply arriving without a reservation (飛び込み, tobikomi), as the guest has still made a formal inquiry or booking — just within the same day. 当日予約 is relatively common in Japan, particularly among business travelers whose schedules change unexpectedly, or leisure travelers who decide spontaneously to extend a trip. Hotels with online booking systems often accept 当日予約 up to a certain cutoff time, after which only the front desk can handle them directly.
+**Pronunciation:** [tou-**ji**-tsu-yo-ya-ku]
+**Register:** Formal/Neutral, front desk, reservations, and same-day booking contexts
 
-From an operational standpoint, 当日予約 requires staff to quickly verify room availability in real time, check whether housekeeping has finished preparing available rooms, and confirm the applicable rate — which may differ from advance booking rates since 早割 and similar discounts typically do not apply. The appropriate keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします (I have received your same-day reservation; we will contact you as soon as your room is ready). Even when scrambling to accommodate a last-minute guest, the tone should remain calm and welcoming — the guest chose this hotel specifically and deserves a warm reception regardless of timing.
+当日予約 (toujitsu yoyaku) puts 当日 (toujitsu, "the day itself" or "today") together with 予約 (yoyaku, reservation), making it a booking placed on the same calendar day as the intended check-in. This is distinct from arriving without any reservation at all (飛び込み, tobikomi), since the guest has still made a formal inquiry or booking, just within the same day. 当日予約 is fairly common in Japan, especially among business travelers whose schedules shift suddenly, or leisure guests who decide on a whim to extend a trip. Many hotels accept 当日予約 up to a certain cutoff time online, after which only the front desk can handle them directly.
+
+From an operations standpoint, 当日予約 means the front desk needs to quickly verify real-time room availability, confirm whether housekeeping has finished preparing rooms in that category, and have a rate ready before responding. The 早割 and similar advance-purchase discounts do not apply. The right keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします. Even when things are moving fast to accommodate a last-minute guest, the tone should stay calm and welcoming. Students often rush through the same-day booking process and come across as harried; the guest who chose your hotel at the last minute still deserves a warm reception.
 
 ## Example Sentences
 
@@ -20,16 +23,16 @@ From an operational standpoint, 当日予約 requires staff to quickly verify ro
 
 **3.** 当日予約でも可能ですが、早割プランは適用されず、通常料金でのご案内となります。
 *Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.*
-"Same-day reservations are accepted, but the early bird discount will not apply — the standard rate will be quoted."
+"Same-day reservations are accepted, but the early bird discount will not apply: the standard rate will be quoted."
 
 ## Related Expressions
 
-- **直前予約 (chokuzen yoyaku)** — last-minute reservation; similar to 当日予約 but specifically refers to bookings made just a few hours before arrival on the same day, implying even less lead time for room preparation.
-- **飛び込み (tobikomi)** — walk-in; a guest who arrives without any prior reservation at all, unlike 当日予約 where at least a phone or online booking has been made.
+- **直前予約 (chokuzen yoyaku)**: last-minute reservation, a subset of 当日予約 where the guest is arriving imminently, often within one to two hours. The key difference is urgency for room preparation.
+- **飛び込み (tobikomi)**: walk-in guest, someone who arrives at the front desk with no reservation at all. Unlike 当日予約, there is zero advance notice, so the preparation window is even shorter.
 
 ## Common Mistakes
 
-Learners sometimes use 当日予約 and 直前予約 interchangeably, but they have different nuances that matter operationally. 当日予約 can refer to a booking made in the morning for an evening check-in, while 直前予約 implies the guest will arrive imminently — within one to two hours. This distinction affects how urgently housekeeping must prepare the room. Another common mistake is automatically quoting a discounted rate for 当日予約 guests without first confirming that the room category they are requesting qualifies — inventory fluctuates throughout the day, and not all room types available in advance will be the same ones open for same-day guests.
+Learners sometimes use 当日予約 and 直前予約 interchangeably, but they carry different operational implications. A 当日予約 made in the morning for an evening check-in gives housekeeping several hours of lead time. A 直前予約 means the guest will walk through the door soon, so the urgency for room preparation is much higher. That distinction should change how quickly you contact housekeeping after accepting the booking. Another common mistake is automatically quoting a discounted rate without first confirming that the room category the guest wants is actually available for same-day booking. Inventory fluctuates throughout the day, and not all room types open for advance reservations will be accessible for 当日予約 guests.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes use 当日予約 and 直前予約 interchangeably, but they h
 
 **Correct Answer:** 当日予約 (same-day reservation)
 
-**Explanation:** 当日予約 is more specific than 直前予約 — it means the booking AND the stay happen on the same calendar day; these guests often have less negotiating leverage on rate, but treating them warmly encourages return visits and positive reviews.
+**Explanation:** 当日予約 is more specific than 直前予約: it means the booking AND the stay happen on the same calendar day; these guests often have less negotiating leverage on rate, but treating them warmly encourages return visits and positive reviews.

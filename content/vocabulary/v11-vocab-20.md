@@ -4,9 +4,12 @@ section: 20
 title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 ---
 
-お名前を頂戴できますか is the gold-standard phrase for politely asking a guest or caller for their name. The word 頂戴 (choudai) literally means "to humbly receive," framing the guest's name as something being graciously offered rather than demanded. This subtle framing is central to the philosophy of omotenashi, in which the guest is always treated as the social superior and every interaction is shaped by humility and gratitude on the staff's part.
+**Pronunciation:** [o-na-mae-wo-CHOO-dai-de-ki-ma-su-ka]
+**Register:** Formal/Humble, standard in telephone and check-in contexts
 
-In hotel telephone scripts, this phrase typically appears early in a call, after the initial greeting, to establish who the caller is before proceeding with their inquiry. It can also be used at check-in or when confirming a reservation. Staff should speak slowly and clearly when asking for names, and should always repeat the name back to confirm correct understanding: ○○様でいらっしゃいますね (you are Mr./Ms. ○○, correct?).
+お名前を頂戴できますか is the gold-standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) literally means "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. That framing is not decoration. It reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part. A small shift in vocabulary signals a large shift in attitude.
+
+In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, always repeat the name back slowly and clearly: ○○様でいらっしゃいますね (you are Mr./Ms. ○○, correct?). Worth noting: speaking slowly when asking for a name is not just courtesy, it actually reduces transcription errors and routing mistakes, which saves everyone time.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hotel telephone scripts, this phrase typically appears early in a call, after
 
 ## Related Expressions
 
-- **お名前は何ですか (onamae wa nan desu ka)** — A more direct, less humble way of asking for someone's name. While grammatically correct, this phrasing is considered too blunt for formal hotel service because it lacks the humble framing of 頂戴. Use お名前を頂戴できますか in all guest-facing contexts.
-- **ご氏名 (go-shimei)** — A more formal word for "full name," often used in written forms or when a full legal name is required. While お名前 is appropriate for most phone and in-person situations, ご氏名 may be used in official contexts such as hotel registration cards.
+- **お名前は何ですか (onamae wa nan desu ka)**: a more direct, less humble way of asking for a name; while grammatically fine, it is considered too blunt for formal hotel service because it lacks the humble framing that 頂戴できますか provides.
+- **ご氏名 (go-shimei)**: a more formal word for "full name," typically used in written forms or when a full legal name is required; お名前 works for most phone and in-person situations, while ご氏名 belongs in official documents like hotel registration cards.
 
 ## Common Mistakes
 
-Learners sometimes shorten the phrase to お名前は？ or お名前を教えてください when speaking with guests, both of which are less polished and can sound abrupt in a formal service setting. Another common error is failing to repeat the name back to the caller for confirmation, which can lead to misspellings or routing errors. The phrase should be spoken with a gentle, unhurried tone — rushing through it defeats the humility it is designed to convey.
+Students often shorten the phrase to お名前は？ or お名前を教えてください when speaking with guests, but both of those can sound abrupt in a formal service setting. The longer phrase exists for a reason, and it should be used. Another frequent error is asking for the name but then not confirming it back to the caller, which is where misspellings and routing errors creep in. In practice, that confirmation step takes about five seconds and prevents a surprising number of problems. One more thing: deliver this phrase unhurriedly. The humility it conveys only lands if the tone matches the words.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes shorten the phrase to お名前は？ or お名前を教え�
 
 **Correct Answer:** お名前を頂戴できますか (may I have your name?)
 
-**Explanation:** お名前を頂戴できますか is more humble than お名前は何ですか — 頂戴できますか (may I receive) frames the guest's name as a gift being offered rather than information being demanded; this subtle difference reflects the essence of omotenashi in phone communication.
+**Explanation:** お名前を頂戴できますか is more humble than お名前は何ですか: 頂戴できますか (may I receive) frames the guest's name as a gift being offered rather than information being demanded; this subtle difference reflects the essence of omotenashi in phone communication.

@@ -4,9 +4,12 @@ section: 38
 title: 緊急出口 (kinkyuu deguchi)
 ---
 
-緊急出口 combines 緊急 (kinkyuu, urgent / emergency) with 出口 (deguchi, exit), forming "emergency exit." It is a near-synonym of 非常口 (hijouguchi), and both terms refer to the same physical thing: a designated exit used specifically during emergencies such as fires, earthquakes, or other disasters. The key practical distinction is one of register and medium: 非常口 is the official term enshrined in fire safety regulations and used on standardized Japanese emergency exit signs (the green running-figure signs seen in all public buildings), while 緊急出口 appears more commonly in spoken instructions, safety briefings, multilingual signage, and international hotel contexts where English-influenced terminology is more prevalent.
+**Pronunciation:** [kin-**kyuu**-de-gu-chi]
+**Register:** Formal -- used in spoken safety briefings and bilingual signage
 
-For hotel staff, being fluent in both terms is professionally essential. When conducting a room orientation and pointing at a 非常口 sign, it is natural to say 非常口はこちらです. In a verbal conversation where a guest asks about fire safety, 緊急出口 often flows more naturally in speech. In some modern hotels catering to international guests, 緊急出口 appears alongside 非常口 on bilingual safety cards and signs, so staff should recognize and use both without confusion. The underlying message — that guests must know the location of the emergency exit before they need it — is the same regardless of which term is used.
+緊急出口 puts 緊急 (kinkyuu, urgent / emergency) together with 出口 (deguchi, exit) to give you "emergency exit." It covers the same physical door as 非常口 (hijouguchi), but the two terms live in different worlds. 非常口 is the official word enshrined in Japanese fire safety regulations and printed on those green running-figure signs you see in every public building across the country. 緊急出口, on the other hand, flows more naturally in conversation and shows up frequently on bilingual safety cards and signage in hotels that welcome international guests. Both terms point to the same exit, but knowing which one to reach for in which situation marks you as someone who has genuinely thought about this.
+
+For hotel staff, being fluent in both is a professional baseline, not a bonus. When you are pointing at a 非常口 sign during a room orientation, saying 非常口はこちらです makes perfect sense because you are referring to what is written on the sign right in front of you. In a free-flowing conversation where a guest asks about fire safety, 緊急出口 often sounds more natural in speech. That said, the underlying message is always the same: guests need to know where this door is before they need it, and it is your job to make sure they do. When both terms appear on the same property's signage, default to whichever word matches the sign closest to where you are standing.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ For hotel staff, being fluent in both terms is professionally essential. When co
 
 ## Related Expressions
 
-- **非常口 (hijouguchi)** — "emergency exit," the official term used on standardized Japanese safety signage; 緊急出口 is more common in verbal instruction while 非常口 dominates on physical signs
-- **避難経路 (hinan keiro)** — "evacuation route," the full path from any room to the 緊急出口 and beyond to the outdoor assembly point; always communicate both terms together for complete safety guidance
+- **非常口 (hijouguchi)**: the official regulatory term for emergency exit, dominant on standardized Japanese safety signs; 緊急出口 tends to appear more in spoken instruction and international-facing contexts
+- **避難経路 (hinan keiro)**: the full evacuation path from any room all the way to the 緊急出口 and beyond; always communicate both together so guests have the complete picture, not just the destination
 
 ## Common Mistakes
 
-The most consequential mistake related to 緊急出口 is not communicating its location to guests proactively — staff should treat this as a non-negotiable part of check-in and room orientation, not an optional add-on. Learners sometimes use 出口 (deguchi, regular exit) when they mean 緊急出口, which can mislead guests into using the wrong exit during an emergency; the 緊急 prefix is what signals the life-safety context. When both 非常口 and 緊急出口 appear in the same building's signage, staff should default to the term that matches the sign nearest to their current location, so that guests can immediately look up and identify the sign being described.
+The most consequential mistake here is not telling guests where the emergency exit is at all. Students often treat this as optional information to mention if there happens to be a natural opening in the conversation. It is not optional. Make it a fixed part of check-in and room orientation, every single time. A separate error is using 出口 (the ordinary exit) when you mean 緊急出口: dropping the 緊急 prefix removes the entire life-safety signal, and a confused guest may walk toward a regular lobby door during an evacuation. In practice, if a building uses both 非常口 and 緊急出口 on its signs, pick whichever word matches the nearest sign and stay consistent, so guests can look up and immediately identify what you just described.
 
 ---
 
@@ -44,4 +47,4 @@ The most consequential mistake related to 緊急出口 is not communicating its 
 
 **Correct Answer:** 緊急出口は奥です (the emergency exit is at the back)
 
-**Explanation:** 緊急出口 and 非常口 are near-synonyms for emergency exit — 非常口 appears more on official signs while 緊急出口 is used in spoken instruction; staff should know both and use whichever matches the signage in their building.
+**Explanation:** 緊急出口 and 非常口 are near-synonyms for emergency exit: 非常口 appears more on official signs while 緊急出口 is used in spoken instruction; staff should know both and use whichever matches the signage in their building.

@@ -4,9 +4,9 @@ section: 11
 title: 身分証明書 (mibun shomeisho)
 ---
 
-身分証明書 means identification document and serves as the umbrella term for any official document that establishes a person's identity. While international guests typically present a パスポート, domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued ID. Understanding this distinction allows staff to request identification from all guests, regardless of nationality, using appropriate language. The need to verify identity is both a legal requirement in Japan and an important security measure for the property.
+身分証明書 means identification document and is the umbrella term for any official document that establishes a person's identity. International guests typically present a パスポート, but domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued document. Understanding this distinction matters because it lets you request identification from any guest, regardless of nationality, using language that is both accurate and appropriately polite. Verifying identity is a legal requirement in Japan and a basic security responsibility for any property.
 
-When requesting 身分証明書, the same humble language principles that apply to パスポート requests hold true — the key phrase is 身分証明書を拝見してもよろしいでしょうか. Because the term is longer and less familiar to some international guests, staff working in multilingual environments may supplement the verbal request with a written prompt or a gesture toward the appropriate document type. After viewing the ID, it should be returned immediately and the guest thanked for their cooperation.
+The same humble language principles that apply to passport requests apply here too. The key phrase is 身分証明書を拝見してもよろしいでしょうか. In practice, the term is longer and less recognizable to some international guests, so staff working in multilingual settings may want to support the verbal request with a written prompt or a gesture toward the document type needed. After viewing the ID, return it immediately and thank the guest for their cooperation.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When requesting 身分証明書, the same humble language principles that apply 
 
 ## Related Expressions
 
-- **パスポート (pasupōto)** — passport; the specific and most common form of 身分証明書 for foreign guests, required by law for non-Japanese nationals.
-- **ご提示 (go-teiji)** — presentation (of a document); the polite noun used when asking a guest to show something: ご提示をお願いいたします.
+- **パスポート (pasupōto)**: passport; the most common form of 身分証明書 for foreign guests and the document required by law for non-Japanese nationals checking in.
+- **ご提示 (go-teiji)**: presentation of a document; the polite noun form used when asking a guest to show something, as in ご提示をお願いいたします.
 
 ## Common Mistakes
 
-Learners sometimes use 身分証明書を見せてください, which is grammatically valid but sounds like a command rather than a polite request; always use the 拝見〜よろしいでしょうか construction. Another error is requesting 身分証明書 only from guests who appear to be foreign nationals — Japanese hotels are required to verify identity for all guests, and selective requests can be perceived as discriminatory. Additionally, be careful not to confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a specific document carried by foreign residents and is a distinct category.
+Students sometimes use 身分証明書を見せてください. It is grammatically fine but sounds like a demand rather than a request, and the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. One more thing: do not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan. They are not the same document.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes use 身分証明書を見せてください, which is grammat
 
 **Correct Answer:** 身分証明書を拝見してもよろしいでしょうか (may I see your ID?)
 
-**Explanation:** 身分証明書を拝見してもよろしいでしょうか uses humble language (拝見) and asks permission politely — the correct professional approach.
+**Explanation:** 身分証明書を拝見してもよろしいでしょうか uses humble language (拝見) and asks permission politely: the correct professional approach.

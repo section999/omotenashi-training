@@ -1,10 +1,10 @@
 ---
 id: m1-philosophy
 section: 3
-title: The Language of Respect — Keigo
+title: The Language of Respect, Keigo
 ---
 
-Japanese hospitality is inseparable from its language. **Keigo (敬語)** is the system of honorific speech used in all professional guest-facing contexts. It is not simply a polite register — it is a structured grammar that encodes the social relationship between speaker and listener into every sentence. To use keigo correctly is to express, at the level of language structure itself, that the guest is valued and respected.
+Japanese hospitality is inseparable from its language. **Keigo (敬語)** is the system of honorific speech used in all professional guest-facing contexts. It is not simply a polite register; it is a structured grammar that encodes the social relationship between speaker and listener into every sentence. To use keigo correctly is to express, at the level of language structure itself, that the guest is valued and respected.
 
 Keigo has three registers, each with a distinct function:
 
@@ -12,13 +12,13 @@ Keigo has three registers, each with a distinct function:
 |------|----------|---------|---------|
 | Sonkeigo | 尊敬語 | Elevates the guest's actions and status | いらっしゃいます (for the guest: to be/come) |
 | Kenjōgo | 謙譲語 | Humbles the speaker's own actions, showing deference | 参ります (I, humbly, will go) |
-| Teineigo | 丁寧語 | General polite speech — the baseline register | です / ます forms |
+| Teineigo | 丁寧語 | General polite speech, the baseline register | です / ます forms |
 
 **Why the structure matters:**
 
-Choosing the correct register is not merely grammar — it is an act of respect. Using sonkeigo to describe the guest's actions elevates them; using kenjōgo for your own actions shows humility. Together, they create an asymmetry: the guest is placed above; the speaker places themselves below. This asymmetry is felt by the guest even if they cannot name its mechanism.
+Choosing the correct register is not merely grammar; it is an act of respect. Using sonkeigo to describe the guest's actions elevates them; using kenjōgo for your own actions shows humility. Together, they create an asymmetry: the guest is placed above; the speaker places themselves below. This asymmetry is felt by the guest even if they cannot name its mechanism.
 
-Using the wrong register — kenjōgo for the guest's actions, for instance — inverts the intended meaning. Saying *"お客様、いただきますか？"* (using humble language for the guest) is linguistically incorrect and, to a discerning Japanese guest, a clear signal of inadequate training.
+Using the wrong register, kenjōgo for the guest's actions, for instance, inverts the intended meaning. Saying *"お客様、いただきますか？"* (using humble language for the guest) is linguistically incorrect and, to a discerning Japanese guest, a clear signal of inadequate training.
 
 **The three-level model in everyday use:**
 
@@ -28,7 +28,7 @@ A practical example: instead of *"食べますか？"* (casual: "Will you eat?")
 
 **Keigo as a cultural signal:**
 
-For many Japanese guests, fluent keigo from staff is not merely expected — its absence is noticed acutely. The quality of a property's keigo is a direct indicator of its service standard. A luxury hotel where staff revert to casual speech in informal moments shows inconsistency. Consistent, natural keigo says: *this is a team that has thought deeply about how to receive you.*
+For many Japanese guests, fluent keigo from staff is not merely expected; its absence is noticed acutely. The quality of a property's keigo is a direct indicator of its service standard. A luxury hotel where staff revert to casual speech in informal moments shows inconsistency. Consistent, natural keigo says: *this is a team that has thought deeply about how to receive you.*
 
 Worth noting here: students often focus on vocabulary and forget that register consistency matters just as much. A single slip into casual speech mid-interaction can undo the impression built by everything before it.
 
@@ -51,11 +51,11 @@ Worth noting here: students often focus on vocabulary and forget that register c
 
 **Which keigo type should be used to describe a guest's action, such as asking if they would like to eat?**
 
-- A. Teineigo — using the plain ます form
-- B. Kenjōgo — using humble forms for the guest's action
-- C. Sonkeigo — using elevated forms to honour the guest's action
+- A. Teineigo: using the plain ます form
+- B. Kenjōgo: using humble forms for the guest's action
+- C. Sonkeigo: using elevated forms to honour the guest's action
 - D. No special form is required for questions
 
-**Correct Answer:** Sonkeigo — using elevated forms to honour the guest's action
+**Correct Answer:** Sonkeigo: using elevated forms to honour the guest's action
 
 **Explanation:** Sonkeigo (尊敬語) is used when speaking about what the guest does. For eating, the correct form is 召し上がりますか？(meshiagari masu ka?), not 食べますか？. Using kenjōgo for the guest's actions is a common error that inverts the intended relationship.

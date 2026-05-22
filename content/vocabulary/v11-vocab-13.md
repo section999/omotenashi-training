@@ -6,7 +6,7 @@ title: 音声案内 (onsei annai)
 
 音声案内 refers to automated voice guidance delivered through a phone system, typically an IVR (interactive voice response) menu that routes callers by prompting them to press numbered keys. In Japanese hospitality, where clarity and courtesy are paramount, staff must be prepared to guide guests through these menus personally when the guest seems confused or is unfamiliar with the system. Understanding this term allows staff to explain the process smoothly without making the guest feel abandoned to an impersonal system.
 
-In practice, 音声案内 appears whenever a hotel routes incoming calls through a main switchboard menu. Staff might say 音声案内で1番を押してください (please press 1 on the voice menu) or explain to a guest calling from abroad how the system works before transferring them. Being proactive about guiding guests through the 音声案内 steps — rather than simply saying "follow the prompts" — is a key expression of omotenashi in telephone service.
+In practice, 音声案内 appears whenever a hotel routes incoming calls through a main switchboard menu. Staff might say 音声案内で1番を押してください (please press 1 on the voice menu) or explain to a guest calling from abroad how the system works before transferring them. Being proactive about guiding guests through the 音声案内 steps, rather than simply saying "follow the prompts", is a key expression of omotenashi in telephone service.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, 音声案内 appears whenever a hotel routes incoming calls through
 
 ## Related Expressions
 
-- **自動応答 (jidou outou)** — Automated response, a broader term covering any automatic reply system (including recorded messages), whereas 音声案内 specifically refers to voice-guided menu navigation. Use 音声案内 when describing the interactive menu itself.
-- **IVR (ai bui aru)** — The technical English-derived term for interactive voice response, used mainly in internal or technical contexts. 音声案内 is the guest-facing, Japanese term that should be used in front-of-house communication.
+- **自動応答 (jidou outou)**: Automated response, a broader term covering any automatic reply system (including recorded messages), whereas 音声案内 specifically refers to voice-guided menu navigation. Use 音声案内 when describing the interactive menu itself.
+- **IVR (ai bui aru)**: The technical English-derived term for interactive voice response, used mainly in internal or technical contexts. 音声案内 is the guest-facing, Japanese term that should be used in front-of-house communication.
 
 ## Common Mistakes
 
-Learners sometimes confuse 音声案内 with 留守番電話 (voicemail), but they are distinct: 音声案内 is a live routing system that guides callers to the right department, while 留守番電話 records messages when no one is available. Another common error is failing to offer personal assistance alongside the menu — simply saying 音声案内をお使いください without offering to guide the guest through it can feel cold and unhelpful.
+Learners sometimes confuse 音声案内 with 留守番電話 (voicemail), but they are distinct: 音声案内 is a live routing system that guides callers to the right department, while 留守番電話 records messages when no one is available. Another common error is failing to offer personal assistance alongside the menu: simply saying 音声案内をお使いください without offering to guide the guest through it can feel cold and unhelpful.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes confuse 音声案内 with 留守番電話 (voicemail), but th
 
 **Correct Answer:** 音声案内 (audio guidance)
 
-**Explanation:** 音声案内 is the automated phone menu — when a guest seems confused by it, offer to guide them through (音声案内で1番を押してください、その後に2番をお押しください); stepping the guest through the IVR system personally is a small but memorable act of service.
+**Explanation:** 音声案内 is the automated phone menu: when a guest seems confused by it, offer to guide them through (音声案内で1番を押してください、その後に2番をお押しください); stepping the guest through the IVR system personally is a small but memorable act of service.

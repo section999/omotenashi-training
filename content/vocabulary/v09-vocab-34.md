@@ -4,9 +4,12 @@ section: 34
 title: 団体予約 (dantai yoyaku)
 ---
 
-団体予約 (dantai yoyaku) combines 団体 (dantai, group / party / organization) with 予約 (yoyaku, reservation), denoting a booking made for a group rather than an individual or couple. Japanese hotels generally define a 団体予約 as any booking for 10 or more guests, though some properties apply the classification from as few as 6 or 8. 団体予約 can arise from tourism groups, corporate retreats, school field trips (修学旅行, shuugaku ryokou), wedding parties, or sporting teams. Because these bookings involve multiple rooms, coordinated arrival times, group meal arrangements, and often special programming, they require a dedicated coordination process that goes well beyond standard individual reservation handling.
+**Pronunciation:** [dan-**ta**-i-yo-ya-ku]
+**Register:** Formal/Neutral, reservations, group coordination, and front desk management
 
-The successful management of a 団体予約 relies on clear internal communication between departments. A グループ担当者 (group coordinator on the hotel side) is assigned to serve as the single point of contact, both internally and for the group's organizer. A 名簿 (meibo, guest manifest) listing all group members' names and room assignments is prepared in advance, allowing the front desk to handle multiple check-ins efficiently without confusion. Group meals are pre-arranged with the kitchen, and special dietary requirements noted in the reservation are communicated to the restaurant. When the group arrives, greeting them as a unified delegation — 〇〇様グループの皆様、ようこそお越しくださいました (welcome, members of the [name] group) — creates a sense of reception and belonging.
+団体予約 (dantai yoyaku) combines 団体 (dantai, group, party, or organization) with 予約 (yoyaku, reservation), denoting a booking made for a group rather than an individual or couple. Japanese hotels generally define a 団体予約 as any booking for 10 or more guests, though some properties apply the classification from as few as 6 or 8. Groups can arrive from many directions: tourism parties, corporate retreats, school field trips (修学旅行, shuugaku ryokou), wedding parties, or sports teams. Because these bookings involve multiple rooms, coordinated arrival times, group meals, and often special programming, they require a coordination process that goes well beyond standard individual reservation handling.
+
+Successfully managing a 団体予約 depends on internal communication between departments. A グループ担当者 (group coordinator on the hotel side) should be assigned to serve as the single point of contact, both internally and with the group's organizer. A 名簿 (meibo, guest manifest) listing all members' names and room assignments is prepared in advance, so the front desk can handle multiple check-ins efficiently without confusion. Group meals are coordinated with the kitchen, and dietary requirements noted in the reservation are passed to the restaurant ahead of time. When the group arrives, greeting them as a unified delegation, 〇〇様グループの皆様、ようこそお越しくださいました, creates a genuine sense of reception and belonging from the first moment.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The successful management of a 団体予約 relies on clear internal communicati
 
 ## Related Expressions
 
-- **個人予約 (kojin yoyaku)** — individual reservation; the direct contrast to 団体予約, used for single guests or small parties where the standard one-to-one service model applies without group coordination needs.
-- **名簿 (meibo)** — guest roster / manifest; the document listing all group members, typically provided by the group organizer before arrival and used by front desk staff to pre-assign rooms and manage check-in flow.
+- **個人予約 (kojin yoyaku)**: individual reservation, the direct contrast to 団体予約. The standard one-to-one service model applies, with no need for the coordination infrastructure a group booking requires.
+- **名簿 (meibo)**: guest roster or manifest, the document listing all group members, typically provided by the organizer before arrival. It allows front desk staff to pre-assign rooms and keep check-in flowing smoothly when many people arrive at once.
 
 ## Common Mistakes
 
-A critical mistake with 団体予約 is failing to assign a dedicated internal coordinator before the group arrives — without one point of contact, different group members will approach different staff members with conflicting questions, creating confusion and inconsistent service. Learners also sometimes overlook the need to pre-coordinate meal plans, leaving the kitchen unprepared for a large group's dining needs. Because group meals require much more preparation than individual orders, the kitchen team must receive group dining details — number of guests, time, dietary restrictions, and menu selections — well in advance. Any last-minute group that arrives with undisclosed large-party dining needs creates significant strain and risks poor food quality or long waits.
+One critical mistake with 団体予約 is failing to assign a dedicated internal coordinator before the group arrives. Without one clear point of contact, different members of the group will approach different staff with conflicting questions, and the inconsistent responses that result undermine confidence in the entire hotel. Students often underestimate how quickly this becomes chaotic when 20 or 30 people arrive at the same time. Another common oversight is neglecting to pre-coordinate meal plans with the kitchen. In practice, the kitchen needs group dining details, including guest count, arrival time, dietary requirements, and menu choices, well in advance. A large group that shows up with undisclosed dining needs creates real strain and risks either long waits or compromised food quality, neither of which reflects well on the property.
 
 ---
 
@@ -44,4 +47,4 @@ A critical mistake with 団体予約 is failing to assign a dedicated internal c
 
 **Correct Answer:** 団体予約 (group reservation)
 
-**Explanation:** 団体予約 requires a dedicated coordinator — assigning one staff contact for the entire group (グループ担当者) and creating a group manifest (名簿) streamlines check-in and prevents individual guests from overwhelming the front desk simultaneously.
+**Explanation:** 団体予約 requires a dedicated coordinator: assigning one staff contact for the entire group (グループ担当者) and creating a group manifest (名簿) streamlines check-in and prevents individual guests from overwhelming the front desk simultaneously.

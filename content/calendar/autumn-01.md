@@ -1,16 +1,16 @@
 ---
 id: cal-autumn
 section: 1
-title: Koyo — Autumn Foliage (紅葉) — October to November
+title: Koyo, Autumn Foliage (紅葉), October to November
 ---
 
-**Season:** Autumn · September — November
+**Season:** Autumn · September, November
 
-Japan's autumn foliage season — *koyo* (紅葉, literally "crimson leaves") — rivals cherry blossom season in its national significance. The progression of colour begins in Hokkaido in September and moves southward through the country over approximately two months, reaching Kyushu by November. Kyoto, Nikko, Hakone, the Japanese Alps, and countless mountain resorts are at full capacity. International tourism peaks during koyo, particularly from East Asian countries where the tradition of viewing autumn leaves is deeply appreciated.
+Japan's autumn foliage season, *koyo* (紅葉, literally "crimson leaves"), rivals cherry blossom season in its national significance. The progression of colour begins in Hokkaido in September and moves southward through the country over approximately two months, reaching Kyushu by November. Kyoto, Nikko, Hakone, the Japanese Alps, and countless mountain resorts are at full capacity. International tourism peaks during koyo, particularly from East Asian countries where the tradition of viewing autumn leaves is deeply appreciated.
 
 **What makes koyo different from hanami:**
 
-While cherry blossom season is defined by transience and delicate beauty, koyo carries a different emotional register — deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo are often in a slower, more reflective mood — they tend to linger, to photograph carefully, to seek the most intense colours.
+While cherry blossom season is defined by transience and delicate beauty, koyo carries a different emotional register, deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo are often in a slower, more reflective mood, they tend to linger, to photograph carefully, to seek the most intense colours.
 
 **Critical front-line knowledge:**
 
@@ -46,7 +46,7 @@ Like cherry blossoms, koyo is **weather-dependent and changes daily.** The quest
 
 *Kotoshi no kōyō wa toku ni migoto desu. ○○ de wa ima ga chōdo migorō desu no de, zehi ashi wo o-hakobi kudasai.*
 
-"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now — I would really recommend visiting."
+"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now, I would really recommend visiting."
 
 ---
 
@@ -56,9 +56,9 @@ Like cherry blossoms, koyo is **weather-dependent and changes daily.** The quest
 
 - A. Give a general answer and say the leaves are probably beautiful
 - B. Say the season is over to avoid disappointing them if conditions are poor
-- C. Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update — including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
+- C. Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update: including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
 - D. Refer the guest to a travel app without further assistance
 
-**Correct Answer:** Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update — including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
+**Correct Answer:** Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update: including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
 
-**Explanation:** Koyo conditions change daily, and a guest who misses the peak because of inaccurate information will feel let down. Professional hospitality requires accurate knowledge — and when you don't have it, the correct response is a brief check rather than a guess. Returning with specific, current information is far more valuable than an immediate but uncertain answer.
+**Explanation:** Koyo conditions change daily, and a guest who misses the peak because of inaccurate information will feel let down. Professional hospitality requires accurate knowledge: and when you don't have it, the correct response is a brief check rather than a guess. Returning with specific, current information is far more valuable than an immediate but uncertain answer.

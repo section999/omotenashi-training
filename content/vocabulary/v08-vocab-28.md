@@ -24,12 +24,12 @@ In practice, あちら側 is almost always paired with a pointing gesture or a p
 
 ## Related Expressions
 
-- **こちら側 (kochira gawa)** — "this side," used when the destination is near the speaker; the natural partner to あちら側 in spatial orientation dialogue
-- **そちら側 (sochira gawa)** — "that side near you," used to direct a guest toward something already close to them, completing the full three-part directional system
+- **こちら側 (kochira gawa)**: "this side," used when the destination is near the speaker; the natural partner to あちら側 in spatial orientation dialogue
+- **そちら側 (sochira gawa)**: "that side near you," used to direct a guest toward something already close to them, completing the full three-part directional system
 
 ## Common Mistakes
 
-Learners sometimes default to the casual あそこ (over there) when speaking to guests, which sounds too informal in a hotel setting and should be replaced with あちら or あちら側. Another frequent error is using あちら側 without any accompanying gesture or landmark, leaving guests uncertain about exactly which direction is meant — the word is spatially relative and depends on shared visual context to be effective. Be careful not to confuse あちら側 with 向こう側 (mukougawa, the other side), which implies crossing something like a road or wall, whereas あちら側 simply points to a more distant area within the same general space.
+Learners sometimes default to the casual あそこ (over there) when speaking to guests, which sounds too informal in a hotel setting and should be replaced with あちら or あちら側. Another frequent error is using あちら側 without any accompanying gesture or landmark, leaving guests uncertain about exactly which direction is meant: the word is spatially relative and depends on shared visual context to be effective. Be careful not to confuse あちら側 with 向こう側 (mukougawa, the other side), which implies crossing something like a road or wall, whereas あちら側 simply points to a more distant area within the same general space.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes default to the casual あそこ (over there) when speaking to
 
 **Correct Answer:** あちら側です (it is over there)
 
-**Explanation:** あちら側 (that side over there) — pointing while saying あちら側 is essential because the word alone is ambiguous without a gesture; in hotel service, physical guidance or a pointed hand always accompanies こちら/あちら.
+**Explanation:** あちら側 (that side over there): pointing while saying あちら側 is essential because the word alone is ambiguous without a gesture; in hotel service, physical guidance or a pointed hand always accompanies こちら/あちら.

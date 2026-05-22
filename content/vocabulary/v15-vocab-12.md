@@ -6,7 +6,7 @@ title: 受取 (uketori)
 
 受取 (uketori) refers to the act of physically receiving or picking up goods, parcels, laundry, or any item handed over through a formal process. In Japanese hospitality, the word carries an implicit sense of responsibility: the moment of 受取 is when accountability transfers from the sender or service provider to the recipient. Hotels routinely manage 受取 on behalf of guests who are out of their rooms, holding packages at the front desk until the guest is ready to collect them. This careful stewardship reflects the omotenashi principle of anticipating needs without being asked.
 
-In practice, hotel staff use 受取 when confirming that a courier delivery has arrived, when returning laundered items to a guest, or when handing over stored luggage. The process typically involves verifying a guest's name, room number, or claim ticket before releasing any item, ensuring that nothing is given to the wrong person. Staff will often say 「お受け取りの確認をさせていただきます」 to signal that a verification step is taking place. When guests come to collect their belongings, a smooth 受取 experience — with courteous acknowledgment and efficient handling — leaves a strong positive impression.
+In practice, hotel staff use 受取 when confirming that a courier delivery has arrived, when returning laundered items to a guest, or when handing over stored luggage. The process typically involves verifying a guest's name, room number, or claim ticket before releasing any item, ensuring that nothing is given to the wrong person. Staff will often say 「お受け取りの確認をさせていただきます」 to signal that a verification step is taking place. When guests come to collect their belongings, a smooth 受取 experience, with courteous acknowledgment and efficient handling, leaves a strong positive impression.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, hotel staff use 受取 when confirming that a courier delivery has 
 
 ## Related Expressions
 
-- **受け渡し (ukewatashi)** — the mutual exchange or handover of an item, emphasising the transfer between two parties rather than just the act of receiving
-- **お預かり (o-azukari)** — the act of the hotel or staff taking custody of an item on the guest's behalf, the complement to 受取 from the staff's perspective
+- **受け渡し (ukewatashi)**: the mutual exchange or handover of an item, emphasising the transfer between two parties rather than just the act of receiving
+- **お預かり (o-azukari)**: the act of the hotel or staff taking custody of an item on the guest's behalf, the complement to 受取 from the staff's perspective
 
 ## Common Mistakes
 
-Learners sometimes confuse 受取 with 受付 (uketsuke), which means "reception" or "check-in desk" rather than the act of receiving an item. Another common error is omitting the honorific prefix お before uketori when speaking to a guest — in keigo contexts, お受け取り is the expected polite form. Using the plain noun alone in guest-facing speech can sound abrupt and out of place in a hotel environment.
+Learners sometimes confuse 受取 with 受付 (uketsuke), which means "reception" or "check-in desk" rather than the act of receiving an item. Another common error is omitting the honorific prefix お before uketori when speaking to a guest: in keigo contexts, お受け取り is the expected polite form. Using the plain noun alone in guest-facing speech can sound abrupt and out of place in a hotel environment.
 
 ---
 
@@ -41,4 +41,4 @@ Learners sometimes confuse 受取 with 受付 (uketsuke), which means "reception
 
 **Answer:** 受取
 
-**Explanation:** 受取 (uketori) means pickup or receipt — the act of receiving goods, parcels, or laundry with verification.
+**Explanation:** 受取 (uketori) means pickup or receipt: the act of receiving goods, parcels, or laundry with verification.

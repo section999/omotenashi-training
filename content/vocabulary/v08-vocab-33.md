@@ -4,9 +4,12 @@ section: 33
 title: フロアマップ (furoamappu)
 ---
 
-フロアマップ is a loanword from English ("floor map") that has become standard terminology in Japanese hotel and commercial facility management. It refers to a visual diagram — either printed on paper, posted on a wall, or displayed digitally on a screen — showing the arrangement of rooms, facilities, and services on a given floor or across multiple floors. Unlike 案内図 (annaizu), which tends to cover the entire facility or complex, フロアマップ is specifically focused on floor-by-floor spatial layout, making it the most practical tool for guests trying to locate their room, a specific meeting space, or an amenity relative to where they currently stand. In large hotels, フロアマップ boards are placed at elevator landings on every floor precisely for this purpose.
+**Pronunciation:** [fu-ro-a-**map**-pu]
+**Register:** Neutral to Formal, navigation assistance, concierge and front desk interactions
 
-The act of offering a フロアマップ proactively — before a guest even asks — is a recognized expression of kikubari (attentive care). Skilled hotel staff notice when a guest is studying a hallway or looking uncertain, and immediately approach with こちらがフロアマップでございます. The map is often handed with both hands, a subtle but meaningful gesture in Japanese hospitality. In multilingual hotel environments, フロアマップ is typically printed in Japanese, English, Chinese, and Korean, and staff should be prepared to briefly orient the guest to the map — pointing out their current location, the destination, and any key landmarks in between.
+フロアマップ is the standard Japanese term for a floor map: the visual diagram showing the layout of rooms, facilities, and services on a specific floor. You will find them printed on paper, posted at elevator landings, and displayed digitally at lobby kiosks in larger hotels. The key thing to understand about フロアマップ versus 案内図 (annaizu, a general facility overview) is that フロアマップ is floor-specific. A guest trying to find their room or a meeting space on the third floor wants the third-floor フロアマップ, not a wide-angle view of the entire complex.
+
+Offering a フロアマップ proactively is a recognized expression of kikubari. Students often wait for a guest to ask for directions before reaching for the map, but the better instinct is to notice when someone is studying a hallway or pausing near a sign, and approach them first with こちらがフロアマップでございます. The map should always be handed with both hands, a small but meaningful gesture in Japanese hospitality. One more thing that makes a real difference: do not just hand the map and walk away. Always point to the guest's current location first, then show where they are heading, and mention any key landmarks in between. A map handed without that orientation is only half as useful.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The act of offering a フロアマップ proactively — before a guest even ask
 
 ## Related Expressions
 
-- **案内図 (annaizu)** — "guide map," a broader facility overview map often covering the entire hotel or complex rather than a single floor; フロアマップ is more floor-specific and navigationally precise
-- **案内板 (annaiban)** — "information board," a fixed wall display showing directions and facility information; complements the フロアマップ as a static navigational resource at key locations
+- **案内図 (annaizu)**: A guide map covering the full facility or complex, rather than a single floor. Think of 案内図 as the bird's-eye view and フロアマップ as the street-level detail. Both serve guests well, but in different situations.
+- **案内板 (annaiban)**: A fixed information board mounted on a wall, showing directions and facility information. It complements the フロアマップ as a static navigation resource at high-traffic points like elevator lobbies and corridor junctions.
 
 ## Common Mistakes
 
-A common error among learners is using フロアマップ and 案内図 interchangeably, when in fact フロアマップ specifically refers to a floor plan layout while 案内図 is a more general guide map. Another mistake is handing the フロアマップ without orienting the guest to it — always point to the guest's current location on the map first, or the map loses much of its value. In formal speech, say こちらがフロアマップでございます rather than これがフロアマップです, and use both hands when passing the map as a sign of respect.
+The most common mix-up is treating フロアマップ and 案内図 as the same thing. They are not. フロアマップ is floor-specific and focused on spatial layout; 案内図 is a broader facility overview. Using the wrong term in conversation with a colleague or when explaining to a guest where to look is a small but avoidable confusion. In practice, the bigger service error is handing a フロアマップ without orienting the guest to it. If you just pass the map across the counter without pointing out where they are standing right now, the map loses most of its value. Always start with 現在地はこちらでございます (your current location is here). And when presenting the map formally, say こちらがフロアマップでございます and hold it facing the guest.
 
 ---
 
@@ -45,4 +48,4 @@ A common error among learners is using フロアマップ and 案内図 intercha
 
 **Correct Answer:** フロアマップ (floor map)
 
-**Explanation:** フロアマップ (floor map) is placed at high-traffic points like elevators or stairwells — proactively offering こちらがフロアマップでございます when a guest looks uncertain is a simple but powerful act of kikubari.
+**Explanation:** フロアマップ (floor map) is placed at high-traffic points like elevators or stairwells: proactively offering こちらがフロアマップでございます when a guest looks uncertain is a simple but powerful act of kikubari.

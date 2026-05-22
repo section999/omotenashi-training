@@ -4,9 +4,12 @@ section: 26
 title: 道案内 (michi annai)
 ---
 
-道案内 combines 道 (michi, road/path) and 案内 (annai, guidance), literally meaning "road guidance" or directions. In the hospitality context, providing accurate and friendly 道案内 is one of the most frequent and valued services that hotel staff and tourism workers offer to guests, particularly international visitors unfamiliar with Japan's address system and train network. Japan's cities can be difficult to navigate because street names are rare and addresses are organised by block rather than by street, making verbal or written guidance especially important. A staff member skilled at 道案内 is genuinely valuable and reflects well on the establishment.
+**Pronunciation:** [mi-chi **an**-nai]
+**Register:** Neutral/Formal, natural in both everyday and professional contexts
 
-When providing 道案内, hospitality professionals typically offer multiple reference points — landmarks, station exits, convenience stores — rather than relying solely on distance or compass directions, which many guests find abstract. It is considered excellent service to draw a simple map or write down key station names in both Japanese and romaji for foreign guests. The phrase 「ご案内いたします」 (go-annai itashimasu — I will guide you) can signal that a staff member is willing to escort a guest in person to a destination, which represents the highest level of 道案内 service. Digital tools such as Google Maps are often shared with guests on the hotel's tablet or printed as supplementary material.
+道案内 combines 道 (michi, road or path) and 案内 (annai, guidance), and it means exactly what it sounds like: directions, or the act of guiding someone along a route. In the hospitality world, giving accurate and friendly 道案内 is one of the most frequent service moments you will encounter, especially with international guests who are completely unfamiliar with Japan's address system. Japan's cities can be genuinely hard to navigate because street names are rare and addresses are organised by city block rather than by street, so verbal or written guidance from a real person carries far more weight than in most other countries. A staff member who gives great 道案内 is remembered.
+
+When giving 道案内, the most effective approach is to anchor directions to landmarks rather than compass points or distances alone. Pointing someone north when they do not know which way is north does not help anyone. Use the convenience store on the corner, the red torii gate, the big department store, these are the reference points guests can actually see and follow. Students often underestimate how much a hand-drawn map or a note with station names in both Japanese and romaji can mean to a foreign guest. That small extra step turns a transaction into genuine hospitality. In practice, if the destination is close enough, offering 「ご案内いたします」 and walking the guest there personally represents the highest form of this service.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When providing 道案内, hospitality professionals typically offer multiple ref
 
 ## Related Expressions
 
-- **案内 (annai)** — guidance or information in general; a broader term used for hotel tours, facility introductions, and any form of assistance, of which 道案内 is the navigation-specific subset
-- **地図 (chizu)** — map; the physical or digital tool most commonly provided alongside 道案内 to help guests visualise their route and navigate independently
+- **案内 (annai)**: guidance or information in a broad sense; used for hotel tours, facility introductions, or any form of assistance, while 道案内 is the navigation-specific subset of this larger concept
+- **地図 (chizu)**: map; the physical or digital tool most commonly offered alongside 道案内 to help guests see their route and move around independently
 
 ## Common Mistakes
 
-Learners sometimes use 案内 alone when 道案内 is the more precise term for giving navigation directions — though 案内 is understood, specifying 道案内 communicates more clearly that you are discussing routes and wayfinding. Another common error is giving directions in terms of compass points (north, south) without providing landmark references, which is unhelpful to most guests in an unfamiliar city. When offering to help a guest, always use the humble form 「ご案内させていただきます」 rather than the plainer 「案内します」 to maintain the appropriate level of hospitality register.
+Students sometimes use 案内 when 道案内 is the more precise term for navigation and wayfinding. Both are understood, but 道案内 tells the listener clearly that you are talking about routes rather than general information or introductions. That said, the bigger practical error is giving directions using compass directions without any landmark references, which leaves most guests lost and confused in an unfamiliar city. When offering to help, always use the humble form 「ご案内させていただきます」 rather than the plain 「案内します」. One more thing: the difference in register here is not trivial. In a hotel setting, 「案内します」 can come across as blunt, while 「ご案内させていただきます」 signals that you are genuinely there to serve.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes use 案内 alone when 道案内 is the more precise term for 
 
 **Answer:** 道案内
 
-**Explanation:** 道案内 (michi annai) means directions — instructions given to help someone navigate to a destination.
+**Explanation:** 道案内 (michi annai) means directions: instructions given to help someone navigate to a destination.

@@ -4,9 +4,12 @@ section: 21
 title: 作業 (sagyou)
 ---
 
-作業 refers to a specific task, piece of work, or operation — a defined activity with a clear start and end point. While 業務 describes the full scope of a staff member's official duties, 作業 zooms in on individual actions within that scope. In a hotel setting, 作業 might refer to arranging amenities in a guest room, restocking a minibar, cleaning a banquet hall after an event, or setting up audiovisual equipment for a conference. The word conveys practicality and precision — 作業 is something that can be planned, assigned, tracked, and completed. Using checklists to manage 作業 is common in housekeeping and engineering departments.
+**Pronunciation:** [sa-**gyo**-u]
+**Register:** Neutral/Formal -- used internally among staff; avoid using directly with guests
 
-In Japanese hospitality, even routine 作業 are performed with attention to detail and care, reflecting omotenashi values. A room attendant turning down a bed or placing a towel in an origami fold is performing 作業, but the spirit behind it is guest care. Supervisors often use 作業確認 (sagyou kakunin — task verification) to ensure that all assigned 作業 have been completed to standard before a guest arrives or an event begins. The concept of 作業手順 (sagyou tejun — task procedure) ensures that each 作業 is carried out consistently across all staff.
+作業 refers to a specific, defined task -- something with a clear start point, a set of steps, and an end point you can tick off. While 業務 describes the full scope of someone's job, 作業 zooms in on individual actions within that job. Setting up amenities in a guest room, restocking a minibar, clearing a banquet hall after an event, installing audiovisual equipment for a conference -- these are all 作業. The word carries a sense of precision and practicality. Students often find it helpful to think of 作業 as something that can be assigned to a specific person, tracked on a checklist, and marked complete. That is exactly how it is used in housekeeping and engineering departments every day.
+
+Even routine 作業 are treated with care and attention in Japanese hospitality. A room attendant who folds a towel into an origami shape is doing 作業, but the spirit behind it is genuine guest care. That combination of technical precision and warm intention is what omotenashi is all about. Supervisors use 作業確認 (sagyou kakunin, task verification) to check that every 作業 has been done to standard before a guest arrives or an event starts. The 作業手順 (sagyou tejun, task procedure) ensures that each piece of work is carried out consistently, regardless of which staff member is on duty.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In Japanese hospitality, even routine 作業 are performed with attention to det
 
 ## Related Expressions
 
-- **業務 (gyoumu)** — the broader category of all assigned duties, within which individual 作業 are performed
-- **作業手順 (sagyou tejun)** — the step-by-step procedure for carrying out a specific 作業, essential for maintaining consistency and quality in hotel operations
+- **業務 (gyoumu)**: the broader category of all assigned duties; 作業 are the individual pieces of work that sit within that larger scope
+- **作業手順 (sagyou tejun)**: the step-by-step procedure for carrying out a specific 作業, which keeps quality consistent no matter who performs the task
 
 ## Common Mistakes
 
-A common mistake is using 作業 in guest-facing situations, as it can sound mechanical or impersonal. When speaking to guests, it is better to use softer expressions such as 準備しております (junbi shite orimasu — "we are preparing") rather than saying 作業中です (sagyou-chuu desu — "we are in the middle of a task"). Another error is confusing 作業 with 業務 — always remember that 作業 is one discrete piece of work, not the overall job function.
+One mistake that comes up often is using 作業 when speaking directly to guests. Saying 作業中です (sagyou-chuu desu: "we are in the middle of a task") to a guest can sound mechanical and impersonal, as if they are an interruption to your workflow. A softer alternative like 準備しております (junbi shite orimasu: "we are preparing") reads as much more guest-oriented. Worth noting also is the 業務 versus 作業 distinction: 業務 is your overall job function, and 作業 is one concrete piece of work within it. Mixing them up in writing or formal speech will signal to a native reader that something is slightly off.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is using 作業 in guest-facing situations, as it can sound mec
 
 **Correct Answer:** 作業 (work / task)
 
-**Explanation:** 作業 (sagyou) means task or work — a specific piece of work. 業務 = all assigned duties (broader), 勤務 = working duty/period, 指導 = guidance.
+**Explanation:** 作業 (sagyou) means task or work: a specific piece of work. 業務 = all assigned duties (broader), 勤務 = working duty/period, 指導 = guidance.

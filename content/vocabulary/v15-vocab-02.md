@@ -4,9 +4,12 @@ section: 2
 title: 洗濯 (sentaku)
 ---
 
-洗濯 is the core Japanese term for the act of washing clothes or other fabrics, whether by hand or machine. In Japanese hospitality, understanding 洗濯 is essential because guests frequently ask about washing facilities, and staff must be able to guide them to the appropriate service — whether a coin laundry room, a valet service, or nearby laundromat. The word carries a practical, domestic nuance that distinguishes it from the more commercial-sounding ランドリー. For longer-stay guests at business hotels or guesthouses, 洗濯 is often a daily necessity that directly affects their comfort.
+**Pronunciation:** [**sen**-ta-ku]
+**Register:** Neutral, everyday word used in domestic and service contexts alike
 
-When explaining 洗濯 options to guests, staff should mention whether a washing machine is available in the room or a shared laundry space, what the operating hours are, and whether detergent is provided. In ryokan settings, guests may not have direct access to 洗濯 machines, so staff should proactively offer the in-house laundry service. Phrasing requests and instructions politely using keigo ensures guests feel well cared for.
+洗濯 is the core Japanese term for washing clothes or other fabrics, by hand or by machine. In hospitality, you hear it whenever guests ask about laundry facilities, and being ready with a clear answer is part of the job. The word has a practical, domestic quality that sets it apart from the more commercial-sounding ランドリー. For guests staying several nights at a business hotel or guesthouse, 洗濯 is often a daily concern that directly affects how comfortable they feel throughout their trip.
+
+When explaining 洗濯 options, cover the essentials: whether there is a machine in the room or a shared laundry space, operating hours, and whether detergent is provided. In ryokan settings, guests usually have no direct access to washing machines, so it is worth proactively mentioning the in-house laundry service before they have to ask. Students often find that offering this information unprompted is one of those small gestures that guests genuinely appreciate. Always use polite keigo when discussing laundry requests so that the service feels attentive rather than transactional.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When explaining 洗濯 options to guests, staff should mention whether a washing
 
 ## Related Expressions
 
-- **ランドリー (randorii)** — a loanword emphasising a commercial laundry facility or hotel service, rather than the personal act of washing.
-- **クリーニング (kuriiningu)** — professional dry cleaning using chemical solvents; used for items that cannot undergo water-based 洗濯.
+- **ランドリー (randorii)**: a loanword that emphasises a commercial laundry facility or hotel service, rather than the personal act of washing at home.
+- **クリーニング (kuriiningu)**: professional dry cleaning using chemical solvents, used when water-based 洗濯 would damage the fabric.
 
 ## Common Mistakes
 
-A common error is using 洗濯 when referring to dry cleaning — 洗濯 implies water-based washing only, so using it for suits or silk garments could cause confusion or damage. Learners also sometimes say 洗濯をしてください to a guest, which can sound too direct or commanding; the polite form 洗濯のご依頼を承ります is far more appropriate in a service context. Be careful not to confuse 洗濯 (washing clothes) with 洗浄 (senjou), which refers to cleaning equipment or surfaces.
+A common mistake is using 洗濯 when a guest needs dry cleaning. 洗濯 means water-based washing only, so applying it to suits or silk garments can create confusion and potential damage. Always check the care label before advising. Students also sometimes say 洗濯をしてください to a guest, which sounds commanding and too casual for a service setting. The polite form 洗濯のご依頼を承ります is far more appropriate. One more thing to keep straight: 洗濯 (washing clothes) and 洗浄 (senjou, cleaning equipment or surfaces) are different words with different uses, so be careful not to mix them up.
 
 ---
 
@@ -41,4 +44,4 @@ A common error is using 洗濯 when referring to dry cleaning — 洗濯 implies
 
 **Answer:** 洗濯
 
-**Explanation:** 洗濯 (sentaku) means washing — the process of cleaning clothes or fabrics by hand or machine.
+**Explanation:** 洗濯 (sentaku) means washing: the process of cleaning clothes or fabrics by hand or machine.

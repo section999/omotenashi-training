@@ -4,11 +4,11 @@ section: 2
 title: おはようございます (ohayou gozaimasu)
 ---
 
-**おはようございます** is the standard morning greeting in Japanese, used from the time of waking until approximately 10:00–11:00 AM, depending on context. In hospitality, it is the first phrase a guest may hear on any given morning — at breakfast, in the corridor, at the front desk — and the quality of its delivery sets the emotional tone for their entire day. A warm, attentive *ohayō gozaimasu* tells the guest that the staff are present and ready; a mumbled one says the opposite.
+**おはようございます** is the standard morning greeting in Japanese, used from waking until roughly 10:00 or 11:00 AM depending on the setting. In hospitality, it is often the very first phrase a guest hears on any given day. Whether you deliver it at the breakfast buffet, in the corridor, or at the front desk, the quality of that moment shapes their entire morning. A warm, clear *ohayō gozaimasu* tells the guest that staff are present and ready. A mumbled one says the opposite.
 
-The phrase has an interesting origin. It derives from *hayai* (早い), meaning "early" — the full original sense was something like "you are out early (and I respect that)." This historical root gives the greeting an underlying warmth: to say *ohayō gozaimasu* is, in a sense, to acknowledge and honour the other person's presence and effort. Worth holding onto when you deliver it each morning.
+Worth noting: the phrase has a genuine historical warmth built into it. It derives from *hayai* (早い), meaning "early." The original sense was something like "you are out early, and I respect that." So when you say it, you are in a small way acknowledging the other person's presence and effort. That might sound abstract, but try holding that thought when you deliver it each morning. It tends to make the greeting feel more alive.
 
-In hotel settings, pay attention to time boundaries. Using a morning greeting in the afternoon — even by accident — signals inattentiveness. Equally, greeting with *konnichiwa* a guest who has clearly just woken up and come down to breakfast feels misaligned. Read the guest's state and use the greeting that fits the moment.
+In hotel settings, pay close attention to the time boundary. Using a morning greeting in the afternoon, even by accident, signals inattentiveness to the guest. And greeting with *konnichiwa* a guest who has just woken up and come down to breakfast at 9 AM feels off. Read the guest's state and the clock, and use the greeting that fits the actual moment.
 
 ## Example Sentences
 
@@ -26,12 +26,12 @@ In hotel settings, pay attention to time boundaries. Using a morning greeting in
 
 ## Related Expressions
 
-- **こんにちは (konnichiwa)**: Daytime greeting (approximately 11 AM – 6 PM). Transitions naturally from *ohayō gozaimasu* as the morning progresses.
-- **おやすみなさい (oyasumi nasai)**: Good night. The complementary evening farewell when guests are heading to bed.
+- **こんにちは (konnichiwa)**: Daytime greeting (approximately 11 AM to 6 PM). The natural transition from *ohayō gozaimasu* as the morning moves forward.
+- **おやすみなさい (oyasumi nasai)**: Good night. The complementary farewell for when guests are heading to bed in the evening.
 
 ## Common Mistakes
 
-Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the most common error. It sounds overly familiar with guests and peers you don't know well — the difference in register is noticeable. Also avoid using *ohayō gozaimasu* past late morning; the time window genuinely matters in Japanese social culture. If you are unsure whether it is still morning for a particular guest — say, a late sleeper appearing at noon — default to *konnichiwa* rather than risk the mismatch.
+Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the most common slip. It sounds overly familiar with guests and with colleagues you do not know well, and the difference in register is noticeable even to guests who speak very little Japanese. Students often keep the casual version in their head because that is how they first learned it, so make a point of drilling the full form until it comes out naturally. Also avoid using *ohayō gozaimasu* past late morning. If you are genuinely uncertain whether it is still morning for a particular guest, say a late sleeper coming down just before noon, default to *konnichiwa* rather than risk the mismatch.
 
 ---
 
@@ -41,7 +41,7 @@ Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the
 
 - A. こんにちは。(Good afternoon.)
 - B. おはようございます。(Good morning.)
-- C. おはよう。(Morning — casual)
+- C. おはよう。(Morning: casual)
 - D. こんばんは。(Good evening.)
 
 **Correct Answer:** おはようございます。(Good morning.)

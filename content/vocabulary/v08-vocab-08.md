@@ -4,9 +4,12 @@ section: 8
 title: 一階 (ikkai)
 ---
 
-一階 (ikkai) means "the first floor" and corresponds to ground level in the Japanese floor-numbering system — equivalent to the ground floor (G) in British convention or the first floor (1F) in American convention. In Japanese hotels and commercial buildings, 一階 is always street level, making it the reference point from which all other floors are counted upward (二階、三階...) and downward (地下一階...). The lobby, front desk, concierge, main restaurant, and primary amenities are almost universally located on the 一階 in Japanese hospitality venues, so this word appears constantly in guest conversations from check-in through check-out.
+**Pronunciation:** [**ik**-kai] (not ichi-kai)
+**Register:** Formal, 一階にございます is standard hotel locating language
 
-Staff should note that the pronunciation 一階 is ikkai — not ichi-kai — as this is one of the irregular counters that learners must memorize. When guests arrive confused about which floor they are on, confirming こちらが一階でございます reassures them and provides an orientation anchor for the rest of the facility. Pairing 一階 with the access method (エレベーターのB/1Fボタン or 正面玄関をご利用ください) completes the guidance.
+一階 means "the first floor" and corresponds to ground level in the Japanese floor-numbering system, equivalent to the ground floor (G) in British convention or the first floor (1F) in American convention. In Japanese hotels and commercial buildings, 一階 is always street level, and it is the reference point from which all other floors are counted upward (二階、三階...) and downward (地下一階...). The lobby, front desk, concierge, main restaurant, and primary amenities are almost universally located on the 一階 in Japanese hospitality venues, which means this word appears in guest conversations constantly from check-in through check-out.
+
+The pronunciation is ikkai, not ichi-kai, and this is one of those irregular counters that must be memorised outright. When guests arrive confused about which floor they are standing on, confirming こちらが一階でございます gives them a clear orientation anchor for the rest of the property. In practice, pairing 一階 with the access method (エレベーターのB/1Fボタン or 正面玄関をご利用ください) always makes the guidance feel complete rather than half-finished.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff should note that the pronunciation 一階 is ikkai — not ichi-kai — as
 
 ## Related Expressions
 
-- **グラウンドフロア (guraundo furoa)** — "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps avoid confusion with guests from countries where "first floor" means one level above ground
-- **正面玄関 (shoumen genkan)** — "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests from outside the building
+- **グラウンドフロア (guraundo furoa)**: "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps prevent confusion with guests from countries where "first floor" means one level above ground
+- **正面玄関 (shoumen genkan)**: "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests who are approaching from outside the building
 
 ## Common Mistakes
 
-A persistent error for learners is pronouncing 一階 as ichi-kai instead of the correct ikkai — this pronunciation mistake immediately stands out to Japanese guests. International guests sometimes misunderstand 一階 as the floor above ground (as "first floor" means in some countries), so staff should be prepared to clarify with こちらが地上階でございます if needed. Using 一階です rather than 一階にございます is also a register shortfall in formal hospitality contexts.
+A persistent error for learners is pronouncing 一階 as ichi-kai rather than ikkai. This stands out immediately to Japanese guests and undermines confidence in your fluency, so practise it until it sounds natural. Students often deserve more credit for getting the concept right while the pronunciation trips them up, but in a professional setting, pronunciation matters. Worth noting is that international guests sometimes misunderstand 一階 as the floor above ground, since "first floor" in many European countries means exactly that. Be ready to clarify with こちらが地上階でございます if a guest looks confused. Using 一階です rather than 一階にございます is also a register shortfall worth correcting in formal hospitality contexts.
 
 ---
 
@@ -44,4 +47,4 @@ A persistent error for learners is pronouncing 一階 as ichi-kai instead of the
 
 **Correct Answer:** 一階にございます (it is on the first floor)
 
-**Explanation:** 一階 (first floor / ground level) is where the front desk and lobby are most commonly located — confirming with にございます rather than just 一階です adds the expected level of formality.
+**Explanation:** 一階 (first floor / ground level) is where the front desk and lobby are most commonly located: confirming with にございます rather than just 一階です adds the expected level of formality.

@@ -4,9 +4,9 @@ section: 8
 title: 補充 (hojuu)
 ---
 
-補充 means replenishment or restocking and refers to the act of refilling or replacing consumable items in a guest room or facility. In the hotel and ryokan context, 補充 is performed every time a room is serviced and covers a wide range of items: toiletries such as shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The thoroughness and anticipation behind 補充 is a direct expression of omotenashi — ideally, a guest should never notice that an item is running low, because it has already been refilled before the shortage becomes apparent.
+補充 means replenishment or restocking: refilling or replacing consumable items in a guest room or facility. In the hotel context, 補充 happens every time a room is serviced, covering toiletries like shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The ideal is that a guest never notices an item running low because it has already been topped up before they reach for it. That kind of unobtrusive attentiveness is exactly what housekeeping 補充 is meant to achieve.
 
-In daily operations, housekeeping staff use printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests that a particular item be replenished — for instance, asking for more green tea packets or an extra roll of toilet paper — staff should respond with immediate confirmation and follow through without delay. Clear internal communication about 補充 status also helps prevent the embarrassment of a guest discovering an empty dispenser or depleted supply.
+In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In daily operations, housekeeping staff use printed checklists to track which it
 
 ## Related Expressions
 
-- **交換 (koukan)** — Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted.
-- **在庫確認 (zaiko kakunin)** — Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management.
+- **交換 (koukan)**: Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted.
+- **在庫確認 (zaiko kakunin)**: Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management.
 
 ## Common Mistakes
 
-Learners often confuse 補充 with 交換 — 補充 is about refilling or restocking a consumable, while 交換 means replacing one item with another (e.g., replacing a dirty towel with a clean one). Another mistake is skipping 補充 when an item appears mostly full, when hotel standards may require topping it up to full regardless. In guest-facing communication, avoid using the bare word 補充 alone; always connect it to the specific item being restocked for clarity.
+Students often mix up 補充 and 交換. The distinction is straightforward once you think about it: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full, when hotel standards often require topping it up to full regardless of the current level. When speaking to guests, avoid using the bare word 補充 alone: always specify which item you are restocking so there is no ambiguity.
 
 ---
 
@@ -45,5 +45,5 @@ Learners often confuse 補充 with 交換 — 補充 is about refilling or resto
 
 **Correct Answer:** 補充 (replenishment / refill)
 
-**Explanation:** 補充 means refilling or restocking — it applies to toiletries, minibar, and any consumables that must be topped up during a guest's stay.
+**Explanation:** 補充 means refilling or restocking: it applies to toiletries, minibar, and any consumables that must be topped up during a guest's stay.
 

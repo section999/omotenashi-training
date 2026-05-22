@@ -4,9 +4,9 @@ section: 34
 title: 電子決済 (denshi kessai)
 ---
 
-電子決済 combines 電子 (denshi), meaning "electronic," and 決済 (kessai), meaning "settlement" or "payment." It is an umbrella term for all forms of cashless payment conducted through digital means, including credit and debit cards, smartphone apps such as PayPay and LINE Pay, IC cards such as Suica and PASMO, and contactless systems such as Apple Pay and Google Pay. The rapid adoption of 電子決済 in Japan has been accelerated by government initiatives promoting cashless transactions, and hospitality venues are expected to accommodate a wide range of payment methods to serve both domestic guests and international visitors. Staff who can confidently guide guests through 電子決済 options demonstrate modern service proficiency.
+電子決済 breaks down to 電子 (electronic) and 決済 (settlement or payment), and it covers all cashless payment done through digital means: smartphone apps like PayPay and LINE Pay, IC cards like Suica and PASMO, and contactless systems like Apple Pay and Google Pay. Japan's government has been actively pushing cashless adoption, so guests now expect to pay however is most convenient for them. Staff who can smoothly guide someone through these options leave a much stronger impression than those who shrug and say "cash only."
 
-In hotels, restaurants, and ryokan, staff should be familiar with which 電子決済 methods are accepted at their property and be able to direct guests to the correct terminal or QR code for their preferred payment app. When a 電子決済 transaction is initiated, staff should confirm that the displayed amount matches the bill before the guest completes the payment, and should always wait for a 決済完了 (payment complete) notification on the property's terminal before releasing the guest or goods. Technical failures with 電子決済 require calm, professional handling — always offer an alternative payment method rather than leaving the guest in an awkward situation.
+In practice, you need to know which 電子決済 methods your property accepts and where the correct terminal or QR code is for each one. When a transaction starts, confirm that the amount shown matches the bill before the guest confirms on their end, and always wait for the 決済完了 (payment complete) signal on your own terminal before you let the guest go. That said, systems do occasionally fail, so have a backup plan ready and offer alternatives calmly without making the situation feel like the guest's problem.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In hotels, restaurants, and ryokan, staff should be familiar with which 電子�
 
 ## Related Expressions
 
-- **QRコード (kyūāru kōdo)** — QR code; the most common interface for 電子決済 app-based payments in Japan
-- **現金払い (genkin barai)** — cash payment; the traditional alternative to 電子決済, still widely used and accepted in Japan
+- **QRコード (kyūāru kōdo)**: QR code; the most common interface for 電子決済 app-based payments in Japan, so knowing how to present one clearly is a basic front-desk skill
+- **現金払い (genkin barai)**: cash payment; the traditional alternative to 電子決済, still widely used across Japan and should always be offered as a fallback
 
 ## Common Mistakes
 
-A common mistake is assuming all guests are familiar with 電子決済 procedures in Japan, when in fact many international visitors use different apps or systems from their home country. Learners also sometimes forget to confirm 決済完了 before proceeding, which can result in unpaid transactions. Staff should also avoid pressing the guest to use a specific 電子決済 method — always present options and let the guest choose.
+One more thing to watch out for: assuming every guest already knows how 電子決済 works in Japan. Many international visitors use completely different apps or systems back home, so be ready to walk someone through the process from scratch. Students often also forget to wait for the 決済完了 confirmation before concluding the transaction, which can leave a payment uncollected. And never steer a guest toward one specific payment method; present the options available and let them choose.
 
 ---
 
@@ -44,5 +44,5 @@ A common mistake is assuming all guests are familiar with 電子決済 procedure
 
 **Correct Answer:** 電子決済 (electronic payment)
 
-**Explanation:** 電子決済 (PayPay, LINE Pay, Apple Pay, etc.) is increasingly expected — knowing which 電子決済 brands the hotel accepts and being able to guide guests to the correct QR code or terminal is now a standard front desk skill in Japanese hospitality.
+**Explanation:** 電子決済 (PayPay, LINE Pay, Apple Pay, etc.) is increasingly expected: knowing which 電子決済 brands the hotel accepts and being able to guide guests to the correct QR code or terminal is now a standard front desk skill in Japanese hospitality.
 

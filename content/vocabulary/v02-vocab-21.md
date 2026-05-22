@@ -4,9 +4,12 @@ section: 21
 title: 変更 (henkou)
 ---
 
-変更 means "change" or "modification" in the sense of an official alteration to an existing arrangement, plan, or reservation. In hotel settings, guests frequently request 変更 to adjust their check-in or check-out dates, room type, number of guests, or special requests. Unlike キャンセル (cancellation), 変更 preserves the original booking relationship while updating its details. Staff should always respond to change requests with a cooperative and accommodating attitude, checking availability before confirming or offering alternatives.
+**Pronunciation:** [hen-**kou**]
+**Register:** Formal/Neutral, standard service contexts
 
-When handling a 変更 request, the typical staff workflow begins with acknowledging the request (ご変更のご希望でございますね), checking the system for availability, and then either confirming the change or politely explaining limitations (ご希望のお部屋は満室でございますが、〇〇タイプはご用意できます). If a change incurs an additional charge — such as upgrading a room type mid-stay — this must be clearly communicated. Confirming all modifications with a summary statement such as 変更内容をご確認いただけますか ensures accuracy and prevents misunderstandings.
+変更 means "change" or "modification" in the sense of an officially altering an existing arrangement, plan, or reservation. Guests request it all the time: tweaking check-in or check-out dates, switching room types, adjusting the number of guests, or adding a special request they forgot at booking. Worth noting is that 変更 keeps the original booking alive while updating its details, which makes it fundamentally different from a full cancellation. When a guest says they want a 変更, they still want to stay with you.
+
+In practice, the workflow is fairly consistent: acknowledge the request warmly, check the system, then either confirm the change or offer an alternative. The opener ご変更のご希望でございますね tells the guest you understood and are on it. If a room upgrade or other change comes with an added charge, say so clearly and politely before making the modification. Closing with 変更内容をご確認いただけますか wraps the interaction neatly and prevents the kind of misunderstanding that causes problems at check-out.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When handling a 変更 request, the typical staff workflow begins with acknowled
 
 ## Related Expressions
 
-- **キャンセル (kyanseru)** — cancellation, which is a more definitive action than 変更. While 変更 modifies an existing reservation, キャンセル ends it entirely. Staff should clarify which the guest intends, as the two have different fee implications and procedural steps.
-- **修正 (shūsei)** — correction or revision, often used in written or back-office contexts when fixing an error in a booking record. Unlike 変更, which implies the guest chose to alter something, 修正 typically refers to correcting a mistake made by staff or a booking system.
+- **キャンセル (kyanseru)**: cancellation, which ends a reservation entirely rather than adjusting it. Students often treat these as interchangeable, but they carry different fee implications and require different procedural steps, so clarify which the guest actually wants before doing anything.
+- **修正 (shūsei)**: correction or revision, typically used in back-office contexts when fixing a clerical error in a booking record. Unlike 変更, which reflects a guest's deliberate choice to alter something, 修正 is about fixing a mistake that already exists.
 
 ## Common Mistakes
 
-A common mistake is saying 変更できません without first exploring alternatives — in hospitality, a flat refusal is almost never appropriate; instead, staff should offer what is available. Learners sometimes confuse 変更 with 交換 (kōkan, exchange or swap), which usually refers to exchanging physical items rather than modifying a reservation. Another error is confirming a 変更 verbally without logging it in the reservation system, which can lead to discrepancies between what was promised and what is recorded.
+One of the most common errors new staff make is saying 変更できません and leaving it there. In hospitality, a flat "no" by itself is almost never the right response. Students often forget to check what alternatives exist before responding to a change request. If the exact change isn't possible, offer the closest option you have. Another thing to watch: confusing 変更 with 交換 (kōkan), which is about exchanging physical items, not modifying a reservation. One more thing that trips people up is confirming a 変更 verbally but not logging it in the system. What gets said at the desk and what the system shows must always match.
 
 ---
 
@@ -45,4 +48,4 @@ A common mistake is saying 変更できません without first exploring alterna
 
 **Correct Answer:** 可能 (possible)
 
-**Explanation:** 可能 (kanō) means "possible" — ご予約の変更は可能でございます is the polite and clear way to confirm that a modification can be made.
+**Explanation:** 可能 (kanō) means "possible": ご予約の変更は可能でございます is the polite and clear way to confirm that a modification can be made.

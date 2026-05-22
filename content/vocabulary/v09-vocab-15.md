@@ -4,9 +4,9 @@ section: 15
 title: 特典 (tokuten)
 ---
 
-特典 (tokuten) refers to a bonus or perk that is included in a booking plan, such as complimentary breakfast, spa access, airport transfer, welcome drinks, or late check-out. In Japanese hospitality, 特典 plays a strategic role: guests frequently choose one plan over another specifically because of its 特典, and staff who can articulate these benefits clearly and enthusiastically help guests feel they have made a rewarding choice. Knowing this word is essential for any staff member involved in reservations, check-in, or plan recommendations.
+特典 is the word for a perk or bonus that comes built into a booking plan: things like complimentary breakfast, spa access, an airport transfer, welcome drinks, or late checkout. Guests often choose between plans specifically because of what the 特典 are, so staff who can talk about them clearly and warmly are doing real sales and service work at the same time. If you work in reservations, check-in, or plan recommendations, this word will come up constantly.
 
-In practical hotel communication, 特典 appears when describing plan contents during booking inquiries, at check-in when confirming what a guest is entitled to, and in promotional materials. A well-trained staff member proactively volunteers 特典 information — for example, このプランの特典として、ご到着時にウェルカムドリンクをご用意しております — so the guest discovers the benefit as a pleasant surprise rather than having to ask. Failing to mention 特典 can lead guests to feel they did not receive what they paid for, even if the perk existed all along.
+Worth noting: a well-trained staff member does not wait for guests to ask about their 特典. They bring it up proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」. That way the guest discovers the benefit as a small pleasant moment rather than stumbling across it by accident, or worse, not realising it was available until after checkout. When guests feel their choice was rewarded, they leave happy, and that is largely within your control.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practical hotel communication, 特典 appears when describing plan contents d
 
 ## Related Expressions
 
-- **サービス (saabisu)** — サービス in everyday Japanese can mean a complimentary extra or simply "service." While 特典 refers specifically to a named, plan-included benefit, サービス is broader and often used for spontaneous gestures of generosity (e.g., a complimentary dessert). Using 特典 in a plan context is more precise and professional.
-- **付帯サービス (futai saabisu)** — This compound term means "ancillary services" and refers to the range of services attached to a stay, some included, some optional. 特典 is a subset of 付帯サービス that is specifically complimentary and typically highlighted as a selling point.
+- **サービス (saabisu)**: in everyday Japanese, サービス can mean a spontaneous complimentary gesture (like an unexpected dessert) or just "service" in general; 特典 is narrower and more precise, referring to a named benefit that is deliberately built into the plan.
+- **付帯サービス (futai saabisu)**: "ancillary services," covering the full range of services attached to a stay, some included, some optional; 特典 is the subset that is specifically complimentary and typically highlighted as a selling point when staff describe plans to guests.
 
 ## Common Mistakes
 
-A common error is using 特典 to describe services the guest must pay for, such as a discounted spa treatment; 特典 implies the benefit is complimentary or exclusively included in the plan at no extra charge. Staff sometimes also neglect to specify the conditions attached to a 特典 (e.g., time limits, reservation requirements), leaving guests confused about how to claim it. Finally, omitting 特典 information at check-in — assuming the guest already knows — is a missed opportunity that can lead to complaints when the guest discovers the perk too late to use it.
+One mistake to avoid is using 特典 for something the guest still has to pay for, like a discounted spa treatment. 特典 means the benefit is genuinely included at no extra charge; calling a paid service a 特典 is misleading and will cause friction. Another gap is mentioning a 特典 without explaining how to claim it: time restrictions, reservation requirements, or location details all need to be included. And omitting 特典 information at check-in because you assume the guest already knows is a missed opportunity. They booked weeks ago and probably do not remember every detail; a quick reminder at check-in makes sure they actually get to enjoy what they paid for.
 
 ---
 
@@ -45,5 +45,5 @@ A common error is using 特典 to describe services the guest must pay for, such
 
 **Correct Answer:** 特典 (benefit / privilege)
 
-**Explanation:** 特典 (benefit/perk) is a key selling point — when a guest is choosing between plans, proactively highlighting 特典として〜が含まれております (this plan includes〜as a benefit) helps them make an informed and satisfying choice.
+**Explanation:** 特典 (benefit/perk) is a key selling point: when a guest is choosing between plans, proactively highlighting 特典として〜が含まれております (this plan includes〜as a benefit) helps them make an informed and satisfying choice.
 

@@ -4,9 +4,12 @@ section: 19
 title: 通報 (tsuuhou)
 ---
 
-通報 (tsuuhou) means to report an emergency or critical incident to the appropriate authorities, such as the fire department (消防署), police (警察), or ambulance service (救急). The word carries a sense of civic and professional duty — the act of 通報 is not merely informing someone but formally notifying an official body that an emergency exists and requires intervention. In the hotel context, timely and accurate 通報 is one of the most important responsibilities a staff member has during a crisis. Delays in 通報 can dramatically worsen outcomes in situations involving fire, medical emergencies, suspected crimes, or natural disasters.
+**Pronunciation:** [**tsuu**-hou]
+**Register:** Formal, emergency notification and official reporting
 
-Japanese staff are trained to provide specific, structured information when making a 通報 call: the type of emergency, the exact address of the hotel (written and readily available at every station), the floor and room number if applicable, the number of people affected, and whether any hazardous materials are involved. The key emergency numbers in Japan are 119 for fire and ambulance, and 110 for police — these are different from the 911 system used in other countries, and international guests often need reminding. Staff must be able to relay this information clearly under pressure, and protocols are rehearsed during regular safety drills. After a 通報, a record of the call — including time, the name of the authority contacted, and information relayed — must be entered into the hotel's emergency log.
+通報 means formally notifying an external authority, such as the fire department (消防署), police (警察), or ambulance service (救急), that an emergency exists and requires their intervention. It carries a sense of professional and civic duty. This is not just passing along information: making a 通報 is a deliberate act that activates official response systems. In a hotel, timely and accurate 通報 is one of the most important things a staff member can do during a crisis. Delays can dramatically worsen outcomes in fires, medical emergencies, suspected crimes, and natural disasters.
+
+Japanese staff are trained to give structured information when making a 通報 call: the type of emergency, the hotel's full address (written down and available at every station), the specific floor and room number, the number of people affected, and whether hazardous materials are involved. Worth noting for international staff is that Japan's emergency numbers differ from many other countries: 119 connects to fire and ambulance, while 110 connects to police. This is different from the 911 system, and international guests often need to be told directly. After a 通報 is made, a record must be entered into the hotel's emergency log right away, including the time of the call, which authority was contacted, and exactly what information was relayed.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Japanese staff are trained to provide specific, structured information when maki
 
 ## Related Expressions
 
-- **報告 (houkoku)** — internal report; while 通報 is directed at external authorities, 報告 refers to communicating information within the hotel — to a supervisor or management team — and is a complementary step during any emergency.
-- **緊急連絡 (kinkyuu renraku)** — emergency contact; a broader term for reaching out during a crisis, which may include 通報 to authorities as well as internal notifications and guest communications.
+- **報告 (houkoku)**: internal report; while 通報 goes to external authorities, 報告 is communication within the hotel, to a supervisor or the management team. Both happen in parallel during any emergency, and one does not replace the other.
+- **緊急連絡 (kinkyuu renraku)**: emergency contact; a broader term for crisis communication that may include 通報 to authorities alongside internal notifications and guest updates. Think of it as the overall communication effort, with 通報 being one specific component.
 
 ## Common Mistakes
 
-A common mistake among learners is confusing 通報 with 報告 — while both involve communicating information, 通報 specifically implies notifying an external authority or emergency service, whereas 報告 is used for internal reporting to supervisors. Another error is hesitating to make a 通報 out of uncertainty — hotel policy should be clear that when in doubt, staff must err on the side of contacting emergency services immediately. When drilling 通報 procedures, ensure staff practise speaking the hotel's full address aloud in Japanese, as address formats in Japan differ from Western conventions and must be stated correctly under stress.
+Students often mix up 通報 and 報告, but the direction of communication is what sets them apart. 通報 goes outward to official authorities; 報告 goes inward to supervisors. Using the wrong one in a report or debrief can create confusion about what actually happened. Another mistake is hesitating to make a 通報 because of uncertainty about whether a situation truly qualifies as an emergency. Hotel policy should be unambiguous: when in doubt, contact emergency services immediately. In practice, the mistake most likely to cause harm is waiting too long. One more thing worth drilling during training: have staff practise saying the hotel's full Japanese address aloud at speed, because address formats in Japan are different from Western conventions, and the stress of a real emergency is not the time to get confused about street numbers and ward names.
 
 ---
 
@@ -41,4 +44,4 @@ A common mistake among learners is confusing 通報 with 報告 — while both i
 
 **Answer:** 通報
 
-**Explanation:** 通報 (tsuuhou) means reporting to authorities — notifying emergency services such as police or fire department.
+**Explanation:** 通報 (tsuuhou) means reporting to authorities: notifying emergency services such as police or fire department.

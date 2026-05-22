@@ -4,9 +4,9 @@ section: 2
 title: 清掃中 (seisouchuu)
 ---
 
-清掃中 is the professional term for "cleaning in progress" and is a critical piece of vocabulary in hotel housekeeping operations. Unlike the more casual 掃除, the word 清掃 carries a formal, institutional weight that makes it appropriate for door hangers, digital room-status systems, and verbal communication between staff and guests. The 中 suffix indicates that the action is currently ongoing, creating a clear and immediate message that the room is occupied by staff and not yet available. In a ryokan or hotel context, displaying 清掃中 is an essential courtesy that respects the guest's privacy and prevents awkward or uncomfortable interruptions.
+清掃中 is the professional term for "cleaning in progress," and it is one of the most important phrases in hotel housekeeping. Unlike the more conversational 掃除, the word 清掃 carries a formal, institutional weight that makes it appropriate for door hangers, room-status systems, and staff communication. The 中 suffix tells you the action is currently happening, making the message immediate and clear: the room is occupied by staff and not yet available. In a ryokan or hotel, putting up a 清掃中 sign is a basic courtesy that protects both the guest's privacy and the housekeeper's working space.
 
-In practical terms, housekeeping staff hang a 清掃中 sign or card on the door handle before entering a room to clean, and the sign remains in place until all work is complete. Verbally, staff may also use this phrase when redirecting a guest who attempts to return to their room early, apologizing politely while explaining that cleaning is still underway. Understanding the difference between 清掃中 and 清掃済み (seisou zumi — cleaning complete) is essential for communicating accurate room status to both guests and supervisors.
+In practice, housekeeping staff hang the 清掃中 sign or card on the door handle before entering, and it stays up until all work is finished. Verbally, staff also use this phrase when redirecting a guest who tries to return to their room early. The tricky part is knowing the difference between 清掃中 and 清掃済み (seisou zumi, cleaning complete): mixing these two up in room-status reports causes real operational problems, so both need to be drilled until they are automatic.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practical terms, housekeeping staff hang a 清掃中 sign or card on the door
 
 ## Related Expressions
 
-- **清掃済み (seisou zumi)** — Means cleaning is complete; used to mark a room as ready for guest occupancy, the direct counterpart to 清掃中.
-- **使用中 (shiyou-chuu)** — Means "in use" or "occupied," often seen on bathroom or facility doors; not specific to cleaning and should not be used in place of 清掃中.
+- **清掃済み (seisou zumi)**: Means cleaning is complete; used to mark a room as ready for guest occupancy, the direct counterpart to 清掃中.
+- **使用中 (shiyou-chuu)**: Means "in use" or "occupied," often seen on bathroom or facility doors; not specific to cleaning and should not be used in place of 清掃中.
 
 ## Common Mistakes
 
-A common mistake is writing or saying 掃除中 instead of 清掃中 on official signage — while both mean "cleaning in progress," 清掃中 is the standard professional form used in hotel and ryokan settings. Learners sometimes also confuse 清掃中 with 使用中, but 使用中 simply means "occupied" with no implication of cleaning. Always ensure the 清掃中 sign is removed promptly once work is finished, as leaving it up unnecessarily may prevent guests from accessing their rooms.
+A common mistake is writing 掃除中 instead of 清掃中 on official signage. Both mean "cleaning in progress," but 清掃中 is the professional standard for hotels and ryokan. Students also sometimes confuse 清掃中 with 使用中, which just means "occupied" with no cleaning implied. And always remove the 清掃中 sign promptly once work is done: leaving it up unnecessarily can prevent guests from accessing their own rooms.
 
 ---
 
@@ -44,5 +44,5 @@ A common mistake is writing or saying 掃除中 instead of 清掃中 on official
 
 **Correct Answer:** 清掃中 (being cleaned / cleaning in progress)
 
-**Explanation:** 清掃中 signals that cleaning is actively in progress — it prevents guests from entering and protects staff privacy during work.
+**Explanation:** 清掃中 signals that cleaning is actively in progress: it prevents guests from entering and protects staff privacy during work.
 

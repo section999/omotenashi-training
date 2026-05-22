@@ -4,9 +4,12 @@ section: 26
 title: 秒 (byou)
 ---
 
-秒 (秒) is the Japanese counter for seconds and is used when describing time intervals too short to be measured in minutes. In hospitality settings, its most common application is in safety and facility communications: alerting guests to the closing time of elevator doors, warning about timed security gates, or indicating the brief countdown before an automated service begins. These seconds-level communications are not merely informational — they directly affect guest safety and comfort. A guest who does not understand that an elevator door closes in 5 seconds may be struck by it; a guest informed of this interval can board or step back with confidence.
+**Pronunciation:** [**byou**]
+**Register:** Neutral to Formal, facility safety instructions, timed systems
 
-Beyond elevator contexts, 秒 can appear in descriptions of spa treatments with timed intervals, countdown announcements in hotel convenience areas, or even in explanations of automated room features (this door locks automatically in 10 seconds after closing). While it is far less frequent in daily hospitality language than 分 or 時間, staff in modern hotels with automated or timed facilities should be comfortable deploying 秒 accurately and pairing it with clear, calm explanation. The goal is to make precision feel reassuring rather than clinical.
+秒 is the counter for seconds. In daily conversation it comes up far less than 分 or 時間, but in hotel settings it appears in a very specific and important context: anything with a countdown or automatic closure. Elevator doors, security gates, room locks, timed spa equipment. These are moments where the guest needs to know exactly how many seconds they have, not roughly, because the wrong choice can be mildly inconvenient or, in the case of a fire door or security gate, genuinely disruptive. That precision is what makes 秒 worth learning carefully.
+
+Worth noting: the goal when using 秒 is not to sound technical but to make precision feel reassuring. A calm エレベーターのドアは5秒で閉まります, delivered with good eye contact, tells the guest everything they need to know without alarm. For guests unfamiliar with a hotel's automated systems, this kind of specific guidance helps them feel oriented rather than surprised. In practice, you will rarely need 約 (approximately) with 秒 because the timing of facility equipment is fixed and known, so state the number directly.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Beyond elevator contexts, 秒 can appear in descriptions of spa treatments with 
 
 ## Related Expressions
 
-- **分 (fun/pun)** — Minutes, the next larger time unit and the far more common unit in hospitality directions and wait-time estimates. Understanding the scale difference between 秒 (seconds) and 分 (minutes) is important: confusing them in service communication — saying an elevator waits 5分 (5 minutes) instead of 5秒 (5 seconds) — would cause significant confusion and potential frustration.
-- **すぐ (sugu)** — Immediately or right away, an informal way to express a very short time interval without specifying seconds. While 5秒で閉まります conveys a precise countdown, すぐ閉まります conveys imminent closure without a figure; staff can use すぐ in casual reassurance but should use 秒 when precision is needed for safety clarity.
+- **分 (fun/pun)**: Minutes, the next unit up from 秒. These two are the pair that students need to keep clearly separated in service contexts. Saying an elevator door waits 5分 (five minutes) instead of 5秒 (five seconds) would be genuinely confusing and might make a guest think the system is broken.
+- **すぐ (sugu)**: Immediately or right away, a softer alternative when you do not need to give a precise count. すぐ閉まります works as a casual warning, but when safety is involved and the count matters, use 秒 with the exact number.
 
 ## Common Mistakes
 
-The most consequential mistake with 秒 is confusing it with 分 in a service context — telling a guest that elevator doors close in 5分 (5 minutes) rather than 5秒 (5 seconds) is a significant miscommunication that would cause confusion or disbelief. Learners also sometimes mispronounce 秒 as びょお (byoo) with an exaggerated vowel length; while the vowel is long in writing (びょう), natural speech does not dramatically elongate it. Finally, note that 秒 rarely requires the approximation word 約 (approximately), since seconds are typically known precisely from facility specifications — using 約5秒 where 5秒 is exact sounds unnecessarily hedged.
+The most consequential mix-up here is using 分 where you mean 秒. Telling a guest a door closes in 5分 rather than 5秒 is not just grammatically odd, it describes something physically impossible and causes real confusion. Students often know this pair intellectually but blur them under pressure, so practice these specific sentences until the correct unit comes automatically. One more thing on pronunciation: 秒 is written びょう, and while the vowel is technically long, you should not dramatically stretch it in speech. Natural spoken Japanese does not exaggerate that vowel length, so keep it clean and crisp.
 
 ---
 
@@ -44,5 +47,5 @@ The most consequential mistake with 秒 is confusing it with 分 in a service co
 
 **Correct Answer:** 5秒で閉まります (it closes in 5 seconds)
 
-**Explanation:** 5秒で閉まります — 秒 (seconds) applies to very short intervals like elevator doors; knowing this precision shows guests you are aware of their safety and helps prevent them from rushing or being caught.
+**Explanation:** 5秒で閉まります: 秒 (seconds) applies to very short intervals like elevator doors; knowing this precision shows guests you are aware of their safety and helps prevent them from rushing or being caught.
 

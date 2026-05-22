@@ -4,9 +4,12 @@ section: 23
 title: 配置 (haichi)
 ---
 
-配置 means assignment or placement — the deliberate positioning of staff members, equipment, or resources to cover operational needs effectively. In hotel management, 配置 is a critical planning function. Before a major event such as a wedding reception or a VIP arrival, managers carefully arrange the 配置 of staff to ensure full coverage of entry points, dining areas, guest rooms, and support zones. The right 配置 ensures that no guest is left unattended and that response times are minimised. In Japanese hospitality, the precision of 配置 reflects the thoroughness of omotenashi — every position is considered and purposeful.
+**Pronunciation:** [ha-i-**chi**]
+**Register:** Formal -- used in management briefings, operational planning, and staff communications
 
-Staff 配置 is communicated through 配置図 (haichi-zu — a placement diagram or floor plan indicating where each person is stationed). This is particularly common in banquet and event operations. 配置 also refers to the longer-term organisational decision of which department a staff member is assigned to — a new hire might be 配置 (placed) in the front desk team or the concierge department based on their strengths. This broader sense of 配置 relates to human resources and staffing strategy.
+配置 means assignment or placement: the deliberate positioning of staff, equipment, or resources so that every area is covered and every need can be met. Before a major event like a wedding reception or a VIP arrival, managers sit down and carefully work out the 配置 of staff across entry points, dining areas, guest rooms, and support zones. Get the 配置 right and no guest ever has to search for help. Get it wrong and you will have three people standing at the entrance while the banquet hall goes unattended. In Japanese hospitality, the precision of 配置 is itself a form of omotenashi -- the idea that every position has been thought through with the guest in mind.
+
+Staff 配置 is communicated through a 配置図 (haichi-zu, a placement diagram showing exactly where each person is stationed). You will see these diagrams most often in banquet and event operations, pinned up in the back office before a function begins. Worth noting is that 配置 also has a broader meaning in human resources: when a new hire is placed into a specific department, that is also called 配置. During busy seasons, hotels may temporarily reassign staff from one area to another, and that decision is expressed with the same word.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Staff 配置 is communicated through 配置図 (haichi-zu — a placement diagra
 
 ## Related Expressions
 
-- **配置図 (haichi-zu)** — a staff placement diagram or floor plan used at events and during operational planning to show exactly where each staff member is stationed
-- **人員配置 (jin'in haichi)** — staffing allocation, the broader management term for deciding how many people are assigned to each department or post
+- **配置図 (haichi-zu)**: the staff placement diagram or floor plan showing exactly where each person is stationed during an event or shift; an everyday tool in banquet operations
+- **人員配置 (jin'in haichi)**: staffing allocation at the management level, covering how many people are assigned to each department or post
 
 ## Common Mistakes
 
-Learners sometimes confuse 配置 with 配属 (haizoku — departmental assignment). 配置 refers to physical positioning for a specific event or operational need, while 配属 is the organisational decision of which department a staff member belongs to long-term. Using 配置 when discussing a new employee's department placement (which should be 配属) will sound slightly off to native speakers. Also note that 配置する is a transitive verb requiring an object — always specify what or who is being placed.
+Students often mix up 配置 with 配属 (haizoku: departmental assignment), and they are easy to confuse because both involve placing people within an organisation. The difference is time horizon and purpose: 配置 is about physical positioning for a specific event or operational need, while 配属 is the longer-term organisational decision about which department someone belongs to. Using 配置 when you mean 配属 -- for example, when discussing where a new employee has been permanently placed -- will sound like a temporary posting rather than a proper assignment. Also remember that 配置する is transitive: it always needs an object, so specify who or what is being placed.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 配置 with 配属 (haizoku — departmental assignme
 
 **Correct Answer:** 配置 (placement)
 
-**Explanation:** 配置 (haichi) means assignment or placement — positioning staff and resources strategically. 担当 = person in charge, 指導 = guidance, 業務 = duties.
+**Explanation:** 配置 (haichi) means assignment or placement: positioning staff and resources strategically. 担当 = person in charge, 指導 = guidance, 業務 = duties.

@@ -4,11 +4,11 @@ section: 9
 title: かしこまりました (kashikomarimashita)
 ---
 
-**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence — the posture of someone who is humbly receiving an instruction. When you say *kashikomarimashita*, you are conveying not just "I understand" but "I receive your request with full attention and respect, and I will act on it."
+**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence, the posture of someone humbly receiving an instruction. When you say *kashikomarimashita*, you are not simply saying "I understand." You are saying: I receive your request with full attention and respect, and I will act on it right now.
 
-In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました — "certainly, understood"), and below that is *wakarimashita* (わかりました — "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual.
+In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました, "certainly, understood"), and below that is *wakarimashita* (わかりました, "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual, the kind of thing you might say to a friend, not a valued guest.
 
-The phrase is always in the past tense (*mashita*), which signals immediate completion — "I have received (your request)" — rather than "I am receiving it." This subtle distinction communicates a sense of attentiveness and resolve: the moment the guest speaks, the acknowledgement is already complete and action has begun.
+Worth noting: the phrase is always in the past tense (*mashita*), which conveys immediate completion. You are not saying "I am receiving your request." You are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, your acknowledgement is already complete and action has begun.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ The phrase is always in the past tense (*mashita*), which signals immediate comp
 
 ## Related Expressions
 
-- **承知いたしました (shōchi itashimashita)** — "Certainly / understood" — slightly less formal than *kashikomarimashita*; appropriate in most professional settings
-- **わかりました (wakarimashita)** — "I understand" — neutral, colloquial; not appropriate for guest-facing formal contexts
-- **はい、かしこまりました (hai, kashikomarimashita)** — The *hai* prefix adds further affirmation before the formal acknowledgement
+- **承知いたしました (shōchi itashimashita)**: "Certainly / understood." Slightly less formal than *kashikomarimashita*, but still appropriate in most professional settings.
+- **わかりました (wakarimashita)**: "I understand." Neutral and colloquial. Not appropriate for guest-facing formal contexts.
+- **はい、かしこまりました (hai, kashikomarimashita)**: The *hai* prefix adds a beat of affirmation before the formal acknowledgement, and sounds particularly clean and confident.
 
 ## Common Mistakes
 
-The most common mistake is using *wakarimashita* in a formal hospitality context — it sounds like you're speaking to an equal, not serving a guest. A related mistake is saying *kashikomarimashita* without following through: the phrase implies immediate, attentive action. If you say *kashikomarimashita* and then do nothing visible, the elevated language creates a gap between words and action that the guest will notice.
+The most common mistake is using *wakarimashita* in a formal hospitality context. It sounds like you are speaking to an equal, not serving a guest, and experienced guests in high-end settings will notice the register mismatch. A related mistake is saying *kashikomarimashita* and then pausing or carrying on with something unrelated. The phrase implies immediate, visible action. If there is a gap between the elevated language and what the guest sees you doing, that gap erodes the trust the phrase was meant to build.
 
 ---
 
@@ -40,10 +40,10 @@ The most common mistake is using *wakarimashita* in a formal hospitality context
 
 **A guest at a luxury ryokan requests that extra pillows be brought to their room. What is the ideal response?**
 
-- A. わかりました。(I understand — too casual)
-- B. オーケーです。(Okay — inappropriate register)
+- A. わかりました。(I understand: too casual)
+- B. オーケーです。(Okay: inappropriate register)
 - C. かしこまりました。すぐにお持ちいたします。(Certainly. I will bring them right away.)
-- D. 承知いたしました。(Understood — acceptable but slightly less formal)
+- D. 承知いたしました。(Understood: acceptable but slightly less formal)
 
 **Correct Answer:** かしこまりました。すぐにお持ちいたします。(Certainly. I will bring them right away.)
 

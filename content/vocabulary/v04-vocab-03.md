@@ -4,9 +4,9 @@ section: 3
 title: 清掃済み (seisou zumi)
 ---
 
-清掃済み is the formal designation indicating that a room has been completely cleaned and is prepared for guest occupancy or inspection. The suffix 済み (zumi) attached to a verb stem in Japanese signifies that an action has been finished, making 清掃済み literally "cleaning-completed." This term is the essential counterpart to 清掃中 (cleaning in progress) and forms part of the standard room-status vocabulary used in hotels and ryokan across Japan. Accurate use of 清掃済み ensures that the front desk can assign rooms to arriving guests without delay and that housekeeping supervisors can confirm readiness during inspections.
+清掃済み means a room has been fully cleaned and is ready for a guest to check in or for a supervisor to inspect. The 済み (zumi) suffix attaches to a verb stem to show a completed action, so 清掃済み is literally "cleaning-done." Think of it as the all-clear signal that moves a room from occupied territory to guest-ready status. Its direct counterpart is 清掃中 ("cleaning in progress"), and keeping the two straight is one of the most operationally important vocabulary distinctions in housekeeping.
 
-Staff typically mark a room as 清掃済み by updating a room management system, placing a completed card or tag inside the room, or verbally reporting to a floor supervisor. When communicating directly with guests — for example, when a guest inquires whether their room is ready before standard check-in time — the phrase この部屋は清掃済みでございます delivers the information with the appropriate level of formality. It is important that staff only mark a room 清掃済み after all tasks, including amenity replenishment and final visual inspection, have been completed.
+In practice, staff mark a room 清掃済み by updating the room management system, placing a completion card in the room, or calling through to the floor supervisor. When a guest asks whether their room is ready before standard check-in time, この部屋は清掃済みでございます delivers that confirmation at the right level of formality. Worth noting: the room should only be marked 清掃済み after both the amenity check and the final visual walkthrough are complete. Marking it early, under pressure from a busy front desk, is the kind of shortcut that leads directly to an embarrassing situation for everyone involved.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff typically mark a room as 清掃済み by updating a room management system
 
 ## Related Expressions
 
-- **清掃中 (seisou-chuu)** — The direct opposite, meaning cleaning is currently in progress; knowing both terms is essential for accurate room-status communication.
-- **準備完了 (junbi kanryou)** — Means "preparation complete"; a broader term sometimes used in restaurant or event settings, whereas 清掃済み is specific to room cleaning completion.
+- **清掃中 (seisou-chuu)**: the direct opposite, meaning cleaning is currently in progress; you need both terms side by side if you are going to communicate room status accurately.
+- **準備完了 (junbi kanryou)**: means "preparation complete"; a broader phrase that appears in restaurant and event settings, whereas 清掃済み stays specific to room-cleaning completion.
 
 ## Common Mistakes
 
-Learners occasionally confuse 清掃済み with 清掃中, which are opposites — mixing them up can cause serious operational errors such as sending guests to rooms that are still being serviced. Another mistake is using the casual form 掃除済み in formal reports; 清掃済み is the professional standard. Staff should also avoid marking a room 清掃済み before the final amenity check is complete, as incomplete preparation can lead to guest dissatisfaction.
+Swapping 清掃済み and 清掃中 is not a minor vocabulary slip. Sending a guest to a room that is still being serviced is genuinely embarrassing, and students often underestimate how easily this happens when they are rushing. Also, using 掃除済み in formal reports instead of 清掃済み will read as unprofessional to a supervisor who knows the difference. And however much pressure is coming from the front desk, do not mark a room 清掃済み before the amenity check is finished. There are no shortcuts worth taking here.
 
 ---
 
@@ -44,5 +44,5 @@ Learners occasionally confuse 清掃済み with 清掃中, which are opposites �
 
 **Correct Answer:** この部屋は清掃済みでございます (this room has been cleaned)
 
-**Explanation:** 清掃済み means cleaning is complete — paired with でございます it confirms to guests or supervisors that the room is ready.
+**Explanation:** 清掃済み means cleaning is complete: paired with でございます it confirms to guests or supervisors that the room is ready.
 

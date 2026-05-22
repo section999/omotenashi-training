@@ -4,15 +4,15 @@ section: 2
 title: 階段 (kaidan)
 ---
 
-階段 refers to a staircase and holds dual importance in the hospitality setting: it is both a routine navigational option and the mandatory evacuation route in emergencies. In the context of omotenashi, proactively mentioning the stairs to guests who may benefit — such as those seeking light exercise, guests on the second floor, or those uncomfortable with elevators — demonstrates thoughtful attentiveness. Knowing the exact location and condition of every stairwell in the building is therefore a non-negotiable part of staff training. In ryokan and traditional properties, staircases may be narrow or steep, so warning guests in advance prevents accidents and reflects professional care.
+階段 refers to a staircase, and in the hospitality setting it serves two distinct purposes: it is both a routine navigation option and the mandatory evacuation route in emergencies. Proactively mentioning the stairs to guests who may benefit, those seeking light exercise, guests on the second floor, or those uncomfortable with elevators, shows thoughtful attentiveness. Knowing the exact location and condition of every stairwell in the building is non-negotiable for trained staff. At ryokan and traditional properties, staircases are sometimes narrow or steep, so warning guests in advance prevents accidents and reflects professional care.
 
-During fire drills and actual emergencies, the word 階段 becomes critical operational vocabulary. Staff must be able to direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit especially from concise, repeated instruction. It is equally important that staff themselves know which stairwells are pressurized, which exit to the street, and any access restrictions that apply to guest-facing routes.
+During fire drills and actual emergencies, 階段 becomes critical operational vocabulary. Staff must direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit especially from concise, repeated instruction. It is also important that staff know which stairwells are pressurized, which exit to the street, and any access restrictions on guest-facing routes.
 
 ## Example Sentences
 
 **1.** 非常時にはエレベーターをご使用にならず、階段をご利用くださいませ。
 *Hijouji ni wa erebeetaa wo go-shiyou ni narazu, kaidan wo go-riyou kudasaimase.*
-"In an emergency, please do not use the elevator — please use the stairs."
+"In an emergency, please do not use the elevator: please use the stairs."
 
 **2.** お部屋は2階でございますので、階段がご便利かと存じます。
 *O-heya wa nikai de gozaimasu node, kaidan ga go-benri ka to zonjimasu.*
@@ -24,12 +24,12 @@ During fire drills and actual emergencies, the word 階段 becomes critical oper
 
 ## Related Expressions
 
-- **非常階段 (hijou kaidan)** — emergency staircase; specifically designated for evacuation use and often marked with green emergency exit signs; always indicate this route during safety briefings.
-- **エレベーター (erebeetaa)** — elevator; the standard alternative for multi-floor travel, but never to be used during a fire or emergency evacuation; contrasting these two clearly in training prevents dangerous guest behavior.
+- **非常階段 (hijou kaidan)**: emergency staircase; specifically designated for evacuation use and often marked with green emergency exit signs; always indicate this route during safety briefings.
+- **エレベーター (erebeetaa)**: elevator; the standard alternative for multi-floor travel, but never to be used during a fire or emergency evacuation; contrasting these two clearly in training prevents dangerous guest behavior.
 
 ## Common Mistakes
 
-A common error is using plain language during emergencies, such as 「階段を使ってください」 — while understood, the more composed 「階段をご利用ください」 maintains staff authority and calm. Learners also sometimes forget to specify which stairwell when multiple exist, which can cause panic or confusion; always name the location with a landmark (「廊下の突き当たりの」 etc.). Finally, avoid assuming all guests know that elevators are forbidden during fires — always state this explicitly alongside the instruction to use the stairs.
+Students sometimes use plain language during emergencies, such as 「階段を使ってください」. While it is understood, the more composed 「階段をご利用ください」 maintains staff authority and calm. In practice, learners also forget to specify which stairwell when multiple exist; this can cause panic or confusion in a real emergency, so always name the location with a landmark like 「廊下の突き当たりの」. The other thing worth flagging: never assume guests already know that elevators are forbidden during fires. Always state it explicitly alongside the instruction to use the stairs.
 
 ---
 
@@ -44,5 +44,5 @@ A common error is using plain language during emergencies, such as 「階段を�
 
 **Correct Answer:** 階段をご利用ください (please use the stairs)
 
-**Explanation:** 階段をご利用ください — elevators must never be used during a fire; guiding guests to 階段 (stairs) is the correct safety protocol and a critical piece of hotel emergency knowledge.
+**Explanation:** 階段をご利用ください: elevators must never be used during a fire; guiding guests to 階段 (stairs) is the correct safety protocol and a critical piece of hotel emergency knowledge.
 

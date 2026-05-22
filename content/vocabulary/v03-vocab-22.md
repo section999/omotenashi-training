@@ -4,9 +4,9 @@ section: 22
 title: 金庫 (kinko)
 ---
 
-金庫 (金 = gold/money, 庫 = storehouse) refers to the in-room security safe where guests can store valuables such as passports, cash, jewelry, and electronics when away from the room. In Japanese hospitality, the physical security of a guest's belongings is treated as an extension of the hotel's duty of care, and informing guests about the 金庫 at check-in is considered standard procedure in quality properties. Failing to mention it could leave guests unaware of the facility and, in the worst case, contribute to theft or loss. The 金庫 is typically located in the wardrobe or closet and operated by a user-set PIN code. Staff must be ready to explain the PIN-setting procedure clearly, as different safe models vary.
+金庫 combines 金 (gold/money) and 庫 (storehouse), and it refers to the in-room security safe where guests store passports, cash, jewelry, and electronics while they are out. Informing guests about the 金庫 at check-in is standard practice in quality hotels because a guest who does not know the safe exists is a guest who might leave valuables unsecured. The 金庫 is usually located in the wardrobe or closet and operates with a user-set PIN. The safe model varies by property, so know yours well enough to walk a guest through it without hesitation.
 
-During room orientation, staff say 「お貴重品はお部屋の金庫にお入れください」 (please put your valuables in the room safe) and demonstrate the PIN setup: 「数字4桁の暗証番号をご自身で設定していただけます」 (you can set a 4-digit PIN of your choice). If a guest forgets their PIN, they must contact the front desk, and the property will follow its protocol for unlocking it — something staff should also briefly mention. Ryokan that do not have in-room safes typically have a front-desk valuables service instead.
+During room orientation, say 「お貴重品はお部屋の金庫にお入れください」 and walk through the PIN setup: 「数字4桁の暗証番号をご自身で設定していただけます」. Then mention the one thing most staff forget: if a guest forgets their PIN, they should contact the front desk and the property will follow its protocol for unlocking it. That detail sounds minor, but it genuinely reassures guests. Ryokan without in-room safes typically offer a valuables service at the front desk instead, so know what your property provides and be ready to explain it.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ During room orientation, staff say 「お貴重品はお部屋の金庫にお入
 
 ## Related Expressions
 
-- **お貴重品 (o-kichouhin)** — "Valuables" — the word most commonly paired with 金庫 in hospitality speech. The phrase 「お貴重品は金庫にお入れください」 is a set expression that should be memorized as a unit.
-- **クローゼット (kuroozetto)** — The wardrobe or closet where the 金庫 is typically housed. When directing guests to the safe, staff often say 「金庫はクローゼットの中にございます」, making knowledge of クローゼット essential for giving complete guidance.
+- **お貴重品 (o-kichouhin)**: "valuables"; the word almost always paired with 金庫 in hospitality speech. Memorize 「お貴重品は金庫にお入れください」 as a single unit, because you will say it exactly that way at every check-in.
+- **クローゼット (kuroozetto)**: the wardrobe or closet where the 金庫 is typically housed. When directing guests to the safe, you will usually say 「金庫はクローゼットの中にございます」, so these two words go hand in hand.
 
 ## Common Mistakes
 
-Learners sometimes skip explaining the PIN-setting procedure, simply pointing to the safe without equipping the guest to use it — this leaves an important gap in the orientation. Another error is confusing 金庫 (safe) with 引き出し (drawer) or クローゼット (closet), which are nearby but serve different purposes; precision matters when security is involved. Additionally, failing to mention the front desk fallback option for forgotten PINs can cause guest anxiety; proactively including this information is a small but meaningful hospitality touch.
+Students often point to the 金庫 and move on, without actually walking the guest through the PIN-setting steps. That leaves a real gap, because a guest who cannot figure out the safe will either not use it or call the front desk in frustration. Another common error is mixing up 金庫 (safe) with 引き出し (drawer) or クローゼット (closet), which sit nearby in the room. When security is involved, precision with vocabulary matters. In practice, the detail that most staff omit is the forgotten-PIN fallback. Telling guests proactively that the front desk can assist if they forget their code is a small thing that removes a lot of potential anxiety.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes skip explaining the PIN-setting procedure, simply pointing to
 
 **Correct Answer:** 金庫 (safe)
 
-**Explanation:** 金庫 is the safe — always guide guests to store valuables in it at check-in to prevent security concerns.
+**Explanation:** 金庫 is the safe: always guide guests to store valuables in it at check-in to prevent security concerns.
 

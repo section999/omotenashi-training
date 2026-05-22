@@ -4,9 +4,12 @@ section: 23
 title: 変更可能 (henkou kanou)
 ---
 
-変更可能 (henkou kanou) means "changeable" or "modification is possible" — it indicates that a reservation can be altered in some respect, such as the check-in date, room type, number of guests, or meal plan. In Japanese hospitality, clearly communicating what can and cannot be changed, and under what conditions, is a fundamental service responsibility. Guests who book plans weeks or months in advance often need to adjust details as their plans evolve, and a property that handles such requests smoothly earns loyalty; one that creates confusion over what 変更可能 actually means loses trust.
+**Pronunciation:** [hen-**kou**-ka-nou]
+**Register:** Formal/Neutral, standard reservation and front desk communication
 
-The practical use of 変更可能 requires staff to go further than simply confirming that a change is possible — they must immediately follow up with the specific conditions that define the scope of changeability: the deadline by which the change must be requested, any additional charge that might result, and which elements of the booking can be changed versus which are fixed (for example, a 早割 rate may be 変更不可 for dates but 変更可能 for room type). This conditional communication is what distinguishes professional hospitality service from vague assurances that leave guests uncertain about their options.
+変更可能 (henkou kanou) means "changeable" or "modification is possible," indicating that some aspect of a reservation can be altered: the check-in date, room type, guest count, or meal plan. In practice, though, just telling a guest "yes, that can be changed" is only half the job. You need to follow up immediately with the conditions: the deadline, any cost implications, and exactly which parts of the booking fall within that flexibility. A guest who hears 変更可能 without those details will often assume they can change anything, at any time, at no charge.
+
+That said, the conditions vary a lot depending on the plan. An advance-purchase 早割 rate might allow a room-type change but lock the dates completely, while a flexible plan allows both. Students often struggle to keep these distinctions clear in the moment, especially under pressure at the front desk. The key habit to build is this: the moment you say 変更可能, your next sentence should always define the window and the scope.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The practical use of 変更可能 requires staff to go further than simply confi
 
 ## Related Expressions
 
-- **変更不可 (henkou fuka)** — "Cannot be changed," the direct antonym of 変更可能. Staff must be able to state clearly which elements of a booking are 変更不可 — particularly on discounted or non-refundable plans — to prevent a guest from assuming flexibility that does not exist.
-- **確定 (kakutei)** — Once a reservation reaches 確定 (confirmed/finalised) status, some or all elements may shift from 変更可能 to 変更不可. Understanding the relationship between 確定 and 変更可能 helps staff explain the reservation lifecycle: provisional bookings may offer more flexibility, while confirmed bookings may be subject to restrictions.
+- **変更不可 (henkou fuka)**: the direct opposite, meaning no changes are permitted. On discounted or prepaid plans this restriction is common, and staff need to be upfront about it so guests don't assume a flexibility that simply isn't there.
+- **確定 (kakutei)**: once a booking reaches confirmed status, some elements that were previously flexible can shift to 変更不可. Knowing how 確定 interacts with 変更可能 helps you walk guests through the full reservation lifecycle clearly.
 
 ## Common Mistakes
 
-The most harmful mistake is stating 変更可能 without specifying the conditions — if a guest is told their booking is 変更可能 without learning the 3-day deadline, they may attempt to change it the day before arrival and expect no charge, leading to a dispute. Staff also sometimes say 変更できます (can be changed) in a way that implies unconditional flexibility, when in fact only certain elements (dates but not room type, or room type but not dates) are changeable; being specific about what can change avoids confusion. A third error is using 変更可能 when 変更不可 applies, either due to misremembering a policy or to avoid disappointing the guest in the moment — this creates a larger problem when the change is later refused.
+Worth noting: the most damaging error here is stating 変更可能 without attaching conditions. If a guest is told their booking is changeable but never learns about the 3-day deadline, they will show up the night before expecting a free modification and you will have a dispute on your hands. Another common slip is saying 変更できます in a way that sounds unconditional, when in reality only certain elements are flexible. Be specific every time: say which parts can change and which cannot. A third mistake is saying 変更可能 when the plan is actually 変更不可, either out of misremembering the policy or wanting to avoid an awkward moment. That kindness in the short term always creates a bigger problem later.
 
 ---
 
@@ -45,5 +48,5 @@ The most harmful mistake is stating 変更可能 without specifying the conditio
 
 **Correct Answer:** 変更可能 (change is possible)
 
-**Explanation:** 変更可能 sets the guest's expectation of flexibility — always follow it with conditions (〇日前まで変更可能でございます) so the guest knows the window; open-ended "changeable" without a deadline can be misused or disputed.
+**Explanation:** 変更可能 sets the guest's expectation of flexibility: always follow it with conditions (〇日前まで変更可能でございます) so the guest knows the window; open-ended "changeable" without a deadline can be misused or disputed.
 

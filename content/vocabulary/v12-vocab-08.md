@@ -4,9 +4,12 @@ section: 8
 title: 救急車 (kyuukyuusha)
 ---
 
-救急車 is an emergency medical vehicle staffed by paramedics (救急救命士, kyuukyuu kyuumeishi) and equipped to provide immediate care and rapid transport to hospital. In Japan, the emergency number for an ambulance is 119, which is also used for the fire service. Hospitality staff must know this number and be ready to call it without hesitation when a guest loses consciousness, experiences a serious medical episode, sustains a severe injury, or requires urgent care beyond what first aid can provide. Japan's ambulance response times are generally excellent in urban areas, but staff should begin 応急処置 (first aid) immediately rather than waiting for the vehicle to arrive.
+**Pronunciation:** [kyuu-**kyuu**-sha]
+**Register:** Standard, used whenever emergency medical transport is needed
 
-When calling for a 救急車, staff should clearly state the facility name and complete address, describe the patient's condition and symptoms, specify any known medical history the guest has shared, and keep the line open to follow the dispatcher's instructions. A designated staff member should wait at the building entrance to meet and guide the paramedics directly to the patient, as lobby navigation can cost critical seconds. After the incident, staff must complete an incident report and follow up with the guest's family or the hospital as appropriate.
+救急車 is an ambulance staffed by paramedics (救急救命士) and equipped for immediate care and rapid transport to hospital. In Japan, the emergency number for both ambulance and fire services is 119. Every hospitality staff member must know this number before working their first shift. When a guest loses consciousness, experiences a serious medical episode, sustains a severe injury, or needs care beyond what basic first aid can provide, call without hesitation. Japan's ambulance response times are excellent in urban areas, but that does not mean you wait. Start 応急処置 (first aid) immediately while someone else makes the call.
+
+When you contact the dispatcher, state your facility name and complete address, describe the patient's condition and current symptoms, include any medical history the guest has shared with you, and keep the line open to follow instructions. Designate one staff member to wait at the building entrance to meet the paramedics and guide them directly to the patient. Lobby navigation wastes seconds that matter in a medical emergency. After the incident, complete an incident report and follow up with the guest's family or the hospital as appropriate.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When calling for a 救急車, staff should clearly state the facility name and c
 
 ## Related Expressions
 
-- **119番 (hyaku-juu-kyuu-ban)** — Japan's emergency number for both ambulance and fire services; staff must have this memorised and be prepared to call promptly.
-- **救急救命士 (kyuukyuu kyuumeishi)** — paramedic; the trained medical professional who responds in the 救急車; understanding this role helps staff cooperate effectively with the arriving crew.
+- **119番 (hyaku-juu-kyuu-ban)**: Japan's single emergency number for both ambulance and fire response; staff must commit this to memory separately from 110 (police), because confusing the two in a real emergency causes dangerous delays
+- **救急救命士 (kyuukyuu kyuumeishi)**: paramedic; the trained medical professional riding in the 救急車; knowing this term helps staff communicate clearly with the arriving crew about what has already been done
 
 ## Common Mistakes
 
-A common mistake is hesitating to call a 救急車 for fear of alarming other guests or overreacting — when in doubt, call immediately, as paramedics are trained to assess whether hospital transport is necessary. Learners sometimes confuse the emergency number 119 (ambulance/fire) with 110 (police), which can cause a dangerous delay; both numbers must be memorised separately. Staff should also avoid moving an injured or unconscious guest unnecessarily before the 救急車 arrives, as improper movement can worsen spinal or internal injuries.
+Students often hesitate before calling a 救急車, worried about alarming other guests or overreacting to a situation. When there is any genuine doubt, call immediately. Paramedics are trained to assess whether hospital transport is necessary. They will not judge you for erring on the side of caution. In practice, the other critical mistake to avoid is confusing 119 (ambulance and fire) with 110 (police). Both numbers must be memorised as separate facts. One more thing: never move an injured or unconscious guest unless there is immediate danger in leaving them where they are. Moving someone with a spinal or internal injury can cause serious additional harm before paramedics arrive.
 
 ---
 
@@ -44,4 +47,4 @@ A common mistake is hesitating to call a 救急車 for fear of alarming other gu
 
 **Correct Answer:** 救急車 (ambulance)
 
-**Explanation:** 救急車 (kyuukyuusha) means ambulance — a vehicle for emergency medical transport. 消防車 = fire truck, 病院 = hospital, 医者 = doctor.
+**Explanation:** 救急車 (kyuukyuusha) means ambulance: a vehicle for emergency medical transport. 消防車 = fire truck, 病院 = hospital, 医者 = doctor.

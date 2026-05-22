@@ -4,9 +4,12 @@ section: 10
 title: 折り返し (orikaeshi)
 ---
 
-折り返し literally means "returning" or "folding back," and in telephone communication it refers specifically to a return call — calling someone back after an initial contact, usually because the first call could not be fully resolved or the desired person was unavailable. In Japanese hospitality, offering a 折り返し is not a deflection but a genuine service commitment: the hotel is promising to reinitiate contact within a defined timeframe. This word appears frequently in combination with 折り返しご連絡いたします (we will contact you in return) and represents one of the most important promises a staff member can make on a call, because it directly determines whether the guest feels their matter has been properly received.
+**Pronunciation:** [o-ri-**KA**-e-shi]
+**Register:** Formal, standard in hotel telephone service scripts
 
-A 折り返し must always include a timeframe or condition to be meaningful. Simply saying 折り返しご連絡いたします without specifying when — such as 1時間以内に (within one hour) or 本日中に (by end of today) — leaves the guest without a reliable expectation and creates uncertainty. Furthermore, staff must actually follow through: a missed 折り返し is one of the most trust-damaging failures in hotel communication, because the guest was explicitly told they would receive a call. Tracking pending 折り返し calls is an important part of any front desk shift handover.
+折り返し literally means "folding back" or "returning," and in telephone communication it means a return call, reaching back out to someone after an initial contact could not be fully resolved. In Japanese hospitality, offering a 折り返し is not a way to get off the phone quickly. It is a genuine service commitment: the hotel is promising to reinitiate contact. That distinction matters. When you say 折り返しご連絡いたします, the guest hears "we have not forgotten you and we will call back." That phrase does a lot of work, but only if you actually follow through.
+
+The most common mistake people make with 折り返し is leaving out the timeframe. Simply saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. In practice, the timeframe is what the guest will hold you to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover, a missed callback is one of the most trust-damaging failures in hotel communication, because the guest was told explicitly to expect one.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ A 折り返し must always include a timeframe or condition to be meaningful. Si
 
 ## Related Expressions
 
-- **ご連絡** — the general term for making contact; 折り返しご連絡 specifically means a return contact initiated by the hotel, giving it a directional quality that plain ご連絡 lacks.
-- **不在** — the situation that most commonly triggers a 折り返し offer; the two terms function as a natural pairing in telephone service scripts.
+- **ご連絡**: the general word for making contact; 折り返しご連絡 carries a directional quality that plain ご連絡 does not, specifying that the hotel is reaching back out in response to a prior call.
+- **不在**: the situation that most often triggers a 折り返し offer; these two terms naturally pair together in telephone scripts, since every 不在 notification needs a clear next step for the caller.
 
 ## Common Mistakes
 
-The most important mistake is offering 折り返し without specifying a timeframe, which renders the promise too vague to be reassuring. Some learners confuse 折り返し (return call) with 転送 (call transfer), but these are fundamentally different: 転送 happens during the same call, while 折り返し is a new outgoing call made later. Staff also sometimes fail to note the guest's phone number before ending the call, making the 折り返し impossible to fulfill — always confirm the 電話番号 before closing a call that will require a callback.
+The single most important error to avoid is offering 折り返し without a timeframe. A callback promise without a "when" is just a polite way of saying nothing. Students often also confuse 折り返し (a new outgoing call made later) with 転送 (transferring an active call right now). That said, the practical difference is obvious once you picture it: 転送 happens while the guest is still on the line, 折り返し happens after the call ends. One more thing: before you close any call that will need a callback, always confirm the guest's 電話番号. Overlooking that step makes the promise impossible to keep.
 
 ---
 
@@ -45,4 +48,4 @@ The most important mistake is offering 折り返し without specifying a timefra
 
 **Correct Answer:** 折り返し (call back / return call)
 
-**Explanation:** 折り返し must include a timeframe — saying 折り返しご連絡いたします without a time leaves the guest waiting indefinitely; adding 〇時間以内に (within〜hours) or 本日中に (by end of day) sets a clear expectation and holds the staff accountable.
+**Explanation:** 折り返し must include a timeframe: saying 折り返しご連絡いたします without a time leaves the guest waiting indefinitely; adding 〇時間以内に (within〜hours) or 本日中に (by end of day) sets a clear expectation and holds the staff accountable.

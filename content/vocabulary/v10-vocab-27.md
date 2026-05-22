@@ -4,9 +4,9 @@ section: 27
 title: 両替 (ryougae)
 ---
 
-両替 (両替) literally means "exchanging both sides," with 両 (ryou) meaning "both" and 替 (gae) derived from 替える (kaeru), "to exchange." In the context of Japanese hospitality, it refers specifically to the exchange of currencies or the breaking of large bills into smaller denominations. For international guests, currency exchange is often one of the first services they require upon arrival, and handling it smoothly signals the hotel's attentiveness to foreign visitors. Demonstrating precision and transparency during 両替 reflects the omotenashi spirit of anticipating and meeting guest needs without being asked.
+両替 (両替) literally means "exchanging both sides," with 両 (ryou) meaning "both" and 替 (gae) derived from 替える (kaeru), "to exchange." In the context of Japanese hospitality, it refers specifically to the exchange of currencies or the breaking of large bills into smaller denominations. For international guests, currency exchange is often one of the first services they need on arrival, and handling it smoothly sets the tone for the rest of the stay. Worth noting: Japan still runs substantially on cash in many contexts, so 両替 comes up more often than you might expect even at properties with full card acceptance.
 
-In hotels, ryokan, and airport facilities, 両替 services may include foreign currency exchange as well as providing change in smaller denominations for tipping at onsen or purchasing items from vending machines. Staff should always count bills aloud in front of the guest to confirm the total, then present the exchanged money neatly — ideally placed in a small tray or envelope. If foreign currency exchange is not available on-site, staff should proactively direct guests to the nearest bank, post office, or authorized exchange bureau (両替所).
+In hotels, ryokan, and airport facilities, 両替 services may include foreign currency exchange as well as providing change in smaller denominations for tipping at onsen or purchasing items from vending machines. Staff should always count bills aloud in front of the guest to confirm the total, then present the exchanged money neatly, ideally placed in a small tray or envelope. If foreign currency exchange is not available on-site, staff should proactively direct guests to the nearest bank, post office, or authorized exchange bureau (両替所).
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In hotels, ryokan, and airport facilities, 両替 services may include foreign c
 
 ## Related Expressions
 
-- **為替レート (kawase reeto)** — the exchange rate applied during 両替; guests may ask about this before proceeding
-- **両替所 (ryougaejo)** — a dedicated currency exchange counter or bureau; used when the hotel cannot perform the exchange directly
+- **為替レート (kawase reeto)**: the exchange rate applied during 両替; guests may ask about this before proceeding
+- **両替所 (ryougaejo)**: a dedicated currency exchange counter or bureau; used when the hotel cannot perform the exchange directly
 
 ## Common Mistakes
 
-Learners sometimes confuse 両替 with 為替 (kawase), but 為替 refers to the exchange rate itself, not the act of exchanging. Another common error is forgetting to specify the direction of exchange — always clarify which currency is being converted from and to (〇〇から〇〇へ). Failing to count money aloud in front of the guest is also a professional oversight that can erode trust even if the amount is correct.
+Students often confuse 両替 with 為替 (kawase), but 為替 refers to the exchange rate itself, not the act of exchanging. Another common error is forgetting to specify the direction of exchange: always clarify which currency is being converted from and to (〇〇から〇〇へ). Failing to count money aloud in front of the guest is also a professional oversight that can erode trust even if the amount is correct. That said, the most important thing students miss is the difference between 両替 (exchanging currency or denominations) and simply returning お釣り; guests sometimes present large bills not to pay but specifically to get smaller notes, and staff need to recognise that request as 両替.
 
 ---
 
@@ -45,5 +45,4 @@ Learners sometimes confuse 両替 with 為替 (kawase), but 為替 refers to the
 
 **Correct Answer:** 両替 (currency exchange)
 
-**Explanation:** 両替 is a premium service guests appreciate — when handling 両替, count the notes aloud in front of the guest (〇〇ドル、〇〇ドル…合計〇〇ドルでございます) to confirm accuracy and demonstrate transparency.
-
+**Explanation:** 両替 is a premium service guests appreciate: when handling 両替, count the notes aloud in front of the guest (〇〇ドル、〇〇ドル…合計〇〇ドルでございます) to confirm accuracy and show transparency.

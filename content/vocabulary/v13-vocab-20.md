@@ -4,9 +4,12 @@ section: 20
 title: 業務 (gyoumu)
 ---
 
-業務 refers to the totality of duties, tasks, and responsibilities that constitute an employee's official work scope within an organisation. In a hotel context, 業務 encompasses everything from front desk operations and housekeeping routines to concierge services and food and beverage management. The term carries a sense of institutional responsibility — 業務 is not simply "work" in an abstract sense, but the specific, assigned functions that define a role. When a new employee is onboarded, they receive a 業務内容の説明 (gyoumu naiyou no setsumei — explanation of duties) to clarify exactly what their 業務 entails. Understanding one's 業務 thoroughly is considered essential for delivering consistent, high-quality omotenashi.
+**Pronunciation:** [gyo-u-**mu**]
+**Register:** Formal -- used in professional documentation, briefings, and internal hotel communication
 
-In daily hotel operations, 業務 is used in many compound phrases: 業務効率化 (gyoumu kooritsu-ka — improvement of operational efficiency), 業務報告 (gyoumu houkoku — work report), and 業務手順 (gyoumu tejun — operational procedure). Staff are expected to prioritise 業務 over personal preferences, and any deviation from assigned duties requires approval. The smooth execution of 業務 across all departments is what allows a hotel to function as a seamlessly coordinated service organisation.
+業務 refers to the full scope of duties and responsibilities that make up an employee's official role. This is not "work" in a vague sense -- 業務 is specific, assigned, institutional. It tells you what a person is there to do. When a new employee joins a hotel, one of the first things they receive is a 業務内容の説明 (gyoumu naiyou no setsumei), a clear explanation of exactly which duties fall under their role. Front desk operations, housekeeping routines, concierge services, food and beverage management -- each of these is the 業務 of a particular team. Understanding your own 業務 thoroughly is the starting point for delivering consistent, high-quality omotenashi.
+
+In practice, you will encounter 業務 inside many compound terms that come up in daily hotel operations: 業務効率化 (gyoumu kooritsu-ka, improvement of operational efficiency), 業務報告 (gyoumu houkoku, work report), and 業務手順 (gyoumu tejun, operational procedure). Staff are expected to prioritise their assigned 業務, and stepping outside those duties generally requires approval from a supervisor. The smooth execution of 業務 across all departments is what allows a hotel to function as a seamlessly coordinated service organisation.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In daily hotel operations, 業務 is used in many compound phrases: 業務効率
 
 ## Related Expressions
 
-- **業務内容 (gyoumu naiyou)** — the specific content or scope of one's duties, often reviewed at the start of a shift or during onboarding
-- **業務効率化 (gyoumu kooritsu-ka)** — operational efficiency improvement, a goal central to hotel management that relies on all staff performing their 業務 effectively
+- **業務内容 (gyoumu naiyou)**: the specific content and scope of one's assigned duties; you will review this at the start of every shift and during onboarding
+- **業務効率化 (gyoumu kooritsu-ka)**: the improvement of operational efficiency, a constant goal in hotel management that depends on every staff member performing their 業務 well
 
 ## Common Mistakes
 
-Learners sometimes use 仕事 (shigoto — work, job) and 業務 interchangeably, but 業務 is more formal and institutional, referring to official assigned responsibilities rather than "work" in general. Using 仕事 in formal reports or professional documents sounds too casual. Another confusion is with 作業 (sagyou — a specific task): 業務 is the broader category of all one's duties, while 作業 refers to a discrete individual task performed within those duties.
+Students often use 仕事 (shigoto: work, job) and 業務 as if they are interchangeable, but 業務 is distinctly formal and institutional. Writing 仕事 in an official work report or a professional document sounds too casual and will raise eyebrows. That said, the more subtle confusion is between 業務 and 作業 (sagyou: a specific task). Think of 業務 as the whole job -- everything your role encompasses -- and 作業 as one discrete piece of work you do within that job. Getting these two right will make your Japanese sound much more natural in a professional setting.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes use 仕事 (shigoto — work, job) and 業務 interchangeably
 
 **Answer:** 業務
 
-**Explanation:** 業務 (gyoumu) means duties — all tasks and responsibilities assigned to an employee for efficient organisational operations.
+**Explanation:** 業務 (gyoumu) means duties: all tasks and responsibilities assigned to an employee for efficient organisational operations.

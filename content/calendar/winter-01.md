@@ -1,16 +1,16 @@
 ---
 id: cal-winter
 section: 1
-title: Oseibo — Year-End Gift Giving (お歳暮) — December
+title: Oseibo, Year-End Gift Giving (お歳暮), December
 ---
 
-**Season:** Winter · December — February
+**Season:** Winter · December, February
 
-**Oseibo (お歳暮)** is the year-end gift-giving season, during which individuals and businesses send gifts to those who have supported or helped them through the year. The concept is rooted in the Japanese value of *on-gaeshi* (恩返し) — the repayment of a debt of gratitude. Recipients typically include: business clients and partners, teachers and mentors, doctors who have provided care, relatives who have hosted or helped, and long-standing professional relationships. High-end department stores — *depaato* (デパート) — process enormous volumes of gift deliveries throughout December.
+**Oseibo (お歳暮)** is the year-end gift-giving season, during which individuals and businesses send gifts to those who have supported or helped them through the year. The concept is rooted in the Japanese value of *on-gaeshi* (恩返し), the repayment of a debt of gratitude. Recipients typically include: business clients and partners, teachers and mentors, doctors who have provided care, relatives who have hosted or helped, and long-standing professional relationships. High-end department stores, *depaato* (デパート), process enormous volumes of gift deliveries throughout December.
 
 **Who participates:**
 
-Oseibo is primarily a practice of adults in professional and social relationships. It is distinct from *omiyage* (souvenir gifts brought back from travel) and from *ochugen* (the mid-year equivalent). For hospitality professionals, understanding the practice helps you assist guests who are coordinating gifts through the property — sending items to multiple recipients, managing deliveries, or selecting appropriate gifts from the property's shop.
+Oseibo is primarily a practice of adults in professional and social relationships. It is distinct from *omiyage* (souvenir gifts brought back from travel) and from *ochugen* (the mid-year equivalent). For hospitality professionals, understanding the practice helps you assist guests who are coordinating gifts through the property, sending items to multiple recipients, managing deliveries, or selecting appropriate gifts from the property's shop.
 
 **The practical hospitality dimension:**
 
@@ -20,11 +20,11 @@ Business guests during Oseibo season may:
 - Ask for recommendations on appropriate gifts representing the local area
 - Require gift-wrapping services with *noshi* (formal gift notation paper) and appropriate uwagaki (occasion labels such as お歳暮)
 
-Each of these is a genuine service opportunity. A guest who asks for help coordinating year-end deliveries is trusting the property with something socially significant — respond with the same attentiveness you would give any guest service.
+Each of these is a genuine service opportunity. A guest who asks for help coordinating year-end deliveries is trusting the property with something socially significant, respond with the same attentiveness you would give any guest service.
 
 **Gift-wrapping and labelling:**
 
-For formal oseibo gifts, the *noshi* label typically reads *お歳暮 (oseibo)* above the ribbon pattern and the sender's family name below. If your property offers gift-wrapping services, ensure staff understand the correct labelling conventions — an incorrectly labelled formal gift is a social error the guest will notice.
+For formal oseibo gifts, the *noshi* label typically reads *お歳暮 (oseibo)* above the ribbon pattern and the sender's family name below. If your property offers gift-wrapping services, ensure staff understand the correct labelling conventions, an incorrectly labelled formal gift is a social error the guest will notice.
 
 ---
 
@@ -54,9 +54,9 @@ For formal oseibo gifts, the *noshi* label typically reads *お歳暮 (oseibo)* 
 
 - A. Explain that gift delivery coordination is outside the hotel's standard services
 - B. Tell them the front desk is very busy and suggest a local courier service
-- C. Receive the request warmly, assure them it is no trouble, and confirm a clear process for managing the deliveries — including timelines, address verification, and follow-up confirmation
+- C. Receive the request warmly, assure them it is no trouble, and confirm a clear process for managing the deliveries: including timelines, address verification, and follow-up confirmation
 - D. Ask them to bring the boxes to the front desk and fill out a form themselves
 
-**Correct Answer:** Receive the request warmly, assure them it is no trouble, and confirm a clear process for managing the deliveries — including timelines, address verification, and follow-up confirmation
+**Correct Answer:** Receive the request warmly, assure them it is no trouble, and confirm a clear process for managing the deliveries: including timelines, address verification, and follow-up confirmation
 
-**Explanation:** Oseibo deliveries are a meaningful social responsibility for the guest. Their slight apology signals they know they are asking for something beyond the routine. A warm, efficient response that treats the request as a genuine service — not an imposition — is an expression of the omotenashi spirit. The guest should leave the interaction feeling that the property understood what they were entrusting it with.
+**Explanation:** Oseibo deliveries are a meaningful social responsibility for the guest. Their slight apology signals they know they are asking for something beyond the routine. A warm, efficient response that treats the request as a genuine service: not an imposition: is an expression of the omotenashi spirit. The guest should leave the interaction feeling that the property understood what they were entrusting it with.

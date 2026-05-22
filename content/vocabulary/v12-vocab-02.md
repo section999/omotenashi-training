@@ -4,9 +4,12 @@ section: 2
 title: 火災 (kasai)
 ---
 
-火災 refers to the outbreak of fire that poses a serious threat to life, property, and business continuity. In Japanese hospitality settings, fire safety is treated with the utmost seriousness because hotels and ryokan accommodate sleeping guests who may not be alert to early warning signs. Staff must know the location of all fire extinguishers, alarm pull stations, and evacuation routes before beginning their first shift. The word 火災 signals not just the presence of flames but the full activation of the establishment's emergency protocol — a distinction that separates a minor incident from a life-threatening event.
+**Pronunciation:** [**ka**-sai]
+**Register:** Formal, the official term used in announcements, reports, and emergency protocols
 
-Regular fire drills (防災訓練, bousai kunren) ensure that both staff and guests can respond correctly when a 火災 occurs. When communicating a fire situation, staff should use 火災 in combination with location information and clear directives to avoid confusion and enable fast, orderly evacuation.
+火災 refers to a fire outbreak that threatens lives, property, and operations. In Japanese hospitality settings, fire safety is taken extremely seriously because hotels and ryokan house sleeping guests who may not be alert to early warning signs. Before your first shift, you should know where every fire extinguisher, alarm pull station, and evacuation route is located. The word 火災 signals not just flames but the full activation of your property's emergency protocol, which is what separates a minor contained incident from a life-threatening event requiring coordinated response.
+
+Regular fire drills (防災訓練, bousai kunren) make sure both staff and guests can respond correctly when a 火災 occurs. In practice, when communicating a fire situation, pair 火災 with specific location information and clear, simple directives so people can move fast without confusion. Clear, early communication during a fire emergency is always the right call.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Regular fire drills (防災訓練, bousai kunren) ensure that both staff and gue
 
 ## Related Expressions
 
-- **火事 (kaji)** — a more colloquial and emotionally charged word for fire, commonly heard in everyday speech or in someone crying out in alarm; 火災 is the formal term used in official reports, signage, and announcements.
-- **出火 (shukka)** — means "outbreak of fire" with an emphasis on the point of ignition; used in technical or investigative language rather than in guest-facing communication.
+- **火事 (kaji)**: the everyday, emotionally charged word for fire that you hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
+- **出火 (shukka)**: "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication
 
 ## Common Mistakes
 
-Learners sometimes use the casual 火事 in formal announcements, which sounds unprofessional and can undermine the authority of the message. Another mistake is confusing 火災 with 火気 (kaki, meaning "open flame" or "fire hazard") — 火気厳禁 means "no open flames" as a preventive rule, while 火災 refers to an actual fire event. Staff should also avoid delaying use of the word 火災 out of hesitation — early, clear communication is always safer than ambiguity.
+Students sometimes use the casual 火事 in formal announcements, which sounds off and can undermine the authority of the message. Worth noting, there is also a common mix-up between 火災 and 火気 (kaki, meaning "open flame" or "fire hazard"): 火気厳禁 is a preventive rule posted on signage, while 火災 refers to an actual fire event in progress. The other thing to avoid is hesitating before using the word 火災. Early, clear communication is always safer than trying to soften the message.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes use the casual 火事 in formal announcements, which sounds u
 
 **Answer:** 火災
 
-**Explanation:** 火災 (kasai) means fire — an outbreak of flames causing property damage or injury requiring immediate response.
+**Explanation:** 火災 (kasai) means fire: an outbreak of flames causing property damage or injury requiring immediate response.

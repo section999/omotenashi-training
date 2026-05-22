@@ -4,9 +4,9 @@ section: 12
 title: 歯ブラシ (haburashi)
 ---
 
-歯ブラシ means toothbrush and is a key component of the amenity set provided in Japanese hotel and ryokan rooms. Japan has a strong cultural emphasis on dental hygiene, and it is considered standard hospitality practice to provide each guest with an individually wrapped, disposable 歯ブラシ along with toothpaste (歯磨き粉). In ryokan, the 歯ブラシ is often part of an elegantly arranged amenity kit set on the bathroom counter, alongside yukata accessories and other care items. Housekeeping staff must ensure that a fresh, sealed 歯ブラシ is provided for every new guest and that used ones are discarded without exception during room turnover.
+歯ブラシ means toothbrush, and it is a standard part of the amenity set in Japanese hotel and ryokan rooms. Japan has a strong cultural emphasis on dental hygiene, and providing each guest with an individually wrapped disposable 歯ブラシ together with toothpaste (歯磨き粉) is expected as a baseline. In ryokan, the 歯ブラシ is typically part of a neatly arranged amenity kit on the bathroom counter, displayed alongside yukata accessories and other personal care items. The rule in housekeeping is absolute: a used 歯ブラシ must never remain in a room at turnover. Used ones go out, sealed replacements go in.
 
-When a guest requests a 歯ブラシ — whether because they forgot to pack one or because they need a replacement — staff should bring it to the room promptly and politely, treating the request as completely routine. In some hotels, 歯ブラシ kits are stored at the front desk for easy access, while in others they are kept in the housekeeping supply closet on each floor. Knowing how to locate and deliver a 歯ブラシ efficiently, and how to communicate this service in polite Japanese, is an essential practical skill for all hotel staff.
+When a guest asks for a 歯ブラシ, treat the request as completely routine, whether they forgot to pack one or simply want a spare. Bring it to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. In practice, knowing where to find one quickly and how to phrase your response in polite Japanese is the kind of readiness that makes real day-to-day service run smoothly.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When a guest requests a 歯ブラシ — whether because they forgot to pack one
 
 ## Related Expressions
 
-- **歯磨き粉 (hamigakiko)** — Toothpaste; almost always provided alongside 歯ブラシ as a paired amenity — both should be checked and replenished together.
-- **アメニティセット (ameniti setto)** — Amenity set; the packaged collection of personal care items including 歯ブラシ, toothpaste, comb, and razor that is standard in Japanese hotel rooms.
+- **歯磨き粉 (hamigakiko)**: toothpaste; provided alongside 歯ブラシ as a standard pair, so always check and replenish both at the same time.
+- **アメニティセット (ameniti setto)**: amenity set; the packaged collection of personal care items that typically includes 歯ブラシ, toothpaste, comb, and razor, standard in Japanese hotel rooms.
 
 ## Common Mistakes
 
-A common mistake is providing only a 歯ブラシ when a guest requests it, without also offering or including toothpaste — the two are almost always expected as a pair. Staff should never place a previously opened or removed 歯ブラシ in a freshly serviced room; always use a sealed, individually wrapped item. When responding to a request, avoid saying 「どうぞ」alone while handing over the toothbrush — always frame the delivery with a complete polite phrase such as 「お持ちいたしました」.
+If a guest asks for a 歯ブラシ, bring the toothpaste along too. They are a pair and guests expect both to arrive together. Placing an opened or previously used 歯ブラシ in a serviced room is never acceptable under any circumstances: always use a sealed, individually wrapped item. When delivering it to the room, do not just hand it over with a plain 「どうぞ」. Close the interaction properly with a complete polite phrase like 「お持ちいたしました」, which signals that the service was handled attentively from start to finish.
 
 ---
 
@@ -45,5 +45,5 @@ A common mistake is providing only a 歯ブラシ when a guest requests it, with
 
 **Correct Answer:** お持ち (bringing (polite))
 
-**Explanation:** お持ちいたします means "I will bring it" — the お持ち stem with いたします forms the humble request-fulfillment phrase used across hotel service.
+**Explanation:** お持ちいたします means "I will bring it": the お持ち stem with いたします forms the humble request-fulfillment phrase used across hotel service.
 

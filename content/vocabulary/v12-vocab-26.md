@@ -4,9 +4,9 @@ section: 26
 title: 避難場所 (hinan basho)
 ---
 
-避難場所 refers to an officially designated evacuation area where people must gather when an emergency forces them to leave a building. In Japanese hospitality, knowledge of the 避難場所 is a fundamental duty of every staff member, as hotel guests are unfamiliar with the property layout and depend entirely on staff guidance during crises. These areas are typically located at a safe distance from the building — a car park, open courtyard, or public park — and are marked on evacuation maps posted in guest rooms and corridor fire-safety panels. The word 避難 (hinan) means "to take refuge or evacuate," while 場所 (basho) means "place," making the compound transparently clear even to guests with limited Japanese. Staff must be able to communicate the location of the nearest 避難場所 verbally, on foot, and through signage in multilingual formats where possible.
+避難場所 refers to an officially designated evacuation area where people must gather when an emergency forces them to leave a building. In Japanese hospitality, knowledge of the 避難場所 is a fundamental duty of every staff member, as hotel guests are unfamiliar with the property layout and depend entirely on staff guidance during crises. These areas are typically located at a safe distance from the building, a car park, open courtyard, or public park, and are marked on evacuation maps posted in guest rooms and corridor fire-safety panels. The word 避難 (hinan) means "to take refuge or evacuate," while 場所 (basho) means "place," making the compound transparently clear even to guests with limited Japanese. Staff must be able to communicate the location of the nearest 避難場所 verbally, on foot, and through signage in multilingual formats where possible.
 
-In practice, staff should memorize the 避難場所 for their assigned floor or section and rehearse the evacuation route during regular drills. During an actual emergency, the priority is to guide guests calmly and efficiently without creating panic — phrases such as こちらへどうぞ (please come this way) combined with clear gestures are more effective than lengthy verbal explanations under stress. Once at the 避難場所, a roll call using the guest list or room assignment records allows staff to confirm that all guests are accounted for. Cooperation with fire wardens, local authorities, and emergency services at the 避難場所 is essential for an organized response.
+In practice, staff should memorize the 避難場所 for their assigned floor or section and rehearse the evacuation route during regular drills. During an actual emergency, the priority is to guide guests calmly and efficiently without creating panic, phrases such as こちらへどうぞ (please come this way) combined with clear gestures are more effective than lengthy verbal explanations under stress. Once at the 避難場所, a roll call using the guest list or room assignment records allows staff to confirm that all guests are accounted for. Cooperation with fire wardens, local authorities, and emergency services at the 避難場所 is essential for an organized response.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practice, staff should memorize the 避難場所 for their assigned floor or 
 
 ## Related Expressions
 
-- **避難経路 (hinan keiro)** — evacuation route; the designated path leading from the building to the 避難場所; posted on corridor maps and should be explained to guests at check-in for high-risk areas
-- **集合場所 (shuugou basho)** — assembly point; a near-synonym sometimes used interchangeably with 避難場所, though 集合場所 can also refer to non-emergency meeting points
+- **避難経路 (hinan keiro)**: evacuation route; the designated path leading from the building to the 避難場所; posted on corridor maps and should be explained to guests at check-in for high-risk areas
+- **集合場所 (shuugou basho)**: assembly point; a near-synonym sometimes used interchangeably with 避難場所, though 集合場所 can also refer to non-emergency meeting points
 
 ## Common Mistakes
 
-Staff sometimes confuse 避難場所 (evacuation area — the destination) with 避難経路 (evacuation route — the path to get there), which can cause unclear guidance during a crisis. Another error is assuming guests know where the 避難場所 is without explicit instruction — foreign guests especially may not have read the room safety card. Learners should also avoid using casual speech during emergency announcements; even under pressure, maintaining a calm and formal register helps guests follow instructions without additional panic.
+Staff sometimes confuse 避難場所 (evacuation area: the destination) with 避難経路 (evacuation route: the path to get there), which can cause unclear guidance during a crisis. Another error is assuming guests know where the 避難場所 is without explicit instruction: foreign guests especially may not have read the room safety card. Learners should also avoid using casual speech during emergency announcements; even under pressure, maintaining a calm and formal register helps guests follow instructions without additional panic.
 
 ---
 
@@ -44,4 +44,4 @@ Staff sometimes confuse 避難場所 (evacuation area — the destination) with 
 
 **Correct Answer:** 避難場所 (evacuation area)
 
-**Explanation:** 避難場所 (hinan basho) means evacuation area — the designated gathering point during an emergency. 消防車 = fire truck, 警報 = alarm, 医者 = doctor.
+**Explanation:** 避難場所 (hinan basho) means evacuation area: the designated gathering point during an emergency. 消防車 = fire truck, 警報 = alarm, 医者 = doctor.

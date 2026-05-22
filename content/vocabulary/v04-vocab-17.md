@@ -4,9 +4,9 @@ section: 17
 title: 汚れ (yogore)
 ---
 
-汚れ refers to dirt, stains, grime, or any visible soiling on surfaces, fabrics, or fixtures. In Japanese hospitality culture, the presence of 汚れ in a guest room or dining area is treated as an urgent matter, because spotless cleanliness is one of the foundational expectations guests have of any hotel or ryokan. The ability to spot, name, and address 汚れ accurately and quickly is therefore a key professional skill for housekeeping and front-line service staff alike.
+汚れ refers to dirt, stains, grime, or any visible soiling on surfaces, fabrics, or fixtures. In Japanese hospitality, the presence of 汚れ in a guest room or dining area calls for immediate attention. Guests expect spotless cleanliness as a baseline, and spotting a stain before the guest does is the mark of a thorough housekeeper. That ability to notice and name 汚れ accurately, then address it quickly with the right method, is a practical skill that takes real time to develop.
 
-In practical hotel operations, staff encounter 汚れ in a wide range of contexts — carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, and scuff marks on corridor walls. When a guest reports a 汚れ, the ideal response combines acknowledgment with immediate action, as expressed in the phrase 汚れをすぐに清掃いたします. In internal communication, staff may describe the type of stain (e.g., 食べ物の汚れ — food stain, 水の汚れ — water stain) to ensure the correct cleaning method is applied.
+In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, scuff marks on corridor walls. When a guest reports a 汚れ, the right response combines acknowledgment with immediate action: 汚れをすぐに清掃いたします. In internal communication, specifying the type of stain (食べ物の汚れ for a food stain, 水の汚れ for a watermark) helps ensure the correct cleaning method is applied. In practice, not all stains respond to the same treatment, and using the wrong product can make things worse.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In practical hotel operations, staff encounter 汚れ in a wide range of context
 
 ## Related Expressions
 
-- **破損 (hason)** — Physical damage to an object or fixture. While 汚れ refers to surface-level soiling that can usually be cleaned, 破損 implies structural or material damage requiring repair or replacement — the two must be distinguished when filing incident reports.
-- **清掃 (seisou)** — The act of cleaning. 清掃 is the formal term for the cleaning process staff carry out in response to 汚れ; knowing both words together allows staff to form complete, professional statements about the problem and its solution.
+- **破損 (hason)**: Physical damage to an object or fixture. While 汚れ refers to surface-level soiling that can usually be cleaned, 破損 implies structural or material damage requiring repair or replacement: the two must be distinguished when filing incident reports.
+- **清掃 (seisou)**: The act of cleaning. 清掃 is the formal term for the cleaning process staff carry out in response to 汚れ; knowing both words together allows staff to form complete, professional statements about the problem and its solution.
 
 ## Common Mistakes
 
-Learners sometimes use 汚い (kitanai — dirty/filthy) instead of 汚れ when speaking to guests, but 汚い is an adjective with a blunter, more negative connotation that can sound accusatory; 汚れ as a noun is neutral and professional. Another mistake is failing to couple the identification of 汚れ with an immediate action — simply saying 汚れがあります ("there is a stain") without following up sounds passive; hospitality contexts always call for an action verb such as 清掃いたします or 対応いたします. Trainees should also avoid describing the stain in excessive detail to a guest, as this can amplify discomfort.
+Students sometimes reach for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります ("there is a stain") without following up sounds passive and unhelpful. Always add 清掃いたします or 対応いたします. And when reporting to a guest, avoid going into excessive detail about what the stain looks like. Keep it brief and move straight to the solution.
 
 ---
 
@@ -44,4 +44,4 @@ Learners sometimes use 汚い (kitanai — dirty/filthy) instead of 汚れ when 
 
 **Correct Answer:** 汚れをすぐに清掃いたします (we will clean the stain immediately)
 
-**Explanation:** 汚れをすぐに清掃いたします means "we will clean the stain immediately" — すぐに (immediately) combined with いたします shows urgency and professionalism.
+**Explanation:** 汚れをすぐに清掃いたします means "we will clean the stain immediately": すぐに (immediately) combined with いたします shows urgency and professionalism.

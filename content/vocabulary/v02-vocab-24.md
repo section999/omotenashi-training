@@ -4,9 +4,9 @@ section: 24
 title: レイトチェックアウト (late check-out)
 ---
 
-レイトチェックアウト refers to the option of departing from one's hotel room later than the standard check-out time, which in most Japanese hotels is 11:00 AM or 12:00 PM. It is a highly popular request, particularly among guests who have late afternoon flights, business meetings running into the day, or simply wish to enjoy a more leisurely departure. When granted, it allows the guest to use the room — including shower, rest, and storage of belongings — beyond the normal deadline. Hotels typically offer this subject to availability, and it may be complimentary for members or chargeable depending on policy.
+レイトチェックアウト refers to the option of departing from one's hotel room later than the standard check-out time, which in most Japanese hotels is 11:00 AM or 12:00 PM. It is a highly popular request, particularly among guests who have late afternoon flights, business meetings running into the day, or simply wish to enjoy a more leisurely departure. When granted, it allows the guest to use the room, including shower, rest, and storage of belongings, beyond the normal deadline. Hotels typically offer this subject to availability, and it may be complimentary for members or chargeable depending on policy.
 
-Staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.
+In practice, staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is the same: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff handle レイトチェックアウト requests either at check-in (when a 
 
 ## Related Expressions
 
-- **早朝チェックイン (sōchō chekku-in)** — early check-in, the counterpart concept. Both services involve extending the standard boundaries of room occupancy and carry similar policies regarding availability and fees. Staff handling one should be equally fluent in explaining the other.
-- **チェックアウト時間 (chekku-auto jikan)** — the check-out time. Staff must know and clearly communicate the hotel's standard チェックアウト時間 as the baseline for any レイトチェックアウト discussion. Always state the standard time first before offering or explaining the late option.
+- **早朝チェックイン (sōchō chekku-in)**: early check-in, the counterpart concept. Both services involve extending the standard boundaries of room occupancy and carry similar policies regarding availability and fees. Staff handling one should be equally fluent in explaining the other.
+- **チェックアウト時間 (chekku-auto jikan)**: the check-out time. Staff must know and clearly communicate the hotel's standard チェックアウト時間 as the baseline for any レイトチェックアウト discussion. Always state the standard time first before offering or explaining the late option.
 
 ## Common Mistakes
 
-A common error is agreeing to レイトチェックアウト without first checking system availability — this can lead to housekeeping conflicts and complaints if the room is needed for an incoming guest. Learners sometimes omit the fee disclosure, either forgetting it or hoping to avoid awkwardness, but this invariably causes disputes at check-out; fees must always be communicated upfront. Staff should also avoid saying レイトチェックアウトはできません flatly — instead, acknowledge the request warmly and offer the closest available alternative before delivering the refusal.
+A common error is agreeing to レイトチェックアウト without first checking system availability. This can lead to housekeeping conflicts and complaints if the room is needed for an incoming guest. Students sometimes omit the fee disclosure, either forgetting it or hoping to avoid awkwardness, but this invariably causes disputes at check-out. Fees must always be communicated upfront. That said, the way you decline matters just as much as the refusal itself. Avoid saying レイトチェックアウトはできません flatly. Instead, acknowledge the request warmly and offer the closest available alternative before delivering the refusal.
 
 ---
 
@@ -44,4 +44,4 @@ A common error is agreeing to レイトチェックアウト without first check
 
 **Correct Answer:** レイトチェックアウトできますか (can I have late check-out?)
 
-**Explanation:** レイトチェックアウトできますか is the natural and polite way for a guest to ask — staff should recognize and respond warmly to this.
+**Explanation:** レイトチェックアウトできますか is the natural and polite way for a guest to ask: staff should recognize and respond warmly to this.

@@ -4,9 +4,9 @@ section: 20
 title: キャンセル料 (kyanseru ryou)
 ---
 
-キャンセル料 (kyanseru ryou) is the fee charged to a guest when a reservation is cancelled, typically calculated as a percentage of the total booking value and applied when the cancellation falls within a specified window before the arrival date. In Japan's hospitality industry, cancellation policies are taken seriously: properties rely on confirmed bookings to manage staffing, food procurement, and room allocation, and late cancellations cause genuine operational and financial disruption. For this reason, communicating キャンセル料 policies clearly at the time of booking is both a legal obligation and a mark of professional integrity.
+キャンセル料 is the fee a property charges when a guest cancels a reservation. It is usually calculated as a percentage of the total booking value and kicks in once the cancellation falls inside a certain window before arrival. Japanese properties take these policies seriously, and not just for financial reasons. Late cancellations affect staffing levels, food orders that have already been placed, and room availability that could have been offered to other guests. Communicating the キャンセル料 structure at the time of booking is both a professional standard and, in many cases, a legal requirement.
 
-The practical skill for staff is not simply knowing that キャンセル料 exists, but being able to explain the specific policy attached to a given プラン — which day the charge begins, what percentage applies at each tier, and how to calculate the actual amount. A clear explanation at booking time — キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます — prevents disputes at cancellation and ensures the guest gives informed consent to the policy when confirming their reservation.
+The real skill here is not just knowing that the fee exists. In practice, you need to be able to explain the specific tiers attached to the プラン: when the charges start, what percentage applies at each stage, and what the actual yen amount will be. A statement like 「キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます」 gives the guest a clear picture before they confirm, so they are making an informed decision, not just agreeing to something they did not fully read.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The practical skill for staff is not simply knowing that キャンセル料 exis
 
 ## Related Expressions
 
-- **無料キャンセル (muryou kyanseru)** — The period or condition under which a guest may cancel without incurring キャンセル料. Many plans advertise 無料キャンセル up to a certain date as a selling point; understanding both terms together helps staff explain the full cancellation policy spectrum clearly.
-- **返金 (henkin)** — Refund. When a cancellation results in a partial charge, the remainder is returned as 返金. Knowing this word allows staff to explain both sides of the cancellation transaction: キャンセル料 is charged, and the balance is refunded as 返金.
+- **無料キャンセル (muryou kyanseru)**: the window during which a guest can cancel at no cost; many plans advertise this as a selling point, and knowing both terms together lets you explain the full cancellation policy in a single clear statement.
+- **返金 (henkin)**: refund; when a cancellation results in a partial charge, the remaining amount goes back to the guest as 返金; being clear about both sides of the transaction, what is charged and what is returned, keeps the conversation honest and avoids confusion.
 
 ## Common Mistakes
 
-A common and serious mistake is failing to mention キャンセル料 at the time of booking, leaving the guest unaware of the policy until they try to cancel and receive an unexpected charge — this is a leading cause of complaints and disputes. Staff also sometimes state the policy only in percentage terms without calculating the actual yen amount, which leaves guests unable to make an informed decision; providing the specific figure (例: 15,000円のキャンセル料が発生します) is far more transparent. Finally, learners sometimes confuse キャンセル料 with 返金 and use them interchangeably, when they describe opposite financial flows.
+Not mentioning キャンセル料 at booking time is one of the most reliable ways to generate a complaint. When a guest cancels and gets hit with an unexpected fee, no amount of polite explanation at that point fully repairs the trust. Students often state the policy only in percentage terms, which is less useful than it sounds. Telling someone "50% will be charged" means nothing until they know 50% of what. Give them the number: 「15,000円のキャンセル料が発生します」 is transparent and concrete. One more thing: キャンセル料 and 返金 are not interchangeable; they move in opposite directions. キャンセル料 is money you collect from the guest; 返金 is money you return to them. Keep those clear in your own mind before you try to explain either to a guest.
 
 ---
 
@@ -44,5 +44,5 @@ A common and serious mistake is failing to mention キャンセル料 at the tim
 
 **Correct Answer:** キャンセル料が発生します (a cancellation fee will apply)
 
-**Explanation:** キャンセル料 policy must be communicated at the time of booking — saying キャンセル料が発生する場合がございます (a cancellation fee may apply) with the specific window ensures the guest cannot later claim they were not informed.
+**Explanation:** キャンセル料 policy must be communicated at the time of booking: saying キャンセル料が発生する場合がございます (a cancellation fee may apply) with the specific window ensures the guest cannot later claim they were not informed.
 

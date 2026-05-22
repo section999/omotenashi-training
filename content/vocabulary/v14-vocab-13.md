@@ -4,9 +4,12 @@ section: 13
 title: 人気 (ninki)
 ---
 
-人気 (ninki) means "popularity" and describes anything that is well-liked, in high demand, or frequently chosen by many people. In tourism and hospitality settings, the word appears constantly — from hotel concierges recommending popular local restaurants to tour brochures highlighting must-see attractions. The concept carries a positive, trustworthy connotation, implying that something has been tried and approved by a large number of people. Guests often specifically seek out 人気スポット (ninki supotto, popular spots) because the crowd's endorsement provides reassurance.
+**Pronunciation:** [nin-**ki**]
+**Register:** Neutral, everyday speech, tourism recommendations, written materials
 
-For hotel staff, 人気 is a powerful tool in service conversations. When a guest asks for a recommendation, responding with 「こちらはとても人気があります」("This one is very popular") signals genuine helpfulness without pushing a personal opinion. The phrase 人気ランキング (ninki rankingu, popularity ranking) appears on tourist maps, app listings, and printed guides, and staff who can cite these rankings are seen as knowledgeable and attentive. Being aware of seasonal 人気 — such as cherry blossom viewing spots in spring or autumn foliage destinations — allows concierges to tailor recommendations to the time of year.
+人気 means "popularity" and describes anything well-liked, in high demand, or widely chosen. In tourism and hospitality, the word is everywhere: concierges use it when pointing guests toward popular restaurants, brochures use it to label must-see spots, and apps build whole 人気ランキング (popularity rankings) around it. The reason it works so well as a recommendation tool is that it appeals to the guest's sense of trust: if many people like something, there's reassurance in the crowd's judgment.
+
+For hotel staff, 人気 is genuinely useful in service conversations. When a guest asks for a suggestion, saying 「こちらはとても人気があります」 feels helpful rather than pushy, because you're reporting what others have found rather than pushing your own taste. That said, the word gets even more powerful when you pair it with timing: knowing which spots are most popular during cherry blossom season or autumn foliage means you can tailor your recommendations to the moment rather than giving the same answer year-round. Guests notice when a staff member speaks to the season.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ For hotel staff, 人気 is a powerful tool in service conversations. When a gues
 
 ## Related Expressions
 
-- **おすすめ (osusume)** — a personal recommendation, whereas 人気 implies broad public approval; both are used by hotel staff but carry different nuances of authority
-- **評判 (hyouban)** — reputation or buzz; similar to 人気 but emphasises what people are saying rather than a measurable popularity ranking
+- **おすすめ (osusume)**: a personal recommendation coming from the speaker; contrasts with 人気, which implies broad public approval from many people
+- **評判 (hyouban)**: reputation or word-of-mouth buzz; similar territory to 人気 but emphasizes what people are saying rather than a measurable popularity count
 
 ## Common Mistakes
 
-Learners sometimes confuse 人気 with おすすめ and use them interchangeably, but 人気 refers to objective popularity (many people like it), while おすすめ is a subjective recommendation from the speaker. Another error is saying 人気がいい instead of the correct 人気がある or 人気が高い — the adjective form does not pair naturally with いい. When writing formally, 人気を博している (ninki wo hakushite iru, enjoying popularity) is more appropriate than simply 人気だ.
+Students often mix up 人気 and おすすめ and use them as if they mean the same thing, but the distinction matters. 人気 is about objective popularity (many people like this), while おすすめ is a personal suggestion from you. One more thing to watch: saying 人気がいい is a very common error. The correct forms are 人気がある or 人気が高い. The adjective form doesn't pair naturally with いい. When writing formally, 人気を博している (enjoying popularity) is more polished than simply 人気だ.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes confuse 人気 with おすすめ and use them interchangeably
 
 **Correct Answer:** 人気 (popularity)
 
-**Explanation:** 人気 (ninki) means popular — well-liked or in demand. 名所 = famous place, おすすめ = recommendation, ツアー = tour.
+**Explanation:** 人気 (ninki) means popular: well-liked or in demand. 名所 = famous place, おすすめ = recommendation, ツアー = tour.

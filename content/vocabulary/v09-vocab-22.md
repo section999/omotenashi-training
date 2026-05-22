@@ -4,9 +4,9 @@ section: 22
 title: 期限 (kigen)
 ---
 
-期限 (kigen) refers to a fixed deadline — the last date or time by which a particular action must be completed. In hotel operations, 期限 governs a wide range of processes: the deadline to confirm a tentative reservation (仮予約の確認期限), the cutoff for free cancellation (無料キャンセルの期限), the payment deadline for pre-paid plans, and the response window for special requests. Understanding and accurately communicating 期限 is a core competency for hotel staff because a missed deadline on either side — by the guest or by staff — can result in lost bookings, unexpected charges, or operational failures.
+期限 is the word for a fixed deadline: the last date or time by which a particular action must be taken. In hotel operations you will encounter this constantly. There is the deadline to confirm a tentative booking (仮予約の確認期限), the cutoff for free cancellation (無料キャンセルの期限), the payment deadline on prepaid plans, and time windows for special requests. When a 期限 is missed, on either side, the consequences tend to be real: lost bookings, charges the guest was not expecting, or operational breakdowns that are hard to unwind.
 
-The standard professional practice is to state 期限 with both the date and time, not just one or the other. A statement like 期限は明日です is too vague because "tomorrow" could reasonably be interpreted as any time during that day, and a guest who acts at 11:59 p.m. may miss a cutoff intended for 3:00 p.m. The complete and courteous formulation is 〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます, which eliminates ambiguity and prevents misunderstandings that could harm the guest relationship or the hotel's operations.
+The rule that students often overlook is that a 期限 needs both a date and a time. Saying 「期限は明日です」 sounds helpful but is functionally incomplete. "Tomorrow" could mean 9 a.m., 3 p.m., or 11:59 p.m., and a guest who acts on the wrong assumption may miss a cutoff they genuinely tried to meet. The professional formulation is 「〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます」, which leaves no room for misinterpretation. In practice, for any deadline that really matters, following up with a written confirmation gives both you and the guest a clear record to refer back to.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The standard professional practice is to state 期限 with both the date and tim
 
 ## Related Expressions
 
-- **締め切り (shimekiri)** — A near-synonym for 期限, 締め切り (literally "closing off") is more commonly associated with submission deadlines in business or publishing contexts. In hospitality, 期限 is the standard term for reservation-related deadlines, while 締め切り might appear in event registration or special request contexts. Using 期限 in hotel communication sounds more professional and precise.
-- **有効期限 (yuukou kigen)** — "Expiry date" or "validity period," a compound form of 期限 used specifically for items like gift certificates, points, membership status, or payment cards. Staff should recognise this term when guests ask about expiring vouchers or loyalty points.
+- **締め切り (shimekiri)**: a near-synonym for 期限, literally "closing off," but more at home in business or publishing contexts for submission deadlines; in hotel communication 期限 is the standard term for reservation-related cutoffs, while 締め切り might surface in event registration or special request scenarios.
+- **有効期限 (yuukou kigen)**: "expiry date" or "validity period," a compound that attaches 期限 to items like gift vouchers, loyalty points, membership status, or payment cards; recognise this when a guest asks about an expiring voucher or whether their accumulated points are still valid.
 
 ## Common Mistakes
 
-Stating a 期限 without specifying the time of day is the most frequent and consequential error, as it creates ambiguity that can lead to disputes. Staff sometimes also communicate deadlines only verbally without providing written confirmation, which means the guest has no record; follow-up emails or printed notices with the exact 期限 are best practice for important deadlines. A third mistake is failing to distinguish between different types of deadlines — the キャンセル期限 and the 支払い期限 (payment deadline) may be different dates, and conflating them misleads the guest about when they need to act.
+The most frequent error is stating the date without the time, and as covered above, that ambiguity is what causes disputes. Worth noting as well: verbal-only deadlines are risky because neither you nor the guest has a record to point to later. For anything time-sensitive, a follow-up email or printed note with the exact 期限 is the safer approach. A third mistake is conflating different kinds of deadlines. The キャンセル期限 and the 支払い期限 (payment deadline) are often different dates, and if you mix them up when explaining a booking, the guest ends up acting at the wrong time for the wrong reason. Keep each deadline labelled clearly, both in your own communication and in any written materials you hand over.
 
 ---
 
@@ -44,5 +44,5 @@ Stating a 期限 without specifying the time of day is the most frequent and con
 
 **Correct Answer:** 期限 (deadline / expiry)
 
-**Explanation:** 期限 (deadline) should always include both the date and time (〇月〇日〇時まで) — a deadline stated only by date is ambiguous; guests may interpret "tomorrow" as any time on that day, which can cause missed cutoffs.
+**Explanation:** 期限 (deadline) should always include both the date and time (〇月〇日〇時まで): a deadline stated only by date is ambiguous; guests may interpret "tomorrow" as any time on that day, which can cause missed cutoffs.
 

@@ -4,9 +4,12 @@ section: 24
 title: 確認します (kakunin shimasu)
 ---
 
-確認 is composed of the characters for "confirm/affirm" (確) and "recognize/verify" (認), together meaning to verify or confirm that something is as it should be. In hospitality operations, 確認します is one of the most frequently used phrases because the nature of service work involves constant checking — availability, reservations, room status, billing, guest preferences, and incident conditions. It is a phrase that buys time gracefully: rather than saying "I don't know," it signals that the answer is coming and that the staff member is actively working on it.
+**Pronunciation:** [ka-ku-**nin** shi-ma-su]
+**Register:** Formal, ubiquitous in all service contexts
 
-Practically, 確認します is used in a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting reported issues (「状況を確認いたします」), and double-checking guest requests (「ただいま確認いたします」). The phrase is most powerful when paired with a time expectation: 「すぐに確認いたします」 (I will check immediately) or 「少々お時間をいただき、確認いたします」 (please allow me a moment to verify). This combination reassures the guest and manages their expectations simultaneously.
+確認 is formed from 確, meaning "to confirm" or "make certain," and 認, meaning "to recognize" or "verify." Together they capture the idea of making sure something is exactly as it should be. In hospitality work, 確認します is one of the most frequently reached-for phrases simply because the job demands constant checking. Reservation details, room status, billing, guest preferences, reported issues: all of these require verification before you can give a confident answer. Rather than saying "I don't know," 確認します signals that the answer is coming and that you are actively working on it right now.
+
+In practice, this phrase appears across a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting a reported problem (「状況を確認いたします」), and double-checking a guest request (「ただいま確認いたします」). The phrase becomes especially powerful when paired with a time cue: 「すぐに確認いたします」 sets an expectation of immediacy, while 「少々お時間をいただき、確認いたします」 buys a moment without leaving the guest uncertain. That combination of action and timeline management is what separates a polished response from a vague one.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Practically, 確認します is used in a wide range of situations: checking res
 
 ## Related Expressions
 
-- **調べます (shirabemasu)** — Means "I will look into it" or "I will investigate," implying a broader search or inquiry. While 確認します verifies something known to exist (a reservation, a room status), 調べます suggests gathering new information from scratch. In hospitality, 確認します is more reassuring to guests because it implies the answer is retrievable, not uncertain.
-- **チェックします (chekku shimasu)** — A loanword equivalent meaning "I will check," used informally in team conversations but less appropriate in formal guest interactions. The fully Japanese 確認いたします is preferred when speaking with guests, as it sounds more deliberate and professional.
+- **調べます (shirabemasu)**: means "I will look into it" or "I will investigate," with a broader, more exploratory nuance. While 確認します verifies something that is expected to exist (a reservation, a room status), 調べます suggests gathering new information from scratch. For guests, 確認します tends to feel more reassuring because it implies the answer is already retrievable.
+- **チェックします (chekku shimasu)**: a loanword equivalent meaning "I will check," comfortable in casual team conversations but too informal for direct guest interactions. When speaking with guests, the fully Japanese 確認いたします carries more weight and deliberateness.
 
 ## Common Mistakes
 
-The most common mistake is using 確認します (plain form) with guests instead of the humble 確認いたします — this subtle shift in formality matters significantly in a high-end hotel environment. Learners also sometimes forget to follow up after confirming: saying 「確認いたします」 and then never reporting back is worse than not offering to check at all, as it sets an expectation that goes unmet. Another error is over-relying on 確認します as a generic stall tactic without actually performing the verification promptly — guests notice when "checking" takes disproportionately long with no update.
+The most common mistake is using 確認します (plain form) with guests instead of the humble 確認いたします. That difference in formality matters a great deal in an upscale hotel setting. Students also sometimes forget the follow-up: saying 「確認いたします」 and then never reporting back to the guest is actually worse than not offering to check at all, because it creates an expectation that goes unmet. One more thing worth remembering is that using 確認します as a generic stall tactic, without then actually performing the verification promptly, will not go unnoticed. Guests become frustrated when "checking" drags on with no updates.
 
 ---
 
@@ -45,5 +48,5 @@ The most common mistake is using 確認します (plain form) with guests instea
 
 **Correct Answer:** 確認します (I will confirm)
 
-**Explanation:** すぐに確認します — すぐに (immediately) paired with 確認します reassures the guest that verification is starting now, not later; it buys time professionally while action is being taken.
+**Explanation:** すぐに確認します: すぐに (immediately) paired with 確認します reassures the guest that verification is starting now, not later; it buys time professionally while action is being taken.
 

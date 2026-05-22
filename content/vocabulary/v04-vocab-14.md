@@ -4,9 +4,9 @@ section: 14
 title: 掃除機 (soujiki)
 ---
 
-掃除機 refers to the vacuum cleaner and is one of the primary tools used by housekeeping staff to maintain floor cleanliness in hotel and ryokan guest rooms. In properties with carpeted rooms, the 掃除機 is essential for removing dust, hair, crumbs, and debris that cannot be addressed with a cloth or mop. Even in rooms with wooden or tatami flooring, specialized vacuum attachments may be used for delicate surfaces. Proper use of the 掃除機 — including correct technique for carpet pile direction and attention to corners, under furniture, and along baseboards — is a key component of professional housekeeping training. In ryokan with tatami rooms, staff must use lower-suction or tatami-specific attachments to avoid damaging the fragile woven surface.
+掃除機 is the vacuum cleaner, one of the primary tools housekeeping staff use to maintain floor cleanliness in hotel and ryokan rooms. In properties with carpeted rooms, the 掃除機 handles what cloths and mops cannot: dust, hair, crumbs, and debris embedded in the pile. Even in rooms with wooden or tatami flooring, specialized vacuum attachments may be used carefully on certain surfaces. Proper technique matters: working with the carpet pile direction, covering corners and baseboards, getting under furniture. These are details that separate a thorough clean from a hasty one.
 
-Because the 掃除機 generates noise, housekeeping staff must be mindful of the time of day when using it, avoiding early mornings and late evenings to prevent disturbing guests in adjacent rooms. If a guest is present in the room, staff should always ask permission before operating the 掃除機 or offer to return at a more convenient time. Guests may occasionally ask to borrow a 掃除機 for their own use, in which case staff should assess whether hotel policy permits this and respond accordingly.
+Because the 掃除機 is noisy, timing matters. Housekeeping staff should avoid early mornings and late evenings to avoid disturbing guests in adjacent rooms. If a guest is present in the room, always ask permission before running the 掃除機, or offer to come back at a more convenient time. Occasionally a guest may ask to borrow one: staff should know whether hotel policy allows this and respond accordingly. In ryokan with tatami rooms, the rule is firm: standard vacuum attachments must not be used on tatami, as they can pull and damage the woven straw surface.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Because the 掃除機 generates noise, housekeeping staff must be mindful of the
 
 ## Related Expressions
 
-- **モップ (moppu)** — Mop; used for wet-cleaning hard floor surfaces where a vacuum cleaner is not appropriate — the two tools address different floor types and soil conditions.
-- **ほうき (houki)** — Broom; used for sweeping in outdoor or rough-surface areas; a more traditional tool that may appear in ryokan courtyards or garden paths.
+- **モップ (moppu)**: Mop; used for wet-cleaning hard floor surfaces where a vacuum cleaner is not appropriate: the two tools address different floor types and soil conditions.
+- **ほうき (houki)**: Broom; used for sweeping in outdoor or rough-surface areas; a more traditional tool that may appear in ryokan courtyards or garden paths.
 
 ## Common Mistakes
 
-Learners sometimes use 掃除機をかける (the correct verb phrase) incorrectly — the proper expression is 「掃除機をかける」 meaning "to run the vacuum cleaner," not 「掃除機を使う」, which while understood is less natural in professional housekeeping speech. Operating the 掃除機 too quickly or carelessly results in missed areas and a substandard clean — technique and thoroughness matter as much as the tool itself. Staff should also never vacuum tatami flooring with a standard attachment, as this can pull and damage the woven straw surface.
+Students often say 掃除機を使う which is understandable but less natural in professional housekeeping speech. The standard expression is 掃除機をかける, meaning "to run the vacuum cleaner." Running the 掃除機 too quickly or carelessly produces missed areas and a poor result: technique and thoroughness matter as much as having the right tool. And as noted above, never use a standard attachment on tatami flooring: the surface is fragile and damage is irreversible.
 
 ---
 
@@ -45,5 +45,5 @@ Learners sometimes use 掃除機をかける (the correct verb phrase) incorrect
 
 **Correct Answer:** 掃除機 (vacuum cleaner)
 
-**Explanation:** 掃除機 (vacuum cleaner) is the primary tool for carpeted floors — knowing cleaning tool vocabulary helps staff describe their work accurately.
+**Explanation:** 掃除機 (vacuum cleaner) is the primary tool for carpeted floors: knowing cleaning tool vocabulary helps staff describe their work accurately.
 

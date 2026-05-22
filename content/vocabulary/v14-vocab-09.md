@@ -4,9 +4,12 @@ section: 9
 title: 税関 (zeikan)
 ---
 
-税関 refers to the government authority responsible for inspecting goods entering or leaving a country and for collecting import duties and taxes where applicable. In Japan, 税関 falls under the jurisdiction of the Ministry of Finance and operates at all international airports, seaports, and land border crossings. Travellers are required to declare items they are bringing into Japan that exceed duty-free allowances — including certain quantities of alcohol, tobacco, and goods over a set monetary value — and failure to declare can result in fines or confiscation. Hospitality staff, especially at airport hotels, are sometimes asked by guests how the 税関 process works or what items are permitted entry.
+**Pronunciation:** [zei-**kan**]
+**Register:** Formal/Official, used in government, travel, and hospitality contexts
 
-Understanding basic 税関 regulations helps hospitality professionals give accurate and helpful information. Staff should know the general duty-free allowance thresholds and be able to direct guests to official customs information in multiple languages. At high-end hotels and ryokans catering to international guests who may arrive with gifts, luxury goods, or large amounts of cash, a polished explanation of customs requirements reflects both legal awareness and attentive guest care.
+税関 is the government authority responsible for inspecting goods entering or leaving Japan and for collecting any applicable import duties and taxes. It operates under the Ministry of Finance at every international airport, seaport, and land border crossing in the country. Travellers are required to declare items that exceed duty-free allowances: certain quantities of alcohol, tobacco, and goods over a set monetary value. At high-end hotels and ryokans hosting international guests who arrive with gifts, luxury purchases, or large amounts of cash, knowing the basics of 税関 regulations allows staff to answer questions accurately and direct guests to the right resources.
+
+In practice, your role as hospitality staff isn't to interpret customs law for guests: that's not your job and it's not safe to attempt it. What you can do is help them understand the process clearly and point them toward official, multilingual customs information when they need it. Students often wonder how much they need to know about 税関 specifics, and the honest answer is: enough to be helpful without overstepping. Know the general duty-free thresholds, know where to find the customs declaration form, and know how to say "please ask the customs officer" with confidence rather than guessing.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Understanding basic 税関 regulations helps hospitality professionals give accu
 
 ## Related Expressions
 
-- **税関申告書 (zeikan shinkokusho)** — "customs declaration form"; the document travellers must complete to disclose goods they are bringing in or out of Japan.
-- **免税 (menzei)** — "duty-free/tax-exempt"; refers to goods or shopping that are exempt from consumption tax or import duty, a term guests frequently encounter at airport shops and tourist retail stores.
+- **税関申告書 (zeikan shinkokusho)**: the customs declaration form that travellers complete when arriving in Japan; this is the document guests will sometimes ask front desk staff about.
+- **免税 (menzei)**: duty-free or tax-exempt; a term guests encounter constantly at airport shops and tourist retail stores, and one worth knowing so you can explain it when asked.
 
 ## Common Mistakes
 
-A frequent error is confusing 税関 (customs authority) with 税金 (zeikin, "tax") — while related in character, they refer to different things: 税関 is the institution, while 税金 is the levy itself. Learners sometimes also mix up 税関 with 入国審査 (immigration screening); these are separate processes — immigration checks your right to enter, while 税関 checks what you are bringing with you. Note that not declaring taxable items is treated as a serious legal offence in Japan, and hospitality staff should never advise guests to conceal goods.
+A common confusion is between 税関 (the customs authority as an institution) and 税金 (zeikin, "tax" as a general concept). They share the character 税, but 税関 is the government body while 税金 is the levy itself. There's also a mix-up that happens between 税関 and 入国審査: these are separate processes and separate counters at the airport. Immigration checks your right to enter Japan; customs checks what you're bringing with you. Worth noting for your own ethical grounding as a hospitality professional: you should never advise a guest to conceal or underdeclare goods. Failing to declare taxable items is a serious legal offence in Japan, and any hint that staff encouraged it would be a significant problem for your property.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent error is confusing 税関 (customs authority) with 税金 (zeikin, "t
 
 **Correct Answer:** 税関 (customs)
 
-**Explanation:** 税関 (zeikan) means customs — the government body that inspects goods and controls what enters or leaves a country. 両替所 = exchange office, 入国 = entry, 出国 = departure.
+**Explanation:** 税関 (zeikan) means customs: the government body that inspects goods and controls what enters or leaves a country. 両替所 = exchange office, 入国 = entry, 出国 = departure.

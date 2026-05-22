@@ -6,7 +6,7 @@ title: 客室 (kyakushitsu)
 
 客室 (kyakushitsu) is the formal designation for a guest room in a hotel, ryokan, or similar lodging establishment. Unlike the everyday word 部屋 (heya), 客室 carries an institutional weight that signals professional distance and respect. The word combines 客 (kyaku, guest) and 室 (shitsu, room/chamber), making its meaning transparent: a room designated for a guest. This vocabulary is central to hotel operations and appears consistently in brochures, floor directories, and front desk communications.
 
-In practice, 客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations — such as 客室係 (room attendant) and 客室番号 (room number) — is foundational for anyone working in Japanese hospitality.
+In practice, 客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations, such as 客室係 (room attendant) and 客室番号 (room number), is foundational for anyone working in Japanese hospitality.
 
 ## Example Sentences
 
@@ -24,8 +24,8 @@ In practice, 客室 is the word staff reach for whenever they need to refer to a
 
 ## Related Expressions
 
-- **部屋 (heya)** — the neutral, everyday word for "room"; appropriate in casual conversation with guests but too informal for written or official hotel communication.
-- **お部屋 (o-heya)** — the honorific form of 部屋; more polite than plain 部屋 and acceptable in spoken guest interactions, though still less formal than 客室.
+- **部屋 (heya)**: the neutral, everyday word for "room"; appropriate in casual conversation with guests but too informal for written or official hotel communication.
+- **お部屋 (o-heya)**: the honorific form of 部屋; more polite than plain 部屋 and acceptable in spoken guest interactions, though still less formal than 客室.
 
 ## Common Mistakes
 
@@ -45,5 +45,5 @@ Learners often substitute 部屋 for 客室 in written materials or formal annou
 
 **Correct Answer:** 客室 (guest room)
 
-**Explanation:** 客室 is the formal term for guest room — used in all official hotel communication and guest-facing contexts.
+**Explanation:** 客室 is the formal term for guest room: used in all official hotel communication and guest-facing contexts.
 

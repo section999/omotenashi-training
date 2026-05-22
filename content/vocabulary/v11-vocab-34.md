@@ -4,9 +4,9 @@ section: 34
 title: 案内します (annai shimasu)
 ---
 
-案内します (案内します) means "I will guide you" or "I will direct you," derived from the noun 案内 (guidance, directions, information). The verb form 案内する, made polite as 案内します, is used by hotel staff whenever they are providing directional assistance — whether physically accompanying a guest, giving verbal directions over the telephone, or pointing out a location on a map. The more formal humble variant, ご案内いたします, is expected in higher-end hospitality settings and elevates the interaction by placing the staff member in a service role relative to the guest. This phrase is one of the most frequently used in hotel lobbies and during telephone inquiries about facilities or room locations.
+案内します means "I will guide you" or "I will direct you," from the noun 案内 (guidance, directions, information). You use it whenever you are giving directional help: walking a guest to their room, pointing something out on a map, describing a route over the phone. In higher-end hotels the expected form is ご案内いたします, the humble keigo variant that signals you are placing yourself in service to the guest rather than simply offering directions. This phrase comes up constantly in hotel lobbies and during telephone inquiries, so getting the register right is worth taking seriously.
 
-In telephone communication, 案内します takes on a verbal guidance role rather than a physical one. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide you to the lobby by giving you directions) and then proceed to describe the route clearly, using landmarks rather than left-right instructions whenever possible, as landmark-based directions are easier to follow without visual reference. Good telephone 案内 involves checking in at each step — こちらはご理解いただけましたでしょうか (was this part clear to you?) — rather than delivering all information at once and leaving the guest to process it alone.
+On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide you to the lobby) and then walk the guest through the route step by step. Worth noting here: landmark-based directions work far better on the phone than left and right instructions, because the guest has no visual reference. Give them something solid to look for: 〜の隣 (next to), 〜の前 (in front of). And check in after each segment rather than delivering everything at once: こちらはご理解いただけましたでしょうか (was this part clear to you?) gives the guest space to confirm before you move on.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In telephone communication, 案内します takes on a verbal guidance role rath
 
 ## Related Expressions
 
-- **ご案内いたします (go-annai itashimasu)** — the humble keigo form of 案内します, the preferred phrasing in upscale hotels and formal situations; always use this in guest-facing contexts rather than the plain 案内します
-- **道案内 (michi annai)** — directional guidance specifically for routes and paths; this compound is used in telephone situations when a guest needs detailed step-by-step directions to the hotel or to a nearby location
+- **ご案内いたします (go-annai itashimasu)**: the humble keigo form of 案内します and the expected phrasing in upscale hotels and any formal guest-facing situation. Use this as your default rather than the plain 案内します when speaking with guests.
+- **道案内 (michi annai)**: directional guidance specifically for routes and paths. You will use this compound when a guest needs step-by-step directions to the hotel or to a nearby location, particularly in telephone situations where a physical map is not available.
 
 ## Common Mistakes
 
-A common error is using 案内します without the honorific prefix ご, which sounds appropriate for casual contexts but insufficient for hotel guest service. Always upgrade to ご案内いたします in guest-facing situations. Another mistake is providing overly complex directions in a single unbroken statement during phone 案内 — guests on the telephone cannot take notes quickly, so instructions should be given in short segments with pauses to confirm understanding. Finally, confusing 案内します (guiding/directing) with 説明します (explaining) can lead to mismatched expectations — 案内 implies directional help while 説明 implies informational content.
+Dropping the ご prefix and saying 案内します in a guest-facing situation is a register error that sounds right in casual conversation but falls short in hotel service. Make ご案内いたします your automatic default when speaking with guests. Another common mistake is giving all the directions at once in one long sentence during a telephone call. The guest is probably reaching for a pen and cannot keep up. Break the route into short pieces and pause to confirm understanding at each step before continuing. Students also sometimes mix up 案内します (directional guidance) with 説明します (explaining information): 案内 is about getting someone somewhere, 説明 is about making something understood. They are related but they are not interchangeable.
 
 ---
 
@@ -45,4 +45,4 @@ A common error is using 案内します without the honorific prefix ご, which 
 
 **Correct Answer:** 案内します (I will guide you)
 
-**Explanation:** ご案内いたします (humble form) elevates 案内します — in phone communication, 〇〇の場所をご案内いたします means you will verbally walk the guest through directions; on the phone, speaking slowly and using landmarks (〜の隣、〜の前) is more effective than left/right directions alone.
+**Explanation:** ご案内いたします (humble form) elevates 案内します: in phone communication, 〇〇の場所をご案内いたします means you will verbally walk the guest through directions; on the phone, speaking slowly and using landmarks (〜の隣、〜の前) is more effective than left/right directions alone.

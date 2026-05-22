@@ -4,9 +4,9 @@ section: 4
 title: ゴミ (gomi)
 ---
 
-ゴミ is the standard Japanese word for trash or garbage, and its proper management is a fundamental responsibility of hotel housekeeping staff. In the Japanese hospitality context, visible or unmanaged ゴミ is considered a serious lapse in service standards, as a clean and uncluttered environment is central to the guest experience. Housekeeping staff collect ゴミ from bins throughout the room during each cleaning cycle, replacing liners and ensuring that no residual odors or unsightly waste remains. In ryokan and eco-conscious hotels, staff may also be responsible for separating ゴミ into burnable waste (燃えるゴミ), non-burnable waste (燃えないゴミ), and recyclables (リサイクル) in accordance with local municipal rules.
+ゴミ is the standard Japanese word for trash or garbage, and proper waste management is one of the non-negotiable basics of hotel housekeeping. In Japanese hospitality settings, visible or unmanaged ゴミ is treated as a real lapse in service quality, because guests expect their room to feel fresh and uncluttered. Housekeeping staff collect ゴミ from every bin during each cleaning cycle, replacing liners and making sure no residual odors or mess remain. In eco-conscious hotels and many ryokan, there is an additional responsibility: sorting ゴミ into burnable waste (燃えるゴミ), non-burnable waste (燃えないゴミ), and recyclables (リサイクル) according to local municipal rules. Staff who do not know the local separation system can create compliance problems.
 
-When communicating with guests about trash, staff should use polite language and avoid drawing unnecessary attention to waste or mess. If a guest asks about disposal, staff can guide them to the nearest ゴミ箱 (trash can) or explain collection schedules. Understanding ゴミ-related vocabulary also helps staff communicate clearly in internal reports — for example, when flagging rooms where an unusually large amount of waste needs special handling.
+When talking with guests about trash, the approach should be polite without drawing unnecessary attention to the waste itself. If a guest asks where to put something, guide them to the nearest ゴミ箱 or explain collection schedules clearly. In internal reports, knowing how to describe waste accurately also matters, for example when flagging a room where an unusually large amount of ゴミ needs special handling before the next guest arrives.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ When communicating with guests about trash, staff should use polite language and
 
 ## Related Expressions
 
-- **廃棄物 (haikiibutsu)** — A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech.
-- **ゴミ袋 (gomi bukuro)** — Trash bag; staff should know this term when replenishing or replacing liners in guest room bins.
+- **廃棄物 (haikiibutsu)**: A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech.
+- **ゴミ袋 (gomi bukuro)**: Trash bag; staff should know this term when replenishing or replacing liners in guest room bins.
 
 ## Common Mistakes
 
-Using ゴミ directly in guest-facing speech without polite framing can sound blunt — prefer softened phrasings like 「お荷物やゴミのご確認をいたします」when entering a room. Learners sometimes confuse ゴミ with 汚れ (yogore, meaning dirt or stain), but ゴミ refers specifically to discarded objects or waste material. Additionally, failing to distinguish between burnable and non-burnable ゴミ in hotels that require separation can result in regulatory violations.
+Dropping the word ゴミ into guest-facing speech without polite framing can sound blunt. Softer phrasings like 「お荷物やゴミのご確認をいたします」 work much better when you need to mention it at all. Students often confuse ゴミ with 汚れ (yogore), but 汚れ means a dirt stain or soiling on a surface, not discarded objects. And failing to separate burnable from non-burnable ゴミ in hotels that require it is not just an etiquette issue: it can result in regulatory violations.
 
 ---
 
@@ -45,5 +45,5 @@ Using ゴミ directly in guest-facing speech without polite framing can sound bl
 
 **Correct Answer:** ゴミ (trash / garbage)
 
-**Explanation:** ゴミ refers to trash or garbage — daily collection is standard in hotels to maintain cleanliness and guest comfort.
+**Explanation:** ゴミ refers to trash or garbage: daily collection is standard in hotels to maintain cleanliness and guest comfort.
 

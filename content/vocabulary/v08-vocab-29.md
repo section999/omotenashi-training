@@ -4,9 +4,12 @@ section: 29
 title: 上 (ue)
 ---
 
-上 (ue) is one of the most fundamental spatial words in Japanese, meaning "above," "up," or "upper." In hospitality settings it primarily refers to higher floors of a building, upper levels of a shelf or rack, or anything positioned above the current reference point. While 上 itself is a plain word, staff elevate the register of the surrounding sentence by using keigo structures such as 上にございます or 上の階でございます rather than plain forms. The word is concise and universally understood, making it ideal for quick directional guidance in hotel lobbies, corridors, and facility tours.
+**Pronunciation:** [**u**-e]
+**Register:** Neutral to Formal, vertical navigation, room orientation, shelf placement
 
-When combined with floor numbers and direction vocabulary, 上 becomes the cornerstone of vertical navigation instructions. Phrases like 一つ上の階 (the next floor up) or 上の階のレストラン (the restaurant on the floor above) are heard constantly in hotel service. Staff also use 上 when describing amenity placement: 棚の上にございます (it is on the upper shelf) is a typical phrase in room service or housekeeping interactions. In buildings with mezzanine levels or split-floor designs, 上 helps disambiguate which section of a floor a guest should head toward.
+上 means "above," "up," or "upper," and in hotel service it comes up any time you are directing someone vertically. Higher floors, upper shelves, anything positioned above the reference point. The word itself is short and neutral, so the politeness lives in the surrounding sentence structure: 上にございます and 上の階でございます are the forms you want in service contexts, not just 上 with a pointing gesture and a pause.
+
+When paired with floor numbers, 上 becomes the backbone of vertical navigation. 一つ上の階 (the next floor up) and 上の階のレストラン (the restaurant on the floor above) are heard constantly in hotels. It also handles smaller-scale references, like amenity placement during room orientation: 棚の上にございます (it is on the upper shelf) is a phrase you will use regularly during housekeeping interactions or when helping a guest locate something in their room. In buildings with mezzanine levels, 上 is especially useful for pointing someone to the upper section of the same floor.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When combined with floor numbers and direction vocabulary, 上 becomes the corne
 
 ## Related Expressions
 
-- **下 (shita)** — "below / down," the direct counterpart to 上; used together, 上 and 下 cover all vertical spatial reference in hotel navigation
-- **上の階 (ue no kai)** — "the floor above," a set phrase combining 上 with 階 (floor); more precise than 上 alone when directing guests between numbered floors
+- **下 (shita)**: Below or down, the direct counterpart to 上. These two together cover all vertical spatial reference in hotel navigation, so learn them as a pair from the start.
+- **上の階 (ue no kai)**: The floor above, a set phrase that combines 上 with 階 (floor). More specific than 上 alone when you are directing guests between numbered floors, and it is the phrase you will reach for most often in actual service.
 
 ## Common Mistakes
 
-A common error is using 上 without specifying which floor, leaving guests to guess among several upper levels — always pair 上 with a floor number (例: 3階の上の棚) or a clear landmark for precision. Learners also sometimes confuse 上 (ue, above/up) with 上 read as かみ (kami) or じょう (jou) in compound words, so take care with pronunciation in directional speech: the standalone directional word is always read ue. Finally, avoid using the very casual 上 in isolation as a full answer; wrap it in a polite sentence such as 上にございます rather than simply saying 上 and pointing.
+Students often say 上 without specifying which floor, which leaves a guest standing at the elevator wondering whether they need to go up one level or three. Always pair it with a floor number or a clear landmark: 上の3階, 上にある5階のレストラン. Worth noting as well: the kanji 上 has multiple readings depending on the word. In standalone directional speech it is always read ue, but it shows up as かみ (kami) and じょう (jou) in compound words, so be careful not to transfer the wrong reading into your directional guidance. And as a general rule, never use 上 alone as a complete answer. Wrapping it in 上にございます makes the response sound professional and complete.
 
 ---
 
@@ -45,4 +48,4 @@ A common error is using 上 without specifying which floor, leaving guests to gu
 
 **Correct Answer:** 上 (up / above)
 
-**Explanation:** 上 (up / above) — when combined with 階 (floor), 上 clarifies vertical position; for guests in corridors or shops, 上の棚 (upper shelf) or 上の階 (floor above) are practical examples of daily use.
+**Explanation:** 上 (up / above): when combined with 階 (floor), 上 clarifies vertical position; for guests in corridors or shops, 上の棚 (upper shelf) or 上の階 (floor above) are practical examples of daily use.

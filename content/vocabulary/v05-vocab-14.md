@@ -4,9 +4,12 @@ section: 14
 title: 満席 (manseki)
 ---
 
-満席 literally means "full seating" and describes the state when every table in a restaurant or dining room is occupied. In Japanese hospitality, communicating 満席 is one of the most delicate service situations because turning away or inconveniencing a guest must be done in a way that preserves goodwill and the hotel's reputation for excellence. The phrasing ただいま満席でございます is carefully constructed: ただいま (at this moment) implies the situation is temporary rather than permanent, softening the disappointment. A simple 満席です would feel blunt and dismissive, whereas the full phrase acknowledges the guest's desire while offering implicit hope.
+**Pronunciation:** [man-**se**-ki]
+**Register:** Formal, restaurant and dining room contexts
 
-After communicating 満席, the staff member must immediately offer constructive alternatives: an estimated waiting time, an offer to add the guest to a wait list, a suggestion of another hotel dining venue, or an invitation to wait in the lounge with complimentary tea. Leaving a guest with a "no" and nothing more violates the omotenashi principle of finding solutions. The quality of a hotel's response to 満席 is therefore as revealing as its response to availability.
+満席 literally means "full seating" and describes the state when every table in a restaurant or dining room is occupied. Communicating 満席 is one of the most delicate service situations in Japanese hospitality, because turning away a guest must be done in a way that preserves goodwill and the hotel's reputation. The phrasing ただいま満席でございます is carefully constructed: ただいま (at this moment) implies the situation is temporary rather than permanent, and that small word does a lot of work. A simple 満席です would feel blunt and dismissive, whereas the full phrase acknowledges the guest's desire while leaving room for hope.
+
+In practice, announcing 満席 is never the end of the conversation. The staff member must immediately offer a constructive alternative: an estimated wait time, an offer to add the guest to a wait list, a suggestion of another hotel dining venue, or an invitation to wait in the lounge with complimentary tea. Leaving a guest with a "no" and nothing more goes against the omotenashi principle of finding solutions. The quality of a hotel's response to 満席 is just as revealing as its response to availability.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ After communicating 満席, the staff member must immediately offer constructive
 
 ## Related Expressions
 
-- **空いている席 (aiteiru seki)** — the opposite situation, meaning available seating; knowing both terms allows staff to transition smoothly between positive and challenging seating scenarios.
-- **キャンセル待ち (kyanseru-machi)** — a waiting list for cancellations; an important concept to introduce immediately after communicating 満席, as it gives the guest a constructive path forward.
+- **空いている席 (aiteiru seki)**: the opposite situation, meaning available seating; knowing both terms lets you move smoothly between positive and challenging seating moments without reaching for different vocabulary.
+- **キャンセル待ち (kyanseru-machi)**: a waiting list for cancellations; introduce this concept immediately after communicating 満席, as it gives the guest a concrete path forward rather than a dead end.
 
 ## Common Mistakes
 
-The most damaging error is announcing 満席 without any follow-up offer or apology, which communicates indifference. Using blunt phrasing like 席ないです or 満席だから is not only too casual but can feel dismissive or even rude. Staff should also avoid citing 満席 as a final answer — always pair it with a concrete alternative such as a wait time, a reservation offer, or another venue suggestion to demonstrate that the guest's need is still being cared for.
+The most damaging error is announcing 満席 with no follow-up offer or apology. That communicates indifference, and guests remember it. Using blunt phrasing like 席ないです or 満席だから is not only too casual but can come across as dismissive or even rude. Students often treat 満席 as a final answer, but it should always be a doorway into the next offer: a wait time, a reservation for tomorrow, or a suggestion of another venue. That follow-up is what separates a disappointing moment from one the guest actually respects.
 
 ---
 
@@ -44,5 +47,5 @@ The most damaging error is announcing 満席 without any follow-up offer or apol
 
 **Correct Answer:** ただいま満席でございます (we are fully seated at the moment)
 
-**Explanation:** ただいま満席でございます — ただいま (at this moment) softens the message by implying it is temporary; でございます maintains the formal register expected in hotel F&B.
+**Explanation:** ただいま満席でございます: ただいま (at this moment) softens the message by implying it is temporary; でございます maintains the formal register expected in hotel F&B.
 

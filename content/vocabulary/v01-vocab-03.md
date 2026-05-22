@@ -4,11 +4,11 @@ section: 3
 title: こんにちは (konnichiwa)
 ---
 
-**こんにちは** is the standard daytime greeting in Japanese, used from approximately late morning (around 11:00 AM) to early evening (around 6:00 PM). Its literal meaning has a slightly archaic origin — it was once part of a longer phrase meaning "How is today (treating you)?" — but in modern usage it functions simply as a warm acknowledgement: *I see you, and I greet you.* That underlying sense of noticing is part of what gives it weight in a hospitality context.
+**こんにちは** is the standard daytime greeting in Japanese, used from approximately late morning (around 11:00 AM) through early evening (around 6:00 PM). Its origin is slightly archaic. It was once part of a longer phrase that meant something like "How is today treating you?" Over time it shortened, but that underlying sense of noticing the other person stayed. In a hospitality setting, that is precisely what gives it weight: you are not just acknowledging the guest's presence, you are recognising the day they are having.
 
-In hospitality, *konnichiwa* most often appears mid-stay — when a guest passes through the lobby in the afternoon, returns from an outing, or approaches the concierge desk during daytime hours. It is a lighter, more conversational greeting than the formal *irasshaimase*, and in some contexts it feels more human and less transactional. Learning when to use *irasshaimase* (first contact, formal arrival) versus *konnichiwa* (ongoing daytime encounters) is part of reading the moment correctly.
+In practice, *konnichiwa* most often appears mid-stay. A guest passes through the lobby in the afternoon, returns from sightseeing, or approaches the concierge desk during daytime hours. It reads as warmer and more personal than the formal *irasshaimase*, and in some moments it feels less transactional. Knowing when to use *irasshaimase* (first contact, formal arrival) versus *konnichiwa* (ongoing daytime encounters) is part of reading the situation correctly. Both are appropriate; the choice depends on context.
 
-The time window for *konnichiwa* is genuinely important in Japanese social culture. Greeting someone with *konnichiwa* in the early morning or after dark signals a lack of attentiveness to context. It is a small slip, but experienced guests notice these things.
+The time window for *konnichiwa* genuinely matters. Students who have drilled the phrase in classroom settings sometimes carry the habit into work without thinking about the clock, and greeting someone with *konnichiwa* in the early morning or after dark shows a lack of attentiveness that experienced guests notice. It is a small slip, but in a service environment, small slips add up.
 
 ## Example Sentences
 
@@ -26,13 +26,13 @@ The time window for *konnichiwa* is genuinely important in Japanese social cultu
 
 ## Related Expressions
 
-- **おはようございます (ohayō gozaimasu)**: Morning greeting (until approximately 11 AM)
-- **こんばんは (konbanwa)**: Evening greeting (from approximately 6 PM onward)
-- **いらっしゃいませ (irasshaimase)**: Formal arrival welcome; can precede *konnichiwa* or stand alone on first contact
+- **おはようございます (ohayō gozaimasu)**: Morning greeting (until approximately 11 AM). Use this before *konnichiwa* becomes appropriate for the time of day.
+- **こんばんは (konbanwa)**: Evening greeting (from approximately 6 PM onward). The natural handoff from *konnichiwa* as the day ends.
+- **いらっしゃいませ (irasshaimase)**: Formal arrival welcome. Can precede *konnichiwa* or stand alone on first contact with a guest.
 
 ## Common Mistakes
 
-The biggest mistake is confusing the time window — using *konnichiwa* in the morning or after dark. Students who have drilled the phrase in a classroom setting sometimes carry this habit into work, where the clock matters. A second common mistake for non-native speakers is mispronouncing the particle は as *ha* — it is always pronounced *wa* in this phrase. And finally, resist using the casual abbreviation *konchi* (コンチ) in any professional setting, regardless of how friendly the guest seems.
+The biggest mistake is getting the time window wrong: using *konnichiwa* in the morning or after dark. That said, a second common mistake is equally avoidable: mispronouncing the particle は as *ha*. In this phrase it is always read as *wa*, and getting it wrong draws attention in a way that undermines the greeting. And finally, resist the casual abbreviation *konchi* (コンチ) in any professional setting, regardless of how friendly or relaxed the guest seems. The register you maintain with guests should stay consistent.
 
 ---
 

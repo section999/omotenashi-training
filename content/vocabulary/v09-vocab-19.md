@@ -4,9 +4,9 @@ section: 19
 title: 夕食付き (yuushoku tsuki)
 ---
 
-夕食付き (yuushoku tsuki) means "with dinner included" and designates a booking plan in which the evening meal is provided as part of the accommodation charge. Dinner is a particularly significant element of the stay at Japanese ryokan, where the kaiseki (multi-course) evening meal is often the centrepiece of the entire guest experience, served in the room or a dedicated dining area at a specified time. Even in Western-style hotels, a 夕食付き plan typically involves a set-course meal at the property's restaurant. Because dinner service usually requires prior coordination — seating time, dietary preferences, or reservation allocation — staff must convey this information clearly to avoid guests missing their meal entirely.
+夕食付き means "with dinner included," and in Japanese hospitality, that often means something quite substantial. At a ryokan, the kaiseki evening meal is frequently the highlight of the entire stay: multi-course, beautifully presented, served in the room or a dedicated dining space. Even at Western-style hotels, a 夕食付き plan usually involves a set-course dinner at the property's restaurant. Because dinner requires coordination in a way that buffet breakfast does not, staff need to convey the timing and logistics clearly or risk a guest missing the meal entirely.
 
-In hotel and ryokan operations, 夕食付き plans require staff to confirm not just inclusion but also timing and logistics. The critical information to communicate proactively is the dinner start time and whether a reservation is necessary, because unlike breakfast (which is typically open-seating over a multi-hour window), dinner at many properties involves a fixed or staggered seating schedule. Phrasing such as 夕食は18時よりご用意しております。ご希望のお時間をお教えいただけますか demonstrates attentiveness and prevents the frustration of a guest who shows up at the wrong time.
+The key difference from 朝食付き is that dinner at most properties is not open-seating. There is often a fixed or staggered schedule, and the guest may need to choose a time slot. In practice, the check-in conversation for a 夕食付き guest should include the dinner window and a question like 「夕食は18時よりご用意しております。ご希望のお時間をお教えいただけますか」. Students often mention that dinner is included and leave it there, but that half-answer is what leads to guests showing up at the kitchen an hour late and finding nothing left for them.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In hotel and ryokan operations, 夕食付き plans require staff to confirm not 
 
 ## Related Expressions
 
-- **一泊二食 (ippaku nishoku)** — "One night with two meals," meaning both breakfast and dinner are included. This is the most comprehensive meal-inclusive arrangement, common at ryokan, and essentially combines 朝食付き and 夕食付き into a single concept. Staff should know this term for guests who ask whether both meals are covered.
-- **朝食付き (choushoku tsuki)** — The breakfast counterpart to 夕食付き. When a guest asks whether their plan covers all meals, staff can clarify by specifying which of 朝食付き, 夕食付き, or 一泊二食 applies, avoiding the vague and potentially misleading statement that "meals are included."
+- **一泊二食 (ippaku nishoku)**: "one night with two meals," covering both breakfast and dinner; this is the most comprehensive meal-inclusive arrangement at ryokan and essentially combines 朝食付き and 夕食付き; know it for guests who ask whether all meals are covered.
+- **朝食付き (choushoku tsuki)**: the breakfast counterpart to 夕食付き; when a guest asks whether their plan covers all meals, be specific about which term applies rather than saying "meals are included," since that phrase is vague enough to mislead.
 
 ## Common Mistakes
 
-The most consequential mistake with 夕食付き is failing to communicate the dinner time or reservation requirement, which can result in a guest missing the meal completely — a serious service failure at properties with single-seating dinners. Staff also sometimes say only 夕食が含まれています without specifying whether this is a buffet, set menu, or à la carte, which leaves the guest with an unclear expectation. A third error is assuming that a guest on a 夕食付き plan does not need any guidance because "it's included," when in fact the guest may need directions to the dining venue, information about dress code, or help with dietary accommodations.
+Not communicating the dinner time is the most consequential mistake you can make with 夕食付き. At a property with a single dinner seating, a guest who was never told when to show up can miss the entire meal, and that is a serious failure that is very hard to recover from with an apology. Worth noting too: saying only 夕食が含まれています is not enough. The guest needs to know whether it is a buffet, a set course, or à la carte, because each involves different expectations and decisions. Finally, do not assume that because dinner is included the guest needs no guidance. They may need directions to the dining venue, information about dress standards, or help flagging a dietary restriction before the kitchen starts preparing their course.
 
 ---
 
@@ -45,5 +45,5 @@ The most consequential mistake with 夕食付き is failing to communicate the d
 
 **Correct Answer:** 夕食付き (dinner included)
 
-**Explanation:** 夕食付き — always mention the dinner time and whether a reservation is needed (夕食は18時より、事前のご予約が必要です); a guest who misses dinner because they were not told to reserve will be justifiably frustrated.
+**Explanation:** 夕食付き: always mention the dinner time and whether a reservation is needed (夕食は18時より、事前のご予約が必要です); a guest who misses dinner because they were not told to reserve will be justifiably frustrated.
 

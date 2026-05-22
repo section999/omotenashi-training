@@ -4,14 +4,17 @@ section: 26
 title: 手順 (tejun)
 ---
 
-手順 means procedure or sequence of steps — a predefined, ordered set of instructions for completing a task correctly, safely, and consistently. In Japanese hospitality, 手順 are the backbone of operational excellence. Every department has documented 手順 for its core activities: the housekeeping 手順 for preparing a guest room, the front desk 手順 for processing a check-in, the concierge 手順 for arranging private car service. These procedures exist not to constrain staff, but to guarantee that every guest receives the same high standard of service regardless of who is on duty. Consistent adherence to 手順 is a form of respect for the guest.
+**Pronunciation:** [te-**ju**-n]
+**Register:** Formal -- used in training, operational documentation, and supervisory communications
 
-手順 are taught during onboarding and reinforced through ongoing 指導 (shidou — guidance). Supervisors observe staff performing tasks and provide feedback when steps are skipped or done out of order. In safety-critical areas such as kitchen operations, food hygiene, and maintenance, following 手順 precisely is not just about quality — it is about preventing accidents. New employees are expected to master the established 手順 before being encouraged to develop their own efficiency within those boundaries. The phrase 手順を踏む (tejun wo fumu — to follow the procedure step by step) reflects the cultural value placed on doing things in the right order.
+手順 means procedure or sequence of steps: a predefined, ordered set of instructions for completing a task correctly, safely, and consistently. Every department in a Japanese hotel has documented 手順 for its core activities -- the housekeeping 手順 for preparing a guest room, the front desk 手順 for processing a check-in, the concierge 手順 for arranging private car service. These procedures are not there to make work feel robotic. They exist to guarantee that every guest receives the same high standard of service regardless of who happens to be on shift that day. Following 手順 faithfully is, in its own way, a form of respect for the guest.
+
+手順 are introduced during onboarding and reinforced throughout ongoing 指導 (shidou, guidance). Supervisors observe staff as they work through tasks and step in when steps are skipped or done out of sequence. In safety-critical areas -- kitchen operations, food hygiene, maintenance -- following 手順 precisely is not just about service quality; it is about preventing accidents. New employees are expected to master the established 手順 before they start developing their own efficiencies within those boundaries. The phrase 手順を踏む (tejun wo fumu, to follow the procedure step by step) captures the cultural value placed on doing things in the right order, not just getting things done.
 
 ## Example Sentences
 
 **1.** 清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。
-*Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamotемасу.*
+*Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.*
 "By following the cleaning procedure, we can maintain consistent guest room quality."
 
 **2.** 緊急時の対応手順については、全スタッフが熟知しておく必要があります。
@@ -24,12 +27,12 @@ title: 手順 (tejun)
 
 ## Related Expressions
 
-- **マニュアル (manyuaru)** — an operations manual, the document in which 手順 are compiled and stored for staff reference; standard in all hotel departments
-- **作業手順書 (sagyou tejunsho)** — a written work procedure document, a formal record of the 手順 for specific tasks, used in training and quality audits
+- **マニュアル (manyuaru)**: the operations manual in which 手順 are compiled and stored for all staff to reference; every hotel department has one
+- **作業手順書 (sagyou tejunsho)**: a formal written document recording the 手順 for a specific task, used in training sessions and quality audits
 
 ## Common Mistakes
 
-Learners sometimes confuse 手順 with 方法 (houhou — method/way) or やり方 (yarikata — way of doing something). While all three relate to how a task is done, 手順 specifically implies a sequential order — steps that must be followed in a defined sequence. Using 方法 when referring to a numbered procedure in a hotel manual sounds less precise. Another common error is pronouncing 手順 as て-じゅん (te-jun) with flat intonation — in natural speech, the pitch drops after the first mora, so awareness of Japanese pitch accent patterns will help learners sound more natural.
+Students sometimes swap 手順 with 方法 (houhou: method/way) or やり方 (yarikata: way of doing something), and while all three relate to how something gets done, 手順 specifically implies a numbered sequence -- steps that must happen in a defined order. Using 方法 when referring to a numbered procedure in a hotel training manual sounds imprecise and slightly wrong to a native reader. That said, the pronunciation trap is worth knowing about too: 手順 can catch learners off guard because Japanese pitch accent drops after the first mora, so the natural spoken rhythm is different from reading it cold. Listening to native speakers use the word in context will help you internalise the right feel for it.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes confuse 手順 with 方法 (houhou — method/way) or やり�
 
 **Answer:** 手順
 
-**Explanation:** 手順 (tejun) means procedure — a sequential set of steps to complete a task efficiently and safely.
+**Explanation:** 手順 (tejun) means procedure: a sequential set of steps to complete a task efficiently and safely.

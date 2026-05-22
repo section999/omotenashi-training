@@ -4,9 +4,12 @@ section: 2
 title: 左 (hidari)
 ---
 
-左 (hidari) means "left" and is an indispensable word in Japanese hospitality communication. Whether directing guests from the elevator to their room, guiding visitors from the lobby to the restaurant, or describing an outdoor route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort — vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastery of 左 alongside its partner 右 is a baseline competency for anyone working a guest-facing role.
+**Pronunciation:** [hi-**da**-ri]
+**Register:** Neutral, elevated with にございます in formal hotel speech
 
-Left-side directions are especially common in hotel corridors, where rooms are often arranged alternately on both sides of a hallway. Staff should combine 左 with a polite locating phrase such as 左にございます or 左側でございます, and ideally add a distance cue (突き当たりの左、二つ目の扉の左) to make the instruction complete. When accompanying a guest in person, gesturing with an open hand toward the left side simultaneously reinforces comprehension.
+左 means "left" and is one of the most indispensable words in guest-facing navigation. Whether you are directing guests from the elevator to their room, guiding someone from the lobby toward the restaurant, or describing a walking route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort. Vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastering 左 alongside 右 is baseline knowledge for anyone working a guest-facing role.
+
+Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Students should combine 左 with a polite locating phrase such as 左にございます or 左側でございます, and ideally add a distance cue like 突き当たりの左 or 二つ目の扉の左 to make the instruction complete. In practice, when you accompany a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension far more than words alone.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Left-side directions are especially common in hotel corridors, where rooms are o
 
 ## Related Expressions
 
-- **左手 (hidarite)** — "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing a location
-- **左折 (sasetsu)** — "left turn," used in written route instructions or when giving directions for driving; too formal for casual hallway guidance
+- **左手 (hidarite)**: "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility
+- **左折 (sasetsu)**: "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance
 
 ## Common Mistakes
 
-The most frequent error is using 左です rather than 左にございます — the latter is the expected level of formality in hotel service and its omission can feel abrupt to Japanese guests. Learners also sometimes mix up 左 and 右 when under pressure, so drilling both words together in practice scenarios is essential. Pointing with one finger rather than an open hand gesture is another register mistake specific to Japanese professional environments.
+The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. Students also sometimes mix up 左 and 右 when they are nervous or under pressure, so drilling both words together in realistic practice scenarios really does help. One more thing: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Use an open hand when gesturing, and you will immediately look more polished.
 
 ---
 
@@ -44,4 +47,4 @@ The most frequent error is using 左です rather than 左にございます —
 
 **Correct Answer:** 左にございます (it is on the left)
 
-**Explanation:** 左にございます — ございます elevates the simple directional word into polite hotel speech; adding にございます after a direction word is the standard formula for locating facilities.
+**Explanation:** 左にございます: ございます elevates the simple directional word into polite hotel speech; adding にございます after a direction word is the standard formula for locating facilities.

@@ -4,9 +4,12 @@ section: 31
 title: 宿泊税 (shukuhaku zei)
 ---
 
-宿泊税 is composed of 宿泊 (shukuhaku), meaning "lodging" or "overnight stay," and 税 (zei), meaning "tax." It is a local government tax levied on hotel and inn guests based on the room rate per person per night, and the applicable amount varies by municipality and price tier. Major Japanese cities such as Tokyo and Osaka have enacted their own 宿泊税 ordinances, reflecting the growth of inbound tourism and the need to fund local infrastructure and tourism promotion. Because rates differ by city and can change, hospitality staff must stay informed of current local regulations to quote accurate totals to guests.
+**Pronunciation:** [shu-ku-ha-ku-**zei**]
+**Register:** Formal -- used in billing disclosures, check-in briefings, and invoice itemization
 
-In hotel operations, 宿泊税 is typically collected by the accommodation on behalf of the local government and remitted periodically. Staff should disclose the 宿泊税 at check-in and on the final bill, specifying it as a separate line item from both サービス料 and 消費税. For guests staying multiple nights or booking multiple rooms, the cumulative 宿泊税 can be a noticeable addition to the bill, so proactive communication helps avoid confusion at checkout.
+宿泊税 breaks down simply: 宿泊 (shukuhaku) means "lodging" or "overnight stay," and 税 (zei) means "tax." It's a local government tax charged to hotel and inn guests based on the room rate per person per night, and the amount varies by municipality and price tier. Tokyo and Osaka have both enacted their own 宿泊税 ordinances, and the thresholds and amounts differ between them. That means if you work at properties in different cities or if your property serves guests from around Japan, you need to know the specific rules that apply to your location, not just a general idea of what 宿泊税 is.
+
+In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. In practice, a quick mention during the check-in briefing, something like 宿泊税が別途かかります, is all it takes to set clear expectations.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In hotel operations, 宿泊税 is typically collected by the accommodation on be
 
 ## Related Expressions
 
-- **消費税 (shōhizei)** — consumption tax; a national tax applied to most goods and services, distinct from the locally administered 宿泊税
-- **サービス料 (sābisu ryō)** — service charge; another separate line item on hotel bills, not to be confused with 宿泊税
+- **消費税 (shōhizei)**: national consumption tax applied to most goods and services; distinct from 宿泊税, which is a locally administered levy specific to accommodation
+- **サービス料 (sābisu ryō)**: service charge; another separate line item on hotel bills, not to be conflated with 宿泊税
 
 ## Common Mistakes
 
-A common error is treating 宿泊税 as part of the 消費税, when they are in fact separate charges levied by different levels of government. Learners also sometimes forget that 宿泊税 rates differ by city and price bracket, leading to incorrect quotes when working in multiple locations. Always verify the current local 宿泊税 rate for your specific property before informing guests.
+Students often treat 宿泊税 as part of 消費税, which is incorrect. They are levied by different levels of government and must appear separately on the bill. The other common error is applying the same rate across locations without checking: Tokyo's 宿泊税 rules are not identical to Osaka's, and those rules can be updated by local ordinance. Always confirm the current applicable rate for your specific property. Worth noting: quoting an outdated 宿泊税 rate isn't just a customer service issue, it creates legal and financial compliance risk for the property.
 
 ---
 
@@ -45,5 +48,4 @@ A common error is treating 宿泊税 as part of the 消費税, when they are in 
 
 **Correct Answer:** 宿泊税 (accommodation tax)
 
-**Explanation:** 宿泊税 varies by city and room rate — Tokyo and Osaka have different 宿泊税 thresholds; always confirm the applicable local rate at the time of billing, as staff who quote outdated rates create legal and financial compliance risks.
-
+**Explanation:** 宿泊税 varies by city and room rate: Tokyo and Osaka have different 宿泊税 thresholds; always confirm the applicable local rate at the time of billing, as staff who quote outdated rates create legal and financial compliance risks.

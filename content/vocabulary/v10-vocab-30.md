@@ -4,9 +4,12 @@ section: 30
 title: サービス料 (saabisu ryou)
 ---
 
-サービス料 is a service charge automatically added to a bill as a percentage of the total — typically 10% to 15% — in lieu of individual tipping, which is not customary in Japan. The term combines the loanword サービス (service, from English) and 料 (ryō), meaning "fee" or "charge." Unlike tips in Western cultures, サービス料 is a fixed, standardized fee collected by the establishment and distributed among staff collectively. This system reflects the Japanese hospitality philosophy that excellent service is a professional standard rather than something requiring individual monetary recognition, and it ensures consistent service quality across all staff.
+**Pronunciation:** [sa-a-bi-su-**ryou**]
+**Register:** Formal -- standard in luxury hotels, kaiseki restaurants, and high-end hospitality
 
-In luxury hotels and kaiseki restaurants, サービス料 is standard and should be disclosed proactively to guests before they are presented with the bill. Staff should explain that サービス料 is separate from the 消費税 (consumption tax), meaning both charges will appear on the invoice. When quoting a total, the proper sequence is to state the base price, then add サービス料, and then add 消費税, or to quote the all-inclusive total and confirm that サービス料 and tax are already included.
+サービス料 is a service charge automatically added to the bill as a fixed percentage, typically 10% to 15%, and it takes the place of individual tipping, which is not practiced in Japan. The word combines the loanword サービス (from English "service") with 料 (ryou, "fee" or "charge"). Unlike tipping in Western contexts where each guest decides individually how much to give, サービス料 is standardized, collected by the establishment, and distributed among staff. This reflects something important about Japanese hospitality culture: excellent service is a professional standard that doesn't require individual monetary reward to sustain it.
+
+Students often aren't sure how to introduce サービス料 in conversation without it feeling like a warning. The key is simply to disclose it proactively and early, before presenting the bill, not in response to a question. Worth noting: サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Don't leave guests to guess what the breakdown is.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In luxury hotels and kaiseki restaurants, サービス料 is standard and should
 
 ## Related Expressions
 
-- **手数料 (tesūryō)** — handling or processing fee; a different type of charge applied to transactions or administrative services, not to hospitality service quality
-- **チップ (chippu)** — tip; largely not practiced in Japan, where サービス料 serves the equivalent social and economic function
+- **手数料 (tesūryō)**: a handling or processing fee for transactions or administrative services; a different category from サービス料, which is tied to the quality of hospitality service, not to how a payment is processed
+- **チップ (chippu)**: the English-derived word for a tip; largely absent from Japanese practice, since サービス料 fills the same economic and social role
 
 ## Common Mistakes
 
-Learners sometimes fail to distinguish サービス料 from 消費税, presenting them as the same thing on the bill — they are separate charges and should be listed individually. Another error is omitting サービス料 from an initial price quote and only mentioning it on the bill, which can make guests feel they were not fully informed. Always disclose サービス料 upfront, especially for international guests unfamiliar with this Japanese practice.
+Presenting サービス料 and 消費税 as a single combined charge is a frequent mistake, and it causes confusion when guests ask for a breakdown. They are separate and should appear as separate line items. The other common error is mentioning サービス料 for the first time on the bill itself. International guests, in particular, may be completely unfamiliar with the concept and can feel caught off guard if no one mentioned it during the booking or check-in conversation. Bring it up early, explain it briefly, and most guests will accept it without any issue.
 
 ---
 
@@ -44,5 +47,4 @@ Learners sometimes fail to distinguish サービス料 from 消費税, presentin
 
 **Correct Answer:** サービス料 (service charge)
 
-**Explanation:** サービス料 is standard in Japanese hotels and fine dining — informing guests upfront (料金にはサービス料10%が含まれております) prevents the question at checkout; many international guests are unfamiliar with this charge and appreciate being told in advance.
-
+**Explanation:** サービス料 is standard in Japanese hotels and fine dining: informing guests upfront (料金にはサービス料10%が含まれております) prevents the question at checkout; many international guests are unfamiliar with this charge and appreciate being told in advance.

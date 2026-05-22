@@ -4,9 +4,12 @@ section: 35
 title: エスカレーター (esukareetaa)
 ---
 
-エスカレーター is the Japanese rendering of the English word "escalator," referring to the motorized moving staircase found in hotels, department stores, stations, and shopping centers. In hotel navigation, エスカレーター is typically one of three vertical transport options alongside エレベーター (elevator) and 階段 (stairs), and staff are trained to recommend the most appropriate one based on a guest's situation. For most mobile guests moving between adjacent floors, the エスカレーター is a natural recommendation. However, attentive staff will observe whether a guest is carrying heavy luggage, pushing a stroller, or has mobility challenges, and in those cases proactively suggest the エレベーター instead — an act of thoughtful service that goes beyond a simple directional response.
+**Pronunciation:** [e-su-ka-**ree**-taa]
+**Register:** Neutral to Formal, vertical navigation, mobility-aware service
 
-エスカレーター directions typically include both location and direction of travel. In a multi-floor hotel or shopping mall, staff may say 上りのエスカレーターはこちらでございます (the up escalator is this way) or 下りのエスカレーターはあちらにございます (the down escalator is over there), as escalators are usually separated by direction. Safety language is also part of エスカレーター guidance: staff remind guests to 足元にお気をつけください (please watch your step) and to 手すりにお掴まりください (please hold the handrail), especially for elderly guests or those with children. These small verbal additions demonstrate genuine care for guest safety.
+エスカレーター is the standard Japanese term for escalator, borrowed directly from English, and it is one of three vertical transport options you will direct guests to alongside エレベーター (elevator) and 階段 (stairs). For most guests moving between adjacent floors with no heavy luggage, the エスカレーター is a natural recommendation. The word itself is not complicated; the real skill is in choosing it wisely. Before pointing to the escalator, take a quick look at the guest: are they carrying large bags, traveling with a stroller, using a cane, or appear to have mobility concerns? If so, the エレベーター is almost always the better suggestion, and offering it proactively rather than waiting to be asked is what separates attentive service from merely accurate service.
+
+Direction-giving for エスカレーター needs to include which direction it is traveling, not just where it is. In a multi-floor hotel or shopping center, up escalators (上り, nobori) and down escalators (下り, kudari) are usually in different locations. 上りのエスカレーターはこちらでございます and 下りのエスカレーターはあちらにございます are the phrasing patterns to practice. Students often stop at the location and forget the safety note: always add 足元にお気をつけください (please watch your step) and, for elderly guests or families with children, 手すりにお掴まりください (please hold the handrail). These additions take three seconds and show genuine care.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ title: エスカレーター (esukareetaa)
 
 ## Related Expressions
 
-- **エレベーター (erebeetaa)** — "elevator," the enclosed vertical transport cabin; recommended over エスカレーター for guests with luggage, strollers, or mobility needs
-- **階段 (kaidan)** — "stairs," the manual option; mentioned when エスカレーター and エレベーター are unavailable or when a guest asks for the location of stairs specifically
+- **エレベーター (erebeetaa)**: Elevator, the enclosed cabin option. Recommended over エスカレーター for guests with luggage, strollers, wheelchairs, or any mobility needs. Knowing when to suggest this instead of the escalator is a practical skill, not just a vocabulary distinction.
+- **階段 (kaidan)**: Stairs, the manual option. Mention it when escalators and elevators are temporarily out of service, or when a guest specifically asks for the stairs. In normal service, it comes up less often than the other two.
 
 ## Common Mistakes
 
-Learners sometimes struggle with distinguishing エスカレーター (escalator) from エレベーター (elevator) because both are long katakana loanwords with similar rhythms — practise them as a pair until the distinction is automatic. A more significant service error is recommending the エスカレーター to a guest who clearly has difficulty walking or is carrying oversized items, when the エレベーター would be far safer and more comfortable. Always assess the guest's situation before choosing which vertical option to recommend, and phrase the suggestion politely using お勧めいたします (I recommend) rather than a blunt instruction.
+The most common confusion is between エスカレーター (escalator) and エレベーター (elevator), because both are long katakana words with a similar rhythm. Students often know the difference intellectually but stumble under pressure and say the wrong one. Practice them as a deliberate pair, alternating back and forth, until the distinction becomes automatic before you are in a live service situation. The more consequential error, though, is recommending the エスカレーター to a guest who clearly needs the エレベーター instead. Always read the situation before answering. And when suggesting the エレベーター as the better option, phrase it with お勧めいたします rather than a blunt instruction: it comes across as care rather than correction.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes struggle with distinguishing エスカレーター (escalator
 
 **Correct Answer:** エスカレーター (escalator)
 
-**Explanation:** エスカレーター vs エレベーター — guests with heavy luggage or strollers should be guided to the エレベーター instead; recommending the right option based on the guest's situation is considerate service.
+**Explanation:** エスカレーター vs エレベーター: guests with heavy luggage or strollers should be guided to the エレベーター instead; recommending the right option based on the guest's situation is considerate service.

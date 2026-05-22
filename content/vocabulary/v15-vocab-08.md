@@ -4,9 +4,12 @@ section: 8
 title: 配達 (haitatsu)
 ---
 
-配達 refers to the act of delivering goods, packages, or returned laundry to a designated location, whether that is a hotel room, a reception desk, or a home address. In Japanese hospitality, 配達 encompasses a wide range of delivery scenarios: returning pressed garments from the laundry service, bringing room service orders, delivering parcels sent by guests' families or companies, and even forwarding luggage ahead of the guest (takuhaibin forwarding). The reliability and timing of 配達 are treated with great seriousness in Japan, where punctuality is a cultural cornerstone — guests should be given accurate estimated delivery times, and any delays must be communicated promptly and apologetically.
+**Pronunciation:** [ha-i-**ta**-tsu]
+**Register:** Neutral to Formal, used across all hospitality service contexts
 
-When handling 配達 in a hotel context, staff should confirm the guest's room number, preferred delivery time, and whether they should knock or leave the item outside the door. For laundry 配達, re-confirming that all items are accounted for before delivery prevents complaints. In larger hotels, a dedicated porter or bellhop team manages 配達 so that front desk staff can remain available for other guest needs.
+配達 is the act of delivering goods, packages, or returned laundry to a designated location, whether that's a guest room, the front desk, or an off-site address. In Japanese hotels, 配達 covers a wide range of scenarios: returning pressed garments from the laundry service, bringing room service to the door, distributing parcels sent by guests' families or offices, and forwarding luggage ahead via courier. Punctuality is genuinely non-negotiable here. Japanese guests expect delivery promises to be honoured exactly, and even a short delay without prior notice can damage the trust you've worked to build.
+
+In practice, the key is confirming the details before you head out. Get the room number, the preferred delivery time, and whether the guest wants a knock or a quiet drop-off. For laundry 配達 specifically, always count the items against the order slip before leaving the service area. A missing piece discovered at the door is far worse than one caught in the back. In larger hotels, porters handle 配達 as a dedicated role, which keeps front desk staff free for other guest needs.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When handling 配達 in a hotel context, staff should confirm the guest's room n
 
 ## Related Expressions
 
-- **発送 (hassou)** — sending or dispatching items from the hotel to another location; the outbound counterpart to 配達, which is inbound delivery.
-- **受取 (uketori)** — the act of receiving delivered items; closely paired with 配達 as the guest's side of the transaction.
+- **発送 (hassou)**: sending or dispatching items from the hotel outward; think of 発送 as the outbound action and 配達 as the inbound arrival.
+- **受取 (uketori)**: the act of receiving delivered items from the guest's side; it pairs naturally with 配達 as the other half of the same transaction.
 
 ## Common Mistakes
 
-Learners sometimes confuse 配達 (delivery to a recipient) with 発送 (sending/dispatching from a sender's side) — in hospitality, 配達 describes the staff bringing something to the guest, while 発送 describes the hotel helping a guest send something out. Another error is using 配達する when the more formal, polite 配達いたします or お届けいたします is expected in guest-facing communication. Additionally, never promise a specific delivery time unless you are certain it can be kept; Japanese guests expect delivery promises to be honored exactly.
+Students often mix up 配達 and 発送, and it's an easy trap to fall into. Remember that 配達 is the delivery from the sender's side reaching someone, while 発送 is the act of dispatching something from your end. Another common issue is register: saying 配達する in guest-facing speech sounds too plain. Use 配達いたします or, even better, お届けいたします when talking directly with guests. That said, the bigger practical mistake is over-promising on timing. Never give a guest a specific delivery window unless you're confident you can keep it. In Japan especially, stating a time creates a real commitment.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes confuse 配達 (delivery to a recipient) with 発送 (sending
 
 **Answer:** 配達
 
-**Explanation:** 配達 (haitatsu) means delivery — bringing goods, laundry, or packages to a designated location on time.
+**Explanation:** 配達 (haitatsu) means delivery: bringing goods, laundry, or packages to a designated location on time.

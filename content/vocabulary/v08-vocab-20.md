@@ -4,9 +4,12 @@ section: 20
 title: 向かい (mukai)
 ---
 
-向かい (向かい) means "directly opposite" or "across from" and expresses that something is facing you from the other side — across a street, corridor, lobby, or body of water. In Japanese hospitality, providing accurate, efficient directions is a core service behavior, and 向かい is indispensable because many hotel amenities, landmarks, and transport hubs are positioned across from a reference point rather than beside it. Understanding the spatial difference between 向かい (across) and 隣 (beside) is one of the most practically important distinctions in navigation vocabulary. Misusing these two words can send guests in entirely the wrong direction, undermining trust in staff guidance.
+**Pronunciation:** [mu-**ka**-i]
+**Register:** Neutral, spatial directions and wayfinding
 
-In daily use, 向かい most commonly appears anchored to a known landmark: 郵便局は駅の向かいにございます (the post office is across from the station), or コンビニはホテルの向かいです (the convenience store is across from the hotel). At a ryokan, a staff member might say 大浴場はお食事処の向かいにございます (the large communal bath is across from the dining room). The word is especially powerful when the guest can see the reference point from where they are standing, because they can immediately look across and locate the destination themselves.
+向かい means "directly opposite" or "across from" and expresses that something is facing you from the other side, across a street, corridor, lobby, or body of water. In Japanese hospitality, providing accurate, efficient directions is a core service behavior, and 向かい is indispensable because many hotel amenities, landmarks, and transport hubs are positioned across from a reference point rather than beside it. Understanding the spatial difference between 向かい (across) and 隣 (beside) is one of the most practically important distinctions in navigation vocabulary. Mixing these two words up can send guests in entirely the wrong direction, and it happens more often than you might think.
+
+In daily use, 向かい most commonly appears anchored to a known landmark: 郵便局は駅の向かいにございます, or コンビニはホテルの向かいです. At a ryokan, a staff member might say 大浴場はお食事処の向かいにございます. The word is especially effective when the guest can see the reference point from where they are standing, because they can look directly across and spot the destination themselves. Students often find that 向かい clicks into place the moment they start picturing real hotels and their layouts, so try to visualize as you study.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In daily use, 向かい most commonly appears anchored to a known landmark: 郵�
 
 ## Related Expressions
 
-- **隣 (tonari)** — Adjacent or next to, the side-by-side counterpart to the face-to-face relationship of 向かい. A guest looking for 隣 will search to the left or right of a reference point, while a guest looking for 向かい will look straight across; these are mutually exclusive directions, so precision matters enormously.
-- **反対側 (hantai gawa)** — The opposite side, a slightly more formal or emphatic term for the other side of a space or road. While 向かい often implies a face-to-face relationship (the facade of one building facing another), 反対側 more neutrally means the other side of a boundary; in some contexts they are interchangeable, but 向かい carries a stronger implication of direct visual alignment.
+- **隣 (tonari)**: Adjacent or next to, the side-by-side counterpart to the face-to-face relationship of 向かい. A guest looking for 隣 will search to the left or right of a reference point, while a guest looking for 向かい will look straight across; these are mutually exclusive directions, so precision matters enormously.
+- **反対側 (hantai gawa)**: The opposite side, a slightly more formal or emphatic term for the other side of a space or road. While 向かい often implies a face-to-face relationship (the facade of one building facing another), 反対側 more neutrally means the other side of a boundary; in some contexts they are interchangeable, but 向かい carries a stronger implication of direct visual alignment.
 
 ## Common Mistakes
 
-The most serious mistake is using 向かい when the intended meaning is 隣 (next to), or vice versa, sending guests looking in completely the wrong direction. Learners also commonly use 向かい without a reference point (向かいにあります), which is meaningless unless the guest already knows what the reference landmark is — always state the reference point explicitly. Finally, note that in written directions and maps, 向かい is sometimes written in kanji as 向かい or simply as 対面 (taimen) in formal documents; knowing both forms prevents confusion when guests show staff printed directions.
+The most serious mistake is using 向かい when the intended meaning is 隣 (next to), or vice versa. These errors send guests looking in completely the wrong direction. Learners also commonly use 向かい without a reference point, saying 向かいにあります as if the guest already knows what to look across from; always state the reference point explicitly. Worth noting: in written directions and maps, 向かい is sometimes written as 対面 (taimen) in formal documents, so knowing both forms prevents confusion when guests show staff printed instructions.
 
 ---
 
@@ -44,5 +47,5 @@ The most serious mistake is using 向かい when the intended meaning is 隣 (ne
 
 **Correct Answer:** 駅の向かいです (it is across from the station)
 
-**Explanation:** 向かい (directly opposite) — always name the reference point (駅の向かい, ホテルの向かい) so guests know what to look across from; without the reference, 向かい is ambiguous.
+**Explanation:** 向かい (directly opposite): always name the reference point (駅の向かい, ホテルの向かい) so guests know what to look across from; without the reference, 向かい is ambiguous.
 

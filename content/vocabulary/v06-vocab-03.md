@@ -4,9 +4,12 @@ section: 3
 title: 苦情 (kujou)
 ---
 
-苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. It implies that the guest has experienced genuine dissatisfaction and feels strongly enough to say something. In Japanese hospitality culture, receiving a 苦情 is not treated as an attack. It is an opportunity to correct a flaw in service that might otherwise go unnoticed — and that chance must be honoured with sincerity. The omotenashi philosophy holds that a guest who complains is still giving the establishment a chance to improve. That's worth remembering when a difficult conversation begins.
+**Pronunciation:** [ku-**jou**]
+**Register:** Formal, used in professional service contexts when acknowledging a guest's complaint
 
-When a 苦情 is received, the correct sequence is: listen without interrupting, acknowledge the guest's feelings with a genuine apology, and only then explain what action will be taken. Staff should never minimise the complaint or offer excuses before expressing empathy. In larger hotels, 苦情 are documented and reviewed regularly to identify patterns in service breakdowns, and front-line staff are trained to escalate appropriately when the nature of the complaint exceeds their authority to resolve.
+苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. When a guest brings you a 苦情, they are telling you something went wrong and they feel strongly enough to say so. In Japanese hospitality culture, that is not treated as an attack. It is actually a chance to fix something that might have gone silently wrong for other guests too, and that chance deserves your full sincerity.
+
+Worth noting: the omotenashi mindset holds that a guest who complains is still giving the establishment an opportunity to do better. The guest who says nothing and simply does not return is the harder loss. So when a difficult conversation begins, keep that in mind. The sequence when receiving a 苦情 is to listen without interrupting, acknowledge the guest's feelings with a genuine apology, and only then explain what action will be taken. Never minimise the complaint or offer excuses before you have expressed real empathy. In larger hotels, 苦情 are documented and reviewed regularly to catch patterns in service breakdowns, and front-line staff are trained to escalate when the issue is beyond their authority to resolve.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a 苦情 is received, the correct sequence is: listen without interrupting,
 
 ## Related Expressions
 
-- **クレーム (kuremu)**: often implies a stronger, more formal or confrontational complaint that may require management involvement or compensation; 苦情 can be softer in some contexts.
-- **ご意見 (go-iken)**: means "your opinion/feedback"; using this term instead of 苦情 softens the interaction and can make the guest feel their input is valued rather than categorised as a problem.
+- **クレーム (kuremu)**: often implies a stronger, more formal or confrontational complaint that may require management involvement or compensation; 苦情 can sit on the softer side of the scale in some contexts.
+- **ご意見 (go-iken)**: means "your opinion or feedback"; choosing this word instead of 苦情 softens the exchange and makes the guest feel their input is genuinely valued rather than filed away as a problem.
 
 ## Common Mistakes
 
-A common error is for staff to apologise reflexively before fully understanding the 苦情. The problem with that is it can imply responsibility for something that was not the hotel's fault, creating legal complications down the line. The right move is to express empathy first (ご不便をおかけして申し訳ございません) and then gather the full picture. Students also sometimes confuse 苦情 with 文句 (monku), which is more informal and can sound dismissive if used in professional speech. In formal service contexts, 苦情 is always the right choice.
+A common error is for staff to apologise reflexively before they have fully understood the 苦情. The problem with that habit is it can imply responsibility for something that was not the hotel's fault, which creates legal complications down the line. The right move is to express empathy first, something like ご不便をおかけして申し訳ございません, and then gather the full picture before committing to a position. Students often confuse 苦情 with 文句 (monku), which is more informal and can sound dismissive if used in professional speech. In formal service settings, 苦情 is always the right word.
 
 ---
 
@@ -44,5 +47,5 @@ A common error is for staff to apologise reflexively before fully understanding 
 
 **Correct Answer:** 苦情を真摯に受け止めます (we will take your complaint seriously)
 
-**Explanation:** 苦情を真摯に受け止めます — 真摯に (sincerely/earnestly) and 受け止めます (to accept/receive) together express genuine accountability rather than defensive deflection.
+**Explanation:** 苦情を真摯に受け止めます: 真摯に (sincerely/earnestly) and 受け止めます (to accept/receive) together express genuine accountability rather than defensive deflection.
 

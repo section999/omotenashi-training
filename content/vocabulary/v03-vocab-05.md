@@ -4,9 +4,12 @@ section: 5
 title: ツインルーム (twin room)
 ---
 
-ツインルーム refers to a guest room containing two separate single or semi-double beds, making it the standard choice for pairs of business travellers, friends, or family members who prefer individual sleeping spaces. In Japan, the ツインルーム is one of the most commonly booked room configurations in business hotels and is also prevalent in resort and resort-adjacent ryokan-style properties that have incorporated Western-style bedding. Correctly identifying and confirming the ツインルーム type is essential because guests who expect separate beds and receive a ダブルルーム (one shared bed) may experience significant discomfort or embarrassment.
+**Pronunciation:** [**tsuin**-ruu-mu]
+**Register:** Neutral, Operational, front desk, reservations, room assignment conversations
 
-During check-in, staff should confirm the ツインルーム type clearly and describe the bed arrangement if there is any possibility of confusion. Phrases like ベッドが二つのお部屋でございます ("it is a room with two beds") provide helpful supplementary clarification. When only one bed type is available due to occupancy, staff must communicate any changes with an apology and a clear explanation before leading the guest to the room.
+ツインルーム is a guest room with two separate single or semi-double beds, and it is the go-to room type for business travel pairs, friends travelling together, and family members who prefer their own sleeping space. It is one of the most commonly booked configurations in Japanese business hotels, and you will be asked about it constantly at the front desk. Getting the room type right matters more than students sometimes realise. Guests who expect two beds and walk into a room with one shared bed can feel real discomfort or embarrassment, and that sets the wrong tone for their entire stay.
+
+During check-in, make it a habit to confirm the bed arrangement out loud, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます ("it is a room with two beds") gives guests reassurance and removes any ambiguity. In practice, the moment guests look uncertain about their room type, say something before they ask. And if only one bed type is available due to high occupancy, communicate that clearly and apologetically before leading them to the room, not as a surprise when they open the door.
 
 ## Example Sentences
 
@@ -20,16 +23,16 @@ During check-in, staff should confirm the ツインルーム type clearly and de
 
 **3.** 本日はツインルームへのアップグレードをご提供できますので、いかがでしょうか？
 *Honjitsu wa tsuin-ruumu e no appugureedu wo go-teikyou dekimasu no de, ikaga deshou ka?*
-"We can offer you an upgrade to a twin room today — would you like that?"
+"We can offer you an upgrade to a twin room today: would you like that?"
 
 ## Related Expressions
 
-- **ダブルルーム (daburu-ruumu)** — a room with one shared bed for two guests; the most frequent source of confusion with ツインルーム, so bed count should always be clarified.
-- **シングルルーム (shinguru-ruumu)** — a room with one bed for one guest; important to distinguish from ツインルーム when a reservation detail is unclear.
+- **ダブルルーム (daburu-ruumu)**: a room with one shared bed for two guests; this is the term most likely to be confused with ツインルーム, so always clarify the bed count when there is any doubt
+- **シングルルーム (shinguru-ruumu)**: a room with one bed for one guest; distinguish this clearly from ツインルーム if a reservation detail is unclear or incomplete
 
 ## Common Mistakes
 
-The most critical mistake is failing to clarify the difference between ツインルーム and ダブルルーム when guests are uncertain, which can lead to awkward situations at the room itself. Learners sometimes also mispronounce ツイン as "tsain" or "twin" with English phonics — in Japanese it is clearly ツイン (tsuin) with a long vowel in the second mora. Avoid abbreviating to just ツイン without ルーム in formal or guest-facing speech, as the shortened form is better reserved for internal staff communication.
+The most critical mistake is failing to clarify the difference between ツインルーム and ダブルルーム when a guest seems uncertain. Discovering the wrong bed arrangement in the room itself is far worse than a brief clarifying conversation at check-in. Students also sometimes mispronounce ツイン with English phonics, saying something closer to "tween" or "twain." In Japanese, it is clearly ツイン (tsuin) with a long vowel in the second mora. One more thing: avoid shortening to just ツイン without ルーム in guest-facing speech. The abbreviated form works among colleagues, but the full ツインルーム is the right choice in any conversation with a guest.
 
 ---
 
@@ -45,5 +48,4 @@ The most critical mistake is failing to clarify the difference between ツイン
 
 **Correct Answer:** ツインルーム (twin room)
 
-**Explanation:** ツインルーム means a room with two separate beds — always confirm room type using the polite よろしいでしょうか form.
-
+**Explanation:** ツインルーム means a room with two separate beds: always confirm room type using the polite よろしいでしょうか form.

@@ -4,9 +4,9 @@ section: 11
 title: 毛布 (moufu)
 ---
 
-毛布 (moufu) means blanket and is a fundamental comfort item in any lodging environment. In the context of Japanese hospitality, blankets are part of the room's standard bedding setup, and guests may request additional ones during colder months, when sleeping in heavily air-conditioned rooms, or simply based on personal preference. Hotels typically stock extra blankets in the wardrobe or upon request from the front desk or housekeeping. Responding swiftly and warmly to a blanket request is a simple but powerful demonstration of attentive service — the comfort of the guest's sleep directly influences the quality of their stay and their overall assessment of the property.
+毛布 (moufu) means blanket, and it is one of the most common comfort requests you will handle in any lodging environment. Guests ask for extra blankets in cold weather, in rooms where the air conditioning runs too strong, or simply because they sleep better with more weight on them. Extra 毛布 are typically stored in the wardrobe or available on request from housekeeping. How quickly and warmly you respond to that request leaves an impression, because sleep comfort is the one thing guests will remember most about a stay.
 
-The phrase お持ちいたしましょうか ("shall I bring you one?") is the gold standard for proactively offering a 毛布, particularly when a guest mentions feeling cold or when temperatures are expected to drop. In ryokan settings, blankets may be called 掛け布団 (kakebuton) when referring to the traditional quilted covering used over futon bedding — staff should be aware of both terms depending on the property style. When delivering a 毛布, always present it with both hands and a brief acknowledgment.
+The phrase お持ちいたしましょうか ("shall I bring you one?") is the right tool when you anticipate the need, such as when a guest mentions feeling cold or when you know the overnight temperature is going to drop. In ryokan settings, the quilted covering used over futon bedding is often called 掛け布団 (kakebuton) rather than 毛布, so be aware of which term fits your property. In practice, delivering a 毛布 with both hands and a brief spoken acknowledgment, rather than just handing it over silently, signals the kind of care that guests notice and appreciate.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The phrase お持ちいたしましょうか ("shall I bring you one?") is the g
 
 ## Related Expressions
 
-- **掛け布団 (kakebuton)** — traditional Japanese quilted blanket used over futon bedding; the ryokan-specific equivalent of the Western-style 毛布, important to know when working in traditional-style accommodations.
-- **枕 (makura)** — pillow; frequently requested alongside 毛布 as guests seek overall sleep comfort, so knowing both terms and preparing them together shows foresight.
+- **掛け布団 (kakebuton)**: traditional Japanese quilted blanket used over futon bedding; the ryokan equivalent of the Western-style 毛布, and a term you need to know if your property has tatami-style rooms.
+- **枕 (makura)**: pillow; guests often ask for extra pillows and blankets at the same time, so knowing both terms and being ready to bring them together is a small but effective show of foresight.
 
 ## Common Mistakes
 
-A common error is confusing 毛布 with 布団 (futon) — 布団 refers to the entire traditional floor-sleeping set including the mattress, while 毛布 specifically means a blanket. In formal guest speech, avoid saying simply 毛布です when handing one to a guest; the more professional phrasing is こちら毛布でございます or a fuller delivery statement. Staff should also avoid storing extra blankets in inaccessible locations and then telling guests to retrieve them without offering assistance — proactive delivery is always preferred.
+Students often mix up 毛布 and 布団. Remember: 布団 refers to the entire traditional floor-sleeping set including the mattress, while 毛布 is just the blanket. When handing one to a guest, saying simply 毛布です is too blunt and casual. Use こちら毛布でございます or a fuller delivery phrase. One more thing: do not store extra blankets somewhere awkward and then tell the guest to go get one. Proactive delivery is always the right call. Asking a guest to retrieve something themselves is rarely the hospitality move.
 
 ---
 
@@ -45,5 +45,5 @@ A common error is confusing 毛布 with 布団 (futon) — 布団 refers to the 
 
 **Correct Answer:** 毛布 (blanket)
 
-**Explanation:** 毛布 means blanket — お持ちいたしましょうか is the polite offer to bring something, showing proactive care.
+**Explanation:** 毛布 means blanket: お持ちいたしましょうか is the polite offer to bring something, showing proactive care.
 

@@ -4,9 +4,12 @@ section: 34
 title: 案内図 (annaizu)
 ---
 
-案内図 combines 案内 (annai, guidance / information) with 図 (zu, diagram / map), and refers to a guide map that provides an overview of a facility, hotel complex, or neighborhood. While フロアマップ focuses on the spatial layout of individual floors, 案内図 takes a broader perspective — it may show all floors in cross-section, the entire hotel grounds, or the surrounding streets and landmarks. In luxury hotels, 案内図 are often beautifully illustrated and placed in guest rooms, at the front desk, and in key corridors to help guests orient themselves from the moment they arrive. Providing a well-designed 案内図 reflects the hotel's commitment to seamless, stress-free navigation for its guests.
+**Pronunciation:** [an-**nai**-zu]
+**Register:** Formal, facility orientation, concierge guidance, guest room materials
 
-When a guest asks for directions and the destination involves multiple steps or turns, handing over an 案内図 while explaining the route is significantly more effective than verbal directions alone. The ideal service response combines physical map presentation (案内図をご覧ください、こちらが現在地でございます) with a brief verbal walkthrough of the route. In Japanese hospitality culture, empowering guests to navigate independently — while making it clear that staff remain available for further help — strikes the right balance between attentiveness and respect for the guest's autonomy. An 案内図 is one of the most practical tools for achieving this.
+案内図 combines 案内 (annai, guidance or information) with 図 (zu, diagram or map), giving you a "guide map" that shows the broad layout of a hotel complex, all floors in cross-section, the hotel grounds, or the surrounding streets and landmarks. Where フロアマップ zooms in on a single floor, 案内図 zooms out. Luxury hotels often produce beautifully illustrated versions of these, placed in guest rooms, at the front desk, and in key corridors, and the quality of the 案内図 is itself a reflection of the hotel's attention to guest experience.
+
+The real power of an 案内図 shows up when a guest needs multi-step directions. Verbal directions alone for a destination involving several turns and a level change are easy to forget by the time the guest is halfway there. Handing over the 案内図 while walking through the route verbally gives the guest a physical anchor they can refer back to independently. That combination of map plus explanation is the ideal response. In Japanese hospitality, helping a guest navigate on their own while making it clear you are still available is the right balance: it shows respect for the guest's autonomy without abandoning them.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest asks for directions and the destination involves multiple steps or 
 
 ## Related Expressions
 
-- **フロアマップ (furoamappu)** — "floor map," a more specific floor-level layout diagram; 案内図 is the broader facility overview while フロアマップ shows individual floor arrangements
-- **地図 (chizu)** — "map" in the general sense, including city or regional maps; 案内図 is facility-specific and produced by the hotel, while 地図 can refer to any cartographic document
+- **フロアマップ (furoamappu)**: A floor map focused on the spatial layout of a single floor. If 案内図 is the overview, フロアマップ is the detail view. Both are useful, and knowing when to reach for each is part of good concierge instinct.
+- **地図 (chizu)**: A general map in the broad sense, including city maps and regional road maps. 案内図 is produced specifically by the facility for visitors; 地図 can mean any cartographic document. Students often reach for 地図 out of habit, but in a hotel context 案内図 is the more precise and natural word.
 
 ## Common Mistakes
 
-Learners sometimes use 地図 (chizu) when they mean 案内図, but 地図 is a general geographic map (like a street map of a city) while 案内図 is a facility-specific guide produced to help visitors navigate a building or complex. Another mistake is offering an 案内図 without orienting the guest to it — always identify the current location on the map first. When speaking formally, use 案内図をご覧ください or 案内図をお渡しいたします rather than casual forms, and hold the map facing the guest when presenting it.
+The most frequent mix-up here is substituting 地図 for 案内図. A 地図 is any general geographic map, while 案内図 is a facility-specific guide produced to help people navigate a building or complex. Using 地図 when you mean the hotel's own guide map sounds slightly off to native speakers and colleagues. That said, the bigger service error is offering the 案内図 without orienting the guest to their current location on it first. Worth noting: a map handed without that starting point is much harder to use than one where the staff member points and says 現在地はこちらでございます (your current position is here). When presenting formally, hold the map facing the guest and use 案内図をご覧ください or 案内図をお渡しいたします.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 地図 (chizu) when they mean 案内図, but 地図 is a 
 
 **Correct Answer:** 案内図をご覧ください (please refer to the guide map)
 
-**Explanation:** 案内図をご覧ください (please refer to the guide map) — handing a physical map while saying this phrase is ideal; it empowers the guest to navigate independently while showing attentiveness.
+**Explanation:** 案内図をご覧ください (please refer to the guide map): handing a physical map while saying this phrase is ideal; it empowers the guest to navigate independently while showing attentiveness.

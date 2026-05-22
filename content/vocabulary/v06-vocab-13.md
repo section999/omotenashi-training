@@ -4,9 +4,12 @@ section: 13
 title: 水漏れ (mizumore)
 ---
 
-水漏れ (mizumore) means water leakage — the escape of water from pipes, taps, shower fittings, or other plumbing fixtures. In a hotel or ryokan, a 水漏れ is treated as a priority issue because it can escalate quickly from a minor inconvenience to a hazard affecting structural integrity, electrical systems, or the comfort of adjacent rooms. For this reason, any 水漏れ report — whether from a guest or discovered by a housekeeper — must be reported to maintenance immediately, and the affected area should be made safe without delay.
+**Pronunciation:** [mi-zu-**mo**-re]
+**Register:** Formal/Neutral, used when reporting or responding to a water leak on the property
 
-In guest-facing communication, the most important principle when dealing with 水漏れ is to avoid asking the guest to manage or contain the situation themselves. While it may be tempting to ask a guest to place towels or move valuables, the correct approach is to ensure maintenance is dispatched immediately and, if the leak is significant, to offer the guest an alternative room. Calm and decisive communication is essential — a staff member who hesitates or appears uncertain about the severity will increase the guest's anxiety. Using clear, confident phrases like 水漏れを確認いたします paired with a concrete next step demonstrates professional competence.
+水漏れ (mizumore) means water leakage: water escaping from pipes, taps, shower fittings, or other plumbing. In a hotel or ryokan, a 水漏れ is treated as a priority issue because it can escalate from a minor inconvenience to a hazard in a short time, affecting structural integrity, electrical systems, or the comfort of adjacent rooms. Any 水漏れ report, whether it comes from a guest or is spotted by a housekeeper, needs to go to maintenance immediately, and the affected area must be made safe without delay.
+
+In practice, the most important principle when speaking with a guest about a 水漏れ is to avoid asking them to manage or contain the situation themselves. It may feel natural to suggest placing towels or moving valuables out of the way, but that shifts responsibility onto the guest in a moment when they are already stressed. The right approach is to dispatch maintenance immediately and, if the leak is significant, to proactively offer a room change. Students often underestimate how much a calm, decisive tone matters here. A staff member who hesitates or appears unsure about what to do next will amplify the guest's anxiety. Using confident phrases like 水漏れを確認いたします paired with a clear next step communicates exactly the professional competence guests need to see.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In guest-facing communication, the most important principle when dealing with �
 
 ## Related Expressions
 
-- **故障 (koshou)** — general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it requires a specific response.
-- **排水 (haisui)** — drainage; sometimes 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause efficiently.
+- **故障 (koshou)**: general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it calls for a specific response.
+- **排水 (haisui)**: drainage; sometimes a 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause rather than just the symptom.
 
 ## Common Mistakes
 
-A critical error is for staff to downplay a 水漏れ as a minor issue and delay the maintenance response — even a slow drip can cause significant water damage if left unchecked, and electricity near water is a safety risk. Learners should also avoid requesting that guests handle the situation themselves, such as 「タオルで押さえておいてください」 (please hold a towel over it), as this shifts responsibility inappropriately. The correct posture is always immediate professional response paired with clear communication of next steps.
+A critical error is for staff to downplay a 水漏れ and delay calling maintenance. Even a slow drip can cause significant water damage if left unchecked, and electricity near water is a real safety risk. One more thing: never ask the guest to handle any part of the situation themselves, such as 「タオルで押さえておいてください」 (please hold a towel over it). That phrasing shifts responsibility in a direction it should never go. The correct posture is always immediate professional response combined with clear communication about what happens next, no matter how small the leak appears.
 
 ---
 
@@ -44,5 +47,5 @@ A critical error is for staff to downplay a 水漏れ as a minor issue and delay
 
 **Correct Answer:** 水漏れを確認いたします (we will check the water leak)
 
-**Explanation:** 水漏れを確認いたします — water leaks can escalate quickly; responding with 確認いたします immediately and notifying maintenance without delay is both the safe and service-focused action.
+**Explanation:** 水漏れを確認いたします: water leaks can escalate quickly; responding with 確認いたします immediately and notifying maintenance without delay is both the safe and service-focused action.
 

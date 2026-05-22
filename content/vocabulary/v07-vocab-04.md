@@ -4,9 +4,9 @@ section: 4
 title: 駐車場 (chuushajou)
 ---
 
-駐車場 means parking lot or car park, and in a hospitality context it represents a significant logistical touchpoint for guests arriving by private vehicle. In Japan, hotel parking facilities vary greatly — from expansive ground-level lots at resort hotels to compact mechanical tower parking systems in urban business hotels — so staff must communicate the specifics of their property accurately and proactively. The moment a guest drives up, the quality of the parking guidance they receive contributes directly to their overall impression of the hotel. Providing clear information about entry procedures, height restrictions, fee structures, and validation policies is therefore an essential service skill.
+駐車場 means parking lot or car park, and in a hospitality context it is a significant logistical touchpoint for guests arriving by private vehicle. Hotel parking facilities vary greatly across Japan, from expansive ground-level lots at resort hotels to compact mechanical tower parking systems in urban business hotels, so staff need to communicate the specifics of their property accurately and proactively. The moment a guest drives up, the quality of the parking guidance they receive contributes directly to their overall impression. Clear information about entry procedures, height restrictions, fee structures, and validation policies is an essential service skill.
 
-Beyond simply confirming availability, staff should be prepared to assist with valet parking where offered, explain overnight charges, and manage situations where the parking facility is at capacity. In such cases, directing guests to the nearest alternative parking facility with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are helpful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property.
+Beyond confirming availability, staff should be prepared to assist with valet parking where it is offered, explain overnight charges, and handle situations where the lot is full. In that case, directing guests to the nearest alternative with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are useful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Beyond simply confirming availability, staff should be prepared to assist with v
 
 ## Related Expressions
 
-- **バレーパーキング (baree paakingu)** — valet parking; available at higher-end hotels where staff take the vehicle on the guest's behalf; requires clear communication about retrieval procedure and timing.
-- **駐車券 (chuushaken)** — parking ticket or validation voucher; many hotel restaurants and facilities offer 駐車券サービス (parking validation) to guests who dine or purchase; staff should mention this benefit proactively.
+- **バレーパーキング (baree paakingu)**: valet parking; available at higher-end hotels where staff take the vehicle on the guest's behalf; requires clear communication about retrieval procedure and timing.
+- **駐車券 (chuushaken)**: parking ticket or validation voucher; many hotel restaurants and facilities offer 駐車券サービス (parking validation) to guests who dine or purchase; staff should mention this benefit proactively.
 
 ## Common Mistakes
 
-A common error is confirming parking availability without providing the relevant details — fee, height limit, and access procedure — which forces the guest to ask follow-up questions and disrupts the flow of check-in. Learners also sometimes confuse 満車 (full/no vacancy) with 空車 (vacancy available); these are opposites and mixing them up causes serious misunderstandings. Finally, avoid the abrupt 「駐車場はあります」 — the correct hospitality register is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
+Students often confirm parking availability without providing the relevant details, such as the fee, height limit, and access procedure, which forces the guest to ask follow-up questions and disrupts the check-in flow. There is also a classic vocabulary mix-up: 満車 (full, no vacancy) is the opposite of 空車 (vacancy available), and confusing them causes serious misunderstandings. The register issue matters too. Avoid the blunt 「駐車場はあります」. The correct hospitality phrasing is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
 
 ---
 
@@ -44,5 +44,5 @@ A common error is confirming parking availability without providing the relevant
 
 **Correct Answer:** 駐車場をご利用いただけます (you can use the parking lot)
 
-**Explanation:** 駐車場をご利用いただけます — ご利用いただけます confirms availability in humble-polite form; follow up with details (floor, fee, hours) to give the guest the complete picture.
+**Explanation:** 駐車場をご利用いただけます: ご利用いただけます confirms availability in humble-polite form; follow up with details (floor, fee, hours) to give the guest the complete picture.
 

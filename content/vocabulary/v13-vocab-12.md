@@ -4,9 +4,9 @@ section: 12
 title: 研修 (kenshuu)
 ---
 
-研修 refers to a structured, often intensive training programme designed to equip employees with the knowledge, skills, and attitudes their role demands. In Japan's hospitality industry, 研修 is taken extremely seriously. New hotel staff may go through a week or more of 研修 before ever being placed in a guest-facing position, covering everything from greeting etiquette and phone manner to fire safety and emergency protocols. That upfront investment reflects the industry's commitment to consistent, high-quality service — the practical engine of omotenashi (おもてなし).
+研修 refers to a structured, often intensive training programme designed to equip employees with the knowledge, skills, and attitudes their role demands. In Japan's hospitality industry, 研修 is taken extremely seriously. New hotel staff may go through a week or more of 研修 before ever being placed in a guest-facing position, covering everything from greeting etiquette and phone manner to fire safety and emergency protocols. That upfront investment reflects the industry's commitment to consistent, high-quality service, the practical engine of omotenashi (おもてなし).
 
-研修 doesn't stop at onboarding. Seasonal 研修 updates staff on new menus, services, or technologies, while ongoing sessions respond to shifting guest expectations and industry standards. In prestigious establishments like traditional ryokan, 研修 may also include cultural education — the history of the property, local customs, and the deeper meaning of hospitality in the Japanese tradition. Students entering the industry should know this: being a willing, attentive participant in 研修 is one of the fastest ways to build credibility with management.
+研修 doesn't stop at onboarding. Seasonal sessions update staff on new menus, services, or technologies, while ongoing ones respond to shifting guest expectations and industry standards. In prestigious establishments like traditional ryokan, 研修 may also include cultural education, the history of the property, local customs, and the deeper meaning of hospitality in the Japanese tradition. Students entering the industry should know this: being a willing, attentive participant in 研修 is one of the fastest ways to build credibility with management.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ title: 研修 (kenshuu)
 
 ## Common Mistakes
 
-Students often treat 研修 and 教育 as synonyms. The key difference is scope and structure. 研修 is a bounded programme — a schedule, materials, often an assessment. 教育 is the broader, more holistic process of nurturing an employee's capabilities over time. Using 研修 when referring to a manager's ongoing informal mentoring of their team is too narrow — 教育 or 指導 would fit better there.
+Students often treat 研修 and 教育 as synonyms. The key difference is scope and structure. 研修 is a bounded programme, a schedule, materials, often an assessment. 教育 is the broader, more holistic process of nurturing an employee's capabilities over time. Using 研修 when referring to a manager's ongoing informal mentoring of their team is too narrow, 教育 or 指導 would fit better there.
 
 ---
 
@@ -41,4 +41,4 @@ Students often treat 研修 and 教育 as synonyms. The key difference is scope 
 
 **Answer:** 研修
 
-**Explanation:** 研修 (kenshuu) means training — structured programmes to improve employee skills, knowledge, and adherence to company standards.
+**Explanation:** 研修 (kenshuu) means training: structured programmes to improve employee skills, knowledge, and adherence to company standards.

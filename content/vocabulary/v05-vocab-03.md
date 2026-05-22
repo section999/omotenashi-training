@@ -4,9 +4,12 @@ section: 3
 title: 昼食 (chuushoku)
 ---
 
-昼食 is the formal Japanese word for lunch, covering the midday meal service in hotel restaurants, banquet halls, and room service. In Japanese hospitality, lunch service often presents opportunities for upselling seasonal set menus, business lunch packages, or special chef's recommendations, so staff who can describe the offerings clearly add tangible value. Unlike breakfast, which most staying guests consume on-property, lunch guests may include day visitors or local diners, requiring staff to be equally skilled at welcoming non-resident guests. Knowing the peak hours and average table turnover time helps staff manage flow and set realistic expectations.
+**Pronunciation:** [**chuu**-sho-ku]
+**Register:** Formal, Operational, F&B communication, dining guidance, reservation inquiries
 
-Practical communication around 昼食 centers on informing guests of available times, menu highlights, and reservation requirements. During peak periods, noting waiting times honestly and offering alternatives — such as the hotel lounge or a later table — demonstrates problem-solving in line with omotenashi values. When serving business guests, speed and discretion are often as important as flavor, so balancing attentive service with respect for the guest's time is essential.
+昼食 is the formal Japanese word for lunch, and in a hotel setting it covers everything from restaurant service to room service and banquet-style midday meals. Lunch presents real opportunities for the attentive hospitality professional: seasonal set menus, business lunch packages, and chef's recommendations are all worth knowing so you can describe them naturally when guests ask. Worth noting is that unlike breakfast, which most staying guests eat on-property, lunch guests often include day visitors or locals coming in from outside. That means your guest management at the lunch period needs to be equally welcoming to both residents and walk-ins.
+
+Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that you are problem-solving rather than just reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When the service is busy and you have to manage expectations, calm and direct communication is what keeps guests feeling respected.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Practical communication around 昼食 centers on informing guests of available t
 
 ## Related Expressions
 
-- **ランチ (ranchi)** — the loanword equivalent, widely used in casual and mid-range restaurant contexts; acceptable in hotel settings but 昼食 carries a more formal register suited to upscale dining communication.
-- **昼ごはん (hiru-gohan)** — the informal everyday term for lunch; appropriate among staff but too casual for direct guest-facing speech in a hotel environment.
+- **ランチ (ranchi)**: the loanword equivalent, widely used in casual and mid-range contexts; it is acceptable in many hotel settings but 昼食 carries a more formal register that suits upscale dining communication better
+- **昼ごはん (hiru-gohan)**: the informal everyday word for lunch, fine among staff in back-of-house conversation but too casual for any direct guest-facing situation in a hotel environment
 
 ## Common Mistakes
 
-Learners frequently confuse 昼食 with ランチ and use them interchangeably without considering register; in formal hotel communication, 昼食 is preferred. Another mistake is quoting the end time without the start time, leaving guests uncertain about when service begins. Avoid saying 食事は昼ですよ — it is far too casual and sounds dismissive compared to the appropriate ご昼食のご案内をいたします.
+Students frequently use ランチ and 昼食 interchangeably without thinking about register. In formal hotel communication, 昼食 is the better choice. Another common mistake is quoting the end time without the start time, or vice versa, leaving the guest with an incomplete picture. And please never say 食事は昼ですよ to a guest, it is far too casual and sounds dismissive. The appropriate guest-facing approach is something like ご昼食のご案内をいたします, which is both respectful and informative.
 
 ---
 
@@ -44,5 +47,4 @@ Learners frequently confuse 昼食 with ランチ and use them interchangeably w
 
 **Correct Answer:** 昼食は12時からご利用いただけます (lunch is available from 12 o'clock)
 
-**Explanation:** 昼食は12時からご利用いただけます — ご利用いただけます is the humble form of "you may use / is available", standard for informing guests of service hours.
-
+**Explanation:** 昼食は12時からご利用いただけます: ご利用いただけます is the humble form of "you may use / is available", standard for informing guests of service hours.

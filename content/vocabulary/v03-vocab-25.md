@@ -4,9 +4,12 @@ section: 25
 title: 窓 (mado)
 ---
 
-窓 (window) is one of the most frequently discussed room features in hospitality, encompassing both practical function and aesthetic experience. In Japan's famous city hotels, mountain ryokan, and seaside inns, the view from the 窓 is often a key selling point of the room itself — whether it frames Mount Fuji, a Kyoto garden, or the Tokyo skyline. Staff who draw attention to the view with genuine enthusiasm and provide clear guidance on how to open or close the 窓 are fulfilling both the practical and experiential dimensions of hospitality. At the same time, 窓 safety is a concern, particularly in high-rise hotels where windows may be restricted from fully opening; staff must be prepared to explain any such restrictions honestly and calmly.
+**Pronunciation:** [**ma**-do]
+**Register:** Neutral, Practical, room orientation, facility explanations
 
-In room orientation, staff commonly say: 「窓からは〇〇の景色がご覧いただけます」 (from the window you can enjoy a view of [location]) to highlight the view, and 「窓は手前に引いて開けてください」 (please pull the window toward you to open it) to explain operation. In rooms where windows do not open for safety reasons, staff might say: 「安全のため、窓は開かない仕様になっております」 (for safety reasons, the window is designed not to open). Curtain and blind controls are typically explained alongside the 窓.
+窓 means window, and in hospitality work it comes up far more often than you might expect. In Japan's city hotels, mountain ryokan, and seaside inns, the view from the 窓 is often a genuine selling point of the room itself, it might frame Mount Fuji, a Kyoto temple garden, or the glittering Tokyo skyline. Staff who draw attention to that view with genuine enthusiasm give guests an experience, not just a room. At the same time, 窓 orientation has a practical side: guests need to know how to open and close the window, and in high-rise hotels where windows are restricted for safety, they need to understand why. Both sides of this, the aesthetic and the operational, deserve your attention.
+
+In a standard room orientation, two phrases carry most of the weight. 「窓からは〇〇の景色がご覧いただけます」 highlights the view (from the window you can enjoy a view of...), and 「窓は手前に引いて開けてください」 explains the operation (please pull the window toward you to open it). In rooms where windows cannot be opened fully, 「安全のため、窓は一定の幅までしか開かない仕様になっております」 delivers the safety information calmly and clearly. Students often feel awkward explaining restrictions, but guests respond well to honest, calm explanations. Curtain and blind controls naturally come up in the same part of the orientation, so be ready to cover those together with the window.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In room orientation, staff commonly say: 「窓からは〇〇の景色がご覧
 
 ## Related Expressions
 
-- **カーテン (kaaten)** — Curtain. 窓 and カーテン are almost always discussed together during room orientation, as guests need to know how to control both light and privacy. The phrase 「カーテンをお引きください」 (please draw the curtains) is a natural companion to window guidance.
-- **景色 (keshiki)** — View or scenery. When a room's 窓 offers a notable view, 景色 is the word used to highlight it: 「窓から富士山の景色がご覧いただけます」 (you can see a view of Mount Fuji from the window). Pairing 窓 and 景色 in a single sentence is a common and effective hospitality expression.
+- **カーテン (kaaten)**: curtain, 窓 and カーテン are almost always handled together in room orientation; guests need to understand both light control and privacy, so 「カーテンをお引きください」 (please draw the curtains) is a natural companion to window guidance
+- **景色 (keshiki)**: view or scenery, when the room has something worth seeing outside, 景色 is how you name it; 「窓から富士山の景色がご覧いただけます」 pairs the two words in a natural and memorable hospitality expression
 
 ## Common Mistakes
 
-Learners sometimes give overly brief instructions like 「窓は開きます」 (the window opens) without explaining the mechanism — whether to push, pull, slide, or lift. This leaves guests to figure it out by trial and error, which is inconsistent with omotenashi. Another error is forgetting to mention safety restrictions in high-rise rooms, which can lead to guests attempting to open windows more than permitted. Failing to mention the view when it is genuinely impressive is also a missed opportunity: drawing the guest's attention to it is a small gesture that significantly enhances the perceived quality of service.
+Students sometimes give a vague instruction like 「窓は開きます」 (the window opens) without explaining how to actually open it, whether to push, pull, slide, or lift. That leaves guests to figure it out by trial and error, which is the opposite of omotenashi. Another gap is forgetting to mention safety restrictions in high-rise rooms, which can lead guests to force windows further than they should go. And if the view genuinely is impressive, failing to mention it is a missed opportunity. In practice, pointing out a good view takes only one sentence and it noticeably lifts the guest's first impression of the room.
 
 ---
 
@@ -44,5 +47,4 @@ Learners sometimes give overly brief instructions like 「窓は開きます」 
 
 **Correct Answer:** 窓は手前に引いて開けてください (please pull the window toward you to open it)
 
-**Explanation:** 窓は手前に引いて開けてください gives a clear physical instruction — directional guidance is essential for guest safety and comfort.
-
+**Explanation:** 窓は手前に引いて開けてください gives a clear physical instruction: directional guidance is essential for guest safety and comfort.

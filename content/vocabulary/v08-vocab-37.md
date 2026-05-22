@@ -4,9 +4,12 @@ section: 37
 title: 避難経路 (hinan keiro)
 ---
 
-避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), forming the standard term for "evacuation route." It refers to the designated pathway leading from any point in the building to a safe outdoor assembly area via emergency exits. Unlike 非常口 (hijouguchi), which names the exit itself, 避難経路 names the entire path — the corridor to follow, the turns to take, and the exit to use. In Japan, evacuation routes are mandated by fire safety law and must be posted visibly on every floor, typically displayed beside or near elevator landings and at room entrances. Hotel staff are required not only to know these routes but to be able to walk guests through them verbally and physically during a real emergency.
+**Pronunciation:** [hi-**nan**-kei-ro]
+**Register:** Formal -- required in emergency briefings and safety communications
 
-In the context of omotenashi, communicating 避難経路 information to guests goes beyond legal compliance — it reflects the deepest level of duty of care. Professional hotel staff deliver this information calmly and clearly during check-in (ご宿泊中のご案内として、避難経路をご確認ください), provide a written reference on the safety card in the room, and rehearse evacuation procedures regularly through hotel fire drills (避難訓練). When a real emergency occurs, the staff member who has internalized 避難経路 information can guide panicked guests efficiently, preventing injury and demonstrating the true meaning of responsible hospitality service.
+避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), giving you the standard term for "evacuation route." This is the complete pathway from any point inside the building to a safe outdoor assembly area, including every corridor turn, every stairwell, and the emergency exit at the end. Worth noting is the distinction between this word and 非常口 (hijouguchi): 非常口 names the exit door itself, while 避難経路 names the entire journey to get there. Japanese fire safety law mandates that evacuation routes be posted visibly on every floor, typically near elevator landings and room entrances, and hotel staff are required to know them well enough to walk guests through them verbally at a moment's notice.
+
+In the context of omotenashi, communicating 避難経路 information goes beyond checking a box for legal compliance. Professional staff deliver this calmly during check-in ("ご宿泊中のご案内として、避難経路をご確認ください"), back it up with the safety card in the guest room, and reinforce it through regular fire drills (避難訓練). A guest who hears this information delivered confidently and warmly is far more likely to remember it when it matters. When a real emergency happens, the staff member who has genuinely internalized the routes can guide panicked guests with authority, and that is where responsible hospitality becomes something deeper than good service.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ In the context of omotenashi, communicating 避難経路 information to guests g
 
 **2.** 火災の場合は避難経路に従い、エレベーターをご利用にならず、階段でご避難ください。
 *Kasai no baai wa hinan keiro ni shitagaia, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*
-"In the event of a fire, please follow the evacuation route, and evacuate via the stairs — do not use the elevator."
+"In the event of a fire, please follow the evacuation route, and evacuate via the stairs: do not use the elevator."
 
 **3.** 本日の避難訓練では、全スタッフが避難経路と集合場所を再確認いたします。
 *Honjitsu no hinan kunren de wa, zen-sutaffu ga hinan keiro to shuugou basho wo sai-kakunin itashimasu.*
@@ -24,12 +27,12 @@ In the context of omotenashi, communicating 避難経路 information to guests g
 
 ## Related Expressions
 
-- **非常口 (hijouguchi)** — "emergency exit," the specific exit door at the end of the 避難経路; knowing both terms allows staff to give complete evacuation guidance
-- **集合場所 (shuugou basho)** — "assembly point," the safe outdoor gathering location at the end of the evacuation route; always paired with 避難経路 in emergency briefings to give guests a complete picture of the evacuation process
+- **非常口 (hijouguchi)**: the emergency exit door at the end of the 避難経路; knowing both terms lets you give guests a complete picture of how to get out safely
+- **集合場所 (shuugou basho)**: the outdoor assembly point where everyone gathers after evacuation; always pair this with 避難経路 in a safety briefing so guests understand not just where to go but where to stop
 
 ## Common Mistakes
 
-Learners sometimes use 避難経路 only in the context of a fire, but it applies to any emergency requiring evacuation — earthquakes, gas leaks, or structural hazards. Another error is failing to distinguish between 避難経路 (the entire evacuation path) and 非常口 (the exit itself) — in a full emergency briefing, both must be communicated. Avoid using casual speech when explaining 避難経路 information, as the gravity of the topic requires formal and measured language; a guest who hears this information delivered calmly and professionally will be more likely to recall and follow it in a real emergency.
+Students often use 避難経路 only when talking about fires, but the term applies to any evacuation scenario: earthquakes, gas leaks, structural hazards. The word does not know which disaster is happening, and neither should your training. In practice, another common slip is treating 避難経路 and 非常口 as the same thing. In a full emergency briefing you need both: the route to follow and the door at the end of it. One more thing to keep in mind: never switch to casual speech when explaining evacuation information. The gravity of the topic calls for calm, measured, formal language, and a guest who hears it that way will be far more likely to follow your instructions when the moment comes.
 
 ---
 
@@ -45,4 +48,4 @@ Learners sometimes use 避難経路 only in the context of a fire, but it applie
 
 **Correct Answer:** 避難経路 (evacuation route)
 
-**Explanation:** 避難経路 (evacuation route) — knowing this word is essential not just for guests but for all hotel staff; 避難経路に従う (follow the evacuation route) is the core instruction in any fire or disaster drill.
+**Explanation:** 避難経路 (evacuation route): knowing this word is essential not just for guests but for all hotel staff; 避難経路に従う (follow the evacuation route) is the core instruction in any fire or disaster drill.

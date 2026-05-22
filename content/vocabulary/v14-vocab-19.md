@@ -4,9 +4,12 @@ section: 19
 title: バス (basu)
 ---
 
-バス (basu) is the Japanese loanword for "bus" and refers to road-based public transportation vehicles that operate on fixed routes with scheduled stops. While Japan's train network is extensive, バス services fill crucial gaps — serving rural areas, mountaintop destinations, and city neighbourhoods that lack rail connections. In tourist-heavy cities like Kyoto, certain sightseeing loop buses (観光バス, kankoukyaku basu) are specifically designed for visitors and stop at the most popular temples and shrines, making them an excellent recommendation for guests who prefer a relaxed pace over rush-hour trains.
+**Pronunciation:** [**ba**-su]
+**Register:** Neutral, everyday speech, guest directions, transportation advice
 
-Hotel staff are frequently asked about バス routes, particularly for airport transfers. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (rimujin basu, limousine bus/airport shuttle) as the primary guest transportation option. Being able to explain the バス stop location (バス乗り場, basu noriba), the nearest stop name, and approximate journey time is part of standard concierge knowledge. A useful phrase is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」("You can board the bus bound for XX from the bus stop in front of the hotel").
+バス is the Japanese loanword for "bus" and refers to road-based public vehicles running on fixed routes with scheduled stops. Japan's train network is extensive, but バス services fill the gaps: rural areas, mountaintop destinations, and city neighborhoods without rail connections all depend on them. In Kyoto especially, the city's sightseeing loop バス routes are specifically designed for tourists and stop at the most popular temples and shrines, making them one of the best recommendations you can offer a guest who wants to move at a relaxed pace rather than fighting rush-hour trains.
+
+Hotel staff are asked about バス routes constantly, and airport transfers are the most common case. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (airport limousine coach) as the primary option. Being able to explain the バス stop location, the stop name, and approximate journey time is standard concierge knowledge. In practice, the most useful thing you can say is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」: you've given them the destination, the departure point, and the name of the stop, all in one sentence.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff are frequently asked about バス routes, particularly for airport t
 
 ## Related Expressions
 
-- **バス停 (basu-tei)** — bus stop; the physical location where passengers wait and board, essential information for any バス direction
-- **観光バス (kankou basu)** — sightseeing bus; a specialised バス service designed for tourists, often featuring commentary and optimised stops at popular attractions
+- **バス停 (basu-tei)**: bus stop; the physical location where passengers wait and board, the most essential piece of information to give alongside any バス direction
+- **観光バス (kankou basu)**: sightseeing bus; a specialized service for tourists, often with on-board commentary and stops optimized around popular attractions
 
 ## Common Mistakes
 
-A frequent error is assuming all バス services in Japan accept IC cards — while many urban buses do, some rural or tourist-specific バス routes require exact cash fare (つり銭なし, no change given). Staff should always confirm payment methods when advising guests. Additionally, learners sometimes use バスに乗る and バスを乗る incorrectly — just as with 電車, the correct particle for boarding a vehicle is に (バスに乗る). Confusing バス (bus) with バス (bath, a shortened form of バスルーム) in other hospitality contexts is also a common homophone trap.
+A common assumption is that all バス services in Japan accept IC cards, but many rural or tourist-specific routes require exact cash fare, with no change given. Students often miss this point and guests can end up scrambling for coins. Always confirm the payment method when advising someone about a specific route. The particle error is the same one as with 電車: バスに乗る is correct, not バスを乗る. Worth noting as a final point: バス also appears in hospitality as a shortened form of バスルーム (bathroom), so if a guest says 「バスはどこですか」, make sure you're understanding them in context before you start giving transit directions.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent error is assuming all バス services in Japan accept IC cards — wh
 
 **Correct Answer:** バス (bus)
 
-**Explanation:** バス (basu) means bus — road-based public transport that complements trains by reaching areas without rail access. 電車 = train, タクシー = taxi, 乗り場 = boarding area.
+**Explanation:** バス (basu) means bus: road-based public transport that complements trains by reaching areas without rail access. 電車 = train, タクシー = taxi, 乗り場 = boarding area.

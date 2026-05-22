@@ -24,12 +24,12 @@ In practice, 少々お待ちください precedes almost any situation where sta
 
 ## Related Expressions
 
-- **お待たせいたしました (o-matase itashimashita)** — "Thank you for waiting" / "Sorry to have kept you waiting." This is the obligatory follow-up phrase after 少々お待ちください. Returning to a guest without saying this phrase is a noticeable omission in formal Japanese service and signals inattentiveness to the guest's experience.
-- **ただいま参ります (tadaima mairimasu)** — "I will be right there / I will come immediately." Used when a guest calls for staff from a distance or over the phone. It is the humble equivalent of 「すぐ行きます」 and is used before arriving rather than after. In combination with 少々お待ちください, it creates a full, reassuring response to any summons.
+- **お待たせいたしました (o-matase itashimashita)**: "Thank you for waiting" / "Sorry to have kept you waiting." This is the obligatory follow-up phrase after 少々お待ちください. Returning to a guest without saying this phrase is a noticeable omission in formal Japanese service and signals inattentiveness to the guest's experience.
+- **ただいま参ります (tadaima mairimasu)**: "I will be right there / I will come immediately." Used when a guest calls for staff from a distance or over the phone. It is the humble equivalent of 「すぐ行きます」 and is used before arriving rather than after. In combination with 少々お待ちください, it creates a full, reassuring response to any summons.
 
 ## Common Mistakes
 
-A frequent mistake is using 少々お待ちください without the follow-up 「お待たせいたしました」 upon returning — guests notice this absence, as the waiting period is only gracefully closed when the staff member acknowledges it. Learners also sometimes use the phrase too abruptly, without first acknowledging the guest's request: always address what the guest said before asking them to wait (「ご予約の確認でございますね、少々お待ちください」). Finally, confusing 少々 (a small, brief amount) with しばらく (shibaraku, for a while / somewhat longer) is important: if the wait will be more than a minute or two, 「しばらくお待ちいただけますでしょうか」 is more honest and should be used instead.
+A frequent mistake is using 少々お待ちください without the follow-up 「お待たせいたしました」 upon returning: guests notice this absence, as the waiting period is only gracefully closed when the staff member acknowledges it. Learners also sometimes use the phrase too abruptly, without first acknowledging the guest's request: always address what the guest said before asking them to wait (「ご予約の確認でございますね、少々お待ちください」). Finally, confusing 少々 (a small, brief amount) with しばらく (shibaraku, for a while / somewhat longer) is important: if the wait will be more than a minute or two, 「しばらくお待ちいただけますでしょうか」 is more honest and should be used instead.
 
 ---
 
@@ -44,5 +44,5 @@ A frequent mistake is using 少々お待ちください without the follow-up �
 
 **Correct Answer:** 少々お待ちくださいませ (please wait a moment (very polite))
 
-**Explanation:** 少々お待ちくださいませ — adding ませ to ください elevates the politeness level further; in premium hotel service this extra formality signals that the guest's time is respected.
+**Explanation:** 少々お待ちくださいませ: adding ませ to ください elevates the politeness level further; in premium hotel service this extra formality signals that the guest's time is respected.
 

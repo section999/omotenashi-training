@@ -4,9 +4,9 @@ section: 17
 title: 現金 (genkin)
 ---
 
-現金 means "cash" and refers specifically to physical banknotes and coins as a payment method. Despite the rise of digital payments and credit cards, cash remains extremely important in Japan, and many guests — both domestic and international — prefer or exclusively use it. In hotels and ryokan, confirming the guest's preferred payment method early helps staff prepare the correct change and receipt. Understanding how to discuss 現金 politely is a basic but essential skill for any front desk role.
+現金 means "cash" and refers specifically to physical banknotes and coins as a form of payment. Despite the rise of digital payments and credit cards, cash remains extremely important in Japan. Many guests, both domestic and international, prefer it or use it exclusively. Confirming the guest's preferred payment method early in their stay helps staff prepare the correct change and receipt without any scrambling at the end.
 
-In hospitality practice, staff typically confirm payment method toward the end of a guest's stay or when presenting a bill: お支払いは現金でよろしいでしょうか is the standard phrasing. If the guest confirms cash, staff must ensure they have sufficient change available and process the transaction with care. When handing back change, the phrase お釣りでございます (here is your change) completes the interaction professionally. Always count out change clearly and present it with both hands.
+In practice, staff typically confirm the payment method toward the end of a guest's stay or when presenting a bill. お支払いは現金でよろしいでしょうか is the standard phrasing for that moment. If the guest confirms cash, make sure sufficient change is available and process the transaction with care. When handing back change, お釣りでございます is the right phrase to close the interaction. Students often forget this small step, but counting out the change clearly and presenting it with both hands is the kind of detail that guests remember.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ In hospitality practice, staff typically confirm payment method toward the end o
 
 ## Related Expressions
 
-- **お釣り (o-tsuri)** — the change returned to a guest after a cash payment. Staff should always confirm the amount and present it respectfully, saying お釣りでございます rather than simply handing it over without acknowledgment.
-- **クレジットカード (kurejitto kādo)** — the most common alternative to 現金 in hotel settings. When a guest opts for card over cash, staff must smoothly transition to card processing procedures, confirming the card type and any applicable fees.
+- **お釣り (o-tsuri)**: the change returned to a guest after a cash payment. Always confirm the amount and present it with both hands, saying お釣りでございます rather than just silently handing it over.
+- **クレジットカード (kurejitto kādo)**: the most common alternative to 現金 in hotel settings. When a guest opts for card over cash, smoothly transition to card processing and confirm the card type and any applicable fees.
 
 ## Common Mistakes
 
-A common error is asking 現金ですか？ directly without the honorific structure, which sounds abrupt; the full form お支払いは現金でよろしいでしょうか is far more appropriate for guest interactions. Learners sometimes confuse 現金 with 小銭 (kozeni, loose coins/change) — 現金 encompasses all physical currency, not just coins. Additionally, staff should avoid saying 現金のみです in a clipped way; the fuller form 現金のみのお取り扱いとなっております sounds more professional and less dismissive.
+A common error is asking 現金ですか？ without the honorific structure. It sounds blunt, and the full form お支払いは現金でよろしいでしょうか is far more appropriate for guest interactions. Worth noting: 現金 covers all physical currency, not just coins. Students sometimes confuse it with 小銭 (kozeni, loose coins/change), but 現金 is the broader term. On the topic of cash-only policies: avoid delivering 現金のみです in a clipped tone. The fuller form 現金のみのお取り扱いとなっております sounds measured and professional rather than dismissive.
 
 ---
 

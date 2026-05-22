@@ -4,9 +4,9 @@ section: 25
 title: 対応中 (taiou chuu)
 ---
 
-対応中 means "currently handling" or "currently being addressed" — it signals that a request, inquiry, or situation is actively in progress and has not been forgotten or ignored. In Japanese hospitality, the status of a guest's request should never be a mystery; keeping the guest informed that their matter is 対応中 is a fundamental aspect of service transparency and trust-building. Without regular updates, even a genuinely diligent staff response can leave a guest feeling neglected.
+対応中 means "currently handling" or "currently being addressed," and it tells the guest that their request is actively moving forward rather than sitting forgotten in a pile. In Japanese hospitality, a guest should never have to wonder what is happening with their request. That uncertainty erodes trust fast, even when staff are genuinely working hard behind the scenes.
 
-Staff use 対応中 in phone communication (ただいま対応中でございます — it is currently being handled), in internal status boards tracking open requests, and when handing over tasks between shifts. Best practice is to pair 対応中 with a time estimate: ただいま対応中でございます、あと〇分ほどでご連絡いたします (it is currently being handled; we will contact you in approximately ○ minutes). This combination of status and timeframe is the professional standard for managing guest expectations in Japanese hotel environments.
+In practice, 対応中 appears in phone calls (ただいま対応中でございます), on internal status boards, and during shift handovers. The real skill is pairing the status update with a time estimate: ただいま対応中でございます、あと〇分ほどでご連絡いたします (currently being handled; we will contact you in approximately X minutes). That combination of status and timeframe is what separates a professional response from a vague one. A guest who knows "ten more minutes" will wait patiently; a guest who hears only "we are handling it" will start to worry.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ Staff use 対応中 in phone communication (ただいま対応中でございま
 
 ## Related Expressions
 
-- **保留 (horyuu)** — Being placed on hold during a phone call. While 保留 indicates that a caller is waiting on the line, 対応中 describes the active work being done to address their matter. A guest may be put on 保留 while their request is 対応中.
-- **完了 (kanryou)** — Completion or conclusion. 対応中 indicates an ongoing process; 完了 (対応が完了いたしました — the matter has been resolved) signals that the work is finished and closes the loop with the guest. Pairing these two terms with timely communication creates a complete and professional service cycle.
+- **保留 (horyuu)**: being placed on hold during a phone call. The guest is waiting on the line while their request is 対応中. Think of 保留 as the waiting state and 対応中 as what is happening during that wait.
+- **完了 (kanryou)**: completion or conclusion. 対応中 tells the guest work is underway; 完了 (対応が完了いたしました) closes the loop and tells them it is done. A smooth service cycle moves from 対応中 to 完了 with timely communication at each step.
 
 ## Common Mistakes
 
-A frequent mistake is saying 対応中です without providing any timeframe or follow-up commitment, which leaves the guest uncertain about how long they will need to wait. Always pair 対応中 with an estimate or a promise to update: 対応中でございます alone is a status, but adding あと〇分ほど transforms it into actionable, guest-friendly information. Another error is using 対応中 to mean "we received your request" rather than "we are actively working on it" — the word specifically implies active, ongoing handling, so it should only be used when work has genuinely started.
+Saying 対応中です with nothing else is the most common stumble. It gives the guest a status but no sense of when things will resolve, which is not much better than silence. Always add a timeframe or at least promise a follow-up call: 対応中でございます alone is a status report, but あと〇分ほどでご連絡いたします turns it into a commitment. One more thing to watch: 対応中 specifically means work is actively underway, not just that a request was received. Using it when you have only logged the request and not yet started handling it misleads the guest about where things stand.
 
 ---
 
@@ -44,4 +44,4 @@ A frequent mistake is saying 対応中です without providing any timeframe or 
 
 **Correct Answer:** 対応中 (responding / handling)
 
-**Explanation:** 対応中 gives guests peace of mind — ただいま対応中でございます (currently being handled) with an estimated timeframe (あと〇分ほどでご連絡いたします) is far more reassuring than just 対応中です; combining status with a timeline is the professional standard.
+**Explanation:** 対応中 gives guests peace of mind: ただいま対応中でございます (currently being handled) with an estimated timeframe (あと〇分ほどでご連絡いたします) is far more reassuring than just 対応中です; combining status with a timeline is the professional standard.

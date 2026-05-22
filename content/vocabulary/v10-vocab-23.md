@@ -4,9 +4,12 @@ section: 23
 title: 取消 (torikeshi)
 ---
 
-取消 refers to the act of canceling a reservation, order, transaction, or document. In Japanese hospitality, a 取消 is not a simple single step — it initiates a sequence of procedural actions that must be followed in a precise order to avoid errors such as double bookings, incorrect billing, or unprocessed refunds. Staff need to understand both the guest-facing communication aspects of handling a 取消 request with empathy and the back-end operational requirements of properly executing one in the property management system. The manner in which a 取消 is handled reflects the establishment's professionalism and its commitment to clear, fair dealings with guests.
+**Pronunciation:** [to-ri-**ke**-shi]
+**Register:** Formal -- preferred in official documents and hotel procedures over the loanword キャンセル
 
-When a guest requests a 取消, staff should first confirm the reservation details, then apply the キャンセルポリシー to determine if a 取消料 (cancellation fee) applies, communicate the result clearly to the guest, process the 取消 in the system, release the room inventory, and initiate any applicable 返金. A guest requesting 取消 close to the arrival date may be subject to a 100% キャンセル料, and this must be communicated sensitively but accurately before the 取消 is finalized. Offering a date change as an alternative before processing a 取消 is considered a proactive and guest-oriented service gesture.
+取消 is the formal Japanese word for cancellation: ending a reservation, transaction, or agreement that was previously confirmed. What students need to understand is that a 取消 is not a single action but a chain of steps that must happen in a specific order. Miss one link in that chain and you risk double bookings, a 返金 that never gets processed, or a room that stays blocked in the system. The guest-facing and back-end sides of 取消 need to happen smoothly together.
+
+When a guest requests a 取消, the proper sequence is: confirm the reservation details, check the キャンセルポリシー to determine if a 取消料 applies, communicate the outcome clearly to the guest, process the 取消 in the property management system, release the inventory, and initiate any 返金. If the guest is canceling close to the arrival date and a 100% キャンセル料 applies, tell them before you finalize anything. Students often skip that communication step and process first, which leads to disputes. Worth noting: before you go through the 取消 at all, offer a date change. お取消の前に日程変更のご検討はいかがでしょうか is a genuinely guest-oriented line, and it saves bookings more often than you'd expect.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When a guest requests a 取消, staff should first confirm the reservation detai
 
 ## Related Expressions
 
-- **変更 (henkou)** — 変更 means a modification or change (to a date, room type, or booking detail) and is often the alternative staff can offer before a guest proceeds with a 取消; suggesting 変更 first is a guest-retention strategy that can preserve the booking while accommodating the guest's needs.
-- **返金 (henkin)** — 返金 is the refund that may follow a 取消; the two are procedurally linked, and staff must always clarify whether a 取消 will result in a full 返金, a partial 返金, or no 返金 depending on the cancellation policy timeline.
+- **変更 (henkou)**: 変更 means a modification to a date, room type, or booking detail, and it's the first alternative worth offering before a guest proceeds with a 取消; a well-timed suggestion to 変更 can keep the booking alive while giving the guest what they actually need.
+- **返金 (henkin)**: 返金 is the refund that may follow a 取消; the two are procedurally linked, and guests need to know upfront whether their 取消 will result in a full refund, partial refund, or none at all depending on the cancellation timeline.
 
 ## Common Mistakes
 
-Learners sometimes process a 取消 in the system before fully explaining the キャンセルポリシー to the guest, which can lead to disputes when a cancellation fee is later applied. Always communicate the policy and obtain the guest's acknowledgment before finalizing the 取消. Another common error is using キャンセル freely in formal written communication — in official documents and policy statements, 取消 is the preferred Japanese term. Also be careful not to confuse 取消 (cancellation of an existing booking) with 断る (断る, declining a new request before it is booked), which is a different situation.
+Processing the 取消 in the system before explaining the キャンセルポリシー to the guest is the most common and costly mistake: once the cancellation is processed, the fee is applied, and reversing it requires escalation. Always explain and confirm the policy first, get the guest's acknowledgment, then proceed. Learners also reach for キャンセル in formal written communication out of habit, but in official documents and policy language, 取消 is the correct Japanese term. One more thing: don't confuse 取消 (canceling something already booked) with 断る (turning down a new request that was never confirmed), which is a different situation entirely.
 
 ---
 
@@ -45,5 +48,4 @@ Learners sometimes process a 取消 in the system before fully explaining the �
 
 **Correct Answer:** 取消 (cancellation)
 
-**Explanation:** 取消 triggers a chain of actions — confirming the 取消 activates the キャンセルポリシー, calculates any 返金 or キャンセル料, and frees the room in the system; doing steps out of order can result in double bookings or incorrect billing.
-
+**Explanation:** 取消 triggers a chain of actions: confirming the 取消 activates the キャンセルポリシー, calculates any 返金 or キャンセル料, and frees the room in the system; doing steps out of order can result in double bookings or incorrect billing.

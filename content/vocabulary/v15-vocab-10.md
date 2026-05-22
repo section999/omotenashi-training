@@ -4,9 +4,12 @@ section: 10
 title: 荷物預かり (nimotsu azukari)
 ---
 
-荷物預かり is the service by which hotel or facility staff temporarily hold a guest's luggage on their behalf. This service is especially valuable for guests who arrive before their room is ready, those who have checked out but wish to explore the city before their flight, and travelers making a day trip who do not want to carry heavy bags. The 荷物預かり service reflects a fundamental omotenashi principle: anticipating the guest's needs and removing friction from their experience. In many Japanese hotels, this service is offered free of charge as a courtesy, though some properties may have time limits or charge for extended storage.
+**Pronunciation:** [ni-mo-tsu-a-**zu**-ka-ri]
+**Register:** Formal, the standard service term used in front desk and concierge communication
 
-When accepting luggage for 荷物預かり, staff should always issue a 引換券 (claim ticket), carefully label each item with the guest's name and room or reference number, and store items in a secure, designated area. Fragile items or those with special requirements should be noted and handled accordingly. At busy periods such as Golden Week or peak tourist season, the 荷物預かり area can fill quickly, so proactive communication about capacity is important.
+荷物預かり is the hotel service where staff temporarily hold a guest's luggage on their behalf. It's one of those quiet but genuinely valuable parts of hospitality that many guests rely on more than they expect. A guest arrives at 10am when the room won't be ready until 3pm? 荷物預かり lets them drop their bags and go explore rather than sitting in the lobby watching their suitcase. A guest who has checked out but has an evening flight? Same solution. This service removes a real friction point from the travel day, and offering it proactively, without waiting to be asked, is exactly the kind of thinking that omotenashi is built on.
+
+When accepting luggage, always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Flag any fragile items at the time of acceptance and note them in the log. Worth noting: during high-traffic periods like Golden Week or peak tourist season, your storage area can fill up faster than you expect. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyone's experience smooth.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ When accepting luggage for 荷物預かり, staff should always issue a 引換�
 
 ## Related Expressions
 
-- **荷物 (nimotsu)** — luggage in general; 荷物預かり is the compound service term built from 荷物 plus 預かり (the act of keeping/holding).
-- **保管 (hokan)** — storage or safekeeping; used more broadly for storing any items, whereas 荷物預かり specifically refers to the hotel's guest luggage-holding service.
+- **荷物 (nimotsu)**: luggage in general; 荷物預かり is built from 荷物 plus 預かり (the act of holding something in trust), so understanding the parts makes the compound feel natural.
+- **保管 (hokan)**: broader term for storage or safekeeping of any item; 荷物預かり is the guest-service-specific version of this concept.
 
 ## Common Mistakes
 
-Learners sometimes omit the お honorific and say 荷物預かりをしてください instead of the more appropriate お荷物をお預かりいたします — always use polite forms when speaking with guests. Another mistake is failing to issue or verify a 引換券 when accepting luggage; without it, retrieval disputes become very difficult to resolve. Do not confuse 荷物預かり with ロッカー (locker) — the former involves staff handling and securing the luggage, while the latter is a self-service option where guests manage their own belongings.
+Students sometimes say 荷物預かりをしてください when speaking with guests, which is grammatically fine but not appropriate in register. In guest-facing speech, shift to お荷物をお預かりいたします, which is the proper keigo form. Another thing that catches learners off guard is forgetting the 引換券. Without that ticket, if a bag gets moved around in the storage area, retrieval disputes are very difficult to sort out cleanly. Do not confuse 荷物預かり with ロッカー either: 荷物預かり is a staff-managed service, while a ロッカー is a self-service option where the guest locks and manages their own belongings independently.
 
 ---
 
@@ -41,4 +44,4 @@ Learners sometimes omit the お honorific and say 荷物預かりをしてくだ
 
 **Answer:** 荷物預かり
 
-**Explanation:** 荷物預かり (nimotsu azukari) means luggage storage — a service where staff temporarily holds bags for guests.
+**Explanation:** 荷物預かり (nimotsu azukari) means luggage storage: a service where staff temporarily holds bags for guests.

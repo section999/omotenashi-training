@@ -4,9 +4,12 @@ section: 15
 title: 貴重品 (kichouhin)
 ---
 
-貴重品 (kichouhin) refers to items of significant monetary or personal value, including cash, credit cards, passports, jewellery, electronic devices, and important documents. The word is composed of 貴重 (kichou, meaning precious or valuable) and 品 (hin, meaning item or article). In Japanese hotel culture, guests are routinely reminded to store their 貴重品 in the in-room safe (金庫, kinko) or to deposit them at the front desk for safekeeping. This is not merely a legal precaution; it reflects the hotel's genuine concern for the guest's security and peace of mind.
+**Pronunciation:** [ki-**chou**-hin]
+**Register:** Formal, standard terminology in hotel operations and guest communications
 
-Hotel staff are trained to handle 貴重品 conversations with both professionalism and sensitivity. Announcing that "the hotel is not responsible for lost valuables left in the room" — while legally necessary — must be delivered in a way that feels caring rather than dismissive. The standard approach is to proactively guide guests: 「貴重品はお部屋の金庫またはフロントにてお預かりできます」 (We can keep your valuables in the room safe or at the front desk). When guests do deposit 貴重品 at the front desk, staff issue a detailed receipt listing each item, which protects both parties. The handling, counting, and return of 貴重品 must always be done in full view of the guest to maintain trust.
+貴重品 refers to items of significant monetary or personal value: cash, credit cards, passports, jewellery, electronic devices, and important documents. The word combines 貴重 (kichou, precious or valuable) and 品 (hin, item or article). In Japanese hotel culture, reminding guests to store their 貴重品 safely is considered a standard part of the welcome process, not just a legal disclaimer. It reflects the hotel's genuine concern for the guest's security and peace of mind, which is precisely the spirit of omotenashi.
+
+The tricky part of 貴重品 conversations is tone. Staff are often required to communicate that the hotel cannot be responsible for valuables left unsecured in the room, which is a necessary message but one that can easily sound cold or dismissive if delivered poorly. The professional approach is to lead with a solution: 「貴重品はお部屋の金庫またはフロントにてお預かりできます」 gives the guest a clear, caring option rather than just a warning. When guests do deposit 貴重品 at the front desk, always issue a detailed receipt listing each item and handle everything in full view of the guest. Students often underestimate how much that visible care matters to the person handing over their passport or cash.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Hotel staff are trained to handle 貴重品 conversations with both professional
 
 ## Related Expressions
 
-- **金庫 (kinko)** — safe or strongbox; the secure storage unit provided in hotel rooms specifically for 貴重品
-- **紛失 (funshitsu)** — loss or misplacement; a word staff must be familiar with as it often appears in the context of lost 貴重品 reports
+- **金庫 (kinko)**: the in-room safe or strongbox provided specifically for storing 貴重品; knowing how to explain its use to guests is a basic front-line skill.
+- **紛失 (funshitsu)**: loss or misplacement; a word that comes up in lost valuables reports and that every hospitality professional should know how to handle calmly and efficiently.
 
 ## Common Mistakes
 
-Learners sometimes use 大切なもの (taisetsuna mono, "important things") as a substitute for 貴重品 in formal hospitality speech, but this is too casual for professional contexts. 貴重品 is the established term in hotel operations and should be used consistently in guest communications. Additionally, the pronunciation can trip up learners who separate the components too distinctly — the natural spoken rhythm flows as ki-CHOU-hin, with the middle syllable receiving the strongest emphasis.
+Students sometimes substitute 大切なもの (taisetsuna mono, "important things") for 貴重品 in formal hospitality speech. While the meaning is similar, 大切なもの is too casual and vague for professional use. 貴重品 is the established term in hotel operations, and using it consistently signals competence. Worth noting on pronunciation: the natural rhythm flows as ki-CHOU-hin, with the middle syllable carrying the strongest emphasis. Students who over-separate the kanji readings end up with an awkward cadence that sounds unnatural to native speakers and guests alike.
 
 ---
 
@@ -44,4 +47,4 @@ Learners sometimes use 大切なもの (taisetsuna mono, "important things") as 
 
 **Correct Answer:** 貴重品 (valuables)
 
-**Explanation:** 貴重品 (kichouhin) means valuables — high-value items such as money, jewellery, or passports requiring secure storage. 荷物 = luggage, 管理番号 = tracking number, ロッカー = locker.
+**Explanation:** 貴重品 (kichouhin) means valuables: high-value items such as money, jewellery, or passports requiring secure storage. 荷物 = luggage, 管理番号 = tracking number, ロッカー = locker.

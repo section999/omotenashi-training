@@ -4,9 +4,12 @@ section: 27
 title: 清掃係 (seisou kakari)
 ---
 
-清掃係 (清掃 = cleaning, 係 = person in charge) refers to the dedicated housekeeping staff responsible for maintaining the cleanliness and order of guest rooms and common areas. In Japanese hospitality, 清掃係 are not considered background service workers — they are integral members of the guest experience team, and their meticulous work is what upholds the high cleanliness standards that define Japanese accommodation. In ryokan especially, 清掃係 may also be the same person who sets up the futon bedding before dinner, creating a direct and personal link between the cleaning role and the guest experience. Front-desk staff who introduce or coordinate with the 清掃係 must do so with appropriate language that reflects respect for both the guest and the colleague.
+**Pronunciation:** [sei-**sou**-ka-ka-ri]
+**Register:** Formal, Operational, guest-facing service coordination, housekeeping requests
 
-In guest-facing communication, staff might say: 「清掃係がまいります」 (the cleaning staff will come) when informing a guest that housekeeping will visit. When a guest requests additional items or service, the response 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) is professional and complete. In contexts where the guest must be present, staff should confirm: 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for you?).
+清掃係 breaks down as 清掃 (cleaning) and 係 (person in charge), and together they refer to the housekeeping staff responsible for keeping guest rooms and common areas in order. In Japanese hospitality, 清掃係 are not invisible background workers. They are active contributors to the guest experience, and the immaculate standards of Japanese accommodation depend entirely on their precision and care. In ryokan settings, the same person who cleans the room often returns before dinner to lay out the futon bedding, creating a direct and personal link between housekeeping and the guest's sense of comfort. That context matters when you are coordinating with or speaking about 清掃係.
+
+When informing a guest that housekeeping will visit their room, the phrase 「清掃係がまいります」 is the correct form to use. For delivering items a guest has requested, 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) covers the situation fully. Students often learn the words for these situations but overlook a key step: if the guest needs to be present during the cleaning visit, always ask 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for you?) rather than deciding on a time without consulting them. One more thing to remember: how you speak about the 清掃係 to guests signals how your property values its staff. Respectful, professional language reflects well on the whole team.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In guest-facing communication, staff might say: 「清掃係がまいります�
 
 ## Related Expressions
 
-- **ハウスキーピング (hausu kiipingu)** — The loanword for the housekeeping department as a whole. While 清掃係 refers to the individual staff member, ハウスキーピング refers to the department; in large hotels, guests may be directed to call the ハウスキーピング department directly for room-related service requests.
-- **まいります (mairimasu)** — The humble form of 来ます (to come), used when speaking about the actions of hotel staff in front of guests. Using 来ます instead of まいります when saying the cleaning staff will arrive is a register error that should be avoided in formal hospitality speech.
+- **ハウスキーピング (hausu kiipingu)**: the loanword for the housekeeping department as a whole; while 清掃係 refers to an individual staff member, ハウスキーピング refers to the department, and in large hotels guests may be directed to call that department directly for room service requests
+- **まいります (mairimasu)**: the humble form of 来ます (to come), used specifically when describing the actions of your own hotel's staff in front of guests; using 来ます or 来る instead is a keigo failure that will stand out
 
 ## Common Mistakes
 
-The most critical error is using 来ます (kimasu) or 来る (kuru) instead of まいります (mairimasu) when describing the cleaning staff's arrival to a guest — this is a failure of keigo that sounds notably unprofessional. Learners sometimes also use 清掃係 when they should use the guest's name or room number as context, making the instruction vague. Forgetting to ask for the guest's preferred time when scheduling a 清掃係 visit — rather than assuming when to send them — is another common service gap that should be avoided.
+The most serious error here is using 来ます (kimasu) or 来る (kuru) instead of まいります when describing the cleaning staff's arrival to a guest. This is a keigo failure, and it sounds notably unprofessional even if the guest does not consciously register why. Students make this mistake more often under time pressure, which is exactly when discipline matters most. Worth noting is that forgetting to ask for the guest's preferred time before scheduling a 清掃係 visit is also a real service gap. Deciding when to send someone without consulting the guest assumes their schedule, which is not the spirit of omotenashi.
 
 ---
 
@@ -44,5 +47,4 @@ The most critical error is using 来ます (kimasu) or 来る (kuru) instead of 
 
 **Correct Answer:** 清掃係がまいります (the cleaning staff will come)
 
-**Explanation:** 清掃係がまいります uses まいります — the humble form of 来る (to come) — appropriate when talking about hotel staff in front of guests.
-
+**Explanation:** 清掃係がまいります uses まいります: the humble form of 来る (to come): appropriate when talking about hotel staff in front of guests.

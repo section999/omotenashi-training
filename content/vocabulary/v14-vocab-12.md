@@ -4,9 +4,12 @@ section: 12
 title: おすすめ (osusume)
 ---
 
-おすすめ means a recommendation — a suggestion offered to help someone make a good choice. In hospitality, おすすめ is one of the most powerful tools in a staff member's vocabulary because it transforms a routine service interaction into a personalised, curated experience. When a guest asks "What do you recommend?" (おすすめはありますか?), they are inviting the staff member to share genuine local knowledge and expertise. A thoughtful おすすめ — whether for a dish, a nearby attraction, a transport route, or a cultural experience — signals that the staff member is engaged, attentive, and invested in the guest's enjoyment.
+**Pronunciation:** [o-su-**su**-me]
+**Register:** Neutral/Formal, used across all hospitality and service contexts
 
-In restaurant settings, the おすすめ is often displayed on a small board or mentioned by servers as the dish they particularly endorse that day, often based on seasonal ingredients or the chef's specialty. In hotel or ryokan settings, staff おすすめ may include a particular garden view at a certain hour, a local izakaya off the beaten path, or a specific time to visit a shrine when it is quietest. The best おすすめ are personal, specific, and delivered with genuine enthusiasm — not generic suggestions read off a pamphlet.
+おすすめ means a recommendation, a genuine suggestion offered to help someone make a good choice. In hospitality work, it's one of the most useful words you'll use daily, because when a guest asks おすすめはありますか? they're not just asking for information: they're inviting you to share your knowledge and your personality. A thoughtful おすすめ, whether for a dish, a nearby attraction, a transport route, or a cultural experience, tells the guest that the person in front of them is engaged and invested in making their stay genuinely good. That's a very different feeling from pointing at a brochure stand.
+
+In restaurant settings, the おすすめ is often written on a small daily board or mentioned by servers at the start of a meal, typically reflecting seasonal ingredients or the chef's current specialty. In a hotel or ryokan, your おすすめ might be a particular garden path that's stunning at dusk, a local izakaya that regulars love but tourists rarely find, or the specific time on a weekday morning when the famous shrine is completely quiet. The best おすすめ are personal, specific, and delivered with genuine enthusiasm. Students often default to repeating what's on the printed map when asked, but that misses the whole point: guests are asking you because they want your opinion, not the pamphlet's.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ In restaurant settings, the おすすめ is often displayed on a small board or 
 
 ## Related Expressions
 
-- **ご提案 (goteian)** — "a proposal/suggestion"; a more formal synonym used when presenting options to a guest in a deliberate, consultative way, such as recommending a room upgrade or a special package.
-- **人気 (ninki)** — "popular"; while おすすめ is a personal endorsement, 人気 reflects collective approval — a dish can be both おすすめ (staff favourite) and 人気 (customer favourite), but the nuance differs.
+- **ご提案 (goteian)**: a more formal word for suggestion or proposal; use this when presenting options in a deliberate, consultative way, such as recommending a room upgrade or a special package, rather than casually sharing a favourite spot.
+- **人気 (ninki)**: popular, reflecting collective approval; a dish can be both おすすめ (a personal staff endorsement) and 人気 (a crowd favourite), but the nuance is different, so don't use them as if they mean the same thing.
 
 ## Common Mistakes
 
-A common mistake is using おすすめ too broadly or insincerely — guests quickly sense when a recommendation is scripted rather than genuine, which undermines trust. Learners also sometimes confuse おすすめ (recommendation for others) with お気に入り (okiniiri, "personal favourite"), which refers to what you yourself like, not what you suggest to others. When elevating the register in guest-facing speech, use ご おすすめ or お勧めいたします rather than the plain form to maintain the appropriate level of formality.
+One mistake that's easy to fall into is using おすすめ insincerely. Guests are surprisingly good at detecting a scripted recommendation, and when they sense that, the trust you've built disappears quickly. If you genuinely don't have a personal favourite to offer, it's better to ask a colleague who does than to make something up. Also worth noting: おすすめ is a recommendation you make for someone else's benefit, while お気に入り (okiniiri) is your own personal favourite. These are different, so keep them straight. When speaking formally to guests, use ご おすすめ or お勧めいたします rather than the plain form to maintain the right level of politeness.
 
 ---
 
@@ -41,4 +44,4 @@ A common mistake is using おすすめ too broadly or insincerely — guests qui
 
 **Answer:** おすすめ
 
-**Explanation:** おすすめ (osusume) means recommendation — advice or suggestions shared with tourists to enhance their experience.
+**Explanation:** おすすめ (osusume) means recommendation: advice or suggestions shared with tourists to enhance their experience.

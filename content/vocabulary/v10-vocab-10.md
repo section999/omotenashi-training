@@ -4,9 +4,12 @@ section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
 
-領収書発行 refers to issuing an official receipt as documentary proof that payment has been received. In Japanese hospitality this is a standard post-payment courtesy — staff are expected to ask proactively rather than wait for the guest to bring it up. The 領収書 (receipt) matters most for business travelers and corporate guests who need it for expense claims: it must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt typically can't be used for reimbursement, which means a reissue — inconvenient for both sides.
+**Pronunciation:** [ryou-**shuu**-sho ha-**kou**]
+**Register:** Formal -- standard at front desk and cashier interactions post-payment
 
-The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name. Beyond that, some guests need the 領収書 to itemize charges; others only need a consolidated total — different accounting departments have different requirements. Handling this correctly on the first attempt is what marks a skilled cashier.
+領収書発行 refers to issuing an official receipt as proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy -- staff are expected to offer it proactively rather than wait for the guest to ask. The 領収書 matters most for business travelers and corporate guests who need it for expense reimbursement. For that purpose, the document must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt typically cannot be used for reimbursement, which means a reissue -- inconvenient for everyone involved.
+
+The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Beyond that, some guests need the charges itemized; others only need the consolidated total -- different accounting departments have different requirements. In practice, asking one simple question before printing saves you from having to reissue the entire document afterward.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ The process starts with confirming the 宛名 before printing anything. For indi
 
 ## Related Expressions
 
-- **明細書 (meisaisho)**: itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment.
-- **宛名 (atena)**: addressee name on the receipt; must be confirmed before printing, as it cannot be corrected after issuance without reissuing the entire document.
+- **明細書 (meisaisho)**: itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment. These are two separate documents, and a guest may need both.
+- **宛名 (atena)**: the addressee name on the receipt; must be confirmed before printing, since it cannot be corrected after issuance without scrapping the document and starting over.
 
 ## Common Mistakes
 
-The most common mistake is printing the 領収書 before confirming the 宛名 — the result is a document the guest can't use, followed by a reissue and an apology. Students sometimes also confuse 領収書 with 明細書: a 領収書 proves payment was made, while a 明細書 shows what was charged. Guests who need both documents should receive both. Never write the amount in pencil or leave the 宛名 blank — either one compromises the legal validity of the receipt.
+The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology that could easily have been avoided. Students also sometimes confuse 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and you should never assume one covers the other. One more thing: never write the amount by hand in pencil, and never leave the 宛名 blank. Either one compromises the legal validity of the receipt.
 
 ---
 
@@ -44,4 +47,4 @@ The most common mistake is printing the 領収書 before confirming the 宛名 �
 
 **Correct Answer:** 領収書発行 (receipt issuance)
 
-**Explanation:** 領収書発行 — always ask 宛名はいかがいたしましょうか (what name shall I put on the receipt?) before printing; a receipt with the wrong addressee cannot be used for business reimbursement and will require a time-consuming reissue.
+**Explanation:** 領収書発行: always ask 宛名はいかがいたしましょうか (what name shall I put on the receipt?) before printing; a receipt with the wrong addressee cannot be used for business reimbursement and will require a time-consuming reissue.

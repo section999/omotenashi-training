@@ -4,9 +4,12 @@ section: 37
 title: わかりました (wakarimashita)
 ---
 
-わかりました (わかりました) means "I understood" or "understood," coming from the verb わかる (to understand, to become clear), which has roots in the concept of something separating or becoming distinct enough to perceive. In hotel communication, わかりました is the workhorse acknowledgment phrase — it is polite, clear, and natural in a wide range of contexts including telephone calls, face-to-face interactions with guests, and communication between staff members. While it sits below かしこまりました and 承知しました on the formality scale, わかりました is entirely appropriate for the majority of everyday hospitality interactions and is far preferable to casual forms like うん or なるほど, which would be inappropriate with guests.
+**Pronunciation:** [wa-**ka**-ri-ma-shi-ta]
+**Register:** Neutral-Polite, appropriate for most everyday hospitality interactions
 
-The true power of わかりました in guest service comes from what follows it. A standalone わかりました can feel passive; pairing it with an immediate action statement transforms it into an active, reassuring response. For example, わかりました、すぐにお持ちいたします (understood — I will bring it right away) or わかりました、担当者にお伝えいたします (understood — I will pass this on to the person in charge) signals not only comprehension but initiative. On the telephone, this combination pattern is especially important because guests cannot see body language that might otherwise convey attentiveness and readiness to act.
+わかりました comes from the verb わかる, which carries the sense of something becoming clear or distinct enough to grasp. In hotel work, this is your everyday workhorse acknowledgment. It is polite, natural, and fits a wide range of situations: telephone calls, face-to-face conversations, and internal communication between colleagues. That said, it sits below かしこまりました and 承知しました on the formality scale, so you do need to make a judgment call depending on the context. For most interactions, though, わかりました is exactly the right choice and far better than slipping into casual forms like うん or なるほど, which have no place in guest-facing communication.
+
+The real skill with わかりました is not just saying it but what comes next. On its own, it can feel passive, almost like you heard the message but are not sure what to do with it. Pair it with an action statement and the whole dynamic changes: わかりました、すぐにお持ちいたします tells the guest you understood and you are already moving. In practice, this combination pattern matters most on the phone, where the guest cannot see your body language or attentiveness. Always follow up with what you plan to do.
 
 ## Example Sentences
 
@@ -16,7 +19,7 @@ The true power of わかりました in guest service comes from what follows it
 
 **2.** わかりました、すぐに担当のスタッフにお伝えいたします。
 *Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.*
-"Understood — I will relay this to the responsible staff member right away."
+"Understood: I will relay this to the responsible staff member right away."
 
 **3.** ご事情はよくわかりました。できる限り対応いたします。
 *Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.*
@@ -24,12 +27,12 @@ The true power of わかりました in guest service comes from what follows it
 
 ## Related Expressions
 
-- **かしこまりました (kashikomarimashita)** — the most formal keigo equivalent, used in luxury hotels when receiving a guest's instruction or request; conveys humble acceptance and is the preferred phrase when わかりました feels insufficiently formal
-- **承知しました (shouchi shimashita)** — a formal alternative to わかりました, slightly more business-like in register; used between professionals and sometimes with guests in business hotel settings
+- **かしこまりました (kashikomarimashita)**: the most formal keigo equivalent, reserved for luxury hotel settings when a guest gives you a direct instruction; this phrase carries a deeper sense of humble acceptance, so if your property leans formal, learn when to swap わかりました out for this one
+- **承知しました (shouchi shimashita)**: a business-register alternative to わかりました; slightly more professional in tone and common in business hotel settings or when confirming arrangements with colleagues in writing
 
 ## Common Mistakes
 
-The most significant mistake is stopping at わかりました without adding a follow-up action, which can make the response feel incomplete or passive. Always follow with what you will do next. Another error is using わかりました in luxury hotel contexts when a guest has given a specific instruction — in that situation, かしこまりました is the expected response and わかりました may feel casual by comparison. Learners should also be careful not to use the plain form わかった or わかる with guests, as these are far too informal for any guest-facing context regardless of the apparent warmth of the interaction.
+Students often stop at わかりました and leave it there, which makes the response feel unfinished. Your guests want to know that you understood and that something is about to happen. Always follow with a concrete action: what you will do, when, and for whom. One more thing: in a luxury hotel context where a guest has given you a specific instruction, わかりました can actually feel too casual. That is the moment for かしこまりました. And worth noting, the plain forms わかった or わかる are completely off-limits with guests regardless of how friendly the conversation feels.
 
 ---
 
@@ -44,4 +47,4 @@ The most significant mistake is stopping at わかりました without adding a 
 
 **Correct Answer:** わかりました (understood / I see)
 
-**Explanation:** わかりました is appropriate for most hotel interactions — while かしこまりました is the most formal, わかりました paired with a follow-up action (すぐに対応いたします) shows both comprehension and initiative, which guests find reassuring.
+**Explanation:** わかりました is appropriate for most hotel interactions: while かしこまりました is the most formal, わかりました paired with a follow-up action (すぐに対応いたします) shows both comprehension and initiative, which guests find reassuring.

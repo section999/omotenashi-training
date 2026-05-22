@@ -4,9 +4,9 @@ section: 13
 title: 追加料金 (tsuika ryoukin)
 ---
 
-追加料金 refers to any charge applied on top of the standard reservation price, arising from services or items that fall outside the original plan. In Japanese hotel and ryokan operations, transparency around 追加料金 is a cornerstone of trust — omotenashi culture holds that guests should never be surprised by unexpected costs, so staff are trained to communicate potential 追加料金 proactively and clearly before the service is rendered, not at checkout. Common triggers include extra beds (エキストラベッド), extending the checkout time, ordering room service after a certain hour, or adding guests to an existing booking. In ryokan, ordering alcohol beyond what is included in the plan or using certain onsen facilities outside the standard access period may also incur 追加料金.
+追加料金 is any charge that comes on top of the original reservation price because the guest has used something outside their plan. In omotenashi culture, the rule around 追加料金 is clear: guests should never be surprised by a charge they did not know was coming. That means communicating potential fees before the service happens, not at checkout when it is too late to make a different choice. Common situations include extra beds, late checkout, late-night room service, or adding a guest to a booking. At ryokan, ordering drinks beyond what the plan covers, or using certain onsen facilities in off-hours, can trigger 追加料金 too.
 
-The standard phrasing for communicating this is 「〇〇には追加料金が発生いたします」 (an additional charge applies for 〇〇), which is direct, clear, and appropriately formal. Staff should provide the specific amount or rate whenever possible — saying a fee "may apply" without a figure is less reassuring than quoting 「1泊5,000円の追加料金となります」. Keeping guests fully informed is not only courteous but also reduces disputes at checkout.
+The phrase to reach for is 「〇〇には追加料金が発生いたします」, which is clean and formal without sounding harsh. In practice, vague statements like "a fee may apply" are less reassuring than a specific number. Telling a guest 「1泊5,000円の追加料金となります」 gives them something concrete to agree to, and that small act of precision reduces checkout disputes considerably.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The standard phrasing for communicating this is 「〇〇には追加料金が�
 
 ## Related Expressions
 
-- **割増料金 (warimashi ryoukin)** — a surcharge or premium rate, often applied for peak season, weekend stays, or last-minute bookings; distinct from 追加料金 in that it modifies the base rate rather than adding a separate line item.
-- **諸費用 (sho-hiyou)** — miscellaneous expenses; appears on final bills as a collective term for minor incidental charges; guests may ask for a breakdown if 諸費用 appears without explanation.
+- **割増料金 (warimashi ryoukin)**: a surcharge or premium rate applied for peak season, weekends, or last-minute bookings; unlike 追加料金, it modifies the base rate itself rather than adding a separate line item to the bill.
+- **諸費用 (sho-hiyou)**: miscellaneous expenses; shows up on final invoices as a catch-all label for minor incidental charges; if a guest sees 諸費用 on their bill without context, expect them to ask what it covers, so be ready to break it down.
 
 ## Common Mistakes
 
-The most harmful error is failing to mention 追加料金 before the service is provided and then presenting it at checkout — this creates a strong negative impression regardless of how politely it is explained afterward. Learners also sometimes use 別途料金 (betto ryoukin, separate charge) and 追加料金 interchangeably; while similar, 別途料金 typically refers to items quoted as separate from the plan price upfront, while 追加料金 implies something added incrementally during the stay.
+The worst version of this mistake is saying nothing about 追加料金 and then presenting an unexpected figure at checkout. No matter how politely you explain it at that point, the impression is already set. Students often use 別途料金 and 追加料金 as if they are the same word, but there is a real difference. 別途料金 describes something quoted as separate from the plan price from the beginning, while 追加料金 refers to charges that accumulate during the stay. Getting this distinction right will make your billing explanations much cleaner.
 
 ---
 
@@ -44,4 +44,4 @@ The most harmful error is failing to mention 追加料金 before the service is 
 
 **Correct Answer:** 追加料金 (additional charge)
 
-**Explanation:** 追加料金 must always be communicated before the service is rendered — saying 追加料金が〜円発生いたします (an extra charge of〜yen will apply) upfront prevents the shock of unexpected charges at check-out, which is a top source of complaints.
+**Explanation:** 追加料金 must always be communicated before the service is rendered: saying 追加料金が〜円発生いたします (an extra charge of〜yen will apply) upfront prevents the shock of unexpected charges at check-out, which is a top source of complaints.

@@ -4,9 +4,12 @@ section: 32
 title: 外 (soto)
 ---
 
-外 (soto) means "outside" or "exterior," and is the essential counterpart to 中 (naka, inside). In hotel service, 外 is used whenever a guest needs to be directed to an outdoor smoking area, a garden, a car drop-off zone, an outdoor pool, or any facility that requires leaving the building's interior. The distinction between 中 and 外 is especially important in large hotel complexes where guests may not know which amenities are indoors versus outdoors. When staff say 外にございます, they are implicitly alerting the guest to check weather conditions and potentially prepare accordingly — a thoughtful nuance that reflects omotenashi.
+**Pronunciation:** [**so**-to]
+**Register:** Neutral to Formal, outdoor directions, weather-aware guidance
 
-Beyond simple directional use, 外 carries broader cultural relevance in Japanese hospitality. The concept of 内 (uchi, inside / our group) versus 外 (soto, outside / beyond) is foundational to Japanese social hierarchy and hospitality etiquette, though in a hotel navigation context it is used in its straightforward physical sense. When giving 外 directions, staff add value by specifying exactly which exit to use (正面玄関を出てすぐ右, immediately right after the main entrance) and, where relevant, what landmarks to look for. Proactively advising guests of the weather or providing an umbrella when directing them outside is a premium example of kikubari built on the use of 外.
+外 means "outside" or "exterior," and it is the counterpart you need to complete the 中 (inside) and 外 (outside) pair. In hotel service, 外 comes up whenever you direct a guest to an outdoor smoking area, a garden, a taxi stand, a car drop-off zone, or any amenity that requires leaving the building. The distinction matters especially in large hotel complexes where guests may have no clear sense of which facilities are indoors and which require going out. When you say 外にございます, you are doing more than giving a location: you are implicitly signaling to the guest to check the weather and prepare accordingly.
+
+That weather awareness is where 外 connects directly to omotenashi. Telling a guest the taxi stand is to the left after exiting the building is a complete direction. Telling a guest the taxi stand is to the left after exiting the building and adding 本日は雨でございますので、傘をお持ちください is a genuinely thoughtful act. Students often focus so much on getting the location words right that they forget these small additions are where good service actually lives. In practice, whenever you send someone 外, ask yourself whether there is a weather note, a re-entry point, or a specific exit name that would make the trip easier for them.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ Beyond simple directional use, 外 carries broader cultural relevance in Japanes
 
 ## Related Expressions
 
-- **中 (naka)** — "inside," the direct antonym of 外; together these two words cover the indoor/outdoor distinction that is central to hotel navigation
-- **建物の外 (tatemono no soto)** — "outside the building," the most common compound phrase using 外 in hotel directions; more precise than 外 alone as it specifies the reference boundary
+- **中 (naka)**: Inside, the direct opposite of 外. These two together cover the indoor/outdoor distinction that is central to hotel navigation. If you are confident with both, you can answer almost any location question clearly.
+- **建物の外 (tatemono no soto)**: Outside the building, the most common compound phrase using 外 in hotel directions. More specific than 外 alone because it names the reference boundary explicitly, which helps guests who are not yet familiar with the property layout.
 
 ## Common Mistakes
 
-A frequent mistake is using 外 without specifying which exit to use, which can be disorienting in a hotel with multiple entrances and exits — always add the exit name or a direction (正面玄関を出て, through the main entrance). Learners also sometimes use 外 when they mean 外側 (sotogawa, the outer side of something), which can cause subtle miscommunication; 外 alone typically means the entire outside area, while 外側 refers to the outer surface or edge of a specific object. Finally, when directing guests outside in poor weather, always mention the conditions and offer assistance — doing so transforms a simple directional phrase into a genuine act of omotenashi.
+A frequent gap is using 外 without saying which exit to use. A hotel with multiple entrances and exits needs that specificity: 正面玄関を出て (through the main entrance) or 北側の出口を出て (through the north exit) prevents a guest from wandering to the wrong door. Worth noting also: 外 and 外側 (sotogawa, the outer surface or edge of something specific) are different. 外 refers to the entire outside area, while 外側 refers to the outer side of a specific object. Mixing them up is a subtle error, but it does create confusion in certain contexts. And whenever you send a guest outside, take a moment to mention the weather or offer assistance. That small step turns a basic direction into a real expression of omotenashi.
 
 ---
 
@@ -44,4 +47,4 @@ A frequent mistake is using 外 without specifying which exit to use, which can 
 
 **Correct Answer:** 外です (it is outside)
 
-**Explanation:** 外 (outside) — directing guests 外 is also an opportunity to add context (建物を出て右側です); since smokers sometimes return by a side door, giving a re-entry instruction is good proactive service.
+**Explanation:** 外 (outside): directing guests 外 is also an opportunity to add context (建物を出て右側です); since smokers sometimes return by a side door, giving a re-entry instruction is good proactive service.

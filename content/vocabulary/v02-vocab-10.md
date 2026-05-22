@@ -4,9 +4,9 @@ section: 10
 title: パスポート (passport)
 ---
 
-パスポート is the Japanese term for passport, a document that serves as the primary form of identification for foreign nationals checking into Japanese hotels. Under Japanese law, hotels are required to verify the identity of all international guests at check-in, and the passport is the standard document for this purpose. Handling a guest's passport is a moment that requires particular delicacy — it involves a personal, legally significant document, and the guest must feel that it is being treated with the utmost respect and returned promptly. The process reflects the broader omotenashi principle that even administrative necessities should be carried out with warmth and care.
+パスポート is the Japanese word for passport, the primary identification document for foreign nationals checking into Japanese hotels. Under Japanese law, hotels are required to verify the identity of all international guests at check-in, and the passport is the standard document used for that purpose. Handling a guest's passport requires a particular kind of care. It is a personal, legally significant item, and the guest needs to feel that it is being treated with respect and returned without delay.
 
-The appropriate phrase for requesting a passport is パスポートを拝見してもよろしいでしょうか, which uses 拝見 — the humble form of "to look at/see" — and asks permission rather than issuing a command. After viewing the document, staff should return it immediately with a bow and a word of thanks such as ありがとうございます or 恐れ入ります. Some properties photocopy or scan the passport for records; if this is required, staff should explain the purpose clearly: 記録のためにコピーを取らせていただきます (we will make a copy for our records).
+The right phrase for requesting a passport is パスポートを拝見してもよろしいでしょうか. This uses 拝見, the humble form of "to look at," and frames the request as asking for permission rather than issuing a command. That distinction matters more than it might seem. After viewing the document, return it immediately with a bow and a word of thanks such as ありがとうございます or 恐れ入ります. If the property requires a photocopy or scan for records, explain this clearly before proceeding: 記録のためにコピーを取らせていただきます tells the guest exactly what is happening and why.
 
 ## Example Sentences
 
@@ -24,12 +24,12 @@ The appropriate phrase for requesting a passport is パスポートを拝見し�
 
 ## Related Expressions
 
-- **身分証明書 (mibun shōmeisho)** — identification document; a broader term that covers passports as well as other ID such as driver's licences and residence cards used by domestic guests.
-- **拝見 (haiken)** — the humble verb for viewing another person's belongings or documents; always use 拝見 rather than 見る or 確認する when requesting to look at a guest's personal documents.
+- **身分証明書 (mibun shōmeisho)**: identification document; the broader umbrella term that covers passports alongside other forms of ID such as driver's licences and residence cards used by domestic guests.
+- **拝見 (haiken)**: the humble verb for viewing another person's belongings or documents. Always use 拝見 rather than 見る or 確認する when asking to look at anything belonging to a guest.
 
 ## Common Mistakes
 
-Using 見せてください (please show me) is grammatically correct but too direct and lacks humility — パスポートを拝見してもよろしいでしょうか is the correct professional form. Learners sometimes use 確認 (kakunin) in place of 拝見 when constructing the request sentence, but 確認 implies a more clinical check rather than the respectful viewing conveyed by 拝見. Another mistake is holding the passport for an unnecessarily long time — always return it as soon as the required information has been noted, as guests can feel uncomfortable when their travel documents are out of their hands.
+Using 見せてください (please show me) is technically correct Japanese, but it is too direct and lacks the humility the situation calls for. パスポートを拝見してもよろしいでしょうか is the form you should be using. Students often reach for 確認 (kakunin) when constructing the request sentence, but 確認 implies a clinical verification rather than the respectful viewing that 拝見 conveys. Worth noting: the bigger practical error is holding the passport too long. Return it as soon as the required information has been noted. Guests feel genuinely uncomfortable when their travel documents are sitting on someone else's desk.
 
 ---
 
@@ -45,4 +45,4 @@ Using 見せてください (please show me) is grammatically correct but too di
 
 **Correct Answer:** 拝見 (to humbly look at / see)
 
-**Explanation:** 拝見 (haiken) is the humble form of "to see/look at" — the correct polite verb for viewing a guest's documents.
+**Explanation:** 拝見 (haiken) is the humble form of "to see/look at": the correct polite verb for viewing a guest's documents.

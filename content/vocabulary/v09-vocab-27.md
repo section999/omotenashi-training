@@ -4,19 +4,22 @@ section: 27
 title: 満席状況 (manseki joukyou)
 ---
 
-満席状況 (manseki joukyou) literally combines 満席 (full seating / full occupancy) with 状況 (situation / status), creating a compound term that describes the condition of a hotel, restaurant, or facility being completely booked with no available slots. In Japanese hospitality, being precise about availability status is essential because vague or delayed communication about unavailability is considered a failure of omotenashi. The term applies equally to restaurant seating, treatment room appointments at a spa, room bookings, and event capacity — anywhere slots can be filled. Because refusing a guest is inherently awkward in Japanese service culture, staff are trained to deliver 満席状況 news with immediate alternatives rather than a bare refusal.
+**Pronunciation:** [man-**se**-ki-jou-kyou]
+**Register:** Formal/Neutral, guest-facing communication when no slots are available
 
-When communicating 満席状況 to a guest, the professional approach is always to pair the bad news with a solution in the same breath. The standard phrasing 誠に恐れ入りますが、ご希望の日程は満席状況でございます (I sincerely apologize, but the dates you requested are fully booked) cushions the disappointment before leading into alternatives. Internal use of 満席状況 in briefings — 今週末は満席状況が続いております (full-occupancy conditions continue through this weekend) — helps all departments prepare for peak-load service. Tracking when 満席状況 is likely to occur allows reservations staff to proactively reach out to waitlisted guests, demonstrating care even before those guests call.
+満席状況 (manseki joukyou) brings together 満席 (full seating, full occupancy) and 状況 (situation, status) to describe the condition of a hotel, restaurant, or facility being completely booked with nothing left available. The term applies equally to restaurant tables, spa treatment slots, meeting room time blocks, and guest room inventory. In Japanese hospitality, delivering this kind of news vaguely or with a long delay is considered a service failure, so staff are expected to check, confirm, and communicate 満席状況 promptly and professionally. The awkward part, of course, is that turning a guest away goes against the grain of omotenashi, which is exactly why the industry trains staff to always pair the bad news with a next step.
+
+When you need to tell a guest that dates or seats are fully booked, the professional move is to soften the news and offer an alternative in the same breath. The standard phrasing 誠に恐れ入りますが、ご希望の日程は満席状況でございます cushions the disappointment before you pivot to options. Worth noting is how 満席状況 is used internally too: briefings that flag 今週末は満席状況が続いております give all departments the heads-up they need to prepare for peak-load service and get ahead of any potential issues.
 
 ## Example Sentences
 
 **1.** 誠に恐れ入りますが、ご希望の日程は満席状況でございます。他のご日程でしたらご案内できますが、いかがでしょうか。
 *Makoto ni osoreirimasu ga, go-kibou no nittei wa manseki joukyou de gozaimasu. Hoka no go-nittei deshitara go-annai dekimasu ga, ikaga deshou ka.*
-"I sincerely apologize, but the dates you requested are fully booked. We do have availability on other dates — would that work for you?"
+"I sincerely apologize, but the dates you requested are fully booked. We do have availability on other dates: would that work for you?"
 
 **2.** 今週末は満席状況が続いておりますので、キャンセル待ちにご登録されますか。
 *Konshuu-matsu wa manseki joukyou ga tsuzuite orimasu node, kyanseru-machi ni go-touroku saremasu ka.*
-"We are fully booked through this weekend — would you like to be added to our cancellation waiting list?"
+"We are fully booked through this weekend: would you like to be added to our cancellation waiting list?"
 
 **3.** レストランも満席状況でございますが、15分ほどお待ちいただければご案内できます。
 *Resutoran mo manseki joukyou de gozaimasu ga, juugo-fun hodo o-machi itadakereba go-annai dekimasu.*
@@ -24,12 +27,12 @@ When communicating 満席状況 to a guest, the professional approach is always 
 
 ## Related Expressions
 
-- **空き状況 (aki joukyou)** — the opposite of 満席状況; refers to current availability, and is the first thing staff check before confirming any reservation or walk-in request.
-- **キャンセル待ち (kyanseru-machi)** — waitlist for cancellations; the natural next step to offer a guest once 満席状況 has been communicated, demonstrating continued willingness to serve.
+- **空き状況 (aki joukyou)**: the opposite of 満席状況, describing current availability. This is what staff check first before confirming any reservation or walk-in request.
+- **キャンセル待ち (kyanseru-machi)**: the waiting list for cancellations. Offering this as a natural next step after communicating 満席状況 shows the guest you are still trying to help them, not just closing the door.
 
 ## Common Mistakes
 
-Learners often deliver 満席状況 as a conversation-ending statement without any follow-up, which feels abrupt and unhospitable in Japanese service culture. The correct approach is always to combine the announcement with an alternative: another date, a waitlist option, or a recommendation for a sister property or nearby hotel. Equally important is tone — even the most accurate statement of full occupancy sounds cold if delivered without the appropriate level of apology phrases like 誠に恐れ入りますが or 大変申し訳ございません. Avoid shortening to just 満席です in formal guest-facing contexts; the fuller form 満席状況でございます is the appropriate register for hotel interactions.
+Students often deliver 満席状況 as a conversation-ending statement and then just wait, which feels abrupt and unhospitable in Japanese service culture. The correct approach is always to combine the announcement with something concrete: another date, a waitlist offer, or a recommendation for a sister property. Equally important is the tone you use. Even a perfectly accurate statement of full occupancy sounds cold if delivered without proper apology phrases like 誠に恐れ入りますが or 大変申し訳ございません. Avoid shortening to just 満席です in formal guest-facing interactions; the fuller form 満席状況でございます is the appropriate register for a hotel setting.
 
 ---
 
@@ -44,4 +47,4 @@ Learners often deliver 満席状況 as a conversation-ending statement without a
 
 **Correct Answer:** 満席状況 (seating availability)
 
-**Explanation:** 満席状況 — when telling a guest the hotel is full, always add a next step: 他の日程でしたら空きがございます (we have availability on other dates) or おすすめの近隣ホテルをご案内できます (I can suggest nearby hotels); a dead-end "no" is never omotenashi.
+**Explanation:** 満席状況: when telling a guest the hotel is full, always add a next step: 他の日程でしたら空きがございます (we have availability on other dates) or おすすめの近隣ホテルをご案内できます (I can suggest nearby hotels); a dead-end "no" is never omotenashi.

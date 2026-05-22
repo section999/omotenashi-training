@@ -4,9 +4,12 @@ section: 12
 title: メッセージ (messeeji)
 ---
 
-メッセージ is a broad loanword from English that covers any form of communication left for someone who is not immediately available — including handwritten notes, digital messages, SMS texts, emails, and recorded audio. In a modern Japanese hotel, メッセージ is used across a wide range of service touchpoints: the front desk may receive a written メッセージ for a guest, housekeeping may leave a メッセージ slip in a room, and concierge services may use digital メッセージ platforms to coordinate with guests. As hospitality becomes increasingly digital, the ability to handle メッセージ across multiple channels is a growing skill requirement for hotel staff.
+**Pronunciation:** [me-**SEE**-ji]
+**Register:** Neutral to Formal, used across modern hospitality contexts
 
-While 伝言 implies a personal, trusted relay between two people — typically over the phone — メッセージ is broader and often implies written or recorded media. When a guest asks to メッセージを残す (leave a message), it may be by voicemail, a note at the front desk, or a hotel app notification. Staff should confirm the preferred channel when receiving such a request: ご希望の連絡方法はございますか (do you have a preferred method of contact?) — this allows the hotel to tailor its response to the guest's communication habits.
+メッセージ is the loanword from English that covers any form of communication left for someone who is not immediately available: handwritten notes, digital messages, SMS, email, voicemail, hotel app notifications. In a modern Japanese hotel, you encounter this word across almost every department. The front desk receives written メッセージ for guests. Housekeeping leaves メッセージ slips in rooms. Concierge staff coordinate with guests through digital メッセージ platforms. As hospitality becomes more multi-channel, the ability to handle メッセージ across all those formats is genuinely a skill in its own right.
+
+The key distinction between メッセージ and 伝言 is breadth. Where 伝言 implies a personal relay between two people, typically by phone, メッセージ can be almost any medium. When a guest asks to メッセージを残す (leave a message), they might mean voicemail, a note at the front desk, or a push notification through the hotel app. Students often assume the channel without asking, which causes confusion later. The cleaner approach: when the medium is not obvious, ask ご希望の連絡方法はございますか (do you have a preferred method of contact?). That one question saves a surprising amount of back-and-forth.
 
 ## Example Sentences
 
@@ -24,12 +27,12 @@ While 伝言 implies a personal, trusted relay between two people — typically 
 
 ## Related Expressions
 
-- **伝言** — the more traditional and formal term for a message relayed between people; 伝言 implies personal accountability and is preferred in formal phone scripts, while メッセージ is broader and more modern.
-- **留守番電話** — voicemail, which is itself a form of recorded メッセージ; distinguishing between these two helps staff route or retrieve communications appropriately.
+- **伝言**: the more traditional and formal word for a message relayed between people; 伝言 implies personal accountability and is preferred in formal phone scripts, while メッセージ suits broader and more modern contexts.
+- **留守番電話**: voicemail, which is itself a recorded form of メッセージ; knowing the difference helps staff route or retrieve communications correctly.
 
 ## Common Mistakes
 
-Learners often use メッセージ and 伝言 interchangeably without recognizing the register difference — using メッセージ in a formal script where 伝言 is expected can sound slightly casual. Another common mistake is taking a メッセージ without specifying the medium, leaving ambiguity about whether it was recorded, written, or verbal. Staff should also remember that digital メッセージ (LINE, email, hotel app) may require different handling procedures than traditional handwritten slips at the front desk.
+In practice, using メッセージ where 伝言 is expected in a formal phone script can come across as slightly casual, so pay attention to register. Another common error is accepting a メッセージ without clarifying how it was delivered: was it verbal, written, recorded? That ambiguity can cause real confusion when a different staff member picks up the shift. One more thing: digital メッセージ (LINE, email, hotel app) often require different handling procedures than a traditional handwritten slip at the front desk, and staff should be clear on those internal workflows before they need them.
 
 ---
 
@@ -45,4 +48,4 @@ Learners often use メッセージ and 伝言 interchangeably without recognizin
 
 **Correct Answer:** メッセージ (message)
 
-**Explanation:** メッセージ is broader than 伝言 — it includes digital forms (LINE, email, SMS) while 伝言 is typically verbal or handwritten; in modern hotel service, asking ご希望の連絡方法はございますか (do you have a preferred contact method?) allows guests to choose the channel most convenient for them.
+**Explanation:** メッセージ is broader than 伝言: it includes digital forms (LINE, email, SMS) while 伝言 is typically verbal or handwritten; in modern hotel service, asking ご希望の連絡方法はございますか (do you have a preferred contact method?) allows guests to choose the channel most convenient for them.
