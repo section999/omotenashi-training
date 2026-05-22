@@ -44,5 +44,5 @@ The most consequential mistake is assigning a 喫煙室 to a guest who requested
 
 **Correct Answer:** 喫煙でございます (it is a smoking area)
 
-**Explanation:** 喫煙でございます confirms the room type matches the request: using ございます maintains the professional register.
+**Explanation:** 喫煙でございます confirms that the room is a smoking room, directly matching what the guest requested, while ございます keeps the register professional. 禁煙でございます would be the wrong room type entirely, and the other options use casual or incorrect verb forms that do not belong in polite guest-facing speech.
 

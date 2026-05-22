@@ -44,5 +44,5 @@ A common mistake is using 裏 without clarification, which can sound abrupt or e
 
 **Correct Answer:** 裏です (it is at the back)
 
-**Explanation:** 裏 (back/rear) is contrasted with 正面 (front): guests and delivery personnel both need to know this distinction; directing a guest to the 裏 may also require a safety or access note.
+**Explanation:** 裏 correctly identifies the rear of the building as the delivery entrance, which is operationally separate from the guest-facing 正面. When directing anyone to the 裏, pairing it with a reason (配送の方は裏口から) and an offer to guide keeps the communication clear and professional.
 

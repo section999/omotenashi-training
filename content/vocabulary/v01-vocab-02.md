@@ -46,4 +46,4 @@ Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the
 
 **Correct Answer:** おはようございます。(Good morning.)
 
-**Explanation:** The full polite form *ohayō gozaimasu* is the correct morning greeting in any professional context. The casual *ohayō* is inappropriate with guests, *konnichiwa* would be wrong for 8:30 AM, and *konbanwa* is for evening. The full form signals professionalism alongside warmth.
+**Explanation:** *Ohayō gozaimasu*, the full polite form, is the only appropriate morning greeting in professional hospitality. The casual *ohayō* drops the register too far for a guest interaction, while *konnichiwa* and *konbanwa* simply belong to the wrong time of day entirely.

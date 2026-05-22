@@ -45,5 +45,5 @@ Students often mix up 毛布 and 布団. Remember: 布団 refers to the entire t
 
 **Correct Answer:** 毛布 (blanket)
 
-**Explanation:** 毛布 means blanket: お持ちいたしましょうか is the polite offer to bring something, showing proactive care.
+**Explanation:** 毛布 is "blanket," the exact item that fits this offer to bring an extra one, and お持ちいたしましょうか shows the kind of anticipatory care that omotenashi requires. 枕 is a pillow, シーツ are bed sheets, and タオル is a towel, so placing any of them in the sentence changes the offer to a completely different item.
 

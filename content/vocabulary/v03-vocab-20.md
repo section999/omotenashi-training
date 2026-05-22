@@ -45,5 +45,5 @@ A common oversight is simply showing the guest where the テレビ is without ex
 
 **Correct Answer:** テレビ (TV / television)
 
-**Explanation:** テレビはリモコンで操作可能でございます: clear and polite instruction about room equipment is a key part of check-in service.
+**Explanation:** テレビ belongs in this sentence because the phrase describes operating a device with a remote control, and the TV is operated exactly that way during room orientation. エアコン also uses a remote, but the full phrase テレビはリモコンで操作可能でございます is the standard formula for the television; 冷蔵庫 and シャワー are not remote-operated devices, so placing them here would produce a phrase that does not match real hotel practice.
 

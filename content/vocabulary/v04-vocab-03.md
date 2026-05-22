@@ -44,5 +44,5 @@ Swapping 清掃済み and 清掃中 is not a minor vocabulary slip. Sending a gu
 
 **Correct Answer:** この部屋は清掃済みでございます (this room has been cleaned)
 
-**Explanation:** 清掃済み means cleaning is complete: paired with でございます it confirms to guests or supervisors that the room is ready.
+**Explanation:** 清掃済み uses the 済み suffix to show a completed action, so この部屋は清掃済みでございます is the clear, formal way to say the room is ready. 清掃中 means cleaning is still in progress, and the other options describe dirty or occupied rooms — each would create a serious operational misunderstanding if used in place of the correct answer.
 

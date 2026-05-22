@@ -47,4 +47,4 @@ Learners sometimes say 予約されています instead of 予約席でござい
 
 **Correct Answer:** こちらは予約席でございます (this is a reserved seat)
 
-**Explanation:** こちらは予約席でございます informs the guest that the table is reserved: saying it calmly and respectfully avoids embarrassment while maintaining hotel standards.
+**Explanation:** こちらは予約席でございます communicates that the table is reserved without making the guest feel scolded, and the formal でございます keeps the tone respectful. Saying it is okay to sit or responding with 問題ない or 知らない all fail the guest and could create a serious problem when the reserved party arrives.

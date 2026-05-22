@@ -47,4 +47,4 @@ Staff sometimes slip into casual or abbreviated speech when they get nervous aro
 
 **Correct Answer:** スイートルームでございます (it is a suite room)
 
-**Explanation:** スイートルームでございます confirms the premium booking professionally: always match the tone to the level of service.
+**Explanation:** スイートルームでございます names the correct room type and the ございます form reflects the elevated, unhurried tone expected when welcoming a suite guest. Any of the standard room types, ツイン, シングル, or ダブル, would be a factual mismatch with the booking and would immediately undercut the premium experience the guest is paying for.

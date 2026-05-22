@@ -48,4 +48,4 @@ Students frequently confuse 奥 with 裏: 奥 is used for the far interior of a 
 
 **Correct Answer:** 奥 (back / deeper in)
 
-**Explanation:** 奥 (back / inner area) contrasts with 手前 (near side): using 奥 tells the guest to walk further in, so pairing it with a visual cue (突き当たり、一番奥) helps when the space is large.
+**Explanation:** 奥 describes the far interior of a space, guiding guests to walk deeper in rather than stopping near the entrance. Hand前 (near side), 隣 (adjacent), and 外 (outside) all describe different relationships and would send a guest to the wrong area entirely.

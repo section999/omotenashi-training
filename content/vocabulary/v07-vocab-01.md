@@ -44,5 +44,5 @@ Students often use plain-form directions like 「エレベーターに乗って�
 
 **Correct Answer:** エレベーターで10階までお上がりください (please take the elevator to the 10th floor)
 
-**Explanation:** エレベーターで10階までお上がりください: で marks the means of travel; お上がりください is the polite imperative of 上がる (to go up), more refined than ご利用ください in this directional context.
+**Explanation:** エレベーターで10階までお上がりください gives the guest exactly what they need: the means of travel (で), the destination floor, and a polished imperative verb. Directing a guest to the stairs is unhelpful without context, while the staff-only elevator option and 分かりません both fail the basic hospitality test of giving clear, confident guidance.
 

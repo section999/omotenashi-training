@@ -44,4 +44,4 @@ Learners sometimes use フロント with overly casual sentence-ending forms suc
 
 **Correct Answer:** フロントはこちらでございます (the front desk is here)
 
-**Explanation:** フロントはこちらでございます uses ございます: the most polite form: and こちら to guide the guest respectfully.
+**Explanation:** *Furonto wa kochira de gozaimasu* pairs the most polite copula *de gozaimasu* with the respectful directional *kochira*, which together guide a lost guest with warmth rather than just a pointed finger. The other options either shift focus to the staff member's actions or use casual forms that drop below the register expected at a hotel front desk.

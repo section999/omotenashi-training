@@ -44,4 +44,4 @@ Learners often say 支払いしてください directly to a guest, which sounds
 
 **Correct Answer:** 支払いはチェックアウト時にお願いいたします (please pay at check-out)
 
-**Explanation:** 支払いはチェックアウト時にお願いいたします uses お願いいたします to make the request polite, and specifies the timing clearly.
+**Explanation:** 支払いはチェックアウト時にお願いいたします uses お願いいたします to frame the payment request as a gentle ask rather than a demand, and gives the guest clear timing so there is no ambiguity. The other options are either grammatically broken, a command without context, or state the wrong subject entirely — staff paying rather than the guest.

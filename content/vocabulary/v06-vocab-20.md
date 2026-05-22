@@ -48,5 +48,5 @@ The most serious mistake is failing to disclose 有料 before a guest uses a ser
 
 **Correct Answer:** 有料 (paid / chargeable)
 
-**Explanation:** 有料でございます: being transparent about charges with でございます is essential; guests who are not warned of costs may feel deceived, damaging trust even if the amount is small.
+**Explanation:** 有料でございます discloses a charge clearly and formally before the guest uses the service, which is the only way to prevent billing disputes later. Saying 無料 would be factually wrong, while 無理 (impossible) and 利用 (use) do not communicate pricing at all and leave the guest without the information they need.
 

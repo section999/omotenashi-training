@@ -48,5 +48,5 @@ Students often learn the base form ふん first and then apply it everywhere, wh
 
 **Correct Answer:** 分 (minutes)
 
-**Explanation:** 分 (minutes) is the standard time unit for walking distances: note the pronunciation change: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん); using the wrong pronunciation sounds unnatural to Japanese guests.
+**Explanation:** 分 is the counter for minutes, making 徒歩10分 the natural and standard phrasing for a ten-minute walk to the station. 秒 counts seconds (far too short for a walk), 時間 counts hours, and 階 counts floors, so none of the other options make sense in a distance context.
 

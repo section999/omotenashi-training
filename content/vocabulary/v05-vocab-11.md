@@ -44,5 +44,5 @@ A common error is assuming all tea-drinking guests want コーヒーの代わり
 
 **Correct Answer:** 紅茶もご用意できます (we can also prepare black tea)
 
-**Explanation:** 紅茶もご用意できます: も means "also", and ご用意できます (we can prepare) is the polite form for describing available options on request.
+**Explanation:** 紅茶もご用意できます correctly tells the guest that black tea is also available, with も ("also") implying another option exists alongside it. The other choices either confirm coffee, restrict black tea unnecessarily, or limit it to breakfast service, none of which openly invite the guest to choose tea as an alternative right now.
 

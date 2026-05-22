@@ -47,4 +47,4 @@ Using a bare *iie* to refuse a guest request is the most common mistake. In Japa
 
 **Correct Answer:** 申し訳ございませんが、そのテーブルはただいまご予約が入っております。他のお席をご案内いたしましょうか。(I'm very sorry, but that table is currently reserved. May I show you to another seat?)
 
-**Explanation:** In Japanese hospitality, refusals are always softened with an apology and accompanied by an alternative offer. A flat *iie* or *muri* is never appropriate with guests. The correct response acknowledges the limitation, explains it briefly, and immediately offers a path forward.
+**Explanation:** Saying "no" in Japanese hospitality always begins with an apology and ends with an alternative, never a bare refusal. *Moushiwake gozaimasen ga* softens the unavailability, the brief explanation gives it context, and the offer of another seat shows the guest that their comfort is still the priority.

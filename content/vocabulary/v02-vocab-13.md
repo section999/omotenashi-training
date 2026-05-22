@@ -44,4 +44,4 @@ Using 値段 in a hotel context sounds too casual. 料金 is the professional te
 
 **Correct Answer:** こちらが料金でございます (this is the charge)
 
-**Explanation:** こちらが料金でございます uses こちら (this/here) and ございます: the professional and polite standard for presenting fees.
+**Explanation:** こちらが料金でございます draws the guest's attention with こちら and maintains formal register with ございます, making it the right way to present a bill without sounding abrupt. The shortened or casual alternatives drop either the directional reference, the formality, or both, which can make a billing moment feel unexpectedly transactional.

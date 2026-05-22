@@ -45,5 +45,5 @@ The most common mistake is using 近く without any supporting detail, leaving t
 
 **Correct Answer:** 近く (nearby)
 
-**Explanation:** 近く (nearby) with にございます creates the polite statement "is located nearby": being specific about walking time (e.g. 徒歩5分) after saying 近く makes the information actionable for the guest.
+**Explanation:** 近く fits precisely here because the station is within walking distance of the hotel, and にございます gives it the formal register guest-facing speech requires. 遠く would be factually wrong, while 左 and 右 are directional words that describe which way to turn, not how far away something is.
 

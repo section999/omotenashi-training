@@ -45,5 +45,5 @@ A frequent mistake is treating all guest complaints about items as 交換希望 
 
 **Correct Answer:** 交換希望 (exchange requested)
 
-**Explanation:** 交換希望 (replacement request): distinguishing between 交換希望 (guest wants a swap) and 修理依頼 (needs repair) ensures the correct team or action is triggered without unnecessary back-and-forth.
+**Explanation:** 交換希望 signals that the guest wants one item swapped for another, which routes the request to housekeeping with the right instruction. Using 修理依頼 would call maintenance to fix an item the guest simply wants replaced, while 忘れ物 and 紛失 both describe missing items rather than a replacement request.
 

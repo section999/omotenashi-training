@@ -44,4 +44,4 @@ A common error is asking 現金ですか？ without the honorific structure. It 
 
 **Correct Answer:** お支払いは現金でよろしいでしょうか (will cash payment be fine?)
 
-**Explanation:** お支払いは現金でよろしいでしょうか uses the honorific お支払い and the polite confirmation form よろしいでしょうか.
+**Explanation:** お支払いは現金でよろしいでしょうか pairs the honorific お支払い with よろしいでしょうか to confirm the payment method with genuine warmth rather than just checking a box. 現金？ and 現金ですか？ strip away that respect, and 現金する？ is not even grammatically standard Japanese.

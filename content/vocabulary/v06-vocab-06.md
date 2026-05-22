@@ -45,5 +45,5 @@ A common error is storing found items without logging them properly, which makes
 
 **Correct Answer:** 忘れ物 (lost and found / forgotten item)
 
-**Explanation:** 忘れ物 means a forgotten item: reporting 忘れ物 promptly with proper documentation is a key omotenashi value, showing care for the guest even after departure.
+**Explanation:** 忘れ物 is the word for an item a guest has left behind, which is exactly what the sentence お部屋に〜がございました is describing. クレーム, 故障, and 問題 all refer to complaints or malfunctions, and none of them describe a physical object found in a room. Promptly reporting and properly logging 忘れ物 is a direct expression of omotenashi care that extends beyond the moment the guest departs.
 

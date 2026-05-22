@@ -44,5 +44,5 @@ The most common error is providing a standard タオル when a guest requested a
 
 **Correct Answer:** バスタオルをご用意いたしました (we have prepared a bath towel)
 
-**Explanation:** バスタオルをご用意いたしました uses the past tense of the humble form: informing the guest that preparation is complete.
+**Explanation:** バスタオルをご用意いたしました uses the completed past tense of the humble form, telling the guest that preparation is already done rather than still in progress. The other options either refuse the request, introduce an unnecessary delay with an inventory check, or use どうぞ in a way that is too casual and abrupt for a professional handover.
 

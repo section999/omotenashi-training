@@ -47,5 +47,5 @@ The most consequential mix-up here is using 分 where you mean 秒. Telling a gu
 
 **Correct Answer:** 5秒で閉まります (it closes in 5 seconds)
 
-**Explanation:** 5秒で閉まります: 秒 (seconds) applies to very short intervals like elevator doors; knowing this precision shows guests you are aware of their safety and helps prevent them from rushing or being caught.
+**Explanation:** Elevator doors close in seconds, so 5秒で閉まります gives guests the precise timing they need to move safely without rushing. Saying 5分 would imply the doors stay open for five full minutes, which is physically impossible and would confuse any guest familiar with elevators.
 

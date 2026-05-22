@@ -47,4 +47,4 @@ Students often mix up 予約番号 and 部屋番号 (room number), which is only
 
 **Correct Answer:** 予約番号 (reservation number)
 
-**Explanation:** 予約番号 is the fastest lookup key in any hotel system: asking for it first allows staff to pull up the full record instantly and avoids the privacy risk of asking for names or dates over the phone without verification.
+**Explanation:** 予約番号 is the unique identifier that pulls up the complete booking record in seconds, cutting through surname duplicates and removing ambiguity before any changes are made. Asking for 宿泊日 or 人数 first requires more back-and-forth and still may not identify the right record if multiple guests share similar details.

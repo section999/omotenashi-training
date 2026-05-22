@@ -45,4 +45,4 @@ Using 壊れ (koware: broken) in formal written or guest-facing communication is
 
 **Correct Answer:** 破損 (damage)
 
-**Explanation:** 破損 specifically means physical damage: reporting 破損 accurately allows maintenance to respond quickly and prevents further deterioration.
+**Explanation:** 破損 is the correct professional term for physical damage to furniture or fixtures, and using it precisely in this sentence ensures maintenance can act without confusion. 汚れ is surface soiling that can be cleaned, 修理 is the repair that follows damage, and 点検 is the inspection process — none of them name the damage itself the way 破損 does.

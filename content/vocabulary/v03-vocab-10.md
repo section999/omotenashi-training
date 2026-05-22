@@ -44,5 +44,5 @@ Students often respond to pillow requests with vague language like 後ほど (la
 
 **Correct Answer:** 枕をご用意いたします (we will prepare a pillow)
 
-**Explanation:** 枕をご用意いたします uses ご用意いたします: the polite and professional way to confirm you will prepare something for the guest.
+**Explanation:** 枕をご用意いたします names the exact item the guest requested and uses the humble ご用意いたします to signal that preparation is being handled right away. 枕はありません refuses the request unnecessarily, 毛布をお持ちいたします brings the wrong item entirely, and 枕どうぞ is far too casual for a professional service setting.
 

@@ -44,4 +44,4 @@ Students often confuse 修理 with 交換 (koukan: replacement). The distinction
 
 **Correct Answer:** 修理はすぐに手配いたします (we will arrange the repair immediately)
 
-**Explanation:** 修理はすぐに手配いたします: 手配いたします means "to arrange" in humble form; promising すぐに (immediately) reassures the guest that action is being taken.
+**Explanation:** 修理はすぐに手配いたします reassures the guest with two things: the commitment to act (手配いたします in humble form) and the immediacy of that action (すぐに). Saying repair is impossible, asking the guest to document the fault, or citing warranty terms all shift the burden back to the guest rather than taking ownership — which is the opposite of omotenashi.

@@ -47,5 +47,5 @@ The most common error is mixing up ダブルルーム (one bed for two people) w
 
 **Correct Answer:** ダブルルームでございます (it is a double room)
 
-**Explanation:** ダブルルームでございます confirms the room type respectfully using ございます: always verify the correct room type with the guest.
+**Explanation:** ダブルルームでございます echoes the guest's own words back to them with the polite ございます form, giving a clear and respectful confirmation. The other options name entirely different room types, シングルルーム has one bed for one person, ツインルーム has two separate beds, and スイートルーム is a multi-room premium suite, each of which would contradict what the guest told you they booked.
 

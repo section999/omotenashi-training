@@ -48,5 +48,5 @@ The most common mistake is using 確認します (plain form) with guests instea
 
 **Correct Answer:** 確認します (I will confirm)
 
-**Explanation:** すぐに確認します: すぐに (immediately) paired with 確認します reassures the guest that verification is starting now, not later; it buys time professionally while action is being taken.
+**Explanation:** 確認します commits to verifying the situation right away, which is the professional response when you need a moment before giving a confident answer. 対応します is too vague for an information-checking context, 案内します would be premature before the situation is understood, and 提供します means "provide" rather than "check."
 

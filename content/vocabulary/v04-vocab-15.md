@@ -44,4 +44,4 @@ In daily operations, staff refer to モップ when discussing floor-cleaning sch
 
 **Correct Answer:** モップで床を清掃いたします (we will clean the floor with a mop)
 
-**Explanation:** モップで床を清掃いたします: the で particle marks the tool being used; 清掃いたします is the humble form appropriate for hotel housekeeping staff.
+**Explanation:** モップで床を清掃いたします correctly uses で to mark the tool being used and 清掃いたします as the humble verb for cleaning hard floors with a wet mop. A broom sweeps dry debris rather than washing surfaces, and a dry cloth works only on small areas — neither matches the wet floor-cleaning task that モップ is specifically designed for.

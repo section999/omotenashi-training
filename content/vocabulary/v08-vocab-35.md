@@ -48,4 +48,4 @@ The most common confusion is between エスカレーター (escalator) and エ�
 
 **Correct Answer:** エスカレーター (escalator)
 
-**Explanation:** エスカレーター vs エレベーター: guests with heavy luggage or strollers should be guided to the エレベーター instead; recommending the right option based on the guest's situation is considerate service.
+**Explanation:** エスカレーター is the right word for the moving stairway that carries guests between shopping floors, making it the natural fit here. エレベーター is an enclosed cabin, 階段 are manual stairs, and 出口 is an exit — none of these move people upward in the open, continuous way the question describes.

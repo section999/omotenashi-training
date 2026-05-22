@@ -47,5 +47,5 @@ The most damaging error is announcing 満席 with no follow-up offer or apology.
 
 **Correct Answer:** ただいま満席でございます (we are fully seated at the moment)
 
-**Explanation:** ただいま満席でございます: ただいま (at this moment) softens the message by implying it is temporary; でございます maintains the formal register expected in hotel F&B.
+**Explanation:** ただいま満席でございます delivers the difficult news that the restaurant is full while keeping the door open, because ただいま (at this moment) implies the situation is temporary rather than permanent. The casual options like 席ないよ or 無理です are completely inappropriate in hotel service, and the blunt command to leave is the opposite of omotenashi.
 

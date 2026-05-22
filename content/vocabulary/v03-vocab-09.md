@@ -45,5 +45,5 @@ Students often mispronounce ベッド with a drawn-out final vowel (beddoo), bor
 
 **Correct Answer:** ベッド (bed)
 
-**Explanation:** ベッド is the standard word for bed: ダブルベッドがございます politely confirms the bed type in the room.
+**Explanation:** ベッド is what the sentence is describing, and ダブルベッドがございます is the polite, natural way to confirm the bed type during room orientation. 枕, シーツ, and 毛布 are all bedding-related items, but none of them is the bed itself, so substituting them would make the sentence factually incorrect.
 

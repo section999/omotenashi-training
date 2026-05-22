@@ -48,4 +48,4 @@ Using 案内する in plain form with a guest is a register error you want to co
 
 **Correct Answer:** 案内 (guidance / information)
 
-**Explanation:** ご案内いたします is the standard polite phrase for offering to guide a guest: 案内 is the correct word for escorting or directing.
+**Explanation:** 案内 is the right word for guiding or escorting a guest through a space, so ご案内いたします is the natural and polite offer to orient someone through the facilities. 確認 and 予約 belong to completely different service tasks, and 説明 would be appropriate for explaining a process or procedure rather than physically showing someone around.

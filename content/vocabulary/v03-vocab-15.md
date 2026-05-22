@@ -45,5 +45,5 @@ Students sometimes use シャワー as a verb directly, saying 「シャワー�
 
 **Correct Answer:** シャワー (shower)
 
-**Explanation:** シャワーは温度調節が可能でございます: informing guests about room features politely prevents confusion and enhances comfort.
+**Explanation:** シャワー fits because the sentence describes adjustable water temperature, a feature specific to the shower appliance. エアコン controls air temperature, テレビ is operated by remote, and 冷蔵庫 stores items at a cool temperature, none of them involve 温度調節 in the way a shower does during room orientation.
 

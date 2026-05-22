@@ -47,5 +47,5 @@ The most basic error is referring to water as simply 水 in guest-facing speech:
 
 **Correct Answer:** お水をお持ちいたします (I will bring you water)
 
-**Explanation:** お水をお持ちいたします: お持ちいたします (I will bring it) is the humble form of bringing something to a guest, essential for any fetch-and-serve interaction.
+**Explanation:** お水をお持ちいたします responds directly and warmly to the guest's request, with お持ちいたします being the humble form of "I will bring it," appropriate any time you are fetching something for a guest. Redirecting to self-service, questioning whether they want only water, or saying you need to check all fail to simply honour the request with action.
 

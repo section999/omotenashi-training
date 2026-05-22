@@ -47,4 +47,4 @@ Students often jump straight to 延泊できない without any softening, which 
 
 **Correct Answer:** 延泊は可能でございます (an extension of stay is possible)
 
-**Explanation:** 延泊は可能でございます uses ございます and states availability clearly: polite and direct.
+**Explanation:** 延泊は可能でございます confirms the extension in appropriately formal keigo without any ambiguity, which is exactly what a guest hoping to stay longer needs to hear. 延泊できる and 延泊する？ are too casual for front desk speech, and 延泊だめ is an abrupt refusal that leaves the guest with no warmth and no alternatives.

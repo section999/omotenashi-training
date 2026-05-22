@@ -44,4 +44,4 @@ Students sometimes respond to walk-in availability inquiries with 満室です b
 
 **Correct Answer:** 少々お待ちください。ただいま空室をお調べいたします。(One moment please. I will check available rooms now.)
 
-**Explanation:** The correct response is to check availability before answering: 少々お待ちください (one moment please) + ただいま空室をお調べいたします (I will check available rooms now). Never refuse without checking first, and always use polite keigo form.
+**Explanation:** Japanese hospitality requires you to check before you answer, so 少々お待ちください paired with ただいま空室をお調べいたします is the only right opening here. Declaring no vacancy, citing policy, or dismissing the guest outright before even looking at the system is a genuine service failure.

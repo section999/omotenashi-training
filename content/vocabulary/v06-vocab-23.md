@@ -47,5 +47,5 @@ Students often use 対応する in plain form with guests: 「対応します」
 
 **Correct Answer:** 迅速に対応いたします (we will respond promptly)
 
-**Explanation:** 迅速に対応いたします: 迅速に (swiftly) signals urgency while 対応いたします anchors it in polite commitment; together they tell the guest that speed and professionalism are both guaranteed.
+**Explanation:** 迅速に対応いたします combines speed (迅速に) with a formal commitment to act (対応いたします), assuring the guest that the situation will be handled promptly and professionally. Saying 対応しない refuses to help, 知らない is never acceptable in guest-facing service, and 無理 closes the conversation without any resolution.
 

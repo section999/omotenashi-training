@@ -48,4 +48,4 @@ The most critical mistake is failing to clarify the difference between ツイン
 
 **Correct Answer:** ツインルーム (twin room)
 
-**Explanation:** ツインルーム means a room with two separate beds: always confirm room type using the polite よろしいでしょうか form.
+**Explanation:** ツインルーム designates a room with two separate beds, and the よろしいでしょうか form turns a confirmation into a gentle, respectful check with the guest. Confusing this with シングルルーム (one bed) or ダブルルーム (one shared bed) at check-in is one of the most common causes of guest disappointment, and スイートルーム describes a completely different category of accommodation.

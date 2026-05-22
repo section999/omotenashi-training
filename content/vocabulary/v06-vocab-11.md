@@ -48,5 +48,5 @@ A common mistake is offering the same solution for every cold complaint without 
 
 **Correct Answer:** 空調 (air conditioning / HVAC)
 
-**Explanation:** 空調を調整いたします: 調整いたします (we will adjust) covers both heating and cooling; mentioning 空調 specifically reassures the guest that the cause of their discomfort will be addressed.
+**Explanation:** 空調 (the HVAC system) is the correct word because it covers both heating and cooling, making it the natural solution when a guest reports feeling cold. 照明, テレビ, and シャワー control lighting, entertainment, and water respectively, none of which affect room temperature. Pairing 空調 with 調整いたします reassures the guest that the source of their discomfort is being addressed directly.
 

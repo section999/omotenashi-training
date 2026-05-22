@@ -45,4 +45,4 @@ Students sometimes use 予約を確認します rather than 予約の確認を�
 
 **Correct Answer:** 確認 (confirmation)
 
-**Explanation:** 確認 (kakunin) means confirmation or verification: the correct word for checking reservation details.
+**Explanation:** 確認 (kakunin) means confirmation or verification, making ご予約の確認をさせていただきます the phrase used at every professional check-in to systematically verify dates, room type, and guest count. 変更 modifies a booking, 取消 ends it, and 延泊 extends the stay — none of those fit the context of simply checking what is already on record.

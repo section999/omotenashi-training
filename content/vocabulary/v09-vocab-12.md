@@ -44,4 +44,4 @@ Recording 幼児 as just a zero-charge line on the booking and moving on is a mi
 
 **Correct Answer:** 幼児 (infant)
 
-**Explanation:** 幼児 (infant/toddler) typically stays free but may require a crib: proactively asking ベビーベッドのご用意をいたしましょうか (shall we prepare a crib?) when a guest mentions 幼児 is a classic example of anticipatory kikubari service.
+**Explanation:** 幼児 is the correct category for a 1-year-old, as it covers infants and toddlers below the 子供 age threshold and triggers specific preparation steps like a crib and child-safe room setup. A 子供 rate would apply to an older child, and using 人数 alone without specifying 幼児 would mean the property never knows to prepare those items at all.

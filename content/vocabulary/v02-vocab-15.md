@@ -45,4 +45,4 @@ Confusing 領収書 with レシート is a common error: a レシート is an au
 
 **Correct Answer:** ご用意 (preparation (polite))
 
-**Explanation:** ご用意いたします means "I will prepare it": the standard polite response when providing something to a guest.
+**Explanation:** ご用意いたします means "I will prepare it," combining the honorific ご with the humble いたします to make the response feel attentive and willing. ご確認 would mean verifying something, ご案内 guiding or directing, and ご連絡notifying — none of those fit the act of physically preparing a receipt.

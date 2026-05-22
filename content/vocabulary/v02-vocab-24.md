@@ -44,4 +44,4 @@ A common error is agreeing to レイトチェックアウト without first check
 
 **Correct Answer:** レイトチェックアウトできますか (can I have late check-out?)
 
-**Explanation:** レイトチェックアウトできますか is the natural and polite way for a guest to ask: staff should recognize and respond warmly to this.
+**Explanation:** レイトチェックアウトできますか is the natural, polite way a guest asks whether late check-out is possible, and recognizing it quickly lets staff respond with warmth rather than confusion. The other options are either too casual to use with staff, grammatically odd, or simply a statement rather than a request.

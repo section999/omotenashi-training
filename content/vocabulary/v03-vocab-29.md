@@ -45,5 +45,5 @@ A common mistake is listing アメニティ items at check-in without following 
 
 **Correct Answer:** アメニティ (amenities)
 
-**Explanation:** アメニティ refers to in-room convenience items: お申し付けください invites guests to make requests at any time, reflecting attentive hospitality.
+**Explanation:** アメニティ is the precise term for in-room personal care items, and pairing it with お申し付けください creates an open, welcoming invitation that keeps the guest in control. 清掃 and 交換 name specific service actions, and ルームサービス is a separate delivery system — none of them fill the blank the way アメニティ does in this context.
 

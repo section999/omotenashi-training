@@ -44,5 +44,5 @@ Saying プランに含まれています without specifying which プラン is o
 
 **Correct Answer:** プラン (plan)
 
-**Explanation:** プラン is the container that holds all booking details: confirming the プラン name (例: スタンダードプラン、朝食付きプラン) along with its contents at check-in prevents mid-stay surprises about what is and is not included.
+**Explanation:** プラン is the named booking package that defines the room type, meals, perks, and price all at once, so it is the right answer when a guest asks what type of booking they made. 特典 refers to individual perks within a plan, 割引 is a price reduction, and 追加料金 is an extra charge — these are components or modifications of a プラン, not the plan itself.
 

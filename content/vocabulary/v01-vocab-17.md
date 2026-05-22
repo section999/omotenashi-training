@@ -50,4 +50,4 @@ The most common mistake is using *yōkoso* as a casual spoken greeting, which ca
 
 **Correct Answer:** ようこそ〇〇ホテルへ。お二人のご宿泊を心よりお祝い申し上げます。(Welcome to ○○ Hotel. We celebrate your stay with all our hearts.)
 
-**Explanation:** *Yōkoso* is the right register for a written welcome in a special-occasion context. It conveys honour and celebration. *Irasshaimase* is for operational spoken greetings: it would feel mechanical on a handwritten card. The addition of *kokoro yori o-iwai mōshiagemasu* (we celebrate with all our hearts) personalises the message for a honeymoon occasion.
+**Explanation:** *Yōkoso* carries a ceremonial warmth that makes it perfectly suited to written, special-occasion contexts like a honeymoon welcome card. *Irasshaimase* belongs to the spoken moment of arrival and would feel oddly operational on paper, while a casual greeting like *konnichiwa* would completely miss the significance of the occasion.

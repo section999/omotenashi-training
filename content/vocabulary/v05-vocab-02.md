@@ -48,4 +48,4 @@ Using 朝ごはん instead of 朝食 in a guest conversation is the most common 
 
 **Correct Answer:** 朝食 (breakfast)
 
-**Explanation:** 朝食 means breakfast: ご提供しております is the humble-polite form of "we provide", used when describing hotel services to guests.
+**Explanation:** 朝食 is the formal word for breakfast and the only one that fits a sentence describing the morning meal service at a hotel. 昼食 is lunch and 夕食 is dinner, so each would change the meaning of the sentence entirely, while メニュー (menu) names a list of options rather than a meal period.

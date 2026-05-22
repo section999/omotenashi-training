@@ -45,5 +45,5 @@ Students often say 掃除機を使う which is understandable but less natural i
 
 **Correct Answer:** 掃除機 (vacuum cleaner)
 
-**Explanation:** 掃除機 (vacuum cleaner) is the primary tool for carpeted floors: knowing cleaning tool vocabulary helps staff describe their work accurately.
+**Explanation:** 掃除機 is the vacuum cleaner and the right tool for cleaning carpeted floors, so it fits naturally into this sentence about floor cleaning during room service. モップ is for wet-washing hard floors, 雑巾 is a hand-wiping cloth, and ゴミ箱 is a trash can — each plays a different role and none describes the tool used to clean carpets.
 

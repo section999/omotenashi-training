@@ -47,4 +47,4 @@ The most serious error here is using 来ます (kimasu) or 来る (kuru) instead
 
 **Correct Answer:** 清掃係がまいります (the cleaning staff will come)
 
-**Explanation:** 清掃係がまいります uses まいります: the humble form of 来る (to come): appropriate when talking about hotel staff in front of guests.
+**Explanation:** 清掃係がまいります uses まいります, the humble form of 来る, which is the correct keigo choice when describing your own hotel's staff moving toward a guest. 清掃係来る uses the plain dictionary form, 清掃係行く says the staff is going away rather than coming, and 清掃係です introduces yourself as the cleaning staff, none of which appropriately informs a guest that housekeeping is on the way.

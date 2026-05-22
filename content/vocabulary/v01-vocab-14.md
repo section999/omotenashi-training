@@ -50,4 +50,4 @@ The most common mistake is simply not using *osore irimasu* at all. Learners def
 
 **Correct Answer:** 恐れ入ります。お役に立てて光栄でございます。(I am most grateful. It is an honour to be of service.)
 
-**Explanation:** In Japanese hospitality, accepting praise directly can seem arrogant. *Osore irimasu* deflects the thanks with humility, and *o-yaku ni tatete kōei de gozaimasu* expresses genuine honour at being helpful: which is exactly the spirit of omotenashi. The guest feels their thanks were received meaningfully rather than brushed aside.
+**Explanation:** Receiving a guest's thanks with *osore irimasu* deflects the praise through humility rather than accepting it directly, which would risk sounding self-congratulatory. Pairing it with *o-yaku ni tatete kōei de gozaimasu* then elevates the guest by expressing genuine honour at having been of service, so their thanks land as something meaningful rather than a social formality.

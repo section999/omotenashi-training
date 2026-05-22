@@ -44,5 +44,5 @@ The most critical mistake is mirroring the guest's language and saying うるさ
 
 **Correct Answer:** 騒音を確認いたします (we will check the noise)
 
-**Explanation:** 騒音を確認いたします is preferred over echoing うるさい: using the formal noun 騒音 instead of the casual adjective keeps the register professional and solution-focused.
+**Explanation:** 騒音を確認いたします is the professional response because it replaces the guest's casual word うるさい with the formal noun 騒音 and immediately commits to investigating. Agreeing with うるさいですね mirrors their frustration but signals no action, while 知らない and 我慢してください are dismissive responses that have no place in hospitality service.
 

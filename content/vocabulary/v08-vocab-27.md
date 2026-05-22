@@ -48,5 +48,5 @@ The first thing to fix is register: こっち (kocchi) is the casual spoken vers
 
 **Correct Answer:** こちら側 (this side)
 
-**Explanation:** こちら側 (this side, near the speaker) vs あちら側 (that side, far from speaker): using 側 (side) rather than just こちら adds spatial clarity, especially in wide corridors or open lobbies.
+**Explanation:** こちら側 specifies the side closest to the speaker, which is the most immediately helpful information when the guest is standing in front of the counter. Adding 側 to こちら sharpens the direction from "this way generally" to "this specific side of the space," which matters in wide lobbies where left and right are not obvious.
 

@@ -44,5 +44,5 @@ Handing over a map without orientation or annotation is one of the most common m
 
 **Correct Answer:** 地図でご案内いたします (I will guide you with a map)
 
-**Explanation:** 地図でご案内いたします: で marks the map as the tool being used; ご案内いたします (I will guide you) is the humble form, turning a simple direction into a full act of hospitality.
+**Explanation:** 地図でご案内いたします takes ownership of the guest's confusion and offers personal guidance using a physical tool, which is the omotenashi response. Asking for an address, deferring to another staff member, or telling the guest to use their phone all shift the burden back to the guest rather than solving the problem directly.
 

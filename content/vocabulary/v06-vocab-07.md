@@ -47,5 +47,5 @@ One more thing to keep firmly in mind: never confuse 紛失 with theft (盗難, 
 
 **Correct Answer:** 紛失について確認いたします (we will confirm about the lost item)
 
-**Explanation:** 紛失について確認いたします: 確認いたします (I will check/verify) signals immediate action; responding calmly reassures the guest and begins the recovery process.
+**Explanation:** 紛失について確認いたします is the right first move because gathering information calmly before acting is how you begin an effective search, and 確認いたします signals that you are taking the matter seriously. Replacing the key card or directing to lost-and-found jumps ahead before you know whether the key is truly lost or simply misplaced nearby, while asking for a room number alone doesn't acknowledge the guest's concern.
 

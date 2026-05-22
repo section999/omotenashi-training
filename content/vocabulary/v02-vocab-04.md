@@ -44,4 +44,4 @@ The most common error is dropping the honorific ご before 予約 when speaking 
 
 **Correct Answer:** ご予約はございますか？ (do you have a reservation?)
 
-**Explanation:** ご予約はございますか？ uses the honorific prefix ご and the polite ございます: the standard greeting at any front desk.
+**Explanation:** ご予約はございますか？ pairs the honorific prefix ご with ございます, hitting the register expected at any professional front desk. The other options either drop the honorific, stay in plain polite form, or phrase the question so vaguely it barely makes sense as a greeting.

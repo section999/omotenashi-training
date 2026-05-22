@@ -45,5 +45,5 @@ The most common error is using 晩ごはん with guests, which immediately break
 
 **Correct Answer:** 夕食 (dinner)
 
-**Explanation:** 夕食 means dinner: 開始いたします (we begin) is the humble form appropriate when announcing the start of a hotel meal service.
+**Explanation:** 夕食 is the formal word for dinner and the correct fit for a sentence announcing the evening meal service starting at 18:00. 朝食 is breakfast, 昼食 is lunch, and バイキング (buffet) is a serving style rather than a meal period — substituting any of them would change the meaning of the announcement entirely.
 

@@ -44,4 +44,4 @@ Students sometimes use 身分証明書を見せてください. It is grammatica
 
 **Correct Answer:** 身分証明書を拝見してもよろしいでしょうか (may I see your ID?)
 
-**Explanation:** 身分証明書を拝見してもよろしいでしょうか uses humble language (拝見) and asks permission politely: the correct professional approach.
+**Explanation:** 身分証明書を拝見してもよろしいでしょうか combines the humble verb 拝見 with a permission-seeking structure, showing the guest that their document is being treated with care rather than demanded. The other options range from blunt to outright rude, none of which belong in a professional hotel interaction.

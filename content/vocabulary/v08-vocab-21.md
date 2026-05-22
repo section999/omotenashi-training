@@ -48,5 +48,5 @@ Worth noting: the most common slip is using 近くに without adding a distance 
 
 **Correct Answer:** 近くに (nearby)
 
-**Explanation:** 近くに (nearby): following up with a walking time (徒歩〇分) after saying 近くに makes the information practical; 近く alone is vague without a distance indicator.
+**Explanation:** 近くに signals that the restaurant is within comfortable walking distance of the station, which is the reassuring starting point guests need. Always follow it with 徒歩〇分 to make the answer actionable; without a time estimate, 近く alone leaves guests unsure whether "nearby" means two minutes or fifteen.
 

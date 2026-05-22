@@ -45,5 +45,5 @@ Learners often substitute 部屋 for 客室 in written materials or formal annou
 
 **Correct Answer:** 客室 (guest room)
 
-**Explanation:** 客室 is the formal term for guest room: used in all official hotel communication and guest-facing contexts.
+**Explanation:** 客室 carries institutional weight that 部屋 and お部屋 simply do not have, making it the required choice in written materials, public announcements, and formal guest-facing phrases like this one. Words like フロント or 受付 name locations within the hotel, not the guest's room itself.
 

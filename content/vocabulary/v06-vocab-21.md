@@ -47,5 +47,5 @@ One more thing to keep straight: 追加 is not the same as 交換 (replacement).
 
 **Correct Answer:** 追加でご用意いたします (we will prepare additionally)
 
-**Explanation:** 追加でご用意いたします: ご用意いたします (we will prepare) shows immediate readiness; saying 追加で first acknowledges that it is an extra request, not a default, which sets correct expectations.
+**Explanation:** 追加でご用意いたします directly affirms the guest's request and commits to fulfilling it without delay, which is exactly the tone an extra-item request calls for. Mentioning a possible charge or asking about inventory may be relevant later, but leading with either of those shifts focus away from the guest's immediate need.
 

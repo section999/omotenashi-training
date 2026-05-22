@@ -45,4 +45,4 @@ One of the most persistent errors in training: using a guest タオル as a 雑�
 
 **Correct Answer:** 雑巾 (cleaning cloth / rag)
 
-**Explanation:** 雑巾 is used for wiping surfaces: 拭きます means "to wipe", and knowing the right tool for each task is part of professional housekeeping.
+**Explanation:** 雑巾 is the hand-wiping cloth used for close-contact surface work like tables, shelves, and bathroom counters, making it the right answer here. A vacuum cleaner handles floor debris, a mop washes large floor areas, and a trash can holds waste — each has its own function, and reaching for the wrong one in practice wastes time and produces a poor result.

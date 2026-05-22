@@ -45,5 +45,5 @@ Learners sometimes use 入口 and 出口 interchangeably when giving rapid direc
 
 **Correct Answer:** 入口 (entrance)
 
-**Explanation:** 入口 (entrance) vs 出口 (exit): distinguishing them clearly is essential; directing guests to the 入口 avoids them entering through a staff or fire exit, which is a safety concern.
+**Explanation:** 入口 names the guest entrance clearly, which is exactly what a host must specify to avoid guests inadvertently using a staff door or fire exit. 出口 is the direct opposite and would lead someone out rather than in, while 正面 and 奥 describe position without identifying the specific doorway.
 

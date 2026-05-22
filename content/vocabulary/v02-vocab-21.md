@@ -48,4 +48,4 @@ One of the most common errors new staff make is saying 変更できません and
 
 **Correct Answer:** 可能 (possible)
 
-**Explanation:** 可能 (kanō) means "possible": ご予約の変更は可能でございます is the polite and clear way to confirm that a modification can be made.
+**Explanation:** 可能 (kanō) means "possible," so ご予約の変更は可能でございます delivers the good news that a modification can be made, in language clear and formal enough for any guest interaction. 不可 is the opposite meaning, while ご確認 and 延泊 belong to entirely different service conversations.

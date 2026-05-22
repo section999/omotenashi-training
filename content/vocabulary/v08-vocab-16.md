@@ -47,5 +47,5 @@ A common error is omitting the direction or landmark when saying 出口: telling
 
 **Correct Answer:** 出口は右側です (the exit is on the right side)
 
-**Explanation:** 出口 (exit): always specify which exit (main exit, emergency exit) by combining 出口 with a direction; simply saying 出口 without a direction can send guests in the wrong way in a large building.
+**Explanation:** 出口は右側です gives the guest both the correct term and an actionable direction in one phrase. 入口 would send someone back into the building rather than out, and 奥 or 手前 describe interior depth rather than a labeled exit point.
 

@@ -45,4 +45,4 @@ Students often reach for the plain form 子供 when speaking with guests, which 
 
 **Correct Answer:** 子供 (child)
 
-**Explanation:** 子供 (child) often qualifies for reduced rates: when adding a 子供 to a reservation, confirm age to determine whether they fall into the 子供 or 幼児 category, as pricing and amenities (cribs, high chairs) differ.
+**Explanation:** 子供 is the child category in a family reservation, sitting between the 大人 (adult) and 幼児 (infant/toddler) brackets in both pricing and amenity preparation. Confirming a child's age matters because properties often have separate sub-brackets with different meal portions and room setup requirements.

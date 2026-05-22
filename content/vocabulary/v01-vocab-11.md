@@ -47,4 +47,4 @@ A common mistake is handing something to a guest without any verbal accompanimen
 
 **Correct Answer:** こちらがお部屋の鍵でございます。どうぞ。(Here is your room key. Please.)
 
-**Explanation:** *Dōzo* paired with a clear identification of the item being presented (*kochira ga o-heya no kagi de gozaimasu*) is the natural, warm way to complete a handover. The identification gives the guest context; *dōzo* extends the item with warmth. Present the key with both hands.
+**Explanation:** Naming the item before offering it gives the guest a clear moment of orientation, and *dōzo* then extends it with warmth rather than simply pushing something across the desk. The other options belong to different moments in the interaction: asking the guest to wait, confirming a request, or signalling an intrusion have no place at the point of handover.

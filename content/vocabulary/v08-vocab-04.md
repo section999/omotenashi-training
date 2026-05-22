@@ -44,4 +44,4 @@ A common error is giving the direction (右に曲がる) without specifying the 
 
 **Correct Answer:** ロビーを出て右に曲がってください (turn right when you exit the lobby)
 
-**Explanation:** ロビーを出て右に曲がってください: 〜を出て (exit and then) links the landmark to the turn; this two-step structure is the clearest way to chain directions for guests in unfamiliar spaces.
+**Explanation:** ロビーを出て右に曲がってください uses the 〜を出て construction to anchor the turn to a landmark the guest can see before acting, which is exactly what makes directional guidance reliable. Options B, C, and D either give no turn at all, stop the guest, or send them backward — none of which help someone reach the elevator.

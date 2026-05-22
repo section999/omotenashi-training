@@ -45,5 +45,5 @@ Confusing シーツ (sheets) with タオル (towels) when responding to a guest 
 
 **Correct Answer:** シーツ交換 (sheet change)
 
-**Explanation:** シーツ交換 specifically means changing bed sheets: knowing the difference from タオル交換 (towel change) avoids guest confusion.
+**Explanation:** シーツ交換 is the specific term for changing bed sheets, and using it precisely tells both the guest and the team exactly what was done. タオル交換 refers to towels, not linen; 補充 means restocking consumables; and 点検 is an inspection — all different tasks that would create confusion if used in place of シーツ交換.
 

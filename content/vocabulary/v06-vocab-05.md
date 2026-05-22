@@ -44,5 +44,5 @@ Students sometimes say 修理してください (please repair it) directly to a
 
 **Correct Answer:** 修理依頼を承ります (we will accept your repair request)
 
-**Explanation:** 修理依頼を承ります: 承ります (I receive/accept your request) is the formal humble acceptance phrase; it commits to action without overpromising a timeline.
+**Explanation:** 修理依頼を承ります is the best first response because 承ります formally accepts the repair request and commits the hotel to action without overpromising a timeline. Moving the guest to a new room or apologising for the inconvenience are valid follow-up steps, but they bypass the core professional act of formally receiving the request, which is what sets the service recovery in motion.
 

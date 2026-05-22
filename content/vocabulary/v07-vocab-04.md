@@ -44,5 +44,5 @@ Students often confirm parking availability without providing the relevant detai
 
 **Correct Answer:** 駐車場をご利用いただけます (you can use the parking lot)
 
-**Explanation:** 駐車場をご利用いただけます: ご利用いただけます confirms availability in humble-polite form; follow up with details (floor, fee, hours) to give the guest the complete picture.
+**Explanation:** 駐車場をご利用いただけます confirms that parking is available in the correct humble-polite form, which is the first thing the guest needs to know. The other options assume a problem that has not been stated, whether the lot is full, that it is off-site, or that restrictions apply, none of which answers the question the guest actually asked.
 

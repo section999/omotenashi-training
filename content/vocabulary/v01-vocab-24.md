@@ -47,4 +47,4 @@ A common mistake is saying *go-annai itashimasu* and then not fully committing t
 
 **Correct Answer:** お部屋までご案内いたします。こちらへどうぞ。(I will show you to your room. Please come this way.)
 
-**Explanation:** *Go-annai itashimasu* declares the commitment to guide; *kochira e dōzo* with an open-palm gesture initiates the movement. Together they create a seamless, warm beginning to the escort. The guest should never have to navigate independently when a staff member is available: guiding is a service, not an option.
+**Explanation:** *Go-annai itashimasu* declares the commitment to personally escort the guest, and *kochira e dōzo* with an open-palm gesture turns that declaration into movement. Pointing at the elevator or telling the guest to go on their own passes the navigation burden back to them, which abandons the very responsibility the phrase was designed to fulfil.

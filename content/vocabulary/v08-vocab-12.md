@@ -47,4 +47,4 @@ The most critical error is saying 地下一階 with the mispronunciation chika-i
 
 **Correct Answer:** 地下一階です (it is the basement floor)
 
-**Explanation:** 地下一階 (basement level 1 / B1): always mention the elevator button (B1) alongside the floor name so guests can confirm they are pressing the correct button, especially on multilingual panels.
+**Explanation:** 地下一階 specifies the first basement level precisely, which matters in buildings with multiple underground floors. Always pair it with the elevator button label (B1ボタン) so guests know exactly what to press, since a multilingual panel can be confusing without that confirmation.

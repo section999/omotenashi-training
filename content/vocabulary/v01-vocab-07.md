@@ -47,4 +47,4 @@ A common confusion is using *shitsurei itashimasu* as an apology for a serious p
 
 **Correct Answer:** 失礼いたします。(Excuse me.)
 
-**Explanation:** Entering a guest's personal space: even when invited: requires acknowledgement of the intrusion. *Shitsurei itashimasu* is exactly right here: it names the social interruption, softens the entry, and demonstrates respect for the guest's private space. Using *moushiwake gozaimasen* would imply you've done something wrong.
+**Explanation:** Entering a guest's room, even when invited, is a small intrusion into their personal space, and *shitsurei itashimasu* is the phrase designed for exactly this kind of moment. It names the social interruption before it happens, softening the entry and showing genuine respect. *Moushiwake gozaimasen* would imply a serious error has been made, which is entirely the wrong signal here.

@@ -48,4 +48,4 @@ A common error is saying まっすぐです and stopping there, without specifyi
 
 **Correct Answer:** まっすぐ (straight ahead)
 
-**Explanation:** まっすぐ (straight) is the clearest direction for a single-path instruction: pairing it with お進みください (please proceed) creates a polished, complete directional phrase.
+**Explanation:** まっすぐ tells the guest to continue without turning, which is precisely the right instruction when a destination lies directly along the current path. 右 and 左 both imply a turn the guest should not make here, and 奥 suggests moving deeper into a specific space rather than traveling a route, so none of them serve this directional purpose.

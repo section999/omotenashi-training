@@ -47,5 +47,5 @@ The most significant mistake is delivering 遠い without any follow-up solution
 
 **Correct Answer:** 少し遠いため、タクシーのご利用をおすすめいたします (it is a bit far, so we recommend using a taxi)
 
-**Explanation:** 少し遠いため、タクシーのご利用をおすすめいたします: 少し (a little) softens the news; ため (because) explains the reason; おすすめいたします (I recommend) offers a solution rather than just a negative answer.
+**Explanation:** 少し遠いため、タクシーのご利用をおすすめいたします acknowledges the distance honestly while immediately redirecting the guest toward a practical solution, which is the omotenashi standard for delivering inconvenient news. Simply saying 遠いです leaves the guest without options, and 無理です or 行けません close the conversation without any attempt to help.
 

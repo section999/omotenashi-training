@@ -45,5 +45,5 @@ One mistake to avoid is using 特典 for something the guest still has to pay fo
 
 **Correct Answer:** 特典 (benefit / privilege)
 
-**Explanation:** 特典 (benefit/perk) is a key selling point: when a guest is choosing between plans, proactively highlighting 特典として〜が含まれております (this plan includes〜as a benefit) helps them make an informed and satisfying choice.
+**Explanation:** 特典 names the complimentary perks built into a plan, so spa access included at no extra charge is a 特典 by definition. 割引 is a price reduction, 追加料金 is an extra charge, and プラン is the overall booking package — none of these specifically describe a named benefit the guest receives as part of what they already paid for.
 

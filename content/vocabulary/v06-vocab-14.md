@@ -45,5 +45,5 @@ Learners sometimes confuse 停電 with 故障 and use them interchangeably, but 
 
 **Correct Answer:** 停電 (power outage)
 
-**Explanation:** 停電が発生しております: 発生しております (is occurring) paired with 現在 (currently) is the standard phrase for announcing an active incident; it informs guests calmly and accurately.
+**Explanation:** 停電 is the word that accurately names a building-wide loss of electrical power, and 発生しております paired with 現在 signals that the situation is active and being addressed right now. Saying 故障 would imply only a single piece of equipment has failed, while 騒音 or 水漏れ describe entirely different incidents that call for different responses.
 

@@ -47,4 +47,4 @@ Telling a guest 空いている席はあそこです and pointing is a genuine m
 
 **Correct Answer:** 空いている席はこちらです (the available seat is here)
 
-**Explanation:** 空いている席はこちらです: 空いている means "is open/available", and はこちら (this way) directs the guest efficiently without making them feel unwelcome.
+**Explanation:** 空いている席はこちらです confirms availability and immediately directs the guest, which is exactly what they need when asking about seats. In Japanese hospitality, guests are always guided to their seat rather than pointed at it from a distance, so こちらです (this way / here) signals that you are about to lead them. The other options either sidestep the question or give an unhelpful non-answer.

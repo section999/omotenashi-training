@@ -45,5 +45,5 @@ A frequent mistake is giving 徒歩 estimates based on one's own walking speed r
 
 **Correct Answer:** 徒歩 (on foot / walking)
 
-**Explanation:** 徒歩 (on foot / walking): 徒歩〇分 is the most useful distance format in hotel service; always combine it with a realistic estimate and consider the guest's condition (luggage, age) when advising whether to walk.
+**Explanation:** 徒歩 is the standard formal term for walking distance, and 徒歩5分 gives guests an immediately usable time estimate rather than a street address or map reference. 車, 電車, and バス suggest motorized transport, which is a much larger commitment for a five-minute trip to the supermarket.
 

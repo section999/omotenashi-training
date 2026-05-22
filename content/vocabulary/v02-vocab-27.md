@@ -44,4 +44,4 @@ A common service lapse is presenting the カードキー without showing or expl
 
 **Correct Answer:** こちらがカードキーでございます (here is your card key)
 
-**Explanation:** こちらがカードキーでございます uses こちら and ございます: the standard polite presentation formula for any item given to a guest.
+**Explanation:** こちらがカードキーでございます follows the standard hospitality presentation formula, using こちら to direct the guest's attention and ございます to keep the register appropriately formal. カードキーです and カードキーね lack the polish expected at check-in, and カードキーある is not a natural way to offer something to someone.

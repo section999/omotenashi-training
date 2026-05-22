@@ -44,4 +44,4 @@ Learners frequently confuse 何泊 with 何日 (how many days), answering questi
 
 **Correct Answer:** 何泊 (how many nights)
 
-**Explanation:** 何泊 counts nights, not days: April 10 to April 12 is 2泊 (two nights); hotel charges are based on 泊 (nights), so always clarify 何泊 rather than 何日 to avoid billing disputes with guests.
+**Explanation:** 何泊 counts only the nights a room is occupied, which is the unit room charges are calculated on in Japanese hotels. April 10 to April 12 is 2泊 (two nights), not three — using 日数 instead would overcount by one calendar day and lead to a billing overcharge.

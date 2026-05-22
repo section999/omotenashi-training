@@ -47,4 +47,4 @@ A common error is using the casual *onegai* alone in a professional setting: it 
 
 **Correct Answer:** こちらにご署名をお願いいたします。(Please sign here.)
 
-**Explanation:** *Go-shomei wo o-negai itashimasu* uses the formal vocabulary for "signature" (*go-shomei*) and the most polite request form. The *kochira ni* (here) adds clarity. Together the phrase is precise, respectful, and complete: the gold standard for asking a guest to complete a necessary action.
+**Explanation:** *Kochira ni go-shomei wo o-negai itashimasu* combines the honorific word for signature with the most respectful request form, treating what is essentially a procedural step as an act of polite invitation. Casual alternatives like *sainsuru* or bare *kudasai* forms drop the register too far for formal hospitality, even if the words themselves are grammatically correct.

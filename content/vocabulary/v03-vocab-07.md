@@ -48,4 +48,4 @@ Confusing 禁煙 and 喫煙 when recording or communicating room preferences is 
 
 **Correct Answer:** 禁煙 (non-smoking)
 
-**Explanation:** 禁煙 means no smoking: always confirm smoking preferences early to ensure the correct room is assigned.
+**Explanation:** 禁煙 is the answer because the question asks for the guest's preference about smoking, and 禁煙 means non-smoking, making it a direct and appropriate response. 喫煙 means the opposite (smoking), while 空室 and 満室 describe room availability, not smoking preference, so using any of those would either assign the wrong room type or answer a completely different question.

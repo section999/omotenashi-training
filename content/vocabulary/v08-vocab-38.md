@@ -47,4 +47,4 @@ The most consequential mistake here is not telling guests where the emergency ex
 
 **Correct Answer:** 緊急出口は奥です (the emergency exit is at the back)
 
-**Explanation:** 緊急出口 and 非常口 are near-synonyms for emergency exit: 非常口 appears more on official signs while 緊急出口 is used in spoken instruction; staff should know both and use whichever matches the signage in their building.
+**Explanation:** 緊急出口は奥です is correct because a guest asking about the fire exit needs the emergency exit, not a regular entrance or a directional word like 上 or 中. 緊急出口 is the spoken-language form staff use naturally in conversation, while its partner term 非常口 appears on the official green signs — knowing both lets you answer clearly no matter the context.

@@ -47,4 +47,4 @@ The most common timing error is using *konbanwa* too early, in late afternoon wh
 
 **Correct Answer:** こんばんは。(Good evening.)
 
-**Explanation:** 8:15 PM is firmly in the evening: *konbanwa* is the correct greeting. *Konnichiwa* and *ohayō* are wrong for the time. *Otsukaresama desu* is used between staff members, not for guests. A warm *konbanwa* sets exactly the right tone for a late check-in.
+**Explanation:** At 8:15 PM, *konbanwa* is the right greeting because the shift to evening is clearly established. *Konnichiwa* and *ohayō gozaimasu* belong to earlier parts of the day, and *otsukaresama desu* is a phrase shared between colleagues, not offered to arriving guests.

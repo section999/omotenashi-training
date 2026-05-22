@@ -48,4 +48,4 @@ The most common mistake is mispronouncing floor numbers: 一階 is ikkai, not ic
 
 **Correct Answer:** 階 (floor / -th floor)
 
-**Explanation:** 階 is the counter for floors: 5階 (5th floor) is read ごかい; using にございます after the floor number is the standard polite locating phrase in hotel service.
+**Explanation:** 階 is the counter suffix that turns any number into a floor designation, so 5階 (read ごかい) tells a guest exactly which elevator button to press. The other options (分, 秒, 本) count minutes, seconds, and long objects respectively — none of them have any connection to floors.

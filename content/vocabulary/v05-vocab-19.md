@@ -48,4 +48,4 @@ Students often pronounce ナイフ with three clearly separated syllables (na-i-
 
 **Correct Answer:** ナイフ (knife)
 
-**Explanation:** ナイフをご用意いたします: ご用意いたします (we will prepare) is the humble form for setting or providing items, used widely in F&B table service.
+**Explanation:** ナイフ is specifically what this sentence says will be prepared to match the dish. フォーク, スプーン, and 箸 are all valid cutlery items but not the one named in this particular sentence. ご用意いたします is the humble form for preparing or setting items, and knowing it alongside ナイフ prepares you for any table-setting or cutlery request in Western-style dining.

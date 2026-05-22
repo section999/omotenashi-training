@@ -48,4 +48,4 @@ Students often say 上 without specifying which floor, which leaves a guest stan
 
 **Correct Answer:** 上 (up / above)
 
-**Explanation:** 上 (up / above): when combined with 階 (floor), 上 clarifies vertical position; for guests in corridors or shops, 上の棚 (upper shelf) or 上の階 (floor above) are practical examples of daily use.
+**Explanation:** 上 indicates that the storage room is one level higher than the current floor, which is the natural vertical cue in a corridor setting. 下 points in the wrong direction, while 奥 and 外 describe horizontal interior or exterior position rather than height.

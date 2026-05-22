@@ -48,4 +48,4 @@ The most significant error is waiting for a guest to ask for おかわり rather
 
 **Correct Answer:** おかわり (refill / second helping)
 
-**Explanation:** おかわり means a refill: proactively offering おかわり before the guest needs to ask is a core expression of kikubari (attentive anticipation) in F&B service.
+**Explanation:** おかわり means a refill or second helping, the only word that fits お飲み物の〜はいかがでしょうか as an offer to top up a guest's drink. Offering おかわり before the guest has to ask is a practical expression of kikubari, the attentive anticipation of needs that defines quality F&B service. The other options name an order, a provision of food, or water itself, none of which belong in this refill offer.

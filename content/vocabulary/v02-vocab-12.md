@@ -45,4 +45,4 @@ Using サインしてください is a common slip. It makes grammatical sense b
 
 **Correct Answer:** お願い (request / please)
 
-**Explanation:** お願いいただけますでしょうか is the most polite way to request an action: using お願い elevates the request appropriately.
+**Explanation:** お願いいただけますでしょうか wraps the request in layered politeness, turning a potentially awkward ask into a gracious invitation to complete a formality. もらって, して, and 書いて are all plain forms that would sound far too casual or blunt in any formal service context.

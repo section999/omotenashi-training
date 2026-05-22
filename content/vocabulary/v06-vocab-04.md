@@ -45,5 +45,5 @@ Students sometimes reach for クレーム when a simple 問題 would do, unneces
 
 **Correct Answer:** クレーム (complaint)
 
-**Explanation:** クレームに対応いたします: 対応いたします (we will handle/respond) in humble form shows readiness to act; saying it promptly reassures the guest their complaint is valid.
+**Explanation:** クレーム specifically refers to a formal complaint carrying an expectation of action, making it the precise word for the sentence about handling a guest's complaint. 問題 is too general, 故障 describes a mechanical breakdown, and 確認 means confirmation, so none of them carry the same weight as クレーム in this context. 対応いたします in humble form signals immediate readiness to respond.
 

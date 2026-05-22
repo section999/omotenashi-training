@@ -45,4 +45,4 @@ A common confusion is between 税金 (zeikin, general term for tax) and 消費�
 
 **Correct Answer:** 含ま (included)
 
-**Explanation:** 含まれております (fukumarete orimasu) means "is included": the correct and polite expression for explaining what is covered in the price.
+**Explanation:** 含まれております (fukumarete orimasu) is the set phrase for explaining that something is included in the price, and it carries exactly the polite register guests expect when billing is being discussed. 入ら and はいら are grammatically wrong in this construction, while 加えら implies tax is being added on top rather than already built in.

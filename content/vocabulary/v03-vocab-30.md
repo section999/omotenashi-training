@@ -44,5 +44,5 @@ A common mistake is confirming the replacement with a bare 「交換します」
 
 **Correct Answer:** タオルを交換いたします (we will change the towels)
 
-**Explanation:** タオルを交換いたします uses 交換 (exchange/replace) with the humble いたします: the professional way to confirm a replacement request.
+**Explanation:** タオルを交換いたします directly confirms the guest's request using 交換 (replace) with the humble form いたします, which is the required register for guest-facing speech. Saying towels are unavailable, sending housekeeping without a direct response, or offering something the guest did not ask for all miss the point — omotenashi means acting on the request clearly and immediately.
 

@@ -48,5 +48,5 @@ A common error is offering コーヒー without mentioning an alternative, which
 
 **Correct Answer:** コーヒー (coffee)
 
-**Explanation:** 〜はいかがでしょうか is the polite way to offer something: it is softer and more elegant than asking directly, ideal for upselling beverages after a meal.
+**Explanation:** コーヒー is the item the sentence is specifically offering as a post-meal beverage, and 食後にコーヒーはいかがでしょうか is the standard phrase for this moment in Japanese dining service. While お水, 紅茶, and メニュー are all real hospitality vocabulary, only コーヒー fits this familiar after-dinner offer that uses the soft, non-pressuring いかがでしょうか form.
 

@@ -47,4 +47,4 @@ The most common mistake is presenting information to a guest without asking for 
 
 **Correct Answer:** こちらのご予約内容をご確認ください。(Please confirm the details of your reservation.)
 
-**Explanation:** Asking the guest to confirm reservation details before proceeding is both professional and practical. It prevents downstream errors and signals that the property values accuracy. *Kochira no go-yoyaku naiyō wo go-kakunin kudasai* is the standard, clear, polite way to invite that review.
+**Explanation:** Inviting the guest to confirm their reservation details is an act of care, not bureaucracy, because catching a discrepancy before check-in prevents the kinds of errors that genuinely damage a stay. *Kochira no go-yoyaku naiyō wo go-kakunin kudasai* frames that review as a polite invitation rather than a suspicious question, which is exactly the right tone.

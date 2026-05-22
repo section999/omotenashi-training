@@ -44,5 +44,5 @@ A very common oversight is emptying the ゴミ箱 and forgetting to put a fresh 
 
 **Correct Answer:** ゴミ箱はこちらでございます (the trash can is here)
 
-**Explanation:** ゴミ箱はこちらでございます guides the guest politely to the bin: はこちら (over here) with ございます maintains formal hotel tone.
+**Explanation:** ゴミ箱はこちらでございます directly answers the guest's question by pointing them to the bin using こちら (this way/here) with ございます for formal polish. Refusing to help, directing to the bathroom without checking the nearest bin first, or explaining collection schedules all fail to answer a simple "where can I throw this?" in a warm and useful way.
 

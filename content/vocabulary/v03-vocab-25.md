@@ -47,4 +47,4 @@ Students sometimes give a vague instruction like 「窓は開きます」 (the w
 
 **Correct Answer:** 窓は手前に引いて開けてください (please pull the window toward you to open it)
 
-**Explanation:** 窓は手前に引いて開けてください gives a clear physical instruction: directional guidance is essential for guest safety and comfort.
+**Explanation:** 窓は手前に引いて開けてください gives a precise physical action, pull toward you, that guests can follow immediately without guessing. Saying the window does not open, asking guests to look at it, or using the word in a closing context all fail to answer a guest who actually needs to know how to open it.

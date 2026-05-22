@@ -1369,7 +1369,7 @@ function handleQuizCheck(btn) {
     } else {
       opts[sel].classList.add('wrong');
       fb.className = 'quiz-feedback err';
-      fb.textContent = _isVocabFile ? '✗ Incorrect. Try again.' : '✗ Incorrect. ' + (qData.exp || 'Try again.');
+      fb.textContent = '✗ Incorrect. ' + (qData.exp || 'Try again.');
       opts[sel].classList.remove('wrong', 'selected');
       btn.disabled = false;
     }
@@ -1396,7 +1396,7 @@ function handleQuizCheck(btn) {
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
-      fb.textContent = _isVocabFile ? '✗ Incorrect. Try again.' : '✗ Incorrect. ' + (qData.exp || 'Try again.');
+      fb.textContent = '✗ Incorrect. ' + (qData.exp || 'Try again.');
     }
     return;
   }
@@ -1424,7 +1424,7 @@ function handleQuizCheck(btn) {
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
-      fb.textContent = _isVocabFile ? '✗ Some answers are wrong. Try again.' : '✗ Some answers are wrong. ' + (qData.exp || 'Try again.');
+      fb.textContent = '✗ Some answers are wrong. ' + (qData.exp || 'Try again.');
       setTimeout(function() {
         selects.forEach(function(s) { s.classList.remove('wrong') });
       }, 1200);
@@ -1451,7 +1451,7 @@ function handleQuizCheck(btn) {
     } else {
       items.forEach(function(el) { el.style.borderColor = '#c5442a' });
       fb.className = 'quiz-feedback err';
-      fb.textContent = _isVocabFile ? '✗ Incorrect order. Try again.' : '✗ Incorrect order. ' + (qData.exp || 'Try again.');
+      fb.textContent = '✗ Incorrect order. ' + (qData.exp || 'Try again.');
       setTimeout(function() {
         items.forEach(function(el) { el.style.borderColor = '' });
       }, 1200);

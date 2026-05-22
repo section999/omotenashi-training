@@ -45,5 +45,5 @@ Students often treat タオル as a catch-all word for any towel, and that is wh
 
 **Correct Answer:** タオル (towel)
 
-**Explanation:** タオル is the word for towel: こちらがご用意した〜でございます is the polite way to present any prepared item to a guest.
+**Explanation:** タオル is the correct item in this sentence because こちらがご用意した〜でございます is a presentation phrase used when handing something to a guest, and the context is about what was prepared for the room. シーツ, 毛布, and 枕 are all room items, but none of them is a towel, and placing them here would misname what is being presented.
 

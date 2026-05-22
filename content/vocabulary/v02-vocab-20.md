@@ -44,4 +44,4 @@ Staff sometimes use キャンセルする？ when addressing a guest, which soun
 
 **Correct Answer:** ご予約をキャンセルされますか (would you like to cancel your reservation?)
 
-**Explanation:** ご予約をキャンセルされますか uses the honorific ご予約 and the respectful verb form されますか to confirm the guest's intention.
+**Explanation:** ご予約をキャンセルされますか uses ご予約 to show respect for the guest's arrangement and されますか to seek their intent gently rather than assuming it. キャンセルする？ is presumptuous and too casual, while キャンセルです and キャンセルね state a fact rather than asking a question, which is the wrong move when confirming something as significant as ending a reservation.

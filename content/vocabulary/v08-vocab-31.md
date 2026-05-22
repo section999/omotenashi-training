@@ -48,4 +48,4 @@ In practice, the mistake I see most often is leaving 中 out entirely. Students 
 
 **Correct Answer:** 中 (inside / within)
 
-**Explanation:** 中 (inside): telling guests something is 中にございます prevents them from circling a building looking for an outdoor entrance; pairing 中 with 入口はこちら (entrance is here) completes the guidance.
+**Explanation:** 中 (naka) places something unambiguously inside, which is exactly what guests need when trying to locate a reception desk that cannot be seen from the exterior. Other options like 外 (outside), 裏 (behind), and 正面 (front) describe different spatial positions that would send the guest somewhere other than where the reception actually is.

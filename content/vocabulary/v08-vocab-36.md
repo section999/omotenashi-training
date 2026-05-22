@@ -47,4 +47,4 @@ Treating 非常口 information as optional is the most serious mistake in this e
 
 **Correct Answer:** 非常口は奥です (the emergency exit is at the back)
 
-**Explanation:** 非常口 (emergency exit): proactively telling guests 非常口の場所はこちらです during room orientation is best practice; do not wait for a guest to ask, as in a real emergency there may be no time.
+**Explanation:** 非常口は奥です correctly names the emergency exit, which is the term on Japan's standardized green running-figure signs in every public building. A guest asking this question deserves a specific, confident answer — 入口, 正面, and 上 describe places that have nothing to do with evacuation and would be dangerous misdirection in a real emergency.

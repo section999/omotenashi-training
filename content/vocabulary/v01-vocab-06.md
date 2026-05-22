@@ -47,4 +47,4 @@ The most serious mistake is using *moushiwake gozaimasen* too casually, turning 
 
 **Correct Answer:** 申し訳ございません。ただいますぐに対応いたします。(I am very sorry. I will resolve this immediately.)
 
-**Explanation:** A room availability failure is a serious inconvenience requiring the deepest apology. *Moushiwake gozaimasen* communicates genuine responsibility; the immediate commitment to resolve the issue shows that the apology is followed by action. Never minimise or redirect blame before first offering a full, sincere apology.
+**Explanation:** Losing a guest's reserved room is a serious failure that calls for the deepest apology in Japanese hospitality. *Moushiwake gozaimasen* conveys genuine responsibility without deflection, and pairing it immediately with a commitment to resolve shows the guest that words and action are inseparable. Lighter phrases like *sumimasen* or *shitsurei itashimasu* are far too mild for a situation this significant.

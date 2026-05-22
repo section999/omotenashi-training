@@ -47,5 +47,5 @@ A critical error is for staff to downplay a 水漏れ and delay calling maintena
 
 **Correct Answer:** 水漏れを確認いたします (we will check the water leak)
 
-**Explanation:** 水漏れを確認いたします: water leaks can escalate quickly; responding with 確認いたします immediately and notifying maintenance without delay is both the safe and service-focused action.
+**Explanation:** 水漏れを確認いたします commits staff to taking immediate, professional action, which is exactly what a water leak demands given how fast it can escalate into a safety hazard. Offering a room change before confirming the leak (B) skips the assessment step, while asking the guest to wipe up the water (D) shifts responsibility to the wrong person entirely.
 

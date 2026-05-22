@@ -44,5 +44,5 @@ The most frequent error here is simply pointing to the 冷蔵庫 and saying 「�
 
 **Correct Answer:** 冷蔵庫はご自由にお使いください (please feel free to use the refrigerator)
 
-**Explanation:** 冷蔵庫はご自由にお使いください warmly invites the guest to use the fridge freely: a welcoming and clear response.
+**Explanation:** 冷蔵庫はご自由にお使いください warmly grants permission in a way that is both polite and immediately clear. Saying it cannot be used contradicts standard hotel practice, どうぞ alone is too abrupt for a professional response, and leading with a minibar charge statement misrepresents the situation when the guest simply wants to store their own drinks.
 

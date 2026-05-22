@@ -44,4 +44,4 @@ Learners sometimes default to the casual あそこ (over there) when speaking to
 
 **Correct Answer:** あちら側です (it is over there)
 
-**Explanation:** あちら側 (that side over there): pointing while saying あちら側 is essential because the word alone is ambiguous without a gesture; in hotel service, physical guidance or a pointed hand always accompanies こちら/あちら.
+**Explanation:** あちら側 politely directs the guest to the far side of the space, which is the appropriate term when the restroom is not near the speaker. Always pair it with a clear gesture or an offer to escort, because the word is spatially relative and loses its meaning without a shared visual reference point.

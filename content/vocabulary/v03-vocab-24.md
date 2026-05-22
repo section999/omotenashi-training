@@ -45,5 +45,5 @@ Learners sometimes omit the rotational direction when explaining key use: saying
 
 **Correct Answer:** 鍵穴 (keyhole)
 
-**Explanation:** 鍵穴 means keyhole: used when explaining how to use a physical key, an important detail for guests unfamiliar with older-style locks.
+**Explanation:** 鍵穴 is the keyhole, the specific opening where a physical key is inserted and turned, which is exactly what the sentence describes. 金庫 is the safe as a whole unit, ドア is the door itself, and 窓 is the window, none of which is where you insert a key to operate a lock.
 

@@ -45,5 +45,5 @@ A common error is using お風呂場 instead of 浴室 in formal hotel speech. B
 
 **Correct Answer:** 浴室 (bathroom / bath)
 
-**Explanation:** 浴室 is the formal term for bathroom: used when describing room features or guiding guests to facilities.
+**Explanation:** 浴室 names the entire bathing space, making it the right word when describing overall room quality with 広くて清潔. 洗面所 refers specifically to the sink and vanity area, トイレ is the toilet room, and シャワー names just the shower appliance, so none of those covers the full bathing room the sentence is describing.
 

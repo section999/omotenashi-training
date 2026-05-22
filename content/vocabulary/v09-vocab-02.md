@@ -47,4 +47,4 @@ The most frequent error is using 予約日 and 宿泊日 as if they mean the sam
 
 **Correct Answer:** 予約日 (reservation date)
 
-**Explanation:** 予約日 (booking date) is distinct from 宿泊日 (stay date): a guest who booked two months ago would have a 予約日 in February even if their 宿泊日 is in April; keeping these separate prevents billing and eligibility errors.
+**Explanation:** 予約日 is the specific date the booking was made, which is the only answer to "when did I make this reservation." 宿泊日 is when the guest sleeps at the hotel, 到着日 is the first day of that stay, and 出発日 is when they leave — all three describe the stay itself, not the moment the reservation was created.

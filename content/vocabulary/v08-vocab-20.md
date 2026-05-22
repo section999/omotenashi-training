@@ -47,5 +47,5 @@ The most serious mistake is using 向かい when the intended meaning is 隣 (ne
 
 **Correct Answer:** 駅の向かいです (it is across from the station)
 
-**Explanation:** 向かい (directly opposite): always name the reference point (駅の向かい, ホテルの向かい) so guests know what to look across from; without the reference, 向かい is ambiguous.
+**Explanation:** 向かい means directly across from a known reference point, so 駅の向かいです gives guests a clear visual line: look at the station and the pharmacy is facing you from the other side. 隣 would place it beside the station rather than across from it, and 奥 or 手前 describe interior depth, not a position across a road or corridor.
 

@@ -45,4 +45,4 @@ Students frequently reach for 見る (miru) rather than 拝見する (haiken sur
 
 **Correct Answer:** 拝見 (to humbly look at / see)
 
-**Explanation:** 拝見 is the humble form of seeing/examining: the correct polite verb when requesting to view any document or card.
+**Explanation:** 拝見 is the humble form of viewing another person's belongings, making it the only appropriate verb when asking to see a guest's credit card. 確認 sounds like a procedural check, 見て is too casual and direct, and 使用 means to use the card, which is not what you are asking permission to do.

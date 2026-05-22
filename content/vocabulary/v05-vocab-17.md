@@ -45,4 +45,4 @@ A common mistake is defaulting to leading the guest to a 禁煙席 without askin
 
 **Correct Answer:** 禁煙席 (non-smoking seat)
 
-**Explanation:** 禁煙席 means non-smoking seat: always confirming smoking preference at seating prevents complaints and shows attentiveness to guest comfort from the first moment.
+**Explanation:** 禁煙席 is the non-smoking seat, which is one of the two choices presented in the paired question. The question is asking about preference, not confirming availability, so 満席 (no seats) and 予約席 (reserved seat) are unrelated concepts, and 喫煙席 is the opposite answer. Asking this question before seating shows attentiveness to guest comfort right from the first moment of the dining experience.

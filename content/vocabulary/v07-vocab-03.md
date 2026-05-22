@@ -45,5 +45,5 @@ Students sometimes use ロビー and フロント interchangeably, but フロン
 
 **Correct Answer:** ロビー (lobby)
 
-**Explanation:** ロビー is the natural meeting point in a hotel: directing guests there with お待ち合わせは〜でお願いいたします is the standard phrase for designating a rendezvous location politely.
+**Explanation:** ロビー is the recognized central gathering space guests expect to meet in, and お待ち合わせは〜でお願いいたします is the standard phrasing for designating a rendezvous point. フロント is the service counter rather than an open waiting area, and a レストラン or 駐車場 would be unnecessarily inconvenient and imprecise for this purpose.
 

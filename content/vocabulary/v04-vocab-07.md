@@ -44,5 +44,5 @@ Students often reach for 交換します when responding to a towel request, but
 
 **Correct Answer:** タオル交換はご希望のときに承ります (towel changes are available upon request)
 
-**Explanation:** タオル交換はご希望のときに承ります means "we will handle towel changes whenever you wish": 承ります is the polite humble form of receiving a request.
+**Explanation:** タオル交換はご希望のときに承ります puts the guest in control by offering the service whenever they want it, using 承ります — the humble form for accepting a request — which carries warmth that 交換します lacks. The other options describe schedules, storage locations, or checkout procedures, none of which actually offers the service to the guest.
 

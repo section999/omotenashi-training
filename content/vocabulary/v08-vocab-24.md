@@ -44,5 +44,5 @@ The most common mistake is omitting 約 when giving estimates, which makes the f
 
 **Correct Answer:** 徒歩約10分です (it is about 10 minutes on foot)
 
-**Explanation:** 約 (approximately) sets a realistic expectation: saying 約10分 is more honest than a precise number you cannot guarantee; guests appreciate accuracy over optimistic underestimates that lead to frustration.
+**Explanation:** 徒歩約10分です combines the walking mode (徒歩) with a hedged estimate (約) that honestly accounts for traffic lights and pace, setting the guest's expectations correctly from the start. Saying 徒歩1分 would be misleading, and bare answers like 遠くです or 隣です give no practical time information at all.
 

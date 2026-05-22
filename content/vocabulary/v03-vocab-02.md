@@ -47,5 +47,5 @@ A frequent error is using plain 部屋 without the honorific お in spoken guest
 
 **Correct Answer:** あなたの部屋は… (your room is...)
 
-**Explanation:** 部屋 is the natural conversational form when speaking directly with a guest: 客室 is more formal and used in written contexts.
+**Explanation:** When a guest asks a direct question in casual speech, 部屋 (or its honorific form お部屋) matches that register and feels natural rather than stiff. 客室 is the right word in written materials and official announcements, but responding to a guest's casual question with 客室 can feel cold, while フロント and 受付 name hotel departments, not the guest's own room.
 

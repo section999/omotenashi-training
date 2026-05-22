@@ -44,5 +44,5 @@ Students sometimes use plain forms such as 「トイレあります」 or 「ト
 
 **Correct Answer:** トイレはこちらでございます (the restroom is here)
 
-**Explanation:** トイレはこちらでございます uses こちら to indicate direction and ございます for politeness: the standard guiding phrase.
+**Explanation:** トイレはこちらでございます combines the directional こちら with the polite ございます, giving the guest a clear and respectful answer to where the toilet is. The other options use plain or casual verb forms like あります, です, and どうぞ that fall below the register expected in professional hospitality, even for a simple directional question.
 

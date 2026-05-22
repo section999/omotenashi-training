@@ -44,5 +44,5 @@ Learners sometimes give only the word エアコン without explaining how to use
 
 **Correct Answer:** エアコンはこちらで操作できます (you can operate the air conditioning here)
 
-**Explanation:** エアコンはこちらで操作できます directs the guest to the controls clearly: always pair guidance with a gesture or pointing.
+**Explanation:** エアコンはこちらで操作できます points the guest directly to the controls so they can adjust the temperature themselves, which is the most practically helpful answer. Saying the unit cannot be used or that staff will operate it on the guest's behalf both take away the guest's independence, and while pointing to the remote location is useful, it does not by itself tell the guest how to operate the unit.
 

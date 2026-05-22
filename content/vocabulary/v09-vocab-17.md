@@ -45,5 +45,5 @@ Introducing 素泊まり with apologetic language is an easy trap to fall into, 
 
 **Correct Answer:** 素泊まり (room only (no meals))
 
-**Explanation:** 素泊まり (room only) is the base plan: when informing a guest they are on 素泊まり, always mention nearby restaurant options or room service to demonstrate care even when meals are not included in their booking.
+**Explanation:** 素泊まり specifically means a stay with no meals at all, which matches the situation described. 朝食付き and 夕食付き both include at least one meal, making them the opposite of what the sentence states, and 特典 is a perk rather than a plan type.
 

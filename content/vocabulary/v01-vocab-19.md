@@ -47,4 +47,4 @@ One more thing to be careful about: do not use *o-ki wo tsukete* when a guest is
 
 **Correct Answer:** いってらっしゃいませ。お気をつけて。(Please go safely and come back. Take care.)
 
-**Explanation:** *Itterasshai mase* is used when someone is leaving but will return: it acknowledges the departure and anticipates the return. *O-ki wo tsukete* adds the expression of genuine care for their safety during the outing. Together they are the perfect farewell for a guest heading out for the day.
+**Explanation:** *Itterasshai mase* is precisely for temporary departures, acknowledging that the guest is leaving while anticipating their return, and *o-ki wo tsukete* adds the personal touch of genuine concern for their safety along the way. *Sayōnara* implies a final goodbye, *mata o-koshi kudasaimase* is a closing farewell for those who are not coming back, and *arigatō gozaimashita* thanks rather than sends off.

@@ -47,5 +47,5 @@ A frequent mistake is approaching the table before the guest has had enough time
 
 **Correct Answer:** ご注文をお伺いいたします (I will take your order)
 
-**Explanation:** ご注文をお伺いいたします: お伺いいたします is the deeply humble form of "to hear / to receive", expressing that the guest's order is an honour to receive.
+**Explanation:** ご注文をお伺いいたします signals that you are ready to take the guest's order using お伺いいたします, the deeply humble form of "to hear," which treats receiving their selection as an honour. The other options either bring the menu, guide to a seat, or delay service, none of which address a guest who is ready to order.
 

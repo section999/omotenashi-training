@@ -44,4 +44,4 @@ A frequent error is asking チェックインしますか? rather than チェッ
 
 **Correct Answer:** チェックインでございますか？ (are you checking in?)
 
-**Explanation:** チェックインでございますか？ uses the honorific ございます form, appropriate for confirming a guest's purpose upon arrival.
+**Explanation:** *Chekku-in de gozaimasu ka* confirms the guest's purpose graciously, using *de gozaimasu* to frame the question as a gentle, respectful check rather than a blunt demand. *Chekku-in shimasu ka* sounds abrupt and puts the action on the guest, while the casual or bare forms have no place at a hotel front desk.

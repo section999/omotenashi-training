@@ -47,4 +47,4 @@ The most common mistake is asking a guest to wait and then not returning promptl
 
 **Correct Answer:** 少々お待ちください。(Please wait just a moment.)
 
-**Explanation:** *Shōshō o-machi kudasai* is the standard phrase when briefly stepping away. The *shōshō* tells the guest the wait will be short. Remember to say *o-matase itashimashita* (thank you for waiting) when you return: the phrase is incomplete without its follow-through.
+**Explanation:** *Shōshō o-machi kudasai* is the right phrase because *shōshō* signals a brief wait, communicating to the guest that their time is respected and you will be back quickly. The other options either belong to different situations or lack this forward-looking reassurance; always complete the exchange by saying *o-matase itashimashita* when you return.

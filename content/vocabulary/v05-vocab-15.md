@@ -48,4 +48,4 @@ A frequent mistake is using the casual チェック (check), borrowed from Engli
 
 **Correct Answer:** 会計 (billing / accounting)
 
-**Explanation:** お会計はこちらで承ります: 承ります is the humble form of receiving (a request/payment), appropriate at the cashier or tableside when settling the bill.
+**Explanation:** 会計 means the bill or the act of settling payment, making it the word that completes お〜はこちらで承ります correctly. 承ります is the humble form of receiving a request or payment, which sets exactly the right respectful tone at the point of checkout. The other options refer to ordering, the menu, or serving food, which belong to earlier stages of the dining experience.

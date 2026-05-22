@@ -45,5 +45,5 @@ A common mistake is using 掃除 instead of 清掃 in formal guest-facing contex
 
 **Correct Answer:** 完了 (completion / done)
 
-**Explanation:** 完了いたします means "will be completed": informing guests of the cleaning schedule helps them plan their day accordingly.
+**Explanation:** 完了いたします means the cleaning will be finished by that time, giving guests a clear endpoint they can plan around. 開始 would mean cleaning only starts at 10 a.m. without a finish time, 中止 would mean it is cancelled, and 延期 would mean it is postponed, all of which leave guests with incomplete or misleading information about their room's availability.
 

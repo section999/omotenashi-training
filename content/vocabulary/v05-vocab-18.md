@@ -44,4 +44,4 @@ Staff sometimes make the mistake of appearing apologetic or hesitant when escort
 
 **Correct Answer:** 喫煙席はこちらでございます (the smoking seat is here)
 
-**Explanation:** 喫煙席はこちらでございます: はこちら (this way) with ございます is the standard directional phrase; it guides without judgment, respecting the guest's choice.
+**Explanation:** 喫煙席はこちらでございます guides the guest to the smoking section using the standard directional phrase はこちら (this way), with ございます keeping the tone appropriately formal. The other options either question the guest's choice, mention that no smoking section exists, or redirect to a different area, none of which fulfil the simple job of respectfully directing a guest who has already expressed their preference.

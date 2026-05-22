@@ -45,4 +45,4 @@ Students sometimes say 右です without adding a landmark or verb, which leaves
 
 **Correct Answer:** 右 (right)
 
-**Explanation:** 右 means right: when giving directional guidance, combining 右 with a landmark (次の角, this corner) makes the instruction concrete and reduces the chance of misunderstanding.
+**Explanation:** 右 is the only word that correctly answers "turn right," and pairing it with 次の角 gives the guest a concrete reference point so they know exactly where the turn happens. 左 points in the opposite direction, while 奥 (further in) and 手前 (near side) describe depth along a path rather than a directional turn.

@@ -45,4 +45,4 @@ Students often slip into using 泊まる or 泊まります in formal guest inte
 
 **Correct Answer:** 宿泊 (accommodation / stay)
 
-**Explanation:** ご宿泊の期間 means "your stay period." This is the standard phrasing used at the front desk to confirm a guest's check-in and check-out dates. 宿泊 specifically refers to the act of staying overnight, making it the precise and professional choice here.
+**Explanation:** 宿泊 specifically means an overnight stay, so ご宿泊の期間 is the precise, professional way to ask about a guest's check-in and check-out dates at the front desk. 到着 and 出発 refer to single moments in a journey rather than the full span of a stay, and 予約 names the booking itself rather than the period being confirmed.

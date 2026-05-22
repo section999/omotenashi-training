@@ -45,5 +45,5 @@ A frequent error is using plain あります instead of ございます when des
 
 **Correct Answer:** ございます (there is / we have (polite))
 
-**Explanation:** ございます is the formal equivalent of あります: always use ございます when describing room features or locations to guests.
+**Explanation:** ございます is the formal equivalent of あります and the required choice whenever you describe the location of a room feature to a guest. あります is grammatically correct but too casual for hotel speech, います and おります are used for living beings rather than places, so substituting any of them would either lower the register or produce an unnatural sentence.
 

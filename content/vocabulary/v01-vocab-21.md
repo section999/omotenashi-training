@@ -47,4 +47,4 @@ Using *go-rikai kudasai* without an apologetic lead-in is the most common mistak
 
 **Correct Answer:** 誠に申し訳ございません。本日は温泉のメンテナンスのため、ご利用いただけない状況でございます。ご理解のほど、よろしくお願いいたします。(I am very sorry. The hot spring is currently undergoing maintenance and is unavailable this evening. We ask for your kind understanding.)
 
-**Explanation:** A full apology (*makoto ni moushiwake gozaimasen*) comes first, followed by a clear explanation, and finally the softened request for understanding (*go-rikai no hodo, yoroshiku o-negai itashimasu*). This sequence respects the guest's disappointment while communicating the limitation clearly and with care.
+**Explanation:** Leading with a full apology respects the guest's disappointment before anything else is said, and the clear explanation then gives the limitation real context. Ending with the softened *go-rikai no hodo, yoroshiku o-negai itashimasu* turns what could feel like a flat refusal into a humble, human request for patience.

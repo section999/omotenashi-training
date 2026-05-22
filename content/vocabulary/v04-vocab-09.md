@@ -44,5 +44,5 @@ Placing a partially used bar of 石鹸 in a freshly serviced room is a hygiene e
 
 **Correct Answer:** 石鹸をお持ちいたします (I will bring soap)
 
-**Explanation:** 石鹸をお持ちいたします means "I will bring you soap": お持ちいたします is humble and formal, appropriate for any guest-facing response.
+**Explanation:** 石鹸をお持ちいたします commits to immediate action using the humble form お持ちいたします, which is exactly what omotenashi calls for when a guest makes a simple request. Saying soap is unavailable or already provided misses the guest's actual need, and 石鹸どうぞ alone is too abrupt for a professional hotel interaction.
 

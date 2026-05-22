@@ -47,4 +47,4 @@ A frequent gap is using 外 without saying which exit to use. A hotel with multi
 
 **Correct Answer:** 外です (it is outside)
 
-**Explanation:** 外 (outside): directing guests 外 is also an opportunity to add context (建物を出て右側です); since smokers sometimes return by a side door, giving a re-entry instruction is good proactive service.
+**Explanation:** Smoking areas in Japanese hotels are almost always placed 外 (outside the building) for ventilation and legal compliance, so 外です is the natural and correct answer. Pairing the direction with a specific exit name and a weather note, if rain is forecast, turns a simple 外 into genuinely thoughtful guidance.

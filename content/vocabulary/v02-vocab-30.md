@@ -47,4 +47,4 @@ Students often introduce themselves simply as フロントです, which is too c
 
 **Correct Answer:** 私はフロント係でございます (I am the front desk staff)
 
-**Explanation:** 私はフロント係でございます uses the formal 私 and ございます: professional and polite for any self-introduction in a hospitality context.
+**Explanation:** 私はフロント係でございます names the role clearly with 私 and elevates the introduction with ございます, giving guests an immediate and confident sense of who they are speaking with. フロント係です is grammatically fine but falls short of the formal register expected in professional hospitality, and the remaining options are either functionally broken or far too casual.

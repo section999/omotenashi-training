@@ -44,5 +44,5 @@ Students often default to シーツを変えます, which is grammatically fine 
 
 **Correct Answer:** シーツを交換いたします (we will change the bed sheets)
 
-**Explanation:** シーツを交換いたします uses the humble いたします: the professional way to confirm you will replace something for the guest.
+**Explanation:** シーツを交換いたします names the correct item and uses the humble いたします, which is the appropriate register when fulfilling a guest's request. Refusing the request or citing a post-checkout policy both fail the guest, and while option D is polite, it delays the response without confirming that the sheet change will actually happen.
 

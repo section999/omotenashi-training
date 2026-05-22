@@ -47,5 +47,5 @@ A frequent error is dropping the honorific language when discussing Wi-Fi, sayin
 
 **Correct Answer:** Wi-Fiをご利用いただけます (Wi-Fi is available)
 
-**Explanation:** Wi-Fiをご利用いただけます: ご利用いただけます (you are able to use) is the polite way to confirm service availability; it positions access as a privilege prepared for the guest.
+**Explanation:** Wi-Fiをご利用いただけます confirms availability in polite form and frames the service as something the property has prepared for the guest's benefit, which is the spirit of omotenashi. Simply saying ありません or 無理 would be both inaccurate and register-inappropriate, while 知らない is never acceptable as a guest-facing response.
 

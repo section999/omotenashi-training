@@ -44,4 +44,4 @@ The most serious mistake is announcing 満室 without the accompanying apology. 
 
 **Correct Answer:** 本日は満室でございます (we are fully booked today)
 
-**Explanation:** 本日は満室でございます uses ございます and specifies 本日 (today), making the refusal polite and informative.
+**Explanation:** 本日は満室でございます uses ございます for formal register and 本日 to scope the refusal to today only, which keeps the door open for future nights. The other options are either casual, grammatically broken, or — in the case of 満室ある — mean the opposite of what you need to say.

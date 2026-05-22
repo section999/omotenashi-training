@@ -44,5 +44,5 @@ A frequent mistake is using 少々お待ちください without the follow-up �
 
 **Correct Answer:** 少々お待ちくださいませ (please wait a moment (very polite))
 
-**Explanation:** 少々お待ちくださいませ: adding ませ to ください elevates the politeness level further; in premium hotel service this extra formality signals that the guest's time is respected.
+**Explanation:** 少々お待ちくださいませ is the gold-standard phrasing for asking a guest to wait: 少々 keeps the implied duration brief, and ませ at the end lifts the register one level above plain ください. The other options, 待って, 待て, and 待ちなさい, are all command forms entirely unsuitable for guest-facing speech in any hotel setting.
 

@@ -48,5 +48,5 @@ The most common mistake is using 使う or 使用 in guest-facing sentences inst
 
 **Correct Answer:** 利用 (use / usage)
 
-**Explanation:** 利用いただけます: ご利用いただけます is the standard phrase for describing services available to guests; 自由に (freely) emphasizes that no special request is needed to use the facility.
+**Explanation:** ご利用いただけます is the standard form for describing a service the property has prepared for the guest, framing access as a benefit rather than a transaction. 修理 and 対応 describe staff actions rather than guest access, and 確認 means to verify something rather than to use it.
 

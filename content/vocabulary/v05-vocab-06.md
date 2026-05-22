@@ -48,5 +48,5 @@ A common mistake is simply placing the menu on the table without any accompanyin
 
 **Correct Answer:** メニュー (menu)
 
-**Explanation:** メニュー is the menu: こちらが本日の〜でございます is the standard phrase for presenting the menu at tableside with appropriate ceremony.
+**Explanation:** メニュー is the word for the menu itself, the item being presented in this sentence. 注文 means an order, 提供 means provision or serving, and 会計 means billing, so none of them fit the act of handing over the document guests read before ordering. こちらが本日の〜でございます is the standard tableside presentation phrase, and only メニュー completes it correctly.
 

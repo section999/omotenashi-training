@@ -48,4 +48,4 @@ Mixing up 宿泊日 and 予約日 is a very common error: a guest who booked wee
 
 **Correct Answer:** 宿泊日 (stay date)
 
-**Explanation:** 宿泊日 encompasses the full stay window: knowing the guest's 宿泊日 allows staff to pre-assign the room, schedule housekeeping, and prepare any meal or amenity inclusions before arrival.
+**Explanation:** 宿泊日 is the term for the complete stay window from check-in to check-out, covering both dates collectively in one word. 予約日 is when the booking was made, while 到着日 and 出発日 each name just one endpoint of the stay rather than the full range the question is asking about.

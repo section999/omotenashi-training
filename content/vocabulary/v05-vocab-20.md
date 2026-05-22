@@ -44,4 +44,4 @@ A very common error among new staff is confusing left and right placement: フ�
 
 **Correct Answer:** フォークをお持ちいたします (I will bring a fork)
 
-**Explanation:** フォークをお持ちいたします: responding immediately with お持ちいたします (I will bring it) shows attentiveness and prevents the guest from feeling their need was dismissed.
+**Explanation:** フォークをお持ちいたします addresses the guest's specific need directly and immediately, which is exactly right when a guest has just said they do not have what they need. Bringing a spoon or offering chopsticks misses the actual request, and asking whether they also want a knife before confirming the fork is in hand puts the secondary concern ahead of the first. お持ちいたします shows attentiveness without delay.

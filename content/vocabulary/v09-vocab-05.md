@@ -47,4 +47,4 @@ One recurring confusion is when a guest says they are staying "until the 12th." 
 
 **Correct Answer:** 出発日 (departure date)
 
-**Explanation:** 出発日 is the anchor point for extensions: checking the original 出発日 first tells staff which night needs to be added and whether the room is available the following night before making any promise to the guest.
+**Explanation:** 出発日 is the departure date, and extending a stay means pushing that date forward, so confirming it first is the natural first step before checking room availability. 到着日 is already fixed, 宿泊日 is a broad term for the whole stay, and 予約日 is when the booking was made — none of these tell you which specific night needs to be added.

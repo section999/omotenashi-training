@@ -44,5 +44,5 @@ The most common staff error is agreeing with 暑いですね and doing nothing f
 
 **Correct Answer:** 空調を確認いたします (we will check the air conditioning)
 
-**Explanation:** 空調を確認いたします: responding with a concrete action (checking the air conditioning) rather than agreeing (暑いですね) shows the guest that comfort is being prioritised.
+**Explanation:** 空調を確認いたします responds to a heat complaint with a concrete action rather than sympathy alone, showing that guest comfort is genuinely being prioritised. Agreeing with 暑いですね sounds empathetic but communicates inaction, while 我慢してください and 知らない are both completely unacceptable responses in a Japanese hospitality setting.
 

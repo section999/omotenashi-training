@@ -45,4 +45,4 @@ Staff sometimes skip the verbal phrase entirely and simply hand the ルームキ
 
 **Correct Answer:** どうぞ (please / go ahead)
 
-**Explanation:** どうぞ is the natural completion: it invites the guest to take the key and creates a warm, welcoming handover.
+**Explanation:** どうぞ is the natural follow-up that invites the guest to receive the key, turning the handover into a warm, welcoming gesture rather than just a transaction. ありがとうございます would be thanking the guest, かしこまりました acknowledges an instruction from someone else, and 失礼いたします is used when excusing yourself — none of those fit the moment of presenting a room key.

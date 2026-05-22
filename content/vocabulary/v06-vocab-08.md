@@ -45,5 +45,5 @@ The most common mistake is echoing a guest's casual language by saying うるさ
 
 **Correct Answer:** 対応 (response / handling)
 
-**Explanation:** 騒音について対応いたします: 対応いたします covers both investigating and resolving; using it shows the guest that their comfort concern is being acted upon, not just acknowledged.
+**Explanation:** 対応 means handling or addressing a situation, and paired with 騒音について it tells the guest that the noise issue is being acted upon, not just noted. 確認 means only checking, 修理 means repairing something broken, and 案内 means providing guidance, so none of them capture the full response that a noise complaint requires.
 

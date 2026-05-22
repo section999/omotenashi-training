@@ -47,5 +47,5 @@ Students often use 接続する in its plain dictionary form when speaking to gu
 
 **Correct Answer:** 接続方法をご案内いたします (I will guide you on how to connect)
 
-**Explanation:** 接続方法をご案内いたします: ご案内いたします (I will guide you) is the humble form for directing or explaining; 方法 (method) narrows the offer specifically to the how-to process.
+**Explanation:** 接続方法をご案内いたします addresses the guest's actual need: help connecting their device, not just receiving a password or hearing about router locations. ご案内いたします is the humble form that positions the staff member as a guide rather than a mere information dispenser, which is the right hospitality posture here.
 

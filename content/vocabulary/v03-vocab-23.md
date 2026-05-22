@@ -44,5 +44,5 @@ A common error is giving only the minimal instruction 「ドアは鍵をかけ�
 
 **Correct Answer:** ドアは内側から鍵を回してください (please lock the door from the inside)
 
-**Explanation:** ドアは内側から鍵を回してください clearly explains the action: security instructions must always be clear and complete.
+**Explanation:** ドアは内側から鍵を回してください gives a precise, actionable instruction that directly answers how to lock the door from inside. The other options either name the wrong action entirely (opening rather than locking) or use such casual, incomplete phrasing that a guest would not know what to do with them in a real security situation.
 

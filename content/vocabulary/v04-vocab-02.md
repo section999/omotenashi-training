@@ -44,5 +44,5 @@ A common mistake is writing 掃除中 instead of 清掃中 on official signage. 
 
 **Correct Answer:** 清掃中 (being cleaned / cleaning in progress)
 
-**Explanation:** 清掃中 signals that cleaning is actively in progress: it prevents guests from entering and protects staff privacy during work.
+**Explanation:** 清掃中 means cleaning is actively in progress right now, which is exactly what a guest needs to know when they approach their room. 清掃済み is the opposite — cleaning is finished — while 使用中 just means occupied with no cleaning implied, and 掃除なし is not a real hospitality sign at all.
 

@@ -47,4 +47,4 @@ The most common mistake is saying *o-tsukaresama desu* directly to a guest who l
 
 **Correct Answer:** お疲れ様です。(Thank you for your hard work.)
 
-**Explanation:** *O-tsukaresama desu* is the standard collegial acknowledgement when passing a coworker during a shift or when they have been working. It builds team solidarity and is expected in Japanese workplace culture. *Go-kurōsama desu* looks similar but carries a hierarchical implication that would be inappropriate between equals.
+**Explanation:** *O-tsukaresama desu* is the phrase that builds team solidarity by acknowledging a colleague's effort, and it is expected whenever you pass someone mid-shift in Japanese workplace culture. *Go-kurōsama desu* looks and sounds similar but flows downward in the hierarchy, so using it between equals carries an unintentional air of condescension.

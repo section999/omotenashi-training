@@ -47,5 +47,5 @@ The most serious error is delivering 閉店 without an apology or alternative. T
 
 **Correct Answer:** 申し訳ございませんが、すでに閉店しております (I am sorry, but we are already closed)
 
-**Explanation:** 申し訳ございませんが、すでに閉店しております: 申し訳ございません (I sincerely apologize) first softens the refusal; すでに (already) explains the timing; この後〜はいかがでしょうか as a follow-up offer maintains omotenashi even while closing.
+**Explanation:** 申し訳ございませんが、すでに閉店しております leads with a sincere apology, states the closure clearly, and opens the door for a follow-up offer such as room service, which is exactly how omotenashi handles a late arrival. 無理です, 帰ってください, and 知らない are all failures of both register and care that no trained hospitality professional should use.
 

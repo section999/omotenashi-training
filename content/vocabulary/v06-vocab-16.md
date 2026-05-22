@@ -48,5 +48,5 @@ A common mistake is reciting the password verbally without offering a written co
 
 **Correct Answer:** パスワード (password)
 
-**Explanation:** パスワードはこちらでございます: はこちら (here it is) with ございます is the standard phrase for presenting information; writing the password down also prevents misunderstanding.
+**Explanation:** パスワード is the correct term specifically for the Wi-Fi access credential, and はこちらでございます is the polished phrasing for presenting it to a guest. 接続 (connection) and 利用 (use) describe actions, not the credential itself, and 設備 refers to physical equipment rather than account information.
 

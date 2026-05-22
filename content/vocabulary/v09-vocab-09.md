@@ -48,4 +48,4 @@ Quoting a total 人数 without breaking it down into 大人 and 子供 is a very
 
 **Correct Answer:** 人数 (number of people)
 
-**Explanation:** 人数 determines room capacity and billing: hotels have legal fire capacity limits per room, so confirming 人数 is not just a service step but also a safety obligation that staff must never skip.
+**Explanation:** 人数 is the total count of guests, and it drives room assignment, meal preparation, and fire safety compliance all at once. 日数 tells you how long the stay is, 到着日 tells you when it starts, and 予約日 tells you when the booking was made — none of these answer how many people will be in the room.

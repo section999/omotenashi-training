@@ -47,4 +47,4 @@ The most common mistake is using *wakarimashita* in a formal hospitality context
 
 **Correct Answer:** かしこまりました。すぐにお持ちいたします。(Certainly. I will bring them right away.)
 
-**Explanation:** In a luxury hospitality setting, *kashikomarimashita* is the gold standard response. It conveys complete, respectful reception of the request. Pairing it immediately with the action (*sugu ni o-mochi itashimasu*) shows that acknowledgement and action are one continuous commitment.
+**Explanation:** *Kashikomarimashita* is the highest-register acknowledgement in Japanese service language, and a luxury ryokan is precisely the setting that calls for it. Pairing it with an immediate action phrase shows the guest that receiving their request and acting on it are one seamless commitment, not two separate steps.

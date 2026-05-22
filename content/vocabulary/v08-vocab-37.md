@@ -48,4 +48,4 @@ Students often use 避難経路 only when talking about fires, but the term appl
 
 **Correct Answer:** 避難経路 (evacuation route)
 
-**Explanation:** 避難経路 (evacuation route): knowing this word is essential not just for guests but for all hotel staff; 避難経路に従う (follow the evacuation route) is the core instruction in any fire or disaster drill.
+**Explanation:** 避難経路 is the full path from inside the building to a safe outdoor assembly area, making it exactly what guests need to follow in a fire. The other options are all navigation tools for everyday use: 案内図, フロアマップ, and 案内板 help guests find facilities, but none of them lead to safety in an emergency.

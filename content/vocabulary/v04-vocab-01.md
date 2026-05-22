@@ -45,5 +45,5 @@ Students often use 掃除 interchangeably with 清掃, but on formal hotel signa
 
 **Correct Answer:** 掃除 (cleaning)
 
-**Explanation:** 掃除 means general cleaning: used when describing daily room maintenance across all areas of the hotel.
+**Explanation:** 掃除 is the right word for the general, all-areas cleaning work that happens in guest rooms every morning, covering everything from dusting to vacuuming. 点検 means inspection, 修理 means repair, and 補充 means restocking — each is a different task, and none of them describes the broad daily cleaning routine that this sentence refers to.
 

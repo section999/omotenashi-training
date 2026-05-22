@@ -45,4 +45,4 @@ Learners sometimes pronounce 二階 as ni-gai under the influence of other irreg
 
 **Correct Answer:** 二階 (second floor)
 
-**Explanation:** 二階 is a very common floor for hotel restaurants and function rooms: always follow a floor number with にございます or エレベーターをご利用ください to give guests both location and access guidance.
+**Explanation:** 二階 is the standard floor for hotel restaurants and conference rooms in many Japanese properties, making it the natural answer here. The other choices name incorrect floors, and a complete service response pairs the floor number with にございます and an access instruction like エレベーターをご利用ください.

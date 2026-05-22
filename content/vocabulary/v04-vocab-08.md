@@ -45,5 +45,5 @@ Students often mix up 補充 and 交換. The distinction is straightforward once
 
 **Correct Answer:** 補充 (replenishment / refill)
 
-**Explanation:** 補充 means refilling or restocking: it applies to toiletries, minibar, and any consumables that must be topped up during a guest's stay.
+**Explanation:** 補充 means replenishing or topping up consumable items like toiletries, tea bags, and minibar stock — the daily act of making sure nothing runs out. 掃除 is general cleaning, 交換 means replacing one item with another, and 点検 is a formal inspection, so none of them describe the act of refilling supplies the sentence refers to.
 

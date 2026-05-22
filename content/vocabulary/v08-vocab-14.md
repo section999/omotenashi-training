@@ -47,4 +47,4 @@ Learners sometimes use 手前 as a synonym for 隣 (next to), but 手前 means s
 
 **Correct Answer:** 手前にございます (it is right here in front)
 
-**Explanation:** 手前にございます (it is on the near side): 手前 is the opposite of 奥; together they form the basic near-far axis used to locate anything along a corridor or inside a room.
+**Explanation:** 手前にございます tells a guest that the waiting area is on the near side, meaning they do not need to walk all the way in. Using 奥 would send them to the far end unnecessarily, and 上 or 下 describe vertical movement rather than a near-side location on the same floor.

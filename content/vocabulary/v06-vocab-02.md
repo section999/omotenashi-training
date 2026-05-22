@@ -44,5 +44,5 @@ Students sometimes use トラブル in positive or neutral contexts, not realisi
 
 **Correct Answer:** トラブルについてお伺いいたします (I will ask about the issue)
 
-**Explanation:** トラブルについてお伺いいたします: お伺いいたします (I will listen / I will hear about it) is deeply humble and signals that the guest's concern is being taken seriously.
+**Explanation:** トラブルについてお伺いいたします is the right first step because it shows you are genuinely listening before jumping to solutions, which is exactly what a guest who has just reported a problem needs to feel heard. Calling a superior, promising to check later, or apologising before you know the details all skip the essential step of gathering information, which お伺いいたします, the deeply humble form of "to hear," is designed to do.
 

@@ -48,4 +48,4 @@ Learners often drop 角 entirely and just say 右に曲がってください wit
 
 **Correct Answer:** 角 (corner)
 
-**Explanation:** 角 (corner) is a natural navigation landmark: saying 〜の角にございます (is at the corner of〜) gives guests a clear visual target to aim for rather than an abstract direction.
+**Explanation:** 角 names a visible turning point, giving guests a concrete target to walk toward before they need to act. The other options (奥, 入口, 隣) describe a relationship to something already known, not a landmark that marks where the street itself changes direction.

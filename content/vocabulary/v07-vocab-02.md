@@ -44,5 +44,5 @@ Students sometimes use plain language during emergencies, such as 「階段を�
 
 **Correct Answer:** 階段をご利用ください (please use the stairs)
 
-**Explanation:** 階段をご利用ください: elevators must never be used during a fire; guiding guests to 階段 (stairs) is the correct safety protocol and a critical piece of hotel emergency knowledge.
+**Explanation:** 階段をご利用ください is the only safe answer during a fire drill: elevators must never be used in an emergency because a power failure or smoke in the shaft can trap guests inside. The other options either send guests toward danger, back to an unsafe room, or give them no guidance at all.
 

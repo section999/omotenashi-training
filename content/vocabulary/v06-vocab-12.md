@@ -48,5 +48,5 @@ Students often use 壊れた (kowareta, broken) in guest-facing speech. It is gr
 
 **Correct Answer:** 故障 (breakdown / malfunction)
 
-**Explanation:** 故障 specifically means mechanical breakdown: distinguishing 故障 (broken) from 問題 (problem) or 汚れ (dirty) helps maintenance respond with the right tools and priority.
+**Explanation:** 故障 names a mechanical breakdown precisely, which matters because using it triggers the right internal response: maintenance with tools, not a general floor attendant. 問題 is too vague for that, 修理 is what comes after the fault is identified, and 依頼 is a request form rather than a description of what occurred.
 

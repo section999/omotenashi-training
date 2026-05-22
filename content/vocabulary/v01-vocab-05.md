@@ -47,4 +47,4 @@ The most common mistake is using the casual *arigatō* instead of *arigatō goza
 
 **Correct Answer:** ありがとうございました。(Thank you: past / for the completed stay)
 
-**Explanation:** When thanking a guest for a stay that has concluded, the past form *gozaimashita* is correct. It acknowledges the completed relationship. Using the present form *gozaimasu* at departure feels slightly off: as though you're thanking them for something still in progress.
+**Explanation:** At departure, the past form *arigatō gozaimashita* is correct because it acknowledges the stay as a completed experience and honours everything that has just concluded. Using the present form *gozaimasu* at that moment feels misaligned, as if the stay were still ongoing rather than something to be grateful for in full.

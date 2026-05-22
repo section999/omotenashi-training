@@ -47,4 +47,4 @@ The most frequent mix-up here is substituting 地図 for 案内図. A 地図 is 
 
 **Correct Answer:** 案内図をご覧ください (please refer to the guide map)
 
-**Explanation:** 案内図をご覧ください (please refer to the guide map): handing a physical map while saying this phrase is ideal; it empowers the guest to navigate independently while showing attentiveness.
+**Explanation:** 案内図をご覧ください is the right answer because a facility guide map gives a guest an overview of the entire property they can hold and refer back to independently. Answering 外です or 中です only tells the guest which side of the building the restaurant is on, which falls far short of actually helping them find it.

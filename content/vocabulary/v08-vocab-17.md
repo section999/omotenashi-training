@@ -48,5 +48,5 @@ Learners sometimes confuse 正面 (the front, the direction you face) with 前 (
 
 **Correct Answer:** 正面 (front / facing)
 
-**Explanation:** 正面 (the front / main facade) is the standard word for a building's front-facing side: saying 正面にございます immediately orients guests who are approaching from outside.
+**Explanation:** 正面 identifies the building's main front-facing side, which is the natural reference for a reception desk that guests see first when they enter. 裏 (rear) and 地下 (basement) are service or utility areas, while 奥 describes interior depth rather than the publicly accessible front of the building.
 

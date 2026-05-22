@@ -47,4 +47,4 @@ The most frequent error is saying 左です rather than 左にございます. T
 
 **Correct Answer:** 左にございます (it is on the left)
 
-**Explanation:** 左にございます: ございます elevates the simple directional word into polite hotel speech; adding にございます after a direction word is the standard formula for locating facilities.
+**Explanation:** 左にございます gives the guest a clear directional answer at the appropriate level of formality, since にございます is the standard polite locating formula in hotel speech. The quiz assumes the restroom is on the left, making the other directions factually wrong in this context, and 遠くです describes distance rather than direction, which does not help someone looking for a nearby facility.

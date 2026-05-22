@@ -44,5 +44,5 @@ Students often give the opening time correctly but forget to mention ラスト�
 
 **Correct Answer:** レストランは7時に開店いたします (the restaurant opens at 7 o'clock)
 
-**Explanation:** レストランは7時に開店いたします: いたします (humble form) elevates opening time from a plain fact into a service announcement; giving a specific time (7時) makes the answer immediately useful.
+**Explanation:** レストランは7時に開店いたします gives the guest a precise, actionable time in appropriately humble language, which is exactly what they need to plan their morning. 分かりません and 無理です are entirely unacceptable responses to a simple operational question, and 行けません answers a different question altogether.
 

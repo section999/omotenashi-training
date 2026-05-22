@@ -47,4 +47,4 @@ The most common gap is using 下 without following it up with 地下一階 or �
 
 **Correct Answer:** 下です (it is down / below)
 
-**Explanation:** 下 (below / down): for guests unfamiliar with building layouts, 下 combined with a floor reference (地下1階、地下) and an access method (エレベーターで) gives a complete and safe instruction.
+**Explanation:** 下です correctly tells the guest that parking is below their current floor, matching the standard basement-level location in Japanese hotels. Pair it with the specific floor (地下一階) and elevator instructions so the answer is complete; 上, 奥, and 手前 all point in the wrong direction for a basement parking lot.

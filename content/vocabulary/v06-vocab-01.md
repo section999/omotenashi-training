@@ -45,5 +45,5 @@ Students often confuse 問題 with クレーム (kuremu), treating them as inter
 
 **Correct Answer:** 問題 (problem)
 
-**Explanation:** 問題 means problem or issue: 何か〜がございましたら is the conditional polite form of "if there is anything", inviting guests to speak up without pressure.
+**Explanation:** 問題 is the neutral, professional word for a problem or issue, which is precisely what 何かご〜がございましたら, a polite conditional phrase meaning "if there is anything," is inviting the guest to report. 注文, 提供, and 確認 all belong to service delivery rather than problem acknowledgement, so they would make the sentence meaningless in this context.
 

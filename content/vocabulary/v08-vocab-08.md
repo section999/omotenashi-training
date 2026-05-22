@@ -47,4 +47,4 @@ A persistent error for learners is pronouncing 一階 as ichi-kai rather than ik
 
 **Correct Answer:** 一階にございます (it is on the first floor)
 
-**Explanation:** 一階 (first floor / ground level) is where the front desk and lobby are most commonly located: confirming with にございます rather than just 一階です adds the expected level of formality.
+**Explanation:** 一階にございます correctly identifies ground level in the Japanese floor system, where the front desk and lobby are almost always found. Saying にございます rather than plain です raises the register to match the service environment, and the other options (二階, 地下, 最上階) would send a guest in completely the wrong direction.

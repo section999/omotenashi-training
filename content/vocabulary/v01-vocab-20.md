@@ -47,4 +47,4 @@ The most common mistake is delivering this phrase while already turned away or d
 
 **Correct Answer:** またお越しくださいませ。(Please come again.)
 
-**Explanation:** After thanking a departing guest, *mata o-koshi kudasaimase* is the ideal closing phrase: it tells the guest (and the property) that they would genuinely welcome a return visit. *Sayōnara* sounds too final; *itterasshai mase* implies the guest is coming back today. This phrase is warm, open, and complete.
+**Explanation:** *Mata o-koshi kudasaimase* is the ideal closing phrase because it leaves the door warmly open for a future visit, making it the natural conclusion after thanks and a safety farewell. *Sayōnara* carries a tone of finality that feels cold for hotel hospitality, and *itterasshai mase* is only right when the guest will return the same day.

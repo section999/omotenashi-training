@@ -47,5 +47,5 @@ A common error is for staff to apologise reflexively before they have fully unde
 
 **Correct Answer:** 苦情を真摯に受け止めます (we will take your complaint seriously)
 
-**Explanation:** 苦情を真摯に受け止めます: 真摯に (sincerely/earnestly) and 受け止めます (to accept/receive) together express genuine accountability rather than defensive deflection.
+**Explanation:** 苦情を真摯に受け止めます is the only option that shows genuine professional accountability, because 真摯に (sincerely) and 受け止めます (to receive and accept) together signal that the complaint is being taken seriously rather than dismissed. In omotenashi culture, a guest who takes the time to complain is offering the hotel a chance to improve, and that deserves a real response, not the mockery the other options represent.
 

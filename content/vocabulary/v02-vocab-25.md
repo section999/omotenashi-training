@@ -47,4 +47,4 @@ Students sometimes just say 鍵です when presenting the key to a guest. Gramma
 
 **Correct Answer:** こちらが鍵でございます (here is your key)
 
-**Explanation:** こちらが鍵でございます presents the key respectfully: こちら draws attention to the item and ございます adds formality.
+**Explanation:** こちらが鍵でございます uses こちら to draw the guest's attention to the key and ございます to maintain the formal register the moment deserves. 鍵です and 鍵どうぞ are too brief and bare for the handover that formally transfers a guest's room to them, and 鍵ある is simply not a meaningful sentence in this context.

@@ -47,4 +47,4 @@ A common error is treating 最上階 as a complete answer without naming the act
 
 **Correct Answer:** 最上階です (it is the top floor)
 
-**Explanation:** 最上階 means the very top floor: combining it with an amenity description (スカイラウンジ、展望台) gives guests both the floor information and motivation, which is better service than a bare floor number.
+**Explanation:** 最上階 means the building's highest floor, wherever that happens to be, making it the right word for an observation deck regardless of the building's actual height. Pairing it with the amenity name and the specific elevator button gives guests both the evocative label and the practical information they need to act on it.

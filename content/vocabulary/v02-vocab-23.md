@@ -45,4 +45,4 @@ A frequent mistake is telling guests simply 早朝チェックインはできま
 
 **Correct Answer:** 発生する (to occur)
 
-**Explanation:** 発生する (hassei suru) means "to arise/occur": 料金が発生する is the standard professional expression for additional charges.
+**Explanation:** 発生する (hassei suru) is the standard professional verb for charges that arise under certain conditions, making 料金が発生する the natural and expected phrasing when disclosing early check-in fees. ない contradicts what you are trying to say, かかる is conversationally fine but less formal, and 含まれる implies the charge is already included rather than being an extra.

@@ -48,5 +48,5 @@ The most common mistake is confusing 隣 (side-by-side) with 向かい (directly
 
 **Correct Answer:** 隣 (next to / adjacent)
 
-**Explanation:** 隣 (next to / adjacent): distinguishing 隣 (side-by-side) from 向かい (across from) is important; sending a guest to the wrong direction because of a word mix-up is a common navigation error.
+**Explanation:** 隣 means directly side-by-side, which is what "next to the convenience store" requires. 向かい places the ATM directly across from the store instead of beside it, and 奥 or 手前 describe depth along a corridor rather than a lateral adjacency.
 

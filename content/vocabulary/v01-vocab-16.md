@@ -47,4 +47,4 @@ The most common mistake is forgetting to say *goyukkuri dōzo* at all: treating 
 
 **Correct Answer:** ごゆっくりどうぞ。何かご不明な点がございましたら、フロントまでご連絡ください。(Please take your time. If you have any questions, please contact the front desk.)
 
-**Explanation:** *Goyukkuri dōzo* is the emotional core of the room delivery moment. Pairing it with a brief, clear invitation to contact the front desk if needed gives the guest both warmth and practical reassurance. The guest enters their room feeling welcomed and supported: which is exactly the goal.
+**Explanation:** *Goyukkuri dōzo* is what transforms the moment of room delivery from a transaction into genuine hospitality, gifting the guest with the message that their time here is their own. Pairing it with a clear invitation to call the front desk if needed sends them through the door feeling both welcomed and looked after, which is the point of the whole escort.

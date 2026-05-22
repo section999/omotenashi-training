@@ -44,5 +44,5 @@ Learners sometimes confuse バイキング with ビュッフェ and use them int
 
 **Correct Answer:** はい、バイキング形式でございます (yes, it is buffet style)
 
-**Explanation:** バイキング形式でございます confirms buffet-style service: 形式 means format/style, and ございます keeps the register polished and professional.
+**Explanation:** バイキング形式でございます directly answers the guest's question by naming the exact service format, with 形式 (style/format) making the meaning unambiguous and ございます keeping the register appropriately formal. The other options redirect or question the guest rather than simply confirming what they asked.
 

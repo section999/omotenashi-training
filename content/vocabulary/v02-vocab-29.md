@@ -44,4 +44,4 @@ Students sometimes use 受付 and フロント interchangeably without thinking 
 
 **Correct Answer:** 受付はこちらでございます (the reception is here)
 
-**Explanation:** 受付はこちらでございます uses the complete polite structure: はこちらでございます is the standard directional phrase in hospitality.
+**Explanation:** 受付はこちらでございます uses the full polite copula structure はこちらでございます, which is the expected phrasing whenever you direct a guest to a location in a formal hospitality setting. The other options either drop the topic marker は, omit ございます entirely, or use a plain verb form that sounds more like a self-instruction than a polite direction to a guest.

@@ -47,4 +47,4 @@ The most common mistake is pointing with a single finger rather than using an op
 
 **Correct Answer:** こちらへどうぞ。お部屋までご案内いたします。(Please come this way. I will show you to your room.)
 
-**Explanation:** *Kochira e dōzo* combined with *go-annai itashimasu* creates a complete, warm guiding invitation. It tells the guest where they are going and assures them they will be led there: no confusion, no independent navigation required. Use an open-palm gesture toward the direction of travel.
+**Explanation:** *Kochira e dōzo* with *go-annai itashimasu* is the complete guiding invitation: it names the destination and assures the guest they will be personally led there. Pointing vaguely at the elevator or leaving the guest to navigate alone gives the information without the care, which is not guidance at all.

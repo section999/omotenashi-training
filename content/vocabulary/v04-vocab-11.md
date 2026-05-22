@@ -44,5 +44,5 @@ A very common oversight is restocking シャンプー without checking whether �
 
 **Correct Answer:** コンディショナーはシャワー横にございます (conditioner is next to the shower)
 
-**Explanation:** コンディショナーはシャワー横にございます: ございます is the polite form of ある, used when describing the location of an item for a guest.
+**Explanation:** コンディショナーはシャワー横にございます gives the guest a specific, helpful location using ございます for formal hotel speech, and シャワー横 (next to the shower) is far more useful than a vague answer. Saying conditioner is unavailable or that only shampoo is provided leaves the guest without what they need, reflecting poorly on the property.
 

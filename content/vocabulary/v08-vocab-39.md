@@ -48,4 +48,4 @@ Students often use 案内板 and 案内図 as though they mean the same thing, b
 
 **Correct Answer:** 案内板 (information board)
 
-**Explanation:** 案内板 (information board) is a fixed sign or display: pointing guests to the 案内板 rather than verbally listing every facility is efficient and empowers them to self-navigate, which is valued in modern hotel service.
+**Explanation:** 案内板 is the fixed wall display mounted near elevators and corridor junctions to let guests check floor facilities at a glance, which is exactly what this sentence describes. A 案内図 is a portable printed map, a フロアマップ is a detailed spatial layout, and a 地図 is a general geographic map — none of them are fixed signs installed for ongoing reference on the floor itself.

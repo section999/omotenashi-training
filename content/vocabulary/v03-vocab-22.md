@@ -45,5 +45,5 @@ Students often point to the 金庫 and move on, without actually walking the gue
 
 **Correct Answer:** 金庫 (safe)
 
-**Explanation:** 金庫 is the safe: always guide guests to store valuables in it at check-in to prevent security concerns.
+**Explanation:** 金庫 is the in-room safe, the only secure storage option listed and the correct place to keep passports, cash, and jewelry. 冷蔵庫 stores food and drinks, 引き出し is an ordinary drawer, and クローゼット is an open wardrobe, none of which offer the security that guests need for their valuables.
 

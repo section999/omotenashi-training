@@ -47,4 +47,4 @@ The biggest mistake is getting the time window wrong: using *konnichiwa* in the 
 
 **Correct Answer:** こんにちは。(Good afternoon.)
 
-**Explanation:** 2:30 PM is firmly in the *konnichiwa* window. *Ohayō gozaimasu* would be wrong for the time; *konbanwa* is for evening; *otsukaresama desu* is for colleagues, not guests. *Konnichiwa* is the natural, appropriate greeting for this moment.
+**Explanation:** At 2:30 PM, *konnichiwa* is the correct greeting because it falls squarely in the daytime window. *Ohayō gozaimasu* and *konbanwa* belong to different parts of the day, and *otsukaresama desu* is a collegial phrase reserved for staff, not for welcoming guests.

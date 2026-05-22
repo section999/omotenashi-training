@@ -44,5 +44,5 @@ The most problematic mistake is avoiding 遠くに out of a desire to be encoura
 
 **Correct Answer:** 遠くにございます (it is far away)
 
-**Explanation:** 遠くにございます: honesty about distance is part of good service; follow it with a transport suggestion (バスや電車が便利です) so the information remains helpful rather than just discouraging.
+**Explanation:** When a destination is genuinely far, saying 遠くにございます is the honest and respectful response, because giving a false 近く creates a worse experience when the guest arrives late or frustrated. Always pair it with a practical transport suggestion so the answer stays helpful rather than simply discouraging.
 

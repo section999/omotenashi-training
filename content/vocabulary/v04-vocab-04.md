@@ -45,5 +45,5 @@ Dropping the word ゴミ into guest-facing speech without polite framing can sou
 
 **Correct Answer:** ゴミ (trash / garbage)
 
-**Explanation:** ゴミ refers to trash or garbage: daily collection is standard in hotels to maintain cleanliness and guest comfort.
+**Explanation:** ゴミ is the word for trash or garbage, and daily collection from guest rooms is a standard housekeeping task. シーツ, タオル, and 石鹸 are all room items that are replaced or used by guests, but none of them refers to the discarded waste that housekeeping collects each day during cleaning.
 

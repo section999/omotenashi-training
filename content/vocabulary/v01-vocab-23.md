@@ -50,4 +50,4 @@ Students often reach for *ryōkai itashimashita* in guest-facing situations. It 
 
 **Correct Answer:** 承知いたしました。すぐにお届けいたします。(Certainly, understood. I will bring them right away.)
 
-**Explanation:** *Shōchi itashimashita* is the appropriate register for telephone guest requests. Pairing it with an immediate action phrase (*sugu ni o-todoke itashimasu*) completes the response: it shows that understanding has been received and action is already beginning.
+**Explanation:** *Shōchi itashimashita* is warm and service-oriented in a way that *ryōkai itashimashita* and *wakarimashita* are not, making it the right fit for responding to a guest's telephone request. Pairing it immediately with the delivery promise shows the guest that their request has been received and acted upon in one seamless moment.

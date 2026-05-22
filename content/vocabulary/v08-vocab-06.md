@@ -47,4 +47,4 @@ A frequent error is using 交差点 to describe a corridor junction inside a bui
 
 **Correct Answer:** 交差点で信号を確認してください (please check the traffic light at the intersection)
 
-**Explanation:** 交差点で信号を確認してください: reminding guests to check the signal (信号) at intersections shows care for their safety beyond just navigation, which is true omotenashi.
+**Explanation:** Reminding guests to check the signal at the intersection (交差点で信号を確認してください) shows care for their physical safety, not just their route, which is a hallmark of genuine omotenashi. Options B, C, and D ignore either the intersection or the signal entirely, leaving a guest without the safety guidance they need to cross safely.

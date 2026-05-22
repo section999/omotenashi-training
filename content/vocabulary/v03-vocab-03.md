@@ -48,5 +48,5 @@ Learners sometimes define シングルルーム in absolute terms as "a room for
 
 **Correct Answer:** シングルルーム (single room)
 
-**Explanation:** シングルルーム refers specifically to a room for one person with one bed: important to confirm accurately at check-in.
+**Explanation:** シングルルーム specifies a room with one bed for a single occupant, and confirming this precisely at check-in prevents the disappointment of walking into the wrong room type. ダブルルーム and ツインルーム both accommodate two people in different bed arrangements, and スイートルーム is a multi-area premium room, none of which match a single-bed booking.
 

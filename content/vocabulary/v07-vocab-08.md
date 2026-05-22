@@ -48,5 +48,5 @@ A common error is stating only the opening time without the closing time, which 
 
 **Correct Answer:** 営業時間 (business hours)
 
-**Explanation:** 営業時間 covers the full operating window: knowing it allows you to answer opening AND closing questions with one phrase; まででございます politely marks the end of service.
+**Explanation:** 営業時間 is the term that covers the entire operating window from open to close, making it the only choice that answers the guest's implicit question about when they can and cannot use the restaurant. 開店 refers only to the opening moment and 閉店 only to closing, while 予約 is about reservations rather than hours.
 

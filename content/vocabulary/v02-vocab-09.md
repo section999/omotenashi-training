@@ -44,4 +44,4 @@ Using 名前ください or 名前は？ in any professional context is a seriou
 
 **Correct Answer:** お名前をお伺いしてもよろしいでしょうか (may I ask your name?)
 
-**Explanation:** お名前をお伺いしてもよろしいでしょうか is the most respectful form: it asks permission and uses humble language (お伺い).
+**Explanation:** お名前をお伺いしてもよろしいでしょうか asks permission before requesting the name and uses the humble verb お伺いする, the combination that signals genuine respect for the guest rather than a demand. The other options either drop the honorific お, skip the humble verb entirely, or sound outright blunt in a professional setting.

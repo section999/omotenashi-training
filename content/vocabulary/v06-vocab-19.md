@@ -47,5 +47,5 @@ A common mistake is answering a guest's question about cost with just 「はい�
 
 **Correct Answer:** 無料でございます (it is free of charge)
 
-**Explanation:** 無料でございます: a short, clear answer with ございます is best; guests asking about charges need reassurance quickly, and using でございます keeps it formal without adding unnecessary words.
+**Explanation:** 無料でございます is short, unambiguous, and at the right register for formal hotel communication, giving guests instant reassurance that no charge applies. Guests asking about costs need a direct answer, not a vague or dismissive response, so the other options fail both on accuracy and on basic hospitality standards.
 

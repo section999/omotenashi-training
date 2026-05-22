@@ -48,4 +48,4 @@ The most common error is saying 地下にございます without specifying the 
 
 **Correct Answer:** 地下 (basement)
 
-**Explanation:** 地下 (basement) is the standard location for hotel parking: when saying 地下にございます, always follow up with elevator button instructions (B1ボタンをお押しください) so guests can access it easily.
+**Explanation:** 地下 correctly places the parking lot below ground, which is the standard location in Japanese hotels. Naming a specific level (地下一階) and adding elevator button instructions (B1ボタンをお押しください) turns a simple location answer into genuinely useful guidance.

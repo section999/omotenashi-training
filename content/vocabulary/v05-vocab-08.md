@@ -48,5 +48,5 @@ Learners sometimes use 提供します without the humble いたします form, 
 
 **Correct Answer:** 提供 (provision)
 
-**Explanation:** 提供いたします means "we will serve": 順番に (in order) reassures guests that each course will arrive at the right time and in the correct sequence.
+**Explanation:** 提供 means the act of serving or providing dishes, making it the only word that fits the context of courses arriving at the table. 注文 means ordering, 会計 means billing, and 確認 means confirmation, so none of them describe the delivery of food. Paired with 順番に (in order), 提供いたします reassures the guest that courses will arrive in the right sequence.
 

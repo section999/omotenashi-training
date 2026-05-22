@@ -47,4 +47,4 @@ Watch out for mixing up the noun 表示 and the verb 表示する (hyouji suru, 
 
 **Correct Answer:** 表示に従ってください (please follow the sign)
 
-**Explanation:** 表示に従ってください (please follow the signs): teaching guests to read 表示 is empowering and efficient in large venues; combine it with a gesture toward the first sign to start them in the right direction.
+**Explanation:** 表示に従ってください teaches the guest to follow the visual signage system independently, which is the most practical answer in a large hotel where corridors are long and the restroom is signed the whole way. Pointing to 入口, 正面, or 上 gives a single directional word with no guidance on how to actually get there from where the guest is standing.

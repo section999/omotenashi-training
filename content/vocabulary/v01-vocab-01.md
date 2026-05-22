@@ -46,4 +46,4 @@ The most common mistake is delivering *irasshaimase* without making eye contact 
 
 **Correct Answer:** いらっしゃいませ。 (Welcome.)
 
-**Explanation:** *Irasshaimase* is always the first word a guest hears. It signals presence, readiness, and respect before any transaction begins. Jumping directly to a question: even a practical one: bypasses this essential moment of acknowledgement.
+**Explanation:** *Irasshaimase* is always the first word a guest hears because it signals presence, readiness, and respect before any transaction begins. Jumping straight to a question, however practical, skips the moment of acknowledgement that tells the guest they have truly been seen and welcomed.

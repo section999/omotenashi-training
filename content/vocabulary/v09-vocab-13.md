@@ -44,4 +44,4 @@ The worst version of this mistake is saying nothing about 追加料金 and then 
 
 **Correct Answer:** 追加料金 (additional charge)
 
-**Explanation:** 追加料金 must always be communicated before the service is rendered: saying 追加料金が〜円発生いたします (an extra charge of〜yen will apply) upfront prevents the shock of unexpected charges at check-out, which is a top source of complaints.
+**Explanation:** 追加料金 is the term for any charge that applies on top of the reservation price, which is exactly what adding an extra bed represents. Quoting a specific amount using the phrase 追加料金が〜円発生いたします before the service is provided prevents checkout surprises, which are one of the most common triggers for guest complaints.
