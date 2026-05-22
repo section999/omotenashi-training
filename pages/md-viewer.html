@@ -1350,6 +1350,7 @@ function handleQuizCheck(btn) {
   if (!qId) return;
   var qData = _quizData.get(qId);
   if (!qData) return;
+  var _isVocabFile = (new URLSearchParams(location.search).get('file') || '').includes('/vocabulary/');
 
   if (qData.type === 'mcq') {
     var opts = document.querySelectorAll('#' + qId + '-opts .quiz-opt');
@@ -1368,7 +1369,7 @@ function handleQuizCheck(btn) {
     } else {
       opts[sel].classList.add('wrong');
       fb.className = 'quiz-feedback err';
-      fb.textContent = '✗ Incorrect. Try again.';
+      fb.textContent = _isVocabFile ? '✗ Incorrect. Try again.' : '✗ Incorrect. ' + (qData.exp || 'Try again.');
       opts[sel].classList.remove('wrong', 'selected');
       btn.disabled = false;
     }
@@ -1395,7 +1396,7 @@ function handleQuizCheck(btn) {
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
-      fb.textContent = '✗ Incorrect. Try again.';
+      fb.textContent = _isVocabFile ? '✗ Incorrect. Try again.' : '✗ Incorrect. ' + (qData.exp || 'Try again.');
     }
     return;
   }
@@ -1423,7 +1424,7 @@ function handleQuizCheck(btn) {
       setTimeout(showCompletionModal, 600);
     } else {
       fb.className = 'quiz-feedback err';
-      fb.textContent = '✗ Some answers are wrong. Try again.';
+      fb.textContent = _isVocabFile ? '✗ Some answers are wrong. Try again.' : '✗ Some answers are wrong. ' + (qData.exp || 'Try again.');
       setTimeout(function() {
         selects.forEach(function(s) { s.classList.remove('wrong') });
       }, 1200);
@@ -1450,7 +1451,7 @@ function handleQuizCheck(btn) {
     } else {
       items.forEach(function(el) { el.style.borderColor = '#c5442a' });
       fb.className = 'quiz-feedback err';
-      fb.textContent = '✗ Incorrect order. Try again.';
+      fb.textContent = _isVocabFile ? '✗ Incorrect order. Try again.' : '✗ Incorrect order. ' + (qData.exp || 'Try again.');
       setTimeout(function() {
         items.forEach(function(el) { el.style.borderColor = '' });
       }, 1200);
