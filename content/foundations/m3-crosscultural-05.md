@@ -53,4 +53,4 @@ Here's the thing: it is acceptable, and more professional, to say *"I am not cer
 
 **Correct Answer:** Whether the behaviour may be culturally normal for the guest, and how to approach the conversation with that in mind
 
-**Explanation:** Charitable interpretation: assuming cultural difference before bad intent: shapes how the intervention is framed. A warm, respectful approach that acknowledges the guest's perspective while explaining the property's atmosphere is far more effective than a correction delivered from a position of judgment.
+**Explanation:** Before approaching any guest about behaviour that seems disruptive, asking whether it might simply be culturally normal changes everything about how you enter the conversation. A guest who speaks loudly on the phone may be doing exactly what people do in their home country. Approaching with that assumption in mind makes for a warmer, more effective exchange than walking over to correct someone.

@@ -53,4 +53,4 @@ A pause before speaking: used deliberately before delivering an answer or taking
 
 **Correct Answer:** After they have had a few bites and the initial reaction to the dish has settled: watching for a natural pause in eating or conversation
 
-**Explanation:** Approaching immediately after the dish is placed gives the guest no time to taste it: so their answer cannot be meaningful. Waiting for a natural pause shows timing awareness and respects the guest's experience of the meal. The moment of the first bite is theirs; the check-in comes after.
+**Explanation:** Asking about a dish before the guest has had a chance to taste it is a form of interruption, and the answer you get back will be meaningless anyway. Waiting for a natural pause after a few bites respects the rhythm of the meal and gives the check-in genuine purpose. Good timing is about serving the guest's experience, not fulfilling a checklist.

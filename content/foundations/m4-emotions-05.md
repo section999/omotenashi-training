@@ -66,4 +66,4 @@ Regardless of what emotional cue you detect, the gold standard response combines
 
 **Correct Answer:** Lower your own voice and slow your pace
 
-**Explanation:** Lowering your voice and slowing your pace creates a physiological contrast that often has a calming effect. Matching an upset guest's energy escalates the situation. Calm, grounded presence is the foundation of de-escalation.
+**Explanation:** When you lower your voice and slow your pace, you create a physiological contrast that tends to pull an agitated person's energy down toward yours. Matching their volume signals that the situation is escalating, not being resolved. Stepping back and waiting hands the interaction over to tension, and calling a supervisor immediately abandons the guest before you have tried to help.

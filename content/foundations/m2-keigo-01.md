@@ -37,4 +37,4 @@ Students often ask: do I really need all three? In practice, yes. Teineigo gets 
 
 **Correct Answer:** To encode social relationships and signal respect for the guest
 
-**Explanation:** Keigo is a structured system that communicates the speaker's respect for the guest through grammar and vocabulary choices, not just politeness.
+**Explanation:** Keigo does far more than add politeness; it encodes the social relationship between speaker and guest directly into the grammar and vocabulary of every sentence. The other options are wrong because keigo is not about showing off education, following regulations, or slowing speech; it is about making the guest feel valued through the language itself.

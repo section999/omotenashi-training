@@ -47,4 +47,4 @@ Accept with both hands, a bow, and a brief, sincere expression of gratitude: *"�
 
 **Correct Answer:** The purpose or occasion of the gift
 
-**Explanation:** Uwagaki is the text written above the ribbon pattern on noshi paper, indicating why the gift is being given (e.g., gratitude, mid-year gift). The giver's name (shasho) appears below the ribbon.
+**Explanation:** On a noshi, the two text positions have fixed roles: the uwagaki (above the ribbon) states the occasion or purpose, such as 御礼 for gratitude or 御中元 for a mid-year gift. The giver's name goes below. Confusing the two positions, or mistaking the uwagaki for a price tag or shop name, would be a real error in formal gift presentation.

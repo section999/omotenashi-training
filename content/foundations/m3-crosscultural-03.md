@@ -50,4 +50,4 @@ For all East Asian guests, the experience of being seen as an individual, not as
 
 **Correct Answer:** The tour guide, who is the primary communicator for the group and should be treated with respect
 
-**Explanation:** For group travel, the guide manages communications between the property and the group. Treating the guide as a respected partner: rather than bypassing them: ensures smooth coordination and demonstrates cultural awareness.
+**Explanation:** For group travel, the guide is the communication bridge between the property and all guests. Coordinating through them respects their role, keeps information flowing accurately, and avoids the confusion that comes from trying to manage a group individually. Bypassing the guide creates friction; going straight to the travel agency is impractical once guests have arrived.

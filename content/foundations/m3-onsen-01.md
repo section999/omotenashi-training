@@ -50,4 +50,4 @@ In practice, knowing your property's water type and describing its properties cl
 
 **Correct Answer:** Extended therapeutic soaking at a hot spring, traditionally lasting days or weeks
 
-**Explanation:** Tōji refers to the traditional practice of staying near a hot spring for an extended period and bathing repeatedly for medicinal purposes. This tradition underlies the modern understanding of onsen as restorative and health-giving, not merely a bathing facility.
+**Explanation:** Tōji is the practice of extended, repeated bathing at a hot spring over days or weeks, specifically for its therapeutic effects. Understanding this history explains why many Japanese guests approach onsen with a mindset that is medicinal rather than recreational, and why the concept carries cultural weight well beyond a hotel amenity. The other options describe either bathing steps or water types, which are separate topics.

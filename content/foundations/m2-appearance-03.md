@@ -49,4 +49,4 @@ When passing a colleague or entering a space where a guest is seated, indicate a
 
 **Correct Answer:** Disengagement and inattentiveness
 
-**Explanation:** Hands in pockets suggest that the staff member's attention is inward, not outward. Guests read posture and movement continuously and subconsciously. Professional deportment keeps the guest's trust and comfort intact.
+**Explanation:** Guests read body language below the level of conscious thought, which is exactly why it matters so much. Hands in pockets signal that the person is self-contained, disengaged, and not available. Rushing through a space adds to that impression rather than softening it. Guests do not usually articulate what they noticed; they simply feel less confident that the person would stop to help them. Open posture and measured movement keep that confidence intact.

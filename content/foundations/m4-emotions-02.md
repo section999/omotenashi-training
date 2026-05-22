@@ -57,4 +57,4 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 
 **Answer:** True
 
-**Explanation:** The Duchenne smile: named after the researcher who identified it: involves the orbicularis oculi muscle around the eyes. A smile using only the mouth (zygomatic major) is typically a social or polite smile, not a genuine one.
+**Explanation:** A genuine smile (the Duchenne smile) activates the muscles around the eyes, causing the corners to crinkle and the lower lids to lift slightly. A smile that only moves the mouth is a polite social expression, not a sign of real comfort or satisfaction. Learning to tell them apart gives you a reliable window into how a guest is actually feeling, beyond what they say.

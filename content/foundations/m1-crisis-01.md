@@ -56,4 +56,4 @@ These are covered in the following lessons through the LEARN framework. But befo
 
 **Correct Answer:** Guests who complain and have their complaint resolved with genuine care often become more loyal than guests who experienced no problems
 
-**Explanation:** This phenomenon: sometimes called the "service recovery paradox": occurs because a well-handled complaint demonstrates the property's genuine commitment to the guest's experience. The guest sees how the organisation responds when things go wrong, and that response can be more convincing than smooth service alone. This makes complaint handling one of the highest-value skills in hospitality.
+**Explanation:** A well-handled complaint does something that a faultless stay cannot: it shows the guest how the property behaves under pressure. When staff respond with genuine care rather than defensiveness, the guest gains real evidence of the organisation's values. That demonstration of commitment, visible precisely because something went wrong, is often more persuasive than smooth service that was never tested.

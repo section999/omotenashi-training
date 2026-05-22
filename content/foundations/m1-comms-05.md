@@ -57,4 +57,4 @@ An approach should also have a clean close. When your purpose is fulfilled, the 
 
 **Correct Answer:** Wait at a respectful distance, make brief eye contact with the primary guest to signal you are there, and wait for a natural pause in their conversation
 
-**Explanation:** Interrupting a conversation to ask for an order puts the operational schedule above the guest's experience. Waiting at a respectful distance: visible, not hovering: signals that you are ready without demanding that the guest shift their attention immediately. A moment of eye contact lets them know you are present; a brief nod from them invites you to approach.
+**Explanation:** Interrupting an animated conversation to take an order places your schedule above the guest's experience. Waiting at a respectful distance, visible but not crowding the table, signals that you are ready without forcing a shift in attention. A brief moment of eye contact lets the guest know you are there; their nod or pause is the real invitation to step forward.

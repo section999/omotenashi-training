@@ -44,4 +44,4 @@ In practice, use codenames or room numbers rather than personal names in radio c
 
 **Correct Answer:** Decline to share any information about guests: neither confirming nor denying
 
-**Explanation:** Confirming a guest's presence: even without providing further details: is a breach of discretion. The standard response neither confirms nor denies any guest's stay, regardless of who is asking.
+**Explanation:** Confirming a guest is staying, even while withholding their room number, is still a breach of discretion, because it tells the caller exactly who is on the property. A flat denial is also wrong if it is untrue. The only correct response neither confirms nor denies, and it applies regardless of who is asking or how the question is framed.

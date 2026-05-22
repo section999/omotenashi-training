@@ -48,4 +48,4 @@ That said, the way you deliver this information makes all the difference. Said c
 
 **Correct Answer:** At check-in, when it can be communicated calmly and alternatives offered
 
-**Explanation:** Informing a guest about a restriction at the point of entry: after they have changed and are ready: is likely to cause embarrassment and frustration. Raising it at check-in allows the policy to be explained calmly and alternatives (such as a private bath) to be offered with care.
+**Explanation:** Telling a guest about a restriction after they have already changed and walked to the onsen entrance turns a policy into a public rejection. Raising it at check-in, on the other hand, gives the guest time to process the information calmly and lets you offer a private bath as a genuine alternative rather than an afterthought. Waiting until the guest asks means many guests will find out too late.

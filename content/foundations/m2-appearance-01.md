@@ -44,4 +44,4 @@ The guest absorbs all of this before you speak. Appearance is the first moment o
 
 **Correct Answer:** Midashinami is professional grooming to put others at ease; oshare is personal style to express individuality
 
-**Explanation:** In hospitality, midashinami takes priority. Staff appearance is understood as a service act: it signals respect for the guest and the profession, not personal self-expression.
+**Explanation:** Midashinami is about presenting yourself in a way that puts the guest at ease, which is a fundamentally outward-facing act. Oshare, by contrast, is about expressing yourself, which is inward-facing. In a guest-facing role, the guest's comfort comes before personal style. The wrong options either reverse that relationship or treat the two concepts as interchangeable, which loses the distinction that makes midashinami meaningful as a professional standard.

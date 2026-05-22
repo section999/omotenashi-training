@@ -60,4 +60,4 @@ The congratulatory greeting is genuinely meaningful in this context, but only wh
 
 **Correct Answer:** Warm and congratulatory: acknowledge the life transition, offer genuine help with the boxes, and mention that the property is happy to be part of the occasion
 
-**Explanation:** April in Japan is one of the most emotionally significant times of year: full of beginnings and transitions. A hospitality professional who notices the context and responds to it with genuine warmth and practical help creates a memory that far exceeds a smooth, transactional check-in. The boxes are a cue; the warm response is the hospitality.
+**Explanation:** April in Japan carries a weight of beginnings and transitions that a family like this has probably been preparing for emotionally for months. Noticing the cues, reading the boxes and the mixed energy, and responding with genuine warmth and a practical offer of help creates a moment they will remember long after the check-in is forgotten. A businesslike or overly formal response treats the occasion as invisible, which is a missed opportunity that costs nothing to avoid.

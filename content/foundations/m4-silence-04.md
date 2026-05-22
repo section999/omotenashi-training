@@ -41,4 +41,4 @@ One of the most affecting expressions of ma in hospitality is the silence after 
 
 **Correct Answer:** Pause briefly, make eye contact, and sincerely acknowledge their experience before offering a solution
 
-**Explanation:** A distressed guest needs to feel heard before they need a solution. A moment of genuine acknowledgement: expressed through presence, eye contact, and a sincere apology: creates the trust and psychological safety that makes any subsequent offer of help land as genuine rather than transactional.
+**Explanation:** A guest who has just arrived tired and found their room unavailable needs to feel that their experience has registered before anything else happens. Jumping straight to an upgrade or breakfast offer skips that entirely. Explaining a system error shifts focus away from the guest. Asking them to wait at the desk adds to the very frustration they are already carrying. A pause, eye contact, and a sincere acknowledgement first is what allows any offer that follows to land as genuine care.

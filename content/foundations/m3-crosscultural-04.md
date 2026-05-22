@@ -54,4 +54,4 @@ Western guests, particularly from North America, may find standard Japanese room
 
 **Correct Answer:** Decline graciously and explain that the guest's satisfaction is the only reward sought
 
-**Explanation:** Japan does not have a tipping culture, and accepting tips in many properties is against policy. A warm, gracious decline: expressing genuine appreciation for the gesture: respects the guest's intention without accepting what is not customary.
+**Explanation:** In Japan, tipping is not customary and in many properties accepting one is against policy. The guest's intention is kind, so the decline must be warm, not stiff or apologetic. A gracious refusal that acknowledges their generosity leaves them feeling good about the gesture rather than embarrassed; pocketing it silently or donating it without explanation would be dishonest.

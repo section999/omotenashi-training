@@ -52,4 +52,4 @@ The first greeting a guest hears upon arrival: "Welcome." It is not directed at 
 
 **Correct Answer:** Serving the guest sincerely and anticipating their needs, with no expectation of return
 
-**Explanation:** Omotenashi is defined by wholehearted sincerity and proactive care: not by transactional delivery or scripted interaction. The host acts for the guest's benefit, not for acknowledgement or reward. The effort is invisible; only its effect: the guest feeling genuinely welcomed and cared for: is meant to be experienced.
+**Explanation:** Omotenashi is not defined by delivering what was booked, following a script, or resolving complaints efficiently. It is defined by acting entirely for the guest's benefit, sincerely and without expectation of return. The preparation and care are invisible; what the guest receives is only the feeling of being genuinely welcomed and looked after.

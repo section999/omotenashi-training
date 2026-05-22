@@ -50,4 +50,4 @@ Premium rooms in ryokan sometimes feature a private bath fed directly from the h
 
 **Correct Answer:** A private bath reserved exclusively for one guest or group for a set period
 
-**Explanation:** Kashikiri (literally "reserved") onsen are private facilities using the same natural hot spring water as the communal bath, reserved for exclusive use. They are ideal for guests who prefer privacy or for families and couples.
+**Explanation:** Kashikiri means "reserved" and refers to a private facility that uses the same natural hot spring water as the communal bath, booked exclusively for one guest or group. It is the right recommendation for guests who are uncomfortable with communal bathing, travelling as a couple, or bringing young children. The outdoor bath (rotenburo) is a separate concept, and there is no seasonal or room-type restriction attached to kashikiri.

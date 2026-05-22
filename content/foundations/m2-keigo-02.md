@@ -46,4 +46,4 @@ A useful tip: sonkeigo patterns often use the structure **お + verb stem + に�
 
 **Correct Answer:** 召し上がりますか？
 
-**Explanation:** 召し上がる (meshiagaru) is the sonkeigo form of both 食べる (to eat) and 飲む (to drink), used when describing a guest's action.
+**Explanation:** Sonkeigo requires using entirely different verbs to honour the guest's actions, not just adding polite endings. 召し上がる is the proper sonkeigo replacement for both 食べる and 飲む when the guest is the subject. 食べますか is casual, いただく is kenjōgo (humble, for your own receiving), and 食べられますか reads as a potential form rather than respectful speech.

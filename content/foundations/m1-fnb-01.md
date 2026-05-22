@@ -50,4 +50,4 @@ Know the menu. Know why each ingredient was chosen. Know the region, the season,
 
 **Correct Answer:** The handmade, slightly imperfect vessels reflect wabi-sabi: the aesthetic appreciation of natural beauty and craftsmanship, which is central to the kaiseki philosophy
 
-**Explanation:** In kaiseki, every element is intentional: including the vessels. Handmade ceramics with natural imperfections reflect wabi-sabi values and communicate that care was taken at every level of the meal's presentation. Knowing the reasoning behind the choices: and being able to share it naturally: transforms service into genuine hospitality.
+**Explanation:** In kaiseki, nothing is accidental, and that includes the vessels. Handmade ceramics with natural asymmetry embody wabi-sabi, the appreciation for imperfection and honest craftsmanship, and signal that care was exercised at every level of the meal. Being able to explain that choice clearly and naturally is exactly the difference between service and genuine hospitality.

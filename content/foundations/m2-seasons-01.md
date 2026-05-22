@@ -39,4 +39,4 @@ For you as a hospitality professional, seasonal awareness has three practical di
 
 **Correct Answer:** Ingredients that are at their peak quality in the current season
 
-**Explanation:** 旬 refers to the peak season for a particular ingredient: when it is freshest, most flavourful, and most appropriate to serve. Using shun ingredients is a core principle of quality Japanese food service.
+**Explanation:** Shun describes the window when an ingredient is at its absolute peak: freshest, most flavourful, and most in harmony with the season. Serving shun food is quietly serving the best possible version of a dish. The other options describe seasonal greetings, ikebana, or New Year decorations, none of which are about food ingredients.

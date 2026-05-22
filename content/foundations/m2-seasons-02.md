@@ -48,4 +48,4 @@ Spring carries a mood of fresh beginnings. Guests visiting in this season often 
 
 **Correct Answer:** The bittersweet appreciation of beauty that does not last
 
-**Explanation:** Mono no aware is a Japanese aesthetic concept that finds beauty in transience: most famously expressed through the brief flowering of cherry blossoms. Understanding it helps hospitality professionals appreciate why spring is emotionally significant for many guests.
+**Explanation:** Mono no aware is a deep aesthetic concept: the bittersweet feeling that comes from appreciating something beautiful precisely because it will not last. Cherry blossoms, which bloom for only a week or two, are its most iconic expression. Knowing this helps you understand why spring guests often carry an emotional weight to their visit that goes beyond sightseeing.

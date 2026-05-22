@@ -52,4 +52,4 @@ Students often ask why this mistake is so common if it is wrong. The honest answ
 
 **Correct Answer:** になります implies the room is changing into something, which is grammatically incorrect here
 
-**Explanation:** になります means "to become." Since the room is already a room, the correct form is でございます or です. This is one of the most common keigo errors in service settings.
+**Explanation:** になります literally means "will become," which is absurd when you are pointing to a room that already exists. The correct form, でございます, simply states "this is your room" with appropriate formality. This error spread through restaurant chain training and is now deeply ingrained, but discerning guests and senior colleagues do notice it.

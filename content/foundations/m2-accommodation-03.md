@@ -43,4 +43,4 @@ Turndown is typically done while guests are at dinner. Coordinate with the dinin
 
 **Correct Answer:** Away from the tokonoma: feet should never point toward the tokonoma
 
-**Explanation:** The tokonoma is the aesthetic and spiritual focal point of a traditional Japanese room. Positioning the futon with feet toward it would be considered disrespectful to the space.
+**Explanation:** In Japanese custom, pointing the feet toward a revered or significant object is considered disrespectful, and the tokonoma is the most honoured part of the room. The head of the futon goes away from it, not toward it. The other options treat orientation as either a matter of guest security or mere convenience, missing the cultural reasoning that governs how the space is used.

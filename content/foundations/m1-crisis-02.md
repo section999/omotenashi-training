@@ -66,4 +66,4 @@ Come back. This is the step most often skipped, and its omission turns a good re
 
 **Correct Answer:** Notify: following up personally with the guest to confirm the resolution was satisfactory
 
-**Explanation:** The notify step is what transforms a complaint response from a transaction into a demonstration of genuine care. Resolving a complaint and then disappearing communicates that the priority was ending the interaction. Returning to confirm the resolution: even briefly: communicates that the guest's experience was the priority, and that their satisfaction was genuinely important to you.
+**Explanation:** Following up is what separates a genuine recovery from a transaction that happened to go smoothly. Resolving the complaint and then disappearing tells the guest the goal was to end the interaction. Coming back, even briefly, to confirm the resolution worked tells them their experience was the actual priority, and that you cared enough to make sure.

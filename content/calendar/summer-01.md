@@ -53,4 +53,4 @@ Most visitors to Japan are thinking about spring cherry blossoms or autumn folia
 
 **Correct Answer:** Offer the oshibori first and acknowledge the conditions with genuine warmth before doing anything else: only begin check-in once the guest's immediate comfort has been addressed
 
-**Explanation:** A guest who is wet and frustrated needs their physical and emotional state acknowledged before they can engage with an administrative process. Prioritising the oshibori and the weather greeting communicates: "you matter more than the process." The check-in will take three minutes either way; the order signals what the property values.
+**Explanation:** A guest who is wet and frustrated cannot engage meaningfully with an administrative process until their immediate discomfort has been noticed and addressed. The oshibori and the warm acknowledgement of the conditions say "we saw you coming and we prepared for this," which is very different from handing it over mid-check-in as an afterthought. The check-in itself takes the same amount of time either way; the sequence is what changes the guest's experience.

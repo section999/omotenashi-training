@@ -55,4 +55,4 @@ Return the guest's bow at an equal or slightly deeper angle. Never fail to retur
 
 **Correct Answer:** A 30-degree bend from the waist with a straight back, holding briefly at the deepest point
 
-**Explanation:** A keirei bow bends from the waist (not the neck), keeps the back straight, and holds at the deepest point for one to two seconds. Bowing and speaking simultaneously is a common error: they should be separate actions.
+**Explanation:** Keirei, the standard guest bow, requires bending from the waist with a straight back and holding briefly at the deepest point before rising smoothly. A neck nod is too casual for a guest greeting, a 45-degree bow is reserved for deep apology or VIP reception, and bowing while speaking is a common error because it splits attention and reduces the sincerity of both actions. The bow and the words belong in sequence, not simultaneously.

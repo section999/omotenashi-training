@@ -49,4 +49,4 @@ A traditional practice of sprinkling water on the ground outside entrances to co
 
 **Correct Answer:** The practice of sprinkling water outside to cool the air: a proactive gesture of guest care
 
-**Explanation:** Uchimizu is a traditional cooling technique that also demonstrates anticipatory attentiveness (kikubari): the host has already considered the guest's comfort before they arrive.
+**Explanation:** Uchimizu is the practice of sprinkling water on the ground outside an entrance to cool the air through evaporation. What makes it significant in hospitality is that it happens before the guest arrives, making it an expression of anticipatory care. It is not a drink, a floral arrangement, or a towel service; it is an outdoor gesture of thoughtful preparation.

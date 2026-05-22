@@ -53,4 +53,4 @@ Similarly, silence is not awkward in Japanese communication. It is thoughtful. A
 
 **Correct Answer:** Gently follow up with an open-ended question
 
-**Explanation:** Non-verbal signals suggest the guest may not actually be fine. A quiet, gentle follow-up: "Is there anything I can help make more comfortable?": gives them space to share without pressure.
+**Explanation:** In Japanese communication, guests rarely express dissatisfaction directly; discomfort surfaces instead through body language like averted gaze and crossed arms. When the words say "fine" but the body says otherwise, a gentle open-ended follow-up gives the guest a face-saving way to share what is actually wrong. Accepting the verbal answer at face value, or drawing attention with a loud apology, both fail to read the full picture.

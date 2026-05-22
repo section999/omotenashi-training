@@ -50,4 +50,4 @@ A common structural pattern is **お + verb stem + する / いたす** (e.g., *
 
 **Correct Answer:** Lowering the speaker's own action as a sign of deference
 
-**Explanation:** いたす is the kenjōgo form of する. By using it, the staff member expresses that their own action (checking) is performed humbly and respectfully in service of the guest.
+**Explanation:** Kenjōgo lowers the speaker's own actions to honour the guest, and いたす is the kenjōgo form of する. Here the staff member is describing their own action of checking, so lowering that action through いたします is correct. Using sonkeigo for your own actions, or mistaking this for a request or a sign of uncertainty, would be a misreading of what kenjōgo does.

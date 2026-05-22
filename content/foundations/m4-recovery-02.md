@@ -50,4 +50,4 @@ Once the guest has finished speaking, before you respond at all, reflect their e
 
 **Correct Answer:** Let them finish speaking completely before responding
 
-**Explanation:** Even if you already understand the problem, interrupting communicates that you are more focused on resolving the transaction than on the guest's experience. Listening fully: without interruption: is the foundation of every successful service recovery interaction.
+**Explanation:** Even when you already know the answer, cutting the guest off signals that closing the complaint matters more to you than the guest's experience of being heard. Letting them finish, completely, is itself a form of care. Filling in forms, signalling a colleague, or offering solutions mid-sentence all make the same mistake: they prioritise the outcome over the person.

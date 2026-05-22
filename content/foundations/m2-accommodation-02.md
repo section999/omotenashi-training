@@ -57,4 +57,4 @@ End with an open offer. *"何かご不明な点がございましたら、いつ
 
 **Correct Answer:** Slightly ahead and to the side, pausing to indicate direction with an open hand
 
-**Explanation:** Walking slightly ahead and to the side guides the guest without the staff member dominating the path. Pausing and indicating with an open hand is the standard hospitality gesture for directing guests.
+**Explanation:** Walking slightly ahead and to the side keeps the guest informed of the route without leaving them trailing behind or feeling followed. The open-hand gesture, palm up, fingers together, signals direction clearly and respectfully, while also avoiding the pointing finger, which is considered rude in Japanese hospitality. Walking too fast, too close, or with constant eye contact all create different forms of discomfort for the guest.

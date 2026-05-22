@@ -53,4 +53,4 @@ Complaints, refund discussions, contract terms, and anything that may need to be
 
 **Correct Answer:** "Thank you for your message. Your check-in time is 3:00 p.m. We look forward to welcoming you. Please let us know if there is anything we can arrange in advance."
 
-**Explanation:** Even on an informal messaging platform, the professional standard of hospitality applies. The response is warm, clear, complete, and proactive: offering to assist further rather than simply closing the exchange.
+**Explanation:** A messaging app doesn't lower the service standard; it just changes the medium. The correct reply confirms the information clearly, uses full sentences, and opens the door for the guest to ask for more, rather than closing the exchange with a terse confirmation. The other options are either too casual, too clipped, or miss the warmth that turns a basic answer into a small moment of hospitality.

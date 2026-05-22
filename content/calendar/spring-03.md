@@ -45,4 +45,4 @@ Practically:
 
 **Correct Answer:** Manage the queue at the desk with maintained warmth; signal to each waiting guest that they have been seen; communicate wait times honestly; deploy any available colleague to assist
 
-**Explanation:** Volume does not excuse reduced quality of interaction. Each guest in the queue is on holiday and has anticipated this moment. Maintaining genuine warmth: even when under pressure: is the difference between a property that manages Golden Week and one that thrives during it. Brief eye contact with waiting guests, an honest wait-time estimate, and a genuine word of thanks for patience costs nothing and changes everything.
+**Explanation:** Every guest in that queue is on a planned holiday and has been looking forward to this moment. Rushing through greetings, abandoning the desk for the phones, or asking guests to come back later all communicate that efficiency matters more than they do. Acknowledging each waiting guest with eye contact and an honest wait-time estimate takes a few seconds and signals that the pressure is real but they have not been forgotten.

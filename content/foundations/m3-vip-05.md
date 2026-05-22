@@ -54,4 +54,4 @@ Once the guest has departed, conduct an internal review. What failed, why, and w
 
 **Correct Answer:** A senior manager should respond in person: acknowledging, apologising, resolving, and following up
 
-**Explanation:** At the VIP level, a significant failure requires a personal, senior response. Phone calls and written apologies lack the weight of a face-to-face acknowledgement. The response must be immediate, sincere, and followed up personally.
+**Explanation:** A significant failure at the VIP level demands a personal, senior response delivered face-to-face. A phone call or written apology lacks the sincerity and weight that the situation requires, and a housekeeping note signals the property did not take the failure seriously. The response must acknowledge the specific failure, apologise genuinely, resolve it, and follow up to confirm the guest is satisfied.

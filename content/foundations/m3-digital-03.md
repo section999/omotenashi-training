@@ -53,4 +53,4 @@ Online reviews on platforms such as Google, TripAdvisor, and booking sites are n
 
 **Correct Answer:** "If you found" implies the complaint may not be valid: it is not a genuine acknowledgement of the guest's experience
 
-**Explanation:** "Sorry if you found" places doubt on the guest's experience. A genuine response acknowledges the issue directly: "We are sorry that your stay was affected by noise." Conditional apologies read as defensive and further damage the relationship.
+**Explanation:** "If you found" quietly suggests the guest's complaint might not be valid, which is the opposite of an apology. A proper acknowledgement names the issue plainly: "We are sorry your stay was affected by noise." Thousands of people reading that exchange will notice the difference between genuine ownership and a conditional non-apology.

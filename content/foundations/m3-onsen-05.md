@@ -60,4 +60,4 @@ In practice, the guests most at risk are often the least likely to mention it: e
 
 **Correct Answer:** Suggest they wait at least an hour after drinking before bathing, and explain why calmly
 
-**Explanation:** Bathing immediately after alcohol consumption significantly increases the risk of dizziness, fainting, and cardiac events. Proactively communicating this guidance: in a warm, non-alarming way: is a genuine act of care for the guest's safety.
+**Explanation:** Bathing after drinking significantly raises the risk of dizziness, fainting, and cardiac episodes, and guests unfamiliar with onsen customs are unlikely to know this. Proactively suggesting they wait, framed warmly rather than as a warning, is a genuine act of care. Banning them from the onsen entirely is an overreaction, and saying nothing is a failure of duty.

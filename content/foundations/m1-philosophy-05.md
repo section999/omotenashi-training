@@ -54,4 +54,4 @@ One more thing worth keeping in mind: when you are unsure whether to add somethi
 
 **Correct Answer:** The minimal, considered aesthetic reflects wabi-sabi: the deliberate absence of unnecessary elements is itself an act of care and hospitality
 
-**Explanation:** Wabi-sabi values restraint and intentionality. A space that has been deliberately simplified: each element chosen because it belongs: communicates more genuine care than one filled with generic amenities. The guest feels that thought has been given to their experience, not that the room has been furnished to a checklist.
+**Explanation:** Wabi-sabi is not about absence for its own sake; it is about choosing only what genuinely belongs and removing everything else. Each object in that room, the seasonal arrangement, the handmade tea set, the natural linen, was chosen because it serves the guest's experience of calm and care. A room that has been thoughtfully edited communicates more than one that has been filled, and the wrong answers all miss that point by treating the room as incomplete, cost-driven, or governed by an arbitrary rule about furniture.

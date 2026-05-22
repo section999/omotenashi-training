@@ -49,4 +49,4 @@ Students sometimes experience the senpai-kōhai structure as rigid or awkward at
 
 **Correct Answer:** Raise the concern privately with the senior colleague or manager after the guest interaction has concluded
 
-**Explanation:** Disagreements among staff should never be visible to guests. The appropriate time to raise a concern is privately, after the interaction, and through the correct channel: either directly with the senior or via the manager.
+**Explanation:** Correcting a colleague in front of a guest damages both the guest's experience and staff trust in one move. Staying silent entirely ignores a real problem. Going straight to the general manager bypasses the proper channel. Raising the concern privately with the senior colleague or manager, after the guest interaction is over, addresses the issue through the right structure without creating visible conflict.

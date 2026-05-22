@@ -62,4 +62,4 @@ Worth noting: this approach gives the guest a face-saving way to change their mi
 
 **Correct Answer:** Offer an alternative option gracefully
 
-**Explanation:** "ちょっと..." is a soft, indirect cue of hesitation or rejection. The correct approach is to offer an alternative that gives the guest a comfortable way forward without losing face.
+**Explanation:** "ちょっと..." paired with a long pause is a classic indirect refusal in Japanese communication. Repeating your original recommendation ignores the signal entirely; asking directly whether they dislike it puts the guest in the uncomfortable position of having to say "no" out loud. Offering an alternative gracefully lets them move to something better without ever needing to criticise your first suggestion.

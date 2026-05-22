@@ -47,4 +47,4 @@ Every staff member who may come into contact with the VIP guest or their entoura
 
 **Correct Answer:** The personal assistant has delegated authority and significantly influences how the guest's stay is perceived
 
-**Explanation:** A PA or chief of staff manages communication between the property and the principal guest. Their experience directly shapes the guest's experience. A PA who is frustrated or poorly served will communicate that: consciously or not: to the person they support.
+**Explanation:** A PA or chief of staff manages the guest's schedule, communicates preferences, and filters how the stay is perceived by the principal. If a PA is poorly served or left feeling like an afterthought, that frustration finds its way back to the guest, whether directly or through the quality of coordination. Treating support staff with the same attentiveness as the principal is not a courtesy; it is how VIP service actually works.

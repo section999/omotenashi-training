@@ -43,4 +43,4 @@ Report bad news immediately. Waiting to surface a problem, hoping it will resolv
 
 **Correct Answer:** The server thanks the guest and immediately contacts reception (renraku) to ensure the information reaches the right team
 
-**Explanation:** Renraku: proactive information-sharing: ensures that a guest's need expressed in one part of the property is known throughout the property. Failing to relay the information creates a gap in service that the guest will feel.
+**Explanation:** When a guest shares a need at breakfast, renraku (proactive information-sharing) requires passing that information to whoever needs to act on it, in this case reception and housekeeping, right away. Noting it mentally, redirecting the guest, or assuming the system will handle it all create gaps the guest will feel when they try to access their room later.

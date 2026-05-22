@@ -55,4 +55,4 @@ Train yourself to use a *soft gaze*: relaxed eye muscles, a slight smile in the 
 
 **Correct Answer:** Defiance or defensiveness: in this context, a softer gaze with a slight downward tilt is more appropriate
 
-**Explanation:** Hard eye contact during an apology can read as challenging or unrepentant. In Japanese hospitality, a humble, downward gaze combined with a slight bow communicates genuine acknowledgement of the situation. The message is: "I am not defending myself; I am accepting that something has gone wrong and I am committed to making it right."
+**Explanation:** Sustained eye contact during an apology can read as defiance rather than remorse, regardless of intent. A softened gaze angled slightly downward, paired with a gentle bow, communicates genuine humility and acknowledgement. Confidence and sincerity in this moment are shown through your words and your composure, not through holding someone's stare.

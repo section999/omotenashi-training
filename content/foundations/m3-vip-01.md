@@ -48,4 +48,4 @@ Some VIP guests find elaborate, visible attention uncomfortable. They want to be
 
 **Correct Answer:** The margin for error narrows and personalisation deepens: but the core principles remain the same
 
-**Explanation:** VIP service is not a different discipline: it is omotenashi applied with greater precision. The guest's need to feel welcomed and cared for does not change; what changes is the depth of preparation and the intolerance for gaps.
+**Explanation:** VIP service is omotenashi applied with greater precision and a narrower tolerance for gaps. The core principles, anticipation, sincerity, genuine warmth, remain exactly the same; what shifts is how deeply those principles must be prepared for and how quickly any shortfall is noticed. Expensive amenities and senior managers don't define VIP service; the consistency and depth of care does.

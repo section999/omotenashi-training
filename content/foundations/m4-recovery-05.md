@@ -47,4 +47,4 @@ That said, the end of a stay is a natural moment to close the loop. At check-out
 
 **Correct Answer:** Briefly and warmly check in to ensure their stay has been comfortable since the incident
 
-**Explanation:** A follow-up shows that the resolution was genuine, not transactional. A brief, warm check-in: "I hope this morning has been more comfortable": costs almost nothing and communicates that the establishment's care extends across the entire stay, not just to the moment a complaint is closed.
+**Explanation:** A brief, warm check-in at the next natural moment shows the guest that your care did not end when the complaint was resolved. Avoiding them would read as awkward and leave trust unrepaired. Apologising at length in public creates embarrassment for everyone. Handing them a feedback form turns a human moment into an administrative one. A simple, genuine "I hope this morning has been more comfortable" costs almost nothing and means a great deal.

@@ -46,4 +46,4 @@ Guests occasionally walk into staff areas or overhear back-of-house conversation
 
 **Correct Answer:** Step in immediately to greet and assist the new guest yourself
 
-**Explanation:** Mutual support means not leaving a guest unattended when a colleague is occupied. Stepping in ensures the guest is welcomed without delay and demonstrates seamless teamwork.
+**Explanation:** In omotenashi, a guest who is waiting and ungreeted has already had a gap in service. Stepping in immediately closes that gap and shows the guest that any member of the team is ready to help them. Waiting for your colleague to finish, or signalling from a distance, puts the team's convenience above the guest's experience.

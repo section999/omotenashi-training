@@ -53,4 +53,4 @@ Kokorozukai is not occasional. It is a way of moving through every interaction w
 
 **Correct Answer:** Ensure the firmer pillow is already in the room before arrival, arrange for green tea to be offered proactively at breakfast, and consider leaving a small note about local ceramics from the concierge
 
-**Explanation:** True omotenashi acts on what is known before the guest asks. The guest should arrive to find their preference already met: not be asked to repeat it. Acting on previous notes to personalise the arrival is the practical expression of kokorozukai: the guest is held in mind, and that care is made visible through action.
+**Explanation:** True omotenashi acts on what is already known, before the guest has to ask. The other options all require the guest to repeat themselves or wait until this visit to generate data for next time, which misses the whole point of keeping records. When a returning guest finds their pillow preference already met and their tea preference remembered, they feel like a person who was held in mind, not a reservation number being processed again.

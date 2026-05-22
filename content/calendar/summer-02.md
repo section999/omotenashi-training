@@ -57,4 +57,4 @@ Tanabata is one of the most guest-engaging seasonal events in the Japanese hospi
 
 **Correct Answer:** Approach them, explain the Tanabata tradition briefly and warmly, and invite them to write a wish: without pressure if they decline
 
-**Explanation:** A guest who photographs the display is curious and engaged: they simply don't know how to participate. A warm, brief explanation of the tradition followed by a gentle invitation is an act of genuine hospitality. The pressure-free element is essential: the goal is an experience the guest chooses, not an obligation they feel.
+**Explanation:** A guest who stops to photograph the display is showing interest, not disinterest. They are not participating because they do not know how to, and a brief, warm explanation gives them the context to choose to engage. Leaving them to observe assumes they are satisfied; turning away urgency tactics or restrictions only diminishes the experience. The invitation matters; the "no pressure" part matters equally, because it keeps the experience genuine.

@@ -49,4 +49,4 @@ Many international guests have never used a communal bath before, and they genui
 
 **Correct Answer:** Gently explain that left over right is correct, and that right over left has a specific cultural association
 
-**Explanation:** Right over left is traditionally associated with funeral dress. A guest wearing a yukata incorrectly may not know the significance. A brief, kind explanation is both helpful and culturally informative: turning a correction into a moment of learning.
+**Explanation:** Right over left is worn in funeral contexts in Japan, so a guest wearing their yukata that way is making an error with real cultural weight, even if they have no idea. Saying nothing leaves them to walk through the ryokan incorrectly dressed; correcting without explanation fixes the problem but misses the opportunity. A gentle, matter-of-fact explanation gives the guest the knowledge they need and turns a small awkward moment into part of the cultural experience.

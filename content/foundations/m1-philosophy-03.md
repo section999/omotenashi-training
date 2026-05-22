@@ -58,4 +58,4 @@ Worth noting here: students often focus on vocabulary and forget that register c
 
 **Correct Answer:** Sonkeigo: using elevated forms to honour the guest's action
 
-**Explanation:** Sonkeigo (尊敬語) is used when speaking about what the guest does. For eating, the correct form is 召し上がりますか？(meshiagari masu ka?), not 食べますか？. Using kenjōgo for the guest's actions is a common error that inverts the intended relationship.
+**Explanation:** Sonkeigo is the register that elevates the guest, and it applies whenever you are speaking about something the guest does. Asking 召し上がりますか？ rather than 食べますか？ honours that relationship at the level of grammar itself. Applying kenjōgo to a guest's actions is a familiar training error that inverts the intended social asymmetry and signals inadequate preparation to any discerning listener.

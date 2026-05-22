@@ -40,4 +40,4 @@ The highest form of timing is anticipatory, acting before the guest even realise
 
 **Correct Answer:** Wait for a natural pause: when they set down the glass or look up
 
-**Explanation:** Interrupting a guest mid-sip or mid-bite disrupts their experience. The right moment is a natural opening: when the guest signals, through their body language, that they are between moments and available for engagement.
+**Explanation:** Approaching while the guest is still in the middle of their first sip tells them you are tracking your own checklist, not their experience. Checking via a colleague adds unnecessary distance. Waiting only until the very end of the meal misses several natural openings along the way. The right move is to read body language and wait for the moment the guest naturally surfaces, when they set something down or look up, signalling that they are between moments.

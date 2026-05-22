@@ -49,4 +49,4 @@ That said, a farewell that shows the guest was remembered, not just processed, i
 
 **Correct Answer:** The formal farewell: accompanying the guest to the exit and remaining until they are out of sight
 
-**Explanation:** Osenderi expresses that the guest's departure is genuinely felt, not merely administered. Remaining visible and bowing until the guest is out of sight is a powerful final statement of care.
+**Explanation:** Osenderi is the send-off, accompanying the guest to the exit and remaining there, bowing, until they are out of sight. It is the final act of the stay, and it communicates that the guest's leaving matters to the staff, not just their arriving. A written note sent afterward, or a simple return of luggage, would be kind gestures but do not carry the same meaning as being physically present at the moment of departure.

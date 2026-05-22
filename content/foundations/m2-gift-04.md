@@ -49,4 +49,4 @@ Avoid giving gifts in sets of four (四, *shi*, associated with death) or nine (
 
 **Correct Answer:** "This is a trifling thing, but...": a conventional expression of humility to show the relationship matters more than the gift
 
-**Explanation:** Despite sounding self-deprecating, つまらないものですが is a standard, polite phrase used when presenting a gift. It signals that the giver values the relationship over the material object.
+**Explanation:** Tsumaranai mono desu ga is a fixed ritual phrase, not a genuine complaint about the gift's quality. By downplaying the object, the giver places the relationship front and centre. None of the other options match what this phrase actually says or does; it is specifically about humility, not the recipient's reaction, a formal instruction, or personalisation.

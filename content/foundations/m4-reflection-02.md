@@ -46,4 +46,4 @@ That said, kaizen asks something of you personally: the honest recognition that 
 
 **Correct Answer:** Making one small improvement to your practice each shift, based on what you noticed that day
 
-**Explanation:** Kaizen is about accumulating small improvements consistently over time, rather than waiting for large interventions. Each shift offers new information; a kaizen mindset uses that information to make the next shift slightly better. Over months and years, this accumulation creates genuine excellence.
+**Explanation:** Kaizen is built on the belief that every person, in every role, can make their work a little better today than yesterday. Waiting for a training programme, accepting that "good enough" is sufficient, or limiting improvement to formal review areas all reject that belief. Small, consistent improvements made from real observation accumulate into a standard no single intervention could ever produce.

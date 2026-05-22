@@ -78,4 +78,4 @@ Students often mistake a flat, expressionless guest for an unhappy one. The tabl
 
 **Correct Answer:** Simplify the process, minimise information, and get them to their room efficiently
 
-**Explanation:** A travel-fatigued guest needs efficiency and quiet care, not more information. Simplify the check-in, anticipate their needs, and prioritise getting them to rest. Fuller engagement can happen after they have recovered.
+**Explanation:** A travel-fatigued guest's cognitive capacity is genuinely limited; loading them with questions, facility tours, or loud, slow speech makes check-in harder, not easier. What they need is efficiency and quiet care, getting to their room as smoothly as possible. A full welcome and property introduction can wait until they have rested and can actually take it in.

@@ -51,4 +51,4 @@ Timing within a single interaction is only part of the picture. The pacing of an
 
 **Correct Answer:** Pause immediately, step back slightly, and wait for a natural break in their conversation before proceeding or excusing yourself
 
-**Explanation:** The guest's conversation takes priority. Continuing to work through someone's speech signals that your operational task matters more than their experience. Pausing and stepping back shows awareness; waiting for a natural break and then proceeding quietly (or with a brief 失礼いたします) is the correct execution of timing in this situation.
+**Explanation:** Carrying on with your task while a guest is mid-sentence sends a clear, unintended message: the work comes first. Pausing and stepping back acknowledges the conversation without drawing attention to yourself, and waiting for a natural break before proceeding quietly, with a brief 失礼いたします if needed, shows exactly the kind of timing awareness that defines good service.

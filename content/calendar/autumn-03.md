@@ -65,4 +65,4 @@ November 3rd falls in the heart of koyo season for most of Japan. Culture Day re
 
 **Correct Answer:** Share all three specific recommendations with brief descriptions of each: what they are, why they are significant, when to go, and which one you personally think is best for them based on anything you know about their interests
 
-**Explanation:** On Culture Day, guests are specifically seeking cultural depth. Giving multiple specific, informed recommendations: including timing and personal guidance: demonstrates both local knowledge and genuine engagement with the guest's experience. The personal recommendation ("based on what you've mentioned, I think you would particularly enjoy...") elevates information to hospitality.
+**Explanation:** Culture Day guests want genuine cultural engagement, not a map they could have found themselves. Sharing all three options with context, timing, and a personal steer based on what you know about the guest shows that you are paying attention to them, not just reciting information. Handing over a pamphlet or naming only the most popular spot misses the point: the guest is asking you because they trust you to know.

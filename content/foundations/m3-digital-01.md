@@ -49,4 +49,4 @@ The standard for hospitality email enquiries is within 24 hours, ideally within 
 
 **Correct Answer:** Acknowledge the full enquiry, answer what you can immediately, and confirm you will follow up on the dining question with a specific timeframe
 
-**Explanation:** A partial response with a clear commitment to follow up is more professional than a delayed complete response. The guest knows their full enquiry has been received and that a timely answer is coming.
+**Explanation:** Answering only part of an enquiry and going silent feels like being ignored; waiting until you have everything risks a long, uncomfortable delay. Acknowledging the whole message, answering what you can immediately, and giving a clear timeframe for the rest shows the guest they are heard and keeps their confidence in you. A 48-hour blanket delay, with no partial answer, falls well short of the professional standard.

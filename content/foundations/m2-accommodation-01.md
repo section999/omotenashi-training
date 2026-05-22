@@ -46,4 +46,4 @@ Staff who understand how these rooms are designed can explain them to curious gu
 
 **Correct Answer:** A decorative alcove with a scroll and seasonal arrangement: nothing should be placed inside it
 
-**Explanation:** The tokonoma is the aesthetic and spiritual focal point of a traditional Japanese room. Placing items inside it is considered disrespectful to the space's design and to the guest's experience.
+**Explanation:** The tokonoma is the room's spiritual and aesthetic centre, holding a single chosen scroll and seasonal arrangement that set the tone of the entire space. It is not storage, a dining surface, or an entryway; placing anything inside it disrupts that intentionality and shows a misunderstanding of the room's design. Staff who know what it is and why it matters can both maintain it correctly and explain it naturally to curious guests.

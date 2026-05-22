@@ -58,4 +58,4 @@ The guest should never feel lesser for their requirement. They should feel that 
 
 **Correct Answer:** Stop service immediately, inform the kitchen of the allergy, confirm the status of all prepared courses with the chef, return to the guest with a specific confirmation of what has been checked and what will be adjusted, and follow through on every remaining course
 
-**Explanation:** A shellfish allergy is a medical safety issue. The correct response is immediate, thorough, and verified: not assumed. The guest needs a specific confirmation that the information has been received by the kitchen and that every course will be checked, not a general reassurance that "we'll take care of it."
+**Explanation:** A serious food allergy is a medical safety issue, not a preference to accommodate when convenient. The correct response is immediate, specific, and verified at every course, not a general reassurance passed along and assumed to have landed. The guest needs to know that the kitchen has received the information, that prepared courses have been checked, and that you will confirm each remaining dish personally.

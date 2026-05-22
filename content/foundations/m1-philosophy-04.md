@@ -58,4 +58,4 @@ The rule: *be present enough to notice; discreet enough not to intrude.* Proacti
 
 **Correct Answer:** Proactive service and kikubari: anticipating needs and acting on subtle observations before being asked
 
-**Explanation:** Proactive service acts before the guest asks. Kikubari is the attentive awareness that makes this possible: noticing the guest's state (tired, warm, in need of refreshment) and responding before a request is made. This is the emotional core of omotenashi.
+**Explanation:** Proactive service and kikubari work together: kikubari is the attentive awareness that reads the guest's state, and proactive service is the response that comes before any request is made. Bringing a warm oshibori and adjusting the vent without being asked tells the guest that someone has been paying genuine attention to them as a person, not simply managing the table. That feeling is the emotional core of omotenashi.

@@ -58,4 +58,4 @@ This skill cannot be scripted. It develops through genuine interest in the peopl
 
 **Correct Answer:** The guest is likely tired, stressed, or in a hurry: serve efficiently and warmly, minimise unnecessary conversation
 
-**Explanation:** Reading the air means interpreting the signals a guest sends without waiting for explicit instruction. A brief greeting, averted eye contact, and immediate movement to the task all signal a desire for efficient, professional service with minimum social friction. Match their pace: warm, accurate, and quick.
+**Explanation:** Reading the air means interpreting what a guest communicates without words. A brief greeting, averted eye contact, and sliding the passport straight across all point to one thing: this person wants efficient, professional service with no social friction attached. Warm competence is exactly right here; drawn-out pleasantries are not.

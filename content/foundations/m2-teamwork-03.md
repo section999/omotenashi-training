@@ -47,4 +47,4 @@ A guest who is seamlessly passed between departments feels that the property ope
 
 **Correct Answer:** The receiving colleague is already informed and prepared, so the guest experiences continuity rather than a transfer
 
-**Explanation:** An invisible handover relies on proactive communication (renraku) so that the next colleague can receive the guest as if they already know them. The guest never feels passed on: they feel accompanied.
+**Explanation:** An invisible handover works because the receiving colleague has already been briefed, so they can greet the guest warmly and without hesitation. The guest experiences continuity, not a transfer. The wrong options conflate invisibility with secrecy, or limit the concept to specific floors or shift types, missing the point entirely: it is about preparation, not location or timing.

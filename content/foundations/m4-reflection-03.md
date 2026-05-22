@@ -49,4 +49,4 @@ When team culture supports it, a brief collective review at the end of service, 
 
 **Correct Answer:** The details of specific interactions are still fresh in memory and the shift's patterns are visible as a whole
 
-**Explanation:** Reflection is most useful when it is connected to specific, recent events. At the end of a shift, the details of interactions: who said what, what felt right, what felt uncertain: are still accessible. Waiting until the following day, or not reflecting at all, allows these insights to fade before they can be used.
+**Explanation:** Specific, fresh memories are the raw material of useful reflection. Right after a shift, you can still recall the exact moment a guest looked uncomfortable, the interaction that felt particularly right, the small thing that caused an unnecessary delay. By the following day, those details have faded. That freshness is the whole reason end-of-shift is the best moment to reflect, not because staff are relaxed or required to, but because the material is still there.

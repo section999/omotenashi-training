@@ -61,4 +61,4 @@ Like cherry blossoms, koyo is **weather-dependent and changes daily.** The quest
 
 **Correct Answer:** Briefly check with a colleague or a reliable source, then give the guest a specific and accurate update: including current conditions, how many days they are likely to continue at peak, and the best time of day to visit
 
-**Explanation:** Koyo conditions change daily, and a guest who misses the peak because of inaccurate information will feel let down. Professional hospitality requires accurate knowledge: and when you don't have it, the correct response is a brief check rather than a guess. Returning with specific, current information is far more valuable than an immediate but uncertain answer.
+**Explanation:** Koyo conditions change daily, so a guest who acts on a vague guess and misses the peak will feel genuinely let down. Taking thirty seconds to verify with a colleague and returning with specific, current information shows far more respect for the guest's time than an immediate but uncertain answer. Guessing, deflecting to an app, or softening the truth with "probably beautiful" all fail the same way: they leave the guest without what they actually need.

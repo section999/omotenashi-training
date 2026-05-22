@@ -53,4 +53,4 @@ One more thing worth saying: guests often feel anxious about getting something w
 
 **Correct Answer:** Wash and rinse thoroughly at the shower station
 
-**Explanation:** Washing completely before entering is both a hygiene requirement and a fundamental social expectation in onsen culture. Entering the communal bath without washing is considered deeply inconsiderate to other bathers.
+**Explanation:** Pre-bath washing at the karan station is non-negotiable: it protects the shared water and is a deeply held social expectation that every other bather depends on. Skipping this step is one of the most serious breaches of onsen etiquette and will be noticed. The other options describe things that are either not required at all or specific to particular facilities.

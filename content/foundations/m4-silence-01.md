@@ -46,4 +46,4 @@ Ma cannot be taught as a technique. It must be cultivated as a sensitivity, an a
 
 **Correct Answer:** Intentional, meaningful space that communicates presence and care
 
-**Explanation:** Ma is not silence by default: it is chosen space. It communicates that the staff member is present, unhurried, and fully attending to the guest. It is one of the most powerful tools in advanced hospitality practice.
+**Explanation:** Ma is not what happens when you have nothing to say; it is what you choose when the moment calls for space rather than words or movement. An awkward pause signals uncertainty, a technique for avoiding eye contact makes no sense, and a cue that you are leaving misreads it entirely. Intentional, chosen space communicates presence and unhurried care in a way that words often cannot.

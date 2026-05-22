@@ -56,4 +56,4 @@ In practice, the bow during an apology carries as much meaning as the words. The
 
 **Correct Answer:** "申し訳ございません: I am truly sorry. You waited far longer than is acceptable."
 
-**Explanation:** The apology must come first: before explanations, before compensation offers, before context. A sincere, unconditional apology delivered with presence and an appropriate bow is what allows the guest to feel genuinely heard and respected. Everything else follows.
+**Explanation:** A sincere, unconditional apology must come before anything else. Explaining the system error before apologising shifts attention to the establishment's circumstances rather than the guest's experience. Jumping straight to a drink offer skips acknowledgement entirely. Starting with 申し訳ございません, naming what the guest actually endured, is what allows them to feel respected rather than processed.

@@ -52,4 +52,4 @@ The last stage of this topic is personal. Where in your service do you rush? Whe
 
 **Correct Answer:** Wait for a pause in their conversation, then clear quietly and move without disrupting the flow
 
-**Explanation:** Ma means waiting for the right moment. Interrupting a guest's conversation: even for a routine task: fractures the atmosphere you are responsible for protecting. The brief wait for a natural pause is always the right choice.
+**Explanation:** Clearing plates is your job, but so is protecting the guest's experience, and those two things only conflict if you choose the wrong moment. Proceeding mid-sentence treats the task as more important than the conversation. Announcing yourself draws attention you do not need. Clearing only part of the table creates a half-finished, uncomfortable impression. Waiting for a natural pause, then moving quietly and completely, is how the task gets done without anyone noticing it happened.

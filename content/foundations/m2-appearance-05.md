@@ -50,4 +50,4 @@ In a group of guests, distribute eye contact evenly. Consistently ignoring one m
 
 **Correct Answer:** Extend an open hand, palm up, fingers together, toward the elevator
 
-**Explanation:** Pointing with a single index finger is considered rude in Japanese hospitality. The correct gesture is an open hand with fingers together, which is both polite and clear.
+**Explanation:** Pointing with a single index finger is considered rude or aggressive across many hospitality contexts, and Japanese professional standards are particularly clear on this. The open hand with palm up and fingers together conveys direction in a way that is also respectful and unambiguous. A nod toward the elevator leaves the guest guessing, and walking them there without explanation removes their agency. The open-hand gesture gives clear, polite guidance while the guest remains in control of their own movement.

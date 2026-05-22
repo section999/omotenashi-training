@@ -47,4 +47,4 @@ Worth noting: the fifth step is not optional. Hansei without a clear intention t
 
 **Correct Answer:** Hansei is a structured, forward-looking reflection aimed at improvement; regret circles the same moment without generating change
 
-**Explanation:** Hansei is generative: it produces insight and specific intention to act differently. It is not self-criticism or dwelling; it is the disciplined turning of attention toward one's own practice in the service of continuous growth. The difference is orientation: backward for understanding, forward for action.
+**Explanation:** Regret replays what happened without producing anything useful. Hansei looks back at the same moment with a different purpose: to understand what went wrong, what was missed, and what to do differently next time. It is forward-looking by design, and it always ends with a concrete intention. That forward orientation is what makes it a professional tool rather than emotional dwelling.

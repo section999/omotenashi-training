@@ -65,4 +65,4 @@ When front-line staff know they have both the authority and the support to make 
 
 **Correct Answer:** Only if the guest specifically requests to speak with a manager, or if the room move requires authorisation above your level: otherwise, continue handling it yourself
 
-**Explanation:** A complaint that is within your authority to resolve should be resolved by you, directly. Escalating unnecessarily introduces a wait, interrupts the relationship, and signals to the guest that you couldn't handle it. If the room move is within your authority and the guest is responding well, carry it through yourself. Reserve escalation for situations that genuinely require a senior presence.
+**Explanation:** When a complaint is within your authority and the guest is engaged with you, escalating it unnecessarily introduces a wait, breaks the relationship that has built up, and signals to the guest that you lacked the standing or confidence to act. Handle what you can handle. Escalation is for situations that genuinely require a senior presence, not for situations that make you anxious.

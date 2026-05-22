@@ -66,4 +66,4 @@ If the guest does express dissatisfaction, thank them. A guest who tells you the
 
 **Correct Answer:** Stage 1: minor irritation, early signal
 
-**Explanation:** Checking the time repeatedly is a classic Stage 1 signal: minor irritation, likely related to wait time. This is the ideal moment to proactively approach with a warm check-in and address the issue before it escalates.
+**Explanation:** Repeatedly checking the time is a Stage 1 signal of minor irritation, most likely about a wait. At this stage the guest has not yet decided to complain or disengage, so a quiet, warm check-in can resolve the issue before it compounds. Calling it "no dissatisfaction" misses an early cue; calling it Stage 2 or 3 overstates it and makes intervention feel too urgent.

@@ -39,4 +39,4 @@ The atmosphere of Obon is unlike any other travel period in Japan. It is neither
 
 **Correct Answer:** The guest likely wants quiet, private time: perhaps connected to the reflective nature of Obon. Honour this completely: assign the quietest available room, note the preference, and be attentive without intruding
 
-**Explanation:** During Obon, solitude and reflection are entirely appropriate emotional states. A guest who wants quiet is not suffering from poor service: they may be honouring their ancestors or simply taking time for themselves in the spirit of the season. Omotenashi includes honouring the desire for space with the same attentiveness as any other request.
+**Explanation:** During Obon, choosing solitude is a natural and meaningful response to the season, not a sign that something has gone wrong. This guest has communicated their needs clearly by requesting a quiet room and declining amenities; respecting that completely is the hospitality. Suggesting the bon odori to lift their mood, checking on them repeatedly, or probing for dissatisfaction would all misread the situation and intrude on something private.

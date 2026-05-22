@@ -49,4 +49,4 @@ Culture is built slowly and can be damaged quickly. The leader who cuts corners 
 
 **Correct Answer:** Consistently model the standards they expect: in every interaction, every day: and create regular moments that celebrate excellent guest care
 
-**Explanation:** Culture is built through consistent action and shared ceremony: not policy documents. A leader who embodies the standards they expect, and who regularly celebrates those standards when they appear in others, creates a team that carries those values as their own.
+**Explanation:** Culture is what people do when no rule requires it, and it is built through consistent behaviour and shared recognition, not documents or posters. A leader who models the standard in every interaction, and who regularly names and celebrates excellent care when it happens, gives the team a living example to follow. Policies and mission statements tell people what is expected; a leader who lives it shows them what it actually looks like.

@@ -53,4 +53,4 @@ The concept of **ma (間)**, the Japanese aesthetic principle of meaningful paus
 
 **Correct Answer:** Wait until a natural pause in conversation, then make brief eye contact with both guests before asking if they are ready for the dessert menu: allowing them to control the transition
 
-**Explanation:** The guest's experience of the meal should feel like it moves at their rhythm. Interrupting an animated conversation to serve efficiently subordinates the guest's enjoyment to the kitchen schedule. Waiting for a natural pause: visible but not hovering: gives the guests control of the pacing while ensuring the staff member is ready when needed.
+**Explanation:** The guest's experience of the meal should feel like it moves at their own rhythm. Clearing plates mid-conversation, or setting down menus without any acknowledgement, both substitute the kitchen's schedule or the staff member's convenience for the guest's natural pace. Waiting for a brief pause, making quiet eye contact, and asking gently returns control to the guests. They finish the course when they are ready, not when it is convenient to clear.

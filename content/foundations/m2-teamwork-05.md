@@ -48,4 +48,4 @@ The best teams build a culture where information is shared freely and without bl
 
 **Correct Answer:** Information about guest needs, preferences, and issues disappears between shifts, causing service gaps
 
-**Explanation:** When information is not effectively transferred between shifts, the incoming team starts without context. Guests experience this as inattentiveness or inconsistency: the illusion of seamless, personalised service breaks down.
+**Explanation:** A guest's stay does not pause when the team changes. If the incoming staff don't know who made a complaint, who has a special request, or who is checking out late, they cannot deliver continuity of care. The guest who experiences that gap doesn't know about shift changes; they just know they weren't remembered.

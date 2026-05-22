@@ -42,4 +42,4 @@ For working hospitality professionals, ichi-go ichi-e is a call to full presence
 
 **Correct Answer:** "One time, one meeting": the idea that every guest encounter is unique and irreplaceable, demanding complete dedication
 
-**Explanation:** Ichi-go ichi-e is a foundational principle in Japanese hospitality. It means that because this particular moment with this particular guest will never recur, the host owes it everything. It is both a philosophical commitment and a practical reminder that every interaction deserves full presence.
+**Explanation:** Ichi-go ichi-e originates in the tea ceremony tradition of Sen no Rikyu and carries directly into professional hospitality. Because this exact encounter, with this person, at this moment, will never happen again in quite the same way, the host owes it complete attention and preparation. It is both a philosophical stance and a daily discipline.

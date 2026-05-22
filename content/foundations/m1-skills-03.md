@@ -58,4 +58,4 @@ Not every request calls for an extended response. A guest who asks for a glass o
 
 **Correct Answer:** Process the payment, ask whether they need their luggage brought down, offer to arrange transport, and confirm whether they have everything they need before departure: all without being asked
 
-**Explanation:** A checkout request contains an implied departure. Anticipating the natural next steps: luggage, transport, anything forgotten: is the extension of care that transforms an efficient transaction into a warm farewell. The guest should leave feeling that the property thought of everything, not that they had to ask for each step.
+**Explanation:** "I'd like to pay the bill" is really "I'm about to leave," and skilled hospitality reads the implied departure behind the stated request. Loyalty points and feedback forms serve the property, not the guest. A warm, practical farewell, luggage brought down, transport arranged, anything forgotten checked for, is what makes a checkout feel like care rather than a transaction. The guest should leave feeling looked after, not queued through.

@@ -48,4 +48,4 @@ In Japanese workplace culture, junior colleagues are often reluctant to admit un
 
 **Correct Answer:** Find a private moment to discuss what happened, what they noticed, and how they might approach it differently next time
 
-**Explanation:** Effective mentoring develops judgment and self-awareness, not just compliance. A private, reflective conversation: focused on what the colleague noticed and learned: builds professional capability in a way that public correction or documentation cannot.
+**Explanation:** Mentoring builds judgment and self-awareness, and that requires a private conversation with space for honest reflection, not a public correction or a formal record. Correcting someone in front of colleagues creates embarrassment that shuts down learning; ignoring the error leaves a gap in understanding that will likely recur. A quiet, reflective debrief after the fact is how professionals actually grow.

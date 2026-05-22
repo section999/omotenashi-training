@@ -46,4 +46,4 @@ Leadership by example works like a quiet ripple: each person's conduct influence
 
 **Correct Answer:** Greet the guest with full professional presence and energy, as though it were the start of the shift
 
-**Explanation:** Leading by example means maintaining standards even when it is difficult. Junior staff observe how senior colleagues behave under pressure: and this observation shapes the standard they believe is acceptable. Full presence for every guest, every time, is not optional for those in leadership roles.
+**Explanation:** Junior staff learn by watching senior colleagues, which means behaviour under pressure sets the standard just as much as behaviour at its best. Delegating to a junior colleague, rushing through the greeting, or explaining that the shift has been long all communicate that full presence is conditional. Maintaining composure and warmth for the last guest of a long shift is precisely what mite manabu looks like in practice.

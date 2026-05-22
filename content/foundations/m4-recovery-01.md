@@ -51,4 +51,4 @@ Each of these steps will be explored in the lessons that follow. For now, just u
 
 **Correct Answer:** A well-handled response to this complaint may leave the guest more satisfied than if there had been no noise at all
 
-**Explanation:** The service recovery paradox shows that a genuine, caring response to a complaint can actually strengthen the guest's trust and loyalty more than a stay with no problems. The key is responding with sincerity, speed, and genuine concern.
+**Explanation:** When a complaint is handled with genuine care, the guest sees the human quality of the establishment in a way that a smooth, uneventful stay rarely reveals. That visibility of real care is what builds loyalty. Minimising the complaint, offering a refund immediately, or escalating without engagement all skip the most important thing: showing the guest they are truly heard and valued.

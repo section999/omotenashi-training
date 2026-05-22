@@ -50,4 +50,4 @@ Staff should not post about guests, share images taken in guest areas during wor
 
 **Correct Answer:** Acknowledge the comment publicly with empathy and invite the guest to contact the property privately to resolve it
 
-**Explanation:** A public acknowledgement shows other readers that the property is responsive and caring. Moving the resolution to a private channel allows the issue to be addressed properly without further public escalation. Ignoring, deleting, or arguing publicly all damage the property's reputation more than the original complaint.
+**Explanation:** When a complaint is public, the response is also public, which means potential guests are watching how the property handles it. A visible, empathetic acknowledgement followed by an invitation to resolve things privately shows that the property listens and takes responsibility. Deleting the comment looks evasive; arguing publicly makes things worse; ignoring it reads as indifference to anyone who sees it.

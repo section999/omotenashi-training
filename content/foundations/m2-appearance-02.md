@@ -46,4 +46,4 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 
 **Correct Answer:** It can interfere with the guest's experience of food aromas and may cause discomfort for sensitive guests
 
-**Explanation:** In dining environments especially, fragrance from staff can mask or distort food aromas, reducing the quality of the guest's sensory experience. Guest comfort always takes priority over personal preference.
+**Explanation:** In a dining setting, the guest's sensory experience of food and wine is central to what they are paying for. Strong fragrance from a nearby staff member can genuinely disrupt that, either masking delicate aromas or triggering discomfort in guests with sensitivities. This is not a cultural rule specific to Japan or to ryokan settings; it applies wherever food is being served. Minimising fragrance is a practical act of care for the guest's experience.

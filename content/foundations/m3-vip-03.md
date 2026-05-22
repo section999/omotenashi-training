@@ -48,4 +48,4 @@ Requests that are illegal, harmful, or deeply unethical are declined firmly and 
 
 **Correct Answer:** Acknowledge the request and commit to finding the best way to arrange it
 
-**Explanation:** VIP guests should not encounter walls. The correct response is to take ownership of the request and find a solution: through internal resources, local networks, or partner providers. A flat refusal communicates a failure of resourcefulness, not just availability.
+**Explanation:** VIP guests expect problems to be solved, not redirected. Taking ownership of the request, even before knowing how it will be fulfilled, signals that you will find a way. A flat apology communicates a failure of resourcefulness; immediately escalating to the GM without attempting any solution abandons the guest at the first difficulty. Vague reassurance with no commitment is equally unhelpful.

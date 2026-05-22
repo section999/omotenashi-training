@@ -50,4 +50,4 @@ The concept of *kansha* (感謝, gratitude) intensifies at year's end. For hospi
 
 **Correct Answer:** Until approximately January 7th
 
-**Explanation:** In Japanese culture, the New Year's greeting is used from January 1st until around January 7th (松の内, *matsu no uchi*: the period when New Year's decorations remain displayed). After this period, standard greetings resume.
+**Explanation:** The New Year's greeting is tied to 松の内 (matsu no uchi), the period when New Year's decorations remain displayed, which ends around January 7th. Using it after that date sounds out of place, just as using it only on January 1st would waste the whole greeting window. Stretching it through winter or through the end of January would be incorrect.

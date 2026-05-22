@@ -42,4 +42,4 @@ In practice, you should know your top three omiyage picks before anyone asks. Wh
 
 **Correct Answer:** It allows the gift to be distributed among multiple people, one portion at a time
 
-**Explanation:** The social function of omiyage is sharing: bringing something back for everyone. Individual wrapping makes it easy to distribute the gift among colleagues or family members, which is the cultural expectation.
+**Explanation:** Omiyage exists to be shared among a group, and individual wrapping is what makes that possible. Each person receives their own portion, which fulfils the social purpose of the gift. Travel protection or shelf life are secondary concerns; what matters is that you can hand one piece to each colleague without awkwardness.

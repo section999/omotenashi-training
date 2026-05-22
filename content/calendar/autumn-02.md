@@ -55,4 +55,4 @@ A small gesture from the property specifically directed at the elderly guest, a 
 
 **Correct Answer:** Address the grandmother directly and warmly as the primary guest; proactively offer accessible routing, an unhurried pace, and any practical assistance; consider a small personal acknowledgement of the occasion
 
-**Explanation:** On Keirō no Hi, the elderly guest is the honoured person. Directing communication to them: not around them to accompanying family: is a fundamental act of respect. Proactive physical assistance and a slowed service pace honour their dignity; a small gesture of acknowledgement makes the occasion real.
+**Explanation:** On Keirō no Hi, the grandmother is the honoured guest, and directing your attention to her rather than routing everything through the adult managing the booking is a basic act of respect. Proactive, quietly offered assistance with routes and pace honours her dignity without making her feel singled out for her limitations. A small personal gesture, a seasonal sweet or a brief note, tells her the property noticed the significance of the occasion.

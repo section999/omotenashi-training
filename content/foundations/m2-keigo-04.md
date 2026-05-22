@@ -46,4 +46,4 @@ Teineigo is the minimum standard in hospitality environments. Sonkeigo and kenj�
 
 **Correct Answer:** のちほど
 
-**Explanation:** のちほど is the formal teineigo equivalent of あとで (later). Substituting formal vocabulary like this elevates everyday speech into appropriate hospitality language.
+**Explanation:** Teineigo is not only about verb endings; swapping casual vocabulary for formal equivalents is just as important. のちほど is the formal replacement for あとで and immediately raises the register of your speech. すぐに means "right away" and そろそろ means "soon/gradually," so neither is a polite version of "later."

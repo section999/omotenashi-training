@@ -40,4 +40,4 @@ In practice, guests participating in these customs will look to you for guidance
 
 **Correct Answer:** A sense of social duty or obligation that motivates gift-giving
 
-**Explanation:** Giri refers to the social obligation that drives much of Japanese gift exchange. Gifts are often given not purely out of personal affection but as an acknowledgement of a relationship and a duty to maintain it.
+**Explanation:** Giri is the sense of social duty that underlies most Japanese gift-giving. A gift expresses that you acknowledge the relationship and feel responsible for maintaining it, which is why the other options miss the point: giri is about obligation and connection, not wrapping styles, seasonal timing, or specific products.

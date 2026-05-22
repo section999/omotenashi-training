@@ -47,4 +47,4 @@ Within the team, clarity and concision matter most. Use specific, unambiguous la
 
 **Correct Answer:** Ask for specific details: which room, what issue, what was done, what still needs follow-up
 
-**Explanation:** Vague information cannot generate effective care. The receiving staff member is now responsible for that guest's experience and needs complete, specific information to continue the care seamlessly. Asking for detail is not questioning your colleague's judgment: it is fulfilling your professional responsibility.
+**Explanation:** "One of the rooms had an issue" gives you nothing to act on. You are now responsible for that guest's experience and you cannot continue the care without knowing what happened, what was done, and what still needs follow-up. Waiting to see if something surfaces, or escalating without first gathering context, both leave the guest at risk of falling through the gap between shifts.

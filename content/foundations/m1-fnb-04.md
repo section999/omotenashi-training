@@ -54,4 +54,4 @@ Not every interaction calls for a recommendation. A guest who has clearly decide
 
 **Correct Answer:** Recommend a dessert that complements the light, delicate nature of their meal: ideally the seasonal or in-house preparation: and explain why it suits what they have been eating
 
-**Explanation:** A good recommendation follows from what the guest has already experienced. After two light fish courses, a heavy, rich dessert may not be the right ending. A recommendation that considers the arc of the meal: and explains the reasoning: shows genuine knowledge and care. It is an act of hospitality, not sales.
+**Explanation:** A trustworthy recommendation follows naturally from what the guest has already chosen. After two light fish courses, something heavy and rich may not be the right ending, and knowing that distinction is exactly what a knowledgeable recommendation looks like. Explaining the reasoning, drawing the connection to the arc of the meal, turns the suggestion into genuine care rather than a sales prompt.

@@ -47,4 +47,4 @@ Autumn invites slower, more reflective dining experiences. Guests linger longer;
 
 **Correct Answer:** The freshly harvested rice of the season: fragrant, soft, and considered the year's finest
 
-**Explanation:** Shinmai (literally "new rice") refers to the autumn rice harvest. Serving shinmai in autumn is a shun (seasonal peak) gesture: the rice is at its absolute freshest, making it a meaningful detail for discerning guests.
+**Explanation:** Shinmai, literally "new rice," is the freshly harvested rice of the autumn season, prized for its fragrance and soft texture. Offering it is a shun gesture: you are serving the ingredient at its very best. It is not a mushroom, a greeting, or a linen arrangement; it is one of the most quietly meaningful seasonal touches you can bring to the autumn table.

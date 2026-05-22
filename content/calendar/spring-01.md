@@ -56,4 +56,4 @@ This means your recommendations must be both timely and specific. "The sakura ar
 
 **Correct Answer:** Quickly check with a colleague or confirm the current status before advising, then give a specific recommendation with timing guidance
 
-**Explanation:** Cherry blossoms change daily, and a guest who travels to a spot that has already peaked or not yet bloomed will feel that the advice was inadequate. Professional hospitality means giving accurate, specific information: even if that requires a brief check before answering. The guest's experience of sakura season depends on it.
+**Explanation:** Cherry blossoms can peak and fall within two or three days, so a recommendation based on yesterday's conditions can genuinely ruin a guest's plans. Taking a moment to verify before advising is not a delay; it is what separates useful guidance from well-meaning guesswork. Sending the guest online, recommending the nearest spot without checking, or offering vague reassurance all leave the guest's experience to chance.

@@ -48,4 +48,4 @@ At the start of your next shift, consciously slow your default pace by ten perce
 
 **Correct Answer:** Continue monitoring quietly and approach only at a natural pause in their conversation
 
-**Explanation:** The guest's experience is the priority. Interrupting a private conversation to hurry them along: even implicitly: violates the principle of omotenashi. Continue waiting attentively and approach only when a genuine opening appears.
+**Explanation:** In omotenashi, the guest's pace is the pace. Approaching every five minutes projects anxiety rather than care, and informing them that other guests are waiting directly contradicts the principle of placing the guest first. Sending a manager escalates a situation that requires only patience. Quiet, attentive waiting, followed by an approach at a genuine natural pause, is both respectful and correct.

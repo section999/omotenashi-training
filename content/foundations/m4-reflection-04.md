@@ -52,4 +52,4 @@ What comes next is not more content. It is practice: the daily application of ev
 
 **Correct Answer:** Remaining a genuine student of the craft: curious, humble, and continuously improving: regardless of experience level
 
-**Explanation:** Mastery in omotenashi is not a level achieved: it is a lifelong orientation. The most admired hospitality professionals are those who, after decades of practice, remain as curious and as committed to improvement as they were on their first day. This is the spirit of 精進 (shōjin): continuous, devoted practice.
+**Explanation:** Assessment scores, management recognition, and technical skill are all real achievements, but none of them is the defining quality the question is asking about. What distinguishes the most admired hospitality professionals is not what they have achieved, but how they continue to show up: curious, humble, and genuinely interested in going deeper, regardless of how much experience they already carry. That orientation is the spirit of 精進.

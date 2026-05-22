@@ -45,4 +45,4 @@ In practice, whatever the culture, guests want to feel: welcomed, respected, und
 
 **Correct Answer:** Gently and warmly explain the custom and its meaning, offering a pair of slippers
 
-**Explanation:** A guest who does not remove shoes at the entrance likely does not know the custom, not intend disrespect. A warm explanation: framing the custom as an invitation, not a rule: turns the moment into a cultural experience rather than a correction.
+**Explanation:** A guest who keeps their shoes on almost certainly doesn't know the custom, not doesn't respect it. A warm, brief explanation that frames the tradition as something meaningful turns the moment into a genuine cultural introduction. Saying nothing ignores a real etiquette issue; removing the shoes yourself would be presumptuous and alarming; and a firm reminder misreads innocent unfamiliarity as defiance.

@@ -58,4 +58,4 @@ Do not hang up until the guest has disconnected. In Japanese telephone etiquette
 
 **Correct Answer:** They are signalling that they are following the conversation: a required courtesy in Japanese telephone etiquette
 
-**Explanation:** Regular verbal signals (はい, 承知いたしました) during a phone call indicate active listening in Japanese communication. Silence would signal disengagement or that the call has been dropped. These responses are social and professional norms, not premature agreement.
+**Explanation:** In Japanese phone etiquette, frequent verbal acknowledgements like "はい" signal that you are present and following along; without them, the caller genuinely cannot tell if the line is still connected. These signals are not agreements to anything, they are the phone equivalent of nodding while someone speaks. Treating them as nervous habits or premature promises misreads a well-established professional norm.
