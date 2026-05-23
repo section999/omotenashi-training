@@ -5,7 +5,8 @@ title: ドア (door)
 ---
 ドア is a loanword for "door," and in hotel contexts it specifically refers to the Western-style hinged room door rather than a 引き戸 (sliding panel door) or 障子 (paper screen). The guest room ドア is the front line of both privacy and security, and every guest needs to know how to operate it properly. Modern hotel rooms use electronic key card locks that auto-lock when the door closes, which is convenient but also means a guest who steps out without their card is locked out instantly. Guests should also know about the internal chain lock (チェーンロック) for added security while inside the room.
 
-During room orientation, staff cover the basics clearly: 「ドアはオートロックになっております」 so guests remember their key card, and 「お部屋の中からはチェーンをかけてください」 to recommend the chain lock at night. Emergency exit information, such as 「非常口は廊下の左側にございます」, is naturally delivered alongside this ドア guidance. When a guest's key card stops working, staff should respond promptly and offer to re-issue it, a locked-out guest standing in the corridor is one of the more avoidable service failures in front-desk work\n## Example Sentences
+During room orientation, staff cover the basics clearly: 「ドアはオートロックになっております」 so guests remember their key card, and 「お部屋の中からはチェーンをかけてください」 to recommend the chain lock at night. Emergency exit information, such as 「非常口は廊下の左側にございます」, is naturally delivered alongside this ドア guidance. When a guest's key card stops working, staff should respond promptly and offer to re-issue it, a locked-out guest standing in the corridor is one of the more avoidable service failures in front-desk work
+## Example Sentences
 
 **1.** ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。
 *Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*

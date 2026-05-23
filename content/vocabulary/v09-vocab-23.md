@@ -8,7 +8,8 @@ title: 変更可能 (henkou kanou)
 
 変更可能 (henkou kanou) means "changeable" or "modification is possible," indicating that some aspect of a reservation can be altered: the check-in date, room type, guest count, or meal plan. Telling a guest "yes, that can be changed" is only half the task. Staff must follow up immediately with the conditions: the deadline, any cost implications, and exactly which parts of the booking fall within that flexibility. A guest who hears 変更可能 without those details will often assume they can change anything, at any time, at no charge.
 
-The conditions vary depending on the plan. An advance-purchase 早割 rate might allow a room-type change but lock the dates completely, while a flexible plan allows both. A common error is to struggle to keep these distinctions clear in the moment, especially under pressure at the front desk. The key habit to build: the moment 変更可能 is stated, the window and scope should be defined immediately\n## Example Sentences
+The conditions vary depending on the plan. An advance-purchase 早割 rate might allow a room-type change but lock the dates completely, while a flexible plan allows both. A common error is to struggle to keep these distinctions clear in the moment, especially under pressure at the front desk. The key habit to build: the moment 変更可能 is stated, the window and scope should be defined immediately
+## Example Sentences
 
 **1.** ご予約の日程は、3日前まで変更可能でございます。
 *Go-yoyaku no nittei wa, mikkamae made henkou kanou de gozaimasu.*

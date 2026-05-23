@@ -8,7 +8,8 @@ title: 領収書発行 (ryoushuusho hakkou)
 
 領収書発行 refers to issuing an official receipt as proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy -- staff are expected to offer it proactively rather than wait for the guest to ask. The 領収書 is most important for business travelers and corporate guests who need it for expense reimbursement. For that purpose, the document must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt cannot be used for reimbursement, requiring a reissue.
 
-The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Some guests need the charges itemized; others need only the consolidated total. Asking this question before printing prevents having to reissue the document afterward.\n## Example Sentences
+The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Some guests need the charges itemized; others need only the consolidated total. Asking this question before printing prevents having to reissue the document afterward.
+## Example Sentences
 
 **1.** 領収書の発行はご入用でしょうか。
 *Ryoushuusho no hakkou wa go-iriyo deshou ka.*

@@ -8,7 +8,8 @@ title: 案内図 (annaizu)
 
 案内図 combines 案内 (annai, guidance or information) with 図 (zu, diagram or map), giving one a "guide map" that shows the broad layout of a hotel complex, all floors in cross-section, the hotel grounds, or the surrounding streets and landmarks. Where フロアマップ zooms in on a single floor, 案内図 zooms out. Luxury hotels often produce beautifully illustrated versions of these, placed in guest rooms, at the front desk, and in key corridors, and the 案内図 reflects the hotel's attention to guest experience.
 
-The value of an 案内図 shows when a guest needs multi-step directions. Verbal directions alone for a destination involving several turns and a level change are easy to forget by the time the guest is halfway there. Handing over the 案内図 while walking through the route verbally gives the guest a physical anchor they can refer back to independently. That combination of map plus explanation provides clear guidance. In Japanese hospitality, helping a guest navigate on their own while making it clear staff are still available shows respect for the guest's autonomy\n## Example Sentences
+The value of an 案内図 shows when a guest needs multi-step directions. Verbal directions alone for a destination involving several turns and a level change are easy to forget by the time the guest is halfway there. Handing over the 案内図 while walking through the route verbally gives the guest a physical anchor they can refer back to independently. That combination of map plus explanation provides clear guidance. In Japanese hospitality, helping a guest navigate on their own while making it clear staff are still available shows respect for the guest's autonomy
+## Example Sentences
 
 **1.** ロビーに案内図がございます。ご出発前にぜひご確認ください。
 *Robii ni annaizu ga gozaimasu. Go-shuppatsu mae ni zehi go-kakunin kudasai.*

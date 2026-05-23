@@ -8,7 +8,8 @@ title: サービス料 (saabisu ryou)
 
 サービス料 is a service charge automatically added to the bill as a fixed percentage, typically 10% to 15%, and it takes the place of individual tipping, which is not practiced in Japan. The word combines the loanword サービス (from English "service") with 料 (ryou, "fee" or "charge"). Unlike tipping in Western contexts where each guest decides individually how much to give, サービス料 is standardized, collected by the establishment, and distributed among staff. This reflects an important aspect of Japanese hospitality culture: excellent service is a professional standard that does not require individual monetary reward to sustain it.
 
-A common error is being unsure how to introduce サービス料 in conversation without it sounding like a warning. The key is to disclose it proactively and early, before presenting the bill, not in response to a question. サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, staff should name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Guests should not be left to guess the breakdown\n## Example Sentences
+A common error is being unsure how to introduce サービス料 in conversation without it sounding like a warning. The key is to disclose it proactively and early, before presenting the bill, not in response to a question. サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, staff should name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Guests should not be left to guess the breakdown
+## Example Sentences
 
 **1.** 料金にはサービス料10%が含まれております。
 *Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.*

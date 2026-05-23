@@ -5,7 +5,8 @@ title: 掃除機 (soujiki)
 ---
 掃除機 is the vacuum cleaner, one of the primary tools housekeeping staff use to maintain floor cleanliness in hotel and ryokan rooms. In properties with carpeted rooms, the 掃除機 handles what cloths and mops cannot: dust, hair, crumbs, and debris embedded in the pile. Even in rooms with wooden or tatami flooring, specialized vacuum attachments may be used carefully on certain surfaces. Proper technique matters: working with the carpet pile direction, covering corners and baseboards, getting under furniture. These are details that separate a thorough clean from a hasty one.
 
-Because the 掃除機 is noisy, timing matters. Housekeeping staff should avoid early mornings and late evenings to avoid disturbing guests in adjacent rooms. If a guest is present in the room, staff should always ask permission before running the 掃除機, or offer to come back at a more convenient time. Occasionally a guest may ask to borrow one: staff should know whether hotel policy allows this and respond accordingly. In ryokan with tatami rooms, standard vacuum attachments must not be used on tatami, as they can pull and damage the woven straw surface\n## Example Sentences
+Because the 掃除機 is noisy, timing matters. Housekeeping staff should avoid early mornings and late evenings to avoid disturbing guests in adjacent rooms. If a guest is present in the room, staff should always ask permission before running the 掃除機, or offer to come back at a more convenient time. Occasionally a guest may ask to borrow one: staff should know whether hotel policy allows this and respond accordingly. In ryokan with tatami rooms, standard vacuum attachments must not be used on tatami, as they can pull and damage the woven straw surface
+## Example Sentences
 
 **1.** カーペットの清掃には掃除機を使用しております。
 *Kaapetto no seisou ni wa soujiki wo shiyou shite orimasu.*

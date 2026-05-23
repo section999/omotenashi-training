@@ -5,7 +5,8 @@ title: バウチャー (bauchaa)
 ---
 バウチャー is a loanword from English, and in Japanese hospitality it refers to a document, printed or digital, that confirms prepayment for a specific service such as a hotel stay, meal plan, spa treatment, or tour. The key distinction is: a クーポン gives a discount, but a バウチャー means the service has already been paid for in full, typically through a travel agency, online booking platform, or corporate account. Getting that difference wrong at the front desk can cause billing complications.
 
-When a guest presents a バウチャー, staff should check three things before accepting it: that the guest's name matches, that the service and date are correct, and that it has not already been used. If anything appears incorrect, verification with the issuing agency or booking system should occur before proceeding. Once accepted, the バウチャー stays with the property and goes through the appropriate billing channel so payment can be collected from the issuing party\n## Example Sentences
+When a guest presents a バウチャー, staff should check three things before accepting it: that the guest's name matches, that the service and date are correct, and that it has not already been used. If anything appears incorrect, verification with the issuing agency or booking system should occur before proceeding. Once accepted, the バウチャー stays with the property and goes through the appropriate billing channel so payment can be collected from the issuing party
+## Example Sentences
 
 **1.** バウチャーをフロントにてご提示ください。
 *Bauchā o furonto nite goteiji kudasai.*

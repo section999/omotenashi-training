@@ -8,7 +8,8 @@ title: ナイフ (naifu)
 
 ナイフ is the Japanese word for a knife, borrowed directly from English, and in a hotel or restaurant context it refers specifically to the table knife used as part of Western-style (洋食) cutlery. Proper table setting in Western dining is a visible signal of service quality, and the correct placement of ナイフ, to the right of the plate with the blade facing inward, is a standard skill for all F&B service staff. Guests dining in a hotel restaurant expect their cutlery to be in place before food arrives, and any missing or incorrectly placed item reflects on the overall service standard.
 
-In daily restaurant and room service work, staff refer to ナイフ when setting tables, responding to guest requests for additional cutlery, or describing the utensils that accompany a specific dish. A common phrase is ナイフをご用意いたします, used when a guest requests one or when announcing a table setup. Staff should also be ready to pair ナイフ with フォーク (fork) in standard table-setting language, and should be able to offer or clarify cutlery choices for guests with specific preferences or dietary needs\n## Example Sentences
+In daily restaurant and room service work, staff refer to ナイフ when setting tables, responding to guest requests for additional cutlery, or describing the utensils that accompany a specific dish. A common phrase is ナイフをご用意いたします, used when a guest requests one or when announcing a table setup. Staff should also be ready to pair ナイフ with フォーク (fork) in standard table-setting language, and should be able to offer or clarify cutlery choices for guests with specific preferences or dietary needs
+## Example Sentences
 
 **1.** お料理に合わせてナイフとフォークをご用意いたします。
 *O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*

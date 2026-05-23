@@ -5,7 +5,8 @@ title: 夕食付き (yuushoku tsuki)
 ---
 夕食付き means "with dinner included," and in Japanese hospitality, that often means something quite substantial. At a ryokan, the kaiseki evening meal is frequently the highlight of the entire stay: multi-course, beautifully presented, served in the room or a dedicated dining space. Even at Western-style hotels, a 夕食付き plan usually involves a set-course dinner at the property's restaurant. Because dinner requires coordination in a way that buffet breakfast does not, staff need to convey the timing and logistics clearly or risk a guest missing the meal entirely.
 
-The key difference from 朝食付き is that dinner at most properties is not open-seating. There is often a fixed or staggered schedule, and the guest may need to choose a time slot. The check-in conversation for a 夕食付き guest should include the dinner window and a question such as 「夕食は18時よりご用意しております。ご希望のお時間をお教えいただけますか」. Mentioning only that dinner is included, without the time details, may result in guests arriving at the wrong time\n## Example Sentences
+The key difference from 朝食付き is that dinner at most properties is not open-seating. There is often a fixed or staggered schedule, and the guest may need to choose a time slot. The check-in conversation for a 夕食付き guest should include the dinner window and a question such as 「夕食は18時よりご用意しております。ご希望のお時間をお教えいただけますか」. Mentioning only that dinner is included, without the time details, may result in guests arriving at the wrong time
+## Example Sentences
 
 **1.** お客様のプランは夕食付きでございます。夕食は18時から20時の間にお召し上がりいただけます。
 *O-kyaku-sama no puran wa yuushoku-tsuki de gozaimasu. Yuushoku wa juuhachi-ji kara nijuu-ji no aida ni o-meshiagari itadakemasu.*

@@ -8,7 +8,8 @@ title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 
 お名前を頂戴できますか is the standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) translates as "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. This reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part.
 
-In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, the name should be repeated back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name reduces transcription errors and routing mistakes, which saves time\n## Example Sentences
+In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, the name should be repeated back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name reduces transcription errors and routing mistakes, which saves time
+## Example Sentences
 
 **1.** お名前を頂戴できますか？
 *Onamae wo choudai dekimasu ka.*

@@ -8,7 +8,8 @@ title: 再確認 (sai kakunin)
 
 再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), meaning "reconfirmation" -- the act of checking a reservation's details a second time before the guest arrives. In Japanese hotel practice, this is a proactive quality-control step, and guests who receive it tend to feel looked after. The process is best understood as a warm communication rather than an administrative chore. For VIP guests, large groups, or bookings tied to holidays and festivals, 再確認 is treated as mandatory rather than optional.
 
-The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. This scripted read-back serves as a quality check to catch data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request.\n## Example Sentences
+The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. This scripted read-back serves as a quality check to catch data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request.
+## Example Sentences
 
 **1.** 明日ご到着のご予約内容を再確認させていただきたく、お電話いたしました。
 *Ashita go-touchaku no go-yoyaku naiyou wo sai-kakunin sasete itadakitaku, o-denwa itashimashita.*

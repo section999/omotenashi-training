@@ -5,7 +5,8 @@ title: 電子決済 (denshi kessai)
 ---
 電子決済 breaks down to 電子 (electronic) and 決済 (settlement or payment), and it covers all cashless payment done through digital means: smartphone apps like PayPay and LINE Pay, IC cards like Suica and PASMO, and contactless systems like Apple Pay and Google Pay. Japan's government has been actively pushing cashless adoption, so guests now expect to pay however is most convenient for them. Staff who can guide guests through these options leave a stronger impression than those who say "cash only."
 
-Staff need to know which 電子決済 methods the property accepts and where the correct terminal or QR code is for each one. When a transaction starts, staff should confirm that the amount shown matches the bill before the guest confirms on their end, and wait for the 決済完了 (payment complete) signal on the terminal before letting the guest go. Systems do occasionally fail, so having a backup plan ready and offering alternatives calmly prevents the situation from feeling like the guest's problem\n## Example Sentences
+Staff need to know which 電子決済 methods the property accepts and where the correct terminal or QR code is for each one. When a transaction starts, staff should confirm that the amount shown matches the bill before the guest confirms on their end, and wait for the 決済完了 (payment complete) signal on the terminal before letting the guest go. Systems do occasionally fail, so having a backup plan ready and offering alternatives calmly prevents the situation from feeling like the guest's problem
+## Example Sentences
 
 **1.** 電子決済はPayPayとクレジットカードがご利用いただけます。
 *Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.*

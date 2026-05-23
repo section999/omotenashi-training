@@ -5,7 +5,8 @@ title: 無料キャンセル (muryou kyanseru)
 ---
 無料キャンセル means "free cancellation," the option to cancel a reservation without any charge, valid up to a certain number of days or hours before arrival. This has become one of the first things guests look for when filtering plans on OTAs, and it influences which property they choose. For staff, being able to explain the 無料キャンセル conditions precisely is part of both selling reservations and avoiding complaints later.
 
-The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. Repeating the deadline at the time of booking confirmation is one of the simplest and most effective steps for preventing that kind of dispute\n## Example Sentences
+The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. Repeating the deadline at the time of booking confirmation is one of the simplest and most effective steps for preventing that kind of dispute
+## Example Sentences
 
 **1.** このプランは、ご宿泊日の7日前まで無料キャンセルが可能でございます。
 *Kono puran wa, go-shukuhaku-bi no nanokamae made muryou kyanseru ga kanou de gozaimasu.*

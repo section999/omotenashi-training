@@ -8,7 +8,8 @@ title: 通話中 (tsuuwachuu)
 
 通話中 means that a telephone line is currently in use. Either the person the caller wants is already on another call, or the line itself is occupied. Knowing this term matters because in hospitality, how one communicates this status is as important as the information itself. A caller who hears 通話中です with no follow-up will wonder what to do next, and that uncertainty should be avoided.
 
-The professional standard is to pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call one back?) or しばらくお待ちいただけますか (would one be able to wait a moment?) gives the caller a clear path forward. This two-part structure, status plus option, is a fundamental pattern in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留\n## Example Sentences
+The professional standard is to pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call one back?) or しばらくお待ちいただけますか (would one be able to wait a moment?) gives the caller a clear path forward. This two-part structure, status plus option, is a fundamental pattern in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留
+## Example Sentences
 
 **1.** ただいま通話中です。少々お待ちいただけますか。
 *Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.*

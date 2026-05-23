@@ -8,7 +8,8 @@ title: 部屋 (heya)
 
 部屋 (heya) is the everyday Japanese word for "room," and it works as the conversational partner to the more formal 客室. In hotel and ryokan settings, staff use 部屋 when speaking directly with guests in a warm, accessible way, especially during relaxed exchanges where overly formal language would feel out of place. The word carries no institutional weight and is universally understood, making it reliable whenever clear communication matters more than formal precision. Adding お to make it お部屋 raises the register and is the standard spoken form in most guest-facing interactions.
 
-Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. お部屋 is appropriate in direct conversation and casual clarifications with guests. 客室 is appropriate for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The register of language at a property contributes to the overall atmosphere guests experience\n## Example Sentences
+Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. お部屋 is appropriate in direct conversation and casual clarifications with guests. 客室 is appropriate for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The register of language at a property contributes to the overall atmosphere guests experience
+## Example Sentences
 
 **1.** お部屋はいかがでしたか？
 *O-heya wa ikaga deshita ka?*

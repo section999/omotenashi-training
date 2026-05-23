@@ -5,7 +5,8 @@ title: 期限 (kigen)
 ---
 期限 is the word for a fixed deadline: the last date or time by which a particular action must be taken. In hotel operations this term appears frequently. There is the deadline to confirm a tentative booking (仮予約の確認期限), the cutoff for free cancellation (無料キャンセルの期限), the payment deadline on prepaid plans, and time windows for special requests. When a 期限 is missed, on either side, the consequences tend to be real: lost bookings, charges the guest was not expecting, or operational breakdowns that are hard to unwind.
 
-A common error is to overlook that a 期限 needs both a date and a time. Saying 「期限は明日です」 is functionally incomplete. "Tomorrow" could mean 9 a.m., 3 p.m., or 11:59 p.m., and a guest who acts on the wrong assumption may miss a cutoff they tried to meet. The appropriate formulation is 「〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます」, which leaves no room for misinterpretation. For any important deadline, following up with a written confirmation gives both staff and the guest a clear record\n## Example Sentences
+A common error is to overlook that a 期限 needs both a date and a time. Saying 「期限は明日です」 is functionally incomplete. "Tomorrow" could mean 9 a.m., 3 p.m., or 11:59 p.m., and a guest who acts on the wrong assumption may miss a cutoff they tried to meet. The appropriate formulation is 「〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます」, which leaves no room for misinterpretation. For any important deadline, following up with a written confirmation gives both staff and the guest a clear record
+## Example Sentences
 
 **1.** 仮予約の確認期限は、今月15日の午前11時でございます。
 *Kari-yoyaku no kakunin kigen wa, kongetsu juugo-nichi no gozen juuichi-ji de gozaimasu.*

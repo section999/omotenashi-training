@@ -5,7 +5,8 @@ title: 打ち合わせ (uchiawase)
 ---
 打ち合わせ refers to a briefing or coordination meeting, a shorter, more focused conversation between team members to align on details before undertaking a task or project. Unlike the structured formality of a 会議, a 打ち合わせ is lighter in tone and does not require a formal agenda or written minutes. In hotel operations, 打ち合わせ happen constantly: chefs coordinate with banquet staff before a large dinner, concierge teams align on VIP arrivals, or front desk supervisors brief the next shift on any outstanding issues. These sessions ensure that everyone involved in a service moment has the same information at the same time.
 
-The word itself is derived from 打ち合う (to strike together), suggesting a collision of ideas that results in shared understanding. A 打ち合わせ might last anywhere from five minutes to an hour, depending on the complexity of what is being coordinated. Staff often use the phrase 少し打ち合わせをしましょう (sukoshi uchiawase wo shimashou, "let's have a quick briefing") to initiate these sessions informally. Efficiency and clarity achieved through proper 打ち合わせ reduces guest-facing errors\n## Example Sentences
+The word itself is derived from 打ち合う (to strike together), suggesting a collision of ideas that results in shared understanding. A 打ち合わせ might last anywhere from five minutes to an hour, depending on the complexity of what is being coordinated. Staff often use the phrase 少し打ち合わせをしましょう (sukoshi uchiawase wo shimashou, "let's have a quick briefing") to initiate these sessions informally. Efficiency and clarity achieved through proper 打ち合わせ reduces guest-facing errors
+## Example Sentences
 
 **1.** イベント開始前に、スタッフ全員で打ち合わせを行いました。
 *Ibento kaishi mae ni, sutaffu zen'in de uchiawase wo okonaimashita.*

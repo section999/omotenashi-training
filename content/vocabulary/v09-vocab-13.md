@@ -5,7 +5,8 @@ title: 追加料金 (tsuika ryoukin)
 ---
 追加料金 is any charge that comes on top of the original reservation price because the guest has used something outside their plan. In omotenashi culture, the rule around 追加料金 is clear: guests should never be surprised by a charge they did not know was coming. That means communicating potential fees before the service happens, not at checkout when it is too late to make a different choice. Common situations include extra beds, late checkout, late-night room service, or adding a guest to a booking. At ryokan, ordering drinks beyond what the plan covers, or using certain onsen facilities in off-hours, can trigger 追加料金 too.
 
-The standard phrase is 「〇〇には追加料金が発生いたします」, which is clean and formal without sounding harsh. A specific number is clearer than a vague statement such as "a fee may apply." Telling a guest 「1泊5,000円の追加料金となります」 gives them something concrete to agree to, and that precision reduces checkout disputes considerably\n## Example Sentences
+The standard phrase is 「〇〇には追加料金が発生いたします」, which is clean and formal without sounding harsh. A specific number is clearer than a vague statement such as "a fee may apply." Telling a guest 「1泊5,000円の追加料金となります」 gives them something concrete to agree to, and that precision reduces checkout disputes considerably
+## Example Sentences
 
 **1.** エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。
 *Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.*

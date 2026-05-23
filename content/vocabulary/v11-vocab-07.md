@@ -5,7 +5,8 @@ title: 担当者 (tantousha)
 ---
 担当者 refers to the specific staff member who is responsible for handling a particular matter, inquiry, or task. In Japanese hospitality, directing a caller to the 担当者 is more reassuring than passing them to a general department, because it implies that a specific, knowledgeable person will take personal ownership of their concern. This concept reflects the Japanese service value of 責任感 (a sense of responsibility); the 担当者 is not just a next stop in a phone tree but an accountable individual. Guests calling to follow up on a special request, a complaint, or a detailed reservation are reassured when told their 担当者 will handle it directly.
 
-担当者 is used most often in the phrase 担当者におつなぎいたします (I will connect one to the person in charge) or 担当者よりご連絡いたします (the person in charge will contact one). When the 担当者 is unavailable, staff should not simply state this and end the conversation; the protocol is to explain the situation and offer an alternative: taking a message, arranging a callback, or connecting to a backup colleague. Understanding how to use 担当者 correctly anchors the guest's confidence in the hotel's organizational structure\n## Example Sentences
+担当者 is used most often in the phrase 担当者におつなぎいたします (I will connect one to the person in charge) or 担当者よりご連絡いたします (the person in charge will contact one). When the 担当者 is unavailable, staff should not simply state this and end the conversation; the protocol is to explain the situation and offer an alternative: taking a message, arranging a callback, or connecting to a backup colleague. Understanding how to use 担当者 correctly anchors the guest's confidence in the hotel's organizational structure
+## Example Sentences
 
 **1.** ご予約内容につきまして、担当者よりご連絡いたします。
 *Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.*

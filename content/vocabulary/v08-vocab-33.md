@@ -8,7 +8,8 @@ title: フロアマップ (furoamappu)
 
 フロアマップ is the standard Japanese term for a floor map: the visual diagram showing the layout of rooms, facilities, and services on a specific floor. one will find them printed on paper, posted at elevator landings, and displayed digitally at lobby kiosks in larger hotels. The key thing to understand about フロアマップ versus 案内図 (annaizu, a general facility overview) is that フロアマップ is floor-specific. A guest trying to find their room or a meeting space on the third floor wants the third-floor フロアマップ, not a wide-angle view of the entire complex.
 
-Offering a フロアマップ proactively is a recognized expression of kikubari. An effective approach is to notice when someone is studying a hallway or pausing near a sign, and approach them first with こちらがフロアマップでございます. The map should always be handed with both hands, a small but meaningful gesture in Japanese hospitality. When presenting the map, staff should not just hand it and walk away. They should point to the guest's current location first, then show where the guest is heading, and mention landmarks in between. A map handed without that orientation loses most of its value\n## Example Sentences
+Offering a フロアマップ proactively is a recognized expression of kikubari. An effective approach is to notice when someone is studying a hallway or pausing near a sign, and approach them first with こちらがフロアマップでございます. The map should always be handed with both hands, a small but meaningful gesture in Japanese hospitality. When presenting the map, staff should not just hand it and walk away. They should point to the guest's current location first, then show where the guest is heading, and mention landmarks in between. A map handed without that orientation loses most of its value
+## Example Sentences
 
 **1.** こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。
 *Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.*

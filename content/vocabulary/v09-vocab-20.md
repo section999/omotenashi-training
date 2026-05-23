@@ -5,7 +5,8 @@ title: キャンセル料 (kyanseru ryou)
 ---
 キャンセル料 is the fee a property charges when a guest cancels a reservation. It is usually calculated as a percentage of the total booking value and kicks in once the cancellation falls inside a certain window before arrival. Japanese properties take these policies seriously, and not just for financial reasons. Late cancellations affect staffing levels, food orders that have already been placed, and room availability that could have been offered to other guests. Communicating the キャンセル料 structure at the time of booking is both a professional standard and, in many cases, a legal requirement.
 
-Professional service requires knowing not just that the fee exists, but also the specific tiers attached to the プラン: when the charges start, what percentage applies at each stage, and what the actual yen amount will be. A statement like 「キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます」 gives the guest a clear picture before they confirm, so they are making an informed decision rather than agreeing to something they did not read\n## Example Sentences
+Professional service requires knowing not just that the fee exists, but also the specific tiers attached to the プラン: when the charges start, what percentage applies at each stage, and what the actual yen amount will be. A statement like 「キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます」 gives the guest a clear picture before they confirm, so they are making an informed decision rather than agreeing to something they did not read
+## Example Sentences
 
 **1.** このプランのキャンセル料は、3日前から宿泊料金の50%となっております。
 *Kono puran no kyanseru ryou wa, mikkamae kara shukuhaku ryoukin no gojuu-paasento to natte orimasu.*

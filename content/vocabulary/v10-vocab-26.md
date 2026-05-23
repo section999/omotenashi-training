@@ -8,7 +8,8 @@ title: 為替 (kawase)
 
 為替 refers to the mechanism of converting one currency into another, and in hospitality it almost always appears as 為替レート, the exchange rate. This is the number that indicates how much Japanese yen a unit of foreign currency is worth on any given day. The rate is not fixed: it shifts continuously based on global markets, and a figure that was accurate yesterday may be off today. Staff who handle 外貨 payments need to know where to find the official daily rate and how to apply it, because an incorrect rate either costs the hotel money or overcharges the guest.
 
-A clean approach is to post the current 為替レート visibly near the front desk or cashier area with a sign like 本日の為替レートはこちらです. This lets guests verify the conversion themselves before deciding whether to pay in foreign currency or go to a separate exchange counter. When a guest questions the rate, staff should point to the official posted source rather than defending it from memory. A common error is skipping that documentation step and then being in an uncomfortable standoff over a number that cannot be proven\n## Example Sentences
+A clean approach is to post the current 為替レート visibly near the front desk or cashier area with a sign like 本日の為替レートはこちらです. This lets guests verify the conversion themselves before deciding whether to pay in foreign currency or go to a separate exchange counter. When a guest questions the rate, staff should point to the official posted source rather than defending it from memory. A common error is skipping that documentation step and then being in an uncomfortable standoff over a number that cannot be proven
+## Example Sentences
 
 **1.** 本日の為替レートは〇〇円でございます。
 *Honjitsu no kawase reeto wa 〇〇-en de gozaimasu.*

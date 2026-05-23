@@ -5,7 +5,8 @@ title: ルームキー (room key)
 ---
 ルームキー means "room key" and specifically identifies the key as the one granting access to the guest's assigned room, as distinct from keys for facilities like the gym, pool locker, or safe. In contemporary Japanese hotels, ルームキー most commonly takes the form of a magnetic stripe card or RFID card key, though the term is also applied to physical keys in traditional establishments. The room key is an important item exchanged during check-in. It is the physical token that gives a guest access to their private space, and presenting it well is a defining moment of the welcome experience.
 
-Beyond the initial handover, ルームキー frequently comes up in other service scenarios: a guest locking themselves out (ルームキーをお部屋に忘れてしまいました), requesting a duplicate (予備のルームキーをいただけますか), or reporting a lost key (ルームキーを紛失してしまいました). Staff must handle each scenario calmly, verifying the guest's identity before issuing a replacement to ensure security. Upon check-out, the return of the ルームキー marks the formal conclusion of the guest's stay and should be acknowledged warmly\n## Example Sentences
+Beyond the initial handover, ルームキー frequently comes up in other service scenarios: a guest locking themselves out (ルームキーをお部屋に忘れてしまいました), requesting a duplicate (予備のルームキーをいただけますか), or reporting a lost key (ルームキーを紛失してしまいました). Staff must handle each scenario calmly, verifying the guest's identity before issuing a replacement to ensure security. Upon check-out, the return of the ルームキー marks the formal conclusion of the guest's stay and should be acknowledged warmly
+## Example Sentences
 
 **1.** こちらがルームキーでございます。どうぞ。
 *Kochira ga rūmu kī de gozaimasu. Dōzo.*

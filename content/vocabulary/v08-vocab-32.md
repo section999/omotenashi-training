@@ -8,7 +8,8 @@ title: 外 (soto)
 
 外 means "outside" or "exterior," and it is the counterpart one needs to complete the 中 (inside) and 外 (outside) pair. In hotel service, 外 comes up whenever one direct a guest to an outdoor smoking area, a garden, a taxi stand, a car drop-off zone, or any amenity that requires leaving the building. The distinction matters especially in large hotel complexes where guests may have no clear sense of which facilities are indoors and which require going out. When one says 外にございます, one is signaling to the guest to check the weather and prepare accordingly.
 
-That weather awareness is where 外 connects to omotenashi. Telling a guest the taxi stand is to the left after exiting the building is a complete direction. Adding 本日は雨でございますので、傘をお持ちください turns it into an act of consideration. Whenever staff send someone 外, they should consider whether there is a weather note, a re-entry point, or a specific exit name that would help the guest\n## Example Sentences
+That weather awareness is where 外 connects to omotenashi. Telling a guest the taxi stand is to the left after exiting the building is a complete direction. Adding 本日は雨でございますので、傘をお持ちください turns it into an act of consideration. Whenever staff send someone 外, they should consider whether there is a weather note, a re-entry point, or a specific exit name that would help the guest
+## Example Sentences
 
 **1.** 喫煙所は建物の外、正面玄関を出て右手にございます。
 *Kitsuenjo wa tatemono no soto, shoumen genkan wo dete migite ni gozaimasu.*

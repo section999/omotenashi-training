@@ -5,7 +5,8 @@ title: 子供 (kodomo)
 ---
 子供 refers to child guests, generally those below the adult age threshold, which at most properties means under 12 or 13. The pricing is more involved than a simple adult-versus-child split: the rate often depends on whether the child is sharing a bed with parents, using an extra futon, or taking a separate room. Many properties break 子供 down further into age brackets, such as elementary school students (小学生) and preschool-age children (未就学児), with different meal portions and room setup expectations for each. The property's definitions should be confirmed before quoting a rate to a family.
 
-The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is a key aspect of omotenashi. お子様 should be used when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference\n## Example Sentences
+The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is a key aspect of omotenashi. お子様 should be used when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference
+## Example Sentences
 
 **1.** お子様のご年齢をお知らせいただけますでしょうか。
 *O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*

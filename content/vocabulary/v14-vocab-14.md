@@ -5,7 +5,8 @@ title: ガイド (gaido)
 ---
 ガイド comes from the English "guide" and covers two related things: the person who leads tours, and the informational material (guidebook, audio device) that explains a place. In Japan's tourism industry, professional 観光ガイド are often formally licensed, particularly for national parks and major cultural sites, and guests who book a guided experience are trusting that person to manage timing, provide cultural context, and keep the group safe. The professional standard expected of a licensed ガイド is high, and recommending a good one reflects well on the hotel.
 
-Hotel staff field questions about ガイド services regularly and need to be ready with clear options. Some properties arrange in-house guided experiences, while others keep a list of trusted agencies. Note the difference between a specialist ガイド and a general 案内 (annai), which means guidance or information more broadly: a front-desk assistant pointing a guest toward the elevator is doing 案内, while a licensed expert leading a temple walking tour is a ガイド. Getting that distinction right helps staff match the right service to each guest's actual need\n## Example Sentences
+Hotel staff field questions about ガイド services regularly and need to be ready with clear options. Some properties arrange in-house guided experiences, while others keep a list of trusted agencies. Note the difference between a specialist ガイド and a general 案内 (annai), which means guidance or information more broadly: a front-desk assistant pointing a guest toward the elevator is doing 案内, while a licensed expert leading a temple walking tour is a ガイド. Getting that distinction right helps staff match the right service to each guest's actual need
+## Example Sentences
 
 **1.** 観光ガイドが名所を案内してくれました。
 *Kankoukyaku gaido ga meisho wo annai shite kuremashita.*

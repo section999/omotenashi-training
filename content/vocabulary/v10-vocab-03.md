@@ -5,7 +5,8 @@ title: 分割払い (bunkatsu barai)
 ---
 分割払い refers to dividing a total payment into multiple scheduled installments, typically processed through a credit card's installment function. In Japanese hospitality it arises most often for high-value stays, extended hotel packages, wedding banquets, or premium ryokan experiences where the total is significant. Staff need to be prepared to explain not just the number of installments (何回払い) but also whether the card issuer or the hotel applies a 手数料 (processing fee), since that can affect the guest's decision. Transparency is important; guests who feel surprised by extra costs will remember it.
 
-The 分割払い option appears on the card terminal during payment, and staff guide guests through selecting the right number of installments. Not all cards support it, and some hotels do not offer it, so knowing the property's policy matters. When installments are available, stating the monthly amount clearly, 毎月〇〇円のお支払いになります, helps guests understand the financial commitment.\n## Example Sentences
+The 分割払い option appears on the card terminal during payment, and staff guide guests through selecting the right number of installments. Not all cards support it, and some hotels do not offer it, so knowing the property's policy matters. When installments are available, stating the monthly amount clearly, 毎月〇〇円のお支払いになります, helps guests understand the financial commitment.
+## Example Sentences
 
 **1.** 高額のご利用の場合、分割払いもご利用いただけます。
 *Kougaku no go-riyou no baai, bunkatsu barai mo go-riyou itadakemasu.*

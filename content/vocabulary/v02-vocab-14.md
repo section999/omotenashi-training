@@ -5,7 +5,8 @@ title: 税金 (zeikin)
 ---
 税金 means tax, and in a Japanese hotel context it most commonly refers to the consumption tax (消費税, shōhi-zei) applied to accommodation and services. As of the current tax rate, all lodging, food, and beverage charges are subject to consumption tax, and guests expect staff to be able to clearly explain whether the quoted 料金 is tax-inclusive (税込み, zei-komi) or tax-exclusive (税抜き, zei-nuki). Misunderstandings about tax can lead to billing disputes at check-out, so accuracy and clarity in communicating 税金-related information is a critical front desk skill. Some municipalities in Japan also levy a separate accommodation tax (宿泊税), which staff should be prepared to explain separately.
 
-Many Japanese hotels quote room rates as tax-inclusive to simplify billing, and the receipt will show the 税金 as a line item. When a guest questions the total or asks why their bill is higher than the quoted rate, a clear explanation such as 料金には税金が含まれております (tax is included in the price) or こちらは税金でございます (this is the tax) resolves the matter professionally. Staff should never apologise for the existence of tax, as it is a legal requirement, but should present the information with patience and transparency\n## Example Sentences
+Many Japanese hotels quote room rates as tax-inclusive to simplify billing, and the receipt will show the 税金 as a line item. When a guest questions the total or asks why their bill is higher than the quoted rate, a clear explanation such as 料金には税金が含まれております (tax is included in the price) or こちらは税金でございます (this is the tax) resolves the matter professionally. Staff should never apologise for the existence of tax, as it is a legal requirement, but should present the information with patience and transparency
+## Example Sentences
 
 **1.** 料金には消費税が含まれております。
 *Ryōkin ni wa shōhi-zei ga fukumarete orimasu.*

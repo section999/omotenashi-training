@@ -8,7 +8,8 @@ title: 紛失 (funshitsu)
 
 紛失 (funshitsu) means the loss of an item, and it is importantly different from 忘れ物, where the item was left at a known location. With 紛失, the whereabouts are entirely unknown. That distinction matters : a 忘れ物 sends one to check one specific place, while a 紛失 may require a broader investigation covering security footage, staff interviews, or a formal report. The appropriate scope of the response will also depend on what was lost. A missing passport or prescription medication demands a very different level of urgency than a misplaced book.
 
-When a guest reports a 紛失, the first step is to gather precise information calmly: what was lost, when it was last seen, and where on the property the guest has already been. Getting this picture clearly before launching a search is not bureaucratic delay, it is the fastest path to resolution. If the item cannot be located, the guest is directed toward local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed. That document may matter for insurance claims or replacing identification\n## Example Sentences
+When a guest reports a 紛失, the first step is to gather precise information calmly: what was lost, when it was last seen, and where on the property the guest has already been. Getting this picture clearly before launching a search is not bureaucratic delay, it is the fastest path to resolution. If the item cannot be located, the guest is directed toward local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed. That document may matter for insurance claims or replacing identification
+## Example Sentences
 
 **1.** パスポートの紛失について、ただいま確認いたします。
 *Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.*

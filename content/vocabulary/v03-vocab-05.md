@@ -8,7 +8,8 @@ title: ツインルーム (twin room)
 
 ツインルーム is a guest room with two separate single or semi-double beds, and it is a common room type for business travel pairs, friends travelling together, and family members who prefer their own sleeping space. It is a commonly booked configuration in Japanese business hotels. Getting the room type right matters significantly: guests who expect two beds and walk into a room with one shared bed can feel discomfort or embarrassment, and that affects their impression of the stay.
 
-During check-in, confirming the bed arrangement out loud is a good practice, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます ("it is a room with two beds") gives guests reassurance and removes any ambiguity. When guests look uncertain about their room type, the matter should be addressed before they ask. If only one bed type is available due to high occupancy, that should be communicated clearly and apologetically before leading them to the room, not as a surprise when they open the door\n## Example Sentences
+During check-in, confirming the bed arrangement out loud is a good practice, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます ("it is a room with two beds") gives guests reassurance and removes any ambiguity. When guests look uncertain about their room type, the matter should be addressed before they ask. If only one bed type is available due to high occupancy, that should be communicated clearly and apologetically before leading them to the room, not as a surprise when they open the door
+## Example Sentences
 
 **1.** ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。
 *Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.*

@@ -8,7 +8,8 @@ title: 向かい (mukai)
 
 向かい means "directly opposite" or "across from" and expresses that something is facing one from the other side, across a street, corridor, lobby, or body of water. In Japanese hospitality, providing accurate, efficient directions is a core service behavior, and 向かい is indispensable because many hotel amenities, landmarks, and transport hubs are positioned across from a reference point rather than beside it. Understanding the spatial difference between 向かい (across) and 隣 (beside) is an important distinction in navigation vocabulary. Mixing these two words up can send guests in entirely the wrong direction.
 
-In daily use, 向かい most commonly appears anchored to a known landmark: 郵便局は駅の向かいにございます, or コンビニはホテルの向かいです. At a ryokan, a staff member might say 大浴場はお食事処の向かいにございます. The word is effective when the guest can see the reference point from where they are standing, because they can look across and spot the destination themselves\n## Example Sentences
+In daily use, 向かい most commonly appears anchored to a known landmark: 郵便局は駅の向かいにございます, or コンビニはホテルの向かいです. At a ryokan, a staff member might say 大浴場はお食事処の向かいにございます. The word is effective when the guest can see the reference point from where they are standing, because they can look across and spot the destination themselves
+## Example Sentences
 
 **1.** 郵便局は駅の向かいにございます。改札を出てすぐ正面です。
 *Yuubinkyoku wa eki no mukai ni gozaimasu. Kaisatsu o dete sugu shoumen desu.*

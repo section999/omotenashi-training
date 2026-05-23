@@ -5,7 +5,8 @@ title: 駐車場 (chuushajou)
 ---
 駐車場 means parking lot or car park, and in a hospitality context it is a significant logistical touchpoint for guests arriving by private vehicle. Hotel parking facilities vary greatly across Japan, from expansive ground-level lots at resort hotels to compact mechanical tower parking systems in urban business hotels, so staff need to communicate the specifics of their property accurately and proactively. The moment a guest drives up, the quality of the parking guidance they receive contributes directly to their overall impression. Clear information about entry procedures, height restrictions, fee structures, and validation policies is an essential service skill.
 
-Beyond confirming availability, staff should be prepared to assist with valet parking where it is offered, explain overnight charges, and handle situations where the lot is full. In that case, directing guests to the nearest alternative with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are useful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property\n## Example Sentences
+Beyond confirming availability, staff should be prepared to assist with valet parking where it is offered, explain overnight charges, and handle situations where the lot is full. In that case, directing guests to the nearest alternative with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are useful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property
+## Example Sentences
 
 **1.** 駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。
 *Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.*

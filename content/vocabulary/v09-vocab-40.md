@@ -8,7 +8,8 @@ title: 手配 (tehai)
 
 手配 means to arrange, organize, or coordinate something on a guest's behalf. The scope is wide: booking an airport transfer, reserving a restaurant table, arranging flowers for an anniversary, setting up a meeting room, or organizing a private car. The word conveys active ownership -- staff are not passing a request along, they are taking personal responsibility to see it through. That sense of effort behind the scenes is at the heart of Japanese hospitality culture, where seamless service is valued precisely because the work that makes it seamless stays invisible.
 
-When using 手配 in speech, 手配いたします is the expected humble form at luxury and upscale properties, while 手配します works in more casual settings. Before responding, staff should confirm the key details: departure time, number of people, destination, and any special requirements. A common error is committing to 手配いたします too quickly, before all necessary information has been gathered, resulting in an arrangement that misses the mark. Once the details have been confirmed and the arrangement made, staff should follow up with the guest -- タクシーの手配が完了いたしました closes the loop.\n## Example Sentences
+When using 手配 in speech, 手配いたします is the expected humble form at luxury and upscale properties, while 手配します works in more casual settings. Before responding, staff should confirm the key details: departure time, number of people, destination, and any special requirements. A common error is committing to 手配いたします too quickly, before all necessary information has been gathered, resulting in an arrangement that misses the mark. Once the details have been confirmed and the arrangement made, staff should follow up with the guest -- タクシーの手配が完了いたしました closes the loop.
+## Example Sentences
 
 **1.** 空港までのタクシーを手配いたします。
 *Kuukou made no takushii wo tehai itashimasu.*

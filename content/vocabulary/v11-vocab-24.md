@@ -5,7 +5,8 @@ title: 緊急連絡先 (kinkyuu renrakusaki)
 ---
 緊急連絡先 is the emergency contact information collected from guests at check-in: a phone number or a person who can be reached if something urgent happens. In Japanese hotels and ryokan this is standard procedure. It reflects the hotel's sense of responsibility for each person staying under its roof.
 
-A common error is to underestimate how much the phrasing matters here. The request should feel routine and reassuring, not alarming. ご緊急の場合のご連絡先をお教えいただけますか (may I have one's emergency contact information?) is gentler than asking in a way that makes the guest wonder why one needs it. The information should be stored securely, accessible to front desk and security staff, and updated at every stay since contact details change more often than people expect\n## Example Sentences
+A common error is to underestimate how much the phrasing matters here. The request should feel routine and reassuring, not alarming. ご緊急の場合のご連絡先をお教えいただけますか (may I have one's emergency contact information?) is gentler than asking in a way that makes the guest wonder why one needs it. The information should be stored securely, accessible to front desk and security staff, and updated at every stay since contact details change more often than people expect
+## Example Sentences
 
 **1.** チェックインの際に、緊急連絡先をお教えいただけますか。
 *Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*

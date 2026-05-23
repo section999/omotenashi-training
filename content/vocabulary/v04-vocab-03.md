@@ -5,7 +5,8 @@ title: 清掃済み (seisou zumi)
 ---
 清掃済み means a room has been fully cleaned and is ready for a guest to check in or for a supervisor to inspect. The 済み (zumi) suffix attaches to a verb stem to show a completed action, so 清掃済み is literally "cleaning-done." It is the all-clear signal that moves a room from occupied territory to guest-ready status. Its direct counterpart is 清掃中 ("cleaning in progress"), and keeping the two straight is a notable vocabulary distinction in housekeeping.
 
-Staff mark a room 清掃済み by updating the room management system, placing a completion card in the room, or calling through to the floor supervisor. When a guest asks whether their room is ready before standard check-in time, この部屋は清掃済みでございます delivers that confirmation at the right level of formality. The room should only be marked 清掃済み after both the amenity check and the final visual walkthrough are complete. Marking it early under pressure from a busy front desk leads directly to embarrassing situations\n## Example Sentences
+Staff mark a room 清掃済み by updating the room management system, placing a completion card in the room, or calling through to the floor supervisor. When a guest asks whether their room is ready before standard check-in time, この部屋は清掃済みでございます delivers that confirmation at the right level of formality. The room should only be marked 清掃済み after both the amenity check and the final visual walkthrough are complete. Marking it early under pressure from a busy front desk leads directly to embarrassing situations
+## Example Sentences
 
 **1.** お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。
 *Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.*

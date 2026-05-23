@@ -5,7 +5,8 @@ title: 禁煙席 (kin'en seki)
 ---
 禁煙席 refers to a non-smoking seat or non-smoking section, a designated area of a restaurant or dining space where smoking is not permitted. In Japan, smoking regulations in dining establishments have become increasingly strict, and many hotels and restaurants now operate entirely non-smoking indoors, with separate outdoor or ventilated areas for smokers. Understanding and correctly using 禁煙席 is essential for all seating staff, as confirming a guest's smoking preference at the point of seating is a standard part of the welcome process and directly impacts guest comfort.
 
-Staff ask about seating preference using the paired question 禁煙席と喫煙席、どちらをご希望ですか ("which do you prefer, non-smoking or smoking?") before escorting a guest to their table. If only 禁煙席 is available, or if the establishment is entirely non-smoking, staff should inform the guest proactively: 当店は全席禁煙でございます ("this restaurant is entirely non-smoking"). Knowing how to navigate guest reactions to a non-smoking policy with courtesy and clarity is an important skill for front-of-house staff\n## Example Sentences
+Staff ask about seating preference using the paired question 禁煙席と喫煙席、どちらをご希望ですか ("which do you prefer, non-smoking or smoking?") before escorting a guest to their table. If only 禁煙席 is available, or if the establishment is entirely non-smoking, staff should inform the guest proactively: 当店は全席禁煙でございます ("this restaurant is entirely non-smoking"). Knowing how to navigate guest reactions to a non-smoking policy with courtesy and clarity is an important skill for front-of-house staff
+## Example Sentences
 
 **1.** 禁煙席と喫煙席、どちらをご希望でしょうか。
 *Kin'en seki to kitsuen seki, dochira wo go-kibou deshou ka.*

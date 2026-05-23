@@ -5,7 +5,8 @@ title: 有効 (yuukou)
 ---
 有効 comes from 有 (existing, to have) and 効 from 効力 (force, effect), and in hospitality it means that a coupon, バウチャー, credit card, reservation, or promotional offer is current, meets the applicable conditions, and can be accepted for its intended purpose. The opposite is 無効 (mukō, invalid), and the two are naturally paired whenever one is verifying a document. Telling a guest their document is 有効 gives them instant confidence, and telling them it is 無効 requires a careful, respectful explanation.
 
-confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. Once validity is confirmed, staff should inform the guest what they are entitled to, such as 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. This extra information removes any uncertainty about the scope of the benefit and prevents awkward questions later\n## Example Sentences
+confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. Once validity is confirmed, staff should inform the guest what they are entitled to, such as 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. This extra information removes any uncertainty about the scope of the benefit and prevents awkward questions later
+## Example Sentences
 
 **1.** こちらのバウチャーは有効でございます。
 *Kochira no bauchā wa yūkō de gozaimasu.*

@@ -8,7 +8,8 @@ title: 不在 (fuzai)
 
 不在 tells a caller that the person they need is not available right now. In Japanese hospitality telephone etiquette, 不在 is never the end of a sentence; it is always the beginning of one. The moment one says 担当者はただいま不在でございます, an alternative should be offered immediately. This distinguishes a trained hotel professional from someone simply reporting facts. The guest's need does not disappear because one staff member is away, and omotenashi requires a response to that need regardless.
 
-不在 can cover anything from "stepped away from the desk for two minutes" to "out of the office on annual leave." These two situations call for very different follow-up offers. If the 担当者 is briefly on another floor, one can offer a hold or a quick callback. If they are off for the day, one needs to offer a colleague who can help. Getting this distinction right is important, because an inaccurate time estimate is as problematic as offering no help at all. 不在 also appears in the compound 留守番電話 (voicemail), which reads as "telephone for guarding the house in one's absence"\n## Example Sentences
+不在 can cover anything from "stepped away from the desk for two minutes" to "out of the office on annual leave." These two situations call for very different follow-up offers. If the 担当者 is briefly on another floor, one can offer a hold or a quick callback. If they are off for the day, one needs to offer a colleague who can help. Getting this distinction right is important, because an inaccurate time estimate is as problematic as offering no help at all. 不在 also appears in the compound 留守番電話 (voicemail), which reads as "telephone for guarding the house in one's absence"
+## Example Sentences
 
 **1.** 担当者はただいま不在でございますが、ご伝言をお預かりいたしましょうか。
 *Tantōsha wa tadaima fuzai de gozaimasu ga, godengon wo oazukari itashimashō ka.*

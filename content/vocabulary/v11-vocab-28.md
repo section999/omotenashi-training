@@ -5,7 +5,8 @@ title: 会話 (kaiwa)
 ---
 会話 means conversation or dialogue, built from 会 (to meet, to come together) and 話 (speech, talk). In hospitality, 会話 involves more than vocabulary. It includes active listening, pacing to match the guest, reading the mood in the room, and adjusting one's formality based on who one is speaking with. Staff assessments routinely evaluate 会話スキル (conversation skills) as a core competency: a guest who feels heard tends to rate their experience higher regardless of minor service issues elsewhere.
 
-When working with international guests, especially when neither party is speaking their first language, effective 会話 requires care and patience. Speaking slowly, avoiding idioms, and using confirming phrases like ご理解いただけましたでしょうか (was that clear?) at natural pause points is recommended. The goal is not grammatical perfection but rather making the guest feel understood and well looked after. A common error is to discover that calm, attentive 会話 with limited vocabulary leaves a better impression than nervous, fluent chatter that never listens\n## Example Sentences
+When working with international guests, especially when neither party is speaking their first language, effective 会話 requires care and patience. Speaking slowly, avoiding idioms, and using confirming phrases like ご理解いただけましたでしょうか (was that clear?) at natural pause points is recommended. The goal is not grammatical perfection but rather making the guest feel understood and well looked after. A common error is to discover that calm, attentive 会話 with limited vocabulary leaves a better impression than nervous, fluent chatter that never listens
+## Example Sentences
 
 **1.** 英語でも会話できますので、お気軽にお声がけください。
 *Eigo demo kaiwa dekimasu node, okigaru ni okoe gake kudasai.*

@@ -8,7 +8,8 @@ title: 空いている席 (aiteiru seki)
 
 空いている席 means an available or open seat, and it is core vocabulary for managing guest flow in a hotel restaurant. A guest's first interaction upon entering the dining room sets the emotional tone for the entire meal. Whether they are greeted warmly and guided smoothly, or left standing at the entrance wondering what to do, that opening moment matters. The person managing seating needs a clear mental picture of which tables are occupied, which are reserved, and which are about to turn over, and they need to communicate that status to incoming guests with both clarity and warmth. The goal is to make every guest feel expected, even when the restaurant is completely full.
 
-When a guest asks about availability, staff should respond immediately and with action. Staff should either guide them directly to a seat using お席へご案内いたします, or offer a realistic wait time with an apology and a suggestion, perhaps the hotel lounge, or a specific estimate of when a table will open. Guests should never be left standing at the entrance without acknowledgment. If a table is turning over shortly, saying "a seat will be ready in about ten minutes" is more effective than a vague "please wait." Specific information shows respect for the guest's time\n## Example Sentences
+When a guest asks about availability, staff should respond immediately and with action. Staff should either guide them directly to a seat using お席へご案内いたします, or offer a realistic wait time with an apology and a suggestion, perhaps the hotel lounge, or a specific estimate of when a table will open. Guests should never be left standing at the entrance without acknowledgment. If a table is turning over shortly, saying "a seat will be ready in about ten minutes" is more effective than a vague "please wait." Specific information shows respect for the guest's time
+## Example Sentences
 
 **1.** ただいま空いている席へご案内いたします。
 *Tadaima aiteiru seki e go-annai itashimasu.*

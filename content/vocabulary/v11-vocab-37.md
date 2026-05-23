@@ -8,7 +8,8 @@ title: わかりました (wakarimashita)
 
 わかりました comes from the verb わかる, which carries the sense of something becoming clear or distinct enough to grasp. In hotel work, this is a common acknowledgment. It is polite, natural, and fits a wide range of situations: telephone calls, face-to-face conversations, and internal communication between colleagues. However, it sits below かしこまりました and 承知しました on the formality scale, so one needs to make a judgment call depending on the context. For most interactions, わかりました is an appropriate choice, better than slipping into casual forms like うん or なるほど.
 
-An important skill with わかりました is not just saying it but what comes next. On its own, it can feel passive, almost like one heard the message but is not sure what to do with it. Pairing it with an action statement changes the dynamic: わかりました、すぐにお持ちいたします tells the guest one understood and one is already moving. This combination matters most on the phone, where the guest cannot see one's body language or attentiveness. Following up with what one plans to do is recommended\n## Example Sentences
+An important skill with わかりました is not just saying it but what comes next. On its own, it can feel passive, almost like one heard the message but is not sure what to do with it. Pairing it with an action statement changes the dynamic: わかりました、すぐにお持ちいたします tells the guest one understood and one is already moving. This combination matters most on the phone, where the guest cannot see one's body language or attentiveness. Following up with what one plans to do is recommended
+## Example Sentences
 
 **1.** わかりました。ご希望のお時間に合わせてご準備いたします。
 *Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.*

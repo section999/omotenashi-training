@@ -5,7 +5,8 @@ title: 電車 (densha)
 ---
 電車 reads as "electric car" and refers to electrically powered rail transport, the most dominant and iconic form of travel in Japan, both within cities and between them. The network is celebrated worldwide for punctuality: delays of even one minute are formally announced with apologies. For hotel guests, the 電車 is almost always the fastest and most cost-effective way to reach major attractions, airports, and business districts, which is why helping guests navigate the train system is one of the most frequent tasks at any hotel front desk.
 
-Staff should get comfortable explaining the layers of the 電車 system: the difference between JR lines and private railways (私鉄, shitetsu), how 各駅停車 local trains stop at every station while 急行 and 特急 services skip ahead, and which major hubs are the best transfer points in the city. A phrase like 「○○駅で乗り換えていただくと便利です」 is useful to a guest holding a train map and looking lost. Guests who arrive at the hotel already knowing their nearest station number and the main line they will use have a much smoother stay\n## Example Sentences
+Staff should get comfortable explaining the layers of the 電車 system: the difference between JR lines and private railways (私鉄, shitetsu), how 各駅停車 local trains stop at every station while 急行 and 特急 services skip ahead, and which major hubs are the best transfer points in the city. A phrase like 「○○駅で乗り換えていただくと便利です」 is useful to a guest holding a train map and looking lost. Guests who arrive at the hotel already knowing their nearest station number and the main line they will use have a much smoother stay
+## Example Sentences
 
 **1.** 東京では毎日電車に乗ります。
 *Toukyou de wa mainichi densha ni norimasu.*

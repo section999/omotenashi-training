@@ -8,7 +8,8 @@ title: 宿泊税 (shukuhaku zei)
 
 宿泊税 is a compound word: 宿泊 (shukuhaku) means "lodging" or "overnight stay," and 税 (zei) means "tax." It's a local government tax charged to hotel and inn guests based on the room rate per person per night, and the amount varies by municipality and price tier. Tokyo and Osaka have both enacted their own 宿泊税 ordinances, and the thresholds and amounts differ between them. Staff working at properties in different cities, or whose property serves guests from across Japan, need to know the specific rules that apply to their location, not only a general idea of what 宿泊税 is.
 
-In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. A quick mention during the check-in briefing, something like 宿泊税が別途かかります, sets clear expectations\n## Example Sentences
+In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. A quick mention during the check-in briefing, something like 宿泊税が別途かかります, sets clear expectations
+## Example Sentences
 
 **1.** 宿泊税は料金に別途含まれております。
 *Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.*

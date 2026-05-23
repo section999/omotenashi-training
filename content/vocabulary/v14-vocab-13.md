@@ -5,7 +5,8 @@ title: 人気 (ninki)
 ---
 人気 means "popularity" and describes anything well-liked, in high demand, or widely chosen. In tourism and hospitality, the word is everywhere: concierges use it when pointing guests toward popular restaurants, brochures use it to label must-see spots, and apps build whole 人気ランキング (popularity rankings) around it. The reason it works so well as a recommendation tool is that it appeals to the guest's sense of trust: if many people like something, there is reassurance in the crowd's judgment.
 
-For hotel staff, 人気 is useful in service conversations. When a guest asks for a suggestion, saying 「こちらはとても人気があります」 feels helpful rather than pushy, because staff are reporting what others have found rather than pushing personal taste. However, the word gets even more powerful when staff pair it with timing: knowing which spots are most popular during cherry blossom season or autumn foliage means staff can tailor their recommendations to the moment rather than giving the same answer year-round. Guests notice when a staff member speaks to the season\n## Example Sentences
+For hotel staff, 人気 is useful in service conversations. When a guest asks for a suggestion, saying 「こちらはとても人気があります」 feels helpful rather than pushy, because staff are reporting what others have found rather than pushing personal taste. However, the word gets even more powerful when staff pair it with timing: knowing which spots are most popular during cherry blossom season or autumn foliage means staff can tailor their recommendations to the moment rather than giving the same answer year-round. Guests notice when a staff member speaks to the season
+## Example Sentences
 
 **1.** この神社は観光客にとても人気があります。
 *Kono jinja wa kankoukyaku ni totemo ninki ga arimasu.*

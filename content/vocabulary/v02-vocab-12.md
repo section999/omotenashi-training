@@ -5,7 +5,8 @@ title: サイン (sign)
 ---
 サイン is the Japanese loanword for signature, borrowed directly from the English "sign." In a hotel context, guests are asked to sign a range of documents: the check-in registration form, credit card charge slips, room service orders, and agreements for any special arrangements. The act of signing carries real legal and administrative weight, confirming that the guest acknowledges what has been presented. In Japanese hospitality culture, requesting a サイン should feel exactly as gracious as any other part of the interaction. The guest should feel invited to complete a formality, not pressed to sign something.
 
-The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. Staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました\n## Example Sentences
+The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. Staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました
+## Example Sentences
 
 **1.** こちらにサインをお願いいただけますでしょうか。
 *Kochira ni sain o o-negai itadakemasu deshō ka.*

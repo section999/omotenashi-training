@@ -5,7 +5,8 @@ title: 暗証番号 (anshou bangou)
 ---
 暗証番号 breaks down to 暗証 (a secret or private cipher) and 番号 (number), and in everyday use it means the PIN a guest enters to authorize a card payment or authenticate their identity on a digital system. Protecting it is not just a procedural rule; it's a matter of professional ethics and personal respect. In omotenashi culture, one is expected to anticipate the guest's need for privacy without being asked, which means actively creating the right conditions before they even reach for the keypad.
 
-When a transaction calls for a 暗証番号, the PIN pad should be turned toward the guest and staff should step back so the guest has a clear, private space to enter it. Staff should never attempt to see the PIN, ask the guest to say it aloud, or allow anyone nearby to observe the keypad. If a guest enters the wrong PIN, staff should inform them quietly and offer another attempt without drawing attention to the situation\n## Example Sentences
+When a transaction calls for a 暗証番号, the PIN pad should be turned toward the guest and staff should step back so the guest has a clear, private space to enter it. Staff should never attempt to see the PIN, ask the guest to say it aloud, or allow anyone nearby to observe the keypad. If a guest enters the wrong PIN, staff should inform them quietly and offer another attempt without drawing attention to the situation
+## Example Sentences
 
 **1.** 恐れ入りますが、暗証番号をご入力ください。
 *Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.*

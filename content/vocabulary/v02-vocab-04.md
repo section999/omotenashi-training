@@ -5,7 +5,8 @@ title: 予約 (yoyaku)
 ---
 予約 is an important word in Japanese hospitality, meaning reservation or booking. It marks the point at which a guest's relationship with the hotel begins, often long before they set foot on the property. Reservations may be made by phone, online, or through a travel agent, and staff must handle all related tasks: inquiry, creation, confirmation, modification, and cancellation, each with precision and politeness. A mishandled 予約 can damage trust early; a smoothly managed one builds confidence in the property from the outset.
 
-When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling, anywhere in the hotel where advance arrangement is required, all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction\n## Example Sentences
+When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling, anywhere in the hotel where advance arrangement is required, all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction
+## Example Sentences
 
 **1.** ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。
 *Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*

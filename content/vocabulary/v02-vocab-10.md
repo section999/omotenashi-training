@@ -5,7 +5,8 @@ title: パスポート (passport)
 ---
 パスポート is the Japanese word for passport, the primary identification document for foreign nationals checking into Japanese hotels. Under Japanese law, hotels are required to verify the identity of all international guests at check-in, and the passport is the standard document used for that purpose. Handling a guest's passport requires a particular kind of care. It is a personal, legally significant item, and the guest needs to feel that it is being treated with respect and returned without delay.
 
-The right phrase for requesting a passport is パスポートを拝見してもよろしいでしょうか. This uses 拝見, the humble form of "to look at," and frames the request as asking for permission rather than issuing a command. After viewing the document, return it immediately with a bow and a word of thanks such as ありがとうございます or 恐れ入ります. If the property requires a photocopy or scan for records, explain this clearly before proceeding: 記録のためにコピーを取らせていただきます tells the guest exactly what is happening and why\n## Example Sentences
+The right phrase for requesting a passport is パスポートを拝見してもよろしいでしょうか. This uses 拝見, the humble form of "to look at," and frames the request as asking for permission rather than issuing a command. After viewing the document, return it immediately with a bow and a word of thanks such as ありがとうございます or 恐れ入ります. If the property requires a photocopy or scan for records, explain this clearly before proceeding: 記録のためにコピーを取らせていただきます tells the guest exactly what is happening and why
+## Example Sentences
 
 **1.** パスポートを拝見してもよろしいでしょうか。
 *Pasupōto o haiken shite mo yoroshii deshō ka.*

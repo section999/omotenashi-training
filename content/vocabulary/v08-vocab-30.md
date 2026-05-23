@@ -8,7 +8,8 @@ title: 下 (shita)
 
 下 means "below," "underneath," or "down," and is the direct vertical counterpart to 上 (ue). In hotel navigation, it most often points guests downward toward basement levels, where parking garages, spas, laundry facilities, and storage rooms tend to live in Japanese hotels. The word is short and versatile: it handles floor-level directions (駐車場は下の階にございます) just as naturally as room-level ones (ソファーの下にございます). The surrounding keigo does the register work, making 下 straightforward to use.
 
-One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. A common error is forgetting to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves the guest unsure how to proceed\n## Example Sentences
+One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. A common error is forgetting to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves the guest unsure how to proceed
+## Example Sentences
 
 **1.** 駐車場は地下2階の下にございます。エレベーターをご利用ください。
 *Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*

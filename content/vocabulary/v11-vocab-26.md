@@ -5,7 +5,8 @@ title: 保留 (horyuu)
 ---
 保留 reads as "temporary retention" and refers to placing a telephone caller on hold. The characters break down as 保 (to hold or preserve) and 留 (to keep or detain), so together they describe keeping the caller in a waiting state. In hotel phone etiquette, this is a small detail that makes a significant difference: a guest who is placed on hold without any explanation is left in silence wondering if the call dropped. That uncertainty is the opposite of omotenashi.
 
-Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for one's patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is a clear marker of professional telephone service\n## Example Sentences
+Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for one's patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is a clear marker of professional telephone service
+## Example Sentences
 
 **1.** 少々保留にさせていただきますので、そのままお待ちくださいませ。
 *Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.*

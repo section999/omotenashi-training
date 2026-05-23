@@ -3,9 +3,11 @@ id: v10-vocab
 section: 5
 title: 後払い (atobarai)
 ---
-後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays: room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs managed through the concierge. The key professional obligation is ensuring proper documentation—a signed agreement, purchase order, or registered credit card—is in place before service is rendered under a 後払い arrangement.
+後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays: room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs managed through the concierge. The key professional obligation is ensuring proper documentation: a signed agreement, purchase order, or registered credit card, is in place before service is rendered under a 後払い arrangement.
 
-Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event with an agreed payment window. Staff must track all 後払い accounts carefully and flag overdue balances. Having the final bill prepared before the guest arrives at checkout is standard professional practice.\n## Example Sentences
+Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event with an agreed payment window. Staff must track all 後払い accounts carefully and flag overdue balances. Having the final bill prepared before the guest arrives at checkout is standard professional practice.
+
+## Example Sentences
 
 **1.** お食事代はお部屋付けにて後払いでお承りいたします。
 *O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.*

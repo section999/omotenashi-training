@@ -8,7 +8,8 @@ title: 利用 (riyou)
 
 利用 (riyou) combines the characters for "benefit/profit" (利) and "use" (用), together meaning "to make use of" in a purposeful, beneficial sense. What sets this word apart from the everyday 使う is the nuance it carries: 利用 frames the act of using a service as something the property has prepared for the guest's benefit. That framing aligns naturally with the omotenashi mindset of anticipating and serving guests' needs. Understanding 利用 and its honorific form ご利用 is essential for hospitality professionals, because the term appears in nearly every formal guest communication.
 
-Staff use 利用 when explaining what facilities or services guests may access: 「大浴場はご自由にご利用いただけます」 (the large communal bath is available for one's free use) or 「コンシェルジュサービスをご利用ください」 (please make use of the concierge service). It also appears in usage restrictions: 「プールのご利用は午後9時までとなっております」 (pool use is available until 9 PM). The prefix ご is always added when referring to the guest's use of the hotel's services. one will rarely speak to a guest about a service without this word coming up\n## Example Sentences
+Staff use 利用 when explaining what facilities or services guests may access: 「大浴場はご自由にご利用いただけます」 (the large communal bath is available for one's free use) or 「コンシェルジュサービスをご利用ください」 (please make use of the concierge service). It also appears in usage restrictions: 「プールのご利用は午後9時までとなっております」 (pool use is available until 9 PM). The prefix ご is always added when referring to the guest's use of the hotel's services. one will rarely speak to a guest about a service without this word coming up
+## Example Sentences
 
 **1.** 施設は自由にご利用いただけます。お気軽にお申しつけください。
 *Shisetsu wa jiyuu ni go-riyou itadakemasu. O-ki-garu ni o-moushitsuke kudasai.*

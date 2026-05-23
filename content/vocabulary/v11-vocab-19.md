@@ -8,7 +8,8 @@ title: 確認いたします (kakunin itashimasu)
 
 確認いたします means "I will confirm" or "I will check," and it carries weight in hospitality. When said to a guest, it is a promise, not just an acknowledgment. It tells the guest that action will be taken and that an answer will follow. That implicit obligation is what makes this phrase so central to hotel service, and also what makes it easy to misuse if one says it and then disappears.
 
-On the practical side, 確認いたします comes up constantly: verifying reservation details, checking availability with a colleague, confirming a request before sending it upstairs. After using it, staff should return with the answer within a reasonable time or provide an interim update. 確認に少々時間をいただいております (I am currently taking a moment to confirm; please wait just a little longer) is an update that helps keep guests patient. Leaving a guest in silence after saying 確認いたします, typically because the staff member becomes absorbed in the task, is one of the more common service failures\n## Example Sentences
+On the practical side, 確認いたします comes up constantly: verifying reservation details, checking availability with a colleague, confirming a request before sending it upstairs. After using it, staff should return with the answer within a reasonable time or provide an interim update. 確認に少々時間をいただいております (I am currently taking a moment to confirm; please wait just a little longer) is an update that helps keep guests patient. Leaving a guest in silence after saying 確認いたします, typically because the staff member becomes absorbed in the task, is one of the more common service failures
+## Example Sentences
 
 **1.** 担当者に確認いたします。少々お待ちいただけますか。
 *Tantousha ni kakunin itashimasu. Shoushou omachi itadakemasu ka.*

@@ -8,7 +8,8 @@ title: 折り返し (orikaeshi)
 
 折り返し translates as "folding back" or "returning," and in telephone communication it means a return call, reaching back out to someone after an initial contact could not be fully resolved. In Japanese hospitality, offering a 折り返し is not a way to get off the phone quickly. It is a service commitment: the hotel is promising to reinitiate contact. That distinction matters. When one says 折り返しご連絡いたします, the guest hears "we have not forgotten you and we will call back." That phrase carries weight, but only if one follows through.
 
-The most common mistake with 折り返し is leaving out the timeframe. Saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. The timeframe is what the guest will hold staff to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover; a missed callback is a notable failure in hotel communication, because the guest was told explicitly to expect one\n## Example Sentences
+The most common mistake with 折り返し is leaving out the timeframe. Saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. The timeframe is what the guest will hold staff to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover; a missed callback is a notable failure in hotel communication, because the guest was told explicitly to expect one
+## Example Sentences
 
 **1.** 担当者より1時間以内に折り返しご連絡いたします。
 *Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.*

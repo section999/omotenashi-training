@@ -5,7 +5,8 @@ title: 一括払い (ikkatsu barai)
 ---
 一括払い means paying the full amount in a single transaction, as opposed to spreading it across installments. In Japanese hospitality, this is the standard assumed payment mode for most hotel stays, restaurant bills, and spa services. Staff confirm it as the default before processing. The term matters most in card transactions, where the terminal prompts a choice between 一括 (lump sum) and 分割 (installments). Selecting the wrong option requires voiding and reprocessing a payment, which delays service and can unsettle a guest.
 
-For shorter stays or charges, 一括払い is usually appropriate. When a bill is particularly large, such as a multi-night banquet package, staff may introduce 分割払い as an option. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.\n## Example Sentences
+For shorter stays or charges, 一括払い is usually appropriate. When a bill is particularly large, such as a multi-night banquet package, staff may introduce 分割払い as an option. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.
+## Example Sentences
 
 **1.** ご一括払いでよろしいでしょうか、それとも分割払いをご希望でしょうか。
 *Go-ikkatsu barai de yoroshii deshou ka, soretomo bunkatsu barai wo go-kibou deshou ka.*

@@ -5,7 +5,8 @@ title: 地図アプリ (chizu apuri)
 ---
 地図アプリ combines 地図 (map) and アプリ (app, short for application) to mean a smartphone navigation application. These apps have changed how tourists move through Japan: they offer turn-by-turn walking directions, public transit planning, nearby restaurant searches, and real-time traffic data, all in multiple languages. Japan's addressing system is notoriously non-sequential compared to most countries, so for visitors trying to find a side-street restaurant or a small shrine off the main road, a 地図アプリ is less a convenience and more a necessity.
 
-Hotel staff who proactively recommend 地図アプリ add real value to the guest's day. When someone asks for directions, responding with 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」 is practical and guest-focused. Note that Japan-specific apps like Navitime offer far deeper transit integration than international apps, including precise transfer timing and platform numbers, so it is worth mentioning both options. Guests worried about mobile data costs will also appreciate being told that most 地図アプリ can download maps in advance for offline use\n## Example Sentences
+Hotel staff who proactively recommend 地図アプリ add real value to the guest's day. When someone asks for directions, responding with 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」 is practical and guest-focused. Note that Japan-specific apps like Navitime offer far deeper transit integration than international apps, including precise transfer timing and platform numbers, so it is worth mentioning both options. Guests worried about mobile data costs will also appreciate being told that most 地図アプリ can download maps in advance for offline use
+## Example Sentences
 
 **1.** 旅行中は地図アプリで目的地を探しました。
 *Ryokou-chuu wa chizu apuri de mokutekichi wo sagashimashita.*

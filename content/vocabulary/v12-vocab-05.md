@@ -8,7 +8,8 @@ title: 消火器 (shoukaki)
 
 消火器 is a portable fire extinguisher, and knowing how to use one correctly is a basic competency for every hospitality staff member. In Japanese hotels, ryokan, and restaurants, 消火器 are required by law at regular intervals throughout the building, clearly marked with red signage. During the first critical minutes after a fire starts, a well-trained staff member with a 消火器 nearby can stop a containable incident from becoming a full evacuation. That window is short, so knowing the locations of every extinguisher on one's floor before one needs one is important.
 
-Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side. Not all extinguishers work on all fires. Staff should know the difference between powder-type (粉末, funmatsu), CO2-type, and foam-type extinguishers because using the wrong type on a grease fire can worsen the situation. After any use, the extinguisher must come out of service immediately, be replaced or recharged, and the incident reported to management\n## Example Sentences
+Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side. Not all extinguishers work on all fires. Staff should know the difference between powder-type (粉末, funmatsu), CO2-type, and foam-type extinguishers because using the wrong type on a grease fire can worsen the situation. After any use, the extinguisher must come out of service immediately, be replaced or recharged, and the incident reported to management
+## Example Sentences
 
 **1.** 火災の場合、消火器を使用して初期消火を行ってください。
 *Kasai no baai, shoukaki wo shiyou shite shoki shouka wo okonatte kudasai.*

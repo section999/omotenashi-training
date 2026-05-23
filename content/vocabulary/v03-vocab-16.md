@@ -5,7 +5,8 @@ title: 浴室 (yokushitsu)
 ---
 浴室 (浴 = bathing, 室 = room) is a Sino-Japanese compound that refers to the dedicated bathing space within a guest room or facility. In Japanese hospitality culture, the bathing experience holds significance, particularly in ryokan, where the 浴室 may house both a western-style shower and a traditional soaking tub, often made of hinoki (cypress wood) or stone. Staff explaining the 浴室 are expected to highlight all available features, from the bath controls to toiletries, conveying a sense of attentive care that reflects the omotenashi spirit. Knowing this term allows staff to speak about bathing facilities with precision and professionalism.
 
-During room orientation, staff commonly say 「お部屋の浴室はこちらでございます」 (the bathroom is here) or describe specific amenities: 「浴室にはバスタブとシャワーの両方がございます」 (the bathroom has both a bathtub and shower). At ryokan with private in-room baths, staff may also explain the filling procedure for the bath. In hotels, the term comes up when directing guests, describing cleanliness standards, or explaining housekeeping schedules\n## Example Sentences
+During room orientation, staff commonly say 「お部屋の浴室はこちらでございます」 (the bathroom is here) or describe specific amenities: 「浴室にはバスタブとシャワーの両方がございます」 (the bathroom has both a bathtub and shower). At ryokan with private in-room baths, staff may also explain the filling procedure for the bath. In hotels, the term comes up when directing guests, describing cleanliness standards, or explaining housekeeping schedules
+## Example Sentences
 
 **1.** お部屋の浴室は広くて清潔でございます。
 *Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.*

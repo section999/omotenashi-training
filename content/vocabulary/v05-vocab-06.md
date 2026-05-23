@@ -8,7 +8,8 @@ title: メニュー (menyuu)
 
 メニュー comes from the French "menu" and refers to the list of food and beverage offerings at a restaurant or dining venue. In Japan, presenting the menu is more than a formality. It is the opening moment of the dining experience, and guests notice whether it is handled with care or indifference. The standard approach is to offer it with both hands, with a slight bow and a welcoming phrase that signals one is happy to help. High-end hotel restaurants often carry separate menus for seasonal set courses, à la carte, wine, and dessert, and staff need to be ready to explain and recommend items across all of them.
 
-A confident menu explanation matters more than it may appear. When a guest seems unsure what to order, a well-placed recommendation, especially something seasonal or the chef's signature, reassures them that they are in good hands. When a menu is only in Japanese, offering a verbal summary or translated explanation to international guests is more than a courtesy; it is a direct expression of the inclusive spirit of omotenashi. The メニュー is also the primary tool for sharing allergen information and dietary options, so thorough knowledge of its contents is essential\n## Example Sentences
+A confident menu explanation matters more than it may appear. When a guest seems unsure what to order, a well-placed recommendation, especially something seasonal or the chef's signature, reassures them that they are in good hands. When a menu is only in Japanese, offering a verbal summary or translated explanation to international guests is more than a courtesy; it is a direct expression of the inclusive spirit of omotenashi. The メニュー is also the primary tool for sharing allergen information and dietary options, so thorough knowledge of its contents is essential
+## Example Sentences
 
 **1.** こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。
 *Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.*

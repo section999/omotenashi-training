@@ -8,7 +8,8 @@ title: コーヒー (koohii)
 
 コーヒー is a notably frequently requested beverage in hotel dining, turning up at breakfast buffets, after meals, during afternoon tea, and throughout the day in hotel lounges. Japan has a deeply developed coffee culture, and guests, particularly business travelers and coffee enthusiasts, often have specific preferences about brewing method, strength, temperature, and what goes alongside it. Staff who can speak knowledgeably about the coffee being served, its origin, roast level, or brewing style, turn a routine beverage offer into a warm hospitality moment. The post-meal coffee offer is also a natural opportunity to enrich the guest's experience, and when handled gracefully rather than pushily, it tends to be well received.
 
-The phrase 食後にコーヒーはいかがでしょうか is a standard example of the soft, non-pressuring offer style valued in Japanese service. Unlike a direct suggestion, this phrasing invites the guest to decide without feeling obligated. The casual 飲みますか is too blunt for formal service and loses the gentle, inviting quality that makes the offer feel warm. Staff should always follow up by asking hot or iced, and whether the guest takes milk or sugar, rather than assuming\n## Example Sentences
+The phrase 食後にコーヒーはいかがでしょうか is a standard example of the soft, non-pressuring offer style valued in Japanese service. Unlike a direct suggestion, this phrasing invites the guest to decide without feeling obligated. The casual 飲みますか is too blunt for formal service and loses the gentle, inviting quality that makes the offer feel warm. Staff should always follow up by asking hot or iced, and whether the guest takes milk or sugar, rather than assuming
+## Example Sentences
 
 **1.** 食後にコーヒーはいかがでしょうか。
 *Shokugo ni koohii wa ikaga deshou ka.*

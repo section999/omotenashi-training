@@ -8,7 +8,8 @@ title: 会計係 (kaikei kakari)
 
 会計係 is the designated staff member responsible for all aspects of guest payment: calculating totals, processing transactions, issuing receipts, and returning correct change. The payment interaction is the final impression a guest carries away from one's property, which makes the 会計係 role one that demands both numerical precision and warmth. A smooth stay can still leave a poor impression if the checkout is rushed or cold. The 会計係 must balance efficiency with courtesy -- not merely procedural politeness, but attentiveness that feels personal.
 
-In hotels and ryokan, the 会計係 may also review itemized charges (利用明細) with the guest, answer questions about specific line items, and handle late charges that were posted after departure. In restaurants, the role may be a dedicated cashier or the server themselves. Common phrases include 会計係が精算を行います when explaining the checkout process, and 会計係にお申し付けください when directing guests to the right person for billing questions. This role shapes the guest's final impression of the property\n## Example Sentences
+In hotels and ryokan, the 会計係 may also review itemized charges (利用明細) with the guest, answer questions about specific line items, and handle late charges that were posted after departure. In restaurants, the role may be a dedicated cashier or the server themselves. Common phrases include 会計係が精算を行います when explaining the checkout process, and 会計係にお申し付けください when directing guests to the right person for billing questions. This role shapes the guest's final impression of the property
+## Example Sentences
 
 **1.** 会計係がお支払いの手続きをいたします。
 *Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.*

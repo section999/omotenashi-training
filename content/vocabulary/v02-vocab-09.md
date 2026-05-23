@@ -5,7 +5,8 @@ title: お名前 (onamae)
 ---
 お名前 is the polite form of 名前 (namae), meaning "name." The prefix お (o-) is an honorific that elevates the word, signalling respect for the person whose name is being requested or mentioned. In Japanese hospitality, a guest's name is treated with particular care, it is the key to their reservation, their identity at the property, and the means by which staff address them personally throughout the stay. Using the full polite form お名前 is a baseline expectation, and requesting it through the most respectful phrasing available, お名前をお伺いしてもよろしいでしょうか, signals that the hotel values the guest as an individual, not merely as a room number.
 
-Staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness\n## Example Sentences
+Staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness
+## Example Sentences
 
 **1.** お名前をお伺いしてもよろしいでしょうか。
 *O-namae o o-ukagai shite mo yoroshii deshō ka.*

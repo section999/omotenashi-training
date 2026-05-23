@@ -5,7 +5,8 @@ title: カードキー (card key)
 ---
 カードキー refers to an electronic key card, typically using magnetic stripe or RFID/NFC technology, that grants access to a hotel room and sometimes to elevators, fitness facilities, or lounge areas. The vast majority of modern Japanese hotels and international chains in Japan use カードキー systems, making this term more practically common than the traditional 鍵 in day-to-day hotel operations. In addition to room access, card keys may be programmed with loyalty tier information, breakfast inclusion codes, or floor-level elevator access restrictions, making them a more sophisticated tool than a simple physical key.
 
-In a hospitality context, staff introduce カードキー during check-in as a standard part of the handover sequence: こちらがカードキーでございます, followed by any relevant instructions about its use. If the property restricts elevator access by floor (エレベーターはカードキーをかざしてご利用ください), staff should explain this clearly to avoid frustration at the elevator. Common follow-up scenarios include demagnetized cards (カードキーが反応しない場合は、フロントへお越しください) or requests for a second card for a room companion (追加のカードキーをご用意いたします)\n## Example Sentences
+In a hospitality context, staff introduce カードキー during check-in as a standard part of the handover sequence: こちらがカードキーでございます, followed by any relevant instructions about its use. If the property restricts elevator access by floor (エレベーターはカードキーをかざしてご利用ください), staff should explain this clearly to avoid frustration at the elevator. Common follow-up scenarios include demagnetized cards (カードキーが反応しない場合は、フロントへお越しください) or requests for a second card for a room companion (追加のカードキーをご用意いたします)
+## Example Sentences
 
 **1.** こちらがカードキーでございます。エレベーターにもご利用いただけます。
 *Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.*

@@ -8,7 +8,8 @@ title: 危険 (kiken)
 
 危険 describes situations, objects, or conditions that pose a threat to life, health, or property. It sits in a hierarchy: 注意 signals "be careful," while 危険 signals "this is serious." In a hotel, 危険 is used for things like a gas leak, post-earthquake structural damage, a flooded corridor, or a construction zone where guests should not go under any circumstances.
 
-Japanese workplaces across many industries train staff in 危険予知 (kiken yochi), which means hazard prediction. The idea is to spot potential dangers before anyone gets hurt. For hotel staff, this mindset means regularly scanning the environment, not just waiting for something to go wrong before acting. 危険 alone is never enough: the word must always be paired with a clear instruction, such as "do not enter" or "please evacuate." A sign that just says 危険 without telling people what to do leaves guests confused and unsafe\n## Example Sentences
+Japanese workplaces across many industries train staff in 危険予知 (kiken yochi), which means hazard prediction. The idea is to spot potential dangers before anyone gets hurt. For hotel staff, this mindset means regularly scanning the environment, not just waiting for something to go wrong before acting. 危険 alone is never enough: the word must always be paired with a clear instruction, such as "do not enter" or "please evacuate." A sign that just says 危険 without telling people what to do leaves guests confused and unsafe
+## Example Sentences
 
 **1.** このエリアは危険ですので、立ち入らないでください。
 *Kono eria wa kiken desu node, tachiiri naide kudasai.*

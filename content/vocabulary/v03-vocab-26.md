@@ -5,7 +5,8 @@ title: 清掃 (seisou)
 ---
 清掃 (清 = clean/pure, 掃 = sweep) means "cleaning" or "housekeeping," and in hotel and ryokan contexts it refers to the scheduled service of tidying guest rooms, replenishing supplies, changing towels and bedding, and maintaining overall room hygiene. In Japanese hospitality culture, 清掃 is not merely a functional task. It reflects the meticulous attention to cleanliness that is a defining feature of Japanese accommodation standards, widely praised by international visitors. A well-executed 清掃 service involves precise attention to detail: perfectly aligned items, fresh fragrance, and a room that appears as though it has just been prepared for the very first time. Guests expect this level of care, and staff must be able to communicate the cleaning schedule and process clearly and professionally.
 
-In guest-facing communication, staff typically inform guests of the 清掃 schedule at check-in: 「お部屋の清掃は午前10時までに完了いたします」 (room cleaning will be completed by 10 a.m.). Guests who prefer not to have their rooms cleaned may request this: 「清掃不要カードをドアにかけてください」 (please hang the do-not-disturb card on the door). When a guest requests additional or special cleaning, the appropriate response is 「すぐに清掃のスタッフを手配いたします」 (I will arrange for cleaning staff immediately)\n## Example Sentences
+In guest-facing communication, staff typically inform guests of the 清掃 schedule at check-in: 「お部屋の清掃は午前10時までに完了いたします」 (room cleaning will be completed by 10 a.m.). Guests who prefer not to have their rooms cleaned may request this: 「清掃不要カードをドアにかけてください」 (please hang the do-not-disturb card on the door). When a guest requests additional or special cleaning, the appropriate response is 「すぐに清掃のスタッフを手配いたします」 (I will arrange for cleaning staff immediately)
+## Example Sentences
 
 **1.** 清掃は午前10時までに完了いたします。
 *Seisou wa gozen juuji made ni kanryou itashimasu.*

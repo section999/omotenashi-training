@@ -5,7 +5,8 @@ title: 修理 (shuuri)
 ---
 修理 means repair: fixing something damaged or malfunctioning. In a hotel or ryokan, broken things need to be addressed quickly because any item that does not work in a guest space directly affects the guest's experience. A leaking faucet, a faulty air-conditioning unit, a broken drawer, a TV remote that stopped responding: these are not abstract maintenance issues. They are things a guest is living with until someone fixes them. 修理 is the word that puts the resolution process in motion and reassures the guest that their concern is being taken seriously.
 
-修理 comes up frequently in conversations between front-line staff, supervisors, and the maintenance (メンテナンス) or engineering department. When a guest reports a problem, staff should acknowledge it first, then commit to action: 修理はすぐに手配いたします is the standard assurance phrase. In written reports or handover notes, noting that 修理を依頼済み (repair has been requested) creates accountability across shifts, so the next team knows what was promised. A timeline should always be included; vague responses do not reassure anyone\n## Example Sentences
+修理 comes up frequently in conversations between front-line staff, supervisors, and the maintenance (メンテナンス) or engineering department. When a guest reports a problem, staff should acknowledge it first, then commit to action: 修理はすぐに手配いたします is the standard assurance phrase. In written reports or handover notes, noting that 修理を依頼済み (repair has been requested) creates accountability across shifts, so the next team knows what was promised. A timeline should always be included; vague responses do not reassure anyone
+## Example Sentences
 
 **1.** エアコンの修理は、ただちに手配いたします。
 *Eakon no shuuri wa, tadachi ni tehai itashimasu.*

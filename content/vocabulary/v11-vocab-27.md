@@ -5,7 +5,8 @@ title: 転送 (tensou)
 ---
 転送 means to forward or redirect a telephone call, built from 転 (to turn or transfer) and 送 (to send). In hotel operations it is one of the routine telephone actions performed by staff, connecting guests to room service, the concierge, housekeeping, or whoever can help them. When handled well the guest barely notices the transfer happened. When handled poorly they either get disconnected or have to repeat their entire request from scratch, which is a frustrating experience that reflects badly on the whole hotel.
 
-The recommended standard is what practitioners call a warm transfer. Before connecting the guest, one reaches the receiving party first, briefly explains the guest's situation, and then brings them together. One signals this to the guest with 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect one). This takes an extra thirty seconds but changes the experience for the guest. A cold transfer, where one forwards the call without any preparation, is discouraged in omotenashi settings\n## Example Sentences
+The recommended standard is what practitioners call a warm transfer. Before connecting the guest, one reaches the receiving party first, briefly explains the guest's situation, and then brings them together. One signals this to the guest with 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect one). This takes an extra thirty seconds but changes the experience for the guest. A cold transfer, where one forwards the call without any preparation, is discouraged in omotenashi settings
+## Example Sentences
 
 **1.** 担当部署に転送いたしますので、少々お待ちくださいませ。
 *Tantou busho ni tensou itashimasu node, shoushou omachi kudasaimase.*

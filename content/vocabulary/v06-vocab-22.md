@@ -5,7 +5,8 @@ title: 交換希望 (koukan kibou)
 ---
 交換希望 is a two-word compound: 交換 (exchange/replacement) and 希望 (wish/request). Together they indicate a guest's expressed desire to have an item replaced or swapped, whether towels, bed linen, a pillow, a faulty TV remote, or even a room. The clarity of this term in hotel communication is important because it triggers a specific chain of action: the right department (housekeeping, maintenance, or front desk) must receive the request accurately to respond efficiently. In omotenashi-centered properties, the goal is to fulfill 交換希望 before the guest needs to ask twice.
 
-staff use this expression when logging requests in operational systems (「タオル交換希望、302号室」), communicating between departments via radio or messaging apps, and verifying with guests what they need: 「タオルの交換をご希望でございますか？ただいまご用意いたします」 (would one like a replacement towel? I will prepare one right away). In ryokan settings, yukata and bedding 交換希望 requests are especially common and should be handled with the same speed and grace as in Western hotels\n## Example Sentences
+staff use this expression when logging requests in operational systems (「タオル交換希望、302号室」), communicating between departments via radio or messaging apps, and verifying with guests what they need: 「タオルの交換をご希望でございますか？ただいまご用意いたします」 (would one like a replacement towel? I will prepare one right away). In ryokan settings, yukata and bedding 交換希望 requests are especially common and should be handled with the same speed and grace as in Western hotels
+## Example Sentences
 
 **1.** タオルの交換をご希望でございますね。すぐにお持ちいたします。
 *Taoru no koukan wo go-kibou de gozaimasu ne. Sugu ni o-mochi itashimasu.*

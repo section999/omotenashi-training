@@ -5,7 +5,8 @@ title: 特典 (tokuten)
 ---
 特典 is the word for a perk or bonus that comes built into a booking plan: things like complimentary breakfast, spa access, an airport transfer, welcome drinks, or late checkout. Guests often choose between plans specifically because of what the 特典 are, so staff who can discuss them clearly are providing both sales and service. If one works in reservations, check-in, or plan recommendations, this word will come up frequently.
 
-Proactive communication about 特典 is considered good practice. Raising it proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」, allows the guest to discover the benefit during their stay rather than after checkout. When guests feel their choice was rewarded, they leave satisfied\n## Example Sentences
+Proactive communication about 特典 is considered good practice. Raising it proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」, allows the guest to discover the benefit during their stay rather than after checkout. When guests feel their choice was rewarded, they leave satisfied
+## Example Sentences
 
 **1.** こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。
 *Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.*

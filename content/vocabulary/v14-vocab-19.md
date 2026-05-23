@@ -5,7 +5,8 @@ title: バス (basu)
 ---
 バス is the Japanese loanword for "bus" and refers to road-based public vehicles running on fixed routes with scheduled stops. Japan's train network is extensive, but バス services fill the gaps: rural areas, mountaintop destinations, and city neighborhoods without rail connections all depend on them. In Kyoto especially, the city's sightseeing loop バス routes are specifically designed for tourists and stop at the most popular temples and shrines, making them one of the best recommendations staff can offer a guest who wants to move at a relaxed pace rather than fighting rush-hour trains.
 
-Hotel staff are asked about バス routes constantly, and airport transfers are the most common case. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (airport limousine coach) as the primary option. Being able to explain the バス stop location, the stop name, and approximate journey time is standard concierge knowledge. The most useful thing staff can say is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」: staff have given them the destination, the departure point, and the name of the stop, all in one sentence\n## Example Sentences
+Hotel staff are asked about バス routes constantly, and airport transfers are the most common case. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (airport limousine coach) as the primary option. Being able to explain the バス stop location, the stop name, and approximate journey time is standard concierge knowledge. The most useful thing staff can say is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」: staff have given them the destination, the departure point, and the name of the stop, all in one sentence
+## Example Sentences
 
 **1.** 空港から市内までバスで行きました。
 *Kuukou kara shinai made basu de ikimashita.*

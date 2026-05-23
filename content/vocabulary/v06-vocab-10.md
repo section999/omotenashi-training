@@ -5,7 +5,8 @@ title: 暑い (atsui)
 ---
 暑い is an i-adjective meaning hot or uncomfortably warm. In Japanese hospitality, temperature complaints are among the most common guest concerns, particularly during the humid summer months. When a guest says 「部屋が暑い」 (the room is hot) or 「暑い」 with a look of discomfort, staff must respond with a concrete action, not a sympathetic agreement. Physical comfort is a baseline, a guest who is too warm cannot relax, sleep, or enjoy their experience. Addressing 暑い complaints swiftly is a matter of service fundamentals, not optional courtesy.
 
-The response to a 暑い complaint depends on the cause. The air conditioning may need adjustment, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact rather than giving advice from a distance. In ryokan settings where air conditioning is limited by design, alternatives such as portable fans, ice water, or cooled towels are standard comfort measures that show thoughtful preparation\n## Example Sentences
+The response to a 暑い complaint depends on the cause. The air conditioning may need adjustment, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact rather than giving advice from a distance. In ryokan settings where air conditioning is limited by design, alternatives such as portable fans, ice water, or cooled towels are standard comfort measures that show thoughtful preparation
+## Example Sentences
 
 **1.** 「お部屋が暑い」とのことで、ただいま空調を確認いたします。
 *"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.*

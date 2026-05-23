@@ -5,7 +5,8 @@ title: フォーク (fooku)
 ---
 フォーク is the Japanese word for a fork, borrowed from English, and refers to the standard Western dining utensil used alongside a knife and spoon in hotel restaurants, banquet settings, and room service. In Japanese hospitality, the correct placement and timely provision of フォーク is part of the broader commitment to flawless table service. A missing fork, or one that is placed on the wrong side of the plate (フォーク goes to the left of the plate in Western table settings), signals inattention and can undermine the guest's perception of service quality before the meal has even begun.
 
-フォーク comes up in a wide range of F&B service situations: table setting before a meal, responding to a guest who discovers missing cutlery, clearing and replacing between courses, and assisting guests with special dietary needs who may require particular fork types (e.g., a fish fork or a dessert fork). The standard response when a guest reports a missing fork, フォークをお持ちいたします, is a model for immediate, no-delay service recovery. Staff should also be familiar with the common pairing ナイフとフォーク (knife and fork) and know when to offer 箸 as an alternative\n## Example Sentences
+フォーク comes up in a wide range of F&B service situations: table setting before a meal, responding to a guest who discovers missing cutlery, clearing and replacing between courses, and assisting guests with special dietary needs who may require particular fork types (e.g., a fish fork or a dessert fork). The standard response when a guest reports a missing fork, フォークをお持ちいたします, is a model for immediate, no-delay service recovery. Staff should also be familiar with the common pairing ナイフとフォーク (knife and fork) and know when to offer 箸 as an alternative
+## Example Sentences
 
 **1.** フォークをお持ちいたします。少々お待ちくださいませ。
 *Fooku wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*

@@ -5,7 +5,8 @@ title: 外国人 (gaikokujin)
 ---
 外国人 reads as "person from outside the country," and it appears frequently in training materials, internal memos, and service policies across hotels, ryokans, and tourism businesses. The term covers visitors from every country in the world, not just Western nations, so this should be kept in mind when it appears in briefings. How staff think about this word shapes how they approach guests: the spirit of omotenashi calls for treating each 外国人 as an individual with their own background, expectations, and comfort level, not as a uniform category.
 
-When working a reception desk or concierge role, the job involves anticipating what 外国人 guests need before they ask. That means multilingual menus, bilingual signage, and staff who can at least offer a warm greeting in English or another language. Note here: appearance is never a reliable guide to nationality, so staff should not assume a guest is Japanese or foreign based on how they look. The 外国人 classification includes anyone holding a non-Japanese passport, and attentiveness should match that reality\n## Example Sentences
+When working a reception desk or concierge role, the job involves anticipating what 外国人 guests need before they ask. That means multilingual menus, bilingual signage, and staff who can at least offer a warm greeting in English or another language. Note here: appearance is never a reliable guide to nationality, so staff should not assume a guest is Japanese or foreign based on how they look. The 外国人 classification includes anyone holding a non-Japanese passport, and attentiveness should match that reality
+## Example Sentences
 
 **1.** 本日は外国人のお客様が多くいらっしゃいますので、英語での対応をお願いいたします。
 *Honjitsu wa gaikokujin no okyakusama ga ooku irasshaimasu node, eigo de no taiou wo onegai itashimasu.*

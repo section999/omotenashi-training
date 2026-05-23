@@ -8,7 +8,8 @@ title: 予約日 (yoyaku bi)
 
 予約日 is the calendar date on which the guest made their reservation, as distinct from the dates of the actual stay. A common error is to treat this as a minor detail, but in Japanese hotel operations the 予約日 carries real weight. Many promotional rates, early booking discounts (早割), and membership perks are calculated based on how far in advance a reservation was placed, which means the 予約日 directly affects billing accuracy. Revenue managers and auditors also rely on it when tracking booking trends, evaluating marketing campaign performance, and checking for duplicate or suspicious entries. Knowing the difference between 予約日 and 宿泊日 is one of the first distinctions expected of new front-desk staff, and it comes up more often than one might expect.
 
-In day-to-day service, 予約日 surfaces when a guest questions whether a discount applies, or when staff need to investigate a pricing discrepancy. It also appears on booking confirmation documents and in internal reservation reports. Guests occasionally ask when they made their booking, perhaps to check whether they qualify for a promotion they read about. Locating the 予約日 quickly in the property management system demonstrates competence\n## Example Sentences
+In day-to-day service, 予約日 surfaces when a guest questions whether a discount applies, or when staff need to investigate a pricing discrepancy. It also appears on booking confirmation documents and in internal reservation reports. Guests occasionally ask when they made their booking, perhaps to check whether they qualify for a promotion they read about. Locating the 予約日 quickly in the property management system demonstrates competence
+## Example Sentences
 
 **1.** ご予約日は2026年3月15日となっております。
 *Go-yoyaku bi wa nisen nijuuroku nen san-gatsu juugo-nichi to natte orimasu.*

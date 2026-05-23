@@ -5,7 +5,8 @@ title: 大人 (otona)
 ---
 大人 is the standard hospitality term for an adult guest, typically someone aged 12 or 13 and above, though the exact threshold depends on the property and plan. A common error is to assume Japanese hotels price stays per room, but they actually price per person. A family booking of "2大人 + 1子供" looks very different on the invoice from a booking of "3大人," and getting the category right from the start matters. Correctly categorising guests is not just an accounting detail; it affects meal portions, yukata sizes, and other preparation steps that follow from the booking.
 
-Teenagers who sit on the boundary of the adult threshold require extra attention. If a 12-year-old travels with a property that sets its adult age at 13, charging adult rates would be an overcharge that must be unwound at checkout. The property's specific policy should be checked before assigning rates to younger guests. Additionally, when speaking about 大人 guests in service language, the counter 名様 should be used instead of 人. Saying 大人2名様 instead of 大人2人 signals professionalism\n## Example Sentences
+Teenagers who sit on the boundary of the adult threshold require extra attention. If a 12-year-old travels with a property that sets its adult age at 13, charging adult rates would be an overcharge that must be unwound at checkout. The property's specific policy should be checked before assigning rates to younger guests. Additionally, when speaking about 大人 guests in service language, the counter 名様 should be used instead of 人. Saying 大人2名様 instead of 大人2人 signals professionalism
+## Example Sentences
 
 **1.** 大人2名でご予約を承りました。
 *Otona ni-mei de go-yoyaku o uketa wari mashita.*

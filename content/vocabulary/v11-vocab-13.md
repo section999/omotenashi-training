@@ -5,7 +5,8 @@ title: 音声案内 (onsei annai)
 ---
 音声案内 refers to automated voice guidance delivered through a phone system, typically an IVR (interactive voice response) menu that routes callers by prompting them to press numbered keys. In Japanese hospitality, where clarity and courtesy are paramount, staff must be prepared to guide guests through these menus personally when the guest seems confused or is unfamiliar with the system. Understanding this term allows staff to explain the process smoothly without making the guest feel abandoned to an impersonal system.
 
-In a hospitality context, 音声案内 appears whenever a hotel routes incoming calls through a main switchboard menu. Staff might say 音声案内で1番を押してください (please press 1 on the voice menu) or explain to a guest calling from abroad how the system works before transferring them. Being proactive about guiding guests through the 音声案内 steps, rather than saying "follow the prompts," is a key expression of omotenashi in telephone service\n## Example Sentences
+In a hospitality context, 音声案内 appears whenever a hotel routes incoming calls through a main switchboard menu. Staff might say 音声案内で1番を押してください (please press 1 on the voice menu) or explain to a guest calling from abroad how the system works before transferring them. Being proactive about guiding guests through the 音声案内 steps, rather than saying "follow the prompts," is a key expression of omotenashi in telephone service
+## Example Sentences
 
 **1.** 音声案内に従って、1番を押してフロントにお繋ぎください。
 *Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.*

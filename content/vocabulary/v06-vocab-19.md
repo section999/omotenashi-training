@@ -8,7 +8,8 @@ title: 無料 (muryou)
 
 無料 combines the characters for "nothing/none" (無) and "fee/charge" (料), meaning "no charge." In Japanese hospitality, being explicit about what is free is considered a basic courtesy. Guests should never have to wonder whether they will be billed for something, and they should certainly never discover a charge they did not expect. Properties that communicate 無料 clearly signal transparency, and that transparency builds the kind of trust that brings guests back. Knowing this word lets staff set correct expectations quickly and with confidence.
 
-Staff use 無料 proactively when describing complimentary services: 「朝食は無料でご提供しております」 (breakfast is provided free of charge) or 「駐車場は無料でございます」 (the parking lot is complimentary). When a guest asks whether something costs money, a clear 「無料でございます」 is the ideal response: short, formal, and reassuring. The contrast with 有料 (chargeable) is something staff need to have sorted before starting a shift. Knowing which services are free and which are not from memory is part of performing the job effectively\n## Example Sentences
+Staff use 無料 proactively when describing complimentary services: 「朝食は無料でご提供しております」 (breakfast is provided free of charge) or 「駐車場は無料でございます」 (the parking lot is complimentary). When a guest asks whether something costs money, a clear 「無料でございます」 is the ideal response: short, formal, and reassuring. The contrast with 有料 (chargeable) is something staff need to have sorted before starting a shift. Knowing which services are free and which are not from memory is part of performing the job effectively
+## Example Sentences
 
 **1.** 当ホテルのWi-Fiは全館無料でご利用いただけます。
 *Tou hoteru no waifai wa zenkan muryou de go-riyou itadakemasu.*

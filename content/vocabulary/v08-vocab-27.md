@@ -8,7 +8,8 @@ title: こちら側 (kochira gawa)
 
 こちら側 means "this side," specifically the side closest to the speaker, and the word 側 (gawa) contributes to it more than just こちら. When one is standing in a wide lobby, a split corridor, or a dual elevator bank, saying こちら (this way) might leave a guest scanning both sides with uncertainty. Adding 側 specifies the side: one is pointing to a specific side of the space, not just a general direction. エレベーターはこちら側にございます tells the guest exactly where to look, especially if one gesture clearly as one says it.
 
-In daily hospitality use, こちら側 comes into its own when one needs to describe a bilateral layout. Pairing it with あちら側 (that side, farther from one) in a single sentence is clean and efficient: 洋室はあちら側、和室はこちら側でございます gives a guest a complete picture of a floor layout in one breath. This provides clear spatial guidance during a welcome walk. A common error is discovering that once staff start using こちら側 and あちら側 together, the words start coming out naturally\n## Example Sentences
+In daily hospitality use, こちら側 comes into its own when one needs to describe a bilateral layout. Pairing it with あちら側 (that side, farther from one) in a single sentence is clean and efficient: 洋室はあちら側、和室はこちら側でございます gives a guest a complete picture of a floor layout in one breath. This provides clear spatial guidance during a welcome walk. A common error is discovering that once staff start using こちら側 and あちら側 together, the words start coming out naturally
+## Example Sentences
 
 **1.** エレベーターはこちら側にございます。どうぞこちらへお進みください。
 *Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.*

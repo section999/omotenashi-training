@@ -5,7 +5,8 @@ title: 確定 (kakutei)
 ---
 確定 (kakutei) means "confirmed" or "finalised" and indicates that a reservation has moved from tentative or pending status to a guaranteed, committed state. In hotel operations, 確定 is a reassuring word a guest can hear, because it means their room is secured, their plan is locked in, and their stay is guaranteed. From a property management perspective, 確定 status triggers room allocation, housekeeping scheduling, and, where applicable, meal preparation planning, so the transition from tentative to 確定 is a meaningful operational milestone, not merely an administrative label.
 
-Staff use 確定 most visibly at check-in when verbally reassuring guests that their booking is in order, and in written or emailed reservation confirmations that accompany the 確定 status change. Best practice is to state 確定 alongside the reservation number (予約番号), as the number gives the guest a concrete reference point for any future inquiry and serves as written proof of the booking. For guests who have travelled long distances or are attending important events, the combination of ご予約は確定しております + a stated 予約番号 is a powerful reassurance\n## Example Sentences
+Staff use 確定 most visibly at check-in when verbally reassuring guests that their booking is in order, and in written or emailed reservation confirmations that accompany the 確定 status change. Best practice is to state 確定 alongside the reservation number (予約番号), as the number gives the guest a concrete reference point for any future inquiry and serves as written proof of the booking. For guests who have travelled long distances or are attending important events, the combination of ご予約は確定しております + a stated 予約番号 is a powerful reassurance
+## Example Sentences
 
 **1.** ご予約は確定しております。予約番号は12345でございます。
 *Go-yoyaku wa kakutei shite orimasu. Yoyaku bangou wa ichi-ni-san-yon-go de gozaimasu.*

@@ -5,7 +5,8 @@ title: 外線 (gaisen)
 ---
 外線 is the telephone line that connects to numbers outside the hotel or organization, as distinct from the internal 内線 network. Accessing it typically requires pressing a prefix digit, most commonly 0, before dialing the external number. This routing system exists for billing, security, and line management purposes, and explaining it clearly to guests is part of the check-in experience, especially for international visitors who may never have encountered this convention before.
 
-failing to mention the 外線 prefix is a common reason guests become frustrated with their in-room phone. They dial, nothing happens, and they feel helpless. Staff should also be clear about the fact that 外線 calls from guest rooms are typically billed to the room account and may carry a surcharge. When a guest needs to call a taxi, an airline, or a local restaurant, staff can either place the call for them or walk them through the steps, but should not leave them to figure it out alone\n## Example Sentences
+failing to mention the 外線 prefix is a common reason guests become frustrated with their in-room phone. They dial, nothing happens, and they feel helpless. Staff should also be clear about the fact that 外線 calls from guest rooms are typically billed to the room account and may carry a surcharge. When a guest needs to call a taxi, an airline, or a local restaurant, staff can either place the call for them or walk them through the steps, but should not leave them to figure it out alone
+## Example Sentences
 
 **1.** 外線をおかけになる場合は、まず0をお押しください。
 *Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.*

@@ -5,7 +5,8 @@ title: 確認番号 (kakunin bangou)
 ---
 確認番号 combines 確認 (confirmation or verification) and 番号 (number), giving a unique alphanumeric or numeric code tied to a reservation, payment, or booking. It is the fastest way for both staff and guests to find a specific transaction without ambiguity. Searching by name alone is slower and more prone to mistakes, because the same name can appear differently across different booking systems or be romanized in multiple ways.
 
-Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, staff should ask for it early so the reservation can be pulled up instantly. However, not every guest will have it handy. Staff should offer to look them up by email address, phone number, or arrival date, and do so graciously. A guest should never be made to feel they have done something wrong by not memorizing their confirmation number\n## Example Sentences
+Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, staff should ask for it early so the reservation can be pulled up instantly. However, not every guest will have it handy. Staff should offer to look them up by email address, phone number, or arrival date, and do so graciously. A guest should never be made to feel they have done something wrong by not memorizing their confirmation number
+## Example Sentences
 
 **1.** 恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。
 *Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*

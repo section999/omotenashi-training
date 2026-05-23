@@ -8,7 +8,8 @@ title: 注意 (chuui)
 
 注意 (chuui) means caution or attention, and in the context of safety signage it sits at the lowest tier of hazard communication. It appears on wet floor signs after mopping, near steps or uneven surfaces, around pool decks, and beside hot surfaces in buffet setups. The word is built from 注 (to pour attention into) and 意 (mind, intention), meaning the literal sense is to direct full awareness toward a situation. 注意 belongs to a three-tier scale alongside 警告 (warning) and 危険 (danger), so each word carries a specific weight that should not be swapped casually.
 
-Beyond signage, 注意 is part of everyday spoken service. The phrase 足元にご注意ください (please watch one's step) comes up constantly when guiding guests through construction zones, down staircases, or over uneven ground. Similarly, お荷物にご注意ください is a natural reminder in busy lobbies. Because 注意 signals a moderate and precautionary level of risk, staff should not use it when the situation is dangerous. Those cases call for 危険 or 警告, and choosing the wrong word could cause guests to underestimate a real hazard\n## Example Sentences
+Beyond signage, 注意 is part of everyday spoken service. The phrase 足元にご注意ください (please watch one's step) comes up constantly when guiding guests through construction zones, down staircases, or over uneven ground. Similarly, お荷物にご注意ください is a natural reminder in busy lobbies. Because 注意 signals a moderate and precautionary level of risk, staff should not use it when the situation is dangerous. Those cases call for 危険 or 警告, and choosing the wrong word could cause guests to underestimate a real hazard
+## Example Sentences
 
 **1.** 清掃後で床が濡れておりますので、足元に十分ご注意ください。
 *Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*

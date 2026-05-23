@@ -8,7 +8,8 @@ title: 仮予約 (kari yoyaku)
 
 仮予約 (kari yoyaku) means "tentative reservation" or "provisional booking", a reservation that has been recorded but not yet finalized, usually because payment, a signed agreement, or some other confirmation from the guest is still pending. In Japanese hotels, 仮予約 is a normal intermediate step, especially for group bookings, travel agency reservations, or any plan that requires a deposit before the booking locks in. The property sets the room or resource aside conditionally and waits for the guest or their agent to complete what's needed before the booking moves to 確定 (confirmed) status.
 
-A key responsibility with 仮予約 is communicating the 確認期限 clearly. Without a firm deadline, a tentative reservation can sit in limbo, blocking inventory that could be sold to other guests. When one inform a guest of their 仮予約 status, one needs to cover three things in one message: what the booking currently is (tentative), what is needed to confirm it (payment, written approval, etc.), and by when (the exact date and time of the 確認期限). That three-part structure prevents misunderstandings and protects both the guest and the property\n## Example Sentences
+A key responsibility with 仮予約 is communicating the 確認期限 clearly. Without a firm deadline, a tentative reservation can sit in limbo, blocking inventory that could be sold to other guests. When one inform a guest of their 仮予約 status, one needs to cover three things in one message: what the booking currently is (tentative), what is needed to confirm it (payment, written approval, etc.), and by when (the exact date and time of the 確認期限). That three-part structure prevents misunderstandings and protects both the guest and the property
+## Example Sentences
 
 **1.** 現在、お客様のご予約は仮予約の状態でございます。〇月〇日までにお支払いをいただくことで確定となります。
 *Genzai, o-kyaku-sama no go-yoyaku wa kari-yoyaku no joutai de gozaimasu. Maru-gatsu maru-nichi made ni o-shiharai wo itadaku koto de kakutei to narimasu.*

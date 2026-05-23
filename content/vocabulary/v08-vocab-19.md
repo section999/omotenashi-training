@@ -8,7 +8,8 @@ title: 隣 (tonari)
 
 隣 means "next to" or "adjacent to" and describes a side-by-side spatial relationship between two places or objects. In hospitality, precision in directional language reflects good service, and 隣 is a useful proximity word because it points guests to an immediately visible reference: the destination is right beside something they can already see. This avoids the vagueness of 近くに (nearby) when a location is literally touching or sharing a wall with a known landmark. Hotels, ryokan, and restaurants constantly need to describe adjacency, a café next to the lobby, a spa next to the pool, a gift shop next to the elevator bank, and 隣 is the natural, unambiguous choice in each case.
 
-In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, staff should specify which side, 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests check both directions and look uncertain, which reduces guidance clarity\n## Example Sentences
+In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, staff should specify which side, 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests check both directions and look uncertain, which reduces guidance clarity
+## Example Sentences
 
 **1.** レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。
 *Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.*

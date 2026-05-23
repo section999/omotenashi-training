@@ -8,7 +8,8 @@ title: 精算 (seisan)
 
 精算 refers to the process of finalizing and settling all charges from a stay or service. This goes beyond presenting a number -- 精算 means reconciling room charges, meals, spa treatments, telephone calls, minibar items, and any extras, along with applicable taxes, discounts, and deductions. In Japanese hospitality culture, the 精算 moment is treated as the final touchpoint of the entire guest experience. A smooth, accurate 精算 can reinforce a guest's overall satisfaction.
 
-Staff should prepare the statement before the guest arrives at the front desk so the interaction feels efficient. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing is both professional and considerate, as it gives the guest the chance to flag discrepancies. Any disputes should be resolved before the final payment is processed. Reversing a completed transaction is more complicated than catching the problem beforehand.\n## Example Sentences
+Staff should prepare the statement before the guest arrives at the front desk so the interaction feels efficient. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing is both professional and considerate, as it gives the guest the chance to flag discrepancies. Any disputes should be resolved before the final payment is processed. Reversing a completed transaction is more complicated than catching the problem beforehand.
+## Example Sentences
 
 **1.** チェックアウトの際に、フロントにて精算をお願いいたします。
 *Chekkuauto no sai ni, furonto nite seisan wo o-negai itashimasu.*

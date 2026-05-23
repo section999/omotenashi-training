@@ -8,7 +8,8 @@ title: 空き状況 (aki joukyou)
 
 空き状況 (aki joukyou) literally puts 空き (vacancy, open space) together with 状況 (status, situation) to mean "vacancy status" or "availability." In day-to-day hotel operations, it is a frequently checked piece of information: guests ask before booking, staff verify before confirming, and housekeeping updates it in real time as rooms are cleaned and released. Getting 空き状況 right matters far beyond individual reservations. Overselling leads to 満室 situations, while under-reporting availability means lost revenue.
 
-The professional practice is to verify before asserting. A staff member who tells a guest そのお日にちは満室でございます without checking the system risks turning away a booking that was possible, or contradicting what another booking channel shows. The only acceptable response to any availability inquiry is 空き状況を確認いたします. Checking first before reporting is standard front desk practice\n## Example Sentences
+The professional practice is to verify before asserting. A staff member who tells a guest そのお日にちは満室でございます without checking the system risks turning away a booking that was possible, or contradicting what another booking channel shows. The only acceptable response to any availability inquiry is 空き状況を確認いたします. Checking first before reporting is standard front desk practice
+## Example Sentences
 
 **1.** 少々お待ちください。ただいま空き状況を確認いたします。
 *Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.*
