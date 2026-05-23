@@ -48,4 +48,4 @@ Students often use 日数 and 何泊 as if they are the same thing, and this is 
 
 **Correct Answer:** 日数 (number of days)
 
-**Explanation:** 日数 is the calendar-day count, which includes both the arrival and departure day, making it the right term when the total number of days is what is being stated. 何泊 counts only chargeable overnight stays, 人数 counts the number of guests, and 宿泊日 names the actual dates — none of these express a count of days the way 日数 does.
+**Explanation:** 日数 is the calendar-day count, which includes both the arrival and departure day, making it the right term when the total number of days is what is being stated. 何泊 counts only chargeable overnight stays, 人数 counts the number of guests, and 宿泊日 names the actual dates, none of these express a count of days the way 日数 does.

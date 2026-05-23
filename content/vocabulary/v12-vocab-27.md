@@ -44,4 +44,4 @@ Students sometimes treat 安全確認 as administrative paperwork rather than a 
 
 **Answer:** 安全確認
 
-**Explanation:** 安全確認 (anzen kakunin) means safety check: verifying equipment or areas are safe before allowing use.
+**Explanation:** 安全確認 is the proactive, scheduled process of physically verifying that equipment and spaces are free of hazards before guests use them, and it is just as much a part of omotenashi as warm service because safety is the foundation everything else rests on. It overlaps with 点検 (inspection), but 安全確認 specifically emphasises the safety dimension, and both the physical check and its documentation carry equal weight.

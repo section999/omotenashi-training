@@ -48,5 +48,5 @@ Students sometimes assume the front desk always handles payments and conflate �
 
 **Correct Answer:** 会計係 (cashier)
 
-**Explanation:** 会計係 carries both accuracy and hospitality responsibility: even at the final payment stage, tone and warmth matter; a 会計係 who processes payment quickly but coldly leaves a poor last impression; the farewell interaction is as important as the welcome.
+**Explanation:** 会計係 is the designated person responsible for all guest payment, combining numerical precision with genuine hospitality at the final interaction of a stay. フロント係 handles check-in, inquiries, and general guest services but is a separate role; 清掃係 and 案内係 are entirely different functions. The farewell at the レジ carries as much weight as the welcome at check-in, and a 会計係 who processes payment efficiently but warmly leaves a guest with a last impression that can define how they remember the entire stay.
 

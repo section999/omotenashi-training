@@ -44,4 +44,4 @@ Students often use 仕事 (shigoto: work, job) and 業務 as if they are interch
 
 **Answer:** 業務
 
-**Explanation:** 業務 (gyoumu) means duties: all tasks and responsibilities assigned to an employee for efficient organisational operations.
+**Explanation:** 業務 covers the full scope of an employee's assigned role, every responsibility that comes with their position, and it is the formal institutional term used in work reports, contracts, and management briefings. The everyday word 仕事 is too casual for professional documents, while 作業 zooms in on one discrete piece of work rather than the entire role, making neither a correct substitute here.

@@ -44,5 +44,5 @@ Not mentioning キャンセル料 at booking time is one of the most reliable wa
 
 **Correct Answer:** キャンセル料が発生します (a cancellation fee will apply)
 
-**Explanation:** キャンセル料 policy must be communicated at the time of booking: saying キャンセル料が発生する場合がございます (a cancellation fee may apply) with the specific window ensures the guest cannot later claim they were not informed.
+**Explanation:** キャンセル料が発生します is the honest, complete answer to a guest who asks about cancellation charges, and it should always be followed by the specific window and the actual yen amount so the guest can make an informed decision. The wrong options here either promise no charge (無料), suggest a benefit (特典), or move in the opposite financial direction (割引), none of which addresses the question.
 

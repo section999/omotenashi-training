@@ -41,4 +41,4 @@ The most frequent error is using 休み and 休憩 interchangeably. Telling a co
 
 **Answer:** 休み
 
-**Explanation:** 休み (yasumi) means day off: a scheduled non-working day for rest and personal time, distinct from 休憩 (break during work).
+**Explanation:** 休み is the whole non-working day built into the rota, and keeping it distinct from 休憩 (a short break within a shift) is one of the most practically important distinctions in hospitality Japanese. Getting these two mixed up can lead to real misunderstandings about scheduling, attendance, and what an employee is actually entitled to at any given point in the day.

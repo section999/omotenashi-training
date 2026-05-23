@@ -47,5 +47,5 @@ Students sometimes use レジ and 会計 as if they mean the same thing, but レ
 
 **Correct Answer:** レジ (cash register)
 
-**Explanation:** レジでお支払いをお願いします directs guests to the payment point: in Japanese hospitality, escorting guests to the レジ rather than just pointing is the expected standard; it prevents confusion and reduces time spent searching.
+**Explanation:** レジ is the physical location or counter where payment is completed, which sets it apart from the process-oriented terms in the wrong options. 精算 describes the settlement of an account, 内訳 is the charge breakdown, and 合計 is the total amount; none of them refer to a place. In premium hospitality, escorting a guest to the レジ rather than simply pointing shows that the quality of service extends right through to the last moment of the visit.
 

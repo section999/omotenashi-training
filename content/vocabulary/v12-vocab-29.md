@@ -44,4 +44,4 @@ Using 案内 in an emergency context is a real mistake, because 案内 implies o
 
 **Answer:** 指示
 
-**Explanation:** 指示 (shiji) means instruction: guidance or directives given to ensure safe and correct action during operations or emergencies.
+**Explanation:** 指示 carries an expectation of action, meaning the recipient is expected to comply, which is what makes it the right word during evacuations and emergency procedures where compliance is not optional. 案内 is the word for optional informational guidance in normal service contexts, and using it in an emergency risks guests treating your direction as something they can choose to ignore.

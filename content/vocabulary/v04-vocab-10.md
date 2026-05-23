@@ -45,5 +45,5 @@ Staff sometimes top up シャンプー while overlooking コンディショナ�
 
 **Correct Answer:** シャンプー (shampoo)
 
-**Explanation:** シャンプー is the standard loanword for shampoo and is a baseline bathroom amenity in every Japanese hotel room, so it naturally completes this sentence. 石鹸 is soap, タオル is a towel, and ゴミ箱 is a trash can — none belong in the bathroom amenity sentence the way シャンプー does.
+**Explanation:** シャンプー is the standard loanword for shampoo and is a baseline bathroom amenity in every Japanese hotel room, so it naturally completes this sentence. 石鹸 is soap, タオル is a towel, and ゴミ箱 is a trash can, none belong in the bathroom amenity sentence the way シャンプー does.
 

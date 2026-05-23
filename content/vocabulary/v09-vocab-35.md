@@ -45,4 +45,4 @@ A common error is treating 個人予約 as inherently simple and therefore givin
 
 **Correct Answer:** 個人予約 (individual reservation)
 
-**Explanation:** 個人予約 is the most common booking type: while simpler than 団体予約, it still deserves careful attention; personalization (addressing the guest by name, noting preferences from previous stays) turns a standard 個人予約 into a memorable experience.
+**Explanation:** 個人予約 is the right term for a reservation made by or for one person or a small party, and it is precisely this everyday booking type where the most meaningful personalization happens, such as greeting repeat guests by name and applying stored preferences before they even ask. 団体予約 requires group coordination that does not apply here, and 連泊 describes duration while 仮予約 describes an unconfirmed status, neither of which captures the nature of this booking.

@@ -44,4 +44,4 @@ The automatic door is the biggest practical point to communicate: non-Japanese g
 
 **Answer:** タクシー
 
-**Explanation:** タクシー (takushii) means taxi: a paid door-to-door vehicle service useful when carrying luggage or travelling outside train and bus routes.
+**Explanation:** タクシー (takushii) is a metered hired vehicle offering door-to-door service, making it the right recommendation for guests with heavy luggage, late-night travel needs, or destinations that trains and buses cannot conveniently reach. バス runs on fixed shared routes rather than on-demand, and the higher-end ハイヤー is pre-booked chauffeured transport with a different price point and service expectation, not a simple metered ride.

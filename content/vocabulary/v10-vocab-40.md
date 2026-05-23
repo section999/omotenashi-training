@@ -44,5 +44,5 @@ Students often use 確認番号 and 予約番号 as if they're always the same t
 
 **Correct Answer:** 確認番号 (confirmation number)
 
-**Explanation:** 確認番号 and 予約番号 serve similar purposes but at different stages: 予約番号 is assigned at booking time, while 確認番号 may refer to a separate verification code sent by email or SMS; always clarify which one you need to avoid confusion when the guest has both.
+**Explanation:** 確認番号 is the unique alphanumeric code that pinpoints a specific reservation or payment, making it the fastest and most accurate lookup tool at the desk, unlike 伝票, 領収書, or 合計 which are billing documents rather than search references. When a guest provides one, pull up the reservation using it immediately, and if they do not have it, offer to search by email address or arrival date rather than making them feel they have done something wrong.
 

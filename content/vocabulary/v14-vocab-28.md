@@ -44,4 +44,4 @@ One common mistake is using 習慣 to describe a personal quirk or bad habit. Fo
 
 **Answer:** 習慣
 
-**Explanation:** 習慣 (shuukan) means custom or habit: the habitual behaviours and social practices observed within a culture.
+**Explanation:** 習慣 describes the established behavioural patterns a culture observes almost automatically, such as removing shoes indoors or not tipping at restaurants. Using it when explaining local practices to guests frames cultural difference as shared knowledge rather than correction, which is exactly the hospitality register you want. 文化 is the broader societal framework those behaviours belong to, while 慣例 refers to internal institutional procedures.

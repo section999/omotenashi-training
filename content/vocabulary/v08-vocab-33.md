@@ -48,4 +48,4 @@ The most common mix-up is treating フロアマップ and 案内図 as the same 
 
 **Correct Answer:** フロアマップ (floor map)
 
-**Explanation:** フロアマップ is the floor-specific spatial layout document, and elevator landings are one of the standard places it is placed so guests can orient themselves immediately after stepping off the lift. A 案内図 covers the whole complex, a 案内板 is a fixed wall sign, and a 地図 is a general map — none of these give the precise floor-level detail a guest needs to find their room.
+**Explanation:** フロアマップ is the floor-specific spatial layout document, and elevator landings are one of the standard places it is placed so guests can orient themselves immediately after stepping off the lift. A 案内図 covers the whole complex, a 案内板 is a fixed wall sign, and a 地図 is a general map, none of these give the precise floor-level detail a guest needs to find their room.

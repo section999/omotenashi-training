@@ -44,5 +44,5 @@ One more thing to watch out for: assuming every guest already knows how 電子�
 
 **Correct Answer:** 電子決済 (electronic payment)
 
-**Explanation:** 電子決済 (PayPay, LINE Pay, Apple Pay, etc.) is increasingly expected: knowing which 電子決済 brands the hotel accepts and being able to guide guests to the correct QR code or terminal is now a standard front desk skill in Japanese hospitality.
+**Explanation:** 電子決済 covers all cashless digital payment methods, from smartphone apps like PayPay and LINE Pay to contactless cards, and it's the only term here that names the category itself rather than a single method, a general process, or a billing stage. In practice, knowing which 電子決済 brands your property accepts and guiding guests to the right terminal or QR code is now a core front-desk skill, since alternatives like 一括払い describe a payment structure and 精算 describes a settlement process, not the technology used.
 

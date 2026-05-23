@@ -47,4 +47,4 @@ Students often use 点検中 and 修理中 as if they mean the same thing, but t
 
 **Correct Answer:** 点検中 (under inspection)
 
-**Explanation:** 点検中 (tenken chuu) means under inspection: a facility or device is currently being checked. 使用禁止 = do not use, 注意 = caution, 危険 = danger.
+**Explanation:** 点検中 tells guests and staff that a facility is currently being checked, with no fault necessarily confirmed yet, making it distinct from a prohibition or hazard warning. 使用禁止 is an active ban on operating something, 注意 is a general caution, and 危険 signals genuine risk of harm, none of which accurately describes an ongoing inspection where the outcome is still unknown.

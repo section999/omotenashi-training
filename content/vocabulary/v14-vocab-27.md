@@ -47,4 +47,4 @@ Students often mix up 文化 and 習慣 (shuukan, custom or habit). They are rel
 
 **Correct Answer:** 文化 (culture)
 
-**Explanation:** 文化 (bunka) means culture: the traditions, arts, and social practices of a society. 習慣 = customs/habits, マナー = manners, 注意事項 = precautions.
+**Explanation:** 文化 is the broadest of these four terms, naming the traditions, arts, and shared values that define an entire society rather than any single behaviour or rule. In hospitality, framing a cultural difference as 文化 invites guests into understanding and signals genuine expertise. The other options are narrower: 習慣 points to specific habitual behaviours, マナー to expected social conduct in shared spaces, and 注意事項 to safety or facility guidelines.

@@ -44,4 +44,4 @@ A common mistake is using 洗濯 when a guest needs dry cleaning. 洗濯 means w
 
 **Answer:** 洗濯
 
-**Explanation:** 洗濯 (sentaku) means washing: the process of cleaning clothes or fabrics by hand or machine.
+**Explanation:** 洗濯 is the core word for the act of cleaning clothes with water, and in a hotel setting it covers both the guest's request and the facility where that washing takes place. It has a domestic, hands-on quality that makes it the natural term when explaining in-room washers or laundry room access. ランドリー has a more commercial service flavour, while クリーニング is reserved specifically for dry cleaning using chemical solvents, not water.

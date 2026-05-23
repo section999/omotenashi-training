@@ -45,4 +45,4 @@ Learners often use 締切 and 期限 interchangeably, but in hospitality context
 
 **Correct Answer:** 締切 (deadline)
 
-**Explanation:** 締切 and 期限 are near-synonyms but 締切 is more absolute: missing a 締切 usually results in loss of rights (free cancellation, special rate), so communicating it with a precise date-time (〇月〇日〇時まで) is critical for guest trust.
+**Explanation:** 締切 conveys a hard, non-negotiable cutoff, which is precisely why it is the stronger choice when the consequences of missing the date are real, such as losing a special rate or free cancellation rights. 期限 is a near-synonym but softer and sometimes implies some room for extension, while 確定 and 変更可能 describe booking states rather than time limits, making neither appropriate here.

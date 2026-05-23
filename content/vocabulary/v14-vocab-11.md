@@ -47,4 +47,4 @@ The most common error is treating 名所 and 観光地 as interchangeable. Every
 
 **Correct Answer:** 名所 (sightseeing spot / landmark)
 
-**Explanation:** 名所 (meisho) means famous place: a well-known location of historical or cultural significance. 観光地 = tourist spot (broader), おすすめ = recommendation, 地図アプリ = map app.
+**Explanation:** 名所 (meisho) is a place with established cultural or historical prestige, somewhere people have recognised and valued across generations, which gives it a weight that the broader 観光地 does not automatically carry. 観光地 covers any tourist-visited location regardless of pedigree, おすすめ is a recommendation rather than a place category, and 地図アプリ is a navigation tool with no bearing on whether a destination is historically significant.

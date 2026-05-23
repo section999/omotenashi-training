@@ -44,4 +44,4 @@ Students often use 観光地 and 名所 as if they mean the same thing, but the 
 
 **Answer:** 観光地
 
-**Explanation:** 観光地 (kankouchi) means tourist spot: a location of interest such as a landmark, park, or cultural site that attracts visitors.
+**Explanation:** 観光地 (kankouchi) describes any place that draws tourists for its scenery, culture, history, or entertainment, and knowing the ones near your property is a core part of hospitality work rather than a bonus. 名所 is a subset of this, carrying the added weight of established cultural or historical prestige, so it is narrower than 観光地 rather than a synonym for it.

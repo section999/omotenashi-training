@@ -41,4 +41,4 @@ Students often mix up 従業員 and 社員, assuming they mean the same thing. T
 
 **Answer:** 従業員
 
-**Explanation:** 従業員 (juugyouin) means employee: a person employed by an organisation to perform assigned duties and follow company policies.
+**Explanation:** 従業員 is the formal, legally precise term for an employed worker, covering both full-time and part-time staff, which is why it appears in contracts, labour documents, and official policies. In direct conversation with guests or colleagues, plain 従業員 sounds stiff and impersonal; reaching for a specific role title or the warmer スタッフ is almost always a better choice in those moments.

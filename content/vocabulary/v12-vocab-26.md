@@ -44,4 +44,4 @@ Staff sometimes confuse 避難場所 (evacuation area: the destination) with 避
 
 **Correct Answer:** 避難場所 (evacuation area)
 
-**Explanation:** 避難場所 (hinan basho) means evacuation area: the designated gathering point during an emergency. 消防車 = fire truck, 警報 = alarm, 医者 = doctor.
+**Explanation:** 避難場所 is the officially designated outdoor gathering point where guests and staff must assemble after leaving the building during an emergency, and every staff member must be able to guide guests there on foot without hesitation. A common confusion to avoid is mixing this up with 避難経路, which is the path to get there, not the destination itself.

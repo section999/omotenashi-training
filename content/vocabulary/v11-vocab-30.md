@@ -45,4 +45,4 @@ The most common error is using 翻訳 and 通訳 as if they mean the same thing.
 
 **Correct Answer:** 翻訳 (translation)
 
-**Explanation:** 翻訳 accuracy is critical: machine translation (翻訳ツール) is useful for quick drafts but should be reviewed before giving to a guest; a mistranslated allergy warning or check-out instruction can have serious consequences; human review is essential for guest-facing 翻訳.
+**Explanation:** 翻訳 refers specifically to converting written text from one language to another, which separates it from 通訳 (spoken interpretation) and from the other options here, which describe guidance and verbal explanation. Machine translation tools can produce a useful first draft, but any 翻訳 that a guest will read, especially allergy information or emergency instructions, must be reviewed by a native speaker before it leaves your hands. Getting this distinction wrong in either direction, offering live interpretation when someone needs a document translated, or the reverse, sends the guest to the wrong resource entirely.

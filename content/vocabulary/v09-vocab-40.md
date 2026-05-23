@@ -47,4 +47,4 @@ A common error is saying 手配します before confirming what the guest actual
 
 **Correct Answer:** 手配 (arrangement)
 
-**Explanation:** 手配いたします (we will arrange it) is the humble commitment phrase for any coordination task: always confirm the details (時間、人数、行き先) before saying 手配いたします so the guest knows you have captured everything correctly.
+**Explanation:** 手配 is the term for actively arranging a service on a guest's behalf, and 手配いたします signals personal ownership of that coordination from start to finish, not just passing a message along. The other options all point in different directions: 予約変更 modifies a booking, 追加料金 is a charge, and 割引 is a price reduction, none of which describes the act of organizing something for a guest.

@@ -47,4 +47,4 @@ The critical mistake is disclosing 手数料 on the receipt rather than before t
 
 **Correct Answer:** 手数料 (handling fee)
 
-**Explanation:** 手数料 must be disclosed before the transaction: saying 手数料が〇〇円かかりますがよろしいでしょうか (a processing fee of〜yen applies, is that acceptable?) gives the guest the chance to choose a fee-free alternative, which builds trust even if it slightly reduces revenue.
+**Explanation:** 手数料 is a processing or handling fee tied to the method of a transaction, not to the service itself, and disclosing it before the guest commits to a payment method is a fundamental hospitality courtesy. 合計 is the final total, 精算 is the settlement process, and 内訳 shows the charge breakdown; none of them name a specific type of fee. Guests who discover a 手数料 on their receipt for the first time tend to feel misled even when the amount is small, so naming it early, with a clear alternative if one exists, turns a potential complaint into a moment of transparency.

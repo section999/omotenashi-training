@@ -44,4 +44,4 @@ Learners sometimes say 担当の人 (the person in charge) in guest-facing speec
 
 **Correct Answer:** 担当者 (person in charge)
 
-**Explanation:** 担当者 is often the most reassuring word for a caller: saying 担当者におつなぎいたします signals that a specialist, not just any staff member, will handle their matter; it raises confidence and reduces the chance of the guest having to repeat the issue.
+**Explanation:** 担当者 refers to the specific, named individual responsible for a particular matter, which carries a stronger personal guarantee than 担当部署 as a team, 受付 as a general reception function, or 留守番電話 as a recording system. Saying 担当者におつなぎいたします reassures the caller that someone with direct knowledge and accountability will handle their concern, and when that person is unavailable the correct move is 担当者はただいま不在でございます followed immediately by an alternative offer.

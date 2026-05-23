@@ -47,4 +47,4 @@ Students often treat マナー as identical to 礼儀 (reigi, courtesy), but 礼
 
 **Correct Answer:** マナー (manners)
 
-**Explanation:** マナー (manaa) means manners: the expected polite behaviour in social situations. 注意事項 = precautions, 習慣 = customs, 文化 = culture.
+**Explanation:** マナー captures the expected social conduct in shared public spaces, a concept central to Japanese hospitality because so much of daily life unfolds in close proximity to others. Unlike 文化, which refers to the broader identity of a society, and 習慣, which describes culturally ingrained behavioural patterns, マナー focuses on whether someone is behaving with appropriate consideration for those around them. 注意事項 is simply the wrong category, referring to safety or facility guidelines rather than social conduct.

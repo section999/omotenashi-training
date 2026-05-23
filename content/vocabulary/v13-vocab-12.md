@@ -41,4 +41,4 @@ Students often treat 研修 and 教育 as synonyms. The key difference is scope 
 
 **Answer:** 研修
 
-**Explanation:** 研修 (kenshuu) means training: structured programmes to improve employee skills, knowledge, and adherence to company standards.
+**Explanation:** 研修 is a bounded, structured programme with a schedule and defined goals, the formal mechanism through which Japanese hotels equip new staff before they ever face a guest. It differs from 教育, which is the broader, ongoing development of an employee across their whole career; 研修 is one component of that larger process, not a synonym for it.

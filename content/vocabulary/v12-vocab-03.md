@@ -47,4 +47,4 @@ A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfr
 
 **Correct Answer:** 地震 (earthquake)
 
-**Explanation:** 地震 (jishin) means earthquake: ground shaking caused by movement of tectonic plates. 火災 = fire, 事故 = accident, 避難 = evacuation.
+**Explanation:** 地震 names the seismic event itself, the ground shaking caused by tectonic movement, which sets it apart from the other options: 火災 is a fire, 事故 is an accident or incident, and 避難 is the response action of moving people to safety. In Japan's omotenashi culture, knowing how to respond to a 地震 calmly and communicate clearly with foreign guests who may have no instinct for earthquake behavior is a real professional skill. After the shaking stops, a systematic building safety check, including elevators, gas lines, and structural points, is standard procedure before resuming normal operations.

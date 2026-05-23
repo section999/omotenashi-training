@@ -44,4 +44,4 @@ Students sometimes mix up 両替所 with 換金所 (kankinsho). The difference i
 
 **Answer:** 両替所
 
-**Explanation:** 両替所 (ryougaejo) means exchange office: a facility where foreign currency is converted into local money.
+**Explanation:** 両替所 (ryougaejo) names the specific facility where guests can convert foreign currency into Japanese yen, and knowing where the nearest one is counts as genuine front-desk knowledge in any hotel that hosts international visitors. 両替 is the act of exchanging currency rather than the place, and ATM names a different kind of facility altogether, so neither fits the question asking for the place itself.

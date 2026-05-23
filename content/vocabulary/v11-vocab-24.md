@@ -45,4 +45,4 @@ Rushing through the 緊急連絡先 request is the most common mistake. When you
 
 **Correct Answer:** 緊急連絡先 (emergency contact)
 
-**Explanation:** 緊急連絡先 should be collected at check-in for all guests: asking ご緊急の場合のご連絡先をお教えいただけますか (may I have your emergency contact?) is standard for safety; in Japan, not having this for a medical emergency can significantly delay response.
+**Explanation:** 緊急連絡先 specifically means the person or number to reach in an emergency, which is what hotels collect at check-in as part of their genuine duty of care to guests. 電話番号 names any phone number without the emergency purpose attached, while 内線 and 外線 describe the type of telephone line rather than contact information at all. Framing the request calmly as a routine check-in step, using ご緊急の場合のご連絡先をお教えいただけますか, ensures guests provide it without alarm.

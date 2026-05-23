@@ -44,4 +44,4 @@ A common error is bringing up 分割払い before the guest has asked about it: 
 
 **Correct Answer:** 分割払い (installment payment)
 
-**Explanation:** 分割払い (installment): when a guest asks about splitting payment, clarify 何回払い (how many installments) and whether 手数料 (processing fee) applies; some hotel plans or card issuers add fees for installments that the guest may not be aware of.
+**Explanation:** 分割払い is the only option that involves dividing a total into multiple scheduled payments, and when a guest chooses it, a good staff member confirms the number of installments and whether a 手数料 applies before processing, since hidden fees are a common source of complaint. 一括払い is the single full payment it contrasts with, while 前払い and 後払い describe when payment happens, not how it is structured.

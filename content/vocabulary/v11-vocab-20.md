@@ -48,4 +48,4 @@ Students often shorten the phrase to お名前は？ or お名前を教えてく
 
 **Correct Answer:** お名前を頂戴できますか (may I have your name?)
 
-**Explanation:** お名前を頂戴できますか is more humble than お名前は何ですか: 頂戴できますか (may I receive) frames the guest's name as a gift being offered rather than information being demanded; this subtle difference reflects the essence of omotenashi in phone communication.
+**Explanation:** お名前を頂戴できますか uses 頂戴 to frame the guest's name as something graciously offered rather than demanded, which is exactly the humility that formal hospitality register requires. The more direct alternatives, お名前は何ですか or simply お名前は？, carry the right meaning but the wrong attitude and feel abrupt on a hotel telephone line. After asking, always repeat the name back clearly to the caller, because this phrase opens a loop that only confirms when you close it.

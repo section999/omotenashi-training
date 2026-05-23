@@ -48,4 +48,4 @@ Students sometimes use 伝票 and 領収書 interchangeably, but they serve comp
 
 **Correct Answer:** 伝票 (bill slip)
 
-**Explanation:** 伝票 is the internal transaction record: in hotel F&B, a 伝票 travels from the table to the kitchen and back; a mistake on the 伝票 (wrong table number, wrong item) causes delays and incorrect billing, making accuracy critical at point of entry.
+**Explanation:** 伝票 is the transaction slip that records orders and service charges as they happen, and it functions as the source document from which guest bills are eventually built. 明細書 is a formal itemized statement issued to a guest, 領収書 is proof of payment, and 請求書 is a corporate invoice; all three are outputs that depend on the 伝票 having been accurate in the first place. A wrong table number or misrecorded item on a 伝票 cascades directly into billing errors, which means accuracy at the moment of entry is not optional.

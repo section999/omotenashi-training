@@ -48,4 +48,4 @@ Students often announce a 超過 charge without explaining its basis, which make
 
 **Correct Answer:** 超過 (excess / overage)
 
-**Explanation:** 超過 applies to weight limits, time limits, and charges: when explaining a 超過料金 (excess charge), always state the limit, the actual amount, and the resulting fee clearly (制限〇〇、実際〇〇、追加〇〇円) so the guest understands the calculation.
+**Explanation:** 超過 means a defined threshold has been crossed, and it generates a 超過料金 that must be explained clearly before a guest can accept it as fair. 不足 is the mirror situation where an amount falls short, 精算 is the overall settlement process, and 合計 is the resulting total; none of them capture the concept of exceeding a limit. Guests who understand the basis for a charge, stated as limit, actual usage, resulting fee, almost always accept it without complaint; guests who see an unexplained number on their bill are far more likely to push back.

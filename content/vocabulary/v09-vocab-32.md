@@ -47,4 +47,4 @@ One key mistake is treating 直前予約 with the same urgency level as a regula
 
 **Correct Answer:** 直前予約 (last-minute reservation)
 
-**Explanation:** 直前予約 (last-minute booking, hours before) vs 当日予約 (same-day booking, could be morning for that evening): the distinction matters for room preparation time; a 直前予約 arriving in 2 hours needs the room ready faster than a 当日予約 made at 8am for a 3pm arrival.
+**Explanation:** 直前予約 applies when a guest books just hours before arrival, carrying an urgency that demands immediate housekeeping coordination because the preparation window is measured in minutes, not hours. 当日予約 is the broader same-day category and may allow more lead time, while 仮予約 is a tentative hold that has nothing to do with imminent arrival, and 延長 refers to extending an existing stay.

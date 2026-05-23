@@ -45,4 +45,4 @@ One of the most common errors is treating 会話 as a speaking skill while forge
 
 **Correct Answer:** 会話 (conversation)
 
-**Explanation:** 会話 quality matters beyond just vocabulary: speaking slowly, pausing to confirm understanding, and avoiding jargon are as important as word choice; a staff member with limited English but excellent 会話 manners will satisfy a guest more than one with vocabulary but poor listening.
+**Explanation:** 会話 captures the two-way, considered nature of a conversation between two people, which is why it fits hospitality contexts better than the one-directional 話します. 伝言 is a message relayed through a third party, 通訳 is professional interpretation between languages, and 案内 is directional guidance, none of which describe the direct, mutual exchange that 会話 means. In practice, a staff member with limited vocabulary but genuine listening presence will satisfy a guest more reliably than one who speaks fluently but never quite attends to what is being said.

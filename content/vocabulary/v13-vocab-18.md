@@ -41,4 +41,4 @@ The most common mistake is confusing 連絡 with 報告. Remember that 連絡 is
 
 **Answer:** 連絡
 
-**Explanation:** 連絡 (renraku) means contact or communication: notifying colleagues or management via phone, email, or in person.
+**Explanation:** 連絡 is the lateral sharing of information that keeps departments aligned in real time, calling housekeeping about an early check-in, alerting the restaurant about a dietary change, and it is the second pillar of ホウレンソウ. 報告 moves information upward to a supervisor in a more formal sense, making the directional difference between the two the key thing to remember.

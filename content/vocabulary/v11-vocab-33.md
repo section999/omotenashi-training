@@ -44,4 +44,4 @@ Using 外国語 as a blanket promise when only certain specific languages are ac
 
 **Correct Answer:** 外国語 (foreign language)
 
-**Explanation:** 外国語 capability is increasingly important: even basic phrases in a guest's language (French, Chinese, Korean) create warmth beyond expectation; a hotel that invests in staff 外国語 training positions itself as globally welcoming rather than just locally proficient.
+**Explanation:** 外国語 is the umbrella term for any language other than Japanese, making it the right answer when the question asks about non-Japanese languages as a category. 日本語対応 names Japanese-language support specifically, 英語対応 narrows to English, and 通訳 names a live interpretation service rather than a language category. Even a few words of greeting in a guest's native language, whether French, Korean, or Chinese, signal genuine effort and leave an impression that goes well beyond what the vocabulary alone conveys.

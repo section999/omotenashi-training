@@ -44,4 +44,4 @@ A common mistake is failing to explain デポジット proactively. Waiting for 
 
 **Correct Answer:** デポジットをお預かりいたします (we will hold your deposit)
 
-**Explanation:** デポジットをお預かりいたします uses the humble verb お預かりいたします, which conveys the sense of safekeeping a guest's funds rather than simply taking them — a meaningful distinction in Japanese hospitality. The other options are either demands without explanation or informal fragments that have no place in a formal check-in interaction.
+**Explanation:** デポジットをお預かりいたします uses the humble verb お預かりいたします, which conveys the sense of safekeeping a guest's funds rather than simply taking them, a meaningful distinction in Japanese hospitality. The other options are either demands without explanation or informal fragments that have no place in a formal check-in interaction.

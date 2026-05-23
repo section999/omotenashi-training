@@ -47,4 +47,4 @@ Students often mix up 配置 with 配属 (haizoku: departmental assignment), and
 
 **Correct Answer:** 配置 (placement)
 
-**Explanation:** 配置 (haichi) means assignment or placement: positioning staff and resources strategically. 担当 = person in charge, 指導 = guidance, 業務 = duties.
+**Explanation:** 配置 is the deliberate act of positioning staff or resources across physical space to ensure every area is covered, the kind of planning that happens before every banquet or VIP arrival and is communicated through a 配置図. The wrong options all describe roles or relationships: 担当 names the assigned person, 指導 is mentoring, and 業務 refers to duties, none of which captures the spatial and operational planning that 配置 expresses.

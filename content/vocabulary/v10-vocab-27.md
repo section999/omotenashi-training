@@ -45,4 +45,4 @@ Students often confuse 両替 with 為替 (kawase), but 為替 refers to the exc
 
 **Correct Answer:** 両替 (currency exchange)
 
-**Explanation:** 両替 is a premium service guests appreciate: when handling 両替, count the notes aloud in front of the guest (〇〇ドル、〇〇ドル…合計〇〇ドルでございます) to confirm accuracy and show transparency.
+**Explanation:** 両替 is the act of exchanging one currency for another, or breaking large bills into smaller denominations, and handling it well is often one of the first impressions an international guest receives. 為替 is the exchange rate applied during that transaction, 外貨 is the foreign currency being exchanged, and 残高 is an account balance; none of these describe the service act itself. Counting the notes aloud in front of the guest and presenting them neatly on a tray brings the same attentiveness to a currency exchange that you would bring to any other guest interaction.

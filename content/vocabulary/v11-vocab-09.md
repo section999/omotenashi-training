@@ -47,4 +47,4 @@ Students often state 不在 and stop there, which forces the caller to ask what 
 
 **Correct Answer:** 不在 (absent)
 
-**Explanation:** 不在 always requires a follow-up offer: ただいま不在でございます alone is insufficient; follow with ご伝言をお預かりいたしましょうか (may I take a message?) or 折り返しご連絡いたします (we will call you back) so the caller knows what happens next.
+**Explanation:** 不在 tells a caller that the person they need is not currently available, distinguishing it from 折り返し as the action taken in response, 保留 as an in-call waiting state, and 転送 as a live call redirection. Stating 不在 and stopping there leaves the caller stranded, so the trained reflex is to attach an alternative immediately: ご伝言をお預かりいたしましょうか or 折り返しご連絡いたします should follow before the guest even has to ask.

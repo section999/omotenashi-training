@@ -44,4 +44,4 @@ Students sometimes confuse 注意事項 with 規則 (kisoku, rules or regulation
 
 **Answer:** 注意事項
 
-**Explanation:** 注意事項 (chuui jikou) means precautions: safety guidelines and warnings that tourists must follow to avoid accidents or fines.
+**Explanation:** 注意事項 specifically refers to matters requiring attention, covering safety guidelines, facility rules, and important notices that guests must understand before using a space or service. In hospitality, framing 注意事項 as care for the guest's wellbeing rather than a list of restrictions makes the message land far better. 規則 covers formally established institutional rules, while 文化 and 習慣 address cultural identity and habitual behaviour, neither of which fits the safety-and-compliance context.

@@ -48,4 +48,4 @@ Students often use 切断 and 接続不良 as if they are the same word, but the
 
 **Correct Answer:** 接続不良 (poor connection)
 
-**Explanation:** 接続不良 vs 切断: 接続不良 is intermittent (断続的に途切れる) while 切断 is a complete break; when reporting to maintenance, specifying which helps them diagnose faster and reduces the guest's total time without a working line.
+**Explanation:** 接続不良 describes a call that keeps cutting out or degrading without fully dropping, which makes it distinct from 切断 as a complete break, 保留 as a deliberate pause, and 転送 as an intentional redirection. When reporting to maintenance, specifying 接続不良 rather than the vague 電話が悪い helps them target the right diagnostic, and when speaking with the guest, always follow the acknowledgment with a concrete alternative such as 別の回線をご用意いたします.

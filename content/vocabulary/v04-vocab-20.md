@@ -45,4 +45,4 @@ Students sometimes use 確認 and 点検 as if they mean the same thing, but 点
 
 **Correct Answer:** 点検 (inspection)
 
-**Explanation:** 点検 means a systematic, scheduled inspection of equipment or facilities, and it pairs naturally with 定期的に (regularly) and 設備 (facilities) in this safety-context sentence. 修理 is what happens after a problem is found, 破損 names physical damage, and 補充 is about restocking supplies — none of them describe the proactive checking process that 点検 refers to.
+**Explanation:** 点検 means a systematic, scheduled inspection of equipment or facilities, and it pairs naturally with 定期的に (regularly) and 設備 (facilities) in this safety-context sentence. 修理 is what happens after a problem is found, 破損 names physical damage, and 補充 is about restocking supplies, none of them describe the proactive checking process that 点検 refers to.

@@ -47,4 +47,4 @@ The biggest mistake is quoting a rate from memory. Exchange rates can move signi
 
 **Correct Answer:** 為替 (exchange rate)
 
-**Explanation:** 為替レートは毎日変わります (exchange rates change daily): always use the official rate of the day and never quote a rate from memory; an incorrect rate, even if given in good faith, can result in the hotel absorbing losses or the guest being overcharged.
+**Explanation:** 為替 is the conversion mechanism that determines how much Japanese yen a unit of foreign currency is worth on any given day, and it must be checked against the official rate before it is quoted to a guest. 外貨 is the currency being converted, 両替 is the physical act of exchanging it, and 残高 is an account balance; the rate itself is what 為替 refers to. Quoting a figure from memory, even in good faith, exposes the hotel to either absorbing a loss or overcharging a guest, both of which are easily avoided by checking the posted daily rate every time.

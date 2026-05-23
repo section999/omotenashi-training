@@ -47,4 +47,4 @@ Students often stop at わかりました and leave it there, which makes the re
 
 **Correct Answer:** わかりました (understood / I see)
 
-**Explanation:** わかりました is appropriate for most hotel interactions: while かしこまりました is the most formal, わかりました paired with a follow-up action (すぐに対応いたします) shows both comprehension and initiative, which guests find reassuring.
+**Explanation:** わかりました is the right polite acknowledgment for most hotel interactions, sitting comfortably between the overly casual わかった and the high-formality かしこまりました that luxury settings call for when a guest gives a direct instruction. 理解しました has a slightly more deliberate, analytical feel that is appropriate after a complex explanation, while 確認します and 少々お待ちください are service actions rather than acknowledgments of understanding. Pairing わかりました with an action statement, すぐに対応いたします or すぐにお持ちいたします, turns a passive response into a commitment the guest can actually rely on.

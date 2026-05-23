@@ -44,4 +44,4 @@ Delaying a report is one of the most common errors students make with 事故. Ev
 
 **Answer:** 事故
 
-**Explanation:** 事故 (jiko) means accident: an unplanned event causing injury, damage, or disruption that must be reported promptly.
+**Explanation:** 事故 covers any unplanned harmful event, from a guest slip to a kitchen injury, and every one of them must be reported and documented regardless of apparent severity. Students sometimes reach for 事件, which implies a criminal act rather than an accident, so keeping that distinction sharp prevents serious miscommunication in reports and guest conversations.

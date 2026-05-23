@@ -47,4 +47,4 @@ One critical mistake with 団体予約 is failing to assign a dedicated internal
 
 **Correct Answer:** 団体予約 (group reservation)
 
-**Explanation:** 団体予約 requires a dedicated coordinator: assigning one staff contact for the entire group (グループ担当者) and creating a group manifest (名簿) streamlines check-in and prevents individual guests from overwhelming the front desk simultaneously.
+**Explanation:** 団体予約 is the term for group bookings requiring coordinated rooms, and handling them well depends on assigning a dedicated グループ担当者 and preparing a 名簿 before the group arrives, so check-in flows efficiently rather than turning chaotic. 個人予約 is for individuals, 連泊 describes duration rather than group size, and 当日予約 refers to same-day booking timing, not the scale of the reservation.

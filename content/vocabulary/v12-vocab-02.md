@@ -44,4 +44,4 @@ Students sometimes use the casual 火事 in formal announcements, which sounds o
 
 **Answer:** 火災
 
-**Explanation:** 火災 (kasai) means fire: an outbreak of flames causing property damage or injury requiring immediate response.
+**Explanation:** 火災 is the formal, official term for a fire outbreak and belongs in PA announcements, incident reports, and emergency signage where the gravity of the word itself matters. The casual 火事 may be what someone shouts in alarm, but it lacks the authority needed in a formal public address to a building full of guests. In any announcement involving 火災, pair the word with specific location information and a clear action directive, because naming the emergency without telling people what to do next turns information into panic rather than order.

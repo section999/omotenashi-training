@@ -47,4 +47,4 @@ The most common mistake with 予約変更 is accepting a vague request without c
 
 **Correct Answer:** 予約変更 (reservation change)
 
-**Explanation:** 予約変更 is a general umbrella term: when a guest requests it, clarify which element they want to change (日付、部屋タイプ、人数) to pull up the right section of the system; a vague 変更 without scope leads to miscommunication and errors.
+**Explanation:** 予約変更 is the umbrella term for modifying a booking, and because it covers dates, room type, guest count, and meal plan all at once, the first thing to do when a guest requests it is ask a clarifying question before touching the system. 延長 and 短縮 address only duration, while 予約日 is a piece of booking data rather than an action, making none of them appropriate for a general modification request.

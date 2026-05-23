@@ -44,4 +44,4 @@ Students sometimes reach for 保存 (hozon) when they mean 保管. 保存 is the
 
 **Answer:** 保管
 
-**Explanation:** 保管 (hokan) means storage: safely keeping items such as luggage or valuables for a defined period.
+**Explanation:** 保管 conveys active stewardship rather than simply putting something in a room, because accepting an item for 保管 means taking on the responsibility to return it in exactly the condition it was received. In guest-facing speech, 保管させていただきます or お預かりいたします is the appropriate register; plain 保管します sounds too casual for direct service communication. 保存 is a different word used for preserving food or saving digital files, not for storing guest luggage or valuables.

@@ -45,5 +45,5 @@ Students often confirm 有効 after only glancing at the expiry date, forgetting
 
 **Correct Answer:** 有効 (valid)
 
-**Explanation:** 有効 confirmation gives guests confidence: always check both the 有効期限 (expiry date) and the applicable conditions (利用条件) before confirming 有効でございます; a voucher valid for a different service or a past expiry date is not 有効 even if it looks legitimate.
+**Explanation:** 有効 confirms that a coupon, voucher, or reservation is current and meets all applicable conditions, which is the opposite of 無効 and entirely different from confirmation numbers or handwritten signatures. Before saying 有効でございます, check both the 有効期限 and the service conditions, since a coupon within its date range but restricted to a different service type is still not 有効 for the current transaction.
 

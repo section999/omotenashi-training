@@ -47,4 +47,4 @@ A common confusion is between 税関 (the customs authority as an institution) a
 
 **Correct Answer:** 税関 (customs)
 
-**Explanation:** 税関 (zeikan) means customs: the government body that inspects goods and controls what enters or leaves a country. 両替所 = exchange office, 入国 = entry, 出国 = departure.
+**Explanation:** 税関 (zeikan) is the government authority that inspects goods crossing Japan's borders and collects applicable duties, a process that is separate from immigration and handled at a different counter entirely. 両替所 handles currency exchange rather than goods inspection, while 入国 and 出国 describe the traveller's movement across the border rather than the authority that checks their belongings.

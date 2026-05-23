@@ -44,5 +44,5 @@ A frequent error is giving incomplete ルームサービス information: mention
 
 **Correct Answer:** ルームサービスは24時間対応でございます (room service is available 24 hours)
 
-**Explanation:** ルームサービスは24時間対応でございます gives a guest the complete picture — what the service is, and when it is available — using ございます to match the formal register of hotel speech. The other options either deny service outright, give no useful information, or omit the polite form entirely, none of which reflects the attentive hospitality a guest expects.
+**Explanation:** ルームサービスは24時間対応でございます gives a guest the complete picture, what the service is, and when it is available, using ございます to match the formal register of hotel speech. The other options either deny service outright, give no useful information, or omit the polite form entirely, none of which reflects the attentive hospitality a guest expects.
 

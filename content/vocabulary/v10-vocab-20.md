@@ -47,4 +47,4 @@ The most common mistake is using お金が足りません, which is technically 
 
 **Correct Answer:** 不足 (shortage / insufficient)
 
-**Explanation:** 不足: when informing a guest of a payment shortage, phrase it carefully: 〇〇円ご不足です (you are〜yen short) rather than お金が足りません; the formal phrasing is gentler and prevents embarrassment, especially in a public area.
+**Explanation:** 不足 means the amount provided falls short of what is required, and how you name that gap in front of a guest matters enormously. 超過 is the opposite situation, where a limit has been exceeded; 精算 is the settlement process; and 合計 is the amount owed; none of them describe a shortfall in what was offered. Reaching for 〇〇円ご不足でございます rather than the blunt お金が足りません keeps the tone matter-of-fact rather than accusatory, and immediately pairing it with an alternative payment option shows the guest a path forward rather than just a problem.

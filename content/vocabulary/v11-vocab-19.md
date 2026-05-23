@@ -47,4 +47,4 @@ The most critical mistake is saying 確認いたします and then failing to fo
 
 **Correct Answer:** 確認いたします (I will confirm)
 
-**Explanation:** 確認いたします is a promise to act: always follow through; if the verification takes time, return to the caller with an update (確認に少々時間をいただいております) rather than leaving them waiting in silence, which erodes trust.
+**Explanation:** 確認いたします carries real weight in hospitality because it is a spoken promise to act, not just an acknowledgment. The humble いたします form signals that you are placing yourself in service to the guest, which is why the plain 確認します sounds noticeably thin by comparison. When verification takes time, returning to the caller with 確認に少々時間をいただいております keeps trust intact; disappearing without an update after saying this phrase is one of the most avoidable service failures in hotel telephone work.

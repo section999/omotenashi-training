@@ -45,4 +45,4 @@ Students often forget to confirm 一括払い before processing a card, so the t
 
 **Correct Answer:** 一括払い (lump sum payment)
 
-**Explanation:** 一括払い (lump-sum payment) is the default in most hotel transactions: confirming ご一括でよろしいでしょうか (shall I process this as a single payment?) before swiping prevents the need to void and reprocess if the guest preferred installments.
+**Explanation:** 一括払い is the standard assumption for hotel transactions and means paying the entire amount in one transaction, which is why confirming ご一括でよろしいでしょうか before running the card saves everyone the trouble of a void and reprocess. 分割払い splits the total into multiple payments, 前払い refers to timing rather than structure, and 後払い defers payment entirely, all of which describe different arrangements than paying in full at once.

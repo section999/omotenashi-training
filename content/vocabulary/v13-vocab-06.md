@@ -44,4 +44,4 @@ The most common error is treating 勤務 and シフト as synonyms. シフト is
 
 **Answer:** 勤務
 
-**Explanation:** 勤務 (kinmu) means duty or work: the period of performing assigned responsibilities according to company standards.
+**Explanation:** 勤務 describes the formal act and period of performing professional duties, with the sense of diligence and responsibility built right into its kanji. シフト names the time slot on the rota, but 勤務 is about what you are actually doing and how you are doing it, the committed, professional service that defines the working period from a legal and conduct standpoint.

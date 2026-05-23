@@ -47,4 +47,4 @@ Students often reach for 開店時間 (kaiten jikan, shop opening time) or just 
 
 **Correct Answer:** 利用時間 (usage hours)
 
-**Explanation:** 利用時間 (riyou jikan) means usage hours: the designated time period during which a service such as laundry or lockers is available. 延長料金 = extension fee, 荷物 = luggage, 管理番号 = tracking number.
+**Explanation:** 利用時間 names the designated window during which a facility or self-service area is open for guest use, and communicating it proactively rather than waiting to be asked is a small but real act of omotenashi that prevents guests from walking up to a locked gym or laundry room. 営業時間 is the related term for staffed commercial hours like a restaurant or shop, while 受付時間 specifies when a counter is taking requests, which is often a shorter window than the facility's overall 利用時間. 延長料金 is what applies when someone exceeds that window, making it a consequence of 利用時間 rather than a definition of it.

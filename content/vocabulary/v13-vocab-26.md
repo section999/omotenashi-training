@@ -44,4 +44,4 @@ Students sometimes swap 手順 with 方法 (houhou: method/way) or やり方 (ya
 
 **Answer:** 手順
 
-**Explanation:** 手順 (tejun) means procedure: a sequential set of steps to complete a task efficiently and safely.
+**Explanation:** 手順 is an ordered sequence of steps that must be followed in a specific way to produce a consistent, reliable result, the kind of numbered procedure you find in a hotel's operational manual or safety guidelines. Unlike 方法 or やり方, which simply describe a way of doing something, 手順 implies a defined sequence where the order itself matters, which is why it is the term used in training materials and compliance documentation.

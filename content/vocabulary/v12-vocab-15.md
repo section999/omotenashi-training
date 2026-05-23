@@ -44,4 +44,4 @@ Students often think of 応急処置 as just bandaging, but the term covers all 
 
 **Answer:** 応急処置
 
-**Explanation:** 応急処置 (oukyuu shochi) means first aid: temporary immediate care to stabilise a patient before professional treatment.
+**Explanation:** 応急処置 is the immediate, temporary care you give to stabilise an injured or ill person before professional help arrives, and it is explicitly a bridge rather than a replacement for medical treatment. Students sometimes confuse it with 救急 (emergency services), but the two are distinct: 応急処置 is what you do on site right now, while 救急 is the professional system you call in parallel.

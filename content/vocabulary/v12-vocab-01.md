@@ -44,4 +44,4 @@ Learners sometimes use 急いで or 大変 interchangeably with 緊急, but thes
 
 **Correct Answer:** 緊急 (emergency)
 
-**Explanation:** 緊急 (kinkyuu) means emergency: a situation requiring immediate action. 安全 = safety, 注意 = caution, 危険 = danger.
+**Explanation:** 緊急 describes a situation demanding immediate action because lives, safety, or critical operations are at risk, which is precisely what a hotel kitchen fire represents. 注意 signals a need for care or alertness, 危険 labels a hazard or dangerous condition, and 安全 names the state of safety you are trying to reach, so none of them convey the urgent call-to-action that 緊急 carries. In hospitality, using 緊急 correctly, and only when the situation truly warrants it, ensures staff and guests take it seriously when it matters most.

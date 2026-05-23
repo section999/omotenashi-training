@@ -44,4 +44,4 @@ Saying 対応中です with nothing else is the most common stumble. It gives th
 
 **Correct Answer:** 対応中 (responding / handling)
 
-**Explanation:** 対応中 gives guests peace of mind: ただいま対応中でございます (currently being handled) with an estimated timeframe (あと〇分ほどでご連絡いたします) is far more reassuring than just 対応中です; combining status with a timeline is the professional standard.
+**Explanation:** 対応中 tells the guest that work is actively underway on their request right now, which is what distinguishes it from 保留 (the waiting state on a phone line) or the passive fact of being absent. Saying ただいま対応中でございます works well, but pairing it with a time estimate, あと〇分ほどでご連絡いたします, transforms a status report into a commitment and gives the guest something to hold onto. Guests who know how long to wait are patient; guests left with only 対応中 and no timeline start to wonder.

@@ -47,4 +47,4 @@ Students often confuse 宅配便 with 配達 (haitatsu), which simply means "del
 
 **Correct Answer:** 宅配便 (courier / home delivery)
 
-**Explanation:** 宅配便 (takkyuubin) means courier service: a door-to-door package delivery system widely used in Japan. 配達 = delivery, 発送 = shipping, 荷物 = luggage.
+**Explanation:** 宅配便 refers specifically to Japan's commercial door-to-door courier network, and knowing how it works is genuinely useful for hospitality staff because guests regularly use it to forward luggage or ship souvenirs home. Its hallmark is the precise delivery window, sometimes as narrow as two hours, which sets it apart from general postal mail and makes it highly trusted. 配達 describes the delivery action generically, 発送 is the act of sending items outward, and 荷物 names the physical bags or parcels themselves.

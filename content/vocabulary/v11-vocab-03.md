@@ -44,4 +44,4 @@ One more thing that trips students up: telling a guest to press 0 for an outside
 
 **Correct Answer:** 外線 (outside / external line)
 
-**Explanation:** 外線 requires pressing 0 (or another prefix) first: always guide guests clearly: 外線をおかけになる場合は、まず0をお押しください (to make an outside call, please press 0 first); skipping this step is one of the most common guest frustrations with hotel phones.
+**Explanation:** 外線 is the line that connects to numbers outside the hotel, which is what a guest needs when calling a taxi, an airline, or anyone off-property, setting it apart from 内線 for in-house communication, plain 電話 as a general term, and 回線 as the underlying infrastructure. Always tell guests to press 0 first and then wait for a second dial tone before dialing out, since skipping either step is the most common reason guests cannot connect, and be upfront that 外線 calls are billed to the room.

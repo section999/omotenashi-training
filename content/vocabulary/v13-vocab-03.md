@@ -47,4 +47,4 @@ Students sometimes use 上司 when talking directly to their manager, which soun
 
 **Correct Answer:** 上司 (supervisor / manager)
 
-**Explanation:** 上司 (joushi) means boss or supervisor: the person who oversees and guides employee performance. 同僚 = colleague, スタッフ = staff, 従業員 = employee.
+**Explanation:** 上司 captures the person in the organisational hierarchy who oversees your performance, gives instructions, and approves key decisions, a relationship at the heart of omotenashi communication through the ホウレンソウ triad. The wrong options all describe people without that authority: 同僚 is a peer, スタッフ refers to the team broadly, and 従業員 simply means employee without any supervisory implication.

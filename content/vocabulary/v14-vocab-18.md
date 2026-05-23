@@ -44,4 +44,4 @@ Learners often use 電車 and 列車 (ressha) interchangeably, but 列車 is mor
 
 **Answer:** 電車
 
-**Explanation:** 電車 (densha) means train: rail-based public transport that is punctual, efficient, and widely used across Japan.
+**Explanation:** 電車 (densha) is the everyday spoken word for Japan's electrically powered rail network, the fastest and most cost-effective way for guests to reach attractions, airports, and business districts in most cities. 地下鉄 is a subset of 電車 running underground, and 新幹線 is always called by name rather than grouped under 電車 in natural speech, so while related, neither is the general answer being asked for here.

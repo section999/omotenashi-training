@@ -44,4 +44,4 @@ A critical mistake is using the elevators during 避難: staff must be trained t
 
 **Correct Answer:** 避難 (evacuation)
 
-**Explanation:** 避難 (hinan) means evacuation: moving people to safety. 消火器 = fire extinguisher, 応急処置 = first aid, 警告 = warning.
+**Explanation:** 避難 names the act of moving people away from danger to a safe location, which is exactly what you are doing when you guide guests out of a burning building. 消火器 is a piece of equipment used to fight a contained fire, 応急処置 is medical first aid, and 警告 is a warning signal, all distinct stages or tools in emergency response that do not describe the evacuation action itself. In Japanese hospitality, conducting a complete 避難 means accounting for every guest, including those with mobility needs, and confirming everyone has reached the 避難場所 before standing down.

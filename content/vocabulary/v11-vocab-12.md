@@ -48,4 +48,4 @@ In practice, using メッセージ where 伝言 is expected in a formal phone sc
 
 **Correct Answer:** メッセージ (message)
 
-**Explanation:** メッセージ is broader than 伝言: it includes digital forms (LINE, email, SMS) while 伝言 is typically verbal or handwritten; in modern hotel service, asking ご希望の連絡方法はございますか (do you have a preferred contact method?) allows guests to choose the channel most convenient for them.
+**Explanation:** メッセージ covers recorded text or voice communication across any medium, from a handwritten desk note to a hotel app notification or SMS, which is broader than 伝言 as a personal verbal relay, 留守番電話 as one specific recording system, and 案内 as directional or informational content. In modern hotel service, when the channel is not obvious, asking ご希望の連絡方法はございますか lets the guest choose what works best for them rather than having staff assume.

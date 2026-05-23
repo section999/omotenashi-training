@@ -48,4 +48,4 @@ Worth noting: the most common error is using 残高 without specifying which dir
 
 **Correct Answer:** 残高 (balance)
 
-**Explanation:** 残高 matters for prepaid accounts and loyalty points: if a guest's prepaid balance is insufficient (残高不足), inform them before the service is rendered rather than after, so they can top up or choose an alternative payment method without delay.
+**Explanation:** 残高 is the remaining amount in an account, whether that means funds still available to spend or an outstanding balance still owed, and context always determines which direction it points. 合計 is the full amount charged, 不足 describes a shortfall in that balance, and 超過 describes an overage; none of them refer to a standing account figure. Flagging a low 残高 proactively, before the guest reaches checkout with insufficient funds, is exactly the kind of quiet attentiveness that prevents awkward moments and reflects genuine care for the guest's experience.

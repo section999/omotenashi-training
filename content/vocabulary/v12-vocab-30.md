@@ -44,4 +44,4 @@ A critical mistake is delivering 落ち着いてください in a rushed, anxiou
 
 **Correct Answer:** 落ち着いてください (please calm down)
 
-**Explanation:** 落ち着いてください (ochitsuite kudasai) means please stay calm: an essential phrase to reduce panic during emergencies. 注意 = caution, 危険 = danger, 応急処置 = first aid.
+**Explanation:** 落ち着いてください is a direct, polite request to compose oneself, and it works because a calm staff member delivering it with a steady voice actually models the behaviour they are asking for, giving a frightened guest something human to anchor to. 注意 and 危険 are hazard-level labels that heighten awareness of risk rather than reducing panic, while 応急処置 is a physical first-aid action, not a verbal calming tool.

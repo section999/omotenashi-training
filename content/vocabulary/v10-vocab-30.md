@@ -47,4 +47,4 @@ Presenting サービス料 and 消費税 as a single combined charge is a freque
 
 **Correct Answer:** サービス料 (service charge)
 
-**Explanation:** サービス料 is standard in Japanese hotels and fine dining: informing guests upfront (料金にはサービス料10%が含まれております) prevents the question at checkout; many international guests are unfamiliar with this charge and appreciate being told in advance.
+**Explanation:** サービス料 is a fixed percentage added to bills in place of individual tipping, and it reflects the Japanese hospitality principle that excellent service is a professional standard built into the experience. 手数料 is a processing fee tied to payment method, not service quality; 合計 is the total amount after all charges; and 内訳 shows how that total was reached. Disclosing サービス料 before the bill arrives, rather than letting it appear as a surprise, shows the same transparency guests trust throughout the rest of their stay.

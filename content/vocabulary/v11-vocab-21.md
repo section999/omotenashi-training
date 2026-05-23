@@ -47,4 +47,4 @@ A frequent error is using ご用件は何ですか instead of ご用件をお伺
 
 **Correct Answer:** ご用件 (your inquiry / business)
 
-**Explanation:** ご用件をお伺いします is the standard opening after greeting: asking ご用件 early prevents routing errors; a caller who waits to explain at length only to be transferred to the wrong department will be frustrated, so gathering ご用件 first is essential.
+**Explanation:** ご用件 names the purpose or matter that brought the guest to you, and knowing it before taking any action is how you route calls correctly the first time. お伺いします uses the humble verb form that genuinely belongs in guest-facing communication, which the more blunt ご用件は何ですか simply lacks. The other options in this set name things, such as a person's name or a technical component, rather than describing the reason for contact.

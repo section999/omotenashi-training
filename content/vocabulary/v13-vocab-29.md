@@ -44,4 +44,4 @@ Learners sometimes assume 改善 is synonymous with 修理 (shuuri, repair) or �
 
 **Correct Answer:** 改善 (improvement)
 
-**Explanation:** 改善 (kaizen) means improvement: the continuous process of refining work methods and processes. 効率 = efficiency, 評価 = evaluation, 指導 = guidance.
+**Explanation:** 改善 is the philosophy and practice of continuous, incremental improvement, staff at every level noticing what could be better and proposing small changes that compound over time into significantly higher service quality. 効率 is one measure that 改善 often raises, but 改善 itself is the process rather than the measurement; 評価 is assessment after the fact; and 指導 is mentorship rather than systematic refinement of processes.

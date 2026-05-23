@@ -47,4 +47,4 @@ Students sometimes confuse 短縮 with a full キャンセル (cancellation), bu
 
 **Correct Answer:** 短縮 (shortening / abbreviation)
 
-**Explanation:** 短縮 may trigger a cancellation fee for the removed night: always check the plan's conditions before confirming 短縮; some plans charge for unused nights while others allow adjustment; informing the guest before processing is essential.
+**Explanation:** 短縮 specifically refers to cutting a stay short, and the key professional step is checking the plan's conditions before saying anything about cost, since some plans charge for the removed nights while others do not. The other options either extend the stay (延長), wipe the entire reservation (無料キャンセル), or refer to a broader modification category (予約変更) that does not capture the specific action of leaving earlier.

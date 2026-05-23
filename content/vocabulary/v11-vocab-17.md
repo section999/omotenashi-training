@@ -47,4 +47,4 @@ The biggest mistake is waiting for the guest to call back rather than proactivel
 
 **Correct Answer:** 切断 (disconnection)
 
-**Explanation:** 切断 requires proactive recovery: if a call is 切断 mid-conversation, call the guest back immediately; beginning with 先ほどは途中で切れてしまい、申し訳ございませんでした (I apologize for the disconnection earlier) acknowledges the issue before continuing.
+**Explanation:** 切断 means the call has been completely and abruptly severed, setting it apart from 保留 as a deliberate hold, 転送 as a live redirection, and 接続不良 as intermittent degradation where the call remains at least partially active. When a 切断 occurs mid-conversation, the hotel calls back first without waiting for the guest to re-dial, and opening with 先ほどは途中で切れてしまい、申し訳ございませんでした acknowledges the disruption before moving on to the original topic.

@@ -41,4 +41,4 @@ Learners sometimes confuse 指導 with 教育 (kyouiku: education/training), but
 
 **Answer:** 指導
 
-**Explanation:** 指導 (shidou) means instruction or guidance: supervising employees, correcting mistakes, and teaching procedures to improve performance.
+**Explanation:** 指導 is hands-on, person-to-person guidance, a senior walking a newer colleague through real tasks, correcting errors, and nurturing professional growth in the spirit of 育てる. Where 教育 sets the broader developmental framework, 指導 is what happens in the moment on the floor, making it the word that most precisely describes active mentorship in a hospitality setting.

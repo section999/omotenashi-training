@@ -48,4 +48,4 @@ Saying ゆっくり話してください in a flat tone without any softening be
 
 **Correct Answer:** ゆっくり話してください (please speak slowly)
 
-**Explanation:** ゆっくり話してください can also be requested by international guests: when a guest says this, honor it completely: slow down, pause between key phrases, and avoid contracting polite forms; a guest who has to ask twice to be spoken to slowly will feel frustrated.
+**Explanation:** ゆっくり話してください addresses pace, asking the speaker to slow down so that words can be clearly captured, which makes it the right choice when speed is the barrier rather than audibility or comprehension. もう一度お願いします asks for repetition, 聞き取れません names a hearing difficulty, and 少々お待ちください requests a pause, none of which ask a speaker to adjust their rate of speech. When a guest directs this phrase at you, slow down and simplify your vocabulary at the same time, since reducing speed alone without easing the language level helps less than most people expect.

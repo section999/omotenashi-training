@@ -48,4 +48,4 @@ Processing the 取消 in the system before explaining the キャンセルポリ�
 
 **Correct Answer:** 取消 (cancellation)
 
-**Explanation:** 取消 triggers a chain of actions: confirming the 取消 activates the キャンセルポリシー, calculates any 返金 or キャンセル料, and frees the room in the system; doing steps out of order can result in double bookings or incorrect billing.
+**Explanation:** 取消 is the formal cancellation of a confirmed reservation or transaction, and it sets off a chain of procedural steps that must happen in the right order. 返金 may follow a 取消 but is a separate action; 変更 modifies rather than cancels; and 精算 settles charges at checkout, not at cancellation. Processing the 取消 in the system before explaining the キャンセルポリシー to the guest is the most common and costly mistake, because a cancellation fee that has already been applied is far harder to reverse than one that was explained and acknowledged first.

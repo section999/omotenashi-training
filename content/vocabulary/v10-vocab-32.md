@@ -47,4 +47,4 @@ Confusing クーポン with バウチャー is a common slip. A クーポン is 
 
 **Correct Answer:** クーポン (coupon)
 
-**Explanation:** クーポン validation is a two-step process: confirm the クーポン is still 有効 (valid) and that the guest's purchase qualifies before applying the discount; applying an invalid or inapplicable クーポン creates accounting errors that are time-consuming to reverse.
+**Explanation:** クーポン is specifically a discount instrument, which sets it apart from the other options that cover prepaid value, imposed fees, or handling charges. Before applying one, always verify both the 有効期限 and the applicable service conditions, since a クーポン within its date range can still be declined if the purchase doesn't qualify, and unwinding a mistaken application takes far longer than a 30-second check.

@@ -47,4 +47,4 @@ Students often deliver 満席状況 as a conversation-ending statement and then 
 
 **Correct Answer:** 満席状況 (seating availability)
 
-**Explanation:** 満席状況: when telling a guest the hotel is full, always add a next step: 他の日程でしたら空きがございます (we have availability on other dates) or おすすめの近隣ホテルをご案内できます (I can suggest nearby hotels); a dead-end "no" is never omotenashi.
+**Explanation:** 満席状況 describes the condition of having no availability, and in Japanese hospitality this news should always be delivered with an apology phrase and an immediate alternative, because a bare "no" with nothing offered next goes against omotenashi entirely. The wrong options here are either the opposite concept (空き状況), or date-related terms (予約日, 宿泊日) that do not speak to whether rooms are available at all.

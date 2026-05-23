@@ -45,4 +45,4 @@ A frequent error is allowing a guest to use 後払い without any verification o
 
 **Correct Answer:** 後払い (deferred payment / pay later)
 
-**Explanation:** 後払い is common for room charges billed at check-out: when a corporate guest uses 後払い, ensure a signed 請求書 or purchase order is on file before service; verbal 後払い agreements without documentation are a leading cause of payment disputes.
+**Explanation:** 後払い extends trust to the guest by deferring payment to checkout or a later invoice, and that trust must be backed by documentation before any service is rendered. Wrong options here confuse the timing of payment: 前払い comes before service, 一括払い and 分割払い describe how a debt is settled in full or in parts, not when. A 後払い arrangement without a signed agreement on file is a courtesy extended in name only, and it tends to end in disputes.

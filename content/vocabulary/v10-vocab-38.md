@@ -44,5 +44,5 @@ The most common error is declaring something 無効 without first attempting to 
 
 **Correct Answer:** 無効 (invalid)
 
-**Explanation:** 無効 notification requires sensitivity: when a guest's card or coupon is 無効, say 確認させていただきます (let me verify) before declaring it invalid; sometimes the issue is a technical error rather than a truly invalid item, and jumping to 無効 prematurely embarrasses the guest unnecessarily.
+**Explanation:** 無効 means the item cannot be accepted because it has expired, been cancelled, or falls outside its conditions, which makes it the direct negative counterpart to 有効 and unrelated to confirmation numbers or system approvals. Because the term carries an air of finality, always say 確認させていただきます first before declaring something 無効, since what looks invalid may simply be a chip-reading error, and a premature declaration embarrasses the guest unnecessarily.
 

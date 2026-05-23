@@ -47,4 +47,4 @@ One mistake that comes up often is using 作業 when speaking directly to guests
 
 **Correct Answer:** 作業 (work / task)
 
-**Explanation:** 作業 (sagyou) means task or work: a specific piece of work. 業務 = all assigned duties (broader), 勤務 = working duty/period, 指導 = guidance.
+**Explanation:** 作業 names a single, concrete piece of work, something assignable, trackable on a checklist, and clearly completable, as distinct from the broader set of responsibilities that 業務 describes. 業務 is the whole job function; 勤務 is the working period during which duties are performed; and 指導 refers to guidance rather than any kind of work task.

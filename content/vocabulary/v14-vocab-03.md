@@ -47,4 +47,4 @@ Students sometimes blur the line between パスポート確認 and ビザ確認 
 
 **Correct Answer:** パスポート確認 (passport check)
 
-**Explanation:** パスポート確認 (pasupoto kakunin) means passport check: verifying identity documents at borders, hotels, or airports. ビザ = visa, 入国 = entry, 税関 = customs.
+**Explanation:** パスポート確認 (pasupoto kakunin) is the specific act of verifying a guest's passport at check-in, a legal requirement for all foreign nationals at Japanese hotels that cannot be skipped or substituted. ビザ refers to the entry permission endorsed in a passport rather than the verification act itself, 入国 is the broader process of crossing into Japan, and 税関 is a separate authority dealing with goods rather than identity.

@@ -47,4 +47,4 @@ Students often use 会議 and 打ち合わせ as if they mean the same thing, bu
 
 **Correct Answer:** 会議 (meeting / conference)
 
-**Explanation:** 会議 (kaigi) means meeting: a formal gathering for discussion and decision-making. 打ち合わせ = briefing (informal), 報告 = report, 連絡 = contact.
+**Explanation:** 会議 is the word for a structured, agenda-driven meeting where decisions are made and minutes are recorded, the kind that gets scheduled in advance and crosses departmental lines. 打ち合わせ is also a type of meeting but lighter and informal, while 報告 and 連絡 are methods of sharing information rather than a forum for collective decision-making.

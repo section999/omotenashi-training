@@ -44,4 +44,4 @@ One common conceptual mistake is treating 安全 as solely the responsibility of
 
 **Answer:** 安全
 
-**Explanation:** 安全 (anzen) means safety: a state of being free from harm, risk, or danger in the environment.
+**Explanation:** 安全 names the objective state of being free from harm or danger, and in omotenashi culture it is the foundation that all other hospitality service rests on. The distractor 安心 is a closely related word but describes the subjective feeling of reassurance, not the physical condition itself, which is a distinction worth knowing well.

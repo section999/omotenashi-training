@@ -44,4 +44,4 @@ A very common error is saying 転送します without telling the guest where th
 
 **Correct Answer:** 転送 (transfer / forwarding)
 
-**Explanation:** 転送 best practice is to brief the receiving party first: whenever possible, do a warm transfer (担当者に状況をお伝えしてからお繋ぎします) so the guest does not have to repeat themselves; cold transfers where the caller must re-explain are one of the top complaints in hotel phone service.
+**Explanation:** 転送 means physically moving a call to a different line or department, and getting it right means telling the guest where the call is going and why before you redirect them. 保留 keeps the caller on the same line while you work, 切断 ends the call, and 内線 names the type of line, not the action of redirecting it. The gold standard is a warm transfer: briefly briefing the receiving party with 担当者に状況をお伝えしてからお繋ぎします before connecting them, so the guest never has to repeat their situation from scratch.

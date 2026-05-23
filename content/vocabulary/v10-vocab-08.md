@@ -44,4 +44,4 @@ Students often skip the 内訳 and jump straight to the 合計, which leaves gue
 
 **Correct Answer:** 内訳 (breakdown)
 
-**Explanation:** 内訳 (breakdown) is the transparency tool: proactively offering 内訳をご確認いただけますか (would you like to review the itemized charges?) before processing payment shows respect for the guest's money and significantly reduces billing complaints.
+**Explanation:** 内訳 shows a guest every individual charge that makes up their total, giving them the chance to verify accuracy before payment is finalized. 合計 is only the sum, 精算 is the broader settlement process, and 領収書 comes after the money has already changed hands; none of them serve the transparency role that 内訳 does. Proactively inviting a guest to review the 内訳 before checkout is one of the clearest ways to demonstrate that you are treating their money with the same care you give everything else in the stay.

@@ -44,4 +44,4 @@ Students often forget to add お when referring to a guest's call, saying 電話
 
 **Correct Answer:** 電話 (telephone)
 
-**Explanation:** お電話 (with the honorific お) is the standard form when speaking to or about a guest's call; using the plain form 電話 in guest-facing communication sounds slightly abrupt.
+**Explanation:** 電話 is the core word for telephone communication in hospitality, serving as the foundation for related terms like 内線, 外線, and 転送, whereas the other options name specific types of lines or infrastructure rather than the act or device of telephoning. In guest-facing speech, always use the honorific form お電話, since dropping it to plain 電話 sounds abrupt, and every phone answer should open with お電話ありがとうございます followed by the property name.

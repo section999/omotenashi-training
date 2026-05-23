@@ -45,5 +45,5 @@ The most common mistake is quoting a 税別 price without mentioning that tax wi
 
 **Correct Answer:** 税別 (tax excluded)
 
-**Explanation:** 税別 prices are common in hotel rate cards: when quoting 税別, immediately follow with the 税込 total (税別〇〇円、税込ですと〇〇円となります) so guests always leave the conversation knowing the final amount they will pay.
+**Explanation:** 税別 indicates that the consumption tax is not yet included in the quoted figure, meaning the actual amount due will be higher once tax is added. 税込 means tax is already built in, 合計 is the final total, and 精算 is the settlement process; none of them communicate that a price excludes tax. Pairing any 税別 quote immediately with the 税込 equivalent, 税別〇〇円、税込ですと〇〇円となります, means the guest always walks away knowing the real number they will pay, which prevents the kind of checkout surprise that is hard to recover from gracefully.
 

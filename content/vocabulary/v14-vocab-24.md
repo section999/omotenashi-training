@@ -44,4 +44,4 @@ Students often assume an ICカード from one region works everywhere in Japan. 
 
 **Answer:** ICカード
 
-**Explanation:** ICカード (IC kaado) means IC card: a rechargeable contactless card used on trains and buses, such as Suica or Pasmo.
+**Explanation:** ICカード (IC kaado) is a rechargeable contactless smart card that lets guests tap through train gates and board buses without purchasing individual 切符 each time, and recommending one early in a guest's stay is a practical hospitality touch that saves real frustration. 切符 is the paper or printed alternative, still needed for reserved seating and rural routes, while クレジットカード is a credit card for payment rather than a transit-specific tool.

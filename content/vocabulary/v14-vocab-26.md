@@ -44,4 +44,4 @@ Students sometimes use 案内 when 道案内 is the more precise term for naviga
 
 **Answer:** 道案内
 
-**Explanation:** 道案内 (michi annai) means directions: instructions given to help someone navigate to a destination.
+**Explanation:** 道案内 (michi annai) is the specific act of guiding someone along a route, and in Japan, where street names are rare and addresses follow a block system rather than sequential numbers, clear 道案内 from a staff member is far more valuable than in most other countries. 案内 is a broader word covering any form of guidance or information, not just navigation, and 地図 is a map tool that supports 道案内 rather than replacing the directed act itself.

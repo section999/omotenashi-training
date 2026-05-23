@@ -45,4 +45,4 @@ Students often mix up 内線 and 外線 when explaining phone instructions, and 
 
 **Correct Answer:** 内線 (internal / extension line)
 
-**Explanation:** 内線 connects internal departments instantly: when giving a guest an 内線番号, say 内線〇〇番でございます and confirm they know how to access the internal line (通常、客室電話から0を押さずにそのままお番号をお押しください).
+**Explanation:** 内線 is the internal extension network connecting rooms and departments within the property, which is why it carries no external call charges and needs no prefix digit, unlike 外線 which routes outside the building and may incur fees. When giving a guest an extension number, say 内線〇〇番でございます and confirm how to access the internal line from their room handset, since procedures vary by property and many guests will not assume the correct steps.

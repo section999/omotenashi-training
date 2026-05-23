@@ -45,4 +45,4 @@ Dropping the ご prefix and saying 案内します in a guest-facing situation i
 
 **Correct Answer:** 案内します (I will guide you)
 
-**Explanation:** ご案内いたします (humble form) elevates 案内します: in phone communication, 〇〇の場所をご案内いたします means you will verbally walk the guest through directions; on the phone, speaking slowly and using landmarks (〜の隣、〜の前) is more effective than left/right directions alone.
+**Explanation:** 案内します means to guide someone directionally, and its humble form ご案内いたします is the expected register when speaking with guests rather than colleagues. 説明します covers informational explanation, 確認いたします is a promise to verify, and お繋ぎします redirects someone to a person, none of which carry the sense of physically or verbally guiding someone to a place. On the telephone, landmark-based directions (〜の隣, 〜の前) serve the guest far better than left-and-right instructions because they give a concrete visual anchor when no map is visible.

@@ -44,4 +44,4 @@ Students often describe a reluctance to call 警察 promptly out of worry about 
 
 **Answer:** 警察
 
-**Explanation:** 警察 (keisatsu) means police: the law enforcement agency responsible for public safety and crime response.
+**Explanation:** 警察 is the government law enforcement agency you contact for theft, violence, suspicious persons, or any criminal matter on the premises. On-site 警備員 handle routine security, but 警察 carry the legal authority to investigate crimes, and confusing the two can delay a response that genuinely requires that authority.

@@ -44,5 +44,5 @@ The most frequent error is stating the date without the time, and as covered abo
 
 **Correct Answer:** 期限 (deadline / expiry)
 
-**Explanation:** 期限 (deadline) should always include both the date and time (〇月〇日〇時まで): a deadline stated only by date is ambiguous; guests may interpret "tomorrow" as any time on that day, which can cause missed cutoffs.
+**Explanation:** 期限 is the right word for a confirmation cutoff, and it only does its job when paired with both a date and a specific time, since a deadline stated by date alone leaves room for misinterpretation that causes missed windows. The other options all refer to dates in the guest's itinerary (到着日, 宿泊日) or financial matters (追加料金), none of which answers the question about when to confirm.
 

@@ -47,4 +47,4 @@ Students sometimes shorten 交通機関 to just 交通, but 交通 by itself mea
 
 **Correct Answer:** 交通機関 (public transportation)
 
-**Explanation:** 交通機関 (koutsuu kikan) means transportation: the collective systems for moving people, including trains, buses, and taxis. 道案内 = directions, 地図アプリ = map app, 切符 = ticket.
+**Explanation:** 交通機関 (koutsuu kikan) refers to transportation systems as a whole, the collective network of trains, buses, taxis, and other services that guests rely on to move through Japan. 道案内 is the human act of giving directions, 地図アプリ is a navigation tool, and 切符 is a single boarding document, none of which describe the broader infrastructure of transit systems.

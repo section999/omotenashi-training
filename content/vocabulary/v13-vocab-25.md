@@ -47,4 +47,4 @@ Students sometimes treat 確認作業 as a quick glance over something. In Japan
 
 **Correct Answer:** 確認作業 (verification work)
 
-**Explanation:** 確認作業 (kakunin sagyou) means checking work: reviewing tasks for accuracy and quality before submission or completion. 指導 = guidance, 作業 = task, 連絡 = contact.
+**Explanation:** 確認作業 is the deliberate, item-by-item verification built into every workflow before a task reaches a guest, the structured check that allows Japanese hospitality to catch errors internally, silently, every time. 作業 names the task being verified but does not include the review itself; 指導 and 連絡 involve communication rather than verification; and none of the wrong options carries the quality-control meaning that 確認作業 holds.

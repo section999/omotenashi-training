@@ -44,4 +44,4 @@ Students sometimes reach for 責任者 (sekininsha: person responsible/manager o
 
 **Answer:** 担当
 
-**Explanation:** 担当 (tantou) means person in charge: the individual responsible for a specific task, area, or decision-making function.
+**Explanation:** 担当 names the individual to whom a specific task, guest, or area has been assigned, and in Japanese hospitality it carries a real expectation that the person will see the matter through from start to finish. 責任者, the most tempting alternative, signals higher managerial authority reserved for escalations, so using it in place of 担当 raises the stakes of the situation considerably beyond what was intended.

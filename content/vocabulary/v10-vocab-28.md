@@ -47,4 +47,4 @@ The most frequent error is using 税込 and 税別 as if they're interchangeable
 
 **Correct Answer:** 税込 (tax included)
 
-**Explanation:** 税込 vs 税別 is one of the most common sources of billing surprises: always specify which applies when quoting a rate (〇〇円、税込でございます); a guest who was quoted 税別 but expected 税込 will feel misled even if the hotel followed policy correctly.
+**Explanation:** 税込 signals that the consumption tax is already included in the quoted price, so what the guest hears is exactly what they pay. 税別 means the opposite, that tax will be added on top; 合計 is the resulting final number; and 内訳 breaks down what went into it. Stating 〇〇円、税込でございます every time you quote a price takes one extra second and eliminates the most common source of billing confusion, especially for international guests who have no automatic familiarity with Japan's consumption tax system.

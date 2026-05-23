@@ -47,5 +47,5 @@ Students often forget to state the 確認期限 when telling a guest their booki
 
 **Correct Answer:** 仮予約 (tentative reservation)
 
-**Explanation:** 仮予約 must always come with a clear confirmation deadline: saying ご確認いただける期限は〇月〇日です (the deadline to confirm is〜) prevents the guest from assuming the room is held indefinitely, which would block other bookings.
+**Explanation:** 仮予約 correctly names a reservation that is on hold pending payment or other confirmation, and it only works as a professional communication tool when the 確認期限 is stated clearly in the same message. The other options are either the completed state (確定), a different kind of change (予約変更), or a status concept rather than a booking stage (空き状況).
 

@@ -44,4 +44,4 @@ Students sometimes use 管理 and 経営 (keiei: business management, running a 
 
 **Answer:** 管理
 
-**Explanation:** 管理 (kanri) means management: overseeing and controlling tasks, people, or resources to achieve organisational goals efficiently.
+**Explanation:** 管理 is the systematic oversight that keeps a hotel running to standard, from inventory and hygiene to guest data and quality control, and it appears in compound terms across every department. It should not be confused with 経営, which refers to strategic business direction at the company level; 管理 is operational and internal, focused on controlling specific resources and processes rather than steering the whole organisation.

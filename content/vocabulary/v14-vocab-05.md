@@ -47,4 +47,4 @@ Students sometimes confuse 入国 with 入室 (nyuushitsu, entering a room) or �
 
 **Correct Answer:** 入国 (entry into the country)
 
-**Explanation:** 入国 (nyuukoku) means entry into a country. 出国 = departure, 通貨 = currency, 観光地 = tourist spot.
+**Explanation:** 入国 (nyuukoku) refers specifically to the formal act of crossing into Japan through an immigration checkpoint, and understanding it helps hospitality staff anticipate and support guests who arrive with questions from the border process still fresh in their minds. 出国 is the mirror image departure process, while 通貨 and 観光地 belong to entirely different categories, money and tourism destinations, with no connection to border crossing.

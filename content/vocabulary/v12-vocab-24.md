@@ -44,4 +44,4 @@ The most common mistake is conflating 警告 with 注意 and using them intercha
 
 **Correct Answer:** 警告 (warning)
 
-**Explanation:** 警告 (keikoku) means warning: a stronger alert than caution, signalling serious or imminent risk. 注意 = caution, 危険 = danger, 点検中 = under inspection.
+**Explanation:** 警告 occupies the middle tier of Japan's standardised hazard hierarchy, signalling that immediate action or strict avoidance is required, though the situation has not yet reached the life-threatening severity of 危険. 注意 is used for moderate precautionary risk below this level, 危険 is reserved for the most severe hazards, and 点検中 simply means a facility is being checked, which carries no hazard designation at all.

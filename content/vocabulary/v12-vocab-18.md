@@ -47,4 +47,4 @@ Students sometimes use 助ける (tasukeru) when they mean 救助, but 助ける
 
 **Correct Answer:** 救助 (rescue)
 
-**Explanation:** 救助 (kyuujo) means rescue: saving people from danger. 注意 = caution, 応急処置 = first aid, 危険 = danger.
+**Explanation:** 救助 is the active, purposeful intervention that removes a person from a dangerous situation, whether that means guiding a guest out of a flooded corridor or coordinating with fire services during an evacuation. 注意 is a precautionary alert, 危険 names the hazardous condition, and 応急処置 is the medical care that follows once a person is already safe.

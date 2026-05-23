@@ -47,4 +47,4 @@ Students sometimes substitute 大切なもの (taisetsuna mono, "important thing
 
 **Correct Answer:** 貴重品 (valuables)
 
-**Explanation:** 貴重品 (kichouhin) means valuables: high-value items such as money, jewellery, or passports requiring secure storage. 荷物 = luggage, 管理番号 = tracking number, ロッカー = locker.
+**Explanation:** 貴重品 is the established hospitality term for items of significant monetary or personal value, including cash, passports, jewellery, and important documents, and using it consistently signals professional competence in a way that the vague 大切なもの does not. When guests deposit 貴重品 at the front desk, handling everything visibly and issuing a detailed receipt shows the kind of transparent care that builds genuine trust. 荷物 is the broader category of travel bags, 管理番号 is the tracking code assigned to items, and ロッカー is a self-service storage compartment rather than a secure deposit service.

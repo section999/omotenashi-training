@@ -47,4 +47,4 @@ Students often treat シフト and 勤務 as interchangeable, but they describe 
 
 **Correct Answer:** シフト (shift)
 
-**Explanation:** シフト (shifuto) means shift: an assigned schedule of working hours. 勤務 = duty/work, 出勤 = going to work, 退勤 = leaving work.
+**Explanation:** シフト is the standard term for a rostered block of hours and is the word you will see on a schedule, request, or swap notification in any hotel or restaurant. The other options describe related but distinct ideas: 勤務 is the nature of the duty performed during that time, while 出勤 and 退勤 are the moments of arriving and departing, not the scheduled block itself.

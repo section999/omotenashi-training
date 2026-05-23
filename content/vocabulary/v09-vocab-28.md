@@ -47,4 +47,4 @@ The most common and damaging error with 延長 is telling a guest "yes, that's f
 
 **Correct Answer:** 延長 (extension)
 
-**Explanation:** 延長 requires checking both room availability AND the next guest's check-in: confirming 延長 without verifying this can cause a double-booking conflict; always check the system before promising an extra night to any guest.
+**Explanation:** 延長 is the correct term for adding nights to an existing stay, and it requires a system check covering both room availability and any incoming guest before you can confirm anything. The other options either reduce the stay (短縮), end it entirely (キャンセル), or change details rather than extend the duration (予約変更).

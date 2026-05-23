@@ -44,4 +44,4 @@ Students often say お繋ぎします without specifying where the call is going
 
 **Correct Answer:** お繋ぎします (I will connect you)
 
-**Explanation:** お繋ぎします: always state who you are connecting the guest to before transferring (〇〇部署にお繋ぎいたします); transferring without explanation leaves the caller unsure who will answer, which feels impersonal and can cause repeated call-backs.
+**Explanation:** お繋ぎします is the phrase that tells a caller you are personally ensuring their connection goes through, which carries more warmth and accountability than the other options, which ask someone to wait, describe a future callback, or name a recording device. Always name the destination before saying it, such as レストランの予約担当部署にお繋ぎいたします, and where possible brief the receiving party beforehand so the guest never has to repeat themselves.

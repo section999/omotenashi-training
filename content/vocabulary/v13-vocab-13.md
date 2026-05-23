@@ -44,4 +44,4 @@ A common error is using 教育 where 研修 or 指導 would be more precise. Say
 
 **Correct Answer:** 教育 (education / training)
 
-**Explanation:** 教育 (kyouiku) means education or training: the broader ongoing process of developing employee competencies. 指導 = guidance, 会議 = meeting, 研修 = training programme.
+**Explanation:** 教育 describes the full, career-spanning process of developing an employee's knowledge, skills, and professional character, broader in scope than any single programme or session. 研修 is one defined part of that process; 指導 is the moment-to-moment mentoring delivered within it; and 会議 has nothing to do with staff development at all, making it the clearest distractor here.

@@ -47,3 +47,5 @@ The most common error is using わかりません when the actual problem is tha
 - D. できません (cannot do / unable)
 
 **Correct Answer:** 聞き取れません (I cannot hear / understand)
+
+**Explanation:** 聞き取れません diagnoses an audibility problem, telling the caller that their words are not reaching you clearly, which is different from わかりません, which signals a failure of comprehension and would mislead the caller into thinking there is a language gap. 知りません says you have no knowledge of something, and できません says you are unable to do something, both of which are irrelevant to a poor phone connection and would sound entirely out of place. Always soften the phrase with 恐れ入りますが or 申し訳ございませんが before naming the difficulty.

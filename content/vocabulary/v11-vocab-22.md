@@ -45,4 +45,4 @@ Staff sometimes open a call with 何ですか or 何でしょうか instead of t
 
 **Correct Answer:** お問い合わせ (inquiry)
 
-**Explanation:** お問い合わせありがとうございます is the standard phone opening line: it sets a warm, professional tone immediately; staff who skip it and go straight to 何ですか sound abrupt and unwelcoming on the phone.
+**Explanation:** お問い合わせ frames a guest's question or request as a valued act of contact, which is why it belongs in formal telephone and service contexts rather than the blunter 質問. Opening a call with お問い合わせありがとうございます immediately signals that the hotel welcomes the guest's communication rather than just processing it. The other options here, ご用件, ご連絡, and 伝言, each name a related concept but describe the act of contact or a relayed message rather than the inquiry itself.

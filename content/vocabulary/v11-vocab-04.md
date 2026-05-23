@@ -45,4 +45,4 @@ The most critical mistake is simply not reading the 電話番号 back. In Japane
 
 **Correct Answer:** 電話番号 (phone number)
 
-**Explanation:** 電話番号 should always be confirmed back to the guest: after receiving a 電話番号, repeat it clearly (〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか) before hanging up; a one-digit error means the call never reaches the intended recipient.
+**Explanation:** 電話番号 is the contact number used to reach a person, which makes it the information collected for follow-up calls and reservation confirmations, distinct from 内線 as an in-house routing number, 外線 as a type of line, and 回線 as the physical circuit. In Japanese hotel practice, reading the number back in grouped segments before ending the call is not optional, since a single wrong digit makes every callback attempt fail.

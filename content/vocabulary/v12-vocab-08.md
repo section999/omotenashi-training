@@ -47,4 +47,4 @@ Students often hesitate before calling a 救急車, worried about alarming other
 
 **Correct Answer:** 救急車 (ambulance)
 
-**Explanation:** 救急車 (kyuukyuusha) means ambulance: a vehicle for emergency medical transport. 消防車 = fire truck, 病院 = hospital, 医者 = doctor.
+**Explanation:** 救急車 is the paramedic-staffed vehicle dispatched by calling 119, and it is the right answer because the question asks specifically about a vehicle providing emergency medical transport. 消防車 fights fires, 病院 is the destination after transport, and 医者 is a person, not a vehicle.

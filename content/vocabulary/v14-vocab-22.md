@@ -44,4 +44,4 @@ Concierge staff who can read a 時刻表 quickly, or who know how to pull one up
 
 **Answer:** 時刻表
 
-**Explanation:** 時刻表 (jikokuhyou) means timetable: a schedule listing departure and arrival times for trains, buses, and other transport.
+**Explanation:** 時刻表 (jikokuhyou) is an official schedule listing departure and arrival times for trains, buses, or ferries, and in Japan the precision of the transit network means guests can genuinely plan their entire day around it. スケジュール is a personal agenda or event plan rather than a transport timetable, and ダイヤ refers to operational running order and delay status rather than the publicly posted chart guests use to plan their journey.

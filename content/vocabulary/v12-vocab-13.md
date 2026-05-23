@@ -47,4 +47,4 @@ Students often mix up 怪我 and 病気 (illness), but they are distinct: 怪我
 
 **Correct Answer:** 怪我 (injury)
 
-**Explanation:** 怪我 (kega) means injury: physical harm to the body. 病気 = illness, 救助 = rescue, 危険 = danger.
+**Explanation:** 怪我 refers specifically to physical trauma caused by an external event such as a fall or cut, making it the right term here because the guest's injury is caused by an outside force, not an internal health condition. 病気 comes from within the body, 救助 is the action of saving someone, and 危険 names the hazardous condition rather than the harm that results from it.

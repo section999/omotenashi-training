@@ -47,4 +47,4 @@ Students often mix up 乗り場 with ホーム (platform). ホーム refers spec
 
 **Correct Answer:** 乗り場 (boarding area / stop)
 
-**Explanation:** 乗り場 (noriba) means boarding area: the designated spot for passengers to board buses, taxis, or other transport. 切符 = ticket, 地図アプリ = map app, 料金表 = price list.
+**Explanation:** 乗り場 (noriba) names the designated physical location where passengers board a specific mode of transport, and giving a guest the correct 乗り場 number or exit reference is what separates a genuinely useful direction from a vague one. 切符 is the document that authorises travel, 地図アプリ is the navigation tool used to find the location, and 料金表 shows what the journey costs, none of which are the boarding place itself.

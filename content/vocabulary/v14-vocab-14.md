@@ -44,4 +44,4 @@ In spoken hospitality Japanese, ガイド primarily refers to a person or a spec
 
 **Answer:** ガイド
 
-**Explanation:** ガイド (gaido) means guide: a person or tool that provides information, directions, and context for tourists at attractions.
+**Explanation:** ガイド (gaido) refers to either the person who leads and explains a tour or the physical material (guidebook, audio device) that serves that same function at an attraction. 案内人 is a more general usher or escort without the specialist cultural knowledge a ガイド carries, and ツアーコンダクター handles group logistics rather than delivering the interpretive content that defines a ガイド's role.

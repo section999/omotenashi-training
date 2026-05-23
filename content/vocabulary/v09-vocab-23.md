@@ -48,5 +48,5 @@ Worth noting: the most damaging error here is stating 変更可能 without attac
 
 **Correct Answer:** 変更可能 (change is possible)
 
-**Explanation:** 変更可能 sets the guest's expectation of flexibility: always follow it with conditions (〇日前まで変更可能でございます) so the guest knows the window; open-ended "changeable" without a deadline can be misused or disputed.
+**Explanation:** 変更可能 is the only phrase here that confirms a reservation can be modified, and a well-trained staff member always follows it immediately with the conditions, the deadline and which elements are actually flexible, rather than leaving the guest to assume unlimited freedom. The other choices either fix the booking in place (確定), describe an incomplete booking (仮予約), or refer to a time constraint rather than flexibility (期限).
 

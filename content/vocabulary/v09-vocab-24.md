@@ -44,5 +44,5 @@ A common mistake is using 確定 loosely to mean "I think your booking is fine" 
 
 **Correct Answer:** 確定 (confirmed)
 
-**Explanation:** 確定 is the final committed state: ご予約は確定しております is the reassuring phrase guests want to hear; follow it with the confirmation number (予約番号) so they have written proof, which reduces anxiety for long-distance travelers.
+**Explanation:** 確定 is the term for a fully secured, committed booking, and saying ご予約は確定しております with the 予約番号 in the same breath gives the guest both the reassurance and the tangible proof they need. The other options describe earlier stages or different concepts: 仮予約 is still pending, 空き状況 is a status check, and 延長 refers to extending a stay rather than confirming one.
 

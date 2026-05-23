@@ -47,4 +47,4 @@ Students often direct guests with the casual form レストランはあそこで
 
 **Correct Answer:** レストランはこちらでございます (the restaurant is here)
 
-**Explanation:** レストランはこちらでございます answers the guest's question by pointing them in the right direction using こちら (this way) with ございます for a warm, formal tone. Saying the restaurant is being prepared, fully booked, or outside does not serve a guest who simply wants to know where to eat — and in omotenashi, you guide, you do not just redirect.
+**Explanation:** レストランはこちらでございます answers the guest's question by pointing them in the right direction using こちら (this way) with ございます for a warm, formal tone. Saying the restaurant is being prepared, fully booked, or outside does not serve a guest who simply wants to know where to eat, and in omotenashi, you guide, you do not just redirect.

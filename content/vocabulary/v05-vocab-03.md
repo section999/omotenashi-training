@@ -47,4 +47,4 @@ Students frequently use ランチ and 昼食 interchangeably without thinking ab
 
 **Correct Answer:** 昼食は12時からご利用いただけます (lunch is available from 12 o'clock)
 
-**Explanation:** 昼食は12時からご利用いただけます gives a guest both the meal type (lunch) and when it starts, using ご利用いただけます — the humble form of "is available for your use" — which is the natural phrasing for informing guests of service hours. The other options each describe only part of the picture: end time only, a reservation requirement, or a menu type, and none of them directly answers "when can I have lunch?"
+**Explanation:** 昼食は12時からご利用いただけます gives a guest both the meal type (lunch) and when it starts, using ご利用いただけます, the humble form of "is available for your use", which is the natural phrasing for informing guests of service hours. The other options each describe only part of the picture: end time only, a reservation requirement, or a menu type, and none of them directly answers "when can I have lunch?"

@@ -44,4 +44,4 @@ Students often rely on posted 立入禁止 signs without adding physical barrier
 
 **Answer:** 立入禁止
 
-**Explanation:** 立入禁止 (tachiiri kinshi) means no entry: a sign restricting access to hazardous or restricted areas.
+**Explanation:** 立入禁止 prohibits physically entering a designated zone, making it a broader spatial restriction than 使用禁止, which targets a specific device rather than a whole area. When enforcing it verbally with a guest, the phrasing must stay firmly in hospitality register, firm enough to be clear, polite enough that the guest does not feel accused.

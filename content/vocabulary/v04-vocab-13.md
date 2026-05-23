@@ -44,5 +44,5 @@ Storing the ドライヤー somewhere unexpected without updating the room infor
 
 **Correct Answer:** ドライヤーはコンセントに差してご使用ください (please plug the hair dryer in and use it)
 
-**Explanation:** ドライヤーはコンセントに差してご使用ください answers the guest's "how do I use it?" question directly, naming the plug socket (コンセント) and using ご使用ください as a polite instruction. Saying there is no hair dryer or just pointing to the drawer answers a different question — the guest asked how to use it, not where it is or whether it exists.
+**Explanation:** ドライヤーはコンセントに差してご使用ください answers the guest's "how do I use it?" question directly, naming the plug socket (コンセント) and using ご使用ください as a polite instruction. Saying there is no hair dryer or just pointing to the drawer answers a different question, the guest asked how to use it, not where it is or whether it exists.
 

@@ -44,4 +44,4 @@ Students often say アイロンをする, which sounds a little off to native sp
 
 **Answer:** アイロン
 
-**Explanation:** アイロン (airon) means iron: a heated device used to smooth wrinkles from clothing for a neat appearance.
+**Explanation:** アイロン is the heated pressing appliance used to smooth wrinkles, a standard in-room amenity that business travellers frequently rely on before meetings or events. In hospitality speech, the correct collocation is アイロンをかける rather than アイロンをする, and in guest-facing contexts that becomes アイロンをおかけになる. The other options each name something different: 洗濯 is the washing process, 乾燥 is the drying stage, and クリーニング is professional solvent-based cleaning.

@@ -47,4 +47,4 @@ Students often skip the readback step when taking a 伝言, treating it as optio
 
 **Correct Answer:** 伝言 (message / verbal message)
 
-**Explanation:** 伝言 is a commitment: saying 伝言をお預かりいたします means you are responsible for delivering the message accurately and on time; always repeat the key details back to the caller (お名前、電話番号、ご用件) before ending the call to confirm nothing was missed.
+**Explanation:** 伝言 describes a message relayed personally between people, typically because the intended recipient was unavailable, and the phrase 伝言をお預かりいたします uses お預かりする to frame it as something held in trust rather than just a note. This sets it apart from the broader メッセージ, the recording system 留守番電話, and general 案内, since 伝言 carries a personal accountability that means the details must be read back, verified, and delivered without delay.

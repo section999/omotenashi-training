@@ -44,4 +44,4 @@ Confusing 使用禁止 with 故障中 is very common. Remember: 使用禁止 is 
 
 **Answer:** 使用禁止
 
-**Explanation:** 使用禁止 (shiyou kinshi) means do not use: a prohibitive sign preventing use of a facility or device for safety reasons.
+**Explanation:** 使用禁止 is a formal prohibition imposed by management that prevents guests from operating a specific device or facility, and it must always be accompanied by a verbal explanation and, where needed, an alternative offering. It differs from 故障中, which signals a technical malfunction, because 使用禁止 can be placed on perfectly functional equipment for safety or administrative reasons.

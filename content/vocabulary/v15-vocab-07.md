@@ -47,4 +47,4 @@ Students sometimes shorten アイロン台 to just アイロン when speaking qu
 
 **Correct Answer:** アイロン台 (ironing board)
 
-**Explanation:** アイロン台 (airon dai) means ironing board: the flat surface that supports garments during ironing. アイロン = iron, クリーニング = dry cleaning, 洗濯 = washing.
+**Explanation:** アイロン台 is the padded flat board on which garments are laid out during pressing, and without it, effective ironing is simply not possible. In Japanese hotels it lives in the wardrobe alongside the アイロン, and both should be clean and stable before the guest uses the room. アイロン names the heated appliance rather than the supporting surface, クリーニング is solvent-based professional cleaning with no pressing board involved, and 洗濯 is the washing process, a separate stage entirely.

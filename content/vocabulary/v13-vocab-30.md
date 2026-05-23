@@ -44,4 +44,4 @@ Students sometimes confuse 評価 with 批判 (hihan, criticism) or 判断 (hand
 
 **Answer:** 評価
 
-**Explanation:** 評価 (hyouka) means evaluation: assessing performance, processes, or products to identify strengths and areas for improvement.
+**Explanation:** 評価 (hyouka) is the correct term for comprehensive assessment in Japanese hospitality management, covering everything from staff performance reviews to guest satisfaction scores. It carries a neutral-to-supportive tone that invites growth rather than judgment, which is essential when delivering feedback in a Japanese workplace. The alternatives 批判 (criticism) and 判断 (judgement) both carry a harsher, more one-sided weight that would undermine the collaborative spirit 評価 is meant to create.

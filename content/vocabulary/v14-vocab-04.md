@@ -44,4 +44,4 @@ The most common mix-up is treating ビザ and パスポート (passport) as the 
 
 **Answer:** ビザ
 
-**Explanation:** ビザ (biza) means visa: the official document granting permission to enter a foreign country for a specific period.
+**Explanation:** ビザ (biza) is the permission granted to a foreign national to enter and stay in Japan for a defined period, and it is distinct from the passport that contains it. In hospitality contexts, knowing that many countries have visa-exemption agreements with Japan prevents staff from incorrectly assuming every international guest holds a visa stamp, which could lead to unnecessary or awkward questioning at the front desk.

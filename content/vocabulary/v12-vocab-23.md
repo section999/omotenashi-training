@@ -47,4 +47,4 @@ Students often mix up 注意 and 危険, treating them as rough equivalents, but
 
 **Correct Answer:** 注意 (caution / attention)
 
-**Explanation:** 注意 (chuui) means caution: a warning to take care. 危険 = danger (stronger level), 安全 = safety, 応急処置 = first aid.
+**Explanation:** 注意 sits at the lowest tier of the Japanese safety warning scale, used for moderate, precautionary risks like wet floors or uneven steps where care is needed but the hazard is not severe. 危険 is the right word when there is genuine risk of serious harm, 安全 is the desired state you are protecting, and 応急処置 is the response after an injury has already occurred.

@@ -44,4 +44,4 @@ The most common error is using 旅行者 and 観光客 as if they mean the same 
 
 **Answer:** 観光客
 
-**Explanation:** 観光客 (kankoukyaku) means tourist: a visitor traveling for leisure, sightseeing, or cultural experiences.
+**Explanation:** 観光客 (kankoukyaku) names a visitor whose specific purpose is sightseeing or leisure, and that purpose distinction is what makes the word useful in hospitality: it tells you right away what kind of support this person likely needs. The broader 旅行者 covers any traveller regardless of purpose, while 外国人 marks nationality rather than travel intent, so neither captures the sightseeing context that 観光客 carries.

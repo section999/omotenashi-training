@@ -47,4 +47,4 @@ A frequent mistake is quoting only the opening time of 受付時間 without ment
 
 **Correct Answer:** 受付時間 (reception hours)
 
-**Explanation:** 受付時間: always include both 開始時間 and 終了時間 (opening and closing time) and mention the after-hours contact method if applicable (夜間はインターホンをご利用ください); guests arriving late at night need to know there is still support available.
+**Explanation:** 受付時間 directly answers the question of when the front desk can be reached, and a complete answer always includes both the opening and closing times plus the after-hours contact method, so guests arriving late know support is still available. The other options are all date references tied to the guest's itinerary (到着日, 宿泊日, 予約日) and have nothing to do with staffing hours.

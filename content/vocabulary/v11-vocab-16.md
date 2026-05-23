@@ -45,4 +45,4 @@ Students sometimes use 電話 (phone) when they mean 回線, which can be imprec
 
 **Correct Answer:** 回線 (line / circuit)
 
-**Explanation:** 回線 is the physical or virtual channel: when a guest reports a call quality issue, asking 回線の問題を確認いたします (I will check the line) is more precise than 電話の問題; it points to the infrastructure level and helps maintenance diagnose faster.
+**Explanation:** 回線 refers to the physical or virtual circuit that telephone and internet signals travel through, which is the underlying infrastructure that both 内線 and 外線 depend on, and distinct from 電話番号 as a contact address. When a guest reports call quality problems, saying 回線の問題を確認いたします rather than the vague 電話が悪い points maintenance to the correct diagnostic level, saving time for both the team and the guest.

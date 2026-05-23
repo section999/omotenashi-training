@@ -47,4 +47,4 @@ Students often confuse 通貨 (the currency system as a concept) with 現金 (ge
 
 **Correct Answer:** 通貨 (currency)
 
-**Explanation:** 通貨 (tsuuka) means currency: the money system used in a country. 税関 = customs, 料金表 = price list, 両替所 = exchange office.
+**Explanation:** 通貨 (tsuuka) refers to the monetary system of a country as an abstract concept, making it the right word when discussing Japan's yen-based economy or foreign currency acceptance policies. 税関 is a government authority dealing with goods at the border, 料金表 is a posted price chart, and 両替所 is a physical location for exchanging currency rather than the currency concept itself.

@@ -47,4 +47,4 @@ Students sometimes use 精算 and 支払い (shiharai) as though they mean the s
 
 **Correct Answer:** 精算 (settlement / final billing)
 
-**Explanation:** 精算 is more than just totaling: it includes resolving any pending room charges, mini-bar items, or service requests that were billed to the room; reviewing the 内訳 with the guest before finalizing prevents disputes after they leave.
+**Explanation:** 精算 is the complete process of reconciling every charge on an account before payment is finalized, which sets it apart from simply collecting money. 合計 is only the resulting number, 内訳 is the itemized view of charges, and 領収書 is the proof issued afterward; none of them describe the settlement process itself. A 精算 handled with calm attention, especially the review of 内訳 with the guest, turns checkout from a transaction into one last moment of genuine care.

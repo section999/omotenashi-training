@@ -47,4 +47,4 @@ Students often reach for 外人 (gaijin) because it's shorter and more casual, b
 
 **Correct Answer:** 外国人 (foreigner)
 
-**Explanation:** 外国人 (gaikokujin) means foreigner: a person from another country. 観光客 = tourist, 旅行者 = traveller, 名所 = famous place.
+**Explanation:** 外国人 (gaikokujin) is the standard professional term for a person from another country, and it appears throughout hotel policies, training materials, and internal communications. 観光客 specifies a tourist's purpose rather than their nationality, 旅行者 describes anyone travelling regardless of origin, and 名所 is a place, not a person at all.

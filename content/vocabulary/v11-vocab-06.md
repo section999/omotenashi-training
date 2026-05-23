@@ -45,4 +45,4 @@ A common slip is saying お待ちください without the 少々 in front of it.
 
 **Correct Answer:** 少々お待ちください (please wait a moment)
 
-**Explanation:** 少々お待ちください: 少々 (a little) sets a short expectation; if the wait exceeds 30 seconds, return to the line and say お待たせいたしました、もう少々お時間をいただけますか (thank you for waiting, may I have a little more time) rather than leaving the guest in silence.
+**Explanation:** 少々お待ちください is the phrase used when asking a caller to pause briefly, with 少々 doing the important work of signaling a short wait rather than an open-ended one, which is why it fits here rather than お繋ぎします, 折り返し, or 留守番電話. If the wait stretches past 30 seconds, return to the line and acknowledge it with お待たせいたしました before giving an update, since leaving someone in silence after using this phrase breaks the promise that 少々 made.

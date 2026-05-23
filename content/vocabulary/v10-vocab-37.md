@@ -45,5 +45,5 @@ The most serious mistake here is standing too close or positioning the terminal 
 
 **Correct Answer:** 暗証番号 (PIN code / password)
 
-**Explanation:** 暗証番号 security is the staff's responsibility: always turn the PIN pad toward the guest (お客様の方にお向けします) and step back slightly; never watch the guest enter their PIN, and ensure no bystanders can see the keypad.
+**Explanation:** 暗証番号 is the PIN the guest types into the terminal to authorize a card payment, which sets it apart from 確認番号 as a booking reference, 署名 as a handwritten alternative, and 承認 as the network-level approval that follows. Protecting it is the staff's responsibility from the moment the terminal comes out: always turn the keypad toward the guest and step back, never watch, and ensure no one nearby can see the entry.
 

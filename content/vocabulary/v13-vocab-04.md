@@ -44,4 +44,4 @@ A common error is using 同僚 to describe someone who is clearly more senior. T
 
 **Answer:** 同僚
 
-**Explanation:** 同僚 (douryou) means colleague: a coworker in the same organisation or department who collaborates on shared tasks.
+**Explanation:** 同僚 names a peer at the same organisational level, and it is this equality that makes it the precise word for the collaborative relationships that keep hospitality operations running smoothly. Reaching for 上司 or 先輩 instead would introduce a seniority dimension that 同僚 deliberately excludes, changing the meaning of the relationship entirely.

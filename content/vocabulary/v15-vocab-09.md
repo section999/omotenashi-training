@@ -47,4 +47,4 @@ The most common oversight is dropping the honorific お. In guest-facing speech,
 
 **Correct Answer:** 荷物 (luggage / baggage)
 
-**Explanation:** 荷物 (nimotsu) means luggage: personal items and bags carried during travel. 宅配便 = courier, 配達 = delivery, 貴重品 = valuables.
+**Explanation:** 荷物 is the standard word for a guest's luggage or personal baggage, and in direct guest speech it always takes the honorific お to become お荷物. Handling guests' 荷物 with visible care and always asking permission before touching their bags are baseline expectations in Japanese hospitality. 宅配便 is the courier delivery network used to transport packages, 配達 describes the delivery action itself, and 貴重品 refers specifically to high-value items like cash or passports that require secure storage.

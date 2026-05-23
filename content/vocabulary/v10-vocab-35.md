@@ -45,5 +45,5 @@ Students often present a QRコード before confirming the amount, which means t
 
 **Correct Answer:** QRコード (QR code)
 
-**Explanation:** QRコード payments are now ubiquitous in Japan: when presenting a QRコード, ensure the amount displayed on screen matches what the guest is paying and confirm 決済完了 (payment complete) on your own terminal before allowing the guest to leave.
+**Explanation:** QRコード is the specific scanned interface that guests use with payment apps like PayPay or LINE Pay, distinct from 電子決済 as the broader category, 暗証番号 as a PIN authentication method, and 署名 as a handwritten authorization. When presenting a QRコード, always confirm the amount in the guest's app matches the actual total before they tap confirm, then wait for the 決済完了 signal on your own terminal before wrapping up.
 

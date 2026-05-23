@@ -47,4 +47,4 @@ Students often assume one 切符 covers an entire journey, but in Japan, transfe
 
 **Correct Answer:** 切符 (ticket)
 
-**Explanation:** 切符 (kippu) means ticket: a document or pass granting access to transport for a specific fare and route. ICカード = IC card, 時刻表 = timetable, 乗り場 = boarding area.
+**Explanation:** 切符 (kippu) is a physical or printed ticket granting access to a specific transport journey, and it remains essential for reserved seating, rural routes, and tourist passes that IC cards cannot cover. ICカード is an electronic alternative for standard journeys, 時刻表 shows when services depart rather than granting any passage, and 乗り場 is the boarding location rather than the travel document.

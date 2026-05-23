@@ -48,4 +48,4 @@ The most common confusion is between エスカレーター (escalator) and エ�
 
 **Correct Answer:** エスカレーター (escalator)
 
-**Explanation:** エスカレーター is the right word for the moving stairway that carries guests between shopping floors, making it the natural fit here. エレベーター is an enclosed cabin, 階段 are manual stairs, and 出口 is an exit — none of these move people upward in the open, continuous way the question describes.
+**Explanation:** エスカレーター is the right word for the moving stairway that carries guests between shopping floors, making it the natural fit here. エレベーター is an enclosed cabin, 階段 are manual stairs, and 出口 is an exit, none of these move people upward in the open, continuous way the question describes.

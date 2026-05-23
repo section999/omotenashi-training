@@ -45,4 +45,4 @@ Students often skip the reason for 保留 or forget to give any estimate before 
 
 **Correct Answer:** 保留 (hold / on hold)
 
-**Explanation:** 保留 etiquette requires checking back every 30-60 seconds: if information takes time, return to the line with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you for waiting, may I have a little more time); never leave a caller on hold without updates for more than one minute.
+**Explanation:** 保留 is the formal term for placing a caller on hold, and its proper use requires announcing it with 少々保留にさせていただきます before pressing the button, never in silence. 不在 describes a person being away from their post, 転送 moves the call to a different line, and 切断 ends the call entirely, none of which captures the temporary waiting state that 保留 names. Returning to the line within sixty seconds, or checking in with an update if the wait runs longer, is the standard that keeps callers feeling attended to.

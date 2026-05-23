@@ -44,4 +44,4 @@ Students often reach for the casual form 払い方 (haraikata) in a formal servi
 
 **Correct Answer:** 支払い方法 (payment method)
 
-**Explanation:** 支払い方法 (payment method): always confirm available options before the guest reaches the register (クレジットカード、現金、電子決済がご利用いただけます); listing methods upfront prevents last-minute surprises and speeds up checkout.
+**Explanation:** 支払い方法 covers all the ways a guest can settle their bill, and the professional habit is to state the accepted options proactively before checkout rather than waiting for a declined card to prompt the conversation. 合計 and 内訳 are about amounts and breakdowns, and 領収書 is what you hand over after payment, so none of them address the question of how the guest wants to pay.

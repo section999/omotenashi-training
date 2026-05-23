@@ -44,4 +44,4 @@ One mistake that's easy to fall into is using おすすめ insincerely. Guests a
 
 **Answer:** おすすめ
 
-**Explanation:** おすすめ (osusume) means recommendation: advice or suggestions shared with tourists to enhance their experience.
+**Explanation:** おすすめ (osusume) is a personal recommendation offered to help someone make a satisfying choice, and in hospitality it signals genuine engagement: the guest knows the answer came from a real person, not a brochure. 人気 describes collective public approval rather than a personal suggestion, and ご提案 is a more formal, consultative word used when presenting structured options rather than sharing a favourite.

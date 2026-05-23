@@ -44,4 +44,4 @@ Claiming 英語対応 without qualifying the level of proficiency is a trap that
 
 **Correct Answer:** 英語対応 (English support)
 
-**Explanation:** 英語対応 availability should be proactively communicated: if a guest seems to be struggling in Japanese, switching to English (May I assist you in English?) without waiting to be asked is a direct expression of omotenashi and removes a barrier for international guests.
+**Explanation:** 英語対応 signals the hotel's capacity to serve guests in English, and good hospitality means offering it proactively rather than waiting for a guest to visibly struggle. 通訳 names a professional language service rather than a built-in support capability, while 外国語 is the broader category covering all non-Japanese languages, not English specifically. When a guest hesitates or reaches for a foreign-language document at the front desk, that is the moment to say 英語でのご対応も可能でございます, before they have had to ask.

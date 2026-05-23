@@ -47,4 +47,4 @@ Students often use ランドリー and 洗濯 as if they mean exactly the same t
 
 **Correct Answer:** ランドリー (laundry)
 
-**Explanation:** ランドリー (randorii) means laundry: a service covering washing, drying, and folding clothes. 洗剤 = detergent, 乾燥 = drying, アイロン = iron.
+**Explanation:** ランドリー refers to the full commercial laundry service offered by hotels, covering washing, drying, and folding guest garments, and it is the term guests reach for when asking about this service at the front desk. The other options describe individual parts or related items within the laundry process: 洗剤 is the detergent used during washing, 乾燥 is the drying step alone, and アイロン is the pressing appliance used after drying.

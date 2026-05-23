@@ -47,4 +47,4 @@ Using 病気 too bluntly in direct conversation with a guest can feel cold and c
 
 **Correct Answer:** 病気 (illness)
 
-**Explanation:** 病気 (byouki) means illness: a condition impairing health. 怪我 = injury (physical wound), 危険 = danger, 事故 = accident.
+**Explanation:** 病気 covers physical and mental health conditions that impair normal functioning, from a mild cold to conditions requiring hospitalisation, making it the correct answer for any question about health affecting the body or mind. 怪我 is physical trauma from an external cause, 危険 names a hazardous environment, and 事故 is the unplanned event that may have caused the harm, not the health condition itself.

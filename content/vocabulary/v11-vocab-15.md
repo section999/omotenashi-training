@@ -47,4 +47,4 @@ Students often state 通話中です and stop there, which leaves the caller in 
 
 **Correct Answer:** 通話中 (line is busy / on a call)
 
-**Explanation:** 通話中 should be followed by an offer: ただいま通話中でございます (the line is currently busy) alone leaves the caller uncertain; adding 折り返しご連絡いたしましょうか (shall we call you back?) or しばらくお待ちいただけますか (could you wait a moment?) keeps the caller engaged.
+**Explanation:** 通話中 means the line is actively occupied by another call, which is different from 保留 as a mid-call waiting state, 切断 as a severed connection, and 転送 as a redirection action. Stating ただいま通話中でございます without a follow-up leaves the caller in limbo, so always pair it with an option: 折り返しご連絡いたしましょうか or しばらくお待ちいただけますか gives them a clear path forward.

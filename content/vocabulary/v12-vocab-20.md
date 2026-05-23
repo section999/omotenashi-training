@@ -47,4 +47,4 @@ Students sometimes use 警報 (keihou) and 非常ベル interchangeably, but 警
 
 **Correct Answer:** 非常ベル (emergency bell)
 
-**Explanation:** 非常ベル (hijou beru) means emergency bell: the alarm device that signals danger and prompts evacuation. 消火器 = fire extinguisher, 警察 = police, 医者 = doctor.
+**Explanation:** 非常ベル is the building-wide audible alarm device that signals a developing emergency and triggers the evacuation response chain the moment it sounds. 消火器 is a portable device you use to suppress a small fire yourself, 警察 is the law enforcement service you contact, and 医者 is the medical professional you call for illness, none of which alerts people to danger throughout a building.

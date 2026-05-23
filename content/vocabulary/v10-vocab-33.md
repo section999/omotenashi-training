@@ -45,5 +45,5 @@ Students often mix up バウチャー and クーポン and treat them as the sam
 
 **Correct Answer:** バウチャー (voucher)
 
-**Explanation:** バウチャー vs クーポン: a バウチャー typically represents a prepaid value or specific service entitlement, while a クーポン is a discount token; accepting a クーポン where a バウチャー was required (or vice versa) can result in revenue loss or incorrect billing.
+**Explanation:** バウチャー proves that a service has already been paid for in full, making it the only option here that functions as an entitlement document rather than a billing modifier or record. Mixing it up with クーポン, 伝票, or 領収書 is a common slip that can create real billing discrepancies, since those terms describe discount tokens, transaction records, or proof of payment after the fact, none of which carry the prepaid access that a バウチャー represents.
 

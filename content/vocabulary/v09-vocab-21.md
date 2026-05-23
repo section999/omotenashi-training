@@ -44,5 +44,5 @@ Announcing 無料キャンセル without a deadline is the single most common mi
 
 **Correct Answer:** 無料キャンセル (free cancellation)
 
-**Explanation:** 無料キャンセル: always specify the deadline (〇日前まで無料でキャンセルいただけます); without a clear date, guests may assume free cancellation applies right up to arrival, leading to disputes and revenue loss.
+**Explanation:** 無料キャンセル directly answers a guest who wants to cancel without paying, and its usefulness depends entirely on stating the deadline in the same sentence, since a guest who assumes the window is open-ended will be genuinely surprised by a charge. The other options all involve costs rather than removing them, making them wrong in both meaning and hospitality register.
 

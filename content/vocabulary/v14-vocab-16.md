@@ -44,4 +44,4 @@ Pronouncing アプリ as "appli" (the French-influenced form) sounds off in Japa
 
 **Answer:** 地図アプリ
 
-**Explanation:** 地図アプリ (chizu apuri) means map app: a digital navigation tool that provides routes, nearby facilities, and real-time guidance.
+**Explanation:** 地図アプリ (chizu apuri) names a smartphone navigation application, and proactively recommending one to guests is a small but genuinely useful service touch given how complex Japan's addressing system can be for newcomers. ナビ describes the navigation function itself rather than the app as a product, and 道案内 is the human act of giving verbal directions, which is what staff do when the app is not enough.

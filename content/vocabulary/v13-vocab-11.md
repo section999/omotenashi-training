@@ -47,4 +47,4 @@ Students sometimes assume 残業 is purely voluntary, something you simply choos
 
 **Correct Answer:** 残業 (overtime)
 
-**Explanation:** 残業 (zangyou) means overtime: work performed beyond the standard working hours. 勤務 = duty, 出勤 = going to work, 休憩 = break.
+**Explanation:** 残業 means work performed beyond the end of a scheduled shift, and in Japanese hospitality it requires supervisor approval in advance and carries legal compensation requirements. The wrong options all refer to events within standard hours: 勤務 is the working period itself, 出勤 is arriving for that period, and 休憩 is a rest break within it, none of them describe extending work past its scheduled finish.

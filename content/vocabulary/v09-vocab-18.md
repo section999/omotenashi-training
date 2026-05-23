@@ -44,5 +44,5 @@ Confirming 朝食付き without the time or location is one of the most common s
 
 **Correct Answer:** 朝食付き (breakfast included)
 
-**Explanation:** 朝食付き: when confirming, always add the time and location (朝食は7時から1階レストランにてご用意しております) so the guest has everything they need to plan their morning without a follow-up question.
+**Explanation:** 朝食付き confirms breakfast is included, and in professional hospitality that confirmation should always come with the time and location in the same breath, so the guest can picture their morning without needing to ask again. The other options either name a different meal plan (夕食付き, 素泊まり) or are too vague (プラン) to answer what the guest actually asked.
 

@@ -44,4 +44,4 @@ Students sometimes reach for 汚い (kitanai: dirty/filthy) when speaking to gue
 
 **Correct Answer:** 汚れをすぐに清掃いたします (we will clean the stain immediately)
 
-**Explanation:** 汚れをすぐに清掃いたします names the problem (汚れ, stain) and commits to fixing it right now with すぐに, using いたします to keep the register professional and respectful. Promising to check later, asking the guest to document the stain, or delaying until tomorrow all communicate the wrong priorities — in omotenashi, a visible problem is addressed without hesitation.
+**Explanation:** 汚れをすぐに清掃いたします names the problem (汚れ, stain) and commits to fixing it right now with すぐに, using いたします to keep the register professional and respectful. Promising to check later, asking the guest to document the stain, or delaying until tomorrow all communicate the wrong priorities, in omotenashi, a visible problem is addressed without hesitation.

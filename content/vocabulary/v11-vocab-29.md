@@ -44,4 +44,4 @@ The biggest mistake with 通訳 is confusing it with 翻訳. If a guest hands yo
 
 **Correct Answer:** 通訳 (interpretation)
 
-**Explanation:** 通訳 (spoken) vs 翻訳 (written): this distinction matters when a guest asks for help: a guest who needs a document translated needs 翻訳, while one who needs someone to speak on their behalf in a meeting needs 通訳; offering the wrong type wastes time and erodes confidence.
+**Explanation:** 通訳 is oral interpretation, meaning someone speaks across a language barrier in real time, which is what the characters 通 (to communicate through) and 訳 (to interpret) together describe. 翻訳 is the written counterpart and the most common source of confusion, because guests sometimes use the two interchangeably. Offering 翻訳 to a guest who needs someone to speak for them in a meeting, or directing someone with a document to a live interpreter, wastes time on both sides and signals a misunderstanding of what was needed.

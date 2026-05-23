@@ -47,4 +47,4 @@ A serious mistake is issuing a 領収書 before the 請求書 has actually been 
 
 **Correct Answer:** 請求書 (invoice / bill)
 
-**Explanation:** 請求書 is issued before payment; 領収書 is issued after: this sequence is critical for corporate billing; issuing a 領収書 before the 請求書 is settled can create accounting errors and make it harder to follow up on unpaid balances.
+**Explanation:** 請求書 formally notifies a client of what is owed and when payment is due, and it always comes before money changes hands. 領収書 comes after payment and proves it was received; 明細書 shows what was charged; and 内訳 is the itemized breakdown within a billing document. Reversing the 請求書 and 領収書 sequence creates a false record in the client's accounting system and makes it nearly impossible to follow up on an unpaid balance without an awkward correction.

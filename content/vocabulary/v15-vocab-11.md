@@ -47,4 +47,4 @@ Students often swap 発送 and 配達, and it's worth drilling the difference cl
 
 **Correct Answer:** 発送 (shipping / sending)
 
-**Explanation:** 発送 (hassou) means shipping: sending items domestically or internationally. 荷物 = luggage, 受取 = pickup/receipt, 配達 = delivery.
+**Explanation:** 発送 belongs to the sender's end of the journey, covering the dispatching of items from the hotel outward, whether guests are shipping souvenirs home or forwarding luggage to their next destination. In guest-facing speech, 発送いたします or お送りいたします is the expected register rather than the plain verb form. 配達 is the arrival end of the same journey, 受取 is the act of collecting from the recipient's perspective, and 荷物 is the term for the luggage or parcel itself.

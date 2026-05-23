@@ -47,4 +47,4 @@ The most common error is using クリーニング to mean general cleaning, as i
 
 **Correct Answer:** クリーニング (dry cleaning)
 
-**Explanation:** クリーニング (kuriiningu) means dry cleaning: professional fabric cleaning using chemical solvents. 洗濯 = regular washing, アイロン = ironing, ランドリー = laundry service.
+**Explanation:** クリーニング in Japanese specifically means professional dry cleaning using chemical solvents, the required method for suits, silk, and garments whose care labels say no water washing. Recommending クリーニング when a guest brings a delicate piece protects the garment and demonstrates real expertise. 洗濯 is water-based washing and would damage many of these fabrics, ランドリー refers to the general washing service or facility, and アイロン is the pressing appliance used after cleaning.

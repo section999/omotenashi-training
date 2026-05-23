@@ -41,4 +41,4 @@ A common error is treating 打ち合わせ as completely interchangeable with �
 
 **Answer:** 打ち合わせ
 
-**Explanation:** 打ち合わせ (uchiawase) means briefing or coordination meeting: a short, informal gathering to align on tasks before beginning work.
+**Explanation:** 打ち合わせ is the informal, short-form coordination session that happens constantly between hospitality departments, chefs syncing with banquet staff, front desk briefing the next shift, without requiring an agenda or formal minutes. Using 会議 for these situations would sound overly bureaucratic, and confusing it with a 報告 or 引き継ぎ would miss the collaborative, two-way nature of a 打ち合わせ.

@@ -44,4 +44,4 @@ Students sometimes mix up 延長料金 with 超過料金 (chouka ryoukin), which
 
 **Answer:** 延長料金
 
-**Explanation:** 延長料金 (enchou ryoukin) means extension fee: an additional charge applied when a service is used beyond the standard allotted time.
+**Explanation:** 延長料金 is specifically a time-based supplemental charge that applies when a guest keeps a service, room, locker, or facility beyond its standard allotted period. In hospitality practice, communicating it proactively and with empathy, rather than surprising a guest at payment, is what separates a professional from an inexperienced staff member. 追加料金 is the broader term for any supplemental fee, while 延長料金 is its time-extension subtype, and 罰金 (penalty fine) has no place in hospitality speech because of its accusatory tone.

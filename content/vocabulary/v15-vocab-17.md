@@ -44,4 +44,4 @@ A common confusion is between 引換券 and クーポン (kuupon, coupon). Coupo
 
 **Correct Answer:** 引換券 (exchange ticket / voucher)
 
-**Explanation:** 引換券 (hikikaeken) means claim ticket: a receipt used to retrieve stored luggage or valuables. 管理番号 = tracking number, ロッカー = locker, 荷物 = luggage.
+**Explanation:** 引換券 is the claim ticket issued at the moment an item is accepted for storage, laundry, or any service where the guest will return to collect it later, and it creates the verifiable link that allows only the right person to retrieve the right item. In Japanese hospitality, the correct verb when using the ticket is 提示する (to present or show), not 使う (to use), because presenting it is a verification act, not redeeming a coupon. 管理番号 is the tracking code often printed on the ticket, ロッカー is a self-service compartment with no ticket involved, and 荷物 names the physical bags themselves.

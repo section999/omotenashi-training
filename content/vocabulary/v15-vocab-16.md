@@ -41,4 +41,4 @@ Students often translate 管理番号 literally as "management number," which so
 
 **Answer:** 管理番号
 
-**Explanation:** 管理番号 (kanri bangou) means tracking number: a unique code assigned to luggage or shipments for accurate tracking.
+**Explanation:** 管理番号 is the unique identifying code assigned to an item so that it can be traced to its rightful owner at any point in the handling process, whether on a luggage tag, courier slip, or laundry ticket. In English its natural equivalent shifts by context: "tracking number" for shipments, "reference number" for bookings, "claim number" for stored bags. Using the full term rather than just 番号 in guest communication matters because vague phrasing creates confusion precisely when accuracy counts most.

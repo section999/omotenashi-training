@@ -47,4 +47,4 @@ Students often use 病院 for any medical facility, but in Japanese, small outpa
 
 **Correct Answer:** 病院 (hospital)
 
-**Explanation:** 病院 (byouin) means hospital: the medical facility for serious illness or injury. 消防車 = fire truck, 警報 = alarm, 安全 = safety.
+**Explanation:** 病院 is the medical facility equipped with professional staff and diagnostic capability for serious conditions, and getting a guest there quickly, with transport arranged and a call made ahead, is part of the omotenashi standard, not just handing over an address. The wrong options name a firefighting vehicle, an emergency signal, and a general safety concept, none of which provides medical care.

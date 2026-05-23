@@ -45,4 +45,4 @@ A common mistake is using 理解しました in place of かしこまりまし�
 
 **Correct Answer:** 理解しました (I understand)
 
-**Explanation:** 理解しました is slightly more formal than わかりました: in guest-facing phone communication, かしこまりました is the most formal option and appropriate for high-end hotels; using the right register signals respect for the guest's status.
+**Explanation:** 理解しました indicates genuine comprehension of complex or detailed information, carrying a more deliberate tone than the everyday わかりました, which is why it fits situations where a guest has just explained a nuanced request or special circumstance. わかりました is the natural choice for routine acknowledgments but sounds too casual when a guest gives a formal instruction, where かしこまりました is actually the expected response in luxury settings. 確認します and 少々お待ちください belong to different stages of service entirely and do not express understanding at all.

@@ -41,4 +41,4 @@ Because ロッカー comes straight from English, students sometimes assume it m
 
 **Answer:** ロッカー
 
-**Explanation:** ロッカー (rokkaa) means locker: a secure compartment for storing personal belongings, operated with a key, code, or coin.
+**Explanation:** ロッカー is the self-service storage compartment that guests operate on their own using a key, digital code, or coin, and in Japan they are found at virtually every major train station and tourist site. The defining feature that sets ロッカー apart from staffed 荷物預かり is that no staff involvement is needed: the guest takes full responsibility once the compartment is locked. When speaking quickly, avoid shortening ロッカー to ロック, which means "lock" or "rock music" and would genuinely confuse a guest asking for somewhere to store their bag.

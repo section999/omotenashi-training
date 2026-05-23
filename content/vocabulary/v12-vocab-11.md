@@ -47,4 +47,4 @@ Students often reach for 危険 when 注意 is actually the right word. A slight
 
 **Correct Answer:** 危険 (danger)
 
-**Explanation:** 危険 (kiken) means danger: a situation posing risk to life or property. 安全 = safety, 救助 = rescue, 警報 = alarm.
+**Explanation:** 危険 describes a condition that poses genuine risk of harm to life or property, sitting at the serious end of the hazard scale above 注意 and 警告. 安全 is its direct opposite, 救助 is the action you take when someone is already in harm's way, and 警報 is the audible signal that announces the danger rather than describing it.

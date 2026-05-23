@@ -47,4 +47,4 @@ One dangerous and common mistake is attempting to use a 消火器 on a fire that
 
 **Correct Answer:** 消火器 (fire extinguisher)
 
-**Explanation:** 消火器 (shoukaki) means fire extinguisher: the device used to suppress small fires before they spread. 救急車 = ambulance, 警報 = alarm, 避難 = evacuation.
+**Explanation:** 消火器 is the portable fire extinguisher you reach for during that brief initial window when a contained flame can still be stopped before it spreads. 救急車 is an ambulance for medical emergencies, 警報 is an alarm system that signals danger, and 避難 is the action of evacuating, none of which are the piece of suppression equipment this scenario calls for. Every staff member should know the location of the nearest 消火器 on their floor before they ever need it, because that window for initial firefighting is short.

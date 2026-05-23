@@ -47,5 +47,5 @@ A common error is using 決済 in casual conversation with guests who may find i
 
 **Correct Answer:** 決済 (payment settlement)
 
-**Explanation:** 決済 covers all payment processing methods: when a 決済 fails (card declined, system error), remain calm and say 少々お待ちください、確認いたします (please wait, I will check); never say ダメです or カードが使えません in front of other guests as it embarrasses the guest.
+**Explanation:** 決済 is the act of processing and completing a financial transaction, covering credit cards, electronic money, bank transfers, and cash. 合計 is the amount to be paid, 内訳 is the breakdown of charges, and 領収書 is what comes after payment is done; none of them describe the processing act itself. When a 決済 fails, staying composed and saying 少々お待ちください、確認いたします protects the guest's dignity and prevents a moment of embarrassment from becoming a lasting complaint.
 

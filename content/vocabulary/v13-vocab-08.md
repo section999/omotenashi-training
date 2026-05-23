@@ -41,4 +41,4 @@ Students often assume 退勤 is simply the moment you physically leave the build
 
 **Answer:** 退勤
 
-**Explanation:** 退勤 (taikin) means leaving work: finishing the shift and departing the workplace, opposite of 出勤 (arriving).
+**Explanation:** 退勤 is the formal conclusion of a shift, clocking out and completing all handover responsibilities before leaving, and it is the direct counterpart to 出勤 in the attendance pair that every hospitality professional manages daily. The wrong answer, 出勤, covers arrival rather than departure, making it the most tempting confusion to watch out for.

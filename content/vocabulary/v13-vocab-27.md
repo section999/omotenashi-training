@@ -47,4 +47,4 @@ Students sometimes assume マニュアル is a negative term, imagining robotic 
 
 **Correct Answer:** マニュアル (manual)
 
-**Explanation:** マニュアル (manyuaru) means manual: a reference document with detailed instructions. 手順 = procedure (steps), 研修 = training programme, 指導 = guidance.
+**Explanation:** マニュアル is the document itself, the authoritative reference that compiles all service standards and procedures so that every staff member works from the same playbook. 手順 describes the sequential steps written inside that document; 研修 is the structured programme during which staff study it; and 指導 is the human mentorship that brings its content to life on the floor.

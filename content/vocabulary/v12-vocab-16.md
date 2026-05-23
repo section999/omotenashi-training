@@ -47,4 +47,4 @@ Never use plain 医者 when speaking to or about the doctor in a respectful cont
 
 **Correct Answer:** 医者 (doctor)
 
-**Explanation:** 医者 (isha) means doctor: the medical professional to call for illness or injury. 消防車 = fire truck, 警察 = police, 救助 = rescue.
+**Explanation:** 医者 is the licensed medical professional who diagnoses, treats, and advises, making them the right person to contact when a guest is seriously ill. In a formal hotel context, always use お医者様 or 先生 rather than the bare noun, since plain 医者 sounds dismissive; the other options, 消防車, 警察, and 救助, address fire, crime, and physical rescue respectively, none of which is appropriate for medical illness.

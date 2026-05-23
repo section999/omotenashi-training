@@ -44,4 +44,4 @@ Students sometimes treat 前払い and デポジット as the same thing: a depo
 
 **Correct Answer:** 前払い (prepayment)
 
-**Explanation:** 前払い secures the booking: when informing a guest that 前払いが必要です (prepayment is required), always provide the payment deadline and accepted methods so they can complete it without friction.
+**Explanation:** 前払い means paying before the service is received, which is exactly what an advance payment plan requires, and communicating it clearly includes both the deadline and the accepted methods so the guest has no friction completing it. 後払い is the opposite timing, while 一括払い and 分割払い describe how a payment is structured at the time of settlement, not when it occurs relative to the stay.

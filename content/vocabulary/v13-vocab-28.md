@@ -41,4 +41,4 @@ A common mistake is using 効率 only in negative constructions such as「効率
 
 **Answer:** 効率
 
-**Explanation:** 効率 (kouritsu) means efficiency: achieving desired results using minimal time and resources; a key measure of operational success.
+**Explanation:** 効率 captures the idea of achieving the best possible outcome from the time and resources available, a constant focus in hospitality operations where guest care and speed must both stay high. It is worth separating from 速度 (speed alone), because 効率 is about optimal use of resources, not simply going faster, and that distinction comes up whenever staff discuss workflow improvements or 改善 proposals.

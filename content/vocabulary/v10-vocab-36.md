@@ -44,5 +44,5 @@ A common mistake is pointing vaguely at a document and saying "sign here" withou
 
 **Correct Answer:** 署名 (signature)
 
-**Explanation:** 署名 is a legal document: when requesting a 署名, indicate exactly where to sign (こちらにご署名をお願いいたします) and briefly explain what is being signed (ご利用料金の確認書でございます) so the guest knows what they are authorizing.
+**Explanation:** 署名 is the guest's handwritten authorization on a credit card slip or registration form, carrying legal weight that distinguishes it from 承認, which is a system-level card network approval, 明細書, which is a record of charges, and 精算, which refers to the settlement process. When requesting a 署名, always point clearly to the signing field and briefly name what is being signed, such as ご利用料金の確認書でございます, so the guest authorizes with full understanding rather than blind compliance.
 

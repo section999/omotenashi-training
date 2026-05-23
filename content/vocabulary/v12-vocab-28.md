@@ -47,4 +47,4 @@ Students often confuse 緊急対応 with 応急処置, thinking they're basicall
 
 **Correct Answer:** 緊急対応 (emergency response)
 
-**Explanation:** 緊急対応 (kinkyuu taiou) means emergency response: coordinated actions taken to handle a crisis. 注意 = caution, 点検中 = under inspection, 応急処置 = first aid.
+**Explanation:** 緊急対応 is the full coordinated system of procedures and communications that activates when a serious, time-critical incident occurs, and every department, not just security or management, has defined roles within it. 応急処置 is one narrow component covering immediate medical care, while 注意 and 点検中 belong to routine operational communication rather than crisis response.

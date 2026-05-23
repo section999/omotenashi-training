@@ -44,4 +44,4 @@ Students sometimes say 荷物預かりをしてください when speaking with g
 
 **Answer:** 荷物預かり
 
-**Explanation:** 荷物預かり (nimotsu azukari) means luggage storage: a service where staff temporarily holds bags for guests.
+**Explanation:** 荷物預かり is the staff-managed service where the hotel holds guests' bags temporarily on their behalf, typically between arrival and check-in or after check-out until departure. Offering it proactively rather than waiting to be asked is a signature omotenashi gesture because it removes a real friction point from the travel day. Unlike a ロッカー, where guests manage their own belongings independently, 荷物預かり carries a staff responsibility, which is why issuing a 引換券 and logging each item at the time of acceptance is standard practice.

@@ -48,4 +48,4 @@ A frequent issue is not knowing whose 留守番電話 was actually checked, whic
 
 **Correct Answer:** 留守番電話 (voicemail / answering machine)
 
-**Explanation:** 留守番電話 (voicemail) must be checked regularly: a hotel that fails to return voicemail messages within a reasonable time creates an impression of negligence; assigning a staff member to check 留守番電話 at set intervals is good practice.
+**Explanation:** 留守番電話 is the system that records messages when no one is available to answer, with 留守 meaning "guarding the house while away," which is why it describes a recording function rather than a routing menu like 音声案内, a live contact like 担当者, or an in-house line like 内線. Checking it at regular intervals and always acknowledging received voicemails with 留守番電話にメッセージをいただきました、ありがとうございます before calling back keeps the trust that the recording system was meant to preserve.

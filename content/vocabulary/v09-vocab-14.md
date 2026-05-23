@@ -44,5 +44,5 @@ Learners sometimes confuse 割引 with 値引き and use the two interchangeably
 
 **Correct Answer:** 割引 (discount)
 
-**Explanation:** 割引 is the structured price reduction that applies to early-bird and promotional bookings, making it the right answer when a guest asks about a lower rate for booking in advance. 追加料金 goes in the opposite direction, 特典 is a complimentary benefit, and プラン is the overall booking package — none of these describe a price reduction.
+**Explanation:** 割引 is the structured price reduction that applies to early-bird and promotional bookings, making it the right answer when a guest asks about a lower rate for booking in advance. 追加料金 goes in the opposite direction, 特典 is a complimentary benefit, and プラン is the overall booking package, none of these describe a price reduction.
 

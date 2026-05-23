@@ -48,4 +48,4 @@ Students often treat 宿泊税 as part of 消費税, which is incorrect. They ar
 
 **Correct Answer:** 宿泊税 (accommodation tax)
 
-**Explanation:** 宿泊税 varies by city and room rate: Tokyo and Osaka have different 宿泊税 thresholds; always confirm the applicable local rate at the time of billing, as staff who quote outdated rates create legal and financial compliance risks.
+**Explanation:** 宿泊税 is a locally administered accommodation tax levied per person per night, and its rate varies by city and room price tier, which makes it distinct from the national 消費税 applied uniformly across Japan. 消費税 is a federal consumption tax, サービス料 is a service charge distributed among staff, and 手数料 is a transaction processing fee; none of them are accommodation-specific local levies. Mentioning 宿泊税が別途かかります during check-in takes seconds and prevents the checkout moment where a guest notices a charge they were never told about, which is exactly the kind of avoidable surprise that omotenashi is designed to eliminate.

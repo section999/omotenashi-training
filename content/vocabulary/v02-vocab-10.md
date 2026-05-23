@@ -45,4 +45,4 @@ Using 見せてください (please show me) is technically correct Japanese, bu
 
 **Correct Answer:** 拝見 (to humbly look at / see)
 
-**Explanation:** 拝見 (haiken) is the humble form of "to look at," making it the only respectful choice when viewing a document that belongs to a guest. 確認 sounds clinical, 見て is too casual and direct, and 検査 implies a formal inspection — none carry the deference that handling a passport deserves.
+**Explanation:** 拝見 (haiken) is the humble form of "to look at," making it the only respectful choice when viewing a document that belongs to a guest. 確認 sounds clinical, 見て is too casual and direct, and 検査 implies a formal inspection, none carry the deference that handling a passport deserves.

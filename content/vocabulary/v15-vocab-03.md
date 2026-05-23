@@ -47,4 +47,4 @@ Students sometimes get confused because 乾燥 describes both drying laundry and
 
 **Correct Answer:** 乾燥 (drying)
 
-**Explanation:** 乾燥 (kansou) means drying: removing moisture from washed items using a dryer or air drying. 洗濯 = washing, 洗剤 = detergent, アイロン = iron.
+**Explanation:** 乾燥 names the drying step in the laundry process, the essential stage after washing that prevents mildew and prepares garments for use, and in hotel service contexts it almost always refers to machine or air drying rather than environmental dryness. Knowing when to recommend the dryer versus air drying for delicate fabrics is part of attentive laundry service. The other options address different stages: 洗濯 is the washing step that comes first, 洗剤 is the cleaning agent added during washing, and アイロン removes wrinkles after drying.

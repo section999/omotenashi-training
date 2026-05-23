@@ -47,4 +47,4 @@ Students often swap 警報 and 警告, but the distinction matters. 警報 is a 
 
 **Correct Answer:** 警報 (alarm)
 
-**Explanation:** 警報 (keihou) means alarm or warning signal: an auditory or visual alert to danger. 安全 = safety, 事故 = accident, 救助 = rescue.
+**Explanation:** 警報 is a broadcast emergency signal directed at everyone in a building, demanding immediate protective action from all occupants and staff. The wrong options name things that happen around emergencies but are not the signal itself: 安全 is the goal you work toward, 事故 is what may have caused the emergency, and 救助 is the response that follows.

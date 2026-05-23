@@ -44,4 +44,4 @@ Learners sometimes confuse 音声案内 with 留守番電話 (voicemail), but th
 
 **Correct Answer:** 音声案内 (audio guidance)
 
-**Explanation:** 音声案内 is the automated phone menu: when a guest seems confused by it, offer to guide them through (音声案内で1番を押してください、その後に2番をお押しください); stepping the guest through the IVR system personally is a small but memorable act of service.
+**Explanation:** 音声案内 is the automated voice menu that routes callers by prompting key presses, distinguishing it from 留守番電話 which records messages when no one is available, 担当者 as a live person, and 内線 as an internal extension number. When a guest sounds uncertain about the menu, stepping them through it personally, 音声案内で1番を押してください, is a small but genuinely memorable expression of omotenashi in telephone service.

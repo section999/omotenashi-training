@@ -44,4 +44,4 @@ Returning お釣り without stating the amount aloud removes the transparency ch
 
 **Correct Answer:** お釣り (change / money returned)
 
-**Explanation:** お釣りは500円でございます (your change is 500 yen): always state the amount aloud while handing it over; counting change visibly on the counter (お客様の前で数える) is standard practice in Japanese service to confirm accuracy to both parties.
+**Explanation:** お釣り is the change returned when a guest overpays, and handling it well is a small ceremony that carries real weight in Japanese hospitality. The wrong options miss the service action entirely: 領収書 is issued after payment, 合計 is the total owed, and 精算 is the account settlement process. Counting the お釣り aloud, stating the amount clearly, and returning it on a tray with both hands turns a routine cash transaction into a visible demonstration of attentiveness.

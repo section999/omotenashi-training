@@ -47,4 +47,4 @@ Students sometimes treat ツアー and 観光 as if they mean the same thing, bu
 
 **Correct Answer:** ツアー (tour)
 
-**Explanation:** ツアー (tsuaa) means tour: a planned sightseeing itinerary with transportation and guidance. ガイド = guide, 観光地 = tourist spot, 名所 = famous place.
+**Explanation:** ツアー (tsuaa) is an organized sightseeing package that bundles transportation, guidance, and often entry fees into a single product, letting guests hand the logistics over so they can focus on the experience itself. ガイド names the person providing expertise rather than the packaged itinerary, while 観光地 and 名所 describe places to visit rather than the organized service that takes guests there.

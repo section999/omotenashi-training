@@ -44,4 +44,4 @@ Students often mix up 通報 and 報告, but the direction of communication is w
 
 **Answer:** 通報
 
-**Explanation:** 通報 (tsuuhou) means reporting to authorities: notifying emergency services such as police or fire department.
+**Explanation:** 通報 is the formal act of notifying an external authority, such as the fire department or police, that an emergency requires their intervention, and every staff member should be able to make this call with the hotel's full address and key incident details ready. It is distinct from 報告, which is internal communication to a supervisor: both happen during a crisis, and neither replaces the other.

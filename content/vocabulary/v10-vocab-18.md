@@ -47,5 +47,5 @@ Learners frequently confuse 利用明細 with 領収書 and offer one when the g
 
 **Correct Answer:** 利用明細 (usage statement)
 
-**Explanation:** 利用明細 is specific to itemized usage history: a corporate guest submitting expenses needs 利用明細 to show each charge individually; offering to email it proactively (メールでお送りいたしましょうか) saves the guest from having to ask.
+**Explanation:** 利用明細 lists every charge incurred during a stay line by line, making it the document of choice for business travelers who need to account for each expense. 明細書 is a slightly more formal version of the same concept and could reasonably be argued for here; the distinction is that 利用明細 is what staff say in conversation, while 明細書 tends to appear as the heading on the document itself. 領収書 only confirms that payment was made, and 伝票 is an internal record; neither gives the guest the charge-by-charge transparency they need for expense reporting. Proactively offering to send the 利用明細 by email signals that you understand how business travel works, and that kind of anticipation is the heart of omotenashi in a billing context.
 

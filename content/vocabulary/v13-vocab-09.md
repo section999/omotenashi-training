@@ -47,4 +47,4 @@ The most common mistake is confusing 休憩 with 休み. A sentence like 「今�
 
 **Correct Answer:** 休憩 (break)
 
-**Explanation:** 休憩 (kyuukei) means break: a scheduled rest period during work. 休み = day off, 残業 = overtime, 勤務 = duty.
+**Explanation:** 休憩 is the rest period that occurs within a working shift, legally required and operationally essential for sustaining guest-service quality across a long day. The other options miss this meaning entirely: 休み is a full day off rather than a break, 残業 is the extension of work beyond normal hours, and 勤務 refers to the working period itself.

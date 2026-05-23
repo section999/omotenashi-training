@@ -47,4 +47,4 @@ Students often confuse 消防車 (fire truck) with 消火器 (fire extinguisher)
 
 **Correct Answer:** 消防車 (fire truck)
 
-**Explanation:** 消防車 (shoubousha) means fire truck: the specialised vehicle used to fight fires. 救急車 = ambulance, 警察 = police, タクシー = taxi.
+**Explanation:** 消防車 is the specialised firefighting vehicle dispatched via 119, equipped to suppress fires and carry out structural rescues that no other service can perform. 救急車 handles medical emergencies, 警察 handles criminal incidents, and タクシー is a guest transport option with no role in fire response whatsoever.

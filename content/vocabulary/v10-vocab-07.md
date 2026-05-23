@@ -48,4 +48,4 @@ A common mistake is stating the 合計 too quickly or without any visual referen
 
 **Correct Answer:** 合計 (total)
 
-**Explanation:** 合計 is the number the guest sees last before paying: saying 合計〇〇円でございます (the total is〜yen) clearly and slowly, while showing the screen or printout, prevents mishearing and avoids the need to reprocess the transaction.
+**Explanation:** 合計 is the final, all-inclusive figure communicated to a guest before payment, and stating it clearly with a visual reference is a professional standard in Japanese hospitality. The wrong options point to related but distinct steps: 内訳 breaks down how the total was reached, 精算 is the reconciliation process, and 領収書 comes after payment. Saying 合計〇〇円、税込でございます while pointing to the screen leaves no ambiguity and prevents the kind of misunderstanding that is very hard to undo once a transaction has been processed.

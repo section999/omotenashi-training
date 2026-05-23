@@ -47,4 +47,4 @@ Students sometimes mix up 料金表 with 値段 (nedan, a single item's price) o
 
 **Correct Answer:** 料金表 (price list)
 
-**Explanation:** 料金表 (ryoukinhyou) means price list: a display of fares or costs for transport or services. 切符 = ticket, ICカード = IC card, 時刻表 = timetable.
+**Explanation:** 料金表 (ryoukinhyou) is an officially formatted posted table showing fares or costs, and in Japan its presence signals transparency and trustworthiness in a service setting. 切符 is the document that grants passage rather than the display that shows its cost, ICカード is the payment tool rather than the pricing reference, and 時刻表 is a schedule of departure times rather than a listing of what those journeys cost.

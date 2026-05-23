@@ -45,5 +45,5 @@ If a guest asks for a 歯ブラシ, bring the toothpaste along too. They are a p
 
 **Correct Answer:** お持ち (bringing (polite))
 
-**Explanation:** お持ちいたします means "I will bring it" — the お持ち stem combined with いたします forms the humble phrase that signals you are taking action on the guest's behalf. お掃除, お取り, and お借り describe cleaning, taking away, and borrowing respectively, none of which is the right response to a guest who needs a toothbrush delivered.
+**Explanation:** お持ちいたします means "I will bring it", the お持ち stem combined with いたします forms the humble phrase that signals you are taking action on the guest's behalf. お掃除, お取り, and お借り describe cleaning, taking away, and borrowing respectively, none of which is the right response to a guest who needs a toothbrush delivered.
 

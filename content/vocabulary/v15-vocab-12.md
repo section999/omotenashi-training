@@ -41,4 +41,4 @@ Learners sometimes confuse 受取 with 受付 (uketsuke), which means "reception
 
 **Answer:** 受取
 
-**Explanation:** 受取 (uketori) means pickup or receipt: the act of receiving goods, parcels, or laundry with verification.
+**Explanation:** 受取 is the act of physically receiving or collecting an item through a formal handover process, and in Japanese hospitality the moment of 受取 is when accountability transfers from the hotel to the guest, which is why verification of identity or claim ticket is standard before releasing anything. In guest-facing speech, the polite form お受け取り is required; dropping the honorific sounds abrupt in a hotel environment. 受付 is a common confusion but it refers to the reception desk itself, not the act of receiving an item.

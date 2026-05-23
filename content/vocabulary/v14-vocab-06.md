@@ -44,4 +44,4 @@ The most common mix-up is between 出国 and 出発. Both involve leaving somewh
 
 **Answer:** 出国
 
-**Explanation:** 出国 (shukkoku) means departure from a country: the process of leaving, involving passport checks and security clearance.
+**Explanation:** 出国 (shukkoku) is the formal process of leaving Japan through an official port of exit, and it represents the final service opportunity a hospitality professional has to leave a lasting impression on a departing guest. 入国 is its direct opposite, while 出発 is a general-purpose departure word used for leaving a hotel or station, not a national border, making it too broad to be the answer here.

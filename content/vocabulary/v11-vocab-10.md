@@ -48,4 +48,4 @@ The single most important error to avoid is offering 折り返し without a time
 
 **Correct Answer:** 折り返し (call back / return call)
 
-**Explanation:** 折り返し must include a timeframe: saying 折り返しご連絡いたします without a time leaves the guest waiting indefinitely; adding 〇時間以内に (within〜hours) or 本日中に (by end of day) sets a clear expectation and holds the staff accountable.
+**Explanation:** 折り返し specifically means the hotel reaches back out after an initial call could not be fully resolved, which is different from leaving a 伝言 for someone else, placing a caller on 保留 mid-call, or redirecting them via 転送. The promise only has real weight when you attach a timeframe, so pair it with 1時間以内に or 本日中に and treat pending callbacks as a standing commitment to be tracked and handed over at shift change.

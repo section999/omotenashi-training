@@ -48,4 +48,4 @@ Students often treat 再確認 as unnecessary for non-VIP guests and skip it, bu
 
 **Correct Answer:** 再確認 (reconfirmation)
 
-**Explanation:** 再確認 is best done 24–48 hours before arrival for VIP or large bookings: a brief confirmation call (明日のご到着をお待ちしております) also doubles as a warm welcome and gives guests a chance to update any late changes.
+**Explanation:** 再確認 is the act of verifying all reservation details a second time before the guest arrives, and the ideal window is 24 to 48 hours out when small errors can still be corrected easily. The other options describe different states of a booking: 確定 is confirmation at booking time, 仮予約 is a provisional hold, and 予約変更 is an active modification, none of which captures the quality-check function of re-reading details back to the guest before arrival.

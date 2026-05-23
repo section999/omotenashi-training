@@ -44,4 +44,4 @@ A straightforward but important mistake is confusing 洗剤 (senzai, detergent f
 
 **Answer:** 洗剤
 
-**Explanation:** 洗剤 (senzai) means detergent: a cleaning substance that removes dirt, grease, and stains from fabrics.
+**Explanation:** 洗剤 is the cleaning agent used inside the washing machine to remove dirt, stains, and odours from fabrics, and in a hotel laundry room, providing it free of charge is a small but appreciated gesture of omotenashi. It is distinct from 柔軟剤 (fabric softener), which goes into a different machine compartment and should never be confused with detergent. The act of washing itself is 洗濯, the drying step is 乾燥, and the pressing appliance is アイロン.

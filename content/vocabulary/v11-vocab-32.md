@@ -45,4 +45,4 @@ Students sometimes treat 日本語対応 as redundant within Japan and leave it 
 
 **Correct Answer:** 日本語対応 (Japanese support)
 
-**Explanation:** 日本語対応 is the default expectation in Japan: however, specifying 日本語対応 is useful when advertising to international operators or on multilingual websites, signaling that Japanese-speaking guests will receive full service rather than being redirected to a translator.
+**Explanation:** 日本語対応 explicitly states that full service in Japanese is available, which matters on multilingual booking platforms where Japanese-speaking international guests cannot take it for granted. 英語対応 names the counterpart capability in English, 外国語 covers non-Japanese languages broadly, and 通訳 names an interpretation service rather than a built-in language capability. Stating 日本語対応 clearly reassures guests that they will be served naturally in their own language rather than routed through a translator.

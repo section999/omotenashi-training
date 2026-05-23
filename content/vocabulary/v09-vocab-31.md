@@ -48,4 +48,4 @@ Learners sometimes use 当日予約 and 直前予約 interchangeably, but they c
 
 **Correct Answer:** 当日予約 (same-day reservation)
 
-**Explanation:** 当日予約 is more specific than 直前予約: it means the booking AND the stay happen on the same calendar day; these guests often have less negotiating leverage on rate, but treating them warmly encourages return visits and positive reviews.
+**Explanation:** 当日予約 precisely names a booking where the reservation and the check-in date are the same calendar day, which is what the sentence describes. 直前予約 is a subset of same-day booking that implies the guest is arriving within hours, making it more urgent but narrower in scope, while 仮予約 and 延長 describe completely different reservation actions.

@@ -48,4 +48,4 @@ A common mistake with 連泊 guests is applying the same full-turnover housekeep
 
 **Correct Answer:** 連泊 (consecutive nights / multi-night stay)
 
-**Explanation:** 連泊 guests have unique needs: they may not want daily full housekeeping, and some prefer to keep their room undisturbed; proactively asking 毎日の清掃は必要でしょうか (do you need cleaning every day?) shows respect for their privacy.
+**Explanation:** 連泊 specifically means staying consecutive nights without checking out, which carries housekeeping and billing implications that a simple 滞在 does not convey. A thoughtful staff member confirms the guest's housekeeping preference at check-in, since many 連泊 guests value their privacy and do not want a full turnover clean every day. 滞在 and 宿泊日 are too general, and 何泊 is a question form, not a descriptive term.

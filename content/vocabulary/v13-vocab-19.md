@@ -47,4 +47,4 @@ Students sometimes reach for 質問があります (shitsumon ga arimasu: "I hav
 
 **Correct Answer:** 相談 (consultation)
 
-**Explanation:** 相談 (soudan) means consultation: seeking advice or discussing issues with a colleague or supervisor. 指導 = guidance, 報告 = report, 連絡 = contact.
+**Explanation:** 相談 is the act of bringing a problem or uncertain decision to a colleague or superior to work through it together, and in Japanese workplace culture it is a sign of professional maturity, not weakness. 指導 comes from the other direction, where someone is giving guidance to you; 報告 delivers a finished account of events rather than opening a collaborative discussion; and 連絡 is neutral information-sharing, not advice-seeking.

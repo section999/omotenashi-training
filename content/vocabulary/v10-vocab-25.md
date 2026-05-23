@@ -48,4 +48,4 @@ Quoting an exchange rate from memory or using yesterday's figure is a common and
 
 **Correct Answer:** 外貨 (foreign currency)
 
-**Explanation:** 外貨 handling requires knowing the day's 為替レート: hotels that accept 外貨 should display the current rate prominently (本日の為替レートはこちらです) so guests can decide whether to pay in foreign currency or convert first.
+**Explanation:** 外貨 refers to any currency issued by a foreign government, and knowing your property's policy on accepting it is the starting point for serving international guests well. 為替 is the exchange rate applied to 外貨, 両替 is the act of converting it, and 残高 is an account balance; each describes a different step in a transaction rather than the currency itself. A guest who arrives with 外貨 and is met with clear, confident guidance, whether the property accepts it directly or can point to the nearest 両替所, leaves that interaction feeling looked after rather than left to figure things out alone.

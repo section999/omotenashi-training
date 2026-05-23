@@ -48,4 +48,4 @@ Dropping 担当 and just saying 部署 loses the specificity that reassures the 
 
 **Correct Answer:** 担当部署 (responsible department)
 
-**Explanation:** 担当部署: when routing a call, naming the department (例: 予約担当部署、客室担当部署) before transferring prepares the guest for who will answer and prevents the confusion of an unexplained ring to an anonymous extension.
+**Explanation:** 担当部署 names the whole team or division responsible for a type of inquiry, which gives a caller a clearer picture than 担当者 alone when the specific individual has not yet been identified, and far more than 受付 or フロント which both describe entry-point functions rather than specialist ownership. Always say the department name before transferring, such as 宴会担当部署にお繋ぎいたします, because an unexplained transfer to a ringing extension with no context is one of the most disorienting things a caller can experience.

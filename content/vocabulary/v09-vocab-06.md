@@ -47,4 +47,4 @@ Students sometimes substitute 宿泊 for 滞在 in the phrase お滞在中, prod
 
 **Correct Answer:** 滞在 (stay)
 
-**Explanation:** 滞在 describes the overall time a guest spends at the hotel as a continuous experience, from the moment they arrive to the moment they leave. 宿泊日 names the calendar dates, 到着日 marks only the first day, and 出発日 marks only the last — none of these capture the lived experience of the stay as a whole the way 滞在 does.
+**Explanation:** 滞在 describes the overall time a guest spends at the hotel as a continuous experience, from the moment they arrive to the moment they leave. 宿泊日 names the calendar dates, 到着日 marks only the first day, and 出発日 marks only the last, none of these capture the lived experience of the stay as a whole the way 滞在 does.

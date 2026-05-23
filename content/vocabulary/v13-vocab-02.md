@@ -44,4 +44,4 @@ A common error is reaching for スタッフ in formal written documents, employm
 
 **Correct Answer:** スタッフ (staff)
 
-**Explanation:** スタッフ (sutaffu) means staff: the collective personnel supporting operations. 上司 = boss, 同僚 = colleague, 従業員 = employee (more formal).
+**Explanation:** スタッフ is the approachable, team-oriented term that appears on guest signage, event programmes, and in everyday operational speech precisely because it sounds collegial rather than institutional. The other options name individuals by their role or rank, where 上司 is the person above you, 同僚 is a peer, and 従業員 is the formal legal category, none of which captures the collective, service-focused meaning that スタッフ carries in hospitality.

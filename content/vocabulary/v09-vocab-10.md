@@ -44,4 +44,4 @@ Students often assume the adult threshold follows the legal adulthood age of 18,
 
 **Correct Answer:** 大人 (adult)
 
-**Explanation:** 大人 is the adult guest category, so any question about how many adults are in a booking is answered by confirming the 大人 count. 子供 and 幼児 are child categories with different rates and amenity needs, while 人数 is the combined total — using any of these instead of 大人 would not answer the question about adults specifically.
+**Explanation:** 大人 is the adult guest category, so any question about how many adults are in a booking is answered by confirming the 大人 count. 子供 and 幼児 are child categories with different rates and amenity needs, while 人数 is the combined total, using any of these instead of 大人 would not answer the question about adults specifically.

@@ -47,4 +47,4 @@ A common assumption is that all バス services in Japan accept IC cards, but ma
 
 **Correct Answer:** バス (bus)
 
-**Explanation:** バス (basu) means bus: road-based public transport that complements trains by reaching areas without rail access. 電車 = train, タクシー = taxi, 乗り場 = boarding area.
+**Explanation:** バス (basu) is road-based public transport running on fixed routes, and it fills the gaps that Japan's rail network leaves, especially in rural areas and tourist-heavy cities like Kyoto where loop routes are designed specifically for sightseers. 電車 is rail-based and cannot reach road-only destinations, タクシー is hired door-to-door rather than a shared fixed-route service, and 乗り場 is the boarding location rather than the vehicle itself.

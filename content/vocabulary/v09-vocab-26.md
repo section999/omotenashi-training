@@ -47,5 +47,5 @@ The most serious error is asserting 満室 or confirming availability based on m
 
 **Correct Answer:** 空き状況 (availability)
 
-**Explanation:** 空き状況を確認いたします is the correct response before confirming or denying: never say ありません (we have none) without checking the system; actual availability may differ from what you believe, and an incorrect refusal loses revenue.
+**Explanation:** 空き状況 is the guest-facing term for room availability, and the correct professional habit is always to check the live system before giving any answer, since asserting 満室 from memory risks turning away a booking that was perfectly possible. The other options all refer to time rather than availability: 満席状況 covers seating at a restaurant, while 予約日 and 宿泊日 are date references that do not address the guest's question.
 

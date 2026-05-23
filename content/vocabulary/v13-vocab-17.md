@@ -47,4 +47,4 @@ Students sometimes mix up 報告 and 連絡 (renraku: communication/notification
 
 **Correct Answer:** 報告 (report)
 
-**Explanation:** 報告 (houkoku) means report: sharing information on completed tasks or incidents. 連絡 = contact/communication, 会議 = meeting, 指導 = guidance.
+**Explanation:** 報告 is the upward flow of information to a supervisor about completed tasks or observed incidents, and it is one of the three pillars of ホウレンソウ that underpins professional communication in Japanese hospitality. 連絡 moves information sideways to peers rather than upward to management; 会議 is a group forum, not an act of informing; and 指導 involves receiving guidance rather than delivering information.

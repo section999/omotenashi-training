@@ -45,5 +45,5 @@ Learners often confuse 承認 with 確認, but 確認 is checking facts while �
 
 **Correct Answer:** 承認 (approval)
 
-**Explanation:** 承認 is required for exceptions: discounts above a threshold, refunds, or room upgrades typically need 上司の承認 (supervisor approval); knowing when to escalate for 承認 rather than acting unilaterally protects both the hotel and the staff member.
+**Explanation:** 承認 is the formal authorization that allows a financial or procedural exception to proceed, and it sits above the other options in terms of decision-making authority. 決済 is the act of processing payment once approval is in place, 合計 is a numerical result, and 精算 is the settlement procedure; none of them grant permission. Communicating the need for 承認 smoothly, 少々お時間をいただきますが、上司の承認が必要でございます, keeps the guest informed while ensuring no action is taken outside the staff member's authority.
 

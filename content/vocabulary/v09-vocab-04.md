@@ -47,4 +47,4 @@ Students often use 到着日 and 宿泊日 interchangeably, but 宿泊日 can re
 
 **Correct Answer:** 到着日 (arrival date)
 
-**Explanation:** 到着日 is the date the guest is scheduled to arrive, so any request to come earlier than planned is specifically a change to that date. 出発日 is the checkout date, 宿泊日 covers the full stay window, and 予約日 is when the booking was originally made — none of these are what changes when a guest wants to arrive sooner.
+**Explanation:** 到着日 is the date the guest is scheduled to arrive, so any request to come earlier than planned is specifically a change to that date. 出発日 is the checkout date, 宿泊日 covers the full stay window, and 予約日 is when the booking was originally made, none of these are what changes when a guest wants to arrive sooner.

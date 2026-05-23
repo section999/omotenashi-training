@@ -45,5 +45,5 @@ Not communicating the dinner time is the most consequential mistake you can make
 
 **Correct Answer:** 夕食付き (dinner included)
 
-**Explanation:** 夕食付き: always mention the dinner time and whether a reservation is needed (夕食は18時より、事前のご予約が必要です); a guest who misses dinner because they were not told to reserve will be justifiably frustrated.
+**Explanation:** 夕食付き is the only option that correctly names a dinner-inclusive plan, and at most Japanese properties dinner is served during a specific window that guests need to know about at check-in. The other choices are either the wrong meal (朝食付き), the wrong concept entirely (素泊まり, 特典), or too generic to answer the question.
 

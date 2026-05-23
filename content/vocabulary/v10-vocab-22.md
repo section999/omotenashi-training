@@ -47,4 +47,4 @@ One more thing students frequently miss: telling a guest simply that a 返金 wi
 
 **Correct Answer:** 返金 (refund)
 
-**Explanation:** 返金 requires both verification and speed: always confirm the eligible amount, processing method (original card, bank transfer, cash), and timeline (〇営業日以内に返金いたします) so the guest knows when and how to expect the money back.
+**Explanation:** 返金 is the process of returning money to a guest, and a well-handled refund can actually restore confidence in your property after something went wrong. 取消 is the cancellation that may trigger a refund but is not the refund itself; 支払い方法 describes how payment is made, not how it is returned; and 精算 is the account settlement process. Communicating the amount, the return method, and the timeline in a single clear statement prevents the follow-up calls that happen when guests are left waiting without knowing what to expect.

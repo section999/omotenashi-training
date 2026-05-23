@@ -47,4 +47,4 @@ The most common mistake is printing the 領収書 before confirming the 宛名 -
 
 **Correct Answer:** 領収書発行 (receipt issuance)
 
-**Explanation:** 領収書発行: always ask 宛名はいかがいたしましょうか (what name shall I put on the receipt?) before printing; a receipt with the wrong addressee cannot be used for business reimbursement and will require a time-consuming reissue.
+**Explanation:** 領収書発行 is the act of issuing official proof that payment has been received, and it should be offered proactively rather than waited for. The other options are all billing tools but not proof of payment: 内訳 breaks down charges, 合計 states the total, and 精算 is the settlement process itself. Confirming the 宛名 before printing is the one step that prevents the most common failure: a receipt issued to the wrong name cannot be used for expense reimbursement and requires a reissue that wastes time for everyone.

@@ -45,4 +45,4 @@ Students often assume 領収書 and 明細書 serve the same purpose and offer o
 
 **Correct Answer:** 明細書 (itemized statement)
 
-**Explanation:** 明細書 differs from 領収書: a 領収書 confirms payment was made, while a 明細書 shows what was charged and why; corporate guests often need both: the 明細書 to verify charges and the 領収書 to prove payment to their accounts department.
+**Explanation:** 明細書 provides a line-by-line account of every charge incurred, making it indispensable for corporate guests who need to justify expenses to their accounting departments. 領収書 confirms that payment was made but does not itemize what was charged; 請求書 requests payment before it is received; and 伝票 is an internal transaction slip, not a formal issued document. A corporate guest who receives a 明細書 without being asked can feel their professional needs were genuinely understood, which is exactly the spirit behind offering it proactively.

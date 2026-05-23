@@ -44,4 +44,4 @@ The most common mistake is finishing an explanation without any closing signal, 
 
 **Correct Answer:** 説明します (I will explain)
 
-**Explanation:** ご説明いたします (humble form) is used when briefing guests on procedures: on the phone, a good 説明 includes a summary at the end: 以上が〜のご説明でございます (that concludes the explanation of〜); this signals the guest that you have finished and invites questions.
+**Explanation:** 説明します means to explain information, and its humble form ご説明いたします is the register that hotel guests expect when a staff member walks them through a procedure or policy. 案内します is for directional guidance, 確認いたします is a promise to verify, and お繋ぎします connects a caller to another person, none of which convey the idea of making something clear through explanation. A well-structured 説明 always ends with a summary close, 以上が〇〇のご説明でございます, to signal completion and give the guest a natural opening to ask questions.

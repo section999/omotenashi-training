@@ -47,4 +47,4 @@ Students often forget to mention the non-refundable and prepaid conditions when 
 
 **Correct Answer:** 早割 (early discount)
 
-**Explanation:** 早割 (early bird discount) rewards advance planning: when a guest qualifies, proactively apply it and say 早割が適用され〜円引きとなります (the early bird discount has been applied, saving you〜yen); this makes the guest feel valued without asking.
+**Explanation:** 早割 is the specific term for an advance-booking discount, and when a guest qualifies, best practice is to apply it proactively and tell them how much they are saving, since that small gesture makes guests feel genuinely rewarded. The other options are either too broad (割引, 特典) or a completely different concept (無料キャンセル) that does not explain the rate advantage the guest earned by booking early.

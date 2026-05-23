@@ -47,4 +47,4 @@ Students sometimes confuse 出勤 with 出社 (arriving at the company office), 
 
 **Correct Answer:** 出勤 (going to work)
 
-**Explanation:** 出勤 (shukkin) means going to work or arriving at work. 退勤 = leaving work, 勤務 = duty, シフト = shift schedule.
+**Explanation:** 出勤 is specifically the act of arriving to begin your shift, and in Japanese hospitality it carries a strong expectation of punctuality as a professional baseline. 退勤 is its direct opposite, covering the departure; 勤務 is the broader working period itself; and シフト is the scheduled time block, none of which captures the meaning of coming in to start work.

@@ -47,4 +47,4 @@ Students often mix up 人気 and おすすめ and use them as if they mean the s
 
 **Correct Answer:** 人気 (popularity)
 
-**Explanation:** 人気 (ninki) means popular: well-liked or in demand. 名所 = famous place, おすすめ = recommendation, ツアー = tour.
+**Explanation:** 人気 (ninki) describes something well-liked by many people, making it a reassuring way to frame a recommendation because you are reporting collective approval rather than a personal opinion. 名所 refers to a specific kind of place with historical or cultural prestige, おすすめ is a personal suggestion from the speaker, and ツアー is an organized itinerary product, none of which describe the state of being broadly liked or in demand.

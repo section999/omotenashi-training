@@ -44,4 +44,4 @@ Students often mix up 配達 and 発送, and it's an easy trap to fall into. Rem
 
 **Answer:** 配達
 
-**Explanation:** 配達 (haitatsu) means delivery: bringing goods, laundry, or packages to a designated location on time.
+**Explanation:** 配達 describes the act of physically bringing goods to a specified location, and in Japanese hospitality, punctuality on delivery promises is non-negotiable because stating a time creates a real commitment in guests' minds. In guest-facing speech, お届けいたします is the polished keigo form preferred over the plainer 配達します. 発送 belongs to the opposite end of the journey, covering the act of sending or dispatching items outward, not the arrival end.

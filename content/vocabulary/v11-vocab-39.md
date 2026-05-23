@@ -47,4 +47,4 @@ Students often reach for もう一度言ってください instead of the phrase
 
 **Correct Answer:** もう一度お願いします (please say that again)
 
-**Explanation:** もう一度お願いします is natural and polite: on the phone, a more refined version is 恐れ入りますが、もう一度おっしゃっていただけますか (I apologize, could you say that once more?); adding 恐れ入りますが shows humility and avoids making the guest feel like they were unclear.
+**Explanation:** もう一度お願いします is the phrase that asks a caller to repeat information, and in professional telephone contexts it gains warmth and humility when preceded by 恐れ入りますが, becoming the fuller phrase 恐れ入りますが、もう一度おっしゃっていただけますか. 少々お待ちください is a request to hold, 理解しました confirms understanding, and お繋ぎします redirects the call, none of which address the need to hear something again. After the caller repeats, always confirm the information back with a read-back, because that loop is what closes the risk of error.
