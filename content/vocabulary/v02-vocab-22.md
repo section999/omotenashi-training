@@ -7,9 +7,9 @@ title: 延泊 (enpaku)
 **Pronunciation:** [en-**pa**-ku]
 **Register:** Formal, standard service and reservation contexts
 
-延泊 (enpaku) means "extended stay," specifically remaining in one's room for one or more additional nights beyond the original check-out date. It comes up more often than you might expect, and how your team handles it says a lot about the property's service quality. Because 延泊 depends entirely on room availability, it cannot always be granted, and staff need to be equally good at confirming a successful extension and at declining gracefully when nothing is available. The guest's peace of mind should be the focus either way.
+延泊 (enpaku) means "extended stay," specifically remaining in one's room for one or more additional nights beyond the original check-out date. It comes up more often than might be expected, and how a property handles it says a lot about service quality. Because 延泊 depends entirely on room availability, it cannot always be granted, and staff need to be equally skilled at confirming a successful extension and at declining gracefully when nothing is available. The guest's peace of mind should be the focus either way.
 
-That said, the procedure is not complicated once you know it. Start by checking availability for the requested nights, then determine whether the same room can be kept (same-room continuation is always the ideal) or whether a room change is unavoidable. If the extension is possible, confirm the new check-out date and sort out any payment adjustments before the guest returns to their room. If 延泊 is not possible, offering to look at sister properties or taking the guest's contact for a cancellation spot shows omotenashi spirit even when you cannot say yes.
+The procedure is straightforward once the steps are clear. Start by checking availability for the requested nights, then determine whether the same room can be kept (same-room continuation is always ideal) or whether a room change is unavoidable. If the extension is possible, confirm the new check-out date and sort out any payment adjustments before the guest returns to their room. If 延泊 is not possible, offering to look at sister properties or taking the guest's contact for a cancellation spot demonstrates omotenashi spirit even when the answer is no.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ That said, the procedure is not complicated once you know it. Start by checking 
 
 ## Common Mistakes
 
-Students often jump straight to 延泊できない without any softening, which lands badly on a guest who was hoping to stay longer. Always lead with 大変申し訳ございませんが before explaining the constraint. Worth noting here is that 泊まる (tomaru, to stay) is not a substitute for 延泊 in professional speech. 泊まる is casual and vague; 延泊 is the precise term for an extension specifically. The other mistake to avoid: confirming 延泊 before checking the system. Telling a guest their extension is approved and then having to walk it back is one of the most damaging service failures you can make at a front desk.
+Jumping straight to 延泊できない without any softening lands badly on a guest who was hoping to stay longer. Always lead with 大変申し訳ございませんが before explaining the constraint. Note also that 泊まる (tomaru, to stay) is not a substitute for 延泊 in professional speech. 泊まる is casual and vague; 延泊 is the precise term for an extension specifically. The other mistake to avoid is confirming 延泊 before checking the system. Telling a guest their extension is approved and then having to walk it back is one of the most damaging service failures at a front desk.
 
 ---
 

@@ -4,11 +4,11 @@ section: 9
 title: かしこまりました (kashikomarimashita)
 ---
 
-**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence, the posture of someone humbly receiving an instruction. When you say *kashikomarimashita*, you are not simply saying "I understand." You are saying: I receive your request with full attention and respect, and I will act on it right now.
+**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence — the posture of someone humbly receiving an instruction. When you say *kashikomarimashita*, you are not simply saying "I understand." You are saying: I receive your request with full attention and respect, and I will act on it right now.
 
-In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました, "certainly, understood"), and below that is *wakarimashita* (わかりました, "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual, the kind of thing you might say to a friend, not a valued guest.
+In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました, "certainly, understood"), and below that is *wakarimashita* (わかりました, "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual — the kind of thing you might say to a friend, not a valued guest.
 
-Worth noting: the phrase is always in the past tense (*mashita*), which conveys immediate completion. You are not saying "I am receiving your request." You are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, your acknowledgement is already complete and action has begun.
+The phrase is always in the past tense (*mashita*), which conveys immediate completion. You are not saying "I am receiving your request." You are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, your acknowledgement is already complete and action has begun.
 
 ## Example Sentences
 

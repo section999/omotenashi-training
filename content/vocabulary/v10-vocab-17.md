@@ -4,9 +4,9 @@ section: 17
 title: 承認 (shounin)
 ---
 
-承認 means the act of formally approving or authorizing a payment, transaction, discount, or document. In Japanese hospitality, not all decisions can be made unilaterally by front-line staff; many financial actions, refunds above a certain amount, complimentary upgrades, extended credit terms, require 上司の承認 (supervisor approval) before they can proceed. Understanding when to seek 承認 and how to communicate this to a guest without making them feel inconvenienced is a key professional skill. It reflects the hotel's commitment to accountability and consistency.
+承認 means the act of formally approving or authorizing a payment, transaction, discount, or document. In Japanese hospitality, not all decisions can be made unilaterally by front-line staff; many financial actions -- refunds above a certain amount, complimentary upgrades, extended credit terms -- require 上司の承認 (supervisor approval) before they can proceed. Understanding when to seek 承認 and how to communicate this to a guest without making them feel inconvenienced is a key professional skill. It reflects the hotel's commitment to accountability and consistency.
 
-In practice, 承認 is most commonly used in checkout and billing contexts: a large refund requires 承認, a significant discount requires 承認, and processing a room charge to a corporate account may also require 承認 from the accounts department. Staff should communicate these requirements smoothly, 少々お時間をいただきますが、上司の承認が必要でございます, so the guest understands without feeling delayed unnecessarily. In hotel PMS (property management systems), 承認 is often a trackable action attached to a specific staff ID.
+In a hospitality context, 承認 is most commonly used in checkout and billing situations: a large refund requires 承認, a significant discount requires 承認, and processing a room charge to a corporate account may also require 承認 from the accounts department. Staff should communicate these requirements smoothly -- 少々お時間をいただきますが、上司の承認が必要でございます -- so the guest understands without feeling unnecessarily delayed. In hotel PMS (property management systems), 承認 is often a trackable action attached to a specific staff ID.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, 承認 is most commonly used in checkout and billing contexts: a la
 
 ## Common Mistakes
 
-Learners often confuse 承認 with 確認, but 確認 is checking facts while 承認 is granting authority: one is a verification step, the other is a decision. Another mistake is failing to communicate the 承認 process to the guest, leaving them waiting without explanation; always inform the guest why a brief delay is needed and approximately how long it will take. Avoid using 承認 in casual conversation: it sounds overly bureaucratic outside of a professional context.
+承認 and 確認 are often confused, but 確認 is checking facts while 承認 is granting authority: one is a verification step, the other is a decision. Another mistake is failing to communicate the 承認 process to the guest, leaving them waiting without explanation; always inform the guest why a brief delay is needed and approximately how long it will take. Avoid using 承認 in casual conversation, as it sounds overly bureaucratic outside of a professional context.
 
 ---
 
@@ -45,5 +45,4 @@ Learners often confuse 承認 with 確認, but 確認 is checking facts while �
 
 **Correct Answer:** 承認 (approval)
 
-**Explanation:** 承認 is the formal authorization that allows a financial or procedural exception to proceed, and it sits above the other options in terms of decision-making authority. 決済 is the act of processing payment once approval is in place, 合計 is a numerical result, and 精算 is the settlement procedure; none of them grant permission. Communicating the need for 承認 smoothly, 少々お時間をいただきますが、上司の承認が必要でございます, keeps the guest informed while ensuring no action is taken outside the staff member's authority.
-
+**Explanation:** 承認 is the formal authorization that allows a financial or procedural exception to proceed, and it sits above the other options in terms of decision-making authority. 決済 is the act of processing payment once approval is in place, 合計 is a numerical result, and 精算 is the settlement procedure; none of them grant permission. Communicating the need for 承認 smoothly -- 少々お時間をいただきますが、上司の承認が必要でございます -- keeps the guest informed while ensuring no action is taken outside the staff member's authority.

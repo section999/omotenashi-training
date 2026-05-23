@@ -4,9 +4,9 @@ section: 10
 title: 枕 (makura)
 ---
 
-枕 (makura) means pillow, and while it sounds like a minor detail, it matters enormously to guests. People are particular about how they sleep, and a pillow that is too soft, too flat, or the wrong material can ruin an otherwise perfect stay. Many upscale hotels and ryokan in Japan now offer a 枕メニュー (pillow menu) with options ranging from buckwheat (そばがら) and memory foam (低反発) to latex and feather-filled varieties. Knowing what your property offers, and being able to explain it confidently, is a genuine mark of attentive service.
+枕 (makura) means pillow, and while it sounds like a minor detail, it matters enormously to guests. People are particular about how they sleep, and a pillow that is too soft, too flat, or the wrong material can ruin an otherwise perfect stay. Many upscale hotels and ryokan in Japan now offer a 枕メニュー (pillow menu) with options ranging from buckwheat (そばがら) and memory foam (低反発) to latex and feather-filled varieties. Knowing what your property offers and being able to explain it confidently is a genuine mark of attentive service.
 
-When a guest asks for an extra or different 枕, respond immediately using 枕をご用意いたします or 枕をお持ちいたします. In ryokan settings, you may also encounter traditional cylindrical shapes or 高枕 (takamakura, high pillows), and explaining those options with warmth makes guests feel genuinely cared for. Worth noting: in luxury or extended-stay contexts, asking about pillow preferences proactively during check-in, before the guest has to raise it themselves, is one of those small touches that earns lasting goodwill.
+When a guest asks for an extra or different 枕, respond immediately using 枕をご用意いたします or 枕をお持ちいたします. In ryokan settings, you may also encounter traditional cylindrical shapes or 高枕 (takamakura, high pillows), and explaining those options warmly makes guests feel genuinely cared for. In a luxury or extended-stay context, asking about pillow preferences proactively during check-in — before the guest has to raise it themselves — is one of those small touches that earns lasting goodwill.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ When a guest asks for an extra or different 枕, respond immediately using 枕�
 
 ## Common Mistakes
 
-Students often respond to pillow requests with vague language like 後ほど (later) without any timeframe, which leaves guests guessing and feeling uncertain. Always give a specific time or, better, act immediately. Another common slip is confusing 枕 with クッション (kusshon, cushion), which refers to decorative or sofa cushions, not sleeping pillows. Using the wrong word will confuse both you and the guest. That said, the real gap I see in new staff is waiting for a guest to complain about their pillow before offering alternatives. Mentioning the pillow menu at check-in, before any discomfort arises, is far more in the spirit of omotenashi.
+Responding to pillow requests with vague language like 後ほど (later) without any timeframe leaves guests guessing and feeling uncertain. Always give a specific time or, better, act immediately. Another common slip is confusing 枕 with クッション (kusshon, cushion), which refers to decorative or sofa cushions, not sleeping pillows — using the wrong word will cause confusion for both staff and guest. Mentioning the pillow menu at check-in before any discomfort arises, rather than waiting for a complaint, is far more in the spirit of omotenashi.
 
 ---
 

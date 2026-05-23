@@ -4,9 +4,9 @@ section: 16
 title: プラン (puran)
 ---
 
-プラン is the word for a booking package, a named bundle that ties together a specific room type, meal arrangement, perks, and price. In Japan you will find an enormous range of these: a romantic anniversary プラン might include a special dinner and a flower arrangement, while a business プラン might focus on late checkout and a light breakfast. At check-in, knowing which プラン a guest booked is the single most important piece of information you can have, because it defines everything they are entitled to during their stay.
+プラン is the word for a booking package, a named bundle that ties together a specific room type, meal arrangement, perks, and price. In Japan there is an enormous range of these: a romantic anniversary プラン might include a special dinner and a flower arrangement, while a business プラン might focus on late checkout and a light breakfast. At check-in, knowing which プラン a guest booked is the single most important piece of information available, because it defines everything they are entitled to during their stay.
 
-In practice, the professional move is always to name the プラン by its actual name rather than just saying "your booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is quietly reassuring. Students often skip this and speak in generalities, but naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. One more thing: プラン and 予約 are not the same word. 予約 is the act or record of booking; プラン is the package type that booking falls under.
+The professional move is always to name the プラン by its actual name rather than just saying "your booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is quietly reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, the professional move is always to name the プラン by its actual
 
 ## Common Mistakes
 
-Saying プランに含まれています without specifying which プラン is one of the more common slips, particularly when your property has several options with overlapping names. If there are three plans on offer and you do not name the one a guest booked, your explanation can easily apply to the wrong one. Another issue is assuming the guest remembers what their plan includes. Most guests book online weeks ahead and arrive having forgotten the details entirely; a brief, proactive summary at check-in prevents a lot of confusion. And keep in mind that プラン and 予約 cover different ground: 予約 is the booking record, プラン is the type of package attached to it.
+Saying プランに含まれています without specifying which プラン is one of the more common slips, particularly when a property has several options with overlapping names. If there are three plans on offer and the staff member does not name the one a guest booked, the explanation can easily apply to the wrong one. Another issue is assuming the guest remembers what their plan includes. Most guests book online weeks ahead and arrive having forgotten the details; a brief, proactive summary at check-in prevents confusion. Keep in mind that プラン and 予約 cover different ground: 予約 is the booking record, プラン is the type of package attached to it.
 
 ---
 

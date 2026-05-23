@@ -7,9 +7,9 @@ title: 遠い (tooi)
 **Pronunciation:** [**too**-i]
 **Register:** Neutral, softened with 少し or やや in formal service
 
-遠い means "far" or "distant" and is one of the more delicate words in a hospitality communicator's toolkit. In omotenashi culture, the goal is never simply to relay information but to serve the guest's overall well-being. Telling someone their intended destination is far, without offering a practical alternative, falls short of that standard. So 遠い almost always needs to appear inside a sentence that acknowledges the situation and immediately pivots to a helpful solution: a taxi recommendation, a bus route, a hotel shuttle, or a reassuring time estimate. That solution-first approach transforms a potentially disappointing answer into a genuine demonstration of care.
+遠い means "far" or "distant" and is one of the more delicate words in a hospitality communicator's toolkit. In omotenashi culture, the goal is never simply to relay information but to serve the guest's overall well-being. Telling someone their intended destination is far, without offering a practical alternative, falls short of that standard. 遠い almost always needs to appear inside a sentence that acknowledges the situation and immediately pivots to a helpful solution: a taxi recommendation, a bus route, a hotel shuttle, or a reassuring time estimate. This solution-first approach transforms a potentially disappointing answer into a genuine demonstration of care.
 
-Staff should also moderate how they use 遠い. Softening with 少し (a little) or やや (somewhat) before the word signals honesty without alarm, making the guest feel informed rather than brushed off. The ideal is to replace vague uses of 遠い with specific, actionable alternatives. Knowing typical travel times from your property to major local destinations by foot, taxi, and public transport puts you in a position to do that. Worth noting is that at ryokan in rural areas, guests often have little prior knowledge of local distances, so this kind of preparation is especially valued.
+Staff should also moderate how they use 遠い. Softening with 少し (a little) or やや (somewhat) before the word signals honesty without alarm, making the guest feel informed rather than brushed off. The ideal is to replace vague uses of 遠い with specific, actionable alternatives. Knowing typical travel times from the property to major local destinations by foot, taxi, and public transport enables that kind of precise, helpful guidance. At ryokan in rural areas, guests often have little prior knowledge of local distances, so this level of preparation is especially valued.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ Staff should also moderate how they use 遠い. Softening with 少し (a little)
 
 ## Common Mistakes
 
-The most significant mistake is delivering 遠い without any follow-up solution. In hospitality, an unanswered problem is an incomplete response. Students also often drop the softener 少し, causing 「遠いです」 to sound blunt or even dismissive. The more considerate framing is 「少し遠うございます」. That said, there is also the opposite error: if a destination can reasonably be walked in 10 to 15 minutes, calling it 遠い oversells the difficulty and may push the guest toward unnecessary transport costs. Calibrate honestly and let the guest decide.
+The most significant mistake is delivering 遠い without any follow-up solution. In hospitality, an unanswered problem is an incomplete response. Dropping the softener 少し causes 「遠いです」 to sound blunt or dismissive. The more considerate framing is 「少し遠うございます」. There is also the opposite error: if a destination can reasonably be walked in 10 to 15 minutes, calling it 遠い oversells the difficulty and may push the guest toward unnecessary transport costs. Calibrate honestly and let the guest decide.
 
 ---
 

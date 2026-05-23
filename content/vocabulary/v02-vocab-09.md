@@ -6,7 +6,7 @@ title: お名前 (onamae)
 
 お名前 is the polite form of 名前 (namae), meaning "name." The prefix お (o-) is an honorific that elevates the word, signalling respect for the person whose name is being requested or mentioned. In Japanese hospitality, a guest's name is treated with particular care, it is the key to their reservation, their identity at the property, and the means by which staff address them personally throughout the stay. Using the full polite form お名前 is a baseline expectation, and requesting it through the most respectful phrasing available, お名前をお伺いしてもよろしいでしょうか, signals that the hotel values the guest as an individual, not merely as a room number.
 
-In practice, staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness.
+Staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff use お名前 at virtually every stage of the guest journey: 
 
 ## Common Mistakes
 
-Using 名前ください or 名前は？ in any professional context is a serious register error: these forms are too blunt and sound demanding rather than respectful. Learners sometimes also forget to use the humble verb お伺いする when asking for the name, defaulting instead to 聞いてもいいですか, which is insufficiently formal for hotel settings. Additionally, once a name has been given, it must be remembered and used consistently throughout the interaction; reverting to generic terms like お客様 (o-kyaku-sama) when the guest's name is known feels impersonal.
+Using 名前ください or 名前は？ in any professional context is a serious register error: these forms are too blunt and sound demanding rather than respectful. The humble verb お伺いする should be used when asking for the name; defaulting to 聞いてもいいですか is insufficiently formal for hotel settings. Additionally, once a name has been given, it must be remembered and used consistently throughout the interaction; reverting to generic terms like お客様 (o-kyaku-sama) when the guest's name is known feels impersonal.
 
 ---
 

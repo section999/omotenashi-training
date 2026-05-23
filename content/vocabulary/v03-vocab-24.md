@@ -6,7 +6,7 @@ title: 鍵穴 (kagiana)
 
 鍵穴 (鍵 = key, 穴 = hole) reads as "key hole" and refers to the opening in a lock where a physical key is inserted. While modern city hotels predominantly use electronic key card systems (カードキー), physical key-and-keyhole mechanisms remain common in traditional ryokan, budget accommodation, and older facilities. For guests who encounter a 鍵穴 for the first time, particularly younger travelers or international visitors accustomed exclusively to card-key systems, a brief explanation of how to insert and turn the key is a practical and welcoming gesture. In the context of in-room safes (金庫), even in fully modern hotels, a 鍵穴 may be present as the emergency override access point, making this vocabulary directly relevant across property types.
 
-In practice, staff point to the 鍵穴 when handing over a physical key: 「鍵穴にカギを差し込んで右に回してください」 (insert the key into the keyhole and turn it to the right). For safe operation with a physical backup key, the explanation might be: 「緊急の場合は鍵穴にこちらの鍵をお使いください」 (in an emergency, please use this key in the keyhole). When explaining the safe's PIN setup, staff can clarify that the 鍵穴 is only for emergencies, normalizing the PIN-based daily use.
+In a hospitality context, staff point to the 鍵穴 when handing over a physical key: 「鍵穴にカギを差し込んで右に回してください」 (insert the key into the keyhole and turn it to the right). For safe operation with a physical backup key, the explanation might be: 「緊急の場合は鍵穴にこちらの鍵をお使いください」 (in an emergency, please use this key in the keyhole). When explaining the safe's PIN setup, staff can clarify that the 鍵穴 is only for emergencies, normalizing the PIN-based daily use.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff point to the 鍵穴 when handing over a physical key: 「鍵�
 
 ## Common Mistakes
 
-Learners sometimes omit the rotational direction when explaining key use: saying only 「差し込んでください」 (please insert it) without specifying 「右に回す」 (turn right) or 「左に回す」 (turn left), which can leave guests turning the key the wrong way. Confusing 鍵穴 with 鍵 (the key itself) in instructions leads to unclear guidance. Additionally, when a guest's key does not work, staff should check whether the issue is with the key itself, the 鍵穴 mechanism, or whether the guest is simply unfamiliar with the required technique: diagnosing this correctly requires knowing all three elements.
+A common omission is explaining key use without specifying the rotational direction: saying only 「差し込んでください」 (please insert it) without clarifying 「右に回す」 (turn right) or 「左に回す」 (turn left) can leave guests turning the key the wrong way. Confusing 鍵穴 with 鍵 (the key itself) in instructions leads to unclear guidance. When a guest's key does not work, staff should also determine whether the issue is with the key itself, the 鍵穴 mechanism, or the guest's unfamiliarity with the required technique — diagnosing this correctly requires knowing all three elements.
 
 ---
 

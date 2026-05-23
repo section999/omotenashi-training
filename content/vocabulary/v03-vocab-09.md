@@ -4,9 +4,9 @@ section: 9
 title: ベッド (bed)
 ---
 
-ベッド is borrowed directly from English and is the standard word for a bed in Japanese hospitality. You will use it constantly during check-in when describing room types, handling extra bed requests, or walking guests through their room. Japanese hotels offer a range of configurations: シングルベッド (single), セミダブルベッド (semi-double), ダブルベッド (double), クイーンベッド (queen), and キングベッド (king). Knowing these distinctions cold means you can answer guests confidently without pausing to think.
+ベッド is borrowed directly from English and is the standard word for a bed in Japanese hospitality. It comes up constantly during check-in when describing room types, handling extra bed requests, or walking guests through their room. Japanese hotels offer a range of configurations: シングルベッド (single), セミダブルベッド (semi-double), ダブルベッド (double), クイーンベッド (queen), and キングベッド (king). Knowing these distinctions thoroughly means you can answer guests confidently without pausing to think.
 
-In practice, the ベッド is the centerpiece of any guest's sleep experience, and the sleep experience shapes their entire impression of the property. Luxury hotels invest in premium mattresses and pillow menus, and staff who know what bedding extras are available, such as 毛布 (extra blankets), 枕 (additional pillows), or mattress toppers, are ready to respond before a guest even finishes their sentence. When you escort someone to their room, make a point of identifying the ベッド type and briefly noting what extras are on hand. That small habit makes a real difference.
+The ベッド is the centrepiece of any guest's sleep experience, and the sleep experience shapes their entire impression of the property. Luxury hotels invest in premium mattresses and pillow menus, and staff who know what bedding extras are available — such as 毛布 (extra blankets), 枕 (additional pillows), or mattress toppers — are ready to respond before a guest even finishes their sentence. When escorting someone to their room, identify the ベッド type and briefly note what extras are on hand. That small habit makes a meaningful difference.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, the ベッド is the centerpiece of any guest's sleep experience, a
 
 ## Common Mistakes
 
-Students often mispronounce ベッド with a drawn-out final vowel (beddoo), borrowing the rhythm from other loanwords. The ッド is a short double-consonant stop and should land crisp, not stretched. In formal guest communication, always say ベッド in full; casual shorthand like ベ附き sounds sloppy and out of place. One more thing: if your property offers tatami-style rooms, never assume a guest's preference for ベッド over 布団. Ask directly and politely. Presuming one way or the other is not omotenashi.
+ベッド is sometimes mispronounced with a drawn-out final vowel (beddoo), borrowing the rhythm from other loanwords. The ッド is a short double-consonant stop and should land crisp, not stretched. In formal guest communication, always say ベッド in full; casual shorthand sounds out of place. If your property offers tatami-style rooms, never assume a guest's preference for ベッド over 布団 — ask directly and politely. Presuming one way or the other is not omotenashi.
 
 ---
 

@@ -6,7 +6,7 @@ title: 朝食付き (choushoku tsuki)
 
 朝食付き means "with breakfast included," marking a booking plan where the morning meal is covered as part of the accommodation charge. In Japanese hospitality, breakfast carries real weight: at a ryokan it might be a full washoku spread; at a city hotel it is often a Western-style buffet. Either way, it is frequently the detail that tips a guest toward choosing one property over another. Being able to confirm the breakfast arrangement clearly and with some warmth helps guests feel settled right from check-in.
 
-That said, confirming inclusion is only the starting point. In practice, good hotel communication means giving the guest the full picture in one go: where breakfast is served, what time it runs, and what kind of food to expect. Saying 「朝食は7時から9時まで、2階レストランにてお召し上がりいただけます」 answers the three questions the guest was about to ask, all at once. At ryokan especially, breakfast sometimes requires a time slot to be agreed in advance, and mentioning this proactively saves a lot of back-and-forth the next morning.
+Confirming inclusion is only the starting point. Good hotel communication means giving the guest the full picture in one go: where breakfast is served, what time it runs, and what kind of food to expect. Saying 「朝食は7時から9時まで、2階レストランにてお召し上がりいただけます」 answers the three questions the guest was about to ask, all at once. At ryokan especially, breakfast sometimes requires a time slot to be agreed in advance, and mentioning this proactively saves back-and-forth the next morning.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ That said, confirming inclusion is only the starting point. In practice, good ho
 
 ## Common Mistakes
 
-Confirming 朝食付き without the time or location is one of the most common small gaps in check-in communication, and it forces the guest to ask again, which makes the interaction feel incomplete. Students sometimes also say 朝食あり instead of 朝食付き. 朝食あり is perfectly understandable, but it sounds casual and informal in a service context; 朝食付き is the standard professional form. One more thing: at higher-end properties it is considered good practice to ask 「ご朝食に食物アレルギーはございますか」 so that any dietary issues are flagged early, rather than discovered when the guest arrives at the buffet and cannot eat anything.
+Confirming 朝食付き without the time or location is one of the most common small gaps in check-in communication, and it forces the guest to ask again, making the interaction feel incomplete. Using 朝食あり instead of 朝食付き is also a frequent slip. 朝食あり is understandable, but it sounds casual and informal in a service context; 朝食付き is the standard professional form. At higher-end properties, it is also considered good practice to ask 「ご朝食に食物アレルギーはございますか」 so that any dietary issues are flagged early, rather than discovered when the guest arrives at the buffet and cannot eat anything.
 
 ---
 

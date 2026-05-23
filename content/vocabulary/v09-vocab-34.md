@@ -32,7 +32,7 @@ Successfully managing a 団体予約 depends on internal communication between d
 
 ## Common Mistakes
 
-One critical mistake with 団体予約 is failing to assign a dedicated internal coordinator before the group arrives. Without one clear point of contact, different members of the group will approach different staff with conflicting questions, and the inconsistent responses that result undermine confidence in the entire hotel. Students often underestimate how quickly this becomes chaotic when 20 or 30 people arrive at the same time. Another common oversight is neglecting to pre-coordinate meal plans with the kitchen. In practice, the kitchen needs group dining details, including guest count, arrival time, dietary requirements, and menu choices, well in advance. A large group that shows up with undisclosed dining needs creates real strain and risks either long waits or compromised food quality, neither of which reflects well on the property.
+One critical mistake with 団体予約 is failing to assign a dedicated internal coordinator before the group arrives. Without one clear point of contact, different members of the group will approach different staff with conflicting questions, and the inconsistent responses that result undermine confidence in the entire hotel. This problem escalates rapidly when 20 or 30 people arrive at the same time. Another common oversight is neglecting to pre-coordinate meal plans with the kitchen. The kitchen needs group dining details — guest count, arrival time, dietary requirements, and menu choices — well in advance. A large group that shows up with undisclosed dining needs creates real strain and risks either long waits or compromised food quality, neither of which reflects well on the property.
 
 ---
 

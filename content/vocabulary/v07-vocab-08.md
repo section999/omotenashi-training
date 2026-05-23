@@ -7,9 +7,9 @@ title: 営業時間 (eigyou jikan)
 **Pronunciation:** [ei-gyou **ji**-kan]
 **Register:** Formal, standard guest information vocabulary
 
-営業時間 means "business hours" or "operating hours" and is one of the highest-frequency information items guests will ask you about. Hotels are not single-schedule operations. The main restaurant, the spa, the bar, the fitness centre, room service, and the front desk itself may all run on different timetables, and confidently stating the wrong hours causes real guest frustration. Mastery of this word therefore means not just knowing it, but being thoroughly briefed on every facility's current schedule, including any seasonal or holiday variations. That level of readiness is a concrete, practical expression of omotenashi.
+営業時間 means "business hours" or "operating hours" and is one of the highest-frequency information items guests will ask about. Hotels are not single-schedule operations. The main restaurant, the spa, the bar, the fitness centre, room service, and the front desk itself may all run on different timetables, and confidently stating the wrong hours causes real guest frustration. Mastery of this word therefore means not just knowing it, but being thoroughly briefed on every facility's current schedule, including any seasonal or holiday variations. That level of readiness is a concrete, practical expression of omotenashi.
 
-From a guest experience perspective, sharing 営業時間 proactively rather than waiting to be asked prevents a lot of unnecessary inconvenience. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access helps guests plan their stay from the first moment. Students often forget that when hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically does a lot to maintain trust. One more thing: be sure you can distinguish between ラストオーダー (last order) and actual closing time, because guests frequently assume these are the same thing and they are not.
+Sharing 営業時間 proactively — rather than waiting to be asked — prevents unnecessary inconvenience. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access helps guests plan their stay from the first moment. When hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically does a great deal to maintain trust. Be sure to distinguish between ラストオーダー (last order) and actual closing time, as guests frequently assume these are the same thing when they are not.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ From a guest experience perspective, sharing 営業時間 proactively rather tha
 
 ## Common Mistakes
 
-A common error is stating only the opening time without the closing time, which leaves guests without the full picture they need to plan. Always give the complete range from open to close. Students also sometimes forget to mention ラストオーダー when describing restaurant hours, which means guests may arrive believing the kitchen is still open when food orders have already stopped. The tricky part is that guests rarely ask about last order separately, so you need to volunteer it. And if you have any doubt about current 営業時間, especially after a schedule change, confirm with a supervisor or check the posted signage before advising a guest. Your memory alone is not reliable enough for something this specific.
+Stating only the opening time without the closing time leaves guests without the full picture they need to plan. Always give the complete range from open to close. Failing to mention ラストオーダー when describing restaurant hours means guests may arrive believing the kitchen is still open when food orders have already stopped. Guests rarely ask about last order separately, so it must be volunteered. If there is any doubt about current 営業時間 — especially after a schedule change — confirm with a supervisor or check posted signage before advising a guest. Memory alone is not reliable enough for something this specific.
 
 ---
 

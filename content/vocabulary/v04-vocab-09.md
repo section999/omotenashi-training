@@ -4,9 +4,9 @@ section: 9
 title: 石鹸 (sekken)
 ---
 
-石鹸 is the Japanese word for soap, and it is one of those bathroom amenities that every single guest expects to find without having to ask. Soap quality signals where a property sits: upscale hotels may offer branded or locally made bars, while ryokan often feature artisanal soap with regional botanical ingredients, things like yuzu or hinoki, that connect the product to the place. Housekeeping staff are responsible for making sure 石鹸 is present, hygienic, and correctly positioned at both the sink and in the bathtub or shower area. A partially used bar from the previous guest must be discarded and replaced with a fresh, sealed one before the next guest arrives. There are no exceptions here.
+石鹸 is the Japanese word for soap, and it is one of those bathroom amenities that every single guest expects to find without having to ask. Soap quality signals where a property sits: upscale hotels may offer branded or locally made bars, while ryokan often feature artisanal soap with regional botanical ingredients, things like yuzu or hinoki, that connect the product to the place. Housekeeping staff are responsible for making sure 石鹸 is present, hygienic, and correctly positioned at both the sink and in the bathtub or shower area. A partially used bar from the previous guest must be discarded and replaced with a fresh, sealed one before the next guest arrives.
 
-When a guest asks for more 石鹸, respond promptly with polite, humble language and bring it directly to the room. Some properties use liquid dispensers rather than bars, and staff should know the right terminology (液体石鹸, ekitai sekken) and be comfortable with the refill procedure. In practice, international guests sometimes make the request by gesture or in English, so being ready to recognize what they are asking for and respond appropriately is a real and useful skill.
+When a guest asks for more 石鹸, respond promptly with polite, humble language and bring it directly to the room. Some properties use liquid dispensers rather than bars, and staff should know the right terminology (液体石鹸, ekitai sekken) and be comfortable with the refill procedure. International guests sometimes make the request by gesture or in English, so being ready to recognize what they are asking for and respond appropriately is a real and useful skill.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ When a guest asks for more 石鹸, respond promptly with polite, humble language
 
 ## Common Mistakes
 
-Placing a partially used bar of 石鹸 in a freshly serviced room is a hygiene error, full stop. Hotel standards require a sealed, unused bar for every new guest, and that standard is not negotiable. When bringing soap to a room, drop the abrupt 石鹸どうぞ and always use a complete, polite phrase like 石鹸をお持ちいたします. Students sometimes mix up 石鹸 (soap) with シャンプー (shampoo) when fielding bathroom requests, so always take a moment to confirm which item the guest is actually asking for before heading off to get it.
+Placing a partially used bar of 石鹸 in a freshly serviced room is a hygiene error. Hotel standards require a sealed, unused bar for every new guest, and that standard is not negotiable. When bringing soap to a room, avoid the abrupt 石鹸どうぞ and always use a complete, polite phrase like 石鹸をお持ちいたします. 石鹸 (soap) and シャンプー (shampoo) are also sometimes mixed up when fielding bathroom requests, so always take a moment to confirm which item the guest is actually asking for.
 
 ---
 

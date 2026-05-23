@@ -4,9 +4,9 @@ section: 17
 title: 素泊まり (sudomari)
 ---
 
-素泊まり breaks down nicely if you look at its parts: 素 (su) means "plain" or "bare," and 泊まり (tomari) means "staying overnight," so together they describe a stay without any meals attached. It is the most basic option in Japanese hotel and ryokan settings and stands in contrast to the meal-inclusive plans that are especially common at ryokan. Guests choose 素泊まり for different reasons: some want to explore local restaurants, some simply want to keep costs down. For staff, the practical importance of knowing a guest is on 素泊まり is that it prevents the awkward situation of pointing someone toward the dining room for a meal they have not paid for.
+素泊まり breaks down clearly from its parts: 素 (su) means "plain" or "bare," and 泊まり (tomari) means "staying overnight," so together they describe a stay without any meals attached. It is the most basic option in Japanese hotel and ryokan settings and stands in contrast to the meal-inclusive plans that are especially common at ryokan. Guests choose 素泊まり for different reasons: some want to explore local restaurants, some simply want to keep costs down. For staff, the practical importance of knowing a guest is on 素泊まり is that it prevents the awkward situation of directing someone toward the dining room for a meal they have not paid for.
 
-In practice, the right approach is not just to confirm that no meals are included and leave it there. That can come across as a flat refusal. The omotenashi version of this conversation is to follow up with something useful: a recommendation for nearby restaurants, a mention of room service options, or even directions to the nearest convenience store. Worth noting, a guest who chose 素泊まり to save money or stay flexible is not looking for an apology; they are looking for good local information. Give them that, and the conversation becomes a service moment rather than a disappointment.
+Confirming that no meals are included is only the starting point. The omotenashi approach is to follow up with something useful: a recommendation for nearby restaurants, a mention of room service options, or directions to the nearest convenience store. A guest who chose 素泊まり to save money or stay flexible is not looking for an apology — they are looking for good local information. Providing that turns the conversation into a service moment rather than a disappointment.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, the right approach is not just to confirm that no meals are include
 
 ## Common Mistakes
 
-Introducing 素泊まり with apologetic language is an easy trap to fall into, but it is unnecessary and can actually embarrass guests who chose this plan on purpose. Treat it as a perfectly valid option, because it is. The other thing to get right is clarity about what "no meals" means. Students sometimes treat 素泊まり as equivalent to 朝食なし, "no breakfast," but 素泊まり means no meals at all: no breakfast, no dinner. This matters most at ryokan, where guests may arrive assuming dinner is always part of the deal. Make sure they know there is no evening meal coming before they sit down expecting one.
+Introducing 素泊まり with apologetic language is unnecessary and can actually embarrass guests who chose this plan on purpose. Treat it as a perfectly valid option, because it is. A second important point is clarity about what "no meals" means. 素泊まり is sometimes mistakenly treated as equivalent to 朝食なし, "no breakfast," but 素泊まり means no meals at all: no breakfast, no dinner. This distinction matters most at ryokan, where guests may arrive assuming dinner is always part of the deal. Make sure they know there is no evening meal before they sit down expecting one.
 
 ---
 

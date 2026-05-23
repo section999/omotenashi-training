@@ -6,7 +6,7 @@ title: 早朝チェックイン (early check-in)
 
 早朝チェックイン (sōchō chekku-in) refers to the option of checking into a hotel room earlier than the standard check-in time, which in most Japanese hotels is between 3:00 PM and 4:00 PM. Guests who arrive on early morning flights or overnight trains frequently request this service. Whether it is possible depends on whether a room has been cleaned and vacated from the previous guest's stay. When available, the hotel may offer 早朝チェックイン as a complimentary gesture for loyal members or high-tier guests, but it commonly comes with an additional charge (追加料金 / tsuika ryōkin).
 
-Worth noting here is how important it is to handle these requests both proactively and transparently. If a guest has pre-arranged early check-in, confirm it warmly at arrival. If not, explain the situation clearly and set realistic expectations. The key phrases include 早朝チェックインには追加料金が発生する場合がございます (early check-in may incur an additional charge) and お部屋の準備が整い次第、ご案内いたします (we will show you to your room as soon as it is ready). In either case, offering the guest access to luggage storage (お荷物のお預かり) and lobby or lounge amenities while they wait shows genuine omotenashi.
+Handling these requests both proactively and transparently is important. If a guest has pre-arranged early check-in, confirm it warmly at arrival. If not, explain the situation clearly and set realistic expectations. The key phrases include 早朝チェックインには追加料金が発生する場合がございます (early check-in may incur an additional charge) and お部屋の準備が整い次第、ご案内いたします (we will show you to your room as soon as it is ready). In either case, offering the guest access to luggage storage (お荷物のお預かり) and lobby or lounge amenities while they wait shows genuine omotenashi.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ Worth noting here is how important it is to handle these requests both proactive
 
 ## Common Mistakes
 
-A frequent mistake is telling guests simply 早朝チェックインはできません without explaining why or offering alternatives. Even if early check-in is unavailable, offering luggage storage and a comfortable waiting space shows genuine care for the guest. Students often forget to mention the additional charge until after the guest has already settled in, which causes billing disputes. The fee must be disclosed upfront, every time. Another error is confusing 早朝チェックイン (early arrival check-in) with 深夜チェックイン (late-night check-in after midnight), which is a separate logistical scenario.
+A frequent mistake is telling guests simply 早朝チェックインはできません without explaining why or offering alternatives. Even if early check-in is unavailable, offering luggage storage and a comfortable waiting space shows genuine care for the guest. The additional charge must be disclosed upfront, every time — raising it only after the guest has settled in invariably causes billing disputes. Another error is confusing 早朝チェックイン (early arrival check-in) with 深夜チェックイン (late-night check-in after midnight), which is a separate logistical scenario.
 
 ---
 

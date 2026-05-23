@@ -9,7 +9,7 @@ title: 非常口 (hijouguchi)
 
 非常口 combines 非常 (hijou, emergency or extraordinary situation) with 口 (guchi, opening or exit), and it is the standard term for "emergency exit" on signage and safety cards throughout Japan. The green running-figure pictogram is recognized nationwide, and the word itself appears on every fire safety sign, evacuation route map, and hotel in-room safety card. This is not vocabulary for optional use: knowing where every 非常口 is on every floor you work on, and being able to communicate that clearly, is a professional baseline. Staff who cannot answer a guest's question about emergency exits have a real gap in their service readiness.
 
-The cultural weight of proactive safety communication in Japanese hospitality is significant. Telling a guest 非常口の場所はこちらでございます (the emergency exit is located here) during check-in or room orientation reflects both legal responsibility and genuine care for the person in front of you. Students often feel awkward raising emergency topics because it can seem like you are predicting something bad happening. In practice, guests receive this information calmly and appreciate it. A panicked guest who has never been told where the 非常口 is faces a much more dangerous situation than one who already knows. Proactive communication is the professional and human choice. Always familiarize yourself with the evacuation route (避難経路) from each exit as well, so you can guide someone if a real emergency occurs.
+The cultural weight of proactive safety communication in Japanese hospitality is significant. Telling a guest 非常口の場所はこちらでございます during check-in or room orientation reflects both legal responsibility and genuine care for the person in front of you. Guests receive this information calmly and appreciate it. A panicked guest who has never been told where the 非常口 is faces a much more dangerous situation than one who already knows. Proactive communication is the professional and human choice. Always familiarize yourself with the evacuation route (避難経路) from each exit as well, so you can guide someone if a real emergency occurs.
 
 ## Example Sentences
 
@@ -27,12 +27,12 @@ The cultural weight of proactive safety communication in Japanese hospitality is
 
 ## Related Expressions
 
-- **緊急出口 (kinkyuu deguchi)**: An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. Worth noting: 非常口 is the standardized term you will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service.
+- **緊急出口 (kinkyuu deguchi)**: An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. 非常口 is the standardized term you will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service.
 - **避難経路 (hinan keiro)**: Evacuation route, the path from a 非常口 to a safe outdoor assembly point. Knowing both terms together gives you the complete picture for safety communication. Guests should hear both during orientation: where the exit is and how to get from it to safety.
 
 ## Common Mistakes
 
-Treating 非常口 information as optional is the most serious mistake in this entire vocabulary set. In professional hotel service, communicating emergency exit locations is mandatory, not something left to the guest to discover from a card on the nightstand. That said, students also sometimes confuse 非常口 with 出口 (deguchi, a regular exit). These are not interchangeable: 非常口 is specifically for emergency evacuation and its location may differ significantly from the main building exits. In a real emergency, pointing someone to the wrong door causes serious harm. In formal speech, 非常口はこちらにございます is the appropriate form, not ここが非常口です, which sounds too casual given the seriousness of the information.
+Treating 非常口 information as optional is the most serious mistake in this entire vocabulary set. In professional hotel service, communicating emergency exit locations is mandatory, not something left to the guest to discover from a card on the nightstand. A related error is confusing 非常口 with 出口 (deguchi, a regular exit). These are not interchangeable: 非常口 is specifically for emergency evacuation and its location may differ significantly from the main building exits. In a real emergency, pointing someone to the wrong door causes serious harm. In formal speech, 非常口はこちらにございます is the appropriate form — ここが非常口です sounds too casual given the seriousness of the information.
 
 ---
 

@@ -7,9 +7,9 @@ title: 水 (mizu)
 **Pronunciation:** [**mi**-zu]
 **Register:** Formal, always use お水 in guest-facing speech
 
-お水 holds a special place in Japanese restaurant culture. Unlike many countries where water has to be requested and may even come at a charge, complimentary cold water is served automatically and refilled proactively in most Japanese dining establishments. This is a direct expression of 気配り (kikubari), the art of noticing and meeting a guest's needs before they have to ask. An empty water glass is genuinely considered a service lapse here, so attentive servers make water replenishment a quiet, steady priority throughout the meal. In high-end hotel restaurants and ryokan, the quality of the water itself, sometimes spring water or lightly mineralized water, is worth sharing with guests as part of the dining experience.
+お水 holds a special place in Japanese restaurant culture. Unlike many countries where water has to be requested and may even come at a charge, complimentary cold water is served automatically and refilled proactively in most Japanese dining establishments. This is a direct expression of 気配り (kikubari), the art of noticing and meeting a guest's needs before they have to ask. An empty water glass is considered a service lapse, so attentive servers make water replenishment a quiet, steady priority throughout the meal. In high-end hotel restaurants and ryokan, the quality of the water itself — sometimes spring water or lightly mineralized water — is worth sharing with guests as part of the dining experience.
 
-Students often focus so much on food service that water slips to the back of their attention. That said, temperature awareness matters just as much as timing. Some guests, particularly older Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect chilled water with ice. Asking about temperature preference before assuming shows exactly the kind of anticipatory awareness that separates good service from genuinely memorable service. When refilling, approach quietly and pour without cutting into the guest's conversation.
+Temperature awareness matters as much as timing. Some guests, particularly older Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect chilled water with ice. Asking about temperature preference before assuming shows exactly the kind of anticipatory awareness that separates good service from genuinely memorable service. When refilling, approach quietly and pour without cutting into the guest's conversation.
 
 ## Example Sentences
 
@@ -28,11 +28,11 @@ Students often focus so much on food service that water slips to the back of the
 ## Related Expressions
 
 - **お冷や (o-hiya)**: a refined term specifically for chilled water served in restaurants, more elegant than saying 冷たいお水; commonly heard in traditional Japanese dining settings and worth using yourself.
-- **お白湯 (o-sayu)**: plain hot water, often requested by elderly guests or health-conscious diners; make sure you know how to offer this gracefully, since a blank look when someone asks for it is not a great response.
+- **お白湯 (o-sayu)**: plain hot water, often requested by elderly guests or health-conscious diners; knowing how to offer this gracefully is important, as some guests will request it by name.
 
 ## Common Mistakes
 
-The most basic error is referring to water as simply 水 in guest-facing speech: always use お水, no exceptions. Beyond the language, the more common practical mistake is waiting for a guest to request a refill rather than offering proactively, which works against the whole idea of kikubari. Worth noting too: pouring water while a guest is mid-sentence, or without approaching quietly from the correct side, can be disruptive. Timing and approach matter as much as the act itself.
+The most basic error is referring to water as simply 水 in guest-facing speech: always use お水, no exceptions. Beyond the language, the more common practical mistake is waiting for a guest to request a refill rather than offering proactively, which works against the whole idea of kikubari. Pouring water while a guest is mid-sentence, or without approaching quietly from the correct side, can also be disruptive. Timing and approach matter as much as the act itself.
 
 ---
 

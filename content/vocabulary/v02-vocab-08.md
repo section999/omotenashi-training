@@ -6,7 +6,7 @@ title: 満室 (manshitsu)
 
 満室 means "fully booked" or "no vacancies," indicating that every room in the property is currently occupied. It is the direct opposite of 空室 (vacant room), and communicating 満室 to a guest is one of the most delicate situations a front desk professional will face. In Japanese hospitality culture, delivering negative information requires even more care than delivering good news. The way you say 満室 can preserve a guest's goodwill or lose it entirely.
 
-The standard professional approach involves three things: an apology first (大変申し訳ございませんが), a clear time frame (本日は, meaning "for today"), and where possible, an alternative such as a nearby partner hotel or a waitlist option. The full phrase 本日は満室でございます uses ございます for formality and 本日 to limit the scope to the current day, which subtly implies that the situation may change. That said, never use 本日 as a false comfort if the property is booked out for the week. Offering a referral or a future-date option is the better move, and it shows the guest that being turned away today does not mean they are not valued.
+The standard professional approach involves three things: an apology first (大変申し訳ございませんが), a clear time frame (本日は, meaning "for today"), and where possible, an alternative such as a nearby partner hotel or a waitlist option. The full phrase 本日は満室でございます uses ございます for formality and 本日 to limit the scope to the current day, which subtly implies that the situation may change. Avoid using 本日 as a false comfort if the property is booked out for the week. Offering a referral or a future-date option is the better move, and it shows the guest that being turned away today does not mean they are not valued.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ The standard professional approach involves three things: an apology first (大�
 
 ## Common Mistakes
 
-The most serious mistake is announcing 満室 without the accompanying apology. In Japanese hospitality, bad news must be softened with 申し訳ございません or 大変恐れ入りますが before you get to the facts. Students also sometimes declare 満室 without checking the reservation system first, which risks turning away a guest when a room is actually available. In practice, always check before you say anything. And the casual forms, 満室だ or 満室ね, have no place in any professional setting and would genuinely surprise a Japanese guest to hear from hotel staff.
+The most serious mistake is announcing 満室 without the accompanying apology. In Japanese hospitality, bad news must be softened with 申し訳ございません or 大変恐れ入りますが before you get to the facts. Declaring 満室 without checking the reservation system first also risks turning away a guest when a room is actually available — always check before saying anything. The casual forms 満室だ or 満室ね have no place in any professional setting and would genuinely surprise a Japanese guest to hear from hotel staff.
 
 ---
 

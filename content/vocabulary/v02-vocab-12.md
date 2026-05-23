@@ -6,7 +6,7 @@ title: サイン (sign)
 
 サイン is the Japanese loanword for signature, borrowed directly from the English "sign." In a hotel context, guests are asked to sign a range of documents: the check-in registration form, credit card charge slips, room service orders, and agreements for any special arrangements. The act of signing carries real legal and administrative weight, confirming that the guest acknowledges what has been presented. In Japanese hospitality culture, requesting a サイン should feel exactly as gracious as any other part of the interaction. The guest should feel invited to complete a formality, not pressed to sign something.
 
-The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. In practice, staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました.
+The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. Staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ The most professional way to ask for a signature is こちらにサインをお�
 
 ## Common Mistakes
 
-Using サインしてください is a common slip. It makes grammatical sense but it is too direct and lacks the level of politeness that the situation calls for. Students also sometimes point with a single finger to indicate the signature line, which comes across as rude in Japanese culture. An open hand or a pen laid near the line is the right approach. Worth noting: the subtler mistake is rushing the guest when there is a queue behind them. Staying calm and patient during the signing process is not just polite, it is part of what professional omotenashi actually looks like.
+Using サインしてください is a common slip. It makes grammatical sense but is too direct and lacks the level of politeness the situation calls for. Pointing with a single finger to indicate the signature line is also considered rude in Japanese culture; an open hand or a pen laid near the line is the right approach. Staying calm and patient during the signing process when there is a queue is not just polite — it is part of what professional omotenashi actually looks like.
 
 ---
 

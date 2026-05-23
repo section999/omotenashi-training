@@ -4,7 +4,7 @@ section: 5
 title: 地図 (chizu)
 ---
 
-地図 means map, and in the hotel context it is an indispensable communication tool that bridges the gap between a guest's unfamiliarity with the local area and their desire to explore independently. High-quality, clearly annotated area maps are a hallmark of well-prepared hospitality establishments in Japan, where walking to stations, restaurants, shrines, and tourist spots is common. Offering a map proactively, before a guest has to ask, embodies the anticipatory spirit of omotenashi. Staff who can use a physical map to trace a route, mark a destination with a pen, and verbally explain landmarks simultaneously provide a far richer experience than those who simply hand over a map without explanation.
+地図 means map, and in the hotel context it is an indispensable communication tool that bridges the gap between a guest's unfamiliarity with the local area and their desire to explore independently. High-quality, clearly annotated area maps are a hallmark of well-prepared hospitality establishments in Japan, where walking to stations, restaurants, shrines, and tourist spots is common. Offering a map proactively — before a guest has to ask — embodies the anticipatory spirit of omotenashi. Staff who can use a physical map to trace a route, mark a destination with a pen, and verbally explain landmarks simultaneously provide a far richer experience than those who simply hand over a map without explanation.
 
 When using a map to guide a guest, the best approach is to orient it in the direction the guest is facing, mark the hotel's current location clearly, and identify one or two prominent landmarks on the route before indicating the destination. For foreign guests, bilingual maps (日英両語) are strongly preferred. Digital alternatives like Google Maps have their place, but a well-handled physical map interaction is more personal and often better remembered by guests.
 
@@ -29,7 +29,7 @@ When using a map to guide a guest, the best approach is to orient it in the dire
 
 ## Common Mistakes
 
-Handing over a map without orientation or annotation is one of the most common mistakes students make. It misses the relational quality that makes the interaction memorable. The other issue is vagueness: saying 「この辺です」 ("it's around here") without marking the exact spot causes confusion and erodes trust. In practice, never assume all guests can read Japanese map labels. Always confirm whether the guest prefers a bilingual map and reinforce key points verbally regardless of which version you hand over.
+Handing over a map without orientation or annotation misses the relational quality that makes the interaction memorable. Vague language such as 「この辺です」 ("it's around here") without marking the exact spot causes confusion and erodes trust. Never assume all guests can read Japanese map labels. Always confirm whether the guest prefers a bilingual map, and reinforce key points verbally regardless of which version is provided.
 
 ---
 

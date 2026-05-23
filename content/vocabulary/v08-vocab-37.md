@@ -7,7 +7,7 @@ title: 避難経路 (hinan keiro)
 **Pronunciation:** [hi-**nan**-kei-ro]
 **Register:** Formal -- required in emergency briefings and safety communications
 
-避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), giving you the standard term for "evacuation route." This is the complete pathway from any point inside the building to a safe outdoor assembly area, including every corridor turn, every stairwell, and the emergency exit at the end. Worth noting is the distinction between this word and 非常口 (hijouguchi): 非常口 names the exit door itself, while 避難経路 names the entire journey to get there. Japanese fire safety law mandates that evacuation routes be posted visibly on every floor, typically near elevator landings and room entrances, and hotel staff are required to know them well enough to walk guests through them verbally at a moment's notice.
+避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), giving you the standard term for "evacuation route." This is the complete pathway from any point inside the building to a safe outdoor assembly area, including every corridor turn, every stairwell, and the emergency exit at the end. The distinction between this word and 非常口 (hijouguchi) is important: 非常口 names the exit door itself, while 避難経路 names the entire journey to get there. Japanese fire safety law mandates that evacuation routes be posted visibly on every floor, typically near elevator landings and room entrances, and hotel staff are required to know them well enough to walk guests through them verbally at a moment's notice.
 
 In the context of omotenashi, communicating 避難経路 information goes beyond checking a box for legal compliance. Professional staff deliver this calmly during check-in ("ご宿泊中のご案内として、避難経路をご確認ください"), back it up with the safety card in the guest room, and reinforce it through regular fire drills (避難訓練). A guest who hears this information delivered confidently and warmly is far more likely to remember it when it matters. When a real emergency happens, the staff member who has genuinely internalized the routes can guide panicked guests with authority, and that is where responsible hospitality becomes something deeper than good service.
 
@@ -32,7 +32,7 @@ In the context of omotenashi, communicating 避難経路 information goes beyond
 
 ## Common Mistakes
 
-Students often use 避難経路 only when talking about fires, but the term applies to any evacuation scenario: earthquakes, gas leaks, structural hazards. The word does not know which disaster is happening, and neither should your training. In practice, another common slip is treating 避難経路 and 非常口 as the same thing. In a full emergency briefing you need both: the route to follow and the door at the end of it. One more thing to keep in mind: never switch to casual speech when explaining evacuation information. The gravity of the topic calls for calm, measured, formal language, and a guest who hears it that way will be far more likely to follow your instructions when the moment comes.
+避難経路 applies to any evacuation scenario, not only fires: earthquakes, gas leaks, and structural hazards all require the same routes. A common slip is treating 避難経路 and 非常口 as the same thing. In a full emergency briefing you need both: the route to follow and the door at the end of it. Never switch to casual speech when explaining evacuation information. The gravity of the topic calls for calm, measured, formal language — a guest who hears it that way will be far more likely to follow instructions when the moment comes.
 
 ---
 

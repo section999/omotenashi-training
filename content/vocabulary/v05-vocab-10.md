@@ -7,9 +7,9 @@ title: コーヒー (koohii)
 **Pronunciation:** [koo-**hii**]
 **Register:** Neutral, used freely in all dining and lounge contexts
 
-コーヒー is one of the most frequently requested beverages in hotel dining, turning up at breakfast buffets, after meals, during afternoon tea, and throughout the day in hotel lounges. Japan has a deeply developed coffee culture, and guests, particularly business travelers and coffee enthusiasts, often have specific preferences about brewing method, strength, temperature, and what goes alongside it. Staff who can speak knowledgeably about the coffee being served, its origin, roast level, or brewing style, turn a routine beverage offer into a genuinely warm hospitality moment. The post-meal coffee offer is also a natural opportunity to add to the guest's experience, and when handled gracefully rather than pushily, it almost always lands well.
+コーヒー is one of the most frequently requested beverages in hotel dining, turning up at breakfast buffets, after meals, during afternoon tea, and throughout the day in hotel lounges. Japan has a deeply developed coffee culture, and guests — particularly business travelers and coffee enthusiasts — often have specific preferences about brewing method, strength, temperature, and what goes alongside it. Staff who can speak knowledgeably about the coffee being served — its origin, roast level, or brewing style — turn a routine beverage offer into a genuinely warm hospitality moment. The post-meal coffee offer is also a natural opportunity to enrich the guest's experience, and when handled gracefully rather than pushily, it almost always lands well.
 
-The phrase 食後にコーヒーはいかがでしょうか is a textbook example of the soft, non-pressuring offer style valued in Japanese service. Unlike a direct suggestion, this phrasing invites the guest to decide without feeling obligated. Students often default to 飲みますか out of habit, but that phrasing is too blunt for formal service and loses the gentle, inviting quality that makes the offer feel warm. Always follow up by asking hot or iced, and whether they take milk or sugar, rather than assuming.
+The phrase 食後にコーヒーはいかがでしょうか is a textbook example of the soft, non-pressuring offer style valued in Japanese service. Unlike a direct suggestion, this phrasing invites the guest to decide without feeling obligated. The casual 飲みますか is too blunt for formal service and loses the gentle, inviting quality that makes the offer feel warm. Always follow up by asking hot or iced, and whether the guest takes milk or sugar, rather than assuming.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ The phrase 食後にコーヒーはいかがでしょうか is a textbook exampl
 
 ## Common Mistakes
 
-A common error is offering コーヒー without mentioning an alternative, which can leave non-coffee-drinking guests feeling overlooked. Staff sometimes forget to ask about hot versus iced preference and bring hot coffee by default, which can disappoint a guest who was hoping for something cold. One more thing: using 飲みますか instead of いかがでしょうか drops the soft, inviting quality that formal service depends on. Practice the polite form until it feels completely natural, because guests notice the difference.
+A common error is offering コーヒー without mentioning an alternative, which can leave non-coffee-drinking guests feeling overlooked. Staff sometimes forget to ask about hot versus iced preference and bring hot coffee by default, which can disappoint a guest who was hoping for something cold. Using 飲みますか instead of いかがでしょうか drops the soft, inviting quality that formal service depends on. Practise the polite form until it feels completely natural, because guests notice the difference.
 
 ---
 

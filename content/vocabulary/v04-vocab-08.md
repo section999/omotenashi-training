@@ -29,7 +29,7 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 
 ## Common Mistakes
 
-Students often mix up 補充 and 交換. The distinction is straightforward once you think about it: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full, when hotel standards often require topping it up to full regardless of the current level. When speaking to guests, avoid using the bare word 補充 alone: always specify which item you are restocking so there is no ambiguity.
+補充 and 交換 are sometimes used interchangeably, but the distinction is clear: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full; hotel standards often require topping it up to full regardless of the current level. When speaking to guests, always specify which item is being restocked so there is no ambiguity.
 
 ---
 

@@ -6,7 +6,7 @@ title: レイトチェックアウト (late check-out)
 
 レイトチェックアウト refers to the option of departing from one's hotel room later than the standard check-out time, which in most Japanese hotels is 11:00 AM or 12:00 PM. It is a highly popular request, particularly among guests who have late afternoon flights, business meetings running into the day, or simply wish to enjoy a more leisurely departure. When granted, it allows the guest to use the room, including shower, rest, and storage of belongings, beyond the normal deadline. Hotels typically offer this subject to availability, and it may be complimentary for members or chargeable depending on policy.
 
-In practice, staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is the same: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.
+In a hospitality context, staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is the same: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff handle レイトチェックアウト requests either at chec
 
 ## Common Mistakes
 
-A common error is agreeing to レイトチェックアウト without first checking system availability. This can lead to housekeeping conflicts and complaints if the room is needed for an incoming guest. Students sometimes omit the fee disclosure, either forgetting it or hoping to avoid awkwardness, but this invariably causes disputes at check-out. Fees must always be communicated upfront. That said, the way you decline matters just as much as the refusal itself. Avoid saying レイトチェックアウトはできません flatly. Instead, acknowledge the request warmly and offer the closest available alternative before delivering the refusal.
+A common error is agreeing to レイトチェックアウト without first checking system availability. This can lead to housekeeping conflicts and complaints if the room is needed for an incoming guest. Fee disclosure must happen upfront, every time — omitting it causes disputes at check-out. The way a refusal is delivered also matters. Avoid saying レイトチェックアウトはできません flatly. Instead, acknowledge the request warmly and offer the closest available alternative before explaining the constraint.
 
 ---
 
