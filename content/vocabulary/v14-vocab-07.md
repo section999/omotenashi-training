@@ -22,16 +22,19 @@ the most common scenario one will face is a guest at a traditional ryokan who di
 *Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.*
 "Currency exchange rates change daily, so please check for the latest information."
 
+
 ## Related Expressions
 
 - **円 (en)**: the specific name of Japan's 通貨; used when talking about actual amounts, such as 1,000円, rather than the monetary system in the abstract.
 - **為替レート (kawase reeto)**: the exchange rate between currencies; directly relevant when guests ask one to translate a price into their home currency.
 
+
 ## Common Mistakes
 
-A common error is to confuse 通貨 (the currency system as a concept) with 現金 (genkin, "cash"): 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins in one's hand. Worth noting here is a tricky homophone: 通過 (tsuuka) means "passing through" and is written and pronounced identically. Context usually saves one in speech, but in written communication be careful which kanji one reach for. On pronunciation, the final consonant is an unvoiced /k/: *tsuu-ka*, not *tsuu-ga*.
+A common error is to confuse 通貨 (the currency system as a concept) with 現金 (genkin, "cash"): 通貨 is the abstract monetary system, while 現金 refers to physical banknotes and coins in one's hand. Note: here is a tricky homophone: 通過 (tsuuka) means "passing through" and is written and pronounced identically. Context usually saves one in speech, but in written communication be careful which kanji one reach for. On pronunciation, the final consonant is an unvoiced /k/: *tsuu-ka*, not *tsuu-ga*.
 
 ---
+
 
 ## Quiz
 

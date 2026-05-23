@@ -19,16 +19,19 @@ this is how it works. When a guest drops off luggage for storage, one record the
 *Takkyuubin no kanri bangou wo o-hikaе itadaku to, haitatsu joukyou wo go-kakunin itadakemasu.*
 "If you keep a note of the courier tracking number, one will be able to check the delivery status."
 
+
 ## Related Expressions
 
 - **伝票番号 (denpyou bangou)**: slip or waybill number; the number printed on a courier or delivery slip, essentially a 管理番号 specific to the shipping world
 - **予約番号 (yoyaku bangou)**: reservation number; the same concept applied to bookings, used to pull up a guest's reservation in the hotel system
 
+
 ## Common Mistakes
 
-A common error is to translate 管理番号 literally as "management number," which sounds a bit odd in English. Depending on the situation, the natural English equivalent is "tracking number," "reference number," or "claim number." Worth noting on the Japanese side too: if one drop the 管理 and just say 番号 to a guest, it is vague enough to cause confusion. Always use the full term 管理番号 in guest communication so there is no ambiguity about what one is referring to.
+A common error is to translate 管理番号 literally as "management number," which sounds a bit odd in English. Depending on the situation, the natural English equivalent is "tracking number," "reference number," or "claim number." Note: on the Japanese side too: if one drop the 管理 and just say 番号 to a guest, it is vague enough to cause confusion. Always use the full term 管理番号 in guest communication so there is no ambiguity about what one is referring to.
 
 ---
+
 
 ## Quiz
 

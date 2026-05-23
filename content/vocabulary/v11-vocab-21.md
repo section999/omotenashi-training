@@ -22,16 +22,19 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of one
 *Goyouken wa yoyaku no go-henkou deshou ka.*
 "Is one's matter regarding a change to one's reservation?"
 
+
 ## Related Expressions
 
 - **お問い合わせ (otoiawase)**: an inquiry or question from a guest, which is a specific type of ご用件; once one has established that the ご用件 is a question or information request, one can route the caller or visitor accordingly.
 - **ご要望 (go-yobou)**: a wish, request, or preference; more specific than ご用件, ご要望 refers to something the guest would like the hotel to do or provide, so understanding the difference helps one prepare the right kind of response.
+
 
 ## Common Mistakes
 
 A frequent error is using ご用件は何ですか instead of ご用件をお伺いします. Both are grammatically correct, but お伺いします is a humble form that shows deference to the guest, making it significantly more appropriate in hospitality. Skipping ご用件 altogether and jumping straight to action based on an assumption is also risky. Confirming ご用件 back to the caller before transferring them, something like ご予約のご変更でございますね, takes three seconds and prevents the kind of misrouting that frustrates guests and wastes everyone's time.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ A frequent error is using ご用件は何ですか instead of ご用件をお伺
 
 **Correct Answer:** ご用件 (your inquiry / business)
 
-**Explanation:** ご用件 names the purpose or matter that brought the guest to you, and knowing it before taking any action is how you route calls correctly the first time. お伺いします uses the humble verb form that genuinely belongs in guest-facing communication, which the more blunt ご用件は何ですか simply lacks. The other options in this set name things, such as a person's name or a technical component, rather than describing the reason for contact.
+**Explanation:** ご用件 names the purpose or matter that brought the guest to you, and knowing it before taking any action is how you route calls correctly the first time. お伺いします uses the humble verb form that belongs in guest-facing communication, which the more blunt ご用件は何ですか lacks. The other options in this set name things, such as a person's name or a technical component, rather than describing the reason for contact.

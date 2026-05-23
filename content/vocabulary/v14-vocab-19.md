@@ -22,16 +22,19 @@ Hotel staff are asked about バス routes constantly, and airport transfers are 
 *Rimujin basu no goyoyaku wa furonto nite otetsuzuki itadakemasu.*
 "Limousine bus reservations can be arranged at the front desk."
 
+
 ## Related Expressions
 
 - **バス停 (basu-tei)**: bus stop; the physical location where passengers wait and board, the most essential piece of information to give alongside any バス direction
 - **観光バス (kankou basu)**: sightseeing bus; a specialized service for tourists, often with on-board commentary and stops optimized around popular attractions
 
+
 ## Common Mistakes
 
-A common assumption is that all バス services in Japan accept IC cards, but many rural or tourist-specific routes require exact cash fare, with no change given. A common error is miss this point and guests can end up scrambling for coins. Always confirm the payment method when advising someone about a specific route. The particle error is the same one as with 電車: バスに乗る is correct, not バスを乗る. Worth noting as a final point: バス also appears in hospitality as a shortened form of バスルーム (bathroom), so if a guest says 「バスはどこですか」, make sure one is understanding them in context before one start giving transit directions.
+A common assumption is that all バス services in Japan accept IC cards, but many rural or tourist-specific routes require exact cash fare, with no change given. A common error is miss this point and guests can end up scrambling for coins. Always confirm the payment method when advising someone about a specific route. The particle error is the same one as with 電車: バスに乗る is correct, not バスを乗る. Note: as a final point: バス also appears in hospitality as a shortened form of バスルーム (bathroom), so if a guest says 「バスはどこですか」, make sure one is understanding them in context before one start giving transit directions.
 
 ---
+
 
 ## Quiz
 

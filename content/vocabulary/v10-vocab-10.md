@@ -22,16 +22,19 @@ The process starts with confirming the 宛名 before printing anything. For indi
 *Tadaima ryoushuusho wo hakkou itashimasu. Shoushou o-machi kudasai.*
 "I will issue one's receipt right away. Please wait just a moment."
 
+
 ## Related Expressions
 
 - **明細書 (meisaisho)**: itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment. These are two separate documents, and a guest may need both.
 - **宛名 (atena)**: the addressee name on the receipt; must be confirmed before printing, since it cannot be corrected after issuance without scrapping the document and starting over.
+
 
 ## Common Mistakes
 
 The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology that could easily have been avoided. Students also sometimes confuse 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and staff should not assume one covers the other. Additionally: never write the amount by hand in pencil, and never leave the 宛名 blank. Either one compromises the legal validity of the receipt.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ For hotel staff, 人気 is useful in service conversations. When a guest asks fo
 *Ima no kisetsu wa Fujisan no tsuaa ga ichiban ninki desu.*
 "At this time of year, the Mount Fuji tour is the most popular."
 
+
 ## Related Expressions
 
 - **おすすめ (osusume)**: a personal recommendation coming from the speaker; contrasts with 人気, which implies broad public approval from many people
 - **評判 (hyouban)**: reputation or word-of-mouth buzz; similar territory to 人気 but emphasizes what people are saying rather than a measurable popularity count
 
+
 ## Common Mistakes
 
-A common error is to mix up 人気 and おすすめ and use them as if they mean the same thing, but the distinction matters. 人気 is about objective popularity (many people like this), while おすすめ is a personal suggestion from one. Additionally, to watch: saying 人気がいい is a very common error. The correct forms are 人気がある or 人気が高い. The adjective form doesn't pair naturally with いい. When writing formally, 人気を博している (enjoying popularity) is more polished than simply 人気だ.
+A common error is to mix up 人気 and おすすめ and use them as if they mean the same thing, but the distinction matters. 人気 is about objective popularity (many people like this), while おすすめ is a personal suggestion from one. Additionally, to watch: saying 人気がいい is a very common error. The correct forms are 人気がある or 人気が高い. The adjective form doesn't pair naturally with いい. When writing formally, 人気を博している (enjoying popularity) is more polished than 人気だ.
 
 ---
+
 
 ## Quiz
 

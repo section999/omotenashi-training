@@ -22,16 +22,19 @@ Keeping track of 残高 is a quiet but critical part of smooth hospitality opera
 *Puripeido kaado no zandaka o go-kakunin itadakemasu ka.*
 "Could you please check the balance on one's prepaid card?"
 
+
 ## Related Expressions
 
 - **不足 (fusoku)**: 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound one reach for when a balance falls short of a charge; knowing this pairing lets one communicates payment shortfalls precisely without sounding blunt.
 - **合計 (goukei)**: 合計 is the full total owed, while 残高 is what remains after partial payment or what sits in a prepaid account; together they give both staff and guests a clear picture of where things stand at checkout.
+
 
 ## Common Mistakes
 
 The most common error is using 残高 without specifying which direction it points, leaving the guest wondering whether they have money to spend or money they owe. Adding a qualifier makes the meaning clear: ご利用可能な残高 for an available balance to spend, and お支払い残高 for an outstanding amount due. The other mistake is skipping the balance check before the final transaction. A quick inquiry beforehand prevents payment failures at the desk, which are far more awkward for everyone than a gentle heads-up the day before.
 
 ---
+
 
 ## Quiz
 

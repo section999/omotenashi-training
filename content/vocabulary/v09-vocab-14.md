@@ -5,7 +5,7 @@ title: 割引 (waribiki)
 ---
 割引 (waribiki) means a reduction in price, offered through mechanisms such as early-bird booking rates, seasonal promotions, loyalty programme discounts, or package deals. In Japanese hospitality, clearly communicating any applicable 割引 is considered a mark of transparent and considerate service, as guests who feel they received good value are far more likely to return. Understanding this term allows front-line staff to explain pricing structures with confidence and precision.
 
-割引 appears in a wide range of hotel interactions: confirming a reservation rate, explaining the difference between a standard rate and a promotional rate, or breaking down a guest's invoice at checkout. The standard staff phrase is 通常〇円のところ、〇円割引で〇円でございます, which states the original price, the discount amount, and the final charge in sequence. This three-part structure eliminates ambiguity and allows the guest to feel the benefit concretely rather than just seeing a final number\n## Example Sentences
+割引 appears in a wide range of hotel interactions: confirming a reservation rate, explaining the difference between a standard rate and a promotional rate, or breaking down a guest's invoice at checkout. The standard staff phrase is 通常〇円のところ、〇円割引で〇円でございます, which states the original price, the discount amount, and the final charge in sequence. This three-part structure eliminates ambiguity and allows the guest to see the benefit concretely rather than seeing only a final number\n## Example Sentences
 
 **1.** 早割プランをご利用いただくと、通常料金より20％割引となっております。
 *Hayawari puran wo go-riyou itadaku to, tsuujou ryoukin yori nijuu-paasento waribiki to natte orimasu.*
@@ -19,16 +19,19 @@ title: 割引 (waribiki)
 *Waribiki go no kingaku wa goukei de ichiman-gosen-en de gozaimasu.*
 "The total amount after the discount is 15,000 yen."
 
+
 ## Related Expressions
 
 - **値引き (nebiki)**: Like 割引, 値引き means a price reduction, but 値引き implies a more informal or negotiated reduction, often used in retail or market contexts. In hotel settings, 割引 is strongly preferred as it refers to a structured, policy-based discount rather than an ad-hoc bargain.
 - **サービス料 (saabisu ryou)**: A service charge added on top of the base rate, making it the conceptual opposite of 割引. Understanding both terms together helps staff explain how a final invoice is calculated when both a discount and a service charge are present.
 
+
 ## Common Mistakes
 
-Confusing 割引 with 値引き and using the two interchangeably is a common error, but in a hotel context 値引き can sound informal or suggest the guest has haggled, which is inappropriate. Another frequent mistake is stating only the final price without explaining the original rate, which deprives the guest of understanding what they saved; always use the full construction 通常〇円のところ〇円割引で〇円でございます. Additionally, omitting the percentage or amount of the discount and simply saying 割引があります is too vague to be useful in a professional interaction.
+Confusing 割引 with 値引き and using the two interchangeably is a common error, but in a hotel context 値引き can sound informal or suggest the guest has haggled, which is inappropriate. Another frequent mistake is stating only the final price without explaining the original rate, which deprives the guest of understanding what they saved; always use the full construction 通常〇円のところ〇円割引で〇円でございます. Additionally, omitting the percentage or amount of the discount and saying 割引があります is too vague to be useful in a professional interaction.
 
 ---
+
 
 ## Quiz
 

@@ -19,16 +19,19 @@ In practical hotel work, staff use 雑巾 as part of regular room turnover and d
 *Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.*
 "Please use the color-coded cloths designated for each purpose."
 
+
 ## Related Expressions
 
 - **モップ (moppu)**: A wet mop used for cleaning large floor areas. While 雑巾 is used for detailed hand-wiping of surfaces and furniture, モップ covers expansive floor space more efficiently; both tools have distinct roles and should not be substituted for each other.
 - **タオル (taoru)**: A towel, which in a hospitality context is a guest-facing item. Unlike 雑巾, which is a staff cleaning tool, タオル is provided for guests and should never be repurposed as a cleaning cloth.
 
+
 ## Common Mistakes
 
-One of the most persistent errors in training: using a guest タオル as a 雑巾. This boundary gets blurred, especially when trainees are in a hurry, but guest towels must never become cleaning rags. Worth noting too: failing to specify wet or dry makes a real difference in practice. 濡れた雑巾 (damp cloth) and 乾いた雑巾 (dry cloth) have different finishing purposes, and using the wrong one can leave streaks or residue. Finally, watch the particle: 雑巾**で**拭きます is correct; 雑巾を拭きます is wrong.
+Notable persistent errors in training include using a guest タオル as a 雑巾. This boundary gets blurred, especially when trainees are in a hurry, but guest towels must never become cleaning rags. Failing to specify wet or dry makes a difference: 濡れた雑巾 (damp cloth) and 乾いた雑巾 (dry cloth) have different finishing purposes, and using the wrong one can leave streaks or residue. The particle should be observed correctly: 雑巾**で**拭きます is correct; 雑巾を拭きます is wrong.
 
 ---
+
 
 ## Quiz
 
@@ -42,4 +45,4 @@ One of the most persistent errors in training: using a guest タオル as a 雑�
 
 **Correct Answer:** 雑巾 (cleaning cloth / rag)
 
-**Explanation:** 雑巾 is the hand-wiping cloth used for close-contact surface work like tables, shelves, and bathroom counters, making it the right answer here. A vacuum cleaner handles floor debris, a mop washes large floor areas, and a trash can holds waste, each has its own function, and reaching for the wrong one in practice wastes time and produces a poor result.
+**Explanation:** 雑巾 is the hand-wiping cloth used for close-contact surface work like tables, shelves, and bathroom counters, making it the right answer here. A vacuum cleaner handles floor debris, a mop washes large floor areas, and a trash can holds waste, each has its own function, and reaching for the wrong one wastes time and produces a poor result.

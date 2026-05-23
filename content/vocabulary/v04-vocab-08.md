@@ -3,7 +3,7 @@ id: v04-vocab
 section: 8
 title: 補充 (hojuu)
 ---
-補充 means replenishment or restocking: refilling or replacing consumable items in a guest room or facility. In the hotel context, 補充 happens every time a room is serviced, covering toiletries like shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The ideal is that a guest never notices an item running low because it has already been topped up before they reach for it. That kind of unobtrusive attentiveness is exactly what housekeeping 補充 is meant to achieve.
+補充 means replenishment or restocking: refilling or replacing consumable items in a guest room or facility. In the hotel context, 補充 happens every time a room is serviced, covering toiletries like shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The ideal is that a guest never notices an item running low because it has already been topped up before they reach for it. That kind of unobtrusive attentiveness is what housekeeping 補充 is meant to achieve.
 
 In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser\n## Example Sentences
 
@@ -26,7 +26,7 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 
 ## Common Mistakes
 
-補充 and 交換 are sometimes used interchangeably, but the distinction is clear: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full; hotel standards often require topping it up to full regardless of the current level. When speaking to guests, always specify which item is being restocked so there is no ambiguity.
+補充 and 交換 are sometimes used interchangeably, but the distinction is clear: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full; hotel standards often require topping it up to full regardless of the current level. When speaking to guests, staff should always specify which item is being restocked so there is no ambiguity.
 
 ---
 

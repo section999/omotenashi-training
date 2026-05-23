@@ -22,16 +22,19 @@ one encounter 注意事項 in all sorts of settings. Onsen facilities post rules
 *Tsuaa shuppatsu mae ni, anzen ni kan suru chuui jikou wo go-setsumei itashimasu no de, yoku o-kiki kudasai.*
 "Before the tour departs, we will explain safety precautions, so please listen carefully."
 
+
 ## Related Expressions
 
 - **禁止事項 (kinshi jikou)**: prohibited acts or forbidden items; a stricter subset of 注意事項 that lists specifically what is not allowed. The two are often posted together, with 注意事項 as the broader notice and 禁止事項 as the explicit prohibitions within it.
 - **注意書き (chuuigaki)**: written caution or warning label; the physical text or signage that communicates 注意事項, such as the notice posted at a facility entrance or the caution printed on a product.
 
+
 ## Common Mistakes
 
-A common error is to confuse 注意事項 with 規則 (kisoku, rules or regulations). Both involve guidelines for behaviour, but 注意事項 specifically frames content as matters requiring care and attention, while 規則 refers to formally established institutional rules. The nuance matters when choosing which word fits one's communication. Worth noting about pronunciation: the long vowel in 注意 (chuu-i) needs to be clearly two beats. Shortening it changes the feel of the word and can reduce clarity, especially when delivering safety information to guests who are listening carefully.
+A common error is to confuse 注意事項 with 規則 (kisoku, rules or regulations). Both involve guidelines for behaviour, but 注意事項 specifically frames content as matters requiring care and attention, while 規則 refers to formally established institutional rules. The nuance matters when choosing which word fits one's communication. Note: about pronunciation: the long vowel in 注意 (chuu-i) needs to be clearly two beats. Shortening it changes the feel of the word and can reduce clarity, especially when delivering safety information to guests who are listening carefully.
 
 ---
+
 
 ## Quiz
 

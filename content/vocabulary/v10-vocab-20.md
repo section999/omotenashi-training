@@ -22,16 +22,19 @@ The phrasing one choose matters enormously here. お金が足りません can co
 *Zandaka ga fusoku shite iru tame, tsuika no oshiharai ga hitsuyou desu.*
 "Because the balance is insufficient, an additional payment is required."
 
+
 ## Related Expressions
 
 - **残高不足 (zandaka fusoku)**: This compound specifically means an insufficient account or card balance, and is the most common form 不足 takes in hotel payment contexts; it also appears as an error message on electronic payment terminals, so guests may already be familiar with it.
 - **超過 (chouka)**: 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps one communicates about any financial discrepancy, whether the guest has too little or the charge is too high.
+
 
 ## Common Mistakes
 
 The most common mistake is using お金が足りません, which is technically accurate but sounds like a reprimand. 〇〇円ご不足です conveys the same information far more diplomatically. Identifying a problem without offering a solution is considered incomplete service in Japanese hospitality culture -- announcing 不足 and then waiting is not enough; follow up immediately with an option. As a general rule, never announce a payment shortfall loudly or in earshot of other guests.
 
 ---
+
 
 ## Quiz
 

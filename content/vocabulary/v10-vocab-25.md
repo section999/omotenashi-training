@@ -22,16 +22,19 @@ For properties that do accept 外貨, the exchange rate must be checked daily, n
 *Gaika de no oshiharai no baai, honjitsu no kawase reeto o tekiyou itashimasu.*
 "For payments in foreign currency, today's exchange rate will be applied."
 
+
 ## Related Expressions
 
 - **両替 (ryougae)**: 両替 is the act of exchanging currency, the service guests most often need when they have 外貨; staff should be able to explain whether it's available on-site, the service hours, and any 手数料 that applies.
 - **為替 (kawase)**: 為替 refers to the exchange rate used to convert 外貨 into Japanese yen; the 外貨 is the currency itself, and the 為替 is the mechanism that determines its value in yen.
+
 
 ## Common Mistakes
 
 Quoting an exchange rate from memory or using yesterday's figure is a common and costly error. Rates shift daily, and even a small discrepancy can mean the hotel absorbs a loss or the guest gets overcharged. Always check before one quote. A common error is to also treat 外貨 as a single concept without knowing the names of individual currencies. Note: being able to say 米ドル (U.S. dollars), ユーロ (euros), and other commonly held currencies by name signals to international guests that one is prepared to help them, not just reaching for a generic category word.
 
 ---
+
 
 ## Quiz
 

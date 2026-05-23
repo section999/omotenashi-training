@@ -22,16 +22,19 @@ The response sequence matters: attend to the injured person first, then secure t
 *Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.*
 "The details of the accident were compiled in a report and submitted to the manager the following day."
 
+
 ## Related Expressions
 
 - **トラブル (toraburu)**: trouble; a loanword for operational problems or minor guest complaints that fall short of being a formal 事故. Using this word for a serious accident would come across as minimising what happened, so choose carefully based on severity.
 - **インシデント (inshidento)**: incident; a loanword that has grown more common in hospitality and medical settings, used for any unplanned event that required attention, including near-misses where no actual harm occurred but danger was present. It is broader than 事故 in that way.
 
+
 ## Common Mistakes
 
-Delaying a report is a common errors students make with 事故. Even something that looks minor right now should be documented immediately, because symptoms of injury, especially internal ones, can appear hours later, and an undocumented event leaves the hotel legally exposed. There is also an important vocabulary distinction to keep straight: 事件 (jiken) means a criminal incident or case, while 事故 means an accident. Using 事件 by mistake implies intentional wrongdoing, which dramatically changes the meaning. Worth noting too is that speculating about the cause of a 事故 in front of guests is a mistake: stick to factual, calm communication and refer the matter to management.
+Delaying a report is a common errors students make with 事故. Even something that looks minor right now should be documented immediately, because symptoms of injury, especially internal ones, can appear hours later, and an undocumented event leaves the hotel legally exposed. There is also an important vocabulary distinction to keep straight: 事件 (jiken) means a criminal incident or case, while 事故 means an accident. Using 事件 by mistake implies intentional wrongdoing, which dramatically changes the meaning. Note: too is that speculating about the cause of a 事故 in front of guests is a mistake: stick to factual, calm communication and refer the matter to management.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ Delaying a report is a common errors students make with 事故. Even something t
 
 **Answer:** 事故
 
-**Explanation:** 事故 covers any unplanned harmful event, from a guest slip to a kitchen injury, and every one of them must be reported and documented regardless of apparent severity. Students sometimes reach for 事件, which implies a criminal act rather than an accident, so keeping that distinction sharp prevents serious miscommunication in reports and guest conversations.
+**Explanation:** 事故 covers any unplanned harmful event, from a guest slip to a kitchen injury, and every one of them must be reported and documented regardless of apparent severity. A common error is reach for 事件, which implies a criminal act rather than an accident, so keeping that distinction sharp prevents serious miscommunication in reports and guest conversations.

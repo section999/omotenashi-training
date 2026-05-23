@@ -19,16 +19,19 @@ The concept of 効率 is closely linked to 改善 (kaizen, continuous improvemen
 *Sutaffu no minasama no go-kyouryoku no okage de, gyoumu kouritsu ga oohaba ni kaizen saremashita.*
 "Thanks to the cooperation of all staff members, operational efficiency has improved significantly."
 
+
 ## Related Expressions
 
 - **生産性 (seisansei)**: productivity; a broader measure of output relative to input, often used when discussing overall hotel or department performance rather than individual task efficiency
 - **無駄 (muda)**: waste; the elimination of 無駄 is considered a core method for raising 効率, as unnecessary steps, waiting time, and excess materials all reduce efficiency
 
+
 ## Common Mistakes
 
-A common mistake is using 効率 only in negative constructions such as「効率が悪い」(inefficient) without being able to express its positive form naturally. Students should practise「効率よく～する」(to do something efficiently) and「効率を上げる／高める」(to raise efficiency) as these are the most practical forms in workplace speech. Another error is confusing 効率 with 速度 (sokudo, speed), efficiency implies optimal use of resources and not simply doing things faster, so context matters when choosing between the two terms.
+A common mistake is using 効率 only in negative constructions such as「効率が悪い」(inefficient) without being able to express its positive form naturally. Students should practise「効率よく～する」(to do something efficiently) and「効率を上げる／高める」(to raise efficiency) as these are the most practical forms in workplace speech. Another error is confusing 効率 with 速度 (sokudo, speed), efficiency implies optimal use of resources and not doing things faster, so context matters when choosing between the two terms.
 
 ---
+
 
 ## Quiz
 
@@ -38,4 +41,4 @@ A common mistake is using 効率 only in negative constructions such as「効率
 
 **Answer:** 効率
 
-**Explanation:** 効率 captures the idea of achieving the best possible outcome from the time and resources available, a constant focus in hospitality operations where guest care and speed must both stay high. It is worth separating from 速度 (speed alone), because 効率 is about optimal use of resources, not simply going faster, and that distinction comes up whenever staff discuss workflow improvements or 改善 proposals.
+**Explanation:** 効率 captures the idea of achieving the best possible outcome from the time and resources available, a constant focus in hospitality operations where guest care and speed must both stay high. It is worth separating from 速度 (speed alone), because 効率 is about optimal use of resources, not going faster, and that distinction comes up whenever staff discuss workflow improvements or 改善 proposals.

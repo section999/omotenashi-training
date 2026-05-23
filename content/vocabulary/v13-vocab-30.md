@@ -22,16 +22,19 @@ Staff evaluations in Japanese hotels typically follow a regular cycle -- monthly
 *Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*
 "We will continue to support the growth of each staff member through regular evaluations."
 
+
 ## Related Expressions
 
 - **査定 (satei)**: assessment in the context of salary reviews or formal grading; more administrative in tone than 評価, which can be used broadly for anything from guest satisfaction to staff performance
 - **フィードバック (fiido-bakku)**: the conversational delivery of evaluation findings to an individual, typically framed warmly and used alongside the more formal 評価 process
 
+
 ## Common Mistakes
 
-A common error is to confuse 評価 with 批判 (hihan, criticism) or 判断 (handan, judgement), but 評価 carries a neutral-to-positive tone of comprehensive assessment rather than negative criticism. Worth noting is that 評価する has two distinct meanings that context determines: it can mean "to evaluate" and it can also mean "to appreciate or rate highly." For example, お客様に高く評価していただいた means "We were highly rated by our guests," not simply "We were evaluated by guests." That double meaning requires real attention in reading and listening. One more practical point: avoid using 評価 in casual conversation with guests, as it sounds clinical and out of place. Keep it for internal staff communications and management reports where that level of formality fits naturally.
+A common error is to confuse 評価 with 批判 (hihan, criticism) or 判断 (handan, judgement), but 評価 carries a neutral-to-positive tone of comprehensive assessment rather than negative criticism. Note: is that 評価する has two distinct meanings that context determines: it can mean "to evaluate" and it can also mean "to appreciate or rate highly." For example, お客様に高く評価していただいた means "We were highly rated by our guests," not "We were evaluated by guests." That double meaning requires real attention in reading and listening. One more practical point: avoid using 評価 in casual conversation with guests, as it sounds clinical and out of place. Keep it for internal staff communications and management reports where that level of formality fits naturally.
 
 ---
+
 
 ## Quiz
 

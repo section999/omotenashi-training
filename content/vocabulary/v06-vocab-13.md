@@ -29,7 +29,7 @@ The most important principle when speaking with a guest about a 水漏れ is to 
 
 ## Common Mistakes
 
-A critical error is downplaying a 水漏れ and delaying the call to maintenance. Even a slow drip can cause significant water damage if left unchecked, and electricity near water is a real safety risk. Never ask the guest to handle any part of the situation themselves, a phrase like 「タオルで押さえておいてください」 (please hold a towel over it) shifts responsibility in a direction it should never go. The correct posture is always immediate professional response combined with clear communication about what happens next, no matter how small the leak appears.
+A critical error is downplaying a 水漏れ and delaying the call to maintenance. Even a slow drip can cause significant water damage if left unchecked, and electricity near water is a safety risk. The guest should never be asked to handle any part of the situation themselves, a phrase like 「タオルで押さえておいてください」 (please hold a towel over it) shifts responsibility in a direction it should never go. The correct posture is always immediate professional response combined with clear communication about what happens next, no matter how small the leak appears.
 
 ---
 

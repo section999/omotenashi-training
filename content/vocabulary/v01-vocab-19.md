@@ -3,11 +3,14 @@ id: v01-vocab
 section: 19
 title: お気をつけて (oki o tsukete)
 ---
-**お気をつけて** means "please take care" or "please be safe." It is said when someone is leaving, heading out, or about to travel somewhere. The phrase contains *ki* (気, spirit/attention) and *tsukeru* (付ける, to apply/attach), so literally it's asking the person to "apply their attention to safety." That etymology matters because it tells one something real about the spirit behind the phrase.
 
-In hospitality, *o-ki wo tsukete* comes up whenever a guest departs. They're heading out sightseeing, leaving after a meal, or setting off for the station. It pairs naturally with *itterasshai* (行ってらっしゃい, "please go and come back safely") for guests who will return, or with *mata okoshi kudasaimase* (またお越しくださいませ, "please visit us again") for those who are checking out for good. Knowing which farewell fits which situation is the kind of detail that separates well-trained staff from great ones.
+**お気をつけて** means "please take care" or "please be safe." It is said when someone is leaving, heading out, or about to travel somewhere. The phrase contains *ki* (気, spirit/attention) and *tsukeru* (付ける, to apply/attach), so literally it is asking the person to "apply their attention to safety." That etymology reveals something about the spirit behind the phrase.
 
-A common error is to rush this phrase when things get busy, or drop it entirely. That is exactly when it matters most. In Japanese culture, the moment of parting carries real weight. Saying *o-ki wo tsukete* with a genuine bow tells the guest something that no facility feature can: *I still care what happens to you once you leave.* That is omotenashi at the threshold\n## Example Sentences
+In hospitality, *o-ki wo tsukete* comes up whenever a guest departs. They are heading out sightseeing, leaving after a meal, or setting off for the station. It pairs naturally with *itterasshai* (行ってらっしゃい, "please go and come back safely") for guests who will return, or with *mata okoshi kudasaimase* (またお越しくださいませ, "please visit us again") for those who are checking out for good. Knowing which farewell fits which situation is the kind of detail that distinguishes well-trained staff.
+
+A common error is rushing this phrase when things get busy, or dropping it entirely. Yet it matters most at those times. In Japanese culture, the moment of parting carries real weight. Saying *o-ki wo tsukete* with a genuine bow tells the guest something that no facility feature can: *I still care what happens to you once you leave.* That is omotenashi at the threshold
+
+## Example Sentences
 
 **1.** いってらっしゃいませ。お気をつけて。
 *Itterasshai mase. O-ki wo tsukete.*
@@ -29,7 +32,7 @@ A common error is to rush this phrase when things get busy, or drop it entirely.
 
 ## Common Mistakes
 
-Additionally, do not use *o-ki wo tsukete* when a guest is moving to a different area of the property. The phrase implies a real departure, and using it when someone is just heading to the restaurant can confuse them about whether they are leaving. Save it for genuine exits. The other mistake is delivering the phrase on autopilot, fast, flat, and barely audible. A brief moment of eye contact and a small bow transforms it from a scripted line into something the guest will remember.
+Using *o-ki wo tsukete* when a guest is moving to a different area of the property should be avoided. The phrase implies a departure, and using it when someone is just heading to the restaurant can confuse them about whether they are leaving. It should be saved for genuine exits. The other mistake is delivering the phrase on autopilot, fast, flat, and barely audible. A brief moment of eye contact and a small bow helps ensure the guest remembers it.
 
 ---
 

@@ -19,16 +19,19 @@ title: フォーク (fooku)
 *Dezaato fooku mo go-issho ni o-mochi itashimashou ka.*
 "Shall I also bring a dessert fork along with that?"
 
+
 ## Related Expressions
 
 - **ナイフ (naifu)**: Knife. フォーク and ナイフ are the two foundational Western cutlery items; they are routinely set and replaced as a pair, and staff should think of them together rather than as isolated items when assessing a table's readiness.
 - **スプーン (supuun)**: Spoon. The full Western cutlery trio is ナイフ・フォーク・スプーン; knowing all three terms and their placement rules (spoon to the right of the knife) prepares staff for complete table setup and guest requests.
 
+
 ## Common Mistakes
 
-A very common error among new staff is confusing left and right placement: フォーク goes to the left of the plate, ナイフ to the right: getting this backwards is immediately noticeable to experienced diners and should be corrected in training before service begins. A common mistake is respond to a guest's request for a fork with a compound offer (ナイフもご一緒にいかがでしょうか: "would you like a knife as well?") before confirming the guest already has one, which can come across as dismissive of the original request; address the immediate need first. Finally, do not mispronounce フォーク as フォーク with a short'o': the vowel is long (foo), and rushing it can make the word sound like 歩く (aruku: to walk) or other unrelated words.
+A very common error among new staff is confusing left and right placement: フォーク goes to the left of the plate, ナイフ to the right: getting this backwards is immediately noticeable to experienced diners and should be corrected in training before service begins. A common mistake is responding to a guest's request for a fork with a compound offer (ナイフもご一緒にいかがでしょうか: "would you like a knife as well?") before confirming the guest already has one, which can come across as dismissive of the original request; the immediate need should be addressed first. Staff should not mispronounce フォーク as フォーク with a short'o': the vowel is long (foo), and rushing it can make the word sound like 歩く (aruku: to walk) or other unrelated words.
 
 ---
+
 
 ## Quiz
 

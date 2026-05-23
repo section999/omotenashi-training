@@ -19,16 +19,19 @@ Best practice in Japanese hotel phone etiquette is to always name the destinatio
 *Tadaima tantōsha ni jōkyō wo otsutatae shite kara otsunagi itashimasu.*
 "I will brief the person in charge before connecting you."
 
+
 ## Related Expressions
 
 - **転送いたします**: a more technical way to say "I will transfer the call"; お繋ぎします has a warmer, more personal feel, while 転送 reads as more operational and tends to appear in internal communications
 - **少々お待ちください**: always paired with お繋ぎします; never initiate a transfer without first asking the caller to hold, because leaving silence with no warning feels abrupt and unsettling
 
+
 ## Common Mistakes
 
-A common error is to say お繋ぎします without specifying where the call is going, which leaves the caller uncertain and a little anxious about who will pick up. Always name the department or person first. There's also a common register slip worth watching: つなぎます is plain form and too casual for guest-facing speech; use お繋ぎします or, for full keigo, お繋ぎいたします. Additionally: check that the receiving party is available before one initiate the transfer. Connecting a caller to a line that rings and rings with no answer is worse than simply asking them to hold while one sort it out.
+A common error is to say お繋ぎします without specifying where the call is going, which leaves the caller uncertain and a little anxious about who will pick up. Always name the department or person first. There's also a common register slip worth watching: つなぎます is plain form and too casual for guest-facing speech; use お繋ぎします or, for full keigo, お繋ぎいたします. Additionally: check that the receiving party is available before one initiate the transfer. Connecting a caller to a line that rings and rings with no answer is worse than asking them to hold while one sort it out.
 
 ---
+
 
 ## Quiz
 

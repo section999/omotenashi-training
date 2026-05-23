@@ -22,16 +22,19 @@ When one does call the 警察, be ready to give one's facility name and full add
 *Keisatsu ga touchaku suru made, genba wo hozon shi, okyakusama wo betsu no basho de omachi itadakimashita.*
 "We preserved the scene and had the guest wait in another location until the police arrived."
 
+
 ## Related Expressions
 
 - **110番 (hyaku-juu-ban)**: Japan's emergency police contact number, equivalent to 911 in the US; every hospitality staff member must have this memorised before their first shift, no exceptions
 - **警備員 (keibiin)**: on-site security guard employed by the hotel; 警備員 handle routine security matters on the premises, while 警察 are the government law enforcement called for actual criminal incidents
 
+
 ## Common Mistakes
 
-A common error is describe a reluctance to call 警察 promptly out of worry about escalating the situation or affecting the hotel's reputation. This is the wrong instinct. Under-reporting can lead to harm for other guests and serious legal liability for the property. Worth noting, there is also a common confusion between 警察 (police) and 警備 (security): on-site 警備員 are one's first line for routine security, but criminal matters require law enforcement authority and should not be left to hotel security alone. Additionally: do not attempt to question or detain a suspected criminal yourself before the 警察 arrive. That can compromise the investigation and put staff at risk.
+A common error is describe a reluctance to call 警察 promptly out of worry about escalating the situation or affecting the hotel's reputation. This is the wrong instinct. Under-reporting can lead to harm for other guests and serious legal liability for the property. Note: there is also a common confusion between 警察 (police) and 警備 (security): on-site 警備員 are one's first line for routine security, but criminal matters require law enforcement authority and should not be left to hotel security alone. Additionally: do not attempt to question or detain a suspected criminal yourself before the 警察 arrive. That can compromise the investigation and put staff at risk.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ A common error is describe a reluctance to call 警察 promptly out of worry abo
 
 **Answer:** 警察
 
-**Explanation:** 警察 is the government law enforcement agency you contact for theft, violence, suspicious persons, or any criminal matter on the premises. On-site 警備員 handle routine security, but 警察 carry the legal authority to investigate crimes, and confusing the two can delay a response that genuinely requires that authority.
+**Explanation:** 警察 is the government law enforcement agency you contact for theft, violence, suspicious persons, or any criminal matter on the premises. On-site 警備員 handle routine security, but 警察 carry the legal authority to investigate crimes, and confusing the two can delay a response that requires that authority.

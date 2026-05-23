@@ -22,16 +22,19 @@ Management in hotels and ryokan has to balance genuine operational flexibility w
 *Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*
 "If you need to work overtime, please obtain one's supervisor's approval in advance."
 
+
 ## Related Expressions
 
 - **休憩 (kyuukei)**: a break during a shift; stands in direct contrast to 残業, which extends work beyond the scheduled period rather than providing relief within it.
 - **過労 (karou)**: overwork or physical exhaustion from excessive labour; the serious health consequence that can follow unchecked 残業, and a term that has entered wide public consciousness through Japan's ongoing work-reform debates.
 
+
 ## Common Mistakes
 
-A common error is to assume 残業 is purely voluntary, something one simply choose whether to do. In Japanese workplace culture it can carry implicit pressure, and declining when the team is under strain requires tact and clear communication, not just a quick "no." There's also a common mix-up with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift built into the schedule, whereas 残業 is unplanned work that extends past a scheduled end time. The two can occur on the same night, but they're distinct concepts and one will need to keep them separate when reading contracts or discussing hours with management.
+A common error is to assume 残業 is purely voluntary, something one choose whether to do. In Japanese workplace culture it can carry implicit pressure, and declining when the team is under strain requires tact and clear communication, not just a quick "no." There's also a common mix-up with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift built into the schedule, whereas 残業 is unplanned work that extends past a scheduled end time. The two can occur on the same night, but they're distinct concepts and one will need to keep them separate when reading contracts or discussing hours with management.
 
 ---
+
 
 ## Quiz
 

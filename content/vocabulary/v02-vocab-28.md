@@ -6,9 +6,9 @@ title: 案内 (annai)
 **Pronunciation:** [an-**nai**]
 **Register:** Formal, universal in guest-facing service contexts
 
-案内 means guidance, direction, or the act of escorting someone to where they need to go. In Japanese hospitality it covers both physical escorting, such as walking a guest from the front desk to their room, and verbal direction, such as explaining where the restaurant or the elevator is. Good 案内 is not just functional, it anticipates what the guest needs to know, delivers that information before they have to ask, and leaves them feeling looked after rather than merely redirected.
+案内 means guidance, direction, or the act of escorting someone to where they need to go. In Japanese hospitality it covers both physical escorting, such as walking a guest from the front desk to their room, and verbal direction, such as explaining where the restaurant or the elevator is. 案内 is not just functional; it anticipates what the guest needs to know, delivers that information before they have to ask, and leaves them feeling looked after rather than redirected.
 
-案内 appears across almost every part of a hotel interaction. Staff use it when escorting a guest to their room at check-in (お部屋へご案内いたします), when directing them to a facility (レストランへご案内いたします), when introducing the property layout (施設をご案内いたします), or when offering local area information. The key habit to build is walking with the guest whenever possible, rather than just pointing down a corridor. Even when physical escorting is not practical, verbal 案内 should be clear and complete, paired with a gesture that leaves no room for confusion\n## Example Sentences
+案内 appears across almost every part of a hotel interaction. Staff use it when escorting a guest to their room at check-in (お部屋へご案内いたします), when directing them to a facility (レストランへご案内いたします), when introducing the property layout (施設をご案内いたします), or when offering local area information. A key practice is walking with the guest whenever possible, rather than pointing down a corridor. Even when physical escorting is not practical, verbal 案内 should be clear and complete, paired with a gesture that leaves no room for confusion\n## Example Sentences
 
 **1.** お部屋へご案内いたします。こちらへどうぞ。
 *O-heya e go-annai itashimasu. Kochira e dōzo.*
@@ -29,7 +29,7 @@ title: 案内 (annai)
 
 ## Common Mistakes
 
-Using 案内する in plain form with a guest is a register error. The proper form is ご案内いたします, which turns a neutral verb into a respectful service offer. Another habit to break is stopping at the entrance of a corridor and pointing rather than walking the guest there. Physical escorting is the omotenashi standard when circumstances allow. Note also the difference between 案内 and 紹介 (shōkai): 案内 brings someone to or through something; 紹介 introduces or recommends something to them. Swapping these two leads to sentences that feel oddly off.
+Using 案内する in plain form with a guest is a register error. The proper form is ご案内いたします, which turns a neutral verb into a respectful service offer. Another common error is stopping at the entrance of a corridor and pointing rather than walking the guest there. Physical escorting is the omotenashi standard when circumstances allow. The difference between 案内 and 紹介 (shōkai) should be noted: 案内 brings someone to or through something; 紹介 introduces or recommends something to them. Swapping these two produces sentences that are noticeably unnatural.
 
 ---
 

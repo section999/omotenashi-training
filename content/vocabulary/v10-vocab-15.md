@@ -22,16 +22,19 @@ In hotels and ryokan, the 会計係 may also review itemized charges (利用明�
 *Kaikei kakari yori ryoushuusho o owatashi itashimasu.*
 "The cashier will provide you with a receipt."
 
+
 ## Related Expressions
 
 - **フロント係 (furonto kakari)**: front desk staff who handle check-in, check-out, and general guest inquiries. In smaller hotels these roles may overlap with 会計係, but in larger properties they are clearly distinct positions and directing a guest to the wrong one causes unnecessary inconvenience.
 - **レジ担当 (reji tantou)**: a more casual, operational term for the person working the register, used internally among staff. 会計係 is the formal role title one uses when speaking with or about guests.
+
 
 ## Common Mistakes
 
 Conflating 会計係 with フロント係 is a common error. In a larger hotel, these are distinct roles, and sending a guest to the wrong person when they want to settle their bill creates friction that hospitality should eliminate. Avoid introducing the 会計係 with casual language -- this is a formal role title and should always appear with polite verb forms: 会計係が対応いたします, not 会計係がやります. The farewell at the レジ carries as much weight as the welcome at check-in; a 会計係 who processes payment quickly but coldly leaves a poor last impression that can override everything that came before.
 
 ---
+
 
 ## Quiz
 

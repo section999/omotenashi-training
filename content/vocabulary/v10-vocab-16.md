@@ -22,16 +22,19 @@ In hotels, 決済 most commonly occurs at checkout (精算) but may also happen 
 *Denshi manee de no kessai mo uketamatteotte orimasu.*
 "We also accept payment by electronic money."
 
+
 ## Related Expressions
 
 - **支払い (shiharai)**: the everyday word for payment, appropriate in any register. 支払い is more natural in conversation with guests; 決済 is more formal and technical, often appearing in written documents, receipts, and system interfaces.
 - **精算 (seisan)**: the final settlement of an accumulated bill, such as at hotel checkout. 精算 is about resolving the complete account; 決済 is about the specific mechanism used to process that payment.
 
+
 ## Common Mistakes
 
-A common error is using 決済 in casual conversation with guests who may find it overly stiff -- 支払い is usually the better choice when simply asking how someone would like to pay. 決済 and 精算 are also frequently confused: 精算 is about settling an entire accumulated bill, while 決済 is about the method and act of processing payment. These are related but distinct concepts. When a card is declined, never announce it loudly or say ダメです or カードが使えません within earshot of other guests. Keep one's voice down, stay composed, and say 少々お待ちください、確認いたします to buy a moment without embarrassing the guest.
+A common error is using 決済 in casual conversation with guests who may find it overly stiff -- 支払い is usually the better choice when asking how someone would like to pay. 決済 and 精算 are also frequently confused: 精算 is about settling an entire accumulated bill, while 決済 is about the method and act of processing payment. These are related but distinct concepts. When a card is declined, never announce it loudly or say ダメです or カードが使えません within earshot of other guests. Keep one's voice down, stay composed, and say 少々お待ちください、確認いたします to buy a moment without embarrassing the guest.
 
 ---
+
 
 ## Quiz
 

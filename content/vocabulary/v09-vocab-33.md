@@ -6,9 +6,9 @@ title: 連泊 (renpaku)
 **Pronunciation:** [ren-**pa**-ku]
 **Register:** Formal/Neutral, front desk, housekeeping coordination, and guest communication
 
-連泊 (renpaku) combines 連 (ren, consecutive or continuous) with 泊 (paku, overnight stay), giving us "consecutive-night stay" or "multi-night stay." When a guest books more than one night in a single reservation without checking out in between, that is a 連泊. In Japanese hotel culture, 連泊 guests receive careful attention across departments: housekeeping may shift to a lighter daily routine, the restaurant team might offer personalized recommendations to keep things from feeling repetitive, and the front desk tracks any preferences that emerge. The ability to care for a guest over several nights, not just one, reflects the depth of omotenashi practice.
+連泊 (renpaku) combines 連 (ren, consecutive or continuous) with 泊 (paku, overnight stay), meaning "consecutive-night stay" or "multi-night stay." When a guest books more than one night in a single reservation without checking out in between, that is a 連泊. In Japanese hotel culture, 連泊 guests receive careful attention across departments: housekeeping may shift to a lighter daily routine, the restaurant team might offer personalized recommendations, and the front desk tracks any preferences that emerge. The ability to care for a guest over several nights reflects the depth of omotenashi practice.
 
-Operationally, 連泊 affects room assignments (the guest should ideally stay in the same room throughout), billing (charges accumulate and are settled at checkout rather than nightly), and housekeeping frequency. A best practice at quality Japanese hotels is to ask about housekeeping preferences at check-in: 連泊中のお部屋の清掃についてお伺いしてもよろしいでしょうか. That conversation takes thirty seconds but shows the guest that their privacy and personal comfort have been considered from the start\n## Example Sentences
+Operationally, 連泊 affects room assignments (the guest should ideally stay in the same room throughout), billing (charges accumulate and are settled at checkout rather than nightly), and housekeeping frequency. A best practice at quality Japanese hotels is to ask about housekeeping preferences at check-in: 連泊中のお部屋の清掃についてお伺いしてもよろしいでしょうか. This brief conversation shows the guest that their privacy and personal comfort have been considered from the start.\n## Example Sentences
 
 **1.** こちらのお客様は3連泊のご予定でございますので、ハウスキーピングに申し伝えます。
 *Kochira no o-kyaku-sama wa san-renpaku no go-yotei de gozaimasu node, hausukeepingu ni moushitsutaemasu.*
@@ -24,12 +24,12 @@ Operationally, 連泊 affects room assignments (the guest should ideally stay in
 
 ## Related Expressions
 
-- **連泊割引 (renpaku waribiki)**: multi-night discount offered by many hotels for consecutive stays of two nights or more, rewarding guests who commit to a longer visit. Worth mentioning proactively when a guest qualifies.
+- **連泊割引 (renpaku waribiki)**: multi-night discount offered by many hotels for consecutive stays of two nights or more, rewarding guests who commit to a longer visit. Staff should mention this proactively when a guest qualifies.
 - **滞在日数 (taizai nissuu)**: number of nights staying, the formal term used when discussing the total duration of a 連泊 in reservation confirmation or billing summaries.
 
 ## Common Mistakes
 
-A common mistake with 連泊 guests is applying the same full-turnover housekeeping routine as a single-night stay without asking first. Many 連泊 guests, particularly in Japanese culture where personal space is highly valued, find it intrusive to have staff move their belongings around daily. They may prefer only towel and amenity replenishment. Always ask at check-in, it takes very little time and avoids a friction point that can color the entire stay. Another mistake is failing to update the housekeeping schedule when a guest extends their stay mid-trip, turning what was a single night into a 連泊. If the system still shows a checkout the next morning, housekeeping may schedule a full turnover clean while the guest is still occupying the room. Any reservation change must be reflected in the system immediately.
+A common mistake with 連泊 guests is applying the same full-turnover housekeeping routine as a single-night stay without asking first. Many 連泊 guests, particularly in Japanese culture where personal space is valued, find it intrusive to have staff move their belongings around daily. They may prefer only towel and amenity replenishment. Staff should ask at check-in, as this avoids a friction point that can affect the entire stay. Another mistake is failing to update the housekeeping schedule when a guest extends their stay mid-trip, turning what was a single night into a 連泊. If the system still shows a checkout the next morning, housekeeping may schedule a full turnover clean while the guest is still occupying the room. Any reservation change must be reflected in the system immediately.
 
 ---
 

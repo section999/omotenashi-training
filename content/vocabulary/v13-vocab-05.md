@@ -22,16 +22,19 @@ For employees, the シフト isn't just about hours on a page. It's the accounta
 *Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.*
 "Please make sure two staff members are always assigned to the front desk during the night shift."
 
+
 ## Related Expressions
 
 - **勤務 (kinmu)**: refers to the act or period of performing work duties; broader than シフト, which specifically means a scheduled time block. 勤務時間 means "working hours" in a general sense.
 - **早番・遅番 (hayaban / osoban)**: specific labels for the early shift and late shift; used within the シフト system to tell a staff member which rotation they're on.
+
 
 ## Common Mistakes
 
 A common error is to treat シフト and 勤務 as interchangeable, but they describe different things. one are "on シフト" because the schedule says so, while 勤務 refers to the work itself and the duties one carry out during that time. However, the bigger issue in real conversations is collocation. シフト doesn't sit well as a bare noun in most verbal contexts. one needs the phrases around it: 「シフトに入る」(to be on a shift) and 「シフトを交代する」(to swap a shift) are both common, and practising those forms will make one's Japanese sound natural rather than textbook.
 
 ---
+
 
 ## Quiz
 

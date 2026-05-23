@@ -19,16 +19,19 @@ machine translation tools can produce serviceable first drafts, but any 翻訳 t
 *Shorui no hon'yaku ga hitsuyou de gozaimashitara, senmon no hon'yakusha wo goshoukai itashimasu.*
 "If you need a document translated, we will introduce you to a professional translator."
 
+
 ## Related Expressions
 
 - **通訳 (tsuuyaku)**: spoken, oral interpretation, the counterpart to 翻訳. Get this distinction right early: 翻訳 is for text, 通訳 is for speech. Offering the wrong one when a guest needs help sends them in the wrong direction.
 - **翻訳ツール (hon'yaku tsuuru)**: translation software and AI-assisted tools. These come up often in staff training discussions about when machine output is good enough versus when human review is non-negotiable. For guest-facing materials, always go with human review.
+
 
 ## Common Mistakes
 
 The most common error is using 翻訳 and 通訳 as if they mean the same thing. They do not: 翻訳 is for written text, 通訳 is for spoken language. Keep that boundary clear in one's own usage and one will always direct guests to the right resource. Another mistake is trusting machine translation output without review. However, the real danger is not using a tool, it is distributing unreviewed output as a finished product. Allergy information in particular must be reviewed by a native speaker before it reaches any guest. Additionally: when offering this service in a guest-facing situation, use the humble form ご翻訳いたします rather than the plain 翻訳します to stay in the right keigo register.
 
 ---
+
 
 ## Quiz
 

@@ -8,7 +8,7 @@ title: 故障 (koshou)
 
 故障 (koshou) means a breakdown or malfunction of equipment. In hotel settings, it covers in-room appliances like televisions, air conditioners, refrigerators, and electronic door locks, as well as shared facilities such as elevators, vending machines, and onsen equipment. Getting this word right matters operationally: a general 問題 might be handled by whoever is at the front desk, but a 故障 requires maintenance or engineering staff with the right tools. Using the correct term internally means the right people show up.
 
-When a 故障 is reported or discovered, the standard procedure is to confirm the nature of the failure, inform the relevant department immediately, and give the guest a clear timeline for resolution. If the item is essential to the guest's comfort, a broken shower or a door lock that will not engage, offer an alternative room without waiting to be asked. Placing a 故障中 (koshou-chuu, currently out of order) sign on malfunctioning equipment before guests encounter it is a small but thoughtful gesture. It prevents frustration and signals that the property is on top of its facilities rather than scrambling to catch up\n## Example Sentences
+When a 故障 is reported or discovered, the standard procedure is to confirm the nature of the failure, inform the relevant department immediately, and give the guest a clear timeline for resolution. If the item is essential to the guest's comfort, a broken shower or a door lock that will not engage, an alternative room is offered without waiting to be asked. Placing a 故障中 (koshou-chuu, currently out of order) sign on malfunctioning equipment before guests encounter it is a small but thoughtful gesture. It prevents frustration and signals that the property is on top of its facilities rather than scrambling to catch up\n## Example Sentences
 
 **1.** エレベーターが故障中のため、ご不便をおかけして大変申し訳ございません。
 *Erebeetaa ga koshou-chuu no tame, go-fuben wo okake shite taihen moushiwake gozaimasen.*
@@ -22,16 +22,19 @@ When a 故障 is reported or discovered, the standard procedure is to confirm th
 *Setsubi no koshou ga hassei shita baai wa, sugu ni furonto made o-shirase itadakemasu to saiwai desu.*
 "If any equipment breaks down, we would be grateful if one could let the front desk know immediately."
 
+
 ## Related Expressions
 
-- **修理依頼 (shuuri irai)**: a repair request; the natural next step once a 故障 is identified. Think of 故障 as the state and 修理依頼 as the action that follows it.
+- **修理依頼 (shuuri irai)**: a repair request; the natural next step once a 故障 is identified. 故障 refers to the state and 修理依頼 to the action that follows it.
 - **不具合 (fuguai)**: a defect or irregularity that may not be a total breakdown; used for minor faults or inconsistent performance, as distinct from the complete failure implied by 故障.
+
 
 ## Common Mistakes
 
-A common error is using 壊れた (kowareta, broken) in guest-facing speech. It is grammatically fine, but it sounds too casual for hotel communication. 故障 or the phrase 正常に動作しない (not operating correctly) are far more appropriate alternatives. Avoid telling guests that the equipment was already broken before their arrival unless one can confirm that, doing so can quickly create a dispute about responsibility. A neutral phrase like 原因を確認いたします (we will look into the cause) keeps things professional and avoids making claims that cannot be backed up.
+A common error is using 壊れた (kowareta, broken) in guest-facing speech. It is grammatically fine, but it sounds too casual for hotel communication. 故障 or the phrase 正常に動作しない (not operating correctly) are far more appropriate alternatives. Telling guests that the equipment was already broken before their arrival should be avoided unless one can confirm it, as doing so can quickly create a dispute about responsibility. A neutral phrase like 原因を確認いたします (we will look into the cause) keeps things professional and avoids making claims that cannot be backed up.
 
 ---
+
 
 ## Quiz
 

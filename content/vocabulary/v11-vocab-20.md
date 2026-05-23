@@ -22,16 +22,19 @@ In hotel telephone scripts, this phrase typically appears early in a call, right
 *Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*
 "May I have one's name in order to confirm one's reservation?"
 
+
 ## Related Expressions
 
 - **お名前は何ですか (onamae wa nan desu ka)**: a more direct, less humble way of asking for a name; while grammatically fine, it is considered too blunt for formal hotel service because it lacks the humble framing that 頂戴できますか provides.
 - **ご氏名 (go-shimei)**: a more formal word for "full name," typically used in written forms or when a full legal name is required; お名前 works for most phone and in-person situations, while ご氏名 belongs in official documents like hotel registration cards.
+
 
 ## Common Mistakes
 
 Shortening the phrase to お名前は？ or お名前を教えてください when speaking with guests can sound abrupt in a formal service setting. The longer phrase exists for a reason and should be used. Another frequent error is asking for the name but not confirming it back to the caller, that confirmation step is where misspellings and routing errors creep in. It takes about five seconds and prevents a surprising number of problems. Deliver this phrase unhurriedly; the humility it conveys only lands if the tone matches the words.
 
 ---
+
 
 ## Quiz
 
@@ -45,4 +48,4 @@ Shortening the phrase to お名前は？ or お名前を教えてください wh
 
 **Correct Answer:** お名前を頂戴できますか (may I have your name?)
 
-**Explanation:** お名前を頂戴できますか uses 頂戴 to frame the guest's name as something graciously offered rather than demanded, which is exactly the humility that formal hospitality register requires. The more direct alternatives, お名前は何ですか or simply お名前は？, carry the right meaning but the wrong attitude and feel abrupt on a hotel telephone line. After asking, always repeat the name back clearly to the caller, because this phrase opens a loop that only closes when you confirm.
+**Explanation:** お名前を頂戴できますか uses 頂戴 to frame the guest's name as something graciously offered rather than demanded, which is exactly the humility that formal hospitality register requires. The more direct alternatives, お名前は何ですか or お名前は？, carry the right meaning but the wrong attitude and feel abrupt on a hotel telephone line. After asking, always repeat the name back clearly to the caller, because this phrase opens a loop that only closes when you confirm.

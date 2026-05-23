@@ -8,7 +8,7 @@ title: 会議 (kaigi)
 
 会議 is the word for a formal meeting or conference where participants come together to discuss plans, review performance, and make decisions. In hotel operations one will encounter 会議 at every level: morning briefings at the front desk, weekly operations reviews for managers, and monthly all-staff meetings where performance data and guest feedback get shared with the whole team. The formality of a 会議 is signalled by advance scheduling, a prepared agenda (議題, gidai), and usually a set of written minutes (議事録, gijiroku) produced afterwards. A common error is to assume any work conversation counts as a 会議, but the word carries real weight, so use it only when the meeting has structure and purpose.
 
-During a 会議, everyone is expected to speak concisely, listen without interrupting, and raise disagreements carefully so they do not disrupt group harmony (和, wa). A chairperson (司会, shikai) guides the flow. Worth noting is that in Japanese hotels, 会議 frequently crosses departmental lines, for example when coordinating a large banquet or preparing for a VIP arrival. Whoever attends should come with relevant data and be ready to follow up on any action items promptly\n## Example Sentences
+During a 会議, everyone is expected to speak concisely, listen without interrupting, and raise disagreements carefully so they do not disrupt group harmony (和, wa). A chairperson (司会, shikai) guides the flow. Note: is that in Japanese hotels, 会議 frequently crosses departmental lines, for example when coordinating a large banquet or preparing for a VIP arrival. Whoever attends should come with relevant data and be ready to follow up on any action items promptly\n## Example Sentences
 
 **1.** 明日の会議は午前10時からフロントにて開催いたします。
 *Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.*
@@ -22,16 +22,19 @@ During a 会議, everyone is expected to speak concisely, listen without interru
 *Raishuu no kaigi de wa, Gooruden Wiiku kikan-chuu no taiou ni tsuite hanashiau yotei desu.*
 "In next week's meeting, we plan to discuss how to handle the Golden Week period."
 
+
 ## Related Expressions
 
 - **打ち合わせ (uchiawase)**: a shorter, informal coordination meeting where a couple of people sync up quickly; far less structured than 会議, and one would never produce formal minutes for one
 - **議事録 (gijiroku)**: the written minutes produced after a 会議, documenting every decision and action item so nothing falls through the cracks
+
 
 ## Common Mistakes
 
 A common error is to use 会議 and 打ち合わせ as if they mean the same thing, but they do not. 会議 implies a scheduled, agenda-driven meeting, while 打ち合わせ is a lighter, spontaneous coordination session between a few colleagues. Using 会議 for a quick two-person check-in will sound overly formal and slightly odd to native speakers. However, the bigger error to watch is register: saying 会議があります is fine internally, but in formal or guest-facing contexts one want 会議がございます instead.
 
 ---
+
 
 ## Quiz
 

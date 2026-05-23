@@ -3,7 +3,7 @@ id: v06-vocab
 section: 9
 title: うるさい (urusai)
 ---
-うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously when expressing displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The directness of うるさい can read as blunt or even confrontational in certain contexts, which is exactly why professional training emphasises substituting it with the more measured term 騒音 when acknowledging the complaint.
+うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously when expressing displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The directness of うるさい can read as blunt or even confrontational in certain contexts, which is why professional training emphasises substituting it with the formal term 騒音 when acknowledging the complaint.
 
 Understanding うるさい also helps staff read the emotional state of the guest. When someone uses this word unprompted, they are typically past their frustration threshold, the issue has been affecting them long enough that they felt compelled to say something. That calls for a particularly empathetic and swift response, not routine acknowledgement. Hospitality training in Japan specifically addresses this vocabulary gap: recognising the casual word the guest uses while responding in formal, solution-focused language\n## Example Sentences
 
@@ -26,7 +26,7 @@ Understanding うるさい also helps staff read the emotional state of the gues
 
 ## Common Mistakes
 
-The most critical mistake is mirroring the guest's language and saying うるさいですね: it validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume, the word can also mean annoying or bothersome in other senses, so context matters. Listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before offering a solution. The correct substitution is not just swapping うるさい for 騒音; the response must also include a concrete next step.
+The most critical mistake is mirroring the guest's language and saying うるさいですね: it validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume, the word can also mean annoying or bothersome in other senses, so context matters. Staff listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before offering a solution. The correct substitution is not just swapping うるさい for 騒音; the response must also include a concrete next step.
 
 ---
 

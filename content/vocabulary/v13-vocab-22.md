@@ -22,16 +22,19 @@ The idea of 担当 goes deep into how Japanese hotels organise their teams. Staf
 *Kanojo wa VIP no okyaku-sama no tantou to shite, taizai-chuu zutto sapooto itashimashita.*
 "She served as the designated staff member for the VIP guest, supporting them throughout their stay."
 
+
 ## Related Expressions
 
 - **担当者 (tantousha)**: the noun form pointing to the actual person in charge; one hear this constantly in phone calls and internal handoffs when someone needs to be connected to the right individual
 - **ご担当 (go-tantou)**: the honorific form, used when referring respectfully to the person responsible for a guest's account or service arrangement
+
 
 ## Common Mistakes
 
 A common error is reach for 責任者 (sekininsha: person responsible/manager on duty) when 担当 would be correct, or vice versa. The difference matters: 担当 means one has been assigned to something specific, while 責任者 signals higher authority and is the person called when a decision needs to be escalated. Additionally, to watch: do not introduce yourself with just 担当 as a standalone label. Always add context so it is clear what one is 担当 for -- for example, 予約担当の〇〇と申します ("I am 〇〇, in charge of reservations") gives the listener everything they need immediately.
 
 ---
+
 
 ## Quiz
 

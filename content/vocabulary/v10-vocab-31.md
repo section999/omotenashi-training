@@ -22,16 +22,19 @@ In operations, the accommodation collects 宿泊税 on behalf of the local gover
 *Kochira no goseikyu-sho ni shukuhaku zei no uchiwake ga kisai sarete orimasu.*
 "The breakdown of accommodation tax is listed on this invoice."
 
+
 ## Related Expressions
 
 - **消費税 (shōhizei)**: national consumption tax applied to most goods and services; distinct from 宿泊税, which is a locally administered levy specific to accommodation
 - **サービス料 (sābisu ryō)**: service charge; another separate line item on hotel bills, not to be conflated with 宿泊税
+
 
 ## Common Mistakes
 
 A common error is to treat 宿泊税 as part of 消費税, which is incorrect. They are levied by different levels of government and must appear separately on the bill. The other common error is applying the same rate across locations without checking: Tokyo's 宿泊税 rules are not identical to Osaka's, and those rules can be updated by local ordinance. Always confirm the current applicable rate for one's specific property. Note: quoting an outdated 宿泊税 rate isn't just a customer service issue, it creates legal and financial compliance risk for the property.
 
 ---
+
 
 ## Quiz
 

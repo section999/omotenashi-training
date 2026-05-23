@@ -22,16 +22,19 @@ title: 不在 (fuzai)
 *Tantōsha ga fuzai no baai wa, kawari ni furonto sutaffu ga taiō itashimasu.*
 "If the person in charge is unavailable, front desk staff will assist you instead."
 
+
 ## Related Expressions
 
 - **留守**: a more casual or domestic word for being away; 不在 is its formal professional equivalent, so reach for 不在 at the front desk and leave 留守 to everyday conversation and compound words like 留守番電話.
 - **折り返し**: the callback offer that almost always follows 不在; together, these two words form a natural pairing in telephone scripts, because every unavailability notification needs a clear next step.
+
 
 ## Common Mistakes
 
 A common error is to state 不在 and stop there, which forces the caller to ask what to do next. That pause creates friction and breaks the natural service flow, so train yourself to attach an offer before the caller has a chance to feel stranded. Some learners also default to いません rather than 不在でございます; it is not wrong, but it is too informal for front-desk telephone work. Additionally: make sure one's follow-up offer matches the actual length of the absence. Telling a caller someone will be back shortly when they are off for the day sets a false expectation, and that always makes things worse, not better.
 
 ---
+
 
 ## Quiz
 

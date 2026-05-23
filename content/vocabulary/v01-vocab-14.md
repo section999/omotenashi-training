@@ -3,14 +3,17 @@ id: v01-vocab
 section: 14
 title: 恐れ入ります (osore irimasu)
 ---
+
 **Pronunciation:** [o-**so**-re i-ri-ma-su]
 **Register:** Formal, Very Elevated, premium hotel, luxury ryokan, VIP service contexts
 
 *Osore irimasu* is difficult to pin down in English because it does two different jobs depending on context. Literally it means something like "I enter into awe," with *osore* (恐れ) carrying the sense of reverence or humble embarrassment, and *irimasu* meaning "to enter." Use it before making a request of a guest, and one is saying "I am so sorry to impose on you." Use it to receive a guest's gratitude, and one is saying "I am deeply honoured." The same phrase, two directions, one core idea: the speaker is small, the guest is honoured.
 
-The key thing to understand is that *osore irimasu* is always about humbling yourself relative to the other person. When one says it before asking a guest's name, one is acknowledging that even asking is a small imposition, and one is lowering yourself before one does so. Worth noting here is that this phrase sits above both *sumimasen* and *shitsurei itashimasu* on the formality scale. Students who have only learned *sumimasen* are missing an entire register. It is a bit like knowing "sorry" in English but not knowing "I beg one's pardon" or "please forgive the intrusion."
+The key thing to understand is that *osore irimasu* is always about humbling oneself relative to the other person. When one says it before asking a guest's name, one is acknowledging that even asking is a small imposition, and one is lowering oneself before doing so. This phrase sits above both *sumimasen* and *shitsurei itashimasu* on the formality scale. Relying only on *sumimasen* means missing an entire register. It is like knowing "sorry" in English but not knowing "I beg one's pardon" or "please forgive the intrusion."
 
-*osore irimasu* takes time to feel natural. When one first start using it, it can feel theatrical, and that awkwardness shows. Keep practising it out loud until it flows without hesitation. The phrase works best when paired with genuine body language: a small, sincere bow and steady eye contact\n## Example Sentences
+*Osore irimasu* takes time to feel natural. When one first starts using it, it can feel theatrical, and that awkwardness shows. It should be practiced out loud until it flows without hesitation. The phrase works best when paired with genuine body language: a small, sincere bow and steady eye contact
+
+## Example Sentences
 
 **1.** 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。
 *Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*
@@ -32,7 +35,7 @@ The key thing to understand is that *osore irimasu* is always about humbling you
 
 ## Common Mistakes
 
-The most common mistake is not using *osore irimasu* at all. Learners default to *sumimasen* even in elevated settings where the more refined phrase would be clearly more fitting. Think of it this way: the register of one's language is part of the service. If the lobby is marble and the uniforms are tailored, one's words should match. A second mistake is delivering *osore irimasu* in a flat or distracted tone. It should always come with genuine feeling and a small bow, not as a throwaway opener.
+The most common mistake is not using *osore irimasu* at all. A common error is defaulting to *sumimasen* even in elevated settings where the more refined phrase would be more fitting. The register of one's language is part of the service. If the lobby is marble and the uniforms are tailored, one's words should match. A second mistake is delivering *osore irimasu* in a flat or distracted tone. It should always come with genuine feeling and a small bow, not as a throwaway opener.
 
 ---
 

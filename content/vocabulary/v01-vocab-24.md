@@ -3,11 +3,14 @@ id: v01-vocab
 section: 24
 title: ご案内いたします (go-annai itashimasu)
 ---
+
 **ご案内いたします** means "I will guide you" or "I will show you." *Annai* (案内) means guidance, escort, or information, elevated by the honorific *go-* prefix and completed with *itashimasu*, the humble form of "to do." In effect, the phrase is a declaration of service: *I am taking responsibility for getting one where one needs to go.*
 
-Guiding a guest is one of the more intimate forms of service in hospitality. Unlike answering a question at a desk, guiding places the staff member physically alongside the guest, creating a small, temporary bond of movement and trust. *Go-annai itashimasu* is the formal phrase that starts this process. one says it when picking up a guest from the lobby, escorting them to their room, leading them to a facility, or walking them to the entrance at departure.
+Guiding a guest is one of the more intimate forms of service in hospitality. Unlike answering a question at a desk, guiding places the staff member physically alongside the guest, creating a small, temporary bond of movement and trust. *Go-annai itashimasu* is the formal phrase that starts this process. One says it when picking up a guest from the lobby, escorting them to their room, leading them to a facility, or walking them to the entrance at departure.
 
-Note: the phrase carries real responsibility. Once one says *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them one's full attention throughout. The quality of that walk is itself a form of hospitality\n## Example Sentences
+The phrase carries responsibility. Once one says *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them one's full attention throughout. The quality of that walk is itself a form of hospitality
+
+## Example Sentences
 
 **1.** お部屋までご案内いたします。こちらへどうぞ。
 *O-heya made go-annai itashimasu. Kochira e dōzo.*
@@ -29,7 +32,7 @@ Note: the phrase carries real responsibility. Once one says *go-annai itashimasu
 
 ## Common Mistakes
 
-A common mistake is saying *go-annai itashimasu* and then not fully committing to the escort: walking too fast, failing to open doors, not mentioning hazards, or leaving the guest to find the final stretch on their own. The phrase creates an obligation that must be honoured. A common error is to also treat *go-annai itashimasu* as a room-escort-only phrase, but it applies any time a guest needs to be physically guided somewhere: restaurant, spa, meeting room, elevator. If one is leading them, use it.
+A common mistake is saying *go-annai itashimasu* and then not fully committing to the escort: walking too fast, failing to open doors, not mentioning hazards, or leaving the guest to find the final stretch on their own. The phrase creates an obligation that must be honoured. A common error is treating *go-annai itashimasu* as a room-escort-only phrase, but it applies any time a guest needs to be physically guided somewhere: restaurant, spa, meeting room, elevator. If one is leading them, it should be used.
 
 ---
 

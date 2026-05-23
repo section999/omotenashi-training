@@ -19,16 +19,19 @@ title: 少々お待ちください (shoushou omachi kudasai)
 *Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*
 "Could you kindly wait just a moment? I will transfer you to the relevant staff member."
 
+
 ## Related Expressions
 
 - **お待たせいたしました (o-matase itashimashita)**: "Thank you for waiting" / "Sorry to have kept you waiting." This is the obligatory follow-up phrase after 少々お待ちください. Returning to a guest without saying this phrase is a noticeable omission in formal Japanese service and signals inattentiveness to the guest's experience.
 - **ただいま参ります (tadaima mairimasu)**: "I will be right there / I will come immediately." Used when a guest calls for staff from a distance or over the phone. It is the humble equivalent of 「すぐ行きます」 and is used before arriving rather than after. In combination with 少々お待ちください, it creates a full, reassuring response to any summons.
 
+
 ## Common Mistakes
 
-A frequent mistake is using 少々お待ちください without the follow-up 「お待たせいたしました」 upon returning: guests notice this absence, as the waiting period is only gracefully closed when the staff member acknowledges it. Another common mistake is sometimes use the phrase too abruptly, without first acknowledging the guest's request: always address what the guest said before asking them to wait (「ご予約の確認でございますね、少々お待ちください」). Finally, confusing 少々 (a small, brief amount) with しばらく (shibaraku, for a while / somewhat longer) is important: if the wait will be more than a minute or two, 「しばらくお待ちいただけますでしょうか」 is more honest and should be used instead.
+A frequent mistake is using 少々お待ちください without the follow-up 「お待たせいたしました」 upon returning: guests notice this absence, as the waiting period is only gracefully closed when the staff member acknowledges it. Another common mistake is using the phrase too abruptly, without first acknowledging the guest's request: the guest's request should always be addressed before asking them to wait (「ご予約の確認でございますね、少々お待ちください」). Confusing 少々 (a small, brief amount) with しばらく (shibaraku, for a while / somewhat longer) is also a common issue: if the wait will be more than a minute or two, 「しばらくお待ちいただけますでしょうか」 is the appropriate phrase to use.
 
 ---
+
 
 ## Quiz
 

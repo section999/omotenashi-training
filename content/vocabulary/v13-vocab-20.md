@@ -22,16 +22,19 @@ one will encounter 業務 inside many compound terms that come up in daily hotel
 *Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.*
 "In front desk duties, a smile and prompt response are the most important things."
 
+
 ## Related Expressions
 
 - **業務内容 (gyoumu naiyou)**: the specific content and scope of one's assigned duties; one will review this at the start of every shift and during onboarding
 - **業務効率化 (gyoumu kooritsu-ka)**: the improvement of operational efficiency, a constant goal in hotel management that depends on every staff member performing their 業務 well
+
 
 ## Common Mistakes
 
 A common error is to use 仕事 (shigoto: work, job) and 業務 as if they are interchangeable, but 業務 is distinctly formal and institutional. Writing 仕事 in an official work report or a professional document sounds too casual and will raise eyebrows. However, the more subtle confusion is between 業務 and 作業 (sagyou: a specific task). Think of 業務 as the whole job -- everything one's role encompasses -- and 作業 as one discrete piece of work one does within that job. Getting these two right will make one's Japanese sound much more natural in a professional setting.
 
 ---
+
 
 ## Quiz
 

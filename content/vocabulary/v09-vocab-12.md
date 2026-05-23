@@ -5,7 +5,8 @@ title: 幼児 (youji)
 ---
 幼児 refers to infants and toddlers, typically children under 3 or 4 years old, though the exact cutoff varies by property. They often stay free when sharing a bed with parents and not requiring their own meal, but "free" can be misleading. A 幼児 booking triggers a list of preparation tasks that are anything but trivial: a crib (ベビーベッド), a changing mat, baby-safe bath products, possibly a bottle warmer. At ryokan with kaiseki menus, there is often no suitable portion for a very young child, and parents need to hear that upfront so they are not caught off guard at dinner. Handling these details before the family arrives is one of the clearest expressions of kikubari in daily hotel work.
 
-Treat 幼児 as a trigger for a checklist rather than a zero-cost footnote on the reservation: does the room need a crib? Is the floor plan safe for a toddler who walks or crawls? Can a stroller get through the corridors and into the elevator? These are exactly the kinds of questions guests will never think to ask, which is precisely why staff need to think of them first.
+幼児 should be treated as a trigger for a checklist rather than a zero-cost footnote on the reservation: does the room need a crib? Is the floor plan safe for a toddler who walks or crawls? Can a stroller get through the corridors and into the elevator? These are questions guests may not think to ask, which is why staff should anticipate them.
+
 ## Example Sentences
 
 **1.** 幼児のお客様には、ベビーベッドをご用意することが可能です。
@@ -20,16 +21,19 @@ Treat 幼児 as a trigger for a checklist rather than a zero-cost footnote on th
 *Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.*
 "Since one's reservation includes an infant, we will install child locks in the room for safety."
 
+
 ## Related Expressions
 
 - **子供 (kodomo)**: the broader child category; 幼児 sits within it as the youngest age group, and the two appear separately on reservation forms because their pricing and amenity requirements are different.
-- **ベビーベッド (bebii beddo)**: a crib or baby bed; closely associated with 幼児 bookings; when one sees 幼児 on a reservation, proactively offering ベビーベッドのご用意 is one of the simplest kikubari moves one can make.
+- **ベビーベッド (bebii beddo)**: a crib or baby bed; closely associated with 幼児 bookings; when one sees 幼児 on a reservation, proactively offering ベビーベッドのご用意 is a key kikubari practice.
+
 
 ## Common Mistakes
 
 Recording 幼児 as just a zero-charge line on the booking and moving on is a mistake that tends to surface at the worst possible moment, such as when a family arrives late at night to find no crib in the room. That kind of service failure is very hard to recover from. Additionally, 赤ちゃん is a warm word in everyday Japanese, but it is too casual for reservation documents and guest-facing communication. Use 幼児 in writing and when speaking professionally about the child's category.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ When a 警報 activates, one's responsibilities come in sequence: verify the cau
 *Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.*
 "A weather warning has been issued today due to a typhoon, so please refrain from going outside."
 
+
 ## Related Expressions
 
 - **非常ベル (hijou beru)**: emergency bell; the physical hardware device that produces the audible part of a fire 警報; the 非常ベル is the piece of equipment while 警報 describes the alert state itself
 - **警告 (keikoku)**: warning; a directed caution aimed at a specific person or situation, compared to 警報 which is a broadcast signal going out to all occupants of a space at once
+
 
 ## Common Mistakes
 
 A common error is to swap 警報 and 警告, but the distinction matters. 警報 is a broadcast emergency signal to a whole building; 警告 is a specific warning directed at one person or situation. Using them interchangeably in a real emergency context creates confusion. another serious mistake is assuming an activated 警報 must be a false alarm and doing nothing. Property policy should always require investigation before any all-clear, no exceptions. Additionally: never manually silence an alarm before confirming the cause. Doing so takes the warning away from everyone else in the building who still needs it.
 
 ---
+
 
 ## Quiz
 

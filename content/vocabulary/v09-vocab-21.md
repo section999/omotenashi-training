@@ -3,7 +3,7 @@ id: v09-vocab
 section: 21
 title: 無料キャンセル (muryou kyanseru)
 ---
-無料キャンセル means "free cancellation," the option to cancel a reservation without any charge, valid up to a certain number of days or hours before arrival. In the modern booking world, this has become one of the first things guests look for when filtering plans on OTAs, and it influences which property they choose. For staff, being able to explain the 無料キャンセル conditions precisely is part of both selling reservations and avoiding complaints later.
+無料キャンセル means "free cancellation," the option to cancel a reservation without any charge, valid up to a certain number of days or hours before arrival. This has become one of the first things guests look for when filtering plans on OTAs, and it influences which property they choose. For staff, being able to explain the 無料キャンセル conditions precisely is part of both selling reservations and avoiding complaints later.
 
 The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. Repeating the deadline at the time of booking confirmation is one of the simplest and most effective steps for preventing that kind of dispute\n## Example Sentences
 
@@ -17,18 +17,21 @@ The detail that matters most is the deadline. A guest who hears 「無料キャ�
 
 **3.** 無料キャンセル期間中でしたら、お電話またはメールにてご連絡いただくだけで結構です。
 *Muryou kyanseru kikan-chuu deshitara, o-denwa mata wa meeru nite go-renraku itadaku dake de kekkou desu.*
-"During the free cancellation period, simply contacting us by phone or email is all that is needed."
+"During the free cancellation period, contacting us by phone or email is all that is needed."
+
 
 ## Related Expressions
 
 - **キャンセル料 (kyanseru ryou)**: the fee that kicks in once the 無料キャンセル window has closed; these two terms define the two sides of any cancellation policy, and the clearest way to explain it is together: 「〇日前までは無料キャンセルが可能ですが、それ以降はキャンセル料が発生いたします」.
 - **返金不可 (henkin fuka)**: "non-refundable," the opposite end of the spectrum from 無料キャンセル; some lower-priced plans carry this condition, meaning no refund is issued regardless of timing; knowing all three terms together lets one explain the full range of cancellation conditions one's property offers.
 
+
 ## Common Mistakes
 
 Announcing 無料キャンセル without a deadline is a key common mistake, and the fallout tends to be serious. The guest assumes the window is open-ended, cancels the evening before arrival, and then disputes the キャンセル料 with complete sincerity because from their perspective they were never told. The 無料キャンセル policy is also plan-specific, not property-wide. The same hotel might offer a flexible rate with generous free cancellation and a non-refundable early-bird rate at the same time. Mixing up which rule applies to which plan is a fast route to a complaint. Answering cancellation questions with just 無料です is also too vague; 無料キャンセルが可能です is the phrase that communicates what the guest needs to hear.
 
 ---
+
 
 ## Quiz
 
@@ -41,5 +44,5 @@ Announcing 無料キャンセル without a deadline is a key common mistake, and
 
 **Correct Answer:** 無料キャンセル (free cancellation)
 
-**Explanation:** 無料キャンセル directly answers a guest who wants to cancel without paying, and its usefulness depends entirely on stating the deadline in the same sentence, since a guest who assumes the window is open-ended will be genuinely surprised by a charge. The other options all involve costs rather than removing them, making them wrong in both meaning and hospitality register.
+**Explanation:** 無料キャンセル directly answers a guest who wants to cancel without paying, and its usefulness depends entirely on stating the deadline in the same sentence, since a guest who assumes the window is open-ended will be surprised by a charge. The other options all involve costs rather than removing them, making them wrong in both meaning and hospitality register.
 

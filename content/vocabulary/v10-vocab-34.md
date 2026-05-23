@@ -19,16 +19,19 @@ one needs to know which 電子決済 methods one's property accepts and where th
 *Tadaima denshi kessai no shisutemu ni fuguai ga shōjite orimashite, taihen mōshiwake gozaimasen.*
 "We are currently experiencing a technical issue with our electronic payment system, and we sincerely apologize for the inconvenience."
 
+
 ## Related Expressions
 
 - **QRコード (kyūāru kōdo)**: QR code; the most common interface for 電子決済 app-based payments in Japan, so knowing how to present one clearly is a basic front-desk skill
 - **現金払い (genkin barai)**: cash payment; the traditional alternative to 電子決済, still widely used across Japan and should always be offered as a fallback
+
 
 ## Common Mistakes
 
 Additionally, to watch out for: assuming every guest already knows how 電子決済 works in Japan. Many international visitors use completely different apps or systems back home, so be ready to walk someone through the process from scratch. A common error is to also forget to wait for the 決済完了 confirmation before concluding the transaction, which can leave a payment uncollected. And never steer a guest toward one specific payment method; present the options available and let them choose.
 
 ---
+
 
 ## Quiz
 
@@ -41,5 +44,5 @@ Additionally, to watch out for: assuming every guest already knows how 電子決
 
 **Correct Answer:** 電子決済 (electronic payment)
 
-**Explanation:** 電子決済 covers all cashless digital payment methods, from smartphone apps like PayPay and LINE Pay to contactless cards, and it's the only term here that names the category itself rather than a single method, a general process, or a billing stage. In practice, knowing which 電子決済 brands your property accepts and guiding guests to the right terminal or QR code is now a core front-desk skill, since alternatives like 一括払い describe a payment structure and 精算 describes a settlement process, not the technology used.
+**Explanation:** 電子決済 covers all cashless digital payment methods, from smartphone apps like PayPay and LINE Pay to contactless cards, and it's the only term here that names the category itself rather than a single method, a general process, or a billing stage. knowing which 電子決済 brands your property accepts and guiding guests to the right terminal or QR code is now a core front-desk skill, since alternatives like 一括払い describe a payment structure and 精算 describes a settlement process, not the technology used.
 

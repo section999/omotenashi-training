@@ -19,16 +19,19 @@ title: 修理依頼 (shuuri irai)
 *Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*
 "Please be aware that repairs may take a little time; we appreciate one's understanding."
 
+
 ## Related Expressions
 
 - **故障 (koshou)**: the breakdown or malfunction itself; 故障 describes the state of the broken item, while 修理依頼 is the action of requesting its repair.
 - **メンテナンス (mentenansu)**: from English "maintenance"; often used for scheduled upkeep rather than emergency repair, and more common in internal staff communication.
 
+
 ## Common Mistakes
 
-A common error is saying 修理してください (please repair it) directly to a guest, which sounds as though the staff member is asking the guest to handle the repair themselves. The correct guest-facing phrase is always the formal acceptance: 修理依頼を承ります. Another pitfall is giving specific repair timeframes that cannot be guaranteed. Promising "ten minutes" and taking an hour is far more damaging to trust than a careful 少々お時間をいただきます (it will take a little time). When in doubt, give a slightly wider estimate and then deliver early.
+A common error is saying 修理してください (please repair it) directly to a guest, which sounds as though the staff member is asking the guest to handle the repair themselves. The correct guest-facing phrase is always the formal acceptance: 修理依頼を承ります. Another pitfall is giving specific repair timeframes that cannot be guaranteed. Promising "ten minutes" and taking an hour is far more damaging to trust than a careful 少々お時間をいただきます (it will take a little time). A slightly wider estimate with early delivery is the safer approach.
 
 ---
+
 
 ## Quiz
 

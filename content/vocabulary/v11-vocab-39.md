@@ -22,16 +22,19 @@ The phrase works best when one frame it with a polite apology at the front and a
 *Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.*
 "I'm very sorry to trouble you, but could you say that once more? I will read it back for confirmation."
 
+
 ## Related Expressions
 
 - **もう一度おっしゃっていただけますか (mouichido osshatte itadakemasu ka)**: the more formal and respectful variant that uses the honorific verb おっしゃる; this is the version to reach for in luxury hotel contexts where every word choice reflects on the property
 - **復唱します (fukushou shimasu)**: "I will repeat it back"; the essential follow-up after a repetition request, confirming that the information was captured correctly and closing the communication loop
+
 
 ## Common Mistakes
 
 A common error is reach for もう一度言ってください instead of the phrases above. It is grammatically fine but 言ってください uses a plain imperative that sounds too direct and slightly impolite on a professional telephone line. The other common mistake is forgetting to read back the information after asking for repetition, which defeats the whole purpose of asking in the first place. Additionally: if one has had to ask twice and still cannot capture the information clearly, do not just ask a third time. Offer an alternative, either a callback, a request to spell the information phonetically, or confirmation by email. Repeated requests frustrate callers fast.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ A common error is reach for もう一度言ってください instead of the phr
 
 **Correct Answer:** もう一度お願いします (please say that again)
 
-**Explanation:** もう一度お願いします is the phrase that asks a caller to repeat information, and in professional telephone contexts it gains warmth and humility when preceded by 恐れ入りますが, becoming the fuller phrase 恐れ入りますが、もう一度おっしゃっていただけますか. 少々お待ちください is a request to hold, 理解しました confirms understanding, and お繋ぎします redirects the call, none of which address the need to hear something again. After the caller repeats, always confirm the information back with a read-back, because that loop is what closes the risk of error.
+**Explanation:** もう一度お願いします is the phrase that asks a caller to repeat information, and in professional telephone contexts it gains warmth and humility when preceded by 恐れ入りますが, becoming the fuller phrase 恐れ入りますが、もう一度おっしゃっていただけますか. 少々お待ちください is a request to hold, 理解しました confirms understanding, and お繋ぎします redirects the call, none of which address the need to hear something again. After the caller repeats, staff should confirm the information back with a read-back, because that loop is what closes the risk of error.

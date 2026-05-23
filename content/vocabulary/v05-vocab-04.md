@@ -26,7 +26,7 @@ Because 夕食 often involves advance reservations, table assignments, and menu 
 
 ## Common Mistakes
 
-The most common error is using 晩ごはん with guests, which immediately breaks the formal tone expected in hospitality. Staff sometimes announce only the dinner start time and forget to mention the last order time, which can lead to guests arriving too late. Keeping communication generic, simply saying 夕食は6時です, is informative but misses the opportunity to express the anticipation and care that omotenashi calls for. Tone matters significantly in these moments.
+The most common error is using 晩ごはん with guests, which immediately breaks the formal tone expected in hospitality. Staff sometimes announce only the dinner start time and forget to mention the last order time, which can lead to guests arriving too late. Keeping communication generic, saying 夕食は6時です, is informative but misses the opportunity to express the anticipation and care that omotenashi calls for. Tone matters significantly in these moments.
 
 ---
 

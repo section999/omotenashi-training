@@ -22,16 +22,19 @@ For concierge and front desk staff, knowing one's local 名所 thoroughly is non
 *Tou ryokan kara toho juppun no meisho, ○○ jinja wa toku ni aki no kouyou ga migoto desu.*
 "The famous shrine ○○, a ten-minute walk from our ryokan, is especially spectacular in autumn foliage."
 
+
 ## Related Expressions
 
 - **観光地 (kankouchi)**: the broader term for any tourist spot; 名所 is a subset of 観光地, specifically the places with established cultural or historical renown.
 - **旧跡 (kyuuseki)**: a more scholarly or governmental term for ancient or historically significant sites, often used in preservation and academic contexts rather than in everyday hospitality conversation.
 
+
 ## Common Mistakes
 
-The most common error is treating 名所 and 観光地 as interchangeable. Every 名所 is a 観光地, but the reverse isn't true. A newly opened theme park is definitely a 観光地, but it hasn't earned the prestige of a 名所 yet. Worth noting on usage: 名所 is conventionally used for outdoor, architectural, or natural sites, not for food or activities. one wouldn't call a famous ramen restaurant a 名所 in standard usage, even if it has a line around the block. On pronunciation, the first mora *mei* carries the natural stress: *MEI-sho*, not *mei-SHO*.
+The most common error is treating 名所 and 観光地 as interchangeable. Every 名所 is a 観光地, but the reverse isn't true. A newly opened theme park is definitely a 観光地, but it hasn't earned the prestige of a 名所 yet. Note: on usage: 名所 is conventionally used for outdoor, architectural, or natural sites, not for food or activities. one wouldn't call a famous ramen restaurant a 名所 in standard usage, even if it has a line around the block. On pronunciation, the first mora *mei* carries the natural stress: *MEI-sho*, not *mei-SHO*.
 
 ---
+
 
 ## Quiz
 

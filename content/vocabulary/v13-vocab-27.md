@@ -22,16 +22,19 @@ New employees study the マニュアル thoroughly during 研修 (kenshuu, the t
 *Kinkyuuji no taiou tejun wa manyuaru no dai-san-shou ni kuwashiku kisai sarete orimasu.*
 "Emergency response procedures are described in detail in Chapter 3 of the manual."
 
+
 ## Related Expressions
 
 - **手順書 (tejunsho)**: a procedural document narrowly focused on a single task or workflow; it works alongside the broader マニュアル rather than replacing it
 - **規定 (kitei)**: the formal rules and regulations that underpin the manual's content; the マニュアル tells one how to act, while 規定 states what is officially required
 
+
 ## Common Mistakes
 
-A common error is to assume マニュアル is a negative term, imagining robotic service where staff simply follow scripts without genuine warmth. That is not how it is viewed in Japan at all. The manual is respected as the foundation that makes quality consistent, and experienced staff take pride in knowing it well. However, a different confusion trips learners up: mixing up マニュアル (the document) with 手順 (tejun, the procedure). The マニュアル is the book or guide; 手順 are the sequential steps written inside it. Additionally, worth knowing: in professional speech, always say マニュアルを参照する (to consult the manual) rather than just 見る (to look at it). The latter sounds as casual as saying one "glanced" at it, which does not carry the right meaning in a work context.
+A common error is to assume マニュアル is a negative term, imagining robotic service where staff follow scripts without genuine warmth. That is not how it is viewed in Japan at all. The manual is respected as the foundation that makes quality consistent, and experienced staff take pride in knowing it well. However, a different confusion trips learners up: mixing up マニュアル (the document) with 手順 (tejun, the procedure). The マニュアル is the book or guide; 手順 are the sequential steps written inside it. Additionally, worth knowing: in professional speech, always say マニュアルを参照する (to consult the manual) rather than just 見る (to look at it). The latter sounds as casual as saying one "glanced" at it, which does not carry the right meaning in a work context.
 
 ---
+
 
 ## Quiz
 

@@ -19,16 +19,19 @@ In a hospitality context, 承認 is most commonly used in checkout and billing s
 *Waribiki no go-tekiyou ni wa sekininsha no shounin o itadaite orimasu.*
 "Applying a discount requires approval from a person in charge."
 
+
 ## Related Expressions
 
 - **許可 (kyoka)**: 許可 means permission in a broader sense and can be used between equals or toward guests (e.g., permission to enter a restricted area), while 承認 specifically implies a hierarchical or formal authorization process in a business context.
 - **確認 (kakunin)**: 確認 means confirmation or verification and is a step that often precedes 承認; a staff member confirms the details before a supervisor grants 承認, so the two terms frequently appear together in the same workflow.
+
 
 ## Common Mistakes
 
 承認 and 確認 are often confused, but 確認 is checking facts while 承認 is granting authority: one is a verification step, the other is a decision. Another mistake is failing to communicate the 承認 process to the guest, leaving them waiting without explanation; always inform the guest why a brief delay is needed and approximately how long it will take. Avoid using 承認 in casual conversation, as it sounds overly bureaucratic outside of a professional context.
 
 ---
+
 
 ## Quiz
 

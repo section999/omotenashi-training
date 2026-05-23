@@ -3,9 +3,9 @@ id: v09-vocab
 section: 15
 title: 特典 (tokuten)
 ---
-特典 is the word for a perk or bonus that comes built into a booking plan: things like complimentary breakfast, spa access, an airport transfer, welcome drinks, or late checkout. Guests often choose between plans specifically because of what the 特典 are, so staff who can talk about them clearly and warmly are doing real sales and service work at the same time. If one work in reservations, check-in, or plan recommendations, this word will come up constantly.
+特典 is the word for a perk or bonus that comes built into a booking plan: things like complimentary breakfast, spa access, an airport transfer, welcome drinks, or late checkout. Guests often choose between plans specifically because of what the 特典 are, so staff who can discuss them clearly are providing both sales and service. If one works in reservations, check-in, or plan recommendations, this word will come up frequently.
 
-A well-trained staff member does not wait for guests to ask about their 特典. Raising it proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」, means the guest discovers the benefit as a small pleasant moment rather than stumbling across it by accident, or worse, not realising it was available until after checkout. When guests feel their choice was rewarded, they leave happy, and that outcome is largely within a staff member's control\n## Example Sentences
+Proactive communication about 特典 is considered good practice. Raising it proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」, allows the guest to discover the benefit during their stay rather than after checkout. When guests feel their choice was rewarded, they leave satisfied\n## Example Sentences
 
 **1.** こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。
 *Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.*
@@ -26,7 +26,7 @@ A well-trained staff member does not wait for guests to ask about their 特典. 
 
 ## Common Mistakes
 
-Using 特典 for something the guest still has to pay for, such as a discounted spa treatment, is misleading and will cause friction. 特典 means the benefit is included at no extra charge. A second gap is mentioning a 特典 without explaining how to claim it: time restrictions, reservation requirements, and location details all need to be included. Omitting 特典 information at check-in because the guest is assumed to remember their booking details is also a missed opportunity. Most guests book weeks in advance and will not recall every detail; a brief reminder at check-in ensures they get to enjoy what they paid for.
+Using 特典 for something the guest still has to pay for, such as a discounted spa treatment, is misleading and will cause friction. 特典 means the benefit is included at no extra charge. A second gap is mentioning a 特典 without explaining how to claim it: time restrictions, reservation requirements, and location details all need to be included. Omitting 特典 information at check-in because the guest is assumed to remember their booking details means a missed opportunity. Most guests book weeks in advance and will not recall every detail; a brief reminder at check-in ensures they get to enjoy what they paid for.
 
 ---
 

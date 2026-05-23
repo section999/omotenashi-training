@@ -19,16 +19,19 @@ hotel staff may issue a verbal 警告 when observing a guest engaging in risky b
 *Keikoku wo mushi shite tachiita baai, juudai na jiko ga hassei suru kanousei ga gozaimasu.*
 "Entering while ignoring the warning carries the possibility of a serious accident occurring."
 
+
 ## Related Expressions
 
 - **注意 (chuui)**: caution; the level below 警告 in the safety hierarchy, used for moderate risks where care is advised but immediate danger is not imminent; distinguishing these two levels is essential for accurate hazard communication.
 - **危険 (kiken)**: danger; the highest level of hazard communication, used when there is an immediate risk of death or severe injury, representing the level above 警告 in severity.
+
 
 ## Common Mistakes
 
 The most common mistake is conflating 警告 with 注意 and using them interchangeably: each occupies a distinct position in Japan's standardised hazard hierarchy, and using the wrong level can mislead guests about the severity of a risk. A common mistake is to also confuse 警告 (keikoku) with 警報 (keihou), which refers specifically to alarm signals or broadcast alerts (such as typhoon warnings), rather than the physical safety signs and verbal cautions that 警告 describes. When issuing a verbal 警告 to a guest, always frame it as concern for their safety rather than a reprimand: phrases like お客様の安全のためにお伝えしております ("I am telling you this for one's safety") maintain the hospitality register while conveying urgency.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ The most common mistake is conflating 警告 with 注意 and using them intercha
 
 **Correct Answer:** 警告 (warning)
 
-**Explanation:** 警告 occupies the middle tier of Japan's standardised hazard hierarchy, signalling that immediate action or strict avoidance is required, though the situation has not yet reached the life-threatening severity of 危険. 注意 is used for moderate precautionary risk below this level, 危険 is reserved for the most severe hazards, and 点検中 simply means a facility is being checked, which carries no hazard designation at all.
+**Explanation:** 警告 occupies the middle tier of Japan's standardised hazard hierarchy, signalling that immediate action or strict avoidance is required, though the situation has not yet reached the life-threatening severity of 危険. 注意 is used for moderate precautionary risk below this level, 危険 is reserved for the most severe hazards, and 点検中 means a facility is being checked, which carries no hazard designation at all.

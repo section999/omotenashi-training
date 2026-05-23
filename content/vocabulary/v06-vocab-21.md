@@ -8,7 +8,7 @@ title: 追加 (tsuika)
 
 追加 combines the characters for "pursue/chase" (追) and "add" (加), together conveying the idea of adding on top of what already exists. In hospitality, it typically signals a guest request that goes beyond what was originally arranged: an extra towel, an additional bed, an extra portion at dinner, or a supplementary amenity. Responding to 追加 requests with warmth and speed reflects quality service, and at the best properties these requests are fulfilled before a guest needs to ask a second time.
 
-Staff encounter 追加 most often at the front desk and through housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an add-on carries a charge, say so clearly at the time of the request: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). proactive communication at this moment prevents the kind of billing confusion that creates complaints at checkout\n## Example Sentences
+Staff encounter 追加 most often at the front desk and through housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an add-on carries a charge, staff say so clearly at the time of the request: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). proactive communication at this moment prevents the kind of billing confusion that creates complaints at checkout\n## Example Sentences
 
 **1.** 追加でタオルをお持ちいたします。少々お待ちください。
 *Tsuika de taoru wo o-mochi itashimasu. Shoushou o-machi kudasai.*
@@ -25,11 +25,11 @@ Staff encounter 追加 most often at the front desk and through housekeeping req
 ## Related Expressions
 
 - **補充 (hojuu)**: means "replenishment" or restocking, used for restoring items to their original quantity rather than adding above it. Housekeeping 補充 of toiletries is routine maintenance; a guest's 追加 request is a deliberate ask for more than what was provided. The distinction matters in internal communication.
-- **追加料金 (tsuika ryoukin)**: the compound noun meaning "additional charge." This closely related phrase is essential for any context where 追加 services carry a cost, such as late check-out, extra beds, or premium menu additions. Always communicate 追加料金 proactively, never retroactively.
+- **追加料金 (tsuika ryoukin)**: the compound noun meaning "additional charge." This closely related phrase is essential for any context where 追加 services carry a cost, such as late check-out, extra beds, or premium menu additions. 追加料金 should always be communicated proactively, never retroactively.
 
 ## Common Mistakes
 
-Additionally, to keep straight: 追加 is not the same as 交換 (replacement). If a guest wants a dirty towel swapped for a clean one, that is a 交換希望 (replacement request), not an 追加. Using the wrong word in an internal message can send housekeeping the wrong instruction. A common error is conflate these two without realising it. On the billing side, staff sometimes forget to mention the additional charge at the time of the request and only bring it up at checkout, which is exactly when it causes the most friction. Say it early, say it clearly, and guests will almost always appreciate the transparency.
+追加 is not the same as 交換 (replacement). If a guest wants a dirty towel swapped for a clean one, that is a 交換希望 (replacement request), not an 追加. Using the wrong word in an internal message can send housekeeping the wrong instruction. A common error is conflating these two terms. On the billing side, staff sometimes forget to mention the additional charge at the time of the request and only bring it up at checkout, which is when it causes the most friction. Communicating charges early and clearly is the recommended approach.
 
 ---
 

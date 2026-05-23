@@ -22,16 +22,19 @@ Culturally, Japanese employees tend to be mindful of not letting breaks run long
 *Kyuukei-shitsu wa bakkuyaado no oku ni gozaimasu. Douzo goriyou kudasai.*
 "The break room is at the back of the staff area. Please feel free to use it."
 
+
 ## Related Expressions
 
 - **休み (yasumi)**: a day off, not a break within a shift. Both involve rest, which makes them easy to mix up, but they operate at completely different scales.
 - **残業 (zangyou)**: overtime; the opposite end of the spectrum. Frequent 残業 can eat into the 休憩 time employees are legally entitled to, raising both legal and staff welfare concerns.
+
 
 ## Common Mistakes
 
 The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. one'd say 「今日は休みです」to mean "I have the day off." These are different concepts and it's worth keeping them clearly separated in one's mind. A common error is to also need a reminder about verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a useful phrase when explaining to a guest why a colleague is momentarily unavailable.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ Hotel staff are trained to begin initial 救助 actions while simultaneously ale
 *Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.*
 "If rescue is needed, please notify the front desk and call 119."
 
+
 ## Related Expressions
 
 - **救出 (kyuushutsu)**: extraction or physical rescue; used specifically when a person is physically freed from confinement, like being pulled from elevator debris or lifted from floodwater. It is a more specific action within the broader idea of 救助.
 - **避難誘導 (hinan yūdō)**: evacuation guidance; the organised process of directing guests toward safety exits. This often runs alongside 救助 during large-scale emergencies and requires its own dedicated training.
 
+
 ## Common Mistakes
 
-A common error is to use 助ける (tasukeru) when they mean 救助, but 助ける is casual everyday speech for "to help" or "to save," while 救助 is the formal noun used in professional emergency contexts and official documentation. They carry different registers and should not be swapped. Worth noting is another common mix-up: 救助 and 応急処置 (first aid) are not the same thing. Rescue means extracting someone from danger; first aid addresses medical stabilisation after the person is already safe. When writing reports for management or emergency authorities, always use the full formal phrase 救助活動 (kyuujo katsudou), meaning "rescue operations," to ensure one's communication reads professionally and unambiguously.
+A common error is to use 助ける (tasukeru) when they mean 救助, but 助ける is casual everyday speech for "to help" or "to save," while 救助 is the formal noun used in professional emergency contexts and official documentation. They carry different registers and should not be swapped. Note: is another common mix-up: 救助 and 応急処置 (first aid) are not the same thing. Rescue means extracting someone from danger; first aid addresses medical stabilisation after the person is already safe. When writing reports for management or emergency authorities, always use the full formal phrase 救助活動 (kyuujo katsudou), meaning "rescue operations," to ensure one's communication reads professionally and unambiguously.
 
 ---
+
 
 ## Quiz
 

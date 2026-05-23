@@ -22,16 +22,19 @@ When one post a 使用禁止 notice, make sure it is visible at every access poi
 *Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.*
 "The pool's'do not use' restriction will be lifted as soon as the water quality inspection is complete."
 
+
 ## Related Expressions
 
 - **立入禁止 (tachiiri kinshi)**: no entry; while 使用禁止 prohibits operating a specific device or facility, 立入禁止 prohibits physically entering an area or zone. It is a broader spatial restriction, not tied to a particular piece of equipment.
 - **故障中 (koshouchuu)**: out of order; used specifically when a device is broken or malfunctioning. The key difference from 使用禁止 is that 故障中 describes a technical problem, whereas 使用禁止 may be imposed on a perfectly functional facility for safety or administrative reasons.
 
+
 ## Common Mistakes
 
-Confusing 使用禁止 with 故障中 is very common. Remember: 使用禁止 is an active prohibition imposed by management for any reason, while 故障中 describes a specific technical malfunction. A pool can be 使用禁止 even though the equipment is working perfectly, simply because the water quality failed a test. the next most frequent mistake is treating the posted sign as the end of the job. In omotenashi culture, written notices are supplements to personal communication, not replacements for it. When one does speak to a guest about a 使用禁止 situation, always soften the message. Start with 誠に恐れ入りますが (I am truly sorry to trouble one, but...) before explaining the restriction, and one will find that most guests receive the news graciously.
+Confusing 使用禁止 with 故障中 is very common. Remember: 使用禁止 is an active prohibition imposed by management for any reason, while 故障中 describes a specific technical malfunction. A pool can be 使用禁止 even though the equipment is working perfectly, because the water quality failed a test. the next most frequent mistake is treating the posted sign as the end of the job. In omotenashi culture, written notices are supplements to personal communication, not replacements for it. When one does speak to a guest about a 使用禁止 situation, always soften the message. Start with 誠に恐れ入りますが (I am truly sorry to trouble one, but...) before explaining the restriction, and one will find that most guests receive the news graciously.
 
 ---
+
 
 ## Quiz
 

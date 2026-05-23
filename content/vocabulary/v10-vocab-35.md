@@ -19,16 +19,19 @@ When one is guiding a guest through a QRコード payment, present the code clea
 *Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*
 "Once you have confirmed the payment amount in the app, please proceed with the payment."
 
+
 ## Related Expressions
 
 - **電子決済 (denshi kessai)**: electronic payment; QRコード is one of the main delivery methods for 電子決済 in Japan, so the two concepts go hand in hand
 - **バーコード (bākōdo)**: barcode; a one-dimensional predecessor to the QRコード, still found in retail but far less flexible when it comes to handling payments
 
+
 ## Common Mistakes
 
-A common error is present a QRコード before confirming the amount, which means the guest can end up paying the wrong total. That's a hard situation to fix after the fact, so make amount confirmation a habit before one display the code. A dirty or physically damaged code will simply refuse to scan, so check the condition of any printed code regularly. Different payment apps also have slightly different scanning procedures, so be ready to guide guests who are unfamiliar rather than assuming they'll figure it out themselves.
+A common error is present a QRコード before confirming the amount, which means the guest can end up paying the wrong total. That's a hard situation to fix after the fact, so make amount confirmation a habit before one display the code. A dirty or physically damaged code will refuse to scan, so check the condition of any printed code regularly. Different payment apps also have slightly different scanning procedures, so be ready to guide guests who are unfamiliar rather than assuming they'll figure it out themselves.
 
 ---
+
 
 ## Quiz
 
@@ -42,5 +45,5 @@ A common error is present a QRコード before confirming the amount, which mean
 
 **Correct Answer:** QRコード (QR code)
 
-**Explanation:** QRコード is the specific scanned interface that guests use with payment apps like PayPay or LINE Pay, distinct from 電子決済 as the broader category, 暗証番号 as a PIN authentication method, and 署名 as a handwritten authorization. When presenting a QRコード, always confirm the amount in the guest's app matches the actual total before they tap confirm, then wait for the 決済完了 signal on your own terminal before wrapping up.
+**Explanation:** QRコード is the specific scanned interface that guests use with payment apps like PayPay or LINE Pay, distinct from 電子決済 as the broader category, 暗証番号 as a PIN authentication method, and 署名 as a handwritten authorization. When presenting a QRコード, staff should confirm the amount in the guest's app matches the actual total before they tap confirm, then wait for the 決済完了 signal on your own terminal before wrapping up.
 

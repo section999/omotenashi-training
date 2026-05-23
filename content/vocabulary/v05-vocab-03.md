@@ -8,7 +8,7 @@ title: 昼食 (chuushoku)
 
 昼食 is the formal Japanese word for lunch, and in a hotel setting it covers everything from restaurant service to room service and banquet-style midday meals. Lunch presents real opportunities for the attentive hospitality professional: seasonal set menus, business lunch packages, and chef's recommendations are all worth knowing so one can describe them naturally when guests ask. Unlike breakfast, which most staying guests eat on-property, lunch guests often include day visitors or locals coming in from outside. Guest management at the lunch period therefore needs to be equally welcoming to both residents and walk-ins.
 
-Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that one is problem-solving rather than simply reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When service is busy and expectations need to be managed, calm and direct communication is what keeps guests feeling respected\n## Example Sentences
+Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that one is problem-solving rather than reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When service is busy and expectations need to be managed, calm and direct communication is what keeps guests feeling respected\n## Example Sentences
 
 **1.** 昼食は11時30分から14時30分までご利用いただけます。
 *Chuushoku wa juuichi-ji sanjuppun kara juushi-ji sanjuppun made go-riyou itadakemasu.*
@@ -22,16 +22,19 @@ Practical communication around 昼食 centres on clear information: service time
 *O-hiru no go-yoyaku deshitara, honjitsu mada o-seki wo go-youi dekimasu.*
 "If you would like to reserve for lunch, we can still arrange a table for today."
 
+
 ## Related Expressions
 
 - **ランチ (ranchi)**: the loanword equivalent, widely used in casual and mid-range contexts; it is acceptable in many hotel settings but 昼食 carries a more formal register that suits upscale dining communication better
 - **昼ごはん (hiru-gohan)**: the informal everyday word for lunch, fine among staff in back-of-house conversation but too casual for any direct guest-facing situation in a hotel environment
 
+
 ## Common Mistakes
 
-ランチ and 昼食 are sometimes used interchangeably without consideration of register. In formal hotel communication, 昼食 is the better choice. Another common mistake is quoting the end time without the start time, or vice versa, leaving the guest with an incomplete picture. The phrase 食事は昼ですよ is far too casual for a guest interaction and sounds dismissive. The appropriate guest-facing approach is something like ご昼食のご案内をいたします, which is both respectful and informative.
+ランチ and 昼食 are sometimes used interchangeably without consideration of register. In formal hotel communication, 昼食 is the appropriate choice. Another common mistake is quoting the end time without the start time, or vice versa, leaving the guest with an incomplete picture. The phrase 食事は昼ですよ is too casual for a guest interaction and sounds dismissive. The appropriate guest-facing approach is something like ご昼食のご案内をいたします, which is both respectful and informative.
 
 ---
+
 
 ## Quiz
 

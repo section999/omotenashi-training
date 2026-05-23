@@ -19,16 +19,19 @@ In daily operations, staff refer to モップ when discussing floor-cleaning sch
 *Seisou yougu ire ni moppu to baketsu ga gozaimasu.*
 "There are a mop and bucket in the cleaning supply room."
 
+
 ## Related Expressions
 
 - **雑巾 (zoukin)**: A cloth used for wiping surfaces by hand. While モップ covers large floor areas efficiently, 雑巾 is used for detailed wiping of tables, shelves, and tight corners where a mop cannot reach.
 - **バケツ (baketsu)**: A bucket used alongside a mop to hold cleaning water or solution. The two items are typically mentioned together: モップとバケツ (mop and bucket) as a set.
 
+
 ## Common Mistakes
 
-モップ is a wet-cleaning tool. A common error is to use it in contexts that call for dry sweeping, which is the job of ほうき (broom) or 掃除機 (vacuum). Another common error is omitting the particle で: the correct pattern is モップ**で**清掃します, not モップを清掃します. In guest-facing situations, always embed モップ within a humble verb construction like 清掃いたします rather than the plain 清掃します.
+モップ is a wet-cleaning tool. A common error is to use it in contexts that call for dry sweeping, which is the job of ほうき (broom) or 掃除機 (vacuum). Another common error is omitting the particle で: the correct pattern is モップ**で**清掃します, not モップを清掃します. In guest-facing situations, モップ should always be embedded within a humble verb construction like 清掃いたします rather than the plain 清掃します.
 
 ---
+
 
 ## Quiz
 

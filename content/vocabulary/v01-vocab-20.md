@@ -3,11 +3,14 @@ id: v01-vocab
 section: 20
 title: またお越しくださいませ (mata okoshi kudasaimase)
 ---
+
 **またお越しくださいませ** means "please come again," but it carries considerably more warmth than its translation suggests. *Mata* (また) means "again," *okoshi* (お越し) is the honorific for "coming/visiting," and *kudasaimase* is the most polite form of "please do." The phrase is the hospitality professional's final act of care: a sincere, dignified invitation for the guest to return.
 
-The timing and delivery of this phrase matter enormously. It is the last impression the guest carries out the door, which means it has disproportionate weight in shaping their memory of the entire stay. A deeply felt *mata o-koshi kudasaimase*, delivered with genuine eye contact, a bow, and the staff member's full attention, says: *you mattered to us. Come back when one can.*
+The timing and delivery of this phrase matter a great deal. It is the last impression the guest carries out the door, which means it has significant weight in shaping their memory of the entire stay. A deeply felt *mata o-koshi kudasaimase*, delivered with genuine eye contact, a bow, and the staff member's full attention, says: *you mattered to us. Come back when one can.*
 
-this phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank one for one's visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off\n## Example Sentences
+This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank one for one's visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off
+
+## Example Sentences
 
 **1.** ご利用ありがとうございました。またお越しくださいませ。
 *Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*

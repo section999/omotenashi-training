@@ -22,16 +22,19 @@ title: 合計 (goukei)
 *Goukei kingaku wo go-kakunin itadaita ue de, o-shiharai houhou wo o-erabi kudasai.*
 "Please confirm the total amount and then select one's preferred payment method."
 
+
 ## Related Expressions
 
-- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Worth noting is that presenting the 小計 as though it were the final amount is a common mistake -- always make clear whether the figure one is quoting is pre-tax or all-inclusive.
+- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Note: is that presenting the 小計 as though it were the final amount is a common mistake -- always make clear whether the figure one is quoting is pre-tax or all-inclusive.
 - **内訳 (uchiwake)**: itemized breakdown; this comes before the 合計, showing exactly how the total was reached. Offering to walk a guest through the 内訳 before stating the 合計 is a considerate habit to develop.
+
 
 ## Common Mistakes
 
 A common mistake is stating the 合計 too quickly or without any visual reference, particularly with guests unfamiliar with Japanese currency. Large yen figures confuse many international travelers, and a number spoken too fast can easily be misheard as something entirely different. Students also sometimes present the 小計 (the pre-tax subtotal) as though it were the final amount, which causes confusion when the actual total turns out to be higher. Always say 合計〇〇円、税込でございます so the guest knows the figure they're hearing is fully all-inclusive. That one extra phrase prevents a lot of unnecessary back-and-forth.
 
 ---
+
 
 ## Quiz
 

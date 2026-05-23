@@ -22,16 +22,19 @@ title: 手順 (tejun)
 *Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.*
 "I will compile the operating procedure for the new reservation system into a manual and provide guidance."
 
+
 ## Related Expressions
 
 - **マニュアル (manyuaru)**: the operations manual in which 手順 are compiled and stored for all staff to reference; every hotel department has one
 - **作業手順書 (sagyou tejunsho)**: a formal written document recording the 手順 for a specific task, used in training sessions and quality audits
+
 
 ## Common Mistakes
 
 A common error is to swap 手順 with 方法 (houhou: method/way) or やり方 (yarikata: way of doing something), and while all three relate to how something gets done, 手順 specifically implies a numbered sequence -- steps that must happen in a defined order. Using 方法 when referring to a numbered procedure in a hotel training manual sounds imprecise and slightly wrong to a native reader. However, the pronunciation trap is worth knowing about too: 手順 can catch learners off guard because Japanese pitch accent drops after the first mora, so the natural spoken rhythm is different from reading it cold. Listening to native speakers use the word in context will help one internalise the right feel for it.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ A common error is to swap 手順 with 方法 (houhou: method/way) or やり方 (
 
 **Answer:** 手順
 
-**Explanation:** 手順 is an ordered sequence of steps that must be followed in a specific way to produce a consistent, reliable result, the kind of numbered procedure you find in a hotel's operational manual or safety guidelines. Unlike 方法 or やり方, which simply describe a way of doing something, 手順 implies a defined sequence where the order itself matters, which is why it is the term used in training materials and compliance documentation.
+**Explanation:** 手順 is an ordered sequence of steps that must be followed in a specific way to produce a consistent, reliable result, the kind of numbered procedure you find in a hotel's operational manual or safety guidelines. Unlike 方法 or やり方, which describe a way of doing something, 手順 implies a defined sequence where the order itself matters, which is why it is the term used in training materials and compliance documentation.

@@ -22,16 +22,19 @@ How one communicates 延長料金 matters as much as whether one charges it. An 
 *Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.*
 "If you have any questions about the extension fee, please do not hesitate to contact the front desk."
 
+
 ## Related Expressions
 
 - **追加料金 (tsuika ryoukin)**: additional charge; a broader term for any supplemental fee -- 延長料金 is specifically a time-based subtype of this
 - **レイトチェックアウト (reito chekku-auto)**: late checkout; a common service where guests pay an 延長料金 to keep their room past the standard checkout time, often until noon or 3 PM
+
 
 ## Common Mistakes
 
 A common error is to mix up 延長料金 with 超過料金 (chouka ryoukin), which also translates roughly as an excess or overage charge. The overlap is real, but 延長料金 specifically signals a time extension, while 超過料金 can cover exceeding any kind of limit -- weight, quantity, and so on. For guest conversations about running over their checkout time or locker window, 延長料金 is the more precise and natural choice. Additionally: it is best to avoid using the word 罰金 (bakkin, penalty fine) in any context involving extended usage. It sounds accusatory, and it has no place in hospitality speech.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ A common error is to mix up 延長料金 with 超過料金 (chouka ryoukin), whi
 
 **Answer:** 延長料金
 
-**Explanation:** 延長料金 is specifically a time-based supplemental charge that applies when a guest keeps a service, room, locker, or facility beyond its standard allotted period. In hospitality practice, communicating it proactively and with empathy, rather than surprising a guest at payment, is what separates a professional from an inexperienced staff member. 追加料金 is the broader term for any supplemental fee, while 延長料金 is its time-extension subtype, and 罰金 (penalty fine) has no place in hospitality speech because of its accusatory tone.
+**Explanation:** 延長料金 is specifically a time-based supplemental charge that applies when a guest keeps a service, room, locker, or facility beyond its standard allotted period. In hospitality practice, communicating it proactively and with empathy, rather than surprising a guest at payment, distinguishes a professional from an inexperienced staff member. 追加料金 is the broader term for any supplemental fee, while 延長料金 is its time-extension subtype, and 罰金 (penalty fine) has no place in hospitality speech because of its accusatory tone.

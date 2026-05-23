@@ -22,16 +22,19 @@ the cleanest approach is to post the current 為替レート visibly near the fr
 *Kawase reeto no hendou ni yori, oshiharai kingaku ga kotonaru baai ga gozaimasu.*
 "Due to fluctuations in the exchange rate, the payment amount may vary."
 
+
 ## Related Expressions
 
 - **外貨 (gaika)**: 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; one needs 外貨 to have a reason to use 為替, and one needs 為替 to know what the 外貨 is worth.
 - **両替 (ryougae)**: 両替 is the physical act of swapping one currency for another; the 為替レート is what determines how much of one currency is given for another, making 為替 the arithmetic foundation of every 両替 transaction.
 
+
 ## Common Mistakes
 
-The biggest mistake is quoting a rate from memory. Exchange rates can move significantly within a single day, so a figure from this morning's check-in may already be wrong by afternoon. Always verify before quoting. Worth noting for learners: saying 為替 alone in a hospitality conversation can cause confusion because in a broader banking context 為替 also refers to bill-of-exchange instruments. Saying 為替レート makes one's meaning unambiguous. Additionally: never round the exchange rate arbitrarily. Use the official posted figure and record it on the transaction for accountability.
+The biggest mistake is quoting a rate from memory. Exchange rates can move significantly within a single day, so a figure from this morning's check-in may already be wrong by afternoon. Always verify before quoting. Note: for learners: saying 為替 alone in a hospitality conversation can cause confusion because in a broader banking context 為替 also refers to bill-of-exchange instruments. Saying 為替レート makes one's meaning unambiguous. Additionally: never round the exchange rate arbitrarily. Use the official posted figure and record it on the transaction for accountability.
 
 ---
+
 
 ## Quiz
 

@@ -19,16 +19,19 @@ a senior concierge or front desk supervisor will give 指導 by walking a new hi
 *Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*
 "In new employee training, we focus heavily on guidance regarding guest service etiquette."
 
+
 ## Related Expressions
 
 - **ご指導ください (go-shidou kudasai)**: a polite request for guidance, used by staff seeking direction from a superior
 - **OJT (on-the-job training)**: the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting
+
 
 ## Common Mistakes
 
 A common mistake is to confuse 指導 with 教育 (kyouiku: education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors, it implies the speaker is the one guiding, so this would be disrespectful upward. Always use ご指導 with the honorific prefix when referring to the guidance one receive from someone above one.
 
 ---
+
 
 ## Quiz
 

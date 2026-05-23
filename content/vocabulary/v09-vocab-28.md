@@ -6,9 +6,10 @@ title: 延長 (enchou)
 **Pronunciation:** [en-**chou**]
 **Register:** Formal/Neutral, front desk and reservation handling
 
-延長 (enchou) means "extension," the act of prolonging something beyond its original endpoint. In hotel operations, it most often refers to 滞在延長 (taizai enchou), extending a guest's stay beyond the checkout date already in the system. However, the term covers other situations too: a late checkout request, continued use of a meeting room, or extended rental of hotel equipment. In Japanese hospitality culture, being able to accommodate a guest who wants to stay longer is viewed positively, a small but meaningful mark of service quality. Handling 延長 requests smoothly is a skill worth mastering early.
+延長 (enchou) means "extension," the act of prolonging something beyond its original endpoint. In hotel operations, it most often refers to 滞在延長 (taizai enchou), extending a guest's stay beyond the checkout date already in the system. The term also covers other situations: a late checkout request, continued use of a meeting room, or extended rental of hotel equipment. In Japanese hospitality culture, being able to accommodate a guest who wants to stay longer is viewed positively, a small but meaningful mark of service quality. Handling 延長 requests smoothly is an important skill for hotel staff to develop.
 
-When a guest asks about 延長, the front desk process has three steps that must happen before one gives any answer: check whether the room is available for the extra night, confirm that no other guest is already scheduled to check into that same room, and establish any applicable rate differences. Only after those three things are confirmed should one respond. The appropriate phrasing is ご延長のご希望を承りました。本日の料金は〜円でご案内いたします. A common error is skip one of those steps in the moment, especially the incoming guest check, and that is exactly how double-booking conflicts happen.
+When a guest asks about 延長, the front desk process has three steps that must happen before the staff member gives any answer: check whether the room is available for the extra night, confirm that no other guest is already scheduled to check into that same room, and establish any applicable rate differences. Only after those three things are confirmed should the staff member respond. The appropriate phrasing is ご延長のご希望を承りました。本日の料金は〜円でご案内いたします. A common error is skipping one of those steps in the moment, especially the incoming guest check, and that is how double-booking conflicts happen.
+
 ## Example Sentences
 
 **1.** 滞在を1泊延長したいのですが、可能でしょうか。
@@ -23,16 +24,19 @@ When a guest asks about 延長, the front desk process has three steps that must
 *Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku〜en de gozaimasu.*
 "We are able to extend the stay in the same room tonight. The additional charge is [amount] yen per night."
 
+
 ## Related Expressions
 
-- **レイトチェックアウト (reito chekkuauto)**: late checkout, a lighter form of extension where the guest keeps the room for a few extra hours rather than a full additional night. Often subject to a surcharge, and handled through a separate process from overnight 延長.
-- **短縮 (tanshuku)**: the direct opposite of 延長, shortening a stay. Knowing both terms prepares one for the full range of duration-change requests a guest might bring to the desk.
+- **レイトチェックアウト (reito chekkuauto)**: late checkout, a lighter form of extension where the guest keeps the room for a few extra hours rather than a full additional night. Subject to a surcharge in many cases, and handled through a separate process from overnight 延長.
+- **短縮 (tanshuku)**: the direct opposite of 延長, shortening a stay. Staff need to be familiar with both terms to handle the full range of duration-change requests a guest might bring to the desk.
+
 
 ## Common Mistakes
 
-The most common and damaging error with 延長 is telling a guest "yes, that's fine" before verifying availability and the next guest's check-in schedule. A verbal confirmation given before the system check is done can create a double-booking conflict that is difficult to resolve once the guest has already been told yes. always say 確認いたします first, no matter how confident one feels about availability. Another mistake is using 延ばす (nobasu) in place of 延長 in guest-facing communication; ご滞在をお延ばしします sounds informal and slightly awkward in a hotel context. Additionally: always quote the rate for the additional night when one confirm the extension, because a guest who discovers an unexpected charge at checkout will feel misled, regardless of whether the room was available.
+The most common and damaging error with 延長 is telling a guest "yes, that's fine" before verifying availability and the next guest's check-in schedule. A verbal confirmation given before the system check is done can create a double-booking conflict that is difficult to resolve once the guest has already been told yes. Staff should say 確認いたします first, regardless of how confident one feels about availability. Another mistake is using 延ばす (nobasu) in place of 延長 in guest-facing communication; ご滞在をお延ばしします sounds informal in a hotel context. The rate for the additional night should be quoted when confirming the extension, because a guest who discovers an unexpected charge at checkout will feel misled, regardless of whether the room was available.
 
 ---
+
 
 ## Quiz
 

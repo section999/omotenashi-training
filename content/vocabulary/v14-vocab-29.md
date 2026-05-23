@@ -22,16 +22,19 @@ hospitality staff need to handle マナー situations with a light touch. Guests
 *Jinja-ji wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.*
 "When visiting shrines and temples, we would appreciate one's respect for the manners of the place."
 
+
 ## Related Expressions
 
 - **エチケット (echiketto)**: etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. one hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings.
 - **ルール (ruuru)**: rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone.
 
+
 ## Common Mistakes
 
-A common error is to treat マナー as identical to 礼儀 (reigi, courtesy), but 礼儀 is more about respectful conduct within personal relationships, while マナー has a broader, more public connotation covering everyday shared spaces. The two overlap but are not interchangeable. Worth noting on correction technique: saying 「マナー違反です」 directly to a guest sounds blunt and accusatory. Swap it for 「こちらではご遠慮いただいております」, which achieves the same goal while keeping the interaction warm and face-saving for everyone involved.
+A common error is to treat マナー as identical to 礼儀 (reigi, courtesy), but 礼儀 is more about respectful conduct within personal relationships, while マナー has a broader, more public connotation covering everyday shared spaces. The two overlap but are not interchangeable. Note: on correction technique: saying 「マナー違反です」 directly to a guest sounds blunt and accusatory. Swap it for 「こちらではご遠慮いただいております」, which achieves the same goal while keeping the interaction warm and face-saving for everyone involved.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ A common error is to treat マナー as identical to 礼儀 (reigi, courtesy), b
 
 **Correct Answer:** マナー (manners)
 
-**Explanation:** マナー captures the expected social conduct in shared public spaces, a concept central to Japanese hospitality because so much of daily life unfolds in close proximity to others. Unlike 文化, which refers to the broader identity of a society, and 習慣, which describes culturally ingrained behavioural patterns, マナー focuses on whether someone is behaving with appropriate consideration for those around them. 注意事項 is simply the wrong category, referring to safety or facility guidelines rather than social conduct.
+**Explanation:** マナー captures the expected social conduct in shared public spaces, a concept central to Japanese hospitality because so much of daily life unfolds in close proximity to others. Unlike 文化, which refers to the broader identity of a society, and 習慣, which describes culturally ingrained behavioural patterns, マナー focuses on whether someone is behaving with appropriate consideration for those around them. 注意事項 is the wrong category, referring to safety or facility guidelines rather than social conduct.

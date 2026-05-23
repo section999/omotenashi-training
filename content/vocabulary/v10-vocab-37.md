@@ -19,16 +19,19 @@ When a transaction calls for a 暗証番号, turn the PIN pad toward the guest a
 *Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.*
 "We ask that you enter one's PIN yourself."
 
+
 ## Related Expressions
 
 - **署名 (shomei)**: signature; an alternative to 暗証番号 for authorizing card payments, depending on card type and terminal setting, so know which one's property's terminals require
 - **セキュリティコード (sekyuriti kōdo)**: security code (CVV/CVC); a different numeric code found on the back of a card, used for online transactions only, not for in-person PIN entry
+
 
 ## Common Mistakes
 
 The most serious mistake here is standing too close or positioning the terminal so the keypad faces the room rather than the guest. That's both a security breach and a real violation of trust. A common error is to also confuse 暗証番号 with セキュリティコード, which is the CVV/CVC on the back of the card used only for online transactions. That code should never be requested in person. Additionally: under absolutely no circumstances should one ask a guest to verbally say their PIN out loud, even if they seem to offer.
 
 ---
+
 
 ## Quiz
 

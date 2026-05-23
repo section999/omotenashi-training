@@ -22,16 +22,19 @@ Airport hotels and transit accommodations deal with this most directly, since gu
 *Nyuukoku ni mondai ga aru baai wa, kuukou no nyuukoku kanri kauntaa ni gosodan kudasai.*
 "If you have any issues with entry, please consult the immigration management counter at the airport."
 
+
 ## Related Expressions
 
 - **出国 (shukkoku)**: the direct opposite of 入国, referring to the process of leaving Japan; the procedures mirror each other but happen at different points in the guest's journey.
 - **入国審査 (nyuukoku shinsa)**: immigration screening specifically, the officer-conducted check that forms part of the broader 入国 process; knowing this distinction helps one uses each term precisely.
+
 
 ## Common Mistakes
 
 A common error is to confuse 入国 with 入室 (nyuushitsu, entering a room) or 入店 (nyuuten, entering a shop). The shared character 入 means "enter," but the second character tells one what one is entering: 国 is "country." Once one lock that in, the compound makes complete sense. Another mix-up is treating 入国 and 入国審査 as synonyms: 入国審査 is the screening check specifically, while 入国 is the broader act of crossing into Japan. Additionally: 入国 is always about crossing a national border. one wouldn't use it to describe entering a building or venue.
 
 ---
+
 
 ## Quiz
 

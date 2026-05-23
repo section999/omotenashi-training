@@ -3,11 +3,14 @@ id: v01-vocab
 section: 22
 title: ご確認ください (go-kakunin kudasai)
 ---
-**ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. one will use this phrase whenever one needs a guest to review information: a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
 
-unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not bureaucratic at all. It is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
+**ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. A staff member will use this phrase whenever they need a guest to review information: a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
 
-Note: in written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request\n## Example Sentences
+Unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not merely bureaucratic. It is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
+
+In written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request
+
+## Example Sentences
 
 **1.** こちらのご予約内容をご確認ください。
 *Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*
@@ -29,7 +32,7 @@ Note: in written contexts such as emails, printed confirmations, and room servic
 
 ## Common Mistakes
 
-The most common mistake is presenting information to a guest without asking for confirmation at all, assuming the details are correct when the guest may have a different expectation. Students also sometimes phrase the request in a way that implies doubt about the guest: "Are you sure this is right?" That framing puts the guest on the defensive. The correct approach is to frame confirmation as *verification*, not correction. The responsibility for accurate information belongs to the staff, and the confirmation step is a quality check, not a suspicion.
+The most common mistake is presenting information to a guest without asking for confirmation at all, assuming the details are correct when the guest may have a different expectation. A common error is phrasing the request in a way that implies doubt about the guest: "Are you sure this is right?" That framing puts the guest on the defensive. The appropriate approach is to frame confirmation as *verification*, not correction. The responsibility for accurate information belongs to the staff, and the confirmation step is a quality check, not a suspicion.
 
 ---
 
@@ -44,4 +47,4 @@ The most common mistake is presenting information to a guest without asking for 
 
 **Correct Answer:** こちらのご予約内容をご確認ください。(Please confirm the details of your reservation.)
 
-**Explanation:** Inviting the guest to confirm their reservation details is an act of care, not bureaucracy, because catching a discrepancy before check-in prevents the kinds of errors that genuinely damage a stay. *Kochira no go-yoyaku naiyō wo go-kakunin kudasai* frames that review as a polite invitation rather than a suspicious question, which is exactly the right tone.
+**Explanation:** Inviting the guest to confirm their reservation details is an act of care, not bureaucracy, because catching a discrepancy before check-in prevents the kinds of errors that damage a stay. *Kochira no go-yoyaku naiyō wo go-kakunin kudasai* frames that review as a polite invitation rather than a suspicious question, which is exactly the right tone.

@@ -19,16 +19,19 @@ title: 緊急 (kinkyuu)
 *Kinkyuu ji no renrakusaki wa kyakushitsu no infomēshon bukku ni kisai sarete imasu.*
 "Emergency contact numbers are listed in the in-room information book."
 
+
 ## Related Expressions
 
 - **非常 (hijou)**: also means "emergency" but more often appears in compound nouns such as 非常口 (emergency exit) and 非常ベル (emergency bell); 緊急 describes the state or situation while 非常 often labels equipment or infrastructure.
 - **急いで (isoide)**: means "hurry" and conveys urgency in everyday speech, but it lacks the critical safety connotation of 緊急 and is inappropriate for formal emergency announcements.
+
 
 ## Common Mistakes
 
 A common mistake is to use 急いで or 大変 interchangeably with 緊急, but these do not carry the formal, life-safety weight required in an emergency announcement. Another error is omitting a specific follow-up instruction: saying only 「緊急です」 without directing guests to a clear action can increase panic rather than reduce it. Finally, 緊急 should not be used for minor service inconveniences such as a delayed room cleaning, as this dilutes its impact.
 
 ---
+
 
 ## Quiz
 

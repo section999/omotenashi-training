@@ -22,16 +22,19 @@ When a 手数料 applies, the right move is to name it, explain what it covers, 
 *Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.*
 "Please let us know if one has any questions about the handling fee."
 
+
 ## Related Expressions
 
 - **追加料金 (tsuika ryoukin)**: 追加料金 covers any additional charge beyond a base price, while 手数料 is narrower -- it applies specifically to processing or administrative fees for a transaction method; both require disclosure, but they come up in different conversations.
 - **消費税 (shouhizei)**: 消費税 is the government consumption tax, distinct from 手数料 by nature: tax is universal and obligatory, while 手数料 is service-specific and sometimes avoidable depending on how the guest pays.
+
 
 ## Common Mistakes
 
 The critical mistake is disclosing 手数料 on the receipt rather than before the transaction. Guests who see a fee for the first time on their bill feel deceived, and that reaction is hard to undo regardless of how small the amount is. A common error is to also mix up 手数料 and キャンセル料: both are fees, but キャンセル料 is triggered by cancellation, while 手数料 comes from the choice of payment or processing method. Always check which payment methods carry a 手数料 before the guest commits to one.
 
 ---
+
 
 ## Quiz
 

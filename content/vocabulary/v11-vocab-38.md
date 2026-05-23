@@ -22,16 +22,19 @@ In a hospitality telephone setting, one almost never say 聞き取れません o
 *Denwa no joutai ga waruku, kikitoremasen deshita. Orikaeshi go-renraku itashimashou ka.*
 "The phone connection was poor and I could not make out what you said. Shall I call you back?"
 
+
 ## Related Expressions
 
 - **わかりません (wakarimasen)**: "I do not understand"; this is about meaning and comprehension, not about hearing; reaching for this one when the real issue is audibility can accidentally suggest to the caller that there is a language gap that does not exist
 - **お声が遠い (okoe ga tooi)**: "one's voice is distant or faint"; a softer and more indirect way of conveying the same idea as 聞き取れません; considered more refined in very formal hospitality contexts where directness feels slightly abrupt
 
+
 ## Common Mistakes
 
-The most common error is using わかりません when the actual problem is that the voice simply cannot be heard. This misidentifies the situation and can make the caller feel that one's Japanese comprehension is the issue, which is both confusing and potentially embarrassing for everyone. Worth noting, even when one does use 聞き取れません, saying it without any softening phrase comes across as blunt on a hotel line. Always open with 恐れ入りますが or 申し訳ございませんが. Students also sometimes over-apologize to the point where the call bogs down in expressions of remorse. Keep it brief and redirect quickly toward solving the problem.
+The most common error is using わかりません when the actual problem is that the voice cannot be heard. This misidentifies the situation and can make the caller feel that one's Japanese comprehension is the issue, which is both confusing and potentially embarrassing for everyone. Note: even when one does use 聞き取れません, saying it without any softening phrase comes across as blunt on a hotel line. Always open with 恐れ入りますが or 申し訳ございませんが. Students also sometimes over-apologize to the point where the call bogs down in expressions of remorse. Keep it brief and redirect quickly toward solving the problem.
 
 ---
+
 
 ## Quiz
 

@@ -26,7 +26,7 @@ In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a pro
 
 ## Common Mistakes
 
-A common error is confusing 問題 with クレーム (kuremu) and treating them as interchangeable. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest, reaching for クレーム prematurely can escalate the situation unnecessarily. Staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
+A common error is confusing 問題 with クレーム (kuremu) and treating them as interchangeable. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest, and reaching for クレーム prematurely can escalate the situation unnecessarily. Staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
 
 ---
 

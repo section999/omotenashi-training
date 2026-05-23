@@ -19,16 +19,19 @@ title: 交換 (koukan)
 *Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*
 "I sincerely apologize for the inconvenience. I will replace it right away."
 
+
 ## Related Expressions
 
 - **補充 (hojuu)**: Replenishment, used when restocking rather than replacing one item with another of the same kind. While 交換 implies swapping a used item for a fresh one (e.g., a used towel for a clean one), 補充 is used when topping up supplies (e.g., adding more shampoo bottles). The distinction matters when responding precisely to guest requests.
-- **ご用意 (go-youi)**: "Preparation / providing." When proactively setting up replacement items rather than responding to a complaint, staff use ご用意: 「新しいタオルをご用意いたします」 (I will prepare fresh towels for one). This phrasing sounds more hospitable and less reactive than simply 交換します.
+- **ご用意 (go-youi)**: "Preparation / providing." When proactively setting up replacement items rather than responding to a complaint, staff use ご用意: 「新しいタオルをご用意いたします」 (I will prepare fresh towels for one). This phrasing sounds more hospitable and less reactive than 交換します.
+
 
 ## Common Mistakes
 
-A common mistake is confirming the replacement with a bare 「交換します」 (plain form) rather than the humble 「交換いたします」, which is the required register in guest-facing hospitality speech. A common mistake occurs when learners also forget to apologize when a replacement is needed due to a shortage or error: always acknowledge any inconvenience to the guest before proceeding with the action. Additionally, confusing 交換 (replacing one item with another) with 補充 (adding to what is already there) can lead to incorrect action: for example, adding a towel when the guest wanted the used one taken away and a fresh one left.
+A common mistake is confirming the replacement with a bare 「交換します」 (plain form) rather than the humble 「交換いたします」, which is the required register in guest-facing hospitality speech. Another common mistake is forgetting to apologize when a replacement is needed due to a shortage or error: staff should always acknowledge any inconvenience to the guest before proceeding with the action. Additionally, confusing 交換 (replacing one item with another) with 補充 (adding to what is already there) can lead to incorrect action: for example, adding a towel when the guest wanted the used one taken away and a fresh one left.
 
 ---
+
 
 ## Quiz
 

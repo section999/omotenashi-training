@@ -3,7 +3,7 @@ id: v03-vocab
 section: 18
 title: 洗面所 (senmenjo)
 ---
-洗面所 (洗面 = washing the face, 所 = place) reads as "a place to wash the face," but it refers broadly to the washroom area, the space containing the sink, mirror, and vanity, along with amenities like toothbrushes, razors, and skincare products. In Japanese hotel rooms, the 洗面所 is often a distinct area separate from both the bathtub (浴室) and the toilet (トイレ), a three-way separation common in mid-to-high-range accommodations. For guests unfamiliar with this layout, a clear orientation to the 洗面所 prevents confusion and reflects the thoroughness expected in omotenashi service. Staff who accurately describe the 洗面所 and its amenities help guests feel at home immediately upon arrival.
+洗面所 (洗面 = washing the face, 所 = place) reads as "a place to wash the face," but it refers broadly to the washroom area, the space containing the sink, mirror, and vanity, along with amenities like toothbrushes, razors, and skincare products. In Japanese hotel rooms, the 洗面所 is often a distinct area separate from both the bathtub (浴室) and the toilet (トイレ), a three-way separation common in mid-to-high-range accommodations. For guests unfamiliar with this layout, a clear orientation to the 洗面所 prevents confusion and reflects the thoroughness expected in omotenashi service. Staff who accurately describe the 洗面所 and its amenities help guests feel at home upon arrival.
 
 During check-in or room orientation, staff might say 「洗面所はお部屋の奥にございます」 (the washroom is at the back of one's room) or detail available items: 「洗面所には歯ブラシやタオルをご用意しております」 (the washroom has toothbrushes and towels prepared). When guests ask about where to brush their teeth or wash their face, 洗面所 is the correct referent. Housekeeping staff replenishing supplies will also use this term internally when checking amenity stock\n## Example Sentences
 
@@ -19,16 +19,19 @@ During check-in or room orientation, staff might say 「洗面所はお部屋の
 *Senmenjo no ameniti ga fusoku shite iru baai wa, furonto ni o-moushitsuke kudasai.*
 "If washroom amenities are insufficient, please let the front desk know."
 
+
 ## Related Expressions
 
 - **浴室 (yokushitsu)**: The formal term for the bathing room (bath/shower area). While 洗面所 focuses on the sink and vanity area, 浴室 encompasses the entire bathing space. In hotels where these are separate rooms, distinguishing them clearly for guests is important.
 - **トイレ (toire)**: Refers to the toilet/restroom. In three-compartment Japanese hotel bathrooms, トイレ, 洗面所, and 浴室 are each distinct spaces; using the wrong term when giving directions can confuse a guest seeking a specific facility.
 
+
 ## Common Mistakes
 
-A frequent error is using plain あります instead of ございます when describing the washroom location to guests. 「洗面所はあります」 sounds casual and does not fit hotel speech. 洗面所 is also sometimes confused with 洗面台, where 洗面台 refers specifically to the sink fixture itself, not the room. A commonly overlooked service point is forgetting to mention washroom amenities during room orientation. Guests appreciate knowing in advance what has been prepared for them, and it is a natural opportunity to make a strong first impression.
+A frequent error is using plain あります instead of ございます when describing the washroom location to guests. 「洗面所はあります」 sounds casual and does not fit hotel speech. 洗面所 is also sometimes confused with 洗面台, where 洗面台 refers specifically to the sink fixture itself, not the room. A commonly overlooked service point is forgetting to mention washroom amenities during room orientation. Guests appreciate knowing in advance what has been prepared for them, and it is an opportunity to make a positive first impression.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ When processing a 返金, confirm three pieces of information before proceeding:
 *Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.*
 "Due to a billing error, we will refund the difference."
 
+
 ## Related Expressions
 
 - **取消 (torikeshi)**: 取消 is the cancellation that typically triggers a 返金; processing a 取消 activates the cancellation policy and determines whether a refund is due, and if so, how much.
 - **払い戻し (haraimodoshi)**: 払い戻し is close in meaning to 返金 but shows up more in transportation and ticketing contexts, like train or airline refunds; in hotel and hospitality settings, 返金 is the standard choice.
 
+
 ## Common Mistakes
 
-Telling a guest simply that a 返金 will happen, without specifying the amount, method, or timeframe, creates anxiety and generates follow-up calls. Always bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. Never promise a 返金 before confirming what the cancellation policy allows; a promise one has to walk back later is worse than taking a moment to check first.
+Telling a guest that a 返金 will happen, without specifying the amount, method, or timeframe, creates anxiety and generates follow-up calls. Always bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. Never promise a 返金 before confirming what the cancellation policy allows; a promise one has to walk back later is worse than taking a moment to check first.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ Telling a guest simply that a 返金 will happen, without specifying the amount,
 
 **Correct Answer:** 返金 (refund)
 
-**Explanation:** 返金 is the process of returning money to a guest, and a well-handled refund can actually restore confidence in your property after something went wrong. 取消 is the cancellation that may trigger a refund but is not the refund itself; 支払い方法 describes how payment is made, not how it is returned; and 精算 is the account settlement process. Communicating the amount, the return method, and the timeline in a single clear statement prevents the follow-up calls that happen when guests are left waiting without knowing what to expect.
+**Explanation:** 返金 is the process of returning money to a guest, and a well-handled refund can restore confidence in your property after something went wrong. 取消 is the cancellation that may trigger a refund but is not the refund itself; 支払い方法 describes how payment is made, not how it is returned; and 精算 is the account settlement process. Communicating the amount, the return method, and the timeline in a single clear statement prevents the follow-up calls that happen when guests are left waiting without knowing what to expect.

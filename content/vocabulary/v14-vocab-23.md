@@ -22,16 +22,19 @@ Hotel staff often step in to help guests navigate 切符 purchases, especially f
 *Kippu wa kochira no jidou kenbaiki de okaiotome itadakemasu. Eigo hyouji mo taiou shite orimasu.*
 "Tickets can be purchased at this vending machine here. It also supports English display."
 
+
 ## Related Expressions
 
 - **乗車券 (joushaken)**: a more formal term for a boarding ticket; appears on official receipts and documentation, while 切符 is the natural word to use in spoken conversation
 - **ICカード (IC kaado)**: a rechargeable smart card that works as an electronic alternative to 切符 for most standard rail and bus journeys across Japan
 
+
 ## Common Mistakes
 
-A common error is to assume one 切符 covers an entire journey, but in Japan, transferring between different railway companies (for example, JR to a private line) may require a separate 切符 for each operator unless a combined ticket covers the full route. Worth noting is that this is a common sources of confusion at the ticket gate, and a quick heads-up from hotel staff before guests leave can prevent a stressful experience. The other confusion to watch for is between 切符 and チケット (chiketto): チケット is more commonly used for event, concert, or facility admission, not for transport. In hospitality contexts, 切符 for trains and 乗車券 for formal documentation are the natural choices.
+A common error is to assume one 切符 covers an entire journey, but in Japan, transferring between different railway companies (for example, JR to a private line) may require a separate 切符 for each operator unless a combined ticket covers the full route. Note: is that this is a common sources of confusion at the ticket gate, and a quick heads-up from hotel staff before guests leave can prevent a stressful experience. The other confusion to watch for is between 切符 and チケット (chiketto): チケット is more commonly used for event, concert, or facility admission, not for transport. In hospitality contexts, 切符 for trains and 乗車券 for formal documentation are the natural choices.
 
 ---
+
 
 ## Quiz
 

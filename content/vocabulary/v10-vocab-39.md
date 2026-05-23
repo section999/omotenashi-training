@@ -19,16 +19,19 @@ confirming 有効 means checking three things: the 有効期限 (expiry date), w
 *Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.*
 "Your reservation is valid, so one may proceed directly to check-in."
 
+
 ## Related Expressions
 
 - **無効 (mukō)**: invalid; the direct opposite of 有効, used when a document, card, or offer cannot be accepted and always requires a gentle, clear explanation to the guest
 - **有効期限 (yūkō kigen)**: expiry date; the first thing to check when determining whether something is 有効 or 無効, though it's not the only condition to verify
 
+
 ## Common Mistakes
 
-A common error is to confirm 有効 after only glancing at the expiry date, forgetting that a coupon can be within its date range and still be 無効 for a specific purchase if there are service restrictions or minimum spend conditions attached. Worth noting too: accepting a document as valid without checking the system can mean one is approving something that has already been used or has quietly expired. Do a full verification before one says 有効でございます, because unwinding a mistaken acceptance is far more uncomfortable than taking thirty extra seconds to confirm properly.
+A common error is to confirm 有効 after only glancing at the expiry date, forgetting that a coupon can be within its date range and still be 無効 for a specific purchase if there are service restrictions or minimum spend conditions attached. Note: too: accepting a document as valid without checking the system can mean one is approving something that has already been used or has quietly expired. Do a full verification before one says 有効でございます, because unwinding a mistaken acceptance is far more uncomfortable than taking thirty extra seconds to confirm properly.
 
 ---
+
 
 ## Quiz
 

@@ -19,16 +19,19 @@ when a guest presents a バウチャー, one want to check three things before a
 *Bauchā no naiyō o kakunin sasete itadakimasu.*
 "Allow me to verify the details of one's voucher."
 
+
 ## Related Expressions
 
 - **クーポン (kūpon)**: a discount coupon; unlike a バウチャー, it trims the price rather than representing full prepayment, so the two should never be treated as the same thing at the billing stage
 - **予約確認書 (yoyaku kakunin-sho)**: reservation confirmation document; often accompanies a バウチャー but serves the separate purpose of confirming booking details rather than proving payment
 
+
 ## Common Mistakes
 
-A common error is to mix up バウチャー and クーポン and treat them as the same thing, but accepting one where the other was required creates billing discrepancies that are difficult to resolve later. Worth noting as well: many learners rush through the verification step and accept a バウチャー without confirming all the details, then run into trouble when the booking agency's records do not match. Take the time to check the guest name, service type, date, and whether it has been used before one process anything.
+A common error is to mix up バウチャー and クーポン and treat them as the same thing, but accepting one where the other was required creates billing discrepancies that are difficult to resolve later. Note: as well: many learners rush through the verification step and accept a バウチャー without confirming all the details, then run into trouble when the booking agency's records do not match. Take the time to check the guest name, service type, date, and whether it has been used before one process anything.
 
 ---
+
 
 ## Quiz
 

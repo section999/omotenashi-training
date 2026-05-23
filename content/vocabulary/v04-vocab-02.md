@@ -3,9 +3,9 @@ id: v04-vocab
 section: 2
 title: 清掃中 (seisouchuu)
 ---
-清掃中 is the professional term for "cleaning in progress," and it is an important phrases in hotel housekeeping. Unlike the more conversational 掃除, the word 清掃 carries a formal, institutional weight that makes it appropriate for door hangers, room-status systems, and staff communication. The 中 suffix tells one the action is currently happening, making the message immediate and clear: the room is occupied by staff and not yet available. In a ryokan or hotel, putting up a 清掃中 sign is a basic courtesy that protects both the guest's privacy and the housekeeper's working space.
+清掃中 is the professional term for "cleaning in progress," and it is an important phrase in hotel housekeeping. Unlike the more conversational 掃除, the word 清掃 carries a formal, institutional weight that makes it appropriate for door hangers, room-status systems, and staff communication. The 中 suffix tells one the action is currently happening, making the message immediate and clear: the room is occupied by staff and not yet available. In a ryokan or hotel, putting up a 清掃中 sign is a basic courtesy that protects both the guest's privacy and the housekeeper's working space.
 
-Housekeeping staff hang the 清掃中 sign or card on the door handle before entering, and it stays up until all work is finished. Verbally, staff also use this phrase when redirecting a guest who tries to return to their room early. The key distinction to drill is the difference between 清掃中 and 清掃済み (seisou zumi, cleaning complete): mixing these two up in room-status reports causes real operational problems, so both need to be drilled until they are automatic\n## Example Sentences
+Housekeeping staff hang the 清掃中 sign or card on the door handle before entering, and it stays up until all work is finished. Verbally, staff also use this phrase when redirecting a guest who tries to return to their room early. The key distinction to remember is the difference between 清掃中 and 清掃済み (seisou zumi, cleaning complete): mixing these two up in room-status reports causes operational problems, so both need to be learned until they are automatic\n## Example Sentences
 
 **1.** ただいまお部屋が清掃中でございます。しばらくお待ちいただけますでしょうか。
 *Tadaima oheya ga seisou-chuu de gozaimasu. Shibaraku omachi itadakemasu deshou ka.*
@@ -26,7 +26,7 @@ Housekeeping staff hang the 清掃中 sign or card on the door handle before ent
 
 ## Common Mistakes
 
-A common mistake is writing 掃除中 instead of 清掃中 on official signage. Both mean "cleaning in progress," but 清掃中 is the professional standard for hotels and ryokan. 清掃中 and 使用中 are also sometimes confused: 使用中 means "occupied" with no cleaning implied. Always remove the 清掃中 sign promptly once work is done; leaving it up unnecessarily can prevent guests from accessing their own rooms.
+A common mistake is writing 掃除中 instead of 清掃中 on official signage. Both mean "cleaning in progress," but 清掃中 is the professional standard for hotels and ryokan. 清掃中 and 使用中 are also sometimes confused: 使用中 means "occupied" with no cleaning implied. The 清掃中 sign should be removed promptly once work is done; leaving it up unnecessarily can prevent guests from accessing their own rooms.
 
 ---
 

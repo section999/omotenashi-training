@@ -22,16 +22,19 @@ A reliable three-part structure makes these conversations much smoother: state t
 *Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.*
 "Allow me to explain the excess charge."
 
+
 ## Related Expressions
 
 - **不足 (fusoku)**: 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy one will be explaining to guests at billing time.
 - **超過料金 (chouka ryoukin)**: The most common applied form in hospitality, referring to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume.
+
 
 ## Common Mistakes
 
 Announcing a 超過 charge without explaining its basis makes the guest feel the charge is arbitrary. Always lead with the limit and the actual usage before stating the amount owed. 超過 and 追加 are not the same thing: 超過料金 is a penalty for exceeding a threshold; 追加料金 is a charge for an extra service that was added. Mixing these up causes real confusion when guests ask one to break down their bill.
 
 ---
+
 
 ## Quiz
 

@@ -5,7 +5,7 @@ title: 喫煙席 (kitsuen seki)
 ---
 喫煙席 refers to a smoking seat or smoking section, a designated area of a restaurant or dining venue where guests are permitted to smoke. In Japan's evolving tobacco regulation landscape, indoor 喫煙席 have become increasingly rare in hotels and restaurants, with many establishments either going fully non-smoking or confining smoking to separately ventilated rooms or outdoor terraces. Despite this trend, knowing how to accurately direct a guest to a 喫煙席, or politely explain its absence, remains an important front-of-house skill.
 
-staff guide guests to 喫煙席 using directional phrases such as 喫煙席はこちらでございます ("the smoking section is this way"). If 喫煙席 is available only in a specific location, such as a separate room or terrace, staff should explain clearly: 喫煙席は2階にございます ("the smoking section is on the 2nd floor"). When a venue has eliminated 喫煙席 entirely, staff should inform the guest proactively and offer alternatives: 当店は全席禁煙でございます。屋外に喫煙スペースがございます ("this restaurant is entirely non-smoking; there is a smoking area outside")\n## Example Sentences
+Staff guide guests to 喫煙席 using directional phrases such as 喫煙席はこちらでございます ("the smoking section is this way"). If 喫煙席 is available only in a specific location, such as a separate room or terrace, staff should explain clearly: 喫煙席は2階にございます ("the smoking section is on the 2nd floor"). When a venue has eliminated 喫煙席 entirely, staff should inform the guest proactively and offer alternatives: 当店は全席禁煙でございます。屋外に喫煙スペースがございます ("this restaurant is entirely non-smoking; there is a smoking area outside")\n## Example Sentences
 
 **1.** 喫煙席はこちらでございます。どうぞこちらへ。
 *Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.*
@@ -26,7 +26,7 @@ staff guide guests to 喫煙席 using directional phrases such as 喫煙席は�
 
 ## Common Mistakes
 
-Staff sometimes make the mistake of appearing apologetic or hesitant when escorting a guest to 喫煙席: in professional hospitality, guest choice must be honored without judgment, and the tone should be the same as guiding someone to any other seat. A practical error is failing to mention any relevant conditions of the 喫煙席 (e.g., it is in a separate building or has a time limit); surprises after seating create negative impressions. Another common mistake is sometimes confuse 喫煙席 with 喫煙室 (kitsuen shitsu: a dedicated smoking room, often used in office buildings or hotels); the 席 (seat) versus 室 (room) distinction is meaningful and should be used accurately.
+Staff sometimes make the mistake of appearing apologetic or hesitant when escorting a guest to 喫煙席: in professional hospitality, guest choice must be honored without judgment, and the tone should be the same as guiding someone to any other seat. A practical error is failing to mention any relevant conditions of the 喫煙席 (e.g., it is in a separate building or has a time limit); surprises after seating create negative impressions. Another common mistake is confusing 喫煙席 with 喫煙室 (kitsuen shitsu: a dedicated smoking room, often used in office buildings or hotels); the 席 (seat) versus 室 (room) distinction is meaningful and should be used accurately.
 
 ---
 

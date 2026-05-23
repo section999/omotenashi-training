@@ -19,16 +19,19 @@ Staff use お名前 at virtually every stage of the guest journey: when confirmi
 *Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*
 "I apologise for the inconvenience: could you kindly tell me one's name once more?"
 
+
 ## Related Expressions
 
-- **〜様 (〜sama)**: the honorific suffix added to a guest's name in all direct address; it is best to avoid using さん in a formal hotel context when speaking to guests.
-- **お苗字 (o-myōji)**: the polite term for surname/family name; use this when one needs to distinguish the family name specifically from the full name.
+- **〜様 (〜sama)**: the honorific suffix added to a guest's name in all direct address; using さん in a formal hotel context when speaking to guests is not recommended.
+- **お苗字 (o-myōji)**: the polite term for surname/family name; this is used when distinguishing the family name specifically from the full name.
+
 
 ## Common Mistakes
 
 Using 名前ください or 名前は？ in any professional context is a serious register error: these forms are too blunt and sound demanding rather than respectful. The humble verb お伺いする should be used when asking for the name; defaulting to 聞いてもいいですか is insufficiently formal for hotel settings. Additionally, once a name has been given, it must be remembered and used consistently throughout the interaction; reverting to generic terms like お客様 (o-kyaku-sama) when the guest's name is known feels impersonal.
 
 ---
+
 
 ## Quiz
 

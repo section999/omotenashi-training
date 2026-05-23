@@ -22,16 +22,19 @@ The professional standard is simple: pair the status with an action. ただい�
 *Tsuuwachuu no tame tsunagarinikui baai wa, shibaraku tatte kara okake naoshi kudasai.*
 "If you have difficulty connecting because the line is busy, please try calling again after a short while."
 
+
 ## Related Expressions
 
 - **保留 (horyuu)**: being placed on hold during an active call; 通話中 describes the state of a line being occupied, while 保留 describes what happens to a guest while the staff member handles something on another line simultaneously.
 - **話し中 (hanashichuu)**: a casual, everyday expression meaning the line is busy; 通話中 is the more formal, professional term that belongs in hospitality contexts.
+
 
 ## Common Mistakes
 
 Stating 通話中です and stopping there leaves the caller in limbo, the follow-up offer is expected. 通話中 and 接続不良 (poor connection) are also not the same problem, and using the wrong term creates confusion. If someone cannot connect because the line is in use, that is 通話中. If the line is available but the audio keeps cutting out, that is 接続不良. Getting that distinction right also helps internal maintenance staff diagnose issues more accurately when escalating.
 
 ---
+
 
 ## Quiz
 

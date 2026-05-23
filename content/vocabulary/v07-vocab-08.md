@@ -6,9 +6,11 @@ title: 営業時間 (eigyou jikan)
 **Pronunciation:** [ei-gyou **ji**-kan]
 **Register:** Formal, standard guest information vocabulary
 
-営業時間 means "business hours" or "operating hours" and is one of the highest-frequency information items guests will ask about. Hotels are not single-schedule operations. The main restaurant, the spa, the bar, the fitness centre, room service, and the front desk itself may all run on different timetables, and confidently stating the wrong hours causes real guest frustration. Mastery of this word therefore means not just knowing it, but being thoroughly briefed on every facility's current schedule, including any seasonal or holiday variations. That level of readiness is a concrete, practical expression of omotenashi.
+営業時間 means "business hours" or "operating hours" and is one of the highest-frequency information items guests will ask about. Hotels are not single-schedule operations. The main restaurant, the spa, the bar, the fitness centre, room service, and the front desk itself may all run on different timetables, and stating the wrong hours causes guest frustration. Mastery of this word therefore means not just knowing it, but being thoroughly briefed on every facility's current schedule, including any seasonal or holiday variations. That level of readiness is a concrete, practical expression of omotenashi.
 
-Sharing 営業時間 proactively, rather than waiting to be asked, prevents unnecessary inconvenience. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access helps guests plan their stay from the first moment. When hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically does a great deal to maintain trust. Be sure to distinguish between ラストオーダー (last order) and actual closing time, as guests frequently assume these are the same thing when they are not\n## Example Sentences
+Sharing 営業時間 proactively, rather than waiting to be asked, prevents unnecessary inconvenience. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access helps guests plan their stay from the first moment. When hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically helps maintain trust. Distinguishing between ラストオーダー (last order) and actual closing time is important, as guests frequently assume these are the same thing when they are not
+
+## Example Sentences
 
 **1.** レストランの営業時間は朝7時から夜10時まででございます。
 *Resutoran no eigyou jikan wa asa shichi-ji kara yoru juu-ji made de gozaimasu.*
@@ -29,7 +31,7 @@ Sharing 営業時間 proactively, rather than waiting to be asked, prevents unne
 
 ## Common Mistakes
 
-Stating only the opening time without the closing time leaves guests without the full picture they need to plan. Always give the complete range from open to close. Failing to mention ラストオーダー when describing restaurant hours means guests may arrive believing the kitchen is still open when food orders have already stopped. Guests rarely ask about last order separately, so it must be volunteered. If there is any doubt about current 営業時間, especially after a schedule change, confirm with a supervisor or check posted signage before advising a guest. Memory alone is not reliable enough for something this specific.
+Stating only the opening time without the closing time leaves guests without the full picture they need to plan. Giving the complete range from open to close is recommended. Failing to mention ラストオーダー when describing restaurant hours means guests may arrive believing the kitchen is still open when food orders have already stopped. Guests rarely ask about last order separately, so it must be volunteered. If there is any doubt about current 営業時間, especially after a schedule change, confirming with a supervisor or checking posted signage before advising a guest is recommended. Memory alone is not reliable enough for something this specific.
 
 ---
 
@@ -46,4 +48,3 @@ Stating only the opening time without the closing time leaves guests without the
 **Correct Answer:** 営業時間 (business hours)
 
 **Explanation:** 営業時間 is the term that covers the entire operating window from open to close, making it the only choice that answers the guest's implicit question about when they can and cannot use the restaurant. 開店 refers only to the opening moment and 閉店 only to closing, while 予約 is about reservations rather than hours.
-

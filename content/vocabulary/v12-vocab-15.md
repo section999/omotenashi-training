@@ -22,16 +22,19 @@ the scope of 応急処置 in a hotel includes wound cleaning and bandaging, ice 
 *Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.*
 "All staff at this hotel have received first aid training."
 
+
 ## Related Expressions
 
 - **救急箱 (kyuukyuubako)**: first aid kit; the physical container of supplies used when carrying out 応急処置. It must be checked and restocked regularly, and every staff member needs to know its location on their floor.
 - **心肺蘇生 (shinpai sosei)**: CPR (cardiopulmonary resuscitation); the most critical form of 応急処置, performed when a guest goes into cardiac arrest. Knowing how to do this is expected for hotel staff.
 
+
 ## Common Mistakes
 
-A common error is think of 応急処置 as just bandaging, but the term covers all forms of immediate care: CPR, recovery positioning, choking response, everything up until the medical professionals take over. Worth noting is the difference between 応急処置 and 治療 (chiryou): 治療 refers to ongoing medical treatment by a qualified professional, while 応急処置 is explicitly a temporary bridge. There is also a pronunciation trap: 応急 (oukyuu) can be confused with 救急 (kyuukyuu), which refers specifically to emergency services and ambulances. The words are related but distinct, and mixing them up in a real emergency would cause confusion. Say them both aloud a few times until one can keep them apart confidently.
+A common error is think of 応急処置 as just bandaging, but the term covers all forms of immediate care: CPR, recovery positioning, choking response, everything up until the medical professionals take over. Note: is the difference between 応急処置 and 治療 (chiryou): 治療 refers to ongoing medical treatment by a qualified professional, while 応急処置 is explicitly a temporary bridge. There is also a pronunciation trap: 応急 (oukyuu) can be confused with 救急 (kyuukyuu), which refers specifically to emergency services and ambulances. The words are related but distinct, and mixing them up in a real emergency would cause confusion. Say them both aloud a few times until one can keep them apart confidently.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ A common error is think of 応急処置 as just bandaging, but the term covers a
 
 **Answer:** 応急処置
 
-**Explanation:** 応急処置 is the immediate, temporary care you give to stabilise an injured or ill person before professional help arrives, and it is explicitly a bridge rather than a replacement for medical treatment. Students sometimes confuse it with 救急 (emergency services), but the two are distinct: 応急処置 is what you do on site right now, while 救急 is the professional system you call in parallel.
+**Explanation:** 応急処置 is the immediate, temporary care you give to stabilise an injured or ill person before professional help arrives, and it is explicitly a bridge rather than a replacement for medical treatment. A common error is confuse it with 救急 (emergency services), but the two are distinct: 応急処置 is what you do on site right now, while 救急 is the professional system you call in parallel.

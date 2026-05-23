@@ -6,9 +6,10 @@ title: 正面 (shoumen)
 **Pronunciation:** [sho-**u**-men]
 **Register:** Neutral to Formal, orientation, entrances, and spatial directions
 
-正面 reads as "front face" or "directly ahead" and refers to the main, forward-facing side of a building, room, or object. In hospitality, 正面 is a key orientation word because it anchors all other directional descriptions. Once a guest knows where the 正面 (front) is, terms like 右 (right), 左 (left), and 裏 (back) become immediately meaningful. The 正面玄関 (main front entrance) of a hotel is the ceremonial and logistical center of the property, where guests arrive, taxis pull up, and the first impression is made. Mastering 正面 early makes all other directional vocabulary click into place.
+正面 reads as "front face" or "directly ahead" and refers to the main, forward-facing side of a building, room, or object. In hospitality, 正面 is a key orientation word because it anchors all other directional descriptions. Once a guest knows where the 正面 (front) is, terms like 右 (right), 左 (left), and 裏 (back) become immediately meaningful. The 正面玄関 (main front entrance) of a hotel is the ceremonial and logistical center of the property, where guests arrive, taxis pull up, and the first impression is made. Mastering 正面 early helps make other directional vocabulary meaningful.
 
-In practical use, 正面 appears in directions such as 正面玄関はこちらでございます, or when describing a lobby layout: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what a guest sees when facing a particular direction, as in エレベーターを出て正面がレストランでございます. Simply saying 正面です without a subject can be ambiguous in a large lobby with multiple focal points, so staff should pair it with a clear reference.
+In daily use, 正面 appears in directions such as 正面玄関はこちらでございます, or when describing a lobby layout: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what a guest sees when facing a particular direction, as in エレベーターを出て正面がレストランでございます. saying 正面です without a subject can be ambiguous in a large lobby with multiple focal points, so staff should pair it with a clear reference.
+
 ## Example Sentences
 
 **1.** ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。

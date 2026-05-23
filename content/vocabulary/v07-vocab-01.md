@@ -3,7 +3,7 @@ id: v07-vocab
 section: 1
 title: エレベーター (erebeetaa)
 ---
-エレベーター is a loanword from English ("elevator") and refers to the lift used to transport guests between floors in hotels, department stores, and large facilities. In Japanese hospitality, guiding a guest to the elevator rather than simply pointing is considered proper omotenashi. Staff are expected to escort guests when appropriate, especially those carrying heavy luggage or with mobility challenges. Because the elevator is often the first facility interaction a guest has upon arrival, a confident and clear explanation sets the tone for the entire stay.
+エレベーター is a loanword from English ("elevator") and refers to the lift used to transport guests between floors in hotels, department stores, and large facilities. In Japanese hospitality, guiding a guest to the elevator rather than pointing is considered proper omotenashi. Staff are expected to escort guests when appropriate, especially those carrying heavy luggage or with mobility challenges. Because the elevator is often the first facility interaction a guest has upon arrival, a confident and clear explanation sets the tone for the entire stay.
 
 Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language\n## Example Sentences
 
@@ -19,16 +19,19 @@ Staff must know not only the location of each elevator bank but also any access 
 *Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*
 "The elevators are quite busy at the moment: would you mind waiting just a moment?"
 
+
 ## Related Expressions
 
-- **エスカレーター (esukareetaa)**: an escalator; found in department stores and large hotel lobbies, but less common in guestroom areas; use when directing guests to a specific floor in a retail or public-facing context.
-- **階段 (kaidan)**: stairs; always the correct alternative during emergency evacuations and sometimes preferred by guests for short distances; never recommend elevators during a fire drill or emergency.
+- **エスカレーター (esukareetaa)**: an escalator; found in department stores and large hotel lobbies, but less common in guestroom areas; used when directing guests to a specific floor in a retail or public-facing context.
+- **階段 (kaidan)**: stairs; the correct alternative during emergency evacuations and sometimes preferred by guests for short distances; elevators should not be recommended during a fire drill or emergency.
+
 
 ## Common Mistakes
 
-Plain-form directions like 「エレベーターに乗ってください」 sound abrupt in a hospitality setting. The phrasing 「エレベーターでお上がりください」 or 「エレベーターをご利用くださいませ」 is the appropriate formal register. A common oversight is failing to mention floor restrictions or keycard requirements upfront, which causes confusion and frustration for guests. Note also the particle: エレベーター takes で (means of travel) rather than に when explaining how to reach a floor, not simply where the elevator is located.
+Plain-form directions like 「エレベーターに乗ってください」 sound abrupt in a hospitality setting. The phrasing 「エレベーターでお上がりください」 or 「エレベーターをご利用くださいませ」 is the appropriate formal register. A common oversight is failing to mention floor restrictions or keycard requirements upfront, which causes confusion and frustration for guests. Note also the particle: エレベーター takes で (means of travel) rather than に when explaining how to reach a floor, not where the elevator is located.
 
 ---
+
 
 ## Quiz
 

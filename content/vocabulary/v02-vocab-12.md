@@ -26,7 +26,7 @@ The most professional way to ask for a signature is こちらにサインをお�
 
 ## Common Mistakes
 
-Using サインしてください is a common slip. It makes grammatical sense but is too direct and lacks the level of politeness the situation calls for. Pointing with a single finger to indicate the signature line is also considered rude in Japanese culture; an open hand or a pen laid near the line is the right approach. Staying calm and patient during the signing process when there is a queue is not just polite, it is part of what professional omotenashi looks like.
+Using サインしてください is a common slip. It makes grammatical sense but is too direct and lacks the level of politeness the situation calls for. Pointing with a single finger to indicate the signature line is also considered rude in Japanese culture; an open hand or a pen laid near the line is the right approach. Remaining calm and patient during the signing process, even when there is a queue, is an element of professional omotenashi.
 
 ---
 

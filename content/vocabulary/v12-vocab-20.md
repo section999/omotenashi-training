@@ -22,16 +22,19 @@ Staff training on the 非常ベル comes back to one core principle: treat every
 *Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*
 "The locations of emergency bells on each floor can be confirmed on the evacuation route map."
 
+
 ## Related Expressions
 
 - **火災報知器 (kasai houchiki)**: fire alarm detector; the automatic sensor that picks up smoke or heat and triggers the 非常ベル system. It is distinct from a manual bell pull, and understanding whether activation was automatic or manual helps staff assess the situation faster.
 - **避難訓練 (hinan kunren)**: evacuation drill; the regular rehearsal through which staff, and sometimes guests, practise responding correctly to the 非常ベル to ensure efficient and orderly egress when it matters most.
+
 
 ## Common Mistakes
 
 A common error is to use 警報 (keihou) and 非常ベル interchangeably, but 警報 is a broad term for any warning signal, including weather alerts, while 非常ベル refers specifically to the building emergency alarm. They are different tools for different purposes. Another common mistake is failing to brief international guests about the 非常ベル response during check-in. This is a safety obligation, not an optional nicety. However, the most serious operational error is silencing the 非常ベル before confirming it is a false alarm. The alarm must stay active until the duty manager or fire safety officer has investigated the source of activation and formally cleared it. Silencing it early, even with good intentions, removes the warning signal before anyone knows the building is safe.
 
 ---
+
 
 ## Quiz
 

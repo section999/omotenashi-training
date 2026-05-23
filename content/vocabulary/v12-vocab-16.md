@@ -22,16 +22,19 @@ Front desk staff are usually the ones who coordinate contact with an 医者 when
 *Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.*
 "Our hotel is able to arrange a doctor available around the clock."
 
+
 ## Related Expressions
 
 - **ドクターコール (dokutaa kooru)**: doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is a notable appreciated services a luxury hotel can offer.
 - **診察 (shinsatsu)**: medical examination; what the 医者 performs when called to assess a guest's condition, typically involving checking vital signs and asking about symptoms before recommending a course of action.
+
 
 ## Common Mistakes
 
 It is best to avoid using plain 医者 when speaking to or about the doctor in a respectful context. Always say お医者様 or 先生 (sensei). Using the bare noun 医者 sounds dismissive in a formal setting. Students also sometimes confuse 医者 (a general doctor) with 専門医 (senmon-i), a specialist, or 外科医 (gekai), a surgeon. These distinctions can matter when one is trying to arrange appropriate care for a specific condition. perhaps the most common error is telling a guest to "go to a doctor" in a blunt, directive way. Instead, say something like お医者様にご診察いただくことをおすすめします, which frames the recommendation as a service and a suggestion rather than an instruction.
 
 ---
+
 
 ## Quiz
 

@@ -5,7 +5,7 @@ title: 内線 (naisen)
 ---
 内線 is the internal telephone extension network that connects rooms, departments, and staff positions within the same building. In a hotel setting it's the backbone of fast inter-departmental communication: the front desk can reach housekeeping, room service, or the concierge in seconds without routing through an external switchboard. Guests also call 内線 from their room phones when they need something, so it's one of the telephone terms they'll encounter most during their stay.
 
-When one gives a guest an 内線番号, the standard phrasing is 内線〇〇番でございます. Make sure one also confirm how to access the internal line from their room handset, because the procedure varies by property. Typically guests dial the extension number directly without pressing 0 first, but don't assume they know that. Worth noting here: confusing 内線 with 外線 (the external line) can lead to unexpected charges on a guest's account or connect them to completely the wrong place, so be precise when explaining which line to use\n## Example Sentences
+When one gives a guest an 内線番号, the standard phrasing is 内線〇〇番でございます. Make sure one also confirm how to access the internal line from their room handset, because the procedure varies by property. Typically guests dial the extension number directly without pressing 0 first, but don't assume they know that. Note: here: confusing 内線 with 外線 (the external line) can lead to unexpected charges on a guest's account or connect them to completely the wrong place, so be precise when explaining which line to use\n## Example Sentences
 
 **1.** 内線101におかけください。ルームサービスにつながります。
 *Naisen hyakuichi ni okake kudasai. Rūmu sābisu ni tsunagarimasu.*
@@ -19,16 +19,19 @@ When one gives a guest an 内線番号, the standard phrasing is 内線〇〇番
 *Tadaima naisen nite hausukīpingu ni kakunin itashimasu.*
 "I will check with housekeeping via the internal line right now."
 
+
 ## Related Expressions
 
 - **外線**: the external line for calls outside the hotel; remind guests that 外線 may incur charges, unlike 内線 calls which are generally free within the property
 - **内線番号**: the specific extension number assigned to a room or department; always repeat the number clearly and confirm the guest has it before ending the conversation
+
 
 ## Common Mistakes
 
 A common error is to mix up 内線 and 外線 when explaining phone instructions, and a guest who accidentally dials an 外線 instead of 内線 may reach an operator or get charged for an outside call. Another thing that trips people up: omitting 番 when giving an extension number. Saying 内線101 instead of 内線101番 sounds unnatural and slightly incomplete. And remember to match the register to the context: 内線につなぐ is plain-form speech, but in front of a guest one needs 内線におつなぎいたします.
 
 ---
+
 
 ## Quiz
 

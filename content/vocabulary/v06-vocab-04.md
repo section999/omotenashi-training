@@ -3,9 +3,9 @@ id: v06-vocab
 section: 4
 title: クレーム (kuremu)
 ---
-クレーム (kuremu), borrowed from the English word "claim," refers to a formal complaint, one that typically carries an expectation of remedy, compensation, or escalation. While 苦情 can describe a softer expression of dissatisfaction, クレーム implies the guest has a firm grievance and may be requesting concrete action. In hotel and ryokan management, the phrase クレーム対応 (handling complaints) is a recognised professional skill set, and staff who handle it well earn real respect. The ability to de-escalate tension without dismissing the guest is difficult, and valued.
+クレーム (kuremu), borrowed from the English word "claim," refers to a formal complaint, one that typically carries an expectation of remedy, compensation, or escalation. While 苦情 can describe a softer expression of dissatisfaction, クレーム implies the guest has a firm grievance and may be requesting concrete action. In hotel and ryokan management, the phrase クレーム対応 (handling complaints) is a recognised professional skill set, and staff who handle it well earn respect. The ability to de-escalate tension without dismissing the guest is difficult and valued.
 
-When a クレーム comes in, it should trigger a clear internal process: listen carefully, apologise sincerely, and if the issue cannot be resolved at the front-line level, contact a supervisor without delay. Staff should never argue, make excuses, or dismiss the guest's perspective, even if the complaint involves a misunderstanding. Documenting クレーム is also standard practice, because patterns of complaints can reveal systemic problems that need management attention\n## Example Sentences
+When a クレーム comes in, it should trigger a clear internal process: staff listen carefully, apologise sincerely, and if the issue cannot be resolved at the front-line level, they contact a supervisor without delay. Staff should never argue, make excuses, or dismiss the guest's perspective, even if the complaint involves a misunderstanding. Documenting クレーム is also standard practice, because patterns of complaints can reveal systemic problems that need management attention\n## Example Sentences
 
 **1.** お客様のクレームに対し、誠心誠意をもって対応いたします。
 *O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*

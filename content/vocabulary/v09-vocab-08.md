@@ -26,7 +26,7 @@ confirming 何泊 is one of the first questions asked during a reservation inqui
 
 ## Common Mistakes
 
-Learners frequently confuse 何泊 with 何日 (how many days), answering questions about nights with a day count or vice versa. Saying 「3日です」 when the system shows a 2泊 stay can cause billing errors and guest confusion. Another mistake is using the counter 泊 incorrectly: the pronunciation changes with different numbers (一泊 = ippaku, 二泊 = nihaku, 三泊 = sanpaku, 六泊 = roppaku), and mispronouncing these in front of guests creates an unprofessional impression.
+A common error is to confuse 何泊 with 何日 (how many days), answering questions about nights with a day count or vice versa. Saying 「3日です」 when the system shows a 2泊 stay can cause billing errors and guest confusion. Another mistake is using the counter 泊 incorrectly: the pronunciation changes with different numbers (一泊 = ippaku, 二泊 = nihaku, 三泊 = sanpaku, 六泊 = roppaku), and mispronouncing these in front of guests creates an unprofessional impression.
 
 ---
 

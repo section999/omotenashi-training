@@ -22,16 +22,19 @@ A common error is to aren't sure how to introduce サービス料 in conversatio
 *Oshokuji-dai wa sābisu ryō betsu to natte orimasu node gokakunin kudasai.*
 "Please note that the dining charge is subject to an additional service charge."
 
+
 ## Related Expressions
 
 - **手数料 (tesūryō)**: a handling or processing fee for transactions or administrative services; a different category from サービス料, which is tied to the quality of hospitality service, not to how a payment is processed
 - **チップ (chippu)**: the English-derived word for a tip; largely absent from Japanese practice, since サービス料 fills the same economic and social role
+
 
 ## Common Mistakes
 
 Presenting サービス料 and 消費税 as a single combined charge is a frequent mistake, and it causes confusion when guests ask for a breakdown. They are separate and should appear as separate line items. The other common error is mentioning サービス料 for the first time on the bill itself. International guests, in particular, may be completely unfamiliar with the concept and can feel caught off guard if no one mentioned it during the booking or check-in conversation. Bring it up early, explain it briefly, and most guests will accept it without any issue.
 
 ---
+
 
 ## Quiz
 

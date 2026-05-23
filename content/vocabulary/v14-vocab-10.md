@@ -22,16 +22,19 @@ Beyond basic recommendations, good hospitality staff understand the seasonal dyn
 *Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*
 "Some tourist spots have an admission fee, so please check in advance."
 
+
 ## Related Expressions
 
-- **名所 (meisho)**: a famous or historically prestigious place; while 観光地 simply describes any place tourists visit, 名所 carries the weight of established cultural or historical recognition.
+- **名所 (meisho)**: a famous or historically prestigious place; while 観光地 describes any place tourists visit, 名所 carries the weight of established cultural or historical recognition.
 - **穴場 (anaba)**: a hidden gem or lesser-known spot; the contrast to the crowded 観光地, and often the most appreciated type of recommendation from a knowledgeable concierge.
+
 
 ## Common Mistakes
 
 A common error is to use 観光地 and 名所 as if they mean the same thing, but the nuance matters. 名所 implies a site with genuine historical or cultural prestige, while 観光地 means a place people visit for tourism purposes. A recently opened theme park might qualify as a 観光地 but probably not a 名所. On grammar, note that 観光地 is a noun and can't function directly as an adjective. Say 有名な観光地 for "a famous tourist spot," not 観光地スポット. Additionally, on particles: both 観光地へ行く and 観光地に行く are grammatically correct, so one will hear both from native speakers.
 
 ---
+
 
 ## Quiz
 

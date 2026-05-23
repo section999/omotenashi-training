@@ -22,16 +22,19 @@ In restaurant settings, the おすすめ is often written on a small daily board
 *Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.*
 "Shall I introduce you to a nearby café that our staff recommend?"
 
+
 ## Related Expressions
 
 - **ご提案 (goteian)**: a more formal word for suggestion or proposal; use this when presenting options in a deliberate, consultative way, such as recommending a room upgrade or a special package, rather than casually sharing a favourite spot.
 - **人気 (ninki)**: popular, reflecting collective approval; a dish can be both おすすめ (a personal staff endorsement) and 人気 (a crowd favourite), but the nuance is different, so don't use them as if they mean the same thing.
+
 
 ## Common Mistakes
 
 One mistake that's easy to fall into is using おすすめ insincerely. Guests are surprisingly good at detecting a scripted recommendation, and when they sense that, the trust one has built disappears quickly. If one don't have a personal favourite to offer, it's better to ask a colleague who does than to make something up. Note also: おすすめ is a recommendation one makes for someone else's benefit, while お気に入り (okiniiri) is one's own personal favourite. These are different, so keep them straight. When speaking formally to guests, use ご おすすめ or お勧めいたします rather than the plain form to maintain the right level of politeness.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ In hotel hospitality, 宅配便 comes up regularly in two main scenarios: guests
 *Takkyuubin no denpyou ni go-juusho to o-namae wo go-kinyuu kudasai.*
 "Please fill in one's address and name on the courier delivery slip."
 
+
 ## Related Expressions
 
 - **郵便 (yuubin)**: standard postal mail, slower and less trackable than 宅配便. Used for letters and smaller items where timing is not critical.
 - **手荷物宅配 (te-nimotsu takkyuu)**: luggage forwarding, the hotel-specific application of 宅配便 that ships guest bags to airports or next destinations, freeing guests to move around comfortably.
+
 
 ## Common Mistakes
 
 A common error is to confuse 宅配便 with 配達 (haitatsu), which means "delivery" as a general action. 宅配便 refers specifically to the commercial door-to-door courier system, not just any act of handing something over. Pronunciation is another common stumble: students sometimes say "ta-ku-hai-bin" by over-separating the kanji readings. The natural spoken form contracts into "tak-kyuu-bin" with the double consonant clearly held. Practising that double consonant until it feels natural will make one sound much more fluent when dealing with guests.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ A common error is to confuse 宅配便 with 配達 (haitatsu), which means "deli
 
 **Correct Answer:** 宅配便 (courier / home delivery)
 
-**Explanation:** 宅配便 refers specifically to Japan's commercial door-to-door courier network, and knowing how it works is genuinely useful for hospitality staff because guests regularly use it to forward luggage or ship souvenirs home. Its hallmark is the precise delivery window, sometimes as narrow as two hours, which sets it apart from general postal mail and makes it highly trusted. 配達 describes the delivery action generically, 発送 is the act of sending items outward, and 荷物 names the physical bags or parcels themselves.
+**Explanation:** 宅配便 refers specifically to Japan's commercial door-to-door courier network, and knowing how it works is useful for hospitality staff because guests regularly use it to forward luggage or ship souvenirs home. Its hallmark is the precise delivery window, sometimes as narrow as two hours, which sets it apart from general postal mail and makes it highly trusted. 配達 describes the delivery action generically, 発送 is the act of sending items outward, and 荷物 names the physical bags or parcels themselves.

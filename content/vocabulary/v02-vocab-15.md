@@ -13,22 +13,25 @@ Staff should proactively ask whether the guest requires a 領収書 rather than 
 
 **2.** はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。
 *Hai, ryōshūsho o go-yōi itashimasu. Atena wa dono yō ni itashimashō ka.*
-"Of course, I will prepare a receipt. How would you like the payee name written?"
+"I will prepare a receipt. How would you like the payee name written?"
 
 **3.** こちらが領収書でございます。ご確認くださいませ。
 *Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.*
 "Here is one's receipt. Please take a moment to review it."
+
 
 ## Related Expressions
 
 - **レシート (reshīto)**: a simpler, machine-printed receipt (e.g., from a POS terminal); 領収書 is an official hand-written or stamped receipt that holds greater formality and is required for business expense claims.
 - **宛名 (atena)**: the payee/recipient name on a receipt; business travellers often need this written as their company name rather than a personal name.
 
+
 ## Common Mistakes
 
 Confusing 領収書 with レシート is a common error: a レシート is an automatic printout that may not be accepted for business expense claims, while 領収書 is a formally issued document with a stamp or signature. Forgetting to ask about the 宛名 before preparing the receipt requires awkward corrections; staff should confirm the payee name first. Additionally, never write a 領収書 for an amount different from what was charged: even if requested by a guest, falsifying receipt amounts is illegal.
 
 ---
+
 
 ## Quiz
 

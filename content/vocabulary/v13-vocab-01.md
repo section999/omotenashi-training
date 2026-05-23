@@ -19,16 +19,19 @@ In day-to-day operations, 従業員 is the word managers reach for when writing 
 *Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.*
 "All employees, please read the guest service manual thoroughly."
 
+
 ## Related Expressions
 
 - **スタッフ (sutaffu)**: a softer, more conversational term for staff; often used in spoken hospitality contexts and on signage, whereas 従業員 is more common in formal documents.
 - **社員 (shain)**: refers specifically to full-time company employees, as opposed to part-time or contract workers; narrower in scope than 従業員.
 
+
 ## Common Mistakes
 
-A common error is to mix up 従業員 and 社員, assuming they mean the same thing. They don't. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There's also a register issue worth flagging: using 従業員 to refer to yourself in front of a guest sounds stiff and impersonal. In those moments, simply stating one's role, フロントスタッフ, for instance, comes across far more naturally.
+A common error is to mix up 従業員 and 社員, assuming they mean the same thing. They don't. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There's also a register issue worth flagging: using 従業員 to refer to yourself in front of a guest sounds stiff and impersonal. In those moments, stating one's role, フロントスタッフ, for instance, comes across far more naturally.
 
 ---
+
 
 ## Quiz
 

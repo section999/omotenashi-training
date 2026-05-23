@@ -3,9 +3,10 @@ id: v03-vocab
 section: 15
 title: シャワー (shower)
 ---
-シャワー is a katakana loanword denoting the shower facility found in nearly every hotel and ryokan guest room in Japan. Guests, particularly first-time visitors or foreign travelers, may be unfamiliar with the specific shower setup, which can vary from a fully separate shower cubicle to a handheld showerhead over a bathtub. Knowing how to explain this distinction clearly is one of the practical skills that separates attentive staff from merely adequate ones. a short, calm explanation during room orientation goes a long way toward preventing guest confusion later in the evening.
+シャワー is a katakana loanword denoting the shower facility found in nearly every hotel and ryokan guest room in Japan. Guests, particularly first-time visitors or foreign travelers, may be unfamiliar with the specific shower setup, which can vary from a fully separate shower cubicle to a handheld showerhead over a bathtub. Knowing how to explain this distinction clearly is one of the practical skills that distinguishes attentive staff from others. A short, calm explanation during room orientation helps prevent guest confusion later in the evening.
 
 Staff typically explain the shower during the room orientation given at check-in, pointing out how to adjust water temperature, how the handheld unit functions, and where the controls are located. Common phrases include 「シャワーは温度調節が可能でございます」 (the shower temperature is adjustable) and 「シャワーのご使用方法についてご説明いたします」 (I will explain how to use the shower). In ryokan settings where a communal bath is the norm, staff may also clarify whether the in-room shower serves as a rinsing station before entering the ofuro.
+
 ## Example Sentences
 
 **1.** お部屋のシャワーは温度調節が可能でございます。
@@ -27,7 +28,7 @@ Staff typically explain the shower during the room orientation given at check-in
 
 ## Common Mistakes
 
-A common error is to use シャワー as a verb directly, saying 「シャワーしてください」, but the natural phrasing is 「シャワーをお使いください」 or 「シャワーをお浴びください」. Another common error is dropping polite forms when explaining room equipment. Staff should use ございます or でございます rather than plain です or ある forms. Confusing シャワー (shower) with お風呂 (bath) when responding to guest questions about bathing facilities is also important to note, as the two are quite different experiences in a Japanese hospitality context.
+A common error is to use シャワー as a verb directly, saying 「シャワーしてください」, but the natural phrasing is 「シャワーをお使いください」 or 「シャワーをお浴びください」. Another common error is dropping polite forms when explaining room equipment. Staff should use ございます or でございます rather than plain です or ある forms. Confusing シャワー (shower) with お風呂 (bath) when responding to guest questions about bathing facilities is another common error, as the two are quite different in a Japanese hospitality context.
 
 ---
 

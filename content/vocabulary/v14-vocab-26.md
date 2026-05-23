@@ -22,16 +22,19 @@ When giving 道案内, the most effective approach is to anchor directions to la
 *Chizu wo go-youi shite orimasu no de, michi annai to awasete go-katuyou kudasai.*
 "We have maps available, so please use them together with the directions we provide."
 
+
 ## Related Expressions
 
 - **案内 (annai)**: guidance or information in a broad sense; used for hotel tours, facility introductions, or any form of assistance, while 道案内 is the navigation-specific subset of this larger concept
 - **地図 (chizu)**: map; the physical or digital tool most commonly offered alongside 道案内 to help guests see their route and move around independently
+
 
 ## Common Mistakes
 
 A common error is to use 案内 when 道案内 is the more precise term for navigation and wayfinding. Both are understood, but 道案内 tells the listener clearly that one is talking about routes rather than general information or introductions. However, the bigger practical error is giving directions using compass directions without any landmark references, which leaves most guests lost and confused in an unfamiliar city. When offering to help, always use the humble form 「ご案内させていただきます」 rather than the plain 「案内します」. Additionally: the difference in register here is not trivial. In a hotel setting, 「案内します」 can come across as blunt, while 「ご案内させていただきます」 signals that one is there to serve.
 
 ---
+
 
 ## Quiz
 

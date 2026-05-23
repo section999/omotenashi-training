@@ -3,11 +3,14 @@ id: v01-vocab
 section: 9
 title: かしこまりました (kashikomarimashita)
 ---
-**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence, the posture of someone humbly receiving an instruction. When you say *kashikomarimashita*, one is not simply saying "I understand." You are saying: I receive one's request with full attention and respect, and I will act on it right now.
+
+**かしこまりました** is the most formal way to say "certainly" or "understood" in Japanese service language. Its root, *kashikomaru* (畏まる), means to sit or bow in formal reverence, the posture of someone humbly receiving an instruction. When a staff member says *kashikomarimashita*, they are not saying "I understand." They are saying: I receive one's request with full attention and respect, and I will act on it right now.
 
 In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the top. Below it is *shōchi itashimashita* (承知いたしました, "certainly, understood"), and below that is *wakarimashita* (わかりました, "I understand"). In a luxury ryokan or five-star hotel, *kashikomarimashita* is the expected response to any guest request. Using *wakarimashita* in those contexts can feel abrupt and overly casual, the kind of thing one might say to a friend, not a valued guest.
 
-The phrase is always in the past tense (*mashita*), which conveys immediate completion. one are not saying "I am receiving one's request." You are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, one's acknowledgement is already complete and action has begun\n## Example Sentences
+The phrase is always in the past tense (*mashita*), which conveys immediate completion. A staff member using this phrase is not saying "I am receiving one's request." They are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, the acknowledgement is already complete and action has begun
+
+## Example Sentences
 
 **1.** かしこまりました。ただいまお持ちいたします。
 *Kashikomarimashita. Tadaima o-mochi itashimasu.*
@@ -29,7 +32,7 @@ The phrase is always in the past tense (*mashita*), which conveys immediate comp
 
 ## Common Mistakes
 
-The most common mistake is using *wakarimashita* in a formal hospitality context. It sounds like one is speaking to an equal, not serving a guest, and experienced guests in high-end settings will notice the register mismatch. A related mistake is saying *kashikomarimashita* and then pausing or carrying on with something unrelated. The phrase implies immediate, visible action. If there is a gap between the elevated language and what the guest sees one doing, that gap erodes the trust the phrase was meant to build.
+The most common mistake is using *wakarimashita* in a formal hospitality context. It sounds like one is speaking to an equal, not serving a guest, and experienced guests in high-end settings will notice the register mismatch. A related mistake is saying *kashikomarimashita* and then pausing or carrying on with something unrelated. The phrase implies immediate, visible action. If there is a gap between the elevated language and what the guest sees, that gap erodes the trust the phrase was meant to build.
 
 ---
 

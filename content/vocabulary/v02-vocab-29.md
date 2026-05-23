@@ -19,16 +19,19 @@ In a hospitality context, 受付 most frequently appears when directing guests: 
 *Supa no uketsuke wa chika ik-kai ni gozaimasu.*
 "The spa reception is on the basement level."
 
+
 ## Related Expressions
 
 - **フロント (furonto)**: the front desk, the primary service counter at a hotel's main entrance. While フロント is specific to the hotel's main front desk, 受付 is broader and can refer to any registration or reception point within a property. When directing guests to the main desk, either term works, but 受付 is slightly more formal.
 - **カウンター (kauntā)**: counter, often used to describe the physical structure of a service desk. In guest-facing speech, カウンター is less common than フロント or 受付, but it may appear in directions such as あちらのカウンターでお手続きいただけます (one can complete the procedure at that counter).
 
+
 ## Common Mistakes
 
-受付 and フロント are not fully interchangeable. When directing a guest to the spa or restaurant check-in point, 受付 is correct, while フロント specifically refers to the hotel's main front desk. A common phrasing error is 受付こちら without the copula and honorific. The full form 受付はこちらでございます is required in formal hospitality speech. Note that 受付 can also refer to a process, not just a place, so understanding its use in phrases like 受付時間 (reception hours) or 受付を済ます (to complete registration) is equally important.
+受付 and フロント are not fully interchangeable. When directing a guest to the spa or restaurant check-in point, 受付 is correct, while フロント specifically refers to the hotel's main front desk. A common phrasing error is 受付こちら without the copula and honorific. The full form 受付はこちらでございます is required in formal hospitality speech. 受付 can also refer to a process, not just a place, so understanding its use in phrases like 受付時間 (reception hours) or 受付を済ます (to complete registration) is equally important.
 
 ---
+
 
 ## Quiz
 

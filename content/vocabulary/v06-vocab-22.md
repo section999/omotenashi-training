@@ -19,16 +19,19 @@ staff use this expression when logging requests in operational systems (「タ�
 *Rimokon ga koshou shite iru baai wa, koukan kibou toshite furonto ni go-renraku kudasai.*
 "If the remote control is not working, please contact the front desk with a replacement request."
 
+
 ## Related Expressions
 
 - **追加 (tsuika)**: Means an addition, i.e., the guest wants more of something on top of what they have. This is distinct from 交換希望, where the guest wants to swap an existing item. Housekeeping and front desk staff must log these separately to ensure correct responses: delivery of a new towel alongside the existing one versus a swap.
 - **修理依頼 (shuurii irai)**: A repair request, used when an item is broken or malfunctioning but the guest or staff want it fixed rather than replaced. If a guest reports a broken shower head, the correct categorization may be 修理依頼 (call maintenance to fix it) rather than 交換希望 (swap it out entirely), though both options should be considered based on urgency.
 
+
 ## Common Mistakes
 
-A frequent mistake is treating all guest complaints about items as 交換希望 without first determining whether a repair (修理依頼) or additional supply (追加) is what the guest wants: misrouting the request wastes time. Another common mistake is sometimes omit the confirmation step and proceed directly to fulfilling the request without verifying exactly what the guest wants replaced, which can lead to replacing the wrong item. In spoken guest interactions, avoid logging-style shorthand like 「交換希望ですね」 in isolation; always follow with an action statement such as 「ただいまご用意いたします」.
+A frequent mistake is treating all guest complaints about items as 交換希望 without first determining whether a repair (修理依頼) or additional supply (追加) is what the guest wants: misrouting the request wastes time. Another common mistake is omitting the confirmation step and proceeding directly to fulfilling the request without verifying exactly what the guest wants replaced, which can lead to replacing the wrong item. In spoken guest interactions, logging-style shorthand like 「交換希望ですね」 in isolation should be avoided; the phrase should always be followed with an action statement such as 「ただいまご用意いたします」.
 
 ---
+
 
 ## Quiz
 
@@ -42,5 +45,5 @@ A frequent mistake is treating all guest complaints about items as 交換希望 
 
 **Correct Answer:** 交換希望 (exchange requested)
 
-**Explanation:** 交換希望 signals that the guest wants one item swapped for another, which routes the request to housekeeping with the right instruction. Using 修理依頼 would call maintenance to fix an item the guest simply wants replaced, while 忘れ物 and 紛失 both describe missing items rather than a replacement request.
+**Explanation:** 交換希望 signals that the guest wants one item swapped for another, which routes the request to housekeeping with the right instruction. Using 修理依頼 would call maintenance to fix an item the guest wants replaced, while 忘れ物 and 紛失 both describe missing items rather than a replacement request.
 

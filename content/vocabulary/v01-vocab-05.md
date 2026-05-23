@@ -3,11 +3,14 @@ id: v01-vocab
 section: 5
 title: ありがとうございます (arigatou gozaimasu)
 ---
-**ありがとうございます** means "thank you," but its usage in Japanese hospitality extends well beyond a reflexive response to a favour. In the omotenashi tradition, gratitude is expressed proactively, genuinely, and with some degree of specificity, not just as social noise. The phrase has an interesting etymology: *arigatai* (ありがたい) historically meant "difficult to exist" or "rare." The idea being that what one is thankful for is precious and not to be taken for granted.
 
-In professional hospitality, *arigatō gozaimasu* should sound like it means something, like the guest's presence and patronage are appreciated. A flat, automatic *arigatō* risks sounding hollow through overuse. Vary one's delivery: make eye contact, bow slightly, and give the phrase the weight it deserves.
+**ありがとうございます** means "thank you," but its usage in Japanese hospitality extends well beyond a reflexive response to a favour. In the omotenashi tradition, gratitude is expressed proactively and with some degree of specificity, not just as social noise. The phrase has an interesting etymology: *arigatai* (ありがたい) historically meant "difficult to exist" or "rare." The idea being that what one is thankful for is precious and not to be taken for granted.
 
-Two important distinctions: *arigatō gozaimasu* (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot quite say why\n## Example Sentences
+In professional hospitality, *arigatō gozaimasu* should sound like it means something, like the guest's presence and patronage are appreciated. A flat, automatic *arigatō* risks sounding hollow through overuse. Varying one's delivery, making eye contact, bowing slightly, and giving the phrase the weight it deserves helps maintain its sincerity.
+
+Two important distinctions: *arigatō gozaimasu* (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot say why
+
+## Example Sentences
 
 **1.** ありがとうございます。ただいまお部屋にご案内いたします。
 *Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*

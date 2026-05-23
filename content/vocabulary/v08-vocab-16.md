@@ -6,9 +6,11 @@ title: 出口 (deguchi)
 **Pronunciation:** [de-**gu**-chi]
 **Register:** Neutral to Formal, exits, safety guidance, and departure directions
 
-出口 reads as "exit opening" and is the standard word for any exit in a Japanese building or facility. In hospitality, communicating exit locations is not merely a matter of convenience. It is a legal safety requirement in Japanese facilities, and guests who cannot find an exit quickly in an emergency face real risk. Staff are trained to know all exits in their area: the main guest exit, the emergency exit (非常口), the parking exit, and the staff exit. Proactively pointing out the nearest exit, especially in large hotels, banquet halls, or convention centers, is considered a mark of thorough professionalism.
+出口 reads as "exit opening" and is the standard word for any exit in a Japanese building or facility. In hospitality, communicating exit locations is not merely a matter of convenience. It is a legal safety requirement in Japanese facilities, and guests who cannot find an exit quickly in an emergency face risk. Staff are trained to know all exits in their area: the main guest exit, the emergency exit (非常口), the parking exit, and the staff exit. Proactively pointing out the nearest exit, in large hotels, banquet halls, or convention centers, is considered a mark of thorough professionalism.
 
-In daily hospitality use, 出口 appears in sentences like 出口は右手にございます or ご利用後は出口にてスタッフがご案内いたします. Restaurant staff use it to guide departing guests toward the correct door, particularly when a large dining room has multiple exits. The most important skill is pairing 出口 with clear directional language, a calm tone, and a specific landmark, so guests can move confidently without needing to ask again\n## Example Sentences
+In daily hospitality use, 出口 appears in sentences like 出口は右手にございます or ご利用後は出口にてスタッフがご案内いたします. Restaurant staff use it to guide departing guests toward the correct door, particularly when a large dining room has multiple exits. An important skill is pairing 出口 with clear directional language, a calm tone, and a specific landmark, so guests can move confidently without needing to ask again
+
+## Example Sentences
 
 **1.** 非常口の出口は右側です。ご確認いただけますようお願いいたします。
 *Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*
@@ -25,11 +27,11 @@ In daily hospitality use, 出口 appears in sentences like 出口は右手にご
 ## Related Expressions
 
 - **入口 (iriguchi)**: The entrance, the direct counterpart to 出口. These two words are easy to mix up under pressure; a guest asking for the 出口 who is directed to the 入口 will loop back into the building rather than leaving, so staff should confirm which direction the guest is heading.
-- **非常口 (hijouguchi)**: The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff must know the difference and never direct guests to the 非常口 under normal circumstances.
+- **非常口 (hijouguchi)**: The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff should know the difference and not direct guests to the 非常口 under normal circumstances.
 
 ## Common Mistakes
 
-A common error is omitting the direction or landmark when saying 出口: telling a guest 出口はあちらです in a large building with multiple exits is often not enough and can cause them to wander. Another common mistake is sometimes confuse 出口 with 非常口 and use the emergency exit term in normal contexts, which can alarm guests unnecessarily. When a guest asks in English "Where is the exit?", staff should give a full sentence specifying direction, floor, or a visible landmark rather than defaulting to a vague gesture.
+A common error is omitting the direction or landmark when saying 出口: telling a guest 出口はあちらです in a large building with multiple exits is often not enough and can cause them to wander. Another common mistake is confusing 出口 with 非常口 and using the emergency exit term in normal contexts, which can alarm guests unnecessarily. When a guest asks in English "Where is the exit?", staff should give a full sentence specifying direction, floor, or a visible landmark rather than defaulting to a vague gesture.
 
 ---
 
@@ -45,4 +47,3 @@ A common error is omitting the direction or landmark when saying 出口: telling
 **Correct Answer:** 出口は右側です (the exit is on the right side)
 
 **Explanation:** 出口は右側です gives the guest both the correct term and an actionable direction in one phrase. 入口 would send someone back into the building rather than out, and 奥 or 手前 describe interior depth rather than a labeled exit point.
-

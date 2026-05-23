@@ -22,16 +22,19 @@ When explaining how to set up the board, keep it practical: place it on a stable
 *Tadaima o-heya ni airon dai ga nai baai wa, sugu ni o-mochi itashimasu no de o-moushitsuke kudasai.*
 "If there is no ironing board in the room at this time, please let us know and we will bring one immediately."
 
+
 ## Related Expressions
 
 - **アイロン (airon)**: the iron itself; these two items go together as a pair and are typically requested and stored that way.
 - **プレス台 (puresu dai)**: a pressing board used in professional tailoring or laundry settings, designed for more controlled and precise pressing than a standard アイロン台.
 
+
 ## Common Mistakes
 
-A common error is to shorten アイロン台 to just アイロン when speaking quickly, which can confuse a guest who is specifically asking for the board and not the iron. Get into the habit of using the full term. Another gap that comes up: learners sometimes forget to mention that the board should be fully set up and stable before the iron is switched on. A guest who heats the iron first and then tries to unfold a stiff board one-handed is not going to have a good time. Worth noting is that 台 (dai) shows up in many other hospitality words, like 受付台 (reception counter) and カウンター台, so treating it as a building block will help one's vocabulary grow faster.
+A common error is to shorten アイロン台 to just アイロン when speaking quickly, which can confuse a guest who is specifically asking for the board and not the iron. Get into the habit of using the full term. Another gap that comes up: learners sometimes forget to mention that the board should be fully set up and stable before the iron is switched on. A guest who heats the iron first and then tries to unfold a stiff board one-handed is not going to have a good time. Note: is that 台 (dai) shows up in many other hospitality words, like 受付台 (reception counter) and カウンター台, so treating it as a building block will help one's vocabulary grow faster.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ A common error is to shorten アイロン台 to just アイロン when speaking 
 
 **Correct Answer:** アイロン台 (ironing board)
 
-**Explanation:** アイロン台 is the padded flat board on which garments are laid out during pressing, and without it, effective ironing is simply not possible. In Japanese hotels it lives in the wardrobe alongside the アイロン, and both should be clean and stable before the guest uses the room. アイロン names the heated appliance rather than the supporting surface, クリーニング is solvent-based professional cleaning with no pressing board involved, and 洗濯 is the washing process, a separate stage entirely.
+**Explanation:** アイロン台 is the padded flat board on which garments are laid out during pressing, and without it, effective ironing is not possible. In Japanese hotels it lives in the wardrobe alongside the アイロン, and both should be clean and stable before the guest uses the room. アイロン names the heated appliance rather than the supporting surface, クリーニング is solvent-based professional cleaning with no pressing board involved, and 洗濯 is the washing process, a separate stage entirely.

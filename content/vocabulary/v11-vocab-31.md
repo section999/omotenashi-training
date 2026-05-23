@@ -19,16 +19,19 @@ The omotenashi approach pushes 英語対応 from reactive to proactive. A well-t
 *Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.*
 "If you have any questions, an English-speaking staff member will assist you."
 
+
 ## Related Expressions
 
 - **多言語対応 (tago gengo taiou)**: multilingual support, a broader version of 英語対応 indicating that the hotel or department can serve guests in multiple foreign languages. Used in hotels with a diverse international clientele where English alone is not sufficient.
 - **外国語対応 (gaikokugo taiou)**: foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when one cannot list every language but still want to signal that non-Japanese speakers will be helped.
+
 
 ## Common Mistakes
 
 Claiming 英語対応 without qualifying the level of proficiency is a trap that creates disappointed guests. If one's hotel only has basic English coverage, say that plainly: 基本的な英語での対応は可能です (basic English support is available). Honest qualification is more helpful to a guest than a vague promise that falls apart at the first complex question. The other common mistake is treating 英語対応 as something that lives only at the front desk. Guests need English support at the restaurant, during room service calls, at the spa, on the phone. Consistency across all of those touchpoints contributes to the difference between a hotel that is technically 英語対応 and one that feels it.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ Before applying any クーポン, check two things: that it's 有効 (valid, mea
 *Mōshiwake gozaimasen ga, kochira no kūpon wa resutoran no goriyō ni wa tekiyō dekimasen.*
 "I apologize, but this coupon cannot be applied to restaurant use."
 
+
 ## Related Expressions
 
 - **バウチャー (bauchaa)**: a prepaid voucher representing a specific service or monetary value; unlike a クーポン that offers a partial discount, a バウチャー typically covers the full cost of the service it represents
 - **割引 (waribiki)**: discount; the general term for any price reduction, of which クーポン is one specific mechanism
+
 
 ## Common Mistakes
 
 Confusing クーポン with バウチャー is a common slip. A クーポン is a discount instrument; a バウチャー represents prepaid value or a service entitlement. The practical difference matters when guests hand one something at the desk expecting one thing and one's system expects another. Another mistake is assuming a クーポン displayed on a phone screen is automatically valid. Always check the expiry date and the applicable services listed. Applying an invalid or inapplicable クーポン creates accounting errors that take far longer to sort out than a quick verification would have.
 
 ---
+
 
 ## Quiz
 

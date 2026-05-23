@@ -22,16 +22,19 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 *O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.*
 "We have accepted one's luggage for storage; please keep this claim ticket."
 
+
 ## Related Expressions
 
 - **お預かり (o-azukari)**: the act of accepting an item into one's care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします).
 - **一時保管 (ichiji hokan)**: temporary storage, specifying that the storage is for a limited, defined period rather than indefinitely. Useful when one want to be clear about the timeframe.
+
 
 ## Common Mistakes
 
 A common error is reach for 保存 (hozon) when they mean 保管. 保存 is the right word for preserving food or saving a digital file, not for storing luggage or valuables in a hotel. Using it in a guest context sounds wrong and can create confusion. In terms of speech level, 「保管します」 is fine internally but too plain for direct guest communication. The polite forms 「保管させていただきます」 or 「お預かりいたします」 are the ones one want in front of guests. Additionally: always record the storage start time and the guest's contact details when accepting items for 保管. It protects both sides if any question arises later.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ A common error is reach for 保存 (hozon) when they mean 保管. 保存 is the 
 
 **Answer:** 保管
 
-**Explanation:** 保管 conveys active stewardship rather than simply putting something in a room, because accepting an item for 保管 means taking on the responsibility to return it in exactly the condition it was received. In guest-facing speech, 保管させていただきます or お預かりいたします is the appropriate register; plain 保管します sounds too casual for direct service communication. 保存 is a different word used for preserving food or saving digital files, not for storing guest luggage or valuables.
+**Explanation:** 保管 conveys active stewardship rather than putting something in a room, because accepting an item for 保管 means taking on the responsibility to return it in exactly the condition it was received. In guest-facing speech, 保管させていただきます or お預かりいたします is the appropriate register; plain 保管します sounds too casual for direct service communication. 保存 is a different word used for preserving food or saving digital files, not for storing guest luggage or valuables.

@@ -19,16 +19,19 @@ A common error is to underestimate how much the phrasing matters here. one want 
 *Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.*
 "We keep one's emergency contact information on file in case of any unforeseen situation."
 
+
 ## Related Expressions
 
 - **ご連絡先 (go-renrakusaki)**: general contact information, not limited to emergencies. Hotels typically collect both a ご連絡先 and a dedicated 緊急連絡先, especially for guests travelling alone. The two serve different purposes and both belong in the check-in record.
 - **緊急事態 (kinkyuu jitai)**: an emergency situation or state of emergency. These two terms naturally go together: when a 緊急事態 arises, one's 緊急連絡先 record is the first thing one reach for, so staff should know exactly where it is stored and how to act on it quickly.
 
+
 ## Common Mistakes
 
-Rushing through the 緊急連絡先 request is the most common mistake. When one ask too quickly or too casually, guests can feel uneasy about why the hotel needs this information. Frame it as a normal part of check-in and the discomfort disappears. Worth noting too: always read the number back to confirm it. Asking ご確認のためもう一度お聞かせいただけますか (may I confirm the number once more?) takes five seconds and prevents a data error that could matter greatly in a real emergency. Update the record at every stay, not just the first one.
+Rushing through the 緊急連絡先 request is the most common mistake. When one ask too quickly or too casually, guests can feel uneasy about why the hotel needs this information. Frame it as a normal part of check-in and the discomfort disappears. Note: too: always read the number back to confirm it. Asking ご確認のためもう一度お聞かせいただけますか (may I confirm the number once more?) takes five seconds and prevents a data error that could matter greatly in a real emergency. Update the record at every stay, not just the first one.
 
 ---
+
 
 ## Quiz
 

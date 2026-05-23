@@ -19,16 +19,19 @@ title: お問い合わせ (otoiawase)
 *Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*
 "I will check the details of one's inquiry with the relevant department."
 
+
 ## Related Expressions
 
 - **ご用件 (goyouken)**: The purpose or matter of a call or visit. ご用件 is the broader category: お問い合わせ is one type of ご用件, specifically a question or request for information. A guest may have a ご用件 that is a complaint, a reservation request, or an お問い合わせ, among other things.
 - **ご質問 (go-shitsumon)**: A question, more direct and slightly less formal than お問い合わせ. ご質問 tends to refer to a single specific question, while お問い合わせ can encompass a broader, multi-part inquiry. In formal phone scripts, お問い合わせ is generally preferred.
+
 
 ## Common Mistakes
 
 Staff sometimes open a call with 何ですか or 何でしょうか instead of the standard お問い合わせありがとうございます, which sounds abrupt and unwelcoming. A common error is to don't realize how much that opening phrase shapes the guest's entire experience of the call. Another mistake is treating お問い合わせ as a synonym for 苦情 (kujo, complaint): while a complaint may arrive as an お問い合わせ, not every お問い合わせ is a complaint, and assuming so creates unnecessary defensiveness. Learners should also avoid using the casual 質問がありますか with guests, as it lacks the respectful framing that お問い合わせ provides.
 
 ---
+
 
 ## Quiz
 

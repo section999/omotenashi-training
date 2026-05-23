@@ -19,16 +19,19 @@ However, the phrase is only as good as what follows it. If the wait goes beyond 
 *Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.*
 "Thank you for one's patience. I will now share the results of my inquiry."
 
+
 ## Related Expressions
 
 - **お待たせいたしました**: the mandatory follow-up phrase when returning to a caller after a wait; skipping it feels dismissive and breaks the warmth the wait phrase was meant to set up
 - **保留にさせていただきます**: a more explicit phrase meaning "I will place you on hold"; it pairs with 少々お待ちください when the hold will involve hold music rather than open silence
+
 
 ## Common Mistakes
 
 A common slip is saying お待ちください without the 少々 in front of it. Grammatically there's nothing wrong with it, but it loses the "just briefly" nuance that softens the request and can come across as blunt in a hospitality context. Students also sometimes forget to return to the line promptly, which breaks the unspoken promise that 少々 makes. And skipping お待たせいたしました when one does come back leaves the caller feeling like they were on hold in a void, with no one minding them. Each of these is a small thing, but together they define whether the call feels professionally handled or not.
 
 ---
+
 
 ## Quiz
 

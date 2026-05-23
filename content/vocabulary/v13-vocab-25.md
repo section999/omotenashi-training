@@ -22,16 +22,19 @@ A common error is notice that Japanese hotels seem to catch errors before they e
 *Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.*
 "We plan to complete the venue verification check one hour before the banquet begins."
 
+
 ## Related Expressions
 
 - **チェックリスト (chekku risuto)**: the checklist used to structure 確認作業, making sure every verification step is completed in the right order and nothing is missed
 - **ダブルチェック (daburu chekku)**: double-checking, where a second staff member independently verifies the same task; standard practice for financial transactions and VIP room preparations
 
+
 ## Common Mistakes
 
-A common error is to treat 確認作業 as a quick glance over something. In Japanese hospitality it means the opposite: a deliberate, item-by-item review where each point is actively confirmed. Simply looking at a room and deciding it looks fine is not 確認作業. Worth noting is the difference between 確認作業 and 点検 (tenken: inspection). Both involve checking, but 点検 is a periodic formal inspection of equipment or facilities -- the kind scheduled in advance by management. 確認作業 is the routine verification woven into every workflow before a task is marked complete. Mixing these up in conversation with a supervisor will suggest one is not quite sure which kind of checking is happening.
+A common error is to treat 確認作業 as a quick glance over something. In Japanese hospitality it means the opposite: a deliberate, item-by-item review where each point is actively confirmed. looking at a room and deciding it looks fine is not 確認作業. Note: is the difference between 確認作業 and 点検 (tenken: inspection). Both involve checking, but 点検 is a periodic formal inspection of equipment or facilities -- the kind scheduled in advance by management. 確認作業 is the routine verification woven into every workflow before a task is marked complete. Mixing these up in conversation with a supervisor will suggest one is not quite sure which kind of checking is happening.
 
 ---
+
 
 ## Quiz
 

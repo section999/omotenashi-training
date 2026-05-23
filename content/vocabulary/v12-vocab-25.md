@@ -22,16 +22,19 @@ The key thing that separates 立入禁止 from a sign like 使用禁止 (do not 
 *Sutaffu senyou eria wa tachiiri kinshi to natte orimasu node, goryoushou kudasaimase.*
 "Please be aware that staff-only areas are designated as no-entry zones."
 
+
 ## Related Expressions
 
 - **使用禁止 (shiyou kinshi)**: do not use; restricts a specific device or facility rather than an entire space. The two signs often appear together when a restricted area also contains prohibited equipment.
 - **関係者以外立入禁止 (kankeisha igai tachiiri kinshi)**: authorised personnel only; an extended version specifying that only those with official clearance may enter. one'll see this on back-of-house doors and service corridors throughout larger hotels.
+
 
 ## Common Mistakes
 
 A common error is rely on posted 立入禁止 signs without adding physical barriers, but signage alone doesn't reliably stop inadvertent entry, especially from guests who can't read Japanese. However, the word itself is also sometimes confused with 通行止め (tsuukou dome, road or passage blocked), which applies to pathways and corridors rather than enclosed spaces. When one needs to verbally enforce a 立入禁止 restriction, avoid anything that could sound accusatory. A phrase like こちらは立入禁止区域となっておりますので、どうかご遠慮くださいませ keeps the correction firm but still within hospitality register.
 
 ---
+
 
 ## Quiz
 

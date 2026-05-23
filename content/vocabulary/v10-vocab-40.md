@@ -19,16 +19,19 @@ Guests typically receive a 確認番号 at the time of booking via email, SMS, o
 *Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.*
 "I have confirmed the reservation under confirmation number [number]."
 
+
 ## Related Expressions
 
 - **予約番号 (yoyaku bangō)**: reservation number; closely related to 確認番号 but specifically assigned at booking time; the two are sometimes used interchangeably, but some systems issue a separate 確認番号 after the booking as a verification step
 - **照会番号 (shōkai bangō)**: inquiry or reference number; used in customer service to track a request or complaint, and is a different thing from a reservation or payment confirmation
+
 
 ## Common Mistakes
 
 A common error is to use 確認番号 and 予約番号 as if they're always the same thing, but some booking systems treat them as separate codes. A guest may have both, and asking for the wrong one creates unnecessary confusion. The other common misstep is repeating that the 確認番号 is required when a guest doesn't have it, which comes across as unhelpful and rigid. one's job is to find the reservation by whatever means available, so offer alternatives immediately and move forward without making the guest feel they've caused a problem.
 
 ---
+
 
 ## Quiz
 

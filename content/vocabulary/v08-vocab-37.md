@@ -9,6 +9,7 @@ title: 避難経路 (hinan keiro)
 避難経路 combines 避難 (hinan, evacuation / taking refuge) with 経路 (keiro, route / path), giving one the standard term for "evacuation route." This is the complete pathway from any point inside the building to a safe outdoor assembly area, including every corridor turn, every stairwell, and the emergency exit at the end. The distinction between this word and 非常口 (hijouguchi) is important: 非常口 names the exit door itself, while 避難経路 names the entire journey to get there. Japanese fire safety law mandates that evacuation routes be posted visibly on every floor, typically near elevator landings and room entrances, and hotel staff are required to know them well enough to walk guests through them verbally at a moment's notice.
 
 In the context of omotenashi, communicating 避難経路 information goes beyond checking a box for legal compliance. Professional staff deliver this calmly during check-in ("ご宿泊中のご案内として、避難経路をご確認ください"), back it up with the safety card in the guest room, and reinforce it through regular fire drills (避難訓練). A guest who hears this information delivered confidently and warmly is far more likely to remember it when it matters. When a real emergency happens, the staff member who has internalized the routes can guide panicked guests with authority, and that is where responsible hospitality becomes something deeper than good service.
+
 ## Example Sentences
 
 **1.** お部屋のドアの裏に避難経路図が貼られております。緊急の際はこちらをご参照ください。
@@ -23,16 +24,19 @@ In the context of omotenashi, communicating 避難経路 information goes beyond
 *Honjitsu no hinan kunren de wa, zen-sutaffu ga hinan keiro to shuugou basho wo sai-kakunin itashimasu.*
 "In today's evacuation drill, all staff will reconfirm the evacuation routes and the assembly point."
 
+
 ## Related Expressions
 
 - **非常口 (hijouguchi)**: the emergency exit door at the end of the 避難経路; knowing both terms lets one gives guests a complete picture of how to get out safely
 - **集合場所 (shuugou basho)**: the outdoor assembly point where everyone gathers after evacuation; staff should pair this with 避難経路 in a safety briefing so guests understand not just where to go but where to stop
 
+
 ## Common Mistakes
 
-避難経路 applies to any evacuation scenario, not only fires: earthquakes, gas leaks, and structural hazards all require the same routes. A common slip is treating 避難経路 and 非常口 as the same thing. In a full emergency briefing one needs both: the route to follow and the door at the end of it. Never switch to casual speech when explaining evacuation information. The gravity of the topic calls for calm, measured, formal language, a guest who hears it that way will be far more likely to follow instructions when the moment comes.
+避難経路 applies to any evacuation scenario, not only fires: earthquakes, gas leaks, and structural hazards all require the same routes. A common slip is treating 避難経路 and 非常口 as the same thing. In a full emergency briefing one needs both: the route to follow and the door at the end of it. Staff should not switch to casual speech when explaining evacuation information. The gravity of the topic calls for calm, measured, formal language. A guest who hears it that way will be more likely to follow instructions.
 
 ---
+
 
 ## Quiz
 

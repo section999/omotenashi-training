@@ -3,11 +3,14 @@ id: v01-vocab
 section: 12
 title: こちらへどうぞ (kochira e douzo)
 ---
-**こちらへどうぞ** means "please come this way." *Kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that starts movement: you say it as one begin to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way." It is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
+
+**こちらへどうぞ** means "please come this way." *Kochira* (this direction, here), *e* (toward), *dōzo* (please). It is the phrase that starts movement: it is said as a staff member begins to lead a guest to their destination. The word *kochira* (こちら) is the formal/polite way to say "this way." It is more refined than the casual *koko* (here) and more directional than *dōzo* alone.
 
 What separates excellent guiding from adequate guiding in Japanese hospitality is the physical component. *Kochira e dōzo* is spoken while extending an open hand (palm up) in the direction of travel, never pointing with a single finger, which is considered impolite. The gesture and the phrase together create a smooth, welcoming invitation for the guest to follow.
 
-During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu*, "excuse me, there are stairs"), and pauses at the destination to confirm arrival. The physical dimension of guiding is itself part of the hospitality experience, not merely a way to get from one places to another\n## Example Sentences
+During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu*, "excuse me, there are stairs"), and pauses at the destination to confirm arrival. The physical dimension of guiding is itself part of the hospitality experience, not merely a way to get from one place to another
+
+## Example Sentences
 
 **1.** こちらへどうぞ。お部屋までご案内いたします。
 *Kochira e dōzo. O-heya made go-annai itashimasu.*

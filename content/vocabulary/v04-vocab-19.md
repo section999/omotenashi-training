@@ -5,7 +5,7 @@ title: 修理 (shuuri)
 ---
 修理 means repair: fixing something damaged or malfunctioning. In a hotel or ryokan, broken things need to be addressed quickly because any item that does not work in a guest space directly affects the guest's experience. A leaking faucet, a faulty air-conditioning unit, a broken drawer, a TV remote that stopped responding: these are not abstract maintenance issues. They are things a guest is living with until someone fixes them. 修理 is the word that puts the resolution process in motion and reassures the guest that their concern is being taken seriously.
 
-修理 comes up constantly in conversations between front-line staff, supervisors, and the maintenance (メンテナンス) or engineering department. When a guest reports a problem, acknowledge it first, then commit to action: 修理はすぐに手配いたします is the standard assurance phrase. In written reports or handover notes, noting that 修理を依頼済み (repair has been requested) creates accountability across shifts, so the next team knows what was promised. Always include a timeline, vague responses do not reassure anyone\n## Example Sentences
+修理 comes up frequently in conversations between front-line staff, supervisors, and the maintenance (メンテナンス) or engineering department. When a guest reports a problem, staff should acknowledge it first, then commit to action: 修理はすぐに手配いたします is the standard assurance phrase. In written reports or handover notes, noting that 修理を依頼済み (repair has been requested) creates accountability across shifts, so the next team knows what was promised. A timeline should always be included; vague responses do not reassure anyone\n## Example Sentences
 
 **1.** エアコンの修理は、ただちに手配いたします。
 *Eakon no shuuri wa, tadachi ni tehai itashimasu.*
@@ -26,7 +26,7 @@ title: 修理 (shuuri)
 
 ## Common Mistakes
 
-A common error is to confuse 修理 with 交換 (koukan: replacement). The distinction matters: 修理 means fixing the existing item, while 交換 means swapping it out entirely. Using the wrong word creates mismatched expectations. Also, 修理します in plain form sounds too direct when speaking to guests: the humble 修理を手配いたします is more appropriate because it shows that action is being arranged on the guest's behalf. Avoid vague timeframes too: always follow 修理 with a specific commitment like 本日中に (today) or すぐに (immediately).
+A common error is to confuse 修理 with 交換 (koukan: replacement). The distinction matters: 修理 means fixing the existing item, while 交換 means swapping it out entirely. Using the wrong word creates mismatched expectations. Also, 修理します in plain form sounds too direct when speaking to guests: the humble 修理を手配いたします is more appropriate because it shows that action is being arranged on the guest's behalf. Vague timeframes should also be avoided: 修理 should be followed with a specific commitment like 本日中に (today) or すぐに (immediately).
 
 ---
 

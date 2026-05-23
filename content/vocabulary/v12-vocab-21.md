@@ -22,16 +22,19 @@ When something is 点検中, posting a sign is just the start of one's job. Staf
 *Tenken chuu no jimu no kiki wa, honjitsu gogo sanji yori saido goriyou itadakemasu.*
 "The gym equipment currently under inspection will be available again from 3:00 pm today."
 
+
 ## Related Expressions
 
 - **定期点検 (teiki tenken)**: scheduled inspection; a routine, planned 点検 carried out at regular intervals, whether monthly, quarterly, or annually, to keep systems safe and compliant. This is distinct from an emergency inspection triggered by a fault.
 - **修理中 (shuurichuu)**: under repair; the status that follows 点検中 when the inspection reveals a fault and active fixing is underway. Worth knowing the difference: 点検中 means being checked, 修理中 means being fixed.
+
 
 ## Common Mistakes
 
 A common error is to use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong one gives guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. However, the biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and genuine alternative guidance for every guest who approaches.
 
 ---
+
 
 ## Quiz
 

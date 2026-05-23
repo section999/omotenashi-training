@@ -19,16 +19,19 @@ failing to mention the 外線 prefix is a common reasons guests get frustrated w
 *Gaisen ga tsunagaranai baai wa, furonto no naisen zero-ban ni gorenraku kudasai.*
 "If you cannot connect to an outside line, please contact the front desk at extension 0."
 
+
 ## Related Expressions
 
 - **内線**: the internal line used within the hotel; unlike 外線, 内線 calls are generally free and need no prefix digit, so the contrast between the two is worth explaining clearly to every guest
 - **回線**: the physical or logical communication line itself; when a guest reports that 外線 is not working, the problem may be at the 回線 level, which requires a maintenance check rather than a quick fix at the front desk
+
 
 ## Common Mistakes
 
 Additionally, that trips students up: telling a guest to press 0 for an outside line without mentioning that they must then wait for a second dial tone before entering the number. Skip that step and the call fails, and the guest won't know why. There's also a translation trap worth knowing: 外線 (external telephone line) and 外国 (foreign country) can get confused when writing instructions in mixed language environments, so double-check one's wording carefully. And in any guest-facing context, use おかけになる rather than the plain かける when talking about making a call.
 
 ---
+
 
 ## Quiz
 

@@ -19,16 +19,19 @@ When a guest needs 通訳 help, one's first job is to clarify what kind they nee
 *Tsuuyaku no go-youbou ga gozaimashitara, furonto made omoshitsuke kudasaimase.*
 "If you have a need for interpretation, please do not hesitate to contact the front desk."
 
+
 ## Related Expressions
 
 - **翻訳 (hon'yaku)**: written translation, as opposed to 通訳 which is spoken. In hospitality one needs to get this distinction right quickly, because offering one when the guest needs the other wastes time and can leave them more frustrated than before.
 - **バイリンガルスタッフ (bairingaru sutaffu)**: bilingual staff members who routinely handle informal 通訳 duties within the hotel without holding professional interpreter credentials. Valuable for day-to-day conversations, but not the right resource for high-stakes situations.
+
 
 ## Common Mistakes
 
 The biggest mistake with 通訳 is confusing it with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. A common error is to also assume that any bilingual colleague can handle all 通訳 situations: that is fine for casual conversation, but in a medical emergency or a legal dispute, one needs someone with professional credentials, not just general language ability. When describing what one's hotel can provide, be specific: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy and more useful than overpromising.
 
 ---
+
 
 ## Quiz
 

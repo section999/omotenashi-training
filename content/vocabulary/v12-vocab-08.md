@@ -22,16 +22,19 @@ When one contact the dispatcher, state one's facility name and complete address,
 *Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.*
 "While waiting for the ambulance, staff administered first aid."
 
+
 ## Related Expressions
 
 - **119番 (hyaku-juu-kyuu-ban)**: Japan's single emergency number for both ambulance and fire response; staff must commit this to memory separately from 110 (police), because confusing the two in a real emergency causes dangerous delays
 - **救急救命士 (kyuukyuu kyuumeishi)**: paramedic; the trained medical professional riding in the 救急車; knowing this term helps staff communicate clearly with the arriving crew about what has already been done
+
 
 ## Common Mistakes
 
 A common error is to hesitate before calling a 救急車, worried about alarming other guests or overreacting to a situation. When there is any genuine doubt, call immediately. Paramedics are trained to assess whether hospital transport is necessary. They will not judge one for erring on the side of caution. the other critical mistake to avoid is confusing 119 (ambulance and fire) with 110 (police). Both numbers must be memorised as separate facts. Additionally: never move an injured or unconscious guest unless there is immediate danger in leaving them where they are. Moving someone with a spinal or internal injury can cause serious additional harm before paramedics arrive.
 
 ---
+
 
 ## Quiz
 

@@ -22,16 +22,19 @@ The tricky part of 貴重品 conversations is tone. Staff are often required to 
 *Pasupooto ya genkin nado no kichouhin wa o-temoto ni okareru koto wo o-susume itashimasu.*
 "We recommend keeping valuables such as one's passport and cash within easy reach."
 
+
 ## Related Expressions
 
 - **金庫 (kinko)**: the in-room safe or strongbox provided specifically for storing 貴重品; knowing how to explain its use to guests is a basic front-line skill.
 - **紛失 (funshitsu)**: loss or misplacement; a word that comes up in lost valuables reports and that every hospitality professional should know how to handle calmly and efficiently.
 
+
 ## Common Mistakes
 
-A common error is to substitute 大切なもの (taisetsuna mono, "important things") for 貴重品 in formal hospitality speech. While the meaning is similar, 大切なもの is too casual and vague for professional use. 貴重品 is the established term in hotel operations, and using it consistently signals competence. Worth noting on pronunciation: the natural rhythm flows as ki-CHOU-hin, with the middle syllable carrying the strongest emphasis. Students who over-separate the kanji readings end up with an awkward cadence that sounds unnatural to native speakers and guests alike.
+A common error is to substitute 大切なもの (taisetsuna mono, "important things") for 貴重品 in formal hospitality speech. While the meaning is similar, 大切なもの is too casual and vague for professional use. 貴重品 is the established term in hotel operations, and using it consistently signals competence. Note: on pronunciation: the natural rhythm flows as ki-CHOU-hin, with the middle syllable carrying the strongest emphasis. Students who over-separate the kanji readings end up with an awkward cadence that sounds unnatural to native speakers and guests alike.
 
 ---
+
 
 ## Quiz
 

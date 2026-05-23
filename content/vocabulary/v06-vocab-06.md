@@ -3,7 +3,7 @@ id: v06-vocab
 section: 6
 title: 忘れ物 (wasuremono)
 ---
-忘れ物 (wasuremono) refers to an item a guest has left behind, and its careful handling is a notable visible expressions of omotenashi in Japanese hospitality. When a guest forgets something, a phone charger, a piece of jewellery, medication, the expectation at Japanese hotels and ryokan is that the item will be retrieved, properly stored, and actively returned, often through a phone call or follow-up message. This proactive approach reflects the omotenashi value of caring for the guest beyond the moment they depart. Most guests will never forget a call telling them their medication is safe.
+忘れ物 (wasuremono) refers to an item a guest has left behind, and its careful handling is a visible expression of omotenashi in Japanese hospitality. When a guest forgets something, a phone charger, a piece of jewellery, medication, the expectation at Japanese hotels and ryokan is that the item will be retrieved, properly stored, and actively returned, often through a phone call or follow-up message. This proactive approach reflects the omotenashi value of caring for the guest beyond the moment they depart. Most guests will never forget a call telling them their medication is safe.
 
 All items found in guest rooms after checkout must be logged immediately with a description, the room number, the date found, and the staff member's name. Items go into a designated 忘れ物保管場所 (lost-item storage area) at the front desk or housekeeping station. If the guest has already departed, staff are expected to make reasonable contact attempts, with perishable items or medications given highest priority. Mailing lost items at the hotel's expense is considered standard practice at premium establishments\n## Example Sentences
 
@@ -22,11 +22,11 @@ All items found in guest rooms after checkout must be logged immediately with a 
 ## Related Expressions
 
 - **紛失 (funshitsu)**: refers to a lost item where the guest does not know where it is; 忘れ物 implies the item was left at a specific location, while 紛失 suggests it is missing and the location is unknown.
-- **お忘れ物 (o-wasuremono)**: the honorific form with お prefix; always use this when speaking directly to or about a guest's forgotten item, as it shows respect.
+- **お忘れ物 (o-wasuremono)**: the honorific form with お prefix; used when speaking directly to or about a guest's forgotten item, as it shows respect.
 
 ## Common Mistakes
 
-A common error is storing found items without logging them properly, which makes retrieval nearly impossible when guests call to enquire days later. Another mistake is discarding items that appear to be rubbish, staff should check with a supervisor before disposing of anything found in a guest room. Linguistically, avoid saying 「忘れましたよ」 (one forgot it) when returning items to a guest, as that direct phrasing can feel accusatory. Instead, use お忘れ物がございました (there was a forgotten item): it keeps the tone warm and non-judgmental.
+A common error is storing found items without logging them properly, which makes retrieval nearly impossible when guests call to enquire days later. Another mistake is discarding items that appear to be rubbish, staff should check with a supervisor before disposing of anything found in a guest room. Saying 「忘れましたよ」 (one forgot it) to a guest should be avoided, as that direct phrasing can feel accusatory. The preferred alternative is お忘れ物がございました (there was a forgotten item), which keeps the tone warm and non-judgmental.
 
 ---
 

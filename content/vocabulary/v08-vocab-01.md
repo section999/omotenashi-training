@@ -3,9 +3,10 @@ id: v08-vocab
 section: 1
 title: 右 (migi)
 ---
-右 (migi) is the Japanese word for "right," a notable fundamental terms in spatial navigation. In a hotel or ryokan setting, clear and confident use of directional language matters a great deal. A guest who cannot find their room, the dining hall, or an amenity will feel unsettled, and any confusion reflects poorly on the facility. staff should pair 右 with a concrete reference point, a corner, a landmark, a door, rather than saying it in isolation. Directional precision is itself a form of hospitality.
+右 (migi) is the Japanese word for "right," a notable fundamental term in spatial navigation. In a hotel or ryokan setting, clear and confident use of directional language matters significantly. A guest who cannot find their room, the dining hall, or an amenity will feel unsettled, and any confusion reflects poorly on the facility. Staff should pair 右 with a concrete reference point, a corner, a landmark, a door, rather than saying it in isolation. Directional precision is itself a form of hospitality.
 
-右 appears in guest-facing directions constantly: pointing guests to a room at the end of a corridor, redirecting them from the elevator lobby, or describing how to reach a nearby attraction on foot. When spoken aloud, staff typically accompany the word with an open-hand gesture to the right. Pointing with a single finger is considered impolite in Japanese professional culture. Combining 右 with distance ("次の角を右に") and a destination ("エレベーターがございます") gives guests the most complete and comfortable guidance.
+右 appears in guest-facing directions constantly: pointing guests to a room at the end of a corridor, redirecting them from the elevator lobby, or describing how to reach a nearby attraction on foot. When spoken aloud, staff typically accompany the word with an open-hand gesture to the right. Pointing with a single finger is considered impolite in Japanese professional culture. Combining 右 with distance ("次の角を右に") and a destination ("エレベーターがございます") gives guests complete and comfortable guidance.
+
 ## Example Sentences
 
 **1.** 次の角を右に曲がってください。
@@ -27,7 +28,7 @@ title: 右 (migi)
 
 ## Common Mistakes
 
-A common error is to say 右です without adding a landmark or verb, which leaves guests uncertain about exactly where on the right the destination is. There is also the classic mix-up under pressure: confusing 右 with 左. Practicing directional phrases in pairs until the distinction is automatic is the best fix. Using a single pointing finger rather than an open hand when saying 右 is also a register error that can read as rude in a formal hospitality environment.
+A common error is to say 右です without adding a landmark or verb, which leaves guests uncertain about exactly where on the right the destination is. There is also the classic mix-up under pressure: confusing 右 with 左. Practicing directional phrases in pairs until the distinction is automatic is an effective approach. Using a single pointing finger rather than an open hand when saying 右 is also a register error that can read as rude in a formal hospitality environment.
 
 ---
 

@@ -21,7 +21,7 @@ In a hospitality context, staff point to the 鍵穴 when handing over a physical
 
 ## Related Expressions
 
-- **カードキー (kaado kii)**: The electronic key card that replaces the physical key in modern hotels. In properties where カードキー is the primary access method, a 鍵穴 may only appear on the in-room safe, making it important to distinguish the two systems for guests.
+- **カードキー (kaado kii)**: The electronic key card that replaces the physical key in modern hotels. In properties where カードキー is the primary access method, a 鍵穴 may only appear on the in-room safe, making it necessary to distinguish the two systems for guests.
 - **鍵 (kagi)**: The key itself, as distinct from the 鍵穴 (keyhole). In guidance such as 「鍵を鍵穴に差し込んでください」, both words appear together and must be clearly distinguished: 鍵 is the object the guest holds; 鍵穴 is where it goes.
 
 ## Common Mistakes

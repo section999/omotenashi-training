@@ -26,7 +26,7 @@ In daily hotel operations, 掃除 runs on a schedule, typically each morning aft
 
 ## Common Mistakes
 
-On formal hotel signage and in written reports, 清掃 is the standard term; 掃除 reads as too conversational in those contexts. Another common error is using 掃除します instead of 掃除いたします, which can come across as too casual in front of a guest. Also be careful not to mix up 掃除 with 整理 (seirii): 整理 is about tidying and organizing, not actual cleaning.
+On formal hotel signage and in written reports, 清掃 is the standard term; 掃除 reads as too conversational in those contexts. Another common error is using 掃除します instead of 掃除いたします, which can come across as too casual in front of a guest. Staff should also be careful not to confuse 掃除 with 整理 (seirii): 整理 is about tidying and organizing, not actual cleaning.
 
 ---
 

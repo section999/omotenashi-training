@@ -22,16 +22,19 @@ The distinction from 領収書 (receipt) matters both procedurally and legally. 
 *Go-kakunin no ue, o-furikomi wo o-negai itashimasu.*
 "Please review the invoice and arrange payment by bank transfer."
 
+
 ## Related Expressions
 
 - **領収書 (ryoushuusho)**: receipt; issued after the 請求書 has been paid. The two documents together complete the billing cycle and provide a full paper trail -- one showing what was requested, the other confirming it was settled.
 - **明細書 (meisaisho)**: itemized statement; often attached to the 請求書 to provide supporting detail for each line item. For large corporate or event billings, attaching a 明細書 is standard practice.
+
 
 ## Common Mistakes
 
 A serious mistake is issuing a 領収書 before the 請求書 has been paid -- it creates a false record that the transaction is complete and makes it much harder to follow up on the outstanding balance. Omitting critical fields from the 請求書 itself, such as the payment due date or bank transfer details, makes it impossible for the client to process the payment correctly. Always confirm the billing contact and their preferred delivery method before sending. Sending a 請求書 to the wrong person delays payment and leaves a poor impression of one's organization's attention to detail.
 
 ---
+
 
 ## Quiz
 

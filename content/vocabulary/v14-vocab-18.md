@@ -22,16 +22,19 @@ Staff should get comfortable explaining the layers of the 電車 system: the dif
 *Kuukou e wa Narita Ekusupuresu to iu densha ga benri de gozaimasu.*
 "The Narita Express train is convenient for getting to the airport."
 
+
 ## Related Expressions
 
 - **地下鉄 (chikatetsu)**: subway or underground train; a type of 電車 that runs underground, common in major cities like Tokyo and Osaka
 - **新幹線 (shinkansen)**: the bullet train; technically a type of 電車 for long-distance intercity travel, but almost never called 電車 in casual speech; guests and staff always refer to it by name
+
 
 ## Common Mistakes
 
 A common mistake is to use 電車 and 列車 (ressha) interchangeably, but 列車 is more literary and formal, while 電車 is the natural spoken word for passenger rail. In everyday hospitality conversation, 電車 is almost always right. The bigger grammar trap is the particle: 電車に乗る is correct, not 電車を乗る. The に for boarding vehicles is a rule that comes up over and over with バスに乗る and タクシーに乗る too, so learning it once with 電車 will save one from repeating the same mistake across all transport vocabulary.
 
 ---
+
 
 ## Quiz
 

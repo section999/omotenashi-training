@@ -8,7 +8,7 @@ title: 出発日 (shuppatsu bi)
 
 出発日 is the date on which a guest is scheduled to leave the hotel, completing their stay. It receives just as much operational attention as the 到着日, because it drives the entire checkout workflow: housekeeping schedules deep cleaning and room preparation for the next arriving guest, the front desk prepares the final bill, and transportation or luggage-handling arrangements are confirmed. In ryokan settings, the 出発日 determines when the farewell breakfast will be served and, in many traditional properties, whether the okami or a senior staff member will personally see the guest off at the entrance. That farewell gesture is deeply embedded in Japanese hospitality culture, and it only happens with the right timing. Misjudging a guest's 出発日 by even one day can create a double-booking situation or leave an incoming guest's room unprepared.
 
-When confirming any reservation, always verify the 出発日 explicitly alongside the 到着日. If a guest wants to extend their stay, the 出発日 is the reference point: it tells one which night needs to be added and whether the same room is available. it also governs the calculation of late check-out fees, which are based on how many hours past the standard departure time the guest remains in the room. Having that date confirmed and documented protects both the guest and the property\n## Example Sentences
+When confirming any reservation, the 出発日 should be verified explicitly alongside the 到着日. If a guest wants to extend their stay, the 出発日 is the reference point: it indicates which night needs to be added and whether the same room is available. it also governs the calculation of late check-out fees, which are based on how many hours past the standard departure time the guest remains in the room. Having that date confirmed and documented protects both the guest and the property\n## Example Sentences
 
 **1.** ご出発日は4月12日のご予定でよろしいでしょうか。
 *Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*
@@ -29,7 +29,7 @@ When confirming any reservation, always verify the 出発日 explicitly alongsid
 
 ## Common Mistakes
 
-One recurring confusion is when a guest says they are staying "until the 12th." A common error is record the 12th as the final occupancy night when the guest means they are checking out on the 12th morning. Always confirm explicitly: is the 12th a night the guest is sleeping in the room, or the day they are leaving? Getting this wrong leads to billing disputes and potential room clashes. Additionally: avoid using the casual verb form 帰る日 in professional settings. It is perfectly natural in everyday Japanese, but in reservation contexts 出発日 is the correct term and anything less formal will stand out.
+One recurring confusion is when a guest says they are staying "until the 12th." A common error is to record the 12th as the final occupancy night when the guest means they are checking out on the 12th morning. Explicit confirmation is needed: is the 12th a night the guest is sleeping in the room, or the day they are leaving? Getting this wrong leads to billing disputes and potential room clashes. Additionally, the casual verb form 帰る日 should be avoided in professional settings. It is perfectly natural in everyday Japanese, but in reservation contexts 出発日 is the correct term and anything less formal will stand out.
 
 ---
 

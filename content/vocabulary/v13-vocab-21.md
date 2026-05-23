@@ -22,16 +22,19 @@ Even routine 作業 are treated with care and attention in Japanese hospitality.
 *Banketto kaijou no settingu sagyou ga yotei doori ni kanryou itashimashita.*
 "The setup task for the banquet venue has been completed as scheduled."
 
+
 ## Related Expressions
 
 - **業務 (gyoumu)**: the broader category of all assigned duties; 作業 are the individual pieces of work that sit within that larger scope
 - **作業手順 (sagyou tejun)**: the step-by-step procedure for carrying out a specific 作業, which keeps quality consistent no matter who performs the task
 
+
 ## Common Mistakes
 
-One mistake that comes up often is using 作業 when speaking directly to guests. Saying 作業中です (sagyou-chuu desu: "we are in the middle of a task") to a guest can sound mechanical and impersonal, as if they are an interruption to one's workflow. A softer alternative like 準備しております (junbi shite orimasu: "we are preparing") reads as much more guest-oriented. Worth noting also is the 業務 versus 作業 distinction: 業務 is one's overall job function, and 作業 is one concrete piece of work within it. Mixing them up in writing or formal speech will signal to a native reader that something is slightly off.
+One mistake that comes up often is using 作業 when speaking directly to guests. Saying 作業中です (sagyou-chuu desu: "we are in the middle of a task") to a guest can sound mechanical and impersonal, as if they are an interruption to one's workflow. A softer alternative like 準備しております (junbi shite orimasu: "we are preparing") reads as much more guest-oriented. Note: also is the 業務 versus 作業 distinction: 業務 is one's overall job function, and 作業 is one concrete piece of work within it. Mixing them up in writing or formal speech will signal to a native reader that something is slightly off.
 
 ---
+
 
 ## Quiz
 

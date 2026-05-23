@@ -19,16 +19,19 @@ title: 客室 (kyakushitsu)
 *Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*
 "If you have any questions, please call the front desk from the guest room."
 
+
 ## Related Expressions
 
 - **部屋 (heya)**: the neutral, everyday word for "room"; appropriate in casual conversation with guests but too informal for written or official hotel communication.
 - **お部屋 (o-heya)**: the honorific form of 部屋; more polite than plain 部屋 and acceptable in spoken guest interactions, though still less formal than 客室.
 
+
 ## Common Mistakes
 
-A common error is substituting 部屋 for 客室 in written materials or formal announcements, which reduces the professional tone expected in upscale hospitality. Another frequent mistake is reading the kanji 室 as むろ (muro) rather than しつ (shitsu) in this compound. Beginners also sometimes omit the honorific prefix when addressing guests and say simply "客室です" instead of the fuller, more respectful "客室でございます."
+A common error is substituting 部屋 for 客室 in written materials or formal announcements, which reduces the professional tone expected in upscale hospitality. Another frequent mistake is reading the kanji 室 as むろ (muro) rather than しつ (shitsu) in this compound. A further common error is omitting the honorific prefix when addressing guests and saying "客室です" instead of the fuller, more respectful "客室でございます."
 
 ---
+
 
 ## Quiz
 
@@ -42,5 +45,5 @@ A common error is substituting 部屋 for 客室 in written materials or formal 
 
 **Correct Answer:** 客室 (guest room)
 
-**Explanation:** 客室 carries institutional weight that 部屋 and お部屋 simply do not have, making it the required choice in written materials, public announcements, and formal guest-facing phrases like this one. Words like フロント or 受付 name locations within the hotel, not the guest's room itself.
+**Explanation:** 客室 carries institutional weight that 部屋 and お部屋 do not have, making it the required choice in written materials, public announcements, and formal guest-facing phrases like this one. Words like フロント or 受付 name locations within the hotel, not the guest's room itself.
 

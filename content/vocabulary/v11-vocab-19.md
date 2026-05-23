@@ -22,16 +22,19 @@ On the practical side, 確認いたします comes up constantly: verifying rese
 *Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.*
 "I am currently taking a moment to confirm. Please wait just a little longer."
 
+
 ## Related Expressions
 
 - **確かめます (tashikamemasu)**: a slightly less formal way to say "I will make sure / verify"; it lacks the humility marker いたします, so it is better suited to conversations among colleagues than to guest-facing interactions.
 - **調べます (shirabemasu)**: "I will look into it / research it," which implies a deeper investigation than a quick check; use 確認いたします when verifying known information and 調べます when the answer requires research or consultation with an external source.
+
 
 ## Common Mistakes
 
 The most critical mistake is saying 確認いたします and then failing to follow up. That breaks the promise directly, and guests notice. Some learners drop いたします and say just 確認します, which is not wrong but sounds less polished in a hotel context, the humble form is the expected register. A subtler error is reaching for 確認いたします when the task is more involved and would be better described as 調べます or ご確認させていただきます. Choosing the right level of specificity sets accurate expectations, and that matters when the guest is waiting.
 
 ---
+
 
 ## Quiz
 
@@ -44,4 +47,4 @@ The most critical mistake is saying 確認いたします and then failing to fo
 
 **Correct Answer:** 確認いたします (I will confirm)
 
-**Explanation:** 確認いたします carries real weight in hospitality because it is a spoken promise to act, not just an acknowledgment. The humble いたします form signals that you are placing yourself in service to the guest, which is why the plain 確認します sounds noticeably thin by comparison. When verification takes time, returning to the caller with 確認に少々時間をいただいております keeps trust intact; disappearing without an update after saying this phrase is one of the most avoidable service failures in hotel telephone work.
+**Explanation:** 確認いたします carries real weight in hospitality because it is a spoken promise to act, not just an acknowledgment. The humble いたします form signals that you are placing yourself in service to the guest, which is why the plain 確認します sounds noticeably thin by comparison. When verification takes time, returning to the caller with 確認に少々時間をいただいております keeps trust intact; disappearing without an update after saying this phrase is a notable avoidable service failures in hotel telephone work.

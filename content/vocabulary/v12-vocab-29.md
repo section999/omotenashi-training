@@ -22,16 +22,19 @@ When issuing 指示 to guests during emergencies, the phrasing needs to balance 
 *Go-fumeina ten ga gozaimashitara, sutaffu no shiji wo go-kakunin kudasai.*
 "If you have any questions, please check the instructions of our staff."
 
+
 ## Related Expressions
 
 - **案内 (annai)**: guidance or information-sharing; unlike 指示, 案内 does not carry an expectation of compliance. It informs rather than directs, and belongs in normal service contexts like showing guests to their room.
 - **命令 (meirei)**: order or command; significantly stronger and more authoritative than 指示. It's rarely used in hospitality because it sounds military, though one may see it in emergency manuals to describe top-level directives from emergency services.
+
 
 ## Common Mistakes
 
 Using 案内 in an emergency context is a real mistake, because 案内 implies optional guidance. Guests may well ignore it, which is dangerous when one needs them to move. The reverse is also a problem: using 指示 in routine service settings like showing a guest to a table sounds unnecessarily authoritarian and stiff. However, the bigger challenge is register. When one gives 指示 to guests in Japanese, the phrasing has to be polite but clear. Too many hedging expressions and the urgency evaporates. Too blunt and one cause alarm. Getting that balance right takes practice and is worth drilling before one needs it for real.
 
 ---
+
 
 ## Quiz
 
@@ -41,4 +44,4 @@ Using 案内 in an emergency context is a real mistake, because 案内 implies o
 
 **Answer:** 指示
 
-**Explanation:** 指示 carries an expectation of action, meaning the recipient is expected to comply, which is what makes it the right word during evacuations and emergency procedures where compliance is not optional. 案内 is the word for optional informational guidance in normal service contexts, and using it in an emergency risks guests treating your direction as something they can choose to ignore.
+**Explanation:** 指示 carries an expectation of action, meaning the recipient is expected to comply, which contributes to it the right word during evacuations and emergency procedures where compliance is expected. 案内 is the word for optional informational guidance in normal service contexts, and using it in an emergency risks guests treating your direction as something they can choose to ignore.

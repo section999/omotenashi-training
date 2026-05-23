@@ -6,9 +6,9 @@ title: 当日予約 (toujitsu yoyaku)
 **Pronunciation:** [tou-**ji**-tsu-yo-ya-ku]
 **Register:** Formal/Neutral, front desk, reservations, and same-day booking contexts
 
-当日予約 (toujitsu yoyaku) puts 当日 (toujitsu, "the day itself" or "today") together with 予約 (yoyaku, reservation), making it a booking placed on the same calendar day as the intended check-in. This is distinct from arriving without any reservation at all (飛び込み, tobikomi), since the guest has still made a formal inquiry or booking, just within the same day. 当日予約 is fairly common in Japan, especially among business travelers whose schedules shift suddenly, or leisure guests who decide on a whim to extend a trip. Many hotels accept 当日予約 up to a certain cutoff time online, after which only the front desk can handle them directly.
+当日予約 (toujitsu yoyaku) puts 当日 (toujitsu, "the day itself" or "today") together with 予約 (yoyaku, reservation), making it a booking placed on the same calendar day as the intended check-in. This is distinct from arriving without any reservation at all (飛び込み, tobikomi), since the guest has still made a formal inquiry or booking, just within the same day. 当日予約 is common in Japan, especially among business travelers whose schedules shift, or leisure guests who decide to extend a trip. Many hotels accept 当日予約 up to a certain cutoff time online, after which only the front desk can handle them directly.
 
-From an operations standpoint, 当日予約 means the front desk needs to quickly verify real-time room availability, confirm whether housekeeping has finished preparing rooms in that category, and have a rate ready before responding. The 早割 and similar advance-purchase discounts do not apply. The appropriate keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします. Even when things are moving fast to accommodate a last-minute guest, the tone should stay calm and welcoming, the guest who chose one's hotel at the last minute still deserves a warm reception\n## Example Sentences
+From an operations standpoint, 当日予約 means the front desk needs to verify real-time room availability, confirm whether housekeeping has finished preparing rooms in that category, and have a rate ready before responding. The 早割 and similar advance-purchase discounts do not apply. The appropriate keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします. Even when things are moving fast to accommodate a last-minute guest, the tone should stay calm and welcoming.\n## Example Sentences
 
 **1.** 当日予約でも空室がございましたら、喜んでご案内させていただきます。
 *Toujitsu yoyaku demo kuushitsu ga gozaimashitara, yorokonde go-annai sasete itadakimasu.*
@@ -22,16 +22,19 @@ From an operations standpoint, 当日予約 means the front desk needs to quickl
 *Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.*
 "Same-day reservations are accepted, but the early bird discount will not apply: the standard rate will be quoted."
 
+
 ## Related Expressions
 
 - **直前予約 (chokuzen yoyaku)**: last-minute reservation, a subset of 当日予約 where the guest is arriving imminently, often within one to two hours. The key difference is urgency for room preparation.
 - **飛び込み (tobikomi)**: walk-in guest, someone who arrives at the front desk with no reservation at all. Unlike 当日予約, there is zero advance notice, so the preparation window is even shorter.
 
+
 ## Common Mistakes
 
-A common mistake is to use 当日予約 and 直前予約 interchangeably, but they carry different operational implications. A 当日予約 made in the morning for an evening check-in gives housekeeping several hours of lead time. A 直前予約 means the guest will walk through the door soon, so the urgency for room preparation is much higher. That distinction should change how quickly one contact housekeeping after accepting the booking. Another common mistake is automatically quoting a discounted rate without first confirming that the room category the guest wants is available for same-day booking. Inventory fluctuates throughout the day, and not all room types open for advance reservations will be accessible for 当日予約 guests.
+A common mistake is to use 当日予約 and 直前予約 interchangeably, but they carry different operational implications. A 当日予約 made in the morning for an evening check-in gives housekeeping several hours of lead time. A 直前予約 means the guest will arrive soon, so the urgency for room preparation is much higher. This distinction should affect how quickly staff contact housekeeping after accepting the booking. Another common mistake is quoting a discounted rate without first confirming that the room category the guest wants is available for same-day booking. Inventory fluctuates throughout the day, and not all room types open for advance reservations will be accessible for 当日予約 guests.
 
 ---
+
 
 ## Quiz
 

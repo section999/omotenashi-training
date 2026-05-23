@@ -3,11 +3,14 @@ id: v01-vocab
 section: 13
 title: お願いいたします (onegai itashimasu)
 ---
+
 **お願いいたします** is the most formal way to say "please" when making a request of someone, or to close a request politely. The base word is *negau* (願う), meaning "to wish" or "to request," elevated through the honorific prefix *o-* and the humble auxiliary *itashimasu* (the kenjōgo form of *shimasu*). The full phrase carries the weight of a humble, earnest request: *I humbly ask this of one.*
 
 In hospitality, this phrase works in two main directions. Staff use it when asking guests to do something: fill out a form, confirm information, wait briefly. It is also used at the end of a phone call or interaction as a polite closing: *yoroshiku o-negai itashimasu* ("I look forward to one's kind cooperation"). In both cases, the phrase conveys deference and sincerity.
 
-Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, and students sometimes mix them up. *Kashikomarimashita* acknowledges a guest's request directed at one. *Dōzo* invites. *O-negai itashimasu* comes from the staff member asking something of the guest, or expressing a mutual wish. The direction is reversed. Keeping that distinction clear will help one reach for the right phrase without hesitating\n## Example Sentences
+Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, and a common mistake is mixing them up. *Kashikomarimashita* acknowledges a guest's request directed at one. *Dōzo* invites. *O-negai itashimasu* comes from the staff member asking something of the guest, or expressing a mutual wish. The direction is reversed. Keeping that distinction clear will help one reach for the right phrase without hesitating
+
+## Example Sentences
 
 **1.** こちらにご署名をお願いいたします。
 *Kochira ni go-shomei wo o-negai itashimasu.*
@@ -23,13 +26,13 @@ Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, a
 
 ## Related Expressions
 
-- **よろしくお願いいたします (yoroshiku o-negai itashimasu)**: "I ask for one's kind cooperation / thank you in advance": a notable versatile polite expressions in Japanese
+- **よろしくお願いいたします (yoroshiku o-negai itashimasu)**: "I ask for one's kind cooperation / thank you in advance": a notably versatile polite expression in Japanese
 - **お願いします (o-negai shimasu)**: Slightly less formal version; appropriate in everyday professional contexts
 - **ご協力をお願いいたします (go-kyōryoku wo o-negai itashimasu)**: "We kindly ask for one's cooperation": used when asking guests to follow a rule or procedure
 
 ## Common Mistakes
 
-A common error is using the casual *onegai* alone in a professional setting: it sounds like one is asking a favour from a friend. The full *o-negai itashimasu* maintains the appropriate distance and respect. Another mistake is overloading requests with too many phrases. Keep the request clear and the polite form concise so the guest understands what is being asked of them.
+A common error is using the casual *onegai* alone in a professional setting: it sounds like one is asking a favour from a friend. The full *o-negai itashimasu* maintains the appropriate distance and respect. Another mistake is overloading requests with too many phrases. The request should be kept clear and the polite form concise so the guest understands what is being asked of them.
 
 ---
 

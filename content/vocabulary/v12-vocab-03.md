@@ -22,16 +22,19 @@ When a 地震 occurs, stay calm, use simple and reassuring language with guests,
 *Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*
 "After the earthquake, the elevators will not be available until a safety check is completed."
 
+
 ## Related Expressions
 
 - **余震 (yoshin)**: aftershock; guests need to know that smaller tremors can follow the main event, and staff should proactively tell them to remain in safe positions until an all-clear is given rather than letting people assume the danger has passed
 - **震度 (shindo)**: Japan's seismic intensity scale, running from 0 to 7, which measures how strongly shaking was felt at a specific location; this is different from the Richter magnitude scale and is what one will hear in news reports and official announcements after a 地震
+
 
 ## Common Mistakes
 
 A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfront hotels must address both as separate but potentially connected events, with different protocols. Staff also sometimes misjudge whether a tremor is small enough to ignore or large enough to act on. Learning one's facility's threshold protocol is the answer here. Additionally: check one's pronunciation. 地震 is じしん with two short, evenly stressed syllables. Do not stretch either vowel.
 
 ---
+
 
 ## Quiz
 

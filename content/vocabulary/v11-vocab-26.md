@@ -19,16 +19,19 @@ Hotel staff are trained to return to the line within sixty seconds, even if the 
 *Omatase itashimashita. Horyuu wo kaijo itashimasu.*
 "Thank you for one's patience. I am now taking you off hold."
 
+
 ## Related Expressions
 
 - **お待たせいたしました (omatase itashimashita)**: the first thing one says when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before one move into one's update.
 - **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that one is coming back.
+
 
 ## Common Mistakes
 
 A common error is skip the reason for 保留 or forget to give any estimate before pressing hold. That omission creates real anxiety for the caller because they cannot see what is happening on one's end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous too: the caller may not realize they are being placed on a formal hold. Also watch for register slippage: using the casual わかりました right before one places someone on hold breaks the keigo flow of the call. Keep the same register from the greeting all the way through the hold announcement.
 
 ---
+
 
 ## Quiz
 

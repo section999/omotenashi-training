@@ -22,16 +22,19 @@ Because so much hospitality work is shift-based and fast-moving, trust among 同
 *Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.*
 "By sharing information with my front-desk colleague, we achieved a smooth check-in."
 
+
 ## Related Expressions
 
 - **先輩 (senpai)**: a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries an expectation that the senior party will mentor and support those below them.
 - **後輩 (kouhai)**: a junior colleague who joined after one; the direct counterpart to 先輩, and someone one is expected to guide and look out for.
+
 
 ## Common Mistakes
 
 A common error is using 同僚 to describe someone who is clearly more senior. That would be 先輩 or 上司, and calling a senior colleague one's 同僚 can come across as dismissive of the seniority gap. Conversely, using it for someone noticeably more junior feels the same way. A common error is to also mix up 同僚 with スタッフ. スタッフ refers to the team as a whole, while 同僚 is a peer relationship, specifically someone at one's own level. That distinction is worth keeping sharp.
 
 ---
+
 
 ## Quiz
 

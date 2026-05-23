@@ -22,16 +22,19 @@ In daily operations, 安全 shows up in equipment inspections, food hygiene prac
 *Shinnyuu sutaffu wa shonichi ni anzen ni kansuru kenshuu wo ukenakereba narimasen.*
 "New staff must attend a safety training session on their first day."
 
+
 ## Related Expressions
 
 - **安全確認 (anzen kakunin)**: safety check; the specific act of verifying that a space, piece of equipment, or procedure meets safety standards before use; more active and procedural than 安全 used alone
 - **安心 (anshin)**: peace of mind; related to 安全 but describing the psychological feeling of reassurance rather than the objective physical state of being safe; in omotenashi, staff aim to give guests both 安全 (actual safety) and 安心 (the feeling of safety)
 
+
 ## Common Mistakes
 
-One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment, and that attitude needs to be genuine rather than just stated. Worth noting, students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but they are not the same thing, and the distinction matters in hospitality because one can achieve one without the other. Additionally: it is best to avoid using 安全 as empty reassurance. Saying 「ご安心ください」 to a guest while ignoring an actual hazard is not just unhelpful, it actively damages trust and goes against the spirit of omotenashi.
+One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment, and that attitude needs to be genuine rather than just stated. Note: students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but they are not the same thing, and the distinction matters in hospitality because one can achieve one without the other. Additionally: it is best to avoid using 安全 as empty reassurance. Saying 「ご安心ください」 to a guest while ignoring an actual hazard is not just unhelpful, it actively damages trust and goes against the spirit of omotenashi.
 
 ---
+
 
 ## Quiz
 

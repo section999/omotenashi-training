@@ -22,16 +22,19 @@ F&B staff should treat 伝票 management as a core daily skill. Keeping slips or
 *Denpyou no naiyou wo go-kakunin itadaki, fumeina ten ga areba o-moushitsuke kudasai.*
 "Please check the contents of the slip, and let us know if anything is unclear."
 
+
 ## Related Expressions
 
 - **レシート (reshiito)**: a printed register receipt given to the guest; the customer-facing output that is generated from the internal 伝票 process. The guest sees the レシート; the 伝票 stays internal.
 - **オーダー票 (oodaa hyou)**: order form or order ticket; a more specific term for the kitchen order slip, as opposed to the billing 伝票 that records charges for the guest's account.
+
 
 ## Common Mistakes
 
 Using 伝票 and 領収書 interchangeably is a common error, but they serve completely different purposes. 伝票 is primarily an internal or transactional slip used to track orders and charges; 領収書 is the official proof of payment issued to the guest. A frequent operational mistake is failing to write the table number or guest room clearly on the 伝票, which leads to order mix-ups or incorrect room billing. In a hospitality context, signed 伝票 contain financial information and should not be left where other guests or staff can see them -- handle them with appropriate discretion, as one would any sensitive document.
 
 ---
+
 
 ## Quiz
 
@@ -45,4 +48,4 @@ Using 伝票 and 領収書 interchangeably is a common error, but they serve com
 
 **Correct Answer:** 伝票 (bill slip)
 
-**Explanation:** 伝票 is the transaction slip that records orders and service charges as they happen, and it functions as the source document from which guest bills are eventually built. 明細書 is a formal itemized statement issued to a guest, 領収書 is proof of payment, and 請求書 is a corporate invoice; all three are outputs that depend on the 伝票 having been accurate in the first place. A wrong table number or misrecorded item on a 伝票 cascades directly into billing errors, which means accuracy at the moment of entry is not optional.
+**Explanation:** 伝票 is the transaction slip that records orders and service charges as they happen, and it functions as the source document from which guest bills are eventually built. 明細書 is a formal itemized statement issued to a guest, 領収書 is proof of payment, and 請求書 is a corporate invoice; all three are outputs that depend on the 伝票 having been accurate in the first place. A wrong table number or misrecorded item on a 伝票 cascades directly into billing errors, which means accuracy at the moment of entry is expected.

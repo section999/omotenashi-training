@@ -8,7 +8,7 @@ title: 折り返し (orikaeshi)
 
 折り返し translates as "folding back" or "returning," and in telephone communication it means a return call, reaching back out to someone after an initial contact could not be fully resolved. In Japanese hospitality, offering a 折り返し is not a way to get off the phone quickly. It is a genuine service commitment: the hotel is promising to reinitiate contact. That distinction matters. When one says 折り返しご連絡いたします, the guest hears "we have not forgotten you and we will call back." That phrase does a lot of work, but only if one follow through.
 
-The most common mistake people make with 折り返し is leaving out the timeframe. Simply saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. the timeframe is what the guest will hold one to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover, a missed callback is a notable trust-damaging failures in hotel communication, because the guest was told explicitly to expect one\n## Example Sentences
+The most common mistake people make with 折り返し is leaving out the timeframe. saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. the timeframe is what the guest will hold one to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover, a missed callback is a notable trust-damaging failures in hotel communication, because the guest was told explicitly to expect one\n## Example Sentences
 
 **1.** 担当者より1時間以内に折り返しご連絡いたします。
 *Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.*
@@ -22,16 +22,19 @@ The most common mistake people make with 折り返し is leaving out the timefra
 *Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.*
 "We sincerely apologize for the delay in returning one's call."
 
+
 ## Related Expressions
 
 - **ご連絡**: the general word for making contact; 折り返しご連絡 carries a directional quality that plain ご連絡 does not, specifying that the hotel is reaching back out in response to a prior call.
 - **不在**: the situation that most often triggers a 折り返し offer; these two terms naturally pair together in telephone scripts, since every 不在 notification needs a clear next step for the caller.
 
+
 ## Common Mistakes
 
-The single most important error to avoid is offering 折り返し without a timeframe. A callback promise without a "when" is just a polite way of saying nothing. A common error is to also confuse 折り返し (a new outgoing call made later) with 転送 (transferring an active call right now). However, the practical difference is obvious once one picture it: 転送 happens while the guest is still on the line, 折り返し happens after the call ends. Additionally: before one close any call that will need a callback, staff should confirm the guest's 電話番号. Overlooking that step makes the promise impossible to keep.
+a key important error to avoid is offering 折り返し without a timeframe. A callback promise without a "when" is just a polite way of saying nothing. A common error is to also confuse 折り返し (a new outgoing call made later) with 転送 (transferring an active call right now). However, the practical difference is obvious once one picture it: 転送 happens while the guest is still on the line, 折り返し happens after the call ends. Additionally: before one close any call that will need a callback, staff should confirm the guest's 電話番号. Overlooking that step makes the promise impossible to keep.
 
 ---
+
 
 ## Quiz
 

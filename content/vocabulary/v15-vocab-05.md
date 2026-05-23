@@ -22,16 +22,19 @@ When a guest asks about getting clothes cleaned, one's first job is to understan
 *Kuriiningu no ryoukinhyou wa furonto ni go-youi shite orimasu no de, go-kakunin kudasai.*
 "A price list for dry cleaning is available at the front desk; please feel free to check it."
 
+
 ## Related Expressions
 
 - **ランドリー (randorii)**: water-based laundry service using washing machines; right for everyday garments but not for items that need クリーニング treatment.
 - **洗濯 (sentaku)**: the general act of washing with water; クリーニング is chosen precisely when regular 洗濯 would damage the fabric.
+
 
 ## Common Mistakes
 
 The most common error is using クリーニング to mean general cleaning, as in cleaning a room or cleaning a surface. In Japanese, that meaning does not apply. For room or facility cleaning, the words one want are 清掃 (seisou) or 掃除 (souji). Students also sometimes tell guests that their wool items can go in the ランドリー when クリーニング is the correct option. Always check care labels before advising, because a shrunken sweater is a very difficult situation to recover from. Additionally, on pronunciation: the elongated vowels in ク**リー**ニング are important. Shortening them makes the word harder to understand, especially for guests who are listening for a familiar English sound.
 
 ---
+
 
 ## Quiz
 

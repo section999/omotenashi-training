@@ -22,16 +22,19 @@ Regular fire drills (防災訓練, bousai kunren) make sure both staff and guest
 *Kasai no gen'in wa chouriba no abura wo tsukatta sagyou chuu no fuchuui deshita.*
 "The cause of the fire was carelessness during oil cooking in the kitchen."
 
+
 ## Related Expressions
 
 - **火事 (kaji)**: the everyday, emotionally charged word for fire that one hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
 - **出火 (shukka)**: "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication
 
+
 ## Common Mistakes
 
-A common error is to use the casual 火事 in formal announcements, which sounds off and can undermine the authority of the message. Worth noting, there is also a common mix-up between 火災 and 火気 (kaki, meaning "open flame" or "fire hazard"): 火気厳禁 is a preventive rule posted on signage, while 火災 refers to an actual fire event in progress. The other thing to avoid is hesitating before using the word 火災. Early, clear communication is always safer than trying to soften the message.
+A common error is to use the casual 火事 in formal announcements, which sounds off and can undermine the authority of the message. Note: there is also a common mix-up between 火災 and 火気 (kaki, meaning "open flame" or "fire hazard"): 火気厳禁 is a preventive rule posted on signage, while 火災 refers to an actual fire event in progress. The other thing to avoid is hesitating before using the word 火災. Early, clear communication is always safer than trying to soften the message.
 
 ---
+
 
 ## Quiz
 

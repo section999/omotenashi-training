@@ -3,11 +3,14 @@ id: v01-vocab
 section: 16
 title: ごゆっくりどうぞ (goyukkuri douzo)
 ---
+
 **ごゆっくりどうぞ** means "please take one's time" or "please relax," but its real meaning in hospitality goes deeper: *there is no hurry here. This space is yours. We are not rushing one.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
 
-The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality: a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. Note: it is most powerful precisely because it is proactive. one does not wait until a guest looks rushed before offering it. one offer it freely, at the start of every appropriate moment, as a gift of time.
+The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality: a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. It is most powerful because it is proactive. One does not wait until a guest looks rushed before offering it. One offers it freely, at the start of every appropriate moment, as a gift of time.
 
-Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time\n## Example Sentences
+Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time
+
+## Example Sentences
 
 **1.** こちらがお部屋でございます。ごゆっくりどうぞ。
 *Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*
@@ -29,7 +32,7 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 ## Common Mistakes
 
-The most common mistake is forgetting to say *goyukkuri dōzo* at all: treating room arrival or meal delivery as purely functional rather than as a moment to communicate care. A second mistake is saying the phrase while already turning to leave, which undermines the message entirely. Say it, make brief eye contact, and allow the guest a moment to feel welcomed before stepping away.
+The most common mistake is forgetting to say *goyukkuri dōzo* at all: treating room arrival or meal delivery as purely functional rather than as a moment to communicate care. A second mistake is saying the phrase while already turning to leave, which undermines the message entirely. It should be said with brief eye contact, allowing the guest a moment to feel welcomed before stepping away.
 
 ---
 

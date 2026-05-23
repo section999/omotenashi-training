@@ -22,16 +22,19 @@ The key distinction between メッセージ and 伝言 is breadth. Where 伝言 
 *Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.*
 "May I leave a message? Could you please call me back?"
 
+
 ## Related Expressions
 
 - **伝言**: the more traditional and formal word for a message relayed between people; 伝言 implies personal accountability and is preferred in formal phone scripts, while メッセージ suits broader and more modern contexts.
 - **留守番電話**: voicemail, which is itself a recorded form of メッセージ; knowing the difference helps staff route or retrieve communications correctly.
+
 
 ## Common Mistakes
 
 Using メッセージ where 伝言 is expected in a formal phone script can come across as slightly casual, so register awareness matters here. Another common error is accepting a メッセージ without clarifying how it was delivered: was it verbal, written, recorded? That ambiguity can cause real confusion when a different staff member picks up the shift. Digital メッセージ (LINE, email, hotel app) often require different handling procedures than a traditional handwritten slip at the front desk, and staff should be clear on those internal workflows before they need them.
 
 ---
+
 
 ## Quiz
 

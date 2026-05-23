@@ -19,16 +19,19 @@ Beyond confirming availability, staff should be prepared to assist with valet pa
 *Chuushajou wa chika ikkai ni gozaimashite, shako seigen wa ni meetoru de gozaimasu.*
 "The parking lot is on basement level one, with a vehicle height limit of two metres."
 
+
 ## Related Expressions
 
 - **バレーパーキング (baree paakingu)**: valet parking; available at higher-end hotels where staff take the vehicle on the guest's behalf; requires clear communication about retrieval procedure and timing.
 - **駐車券 (chuushaken)**: parking ticket or validation voucher; many hotel restaurants and facilities offer 駐車券サービス (parking validation) to guests who dine or purchase; staff should mention this benefit proactively.
 
+
 ## Common Mistakes
 
-Confirming parking availability without providing the relevant details, such as the fee, height limit, and access procedure, forces the guest to ask follow-up questions and disrupts the check-in flow. A classic vocabulary mix-up: 満車 (full, no vacancy) is the opposite of 空車 (vacancy available), and confusing them causes serious misunderstandings. Regarding register, avoid the blunt 「駐車場はあります」. The correct hospitality phrasing is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
+Confirming parking availability without providing the relevant details, such as the fee, height limit, and access procedure, forces the guest to ask follow-up questions and disrupts the check-in flow. A classic vocabulary mix-up: 満車 (full, no vacancy) is the opposite of 空車 (vacancy available), and confusing them causes serious misunderstandings. Regarding register, the blunt 「駐車場はあります」 should be avoided. The correct hospitality phrasing is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
 
 ---
+
 
 ## Quiz
 
@@ -41,5 +44,5 @@ Confirming parking availability without providing the relevant details, such as 
 
 **Correct Answer:** 駐車場をご利用いただけます (you can use the parking lot)
 
-**Explanation:** 駐車場をご利用いただけます confirms that parking is available in the correct humble-polite form, which is the first thing the guest needs to know. The other options assume a problem that has not been stated, whether the lot is full, that it is off-site, or that restrictions apply, none of which answers the question the guest actually asked.
+**Explanation:** 駐車場をご利用いただけます confirms that parking is available in the correct humble-polite form, which is the first thing the guest needs to know. The other options assume a problem that has not been stated, whether the lot is full, that it is off-site, or that restrictions apply, none of which answers the question the guest asked.
 

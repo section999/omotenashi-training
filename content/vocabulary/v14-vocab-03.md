@@ -22,16 +22,19 @@ the small details of how one handles the document matter as much as the check it
 *Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*
 "After the passport check, front desk staff record the information in the register."
 
+
 ## Related Expressions
 
 - **身分証明書の確認 (mibun shoumeisho no kakunin)**: the broader term for identity document verification; this covers any form of ID check, including driver's licences and residence cards for domestic guests, not just passport checks for foreign nationals.
 - **チェックイン手続き (chekku-in tetsuzuki)**: the full check-in procedure as a whole; パスポート確認 is one step within this larger process.
+
 
 ## Common Mistakes
 
 A common error is blur the line between パスポート確認 and ビザ確認 (visa check). They're related but distinct: the passport check confirms who the person is and whether their document is valid, while a visa check confirms their permission to be in the country. Additionally, that surprises newer staff: one must request the passport check from every foreign guest, regardless of whether they appear Japanese or not. Residency status and nationality cannot be judged by appearance, and skipping the check for some guests is both a legal risk and an inconsistency in service. Also remember that 確認 means "verification," not "collection": one check the document and hand it back. one does not keep it.
 
 ---
+
 
 ## Quiz
 

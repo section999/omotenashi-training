@@ -22,16 +22,19 @@ Knowing the related services is just as important as knowing the word. Luggage s
 *O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*
 "Are there any fragile items in one's luggage? We will handle them with special care."
 
+
 ## Related Expressions
 
 - **手荷物 (tenimotsu)**: hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over.
 - **荷物預かり (nimotsu azukari)**: the luggage storage service itself; this is the formal service name one will use when a guest wants to leave their bags temporarily in one's care.
+
 
 ## Common Mistakes
 
 The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally: never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someone's bag without a word can come across as intrusive rather than helpful.
 
 ---
+
 
 ## Quiz
 

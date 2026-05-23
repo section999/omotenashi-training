@@ -5,7 +5,7 @@ title: 破損 (hason)
 ---
 破損 refers to physical damage: breakage, cracking, chipping, tearing, or any form of structural harm to hotel property, furniture, fixtures, or equipment. In Japanese hospitality, the condition of every item in a guest room or public area reflects on the property's standards. Identifying and reporting 破損 promptly is therefore a service responsibility, not just a maintenance task. A cracked chair leg, a broken door latch, a chipped teacup: these things affect guest safety and satisfaction, and discovering them before the guest does is part of what thorough housekeeping looks like.
 
-In daily operations, staff encounter 破損 during room inspections (点検), checkout checks, and routine housekeeping. The standard procedure is to report it immediately to the maintenance or engineering department with a clear description of what is damaged and where. Common phrases include 破損がございました ("there is damage") for written reports, and 破損のため使用できません ("cannot be used due to damage") when removing an item from service. When a guest reports damage, apologize, act promptly, and offer a solution. Note: do not try to evaluate fault before addressing the concern. That conversation can come later\n## Example Sentences
+In daily operations, staff encounter 破損 during room inspections (点検), checkout checks, and routine housekeeping. The standard procedure is to report it immediately to the maintenance or engineering department with a clear description of what is damaged and where. Common phrases include 破損がございました ("there is damage") for written reports, and 破損のため使用できません ("cannot be used due to damage") when removing an item from service. When a guest reports damage, staff should apologize, act promptly, and offer a solution. Staff should avoid evaluating fault before addressing the concern, as that conversation can come later\n## Example Sentences
 
 **1.** 客室の椅子に破損がございましたため、至急ご報告いたします。
 *Kyakushitsu no isu ni hason ga gozaimashita tame, shikkyuu go-houkoku itashimasu.*
@@ -26,7 +26,7 @@ In daily operations, staff encounter 破損 during room inspections (点検), ch
 
 ## Common Mistakes
 
-Using 壊れ (koware: broken) in formal written or guest-facing communication is a register slip: 破損 is the professional standard in hospitality contexts. When reporting 破損, always include the location: 客室302号室のテーブルに破損が, for example, so that maintenance can respond without needing to follow up for basic information. Students also sometimes use 破損 for equipment malfunction. If a TV fails to turn on, that is 故障 (koshou: malfunction/breakdown), not 破損. The distinction matters when filing reports.
+Using 壊れ (koware: broken) in formal written or guest-facing communication is a register slip: 破損 is the professional standard in hospitality contexts. When reporting 破損, the location should always be included: 客室302号室のテーブルに破損が, for example, so that maintenance can respond without needing to follow up for basic information. A common mistake is using 破損 for equipment malfunction. If a TV fails to turn on, that is 故障 (koshou: malfunction/breakdown), not 破損. The distinction matters when filing reports.
 
 ---
 

@@ -22,16 +22,19 @@ this means knowing one's airport transfer options inside out, which train lines 
 *Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.*
 "For guests departing the country today, we can hold one's luggage at the front desk."
 
+
 ## Related Expressions
 
 - **入国 (nyuukoku)**: the direct antonym, referring to arriving in Japan through immigration; together, 入国 and 出国 frame the full arc of a guest's visit.
 - **出発 (shuppatsu)**: a more general word for departure or leaving; unlike 出国, it can refer to leaving a hotel, a station, or a city, not just crossing a national border.
 
+
 ## Common Mistakes
 
-The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Worth noting also: 出国 and 帰国 (kikoku, "returning to one's home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes one's Japanese sound noticeably more natural.
+The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Note: also: 出国 and 帰国 (kikoku, "returning to one's home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes one's Japanese sound noticeably more natural.
 
 ---
+
 
 ## Quiz
 

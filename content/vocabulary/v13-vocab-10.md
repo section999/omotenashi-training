@@ -19,16 +19,19 @@ Japanese hospitality workers historically had fewer guaranteed 休み than worke
 *Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.*
 "I managed to get consecutive days off, so I am going on a trip with my family."
 
+
 ## Related Expressions
 
 - **休憩 (kyuukei)**: a break period within a working shift, not a full day off; learners frequently mix these two up since both involve resting.
 - **有給休暇 (yuukyuu kyuuka)**: paid leave; a formally allocated type of 休み guaranteed by law, distinct from regular scheduled days off or public holidays.
+
 
 ## Common Mistakes
 
 The most frequent error is using 休み and 休憩 interchangeably. Telling a colleague「休みをとっています」during a lunch break is incorrect, the right phrase is「休憩中です」. Another thing to keep straight: 休み (a regular roster day off) is different from 有給休暇 (paid annual leave that must be formally requested). In hospitality HR contexts this distinction matters significantly, they appear differently on payroll records and require different processes to arrange.
 
 ---
+
 
 ## Quiz
 
@@ -38,4 +41,4 @@ The most frequent error is using 休み and 休憩 interchangeably. Telling a co
 
 **Answer:** 休み
 
-**Explanation:** 休み is the whole non-working day built into the rota, and keeping it distinct from 休憩 (a short break within a shift) is one of the most practically important distinctions in hospitality Japanese. Getting these two mixed up can lead to real misunderstandings about scheduling, attendance, and what an employee is actually entitled to at any given point in the day.
+**Explanation:** 休み is the whole non-working day built into the rota, and keeping it distinct from 休憩 (a short break within a shift) is a notable practically important distinctions in hospitality Japanese. Getting these two mixed up can lead to real misunderstandings about scheduling, attendance, and what an employee is entitled to at any given point in the day.

@@ -5,7 +5,7 @@ title: 歯ブラシ (haburashi)
 ---
 歯ブラシ means toothbrush, and it is a standard part of the amenity set in Japanese hotel and ryokan rooms. Japan has a strong cultural emphasis on dental hygiene, and providing each guest with an individually wrapped disposable 歯ブラシ together with toothpaste (歯磨き粉) is expected as a baseline. In ryokan, the 歯ブラシ is typically part of a neatly arranged amenity kit on the bathroom counter, displayed alongside yukata accessories and other personal care items. The rule in housekeeping is absolute: a used 歯ブラシ must never remain in a room at turnover. Used ones go out, sealed replacements go in.
 
-When a guest asks for a 歯ブラシ, treat the request as completely routine, whether they forgot to pack one or simply want a spare. Bring it to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. Knowing where to find one quickly and how to phrase the response in polite Japanese is the kind of readiness that makes real day-to-day service run smoothly\n## Example Sentences
+When a guest asks for a 歯ブラシ, staff should treat the request as routine, whether they forgot to pack one or want a spare. It should be brought to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. Knowing where to find one quickly and how to phrase the response in polite Japanese is the kind of readiness that makes day-to-day service run smoothly\n## Example Sentences
 
 **1.** 歯ブラシはバスルームにご用意しております。
 *Haburashi wa basurumu ni goyo'i shite orimasu.*
@@ -19,16 +19,19 @@ When a guest asks for a 歯ブラシ, treat the request as completely routine, w
 *Haburashi ga hitsuyou deshitara, furonto nite omoushitsuke kudasai. Sugu ni otodoke itashimasu.*
 "If you need a toothbrush, please let us know at the front desk and we will deliver it to you right away."
 
+
 ## Related Expressions
 
 - **歯磨き粉 (hamigakiko)**: toothpaste; provided alongside 歯ブラシ as a standard pair, so staff should check and replenish both at the same time.
 - **アメニティセット (ameniti setto)**: amenity set; the packaged collection of personal care items that typically includes 歯ブラシ, toothpaste, comb, and razor, standard in Japanese hotel rooms.
 
+
 ## Common Mistakes
 
-If a guest asks for a 歯ブラシ, bring the toothpaste along too. They are a pair and guests expect both to arrive together. Placing an opened or previously used 歯ブラシ in a serviced room is never acceptable; always use a sealed, individually wrapped item. When delivering it to the room, avoid the plain 「どうぞ」 and close the interaction properly with a complete polite phrase like 「お持ちいたしました」, which signals that the service was handled attentively from start to finish.
+If a guest asks for a 歯ブラシ, staff should bring the toothpaste along too. They are a pair and guests expect both to arrive together. Placing an opened or previously used 歯ブラシ in a serviced room is never acceptable; a sealed, individually wrapped item should always be used. When delivering it to the room, the plain 「どうぞ」 should be avoided and the interaction should be closed properly with a complete polite phrase like 「お持ちいたしました」, which signals that the service was handled attentively from start to finish.
 
 ---
+
 
 ## Quiz
 

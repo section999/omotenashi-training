@@ -3,11 +3,14 @@ id: v01-vocab
 section: 6
 title: 申し訳ございません (moushiwake gozaimasen)
 ---
-**申し訳ございません** is the apex of Japanese apology language. Broken down: *mōshi* (to say, to speak), *wake* (reason, justification), literally, "there is no reason I can give for this." This etymology is not merely poetic; it shapes the philosophy behind the phrase. When you say *moushiwake gozaimasen*, one is not offering an explanation or deflecting blame. You are saying: *I have no excuse. What happened was unacceptable. I accept responsibility.*
+
+**申し訳ございません** is the apex of Japanese apology language. Broken down: *mōshi* (to say, to speak), *wake* (reason, justification), literally, "there is no reason I can give for this." This etymology is not only poetic; it also shapes the philosophy behind the phrase. When a staff member says *moushiwake gozaimasen*, one is not offering an explanation or deflecting blame. They are saying: *I have no excuse. What happened was unacceptable. I accept responsibility.*
 
 In Japanese hospitality, the manner of the apology matters as much as the words. *Moushiwake gozaimasen* is delivered with a sincere, deep bow (typically 45°), eye contact before and after, and a calm, unhurried tone. The physical expression of the apology is inseparable from its meaning. Rushing through the phrase while multitasking communicates the opposite of what the words say.
 
-*Moushiwake gozaimasen* is different from lighter expressions. Use it when something has gone wrong, a room not ready, a reservation lost, a meal incorrect, an unreasonable wait. For minor social intrusions (interrupting briefly to ask a question), *shitsurei itashimasu* or *sumimasen* are more appropriate. Reaching for the deepest apology for every small moment dilutes its meaning when one truly need it\n## Example Sentences
+*Moushiwake gozaimasen* is different from lighter expressions. It is used when something has gone wrong, a room not ready, a reservation lost, a meal incorrect, an unreasonable wait. For minor social intrusions (interrupting briefly to ask a question), *shitsurei itashimasu* or *sumimasen* are more appropriate. Reaching for the deepest apology for every small moment dilutes its meaning when one needs it
+
+## Example Sentences
 
 **1.** 誠に申し訳ございません。ご不便をおかけいたしました。
 *Makoto ni moushiwake gozaimasen. Go-fuben wo o-kake itashimashita.*

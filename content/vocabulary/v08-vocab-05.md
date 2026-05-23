@@ -6,9 +6,11 @@ title: 角 (kado)
 **Pronunciation:** [**ka**-do]
 **Register:** Neutral, standard in both indoor and outdoor directional guidance
 
-角 means "corner" and is a notable practical landmark references in Japanese wayfinding. Abstract directions like "turn right after a while" are far less helpful than direction-plus-landmark combinations like "turn right at the next corner," and 角 is the landmark of choice in corridors, streets, and building interiors alike. The word refers specifically to the point where a path changes direction: a street corner, a corridor junction, a room corner. It gives guests a clear visual target to walk toward before acting on the instruction, which contributes to it so reliable.
+角 means "corner" and is a key landmark reference in Japanese wayfinding. Abstract directions like "turn right after a while" are far less helpful than direction-plus-landmark combinations like "turn right at the next corner," and 角 is the landmark of choice in corridors, streets, and building interiors alike. The word refers specifically to the point where a path changes direction: a street corner, a corridor junction, a room corner. It gives guests a clear visual target to walk toward before acting on the instruction, which makes it reliable.
 
-In hotel communication, 角 most frequently appears as 次の角 (the next corner), 最初の角 (the first corner), or 二つ目の角 (the second corner), combined with 曲がる: 次の角を右に曲がってください. It also comes up in retail and restaurant contexts when directing guests around the exterior of a building or through a shopping complex. A common error is to overlook how important it is to specify which corner when multiple intersections are visible ahead. Ambiguity at corners is one of the leading causes of guests going the wrong way\n## Example Sentences
+In hotel communication, 角 most frequently appears as 次の角 (the next corner), 最初の角 (the first corner), or 二つ目の角 (the second corner), combined with 曲がる: 次の角を右に曲がってください. It also comes up in retail and restaurant contexts when directing guests around the exterior of a building or through a shopping complex. A common error is to overlook how important it is to specify which corner when multiple intersections are visible ahead. Ambiguity at corners is one of the leading causes of guests going the wrong way
+
+## Example Sentences
 
 **1.** 次の角を右に曲がってください。
 *Tsugi no kado wo migi ni magatte kudasai.*
@@ -29,7 +31,7 @@ In hotel communication, 角 most frequently appears as 次の角 (the next corne
 
 ## Common Mistakes
 
-A common mistake is to drop 角 entirely and just say 右に曲がってください without specifying where, leaving guests to guess which turn to make. Always name the specific corner. There is also a vocabulary distinction worth getting right: 角 is appropriate for simpler corridor junctions or street corners, while 交差点 implies a full road intersection with traffic signals. They are not interchangeable. Failing to count corners explicitly with 次の, 二つ目の, and so on is another frequent cause of guests overshooting their destination or stopping too early.
+A common mistake is to drop 角 entirely and just say 右に曲がってください without specifying where, leaving guests to guess which turn to make. Naming the specific corner is recommended. There is also an important vocabulary distinction: 角 is appropriate for simpler corridor junctions or street corners, while 交差点 implies a full road intersection with traffic signals. They are not interchangeable. Failing to count corners explicitly with 次の, 二つ目の, and so on is another frequent cause of guests overshooting their destination or stopping too early.
 
 ---
 
