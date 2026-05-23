@@ -19,13 +19,13 @@ Guests communicate their preferred pace through several channels:
 
 ## Pacing Across an Entire Stay
 
-Timing awareness extends beyond a single meal or interaction. The overall pacing of a stay — how long check-in takes, how quickly amenities arrive, how the day is structured — creates a cumulative impression. A property that consistently moves at the guest's rhythm feels effortless. One that moves at its own schedule makes the guest feel managed rather than hosted.
+Timing awareness extends beyond a single meal or interaction. The overall pacing of a stay, how long check-in takes, how quickly amenities arrive, how the day is structured, creates a cumulative impression. A property that consistently moves at the guest's rhythm feels effortless. One that moves at its own schedule makes the guest feel managed rather than hosted.
 
-The concept of **ma (間)** — the Japanese aesthetic principle of meaningful pause or space between actions — is relevant here. In music, ma is the rest between notes. In hospitality, it is the unhurried moment between courses, the pause before answering a question, the space left for the guest's experience to breathe. Ma is not emptiness; it is the frame that gives the surrounding experience its meaning.
+The concept of **ma (間)**: the Japanese aesthetic principle of meaningful pause or space between actions, is relevant here. In music, ma is the rest between notes. In hospitality, it is the unhurried moment between courses, the pause before answering a question, the space left for the guest's experience to breathe. Ma is not emptiness; it is the frame that gives the surrounding experience its meaning.
 
 ## Practical Calibration
 
-- If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated — adjust the intervals.
+- If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated, adjust the intervals.
 - If a guest has finished eating while their companion is still on the first course, do not remove the finished plate until both have finished, unless they specifically request it.
 - If a guest's room is being cleaned and they are waiting in the lobby, the pace of housekeeping directly affects their stay. Communicate proactively rather than leaving them to wait in uncertainty.
 

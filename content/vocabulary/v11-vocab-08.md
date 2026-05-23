@@ -3,15 +3,12 @@ id: v11-vocab
 section: 8
 title: 担当部署 (tantou busho)
 ---
-
 **Pronunciation:** [tan-**tou**-bu-sho]
 **Register:** Formal, professional hotel and office communication
 
-担当部署 is the team or division specifically responsible for a particular type of inquiry or service. Keep this separate in your mind from 担当者, which points to an individual: 担当部署 points to the whole group, whether that's the reservations department, the banquet team, or facilities management. In a large hotel with many specialized departments, sending a call to the wrong 担当部署 means the guest has to repeat their entire question from scratch, and that experience reflects badly on how the hotel is run.
+担当部署 is the team or division specifically responsible for a particular type of inquiry or service. Keep this separate in one's mind from 担当者, which points to an individual: 担当部署 points to the whole group, whether that's the reservations department, the banquet team, or facilities management. In a large hotel with many specialized departments, sending a call to the wrong 担当部署 means the guest has to repeat their entire question from scratch, and that experience reflects badly on how the hotel is run.
 
-When you transfer a caller, always name the 担当部署 before you do it. Saying 予約担当部署におつなぎいたします tells the guest exactly who will pick up and gives them a reason to feel confident. Compare that with simply saying 転送いたします and the difference is obvious: one shows you understood the guest's need, the other just sounds like you're getting the call off your hands. Worth noting is that guests who hear a specific department name almost always relax, because it tells them someone with the right expertise is waiting.
-
-## Example Sentences
+When one transfer a caller, always name the 担当部署 before one does it. Saying 予約担当部署におつなぎいたします tells the guest exactly who will pick up and gives them a reason to feel confident. Compare that with simply saying 転送いたします and the difference is obvious: one shows one understood the guest's need, the other just sounds like one is getting the call off one's hands. Worth noting is that guests who hear a specific department name almost always relax, because it tells them someone with the right expertise is waiting\n## Example Sentences
 
 **1.** この件はレストランの担当部署にご確認いただく必要がございます。
 *Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.*
@@ -19,7 +16,7 @@ When you transfer a caller, always name the 担当部署 before you do it. Sayin
 
 **2.** 宴会担当部署にお電話をおつなぎいたします。
 *Enkai tantō busho ni odenwa wo otsunagi itashimasu.*
-"I will transfer your call to the banquet department."
+"I will transfer one's call to the banquet department."
 
 **3.** 担当部署より折り返しご連絡いたします。
 *Tantō busho yori orikaeshi gorenraku itashimasu.*
@@ -32,7 +29,7 @@ When you transfer a caller, always name the 担当部署 before you do it. Sayin
 
 ## Common Mistakes
 
-Dropping 担当 and just saying 部署 loses the specificity that reassures the caller the right team is involved. Some staff reach for 関係の部署 (the related department) when they're genuinely unsure who handles something, but that kind of vague language sounds evasive. In practice, it's far better to acknowledge the uncertainty, check quickly, and then route correctly. Students often forget to name the 担当部署 before transferring, which leaves the guest staring at a ringing call from an unknown extension with no idea who they're about to speak to or why.
+Dropping 担当 and just saying 部署 loses the specificity that reassures the caller the right team is involved. Some staff reach for 関係の部署 (the related department) when they're unsure who handles something, but that kind of vague language sounds evasive. it's far better to acknowledge the uncertainty, check quickly, and then route correctly. A common error is to forget to name the 担当部署 before transferring, which leaves the guest staring at a ringing call from an unknown extension with no idea who they're about to speak to or why.
 
 ---
 

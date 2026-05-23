@@ -4,11 +4,11 @@ section: 3
 title: The End-of-Shift Review
 ---
 
-How a shift ends matters as much as how it begins. The moments right after a shift — before the energy of the work has fully faded and while the details of specific interactions are still alive in memory — are the best time to reflect. A short, deliberate end-of-shift review turns the shift from an isolated event into a building block: something actually learned from, something that makes the next shift a little better.
+How a shift ends matters as much as how it begins. The moments right after a shift, before the energy of the work has fully faded and while the details of specific interactions are still alive in memory, are the best time to reflect. A short, deliberate end-of-shift review turns the shift from an isolated event into a building block: something actually learned from, something that makes the next shift a little better.
 
 ## Why Most Shifts End Without Reflection
 
-The end of a shift arrives alongside physical tiredness, the handover rush, and the pull of personal life. Reflection in that moment can feel like optional extra work. But the shift that ends without any review leaves its lessons unretrieved. What was noticed during service — the interaction that felt particularly right, the moment that felt slightly off, the small inefficiency that caused an unnecessary delay — simply fades by morning. The next shift begins without any of what the previous one could have taught.
+The end of a shift arrives alongside physical tiredness, the handover rush, and the pull of personal life. Reflection in that moment can feel like optional extra work. But the shift that ends without any review leaves its lessons unretrieved. What was noticed during service, the interaction that felt particularly right, the moment that felt slightly off, the small inefficiency that caused an unnecessary delay, simply fades by morning. The next shift begins without any of what the previous one could have taught.
 
 ## A Simple End-of-Shift Review Practice
 
@@ -16,7 +16,7 @@ The review does not need to be long or formal. Five minutes, done consistently, 
 
 ### What went well?
 
-Name one or two specific moments from the shift that felt right — a guest interaction handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm — I noticed they were exhausted and moved quickly without making them feel rushed."
+Name one or two specific moments from the shift that felt right, a guest interaction handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm, I noticed they were exhausted and moved quickly without making them feel rushed."
 
 ### What was difficult or incomplete?
 
@@ -24,11 +24,11 @@ Name one thing that did not go as well as it could have. What happened? What was
 
 ### What is the one thing to carry into the next shift?
 
-One single, concrete intention: "Tomorrow I will watch the moment guests pick up their menus — I missed two tables today who were ready to order." One intention, carried consistently, makes a real difference.
+One single, concrete intention: "Tomorrow I will watch the moment guests pick up their menus, I missed two tables today who were ready to order." One intention, carried consistently, makes a real difference.
 
 ## The Team Review
 
-When team culture supports it, a brief collective review at the end of service — even three or four minutes — creates shared learning and genuine improvement over time. What the team notices together, the team gets better at together.
+When team culture supports it, a brief collective review at the end of service, even three or four minutes, creates shared learning and genuine improvement over time. What the team notices together, the team gets better at together.
 
 ---
 

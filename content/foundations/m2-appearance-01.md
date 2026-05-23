@@ -12,8 +12,8 @@ This is not about superficial aesthetics. It is about the message that physical 
 
 Japanese culture draws a clear distinction between two concepts:
 
-- **Oshare (おしゃれ)** is personal style — dressing to express individuality.
-- **Midashinami (身だしなみ)** is professional grooming — presenting yourself to put others at ease.
+- **Oshare (おしゃれ)** is personal style, dressing to express individuality.
+- **Midashinami (身だしなみ)** is professional grooming, presenting yourself to put others at ease.
 
 In a hospitality context, midashinami takes precedence. The staff member's personal preferences are set aside in favour of the comfort and reassurance of the guest. A neatly pressed uniform that the wearer finds plain is more appropriate than a personalised one that distracts or unsettles. This is not about suppressing identity. It is about choosing the right context for self-expression, and the guest-facing floor is not that context.
 
@@ -42,7 +42,7 @@ This term describes the practice of presenting oneself to put others at ease. It
 *Shosa.*
 "Manner of movement and deportment."
 
-This word refers to the non-verbal language of professionalism — how a person moves, stands, and carries themselves in a guest-facing environment.
+This word refers to the non-verbal language of professionalism, how a person moves, stands, and carries themselves in a guest-facing environment.
 
 ---
 

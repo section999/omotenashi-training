@@ -8,7 +8,7 @@ Gift-giving in Japan, **贈答 (zōtō)**, is a structured social practice that 
 
 ## Giri and the Social Purpose of Gifts
 
-At the core of Japanese gift-giving is a concept called **giri (義理)**, a sense of social duty or obligation. A gift is not simply a pleasant gesture — it acknowledges a relationship and affirms its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries genuine social weight in Japanese culture.
+At the core of Japanese gift-giving is a concept called **giri (義理)**, a sense of social duty or obligation. A gift is not simply a pleasant gesture, it acknowledges a relationship and affirms its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries genuine social weight in Japanese culture.
 
 Giri is best understood as the formalised expression of care for ongoing relationships. The gift communicates that the connection matters and deserves to be maintained.
 

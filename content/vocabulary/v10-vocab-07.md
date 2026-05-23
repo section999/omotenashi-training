@@ -3,15 +3,12 @@ id: v10-vocab
 section: 7
 title: 合計 (goukei)
 ---
-
 **Pronunciation:** [gou-**kei**]
 **Register:** Formal -- used at front desk, restaurant, and all payment contexts
 
 合計 means the total sum of all charges -- the final figure a guest pays once every item, tax, service charge, and applicable discount has been factored in. In Japanese hospitality, stating the 合計 clearly and accurately is non-negotiable. Ambiguity about the amount owed creates real discomfort and erodes trust fast. The 合計 is the last number the guest sees before paying, so it needs to be communicated at a measured pace and backed up with something visible -- a screen, a printed bill, or a digital terminal display -- to prevent misunderstanding, especially with international guests who may not be used to large yen amounts.
 
-合計 appears on printed bills, digital terminals, and in spoken communication. Restaurant staff use it when presenting the table bill; front desk agents use it at checkout after completing 精算. In conversation, 合計〇〇円でございます is standard and expected at every level of hospitality. Students underestimate how often a mumbled total leads to confusion -- state the figure clearly, point to it on the screen or printout, and give the guest a moment to register the amount before asking how they'd like to pay.
-
-## Example Sentences
+合計 appears on printed bills, digital terminals, and in spoken communication. Restaurant staff use it when presenting the table bill; front desk agents use it at checkout after completing 精算. In conversation, 合計〇〇円でございます is standard and expected at every level of hospitality. Students underestimate how often a mumbled total leads to confusion -- state the figure clearly, point to it on the screen or printout, and give the guest a moment to register the amount before asking how they'd like to pay\n## Example Sentences
 
 **1.** 合計金額は22,000円でございます。
 *Goukei kingaku wa ni-man ni-sen en de gozaimasu.*
@@ -19,20 +16,20 @@ title: 合計 (goukei)
 
 **2.** お食事とお飲み物を合わせた合計は8,800円でございます。
 *O-shokuji to o-nomimono wo awaseta goukei wa hassen happyaku en de gozaimasu.*
-"The total for your meal and beverages combined is 8,800 yen."
+"The total for one's meal and beverages combined is 8,800 yen."
 
 **3.** 合計金額をご確認いただいた上で、お支払い方法をお選びください。
 *Goukei kingaku wo go-kakunin itadaita ue de, o-shiharai houhou wo o-erabi kudasai.*
-"Please confirm the total amount and then select your preferred payment method."
+"Please confirm the total amount and then select one's preferred payment method."
 
 ## Related Expressions
 
-- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Worth noting is that presenting the 小計 as though it were the final amount is a common mistake -- always make clear whether the figure you're quoting is pre-tax or all-inclusive.
+- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Worth noting is that presenting the 小計 as though it were the final amount is a common mistake -- always make clear whether the figure one is quoting is pre-tax or all-inclusive.
 - **内訳 (uchiwake)**: itemized breakdown; this comes before the 合計, showing exactly how the total was reached. Offering to walk a guest through the 内訳 before stating the 合計 is a considerate habit to develop.
 
 ## Common Mistakes
 
-A common mistake is stating the 合計 too quickly or without any visual reference, particularly with guests unfamiliar with Japanese currency. Large yen figures genuinely confuse many international travelers, and a number spoken too fast can easily be misheard as something entirely different. Students also sometimes present the 小計 (the pre-tax subtotal) as though it were the final amount, which causes confusion when the actual total turns out to be higher. Always say 合計〇〇円、税込でございます so the guest knows the figure they're hearing is fully all-inclusive. That one extra phrase prevents a lot of unnecessary back-and-forth.
+A common mistake is stating the 合計 too quickly or without any visual reference, particularly with guests unfamiliar with Japanese currency. Large yen figures confuse many international travelers, and a number spoken too fast can easily be misheard as something entirely different. Students also sometimes present the 小計 (the pre-tax subtotal) as though it were the final amount, which causes confusion when the actual total turns out to be higher. Always say 合計〇〇円、税込でございます so the guest knows the figure they're hearing is fully all-inclusive. That one extra phrase prevents a lot of unnecessary back-and-forth.
 
 ---
 

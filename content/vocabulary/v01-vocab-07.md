@@ -3,22 +3,19 @@ id: v01-vocab
 section: 7
 title: 失礼いたします (shitsurei itashimasu)
 ---
+**失礼いたします** translates as "I am committing a rudeness." *Shitsurei* (失礼) means impoliteness or a breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, one soften it. This is a deeply Japanese social instinct, to acknowledge impact before taking action, and it shows up constantly in professional service contexts.
 
-**失礼いたします** translates as "I am committing a rudeness." *Shitsurei* (失礼) means impoliteness or a breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct — to acknowledge impact before taking action — and it shows up constantly in professional service contexts.
+The phrase covers a wide range of situations, all sharing the same underlying logic: I am about to do something that may disturb one, and I acknowledge this. Knocking before entering a room, interrupting a guest's conversation to ask something, stepping past someone in a narrow corridor, all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group, functioning as a polite "excuse me" on departure. Whenever one needs to pass in front of someone, even briefly, say it. The habit of verbalising these small intrusions is part of what separates thoughtful service from functional service.
 
-The phrase covers a wide range of situations, all sharing the same underlying logic: I am about to do something that may disturb you, and I acknowledge this. Knocking before entering a room, interrupting a guest's conversation to ask something, stepping past someone in a narrow corridor — all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group, functioning as a polite "excuse me" on departure. Whenever you need to pass in front of someone, even briefly, say it. The habit of verbalising these small intrusions is part of what separates thoughtful service from functional service.
-
-*Shitsurei itashimasu* is not an apology. Do not reach for it when a guest's room was not ready or their meal was incorrect. For genuine errors and serious inconveniences, *moushiwake gozaimasen* is the right phrase. *Shitsurei itashimasu* belongs to the small social navigations of daily professional life, nothing more and nothing less.
-
-## Example Sentences
+*Shitsurei itashimasu* is not an apology. Do not reach for it when a guest's room was not ready or their meal was incorrect. For genuine errors and serious inconveniences, *moushiwake gozaimasen* is the right phrase. *Shitsurei itashimasu* belongs to the small social navigations of daily professional life, nothing more and nothing less\n## Example Sentences
 
 **1.** 失礼いたします。お部屋にご案内いたします。
 *Shitsurei itashimasu. O-heya ni go-annai itashimasu.*
-"Excuse me. I will show you to your room."
+"Excuse me. I will show you to the room."
 
 **2.** 失礼いたします。少々お時間をいただいてもよろしいでしょうか。
 *Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*
-"Excuse me. May I take a moment of your time?"
+"Excuse me. May I take a moment of one's time?"
 
 **3.** 失礼いたします。（ドアをノックして部屋に入る際に）
 *Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*
@@ -26,7 +23,7 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 ## Related Expressions
 
-- **申し訳ございません (moushiwake gozaimasen)**: Deep apology for genuine errors. Much stronger than *shitsurei itashimasu*, and the right phrase when something has actually gone wrong.
+- **申し訳ございません (moushiwake gozaimasen)**: Deep apology for genuine errors. Much stronger than *shitsurei itashimasu*, and the right phrase when something has gone wrong.
 - **すみません (sumimasen)**: Casual "excuse me" or light apology. Fine between colleagues, but too informal for guest-facing interactions.
 - **恐れ入ります (osore irimasu)**: A more humble "excuse me" or expression of appreciation. Used when making a request of the guest or receiving their thanks.
 

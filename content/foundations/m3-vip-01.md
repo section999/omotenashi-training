@@ -36,7 +36,7 @@ The visibility of the guest's stay is carefully managed. How and whether staff a
 
 ## Reading the Guest's Preference
 
-Some VIP guests find elaborate, visible attention uncomfortable. They want to be treated normally — just perfectly. Read their preference early. Some want to be known and acknowledged; others want to move through the property unnoticed. Both preferences deserve equal precision.
+Some VIP guests find elaborate, visible attention uncomfortable. They want to be treated normally, just perfectly. Read their preference early. Some want to be known and acknowledged; others want to move through the property unnoticed. Both preferences deserve equal precision.
 
 A guest who prefers to be unrecognised is not being difficult. They are communicating exactly how to serve them well.
 

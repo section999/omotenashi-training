@@ -3,15 +3,12 @@ id: v11-vocab
 section: 17
 title: 切断 (setsudan)
 ---
-
 **Pronunciation:** [se-tsu-**DAN**]
 **Register:** Formal, used in service recovery and maintenance communication
 
-切断 means that a telephone call has been completely severed. The connection ended abruptly and unintentionally. In Japanese hospitality, a dropped call is not just a technical nuisance — it is a service failure, and the way you respond to it matters as much as the disruption itself. The rule is straightforward: when a 切断 occurs mid-conversation, the hotel calls back first. The guest should never have to be the one to re-dial.
+切断 means that a telephone call has been completely severed. The connection ended abruptly and unintentionally. In Japanese hospitality, a dropped call is not just a technical nuisance, it is a service failure, and the way one respond to it matters as much as the disruption itself. The rule is straightforward: when a 切断 occurs mid-conversation, the hotel calls back first. The guest should never have to be the one to re-dial.
 
-The standard recovery script opens with an apology before anything else: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). That acknowledgment comes first, before continuing with whatever the call was about. Jumping straight back to the topic and skipping the apology misses the point — the guest experienced an interruption, and recognizing that matters. It is also important to distinguish 切断 from 接続不良 (intermittent poor quality). A complete 切断 demands a callback; 接続不良 might be managed by asking the guest to try a different line, which is a less disruptive fix.
-
-## Example Sentences
+The standard recovery script opens with an apology before anything else: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). That acknowledgment comes first, before continuing with whatever the call was about. Jumping straight back to the topic and skipping the apology misses the point, the guest experienced an interruption, and recognizing that matters. It is also important to distinguish 切断 from 接続不良 (intermittent poor quality). A complete 切断 demands a callback; 接続不良 might be managed by asking the guest to try a different line, which is a less disruptive fix\n## Example Sentences
 
 **1.** 通話中に切断されました。大変申し訳ございません。
 *Tsuuwachuu ni setsudan saremashita. Taihen moushiwake gozaimasen.*

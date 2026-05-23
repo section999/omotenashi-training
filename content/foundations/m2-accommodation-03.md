@@ -19,7 +19,7 @@ The invisibility of the service is central to its effect. The guest did not watc
 
 ## Timing and Coordination
 
-Turndown is typically done while guests are at dinner. Coordinate with the dining team to confirm the room is ready before the guest returns. A guest who comes back to find the room not yet turned down has not just experienced a housekeeping issue — they have experienced a failure of teamwork. The timing is a shared responsibility across departments.
+Turndown is typically done while guests are at dinner. Coordinate with the dining team to confirm the room is ready before the guest returns. A guest who comes back to find the room not yet turned down has not just experienced a housekeeping issue, they have experienced a failure of teamwork. The timing is a shared responsibility across departments.
 
 ---
 

@@ -3,16 +3,13 @@ id: v07-vocab
 section: 1
 title: エレベーター (erebeetaa)
 ---
-
 エレベーター is a loanword from English ("elevator") and refers to the lift used to transport guests between floors in hotels, department stores, and large facilities. In Japanese hospitality, guiding a guest to the elevator rather than simply pointing is considered proper omotenashi. Staff are expected to escort guests when appropriate, especially those carrying heavy luggage or with mobility challenges. Because the elevator is often the first facility interaction a guest has upon arrival, a confident and clear explanation sets the tone for the entire stay.
 
-Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language.
-
-## Example Sentences
+Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language\n## Example Sentences
 
 **1.** エレベーターは正面玄関を入ってすぐ左手にございます。
 *Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*
-"The elevator is immediately to your left as you enter the main entrance."
+"The elevator is immediately to one's left as one enter the main entrance."
 
 **2.** エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。
 *Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*

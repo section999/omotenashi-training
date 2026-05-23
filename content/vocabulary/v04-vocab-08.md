@@ -3,12 +3,9 @@ id: v04-vocab
 section: 8
 title: 補充 (hojuu)
 ---
-
 補充 means replenishment or restocking: refilling or replacing consumable items in a guest room or facility. In the hotel context, 補充 happens every time a room is serviced, covering toiletries like shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The ideal is that a guest never notices an item running low because it has already been topped up before they reach for it. That kind of unobtrusive attentiveness is exactly what housekeeping 補充 is meant to achieve.
 
-In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser.
-
-## Example Sentences
+In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser\n## Example Sentences
 
 **1.** アメニティの補充は、毎日の清掃時に行っております。
 *Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.*
@@ -20,7 +17,7 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 
 **3.** お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。
 *Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*
-"If you would like your tea replenished, please let the front desk know at any time."
+"If you would like one's tea replenished, please let the front desk know at any time."
 
 ## Related Expressions
 

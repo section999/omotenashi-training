@@ -3,15 +3,12 @@ id: v12-vocab
 section: 27
 title: 安全確認 (anzen kakunin)
 ---
-
 **Pronunciation:** [an-zen **ka**-ku-nin]
 **Register:** Formal, operational and safety procedures
 
-安全確認 means a safety check or safety verification, the systematic process of confirming that equipment, spaces, or procedures are clear of hazards before guests use them. In a hotel this takes many shapes: testing elevator mechanisms before the morning rush, checking pool or spa water quality, making sure fire exits are unobstructed, verifying that kitchen appliances are working correctly. The underlying principle here is that guest safety is a prerequisite for omotenashi. You can't deliver excellent service in an environment that poses risk, so 安全確認 isn't a reactive activity you do after something goes wrong. It's a proactive, scheduled discipline that every department builds into its daily routine.
+安全確認 means a safety check or safety verification, the systematic process of confirming that equipment, spaces, or procedures are clear of hazards before guests use them. In a hotel this takes many shapes: testing elevator mechanisms before the morning rush, checking pool or spa water quality, making sure fire exits are unobstructed, verifying that kitchen appliances are working correctly. The underlying principle here is that guest safety is a prerequisite for omotenashi. one can't deliver excellent service in an environment that poses risk, so 安全確認 isn't a reactive activity one does after something goes wrong. It's a proactive, scheduled discipline that every department builds into its daily routine.
 
-In operational language, 安全確認を行う or 安全確認を実施する are the standard verb phrases for "to conduct a safety check." Results go into a 点検記録 (inspection record) available for management or regulatory review. When a check turns up a problem, the affected area or equipment comes out of service immediately and gets marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Worth noting is how you handle guest communication in those moments: explaining that something is temporarily unavailable due to a safety check, rather than saying nothing, signals that the hotel takes their wellbeing seriously. Most guests respond well to that transparency.
-
-## Example Sentences
+In operational language, 安全確認を行う or 安全確認を実施する are the standard verb phrases for "to conduct a safety check." Results go into a 点検記録 (inspection record) available for management or regulatory review. When a check turns up a problem, the affected area or equipment comes out of service immediately and gets marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Worth noting is how one handles guest communication in those moments: explaining that something is temporarily unavailable due to a safety check, rather than saying nothing, signals that the hotel takes their wellbeing seriously. Most guests respond well to that transparency\n## Example Sentences
 
 **1.** 朝のサービス開始前に、全設備の安全確認を実施しております。
 *Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.*
@@ -32,7 +29,7 @@ In operational language, 安全確認を行う or 安全確認を実施する ar
 
 ## Common Mistakes
 
-Students sometimes treat 安全確認 as administrative paperwork rather than a hands-on physical process. In hospitality, both the physical check and its documentation are equally essential. Another common gap is failing to communicate findings to the relevant department or manager, which leaves problems sitting unresolved. One more thing to be careful about: avoid dropping the phrase 安全確認 casually into guest conversation unless you're directly explaining a service interruption. Without context it can raise unnecessary alarm rather than reassure.
+A common error is to treat 安全確認 as administrative paperwork rather than a hands-on physical process. In hospitality, both the physical check and its documentation are equally essential. Another common gap is failing to communicate findings to the relevant department or manager, which leaves problems sitting unresolved. Additionally, avoid dropping the phrase 安全確認 casually into guest conversation unless one is directly explaining a service interruption. Without context it can raise unnecessary alarm rather than reassure.
 
 ---
 

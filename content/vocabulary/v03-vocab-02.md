@@ -3,27 +3,24 @@ id: v03-vocab
 section: 2
 title: 部屋 (heya)
 ---
-
 **Pronunciation:** [**he**-ya]
 **Register:** Neutral/Informal in plain form; Formal with honorific お
 
 部屋 (heya) is the everyday Japanese word for "room," and it works as the conversational partner to the more formal 客室. In hotel and ryokan settings, staff reach for 部屋 when speaking directly with guests in a warm, accessible way, especially during relaxed exchanges where overly stiff language would feel out of place. The word carries no institutional weight and is universally understood, making it reliable whenever clear, human communication matters more than formal precision. Adding お to make it お部屋 lifts the register considerably and is the standard spoken form in most guest-facing interactions.
 
-Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. Opt for お部屋 in direct conversation and casual clarifications with guests. Switch to 客室 for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The feel of language at a property contributes to the overall atmosphere guests experience.
-
-## Example Sentences
+Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. Opt for お部屋 in direct conversation and casual clarifications with guests. Switch to 客室 for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The feel of language at a property contributes to the overall atmosphere guests experience\n## Example Sentences
 
 **1.** お部屋はいかがでしたか？
 *O-heya wa ikaga deshita ka?*
-"How was your room?"
+"How was the room?"
 
 **2.** お部屋のカードキーをこちらにお持ちいただけますか？
 *O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?*
-"Could you bring your room card key here?"
+"Could you bring the room card key here?"
 
 **3.** こちらがお部屋の鍵でございます。どうぞご確認ください。
 *Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.*
-"This is the key to your room. Please check it."
+"This is the key to the room. Please check it."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Ja
 
 ## Common Mistakes
 
-A frequent error is using plain 部屋 without the honorific お in spoken guest interaction, which can come across as abrupt or too casual for a service setting. Always use お部屋 when speaking directly with guests. Conversely, writing 部屋 in formal guest-facing materials like welcome letters or facility signage is also incorrect — 客室 is the right choice there. New staff occasionally mix up the contexts entirely and use 客室 in casual conversation, where it sounds stiff when a simple お部屋 would feel natural and warm.
+A frequent error is using plain 部屋 without the honorific お in spoken guest interaction, which can come across as abrupt or too casual for a service setting. Always use お部屋 when speaking directly with guests. Conversely, writing 部屋 in formal guest-facing materials like welcome letters or facility signage is also incorrect, 客室 is the right choice there. New staff occasionally mix up the contexts entirely and use 客室 in casual conversation, where it sounds stiff when a simple お部屋 would feel natural and warm.
 
 ---
 

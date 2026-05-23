@@ -4,7 +4,7 @@ section: 5
 title: Responding to Emotional Cues
 ---
 
-Reading emotional cues is only half the skill. The harder half is responding in a way that feels natural, warm, and unobtrusive — so the guest never senses they are being handled. They should simply feel that someone noticed and cared. That distinction, between being managed and being cared for, is exactly what separates good service from genuine omotenashi.
+Reading emotional cues is only half the skill. The harder half is responding in a way that feels natural, warm, and unobtrusive, so the guest never senses they are being handled. They should simply feel that someone noticed and cared. That distinction, between being managed and being cared for, is exactly what separates good service from genuine omotenashi.
 
 ## Match Your Response to the Signal
 
@@ -25,7 +25,7 @@ Slow down. Use simpler language or a visual aid. Offer to repeat:
 
 ### When You Detect Sadness or Emotional Distress
 
-A guest who is visibly upset from personal circumstances — not service issues — deserves space, not inquiry. A quiet nod, a warm expression, and gentle attentiveness without intrusion is the appropriate response.
+A guest who is visibly upset from personal circumstances, not service issues, deserves space, not inquiry. A quiet nod, a warm expression, and gentle attentiveness without intrusion is the appropriate response.
 
 ### When a Guest is Frustrated
 
@@ -45,10 +45,10 @@ Before responding to a frustrated guest:
 
 Regardless of what emotional cue is detected, the gold standard response combines four elements:
 
-1. **Calm presence** — you are not rattled
-2. **Genuine warmth** — your concern is real
-3. **Practical action** — you offer or do something concrete
-4. **Discretion** — no fuss, no audience, no drama
+1. **Calm presence**: you are not rattled
+2. **Genuine warmth**: your concern is real
+3. **Practical action**: you offer or do something concrete
+4. **Discretion**: no fuss, no audience, no drama
 
 ---
 

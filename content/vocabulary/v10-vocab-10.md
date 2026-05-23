@@ -3,15 +3,12 @@ id: v10-vocab
 section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
-
 **Pronunciation:** [ryou-**shuu**-sho ha-**kou**]
 **Register:** Formal -- standard at front desk and cashier interactions post-payment
 
 領収書発行 refers to issuing an official receipt as proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy -- staff are expected to offer it proactively rather than wait for the guest to ask. The 領収書 matters most for business travelers and corporate guests who need it for expense reimbursement. For that purpose, the document must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt typically cannot be used for reimbursement, which means a reissue -- inconvenient for everyone involved.
 
-The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Beyond that, some guests need the charges itemized; others only need the consolidated total -- different accounting departments have different requirements. In practice, asking one simple question before printing saves you from having to reissue the entire document afterward.
-
-## Example Sentences
+The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Beyond that, some guests need the charges itemized; others only need the consolidated total -- different accounting departments have different requirements. asking one simple question before printing saves one from having to reissue the entire document afterward\n## Example Sentences
 
 **1.** 領収書の発行はご入用でしょうか。
 *Ryoushuusho no hakkou wa go-iriyo deshou ka.*
@@ -19,11 +16,11 @@ The process starts with confirming the 宛名 before printing anything. For indi
 
 **2.** 宛名はいかがいたしましょうか。会社名でよろしいでしょうか。
 *Atena wa ikaga itashimashoo ka. Kaisha mei de yoroshii deshou ka.*
-"What name shall I put on the receipt? Would your company name be correct?"
+"What name shall I put on the receipt? Would one's company name be correct?"
 
 **3.** ただいま領収書を発行いたします。少々お待ちください。
 *Tadaima ryoushuusho wo hakkou itashimasu. Shoushou o-machi kudasai.*
-"I will issue your receipt right away. Please wait just a moment."
+"I will issue one's receipt right away. Please wait just a moment."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ The process starts with confirming the 宛名 before printing anything. For indi
 
 ## Common Mistakes
 
-The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology that could easily have been avoided. Students also sometimes confuse 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and you should never assume one covers the other. One more thing: never write the amount by hand in pencil, and never leave the 宛名 blank. Either one compromises the legal validity of the receipt.
+The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology that could easily have been avoided. Students also sometimes confuse 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and staff should not assume one covers the other. Additionally: never write the amount by hand in pencil, and never leave the 宛名 blank. Either one compromises the legal validity of the receipt.
 
 ---
 

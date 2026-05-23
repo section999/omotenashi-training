@@ -3,16 +3,13 @@ id: v06-vocab
 section: 5
 title: 修理依頼 (shuuri irai)
 ---
+修理依頼 (shuuri irai) combines 修理 (repair) and 依頼 (request) to form the standard expression for a repair request in Japanese hospitality settings. When a guest reports something broken, a leaking tap, a non-functioning television, a faulty door lock, the correct professional response is to acknowledge the 修理依頼 formally and initiate the appropriate maintenance procedure. Speed and accuracy here are direct indicators of service quality. A guest who reports a problem and hears nothing back for an hour has a very different experience from one who gets a prompt update and a realistic timeline.
 
-修理依頼 (shuuri irai) combines 修理 (repair) and 依頼 (request) to form the standard expression for a repair request in Japanese hospitality settings. When a guest reports something broken — a leaking tap, a non-functioning television, a faulty door lock — the correct professional response is to acknowledge the 修理依頼 formally and initiate the appropriate maintenance procedure. Speed and accuracy here are direct indicators of service quality. A guest who reports a problem and hears nothing back for an hour has a very different experience from one who gets a prompt update and a realistic timeline.
-
-修理依頼 works in both spoken and written contexts. Staff at the front desk typically log the request in the maintenance system, communicate the timeline to the guest, and follow up after the repair is completed. The word 承ります (uketamawarimasu) is the most appropriate response phrase, as it commits the hotel to action while remaining suitably humble. If a repair cannot be completed right away, offering alternatives — a room change, a loan of replacement equipment — is standard practice in professional service recovery.
-
-## Example Sentences
+修理依頼 works in both spoken and written contexts. Staff at the front desk typically log the request in the maintenance system, communicate the timeline to the guest, and follow up after the repair is completed. The word 承ります (uketamawarimasu) is the most appropriate response phrase, as it commits the hotel to action while remaining suitably humble. If a repair cannot be completed right away, offering alternatives, a room change, a loan of replacement equipment, is standard practice in professional service recovery\n## Example Sentences
 
 **1.** テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。
 *Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.*
-"We have received your repair request for the television. A staff member will come to your room shortly."
+"We have received one's repair request for the television. A staff member will come to the room shortly."
 
 **2.** エアコンの修理依頼をフロントにてお承りしております。
 *Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.*
@@ -20,7 +17,7 @@ title: 修理依頼 (shuuri irai)
 
 **3.** ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。
 *Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*
-"Please be aware that repairs may take a little time; we appreciate your understanding."
+"Please be aware that repairs may take a little time; we appreciate one's understanding."
 
 ## Related Expressions
 

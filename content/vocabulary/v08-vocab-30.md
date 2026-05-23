@@ -3,15 +3,12 @@ id: v08-vocab
 section: 30
 title: 下 (shita)
 ---
-
 **Pronunciation:** [**shi**-ta]
 **Register:** Neutral to Formal, vertical navigation, room orientation, object placement
 
 下 means "below," "underneath," or "down," and is the direct vertical counterpart to 上 (ue). In hotel navigation, it most often points guests downward toward basement levels, where parking garages, spas, laundry facilities, and storage rooms tend to live in Japanese hotels. The word is short and versatile: it handles floor-level directions (駐車場は下の階にございます) just as naturally as room-level ones (ソファーの下にございます). The surrounding keigo does the register work, so 下 itself can stay simple.
 
-One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. Students often also forget to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves them standing there wondering how to get there.
-
-## Example Sentences
+One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. A common error is to also forget to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves them standing there wondering how to get there\n## Example Sentences
 
 **1.** 駐車場は地下2階の下にございます。エレベーターをご利用ください。
 *Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*
@@ -27,12 +24,12 @@ One practical nuance worth getting comfortable with: 下 as a general "downward"
 
 ## Related Expressions
 
-- **地下 (chika)**: Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when you are directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue.
-- **上 (ue)**: Above or up, the direct opposite of 下. Master both together so you can handle any vertical direction question fluently without hesitating to choose between them.
+- **地下 (chika)**: Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when one is directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue.
+- **上 (ue)**: Above or up, the direct opposite of 下. Master both together so one can handle any vertical direction question fluently without hesitating to choose between them.
 
 ## Common Mistakes
 
-The most common gap is using 下 without following it up with 地下一階 or 地下二階. Spatially correct, but not specific enough for a guest to act on with confidence. In practice, always give the floor number. There is also a reading trap: the kanji 下 appears in 地下 (ちか, chika), not ちした or ちしも. Students who learned 下 only as shita sometimes stumble when they see it in compound words like 地下 or 廊下. And one general rule: 下 should never be a standalone answer. The guest deserves a full sentence: 下の階にございます or エレベーターで下にお進みください. A single 下 with a pointing gesture is too abrupt for a service context.
+The most common gap is using 下 without following it up with 地下一階 or 地下二階. Spatially correct, but not specific enough for a guest to act on with confidence. always give the floor number. There is also a reading trap: the kanji 下 appears in 地下 (ちか, chika), not ちした or ちしも. Students who learned 下 only as shita sometimes stumble when they see it in compound words like 地下 or 廊下. And one general rule: 下 should never be a standalone answer. The guest deserves a full sentence: 下の階にございます or エレベーターで下にお進みください. A single 下 with a pointing gesture is too abrupt for a service context.
 
 ---
 

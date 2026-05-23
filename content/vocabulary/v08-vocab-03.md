@@ -3,14 +3,12 @@ id: v08-vocab
 section: 3
 title: まっすぐ (massugu)
 ---
-
 **Pronunciation:** [**mas**-su-gu]
 **Register:** Neutral, paired with お進みください in formal hotel speech
 
-まっすぐ means "straight ahead" and is one of the most frequently used directional words in Japanese hospitality. When a destination lies directly along a guest's current path with no turns required, まっすぐ communicates this with economy and clarity. Efficient, unambiguous guidance is a form of respect in Japanese service culture. No guest should have to stop, backtrack, or ask a second time because the first set of directions was unclear. まっすぐ provides an immediate, intuitive orientation cue that works across language backgrounds and levels of familiarity with the property.
+まっすぐ means "straight ahead" and is a notable frequently used directional words in Japanese hospitality. When a destination lies directly along a guest's current path with no turns required, まっすぐ communicates this with economy and clarity. Efficient, unambiguous guidance is a form of respect in Japanese service culture. No guest should have to stop, backtrack, or ask a second time because the first set of directions was unclear. まっすぐ provides an immediate, intuitive orientation cue that works across language backgrounds and levels of familiarity with the property.
 
-In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if you go straight, you will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Worth noting is that adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance significantly more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
-
+In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if one goes straight, one will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Worth noting is that adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance significantly more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
 ## Example Sentences
 
 **1.** ロビーまでまっすぐお進みください。
@@ -19,7 +17,7 @@ In hotel contexts, まっすぐ most commonly appears in combinations: まっす
 
 **2.** この廊下をまっすぐ進むと、右手にエレベーターがございます。
 *Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*
-"If you go straight down this corridor, you will find the elevator on your right."
+"If you go straight down this corridor, one will find the elevator on one's right."
 
 **3.** 駅までこの道をまっすぐ、徒歩約10分でございます。
 *Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*
@@ -32,7 +30,7 @@ In hotel contexts, まっすぐ most commonly appears in combinations: まっす
 
 ## Common Mistakes
 
-A common error is saying まっすぐです and stopping there, without specifying what the guest will actually find at the end of the straight path. Always add a destination or a landmark. Students sometimes confuse まっすぐ with ずっと (continuously, all the way along), which suggests extended duration rather than a specific direction. Omitting the polite お進みください after まっすぐ also makes the instruction feel like a command rather than a courteous suggestion, which is not the tone you want in hotel speech.
+A common error is saying まっすぐです and stopping there, without specifying what the guest will find at the end of the straight path. Always add a destination or a landmark. A common error is to confuse まっすぐ with ずっと (continuously, all the way along), which suggests extended duration rather than a specific direction. Omitting the polite お進みください after まっすぐ also makes the instruction feel like a command rather than a courteous suggestion, which is not the tone one want in hotel speech.
 
 ---
 

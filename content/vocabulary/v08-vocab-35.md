@@ -3,19 +3,16 @@ id: v08-vocab
 section: 35
 title: エスカレーター (esukareetaa)
 ---
-
 **Pronunciation:** [e-su-ka-**ree**-taa]
 **Register:** Neutral to Formal, vertical navigation, mobility-aware service
 
-エスカレーター is the standard Japanese term for escalator, borrowed directly from English, and it is one of three vertical transport options you will direct guests to alongside エレベーター (elevator) and 階段 (stairs). For most guests moving between adjacent floors with no heavy luggage, the エスカレーター is a natural recommendation. The word itself is not complicated; the real skill is in choosing it wisely. Before pointing to the escalator, consider the guest: are they carrying large bags, traveling with a stroller, using a cane, or showing signs of mobility concerns? If so, the エレベーター is almost always the better suggestion, and offering it proactively rather than waiting to be asked is what separates attentive service from merely accurate service.
+エスカレーター is the standard Japanese term for escalator, borrowed directly from English, and it is one of three vertical transport options one will direct guests to alongside エレベーター (elevator) and 階段 (stairs). For most guests moving between adjacent floors with no heavy luggage, the エスカレーター is a natural recommendation. The word itself is not complicated; the real skill is in choosing it wisely. Before pointing to the escalator, consider the guest: are they carrying large bags, traveling with a stroller, using a cane, or showing signs of mobility concerns? If so, the エレベーター is almost always the better suggestion, and offering it proactively rather than waiting to be asked distinguishes attentive service from merely accurate service.
 
-Direction-giving for エスカレーター needs to include which direction it is traveling, not just where it is. In a multi-floor hotel or shopping center, up escalators (上り, nobori) and down escalators (下り, kudari) are usually in different locations. 上りのエスカレーターはこちらでございます and 下りのエスカレーターはあちらにございます are the phrasing patterns to practice. Always add 足元にお気をつけください (please watch your step) and, for elderly guests or families with children, 手すりにお掴まりください (please hold the handrail). These additions take three seconds and show genuine care.
-
-## Example Sentences
+Direction-giving for エスカレーター needs to include which direction it is traveling, not just where it is. In a multi-floor hotel or shopping center, up escalators (上り, nobori) and down escalators (下り, kudari) are usually in different locations. 上りのエスカレーターはこちらでございます and 下りのエスカレーターはあちらにございます are the phrasing patterns to practice. Always add 足元にお気をつけください (please watch one's step) and, for elderly guests or families with children, 手すりにお掴まりください (please hold the handrail). These additions take three seconds and show genuine care\n## Example Sentences
 
 **1.** 上りのエスカレーターは正面にございます。足元にお気をつけください。
 *Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.*
-"The up escalator is straight ahead. Please watch your step."
+"The up escalator is straight ahead. Please watch one's step."
 
 **2.** 大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。
 *Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.*
@@ -32,7 +29,7 @@ Direction-giving for エスカレーター needs to include which direction it i
 
 ## Common Mistakes
 
-The most common confusion is between エスカレーター (escalator) and エレベーター (elevator), because both are long katakana words with a similar rhythm. The distinction is easy intellectually but can slip under pressure. Practice them as a deliberate pair, alternating back and forth, until the difference becomes automatic. The more consequential error is recommending the エスカレーター to a guest who clearly needs the エレベーター. Always read the situation before answering. When suggesting the エレベーター as the better option, phrase it with お勧めいたします rather than a blunt instruction — it comes across as care rather than correction.
+The most common confusion is between エスカレーター (escalator) and エレベーター (elevator), because both are long katakana words with a similar rhythm. The distinction is easy intellectually but can slip under pressure. Practice them as a deliberate pair, alternating back and forth, until the difference becomes automatic. The more consequential error is recommending the エスカレーター to a guest who clearly needs the エレベーター. Always read the situation before answering. When suggesting the エレベーター as the better option, phrase it with お勧めいたします rather than a blunt instruction, it comes across as care rather than correction.
 
 ---
 

@@ -8,7 +8,7 @@ The difference between a service interaction that is forgotten and one that is r
 
 ## Kokorozukai: The Use of the Heart
 
-The Japanese concept of **kokorozukai (心遣い)**, literally "the use of the heart," refers to thoughtfulness expressed through small action. Kokorozukai is not one extraordinary gesture. It is the habit of consistently asking: what would make this person feel genuinely cared for, beyond what is expected — and then acting on the answer.
+The Japanese concept of **kokorozukai (心遣い)**, literally "the use of the heart," refers to thoughtfulness expressed through small action. Kokorozukai is not one extraordinary gesture. It is the habit of consistently asking: what would make this person feel genuinely cared for, beyond what is expected, and then acting on the answer.
 
 Examples of kokorozukai in practice:
 
@@ -19,9 +19,9 @@ Examples of kokorozukai in practice:
 
 ## The Power of Names
 
-Using a guest's name — correctly, naturally, and not mechanically — is one of the most effective small actions in hospitality. It shifts an interaction from generic to personal. The first use of a name establishes recognition. Subsequent uses confirm that this person has been remembered as an individual, not processed as a reservation number.
+Using a guest's name, correctly, naturally, and not mechanically, is one of the most effective small actions in hospitality. It shifts an interaction from generic to personal. The first use of a name establishes recognition. Subsequent uses confirm that this person has been remembered as an individual, not processed as a reservation number.
 
-Learn names before guests arrive. Practise pronunciations that are unfamiliar. When uncertain, ask once and remember it: "I want to make sure I say your name correctly — is it pronounced...?" A guest whose name someone made a genuine effort over will always notice.
+Learn names before guests arrive. Practise pronunciations that are unfamiliar. When uncertain, ask once and remember it: "I want to make sure I say your name correctly, is it pronounced...?" A guest whose name someone made a genuine effort over will always notice.
 
 ## The Danger of Formulaic Care
 
@@ -41,7 +41,7 @@ Guests receive these things without feeling them. The standard for kokorozukai i
 *○○-sama no koto wo kangaete go-yōi shimashita.*
 "I prepared this with you in mind."
 
-This phrase makes a small gesture explicitly personal. It must be true when it is said — a detail prepared specifically for this guest, not a standard item with a personalised label added.
+This phrase makes a small gesture explicitly personal. It must be true when it is said, a detail prepared specifically for this guest, not a standard item with a personalised label added.
 
 **先ほどおっしゃっていた○○ですが、こちらはいかがでしょうか。**
 *Sakihodo osshatte ita ○○ desu ga, kochira wa ikaga deshō ka.*

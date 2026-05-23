@@ -4,7 +4,7 @@ section: 2
 title: Handling Dietary Requirements
 ---
 
-Dietary requirements — allergies, intolerances, religious restrictions, personal preferences — must be handled with absolute care, complete discretion, and genuine warmth. The guest should never feel that their requirement is an inconvenience or an afterthought. The ideal response communicates that it has been anticipated, planned for, and handled without any need for concern on their part.
+Dietary requirements, allergies, intolerances, religious restrictions, personal preferences, must be handled with absolute care, complete discretion, and genuine warmth. The guest should never feel that their requirement is an inconvenience or an afterthought. The ideal response communicates that it has been anticipated, planned for, and handled without any need for concern on their part.
 
 ## Understanding the Stakes
 
@@ -14,7 +14,7 @@ The same applies to religious dietary restrictions. A guest who keeps halal or k
 
 ## The Communication Chain
 
-The moment a dietary requirement is disclosed — whether at booking, at check-in, or at the table — the communication chain must begin immediately.
+The moment a dietary requirement is disclosed, whether at booking, at check-in, or at the table, the communication chain must begin immediately.
 
 - **Record it clearly and specifically.** "No nuts" must specify whether this includes nut-derived oils, traces, and cross-contamination. "Vegetarian" must be clarified: does it include fish? Dairy? Eggs? Do not assume.
 - **Communicate immediately to the kitchen.** Do not pass a note and assume it will be read. Confirm with the kitchen directly. For a serious allergy, confirm verbally with the chef or sous chef.

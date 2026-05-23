@@ -4,11 +4,11 @@ section: 1
 title: The Concept of Ma (間)
 ---
 
-There is a concept in Japanese culture that has no direct Western equivalent: 間 (ma). Often translated as "negative space," "pause," or "interval," ma is not simply an absence — it is a presence. It is the deliberate, meaningful space between things: between words, between movements, between moments of service. In Japanese architecture, music, theatre, and daily life, ma is understood as the element that gives form to all other elements. In hospitality, developing a feel for ma is one of the highest marks of professional maturity.
+There is a concept in Japanese culture that has no direct Western equivalent: 間 (ma). Often translated as "negative space," "pause," or "interval," ma is not simply an absence, it is a presence. It is the deliberate, meaningful space between things: between words, between movements, between moments of service. In Japanese architecture, music, theatre, and daily life, ma is understood as the element that gives form to all other elements. In hospitality, developing a feel for ma is one of the highest marks of professional maturity.
 
 ## What Ma Is, and What It Is Not
 
-Ma is not awkward silence. It is not hesitation, uncertainty, or forgetting what to say. Ma is intentional space — space that has been chosen because the moment calls for it.
+Ma is not awkward silence. It is not hesitation, uncertainty, or forgetting what to say. Ma is intentional space, space that has been chosen because the moment calls for it.
 
 Examples of ma in service:
 
@@ -25,13 +25,13 @@ In many Western contexts, silence reads as discomfort, and the natural impulse i
 
 ## The Sound of Ma
 
-> "The music is not in the notes, but in the silence between." — commonly attributed to Mozart
+> "The music is not in the notes, but in the silence between.", commonly attributed to Mozart
 
-This applies equally to hospitality. The value of a welcome is not just in the words いらっしゃいませ, but in the respectful pause that follows — the moment of acknowledgement before moving into action. The value of a farewell is not just in ありがとうございました, but in the stillness that holds it before the guest steps out into the street.
+This applies equally to hospitality. The value of a welcome is not just in the words いらっしゃいませ, but in the respectful pause that follows, the moment of acknowledgement before moving into action. The value of a farewell is not just in ありがとうございました, but in the stillness that holds it before the guest steps out into the street.
 
 ## Beginning to Practise
 
-Ma cannot be taught as a technique. It must be cultivated as a sensitivity — an awareness of when space serves the moment better than sound. The first step is simply to notice: notice when there is an urge to fill silence, and instead let the moment breathe.
+Ma cannot be taught as a technique. It must be cultivated as a sensitivity, an awareness of when space serves the moment better than sound. The first step is simply to notice: notice when there is an urge to fill silence, and instead let the moment breathe.
 
 ---
 

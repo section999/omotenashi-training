@@ -4,7 +4,7 @@ section: 5
 title: Safety and Responsible Guidance
 ---
 
-The onsen is a place of deep relaxation, and that relaxation carries physical risks that guests, especially those unfamiliar with the experience, may not anticipate. A responsible hospitality professional understands these risks and communicates guidance proactively, without alarming guests or diminishing the experience. This is not optional courtesy — it is a duty of care.
+The onsen is a place of deep relaxation, and that relaxation carries physical risks that guests, especially those unfamiliar with the experience, may not anticipate. A responsible hospitality professional understands these risks and communicates guidance proactively, without alarming guests or diminishing the experience. This is not optional courtesy, it is a duty of care.
 
 ## Heat and Cardiovascular Stress
 
@@ -35,7 +35,7 @@ Soaking in hot water causes dehydration. Encourage guests to drink water before 
 
 Inform parents that children should not be left unattended near the bath at any time. Very young children may find the water temperature uncomfortable. A lower-temperature section of the bath or a cooler time of day is worth suggesting.
 
-Guests most at risk are often the least likely to mention it — elderly guests who do not want to seem fragile, or guests who have had a few drinks and feel fine. Proactive guidance, delivered warmly and early, protects them without making them feel singled out.
+Guests most at risk are often the least likely to mention it, elderly guests who do not want to seem fragile, or guests who have had a few drinks and feel fine. Proactive guidance, delivered warmly and early, protects them without making them feel singled out.
 
 ---
 

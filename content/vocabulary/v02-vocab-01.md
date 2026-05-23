@@ -3,12 +3,9 @@ id: v02-vocab
 section: 1
 title: フロント (furonto)
 ---
-
 フロント is the central hub of any Japanese hotel, serving as the primary point of contact between guests and the establishment. It is the place where check-in, check-out, key handling, billing inquiries, and general guest requests are all managed. The term is a loanword from the English "front" (short for "front desk"), and it is so embedded in hospitality Japanese that no formal equivalent replaces it. Understanding フロント as both a physical space and a service role is essential for any hotel professional.
 
-Staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational nerve centre of the property.
-
-## Example Sentences
+Staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational nerve centre of the property\n## Example Sentences
 
 **1.** フロントはこちらでございます。どうぞこちらへお越しください。
 *Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*
@@ -20,7 +17,7 @@ Staff members stationed at the フロント are expected to maintain impeccable 
 
 **3.** フロントにて、お荷物をお預かりすることが可能でございます。
 *Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*
-"We are able to hold your luggage at the front desk."
+"We are able to hold one's luggage at the front desk."
 
 ## Related Expressions
 

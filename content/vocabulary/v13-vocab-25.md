@@ -3,15 +3,12 @@ id: v13-vocab
 section: 25
 title: 確認作業 (kakunin sagyou)
 ---
-
 **Pronunciation:** [ka-ku-**ni**-n sa-**gyo**-u]
 **Register:** Formal/Neutral -- used in internal staff communications and operational procedures
 
-確認作業 means checking work or verification work: the deliberate, systematic process of reviewing tasks, room conditions, documents, or event setups to confirm that everything meets required standards before it reaches a guest or a superior. In Japanese hospitality, 確認作業 is not optional. It is a built-in step in every service workflow. A room attendant performs 確認作業 after cleaning a guest room, working through the checklist to confirm that amenities are properly placed, towels are folded correctly, and nothing has been missed. A front desk associate performs 確認作業 before processing a checkout, making sure all charges are accurate. This habit of verifying before delivering is one of the clearest reasons why Japanese hospitality has its reputation for precision.
+確認作業 means checking work or verification work: the deliberate, systematic process of reviewing tasks, room conditions, documents, or event setups to confirm that everything meets required standards before it reaches a guest or a superior. In Japanese hospitality, 確認作業 is expected. It is a built-in step in every service workflow. A room attendant performs 確認作業 after cleaning a guest room, working through the checklist to confirm that amenities are properly placed, towels are folded correctly, and nothing has been missed. A front desk associate performs 確認作業 before processing a checkout, making sure all charges are accurate. This habit of verifying before delivering is one of the clearest reasons why Japanese hospitality has its reputation for precision.
 
-Students often notice that Japanese hotels seem to catch errors before they ever become visible to guests, and 確認作業 is exactly why. Banquet staff verify setup diagrams before a function. Kitchen teams confirm every dish against the order ticket. Concierge staff double-check tour bookings the morning a guest departs. The goal is zero defects: catch the mistake internally, fix it quietly, and the guest never knows it happened. Checklists (チェックリスト) are the main tool for keeping 確認作業 organised, and they become especially valuable during busy periods when it is easy to lose track of what has and has not been done.
-
-## Example Sentences
+A common error is notice that Japanese hotels seem to catch errors before they ever become visible to guests, and 確認作業 is exactly why. Banquet staff verify setup diagrams before a function. Kitchen teams confirm every dish against the order ticket. Concierge staff double-check tour bookings the morning a guest departs. The goal is zero defects: catch the mistake internally, fix it quietly, and the guest never knows it happened. Checklists (チェックリスト) are the main tool for keeping 確認作業 organised, and they become especially valuable during busy periods when it is easy to lose track of what has and has not been done\n## Example Sentences
 
 **1.** 客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。
 *Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.*
@@ -32,7 +29,7 @@ Students often notice that Japanese hotels seem to catch errors before they ever
 
 ## Common Mistakes
 
-Students sometimes treat 確認作業 as a quick glance over something. In Japanese hospitality it means the opposite: a deliberate, item-by-item review where each point is actively confirmed. Simply looking at a room and deciding it looks fine is not 確認作業. Worth noting is the difference between 確認作業 and 点検 (tenken: inspection). Both involve checking, but 点検 is a periodic formal inspection of equipment or facilities -- the kind scheduled in advance by management. 確認作業 is the routine verification woven into every workflow before a task is marked complete. Mixing these up in conversation with a supervisor will suggest you are not quite sure which kind of checking is happening.
+A common error is to treat 確認作業 as a quick glance over something. In Japanese hospitality it means the opposite: a deliberate, item-by-item review where each point is actively confirmed. Simply looking at a room and deciding it looks fine is not 確認作業. Worth noting is the difference between 確認作業 and 点検 (tenken: inspection). Both involve checking, but 点検 is a periodic formal inspection of equipment or facilities -- the kind scheduled in advance by management. 確認作業 is the routine verification woven into every workflow before a task is marked complete. Mixing these up in conversation with a supervisor will suggest one is not quite sure which kind of checking is happening.
 
 ---
 

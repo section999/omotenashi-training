@@ -3,19 +3,16 @@ id: v15-vocab
 section: 5
 title: クリーニング (kuriiningu)
 ---
-
 **Pronunciation:** [ku-**rii**-ni-n-gu]
 **Register:** Neutral to formal, standard service vocabulary in hotel and hospitality contexts
 
-クリーニング comes from the English "cleaning" but in Japanese it means something very specific: professional dry cleaning, the process that uses chemical solvents instead of water. If a guest brings you a wool coat, a silk blouse, a tailored suit, or anything with a care label that reads "dry clean only," クリーニング is the right recommendation. In business and luxury hotels, offering a クリーニング service is considered a baseline guest amenity that allows travellers to stay polished and presentable throughout their stay. Garments come back pressed and wrapped in protective plastic, which reflects the meticulous care that guests have come to expect.
+クリーニング comes from the English "cleaning" but in Japanese it means something very specific: professional dry cleaning, the process that uses chemical solvents instead of water. If a guest brings one a wool coat, a silk blouse, a tailored suit, or anything with a care label that reads "dry clean only," クリーニング is the right recommendation. In business and luxury hotels, offering a クリーニング service is considered a baseline guest amenity that allows travellers to stay polished and presentable throughout their stay. Garments come back pressed and wrapped in protective plastic, which reflects the meticulous care that guests have come to expect.
 
-When a guest asks about getting clothes cleaned, your first job is to understand what they actually need. That said, many guests don't know the difference between regular laundry and dry cleaning, so you may need to ask a quick clarifying question about the fabric or care label. Turnaround for クリーニング is typically one to two days, longer than standard laundry, so letting guests know upfront helps them manage their wardrobe around it. Some properties send items to an off-site クリーニング shop, and if that is the case at your hotel, being transparent about it avoids any confusion later.
-
-## Example Sentences
+When a guest asks about getting clothes cleaned, one's first job is to understand what they need. However, many guests don't know the difference between regular laundry and dry cleaning, so one may need to ask a quick clarifying question about the fabric or care label. Turnaround for クリーニング is typically one to two days, longer than standard laundry, so letting guests know upfront helps them manage their wardrobe around it. Some properties send items to an off-site クリーニング shop, and if that is the case at one's hotel, being transparent about it avoids any confusion later\n## Example Sentences
 
 **1.** スーツのクリーニングを承ります。明後日の午前中にお部屋へお届けいたします。
 *Suutsu no kuriiningu o uketamawarimasu. Asatte no gozenchuu ni o-heya e o-todoke itashimasu.*
-"We will take care of dry cleaning your suit. It will be delivered to your room the morning of the day after tomorrow."
+"We will take care of dry cleaning one's suit. It will be delivered to the room the morning of the day after tomorrow."
 
 **2.** こちらのジャケットはクリーニングのみ対応しております。通常の洗濯はお避けください。
 *Kochira no jaketto wa kuriiningu nomi taiou shite orimasu. Tsuujou no sentaku wa o-sake kudasai.*
@@ -32,7 +29,7 @@ When a guest asks about getting clothes cleaned, your first job is to understand
 
 ## Common Mistakes
 
-The most common error is using クリーニング to mean general cleaning, as in cleaning a room or cleaning a surface. In Japanese, that meaning does not apply. For room or facility cleaning, the words you want are 清掃 (seisou) or 掃除 (souji). Students also sometimes tell guests that their wool items can go in the ランドリー when クリーニング is the correct option. Always check care labels before advising, because a shrunken sweater is a very difficult situation to recover from. One more thing on pronunciation: the elongated vowels in ク**リー**ニング are important. Shortening them makes the word harder to understand, especially for guests who are listening for a familiar English sound.
+The most common error is using クリーニング to mean general cleaning, as in cleaning a room or cleaning a surface. In Japanese, that meaning does not apply. For room or facility cleaning, the words one want are 清掃 (seisou) or 掃除 (souji). Students also sometimes tell guests that their wool items can go in the ランドリー when クリーニング is the correct option. Always check care labels before advising, because a shrunken sweater is a very difficult situation to recover from. Additionally, on pronunciation: the elongated vowels in ク**リー**ニング are important. Shortening them makes the word harder to understand, especially for guests who are listening for a familiar English sound.
 
 ---
 

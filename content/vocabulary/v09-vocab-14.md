@@ -3,16 +3,13 @@ id: v09-vocab
 section: 14
 title: 割引 (waribiki)
 ---
-
 割引 (waribiki) means a reduction in price, offered through mechanisms such as early-bird booking rates, seasonal promotions, loyalty programme discounts, or package deals. In Japanese hospitality, clearly communicating any applicable 割引 is considered a mark of transparent and considerate service, as guests who feel they received good value are far more likely to return. Understanding this term allows front-line staff to explain pricing structures with confidence and precision.
 
-割引 appears in a wide range of hotel interactions: confirming a reservation rate, explaining the difference between a standard rate and a promotional rate, or breaking down a guest's invoice at checkout. The standard staff phrase is 通常〇円のところ、〇円割引で〇円でございます, which states the original price, the discount amount, and the final charge in sequence. This three-part structure eliminates ambiguity and allows the guest to feel the benefit concretely rather than just seeing a final number.
-
-## Example Sentences
+割引 appears in a wide range of hotel interactions: confirming a reservation rate, explaining the difference between a standard rate and a promotional rate, or breaking down a guest's invoice at checkout. The standard staff phrase is 通常〇円のところ、〇円割引で〇円でございます, which states the original price, the discount amount, and the final charge in sequence. This three-part structure eliminates ambiguity and allows the guest to feel the benefit concretely rather than just seeing a final number\n## Example Sentences
 
 **1.** 早割プランをご利用いただくと、通常料金より20％割引となっております。
 *Hayawari puran wo go-riyou itadaku to, tsuujou ryoukin yori nijuu-paasento waribiki to natte orimasu.*
-"If you use our early-bird plan, you will receive a 20% discount off the standard rate."
+"If you use our early-bird plan, one will receive a 20% discount off the standard rate."
 
 **2.** 会員様には10％の割引が適用されます。
 *Kaiin-sama ni wa juu-paasento no waribiki ga tekiyou saremasu.*

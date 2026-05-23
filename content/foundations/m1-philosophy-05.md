@@ -4,7 +4,7 @@ section: 5
 title: Wabi-Sabi in the Modern Hotel
 ---
 
-**Wabi-sabi (侘び寂び)** is an aesthetic philosophy rooted in Zen Buddhism and the culture of the tea ceremony. At its heart, it finds beauty in imperfection, transience, and simplicity. The worn edge of a bowl, the slight asymmetry of a hand-shaped cup, the glaze that ran unevenly in the kiln — in the tea room, these were considered more honest and more beautiful than flawless finish. The flaw carries the mark of a human hand. The impermanence is a quiet reminder that this moment will pass.
+**Wabi-sabi (侘び寂び)** is an aesthetic philosophy rooted in Zen Buddhism and the culture of the tea ceremony. At its heart, it finds beauty in imperfection, transience, and simplicity. The worn edge of a bowl, the slight asymmetry of a hand-shaped cup, the glaze that ran unevenly in the kiln, in the tea room, these were considered more honest and more beautiful than flawless finish. The flaw carries the mark of a human hand. The impermanence is a quiet reminder that this moment will pass.
 
 In hospitality, wabi-sabi is sometimes misread as a preference for the rustic or the bare. Its real function is to push aesthetic choices toward restraint, seasonality, and the deliberate removal of anything unnecessary. A room with one well-chosen seasonal branch says more than a room filled with elaborate decorations, because the restraint is itself a message: this one thing was chosen specifically, for this moment, for this guest.
 
@@ -15,7 +15,7 @@ The modern luxury hotel expresses wabi-sabi through several consistent choices:
 - **Natural materials:** wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and shift over time rather than holding an artificial perfection.
 - **Seasonal rotation:** decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu signals that attention has lapsed.
 - **Deliberate absence of clutter:** the tokonoma alcove holds only one carefully chosen scroll and one arrangement. The room breathes, leaving space for the guest's eye and mind to rest.
-- **Quiet and calm as design choices:** the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness — it is the space in which the guest's experience can actually exist.
+- **Quiet and calm as design choices:** the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness, it is the space in which the guest's experience can actually exist.
 
 ## Wabi-Sabi in Food and Service
 
@@ -23,7 +23,7 @@ In kaiseki and fine dining, wabi-sabi appears in closely related ways:
 
 - Serving ingredients at their seasonal peak (*shun*), because the brevity of a season is part of what makes it worth tasting now
 - Presenting food in handmade ceramics that carry subtle imperfections
-- The considered pause before placing a dish — not rushing, allowing a moment of anticipation to form naturally
+- The considered pause before placing a dish, not rushing, allowing a moment of anticipation to form naturally
 
 ## The Practical Principle
 
@@ -45,7 +45,7 @@ Used when drawing a guest's attention to a seasonal arrangement, framing it as a
 *Go-fuben wo o-kake suru yōna mono wa okanai yō ni shite orimasu.*
 "We try not to place anything that would be an inconvenience to you."
 
-This phrase expresses the principle of thoughtful absence — the idea that removing unnecessary items is itself a form of care for the guest.
+This phrase expresses the principle of thoughtful absence, the idea that removing unnecessary items is itself a form of care for the guest.
 
 ---
 

@@ -25,7 +25,7 @@ In practice, leading by example in hospitality means:
 
 Leadership by example works like a quiet ripple: each person's conduct influences the people around them, and those people influence others. A team that observes its senior colleagues maintaining high standards in every small moment gradually takes those standards as their own.
 
-Over time, the work of a good leader becomes invisible, because the entire team now leads by example. Culture is not announced — it is demonstrated.
+Over time, the work of a good leader becomes invisible, because the entire team now leads by example. Culture is not announced, it is demonstrated.
 
 ---
 

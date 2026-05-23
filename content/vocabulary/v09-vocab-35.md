@@ -3,12 +3,9 @@ id: v09-vocab
 section: 35
 title: 個人予約 (kojin yoyaku)
 ---
-
 個人予約 (kojin yoyaku) joins 個人 (kojin, individual / personal) with 予約 (yoyaku, reservation), designating a booking made by or for a single guest or small party, typically one to three people, as opposed to a group booking. This is the most common reservation type in Japanese hotels, forming the backbone of daily operations at the front desk and reservations department. While 個人予約 involves fewer logistical complexities than 団体予約, it is by no means routine in terms of service quality: the omotenashi philosophy holds that every 個人予約 guest deserves attentive, personalized service that acknowledges their specific preferences and history with the hotel.
 
-Individual reservations are where the most meaningful personalization happens. Repeat guests' preferences stored in the system — preferred floor, pillow type, dietary restrictions, or even a preferred wake-up time — can be applied seamlessly to a 個人予約. Staff who greet an individual guest by name and reference a previous stay (前回もお世話になりました、お帰りなさいませ, welcome back, it's good to have you with us again) create a powerful impression of care that no group check-in can replicate. 個人予約 guests also tend to be more flexible in expressing preferences during their stay, so staff should remain attentive throughout — not only at check-in — to any signals that a guest's needs are not fully being met.
-
-## Example Sentences
+Individual reservations are where the most meaningful personalization happens. Repeat guests' preferences stored in the system, preferred floor, pillow type, dietary restrictions, or even a preferred wake-up time, can be applied seamlessly to a 個人予約. Staff who greet an individual guest by name and reference a previous stay (前回もお世話になりました、お帰りなさいませ, welcome back, it's good to have one with us again) create a powerful impression of care that no group check-in can replicate. 個人予約 guests also tend to be more flexible in expressing preferences during their stay, so staff should remain attentive throughout, not only at check-in, to any signals that a guest's needs are not fully being met\n## Example Sentences
 
 **1.** 個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。
 *Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.*
@@ -16,11 +13,11 @@ Individual reservations are where the most meaningful personalization happens. R
 
 **2.** 個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。
 *Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.*
-"We have a double room prepared for your individual reservation. Do you have a preferred floor?"
+"We have a double room prepared for one's individual reservation. Do you have a preferred floor?"
 
 **3.** 前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。
 *Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.*
-"We had a record of your preferences from your previous stay, so we have prepared everything according to the same settings today."
+"We had a record of one's preferences from one's previous stay, so we have prepared everything according to the same settings today."
 
 ## Related Expressions
 

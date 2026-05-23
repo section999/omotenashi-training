@@ -3,15 +3,12 @@ id: v14-vocab
 section: 24
 title: ICカード (IC kaado)
 ---
-
 **Pronunciation:** [**IC**-**kaa**-do]
 **Register:** Neutral, used across casual and service contexts
 
-ICカード stands for "Integrated Circuit card" and refers to the rechargeable contactless smart cards used throughout Japan for train and bus fares, as well as purchases at convenience stores, vending machines, and many restaurants. The most familiar names are Suica (issued by JR East) and Pasmo (issued by Tokyo Metro and related operators), though regional equivalents exist all over Japan. What makes these cards so useful is the tap-and-go system: the guest simply touches the card to the sensor at a ticket gate or bus reader, which completely removes the need to calculate fares and hunt for exact change at a 切符 machine. For guests who are unfamiliar with Japan's ticketing system, recommending an ICカード early in their stay is one of the most genuinely helpful things you can do.
+ICカード stands for "Integrated Circuit card" and refers to the rechargeable contactless smart cards used throughout Japan for train and bus fares, as well as purchases at convenience stores, vending machines, and many restaurants. The most familiar names are Suica (issued by JR East) and Pasmo (issued by Tokyo Metro and related operators), though regional equivalents exist all over Japan. What makes these cards so useful is the tap-and-go system: the guest simply touches the card to the sensor at a ticket gate or bus reader, which completely removes the need to calculate fares and hunt for exact change at a 切符 machine. For guests who are unfamiliar with Japan's ticketing system, recommending an ICカード early in their stay is a notable helpful things one can do.
 
-In practice, hotel staff who bring up ICカード unprompted provide real service value. Many international guests simply do not know these cards can be bought and topped up at vending machines right in the airport arrivals hall. If your hotel is near a busy tourist area, suggest the guest loads enough balance (チャージ, chaaiji) to cover several days of travel. Worth noting: some versions of Suica can now be added to an Apple Wallet or Google Wallet, so guests who prefer digital options will be happy to hear that. A natural phrase to offer is 「ICカードをお持ちでしたら、いちいち切符をお買い求めいただかなくても便利にご移動いただけます」, which lets guests know they can travel freely without buying separate tickets each time.
-
-## Example Sentences
+hotel staff who bring up ICカード unprompted provide real service value. Many international guests simply do not know these cards can be bought and topped up at vending machines right in the airport arrivals hall. If one's hotel is near a busy tourist area, suggest the guest loads enough balance (チャージ, chaaiji) to cover several days of travel. Note: some versions of Suica can now be added to an Apple Wallet or Google Wallet, so guests who prefer digital options will be happy to hear that. A natural phrase to offer is 「ICカードをお持ちでしたら、いちいち切符をお買い求めいただかなくても便利にご移動いただけます」, which lets guests know they can travel freely without buying separate tickets each time\n## Example Sentences
 
 **1.** ICカードで改札を通りました。
 *IC kaado de kaisatsu wo toorimashita.*
@@ -23,7 +20,7 @@ In practice, hotel staff who bring up ICカード unprompted provide real servic
 
 **3.** ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。
 *IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.*
-"You can top up your IC card at station ticket vending machines at any time."
+"You can top up one's IC card at station ticket vending machines at any time."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ In practice, hotel staff who bring up ICカード unprompted provide real servic
 
 ## Common Mistakes
 
-Students often assume an ICカード from one region works everywhere in Japan. Most major cards do have nationwide compatibility these days, but some older or regional cards still have limits, so confirming coverage is always a good idea. A grammatical slip worth watching: the natural particle for topping up is に, not を, so say ICカードにチャージする rather than ICカードをチャージする. That said, both are understood in conversation, so this is more about sounding natural than avoiding misunderstanding. One more thing to keep in mind: do not mix up ICカード (the transport and payment card) with クレジットカード (credit card). When a guest asks about "paying by card" at the hotel, it is worth checking which type of card they mean before assuming.
+A common error is to assume an ICカード from one region works everywhere in Japan. Most major cards do have nationwide compatibility these days, but some older or regional cards still have limits, so confirming coverage is always a good idea. A grammatical slip worth watching: the natural particle for topping up is に, not を, so say ICカードにチャージする rather than ICカードをチャージする. However, both are understood in conversation, so this is more about sounding natural than avoiding misunderstanding. Additionally, to keep in mind: do not mix up ICカード (the transport and payment card) with クレジットカード (credit card). When a guest asks about "paying by card" at the hotel, it is worth checking which type of card they mean before assuming.
 
 ---
 

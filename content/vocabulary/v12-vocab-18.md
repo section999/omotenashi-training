@@ -3,15 +3,12 @@ id: v12-vocab
 section: 18
 title: 救助 (kyuujo)
 ---
-
 **Pronunciation:** [**kyuu**-jo]
 **Register:** Formal, emergency response and evacuation
 
 救助 means rescue: the active intervention that saves a person from a dangerous, life-threatening, or distressing situation. This is not a passive word. It conveys urgency and purpose. In a hotel context, 救助 might mean pulling a guest from a flooded area, assisting someone trapped in an elevator, finding a missing child on the premises, or coordinating with emergency services to get guests out safely during a fire or structural emergency. Japanese law requires hotel management to establish and maintain effective emergency response systems, and 救助 procedures sit at the centre of those frameworks.
 
-Hotel staff are trained to begin initial 救助 actions while simultaneously alerting professional emergency responders. The goal is never to delay calling 119, but to take immediate stabilising action while help is on the way. One area where students often underestimate the complexity is evacuation scenarios: guests with mobility limitations, elderly visitors, and families with young children all need prioritised attention and cannot be expected to follow the standard evacuation flow on their own. Drills practise communication routes, rescue paths, and accountability procedures so that no guest gets left behind. That said, communication itself is a rescue skill. Clear, calm verbal guidance, and simple physical gestures for guests who do not speak Japanese, can make the difference in a chaotic situation.
-
-## Example Sentences
+Hotel staff are trained to begin initial 救助 actions while simultaneously alerting professional emergency responders. The goal is never to delay calling 119, but to take immediate stabilising action while help is on the way. One area where students often underestimate the complexity is evacuation scenarios: guests with mobility limitations, elderly visitors, and families with young children all need prioritised attention and cannot be expected to follow the standard evacuation flow on their own. Drills practise communication routes, rescue paths, and accountability procedures so that no guest gets left behind. However, communication itself is a rescue skill. Clear, calm verbal guidance, and simple physical gestures for guests who do not speak Japanese, can make the difference in a chaotic situation\n## Example Sentences
 
 **1.** 火災発生時には、スタッフが速やかにお客様の救助に当たります。
 *Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.*
@@ -32,7 +29,7 @@ Hotel staff are trained to begin initial 救助 actions while simultaneously ale
 
 ## Common Mistakes
 
-Students sometimes use 助ける (tasukeru) when they mean 救助, but 助ける is casual everyday speech for "to help" or "to save," while 救助 is the formal noun used in professional emergency contexts and official documentation. They carry different registers and should not be swapped. Worth noting is another common mix-up: 救助 and 応急処置 (first aid) are not the same thing. Rescue means extracting someone from danger; first aid addresses medical stabilisation after the person is already safe. When writing reports for management or emergency authorities, always use the full formal phrase 救助活動 (kyuujo katsudou), meaning "rescue operations," to ensure your communication reads professionally and unambiguously.
+A common error is to use 助ける (tasukeru) when they mean 救助, but 助ける is casual everyday speech for "to help" or "to save," while 救助 is the formal noun used in professional emergency contexts and official documentation. They carry different registers and should not be swapped. Worth noting is another common mix-up: 救助 and 応急処置 (first aid) are not the same thing. Rescue means extracting someone from danger; first aid addresses medical stabilisation after the person is already safe. When writing reports for management or emergency authorities, always use the full formal phrase 救助活動 (kyuujo katsudou), meaning "rescue operations," to ensure one's communication reads professionally and unambiguously.
 
 ---
 

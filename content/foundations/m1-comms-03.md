@@ -4,13 +4,13 @@ section: 3
 title: The Quality of Silence
 ---
 
-In many service cultures, silence is treated as a gap to be filled — an awkward pause that signals something has gone wrong. In Japanese hospitality, silence is used with intention. It is a communication tool in its own right, capable of expressing calm, respect, attentiveness, and care for the guest's space.
+In many service cultures, silence is treated as a gap to be filled, an awkward pause that signals something has gone wrong. In Japanese hospitality, silence is used with intention. It is a communication tool in its own right, capable of expressing calm, respect, attentiveness, and care for the guest's space.
 
 ## Silence as a Hospitality Gesture
 
 Silence creates meaning in several specific service situations.
 
-The moment before a dish is placed — a brief, quiet pause — gives the presentation weight. It is not hesitation; it is ceremony. The guest's attention is drawn to the dish in a way that chatter would prevent.
+The moment before a dish is placed, a brief, quiet pause, gives the presentation weight. It is not hesitation; it is ceremony. The guest's attention is drawn to the dish in a way that chatter would prevent.
 
 A pause before answering a complex question communicates that you are thinking carefully, not reflexively reciting a script. The guest feels that their question has been taken seriously.
 
@@ -20,13 +20,13 @@ The stillness of a bow, held at the correct angle for a breath before rising, co
 
 The most common silence-related mistake in hospitality is filling every quiet moment with unnecessary words.
 
-A guest dining alone does not need constant check-ins. A guest on a phone call does not need to be approached. A guest who has just received their food and begun to eat does not need to be asked immediately whether everything is to their satisfaction — give them a moment to taste it first.
+A guest dining alone does not need constant check-ins. A guest on a phone call does not need to be approached. A guest who has just received their food and begun to eat does not need to be asked immediately whether everything is to their satisfaction, give them a moment to taste it first.
 
 Over-speaking can suggest that a staff member is following a script that requires certain phrases at certain intervals, rather than responding to the guest's actual state. Being present, attentive, and quiet simultaneously is one of the most refined service skills.
 
 ## Being There Without Intruding
 
-Excellent service often looks, from the guest's perspective, like nothing at all. They did not notice the refill; the water was simply there. They did not notice the timing of the plate removal; conversation simply flowed uninterrupted. The staff member was present enough to act — and silent enough not to interrupt.
+Excellent service often looks, from the guest's perspective, like nothing at all. They did not notice the refill; the water was simply there. They did not notice the timing of the plate removal; conversation simply flowed uninterrupted. The staff member was present enough to act, and silent enough not to interrupt.
 
 That invisibility is a direct expression of omotenashi's principle of invisible effort. The guest should not have to think about the service. They should only experience the effect of it.
 
@@ -34,7 +34,7 @@ That invisibility is a direct expression of omotenashi's principle of invisible 
 
 In Japanese culture, a quiet moment of contemplation is not awkward; it is appropriate. When accompanying a guest through a property, there is no need to narrate the journey. Walking together in thoughtful silence lets the space speak for itself.
 
-Filling silence with noise — whether words or background conversation — is often unnecessary and can break the atmosphere that careful preparation has created.
+Filling silence with noise, whether words or background conversation, is often unnecessary and can break the atmosphere that careful preparation has created.
 
 ---
 

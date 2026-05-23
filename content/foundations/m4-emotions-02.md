@@ -4,7 +4,7 @@ section: 2
 title: Reading Facial Expressions & Body Language
 ---
 
-The face and body are constant broadcasters of emotional state. Learning to observe them accurately — without staring or making guests feel watched — is a core skill of omotenashi. The goal is not just observation, but accurate interpretation.
+The face and body are constant broadcasters of emotional state. Learning to observe them accurately, without staring or making guests feel watched, is a core skill of omotenashi. The goal is not just observation, but accurate interpretation.
 
 ## Key Facial Signals
 
@@ -20,7 +20,7 @@ Even a brief furrowing of the brow points to confusion, concern, or mild frustra
 
 ### Lip Compression
 
-When a person presses their lips together briefly, they are often suppressing a negative reaction — disagreement, frustration, or reluctance. This is a cue to gently pause and invite feedback.
+When a person presses their lips together briefly, they are often suppressing a negative reaction, disagreement, frustration, or reluctance. This is a cue to gently pause and invite feedback.
 
 ### Jaw Tension
 
@@ -60,7 +60,7 @@ A genuine smile that involves the muscles around the eyes, not just the mouth. N
 *Nanika go-fuben wa gozaimasu ka?*
 "Is there anything that could be more comfortable for you?"
 
-The recommended proactive check-in phrase when body language suggests discomfort. It is open-ended and face-saving — the guest can respond in any direction without feeling singled out.
+The recommended proactive check-in phrase when body language suggests discomfort. It is open-ended and face-saving, the guest can respond in any direction without feeling singled out.
 
 ---
 

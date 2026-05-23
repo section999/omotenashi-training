@@ -24,10 +24,10 @@ Staff must also develop sensitivity to unexpressed dissatisfaction: the guest wh
 
 Effective service recovery follows a consistent structure:
 
-1. **Listen** — without interruption, without defence
-2. **Acknowledge** — validate the guest's experience sincerely
-3. **Act** — take specific, appropriate action to address the issue
-4. **Follow up** — confirm that the resolution has satisfied the guest
+1. **Listen**: without interruption, without defence
+2. **Acknowledge**: validate the guest's experience sincerely
+3. **Act**: take specific, appropriate action to address the issue
+4. **Follow up**: confirm that the resolution has satisfied the guest
 
 Each of these steps is explored in the lessons that follow.
 

@@ -4,7 +4,7 @@ section: 3
 title: Team Communication Standards
 ---
 
-Exceptional hospitality is a team performance. No individual, however skilled, can sustain a seamless guest experience alone across an entire shift, let alone across an entire stay. The quality of a guest's experience is largely determined by the quality of communication between the people responsible for it. When information flows clearly between team members — at handovers, in briefings, through established channels — the guest experiences a continuity of care. When communication breaks down, the guest feels it, even if they cannot identify exactly what went wrong.
+Exceptional hospitality is a team performance. No individual, however skilled, can sustain a seamless guest experience alone across an entire shift, let alone across an entire stay. The quality of a guest's experience is largely determined by the quality of communication between the people responsible for it. When information flows clearly between team members, at handovers, in briefings, through established channels, the guest experiences a continuity of care. When communication breaks down, the guest feels it, even if they cannot identify exactly what went wrong.
 
 ## The Pre-Shift Briefing
 
@@ -23,9 +23,9 @@ The shift handover is the bridge between one team and the next, and the moment m
 
 ## The Language of Internal Communication
 
-Within the team, clarity and concision matter most. Use specific, unambiguous language: not "a guest had an issue earlier" but "Mr. Tanaka in room 307 raised a concern about the temperature of his morning bath at 7:15am — it has been noted and we will follow up during afternoon service."
+Within the team, clarity and concision matter most. Use specific, unambiguous language: not "a guest had an issue earlier" but "Mr. Tanaka in room 307 raised a concern about the temperature of his morning bath at 7:15am, it has been noted and we will follow up during afternoon service."
 
-In Japanese hospitality culture, vague communication is considered a form of professional negligence. Specific language is not fussiness — it is the standard.
+In Japanese hospitality culture, vague communication is considered a form of professional negligence. Specific language is not fussiness, it is the standard.
 
 ---
 

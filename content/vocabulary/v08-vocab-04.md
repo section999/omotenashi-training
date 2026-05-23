@@ -3,12 +3,9 @@ id: v08-vocab
 section: 4
 title: 曲がる (magaru)
 ---
-
 曲がる means "to turn" and is essential vocabulary for guiding guests through hotel corridors, streets, and building interiors. Unlike まっすぐ, which indicates continuation of a straight path, 曲がる requires a change of direction and therefore needs precise pairing with a direction word (右に曲がる、左に曲がる) and a reference point such as a corner, intersection, or landmark. A guest who misses a turn wastes time and may feel embarrassed or frustrated, and omotenashi aims to prevent both.
 
-Practically, 曲がる is used constantly at the front desk when giving walking directions, in lobby guidance when escorting guests partway to their destination, and in verbal route descriptions for nearby restaurants or attractions. The pattern [landmark] + を/で + [direction] + に曲がってください is the standard construction: ロビーを出て右に曲がってください, 次の角を左に曲がってください. When there are multiple turns, number them clearly (最初の角を右に、次に左に) to prevent confusion.
-
-## Example Sentences
+Practically, 曲がる is used constantly at the front desk when giving walking directions, in lobby guidance when escorting guests partway to their destination, and in verbal route descriptions for nearby restaurants or attractions. The pattern [landmark] + を/で + [direction] + に曲がってください is the standard construction: ロビーを出て右に曲がってください, 次の角を左に曲がってください. When there are multiple turns, number them clearly (最初の角を右に、次に左に) to prevent confusion\n## Example Sentences
 
 **1.** 二つ目の交差点で左に曲がってください。
 *Futatsu-me no kousaten de hidari ni magatte kudasai.*
@@ -16,7 +13,7 @@ Practically, 曲がる is used constantly at the front desk when giving walking 
 
 **2.** エレベーターを出て右に曲がると、お部屋がございます。
 *Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.*
-"When you exit the elevator and turn right, you will find your room."
+"When you exit the elevator and turn right, one will find the room."
 
 **3.** ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。
 *Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.*

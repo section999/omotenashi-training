@@ -3,14 +3,12 @@ id: v05-vocab
 section: 8
 title: 提供 (teikyou)
 ---
-
 **Pronunciation:** [tei-**kyou**]
 **Register:** Formal, standard in hospitality and F&B service contexts
 
-提供 refers to the act of serving or providing food and beverages to guests, covering everything from the moment a dish leaves the kitchen to the instant it is placed on the table. In Japanese hospitality, this moment carries more weight than it might appear. How a dish is set down, what you say as you place it, and whether you arrive at the right time all contribute to the guest's overall impression. In fine dining and kaiseki restaurants, announcing each dish as it arrives — naming the key ingredient or preparation style — turns what could be a routine handoff into a brief, memorable moment of storytelling.
+提供 refers to the act of serving or providing food and beverages to guests, covering everything from the moment a dish leaves the kitchen to the instant it is placed on the table. In Japanese hospitality, this moment carries more weight than it might appear. How a dish is set down, what one says as one places it, and whether one arrive at the right time all contribute to the guest's overall impression. In fine dining and kaiseki restaurants, announcing each dish as it arrives, naming the key ingredient or preparation style, turns what could be a routine handoff into a brief, memorable moment of storytelling.
 
-Timing is where 提供 gets genuinely challenging, and it is where strong communication between floor staff and the kitchen really shows. In a multi-course meal, each dish must arrive after the previous one is finished and cleared, without awkward gaps or rushed deliveries. Experienced staff develop a rhythm with the kitchen team so courses flow naturally throughout the meal. In buffet settings, 提供 shifts meaning slightly to cover restocking: fresh items should always be available, and empty trays should never sit on the counter for more than a moment.
-
+Timing is where 提供 gets challenging, and it is where strong communication between floor staff and the kitchen shows. In a multi-course meal, each dish must arrive after the previous one is finished and cleared, without awkward gaps or rushed deliveries. Experienced staff develop a rhythm with the kitchen team so courses flow naturally throughout the meal. In buffet settings, 提供 shifts meaning slightly to cover restocking: fresh items should staff should be available, and empty trays should never sit on the counter for more than a moment.
 ## Example Sentences
 
 **1.** お料理は順番に提供いたしますので、しばらくお待ちくださいませ。
@@ -19,11 +17,11 @@ Timing is where 提供 gets genuinely challenging, and it is where strong commun
 
 **2.** ただいまお料理を提供いたします。こちらが本日のアミューズでございます。
 *Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*
-"I will serve your dish now. This is today's amuse-bouche."
+"I will serve one's dish now. This is today's amuse-bouche."
 
 **3.** ドリンクの提供にお時間をいただいております。大変申し訳ございません。
 *Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*
-"We apologize for the wait with your drink service."
+"We apologize for the wait with one's drink service."
 
 ## Related Expressions
 
@@ -32,7 +30,7 @@ Timing is where 提供 gets genuinely challenging, and it is where strong commun
 
 ## Common Mistakes
 
-Using 提供します without the humble いたします form sounds too neutral for guest-facing speech in a formal setting. Serving a main course before the starter is finished disrupts the guest's dining rhythm and can feel rushed or inattentive. Setting a dish down without saying anything also misses an important moment: a brief explanation of what is being served — even just naming the dish — is expected in attentive table service and is not optional.
+Using 提供します without the humble いたします form sounds too neutral for guest-facing speech in a formal setting. Serving a main course before the starter is finished disrupts the guest's dining rhythm and can feel rushed or inattentive. Setting a dish down without saying anything also misses an important moment: a brief explanation of what is being served, even just naming the dish, is expected in attentive table service and is expected.
 
 ---
 

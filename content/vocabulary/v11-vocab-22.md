@@ -3,16 +3,13 @@ id: v11-vocab
 section: 22
 title: お問い合わせ (otoiawase)
 ---
+お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is an important terms in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank one for one's inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome event, not an interruption. That framing matters more than it might initially seem.
 
-お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is one of the most important terms in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank you for your inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome event, not an interruption. That framing matters more than it might initially seem.
-
-In practice, お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly, rather than the more abrupt 質問 (shitsumon, question), sets a courteous tone for the entire interaction.
-
-## Example Sentences
+お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly, rather than the more abrupt 質問 (shitsumon, question), sets a courteous tone for the entire interaction\n## Example Sentences
 
 **1.** お問い合わせありがとうございます。○○ホテルでございます。
 *Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*
-"Thank you for your inquiry. This is ○○ Hotel."
+"Thank you for one's inquiry. This is ○○ Hotel."
 
 **2.** ご不明な点がございましたら、いつでもお問い合わせください。
 *Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*
@@ -20,7 +17,7 @@ In practice, お問い合わせ covers a wide range of guest contacts: questions
 
 **3.** お問い合わせの内容を担当部署に確認いたします。
 *Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*
-"I will check the details of your inquiry with the relevant department."
+"I will check the details of one's inquiry with the relevant department."
 
 ## Related Expressions
 
@@ -29,7 +26,7 @@ In practice, お問い合わせ covers a wide range of guest contacts: questions
 
 ## Common Mistakes
 
-Staff sometimes open a call with 何ですか or 何でしょうか instead of the standard お問い合わせありがとうございます, which sounds abrupt and unwelcoming. Students often don't realize how much that opening phrase shapes the guest's entire experience of the call. Another mistake is treating お問い合わせ as a synonym for 苦情 (kujo, complaint): while a complaint may arrive as an お問い合わせ, not every お問い合わせ is a complaint, and assuming so creates unnecessary defensiveness. Learners should also avoid using the casual 質問がありますか with guests, as it lacks the respectful framing that お問い合わせ provides.
+Staff sometimes open a call with 何ですか or 何でしょうか instead of the standard お問い合わせありがとうございます, which sounds abrupt and unwelcoming. A common error is to don't realize how much that opening phrase shapes the guest's entire experience of the call. Another mistake is treating お問い合わせ as a synonym for 苦情 (kujo, complaint): while a complaint may arrive as an お問い合わせ, not every お問い合わせ is a complaint, and assuming so creates unnecessary defensiveness. Learners should also avoid using the casual 質問がありますか with guests, as it lacks the respectful framing that お問い合わせ provides.
 
 ---
 

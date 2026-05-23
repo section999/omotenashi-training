@@ -18,7 +18,7 @@ Avoid the following in guest messages:
 
 ## Response Speed
 
-Messaging platforms create an expectation of faster replies than email — often within minutes during business hours. This means the channel must be properly staffed, or a clear auto-response should be set up telling guests exactly when they can expect a reply. Silence on a messaging platform reads as neglect in a way that a delayed email does not.
+Messaging platforms create an expectation of faster replies than email, often within minutes during business hours. This means the channel must be properly staffed, or a clear auto-response should be set up telling guests exactly when they can expect a reply. Silence on a messaging platform reads as neglect in a way that a delayed email does not.
 
 ## Accuracy and Confirmation
 

@@ -3,12 +3,9 @@ id: v04-vocab
 section: 20
 title: 点検 (tenken)
 ---
-
 点検 means inspection or systematic checking: the deliberate, often scheduled examination of a room, piece of equipment, or facility to verify that everything is in correct working order. In Japanese hospitality, 点検 reflects the value of catching problems before guests encounter them. A thorough 点検 routine is what allows a hotel to deliver a consistently smooth stay. The flickering light, the loose door hinge, the nearly depleted amenity all get noticed and addressed before the guest ever has to mention them.
 
-In hotel operations, 点検 takes many forms: daily room checks before guest arrival, periodic safety inspections of fire extinguishers and emergency exits, and post-departure checks after checkout. When entering a room or a guest area for inspection purposes, staff use phrases like 設備の点検を行っております ("we are conducting an equipment inspection") to explain their presence. Worth noting: the word also appears in written records. 点検済み (inspection completed) is stamped or initialed on checklists to confirm that a space has been cleared for guest use.
-
-## Example Sentences
+In hotel operations, 点検 takes many forms: daily room checks before guest arrival, periodic safety inspections of fire extinguishers and emergency exits, and post-departure checks after checkout. When entering a room or a guest area for inspection purposes, staff use phrases like 設備の点検を行っております ("we are conducting an equipment inspection") to explain their presence. Note: the word also appears in written records. 点検済み (inspection completed) is stamped or initialed on checklists to confirm that a space has been cleared for guest use\n## Example Sentences
 
 **1.** 安全のため、定期的に設備の点検を行っております。
 *Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.*
@@ -29,7 +26,7 @@ In hotel operations, 点検 takes many forms: daily room checks before guest arr
 
 ## Common Mistakes
 
-Students sometimes use 確認 and 点検 as if they mean the same thing, but 点検 is reserved for formal physical inspections of facilities or equipment. Using 点検 when simply checking a guest's name on a list sounds technically wrong and overly formal in the wrong way. Also, entering a guest room for inspection without prior notice violates privacy expectations: always announce yourself with 点検のためお部屋に入らせていただきます. When writing about 点検 in reports or explaining it to guests, include a timeframe. 定期的に (regularly) or 本日 (today) adds clarity and shows that the inspection is planned, not reactive.
+A common error is to use 確認 and 点検 as if they mean the same thing, but 点検 is reserved for formal physical inspections of facilities or equipment. Using 点検 when simply checking a guest's name on a list sounds technically wrong and overly formal in the wrong way. Also, entering a guest room for inspection without prior notice violates privacy expectations: always announce yourself with 点検のためお部屋に入らせていただきます. When writing about 点検 in reports or explaining it to guests, include a timeframe. 定期的に (regularly) or 本日 (today) adds clarity and shows that the inspection is planned, not reactive.
 
 ---
 

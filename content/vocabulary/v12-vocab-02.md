@@ -3,15 +3,12 @@ id: v12-vocab
 section: 2
 title: 火災 (kasai)
 ---
-
 **Pronunciation:** [**ka**-sai]
 **Register:** Formal, the official term used in announcements, reports, and emergency protocols
 
-火災 refers to a fire outbreak that threatens lives, property, and operations. In Japanese hospitality settings, fire safety is taken extremely seriously because hotels and ryokan house sleeping guests who may not be alert to early warning signs. Before your first shift, you should know where every fire extinguisher, alarm pull station, and evacuation route is located. The word 火災 signals not just flames but the full activation of your property's emergency protocol, which is what separates a minor contained incident from a life-threatening event requiring coordinated response.
+火災 refers to a fire outbreak that threatens lives, property, and operations. In Japanese hospitality settings, fire safety is taken extremely seriously because hotels and ryokan house sleeping guests who may not be alert to early warning signs. Before one's first shift, staff should know where every fire extinguisher, alarm pull station, and evacuation route is located. The word 火災 signals not just flames but the full activation of one's property's emergency protocol, which distinguishes a minor contained incident from a life-threatening event requiring coordinated response.
 
-Regular fire drills (防災訓練, bousai kunren) make sure both staff and guests can respond correctly when a 火災 occurs. In practice, when communicating a fire situation, pair 火災 with specific location information and clear, simple directives so people can move fast without confusion. Clear, early communication during a fire emergency is always the right call.
-
-## Example Sentences
+Regular fire drills (防災訓練, bousai kunren) make sure both staff and guests can respond correctly when a 火災 occurs. when communicating a fire situation, pair 火災 with specific location information and clear, simple directives so people can move fast without confusion. Clear, early communication during a fire emergency is always the right call\n## Example Sentences
 
 **1.** 火災が発生したら、消火器を使うか避難してください。
 *Kasai ga hassei shitara, shoukaki wo tsukau ka hinan shite kudasai.*
@@ -27,12 +24,12 @@ Regular fire drills (防災訓練, bousai kunren) make sure both staff and guest
 
 ## Related Expressions
 
-- **火事 (kaji)**: the everyday, emotionally charged word for fire that you hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
+- **火事 (kaji)**: the everyday, emotionally charged word for fire that one hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
 - **出火 (shukka)**: "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication
 
 ## Common Mistakes
 
-Students sometimes use the casual 火事 in formal announcements, which sounds off and can undermine the authority of the message. Worth noting, there is also a common mix-up between 火災 and 火気 (kaki, meaning "open flame" or "fire hazard"): 火気厳禁 is a preventive rule posted on signage, while 火災 refers to an actual fire event in progress. The other thing to avoid is hesitating before using the word 火災. Early, clear communication is always safer than trying to soften the message.
+A common error is to use the casual 火事 in formal announcements, which sounds off and can undermine the authority of the message. Worth noting, there is also a common mix-up between 火災 and 火気 (kaki, meaning "open flame" or "fire hazard"): 火気厳禁 is a preventive rule posted on signage, while 火災 refers to an actual fire event in progress. The other thing to avoid is hesitating before using the word 火災. Early, clear communication is always safer than trying to soften the message.
 
 ---
 

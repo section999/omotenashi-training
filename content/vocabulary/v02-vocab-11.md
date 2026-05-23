@@ -3,16 +3,13 @@ id: v02-vocab
 section: 11
 title: 身分証明書 (mibun shomeisho)
 ---
+身分証明書 means identification document and is the umbrella term for any official document that establishes a person's identity. International guests typically present a パスポート, but domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued document. Understanding this distinction matters because it lets one request identification from any guest, regardless of nationality, using language that is both accurate and appropriately polite. Verifying identity is a legal requirement in Japan and a basic security responsibility for any property.
 
-身分証明書 means identification document and is the umbrella term for any official document that establishes a person's identity. International guests typically present a パスポート, but domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued document. Understanding this distinction matters because it lets you request identification from any guest, regardless of nationality, using language that is both accurate and appropriately polite. Verifying identity is a legal requirement in Japan and a basic security responsibility for any property.
-
-The same humble language principles that apply to passport requests apply here too. The key phrase is 身分証明書を拝見してもよろしいでしょうか. The term is longer and less recognizable to some international guests, so staff working in multilingual settings may want to support the verbal request with a written prompt or a gesture toward the document type needed. After viewing the ID, return it immediately and thank the guest for their cooperation.
-
-## Example Sentences
+The same humble language principles that apply to passport requests apply here too. The key phrase is 身分証明書を拝見してもよろしいでしょうか. The term is longer and less recognizable to some international guests, so staff working in multilingual settings may want to support the verbal request with a written prompt or a gesture toward the document type needed. After viewing the ID, return it immediately and thank the guest for their cooperation\n## Example Sentences
 
 **1.** 身分証明書を拝見してもよろしいでしょうか。
 *Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*
-"May I see your identification?"
+"May I see one's identification?"
 
 **2.** 運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。
 *Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*
@@ -20,7 +17,7 @@ The same humble language principles that apply to passport requests apply here t
 
 **3.** 身分証明書はご確認後すぐにお返しいたします。
 *Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*
-"We will return your identification immediately after reviewing it."
+"We will return one's identification immediately after reviewing it."
 
 ## Related Expressions
 
@@ -29,7 +26,7 @@ The same humble language principles that apply to passport requests apply here t
 
 ## Common Mistakes
 
-Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. Do not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
+Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. One should not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
 
 ---
 

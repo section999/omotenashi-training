@@ -3,16 +3,13 @@ id: v03-vocab
 section: 18
 title: 洗面所 (senmenjo)
 ---
-
 洗面所 (洗面 = washing the face, 所 = place) reads as "a place to wash the face," but it refers broadly to the washroom area, the space containing the sink, mirror, and vanity, along with amenities like toothbrushes, razors, and skincare products. In Japanese hotel rooms, the 洗面所 is often a distinct area separate from both the bathtub (浴室) and the toilet (トイレ), a three-way separation common in mid-to-high-range accommodations. For guests unfamiliar with this layout, a clear orientation to the 洗面所 prevents confusion and reflects the thoroughness expected in omotenashi service. Staff who accurately describe the 洗面所 and its amenities help guests feel at home immediately upon arrival.
 
-During check-in or room orientation, staff might say 「洗面所はお部屋の奥にございます」 (the washroom is at the back of your room) or detail available items: 「洗面所には歯ブラシやタオルをご用意しております」 (the washroom has toothbrushes and towels prepared). When guests ask about where to brush their teeth or wash their face, 洗面所 is the correct referent. Housekeeping staff replenishing supplies will also use this term internally when checking amenity stock.
-
-## Example Sentences
+During check-in or room orientation, staff might say 「洗面所はお部屋の奥にございます」 (the washroom is at the back of one's room) or detail available items: 「洗面所には歯ブラシやタオルをご用意しております」 (the washroom has toothbrushes and towels prepared). When guests ask about where to brush their teeth or wash their face, 洗面所 is the correct referent. Housekeeping staff replenishing supplies will also use this term internally when checking amenity stock\n## Example Sentences
 
 **1.** 洗面所はお部屋の奥にございます。
 *Senmenjo wa oheya no oku ni gozaimasu.*
-"The washroom is located at the back of your room."
+"The washroom is located at the back of the room."
 
 **2.** 洗面所には歯ブラシ、髭剃り、タオルをご用意しております。
 *Senmenjo ni wa haburashi, higesori, taoru wo go-youi shite orimasu.*

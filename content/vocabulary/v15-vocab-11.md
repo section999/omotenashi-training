@@ -3,19 +3,16 @@ id: v15-vocab
 section: 11
 title: 発送 (hassou)
 ---
-
 **Pronunciation:** [**has**-sou]
 **Register:** Formal, standard in front desk, concierge, and guest service contexts
 
 発送 is the act of dispatching or sending items out from one location to another, domestically or internationally. In a hotel context, it most often comes up when guests want to ship purchased souvenirs, excess luggage, or personal belongings back home or forward to their next destination. This is a huge convenience, especially for tourists who've been shopping and simply can't fit everything into their bags for the flight. Many Japanese hotels work directly with courier companies like Yamato Transport to offer 発送 at competitive rates, and packaging materials are usually available at the front desk.
 
-When you help a guest with 発送, the job is more than just handing them a form. Help fill it in accurately, confirm the delivery address character by character if needed, advise on expected transit times, and flag any restrictions on what can actually be shipped, particularly liquids or lithium batteries on international routes. Handling the paperwork on behalf of a guest who can't read Japanese is one of those small acts that guests remember. Always hand over a tracking number or receipt after the 発送 is completed: that piece of paper is their only proof the package is on its way.
-
-## Example Sentences
+When one help a guest with 発送, the job is more than just handing them a form. Help fill it in accurately, confirm the delivery address character by character if needed, advise on expected transit times, and flag any restrictions on what can be shipped, particularly liquids or lithium batteries on international routes. Handling the paperwork on behalf of a guest who can't read Japanese is one of those small acts that guests remember. Always hand over a tracking number or receipt after the 発送 is completed: that piece of paper is their only proof the package is on its way\n## Example Sentences
 
 **1.** お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。
 *O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*
-"We can help you send your souvenir bags to your home. Please fill in the shipping form."
+"We can help you send one's souvenir bags to one's home. Please fill in the shipping form."
 
 **2.** 国内発送でしたら、翌々日にはお届けできる見込みです。
 *Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.*
@@ -23,16 +20,16 @@ When you help a guest with 発送, the job is more than just handing them a form
 
 **3.** 発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。
 *Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.*
-"After shipping, we will give you a tracking number so you can check the delivery status."
+"After shipping, we will give you a tracking number so one can check the delivery status."
 
 ## Related Expressions
 
 - **配達 (haitatsu)**: delivery from the recipient's perspective; 発送 is the sending end and 配達 is the receiving end of the same journey.
-- **宅配便 (takkyuubin)**: the courier or home delivery network that actually carries out the 発送; the two terms go hand in hand when explaining shipping services to guests.
+- **宅配便 (takkyuubin)**: the courier or home delivery network that carries out the 発送; the two terms go hand in hand when explaining shipping services to guests.
 
 ## Common Mistakes
 
-Students often swap 発送 and 配達, and it's worth drilling the difference clearly: 発送 belongs to the sender, 配達 belongs to the recipient. In practice, when a guest is sending something out from the hotel, you use 発送. When something is arriving at the hotel for a guest, you use 配達. That said, the other key mistake is register: using plain 発送する in direct guest communication sounds too casual. Use 発送いたします or お送りいたします instead. One more thing to take seriously: never assume all items can be shipped internationally without checking first. Customs restrictions and carrier rules change, and giving wrong advice here can leave a guest's package stuck at customs.
+A common error is to swap 発送 and 配達, and it's worth drilling the difference clearly: 発送 belongs to the sender, 配達 belongs to the recipient. when a guest is sending something out from the hotel, one uses 発送. When something is arriving at the hotel for a guest, one uses 配達. However, the other key mistake is register: using plain 発送する in direct guest communication sounds too casual. Use 発送いたします or お送りいたします instead. Additionally, to take seriously: staff should not assume all items can be shipped internationally without checking first. Customs restrictions and carrier rules change, and giving wrong advice here can leave a guest's package stuck at customs.
 
 ---
 

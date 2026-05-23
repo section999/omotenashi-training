@@ -3,12 +3,9 @@ id: v04-vocab
 section: 12
 title: 歯ブラシ (haburashi)
 ---
-
 歯ブラシ means toothbrush, and it is a standard part of the amenity set in Japanese hotel and ryokan rooms. Japan has a strong cultural emphasis on dental hygiene, and providing each guest with an individually wrapped disposable 歯ブラシ together with toothpaste (歯磨き粉) is expected as a baseline. In ryokan, the 歯ブラシ is typically part of a neatly arranged amenity kit on the bathroom counter, displayed alongside yukata accessories and other personal care items. The rule in housekeeping is absolute: a used 歯ブラシ must never remain in a room at turnover. Used ones go out, sealed replacements go in.
 
-When a guest asks for a 歯ブラシ, treat the request as completely routine, whether they forgot to pack one or simply want a spare. Bring it to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. Knowing where to find one quickly and how to phrase the response in polite Japanese is the kind of readiness that makes real day-to-day service run smoothly.
-
-## Example Sentences
+When a guest asks for a 歯ブラシ, treat the request as completely routine, whether they forgot to pack one or simply want a spare. Bring it to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. Knowing where to find one quickly and how to phrase the response in polite Japanese is the kind of readiness that makes real day-to-day service run smoothly\n## Example Sentences
 
 **1.** 歯ブラシはバスルームにご用意しております。
 *Haburashi wa basurumu ni goyo'i shite orimasu.*
@@ -24,7 +21,7 @@ When a guest asks for a 歯ブラシ, treat the request as completely routine, w
 
 ## Related Expressions
 
-- **歯磨き粉 (hamigakiko)**: toothpaste; provided alongside 歯ブラシ as a standard pair, so always check and replenish both at the same time.
+- **歯磨き粉 (hamigakiko)**: toothpaste; provided alongside 歯ブラシ as a standard pair, so staff should check and replenish both at the same time.
 - **アメニティセット (ameniti setto)**: amenity set; the packaged collection of personal care items that typically includes 歯ブラシ, toothpaste, comb, and razor, standard in Japanese hotel rooms.
 
 ## Common Mistakes

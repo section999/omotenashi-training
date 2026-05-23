@@ -3,15 +3,12 @@ id: v12-vocab
 section: 7
 title: 警察 (keisatsu)
 ---
-
 **Pronunciation:** [**kei**-sa-tsu]
 **Register:** Standard, used across all registers when referring to law enforcement
 
-警察 refers to Japan's police authorities, responsible for public safety, crime prevention, and emergency response. In hospitality, you may need to contact the 警察 for situations involving theft, violence or threats on the premises, missing persons, suspicious items, public disturbances, or fraud. Japan's police are generally professional and responsive, operating through regional 警察署 (police stations) and neighbourhood 交番 (substations). That said, the general emergency number 110 is the one every staff member must have committed to memory, and the direct number of the nearest 警察署 should be posted at the front desk and concierge station where anyone can reach it without searching.
+警察 refers to Japan's police authorities, responsible for public safety, crime prevention, and emergency response. In hospitality, one may need to contact the 警察 for situations involving theft, violence or threats on the premises, missing persons, suspicious items, public disturbances, or fraud. Japan's police are generally professional and responsive, operating through regional 警察署 (police stations) and neighbourhood 交番 (substations). However, the general emergency number 110 is the one every staff member must have committed to memory, and the direct number of the nearest 警察署 should be posted at the front desk and concierge station where anyone can reach it without searching.
 
-When you do call the 警察, be ready to give your facility name and full address, describe the incident clearly and concisely, and stay on the line until the dispatcher tells you otherwise. Part of omotenashi is protecting the dignity and privacy of any guest involved in an incident, even while you fulfill your legal obligation to report what happened. When police arrive, cooperate fully and designate one supervisor as the single point of contact. Conflicting information from multiple staff members can slow an investigation and create unnecessary complications.
-
-## Example Sentences
+When one does call the 警察, be ready to give one's facility name and full address, describe the incident clearly and concisely, and stay on the line until the dispatcher tells one otherwise. Part of omotenashi is protecting the dignity and privacy of any guest involved in an incident, even while one fulfill one's legal obligation to report what happened. When police arrive, cooperate fully and designate one supervisor as the single point of contact. Conflicting information from multiple staff members can slow an investigation and create unnecessary complications\n## Example Sentences
 
 **1.** 盗難が発生した場合は警察に通報してください。
 *Tounan ga hassei shita baai wa keisatsu ni tsuuhou shite kudasai.*
@@ -32,7 +29,7 @@ When you do call the 警察, be ready to give your facility name and full addres
 
 ## Common Mistakes
 
-Students often describe a reluctance to call 警察 promptly out of worry about escalating the situation or affecting the hotel's reputation. This is the wrong instinct. Under-reporting can lead to harm for other guests and serious legal liability for the property. Worth noting, there is also a common confusion between 警察 (police) and 警備 (security): on-site 警備員 are your first line for routine security, but criminal matters require law enforcement authority and should not be left to hotel security alone. One more thing: do not attempt to question or detain a suspected criminal yourself before the 警察 arrive. That can compromise the investigation and put staff at risk.
+A common error is describe a reluctance to call 警察 promptly out of worry about escalating the situation or affecting the hotel's reputation. This is the wrong instinct. Under-reporting can lead to harm for other guests and serious legal liability for the property. Worth noting, there is also a common confusion between 警察 (police) and 警備 (security): on-site 警備員 are one's first line for routine security, but criminal matters require law enforcement authority and should not be left to hotel security alone. Additionally: do not attempt to question or detain a suspected criminal yourself before the 警察 arrive. That can compromise the investigation and put staff at risk.
 
 ---
 

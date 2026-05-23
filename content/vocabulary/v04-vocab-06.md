@@ -3,12 +3,9 @@ id: v04-vocab
 section: 6
 title: シーツ交換 (shiitsu koukan)
 ---
-
 シーツ交換 means changing the bed sheets, and it is one of the core tasks in hotel housekeeping. A freshly made bed with clean, crisp sheets is something guests notice immediately when they walk into a room. The precision involved: pulling the fabric taut, tucking corners correctly, aligning the fold at the top: is not just about aesthetics. It is a visible sign that care was taken, and in omotenashi hospitality, that matters. Many hotels in Japan change sheets after every checkout as standard, while longer stays may see a change every few days or upon guest request.
 
-Staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. It is also common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Always confirm which one they want before heading off to get supplies.
-
-## Example Sentences
+Staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. It is also common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Always confirm which one they want before heading off to get supplies\n## Example Sentences
 
 **1.** 本日、ベッドのシーツ交換を行わせていただきました。
 *Honjitsu, beddo no shiitsu koukan wo okonawasete itadakimashita.*
@@ -16,7 +13,7 @@ Staff should know the property's policy on 連泊 (multi-night) stays and be rea
 
 **2.** シーツ交換をご希望の場合は、フロントまでお申し付けください。
 *Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.*
-"If you would like your sheets changed, please let us know at the front desk."
+"If you would like one's sheets changed, please let us know at the front desk."
 
 **3.** 連泊のお客様には、三日に一度シーツ交換をご提供しております。
 *Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*
@@ -29,7 +26,7 @@ Staff should know the property's policy on 連泊 (multi-night) stays and be rea
 
 ## Common Mistakes
 
-Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is actually asking for before going to get anything. 取り替え (torikae) also tends to appear in guest-facing speech, but 交換 sounds more professional in a hotel context. Never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
+Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is asking for before going to get anything. 取り替え (torikae) also tends to appear in guest-facing speech, but 交換 sounds more professional in a hotel context. Never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
 
 ---
 

@@ -3,12 +3,9 @@ id: v11-vocab
 section: 1
 title: 電話 (denwa)
 ---
-
 電話 is the word for telephone communication in any Japanese hospitality setting, covering everything from the guest-room handset to the front desk switchboard. In Japanese hotels and ryokan, the telephone is not merely a communication tool but an extension of the property's service promise. Guests expect calls to be answered promptly, courteously, and with the hotel name clearly stated. Learning 電話 in a hospitality context means learning the entire telephone culture of omotenashi service, because nearly every related term (内線, 外線, 転送, 保留) builds directly on this word.
 
-In practice, staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank you for calling), which is the standard opening greeting when answering. Dropping the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. Students sometimes don't notice this at first. Worth remembering: 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける, to make a call; 電話を受ける, to receive a call).
-
-## Example Sentences
+staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank one for calling), which is the standard opening greeting when answering. Dropping the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. A common error is to don't notice this at first. Worth remembering: 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける, to make a call; 電話を受ける, to receive a call)\n## Example Sentences
 
 **1.** お電話ありがとうございます。グランドホテル東京でございます。
 *Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.*
@@ -29,7 +26,7 @@ In practice, staff will encounter 電話 in instructions such as お電話での
 
 ## Common Mistakes
 
-Students often forget to add お when referring to a guest's call, saying 電話がありました instead of the correct お電話がございました, which drops the register significantly. Another frequent error is confusing 電話 (the device or act of calling) with 電話番号 (the phone number itself): both appear in similar contexts but serve different functions. Some staff also mistakenly use 電話します (plain form) in situations that call for the humble お電話いたします when speaking about their own actions toward a guest.
+A common error is to forget to add お when referring to a guest's call, saying 電話がありました instead of the correct お電話がございました, which drops the register significantly. Another frequent error is confusing 電話 (the device or act of calling) with 電話番号 (the phone number itself): both appear in similar contexts but serve different functions. Some staff also mistakenly use 電話します (plain form) in situations that call for the humble お電話いたします when speaking about their own actions toward a guest.
 
 ---
 

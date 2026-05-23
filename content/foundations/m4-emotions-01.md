@@ -36,7 +36,7 @@ The same words spoken with different pitch, speed, or volume carry entirely diff
 
 In Western cultures, direct eye contact suggests confidence and honesty. In Japan, sustained eye contact can feel confrontational. Guests may look slightly downward as a sign of respect, not disengagement. Recognising this difference prevents misreading respectful behaviour as coldness or indifference.
 
-Similarly, silence is not awkward in Japanese communication — it is thoughtful. A guest who pauses before answering is considering carefully, not confused.
+Similarly, silence is not awkward in Japanese communication, it is thoughtful. A guest who pauses before answering is considering carefully, not confused.
 
 ## Core Principle
 

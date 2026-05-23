@@ -3,19 +3,16 @@ id: v03-vocab
 section: 5
 title: ツインルーム (twin room)
 ---
-
 **Pronunciation:** [**tsuin**-ruu-mu]
 **Register:** Neutral, Operational, front desk, reservations, room assignment conversations
 
-ツインルーム is a guest room with two separate single or semi-double beds, and it is the go-to room type for business travel pairs, friends travelling together, and family members who prefer their own sleeping space. It is one of the most commonly booked configurations in Japanese business hotels. Getting the room type right matters significantly: guests who expect two beds and walk into a room with one shared bed can feel real discomfort or embarrassment, and that sets the wrong tone for their entire stay.
+ツインルーム is a guest room with two separate single or semi-double beds, and it is the go-to room type for business travel pairs, friends travelling together, and family members who prefer their own sleeping space. It is a commonly booked configurations in Japanese business hotels. Getting the room type right matters significantly: guests who expect two beds and walk into a room with one shared bed can feel real discomfort or embarrassment, and that sets the wrong tone for their entire stay.
 
-During check-in, make it a habit to confirm the bed arrangement out loud, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます ("it is a room with two beds") gives guests reassurance and removes any ambiguity. When guests look uncertain about their room type, address it before they ask. If only one bed type is available due to high occupancy, communicate that clearly and apologetically before leading them to the room — not as a surprise when they open the door.
-
-## Example Sentences
+During check-in, make it a habit to confirm the bed arrangement out loud, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます ("it is a room with two beds") gives guests reassurance and removes any ambiguity. When guests look uncertain about their room type, address it before they ask. If only one bed type is available due to high occupancy, communicate that clearly and apologetically before leading them to the room, not as a surprise when they open the door\n## Example Sentences
 
 **1.** ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。
 *Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.*
-"Is your reservation for a twin room? It is a room with two beds."
+"Is one's reservation for a twin room? It is a room with two beds."
 
 **2.** ツインルームは四階にございます。エレベーターでお越しください。
 *Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.*

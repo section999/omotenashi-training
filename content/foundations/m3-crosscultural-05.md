@@ -14,7 +14,7 @@ A guest who is speaking loudly on the phone in the lobby may come from a culture
 
 ## When Cultural Difference Conflicts with House Rules
 
-If a guest's behaviour conflicts with a clear property rule — the onsen policy, noise curfew, no-shoe zones — the rule must be upheld. The manner matters entirely.
+If a guest's behaviour conflicts with a clear property rule, the onsen policy, noise curfew, no-shoe zones, the rule must be upheld. The manner matters entirely.
 
 Effective approach:
 
@@ -24,7 +24,7 @@ Effective approach:
 
 ## Language Barriers
 
-Not all cross-cultural friction is about values. Some of it is simply language. A guest who appears rude may be struggling to express a reasonable request in an unfamiliar language. Patience, simple phrasing, and non-verbal communication — showing, pointing, writing — resolve most of these situations.
+Not all cross-cultural friction is about values. Some of it is simply language. A guest who appears rude may be struggling to express a reasonable request in an unfamiliar language. Patience, simple phrasing, and non-verbal communication, showing, pointing, writing, resolve most of these situations.
 
 ## When You Do Not Know
 

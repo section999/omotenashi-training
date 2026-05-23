@@ -3,12 +3,9 @@ id: v09-vocab
 section: 16
 title: プラン (puran)
 ---
+プラン is the word for a booking package, a named bundle that ties together a specific room type, meal arrangement, perks, and price. In Japan there is an enormous range of these: a romantic anniversary プラン might include a special dinner and a flower arrangement, while a business プラン might focus on late checkout and a light breakfast. At check-in, knowing which プラン a guest booked is a key important piece of information available, because it defines everything they are entitled to during their stay.
 
-プラン is the word for a booking package, a named bundle that ties together a specific room type, meal arrangement, perks, and price. In Japan there is an enormous range of these: a romantic anniversary プラン might include a special dinner and a flower arrangement, while a business プラン might focus on late checkout and a light breakfast. At check-in, knowing which プラン a guest booked is the single most important piece of information available, because it defines everything they are entitled to during their stay.
-
-The professional move is always to name the プラン by its actual name rather than just saying "your booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is quietly reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under.
-
-## Example Sentences
+The professional move is always to name the プラン by its actual name rather than just saying "one's booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is quietly reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under\n## Example Sentences
 
 **1.** お客様は朝食付きスタンダードプランでご予約いただいております。
 *O-kyaku-sama wa choushoku-tsuki sutandaado puran de go-yoyaku itadaite orimasu.*
@@ -20,11 +17,11 @@ The professional move is always to name the プラン by its actual name rather 
 
 **3.** プランの内容についてご不明な点がございましたら、いつでもお申し付けください。
 *Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.*
-"If you have any questions about the contents of your plan, please feel free to let us know at any time."
+"If you have any questions about the contents of one's plan, please feel free to let us know at any time."
 
 ## Related Expressions
 
-- **コース (koosu)**: a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when you mean the overall booking package would confuse the guest about whether you are talking about their meal or their entire stay arrangement.
+- **コース (koosu)**: a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when one mean the overall booking package would confuse the guest about whether one is talking about their meal or their entire stay arrangement.
 - **パッケージ (pakkeiji)**: close in meaning to プラン but tends to stress the bundling of separate items like flights, hotel, and sightseeing; in a hotel-only setting プラン is the natural term, while パッケージ shows up more in travel agency and OTA marketing.
 
 ## Common Mistakes

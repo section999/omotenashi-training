@@ -3,19 +3,16 @@ id: v10-vocab
 section: 13
 title: 伝票 (denpyou)
 ---
-
 **Pronunciation:** [den-**pyou**]
 **Register:** Neutral to formal -- used internally among F&B staff and in guest-facing signing contexts
 
-伝票 is the transaction slip or bill used to record orders, services rendered, or payments in a hospitality setting. In hotel restaurants and bars, the 伝票 travels from the service point to the kitchen or bar and back, tracking what was ordered, at which table, at what time, and at what cost. When a guest's charges are billed to their room (ルームチャージ), the 伝票 documents those specific charges, which are later rolled into the final 精算 at checkout. A wrong table number or misrecorded item on a 伝票 cascades directly into an incorrect bill and a complaint -- accuracy at the point of entry is not optional.
+伝票 is the transaction slip or bill used to record orders, services rendered, or payments in a hospitality setting. In hotel restaurants and bars, the 伝票 travels from the service point to the kitchen or bar and back, tracking what was ordered, at which table, at what time, and at what cost. When a guest's charges are billed to their room (ルームチャージ), the 伝票 documents those specific charges, which are later rolled into the final 精算 at checkout. A wrong table number or misrecorded item on a 伝票 cascades directly into an incorrect bill and a complaint -- accuracy at the point of entry is expected.
 
-F&B staff should treat 伝票 management as a core daily skill. Keeping slips organized by table, time, and service type makes end-of-shift reconciliation much smoother and reduces the chance of errors going unnoticed. When a guest signs a 伝票 for room-charge authorization, always take a moment to explain what they are signing: ご利用料金の確認書でございます、こちらにご署名をお願いいたします. That small explanation prevents later disputes about unauthorized charges and shows you are treating the guest as a partner in the process, not just collecting a signature.
-
-## Example Sentences
+F&B staff should treat 伝票 management as a core daily skill. Keeping slips organized by table, time, and service type makes end-of-shift reconciliation much smoother and reduces the chance of errors going unnoticed. When a guest signs a 伝票 for room-charge authorization, always take a moment to explain what they are signing: ご利用料金の確認書でございます、こちらにご署名をお願いいたします. That small explanation prevents later disputes about unauthorized charges and shows one is treating the guest as a partner in the process, not just collecting a signature\n## Example Sentences
 
 **1.** この伝票にご署名をいただけますでしょうか。お部屋付けの確認となります。
 *Kono denpyou ni go-shomei wo itadakemasu deshou ka. O-heya tsuke no kakunin to narimasu.*
-"Could you please sign this slip? It serves as confirmation that the charges will be billed to your room."
+"Could you please sign this slip? It serves as confirmation that the charges will be billed to the room."
 
 **2.** キッチンへの伝票にテーブル番号と注文内容を正確にご記入ください。
 *Kicchin e no denpyou ni teeburu bangou to chuumon naiyou wo seikaku ni go-kinyuu kudasai.*
@@ -32,7 +29,7 @@ F&B staff should treat 伝票 management as a core daily skill. Keeping slips or
 
 ## Common Mistakes
 
-Using 伝票 and 領収書 interchangeably is a common error, but they serve completely different purposes. 伝票 is primarily an internal or transactional slip used to track orders and charges; 領収書 is the official proof of payment issued to the guest. A frequent operational mistake is failing to write the table number or guest room clearly on the 伝票, which leads to order mix-ups or incorrect room billing. In a hospitality context, signed 伝票 contain financial information and should not be left where other guests or staff can see them -- handle them with appropriate discretion, as you would any sensitive document.
+Using 伝票 and 領収書 interchangeably is a common error, but they serve completely different purposes. 伝票 is primarily an internal or transactional slip used to track orders and charges; 領収書 is the official proof of payment issued to the guest. A frequent operational mistake is failing to write the table number or guest room clearly on the 伝票, which leads to order mix-ups or incorrect room billing. In a hospitality context, signed 伝票 contain financial information and should not be left where other guests or staff can see them -- handle them with appropriate discretion, as one would any sensitive document.
 
 ---
 

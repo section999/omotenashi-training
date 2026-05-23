@@ -3,27 +3,24 @@ id: v11-vocab
 section: 20
 title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 ---
-
 **Pronunciation:** [o-na-mae-wo-CHOO-dai-de-ki-ma-su-ka]
 **Register:** Formal/Humble, standard in telephone and check-in contexts
 
 お名前を頂戴できますか is the gold-standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) translates as "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. That framing is not decoration. It reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part. A small shift in vocabulary signals a large shift in attitude.
 
-In hotel telephone scripts, this phrase typically appears early in a call — right after the initial greeting — to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, always repeat the name back slowly and clearly: ○○様でいらっしゃいますね (you are Mr./Ms. ○○, correct?). Speaking slowly when asking for a name is not just courtesy — it reduces transcription errors and routing mistakes, which saves everyone time.
-
-## Example Sentences
+In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, always repeat the name back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name is not just courtesy, it reduces transcription errors and routing mistakes, which saves everyone time\n## Example Sentences
 
 **1.** お名前を頂戴できますか？
 *Onamae wo choudai dekimasu ka.*
-"May I have your name?"
+"May I have one's name?"
 
 **2.** 恐れ入りますが、お名前を頂戴できますか？
 *Osoreirimasu ga, onamae wo choudai dekimasu ka.*
-"I apologize for the inconvenience, but may I have your name?"
+"I apologize for the inconvenience, but may I have one's name?"
 
 **3.** ご予約の確認のため、お名前を頂戴できますか？
 *Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*
-"May I have your name in order to confirm your reservation?"
+"May I have one's name in order to confirm one's reservation?"
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ In hotel telephone scripts, this phrase typically appears early in a call — ri
 
 ## Common Mistakes
 
-Shortening the phrase to お名前は？ or お名前を教えてください when speaking with guests can sound abrupt in a formal service setting. The longer phrase exists for a reason and should be used. Another frequent error is asking for the name but not confirming it back to the caller — that confirmation step is where misspellings and routing errors creep in. It takes about five seconds and prevents a surprising number of problems. Deliver this phrase unhurriedly; the humility it conveys only lands if the tone matches the words.
+Shortening the phrase to お名前は？ or お名前を教えてください when speaking with guests can sound abrupt in a formal service setting. The longer phrase exists for a reason and should be used. Another frequent error is asking for the name but not confirming it back to the caller, that confirmation step is where misspellings and routing errors creep in. It takes about five seconds and prevents a surprising number of problems. Deliver this phrase unhurriedly; the humility it conveys only lands if the tone matches the words.
 
 ---
 

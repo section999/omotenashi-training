@@ -3,12 +3,9 @@ id: v04-vocab
 section: 1
 title: 掃除 (souji)
 ---
-
 掃除 is the everyday Japanese word for cleaning, and it covers the full range of tasks that keep a hotel or ryokan in good condition: dusting furniture, vacuuming carpets, wiping surfaces, sanitizing bathroom fixtures, and refreshing the general presentation of a guest room. In a professional hospitality setting, cleaning is not just a physical task. It is an expression of care and respect toward the guest, and guests notice the difference between a room that has been cleaned and one that has been cleaned thoughtfully.
 
-In daily hotel operations, 掃除 runs on a schedule, typically each morning after checkout or during a guest's absence, and can also be requested on demand. Staff need to be able to talk about this clearly and politely with guests, whether they are asking if the room has already been serviced or want to arrange a specific time. When combined with verbs like 行う (to carry out) or the humble いたす, the word fits naturally into formal guest-facing speech.
-
-## Example Sentences
+In daily hotel operations, 掃除 runs on a schedule, typically each morning after checkout or during a guest's absence, and can also be requested on demand. Staff need to be able to talk about this clearly and politely with guests, whether they are asking if the room has already been serviced or want to arrange a specific time. When combined with verbs like 行う (to carry out) or the humble いたす, the word fits naturally into formal guest-facing speech\n## Example Sentences
 
 **1.** 毎朝、客室の掃除を丁寧に行っております。
 *Maiasa, kyakushitsu no souji wo teinei ni okonatte orimasu.*

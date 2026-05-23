@@ -4,7 +4,7 @@ section: 3
 title: Online Review Response, The Public Face of Recovery
 ---
 
-Online reviews on platforms such as Google, TripAdvisor, and booking sites are a primary source of information for potential guests. A property's response to those reviews is itself a form of hospitality — performed in public and read by people who have never visited. Review responses are not a marketing task. They are a service task.
+Online reviews on platforms such as Google, TripAdvisor, and booking sites are a primary source of information for potential guests. A property's response to those reviews is itself a form of hospitality, performed in public and read by people who have never visited. Review responses are not a marketing task. They are a service task.
 
 ## Why Responding to Reviews Matters
 
@@ -19,7 +19,7 @@ Responding to reviews has a direct impact on how the property is perceived:
 A professional response to a negative review follows a clear structure:
 
 1. **Thank** the reviewer for taking the time to share their feedback.
-2. **Acknowledge** the specific issue they raised — not generically.
+2. **Acknowledge** the specific issue they raised, not generically.
 3. **Apologise** sincerely for the experience, without deflection or excuse.
 4. **Explain** briefly what action has been taken or will be taken, if genuine.
 5. **Invite** the guest to return and contact you directly: "We would be honoured to welcome you again and to show you the standard we aspire to."

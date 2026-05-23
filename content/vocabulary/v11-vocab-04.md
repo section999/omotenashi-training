@@ -3,20 +3,18 @@ id: v11-vocab
 section: 4
 title: 電話番号 (denwa bangou)
 ---
+電話番号 shows up constantly in Japanese hospitality, in reservation confirmations, check-in forms, guest registration cards, and whenever one needs to record contact information for a follow-up call. It's a simple concept, but accuracy matters more than almost anything else here because a single wrong digit breaks the entire communication chain. In Japan, it's a firm cultural expectation that staff will repeat the 電話番号 back to the person who gave it, before ending the call or the interaction, to confirm it was heard correctly.
 
-電話番号 shows up constantly in Japanese hospitality, in reservation confirmations, check-in forms, guest registration cards, and whenever you need to record contact information for a follow-up call. It's a simple concept, but accuracy matters more than almost anything else here because a single wrong digit breaks the entire communication chain. In Japan, it's a firm cultural expectation that staff will repeat the 電話番号 back to the person who gave it, before ending the call or the interaction, to confirm it was heard correctly.
-
-The standard protocol is: ask politely with お電話番号をお伺いできますか, listen carefully while writing, then read the number back in grouped segments, 〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか. Japanese phone numbers are typically divided into three groups separated by hyphens, and reading them that way is much easier for the listener to track and verify. Students often handle that part well for Japanese numbers, but get caught off guard by international guests whose number formats are completely different, so be ready for country codes and varying segment lengths.
-
+The standard protocol is: ask politely with お電話番号をお伺いできますか, listen carefully while writing, then read the number back in grouped segments, 〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか. Japanese phone numbers are typically divided into three groups separated by hyphens, and reading them that way is much easier for the listener to track and verify. A common error is handle that part well for Japanese numbers, but get caught off guard by international guests whose number formats are completely different, so be ready for country codes and varying segment lengths.
 ## Example Sentences
 
 **1.** ご予約の確認のため、お電話番号をお伺いできますか。
 *Goyoyaku no kakunin no tame, odenwa bangō wo oukagai dekimasu ka.*
-"May I have your phone number to confirm your reservation?"
+"May I have one's phone number to confirm one's reservation?"
 
 **2.** 折り返しご連絡いたしますので、お電話番号を教えていただけますか。
 *Orikaeshi gorenraku itashimasu no de, odenwa bangō wo oshiete itadakemasu ka.*
-"We will call you back, so could you please give us your phone number?"
+"We will call you back, so could you please give us one's phone number?"
 
 **3.** ホテルの電話番号は03-1234-5678でございます。
 *Hoteru no denwa bangō wa zero san no ichi ni san yon no go roku nana hachi de gozaimasu.*
@@ -29,7 +27,7 @@ The standard protocol is: ask politely with お電話番号をお伺いできま
 
 ## Common Mistakes
 
-The most critical mistake is simply not reading the 電話番号 back. In Japanese hotel culture this confirmation step is mandatory, not something you do when you feel like it. Worth noting as well: 電話番号 and 部屋番号 (room number) are easy to mix up when you're working quickly, and the consequences of that confusion can range from misdirected calls to undelivered messages. When you do the readback, take your time, especially with international numbers. Rushing through unfamiliar digit sequences is how mishearings slip through.
+The most critical mistake is not reading the 電話番号 back. In Japanese hotel culture this confirmation step is mandatory, not something one does when one feels like it. Worth noting as well: 電話番号 and 部屋番号 (room number) are easy to mix up when one is working quickly, and the consequences of that confusion can range from misdirected calls to undelivered messages. When one does the readback, take one's time, especially with international numbers. Rushing through unfamiliar digit sequences is how mishearings slip through.
 
 ---
 

@@ -3,12 +3,9 @@ id: v11-vocab
 section: 5
 title: お繋ぎします (otsunagi shimasu)
 ---
+お繋ぎします is the standard phrase for telling a caller they're being transferred or connected to another person or department. What makes it different from just pressing a button is the commitment it carries: when one says お繋ぎします, one is personally taking responsibility for making sure that connection succeeds. That reassurance matters to the guest, who might otherwise worry about being dropped into a loop or left on a silent line wondering if anyone is there.
 
-お繋ぎします is the standard phrase for telling a caller they're being transferred or connected to another person or department. What makes it different from just pressing a button is the commitment it carries: when you say お繋ぎします, you're personally taking responsibility for making sure that connection succeeds. That reassurance matters to the guest, who might otherwise worry about being dropped into a loop or left on a silent line wondering if anyone is there.
-
-Best practice in Japanese hotel phone etiquette is to always name the destination before you say お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is the gold standard: briefly explain the guest's situation to the receiving party before completing the connection, so the guest doesn't have to start from scratch repeating themselves. That one extra step makes a noticeable difference in how the service feels.
-
-## Example Sentences
+Best practice in Japanese hotel phone etiquette is to always name the destination before one says お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is the gold standard: briefly explain the guest's situation to the receiving party before completing the connection, so the guest doesn't have to start from scratch repeating themselves. That one extra step makes a noticeable difference in how the service feels\n## Example Sentences
 
 **1.** 宿泊予約担当者にお繋ぎいたします。少々お待ちください。
 *Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.*
@@ -29,7 +26,7 @@ Best practice in Japanese hotel phone etiquette is to always name the destinatio
 
 ## Common Mistakes
 
-Students often say お繋ぎします without specifying where the call is going, which leaves the caller uncertain and a little anxious about who will pick up. Always name the department or person first. There's also a common register slip worth watching: つなぎます is plain form and too casual for guest-facing speech; use お繋ぎします or, for full keigo, お繋ぎいたします. One more thing: check that the receiving party is actually available before you initiate the transfer. Connecting a caller to a line that rings and rings with no answer is worse than simply asking them to hold while you sort it out.
+A common error is to say お繋ぎします without specifying where the call is going, which leaves the caller uncertain and a little anxious about who will pick up. Always name the department or person first. There's also a common register slip worth watching: つなぎます is plain form and too casual for guest-facing speech; use お繋ぎします or, for full keigo, お繋ぎいたします. Additionally: check that the receiving party is available before one initiate the transfer. Connecting a caller to a line that rings and rings with no answer is worse than simply asking them to hold while one sort it out.
 
 ---
 

@@ -3,12 +3,9 @@ id: v08-vocab
 section: 23
 title: 徒歩 (toho)
 ---
-
 徒歩 (徒歩) reads as "foot travel" and is the formal Japanese term for traveling on foot. In the context of hospitality, it is most powerfully used in the pattern 徒歩〇分 (〇-minute walk), which gives guests a practical, intuitive sense of distance that maps and street names alone cannot convey. This phrasing is ubiquitous in Japan, on Google Maps, station signage, restaurant websites, and hotel concierge guidance, because Japanese urban culture is highly pedestrian-oriented, and walking time is the primary unit of navigational distance. For international guests unfamiliar with Japanese geography, a confident 徒歩10分 from the front desk is far more useful than a street address or a distance in kilometers.
 
-In practice, 徒歩 nearly always appears alongside 約 (approximately) and a specific minute count: 駅まで徒歩約10分です. Staff should calibrate these estimates carefully, accounting for traffic lights, elevation changes, and the pace of an average guest with luggage. For elderly guests or guests with heavy bags, staff at quality properties also consider proactively suggesting alternatives: 徒歩ですと少々遠くなりますので、タクシーをご用意いたしましょうか (it is a bit far on foot; shall we arrange a taxi for you?). This anticipation of need is a hallmark of Japanese hospitality culture.
-
-## Example Sentences
+徒歩 nearly always appears alongside 約 (approximately) and a specific minute count: 駅まで徒歩約10分です. Staff should calibrate these estimates carefully, accounting for traffic lights, elevation changes, and the pace of an average guest with luggage. For elderly guests or guests with heavy bags, staff at quality properties also consider proactively suggesting alternatives: 徒歩ですと少々遠くなりますので、タクシーをご用意いたしましょうか (it is a bit far on foot; shall we arrange a taxi for one?). This anticipation of need reflects Japanese hospitality culture\n## Example Sentences
 
 **1.** 駅まで徒歩10分です。地図をお持ちいたしましょうか。
 *Eki made toho juppun desu. Chizu o omochi itashimashou ka.*

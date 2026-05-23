@@ -3,12 +3,9 @@ id: v03-vocab
 section: 8
 title: 喫煙 (kitsuen)
 ---
-
 喫煙 (kitsuen) means "smoking" and designates areas, floors, or rooms where tobacco use is permitted. The word pairs with 禁煙 (kin'en, non-smoking) as its direct opposite, and together these two terms form the core vocabulary for managing smoking preferences in any Japanese hospitality setting. With Japan's indoor smoking regulations becoming increasingly stringent, particularly after revisions to the Health Promotion Act, smoking rooms are now a minority offering in many urban hotels. Some properties still maintain designated 喫煙室 (smoking rooms) or 喫煙フロア (smoking floors), and guests who smoke will actively request them.
 
-When a guest requests a 喫煙室, staff should confirm availability promptly, state the floor or room number clearly, and note any specific usage conditions (e.g., ventilated balconies, designated smoking lounges). If no 喫煙室 is available, the refusal must be delivered with a sincere apology and, where possible, guidance to the nearest outdoor smoking area. Using the term accurately and without hesitation shows professionalism and prevents the costly error of assigning a non-smoking guest to a smoking room.
-
-## Example Sentences
+When a guest requests a 喫煙室, staff should confirm availability promptly, state the floor or room number clearly, and note any specific usage conditions (e.g., ventilated balconies, designated smoking lounges). If no 喫煙室 is available, the refusal must be delivered with a sincere apology and, where possible, guidance to the nearest outdoor smoking area. Using the term accurately and without hesitation shows professionalism and prevents the costly error of assigning a non-smoking guest to a smoking room\n## Example Sentences
 
 **1.** 喫煙室のご希望でございますね。ただいま空き状況を確認いたします。
 *Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.*
@@ -24,12 +21,12 @@ When a guest requests a 喫煙室, staff should confirm availability promptly, s
 
 ## Related Expressions
 
-- **禁煙 (kin'en)**: "non-smoking"; the antonym and essential partner term; always confirm which type a guest requires and verify carefully against the room assignment.
+- **禁煙 (kin'en)**: "non-smoking"; the antonym and essential partner term; staff should confirm which type a guest requires and verify carefully against the room assignment.
 - **喫煙スペース (kitsuen supeesu)**: "smoking area/space"; the designated outdoor or ventilated zone for smokers when no smoking room is available; useful when managing overflow or full properties.
 
 ## Common Mistakes
 
-The most consequential mistake is assigning a 喫煙室 to a guest who requested 禁煙. The odour in a smoking room is immediately apparent and almost impossible to remedy, leading to strong complaints. 喫煙 is also occasionally confused with 喫茶 (kissa, café/tea drinking) due to the similar first kanji 喫 — context will almost always make the meaning clear, but being aware of the distinction helps. Never use the casual phrase タバコ部屋 (tabako heya, "cigarette room") in formal guest communication. 喫煙室 is the correct professional term.
+The most consequential mistake is assigning a 喫煙室 to a guest who requested 禁煙. The odour in a smoking room is immediately apparent and almost impossible to remedy, leading to strong complaints. 喫煙 is also occasionally confused with 喫茶 (kissa, café/tea drinking) due to the similar first kanji 喫, context will almost always make the meaning clear, but being aware of the distinction helps. Never use the casual phrase タバコ部屋 (tabako heya, "cigarette room") in formal guest communication. 喫煙室 is the correct professional term.
 
 ---
 

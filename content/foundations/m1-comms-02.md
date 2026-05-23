@@ -8,7 +8,7 @@ Eye contact is one of the most culturally variable elements of interpersonal com
 
 ## The Japanese Hospitality Approach
 
-In Japanese professional contexts, eye contact is brief, warm, and intentional — enough to show genuine attention and acknowledgement, but not so prolonged that it creates discomfort or feels challenging.
+In Japanese professional contexts, eye contact is brief, warm, and intentional, enough to show genuine attention and acknowledgement, but not so prolonged that it creates discomfort or feels challenging.
 
 The goal is for eye contact to make the guest feel seen, not scrutinised. A glance that communicates "I notice you and you matter" is different from a stare that communicates "I am watching you." This is not about being evasive; it is about calibrating the signal to convey respect rather than dominance.
 
@@ -16,11 +16,11 @@ The goal is for eye contact to make the guest feel seen, not scrutinised. A glan
 
 Eye contact changes meaning depending on context:
 
-- **During a greeting or bow:** as you bow, eye contact naturally breaks — this is correct and appropriate. Meeting the guest's eyes as you straighten to complete the bow is the natural close of the gesture.
+- **During a greeting or bow:** as you bow, eye contact naturally breaks, this is correct and appropriate. Meeting the guest's eyes as you straighten to complete the bow is the natural close of the gesture.
 - **While listening:** soften your gaze and maintain intermittent contact. Looking away briefly is not rudeness; it often signals that you are processing what is being said rather than simply waiting to respond.
 - **During a complaint or apology:** a downward gaze combined with a slight bow communicates humility and acknowledgement. Maintaining hard eye contact during an apology can read as defiance or defensiveness.
 - **When guiding a guest:** make periodic eye contact to check that they are following comfortably and have not fallen behind or become confused.
-- **In a group:** distribute eye contact among all members. Consistently directing attention to one person while ignoring another is a service error — all guests present deserve acknowledgement.
+- **In a group:** distribute eye contact among all members. Consistently directing attention to one person while ignoring another is a service error, all guests present deserve acknowledgement.
 
 ## Cultural Differences to Be Aware Of
 
@@ -50,7 +50,7 @@ Rarely said directly to a guest, but useful as a personal reminder: when engagin
 *Shōshō shitsurei itashimasu.*
 "Pardon me for a moment."
 
-Said when you need to briefly divert your attention — to check a record or answer a colleague's question — signalling to the guest that your full attention will return promptly.
+Said when you need to briefly divert your attention, to check a record or answer a colleague's question, signalling to the guest that your full attention will return promptly.
 
 ---
 

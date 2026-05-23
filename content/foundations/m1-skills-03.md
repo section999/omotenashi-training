@@ -16,7 +16,7 @@ Hearing only the stated request is efficient. Hearing the implied context is car
 
 ## The Pattern of Excellent Request Handling
 
-**1. Confirm clearly.** Repeat the request back to ensure accuracy. "Certainly, two extra pillows — I'll bring those up shortly." This prevents errors and tells the guest they have been heard.
+**1. Confirm clearly.** Repeat the request back to ensure accuracy. "Certainly, two extra pillows, I'll bring those up shortly." This prevents errors and tells the guest they have been heard.
 
 **2. Act immediately.** Do not delay, hedge, or give a vague timeline unless one is genuinely necessary. "I'll have that for you right away" is the standard. If there will be a wait, say so specifically: "It will take approximately fifteen minutes. Shall I bring it as soon as it is ready?"
 

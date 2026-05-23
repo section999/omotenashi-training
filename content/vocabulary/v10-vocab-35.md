@@ -3,12 +3,9 @@ id: v10-vocab
 section: 35
 title: QRコード (kyuu aru koodo)
 ---
+QRコード stands for "Quick Response Code," and it's now a notable common payment interfaces one will encounter in Japanese hospitality. Guests open apps like PayPay, LINE Pay, or d-払い, scan the code one display, and the transaction completes without any physical contact. Beyond payments, QRコード show up for digital menus, Wi-Fi access, and informational guides, so one will be working with them constantly in a modern hotel or restaurant environment.
 
-QRコード stands for "Quick Response Code," and it's now one of the most common payment interfaces you'll encounter in Japanese hospitality. Guests open apps like PayPay, LINE Pay, or d-払い, scan the code you display, and the transaction completes without any physical contact. Beyond payments, QRコード show up for digital menus, Wi-Fi access, and informational guides, so you'll be working with them constantly in a modern hotel or restaurant environment.
-
-When you're guiding a guest through a QRコード payment, present the code clearly at a comfortable angle, make sure the surface is clean and undamaged, and confirm that the amount showing in the guest's app matches the actual total before they confirm. Then wait for the 決済完了 (payment complete) signal on your own terminal before wrapping up. Worth noting: if a guest's app refuses to read the code, check for anything blocking the scanner or interfering with the display, and offer an alternative payment method calmly without any hint of frustration.
-
-## Example Sentences
+When one is guiding a guest through a QRコード payment, present the code clearly at a comfortable angle, make sure the surface is clean and undamaged, and confirm that the amount showing in the guest's app matches the actual total before they confirm. Then wait for the 決済完了 (payment complete) signal on one's own terminal before wrapping up. Note: if a guest's app refuses to read the code, check for anything blocking the scanner or interfering with the display, and offer an alternative payment method calmly without any hint of frustration\n## Example Sentences
 
 **1.** こちらのQRコードでお支払いいただけます。
 *Kochira no kyūāru kōdo de oshiharai itadakemasu.*
@@ -16,7 +13,7 @@ When you're guiding a guest through a QRコード payment, present the code clea
 
 **2.** スマートフォンのカメラでQRコードをお読み取りください。
 *Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*
-"Please scan the QR code with your smartphone camera."
+"Please scan the QR code with one's smartphone camera."
 
 **3.** お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。
 *Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*
@@ -29,7 +26,7 @@ When you're guiding a guest through a QRコード payment, present the code clea
 
 ## Common Mistakes
 
-Students often present a QRコード before confirming the amount, which means the guest can end up paying the wrong total. That's a hard situation to fix after the fact, so make amount confirmation a habit before you display the code. A dirty or physically damaged code will simply refuse to scan, so check the condition of any printed code regularly. Different payment apps also have slightly different scanning procedures, so be ready to guide guests who are unfamiliar rather than assuming they'll figure it out themselves.
+A common error is present a QRコード before confirming the amount, which means the guest can end up paying the wrong total. That's a hard situation to fix after the fact, so make amount confirmation a habit before one display the code. A dirty or physically damaged code will simply refuse to scan, so check the condition of any printed code regularly. Different payment apps also have slightly different scanning procedures, so be ready to guide guests who are unfamiliar rather than assuming they'll figure it out themselves.
 
 ---
 

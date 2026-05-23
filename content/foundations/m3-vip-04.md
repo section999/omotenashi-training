@@ -8,7 +8,7 @@ Many VIP guests arrive with a support team: personal assistants, security person
 
 ## The Personal Assistant or Chief of Staff
 
-In many cases, a PA or chief of staff is the primary point of contact for the property. They manage the guest's schedule, communicate preferences, and approve arrangements. Treat them with the same attentiveness as the principal guest — they carry delegated authority and significant influence over how the guest perceives the stay.
+In many cases, a PA or chief of staff is the primary point of contact for the property. They manage the guest's schedule, communicate preferences, and approve arrangements. Treat them with the same attentiveness as the principal guest, they carry delegated authority and significant influence over how the guest perceives the stay.
 
 Establish contact before arrival: *"I understand you are coordinating Mr/Ms ○○'s stay. I am ○○, and I will be your point of contact throughout. Please let me know anything you need."* This contact should be made proactively, before they need to ask for it.
 
@@ -24,7 +24,7 @@ Support staff have their own rooms, meals, and logistical requirements. These ar
 
 ## The Internal Briefing
 
-Every staff member who may come into contact with the VIP guest or their entourage should be briefed — not on personal details, but on name pronunciation, preferred form of address, known sensitivities, and the scale of the party.
+Every staff member who may come into contact with the VIP guest or their entourage should be briefed, not on personal details, but on name pronunciation, preferred form of address, known sensitivities, and the scale of the party.
 
 An uninformed colleague can undo careful preparation in a single interaction. Briefing the full team before arrival prevents this.
 

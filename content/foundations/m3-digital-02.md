@@ -24,7 +24,7 @@ In Japanese telephone conversation, the listener regularly signals that they are
 - *"承知いたしました"* (understood)
 - *"かしこまりました"* (certainly)
 
-These are not interruptions. They are required social signals. Silence on a phone call communicates disconnection — or that the line has dropped. These acknowledgements may feel unfamiliar at first, but they become natural with practice.
+These are not interruptions. They are required social signals. Silence on a phone call communicates disconnection, or that the line has dropped. These acknowledgements may feel unfamiliar at first, but they become natural with practice.
 
 ## Taking a Message
 

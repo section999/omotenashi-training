@@ -3,15 +3,12 @@ id: v08-vocab
 section: 6
 title: 交差点 (kousaten)
 ---
-
 **Pronunciation:** [kou-**sa**-ten]
 **Register:** Formal/Neutral, standard in outdoor directional guidance
 
 交差点 means "intersection" and refers to the point where two or more roads cross, typically governed by traffic signals. In hotel hospitality, this word becomes essential whenever staff give directions that extend beyond the building's interior: to nearby restaurants, train stations, tourist attractions, or transport hubs. Traffic lights are unmistakable, fixed landmarks that guests can see from a distance, which makes intersection-based navigation unusually reliable. Giving clear, safe directions involving 交差点 is a direct expression of genuine care for the guest's well-being, not just their navigation.
 
-When using 交差点 in guidance, always specify what the guest should do at it: whether to cross it (渡る), turn at it (曲がる), or simply use it as a reference point. Mentioning the traffic signal (信号) alongside it helps guests locate the intersection before they reach it. For guests unfamiliar with local traffic flow, a reminder to wait for the signal and stay alert for bicycles (自転車にご注意ください) is exactly the kind of proactive thoughtfulness that distinguishes omotenashi hospitality from ordinary service.
-
-## Example Sentences
+When using 交差点 in guidance, always specify what the guest should do at it: whether to cross it (渡る), turn at it (曲がる), or simply use it as a reference point. Mentioning the traffic signal (信号) alongside it helps guests locate the intersection before they reach it. For guests unfamiliar with local traffic flow, a reminder to wait for the signal and stay alert for bicycles (自転車にご注意ください) is exactly the kind of proactive thoughtfulness that distinguishes omotenashi hospitality from ordinary service\n## Example Sentences
 
 **1.** 交差点を渡って左に曲がってください。
 *Kousaten wo watatte hidari ni magatte kudasai.*
@@ -23,7 +20,7 @@ When using 交差点 in guidance, always specify what the guest should do at it:
 
 **3.** 駅はこの交差点を直進すると左手にございます。
 *Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.*
-"The station is on the left if you go straight through this intersection."
+"The station is on the left if one go straight through this intersection."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ When using 交差点 in guidance, always specify what the guest should do at it:
 
 ## Common Mistakes
 
-A frequent error is using 交差点 to describe a corridor junction inside a building. In indoor spaces, 角 is the correct and natural term. Students sometimes also forget to specify the action at the intersection, whether the guest should cross it or turn at it, leaving them standing at the signal unsure what to do next. In practice, omitting the safety reminder about traffic signals is a missed opportunity. True omotenashi means giving guests information that keeps them safe, not just information that gets them to their destination. Worth noting is that cyclists often run red lights in Japan, so mentioning 自転車にご注意ください is not overcaution.
+A frequent error is using 交差点 to describe a corridor junction inside a building. In indoor spaces, 角 is the correct and natural term. A common error is to also forget to specify the action at the intersection, whether the guest should cross it or turn at it, leaving them standing at the signal unsure what to do next. omitting the safety reminder about traffic signals is a missed opportunity. True omotenashi means giving guests information that keeps them safe, not just information that gets them to their destination. Worth noting is that cyclists often run red lights in Japan, so mentioning 自転車にご注意ください is not overcaution.
 
 ---
 

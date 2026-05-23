@@ -3,15 +3,12 @@ id: v10-vocab
 section: 19
 title: 残高 (zandaka)
 ---
-
 **Pronunciation:** [zan-**da**-ka]
 **Register:** Formal/Neutral, standard in front desk and billing conversations
 
 残高 is the word for a remaining balance, and it covers two distinct situations. On one side, a guest with a prepaid account or hotel card may still have money available to spend (positive 残高). On the other, a guest may have used services and not yet fully paid (outstanding 残高). The same word covers both directions, so context is essential: is the 残高 money the guest has available, or money they still owe?
 
-Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without any stress. How you communicate this matters just as much as when you do it: 残高 conversations should always be calm, private, and matter-of-fact.
-
-## Example Sentences
+Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without any stress. How one communicates this matters just as much as when one does it: 残高 conversations should always be calm, private, and matter-of-fact\n## Example Sentences
 
 **1.** 現在のご残高は〇〇円でございます。
 *Genzai no go-zandaka wa 〇〇-en de gozaimasu.*
@@ -19,15 +16,15 @@ Keeping track of 残高 is a quiet but critical part of smooth hospitality opera
 
 **2.** 残高が不足している場合はお知らせいたします。
 *Zandaka ga fusoku shite iru baai wa oshirase itashimasu.*
-"We will notify you if your balance is insufficient."
+"We will notify you if one's balance is insufficient."
 
 **3.** プリペイドカードの残高をご確認いただけますか。
 *Puripeido kaado no zandaka o go-kakunin itadakemasu ka.*
-"Could you please check the balance on your prepaid card?"
+"Could you please check the balance on one's prepaid card?"
 
 ## Related Expressions
 
-- **不足 (fusoku)**: 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound you reach for when a balance falls short of a charge; knowing this pairing lets you communicate payment shortfalls precisely without sounding blunt.
+- **不足 (fusoku)**: 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound one reach for when a balance falls short of a charge; knowing this pairing lets one communicates payment shortfalls precisely without sounding blunt.
 - **合計 (goukei)**: 合計 is the full total owed, while 残高 is what remains after partial payment or what sits in a prepaid account; together they give both staff and guests a clear picture of where things stand at checkout.
 
 ## Common Mistakes

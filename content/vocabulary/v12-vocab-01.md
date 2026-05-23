@@ -3,12 +3,9 @@ id: v12-vocab
 section: 1
 title: 緊急 (kinkyuu)
 ---
+緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency, and it is a notable operationally important words in Japanese hospitality. In hotels, ryokan, and restaurants, emergencies range from natural disasters like earthquakes and fires to medical incidents or security threats. Staff who recognise and respond to 緊急 situations without hesitation directly uphold the guest's physical safety, which is the highest expression of omotenashi. Clear communication using this word signals to colleagues and guests alike that normal procedures are suspended and life-safety protocols take priority.
 
-緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency, and it is one of the most operationally important words in Japanese hospitality. In hotels, ryokan, and restaurants, emergencies range from natural disasters like earthquakes and fires to medical incidents or security threats. Staff who recognise and respond to 緊急 situations without hesitation directly uphold the guest's physical safety, which is the highest expression of omotenashi. Clear communication using this word signals to colleagues and guests alike that normal procedures are suspended and life-safety protocols take priority.
-
-In practice, 緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity, saying 緊急 without a genuine emergency is a serious breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what you are doing) ensures guests understand not just the severity but the expected response.
-
-## Example Sentences
+緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity, saying 緊急 without a genuine emergency is a serious breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what one is doing) ensures guests understand not just the severity but the expected response\n## Example Sentences
 
 **1.** 緊急の場合はすぐにフロントに連絡してください。
 *Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.*
@@ -29,7 +26,7 @@ In practice, 緊急 appears in internal announcements, emergency manuals, signag
 
 ## Common Mistakes
 
-Learners sometimes use 急いで or 大変 interchangeably with 緊急, but these do not carry the formal, life-safety weight required in an emergency announcement. Another error is omitting a specific follow-up instruction: saying only 「緊急です」 without directing guests to a clear action can increase panic rather than reduce it. Finally, 緊急 should not be used for minor service inconveniences such as a delayed room cleaning, as this dilutes its impact.
+A common mistake is to use 急いで or 大変 interchangeably with 緊急, but these do not carry the formal, life-safety weight required in an emergency announcement. Another error is omitting a specific follow-up instruction: saying only 「緊急です」 without directing guests to a clear action can increase panic rather than reduce it. Finally, 緊急 should not be used for minor service inconveniences such as a delayed room cleaning, as this dilutes its impact.
 
 ---
 

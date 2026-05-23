@@ -3,12 +3,9 @@ id: v05-vocab
 section: 11
 title: 紅茶 (koucha)
 ---
+紅茶, literally "red tea," is the Japanese term for black tea and is a commonly offered beverages in hotel dining alongside コーヒー. While green tea (お茶 or 緑茶) remains the quintessential Japanese beverage, 紅茶 became firmly established in Japan during the Meiji era through Western influence, and today it occupies a central place in hotel afternoon tea services, breakfast menus, and post-dinner offerings. In luxury hotels, a thoughtfully curated 紅茶 selection, Darjeeling, Earl Grey, Assam, or Japanese domestic varieties, is part of the beverage identity. Staff who can describe the character of each blend demonstrate a level of knowledge that guests appreciate.
 
-紅茶, literally "red tea," is the Japanese term for black tea and is one of the most commonly offered beverages in hotel dining alongside コーヒー. While green tea (お茶 or 緑茶) remains the quintessential Japanese beverage, 紅茶 became firmly established in Japan during the Meiji era through Western influence, and today it occupies a central place in hotel afternoon tea services, breakfast menus, and post-dinner offerings. In luxury hotels, a thoughtfully curated 紅茶 selection — Darjeeling, Earl Grey, Assam, or Japanese domestic varieties — is part of the beverage identity. Staff who can describe the character of each blend demonstrate a level of knowledge that guests genuinely appreciate.
-
-When offering 紅茶 to a guest, present accompaniment choices clearly: whether milk (ミルク), lemon (レモン), or honey (はちみつ) is available, and whether the temperature can be adjusted. For guests in the afternoon tea lounge, explaining the recommended steeping time or the origin of a particular leaf adds a storytelling dimension to the service. Proactively refilling the hot water pot so the guest can brew a second cup without asking is a small but meaningful gesture of attentiveness.
-
-## Example Sentences
+When offering 紅茶 to a guest, present accompaniment choices clearly: whether milk (ミルク), lemon (レモン), or honey (はちみつ) is available, and whether the temperature can be adjusted. For guests in the afternoon tea lounge, explaining the recommended steeping time or the origin of a particular leaf adds a storytelling dimension to the service. Proactively refilling the hot water pot so the guest can brew a second cup without asking is a small but meaningful gesture of attentiveness\n## Example Sentences
 
 **1.** 紅茶もご用意できますが、いかがでしょうか。
 *Koucha mo go-youi dekimasu ga, ikaga deshou ka.*
@@ -29,7 +26,7 @@ When offering 紅茶 to a guest, present accompaniment choices clearly: whether 
 
 ## Common Mistakes
 
-Assuming all tea-drinking guests want コーヒーの代わりに紅茶 (black tea as a coffee substitute) is a common error — some guests may actually prefer green tea or herbal options. Always ask rather than assume. Forgetting to offer milk or lemon when bringing 紅茶 is a notable oversight in formal service. Staff should also avoid steeping the tea for the guest without offering the option, as some guests prefer to control the strength themselves. This step is easy to skip when busy, but it is one of those small details that guests remember.
+Assuming all tea-drinking guests want コーヒーの代わりに紅茶 (black tea as a coffee substitute) is a common error, some guests may prefer green tea or herbal options. Always ask rather than assume. Forgetting to offer milk or lemon when bringing 紅茶 is a notable oversight in formal service. Staff should also avoid steeping the tea for the guest without offering the option, as some guests prefer to control the strength themselves. This step is easy to skip when busy, but it is one of those small details that guests remember.
 
 ---
 

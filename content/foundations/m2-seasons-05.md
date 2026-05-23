@@ -26,7 +26,7 @@ Traditional New Year's decorations reflect the cultural significance of the seas
 
 ## Seasonal Food and Drink
 
-- *Osechi ryōri* (おせち料理): the traditional New Year's meal, in which each dish carries symbolic meaning — black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
+- *Osechi ryōri* (おせち料理): the traditional New Year's meal, in which each dish carries symbolic meaning, black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
 - Winter hot pot (*nabe*): communal, warming, and deeply seasonal
 - Warming sake, amazake (甘酒, sweet fermented rice drink), and yuzu-based drinks
 

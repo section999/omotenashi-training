@@ -8,7 +8,7 @@ title: Kaizen, Continuous Improvement
 
 ## The Character of Kaizen
 
-改 means "to change" or "to reform." 善 means "good" or "better." Together: to change toward the better. Not toward perfection — toward better. That difference matters more than it might seem. Perfection is a fixed endpoint that no one can actually reach. Better is always within reach. The kaizen mindset fixes its attention on what is possible right now, with what is available right now.
+改 means "to change" or "to reform." 善 means "good" or "better." Together: to change toward the better. Not toward perfection, toward better. That difference matters more than it might seem. Perfection is a fixed endpoint that no one can actually reach. Better is always within reach. The kaizen mindset fixes its attention on what is possible right now, with what is available right now.
 
 ## Kaizen in Hospitality
 
@@ -23,7 +23,7 @@ Each of these is a small thing. None of them alone is remarkable. A person who d
 
 ## Kaizen and Humility
 
-Kaizen asks for honest recognition that however good your current practice is, it can be better. This is not about doubting yourself. The best hospitality professionals in Japan are, without exception, people who believe they still have a great deal to learn — not because they lack confidence, but because they genuinely understand that excellent service has no ceiling.
+Kaizen asks for honest recognition that however good your current practice is, it can be better. This is not about doubting yourself. The best hospitality professionals in Japan are, without exception, people who believe they still have a great deal to learn, not because they lack confidence, but because they genuinely understand that excellent service has no ceiling.
 
 ---
 

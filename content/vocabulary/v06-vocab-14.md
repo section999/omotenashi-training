@@ -3,11 +3,9 @@ id: v06-vocab
 section: 14
 title: 停電 (teiden)
 ---
-
 停電 (停電) is written with the characters for "stopping" (停) and "electricity" (電), literally meaning a halt in electrical power. Power outages in Japanese hotels are treated as serious operational incidents, and how staff communicate during one reflects directly on the property's reputation. Guests who are calmly informed feel cared for; guests who discover a problem on their own feel neglected. Knowing this word enables staff to act as a reassuring presence during an unexpected event.
 
-In practice, 停電 is announced promptly over intercom, at the front desk, or directly in corridors. Staff use it in phrases such as 「現在、停電が発生しております」 (a power outage is currently occurring) and 「停電により、ご不便をおかけしております」 (we apologize for the inconvenience caused by the power outage). Emergency lighting, candles in ryokan, and battery-powered flashlights are standard equipment to offer guests. Staff should always pair the announcement with an estimated resolution time when available and a clear instruction about what guests should do.
-
+停電 is announced promptly over intercom, at the front desk, or directly in corridors. Staff use it in phrases such as 「現在、停電が発生しております」 (a power outage is currently occurring) and 「停電により、ご不便をおかけしております」 (we apologize for the inconvenience caused by the power outage). Emergency lighting, candles in ryokan, and battery-powered flashlights are standard equipment to offer guests. staff should pair the announcement with an estimated resolution time when available and a clear instruction about what guests should do.
 ## Example Sentences
 
 **1.** 現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。
@@ -29,7 +27,7 @@ In practice, 停電 is announced promptly over intercom, at the front desk, or d
 
 ## Common Mistakes
 
-Learners sometimes confuse 停電 with 故障 and use them interchangeably, but this leads to miscommunication: telling a guest there is a 停電 when only the air conditioner has broken down (故障) is inaccurate and may cause unnecessary alarm. Another common error is announcing 停電が起きました (occurred, past tense) when the outage is still active; the correct ongoing form is 停電が発生しております. Staff should also avoid casual phrasing like 「電気が消えました」in formal guest-facing situations, as it sounds imprecise.
+A common mistake is to confuse 停電 with 故障 and use them interchangeably, but this leads to miscommunication: telling a guest there is a 停電 when only the air conditioner has broken down (故障) is inaccurate and may cause unnecessary alarm. Another common error is announcing 停電が起きました (occurred, past tense) when the outage is still active; the correct ongoing form is 停電が発生しております. Staff should also avoid casual phrasing like 「電気が消えました」in formal guest-facing situations, as it sounds imprecise.
 
 ---
 

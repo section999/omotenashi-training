@@ -10,7 +10,7 @@ In a professional context, it is the difference between service that feels natur
 
 ## Why This Skill Matters
 
-Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is present — in their posture, their pace, their tone, the brevity of their responses — but it must be read, not waited for.
+Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is present, in their posture, their pace, their tone, the brevity of their responses, but it must be read, not waited for.
 
 ## Contrasting Guests
 

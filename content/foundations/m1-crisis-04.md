@@ -4,17 +4,17 @@ section: 4
 title: The Anatomy of a Sincere Apology
 ---
 
-Not all apologies are equal. A poor apology can make a situation significantly worse — performing concern rather than expressing genuine care, or subtly shifting responsibility in ways that deepen the guest's sense of injustice. Understanding what makes an apology sincere, and practising it until the pattern is instinctive, is one of the most valuable skills in hospitality.
+Not all apologies are equal. A poor apology can make a situation significantly worse, performing concern rather than expressing genuine care, or subtly shifting responsibility in ways that deepen the guest's sense of injustice. Understanding what makes an apology sincere, and practising it until the pattern is instinctive, is one of the most valuable skills in hospitality.
 
 ## What a Poor Apology Looks Like
 
 Several common apology patterns fail to communicate genuine care:
 
-- *"I'm sorry you feel that way"* — apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.
-- *"I apologise if there was an issue"* — the conditional "if" implies doubt that anything actually went wrong.
-- *"We're very busy tonight"* — offering an explanation before an apology deflects responsibility before acknowledging impact.
-- *"I'll pass that feedback along"* — distances the staff member from the problem and relocates it elsewhere.
-- *"That's not normally how we operate"* — prioritises the property's reputation over the guest's experience.
+- *"I'm sorry you feel that way"*, apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.
+- *"I apologise if there was an issue"*, the conditional "if" implies doubt that anything actually went wrong.
+- *"We're very busy tonight"*, offering an explanation before an apology deflects responsibility before acknowledging impact.
+- *"I'll pass that feedback along"*, distances the staff member from the problem and relocates it elsewhere.
+- *"That's not normally how we operate"*, prioritises the property's reputation over the guest's experience.
 
 Each of these patterns, however subtly, communicates: I am managing this situation, not caring about you. Staff sometimes reach for these phrases under pressure because they feel safer. They are not safer. They usually make things worse.
 
@@ -22,7 +22,7 @@ Each of these patterns, however subtly, communicates: I am managing this situati
 
 ### 1. It Names the Issue Specifically
 
-Not "I'm sorry for any inconvenience" — this phrase has become so overused it carries almost no weight. Instead: "I'm sorry that the noise last night disturbed your sleep." The specificity shows that the situation was understood, not just acknowledged.
+Not "I'm sorry for any inconvenience", this phrase has become so overused it carries almost no weight. Instead: "I'm sorry that the noise last night disturbed your sleep." The specificity shows that the situation was understood, not just acknowledged.
 
 ### 2. It Is Unconditional
 
@@ -30,15 +30,15 @@ No "but," no explanation first, no investigation attached. The apology stands al
 
 ### 3. It Acknowledges Impact
 
-Beyond the event itself, a sincere apology acknowledges what the event meant to the guest. A late room was not just late — it disrupted their plans, their rest, their evening. "I understand how disruptive that must have been for your first night with us." This step is often skipped, but it is where the emotional connection of the apology is made.
+Beyond the event itself, a sincere apology acknowledges what the event meant to the guest. A late room was not just late, it disrupted their plans, their rest, their evening. "I understand how disruptive that must have been for your first night with us." This step is often skipped, but it is where the emotional connection of the apology is made.
 
 ### 4. It Is Followed Immediately by Action
 
-An apology without resolution is hollow. The action — whether a room change, a replacement item, or a compensation offer — must follow within the same breath. The apology says "I acknowledge what happened." The action says "and I am going to change it."
+An apology without resolution is hollow. The action, whether a room change, a replacement item, or a compensation offer, must follow within the same breath. The apology says "I acknowledge what happened." The action says "and I am going to change it."
 
 ## The Japanese Standard
 
-**大変申し訳ございません (taihen mōshiwake gozaimasen)**, literally "I have absolutely no excuse for this," captures the correct spirit. The word *mōshiwake* (申し訳) means "justification" or "excuse"; the phrase states there is none. There is no defence, no qualification — only complete acknowledgement and the intention to make it right.
+**大変申し訳ございません (taihen mōshiwake gozaimasen)**, literally "I have absolutely no excuse for this," captures the correct spirit. The word *mōshiwake* (申し訳) means "justification" or "excuse"; the phrase states there is none. There is no defence, no qualification, only complete acknowledgement and the intention to make it right.
 
 This phrase, delivered with a sincere bow, carries considerable weight in Japanese culture. Its use in a serious complaint situation communicates that the staff member understands the gravity of what occurred and is not minimising it.
 
@@ -56,7 +56,7 @@ This is the core apology phrase, made specific by naming the issue in place of �
 *Watakushidomo no taiō ga fujūbun de gozaimashita. Makoto ni mōshiwake gozaimasen.*
 "Our response was inadequate. I sincerely apologise."
 
-This phrase is used when the failure was in the handling of a situation, not just the situation itself — for example, when a complaint was not followed up on, or when a guest had to ask more than once.
+This phrase is used when the failure was in the handling of a situation, not just the situation itself, for example, when a complaint was not followed up on, or when a guest had to ask more than once.
 
 **これからは、このようなことが二度と起きないよう、再発防止に努めてまいります。**
 *Korekara wa, kono yō na koto ga nido to okinai yō, saihatsu bōshi ni tsutomete mairimasu.*

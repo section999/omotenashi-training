@@ -3,12 +3,9 @@ id: v10-vocab
 section: 39
 title: 有効 (yuukou)
 ---
+有効 comes from 有 (existing, to have) and 効 from 効力 (force, effect), and in hospitality it means that a coupon, バウチャー, credit card, reservation, or promotional offer is current, meets the applicable conditions, and can be accepted for its intended purpose. The opposite is 無効 (mukō, invalid), and the two are naturally paired whenever one is verifying a document. Telling a guest their document is 有効 gives them instant confidence, and telling them it is 無効 requires a careful, respectful explanation.
 
-有効 comes from 有 (existing, to have) and 効 from 効力 (force, effect), and in hospitality it means that a coupon, バウチャー, credit card, reservation, or promotional offer is current, meets the applicable conditions, and can be accepted for its intended purpose. The opposite is 無効 (mukō, invalid), and the two are naturally paired whenever you're verifying a document. Telling a guest their document is 有効 gives them instant confidence, and telling them it is 無効 requires a careful, respectful explanation.
-
-In practice, confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. When you confirm it's valid, go one step further and tell the guest what they're entitled to, something like 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. That extra sentence removes any uncertainty about the scope of the benefit and saves awkward questions later.
-
-## Example Sentences
+confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. When one confirm it's valid, go one step further and tell the guest what they're entitled to, something like 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. That extra sentence removes any uncertainty about the scope of the benefit and saves awkward questions later\n## Example Sentences
 
 **1.** こちらのバウチャーは有効でございます。
 *Kochira no bauchā wa yūkō de gozaimasu.*
@@ -20,7 +17,7 @@ In practice, confirming 有効 means checking three things: the 有効期限 (ex
 
 **3.** ご予約は有効でございますので、そのままチェックインいただけます。
 *Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.*
-"Your reservation is valid, so you may proceed directly to check-in."
+"Your reservation is valid, so one may proceed directly to check-in."
 
 ## Related Expressions
 
@@ -29,7 +26,7 @@ In practice, confirming 有効 means checking three things: the 有効期限 (ex
 
 ## Common Mistakes
 
-Students often confirm 有効 after only glancing at the expiry date, forgetting that a coupon can be within its date range and still be 無効 for a specific purchase if there are service restrictions or minimum spend conditions attached. Worth noting too: accepting a document as valid without actually checking the system can mean you're approving something that has already been used or has quietly expired. Do a full verification before you say 有効でございます, because unwinding a mistaken acceptance is far more uncomfortable than taking thirty extra seconds to confirm properly.
+A common error is to confirm 有効 after only glancing at the expiry date, forgetting that a coupon can be within its date range and still be 無効 for a specific purchase if there are service restrictions or minimum spend conditions attached. Worth noting too: accepting a document as valid without checking the system can mean one is approving something that has already been used or has quietly expired. Do a full verification before one says 有効でございます, because unwinding a mistaken acceptance is far more uncomfortable than taking thirty extra seconds to confirm properly.
 
 ---
 

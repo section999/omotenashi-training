@@ -3,12 +3,9 @@ id: v02-vocab
 section: 8
 title: 満室 (manshitsu)
 ---
+満室 means "fully booked" or "no vacancies," indicating that every room in the property is currently occupied. It is the direct opposite of 空室 (vacant room), and communicating 満室 to a guest is a notable delicate situations a front desk professional will face. In Japanese hospitality culture, delivering negative information requires even more care than delivering good news. The way one says 満室 can preserve a guest's goodwill or lose it entirely.
 
-満室 means "fully booked" or "no vacancies," indicating that every room in the property is currently occupied. It is the direct opposite of 空室 (vacant room), and communicating 満室 to a guest is one of the most delicate situations a front desk professional will face. In Japanese hospitality culture, delivering negative information requires even more care than delivering good news. The way you say 満室 can preserve a guest's goodwill or lose it entirely.
-
-The standard professional approach involves three things: an apology first (大変申し訳ございませんが), a clear time frame (本日は, meaning "for today"), and where possible, an alternative such as a nearby partner hotel or a waitlist option. The full phrase 本日は満室でございます uses ございます for formality and 本日 to limit the scope to the current day, which subtly implies that the situation may change. Avoid using 本日 as a false comfort if the property is booked out for the week. Offering a referral or a future-date option is the better move, and it shows the guest that being turned away today does not mean they are not valued.
-
-## Example Sentences
+The standard professional approach involves three things: an apology first (大変申し訳ございませんが), a clear time frame (本日は, meaning "for today"), and where possible, an alternative such as a nearby partner hotel or a waitlist option. The full phrase 本日は満室でございます uses ございます for formality and 本日 to limit the scope to the current day, which subtly implies that the situation may change. Avoid using 本日 as a false comfort if the property is booked out for the week. Offering a referral or a future-date option is the better move, and it shows the guest that being turned away today does not mean they are not valued\n## Example Sentences
 
 **1.** 大変申し訳ございませんが、本日は満室でございます。
 *Taihen mōshiwake gozaimasen ga, honjitsu wa manshitsu de gozaimasu.*
@@ -25,11 +22,11 @@ The standard professional approach involves three things: an apology first (大�
 ## Related Expressions
 
 - **空室 (kūshitsu)**: the direct opposite, meaning a vacant room. Always verify the system before declaring 満室, because last-minute cancellations can open up availability in the middle of what looked like a sold-out night.
-- **キャンセル待ち (kyanseru machi)**: a cancellation waitlist. Offering this when 満室 is the situation shows that you are still working for the guest, and it can recover a booking that would otherwise be lost.
+- **キャンセル待ち (kyanseru machi)**: a cancellation waitlist. Offering this when 満室 is the situation shows that one is still working for the guest, and it can recover a booking that would otherwise be lost.
 
 ## Common Mistakes
 
-The most serious mistake is announcing 満室 without the accompanying apology. In Japanese hospitality, bad news must be softened with 申し訳ございません or 大変恐れ入りますが before you get to the facts. Declaring 満室 without checking the reservation system first also risks turning away a guest when a room is actually available — always check before saying anything. The casual forms 満室だ or 満室ね have no place in any professional setting and would genuinely surprise a Japanese guest to hear from hotel staff.
+The most serious mistake is announcing 満室 without the accompanying apology. In Japanese hospitality, bad news must be softened with 申し訳ございません or 大変恐れ入りますが before one get to the facts. Declaring 満室 without checking the reservation system first also risks turning away a guest when a room is available, staff should check before saying anything. The casual forms 満室だ or 満室ね have no place in any professional setting and would surprise a Japanese guest to hear from hotel staff.
 
 ---
 

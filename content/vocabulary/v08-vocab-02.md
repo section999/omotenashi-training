@@ -3,15 +3,12 @@ id: v08-vocab
 section: 2
 title: 左 (hidari)
 ---
-
 **Pronunciation:** [hi-**da**-ri]
 **Register:** Neutral, elevated with にございます in formal hotel speech
 
-左 means "left" and is one of the most indispensable words in guest-facing navigation. Whether you are directing guests from the elevator to their room, guiding someone from the lobby toward the restaurant, or describing a walking route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort. Vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastering 左 alongside 右 is baseline knowledge for anyone working a guest-facing role.
+左 means "left" and is a notable indispensable words in guest-facing navigation. Whether one is directing guests from the elevator to their room, guiding someone from the lobby toward the restaurant, or describing a walking route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort. Vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastering 左 alongside 右 is baseline knowledge for anyone working a guest-facing role.
 
-Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Students should combine 左 with a polite locating phrase such as 左にございます or 左側でございます, and ideally add a distance cue like 突き当たりの左 or 二つ目の扉の左 to make the instruction complete. In practice, when you accompany a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension far more than words alone.
-
-## Example Sentences
+Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Students should combine 左 with a polite locating phrase such as 左にございます or 左側でございます, and ideally add a distance cue like 突き当たりの左 or 二つ目の扉の左 to make the instruction complete. when one accompany a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension far more than words alone\n## Example Sentences
 
 **1.** 入口は左側にございます。
 *Iriguchi wa hidari-gawa ni gozaimasu.*
@@ -32,7 +29,7 @@ Left-side directions come up constantly in hotel corridors, where rooms alternat
 
 ## Common Mistakes
 
-The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. Students also sometimes mix up 左 and 右 when they are nervous or under pressure, so drilling both words together in realistic practice scenarios really does help. One more thing: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Use an open hand when gesturing, and you will immediately look more polished.
+The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. Students also sometimes mix up 左 and 右 when they are nervous or under pressure, so drilling both words together in realistic practice scenarios does help. Additionally: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Use an open hand when gesturing, and one will immediately look more polished.
 
 ---
 

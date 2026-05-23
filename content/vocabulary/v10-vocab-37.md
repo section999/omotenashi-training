@@ -3,16 +3,13 @@ id: v10-vocab
 section: 37
 title: 暗証番号 (anshou bangou)
 ---
+暗証番号 breaks down to 暗証 (a secret or private cipher) and 番号 (number), and in everyday use it means the PIN a guest enters to authorize a card payment or authenticate their identity on a digital system. Protecting it is not just a procedural rule; it's a matter of professional ethics and personal respect. In omotenashi culture, one is expected to anticipate the guest's need for privacy without being asked, which means actively creating the right conditions before they even reach for the keypad.
 
-暗証番号 breaks down to 暗証 (a secret or private cipher) and 番号 (number), and in everyday use it means the PIN a guest enters to authorize a card payment or authenticate their identity on a digital system. Protecting it is not just a procedural rule; it's a matter of professional ethics and personal respect. In omotenashi culture, you're expected to anticipate the guest's need for privacy without being asked, which means actively creating the right conditions before they even reach for the keypad.
-
-When a transaction calls for a 暗証番号, turn the PIN pad toward the guest and step back slightly so they have a clear, private space to enter it. Never try to see the PIN, never ask the guest to say it aloud, and make sure no one nearby can observe the keypad either. If a guest enters the wrong PIN, let them know quietly and give them another try without drawing any attention to the situation.
-
-## Example Sentences
+When a transaction calls for a 暗証番号, turn the PIN pad toward the guest and step back slightly so they have a clear, private space to enter it. Never try to see the PIN, never ask the guest to say it aloud, and make sure no one nearby can observe the keypad either. If a guest enters the wrong PIN, let them know quietly and give them another try without drawing any attention to the situation\n## Example Sentences
 
 **1.** 恐れ入りますが、暗証番号をご入力ください。
 *Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.*
-"I apologize for the inconvenience: please enter your PIN."
+"I apologize for the inconvenience: please enter one's PIN."
 
 **2.** 端末をお客様の方へお向けいたします。
 *Tanmatsu o okyakusama no hō e omuke itashimasu.*
@@ -20,16 +17,16 @@ When a transaction calls for a 暗証番号, turn the PIN pad toward the guest a
 
 **3.** 暗証番号はお客様ご自身でご入力いただきますようお願いいたします。
 *Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.*
-"We ask that you enter your PIN yourself."
+"We ask that you enter one's PIN yourself."
 
 ## Related Expressions
 
-- **署名 (shomei)**: signature; an alternative to 暗証番号 for authorizing card payments, depending on card type and terminal setting, so know which your property's terminals require
+- **署名 (shomei)**: signature; an alternative to 暗証番号 for authorizing card payments, depending on card type and terminal setting, so know which one's property's terminals require
 - **セキュリティコード (sekyuriti kōdo)**: security code (CVV/CVC); a different numeric code found on the back of a card, used for online transactions only, not for in-person PIN entry
 
 ## Common Mistakes
 
-The most serious mistake here is standing too close or positioning the terminal so the keypad faces the room rather than the guest. That's both a security breach and a real violation of trust. Students sometimes also confuse 暗証番号 with セキュリティコード, which is the CVV/CVC on the back of the card used only for online transactions. That code should never be requested in person. One more thing: under absolutely no circumstances should you ask a guest to verbally say their PIN out loud, even if they seem to offer.
+The most serious mistake here is standing too close or positioning the terminal so the keypad faces the room rather than the guest. That's both a security breach and a real violation of trust. A common error is to also confuse 暗証番号 with セキュリティコード, which is the CVV/CVC on the back of the card used only for online transactions. That code should never be requested in person. Additionally: under absolutely no circumstances should one ask a guest to verbally say their PIN out loud, even if they seem to offer.
 
 ---
 

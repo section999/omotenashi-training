@@ -3,15 +3,12 @@ id: v09-vocab
 section: 38
 title: 受付時間 (uketsuke jikan)
 ---
-
 **Pronunciation:** [u-**ke**-tsu-ke ji-**kan**]
 **Register:** Formal -- front desk, reservations, and guest communication
 
-受付時間 (uketsuke jikan) joins 受付 (uketsuke, reception / front desk) with 時間 (jikan, time / hours), giving you "reception hours" -- the window during which the front desk is staffed and available to help guests. Smaller Japanese properties like ryokan, boutique hotels, and budget accommodations often operate with limited 受付時間, while larger hotels may maintain a front desk around the clock but with reduced overnight staffing. Either way, communicating 受付時間 clearly is a basic responsibility, not a detail you leave guests to figure out on their own.
+受付時間 (uketsuke jikan) joins 受付 (uketsuke, reception / front desk) with 時間 (jikan, time / hours), giving one "reception hours" -- the window during which the front desk is staffed and available to help guests. Smaller Japanese properties like ryokan, boutique hotels, and budget accommodations often operate with limited 受付時間, while larger hotels may maintain a front desk around the clock but with reduced overnight staffing. Either way, communicating 受付時間 clearly is a basic responsibility, not a detail one leave guests to figure out on their own.
 
-In a hospitality context, a complete answer to a question about 受付時間 always has two parts: the actual hours, and what happens outside them. Simply stating a closing time without explaining the after-hours alternative leaves guests feeling stranded -- especially first-time visitors who don't know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which closes the information gap neatly and reassures the guest that support is always there in some form.
-
-## Example Sentences
+In a hospitality context, a complete answer to a question about 受付時間 always has two parts: the actual hours, and what happens outside them. Simply stating a closing time without explaining the after-hours alternative leaves guests feeling stranded -- especially first-time visitors who don't know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which closes the information gap neatly and reassures the guest that support is always there in some form\n## Example Sentences
 
 **1.** 受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。
 *Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.*
@@ -19,7 +16,7 @@ In a hospitality context, a complete answer to a question about 受付時間 alw
 
 **2.** ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。
 *Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*
-"If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements."
+"If one's arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements."
 
 **3.** 受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。
 *Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*
@@ -32,7 +29,7 @@ In a hospitality context, a complete answer to a question about 受付時間 alw
 
 ## Common Mistakes
 
-A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after — guests who arrive at midnight and don't know about the intercom or a nighttime phone number will feel abandoned. Even when hours are communicated correctly, watch out for holiday periods and special events when actual staffing may differ from the posted standard. Always verify that the hours given to a guest match the real schedule for their specific dates of stay.
+A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after, guests who arrive at midnight and don't know about the intercom or a nighttime phone number will feel abandoned. Even when hours are communicated correctly, watch out for holiday periods and special events when actual staffing may differ from the posted standard. Always verify that the hours given to a guest match the real schedule for their specific dates of stay.
 
 ---
 

@@ -3,22 +3,19 @@ id: v01-vocab
 section: 16
 title: ごゆっくりどうぞ (goyukkuri douzo)
 ---
+**ごゆっくりどうぞ** means "please take one's time" or "please relax," but its real meaning in hospitality goes deeper: *there is no hurry here. This space is yours. We are not rushing one.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
 
-**ごゆっくりどうぞ** means "please take your time" or "please relax," but its real meaning in hospitality goes deeper: *there is no hurry here. This space is yours. We are not rushing you.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
+The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality: a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. Note: it is most powerful precisely because it is proactive. one does not wait until a guest looks rushed before offering it. one offer it freely, at the start of every appropriate moment, as a gift of time.
 
-The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality: a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. Worth noting: it is most powerful precisely because it is proactive. You do not wait until a guest looks rushed before offering it. You offer it freely, at the start of every appropriate moment, as a gift of time.
-
-Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time.
-
-## Example Sentences
+Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time\n## Example Sentences
 
 **1.** こちらがお部屋でございます。ごゆっくりどうぞ。
 *Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*
-"This is your room. Please make yourself at home: take your time."
+"This is the room. Please make yourself at home: take one's time."
 
 **2.** 本日のお食事でございます。ごゆっくりどうぞ。
 *Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*
-"Here is today's meal. Please enjoy it at your leisure."
+"Here is today's meal. Please enjoy it at one's leisure."
 
 **3.** どうぞ、ごゆっくりおくつろぎください。
 *Dōzo, goyukkuri o-kutsurogikudasai.*
@@ -26,9 +23,9 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 ## Related Expressions
 
-- **どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)**: A more elaborate version: "Please, relax fully at your leisure"
-- **お急ぎでなければ (o-isogi de nakereba)**: "If you are not in a hurry": used to suggest there is no time pressure
-- **ゆっくりしていってください (yukkuri shite itte kudasai)**: "Please take your time before you go": casual version; not appropriate for guest interactions
+- **どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)**: A more elaborate version: "Please, relax fully at one's leisure"
+- **お急ぎでなければ (o-isogi de nakereba)**: "If one is not in a hurry": used to suggest there is no time pressure
+- **ゆっくりしていってください (yukkuri shite itte kudasai)**: "Please take one's time before you go": casual version; not appropriate for guest interactions
 
 ## Common Mistakes
 

@@ -6,7 +6,7 @@ title: Following Up, Rebuilding Trust
 
 Most people consider a service failure "resolved" the moment the guest says thank you and walks away. In Japanese hospitality, that moment is actually the beginning of the next phase, not the end. A single good recovery interaction does not rebuild trust on its own. Trust is rebuilt in the hours and days that follow, through the steady, quiet evidence that the apology reflected real values.
 
-This final stage is also the one most commonly skipped — and its absence is noticeable.
+This final stage is also the one most commonly skipped, and its absence is noticeable.
 
 ## Why Following Up Matters
 
@@ -22,7 +22,7 @@ Follow up within a few hours of the resolution, at the next natural interaction 
 
 ### Tone
 
-Keep it warm, brief, and genuine — not clinical or administrative. The goal is to show continued care: "I wanted to make sure everything has been comfortable for you since this morning. We are very glad you are with us."
+Keep it warm, brief, and genuine, not clinical or administrative. The goal is to show continued care: "I wanted to make sure everything has been comfortable for you since this morning. We are very glad you are with us."
 
 ### Handover
 

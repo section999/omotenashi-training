@@ -3,15 +3,12 @@ id: v06-vocab
 section: 16
 title: パスワード (pasuwaado)
 ---
-
 **Pronunciation:** [pa-su-**waa**-do]
 **Register:** Neutral loanword, used in formal service phrasing when delivering Wi-Fi or safe access credentials
 
 パスワード is the Japanese rendering of the English word "password," adopted as one of many technology-related loanwords that became standard in the digital era. In hotel contexts it refers almost exclusively to the Wi-Fi access password, though it also applies to digital room safes or online reservation portals. Because passwords often mix letters, numbers, and symbols, miscommunication is very common when they are only spoken aloud. Written delivery is not just a courtesy here, it is a practical necessity.
 
-Staff typically present パスワード on a printed card in the room, on the key envelope, or on a small slip handed over at check-in. When communicating it verbally, speak slowly and offer to write it down. Useful phrases include 「Wi-FiのパスワードはこちらにXXXXとございます」 and 「大文字・小文字にご注意ください」 (please pay attention to uppercase and lowercase letters). In practice, ryokan properties sometimes have the password brushed in calligraphy on a decorative card, which is a small but thoughtful aesthetic touch that guests remember.
-
-## Example Sentences
+Staff typically present パスワード on a printed card in the room, on the key envelope, or on a small slip handed over at check-in. When communicating it verbally, speak slowly and offer to write it down. Useful phrases include 「Wi-FiのパスワードはこちらにXXXXとございます」 and 「大文字・小文字にご注意ください」 (please pay attention to uppercase and lowercase letters). ryokan properties sometimes have the password brushed in calligraphy on a decorative card, which is a small but thoughtful aesthetic touch that guests remember\n## Example Sentences
 
 **1.** Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。
 *Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.*
@@ -23,16 +20,16 @@ Staff typically present パスワード on a printed card in the room, on the ke
 
 **3.** パスワードがご不明の場合は、いつでもフロントへお申しつけください。
 *Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.*
-"If you are unsure of the password, please contact the front desk at any time."
+"If one is unsure of the password, please contact the front desk at any time."
 
 ## Related Expressions
 
-- **暗証番号 (anshou bangou)**: a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when you are explaining to a guest which type of credential they actually need.
+- **暗証番号 (anshou bangou)**: a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when one is explaining to a guest which type of credential they need.
 - **ネットワーク名 / SSID (nettowaaку mei / SSID)**: the name of the Wi-Fi network a device must select before entering the パスワード. Always present both the network name and the password together, since many guests, particularly older travellers, may not know which network to choose.
 
 ## Common Mistakes
 
-A common mistake is reciting the password verbally without offering a written copy. Errors pile up quickly with alphanumeric passwords, especially when characters like 0 and O or 1 and l are involved. Students often forget this step when they are busy. That said, there is also a register problem to watch: saying 「パスワードは〇〇です」 in plain です is too casual for a formal service context. 「でございます」 is the appropriate level here. One more thing: do not use パスワード and 暗証番号 interchangeably. A guest who is told to enter a パスワード when the safe actually requires a numeric 暗証番号 will come back to the desk confused.
+A common mistake is reciting the password verbally without offering a written copy. Errors pile up quickly with alphanumeric passwords, especially when characters like 0 and O or 1 and l are involved. A common error is to forget this step when they are busy. However, there is also a register problem to watch: saying 「パスワードは〇〇です」 in plain です is too casual for a formal service context. 「でございます」 is the appropriate level here. Additionally: do not use パスワード and 暗証番号 interchangeably. A guest who is told to enter a パスワード when the safe requires a numeric 暗証番号 will come back to the desk confused.
 
 ---
 

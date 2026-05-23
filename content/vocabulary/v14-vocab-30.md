@@ -3,15 +3,12 @@ id: v14-vocab
 section: 30
 title: 注意事項 (chuui jikou)
 ---
-
 **Pronunciation:** [**chuu**-i **ji**-kou]
 **Register:** Formal, standard in official notices, briefings, and safety communications
 
 注意事項 combines 注意 (chuui, caution or attention) and 事項 (jikou, matters or items) to create a compound that means "matters requiring attention," most naturally translated as precautions, safety guidelines, or important notices. In hospitality and tourism, 注意事項 covers everything from onsen bathing rules to evacuation procedures. They serve two functions: keeping guests safe, and making sure everyone complies with the relevant laws and facility policies. Communicating them clearly is a genuine professional responsibility, not just a formality.
 
-You encounter 注意事項 in all sorts of settings. Onsen facilities post rules about tattoos and bathing order. Heritage sites specify no-photography zones. Adventure tour operators run through physical requirements and equipment briefings. Hotels cover quiet hours and fire exits. The challenge is always the same: how do you communicate this information fully without making guests feel unwelcome? The answer is framing. Students often find that presenting 注意事項 as care for the guest's safety and experience, rather than as a list of restrictions, makes a real difference in how it is received. Written notices in multiple languages are now standard across most major tourist facilities in Japan.
-
-## Example Sentences
+one encounter 注意事項 in all sorts of settings. Onsen facilities post rules about tattoos and bathing order. Heritage sites specify no-photography zones. Adventure tour operators run through physical requirements and equipment briefings. Hotels cover quiet hours and fire exits. The challenge is always the same: how do one communicates this information fully without making guests feel unwelcome? The answer is framing. A common error is find that presenting 注意事項 as care for the guest's safety and experience, rather than as a list of restrictions, makes a real difference in how it is received. Written notices in multiple languages are now standard across most major tourist facilities in Japan\n## Example Sentences
 
 **1.** ご入館の前に、施設の注意事項をご確認いただけますようお願い申し上げます。
 *Go-nyuukan no mae ni, shisetsu no chuui jikou wo go-kakunin itadakemasu you o-negai moushiagemasu.*
@@ -32,7 +29,7 @@ You encounter 注意事項 in all sorts of settings. Onsen facilities post rules
 
 ## Common Mistakes
 
-Students sometimes confuse 注意事項 with 規則 (kisoku, rules or regulations). Both involve guidelines for behaviour, but 注意事項 specifically frames content as matters requiring care and attention, while 規則 refers to formally established institutional rules. The nuance matters when choosing which word fits your communication. Worth noting about pronunciation: the long vowel in 注意 (chuu-i) needs to be clearly two beats. Shortening it changes the feel of the word and can reduce clarity, especially when delivering safety information to guests who are listening carefully.
+A common error is to confuse 注意事項 with 規則 (kisoku, rules or regulations). Both involve guidelines for behaviour, but 注意事項 specifically frames content as matters requiring care and attention, while 規則 refers to formally established institutional rules. The nuance matters when choosing which word fits one's communication. Worth noting about pronunciation: the long vowel in 注意 (chuu-i) needs to be clearly two beats. Shortening it changes the feel of the word and can reduce clarity, especially when delivering safety information to guests who are listening carefully.
 
 ---
 

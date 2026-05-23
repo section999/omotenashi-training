@@ -3,11 +3,9 @@ id: v09-vocab
 section: 18
 title: 朝食付き (choushoku tsuki)
 ---
-
 朝食付き means "with breakfast included," marking a booking plan where the morning meal is covered as part of the accommodation charge. In Japanese hospitality, breakfast carries real weight: at a ryokan it might be a full washoku spread; at a city hotel it is often a Western-style buffet. Either way, it is frequently the detail that tips a guest toward choosing one property over another. Being able to confirm the breakfast arrangement clearly and with some warmth helps guests feel settled right from check-in.
 
-Confirming inclusion is only the starting point. Good hotel communication means giving the guest the full picture in one go: where breakfast is served, what time it runs, and what kind of food to expect. Saying 「朝食は7時から9時まで、2階レストランにてお召し上がりいただけます」 answers the three questions the guest was about to ask, all at once. At ryokan especially, breakfast sometimes requires a time slot to be agreed in advance, and mentioning this proactively saves back-and-forth the next morning.
-
+Confirming inclusion is only the starting point. Good hotel communication means giving the guest the full picture in one goes: where breakfast is served, what time it runs, and what kind of food to expect. Saying 「朝食は7時から9時まで、2階レストランにてお召し上がりいただけます」 answers the three questions the guest was about to ask, all at once. At ryokan especially, breakfast sometimes requires a time slot to be agreed in advance, and mentioning this proactively saves back-and-forth the next morning.
 ## Example Sentences
 
 **1.** お客様のプランは朝食付きでございます。朝食は午前7時から9時まで、1階のレストランにてご用意しております。
@@ -25,11 +23,11 @@ Confirming inclusion is only the starting point. Good hotel communication means 
 ## Related Expressions
 
 - **素泊まり (sudomari)**: the direct contrast to 朝食付き, a room-only plan with no meals; when a guest on 素泊まり asks about adding breakfast, walk them through the 朝食付きプランへの変更 option or the possibility of buying 朝食券 separately.
-- **朝食券 (choushoku ken)**: a breakfast voucher, sometimes handed to 朝食付き guests physically at check-in; knowing this term helps when you need to explain the practical mechanics of how the breakfast benefit actually gets used at your property.
+- **朝食券 (choushoku ken)**: a breakfast voucher, sometimes handed to 朝食付き guests physically at check-in; knowing this term helps when one needs to explain the practical mechanics of how the breakfast benefit gets used at one's property.
 
 ## Common Mistakes
 
-Confirming 朝食付き without the time or location is one of the most common small gaps in check-in communication, and it forces the guest to ask again, making the interaction feel incomplete. Using 朝食あり instead of 朝食付き is also a frequent slip. 朝食あり is understandable, but it sounds casual and informal in a service context; 朝食付き is the standard professional form. At higher-end properties, it is also considered good practice to ask 「ご朝食に食物アレルギーはございますか」 so that any dietary issues are flagged early, rather than discovered when the guest arrives at the buffet and cannot eat anything.
+Confirming 朝食付き without the time or location is a common small gaps in check-in communication, and it forces the guest to ask again, making the interaction feel incomplete. Using 朝食あり instead of 朝食付き is also a frequent slip. 朝食あり is understandable, but it sounds casual and informal in a service context; 朝食付き is the standard professional form. At higher-end properties, it is also considered good practice to ask 「ご朝食に食物アレルギーはございますか」 so that any dietary issues are flagged early, rather than discovered when the guest arrives at the buffet and cannot eat anything.
 
 ---
 

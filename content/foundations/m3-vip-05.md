@@ -4,7 +4,7 @@ section: 5
 title: Recovery at the VIP Level
 ---
 
-Service failures at the VIP level carry amplified consequences — and amplified recovery potential. A VIP guest who experiences a problem and sees it resolved with exceptional speed, sincerity, and personalisation will often become the property's most loyal advocate. The same guest who experiences a failure handled poorly will not return.
+Service failures at the VIP level carry amplified consequences, and amplified recovery potential. A VIP guest who experiences a problem and sees it resolved with exceptional speed, sincerity, and personalisation will often become the property's most loyal advocate. The same guest who experiences a failure handled poorly will not return.
 
 ## The Speed Imperative
 
@@ -14,7 +14,7 @@ No individual staff member should decide alone whether an issue involving a VIP 
 
 ## The Personal Response
 
-A VIP guest who has experienced a failure should hear from a senior person — the general manager or department head — in person, not by phone and not through a written apology alone.
+A VIP guest who has experienced a failure should hear from a senior person, the general manager or department head, in person, not by phone and not through a written apology alone.
 
 The senior staff member should:
 

@@ -24,7 +24,7 @@ Choosing the correct register is an act of respect, not just a grammar decision.
 
 This asymmetry is felt by the guest even if they cannot name its mechanism.
 
-Using the wrong register inverts the intended meaning. Saying *"お客様、いただきますか？"* — applying humble language to the guest's action — is linguistically incorrect and, to a discerning Japanese guest, a clear signal of inadequate training.
+Using the wrong register inverts the intended meaning. Saying *"お客様、いただきますか？"*, applying humble language to the guest's action, is linguistically incorrect and, to a discerning Japanese guest, a clear signal of inadequate training.
 
 ## Using the Three Levels in Practice
 
@@ -34,7 +34,7 @@ For check-in, check-out, formal greetings, and moments of special service, sonke
 
 ## Keigo as a Quality Signal
 
-For many Japanese guests, fluent keigo from staff is not merely expected — its absence is noticed immediately. The quality of a property's keigo is a direct indicator of its service standard.
+For many Japanese guests, fluent keigo from staff is not merely expected, its absence is noticed immediately. The quality of a property's keigo is a direct indicator of its service standard.
 
 A luxury hotel where staff shift to casual speech in informal moments shows inconsistency. Consistent, natural keigo communicates that the team has thought carefully about how to receive guests. Register consistency matters just as much as vocabulary choice. A single slip into casual speech mid-interaction can undo the impression built by everything before it.
 

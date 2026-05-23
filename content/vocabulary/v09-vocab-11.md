@@ -3,24 +3,21 @@ id: v09-vocab
 section: 11
 title: 子供 (kodomo)
 ---
-
 子供 refers to child guests, generally those below the adult age threshold, which at most properties means under 12 or 13. The pricing is more involved than a simple adult-versus-child split: the rate often depends on whether the child is sharing a bed with parents, using an extra futon, or taking a separate room. Many properties break 子供 down further into age brackets, such as elementary school students (小学生) and preschool-age children (未就学児), with different meal portions and room setup expectations for each. Before quoting a family any rate, confirm exactly how the property defines these brackets.
 
-The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is exactly what omotenashi looks like in action. Always use お子様 when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference.
-
-## Example Sentences
+The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is exactly what omotenashi looks like in action. Always use お子様 when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference\n## Example Sentences
 
 **1.** お子様のご年齢をお知らせいただけますでしょうか。
 *O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*
-"Could you please let us know your child's age?"
+"Could you please let us know one's child's age?"
 
 **2.** お子様用の浴衣とスリッパをお部屋にご用意しております。
 *O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*
-"We have prepared children's yukata and slippers in your room."
+"We have prepared children's yukata and slippers in the room."
 
 **3.** お子様のお食事は、お子様ランチをご用意できます。
 *O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*
-"We can prepare a children's meal set for your child."
+"We can prepare a children's meal set for one's child."
 
 ## Related Expressions
 

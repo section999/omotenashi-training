@@ -3,12 +3,9 @@ id: v08-vocab
 section: 9
 title: 二階 (nikai)
 ---
+二階 (nikai) means "the second floor" and is a commonly referenced floors in Japanese hotel and ryokan settings. In many properties, the second floor houses the main dining area, a tea lounge, banquet rooms, or supplementary guest amenities, making 二階にございます a phrase that front desk and concierge staff use dozens of times daily. The cultural significance of 二階 extends to traditional Japanese architecture as well. In a ryokan, the second floor of a two-story wooden structure is often the most prized level, offering garden or courtyard views, which adds an aspirational quality to the term.
 
-二階 (nikai) means "the second floor" and is one of the most commonly referenced floors in Japanese hotel and ryokan settings. In many properties, the second floor houses the main dining area, a tea lounge, banquet rooms, or supplementary guest amenities, making 二階にございます a phrase that front desk and concierge staff use dozens of times daily. The cultural significance of 二階 extends to traditional Japanese architecture as well. In a ryokan, the second floor of a two-story wooden structure is often the most prized level, offering garden or courtyard views, which adds an aspirational quality to the term.
-
-In practice, directing a guest to 二階 should always include access instructions: エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask is the anticipatory aspect of omotenashi at work.
-
-## Example Sentences
+directing a guest to 二階 should always include access instructions: エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask is the anticipatory aspect of omotenashi at work\n## Example Sentences
 
 **1.** レストランは二階にございます。
 *Resutoran wa nikai ni gozaimasu.*
@@ -29,7 +26,7 @@ In practice, directing a guest to 二階 should always include access instructio
 
 ## Common Mistakes
 
-Learners sometimes pronounce 二階 as ni-gai under the influence of other irregular floor readings, but 二階 is simply nikai and follows the standard pattern. Saying just 二階 without following with にございます or にあります is insufficient formality for hotel speech. A subtle but important error is failing to mention elevator access when directing guests to 二階. Guests with heavy luggage should not have to ask whether stairs are the only option.
+A common mistake is to pronounce 二階 as ni-gai under the influence of other irregular floor readings, but 二階 is nikai and follows the standard pattern. Saying just 二階 without following with にございます or にあります is insufficient formality for hotel speech. A subtle but important error is failing to mention elevator access when directing guests to 二階. Guests with heavy luggage should not have to ask whether stairs are the only option.
 
 ---
 

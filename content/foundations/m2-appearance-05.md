@@ -12,12 +12,12 @@ The hands are constantly visible and constantly communicating. Core principles i
 
 - **Pointing**: Never point at a person or object with a single index finger. Use an open hand with the palm up and fingers together.
 - **Indicating direction**: Extend the arm with an open hand in the direction intended, at a natural height.
-- **Handling objects**: Items offered to guests — menus, cards, bags, documents — are presented with both hands and a slight bow. This simple act doubles the care conveyed.
+- **Handling objects**: Items offered to guests, menus, cards, bags, documents, are presented with both hands and a slight bow. This simple act doubles the care conveyed.
 - **Touching guests**: Physical contact is generally avoided. If necessary (for example, steadying an elderly guest or guiding someone through a doorway), ask first or use the lightest possible touch on the arm.
 
 ## Eyes
 
-Eye contact in Japanese hospitality is warm but not intense. Sustained, unblinking eye contact can feel confrontational or invasive. The appropriate approach is to make contact, soften the gaze, and allow natural breaks — particularly when the guest is speaking. This signals attentive listening rather than challenge.
+Eye contact in Japanese hospitality is warm but not intense. Sustained, unblinking eye contact can feel confrontational or invasive. The appropriate approach is to make contact, soften the gaze, and allow natural breaks, particularly when the guest is speaking. This signals attentive listening rather than challenge.
 
 When interacting with a group of guests, distribute eye contact evenly. Consistently ignoring one member of a group is a service error, even if no words are directed at them.
 
@@ -35,7 +35,7 @@ When interacting with a group of guests, distribute eye contact evenly. Consiste
 *Kochira de gozaimasu.*
 "It is this way."
 
-Said while using an open-palm gesture to indicate direction. This phrase is always paired with the correct hand gesture — never with a pointing finger.
+Said while using an open-palm gesture to indicate direction. This phrase is always paired with the correct hand gesture, never with a pointing finger.
 
 **何かご不明な点はございますか。**
 *Nanika go-fumei na ten wa gozaimasu ka.*

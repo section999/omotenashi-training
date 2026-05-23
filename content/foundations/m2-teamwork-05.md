@@ -13,7 +13,7 @@ At the end of each shift, the outgoing team communicates the state of the proper
 - **Guest status**: Who has checked in, who is expected, who has special requirements or ongoing requests.
 - **Open issues**: Complaints not yet fully resolved, requests pending fulfilment, maintenance issues affecting guest areas.
 - **Notable interactions**: A guest who was unhappy, a VIP who requires extra attention, a first-time visitor who expressed interest in a particular experience.
-- **Operational notes**: Any changes to the day's service — a function in an event space, a menu item that is unavailable, a colleague who is absent.
+- **Operational notes**: Any changes to the day's service, a function in an event space, a menu item that is unavailable, a colleague who is absent.
 
 ## The Standard for Written Communication
 

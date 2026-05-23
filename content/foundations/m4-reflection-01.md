@@ -4,7 +4,7 @@ section: 1
 title: Hansei, The Practice of Self-Reflection
 ---
 
-In Japanese professional culture, *hansei* (反省) is a regular, deliberate practice woven into working life. The character 反 means "to turn back" or "to reconsider," and 省 means "to examine" or "to inspect." Together they describe the act of turning your attention inward and looking honestly at what you did, what you decided, and how it went — with the clear purpose of understanding and improving.
+In Japanese professional culture, *hansei* (反省) is a regular, deliberate practice woven into working life. The character 反 means "to turn back" or "to reconsider," and 省 means "to examine" or "to inspect." Together they describe the act of turning your attention inward and looking honestly at what you did, what you decided, and how it went, with the clear purpose of understanding and improving.
 
 Hansei is not self-criticism or guilt. It is calm, honest, and forward-focused. In the context of omotenashi, hansei allows professionals to improve not only through formal training but through the everyday rhythm of service itself.
 
@@ -20,7 +20,7 @@ Hansei does not require a formal meeting or a long block of quiet time. It fits 
 
 A simple hansei practice for hospitality professionals:
 
-- Identify a moment — a specific interaction, decision, or response
+- Identify a moment, a specific interaction, decision, or response
 - Describe what happened, factually, without judgement
 - Ask what you noticed, and what you may have missed
 - Ask what you would do differently, and why

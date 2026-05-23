@@ -3,15 +3,12 @@ id: v14-vocab
 section: 20
 title: タクシー (takushii)
 ---
-
 **Pronunciation:** [ta-ku-**shii**]
 **Register:** Neutral, everyday speech, guest assistance, concierge recommendations
 
 タクシー is the Japanese loanword for "taxi" and refers to metered hired vehicles for door-to-door transport. Japanese タクシー are known for cleanliness, professional drivers, and one feature that surprises nearly every international visitor: the rear left door opens and closes automatically. Guests should never touch it. Worth noting is that this is one of those small cultural details that's worth mentioning proactively before a guest approaches the vehicle, because nothing breaks the elegance of a hotel send-off like a guest trying to wrestle with a door that opens on its own. Fares are calculated by both distance and waiting time, and starting rates vary by region and company.
 
-Hotel staff get involved in タクシー arrangements more than you might expect, from asking the doorman to hail one to calling a dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is almost always the right call. Have the hotel's address card ready to hand to guests so they can pass it directly to the driver: verbal communication can be challenging for non-Japanese speakers, and a printed card with the destination address removes the guesswork entirely. The standard phrase to offer is 「タクシーをお呼びいたしましょうか？」
-
-## Example Sentences
+Hotel staff get involved in タクシー arrangements more than one might expect, from asking the doorman to hail one to calling a dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is almost always the right call. Have the hotel's address card ready to hand to guests so they can pass it directly to the driver: verbal communication can be challenging for non-Japanese speakers, and a printed card with the destination address removes the guesswork entirely. The standard phrase to offer is 「タクシーをお呼びいたしましょうか？\n## Example Sentences
 
 **1.** 駅からホテルまでタクシーを利用しました。
 *Eki kara hoteru made takushii wo riyou shimashita.*
@@ -32,7 +29,7 @@ Hotel staff get involved in タクシー arrangements more than you might expect
 
 ## Common Mistakes
 
-The automatic door is the biggest practical point to communicate: non-Japanese guests regularly try to open it themselves and look confused or embarrassed when it moves on its own. Proactively mentioning it before they leave the lobby saves everyone from that moment. The grammar error to watch is the particle: タクシーに乗る is correct, not タクシーを乗る. Students who learn this once for 電車 sometimes forget to carry it over to other vehicles. That said, also be careful with ハイヤー: it's not just a fancier word for タクシー, it implies a pre-booked, premium service, and using the two interchangeably in guest-facing communication can create mismatched expectations.
+The automatic door is the biggest practical point to communicate: non-Japanese guests regularly try to open it themselves and look confused or embarrassed when it moves on its own. Proactively mentioning it before they leave the lobby saves everyone from that moment. The grammar error to watch is the particle: タクシーに乗る is correct, not タクシーを乗る. Students who learn this once for 電車 sometimes forget to carry it over to other vehicles. However, also be careful with ハイヤー: it's not just a fancier word for タクシー, it implies a pre-booked, premium service, and using the two interchangeably in guest-facing communication can create mismatched expectations.
 
 ---
 

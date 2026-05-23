@@ -3,14 +3,11 @@ id: v01-vocab
 section: 20
 title: またお越しくださいませ (mata okoshi kudasaimase)
 ---
-
 **またお越しくださいませ** means "please come again," but it carries considerably more warmth than its translation suggests. *Mata* (また) means "again," *okoshi* (お越し) is the honorific for "coming/visiting," and *kudasaimase* is the most polite form of "please do." The phrase is the hospitality professional's final act of care: a sincere, dignified invitation for the guest to return.
 
-The timing and delivery of this phrase matter enormously. It is the last impression the guest carries out the door, which means it has disproportionate weight in shaping their memory of the entire stay. A deeply felt *mata o-koshi kudasaimase*, delivered with genuine eye contact, a bow, and the staff member's full attention, says: *you mattered to us. Come back when you can.*
+The timing and delivery of this phrase matter enormously. It is the last impression the guest carries out the door, which means it has disproportionate weight in shaping their memory of the entire stay. A deeply felt *mata o-koshi kudasaimase*, delivered with genuine eye contact, a bow, and the staff member's full attention, says: *you mattered to us. Come back when one can.*
 
-In practice, this phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank you for your visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off.
-
-## Example Sentences
+this phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank one for one's visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off\n## Example Sentences
 
 **1.** ご利用ありがとうございました。またお越しくださいませ。
 *Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*
@@ -22,17 +19,17 @@ In practice, this phrase is often part of a farewell sequence: *honjitsu wa go-r
 
 **3.** またのお越しを、スタッフ一同心よりお待ち申し上げております。
 *Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*
-"All of our staff look forward with all their hearts to your next visit."
+"All of our staff look forward with all their hearts to one's next visit."
 
 ## Related Expressions
 
 - **お気をつけてお帰りください (o-ki wo tsukete o-kaeri kudasai)**: "Please take care going home": the safety farewell that precedes *mata o-koshi kudasaimase*
-- **またのお越しをお待ちしております (mata no o-koshi wo o-machi shite orimasu)**: "We look forward to your next visit": slightly more formal and often used in written farewells
+- **またのお越しをお待ちしております (mata no o-koshi wo o-machi shite orimasu)**: "We look forward to one's next visit": slightly more formal and often used in written farewells
 - **いつでもまたお越しください (itsudemo mata o-koshi kudasai)**: "Please come again any time": adds warmth and openness to the invitation
 
 ## Common Mistakes
 
-The most common mistake is delivering this phrase while already turned away or distracted. It should be the last thing you give the guest your full attention for. A second mistake is omitting it entirely in busy periods; the farewell is not optional. Every guest deserves to leave with this phrase. A third mistake is saying it too quickly, letting it sound like a procedural checkbox rather than a genuine invitation.
+The most common mistake is delivering this phrase while already turned away or distracted. It should be the last thing one gives the guest one's full attention for. A second mistake is omitting it entirely in busy periods; the farewell is expected. Every guest deserves to leave with this phrase. A third mistake is saying it too quickly, letting it sound like a procedural checkbox rather than a genuine invitation.
 
 ---
 

@@ -3,16 +3,13 @@ id: v03-vocab
 section: 19
 title: エアコン (air conditioner)
 ---
-
 エアコン is an abbreviation of "air conditioner," universally understood in Japan and found in virtually every hotel and ryokan guest room. Comfort temperature is a sensitive personal matter, and guests from warmer or cooler climates may have very different expectations from the default room setting. Studies in Japanese hospitality consistently show that room temperature is among the top factors affecting guest satisfaction. Staff who proactively explain how to operate the エアコン, including how to adjust temperature, switch between heating and cooling modes, and use the timer function, demonstrate the anticipatory service at the heart of omotenashi. Some older ryokan may have floor-based heating systems rather than a wall-mounted エアコン, and being able to clarify this difference is equally valuable.
 
-In a hospitality context, staff typically point out the エアコン remote control during room orientation: 「エアコンのリモコンはテレビ台の上にございます」 (the air conditioner remote is on the TV stand). If a guest reports a malfunction, the appropriate response would be 「すぐに係の者を向かわせます」 (I will send a staff member right away). Staff should also be ready to explain the difference between 冷房 (cooling) and 暖房 (heating) mode settings on the remote.
-
-## Example Sentences
+In a hospitality context, staff typically point out the エアコン remote control during room orientation: 「エアコンのリモコンはテレビ台の上にございます」 (the air conditioner remote is on the TV stand). If a guest reports a malfunction, the appropriate response would be 「すぐに係の者を向かわせます」 (I will send a staff member right away). Staff should also be ready to explain the difference between 冷房 (cooling) and 暖房 (heating) mode settings on the remote\n## Example Sentences
 
 **1.** エアコンはこちらで操作できますので、温度はご自由にお調節ください。
 *Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*
-"You can operate the air conditioner here: please adjust the temperature as you like."
+"You can operate the air conditioner here: please adjust the temperature as one like."
 
 **2.** エアコンのリモコンはテレビ台の上にございます。
 *Eakon no rimokon wa terebi dai no ue ni gozaimasu.*

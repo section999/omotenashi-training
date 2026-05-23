@@ -4,7 +4,7 @@ section: 4
 title: Giving and Receiving, The Ritual Exchange
 ---
 
-The moment of exchange — presenting or receiving a gift — is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual matters whether presenting a gift on behalf of the property, receiving one from a guest, or assisting a guest who is preparing to give.
+The moment of exchange, presenting or receiving a gift, is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual matters whether presenting a gift on behalf of the property, receiving one from a guest, or assisting a guest who is preparing to give.
 
 ## Presenting a Gift
 
@@ -12,8 +12,8 @@ The conventional phrase when presenting a gift is **"つまらないものです
 
 Alternative phrases include:
 
-- *"心ばかりのものですが"* — "It is just a small token of my feelings."
-- *"ほんの気持ちですが"* — "It is just a small thought."
+- *"心ばかりのものですが"*, "It is just a small token of my feelings."
+- *"ほんの気持ちですが"*, "It is just a small thought."
 
 ## Receiving a Gift
 

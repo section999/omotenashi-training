@@ -4,7 +4,7 @@ section: 5
 title: Gift-Giving with International Guests
 ---
 
-International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where offering gifts at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully — without imposing Japanese customs or dismissing the guest's own — is a refined hospitality skill.
+International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where offering gifts at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully, without imposing Japanese customs or dismissing the guest's own, is a refined hospitality skill.
 
 ## When a Guest from Abroad Presents a Gift
 
@@ -12,7 +12,7 @@ Many guests from Western countries expect gifts to be opened immediately and res
 
 ## Presenting a Property Gift to International Guests
 
-When a property has a custom of presenting welcome gifts, brief explanations add significant value for non-Japanese guests. A short verbal note or card describing the item — for example, explaining that yuzu bath salt comes from local producers and is used in Japanese winter bathing traditions — transforms a gesture into an experience.
+When a property has a custom of presenting welcome gifts, brief explanations add significant value for non-Japanese guests. A short verbal note or card describing the item, for example, explaining that yuzu bath salt comes from local producers and is used in Japanese winter bathing traditions, transforms a gesture into an experience.
 
 ## Cultural Considerations to Keep in Mind
 

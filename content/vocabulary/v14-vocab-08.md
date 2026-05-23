@@ -3,15 +3,12 @@ id: v14-vocab
 section: 8
 title: 両替所 (ryougaejo)
 ---
-
 **Pronunciation:** [ryou-**ga**-e-jo]
 **Register:** Neutral/Formal, used in travel, hospitality, and everyday financial contexts
 
-両替所 is a facility where travellers can exchange foreign currency for Japanese yen, or yen for foreign currency when leaving. You'll find them at international airports, major train stations, large hotels, and post offices across Japan. For incoming international guests, finding a 両替所 is often among the first practical needs they have after landing, so knowing where the closest one is and how to get there is genuinely useful knowledge for any front desk staff member. Worth knowing from your own experience as well: the rates and fees aren't uniform. Airport exchange counters are convenient but often charge more; post offices (郵便局) tend to offer competitive rates and are widely distributed.
+両替所 is a facility where travellers can exchange foreign currency for Japanese yen, or yen for foreign currency when leaving. one'll find them at international airports, major train stations, large hotels, and post offices across Japan. For incoming international guests, finding a 両替所 is often among the first practical needs they have after landing, so knowing where the closest one is and how to get there is useful knowledge for any front desk staff member. Worth knowing from one's own experience as well: the rates and fees aren't uniform. Airport exchange counters are convenient but often charge more; post offices (郵便局) tend to offer competitive rates and are widely distributed.
 
-Many large international hotels offer currency exchange at the front desk, which is convenient for guests but typically comes with a less favourable rate. Being upfront about that, and mentioning that the ATM around the corner or the post office down the street may offer a better deal, is the kind of honest, guest-centred advice that builds trust. International-card-compatible ATMs at 7-Eleven convenience stores and Japan Post locations draw directly on the bank's exchange rate and are often the best practical option for guests who just need a few thousand yen for a taxi or a meal.
-
-## Example Sentences
+Many large international hotels offer currency exchange at the front desk, which is convenient for guests but typically comes with a less favourable rate. Being upfront about that, and mentioning that the ATM around the corner or the post office down the street may offer a better deal, is the kind of honest, guest-centred advice that builds trust. International-card-compatible ATMs at 7-Eleven convenience stores and Japan Post locations draw directly on the bank's exchange rate and are often the best practical option for guests who just need a few thousand yen for a taxi or a meal\n## Example Sentences
 
 **1.** 空港内の両替所は到着ロビーの左側にございます。
 *Kuukou nai no ryougaejo wa touchaku robii no hidarigawa ni gozaimasu.*
@@ -27,12 +24,12 @@ Many large international hotels offer currency exchange at the front desk, which
 
 ## Related Expressions
 
-- **両替 (ryougae)**: the act of exchanging currency itself; 両替所 is the place, while 両替 is what you do there.
+- **両替 (ryougae)**: the act of exchanging currency itself; 両替所 is the place, while 両替 is what one does there.
 - **ATM (etiemu)**: a practical alternative to the 両替所 for many guests; international-card-compatible machines at convenience stores and Japan Post branches often provide better rates and longer hours.
 
 ## Common Mistakes
 
-Students sometimes mix up 両替所 with 換金所 (kankinsho). The difference is important: 換金所 is for cashing in vouchers, prizes, or other instruments, not for foreign currency exchange. If a guest needs to exchange euros for yen, 両替所 is the right word. On pronunciation, take care with 両替: the middle characters 替 (*gae*) and 解 (*kai*) look similar but sound different, and 両解 would be a different word entirely. One more thing: 両替所 handles currency conversion and nothing else. It's not a bank, and guests cannot use it for wire transfers or other financial services.
+A common error is to mix up 両替所 with 換金所 (kankinsho). The difference is important: 換金所 is for cashing in vouchers, prizes, or other instruments, not for foreign currency exchange. If a guest needs to exchange euros for yen, 両替所 is the right word. On pronunciation, take care with 両替: the middle characters 替 (*gae*) and 解 (*kai*) look similar but sound different, and 両解 would be a different word entirely. Additionally: 両替所 handles currency conversion and nothing else. It's not a bank, and guests cannot use it for wire transfers or other financial services.
 
 ---
 

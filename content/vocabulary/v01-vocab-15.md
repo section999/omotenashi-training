@@ -3,13 +3,11 @@ id: v01-vocab
 section: 15
 title: お手伝いしましょうか (otetsudai shimashou ka)
 ---
-
 **お手伝いしましょうか** means "may I help you?" or "shall I assist you?" It is the proactive, attentive staff member's most useful phrase, offered not in response to a complaint, but in anticipation of a need. The word *tetsudai* (手伝い) means assistance or help, elevated by the honorific *o-* prefix. The *shimashōka* ending is a polite offer/proposal form: "shall I...?"
 
-The key distinction between this phrase and the more passive "is there anything I can help you with?" (何かお手伝いできることはございますか) is timing. *O-tetsudai shimashō ka* is said proactively, in the moment, when you see a guest who looks like they might need assistance: struggling with luggage, looking around as if searching for something, standing at a confusing junction. It is the phrase of noticed need.
+The key distinction between this phrase and the more passive "is there anything I can help you with?" (何かお手伝いできることはございますか) is timing. *O-tetsudai shimashō ka* is said proactively, in the moment, when one sees a guest who looks like they might need assistance: struggling with luggage, looking around as if searching for something, standing at a confusing junction. It is the phrase of noticed need.
 
-In the philosophy of omotenashi, waiting for a guest to ask for help is already too late. The ideal hospitality professional anticipates the need, moves toward the guest, and offers *o-tetsudai shimashō ka* before the guest has to formulate a request. This proactive care, *ki ga tsuku* (気が付く), or "noticing," is one of the defining qualities of excellent service. Students often know the phrase but hesitate to use it proactively. That hesitation is what to work on.
-
+In the philosophy of omotenashi, waiting for a guest to ask for help is already too late. The ideal hospitality professional anticipates the need, moves toward the guest, and offers *o-tetsudai shimashō ka* before the guest has to formulate a request. This proactive care, *ki ga tsuku* (気が付く), or "noticing," is one of the defining qualities of excellent service. A common error is know the phrase but hesitate to use it proactively. That hesitation is what to work on.
 ## Example Sentences
 
 **1.** お荷物をお持ちでしょうか。お手伝いしましょうか。
@@ -32,7 +30,7 @@ In the philosophy of omotenashi, waiting for a guest to ask for help is already 
 
 ## Common Mistakes
 
-The most common mistake is waiting for a guest to make eye contact or directly ask before offering help. In omotenashi-oriented service, the initiative comes from the staff member, not the guest. A second mistake is offering *o-tetsudai shimashō ka* in a tone that feels routine or performative. The phrase works best when it sounds genuinely noticed and offered, not scripted.
+The most common mistake is waiting for a guest to make eye contact or directly ask before offering help. In omotenashi-oriented service, the initiative comes from the staff member, not the guest. A second mistake is offering *o-tetsudai shimashō ka* in a tone that feels routine or performative. The phrase works best when it sounds noticed and offered, not scripted.
 
 ---
 

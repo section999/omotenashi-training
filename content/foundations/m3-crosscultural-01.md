@@ -4,13 +4,13 @@ section: 1
 title: The Foundation of Cross-cultural Hospitality
 ---
 
-Japanese hospitality is one of the world's most refined service traditions, but it was built for Japanese guests, in a Japanese cultural context. When guests from other cultures arrive, the challenge is not to abandon omotenashi, but to carry its core principles — anticipation, sincerity, attentiveness — into unfamiliar territory.
+Japanese hospitality is one of the world's most refined service traditions, but it was built for Japanese guests, in a Japanese cultural context. When guests from other cultures arrive, the challenge is not to abandon omotenashi, but to carry its core principles, anticipation, sincerity, attentiveness, into unfamiliar territory.
 
 ## The Trap of Assumption
 
 The most common cross-cultural service failure is not rudeness or ignorance. It is assuming that the guest wants what a Japanese guest would want.
 
-A guest who does not remove their shoes at the threshold is not disrespecting the space; they may simply not have understood the custom. A guest who maintains strong eye contact is not being aggressive; in their culture, it signals respect. A guest who says "I'm fine, thank you" when asked if everything is satisfactory may genuinely not be fine — they come from a culture where indirect refusal is common, and they have learned to be pleasant even when dissatisfied.
+A guest who does not remove their shoes at the threshold is not disrespecting the space; they may simply not have understood the custom. A guest who maintains strong eye contact is not being aggressive; in their culture, it signals respect. A guest who says "I'm fine, thank you" when asked if everything is satisfactory may genuinely not be fine, they come from a culture where indirect refusal is common, and they have learned to be pleasant even when dissatisfied.
 
 ## Reading Cultural Signals
 

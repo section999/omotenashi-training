@@ -3,19 +3,17 @@ id: v11-vocab
 section: 23
 title: ご連絡 (go-renraku)
 ---
-
 **Pronunciation:** [go-**REN**-raku]
 **Register:** Formal, used in telephone, email, and all professional communication contexts
 
 ご連絡 refers to any act of communication or contact: a phone call, email, written notice, or message, especially in professional or formal settings. In Japanese hospitality, timely and clear ご連絡 is a core service responsibility. Whether informing a guest of a reservation change, updating a colleague about a special request, or following up after a problem has been resolved, prompt ご連絡 shows that the hotel is reliable and that it respects the guest's time. Delayed ご連絡 is one of those small failures that guests remember long after the details of their stay have faded.
 
-Staff encounter ご連絡 across a wide range of standard phrases: ご連絡をお待ちしております (we look forward to hearing from you), ご連絡いただきありがとうございます (thank you for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. In practice, using ご連絡 consistently also signals to guests that the hotel welcomes ongoing communication and is genuinely available, not just saying so as a formality.
-
+Staff encounter ご連絡 across a wide range of standard phrases: ご連絡をお待ちしております (we look forward to hearing from one), ご連絡いただきありがとうございます (thank one for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. using ご連絡 consistently also signals to guests that the hotel welcomes ongoing communication and is available, not just saying so as a formality.
 ## Example Sentences
 
 **1.** ご連絡をお待ちしております。
 *Go-renraku wo omachi shite orimasu.*
-"We look forward to your contact / hearing from you."
+"We look forward to one's contact / hearing from you."
 
 **2.** ご連絡いただきありがとうございます。担当者より折り返しご連絡いたします。
 *Go-renraku itadaki arigatou gozaimasu. Tantousha yori orikaeshi go-renraku itashimasu.*
@@ -28,11 +26,11 @@ Staff encounter ご連絡 across a wide range of standard phrases: ご連絡を�
 ## Related Expressions
 
 - **お問い合わせ (otoiawase)**: an inquiry or question from a guest; ご連絡 is the broader term for any form of contact, while お問い合わせ specifically describes a guest reaching out with a question or request.
-- **折り返し (orikaeshi)**: a return call or response; 折り返しご連絡いたします is one of the most common phrases in hospitality and combines both concepts neatly, with ご連絡 as the act and 折り返し specifying that it is a response to prior contact.
+- **折り返し (orikaeshi)**: a return call or response; 折り返しご連絡いたします is a common phrases in hospitality and combines both concepts neatly, with ご連絡 as the act and 折り返し specifying that it is a response to prior contact.
 
 ## Common Mistakes
 
-Using 連絡します without ご when speaking with guests is a common slip. It sounds too casual for a formal service environment, so make ご連絡 the default when you are guest-facing. Students also sometimes close a call with ありがとうございました and nothing more, but the closing invitation, ご連絡をお待ちしております or またいつでもご連絡ください, is an important part of the warm finish that omotenashi calls for. That said, be careful not to confuse ご連絡 with 伝言: ご連絡 is the act of communicating directly, while 伝言 is a message relayed through a third party. The distinction is worth remembering because mixing them up can lead to a guest expecting a direct call when what actually happened was a note left at the front desk.
+Using 連絡します without ご when speaking with guests is a common slip. It sounds too casual for a formal service environment, so make ご連絡 the default when one is guest-facing. Students also sometimes close a call with ありがとうございました and nothing more, but the closing invitation, ご連絡をお待ちしております or またいつでもご連絡ください, is an important part of the warm finish that omotenashi calls for. However, be careful not to confuse ご連絡 with 伝言: ご連絡 is the act of communicating directly, while 伝言 is a message relayed through a third party. The distinction is important because mixing them up can lead to a guest expecting a direct call when what happened was a note left at the front desk.
 
 ---
 

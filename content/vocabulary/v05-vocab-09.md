@@ -3,15 +3,12 @@ id: v05-vocab
 section: 9
 title: 水 (mizu)
 ---
-
 **Pronunciation:** [**mi**-zu]
 **Register:** Formal, always use お水 in guest-facing speech
 
-お水 holds a special place in Japanese restaurant culture. Unlike many countries where water has to be requested and may even come at a charge, complimentary cold water is served automatically and refilled proactively in most Japanese dining establishments. This is a direct expression of 気配り (kikubari), the art of noticing and meeting a guest's needs before they have to ask. An empty water glass is considered a service lapse, so attentive servers make water replenishment a quiet, steady priority throughout the meal. In high-end hotel restaurants and ryokan, the quality of the water itself — sometimes spring water or lightly mineralized water — is worth sharing with guests as part of the dining experience.
+お水 holds a special place in Japanese restaurant culture. Unlike many countries where water has to be requested and may even come at a charge, complimentary cold water is served automatically and refilled proactively in most Japanese dining establishments. This is a direct expression of 気配り (kikubari), the art of noticing and meeting a guest's needs before they have to ask. An empty water glass is considered a service lapse, so attentive servers make water replenishment a quiet, steady priority throughout the meal. In high-end hotel restaurants and ryokan, the quality of the water itself, sometimes spring water or lightly mineralized water, is worth sharing with guests as part of the dining experience.
 
-Temperature awareness matters as much as timing. Some guests, particularly older Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect chilled water with ice. Asking about temperature preference before assuming shows exactly the kind of anticipatory awareness that separates good service from genuinely memorable service. When refilling, approach quietly and pour without cutting into the guest's conversation.
-
-## Example Sentences
+Temperature awareness matters as much as timing. Some guests, particularly older Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect chilled water with ice. Asking about temperature preference before assuming shows exactly the kind of anticipatory awareness that separates good service from memorable service. When refilling, approach quietly and pour without cutting into the guest's conversation\n## Example Sentences
 
 **1.** お水をお持ちいたします。少々お待ちください。
 *O-mizu wo o-mochi itashimasu. Shoushou o-machi kudasai.*

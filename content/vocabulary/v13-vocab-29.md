@@ -3,12 +3,9 @@ id: v13-vocab
 section: 29
 title: 改善 (kaizen)
 ---
+改善 reads as "change for the better" and is a notable internationally recognised concepts to emerge from Japanese management philosophy. In the hospitality context, it refers to the ongoing, systematic effort to refine service methods, eliminate inefficiencies, and elevate the guest experience through small, incremental improvements rather than radical overhauls. Every department, from housekeeping and front desk to kitchen and concierge, is expected to participate in the 改善 process, and staff at all levels are encouraged to notice problems and propose solutions. This culture of continuous improvement ensures that service quality does not stagnate but evolves with guest expectations.
 
-改善 reads as "change for the better" and is one of the most internationally recognised concepts to emerge from Japanese management philosophy. In the hospitality context, it refers to the ongoing, systematic effort to refine service methods, eliminate inefficiencies, and elevate the guest experience through small, incremental improvements rather than radical overhauls. Every department, from housekeeping and front desk to kitchen and concierge, is expected to participate in the 改善 process, and staff at all levels are encouraged to notice problems and propose solutions. This culture of continuous improvement ensures that service quality does not stagnate but evolves with guest expectations.
-
-In practice, 改善 activities may be as simple as repositioning a towel storage rack to reduce the number of steps a housekeeper takes per room, or as significant as redesigning the check-in sequence to eliminate wait times. Many hotels hold regular 改善ミーティング (kaizen miitingu, improvement meetings) where staff share observations from their daily work. Proposals that are adopted are often acknowledged publicly to reinforce the value of participation. The language around 改善 is important: rather than framing issues as failures, Japanese hospitality culture uses 改善 to frame them as opportunities, which preserves team morale and encourages open communication.
-
-## Example Sentences
+改善 activities may be as simple as repositioning a towel storage rack to reduce the number of steps a housekeeper takes per room, or as significant as redesigning the check-in sequence to eliminate wait times. Many hotels hold regular 改善ミーティング (kaizen miitingu, improvement meetings) where staff share observations from their daily work. Proposals that are adopted are often acknowledged publicly to reinforce the value of participation. The language around 改善 is important: rather than framing issues as failures, Japanese hospitality culture uses 改善 to frame them as opportunities, which preserves team morale and encourages open communication\n## Example Sentences
 
 **1.** お客様からのご意見をもとに、フロントサービスの改善を進めております。
 *Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*
@@ -29,7 +26,7 @@ In practice, 改善 activities may be as simple as repositioning a towel storage
 
 ## Common Mistakes
 
-Learners sometimes assume 改善 is synonymous with 修理 (shuuri, repair) or 修正 (shuusei, correction), but 改善 implies proactive, forward-looking enhancement rather than fixing something that is broken. Another frequent error is treating 改善 as a one-time event: in Japanese workplace culture it is understood as continuous and never truly complete. When proposing a 改善, use the polite form 「改善案を提案させていただきます」 (I would like to propose an improvement idea) rather than more direct phrasing, as the humble register shows respect for the team and decision-makers.
+A common mistake is to assume 改善 is synonymous with 修理 (shuuri, repair) or 修正 (shuusei, correction), but 改善 implies proactive, forward-looking enhancement rather than fixing something that is broken. Another frequent error is treating 改善 as a one-time event: in Japanese workplace culture it is understood as continuous and never truly complete. When proposing a 改善, use the polite form 「改善案を提案させていただきます」 (I would like to propose an improvement idea) rather than more direct phrasing, as the humble register shows respect for the team and decision-makers.
 
 ---
 

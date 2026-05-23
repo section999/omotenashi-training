@@ -3,15 +3,12 @@ id: v14-vocab
 section: 3
 title: パスポート確認 (pasupoto kakunin)
 ---
-
 **Pronunciation:** [pa-su-po-to ka-**ku**-nin]
 **Register:** Formal/Procedural, standard language in hotel operations and front desk work
 
-パスポート確認 is the process of verifying a guest's passport at check-in, and in Japan it isn't optional: hotels are legally required to record the passport information of foreign nationals at the time of arrival. Your job is to check that the passport is valid and not expired, that the visa status is consistent with the guest's stay, and that the name on the booking matches the document in front of you. The legal requirement is non-negotiable, but how you carry it out absolutely is, and doing it with warmth and professionalism is what separates a smooth check-in from one that leaves a guest feeling interrogated.
+パスポート確認 is the process of verifying a guest's passport at check-in, and in Japan it isn't optional: hotels are legally required to record the passport information of foreign nationals at the time of arrival. Your job is to check that the passport is valid and not expired, that the visa status is consistent with the guest's stay, and that the name on the booking matches the document in front of one. The legal requirement is non-negotiable, but how one carry it out absolutely is, and doing it with warmth and professionalism distinguishes a smooth check-in from one that leaves a guest feeling interrogated.
 
-In practice, the small details of how you handle the document matter as much as the check itself. Receive and return the passport with both hands: this is standard Japanese service etiquette and signals respect. Explain clearly why you need to see the passport and reassure the guest that the information is collected purely for legal registration, not stored for any other purpose. If your property sees a lot of international guests, a multilingual card at the front desk explaining the process in a few languages is a simple touch that can prevent a lot of awkward moments.
-
-## Example Sentences
+the small details of how one handles the document matter as much as the check itself. Receive and return the passport with both hands: this is standard Japanese service etiquette and signals respect. Explain clearly why one needs to see the passport and reassure the guest that the information is collected purely for legal registration, not stored for any other purpose. If one's property sees a lot of international guests, a multilingual card at the front desk explaining the process in a few languages is a simple touch that can prevent a lot of awkward moments\n## Example Sentences
 
 **1.** チェックインの際に、外国のお客様にはパスポート確認をお願いしております。
 *Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.*
@@ -19,7 +16,7 @@ In practice, the small details of how you handle the document matter as much as 
 
 **2.** パスポート確認は法律上の義務ですので、ご協力をお願いいたします。
 *Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*
-"Passport verification is a legal requirement, so we appreciate your cooperation."
+"Passport verification is a legal requirement, so we appreciate one's cooperation."
 
 **3.** フロントスタッフはパスポート確認の後、情報を台帳に記入します。
 *Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*
@@ -32,7 +29,7 @@ In practice, the small details of how you handle the document matter as much as 
 
 ## Common Mistakes
 
-Students sometimes blur the line between パスポート確認 and ビザ確認 (visa check). They're related but distinct: the passport check confirms who the person is and whether their document is valid, while a visa check confirms their permission to be in the country. One more thing that surprises newer staff: you must request the passport check from every foreign guest, regardless of whether they appear Japanese or not. Residency status and nationality cannot be judged by appearance, and skipping the check for some guests is both a legal risk and an inconsistency in service. Also remember that 確認 means "verification," not "collection": you check the document and hand it back. You do not keep it.
+A common error is blur the line between パスポート確認 and ビザ確認 (visa check). They're related but distinct: the passport check confirms who the person is and whether their document is valid, while a visa check confirms their permission to be in the country. Additionally, that surprises newer staff: one must request the passport check from every foreign guest, regardless of whether they appear Japanese or not. Residency status and nationality cannot be judged by appearance, and skipping the check for some guests is both a legal risk and an inconsistency in service. Also remember that 確認 means "verification," not "collection": one check the document and hand it back. one does not keep it.
 
 ---
 

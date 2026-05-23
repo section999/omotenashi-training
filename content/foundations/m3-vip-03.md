@@ -20,7 +20,7 @@ None of these are unusual requests. They are foreseeable needs that a prepared p
 
 When a request falls outside what the property can provide directly, the correct response is not *"I'm sorry, we don't offer that."* It is: *"Leave it with me, I will look into the best way to arrange that for you."*
 
-Then find a way. Coordinate with local suppliers, concierge networks, or partner properties. A VIP guest should never encounter a wall — they should encounter a person who solves problems.
+Then find a way. Coordinate with local suppliers, concierge networks, or partner properties. A VIP guest should never encounter a wall, they should encounter a person who solves problems.
 
 ## The One Exception
 

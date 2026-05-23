@@ -3,14 +3,11 @@ id: v01-vocab
 section: 19
 title: お気をつけて (oki o tsukete)
 ---
-
-**お気をつけて** means "please take care" or "please be safe." It is said when someone is leaving, heading out, or about to travel somewhere. The phrase contains *ki* (気, spirit/attention) and *tsukeru* (付ける, to apply/attach), so literally it's asking the person to "apply their attention to safety." That etymology matters because it tells you something real about the spirit behind the phrase.
+**お気をつけて** means "please take care" or "please be safe." It is said when someone is leaving, heading out, or about to travel somewhere. The phrase contains *ki* (気, spirit/attention) and *tsukeru* (付ける, to apply/attach), so literally it's asking the person to "apply their attention to safety." That etymology matters because it tells one something real about the spirit behind the phrase.
 
 In hospitality, *o-ki wo tsukete* comes up whenever a guest departs. They're heading out sightseeing, leaving after a meal, or setting off for the station. It pairs naturally with *itterasshai* (行ってらっしゃい, "please go and come back safely") for guests who will return, or with *mata okoshi kudasaimase* (またお越しくださいませ, "please visit us again") for those who are checking out for good. Knowing which farewell fits which situation is the kind of detail that separates well-trained staff from great ones.
 
-Students sometimes rush this phrase when things get busy, or drop it entirely. That is exactly when it matters most. In Japanese culture, the moment of parting carries real weight. Saying *o-ki wo tsukete* with a genuine bow tells the guest something that no facility feature can: *I still care what happens to you once you leave.* That is omotenashi at the threshold.
-
-## Example Sentences
+A common error is to rush this phrase when things get busy, or drop it entirely. That is exactly when it matters most. In Japanese culture, the moment of parting carries real weight. Saying *o-ki wo tsukete* with a genuine bow tells the guest something that no facility feature can: *I still care what happens to you once you leave.* That is omotenashi at the threshold\n## Example Sentences
 
 **1.** いってらっしゃいませ。お気をつけて。
 *Itterasshai mase. O-ki wo tsukete.*
@@ -18,11 +15,11 @@ Students sometimes rush this phrase when things get busy, or drop it entirely. T
 
 **2.** 本日はご利用ありがとうございました。お気をつけてお帰りください。
 *Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.*
-"Thank you for visiting us today. Please take care on your way home."
+"Thank you for visiting us today. Please take care on one's way home."
 
 **3.** 足元にお気をつけください。
 *Ashimoto ni o-ki wo tsukete kudasai.*
-"Please watch your step." (Specific application for stairs or uneven surfaces)
+"Please watch one's step." (Specific application for stairs or uneven surfaces)
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ Students sometimes rush this phrase when things get busy, or drop it entirely. T
 
 ## Common Mistakes
 
-One more thing to be careful about: do not use *o-ki wo tsukete* when a guest is simply moving to a different area of the property. The phrase implies a real departure, and using it when someone is just heading to the restaurant can confuse them about whether they are leaving. Save it for genuine exits. The other mistake is delivering the phrase on autopilot, fast, flat, and barely audible. A brief moment of eye contact and a small bow transforms it from a scripted line into something the guest will actually remember.
+Additionally, do not use *o-ki wo tsukete* when a guest is moving to a different area of the property. The phrase implies a real departure, and using it when someone is just heading to the restaurant can confuse them about whether they are leaving. Save it for genuine exits. The other mistake is delivering the phrase on autopilot, fast, flat, and barely audible. A brief moment of eye contact and a small bow transforms it from a scripted line into something the guest will remember.
 
 ---
 

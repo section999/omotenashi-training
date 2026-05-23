@@ -3,15 +3,12 @@ id: v09-vocab
 section: 26
 title: 空き状況 (aki joukyou)
 ---
-
 **Pronunciation:** [a-ki-**jou**-kyou]
 **Register:** Formal/Neutral, front desk and reservations communication with guests
 
-空き状況 (aki joukyou) literally puts 空き (vacancy, open space) together with 状況 (status, situation) to mean "vacancy status" or "availability." In day-to-day hotel operations, it is one of the most frequently checked pieces of information: guests ask before booking, staff verify before confirming, and housekeeping updates it in real time as rooms are cleaned and released. Getting 空き状況 right matters far beyond individual reservations. Overselling leads to 満室 situations that damage trust, while under-reporting availability due to inaccurate system data leaves revenue on the table.
+空き状況 (aki joukyou) literally puts 空き (vacancy, open space) together with 状況 (status, situation) to mean "vacancy status" or "availability." In day-to-day hotel operations, it is a notable frequently checked pieces of information: guests ask before booking, staff verify before confirming, and housekeeping updates it in real time as rooms are cleaned and released. Getting 空き状況 right matters far beyond individual reservations. Overselling leads to 満室 situations that damage trust, while under-reporting availability due to inaccurate system data leaves revenue on the table.
 
-The professional habit to build here is simple: verify before you assert. A staff member who tells a guest そのお日にちは満室でございます without actually checking the system risks turning away a booking that was perfectly possible, or contradicting what another booking channel shows. In practice, the only acceptable response to any availability inquiry is 空き状況を確認いたします. Check first, then report. That habit, drilled until it becomes automatic, separates professional front desk work from guesswork.
-
-## Example Sentences
+The professional habit to build here is simple: verify before one assert. A staff member who tells a guest そのお日にちは満室でございます without checking the system risks turning away a booking that was perfectly possible, or contradicting what another booking channel shows. the only acceptable response to any availability inquiry is 空き状況を確認いたします. Check first, then report. That habit, drilled until it becomes automatic, separates professional front desk work from guesswork\n## Example Sentences
 
 **1.** 少々お待ちください。ただいま空き状況を確認いたします。
 *Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.*
@@ -32,7 +29,7 @@ The professional habit to build here is simple: verify before you assert. A staf
 
 ## Common Mistakes
 
-The most serious error is asserting 満室 or confirming availability based on memory or assumption rather than a live system check. Availability changes constantly, and an unverified answer is never professionally acceptable. Students often also respond to availability questions with vague phrases like 難しいかもしれません (it might be difficult), which gives the guest nothing useful to work with. A clear check followed by a clear answer is always the right approach. Worth noting as well: 空き状況 and 空室数 are different things. 空き状況 is the status concept you use when speaking with guests; 空室数 is the numerical room count used internally. Mixing them up in guest communication sounds imprecise and can create confusion about what you actually mean.
+The most serious error is asserting 満室 or confirming availability based on memory or assumption rather than a live system check. Availability changes constantly, and an unverified answer is never professionally acceptable. A common error is to also respond to availability questions with vague phrases like 難しいかもしれません (it might be difficult), which gives the guest nothing useful to work with. A clear check followed by a clear answer is always the right approach. Worth noting as well: 空き状況 and 空室数 are different things. 空き状況 is the status concept one uses when speaking with guests; 空室数 is the numerical room count used internally. Mixing them up in guest communication sounds imprecise and can create confusion about what one mean.
 
 ---
 

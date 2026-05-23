@@ -6,7 +6,7 @@ title: Private and In-Room Baths, Kashikiri and Rotenburo
 
 Beyond the communal onsen, many properties offer bathing experiences that provide greater privacy and personalisation. Knowing these options well, and knowing which guests to recommend them to, is a practical and valuable service skill.
 
-## Kashikiri Onsen (貸切温泉) — Reserved Private Baths
+## Kashikiri Onsen (貸切温泉), Reserved Private Baths
 
 A *kashikiri* bath is a private onsen facility reserved exclusively for one guest or group for a set period. It uses the same natural hot spring water as the communal bath but allows guests to bathe in complete privacy.
 
@@ -25,13 +25,13 @@ Many guests are unaware that this option exists until a staff member mentions it
 - Prepare the bath 15 minutes before the reserved time: heat the water, set the lighting, place fresh towels, and check that the space is spotless
 - A seasonal flower or small natural element at the bath entrance elevates the experience from functional to memorable
 
-## Rotenburo (露天風呂) — Open-Air Baths
+## Rotenburo (露天風呂), Open-Air Baths
 
-An open-air bath is where guests soak surrounded by the natural landscape — garden, forest, or mountain view. The rotenburo connects the bathing experience directly to the Japanese appreciation of nature and season. Snow falling into an outdoor bath (*yukimi onsen*, 雪見温泉) is one of the most iconic images of Japanese winter hospitality.
+An open-air bath is where guests soak surrounded by the natural landscape, garden, forest, or mountain view. The rotenburo connects the bathing experience directly to the Japanese appreciation of nature and season. Snow falling into an outdoor bath (*yukimi onsen*, 雪見温泉) is one of the most iconic images of Japanese winter hospitality.
 
 When recommending the rotenburo, tie the suggestion to the current season:
 
-- "The outdoor bath is particularly beautiful right now — the maple leaves are at their peak."
+- "The outdoor bath is particularly beautiful right now, the maple leaves are at their peak."
 
 This kind of specific, timely recommendation creates genuine anticipation. A vague general recommendation does not have the same effect.
 

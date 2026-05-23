@@ -4,13 +4,13 @@ section: 1
 title: Service Begins Before the Guest Arrives
 ---
 
-Some of the most effective hospitality happens before any guest interaction takes place. The room that reflects a remembered preference, the table already set for a business lunch, the lobby that feels genuinely welcoming from the first step inside — none of that is accidental. It is the result of deliberate preparation the guest will never directly see but will absolutely feel.
+Some of the most effective hospitality happens before any guest interaction takes place. The room that reflects a remembered preference, the table already set for a business lunch, the lobby that feels genuinely welcoming from the first step inside, none of that is accidental. It is the result of deliberate preparation the guest will never directly see but will absolutely feel.
 
 ## Kikubari and the Preparation Stage
 
 **Kikubari (気配り)**, anticipatory attentiveness, begins before the guest arrives. The question at this stage is not "what do I need to set up?" but "what does this specific guest need to feel genuinely cared for?" These are meaningfully different questions, and the gap between them separates adequate service from memorable service.
 
-The information needed for good preparation is almost always already available: previous preference notes, booking details, the purpose of the visit, arrival time, and length of stay. Using that information before the guest arrives — rather than asking them to repeat it at check-in — is what distinguishes thoughtful hospitality from merely competent processing.
+The information needed for good preparation is almost always already available: previous preference notes, booking details, the purpose of the visit, arrival time, and length of stay. Using that information before the guest arrives, rather than asking them to repeat it at check-in, is what distinguishes thoughtful hospitality from merely competent processing.
 
 ## Preparation by Role
 
@@ -23,7 +23,7 @@ Different roles require different kinds of pre-arrival preparation:
 
 ## The Team Briefing
 
-The team briefing is the most important preparation tool in any property. Guest information — preferences, the purpose of the stay, any sensitivities — must move across all departments before the guest arrives.
+The team briefing is the most important preparation tool in any property. Guest information, preferences, the purpose of the stay, any sensitivities, must move across all departments before the guest arrives.
 
 A dietary restriction that stays only in the reservation system and never reaches the kitchen is not managed. It is a liability. The briefing only works when every person in it is actively listening and passing information forward. The quality of preparation is exactly equal to the quality of that information flow.
 

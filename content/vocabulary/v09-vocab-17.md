@@ -3,12 +3,9 @@ id: v09-vocab
 section: 17
 title: 素泊まり (sudomari)
 ---
-
 素泊まり breaks down clearly from its parts: 素 (su) means "plain" or "bare," and 泊まり (tomari) means "staying overnight," so together they describe a stay without any meals attached. It is the most basic option in Japanese hotel and ryokan settings and stands in contrast to the meal-inclusive plans that are especially common at ryokan. Guests choose 素泊まり for different reasons: some want to explore local restaurants, some simply want to keep costs down. For staff, the practical importance of knowing a guest is on 素泊まり is that it prevents the awkward situation of directing someone toward the dining room for a meal they have not paid for.
 
-Confirming that no meals are included is only the starting point. The omotenashi approach is to follow up with something useful: a recommendation for nearby restaurants, a mention of room service options, or directions to the nearest convenience store. A guest who chose 素泊まり to save money or stay flexible is not looking for an apology — they are looking for good local information. Providing that turns the conversation into a service moment rather than a disappointment.
-
-## Example Sentences
+Confirming that no meals are included is only the starting point. The omotenashi approach is to follow up with something useful: a recommendation for nearby restaurants, a mention of room service options, or directions to the nearest convenience store. A guest who chose 素泊まり to save money or stay flexible is not looking for an apology, they are looking for good local information. Providing that turns the conversation into a service moment rather than a disappointment\n## Example Sentences
 
 **1.** お客様のご予約は素泊まりプランでございます。お食事のご用意はございませんが、近くにレストランがいくつかございます。
 *O-kyaku-sama no go-yoyaku wa sudomari puran de gozaimasu. O-shokuji no go-youi wa gozaimasen ga, chikaku ni resutoran ga ikutsuka gozaimasu.*
@@ -25,11 +22,11 @@ Confirming that no meals are included is only the starting point. The omotenashi
 ## Related Expressions
 
 - **朝食付き (choushoku tsuki)**: the most direct contrast with 素泊まり; when guests on a 素泊まり booking ask about adding breakfast, confirm whether that is possible and what it costs, using 朝食付きプランへの変更 as the natural phrasing.
-- **一泊二食 (ippaku nishoku)**: "one night with two meals," meaning both breakfast and dinner are included; this is the opposite end of the spectrum from 素泊まり and is the standard arrangement at most traditional ryokan, so know it well when you need to describe the full range of options.
+- **一泊二食 (ippaku nishoku)**: "one night with two meals," meaning both breakfast and dinner are included; this is the opposite end of the spectrum from 素泊まり and is the standard arrangement at most traditional ryokan, so know it well when one needs to describe the full range of options.
 
 ## Common Mistakes
 
-Introducing 素泊まり with apologetic language is unnecessary and can actually embarrass guests who chose this plan on purpose. Treat it as a perfectly valid option, because it is. A second important point is clarity about what "no meals" means. 素泊まり is sometimes mistakenly treated as equivalent to 朝食なし, "no breakfast," but 素泊まり means no meals at all: no breakfast, no dinner. This distinction matters most at ryokan, where guests may arrive assuming dinner is always part of the deal. Make sure they know there is no evening meal before they sit down expecting one.
+Introducing 素泊まり with apologetic language is unnecessary and can embarrass guests who chose this plan on purpose. Treat it as a perfectly valid option, because it is. A second important point is clarity about what "no meals" means. 素泊まり is sometimes mistakenly treated as equivalent to 朝食なし, "no breakfast," but 素泊まり means no meals at all: no breakfast, no dinner. This distinction matters most at ryokan, where guests may arrive assuming dinner is always part of the deal. Make sure they know there is no evening meal before they sit down expecting one.
 
 ---
 

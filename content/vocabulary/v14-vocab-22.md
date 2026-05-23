@@ -3,15 +3,12 @@ id: v14-vocab
 section: 22
 title: 時刻表 (jikokuhyou)
 ---
-
 **Pronunciation:** [ji-ko-ku-**hyou**]
 **Register:** Formal to neutral, professional communication, transit planning, written materials
 
-時刻表 combines 時刻 (time) and 表 (table or chart) to mean "timetable" or "schedule." It refers to any official listing of departure and arrival times for trains, buses, ferries, and other scheduled transport. Japan takes its 時刻表 seriously: the thick monthly booklet listing every train in the country is a cultural institution, and the precision of Japanese transit means the 時刻表 is genuinely reliable down to the minute. That reliability is what makes it such a useful reference during a guest's stay, because they can actually plan their entire day around it.
+時刻表 combines 時刻 (time) and 表 (table or chart) to mean "timetable" or "schedule." It refers to any official listing of departure and arrival times for trains, buses, ferries, and other scheduled transport. Japan takes its 時刻表 seriously: the thick monthly booklet listing every train in the country is a cultural institution, and the precision of Japanese transit means the 時刻表 is reliable down to the minute. That reliability contributes to it such a useful reference during a guest's stay, because they can plan their entire day around it.
 
-Concierge staff who can read a 時刻表 quickly, or who know how to pull one up on Navitime or the JR East website, are genuinely valuable. Guests planning day trips around temple opening hours, seasonal illuminations, or restaurant reservations often need accurate departure times to work backward from. Students often underestimate how often this skill comes up: in a single afternoon at a busy hotel, you might check the 時刻表 five or six times. A good response phrase is 「時刻表を調べてみますので、少々お待ちくださいませ」, which shows initiative and keeps the guest calm while you look it up.
-
-## Example Sentences
+Concierge staff who can read a 時刻表 quickly, or who know how to pull one up on Navitime or the JR East website, are valuable. Guests planning day trips around temple opening hours, seasonal illuminations, or restaurant reservations often need accurate departure times to work backward from. A common error is to underestimate how often this skill comes up: in a single afternoon at a busy hotel, one might check the 時刻表 five or six times. A good response phrase is 「時刻表を調べてみますので、少々お待ちくださいませ」, which shows initiative and keeps the guest calm while one look it up\n## Example Sentences
 
 **1.** 電車の時刻表を確認しました。
 *Densha no jikokuhyou wo kakunin shimashita.*
@@ -32,7 +29,7 @@ Concierge staff who can read a 時刻表 quickly, or who know how to pull one up
 
 ## Common Mistakes
 
-スケジュール (schedule) and 時刻表 are not the same thing. スケジュール is a personal agenda or event schedule, while 時刻表 refers specifically to a transport timetable. In hospitality, using 時刻表 when discussing trains and buses sounds precise and professional. That said, the confusion that causes real problems is between 到着時刻 (arrival time) and 発車時刻 (departure time). When a guest asks what time the train is, always confirm which one they need: the answer is different by several minutes, and getting it wrong can mean a missed connection.
+スケジュール (schedule) and 時刻表 are not the same thing. スケジュール is a personal agenda or event schedule, while 時刻表 refers specifically to a transport timetable. In hospitality, using 時刻表 when discussing trains and buses sounds precise and professional. However, the confusion that causes real problems is between 到着時刻 (arrival time) and 発車時刻 (departure time). When a guest asks what time the train is, staff should confirm which one they need: the answer is different by several minutes, and getting it wrong can mean a missed connection.
 
 ---
 

@@ -3,15 +3,12 @@ id: v12-vocab
 section: 21
 title: 点検中 (tenken chuu)
 ---
-
 **Pronunciation:** [**ten**-ken **chuu**]
 **Register:** Formal/Neutral, facility management and guest communication
 
-点検中 means "under inspection" or "currently being checked." It combines 点検 (inspection) with 中 (in the middle of, currently underway). You will see this status posted on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems whenever scheduled or emergency maintenance is taking place. Regular inspections are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so 点検中 is a familiar notice for both staff and guests. It tells people that a system is being checked, and that access to it is temporarily paused.
+点検中 means "under inspection" or "currently being checked." It combines 点検 (inspection) with 中 (in the middle of, currently underway). one will see this status posted on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems whenever scheduled or emergency maintenance is taking place. Regular inspections are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so 点検中 is a familiar notice for both staff and guests. It tells people that a system is being checked, and that access to it is temporarily paused.
 
-When something is 点検中, posting a sign is just the start of your job. Staff should approach any guest who comes toward the restricted area, explain the situation verbally, give an estimated duration if possible, and offer alternatives. If the elevator is 点検中, direct guests to the nearest staircase or an available lift and offer to carry luggage or accompany anyone who has difficulty with stairs. In practice, guests who receive a clear, apologetic explanation and are pointed toward a workable alternative almost never complain about routine maintenance. It is the silence and the unexplained sign that causes frustration. After the inspection is complete, reopen the area promptly and log the findings in the maintenance record.
-
-## Example Sentences
+When something is 点検中, posting a sign is just the start of one's job. Staff should approach any guest who comes toward the restricted area, explain the situation verbally, give an estimated duration if possible, and offer alternatives. If the elevator is 点検中, direct guests to the nearest staircase or an available lift and offer to carry luggage or accompany anyone who has difficulty with stairs. guests who receive a clear, apologetic explanation and are pointed toward a workable alternative almost never complain about routine maintenance. It is the silence and the unexplained sign that causes frustration. After the inspection is complete, reopen the area promptly and log the findings in the maintenance record\n## Example Sentences
 
 **1.** 大変申し訳ございませんが、ただいまプールは点検中でございます。
 *Taihen moushiwake gozaimasenga, tadaima puuru wa tenken chuu de gozaimasu.*
@@ -32,7 +29,7 @@ When something is 点検中, posting a sign is just the start of your job. Staff
 
 ## Common Mistakes
 
-Students often use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong one gives guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. That said, the biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and genuine alternative guidance for every guest who approaches.
+A common error is to use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong one gives guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. However, the biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and genuine alternative guidance for every guest who approaches.
 
 ---
 

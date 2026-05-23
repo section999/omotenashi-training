@@ -3,14 +3,12 @@ id: v06-vocab
 section: 20
 title: 有料 (yuuryou)
 ---
-
 **Pronunciation:** [yuu-**ryou**]
 **Register:** Formal/Neutral, used when informing guests that a charge applies to a service or item
 
-有料 combines the characters for "existence/having" (有) and "fee/charge" (料), literally meaning "there is a fee." It is the direct counterpart to 無料 (free of charge). In Japanese hospitality culture, transparency about pricing is fundamental to trust. Surprising a guest with a charge they did not expect is one of the most damaging service failures you can make, and the size of the charge is almost irrelevant. A small unexpected bill can do more reputational damage than a large one that was clearly communicated upfront.
+有料 combines the characters for "existence/having" (有) and "fee/charge" (料), literally meaning "there is a fee." It is the direct counterpart to 無料 (free of charge). In Japanese hospitality culture, transparency about pricing is fundamental to trust. Surprising a guest with a charge they did not expect can be a damaging service failure one can make, and the size of the charge is almost irrelevant. A small unexpected bill can do more reputational damage than a large one that was clearly communicated upfront.
 
-有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry, and late check-out fees. It also shows up throughout printed in-room materials and menus. When telling a guest that something is 有料, always mention the price or point them to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; you can check the pricing on the menu). That kind of complete communication is what prevents billing disputes from arising in the first place.
-
+有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry, and late check-out fees. It also shows up throughout printed in-room materials and menus. When telling a guest that something is 有料, staff should mention the price or point them to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; one can check the pricing on the menu). That kind of complete communication prevents billing disputes from arising in the first place.
 ## Example Sentences
 
 **1.** こちらのサービスは有料でございます。料金は後ほどご請求いたします。
@@ -27,12 +25,12 @@ title: 有料 (yuuryou)
 
 ## Related Expressions
 
-- **無料 (muryou)**: the direct opposite, meaning free of charge. You need to be equally comfortable with both terms because a single check-in briefing may require both: Wi-Fi is 無料, but room service is 有料.
+- **無料 (muryou)**: the direct opposite, meaning free of charge. one needs to be equally comfortable with both terms because a single check-in briefing may require both: Wi-Fi is 無料, but room service is 有料.
 - **別途料金 (betto ryoukin)**: meaning "separate or additional charge," used when a base service is included but an add-on carries an extra cost. It is more specific than 有料 alone and is the right phrase when a guest might reasonably assume an extension of an already-paid service is covered.
 
 ## Common Mistakes
 
-The most serious mistake is failing to disclose 有料 before a guest uses a service. Students often hesitate to bring up charges because it feels awkward or negative. That said, discovering a surprise charge at checkout is far worse for the relationship than a polite heads-up beforehand. Worth noting: do not confuse 有料 with 料金 (ryoukin, the actual fee amount). 有料 describes the status of being chargeable, while 料金 refers to the specific price. And finally, 「お金かかります」 instead of 「有料でございます」 in a formal service context sounds unprofessional. Use the right word for the register.
+The most serious mistake is failing to disclose 有料 before a guest uses a service. A common error is hesitate to bring up charges because it feels awkward or negative. However, discovering a surprise charge at checkout is far worse for the relationship than a polite heads-up beforehand. Note: do not confuse 有料 with 料金 (ryoukin, the actual fee amount). 有料 describes the status of being chargeable, while 料金 refers to the specific price. And finally, 「お金かかります」 instead of 「有料でございます」 in a formal service context sounds unprofessional. Use the right word for the register.
 
 ---
 

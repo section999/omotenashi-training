@@ -26,7 +26,7 @@ Full kosher certification requires rabbinic supervision and is extremely rare in
 
 ## Vegetarian and Vegan
 
-Japanese cuisine can appear vegetarian but frequently uses *katsuobushi* (dried bonito) or fish-based dashi. Always verify with the kitchen and offer genuine alternatives — tofu, vegetable dashi, plant-based dishes — rather than simply removing meat from a dish that was never designed to be meatless.
+Japanese cuisine can appear vegetarian but frequently uses *katsuobushi* (dried bonito) or fish-based dashi. Always verify with the kitchen and offer genuine alternatives, tofu, vegetable dashi, plant-based dishes, rather than simply removing meat from a dish that was never designed to be meatless.
 
 ## Allergies
 

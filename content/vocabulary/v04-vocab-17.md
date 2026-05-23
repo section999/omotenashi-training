@@ -3,12 +3,9 @@ id: v04-vocab
 section: 17
 title: 汚れ (yogore)
 ---
-
 汚れ refers to dirt, stains, grime, or any visible soiling on surfaces, fabrics, or fixtures. In Japanese hospitality, the presence of 汚れ in a guest room or dining area calls for immediate attention. Guests expect spotless cleanliness as a baseline, and spotting a stain before the guest does is the mark of a thorough housekeeper. That ability to notice and name 汚れ accurately, then address it quickly with the right method, is a practical skill that takes real time to develop.
 
-In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, scuff marks on corridor walls. When a guest reports a 汚れ, the right response combines acknowledgment with immediate action: 汚れをすぐに清掃いたします. In internal communication, specifying the type of stain (食べ物の汚れ for a food stain, 水の汚れ for a watermark) helps ensure the correct cleaning method is applied. In practice, not all stains respond to the same treatment, and using the wrong product can make things worse.
-
-## Example Sentences
+In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, scuff marks on corridor walls. When a guest reports a 汚れ, the right response combines acknowledgment with immediate action: 汚れをすぐに清掃いたします. In internal communication, specifying the type of stain (食べ物の汚れ for a food stain, 水の汚れ for a watermark) helps ensure the correct cleaning method is applied. not all stains respond to the same treatment, and using the wrong product can make things worse\n## Example Sentences
 
 **1.** お客様のご指摘の汚れを、ただちに清掃いたします。
 *Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.*
@@ -29,7 +26,7 @@ In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet sta
 
 ## Common Mistakes
 
-Students sometimes reach for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります ("there is a stain") without following up sounds passive and unhelpful. Always add 清掃いたします or 対応いたします. And when reporting to a guest, avoid going into excessive detail about what the stain looks like. Keep it brief and move straight to the solution.
+A common error is reach for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります ("there is a stain") without following up sounds passive and unhelpful. Always add 清掃いたします or 対応いたします. And when reporting to a guest, avoid going into excessive detail about what the stain looks like. Keep it brief and move straight to the solution.
 
 ---
 

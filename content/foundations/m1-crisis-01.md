@@ -6,7 +6,7 @@ title: Why Complaints Are Gifts
 
 When a guest voices a complaint, the natural reaction can be anxiety or defensiveness. In professional hospitality, however, a complaint is understood differently: it is an opportunity to respond with care and to demonstrate genuine commitment to the guest's experience.
 
-A guest who stays silent about a problem gives no opportunity for recovery. They leave with a negative impression and often share it with others. Research in hospitality consistently shows that guests whose complaints are resolved with genuine care frequently become more loyal than guests who experienced no problems at all. This is not a reason to accept poor service — it is a reminder that how a complaint is handled matters as much as whether problems occur.
+A guest who stays silent about a problem gives no opportunity for recovery. They leave with a negative impression and often share it with others. Research in hospitality consistently shows that guests whose complaints are resolved with genuine care frequently become more loyal than guests who experienced no problems at all. This is not a reason to accept poor service, it is a reminder that how a complaint is handled matters as much as whether problems occur.
 
 ## The Psychology of the Complaint
 
@@ -28,10 +28,10 @@ Treated as feedback rather than attack, complaints are an ongoing quality audit.
 
 At minimum, every complaint deserves:
 
-- **Immediate, undivided attention** — stop what you are doing and be fully present
-- **Genuine acknowledgement** — not a scripted apology but a real expression of understanding
-- **Clear action** — not a vague promise but a specific next step
-- **Follow-up** — return to confirm that the resolution actually worked
+- **Immediate, undivided attention**: stop what you are doing and be fully present
+- **Genuine acknowledgement**: not a scripted apology but a real expression of understanding
+- **Clear action**: not a vague promise but a specific next step
+- **Follow-up**: return to confirm that the resolution actually worked
 
 These four elements are covered in the following lessons through the LEARN framework. Before any framework, however, the orientation must be right: a guest who complains is offering the chance to make things right. Receive it accordingly.
 

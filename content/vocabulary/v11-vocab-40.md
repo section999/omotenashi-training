@@ -3,15 +3,12 @@ id: v11-vocab
 section: 40
 title: ゆっくり話してください (yukkuri hanashite kudasai)
 ---
-
 **Pronunciation:** [yuk-**ku**-ri ha-na-shi-te ku-da-sai]
 **Register:** Neutral-Polite, a cooperative request to adjust speech pace
 
-ゆっくり話してください means "please speak slowly," and it comes up in hospitality telephone work more often than you might expect. When a caller is speaking very quickly, or when accents, background noise, or language differences are making it hard to follow, this phrase gives you a polite way to adjust the pace of the conversation. Worth noting, the phrase works in both directions: staff may request it of a caller, and guests will sometimes request it of you. Treat it as a cooperative tool rather than a correction or a complaint. Japanese hospitality puts the guest's comfort first, so when a guest says this to you, slow down immediately and genuinely, without any trace of impatience in your tone.
+ゆっくり話してください means "please speak slowly," and it comes up in hospitality telephone work more often than one might expect. When a caller is speaking very quickly, or when accents, background noise, or language differences are making it hard to follow, this phrase gives one a polite way to adjust the pace of the conversation. Worth noting, the phrase works in both directions: staff may request it of a caller, and guests will sometimes request it of one. Treat it as a cooperative tool rather than a correction or a complaint. Japanese hospitality puts the guest's comfort first, so when a guest says this to one, slow down immediately and genuinely, without any trace of impatience in one's tone.
 
-When staff need to make the request themselves, always frame it with an apology: 申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか. The conditional form itadakemasu and the softened deshou ka ending push this to its most respectful level. When you are the one slowing down in response to a guest's request, do not just reduce speed. Simplify your vocabulary at the same time, pause between key pieces of information, and avoid running words together. If the barrier seems persistent throughout the call, offering to send a written confirmation by email afterward is a genuinely useful gesture.
-
-## Example Sentences
+When staff need to make the request themselves, always frame it with an apology: 申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか. The conditional form itadakemasu and the softened deshou ka ending push this to its most respectful level. When one is the one slowing down in response to a guest's request, do not just reduce speed. Simplify one's vocabulary at the same time, pause between key pieces of information, and avoid running words together. If the barrier seems persistent throughout the call, offering to send a written confirmation by email afterward is a useful gesture\n## Example Sentences
 
 **1.** 申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか。
 *Moushiwake gozaimasen ga, mou sukoshi yukkuri ohanashi itadakemasu deshou ka.*
@@ -32,7 +29,7 @@ When staff need to make the request themselves, always frame it with an apology:
 
 ## Common Mistakes
 
-Saying ゆっくり話してください in a flat tone without any softening before it can land as a rebuke, especially on the phone where you have no facial expression to cushion it. Always open with 申し訳ございませんが or 恐れ入りますが. Students also commonly slow their speech but keep their sentences just as long and vocabulary just as complex, which helps less than you would hope. When you slow down, simplify too. One more thing: be careful not to reach for this phrase when your actual problem is that you did not hear the caller at all. That is a job for 聞き取れません or もう一度お願いします. Using the wrong tool for the wrong problem adds confusion to an already difficult call.
+Saying ゆっくり話してください in a flat tone without any softening before it can land as a rebuke, especially on the phone where one has no facial expression to cushion it. Always open with 申し訳ございませんが or 恐れ入りますが. Students also commonly slow their speech but keep their sentences just as long and vocabulary just as complex, which helps less than one would hope. When one slow down, simplify too. Additionally: be careful not to reach for this phrase when one's actual problem is that one did not hear the caller at all. That is a job for 聞き取れません or もう一度お願いします. Using the wrong tool for the wrong problem adds confusion to an already difficult call.
 
 ---
 

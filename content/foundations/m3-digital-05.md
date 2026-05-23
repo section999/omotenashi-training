@@ -4,7 +4,7 @@ section: 5
 title: Social Media and Guest Privacy
 ---
 
-A single post by a guest — whether glowing or critical — can reach thousands of people before the property is even aware of it. A genuinely warm experience shared publicly provides visibility that no advertising budget can replicate. A poorly handled public complaint can do lasting damage. Social media also creates privacy risks that deserve careful attention.
+A single post by a guest, whether glowing or critical, can reach thousands of people before the property is even aware of it. A genuinely warm experience shared publicly provides visibility that no advertising budget can replicate. A poorly handled public complaint can do lasting damage. Social media also creates privacy risks that deserve careful attention.
 
 ## The Guest's Right to Privacy
 
@@ -18,7 +18,7 @@ Everything that applies to discretion in person applies online as well, with hig
 
 ## The Property's Own Social Media
 
-Sharing a guest photograph on the property's account requires explicit written permission first. Tagging a guest without consent — even in a positive context — is a privacy breach. Keep a record of all permissions given.
+Sharing a guest photograph on the property's account requires explicit written permission first. Tagging a guest without consent, even in a positive context, is a privacy breach. Keep a record of all permissions given.
 
 ## Staff Personal Accounts
 

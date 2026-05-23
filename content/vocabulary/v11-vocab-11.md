@@ -3,15 +3,12 @@ id: v11-vocab
 section: 11
 title: 伝言 (dengon)
 ---
-
 **Pronunciation:** [**DEN**-gon]
 **Register:** Formal, used in telephone and front-desk message-taking contexts
 
-伝言 is a message passed from one person to another, typically because the intended recipient was not available to take the call directly. The phrase that surrounds it in professional use is 伝言をお預かりいたします, which uses the verb お預かりする, carrying the meaning of "to receive in trust." That framing is deliberate. When a staff member accepts a 伝言, they are not just scribbling something down — they are making a personal guarantee that the message will reach the right person, accurately and without delay. That sense of responsibility is what distinguishes professional Japanese telephone etiquette from simply taking notes.
+伝言 is a message passed from one person to another, typically because the intended recipient was not available to take the call directly. The phrase that surrounds it in professional use is 伝言をお預かりいたします, which uses the verb お預かりする, carrying the meaning of "to receive in trust." That framing is deliberate. When a staff member accepts a 伝言, they are not just scribbling something down, they are making a personal guarantee that the message will reach the right person, accurately and without delay. That sense of responsibility is what distinguishes professional Japanese telephone etiquette from simply taking notes.
 
-The practical protocol for handling 伝言 has three clear steps: receive the message carefully, document it fully, and deliver it promptly. At minimum, you need the caller's name, their phone number, the time of the call, and the substance of the request. Before hanging up, read it all back: お名前が〇〇様、お電話番号が〇〇、ご用件が〇〇でございますね. That confirmation loop is not optional — skipping the readback creates a risk of errors that only surfaces later, and by then the caller has already gone.
-
-## Example Sentences
+The practical protocol for handling 伝言 has three clear steps: receive the message carefully, document it fully, and deliver it promptly. At minimum, one needs the caller's name, their phone number, the time of the call, and the substance of the request. Before hanging up, read it all back: お名前が〇〇様、お電話番号が〇〇、ご用件が〇〇でございますね. That confirmation loop is expected, skipping the readback creates a risk of errors that only surfaces later, and by then the caller has already gone\n## Example Sentences
 
 **1.** 担当者はただいま不在ですが、伝言をお預かりいたしましょうか。
 *Tantōsha wa tadaima fuzai desu ga, dengon wo oazukari itashimashō ka.*
@@ -19,11 +16,11 @@ The practical protocol for handling 伝言 has three clear steps: receive the me
 
 **2.** ご伝言の内容を復唱いたします。〇〇様よりお電話があった旨、お伝えいたします。
 *Godengon no naiyō wo fukushō itashimasu. Maru-maru-sama yori odenwa ga atta mune, otsutatae itashimasu.*
-"I will repeat your message back to you. I will let them know that Mr./Ms. [Name] called."
+"I will repeat one's message back to you. I will let them know that Mr./Ms. [Name] called."
 
 **3.** 伝言をお預かりしましたので、戻り次第ご連絡いたします。
 *Dengon wo oazukari shimashita no de, modori shidai gorenraku itashimasu.*
-"I have taken your message and will have them contact you as soon as they return."
+"I have taken one's message and will have them contact you as soon as they return."
 
 ## Related Expressions
 

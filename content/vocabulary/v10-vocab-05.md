@@ -3,16 +3,13 @@ id: v10-vocab
 section: 5
 title: 後払い (atobarai)
 ---
+後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays, room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended more readily to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs managed through the concierge. The key professional obligation is making sure proper documentation, a signed agreement, purchase order, or registered credit card, is in place before service is rendered under a 後払い arrangement.
 
-後払い means settling a charge after the service has already been received, and it is the standard billing model for most hotel stays, room charges accumulate throughout the stay and are settled at checkout. In Japanese hospitality, this trust-based arrangement is extended more readily to guests who have an established relationship with the property, corporate clients with signed agreements, or VIPs managed through the concierge. The key professional obligation is making sure proper documentation, a signed agreement, purchase order, or registered credit card, is actually in place before service is rendered under a 後払い arrangement.
-
-Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event with an agreed payment window. Staff must track all 後払い accounts carefully and flag overdue balances promptly. Worth noting: anticipating the guest's needs still applies here, having the final bill prepared before the guest arrives at checkout is standard professional practice, not an extra effort.
-
-## Example Sentences
+Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event with an agreed payment window. Staff must track all 後払い accounts carefully and flag overdue balances promptly. Note: anticipating the guest's needs still applies here, having the final bill prepared before the guest arrives at checkout is standard professional practice, not an extra effort\n## Example Sentences
 
 **1.** お食事代はお部屋付けにて後払いでお承りいたします。
 *O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.*
-"The dining charges can be billed to your room and settled at checkout."
+"The dining charges can be billed to the room and settled at checkout."
 
 **2.** 法人のお客様には、後払いでの請求書払いも承っております。
 *Houjin no o-kyakusama ni wa, atobarai de no seikyuusho barai mo uketamatte orimasu.*
@@ -29,7 +26,7 @@ Restaurant and banquet venues within hotels sometimes extend 後払い to in-hou
 
 ## Common Mistakes
 
-A frequent error is allowing a guest to use 後払い without any verification of payment ability: verbal agreements alone are not enough and often lead to disputes. Students may also confuse 後払い with 分割払い; the former simply defers payment to a later date, while the latter splits it into a schedule. And never issue a 領収書 (receipt) for a 後払い transaction before actual payment has been received: it creates false accounting records.
+A frequent error is allowing a guest to use 後払い without any verification of payment ability: verbal agreements alone are not enough and often lead to disputes. A common error occurs when learners also confuse 後払い with 分割払い; the former simply defers payment to a later date, while the latter splits it into a schedule. And never issue a 領収書 (receipt) for a 後払い transaction before actual payment has been received: it creates false accounting records.
 
 ---
 

@@ -4,7 +4,7 @@ section: 3
 title: Summer, Cooling Gestures and Festival Spirit
 ---
 
-Japanese summer is intense: hot, humid, and alive with the sound of cicadas and the energy of festivals. Hospitality in summer is shaped by one overriding concern — making the guest feel cool and refreshed. Every detail, from the greeting to the food on the table, should communicate relief from the heat.
+Japanese summer is intense: hot, humid, and alive with the sound of cicadas and the energy of festivals. Hospitality in summer is shaped by one overriding concern, making the guest feel cool and refreshed. Every detail, from the greeting to the food on the table, should communicate relief from the heat.
 
 ## Seasonal Greetings
 
@@ -17,7 +17,7 @@ These phrases are brief, but they matter. A guest who has just stepped in from i
 
 ## The Cooling Gesture: Uchimizu (打ち水)
 
-Uchimizu is the traditional practice of sprinkling water on the ground outside an entrance to cool the air through evaporation. It is more than a practical measure — it demonstrates that the host has already thought about the guest's comfort before they arrive.
+Uchimizu is the traditional practice of sprinkling water on the ground outside an entrance to cool the air through evaporation. It is more than a practical measure, it demonstrates that the host has already thought about the guest's comfort before they arrive.
 
 When a property performs uchimizu in summer, explaining it to guests turns a simple act into a cultural experience. Most guests will not have encountered it before, and a brief explanation adds genuine depth to the arrival moment.
 
@@ -27,7 +27,7 @@ Summer decorations and amenities emphasise coolness and lightness:
 
 - Wind chimes (*furin*, 風鈴) at entrances create a cooling auditory atmosphere
 - Cool-coloured arrangements: blue-glass vases, white flowers, bamboo elements
-- Chilled oshibori (hand towels) offered on arrival — a small but immediately felt seasonal switch from the warm towels used in winter
+- Chilled oshibori (hand towels) offered on arrival, a small but immediately felt seasonal switch from the warm towels used in winter
 
 ## Seasonal Food and Drink
 

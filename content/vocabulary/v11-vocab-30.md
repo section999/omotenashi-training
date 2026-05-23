@@ -3,12 +3,9 @@ id: v11-vocab
 section: 30
 title: 翻訳 (hon'yaku)
 ---
+翻訳 means converting written text from one language to another. The characters 翻 (to turn over, to flip) and 訳 (to interpret, to translate) together give one the sense of flipping meaning from one language and rendering it in another. In hotel settings, 翻訳 touches a surprisingly wide range of materials: room service menus, facility guides, house rules, event programs, allergy information. And accuracy in those materials matters a great deal, not just for satisfaction but for safety. A mistranslated allergy notice or emergency procedure is not a minor inconvenience.
 
-翻訳 means converting written text from one language to another. The characters 翻 (to turn over, to flip) and 訳 (to interpret, to translate) together give you the sense of flipping meaning from one language and rendering it in another. In hotel settings, 翻訳 touches a surprisingly wide range of materials: room service menus, facility guides, house rules, event programs, allergy information. And accuracy in those materials matters a great deal, not just for satisfaction but for safety. A mistranslated allergy notice or emergency procedure is not a minor inconvenience.
-
-In practice, machine translation tools can produce serviceable first drafts, but any 翻訳 that goes in front of a guest should be reviewed by a person with native proficiency before it is printed or sent. Hotels that handle a lot of international guests typically maintain a library of pre-approved 翻訳 documents for the most common situations, which saves time and keeps quality consistent. If a guest brings in a personal document and asks for 翻訳 help, a contract or a prescription for example, the right move is to refer them to a professional translation service rather than attempting an informal version that could be misread.
-
-## Example Sentences
+machine translation tools can produce serviceable first drafts, but any 翻訳 that goes in front of a guest should be reviewed by a person with native proficiency before it is printed or sent. Hotels that handle a lot of international guests typically maintain a library of pre-approved 翻訳 documents for the most common situations, which saves time and keeps quality consistent. If a guest brings in a personal document and asks for 翻訳 help, a contract or a prescription for example, the right move is to refer them to a professional translation service rather than attempting an informal version that could be misread\n## Example Sentences
 
 **1.** こちらのメニューを英語に翻訳したものもご用意しております。
 *Kochira no menyuu wo eigo ni hon'yaku shita mono mo go-youi shite orimasu.*
@@ -29,7 +26,7 @@ In practice, machine translation tools can produce serviceable first drafts, but
 
 ## Common Mistakes
 
-The most common error is using 翻訳 and 通訳 as if they mean the same thing. They do not: 翻訳 is for written text, 通訳 is for spoken language. Keep that boundary clear in your own usage and you will always direct guests to the right resource. Another mistake is trusting machine translation output without review. That said, the real danger is not using a tool, it is distributing unreviewed output as a finished product. Allergy information in particular must be reviewed by a native speaker before it reaches any guest. One more thing: when offering this service in a guest-facing situation, use the humble form ご翻訳いたします rather than the plain 翻訳します to stay in the right keigo register.
+The most common error is using 翻訳 and 通訳 as if they mean the same thing. They do not: 翻訳 is for written text, 通訳 is for spoken language. Keep that boundary clear in one's own usage and one will always direct guests to the right resource. Another mistake is trusting machine translation output without review. However, the real danger is not using a tool, it is distributing unreviewed output as a finished product. Allergy information in particular must be reviewed by a native speaker before it reaches any guest. Additionally: when offering this service in a guest-facing situation, use the humble form ご翻訳いたします rather than the plain 翻訳します to stay in the right keigo register.
 
 ---
 

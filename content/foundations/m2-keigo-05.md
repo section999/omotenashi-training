@@ -6,7 +6,7 @@ title: Common Keigo Mistakes to Avoid
 
 Even experienced staff make keigo errors. Many of these mistakes have become so widespread that they can feel correct, but to a discerning guest or senior colleague, they stand out. Recognising these patterns is the first step to eliminating them.
 
-## 1. 二重敬語 (Nijū Keigo) — Double Honorifics
+## 1. 二重敬語 (Nijū Keigo), Double Honorifics
 
 Stacking multiple honorific forms on a single verb creates grammatical redundancy and sounds awkward. A common example is *おっしゃられました*. Since おっしゃる is already the sonkeigo form of 言う, adding られ is unnecessary and incorrect.
 
@@ -22,7 +22,7 @@ Kenjōgo lowers the speaker. It should never be used to describe what the guest 
 
 ## 3. ～になります Used Incorrectly
 
-*こちらがコーヒーになります* (This will become coffee) is heard in many restaurants but is grammatically incorrect. Nothing is becoming coffee — it simply is coffee.
+*こちらがコーヒーになります* (This will become coffee) is heard in many restaurants but is grammatically incorrect. Nothing is becoming coffee, it simply is coffee.
 
 - Incorrect: *こちらがコーヒーになります*
 - Correct: *こちらがコーヒーでございます*

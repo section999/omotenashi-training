@@ -3,20 +3,17 @@ id: v02-vocab
 section: 4
 title: 予約 (yoyaku)
 ---
+予約 is an important words in Japanese hospitality, meaning reservation or booking. It marks the point at which a guest's relationship with the hotel begins, often long before they set foot on the property. Reservations may be made by phone, online, or through a travel agent, and staff must handle all related tasks: inquiry, creation, confirmation, modification, and cancellation, each with precision and politeness. A mishandled 予約 can damage trust early; a smoothly managed one builds confidence in the property from the outset.
 
-予約 is one of the most important words in Japanese hospitality, meaning reservation or booking. It marks the point at which a guest's relationship with the hotel begins, often long before they set foot on the property. Reservations may be made by phone, online, or through a travel agent, and staff must handle all related tasks: inquiry, creation, confirmation, modification, and cancellation, each with precision and politeness. A mishandled 予約 can damage trust early; a smoothly managed one builds confidence in the property from the outset.
-
-When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling — anywhere in the hotel where advance arrangement is required — all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction.
-
-## Example Sentences
+When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling, anywhere in the hotel where advance arrangement is required, all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction\n## Example Sentences
 
 **1.** ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。
 *Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*
-"Do you have a reservation? May I ask your name?"
+"Do you have a reservation? May I ask one's name?"
 
 **2.** ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。
 *Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.*
-"Allow me to verify your reservation details. Is a three-night stay correct?"
+"Allow me to verify one's reservation details. Is a three-night stay correct?"
 
 **3.** レストランのご予約は、お電話またはフロントにてお受けしております。
 *Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.*

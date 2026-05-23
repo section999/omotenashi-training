@@ -4,7 +4,7 @@ section: 4
 title: Supporting Colleagues in Front of Guests
 ---
 
-How staff interact with each other in guest-facing spaces is itself a form of hospitality. Guests observe team dynamics constantly, and the atmosphere within a team communicates the atmosphere of the property. A team that is visibly supportive, calm, and coordinated reassures guests. One that appears strained, dismissive, or disorganised does the opposite — regardless of how polished the individual greetings are.
+How staff interact with each other in guest-facing spaces is itself a form of hospitality. Guests observe team dynamics constantly, and the atmosphere within a team communicates the atmosphere of the property. A team that is visibly supportive, calm, and coordinated reassures guests. One that appears strained, dismissive, or disorganised does the opposite, regardless of how polished the individual greetings are.
 
 ## Mutual Support (相互扶助, Sōgo Fujo)
 
@@ -14,7 +14,7 @@ Taking over is not always necessary. Being visibly available is often enough.
 
 ## Practical Standards for Guest-Facing Spaces
 
-- **Never criticise a colleague in front of a guest**, even gently. If a mistake occurred, correct it smoothly without attributing blame. "Please allow me to clarify..." rather than "My colleague was mistaken." The guest does not need to know who was at fault — they need the situation resolved.
+- **Never criticise a colleague in front of a guest**, even gently. If a mistake occurred, correct it smoothly without attributing blame. "Please allow me to clarify..." rather than "My colleague was mistaken." The guest does not need to know who was at fault, they need the situation resolved.
 - **Never show frustration with a colleague**: sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism. Guests notice this immediately.
 - **Share workload fluidly**: experienced teams move without explicit instruction. If a guest is waiting, a table is uncleared, or a colleague is visibly stretched, act.
 - **Use internal language carefully**: conversations with colleagues within earshot of guests should be professional in both content and tone. Assume guests can hear more than might be expected.

@@ -4,9 +4,9 @@ section: 1
 title: Kaiseki, The Philosophy of the Seasonal Table
 ---
 
-**Kaiseki (懐石)** is the multi-course haute cuisine tradition of Japan. It represents the highest level of Japanese culinary hospitality. The word originally referred to a warm stone (*kaishi*, 懐石) that Zen monks placed against their stomachs to ease hunger during long meditation sessions — a reminder that kaiseki began not with abundance, but with restraint and mindfulness.
+**Kaiseki (懐石)** is the multi-course haute cuisine tradition of Japan. It represents the highest level of Japanese culinary hospitality. The word originally referred to a warm stone (*kaishi*, 懐石) that Zen monks placed against their stomachs to ease hunger during long meditation sessions, a reminder that kaiseki began not with abundance, but with restraint and mindfulness.
 
-Today, kaiseki is a sequence of small, carefully prepared courses, each responding to the season. Every element — the ingredients, the preparation method, the vessel, the colour arrangement, the temperature — reflects the current moment in the natural year. Kaiseki is not a fixed menu. It is a living expression of the season that changes as ingredients reach their peak.
+Today, kaiseki is a sequence of small, carefully prepared courses, each responding to the season. Every element, the ingredients, the preparation method, the vessel, the colour arrangement, the temperature, reflects the current moment in the natural year. Kaiseki is not a fixed menu. It is a living expression of the season that changes as ingredients reach their peak.
 
 ## The Philosophy Behind Kaiseki
 
@@ -14,13 +14,13 @@ Kaiseki is not merely a menu structure. It is a statement of values. The chef's 
 
 Three principles govern kaiseki:
 
-- **Shun (旬)** — using ingredients at their seasonal peak, when they are freshest, most nutritious, and most deeply flavoured. An ingredient served in its peak season has been earned; the same ingredient served out of season is a compromise.
-- **Ma (間)** — the meaningful pause between courses that allows the guest to experience each dish fully before the next arrives. Kaiseki is not rushed. The pace is part of the experience.
-- **Wabi-sabi** — the aesthetic preference for handmade vessels, natural materials, and visual restraint. A dish presented in a rough, asymmetrical ceramic made by a local artisan communicates something different from one served in a smooth, mass-produced bowl.
+- **Shun (旬)**: using ingredients at their seasonal peak, when they are freshest, most nutritious, and most deeply flavoured. An ingredient served in its peak season has been earned; the same ingredient served out of season is a compromise.
+- **Ma (間)**: the meaningful pause between courses that allows the guest to experience each dish fully before the next arrives. Kaiseki is not rushed. The pace is part of the experience.
+- **Wabi-sabi**: the aesthetic preference for handmade vessels, natural materials, and visual restraint. A dish presented in a rough, asymmetrical ceramic made by a local artisan communicates something different from one served in a smooth, mass-produced bowl.
 
 ## The Role of the Service Team
 
-A kaiseki meal done well leaves the guest feeling nourished and aware — not merely full. The service team's responsibility is not to explain every element of every course in exhaustive detail, but to offer enough context for the guest to appreciate what they are receiving.
+A kaiseki meal done well leaves the guest feeling nourished and aware, not merely full. The service team's responsibility is not to explain every element of every course in exhaustive detail, but to offer enough context for the guest to appreciate what they are receiving.
 
 The difference between "this is the sashimi course" and "this is flounder from the Seto Inland Sea, at its peak right now in early spring" is the difference between service and hospitality.
 

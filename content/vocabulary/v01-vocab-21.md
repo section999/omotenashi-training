@@ -3,26 +3,23 @@ id: v01-vocab
 section: 21
 title: ご理解ください (go-rikai kudasai)
 ---
+**ご理解ください** means "please understand." It is used when asking a guest to accept a situation, rule, limitation, or constraint that cannot be changed. *Rikai* (理解) means understanding or comprehension, elevated by the honorific *go-* prefix. the phrase acknowledges that a situation may be inconvenient while asking for the guest's patience and acceptance.
 
-**ご理解ください** means "please understand." It is used when asking a guest to accept a situation, rule, limitation, or constraint that cannot be changed. *Rikai* (理解) means understanding or comprehension, elevated by the honorific *go-* prefix. In practice, the phrase acknowledges that a situation may be inconvenient while asking for the guest's patience and acceptance.
+Note: in isolation, *go-rikai kudasai* can feel slightly imposing, as if one is requiring the guest to comply. In professional hospitality, it is nearly always softened: *taihen moushiwake gozaimasen ga, go-rikai itadakemasu deshō ka* ("I am very sorry, but could we ask for one's understanding?"). This construction transforms the bare directive into a humble, apologetic request.
 
-Worth noting: in isolation, *go-rikai kudasai* can feel slightly imposing, as if you are requiring the guest to comply. In professional hospitality, it is nearly always softened: *taihen moushiwake gozaimasen ga, go-rikai itadakemasu deshō ka* ("I am very sorry, but could we ask for your understanding?"). This construction transforms the bare directive into a humble, apologetic request.
-
-Context matters here. The phrase fits situations where a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or circumstances are beyond the property's control, such as weather or external events. That said, it is not the right choice when the property itself made an error. In those cases, full apology and immediate resolution are required.
-
-## Example Sentences
+Context matters here. The phrase fits situations where a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or circumstances are beyond the property's control, such as weather or external events. However, it is not the right choice when the property itself made an error. In those cases, full apology and immediate resolution are required\n## Example Sentences
 
 **1.** 誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。
 *Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.*
-"I am very sorry, but the pool is currently unavailable. We ask for your kind understanding."
+"I am very sorry, but the pool is currently unavailable. We ask for one's kind understanding."
 
 **2.** ご不便をおかけいたしますが、ご理解いただけますと幸いです。
 *Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.*
-"I apologise for the inconvenience. We would be most grateful for your understanding."
+"I apologise for the inconvenience. We would be most grateful for one's understanding."
 
 **3.** こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。
 *Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.*
-"A reservation is required to use this facility. We thank you for your understanding."
+"A reservation is required to use this facility. We thank you for one's understanding."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ Context matters here. The phrase fits situations where a facility is temporarily
 
 ## Common Mistakes
 
-Using *go-rikai kudasai* without an apologetic lead-in is the most common mistake: it can sound like a command. Always pair it with *moushiwake gozaimasen* or a similar expression of regret. Students often reach for this phrase reflexively in difficult moments, but when the property itself is at fault, a request for understanding is the wrong move entirely. Full apology and immediate resolution come first.
+Using *go-rikai kudasai* without an apologetic lead-in is the most common mistake: it can sound like a command. Always pair it with *moushiwake gozaimasen* or a similar expression of regret. A common error is reach for this phrase reflexively in difficult moments, but when the property itself is at fault, a request for understanding is the wrong move entirely. Full apology and immediate resolution come first.
 
 ---
 

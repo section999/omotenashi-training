@@ -24,7 +24,7 @@ The issue persists or compounds. The guest becomes quieter and more closed in bo
 
 ### Stage 3: Active Dissatisfaction
 
-The guest decides to voice a complaint — or, worse, decides not to and simply leaves with a negative impression, never to return.
+The guest decides to voice a complaint, or, worse, decides not to and simply leaves with a negative impression, never to return.
 
 The goal is to intervene at Stage 1 or early Stage 2, before the guest has made any decision. That window is often wider than it appears.
 

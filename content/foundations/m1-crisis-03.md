@@ -4,7 +4,7 @@ section: 3
 title: When to Escalate
 ---
 
-Not every complaint should be escalated. Escalating unnecessarily makes the guest wait, signals that the front-line team lacks authority or confidence, and breaks the connection that has been building between the guest and the staff member handling the complaint. Front-line staff should be empowered — and expected — to resolve the majority of guest complaints directly.
+Not every complaint should be escalated. Escalating unnecessarily makes the guest wait, signals that the front-line team lacks authority or confidence, and breaks the connection that has been building between the guest and the staff member handling the complaint. Front-line staff should be empowered, and expected, to resolve the majority of guest complaints directly.
 
 At the same time, some situations genuinely require escalation, for reasons of authority, policy, or the guest's specific preference. Knowing where this line falls, and acting on it without hesitation in both directions, is a key service skill.
 
@@ -12,9 +12,9 @@ At the same time, some situations genuinely require escalation, for reasons of a
 
 The following situations require escalation:
 
-- The issue involves **health, safety, or legal liability** — a slip and fall, a food reaction, a security concern. These must always be escalated, even if the guest is not asking for a manager.
+- The issue involves **health, safety, or legal liability**: a slip and fall, a food reaction, a security concern. These must always be escalated, even if the guest is not asking for a manager.
 - **Financial compensation or a significant upgrade** is being requested, beyond the front-line team's authorisation level.
-- The guest **specifically requests to speak with a manager** — this request must always be honoured immediately.
+- The guest **specifically requests to speak with a manager**: this request must always be honoured immediately.
 - The situation is **beyond your authority or knowledge to resolve**, and continuing to attempt a resolution is making things worse.
 - The guest is **extremely distressed** and the presence of a senior person is likely to reassure them more effectively than continued front-line engagement.
 
@@ -46,11 +46,11 @@ After the escalation, the original staff member should remain available for foll
 
 The best hospitality organisations empower front-line staff to resolve complaints without escalation in the majority of cases. This requires:
 
-- Clear authority levels — what can be offered without manager approval
+- Clear authority levels, what can be offered without manager approval
 - Confidence in decision-making, built through training and practice
 - A culture where recovering a guest is valued more than avoiding a mistake
 
-When front-line staff know they have both the authority and the support to make recovery decisions, their responses are faster, warmer, and more personal — exactly what complaint recovery requires.
+When front-line staff know they have both the authority and the support to make recovery decisions, their responses are faster, warmer, and more personal, exactly what complaint recovery requires.
 
 ---
 

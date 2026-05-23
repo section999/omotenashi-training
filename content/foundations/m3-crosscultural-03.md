@@ -4,7 +4,7 @@ section: 3
 title: East Asian Guest Expectations
 ---
 
-Guests from China, South Korea, Taiwan, and other East Asian countries share some cultural common ground with Japan — Confucian values, indirect communication styles, the importance of face and hierarchy. But they are not the same as Japanese guests, and treating them as interchangeable is itself a cultural failure. Proximity does not mean similarity.
+Guests from China, South Korea, Taiwan, and other East Asian countries share some cultural common ground with Japan, Confucian values, indirect communication styles, the importance of face and hierarchy. But they are not the same as Japanese guests, and treating them as interchangeable is itself a cultural failure. Proximity does not mean similarity.
 
 ## Chinese Guests
 
@@ -23,11 +23,11 @@ Key points:
 
 - **Hierarchy awareness**: Korean guests, like Japanese guests, are sensitive to age and status hierarchies. Address the eldest or most senior member of a group first.
 - **Shared dishes**: Korean dining culture is communal. Service that understands and accommodates this, rather than defaulting to Japanese individual-serving norms, is appreciated.
-- **Directness**: Korean communication can be more direct than Japanese. A guest who gives clear, assertive feedback is not being rude — they are communicating in their normal register.
+- **Directness**: Korean communication can be more direct than Japanese. A guest who gives clear, assertive feedback is not being rude, they are communicating in their normal register.
 
 ## The Shared Principle
 
-For all East Asian guests, the experience of being seen as an individual — not as a generic "Asian tourist" — is the most meaningful hospitality gesture of all.
+For all East Asian guests, the experience of being seen as an individual, not as a generic "Asian tourist", is the most meaningful hospitality gesture of all.
 
 ---
 

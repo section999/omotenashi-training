@@ -4,7 +4,7 @@ section: 5
 title: Building a Culture of Excellence
 ---
 
-The quality of a hotel or restaurant is not determined by its facilities, its location, or even its individual staff members. It is determined by its culture — the shared values, habits, and expectations that govern how people behave when no one is watching. A culture of excellence is one in which every member of the team, at every level, takes genuine personal responsibility for the quality of the guest experience. Building and sustaining that culture is the most important work a leader in hospitality can do.
+The quality of a hotel or restaurant is not determined by its facilities, its location, or even its individual staff members. It is determined by its culture, the shared values, habits, and expectations that govern how people behave when no one is watching. A culture of excellence is one in which every member of the team, at every level, takes genuine personal responsibility for the quality of the guest experience. Building and sustaining that culture is the most important work a leader in hospitality can do.
 
 ## What Culture Actually Is
 
@@ -14,7 +14,7 @@ A culture of excellence is one in which each person's standard for their own beh
 
 ## The Leader's Role in Culture
 
-Culture is built through consistency and ceremony. Consistency means that the leader's conduct — their standards, their care, their response to difficulty — remains the same whether they are being observed or not. Ceremony means that the team's achievements and values are made visible and celebrated: the quiet acknowledgement of a colleague who handled a difficult situation with exceptional grace, the team briefing that begins with a story of excellent guest care from the previous week.
+Culture is built through consistency and ceremony. Consistency means that the leader's conduct, their standards, their care, their response to difficulty, remains the same whether they are being observed or not. Ceremony means that the team's achievements and values are made visible and celebrated: the quiet acknowledgement of a colleague who handled a difficult situation with exceptional grace, the team briefing that begins with a story of excellent guest care from the previous week.
 
 ## Rituals That Build Culture
 
@@ -25,7 +25,7 @@ Culture is built through consistency and ceremony. Consistency means that the le
 
 ## The Long View
 
-Culture is built slowly and can be damaged quickly. The leader who cuts corners once teaches the team that corners can be cut. The leader who maintains standards under genuine difficulty — exhausted, understaffed, under pressure — teaches the team that the standards are real.
+Culture is built slowly and can be damaged quickly. The leader who cuts corners once teaches the team that corners can be cut. The leader who maintains standards under genuine difficulty, exhausted, understaffed, under pressure, teaches the team that the standards are real.
 
 The most powerful thing a leader in hospitality can do is to care about the guest as sincerely at the end of a difficult Friday night as they did on their first day. That sincerity, witnessed by the team, becomes the culture.
 
@@ -43,7 +43,7 @@ An expression of collective purpose used in briefings and team contexts. It rein
 *Omotenashi no kokoro wo wasurezu ni.*
 "Without forgetting the spirit of omotenashi."
 
-A phrase used by leaders to call the team back to the core value beneath all technical standards. It is a reminder that the guest's experience — not the procedure — is the ultimate measure.
+A phrase used by leaders to call the team back to the core value beneath all technical standards. It is a reminder that the guest's experience, not the procedure, is the ultimate measure.
 
 ---
 

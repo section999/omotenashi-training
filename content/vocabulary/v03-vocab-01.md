@@ -3,12 +3,9 @@ id: v03-vocab
 section: 1
 title: 客室 (kyakushitsu)
 ---
-
 客室 (kyakushitsu) is the formal designation for a guest room in a hotel, ryokan, or similar lodging establishment. Unlike the everyday word 部屋 (heya), 客室 carries an institutional weight that signals professional distance and respect. The word combines 客 (kyaku, guest) and 室 (shitsu, room/chamber), making its meaning transparent: a room designated for a guest. This vocabulary is central to hotel operations and appears consistently in brochures, floor directories, and front desk communications.
 
-客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations, such as 客室係 (room attendant) and 客室番号 (room number), is foundational for anyone working in Japanese hospitality.
-
-## Example Sentences
+客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations, such as 客室係 (room attendant) and 客室番号 (room number), is foundational for anyone working in Japanese hospitality\n## Example Sentences
 
 **1.** 本日お泊まりの客室は305号室でございます。
 *Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.*
@@ -16,11 +13,11 @@ title: 客室 (kyakushitsu)
 
 **2.** 客室へご案内いたします。どうぞこちらへお進みください。
 *Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.*
-"I will guide you to your guest room. Please proceed this way."
+"I will guide you to the guest room. Please proceed this way."
 
 **3.** ご不明な点がございましたら、客室からフロントまでお電話ください。
 *Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*
-"If you have any questions, please call the front desk from your guest room."
+"If you have any questions, please call the front desk from the guest room."
 
 ## Related Expressions
 

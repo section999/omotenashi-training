@@ -4,13 +4,13 @@ section: 2
 title: Uniform and Grooming Standards
 ---
 
-A uniform is not simply workwear. It is a symbol of the property and the profession. Wearing it well is an expression of respect — for the guest, for the team, and for the standards that define the hospitality environment.
+A uniform is not simply workwear. It is a symbol of the property and the profession. Wearing it well is an expression of respect, for the guest, for the team, and for the standards that define the hospitality environment.
 
 ## Uniform Care
 
 - **Cleanliness**: The uniform must be clean at the start of every shift. A stained or visibly worn uniform suggests inattention to detail, and guests connect this directly to other areas of service.
 - **Pressing**: Creases should be sharp where intended and absent elsewhere. A crumpled uniform signals that preparation was rushed.
-- **Fit**: Ill-fitting uniforms — whether too loose, too tight, or incorrectly adjusted — draw attention away from the interaction itself.
+- **Fit**: Ill-fitting uniforms, whether too loose, too tight, or incorrectly adjusted, draw attention away from the interaction itself.
 - **Name badge**: Worn at the correct position (usually the left chest), straight, and readable. A missing or reversed name badge removes an opportunity for genuine personal connection.
 
 ## Grooming Standards
@@ -32,7 +32,7 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 *Kagami no mae de kakunin shimashō.*
 "Let's check in the mirror."
 
-This phrase refers to the mirror check principle — a brief review of personal presentation before any guest-facing shift begins.
+This phrase refers to the mirror check principle, a brief review of personal presentation before any guest-facing shift begins.
 
 **清潔感**
 *Seiketsugan.*

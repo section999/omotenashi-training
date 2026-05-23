@@ -3,20 +3,17 @@ id: v10-vocab
 section: 4
 title: 前払い (maebarai)
 ---
-
 前払い means paying for a service before receiving it, and it appears regularly in Japanese hospitality for special rates, non-refundable booking plans, and online reservations through travel portals. Hotels and ryokan offering early-bird discounts or fully prepaid packages use 前払い to secure the booking and protect against last-minute cancellations. For guests, prepaying confirms the reservation is locked and often unlocks a lower rate. Staff need to communicate the payment deadline clearly along with accepted methods, leaving either detail vague almost always causes problems later.
 
-In practice, 前払い is processed at booking (online or by phone) or by a set deadline before check-in. Front desk staff must verify on arrival that the 前払い has actually been received and recorded before granting room access. When a prepayment hasn't arrived by the deadline, proactively calling the guest to resolve it is the professional expectation, not waiting for the guest to show up. Failing to follow up risks the reservation falling through, which inconveniences everyone.
-
-## Example Sentences
+前払い is processed at booking (online or by phone) or by a set deadline before check-in. Front desk staff must verify on arrival that the 前払い has been received and recorded before granting room access. When a prepayment hasn't arrived by the deadline, proactively calling the guest to resolve it is the professional expectation, not waiting for the guest to show up. Failing to follow up risks the reservation falling through, which inconveniences everyone\n## Example Sentences
 
 **1.** こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。
 *Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*
-"This plan requires prepayment. Please complete payment within five days of confirming your reservation."
+"This plan requires prepayment. Please complete payment within five days of confirming one's reservation."
 
 **2.** 前払いが確認できましたので、ご予約が正式に確定いたしました。
 *Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.*
-"We have confirmed your prepayment, so your reservation is now officially secured."
+"We have confirmed one's prepayment, so one's reservation is now officially secured."
 
 **3.** 前払いをご希望のお客様には、お得な割引料金をご用意しております。
 *Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.*
@@ -29,7 +26,7 @@ In practice, 前払い is processed at booking (online or by phone) or by a set 
 
 ## Common Mistakes
 
-Students sometimes treat 前払い and デポジット as the same thing: a deposit is partial, while 前払い typically means the full amount paid in advance. Another slip is not communicating the payment deadline clearly, leaving guests uncertain about when they need to pay. Staff should also avoid confirming a reservation as "secured" before the 前払い has actually been received and processed. A pending bank transfer is not confirmed payment.
+A common error is to treat 前払い and デポジット as the same thing: a deposit is partial, while 前払い typically means the full amount paid in advance. Another slip is not communicating the payment deadline clearly, leaving guests uncertain about when they need to pay. Staff should also avoid confirming a reservation as "secured" before the 前払い has been received and processed. A pending bank transfer is not confirmed payment.
 
 ---
 

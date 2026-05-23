@@ -3,15 +3,12 @@ id: v08-vocab
 section: 19
 title: 隣 (tonari)
 ---
-
 **Pronunciation:** [to-**na**-ri]
 **Register:** Neutral, spatial directions and proximity
 
-隣 means "next to" or "adjacent to" and describes a side-by-side spatial relationship between two places or objects. In hospitality, precision in directional language is a hallmark of good service, and 隣 is one of the most useful proximity words because it points guests to an immediately visible reference: the destination is right beside something they can already see. This avoids the vagueness of 近くに (nearby) when a location is literally touching or sharing a wall with a known landmark. Hotels, ryokan, and restaurants constantly need to describe adjacency, a café next to the lobby, a spa next to the pool, a gift shop next to the elevator bank, and 隣 is the natural, unambiguous choice in each case.
+隣 means "next to" or "adjacent to" and describes a side-by-side spatial relationship between two places or objects. In hospitality, precision in directional language reflects good service, and 隣 is a notable useful proximity words because it points guests to an immediately visible reference: the destination is right beside something they can already see. This avoids the vagueness of 近くに (nearby) when a location is literally touching or sharing a wall with a known landmark. Hotels, ryokan, and restaurants constantly need to describe adjacency, a café next to the lobby, a spa next to the pool, a gift shop next to the elevator bank, and 隣 is the natural, unambiguous choice in each case.
 
-In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, always specify which side — 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests end up checking both directions and looking uncertain, which reflects on the quality of guidance given.
-
-## Example Sentences
+In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, always specify which side, 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests end up checking both directions and looking uncertain, which reflects on the quality of guidance given\n## Example Sentences
 
 **1.** レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。
 *Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.*
@@ -19,7 +16,7 @@ In a hospitality context, 隣 appears in sentences like レストランの隣に
 
 **2.** お部屋の右隣に自動販売機がございますので、ご自由にお使いください。
 *Oheya no migi tonari ni jidouhanbaiki ga gozaimasu node, gojiyuu ni otsukai kudasai.*
-"There is a vending machine to the right of your room; please feel free to use it."
+"There is a vending machine to the right of the room; please feel free to use it."
 
 **3.** エレベーターホールの隣がフィットネスセンターでございます。
 *Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.*

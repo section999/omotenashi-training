@@ -3,12 +3,9 @@ id: v11-vocab
 section: 32
 title: 日本語対応 (nihongo taiou)
 ---
-
 日本語対応 combines 日本語 (the Japanese language) and 対応 (support, handling, response) to describe the availability of service in Japanese. Inside Japan this might seem obvious, but explicitly stating 日本語対応 serves a real purpose in certain contexts. On multilingual hotel websites or international booking platforms, advertising 日本語対応 reassures Japanese-speaking guests, including overseas Japanese nationals and Japanese-speaking travelers from other countries, that they will receive full, natural service in their mother tongue. That is quite different from being redirected to a translator or given an approximate answer.
 
-日本語対応 also matters within a hotel's own internal structure, particularly in properties with international staff. If a guest calls the concierge desk and wants to speak in Japanese, there needs to be a clear process for reaching someone who can actually handle that conversation well. For non-native staff, reaching 日本語対応 level is a meaningful personal milestone, the point where their Japanese is good enough to serve guests confidently in standard hospitality situations. Training programs often build their certification levels around this idea: at each stage, asking what can this person comfortably handle in Japanese right now.
-
-## Example Sentences
+日本語対応 also matters within a hotel's own internal structure, particularly in properties with international staff. If a guest calls the concierge desk and wants to speak in Japanese, there needs to be a clear process for reaching someone who can handle that conversation well. For non-native staff, reaching 日本語対応 level is a meaningful personal milestone, the point where their Japanese is good enough to serve guests confidently in standard hospitality situations. Training programs often build their certification levels around this idea: at each stage, asking what can this person comfortably handle in Japanese right now\n## Example Sentences
 
 **1.** 海外のお客様にも、日本語対応のスタッフがご対応いたします。
 *Kaigai no okyakusama ni mo, nihongo taiou no sutaffu ga go-taiou itashimasu.*
@@ -16,7 +13,7 @@ title: 日本語対応 (nihongo taiou)
 
 **2.** 日本語対応可能なコンシェルジュが、ご滞在中いつでもお手伝いします。
 *Nihongo taiou kanou na konsheruju ga, go-taizaichuu itsudemo otetsudai shimasu.*
-"A Japanese-capable concierge is available at any time during your stay."
+"A Japanese-capable concierge is available at any time during the stay."
 
 **3.** ご予約の際に日本語対応をご希望の場合は、あらかじめお知らせください。
 *Go-yoyaku no sai ni nihongo taiou wo go-kibou no baai wa, arakajime oshirase kudasai.*
@@ -29,7 +26,7 @@ title: 日本語対応 (nihongo taiou)
 
 ## Common Mistakes
 
-Students sometimes treat 日本語対応 as redundant within Japan and leave it out of multilingual materials. That is a real oversight. Japanese-speaking international guests, people booking from overseas or living abroad, will not assume Japanese service is available unless it is stated. Another common error is presenting 日本語対応 as equivalent to full native-level fluency in all registers. That is not always the case, and overpromising creates awkward situations. In practice, a non-native staff member might handle 日本語対応 comfortably for standard check-in and service conversations while still needing support for complex or formal discussions. Being upfront about the level, whether it is conversational, business-level, or near-native, helps guests know what to expect.
+A common error is to treat 日本語対応 as redundant within Japan and leave it out of multilingual materials. That is a real oversight. Japanese-speaking international guests, people booking from overseas or living abroad, will not assume Japanese service is available unless it is stated. Another common error is presenting 日本語対応 as equivalent to full native-level fluency in all registers. That is not always the case, and overpromising creates awkward situations. a non-native staff member might handle 日本語対応 comfortably for standard check-in and service conversations while still needing support for complex or formal discussions. Being upfront about the level, whether it is conversational, business-level, or near-native, helps guests know what to expect.
 
 ---
 

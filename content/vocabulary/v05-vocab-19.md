@@ -3,19 +3,16 @@ id: v05-vocab
 section: 19
 title: ナイフ (naifu)
 ---
-
 **Pronunciation:** [**nai**-fu]
 **Register:** Neutral, Western-style (洋食) dining contexts
 
 ナイフ is the Japanese word for a knife, borrowed directly from English, and in a hotel or restaurant context it refers specifically to the table knife used as part of Western-style (洋食) cutlery. Proper table setting in Western dining is a visible signal of service quality, and the correct placement of ナイフ, to the right of the plate with the blade facing inward, is a standard skill for all F&B service staff. Guests dining in a hotel restaurant expect their cutlery to be in place before food arrives, and any missing or incorrectly placed item reflects on the overall service standard.
 
-In daily restaurant and room service work, staff refer to ナイフ when setting tables, responding to guest requests for additional cutlery, or describing the utensils that accompany a specific dish. A common phrase is ナイフをご用意いたします, used when a guest requests one or when announcing a table setup. Worth noting: staff should also be ready to pair ナイフ with フォーク (fork) in standard table-setting language, and should be able to offer or clarify cutlery choices for guests with specific preferences or dietary needs.
-
-## Example Sentences
+In daily restaurant and room service work, staff refer to ナイフ when setting tables, responding to guest requests for additional cutlery, or describing the utensils that accompany a specific dish. A common phrase is ナイフをご用意いたします, used when a guest requests one or when announcing a table setup. Note: staff should also be ready to pair ナイフ with フォーク (fork) in standard table-setting language, and should be able to offer or clarify cutlery choices for guests with specific preferences or dietary needs\n## Example Sentences
 
 **1.** お料理に合わせてナイフとフォークをご用意いたします。
 *O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*
-"We will prepare a knife and fork to match your dish."
+"We will prepare a knife and fork to match one's dish."
 
 **2.** ナイフが必要でございましたら、すぐにお持ちいたします。
 *Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.*
@@ -27,12 +24,12 @@ In daily restaurant and room service work, staff refer to ナイフ when setting
 
 ## Related Expressions
 
-- **フォーク (fooku)**: Fork. ナイフ and フォーク are the two primary Western cutlery items and are almost always mentioned together in table setting and service contexts; knowing both lets you address a guest's full cutlery needs in a single statement.
+- **フォーク (fooku)**: Fork. ナイフ and フォーク are the two primary Western cutlery items and are almost always mentioned together in table setting and service contexts; knowing both lets one address a guest's full cutlery needs in a single statement.
 - **箸 (hashi)**: Chopsticks. When a guest prefers Japanese-style utensils or when the dish is Japanese cuisine, 箸 may replace or accompany Western cutlery; being able to offer both ナイフ・フォーク and 箸 shows attentiveness to guest preference.
 
 ## Common Mistakes
 
-Students often pronounce ナイフ with three clearly separated syllables (na-i-fu) in a way that sounds halting; in natural speech it flows as a two-beat word with the stress on the first mora. A common service error is removing the ナイフ during a course change without replacing it when the next course still requires one; always check what is coming before you clear. In practice, not every dish needs a knife, so for pasta or salad, offering フォークとスプーン and then checking whether a knife is also needed shows attentiveness rather than automatically placing everything at once.
+A common error is to pronounce ナイフ with three clearly separated syllables (na-i-fu) in a way that sounds halting; in natural speech it flows as a two-beat word with the stress on the first mora. A common service error is removing the ナイフ during a course change without replacing it when the next course still requires one; staff should check what is coming before one clear. not every dish needs a knife, so for pasta or salad, offering フォークとスプーン and then checking whether a knife is also needed shows attentiveness rather than automatically placing everything at once.
 
 ---
 

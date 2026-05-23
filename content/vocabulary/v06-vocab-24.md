@@ -3,23 +3,21 @@ id: v06-vocab
 section: 24
 title: 確認します (kakunin shimasu)
 ---
-
 **Pronunciation:** [ka-ku-**nin** shi-ma-su]
 **Register:** Formal, ubiquitous in all service contexts
 
-確認 is formed from 確, meaning "to confirm" or "make certain," and 認, meaning "to recognize" or "verify." Together they capture the idea of making sure something is exactly as it should be. In hospitality work, 確認します is one of the most frequently reached-for phrases simply because the job demands constant checking. Reservation details, room status, billing, guest preferences, reported issues: all of these require verification before you can give a confident answer. Rather than saying "I don't know," 確認します signals that the answer is coming and that you are actively working on it right now.
+確認 is formed from 確, meaning "to confirm" or "make certain," and 認, meaning "to recognize" or "verify." Together they capture the idea of making sure something is exactly as it should be. In hospitality work, 確認します is a notable frequently reached-for phrases simply because the job demands constant checking. Reservation details, room status, billing, guest preferences, reported issues: all of these require verification before one can give a confident answer. Rather than saying "I don't know," 確認します signals that the answer is coming and that one is actively working on it right now.
 
-In practice, this phrase appears across a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting a reported problem (「状況を確認いたします」), and double-checking a guest request (「ただいま確認いたします」). The phrase becomes especially powerful when paired with a time cue: 「すぐに確認いたします」 sets an expectation of immediacy, while 「少々お時間をいただき、確認いたします」 buys a moment without leaving the guest uncertain. That combination of action and timeline management is what separates a polished response from a vague one.
-
+this phrase appears across a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting a reported problem (「状況を確認いたします」), and double-checking a guest request (「ただいま確認いたします」). The phrase becomes especially powerful when paired with a time cue: 「すぐに確認いたします」 sets an expectation of immediacy, while 「少々お時間をいただき、確認いたします」 buys a moment without leaving the guest uncertain. That combination of action and timeline management distinguishes a polished response from a vague one.
 ## Example Sentences
 
 **1.** ご予約の内容をただいま確認いたします。少々お待ちください。
 *Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.*
-"I will check your reservation details right now. Please wait just a moment."
+"I will check one's reservation details right now. Please wait just a moment."
 
 **2.** お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。
 *O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.*
-"I will check the preparation status of your room and contact you shortly."
+"I will check the preparation status of the room and contact you shortly."
 
 **3.** ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。
 *Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.*
@@ -32,7 +30,7 @@ In practice, this phrase appears across a wide range of situations: checking res
 
 ## Common Mistakes
 
-The most common mistake is using 確認します (plain form) with guests instead of the humble 確認いたします. That difference in formality matters a great deal in an upscale hotel setting. Students also sometimes forget the follow-up: saying 「確認いたします」 and then never reporting back to the guest is actually worse than not offering to check at all, because it creates an expectation that goes unmet. One more thing worth remembering is that using 確認します as a generic stall tactic, without then actually performing the verification promptly, will not go unnoticed. Guests become frustrated when "checking" drags on with no updates.
+The most common mistake is using 確認します (plain form) with guests instead of the humble 確認いたします. That difference in formality matters a great deal in an upscale hotel setting. Students also sometimes forget the follow-up: saying 「確認いたします」 and then never reporting back to the guest is worse than not offering to check at all, because it creates an expectation that goes unmet. Additionally, important is that using 確認します as a generic stall tactic, without then performing the verification promptly, will not go unnoticed. Guests become frustrated when "checking" drags on with no updates.
 
 ---
 

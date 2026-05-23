@@ -4,7 +4,7 @@ section: 3
 title: The Sincere Apology
 ---
 
-In Japanese culture, an apology is not a transaction. It is not a phrase produced to make a problem disappear. A sincere apology is a moment of real acknowledgement — a signal that says: something went wrong for you, and that is being taken seriously. In hospitality, the quality of an apology often decides whether a guest walks away feeling respected or feeling processed.
+In Japanese culture, an apology is not a transaction. It is not a phrase produced to make a problem disappear. A sincere apology is a moment of real acknowledgement, a signal that says: something went wrong for you, and that is being taken seriously. In hospitality, the quality of an apology often decides whether a guest walks away feeling respected or feeling processed.
 
 The apology itself is the most important part of the recovery. Delivered well, it can transform the experience of a guest who arrived frustrated into one who leaves feeling genuinely valued.
 
@@ -14,17 +14,17 @@ A sincere apology has three parts, and the order matters.
 
 ### 1. The Expression of Regret
 
-Name what happened — specifically, not vaguely. "I am truly sorry that you were made to wait for over an hour after a long journey" tells the guest you actually listened. "I'm sorry you had a bad experience" tells them almost nothing. The goal is to reflect their experience back to them accurately, without assigning blame, but with clear and honest recognition of what occurred.
+Name what happened, specifically, not vaguely. "I am truly sorry that you were made to wait for over an hour after a long journey" tells the guest you actually listened. "I'm sorry you had a bad experience" tells them almost nothing. The goal is to reflect their experience back to them accurately, without assigning blame, but with clear and honest recognition of what occurred.
 
 ### 2. The Apology Itself
 
-**申し訳ございません** (mōshiwake gozaimasen) is the deepest formal apology in the Japanese hospitality vocabulary. The literal meaning is "there is no excuse," which is exactly the point — no qualifications, no conditions, just complete acceptance of responsibility. Deliver it slowly, with a sincere bow held for a moment before raising your eyes.
+**申し訳ございません** (mōshiwake gozaimasen) is the deepest formal apology in the Japanese hospitality vocabulary. The literal meaning is "there is no excuse," which is exactly the point, no qualifications, no conditions, just complete acceptance of responsibility. Deliver it slowly, with a sincere bow held for a moment before raising your eyes.
 
-Do not immediately follow the apology with an explanation. "I'm sorry, but the system was down" is not an apology — it is a defence wearing the costume of one. Explanations, when needed at all, come later, after the apology has had room to land.
+Do not immediately follow the apology with an explanation. "I'm sorry, but the system was down" is not an apology, it is a defence wearing the costume of one. Explanations, when needed at all, come later, after the apology has had room to land.
 
 ### 3. The Commitment
 
-Only after the apology do you move to action: "Allow me to find a solution for you right away." This tells the guest the apology was not the end of your concern — it was the beginning.
+Only after the apology do you move to action: "Allow me to find a solution for you right away." This tells the guest the apology was not the end of your concern, it was the beginning.
 
 ## What an Apology Is Not
 
@@ -40,7 +40,7 @@ The bow during an apology carries as much meaning as the words. Its depth and du
 - For a minor inconvenience, a brief bow of around 15 degrees is appropriate
 - For a significant service failure, a deeper bow of 30 to 45 degrees, held for a moment, is expected
 
-The bow should feel like giving something — not performing a gesture.
+The bow should feel like giving something, not performing a gesture.
 
 ---
 

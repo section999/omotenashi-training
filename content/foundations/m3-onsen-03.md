@@ -12,8 +12,8 @@ The staff member's role in this situation is to make the onsen accessible. This 
 
 1. **Separate baths for men and women.** Most traditional onsen have completely separate facilities. Reassure guests that privacy is built into the system.
 2. **The washing requirement.** Frame it positively: "Before entering the bath, there are shower stations where you wash completely. It is part of the ritual, everyone does it."
-3. **No swimwear.** This is the point most likely to cause hesitation. A matter-of-fact, reassuring tone helps: "Onsen are entered without swimwear — it is a tradition going back centuries, and the separate facilities mean complete privacy from the opposite gender."
-4. **Small towel use.** "A small towel is provided. You can fold it on your head or leave it at the edge of the bath — it does not go in the water."
+3. **No swimwear.** This is the point most likely to cause hesitation. A matter-of-fact, reassuring tone helps: "Onsen are entered without swimwear, it is a tradition going back centuries, and the separate facilities mean complete privacy from the opposite gender."
+4. **Small towel use.** "A small towel is provided. You can fold it on your head or leave it at the edge of the bath, it does not go in the water."
 5. **Temperature and timing.** "The water is quite hot, around 40 to 44°C. For your first visit, we recommend 10 to 15 minutes, then rest before going back in."
 
 ## Handling the Tattoo Question
@@ -22,7 +22,7 @@ Many properties prohibit tattoos in communal onsen due to historical association
 
 Communicate the policy at check-in, not at the bath entrance:
 
-- "I wanted to mention before you plan your visit to the onsen — our policy is [X]. We also have a private bath available if you would prefer."
+- "I wanted to mention before you plan your visit to the onsen, our policy is [X]. We also have a private bath available if you would prefer."
 
 Offering an alternative matters as much as communicating the rule. Raised calmly at check-in, this comes across as helpful. Delivered at the bathroom door after a guest has already changed, it feels like a rejection.
 

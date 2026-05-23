@@ -8,7 +8,7 @@ Ma is not something reserved for important moments. It lives in the small pauses
 
 ## Ma in Physical Movement
 
-Movement communicates. A server who walks quickly, sets items down heavily, and turns to the next task before finishing the current one creates an atmosphere of busyness that a guest absorbs without realising it. A server who moves with deliberate, unhurried precision — completing each gesture fully before beginning the next — creates an atmosphere of calm. The guest in that second setting relaxes. They feel no pressure to eat faster, wrap up their conversation, or get out of the way.
+Movement communicates. A server who walks quickly, sets items down heavily, and turns to the next task before finishing the current one creates an atmosphere of busyness that a guest absorbs without realising it. A server who moves with deliberate, unhurried precision, completing each gesture fully before beginning the next, creates an atmosphere of calm. The guest in that second setting relaxes. They feel no pressure to eat faster, wrap up their conversation, or get out of the way.
 
 Cultivating ma in movement means:
 
@@ -22,15 +22,15 @@ In guest interactions, ma shows up as:
 
 - A brief pause after the guest finishes speaking, before responding
 - Letting the guest complete their thought fully before offering anything
-- Not turning away the moment an interaction seems almost over — letting the farewell finish naturally
+- Not turning away the moment an interaction seems almost over, letting the farewell finish naturally
 
 ## Ma in the Handover
 
-Ma applies to handovers as well. When passing responsibility to a colleague — whether at shift end or covering a break — the transfer of information needs to be unhurried and complete. A rushed handover loses details. A careful one means the guest never feels the gap.
+Ma applies to handovers as well. When passing responsibility to a colleague, whether at shift end or covering a break, the transfer of information needs to be unhurried and complete. A rushed handover loses details. A careful one means the guest never feels the gap.
 
 ## Developing Your Own Ma
 
-Where in your service do you rush? Where do you fill silence out of habit or mild discomfort? What one small pause could you build into your routine — a breath before you knock, a moment of stillness after placing the bill, a beat before you turn away? These are not large changes. Applied consistently, they bring a noticeably different quality of presence to every guest interaction.
+Where in your service do you rush? Where do you fill silence out of habit or mild discomfort? What one small pause could you build into your routine, a breath before you knock, a moment of stillness after placing the bill, a beat before you turn away? These are not large changes. Applied consistently, they bring a noticeably different quality of presence to every guest interaction.
 
 ---
 

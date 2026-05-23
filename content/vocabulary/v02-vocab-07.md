@@ -3,12 +3,9 @@ id: v02-vocab
 section: 7
 title: 空室 (kuushitsu)
 ---
+空室 means "vacant room" or "available room," and it is a notable operationally important terms in front desk work. When a guest arrives without a reservation, or when a caller asks about availability, 空室 becomes the immediate focus of the conversation. Japanese hospitality culture places real emphasis on never dismissing a guest without first checking. Even when a fully booked period seems certain, taking the time to verify 空室 properly shows genuine effort. The word combines 空 (empty, vacant) and 室 (room), which gives one exactly what it says.
 
-空室 means "vacant room" or "available room," and it is one of the most operationally important terms in front desk work. When a guest arrives without a reservation, or when a caller asks about availability, 空室 becomes the immediate focus of the conversation. Japanese hospitality culture places real emphasis on never dismissing a guest without first checking. Even when a fully booked period seems certain, taking the time to verify 空室 properly shows genuine effort. The word combines 空 (empty, vacant) and 室 (room), which gives you exactly what it says.
-
-空室 appears most often in the phrase ただいま空室をお調べいたします, pairing the word with お調べ, the humble-polite form of 調べる (to check, to look into). That combination tells the guest clearly: I am working on this for you right now. Availability systems in modern hotels display 空室 status in real time, and staff need to relay that information both promptly and in language that matches the register of the interaction.
-
-## Example Sentences
+空室 appears most often in the phrase ただいま空室をお調べいたします, pairing the word with お調べ, the humble-polite form of 調べる (to check, to look into). That combination tells the guest clearly: I am working on this for one right now. Availability systems in modern hotels display 空室 status in real time, and staff need to relay that information both promptly and in language that matches the register of the interaction\n## Example Sentences
 
 **1.** 少々お待ちください。ただいま空室をお調べいたします。
 *Shōshō o-machi kudasai. Tadaima kūshitsu o o-shirabe itashimasu.*
@@ -24,12 +21,12 @@ title: 空室 (kuushitsu)
 
 ## Related Expressions
 
-- **満室 (manshitsu)**: the direct opposite, meaning fully booked with no rooms available. Knowing both terms gives you everything you need to handle any availability situation with the right language.
-- **空き (aki)**: a more casual, general word for vacancy or openness; 空室 is the precise, hospitality-specific compound you should be using in professional contexts.
+- **満室 (manshitsu)**: the direct opposite, meaning fully booked with no rooms available. Knowing both terms gives one everything one needs to handle any availability situation with the right language.
+- **空き (aki)**: a more casual, general word for vacancy or openness; 空室 is the precise, hospitality-specific compound staff should be using in professional contexts.
 
 ## Common Mistakes
 
-Responding to walk-in availability inquiries with 満室です before actually checking the system is a serious service error. The default first response should always be ただいまお調べいたします, no matter how busy the period looks. On pronunciation, 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen — speak carefully. When stating how many rooms are available, use the correct counter suffix: rooms are counted with 〜室 (shitsu), so 1室, 2室, 3室.
+Responding to walk-in availability inquiries with 満室です before checking the system is a serious service error. The default first response should always be ただいまお調べいたします, no matter how busy the period looks. On pronunciation, 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen, speak carefully. When stating how many rooms are available, use the correct counter suffix: rooms are counted with 〜室 (shitsu), so 1室, 2室, 3室.
 
 ---
 

@@ -3,15 +3,12 @@ id: v13-vocab
 section: 9
 title: 休憩 (kyuukei)
 ---
-
 **Pronunciation:** [kyuu-**kei**]
 **Register:** Neutral, workplace welfare and scheduling
 
 休憩 refers to a break period during work, a designated time when employees step away from their duties to rest, eat, and recharge. In Japan this is legally regulated: the Labour Standards Act requires at least 45 minutes for shifts exceeding six hours, and at least 60 minutes for shifts over eight hours. For hospitality workers on their feet all shift, managing guest requests and keeping service standards up, 休憩 isn't optional. It's how they sustain performance across the full working day. Hotels and ryokan typically stagger breaks across departments so service continuity is never interrupted.
 
-Culturally, Japanese employees tend to be mindful of not letting breaks run long or feel self-indulgent, since that can read as a lack of commitment to the team. That said, good managers actively encourage their teams to take 休憩 properly, because rested staff genuinely deliver better service. The expected practice is to step to a designated staff area away from guest sight lines, eat, and actually rest rather than spending the whole break on a phone.
-
-## Example Sentences
+Culturally, Japanese employees tend to be mindful of not letting breaks run long or feel self-indulgent, since that can read as a lack of commitment to the team. However, good managers actively encourage their teams to take 休憩 properly, because rested staff deliver better service. The expected practice is to step to a designated staff area away from guest sight lines, eat, and rest rather than spending the whole break on a phone\n## Example Sentences
 
 **1.** 昼食後に30分の休憩があります。
 *Chuushoku-go ni sanjuppun no kyuukei ga arimasu.*
@@ -32,7 +29,7 @@ Culturally, Japanese employees tend to be mindful of not letting breaks run long
 
 ## Common Mistakes
 
-The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. You'd say 「今日は休みです」to mean "I have the day off." These are different concepts and it's worth keeping them clearly separated in your mind. Students often also need a reminder about verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a genuinely useful phrase when explaining to a guest why a colleague is momentarily unavailable.
+The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. one'd say 「今日は休みです」to mean "I have the day off." These are different concepts and it's worth keeping them clearly separated in one's mind. A common error is to also need a reminder about verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a useful phrase when explaining to a guest why a colleague is momentarily unavailable.
 
 ---
 

@@ -4,7 +4,7 @@ section: 6
 title: The Travel-Fatigued Guest
 ---
 
-Not every quiet, withdrawn, or irritable guest is dissatisfied with the service. Many are simply exhausted. Long-haul flights, time zone shifts, delayed connections, and the disorientation of arriving in an unfamiliar country take a real physical and cognitive toll. Recognising travel fatigue — and distinguishing it from genuine dissatisfaction — prevents misreading the situation and responding in the wrong way.
+Not every quiet, withdrawn, or irritable guest is dissatisfied with the service. Many are simply exhausted. Long-haul flights, time zone shifts, delayed connections, and the disorientation of arriving in an unfamiliar country take a real physical and cognitive toll. Recognising travel fatigue, and distinguishing it from genuine dissatisfaction, prevents misreading the situation and responding in the wrong way.
 
 ## What Travel Fatigue Looks Like
 
@@ -20,7 +20,7 @@ Not every quiet, withdrawn, or irritable guest is dissatisfied with the service.
 
 - Difficulty processing information; asking for things to be repeated; slow to respond
 - Confusion about simple details such as room number or floor
-- Short-term forgetfulness — leaving items at the desk, returning moments later
+- Short-term forgetfulness, leaving items at the desk, returning moments later
 - Reduced decision-making ability; struggling to choose between options
 
 ### Emotional Signs
@@ -40,17 +40,17 @@ Not every quiet, withdrawn, or irritable guest is dissatisfied with the service.
 | Trigger | No specific cause | Linked to a specific issue |
 | Recovery | Improves after rest | Requires resolution |
 
-When the signals are ambiguous, respond with simplicity and gentleness in either case — the approach works for both.
+When the signals are ambiguous, respond with simplicity and gentleness in either case, the approach works for both.
 
 ## How to Respond
 
-**Simplify.** Reduce information to the essential minimum. Instead of explaining all hotel facilities at check-in, say: "I'll walk you straight to your room — everything else can wait until you've rested."
+**Simplify.** Reduce information to the essential minimum. Instead of explaining all hotel facilities at check-in, say: "I'll walk you straight to your room, everything else can wait until you've rested."
 
 **Anticipate.** A fatigued guest cannot easily advocate for themselves. Offer water, ask if they would like luggage brought up immediately, and confirm the wake-up call without them needing to ask.
 
 **Move efficiently.** Do not slow them down with lengthy welcomes or promotional information. Acknowledge warmly, process quickly, and get them to their room.
 
-**Follow up later.** After the guest has rested — the following morning or at their next interaction — offer a fuller welcome and introduce the property properly.
+**Follow up later.** After the guest has rested, the following morning or at their next interaction, offer a fuller welcome and introduce the property properly.
 
 ## Omoiyari (思いやり)
 
@@ -72,7 +72,7 @@ The care is genuine, but it is made invisible. The guest experiences only the co
 *Omoiyari.*
 "Empathy; considerate care."
 
-Imagining what another person is feeling and acting on it without being asked. For a travel-fatigued guest, omoiyari is expressed through small, quiet actions — a glass of water, a faster process, a softer voice — rather than words.
+Imagining what another person is feeling and acting on it without being asked. For a travel-fatigued guest, omoiyari is expressed through small, quiet actions, a glass of water, a faster process, a softer voice, rather than words.
 
 **お部屋に直接ご案内いたします。**
 *O-heya ni chokusetsu go-annai itashimasu.*

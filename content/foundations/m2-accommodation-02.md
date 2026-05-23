@@ -12,11 +12,11 @@ Rise to greet the guest before they reach the desk. In a ryokan, staff often mee
 
 Standard greeting on arrival:
 
-- *"いらっしゃいませ。お待ちしておりました。"* — "Welcome. We have been looking forward to your arrival."
+- *"いらっしゃいませ。お待ちしておりました。"*, "Welcome. We have been looking forward to your arrival."
 
 If the guest has a reservation:
 
-- *"○○様でいらっしゃいますね。お越しいただきまして誠にありがとうございます。"* — "You must be Mr/Ms ○○. Thank you sincerely for coming."
+- *"○○様でいらっしゃいますね。お越しいただきまして誠にありがとうございます。"*, "You must be Mr/Ms ○○. Thank you sincerely for coming."
 
 ## Room Guidance (部屋案内, *heya annai*)
 
@@ -35,7 +35,7 @@ The room explanation should feel like a short, friendly orientation rather than 
 
 End with an open offer and then withdraw quietly.
 
-*"何かご不明な点がございましたら、いつでもお申し付けください。"* — "If there is anything unclear or anything you need, please do not hesitate to ask."
+*"何かご不明な点がございましたら、いつでもお申し付けください。"*, "If there is anything unclear or anything you need, please do not hesitate to ask."
 
 ---
 

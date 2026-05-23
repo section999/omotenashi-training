@@ -3,12 +3,9 @@ id: v11-vocab
 section: 6
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
+少々お待ちください is one of the phrases one will use most in Japanese hospitality phone communication, and one will reach for it whenever a caller needs to be briefly placed on hold, a transfer is being arranged, or one needs a moment to verify information. The word 少々 is doing important work here: it signals "just a little while" rather than an open-ended wait, which quietly manages the caller's expectations and keeps their patience intact. In omotenashi, even asking someone to hold has to be done with warmth and a clear sense that one is moving quickly on their behalf.
 
-少々お待ちください is one of the phrases you'll use most in Japanese hospitality phone communication, and you'll reach for it whenever a caller needs to be briefly placed on hold, a transfer is being arranged, or you need a moment to verify information. The word 少々 is doing important work here: it signals "just a little while" rather than an open-ended wait, which quietly manages the caller's expectations and keeps their patience intact. In omotenashi, even asking someone to hold has to be done with warmth and a clear sense that you're moving quickly on their behalf.
-
-That said, the phrase is only as good as what follows it. If the wait goes beyond about 30 seconds, come back to the line, say お待たせいたしました, and give an update or offer a callback. Leaving someone in silence for a minute or more without checking in breaks the trust that 少々 was meant to establish. And when you do return, never skip the お待たせいたしました, starting straight into business without it feels like you forgot the caller was there.
-
-## Example Sentences
+However, the phrase is only as good as what follows it. If the wait goes beyond about 30 seconds, come back to the line, say お待たせいたしました, and give an update or offer a callback. Leaving someone in silence for a minute or more without checking in breaks the trust that 少々 was meant to establish. And when one does return, never skip the お待たせいたしました, starting straight into business without it feels like one forgot the caller was there\n## Example Sentences
 
 **1.** 少々お待ちください。ただいま担当者に確認いたします。
 *Shōshō omachi kudasai. Tadaima tantōsha ni kakunin itashimasu.*
@@ -16,11 +13,11 @@ That said, the phrase is only as good as what follows it. If the wait goes beyon
 
 **2.** お部屋の状況を確認いたしますので、少々お待ちいただけますでしょうか。
 *Oheya no jōkyō wo kakunin itashimasu no de, shōshō omachi itadakemasu deshō ka.*
-"Could you wait a moment while I check the status of your room?"
+"Could you wait a moment while I check the status of the room?"
 
 **3.** お待たせいたしました。お調べした結果をご報告いたします。
 *Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.*
-"Thank you for your patience. I will now share the results of my inquiry."
+"Thank you for one's patience. I will now share the results of my inquiry."
 
 ## Related Expressions
 
@@ -29,7 +26,7 @@ That said, the phrase is only as good as what follows it. If the wait goes beyon
 
 ## Common Mistakes
 
-A common slip is saying お待ちください without the 少々 in front of it. Grammatically there's nothing wrong with it, but it loses the "just briefly" nuance that softens the request and can come across as blunt in a hospitality context. Students also sometimes forget to return to the line promptly, which breaks the unspoken promise that 少々 makes. And skipping お待たせいたしました when you do come back leaves the caller feeling like they were on hold in a void, with no one actually minding them. Each of these is a small thing, but together they define whether the call feels professionally handled or not.
+A common slip is saying お待ちください without the 少々 in front of it. Grammatically there's nothing wrong with it, but it loses the "just briefly" nuance that softens the request and can come across as blunt in a hospitality context. Students also sometimes forget to return to the line promptly, which breaks the unspoken promise that 少々 makes. And skipping お待たせいたしました when one does come back leaves the caller feeling like they were on hold in a void, with no one minding them. Each of these is a small thing, but together they define whether the call feels professionally handled or not.
 
 ---
 

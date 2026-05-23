@@ -4,7 +4,7 @@ section: 3
 title: Wrapping and Presentation, The Gift Before the Gift
 ---
 
-In Japanese gift culture, how a gift is presented is as important as what it contains. The wrapping is not a decorative afterthought — it is the first act of care. A poorly wrapped gift, or one handed over carelessly, quietly diminishes the gift itself regardless of its value.
+In Japanese gift culture, how a gift is presented is as important as what it contains. The wrapping is not a decorative afterthought, it is the first act of care. A poorly wrapped gift, or one handed over carelessly, quietly diminishes the gift itself regardless of its value.
 
 ## Noshi (熨斗)
 
@@ -24,7 +24,7 @@ A furoshiki is a square cloth used to wrap and carry items. It is an elegant, su
 When presenting a gift:
 
 - Present with both hands and a slight bow
-- Extend the gift calmly at chest height — do not thrust it forward
+- Extend the gift calmly at chest height, do not thrust it forward
 - In most traditional contexts, the recipient should not open the gift immediately, which avoids any awkwardness about the value received
 
 ## Receiving Gifts from Guests

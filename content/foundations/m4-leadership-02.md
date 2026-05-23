@@ -4,7 +4,7 @@ section: 2
 title: Mentoring Junior Staff
 ---
 
-The transmission of omotenashi from one generation of hospitality professionals to the next is one of the most important functions a senior staff member performs. Technical skills — how to fold a napkin, how to present a bill, how to handle a check-in — can be taught in a training session. The deeper dimensions of omotenashi, the sensitivity, the intuition, the genuine care that separates a skilled professional from a merely competent one, are transmitted through relationship, over time, through sustained mentoring.
+The transmission of omotenashi from one generation of hospitality professionals to the next is one of the most important functions a senior staff member performs. Technical skills, how to fold a napkin, how to present a bill, how to handle a check-in, can be taught in a training session. The deeper dimensions of omotenashi, the sensitivity, the intuition, the genuine care that separates a skilled professional from a merely competent one, are transmitted through relationship, over time, through sustained mentoring.
 
 ## What Mentoring Is Not
 
@@ -18,11 +18,11 @@ Effective mentoring in a hospitality context involves three recurring practices.
 
 ### Debriefing After Significant Interactions
 
-After a challenging guest interaction — a complaint, a VIP arrival, a special request — a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
+After a challenging guest interaction, a complaint, a VIP arrival, a special request, a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
 
 ### Narrating Your Own Practice
 
-When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed — did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
+When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed, did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
 
 ### Creating Space for Questions
 

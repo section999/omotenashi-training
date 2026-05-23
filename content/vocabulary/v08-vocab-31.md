@@ -3,15 +3,12 @@ id: v08-vocab
 section: 31
 title: 中 (naka)
 ---
-
 **Pronunciation:** [**na**-ka]
 **Register:** Neutral to Formal, directing guests to indoor locations, room orientation
 
-中 means "inside" or "within," and it is used constantly in hotel service. Conference rooms inside a building, amenities inside a bathroom, facilities inside an interior courtyard: any time you need to tell a guest that something is not outside but in here, 中 is your word. In formal keigo sentences it sits naturally as 中にございます or 建物の中にございます, and it pairs well with 入る (hairu, to enter): 中にお入りください (please come inside) is one of those warm, welcoming phrases that guests respond to positively.
+中 means "inside" or "within," and it is used constantly in hotel service. Conference rooms inside a building, amenities inside a bathroom, facilities inside an interior courtyard: any time one needs to tell a guest that something is not outside but in here, 中 is one's word. In formal keigo sentences it sits naturally as 中にございます or 建物の中にございます, and it pairs well with 入る (hairu, to enter): 中にお入りください (please come inside) is one of those warm, welcoming phrases that guests respond to positively.
 
-The cultural dimension is worth keeping in mind. Saying 中へどうぞ is not just directional; it carries a sense of invitation, of opening a space to someone. That warmth is part of why Japanese hospitality feels different. Beyond the welcoming register, 中 does practical work whenever you need to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation — クローゼットの中にハンガーがございます (there are hangers inside the closet) — so it travels well across all types of guest interactions.
-
-## Example Sentences
+The cultural dimension is worth keeping in mind. Saying 中へどうぞ is not just directional; it carries a sense of invitation, of opening a space to someone. That warmth is part of why Japanese hospitality feels different. Beyond the welcoming register, 中 does practical work whenever one needs to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions\n## Example Sentences
 
 **1.** 会議室は建物の中、3階の奥にございます。
 *Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*
@@ -27,12 +24,12 @@ The cultural dimension is worth keeping in mind. Saying 中へどうぞ is not j
 
 ## Related Expressions
 
-- **外 (soto)**: Outside, the direct opposite of 中. Clearly separating these two in your directions saves guests from unnecessary trips outdoors, especially in rain or cold weather. This is one of the most useful spatial pairs in all of hotel navigation.
+- **外 (soto)**: Outside, the direct opposite of 中. Clearly separating these two in one's directions saves guests from unnecessary trips outdoors, especially in rain or cold weather. This is a notable useful spatial pairs in all of hotel navigation.
 - **奥 (oku)**: The back or further inside, which adds depth to 中. When something is not just inside but deep inside a space, 奥 is the more precise word. Think of 中 as getting someone through the door and 奥 as pointing them to the far end once they are inside.
 
 ## Common Mistakes
 
-A common mistake is leaving 中 out entirely. Naming the destination without specifying it is indoors can leave guests circling the exterior of the building looking for an entrance that is actually through the lobby. Always confirm whether something is 中 or 外 before answering. There is also a reading note: 中 appears in many compound words where it is not read naka, such as 中学 (chuugaku) or 中央 (chuuou). In standalone directional speech it is always naka. In formal speech, never leave 中 hanging alone as a complete answer. Build a full sentence around it — 中にございます or 中へお進みください — so the response sounds polished and respectful.
+A common mistake is leaving 中 out entirely. Naming the destination without specifying it is indoors can leave guests circling the exterior of the building looking for an entrance that is through the lobby. Always confirm whether something is 中 or 外 before answering. There is also a reading note: 中 appears in many compound words where it is not read naka, such as 中学 (chuugaku) or 中央 (chuuou). In standalone directional speech it is always naka. In formal speech, never leave 中 hanging alone as a complete answer. Build a full sentence around it, 中にございます or 中へお進みください, so the response sounds polished and respectful.
 
 ---
 

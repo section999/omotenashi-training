@@ -3,16 +3,13 @@ id: v08-vocab
 section: 22
 title: 遠くに (tooku ni)
 ---
+遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, honesty about distance is considered part of professional integrity and genuine omotenashi, guests who are told something is 近く (nearby) when it is far away feel misled, and that disappointment damages the overall guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Used with care and followed by practical transport suggestions, 遠くに is an act of service, not discouragement.
 
-遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, honesty about distance is considered part of professional integrity and genuine omotenashi, guests who are told something is 近く (nearby) when it is actually far away feel misled, and that disappointment damages the overall guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Used with care and followed by practical transport suggestions, 遠くに is an act of service, not discouragement.
-
-In practice, 遠くに is most useful when guests ask about destinations and staff need to manage their expectations honestly: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (you can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view.
-
-## Example Sentences
+遠くに is most useful when guests ask about destinations and staff need to manage their expectations honestly: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (one can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view\n## Example Sentences
 
 **1.** 山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。
 *Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.*
-"The mountain can be seen far away from the hotel. On a clear day you can see it particularly well."
+"The mountain can be seen far away from the hotel. On a clear day one can see it particularly well."
 
 **2.** あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。
 *Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.*
@@ -29,7 +26,7 @@ In practice, 遠くに is most useful when guests ask about destinations and sta
 
 ## Common Mistakes
 
-The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment: this creates a false expectation that harms the guest experience far more than honest information would. Learners also sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. When using 遠くに, staff should always follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
+The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment: this creates a false expectation that harms the guest experience far more than honest information would. Another common mistake is sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. When using 遠くに, staff should follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
 
 ---
 

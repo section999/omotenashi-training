@@ -8,13 +8,13 @@ title: Posture and Movement, How You Walk and Stand
 
 ## Standing Posture
 
-The standard hospitality standing posture is upright but not rigid. Feet are together or slightly apart, with weight distributed evenly. Hands are held in front of the body — right hand over left, or loosely clasped — and never in pockets, behind the back, or crossed over the chest. The chest is open, the chin is level, and the gaze is forward and attentive.
+The standard hospitality standing posture is upright but not rigid. Feet are together or slightly apart, with weight distributed evenly. Hands are held in front of the body, right hand over left, or loosely clasped, and never in pockets, behind the back, or crossed over the chest. The chest is open, the chin is level, and the gaze is forward and attentive.
 
 Guests read these cues immediately, often below the level of conscious thought. Hands in pockets project disengagement. Crossed arms project defensiveness. Slouching suggests inattention.
 
 ## Walking
 
-Move with purpose and calm — not hurried, not ambling. In guest-facing areas, movement should be quiet. Avoid:
+Move with purpose and calm, not hurried, not ambling. In guest-facing areas, movement should be quiet. Avoid:
 
 - Running (suggests loss of control)
 - Loud footsteps (suggests inattention to the environment)
@@ -25,7 +25,7 @@ When passing a guest in a corridor, slow slightly, make eye contact, and offer a
 
 ## In Small Spaces
 
-When entering a space where a guest is seated, or passing closely through a narrow area, indicate awareness with a slight bow and a quiet **失礼いたします (shitsurei itashimasu)** — "Excuse me / pardon my intrusion." This phrase is used whenever entering a guest's personal space.
+When entering a space where a guest is seated, or passing closely through a narrow area, indicate awareness with a slight bow and a quiet **失礼いたします (shitsurei itashimasu)**: "Excuse me / pardon my intrusion." This phrase is used whenever entering a guest's personal space.
 
 ---
 

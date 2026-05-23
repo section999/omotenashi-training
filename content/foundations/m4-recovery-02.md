@@ -8,7 +8,7 @@ The first thirty seconds of a service recovery interaction are the most importan
 
 ## Do Not Interrupt
 
-Whatever else you do, do not interrupt. Let the guest finish completely — even if you already understand the problem, even if you know exactly what you will do to resolve it, even if what they are saying is not entirely accurate. The act of being listened to without interruption is itself a form of care. For a guest who is frustrated, upset, or embarrassed about raising a concern, it may be the most important thing you do.
+Whatever else you do, do not interrupt. Let the guest finish completely, even if you already understand the problem, even if you know exactly what you will do to resolve it, even if what they are saying is not entirely accurate. The act of being listened to without interruption is itself a form of care. For a guest who is frustrated, upset, or embarrassed about raising a concern, it may be the most important thing you do.
 
 Interrupting, even to offer a solution, tells the guest that closing the complaint matters more to you than truly hearing them. It deflates the trust they placed in you by speaking at all.
 
@@ -17,16 +17,16 @@ Interrupting, even to offer a solution, tells the guest that closing the complai
 Active listening is not passive. While the guest speaks, body language communicates attention:
 
 - Face the guest directly, at an appropriate distance
-- Maintain gentle, respectful eye contact — not a fixed stare, but steady engagement
+- Maintain gentle, respectful eye contact, not a fixed stare, but steady engagement
 - Bow your head slightly as they speak, a subtle cue of reception
 - Do not cross your arms, look around the room, or touch your face
-- Do not reach for a radio, a phone, or a form — those actions come later
+- Do not reach for a radio, a phone, or a form, those actions come later
 
 These signals tell the guest that they have your full attention and that what they are saying matters.
 
 ## Reflecting Back
 
-Once the guest has finished speaking, reflect their experience back to them before you respond. This is not parroting — it is confirmation. For example: "So if I understand correctly, when you arrived this morning, the room was not ready and you were asked to wait for over an hour. Is that right?"
+Once the guest has finished speaking, reflect their experience back to them before you respond. This is not parroting, it is confirmation. For example: "So if I understand correctly, when you arrived this morning, the room was not ready and you were asked to wait for over an hour. Is that right?"
 
 This reflection serves two purposes: it confirms your understanding of the issue, and it shows the guest that you were truly listening. Both matter, but the second matters most.
 

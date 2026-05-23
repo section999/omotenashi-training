@@ -3,15 +3,12 @@ id: v12-vocab
 section: 19
 title: 通報 (tsuuhou)
 ---
-
 **Pronunciation:** [**tsuu**-hou]
 **Register:** Formal, emergency notification and official reporting
 
-通報 means formally notifying an external authority, such as the fire department (消防署), police (警察), or ambulance service (救急), that an emergency exists and requires their intervention. It carries a sense of professional and civic duty. This is not just passing along information: making a 通報 is a deliberate act that activates official response systems. In a hotel, timely and accurate 通報 is one of the most important things a staff member can do during a crisis. Delays can dramatically worsen outcomes in fires, medical emergencies, suspected crimes, and natural disasters.
+通報 means formally notifying an external authority, such as the fire department (消防署), police (警察), or ambulance service (救急), that an emergency exists and requires their intervention. It carries a sense of professional and civic duty. This is not just passing along information: making a 通報 is a deliberate act that activates official response systems. In a hotel, timely and accurate 通報 is an important things a staff member can do during a crisis. Delays can dramatically worsen outcomes in fires, medical emergencies, suspected crimes, and natural disasters.
 
-Japanese staff are trained to give structured information when making a 通報 call: the type of emergency, the hotel's full address (written down and available at every station), the specific floor and room number, the number of people affected, and whether hazardous materials are involved. Worth noting for international staff is that Japan's emergency numbers differ from many other countries: 119 connects to fire and ambulance, while 110 connects to police. This is different from the 911 system, and international guests often need to be told directly. After a 通報 is made, a record must be entered into the hotel's emergency log right away, including the time of the call, which authority was contacted, and exactly what information was relayed.
-
-## Example Sentences
+Japanese staff are trained to give structured information when making a 通報 call: the type of emergency, the hotel's full address (written down and available at every station), the specific floor and room number, the number of people affected, and whether hazardous materials are involved. Worth noting for international staff is that Japan's emergency numbers differ from many other countries: 119 connects to fire and ambulance, while 110 connects to police. This is different from the 911 system, and international guests often need to be told directly. After a 通報 is made, a record must be entered into the hotel's emergency log right away, including the time of the call, which authority was contacted, and exactly what information was relayed\n## Example Sentences
 
 **1.** 火災を発見次第、ただちに消防署に通報してください。
 *Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.*
@@ -32,7 +29,7 @@ Japanese staff are trained to give structured information when making a 通報 c
 
 ## Common Mistakes
 
-Students often mix up 通報 and 報告, but the direction of communication is what sets them apart. 通報 goes outward to official authorities; 報告 goes inward to supervisors. Using the wrong one in a report or debrief can create confusion about what actually happened. Another mistake is hesitating to make a 通報 because of uncertainty about whether a situation truly qualifies as an emergency. Hotel policy should be unambiguous: when in doubt, contact emergency services immediately. In practice, the mistake most likely to cause harm is waiting too long. One more thing worth drilling during training: have staff practise saying the hotel's full Japanese address aloud at speed, because address formats in Japan are different from Western conventions, and the stress of a real emergency is not the time to get confused about street numbers and ward names.
+A common error is to mix up 通報 and 報告, but the direction of communication is what sets them apart. 通報 goes outward to official authorities; 報告 goes inward to supervisors. Using the wrong one in a report or debrief can create confusion about what happened. Another mistake is hesitating to make a 通報 because of uncertainty about whether a situation truly qualifies as an emergency. Hotel policy should be unambiguous: when in doubt, contact emergency services immediately. the mistake most likely to cause harm is waiting too long. Additionally, worth drilling during training: have staff practise saying the hotel's full Japanese address aloud at speed, because address formats in Japan are different from Western conventions, and the stress of a real emergency is not the time to get confused about street numbers and ward names.
 
 ---
 

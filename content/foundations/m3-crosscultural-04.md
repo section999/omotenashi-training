@@ -4,7 +4,7 @@ section: 4
 title: Western Guest Expectations and Common Mismatches
 ---
 
-Guests from North America, Western Europe, and Australia bring expectations shaped by a different hospitality tradition — one that puts a premium on directness, individuality, and explicit communication. These are not worse values than Japanese ones. They are simply different, and understanding where they diverge from Japanese defaults is what keeps friction from becoming frustration.
+Guests from North America, Western Europe, and Australia bring expectations shaped by a different hospitality tradition, one that puts a premium on directness, individuality, and explicit communication. These are not worse values than Japanese ones. They are simply different, and understanding where they diverge from Japanese defaults is what keeps friction from becoming frustration.
 
 ## Directness vs. Indirectness
 
@@ -26,7 +26,7 @@ Japanese hospitality values comfortable silences and an unhurried pace. Some Wes
 
 ## Small Rooms
 
-Western guests, particularly from North America, may find standard Japanese room dimensions significantly smaller than expected. If the room type is compact, mention it at booking or check-in: "The room has a wonderfully efficient design — if you would like, I can show you the highlights." Reframing beats apologising.
+Western guests, particularly from North America, may find standard Japanese room dimensions significantly smaller than expected. If the room type is compact, mention it at booking or check-in: "The room has a wonderfully efficient design, if you would like, I can show you the highlights." Reframing beats apologising.
 
 ---
 

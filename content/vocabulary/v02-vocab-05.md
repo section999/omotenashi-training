@@ -3,16 +3,13 @@ id: v02-vocab
 section: 5
 title: 予約確認 (yoyaku kakunin)
 ---
-
 予約確認 is the act of verifying and confirming the details of a guest's reservation. It is a key step in the check-in process that keeps both staff and guest aligned on dates, room type, number of guests, meal plans, and any special requests. In Japanese hospitality, accuracy during 予約確認 goes beyond the administrative: catching a discrepancy early, such as a mismatched date or room type, and resolving it calmly shows the kind of professionalism guests remember.
 
-The standard phrase for starting this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is asking for the guest's cooperation. This phrase tells the guest that their information is about to be reviewed and invites them to participate in the verification. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve. That added step reduces misunderstanding and gives guests visible proof of what was agreed.
-
-## Example Sentences
+The standard phrase for starting this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is asking for the guest's cooperation. This phrase tells the guest that their information is about to be reviewed and invites them to participate in the verification. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve. That added step reduces misunderstanding and gives guests visible proof of what was agreed\n## Example Sentences
 
 **1.** ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。
 *Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.*
-"Allow me to confirm your reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?"
+"Allow me to confirm one's reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?"
 
 **2.** お電話でご予約の確認を承っております。
 *O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.*

@@ -3,19 +3,16 @@ id: v10-vocab
 section: 20
 title: 不足 (fusoku)
 ---
-
 **Pronunciation:** [fu-**so**-ku]
 **Register:** Formal/Neutral, common in billing and payment situations
 
-不足 means a shortage or insufficiency: the amount provided is less than what is required. In hospitality, this most often comes up when a guest's payment falls short of the total, or when a prepaid balance doesn't cover the charge. These moments can feel uncomfortable, but they don't have to be. The way you handle a 不足 situation tells a guest a lot about the establishment, and a staff member who manages it calmly and discreetly turns a potentially awkward moment into a demonstration of professional care.
+不足 means a shortage or insufficiency: the amount provided is less than what is required. In hospitality, this most often comes up when a guest's payment falls short of the total, or when a prepaid balance doesn't cover the charge. These moments can feel uncomfortable, but they don't have to be. The way one handles a 不足 situation tells a guest a lot about the establishment, and a staff member who manages it calmly and discreetly turns a potentially awkward moment into a demonstration of professional care.
 
-The phrasing you choose matters enormously here. お金が足りません can come across as blunt, even accusatory. The polished alternative is 〇〇円ご不足です, which states the shortfall factually and without any judgment. Never stop at just announcing the problem -- immediately offer a path forward, whether that's an alternative payment method, a smaller transaction, or a quiet step away from the counter to process a supplementary payment. In a high-end hotel or ryokan, this kind of conversation should always happen away from other guests.
-
-## Example Sentences
+The phrasing one choose matters enormously here. お金が足りません can come across as blunt, even accusatory. The polished alternative is 〇〇円ご不足です, which states the shortfall factually and without any judgment. Never stop at just announcing the problem -- immediately offer a path forward, whether that's an alternative payment method, a smaller transaction, or a quiet step away from the counter to process a supplementary payment. In a high-end hotel or ryokan, this kind of conversation should always happen away from other guests\n## Example Sentences
 
 **1.** 恐れ入りますが、〇〇円ご不足でございます。
 *Osore irimasu ga, 〇〇-en go-fusoku de gozaimasu.*
-"I am sorry to inform you, but you are 〇〇 yen short."
+"I am sorry to inform you, but one is 〇〇 yen short."
 
 **2.** 不足分は別の方法でお支払いいただけますか。
 *Fusoku-bun wa betsu no houhou de oshiharai itadakemasu ka.*
@@ -28,7 +25,7 @@ The phrasing you choose matters enormously here. お金が足りません can co
 ## Related Expressions
 
 - **残高不足 (zandaka fusoku)**: This compound specifically means an insufficient account or card balance, and is the most common form 不足 takes in hotel payment contexts; it also appears as an error message on electronic payment terminals, so guests may already be familiar with it.
-- **超過 (chouka)**: 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps you communicate about any financial discrepancy, whether the guest has too little or the charge is too high.
+- **超過 (chouka)**: 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps one communicates about any financial discrepancy, whether the guest has too little or the charge is too high.
 
 ## Common Mistakes
 

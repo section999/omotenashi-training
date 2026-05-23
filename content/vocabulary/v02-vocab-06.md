@@ -3,12 +3,9 @@ id: v02-vocab
 section: 6
 title: 宿泊 (shukuhaku)
 ---
+宿泊 is the formal Japanese word for an overnight stay or lodging. Unlike the casual verb 泊まる (to stay overnight), 宿泊 carries a professional register that makes it the right choice for any written or spoken communication in a hospitality environment. one will find it on registration forms, billing sheets, and welcome letters, and one will hear it throughout every interaction between staff and guests. The word combines 宿 (lodging, inn) and 泊 (overnight stay), reflecting its roots in a long tradition of Japanese travel culture where inns occupied a central place in social life.
 
-宿泊 is the formal Japanese word for an overnight stay or lodging. Unlike the casual verb 泊まる (to stay overnight), 宿泊 carries a professional register that makes it the right choice for any written or spoken communication in a hospitality environment. You will find it on registration forms, billing sheets, and welcome letters, and you will hear it throughout every interaction between staff and guests. The word combines 宿 (lodging, inn) and 泊 (overnight stay), reflecting its roots in a long tradition of Japanese travel culture where inns occupied a central place in social life.
-
-宿泊 comes up constantly when discussing the number of nights (宿泊数), the period of stay (宿泊期間), and a guest's overall accommodation arrangement. The polite prefix ご is always added when referring to a guest's stay. ご宿泊の期間はいつからいつまででしょうか is the standard phrase for confirming check-in and check-out dates. 宿泊 differs from 滞在 (taizai), which is a broader term for the time someone spends in a place and does not necessarily imply overnight accommodation. Using the right word is a mark of professional precision.
-
-## Example Sentences
+宿泊 comes up constantly when discussing the number of nights (宿泊数), the period of stay (宿泊期間), and a guest's overall accommodation arrangement. The polite prefix ご is always added when referring to a guest's stay. ご宿泊の期間はいつからいつまででしょうか is the standard phrase for confirming check-in and check-out dates. 宿泊 differs from 滞在 (taizai), which is a broader term for the time someone spends in a place and does not necessarily imply overnight accommodation. Using the right word is a mark of professional precision\n## Example Sentences
 
 **1.** ご宿泊の期間はいつからいつまででしょうか。
 *Go-shukuhaku no kikan wa itsu kara itsu made deshō ka.*
@@ -20,7 +17,7 @@ title: 宿泊 (shukuhaku)
 
 **3.** ご宿泊中、何かご不明な点がございましたら、いつでもフロントまでお申し付けください。
 *Go-shukuhaku-chū, nanika go-fumei na ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*
-"During your stay, please do not hesitate to contact the front desk at any time with any questions."
+"During the stay, please do not hesitate to contact the front desk at any time with any questions."
 
 ## Related Expressions
 

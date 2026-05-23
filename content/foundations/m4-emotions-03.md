@@ -4,7 +4,7 @@ section: 3
 title: Interpreting Silence & Indirect Communication
 ---
 
-In many Western cultures, silence in conversation feels awkward — something to move past quickly. In Japan, silence is part of how meaning is communicated. A pause from a Japanese guest is usually doing something: it carries information, and reading it correctly is one of the more important skills in this work.
+In many Western cultures, silence in conversation feels awkward, something to move past quickly. In Japan, silence is part of how meaning is communicated. A pause from a Japanese guest is usually doing something: it carries information, and reading it correctly is one of the more important skills in this work.
 
 ## The Meaning of Silence
 
@@ -16,7 +16,7 @@ When a guest pauses before answering, they are most likely thinking carefully. D
 
 ### Silence as Discomfort
 
-A guest who goes quiet after receiving information — a price, a wait time, a policy — may be displeased but unwilling to say so directly. Watch for accompanying cues:
+A guest who goes quiet after receiving information, a price, a wait time, a policy, may be displeased but unwilling to say so directly. Watch for accompanying cues:
 
 - A slight intake of breath
 - A brief downward glance
@@ -40,7 +40,7 @@ In Japanese culture, saying "no" directly is considered impolite. A guest may re
 
 When you sense indirect dissatisfaction, do not confront it directly. Offer an alternative instead:
 
-> "We also have a room closer to the elevator — would that be more convenient?"
+> "We also have a room closer to the elevator, would that be more convenient?"
 
 This approach gives the guest a face-saving way to change their mind without ever having to admit they were unhappy. The issue is resolved without putting anyone in an uncomfortable position, and the guest experiences the interaction as smooth and considerate.
 

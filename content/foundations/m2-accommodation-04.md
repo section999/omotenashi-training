@@ -12,13 +12,13 @@ A yukata is a lightweight cotton robe provided for guests to wear within the ryo
 
 How to wear a yukata:
 
-- Left side over right. Right over left is reserved for the deceased — a critical distinction.
+- Left side over right. Right over left is reserved for the deceased, a critical distinction.
 - Tied with the *obi* (sash) in a simple bow at the front.
 - The hem should fall at the ankle.
 
 When explaining this to guests:
 
-- *"左を上にしてお召しください。右を上に重ねると逆になってしまいますのでご注意ください。"* — "Please wear it with the left side over the right. Right over left is worn only for certain formal occasions, so please take care."
+- *"左を上にしてお召しください。右を上に重ねると逆になってしまいますのでご注意ください。"*, "Please wear it with the left side over the right. Right over left is worn only for certain formal occasions, so please take care."
 
 ## Futon Etiquette
 

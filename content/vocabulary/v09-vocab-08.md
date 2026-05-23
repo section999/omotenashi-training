@@ -3,12 +3,9 @@ id: v09-vocab
 section: 8
 title: 何泊 (nanpaku)
 ---
-
 何泊 is the question word and quantity expression meaning "how many nights," and it is the fundamental unit by which accommodation charges are calculated in Japanese hotels and ryokan. Unlike 日数, which counts calendar days, 何泊 counts only the nights during which a room is occupied, a guest checks in, sleeps, and checks out, with each sleep cycle constituting one 泊. This distinction is operationally critical: a two-night stay (2泊) generates two room-charge lines on the bill regardless of whether the guest is present for three calendar days. All room rate plans, discount structures, and package pricing in Japan are built around the 泊 as the base unit.
 
-In practice, confirming 何泊 is one of the first questions asked during a reservation inquiry, 「何泊のご予定でしょうか」, because it determines total accommodation revenue and informs all subsequent service planning. For groups or extended stays, staff recalculate 何泊 whenever dates change to ensure billing is adjusted correctly. Guests sometimes misunderstand the difference between 泊 and 日, particularly those from countries where "nights" and "days" are used more loosely, so clear explanation in polite terms is part of professional service.
-
-## Example Sentences
+confirming 何泊 is one of the first questions asked during a reservation inquiry, 「何泊のご予定でしょうか」, because it determines total accommodation revenue and informs all subsequent service planning. For groups or extended stays, staff recalculate 何泊 whenever dates change to ensure billing is adjusted correctly. Guests sometimes misunderstand the difference between 泊 and 日, particularly those from countries where "nights" and "days" are used more loosely, so clear explanation in polite terms is part of professional service\n## Example Sentences
 
 **1.** 何泊のご予定でしょうか。
 *Nanpaku no go-yotei deshou ka.*

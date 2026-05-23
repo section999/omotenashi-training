@@ -3,15 +3,12 @@ id: v10-vocab
 section: 22
 title: 返金 (henkin)
 ---
-
 **Pronunciation:** [hen-**kin**]
 **Register:** Formal -- standard in cancellation, billing correction, and checkout contexts
 
-返金 means returning money to a guest: a refund. It comes up most often after a cancellation, a billing error, an overpayment, or a service that wasn't delivered as promised. The guest arriving at a 返金 conversation is rarely in a cheerful mood. How you handle it will either repair their confidence in your establishment or make things worse. A transparent, prompt, well-explained 返金 process can actually leave a guest feeling more positively about the property than they did before the problem happened.
+返金 means returning money to a guest: a refund. It comes up most often after a cancellation, a billing error, an overpayment, or a service that wasn't delivered as promised. The guest arriving at a 返金 conversation is rarely in a cheerful mood. How one handles it will either repair their confidence in one's establishment or make things worse. A transparent, prompt, well-explained 返金 process can leave a guest feeling more positively about the property than they did before the problem happened.
 
-When processing a 返金, confirm three pieces of information before proceeding: the eligible amount (based on your cancellation policy or the billing correction), the return method (back to the original card, by bank transfer, or in cash), and the timeline (〇営業日以内に返金いたします). Giving all three in one clear statement prevents the follow-up calls that happen when guests are left wondering how much they'll get back or when. When a card refund will take several business days, provide written confirmation of the 返金 details so the guest has something concrete to refer to while they wait.
-
-## Example Sentences
+When processing a 返金, confirm three pieces of information before proceeding: the eligible amount (based on one's cancellation policy or the billing correction), the return method (back to the original card, by bank transfer, or in cash), and the timeline (〇営業日以内に返金いたします). Giving all three in one clear statement prevents the follow-up calls that happen when guests are left wondering how much they'll get back or when. When a card refund will take several business days, provide written confirmation of the 返金 details so the guest has something concrete to refer to while they wait\n## Example Sentences
 
 **1.** キャンセルポリシーに基づき、〇〇円を返金いたします。
 *Kyanseru porishii ni motozuki, 〇〇-en o henkin itashimasu.*
@@ -19,7 +16,7 @@ When processing a 返金, confirm three pieces of information before proceeding:
 
 **2.** 返金は〇営業日以内にお客様のカードへご返金いたします。
 *Henkin wa 〇 eigyou-bi inai ni okyakusama no kaado e go-henkin itashimasu.*
-"The refund will be returned to your card within 〇 business days."
+"The refund will be returned to one's card within 〇 business days."
 
 **3.** 請求誤りのため、差額を返金させていただきます。
 *Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.*
@@ -32,7 +29,7 @@ When processing a 返金, confirm three pieces of information before proceeding:
 
 ## Common Mistakes
 
-Telling a guest simply that a 返金 will happen, without specifying the amount, method, or timeframe, creates anxiety and generates follow-up calls. Always bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. Never promise a 返金 before confirming what the cancellation policy actually allows; a promise you have to walk back later is worse than taking a moment to check first.
+Telling a guest simply that a 返金 will happen, without specifying the amount, method, or timeframe, creates anxiety and generates follow-up calls. Always bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. Never promise a 返金 before confirming what the cancellation policy allows; a promise one has to walk back later is worse than taking a moment to check first.
 
 ---
 

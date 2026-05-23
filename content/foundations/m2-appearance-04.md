@@ -17,7 +17,7 @@ title: Bowing, Ojigi, the Language of Respect
 ## Correct Bowing Technique
 
 - Begin from a straight standing posture.
-- Bend from the **waist**, not the neck — the back remains straight, and the head follows the body.
+- Bend from the **waist**, not the neck, the back remains straight, and the head follows the body.
 - Eyes lower naturally as the bow deepens; do not maintain eye contact with the guest while bowing.
 - Hands: women place both hands in front (right over left); men keep hands at the sides or loosely in front.
 - Hold the bow at the deepest point for one to two seconds before rising.
@@ -26,12 +26,12 @@ title: Bowing, Ojigi, the Language of Respect
 ## Common Errors to Avoid
 
 - **Nodding instead of bowing**: a head nod is not a bow and reads as casual or dismissive.
-- **Bowing while speaking**: the bow and the words should be separate — bow, then speak, or speak, then bow.
+- **Bowing while speaking**: the bow and the words should be separate, bow, then speak, or speak, then bow.
 - **Mechanical repetition**: bowing without intention is less effective than a simple, genuine acknowledgement. A bow that is clearly automatic, performed without awareness, can land worse than no bow at all.
 
 ## Receiving a Bow
 
-Return the guest's bow at an equal or slightly deeper angle. A bow is a gesture that expects acknowledgement — never leave one unreturned.
+Return the guest's bow at an equal or slightly deeper angle. A bow is a gesture that expects acknowledgement, never leave one unreturned.
 
 ---
 

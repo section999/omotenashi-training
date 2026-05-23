@@ -3,15 +3,12 @@ id: v08-vocab
 section: 7
 title: 階 (kai)
 ---
-
 **Pronunciation:** [**kai**] (counter suffix, attached to numbers)
 **Register:** Formal, 〇階にございます is the standard locating phrase in hotel speech
 
-階 is the counter suffix for floors in a building and is one of the most fundamental vocabulary items in hotel navigation. Hotels, ryokan, and large hospitality venues span multiple floors, so you need to be able to specify exactly where a guest needs to go: their room, the restaurant, the spa, a conference hall, or any other amenity. Telling a guest simply "it's upstairs" is not good enough. Naming the exact floor with 階 gives them the information needed to select the correct elevator button and arrive without wandering.
+階 is the counter suffix for floors in a building and is a notable fundamental vocabulary items in hotel navigation. Hotels, ryokan, and large hospitality venues span multiple floors, so one needs to be able to specify exactly where a guest needs to go: their room, the restaurant, the spa, a conference hall, or any other amenity. Telling a guest simply "it's upstairs" is not good enough. Naming the exact floor with 階 gives them the information needed to select the correct elevator button and arrive without wandering.
 
-The pronunciation of 階 changes depending on the number it attaches to: 一階 (ikkai), 二階 (nikai), 三階 (sangai), 四階 (yonkai), 五階 (gokai), and so on. Students must practise these readings carefully because the irregular ones, particularly 一階, 六階, and 八階, trip people up in real situations. In hotel speech, 〇階にございます is the standard locating phrase, ideally followed by エレベーターをご利用ください or 階段はこちらでございます so the guest also knows how to get there. Proactively mentioning both the floor number and the access method is the kind of complete, anticipatory guidance that reflects the omotenashi mindset.
-
-## Example Sentences
+The pronunciation of 階 changes depending on the number it attaches to: 一階 (ikkai), 二階 (nikai), 三階 (sangai), 四階 (yonkai), 五階 (gokai), and so on. Students must practise these readings carefully because the irregular ones, particularly 一階, 六階, and 八階, trip people up in real situations. In hotel speech, 〇階にございます is the standard locating phrase, ideally followed by エレベーターをご利用ください or 階段はこちらでございます so the guest also knows how to get there. Proactively mentioning both the floor number and the access method is the kind of complete, anticipatory guidance that reflects the omotenashi mindset\n## Example Sentences
 
 **1.** 客室は3階にございます。
 *Kyakushitsu wa san-gai ni gozaimasu.*
@@ -32,7 +29,7 @@ The pronunciation of 階 changes depending on the number it attaches to: 一階 
 
 ## Common Mistakes
 
-The most common mistake is mispronouncing floor numbers: 一階 is ikkai, not ichi-kai; 六階 is rokkai; 八階 is hakkai. These irregular readings simply need to be memorised, and the sooner you drill them the better. Learners also sometimes say 〇階です instead of 〇階にございます, which is grammatically fine but lacks the formality expected in hotel service. That said, the most practically costly mistake is forgetting to specify the access method after naming the floor. Especially for guests with mobility considerations, knowing whether to take the elevator or stairs matters just as much as knowing which floor to aim for.
+The most common mistake is mispronouncing floor numbers: 一階 is ikkai, not ichi-kai; 六階 is rokkai; 八階 is hakkai. These irregular readings simply need to be memorised, and the sooner one drill them the better. Another common mistake is sometimes say 〇階です instead of 〇階にございます, which is grammatically fine but lacks the formality expected in hotel service. However, the most practically costly mistake is forgetting to specify the access method after naming the floor. Especially for guests with mobility considerations, knowing whether to take the elevator or stairs matters just as much as knowing which floor to aim for.
 
 ---
 

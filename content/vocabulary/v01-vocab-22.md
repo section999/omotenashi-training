@@ -3,22 +3,19 @@ id: v01-vocab
 section: 22
 title: ご確認ください (go-kakunin kudasai)
 ---
+**ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. one will use this phrase whenever one needs a guest to review information: a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
 
-**ご確認ください** means "please check" or "please confirm." *Kakunin* (確認) means confirmation or verification, elevated by the honorific *go-* prefix. You will use this phrase whenever you need a guest to review information: a reservation detail, an address, a name spelling, a bill amount, or a document before signing.
+unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not bureaucratic at all. It is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
 
-In practice, unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not bureaucratic at all. It is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
-
-Worth noting: in written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request.
-
-## Example Sentences
+Note: in written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request\n## Example Sentences
 
 **1.** こちらのご予約内容をご確認ください。
 *Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*
-"Please confirm the details of your reservation."
+"Please confirm the details of one's reservation."
 
 **2.** お名前のスペルをご確認いただけますでしょうか。
 *O-namae no superu wo go-kakunin itadakemasu deshō ka.*
-"Could I ask you to confirm the spelling of your name?"
+"Could I ask you to confirm the spelling of one's name?"
 
 **3.** ご請求書をご確認の上、ご署名をお願いいたします。
 *Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.*

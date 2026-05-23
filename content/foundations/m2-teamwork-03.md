@@ -4,7 +4,7 @@ section: 3
 title: The Invisible Handover, Passing Guests Between Departments
 ---
 
-One of the defining qualities of world-class hospitality is that the guest never feels transferred. They feel continuously welcomed. In practice, a single guest's stay touches many departments — reception, bellservice, restaurant, housekeeping, concierge, spa — and each time responsibility shifts from one person or team to another, there is a real risk of the guest feeling passed on rather than accompanied.
+One of the defining qualities of world-class hospitality is that the guest never feels transferred. They feel continuously welcomed. In practice, a single guest's stay touches many departments, reception, bellservice, restaurant, housekeeping, concierge, spa, and each time responsibility shifts from one person or team to another, there is a real risk of the guest feeling passed on rather than accompanied.
 
 ## Visible vs. Invisible Handovers
 
@@ -14,7 +14,7 @@ An **invisible handover** is when the receiving colleague is already informed, a
 
 ## How to Execute an Invisible Handover
 
-- **Communicate ahead (renraku)**: Before the guest arrives at the next touchpoint, relay what the receiving colleague needs to know — name, room number, any preferences or special needs, and the context of the interaction so far.
+- **Communicate ahead (renraku)**: Before the guest arrives at the next touchpoint, relay what the receiving colleague needs to know, name, room number, any preferences or special needs, and the context of the interaction so far.
 - **Introduce personally where possible**: Walk the guest to the next colleague rather than pointing them in the right direction. Introduce the colleague by name.
 - **Brief the receiving colleague on mood, not just facts**: Is the guest relaxed or in a hurry? Pleased or mildly frustrated? That emotional context shapes how the next colleague opens the conversation.
 - **Follow up**: If you were involved in a guest issue or special request, check later whether it was resolved. Close the loop yourself rather than assuming someone else did.
@@ -43,7 +43,7 @@ The preferred phrase for a personal introduction during a warm handover. Using t
 *Jizen ni go-renraku itashimasu.*
 "I will contact them in advance."
 
-The commitment that makes an invisible handover possible. Saying this — and following through — ensures the receiving colleague is prepared before the guest arrives at the next touchpoint.
+The commitment that makes an invisible handover possible. Saying this, and following through, ensures the receiving colleague is prepared before the guest arrives at the next touchpoint.
 
 ---
 

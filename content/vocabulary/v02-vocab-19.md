@@ -3,12 +3,9 @@ id: v02-vocab
 section: 19
 title: デポジット (deposit)
 ---
-
 デポジット refers to a security deposit or pre-authorization hold placed on a guest's credit card, or occasionally collected as cash, at the time of check-in. Its purpose is to cover any incidental charges incurred during the stay, such as room service, minibar use, phone calls, or potential damages, that fall outside the original room rate. This practice is standard in hotels worldwide, but some guests will be surprised by it. A calm and clear explanation is essential. The deposit is released or refunded once check-out is completed without unresolved charges.
 
-In a hospitality context, staff introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation covers three things: the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします. If the deposit is a credit card hold rather than an actual charge, be sure to make that distinction clear. Guests who understand what is happening are far less likely to become concerned when they see the hold on their account.
-
-## Example Sentences
+In a hospitality context, staff introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation covers three things: the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします. If the deposit is a credit card hold rather than an actual charge, be sure to make that distinction clear. Guests who understand what is happening are far less likely to become concerned when they see the hold on their account\n## Example Sentences
 
 **1.** デポジットとして一万円をお預かりいたします。
 *Depojitto to shite ichi-man en wo o-azukari itashimasu.*
@@ -20,7 +17,7 @@ In a hospitality context, staff introduce デポジット early in the check-in 
 
 **3.** デポジットはクレジットカードで仮押さえとなります。
 *Depojitto wa kurejitto kādo de kari-osae to narimasu.*
-"The deposit will be a pre-authorization hold on your credit card."
+"The deposit will be a pre-authorization hold on one's credit card."
 
 ## Related Expressions
 
@@ -29,7 +26,7 @@ In a hospitality context, staff introduce デポジット early in the check-in 
 
 ## Common Mistakes
 
-A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Saying デポジットを取ります also sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. Always mention the refund process as well. Omitting it is one of the most consistent sources of complaints in check-in interactions.
+A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Saying デポジットを取ります also sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. Always mention the refund process as well. Omitting it is a notable consistent sources of complaints in check-in interactions.
 
 ---
 

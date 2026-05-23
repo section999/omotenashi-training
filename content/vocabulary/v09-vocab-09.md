@@ -3,19 +3,16 @@ id: v09-vocab
 section: 9
 title: 人数 (ninzuu)
 ---
-
 **Pronunciation:** [nin-**zuu**]
 **Register:** Formal -- used in reservations, check-in, dining, and safety compliance
 
 人数 is the total count of individuals in a reservation, encompassing adults (大人), children (子供), and infants (幼児). In Japanese hotel and ryokan operations, confirming 人数 is never a pure formality. It directly determines room capacity assignments, the number of futon or beds to prepare, the portions planned for kaiseki or buffet service, and compliance with fire safety regulations that set a legal maximum occupancy per room. Ryokan are especially meticulous about this because each additional guest triggers a corresponding adjustment in meal portions, yukata sizes, and amenity quantities. Over- or under-reporting 人数 does not just cause inconvenience; it disrupts operations across multiple departments simultaneously.
 
-Students often notice that 人数 comes up at several different points during a guest's visit, not just once at booking. Staff confirm it during the initial reservation, again at check-in, and sometimes once more when guests are seated in the dining area. At the front desk the standard phrasing is 「お客様のご人数をお知らせください」; at a restaurant host stand the equivalent greeting is 「お何名様でしょうか」. Both are expressions you need to have ready. If a guest's actual party size turns out to be different from what was reserved, update the record immediately so every department, from housekeeping to the kitchen, gets accurate information before it is too late to act on it.
-
-## Example Sentences
+A common error is notice that 人数 comes up at several different points during a guest's visit, not just once at booking. Staff confirm it during the initial reservation, again at check-in, and sometimes once more when guests are seated in the dining area. At the front desk the standard phrasing is 「お客様のご人数をお知らせください」; at a restaurant host stand the equivalent greeting is 「お何名様でしょうか」. Both are expressions one needs to have ready. If a guest's actual party size turns out to be different from what was reserved, update the record immediately so every department, from housekeeping to the kitchen, gets accurate information before it is too late to act on it\n## Example Sentences
 
 **1.** ご予約のお人数をご確認させていただきます。
 *Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.*
-"Allow me to confirm the number of guests in your reservation."
+"Allow me to confirm the number of guests in one's reservation."
 
 **2.** ご人数は大人2名、お子様1名でよろしいでしょうか。
 *Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.*
@@ -28,11 +25,11 @@ Students often notice that 人数 comes up at several different points during a 
 ## Related Expressions
 
 - **名数 (meisuu)**: a formal or written variant meaning the count of named individuals; turns up in group travel manifests and official documents rather than in spoken guest interactions
-- **お何名様 (o-nan-mei-sama)**: the polished service-industry phrasing for asking how many guests are in the party; this is what you use at restaurant entrances and concierge desks as a warm, respectful opening
+- **お何名様 (o-nan-mei-sama)**: the polished service-industry phrasing for asking how many guests are in the party; this is what one uses at restaurant entrances and concierge desks as a warm, respectful opening
 
 ## Common Mistakes
 
-Quoting a total 人数 without breaking it down into 大人 and 子供 is a very common mistake, and it causes downstream problems in both room assignment and meal planning. Many plans price adults and children at different rates, so the split matters as much as the total number. Worth noting is another register issue: saying 「3です」 rather than 「3名でございます」 is too casual and drops the polite counter 名 (mei/sama) that guest-facing language requires. The counter is not decoration; it signals professionalism and respect. Make 「〇名でございます」 your automatic response whenever the number of guests comes up in conversation.
+Quoting a total 人数 without breaking it down into 大人 and 子供 is a very common mistake, and it causes downstream problems in both room assignment and meal planning. Many plans price adults and children at different rates, so the split matters as much as the total number. Worth noting is another register issue: saying 「3です」 rather than 「3名でございます」 is too casual and drops the polite counter 名 (mei/sama) that guest-facing language requires. The counter is not decoration; it signals professionalism and respect. Make 「〇名でございます」 one's automatic response whenever the number of guests comes up in conversation.
 
 ---
 

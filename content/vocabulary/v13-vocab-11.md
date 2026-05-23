@@ -3,15 +3,12 @@ id: v13-vocab
 section: 11
 title: 残業 (zangyou)
 ---
-
 **Pronunciation:** [**zan**-gyou]
 **Register:** Neutral to Formal, labour and workplace management
 
 残業 means overtime, work carried out beyond standard contracted hours. The kanji tells the story: 残 means "remaining" and 業 means "work or duty," so it literally captures that feeling of work left over after regular hours end. In hospitality, 残業 is a familiar reality. End-of-shift handovers that run long, unexpected guest situations, event overruns, or sudden staff shortages can all push employees past their scheduled finish time. Japanese labour law requires that 残業 be compensated at a premium rate, typically 25% above the base hourly wage, and unchecked overwork has become a serious social and workplace health issue in Japan in recent decades.
 
-Management in hotels and ryokan has to balance genuine operational flexibility with a legal and ethical responsibility to prevent overwork. Many modern hospitality employers are implementing stricter 残業 monitoring and actively encouraging staff to finish within shift time whenever possible. For employees, the habit worth developing early is getting supervisor approval before starting 残業, rather than working the extra hours and reporting it after the fact. Students often underestimate how important that pre-approval step is in a Japanese workplace.
-
-## Example Sentences
+Management in hotels and ryokan has to balance genuine operational flexibility with a legal and ethical responsibility to prevent overwork. Many modern hospitality employers are implementing stricter 残業 monitoring and actively encouraging staff to finish within shift time whenever possible. For employees, the habit worth developing early is getting supervisor approval before starting 残業, rather than working the extra hours and reporting it after the fact. A common error is to underestimate how important that pre-approval step is in a Japanese workplace\n## Example Sentences
 
 **1.** 今日は残業で夜9時まで働きました。
 *Kyou wa zangyou de yoru kuji made hatarakimashita.*
@@ -23,7 +20,7 @@ Management in hotels and ryokan has to balance genuine operational flexibility w
 
 **3.** 残業をする場合は事前に上司の承認を得てください。
 *Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*
-"If you need to work overtime, please obtain your supervisor's approval in advance."
+"If you need to work overtime, please obtain one's supervisor's approval in advance."
 
 ## Related Expressions
 
@@ -32,7 +29,7 @@ Management in hotels and ryokan has to balance genuine operational flexibility w
 
 ## Common Mistakes
 
-Students sometimes assume 残業 is purely voluntary, something you simply choose whether to do. In Japanese workplace culture it can carry implicit pressure, and declining when the team is under strain requires tact and clear communication, not just a quick "no." There's also a common mix-up with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift built into the schedule, whereas 残業 is unplanned work that extends past a scheduled end time. The two can occur on the same night, but they're distinct concepts and you'll need to keep them separate when reading contracts or discussing hours with management.
+A common error is to assume 残業 is purely voluntary, something one simply choose whether to do. In Japanese workplace culture it can carry implicit pressure, and declining when the team is under strain requires tact and clear communication, not just a quick "no." There's also a common mix-up with 夜勤 (yakin, night shift): 夜勤 is a planned overnight shift built into the schedule, whereas 残業 is unplanned work that extends past a scheduled end time. The two can occur on the same night, but they're distinct concepts and one will need to keep them separate when reading contracts or discussing hours with management.
 
 ---
 

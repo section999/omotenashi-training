@@ -3,15 +3,12 @@ id: v08-vocab
 section: 27
 title: こちら側 (kochira gawa)
 ---
-
 **Pronunciation:** [ko-chi-ra **ga**-wa]
 **Register:** Formal, spatial orientation in lobbies, corridors, seating areas
 
-こちら側 means "this side," specifically the side closest to the speaker, and the word 側 (gawa) is what makes it more than just こちら. When you are standing in a wide lobby, a split corridor, or a dual elevator bank, simply saying こちら (this way) might leave a guest scanning both sides with uncertainty. Adding 側 sharpens it: you are pointing to a specific side of the space, not just a general direction. エレベーターはこちら側にございます tells the guest exactly where to look, especially if you gesture clearly as you say it.
+こちら側 means "this side," specifically the side closest to the speaker, and the word 側 (gawa) contributes to it more than just こちら. When one is standing in a wide lobby, a split corridor, or a dual elevator bank, simply saying こちら (this way) might leave a guest scanning both sides with uncertainty. Adding 側 sharpens it: one is pointing to a specific side of the space, not just a general direction. エレベーターはこちら側にございます tells the guest exactly where to look, especially if one gesture clearly as one says it.
 
-In daily hospitality use, こちら側 really comes into its own when you need to describe a bilateral layout. Pairing it with あちら側 (that side, farther from you) in a single sentence is clean and efficient: 洋室はあちら側、和室はこちら側でございます gives a guest a complete picture of a floor layout in one breath. This is exactly the kind of smooth, confident language that makes a welcome walk feel polished. Students often discover that once they start using こちら側 and あちら側 together, the words start coming out naturally quite quickly.
-
-## Example Sentences
+In daily hospitality use, こちら側 comes into its own when one needs to describe a bilateral layout. Pairing it with あちら側 (that side, farther from one) in a single sentence is clean and efficient: 洋室はあちら側、和室はこちら側でございます gives a guest a complete picture of a floor layout in one breath. This is exactly the kind of smooth, confident language that makes a welcome walk feel polished. A common error is discover that once they start using こちら側 and あちら側 together, the words start coming out naturally quite quickly\n## Example Sentences
 
 **1.** エレベーターはこちら側にございます。どうぞこちらへお進みください。
 *Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.*
@@ -28,11 +25,11 @@ In daily hospitality use, こちら側 really comes into its own when you need t
 ## Related Expressions
 
 - **あちら側 (achira gawa)**: That side, farther from the speaker. Using こちら側 and あちら側 together in the same sentence is a natural and highly efficient way to explain a bilateral layout. Practice delivering both with a clear gesture to each side so the pairing becomes second nature.
-- **こちら (kochira)**: The simpler base form, meaning "this direction" or "this way," without the side distinction. Use こちら when simply guiding someone in a direction (こちらへどうぞ), and reach for こちら側 when you specifically need to distinguish between two sides of a space.
+- **こちら (kochira)**: The simpler base form, meaning "this direction" or "this way," without the side distinction. Use こちら when simply guiding someone in a direction (こちらへどうぞ), and reach for こちら側 when one specifically need to distinguish between two sides of a space.
 
 ## Common Mistakes
 
-The first thing to fix is register: こっち (kocchi) is the casual spoken version of こちら, and using it with guests sounds too relaxed and undermines the service atmosphere. Always use こちら側 in formal settings. That said, learners sometimes go the other direction and rely on こちらにございます everywhere, dropping 側 in contexts where the side distinction would genuinely help the guest. If there are two options visible in the same space, give the guest the precision of 側. One more thing: on the phone or in written notes, こちら側 loses its meaning without a physical gesture to anchor it. In those situations, switch to a direction word like 右手側 (right-hand side) or a landmark description so the guest can still orient themselves.
+The first thing to fix is register: こっち (kocchi) is the casual spoken version of こちら, and using it with guests sounds too relaxed and undermines the service atmosphere. Always use こちら側 in formal settings. However, learners sometimes go the other direction and rely on こちらにございます everywhere, dropping 側 in contexts where the side distinction would help the guest. If there are two options visible in the same space, give the guest the precision of 側. Additionally: on the phone or in written notes, こちら側 loses its meaning without a physical gesture to anchor it. In those situations, switch to a direction word like 右手側 (right-hand side) or a landmark description so the guest can still orient themselves.
 
 ---
 

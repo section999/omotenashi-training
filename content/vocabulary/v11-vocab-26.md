@@ -3,12 +3,9 @@ id: v11-vocab
 section: 26
 title: 保留 (horyuu)
 ---
-
 保留 reads as "temporary retention" and refers to placing a telephone caller on hold. The characters break down as 保 (to hold or preserve) and 留 (to keep or detain), so together they describe keeping the caller in a waiting state. In hotel phone etiquette, this is one of those small details that makes a big difference: a guest who is placed on hold without any explanation is left in silence wondering if the call dropped. That uncertainty is the opposite of omotenashi.
 
-Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place you on hold for a brief moment), and it must be followed by an actual return, not just silence. That said, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank you for your patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is one of the clearest markers of professional telephone service.
-
-## Example Sentences
+Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for one's patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is one of the clearest markers of professional telephone service\n## Example Sentences
 
 **1.** 少々保留にさせていただきますので、そのままお待ちくださいませ。
 *Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.*
@@ -20,16 +17,16 @@ Hotel staff are trained to return to the line within sixty seconds, even if the 
 
 **3.** お待たせいたしました。保留を解除いたします。
 *Omatase itashimashita. Horyuu wo kaijo itashimasu.*
-"Thank you for your patience. I am now taking you off hold."
+"Thank you for one's patience. I am now taking you off hold."
 
 ## Related Expressions
 
-- **お待たせいたしました (omatase itashimashita)**: the first thing you say when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before you move into your update.
-- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that you are coming back.
+- **お待たせいたしました (omatase itashimashita)**: the first thing one says when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before one move into one's update.
+- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that one is coming back.
 
 ## Common Mistakes
 
-Students often skip the reason for 保留 or forget to give any estimate before pressing hold. That omission creates real anxiety for the caller because they cannot see what is happening on your end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous too: the caller may not realize they are actually being placed on a formal hold. Also watch for register slippage: using the casual わかりました right before you place someone on hold breaks the keigo flow of the call. Keep the same register from the greeting all the way through the hold announcement.
+A common error is skip the reason for 保留 or forget to give any estimate before pressing hold. That omission creates real anxiety for the caller because they cannot see what is happening on one's end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous too: the caller may not realize they are being placed on a formal hold. Also watch for register slippage: using the casual わかりました right before one places someone on hold breaks the keigo flow of the call. Keep the same register from the greeting all the way through the hold announcement.
 
 ---
 

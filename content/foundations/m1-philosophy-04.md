@@ -4,7 +4,7 @@ section: 4
 title: Proactive vs Reactive Service
 ---
 
-A central distinction in omotenashi is the difference between **reactive** and **proactive** service. Reactive service responds to what the guest asks for. Proactive service anticipates what the guest will need — before they ask, and sometimes before they even realise they need it.
+A central distinction in omotenashi is the difference between **reactive** and **proactive** service. Reactive service responds to what the guest asks for. Proactive service anticipates what the guest will need, before they ask, and sometimes before they even realise they need it.
 
 Both kinds of service can be delivered well. A reactive approach that responds accurately and warmly to every request is far better than proactive service that assumes incorrectly. That said, the highest level of hospitality is consistently proactive, and this is the quality guests tend to remember long after a stay.
 
@@ -12,11 +12,11 @@ Both kinds of service can be delivered well. A reactive approach that responds a
 
 When a guest receives something they needed before they asked for it, the effect is powerful. It communicates that someone has been paying attention to them as a person. This is qualitatively different from an efficient response to a request, which shows competence. Proactive service shows genuine care.
 
-A guest who has been travelling for eight hours may not think to ask for a hot towel or a cooler room. An omotenashi-minded host will have already prepared these things. The feeling the guest is left with is not "how efficient" but "how did they know?" — the sense of being understood without having to explain yourself is the emotional signature of great hospitality.
+A guest who has been travelling for eight hours may not think to ask for a hot towel or a cooler room. An omotenashi-minded host will have already prepared these things. The feeling the guest is left with is not "how efficient" but "how did they know?", the sense of being understood without having to explain yourself is the emotional signature of great hospitality.
 
 ## Kikubari: The Skill Behind Proactive Service
 
-Proactive service requires a specific skill: **kikubari (気配り)**, attentive awareness — the continuous reading of one's environment for information about what is needed. Kikubari cannot be faked or scripted. It is a genuine orientation of attention toward the guest.
+Proactive service requires a specific skill: **kikubari (気配り)**, attentive awareness, the continuous reading of one's environment for information about what is needed. Kikubari cannot be faked or scripted. It is a genuine orientation of attention toward the guest.
 
 Examples of kikubari in practice:
 
@@ -29,9 +29,9 @@ Each of these requires observation, judgment, and care. Each creates a moment th
 
 ## The Limits of Proactivity
 
-Proactive service must also know its limits. Over-attentive service — constant interruptions, unsolicited adjustments, visible hovering — crosses from care into intrusion. The guest who wants to be left alone needs to be read accurately too. Kikubari includes reading the desire for space and respecting it.
+Proactive service must also know its limits. Over-attentive service, constant interruptions, unsolicited adjustments, visible hovering, crosses from care into intrusion. The guest who wants to be left alone needs to be read accurately too. Kikubari includes reading the desire for space and respecting it.
 
-The guiding principle is to be present enough to notice, and discreet enough not to intrude. Proactive service should feel to the guest like the environment naturally responding to their needs — not like a staff member watching them.
+The guiding principle is to be present enough to notice, and discreet enough not to intrude. Proactive service should feel to the guest like the environment naturally responding to their needs, not like a staff member watching them.
 
 ---
 

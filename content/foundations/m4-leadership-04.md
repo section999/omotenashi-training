@@ -8,9 +8,9 @@ Feedback is one of the most powerful and most delicate tools in professional dev
 
 ## The Cultural Context
 
-Japanese professional culture places high value on *wa* (和, harmony). Direct, blunt criticism — common in some Western professional environments — is experienced in Japanese contexts as aggressive, disrespectful, and damaging to the relationship. This does not mean honest feedback is avoided entirely. It means it must be delivered in a way that preserves the dignity of the recipient and the harmony of the team.
+Japanese professional culture places high value on *wa* (和, harmony). Direct, blunt criticism, common in some Western professional environments, is experienced in Japanese contexts as aggressive, disrespectful, and damaging to the relationship. This does not mean honest feedback is avoided entirely. It means it must be delivered in a way that preserves the dignity of the recipient and the harmony of the team.
 
-This cultural context does not require dishonesty. It requires care in timing, setting, tone, and framing. Honest, developmental feedback, delivered privately, respectfully, and with genuine positive intent, is not only acceptable in Japanese professional culture — it is an expression of care. Being tactful is not the same as being soft.
+This cultural context does not require dishonesty. It requires care in timing, setting, tone, and framing. Honest, developmental feedback, delivered privately, respectfully, and with genuine positive intent, is not only acceptable in Japanese professional culture, it is an expression of care. Being tactful is not the same as being soft.
 
 ## The Four Conditions for Feedback
 
@@ -28,7 +28,7 @@ Effective feedback is specific: not "you need to be more attentive" but "when th
 
 ### Positive Framing
 
-In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real — a hollow compliment before a criticism damages trust rather than building it.
+In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real, a hollow compliment before a criticism damages trust rather than building it.
 
 ---
 

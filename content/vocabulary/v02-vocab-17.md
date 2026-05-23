@@ -3,12 +3,9 @@ id: v02-vocab
 section: 17
 title: 現金 (genkin)
 ---
-
 現金 means "cash" and refers specifically to physical banknotes and coins as a form of payment. Despite the rise of digital payments and credit cards, cash remains extremely important in Japan. Many guests, both domestic and international, prefer it or use it exclusively. Confirming the guest's preferred payment method early in their stay helps staff prepare the correct change and receipt without any scrambling at the end.
 
-In a hospitality context, staff typically confirm the payment method toward the end of a guest's stay or when presenting a bill. お支払いは現金でよろしいでしょうか is the standard phrasing for that moment. If the guest confirms cash, make sure sufficient change is available and process the transaction with care. When handing back change, お釣りでございます is the right phrase to close the interaction. Counting out the change clearly and presenting it with both hands is the kind of detail that guests remember.
-
-## Example Sentences
+In a hospitality context, staff typically confirm the payment method toward the end of a guest's stay or when presenting a bill. お支払いは現金でよろしいでしょうか is the standard phrasing for that moment. If the guest confirms cash, make sure sufficient change is available and process the transaction with care. When handing back change, お釣りでございます is the right phrase to close the interaction. Counting out the change clearly and presenting it with both hands is the kind of detail that guests remember\n## Example Sentences
 
 **1.** お支払いは現金でよろしいでしょうか。
 *O-shiharai wa genkin de yoroshii deshō ka.*
@@ -20,7 +17,7 @@ In a hospitality context, staff typically confirm the payment method toward the 
 
 **3.** 現金でお支払いの場合、お釣りをご用意いたします。
 *Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.*
-"If you are paying by cash, we will prepare your change."
+"If one is paying by cash, we will prepare one's change."
 
 ## Related Expressions
 

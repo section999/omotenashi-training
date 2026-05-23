@@ -10,7 +10,7 @@ Check-out is the guest's final impression of your property. A warm, unhurried, p
 
 Begin by thanking the guest before any administrative task:
 
-*"このたびはご滞在いただきまして、誠にありがとうございました。"* — "Thank you sincerely for staying with us."
+*"このたびはご滞在いただきまして、誠にありがとうございました。"*, "Thank you sincerely for staying with us."
 
 Only after this acknowledgement should the bill or formalities follow. Leading with paperwork sends a clear message: the transaction matters more than the person.
 
@@ -22,9 +22,9 @@ Even in hotel contexts where a full osōkuri is impractical, the principle still
 
 ## The Personal Close
 
-If the stay has allowed for any personal connection — a remembered preference, a conversation about a trip, a request that was handled — it is meaningful to reference it at departure:
+If the stay has allowed for any personal connection, a remembered preference, a conversation about a trip, a request that was handled, it is meaningful to reference it at departure:
 
-*"どうぞ道中お気をつけて。またのお越しをお待ちしております。"* — "Please take care on your journey. We look forward to welcoming you again."
+*"どうぞ道中お気をつけて。またのお越しをお待ちしております。"*, "Please take care on your journey. We look forward to welcoming you again."
 
 A farewell that shows the guest was remembered, not just processed, is the signature of genuine omotenashi.
 

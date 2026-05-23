@@ -3,16 +3,13 @@ id: v11-vocab
 section: 16
 title: 回線 (kaisen)
 ---
+回線 refers to the physical or virtual channel through which telephone calls and internet data are transmitted, essentially the "line" or "circuit." In a hotel environment, 回線 quality directly affects a guest's ability to make calls, access the internet, and conduct business. When a guest reports communication problems, using 回線 precisely tells internal teams that the investigation is at the infrastructure level, not merely a device or handset issue. That distinction matters when one needs maintenance to respond quickly.
 
-回線 refers to the physical or virtual channel through which telephone calls and internet data are transmitted — essentially the "line" or "circuit." In a hotel environment, 回線 quality directly affects a guest's ability to make calls, access the internet, and conduct business. When a guest reports communication problems, using 回線 precisely tells internal teams that the investigation is at the infrastructure level, not merely a device or handset issue. That distinction matters when you need maintenance to respond quickly.
-
-Staff encounter 回線 in contexts such as reporting a guest's phone problem to maintenance (回線の問題を確認いたします, I will check the line), explaining internet speed options at check-in (この部屋の回線は高速です, the line in this room is high-speed), or coordinating with telecoms providers during outages. Knowing this term helps staff communicate more accurately internally and reassures technically informed guests that the problem is being handled at the right level.
-
-## Example Sentences
+Staff encounter 回線 in contexts such as reporting a guest's phone problem to maintenance (回線の問題を確認いたします, I will check the line), explaining internet speed options at check-in (この部屋の回線は高速です, the line in this room is high-speed), or coordinating with telecoms providers during outages. Knowing this term helps staff communicate more accurately internally and reassures technically informed guests that the problem is being handled at the right level\n## Example Sentences
 
 **1.** この部屋の回線は高速ですので、快適にインターネットをご利用いただけます。
 *Kono heya no kaisen wa kousoku desu node, kaiteki ni intaanetto wo goriyou itadakemasu.*
-"The line in this room is high-speed, so you can use the internet comfortably."
+"The line in this room is high-speed, so one can use the internet comfortably."
 
 **2.** 回線の問題を確認いたしますので、少々お待ちください。
 *Kaisen no mondai wo kakunin itashimasu node, shoushou omachi kudasai.*

@@ -10,15 +10,15 @@ Once the guest has been heard and a sincere apology has been made, the interacti
 
 ### Speed Matters
 
-The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly — not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
+The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly, not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
 
 ### Match the Solution to the Problem
 
-An inconvenience caused by a one-hour wait is not resolved by offering a complimentary pen. A significant failure — a room that was genuinely uninhabitable, a major allergy oversight — requires a proportional response. Knowing what is within your authority to offer, and when to escalate, is one of the most practical skills in service recovery.
+An inconvenience caused by a one-hour wait is not resolved by offering a complimentary pen. A significant failure, a room that was genuinely uninhabitable, a major allergy oversight, requires a proportional response. Knowing what is within your authority to offer, and when to escalate, is one of the most practical skills in service recovery.
 
 ### Ask When Appropriate
 
-In some cases, the right solution is not obvious. Asking the guest what would make things right is both respectful and practical: "I would very much like to make this right for you — may I ask what would be most helpful?" This is not stepping back from responsibility; it is recognising that the guest knows their own situation best.
+In some cases, the right solution is not obvious. Asking the guest what would make things right is both respectful and practical: "I would very much like to make this right for you, may I ask what would be most helpful?" This is not stepping back from responsibility; it is recognising that the guest knows their own situation best.
 
 ### Never Argue
 
@@ -35,7 +35,7 @@ Even if the guest's account of events contains inaccuracies, this is not the mom
 
 ## Offering the Solution
 
-The solution should be presented, not pushed: "I would like to offer you [solution] — I hope this goes some way toward making your stay more comfortable." The guest should feel that they are being offered something, not steered toward a predetermined outcome.
+The solution should be presented, not pushed: "I would like to offer you [solution], I hope this goes some way toward making your stay more comfortable." The guest should feel that they are being offered something, not steered toward a predetermined outcome.
 
 ---
 
