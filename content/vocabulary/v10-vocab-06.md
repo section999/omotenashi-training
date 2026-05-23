@@ -26,12 +26,12 @@ Staff should prepare the statement before the guest arrives at the front desk so
 ## Related Expressions
 
 - **チェックアウト (chekkuauto)**: checkout; 精算 typically happens as part of the checkout process, but it can also occur mid-stay for partial billing or conference billing when a group requires interim settlement.
-- **内訳 (uchiwake)**: itemized breakdown; reviewing the 内訳 is the step that comes just before finalizing the 精算. Think of them as a natural pair -- one leads directly to the other.
+- **内訳 (uchiwake)**: itemized breakdown; reviewing the 内訳 is the step that comes just before finalizing the 精算. They function as a natural pair -- one leads directly to the other.
 
 
 ## Common Mistakes
 
-A common error is to use 精算 and 支払い (shiharai) as though they mean the same thing, but they don't. 支払い is the act of paying; 精算 is the broader process of calculating and reconciling all charges before that payment happens. Another mistake is rushing through 精算 without going over the 内訳 with the guest -- this is exactly when billing disputes tend to surface, and by then they're harder to resolve. staff should also confirm that all room charges have been posted by housekeeping or F&B before finalizing. Late-posted charges mean additional billing after checkout, and no guest wants a surprise charge on their card after they've gone home.
+A common error is to use 精算 and 支払い (shiharai) as though they mean the same thing, but they do not. 支払い is the act of paying; 精算 is the broader process of calculating and reconciling all charges before that payment happens. Another mistake is rushing through 精算 without going over the 内訳 with the guest -- this is when billing disputes tend to surface, and by then they are harder to resolve. Staff should also confirm that all room charges have been posted by housekeeping or F&B before finalizing. Late-posted charges mean additional billing after checkout, and a guest who discovers a surprise charge after leaving is likely to be dissatisfied.
 
 ---
 

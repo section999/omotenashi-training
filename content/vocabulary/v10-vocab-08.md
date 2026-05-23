@@ -26,7 +26,7 @@ The 内訳 appears on the 精算書 (settlement statement) or 明細書 (itemize
 
 ## Common Mistakes
 
-A common error is skip the 内訳 and jump straight to the 合計, which leaves guests with no real opportunity to verify what they're being charged. Another issue is presenting the 内訳 as a finished document without inviting questions: it can feel like a formality rather than a genuine service moment. Note also: don't conflate 内訳 with 明細書. The 内訳 is the structured breakdown itself; 明細書 is the formal document that contains it.
+A common error is to skip the 内訳 and jump straight to the 合計, which leaves guests with no opportunity to verify what they are being charged. Another issue is presenting the 内訳 as a finished document without inviting questions: it can feel like a formality rather than a service moment. 内訳 should not be conflated with 明細書. The 内訳 is the structured breakdown itself; 明細書 is the formal document that contains it.
 
 ---
 

@@ -28,7 +28,7 @@ Restaurant and banquet venues within hotels sometimes extend 後払い to in-hou
 
 ## Common Mistakes
 
-A frequent error is allowing a guest to use 後払い without any verification of payment ability: verbal agreements alone are not enough and often lead to disputes. A common error occurs when learners also confuse 後払い with 分割払い; the former defers payment to a later date, while the latter splits it into a schedule. And never issue a 領収書 (receipt) for a 後払い transaction before actual payment has been received: it creates false accounting records.
+A frequent error is allowing a guest to use 後払い without any verification of payment ability: verbal agreements alone are not enough and often lead to disputes. Another common error is confusing 後払い with 分割払い; the former defers payment to a later date, while the latter splits it into a schedule. Issuing a 領収書 (receipt) for a 後払い transaction before payment has been received creates false accounting records.
 
 ---
 

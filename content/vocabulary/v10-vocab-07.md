@@ -31,7 +31,7 @@ title: 合計 (goukei)
 
 ## Common Mistakes
 
-A common mistake is stating the 合計 too quickly or without any visual reference, particularly with guests unfamiliar with Japanese currency. Large yen figures confuse many international travelers, and a number spoken too fast can easily be misheard as something entirely different. Students also sometimes present the 小計 (the pre-tax subtotal) as though it were the final amount, which causes confusion when the actual total turns out to be higher. Always say 合計〇〇円、税込でございます so the guest knows the figure they're hearing is fully all-inclusive. That one extra phrase prevents a lot of unnecessary back-and-forth.
+A common mistake is stating the 合計 too quickly or without any visual reference, particularly with guests unfamiliar with Japanese currency. Large yen figures confuse many international travelers, and a number spoken too fast can be misheard as something different. The 小計 (the pre-tax subtotal) is sometimes presented as though it were the final amount, which causes confusion when the actual total turns out to be higher. The standard phrasing is 合計〇〇円、税込でございます so the guest knows the figure they are hearing is fully all-inclusive. This prevents misunderstandings.
 
 ---
 
