@@ -3,10 +3,7 @@ id: v14-vocab
 section: 17
 title: 交通機関 (koutsuu kikan)
 ---
-**Pronunciation:** [kou-**tsuu**-ki-kan]
-**Register:** Formal to neutral, professional communication, guest assistance, written materials
-
-交通機関 is a compound noun meaning "transportation systems" or "means of transportation," covering the full network of trains, subways, buses, taxis, ferries, and anything else travellers use to get around. Japan's 交通機関 is internationally respected for its punctuality and coverage, especially the rail networks run by JR and private operators, and hotel staff who can navigate this landscape fluently become indispensable to guests who are trying to plan their days efficiently. one'll often hear the fuller phrase 公共交通機関 (koukyou koutsuu kikan, public transportation) when distinguishing shared transit from private options like taxis.
+交通機関 is a compound noun meaning "transportation systems" or "means of transportation," covering the full network of trains, subways, buses, taxis, ferries, and anything else travellers use to get around. Japan's 交通機関 is internationally respected for its punctuality and coverage, especially the rail networks run by JR and private operators, and hotel staff who can navigate this landscape fluently become indispensable to guests who are trying to plan their days efficiently. Staff will often hear the fuller phrase 公共交通機関 (koukyou koutsuu kikan, public transportation) when distinguishing shared transit from private options like taxis.
 
 Knowing the vocabulary is only the beginning. Guests need help with things like IC card compatibility across different operators, the difference between local and express services, and which option makes sense given their luggage, schedule, and budget. A phrase like 「最寄りの駅から各交通機関をご利用いただけます」 is both informative and reassuring for an arriving guest who doesn't yet know how things connect. A common error is to underestimate how much practical transportation knowledge a good concierge carries, but it shows up in every single shift\n## Example Sentences
 
@@ -29,7 +26,7 @@ Knowing the vocabulary is only the beginning. Guests need help with things like 
 
 ## Common Mistakes
 
-A common error is to shorten 交通機関 to just 交通, but 交通 by itself means "traffic" or "transport" in an abstract sense and doesn't specifically refer to a transportation system or vehicle type. if one mean a specific mode, just name it directly: 電車, バス, タクシー. Additionally: 機関 here means "mechanism" or "system," not 機関車 (locomotive), which uses the same first characters but is a completely different word.
+A common error is to shorten 交通機関 to just 交通, but 交通 by itself means "traffic" or "transport" in an abstract sense and does not specifically refer to a transportation system or vehicle type. If staff mean a specific mode, they should name it directly: 電車, バス, タクシー. Additionally: 機関 here means "mechanism" or "system," not 機関車 (locomotive), which uses the same first characters but is a completely different word.
 
 ---
 

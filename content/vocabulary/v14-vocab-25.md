@@ -3,12 +3,11 @@ id: v14-vocab
 section: 25
 title: 料金表 (ryoukinhyou)
 ---
-**Pronunciation:** [ryou-**kin**-hyou]
-**Register:** Formal/Neutral, standard in service and public information contexts
+料金表 combines 料金 (ryoukin, fee or fare) and 表 (hyou, table or chart) to mean "price list" or "fare table." It appears in many forms: the train fare map posted at station entrances, the rate card taped near a taxi driver's seat, the admission board at a museum entrance, and the spa or dining menus at hotels. In Japan, transparent pricing is not just a legal expectation but a cultural one. A clearly organised 料金表 signals that an establishment is trustworthy and well-run, while leaving guests to guess about costs creates an uncomfortable impression entirely at odds with omotenashi.
 
-料金表 combines 料金 (ryoukin, fee or fare) and 表 (hyou, table or chart) to mean "price list" or "fare table." You will see it in many forms: the train fare map posted at station entrances, the rate card taped near a taxi driver's seat, the admission board at a museum entrance, and the spa or dining menus at hotels. In Japan, transparent pricing is not just a legal expectation but a cultural one. A clearly organised 料金表 signals that an establishment is trustworthy and well-run, while leaving guests to guess about costs creates an uncomfortable impression entirely at odds with omotenashi.
+Hotel and concierge staff regularly field 料金表-related questions from guests who are trying to budget excursions, estimate taxi costs, or choose between transport options. Being able to read a train station's fare map, which is itself a form of 料金表, and explain the right fare for a guest's destination is a practical skill that sets a good concierge apart. For taxi inquiries, knowing the base fare (初乗り料金, hatsunori ryoukin) and the approximate metered cost to popular destinations is useful. A smooth phrase to use is 「こちらに料金表がございますので、ご参照ください」, and offering to walk a guest through the table adds a personal dimension that a digital display cannot match.
 
-Hotel and concierge staff regularly field 料金表-related questions from guests who are trying to budget excursions, estimate taxi costs, or choose between transport options. Being able to read a train station's fare map, which is itself a form of 料金表, and explain the right fare for a guest's destination is a practical skill that sets a good concierge apart. For taxi inquiries, knowing the base fare (初乗り料金, hatsunori ryoukin) and the approximate metered cost to popular destinations is useful. A smooth phrase to use is 「こちらに料金表がございますので、ご参照ください」, and offering to walk a guest through the table adds a personal dimension that a digital display cannot match\n## Example Sentences
+## Example Sentences
 
 **1.** バスの料金表を確認してから乗りました。
 *Basu no ryoukinhyou wo kakunin shite kara norimashita.*
@@ -19,22 +18,19 @@ Hotel and concierge staff regularly field 料金表-related questions from guest
 "The taxi fare chart is posted here. Please use it as a reference."
 
 **3.** 観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。
-*Kankoukyaku shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*
+*Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*
 "Admission fee information for tourist facilities is listed in the pamphlet available at the front desk."
-
 
 ## Related Expressions
 
 - **運賃 (unchin)**: the fare charged for a specific transportation journey; the actual cost a guest pays for a ride, which is what gets displayed inside a 料金表
-- **入場料 (nyuujouryou)**: admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and easily a notable common questions that come up at a hotel concierge desk
-
+- **入場料 (nyuujouryou)**: admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and one of the common questions that arise at a hotel concierge desk
 
 ## Common Mistakes
 
-A common error is to mix up 料金表 with 値段 (nedan, a single item's price) or talk about a 値段リスト, but 料金表 refers specifically to an officially formatted posted table, not just any mention of a price. In a service setting, 「料金表をご確認ください」 sounds far more professional than 「値段を見てください」 when pointing a guest toward a posted fare chart. Note: the pitch on 料金 in standard Tokyo Japanese drops after the second mora (ryou-KIN), and getting the pitch right makes speech clearer and more natural. A common error is to overlook pitch accent, but in fast speech it does affect how easily one is understood.
+A common error is to mix up 料金表 with 値段 (nedan, a single item's price) or talk about a 値段リスト, but 料金表 refers specifically to an officially formatted posted table, not just any mention of a price. In a service setting, 「料金表をご確認ください」 sounds far more professional than 「値段を見てください」 when pointing a guest toward a posted fare chart. The pitch on 料金 in standard Tokyo Japanese drops after the second mora (ryou-KIN), and getting the pitch right makes speech clearer and more natural. A common error is to overlook pitch accent, but in fast speech it does affect how easily staff are understood.
 
 ---
-
 
 ## Quiz
 

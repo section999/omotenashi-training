@@ -3,12 +3,9 @@ id: v14-vocab
 section: 15
 title: ツアー (tsuaa)
 ---
-**Pronunciation:** [**tsuu**-aa]
-**Register:** Neutral, spoken and written hospitality, tourism brochures, concierge conversations
+ツアー comes from the English "tour" and refers to any planned sightseeing itinerary that bundles transportation, guidance, and often meals or entry fees into a single package. Japan's tourism market has a huge range of ツアー products, from half-day city walks to multi-day regional journeys, and hotels often act as booking intermediaries. Guests who choose a ツアー are handing the logistics to professionals so they can focus entirely on the experience. Staff will see the word prominently in hotel lobbies on brochure racks labelled おすすめツアー.
 
-ツアー comes from the English "tour" and refers to any planned sightseeing itinerary that bundles transportation, guidance, and often meals or entry fees into a single package. Japan's tourism market has a huge range of ツアー products, from half-day city walks to multi-day regional journeys, and hotels often act as booking intermediaries. Guests who choose a ツアー are handing the logistics to professionals so they can focus entirely on the experience. one'll see the word prominently in hotel lobbies on brochure racks labelled おすすめツアー.
-
-Concierge staff need to be fluent in describing different ツアー types. The key distinctions are グループツアー versus プライベートツアー, and 日帰りツアー (day-trip) versus 宿泊ツアー (overnight). When a guest shows interest, a phrase like 「ご希望に合ったツアーをご提案いたします」 goes a long way. knowing which operators have strong reputations for punctuality and English-speaking support distinguishes average concierge advice from advice guests trust and act on\n## Example Sentences
+Concierge staff need to be fluent in describing different ツアー types. The key distinctions are グループツアー versus プライベートツアー, and 日帰りツアー (day-trip) versus 宿泊ツアー (overnight). When a guest shows interest, a phrase like 「ご希望に合ったツアーをご提案いたします」 goes a long way. Knowing which operators have strong reputations for punctuality and English-speaking support distinguishes average concierge advice from advice guests trust and act on\n## Example Sentences
 
 **1.** 京都の観光ツアーに参加しました。
 *Kyouto no kankoukyaku tsuaa ni sanka shimashita.*
@@ -22,19 +19,16 @@ Concierge staff need to be fluent in describing different ツアー types. The k
 *Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*
 "If you would like a private tour, we can arrange it at the front desk."
 
-
 ## Related Expressions
 
 - **パッケージツアー (pakkeeji tsuaa)**: a packaged tour bundling flights, accommodation, and activities; more structured and all-inclusive than a standard standalone ツアー
 - **観光 (kankou)**: sightseeing as a general activity; the broader concept of tourism from which specific ツアー products are built
 
-
 ## Common Mistakes
 
-A common error is to treat ツアー and 観光 as if they mean the same thing, but 観光 is a general activity (going sightseeing) while ツアー is a specific organized product. Saying 「ツアーをしました」 when one went sightseeing on one's own sounds unnatural: 「観光しました」 is the right choice there. Additionally, worth knowing: ツアーに参加する (to join a tour) is more natural than ツアーをする when one is a participant, since the latter implies one is running the tour yourself.
+A common error is to treat ツアー and 観光 as if they mean the same thing, but 観光 is a general activity (going sightseeing) while ツアー is a specific organized product. Saying 「ツアーをしました」 when going sightseeing independently sounds unnatural: 「観光しました」 is the right choice there. Additionally, worth knowing: ツアーに参加する (to join a tour) is more natural than ツアーをする when someone is a participant, since the latter implies the speaker is running the tour themselves.
 
 ---
-
 
 ## Quiz
 
