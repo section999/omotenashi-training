@@ -28,7 +28,7 @@ Staff should pair 締切 with an exact date and time to eliminate ambiguity. A p
 
 ## Common Mistakes
 
-A common mistake is to use 締切 and 期限 interchangeably, but in hospitality contexts this can cause confusion: 締切 signals a hard stop, while 期限 may imply some flexibility. Another common error is stating a 締切 without specifying the time zone or exact hour, which is especially problematic for international guests or cross-regional bookings. Vague expressions like 締切が近いです without concrete dates can cause unnecessary anxiety or lead guests to assume the deadline is further away than it is.
+A common mistake is to use 締切 and 期限 interchangeably, but in hospitality contexts this can cause confusion: 締切 signals a hard stop, while 期限 may imply some flexibility. Another common error is stating a 締切 without specifying the time zone or exact hour, which is especially problematic for international guests or cross-regional bookings. Vague expressions like 締切が近いです without concrete dates can cause anxiety or lead guests to assume the deadline is further away than it is.
 
 ---
 

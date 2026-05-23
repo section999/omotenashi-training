@@ -3,9 +3,9 @@ id: v13-vocab
 section: 2
 title: スタッフ (sutaffu)
 ---
-スタッフ is the loanword from English "staff" and is probably the most frequently heard personnel term in Japanese hospitality environments. It covers the people who collectively keep an operation running, whether that's a hotel front desk, a restaurant floor, or a ryokan's service team. Compared to 従業員, which has an institutional, legalistic feel, スタッフ sounds approachable and team-oriented. That's why it's everywhere in customer-facing settings: signage such as「スタッフにお声がけください」("Please speak to a staff member") is standard across Japan.
+スタッフ is the loanword from English "staff" and is a frequently heard personnel term in Japanese hospitality environments. It covers the people who collectively keep an operation running, whether that's a hotel front desk, a restaurant floor, or a ryokan's service team. Compared to 従業員, which has an institutional, legalistic feel, スタッフ sounds approachable and team-oriented. That's why it's everywhere in customer-facing settings: signage such as「スタッフにお声がけください」("Please speak to a staff member") is standard across Japan.
 
-The word is deliberately flexible. Managers use it when talking about their team in a collegial, day-to-day way, and it appears on uniforms, event programmes, and guest information pamphlets. when coordinating across departments, using スタッフ as the shared label, front-desk スタッフ working alongside housekeeping スタッフ, reinforces a sense of unified purpose rather than departmental division\n## Example Sentences
+The word is flexible. Managers use it when talking about their team in a collegial, day-to-day way, and it appears on uniforms, event programmes, and guest information pamphlets. When coordinating across departments, using スタッフ as the shared label, front-desk スタッフ working alongside housekeeping スタッフ, reinforces a sense of unified purpose rather than departmental division\n## Example Sentences
 
 **1.** レストランのスタッフはお客様に飲み物を提供します。
 *Resutoran no sutaffu wa okyakusama ni nomimono o teikyou shimasu.*
@@ -26,7 +26,7 @@ The word is deliberately flexible. Managers use it when talking about their team
 
 ## Common Mistakes
 
-A common error is reaching for スタッフ in formal written documents, employment contracts, official government filings, that sort of thing. In those contexts, 従業員 is expected. Students also sometimes try to pluralise it as "スタッフたち," but スタッフ already implies a collective group and doesn't need a plural marker in most situations. However, the keigo article matters when writing formally: スタッフの皆様 is a cleaner choice than スタッフたち for announcements directed at the team.
+A common error is reaching for スタッフ in formal written documents, employment contracts, and official government filings. In those contexts, 従業員 is expected. A common error is also trying to pluralise it as "スタッフたち," but スタッフ already implies a collective group and does not need a plural marker in most situations. The keigo article matters when writing formally: スタッフの皆様 is a more suitable choice than スタッフたち for announcements directed at the team.
 
 ---
 

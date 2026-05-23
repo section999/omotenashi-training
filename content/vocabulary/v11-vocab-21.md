@@ -6,9 +6,9 @@ title: ご用件 (goyouken)
 **Pronunciation:** [go-**YOU**-ken]
 **Register:** Formal, used in telephone and front-desk contexts
 
-ご用件 means the purpose, matter, or reason for a call or visit, in plain terms, what the guest needs. Identifying this early is not just efficient; it signals attentiveness and professionalism. A staff member who listens to ご用件 before doing anything else ensures the guest reaches the right person or department on the first attempt. That single improvement makes a measurable difference in how service feels, because nobody wants to explain their situation three times to three different people.
+ご用件 means the purpose, matter, or reason for a call or visit, in plain terms, what the guest needs. Identifying this early signals attentiveness and professionalism. A staff member who listens to ご用件 before doing anything else ensures the guest reaches the right person or department on the first attempt. That improvement makes a difference in how service feels, because guests should not have to explain their situation multiple times.
 
-The standard phrase ご用件をお伺いします (may I ask the purpose of one's call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, it is worth confirming ご用件 rather than acting on assumptions. A regular guest may be calling for something completely unexpected, and assumptions cause exactly the kind of misrouting one was trying to avoid\n## Example Sentences
+The standard phrase ご用件をお伺いします (may I ask the purpose of one's call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, staff should confirm ご用件 rather than acting on assumptions. A regular guest may be calling for something unexpected, and assumptions cause the kind of misrouting one was trying to avoid\n## Example Sentences
 
 **1.** ご用件をお伺いしてもよろしいですか。
 *Goyouken wo oukagai shite mo yoroshii desu ka.*
@@ -31,7 +31,7 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of one
 
 ## Common Mistakes
 
-A frequent error is using ご用件は何ですか instead of ご用件をお伺いします. Both are grammatically correct, but お伺いします is a humble form that shows deference to the guest, making it significantly more appropriate in hospitality. Skipping ご用件 altogether and jumping straight to action based on an assumption is also risky. Confirming ご用件 back to the caller before transferring them, something like ご予約のご変更でございますね, takes three seconds and prevents the kind of misrouting that frustrates guests and wastes everyone's time.
+A frequent error is using ご用件は何ですか instead of ご用件をお伺いします. Both are grammatically correct, but お伺いします is a humble form that shows deference to the guest, making it more appropriate in hospitality. Skipping ご用件 altogether and jumping straight to action based on an assumption is also risky. Confirming ご用件 back to the caller before transferring them, something like ご予約のご変更でございますね, takes a few seconds and prevents misrouting that frustrates guests.
 
 ---
 
@@ -47,4 +47,4 @@ A frequent error is using ご用件は何ですか instead of ご用件をお伺
 
 **Correct Answer:** ご用件 (your inquiry / business)
 
-**Explanation:** ご用件 names the purpose or matter that brought the guest to you, and knowing it before taking any action is how you route calls correctly the first time. お伺いします uses the humble verb form that belongs in guest-facing communication, which the more blunt ご用件は何ですか lacks. The other options in this set name things, such as a person's name or a technical component, rather than describing the reason for contact.
+**Explanation:** ご用件 names the purpose or matter that brought the guest to staff, and knowing it before taking any action is how calls are routed correctly the first time. お伺いします uses the humble verb form that belongs in guest-facing communication, which the more direct ご用件は何ですか lacks. The other options in this set name things, such as a person's name or a technical component, rather than describing the reason for contact.

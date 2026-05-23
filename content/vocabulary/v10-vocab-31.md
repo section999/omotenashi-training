@@ -6,9 +6,9 @@ title: 宿泊税 (shukuhaku zei)
 **Pronunciation:** [shu-ku-ha-ku-**zei**]
 **Register:** Formal -- used in billing disclosures, check-in briefings, and invoice itemization
 
-宿泊税 breaks down simply: 宿泊 (shukuhaku) means "lodging" or "overnight stay," and 税 (zei) means "tax." It's a local government tax charged to hotel and inn guests based on the room rate per person per night, and the amount varies by municipality and price tier. Tokyo and Osaka have both enacted their own 宿泊税 ordinances, and the thresholds and amounts differ between them. That means if one work at properties in different cities or if one's property serves guests from around Japan, one needs to know the specific rules that apply to one's location, not just a general idea of what 宿泊税 is.
+宿泊税 is a compound word: 宿泊 (shukuhaku) means "lodging" or "overnight stay," and 税 (zei) means "tax." It's a local government tax charged to hotel and inn guests based on the room rate per person per night, and the amount varies by municipality and price tier. Tokyo and Osaka have both enacted their own 宿泊税 ordinances, and the thresholds and amounts differ between them. Staff working at properties in different cities, or whose property serves guests from across Japan, need to know the specific rules that apply to their location, not only a general idea of what 宿泊税 is.
 
-In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. a quick mention during the check-in briefing, something like 宿泊税が別途かかります, is all it takes to set clear expectations\n## Example Sentences
+In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. A quick mention during the check-in briefing, something like 宿泊税が別途かかります, sets clear expectations\n## Example Sentences
 
 **1.** 宿泊税は料金に別途含まれております。
 *Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.*
@@ -31,7 +31,7 @@ In operations, the accommodation collects 宿泊税 on behalf of the local gover
 
 ## Common Mistakes
 
-A common error is to treat 宿泊税 as part of 消費税, which is incorrect. They are levied by different levels of government and must appear separately on the bill. The other common error is applying the same rate across locations without checking: Tokyo's 宿泊税 rules are not identical to Osaka's, and those rules can be updated by local ordinance. Always confirm the current applicable rate for one's specific property. Note: quoting an outdated 宿泊税 rate isn't just a customer service issue, it creates legal and financial compliance risk for the property.
+A common error is to treat 宿泊税 as part of 消費税, which is incorrect. They are levied by different levels of government and must appear separately on the bill. The other common error is applying the same rate across locations without checking: Tokyo's 宿泊税 rules are not identical to Osaka's, and those rules can be updated by local ordinance. Always confirm the current applicable rate for one's specific property. Quoting an outdated 宿泊税 rate is not only a customer service issue but also creates legal and financial compliance risk for the property.
 
 ---
 

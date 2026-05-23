@@ -6,9 +6,9 @@ title: サービス料 (saabisu ryou)
 **Pronunciation:** [sa-a-bi-su-**ryou**]
 **Register:** Formal -- standard in luxury hotels, kaiseki restaurants, and high-end hospitality
 
-サービス料 is a service charge automatically added to the bill as a fixed percentage, typically 10% to 15%, and it takes the place of individual tipping, which is not practiced in Japan. The word combines the loanword サービス (from English "service") with 料 (ryou, "fee" or "charge"). Unlike tipping in Western contexts where each guest decides individually how much to give, サービス料 is standardized, collected by the establishment, and distributed among staff. This reflects something important about Japanese hospitality culture: excellent service is a professional standard that doesn't require individual monetary reward to sustain it.
+サービス料 is a service charge automatically added to the bill as a fixed percentage, typically 10% to 15%, and it takes the place of individual tipping, which is not practiced in Japan. The word combines the loanword サービス (from English "service") with 料 (ryou, "fee" or "charge"). Unlike tipping in Western contexts where each guest decides individually how much to give, サービス料 is standardized, collected by the establishment, and distributed among staff. This reflects an important aspect of Japanese hospitality culture: excellent service is a professional standard that does not require individual monetary reward to sustain it.
 
-A common error is to aren't sure how to introduce サービス料 in conversation without it feeling like a warning. The key is to disclose it proactively and early, before presenting the bill, not in response to a question. Note: サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Don't leave guests to guess what the breakdown is\n## Example Sentences
+A common error is being unsure how to introduce サービス料 in conversation without it sounding like a warning. The key is to disclose it proactively and early, before presenting the bill, not in response to a question. サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, staff should name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Guests should not be left to guess the breakdown\n## Example Sentences
 
 **1.** 料金にはサービス料10%が含まれております。
 *Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.*
@@ -31,7 +31,7 @@ A common error is to aren't sure how to introduce サービス料 in conversatio
 
 ## Common Mistakes
 
-Presenting サービス料 and 消費税 as a single combined charge is a frequent mistake, and it causes confusion when guests ask for a breakdown. They are separate and should appear as separate line items. The other common error is mentioning サービス料 for the first time on the bill itself. International guests, in particular, may be completely unfamiliar with the concept and can feel caught off guard if no one mentioned it during the booking or check-in conversation. Bring it up early, explain it briefly, and most guests will accept it without any issue.
+Presenting サービス料 and 消費税 as a single combined charge is a frequent mistake, and it causes confusion when guests ask for a breakdown. They are separate and should appear as separate line items. The other common error is mentioning サービス料 for the first time on the bill itself. International guests, in particular, may be unfamiliar with the concept and can feel caught off guard if no one mentioned it during the booking or check-in conversation. Bringing it up early and explaining it briefly helps guests accept it without issue.
 
 ---
 

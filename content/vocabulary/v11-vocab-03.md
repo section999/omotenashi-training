@@ -5,7 +5,7 @@ title: 外線 (gaisen)
 ---
 外線 is the telephone line that connects to numbers outside the hotel or organization, as distinct from the internal 内線 network. Accessing it typically requires pressing a prefix digit, most commonly 0, before dialing the external number. This routing system exists for billing, security, and line management purposes, and explaining it clearly to guests is part of the check-in experience, especially for international visitors who may never have encountered this convention before.
 
-failing to mention the 外線 prefix is a common reasons guests get frustrated with their in-room phone. They dial, nothing happens, and they feel helpless. Staff should also be upfront about the fact that 外線 calls from guest rooms are typically billed to the room account and may carry a surcharge. When a guest needs to call a taxi, an airline, or a local restaurant, one can either place the call for them or walk them through the steps, but either way don't leave them to figure it out alone\n## Example Sentences
+failing to mention the 外線 prefix is a common reason guests become frustrated with their in-room phone. They dial, nothing happens, and they feel helpless. Staff should also be clear about the fact that 外線 calls from guest rooms are typically billed to the room account and may carry a surcharge. When a guest needs to call a taxi, an airline, or a local restaurant, staff can either place the call for them or walk them through the steps, but should not leave them to figure it out alone\n## Example Sentences
 
 **1.** 外線をおかけになる場合は、まず0をお押しください。
 *Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.*
@@ -28,7 +28,7 @@ failing to mention the 外線 prefix is a common reasons guests get frustrated w
 
 ## Common Mistakes
 
-Additionally, that trips students up: telling a guest to press 0 for an outside line without mentioning that they must then wait for a second dial tone before entering the number. Skip that step and the call fails, and the guest won't know why. There's also a translation trap worth knowing: 外線 (external telephone line) and 外国 (foreign country) can get confused when writing instructions in mixed language environments, so double-check one's wording carefully. And in any guest-facing context, use おかけになる rather than the plain かける when talking about making a call.
+A common error is telling a guest to press 0 for an outside line without mentioning that they must then wait for a second dial tone before entering the number. Skipping that step causes the call to fail, and the guest will not know why. 外線 (external telephone line) and 外国 (foreign country) can also be confused when writing instructions in mixed language environments, so wording should be checked carefully. In any guest-facing context, おかけになる should be used rather than the plain かける when talking about making a call.
 
 ---
 
@@ -44,4 +44,4 @@ Additionally, that trips students up: telling a guest to press 0 for an outside 
 
 **Correct Answer:** 外線 (outside / external line)
 
-**Explanation:** 外線 is the line that connects to numbers outside the hotel, which is what a guest needs when calling a taxi, an airline, or anyone off-property, setting it apart from 内線 for in-house communication, plain 電話 as a general term, and 回線 as the underlying infrastructure. Always tell guests to press 0 first and then wait for a second dial tone before dialing out, since skipping either step is the most common reason guests cannot connect, and be upfront that 外線 calls are billed to the room.
+**Explanation:** 外線 is the line that connects to numbers outside the hotel, which is what a guest needs when calling a taxi, an airline, or anyone off-property, setting it apart from 内線 for in-house communication, plain 電話 as a general term, and 回線 as the underlying infrastructure. Guests should be told to press 0 first and then wait for a second dial tone before dialing out, since skipping either step is the most common reason guests cannot connect, and they should be informed clearly that 外線 calls are billed to the room.

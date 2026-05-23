@@ -33,7 +33,7 @@ Staff encounter ご連絡 across a wide range of standard phrases: ご連絡を�
 
 ## Common Mistakes
 
-Using 連絡します without ご when speaking with guests is a common slip. It sounds too casual for a formal service environment, so make ご連絡 the default when one is guest-facing. Students also sometimes close a call with ありがとうございました and nothing more, but the closing invitation, ご連絡をお待ちしております or またいつでもご連絡ください, is an important part of the warm finish that omotenashi calls for. However, be careful not to confuse ご連絡 with 伝言: ご連絡 is the act of communicating directly, while 伝言 is a message relayed through a third party. The distinction is important because mixing them up can lead to a guest expecting a direct call when what happened was a note left at the front desk.
+Using 連絡します without ご when speaking with guests is a common slip. It sounds too casual for a formal service environment, so ご連絡 should be used as the default in guest-facing situations. A common error is closing a call with ありがとうございました and nothing more, but the closing invitation, ご連絡をお待ちしております or またいつでもご連絡ください, is an important part of the warm finish that omotenashi calls for. ご連絡 should not be confused with 伝言: ご連絡 is the act of communicating directly, while 伝言 is a message relayed through a third party. The distinction is important because mixing them up can lead to a guest expecting a direct call when what happened was a note left at the front desk.
 
 ---
 
@@ -49,4 +49,4 @@ Using 連絡します without ご when speaking with guests is a common slip. It
 
 **Correct Answer:** ご連絡 (contact / notification (polite))
 
-**Explanation:** ご連絡 is the formal term for any act of communication or contact, and its prefix ご is required in guest-facing speech, making the plain 連絡 a register error you want to avoid. Closing a call with ご連絡をお待ちしております, or またいつでもご連絡ください, tells the guest the hotel remains available rather than just ending the conversation. The other options name a person, a type of response, or a technical service, none of which conveys the idea of making contact.
+**Explanation:** ご連絡 is the formal term for any act of communication or contact, and its prefix ご is required in guest-facing speech, making the plain 連絡 a register error that should be avoided. Closing a call with ご連絡をお待ちしております, or またいつでもご連絡ください, tells the guest the hotel remains available rather than just ending the conversation. The other options name a person, a type of response, or a technical service, none of which conveys the idea of making contact.

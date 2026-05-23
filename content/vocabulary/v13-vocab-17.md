@@ -33,7 +33,7 @@ In a hotel context, 報告 shows up constantly: a front desk associate reporting
 
 ## Common Mistakes
 
-A common error is to mix up 報告 and 連絡 (renraku: communication/notification), and the confusion is understandable because both involve passing information. The key difference is direction and purpose: 報告 flows upward to a supervisor and concerns completed or observed events, while 連絡 moves laterally to share information with colleagues. Using 報告 for a message sent to a peer sounds odd, and using 連絡 when formally addressing a superior about an incident will feel too casual. Additionally, to remember: staff should pair 報告 with humble verb forms such as いたします when speaking upward. Saying just 報告します is acceptable among colleagues, but not when addressing a manager.
+A common error is to mix up 報告 and 連絡 (renraku: communication/notification), as both involve passing information. The key difference is direction and purpose: 報告 flows upward to a supervisor and concerns completed or observed events, while 連絡 moves laterally to share information with colleagues. Using 報告 for a message sent to a peer is incorrect, and using 連絡 when formally addressing a superior about an incident is too casual. Additionally, staff should pair 報告 with humble verb forms such as いたします when speaking upward. Saying just 報告します is acceptable among colleagues, but not when addressing a manager.
 
 ---
 

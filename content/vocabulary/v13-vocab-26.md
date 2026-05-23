@@ -31,7 +31,7 @@ title: 手順 (tejun)
 
 ## Common Mistakes
 
-A common error is to swap 手順 with 方法 (houhou: method/way) or やり方 (yarikata: way of doing something), and while all three relate to how something gets done, 手順 specifically implies a numbered sequence -- steps that must happen in a defined order. Using 方法 when referring to a numbered procedure in a hotel training manual sounds imprecise and slightly wrong to a native reader. However, the pronunciation trap is worth knowing about too: 手順 can catch learners off guard because Japanese pitch accent drops after the first mora, so the natural spoken rhythm is different from reading it cold. Listening to native speakers use the word in context will help one internalise the right feel for it.
+A common error is to swap 手順 with 方法 (houhou: method/way) or やり方 (yarikata: way of doing something). While all three relate to how something gets done, 手順 specifically implies a numbered sequence -- steps that must happen in a defined order. Using 方法 when referring to a numbered procedure in a hotel training manual is imprecise. The pronunciation also requires attention: 手順 can be unexpected for learners because Japanese pitch accent drops after the first mora, so the natural spoken rhythm is different from reading it cold. Listening to native speakers use the word in context helps with accurate pronunciation.
 
 ---
 

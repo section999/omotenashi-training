@@ -31,7 +31,7 @@ The idea of 担当 goes deep into how Japanese hotels organise their teams. Staf
 
 ## Common Mistakes
 
-A common error is reach for 責任者 (sekininsha: person responsible/manager on duty) when 担当 would be correct, or vice versa. The difference matters: 担当 means one has been assigned to something specific, while 責任者 signals higher authority and is the person called when a decision needs to be escalated. Additionally, to watch: do not introduce yourself with just 担当 as a standalone label. Always add context so it is clear what one is 担当 for -- for example, 予約担当の〇〇と申します ("I am 〇〇, in charge of reservations") gives the listener everything they need immediately.
+A common error is reaching for 責任者 (sekininsha: person responsible/manager on duty) when 担当 would be correct, or vice versa. The difference is important: 担当 means one has been assigned to something specific, while 責任者 signals higher authority and is the person called when a decision needs to be escalated. Additionally, one should not introduce oneself with just 担当 as a standalone label. Context should always be added so it is clear what one is 担当 for -- for example, 予約担当の〇〇と申します ("I am 〇〇, in charge of reservations") provides clear context.
 
 ---
 

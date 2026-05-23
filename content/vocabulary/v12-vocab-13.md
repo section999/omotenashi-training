@@ -6,9 +6,9 @@ title: 怪我 (kega)
 **Pronunciation:** [**ke**-ga]
 **Register:** Neutral to Formal, guest care and incident response
 
-怪我 refers to a physical injury caused by an external event, anything from a small cut or bruise to a serious trauma that needs immediate medical attention. In a hotel, one encounter 怪我 in all sorts of settings: slippery bathroom floors, staircases, fitness facilities, outdoor walkways, kitchen areas. The first thing one needs to do when one sees that a guest has been hurt is assess how serious it is. That single step determines everything that follows.
+怪我 refers to a physical injury caused by an external event, from a small cut or bruise to serious trauma that needs immediate medical attention. In a hotel, 怪我 can occur in many settings: slippery bathroom floors, staircases, fitness facilities, outdoor walkways, and kitchen areas. When a guest is hurt, assessing the severity is the first priority. That single step determines everything that follows.
 
-Minor injuries like small cuts can often be handled with the hotel's first aid kit. Fractures, head injuries, deep lacerations, or anything where one is not certain about severity should always mean calling for professional help. the instinct to reassure a guest can sometimes cause staff to underestimate an injury, so when in doubt, escalate. Every incident involving injury must be documented in an accident report, no matter how small it seems, both to protect the guest and to protect the hotel. Preventing 怪我 in the first place, through wet floor signs, good lighting, and regular hazard checks, is just as much a part of one's job as responding to it.
+Minor injuries like small cuts can often be handled with the hotel's first aid kit. Fractures, head injuries, deep lacerations, or anything where severity is uncertain should always mean calling for professional help. The instinct to reassure a guest can sometimes cause staff to underestimate an injury, so when in doubt, escalation is appropriate. Every incident involving injury must be documented in an accident report, no matter how small, both to protect the guest and the hotel. Preventing 怪我 through wet floor signs, good lighting, and regular hazard checks is as important as responding to it.
 
 ## Example Sentences
 
@@ -27,13 +27,13 @@ Minor injuries like small cuts can often be handled with the hotel's first aid k
 
 ## Related Expressions
 
-- **負傷 (fushō)**: a more formal word for injury, found mainly in official reports and medical documentation rather than in everyday conversation with guests. one would write 負傷 in an incident report but say 怪我 out loud.
-- **擦り傷 (surikizu)**: a scrape or abrasion; one of the more common minor 怪我 one will deal with when guests fall or brush against rough surfaces, especially around outdoor areas or staircases.
+- **負傷 (fushō)**: a more formal word for injury, found mainly in official reports and medical documentation rather than in everyday conversation with guests. Staff would write 負傷 in an incident report but say 怪我 out loud.
+- **擦り傷 (surikizu)**: a scrape or abrasion; one of the more common minor 怪我 that occurs when guests fall or brush against rough surfaces, especially around outdoor areas or staircases.
 
 
 ## Common Mistakes
 
-A common error is to mix up 怪我 and 病気 (illness), but they are distinct: 怪我 is physical trauma caused by an external event such as a fall or cut, not an illness that develops from within. Additionally, about speaking to guests: always use the honorific construction when the injured person is a guest. Say 怪我をされました, not 怪我をしました. The casual form 怪我した has no place in formal hotel speech at all. Using the wrong register here, even accidentally, can make a guest feel that the staff member is being careless or disrespectful at a vulnerable moment.
+A common error is to mix up 怪我 and 病気 (illness), but they are distinct: 怪我 is physical trauma caused by an external event such as a fall or cut, not an illness that develops from within. Regarding speaking to guests, the honorific construction should always be used when the injured person is a guest. Staff should say 怪我をされました, not 怪我をしました. The casual form 怪我した has no place in formal hotel speech. Using the wrong register can make a guest feel that the staff member is being careless or disrespectful at a vulnerable moment.
 
 ---
 

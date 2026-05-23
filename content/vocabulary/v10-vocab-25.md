@@ -6,9 +6,9 @@ title: 外貨 (gaika)
 **Pronunciation:** [**gai**-ka]
 **Register:** Formal/Neutral -- used in front desk, cashier, and concierge contexts
 
-外貨 reads as "outside-country money" and refers to any currency issued by a foreign nation. As inbound tourism to Japan keeps growing, knowing how to handle 外貨 smoothly is a real skill. Not every property accepts foreign currency directly, and that's completely fine, but one needs to know one's establishment's policy clearly and be ready to guide guests who arrive with 外貨 and need to convert it or find an alternative way to pay. A guest fumbling with unfamiliar yen for the first time is already a little stressed; one's confidence in explaining the options makes a big difference.
+外貨 reads as "outside-country money" and refers to any currency issued by a foreign nation. As inbound tourism to Japan continues to grow, knowing how to handle 外貨 smoothly is a valuable skill. Not every property accepts foreign currency directly, which is acceptable, but staff need to know their establishment's policy clearly and be ready to guide guests who arrive with 外貨 and need to convert it or find an alternative way to pay. A guest handling unfamiliar yen for the first time may already be stressed; one's confidence in explaining the options makes a significant difference.
 
-For properties that do accept 外貨, the exchange rate must be checked daily, not guessed from memory. many hotels and ryokan post the day's accepted rates near the front desk so guests can verify amounts themselves, which cuts down on questions and speeds up checkout. If one's property doesn't handle 外貨 directly, know where the nearest 両替所 or ATM for foreign cards is located so one can give specific, helpful directions rather than a vague "there's one nearby.\n## Example Sentences
+For properties that do accept 外貨, the exchange rate must be checked daily, not quoted from memory. Many hotels and ryokan post the day's accepted rates near the front desk so guests can verify amounts themselves, which reduces questions and speeds up checkout. If the property does not handle 外貨 directly, staff should know the nearest 両替所 or ATM for foreign cards so they can give specific directions rather than a vague "there is one nearby."\n## Example Sentences
 
 **1.** 外貨でのお支払いを承っております。
 *Gaika de no oshiharai o uketamatteotte orimasu.*
@@ -31,7 +31,7 @@ For properties that do accept 外貨, the exchange rate must be checked daily, n
 
 ## Common Mistakes
 
-Quoting an exchange rate from memory or using yesterday's figure is a common and costly error. Rates shift daily, and even a small discrepancy can mean the hotel absorbs a loss or the guest gets overcharged. Always check before one quote. A common error is to also treat 外貨 as a single concept without knowing the names of individual currencies. Note: being able to say 米ドル (U.S. dollars), ユーロ (euros), and other commonly held currencies by name signals to international guests that one is prepared to help them, not just reaching for a generic category word.
+Quoting an exchange rate from memory or using yesterday's figure is a common and costly error. Rates shift daily, and even a small discrepancy can mean the hotel absorbs a loss or the guest gets overcharged. Staff should always check before quoting. A common error is to also treat 外貨 as a single concept without knowing the names of individual currencies. Being able to say 米ドル (U.S. dollars), ユーロ (euros), and other commonly held currencies by name signals to international guests that one is prepared to help them, rather than relying on a generic category word.
 
 ---
 

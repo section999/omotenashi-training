@@ -5,7 +5,7 @@ title: お繋ぎします (otsunagi shimasu)
 ---
 お繋ぎします is the standard phrase for telling a caller they're being transferred or connected to another person or department. What makes it different from just pressing a button is the commitment it carries: when one says お繋ぎします, one is personally taking responsibility for making sure that connection succeeds. That reassurance matters to the guest, who might otherwise worry about being dropped into a loop or left on a silent line wondering if anyone is there.
 
-Best practice in Japanese hotel phone etiquette is to always name the destination before one says お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is the gold standard: briefly explain the guest's situation to the receiving party before completing the connection, so the guest doesn't have to start from scratch repeating themselves. That one extra step makes a noticeable difference in how the service feels\n## Example Sentences
+Best practice in Japanese hotel phone etiquette is to name the destination before saying お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is recommended: briefly explaining the guest's situation to the receiving party before completing the connection, so the guest does not have to repeat themselves from the beginning. That extra step makes a noticeable difference in how the service feels\n## Example Sentences
 
 **1.** 宿泊予約担当者にお繋ぎいたします。少々お待ちください。
 *Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.*
@@ -28,7 +28,7 @@ Best practice in Japanese hotel phone etiquette is to always name the destinatio
 
 ## Common Mistakes
 
-A common error is to say お繋ぎします without specifying where the call is going, which leaves the caller uncertain and a little anxious about who will pick up. Always name the department or person first. There's also a common register slip worth watching: つなぎます is plain form and too casual for guest-facing speech; use お繋ぎします or, for full keigo, お繋ぎいたします. Additionally: check that the receiving party is available before one initiate the transfer. Connecting a caller to a line that rings and rings with no answer is worse than asking them to hold while one sort it out.
+A common error is to say お繋ぎします without specifying where the call is going, which leaves the caller uncertain about who will pick up. The department or person should be named first. A common register slip: つなぎます is plain form and too casual for guest-facing speech; お繋ぎします or, for full keigo, お繋ぎいたします should be used. The receiving party's availability should be checked before initiating the transfer. Connecting a caller to a line that rings with no answer is worse than asking them to hold while the matter is sorted out.
 
 ---
 
@@ -44,4 +44,4 @@ A common error is to say お繋ぎします without specifying where the call is
 
 **Correct Answer:** お繋ぎします (I will connect you)
 
-**Explanation:** お繋ぎします is the phrase that tells a caller you are personally ensuring their connection goes through, which carries more warmth and accountability than the other options, which ask someone to wait, describe a future callback, or name a recording device. Always name the destination before saying it, such as レストランの予約担当部署にお繋ぎいたします, and where possible brief the receiving party beforehand so the guest never has to repeat themselves.
+**Explanation:** お繋ぎします is the phrase that tells a caller you are personally ensuring their connection goes through, which carries more warmth and accountability than the other options, which ask someone to wait, describe a future callback, or name a recording device. The destination should be named before saying it, such as レストランの予約担当部署にお繋ぎいたします, and where possible the receiving party should be briefed beforehand so the guest never has to repeat themselves.

@@ -3,9 +3,9 @@ id: v11-vocab
 section: 24
 title: 緊急連絡先 (kinkyuu renrakusaki)
 ---
-緊急連絡先 is the emergency contact information one collect from guests at check-in: a phone number or a person who can be reached if something urgent happens. In Japanese hotels and ryokan this is standard procedure, not just paperwork. It reflects the hotel's genuine sense of responsibility for each person staying under its roof. Think of it as part of the care built into omotenashi itself.
+緊急連絡先 is the emergency contact information one collect from guests at check-in: a phone number or a person who can be reached if something urgent happens. In Japanese hotels and ryokan this is standard procedure. It reflects the hotel's sense of responsibility for each person staying under its roof.
 
-A common error is to underestimate how much the phrasing matters here. one want the request to feel routine and reassuring, not alarming. Something like ご緊急の場合のご連絡先をお教えいただけますか (may I have one's emergency contact information?) lands much more gently than asking in a way that makes the guest wonder why one needs it. The information should be stored securely, accessible to front desk and security staff, and updated at every stay since contact details change more often than people expect\n## Example Sentences
+A common error is to underestimate how much the phrasing matters here. The request should feel routine and reassuring, not alarming. ご緊急の場合のご連絡先をお教えいただけますか (may I have one's emergency contact information?) is gentler than asking in a way that makes the guest wonder why one needs it. The information should be stored securely, accessible to front desk and security staff, and updated at every stay since contact details change more often than people expect\n## Example Sentences
 
 **1.** チェックインの際に、緊急連絡先をお教えいただけますか。
 *Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*
@@ -28,7 +28,7 @@ A common error is to underestimate how much the phrasing matters here. one want 
 
 ## Common Mistakes
 
-Rushing through the 緊急連絡先 request is the most common mistake. When one ask too quickly or too casually, guests can feel uneasy about why the hotel needs this information. Frame it as a normal part of check-in and the discomfort disappears. Note: too: always read the number back to confirm it. Asking ご確認のためもう一度お聞かせいただけますか (may I confirm the number once more?) takes five seconds and prevents a data error that could matter greatly in a real emergency. Update the record at every stay, not just the first one.
+Rushing through the 緊急連絡先 request is a common mistake. When one asks too quickly or too casually, guests can feel uneasy about why the hotel needs this information. Framing it as a normal part of check-in helps prevent that discomfort. Reading the number back to confirm it is recommended. Asking ご確認のためもう一度お聞かせいただけますか (may I confirm the number once more?) takes a moment and prevents a data error that could matter greatly in a real emergency. The record should be updated at every stay.
 
 ---
 
@@ -45,4 +45,4 @@ Rushing through the 緊急連絡先 request is the most common mistake. When one
 
 **Correct Answer:** 緊急連絡先 (emergency contact)
 
-**Explanation:** 緊急連絡先 specifically means the person or number to reach in an emergency, which is what hotels collect at check-in as part of their genuine duty of care to guests. 電話番号 names any phone number without the emergency purpose attached, while 内線 and 外線 describe the type of telephone line rather than contact information at all. Framing the request calmly as a routine check-in step, using ご緊急の場合のご連絡先をお教えいただけますか, ensures guests provide it without alarm.
+**Explanation:** 緊急連絡先 specifically means the person or number to reach in an emergency, which is what hotels collect at check-in as part of their duty of care to guests. 電話番号 names any phone number without the emergency purpose attached, while 内線 and 外線 describe the type of telephone line rather than contact information at all. Framing the request calmly as a routine check-in step, using ご緊急の場合のご連絡先をお教えいただけますか, ensures guests provide it without alarm.

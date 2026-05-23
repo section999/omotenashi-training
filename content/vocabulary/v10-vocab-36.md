@@ -3,7 +3,7 @@ id: v10-vocab
 section: 36
 title: 署名 (shomei)
 ---
-署名 is a compound of 署 (sho), meaning "to inscribe" or "to write one's name," and 名 (mei), meaning "name." In hospitality, 署名 refers to a guest's handwritten signature on a document such as a credit card slip, check-in form, service agreement, or itemized bill. A 署名 carries legal significance as proof that the guest reviewed and authorized a charge or agreed to specific terms and conditions. In Japanese service culture, requesting a 署名 must be done with appropriate formality, directing the guest clearly and respectfully to the correct location on the form, and briefly explaining what they are signing, reflects the transparency and respect central to omotenashi.
+署名 is a compound of 署 (sho), meaning "to inscribe" or "to write one's name," and 名 (mei), meaning "name." In hospitality, 署名 refers to a guest's handwritten signature on a document such as a credit card slip, check-in form, service agreement, or itemized bill. A 署名 carries legal significance as proof that the guest reviewed and authorized a charge or agreed to specific terms and conditions. In Japanese service culture, requesting a 署名 must be done with appropriate formality, directing the guest clearly and respectfully to the correct location on the form, and briefly explaining what they are signing. This reflects the transparency and respect central to omotenashi.
 
 署名 is required for credit card transactions that do not use a PIN, for registration forms at check-in, and for any document that needs guest authorization. Staff should indicate the exact field where the 署名 is needed (using a finger or pen to point, never writing in the guest's space), and should explain the purpose in simple, polite language. After obtaining a 署名, the document should be handled carefully as a legal record and stored according to the property's compliance procedures.
 
@@ -30,7 +30,7 @@ title: 署名 (shomei)
 
 ## Common Mistakes
 
-A common mistake is pointing vaguely at a document and saying "sign here" without explaining what the guest is signing: this can make guests hesitant and is inconsistent with the transparent, respectful communication expected in Japanese hospitality. A common mistake is to also confuse 署名 (handwritten signature) with 暗証番号 (PIN), forgetting that different card transactions may require one or the other. Always confirm which form of authorization is required by the payment terminal before directing the guest.
+A common mistake is pointing vaguely at a document and saying "sign here" without explaining what the guest is signing: this can make guests hesitant and is inconsistent with the transparent, respectful communication expected in Japanese hospitality. Another common mistake is confusing 署名 (handwritten signature) with 暗証番号 (PIN), forgetting that different card transactions may require one or the other. Staff should confirm which form of authorization is required by the payment terminal before directing the guest.
 
 ---
 

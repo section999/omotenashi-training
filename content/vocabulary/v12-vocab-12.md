@@ -8,7 +8,7 @@ title: 事故 (jiko)
 
 事故 is an unplanned event that causes injury, property damage, or serious disruption to normal operations. In hotels, that scope is wide: a guest slipping on a wet floor, a collision in the parking lot, a food poisoning case in the restaurant, or a work injury sustained by a staff member all count as 事故. Regardless of how minor something seems in the moment, every 事故 must be reported to management, documented in an incident report (事故報告書, jiko houkokusho), and properly followed up. Japan's hospitality industry operates within a strict legal framework that requires accurate records, and a missed report can create serious liability problems later.
 
-The response sequence matters: attend to the injured person first, then secure the scene to stop further harm, then report upward, then document. A common error is to make the mistake of jumping straight to documentation while the person affected is still in distress. However, one thing to be careful about is language when speaking to guests: never admit legal liability on behalf of the property. Express sincere concern, offer practical help, and escalate to management. How a hotel handles a 事故, in terms of speed, honesty, and genuine care, often shapes how a guest feels about the property long after the incident itself\n## Example Sentences
+The response sequence is important: attend to the injured person first, then secure the scene to stop further harm, then report upward, then document. A common error is jumping straight to documentation while the person affected is still in distress. Regarding language when speaking to guests, staff should never admit legal liability on behalf of the property. Sincere concern should be expressed, practical help offered, and the matter escalated to management. How a hotel handles a 事故, in terms of speed, honesty, and care, often shapes how a guest feels about the property long after the incident itself\n## Example Sentences
 
 **1.** ホテル内で事故が発生した場合、フロントにご報告ください。
 *Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.*
@@ -31,7 +31,7 @@ The response sequence matters: attend to the injured person first, then secure t
 
 ## Common Mistakes
 
-Delaying a report is a common errors students make with 事故. Even something that looks minor right now should be documented immediately, because symptoms of injury, especially internal ones, can appear hours later, and an undocumented event leaves the hotel legally exposed. There is also an important vocabulary distinction to keep straight: 事件 (jiken) means a criminal incident or case, while 事故 means an accident. Using 事件 by mistake implies intentional wrongdoing, which dramatically changes the meaning. Note: too is that speculating about the cause of a 事故 in front of guests is a mistake: stick to factual, calm communication and refer the matter to management.
+Delaying a report is a common error with 事故. Even something that looks minor should be documented immediately, because symptoms of injury, especially internal ones, can appear hours later, and an undocumented event leaves the hotel legally exposed. There is also an important vocabulary distinction: 事件 (jiken) means a criminal incident or case, while 事故 means an accident. Using 事件 by mistake implies intentional wrongdoing, which changes the meaning. Speculating about the cause of a 事故 in front of guests is also a mistake: staff should stick to factual, calm communication and refer the matter to management.
 
 ---
 

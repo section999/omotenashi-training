@@ -6,7 +6,7 @@ title: シフト (shifuto)
 **Pronunciation:** [**shi**-fu-to]
 **Register:** Neutral, workplace scheduling
 
-シフト is the loanword from English "shift" and is the standard term for a scheduled block of working hours in Japanese hospitality. Hotels, restaurants, and ryokan run around the clock, which makes シフト management a notable operationally critical things a manager handles. Shifts typically break into morning (早番, hayaban), afternoon (中番, nakaban), and night or late (遅番, osoban, or 夜勤, yakin). A well-built シフト means guest-facing departments are never left short-staffed and every employee knows exactly when their responsibility begins and ends.
+シフト is the loanword from English "shift" and is the standard term for a scheduled block of working hours in Japanese hospitality. Hotels, restaurants, and ryokan run around the clock, which makes シフト management an operationally critical task for management. Shifts typically break into morning (早番, hayaban), afternoon (中番, nakaban), and night or late (遅番, osoban, or 夜勤, yakin). A well-built シフト means guest-facing departments are never left short-staffed and every employee knows exactly when their responsibility begins and ends.
 
 For employees, the シフト isn't just about hours on a page. It's the accountability window. Arriving on time is a baseline professional expectation, and failing to show up without notice is treated as a serious breach in Japanese workplace culture. Many hotels now use digital scheduling systems where staff can view their シフト, request changes, and swap with colleagues, with everything tracked to keep operations predictable\n## Example Sentences
 
@@ -31,7 +31,7 @@ For employees, the シフト isn't just about hours on a page. It's the accounta
 
 ## Common Mistakes
 
-A common error is to treat シフト and 勤務 as interchangeable, but they describe different things. one are "on シフト" because the schedule says so, while 勤務 refers to the work itself and the duties one carry out during that time. However, the bigger issue in real conversations is collocation. シフト doesn't sit well as a bare noun in most verbal contexts. one needs the phrases around it: 「シフトに入る」(to be on a shift) and 「シフトを交代する」(to swap a shift) are both common, and practising those forms will make one's Japanese sound natural rather than textbook.
+A common error is to treat シフト and 勤務 as interchangeable, but they describe different things. One is "on シフト" because the schedule says so, while 勤務 refers to the work itself and the duties one carries out during that time. Another consideration is collocation. シフト is not commonly used as a bare noun in most verbal contexts. The appropriate phrases are needed: 「シフトに入る」(to be on a shift) and 「シフトを交代する」(to swap a shift) are both common, and practising those forms makes communication sound more natural.
 
 ---
 

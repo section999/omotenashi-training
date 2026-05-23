@@ -31,7 +31,7 @@ The process starts with confirming the 宛名 before printing anything. For indi
 
 ## Common Mistakes
 
-The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology that could easily have been avoided. Students also sometimes confuse 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and staff should not assume one covers the other. Additionally: never write the amount by hand in pencil, and never leave the 宛名 blank. Either one compromises the legal validity of the receipt.
+The most common mistake is printing the 領収書 before confirming the 宛名 -- the result is a document the guest cannot use, followed by a reissue and an apology. Another common error is confusing 領収書 with 明細書: a 領収書 proves that payment was made, while a 明細書 shows what was charged line by line. Guests who need both documents should receive both, and staff should not assume one covers the other. Writing the amount by hand in pencil or leaving the 宛名 blank compromises the legal validity of the receipt.
 
 ---
 

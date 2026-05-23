@@ -3,9 +3,9 @@ id: v10-vocab
 section: 17
 title: 承認 (shounin)
 ---
-承認 means the act of formally approving or authorizing a payment, transaction, discount, or document. In Japanese hospitality, not all decisions can be made unilaterally by front-line staff; many financial actions -- refunds above a certain amount, complimentary upgrades, extended credit terms -- require 上司の承認 (supervisor approval) before they can proceed. Understanding when to seek 承認 and how to communicate this to a guest without making them feel inconvenienced is a key professional skill. It reflects the hotel's commitment to accountability and consistency.
+承認 means the act of formally approving or authorizing a payment, transaction, discount, or document. In Japanese hospitality, not all decisions can be made unilaterally by front-line staff; many financial actions -- refunds above a certain amount, complimentary upgrades, extended credit terms -- require 上司の承認 (supervisor approval) before they can proceed. Understanding when to seek 承認 and how to communicate this to a guest without causing inconvenience is a key professional skill. It reflects the hotel's commitment to accountability and consistency.
 
-In a hospitality context, 承認 is most commonly used in checkout and billing situations: a large refund requires 承認, a significant discount requires 承認, and processing a room charge to a corporate account may also require 承認 from the accounts department. Staff should communicate these requirements smoothly -- 少々お時間をいただきますが、上司の承認が必要でございます -- so the guest understands without feeling unnecessarily delayed. In hotel PMS (property management systems), 承認 is often a trackable action attached to a specific staff ID\n## Example Sentences
+In a hospitality context, 承認 is most commonly used in checkout and billing situations: a large refund requires 承認, a significant discount requires 承認, and processing a room charge to a corporate account may also require 承認 from the accounts department. Staff should communicate these requirements smoothly -- 少々お時間をいただきますが、上司の承認が必要でございます -- so the guest understands the brief delay. In hotel PMS (property management systems), 承認 is often a trackable action attached to a specific staff ID\n## Example Sentences
 
 **1.** こちらの返金には上司の承認が必要でございます。
 *Kochira no henkin ni wa joushi no shounin ga hitsuyou de gozaimasu.*
@@ -28,7 +28,7 @@ In a hospitality context, 承認 is most commonly used in checkout and billing s
 
 ## Common Mistakes
 
-承認 and 確認 are often confused, but 確認 is checking facts while 承認 is granting authority: one is a verification step, the other is a decision. Another mistake is failing to communicate the 承認 process to the guest, leaving them waiting without explanation; always inform the guest why a brief delay is needed and approximately how long it will take. Avoid using 承認 in casual conversation, as it sounds overly bureaucratic outside of a professional context.
+承認 and 確認 are often confused, but 確認 is checking facts while 承認 is granting authority: one is a verification step, the other is a decision. Another mistake is failing to communicate the 承認 process to the guest, leaving them waiting without explanation; always inform the guest why a brief delay is needed and approximately how long it will take. Using 承認 in casual conversation should be avoided, as it sounds bureaucratic outside of a professional context.
 
 ---
 

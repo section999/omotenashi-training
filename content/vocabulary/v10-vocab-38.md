@@ -28,7 +28,7 @@ staff should treat any potential 無効 situation as a verification issue first 
 
 ## Common Mistakes
 
-The most common error is declaring something 無効 without first attempting to verify or retry the transaction, which can embarrass the guest unnecessarily if the issue is technical rather than genuine. Another common mistake is sometimes use 無効 without explaining why, leaving the guest confused: always state the reason (expired, conditions not met, etc.) along with the declaration. Avoid using 無効 as an opening statement; always frame it with 確認させていただきます first.
+The most common error is declaring something 無効 without first attempting to verify or retry the transaction, which can embarrass the guest unnecessarily if the issue is technical rather than genuine. Another common mistake is sometimes using 無効 without explaining why, leaving the guest confused: the reason (expired, conditions not met, etc.) should be stated along with the declaration. Using 無効 as an opening statement should be avoided; the message should be framed with 確認させていただきます first.
 
 ---
 
@@ -44,5 +44,5 @@ The most common error is declaring something 無効 without first attempting to 
 
 **Correct Answer:** 無効 (invalid)
 
-**Explanation:** 無効 means the item cannot be accepted because it has expired, been cancelled, or falls outside its conditions, which makes it the direct negative counterpart to 有効 and unrelated to confirmation numbers or system approvals. Because the term carries an air of finality, always say 確認させていただきます first before declaring something 無効, since what looks invalid may be a chip-reading error, and a premature declaration embarrasses the guest unnecessarily.
+**Explanation:** 無効 means the item cannot be accepted because it has expired, been cancelled, or falls outside its conditions, which makes it the direct negative counterpart to 有効 and unrelated to confirmation numbers or system approvals. Because the term carries an air of finality, 確認させていただきます should be said first before declaring something 無効, since what looks invalid may be a chip-reading error, and a premature declaration embarrasses the guest unnecessarily.
 

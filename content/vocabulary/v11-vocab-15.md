@@ -6,9 +6,9 @@ title: 通話中 (tsuuwachuu)
 **Pronunciation:** [tsuu-wa-**CHUU**]
 **Register:** Formal, used in hotel telephone contexts
 
-通話中 means that a telephone line is currently in use. Either the person the caller wants is already on another call, or the line itself is occupied. Knowing this term matters because in hospitality, how one communicates this status is just as important as the information itself. A caller who hears 通話中です with no follow-up will immediately wonder what they are supposed to do next, and that moment of uncertainty is not the experience one want to create.
+通話中 means that a telephone line is currently in use. Either the person the caller wants is already on another call, or the line itself is occupied. Knowing this term matters because in hospitality, how one communicates this status is as important as the information itself. A caller who hears 通話中です with no follow-up will wonder what to do next, and that uncertainty should be avoided.
 
-The professional standard is simple: pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call one back?) or しばらくお待ちいただけますか (would one be able to wait a moment?) gives the caller a clear path forward. This two-part structure, status plus option, is a notable fundamental patterns in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留\n## Example Sentences
+The professional standard is to pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call one back?) or しばらくお待ちいただけますか (would one be able to wait a moment?) gives the caller a clear path forward. This two-part structure, status plus option, is a fundamental pattern in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留\n## Example Sentences
 
 **1.** ただいま通話中です。少々お待ちいただけますか。
 *Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.*
@@ -31,7 +31,7 @@ The professional standard is simple: pair the status with an action. ただい�
 
 ## Common Mistakes
 
-Stating 通話中です and stopping there leaves the caller in limbo, the follow-up offer is expected. 通話中 and 接続不良 (poor connection) are also not the same problem, and using the wrong term creates confusion. If someone cannot connect because the line is in use, that is 通話中. If the line is available but the audio keeps cutting out, that is 接続不良. Getting that distinction right also helps internal maintenance staff diagnose issues more accurately when escalating.
+Stating 通話中です and stopping there leaves the caller in limbo; the follow-up offer is expected. 通話中 and 接続不良 (poor connection) are not the same problem, and using the wrong term creates confusion. If someone cannot connect because the line is in use, that is 通話中. If the line is available but the audio keeps cutting out, that is 接続不良. Getting that distinction right helps internal maintenance staff diagnose issues more accurately when escalating.
 
 ---
 
@@ -47,4 +47,4 @@ Stating 通話中です and stopping there leaves the caller in limbo, the follo
 
 **Correct Answer:** 通話中 (line is busy / on a call)
 
-**Explanation:** 通話中 means the line is actively occupied by another call, which is different from 保留 as a mid-call waiting state, 切断 as a severed connection, and 転送 as a redirection action. Stating ただいま通話中でございます without a follow-up leaves the caller in limbo, so always pair it with an option: 折り返しご連絡いたしましょうか or しばらくお待ちいただけますか gives them a clear path forward.
+**Explanation:** 通話中 means the line is actively occupied by another call, which is different from 保留 as a mid-call waiting state, 切断 as a severed connection, and 転送 as a redirection action. Stating ただいま通話中でございます without a follow-up leaves the caller in limbo, so it should be paired with an option: 折り返しご連絡いたしましょうか or しばらくお待ちいただけますか gives them a clear path forward.

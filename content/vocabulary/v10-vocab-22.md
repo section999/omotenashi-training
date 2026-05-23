@@ -6,9 +6,9 @@ title: 返金 (henkin)
 **Pronunciation:** [hen-**kin**]
 **Register:** Formal -- standard in cancellation, billing correction, and checkout contexts
 
-返金 means returning money to a guest: a refund. It comes up most often after a cancellation, a billing error, an overpayment, or a service that wasn't delivered as promised. The guest arriving at a 返金 conversation is rarely in a cheerful mood. How one handles it will either repair their confidence in one's establishment or make things worse. A transparent, prompt, well-explained 返金 process can leave a guest feeling more positively about the property than they did before the problem happened.
+返金 means returning money to a guest: a refund. It comes up most often after a cancellation, a billing error, an overpayment, or a service that wasn't delivered as promised. The guest arriving at a 返金 conversation is rarely in a cheerful mood. How one handles it will either restore their confidence in the establishment or make things worse. A transparent, prompt, well-explained 返金 process can leave a guest feeling more positively about the property than before the problem occurred.
 
-When processing a 返金, confirm three pieces of information before proceeding: the eligible amount (based on one's cancellation policy or the billing correction), the return method (back to the original card, by bank transfer, or in cash), and the timeline (〇営業日以内に返金いたします). Giving all three in one clear statement prevents the follow-up calls that happen when guests are left wondering how much they'll get back or when. When a card refund will take several business days, provide written confirmation of the 返金 details so the guest has something concrete to refer to while they wait\n## Example Sentences
+When processing a 返金, confirm three pieces of information before proceeding: the eligible amount (based on one's cancellation policy or the billing correction), the return method (back to the original card, by bank transfer, or in cash), and the timeline (〇営業日以内に返金いたします). Giving all three in one clear statement prevents the follow-up calls that happen when guests are left wondering how much they will receive or when. When a card refund will take several business days, providing written confirmation of the 返金 details gives the guest a reference while they wait\n## Example Sentences
 
 **1.** キャンセルポリシーに基づき、〇〇円を返金いたします。
 *Kyanseru porishii ni motozuki, 〇〇-en o henkin itashimasu.*
@@ -31,7 +31,7 @@ When processing a 返金, confirm three pieces of information before proceeding:
 
 ## Common Mistakes
 
-Telling a guest that a 返金 will happen, without specifying the amount, method, or timeframe, creates anxiety and generates follow-up calls. Always bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. Never promise a 返金 before confirming what the cancellation policy allows; a promise one has to walk back later is worse than taking a moment to check first.
+Telling a guest that a 返金 will happen, without specifying the amount, method, or timeframe, creates uncertainty and generates follow-up calls. Staff should bundle all three pieces of information into a single statement. Watch out also for confusing 返金 with 返品 (henpin), which means returning a physical product and belongs to retail, not hospitality. A 返金 should not be promised before confirming what the cancellation policy allows; a promise that must be retracted later is worse than taking a moment to check first.
 
 ---
 

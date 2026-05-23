@@ -26,7 +26,7 @@ Unlike 報告 (which flows upward to supervisors), 連絡 is typically horizonta
 
 ## Common Mistakes
 
-The most common mistake is confusing 連絡 with 報告. Remember that 連絡 is about keeping others informed in the moment, while 報告 is a formal account of what has been completed or observed, directed upward. Another error is using 連絡する without honorific forms in guest-facing contexts, ご連絡いたします is the appropriate guest-facing phrase. Another common mistake is sometimes omit the particle に when saying who is being contacted: 上司に連絡する (contact the supervisor), not 上司を連絡する.
+The most common mistake is confusing 連絡 with 報告. 連絡 is about keeping others informed in the moment, while 報告 is a formal account of what has been completed or observed, directed upward. Another error is using 連絡する without honorific forms in guest-facing contexts; ご連絡いたします is the appropriate guest-facing phrase. Another common mistake is omitting the particle に when indicating who is being contacted: 上司に連絡する (contact the supervisor), not 上司を連絡する.
 
 ---
 

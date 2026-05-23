@@ -3,9 +3,9 @@ id: v11-vocab
 section: 35
 title: 説明します (setsumei shimasu)
 ---
-説明します means "I will explain," from the noun 説明 (explanation, description). The characters 説 (to speak, to explain) and 明 (clear, bright) together give one the idea of making something clear through words. In hotels one uses 説明します whenever one walk a guest through a procedure, a service, equipment, or a policy: check-out steps, room controls, breakfast times, cancellation terms. The formal guest-facing version is ご説明いたします, and that is the one staff should reach for by default. A confident, clear 説明 prevents a huge number of complaints that would otherwise arise from guests not understanding what to expect.
+説明します means "I will explain," from the noun 説明 (explanation, description). The characters 説 (to speak, to explain) and 明 (clear, bright) together give one the idea of making something clear through words. In hotels one uses 説明します whenever one walk a guest through a procedure, a service, equipment, or a policy: check-out steps, room controls, breakfast times, cancellation terms. The formal guest-facing version is ご説明いたします, and that is the recommended default for staff. A confident, clear 説明 prevents a significant number of complaints that would otherwise arise from guests not understanding what to expect.
 
-Effective 説明 follows a natural structure: tell the guest what one is about to explain, work through it in logical steps, and close with a clear summary phrase like 以上が〇〇のご説明でございます (that concludes the explanation of 〇〇). That closing matters more than it might seem, because it signals the guest that one is done and invites them to ask questions while the information is still fresh. On the telephone this structure is even more important since guests cannot see one's gestures or read one's facial expression to know when one has finished. Slow down, pause between key points, and always end with the summary close\n## Example Sentences
+Effective 説明 follows a structure: telling the guest what one is about to explain, working through it in logical steps, and closing with a summary phrase like 以上が〇〇のご説明でございます (that concludes the explanation of 〇〇). That closing matters because it signals to the guest that one is done and invites questions. On the telephone this structure is more important since guests cannot see one's gestures or read one's facial expression to know when one has finished. Slowing down, pausing between key points, and ending with the summary close is recommended\n## Example Sentences
 
 **1.** お部屋の設備についてご説明いたします。
 *Oheya no setsubi ni tsuite go-setsumei itashimasu.*
@@ -22,7 +22,7 @@ Effective 説明 follows a natural structure: tell the guest what one is about t
 
 ## Related Expressions
 
-- **ご案内いたします (go-annai itashimasu)**: "I will guide you." Closely related to ご説明いたします but with the emphasis on directional or locational guidance rather than informational content. Knowing when to use one versus the other helps one communicates with more precision in guest interactions.
+- **ご案内いたします (go-annai itashimasu)**: "I will guide you." Closely related to ご説明いたします but with the emphasis on directional or locational guidance rather than informational content. Knowing when to use one versus the other helps one communicate with more precision in guest interactions.
 - **ご確認ください (go-kakunin kudasai)**: "please confirm" or "please check." This phrase often follows a 説明 as a natural closing step, inviting the guest to verify they have understood before the conversation moves forward.
 
 

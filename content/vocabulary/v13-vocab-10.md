@@ -3,9 +3,9 @@ id: v13-vocab
 section: 10
 title: 休み (yasumi)
 ---
-休み refers to a day off, a scheduled day on which an employee is not required to work. In Japan's hospitality industry, which runs 365 days a year, managing 休み effectively matters for both staff well-being and operational continuity. Employees are entitled to a minimum number of 休み per week under the Labour Standards Act, and hotels have to build rosters carefully to honour those entitlements while keeping full service coverage. A 休み is an entire non-working day, rest, personal errands, leisure, distinct from 休憩, which is a break within a shift.
+休み refers to a day off, a scheduled day on which an employee is not required to work. In Japan's hospitality industry, which runs 365 days a year, managing 休み is important for both staff well-being and operational continuity. Employees are entitled to a minimum number of 休み per week under the Labour Standards Act, and hotels have to build rosters carefully to honour those entitlements while keeping full service coverage. A 休み is an entire non-working day, rest, personal errands, leisure, distinct from 休憩, which is a break within a shift.
 
-Japanese hospitality workers historically had fewer guaranteed 休み than workers in many other countries, partly due to cultural attitudes toward diligence and the round-the-clock demands of service. However, awareness of work-life balance has grown noticeably in recent years, and many hotel chains now actively promote proper 休み scheduling as part of employee wellness programmes. During peak tourism seasons, requests to come in on designated days off can increase, which makes clear communication between staff and supervisors all the more important\n## Example Sentences
+Japanese hospitality workers historically had fewer guaranteed 休み than workers in many other countries, partly due to cultural attitudes toward diligence and the round-the-clock demands of service. Awareness of work-life balance has grown in recent years, and many hotel chains now promote proper 休み scheduling as part of employee wellness programmes. During peak tourism seasons, requests to come in on designated days off can increase, which makes clear communication between staff and supervisors important\n## Example Sentences
 
 **1.** 明日は休みですので、出勤しません。
 *Ashita wa yasumi desu node, shukkin shimasen.*
@@ -28,7 +28,7 @@ Japanese hospitality workers historically had fewer guaranteed 休み than worke
 
 ## Common Mistakes
 
-The most frequent error is using 休み and 休憩 interchangeably. Telling a colleague「休みをとっています」during a lunch break is incorrect, the right phrase is「休憩中です」. Another thing to keep straight: 休み (a regular roster day off) is different from 有給休暇 (paid annual leave that must be formally requested). In hospitality HR contexts this distinction matters significantly, they appear differently on payroll records and require different processes to arrange.
+The most frequent error is using 休み and 休憩 interchangeably. Telling a colleague「休みをとっています」during a lunch break is incorrect; the correct phrase is「休憩中です」. Another important distinction is that 休み (a regular roster day off) is different from 有給休暇 (paid annual leave that must be formally requested). In hospitality HR contexts this distinction matters, as they appear differently on payroll records and require different processes to arrange.
 
 ---
 

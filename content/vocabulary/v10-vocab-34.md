@@ -3,9 +3,9 @@ id: v10-vocab
 section: 34
 title: 電子決済 (denshi kessai)
 ---
-電子決済 breaks down to 電子 (electronic) and 決済 (settlement or payment), and it covers all cashless payment done through digital means: smartphone apps like PayPay and LINE Pay, IC cards like Suica and PASMO, and contactless systems like Apple Pay and Google Pay. Japan's government has been actively pushing cashless adoption, so guests now expect to pay however is most convenient for them. Staff who can smoothly guide someone through these options leave a much stronger impression than those who shrug and say "cash only."
+電子決済 breaks down to 電子 (electronic) and 決済 (settlement or payment), and it covers all cashless payment done through digital means: smartphone apps like PayPay and LINE Pay, IC cards like Suica and PASMO, and contactless systems like Apple Pay and Google Pay. Japan's government has been actively pushing cashless adoption, so guests now expect to pay however is most convenient for them. Staff who can guide guests through these options leave a stronger impression than those who say "cash only."
 
-one needs to know which 電子決済 methods one's property accepts and where the correct terminal or QR code is for each one. When a transaction starts, confirm that the amount shown matches the bill before the guest confirms on their end, and always wait for the 決済完了 (payment complete) signal on one's own terminal before one let the guest go. However, systems do occasionally fail, so have a backup plan ready and offer alternatives calmly without making the situation feel like the guest's problem\n## Example Sentences
+Staff need to know which 電子決済 methods the property accepts and where the correct terminal or QR code is for each one. When a transaction starts, staff should confirm that the amount shown matches the bill before the guest confirms on their end, and wait for the 決済完了 (payment complete) signal on the terminal before letting the guest go. Systems do occasionally fail, so having a backup plan ready and offering alternatives calmly prevents the situation from feeling like the guest's problem\n## Example Sentences
 
 **1.** 電子決済はPayPayとクレジットカードがご利用いただけます。
 *Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.*
@@ -28,7 +28,7 @@ one needs to know which 電子決済 methods one's property accepts and where th
 
 ## Common Mistakes
 
-Additionally, to watch out for: assuming every guest already knows how 電子決済 works in Japan. Many international visitors use completely different apps or systems back home, so be ready to walk someone through the process from scratch. A common error is to also forget to wait for the 決済完了 confirmation before concluding the transaction, which can leave a payment uncollected. And never steer a guest toward one specific payment method; present the options available and let them choose.
+A common error is assuming every guest already knows how 電子決済 works in Japan. Many international visitors use different apps or systems back home, so staff should be ready to walk a guest through the process. Another common error is forgetting to wait for the 決済完了 confirmation before concluding the transaction, which can leave a payment uncollected. Staff should present the options available and let the guest choose, rather than steering them toward a specific method.
 
 ---
 

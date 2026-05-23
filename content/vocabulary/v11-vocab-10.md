@@ -6,9 +6,9 @@ title: 折り返し (orikaeshi)
 **Pronunciation:** [o-ri-**KA**-e-shi]
 **Register:** Formal, standard in hotel telephone service scripts
 
-折り返し translates as "folding back" or "returning," and in telephone communication it means a return call, reaching back out to someone after an initial contact could not be fully resolved. In Japanese hospitality, offering a 折り返し is not a way to get off the phone quickly. It is a genuine service commitment: the hotel is promising to reinitiate contact. That distinction matters. When one says 折り返しご連絡いたします, the guest hears "we have not forgotten you and we will call back." That phrase does a lot of work, but only if one follow through.
+折り返し translates as "folding back" or "returning," and in telephone communication it means a return call, reaching back out to someone after an initial contact could not be fully resolved. In Japanese hospitality, offering a 折り返し is not a way to get off the phone quickly. It is a service commitment: the hotel is promising to reinitiate contact. That distinction matters. When one says 折り返しご連絡いたします, the guest hears "we have not forgotten you and we will call back." That phrase carries weight, but only if one follows through.
 
-The most common mistake people make with 折り返し is leaving out the timeframe. saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. the timeframe is what the guest will hold one to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover, a missed callback is a notable trust-damaging failures in hotel communication, because the guest was told explicitly to expect one\n## Example Sentences
+The most common mistake with 折り返し is leaving out the timeframe. Saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. The timeframe is what the guest will hold staff to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover; a missed callback is a notable failure in hotel communication, because the guest was told explicitly to expect one\n## Example Sentences
 
 **1.** 担当者より1時間以内に折り返しご連絡いたします。
 *Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.*
@@ -31,7 +31,7 @@ The most common mistake people make with 折り返し is leaving out the timefra
 
 ## Common Mistakes
 
-a key important error to avoid is offering 折り返し without a timeframe. A callback promise without a "when" is just a polite way of saying nothing. A common error is to also confuse 折り返し (a new outgoing call made later) with 転送 (transferring an active call right now). However, the practical difference is obvious once one picture it: 転送 happens while the guest is still on the line, 折り返し happens after the call ends. Additionally: before one close any call that will need a callback, staff should confirm the guest's 電話番号. Overlooking that step makes the promise impossible to keep.
+A common error is offering 折り返し without a timeframe. A callback promise without a "when" is a polite way of saying nothing. Another common error is confusing 折り返し (a new outgoing call made later) with 転送 (transferring an active call right now). The difference is clear: 転送 happens while the guest is still on the line, 折り返し happens after the call ends. Before closing any call that will need a callback, staff should confirm the guest's 電話番号. Overlooking that step makes the promise impossible to keep.
 
 ---
 
@@ -48,4 +48,4 @@ a key important error to avoid is offering 折り返し without a timeframe. A c
 
 **Correct Answer:** 折り返し (call back / return call)
 
-**Explanation:** 折り返し specifically means the hotel reaches back out after an initial call could not be fully resolved, which is different from leaving a 伝言 for someone else, placing a caller on 保留 mid-call, or redirecting them via 転送. The promise only has real weight when you attach a timeframe, so pair it with 1時間以内に or 本日中に and treat pending callbacks as a standing commitment to be tracked and handed over at shift change.
+**Explanation:** 折り返し specifically means the hotel reaches back out after an initial call could not be fully resolved, which is different from leaving a 伝言 for someone else, placing a caller on 保留 mid-call, or redirecting them via 転送. The promise only has weight when a timeframe is attached, so it should be paired with 1時間以内に or 本日中に, and pending callbacks should be treated as a standing commitment to be tracked and handed over at shift change.

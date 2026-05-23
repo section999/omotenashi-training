@@ -28,7 +28,7 @@ In a hospitality context, 音声案内 appears whenever a hotel routes incoming 
 
 ## Common Mistakes
 
-A common mistake is to confuse 音声案内 with 留守番電話 (voicemail), but they are distinct: 音声案内 is a live routing system that guides callers to the right department, while 留守番電話 records messages when no one is available. Another common error is failing to offer personal assistance alongside the menu: saying 音声案内をお使いください without offering to guide the guest through it can feel cold and unhelpful.
+A common mistake is to confuse 音声案内 with 留守番電話 (voicemail), but they are distinct: 音声案内 is a live routing system that guides callers to the right department, while 留守番電話 records messages when no one is available. Another common error is failing to offer personal assistance alongside the menu: saying 音声案内をお使いください without offering to guide the guest through it can feel impersonal.
 
 ---
 
@@ -44,4 +44,4 @@ A common mistake is to confuse 音声案内 with 留守番電話 (voicemail), bu
 
 **Correct Answer:** 音声案内 (audio guidance)
 
-**Explanation:** 音声案内 is the automated voice menu that routes callers by prompting key presses, distinguishing it from 留守番電話 which records messages when no one is available, 担当者 as a live person, and 内線 as an internal extension number. When a guest sounds uncertain about the menu, stepping them through it personally, 音声案内で1番を押してください, is a small but memorable expression of omotenashi in telephone service.
+**Explanation:** 音声案内 is the automated voice menu that routes callers by prompting key presses, distinguishing it from 留守番電話 which records messages when no one is available, 担当者 as a live person, and 内線 as an internal extension number. When a guest sounds uncertain about the menu, stepping them through it personally, 音声案内で1番を押してください, is an expression of omotenashi in telephone service.

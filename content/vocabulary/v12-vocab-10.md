@@ -6,9 +6,9 @@ title: 安全 (anzen)
 **Pronunciation:** [**an**-zen]
 **Register:** Standard, used across all registers in both operational and guest-facing contexts
 
-安全 means the state of being free from harm, danger, or unacceptable risk. In Japanese workplace culture the principle of 安全第一 (anzen daichi, safety first) is deeply embedded, and hotels, ryokan, and restaurants are both legally and ethically bound to maintain safe environments for guests and staff alike. In omotenashi culture, 安全 goes beyond regulatory compliance. It is an expression of genuine care for the person in front of one. A guest cannot truly experience hospitality if they do not feel safe, which makes 安全 not just a checklist item but the foundation everything else rests on.
+安全 means the state of being free from harm, danger, or unacceptable risk. In Japanese workplace culture the principle of 安全第一 (anzen daichi, safety first) is deeply embedded, and hotels, ryokan, and restaurants are both legally and ethically bound to maintain safe environments for guests and staff alike. In omotenashi culture, 安全 goes beyond regulatory compliance. It expresses care for the person in front of one. A guest cannot experience hospitality if they do not feel safe, which makes 安全 not just a checklist item but the foundation everything else rests on.
 
-In daily operations, 安全 shows up in equipment inspections, food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. A common error is to think safety is someone else's job, but every staff member contributes by reporting hazards immediately, following established protocols, and proactively warning guests about risks like wet floors, slippery outdoor paths, or uneven tatami. Management's commitment to 安全 is visible through training programs, maintenance schedules, and a workplace culture where people feel safe to raise concerns without blame\n## Example Sentences
+In daily operations, 安全 shows up in equipment inspections, food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. A common error is to think safety is someone else's job; every staff member contributes by reporting hazards immediately, following established protocols, and proactively warning guests about risks like wet floors, slippery outdoor paths, or uneven tatami. Management's commitment to 安全 is visible through training programs, maintenance schedules, and a workplace culture where staff feel safe to raise concerns without blame\n## Example Sentences
 
 **1.** 安全を確保するため、全ての設備を点検しました。
 *Anzen wo kakuho suru tame, subete no setsubi wo tenken shimashita.*
@@ -31,7 +31,7 @@ In daily operations, 安全 shows up in equipment inspections, food hygiene prac
 
 ## Common Mistakes
 
-One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment, and that attitude needs to be genuine rather than just stated. Note: students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but they are not the same thing, and the distinction matters in hospitality because one can achieve one without the other. Additionally: it is best to avoid using 安全 as empty reassurance. Saying 「ご安心ください」 to a guest while ignoring an actual hazard is not just unhelpful, it actively damages trust and goes against the spirit of omotenashi.
+One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment. Students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but are not the same thing, and the distinction matters in hospitality because one can achieve one without the other. Using 安全 as empty reassurance should be avoided. Saying 「ご安心ください」 to a guest while ignoring an actual hazard damages trust and goes against the spirit of omotenashi.
 
 ---
 

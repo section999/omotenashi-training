@@ -5,7 +5,7 @@ title: 電話 (denwa)
 ---
 電話 is the word for telephone communication in any Japanese hospitality setting, covering everything from the guest-room handset to the front desk switchboard. In Japanese hotels and ryokan, the telephone is not merely a communication tool but an extension of the property's service promise. Guests expect calls to be answered promptly, courteously, and with the hotel name clearly stated. Learning 電話 in a hospitality context means learning the entire telephone culture of omotenashi service, because nearly every related term (内線, 外線, 転送, 保留) builds directly on this word.
 
-staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank one for calling), which is the standard opening greeting when answering. Dropping the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. A common error is to don't notice this at first. important: 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける, to make a call; 電話を受ける, to receive a call)\n## Example Sentences
+staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank one for calling), which is the standard opening greeting when answering. Dropping the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. A common error is to overlook this at first. 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける, to make a call; 電話を受ける, to receive a call)\n## Example Sentences
 
 **1.** お電話ありがとうございます。グランドホテル東京でございます。
 *Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.*
@@ -44,4 +44,4 @@ A common error is to forget to add お when referring to a guest's call, saying 
 
 **Correct Answer:** 電話 (telephone)
 
-**Explanation:** 電話 is the core word for telephone communication in hospitality, serving as the foundation for related terms like 内線, 外線, and 転送, whereas the other options name specific types of lines or infrastructure rather than the act or device of telephoning. In guest-facing speech, always use the honorific form お電話, since dropping it to plain 電話 sounds abrupt, and every phone answer should open with お電話ありがとうございます followed by the property name.
+**Explanation:** 電話 is the core word for telephone communication in hospitality, serving as the foundation for related terms like 内線, 外線, and 転送, whereas the other options name specific types of lines or infrastructure rather than the act or device of telephoning. In guest-facing speech, the honorific form お電話 should be used, since dropping it to plain 電話 sounds abrupt, and every phone answer should open with お電話ありがとうございます followed by the property name.

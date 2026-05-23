@@ -5,7 +5,7 @@ title: 教育 (kyouiku)
 ---
 教育 means education or training in the broadest sense, the ongoing process of developing an employee's knowledge, character, and professional capability. Where 研修 is a specific programme, 教育 is the whole philosophy of growing people within an organisation. In elite Japanese hotels and traditional ryokan, 教育 is understood as a career-spanning commitment. It starts at initial orientation and continues through to mentoring senior staff in the finer points of hospitality culture. The belief that employees should be continuously educated, not just trained for immediate tasks, runs deep in Japan's service industry.
 
-教育 in hospitality covers technical skills, how to prepare rooms, operate systems, mix cocktails, alongside interpersonal skills: how to read a guest's mood, when to speak and when to stay quiet. It also extends to cultural knowledge: regional customs, seasonal ceremonies, traditional aesthetics. A hotel that invests heavily in 教育 is telling both its employees and its guests that it values depth over convenience. Staff aren't just task-executors, they're ambassadors of a service philosophy\n## Example Sentences
+教育 in hospitality covers technical skills, how to prepare rooms, operate systems, mix cocktails, alongside interpersonal skills: how to read a guest's mood, when to speak and when to stay quiet. It also extends to cultural knowledge: regional customs, seasonal ceremonies, traditional aesthetics. A hotel that invests heavily in 教育 is telling both its employees and its guests that it values depth over convenience. Staff are not just task-executors but ambassadors of a service philosophy\n## Example Sentences
 
 **1.** 会社は従業員の教育に力を入れています。
 *Kaisha wa juugyouin no kyouiku ni chikara o irete imasu.*
@@ -26,7 +26,7 @@ title: 教育 (kyouiku)
 
 ## Common Mistakes
 
-A common error is using 教育 where 研修 or 指導 would be more precise. Saying「今日は教育があります」when one mean a specific afternoon training session sounds overly grand -「今日は研修があります」is what native speakers would say. The other thing to keep in mind: because 教育 carries the sense of shaping character and values, not just skills, it doesn't suit routine task instructions. Save it for the bigger picture.
+A common error is using 教育 where 研修 or 指導 would be more precise. Saying「今日は教育があります」when one means a specific afternoon training session sounds too broad in scope -「今日は研修があります」is more natural. Another consideration: because 教育 carries the sense of shaping character and values, not just skills, it does not suit routine task instructions. It is better reserved for broader developmental contexts.
 
 ---
 

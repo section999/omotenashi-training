@@ -28,7 +28,7 @@ a senior concierge or front desk supervisor will give 指導 by walking a new hi
 
 ## Common Mistakes
 
-A common mistake is to confuse 指導 with 教育 (kyouiku: education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors, it implies the speaker is the one guiding, so this would be disrespectful upward. Always use ご指導 with the honorific prefix when referring to the guidance one receive from someone above one.
+A common mistake is to confuse 指導 with 教育 (kyouiku: education/training), but 指導 implies active, ongoing mentorship directed at a specific person, while 教育 is broader institutional learning. Another error is using 指導する casually toward superiors, as it implies the speaker is the one guiding, which would be disrespectful when directed upward. One should use ご指導 with the honorific prefix when referring to the guidance one receives from someone above one.
 
 ---
 

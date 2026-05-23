@@ -6,9 +6,9 @@ title: 会議 (kaigi)
 **Pronunciation:** [ka-**i**-gi]
 **Register:** Formal, used in professional and internal hotel communication
 
-会議 is the word for a formal meeting or conference where participants come together to discuss plans, review performance, and make decisions. In hotel operations one will encounter 会議 at every level: morning briefings at the front desk, weekly operations reviews for managers, and monthly all-staff meetings where performance data and guest feedback get shared with the whole team. The formality of a 会議 is signalled by advance scheduling, a prepared agenda (議題, gidai), and usually a set of written minutes (議事録, gijiroku) produced afterwards. A common error is to assume any work conversation counts as a 会議, but the word carries real weight, so use it only when the meeting has structure and purpose.
+会議 is the word for a formal meeting or conference where participants come together to discuss plans, review performance, and make decisions. In hotel operations, 会議 is encountered at every level: morning briefings at the front desk, weekly operations reviews for managers, and monthly all-staff meetings where performance data and guest feedback get shared with the whole team. The formality of a 会議 is signalled by advance scheduling, a prepared agenda (議題, gidai), and usually a set of written minutes (議事録, gijiroku) produced afterwards. A common error is assuming any work conversation counts as a 会議. The word implies structure and purpose, so it should be used only when those elements are present.
 
-During a 会議, everyone is expected to speak concisely, listen without interrupting, and raise disagreements carefully so they do not disrupt group harmony (和, wa). A chairperson (司会, shikai) guides the flow. Note: is that in Japanese hotels, 会議 frequently crosses departmental lines, for example when coordinating a large banquet or preparing for a VIP arrival. Whoever attends should come with relevant data and be ready to follow up on any action items promptly\n## Example Sentences
+During a 会議, everyone is expected to speak concisely, listen without interrupting, and raise disagreements carefully so they do not disrupt group harmony (和, wa). A chairperson (司会, shikai) guides the flow. In Japanese hotels, 会議 frequently crosses departmental lines, for example when coordinating a large banquet or preparing for a VIP arrival. Attendees should come with relevant data and be ready to follow up on any action items promptly\n## Example Sentences
 
 **1.** 明日の会議は午前10時からフロントにて開催いたします。
 *Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.*
@@ -31,7 +31,7 @@ During a 会議, everyone is expected to speak concisely, listen without interru
 
 ## Common Mistakes
 
-A common error is to use 会議 and 打ち合わせ as if they mean the same thing, but they do not. 会議 implies a scheduled, agenda-driven meeting, while 打ち合わせ is a lighter, spontaneous coordination session between a few colleagues. Using 会議 for a quick two-person check-in will sound overly formal and slightly odd to native speakers. However, the bigger error to watch is register: saying 会議があります is fine internally, but in formal or guest-facing contexts one want 会議がございます instead.
+A common error is to use 会議 and 打ち合わせ as if they mean the same thing, but they do not. 会議 implies a scheduled, agenda-driven meeting, while 打ち合わせ is a lighter, spontaneous coordination session between a few colleagues. Using 会議 for a quick two-person check-in sounds overly formal to native speakers. Another important consideration is register: saying 会議があります is fine internally, but in formal or guest-facing contexts one should use 会議がございます instead.
 
 ---
 

@@ -25,7 +25,7 @@ title: 合計 (goukei)
 
 ## Related Expressions
 
-- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Note: is that presenting the 小計 as though it were the final amount is a common mistake -- always make clear whether the figure one is quoting is pre-tax or all-inclusive.
+- **小計 (shookei)**: subtotal; the sum before taxes and service charges are added. Presenting the 小計 as though it were the final amount is a common mistake -- staff should clarify whether the figure quoted is pre-tax or all-inclusive.
 - **内訳 (uchiwake)**: itemized breakdown; this comes before the 合計, showing exactly how the total was reached. Offering to walk a guest through the 内訳 before stating the 合計 is a considerate habit to develop.
 
 

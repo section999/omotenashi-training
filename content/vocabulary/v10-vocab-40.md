@@ -3,9 +3,9 @@ id: v10-vocab
 section: 40
 title: 確認番号 (kakunin bangou)
 ---
-確認番号 combines 確認 (confirmation or verification) and 番号 (number), giving one a unique alphanumeric or numeric code tied to a reservation, payment, or booking. Think of it as the single fastest way for both staff and guests to find a specific transaction without any ambiguity. Searching by name alone is slower and mistakes happen more often, because the same name can appear differently across different booking systems or be spelled multiple ways in romanized form.
+確認番号 combines 確認 (confirmation or verification) and 番号 (number), giving a unique alphanumeric or numeric code tied to a reservation, payment, or booking. It is the fastest way for both staff and guests to find a specific transaction without ambiguity. Searching by name alone is slower and more prone to mistakes, because the same name can appear differently across different booking systems or be romanized in multiple ways.
 
-Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, ask for it early so one can pull up the reservation instantly. However, not every guest will have it handy, and that's fine. Offer to look them up by email address, phone number, or arrival date, and do so graciously. Never make a guest feel like they've done something wrong by not memorizing their confirmation number\n## Example Sentences
+Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, staff should ask for it early so the reservation can be pulled up instantly. However, not every guest will have it handy. Staff should offer to look them up by email address, phone number, or arrival date, and do so graciously. A guest should never be made to feel they have done something wrong by not memorizing their confirmation number\n## Example Sentences
 
 **1.** 恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。
 *Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*
@@ -28,7 +28,7 @@ Guests typically receive a 確認番号 at the time of booking via email, SMS, o
 
 ## Common Mistakes
 
-A common error is to use 確認番号 and 予約番号 as if they're always the same thing, but some booking systems treat them as separate codes. A guest may have both, and asking for the wrong one creates unnecessary confusion. The other common misstep is repeating that the 確認番号 is required when a guest doesn't have it, which comes across as unhelpful and rigid. one's job is to find the reservation by whatever means available, so offer alternatives immediately and move forward without making the guest feel they've caused a problem.
+A common error is to use 確認番号 and 予約番号 as if they are always the same thing, but some booking systems treat them as separate codes. A guest may have both, and asking for the wrong one creates unnecessary confusion. Another common misstep is insisting that the 確認番号 is required when a guest does not have it, which comes across as unhelpful and rigid. The staff's role is to find the reservation by whatever means available, so alternatives should be offered immediately without making the guest feel they have caused a problem.
 
 ---
 
@@ -44,5 +44,5 @@ A common error is to use 確認番号 and 予約番号 as if they're always the 
 
 **Correct Answer:** 確認番号 (confirmation number)
 
-**Explanation:** 確認番号 is the unique alphanumeric code that pinpoints a specific reservation or payment, making it the fastest and most accurate lookup tool at the desk, unlike 伝票, 領収書, or 合計 which are billing documents rather than search references. When a guest provides one, pull up the reservation using it immediately, and if they do not have it, offer to search by email address or arrival date rather than making them feel they have done something wrong.
+**Explanation:** 確認番号 is the unique alphanumeric code that pinpoints a specific reservation or payment, making it the fastest and most accurate lookup tool at the desk, unlike 伝票, 領収書, or 合計 which are billing documents rather than search references. When a guest provides one, the reservation should be pulled up using it immediately; if they do not have it, staff should offer to search by email address or arrival date rather than making them feel they have done something wrong.
 

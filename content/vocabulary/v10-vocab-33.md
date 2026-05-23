@@ -3,9 +3,9 @@ id: v10-vocab
 section: 33
 title: バウチャー (bauchaa)
 ---
-バウチャー is a loanword from English, and in Japanese hospitality it refers to a document, printed or digital, that confirms prepayment for a specific service such as a hotel stay, meal plan, spa treatment, or tour. The key distinction students need to keep straight: a クーポン gives one a discount, but a バウチャー means the service has already been paid for in full, typically through a travel agency, online booking platform, or corporate account. Getting that difference wrong at the front desk can cause real billing headaches.
+バウチャー is a loanword from English, and in Japanese hospitality it refers to a document, printed or digital, that confirms prepayment for a specific service such as a hotel stay, meal plan, spa treatment, or tour. The key distinction is: a クーポン gives a discount, but a バウチャー means the service has already been paid for in full, typically through a travel agency, online booking platform, or corporate account. Getting that difference wrong at the front desk can cause billing complications.
 
-when a guest presents a バウチャー, one want to check three things before accepting it: that the guest's name matches, that the service and date are correct, and that it has not already been used. If anything looks off, verify with the issuing agency or booking system before proceeding. Once accepted, the バウチャー stays with the property and goes through the appropriate billing channel so one can collect payment from the issuing party\n## Example Sentences
+When a guest presents a バウチャー, staff should check three things before accepting it: that the guest's name matches, that the service and date are correct, and that it has not already been used. If anything appears incorrect, verification with the issuing agency or booking system should occur before proceeding. Once accepted, the バウチャー stays with the property and goes through the appropriate billing channel so payment can be collected from the issuing party\n## Example Sentences
 
 **1.** バウチャーをフロントにてご提示ください。
 *Bauchā o furonto nite goteiji kudasai.*
@@ -28,7 +28,7 @@ when a guest presents a バウチャー, one want to check three things before a
 
 ## Common Mistakes
 
-A common error is to mix up バウチャー and クーポン and treat them as the same thing, but accepting one where the other was required creates billing discrepancies that are difficult to resolve later. Note: as well: many learners rush through the verification step and accept a バウチャー without confirming all the details, then run into trouble when the booking agency's records do not match. Take the time to check the guest name, service type, date, and whether it has been used before one process anything.
+A common error is mixing up バウチャー and クーポン and treating them as the same thing, but accepting one where the other was required creates billing discrepancies that are difficult to resolve later. Another common error is rushing through the verification step and accepting a バウチャー without confirming all the details, then encountering trouble when the booking agency's records do not match. Staff should take the time to check the guest name, service type, date, and whether it has been used before processing anything.
 
 ---
 

@@ -8,7 +8,7 @@ title: 出勤 (shukkin)
 
 出勤 means to arrive at work or to come in for one's shift. Break down the kanji and the meaning is right there: 出 means "to go out / to come," and 勤 means "diligent service," so 出勤 is literally setting out to perform one's duties. In Japanese hospitality culture, punctuality is a baseline professional standard, not an aspiration. Arriving on time for 出勤 shows respect for one's colleagues, one's manager, and ultimately the guests who depend on fully staffed service. Many hotels and ryokan use electronic time-stamp systems (タイムカード) to record each employee's 出勤 time precisely.
 
-From a management perspective, 出勤 records let supervisors spot patterns of lateness, calculate actual working hours for payroll, and verify compliance with Japanese labour law requirements around minimum rest periods. For employees, the key shift in mindset is thinking of 出勤 as a formal obligation rather than "showing up." reliability shapes team trust and guest satisfaction in very direct ways, and in Japan's service industry that connection is taken seriously at every level\n## Example Sentences
+From a management perspective, 出勤 records let supervisors spot patterns of lateness, calculate actual working hours for payroll, and verify compliance with Japanese labour law requirements around minimum rest periods. For employees, the key shift in mindset is thinking of 出勤 as a formal obligation rather than "showing up." reliability directly affects team trust and guest satisfaction\n## Example Sentences
 
 **1.** 毎朝9時に出勤します。
 *Maiasa kuji ni shukkin shimasu.*
@@ -31,7 +31,7 @@ From a management perspective, 出勤 records let supervisors spot patterns of l
 
 ## Common Mistakes
 
-A common error is to confuse 出勤 with 出社 (arriving at the company office), which is specific to office environments. In hotel and service settings, 出勤 is the right term and 出社 can sound out of place. Additionally, to practise: 出勤 is almost always used with する, as 出勤する. Using it as a standalone noun in verbal contexts without the する sounds incomplete and unnatural to native speakers. Getting comfortable with 出勤する, 出勤しました, 出勤できない, and so on will serve one well.
+A common error is to confuse 出勤 with 出社 (arriving at the company office), which is specific to office environments. In hotel and service settings, 出勤 is the correct term and 出社 would be inappropriate. Additionally, for practice: 出勤 is almost always used with する, as 出勤する. Using it as a standalone noun in verbal contexts without the する sounds incomplete to native speakers. Practising with 出勤する, 出勤しました, 出勤できない, and so on is recommended.
 
 ---
 
