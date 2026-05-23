@@ -6,7 +6,7 @@ title: 空室 (kuushitsu)
 
 空室 means "vacant room" or "available room," and it is one of the most operationally important terms in front desk work. When a guest arrives without a reservation, or when a caller asks about availability, 空室 becomes the immediate focus of the conversation. Japanese hospitality culture places real emphasis on never dismissing a guest without first checking. Even when a fully booked period seems certain, taking the time to verify 空室 properly shows genuine effort. The word combines 空 (empty, vacant) and 室 (room), which gives you exactly what it says.
 
-In practice, 空室 appears most often in the phrase ただいま空室をお調べいたします, pairing the word with お調べ, the humble-polite form of 調べる (to check, to look into). That combination tells the guest clearly: I am working on this for you right now. Availability systems in modern hotels display 空室 status in real time, and staff need to relay that information both promptly and in language that matches the register of the interaction.
+空室 appears most often in the phrase ただいま空室をお調べいたします, pairing the word with お調べ, the humble-polite form of 調べる (to check, to look into). That combination tells the guest clearly: I am working on this for you right now. Availability systems in modern hotels display 空室 status in real time, and staff need to relay that information both promptly and in language that matches the register of the interaction.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, 空室 appears most often in the phrase ただいま空室をお調
 
 ## Common Mistakes
 
-Students sometimes respond to walk-in availability inquiries with 満室です before actually checking the system. That is a serious service error and one you want to avoid completely. Your default first response should always be ただいまお調べいたします, no matter how busy the period looks. Worth a mention on pronunciation: 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen. Speak carefully. One more thing: when stating how many rooms are available, make sure to use the correct counter suffix. Rooms are counted with 〜室 (shitsu), so 1室, 2室, 3室.
+Responding to walk-in availability inquiries with 満室です before actually checking the system is a serious service error. The default first response should always be ただいまお調べいたします, no matter how busy the period looks. On pronunciation, 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen — speak carefully. When stating how many rooms are available, use the correct counter suffix: rooms are counted with 〜室 (shitsu), so 1室, 2室, 3室.
 
 ---
 

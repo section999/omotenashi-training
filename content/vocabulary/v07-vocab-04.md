@@ -29,7 +29,7 @@ Beyond confirming availability, staff should be prepared to assist with valet pa
 
 ## Common Mistakes
 
-Students often confirm parking availability without providing the relevant details, such as the fee, height limit, and access procedure, which forces the guest to ask follow-up questions and disrupts the check-in flow. There is also a classic vocabulary mix-up: 満車 (full, no vacancy) is the opposite of 空車 (vacancy available), and confusing them causes serious misunderstandings. The register issue matters too. Avoid the blunt 「駐車場はあります」. The correct hospitality phrasing is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
+Confirming parking availability without providing the relevant details — such as the fee, height limit, and access procedure — forces the guest to ask follow-up questions and disrupts the check-in flow. A classic vocabulary mix-up: 満車 (full, no vacancy) is the opposite of 空車 (vacancy available), and confusing them causes serious misunderstandings. Regarding register, avoid the blunt 「駐車場はあります」. The correct hospitality phrasing is 「駐車場をご利用いただけます」 or 「駐車場をご用意しております」.
 
 ---
 
