@@ -4,36 +4,44 @@ section: 5
 title: Gift-Giving with International Guests
 ---
 
-International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where offering gifts at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully, without imposing Japanese customs or dismissing the guest's own, is a refined hospitality skill.
+International guests participate in gift-giving in ways shaped by their own cultural backgrounds. Some come from cultures where offering gifts at hotels or restaurants is unusual; others bring elaborate gifts as a matter of course. Navigating these differences gracefully — without imposing Japanese customs or dismissing the guest's own — is a refined hospitality skill.
 
-**When a guest from abroad presents a gift:**
+## When a Guest from Abroad Presents a Gift
 
-Do not assume the same ritual applies. Many guests from Western countries expect gifts to be opened immediately and reacted to warmly. Match their expectation: open the gift, express genuine appreciation, and engage with the item itself. Retreating into Japanese formality when a guest clearly wants a warm personal moment can feel cold and unwelcoming.
+Many guests from Western countries expect gifts to be opened immediately and responded to with warmth. In these situations, the appropriate response is to open the gift, express genuine appreciation, and engage with the item. Retreating into Japanese formality when a guest clearly wants a personal and warm moment will feel cold and unwelcoming.
 
-**Presenting a property gift to international guests:**
+## Presenting a Property Gift to International Guests
 
-If your property has a custom of presenting welcome gifts, brief explanations add enormous value for non-Japanese guests. A simple card or verbal note explaining the item, "This is yuzu bath salt from our local producers; yuzu is a Japanese citrus used in winter bathing traditions", transforms a gesture into an experience.
+When a property has a custom of presenting welcome gifts, brief explanations add significant value for non-Japanese guests. A short verbal note or card describing the item — for example, explaining that yuzu bath salt comes from local producers and is used in Japanese winter bathing traditions — transforms a gesture into an experience.
 
-**What to avoid:**
+## Cultural Considerations to Keep in Mind
 
-- **Giving an even number of items to Chinese guests**: in some contexts, even numbers (except four) are preferred; however, giving four of anything is highly inauspicious in Chinese culture, as in Japanese.
-- **Giving white flowers or chrysanthemums to many East Asian guests**: these are associated with funerals and mourning in several cultures.
-- **Giving alcohol to guests who may be Muslim**: always know your guest's background before selecting any food or drink gift.
-- **Giving leather goods to Hindu guests**: sacred cow considerations apply.
+When selecting gifts for guests from different backgrounds, be aware of the following:
 
-**The universal principle:**
+- **Giving sets of four to Chinese guests**: four is considered inauspicious in Chinese culture, as it is in Japanese, due to its association with death
+- **Giving white flowers or chrysanthemums to many East Asian guests**: these are associated with funerals and mourning across several cultures
+- **Giving alcohol to guests who may be Muslim**: always consider the guest's background before selecting any food or drink gift
+- **Giving leather goods to Hindu guests**: sacred cow considerations apply
 
-Every culture has some form of gift-giving, and every culture values the feeling of being thought about. Worth noting: technical correctness matters far less than sincerity and local meaning. A gift that carries a genuine story is appreciated anywhere.
+## The Universal Principle
+
+Every culture has some form of gift-giving, and every culture values the feeling of being thought about. Sincerity and the meaning behind a gift matter more than technical correctness. A gift that carries a genuine story is appreciated across all cultural contexts.
 
 ---
 
 ## Key Phrases
 
-**こちらは○○でございます。** *(Kochira wa ○○ de gozaimasu.)*
-"This is ○○.": used when presenting a property gift and explaining its meaning to international guests
+**こちらは○○でございます。**
+*Kochira wa ○○ de gozaimasu.*
+"This is ○○."
 
-**どうぞ、お受け取りください。** *(Dōzo, o-uketori kudasai.)*
-"Please accept this.": warm, clear offer when presenting a welcome gift
+Used when presenting a property gift and explaining its meaning to international guests. Replacing ○○ with the item's name or origin gives the guest context and makes the gift more meaningful.
+
+**どうぞ、お受け取りください。**
+*Dōzo, o-uketori kudasai.*
+"Please accept this."
+
+A warm, clear offer when presenting a welcome gift. The tone is inviting rather than ceremonial.
 
 ---
 

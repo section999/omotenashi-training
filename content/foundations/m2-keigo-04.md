@@ -4,11 +4,11 @@ section: 4
 title: Teineigo, The Foundation of Daily Politeness
 ---
 
-**Teineigo (丁寧語)** is the most accessible level of keigo and the one most hospitality professionals use constantly. It does not require memorising irregular verbs, it is built from the です (desu) and ます (masu) endings that transform plain speech into formal, polite language.
+Teineigo (丁寧語) is the most accessible level of keigo and the one hospitality professionals use in everyday interactions. It does not require memorising irregular verbs. It is built from the です (desu) and ます (masu) endings that transform plain speech into formal, polite language.
 
-Where sonkeigo and kenjōgo elevate or lower the subject of the action, teineigo is about the overall register of the conversation. It signals: *this is a formal interaction, and I am treating it with care.*
+Where sonkeigo and kenjōgo change the subject of the action, teineigo is about the overall register of the conversation. It signals that this is a formal interaction and that the staff member is treating it with care.
 
-Core teineigo patterns:
+## Core Teineigo Patterns
 
 | Plain form | Teineigo | Meaning |
 |---|---|---|
@@ -20,7 +20,9 @@ Core teineigo patterns:
 | あとで | のちほど | later |
 | さっき | さきほど | a moment ago |
 
-Worth noting: teineigo also involves choosing more formal vocabulary. *さっき* (a moment ago) becomes *さきほど*; *あとで* (later) becomes *のちほど*. These substitutions elevate even simple sentences without requiring complex grammatical changes. Students who start swapping in these words early tend to sound noticeably more polished very quickly.
+## Vocabulary Substitutions
+
+Teineigo also involves choosing more formal vocabulary. *さっき* (a moment ago) becomes *さきほど*; *あとで* (later) becomes *のちほど*. These substitutions elevate even simple sentences without requiring complex grammatical changes.
 
 Teineigo is the minimum standard in hospitality environments. Sonkeigo and kenjōgo layer on top of it for the most formal or important interactions.
 
@@ -28,10 +30,29 @@ Teineigo is the minimum standard in hospitality environments. Sonkeigo and kenj�
 
 ## Key Phrases
 
-**のちほど** *(nochihodo)*: "later" (formal); replaces casual *ato de* in polite speech
-**さきほど** *(sakihodo)*: "a moment ago" (formal); replaces casual *sakki*
-**ただいま** *(tadaima)*: "right now / at this moment" (formal); replaces casual *ima*
-**よろしい** *(yoroshii)*: "good / acceptable" (formal); replaces casual *ii*
+**のちほど**
+*Nochihodo.*
+"Later" (formal).
+
+Replaces casual *ato de* in polite speech. A small substitution that immediately raises the register of a sentence.
+
+**さきほど**
+*Sakihodo.*
+"A moment ago" (formal).
+
+Replaces casual *sakki* when referring to something that just occurred.
+
+**ただいま**
+*Tadaima.*
+"Right now / at this moment" (formal).
+
+Replaces casual *ima* and is commonly used when confirming that something is being attended to immediately.
+
+**よろしい**
+*Yoroshii.*
+"Good / acceptable" (formal).
+
+Replaces casual *ii* and is used when confirming a guest's request or preference.
 
 ---
 

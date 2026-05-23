@@ -4,36 +4,50 @@ section: 5
 title: Shift Handover and Team Communication Standards
 ---
 
-A hospitality property operates continuously, but the people within it do not. Shift changes are among the highest-risk moments for service failure: information that existed in one person's knowledge disappears when they leave, and the incoming team begins at a disadvantage. A strong handover system closes this gap.
+A hospitality property operates continuously, but the people within it do not. Shift changes are among the highest-risk moments for service failure. Information that existed in one person's knowledge disappears when they leave, and the incoming team begins at a disadvantage. A strong handover system closes this gap.
 
-**The shift briefing (申し送り, *mōshiokuri*):**
+## The Shift Briefing (申し送り, Mōshiokuri)
 
-At the end of each shift, the outgoing team communicates the state of the property to the incoming team. A good mōshiokuri covers:
+At the end of each shift, the outgoing team communicates the state of the property to the incoming team. A thorough mōshiokuri covers:
 
 - **Guest status**: Who has checked in, who is expected, who has special requirements or ongoing requests.
-- **Open issues**: Complaints not yet fully resolved, requests pending fulfillment, maintenance issues affecting guest areas.
+- **Open issues**: Complaints not yet fully resolved, requests pending fulfilment, maintenance issues affecting guest areas.
 - **Notable interactions**: A guest who was unhappy, a VIP who requires extra attention, a first-time visitor who expressed interest in a particular experience.
-- **Operational notes**: Any changes to the day's service: a function in one of the event spaces, a menu item that is unavailable, a colleague who is absent.
+- **Operational notes**: Any changes to the day's service — a function in an event space, a menu item that is unavailable, a colleague who is absent.
 
-**The standard for written communication:**
+## The Standard for Written Communication
 
-Shift notes should be clear, factual, and brief. The recipient should be able to read and act on them immediately without needing clarification. A note that says "Room 412, unhappy about noise last night, said so at breakfast" is useful. A note that says "some guest complained" is not.
+Shift notes should be clear, factual, and brief. The recipient should be able to read and act on them immediately without needing clarification.
 
-**Communication culture:**
+A note that says "Room 412, unhappy about noise last night, mentioned it at breakfast" is useful. A note that says "some guest complained" is not. Specific, actionable information is what allows the incoming team to provide continuity of care.
 
-The best teams build a culture where information is shared freely and without blame. In practice, staff who feel that reporting a problem will result in punishment will begin to conceal problems, and concealed problems reach guests. That said, this is worth saying directly: if your team culture makes people afraid to surface bad news, your guests will eventually feel it.
+## Communication Culture
+
+The best teams build a culture where information is shared freely and without blame. When staff feel that reporting a problem will lead to negative consequences, they begin to conceal problems. Concealed problems eventually reach guests.
+
+A team culture where surfacing bad news is treated as responsible rather than punishable is essential to consistent, high-quality service.
 
 ---
 
 ## Key Phrases
 
-**申し送り (mōshiokuri)**: shift briefing; the formal transfer of guest status, open issues, and operational notes from the outgoing to the incoming team
+**申し送り (mōshiokuri)**
+*Mōshiokuri.*
+"Shift briefing."
 
-**○○号室のお客様はチェックアウトが遅れる予定でございます。** *(○○-gōshitsu no o-kyakusama wa chekku-auto ga okureru yotei de gozaimasu.)*
-"The guest in room ○○ is expected to check out late.": the clear, factual format recommended for shift notes; specific and immediately actionable
+The formal transfer of guest status, open issues, and operational notes from the outgoing to the incoming team. A complete mōshiokuri ensures the incoming team can deliver continuity of care from the first moment of their shift.
 
-**引き続きよろしくお願いいたします。** *(Hikitsuzuki yoroshiku o-negai itashimasu.)*
-"I leave the rest in your capable hands.": the standard closing phrase when completing a verbal shift handover to an incoming colleague
+**○○号室のお客様はチェックアウトが遅れる予定でございます。**
+*○○-gōshitsu no o-kyakusama wa chekku-auto ga okureru yotei de gozaimasu.*
+"The guest in room ○○ is expected to check out late."
+
+An example of the clear, factual format recommended for shift notes. It identifies the guest by room, states the relevant fact, and gives the incoming team exactly the information they need to act.
+
+**引き続きよろしくお願いいたします。**
+*Hikitsuzuki yoroshiku o-negai itashimasu.*
+"I leave the rest in your capable hands."
+
+The standard closing phrase when completing a verbal shift handover to an incoming colleague. It acknowledges the transition respectfully and signals that the briefing is complete.
 
 ---
 

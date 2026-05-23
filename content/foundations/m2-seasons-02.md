@@ -8,32 +8,47 @@ Spring in Japan is defined by **sakura (桜)**, the cherry blossom, and the conc
 
 For hospitality professionals, spring presents rich opportunities to create meaningful, memorable guest experiences.
 
-**Seasonal greetings (March–May):**
-- *"春らしい陽気になってまいりました。"*, "The weather has begun to feel like spring."
-- *"桜の季節を迎え、心よりお喜び申し上げます。"*, "We are delighted to welcome you in this cherry blossom season."
+## Seasonal Greetings
 
-**Environment:**
-- Pale pink and white floral arrangements, cherry blossom branches in minimalist vases are ideal.
-- Spring themes in room amenities: green tea from the season's first harvest (一番茶, *ichibancha*), sakura-flavoured sweets (*wagashi*).
-- Light, airy table linens in cream or pale greens.
+The following phrases are appropriate from March through May:
 
-**Food and drink:**
-- Spring vegetables: bamboo shoots (*takenoko*), spring cabbage, fiddlehead ferns (*warabi*).
-- Sakura-flavoured desserts, spring miso soup, light dashi broths.
-- New season green tea, particularly the prized *shincha* (新茶), which arrives in April–May.
+- *春らしい陽気になってまいりました。* "The weather has begun to feel like spring."
+- *桜の季節を迎え、心よりお喜び申し上げます。* "We are delighted to welcome you in this cherry blossom season."
 
-**Service attitude in spring:**
-Spring carries a mood of fresh beginnings. Guests visiting in this season often associate the trip with a milestone: a graduation trip, a new job, a first anniversary. Be attentive to the emotional weight the season carries for them. In practice, it may matter more than you initially expect.
+## Seasonal Environment
+
+Spring decorations and amenities reflect the lightness and freshness of the season:
+
+- Pale pink and white floral arrangements; cherry blossom branches in minimalist vases
+- Green tea from the season's first harvest (一番茶, *ichibancha*) as a room amenity
+- Sakura-flavoured sweets (*wagashi*) presented with tea service
+- Light, airy table linens in cream or pale greens
+
+## Seasonal Food and Drink
+
+- Spring vegetables: bamboo shoots (*takenoko*), spring cabbage, fiddlehead ferns (*warabi*)
+- Sakura-flavoured desserts, spring miso soup, light dashi broths
+- New season green tea, particularly the prized *shincha* (新茶), which arrives in April and May
+
+## Service Attitude in Spring
+
+Spring carries a mood of fresh beginnings. Guests visiting in this season often associate the trip with a personal milestone: a graduation, a new start, a first anniversary. The emotional weight of the season for the guest may be significant, and attentive service should reflect that.
 
 ---
 
 ## Key Phrases
 
-**春らしい陽気になってまいりました。** *(Haru rashii yōki ni natte mairimashita.)*
+**春らしい陽気になってまいりました。**
+*Haru rashii yōki ni natte mairimashita.*
 "The weather has begun to feel like spring."
 
-**桜の季節を迎え、心よりお喜び申し上げます。** *(Sakura no kisetsu wo mukae, kokoro yori o-yorokobi mōshiagemasu.)*
+A natural opening for spring conversations with guests. It acknowledges the season and establishes a warm, attentive tone.
+
+**桜の季節を迎え、心よりお喜び申し上げます。**
+*Sakura no kisetsu wo mukae, kokoro yori o-yorokobi mōshiagemasu.*
 "We are delighted to welcome you in this cherry blossom season."
+
+A more formal spring greeting that connects the guest's visit directly to the beauty of the season. It is appropriate for written correspondence and formal welcome moments.
 
 ---
 

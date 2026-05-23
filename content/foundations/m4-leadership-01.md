@@ -6,32 +6,42 @@ title: Leading by Example
 
 In Japanese workplace culture, authority is communicated not through declaration but through action. The most respected leaders in hospitality do not merely direct others: they model, in their own daily practice, the standards they want to see from their team. This principle, sometimes described as *mite manabu* (見て学ぶ, "learning by watching"), is deeply embedded in Japanese professional culture and has particular significance in the context of omotenashi.
 
-### The Senpai Responsibility
+## The Senpai Responsibility
 
 In Japanese workplaces, the *senpai* (先輩, senior colleague) carries a significant responsibility toward the *kōhai* (後輩, junior colleague). This is not simply a hierarchy of rank. It is a relationship of care and transmission. The senpai passes on not just technical skills, but values, sensibility, and professional identity. The kōhai, in turn, learns primarily by observing: watching how the senpai handles a difficult guest interaction, how they carry themselves during a quiet moment, how they respond when something goes wrong.
 
 This means senior staff are teaching constantly, even when they are not trying to. Every action is observed. Every decision is noted. Every moment of care or carelessness models something for the people around you.
 
-### What Modelling Looks Like in Practice
+## What Modelling Looks Like in Practice
 
 In practice, leading by example in hospitality means:
 
-- **Maintaining standards when it is inconvenient.** The leader who greets every guest with full presence at the end of a twelve-hour shift sets the bar for what professional conduct actually means.
-- **Showing care for colleagues as well as guests.** The leader who notices when a junior colleague is struggling and quietly offers support builds a culture of mutual care.
-- **Being the first to acknowledge a mistake.** In a culture where saving face matters, a senior staff member who takes responsibility without deflection gives junior staff permission to do the same.
-- **Never allowing personal mood to show on the floor.** Whatever is happening personally or professionally, a leader brings full composure to every guest interaction.
+- Maintaining standards when it is inconvenient. The leader who greets every guest with full presence at the end of a twelve-hour shift sets the bar for what professional conduct actually means.
+- Showing care for colleagues as well as guests. The leader who notices when a junior colleague is struggling and quietly offers support builds a culture of mutual care.
+- Being the first to acknowledge a mistake. In a culture where saving face matters, a senior staff member who takes responsibility without deflection gives junior staff permission to do the same.
+- Never allowing personal mood to show on the floor. Whatever is happening personally or professionally, a leader brings full composure to every guest interaction.
 
-### The Ripple Effect
+## The Ripple Effect
 
-Leadership by example works like a quiet ripple: each person's conduct influences the people around them, and those people influence others. A team that observes its senior colleagues maintaining high standards in every small moment gradually takes those standards as their own. Students often ask how culture is built in a hospitality team. This is how. Over time, the work of a good leader becomes invisible, because the entire team now leads by example.
+Leadership by example works like a quiet ripple: each person's conduct influences the people around them, and those people influence others. A team that observes its senior colleagues maintaining high standards in every small moment gradually takes those standards as their own.
+
+Over time, the work of a good leader becomes invisible, because the entire team now leads by example. Culture is not announced — it is demonstrated.
 
 ---
 
 ## Key Phrases
 
-**見て学ぶ (mite manabu)**: "learning by watching"; the traditional Japanese approach to professional transmission, in which junior staff learn primarily by observing senior colleagues in action
+**見て学ぶ**
+*Mite manabu.*
+"Learning by watching."
 
-**率先垂範 (sessen suihan)**: "leading by taking the initiative"; a classical expression for the leader who acts rather than instructs: the person who does what they ask others to do
+The traditional Japanese approach to professional transmission, in which junior staff learn primarily by observing senior colleagues in action.
+
+**率先垂範**
+*Sessen suihan.*
+"Leading by taking the initiative."
+
+A classical expression for the leader who acts rather than instructs: the person who does what they ask others to do.
 
 ---
 

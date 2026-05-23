@@ -4,32 +4,45 @@ section: 1
 title: Why Appearance is Service
 ---
 
-In Japanese hospitality, **身だしなみ (midashinami)**, personal appearance and grooming, is treated as an act of service, not vanity. Before you say a single word, a guest has already drawn conclusions about the property based on how you look. That is not unfair of them. It is human, and you should expect it.
+In Japanese hospitality, **身だしなみ (midashinami)** refers to professional grooming and personal presentation. It is understood as an act of service rather than vanity. Before a staff member speaks a single word, a guest has already formed an impression of the property based on how that person looks.
 
-This is not about superficial aesthetics. It is about the message that physical presentation sends. A guest who walks into a hotel and sees a staff member with a dishevelled uniform, poor posture, or a distracted expression has already received information about the property. That information is negative, and no amount of cheerful conversation will fully undo the first impression.
+This is not about superficial aesthetics. It is about the message that physical presentation sends. A guest who sees a staff member in a dishevelled uniform, with poor posture, or a distracted expression has already received a signal about the property. That signal is difficult to reverse through conversation alone.
 
-**Midashinami vs. *oshare* (おしゃれ):**
+## Midashinami and Oshare
 
-Japanese culture draws a clear distinction between these two concepts:
+Japanese culture draws a clear distinction between two concepts:
 
-- **Oshare** is personal style, dressing to please yourself, to express individuality.
-- **Midashinami** is professional grooming, presenting yourself to put others at ease.
+- **Oshare (おしゃれ)** is personal style — dressing to express individuality.
+- **Midashinami (身だしなみ)** is professional grooming — presenting yourself to put others at ease.
 
-In a hospitality context, midashinami takes precedence. The staff member's personal preferences are set aside in favour of the comfort and reassurance of the guest. A perfectly ironed uniform that the wearer finds boring is superior to a fashionably personalised one that distracts or unsettles. That said, this is not about suppressing who you are. It is about choosing the right context for self-expression, and the guest-facing floor is not that context.
+In a hospitality context, midashinami takes precedence. The staff member's personal preferences are set aside in favour of the comfort and reassurance of the guest. A neatly pressed uniform that the wearer finds plain is more appropriate than a personalised one that distracts or unsettles. This is not about suppressing identity. It is about choosing the right context for self-expression, and the guest-facing floor is not that context.
 
-**The silent message:**
+## The Silent Message
 
-Every element of appearance communicates something before you open your mouth. Polished shoes say "I care about detail." A clean, pressed uniform says "this property has standards." Standing straight says "I am present and attentive." Hair that is neat and away from the face says "I am focused on you, not on myself." One more thing to keep in mind: guests notice when something is slightly off, even if they cannot name what it is. They just feel it.
+Every element of appearance communicates something before a word is spoken.
 
-The guest absorbs all of this before you speak. Appearance is the first moment of service.
+- Polished shoes signal attention to detail.
+- A clean, pressed uniform signals that the property has standards.
+- Upright posture signals presence and attentiveness.
+- Hair that is neat and away from the face signals focus on the guest.
+
+Guests absorb these cues before any interaction begins. Appearance is the first moment of service.
 
 ---
 
 ## Key Phrases
 
-**身だしなみ (midashinami)**: professional grooming to put others at ease; distinct from personal style (*oshare*)
+**身だしなみ**
+*Midashinami.*
+"Professional grooming."
 
-**所作 (shosa)**: manner of movement and deportment; the non-verbal language of professionalism
+This term describes the practice of presenting oneself to put others at ease. It is distinct from personal style and is considered a fundamental part of hospitality professionalism.
+
+**所作**
+*Shosa.*
+"Manner of movement and deportment."
+
+This word refers to the non-verbal language of professionalism — how a person moves, stands, and carries themselves in a guest-facing environment.
 
 ---
 

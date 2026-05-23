@@ -4,36 +4,45 @@ section: 2
 title: Mentoring Junior Staff
 ---
 
-The transmission of omotenashi from one generation of hospitality professionals to the next is one of the most important functions a senior staff member performs. Technical skills, how to fold a napkin, how to present a bill, how to handle a check-in, can be taught in a training session. That said, the deeper dimensions of omotenashi, the sensitivity, the intuition, the genuine care that separates a skilled professional from a merely competent one, are transmitted through relationship, over time, through sustained mentoring.
+The transmission of omotenashi from one generation of hospitality professionals to the next is one of the most important functions a senior staff member performs. Technical skills — how to fold a napkin, how to present a bill, how to handle a check-in — can be taught in a training session. The deeper dimensions of omotenashi, the sensitivity, the intuition, the genuine care that separates a skilled professional from a merely competent one, are transmitted through relationship, over time, through sustained mentoring.
 
-### What Mentoring Is Not
+## What Mentoring Is Not
 
 Mentoring is not supervision. Supervision monitors compliance with standards. Mentoring grows capability, confidence, and professional identity. A supervisor asks: "Did you do it correctly?" A mentor asks: "What did you notice? What would you do differently next time? How did that interaction feel to you?"
 
 Mentoring is also not correction. Constantly pointing out every mistake in the moment creates self-consciousness that gets in the way of the natural presence required for excellent hospitality. Good mentors find the right time and setting for developmental feedback, and balance it carefully with genuine recognition of what is going well.
 
-### The Core Practice of Mentoring
+## The Core Practice of Mentoring
 
-Effective mentoring in a hospitality context involves three recurring practices:
+Effective mentoring in a hospitality context involves three recurring practices.
 
-**1. Debriefing after significant interactions**
-After a challenging guest interaction, a complaint, a VIP arrival, a special request, a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
+### Debriefing After Significant Interactions
 
-**2. Narrating your own practice**
-When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed, did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
+After a challenging guest interaction — a complaint, a VIP arrival, a special request — a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
 
-**3. Creating space for questions**
+### Narrating Your Own Practice
+
+When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed — did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
+
+### Creating Space for Questions
+
 In Japanese workplace culture, junior colleagues are often reluctant to admit uncertainty or ask questions. A good mentor creates a relationship safe enough for questions to be asked freely, and models, through their own curiosity and humility, that not knowing is the beginning of learning, not a mark against professionalism.
 
 ---
 
 ## Key Phrases
 
-**どう感じましたか (dō kanjimashita ka)** *(Dō kanjimashita ka?)*
-"How did it feel to you?": a mentoring question that invites reflection rather than just recollection; develops the emotional intelligence that underpins excellent hospitality
+**どう感じましたか**
+*Dō kanjimashita ka?*
+"How did it feel to you?"
 
-**一緒に考えましょう (issho ni kangaemasho)** *(Issho ni kangaemasho.)*
-"Let us think about it together.": an invitation to collaborative reflection; positions the mentor as a co-learner rather than an authority, making the relationship safe for honest inquiry
+A mentoring question that invites reflection rather than just recollection. It develops the emotional intelligence that underpins excellent hospitality.
+
+**一緒に考えましょう**
+*Issho ni kangaemasho.*
+"Let us think about it together."
+
+An invitation to collaborative reflection. It positions the mentor as a co-learner rather than an authority, making the relationship safe for honest inquiry.
 
 ---
 

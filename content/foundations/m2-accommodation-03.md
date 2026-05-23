@@ -4,11 +4,11 @@ section: 3
 title: Turndown Service, The Evening Ritual
 ---
 
-**Turndown service** is the quiet transformation of a guest room from a daytime living space into an invitation for rest. In a ryokan, this often means laying out the futon while the guest is at dinner. It is a deeply personal act of preparation that the guest returns to find already done, as if by invisible hands.
+Turndown service is the quiet transformation of a guest room from a daytime living space into an invitation for rest. In a ryokan, this often means laying out the futon while the guest is at dinner. It is a deeply personal act of preparation that the guest returns to find already done.
 
-That invisibility is the whole point. The best turndown service is felt, not seen. The guest did not watch it happen. They only experience the result: a room that seems to have arranged itself around their comfort.
+The invisibility of the service is central to its effect. The guest did not watch it happen. They only experience the result: a room that seems to have arranged itself around their comfort.
 
-**Standard turndown tasks:**
+## Standard Turndown Tasks
 
 - **Futon preparation**: Lay the futon on the tatami in the correct orientation, head away from the tokonoma. Feet should never point toward it. In Western-style rooms, fold back the duvet at a diagonal, leaving a clean triangle for the guest to slip into.
 - **Yukata arrangement**: Fold the yukata neatly and lay it at the foot of the bed or beside the futon.
@@ -17,18 +17,25 @@ That invisibility is the whole point. The best turndown service is felt, not see
 - **Amenities**: Replace used towels, replenish toiletries, and position a fresh glass of water or a warm drink on the nightstand.
 - **Small gestures**: A seasonal wagashi (Japanese sweet) on the pillow, or a folded origami crane. Small touches that tell the guest someone was here and thought of them.
 
-**Timing:**
-Turndown is typically done while guests are at dinner. Coordinate with the dining team to make sure the room is ready before the guest comes back. Worth noting: a guest who returns to find their room not yet turned down has not just experienced a housekeeping issue. They have experienced a failure of teamwork. The timing is a shared responsibility across departments.
+## Timing and Coordination
+
+Turndown is typically done while guests are at dinner. Coordinate with the dining team to confirm the room is ready before the guest returns. A guest who comes back to find the room not yet turned down has not just experienced a housekeeping issue — they have experienced a failure of teamwork. The timing is a shared responsibility across departments.
 
 ---
 
 ## Key Phrases
 
-**失礼いたします。お布団をご用意いたします。** *(Shitsurei itashimasu. O-futon wo go-yōi itashimasu.)*
+**失礼いたします。お布団をご用意いたします。**
+*Shitsurei itashimasu. O-futon wo go-yōi itashimasu.*
 "Excuse me. I will prepare your futon."
 
-**お部屋のご準備が整いました。** *(O-heya no go-junbi ga totonoimashita.)*
+Used when entering a room to perform turndown service. It acknowledges the guest's space and communicates the purpose of the visit clearly and politely.
+
+**お部屋のご準備が整いました。**
+*O-heya no go-junbi ga totonoimashita.*
 "Your room is now ready."
+
+This phrase informs the guest that turndown is complete. It can be used when notifying a guest directly or when confirming readiness with a colleague.
 
 ---
 

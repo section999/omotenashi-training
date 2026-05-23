@@ -4,28 +4,50 @@ section: 2
 title: Sensing the Right Moment
 ---
 
-Timing is everything in service. The same action, offering a refill, asking if the guest needs anything, presenting the bill, lands completely differently depending on when it is done. Too early, and it feels presumptuous or disruptive. Too late, and it reads as inattentiveness. The skill of sensing the right moment is one of the most difficult to teach and the most valuable to possess. It requires sustained, gentle attention: not staring, not hovering, but maintaining a quiet awareness of where the guest is and what they might need next.
+Timing is everything in service. The same action — offering a refill, asking if the guest needs anything, presenting the bill — lands completely differently depending on when it is done. Too early, and it feels presumptuous or disruptive. Too late, and it reads as inattentiveness. The skill of sensing the right moment is one of the most difficult to teach and the most valuable to possess. It requires sustained, gentle attention: not staring, not hovering, but maintaining a quiet awareness of where the guest is and what they might need next.
 
-### Reading the Rhythm of a Meal
+## Reading the Rhythm of a Meal
 
-A formal meal has a rhythm: arrival, settling, reading the menu, ordering, eating, resting, finishing. An experienced server reads this rhythm and moves with it, not against it. They do not approach a guest who has just taken their first sip of soup to ask if everything is all right. They do not bring the dessert menu while the guest is still engaged in deep conversation over the main course. They wait, not passively, but actively, until the natural pause arrives.
+A formal meal has a rhythm: arrival, settling, reading the menu, ordering, eating, resting, finishing. An experienced server reads this rhythm and moves with it, not against it.
 
-### The Pause as an Opening
+Examples of timing that respects the guest's rhythm:
 
-Every interaction has natural pauses. A guest sets down their chopsticks. A couple finishes a topic of conversation. A solo diner looks up from their book. These are the openings, the moments when attention is available and an approach will be welcomed rather than resented. Learning to recognise these openings requires practice. That said, it begins with a shift in how you think about your role: instead of asking *when do I need to do something*, ask *when is the guest ready to receive it*.
+- Not approaching a guest who has just taken their first sip of soup to ask if everything is all right
+- Not bringing the dessert menu while the guest is still engaged in deep conversation over the main course
 
-### Anticipation Without Intrusion
+The server waits — not passively, but actively — until the natural pause arrives.
 
-The highest form of timing is anticipatory, acting before the guest even realises they need something. Refilling a water glass before the guest notices it is low. Bringing an extra napkin when a guest orders a dish that is typically messy. Adjusting the air conditioning before the guest has to ask. This is not mind-reading; it is attentive pattern recognition, developed through experience and genuine care. In Japanese hospitality, this quality is sometimes described as *ki ga tsuku* (気が付く), "noticing" or "becoming aware." It is a small word for a very large skill.
+## The Pause as an Opening
+
+Every interaction has natural pauses. A guest sets down their chopsticks. A couple finishes a topic of conversation. A solo diner looks up from their book. These are the openings — the moments when attention is available and an approach will be welcomed rather than resented.
+
+Learning to recognise these openings requires a shift in how the role is understood: instead of asking *when do I need to do something*, ask *when is the guest ready to receive it*.
+
+## Anticipation Without Intrusion
+
+The highest form of timing is anticipatory — acting before the guest even realises they need something:
+
+- Refilling a water glass before the guest notices it is low
+- Bringing an extra napkin when a guest orders a dish that is typically messy
+- Adjusting the air conditioning before the guest has to ask
+
+This is not mind-reading. It is attentive pattern recognition, developed through experience and genuine care. In Japanese hospitality, this quality is described as *ki ga tsuku* (気が付く) — "noticing" or "becoming aware." It is a small phrase for a very large skill.
 
 ---
 
 ## Key Phrases
 
-**気が付く (ki ga tsuku)**: to notice, to become aware; the attentiveness that allows a staff member to anticipate needs before they are expressed
+**気が付く**
+*Ki ga tsuku.*
+"To notice, to become aware."
 
-**少々お待ちくださいませ (shōshō o-machi kudasaimase)** *(Shōshō o-machi kudasaimase.)*
-"Please wait just a moment.": used when the moment is not yet right for an action, signalling that you are aware and attending without forcing the pace
+The attentiveness that allows a staff member to anticipate needs before they are expressed.
+
+**少々お待ちくださいませ。**
+*Shōshō o-machi kudasaimase.*
+"Please wait just a moment."
+
+Used when the moment is not yet right for an action, signalling awareness and care without forcing the pace.
 
 ---
 

@@ -4,35 +4,49 @@ section: 5
 title: Following Up, Rebuilding Trust
 ---
 
-Most people consider a service failure "resolved" the moment the guest says thank you and walks away. In Japanese hospitality, that moment is actually the beginning of the next phase, not the end. A single good recovery interaction does not rebuild trust on its own. Trust is rebuilt in the hours and days that follow, through the steady, quiet evidence that you meant what you said.
+Most people consider a service failure "resolved" the moment the guest says thank you and walks away. In Japanese hospitality, that moment is actually the beginning of the next phase, not the end. A single good recovery interaction does not rebuild trust on its own. Trust is rebuilt in the hours and days that follow, through the steady, quiet evidence that the apology reflected real values.
 
-This is the stage students most often skip, and it shows.
+This final stage is also the one most commonly skipped — and its absence is noticeable.
 
-### Why Following Up Matters
+## Why Following Up Matters
 
-A guest who has experienced a service failure carries that with them through the rest of their stay. They may be a little quieter at dinner. They may hesitate before asking for something. Whether they say so or not, they are watching to see whether your apology reflected real values or was just a way to close the complaint. A brief follow-up answers that question without you having to say a word about it: *We care about your experience the whole time you are here, not only when something goes wrong.*
+A guest who has experienced a service failure carries that experience with them through the rest of their stay. They may be a little quieter at dinner or hesitate before asking for something. Whether they say so or not, they are watching to see whether the apology was genuine or simply a way to close the complaint.
 
-### How to Follow Up
+A brief follow-up answers that question without a word being said about it. It communicates: we care about your experience the whole time you are here, not only when something goes wrong.
 
-**Timing:** Follow up within a few hours of the resolution, at the next natural interaction point. For a dining complaint, check in during dessert. For a front desk issue, a short call to the room that evening is appropriate.
+## How to Follow Up
 
-**Tone:** Warm, brief, and genuine. Not clinical, not administrative. You are not running through a checklist. You are showing continued care: "I wanted to make sure everything has been comfortable for you since this morning. We are very glad you are with us."
+### Timing
 
-**Handover:** If your shift ends before the follow-up moment arrives, make sure the incoming colleague knows the situation and is ready to follow up on your behalf. That seamless transfer of care is itself a form of service.
+Follow up within a few hours of the resolution, at the next natural interaction point. For a dining complaint, check in during dessert. For a front desk issue, a short call to the room that evening is appropriate.
 
-### Closing the Loop
+### Tone
 
-That said, the end of a stay is a natural moment to close the loop. At check-out, if the guest seems open to it, a brief, sincere acknowledgement is appropriate: "We hope the rest of your stay was comfortable. Your feedback was genuinely valuable to us, and we hope to welcome you again." This is not a scripted line. It is the last word in a conversation that began when the guest trusted you enough to speak up.
+Keep it warm, brief, and genuine — not clinical or administrative. The goal is to show continued care: "I wanted to make sure everything has been comfortable for you since this morning. We are very glad you are with us."
+
+### Handover
+
+If your shift ends before the follow-up moment arrives, make sure the incoming colleague knows the situation and is ready to follow up on your behalf. That seamless transfer of care is itself a form of service.
+
+## Closing the Loop
+
+The end of a stay is a natural moment to close the loop. At check-out, if the guest seems open to it, a brief and sincere acknowledgement is appropriate: "We hope the rest of your stay was comfortable. Your feedback was genuinely valuable to us, and we hope to welcome you again." This is the last word in a conversation that began when the guest trusted you enough to speak up.
 
 ---
 
 ## Key Phrases
 
-**その後いかがでしょうか (sono go ikaga deshō ka)** *(Sono go ikaga deshō ka?)*
-"How have things been since then?": the gentle follow-up question used to check in after a service recovery; opens the door for the guest to share without pressure
+**その後いかがでしょうか。**
+*Sono go ikaga deshō ka?*
+"How have things been since then?"
 
-**またのお越しを心よりお待ち申し上げております (mata no o-koshi wo kokoro yori o-machi mōshiagete orimasu)** *(Mata no o-koshi wo kokoro yori o-machi mōshiagete orimasu.)*
-"We sincerely look forward to welcoming you again.": a farewell that, after a service recovery, carries additional weight; it shows that the relationship continues beyond this stay
+This is the gentle follow-up question used to check in after a service recovery. It opens the door for the guest to share how they are feeling without any pressure.
+
+**またのお越しを心よりお待ち申し上げております。**
+*Mata no o-koshi wo kokoro yori o-machi mōshiagete orimasu.*
+"We sincerely look forward to welcoming you again."
+
+After a service recovery, this farewell carries additional weight. It communicates that the relationship continues beyond this stay.
 
 ---
 

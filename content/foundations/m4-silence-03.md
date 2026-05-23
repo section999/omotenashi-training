@@ -4,36 +4,47 @@ section: 3
 title: The Art of Waiting
 ---
 
-In many service environments, waiting is treated as idle time, a gap between tasks. In Japanese hospitality, waiting is itself a task. The art of waiting means remaining present, attentive, and composed while holding space for the guest to occupy at their own pace. It means resisting the reflex to fill every moment with activity, conversation, or noise. It means understanding that the guest's rhythm is the primary rhythm, and your role is to move within it, not ahead of it.
+In many service environments, waiting is treated as idle time — a gap between tasks. In Japanese hospitality, waiting is itself a task. The art of waiting means remaining present, attentive, and composed while holding space for the guest to occupy at their own pace. It means resisting the reflex to fill every moment with activity, conversation, or noise. The guest's rhythm is the primary rhythm, and the role of the professional is to move within it, not ahead of it.
 
-### What Waiting Looks Like
+## What Waiting Looks Like
 
-Proper waiting is invisible. A guest should not be able to tell that staff are waiting, they should simply find that, whenever they need something, someone appears. This apparent effortlessness is the product of careful, constant attention. Staff who wait well do not stand with crossed arms or check their watches. They maintain an open, calm posture. Their eyes are soft, taking in the whole room rather than fixating on one point. They are ready to move the moment the situation calls for it, but they do not project urgency or impatience.
+Proper waiting is invisible. A guest should not be able to tell that staff are waiting — they should simply find that, whenever they need something, someone appears. This apparent effortlessness is the product of careful, constant attention.
 
-### Restraint as Skill
+Staff who wait well do not stand with crossed arms or check their watches. They maintain an open, calm posture. Their eyes are soft, taking in the whole room rather than fixating on one point. They are ready to move the moment the situation calls for it, but they do not project urgency or impatience.
 
-The hardest part of waiting is restraint: resisting the urge to act before the moment is right. Students often feel they should be doing *something* at all times, and interpret stillness as laziness. In practice, senior staff understand that premature action is worse than no action. An over-eager approach, appearing at the table too often, asking "is everything alright?" three times during a single course, shows anxiety, not care. It draws the guest's attention to the staff rather than allowing the guest to sink into their own experience.
+## Restraint as Skill
 
-### The Three Qualities of Good Waiting
+The hardest part of waiting is restraint: resisting the urge to act before the moment is right. Premature action is worse than no action. An over-eager approach — appearing at the table too often, asking "is everything alright?" three times during a single course — shows anxiety, not care. It draws the guest's attention to the staff rather than allowing the guest to sink into their own experience.
 
-**Readiness**, physical and mental preparedness to act the moment the moment arrives\
-**Awareness**, a continuous, gentle monitoring of the environment and the guest's state\
-**Stillness**, an internal composure that does not project need, impatience, or distraction onto the guest
+Senior professionals understand this. Stillness is not laziness; it is preparation.
+
+## The Three Qualities of Good Waiting
+
+- **Readiness** — physical and mental preparedness to act the moment the moment arrives
+- **Awareness** — a continuous, gentle monitoring of the environment and the guest's state
+- **Stillness** — an internal composure that does not project need, impatience, or distraction onto the guest
 
 These three qualities together create what the best hospitality professionals have always had: presence without pressure.
 
-### A Practical Exercise
+## A Practical Exercise
 
-At the start of your next shift, consciously slow your default pace by ten percent. Notice what you observe when you are not rushing between tasks. Notice how much information is available in the pauses, who is almost finished, who is looking for something, who seems uncomfortable. The art of waiting begins with slowing down enough to see.
+At the start of a shift, consciously slow your default pace by ten percent. Notice what becomes visible when you are not rushing between tasks — who is almost finished, who is looking for something, who seems uncomfortable. The art of waiting begins with slowing down enough to see.
 
 ---
 
 ## Key Phrases
 
-**お客様のペースで (o-kyaku-sama no pēsu de)**: "At the guest's pace": the internal orientation that governs how waiting is approached; the guest's rhythm, not the staff member's schedule, sets the pace
+**お客様のペースで**
+*O-kyaku-sama no pēsu de.*
+"At the guest's pace."
 
-**ただいま参ります (tadaima mairimasu)** *(Tadaima mairimasu.)*
-"I will be right with you.": a calm, unhurried acknowledgement that signals attentiveness without creating pressure
+The internal orientation that governs how waiting is approached. The guest's rhythm, not the staff member's schedule, sets the pace.
+
+**ただいま参ります。**
+*Tadaima mairimasu.*
+"I will be right with you."
+
+A calm, unhurried acknowledgement that signals attentiveness without creating pressure.
 
 ---
 

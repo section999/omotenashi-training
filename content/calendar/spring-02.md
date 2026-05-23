@@ -4,48 +4,47 @@ section: 2
 title: New Fiscal & Academic Year (新年度 Shinnendo), April 1
 ---
 
-**Season:** Spring · March, May
+**Season:** Spring · March to May
 
-Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and employees, *shinjin sha-in* (新入社員, new company members), begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
+Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and new employees — *shinjin sha-in* (新入社員) — begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
 
-**The emotional landscape:**
+## The Emotional Landscape
 
-The energy of this period is a complex mix of celebration, anxiety, and excitement. A parent accompanying a child to university for the first time is simultaneously proud and grieving. A new company employee arriving in a city they do not know is simultaneously excited and nervous. A veteran employee who has been transferred away from a familiar role may feel ambivalent. Reading the specific emotional tone of each guest, and responding to it, is more nuanced than simply applying a congratulatory mode to everyone.
+The energy of this period is a complex mix of celebration, anxiety, and excitement. A parent accompanying a child to university for the first time is simultaneously proud and grieving. A new employee arriving in an unfamiliar city is simultaneously excited and nervous. A veteran staff member who has been transferred may feel ambivalent about the change.
 
-**Who you are likely to see:**
+Reading the specific emotional tone of each guest and responding to it is more nuanced than applying a congratulatory mode to everyone in the lobby.
 
-- **Families with young adults and boxes**: likely accompanying a new university student moving into accommodation. Warm, celebratory tone; offer any assistance with the logistics of the day.
-- **Formally dressed solo guests**: likely new employees or transferred staff. Professional warmth; do not probe for personal details but be ready to assist with local information.
-- **Groups with flowers and gifts**: likely a farewell gathering for a departing colleague. Give them space; offer attentive, unobtrusive service.
+## Who You Are Likely to See
 
-**Service guidance:**
+- **Families with young adults and boxes** — likely accompanying a new university student moving into accommodation. A warm, celebratory tone is appropriate; offer practical help with the logistics of the day.
+- **Formally dressed solo guests** — likely new employees or transferred staff. Professional warmth is right; do not probe for personal details, but be ready to assist with local information.
+- **Groups with flowers and gifts** — likely a farewell gathering for a departing colleague. Give them space and offer attentive, unobtrusive service.
 
-The congratulatory greeting is genuinely meaningful in this context, but only when used with awareness. Offering *ご入学おめでとうございます* (congratulations on your enrollment) to a family that is clearly not in that situation is awkward. Read the context before deploying a specific greeting.
+## Service Guidance
+
+Congratulatory greetings are genuinely meaningful in this context, but only when used with awareness. Offering *ご入学おめでとうございます* to a family that is clearly not in that situation is awkward. Read the context before using a specific greeting.
 
 ---
 
-## Seasonal Greetings
+## Key Phrases
 
-**For new enrollment:**
-ご入学おめでとうございます。
-
+**ご入学おめでとうございます。**
 *Go-nyūgaku omedetō gozaimasu.*
-
 "Congratulations on your enrollment."
 
-**For starting a new position:**
-ご就職おめでとうございます。
+Use this with families who are clearly accompanying a new student. The recognition of the occasion makes the moment feel seen and celebrated.
 
+**ご就職おめでとうございます。**
 *Go-shūshoku omedetō gozaimasu.*
-
 "Congratulations on your new position."
 
-**General spring/new beginning:**
-新年度のスタートを心よりお祝い申し上げます。
+Appropriate for guests who are clearly beginning a new professional role. A brief, warm delivery is more effective than an elaborate exchange.
 
+**新年度のスタートを心よりお祝い申し上げます。**
 *Shinnen-do no sutāto wo kokoro yori o-iwai mōshiagemasu.*
-
 "We sincerely congratulate you on the start of the new year."
+
+This more formal expression works when the specific circumstances are unclear but the transitional context of April is evident.
 
 ---
 

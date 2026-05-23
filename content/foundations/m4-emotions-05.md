@@ -4,54 +4,73 @@ section: 5
 title: Responding to Emotional Cues
 ---
 
-Reading emotional cues is only half the skill. The harder half is responding in a way that feels natural, warm, and unobtrusive, so the guest never senses they are being handled. They should simply feel that someone noticed and cared. That distinction, between being managed and being cared for, is exactly what separates good service from genuine omotenashi.
+Reading emotional cues is only half the skill. The harder half is responding in a way that feels natural, warm, and unobtrusive — so the guest never senses they are being handled. They should simply feel that someone noticed and cared. That distinction, between being managed and being cared for, is exactly what separates good service from genuine omotenashi.
 
-### Match Your Response to the Signal
+## Match Your Response to the Signal
 
-**When you detect mild discomfort**
+### When You Detect Mild Discomfort
+
 Approach quietly and offer without assumption:
+
 > "Would you like me to adjust anything for you?"
 
 Do not name what you observed. Do not say "you looked uncomfortable." Simply offer.
 
-**When you detect confusion**
+### When You Detect Confusion
+
 Slow down. Use simpler language or a visual aid. Offer to repeat:
+
 > 「もう一度ご説明してもよろしいでしょうか？」
 > "May I explain that once more?"
 
-**When you detect sadness or emotional distress**
-This requires particular sensitivity. A guest who is visibly upset from personal circumstances, not service issues, deserves space, not inquiry. A quiet nod, a warm expression, and gentle attentiveness without intrusion is the right response.
+### When You Detect Sadness or Emotional Distress
 
-**When a guest is frustrated**
-Do not match their energy. Lower your own voice slightly. Slow your pace. Maintain calm, open body language. This physiological contrast often has a calming effect on the other person. It works, even when it feels counterintuitive.
+A guest who is visibly upset from personal circumstances — not service issues — deserves space, not inquiry. A quiet nod, a warm expression, and gentle attentiveness without intrusion is the appropriate response.
 
-### Emotional Regulation for Staff
+### When a Guest is Frustrated
 
-In practice, staying grounded when a guest is upset is much harder than it sounds. Your role is not to absorb the emotion but to remain stable enough that your presence itself becomes calming. Before you respond to a frustrated guest, take a slow breath and bring your attention back to what the person actually needs, not how they are expressing it. Open, neutral posture helps. Reminding yourself that the guest's frustration is about the situation, not about you personally, helps even more.
+Do not match their energy. Lower your own voice slightly and slow your pace. Maintain calm, open body language. This physiological contrast tends to have a settling effect on the other person, even when it feels counterintuitive.
 
-### The Gold Standard Response
+## Emotional Regulation for Staff
 
-Regardless of what emotional cue you detect, the gold standard response combines:
+Staying grounded when a guest is upset is genuinely demanding. The role is not to absorb the emotion but to remain stable enough that your presence itself becomes calming.
 
-1. **Calm presence**, you are not rattled
-2. **Genuine warmth**, your concern is real
-3. **Practical action**, you offer or do something concrete
-4. **Discretion**, no fuss, no audience, no drama
+Before responding to a frustrated guest:
 
-> A guest should never feel managed. They should feel cared for.
+- Take a slow breath and return attention to what the person actually needs, not how they are expressing it
+- Open, neutral posture reinforces calm
+- Recognising that the guest's frustration is about the situation, not about you personally, helps maintain perspective
+
+## The Gold Standard Response
+
+Regardless of what emotional cue is detected, the gold standard response combines four elements:
+
+1. **Calm presence** — you are not rattled
+2. **Genuine warmth** — your concern is real
+3. **Practical action** — you offer or do something concrete
+4. **Discretion** — no fuss, no audience, no drama
 
 ---
 
 ## Key Phrases
 
-**もう一度ご説明してもよろしいでしょうか。** *(Mō ichido go-setsumei shite mo yoroshii deshō ka.)*
-"May I explain that once more?": used when a guest appears confused; offers to repeat information without making the guest feel slow or at fault; preserves dignity while ensuring understanding
+**もう一度ご説明してもよろしいでしょうか。**
+*Mō ichido go-setsumei shite mo yoroshii deshō ka.*
+"May I explain that once more?"
 
-**いかがでしょうか。** *(Ikaga deshō ka.)*
-"How does that seem?" or "Would that suit you?": a gentle probe used after offering an alternative or adjustment; invites the guest to respond without pressure; useful when detecting mild discomfort and proposing a solution
+Used when a guest appears confused. This phrase offers to repeat information without making the guest feel at fault. It preserves dignity while ensuring understanding.
 
-**ご不便をおかけして申し訳ございません。** *(Go-fuben o okake shite mōshiwake gozaimasen.)*
-"I am sorry for the inconvenience.": used when acknowledging a guest's frustration without argument or escalation; spoken calmly and with open body language as part of de-escalation
+**いかがでしょうか。**
+*Ikaga deshō ka.*
+"How does that seem?" or "Would that suit you?"
+
+A gentle probe used after offering an alternative or adjustment. It invites the guest to respond without pressure, and is particularly useful when proposing a solution to mild discomfort.
+
+**ご不便をおかけして申し訳ございません。**
+*Go-fuben o okake shite mōshiwake gozaimasen.*
+"I am sorry for the inconvenience."
+
+Used when acknowledging a guest's frustration without argument or escalation. Spoken calmly and with open body language, it forms part of a de-escalation response.
 
 ---
 

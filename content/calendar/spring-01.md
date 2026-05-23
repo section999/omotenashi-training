@@ -4,44 +4,44 @@ section: 1
 title: Sakura Season, Cherry Blossom Viewing (花見 Hanami)
 ---
 
-**Season:** Spring · Late March, Early May
+**Season:** Spring · Late March to Early May
 
-From late March through mid-April, Japan's cherry blossoms transform cities and countryside alike into something extraordinary. This is one of the peak foreign tourist seasons, and Japanese guests arrive in a celebratory, emotionally elevated mood. Parks fill with *hanami* (花見, flower-viewing) picnickers, and the atmosphere throughout the country is festive, communal, and tinged with the awareness that the blossoms will not last.
+From late March through mid-April, Japan's cherry blossoms transform cities and countryside into something extraordinary. This is one of the peak foreign tourist seasons, and Japanese guests arrive in a celebratory, emotionally elevated mood. Parks fill with *hanami* (花見, flower-viewing) picnickers, and the atmosphere throughout the country is festive, communal, and tinged with the awareness that the blossoms will not last.
 
-**The cultural meaning:**
+## The Cultural Meaning
 
-Sakura season is deeply bound up with the concept of **mono no aware (物の哀れ)**, the bittersweet beauty of things that do not last. Cherry blossoms bloom for only one to two weeks, and the falling of the petals is considered as beautiful as the full bloom. Guests who have travelled specifically to see the cherry blossoms are often in a heightened emotional state, they know the window is brief and they want to use every day well.
+Sakura season is deeply connected to the concept of **mono no aware (物の哀れ)**, the bittersweet beauty of impermanent things. Cherry blossoms bloom for only one to two weeks, and the falling of the petals is considered as beautiful as the full bloom.
 
-**Hospitality implications:**
+Guests who have travelled specifically to see the cherry blossoms know the window is brief. They want to make use of every day, and the emotional stakes of each outing are high.
 
-This means your recommendations must be both timely and specific. "The sakura are beautiful at the park this year" is not enough. Guests want to know: *where are the best viewing spots? Are they at peak right now, or will they peak in two days? Are they already falling?* The answers to these questions change daily and are weather-dependent. Front-line staff should know today's conditions as a matter of professional duty.
+## Hospitality Implications
 
-**Service touches for sakura season:**
+Recommendations must be both timely and specific. Guests want to know where the best viewing spots are, whether the blossoms are at peak right now or will peak in two days, and whether they are already beginning to fall. These answers change daily and depend on weather conditions.
 
-- Have umbrellas ready, spring showers are frequent during bloom, and a guest who misses the peak because they got soaked will remember it
+Front-line staff should know today's bloom conditions as a matter of professional duty, not as optional local knowledge.
+
+## Service Touches for Sakura Season
+
+- Have umbrellas ready at the entrance — spring showers are frequent during bloom, and a guest who misses the peak because of rain will remember it
 - Offer sakura-themed seasonal sweets (*wagashi*) with afternoon tea
-- Arrange early-morning or early-evening viewing recommendations, these are less crowded and the light is softer
-- For guests celebrating anniversaries or milestones during sakura season, a brief note acknowledging the occasion connects the property to the emotional weight of their visit
+- Recommend early-morning or early-evening viewing times — these are less crowded and the light is softer
+- For guests celebrating anniversaries or milestones during sakura season, a brief note acknowledging the occasion connects the property to the emotional significance of their visit
 
 ---
 
-## Seasonal Greeting
+## Key Phrases
 
-今年の桜はとても綺麗ですね。
-
+**今年の桜はとても綺麗ですね。**
 *Kotoshi no sakura wa totemo kirei desu ne.*
-
 "The cherry blossoms are especially beautiful this year, aren't they."
 
----
+This phrase opens a warm, seasonal exchange with any guest during sakura season. It acknowledges the moment you are both sharing.
 
-**Extended conversation opener:**
-
-今が見頃ですので、ぜひお時間があればお花見をお楽しみください。
-
+**今が見頃ですので、ぜひお時間があればお花見をお楽しみください。**
 *Ima ga migorō desu no de, zehi o-jikan ga areba o-hanami wo o-tanoshimi kudasai.*
+"They are at their peak right now — please do enjoy the blossom viewing if you have time."
 
-"They are at their peak right now, please do enjoy the blossom viewing if you have time."
+Use this when conditions are confirmed. It gives the guest both a recommendation and a gentle sense of timing.
 
 ---
 

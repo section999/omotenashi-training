@@ -4,17 +4,18 @@ section: 3
 title: Posture and Movement, How You Walk and Stand
 ---
 
-**所作 (shosa)**, manner of movement and deportment, is as much a part of Japanese hospitality as what you say or what you serve. The way a person moves through a space tells you a great deal about their state of mind, their attentiveness, and their respect for the environment and the people in it.
+**所作 (shosa)**, manner of movement and deportment, is as much a part of Japanese hospitality as what is said or served. The way a person moves through a space conveys a great deal about their attentiveness, professionalism, and respect for the environment and the people in it.
 
-**Standing posture:**
+## Standing Posture
 
-The standard hospitality standing posture is upright but not rigid. Feet are together or slightly apart (shoulder-width), weight distributed evenly. Hands are held in front of the body, right hand over left, or loosely clasped, never in pockets, behind the back, or crossed over the chest. The chest is open, the chin is level, and the gaze is forward and attentive.
+The standard hospitality standing posture is upright but not rigid. Feet are together or slightly apart, with weight distributed evenly. Hands are held in front of the body — right hand over left, or loosely clasped — and never in pockets, behind the back, or crossed over the chest. The chest is open, the chin is level, and the gaze is forward and attentive.
 
-Here's the thing: guests read all of these cues instantly, below the level of conscious thought. Hands in pockets project disengagement. Arms crossed project defensiveness. Slouching suggests the person would rather be elsewhere.
+Guests read these cues immediately, often below the level of conscious thought. Hands in pockets project disengagement. Crossed arms project defensiveness. Slouching suggests inattention.
 
-**Walking:**
+## Walking
 
-Move with purpose and calm, not hurried, not ambling. In guest-facing areas, movement should be quiet. Students often underestimate how much this matters. Avoid:
+Move with purpose and calm — not hurried, not ambling. In guest-facing areas, movement should be quiet. Avoid:
+
 - Running (suggests loss of control)
 - Loud footsteps (suggests inattention to the environment)
 - Cutting across a guest's path without acknowledgment
@@ -22,19 +23,25 @@ Move with purpose and calm, not hurried, not ambling. In guest-facing areas, mov
 
 When passing a guest in a corridor, slow slightly, make eye contact, and offer a small nod or bow. This acknowledges the guest's presence without interrupting their movement.
 
-**In small spaces:**
+## In Small Spaces
 
-When passing a colleague or entering a space where a guest is seated, indicate awareness with a slight bow and, where appropriate, a quiet *"失礼いたします"* (shitsurei itashimasu), "Excuse me / pardon my intrusion." This phrase is used whenever you enter a guest's personal space.
+When entering a space where a guest is seated, or passing closely through a narrow area, indicate awareness with a slight bow and a quiet **失礼いたします (shitsurei itashimasu)** — "Excuse me / pardon my intrusion." This phrase is used whenever entering a guest's personal space.
 
 ---
 
 ## Key Phrases
 
-**失礼いたします。** *(Shitsurei itashimasu.)*
-"Excuse me.": said when entering a guest's space, passing in a corridor, or any minor social intrusion
+**失礼いたします。**
+*Shitsurei itashimasu.*
+"Excuse me."
 
-**足元にお気をつけください。** *(Ashimoto ni o-ki wo tsukete kudasai.)*
-"Please watch your step.": said when guiding guests near steps or uneven surfaces
+Said when entering a guest's space, passing in a corridor, or making any minor social intrusion. It signals awareness and respect for the guest's personal environment.
+
+**足元にお気をつけください。**
+*Ashimoto ni o-ki wo tsukete kudasai.*
+"Please watch your step."
+
+Said when guiding guests near steps, uneven surfaces, or any area where footing may be uncertain.
 
 ---
 

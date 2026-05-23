@@ -4,22 +4,29 @@ section: 3
 title: Interpreting Silence & Indirect Communication
 ---
 
-In many Western cultures, silence in conversation feels awkward, something to rush past. In Japan, silence is part of how meaning gets communicated, and learning to read it correctly is one of the more important skills you will develop in this work. Students often try to fill silences too quickly, which is exactly the wrong instinct here. A pause from a Japanese guest is usually doing something, not just waiting for you to catch up.
+In many Western cultures, silence in conversation feels awkward — something to move past quickly. In Japan, silence is part of how meaning is communicated. A pause from a Japanese guest is usually doing something: it carries information, and reading it correctly is one of the more important skills in this work.
 
-### The Meaning of Silence
+## The Meaning of Silence
 
-Japanese communication is often described as *high-context*, meaning a lot of the actual message travels through tone, context, and implication rather than the words themselves. Silence is a tool, not a gap.
+Japanese communication is often described as *high-context*, meaning a significant part of the message travels through tone, context, and implication rather than words alone. Silence is a tool, not a gap.
 
-**Silence as consideration**
-When a guest pauses before answering, they are most likely thinking carefully. Do not rush to fill the pause or repeat the question. Wait. Show patience with a calm expression and open posture.
+### Silence as Consideration
 
-**Silence as discomfort**
-A guest who goes quiet after receiving information, a price, a wait time, a policy, may be displeased but unwilling to say so directly. Watch for accompanying cues: the slight intake of breath, the downward glance, the brief lip compression.
+When a guest pauses before answering, they are most likely thinking carefully. Do not rush to fill the pause or repeat the question. Wait, and show patience with a calm expression and open posture.
 
-**Silence as refusal**
-In Japanese culture, saying "no" directly is considered impolite. Instead, a guest may respond to a suggestion with prolonged silence, a soft "hmm" (うーん), or a vague "it's a little..." (ちょっと...). These are soft rejections. Honour them without pressing.
+### Silence as Discomfort
 
-### Indirect Communication Patterns
+A guest who goes quiet after receiving information — a price, a wait time, a policy — may be displeased but unwilling to say so directly. Watch for accompanying cues:
+
+- A slight intake of breath
+- A brief downward glance
+- Lip compression
+
+### Silence as Refusal
+
+In Japanese culture, saying "no" directly is considered impolite. A guest may respond to a suggestion with prolonged silence, a soft "hmm" (うーん), or a vague "it's a little..." (ちょっと...). These are soft rejections. Acknowledge them without pressing.
+
+## Indirect Communication Patterns
 
 | What they say | What they may mean |
 |---------------|-------------------|
@@ -29,25 +36,35 @@ In Japanese culture, saying "no" directly is considered impolite. Instead, a gue
 | 「ちょっと...」("It's a bit...") | There is a problem |
 | Long pause after a question | Discomfort or disagreement |
 
-### How to Respond
+## How to Respond
 
 When you sense indirect dissatisfaction, do not confront it directly. Offer an alternative instead:
 
-> "We also have a room closer to the elevator, would that be more convenient?"
+> "We also have a room closer to the elevator — would that be more convenient?"
 
-Worth noting: this approach gives the guest a face-saving way to change their mind without ever having to admit they were unhappy. That is the whole point. You resolve the issue without putting anyone in an uncomfortable position, and the guest experiences the interaction as smooth and considerate rather than awkward.
+This approach gives the guest a face-saving way to change their mind without ever having to admit they were unhappy. The issue is resolved without putting anyone in an uncomfortable position, and the guest experiences the interaction as smooth and considerate.
 
 ---
 
 ## Key Phrases
 
-**うーん / ちょっと… (ūn / chotto…)**: soft, indirect cues of hesitation or refusal in Japanese communication; not confusion or disinterest, but a culturally encoded way of expressing "no" or "I have concerns" without saying so directly
+**うーん / ちょっと…**
+*Ūn / chotto…*
+"Hmm / It's a bit…"
 
-**他にご提案できるものがございます。** *(Hoka ni go-teian dekiru mono ga gozaimasu.)*
-"I have another option I can suggest.": the correct response when indirect cues indicate a guest's hesitation; offers a graceful path forward without pressing them to explain their objection
+Soft, indirect cues of hesitation or refusal in Japanese communication. These are not expressions of confusion or disinterest, but a culturally encoded way of expressing "no" or "I have concerns" without saying so directly.
 
-**おっしゃる通りでございます。** *(Ossharu tōri de gozaimasu.)*
-"You are absolutely right.": used when a guest's indirect cue has been correctly read and you acknowledge the implied concern; validates without confronting, and opens space for the guest to speak more directly if they choose
+**他にご提案できるものがございます。**
+*Hoka ni go-teian dekiru mono ga gozaimasu.*
+"I have another option I can suggest."
+
+The appropriate response when indirect cues indicate a guest's hesitation. It offers a graceful path forward without pressing the guest to explain their objection.
+
+**おっしゃる通りでございます。**
+*Ossharu tōri de gozaimasu.*
+"You are absolutely right."
+
+Used when a guest's indirect cue has been correctly read and you acknowledge the implied concern. It validates without confronting, and opens space for the guest to speak more directly if they choose.
 
 ---
 

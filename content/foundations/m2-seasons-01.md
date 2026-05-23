@@ -4,27 +4,45 @@ section: 1
 title: Seasonal Awareness in Japanese Hospitality
 ---
 
-**季節感 (kisetsukan)**, seasonal awareness, is one of the most distinctive qualities of Japanese hospitality. Few cultures let the time of year shape as many things at once: how a space is decorated, how food is presented, how greetings are worded, and how guests are made to feel at home.
+**季節感 (kisetsukan)**, seasonal awareness, is one of the most distinctive qualities of Japanese hospitality. The time of year shapes how a space is decorated, how food is presented, how greetings are worded, and how guests are made to feel at home.
 
-This comes from Japan's deep relationship with nature. The four seasons are not just weather patterns here. They carry emotional weight. Cherry blossoms in spring, the intensity of summer heat, the melancholy of autumn leaves, the quiet of winter snow: each season has its own aesthetic, and its own call to action in hospitality.
+This comes from Japan's long relationship with nature. The four seasons carry emotional weight: cherry blossoms in spring, the intensity of summer heat, the melancholy of autumn leaves, the quiet of winter snow. Each season has its own aesthetic, and its own implications for hospitality practice.
 
-For you as a hospitality professional, seasonal awareness has three practical dimensions worth keeping in mind:
+## Three Dimensions of Seasonal Awareness
 
-**1. Visual environment.** Decorations, flower arrangements (ikebana), table settings, and even uniforms shift to reflect the season. A New Year's arrangement displayed in June, or summer-themed displays in autumn, breaks the guest's sense of immersion. These things get noticed. Not always consciously, but they register.
+### Visual Environment
 
-**2. Language.** Seasonal greetings (*kisetsu no aisatsu*, 季節の挨拶) open conversations and written correspondence. Knowing the phrase that fits the current time of year signals cultural fluency and genuine attentiveness. It tells the guest you are paying attention to more than just their booking details.
+Decorations, flower arrangements (ikebana), table settings, and even uniforms shift to reflect the season. A New Year's arrangement displayed in June, or summer-themed displays in autumn, disrupts the guest's sense of immersion. Seasonal alignment is noticed — sometimes consciously, sometimes not — but it always registers.
 
-**3. Food and drink.** Serving seasonal ingredients (*shun*, 旬) is not just culinary preference. It is a quiet act of respect for the guest. *Shun* ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. That said, the staff member who can name the seasonal ingredient on the plate and explain briefly why it appears now is giving the guest something extra. That context turns a meal into an experience.
+### Language
+
+Seasonal greetings (*kisetsu no aisatsu*, 季節の挨拶) open conversations and written correspondence. Knowing the phrase that fits the current time of year signals cultural fluency and genuine attentiveness. It communicates that you are paying attention to more than just the guest's booking details.
+
+### Food and Drink
+
+Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. It is a quiet act of respect for the guest. Shun ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. A staff member who can name the seasonal ingredient on the plate and explain why it appears now is turning a meal into an experience.
 
 ---
 
 ## Key Phrases
 
-**季節感 (kisetsukan)**: seasonal awareness; the quality of responding to nature's rhythms in hospitality
+**季節感**
+*Kisetsukan.*
+"Seasonal awareness."
 
-**旬 (shun)**: peak season for an ingredient; serving *shun* food is serving the best version of a dish
+The quality of responding to nature's rhythms in hospitality. A space or interaction that reflects the current season demonstrates careful preparation and attentiveness.
 
-**季節の挨拶 (kisetsu no aisatsu)**: seasonal greetings; the time-appropriate opening to any formal conversation or correspondence
+**旬**
+*Shun.*
+"Peak season for an ingredient."
+
+Serving shun food means serving the ingredient at its finest. The word itself communicates freshness, quality, and respect for the season.
+
+**季節の挨拶**
+*Kisetsu no aisatsu.*
+"Seasonal greetings."
+
+The time-appropriate opening to any formal conversation or correspondence. Using the right seasonal greeting shows cultural awareness and genuine care.
 
 ---
 

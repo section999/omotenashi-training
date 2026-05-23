@@ -4,37 +4,54 @@ section: 4
 title: Giving and Receiving, The Ritual Exchange
 ---
 
-The moment of exchange, presenting or receiving a gift, is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual matters whether you are presenting a gift on behalf of the property, receiving one from a guest, or helping a guest who is preparing to give.
+The moment of exchange — presenting or receiving a gift — is itself a small ceremony. The words spoken, the posture held, and the gestures made all carry meaning. For hospitality professionals, understanding this ritual matters whether presenting a gift on behalf of the property, receiving one from a guest, or assisting a guest who is preparing to give.
 
-**Presenting a gift:**
+## Presenting a Gift
 
-Use the phrase *"つまらないものですが"* (tsumaranai mono desu ga), literally "this is a trifling thing, but..." This phrase seems contradictory, but it is a conventional expression of humility. By downplaying the gift, the giver shows that the relationship matters more than the object. Alternatives include:
+The conventional phrase when presenting a gift is **"つまらないものですが"** (*tsumaranai mono desu ga*), which translates literally as "this is a trifling thing, but..." The phrase is an expression of humility. By downplaying the gift, the giver signals that the relationship matters more than the object itself.
 
-- *"心ばかりのものですが"*, "It is just a small token of my feelings."
-- *"ほんの気持ちですが"*, "It is just a small thought."
+Alternative phrases include:
 
-**Receiving a gift:**
+- *"心ばかりのものですが"* — "It is just a small token of my feelings."
+- *"ほんの気持ちですが"* — "It is just a small thought."
 
-The recipient typically protests slightly before accepting: *"ご丁寧に、恐れ入ります"* (How kind of you, I am humbled). This is not false modesty; it is the socially expected ritual of showing that you are not grabbing at the gift greedily.
+## Receiving a Gift
 
-**The timing of opening:**
-In traditional Japanese practice, gifts are not opened in front of the giver. This prevents any visible disappointment and removes any pressure on the giver. That said, guests from non-Japanese cultures may expect the gift to be opened and reacted to immediately. Read the situation. If a foreign guest clearly expects you to open their gift, doing so warmly and enthusiastically is absolutely the right response.
+The recipient typically protests slightly before accepting. The expected phrase is *"ご丁寧に、恐れ入ります"* (*Go-teinei ni, osore irimasu*), meaning "How kind of you, I am humbled." This response shows that the recipient is not eagerly grabbing at the gift, which is the socially expected behaviour.
 
-**Number symbolism:**
-Avoid giving gifts in sets of four (四, *shi*, associated with death) or nine (九, *ku*, associated with suffering). Sets of three, five, or seven are considered auspicious.
+## When to Open a Gift
+
+In traditional Japanese practice, gifts are not opened in front of the giver. This prevents any visible reaction to the value received and removes pressure from the giver. When guests from other cultural backgrounds present a gift and clearly expect it to be opened immediately, opening it warmly and responding with genuine appreciation is the appropriate response.
+
+## Number Symbolism
+
+The number of items in a gift set carries meaning:
+
+- Avoid sets of four (四, *shi*), as the pronunciation is associated with the word for death
+- Avoid sets of nine (九, *ku*), associated with the word for suffering
+- Sets of three, five, or seven are considered auspicious
 
 ---
 
 ## Key Phrases
 
-**つまらないものですが。** *(Tsumaranai mono desu ga.)*
-"This is a trifling thing, but…": the conventional humble phrase when presenting a gift
+**つまらないものですが。**
+*Tsumaranai mono desu ga.*
+"This is a trifling thing, but…"
 
-**心ばかりのものですが。** *(Kokoro bakari no mono desu ga.)*
-"It is just a small token of my feelings.": an alternative phrase when presenting a gift
+The conventional humble phrase when presenting a gift. It places emphasis on the relationship rather than the value of the object.
 
-**ご丁寧に、恐れ入ります。** *(Go-teinei ni, osore irimasu.)*
-"How kind of you: I am humbled.": the expected response when receiving a gift
+**心ばかりのものですが。**
+*Kokoro bakari no mono desu ga.*
+"It is just a small token of my feelings."
+
+An alternative phrase when presenting a gift, carrying the same spirit of humility and relational focus.
+
+**ご丁寧に、恐れ入ります。**
+*Go-teinei ni, osore irimasu.*
+"How kind of you; I am humbled."
+
+The expected response when receiving a gift. It acknowledges the gesture with sincerity and appropriate modesty.
 
 ---
 

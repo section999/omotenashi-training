@@ -4,53 +4,49 @@ section: 3
 title: Culture Day (文化の日), November 3
 ---
 
-**Season:** Autumn · September, November
+**Bunka no Hi (文化の日)**, Culture Day, is a national holiday on November 3rd that celebrates art, culture, academic achievement, and the love of freedom and peace. The date commemorates the promulgation of the current Japanese Constitution in 1946. Many public museums offer free admission, traditional arts ceremonies are held at significant sites, outdoor cultural exhibitions take place in parks, and local communities organise performances of traditional music, dance, and theatre.
 
-**Bunka no Hi (文化の日)**, Culture Day, is a national holiday on November 3rd that celebrates art, culture, academic achievement, and the love of freedom and peace. The date commemorates the day the current Japanese Constitution was promulgated in 1946. Many public museums offer free admission, traditional arts ceremonies are held at significant sites, outdoor cultural exhibitions take place in parks, and local communities organise performances of traditional music, dance, and theatre.
+## Guest Profile on Culture Day
 
-**The guest profile on Culture Day:**
+Guests visiting during Culture Day tend toward cultural exploration rather than passive leisure. They are more likely to be:
 
-Guests visiting during Culture Day lean toward cultural exploration over passive leisure. They are more likely to be:
 - Arts-interested travellers seeking exhibitions, galleries, and traditional performances
 - Japanese families using the holiday for educational outings with children
 - International visitors who specifically researched the cultural events of this day
 - Academics, artists, or professionals attending formal cultural events
 
-**The concierge and recommendation opportunity:**
+## The Concierge and Recommendation Opportunity
 
-Culture Day is one of the best days of the year for the hospitality professional to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer, not a general tourist pamphlet.
+Culture Day is one of the best days of the year for hospitality staff to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer — not a general tourist pamphlet.
 
 Know in advance:
+
 - Which museums in the area have free admission today and what their current exhibitions cover
 - Any traditional ceremonies happening at local temples, shrines, or public parks
-- Any outdoor performances of traditional arts (Noh, Gagaku, traditional dance)
+- Any outdoor performances of traditional arts — Noh, Gagaku, traditional dance
 - Any seasonal craft demonstrations that align with autumn themes
 
-A recommendation that includes *why* the event is significant, not just its location, transforms it from information into hospitality.
+A recommendation that includes *why* an event is significant — not just its location — transforms it from information into hospitality.
 
-**Autumn themes in cultural recommendations:**
+## Combining Culture and Koyo
 
-November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape: *"The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard, it's only available on Culture Day."* This kind of specific, layered recommendation is the standard to aim for.
+November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape. For example: "The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard — it is only available on Culture Day." This kind of specific, layered recommendation is the standard to aim for.
 
 ---
 
-## Seasonal Greeting
+## Key Phrases
 
-文化の日にご来館いただき、ありがとうございます。本日は様々な文化イベントが開催されております。
-
+**文化の日にご来館いただき、ありがとうございます。本日は様々な文化イベントが開催されております。**
 *Bunka no Hi ni go-raikan itadaki, arigatō gozaimasu. Honjitsu wa samazama na bunka ibento ga kaisai sarete orimasu.*
-
 "Thank you for visiting on Culture Day. A number of cultural events are being held today."
 
----
+A warm opening for guests arriving on November 3rd. It signals that the property is aware of the occasion and ready to guide.
 
-**Recommendation opener:**
-
-本日は○○にて○○が開催されております。ご興味がございましたら、ぜひお越しください。
-
+**本日は○○にて○○が開催されております。ご興味がございましたら、ぜひお越しください。**
 *Honjitsu wa ○○ ni te ○○ ga kaisai sarete orimasu. Go-kyōmi ga gozaimashitara, zehi o-koshi kudasai.*
-
 "Today, ○○ is being held at ○○. If you are interested, I would really recommend it."
+
+Use this when making a specific event recommendation. Replace the ○○ placeholders with the event name and location.
 
 ---
 

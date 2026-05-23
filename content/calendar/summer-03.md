@@ -4,26 +4,28 @@ section: 3
 title: Obon, Ancestral Memorial Period (お盆), Mid-August
 ---
 
-**Season:** Summer · June, August
+**Season:** Summer · Mid-August
 
 Obon is Japan's most significant ancestral remembrance period, observed across three to four days in mid-August (or in some regions, July). It is the time when the spirits of ancestors are believed to return to the world of the living to visit their families. Japanese families travel to their *furusato* (故郷, hometown) to tend graves, hold family reunions, and participate in *bon odori* (盆踊り), traditional dance gatherings in town squares and temple grounds.
 
-**The emotional register:**
+## The Emotional Register
 
-The atmosphere of Obon is unlike any other travel period in Japan. It is neither purely celebratory nor purely solemn, it is *reflective and familial.* Guests may be processing grief over recently lost family members. Others may be simply enjoying extended time with relatives they rarely see. The tone is quiet, inward, and deeply personal. Over-enthusiasm or a festive approach from staff can feel tone-deaf against this backdrop.
+The atmosphere of Obon is unlike any other travel period in Japan. It is neither purely celebratory nor purely solemn — it is reflective and familial. Guests may be processing grief over recently lost family members. Others may simply be enjoying extended time with relatives they rarely see.
 
-**Who you are likely to see:**
+The tone is quiet, inward, and deeply personal. An overly cheerful or festive approach from staff can feel out of place against this backdrop.
 
-- **Families returning to hometowns**: often nostalgic, emotionally close, moving at a slow and deliberate pace
-- **Urban guests travelling to rural properties**: many city-dwellers specifically seek quiet ryokan during Obon to experience the traditional atmosphere
-- **Individuals travelling alone**: some guests observe Obon in a more personal way, visiting grave sites without family. These guests may be in a genuinely reflective or grieving state.
-- **International guests who happen to arrive**: may be surprised by the festive density of travel and the changed atmosphere; brief cultural context helps them understand what they are observing
+## Who You Are Likely to See
 
-**Service adjustments for Obon:**
+- **Families returning to hometowns** — often nostalgic, emotionally close, moving at a slow and deliberate pace
+- **Urban guests travelling to rural properties** — many city-dwellers specifically seek quiet ryokan during Obon to experience the traditional atmosphere
+- **Individuals travelling alone** — some guests observe Obon in a more personal way, visiting grave sites without family. These guests may be in a genuinely reflective or grieving state.
+- **International guests who happen to arrive** — may be surprised by the density of travel and the changed atmosphere. A brief cultural explanation helps them understand what they are observing.
 
-- Adopt a quieter, more attentive service mode, less energy, more presence
-- Do not play upbeat background music during this period in traditional properties; quieter ambient sound is more appropriate
-- If traditional *bon odori* dances are occurring near or at the property, offer guests the opportunity to observe or participate, frame it as a cultural invitation, not a required activity
+## Service Adjustments for Obon
+
+- Adopt a quieter, more attentive service mode — less energy, more presence
+- Avoid upbeat background music during this period in traditional properties; quieter ambient sound is more appropriate
+- If *bon odori* dances are occurring near or at the property, offer guests the opportunity to observe or participate — frame it as a cultural invitation, not a required activity
 - For guests who seem reflective or subdued, do not attempt to elevate their mood with cheerfulness; simply be present and attentive
 
 ---

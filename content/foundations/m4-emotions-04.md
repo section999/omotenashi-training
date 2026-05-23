@@ -4,40 +4,47 @@ section: 4
 title: Detecting Dissatisfaction Early
 ---
 
-The best complaint is the one that never happens. By detecting the early signs of guest dissatisfaction and acting before the guest speaks, you embody the highest principle of omotenashi, anticipation (先読み). This sounds aspirational. In practice, it is learnable, and the students who make the most progress are the ones who train themselves to look for it actively.
+The best complaint is the one that never happens. By detecting the early signs of guest dissatisfaction and acting before the guest speaks, staff embody one of the highest principles of omotenashi: anticipation (先読み / sakiyomi). This is a learnable skill, developed through consistent, deliberate observation.
 
-### The Dissatisfaction Ladder
+## The Dissatisfaction Ladder
 
-Guest dissatisfaction rarely appears suddenly. It builds in stages:
+Guest dissatisfaction rarely appears suddenly. It builds in stages.
 
-**Stage 1, Minor Irritation**
-Something is slightly off. The guest notices but says nothing. Signs: brief frown, slower pace, checking their watch, reduced eye contact with staff.
+### Stage 1: Minor Irritation
 
-**Stage 2, Growing Discomfort**
-The issue persists or compounds. The guest becomes quieter, more closed in body language, less engaged with the environment. They may begin looking around as if seeking someone to speak to, but hesitate.
+Something is slightly off. The guest notices but says nothing.
 
-**Stage 3, Active Dissatisfaction**
-The guest decides to voice a complaint, or worse, decides not to and simply leaves with a negative impression, never to return.
+- Brief frown or reduced eye contact with staff
+- Slower pace or checking their watch
+- Subtle signs of disengagement
 
-The goal is to intervene at Stage 1 or early Stage 2, before the guest has made any decision. That window is often wider than it looks.
+### Stage 2: Growing Discomfort
 
-### Environmental Triggers to Watch
+The issue persists or compounds. The guest becomes quieter and more closed in body language. They may begin looking around as if seeking someone to speak to, but hesitate to do so.
+
+### Stage 3: Active Dissatisfaction
+
+The guest decides to voice a complaint — or, worse, decides not to and simply leaves with a negative impression, never to return.
+
+The goal is to intervene at Stage 1 or early Stage 2, before the guest has made any decision. That window is often wider than it appears.
+
+## Environmental Triggers to Watch
 
 - **Wait times**: Guests checking the time repeatedly, standing stiffly, sighing
 - **Temperature**: Guests pulling at their clothing, fanning themselves, sitting with arms pulled in
 - **Noise**: Guests leaning in closer to hear, wincing at sudden sounds, covering ears
-- **Service gaps**: Guests looking around with an empty glass, untouched menu, or searching expression
+- **Service gaps**: Guests looking around with an empty glass, an untouched menu, or a searching expression
 
-### The Proactive Check-In
+## The Proactive Check-In
 
-When you notice early warning signs, approach calmly and quietly with an open, warm expression:
+When early warning signs are noticed, approach calmly and quietly with an open, warm expression:
 
 > 「何かご不便はございませんか？」
 > "Is there anything that could be more comfortable for you?"
 
 This phrasing is non-accusatory, face-saving, and invites honest feedback without pressure.
 
-### After Detection
+## After Detection
 
 If the guest does express dissatisfaction, thank them. A guest who tells you the problem is giving you the opportunity to fix it. A guest who stays silent takes the problem home.
 
@@ -45,13 +52,23 @@ If the guest does express dissatisfaction, thank them. A guest who tells you the
 
 ## Key Phrases
 
-**先読み (sakiyomi)**: anticipation; reading what a guest needs before they express it; one of the highest principles of omotenashi: acting on what you observe rather than waiting to be asked
+**先読み**
+*Sakiyomi.*
+"Anticipation."
 
-**何かご不便はございませんか？** *(Nanika go-fuben wa gozaimasu ka?)*
-"Is there anything that could be more comfortable for you?": the recommended proactive check-in when early dissatisfaction signals are detected; non-accusatory, face-saving, and invites honest feedback without pressure
+Reading what a guest needs before they express it. Acting on what is observed rather than waiting to be asked is one of the highest principles of omotenashi.
 
-**少々お時間をいただけますでしょうか。** *(Shōshō o-jikan o itadakemasu deshō ka.)*
-"May I have a moment with you?": a gentle approach phrase used at Stage 1 or early Stage 2 of dissatisfaction; signals attentiveness without creating alarm or drawing attention from other guests
+**何かご不便はございませんか？**
+*Nanika go-fuben wa gozaimasu ka?*
+"Is there anything that could be more comfortable for you?"
+
+The recommended proactive check-in when early dissatisfaction signals are detected. The phrasing is non-accusatory, face-saving, and invites honest feedback without pressure.
+
+**少々お時間をいただけますでしょうか。**
+*Shōshō o-jikan o itadakemasu deshō ka.*
+"May I have a moment with you?"
+
+A gentle approach phrase used at Stage 1 or early Stage 2 of dissatisfaction. It signals attentiveness without creating alarm or drawing attention from other guests.
 
 ---
 

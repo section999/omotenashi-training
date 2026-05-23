@@ -4,23 +4,29 @@ section: 2
 title: Reading Facial Expressions & Body Language
 ---
 
-The face and body are constant broadcasters of emotional state. Learning to observe them accurately, without staring or making guests feel watched, is a core skill of omotenashi. The key word is "accurately." Many staff observe, but not many observe well.
+The face and body are constant broadcasters of emotional state. Learning to observe them accurately — without staring or making guests feel watched — is a core skill of omotenashi. The goal is not just observation, but accurate interpretation.
 
-### Key Facial Signals
+## Key Facial Signals
 
-**The Genuine Smile (Duchenne Smile)**
-A real smile engages the eyes: the corners crinkle slightly and the lower eyelids rise. A polite social smile only moves the mouth. When a guest gives a genuine smile, they are relaxed and satisfied. A smile that doesn't reach the eyes may suggest politeness masking discomfort. Worth noting: once you train yourself to see this difference, you will notice it everywhere, and you cannot unsee it.
+### The Genuine Smile
 
-**The Furrowed Brow**
-Even a brief furrowing of the brow points to confusion, concern, or mild frustration. If you see this while explaining something, slow down and offer to clarify before they need to ask.
+A real smile engages the eyes: the corners crinkle slightly and the lower eyelids rise. This is known as the Duchenne smile. A polite social smile only moves the mouth.
 
-**Lip Compression**
-When a person presses their lips together briefly, they are often suppressing a negative reaction: disagreement, frustration, or reluctance. This is your cue to gently pause and invite feedback.
+When a guest gives a genuine smile, they are relaxed and satisfied. A smile that does not reach the eyes may suggest politeness masking discomfort.
 
-**Jaw Tension**
-A tightened jaw or clenched teeth, even with an otherwise neutral expression, suggests stress. Check whether the environment, noise level, or wait time may be contributing.
+### The Furrowed Brow
 
-### Key Body Language Signals
+Even a brief furrowing of the brow points to confusion, concern, or mild frustration. If you notice this while explaining something, slow down and offer to clarify before the guest needs to ask.
+
+### Lip Compression
+
+When a person presses their lips together briefly, they are often suppressing a negative reaction — disagreement, frustration, or reluctance. This is a cue to gently pause and invite feedback.
+
+### Jaw Tension
+
+A tightened jaw or clenched teeth, even with an otherwise neutral expression, suggests stress. Consider whether the environment, noise level, or wait time may be a contributing factor.
+
+## Key Body Language Signals
 
 | Signal | Possible Meaning |
 |--------|-----------------|
@@ -32,11 +38,11 @@ A tightened jaw or clenched teeth, even with an otherwise neutral expression, su
 | Slow nodding | Genuine understanding |
 | Rapid nodding | Polite acknowledgment, may not be listening |
 
-Students often over-read individual signals. A crossed arm might mean the guest is cold. Look for clusters of signals, not single data points, before drawing any conclusion.
+No single signal is conclusive on its own. A crossed arm might simply mean the guest is cold. Look for clusters of signals before drawing any conclusion.
 
-### How to Observe Without Intruding
+## How to Observe Without Intruding
 
-In practice, the technique is peripheral awareness: noticing body language as part of your natural attentiveness, not through intense focused watching. Move naturally around the space, make brief eye contact, and let your awareness gather information as you go.
+The technique is peripheral awareness: noticing body language as part of natural attentiveness, not through intense focused watching. Move naturally around the space, make brief eye contact, and let your awareness gather information as you go.
 
 Never stare. Never point. Never discuss a guest's body language within earshot.
 
@@ -44,10 +50,17 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 
 ## Key Phrases
 
-**デュシェンヌスマイル (Dyushenu sumairu)**: the Duchenne smile; a genuine smile that involves the muscles around the eyes, not just the mouth; named after the researcher who identified it: distinguishes authentic from polite-social expressions
+**デュシェンヌスマイル**
+*Dyushenu sumairu.*
+"The Duchenne smile."
 
-**何かご不便はございませんか？** *(Nanika go-fuben wa gozaimasu ka?)*
-"Is there anything that could be more comfortable for you?": the recommended proactive check-in phrase when body language suggests discomfort; open-ended and face-saving: the guest can respond in any direction
+A genuine smile that involves the muscles around the eyes, not just the mouth. Named after the researcher who identified it. Learning to distinguish this from a polite social expression gives useful information about how a guest is actually feeling.
+
+**何かご不便はございませんか？**
+*Nanika go-fuben wa gozaimasu ka?*
+"Is there anything that could be more comfortable for you?"
+
+The recommended proactive check-in phrase when body language suggests discomfort. It is open-ended and face-saving — the guest can respond in any direction without feeling singled out.
 
 ---
 

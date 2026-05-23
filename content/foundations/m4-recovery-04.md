@@ -4,19 +4,27 @@ section: 4
 title: Finding the Solution
 ---
 
-Once the guest has been heard and a sincere apology has been made, the interaction moves into its third phase: action. This is where the complaint becomes concrete, where words become solutions. The quality of the solution matters enormously, but so does how it is offered. A generous solution presented carelessly can feel hollow. A modest solution offered with genuine attention and care can leave the guest feeling that the establishment truly tried.
+Once the guest has been heard and a sincere apology has been made, the interaction moves into its third phase: action. This is where the complaint becomes concrete and words become solutions. The quality of the solution matters enormously, but so does how it is offered. A generous solution presented carelessly can feel hollow. A modest solution offered with genuine attention and care can leave the guest feeling that the establishment truly tried.
 
-### Principles of Solution-Finding
+## Principles of Solution-Finding
 
-**Speed matters.** The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly, not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
+### Speed Matters
 
-**Match the solution to the problem.** An inconvenience caused by a one-hour wait is not resolved by offering a complimentary pen. A significant failure, a room that was genuinely uninhabitable, a major allergy oversight, requires a proportional response. Students often find this the trickiest part: knowing what is within their authority to offer, and when to escalate.
+The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly — not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
 
-**Ask when appropriate.** In some cases, the right solution is not obvious, and asking the guest what would make things right is both respectful and practical: "I would very much like to make this right for you, may I ask what would be most helpful?" This is not stepping back from responsibility; it is recognising that the guest knows their own situation best.
+### Match the Solution to the Problem
 
-**Never argue.** Even if the guest's account of events contains inaccuracies, this is not the moment to correct them. The priority is resolution. If factual clarification is genuinely necessary, it can be handled later, gently, and only if relevant to the solution.
+An inconvenience caused by a one-hour wait is not resolved by offering a complimentary pen. A significant failure — a room that was genuinely uninhabitable, a major allergy oversight — requires a proportional response. Knowing what is within your authority to offer, and when to escalate, is one of the most practical skills in service recovery.
 
-### Common Recovery Actions
+### Ask When Appropriate
+
+In some cases, the right solution is not obvious. Asking the guest what would make things right is both respectful and practical: "I would very much like to make this right for you — may I ask what would be most helpful?" This is not stepping back from responsibility; it is recognising that the guest knows their own situation best.
+
+### Never Argue
+
+Even if the guest's account of events contains inaccuracies, this is not the moment to correct them. The priority is resolution. If factual clarification is genuinely necessary, it can be handled later, gently, and only if relevant to the solution.
+
+## Common Recovery Actions
 
 - Room upgrade or room change
 - Complimentary meal, beverage, or amenity
@@ -25,19 +33,25 @@ Once the guest has been heard and a sincere apology has been made, the interacti
 - Personal attention from a senior staff member or manager
 - Written follow-up or thank-you note
 
-### Offering the Solution
+## Offering the Solution
 
-The solution should be presented, not pushed: "I would like to offer you [solution], I hope this goes some way toward making your stay more comfortable." The guest should feel that they are being offered something, not steered toward a predetermined outcome.
+The solution should be presented, not pushed: "I would like to offer you [solution] — I hope this goes some way toward making your stay more comfortable." The guest should feel that they are being offered something, not steered toward a predetermined outcome.
 
 ---
 
 ## Key Phrases
 
-**早速対応させていただきます (sassoku taiō sasete itadakimasu)** *(Sassoku taiō sasete itadakimasu.)*
-"I will address this immediately.": a commitment phrase that shows urgency without panic; reassures the guest that action is being taken now
+**早速対応させていただきます。**
+*Sassoku taiō sasete itadakimasu.*
+"I will address this immediately."
 
-**何かご希望がございましたら、お気軽におっしゃってください (nanika go-kibō ga gozaimashitara, o-ki-garu ni osshatte kudasai)** *(Nanika go-kibō ga gozaimashitara, o-ki-garu ni osshatte kudasai.)*
-"If there is anything you would like, please feel free to let us know.": invites the guest into the solution process, acknowledging that their input matters
+This phrase shows urgency without panic. It reassures the guest that action is being taken right away.
+
+**何かご希望がございましたら、お気軽におっしゃってください。**
+*Nanika go-kibō ga gozaimashitara, o-ki-garu ni osshatte kudasai.*
+"If there is anything you would like, please feel free to let us know."
+
+This phrase invites the guest into the solution process, acknowledging that their input matters.
 
 ---
 

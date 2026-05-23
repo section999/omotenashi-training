@@ -4,34 +4,46 @@ section: 4
 title: Supporting Colleagues in Front of Guests
 ---
 
-How staff interact with each other in guest-facing spaces is itself a form of hospitality. Guests observe team dynamics constantly, and the atmosphere of a team communicates the atmosphere of the property. A team that is visibly supportive, calm, and coordinated reassures guests. One that is visibly strained, dismissive, or disorganised does the opposite, regardless of how polished the individual greetings are.
+How staff interact with each other in guest-facing spaces is itself a form of hospitality. Guests observe team dynamics constantly, and the atmosphere within a team communicates the atmosphere of the property. A team that is visibly supportive, calm, and coordinated reassures guests. One that appears strained, dismissive, or disorganised does the opposite — regardless of how polished the individual greetings are.
 
-**The principle of mutual support (相互扶助, *sōgo fujo*):**
+## Mutual Support (相互扶助, Sōgo Fujo)
 
-No individual staff member should let a colleague struggle in front of a guest when they have the ability to help. If a colleague is occupied with one guest and another guest approaches, step in. If a colleague is handling a difficult situation, position yourself nearby as quiet backup without interfering. You don't need to take over. Being visibly available is often enough.
+No staff member should allow a colleague to struggle in front of a guest when they are in a position to help. If a colleague is occupied with one guest and another guest approaches, step in. If a colleague is handling a difficult situation, position yourself nearby as quiet backup without interfering.
 
-**Practical rules for in-guest interactions with colleagues:**
+Taking over is not always necessary. Being visibly available is often enough.
 
-- **Never criticise a colleague in front of a guest**, even gently. If a mistake was made, correct it smoothly without attributing blame. *"Please allow me to clarify..."* rather than *"My colleague was mistaken."* The guest does not need to know who was wrong. They need the situation resolved.
-- **Never show frustration with a colleague**: sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism. Guests pick up on this immediately.
-- **Share workload fluidly**: experienced teams move without explicit instruction. If you see a guest waiting, a table uncleared, or a colleague visibly stretched, act.
-- **Use internal language carefully**: conversations with colleagues within earshot of guests should be professional in both content and tone. Assume guests can hear more than you think.
+## Practical Standards for Guest-Facing Spaces
 
-**The back-of-house boundary:**
+- **Never criticise a colleague in front of a guest**, even gently. If a mistake occurred, correct it smoothly without attributing blame. "Please allow me to clarify..." rather than "My colleague was mistaken." The guest does not need to know who was at fault — they need the situation resolved.
+- **Never show frustration with a colleague**: sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism. Guests notice this immediately.
+- **Share workload fluidly**: experienced teams move without explicit instruction. If a guest is waiting, a table is uncleared, or a colleague is visibly stretched, act.
+- **Use internal language carefully**: conversations with colleagues within earshot of guests should be professional in both content and tone. Assume guests can hear more than might be expected.
 
-Guests occasionally walk into staff areas or overhear back-of-house conversations. Worth noting: the standard is to behave in back-of-house exactly as you would in front of guests. The distinction between those spaces is logistical. It is not a difference in standards.
+## The Back-of-House Standard
+
+Guests occasionally walk into staff areas or overhear back-of-house conversations. The standard is to behave in back-of-house exactly as in guest-facing spaces. The distinction between those areas is logistical. It is not a difference in professional standards.
 
 ---
 
 ## Key Phrases
 
-**相互扶助 (sōgo fujo)**: mutual support; the principle that no colleague should struggle in a guest-facing situation when another staff member can help
+**相互扶助 (sōgo fujo)**
+*Sōgo fujo.*
+"Mutual support."
 
-**よろしければ私がご案内いたします。** *(Yoroshikereba watashi ga go-annai itashimasu.)*
-"If you don't mind, I will assist you.": the phrase for stepping in naturally for an occupied colleague, without drawing attention to the gap in service
+The principle that no colleague should struggle in a guest-facing situation when another staff member can help. Sōgo fujo creates a team environment where support is offered proactively, not waited for.
 
-**ご案内が行き届かず大変失礼いたしました。** *(Go-annai ga yukitodokazu taihen shitsurei itashimashita.)*
-"I apologise that you were not attended to more promptly.": used if a guest has had to wait while staff were occupied; takes collective responsibility without blaming the colleague
+**よろしければ私がご案内いたします。**
+*Yoroshikereba watashi ga go-annai itashimasu.*
+"If you don't mind, I will assist you."
+
+The phrase for stepping in naturally to help an occupied colleague. It addresses the guest directly and closes the service gap without drawing attention to the fact that another staff member was unavailable.
+
+**ご案内が行き届かず大変失礼いたしました。**
+*Go-annai ga yukitodokazu taihen shitsurei itashimashita.*
+"I apologise that you were not attended to more promptly."
+
+Used when a guest has had to wait while staff were occupied. This phrase takes collective responsibility on behalf of the team without directing blame at any individual colleague.
 
 ---
 

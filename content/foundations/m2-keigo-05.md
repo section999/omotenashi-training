@@ -4,40 +4,50 @@ section: 5
 title: Common Keigo Mistakes to Avoid
 ---
 
-Even experienced staff make keigo errors. Many of these errors have become so widespread they feel correct, but to a discerning guest or senior colleague, they stand out. Awareness of these patterns is the first step to eliminating them.
+Even experienced staff make keigo errors. Many of these mistakes have become so widespread that they can feel correct, but to a discerning guest or senior colleague, they stand out. Recognising these patterns is the first step to eliminating them.
 
-**1. 二重敬語 (nijū keigo), Double Honorifics**
+## 1. 二重敬語 (Nijū Keigo) — Double Honorifics
 
-Stacking multiple honorific forms on a single verb creates grammatical redundancy and sounds awkward. A common mistake is saying *おっしゃられました*, おっしゃる is already sonkeigo for 言う, so adding られ is unnecessary.
+Stacking multiple honorific forms on a single verb creates grammatical redundancy and sounds awkward. A common example is *おっしゃられました*. Since おっしゃる is already the sonkeigo form of 言う, adding られ is unnecessary and incorrect.
 
-Correct: *おっしゃいました*
+- Incorrect: *おっしゃられました*
+- Correct: *おっしゃいました*
 
-**2. Using kenjōgo for the guest's actions**
+## 2. Using Kenjōgo for the Guest's Actions
 
-Kenjōgo lowers the speaker, it should never be used to describe what the guest does. Saying *"お客様がいただきますか？"* is incorrect because いただく is humble (kenjōgo) and should only describe your own receiving.
+Kenjōgo lowers the speaker. It should never be used to describe what the guest does. Saying *お客様がいただきますか？* is incorrect because いただく is humble language reserved for the speaker's own receiving.
 
-Correct: *"お客様は召し上がりますか？"* (sonkeigo)
+- Incorrect: *お客様がいただきますか？*
+- Correct: *お客様は召し上がりますか？* (sonkeigo)
 
-**3. ～になります used incorrectly**
+## 3. ～になります Used Incorrectly
 
-*"こちらがコーヒーになります"* (This will become coffee) is heard in many restaurants but is grammatically incorrect. Nothing is *becoming* coffee, it simply *is* coffee.
+*こちらがコーヒーになります* (This will become coffee) is heard in many restaurants but is grammatically incorrect. Nothing is becoming coffee — it simply is coffee.
 
-Correct: *"こちらがコーヒーでございます"*
+- Incorrect: *こちらがコーヒーになります*
+- Correct: *こちらがコーヒーでございます*
 
-Students often ask why this mistake is so common if it is wrong. The honest answer: it spread through chain restaurant training in the 1990s and has never fully disappeared. You will hear it constantly. That does not make it correct.
+This error spread through chain restaurant training in the 1990s and has never fully disappeared. Hearing it frequently does not make it correct.
 
-**4. Overusing ございます in casual flow**
+## 4. Overusing ございます in Casual Contexts
 
-ございます is highly formal and appropriate at check-in, formal greetings, or written correspondence. Using it in every sentence of a casual poolside conversation can feel rigid and uncomfortable for the guest. Match formality to context.
+ございます is highly formal and appropriate at check-in, in formal greetings, or in written correspondence. Using it in every sentence of a relaxed, casual interaction can feel rigid and uncomfortable for the guest. Formality should match the context of the situation.
 
 ---
 
 ## Key Phrases
 
-**こちらがコーヒーでございます。** *(Kochira ga kōhī de gozaimasu.)*
-"Here is your coffee.": *de gozaimasu* is correct; *ni narimasu* (will become) is a common error to avoid
+**こちらがコーヒーでございます。**
+*Kochira ga kōhī de gozaimasu.*
+"Here is your coffee."
 
-**おっしゃいました** *(osshaimashita)*: correct sonkeigo past form for "said"; *osshararemashita* (double honorific) is incorrect
+De gozaimasu is the correct form here. Ni narimasu ("will become") is a widespread error that implies the item is transforming into something.
+
+**おっしゃいました**
+*Osshaimashita.*
+"Said" (referring to the guest).
+
+This is the correct sonkeigo past form. Osshararemashita stacks an additional honorific and is grammatically redundant.
 
 ---
 

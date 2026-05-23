@@ -4,39 +4,48 @@ section: 1
 title: The Service Recovery Paradox
 ---
 
-A well-handled complaint can produce a more loyal guest than a stay in which nothing went wrong at all. This counterintuitive insight, known in service management research as the "service recovery paradox", reveals something important about what guests are truly seeking when they stay at a hotel or dine at a restaurant. They are not seeking a flawless mechanical performance. They are seeking to feel cared for by human beings. And it is in moments of failure, moments where something has gone wrong and a real person must respond with genuine care, that this human dimension becomes most visible.
+A well-handled complaint can produce a more loyal guest than a stay in which nothing went wrong at all. This counterintuitive insight is known in service management research as the "service recovery paradox." It reveals something important about what guests are truly seeking: not a flawless mechanical performance, but the experience of being cared for by people who genuinely mean it.
 
-### Why Complaints Are Opportunities
+When something goes wrong and a real person responds with genuine care, that human quality becomes visible in a way that a smooth, uneventful stay rarely allows.
 
-When a guest raises a complaint, they are doing something brave. They are choosing to invest in the relationship, to give the establishment a chance to make things right, rather than simply leaving in silence and never returning. Every complaint is, in its own way, an act of trust. The guest is saying: *I believe you can do better, and I believe it is worth telling you so.*
+## Why Complaints Are Opportunities
 
-A team that understands this does not dread complaints. They receive them as the valuable information they are: a direct indication of where the guest's experience fell short, and an opportunity to show what the establishment is capable of when it has to rise to a challenge. Worth noting: the guests who never say a word and just don't come back are the ones you never get a chance to recover.
+When a guest raises a complaint, they are choosing to invest in the relationship. Rather than leaving in silence and never returning, they are giving the establishment a chance to make things right. Every complaint is, in its own way, an act of trust.
 
-### The Japanese Context
+A team that understands this does not dread complaints. They receive them as valuable information: a direct indication of where the guest's experience fell short, and an opportunity to demonstrate what the establishment is capable of. Guests who say nothing and simply do not return are the ones no one ever gets the chance to help.
 
-In Japan, direct complaint is culturally uncomfortable. Many guests, particularly Japanese guests, will not complain at all, even when genuinely dissatisfied. They may simply not return. This means that a guest who does raise a concern is offering an especially significant act of trust, and the response must be proportionally sincere and thorough.
+## The Japanese Context
 
-Staff must also develop sensitivity to unexpressed dissatisfaction: the guest who is "fine" but does not look it, the table that has grown quiet, the check-out that feels flat. Sometimes service recovery must begin before the complaint has been spoken.
+In Japan, direct complaint is culturally uncomfortable. Many guests, particularly Japanese guests, will not raise concerns even when genuinely dissatisfied. They may simply not return. This means that a guest who does speak up is offering an especially significant act of trust, and the response must be proportionally sincere and thorough.
 
-### The Four-Step Recovery Framework
+Staff must also develop sensitivity to unexpressed dissatisfaction: the guest who says they are "fine" but does not look it, the table that has grown quiet, the check-out that feels flat. Sometimes service recovery must begin before the complaint has been spoken.
+
+## The Four-Step Recovery Framework
 
 Effective service recovery follows a consistent structure:
-1. **Listen**, without interruption, without defence
-2. **Acknowledge**, validate the guest's experience sincerely
-3. **Act**, take specific, appropriate action to address the issue
-4. **Follow up**, confirm that the resolution has satisfied the guest
 
-Each of these steps will be explored in the lessons that follow. For now, just understand the shape of the whole.
+1. **Listen** — without interruption, without defence
+2. **Acknowledge** — validate the guest's experience sincerely
+3. **Act** — take specific, appropriate action to address the issue
+4. **Follow up** — confirm that the resolution has satisfied the guest
+
+Each of these steps is explored in the lessons that follow.
 
 ---
 
 ## Key Phrases
 
-**ご不便をおかけして申し訳ございません (go-fuben wo o-kake shite mōshiwake gozaimasen)** *(Go-fuben wo o-kake shite mōshiwake gozaimasen.)*
-"I am truly sorry for the inconvenience caused to you.": the standard opening of a service recovery interaction; must be delivered with sincerity and an appropriate bow
+**ご不便をおかけして申し訳ございません。**
+*Go-fuben wo o-kake shite mōshiwake gozaimasen.*
+"I am truly sorry for the inconvenience caused to you."
 
-**貴重なご意見をありがとうございます (kichō na go-iken wo arigatō gozaimasu)** *(Kichō na go-iken wo arigatō gozaimasu.)*
-"Thank you for your valuable feedback.": used when a complaint has been resolved, acknowledging the guest's willingness to share
+This is the standard opening of a service recovery interaction. It must be delivered with sincerity and an appropriate bow.
+
+**貴重なご意見をありがとうございます。**
+*Kichō na go-iken wo arigatō gozaimasu.*
+"Thank you for your valuable feedback."
+
+Used when a complaint has been resolved, this phrase acknowledges the guest's willingness to share their experience.
 
 ---
 

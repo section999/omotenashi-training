@@ -4,41 +4,59 @@ section: 1
 title: Understanding Non-Verbal Communication
 ---
 
-In Japanese hospitality, words are only part of the message. Research suggests that the majority of human communication is non-verbal, conveyed through posture, gesture, eye contact, and tone of voice. For hospitality professionals, learning to read these cues is as important as mastering keigo. Students who focus only on verbal language miss half the conversation.
+In Japanese hospitality, words are only part of the message. Research suggests that the majority of human communication is non-verbal, conveyed through posture, gesture, eye contact, and tone of voice. For hospitality professionals, learning to read these cues is as important as mastering keigo.
 
-### Why Non-Verbal Matters More in Japan
+## Why Non-Verbal Communication Matters in Japan
 
 Japanese culture places high value on *tatemae* (表向き), the public face one presents, and *honne* (本音), one's true feelings. Guests will rarely express dissatisfaction directly. Instead, discomfort surfaces through subtle physical cues. A skilled staff member reads what is not said.
 
-### The Three Channels
+## The Three Channels
 
-**1. Body Language**
-Posture, movement, and gesture reveal a guest's comfort level. A guest who leans slightly away, crosses arms, or avoids facing you may be uncomfortable, even if they say "it's fine."
+### Body Language
 
-**2. Facial Micro-Expressions**
-Fleeting expressions lasting a fraction of a second, a brief frown, a tightened jaw, a forced smile, reveal genuine emotion before the person consciously controls their face.
+Posture, movement, and gesture reveal a guest's comfort level.
 
-**3. Vocal Tone**
+- A guest who leans slightly away may be uncomfortable, even if they say "it's fine"
+- Crossed arms often signal defensiveness or unease
+- Avoiding direct facing can indicate reluctance or discomfort
+
+### Facial Micro-Expressions
+
+Fleeting expressions lasting a fraction of a second reveal genuine emotion before a person consciously controls their face.
+
+- A brief frown or tightened jaw can signal frustration
+- A forced smile that does not reach the eyes may mask discomfort
+- These signals appear and disappear quickly, so attentiveness is essential
+
+### Vocal Tone
+
 The same words spoken with different pitch, speed, or volume carry entirely different meanings. A clipped "thank you" and a warm "thank you" are not the same message.
 
-### The Japanese Context
+## The Japanese Context
 
-In Western cultures, direct eye contact suggests confidence and honesty. In Japan, sustained eye contact can feel confrontational. Guests may look slightly downward as a sign of respect, not disengagement. Worth noting: this prevents misreading respectful behaviour as coldness. I have seen new staff take this personally. It is not personal.
+In Western cultures, direct eye contact suggests confidence and honesty. In Japan, sustained eye contact can feel confrontational. Guests may look slightly downward as a sign of respect, not disengagement. Recognising this difference prevents misreading respectful behaviour as coldness or indifference.
 
-Similarly, silence is not awkward in Japanese communication. It is thoughtful. A guest who pauses before answering is considering carefully, not confused.
+Similarly, silence is not awkward in Japanese communication — it is thoughtful. A guest who pauses before answering is considering carefully, not confused.
 
-### Core Principle
+## Core Principle
 
-> Read the whole person, not just their words. The guest who says "I'm fine" while standing stiffly, avoiding eye contact, with a flat tone of voice, is not fine.
+Read the whole person, not just their words. A guest who says "I'm fine" while standing stiffly, avoiding eye contact, and speaking in a flat tone is communicating something else entirely.
 
 ---
 
 ## Key Phrases
 
-**表向き / 本音 (tatemae / honne)**: the public face presented vs. one's true inner feelings; the gap between these is at the heart of reading non-verbal communication in Japanese culture
+**表向き / 本音**
+*Tatemae / honne.*
+"Public face / true inner feelings."
 
-**何かお力になれることはございますか？** *(Nanika o-chikara ni nareru koto wa gozaimasu ka?)*
-"Is there anything I can do for you?": a gentle, open follow-up when non-verbal signals suggest the guest is not fine despite saying so
+These paired concepts describe the gap between what a person expresses openly and what they feel internally. In Japanese hospitality, understanding this gap is central to reading non-verbal communication accurately.
+
+**何かお力になれることはございますか？**
+*Nanika o-chikara ni nareru koto wa gozaimasu ka?*
+"Is there anything I can do for you?"
+
+A gentle, open follow-up used when non-verbal signals suggest a guest is not entirely at ease, even if they have said otherwise. The phrasing is indirect and face-saving.
 
 ---
 

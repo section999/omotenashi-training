@@ -4,35 +4,45 @@ section: 1
 title: Hansei, The Practice of Self-Reflection
 ---
 
-In Japanese professional culture, *hansei* (反省) is not something you do once after a bad day. It is a regular, deliberate practice woven into professional life. The character 反 means "to turn back" or "to reconsider," and 省 means "to examine" or "to inspect." Together they describe the act of turning your attention inward and looking honestly at what you did, what you decided, and how it went, with the clear purpose of understanding and improving.
+In Japanese professional culture, *hansei* (反省) is a regular, deliberate practice woven into working life. The character 反 means "to turn back" or "to reconsider," and 省 means "to examine" or "to inspect." Together they describe the act of turning your attention inward and looking honestly at what you did, what you decided, and how it went — with the clear purpose of understanding and improving.
 
-Students sometimes confuse hansei with self-criticism or guilt. It is neither. Hansei is calm, honest, and forward-focused. In the context of omotenashi, it is what allows you to improve not only during formal training but through the everyday rhythm of service itself.
+Hansei is not self-criticism or guilt. It is calm, honest, and forward-focused. In the context of omotenashi, hansei allows professionals to improve not only through formal training but through the everyday rhythm of service itself.
 
-### The Difference Between Hansei and Regret
+## The Difference Between Hansei and Regret
 
-Regret sits still. It loops back to the same moment, over and over, without producing anything new. Hansei moves. It asks not just "what went wrong?" but "what did I fail to notice? What assumption turned out to be wrong? What would I do differently, and why?" Those questions generate insight you can actually use in the next interaction. That is the whole point.
+Regret loops back to the same moment without producing anything new. Hansei moves forward. It asks not just "what went wrong?" but "what did I fail to notice? What assumption turned out to be wrong? What would I do differently, and why?" Those questions generate insight that can be applied in the next interaction.
 
-### How to Practise Hansei
+That forward orientation is what makes hansei a professional tool rather than emotional dwelling.
 
-Hansei does not require a formal meeting or a long block of quiet time. In practice, it fits naturally into the pauses that already exist in a shift: a quiet moment before the next guest arrives, the walk between floors, the last few minutes before you go off duty.
+## How to Practise Hansei
+
+Hansei does not require a formal meeting or a long block of quiet time. It fits naturally into the pauses that already exist in a shift: a quiet moment before the next guest arrives, the walk between floors, the last few minutes before going off duty.
 
 A simple hansei practice for hospitality professionals:
-1. **Identify a moment**, a specific interaction, decision, or response
-2. **Describe what happened**, factually, without judgement
-3. **Ask what you noticed**, and what you may have missed
-4. **Ask what you would do differently**, and why
-5. **Name one thing to try differently next time**
 
-Worth noting: the fifth step is not optional. Hansei without a clear intention to act differently is incomplete. Looking back only has value when it helps you move forward more skillfully.
+- Identify a moment — a specific interaction, decision, or response
+- Describe what happened, factually, without judgement
+- Ask what you noticed, and what you may have missed
+- Ask what you would do differently, and why
+- Name one thing to try differently next time
+
+The final step is essential. Hansei without a clear intention to act differently is incomplete. Looking back only has value when it helps you move forward more skilfully.
 
 ---
 
 ## Key Phrases
 
-**反省 (hansei)**: self-reflection; the deliberate, honest examination of one's own conduct and decisions for the purpose of growth; a central practice of Japanese professional and personal life
+**反省**
+*Hansei.*
+"Self-reflection."
 
-**次はもっとうまくできると思います (tsugi wa motto umaku dekiru to omoimasu)** *(Tsugi wa motto umaku dekiru to omoimasu.)*
-"I believe I can do better next time.": the natural conclusion of a genuine hansei practice; a commitment forward, not a dwelling backward
+The deliberate, honest examination of one's own conduct and decisions for the purpose of growth. A central practice of Japanese professional and personal life.
+
+**次はもっとうまくできると思います。**
+*Tsugi wa motto umaku dekiru to omoimasu.*
+"I believe I can do better next time."
+
+The natural conclusion of a genuine hansei practice. A commitment forward, not a dwelling backward.
 
 ---
 

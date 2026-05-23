@@ -4,16 +4,22 @@ section: 1
 title: The Culture and History of Onsen
 ---
 
-**Onsen (温泉)**, natural hot spring baths, occupy a place in Japanese life that goes well beyond bathing. They are a health practice, a social tradition, a form of nature appreciation, and for many Japanese people, a genuinely restorative experience tied to centuries of cultural memory. When you can speak about onsen with real depth rather than reading bullet points off a pamphlet, guests notice. That difference in how you come across matters more than new staff usually expect.
+**Onsen (温泉)** are natural hot spring baths with a place in Japanese life that extends far beyond bathing. They are a health practice, a social tradition, a form of nature appreciation, and a genuinely restorative experience rooted in centuries of cultural memory. Staff who can speak about onsen with real depth, rather than reciting a pamphlet, provide a meaningfully different experience for guests.
 
-**History:**
+## History
 
-Japan sits on one of the most volcanically active zones on the planet, which gives it an extraordinary concentration of natural hot spring sources spread across the country. Onsen bathing has been recorded since at least the Nara period in the 8th century, and certain springs, Dōgo Onsen in Ehime and Arima Onsen in Hyōgo among them, are counted among Japan's oldest in continuous use. The original purpose was medicinal: mineral-rich waters were believed to treat skin conditions, joint pain, fatigue, and internal ailments. The relaxation aspect came later, almost as a side effect.
+Japan sits on one of the most volcanically active zones on the planet, giving it an extraordinary concentration of natural hot spring sources across the country. Onsen bathing has been recorded since at least the Nara period in the 8th century. Certain springs, among them Dōgo Onsen in Ehime and Arima Onsen in Hyōgo, are counted among Japan's oldest in continuous use.
 
-**The concept of *tōjiba* (湯治場):**
-Traditional onsen towns were built around *tōji*, the practice of therapeutic soaking over extended stays, sometimes lasting weeks. Guests would settle near the source and bathe multiple times a day as a form of ongoing treatment, not a single night's luxury experience. Worth noting here: this history directly explains why many Japanese guests still approach onsen as something restorative and medicinal rather than a premium add-on. That mindset is quite different from how most international visitors think about it. Students often underestimate how much this distinction shapes the conversation. Once you understand both perspectives, you can speak meaningfully to each type of guest without missing the mark.
+The original purpose was medicinal. Mineral-rich waters were believed to treat skin conditions, joint pain, fatigue, and internal ailments. The relaxation aspect developed later, almost as a side effect of the therapeutic tradition.
 
-**Water types and their properties:**
+## The Concept of Tōjiba (湯治場)
+
+Traditional onsen towns were built around *tōji*, the practice of therapeutic soaking over extended stays, sometimes lasting weeks. Guests would settle near the spring source and bathe multiple times a day as a form of ongoing treatment, not a single night's luxury experience.
+
+This history explains why many Japanese guests still approach onsen as something restorative and medicinal rather than a premium amenity. That perspective differs significantly from how most international visitors think about it. Understanding both allows staff to speak meaningfully to each type of guest.
+
+## Water Types and Their Properties
+
 Different springs carry different minerals, and each is associated with specific therapeutic effects:
 
 | Type | Japanese | Associated benefits |
@@ -24,18 +30,29 @@ Different springs carry different minerals, and each is associated with specific
 | Iron | 含鉄泉 | Anaemia, fatigue |
 | Simple thermal | 単純温泉 | General relaxation |
 
-In practice, knowing your property's water type and describing its properties clearly and confidently is a genuine service skill. Guests ask about this far more often than you might expect coming in. A clear, accurate answer builds trust immediately. A vague or fumbled one does the opposite just as fast.
+Knowing your property's water type and describing its properties clearly and confidently is a genuine service skill. Guests ask about this regularly, and a clear, accurate answer builds trust immediately.
 
 ---
 
 ## Key Phrases
 
-**温泉 (onsen)**: natural hot spring; distinct from a regular bath (*furoba*)
+**温泉 (onsen)**
+*Onsen.*
+"Hot spring."
 
-**湯治 (tōji)**: extended therapeutic soaking; the historical basis for the restorative reputation of onsen
+The term refers specifically to a natural hot spring bath, distinct from a regular bath (*furoba*). Understanding this distinction helps when speaking with guests about the property's facilities.
 
-**こちらの温泉は○○泉でございます。○○に効果があると言われております。** *(Kochira no onsen wa ○○-sen de gozaimasu. ○○ ni kōka ga aru to iwarete orimasu.)*
-"Our hot spring is a ○○ spring. It is said to be effective for ○○.": the recommended template for explaining a spring's water type to guests
+**湯治 (tōji)**
+*Tōji.*
+"Extended therapeutic soaking."
+
+The historical practice of bathing repeatedly over days or weeks for medicinal benefit. This tradition is the foundation of the restorative reputation that onsen carry today.
+
+**こちらの温泉は○○泉でございます。○○に効果があると言われております。**
+*Kochira no onsen wa ○○-sen de gozaimasu. ○○ ni kōka ga aru to iwarete orimasu.*
+"Our hot spring is a ○○ spring. It is said to be effective for ○○."
+
+The recommended template for explaining a spring's water type to guests. Filling in the details accurately and confidently communicates genuine knowledge of the property.
 
 ---
 

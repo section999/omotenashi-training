@@ -4,31 +4,40 @@ section: 2
 title: Telephone Manner in Japanese Hospitality
 ---
 
-The telephone call occupies a different register in Japanese business culture than in many Western contexts. It is considered more formal and more significant than a casual interaction. The caller has chosen to speak directly rather than message, and that choice carries an implicit weight: something is important enough to warrant a voice. Receiving a call well is a core professional skill that many staff underestimate until they get it wrong.
+The telephone call occupies a more formal register in Japanese business culture than in many other contexts. A caller who chooses to speak by phone is signalling that the matter is important enough to warrant a direct voice conversation. Receiving that call well is a core professional skill.
 
-**Answering the phone:**
+## Answering the Phone
 
-Pick up within three rings. Answering after five or more rings requires an immediate apology: *"大変お待たせいたしました"* (I sincerely apologise for keeping you waiting).
+Pick up within three rings. Answering after five or more rings requires an immediate apology before anything else: *"大変お待たせいたしました"* (I sincerely apologise for keeping you waiting).
 
-Standard answer format:
+The standard answer format is:
 *"○○ホテル、○○でございます。いつもお世話になっております。"*
-- "[Property name], this is [your name]. Thank you for calling."
+"[Property name], this is [your name]. Thank you for calling."
 
 The phrase *"いつもお世話になっております"* (thank you for your continued support) is standard in Japanese business calls. Use it with guests who have stayed before or with business partners.
 
-**Active listening signals:**
+## Active Listening Signals
 
-In Japanese telephone conversation, the listener regularly signals that they are following the speaker: *"はい"* (yes), *"承知いたしました"* (understood), *"かしこまりました"* (certainly). These are not interruptions. They are required social signals. Silence on a phone call communicates disconnection, or worse, that the line has dropped. Students often find this habit awkward at first. It becomes second nature quickly.
+In Japanese telephone conversation, the listener regularly signals that they are following the speaker. Common responses include:
 
-**Taking a message:**
+- *"はい"* (yes)
+- *"承知いたしました"* (understood)
+- *"かしこまりました"* (certainly)
 
-When the caller needs someone who is unavailable:
+These are not interruptions. They are required social signals. Silence on a phone call communicates disconnection — or that the line has dropped. These acknowledgements may feel unfamiliar at first, but they become natural with practice.
+
+## Taking a Message
+
+When the caller needs someone who is unavailable, follow these steps:
+
 - Confirm the caller's name and contact number
 - Note the purpose of the call
 - Give a specific timeframe for the callback: *"○○より1時間以内にご連絡いたします"* (○○ will contact you within one hour)
 - Repeat the details back to confirm accuracy
 
-**Ending the call:**
+A vague "we'll call back" is not acceptable. Always give a specific timeframe.
+
+## Ending the Call
 
 Do not hang up until the guest has disconnected. In Japanese telephone etiquette, hanging up first is considered abrupt. Wait for the line to go quiet before replacing the receiver.
 
@@ -36,14 +45,23 @@ Do not hang up until the guest has disconnected. In Japanese telephone etiquette
 
 ## Key Phrases
 
-**○○ホテル、○○でございます。いつもお世話になっております。** *(○○ hoteru, ○○ de gozaimasu. Itsumo o-sewa ni natte orimasu.)*
-"[Property name], this is [your name]. Thank you for your continued support.": the standard opening for professional phone calls at a hospitality property; the second phrase is used with repeat guests or business contacts
+**○○ホテル、○○でございます。いつもお世話になっております。**
+*○○ hoteru, ○○ de gozaimasu. Itsumo o-sewa ni natte orimasu.*
+"[Property name], this is [your name]. Thank you for your continued support."
 
-**大変お待たせいたしました。** *(Taihen o-matase itashimashita.)*
-"I sincerely apologise for keeping you waiting.": required when answering after five or more rings; acknowledges the delay before any other exchange
+This is the standard opening for professional phone calls at a hospitality property. The second phrase is used with repeat guests or business contacts to acknowledge the ongoing relationship.
 
-**○○より1時間以内にご連絡いたします。** *(○○ yori ichi-jikan inai ni go-renraku itashimasu.)*
-"○○ will contact you within one hour.": the correct format when taking a message; always includes a specific timeframe rather than a vague "we'll call back"
+**大変お待たせいたしました。**
+*Taihen o-matase itashimashita.*
+"I sincerely apologise for keeping you waiting."
+
+Use this phrase when answering after five or more rings. It acknowledges the delay before any other exchange begins.
+
+**○○より1時間以内にご連絡いたします。**
+*○○ yori ichi-jikan inai ni go-renraku itashimasu.*
+"○○ will contact you within one hour."
+
+This is the correct format when taking a message. It always includes a specific timeframe rather than a vague promise to call back.
 
 ---
 

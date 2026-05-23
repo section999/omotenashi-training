@@ -4,11 +4,11 @@ section: 3
 title: Kenjōgo, Lowering Yourself to Honour the Guest
 ---
 
-**Kenjōgo (謙譲語)** is humble language. Where sonkeigo elevates the guest, kenjōgo lowers the speaker. By making yourself linguistically smaller, you make the guest feel proportionally larger, more significant, more respected.
+Kenjōgo (謙譲語) is humble language. Where sonkeigo elevates the guest, kenjōgo lowers the speaker. By making yourself linguistically smaller, you make the guest feel proportionally more significant and respected.
 
 This is not self-deprecation. It is a deliberate act of deference that guests feel even if they do not consciously analyse the grammar.
 
-Key kenjōgo verbs:
+## Kenjōgo Verb Substitutions
 
 | Ordinary | Kenjōgo | Meaning |
 |---|---|---|
@@ -20,22 +20,33 @@ Key kenjōgo verbs:
 | 行く / 来る | 参る (mairu) | to go / to come |
 | 知る (shiru) | 存じる (zonjiru) | to know |
 
-In practice: when offering to carry a guest's bag, you would say *"お荷物をお持ちいたします"*, using いたす (the kenjōgo of する) to signal that it is your privilege, not a burden, to serve.
+## A Useful Pattern
 
-A common structural pattern is **お + verb stem + する / いたす** (e.g., *ご案内いたします*, "I will guide you"). This construction comes up constantly throughout hotel and restaurant service, so it is worth getting comfortable with it early.
+A common structural pattern is **お + verb stem + する / いたす**. For example, *ご案内いたします* means "I will guide you." This construction appears throughout hotel and restaurant service and is worth becoming comfortable with early.
+
+When offering to carry a guest's bag, for example, the correct phrase is *お荷物をお持ちいたします*, using いたす (the kenjōgo of する) to signal that serving the guest is a privilege.
 
 ---
 
 ## Key Phrases
 
-**お荷物をお持ちいたします。** *(O-nimotsu wo o-mochi itashimasu.)*
-"Allow me to carry your luggage.": *itashimasu* (kenjōgo of *shimasu*) lowers the speaker's action
+**お荷物をお持ちいたします。**
+*O-nimotsu wo o-mochi itashimasu.*
+"Allow me to carry your luggage."
 
-**ご案内いたします。** *(Go-annai itashimasu.)*
-"I will guide you.": the standard kenjōgo phrase for escorting a guest
+Itashimasu is the kenjōgo form of shimasu, lowering the speaker's action to show deference.
 
-**参ります。** *(Mairimasu.)*
-"I will go / I am coming.": kenjōgo for *ikimasu/kimasu* when speaking of one's own movement
+**ご案内いたします。**
+*Go-annai itashimasu.*
+"I will guide you."
+
+The standard kenjōgo phrase used when escorting a guest to a room, table, or facility.
+
+**参ります。**
+*Mairimasu.*
+"I will go / I am coming."
+
+The kenjōgo form of ikimasu and kimasu, used when speaking of one's own movement.
 
 ---
 

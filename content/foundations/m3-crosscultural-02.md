@@ -4,43 +4,55 @@ section: 2
 title: Religious and Dietary Considerations
 ---
 
-Food is one of the most significant points of cross-cultural contact in hospitality, and one of the most consequential. A guest who cannot eat what is served has not been fed. A guest who has been served something that violates their religious practice has been genuinely harmed. I want to be direct about this: understanding the major dietary requirements that hospitality professionals will encounter is not optional knowledge.
+Food is one of the most significant points of cross-cultural contact in hospitality, and one of the most consequential. A guest who cannot eat what is served has not been fed. A guest who has been served something that violates their religious practice has been genuinely harmed. Understanding the major dietary requirements that hospitality professionals will encounter is not optional knowledge.
 
-**Islam, Halal:**
+## Halal (Islam)
 
-Muslim guests require *halal* food: meat slaughtered according to Islamic law, free from pork and pork derivatives, and free from alcohol, including cooking alcohol. Japan's halal infrastructure is growing but uneven. Students often underestimate how many common Japanese ingredients are affected. Key points:
+Muslim guests require halal food: meat slaughtered according to Islamic law, free from pork and pork derivatives, and free from alcohol, including cooking alcohol. Japan's halal infrastructure is growing but uneven, and many common Japanese ingredients are affected in ways that are easy to overlook.
+
+Key points:
 
 - Confirm with the kitchen whether dishes contain sake, mirin, or pork-based dashi. These are standard in Japanese cooking and completely invisible to the guest.
 - If the kitchen cannot guarantee halal preparation, be honest. A guest who trusts your word and discovers later that the food was not halal has been seriously failed.
 - Facilitate alternatives: point guests toward certified halal restaurants in the area.
 
-**Hinduism, Vegetarian and beef restrictions:**
+## Vegetarian and Beef Restrictions (Hinduism)
 
-Many Hindu guests are vegetarian; others avoid beef specifically. Again, Japanese dashi (stock) is frequently fish-based. Confirm this when it matters.
+Many Hindu guests are vegetarian; others avoid beef specifically. Japanese dashi (stock) is frequently fish-based. Confirm this whenever it is relevant to a guest's dietary requirement.
 
-**Judaism, Kosher:**
+## Kosher (Judaism)
 
-Full kosher certification requires rabbinic supervision and is extremely rare in Japanese establishments. That said, honest communication here is more important than attempting to approximate compliance.
+Full kosher certification requires rabbinic supervision and is extremely rare in Japanese establishments. Honest communication here is more important than attempting to approximate compliance.
 
-**Vegetarian and vegan:**
+## Vegetarian and Vegan
 
-Japanese cuisine can appear vegetarian but frequently uses *katsuobushi* (dried bonito) or fish-based dashi. Always verify with the kitchen and offer genuine alternatives, tofu, vegetable dashi, plant-based dishes, rather than simply removing meat from a dish that was never designed to be meatless.
+Japanese cuisine can appear vegetarian but frequently uses *katsuobushi* (dried bonito) or fish-based dashi. Always verify with the kitchen and offer genuine alternatives — tofu, vegetable dashi, plant-based dishes — rather than simply removing meat from a dish that was never designed to be meatless.
 
-**Allergies:**
+## Allergies
 
-Treat allergen enquiries with the same seriousness as religious dietary requirements. A guest with a severe nut allergy asking about ingredients is asking a safety question, full stop.
+Treat allergen enquiries with the same seriousness as religious dietary requirements. A guest with a severe nut allergy asking about ingredients is asking a safety question.
 
 ---
 
 ## Key Phrases
 
-**ハラール / ハラル (harāru)**: halal; food and preparation methods permissible under Islamic law; key considerations in Japan include mirin, sake, and pork-based dashi, which are common and easily overlooked
+**ハラール / ハラル (harāru)**
+*Harāru.*
+"Halal."
 
-**こちらのお料理にはみりんが含まれております。** *(Kochira no o-ryōri ni wa mirin ga fukumarete orimasu.)*
-"This dish contains mirin.": honest, direct disclosure of an ingredient relevant to dietary restrictions; always precedes an offer of alternatives
+This term refers to food and preparation methods permissible under Islamic law. Key considerations in Japan include mirin, sake, and pork-based dashi, which are common ingredients and easily overlooked.
 
-**別途お召し上がりいただけるものをお探しいたします。** *(Betto o-meshiagari itadakeru mono o o-sagashi itashimasu.)*
-"I will find something else you can enjoy.": the appropriate follow-up when a dish cannot meet a guest's dietary requirement; turns a restriction into an act of care
+**こちらのお料理にはみりんが含まれております。**
+*Kochira no o-ryōri ni wa mirin ga fukumarete orimasu.*
+"This dish contains mirin."
+
+An honest, direct disclosure of an ingredient relevant to dietary restrictions. This phrase should always precede an offer of alternatives.
+
+**別途お召し上がりいただけるものをお探しいたします。**
+*Betto o-meshiagari itadakeru mono o o-sagashi itashimasu.*
+"I will find something else you can enjoy."
+
+The appropriate follow-up when a dish cannot meet a guest's dietary requirement. It turns a restriction into an act of care.
 
 ---
 

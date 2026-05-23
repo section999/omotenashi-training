@@ -4,50 +4,47 @@ section: 4
 title: Summer Heat Greeting, July and August
 ---
 
-**Season:** Summer · June, August
+**Season:** Summer · July and August
 
-Japan's summer is genuinely demanding, temperatures in major cities regularly exceed 35°C, and the combination of heat and humidity makes movement outside tiring and sometimes unpleasant. Acknowledging this in your greeting is not small talk. It is an act of genuine care: *I see that you have been out in that heat, and I want you to know it matters.*
+Japan's summer is genuinely demanding. Temperatures in major cities regularly exceed 35°C, and the combination of heat and humidity makes movement outside tiring and sometimes unpleasant. Acknowledging this in a greeting is not small talk — it is an act of genuine care that says: I see that you have been out in that heat, and it matters.
 
-**The cultural significance of weather acknowledgement:**
+## The Cultural Significance of Weather Acknowledgement
 
-In Japanese communication, acknowledging the conditions the other person has been enduring, heat, cold, rain, is a fundamental expression of *omoiyari* (思いやり, empathy and consideration for others). When a staff member says *"It's so hot today, thank you for coming in this heat,"* they are not commenting on the weather; they are expressing awareness of what the guest has just experienced. The guest feels noticed and cared for before anything else happens.
+In Japanese communication, acknowledging the conditions the other person has been enduring — heat, cold, rain — is a fundamental expression of *omoiyari* (思いやり, empathy and consideration for others). When a staff member says *"It's so hot today, thank you for coming in this heat,"* they are not commenting on the weather. They are expressing awareness of what the guest has just experienced, and the guest feels noticed before anything else happens.
 
-This applies in both directions: in summer, the heat greeting acknowledges the effort of arriving. In the formal written context, the *shochū omimai* (暑中お見舞い), summer greeting card, is a standard professional communication expressing concern for the recipient during the difficult summer months.
+This applies in both directions. In summer, the heat greeting acknowledges the effort of arriving. In the formal written context, the *shochū omimai* (暑中お見舞い) — the summer greeting card — is a standard professional communication expressing concern for the recipient during the difficult summer months.
 
-**Practical care during summer:**
+## Practical Care During Summer
 
 Beyond the greeting, summer hospitality has specific practical requirements:
 
-- **Cold oshibori** on arrival: in summer, the warm oshibori of other seasons becomes a cold or lightly chilled one
-- **Cold barley tea** (*mugicha*, 麦茶) offered on arrival, naturally caffeine-free, traditional, refreshing
-- **Cooling before entering**: a brief moment in an air-conditioned lobby space, rather than immediately moving to check-in, gives guests a chance to regulate temperature
-- **Sunscreen, cooling spray, salt tablets**: these are legitimate amenity items for summer in Japan; offering to replenish or provide them is a thoughtful touch
-- **Hydration reminders**: particularly for guests planning outdoor excursions, a brief word about the heat and a recommendation to carry water is genuine care, not over-parenting
+- **Cold oshibori on arrival** — in summer, the warm oshibori of other seasons becomes cold or lightly chilled
+- **Cold barley tea** (*mugicha*, 麦茶) offered on arrival — naturally caffeine-free, traditional, and refreshing
+- **Cooling before check-in** — a brief moment in an air-conditioned lobby space, rather than immediately moving to the desk, gives guests a chance to regulate their temperature
+- **Sunscreen, cooling spray, salt tablets** — legitimate amenity items for summer in Japan; offering to provide or replenish them is a thoughtful touch
+- **Hydration reminders** — for guests planning outdoor excursions, a brief word about the heat and a recommendation to carry water is genuine care
 
 ---
 
-## Summer Greetings
+## Key Phrases
 
-**Spoken greeting, warm arrival:**
-暑い中をお越しいただきありがとうございます。
-
+**暑い中をお越しいただきありがとうございます。**
 *Atsui naka wo okoshi itadaki arigatō gozaimasu.*
-
 "Thank you for coming in this heat."
 
-**Formal written greeting (July–August):**
-暑中お見舞い申し上げます。
+This is the standard spoken greeting for summer arrivals. It acknowledges the conditions immediately and puts the guest's experience at the centre of the welcome.
 
+**暑中お見舞い申し上げます。**
 *Shochū omimai mōshiagemasu.*
-
 "I offer my summer greetings to you."
 
-**Late summer (after *Risshu*, the start of autumn, August 7–8):**
-残暑お見舞い申し上げます。
+Used in formal written communications from July through early August. This is a standard professional expression in Japanese business correspondence during the peak summer months.
 
+**残暑お見舞い申し上げます。**
 *Zansho omimai mōshiagemasu.*
+"I offer my late-summer greetings — the summer heat lingers."
 
-"I offer my late-summer greetings, the summer heat lingers."
+Used after *Risshū* (立秋, the traditional start of autumn, around August 7–8). The word *zansho* (残暑) means lingering heat, and the phrase acknowledges that summer is not yet over despite the calendar turning.
 
 ---
 

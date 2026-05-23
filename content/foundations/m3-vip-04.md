@@ -4,35 +4,45 @@ section: 4
 title: Handling Entourages and Support Staff
 ---
 
-Many VIP guests arrive with a support team: personal assistants, security personnel, publicists, medical staff, or family members. Managing these relationships well is as important as managing the guest's own experience, because the entourage shapes much of what the principal guest receives. This is an area where properties regularly underperform. Staff focus entirely on the principal and treat everyone else as an afterthought. Don't do that.
+Many VIP guests arrive with a support team: personal assistants, security personnel, publicists, medical staff, or family members. Managing these relationships well is as important as managing the guest's own experience, because the entourage shapes much of what the principal guest receives.
 
-**The personal assistant or chief of staff:**
+## The Personal Assistant or Chief of Staff
 
-In many cases, a PA or chief of staff is the primary point of contact for the property. They manage the guest's schedule, communicate preferences, and approve arrangements. Treat them with the same attentiveness as the principal guest. They carry delegated authority and significant influence over how the guest perceives the stay.
+In many cases, a PA or chief of staff is the primary point of contact for the property. They manage the guest's schedule, communicate preferences, and approve arrangements. Treat them with the same attentiveness as the principal guest — they carry delegated authority and significant influence over how the guest perceives the stay.
 
-Establish contact before arrival: *"I understand you are coordinating Mr/Ms ○○'s stay. I am ○○, and I will be your point of contact throughout. Please let me know anything you need."* One more thing: do this before they ask you to.
+Establish contact before arrival: *"I understand you are coordinating Mr/Ms ○○'s stay. I am ○○, and I will be your point of contact throughout. Please let me know anything you need."* This contact should be made proactively, before they need to ask for it.
 
-**Security personnel:**
+## Security Personnel
 
-Security staff have specific operational requirements. They need to know the property's floor plan, service entrances, emergency exits, and communication channels. Brief them thoroughly on arrival and assign a staff contact available to them throughout the stay. Do not treat security personnel as obstacles. They are part of the team protecting the guest.
+Security staff have specific operational requirements. They need to know the property's floor plan, service entrances, emergency exits, and communication channels. Brief them thoroughly on arrival and assign a staff contact available to them throughout the stay.
 
-**Managing the entourage's needs:**
+Security personnel are part of the team protecting the guest. They are not obstacles to work around.
 
-Support staff have their own rooms, meals, and logistical requirements. These are often coordinated separately from the principal guest, but must be managed with equal care. A PA who cannot get their meals sorted will be frustrated, and that frustration affects how they represent the stay to the person they support. The principal guest feels this, even if they never say so.
+## Managing the Entourage's Needs
 
-**The internal briefing:**
+Support staff have their own rooms, meals, and logistical requirements. These are often coordinated separately from the principal guest, but must be managed with equal care. A PA who cannot get their meals sorted will be frustrated, and that frustration affects how they represent the stay to the person they support.
 
-Every staff member who may come into contact with the VIP guest or their entourage should be briefed. Not on gossip or personal details, but on name pronunciation, preferred form of address, known sensitivities, and the scale of the party. An uninformed colleague can undo careful preparation in a single interaction. It happens faster than you expect.
+## The Internal Briefing
+
+Every staff member who may come into contact with the VIP guest or their entourage should be briefed — not on personal details, but on name pronunciation, preferred form of address, known sensitivities, and the scale of the party.
+
+An uninformed colleague can undo careful preparation in a single interaction. Briefing the full team before arrival prevents this.
 
 ---
 
 ## Key Phrases
 
-**ご滞在中、担当としてご対応させていただきます○○と申します。** *(Go-taizai-chū, tantō to shite go-taiō sasete itadakimasu ○○ to mōshimasu.)*
-"I am ○○, and I will be your point of contact throughout the stay.": the correct self-introduction to a VIP guest's personal assistant or chief of staff; establishes a named, direct relationship from the outset
+**ご滞在中、担当としてご対応させていただきます○○と申します。**
+*Go-taizai-chū, tantō to shite go-taiō sasete itadakimasu ○○ to mōshimasu.*
+"I am ○○, and I will be your point of contact throughout the stay."
 
-**ご同行の皆様のご要望も、どうぞお気軽にお申し付けください。** *(Go-dōkō no mina-sama no go-yōbō mo, dōzo o-ki garu ni o-mōshitsuke kudasai.)*
-"Please don't hesitate to let us know the needs of the members of your party as well.": extends the same quality of service explicitly to entourage members, ensuring no one's needs fall through the gap
+This is the correct self-introduction to a VIP guest's personal assistant or chief of staff. It establishes a named, direct relationship from the outset and signals that coordination will be handled personally.
+
+**ご同行の皆様のご要望も、どうぞお気軽にお申し付けください。**
+*Go-dōkō no mina-sama no go-yōbō mo, dōzo o-ki garu ni o-mōshitsuke kudasai.*
+"Please don't hesitate to let us know the needs of the members of your party as well."
+
+This phrase explicitly extends the same quality of service to entourage members, ensuring that no one's needs fall through the gap.
 
 ---
 

@@ -4,28 +4,46 @@ section: 1
 title: The Role of Gifts in Japanese Culture
 ---
 
-Gift-giving in Japan, **贈答 (zōtō)**, is not a casual act. It is a structured social ritual that carries real weight: gratitude, respect, obligation, and care all woven together in a single wrapped box. Understanding this matters for hospitality professionals, both for serving guests who participate in it and for knowing how to present gifts on behalf of your property.
+Gift-giving in Japan, **贈答 (zōtō)**, is a structured social practice that carries real meaning. Gratitude, respect, obligation, and care are all expressed through a single wrapped gift. Understanding this practice matters for hospitality professionals who serve guests participating in it and who may present gifts on behalf of their property.
 
-At its core, Japanese gift-giving is governed by a concept called **giri (義理)**, a sense of social duty or obligation. A gift is rarely just a gift. It is an acknowledgement of a relationship and an investment in its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries real social weight. Students often find this uncomfortable at first, as if the sentiment must be forced. But once you understand that giri is about maintaining connections rather than checking a box, it starts to feel much more natural. Think of it as the formalised version of what good friends do anyway.
+## Giri and the Social Purpose of Gifts
 
-**Two major gift-giving seasons:**
+At the core of Japanese gift-giving is a concept called **giri (義理)**, a sense of social duty or obligation. A gift is not simply a pleasant gesture — it acknowledges a relationship and affirms its continuity. Returning from a trip without omiyage for colleagues, or arriving at someone's home empty-handed, carries genuine social weight in Japanese culture.
 
-- **Ochugen (お中元)**: mid-year gift season, typically July (June in some regions). Gifts are sent to people who have helped you over the first half of the year: mentors, clients, doctors, teachers.
-- **Oseibo (お歳暮)**: year-end gift season, December. Broader in scope than ochugen, oseibo gifts are sent to express gratitude for the entire year.
+Giri is best understood as the formalised expression of care for ongoing relationships. The gift communicates that the connection matters and deserves to be maintained.
 
-**Why this matters in hospitality:**
+## The Two Major Gift-Giving Seasons
 
-In practice, guests participating in these customs will look to you for guidance, whether selecting something at the property's shop or asking about local specialties worth bringing home. Staff who understand giri and zōtō can respond with the right level of appreciation, handle received gifts correctly, and help guests make choices that will land well with whoever receives them. That kind of guidance is a genuine service.
+Japanese gift culture centres on two annual seasons:
+
+- **Ochugen (お中元)**: the mid-year gift season, typically in July (June in some regions). Gifts are sent to those who have provided support over the first half of the year, such as mentors, clients, doctors, and teachers.
+- **Oseibo (お歳暮)**: the year-end gift season, held in December. Broader in scope than ochugen, oseibo gifts express gratitude for the year as a whole.
+
+## Why This Matters in Hospitality
+
+Guests participating in these customs will often look to staff for guidance, whether they are selecting something at the property's shop or asking about local specialties worth bringing home. Staff who understand giri and zōtō can respond appropriately, handle received gifts correctly, and help guests make choices that will be well received by the intended recipients.
 
 ---
 
 ## Key Phrases
 
-**贈答 (zōtō)**: the structured social practice of gift-giving in Japanese culture
+**贈答**
+*Zōtō.*
+"Gift-giving."
 
-**義理 (giri)**: social duty or obligation; the underlying motivation for many gift exchanges
+The formal term for the structured social practice of giving and receiving gifts in Japanese culture.
 
-**お中元 / お歳暮 (ochugen / oseibo)**: the two principal gift-giving seasons: mid-year (July) and year-end (December)
+**義理**
+*Giri.*
+"Social duty; obligation."
+
+The underlying motivation for many gift exchanges. Giri reflects a sense of responsibility for maintaining relationships rather than a desire for personal gain.
+
+**お中元 / お歳暮**
+*Ochugen / Oseibo.*
+"Mid-year gift / Year-end gift."
+
+The two principal gift-giving seasons in Japan. Ochugen falls in July and oseibo in December.
 
 ---
 

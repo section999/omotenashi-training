@@ -4,9 +4,11 @@ section: 2
 title: Sonkeigo, Honouring the Guest's Actions
 ---
 
-**Sonkeigo (尊敬語)** is used to describe the guest's actions, states, or possessions with elevated language. When you speak about what a guest does, you use sonkeigo, not ordinary verbs, to convey that their actions carry a higher status than your own.
+Sonkeigo (尊敬語) is used to describe the guest's actions, states, or possessions with elevated language. When the guest is the subject of a sentence, ordinary verbs are replaced entirely with sonkeigo forms to convey that their actions carry higher status.
 
-The transformation is not simply adding a polite prefix; the verbs themselves change entirely:
+The transformation is not simply adding a polite prefix. The verbs themselves change completely.
+
+## Sonkeigo Verb Substitutions
 
 | Ordinary | Sonkeigo | Meaning |
 |---|---|---|
@@ -18,20 +20,33 @@ The transformation is not simply adding a polite prefix; the verbs themselves ch
 | 飲む (nomu) | 召し上がる (meshiagaru) | to drink |
 | する (suru) | なさる (nasaru) | to do |
 
-In practice: instead of saying *"お客様は食べますか？"* (casual), a hospitality professional says *"お客様は召し上がりますか？"*, using the sonkeigo form to honour the guest's action of eating.
+## A Useful Pattern
 
-A useful tip: sonkeigo patterns often use the structure **お + verb stem + になる** (e.g., *お帰りになる*, "to return/go back"). Recognising this pattern helps you construct polite forms even for verbs you have not yet memorised. Students who notice the pattern tend to adapt much faster than those who try to memorise every form individually.
+Many sonkeigo forms follow the structure **お + verb stem + になる**. For example, *お帰りになる* means "to return." Recognising this pattern makes it possible to construct polite forms even for verbs not yet memorised.
+
+For example, instead of *お客様は食べますか？* (casual), a hospitality professional says *お客様は召し上がりますか？*, using the sonkeigo form to honour the guest's action.
 
 ---
 
 ## Key Phrases
 
-**お客様は召し上がりますか？** *(O-kyakusama wa meshiagarimasu ka?)*
-"Would you like to eat/drink?": *meshiagaru* is the sonkeigo form for eating or drinking
+**お客様は召し上がりますか？**
+*O-kyakusama wa meshiagarimasu ka?*
+"Would you like to eat/drink?"
 
-**いらっしゃいます** *(irasshaimasu)*: sonkeigo for "to be / to come / to go" when referring to the guest
+Meshiagaru is the sonkeigo form for both eating and drinking. It replaces 食べる and 飲む when the guest is the subject.
 
-**おっしゃいました** *(osshaimashita)*: sonkeigo for "said" when referring to the guest's words
+**いらっしゃいます**
+*Irasshaimasu.*
+"To be / to come / to go" (referring to the guest).
+
+This is one of the most frequently used sonkeigo forms in hospitality speech.
+
+**おっしゃいました**
+*Osshaimashita.*
+"Said" (referring to the guest's words).
+
+Used when reporting or acknowledging something the guest has expressed.
 
 ---
 

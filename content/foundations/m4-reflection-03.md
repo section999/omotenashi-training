@@ -4,37 +4,47 @@ section: 3
 title: The End-of-Shift Review
 ---
 
-How a shift ends matters as much as how it begins. The moments right after a shift, before the energy of the work has fully faded and while the details of specific interactions are still alive in your memory, are the best time to reflect. A short, deliberate end-of-shift review turns the shift from an isolated event into a building block: something you actually learned from, something that makes the next shift a little better.
+How a shift ends matters as much as how it begins. The moments right after a shift — before the energy of the work has fully faded and while the details of specific interactions are still alive in memory — are the best time to reflect. A short, deliberate end-of-shift review turns the shift from an isolated event into a building block: something actually learned from, something that makes the next shift a little better.
 
-### Why Most Shifts End Without Reflection
+## Why Most Shifts End Without Reflection
 
-The end of a shift lands right alongside physical tiredness, the handover rush, and the pull of personal life. Reflection, in that moment, feels like optional extra work you can skip. That perception is understandable, but it costs you something real. The shift that ends without any review leaves its lessons unretrieved. What you noticed during service, the interaction that felt particularly right, the moment that felt slightly off, the small inefficiency that caused an unnecessary delay, simply fades by morning. The next shift begins without any of what the previous one could have taught you.
+The end of a shift arrives alongside physical tiredness, the handover rush, and the pull of personal life. Reflection in that moment can feel like optional extra work. But the shift that ends without any review leaves its lessons unretrieved. What was noticed during service — the interaction that felt particularly right, the moment that felt slightly off, the small inefficiency that caused an unnecessary delay — simply fades by morning. The next shift begins without any of what the previous one could have taught.
 
-### A Simple End-of-Shift Review Practice
+## A Simple End-of-Shift Review Practice
 
-The review does not need to be long or formal. Five minutes, done consistently, is far more valuable than an occasional hour-long debrief that nobody actually does. Students often assume reflection requires a quiet room and a notebook, but it can happen on the walk to the locker room. A simple structure is all you need:
+The review does not need to be long or formal. Five minutes, done consistently, is far more valuable than an occasional hour-long debrief. It can happen on the walk to the locker room. A simple structure is all that is needed.
 
-**What went well?**
-Name one or two specific moments from the shift that felt right, a guest interaction you handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm, I noticed they were exhausted and moved quickly without making them feel rushed."
+### What went well?
 
-**What was difficult or incomplete?**
-Name one thing that did not go as well as it could have. Be specific again. What happened? What did you notice? What would you do differently next time?
+Name one or two specific moments from the shift that felt right — a guest interaction handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm — I noticed they were exhausted and moved quickly without making them feel rushed."
 
-**What is the one thing to carry into the next shift?**
-One single, concrete intention: "Tomorrow I will watch the moment guests pick up their menus, I missed two tables today who were ready to order." One intention, carried consistently, makes a real difference. Five intentions, forgotten before your next shift begins, do not.
+### What was difficult or incomplete?
 
-### The Team Review
+Name one thing that did not go as well as it could have. What happened? What was noticed? What would you do differently next time?
 
-When team culture supports it, a brief collective review at the end of service, even three or four minutes, creates shared learning and genuine improvement over time. What the team notices together, the team gets better at together.
+### What is the one thing to carry into the next shift?
+
+One single, concrete intention: "Tomorrow I will watch the moment guests pick up their menus — I missed two tables today who were ready to order." One intention, carried consistently, makes a real difference.
+
+## The Team Review
+
+When team culture supports it, a brief collective review at the end of service — even three or four minutes — creates shared learning and genuine improvement over time. What the team notices together, the team gets better at together.
 
 ---
 
 ## Key Phrases
 
-**振り返り (furikaeri)**: reflection; the practice of looking back at what happened in order to learn from it; literally "turning back and looking"; the Japanese equivalent of the end-of-shift review process
+**振り返り**
+*Furikaeri.*
+"Reflection."
 
-**次のシフトに活かします (tsugi no shifuto ni ikashimasu)** *(Tsugi no shifuto ni ikashimasu.)*
-"I will apply this to the next shift.": a commitment phrase that completes the reflection practice by naming how the insight will be carried forward into action
+The practice of looking back at what happened in order to learn from it. Literally "turning back and looking." The Japanese equivalent of the end-of-shift review process.
+
+**次のシフトに活かします。**
+*Tsugi no shifuto ni ikashimasu.*
+"I will apply this to the next shift."
+
+A commitment phrase that completes the reflection practice by naming how the insight will be carried forward into action.
 
 ---
 

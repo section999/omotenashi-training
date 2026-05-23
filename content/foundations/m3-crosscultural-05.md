@@ -6,39 +6,51 @@ title: Navigating Discomfort, When Cultures Meet
 
 Even with preparation and goodwill, moments of cross-cultural discomfort happen. A guest behaves in a way that conflicts with property norms. A custom they expect is not available. A misunderstanding creates tension. How these moments are handled is what the guest will remember.
 
-**The principle of charitable interpretation:**
+## The Principle of Charitable Interpretation
 
-Before interpreting any cross-cultural behaviour as rude, inconsiderate, or inappropriate, ask yourself: *is it possible that this is simply different?* A guest who is speaking loudly on the phone in the lobby may come from a culture where this is perfectly standard. A guest who argues assertively about a bill may simply not understand that in Japan, this is unusual. In practice, I find the professional assumption should almost always be that different behaviour comes from a different set of learned norms, not bad character.
+Before interpreting any cross-cultural behaviour as rude, inconsiderate, or inappropriate, ask: is it possible that this is simply different?
 
-**When cultural difference conflicts with house rules:**
+A guest who is speaking loudly on the phone in the lobby may come from a culture where this is perfectly standard. A guest who argues assertively about a bill may simply not understand that in Japan, this is unusual. The professional assumption should almost always be that different behaviour comes from a different set of learned norms, not bad character.
 
-If a guest's behaviour conflicts with a clear property rule, the onsen policy, noise curfew, no-shoe zones, the rule must be upheld. But the manner matters entirely.
+## When Cultural Difference Conflicts with House Rules
+
+If a guest's behaviour conflicts with a clear property rule — the onsen policy, noise curfew, no-shoe zones — the rule must be upheld. The manner matters entirely.
 
 Effective approach:
-1. Acknowledge the guest's perspective: *"I understand this may be different from what you are accustomed to."*
-2. Explain the rule briefly and without judgment: *"In our property / in Japanese custom, [X] is observed because [brief reason]."*
-3. Offer an alternative where possible: *"We do have a private option that might suit you better."*
 
-**Language barriers:**
+1. Acknowledge the guest's perspective: "I understand this may be different from what you are accustomed to."
+2. Explain the rule briefly and without judgment: "In our property / in Japanese custom, [X] is observed because [brief reason]."
+3. Offer an alternative where possible: "We do have a private option that might suit you better."
 
-Not all cross-cultural friction is about values. Some of it is simply language. A guest who appears rude may be struggling to express a reasonable request in an unfamiliar language. Patience, simple phrasing, and non-verbal communication, showing, pointing, writing, resolve most of these situations. Students are often surprised how much mileage they get from a notepad and a simple map.
+## Language Barriers
 
-**When you do not know:**
+Not all cross-cultural friction is about values. Some of it is simply language. A guest who appears rude may be struggling to express a reasonable request in an unfamiliar language. Patience, simple phrasing, and non-verbal communication — showing, pointing, writing — resolve most of these situations.
 
-Here's the thing: it is acceptable, and more professional, to say *"I am not certain, let me find out"* than to guess incorrectly about a cultural matter. Honest uncertainty followed by a genuine effort to help is always the right foundation.
+## When You Do Not Know
+
+It is acceptable, and more professional, to say "I am not certain, let me find out" than to guess incorrectly about a cultural matter. Honest uncertainty followed by a genuine effort to help is always the right foundation.
 
 ---
 
 ## Key Phrases
 
-**文化の違いからくるものかと存じます。** *(Bunka no chigai kara kuru mono ka to zonjimasu.)*
-"I believe this may come from a difference in cultural practice.": an internal framing phrase that guides the charitable interpretation mindset before approaching a guest about behaviour that conflicts with local norms
+**文化の違いからくるものかと存じます。**
+*Bunka no chigai kara kuru mono ka to zonjimasu.*
+"I believe this may come from a difference in cultural practice."
 
-**こちらでは○○をお願いしております。お分かりいただけますと幸いでございます。** *(Kochira de wa ○○ o o-negai shite orimasu. O-wakari itadakemasu to saiwai de gozaimasu.)*
-"In our property, we ask that ○○. We would be grateful for your understanding.": a warm, non-judgmental way to explain a house rule to a guest from a different cultural background
+An internal framing phrase that guides the charitable interpretation mindset before approaching a guest about behaviour that conflicts with local norms.
 
-**よろしければ、こちらをお試しいただけますか。** *(Yoroshikereba, kochira o o-tameshi itadakemasu ka.)*
-"Would you be willing to try this?": offers an alternative after a cultural conflict, giving the guest a way forward without confrontation
+**こちらでは○○をお願いしております。お分かりいただけますと幸いでございます。**
+*Kochira de wa ○○ o o-negai shite orimasu. O-wakari itadakemasu to saiwai de gozaimasu.*
+"In our property, we ask that ○○. We would be grateful for your understanding."
+
+A warm, non-judgmental way to explain a house rule to a guest from a different cultural background.
+
+**よろしければ、こちらをお試しいただけますか。**
+*Yoroshikereba, kochira o o-tameshi itadakemasu ka.*
+"Would you be willing to try this?"
+
+This phrase offers an alternative after a cultural conflict, giving the guest a way forward without confrontation.
 
 ---
 

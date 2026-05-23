@@ -4,37 +4,53 @@ section: 3
 title: Summer, Cooling Gestures and Festival Spirit
 ---
 
-Japanese summer is intense: hot, humid, and alive with the sound of cicadas and the energy of festivals. Hospitality in summer is shaped by one overriding concern: making the guest feel cool and refreshed. Every detail, from your greeting to the food on the table, should communicate relief from the heat.
+Japanese summer is intense: hot, humid, and alive with the sound of cicadas and the energy of festivals. Hospitality in summer is shaped by one overriding concern — making the guest feel cool and refreshed. Every detail, from the greeting to the food on the table, should communicate relief from the heat.
 
-**Seasonal greetings (June–August):**
-- *"暑い日が続いておりますが、お体にお気をつけください。"* "The heat continues, please take care of yourself."
-- *"お暑い中、ご来館いただきまして誠にありがとうございます。"* "Thank you sincerely for visiting in this heat."
+## Seasonal Greetings
 
-Students often skip the greeting and go straight to the check-in procedure. Don't. In the middle of summer, a guest who has just stepped in from 35-degree heat wants to feel that you noticed. These phrases are short and they do exactly that.
+The following phrases are appropriate from June through August:
 
-**The cooling gesture, uchimizu (打ち水):**
-A traditional practice of sprinkling water on the ground outside entrances to cool the air through evaporation. More than a practical measure, uchimizu shows that the host has already thought about the guest's comfort before they arrive. Worth noting: if your property performs uchimizu in summer, take a moment to explain it to guests. That one explanation transforms a simple act into a cultural experience. Most guests will never have seen it before.
+- *暑い日が続いておりますが、お体にお気をつけください。* "The heat continues, please take care of yourself."
+- *お暑い中、ご来館いただきまして誠にありがとうございます。* "Thank you sincerely for visiting in this heat."
 
-**Environment:**
-- Wind chimes (*furin*, 風鈴) at entrances create a cooling auditory atmosphere.
-- Cool-coloured arrangements: blue-glass vases, white flowers, bamboo elements.
-- Chilled oshibori (hand towels) offered on arrival. In winter these are warm; in summer, they should be cool. This small switch is something guests feel immediately.
+These phrases are brief, but they matter. A guest who has just stepped in from intense summer heat wants acknowledgement. A well-timed greeting communicates that you noticed.
 
-**Food and drink:**
-- Cold noodles: *sōmen*, *hiyashi chūka*, *zaru soba*.
-- Shaved ice (*kakigōri*): a summer classic, available in regional flavour variations.
-- Mugicha (麦茶, barley tea): the standard cold household and café drink, naturally caffeine-free.
-- Edamame, cold tofu (*hiyayakko*), cucumber dishes: all light, refreshing, and cooling.
+## The Cooling Gesture: Uchimizu (打ち水)
+
+Uchimizu is the traditional practice of sprinkling water on the ground outside an entrance to cool the air through evaporation. It is more than a practical measure — it demonstrates that the host has already thought about the guest's comfort before they arrive.
+
+When a property performs uchimizu in summer, explaining it to guests turns a simple act into a cultural experience. Most guests will not have encountered it before, and a brief explanation adds genuine depth to the arrival moment.
+
+## Seasonal Environment
+
+Summer decorations and amenities emphasise coolness and lightness:
+
+- Wind chimes (*furin*, 風鈴) at entrances create a cooling auditory atmosphere
+- Cool-coloured arrangements: blue-glass vases, white flowers, bamboo elements
+- Chilled oshibori (hand towels) offered on arrival — a small but immediately felt seasonal switch from the warm towels used in winter
+
+## Seasonal Food and Drink
+
+- Cold noodles: *sōmen*, *hiyashi chūka*, *zaru soba*
+- Shaved ice (*kakigōri*): a summer classic, available in regional flavour variations
+- Mugicha (麦茶, barley tea): the standard cold drink of Japanese summers, naturally caffeine-free
+- Edamame, cold tofu (*hiyayakko*), cucumber dishes: light, refreshing, and cooling
 
 ---
 
 ## Key Phrases
 
-**お暑い中、ご来館いただきまして誠にありがとうございます。** *(O-atsui naka, go-raikan itadakimashite makoto ni arigatō gozaimasu.)*
+**お暑い中、ご来館いただきまして誠にありがとうございます。**
+*O-atsui naka, go-raikan itadakimashite makoto ni arigatō gozaimasu.*
 "Thank you sincerely for visiting in this heat."
 
-**暑い日が続いておりますが、お体にお気をつけください。** *(Atsui hi ga tsuzuite orimasu ga, o-karada ni o-ki wo tsukete kudasai.)*
+This phrase acknowledges the effort a guest makes to travel in summer heat. It is a small expression of genuine consideration and sets a warm tone for the interaction.
+
+**暑い日が続いておりますが、お体にお気をつけください。**
+*Atsui hi ga tsuzuite orimasu ga, o-karada ni o-ki wo tsukete kudasai.*
 "The heat continues: please take care of yourself."
+
+A caring seasonal phrase that can close a conversation or accompany a farewell. It expresses concern for the guest's wellbeing beyond the boundaries of the visit.
 
 ---
 
