@@ -7,9 +7,9 @@ title: シングルルーム (single room)
 **Pronunciation:** [shin-gu-ru **ruu**-mu]
 **Register:** Formal/Neutral, standard in reservations and check-in contexts
 
-シングルルーム is the standard Japanese term for a single room, designating a guest room with one bed for one occupant. One thing worth knowing: in Japanese hotels, a "single" bed is often actually a semi-double in terms of mattress width. Students often assume it means a narrow bed, but many properties size up to give solo travellers a more comfortable sleep. Because of this, it is good practice to mention the bed dimensions separately from the room type when a guest asks, rather than letting them guess.
+シングルルーム is the standard Japanese term for a single room, designating a guest room with one bed for one occupant. In Japanese hotels, a "single" bed is often actually a semi-double in terms of mattress width — many properties size up to give solo travellers a more comfortable sleep. For this reason, it is good practice to mention the bed dimensions separately from the room type when a guest asks, rather than leaving them to guess.
 
-The term is borrowed directly from English and used consistently across hotel chains, booking systems, and brochures. Confirming room types accurately at check-in is one of the most important habits to build, since misassignments rank among the most common causes of guest dissatisfaction. When a guest has booked a シングルルーム but arrives with a companion, handle the situation with care and offer available alternatives without making anyone feel awkward. Knowing the full range of room types, シングル, ダブル, ツイン, スイート, gives you the vocabulary to navigate upgrades and changes with ease.
+The term is borrowed directly from English and used consistently across hotel chains, booking systems, and brochures. Confirming room types accurately at check-in is one of the most important habits to build, since misassignments rank among the most common causes of guest dissatisfaction. When a guest has booked a シングルルーム but arrives with a companion, handle the situation with care and offer available alternatives without making anyone feel awkward. Knowing the full range of room types — シングル, ダブル, ツイン, スイート — gives you the vocabulary to navigate upgrades and changes with ease.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ The term is borrowed directly from English and used consistently across hotel ch
 
 ## Common Mistakes
 
-Learners sometimes define シングルルーム in absolute terms as "a room for exactly one person," but some properties do allow two occupants for a supplementary charge. It is more accurate to think of シングルルーム as defined by bed count, not occupancy limits. In practice, shortening it to just シングル is fine in staff conversations, but in front of guests, the full term シングルルーム sounds more polished and professional. One more thing: avoid assuming a guest booking a シングルルーム is travelling alone. Acting on that assumption can lead to a comment that catches the guest off guard in an uncomfortable way.
+シングルルーム is defined by bed count, not occupancy limits — some properties do allow two occupants for a supplementary charge. Shortening it to just シングル is acceptable in staff conversations, but in front of guests the full term シングルルーム sounds more polished and professional. Avoid assuming a guest booking a シングルルーム is travelling alone; acting on that assumption can lead to a comment that catches the guest off guard in an uncomfortable way.
 
 ---
 

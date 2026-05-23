@@ -29,7 +29,7 @@ Operationally, the lobby serves as a hub for multiple services: concierge assist
 
 ## Common Mistakes
 
-Students sometimes use ロビー and フロント interchangeably, but フロント specifically refers to the reception desk or staff station, not the open communal area. Worth noting also: in larger properties, saying just 「ロビー」 without a floor number can leave guests confused. 「1階のロビー」 is always clearer. Finally, avoid the casual 「ロビーで待ってください」 in formal contexts. The correct register is 「ロビーにてお待ちいただけますでしょうか」.
+ロビー and フロント are not interchangeable: フロント refers specifically to the reception desk or staff station, not the open communal area. In larger properties, saying just 「ロビー」 without a floor number can leave guests uncertain. 「1階のロビー」 is always clearer. Avoid the casual 「ロビーで待ってください」 in formal contexts. The correct register is 「ロビーにてお待ちいただけますでしょうか」.
 
 ---
 

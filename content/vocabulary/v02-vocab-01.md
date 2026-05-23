@@ -6,7 +6,7 @@ title: フロント (furonto)
 
 フロント is the central hub of any Japanese hotel, serving as the primary point of contact between guests and the establishment. It is the place where check-in, check-out, key handling, billing inquiries, and general guest requests are all managed. The term is a loanword from the English "front" (short for "front desk"), and it is so embedded in hospitality Japanese that no formal equivalent replaces it. Understanding フロント as both a physical space and a service role is essential for any hotel professional.
 
-In practice, staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational nerve centre of the property.
+Staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational nerve centre of the property.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff members stationed at the フロント are expected to maintai
 
 ## Common Mistakes
 
-Learners sometimes use フロント with overly casual sentence-ending forms such as フロントはあそこです, which, while grammatically correct, lacks the formality expected in hotel service; always elevate the copula to でございます. A second common error is using the word interchangeably with 受付: although the meanings overlap, フロント carries a hotel-specific nuance that 受付 does not always share. Finally, avoid omitting the location marker は or が; simply saying フロントこちら sounds incomplete and unprofessional.
+Avoid using フロント with overly casual sentence-ending forms such as フロントはあそこです, which, while grammatically correct, lacks the formality expected in hotel service; always elevate the copula to でございます. A second common error is using the word interchangeably with 受付: although the meanings overlap, フロント carries a hotel-specific nuance that 受付 does not always share. Finally, avoid omitting the location marker は or が; simply saying フロントこちら sounds incomplete and unprofessional.
 
 ---
 

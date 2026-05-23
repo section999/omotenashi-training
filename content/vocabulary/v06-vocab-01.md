@@ -4,9 +4,9 @@ section: 1
 title: 問題 (mondai)
 ---
 
-In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a problem or issue that arises during a guest's stay. It covers a surprisingly broad range of situations, from a malfunctioning appliance to a billing discrepancy or a miscommunication about a reservation. The word itself carries no emotional charge, which makes it genuinely useful for staff who need to acknowledge an issue calmly without amplifying the guest's frustration. In omotenashi culture, the ability to identify a 問題 swiftly and frame it professionally is treated as a basic skill, since guests naturally trust establishments that handle difficulties with composure.
+In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a problem or issue that arises during a guest's stay. It covers a broad range of situations, from a malfunctioning appliance to a billing discrepancy or a miscommunication about a reservation. The word itself carries no emotional charge, which makes it genuinely useful for staff who need to acknowledge an issue calmly without amplifying the guest's frustration. In omotenashi culture, the ability to identify a 問題 swiftly and frame it professionally is treated as a basic skill, since guests naturally trust establishments that handle difficulties with composure.
 
-That said, 問題 is most often heard as part of conditional invitations to speak up: phrases like 何かご問題がございましたら (if there is any problem at all) function as open-ended expressions of readiness that encourage guests to come forward before a minor inconvenience turns into a serious complaint. Students often treat this as a reactive word, but the best staff use it proactively. Because the word is neutral in register, it works in both spoken and written guest communication, including printed signage and follow-up correspondence.
+問題 is most often heard as part of conditional invitations to speak up: phrases like 何かご問題がございましたら (if there is any problem at all) function as open-ended expressions of readiness that encourage guests to come forward before a minor inconvenience turns into a serious complaint. The best staff use it proactively rather than reactively. Because the word is neutral in register, it works in both spoken and written guest communication, including printed signage and follow-up correspondence.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ That said, 問題 is most often heard as part of conditional invitations to spea
 
 ## Common Mistakes
 
-Students often confuse 問題 with クレーム (kuremu), treating them as interchangeable. They are not. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest: reaching for クレーム prematurely can escalate the situation unnecessarily. Worth noting too: staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
+A common error is confusing 問題 with クレーム (kuremu) and treating them as interchangeable. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest — reaching for クレーム prematurely can escalate the situation unnecessarily. Staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
 
 ---
 

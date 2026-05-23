@@ -6,7 +6,7 @@ title: 予約確認 (yoyaku kakunin)
 
 予約確認 is the act of verifying and confirming the details of a guest's reservation. It is a key step in the check-in process that keeps both staff and guest aligned on dates, room type, number of guests, meal plans, and any special requests. In Japanese hospitality, accuracy during 予約確認 goes beyond the administrative: catching a discrepancy early, such as a mismatched date or room type, and resolving it calmly shows the kind of professionalism guests remember.
 
-The standard phrase for starting this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is asking for the guest's cooperation. In practice, this phrase tells the guest that their information is about to be reviewed and invites them to participate in the verification. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve. That added step reduces misunderstanding and gives guests visible proof of what was agreed.
+The standard phrase for starting this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is asking for the guest's cooperation. This phrase tells the guest that their information is about to be reviewed and invites them to participate in the verification. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve. That added step reduces misunderstanding and gives guests visible proof of what was agreed.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ The standard phrase for starting this process is ご予約の確認をさせて�
 
 ## Common Mistakes
 
-Students sometimes use 予約を確認します rather than 予約の確認をさせていただきます. The shorter form is grammatically fine, but it lacks the humility expected in formal hospitality Japanese and can come across as overly direct. Another mistake is confirming only the guest's name without working through the full set of details: dates, room type, number of guests. Partial confirmation leads to costly errors. Worth remembering too: always close the confirmation with 以上でよろしいでしょうか to invite the guest's explicit agreement before moving on.
+Using 予約を確認します rather than 予約の確認をさせていただきます is a common shortcut. The shorter form is grammatically fine, but it lacks the humility expected in formal hospitality Japanese and can come across as overly direct. Another mistake is confirming only the guest's name without working through the full set of details: dates, room type, number of guests. Partial confirmation leads to costly errors. Always close the confirmation with 以上でよろしいでしょうか to invite the guest's explicit agreement before moving on.
 
 ---
 

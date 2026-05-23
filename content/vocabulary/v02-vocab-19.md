@@ -4,9 +4,9 @@ section: 19
 title: デポジット (deposit)
 ---
 
-デポジット refers to a security deposit or pre-authorization hold placed on a guest's credit card, or occasionally collected as cash, at the time of check-in. Its purpose is to cover any incidental charges incurred during the stay, such as room service, minibar use, phone calls, or potential damages, that fall outside the original room rate. This practice is standard in hotels worldwide, but some guests will be surprised by it. A calm and clear explanation is not optional here. The deposit is released or refunded once check-out is completed without unresolved charges.
+デポジット refers to a security deposit or pre-authorization hold placed on a guest's credit card, or occasionally collected as cash, at the time of check-in. Its purpose is to cover any incidental charges incurred during the stay, such as room service, minibar use, phone calls, or potential damages, that fall outside the original room rate. This practice is standard in hotels worldwide, but some guests will be surprised by it. A calm and clear explanation is essential. The deposit is released or refunded once check-out is completed without unresolved charges.
 
-In practice, staff introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation covers three things: the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします. If the deposit is a credit card hold rather than an actual charge, be sure to make that distinction clear. Guests who understand what is happening are far less likely to become concerned when they see the hold on their account.
+In a hospitality context, staff introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation covers three things: the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします. If the deposit is a credit card hold rather than an actual charge, be sure to make that distinction clear. Guests who understand what is happening are far less likely to become concerned when they see the hold on their account.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff introduce デポジット early in the check-in process, afte
 
 ## Common Mistakes
 
-A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Students also sometimes say デポジットを取ります, which sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. And always mention the refund process. Omitting it is one of the most consistent sources of complaints in check-in interactions.
+A common mistake is failing to explain デポジット proactively. Waiting for the guest to ask means they may notice the hold on their account first and assume something has gone wrong. Mention it before they have a chance to wonder. Saying デポジットを取ります also sounds blunt. The humble form デポジットをお預かりいたします is both more polite and more accurate: it conveys the sense of safekeeping rather than confiscation. Always mention the refund process as well. Omitting it is one of the most consistent sources of complaints in check-in interactions.
 
 ---
 

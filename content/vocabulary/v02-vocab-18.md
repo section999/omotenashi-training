@@ -6,7 +6,7 @@ title: クレジットカード (credit card)
 
 クレジットカード is the standard Japanese term for a credit card, and it comes up throughout hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Knowing when and how to request a credit card without making the guest feel distrusted is a skill worth practising.
 
-In practice, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). Worth noting: when a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is a reliable indicator of professional competence.
+In a hospitality context, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). When a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is a reliable indicator of professional competence.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, front desk staff use クレジットカード in two distinct situa
 
 ## Common Mistakes
 
-Students frequently reach for 見る (miru) rather than 拝見する (haiken suru) when asking to examine a guest's card. 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. A separate issue is saying カードください, which sounds like a demand with no context. Frame the request properly and explain why the card is needed. And before processing any card, always confirm the amount with the guest first: お支払い金額は〇〇円でよろしいでしょうか should come before any transaction.
+Reaching for 見る (miru) rather than 拝見する (haiken suru) when asking to examine a guest's card is a common register error. 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. A separate issue is saying カードください, which sounds like a demand with no context. Frame the request properly and explain why the card is needed. Before processing any card, always confirm the amount with the guest first: お支払い金額は〇〇円でよろしいでしょうか should come before any transaction.
 
 ---
 

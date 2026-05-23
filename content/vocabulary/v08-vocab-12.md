@@ -9,7 +9,7 @@ title: 地下一階 (chika ikkai)
 
 地下一階 specifies the first level below ground, equivalent to "Basement 1" or "B1" on English signage. While 地下 is a general term for any basement area, 地下一階 is the precise designation needed when a building has multiple below-ground levels or when guests must select the correct elevator button. In Japanese hotels, 地下一階 is frequently where you find parking, fitness facilities, indoor pools, laundry rooms, or staff service areas, and guests need to be directed to the exact level without any ambiguity. Using the specific form reflects attentiveness and prevents guests from pressing the wrong button.
 
-The pronunciation follows an irregular counter pattern that trips up learners: 地下一階 is chika-ikkai, not chika-ichi-kai. That double-k is important to get right because the mispronounced version sounds noticeably foreign. When directing guests, the most helpful phrasing pairs the floor name with both the elevator button label and what awaits them: 地下一階にございます。エレベーターのB1ボタンをお押しください. This two-part structure, location plus access instruction, is the standard for below-ground guidance in Japanese hospitality.
+The pronunciation follows an irregular counter pattern that learners often miss: 地下一階 is chika-ikkai, not chika-ichi-kai. That double-k matters because the mispronounced version sounds noticeably foreign. When directing guests, the most helpful phrasing pairs the floor name with both the elevator button label and what awaits them: 地下一階にございます。エレベーターのB1ボタンをお押しください. This two-part structure, location plus access instruction, is the standard for below-ground guidance in Japanese hospitality.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ The pronunciation follows an irregular counter pattern that trips up learners: �
 
 ## Common Mistakes
 
-The most critical error is saying 地下一階 with the mispronunciation chika-ichi-kai; the correct reading is chika-ikkai, following the double-k pattern of other 一階 compounds. Students often direct guests to 地下 without specifying the B1 elevator button, leaving guests to guess which button to press; always mention the button alongside the floor name. That said, confusing 地下一階 with 地下二階 in a building with multiple basement levels is a navigational error that wastes guest time and reflects poorly on the property.
+The most critical error is pronouncing 地下一階 as chika-ichi-kai; the correct reading is chika-ikkai, following the double-k pattern of other 一階 compounds. Directing guests to 地下 without specifying the B1 elevator button is also common; always mention the button alongside the floor name. Confusing 地下一階 with 地下二階 in a building with multiple basement levels is a navigational error that wastes guest time and reflects poorly on the property.
 
 ---
 

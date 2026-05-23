@@ -7,9 +7,9 @@ title: 苦情 (kujou)
 **Pronunciation:** [ku-**jou**]
 **Register:** Formal, used in professional service contexts when acknowledging a guest's complaint
 
-苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. When a guest brings you a 苦情, they are telling you something went wrong and they feel strongly enough to say so. In Japanese hospitality culture, that is not treated as an attack. It is actually a chance to fix something that might have gone silently wrong for other guests too, and that chance deserves your full sincerity.
+苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. When a guest brings a 苦情, they are expressing that something went wrong and feel strongly enough to say so. In Japanese hospitality culture, that is not treated as an attack — it is an opportunity to fix something that might have gone silently wrong for other guests too, and it deserves full sincerity in response.
 
-Worth noting: the omotenashi mindset holds that a guest who complains is still giving the establishment an opportunity to do better. The guest who says nothing and simply does not return is the harder loss. So when a difficult conversation begins, keep that in mind. The sequence when receiving a 苦情 is to listen without interrupting, acknowledge the guest's feelings with a genuine apology, and only then explain what action will be taken. Never minimise the complaint or offer excuses before you have expressed real empathy. In larger hotels, 苦情 are documented and reviewed regularly to catch patterns in service breakdowns, and front-line staff are trained to escalate when the issue is beyond their authority to resolve.
+The omotenashi mindset holds that a guest who complains is still giving the establishment an opportunity to do better. The guest who says nothing and simply does not return is the harder loss. The sequence when receiving a 苦情 is to listen without interrupting, acknowledge the guest's feelings with a genuine apology, and only then explain what action will be taken. Never minimise the complaint or offer excuses before expressing real empathy. In larger hotels, 苦情 are documented and reviewed regularly to catch patterns in service breakdowns, and front-line staff are trained to escalate when the issue is beyond their authority to resolve.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ Worth noting: the omotenashi mindset holds that a guest who complains is still g
 
 ## Common Mistakes
 
-A common error is for staff to apologise reflexively before they have fully understood the 苦情. The problem with that habit is it can imply responsibility for something that was not the hotel's fault, which creates legal complications down the line. The right move is to express empathy first, something like ご不便をおかけして申し訳ございません, and then gather the full picture before committing to a position. Students often confuse 苦情 with 文句 (monku), which is more informal and can sound dismissive if used in professional speech. In formal service settings, 苦情 is always the right word.
+A common error is to apologise reflexively before fully understanding the 苦情. Doing so can imply responsibility for something that was not the hotel's fault, which creates legal complications. The right approach is to express empathy first — something like ご不便をおかけして申し訳ございません — and then gather the full picture before committing to a position. 苦情 is also sometimes confused with 文句 (monku), which is more informal and can sound dismissive in professional speech. In formal service settings, 苦情 is always the right word.
 
 ---
 

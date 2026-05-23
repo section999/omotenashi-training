@@ -29,7 +29,7 @@ During room orientation, staff commonly say 「お部屋の浴室はこちらで
 
 ## Common Mistakes
 
-A common error is using お風呂場 instead of 浴室 in formal hotel speech. Both refer to a bathing room, but お風呂場 sounds domestic and casual. Students may also confuse 浴室 (bathing room) with 洗面所 (washroom/sink area) or トイレ (toilet). In many Japanese hotel rooms these are separate spaces, and using the wrong term can misdirect a guest entirely. That said, the most frequently overlooked error is simply forgetting ございます when describing the 浴室 to guests. It is a small slip in register, but it does register with guests in higher-end properties.
+A common error is using お風呂場 instead of 浴室 in formal hotel speech. Both refer to a bathing room, but お風呂場 sounds domestic and casual. 浴室 (bathing room) should not be confused with 洗面所 (washroom/sink area) or トイレ (toilet). In many Japanese hotel rooms these are separate spaces, and using the wrong term can misdirect a guest entirely. The most frequently overlooked register error is omitting ございます when describing the 浴室 to guests — a small slip in formality that is noticeable in higher-end properties.
 
 ---
 

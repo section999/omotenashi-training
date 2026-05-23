@@ -6,9 +6,9 @@ title: こんばんは (konbanwa)
 
 **こんばんは** is the standard evening greeting in Japanese, used from approximately 6:00 PM onward, or whenever the shift from afternoon to evening is clearly felt. It carries a slightly quieter, more reflective warmth than the daytime greetings. Evening arrivals often involve guests who are tired from travel or full from a day of activity, and *konbanwa* acknowledges that temporal shift with an unhurried warmth.
 
-In hospitality, the evening greeting window is particularly important because it often coincides with the most sensitive arrival moments: guests checking in after a long journey, returning from dinner, or arriving late-night after many hours of travel. The tone of *konbanwa* matters here. A well-delivered greeting, calm, warm, genuinely attentive, tells a tired guest that the property is still fully present regardless of the hour. That said, there is a temptation for staff in busy evening periods to deliver it on autopilot. Resist that.
+In hospitality, the evening greeting window is particularly important because it often coincides with the most sensitive arrival moments: guests checking in after a long journey, returning from dinner, or arriving late-night after many hours of travel. The tone of *konbanwa* matters here. A well-delivered greeting — calm, warm, genuinely attentive — tells a tired guest that the property is still fully present regardless of the hour. There is a temptation in busy evening periods to deliver it on autopilot; resist that.
 
-The phrase has the same structural origin as *konnichiwa*, both were once part of longer expressions about how "today/tonight is going", but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous.
+The phrase has the same structural origin as *konnichiwa* — both were once part of longer expressions about how "today/tonight is going" — but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ The phrase has the same structural origin as *konnichiwa*, both were once part o
 
 ## Common Mistakes
 
-The most common timing error is using *konbanwa* too early, in late afternoon when it is still clearly daytime. Some staff also continue using *konnichiwa* well into the evening out of habit; pay attention to the light, the hour, and the atmosphere. The other thing worth flagging: *konbanwa* is a greeting said when seeing someone, while *oyasumi nasai* is a farewell said when parting at night. They serve different moments and are not interchangeable.
+The most common timing error is using *konbanwa* too early, in late afternoon when it is still clearly daytime. Some staff also continue using *konnichiwa* well into the evening out of habit; pay attention to the light, the hour, and the atmosphere. *Konbanwa* is a greeting said when seeing someone, while *oyasumi nasai* is a farewell said when parting at night. They serve different moments and are not interchangeable.
 
 ---
 

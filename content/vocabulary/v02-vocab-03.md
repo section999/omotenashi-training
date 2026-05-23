@@ -6,7 +6,7 @@ title: チェックアウト (check-out)
 
 チェックアウト is the formal process by which a guest settles their bill and officially ends their stay. It is the final significant interaction between a hotel and its guest, so it carries real weight in shaping the overall memory of the visit. In Japanese hospitality, a graceful チェックアウト is just as important as a warm チェックイン. The farewell must be sincere, efficient, and leave the guest feeling genuinely valued. Staff typically confirm any outstanding charges, present the 領収書 (receipt), collect the room key, and express heartfelt appreciation for the guest's patronage.
 
-In practice, チェックアウト often falls during a high-traffic window in the late morning, so staff must balance speed with warmth. Asking about the guest's stay with 滞在はいかがでしたか is a simple touch that guests consistently appreciate. Checking whether baggage storage or transport assistance is needed before the guest leaves is a good example of proactive omotenashi. The standard departure time in Japanese hotels is 11:00 a.m., and guests who wish to stay later will need to request a レイトチェックアウト.
+チェックアウト often falls during a high-traffic window in the late morning, so staff must balance speed with warmth. Asking about the guest's stay with 滞在はいかがでしたか is a simple touch that guests consistently appreciate. Checking whether baggage storage or transport assistance is needed before the guest leaves is a good example of proactive omotenashi. The standard departure time in Japanese hotels is 11:00 a.m., and guests who wish to stay later will need to request a レイトチェックアウト.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, チェックアウト often falls during a high-traffic window in t
 
 ## Common Mistakes
 
-Students sometimes use チェックアウトは何時ですか? when asking about departure time. That phrasing is acceptable, but it sounds more like a guest than a staff member. Use お時間をご確認いただけますでしょうか or a similar professional form instead. Another common mistake is forgetting the honorific prefix ご before チェックアウト in formal contexts. It is not always mandatory, but ご + チェックアウト + は + お済みでしょうか is the standard phrase for confirming completion. Finally, do not rush the farewell. Taking an extra moment to bow and express gratitude is culturally expected.
+チェックアウトは何時ですか? is acceptable when asking about departure time, but it sounds more like a guest than a staff member. Use お時間をご確認いただけますでしょうか or a similar professional form instead. Another common mistake is forgetting the honorific prefix ご before チェックアウト in formal contexts. It is not always mandatory, but ご + チェックアウト + は + お済みでしょうか is the standard phrase for confirming completion. Taking an extra moment to bow and express gratitude at the farewell is culturally expected and should never be skipped.
 
 ---
 

@@ -29,7 +29,7 @@ When talking with guests about trash, the approach should be polite without draw
 
 ## Common Mistakes
 
-Dropping the word ゴミ into guest-facing speech without polite framing can sound blunt. Softer phrasings like 「お荷物やゴミのご確認をいたします」 work much better when you need to mention it at all. Students often confuse ゴミ with 汚れ (yogore), but 汚れ means a dirt stain or soiling on a surface, not discarded objects. And failing to separate burnable from non-burnable ゴミ in hotels that require it is not just an etiquette issue: it can result in regulatory violations.
+Dropping the word ゴミ into guest-facing speech without polite framing can sound blunt. Softer phrasings like 「お荷物やゴミのご確認をいたします」 work much better when the word needs to appear at all. ゴミ and 汚れ (yogore) are also sometimes confused, but 汚れ means a dirt stain or soiling on a surface, not discarded objects. Failing to separate burnable from non-burnable ゴミ in hotels that require it is not just an etiquette issue: it can result in regulatory violations.
 
 ---
 

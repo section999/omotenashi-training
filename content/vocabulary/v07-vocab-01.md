@@ -6,7 +6,7 @@ title: エレベーター (erebeetaa)
 
 エレベーター is a loanword from English ("elevator") and refers to the lift used to transport guests between floors in hotels, department stores, and large facilities. In Japanese hospitality, guiding a guest to the elevator rather than simply pointing is considered proper omotenashi. Staff are expected to escort guests when appropriate, especially those carrying heavy luggage or with mobility challenges. Because the elevator is often the first facility interaction a guest has upon arrival, a confident and clear explanation sets the tone for the entire stay.
 
-In practice, staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language.
+Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff must know not only the location of each elevator bank but als
 
 ## Common Mistakes
 
-Students often use plain-form directions like 「エレベーターに乗ってください」, which sounds abrupt. The phrasing 「エレベーターでお上がりください」 or 「エレベーターをご利用くださいませ」 fits much better in a formal hospitality setting. Worth noting: a common oversight is failing to mention floor restrictions or keycard requirements upfront, which causes confusion and frustration for guests. That said, the particle issue trips up many learners too. エレベーター takes で (means of travel) rather than に when you are explaining how to reach a floor, not just where the elevator is.
+Plain-form directions like 「エレベーターに乗ってください」 sound abrupt in a hospitality setting. The phrasing 「エレベーターでお上がりください」 or 「エレベーターをご利用くださいませ」 is the appropriate formal register. A common oversight is failing to mention floor restrictions or keycard requirements upfront, which causes confusion and frustration for guests. Note also the particle: エレベーター takes で (means of travel) rather than に when explaining how to reach a floor, not simply where the elevator is located.
 
 ---
 

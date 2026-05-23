@@ -4,9 +4,9 @@ section: 2
 title: 階段 (kaidan)
 ---
 
-階段 refers to a staircase, and in the hospitality setting it serves two distinct purposes: it is both a routine navigation option and the mandatory evacuation route in emergencies. Proactively mentioning the stairs to guests who may benefit, those seeking light exercise, guests on the second floor, or those uncomfortable with elevators, shows thoughtful attentiveness. Knowing the exact location and condition of every stairwell in the building is non-negotiable for trained staff. At ryokan and traditional properties, staircases are sometimes narrow or steep, so warning guests in advance prevents accidents and reflects professional care.
+階段 refers to a staircase, and in the hospitality setting it serves two distinct purposes: it is both a routine navigation option and the mandatory evacuation route in emergencies. Proactively mentioning the stairs to guests who may benefit — those seeking light exercise, guests on the second floor, or those uncomfortable with elevators — shows thoughtful attentiveness. Knowing the exact location and condition of every stairwell in the building is non-negotiable for trained staff. At ryokan and traditional properties, staircases are sometimes narrow or steep, so warning guests in advance prevents accidents and reflects professional care.
 
-During fire drills and actual emergencies, 階段 becomes critical operational vocabulary. Staff must direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit especially from concise, repeated instruction. It is also important that staff know which stairwells are pressurized, which exit to the street, and any access restrictions on guest-facing routes.
+During fire drills and actual emergencies, 階段 becomes critical operational vocabulary. Staff must direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit especially from concise, repeated instruction. Staff should also know which stairwells are pressurized, which exit to the street, and any access restrictions on guest-facing routes.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ During fire drills and actual emergencies, 階段 becomes critical operational v
 
 ## Common Mistakes
 
-Students sometimes use plain language during emergencies, such as 「階段を使ってください」. While it is understood, the more composed 「階段をご利用ください」 maintains staff authority and calm. In practice, learners also forget to specify which stairwell when multiple exist; this can cause panic or confusion in a real emergency, so always name the location with a landmark like 「廊下の突き当たりの」. The other thing worth flagging: never assume guests already know that elevators are forbidden during fires. Always state it explicitly alongside the instruction to use the stairs.
+Plain language during emergencies, such as 「階段を使ってください」, is understood but the more composed 「階段をご利用ください」 maintains staff authority and calm. When multiple stairwells exist, always specify which one by naming the location with a landmark such as 「廊下の突き当たりの」. Guests should never be left to assume that elevators are forbidden during fires — always state it explicitly alongside the instruction to use the stairs.
 
 ---
 

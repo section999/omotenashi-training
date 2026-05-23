@@ -6,7 +6,7 @@ title: トイレ (toilet)
 
 トイレ is a loanword from the French "toilette," and in Japanese it refers specifically to the toilet or restroom. In Japanese hotels, the toilet is often a point of genuine interest for international guests, as Japan is well known for its technologically advanced washlets (ウォシュレット) featuring heated seats, bidet functions, and automated lids. Staff who can explain these features help guests use the facilities comfortably and, in the process, share an aspect of Japanese innovation that contributes to the country's reputation for exceptional hospitality. Knowing correct and polite phrasing for guiding guests to the toilet or explaining its features is a practical competency for hotel and ryokan staff.
 
-In practice, トイレ comes up most often when guests ask for directions or when staff explain room layout at check-in: 「トイレはこちらでございます」 (the toilet is this way) or 「お手洗いはエレベーターの隣にございます」 (the restroom is next to the elevator). Worth noting: staff should always combine verbal direction with a gesture, pointing or gently indicating the direction, as this is consistent with Japanese hospitality etiquette. In some hotels, the toilet is a separate room from the bath, and it is worth clarifying this to guests unfamiliar with that layout.
+In a hospitality context, トイレ comes up most often when guests ask for directions or when staff explain room layout at check-in: 「トイレはこちらでございます」 (the toilet is this way) or 「お手洗いはエレベーターの隣にございます」 (the restroom is next to the elevator). Staff should always combine verbal direction with a gesture, pointing or gently indicating the direction, as this is consistent with Japanese hospitality etiquette. In some hotels, the toilet is a separate room from the bath, and clarifying this to guests unfamiliar with that layout is an important part of room orientation.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, トイレ comes up most often when guests ask for directions or whe
 
 ## Common Mistakes
 
-Students sometimes use plain forms such as 「トイレあります」 or 「トイレです」 when guiding guests, but the correct professional phrase is 「トイレはこちらでございます」 using こちら for direction and ございます for register. Another mistake is failing to mention whether the toilet is separate from the bathroom. That is important information in Japanese-style rooms and guests will notice if it is left out. There is also a register consideration: in very high-end ryokan contexts, お手洗い or ご不浄 tends to be more appropriate than トイレ, which can occasionally read as slightly casual.
+A common error is using plain forms such as 「トイレあります」 or 「トイレです」 when guiding guests. The correct professional phrase is 「トイレはこちらでございます」, using こちら for direction and ございます for register. Another mistake is failing to mention whether the toilet is separate from the bathroom, which is important information in Japanese-style rooms. There is also a register consideration: in very high-end ryokan contexts, お手洗い or ご不浄 tends to be more appropriate than トイレ, which can occasionally read as slightly casual.
 
 ---
 

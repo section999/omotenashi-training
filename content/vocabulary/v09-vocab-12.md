@@ -4,9 +4,9 @@ section: 12
 title: 幼児 (youji)
 ---
 
-幼児 refers to infants and toddlers, typically children under 3 or 4 years old, though where that line falls can vary a little from one property to the next. They often stay free when sharing a bed with parents and not requiring their own meal, but "free" can be a bit misleading here. In practice, a 幼児 booking triggers a list of preparation tasks that are anything but trivial: a crib (ベビーベッド), a changing mat, baby-safe bath products, possibly a bottle warmer. At ryokan with kaiseki menus, there is often no suitable portion for a very young child, and parents need to hear that upfront so they are not caught off guard at dinner. Handling these details before the family arrives is one of the clearest expressions of kikubari you will see in daily hotel work.
+幼児 refers to infants and toddlers, typically children under 3 or 4 years old, though the exact cutoff varies by property. They often stay free when sharing a bed with parents and not requiring their own meal, but "free" can be misleading. A 幼児 booking triggers a list of preparation tasks that are anything but trivial: a crib (ベビーベッド), a changing mat, baby-safe bath products, possibly a bottle warmer. At ryokan with kaiseki menus, there is often no suitable portion for a very young child, and parents need to hear that upfront so they are not caught off guard at dinner. Handling these details before the family arrives is one of the clearest expressions of kikubari in daily hotel work.
 
-Students often treat 幼児 as a zero-cost footnote on the reservation. The better mental habit is to treat it as a trigger for a checklist: does the room need a crib? Is the floor plan safe for a toddler who walks or crawls? Can a stroller get through the corridors and into the elevator? Worth noting, these are exactly the kinds of questions the guest will never think to ask, which is precisely why staff need to think of them first.
+Treat 幼児 as a trigger for a checklist rather than a zero-cost footnote on the reservation: does the room need a crib? Is the floor plan safe for a toddler who walks or crawls? Can a stroller get through the corridors and into the elevator? These are exactly the kinds of questions guests will never think to ask, which is precisely why staff need to think of them first.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ Students often treat 幼児 as a zero-cost footnote on the reservation. The bett
 
 ## Common Mistakes
 
-Recording 幼児 as just a zero-charge line on the booking and moving on is a mistake that tends to surface at the worst possible moment, like when a family arrives at 11 p.m. to find no crib in the room. That kind of service failure is very hard to recover from. The other thing to watch: 赤ちゃん is a sweet word in everyday Japanese, but it is too casual for reservation documents and guest-facing communication. Stick with 幼児 in writing and when speaking professionally about the child's category.
+Recording 幼児 as just a zero-charge line on the booking and moving on is a mistake that tends to surface at the worst possible moment, such as when a family arrives late at night to find no crib in the room. That kind of service failure is very hard to recover from. Additionally, 赤ちゃん is a warm word in everyday Japanese, but it is too casual for reservation documents and guest-facing communication. Use 幼児 in writing and when speaking professionally about the child's category.
 
 ---
 

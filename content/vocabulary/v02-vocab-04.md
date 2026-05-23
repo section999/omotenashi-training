@@ -6,7 +6,7 @@ title: 予約 (yoyaku)
 
 予約 is one of the most important words in Japanese hospitality, meaning reservation or booking. It marks the point at which a guest's relationship with the hotel begins, often long before they set foot on the property. Reservations may be made by phone, online, or through a travel agent, and staff must handle all related tasks: inquiry, creation, confirmation, modification, and cancellation, each with precision and politeness. A mishandled 予約 can damage trust early; a smoothly managed one builds confidence in the property from the outset.
 
-When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. Worth noting: 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling, anywhere in the hotel where advance arrangement is required, all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction.
+When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling — anywhere in the hotel where advance arrangement is required — all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ When confirming a reservation at the front desk, staff use ご予約はござい
 
 ## Common Mistakes
 
-The most common error is dropping the honorific ご before 予約 when speaking to guests. 予約ありますか sounds transactional and cold; ご予約はございますか is the professional standard. Students sometimes also mix up 予約 with 注文 (order), which is reserved for food and drink rather than room or service bookings. That said, the subtler mistake is confirming a reservation by name alone. Always cross-check with date and room type to prevent errors, particularly at busy properties.
+The most common error is dropping the honorific ご before 予約 when speaking to guests. 予約ありますか sounds transactional and cold; ご予約はございますか is the professional standard. 予約 is also sometimes confused with 注文 (order), which is reserved for food and drink rather than room or service bookings. A subtler mistake is confirming a reservation by name alone. Always cross-check with date and room type to prevent errors, particularly at busy properties.
 
 ---
 

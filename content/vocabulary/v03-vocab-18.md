@@ -29,7 +29,7 @@ During check-in or room orientation, staff might say 「洗面所はお部屋の
 
 ## Common Mistakes
 
-A frequent error is using plain あります instead of ございます when describing the washroom location to guests. 「洗面所はあります」 sounds casual and does not fit hotel speech. Students sometimes also confuse 洗面所 with 洗面台, where 洗面台 refers specifically to the sink fixture itself, not the room. That said, perhaps the most commonly overlooked point is simply forgetting to mention washroom amenities during room orientation. Guests appreciate knowing in advance what has been prepared for them, and it is a natural opportunity to make a good first impression.
+A frequent error is using plain あります instead of ございます when describing the washroom location to guests. 「洗面所はあります」 sounds casual and does not fit hotel speech. 洗面所 is also sometimes confused with 洗面台, where 洗面台 refers specifically to the sink fixture itself, not the room. A commonly overlooked service point is forgetting to mention washroom amenities during room orientation. Guests appreciate knowing in advance what has been prepared for them, and it is a natural opportunity to make a strong first impression.
 
 ---
 
