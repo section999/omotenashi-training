@@ -3,9 +3,9 @@ id: v10-vocab
 section: 9
 title: お釣り (otsuri)
 ---
-お釣り is the change returned to a guest who has paid more than the total amount owed. The honorific prefix お (o-) elevates the word from the plain form 釣り and is obligatory in all guest-facing contexts, dropping it sounds noticeably informal. Japan's shift to cashless is well underway, but cash is still widely used, particularly in traditional ryokan and onsen establishments. Accurate and polite change-handling remains a important skill. The standard professional practice is to count the change visibly and aloud in front of the guest, which serves as a transparent double-check for both parties.
+お釣り is the change returned to a guest who has paid more than the total amount owed. The honorific prefix お (o-) elevates the word from the plain form 釣り and is required in all guest-facing contexts; dropping it sounds informal. Japan's shift to cashless is underway, but cash is still widely used, particularly in traditional ryokan and onsen establishments. Accurate and polite change-handling is an important skill. The standard professional practice is to count the change visibly and aloud in front of the guest, which serves as a transparent double-check for both parties.
 
-The expected protocol goes something like this: state the amount received, confirm the total, then state the change, "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます." In formal hospitality settings, お釣り is handed back with both hands on a small tray (お盆). A common error is underestimate this step. It might seem like a minor ritual, but turning a cash transaction into a moment of genuine attentiveness is exactly what separates good service from perfunctory service\n## Example Sentences
+The expected protocol is: state the amount received, confirm the total, then state the change, "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます." In formal hospitality settings, お釣り is handed back with both hands on a small tray (お盆). A common error is underestimating this step. Turning a cash transaction into a moment of attentiveness is what separates good service from perfunctory service.\n## Example Sentences
 
 **1.** 1万円お預かりいたします。お釣りは2,500円でございます。
 *Ichi-man en o-azukari itashimasu. O-tsuri wa ni-sen go-hyaku en de gozaimasu.*
