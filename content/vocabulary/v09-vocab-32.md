@@ -7,7 +7,7 @@ title: 直前予約 (chokuzen yoyaku)
 **Pronunciation:** [cho-ku-**zen**-yo-ya-ku]
 **Register:** Formal/Neutral, front desk and same-day arrival handling
 
-直前予約 (chokuzen yoyaku) puts 直前 (chokuzen, "immediately before" or "just prior") together with 予約 (yoyaku, reservation), describing a last-minute booking made only a short time before check-in, typically a few hours. While 当日予約 covers any same-day booking, 直前予約 carries the additional weight of extreme urgency. The guest will often arrive within one to two hours of calling. In practice, accepting a 直前予約 sets off an immediate chain of tasks: alert housekeeping for priority room preparation, confirm the available room category, have a rate ready to quote, and do all of that while maintaining the calm, welcoming presence guests expect from a professional front desk.
+直前予約 (chokuzen yoyaku) puts 直前 (chokuzen, "immediately before" or "just prior") together with 予約 (yoyaku, reservation), describing a last-minute booking made only a short time before check-in, typically a few hours. While 当日予約 covers any same-day booking, 直前予約 carries the additional weight of extreme urgency. The guest will often arrive within one to two hours of calling. In a hospitality context, accepting a 直前予約 sets off an immediate chain of tasks: alert housekeeping for priority room preparation, confirm the available room category, have a rate ready to quote, and do all of that while maintaining the calm, welcoming presence guests expect from a professional front desk.
 
 Hotels often handle 直前予約 differently from advance bookings. Special promotional packages or upgrade options may be unavailable, and many properties set a cutoff time after which online booking is closed and only phone reservations are accepted. Staff need to know those cutoffs so they can advise callers accurately. When accepting a 直前予約, the phrase that works well is ただいまご準備いたしますので、ご到着をお待ちしております. It tells the guest that action is already happening while making them feel genuinely welcomed.
 
@@ -32,7 +32,7 @@ Hotels often handle 直前予約 differently from advance bookings. Special prom
 
 ## Common Mistakes
 
-One key mistake is treating 直前予約 with the same urgency level as a regular 当日予約. They are not the same. A morning same-day booking for a 3 PM check-in gives you time to breathe. A 直前予約 made at 2 PM for a 4 PM arrival does not. Students often underestimate this and delay notifying housekeeping, resulting in a guest waiting at the front desk for a room that is not ready. Always ask for the estimated arrival time when accepting a 直前予約, because that single piece of information determines how quickly everything else needs to move. Worth noting as well: never quote a promotional rate that has advance-booking conditions attached. Check that the rate is valid for last-minute reservations before saying a number to the guest.
+One key mistake is treating 直前予約 with the same urgency level as a regular 当日予約. They are not the same. A morning same-day booking for a 3 PM check-in gives you time to breathe. A 直前予約 made at 2 PM for a 4 PM arrival does not. Delaying notification to housekeeping can result in a guest waiting at the front desk for a room that is not ready. Always ask for the estimated arrival time when accepting a 直前予約, because that single piece of information determines how quickly everything else needs to move. Never quote a promotional rate that has advance-booking conditions attached — confirm that the rate is valid for last-minute reservations before stating a price to the guest.
 
 ---
 
