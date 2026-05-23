@@ -3,7 +3,7 @@ id: v12-vocab
 section: 4
 title: 避難 (hinan)
 ---
-避難 is the act of moving people to a safe location to protect them from imminent danger, and it is a notable operationally critical concepts in Japanese hospitality emergency management. Whether triggered by fire, earthquake, flood, gas leak, or other hazard, the ability to conduct a calm, orderly, and complete evacuation is a fundamental expectation of all hospitality staff. In Japan's omotenashi culture, ensuring that every single guest, including elderly guests, guests with disabilities, and non-Japanese-speaking visitors, safely reaches the designated evacuation area is considered a non-negotiable duty of care.
+避難 is the act of moving people to a safe location to protect them from imminent danger, and it is a notable operationally critical concept in Japanese hospitality emergency management. Whether triggered by fire, earthquake, flood, gas leak, or other hazard, the ability to conduct a calm, orderly, and complete evacuation is a fundamental expectation of all hospitality staff. In Japan's omotenashi culture, ensuring that every single guest, including elderly guests, guests with disabilities, and non-Japanese-speaking visitors, safely reaches the designated evacuation area is considered a fundamental duty of care.
 
 避難 is announced over the public address system and reinforced by staff stationed at key points along evacuation routes. Staff should know the exact 避難経路 (evacuation route) for every floor of the property, identify guests who may need physical assistance, and account for all guests at the 避難場所 (evacuation area) after departure. Regular 避難訓練 (evacuation drills) are conducted to ensure both speed and composure\n## Example Sentences
 

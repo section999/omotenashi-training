@@ -28,7 +28,7 @@ Effective 説明 follows a structure: telling the guest what one is about to exp
 
 ## Common Mistakes
 
-The most common mistake is finishing an explanation without any closing signal, leaving the guest unsure whether one is done or about to continue. Always end with a summary phrase. It is a small habit that removes a lot of uncertainty. The other frequent error is using the plain 説明します when ご説明いたします is expected: in a high-end hotel context, Japanese guests who are attuned to keigo levels will notice the difference. Additionally: pace matters enormously. Delivering a 説明 as one long, fast, unbroken sentence makes it nearly impossible for guests to follow, especially over the telephone. Break it up, pause after each key point, and let the guest confirm before one move to the next piece.
+A common mistake is finishing an explanation without any closing signal, leaving the guest unsure whether one is done or about to continue. Ending with a summary phrase removes uncertainty. Another common error is using the plain 説明します when ご説明いたします is expected: in a high-end hotel context, Japanese guests who are attuned to keigo levels will notice the difference. Pace also matters. Delivering a 説明 as one long, fast, unbroken sentence makes it nearly impossible for guests to follow, especially over the telephone. The explanation should be broken up with pauses after each key point.
 
 ---
 

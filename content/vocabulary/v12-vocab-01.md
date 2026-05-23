@@ -3,9 +3,9 @@ id: v12-vocab
 section: 1
 title: 緊急 (kinkyuu)
 ---
-緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency, and it is a notable operationally important words in Japanese hospitality. In hotels, ryokan, and restaurants, emergencies range from natural disasters like earthquakes and fires to medical incidents or security threats. Staff who recognise and respond to 緊急 situations without hesitation directly uphold the guest's physical safety, which is the highest expression of omotenashi. Clear communication using this word signals to colleagues and guests alike that normal procedures are suspended and life-safety protocols take priority.
+緊急 refers to a situation requiring immediate attention due to imminent danger or critical urgency, and it is a notable operationally important word in Japanese hospitality. In hotels, ryokan, and restaurants, emergencies range from natural disasters like earthquakes and fires to medical incidents or security threats. Staff who recognise and respond to 緊急 situations directly uphold the guest's physical safety. Clear communication using this word signals to colleagues and guests alike that normal procedures are suspended and life-safety protocols take priority.
 
-緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity, saying 緊急 without a genuine emergency is a serious breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what one is doing) ensures guests understand not just the severity but the expected response\n## Example Sentences
+緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity; saying 緊急 without a genuine emergency is a breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what one is doing) ensures guests understand not just the severity but the expected response\n## Example Sentences
 
 **1.** 緊急の場合はすぐにフロントに連絡してください。
 *Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.*

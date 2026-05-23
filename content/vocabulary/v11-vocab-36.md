@@ -3,7 +3,7 @@ id: v11-vocab
 section: 36
 title: 理解しました (rikai shimashita)
 ---
-理解しました (理解しました) means "I have understood" or "I comprehend," formed from the noun 理解 (understanding, comprehension), itself from 理 (reason, logic) and 解 (to untangle, to solve), and the verb する in past polite form. While わかりました (I understand) is the everyday polite acknowledgment of understanding, 理解しました carries a slightly more formal and deliberate tone, implying that the speaker has processed and internalized the information rather than hearing it. In hotel telephone contexts, this distinction matters because using the appropriately elevated register conveys professionalism and reassures guests that their message has been received with care.
+理解しました (理解しました) means "I have understood" or "I comprehend," formed from the noun 理解 (understanding, comprehension), itself from 理 (reason, logic) and 解 (to untangle, to solve), and the verb する in past polite form. While わかりました (I understand) is the everyday polite acknowledgment of understanding, 理解しました carries a slightly more formal and deliberate tone, implying that the speaker has processed and internalized the information rather than hearing it. In hotel telephone contexts, this distinction matters because using the appropriate register conveys professionalism and reassures guests that their message has been received with care.
 
 理解しました is most naturally used after a guest has explained a complex situation, a special request, a complaint, a detailed instruction, and the staff member wants to confirm full comprehension before proceeding. However, in the most formal hospitality registers, かしこまりました (literally "I humbly receive one's instruction") is the gold standard response, especially in luxury hotels. Training staff to use the right acknowledgment phrase in the right context, かしこまりました for formal instructions, 理解しました for confirmation of complex information, and わかりました for routine communication, is a key aspect of telephone etiquette education\n## Example Sentences
 
@@ -28,7 +28,7 @@ title: 理解しました (rikai shimashita)
 
 ## Common Mistakes
 
-A common mistake is using 理解しました in place of かしこまりました in high-end hotel contexts: in luxury settings the latter is always expected when a guest gives an instruction or makes a special request. Another error is using 理解しました too casually, as it can sound clinical or mechanical if not paired with a follow-up action statement. Always combine the acknowledgment with what will be done next: 理解しました。〇〇いたします. Finally, learners sometimes confuse 理解しました with わかりました and use them interchangeably, not realizing that わかりました sounds more casual and is better reserved for peer-to-peer communication rather than staff-to-guest interactions.
+A common mistake is using 理解しました in place of かしこまりました in high-end hotel contexts: in luxury settings the latter is always expected when a guest gives an instruction or makes a special request. Another error is using 理解しました too casually, as it can sound clinical if not paired with a follow-up action statement. The acknowledgment should be combined with what will be done next: 理解しました。〇〇いたします. A common error is confusing 理解しました with わかりました and using them interchangeably, not realizing that わかりました sounds more casual and is better reserved for peer-to-peer communication rather than staff-to-guest interactions.
 
 ---
 

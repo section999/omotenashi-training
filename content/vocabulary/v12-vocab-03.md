@@ -6,9 +6,9 @@ title: 地震 (jishin)
 **Pronunciation:** [**ji**-shin]
 **Register:** Standard, used across all registers in emergency communication
 
-地震 is an earthquake: the sudden movement of tectonic plates producing ground shaking that can range from a barely noticeable tremor to a destructive seismic event. Japan is a notable seismically active countries in the world, which means earthquake preparedness is a core professional skill for hospitality workers, not an optional extra. Foreign guests in particular may have little or no experience with earthquakes and no instinct for what to do. In those moments, one is the calm authority in the room. Your ability to respond clearly and immediately is what turns potential panic into orderly, safe action.
+地震 is an earthquake: the sudden movement of tectonic plates producing ground shaking that can range from a barely noticeable tremor to a destructive seismic event. Japan is one of the most seismically active countries in the world, which means earthquake preparedness is a core professional skill for hospitality workers. Foreign guests in particular may have little or no experience with earthquakes and no instinct for what to do. In those moments, staff members serve as the calm authority. The ability to respond clearly and immediately turns potential panic into orderly, safe action.
 
-When a 地震 occurs, stay calm, use simple and reassuring language with guests, and guide everyone away from windows and heavy furniture. Identify the safe zones in one's facility: under sturdy tables, away from shelving. After the shaking stops, a systematic safety check of the building is standard procedure before resuming normal operations. A common error is underestimate this step, but checking for structural damage, gas leaks, and water line issues before allowing guests back into affected areas is expected\n## Example Sentences
+When a 地震 occurs, staying calm, using simple and reassuring language with guests, and guiding everyone away from windows and heavy furniture is recommended. Safe zones in the facility should be identified: under sturdy tables, away from shelving. After the shaking stops, a systematic safety check of the building is standard procedure before resuming normal operations. A common error is underestimating this step. Checking for structural damage, gas leaks, and water line issues before allowing guests back into affected areas is expected\n## Example Sentences
 
 **1.** 地震が起きたら、机の下に隠れてください。
 *Jishin ga okitara, tsukue no shita ni kakurete kudasai.*
@@ -31,7 +31,7 @@ When a 地震 occurs, stay calm, use simple and reassuring language with guests,
 
 ## Common Mistakes
 
-A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfront hotels must address both as separate but potentially connected events, with different protocols. Staff also sometimes misjudge whether a tremor is small enough to ignore or large enough to act on. Learning one's facility's threshold protocol is the answer here. Additionally: check one's pronunciation. 地震 is じしん with two short, evenly stressed syllables. Do not stretch either vowel.
+A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfront hotels must address both as separate but potentially connected events, with different protocols. A common error is misjudging whether a tremor is small enough to ignore or large enough to act on. Learning one's facility's threshold protocol is recommended. Note on pronunciation: 地震 is じしん with two short, evenly stressed syllables. The vowels should not be stretched.
 
 ---
 
