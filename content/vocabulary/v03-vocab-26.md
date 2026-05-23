@@ -29,7 +29,7 @@ In guest-facing communication, staff typically inform guests of the 清掃 sched
 
 ## Common Mistakes
 
-A common mistake is using 掃除 instead of 清掃 in formal guest-facing contexts. It sounds too casual for professional hotel communication, and experienced guests will notice the register gap. Students sometimes also state the cleaning time without specifying what that means in practice. Saying 「10時に清掃します」 without clarifying whether guests should vacate or can schedule around their plans leaves things vague. Worth noting: forgetting to mention the do-not-disturb card option is a missed service opportunity. Many guests appreciate having that choice and would prefer to be told proactively rather than having to ask.
+A common mistake is using 掃除 instead of 清掃 in formal guest-facing contexts. It sounds too casual for professional hotel communication, and experienced guests will notice the register gap. Stating the cleaning time without specifying what that means in practice is another frequent lapse — saying 「10時に清掃します」 without clarifying whether guests should vacate or can schedule around their plans leaves things vague. Forgetting to mention the do-not-disturb card option is also a missed service opportunity; many guests appreciate having that choice and prefer to be told proactively rather than having to ask.
 
 ---
 

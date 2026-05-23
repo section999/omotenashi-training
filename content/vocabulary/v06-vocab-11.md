@@ -7,9 +7,9 @@ title: 寒い (samui)
 **Pronunciation:** [**sa**-mu-i]
 **Register:** Neutral, a basic i-adjective used both by guests reporting discomfort and by staff acknowledging it
 
-寒い is an i-adjective meaning cold or chilly, and it is one of the most fundamental comfort complaints a guest can make. How quickly and thoughtfully you respond to it reflects directly on the quality of your hotel's attentiveness. Cold discomfort tends to be taken especially seriously in winter months and in traditional ryokan settings, where the gap between a heated common room and a cooler private room can feel quite sharp. Elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold than others, so do not wait for a second complaint before acting.
+寒い is an i-adjective meaning cold or chilly, and it is one of the most fundamental comfort complaints a guest can make. How quickly and thoughtfully staff respond to it reflects directly on the quality of the hotel's attentiveness. Cold discomfort tends to be taken especially seriously in winter months and in traditional ryokan settings, where the gap between a heated common room and a cooler private room can feel quite sharp. Elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold than others, so do not wait for a second complaint before acting.
 
-In practice, your responses can range from adjusting the heating system, to offering extra blankets (毛布, moufu), to providing a hot-water bottle (湯たんぽ, yutanpo), which guests at traditional inns genuinely appreciate. Warm beverages are another simple and welcome gesture. At premium properties, anticipating cold complaints before they arise, by pre-warming rooms in winter for instance, is considered excellent service. That kind of proactive thinking does not happen by accident. It comes from staff who understand what their guests will need before they have to ask.
+Responses can range from adjusting the heating system, to offering extra blankets (毛布, moufu), to providing a hot-water bottle (湯たんぽ, yutanpo), which guests at traditional inns genuinely appreciate. Warm beverages are another simple and welcome gesture. At premium properties, anticipating cold complaints before they arise — by pre-warming rooms in winter, for instance — is considered excellent service. That kind of proactive thinking comes from staff who understand what their guests will need before they have to ask.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ In practice, your responses can range from adjusting the heating system, to offe
 
 ## Common Mistakes
 
-A common mistake is offering the same solution for every cold complaint without first understanding the cause. A guest who is cold because the heating has failed needs a completely different response from one whose window is simply open. Asking one clarifying question, 暖房はついておりますでしょうか (is the heating on?), before acting shows genuine attentiveness rather than a rote response. Students often skip that step in their rush to help, which can mean fixing the wrong thing. Worth noting too: saying 寒いですね without following it with a concrete next step feels hollow in a premium service context. Sympathy alone is not enough.
+A common mistake is offering the same solution for every cold complaint without first understanding the cause. A guest who is cold because the heating has failed needs a completely different response from one whose window is simply open. Asking one clarifying question — 暖房はついておりますでしょうか (is the heating on?) — before acting shows genuine attentiveness rather than a rote response. Saying 寒いですね without following it with a concrete next step also feels hollow in a premium service context. Sympathy alone is not enough.
 
 ---
 

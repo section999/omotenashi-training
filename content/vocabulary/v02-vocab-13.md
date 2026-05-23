@@ -6,7 +6,7 @@ title: 料金 (ryokin)
 
 料金 means charge, fee, or rate, and is the standard professional term for the cost of a hotel stay, room service, facility use, or any other paid service. It carries the right level of formality for written and verbal communication in a hospitality setting. In everyday conversation, 値段 (nedan) or お金 (okane) are natural ways to talk about prices. In a hotel, restaurant, or spa, 料金 is the expected term whenever a clear and professional presentation of costs is called for. Getting this right matters because transparency around 料金 is what prevents disputes at check-out.
 
-When presenting the total charge, use こちらが料金でございます while pointing to or presenting the itemised statement. In practice, if additional charges are involved, such as room service, minibar consumption, or early check-in fees, walk the guest through each one individually before showing the final 料金. Many guests, business travellers especially, will ask for a full breakdown, so being ready to explain each component is simply part of the job.
+When presenting the total charge, use こちらが料金でございます while pointing to or presenting the itemised statement. If additional charges are involved — such as room service, minibar consumption, or early check-in fees — walk the guest through each one individually before showing the final 料金. Business travellers especially will often ask for a full breakdown, so being ready to explain each component is simply part of the job.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ When presenting the total charge, use こちらが料金でございます while
 
 ## Common Mistakes
 
-Using 値段 in a hotel context sounds too casual. 料金 is the professional term. Students sometimes present the bill by saying just 料金です, dropping both こちらが and the polite ございます. That sounds abrupt and a bit dismissive. The full phrase こちらが料金でございます is the correct form. Worth emphasising: never state the total without showing the itemised statement first. Guests should be able to see what they are paying for before anyone asks them to settle the bill.
+Using 値段 in a hotel context sounds too casual; 料金 is the professional term. Presenting the bill by saying just 料金です — dropping both こちらが and the polite ございます — sounds abrupt and dismissive. The full phrase こちらが料金でございます is the correct form. Always show the itemised statement before stating the total; guests should be able to see what they are paying for before anyone asks them to settle the bill.
 
 ---
 

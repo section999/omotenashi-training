@@ -9,7 +9,7 @@ title: 受付時間 (uketsuke jikan)
 
 受付時間 (uketsuke jikan) joins 受付 (uketsuke, reception / front desk) with 時間 (jikan, time / hours), giving you "reception hours" -- the window during which the front desk is staffed and available to help guests. Smaller Japanese properties like ryokan, boutique hotels, and budget accommodations often operate with limited 受付時間, while larger hotels may maintain a front desk around the clock but with reduced overnight staffing. Either way, communicating 受付時間 clearly is a basic responsibility, not a detail you leave guests to figure out on their own.
 
-In practice, a good answer to a question about 受付時間 always has two parts: the actual hours, and what happens outside them. Simply stating a closing time without explaining the after-hours alternative leaves guests feeling stranded -- especially first-time visitors who don't know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which closes the information gap neatly and reassures the guest that support is always there in some form.
+In a hospitality context, a complete answer to a question about 受付時間 always has two parts: the actual hours, and what happens outside them. Simply stating a closing time without explaining the after-hours alternative leaves guests feeling stranded -- especially first-time visitors who don't know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which closes the information gap neatly and reassures the guest that support is always there in some form.
 
 ## Example Sentences
 
@@ -27,12 +27,12 @@ In practice, a good answer to a question about 受付時間 always has two parts
 
 ## Related Expressions
 
-- **チェックイン時間 (chekkuin jikan)**: check-in time; this is when rooms become available for occupancy, which is a different thing from when the desk itself is staffed. Students often mix these up -- keep them separate in your mind.
+- **チェックイン時間 (chekkuin jikan)**: check-in time; this is when rooms become available for occupancy, which is a different thing from when the desk itself is staffed. Keep these two concepts separate.
 - **夜間対応 (yakan taiou)**: after-hours response; the protocol for handling guest needs once the official 受付時間 has ended. This must always be mentioned alongside 受付時間, not treated as an afterthought.
 
 ## Common Mistakes
 
-A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after -- guests who arrive at midnight and don't know about the intercom or a nighttime phone number will feel abandoned. That said, even when you communicate hours correctly, watch out for holiday periods and special events when actual staffing may differ from the posted standard. Always verify that the hours you're giving a guest match the real schedule for their specific dates of stay.
+A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after — guests who arrive at midnight and don't know about the intercom or a nighttime phone number will feel abandoned. Even when hours are communicated correctly, watch out for holiday periods and special events when actual staffing may differ from the posted standard. Always verify that the hours given to a guest match the real schedule for their specific dates of stay.
 
 ---
 

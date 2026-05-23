@@ -29,7 +29,7 @@ Beyond the initial handover, ルームキー frequently comes up in other servic
 
 ## Common Mistakes
 
-Staff sometimes skip the verbal phrase entirely and simply hand the ルームキー across the counter. Even a simple こちらがルームキーでございます。どうぞ makes the interaction feel purposeful and welcoming rather than transactional. Students may confuse ルームキー with マスターキー (master key), which is a staff-only key that opens all rooms and should never be mixed up with a guest key in conversation. Worth noting on the security side: when a guest reports a lost key, staff must verify identity carefully before issuing a duplicate. Skipping this step is a genuine security risk, not just a procedural one.
+Staff sometimes skip the verbal phrase entirely and simply hand the ルームキー across the counter. Even a simple こちらがルームキーでございます。どうぞ makes the interaction feel purposeful and welcoming rather than transactional. ルームキー should not be confused with マスターキー (master key), which is a staff-only key that opens all rooms and must never be mixed up with a guest key in conversation. On the security side, when a guest reports a lost key, identity must be verified carefully before issuing a duplicate. Skipping this step is a genuine security risk, not just a procedural one.
 
 ---
 

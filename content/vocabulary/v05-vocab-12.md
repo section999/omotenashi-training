@@ -9,7 +9,7 @@ title: おかわり (okawari)
 
 おかわり means a second helping or a refill, and in the context of Japanese hospitality it carries more meaning than a simple top-up. Offering おかわり before a guest's glass is empty, or before their rice bowl needs refilling, is an expression of 気配り (kikubari), the attentive awareness of a guest's needs that separates reactive service from truly anticipatory hospitality. In traditional Japanese dining, silently refilling a guest's tea before they notice it is low is considered a quiet art form. The same principle applies in a hotel restaurant: watching the levels of drinks, bread, or buffet items and moving at exactly the right moment is what elevates a meal from pleasant to memorable.
 
-おかわり applies across all kinds of dining situations: coffee after breakfast, water throughout a meal, rice refills at Japanese-style dinners, beverage top-ups in the lounge. In practice, the wording matters as much as the timing. お飲み物のおかわりはいかがでしょうか is warm and graceful, an invitation rather than an interruption. おかわりしますか is grammatically fine but lacks that softness. Students often ask the direct question when the polite offer is what the situation calls for. When a guest declines, receive it calmly with かしこまりました or 承知いたしました and step back without making them feel they have caused any inconvenience.
+おかわり applies across all kinds of dining situations: coffee after breakfast, water throughout a meal, rice refills at Japanese-style dinners, beverage top-ups in the lounge. The wording matters as much as the timing. お飲み物のおかわりはいかがでしょうか is warm and graceful — an invitation rather than an interruption. おかわりしますか is grammatically fine but lacks that softness. In a hospitality context, the polite offer is what the situation calls for. When a guest declines, receive it calmly with かしこまりました or 承知いたしました and step back without making them feel they have caused any inconvenience.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ title: おかわり (okawari)
 
 ## Common Mistakes
 
-The most significant error is waiting for a guest to ask for おかわり rather than offering it first. Kikubari means reading the table and acting before the need becomes obvious, that is the whole point. Students also tend to reach for おかわりしますか when the softer いかがでしょうか is clearly more appropriate. That said, the mistake I see most consistently overlooked: forgetting to offer おかわり to all guests at the table at the same time. Offering a refill to one person and not others creates an uncomfortable sense of uneven attention that guests notice even when they do not say anything.
+The most significant error is waiting for a guest to ask for おかわり rather than offering it first. Kikubari means reading the table and acting before the need becomes obvious — that is the whole point. Reaching for おかわりしますか when the softer いかがでしょうか is clearly more appropriate is another common slip. Equally important and often overlooked: always offer おかわり to all guests at the table at the same time. Offering a refill to one person and not others creates an uncomfortable sense of uneven attention that guests notice even when they do not say anything.
 
 ---
 

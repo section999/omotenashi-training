@@ -7,9 +7,9 @@ title: 残高 (zandaka)
 **Pronunciation:** [zan-**da**-ka]
 **Register:** Formal/Neutral, standard in front desk and billing conversations
 
-残高 is the word for a remaining balance, and it shows up in two distinct situations that are almost opposites. On one side, you have a guest with a prepaid account or hotel card who still has money left to spend (positive 残高). On the other, you have a guest who has used services but hasn't fully paid yet (outstanding 残高). Students often get tripped up here because the same word covers both directions. The key is context: are you talking about money the guest has available, or money they still owe?
+残高 is the word for a remaining balance, and it covers two distinct situations. On one side, a guest with a prepaid account or hotel card may still have money available to spend (positive 残高). On the other, a guest may have used services and not yet fully paid (outstanding 残高). The same word covers both directions, so context is essential: is the 残高 money the guest has available, or money they still owe?
 
-In practice, keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero, especially in a ryokan or resort where everything gets settled at checkout, saves you from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without any stress. That said, how you communicate this matters just as much as when you do it: 残高 conversations should always be calm, private, and matter-of-fact.
+Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without any stress. How you communicate this matters just as much as when you do it: 残高 conversations should always be calm, private, and matter-of-fact.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ In practice, keeping track of 残高 is a quiet but critical part of smooth hosp
 
 ## Common Mistakes
 
-Worth noting: the most common error is using 残高 without specifying which direction it points, leaving the guest wondering whether they have money to spend or money they owe. Get in the habit of adding a qualifier: ご利用可能な残高 for an available balance to spend, and お支払い残高 for an outstanding amount due. The other mistake is skipping the balance check before the final transaction. A quick inquiry beforehand prevents payment failures at the desk, which are far more awkward for everyone than a gentle heads-up the day before.
+The most common error is using 残高 without specifying which direction it points, leaving the guest wondering whether they have money to spend or money they owe. Adding a qualifier makes the meaning clear: ご利用可能な残高 for an available balance to spend, and お支払い残高 for an outstanding amount due. The other mistake is skipping the balance check before the final transaction. A quick inquiry beforehand prevents payment failures at the desk, which are far more awkward for everyone than a gentle heads-up the day before.
 
 ---
 

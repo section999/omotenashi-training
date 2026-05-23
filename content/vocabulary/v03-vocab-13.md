@@ -4,9 +4,9 @@ section: 13
 title: タオル (towel)
 ---
 
-タオル refers to the hand or face towel, the smaller towel used for drying hands and face, as distinct from the larger バスタオル (bath towel). In Japanese hotels and ryokan, towels form a core part of the in-room amenity setup and are replenished by housekeeping throughout the stay. Guests pay close attention to towel quality, softness, and cleanliness, and premium properties often use high-thread-count or specially woven fabrics to signal their service level. In ryokan, you may even find freshly laundered タオル folded decoratively as part of the room welcome.
+タオル refers to the hand or face towel — the smaller towel used for drying hands and face, as distinct from the larger バスタオル (bath towel). In Japanese hotels and ryokan, towels form a core part of the in-room amenity setup and are replenished by housekeeping throughout the stay. Guests pay close attention to towel quality, softness, and cleanliness, and premium properties often use high-thread-count or specially woven fabrics to signal their service level. In ryokan, freshly laundered タオル may even be folded decoratively as part of the room welcome.
 
-Multi-night guests and families especially tend to request extra タオル, so be ready to respond quickly with the right item and use phrasing like こちらがご用意したタオルでございます when presenting it. In practice, the distinction between タオル, バスタオル, and フェイスタオル matters a lot. These are three different items, and delivering the wrong one after a guest has asked specifically for one of them is the kind of small error that chips away at trust. Learn the differences and hold them clearly in mind.
+Multi-night guests and families especially tend to request extra タオル, so be ready to respond quickly with the right item and use phrasing like こちらがご用意したタオルでございます when presenting it. The distinction between タオル, バスタオル, and フェイスタオル matters: these are three different items, and delivering the wrong one after a guest has asked specifically for one of them chips away at trust. Learn the differences and hold them clearly in mind.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ Multi-night guests and families especially tend to request extra タオル, so b
 
 ## Common Mistakes
 
-Students often treat タオル as a catch-all word for any towel, and that is where mistakes happen. Delivering a バスタオル when a guest asked for a hand towel, or a フェイスタオル when they expected something larger, creates a small but real moment of disappointment. When presenting a タオル, saying just タオルどうぞ is too casual for a professional setting. Use こちらがタオルでございます or こちらでございます instead. One more thing: always present towels with both hands. One-handed delivery may feel natural, but in Japanese hospitality, two hands signal respect, and guests who know this will notice the difference immediately.
+Treating タオル as a catch-all word for any towel leads to delivery errors. Bringing a バスタオル when a guest asked for a hand towel, or a フェイスタオル when they expected something larger, creates a small but real moment of disappointment. When presenting a タオル, saying just タオルどうぞ is too casual for a professional setting — use こちらがタオルでございます or こちらでございます instead. Always present towels with both hands; one-handed delivery may feel natural, but in Japanese hospitality, two hands signal respect, and guests who know this will notice the difference immediately.
 
 ---
 

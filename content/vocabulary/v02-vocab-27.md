@@ -6,7 +6,7 @@ title: カードキー (card key)
 
 カードキー refers to an electronic key card, typically using magnetic stripe or RFID/NFC technology, that grants access to a hotel room and sometimes to elevators, fitness facilities, or lounge areas. The vast majority of modern Japanese hotels and international chains in Japan use カードキー systems, making this term more practically common than the traditional 鍵 in day-to-day hotel operations. In addition to room access, card keys may be programmed with loyalty tier information, breakfast inclusion codes, or floor-level elevator access restrictions, making them a more sophisticated tool than a simple physical key.
 
-In practice, staff introduce カードキー during check-in as a standard part of the handover sequence: こちらがカードキーでございます, followed by any relevant instructions about its use. If the property restricts elevator access by floor (エレベーターはカードキーをかざしてご利用ください), staff should explain this clearly to avoid frustration at the elevator. Common follow-up scenarios include demagnetized cards (カードキーが反応しない場合は、フロントへお越しください) or requests for a second card for a room companion (追加のカードキーをご用意いたします).
+In a hospitality context, staff introduce カードキー during check-in as a standard part of the handover sequence: こちらがカードキーでございます, followed by any relevant instructions about its use. If the property restricts elevator access by floor (エレベーターはカードキーをかざしてご利用ください), staff should explain this clearly to avoid frustration at the elevator. Common follow-up scenarios include demagnetized cards (カードキーが反応しない場合は、フロントへお越しください) or requests for a second card for a room companion (追加のカードキーをご用意いたします).
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff introduce カードキー during check-in as a standard part 
 
 ## Common Mistakes
 
-A common service lapse is presenting the カードキー without showing or explaining how it works. For guests unfamiliar with card key systems, a brief explanation (カードをかざしてドアを開けてください) prevents frustration at the room door. Students sometimes say カードキーを失くした (lost) when a guest reports a problem, but the correct professional response is to verify identity first, then issue a replacement without drawing attention to the loss in a way that embarrasses the guest. Staff should also avoid programming a replacement card without first deactivating the lost card, as this is a security requirement.
+A common service lapse is presenting the カードキー without showing or explaining how it works. For guests unfamiliar with card key systems, a brief explanation (カードをかざしてドアを開けてください) prevents frustration at the room door. When a guest reports a lost key, the correct professional response is to verify identity first, then issue a replacement discreetly without drawing attention to the loss in a way that embarrasses the guest. Staff should also deactivate the lost card before programming a replacement, as this is a security requirement.
 
 ---
 

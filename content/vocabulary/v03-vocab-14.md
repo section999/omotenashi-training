@@ -4,9 +4,9 @@ section: 14
 title: バスタオル (bath towel)
 ---
 
-バスタオル designates the large bath towel provided for use after bathing or showering. In Japanese hotels and ryokan, バスタオル are a standard part of the in-room amenity set and are typically placed on a rack in the bathroom or folded on the bed as part of the housekeeping presentation. The quality of バスタオル is a meaningful indicator of service standard. Luxury properties use thick, high-GSM towels with refined stitching, while budget properties may use thinner versions. Guests who take long baths or who have children in their party frequently request additional バスタオル, and staff should be ready to provide them without delay.
+バスタオル designates the large bath towel provided for use after bathing or showering. In Japanese hotels and ryokan, バスタオル are a standard part of the in-room amenity set and are typically placed on a rack in the bathroom or folded on the bed as part of the housekeeping presentation. The quality of バスタオル is a meaningful indicator of service standard: luxury properties use thick, high-GSM towels with refined stitching, while budget properties may use thinner versions. Guests who take long baths or who have children in their party frequently request additional バスタオル, and staff should be ready to provide them without delay.
 
-In ryokan settings, バスタオル may be supplemented or replaced by traditional large cotton towels specific to the onsen (hot spring) bathing experience, and staff may need to explain both options. Worth noting: the difference between バスタオル and the smaller タオル should be well understood so that requests can be fulfilled accurately. Always deliver バスタオル in a neatly folded presentation and with both hands as a mark of respect.
+In ryokan settings, バスタオル may be supplemented or replaced by traditional large cotton towels specific to the onsen (hot spring) bathing experience, and staff may need to explain both options. The difference between バスタオル and the smaller タオル should be well understood so that requests can be fulfilled accurately. Always deliver バスタオル in a neatly folded presentation and with both hands as a mark of respect.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In ryokan settings, バスタオル may be supplemented or replaced by tradition
 
 ## Common Mistakes
 
-The most common error is providing a standard タオル when a guest requested a バスタオル. The size difference is significant and will be immediately noticeable. Students also sometimes over-anglicise the pronunciation of バス, which is bah-su rather than "bass" as in English. When delivering replacement バスタオル mid-stay, always remove used towels from the bathroom at the same time. Leaving dirty linen in the room after bringing in clean items is a housekeeping awareness gap that guests notice.
+The most common error is providing a standard タオル when a guest requested a バスタオル. The size difference is significant and immediately noticeable. バス is also sometimes over-anglicised in pronunciation — it is bah-su, not "bass" as in English. When delivering replacement バスタオル mid-stay, always remove used towels from the bathroom at the same time. Leaving soiled linen in the room after bringing in clean items is a housekeeping awareness gap that guests notice.
 
 ---
 

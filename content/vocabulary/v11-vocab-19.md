@@ -7,9 +7,9 @@ title: 確認いたします (kakunin itashimasu)
 **Pronunciation:** [ka-ku-nin-i-ta-**SHI**-masu]
 **Register:** Formal/Humble, essential in all hotel telephone and in-person service
 
-確認いたします means "I will confirm" or "I will check," and it is one of those phrases that sounds simple but carries real weight. When you say it to a guest, you are making a promise. You are not just acknowledging what they said. You are telling them that you will take action and report back. That implicit obligation is what makes this phrase so central to hotel service, and also what makes it so easy to misuse if you say it and then disappear.
+確認いたします means "I will confirm" or "I will check," and it carries real weight in hospitality. When said to a guest, it is a promise — not just an acknowledgment. It tells the guest that action will be taken and that an answer will follow. That implicit obligation is what makes this phrase so central to hotel service, and also what makes it easy to misuse if you say it and then disappear.
 
-On the practical side, 確認いたします comes up constantly: verifying reservation details, checking availability with a colleague, confirming a request before sending it upstairs. After you use it, you have two options: return with the answer within a reasonable time, or come back with an interim update. 確認に少々時間をいただいております (I am currently taking a moment to confirm; please wait just a little longer) is exactly the kind of update that keeps guests patient. Leaving them in silence after saying 確認いたします is one of the more common and avoidable service failures. Students often do this not out of carelessness but simply because they get absorbed in the task and forget that the guest is still waiting.
+On the practical side, 確認いたします comes up constantly: verifying reservation details, checking availability with a colleague, confirming a request before sending it upstairs. After using it, return with the answer within a reasonable time or come back with an interim update. 確認に少々時間をいただいております (I am currently taking a moment to confirm; please wait just a little longer) is exactly the kind of update that keeps guests patient. Leaving a guest in silence after saying 確認いたします — typically because the staff member becomes absorbed in the task — is one of the more common and avoidable service failures.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ On the practical side, 確認いたします comes up constantly: verifying rese
 
 ## Common Mistakes
 
-The most critical mistake is saying 確認いたします and then failing to follow up. That breaks the promise directly, and guests notice. Worth noting: some learners drop いたします and say just 確認します, which is not wrong but sounds less polished in a hotel context. The humble form is the expected register. A subtler error is reaching for 確認いたします when the task is actually more involved and would be better described as 調べます or ご確認させていただきます. Choosing the right level of specificity sets accurate expectations, and that matters when the guest is waiting.
+The most critical mistake is saying 確認いたします and then failing to follow up. That breaks the promise directly, and guests notice. Some learners drop いたします and say just 確認します, which is not wrong but sounds less polished in a hotel context — the humble form is the expected register. A subtler error is reaching for 確認いたします when the task is actually more involved and would be better described as 調べます or ご確認させていただきます. Choosing the right level of specificity sets accurate expectations, and that matters when the guest is waiting.
 
 ---
 

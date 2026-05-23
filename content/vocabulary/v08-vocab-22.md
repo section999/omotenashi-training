@@ -29,7 +29,7 @@ In practice, 遠くに is most useful when guests ask about destinations and sta
 
 ## Common Mistakes
 
-The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment: this creates a false expectation that harms the guest experience far more than honest information would. Learners also sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. Finally, when using 遠くに, staff should always follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
+The most problematic mistake is avoiding 遠くに out of a desire to be encouraging, and instead saying 近く or giving no distance assessment: this creates a false expectation that harms the guest experience far more than honest information would. Learners also sometimes use 遠い (tooi, the adjective) where 遠くに (the adverb/locative phrase) is needed, producing grammatically awkward sentences when describing where something is located. When using 遠くに, staff should always follow up with a constructive alternative (transport options, shuttle services, taxi assistance) so the response remains helpful rather than simply discouraging.
 
 ---
 

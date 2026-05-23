@@ -9,7 +9,7 @@ title: 再確認 (sai kakunin)
 
 再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), giving you "reconfirmation" -- the act of checking a reservation's details a second time before the guest arrives. In Japanese hotel practice, this isn't done because staff distrust the original booking; it's a proactive quality-control step, and guests who receive it tend to feel genuinely looked after. Think of it as a warm heads-up rather than an administrative chore. For VIP guests, large groups, or bookings tied to holidays and festivals, 再確認 is treated as mandatory rather than optional.
 
-The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. Worth noting here is that this scripted read-back isn't about doubting the guest; it's about catching data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request, which saves everyone a headache on the day.
+The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. This scripted read-back serves as a quality check to catch data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request, which saves everyone a headache on the day.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ The contact may be by phone, email, or the hotel's booking platform. When callin
 
 ## Common Mistakes
 
-Students often treat 再確認 as unnecessary for non-VIP guests and skip it, but that misses the point. Even an ordinary booking can contain a data-entry error that turns into a real problem at check-in, and a brief call prevents that entirely. Another common slip is doing a partial read-back -- confirming the arrival date but forgetting to mention the meal plan or room category. Since errors in any element can affect the guest's experience, all key details need to be read aloud and confirmed one by one. One more thing: timing matters. Calling a week before arrival dilutes the impact; the ideal window is 24 to 48 hours before the guest arrives, when changes are still easy to make.
+Treating 再確認 as unnecessary for non-VIP guests is a common error. Even an ordinary booking can contain a data-entry error that turns into a real problem at check-in, and a brief call prevents that entirely. Another common slip is doing a partial read-back — confirming the arrival date but forgetting to mention the meal plan or room category. Since errors in any element can affect the guest's experience, all key details need to be read aloud and confirmed one by one. Timing also matters: calling a week before arrival dilutes the impact. The ideal window is 24 to 48 hours before the guest arrives, when changes are still easy to make.
 
 ---
 

@@ -7,9 +7,9 @@ title: ご用件 (goyouken)
 **Pronunciation:** [go-**YOU**-ken]
 **Register:** Formal, used in telephone and front-desk contexts
 
-ご用件 means the purpose, matter, or reason for a call or visit. In plain terms, it is "what the guest needs." Identifying this early is not just efficient, it signals attentiveness and professionalism. A staff member who genuinely listens to ご用件 before doing anything else ensures the guest reaches the right person or department on the first attempt. That single improvement alone makes a measurable difference in how service feels, because nobody wants to explain their situation three times to three different people.
+ご用件 means the purpose, matter, or reason for a call or visit — in plain terms, what the guest needs. Identifying this early is not just efficient; it signals attentiveness and professionalism. A staff member who genuinely listens to ご用件 before doing anything else ensures the guest reaches the right person or department on the first attempt. That single improvement makes a measurable difference in how service feels, because nobody wants to explain their situation three times to three different people.
 
-The standard phrase ご用件をお伺いします (may I ask the purpose of your call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Students often skip this step with regular guests, assuming they already know why they are calling. That assumption is worth resisting. A regular guest may be calling for something completely unexpected, and acting on assumptions causes exactly the kind of misrouting you were trying to avoid.
+The standard phrase ご用件をお伺いします (may I ask the purpose of your call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, it is worth confirming ご用件 rather than acting on assumptions. A regular guest may be calling for something completely unexpected, and assumptions cause exactly the kind of misrouting you were trying to avoid.
 
 ## Example Sentences
 
@@ -27,12 +27,12 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of you
 
 ## Related Expressions
 
-- **お問い合わせ (otoiawase)**: an inquiry or question, which is a specific type of ご用件; once you have established that the ご用件 is a question or information request, you can route the caller or visitor accordingly.
+- **お問い合わせ (otoiawase)**: an inquiry or question from a guest, which is a specific type of ご用件; once you have established that the ご用件 is a question or information request, you can route the caller or visitor accordingly.
 - **ご要望 (go-yobou)**: a wish, request, or preference; more specific than ご用件, ご要望 refers to something the guest would like the hotel to do or provide, so understanding the difference helps you prepare the right kind of response.
 
 ## Common Mistakes
 
-A frequent error is using ご用件は何ですか instead of ご用件をお伺いします. Both are grammatically correct, but お伺いします is a humble form that shows deference to the guest, making it significantly more appropriate in hospitality. Worth noting: skipping ご用件 altogether and jumping straight to action based on an assumption is risky. Confirming ご用件 back to the caller before transferring them, something like ご予約のご変更でございますね, takes three seconds and prevents the kind of misrouting that frustrates guests and wastes everyone's time. Good telephone etiquette is mostly just a series of small confirmations done consistently.
+A frequent error is using ご用件は何ですか instead of ご用件をお伺いします. Both are grammatically correct, but お伺いします is a humble form that shows deference to the guest, making it significantly more appropriate in hospitality. Skipping ご用件 altogether and jumping straight to action based on an assumption is also risky. Confirming ご用件 back to the caller before transferring them — something like ご予約のご変更でございますね — takes three seconds and prevents the kind of misrouting that frustrates guests and wastes everyone's time.
 
 ---
 

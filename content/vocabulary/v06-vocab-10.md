@@ -4,9 +4,9 @@ section: 10
 title: 暑い (atsui)
 ---
 
-暑い is an i-adjective meaning hot or uncomfortably warm. In Japanese hospitality, temperature complaints are among the most common guest concerns, particularly during the humid summer months. When a guest says 「部屋が暑い」 (the room is hot) or simply 「暑い」 with a look of discomfort, staff must respond with a concrete action, not a sympathetic agreement. Physical comfort is a baseline, a guest who is too warm cannot relax, sleep, or enjoy their experience. That makes addressing 暑い complaints swiftly a matter of service fundamentals, not optional courtesy.
+暑い is an i-adjective meaning hot or uncomfortably warm. In Japanese hospitality, temperature complaints are among the most common guest concerns, particularly during the humid summer months. When a guest says 「部屋が暑い」 (the room is hot) or simply 「暑い」 with a look of discomfort, staff must respond with a concrete action, not a sympathetic agreement. Physical comfort is a baseline — a guest who is too warm cannot relax, sleep, or enjoy their experience. Addressing 暑い complaints swiftly is a matter of service fundamentals, not optional courtesy.
 
-In practice, the response to a 暑い complaint depends on the cause. The air conditioning may need adjustment, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact rather than giving advice from a distance. In ryokan settings where air conditioning is limited by design, alternatives such as portable fans, ice water, or cooled towels are standard comfort measures that show thoughtful preparation. Students often overlook these ryokan-specific options.
+The response to a 暑い complaint depends on the cause. The air conditioning may need adjustment, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact rather than giving advice from a distance. In ryokan settings where air conditioning is limited by design, alternatives such as portable fans, ice water, or cooled towels are standard comfort measures that show thoughtful preparation.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, the response to a 暑い complaint depends on the cause. The air co
 
 ## Common Mistakes
 
-The most common staff error is agreeing with 暑いですね and doing nothing further: it sounds empathetic but communicates inaction, which frustrates guests even more. Another mistake is assuming the guest wants the air conditioning lowered when they might actually want a window opened or a fan brought in. Asking ご希望の温度はございますか (is there a temperature you prefer?) before acting avoids a mismatch. Students should also avoid the overly casual 暑いなら窓を開けてください (if you're hot, please open the window), which shifts the burden onto the guest.
+The most common staff error is agreeing with 暑いですね and doing nothing further: it sounds empathetic but communicates inaction, which frustrates guests even more. Another mistake is assuming the guest wants the air conditioning lowered when they might actually want a window opened or a fan brought in. Asking ご希望の温度はございますか (is there a temperature you prefer?) before acting avoids a mismatch. Also avoid the overly casual 暑いなら窓を開けてください (if you're hot, please open the window), which shifts the burden onto the guest.
 
 ---
 

@@ -7,9 +7,9 @@ title: 閉店 (heiten)
 **Pronunciation:** [**hei**-ten]
 **Register:** Formal, used when informing guests that a facility has closed or is closing
 
-閉店 means "closed" or "closing time," indicating that a restaurant, shop, or facility has ended or is about to end its service for the day. Communicating 閉店 is one of the more sensitive language tasks you will face, because delivering the news that something is no longer available risks disappointing or frustrating a guest. The omotenashi approach is to lead with a sincere apology, state the closure clearly and honestly, and then immediately redirect the guest toward an alternative: another dining option, room service, or a nearby restaurant recommendation. A refusal delivered with care and a solution attached is an act of service. A bare refusal is not.
+閉店 means "closed" or "closing time," indicating that a restaurant, shop, or facility has ended or is about to end its service for the day. Communicating 閉店 is one of the more sensitive language tasks in hospitality, because delivering the news that something is no longer available risks disappointing or frustrating a guest. The omotenashi approach is to lead with a sincere apology, state the closure clearly and honestly, and then immediately redirect the guest toward an alternative: another dining option, room service, or a nearby restaurant recommendation. A refusal delivered with care and a solution attached is an act of service. A bare refusal is not.
 
-Staff should also be clear on the difference between approaching 閉店 and having already reached it. If a facility is about to close, there may still be options: briefly extending a courtesy, directing the guest to another open facility, or flagging it with a supervisor. If the facility has already closed, your response must be final while remaining genuinely warm. In practice, giving guests a 10 to 15 minute courtesy notice before a restaurant closes is itself a small omotenashi gesture that many guests appreciate far more than you might expect.
+Staff should also be clear on the difference between approaching 閉店 and having already reached it. If a facility is about to close, there may still be options: briefly extending a courtesy, directing the guest to another open facility, or flagging it with a supervisor. If the facility has already closed, the response must be final while remaining genuinely warm. Giving guests a 10 to 15 minute courtesy notice before a restaurant closes is itself a small omotenashi gesture that many guests appreciate deeply.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ Staff should also be clear on the difference between approaching 閉店 and havi
 
 ## Common Mistakes
 
-The most serious error is delivering 閉店 without an apology or alternative. This comes across as dismissive and directly contradicts omotenashi values. Always pair the closure with 申し訳ございませんが and a follow-up suggestion. Students also sometimes confuse 閉店 (the facility is closed) with 満席 (fully booked, no seats available), particularly in restaurant contexts. These situations require completely different responses, so do not mix them up. Worth noting is that informal closures, like simply saying 「閉まっています」 to a guest, do not meet the register expected in hotel service. The correct formal phrasing is 「すでに閉店しております」, which maintains a professional tone even when the answer is negative.
+The most serious error is delivering 閉店 without an apology or alternative. This comes across as dismissive and directly contradicts omotenashi values. Always pair the closure with 申し訳ございませんが and a follow-up suggestion. 閉店 (the facility is closed) is sometimes confused with 満席 (fully booked, no seats available), particularly in restaurant contexts. These situations require completely different responses and must not be mixed up. The informal 「閉まっています」 does not meet the register expected in hotel service. The correct formal phrasing is 「すでに閉店しております」, which maintains a professional tone even when the answer is negative.
 
 ---
 

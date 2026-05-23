@@ -7,9 +7,9 @@ title: 清掃係 (seisou kakari)
 **Pronunciation:** [sei-**sou**-ka-ka-ri]
 **Register:** Formal, Operational, guest-facing service coordination, housekeeping requests
 
-清掃係 breaks down as 清掃 (cleaning) and 係 (person in charge), and together they refer to the housekeeping staff responsible for keeping guest rooms and common areas in order. In Japanese hospitality, 清掃係 are not invisible background workers. They are active contributors to the guest experience, and the immaculate standards of Japanese accommodation depend entirely on their precision and care. In ryokan settings, the same person who cleans the room often returns before dinner to lay out the futon bedding, creating a direct and personal link between housekeeping and the guest's sense of comfort. That context matters when you are coordinating with or speaking about 清掃係.
+清掃係 breaks down as 清掃 (cleaning) and 係 (person in charge), and together they refer to the housekeeping staff responsible for keeping guest rooms and common areas in order. In Japanese hospitality, 清掃係 are not invisible background workers. They are active contributors to the guest experience, and the immaculate standards of Japanese accommodation depend entirely on their precision and care. In ryokan settings, the same person who cleans the room often returns before dinner to lay out the futon bedding, creating a direct and personal link between housekeeping and the guest's sense of comfort. Understanding this context is important when coordinating with or speaking about 清掃係.
 
-When informing a guest that housekeeping will visit their room, the phrase 「清掃係がまいります」 is the correct form to use. For delivering items a guest has requested, 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) covers the situation fully. Students often learn the words for these situations but overlook a key step: if the guest needs to be present during the cleaning visit, always ask 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for you?) rather than deciding on a time without consulting them. One more thing to remember: how you speak about the 清掃係 to guests signals how your property values its staff. Respectful, professional language reflects well on the whole team.
+When informing a guest that housekeeping will visit their room, the phrase 「清掃係がまいります」 is the correct form to use. For delivering items a guest has requested, 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) covers the situation fully. If the guest needs to be present during the cleaning visit, always ask 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for you?) rather than deciding on a time without consulting them. How staff speak about the 清掃係 to guests also signals how the property values its team — respectful, professional language reflects well on the whole organization.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ When informing a guest that housekeeping will visit their room, the phrase 「�
 
 ## Common Mistakes
 
-The most serious error here is using 来ます (kimasu) or 来る (kuru) instead of まいります when describing the cleaning staff's arrival to a guest. This is a keigo failure, and it sounds notably unprofessional even if the guest does not consciously register why. Students make this mistake more often under time pressure, which is exactly when discipline matters most. Worth noting is that forgetting to ask for the guest's preferred time before scheduling a 清掃係 visit is also a real service gap. Deciding when to send someone without consulting the guest assumes their schedule, which is not the spirit of omotenashi.
+The most serious error is using 来ます (kimasu) or 来る (kuru) instead of まいります when describing the cleaning staff's arrival to a guest. This is a keigo failure, and it sounds notably unprofessional even if the guest does not consciously register why. This mistake tends to occur more under time pressure, which is precisely when correct form matters most. Failing to ask for the guest's preferred time before scheduling a 清掃係 visit is also a real service gap — deciding when to send someone without consulting the guest assumes their schedule, which is not the spirit of omotenashi.
 
 ---
 

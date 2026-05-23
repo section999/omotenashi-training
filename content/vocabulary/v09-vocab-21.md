@@ -6,7 +6,7 @@ title: 無料キャンセル (muryou kyanseru)
 
 無料キャンセル means "free cancellation," the option to cancel a reservation without any charge, valid up to a certain number of days or hours before arrival. In the modern booking world, this has become one of the first things guests look for when filtering plans on OTAs, and it genuinely influences which property they choose. For staff, being able to explain the 無料キャンセル conditions precisely is part of both selling reservations and avoiding complaints later.
 
-The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is simply told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. In practice, repeating the deadline at the time of booking confirmation is one of the simplest and most effective things you can do to prevent that kind of dispute.
+The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is simply told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. Repeating the deadline at the time of booking confirmation is one of the simplest and most effective steps for preventing that kind of dispute.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ The detail that matters most is the deadline. A guest who hears 「無料キャ�
 
 ## Common Mistakes
 
-Announcing 無料キャンセル without a deadline is the single most common mistake, and the fallout tends to be ugly. The guest assumes the window is open-ended, cancels the evening before arrival, and then disputes the キャンセル料 with complete sincerity because from their perspective they were never told. Another thing to keep straight: the 無料キャンセル policy is plan-specific, not property-wide. The same hotel might offer a flexible rate with generous free cancellation and a non-refundable early-bird rate at the same time. Mixing up which rule applies to which plan is a fast route to a complaint. Students also sometimes answer cancellation questions with just 無料です, which is too vague; 無料キャンセルが可能です is the phrase that actually communicates what the guest needs to hear.
+Announcing 無料キャンセル without a deadline is the single most common mistake, and the fallout tends to be serious. The guest assumes the window is open-ended, cancels the evening before arrival, and then disputes the キャンセル料 with complete sincerity because from their perspective they were never told. The 無料キャンセル policy is also plan-specific, not property-wide. The same hotel might offer a flexible rate with generous free cancellation and a non-refundable early-bird rate at the same time. Mixing up which rule applies to which plan is a fast route to a complaint. Answering cancellation questions with just 無料です is also too vague; 無料キャンセルが可能です is the phrase that actually communicates what the guest needs to hear.
 
 ---
 
