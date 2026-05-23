@@ -4,30 +4,67 @@ section: 2
 title: Historical Roots, The Tea Ceremony
 ---
 
-The roots of omotenashi run directly through the Japanese **tea ceremony (茶道 / sadō)**. Before a single guest arrives, the host has already made dozens of decisions: which scroll to hang based on the season and who is coming, which flowers to place at the entrance, how hot the water should run for this particular tea. Nothing is left to chance or improvised on the spot. Every choice carries the same quiet message: *you are welcome here, and I have thought carefully about you.*
+Many of the ideas connected to omotenashi can be traced to the Japanese tea ceremony (茶道 / sadō or chanoyu).
 
-The tea master Sen no Rikyū (千利休, 1522-1591) gave this spirit a name: **ichi-go ichi-e (一期一会)**, meaning "one time, one meeting." The idea is simple and demanding at the same time. This particular gathering, with this particular person, at this particular moment, will never happen again exactly this way. Because of that, the host owes it complete dedication. That is not just a philosophical idea. It is the bedrock of what omotenashi actually means in practice.
+Before guests arrive, the host carefully prepares every detail of the gathering. The hanging scroll may be selected to match the season or the personality of the guest. Flowers are chosen with attention to simplicity and balance. The tea utensils, the temperature of the water, and even the atmosphere of the room are thoughtfully considered in advance.
 
-**Wabi-sabi (侘び寂び):**
+These preparations are not meant to impress the guest through luxury or display. Instead, they communicate a quieter message: "You are welcome here, and I have prepared this space with care for your visit."
 
-The tea ceremony also shaped the aesthetic principle of **wabi-sabi**, which finds beauty in imperfection, transience, and simplicity. The worn edge of a tea bowl, the slight asymmetry of a hand-thrown cup, the silence between words: in the tea room, these are not flaws. They are signs of honesty and refinement. In hospitality, wabi-sabi steers you away from the showy and toward the quietly thoughtful.
+In this sense, the tea ceremony became one of the cultural foundations of omotenashi. Hospitality is expressed not only through words, but through careful preparation, attentiveness, and respect for the guest's experience.
 
-A room with a single branch of seasonal plum blossom says more than a room stuffed with elaborate arrangements, because the restraint carries a message of its own: *I chose this one thing, for you, because of what it means right now.*
+## Sen no Rikyū and Ichi-go Ichi-e (一期一会)
 
-**From ceremony to profession:**
+The tea master Sen no Rikyū helped shape many of the values associated with the tea ceremony and Japanese hospitality culture.
 
-The values the tea ceremony cultivated, total sincerity, meticulous preparation, awareness of season, invisibility of effort, did not stay inside the tea room. They moved into Japanese hospitality culture broadly. The ryokan, the fine restaurant, the hotel with genuine character: all of them carry traces of this tradition. The host's duty to think deeply about the guest's experience before the guest arrives is a direct inheritance from the way a tea master prepares the room.
+One important idea connected to tea culture is **ichi-go ichi-e (一期一会)**, often translated as "One time, one meeting."
 
-**Ichi-go ichi-e in practice:**
+The phrase expresses the idea that every encounter is unique and can never be repeated in exactly the same way. Even if the same people meet again, the season, circumstances, and emotions of that moment will be different.
 
-For working hospitality professionals, ichi-go ichi-e is a call to full presence. The tenth check-in of the shift deserves the same quality of attention as the first. The regular guest who has stayed forty times is having *this* stay for the first time, and it will not be repeated. Students often push back on this point, saying it feels impossible to hold that frame after a long shift. That is a fair thing to say. But the practice is not about feeling it emotionally every single time. It is about choosing to act as if it is true. That discipline, held consistently, is what separates hospitality that guests remember from hospitality that merely gets the job done.
+Because of this, each guest and each interaction deserve sincere attention and care.
+
+In hospitality work, this idea encourages staff to treat every stay, every meal, and every conversation as meaningful. A routine interaction for the staff member may be a once-in-a-lifetime experience for the guest.
+
+## Wabi-Sabi (侘び寂び)
+
+The tea ceremony also influenced the aesthetic principle known as **wabi-sabi (侘び寂び)**.
+
+Wabi-sabi values simplicity, naturalness, imperfection, and the beauty of things that change over time.
+
+In a tea room, a slightly uneven tea bowl or a quietly weathered wooden surface is not considered a flaw. These details are appreciated because they feel natural, honest, and human.
+
+This idea also appears in hospitality design and service. Rather than creating an atmosphere that feels overly luxurious or excessive, omotenashi often emphasises calmness, balance, and thoughtful simplicity.
+
+For example, a single seasonal flower arrangement, soft natural lighting, or carefully chosen tableware may create a stronger feeling of comfort than elaborate decoration. The focus is not on showing abundance, but on creating harmony and attentiveness.
+
+## From Tea Ceremony to Modern Hospitality
+
+The values developed through the tea ceremony gradually influenced Japanese hospitality culture more broadly.
+
+Many traditional ryokan, restaurants, and hotels continue to reflect ideas connected to careful preparation, seasonal awareness, sincerity, attention to detail, and invisible effort.
+
+Guests may not notice every preparation directly, but they experience the feeling created by those preparations. A room prepared with seasonal sweets, staff remembering a returning guest's preferences, or smooth coordination between departments can all reflect the spirit of omotenashi.
+
+In this way, the philosophy of the tea ceremony continues to influence modern hospitality practice.
+
+## Ichi-go Ichi-e in Professional Practice
+
+For hospitality professionals, ichi-go ichi-e is also a reminder to remain fully present during each interaction.
+
+A staff member may check in hundreds of guests during a busy season, but each guest experiences that stay only once. For the guest, the moment is personal and memorable.
+
+Of course, maintaining this level of attentiveness at all times can be challenging, especially during long shifts or busy operations. Omotenashi does not require staff to be emotionally perfect at every moment. Instead, it encourages the consistent practice of professionalism, care, and respectful attention.
+
+Over time, these small actions shape the quality of the guest experience and help create hospitality that guests genuinely remember.
 
 ---
 
 ## Key Phrases
 
-**ようこそいらっしゃいました。** *(Yōkoso irasshaimashita.)*
-"Welcome": a warmer and more formal variant of いらっしゃいませ, used in ryokan and luxury settings to convey deep appreciation for the guest's arrival.
+**ようこそいらっしゃいました。**
+*Yōkoso irasshaimashita.*
+"A warm welcome to you."
+
+This expression is a more formal and heartfelt variation of いらっしゃいませ. It is often associated with ryokan, traditional establishments, and luxury hospitality settings where a deeper sense of personal welcome is emphasised.
 
 ---
 
