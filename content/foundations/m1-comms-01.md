@@ -4,29 +4,35 @@ section: 1
 title: Reading the Air
 ---
 
-**空気を読む (kuuki wo yomu)**, literally "reading the air," is one of the most important social skills in Japanese culture, and it is indispensable in hospitality. It means sensing the unspoken mood of a situation and adjusting your behaviour accordingly, without being told what is needed. In a professional context, it is the difference between service that feels natural and service that feels tone-deaf.
+**空気を読む (kuuki wo yomu)**, literally "reading the air," refers to sensing the unspoken mood of a situation and adjusting your behaviour accordingly, without being told what is needed. It is one of the most important social skills in Japanese culture and is indispensable in hospitality work.
 
-The concept matters because Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is there, in their posture, their pace, their tone, the brevity of their responses, but it must be read, not waited for.
+In a professional context, it is the difference between service that feels natural and service that feels tone-deaf.
 
-**Two contrasting guests:**
+## Why This Skill Matters
 
-A guest who responds to your greeting in short, clipped sentences is telling you something. They may be tired, stressed, in a hurry, or simply private. The appropriate response is to match their efficiency: be warm but brief, complete the service without unnecessary conversation, and give them their space. Do not try to draw them out; do not fill the silence with pleasantries.
+Japanese communication is, relative to many other cultures, high-context. Much of what is meant is not stated directly. A guest who is dissatisfied may not say so; a guest who is uncomfortable may not complain. The information is present — in their posture, their pace, their tone, the brevity of their responses — but it must be read, not waited for.
 
-A guest who lingers at check-in and asks questions about the local area is also telling you something. They are open to engagement, curious, and in the mood for conversation. Here, warmth and generosity are welcome. Answer fully, offer more than the minimum. A recommendation they didn't ask for, a story about the property, a question about what they enjoy: all of these will land well.
+## Contrasting Guests
+
+Consider two different check-in situations.
+
+A guest who responds to your greeting in short, clipped sentences and avoids eye contact is communicating something. They may be tired, stressed, or simply private. The appropriate response is to match their efficiency: be warm but brief, complete the service without unnecessary conversation, and give them space.
+
+A guest who lingers at check-in and asks questions about the local area is communicating something different. They are open to engagement and in the mood for conversation. Here, warmth and generosity are welcome. Answer fully, offer more than the minimum.
 
 Neither guest told you what they needed. You read it.
 
-**What to observe:**
+## What to Observe
 
-Reading the air is a skill built from specific observations. Worth noting: students often focus so heavily on language that they forget to watch the body.
+Reading the air is a skill built from specific observations:
 
 - **Pace:** how quickly or slowly is the guest moving and speaking? Match it.
-- **Eye contact:** are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze suggests a desire for less.
-- **Response length:** one-word answers vs. expansive conversation. Respond in kind.
+- **Eye contact:** are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze suggests a preference for less.
+- **Response length:** one-word answers versus expansive conversation. Respond in kind.
 - **Posture:** leaning toward you (engaged) or away (guarded). Adjust your physical proximity accordingly.
-- **Mood on arrival:** a guest who arrives flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
+- **Mood on arrival:** a guest arriving flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
 
-**The common mistake:**
+## The Common Mistake
 
 The most common failure in kuuki wo yomu is defaulting to a single mode regardless of the guest. Always talkative and warm irritates private guests. Always efficient and minimal disappoints guests seeking connection. Excellent hospitality is calibrated to each person.
 
@@ -36,14 +42,23 @@ This skill cannot be scripted. It develops through genuine interest in the peopl
 
 ## Key Phrases
 
-**お急ぎでしょうか？** *(O-isogi deshō ka?)*
-"Are you in a hurry?": asked gently when a guest seems rushed, so that you can adjust your service accordingly. Also signals that you have noticed and are ready to adapt.
+**お急ぎでしょうか？**
+*O-isogi deshō ka?*
+"Are you in a hurry?"
 
-**ごゆっくりどうぞ。** *(Goyukkuri dōzo.)*
-"Please take your time.": said to a guest who seems stressed or hurried, as an invitation to slow down. Also appropriate when a guest has just sat down and you are not yet approaching.
+Asked gently when a guest seems rushed, so that you can adjust your service accordingly. It also signals that you have noticed their pace and are ready to adapt.
 
-**何かお力になれることがあれば、おっしゃってください。** *(Nanika o-chikara ni nareru koto ga areba, osshatte kudasai.)*
-"If there is anything I can help with, please do say.": a gentle, open offer made without pressure, appropriate when a guest seems uncertain or hesitant.
+**ごゆっくりどうぞ。**
+*Goyukkuri dōzo.*
+"Please take your time."
+
+Said to a guest who seems stressed or in a hurry, as an invitation to slow down. Also appropriate when a guest has just sat down and you are not yet approaching.
+
+**何かお力になれることがあれば、おっしゃってください。**
+*Nanika o-chikara ni nareru koto ga areba, osshatte kudasai.*
+"If there is anything I can help with, please do say."
+
+A gentle, open offer made without pressure, appropriate when a guest seems uncertain or hesitant.
 
 ---
 

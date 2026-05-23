@@ -4,36 +4,39 @@ section: 2
 title: Handling Guest Belongings
 ---
 
-How you handle a guest's belongings communicates something before a single word is spoken. Luggage, coats, personal items: each one represents something the guest values and is choosing to trust you with. Handling them with quiet care says: *I understand that what matters to you matters to me.* Handling them carelessly, even in the name of efficiency, says the opposite just as clearly.
+How you handle a guest's belongings communicates something before a single word is spoken. Luggage, coats, and personal items each represent something the guest values and is choosing to trust you with. Handling them with quiet care says: I understand that what matters to you matters to me. Handling them carelessly, even in the name of efficiency, says the opposite just as clearly.
 
-**The principle of visible respect:**
+## The Principle of Visible Respect
 
-A bag dropped on the floor without thought, a coat thrown over an arm, luggage carried with audible strain and noise: all of these pull attention toward the physical mechanics of what you are doing rather than the care behind it. The standard to aim for is effortless handling. Items moved quietly, placed with the guest's access in mind, treated with the same care you would give your own things.
+A bag dropped on the floor without thought, a coat thrown over an arm, luggage carried with audible strain: all of these pull attention toward the physical mechanics of the action rather than the care behind it. The standard to aim for is effortless handling — items moved quietly, placed with the guest's access in mind, and treated with the same care you would give your own belongings.
 
-Worth noting here: this does not require performance. It requires the genuine understanding that these items belong to someone who is trusting you with them right now.
+This does not require performance. It requires the genuine understanding that these items belong to someone who is trusting you with them right now.
 
-**Specific handling standards:**
+## Handling Standards
 
-**Luggage:**
-- When collecting bags at arrival, identify each piece clearly before lifting and confirm with the guest: *"May I take all three pieces?"*
-- Walk at the guest's pace. Not ahead of them, which leaves them behind. Not behind them, which many guests find unsettling. Slightly ahead and to the side is the right position.
+### Luggage
+
+- When collecting bags at arrival, identify each piece clearly before lifting and confirm with the guest: "May I take all three pieces?"
+- Walk at the guest's pace — not ahead of them, which leaves them behind, and not behind them, which many guests find unsettling. Slightly ahead and to the side is the right position.
 - Place bags on the luggage rack with the guest's access in mind: handles facing outward, heavier items stable, anything fragile visible and separated.
 - Do not place luggage on the floor unless there is genuinely no other option.
 
-**Coats:**
+### Coats
+
 - Accept with both hands and offer a hanger immediately.
-- Hang facing the correct direction (back of the coat outward) at a height the guest can reach without having to stretch.
+- Hang facing the correct direction (back of the coat outward) at a height the guest can reach without stretching.
 - Note where the coat is stored and be ready to retrieve it promptly at departure.
 
-**Personal items (bags, briefcases, shopping):**
-- If a guest places a bag on the floor at a restaurant table, offer a bag hook or dedicated chair: *"May I offer somewhere to place that?"*
+### Personal Items (bags, briefcases, shopping)
+
+- If a guest places a bag on the floor at a restaurant table, offer a bag hook or dedicated chair: "May I offer somewhere to place that?"
 - At a counter, items should be placed on the surface and returned to the guest with both hands.
 
-**The standard for presentation:**
+## Returning Items
 
-When returning any item, a coat, a bag from storage, an umbrella, do it with a brief verbal confirmation ("Your coat, sir/madam") and both hands extended. The item is returned as if it were being presented for the first time: with full attention, never as an afterthought tossed back while you are already moving on.
+When returning any item — a coat, a bag from storage, an umbrella — do so with a brief verbal confirmation ("Your coat, sir/madam") and both hands extended. The item is returned as if being presented for the first time: with full attention, never as an afterthought tossed back while already moving on.
 
-**Privacy of personal items:**
+## Privacy of Personal Items
 
 A guest's belongings should never be opened, searched, repositioned without clear necessity, or commented on. A book left on a table, medication on a nightstand, correspondence left out: none of these are for your attention. The guest's privacy is absolute, and it extends to their things.
 
@@ -41,14 +44,23 @@ A guest's belongings should never be opened, searched, repositioned without clea
 
 ## Key Phrases
 
-**お荷物をお持ちいたしましょうか？** *(O-nimotsu wo o-mochi itashimashō ka?)*
-"Shall I carry your luggage?": the offer to assist with bags. Note the use of いたしましょうか (kenjōgo): carrying the bag is expressed as the staff member's privilege, not a burden.
+**お荷物をお持ちいたしましょうか？**
+*O-nimotsu wo o-mochi itashimashō ka?*
+"Shall I carry your luggage?"
 
-**こちらにお預かりいたします。** *(Kochira ni o-azukari itashimasu.)*
-"I will look after this here.": said when storing a coat, umbrella, or bag, communicating that the item is in safe keeping.
+This is the standard offer to assist with bags. The use of いたしましょうか (kenjōgo) expresses carrying the bag as the staff member's privilege, not a burden.
 
-**お荷物は全部でいくつでしょうか？** *(O-nimotsu wa zenbu de ikutsu deshō ka?)*
-"How many pieces of luggage do you have in total?": confirms the count before moving items, demonstrating care and preventing anything from being left behind.
+**こちらにお預かりいたします。**
+*Kochira ni o-azukari itashimasu.*
+"I will look after this here."
+
+Said when storing a coat, umbrella, or bag. It communicates that the item is being kept safely on the guest's behalf.
+
+**お荷物は全部でいくつでしょうか？**
+*O-nimotsu wa zenbu de ikutsu deshō ka?*
+"How many pieces of luggage do you have in total?"
+
+This confirms the count before moving items, demonstrating care and preventing anything from being left behind.
 
 ---
 

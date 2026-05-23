@@ -8,50 +8,66 @@ The LEARN protocol provides a structured approach to complaint resolution that e
 
 | Step | Action |
 |------|--------|
-| **L, Listen** | Stop everything. Give the guest your complete, undivided attention. Do not interrupt, not to explain, not to apologise, not to offer solutions. Let them finish entirely. |
-| **E, Empathise** | Acknowledge the emotional impact before any practical response. "That must have been very frustrating", said sincerely, is more important than any solution at this stage. |
-| **A, Apologise** | 大変申し訳ございません. Sincere. Specific. Unconditional. No "but," no deflection, no conditions. |
-| **R, Resolve** | Offer a clear, immediate action. Give options where possible. Act, do not merely promise to investigate. |
-| **N, Notify** | Follow up personally to confirm the resolution was satisfactory. The guest should hear from you again. |
+| **L — Listen** | Stop everything. Give the guest your complete, undivided attention. Do not interrupt — not to explain, not to apologise, not to offer solutions. Let them finish entirely. |
+| **E — Empathise** | Acknowledge the emotional impact before any practical response. "That must have been very frustrating," said sincerely, is more important than any solution at this stage. |
+| **A — Apologise** | 大変申し訳ございません. Sincere. Specific. Unconditional. No "but," no deflection, no conditions. |
+| **R — Resolve** | Offer a clear, immediate action. Give options where possible. Act — do not merely promise to investigate. |
+| **N — Notify** | Follow up personally to confirm the resolution was satisfactory. The guest should hear from you again. |
 
-**L, Listen:**
+## L — Listen
 
-Truly listening to a complaint means resisting every instinct to respond. The most common failure at this stage is interrupting with an explanation or an early apology before the guest has finished. An apology that cuts off a complaint says: "I want this to stop" rather than "I want to understand." Let the guest say everything they need to say. The more they can express, the better you understand the problem, and the more heard they feel.
+Truly listening to a complaint means resisting the instinct to respond immediately. The most common failure at this stage is interrupting with an explanation or an early apology before the guest has finished. An apology that cuts off a complaint communicates "I want this to stop" rather than "I want to understand." Let the guest say everything they need to say. The more they can express, the better the problem is understood, and the more heard they feel.
 
-Physical listening signals matter: face the guest directly, maintain appropriate eye contact, keep your body still and open. Do not fidget, look at your watch, or glance at colleagues. Students often underestimate how much these physical details register with an upset guest.
+Physical listening signals matter:
 
-**E, Empathise:**
+- Face the guest directly
+- Maintain appropriate eye contact
+- Keep your body still and open
+- Do not fidget, check the time, or glance at colleagues
 
-Empathy precedes resolution. A guest who is emotionally frustrated cannot fully receive a solution until they feel that their emotion has been acknowledged. *"I completely understand why you feel that way"* or *"That must have been incredibly inconvenient"*, said genuinely, not as a formula, creates the psychological space for the resolution to land.
+These physical details register clearly with an upset guest, even when they are not consciously noticed.
 
-Empathy is not agreement with the facts of the complaint. It is acknowledgement of the guest's experience. You can empathise with a guest's frustration about a delay, even if the delay was outside your control.
+## E — Empathise
 
-**A, Apologise:**
+Empathy precedes resolution. A guest who is emotionally frustrated cannot fully receive a solution until their emotion has been acknowledged. Saying "I completely understand why you feel that way" or "That must have been incredibly inconvenient" — genuinely, not as a formula — creates the psychological space for the resolution to land.
 
-The Japanese standard for a sincere apology is demanding: **大変申し訳ございません (taihen mōshiwake gozaimasen)**, literally "I have absolutely no excuse for this." There is no qualification, no explanation attached. The apology is complete in itself.
+Empathy is not agreement with the facts of the complaint. It is acknowledgement of the guest's experience. A staff member can empathise with a guest's frustration about a delay even if the delay was outside their control.
 
-Then a specific acknowledgement: not "I apologise for any inconvenience" but "I apologise for the noise last night that disrupted your sleep."
+## A — Apologise
 
-**R, Resolve:**
+The Japanese standard for a sincere apology is demanding. **大変申し訳ございません (taihen mōshiwake gozaimasen)**, literally "I have absolutely no excuse for this," carries no qualification or explanation. The apology is complete in itself.
 
-Offer a specific action. "I will personally speak to the maintenance team right now" is better than "we'll look into it." Give the guest a choice where possible. It returns a sense of control to someone who has just had an experience of powerlessness.
+The apology should then be made specific — not "I apologise for any inconvenience" but "I apologise for the noise last night that disrupted your sleep." The specificity shows that the situation was genuinely understood.
 
-**N, Notify:**
+## R — Resolve
 
-Come back. This is the step most often skipped, and its omission turns a good recovery into an incomplete one. Return personally to confirm that the resolution worked. The return communicates: I took this seriously enough to follow through.
+Offer a specific action. "I will personally speak to the maintenance team right now" is more reassuring than "we'll look into it." Where possible, give the guest a choice. Offering options returns a sense of control to someone who has just had an experience of powerlessness.
+
+## N — Notify
+
+Return to confirm the resolution worked. This is the step most often skipped, and its omission turns a good recovery into an incomplete one. Coming back — even briefly — communicates that the guest's experience was the actual priority, and that the staff member cared enough to follow through.
 
 ---
 
 ## Key Phrases
 
-**おっしゃることは、よく分かりました。** *(Ossharu koto wa, yoku wakarimashita.)*
-"I fully understand what you are saying.": the close of the L (Listen) step; signals that the guest has been heard completely before any response is offered.
+**おっしゃることは、よく分かりました。**
+*Ossharu koto wa, yoku wakarimashita.*
+"I fully understand what you are saying."
 
-**大変申し訳ございません。○○でご不便をおかけしてしまい、誠に申し訳ございません。** *(Taihen mōshiwake gozaimasen. ○○ de go-fuben wo o-kake shite shimai, makoto ni mōshiwake gozaimasen.)*
-"I am deeply sorry. I sincerely apologise for the inconvenience caused by ○○.": the specific apology, naming the actual issue.
+This closes the L (Listen) step. It signals that the guest has been heard completely before any response is offered.
 
-**すぐに○○いたします。よろしいでしょうか。** *(Sugu ni ○○ itashimasu. Yoroshii deshō ka.)*
-"I will ○○ immediately. Would that be acceptable?": the resolution offer, specific and action-oriented, asking for the guest's agreement.
+**大変申し訳ございません。○○でご不便をおかけしてしまい、誠に申し訳ございません。**
+*Taihen mōshiwake gozaimasen. ○○ de go-fuben wo o-kake shite shimai, makoto ni mōshiwake gozaimasen.*
+"I am deeply sorry. I sincerely apologise for the inconvenience caused by ○○."
+
+This is the specific apology used in the A (Apologise) step, naming the actual issue rather than offering a generic expression of regret.
+
+**すぐに○○いたします。よろしいでしょうか。**
+*Sugu ni ○○ itashimasu. Yoroshii deshō ka.*
+"I will ○○ immediately. Would that be acceptable?"
+
+This is the resolution offer used in the R (Resolve) step. It is specific, action-oriented, and asks for the guest's agreement before proceeding.
 
 ---
 

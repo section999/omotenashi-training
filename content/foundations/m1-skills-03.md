@@ -4,46 +4,62 @@ section: 3
 title: The Rhythm of Request Handling
 ---
 
-When a guest makes a request, the ideal response is not just to fulfil it. It is to fulfil it in a way that also anticipates what will naturally come next. That is what separates professional service from exceptional hospitality: the willingness to extend care one step beyond what was asked, without becoming intrusive.
+When a guest makes a request, the ideal response is not simply to fulfil it. It is to fulfil it in a way that also anticipates what will naturally come next. This is what separates professional service from exceptional hospitality: the willingness to extend care one step beyond what was asked, without becoming intrusive.
 
-**The anatomy of a request:**
+## Stated Needs and Implied Context
 
-Every request has two layers: the stated need and the implied context. A guest asking for extra pillows is not comfortable with the current sleep setup. A guest asking for the bill has probably finished eating and may also need their coat retrieved and a taxi arranged. A guest asking for directions to the nearest pharmacy is likely not feeling well, and they might genuinely benefit from an offer to check whether the product they need is in stock before they make the trip.
+Every request has two layers: the stated need and the implied context.
+
+A guest asking for extra pillows is not comfortable with the current sleep setup. A guest asking for the bill has probably finished eating and may also need a coat retrieved and a taxi arranged. A guest asking for directions to the nearest pharmacy is likely unwell, and they might benefit from an offer to check whether the product they need is in stock before they make the trip.
 
 Hearing only the stated request is efficient. Hearing the implied context is care.
 
-**The pattern of excellent request handling:**
+## The Pattern of Excellent Request Handling
 
-1. **Confirm clearly:** repeat the request back to ensure accuracy. *"Certainly, two extra pillows, I'll bring those up shortly."* This prevents errors and tells the guest they have been heard.
+**1. Confirm clearly.** Repeat the request back to ensure accuracy. "Certainly, two extra pillows — I'll bring those up shortly." This prevents errors and tells the guest they have been heard.
 
-2. **Act immediately:** do not delay, hedge, or give a vague timeline unless one is genuinely necessary. *"I'll have that for you right away"* is the standard. If there will be a wait, say so specifically: *"It will take approximately fifteen minutes. Shall I bring it as soon as it is ready?"*
+**2. Act immediately.** Do not delay, hedge, or give a vague timeline unless one is genuinely necessary. "I'll have that for you right away" is the standard. If there will be a wait, say so specifically: "It will take approximately fifteen minutes. Shall I bring it as soon as it is ready?"
 
-3. **Anticipate the next logical need:** after fulfilling the request, think about what naturally follows. For example:
-   - Extra pillows → *"Would you also like an extra blanket?"*
-   - The bill → *"Shall I arrange a taxi for you as well?"*
-   - Directions to the pharmacy → *"Is there anything specific you're looking for? I may be able to check availability for you."*
-   - A replacement menu item due to an allergy → *"I'll also let the kitchen know about the allergy so they can make sure none of the other courses contain it."*
+**3. Anticipate the next logical need.** After fulfilling the request, consider what naturally follows. Examples:
 
-**The difference between extension of care and upselling:**
+- Extra pillows → "Would you also like an extra blanket?"
+- The bill → "Shall I arrange a taxi for you as well?"
+- Directions to the pharmacy → "Is there anything specific you're looking for? I may be able to check availability for you."
+- A replacement menu item due to an allergy → "I'll also let the kitchen know about the allergy so they can make sure none of the other courses contain it."
 
-An extension of care serves the guest's actual need and anticipates what they will genuinely benefit from. Upselling serves the property's revenue. The difference is motivation and relevance. Offering a taxi to a guest settling their bill is care. Offering a more expensive suite because they happen to be standing at the desk is sales. Guests feel this difference clearly.
+## Extension of Care vs. Upselling
 
-**When to extend and when to step back:**
+An extension of care serves the guest's actual need and anticipates what they will genuinely benefit from. Upselling serves the property's revenue. The difference is motivation and relevance.
 
-Not every request calls for an extended response. A guest who asks for a glass of water at the bar wants water, not a conversation. Read the room: a guest in a hurry wants their request fulfilled quickly and completely. A guest with time may appreciate engagement. In practice, match your response to what the guest's overall state is telling you.
+Offering a taxi to a guest settling their bill is care. Offering a more expensive suite because they happen to be standing at the desk is sales. Guests feel this difference clearly.
+
+## When to Extend and When to Step Back
+
+Not every request calls for an extended response. A guest who asks for a glass of water at the bar wants water, not a conversation.
+
+Read the situation: a guest in a hurry wants their request fulfilled quickly and completely. A guest with time may appreciate further engagement. Match your response to what the guest's overall state is telling you.
 
 ---
 
 ## Key Phrases
 
-**かしこまりました。ただいまお持ちいたします。** *(Kashikomarimashita. Tadaima o-mochi itashimasu.)*
-"Certainly. I will bring it right away.": the clean, confident response to a request. Confirms the instruction was received and sets a clear expectation.
+**かしこまりました。ただいまお持ちいたします。**
+*Kashikomarimashita. Tadaima o-mochi itashimasu.*
+"Certainly. I will bring it right away."
 
-**他に何かご入用のものはございませんか？** *(Hoka ni nanika go-iri yō no mono wa gozaimasen ka?)*
-"Is there anything else you might need?": said after fulfilling a request, to open the door for any additional needs without pressuring the guest.
+This is the clean, confident response to a request. It confirms the instruction was received and sets a clear expectation for the guest.
 
-**すぐに確認してまいります。** *(Sugu ni kakunin shite mairimasu.)*
-"I will go and check on that immediately.": used when a request requires confirmation or preparation before fulfilment, communicating urgency and follow-through.
+**他に何かご入用のものはございませんか？**
+*Hoka ni nanika go-iri yō no mono wa gozaimasen ka?*
+"Is there anything else you might need?"
+
+Said after fulfilling a request, this phrase opens the door for any additional needs without pressuring the guest.
+
+**すぐに確認してまいります。**
+*Sugu ni kakunin shite mairimasu.*
+"I will go and check on that immediately."
+
+Used when a request requires confirmation or preparation before it can be fulfilled. It communicates urgency and follow-through.
 
 ---
 

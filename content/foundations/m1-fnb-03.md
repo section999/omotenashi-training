@@ -4,45 +4,60 @@ section: 3
 title: Pacing the Dining Experience
 ---
 
-F&B service pacing is one of the most refined, and most frequently neglected, skills in hospitality. When it is done well, the guest has no awareness of the mechanics: courses simply arrive at the right moment, the evening flows naturally, and the experience feels effortless. When it is done poorly, the guest feels rushed, or abandoned, or aware that something is off, even if they cannot name what.
+Pacing is one of the most refined skills in F&B service — and one of the most frequently neglected. When it is done well, the guest has no awareness of the mechanics. Courses simply arrive at the right moment, the evening flows naturally, and the experience feels effortless. When it is done poorly, the guest feels rushed, or abandoned, or aware that something is off, even if they cannot identify what.
 
-**The goal of pacing:**
+## The Goal of Pacing
 
-Each course should arrive when the previous one has been fully enjoyed, the conversation has naturally settled, and the guest is ready to be surprised again. The timing should feel organic to the guest, as if the meal and the evening are breathing together. This rhythm should never feel rushed, never stagnant, and never mechanical.
+Each course should arrive when the previous one has been fully enjoyed, the conversation has naturally settled, and the guest is ready for the next. The timing should feel organic, as if the meal and the evening are moving together.
 
-**Reading the signals:**
+This rhythm should never feel rushed, stagnant, or mechanical. Good pacing is invisible to the guest — they simply experience a meal that unfolds at exactly the right speed.
 
-Good pacing requires continuous observation. The server's attention should be on the table at all times, not just when delivering or clearing. Signals of readiness:
+## Reading the Signals
 
-- **Cutlery placed together** on the plate, even informally, typically signals that the guest has finished
-- **Plates pushed slightly forward** or aside, the guest is making space for what comes next
-- **A pause in conversation** after eating, the experience of the dish has been processed and attention is beginning to return outward
-- **Looking toward the service area**, a guest glancing toward staff is often ready for the next step
+Good pacing requires continuous observation. The server's attention should be on the table at all times, not only when delivering or clearing.
 
-Signals of *not yet ready:*
+Signals that a guest is ready for the next course:
 
-- **Cutlery still in hand or in use**
-- **One guest still eating while another has finished**, do not clear the finished plate; wait until both have completed the course
-- **Active, animated conversation**, the meal is part of the experience, not separate from it; do not interrupt
+- Cutlery placed together on the plate, even informally, typically signals that the guest has finished
+- Plates pushed slightly forward or aside — the guest is making space for what comes next
+- A pause in conversation after eating — the experience of the dish has been processed and attention is returning outward
+- The guest glancing toward the service area — often a sign they are ready for the next step
 
-**Responding to slow or fast tables:**
+Signals that a guest is not yet ready:
 
-Some tables eat slowly and linger; others move through a meal quickly. Neither is wrong. Adapt the kitchen's pacing to match, rather than imposing a fixed interval. Communicating with the kitchen, "table five is taking their time on the main, please hold the dessert," is a standard function of the service role, not an interruption to the system. In practice, this kind of communication is what separates a genuinely well-run service from one that is merely going through the motions.
+- Cutlery still in hand or in use
+- One guest still eating while another has finished — do not clear the finished plate; wait until both have completed the course
+- Active, animated conversation — the meal is part of the social experience; do not interrupt
 
-If a guest is clearly in a hurry and has communicated so (or if it is apparent from their behaviour), acknowledge this and work with the kitchen to adjust: *"We'll have your next course ready in about ten minutes, would that work for you?"* The guest's schedule is not a problem to manage; it is a need to serve.
+## Adapting to the Table's Pace
+
+Some tables eat slowly and linger; others move through a meal quickly. Neither is wrong. Adapt the kitchen's pacing to match the table, rather than imposing a fixed interval.
+
+Communicating with the kitchen — for example, "table five is taking their time on the main, please hold the dessert" — is a standard part of the service role. This kind of coordination separates a genuinely well-run service from one that is merely going through the motions.
+
+If a guest is clearly in a hurry, acknowledge this and work with the kitchen to adjust. For example: "We'll have your next course ready in about ten minutes — would that work for you?" The guest's schedule is not a problem to manage. It is a need to serve.
 
 ---
 
 ## Key Phrases
 
-**お料理のペースはいかがでしょうか？** *(O-ryōri no pēsu wa ikaga deshō ka?)*
-"How is the pace of the meal working for you?": a simple, direct check-in on pacing, appropriate at the mid-point of a longer meal.
+**お料理のペースはいかがでしょうか？**
+*O-ryōri no pēsu wa ikaga deshō ka?*
+"How is the pace of the meal working for you?"
 
-**次のお料理はただいまご準備しております。もうしばらくお待ちいただけますでしょうか。** *(Tsugi no o-ryōri wa tadaima go-junbi shite orimasu. Mō shibaraku o-machi itadakemasu deshō ka.)*
-"The next course is being prepared now. May I ask you to wait just a little longer?": used when the kitchen is running behind, keeping the guest informed rather than leaving them wondering.
+A direct and natural check-in, appropriate at the midpoint of a longer meal. It gives the guest an easy opportunity to communicate any concerns about timing.
 
-**お時間をおとりいただける場合は、このままゆっくりお楽しみください。** *(O-jikan wo o-tori itadakeru baai wa, kono mama yukkuri o-tanoshimi kudasai.)*
-"If you have the time, please enjoy the evening at a leisurely pace.": an explicit permission for the guest to stay as long as they wish.
+**次のお料理はただいまご準備しております。もうしばらくお待ちいただけますでしょうか。**
+*Tsugi no o-ryōri wa tadaima go-junbi shite orimasu. Mō shibaraku o-machi itadakemasu deshō ka.*
+"The next course is being prepared now. May I ask you to wait just a little longer?"
+
+Use this when the kitchen is running behind. It keeps the guest informed rather than leaving them wondering, and frames the wait as a polite request rather than an unexplained silence.
+
+**お時間をおとりいただける場合は、このままゆっくりお楽しみください。**
+*O-jikan wo o-tori itadakeru baai wa, kono mama yukkuri o-tanoshimi kudasai.*
+"If you have the time, please enjoy the evening at a leisurely pace."
+
+This phrase gives the guest explicit permission to stay as long as they wish. It is especially appropriate at the end of the main course when transitioning toward dessert.
 
 ---
 

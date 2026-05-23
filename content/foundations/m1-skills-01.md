@@ -4,42 +4,50 @@ section: 1
 title: Service Begins Before the Guest Arrives
 ---
 
-Some of the most impressive hospitality happens before any guest interaction takes place. The room that is perfectly set up, the table that already reflects a remembered preference, the lobby that feels genuinely welcoming the moment you walk through the door: none of that is accidental. It is the result of careful preparation that the guest will never directly see but will absolutely feel.
+Some of the most effective hospitality happens before any guest interaction takes place. The room that reflects a remembered preference, the table already set for a business lunch, the lobby that feels genuinely welcoming from the first step inside — none of that is accidental. It is the result of deliberate preparation the guest will never directly see but will absolutely feel.
 
-**Preparation as the first act of service:**
+## Kikubari and the Preparation Stage
 
-**Kikubari (気配り)**, anticipatory attentiveness, begins at the preparation stage. Before a guest arrives, the question is not "what do I need to set up?" but "what does this specific guest need in order to feel genuinely cared for?" Those are meaningfully different questions, and the gap between them is the gap between adequate and memorable.
+**Kikubari (気配り)**, anticipatory attentiveness, begins before the guest arrives. The question at this stage is not "what do I need to set up?" but "what does this specific guest need to feel genuinely cared for?" These are meaningfully different questions, and the gap between them separates adequate service from memorable service.
 
-The information you need is almost always already available: previous preference notes, booking details, the purpose of the visit, arrival time, length of stay. Using that information before the guest arrives, rather than asking them to repeat it at check-in, is what distinguishes competent service from the kind of service guests actually talk about afterward.
+The information needed for good preparation is almost always already available: previous preference notes, booking details, the purpose of the visit, arrival time, and length of stay. Using that information before the guest arrives — rather than asking them to repeat it at check-in — is what distinguishes thoughtful hospitality from merely competent processing.
 
-**Practical preparation in different roles:**
+## Preparation by Role
 
-- **Front desk / reception:** Review all arriving guests before your shift begins. Note names and practice pronouncing unfamiliar ones, check special requests, loyalty tier, any occasion notes, and dietary requirements linked to dining reservations.
+Different roles require different kinds of pre-arrival preparation:
 
-- **Housekeeping:** A guest who noted a preference for firm pillows should find firm pillows in the room, not a card offering to swap them. A family room should already anticipate children's needs: lower towel placement, minibar secured if requested, child-friendly amenities visible and accessible.
+- **Front desk / reception:** Review all arriving guests before your shift begins. Note names, practise unfamiliar pronunciations, and check special requests, loyalty tier, occasion notes, and any dietary requirements linked to dining reservations.
+- **Housekeeping:** A guest who noted a preference for firm pillows should find firm pillows in the room, not a card offering to swap them. A family room should anticipate children's needs: lower towel placement, minibar secured if requested, child-friendly amenities visible and accessible.
+- **Restaurant:** A business lunch table may need a nearby power socket, extra space between neighbouring tables, and water ready on arrival. A birthday dinner requires the kitchen briefed, the cake coordinated, and the celebration confirmed before the guest sits down.
+- **Concierge:** If a guest mentioned an interest in local pottery or hiking, have recommendations ready before they ask. Assembling them while someone stands waiting is not preparation.
 
-- **Restaurant:** A business lunch table might need a nearby power socket, a bit more space between neighbouring tables, and water ready on arrival. A birthday dinner needs the kitchen briefed, the cake coordinated, and the celebration confirmed before the guest sits down, not once they are already seated.
+## The Team Briefing
 
-- **Concierge:** If a guest mentioned an interest in local pottery or hiking, have your recommendations ready before they ask. Assembling them while someone stands waiting is not preparation at all.
+The team briefing is the most important preparation tool in any property. Guest information — preferences, the purpose of the stay, any sensitivities — must move across all departments before the guest arrives.
 
-**The briefing:**
-
-The team briefing is probably the most valuable preparation tool in any property. Guest information, preferences, the purpose of the stay, any sensitivities, must move across all departments. Students often underestimate how badly things go when this flow breaks down. A dietary restriction that sits only in the reservation system and never reaches the kitchen is not managed. It is a liability waiting to cause real harm.
-
-That said, the briefing only works if the people in it are actually listening and passing information forward. The quality of your preparation is exactly equal to the quality of that information flow.
+A dietary restriction that stays only in the reservation system and never reaches the kitchen is not managed. It is a liability. The briefing only works when every person in it is actively listening and passing information forward. The quality of preparation is exactly equal to the quality of that information flow.
 
 ---
 
 ## Key Phrases
 
-**ご到着をお待ちしておりました。** *(Go-tōchaku wo o-machi shite orimashita.)*
-"We have been looking forward to your arrival.": the ideal check-in greeting for a guest who is expected. It communicates that their arrival was anticipated and prepared for, not simply processed when it occurred.
+**ご到着をお待ちしておりました。**
+*Go-tōchaku wo o-machi shite orimashita.*
+"We have been looking forward to your arrival."
 
-**○○様のご要望に合わせてご準備いたしました。** *(○○-sama no go-yōbō ni awasete go-junbi itashimashita.)*
-"We prepared this in accordance with your wishes.": used to highlight a personalised preparation, referencing the guest by name to make it feel specific to them.
+This is the ideal check-in greeting for an expected guest. It communicates that their arrival was anticipated and prepared for, not simply processed when it occurred.
 
-**何かご不便がございましたら、遠慮なくお申し付けください。** *(Nanika go-fuben ga gozaimashitara, enryo naku o-mōshitsuke kudasai.)*
-"If anything is inconvenient, please don't hesitate to let us know.": the closing phrase of the room introduction, inviting the guest to communicate any needs without feeling like a burden.
+**○○様のご要望に合わせてご準備いたしました。**
+*○○-sama no go-yōbō ni awasete go-junbi itashimashita.*
+"We prepared this in accordance with your wishes."
+
+Used to highlight a personalised preparation. Referencing the guest by name makes it feel specific to them rather than standard.
+
+**何かご不便がございましたら、遠慮なくお申し付けください。**
+*Nanika go-fuben ga gozaimashitara, enryo naku o-mōshitsuke kudasai.*
+"If anything is inconvenient, please don't hesitate to let us know."
+
+This is the natural closing phrase of a room introduction. It invites the guest to communicate any needs without feeling like a burden.
 
 ---
 
