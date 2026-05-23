@@ -7,9 +7,9 @@ title: レジ (reji)
 **Pronunciation:** [**re**-ji]
 **Register:** Neutral -- used across hospitality settings from casual to formal
 
-レジ is the cash register or checkout counter where guests complete their financial transactions. In Japanese hospitality, the payment moment is treated as a meaningful part of the guest experience, not just an administrative task to close out. How a guest is guided to and served at the レジ reflects the overall quality of service your establishment provides. Students who understand this word well can communicate clearly at what is often the final interaction of a visit -- and final impressions carry a lot of weight.
+レジ is the cash register or checkout counter where guests complete their financial transactions. In Japanese hospitality, the payment moment is treated as a meaningful part of the guest experience, not just an administrative task to close out. How a guest is guided to and served at the レジ reflects the overall quality of service your establishment provides. Fluency with this word enables clear communication at what is often the final interaction of a visit -- and final impressions carry significant weight.
 
-In hotels and restaurants, staff typically say レジでお支払いをお願いいたします to direct guests to the payment point. In ryokan and high-end hotels, physically escorting the guest to the レジ rather than simply pointing is the standard -- not just a nice extra. The レジ is also where 領収書 (receipts) and 利用明細 (itemized statements) are issued, which means composure and accuracy at this station matter even more than they might seem. Worth noting is that rushing the レジ interaction in an effort to seem efficient can actually come across as dismissive.
+In hotels and restaurants, staff typically say レジでお支払いをお願いいたします to direct guests to the payment point. In ryokan and high-end hotels, physically escorting the guest to the レジ rather than simply pointing is the expected standard. The レジ is also where 領収書 (receipts) and 利用明細 (itemized statements) are issued, which means composure and accuracy at this station are essential. Rushing the レジ interaction in an effort to seem efficient can come across as dismissive rather than attentive.
 
 ## Example Sentences
 
@@ -32,7 +32,7 @@ In hotels and restaurants, staff typically say レジでお支払いをお願い
 
 ## Common Mistakes
 
-Students sometimes use レジ and 会計 as if they mean the same thing, but レジ is the machine or counter while 会計 is the act of paying. Avoid saying レジをお願いします when you mean to ask if a guest is ready to settle their bill -- the correct phrasing is お会計はよろしいでしょうか. And in any premium setting, never gesture toward the レジ and leave the guest to find their way; escorting them there is the expected standard. That said, even in a casual café or small hotel, pointing without any guidance at all feels abrupt and unwelcoming.
+レジ and 会計 are not interchangeable: レジ is the machine or counter while 会計 is the act of paying. Avoid saying レジをお願いします when you mean to ask if a guest is ready to settle their bill -- the correct phrasing is お会計はよろしいでしょうか. In any premium setting, never gesture toward the レジ and leave the guest to find their way; escorting them there is the expected standard. Even in a casual café or small hotel, pointing without any guidance feels abrupt and unwelcoming.
 
 ---
 
@@ -48,4 +48,3 @@ Students sometimes use レジ and 会計 as if they mean the same thing, but レ
 **Correct Answer:** レジ (cash register)
 
 **Explanation:** レジ is the physical location or counter where payment is completed, which sets it apart from the process-oriented terms in the wrong options. 精算 describes the settlement of an account, 内訳 is the charge breakdown, and 合計 is the total amount; none of them refer to a place. In premium hospitality, escorting a guest to the レジ rather than simply pointing shows that the quality of service extends right through to the last moment of the visit.
-

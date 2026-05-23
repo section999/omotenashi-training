@@ -6,7 +6,7 @@ title: シーツ交換 (shiitsu koukan)
 
 シーツ交換 means changing the bed sheets, and it is one of the core tasks in hotel housekeeping. A freshly made bed with clean, crisp sheets is something guests notice immediately when they walk into a room. The precision involved: pulling the fabric taut, tucking corners correctly, aligning the fold at the top: is not just about aesthetics. It is a visible sign that care was taken, and in omotenashi hospitality, that matters. Many hotels in Japan change sheets after every checkout as standard, while longer stays may see a change every few days or upon guest request.
 
-In practice, staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. Worth knowing: it is surprisingly common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Always confirm which one they want before heading off to get supplies.
+Staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. It is also common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Always confirm which one they want before heading off to get supplies.
 
 ## Example Sentences
 
@@ -29,7 +29,7 @@ In practice, staff should know the property's policy on 連泊 (multi-night) sta
 
 ## Common Mistakes
 
-Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is actually asking for before going to get anything. Students also tend to use 取り替え (torikae) in guest-facing speech, but 交換 sounds more professional in a hotel context. And never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
+Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is actually asking for before going to get anything. 取り替え (torikae) also tends to appear in guest-facing speech, but 交換 sounds more professional in a hotel context. Never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
 
 ---
 
