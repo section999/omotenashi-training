@@ -7,7 +7,7 @@ title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 **Pronunciation:** [o-na-mae-wo-CHOO-dai-de-ki-ma-su-ka]
 **Register:** Formal/Humble, standard in telephone and check-in contexts
 
-お名前を頂戴できますか is the gold-standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) literally means "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. That framing is not decoration. It reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part. A small shift in vocabulary signals a large shift in attitude.
+お名前を頂戴できますか is the gold-standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) translates as "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. That framing is not decoration. It reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part. A small shift in vocabulary signals a large shift in attitude.
 
 In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, always repeat the name back slowly and clearly: ○○様でいらっしゃいますね (you are Mr./Ms. ○○, correct?). Worth noting: speaking slowly when asking for a name is not just courtesy, it actually reduces transcription errors and routing mistakes, which saves everyone time.
 

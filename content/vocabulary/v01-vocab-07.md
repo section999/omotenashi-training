@@ -4,7 +4,7 @@ section: 7
 title: 失礼いたします (shitsurei itashimasu)
 ---
 
-**失礼いたします** literally means "I am committing a rudeness." *Shitsurei* (失礼) means impoliteness or a breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct, to acknowledge impact before taking action, and it shows up constantly in professional service contexts.
+**失礼いたします** translates as "I am committing a rudeness." *Shitsurei* (失礼) means impoliteness or a breach of etiquette, and *itashimasu* is the humble form of "to do." The phrase is therefore an act of preemptive humility: by naming the potential intrusion before it happens, you soften it. This is a deeply Japanese social instinct, to acknowledge impact before taking action, and it shows up constantly in professional service contexts.
 
 The phrase covers a wide range of situations, all sharing the same underlying logic: I am about to do something that may disturb you, and I acknowledge this. Knocking before entering a room, interrupting a guest's conversation to ask something, stepping past someone in a narrow corridor, all of these call for *shitsurei itashimasu*. It is also used when leaving a conversation or group, functioning as a polite "excuse me" on departure. One more thing: if you need to pass in front of someone, even briefly, say it. The habit of verbalising these small intrusions is part of what separates thoughtful service from functional service.
 
