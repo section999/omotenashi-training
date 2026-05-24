@@ -25,31 +25,15 @@ Use room numbers rather than personal names in radio communications. *"Can house
 
 ---
 
-## Key Phrases
-
-**お客様に関する情報はお答えいたしかねます。**
-*O-kyakusama ni kan suru jōhō wa o-kotae itashikane masu.*
-"I'm afraid I'm unable to share information about our guests."
-
-This is the standard refusal for any enquiry about a guest's presence or stay. It neither confirms nor denies, and it applies regardless of how the enquiry is framed or who is asking.
-
-**恐れ入りますが、ゲストの情報は一切お伝えできません。**
-*Osoreirimasu ga, gesuto no jōhō wa issai o-tsutae dekimasen.*
-"I apologise, but I am unable to share any information about our guests."
-
-This is a firmer version used when the initial refusal is pressed. It maintains full politeness while making the boundary clear.
-
----
-
 ## Quiz
 
-**A journalist calls the front desk asking to confirm whether a well-known celebrity is staying at the property. What is the correct response?**
+**A VIP guest is dining in the restaurant when another guest approaches a staff member and says excitedly: "I think that is [famous person] at table 7! I am a huge fanI just want to say hello briefly." The other guest is a loyal returning customer. What is the most appropriate response?**
 
-- A. Confirm the stay but decline to provide the room number
-- B. Deny that any celebrities are staying, even if one is
-- C. Decline to share any information about guests: neither confirming nor denying
-- D. Transfer the call to a manager to handle
+- A. Confirm quietly that it is indeed the VIP guest and ask the other guest to be very discreet if they approach
+- B. Say warmly: "I am afraid I am not able to share information about our guests." Then redirect: "Would you like me to seat you in a different area where you might feel more comfortable?"
+- C. Tell the other guest you cannot confirm anything, but suggest they could approach the table politely and introduce themselves
+- D. Deny that the VIP guest is staying at the property to protect their privacy, since the other guest is persistent
 
-**Correct Answer:** Decline to share any information about guests: neither confirming nor denying
+**Correct Answer:** B
 
-**Explanation:** Confirming a guest is staying, even while withholding their room number, is still a breach of discretion, because it tells the caller exactly who is on the property. A flat denial is also wrong if it is untrue. The only correct response neither confirms nor denies, and it applies regardless of who is asking or how the question is framed.
+**Explanation:** This scenario requires weighing the absolute discretion principle (never confirm or deny a guest's presence) against the need to manage the environment warmly for all guests, including a loyal returning customer. Option B correctly applies the neither-confirm-nor-deny standard while proactively managing the situation by offering to reseat the other guestprotecting the VIP's privacy and the other guest's feelings simultaneously. Option A breaches discretion by confirming the VIP's presence. Option C directs the guest toward the VIP, creating an intrusion that the VIP cannot escape without causing a scene. Option D uses a flat denial, which the lesson identifies as inappropriate if untrue, and leaves the other guest without a graceful resolution.

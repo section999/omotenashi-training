@@ -34,28 +34,6 @@ Treat allergen enquiries with the same seriousness as religious dietary requirem
 
 ---
 
-## Key Phrases
-
-**ハラール / ハラル (harāru)**
-*Harāru.*
-"Halal."
-
-This term refers to food and preparation methods permissible under Islamic law. Key considerations in Japan include mirin, sake, and pork-based dashi, which are common ingredients and easily overlooked.
-
-**こちらのお料理にはみりんが含まれております。**
-*Kochira no o-ryōri ni wa mirin ga fukumarete orimasu.*
-"This dish contains mirin."
-
-An honest, direct disclosure of an ingredient relevant to dietary restrictions. This phrase should always precede an offer of alternatives.
-
-**別途お召し上がりいただけるものをお探しいたします。**
-*Betto o-meshiagari itadakeru mono o o-sagashi itashimasu.*
-"I will find something else you can enjoy."
-
-The appropriate follow-up when a dish cannot meet a guest's dietary requirement. It turns a restriction into an act of care.
-
----
-
 ## Quiz
 
 **A guest identifies themselves as Muslim and asks whether a dish is halal. The kitchen uses mirin in the recipe. What is the correct response?**

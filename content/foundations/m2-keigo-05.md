@@ -35,31 +35,15 @@ This error spread through chain restaurant training in the 1990s and has never f
 
 ---
 
-## Key Phrases
-
-**こちらがコーヒーでございます。**
-*Kochira ga kōhī de gozaimasu.*
-"Here is your coffee."
-
-De gozaimasu is the correct form here. Ni narimasu ("will become") is a widespread error that implies the item is transforming into something.
-
-**おっしゃいました**
-*Osshaimashita.*
-"Said" (referring to the guest).
-
-This is the correct sonkeigo past form. Osshararemashita stacks an additional honorific and is grammatically redundant.
-
----
-
 ## Quiz
 
-**A staff member says: "こちらがお部屋になります." What is wrong with this sentence?**
+**You are training a new staff member. During a role-play exercise, the trainee says to the mock guest: "お客様がおっしゃられましたように、こちらがお部屋になります." (O-kyakusama ga osshararemashita yō ni, kochira ga o-heya ni narimasu.) There are two separate keigo errors in this sentence. Which analysis correctly identifies them and explains why they are wrong?**
 
-- A. The word for room is incorrect
-- B. になります implies the room is changing into something, which is grammatically incorrect here
-- C. Keigo is not needed for room descriptions
-- D. Nothing is wrong: it is standard hospitality Japanese
+- A. The sentence contains no errors; it is perfectly polite hospitality Japanese
+- B. "おっしゃられました" contains a double honorific (nijū keigo): おっしゃる is already the sonkeigo form of 言う, so adding られる is redundant. Also, "お部屋になります" implies the room is becoming somethingit should be "お部屋でございます"
+- C. The problem is only with "おっしゃられました"; the rest of the sentence is acceptable
+- D. The problem is only with "お部屋になります"; the first part is correct
 
-**Correct Answer:** になります implies the room is changing into something, which is grammatically incorrect here
+**Correct Answer:** "おっしゃられました" contains a double honorific (nijū keigo): おっしゃる is already the sonkeigo form of 言う, so adding られる is redundant. Also, "お部屋になります" implies the room is becoming somethingit should be "お部屋でございます"
 
-**Explanation:** になります reads as "will become," which is absurd when you are pointing to a room that already exists. The correct form, でございます, simply states "this is your room" with appropriate formality. This error spread through restaurant chain training and is now deeply ingrained, but discerning guests and senior colleagues do notice it.
+**Explanation:** Two common keigo errors appear in this sentence. First, nijū keigo (double honorific): おっしゃる is already sonkeigo, so おっしゃられました stacks an unnecessary extra honorific; the correct form is おっしゃいました. Second, になります implies transformation ("will become"), which is illogical for a room that already exists; the correct form is でございます. Identifying both errors shows a solid understanding of common keigo pitfalls.

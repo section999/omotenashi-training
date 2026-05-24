@@ -66,28 +66,6 @@ The care is genuine, but it is made invisible. The guest experiences only the co
 
 ---
 
-## Key Phrases
-
-**思いやり**
-*Omoiyari.*
-"Empathy; considerate care."
-
-Imagining what another person is feeling and acting on it without being asked. For a travel-fatigued guest, omoiyari is expressed through small, quiet actions, a glass of water, a faster process, a softer voice, rather than words.
-
-**お部屋に直接ご案内いたします。**
-*O-heya ni chokusetsu go-annai itashimasu.*
-"I will take you directly to your room."
-
-The appropriate response to visible travel fatigue at check-in. It skips the full property introduction and gets the guest to rest as efficiently as possible.
-
-**ご入り用の際は、いつでもお申し付けください。**
-*Go-iriyō no sai wa, itsudemo o-mōshitsuke kudasai.*
-"Please let us know whenever you need anything."
-
-A brief, warm closing phrase for a streamlined check-in. It leaves the door open for later requests without burdening the fatigued guest with information now.
-
----
-
 ## Quiz
 
 **A guest arrives at check-in with heavy eyes, slow speech, and struggles to remember their booking reference. What is the most appropriate response?**

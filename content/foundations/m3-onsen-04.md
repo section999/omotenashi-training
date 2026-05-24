@@ -41,37 +41,15 @@ Premium rooms in some ryokan feature a private bath fed directly from the hot sp
 
 ---
 
-## Key Phrases
-
-**貸切温泉 (kashikiri onsen)**
-*Kashikiri onsen.*
-"Private reserved bath."
-
-An onsen facility reserved exclusively for one guest or group for a set period. The right recommendation for guests who prefer privacy, couples, and families with young children.
-
-**露天風呂 (rotenburo)**
-*Rotenburo.*
-"Open-air bath."
-
-A bathing facility exposed to the natural outdoor environment. One of the most iconic Japanese bathing experiences and a key recommendation tool for seasonal hospitality.
-
-**ご希望のお時間をお知らせいただければ、ご予約いたします。**
-*Go-kibō no o-jikan o o-shirase itadakereba, go-yoyaku itashimasu.*
-"Please let us know your preferred time and we will make a reservation for you."
-
-The standard phrase for taking a kashikiri reservation. Positions the arrangement as effortless for the guest.
-
----
-
 ## Quiz
 
-**What is a kashikiri onsen (貸切温泉)?**
+**A young couple from Europe is checking in for a three-night stay. They seem hesitant when you mention the onsen, and the woman asks: "Is the bath shared with other people?" They are travelling together and value privacy. What is the best recommendation?**
 
-- A. An outdoor bath overlooking a natural landscape
-- B. A communal bath reserved for guests of one specific room type
-- C. A private bath reserved exclusively for one guest or group for a set period
-- D. A therapeutic bath available only during winter
+- A. "Yes, the men's and women's baths are completely separate, so you will each have your own space. Many guests find this very relaxing."
+- B. "We have a kashikiri onsen availablea private bath you can reserve for a set time. You would have the entire onsen facility to yourselves. Would you like to see the available times?"
+- C. "Most of our guests find the communal onsen comfortable after their first visit. I am sure you will get used to it quickly."
+- D. "We also have a rotenburo, an outdoor bath overlooking the garden. It is less crowded in the early morning if you prefer more privacy."
 
-**Correct Answer:** A private bath reserved exclusively for one guest or group for a set period
+**Correct Answer:** B
 
-**Explanation:** Kashikiri means "reserved" and refers to a private facility that uses the same natural hot spring water as the communal bath, booked exclusively for one guest or group. It is the right recommendation for guests who are uncomfortable with communal bathing, travelling as a couple, or bringing young children. The outdoor bath (rotenburo) is a separate concept, and there is no seasonal or room-type restriction attached to kashikiri.
+**Explanation:** The guest's hesitation and direct question about sharing the bath signal discomfort with communal bathing. The kashikiri onsen is the ideal recommendation for this couple: it provides complete privacy using the same natural hot spring water. Option A addresses gender separation, but the couple seems to want to bathe together, not apart. Option C dismisses their concern instead of solving it. Option D recommends a different experience without addressing the core privacy issue, and the rotenburo may still be shared with other guests.

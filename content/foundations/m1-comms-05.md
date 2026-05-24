@@ -35,28 +35,6 @@ A small bow and a quiet closing phrase ("Thank you," "Please enjoy," or "I'll be
 
 ---
 
-## Key Phrases
-
-**よろしければ、何かご案内いたしましょうか？**
-*Yoroshikereba, nanika go-annai itashimashō ka?*
-"If you would like, may I help you with something?"
-
-A gentle, pressure-free offer of assistance when you notice a guest who may need help but has not asked.
-
-**ただいまお伺いいたします。**
-*Tadaima o-ukagai itashimasu.*
-"I will be right with you."
-
-Said when you notice a guest waiting and are about to approach, so they know they have been seen.
-
-**失礼いたしました。**
-*Shitsurei itashimashita.*
-"Excuse me / I beg your pardon."
-
-Used at the close of an approach when withdrawing, or when acknowledging that you have interrupted a conversation.
-
----
-
 ## Quiz
 
 **You are approaching a table to take an order. As you arrive, the guests are in the middle of an animated conversation. What is the correct approach?**

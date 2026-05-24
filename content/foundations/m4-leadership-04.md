@@ -32,22 +32,6 @@ In Japanese professional culture, feedback is often framed within a context of a
 
 ---
 
-## Key Phrases
-
-**一つアドバイスをさせていただいてもよろしいでしょうか**
-*Hitotsu adobaisu wo sasete itadaite mo yoroshii deshō ka?*
-"May I offer one piece of advice?"
-
-The standard polite opener for developmental feedback. Asking permission shows respect and creates a receptive context for what follows.
-
-**次はこうしてみましょう**
-*Tsugi wa kō shite mimashō.*
-"Next time, let's try it this way."
-
-A forward-looking, collaborative framing for feedback that positions the conversation as growth-oriented rather than corrective.
-
----
-
 ## Quiz
 
 **You notice a junior colleague forgot to confirm a guest's allergy at the time of ordering. The meal has not yet been served. What is the right approach?**

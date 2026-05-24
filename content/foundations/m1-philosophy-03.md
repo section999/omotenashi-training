@@ -40,28 +40,6 @@ A luxury hotel where staff shift to casual speech in informal moments shows inco
 
 ---
 
-## Key Phrases
-
-**かしこまりました。**
-*Kashikomarimashita.*
-"Certainly / Understood."
-
-The most formal acknowledgement of a guest's request. More deferential than *わかりました* or *承知しました*, and appropriate whenever a guest makes a direct request.
-
-**少々お待ちくださいませ。**
-*Shōshō o-machi kudasaimase.*
-"Please wait just a moment."
-
-The formal version of waiting instructions. The addition of *ませ* adds warmth and respect beyond the standard *ください* form.
-
-**ただいま確認いたします。**
-*Tadaima kakunin itashimasu.*
-"I will check on that immediately."
-
-Uses *いたす* (kenjōgo for する) to humble the speaker's own action of checking. It shows both urgency and deference.
-
----
-
 ## Quiz
 
 **Which keigo type should be used to describe a guest's action, such as asking if they would like to eat?**

@@ -31,28 +31,6 @@ The concept of **ma (間)**: the Japanese aesthetic principle of meaningful paus
 
 ---
 
-## Key Phrases
-
-**お急ぎのところ、大変失礼いたします。**
-*O-isogi no tokoro, taihen shitsurei itashimasu.*
-"I am very sorry to interrupt when you are in a hurry."
-
-Used when service must happen at a moment that is not ideal for the guest. The phrase acknowledges the imposition before proceeding.
-
-**ご準備が整い次第、ご案内いたします。**
-*Go-junbi ga totonoi shidai, go-annai itashimasu.*
-"We will guide you as soon as everything is ready."
-
-This communicates that the guest's time is being respected and that a genuine update will follow.
-
-**ごゆっくりどうぞ。お時間はございますので。**
-*Goyukkuri dōzo. O-jikan wa gozaimasu no de.*
-"Please take your time. There is no hurry."
-
-An explicit reassurance for a guest who may feel rushed. It is particularly useful at the close of a meal or activity.
-
----
-
 ## Quiz
 
 **A couple finishes their main courses at a fine dining restaurant. One of them is still talking animatedly while the other has clearly finished. The staff member wants to clear the table and present the dessert menu. What is the correct approach?**

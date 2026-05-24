@@ -33,37 +33,15 @@ The number of items in a gift set carries meaning:
 
 ---
 
-## Key Phrases
-
-**つまらないものですが。**
-*Tsumaranai mono desu ga.*
-"This is a trifling thing, but…"
-
-The conventional humble phrase when presenting a gift. It places emphasis on the relationship rather than the value of the object.
-
-**心ばかりのものですが。**
-*Kokoro bakari no mono desu ga.*
-"It is just a small token of my feelings."
-
-An alternative phrase when presenting a gift, carrying the same spirit of humility and relational focus.
-
-**ご丁寧に、恐れ入ります。**
-*Go-teinei ni, osore irimasu.*
-"How kind of you; I am humbled."
-
-The expected response when receiving a gift. It acknowledges the gesture with sincerity and appropriate modesty.
-
----
-
 ## Quiz
 
-**What does the phrase "つまらないものですが" literally mean, and why is it used?**
+**A regular guest presents a gift to the front desk staff and says, "This is a small token of my appreciation." The newest staff member reaches out with one hand and says, "Thank you! Can I open it now?" How should you gently guide the staff member afterward about the proper etiquette?**
 
-- A. "I hope you enjoy it": expressing the giver's wish
-- B. "This is a trifling thing, but...": a conventional expression of humility to show the relationship matters more than the gift
-- C. "Please accept this with gratitude": a formal instruction to the recipient
-- D. "I purchased this specially for you": highlighting the personalisation of the gift
+- A. "Your enthusiasm was lovely, but next time, accept with both hands and say 'ご丁寧に、恐れ入ります。ありがとうございます' first before opening."
+- B. "You should never open a gift in front of a guest."
+- C. "You should have refused the gift politely."
+- D. "Your response was fineguests appreciate warmth in any form."
 
-**Correct Answer:** "This is a trifling thing, but...": a conventional expression of humility to show the relationship matters more than the gift
+**Correct Answer:** "Your enthusiasm was lovely, but next time, accept with both hands and say 'ご丁寧に、恐れ入ります。ありがとうございます' first before opening."
 
-**Explanation:** Tsumaranai mono desu ga is a fixed ritual phrase, not a genuine complaint about the gift's quality. By downplaying the object, the giver places the relationship front and centre. None of the other options match what this phrase actually says or does; it is specifically about humility, not the recipient's reaction, a formal instruction, or personalisation.
+**Explanation:** The correct etiquette when receiving a gift is to accept with both hands and a slight bow, expressing gratitude with "ご丁寧に、恐れ入ります。ありがとうございます." In traditional practice, gifts are not opened immediately in front of the giver. However, the lesson also notes that if a guest clearly expects it to be opened (common with Western guests), opening it warmly is appropriate. The key is reading the guestbut accepting properly first is always the starting point.

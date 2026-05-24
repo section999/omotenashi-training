@@ -43,28 +43,6 @@ Do not hang up until the guest has disconnected. In Japanese telephone etiquette
 
 ---
 
-## Key Phrases
-
-**○○ホテル、○○でございます。いつもお世話になっております。**
-*○○ hoteru, ○○ de gozaimasu. Itsumo o-sewa ni natte orimasu.*
-"[Property name], this is [your name]. Thank you for your continued support."
-
-This is the standard opening for professional phone calls at a hospitality property. The second phrase is used with repeat guests or business contacts to acknowledge the ongoing relationship.
-
-**大変お待たせいたしました。**
-*Taihen o-matase itashimashita.*
-"I sincerely apologise for keeping you waiting."
-
-Use this phrase when answering after five or more rings. It acknowledges the delay before any other exchange begins.
-
-**○○より1時間以内にご連絡いたします。**
-*○○ yori ichi-jikan inai ni go-renraku itashimasu.*
-"○○ will contact you within one hour."
-
-This is the correct format when taking a message. It always includes a specific timeframe rather than a vague promise to call back.
-
----
-
 ## Quiz
 
 **During a phone call, a Japanese hospitality professional responds with "はい、はい" repeatedly while the guest explains their request. Why?**

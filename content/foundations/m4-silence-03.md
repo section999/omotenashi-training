@@ -32,22 +32,6 @@ At the start of a shift, consciously slow your default pace by ten percent. Noti
 
 ---
 
-## Key Phrases
-
-**お客様のペースで**
-*O-kyaku-sama no pēsu de.*
-"At the guest's pace."
-
-The internal orientation that governs how waiting is approached. The guest's rhythm, not the staff member's schedule, sets the pace.
-
-**ただいま参ります。**
-*Tadaima mairimasu.*
-"I will be right with you."
-
-A calm, unhurried acknowledgement that signals attentiveness without creating pressure.
-
----
-
 ## Quiz
 
 **A busy lunch service is underway. A guest has been sitting for 30 minutes but seems deeply engaged in conversation. What is the correct approach?**

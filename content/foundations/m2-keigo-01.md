@@ -20,37 +20,15 @@ Each category has a distinct function. Teineigo covers most everyday interaction
 
 ---
 
-## Key Phrases
-
-**尊敬語 (Sonkeigo)**
-*Sonkeigo.*
-"Respectful language."
-
-Used to elevate the guest's actions and status. When the guest is the subject of the sentence, sonkeigo verbs replace ordinary ones.
-
-**謙譲語 (Kenjōgo)**
-*Kenjōgo.*
-"Humble language."
-
-Used to lower the speaker's own actions, showing deference toward the guest.
-
-**丁寧語 (Teineigo)**
-*Teineigo.*
-"Polite language."
-
-The everyday formal register built on です and ます verb endings. This is the minimum standard in hospitality speech.
-
----
-
 ## Quiz
 
-**Which of the following best describes the purpose of keigo in a hospitality setting?**
+**A new trainee asks you during orientation, "I understand we need to be polite to guests, but why do we need three different types of keigo? Wouldn't just using 'desu' and 'masu' be enough?" How should you explain the purpose of the full keigo system?**
 
-- A. To show off the speaker's education
-- B. To encode social relationships and signal respect for the guest
-- C. To follow government regulations on language use
-- D. To slow down conversation and avoid misunderstanding
+- A. "It is company policy, so we all need to learn it."
+- B. "Keigo is not just about politenessit encodes the social relationship into language itself. Using sonkeigo for the guest's actions and kenjōgo for your own tells the guest they are valued and respected in a way that simple teineigo cannot."
+- C. "It is how Japanese has always been spoken in formal settings; we must preserve the tradition."
+- D. "Without full keigo, guests may not understand that you are speaking to them formally."
 
-**Correct Answer:** To encode social relationships and signal respect for the guest
+**Correct Answer:** "Keigo is not just about politenessit encodes the social relationship into language itself. Using sonkeigo for the guest's actions and kenjōgo for your own tells the guest they are valued and respected in a way that simple teineigo cannot."
 
-**Explanation:** Keigo does far more than add politeness; it encodes the social relationship between speaker and guest directly into the grammar and vocabulary of every sentence. The other options are wrong because keigo is not about showing off education, following regulations, or slowing speech; it is about making the guest feel valued through the language itself.
+**Explanation:** Teineigo (desu/masu) is the minimum standard, but the full keigo systemsonkeigo for elevating the guest and kenjōgo for lowering oneselfdirectly encodes the respect relationship into speech. This makes the guest feel genuinely valued, not just politely addressed. The three categories work together to create the emotional atmosphere of omotenashi through language.

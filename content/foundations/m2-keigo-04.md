@@ -28,43 +28,15 @@ Teineigo is the minimum standard in hospitality environments. Sonkeigo and kenj�
 
 ---
 
-## Key Phrases
-
-**のちほど**
-*Nochihodo.*
-"Later" (formal).
-
-Replaces casual *ato de* in polite speech. A small substitution that immediately raises the register of a sentence.
-
-**さきほど**
-*Sakihodo.*
-"A moment ago" (formal).
-
-Replaces casual *sakki* when referring to something that just occurred.
-
-**ただいま**
-*Tadaima.*
-"Right now / at this moment" (formal).
-
-Replaces casual *ima* and is commonly used when confirming that something is being attended to immediately.
-
-**よろしい**
-*Yoroshii.*
-"Good / acceptable" (formal).
-
-Replaces casual *ii* and is used when confirming a guest's request or preference.
-
----
-
 ## Quiz
 
-**Which of the following is the teineigo (polite) form of "later"?**
+**A guest at the front desk asks, "When will my room be ready?" You want to say "later this afternoon" in a polite, professional register. The casual word あとで (ato de) comes to mind, but you know it is too informal. Which word should you use instead, and what makes it appropriate teineigo?**
 
-- A. あとで
-- B. のちほど
-- C. すぐに
-- D. そろそろ
+- A. すぐに (sugu ni)it sounds more polite than あとで
+- B. のちほど (nochihodo)the formal equivalent of あとで, raising the register of the sentence immediately
+- C. さきほど (sakihodo)it refers to past events, not future, but is more formal
+- D. そろそろ (sorosoro)it means "soon" and is appropriately vague
 
-**Correct Answer:** のちほど
+**Correct Answer:** のちほど (nochihodo)the formal equivalent of あとで, raising the register of the sentence immediately
 
-**Explanation:** Teineigo is not only about verb endings; swapping casual vocabulary for formal equivalents is just as important. のちほど is the formal replacement for あとで and immediately raises the register of your speech. すぐに means "right away" and そろそろ means "soon/gradually," so neither is a polite version of "later."
+**Explanation:** Teineigo involves not only verb endings but also vocabulary substitutions. のちほど is the formal replacement for あとで and signals a professional register. すぐに means "right away," さきほど means "a moment ago" (past tense), and そろそろ means "soon/gradually." Using のちほど correctly shows the guest that the interaction is being handled with due formality and care.

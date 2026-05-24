@@ -33,31 +33,15 @@ Each of these steps is explored in the lessons that follow.
 
 ---
 
-## Key Phrases
-
-**ご不便をおかけして申し訳ございません。**
-*Go-fuben wo o-kake shite mōshiwake gozaimasen.*
-"I am truly sorry for the inconvenience caused to you."
-
-This is the standard opening of a service recovery interaction. It must be delivered with sincerity and an appropriate bow.
-
-**貴重なご意見をありがとうございます。**
-*Kichō na go-iken wo arigatō gozaimasu.*
-"Thank you for your valuable feedback."
-
-Used when a complaint has been resolved, this phrase acknowledges the guest's willingness to share their experience.
-
----
-
 ## Quiz
 
-**A guest approaches the front desk to complain that their room was noisier than expected. What does the service recovery paradox suggest?**
+**A regular Japanese guest who usually stays for three nights has checked out after only one night. At check-out, they said the room was "fine" but avoided eye contact and seemed subdued. The front desk agent accepted the answer and did not ask further. Later, the agent learns the guest had reported noise to housekeeping the previous night, but housekeeping did not escalate it. Which of the following best analyses the missed opportunity here?**
 
-- A. This complaint should be minimised: noise is outside the hotel's control
-- B. A well-handled response to this complaint may leave the guest more satisfied than if there had been no noise at all
-- C. The guest should be offered a full refund immediately
-- D. The complaint should be escalated to a manager without further engagement
+- A. The agent acted correctly: the guest said everything was fine, and a professional respects a guest's stated answer
+- B. The agent should have recognised the mismatch between the guest's words ("fine") and non-verbal signals (avoiding eye contact, subdued manner), especially in a Japanese cultural context where direct complaint is uncommon. This was a moment where service recovery needed to begin before a formal complaint was made
+- C. The responsibility lies with housekeeping for not escalating the noise report; the front desk agent cannot act on information they did not have
+- D. The agent should have offered a discount at check-out regardless of what the guest said, as a proactive goodwill gesture
 
-**Correct Answer:** A well-handled response to this complaint may leave the guest more satisfied than if there had been no noise at all
+**Correct Answer:** The agent should have recognised the mismatch between the guest's words ("fine") and non-verbal signals (avoiding eye contact, subdued manner), especially in a Japanese cultural context where direct complaint is uncommon. This was a moment where service recovery needed to begin before a formal complaint was made
 
-**Explanation:** When a complaint is handled with genuine care, the guest sees the human quality of the establishment in a way that a smooth, uneventful stay rarely reveals. That visibility of real care is what builds loyalty. Minimising the complaint, offering a refund immediately, or escalating without engagement all skip the most important thing: showing the guest they are truly heard and valued.
+**Explanation:** The lesson emphasises that in the Japanese context, direct complaint is culturally uncomfortable and many guests will not speak up even when dissatisfied. A mismatch between verbal and non-verbal signals, particularly from a guest who leaves earlier than usual, is a critical cue. Option A ignores this mismatch entirely. Option C deflects responsibility in a way that does not serve the guest. Option D jumps to compensation without the essential steps of listening and acknowledging, which makes any gesture feel transactional rather than genuinely caring.

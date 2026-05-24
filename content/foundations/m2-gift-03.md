@@ -33,31 +33,15 @@ When a guest presents a gift to staff, it should be accepted with both hands, a 
 
 ---
 
-## Key Phrases
-
-**恐れ入ります、ありがとうございます。**
-*Osore irimasu, arigatō gozaimasu.*
-"I am humbled; thank you."
-
-The correct phrase when receiving a gift from a guest. It expresses sincere gratitude with an appropriate degree of humility.
-
-**熨斗**
-*Noshi.*
-"Formal gift notation paper."
-
-The noshi carries two text elements: the uwagaki (occasion label, written above the ribbon) and the shasho (giver's name, written below). Both must be placed correctly for the presentation to be appropriate.
-
----
-
 ## Quiz
 
-**In Japanese gift-giving, what does the uwagaki (上書き) on a noshi paper indicate?**
+**Your property is preparing a thank-you gift for a corporate client who has hosted a large event at your venue. You need to attach a noshi paper. Where should you write "御礼" (gratitude) on the noshi?**
 
-- A. The giver's name
-- B. The price of the item inside
-- C. The purpose or occasion of the gift
-- D. The shop where it was purchased
+- A. Above the ribbon patternthe uwagaki positionindicating the purpose of the gift
+- B. Below the ribbon patternthe shasho positionsince it describes the gift
+- C. On the back of the noshi paper, hidden from view
+- D. Either position is acceptable as long as the writing is neat
 
-**Correct Answer:** The purpose or occasion of the gift
+**Correct Answer:** Above the ribbon patternthe uwagaki positionindicating the purpose of the gift
 
-**Explanation:** On a noshi, the two text positions have fixed roles: the uwagaki (above the ribbon) states the occasion or purpose, such as 御礼 for gratitude or 御中元 for a mid-year gift. The giver's name goes below. Confusing the two positions, or mistaking the uwagaki for a price tag or shop name, would be a real error in formal gift presentation.
+**Explanation:** On a noshi, the two text positions have fixed roles. The uwagaki (above the ribbon) states the occasion or purposesuch as 御礼 for gratitude. The giver's name goes in the shasho position below. Confusing the two positions would be a real error in formal gift presentation, making the property appear unprepared.

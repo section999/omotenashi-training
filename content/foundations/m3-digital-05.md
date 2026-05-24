@@ -26,37 +26,15 @@ Staff should not post about guests, share images taken in guest areas during wor
 
 ---
 
-## Key Phrases
-
-**ご不便をおかけして誠に申し訳ございません。**
-*Go-fuben o okake shite makoto ni mōshiwake gozaimasen.*
-"We sincerely apologise for the inconvenience."
-
-This phrase opens a public social media response to a negative post. It is brief, genuine, and visible to all who read the thread.
-
-**詳細につきましては、直接ご連絡いただけますでしょうか。**
-*Shōsai ni tsukimashite wa, chokusetsu go-renraku itadakemasu deshō ka.*
-"Could you contact us directly so we can address this properly?"
-
-Use this phrase to move a public complaint to a private channel. It shows responsiveness while taking the resolution out of public view.
-
-**お客様のプライバシーを最優先に考えております。**
-*O-kyakusama no puraibashī o saiyūsen ni kangaete orimasu.*
-"We place the highest priority on our guests' privacy."
-
-Use this phrase when a guest enquires about photo consent or privacy. It communicates the property's commitment clearly and without defensive language.
-
----
-
 ## Quiz
 
-**A guest posts a negative comment about the property on social media, tagging the property's account. What is the correct first response?**
+**A guest posts a photo on Instagram of a staff member helping them with luggage at check-in, captioning it "Best service ever at [property name]!" and tagging the property. The staff member is clearly identifiable in the photo and did not give consent to be photographed. The post is receiving many positive reactions and comments. What is the most appropriate response?**
 
-- A. Delete the comment if possible to prevent others from seeing it
-- B. Reply publicly with a full explanation of why the guest's complaint is incorrect
-- C. Acknowledge the comment publicly with empathy and invite the guest to contact the property privately to resolve it
-- D. Ignore it: responding publicly gives the complaint more visibility
+- A. Repost the photo on the property's official account to show appreciation for the guest's kind words and to encourage similar positive posts
+- B. Leave the post unacknowledged publicly; engaging with it could draw more attention to the privacy concern
+- C. Reply publicly thanking the guest for the warm words, then privately message the guest to politely explain the property's staff privacy policy and request that the photo be removed or the staff member's face blurred
+- D. Untag the property from the post and ask the staff member to contact the guest directly to request removal
 
-**Correct Answer:** Acknowledge the comment publicly with empathy and invite the guest to contact the property privately to resolve it
+**Correct Answer:** C
 
-**Explanation:** When a complaint is public, the response is also public, which means potential guests are watching how the property handles it. A visible, empathetic acknowledgement followed by an invitation to resolve things privately shows that the property listens and takes responsibility. Deleting the comment looks evasive; arguing publicly makes things worse; ignoring it reads as indifference to anyone who sees it.
+**Explanation:** This scenario presents a genuine tension between two valid principles: the marketing and relationship value of a positive guest post, and the staff member's right to privacy and consent. Option C resolves the dilemma most effectively: the public reply acknowledges and thanks the guest (maintaining the positive relationship and showing future guests the property is attentive), while the private message handles the consent issue discreetly without embarrassing the guest publicly. Option A violates staff privacy by amplifying the breach. Option B avoids the problem entirely, leaving the photo up without consent. Option D inappropriately shifts the burden of a policy matter onto an individual staff member, which is unprofessional.

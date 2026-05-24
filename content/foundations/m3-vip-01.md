@@ -42,22 +42,6 @@ A guest who prefers to be unrecognised is not being difficult. They are communic
 
 ---
 
-## Key Phrases
-
-**○○様、いつもご利用いただきありがとうございます。**
-*○○-sama, itsumo go-riyō itadaki arigatō gozaimasu.*
-"Thank you as always for choosing us, ○○."
-
-This recognition phrase distinguishes VIP service from standard service. Addressing the guest by name signals that their history with the property has been noted and is valued.
-
-**ご不便なことがございましたら、すぐにお申し付けください。**
-*Go-fuben na koto ga gozaimashitara, sugu ni o-mōshitsuke kudasai.*
-"If there is anything inconvenient at all, please let us know immediately."
-
-The word *sugu* (immediately) conveys a higher standard of responsiveness than the standard phrasing. It signals that VIP guests will not be kept waiting.
-
----
-
 ## Quiz
 
 **What is the most important distinction between VIP service and standard hospitality?**

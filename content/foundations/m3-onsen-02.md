@@ -32,37 +32,15 @@ Guests often feel anxious about getting something wrong in an unfamiliar setting
 
 ---
 
-## Key Phrases
-
-**カラン (karan)**
-*Karan.*
-"Shower station."
-
-The individual shower station at an onsen facility, used for washing thoroughly before entering the communal bath. Using the karan before entering is mandatory, not optional.
-
-**ご入浴前に、シャワーでお体をよくお流しください。**
-*Go-nyūyoku mae ni, shawā de o-karada o yoku o-nagashi kudasai.*
-"Please wash thoroughly at the shower station before entering the bath."
-
-The essential instruction for all first-time onsen guests. Delivered warmly at the changing room entrance or during the guest orientation.
-
-**小タオルはお湯の中にお入れにならないようお願いいたします。**
-*Ko-taoru wa o-yu no naka ni o-ire ni naranai yō o-negai itashimasu.*
-"Please keep the small towel out of the water."
-
-A key etiquette point that many first-time visitors overlook. Can be explained gently alongside the towel's permitted uses: folded on the head or left at the bath edge.
-
----
-
 ## Quiz
 
-**What must every bather do before entering the communal onsen bath?**
+**A first-time international guest walks toward the onsen entrance looking uncertain. They are wearing their yukata and holding the small tenugui towel. They ask: "Do I just go in now?" What is the most appropriate guidance to give?**
 
-- A. Soak feet in a footbath for five minutes
-- B. Wash and rinse thoroughly at the shower station
-- C. Request a towel from the attendant
-- D. Sign a hygiene declaration form
+- A. "Yes, please go right in. The water is warm and relaxingenjoy your bath."
+- B. "First, please remove your yukata in the changing room and leave it in the basket. Then wash thoroughly at the shower stations before entering the bath. The small towel stays out of the wateryou can fold it on your head or leave it at the edge."
+- C. "You need to rinse your feet at the footbath first, then you can enter the main bath."
+- D. "Let me get you a larger towel. The small one is for drying off after the bath, not for use inside."
 
-**Correct Answer:** Wash and rinse thoroughly at the shower station
+**Correct Answer:** B
 
-**Explanation:** Pre-bath washing at the karan station is non-negotiable: it protects the shared water and is a deeply held social expectation that every other bather depends on. Skipping this step is one of the most serious breaches of onsen etiquette and will be noticed. The other options describe things that are either not required at all or specific to particular facilities.
+**Explanation:** The guest's uncertainty and specific questions signal first-time onsen anxiety. Option B covers the three essential points the guest needs: removing the yukata, washing at the karan before entering, and proper small-towel handling. Option A skips the mandatory pre-bath washing, a serious omission. Option C confuses a footbath with the required full-body wash. Option D misinforms about the towel's purpose and fails to explain the washing requirement.

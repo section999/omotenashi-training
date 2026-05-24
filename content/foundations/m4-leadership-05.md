@@ -31,22 +31,6 @@ The most powerful thing a leader in hospitality can do is to care about the gues
 
 ---
 
-## Key Phrases
-
-**チーム一丸となって**
-*Chīmu ichigan to natte.*
-"As a united team / with the whole team as one."
-
-An expression of collective purpose used in briefings and team contexts. It reinforces that excellent hospitality is a shared commitment, not an individual achievement.
-
-**おもてなしの心を忘れずに**
-*Omotenashi no kokoro wo wasurezu ni.*
-"Without forgetting the spirit of omotenashi."
-
-A phrase used by leaders to call the team back to the core value beneath all technical standards. It is a reminder that the guest's experience, not the procedure, is the ultimate measure.
-
----
-
 ## Quiz
 
 **A leader wants to build a stronger culture of excellence in their team. Which action is most effective?**

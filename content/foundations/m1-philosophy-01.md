@@ -61,28 +61,6 @@ Modern hospitality also recognises the importance of professionalism, teamwork, 
 
 ---
 
-## Key Phrases
-
-**いらっしゃいませ。**
-*Irasshaimase.*
-"Welcome."
-
-This is one of the first expressions guests hear when entering a hotel, restaurant, or shop in Japan. It is not directed at one specific person. Instead, it expresses that the guest's presence has been noticed and warmly welcomed.
-
-**どうぞ、ごゆっくりおくつろぎください。**
-*Dōzo, goyukkuri okutsurogi kudasai.*
-"Please relax and make yourself comfortable."
-
-This phrase is often used when escorting a guest to a room, lounge, or table. It invites the guest to feel at ease and take their time.
-
-**何かご要望がございましたら、いつでもお申し付けください。**
-*Nanika go-yōbō ga gozaimashitara, itsudemo o-mōshitsuke kudasai.*
-"If there is anything you need, please let us know at any time."
-
-This expression communicates readiness to assist while remaining polite and professional. It reassures guests that support is available whenever needed.
-
----
-
 ## Quiz
 
 **Which of the following best captures the essence of omotenashi?**

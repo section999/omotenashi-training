@@ -39,28 +39,6 @@ If a guest is clearly in a hurry, acknowledge this and work with the kitchen to 
 
 ---
 
-## Key Phrases
-
-**お料理のペースはいかがでしょうか？**
-*O-ryōri no pēsu wa ikaga deshō ka?*
-"How is the pace of the meal working for you?"
-
-A direct and natural check-in, appropriate at the midpoint of a longer meal. It gives the guest an easy opportunity to communicate any concerns about timing.
-
-**次のお料理はただいまご準備しております。もうしばらくお待ちいただけますでしょうか。**
-*Tsugi no o-ryōri wa tadaima go-junbi shite orimasu. Mō shibaraku o-machi itadakemasu deshō ka.*
-"The next course is being prepared now. May I ask you to wait just a little longer?"
-
-Use this when the kitchen is running behind. It keeps the guest informed rather than leaving them wondering, and frames the wait as a polite request rather than an unexplained silence.
-
-**お時間をおとりいただける場合は、このままゆっくりお楽しみください。**
-*O-jikan wo o-tori itadakeru baai wa, kono mama yukkuri o-tanoshimi kudasai.*
-"If you have the time, please enjoy the evening at a leisurely pace."
-
-This phrase gives the guest explicit permission to stay as long as they wish. It is especially appropriate at the end of the main course when transitioning toward dessert.
-
----
-
 ## Quiz
 
 **A table of four has been dining for two hours. Two guests have clearly finished their main courses, but the other two are still eating. The kitchen has the dessert ready. What should the server do?**

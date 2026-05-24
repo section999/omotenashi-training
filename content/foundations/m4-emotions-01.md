@@ -44,31 +44,15 @@ Read the whole person, not just their words. A guest who says "I'm fine" while s
 
 ---
 
-## Key Phrases
-
-**表向き / 本音**
-*Tatemae / honne.*
-"Public face / true inner feelings."
-
-These paired concepts describe the gap between what a person expresses openly and what they feel internally. In Japanese hospitality, understanding this gap is central to reading non-verbal communication accurately.
-
-**何かお力になれることはございますか？**
-*Nanika o-chikara ni nareru koto wa gozaimasu ka?*
-"Is there anything I can do for you?"
-
-A gentle, open follow-up used when non-verbal signals suggest a guest is not entirely at ease, even if they have said otherwise. The phrasing is indirect and face-saving.
-
----
-
 ## Quiz
 
-**A Japanese guest says "it's fine" but avoids eye contact and has crossed arms. What should you do?**
+**A regular Japanese guest who has always been friendly and direct with you in the past approaches the front desk. They say "it's fine" in response to your greeting, but they avoid eye contact, their arms are crossed, and their usual warm tone is flat. Which of the following best analyses this situation and the correct approach?**
 
-- A. Accept their answer and move on
-- B. Gently follow up with an open-ended question
-- C. Apologise loudly to draw attention
-- D. Ask a colleague to handle the situation
+- A. The guest is a regular who has always been direct, so their word "fine" should be trusted despite the non-verbal signals; proceed with the standard check-in
+- B. The guest's non-verbal signals form a consistent cluster that contradicts their words, even a regular can have an off day. The most appropriate response is a gentle, open-ended follow-up that gives them a face-saving way to share if they wish, without forcing them
+- C. Since the guest is a regular who would normally tell you directly if something were wrong, the non-verbal signals should be interpreted as simple tiredness rather than dissatisfaction
+- D. Avoid engaging further to respect their privacy; if they want to discuss something, they will bring it up on their own later
 
-**Correct Answer:** Gently follow up with an open-ended question
+**Correct Answer:** The guest's non-verbal signals form a consistent cluster that contradicts their words, even a regular can have an off day. The most appropriate response is a gentle, open-ended follow-up that gives them a face-saving way to share if they wish, without forcing them
 
-**Explanation:** In Japanese communication, guests rarely express dissatisfaction directly; discomfort surfaces instead through body language like averted gaze and crossed arms. When the words say "fine" but the body says otherwise, a gentle open-ended follow-up gives the guest a face-saving way to share what is actually wrong. Accepting the verbal answer at face value, or drawing attention with a loud apology, both fail to read the full picture.
+**Explanation:** The lesson teaches the importance of reading the whole person, not just their words, and understanding the tatemae/honne gap. Even a regular guest who is usually direct may not feel comfortable expressing dissatisfaction in every situation. The cluster of averted gaze, crossed arms, and flat tone is too consistent to dismiss as unrelated tiredness (C) or to override by past behaviour (A). Option B balances respect for the relationship with attentiveness to the current signals, using an open-ended follow-up that the lesson specifically recommends.

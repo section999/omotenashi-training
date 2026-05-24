@@ -36,37 +36,15 @@ The concept of *kansha* (感謝, gratitude) intensifies at year's end. For hospi
 
 ---
 
-## Key Phrases
-
-**寒い日が続いておりますが、どうかお体にお気をつけください。**
-*Samui hi ga tsuzuite orimasu ga, dōka o-karada ni o-ki wo tsukete kudasai.*
-"Cold days continue: please take care of yourself."
-
-A caring winter phrase that expresses concern for the guest's wellbeing. It is appropriate as a closing remark or farewell during cold weather months.
-
-**明けましておめでとうございます。本年もよろしくお願い申し上げます。**
-*Akemashite omedetō gozaimasu. Honnen mo yoroshiku o-negai mōshiagemasu.*
-"Happy New Year. I look forward to your continued support this year."
-
-Used from January 1st to approximately January 7th. This is the standard New Year's greeting in professional and formal contexts, expressing both celebration and respectful continuity.
-
-**本年もお世話になりました。来年もどうぞよろしくお願いいたします。**
-*Honnen mo o-sewa ni narimashita. Rainen mo dōzo yoroshiku o-negai itashimasu.*
-"Thank you for your support this year. We look forward to continuing our relationship next year."
-
-Used at year's end to express sincere gratitude to returning guests and long-standing partners. It reflects the value of ongoing relationships in Japanese hospitality culture.
-
----
-
 ## Quiz
 
-**Until approximately when is it appropriate to use the New Year's greeting "明けましておめでとうございます"?**
+**It is January 10th. A guest who checked in yesterday greets you with "明けましておめでとうございます" (Akemashite omedetō gozaimasu). How should you respond, and what does this tell you about the appropriate greeting window?**
 
-- A. Until the end of January
-- B. Until approximately January 7th
-- C. Until February: it is used through winter
-- D. Only on January 1st itself
+- A. Respond with "明けましておめでとうございます" but keep in mind that after January 7th (the end of matsu no uchi), the greeting is generally considered past the appropriate window
+- B. Respond with a general winter greeting instead, since the New Year's period has already passed
+- C. Respond with "明けましておめでとうございます" since it is still January
+- D. Politely inform the guest that the greeting period ended on January 7th
 
-**Correct Answer:** Until approximately January 7th
+**Correct Answer:** Respond with "明けましておめでとうございます" but keep in mind that after January 7th (the end of matsu no uchi), the greeting is generally considered past the appropriate window
 
-**Explanation:** The New Year's greeting is tied to 松の内 (matsu no uchi), the period when New Year's decorations remain displayed, which ends around January 7th. Using it after that date sounds out of place, just as using it only on January 1st would waste the whole greeting window. Stretching it through winter or through the end of January would be incorrect.
+**Explanation:** The New Year's greeting is traditionally used until approximately January 7th, tied to matsu no uchi (the period New Year's decorations remain displayed). However, when a guest initiates the greeting, the warm and gracious response is to reciprocate rather than correct them. The key professional skill is knowing the standard window while also knowing when to prioritise guest warmth over strict adherence to timing rules.

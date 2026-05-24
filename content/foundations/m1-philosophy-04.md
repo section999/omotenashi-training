@@ -35,28 +35,6 @@ The guiding principle is to be present enough to notice, and discreet enough not
 
 ---
 
-## Key Phrases
-
-**お気づきでしたでしょうか？**
-*O-kizuki deshita deshō ka?*
-"Did you happen to notice...?"
-
-Used when gently drawing a guest's attention to something prepared for them in advance, such as a special arrangement already in their room.
-
-**ご用意しておりました。**
-*Go-yōi shite orimashita.*
-"We had this prepared for you."
-
-The phrase that accompanies a proactive gesture, communicating that the action was taken in advance with the guest in mind.
-
-**少しお部屋の温度を調節いたしましょうか？**
-*Sukoshi o-heya no ondo wo chōsetsu itashimashō ka?*
-"Shall I adjust the room temperature a little?"
-
-A proactive check that does not wait for the guest to report discomfort. It demonstrates attentiveness through a gentle offer rather than a reaction.
-
----
-
 ## Quiz
 
 **A guest sits down at a restaurant table after a long journey. Without being asked, staff bring a warm oshibori and adjust the nearby air conditioning vent. What principle does this demonstrate?**

@@ -26,31 +26,15 @@ Whatever the culture, guests want to feel welcomed, respected, understood, and c
 
 ---
 
-## Key Phrases
-
-**何かご不便なことはございますか？**
-*Nanika go-fuben na koto wa gozaimasu ka?*
-"Is there anything inconvenient?"
-
-An open-ended check-in phrase used when a guest appears uncomfortable. It invites the guest to speak without requiring them to name a specific problem.
-
-**お気軽にお申し付けください。**
-*O-ki garu ni o-mōshitsuke kudasai.*
-"Please feel free to let us know."
-
-This phrase invites guests from any cultural background to express preferences or concerns without hesitation.
-
----
-
 ## Quiz
 
-**A guest from another culture does not remove their shoes at the entrance to the tatami room. What is the most appropriate response?**
+**An East Asian guest pushes most of their dinner aside after two bites but smiles and says "It is fine, thank you" when you ask how the meal is. You recognise the main dish contains an ingredient uncommon in their home country. They come from a culture where direct complaint is considered impolite. What is the most appropriate response?**
 
-- A. Firmly remind the guest that shoes are not permitted in the tatami room
-- B. Say nothing: it is not appropriate to correct a guest's behaviour
-- C. Gently and warmly explain the custom and its meaning, offering a pair of slippers
-- D. Remove the guest's shoes yourself
+- A. Accept the guest's statement at face value; pressing further after they said "it is fine" would disregard their explicit answer
+- B. Apologise for the dish and immediately offer a replacement without further discussion, assuming the unfamiliar ingredient is the issue
+- C. Return in a few minutes and say: "I wondered if that dish was perhaps not to your taste. Please let me bring you an alternativethere is no need to finish it if it is not enjoyable."
+- D. Explain that the ingredient is a regional specialty and gently encourage them to try more, as it is an important part of the local food culture
 
-**Correct Answer:** Gently and warmly explain the custom and its meaning, offering a pair of slippers
+**Correct Answer:** C
 
-**Explanation:** A guest who keeps their shoes on almost certainly doesn't know the custom, not doesn't respect it. A warm, brief explanation that frames the tradition as something meaningful turns the moment into a genuine cultural introduction. Saying nothing ignores a real etiquette issue; removing the shoes yourself would be presumptuous and alarming; and a firm reminder misreads innocent unfamiliarity as defiance.
+**Explanation:** This scenario presents a genuine dilemma between two valid hospitality principles: respect the guest's explicit statement, and anticipate unexpressed needs. The guest's culture uses indirect refusal"it is fine" likely means the oppositebut directly challenging that response would cause face-loss. Option C bridges both principles: it does not force the guest to admit dissatisfaction (preserving their indirect communication style), while proactively offering a solution. Option A takes the statement too literally and fails the guest. Option B assumes the cause without confirmatory observation. Option D dismisses the guest's discomfort in favour of cultural education, prioritising the property's agenda over the guest's experience.

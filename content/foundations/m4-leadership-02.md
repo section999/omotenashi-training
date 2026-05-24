@@ -30,22 +30,6 @@ In Japanese workplace culture, junior colleagues are often reluctant to admit un
 
 ---
 
-## Key Phrases
-
-**どう感じましたか**
-*Dō kanjimashita ka?*
-"How did it feel to you?"
-
-A mentoring question that invites reflection rather than just recollection. It develops the emotional intelligence that underpins excellent hospitality.
-
-**一緒に考えましょう**
-*Issho ni kangaemasho.*
-"Let us think about it together."
-
-An invitation to collaborative reflection. It positions the mentor as a co-learner rather than an authority, making the relationship safe for honest inquiry.
-
----
-
 ## Quiz
 
 **A junior colleague made an error during a guest interaction. What is the best mentoring response?**

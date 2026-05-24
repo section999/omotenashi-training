@@ -28,28 +28,6 @@ Staff who know the story behind each dish are visibly more confident, and guests
 
 ---
 
-## Key Phrases
-
-**本日の食材は、○○産の○○でございます。今が旬の時期ですので、特にお楽しみください。**
-*Honjitsu no shokuzai wa, ○○-san no ○○ de gozaimasu. Ima ga shun no jiki desu no de, toku ni o-tanoshimi kudasai.*
-"Today's ingredient is ○○ from ○○. As it is the peak season right now, we hope you will especially enjoy it."
-
-Use this phrase when introducing a course to explain the seasonal significance of the main ingredient. It connects the dish to the principle of shun and gives the guest a reason to pay attention.
-
-**次のお料理の前に、少々お時間をいただいております。**
-*Tsugi no o-ryōri no mae ni, shōshō o-jikan wo itadaite orimasu.*
-"We are allowing a little time before the next course."
-
-This phrase communicates the intentional pacing of kaiseki service. It signals to the guest that the pause is deliberate, not a delay.
-
-**何かお口に合わないものがございましたら、遠慮なくおっしゃってください。**
-*Nanika o-kuchi ni awanai mono ga gozaimashitara, enryo naku osshatte kudasai.*
-"If anything is not to your taste, please do not hesitate to say so."
-
-This reassures the guest that feedback is welcome. It opens the door for honest communication without making the guest feel they must remain silent about their preferences.
-
----
-
 ## Quiz
 
 **A guest asks why their kaiseki meal uses locally made, slightly asymmetric ceramic bowls rather than perfectly matched porcelain. What is the most accurate and hospitality-appropriate answer?**

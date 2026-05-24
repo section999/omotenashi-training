@@ -31,28 +31,6 @@ A rushed check-in followed by a leisurely breakfast creates an inconsistency the
 
 ---
 
-## Key Phrases
-
-**少々タイミングをいただいてよろしいですか？**
-*Shōshō taimingu wo itadaite yoroshii desu ka?*
-"May I take a brief moment with your timing?"
-
-Used to politely request a guest's attention when you need to interject, signalling that you are aware you are interrupting.
-
-**ご用意ができましたら、お声がけいたします。**
-*Go-yōi ga dekimashitara, o-koe gake itashimasu.*
-"When it is ready, I will let you know."
-
-Used to set a guest's expectation about timing, so they are not left waiting and wondering.
-
-**お席のご準備ができております。**
-*O-seki no go-junbi ga dekite orimasu.*
-"Your table is ready."
-
-Delivered at the right moment: when the guest's wait is complete and they are ready to move.
-
----
-
 ## Quiz
 
 **You are clearing empty glasses from a dining table when a guest begins speaking to their companion mid-sentence. What should you do?**

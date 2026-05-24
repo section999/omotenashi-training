@@ -42,28 +42,6 @@ A guest's belongings should never be opened, searched, repositioned without clea
 
 ---
 
-## Key Phrases
-
-**お荷物をお持ちいたしましょうか？**
-*O-nimotsu wo o-mochi itashimashō ka?*
-"Shall I carry your luggage?"
-
-This is the standard offer to assist with bags. The use of いたしましょうか (kenjōgo) expresses carrying the bag as the staff member's privilege, not a burden.
-
-**こちらにお預かりいたします。**
-*Kochira ni o-azukari itashimasu.*
-"I will look after this here."
-
-Said when storing a coat, umbrella, or bag. It communicates that the item is being kept safely on the guest's behalf.
-
-**お荷物は全部でいくつでしょうか？**
-*O-nimotsu wa zenbu de ikutsu deshō ka?*
-"How many pieces of luggage do you have in total?"
-
-This confirms the count before moving items, demonstrating care and preventing anything from being left behind.
-
----
-
 ## Quiz
 
 **A guest arrives with three bags. You pick up two of the bags and begin walking toward the elevator. The guest is still at the entrance sorting through their pockets. What is the problem, and what is the correct approach?**

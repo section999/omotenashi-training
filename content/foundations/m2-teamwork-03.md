@@ -25,37 +25,15 @@ A guest who is seamlessly passed between departments feels that the property ope
 
 ---
 
-## Key Phrases
-
-**引き継ぎ (hikitsugi)**
-*Hikitsugi.*
-"Handover."
-
-The act of transferring responsibility and information from one staff member to another, between departments or shifts. A strong hikitsugi ensures the receiving colleague is fully prepared before the guest arrives.
-
-**こちらは田中がご案内いたします。**
-*Kochira wa Tanaka ga go-annai itashimasu.*
-"My colleague Tanaka will assist you from here."
-
-The preferred phrase for a personal introduction during a warm handover. Using the colleague's name makes the transition feel personal and coordinated rather than procedural.
-
-**事前にご連絡いたします。**
-*Jizen ni go-renraku itashimasu.*
-"I will contact them in advance."
-
-The commitment that makes an invisible handover possible. Saying this, and following through, ensures the receiving colleague is prepared before the guest arrives at the next touchpoint.
-
----
-
 ## Quiz
 
-**What distinguishes an invisible handover from a visible one?**
+**A front desk staff member finishes checking in a guest and says, "Please wait here while I find someone to take you to your room." A few minutes later, a bell attendant arrives and introduces themselves to the guest for the first time. What is the core problem with this interaction?**
 
-- A. An invisible handover happens without the guest's knowledge at all
-- B. The receiving colleague is already informed and prepared, so the guest experiences continuity rather than a transfer
-- C. An invisible handover occurs only between departments on the same floor
-- D. It refers to handovers that happen during shift changes, not guest-to-department transfers
+- A. The front desk staff member should have escorted the guest personally rather than delegating
+- B. This is a visible handoverthe guest feels transferred rather than continuously welcomed. The front desk staff should have communicated ahead so the bell attendant was already informed and could be introduced by name
+- C. The guest should have been given a map and directed to their room independently
+- D. The bell attendant should have been waiting at the front desk before the guest arrived
 
-**Correct Answer:** The receiving colleague is already informed and prepared, so the guest experiences continuity rather than a transfer
+**Correct Answer:** This is a visible handoverthe guest feels transferred rather than continuously welcomed. The front desk staff should have communicated ahead so the bell attendant was already informed and could be introduced by name
 
-**Explanation:** An invisible handover works because the receiving colleague has already been briefed, so they can greet the guest warmly and without hesitation. The guest experiences continuity, not a transfer. The wrong options conflate invisibility with secrecy, or limit the concept to specific floors or shift types, missing the point entirely: it is about preparation, not location or timing.
+**Explanation:** An invisible handover requires the receiving colleague to be briefed in advance so they can greet the guest as if they have been expecting them all along. Leaving the guest waiting while someone is found, and having the next colleague introduce themselves from scratch, creates a visible seam in service. The guest experiences a transfer of responsibility rather than continuous care. Renraku (advance communication) is what makes the handover invisible.

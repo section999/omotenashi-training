@@ -41,28 +41,6 @@ Read the situation: a guest in a hurry wants their request fulfilled quickly and
 
 ---
 
-## Key Phrases
-
-**かしこまりました。ただいまお持ちいたします。**
-*Kashikomarimashita. Tadaima o-mochi itashimasu.*
-"Certainly. I will bring it right away."
-
-This is the clean, confident response to a request. It confirms the instruction was received and sets a clear expectation for the guest.
-
-**他に何かご入用のものはございませんか？**
-*Hoka ni nanika go-iri yō no mono wa gozaimasen ka?*
-"Is there anything else you might need?"
-
-Said after fulfilling a request, this phrase opens the door for any additional needs without pressuring the guest.
-
-**すぐに確認してまいります。**
-*Sugu ni kakunin shite mairimasu.*
-"I will go and check on that immediately."
-
-Used when a request requires confirmation or preparation before it can be fulfilled. It communicates urgency and follow-through.
-
----
-
 ## Quiz
 
 **A guest at checkout says: "I'd like to pay the bill now." What is the most omotenashi-aligned response?**

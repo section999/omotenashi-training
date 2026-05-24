@@ -35,31 +35,15 @@ Many international guests have never used a communal bath before, and a brief ex
 
 ---
 
-## Key Phrases
-
-**左を上にしてお召しください。**
-*Hidari wo ue ni shite o-meshi kudasai.*
-"Please wear it with the left side over the right."
-
-Used when guiding a guest on yukata etiquette. Clear and direct, it prevents an error that carries real cultural significance.
-
-**ご入浴の前に、シャワーでお体をお清めください。**
-*Go-nyūyoku no mae ni, shawā de o-karada wo o-kiyome kudasai.*
-"Before entering the bath, please wash and rinse thoroughly at the shower."
-
-This phrase introduces the most important rule of communal bathing. Delivering it at check-in, rather than at the bath entrance, allows the guest to prepare without embarrassment.
-
----
-
 ## Quiz
 
-**A guest has put on a yukata with the right side crossed over the left. What should you do?**
+**You are at the front desk when a guest walks through the lobby wearing a yukata with the right side over the left. The guest is laughing with their travel companion, clearly in a joyful mood. You must decide whether and how to address the error. Which approach demonstrates the best judgment, weighing both cultural correctness and the guest's emotional state?**
 
-- A. Say nothing: it is a minor detail that does not matter
-- B. Correct it immediately without explanation
-- C. Gently explain that left over right is correct, and that right over left has a specific cultural association
-- D. Only correct it if the guest asks for help
+- A. Interrupt the guest's happy moment to correct them immediatelycultural accuracy is more important than their mood
+- B. Say nothing; the guest is enjoying their stay and correcting them would cause unnecessary embarrassment
+- C. Wait for a natural private moment, then gently say, "I hope you are enjoying your stay. May I offer a small tip about the yukata?" and explain the left-over-right custom with a warm, matter-of-fact tone
+- D. Ask the guest's companion to discreetly tell them about the mistake
 
-**Correct Answer:** Gently explain that left over right is correct, and that right over left has a specific cultural association
+**Correct Answer:** Wait for a natural private moment, then gently say, "I hope you are enjoying your stay. May I offer a small tip about the yukata?" and explain the left-over-right custom with a warm, matter-of-fact tone
 
-**Explanation:** Right over left is worn in funeral contexts in Japan, so a guest wearing their yukata that way is making an error with real cultural weight, even if they have no idea. Saying nothing leaves them to walk through the ryokan incorrectly dressed; correcting without explanation fixes the problem but misses the opportunity. A gentle, matter-of-fact explanation gives the guest the knowledge they need and turns a small awkward moment into part of the cultural experience.
+**Explanation:** This situation requires balancing respect for the guest's current enjoyment with the real cultural significance of the yukata error (right-over-left is associated with funerals). Interrupting a joyful moment is intrusive, but staying silent allows the guest to unknowingly walk through the ryokan incorrectly dressed. Choosing the right timing and framingprivate, warm, and framed as a helpful tippreserves the guest's positive experience while giving them culturally essential knowledge. Delegating to the companion avoids direct staff responsibility.

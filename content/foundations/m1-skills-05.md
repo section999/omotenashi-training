@@ -35,28 +35,6 @@ Guests receive these things without feeling them. The standard for kokorozukai i
 
 ---
 
-## Key Phrases
-
-**○○様のことを考えてご用意しました。**
-*○○-sama no koto wo kangaete go-yōi shimashita.*
-"I prepared this with you in mind."
-
-This phrase makes a small gesture explicitly personal. It must be true when it is said, a detail prepared specifically for this guest, not a standard item with a personalised label added.
-
-**先ほどおっしゃっていた○○ですが、こちらはいかがでしょうか。**
-*Sakihodo osshatte ita ○○ desu ga, kochira wa ikaga deshō ka.*
-"Regarding the ○○ you mentioned earlier: might this be of interest?"
-
-This phrase follows up on something a guest said in passing, demonstrating that you were genuinely listening during an earlier interaction.
-
-**ささやかではございますが、どうぞ。**
-*Sasa-yaka de wa gozaimasu ga, dōzo.*
-"It is a small thing, but please accept it."
-
-Used when offering a gesture of care. The humility of the phrase acknowledges that the gesture is not grand, while confirming that it is genuinely meant.
-
----
-
 ## Quiz
 
 **A guest mentioned at dinner that they have an early flight tomorrow and are anxious about getting to the airport in time. The next morning, at breakfast, you remember this. What is the most kokorozukai-aligned response?**

@@ -30,31 +30,15 @@ Guests absorb these cues before any interaction begins. Appearance is the first 
 
 ---
 
-## Key Phrases
-
-**身だしなみ**
-*Midashinami.*
-"Professional grooming."
-
-This term describes the practice of presenting oneself to put others at ease. It is distinct from personal style and is considered a fundamental part of hospitality professionalism.
-
-**所作**
-*Shosa.*
-"Manner of movement and deportment."
-
-This word refers to the non-verbal language of professionalism, how a person moves, stands, and carries themselves in a guest-facing environment.
-
----
-
 ## Quiz
 
-**What is the difference between midashinami (身だしなみ) and oshare (おしゃれ)?**
+**A new staff member tells you, "I know the uniform is clean and pressed, but it feels very plain. Would it be all right if I added a colourful pin or accessory to make it more personal?" How should you respond?**
 
-- A. Midashinami refers to seasonal clothing; oshare refers to formal dress
-- B. Midashinami is professional grooming to put others at ease; oshare is personal style to express individuality
-- C. Oshare is required at work; midashinami is optional personal preference
-- D. There is no difference: both words describe the same concept
+- A. "Of courseexpressing your personal style helps guests feel more comfortable."
+- B. "I understand the feeling, but in guest-facing roles, midashinami takes priority over oshare. A clean, professional uniform that does not distract is what puts the guest at ease."
+- C. "As long as the pin is small, it should be fine."
+- D. "You can wear whatever you like during your shift as long as you maintain a neat appearance."
 
-**Correct Answer:** Midashinami is professional grooming to put others at ease; oshare is personal style to express individuality
+**Correct Answer:** "I understand the feeling, but in guest-facing roles, midashinami takes priority over oshare. A clean, professional uniform that does not distract is what puts the guest at ease."
 
-**Explanation:** Midashinami is about presenting yourself in a way that puts the guest at ease, which is a fundamentally outward-facing act. Oshare, by contrast, is about expressing yourself, which is inward-facing. In a guest-facing role, the guest's comfort comes before personal style. The wrong options either reverse that relationship or treat the two concepts as interchangeable, which loses the distinction that makes midashinami meaningful as a professional standard.
+**Explanation:** Midashinamiprofessional grooming to put others at easetakes precedence over oshare (personal style) in guest-facing hospitality. The uniform's purpose is to make the guest comfortable, not to express the staff member's individuality. Allowing personal accessories undermines that principle, even if well-intentioned.

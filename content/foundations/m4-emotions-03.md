@@ -46,28 +46,6 @@ This approach gives the guest a face-saving way to change their mind without eve
 
 ---
 
-## Key Phrases
-
-**うーん / ちょっと…**
-*Ūn / chotto…*
-"Hmm / It's a bit…"
-
-Soft, indirect cues of hesitation or refusal in Japanese communication. These are not expressions of confusion or disinterest, but a culturally encoded way of expressing "no" or "I have concerns" without saying so directly.
-
-**他にご提案できるものがございます。**
-*Hoka ni go-teian dekiru mono ga gozaimasu.*
-"I have another option I can suggest."
-
-The appropriate response when indirect cues indicate a guest's hesitation. It offers a graceful path forward without pressing the guest to explain their objection.
-
-**おっしゃる通りでございます。**
-*Ossharu tōri de gozaimasu.*
-"You are absolutely right."
-
-Used when a guest's indirect cue has been correctly read and you acknowledge the implied concern. It validates without confronting, and opens space for the guest to speak more directly if they choose.
-
----
-
 ## Quiz
 
 **A guest responds to your room recommendation with a long pause and "ちょっと...": what is the most appropriate response?**

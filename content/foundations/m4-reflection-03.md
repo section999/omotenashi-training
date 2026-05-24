@@ -32,31 +32,15 @@ When team culture supports it, a brief collective review at the end of service, 
 
 ---
 
-## Key Phrases
-
-**振り返り**
-*Furikaeri.*
-"Reflection."
-
-The practice of looking back at what happened in order to learn from it. Literally "turning back and looking." The Japanese equivalent of the end-of-shift review process.
-
-**次のシフトに活かします。**
-*Tsugi no shifuto ni ikashimasu.*
-"I will apply this to the next shift."
-
-A commitment phrase that completes the reflection practice by naming how the insight will be carried forward into action.
-
----
-
 ## Quiz
 
-**Why is the end of a shift considered one of the best times for professional reflection?**
+**A staff member finishes their shift at 4 PM. They have 15 minutes before a personal appointment. Which of the following is the most effective use of that time for professional growth, based on the principles of end-of-shift review?**
 
-- A. Staff are most relaxed and therefore most creative at the end of a shift
-- B. It is required by hospitality management standards
-- C. The details of specific interactions are still fresh in memory and the shift's patterns are visible as a whole
-- D. Other staff are available to observe and provide immediate feedback
+- A. Take the full 15 minutes to rest and clear their mind; meaningful reflection can be done at the start of the next shift when they are fresher
+- B. Spend 3 to 5 minutes doing a quick structured review: name one specific interaction that went well, one that was difficult, and one concrete intention for the next shift; then use the remaining time to rest
+- C. Ask a colleague to cover the start of their next task so they can write a detailed account of everything that happened during the shift
+- D. Skip reflection today since the shift was relatively uneventful and nothing particularly noteworthy occurred
 
-**Correct Answer:** The details of specific interactions are still fresh in memory and the shift's patterns are visible as a whole
+**Correct Answer:** Spend 3 to 5 minutes doing a quick structured review: name one specific interaction that went well, one that was difficult, and one concrete intention for the next shift; then use the remaining time to rest
 
-**Explanation:** Specific, fresh memories are the raw material of useful reflection. Right after a shift, you can still recall the exact moment a guest looked uncomfortable, the interaction that felt particularly right, the small thing that caused an unnecessary delay. By the following day, those details have faded. That freshness is the whole reason end-of-shift is the best moment to reflect, not because staff are relaxed or required to, but because the material is still there.
+**Explanation:** The lesson emphasises that five minutes of consistent structured reflection is far more valuable than an occasional hour-long session. The end of a shift is the best time because specific memories are still fresh. Option B follows the recommended three-part structure in a realistic timeframe while respecting the staff member's personal time. Option A loses the freshness of the memories entirely by postponing. Option C is unnecessarily detailed and unsustainable. Option D misses the point that even uneventful shifts contain small observations that compound over time.

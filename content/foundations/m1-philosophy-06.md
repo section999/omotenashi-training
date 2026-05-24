@@ -37,28 +37,6 @@ These actions take moments to execute but show that the guest was held in mind. 
 
 ---
 
-## Key Phrases
-
-**前回のご滞在の際のお好みを覚えておりました。**
-*Zenkai no go-taizai no sai no o-konomi wo oboete orimashita.*
-"I remembered your preferences from your last stay."
-
-This phrase accompanies a personalised gesture based on a returning guest's noted preferences. It is powerful because it communicates that the guest was remembered as an individual.
-
-**お気持ちに添えるよう、精一杯努めます。**
-*O-kimochi ni soeru yō, seiippai tsutomemasu.*
-"We will do our very best to respond to your feelings and wishes."
-
-A genuine commitment to omotenashi, used to open a stay or at the start of a service. It expresses dedication that goes beyond completing tasks.
-
-**お越しいただけて、光栄です。**
-*O-koshi itadakete, kōei desu.*
-"We are honoured by your visit."
-
-Expresses genuine gratitude for the guest's presence, going beyond a transactional welcome to convey that their choice to visit is meaningful.
-
----
-
 ## Quiz
 
 **A returning guest arrives. In their notes: they prefer a firmer pillow, they always ask for green tea rather than coffee at breakfast, and they mentioned during their last stay that they enjoy local ceramics. What is the most omotenashi-aligned response to their arrival?**

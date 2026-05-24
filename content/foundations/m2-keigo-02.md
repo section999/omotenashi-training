@@ -28,37 +28,15 @@ For example, instead of *お客様は食べますか？* (casual), a hospitality
 
 ---
 
-## Key Phrases
-
-**お客様は召し上がりますか？**
-*O-kyakusama wa meshiagarimasu ka?*
-"Would you like to eat/drink?"
-
-Meshiagaru is the sonkeigo form for both eating and drinking. It replaces 食べる and 飲む when the guest is the subject.
-
-**いらっしゃいます**
-*Irasshaimasu.*
-"To be / to come / to go" (referring to the guest).
-
-This is one of the most frequently used sonkeigo forms in hospitality speech.
-
-**おっしゃいました**
-*Osshaimashita.*
-"Said" (referring to the guest's words).
-
-Used when reporting or acknowledging something the guest has expressed.
-
----
-
 ## Quiz
 
-**Which sonkeigo verb is correct for asking a guest if they would like to eat?**
+**You are serving a kaiseki dinner to a guest in a private dining room. The guest looks curious about a particular dish and asks what it contains. After explaining, you want to offer them a serving. Which phrase is correct for honouring the guest's action of eating?**
 
-- A. 食べますか？
-- B. いただきますか？
-- C. 召し上がりますか？
-- D. 食べられますか？
+- A. "召し上がりますか？" (Meshiagarimasu ka?)
+- B. "食べますか？" (Tabemasu ka?)
+- C. "いただきますか？" (Itadakimasu ka?)
+- D. "お召し上がられますか？" (Omeshiagararemasu ka?)
 
-**Correct Answer:** 召し上がりますか？
+**Correct Answer:** "召し上がりますか？" (Meshiagarimasu ka?)
 
-**Explanation:** Sonkeigo requires using entirely different verbs to honour the guest's actions, not just adding polite endings. 召し上がる is the proper sonkeigo replacement for both 食べる and 飲む when the guest is the subject. 食べますか is casual, いただく is kenjōgo (humble, for your own receiving), and 食べられますか reads as a potential form rather than respectful speech.
+**Explanation:** 召し上がる (meshiagaru) is the sonkeigo replacement for both 食べる and 飲む when honouring the guest's action. 食べますか is too casual for a formal dining setting. いただく is kenjōgo and should be used only for the speaker's own receiving. お召し上がられますか contains a double honorific (nijū keigo) since 召し上がる already carries respectful meaningadding られる is grammatically redundant.

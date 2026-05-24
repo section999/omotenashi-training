@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -7,14 +7,14 @@
   <link rel="manifest" href="../manifest.json" />
   <meta name="theme-color" content="#0a0a23" />
   <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
-  <title>Vocabulary Practice — Omotenashi Training</title>
+  <title>Vocabulary Practice - Omotenashi Training</title>
   <meta name="description" content="Flashcard and dictation drills across 429 Japanese hospitality terms in 15 topic sets, with spaced repetition review." />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Vocabulary Practice — Omotenashi Training" />
+  <meta property="og:title" content="Vocabulary Practice - Omotenashi Training" />
   <meta property="og:description" content="Flashcard and dictation drills across 429 Japanese hospitality terms in 15 topic sets." />
   <meta property="og:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Vocabulary Practice — Omotenashi Training" />
+  <meta name="twitter:title" content="Vocabulary Practice - Omotenashi Training" />
   <meta name="twitter:description" content="Flashcard and dictation drills across 429 Japanese hospitality terms in 15 topic sets." />
   <meta name="twitter:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
   <style>
@@ -189,7 +189,7 @@
 {
   "@context": "https://schema.org",
   "@type": "LearningResource",
-  "name": "Vocabulary Practice — Omotenashi Training",
+  "name": "Vocabulary Practice - Omotenashi Training",
   "url": "https://section999.github.io/omotenashi-training/pages/vocabularypractice.html",
   "description": "Flashcard and dictation drills across 429 Japanese hospitality terms in 15 topic sets, with spaced repetition review.",
   "educationalUse": "Practice",
@@ -552,7 +552,7 @@ function showCardScreen() {
     '<div class="cs-adv-bar" id="csAdvBar"></div>' +
     '<div class="cs-nav">' +
       '<button class="cs-nav-btn" id="csNavPrev" onclick="goPrev()" disabled>← Prev</button>' +
-      '<span class="cs-counter" id="csCounter">— / —</span>' +
+      '<span class="cs-counter" id="csCounter"> / </span>' +
       '<button class="cs-nav-btn" id="csNavNext" onclick="goNext()">Next →</button>' +
     '</div>' +
     (isDictation
@@ -621,8 +621,8 @@ function updateCard(file, data) {
   const saved = getStatus(file);
   const statusEl = document.getElementById('csStatus');
   if (statusEl) {
-    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span> — tap to re-evaluate';
-    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span> — tap to re-evaluate';
+    if (saved === 'know') statusEl.innerHTML = '<span style="color:var(--accent-green)">✓ Previously known</span>  tap to re-evaluate';
+    else if (saved === 'learning') statusEl.innerHTML = '<span style="color:var(--accent-yellow)">△ Still learning</span>  tap to re-evaluate';
     else statusEl.textContent = '';
   }
 
@@ -842,10 +842,10 @@ function markCard(status) {
     return;
   }
   if (isFlipped) {
-    // Card was flipped — advance immediately
+    // Card was flipped - advance immediately
     goNext();
   } else {
-    // Card not flipped — just mark, stay on card
+    // Card not flipped - just mark, stay on card
     const statusEl = document.getElementById('csStatus');
     if (statusEl) statusEl.innerHTML = status === 'know'
       ? '<span style="color:var(--accent-green)">✓ Marked as known</span>'

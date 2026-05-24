@@ -27,31 +27,15 @@ Kaizen asks for honest recognition that however good your current practice is, i
 
 ---
 
-## Key Phrases
-
-**改善**
-*Kaizen.*
-"Continuous improvement."
-
-The practice of making small, incremental improvements to one's work or process on a regular basis. A core principle of Japanese professional culture.
-
-**もっと良くなれると思います。**
-*Motto yoku nareru to omoimasu.*
-"I believe we can become even better."
-
-An expression of the kaizen mindset, used to open a discussion about improvement without implying that current standards are inadequate.
-
----
-
 ## Quiz
 
-**Which of the following best reflects the kaizen mindset?**
+**A staff member notices that during the breakfast rush, guests who want coffee refills often wait because the coffee pots are kept on a counter that is difficult for staff to reach quickly. Which of the following responses most fully embodies the kaizen mindset in action?**
 
-- A. Waiting for a major training programme before trying to improve
-- B. Making one small improvement to your practice each shift, based on what you noticed that day
-- C. Accepting that current standards are sufficient once a good level has been reached
-- D. Focusing improvement efforts only on the areas formally reviewed in appraisals
+- A. Mention the issue at the next monthly team meeting so a formal decision can be made
+- B. Suggest to the shift leader today that the coffee pots be moved to a more accessible spot during breakfast service, and test whether it improves refill speed starting tomorrow
+- C. Accept that the breakfast rush is busy by nature; guests understand there may be delays during peak hours
+- D. Ask the manager to purchase an additional set of coffee pots so that backup is always available
 
-**Correct Answer:** Making one small improvement to your practice each shift, based on what you noticed that day
+**Correct Answer:** Suggest to the shift leader today that the coffee pots be moved to a more accessible spot during breakfast service, and test whether it improves refill speed starting tomorrow
 
-**Explanation:** Kaizen is built on the belief that every person, in every role, can make their work a little better today than yesterday. Waiting for a training programme, accepting that "good enough" is sufficient, or limiting improvement to formal review areas all reject that belief. Small, consistent improvements made from real observation accumulate into a standard no single intervention could ever produce.
+**Explanation:** Kaizen is characterised by small, immediate, observable improvements based on daily observation. Option B reflects this: the staff member identifies a specific issue, proposes a low-cost change, and tests it in the next shift. Option A delays action to a formal meeting weeks away. Option C accepts the status quo, which is the opposite of kaizen. Option D proposes a solution that requires budget approval and purchasing, bypassing the small, immediate action that kaizen emphasises.

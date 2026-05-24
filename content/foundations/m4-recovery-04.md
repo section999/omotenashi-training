@@ -39,22 +39,6 @@ The solution should be presented, not pushed: "I would like to offer you [soluti
 
 ---
 
-## Key Phrases
-
-**早速対応させていただきます。**
-*Sassoku taiō sasete itadakimasu.*
-"I will address this immediately."
-
-This phrase shows urgency without panic. It reassures the guest that action is being taken right away.
-
-**何かご希望がございましたら、お気軽におっしゃってください。**
-*Nanika go-kibō ga gozaimashitara, o-ki-garu ni osshatte kudasai.*
-"If there is anything you would like, please feel free to let us know."
-
-This phrase invites the guest into the solution process, acknowledging that their input matters.
-
----
-
 ## Quiz
 
 **After apologising, what is the most important quality of the solution you offer?**

@@ -28,28 +28,6 @@ When offering to carry a guest's bag, for example, the correct phrase is *お荷
 
 ---
 
-## Key Phrases
-
-**お荷物をお持ちいたします。**
-*O-nimotsu wo o-mochi itashimasu.*
-"Allow me to carry your luggage."
-
-Itashimasu is the kenjōgo form of shimasu, lowering the speaker's action to show deference.
-
-**ご案内いたします。**
-*Go-annai itashimasu.*
-"I will guide you."
-
-The standard kenjōgo phrase used when escorting a guest to a room, table, or facility.
-
-**参ります。**
-*Mairimasu.*
-"I will go / I am coming."
-
-The kenjōgo form of ikimasu and kimasu, used when speaking of one's own movement.
-
----
-
 ## Quiz
 
 **A staff member says: "Only a moment, please: 確認いたします." What is いたします doing in this sentence?**

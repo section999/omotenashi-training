@@ -30,31 +30,15 @@ The final step is essential. Hansei without a clear intention to act differently
 
 ---
 
-## Key Phrases
-
-**反省**
-*Hansei.*
-"Self-reflection."
-
-The deliberate, honest examination of one's own conduct and decisions for the purpose of growth. A central practice of Japanese professional and personal life.
-
-**次はもっとうまくできると思います。**
-*Tsugi wa motto umaku dekiru to omoimasu.*
-"I believe I can do better next time."
-
-The natural conclusion of a genuine hansei practice. A commitment forward, not a dwelling backward.
-
----
-
 ## Quiz
 
-**What distinguishes hansei (反省) from simple regret?**
+**A staff member finishes a difficult shift. They sit down and replay a moment where a guest asked for restaurant recommendations and the staff member gave a rushed, generic answer: "I should have paused before answering. That was not helpful. I always mess up these recommendation questions. I am never going to get better at this." Which of the following best identifies the problem with this thought pattern, and what would a hansei approach look like?**
 
-- A. Hansei focuses on assigning blame; regret focuses on personal feelings
-- B. Hansei is a structured, forward-looking reflection aimed at improvement; regret circles the same moment without generating change
-- C. Hansei is only practised by senior staff; regret is for everyone
-- D. There is no meaningful difference: both are forms of self-criticism
+- A. This is hansei: the staff member is honestly acknowledging a mistake and expressing frustration as part of the learning process
+- B. This is regret, not hansei: it loops on self-criticism without generating insight. A hansei approach would factually describe what happened, identify what went wrong ("I responded without thinking about the guest's preferences"), and set one concrete intention for next time ("I will ask two questions about what they are looking for before making a recommendation")
+- C. This is an appropriate end-of-shift review because it names the specific mistake; frustration is a natural by-product of high standards
+- D. This is regret, but regret is a natural stage of professional development and should not be interfered with
 
-**Correct Answer:** Hansei is a structured, forward-looking reflection aimed at improvement; regret circles the same moment without generating change
+**Correct Answer:** This is regret, not hansei: it loops on self-criticism without generating insight. A hansei approach would factually describe what happened, identify what went wrong ("I responded without thinking about the guest's preferences"), and set one concrete intention for next time ("I will ask two questions about what they are looking for before making a recommendation")
 
-**Explanation:** Regret replays what happened without producing anything useful. Hansei looks back at the same moment with a different purpose: to understand what went wrong, what was missed, and what to do differently next time. It is forward-looking by design, and it always ends with a concrete intention. That forward orientation is what makes it a professional tool rather than emotional dwelling.
+**Explanation:** The thought pattern described is self-critical repetition without forward movement ("I always mess up," "I am never going to get better"), which is the defining characteristic of regret. Hansei acknowledges the same mistake but then moves to analysis and intention. The key difference is not in whether the mistake is named, but in whether the reflection produces usable insight that changes future behaviour.

@@ -37,28 +37,6 @@ These four elements are covered in the following lessons through the LEARN frame
 
 ---
 
-## Key Phrases
-
-**おっしゃる通りでございます。大変ご不便をおかけいたしました。**
-*Ossharu tōri de gozaimasu. Taihen go-fuben wo o-kake itashimashita.*
-"You are absolutely right. We have caused you a great inconvenience."
-
-This is the opening of a genuine response to a complaint. Acknowledgement comes first, without hedging or explanation.
-
-**このたびはご不満をお聞かせいただき、誠にありがとうございます。**
-*Konotabi wa go-fuman wo o-kikase itadaki, makoto ni arigatō gozaimasu.*
-"Thank you sincerely for letting us know of your dissatisfaction."
-
-This phrase explicitly acknowledges that the guest has done something valuable by speaking up. It reframes the complaint as a contribution rather than an inconvenience.
-
-**ただちに対応いたします。**
-*Tadachi ni taiō itashimasu.*
-"We will address this immediately."
-
-This is the clear commitment to action. It is stated directly and without delay, showing the guest that their concern will be acted upon, not simply noted.
-
----
-
 ## Quiz
 
 **Research on complaint recovery in hospitality consistently shows that:**

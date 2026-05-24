@@ -52,28 +52,6 @@ Regardless of what emotional cue is detected, the gold standard response combine
 
 ---
 
-## Key Phrases
-
-**もう一度ご説明してもよろしいでしょうか。**
-*Mō ichido go-setsumei shite mo yoroshii deshō ka.*
-"May I explain that once more?"
-
-Used when a guest appears confused. This phrase offers to repeat information without making the guest feel at fault. It preserves dignity while ensuring understanding.
-
-**いかがでしょうか。**
-*Ikaga deshō ka.*
-"How does that seem?" or "Would that suit you?"
-
-A gentle probe used after offering an alternative or adjustment. It invites the guest to respond without pressure, and is particularly useful when proposing a solution to mild discomfort.
-
-**ご不便をおかけして申し訳ございません。**
-*Go-fuben o okake shite mōshiwake gozaimasen.*
-"I am sorry for the inconvenience."
-
-Used when acknowledging a guest's frustration without argument or escalation. Spoken calmly and with open body language, it forms part of a de-escalation response.
-
----
-
 ## Quiz
 
 **A guest speaks to you in a frustrated, raised voice. What is the most effective non-verbal response?**

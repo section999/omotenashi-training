@@ -35,37 +35,15 @@ Return the guest's bow at an equal or slightly deeper angle. A bow is a gesture 
 
 ---
 
-## Key Phrases
-
-**会釈**
-*Eshaku.*
-"15-degree bow."
-
-Used for brief acknowledgements when passing a colleague or guest in a corridor. It signals awareness without requiring a pause in movement.
-
-**敬礼**
-*Keirei.*
-"30-degree bow."
-
-The standard bow for greeting and farewelling guests, and for expressing thanks. This is the most commonly used bow in everyday hospitality interactions.
-
-**最敬礼**
-*Saikeirei.*
-"45-degree bow."
-
-Reserved for expressions of deep gratitude, sincere apology, or reception of VIP guests. The depth of the bow reflects the significance of the moment.
-
----
-
 ## Quiz
 
-**What is the correct bowing technique for a standard guest greeting (敬礼, keirei)?**
+**A VIP couple who have visited your property several times before is arriving for their anniversary celebration. The general manager asks you to greet them at the main entrance. What type of bow should you use in this situation, and what technique should you follow?**
 
-- A. A 15-degree neck nod while maintaining eye contact
-- B. A 30-degree bend from the waist with a straight back, holding briefly at the deepest point
-- C. A 45-degree bend from the neck, hands clasped tightly in front
-- D. A 30-degree forward lean while speaking to the guest simultaneously
+- A. A quick 15-degree eshaku since you are familiar with them
+- B. A 30-degree keirei, bending from the waist with a straight back, holding brieflyappropriate for returning guests
+- C. A 45-degree saikeirei, bending from the waist, since this is a VIP and an anniversary occasion calls for deep gratitude
+- D. A casual nod while walking toward them so they do not have to wait
 
-**Correct Answer:** A 30-degree bend from the waist with a straight back, holding briefly at the deepest point
+**Correct Answer:** A 30-degree keirei, bending from the waist with a straight back, holding brieflyappropriate for returning guests
 
-**Explanation:** Keirei, the standard guest bow, requires bending from the waist with a straight back and holding briefly at the deepest point before rising smoothly. A neck nod is too casual for a guest greeting, a 45-degree bow is reserved for deep apology or VIP reception, and bowing while speaking is a common error because it splits attention and reduces the sincerity of both actions. The bow and the words belong in sequence, not simultaneously.
+**Explanation:** The keirei (30-degree bow from the waist) is the standard greeting for guests, even returning VIPs. A 45-degree saikeirei is reserved for deep apology or formal VIP reception in highly ceremonial contextsnot for a standard arrival greeting. A 15-degree eshaku is too casual for a guest greeting, and a nod is dismissive. The correct techniquebending from the waist with a straight back and holding brieflyconveys respect without over-formality that might feel stiff for a familiar guest.

@@ -34,22 +34,6 @@ The end of a stay is a natural moment to close the loop. At check-out, if the gu
 
 ---
 
-## Key Phrases
-
-**その後いかがでしょうか。**
-*Sono go ikaga deshō ka?*
-"How have things been since then?"
-
-This is the gentle follow-up question used to check in after a service recovery. It opens the door for the guest to share how they are feeling without any pressure.
-
-**またのお越しを心よりお待ち申し上げております。**
-*Mata no o-koshi wo kokoro yori o-machi mōshiagete orimasu.*
-"We sincerely look forward to welcoming you again."
-
-After a service recovery, this farewell carries additional weight. It communicates that the relationship continues beyond this stay.
-
----
-
 ## Quiz
 
 **A guest's complaint was resolved successfully last night. It is now the next morning and you pass them at breakfast. What should you do?**

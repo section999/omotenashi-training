@@ -49,28 +49,6 @@ Return to confirm the resolution worked. This is the step most often skipped, an
 
 ---
 
-## Key Phrases
-
-**おっしゃることは、よく分かりました。**
-*Ossharu koto wa, yoku wakarimashita.*
-"I fully understand what you are saying."
-
-This closes the L (Listen) step. It signals that the guest has been heard completely before any response is offered.
-
-**大変申し訳ございません。○○でご不便をおかけしてしまい、誠に申し訳ございません。**
-*Taihen mōshiwake gozaimasen. ○○ de go-fuben wo o-kake shite shimai, makoto ni mōshiwake gozaimasen.*
-"I am deeply sorry. I sincerely apologise for the inconvenience caused by ○○."
-
-This is the specific apology used in the A (Apologise) step, naming the actual issue rather than offering a generic expression of regret.
-
-**すぐに○○いたします。よろしいでしょうか。**
-*Sugu ni ○○ itashimasu. Yoroshii deshō ka.*
-"I will ○○ immediately. Would that be acceptable?"
-
-This is the resolution offer used in the R (Resolve) step. It is specific, action-oriented, and asks for the guest's agreement before proceeding.
-
----
-
 ## Quiz
 
 **What does the 'N' in the LEARN protocol stand for, and why is it often the most important step?**

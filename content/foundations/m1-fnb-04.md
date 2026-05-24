@@ -37,28 +37,6 @@ A guest who is studying the menu with visible uncertainty, or who asks directly 
 
 ---
 
-## Key Phrases
-
-**もしよろしければ、本日のおすすめをご紹介してもよろしいでしょうか？**
-*Moshi yoroshikereba, honjitsu no o-susume wo go-shōkai shite mo yoroshii deshō ka?*
-"If I may, would you allow me to introduce today's recommendations?"
-
-This is a polite way to offer suggestions rather than delivering them unsolicited. By asking permission first, the recommendation becomes an invitation rather than an interruption.
-
-**こちらは今が旬の時期で、特に風味が豊かでございます。**
-*Kochira wa ima ga shun no jiki de, toku ni fūmi ga yutaka de gozaimasu.*
-"This is at its seasonal peak right now: the flavour is particularly rich."
-
-Use this phrase when making a seasonal recommendation. It grounds the suggestion in genuine, time-specific reasoning rather than general praise.
-
-**おっしゃる通りでございます。では、こちらはいかがでしょうか。**
-*Ossharu tōri de gozaimasu. Dewa, kochira wa ikaga deshō ka.*
-"You are absolutely right. In that case, might I suggest this one?"
-
-Use this when a guest declines a recommendation or provides feedback. It acknowledges their response without defensiveness and offers an alternative naturally.
-
----
-
 ## Quiz
 
 **A guest has ordered two light fish courses and is looking at the dessert menu. They ask: "What do you recommend for dessert?" What is the most omotenashi-aligned response?**

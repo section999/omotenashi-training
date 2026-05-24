@@ -38,31 +38,15 @@ Summer decorations and amenities emphasise coolness and lightness:
 
 ---
 
-## Key Phrases
-
-**お暑い中、ご来館いただきまして誠にありがとうございます。**
-*O-atsui naka, go-raikan itadakimashite makoto ni arigatō gozaimasu.*
-"Thank you sincerely for visiting in this heat."
-
-This phrase acknowledges the effort a guest makes to travel in summer heat. It is a small expression of genuine consideration and sets a warm tone for the interaction.
-
-**暑い日が続いておりますが、お体にお気をつけください。**
-*Atsui hi ga tsuzuite orimasu ga, o-karada ni o-ki wo tsukete kudasai.*
-"The heat continues: please take care of yourself."
-
-A caring seasonal phrase that can close a conversation or accompany a farewell. It expresses concern for the guest's wellbeing beyond the boundaries of the visit.
-
----
-
 ## Quiz
 
-**What is uchimizu (打ち水), and why does it matter in hospitality?**
+**A guest arrives at your ryokan on a sweltering July afternoon. As they approach the entrance, they see a staff member sprinkling water on the ground outside. The guest looks curious but does not ask. How should you acknowledge and explain this moment to enhance their arrival experience?**
 
-- A. A summer cocktail offered to guests on arrival
-- B. The practice of sprinkling water outside to cool the air: a proactive gesture of guest care
-- C. A type of blue floral arrangement used in summer decorating
-- D. A cooling towel service available in ryokan only
+- A. Say nothingit is a routine maintenance task and the guest probably did not notice
+- B. "You may have noticed our staff sprinkling water outside. That is called uchimizu. It cools the air through evaporationa traditional practice we do before guests arrive so you feel comfortable the moment you step in."
+- C. "I apologise for the water on the walkwaywe will have it cleaned up shortly so it does not get on your shoes."
+- D. "Our staff member is watering the plants near the entrance. It helps keep them healthy in the heat."
 
-**Correct Answer:** The practice of sprinkling water outside to cool the air: a proactive gesture of guest care
+**Correct Answer:** "You may have noticed our staff sprinkling water outside. That is called uchimizu. It cools the air through evaporationa traditional practice we do before guests arrive so you feel comfortable the moment you step in."
 
-**Explanation:** Uchimizu is the practice of sprinkling water on the ground outside an entrance to cool the air through evaporation. What makes it significant in hospitality is that it happens before the guest arrives, making it an expression of anticipatory care. It is not a drink, a floral arrangement, or a towel service; it is an outdoor gesture of thoughtful preparation.
+**Explanation:** Uchimizu is a proactive gesture of care performed before the guest arrives to cool the entryway. Explaining it turns a routine act into a memorable cultural moment. Ignoring it misses the opportunity; apologising for it misreads the intention; and calling it plant watering gives incorrect information. A brief, warm explanation makes the guest feel that their comfort was thought about before they even arrived.

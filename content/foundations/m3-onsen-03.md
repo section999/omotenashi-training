@@ -28,37 +28,15 @@ Offering an alternative matters as much as communicating the rule. Raised calmly
 
 ---
 
-## Key Phrases
-
-**男女別浴場となっております。**
-*Danjo betsu-yokujō to natte orimasu.*
-"The baths are separated by gender."
-
-A key reassurance for international guests unfamiliar with communal onsen. This should be stated early and matter-of-factly to address the most common concern.
-
-**事前にお知らせしたいことがございます。**
-*Jizen ni o-shirase shitai koto ga gozaimasu.*
-"There is something I would like to mention in advance."
-
-The correct opener for communicating the tattoo policy at check-in, before the guest has made plans. Framing the information this way positions it as helpful rather than restrictive.
-
-**プライベートのお風呂もご用意しております。**
-*Puraiběto no o-furo mo go-yōi shite orimasu.*
-"We also have a private bath available."
-
-Offered immediately after communicating any onsen restriction. This ensures the guest never leaves the conversation without a clear alternative.
-
----
-
 ## Quiz
 
-**When is the best time to inform a guest with tattoos about the onsen policy?**
+**A guest with visible arm tattoos checks in. They are accompanied by a Japanese colleague who is also staying at the property. You need to communicate the onsen tattoo policy. The private bath is available at an additional charge. What is the most appropriate approach?**
 
-- A. At the entrance to the onsen, before they enter
-- B. At check-in, when it can be communicated calmly and alternatives offered
-- C. Only if the guest asks directly about the onsen
-- D. When the guest is already changed and ready to enter
+- A. Address both guests together at check-in and explain the onsen policy to avoid any perception of singling out one guest
+- B. Wait for a discreet moment when the colleague is not present, then privately inform the guest of the tattoo policy and proactively offer the private bath as an alternative
+- C. Say nothing about the tattoo policy at check-in; the colleague may explain Japanese customs, and the guest can ask about the onsen if interested
+- D. Ask the colleague privately to mention the tattoo policy to their companion, as they share a closer relationship and the message may be received more naturally
 
-**Correct Answer:** At check-in, when it can be communicated calmly and alternatives offered
+**Correct Answer:** B
 
-**Explanation:** Telling a guest about a restriction after they have already changed and walked to the onsen entrance turns a policy into a public rejection. Raising it at check-in, on the other hand, gives the guest time to process the information calmly and lets you offer a private bath as a genuine alternative rather than an afterthought. Waiting until the guest asks means many guests will find out too late.
+**Explanation:** This scenario requires weighing the need for proactive policy communication (per the lesson: inform at check-in, not at the bath entrance) against the guest's dignity and the social dynamics of their companion's presence. Option B balances both concerns: the policy is communicated proactively and privately (avoiding face-loss in front of the colleague), and an alternative is offered immediately. Option A discusses the guest's tattoos publicly, which could embarrass both guests. Option C violates the core guidance to communicate proactively at check-in rather than waiting. Option D inappropriately involves a third party in what is a private policy matter between the property and the guest, and may create an awkward dynamic between the colleagues.

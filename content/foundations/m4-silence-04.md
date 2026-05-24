@@ -24,31 +24,15 @@ One of the most affecting expressions of ma in hospitality is the silence after 
 
 ---
 
-## Key Phrases
-
-**申し訳ございません。**
-*Mōshiwake gozaimasen.*
-"I am truly sorry / There is no excuse for this."
-
-The deepest formal apology in Japanese hospitality. Most powerful when preceded by a moment of silent acknowledgement.
-
-**ごもっともでございます。**
-*Go-mottomo de gozaimasu.*
-"You are absolutely right / That is entirely understandable."
-
-An empathic phrase that validates the guest's feelings before any solution is offered.
-
----
-
 ## Quiz
 
-**A guest tells you their room was not ready when they arrived after a long flight. What should your first response be?**
+**A guest arrives at the front desk after a long flight and is told their room is not ready yet. They are clearly frustrated: their voice is raised, and another guest is waiting behind them. Which of the following best balances respect for the guest's emotional state with the practical need to manage the queue?**
 
-- A. Immediately offer a room upgrade and complimentary breakfast
-- B. Explain that it was a system error outside your control
-- C. Pause briefly, make eye contact, and sincerely acknowledge their experience before offering a solution
-- D. Ask them to wait at the front desk while you check availability
+- A. Quickly offer a solution to calm them down: a complimentary drink in the lounge while they wait, so you can serve the next guest without delay
+- B. Pause briefly, make eye contact, and sincerely acknowledge their frustration first: "I am truly sorry. You have just arrived after a long journey and your room is not ready. That is not the welcome you deserved." Then propose a solution. The queue behind them, while real, does not override the need for genuine acknowledgement to land first
+- C. Apologise briefly and ask them to step aside so you can assist the next guest while they wait; this manages both guests' time fairly
+- D. Explain that check-in time is officially at 3 PM and they have arrived a few hours early, to set clear expectations about what is standard
 
-**Correct Answer:** Pause briefly, make eye contact, and sincerely acknowledge their experience before offering a solution
+**Correct Answer:** Pause briefly, make eye contact, and sincerely acknowledge their frustration first: "I am truly sorry. You have just arrived after a long journey and your room is not ready. That is not the welcome you deserved." Then propose a solution. The queue behind them, while real, does not override the need for genuine acknowledgement to land first
 
-**Explanation:** A guest who has just arrived tired and found their room unavailable needs to feel that their experience has registered before anything else happens. Jumping straight to an upgrade or breakfast offer skips that entirely. Explaining a system error shifts focus away from the guest. Asking them to wait at the desk adds to the very frustration they are already carrying. A pause, eye contact, and a sincere acknowledgement first is what allows any offer that follows to land as genuine care.
+**Explanation:** The lesson specifically teaches that silence and sincere acknowledgement must precede any solution, especially when a guest is distressed. Option B honours this by pausing, acknowledging specifically what went wrong, and then moving to a solution. Option A jumps to compensation without genuine acknowledgement. Option C prioritises queue management over the guest's emotional state, which can make the guest feel processed rather than cared for. Option D defends policy, which is the opposite of the care the situation requires. The pause and sincere acknowledgement are not inefficient; they are what allows any solution to land as genuine care.

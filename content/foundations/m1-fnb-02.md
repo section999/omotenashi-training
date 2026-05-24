@@ -31,28 +31,6 @@ The guest should never feel lesser for their requirement. They should feel that 
 
 ---
 
-## Key Phrases
-
-**アレルギーの情報を厨房にお伝えしております。すべてのお料理でご対応いたします。**
-*Arerugī no jōhō wo chūbō ni o-tsutae shite orimasu. Subete no o-ryōri de go-taiō itashimasu.*
-"I have passed your allergy information to the kitchen. We will accommodate it across all courses."
-
-Use this phrase after confirming a guest's allergy or dietary requirement. It reassures the guest that the information has been communicated and that the kitchen is prepared.
-
-**こちらのお料理には○○は一切使用しておりません。**
-*Kochira no o-ryōri ni wa ○○ wa issai shiyō shite orimasen.*
-"This dish contains absolutely no ○○."
-
-The word *issai* (一切) means "not at all" or "absolutely none." This phrase provides a definitive confirmation when presenting each course to a guest with a specific allergy.
-
-**他にお気をつけいただきたい食材はございますか？**
-*Hoka ni o-ki wo tsukeitadakitai shokuzai wa gozaimasu ka?*
-"Are there any other ingredients you would like us to be careful about?"
-
-Ask this proactively when a guest discloses a dietary requirement, rather than waiting for a problem to arise. It shows thoroughness and genuine concern for the guest's safety.
-
----
-
 ## Quiz
 
 **A guest mentions at the table that they have a serious shellfish allergy. Two courses are already prepared in the kitchen. What is the correct sequence of actions?**

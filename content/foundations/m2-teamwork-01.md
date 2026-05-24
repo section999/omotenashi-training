@@ -26,34 +26,6 @@ A guest complaint reported thirty minutes after the fact is still fixable. One r
 
 ---
 
-## Key Phrases
-
-**報告 (hōkoku)**
-*Hōkoku.*
-"Reporting."
-
-Informing a superior or colleague of a completed task, a development, or a problem. Used when the receiver needs to know what has happened or what has been done.
-
-**連絡 (renraku)**
-*Renraku.*
-"Contacting / Sharing information."
-
-Proactively passing along information that others need in order to act. Used when someone else needs to know something before they can do their job effectively.
-
-**相談 (sōdan)**
-*Sōdan.*
-"Consulting."
-
-Seeking guidance or input before making a decision, especially in uncertain situations. Used when a staff member is unsure how to proceed and needs direction.
-
-**報・連・相 (hōrenso)**
-*Hōrenso.*
-"Report, Contact, Consult."
-
-The three-part communication principle. Also the Japanese word for spinach (ほうれん草), making it easy to remember.
-
----
-
 ## Quiz
 
 **A guest at breakfast mentions they need a late checkout. According to hōrenso principles, what should happen next?**

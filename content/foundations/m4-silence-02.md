@@ -35,31 +35,15 @@ This is not mind-reading. It is attentive pattern recognition, developed through
 
 ---
 
-## Key Phrases
-
-**気が付く**
-*Ki ga tsuku.*
-"To notice, to become aware."
-
-The attentiveness that allows a staff member to anticipate needs before they are expressed.
-
-**少々お待ちくださいませ。**
-*Shōshō o-machi kudasaimase.*
-"Please wait just a moment."
-
-Used when the moment is not yet right for an action, signalling awareness and care without forcing the pace.
-
----
-
 ## Quiz
 
-**A guest has just taken their first sip of their main course beverage. What is the right approach for asking if everything is satisfactory?**
+**A guest has just taken their first bite of the main course. The restaurant is busy, your section is full, and you have other tables that need attention. The guest's companion is mid-sentence, clearly telling a story. Which of the following best analyses the timing considerations here?**
 
-- A. Approach immediately to show attentiveness
-- B. Wait for a natural pause: when they set down the glass or look up
-- C. Ask a colleague to check for you so you do not interrupt
-- D. Only ask at the end of the meal
+- A. Approach immediately to ask about the first bite while the impression is fresh, then attend to your other tables
+- B. Wait for a natural pause: the companion finishes their point, the guest sets down their utensils, or looks up from the plate. Trusting that the check-in timing matters more than covering every table on a fixed schedule, even during a busy service
+- C. Ask the first-bite question through the companion since they are already talking, to avoid interrupting the guest directly
+- D. Skip the check-in entirely tonight due to the busy service; the guest will flag you if something is wrong
 
-**Correct Answer:** Wait for a natural pause: when they set down the glass or look up
+**Correct Answer:** Wait for a natural pause: the companion finishes their point, the guest sets down their utensils, or looks up from the plate. Trusting that the check-in timing matters more than covering every table on a fixed schedule, even during a busy service
 
-**Explanation:** Approaching while the guest is still in the middle of their first sip tells them you are tracking your own checklist, not their experience. Checking via a colleague adds unnecessary distance. Waiting only until the very end of the meal misses several natural openings along the way. The right move is to read body language and wait for the moment the guest naturally surfaces, when they set something down or look up, signalling that they are between moments.
+**Explanation:** The lesson teaches that the same action lands completely differently depending on timing. Approaching mid-bite while the companion is mid-story (A) disrupts two guests at once and signals that the server is tracking their own checklist rather than the table's rhythm. Asking through the companion (C) is indirect and awkward. Skipping entirely (D) abandons the standard of care. Option B applies the lesson's core principle of reading the rhythm and waiting for a natural pause; the timing of the check-in is what determines whether it feels attentive or intrusive.

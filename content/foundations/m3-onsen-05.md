@@ -39,37 +39,15 @@ Guests most at risk are often the least likely to mention it, elderly guests who
 
 ---
 
-## Key Phrases
-
-**飲酒後すぐのご入浴はご遠慮ください。**
-*Inshu-go sugu no go-nyūyoku wa go-enryō kudasai.*
-"Please refrain from bathing immediately after drinking alcohol."
-
-Safety guidance to be communicated proactively and warmly, particularly in ryokan where alcohol is served with dinner. Delivered as an act of care, not as a warning.
-
-**ご入浴の際は、こまめに水分補給をお忘れなく。**
-*Go-nyūyoku no sai wa, koma-meni suibun hōkyū o o-wasure naku.*
-"Please remember to stay well hydrated when bathing."
-
-A genuine care reminder. Providing chilled water at the onsen entrance is the service gesture that accompanies this phrase.
-
-**お体の具合が悪くなりましたら、すぐにスタッフにお知らせください。**
-*O-karada no guai ga waruku narimashitara, sugu ni sutaffu ni o-shirase kudasai.*
-"If you feel unwell at any time, please let a staff member know immediately."
-
-The safety instruction that covers all guest vulnerability scenarios. Delivered with warmth, not alarm.
-
----
-
 ## Quiz
 
-**A guest mentions they plan to go to the onsen immediately after the welcome sake service. What is the appropriate guidance?**
+**An elderly guest travelling alone tells you they plan to use the onsen tonight after having "a few sakes" with dinner. They mention they have high blood pressure but add that "the doctor said it is well controlled." They are clearly looking forward to the experience. What is the most appropriate guidance?**
 
-- A. Discourage them from using the onsen entirely if they have been drinking
-- B. Suggest they wait at least an hour after drinking before bathing, and explain why calmly
-- C. Say nothing: it is not the property's responsibility to advise on bathing habits
-- D. Offer to accompany them to the onsen to monitor their condition
+- A. Strongly advise against using the onsen at all given the combination of alcohol, age, and blood pressure
+- B. Recommend they wait at least an hour after drinking, limit their soak to 10 minutes, drink a full glass of water beforehand, and suggest they inform a staff member when they go so someone can check on them
+- C. Suggest they use the onsen in the morning instead, when they will not have been drinking and it will be less crowded
+- D. Reassure them that controlled blood pressure is not a concern and the onsen will be fine as long as they do not stay in too long
 
-**Correct Answer:** Suggest they wait at least an hour after drinking before bathing, and explain why calmly
+**Correct Answer:** B
 
-**Explanation:** Bathing after drinking significantly raises the risk of dizziness, fainting, and cardiac episodes, and guests unfamiliar with onsen customs are unlikely to know this. Proactively suggesting they wait, framed warmly rather than as a warning, is a genuine act of care. Banning them from the onsen entirely is an overreaction, and saying nothing is a failure of duty.
+**Explanation:** This scenario requires weighing multiple risk factors (alcohol consumption, advanced age, high blood pressure, solo travel) against the guest's autonomy and genuine anticipation of the onsen experience. Option B best balances safety with hospitality: it provides specific, actionable guidance for each risk factor, preserves the guest's ability to enjoy the onsen while reducing danger, and adds a safety net by suggesting they inform staff. Option A is overly restrictive and dismisses the guest's autonomy. Option C avoids the immediate risk but may not suit the guest's schedule or preference. Option D dangerously minimises the combined risks of alcohol and cardiovascular strain, falling short of the property's duty of care.

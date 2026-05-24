@@ -23,31 +23,15 @@ Turndown is typically done while guests are at dinner. Coordinate with the dinin
 
 ---
 
-## Key Phrases
-
-**失礼いたします。お布団をご用意いたします。**
-*Shitsurei itashimasu. O-futon wo go-yōi itashimasu.*
-"Excuse me. I will prepare your futon."
-
-Used when entering a room to perform turndown service. It acknowledges the guest's space and communicates the purpose of the visit clearly and politely.
-
-**お部屋のご準備が整いました。**
-*O-heya no go-junbi ga totonoimashita.*
-"Your room is now ready."
-
-This phrase informs the guest that turndown is complete. It can be used when notifying a guest directly or when confirming readiness with a colleague.
-
----
-
 ## Quiz
 
-**In what direction should the head of a futon be positioned in a tatami room?**
+**You are preparing a guest's futon during turndown service. The room has a clearly positioned tokonoma alcove. Where should you place the head of the futon, and why?**
 
-- A. Toward the tokonoma, as it is the most honoured part of the room
-- B. Away from the tokonoma: feet should never point toward the tokonoma
-- C. Facing the door, so the guest can monitor who enters
-- D. Direction does not matter as long as the futon fits the space
+- A. Toward the tokonoma, so the guest can admire the scroll and flower arrangement from their pillow
+- B. Away from the tokonoma, because pointing one's feet toward the most honoured part of the room is considered disrespectful
+- C. Facing the doorway, so the guest can see who enters the room
+- D. Against the wall opposite the window, to maximise floor space
 
-**Correct Answer:** Away from the tokonoma: feet should never point toward the tokonoma
+**Correct Answer:** Away from the tokonoma, because pointing one's feet toward the most honoured part of the room is considered disrespectful
 
-**Explanation:** In Japanese custom, pointing the feet toward a revered or significant object is considered disrespectful, and the tokonoma is the most honoured part of the room. The head of the futon goes away from it, not toward it. The other options treat orientation as either a matter of guest security or mere convenience, missing the cultural reasoning that governs how the space is used.
+**Explanation:** In Japanese custom, pointing the feet toward a revered object or space is disrespectful, and the tokonoma is the spiritual and aesthetic centre of the room. The head of the futon must be placed away from it so the guest's feet do not point toward it. This cultural reasoning overrides convenience, security, or aesthetic considerations.

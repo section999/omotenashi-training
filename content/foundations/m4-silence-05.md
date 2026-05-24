@@ -34,22 +34,6 @@ Where in your service do you rush? Where do you fill silence out of habit or mil
 
 ---
 
-## Key Phrases
-
-**丁寧に**
-*Teinei ni.*
-"Carefully / With care / With deliberateness."
-
-The adverb that governs ma-full movement and speech. Doing things teinei ni is the physical expression of ma in daily service.
-
-**少しお時間をいただけますでしょうか。**
-*Sukoshi o-jikan wo itadakemasu deshō ka?*
-"May I take just a moment of your time?"
-
-A phrase that signals you are about to do something, framing the pause that follows as intentional rather than uncertain.
-
----
-
 ## Quiz
 
 **You are clearing a guest's finished plates. The guest is mid-sentence in a conversation with a companion. What should you do?**

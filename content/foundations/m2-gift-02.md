@@ -25,31 +25,15 @@ It is useful to know the top local omiyage options in advance: what they are, wh
 
 ---
 
-## Key Phrases
-
-**こちらのお土産はいかがでしょうか。**
-*Kochira no o-miyage wa ikaga deshō ka.*
-"How about this as a souvenir?"
-
-Used when making an omiyage recommendation to a guest. The phrasing is polite and inviting rather than directive.
-
-**こちらは当地ならではの一品でございます。**
-*Kochira wa tōchi nara dewa no ippin de gozaimasu.*
-"This is an item unique to this region."
-
-This phrase emphasises the regional specificity that defines quality omiyage and helps the guest understand why the item is meaningful.
-
----
-
 ## Quiz
 
-**Why is individual wrapping important in omiyage?**
+**A guest in your gift shop picks up a large, beautifully packaged box of premium confectionery and says, "This looks perfect to bring back to my office." You notice the sweets are a single large cake rather than individually wrapped portions. What should you advise?**
 
-- A. It protects the item during travel
-- B. It allows the gift to be distributed among multiple people, one portion at a time
-- C. It signals that the item was purchased at a high-end shop
-- D. Individually wrapped items last longer
+- A. "This is a wonderful choiceit is from a famous local maker and your colleagues will appreciate the quality."
+- B. "This is a high-quality item. However, since omiyage is meant to be shared among a group, you may prefer something individually wrapped so each person can receive their own portion easily."
+- C. "You should buy two boxes to ensure there is enough for everyone."
+- D. "Don't worry; your colleagues can cut the cake and share it themselves."
 
-**Correct Answer:** It allows the gift to be distributed among multiple people, one portion at a time
+**Correct Answer:** "This is a high-quality item. However, since omiyage is meant to be shared among a group, you may prefer something individually wrapped so each person can receive their own portion easily."
 
-**Explanation:** Omiyage exists to be shared among a group, and individual wrapping is what makes that possible. Each person receives their own portion, which fulfils the social purpose of the gift. Travel protection or shelf life are secondary concerns; what matters is that you can hand one piece to each colleague without awkwardness.
+**Explanation:** The defining quality of good omiyage is that it is shareable. Individual wrapping allows the traveller to distribute portions one by one, fulfilling the social purpose of acknowledging each person. A single large cake, while high quality, requires cutting and creates awkwardness about portion size. The advice should be practical and focused on the omiyage's purpose: easy, gracious distribution.

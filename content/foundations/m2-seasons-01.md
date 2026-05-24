@@ -24,37 +24,15 @@ Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. 
 
 ---
 
-## Key Phrases
-
-**季節感**
-*Kisetsukan.*
-"Seasonal awareness."
-
-The quality of responding to nature's rhythms in hospitality. A space or interaction that reflects the current season demonstrates careful preparation and attentiveness.
-
-**旬**
-*Shun.*
-"Peak season for an ingredient."
-
-Serving shun food means serving the ingredient at its finest. The word itself communicates freshness, quality, and respect for the season.
-
-**季節の挨拶**
-*Kisetsu no aisatsu.*
-"Seasonal greetings."
-
-The time-appropriate opening to any formal conversation or correspondence. Using the right seasonal greeting shows cultural awareness and genuine care.
-
----
-
 ## Quiz
 
-**What is 旬 (shun) in the context of Japanese hospitality?**
+**During an early autumn dinner service, a guest asks about your special course menu, which features matsutake mushrooms. The guest asks, "Why are matsutake featured so prominently right now?" What is the best explanation, connecting your answer to the concept of shun?**
 
-- A. A seasonal greeting used in letters
-- B. Ingredients that are at their peak quality in the current season
-- C. A type of flower arrangement for spring
-- D. The New Year's decoration style
+- A. "Our chef personally enjoys cooking with matsutake mushrooms during this season."
+- B. "Autumn is shunthe peak seasonfor matsutake. They are at their most fragrant and flavourful right now. Serving them at this time means serving the best possible version of the ingredient."
+- C. "Matsutake are more affordable in autumn, so we can offer them as part of the course menu."
+- D. "We received a large shipment from our supplier and want to use them at their freshest."
 
-**Correct Answer:** Ingredients that are at their peak quality in the current season
+**Correct Answer:** "Autumn is shunthe peak seasonfor matsutake. They are at their most fragrant and flavourful right now. Serving them at this time means serving the best possible version of the ingredient."
 
-**Explanation:** Shun describes the window when an ingredient is at its absolute peak: freshest, most flavourful, and most in harmony with the season. Serving shun food is quietly serving the best possible version of a dish. The other options describe seasonal greetings, ikebana, or New Year decorations, none of which are about food ingredients.
+**Explanation:** Shun describes the window when an ingredient is at its absolute peak: freshest, most flavourful, and most in harmony with the season. Serving shun ingredients is a quiet act of respect for the guest, offering the finest version of a dish. Explaining this to the guest turns a meal into a cultural experience.

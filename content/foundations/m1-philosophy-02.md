@@ -58,16 +58,6 @@ Over time, these small actions shape the quality of the guest experience and hel
 
 ---
 
-## Key Phrases
-
-**ようこそいらっしゃいました。**
-*Yōkoso irasshaimashita.*
-"A warm welcome to you."
-
-This expression is a more formal and heartfelt variation of いらっしゃいませ. It is often associated with ryokan, traditional establishments, and luxury hospitality settings where a deeper sense of personal welcome is emphasised.
-
----
-
 ## Quiz
 
 **What does 一期一会 (ichi-go ichi-e) mean, and why is it significant in hospitality?**

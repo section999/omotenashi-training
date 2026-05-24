@@ -28,37 +28,15 @@ Requests that are illegal, harmful, or deeply unethical are declined firmly and 
 
 ---
 
-## Key Phrases
-
-**確認の上、最善の方法でご手配いたします。**
-*Kakunin no ue, saizen no hōhō de go-tehai itashimasu.*
-"I will look into the best way to arrange that for you."
-
-This is the correct first response to any unusual VIP request. It takes ownership of the problem without immediately limiting the guest's expectations.
-
-**ご要望に添えるよう、全力で努めます。**
-*Go-yōbō ni soeru yō, zenryoku de tsutomemasu.*
-"I will do everything in my power to meet your request."
-
-This stronger commitment phrase is used when the request is significant and the intent to find a solution should be made explicit.
-
-**少々お時間をいただけますでしょうか。**
-*Shōshō o-jikan o itadakemasu deshō ka.*
-"May I have a little time?"
-
-Used when a VIP request requires coordination or confirmation. It acknowledges the guest's request immediately while managing expectations around timing.
-
----
-
 ## Quiz
 
-**A VIP guest requests something the property does not normally offer. What is the first response?**
+**A VIP guest asks the front desk to arrange a same-day reservation at a fully booked Michelin-starred restaurant and says: "I know it is full. Use the property's namethey will find a table." The property has a strong business relationship with the restaurant. What is the most appropriate response?**
 
-- A. Apologise and explain that the property does not provide that service
-- B. Immediately escalate to the general manager
-- C. Tell the guest it may be possible but set no expectation
-- D. Acknowledge the request and commit to finding the best way to arrange it
+- A. Contact the restaurant and mention the VIP guest by name, asking if they can accommodate a special request despite the booking status
+- B. Tell the guest honestly that the restaurant is fully booked and offer a list of comparable alternatives with availability
+- C. Acknowledge the request, contact the restaurant to explain the situation respectfully and accept their answer, then report back to the guest with the outcome and alternative options if needed
+- D. Contact the restaurant and indicate that the property expects this favour as a courtesy given the strong business relationship
 
-**Correct Answer:** Acknowledge the request and commit to finding the best way to arrange it
+**Correct Answer:** C
 
-**Explanation:** VIP guests expect problems to be solved, not redirected. Taking ownership of the request, even before knowing how it will be fulfilled, signals that you will find a way. A flat apology communicates a failure of resourcefulness; immediately escalating to the GM without attempting any solution abandons the guest at the first difficulty. Vague reassurance with no commitment is equally unhelpful.
+**Explanation:** This scenario requires weighing the VIP expectation of problem-solving against business ethics and relationship integrity. Option C best balances these: it honours the principle of "find a way" by making a respectful enquiry, but does not pressure or manipulate the restaurant (unlike D), avoids giving up too easily (unlike B), and does not leverage the relationship inappropriately (unlike A which uses the guest's name as implicit pressure). Option A subtly coerces the restaurant by invoking the VIP's name without their explicit consent for that approach. Option B gives up at the first obstacle, which falls short of the VIP service standard. Option D damages the long-term relationship with the restaurant by applying inappropriate pressure, which the lesson identifies as falling into the category of requests that should be handled with integrity.

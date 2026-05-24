@@ -33,22 +33,6 @@ When unsure whether to add something to a room, a table setting, or a guest inte
 
 ---
 
-## Key Phrases
-
-**季節のお花をお飾りしました。**
-*Kisetsu no o-hana wo o-kazari shimashita.*
-"We have decorated with flowers of the season."
-
-Used when drawing a guest's attention to a seasonal arrangement, framing it as a deliberate choice rather than standard decoration.
-
-**ご不便をおかけするようなものは置かないようにしております。**
-*Go-fuben wo o-kake suru yōna mono wa okanai yō ni shite orimasu.*
-"We try not to place anything that would be an inconvenience to you."
-
-This phrase expresses the principle of thoughtful absence, the idea that removing unnecessary items is itself a form of care for the guest.
-
----
-
 ## Quiz
 
 **A hotel room contains only a single seasonal ikebana arrangement, a handmade ceramic tea set, and natural linen curtains. A new staff member asks why the room is "so empty." What is the most accurate explanation?**

@@ -38,22 +38,6 @@ A soft gaze communicates: I am here with you, I am attentive, and you have my fu
 
 ---
 
-## Key Phrases
-
-**目を合わせてください。**
-*Me wo awasete kudasai.*
-"Please meet my eyes."
-
-Rarely said directly to a guest, but useful as a personal reminder: when engaging a guest, make the connection.
-
-**少々失礼いたします。**
-*Shōshō shitsurei itashimasu.*
-"Pardon me for a moment."
-
-Said when you need to briefly divert your attention, to check a record or answer a colleague's question, signalling to the guest that your full attention will return promptly.
-
----
-
 ## Quiz
 
 **A guest is making a complaint. They are clearly frustrated. During your apology, you maintain strong, direct eye contact throughout. What might this communicate unintentionally?**

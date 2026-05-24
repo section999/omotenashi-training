@@ -38,22 +38,6 @@ Filling silence with noise, whether words or background conversation, is often u
 
 ---
 
-## Key Phrases
-
-**（沈黙）…少々お待ちくださいませ。**
-*... Shōshō o-machi kudasaimase.*
-"One moment, please."
-
-A deliberate pause before speaking, used to signal that you are giving the matter genuine consideration before delivering an answer or taking an action.
-
-**ゆっくりお楽しみください。**
-*Yukkuri o-tanoshimi kudasai.*
-"Please enjoy at your leisure."
-
-Said when leaving a guest to their meal, drink, or room. It gives explicit permission for them to take their time without interruption.
-
----
-
 ## Quiz
 
 **A guest has just received their first course at a fine dining restaurant. As a staff member, you want to check their satisfaction. When is the best moment to approach?**

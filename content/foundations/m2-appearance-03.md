@@ -29,22 +29,6 @@ When entering a space where a guest is seated, or passing closely through a narr
 
 ---
 
-## Key Phrases
-
-**失礼いたします。**
-*Shitsurei itashimasu.*
-"Excuse me."
-
-Said when entering a guest's space, passing in a corridor, or making any minor social intrusion. It signals awareness and respect for the guest's personal environment.
-
-**足元にお気をつけください。**
-*Ashimoto ni o-ki wo tsukete kudasai.*
-"Please watch your step."
-
-Said when guiding guests near steps, uneven surfaces, or any area where footing may be uncertain.
-
----
-
 ## Quiz
 
 **A staff member is walking quickly through the lobby with their hands in their pockets. What does this communicate to a guest, even if unintentionally?**

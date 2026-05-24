@@ -29,22 +29,6 @@ Over time, the work of a good leader becomes invisible, because the entire team 
 
 ---
 
-## Key Phrases
-
-**見て学ぶ**
-*Mite manabu.*
-"Learning by watching."
-
-The traditional Japanese approach to professional transmission, in which junior staff learn primarily by observing senior colleagues in action.
-
-**率先垂範**
-*Sessen suihan.*
-"Leading by taking the initiative."
-
-A classical expression for the leader who acts rather than instructs: the person who does what they ask others to do.
-
----
-
 ## Quiz
 
 **A senior staff member is exhausted near the end of a long shift. A guest arrives at the front desk. What does leading by example require?**

@@ -35,37 +35,15 @@ Certain responses undermine the property's credibility, even when well-intention
 
 ---
 
-## Key Phrases
-
-**この度はご意見をお寄せいただきありがとうございます。**
-*Kono tabi wa go-iken o o-yose itadaki arigatō gozaimasu.*
-"Thank you for sharing your feedback with us."
-
-This is the opening of a professional response to any review, positive or negative. It acknowledges the guest before addressing the content of their comment.
-
-**ご不便をおかけし、深くお詫び申し上げます。**
-*Go-fuben o okake shi, fukaku o-wabi mōshiagemasu.*
-"We sincerely apologise for the inconvenience caused."
-
-This is the correct form of apology in a review response. It is direct and without deflection, avoiding conditional language such as "if you felt."
-
-**またのご来館を心よりお待ち申し上げております。**
-*Mata no go-raikan o kokoro yori o-machi mōshiagemasu.*
-"We sincerely look forward to welcoming you again."
-
-This phrase closes a review response by inviting the guest to return. It shows confidence in the property's ability to deliver a better experience.
-
----
-
 ## Quiz
 
-**A guest leaves a negative review stating that their room was noisy. The management response reads: "We are sorry if you found the room unsatisfactory." What is wrong with this response?**
+**A guest leaves a 3-star review stating: "The room was dirtythere was hair in the bathroom when we arrived. Also the front desk staff were unfriendly." You check the room inspection records and confirm the bathroom was fully cleaned that morning. The front desk staff member involved has an excellent record with no previous complaints. How should the property respond?**
 
-- A. It does not mention the specific platform the review was left on
-- B. "If you found" implies the complaint may not be valid: it is not a genuine acknowledgement of the guest's experience
-- C. It is too short and should include more detail about the property's noise levels
-- D. Nothing: this is an appropriate and professional response
+- A. Thank the guest for the feedback and politely explain that the bathroom was verified as clean that morning, and that the front desk staff member has an excellent service recordto assure future readers the issue was isolated
+- B. Thank the guest, apologise sincerely for both issues, and state that retraining has been conducted with both housekeeping and front desk teams to prevent recurrence
+- C. Thank the guest, acknowledge the bathroom concern specifically ("We take cleanliness seriously and have reviewed this with our housekeeping team"), address the front desk concern ("We will reinforce warm and attentive service standards with our team"), and avoid disputing or fully accepting either claim
+- D. Respond privately to the guest requesting more details, and only post a public response after the facts have been fully clarified
 
-**Correct Answer:** "If you found" implies the complaint may not be valid: it is not a genuine acknowledgement of the guest's experience
+**Correct Answer:** C
 
-**Explanation:** "If you found" quietly suggests the guest's complaint might not be valid, which is the opposite of an apology. A proper acknowledgement names the issue plainly: "We are sorry your stay was affected by noise." Thousands of people reading that exchange will notice the difference between genuine ownership and a conditional non-apology.
+**Explanation:** This scenario requires the learner to weigh three competing concerns: accuracy (the bathroom was cleaned), guest perception (the guest's experience was real even if the cause is unclear), and public reputation (how the response reads to future guests). Option C handles this tension best: it takes both concerns seriously without lying about retraining (B), it does not argue with the guest or contradict their experience publicly (A), and it ensures a visible public response exists so the property does not appear indifferent (D). The response demonstrates ownership without false admissiona nuanced middle ground that protects both credibility and guest relations.

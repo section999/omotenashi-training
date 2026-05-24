@@ -34,7 +34,7 @@
       drop.innerHTML = '<div class="nav-search-empty">No results found</div>';
     } else {
       drop.innerHTML = results.map(function (item, i) {
-        var sub = item.sub ? ' — ' + esc(item.sub) : '';
+        var sub = item.sub ? '  ' + esc(item.sub) : '';
         return '<a class="nav-search-result" href="' + esc(resolveUrl(item.url)) + '"' +
                ' data-idx="' + i + '" role="option">' +
                '<strong>' + esc(item.title) + '</strong>' +

@@ -50,37 +50,15 @@ If the guest does express dissatisfaction, thank them. A guest who tells you the
 
 ---
 
-## Key Phrases
-
-**先読み**
-*Sakiyomi.*
-"Anticipation."
-
-Reading what a guest needs before they express it. Acting on what is observed rather than waiting to be asked is one of the highest principles of omotenashi.
-
-**何かご不便はございませんか？**
-*Nanika go-fuben wa gozaimasu ka?*
-"Is there anything that could be more comfortable for you?"
-
-The recommended proactive check-in when early dissatisfaction signals are detected. The phrasing is non-accusatory, face-saving, and invites honest feedback without pressure.
-
-**少々お時間をいただけますでしょうか。**
-*Shōshō o-jikan o itadakemasu deshō ka.*
-"May I have a moment with you?"
-
-A gentle approach phrase used at Stage 1 or early Stage 2 of dissatisfaction. It signals attentiveness without creating alarm or drawing attention from other guests.
-
----
-
 ## Quiz
 
-**A guest is sitting alone and has checked their watch three times in the last few minutes. What stage of dissatisfaction is this most likely?**
+**A guest has been seated in the restaurant for about 10 minutes. They checked their watch twice in the first few minutes, then stopped checking and are now sitting quietly, looking at the menu without turning pages. A server walks past their table twice without stopping. The guest does not call out. Which of the following best analyses this situation and the correct timing for intervention?**
 
-- A. Stage 3: they are about to complain loudly
-- B. Stage 1: minor irritation, early signal
-- C. No dissatisfaction: they are just waiting
-- D. Stage 2: too late to intervene
+- A. The guest stopped checking their watch, so the initial irritation has passed; no intervention is needed
+- B. The initial watch-checking was an early Stage 1 signal of irritation about the wait. The guest has now progressed into quiet disengagement (Stage 2): no longer actively signalling, not engaging with the menu, and not being acknowledged by passing staff. The server should approach calmly with a gentle check-in as soon as possible
+- C. The guest is simply taking their time with the menu; checking a watch twice is normal behaviour and does not indicate dissatisfaction
+- D. Since the guest has not called out or flagged down a server, they are not dissatisfied; approaching would be presumptuous
 
-**Correct Answer:** Stage 1: minor irritation, early signal
+**Correct Answer:** The initial watch-checking was an early Stage 1 signal of irritation about the wait. The guest has now progressed into quiet disengagement (Stage 2): no longer actively signalling, not engaging with the menu, and not being acknowledged by passing staff. The server should approach calmly with a gentle check-in as soon as possible
 
-**Explanation:** Repeatedly checking the time is a Stage 1 signal of minor irritation, most likely about a wait. At this stage the guest has not yet decided to complain or disengage, so a quiet, warm check-in can resolve the issue before it compounds. Calling it "no dissatisfaction" misses an early cue; calling it Stage 2 or 3 overstates it and makes intervention feel too urgent.
+**Explanation:** The lesson teaches that dissatisfaction builds in stages. The initial watch-checking (Stage 1) followed by silent inattention without turning pages, while staff walk past unacknowledged, indicates progression toward Stage 2. The fact that the guest stopped actively signalling does not mean the issue resolved; it more likely means they have moved from slight irritation to quiet disengagement. Options A and C both miss this progression. Option D places the burden on the guest to escalate, which contradicts the principle of anticipation (先読み). A proactive check-in at this point can still resolve the issue before it reaches Stage 3.

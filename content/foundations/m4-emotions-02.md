@@ -48,26 +48,15 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 
 ---
 
-## Key Phrases
-
-**デュシェンヌスマイル**
-*Dyushenu sumairu.*
-"The Duchenne smile."
-
-A genuine smile that involves the muscles around the eyes, not just the mouth. Named after the researcher who identified it. Learning to distinguish this from a polite social expression gives useful information about how a guest is actually feeling.
-
-**何かご不便はございませんか？**
-*Nanika go-fuben wa gozaimasu ka?*
-"Is there anything that could be more comfortable for you?"
-
-The recommended proactive check-in phrase when body language suggests discomfort. It is open-ended and face-saving, the guest can respond in any direction without feeling singled out.
-
----
-
 ## Quiz
 
-**A genuine smile always involves movement around the eyes, not just the mouth.**
+**A guest at the check-in counter smiles as you greet them, but the smile involves only their mouth and does not reach their eyes. Their brow is slightly furrowed as they look around the lobby, and they shift their weight from foot to foot. What is the most appropriate interpretation and omotenashi-aligned response?**
 
-**Answer:** True
+- A. The guest is happy to be here; proceed with a standard check-in and offer a room upgrade to make their stay even better
+- B. The guest is likely tired or disoriented after travel, based on the cluster of signals; offer to explain the check-in process step by step and check if they need anything after settling in
+- C. The guest seems impatient with the wait; speed through the check-in process to minimise any further annoyance
+- D. The guest is clearly dissatisfied with something visible; ask them directly what is wrong so the issue can be addressed immediately
 
-**Explanation:** A genuine smile (the Duchenne smile) activates the muscles around the eyes, causing the corners to crinkle and the lower lids to lift slightly. A smile that only moves the mouth is a polite social expression, not a sign of real comfort or satisfaction. Learning to tell them apart gives you a reliable window into how a guest is actually feeling, beyond what they say.
+**Correct Answer:** The guest is likely tired or disoriented after travel, based on the cluster of signals; offer to explain the check-in process step by step and check if they need anything after settling in
+
+**Explanation:** No single non-verbal signal is conclusive on its own. A mouth-only (non-Duchenne) smile paired with a furrowed brow and weight-shifting forms a cluster that more likely indicates fatigue or uncertainty than genuine satisfaction, impatience, or specific dissatisfaction. Option A misreads the social smile as genuine warmth. Option C projects impatience onto signals that more commonly indicate discomfort. Option D is too direct and risks making the guest defensive. The omotenashi-aligned response is to offer clarity and support without assuming the guest has a specific problem, letting them reveal their needs at their own pace.

@@ -44,31 +44,15 @@ The bow should feel like giving something, not performing a gesture.
 
 ---
 
-## Key Phrases
-
-**申し訳ございません。**
-*Mōshiwake gozaimasen.*
-"I am truly sorry / There is no excuse for this."
-
-This is the deepest formal apology in Japanese. It is the most important phrase in service recovery, and it is most effective when delivered slowly, sincerely, and with an appropriate bow.
-
-**ご不快をおかけしてしまい、大変失礼いたしました。**
-*Go-fukai wo o-kake shite shimai, taihen shitsurei itashimashita.*
-"I am deeply sorry for causing you discomfort."
-
-This is a more formal, elevated apology used in situations involving significant inconvenience or distress.
-
----
-
 ## Quiz
 
-**A guest's reservation was mishandled and they had to wait 45 minutes. After listening fully, what should be your first words?**
+**A guest's reservation was mishandled and they waited 45 minutes. After you listen fully to their experience, the guest is clearly frustrated. Your manager is standing nearby and signals to you to "resolve this quickly." Which of the following best balances the principles of a sincere apology with the pressure to resolve the situation efficiently?**
 
-- A. "Let me explain: the system was having issues today."
-- B. "Would you like a complimentary drink while we sort this out?"
-- C. "申し訳ございません: I am truly sorry. You waited far longer than is acceptable."
-- D. "This kind of thing almost never happens here."
+- A. Offer an immediate room upgrade and complimentary dinner; the manager wants a quick resolution and the guest deserves compensation
+- B. Deliver a sincere, specific apology first: "申し訳ございません. You waited 45 minutes after your journey. That is not acceptable." Let the apology land fully before moving to a solution. A genuine apology, even under pressure, is what makes any offer that follows feel like care rather than a transaction
+- C. Briefly apologise while walking the guest to their upgraded room, combining acknowledgement with action to satisfy both the guest and the manager
+- D. Briefly explain the system error so the guest understands it was not intentional, then offer compensation to close the situation quickly
 
-**Correct Answer:** "申し訳ございません: I am truly sorry. You waited far longer than is acceptable."
+**Correct Answer:** Deliver a sincere, specific apology first: "申し訳ございません. You waited 45 minutes after your journey. That is not acceptable." Let the apology land fully before moving to a solution. A genuine apology, even under pressure, is what makes any offer that follows feel like care rather than a transaction
 
-**Explanation:** A sincere, unconditional apology must come before anything else. Explaining the system error before apologising shifts attention to the establishment's circumstances rather than the guest's experience. Jumping straight to a drink offer skips acknowledgement entirely. Starting with 申し訳ございません, naming what the guest actually endured, is what allows them to feel respected rather than processed.
+**Explanation:** The lesson emphasises that an apology is not a transaction and must come before any solution. Rushing to compensation (A or C) skips the step that makes the guest feel genuinely heard; the apology risks feeling like a price paid to close the situation. Explaining the error (D) before apologising shifts focus to the establishment's circumstances. Option B respects both the guest's need to be heard and the practical need for resolution; a sincere apology delivered under pressure, rather than bypassed by it, demonstrates genuine professionalism.

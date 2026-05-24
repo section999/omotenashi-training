@@ -32,22 +32,6 @@ This reflection serves two purposes: it confirms your understanding of the issue
 
 ---
 
-## Key Phrases
-
-**おっしゃる通りでございます。**
-*Ossharu tōri de gozaimasu.*
-"That is exactly as you say / You are quite right."
-
-This phrase confirms that the guest's account has been heard and understood. It is used after listening to validate the guest's experience.
-
-**もう少し詳しくお聞かせいただけますでしょうか。**
-*Mō sukoshi kuwashiku o-kikase itadakemasu deshō ka?*
-"Could you please tell me a little more about that?"
-
-This phrase invites the guest to share more detail, showing genuine interest in fully understanding the situation.
-
----
-
 ## Quiz
 
 **A guest begins explaining their complaint about their meal. You realise after ten seconds that you already know the cause of the problem. What should you do?**

@@ -29,31 +29,15 @@ When interacting with a group of guests, distribute eye contact evenly. Consiste
 
 ---
 
-## Key Phrases
-
-**こちらでございます。**
-*Kochira de gozaimasu.*
-"It is this way."
-
-Said while using an open-palm gesture to indicate direction. This phrase is always paired with the correct hand gesture, never with a pointing finger.
-
-**何かご不明な点はございますか。**
-*Nanika go-fumei na ten wa gozaimasu ka.*
-"Is there anything that is unclear?"
-
-An open invitation used when a guest appears uncertain or hesitant. It creates space for the guest to ask questions without feeling that they are inconveniencing anyone.
-
----
-
 ## Quiz
 
-**A guest asks for directions to the elevator. What is the correct way to indicate the direction?**
+**A guest at the concierge desk asks where the garden is located. Your hands are full with documents you are organizing. What is the best way to respond?**
 
-- A. Point with the index finger toward the elevator
-- B. Nod in the direction and say "over there"
-- C. Extend an open hand, palm up, fingers together, toward the elevator
-- D. Lead the guest there without explanation
+- A. Nod your head in the garden's direction and say, "It is that way"
+- B. Set the documents down briefly, then extend an open hand with palm up and fingers together toward the garden
+- C. Point with your chin toward the garden to avoid using your hands
+- D. Ask the guest to follow you and lead them there in silence
 
-**Correct Answer:** Extend an open hand, palm up, fingers together, toward the elevator
+**Correct Answer:** Set the documents down briefly, then extend an open hand with palm up and fingers together toward the garden
 
-**Explanation:** Pointing with a single index finger is considered rude or aggressive across many hospitality contexts, and Japanese professional standards are particularly clear on this. The open hand with palm up and fingers together conveys direction in a way that is also respectful and unambiguous. A nod toward the elevator leaves the guest guessing, and walking them there without explanation removes their agency. The open-hand gesture gives clear, polite guidance while the guest remains in control of their own movement.
+**Explanation:** Using an open hand with palm up and fingers together is the correct, respectful way to indicate direction in Japanese hospitality. Even when your hands are occupied, taking a moment to set items down and gesture properly is worth the pauseit avoids the rudeness of pointing and the ambiguity of a nod or chin gesture. Leading in silence removes the guest's autonomy to choose their own path.

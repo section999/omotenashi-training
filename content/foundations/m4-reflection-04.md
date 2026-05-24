@@ -31,31 +31,15 @@ This module has covered the foundations of professional reflection: from hansei 
 
 ---
 
-## Key Phrases
-
-**精進**
-*Shōjin.*
-"Diligent practice."
-
-Devotion to the refinement of one's craft. A word used to encourage someone to continue developing their skills with discipline and sincerity, deeply embedded in Japanese cultural and professional life.
-
-**一期一会**
-*Ichi-go ichi-e.*
-"One time, one meeting."
-
-The Zen concept that every encounter is unique and will never occur again in exactly the same way. The foundation of the omotenashi mindset: treating each guest interaction as singular and irreplaceable.
-
----
-
 ## Quiz
 
-**What is the defining quality of the mastery mindset in hospitality?**
+**Two concierges have both worked at the hotel for five years and receive consistently positive guest feedback. Concierge A completes every request accurately and efficiently, follows all procedures correctly, and has never had a formal complaint. Concierge B also completes requests accurately, but on their own time, researched local temples to give more detailed recommendations, asked a senior colleague to observe their phone manner and give feedback, and keeps a notebook of one small thing to improve each shift. Which analysis best reflects the mastery mindset as taught in this lesson?**
 
-- A. Achieving the highest score on all formal assessments
-- B. Receiving recognition from senior management for excellent service
-- C. Remaining a genuine student of the craft: curious, humble, and continuously improving: regardless of experience level
-- D. Mastering all keigo forms and technical service procedures
+- A. Concierge A is the stronger professional: consistency and reliability are the highest form of professionalism in hospitality
+- B. Both are equally strong practitioners because both deliver excellent results; professional growth happens at different paces and neither approach is superior
+- C. Concierge B demonstrates the mastery mindset by actively pursuing growth beyond competence, while Concierge A maintains a competent but static level. The mastery mindset is defined by continued learning and curiosity, not by flawless performance
+- D. Concierge B's extra efforts suggest they lack efficiency during their shift and need additional practice to keep up with their workload
 
-**Correct Answer:** Remaining a genuine student of the craft: curious, humble, and continuously improving: regardless of experience level
+**Correct Answer:** Concierge B demonstrates the mastery mindset by actively pursuing growth beyond competence, while Concierge A maintains a competent but static level. The mastery mindset is defined by continued learning and curiosity, not by flawless performance
 
-**Explanation:** Assessment scores, management recognition, and technical skill are all real achievements, but none of them is the defining quality the question is asking about. What distinguishes the most admired hospitality professionals is not what they have achieved, but how they continue to show up: curious, humble, and genuinely interested in going deeper, regardless of how much experience they already carry. That orientation is the spirit of 精進.
+**Explanation:** The lesson defines the mastery mindset as remaining a student of the craft, regardless of experience level. Concierge B embodies curiosity (researching, seeking feedback, daily reflection), which are the behaviours the lesson identifies as central to mastery. Concierge A is competent and reliable, which are valuable, but the lesson specifically distinguishes competence from mastery. Option C captures this distinction accurately. Option D misreads growth-seeking behaviour as a sign of inadequacy, which contradicts the lesson's core message.

@@ -34,37 +34,15 @@ Once the guest has departed, conduct an internal review. Identify what failed, w
 
 ---
 
-## Key Phrases
-
-**この度は大変ご不便をおかけし、誠に申し訳ございませんでした。**
-*Kono tabi wa taihen go-fuben o okake shi, makoto ni mōshiwake gozaimasen deshita.*
-"We are deeply sorry for the significant inconvenience caused on this occasion."
-
-This is the full formal apology for a significant VIP service failure. It is delivered in person by a senior manager, not conveyed by phone or written message alone.
-
-**直ちに対処いたします。**
-*Tadachi ni taisho itashimasu.*
-"We will address this immediately."
-
-This commitment phrase follows directly after the apology. It signals urgency and prevents the guest from wondering what will happen next.
-
-**ご不便をお詫びする気持ちを込めて、こちらをご用意いたしました。**
-*Go-fuben o o-wabi suru kimochi o komete, kochira o go-yōi itashimashita.*
-"This is offered with our sincere apologies for the inconvenience."
-
-Used when presenting a recovery gesture. The phrasing connects the gesture to the specific failure rather than presenting it as a generic gift.
-
----
-
 ## Quiz
 
-**A VIP guest reports that their room was not prepared to the specifications agreed in advance. Who should respond, and how?**
+**A VIP guest's room is not ready at check-in due to an unexpected maintenance issue. The only immediately available room is one category lower than booked. However, a significant suite upgrade in the guest's booked category will be available starting tomorrow for the second night. The guest is visibly frustrated. What is the most appropriate response?**
 
-- A. The front desk agent who receives the complaint should handle it and send a written apology
-- B. A senior manager should respond in person: acknowledging, apologising, resolving, and following up
-- C. The housekeeping supervisor should re-prepare the room and leave a note of apology
-- D. The general manager should call the guest from the office to apologise
+- A. A senior manager apologises in person, explains the maintenance issue honestly, offers the lower-category room for tonight with a full upgrade to the suite tomorrow, and includes a meaningful personalised gesture such as complimentary dinner or spa credit
+- B. Upgrade the guest to the best available room immediately, regardless of category or suitability, to demonstrate that the property prioritises the guest's comfort above all else
+- C. Keep the guest comfortable in the lounge with complimentary drinks and snacks until the original room is repaired, even if it takes several hours
+- D. Offer the lower-category room at a discount on the total stay, but do not mention tomorrow's upgrade until maintenance confirms exact timing
 
-**Correct Answer:** A senior manager should respond in person: acknowledging, apologising, resolving, and following up
+**Correct Answer:** A
 
-**Explanation:** A significant failure at the VIP level demands a personal, senior response delivered face-to-face. A phone call or written apology lacks the sincerity and weight that the situation requires, and a housekeeping note signals the property did not take the failure seriously. The response must acknowledge the specific failure, apologise genuinely, resolve it, and follow up to confirm the guest is satisfied.
+**Explanation:** This recovery scenario requires weighing speed (the guest needs a room now), honesty (the original room has a genuine issue), gesture calibration (the offer must match the failure), and personalisation (knowing the guest's preferences). Option A best balances all these factors: the senior manager responds in person per VIP protocol, honest communication builds trust, the temporary downgrade is acknowledged and paired with a future upgrade showing the property is actively resolving the issue, and a personalised gesture demonstrates sincere apology. Option B may not be possible or appropriate and bypasses the need for a personal apology. Option C violates the speed imperativeVIP guests cannot wait hours. Option D withholds information about the planned upgrade, making the guest feel the property is not proactively managing the situation.

@@ -26,31 +26,15 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 
 ---
 
-## Key Phrases
-
-**鏡の前で確認しましょう。**
-*Kagami no mae de kakunin shimashō.*
-"Let's check in the mirror."
-
-This phrase refers to the mirror check principle, a brief review of personal presentation before any guest-facing shift begins.
-
-**清潔感**
-*Seiketsugan.*
-"The impression of cleanliness."
-
-This term describes the quality that a well-maintained uniform and neat appearance convey before a word is spoken. It is the visual signal that a property maintains its standards.
-
----
-
 ## Quiz
 
-**Why is strong perfume or cologne discouraged in hospitality environments, particularly in dining?**
+**A guest who is a food critic is dining alone in your restaurant, carefully examining each dish before tasting. During service, you notice your colleague is wearing noticeable cologne. The guest glances toward your colleague briefly. What is the primary concern, and what should you do?**
 
-- A. It is considered culturally inappropriate in Japan
-- B. It can interfere with the guest's experience of food aromas and may cause discomfort for sensitive guests
-- C. It conflicts with the scent of cleaning products used in the property
-- D. It is only discouraged in ryokan settings, not in hotels or restaurants
+- A. The guest might be allergic to the fragranceask your colleague to wash it off immediately
+- B. The fragrance may interfere with the guest's sensory experience of the food and winequietly mention the fragrance standard to your colleague after service
+- C. The colleague is violating the uniform policyreport them to the manager right away
+- D. The fragrance might cling to the table linensreplace the tablecloth after the guest leaves
 
-**Correct Answer:** It can interfere with the guest's experience of food aromas and may cause discomfort for sensitive guests
+**Correct Answer:** The fragrance may interfere with the guest's sensory experience of the food and winequietly mention the fragrance standard to your colleague after service
 
-**Explanation:** In a dining setting, the guest's sensory experience of food and wine is central to what they are paying for. Strong fragrance from a nearby staff member can genuinely disrupt that, either masking delicate aromas or triggering discomfort in guests with sensitivities. This is not a cultural rule specific to Japan or to ryokan settings; it applies wherever food is being served. Minimising fragrance is a practical act of care for the guest's experience.
+**Explanation:** In a dining setting, the guest's sensory experience of food is central to what they are paying for. Strong fragrance can mask delicate aromas or cause genuine discomfort. Addressing it discreetly after service gives the colleague the information without creating a scene that would itself distract guests. Minimising fragrance is a practical act of care for the guest's experience, not merely a rule.

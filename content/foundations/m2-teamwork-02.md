@@ -33,37 +33,15 @@ The structure may feel unfamiliar at first. Once its purpose becomes clear, it f
 
 ---
 
-## Key Phrases
-
-**先輩 / 後輩 (senpai / kōhai)**
-*Senpai / kōhai.*
-"Senior colleague / Junior colleague."
-
-The relationship of mentorship and learning in Japanese professional culture. The senpai guides; the kōhai observes, asks questions, and takes initiative.
-
-**上司 (jōshi)**
-*Jōshi.*
-"Direct superior or manager."
-
-The person to whom hōkoku (reporting) is directed. When reporting to a jōshi, communication should be direct, factual, and structured.
-
-**状況・対応・現状の順でご報告いたします。**
-*Jōkyō, taiō, genjō no jun de go-hōkoku itashimasu.*
-"I will report in order: the situation, the action taken, and the current status."
-
-The recommended structure for clear, direct reporting to a superior. Presenting information in this order helps the listener understand what happened, what was done, and what the current position is.
-
----
-
 ## Quiz
 
-**A junior staff member disagrees with how a senior colleague handled a guest complaint. What is the appropriate course of action?**
+**A junior staff member observes a senior colleague handling a complaint from a VIP guest about noise from a nearby function room. The senior colleague apologises but does not offer to move the guest to a quieter room, even though quieter rooms are available. The junior staff member believes this solution was inadequate and that the guest left visibly dissatisfied. Multiple factors must be weighed. What is the most professional course of action?**
 
-- A. Correct the senior colleague immediately in front of the guest to show the guest the correct procedure
-- B. Do nothing: junior staff should not comment on senior decisions
-- C. Raise the concern privately with the senior colleague or manager after the guest interaction has concluded
-- D. Report the incident directly to the general manager, bypassing the senior colleague
+- A. Step in immediately and offer the guest a room change to resolve the issue on the spot
+- B. Report the senior colleague's mistake directly to the general manager after the guest leaves
+- C. After the guest interaction concludes, privately raise the concern with the senior colleague, respectfully sharing the observation about the available quieter rooms. If the senior disagrees with the assessment, escalate the matter through proper channels to a manager
+- D. Do nothingthe senior colleague has more experience and their judgment should be trusted
 
-**Correct Answer:** Raise the concern privately with the senior colleague or manager after the guest interaction has concluded
+**Correct Answer:** After the guest interaction concludes, privately raise the concern with the senior colleague, respectfully sharing the observation about the available quieter rooms. If the senior disagrees with the assessment, escalate the matter through proper channels to a manager
 
-**Explanation:** Correcting a colleague in front of a guest damages both the guest's experience and staff trust in one move. Staying silent entirely ignores a real problem. Going straight to the general manager bypasses the proper channel. Raising the concern privately with the senior colleague or manager, after the guest interaction is over, addresses the issue through the right structure without creating visible conflict.
+**Explanation:** This situation has multiple dimensions. Correcting a colleague in front of a guest damages both the guest's experience and team trust. Ignoring the problem entirely risks the guest's dissatisfaction going unaddressed. Bypassing the senior to go directly to the general manager violates the hierarchy structure and damages working relationships. The correct approach starts with the senpai–kōhai relationship: raise it privately and respectfully, giving the senior the opportunity to reflect. If the concern is dismissed and the pattern continues, escalation through proper channels is then appropriate.

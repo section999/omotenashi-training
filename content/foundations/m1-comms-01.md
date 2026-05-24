@@ -40,28 +40,6 @@ This skill cannot be scripted. It develops through genuine interest in the peopl
 
 ---
 
-## Key Phrases
-
-**お急ぎでしょうか？**
-*O-isogi deshō ka?*
-"Are you in a hurry?"
-
-Asked gently when a guest seems rushed, so that you can adjust your service accordingly. It also signals that you have noticed their pace and are ready to adapt.
-
-**ごゆっくりどうぞ。**
-*Goyukkuri dōzo.*
-"Please take your time."
-
-Said to a guest who seems stressed or in a hurry, as an invitation to slow down. Also appropriate when a guest has just sat down and you are not yet approaching.
-
-**何かお力になれることがあれば、おっしゃってください。**
-*Nanika o-chikara ni nareru koto ga areba, osshatte kudasai.*
-"If there is anything I can help with, please do say."
-
-A gentle, open offer made without pressure, appropriate when a guest seems uncertain or hesitant.
-
----
-
 ## Quiz
 
 **A guest arrives at the front desk. They respond to your greeting with a brief "yes" and immediately slide their passport across without making eye contact. What does this communicate, and what is the appropriate response?**

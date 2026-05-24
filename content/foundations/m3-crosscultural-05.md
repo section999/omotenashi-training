@@ -32,37 +32,15 @@ It is acceptable, and more professional, to say "I am not certain, let me find o
 
 ---
 
-## Key Phrases
-
-**文化の違いからくるものかと存じます。**
-*Bunka no chigai kara kuru mono ka to zonjimasu.*
-"I believe this may come from a difference in cultural practice."
-
-An internal framing phrase that guides the charitable interpretation mindset before approaching a guest about behaviour that conflicts with local norms.
-
-**こちらでは○○をお願いしております。お分かりいただけますと幸いでございます。**
-*Kochira de wa ○○ o o-negai shite orimasu. O-wakari itadakemasu to saiwai de gozaimasu.*
-"In our property, we ask that ○○. We would be grateful for your understanding."
-
-A warm, non-judgmental way to explain a house rule to a guest from a different cultural background.
-
-**よろしければ、こちらをお試しいただけますか。**
-*Yoroshikereba, kochira o o-tameshi itadakemasu ka.*
-"Would you be willing to try this?"
-
-This phrase offers an alternative after a cultural conflict, giving the guest a way forward without confrontation.
-
----
-
 ## Quiz
 
-**A guest is speaking very loudly on a phone call in the lobby, disturbing other guests. Before approaching them, what should the hospitality professional consider?**
+**A guest from a culture where assertive bargaining is normal is loudly arguing with the front desk about the room rate at check-in, insisting they were quoted a lower price. Other guests in the lobby are watching. The rate on the booking confirmation matches the current charge. What is the most appropriate approach?**
 
-- A. Whether the guest is important enough to confront
-- B. Whether the behaviour may be culturally normal for the guest, and how to approach the conversation with that in mind
-- C. Whether the other disturbed guests will complain formally
-- D. Whether to ask security to handle it
+- A. Show the guest their signed booking confirmation and politely but firmly state that the rate cannot be changed
+- B. Lower the rate slightly to resolve the situation quickly and avoid further disturbance to other guests, even if the original rate is correct
+- C. Calmly acknowledge the guest's frustration, explain that you will review the records carefully, and invite them to sit in a more private area to discuss it away from other guests
+- D. Apologise that there has been a misunderstanding and offer a complimentary beverage or small service as a goodwill gesture while maintaining the rate
 
-**Correct Answer:** Whether the behaviour may be culturally normal for the guest, and how to approach the conversation with that in mind
+**Correct Answer:** C
 
-**Explanation:** Before approaching any guest about behaviour that seems disruptive, asking whether it might simply be culturally normal changes everything about how you enter the conversation. A guest who speaks loudly on the phone may be doing exactly what people do in their home country. Approaching with that assumption in mind makes for a warmer, more effective exchange than walking over to correct someone.
+**Explanation:** This scenario requires weighing four competing considerations: the guest's cultural norm (assertive bargaining as a communication style), the accuracy of the booking record, the disturbance to other guests, and the property's integrity. Option C is the most appropriate because it applies the principle of charitable interpretation (the guest may genuinely believe a different price was quoted), moves the conversation away from an audience (protecting other guests' experience and the guest's dignity), and leaves the rate question open for resolution rather than either conceding unfairly (B) or escalating the confrontation (A). Option D avoids the immediate conflict but sidesteps the issue without offering a path to resolution, leaving the guest feeling unheard.

@@ -34,37 +34,15 @@ Knowing your property's water type and describing its properties clearly and con
 
 ---
 
-## Key Phrases
-
-**温泉 (onsen)**
-*Onsen.*
-"Hot spring."
-
-The term refers specifically to a natural hot spring bath, distinct from a regular bath (*furoba*). Understanding this distinction helps when speaking with guests about the property's facilities.
-
-**湯治 (tōji)**
-*Tōji.*
-"Extended therapeutic soaking."
-
-The historical practice of bathing repeatedly over days or weeks for medicinal benefit. This tradition is the foundation of the restorative reputation that onsen carry today.
-
-**こちらの温泉は○○泉でございます。○○に効果があると言われております。**
-*Kochira no onsen wa ○○-sen de gozaimasu. ○○ ni kōka ga aru to iwarete orimasu.*
-"Our hot spring is a ○○ spring. It is said to be effective for ○○."
-
-The recommended template for explaining a spring's water type to guests. Filling in the details accurately and confidently communicates genuine knowledge of the property.
-
----
-
 ## Quiz
 
-**What is tōji (湯治) in the context of onsen culture?**
+**A Japanese guest asks at the front desk: "What kind of spring is this onsen? I have joint pain and was hoping for something that might help." The property's onsen is a sodium chloride spring. What is the most appropriate response?**
 
-- A. The correct bathing sequence for newcomers to onsen
-- B. Extended therapeutic soaking at a hot spring, traditionally lasting days or weeks
-- C. A type of mineral water found only in Kyushu springs
-- D. The ritual of entering the bath at a specific temperature
+- A. "It is a simple thermal spring, which is good for general relaxation. I am sure you will find it soothing."
+- B. "Our onsen is a sodium chloride spring. In the tradition of tōji (therapeutic bathing), this water type is known for its warming properties and is traditionally recommended for joint pain. Would you like me to share more about the history of the spring?"
+- C. "It is a bicarbonate spring, often called a 'beauty bath' for its skin-softening effects. Many guests find it very refreshing."
+- D. "All our hot spring water comes from a natural source deep underground. It is very clean and popular with our guests."
 
-**Correct Answer:** Extended therapeutic soaking at a hot spring, traditionally lasting days or weeks
+**Correct Answer:** B
 
-**Explanation:** Tōji is the practice of extended, repeated bathing at a hot spring over days or weeks, specifically for its therapeutic effects. Understanding this history explains why many Japanese guests approach onsen with a mindset that is medicinal rather than recreational, and why the concept carries cultural weight well beyond a hotel amenity. The other options describe either bathing steps or water types, which are separate topics.
+**Explanation:** The guest has a specific therapeutic goal (joint pain) and asks about spring type, a common question from Japanese guests familiar with onsen culture. Option B correctly identifies the sodium chloride spring, accurately describes its warming and joint-pain benefits, and connects the answer to the tōji tradition, demonstrating genuine knowledge. Option A gives an incorrect water type. Option C is also incorrect. Option D provides a vague answer that fails to address the guest's specific concern about therapeutic benefit.

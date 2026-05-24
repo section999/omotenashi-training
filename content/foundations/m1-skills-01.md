@@ -29,28 +29,6 @@ A dietary restriction that stays only in the reservation system and never reache
 
 ---
 
-## Key Phrases
-
-**ご到着をお待ちしておりました。**
-*Go-tōchaku wo o-machi shite orimashita.*
-"We have been looking forward to your arrival."
-
-This is the ideal check-in greeting for an expected guest. It communicates that their arrival was anticipated and prepared for, not simply processed when it occurred.
-
-**○○様のご要望に合わせてご準備いたしました。**
-*○○-sama no go-yōbō ni awasete go-junbi itashimashita.*
-"We prepared this in accordance with your wishes."
-
-Used to highlight a personalised preparation. Referencing the guest by name makes it feel specific to them rather than standard.
-
-**何かご不便がございましたら、遠慮なくお申し付けください。**
-*Nanika go-fuben ga gozaimashitara, enryo naku o-mōshitsuke kudasai.*
-"If anything is inconvenient, please don't hesitate to let us know."
-
-This is the natural closing phrase of a room introduction. It invites the guest to communicate any needs without feeling like a burden.
-
----
-
 ## Quiz
 
 **A guest is arriving this evening. In their profile: they prefer a high floor, they have a nut allergy, and the booking note says "honeymoon." What preparation steps should happen before they arrive?**

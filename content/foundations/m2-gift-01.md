@@ -25,37 +25,15 @@ Guests participating in these customs will often look to staff for guidance, whe
 
 ---
 
-## Key Phrases
-
-**贈答**
-*Zōtō.*
-"Gift-giving."
-
-The formal term for the structured social practice of giving and receiving gifts in Japanese culture.
-
-**義理**
-*Giri.*
-"Social duty; obligation."
-
-The underlying motivation for many gift exchanges. Giri reflects a sense of responsibility for maintaining relationships rather than a desire for personal gain.
-
-**お中元 / お歳暮**
-*Ochugen / Oseibo.*
-"Mid-year gift / Year-end gift."
-
-The two principal gift-giving seasons in Japan. Ochugen falls in July and oseibo in December.
-
----
-
 ## Quiz
 
-**What is giri (義理) in the context of Japanese gift-giving?**
+**A Japanese business guest is browsing your hotel's gift shop before heading home. They seem anxious and say, "I've been on a business trip for a week and need to bring something back for my team. I'm not sure what's appropriate." Which concept best explains their underlying concern?**
 
-- A. The wrapping paper style used for formal gifts
-- B. A sense of social duty or obligation that motivates gift-giving
-- C. The seasonal window during which gifts can be sent
-- D. A type of souvenir sold only in Tokyo
+- A. They want to impress their boss with the most expensive item available
+- B. They feel a sense of girisocial dutyto acknowledge their team and affirm the relationship by bringing gifts from their travels
+- C. They are worried about exceeding their luggage weight limit
+- D. They want a gift that reflects the latest seasonal trends
 
-**Correct Answer:** A sense of social duty or obligation that motivates gift-giving
+**Correct Answer:** They feel a sense of girisocial dutyto acknowledge their team and affirm the relationship by bringing gifts from their travels
 
-**Explanation:** Giri is the sense of social duty that underlies most Japanese gift-giving. A gift expresses that you acknowledge the relationship and feel responsible for maintaining it, which is why the other options miss the point: giri is about obligation and connection, not wrapping styles, seasonal timing, or specific products.
+**Explanation:** Giri is the sense of social duty that motivates gift-giving in Japanese culture. Returning from a trip without omiyage for colleagues carries genuine social weight. The guest's anxiety about choosing something appropriate reflects this sense of obligation to maintain workplace relationshipsnot mere materialism, logistics, or fashion concerns.

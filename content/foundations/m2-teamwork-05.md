@@ -29,37 +29,15 @@ A team culture where surfacing bad news is treated as responsible rather than pu
 
 ---
 
-## Key Phrases
-
-**申し送り (mōshiokuri)**
-*Mōshiokuri.*
-"Shift briefing."
-
-The formal transfer of guest status, open issues, and operational notes from the outgoing to the incoming team. A complete mōshiokuri ensures the incoming team can deliver continuity of care from the first moment of their shift.
-
-**○○号室のお客様はチェックアウトが遅れる予定でございます。**
-*○○-gōshitsu no o-kyakusama wa chekku-auto ga okureru yotei de gozaimasu.*
-"The guest in room ○○ is expected to check out late."
-
-An example of the clear, factual format recommended for shift notes. It identifies the guest by room, states the relevant fact, and gives the incoming team exactly the information they need to act.
-
-**引き続きよろしくお願いいたします。**
-*Hikitsuzuki yoroshiku o-negai itashimasu.*
-"I leave the rest in your capable hands."
-
-The standard closing phrase when completing a verbal shift handover to an incoming colleague. It acknowledges the transition respectfully and signals that the briefing is complete.
-
----
-
 ## Quiz
 
-**What is the primary risk of a poor shift handover in hospitality?**
+**You are starting the evening front desk shift. The morning shift's written notes say only: "Some guests had issues this morning. Check the system for details." When you ask the outgoing staff member for specifics, they shrug and say, "I cannot remember exactlyit was a busy morning." What is the core problem here, and what should have been done differently?**
 
-- A. Staff become tired from having to repeat information
-- B. Information about guest needs, preferences, and issues disappears between shifts, causing service gaps
-- C. The incoming team is slower to start work
-- D. Guests notice that different staff work at different times of day
+- A. The morning shift was too lazy to write proper notesthey should be reported to management
+- B. The shift notes lack specific, actionable information about guest issues, so the incoming team cannot provide continuity of care. Each issue should have been recorded with the guest's room number, the nature of the problem, and any action taken or needed
+- C. The system should automatically log all guest complaintsthe morning team should not need to write manual notes
+- D. The morning shift should have stayed later to personally brief the evening team
 
-**Correct Answer:** Information about guest needs, preferences, and issues disappears between shifts, causing service gaps
+**Correct Answer:** The shift notes lack specific, actionable information about guest issues, so the incoming team cannot provide continuity of care. Each issue should have been recorded with the guest's room number, the nature of the problem, and any action taken or needed
 
-**Explanation:** A guest's stay does not pause when the team changes. If the incoming staff don't know who made a complaint, who has a special request, or who is checking out late, they cannot deliver continuity of care. The guest who experiences that gap doesn't know about shift changes; they just know they weren't remembered.
+**Explanation:** A guest's stay does not pause when the team changes. Vague notes like "some guests had issues" are useless to the incoming teamthey do not know which guests were affected, what the issues were, or what follow-up is needed. Shift notes must be clear, factual, and specific: who, what happened, what was done. Without that, care gaps are inevitable. The guest experiencing the gap does not know about shift changes; they just know they were not remembered.

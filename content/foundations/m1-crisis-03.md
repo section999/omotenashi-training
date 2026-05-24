@@ -54,22 +54,6 @@ When front-line staff know they have both the authority and the support to make 
 
 ---
 
-## Key Phrases
-
-**ただいまマネージャーにおつなぎいたします。少々お待ちいただけますでしょうか。**
-*Tadaima manējā ni o-tsunagi itashimasu. Shōshō o-machi itadakemasu deshō ka.*
-"I will connect you with the manager now. Would you mind waiting just a moment?"
-
-This phrase handles the escalation with minimal friction. It is polite, clear, and avoids making the guest feel passed on without explanation.
-
-**これまでの状況は、すでにマネージャーに詳しくお伝えしておりますので、改めてご説明いただく必要はございません。**
-*Koremade no jōkyō wa, sudeni manējā ni kuwashiku o-tsutae shite orimasu no de, あらためて go-setsumei itadaku hitsuyō wa gozaimasen.*
-"I have already briefed the manager in full, so there is no need for you to explain everything again."
-
-This assurance completes a well-briefed escalation. It tells the guest that their situation was taken seriously and that they will not need to repeat themselves.
-
----
-
 ## Quiz
 
 **A guest is complaining about noise from a neighbouring room. You have offered to move them to a different room and they are considering it. They have not asked for a manager. At what point, if any, should you escalate?**

@@ -35,31 +35,15 @@ Ma cannot be taught as a technique. It must be cultivated as a sensitivity, an a
 
 ---
 
-## Key Phrases
-
-**間**
-*Ma.*
-"Meaningful pause."
-
-The conscious use of space and silence in communication and service. The deliberate interval between moments that communicates presence and unhurried care.
-
-**ごゆっくりどうぞ。**
-*Go-yukkuri dōzo.*
-"Please take your time."
-
-An expression of ma in action, signalling to the guest that there is no rush and that this moment belongs to them.
-
----
-
 ## Quiz
 
-**What is the best description of ma (間) in hospitality?**
+**A guest is studying the dinner menu and seems uncertain. They open their mouth as if to ask a question, then look back down at the menu. A staff member is standing nearby, ready to help. Which of the following approaches best demonstrates an understanding of ma (間)?**
 
-- A. An awkward pause caused by not knowing what to say
-- B. Intentional, meaningful space that communicates presence and care
-- C. A Japanese technique for avoiding eye contact
-- D. A signal that the staff member is about to leave
+- A. Step forward immediately and ask: "Do you have any questions about the menu?" to show you are attentive and ready to assist
+- B. Maintain a respectful, unhurried presence at a slight distance, giving the guest space to process. If the guest looks up and makes eye contact, then step forward with a smile
+- C. Give the guest complete privacy by moving to the other side of the restaurant and only return when they signal
+- D. Approach and say "Please take your time," then remain standing at the table with a pleasant expression, waiting for their question
 
-**Correct Answer:** Intentional, meaningful space that communicates presence and care
+**Correct Answer:** Maintain a respectful, unhurried presence at a slight distance, giving the guest space to process. If the guest looks up and makes eye contact, then step forward with a smile
 
-**Explanation:** Ma is not what happens when you have nothing to say; it is what you choose when the moment calls for space rather than words or movement. An awkward pause signals uncertainty, a technique for avoiding eye contact makes no sense, and a cue that you are leaving misreads it entirely. Intentional, chosen space communicates presence and unhurried care in a way that words often cannot.
+**Explanation:** Ma is intentional, meaningful space that communicates presence without pressure. Option B demonstrates this: the staff member is visibly available but does not interrupt the guest's thinking process. Option A fills the silence immediately, which disrupts the guest's natural mental rhythm and may rush them. Option C removes presence entirely, which abandons the guest rather than supporting them. Option D uses the right words but the action of standing and waiting creates subtle pressure, which is the opposite of what ma intends to create.

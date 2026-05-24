@@ -1,7 +1,7 @@
 {
   "name": "Omotenashi Training",
   "short_name": "Omotenashi",
-  "description": "Interactive Japanese hospitality training — lessons, quizzes, vocabulary, and simulator scenarios.",
+  "description": "Interactive Japanese hospitality training - lessons, quizzes, vocabulary, and simulator scenarios.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

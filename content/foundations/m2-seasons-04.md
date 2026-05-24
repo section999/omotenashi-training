@@ -36,31 +36,15 @@ Recommending leaf-viewing spots (*momiji-gari* destinations) adds genuine local 
 
 ---
 
-## Key Phrases
-
-**日に日に秋らしくなってまいりました。**
-*Hi ni hi ni aki rashiku natte mairimashita.*
-"Day by day it becomes more and more autumnal."
-
-A natural and evocative autumn greeting. It opens conversations by inviting the guest to share in the feeling of the season changing around them.
-
-**秋の深まりとともに、皆様のご来館を心よりお待ちしております。**
-*Aki no fukamari to tomo ni, minasama no go-raikan wo kokoro yori o-machi shite orimasu.*
-"As autumn deepens, we sincerely await your visit."
-
-A formal autumn phrase suitable for written correspondence and pre-arrival communication. It connects the guest's upcoming visit to the mood of the season.
-
----
-
 ## Quiz
 
-**What is shinmai (新米), and why is it significant in autumn hospitality?**
+**A guest at your ryokan comments on how fragrant and delicious the rice is with their meal. They ask, "Is this a special kind of rice?" Your kitchen is using freshly harvested autumn rice. What do you say to explain its significance?**
 
-- A. A type of autumn mushroom unique to Japanese cuisine
-- B. The freshly harvested rice of the season: fragrant, soft, and considered the year's finest
-- C. A traditional autumn greeting exchanged at check-in
-- D. The name for autumn table linen arrangements
+- A. "It is the same rice we serve year-round, but our chef prepares it differently in autumn to bring out more flavour."
+- B. "This is shinmainew rice from this autumn's harvest. It is at its peak fragrance and moisture content right now. In Japan, the first rice of the season is considered a special delicacy and is one of the most meaningful seasonal touches we can offer."
+- C. "It is locally grown, but I am not sure of the specific variety. Would you like me to ask the chef?"
+- D. "It is a premium brand we import especially for our restaurant. I am glad you enjoy it."
 
-**Correct Answer:** The freshly harvested rice of the season: fragrant, soft, and considered the year's finest
+**Correct Answer:** "This is shinmainew rice from this autumn's harvest. It is at its peak fragrance and moisture content right now. In Japan, the first rice of the season is considered a special delicacy and is one of the most meaningful seasonal touches we can offer."
 
-**Explanation:** Shinmai, literally "new rice," is the freshly harvested rice of the autumn season, prized for its fragrance and soft texture. Offering it is a shun gesture: you are serving the ingredient at its very best. It is not a mushroom, a greeting, or a linen arrangement; it is one of the most quietly meaningful seasonal touches you can bring to the autumn table.
+**Explanation:** Shinmai, literally "new rice," is the freshly harvested rice of the autumn season. It is a shun ingredientserved at its peak. Explaining this to the guest turns a simple meal into a culturally rich experience. The other options either provide incorrect information, defer to the chef unnecessarily, or invent a foreign origin story that misses the seasonal significance.

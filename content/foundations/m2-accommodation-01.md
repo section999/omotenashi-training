@@ -24,33 +24,15 @@ Western-style rooms follow international conventions, but a good Japanese proper
 
 Staff who understand how these rooms are designed can explain them to curious guests, handle misuse tactfully, and maintain the space with the care it deserves. Knowing the purpose behind each element makes it possible to serve the space well and to share its meaning naturally.
 
----
-
-## Key Phrases
-
-**お部屋にご案内いたします。**
-*O-heya ni go-annai itashimasu.*
-"I will show you to your room."
-
-Used when beginning to escort a guest toward their room. It signals attentiveness and sets the tone for the room orientation that follows.
-
-**ごゆっくりおくつろぎください。**
-*Goyukkuri o-kutsurogikudasai.*
-"Please relax fully at your leisure."
-
-Offered after the room orientation is complete. It invites the guest to settle in and signals that the staff member is withdrawing respectfully.
-
----
-
 ## Quiz
 
-**What is the tokonoma (床の間), and how should it be treated?**
+**A guest staying in a washitsu calls the front desk and asks, "Would it be all right if I set my camera on the shelf inside the alcove to take a photo of the room?" What should you say?**
 
-- A. A storage closet for futon: it should be kept clear for folded bedding
-- B. A decorative alcove with a scroll and seasonal arrangement: nothing should be placed inside it
-- C. A low dining table used during evening meals in the room
-- D. The entrance area where shoes are removed before entering the tatami room
+- A. "Of course, take your time."
+- B. "I'm sorry, but that alcove is the tokonomait is for display only. Nothing should be placed inside it. May I suggest using the chabudai table instead?"
+- C. "Yes, but please be careful not to damage the scroll."
+- D. "I will ask housekeeping to move the flower arrangement so you have more room."
 
-**Correct Answer:** A decorative alcove with a scroll and seasonal arrangement: nothing should be placed inside it
+**Correct Answer:** "I'm sorry, but that alcove is the tokonomait is for display only. Nothing should be placed inside it. May I suggest using the chabudai table instead?"
 
-**Explanation:** The tokonoma is the room's spiritual and aesthetic centre, holding a single chosen scroll and seasonal arrangement that set the tone of the entire space. It is not storage, a dining surface, or an entryway; placing anything inside it disrupts that intentionality and shows a misunderstanding of the room's design. Staff who know what it is and why it matters can both maintain it correctly and explain it naturally to curious guests.
+**Explanation:** The tokonoma is the spiritual and aesthetic focal point of the washitsu. Placing personal items inside it disrupts its intentional, curated quality. Offering the chabudai as an alternative preserves the guest's experience while respecting the room's design. Allowing the camera on the tokonoma shelf, moving the arrangement, or giving blanket permission would all miss the cultural significance of the space.

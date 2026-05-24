@@ -44,28 +44,6 @@ This phrase, delivered with a sincere bow, carries considerable weight in Japane
 
 ---
 
-## Key Phrases
-
-**大変申し訳ございません。○○の件で、大変なご不便とご不快をおかけいたしました。**
-*Taihen mōshiwake gozaimasen. ○○ no ken de, taihen na go-fuben to go-fukai wo o-kake itashimashita.*
-"I am deeply sorry. We have caused you great inconvenience and discomfort with the matter of ○○."
-
-This is the core apology phrase, made specific by naming the issue in place of ○○. It meets all four qualities of a sincere apology: it names the issue, is unconditional, acknowledges the impact on the guest, and sets the stage for immediate action.
-
-**私どもの対応が不十分でございました。誠に申し訳ございません。**
-*Watakushidomo no taiō ga fujūbun de gozaimashita. Makoto ni mōshiwake gozaimasen.*
-"Our response was inadequate. I sincerely apologise."
-
-This phrase is used when the failure was in the handling of a situation, not just the situation itself, for example, when a complaint was not followed up on, or when a guest had to ask more than once.
-
-**これからは、このようなことが二度と起きないよう、再発防止に努めてまいります。**
-*Korekara wa, kono yō na koto ga nido to okinai yō, saihatsu bōshi ni tsutomete mairimasu.*
-"Going forward, we will work to ensure this does not happen again."
-
-This is the commitment to systemic improvement. It completes the apology cycle by showing the guest that the situation will not simply be resolved for them alone, but addressed at a broader level.
-
----
-
 ## Quiz
 
 **A guest is upset because their room was not ready at the promised time. Which of the following is the most sincere apology?**

@@ -30,37 +30,15 @@ Western guests, particularly from North America, may find standard Japanese room
 
 ---
 
-## Key Phrases
-
-**お気持ちだけで十分でございます。**
-*O-kimochi dake de jūbun de gozaimasu.*
-"Your kind thought alone is more than enough."
-
-The gracious, warm refusal of a tip. This phrase acknowledges the guest's intention without making them feel embarrassed.
-
-**ご厚意に心より感謝申し上げます。**
-*Go-kōi ni kokoro yori kansha mōshiagemasu.*
-"I am sincerely grateful for your generosity."
-
-This expression conveys genuine appreciation before or alongside declining a tip, ensuring the guest feels their gesture was received warmly, not dismissed.
-
-**ご不明な点やご希望がございましたら、遠慮なくお申し付けください。**
-*Go-fumei na ten ya go-kibō ga gozaimashitara, enryo naku o-mōshitsuke kudasai.*
-"Please do not hesitate to let us know if you have any questions or preferences."
-
-A broadly applicable phrase for guests who tend toward direct communication. It invites them to ask without filtering.
-
----
-
 ## Quiz
 
-**A Western guest attempts to tip a staff member in cash after excellent service. What is the correct response?**
+**A Western guest insists on tipping a staff member ¥5,000 after dinner, saying: "I know it is not the custom here, but this was exceptional service and I want you to have this." The property has a strict no-tipping policy, and accepting could result in disciplinary action. The guest seems genuinely insistent and appears to expect the staff member to accept. What is the most appropriate response?**
 
-- A. Accept the tip quietly: refusing will embarrass the guest
-- B. Accept it and donate it to a staff fund later
-- C. Decline graciously and explain that the guest's satisfaction is the only reward sought
-- D. Refuse firmly and explain that tipping is illegal in Japan
+- A. Accept the money discreetly to avoid embarrassing the guest, and say nothing to management
+- B. Decline warmly a second time, saying: "Your kind words mean more than any gift. Please enjoy the rest of your eveningknowing you were happy is all we need." If the guest continues to insist, offer to donate the amount to a local charity on their behalf
+- C. Accept the tip and explain that it will be shared among the team, as this is common practice in many hotels
+- D. Take the money politely and return it later by sliding it under the guest's door with a note explaining the policy
 
-**Correct Answer:** Decline graciously and explain that the guest's satisfaction is the only reward sought
+**Correct Answer:** B
 
-**Explanation:** In Japan, tipping is not customary and in many properties accepting one is against policy. The guest's intention is kind, so the decline must be warm, not stiff or apologetic. A gracious refusal that acknowledges their generosity leaves them feeling good about the gesture rather than embarrassed; pocketing it silently or donating it without explanation would be dishonest.
+**Explanation:** This scenario weighs multiple competing considerations: the guest's cultural expectation of tipping, the property's strict policy, the staff member's personal risk, and the importance of making the guest feel their gesture was valued. Option B acknowledges the guest's generosity warmly (preserving their positive feeling), states the policy without being confrontational, and offers a graceful alternative (charity donation) if the guest insiststurning a potential awkward moment into a meaningful connection. Option A violates policy and puts the staff member at risk. Option C is dishonest if the policy prohibits acceptance. Option D risks embarrassing the guest further and feels passive-aggressive rather than warm.

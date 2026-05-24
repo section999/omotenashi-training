@@ -30,31 +30,15 @@ A farewell that shows the guest was remembered, not just processed, is the signa
 
 ---
 
-## Key Phrases
-
-**このたびはご滞在いただきまして、誠にありがとうございました。**
-*Kono tabi wa go-taizai itadakimashite, makoto ni arigatō gozaimashita.*
-"Thank you sincerely for staying with us."
-
-This is the first thing spoken at check-out, before any billing or paperwork. It places the person ahead of the transaction and closes the stay with genuine gratitude.
-
-**どうぞ道中お気をつけて。またのお越しをお待ちしております。**
-*Dōzo michichū o-ki wo tsukete. Mata no o-koshi wo o-machi shite orimasu.*
-"Please take care on your journey. We look forward to welcoming you again."
-
-Used at the final farewell. It expresses both care for the guest's onward journey and a sincere invitation to return.
-
----
-
 ## Quiz
 
-**What is osenderi (お見送り), and why does it matter?**
+**A guest is checking out after a five-day stay. As you accompany them to the entrance, another guest approaches the front desk with an urgent question. You are the only staff member at the front. What should you do?**
 
-- A. The welcome greeting performed when a guest first arrives at the property
-- B. The formal farewell: accompanying the guest to the exit and remaining until they are out of sight
-- C. A written thank-you note sent after the guest's departure
-- D. The process of returning a guest's luggage to them at check-out
+- A. Quickly hand the departing guest their luggage, apologise, and return to assist the new guest
+- B. Politely ask the departing guest to wait while you handle the new guest's question
+- C. Signal to the new guest that you have seen them, then stay with the departing guest for the full osōkuriremaining until their vehicle is out of sight
+- D. Tell the departing guest, "Please wait a moment," handle the new guest quickly, then return for the farewell
 
-**Correct Answer:** The formal farewell: accompanying the guest to the exit and remaining until they are out of sight
+**Correct Answer:** Signal to the new guest that you have seen them, then stay with the departing guest for the full osōkuriremaining until their vehicle is out of sight
 
-**Explanation:** Osenderi is the send-off, accompanying the guest to the exit and remaining there, bowing, until they are out of sight. It is the final act of the stay, and it communicates that the guest's leaving matters to the staff, not just their arriving. A written note sent afterward, or a simple return of luggage, would be kind gestures but do not carry the same meaning as being physically present at the moment of departure.
+**Explanation:** Osōkuri is the formal send-off and the guest's final impression of the property. Cutting it short sends a message that the next person matters more than the person leaving. Acknowledging the new guest with eye contact and a nod shows awareness without abandoning the farewell. Once the departing guest is gone, you can attend to the new guest fully. Rushing the farewell undermines days of excellent service.
