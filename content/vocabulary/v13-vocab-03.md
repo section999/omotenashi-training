@@ -31,7 +31,7 @@ In practical terms, employees are expected to report task progress to their 上�
 
 ## Common Mistakes
 
-A common error is to use 上司 when talking directly to their manager, which is not appropriate. One would never address someone as "my boss" to their face in formal Japanese. Another common mistake is treating 上司 and 先輩 as the same thing. 先輩 is about seniority in terms of tenure or experience; 上司 is about authority in the organisational chart. The two sometimes overlap, but often they do not. Staff might easily have a 先輩 who is not their 上司, and a 上司 who joined the company after one did.
+A common error is to use 上司 when talking directly to their manager, which is not appropriate. Staff would never address someone as "my boss" to their face in formal Japanese. Another common mistake is treating 上司 and 先輩 as the same thing. 先輩 is about seniority in terms of tenure or experience; 上司 is about authority in the organisational chart. The two sometimes overlap, but often they do not. Staff might easily have a 先輩 who is not their 上司, and a 上司 who joined the company after they did.
 
 ---
 

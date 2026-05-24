@@ -8,7 +8,7 @@ title: いらっしゃいませ (irasshaimase)
 
 This phrase is spoken the moment a guest enters any service space, a hotel lobby, restaurant, or shop. It is not a question and requires no verbal response from the guest. Its purpose is to say: *you have been seen, and one is welcome here.* The warmth of the delivery, tone, eye contact, the small bow that accompanies it, carries as much meaning as the words themselves. A flat, distracted delivery of *irasshaimase* can be perceived negatively; it implies the guest has been processed rather than welcomed.
 
-For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. The physical habits, pausing from whatever one was doing, turning fully toward the guest, making genuine eye contact, take time to develop alongside the spoken word. The phrase should be practiced until it becomes natural, not mechanical
+For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. The physical habits, pausing from whatever task was at hand, turning fully toward the guest, making genuine eye contact, take time to develop alongside the spoken word. The phrase should be practiced until it becomes natural, not mechanical
 
 ## Example Sentences
 

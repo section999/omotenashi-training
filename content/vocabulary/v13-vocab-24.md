@@ -27,7 +27,7 @@ The philosophy of 管理 in Japanese hospitality is proactive rather than reacti
 
 ## Common Mistakes
 
-A common error is to use 管理 and 経営 (keiei: business management, running a company) interchangeably, but they operate at very different levels. 管理 is about controlling and overseeing specific resources or processes inside an organisation, while 経営 refers to the strategic direction of the entire business. One should not use 管理 when talking about how a company is run at a boardroom level. Another common mistake is using 管理する without enough context -- saying 管理した on its own leaves the listener wondering what was managed. It is important to be specific: 在庫を管理する, 品質を管理する, and so on.
+A common error is to use 管理 and 経営 (keiei: business management, running a company) interchangeably, but they operate at very different levels. 管理 is about controlling and overseeing specific resources or processes inside an organisation, while 経営 refers to the strategic direction of the entire business. Staff should not use 管理 when talking about how a company is run at a boardroom level. Another common mistake is using 管理する without enough context -- saying 管理した on its own leaves the listener wondering what was managed. It is important to be specific: 在庫を管理する, 品質を管理する, and so on.
 
 ---
 ## Quiz
