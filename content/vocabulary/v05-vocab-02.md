@@ -19,7 +19,7 @@ Staff should not wait for guests to ask about breakfast. The key details should 
 
 **3.** ご朝食のご希望のお時間をお教えいただけますでしょうか。
 *Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.*
-"Could you let us know one's preferred breakfast time?"
+"Could you let us know your preferred breakfast time?"
 
 
 ## Related Expressions

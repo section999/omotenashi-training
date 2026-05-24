@@ -4,7 +4,7 @@ section: 16
 title: ごゆっくりどうぞ (goyukkuri douzo)
 ---
 
-**ごゆっくりどうぞ** means "please take one's time" or "please relax," but its real meaning in hospitality goes deeper: *there is no hurry here. This space is yours. We are not rushing one.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
+**ごゆっくりどうぞ** means "please take your time" or "please relax," but its real meaning in hospitality goes deeper: *there is no hurry here. This space is yours. We are not rushing one.* The phrase contains *yukkuri* (ゆっくり), meaning "slowly" or "at a leisurely pace," elevated by the honorific *go-* prefix and completed by *dōzo* (please / go ahead). Together they create one of the warmest invitations in Japanese service language.
 
 The phrase carries a specific emotional weight in Japanese cultural context. Time pressure is one of the enemies of genuine hospitality: a guest who feels rushed, processed, or hurried through an experience does not feel cared for. *Goyukkuri dōzo* is the explicit verbal signal that the guest has all the time they need. It is most powerful because it is proactive. One does not wait until a guest looks rushed before offering it. One offers it freely, at the start of every appropriate moment, as a gift of time.
 
@@ -14,11 +14,11 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 **1.** こちらがお部屋でございます。ごゆっくりどうぞ。
 *Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*
-"This is the room. Please make yourself at home: take one's time."
+"This is the room. Please make yourself at home: take your time."
 
 **2.** 本日のお食事でございます。ごゆっくりどうぞ。
 *Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*
-"Here is today's meal. Please enjoy it at one's leisure."
+"Here is today's meal. Please enjoy it at your leisure."
 
 **3.** どうぞ、ごゆっくりおくつろぎください。
 *Dōzo, goyukkuri o-kutsurogikudasai.*

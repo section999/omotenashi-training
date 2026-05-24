@@ -14,7 +14,7 @@ When talking with guests about trash, the approach should be polite without draw
 
 **2.** ゴミの分別にご協力いただけますと幸いでございます。
 *Gomi no bunbetsu ni gokyouryoku itadakemasu to saiwai de gozaimasu.*
-"We would greatly appreciate one's cooperation with waste separation."
+"We would greatly appreciate your cooperation with waste separation."
 
 **3.** ゴミがあふれていたため、清掃時に追加の袋をご用意いたしました。
 *Gomi ga afurete ita tame, seisou ji ni tsuika no fukuro wo goyo'i itashimashita.*

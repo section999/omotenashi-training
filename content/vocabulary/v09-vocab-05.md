@@ -10,15 +10,15 @@ When confirming any reservation, the 出発日 should be verified explicitly alo
 
 **1.** ご出発日は4月12日のご予定でよろしいでしょうか。
 *Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*
-"Is April 12 one's planned departure date?"
+"Is April 12 your planned departure date?"
 
 **2.** 出発日の当日、チェックアウトは午前11時までにお願いしております。
 *Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.*
-"On one's departure day, we ask that you check out by 11:00 AM."
+"On your departure day, we ask that you check out by 11:00 AM."
 
 **3.** 出発日を1日延長されたい場合は、空き状況を確認いたします。
 *Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.*
-"If you would like to extend one's departure by one day, we will check room availability."
+"If you would like to extend your departure by one day, we will check room availability."
 
 ## Related Expressions
 

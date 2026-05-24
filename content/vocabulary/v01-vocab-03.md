@@ -14,7 +14,7 @@ The time window for *konnichiwa* matters. Using the phrase in the early morning 
 
 **1.** こんにちは。本日はいかがお過ごしでしょうか。
 *Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.*
-"Good afternoon. How has one's day been?"
+"Good afternoon. How has your day been?"
 
 **2.** こんにちは。何かお手伝いできることはございますか。
 *Konnichiwa. Nanika otetsudai dekiru koto wa gozaimasu ka.*
@@ -22,7 +22,7 @@ The time window for *konnichiwa* matters. Using the phrase in the early morning 
 
 **3.** こんにちは。只今お戻りですか。お荷物をお持ちいたします。
 *Konnichiwa. Tadaima o-modori desu ka. O-nimotsu wo o-mochi itashimasu.*
-"Good afternoon. Are you just returning? Allow me to carry one's bags."
+"Good afternoon. Are you just returning? Allow me to carry your bags."
 
 ## Related Expressions
 

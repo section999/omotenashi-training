@@ -14,7 +14,7 @@ When guiding a guest through a QRコード payment, staff should present the cod
 
 **2.** スマートフォンのカメラでQRコードをお読み取りください。
 *Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*
-"Please scan the QR code with one's smartphone camera."
+"Please scan the QR code with your smartphone camera."
 
 **3.** お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。
 *Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*

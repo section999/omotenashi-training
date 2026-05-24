@@ -10,11 +10,11 @@ title: 前払い (maebarai)
 
 **1.** こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。
 *Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*
-"This plan requires prepayment. Please complete payment within five days of confirming one's reservation."
+"This plan requires prepayment. Please complete payment within five days of confirming your reservation."
 
 **2.** 前払いが確認できましたので、ご予約が正式に確定いたしました。
 *Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.*
-"We have confirmed one's prepayment, so one's reservation is now officially secured."
+"We have confirmed your prepayment, so your reservation is now officially secured."
 
 **3.** 前払いをご希望のお客様には、お得な割引料金をご用意しております。
 *Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.*

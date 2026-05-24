@@ -11,7 +11,7 @@ When staff help a guest with 発送, the job is more than just handing them a fo
 
 **1.** お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。
 *O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*
-"We can help you send one's souvenir bags to one's home. Please fill in the shipping form."
+"We can help you send your souvenir bags to your home. Please fill in the shipping form."
 
 **2.** 国内発送でしたら、翌々日にはお届けできる見込みです。
 *Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.*

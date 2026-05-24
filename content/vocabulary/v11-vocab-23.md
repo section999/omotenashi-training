@@ -12,7 +12,7 @@ Staff encounter ご連絡 across a wide range of standard phrases: ご連絡を�
 
 **1.** ご連絡をお待ちしております。
 *Go-renraku wo omachi shite orimasu.*
-"We look forward to one's contact / hearing from you."
+"We look forward to your contact / hearing from you."
 
 **2.** ご連絡いただきありがとうございます。担当者より折り返しご連絡いたします。
 *Go-renraku itadaki arigatou gozaimasu. Tantousha yori orikaeshi go-renraku itashimasu.*

@@ -14,7 +14,7 @@ In a hospitality context, staff most often encounter 支払い at check-out, tho
 
 **2.** お支払いの方法はいかがなさいますか。
 *O-shiharai no hōhō wa ikaga nasaimasu ka.*
-"How would you like to make one's payment?"
+"How would you like to make your payment?"
 
 **3.** 本日のお支払い合計は三万円でございます。
 *Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.*

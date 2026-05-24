@@ -18,7 +18,7 @@ In a hospitality context, staff introduce デポジット early in the check-in 
 
 **3.** デポジットはクレジットカードで仮押さえとなります。
 *Depojitto wa kurejitto kādo de kari-osae to narimasu.*
-"The deposit will be a pre-authorization hold on one's credit card."
+"The deposit will be a pre-authorization hold on your credit card."
 
 
 ## Related Expressions

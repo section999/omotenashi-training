@@ -11,7 +11,7 @@ In a hospitality telephone setting, 聞き取れません is not used on its own
 
 **1.** 恐れ入りますが、お声が少々聞き取れませんでした。
 *Osore irimasu ga, okoe ga shoushou kikitoremasen deshita.*
-"I beg one's pardon, but I had some difficulty hearing one's voice."
+"I beg your pardon, but I had some difficulty hearing your voice."
 
 **2.** 申し訳ございません、只今お声が聞き取れません。もう少し大きな声でおっしゃっていただけますか。
 *Moushiwake gozaimasen, tadaima okoe ga kikitorimasen. Mou sukoshi ooki na koe de osshatte itadakemasu ka.*

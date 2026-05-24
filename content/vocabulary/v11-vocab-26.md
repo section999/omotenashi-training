@@ -18,7 +18,7 @@ Hotel staff are trained to return to the line within sixty seconds, even if the 
 
 **3.** お待たせいたしました。保留を解除いたします。
 *Omatase itashimashita. Horyuu wo kaijo itashimasu.*
-"Thank you for one's patience. I am now taking you off hold."
+"Thank you for your patience. I am now taking you off hold."
 
 
 ## Related Expressions

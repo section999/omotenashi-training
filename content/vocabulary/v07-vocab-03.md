@@ -10,7 +10,7 @@ Operationally, the lobby serves as a hub for multiple services: concierge assist
 
 **1.** お待ち合わせは1階のロビーでお願いいたします。
 *O-machiai wa ikkai no robii de o-negai itashimasu.*
-"For one's meeting, please wait in the lobby on the first floor."
+"For your meeting, please wait in the lobby on the first floor."
 
 **2.** ロビーにてコンシェルジュがご案内いたしますので、少々お待ちくださいませ。
 *Robii ni te konshieruju ga go-annai itashimasu node, shoushou o-machi kudasaimase.*

@@ -15,11 +15,11 @@ Individual reservations offer the most opportunity for meaningful personalizatio
 
 **2.** 個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。
 *Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.*
-"We have a double room prepared for one's individual reservation. Do you have a preferred floor?"
+"We have a double room prepared for your individual reservation. Do you have a preferred floor?"
 
 **3.** 前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。
 *Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.*
-"We had a record of one's preferences from one's previous stay, so we have prepared everything according to the same settings today."
+"We had a record of your preferences from your previous stay, so we have prepared everything according to the same settings today."
 
 ## Related Expressions
 

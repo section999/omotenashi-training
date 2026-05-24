@@ -16,11 +16,11 @@ Timing is where 提供 gets challenging, and it is where strong communication be
 
 **2.** ただいまお料理を提供いたします。こちらが本日のアミューズでございます。
 *Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*
-"I will serve one's dish now. This is today's amuse-bouche."
+"I will serve your dish now. This is today's amuse-bouche."
 
 **3.** ドリンクの提供にお時間をいただいております。大変申し訳ございません。
 *Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*
-"We apologize for the wait with one's drink service."
+"We apologize for the wait with your drink service."
 
 
 ## Related Expressions

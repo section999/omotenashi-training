@@ -15,11 +15,11 @@ title: 合計 (goukei)
 
 **2.** お食事とお飲み物を合わせた合計は8,800円でございます。
 *O-shokuji to o-nomimono wo awaseta goukei wa hassen happyaku en de gozaimasu.*
-"The total for one's meal and beverages combined is 8,800 yen."
+"The total for your meal and beverages combined is 8,800 yen."
 
 **3.** 合計金額をご確認いただいた上で、お支払い方法をお選びください。
 *Goukei kingaku wo go-kakunin itadaita ue de, o-shiharai houhou wo o-erabi kudasai.*
-"Please confirm the total amount and then select one's preferred payment method."
+"Please confirm the total amount and then select your preferred payment method."
 
 
 ## Related Expressions

@@ -14,7 +14,7 @@ Because 夕食 often involves advance reservations, table assignments, and menu 
 
 **2.** 夕食の開始時間は事前にお部屋にてお伺いいたします。
 *Yuushoku no kaishi jikan wa jizen ni o-heya nite o-ukagai itashimasu.*
-"We will ask one's preferred dinner start time in advance at the room."
+"We will ask your preferred dinner start time in advance at the room."
 
 **3.** 本日の夕食には旬の食材を使ったお料理をご用意しております。
 *Honjitsu no yuushoku ni wa shun no shokuzai wo tsukatta o-ryouri wo go-youi shite orimasu.*

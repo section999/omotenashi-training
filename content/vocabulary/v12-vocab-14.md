@@ -19,7 +19,7 @@ When a guest reports feeling ill, staff should ask about their symptoms clearly 
 
 **3.** お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。
 *Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*
-"If one's child falls ill, we will direct you to the nearest paediatric hospital."
+"If your child falls ill, we will direct you to the nearest paediatric hospital."
 
 
 ## Related Expressions

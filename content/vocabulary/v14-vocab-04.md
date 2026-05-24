@@ -14,7 +14,7 @@ Note for day-to-day work: many countries have visa-exemption agreements with Jap
 
 **2.** お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。
 *Okyakusama no biza no yuukoukigen wo furonto nite gokakunin itadakemasu deshou ka.*
-"Would you be able to confirm one's visa's expiry date at the front desk?"
+"Would you be able to confirm your visa's expiry date at the front desk?"
 
 **3.** ビザの延長については、最寄りの入国管理局にお問い合わせください。
 *Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*

@@ -11,7 +11,7 @@ When a guest asks about getting clothes cleaned, the staff's first job is to und
 
 **1.** スーツのクリーニングを承ります。明後日の午前中にお部屋へお届けいたします。
 *Suutsu no kuriiningu o uketamawarimasu. Asatte no gozenchuu ni o-heya e o-todoke itashimasu.*
-"We will take care of dry cleaning one's suit. It will be delivered to the room the morning of the day after tomorrow."
+"We will take care of dry cleaning your suit. It will be delivered to the room the morning of the day after tomorrow."
 
 **2.** こちらのジャケットはクリーニングのみ対応しております。通常の洗濯はお避けください。
 *Kochira no jaketto wa kuriiningu nomi taiou shite orimasu. Tsuujou no sentaku wa o-sake kudasai.*

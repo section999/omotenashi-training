@@ -10,7 +10,7 @@ Staff must know not only the location of each elevator bank but also any access 
 
 **1.** エレベーターは正面玄関を入ってすぐ左手にございます。
 *Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*
-"The elevator is immediately to one's left as one enter the main entrance."
+"The elevator is immediately to your left as one enter the main entrance."
 
 **2.** エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。
 *Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*

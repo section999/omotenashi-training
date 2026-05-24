@@ -11,7 +11,7 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 
 **1.** チェックアウト後も、お荷物を夕方まで保管させていただきます。
 *Chekku-auto go mo, o-nimotsu wo yuugata made hokan sasete itadakimasu.*
-"We will keep one's luggage in storage until the evening, even after checkout."
+"We will keep your luggage in storage until the evening, even after checkout."
 
 **2.** 貴重品は金庫にて厳重に保管しております。
 *Kichouhin wa kinko nite genjuu ni hokan shite orimasu.*
@@ -19,7 +19,7 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 
 **3.** お荷物の保管を承りましたので、引換券をお持ちください。
 *O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.*
-"We have accepted one's luggage for storage; please keep this claim ticket."
+"We have accepted your luggage for storage; please keep this claim ticket."
 
 ## Related Expressions
 

@@ -11,7 +11,7 @@ In hotels and ryokan, the 会計係 may also review itemized charges (利用明�
 
 **1.** 会計係がお支払いの手続きをいたします。
 *Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.*
-"The cashier will handle one's payment procedure."
+"The cashier will handle your payment procedure."
 
 **2.** ご不明な点は会計係にお尋ねください。
 *Go-fumeina ten wa kaikei kakari ni otazune kudasai.*

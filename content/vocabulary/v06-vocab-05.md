@@ -10,7 +10,7 @@ title: 修理依頼 (shuuri irai)
 
 **1.** テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。
 *Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.*
-"We have received one's repair request for the television. A staff member will come to the room shortly."
+"We have received your repair request for the television. A staff member will come to the room shortly."
 
 **2.** エアコンの修理依頼をフロントにてお承りしております。
 *Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.*
@@ -18,7 +18,7 @@ title: 修理依頼 (shuuri irai)
 
 **3.** ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。
 *Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*
-"Please be aware that repairs may take a little time; we appreciate one's understanding."
+"Please be aware that repairs may take a little time; we appreciate your understanding."
 
 
 ## Related Expressions

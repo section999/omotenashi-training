@@ -18,7 +18,7 @@ In a hospitality context, staff typically confirm the payment method toward the 
 
 **3.** 現金でお支払いの場合、お釣りをご用意いたします。
 *Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.*
-"If one is paying by cash, we will prepare one's change."
+"If one is paying by cash, we will prepare your change."
 
 ## Related Expressions
 

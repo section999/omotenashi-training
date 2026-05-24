@@ -15,7 +15,7 @@ When using a map to guide a guest, an effective approach is to orient it in the 
 
 **2.** ご観光の際にお役立ていただける地図をご用意しております。
 *Go-kankou no sai ni o-yakudate itadakeru chizu wo go-youi shite orimasu.*
-"We have maps available that may be useful during one's sightseeing."
+"We have maps available that may be useful during your sightseeing."
 
 **3.** 地図に印を付けてご説明いたしますので、少々お時間をいただけますでしょうか。
 *Chizu ni shirushi wo tsukete go-setsumei itashimasu node, shoushou o-jikan wo itadakemasu deshou ka.*

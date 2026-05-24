@@ -15,7 +15,7 @@ Staff use 会計 when presenting the bill, directing guests to the cashier, or c
 
 **2.** お会計をお持ちいたします。少々お待ちくださいませ。
 *O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*
-"I will bring one's bill. Please wait just a moment."
+"I will bring your bill. Please wait just a moment."
 
 **3.** お会計はカードでもお支払いいただけます。
 *O-kaikei wa kaado demo o-shiharai itadakemasu.*

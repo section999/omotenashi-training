@@ -15,7 +15,7 @@ title: 業務 (gyoumu)
 
 **2.** 本日の業務でご不明な点がございましたら、上長にご確認ください。
 *Honjitsu no gyoumu de go-fumei na ten ga gozaimashitara, jouchou ni go-kakunin kudasai.*
-"If you have any questions regarding today's duties, please confirm with one's supervisor."
+"If you have any questions regarding today's duties, please confirm with your supervisor."
 
 **3.** フロント業務では、笑顔と迅速な対応が最も重要です。
 *Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.*

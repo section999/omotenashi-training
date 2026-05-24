@@ -18,7 +18,7 @@ The プラン should be referred to by its actual name rather than saying "their
 
 **3.** プランの内容についてご不明な点がございましたら、いつでもお申し付けください。
 *Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.*
-"If you have any questions about the contents of one's plan, please feel free to let us know at any time."
+"If you have any questions about the contents of your plan, please feel free to let us know at any time."
 
 
 ## Related Expressions

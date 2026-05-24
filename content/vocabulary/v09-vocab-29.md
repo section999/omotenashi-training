@@ -10,11 +10,11 @@ Handling a 短縮 request properly starts with pulling up the reservation and re
 
 **1.** 急なご事情でございますね。滞在を1泊短縮する場合、プランの条件によりキャンセル料が発生する場合がございます。
 *Kyuu na go-jijou de gozaimasu ne. Taizai wo ippaku tanshuku suru baai, puran no jouken ni yori kyanseru ryou ga hassei suru baai ga gozaimasu.*
-"That must be an unexpected situation. Please be aware that shortening the stay by one night may incur a cancellation charge depending on one's booking plan's conditions."
+"That must be an unexpected situation. Please be aware that shortening the stay by one night may incur a cancellation charge depending on your booking plan's conditions."
 
 **2.** 短縮のご希望を承りました。変更後のチェックアウト日は〇月〇日でよろしいでしょうか。
 *Tanshuku no go-kibou wo uketamawarimashita. Henkou go no chekkuauto bi wa〇gatsu〇ka de yoroshii deshou ka.*
-"I have received one's request to shorten the stay. Shall one's new checkout date be [date]?"
+"I have received your request to shorten the stay. Shall your new checkout date be [date]?"
 
 **3.** ご確認いただけましたら、システムの方で短縮手続きを進めさせていただきます。
 *Go-kakunin itadakemashitara, shisutemu no hou de tanshuku tetsuzuki wo susume sasete itadakimasu.*

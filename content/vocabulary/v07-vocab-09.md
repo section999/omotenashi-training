@@ -11,7 +11,7 @@ The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the 
 
 **1.** レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。
 *Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*
-"The restaurant opens at 7 o'clock. We hope you enjoy one's breakfast."
+"The restaurant opens at 7 o'clock. We hope you enjoy your breakfast."
 
 **2.** ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。
 *Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*
@@ -19,7 +19,7 @@ The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the 
 
 **3.** ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。
 *Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*
-"The gift shop opens at 10 o'clock, so one is welcome to stop by before one's departure."
+"The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure."
 
 ## Related Expressions
 

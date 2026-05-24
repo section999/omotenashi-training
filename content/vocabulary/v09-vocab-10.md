@@ -10,7 +10,7 @@ Teenagers who sit on the boundary of the adult threshold require extra attention
 
 **1.** 大人2名でご予約を承りました。
 *Otona ni-mei de go-yoyaku o uketa wari mashita.*
-"We have received one's reservation for 2 adults."
+"We have received your reservation for 2 adults."
 
 **2.** 大人のお客様には、浴衣をお部屋にご用意しております。
 *Otona no o-kyakusama ni wa, yukata o o-heya ni go-youi shite orimasu.*

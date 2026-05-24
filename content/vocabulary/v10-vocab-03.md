@@ -18,7 +18,7 @@ The 分割払い option appears on the card terminal during payment, and staff g
 
 **3.** 分割払いをお選びの場合、カード会社によって手数料が発生することがございます。
 *Bunkatsu barai wo o-erabi no baai, kaado gaisha ni yotte tesuuryou ga hassei suru koto ga gozaimasu.*
-"Please be aware that one's card issuer may charge a fee if one choose installment payment."
+"Please be aware that your card issuer may charge a fee if one choose installment payment."
 
 
 ## Related Expressions

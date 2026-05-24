@@ -15,7 +15,7 @@ On the practical side, 確認いたします comes up constantly: verifying rese
 
 **2.** ご予約の内容を確認いたします。
 *Goyoyaku no naiyou wo kakunin itashimasu.*
-"I will confirm the details of one's reservation."
+"I will confirm the details of your reservation."
 
 **3.** 確認に少々時間をいただいております。もう少々お待ちください。
 *Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.*

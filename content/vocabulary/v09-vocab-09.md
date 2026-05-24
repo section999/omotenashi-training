@@ -11,7 +11,7 @@ Note that 人数 comes up at several different points during a guest's visit, no
 
 **1.** ご予約のお人数をご確認させていただきます。
 *Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.*
-"Allow me to confirm the number of guests in one's reservation."
+"Allow me to confirm the number of guests in your reservation."
 
 **2.** ご人数は大人2名、お子様1名でよろしいでしょうか。
 *Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.*

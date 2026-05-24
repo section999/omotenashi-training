@@ -14,7 +14,7 @@ The key difference from 朝食付き is that dinner at most properties is not op
 
 **2.** 夕食付きプランのお客様は、ご希望のお食事時間をフロントにてお知らせください。
 *Yuushoku-tsuki puran no o-kyaku-sama wa, go-kibou no o-shokuji jikan wo furonto nite o-shirase kudasai.*
-"Guests on the dinner-included plan, please let us know one's preferred dining time at the front desk."
+"Guests on the dinner-included plan, please let us know your preferred dining time at the front desk."
 
 **3.** 夕食付きプランには、旬の食材を使った会席料理が含まれております。
 *Yuushoku-tsuki puran ni wa, shun no shokuzai wo tsukatta kaiseki ryouri ga fukumarete orimasu.*

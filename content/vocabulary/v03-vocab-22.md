@@ -10,15 +10,15 @@ During room orientation, staff say 「お貴重品はお部屋の金庫にお入
 
 **1.** お貴重品はお部屋の金庫にお入れください。
 *O-kichouhin wa oheya no kinko ni o-ire kudasai.*
-"Please store one's valuables in the room safe."
+"Please store your valuables in the room safe."
 
 **2.** 金庫は暗証番号をご自身で設定してお使いいただけます。
 *Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.*
-"You may set one's own PIN to use the safe."
+"You may set your own PIN to use the safe."
 
 **3.** 万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。
 *Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.*
-"Should you forget one's PIN, please do not hesitate to contact the front desk."
+"Should you forget your PIN, please do not hesitate to contact the front desk."
 
 
 ## Related Expressions

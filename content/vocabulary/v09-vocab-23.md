@@ -11,7 +11,7 @@ The conditions vary depending on the plan. An advance-purchase 早割 rate might
 
 **1.** ご予約の日程は、3日前まで変更可能でございます。
 *Go-yoyaku no nittei wa, mikkamae made henkou kanou de gozaimasu.*
-"The dates of one's reservation can be changed up to 3 days in advance."
+"The dates of your reservation can be changed up to 3 days in advance."
 
 **2.** お部屋タイプは変更可能ですが、空き状況によっては対応できない場合もございます。
 *O-heya taipu wa henkou kanou desu ga, aki joukyou ni yotte wa taiou dekinai baai mo gozaimasu.*

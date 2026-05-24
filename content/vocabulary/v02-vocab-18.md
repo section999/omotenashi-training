@@ -10,7 +10,7 @@ In a hospitality context, front desk staff use クレジットカード in two d
 
 **1.** クレジットカードを拝見してもよろしいでしょうか。
 *Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*
-"May I take a look at one's credit card?"
+"May I take a look at your credit card?"
 
 **2.** チェックイン時にクレジットカードをお預かりしております。
 *Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.*

@@ -19,7 +19,7 @@ When using 手配 in speech, 手配いたします is the expected humble form a
 
 **3.** ご要望のレストランのご予約も手配いたします。
 *Go-youbou no resutoran no go-yoyaku mo tehai itashimasu.*
-"We will also arrange a reservation at one's requested restaurant."
+"We will also arrange a reservation at your requested restaurant."
 
 
 ## Related Expressions

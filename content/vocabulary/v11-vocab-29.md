@@ -10,7 +10,7 @@ When a guest needs 通訳 help, their first job is to clarify what kind they nee
 
 **1.** ご会議の際に通訳が必要でしたら、手配いたします。
 *Go-kaigi no sai ni tsuuyaku ga hitsuyou deshitara, tehai itashimasu.*
-"If you require an interpreter for one's meeting, we will arrange one."
+"If you require an interpreter for your meeting, we will arrange one."
 
 **2.** 英語と日本語間の通訳は、スタッフがご対応いたします。
 *Eigo to nihongo-kan no tsuuyaku wa, sutaffu ga go-taiou itashimasu.*
@@ -29,7 +29,7 @@ When a guest needs 通訳 help, their first job is to clarify what kind they nee
 
 ## Common Mistakes
 
-A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what their hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
+A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyyour time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what their hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
 
 ---
 

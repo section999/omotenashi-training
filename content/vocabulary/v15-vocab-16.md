@@ -11,7 +11,7 @@ This is how it works. When a guest drops off luggage for storage, staff record t
 
 **1.** こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。
 *Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.*
-"This is the tracking number for one's luggage. Please present it when one comes to collect it."
+"This is the tracking number for your luggage. Please present it when one comes to collect it."
 
 **2.** 管理番号でお調べいたしますので、少々お待ちください。
 *Kanri bangou de o-shirabe itashimasu node, shoushou o-machi kudasai.*

@@ -22,7 +22,7 @@ For hospitality professionals, *irasshaimase* is more than a scripted phrase. It
 
 **3.** いらっしゃいませ。お荷物をお持ちいたします。
 *Irasshaimase. O-nimotsu wo o-mochi itashimasu.*
-"Welcome. Allow me to carry one's luggage."
+"Welcome. Allow me to carry your luggage."
 
 ## Related Expressions
 

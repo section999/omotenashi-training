@@ -19,7 +19,7 @@ In a hospitality context, the key handover is a notable carefully choreographed 
 
 **3.** 鍵をお忘れの場合は、フロントまでお申し付けください。
 *Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*
-"If you forget one's key, please let us know at the front desk."
+"If you forget your key, please let us know at the front desk."
 
 
 ## Related Expressions

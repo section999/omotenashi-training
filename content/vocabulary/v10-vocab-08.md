@@ -10,7 +10,7 @@ The 内訳 appears on the 精算書 (settlement statement) or 明細書 (itemize
 
 **1.** ご料金の内訳はこちらでございます。ご確認をお願いいたします。
 *Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.*
-"Here is the itemized breakdown of one's charges. Please review it at one's convenience."
+"Here is the itemized breakdown of your charges. Please review it at your convenience."
 
 **2.** 内訳をご覧いただくと、お食事代とルームサービス代が別々に記載されております。
 *Uchiwake wo go-ran itadaku to, o-shokuji dai to ruumu saabisu dai ga betsubetsu ni kisai sarete orimasu.*

@@ -18,7 +18,7 @@ Two important distinctions: *arigatō gozaimasu* (present form) is used in the m
 
 **2.** ご予約ありがとうございます。心よりお待ち申し上げております。
 *Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.*
-"Thank you for one's reservation. We look forward to welcoming you."
+"Thank you for your reservation. We look forward to welcoming you."
 
 **3.** この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。
 *Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.*

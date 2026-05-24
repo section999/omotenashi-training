@@ -15,11 +15,11 @@ Hospitality staff need to handle マナー situations with a light touch. Guests
 
 **2.** 温泉施設では、入浴前に体を洗うというマナーがございます。
 *Onsen shisetsu de wa, nyuuyoku mae ni karada wo arau to iu manaa ga gozaimasu.*
-"At hot spring facilities, there is a manner of washing one's body before entering the bath."
+"At hot spring facilities, there is a manner of washing your body before entering the bath."
 
 **3.** 神社仏閣を訪れる際は、その場のマナーを尊重していただけますと幸いです。
 *Jinja-butsukaku wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.*
-"When visiting shrines and temples, we would appreciate one's respect for the manners of the place."
+"When visiting shrines and temples, we would appreciate your respect for the manners of the place."
 
 ## Related Expressions
 

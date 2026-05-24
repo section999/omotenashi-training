@@ -11,7 +11,7 @@ In hotels, 決済 most commonly occurs at checkout (精算) but may also happen 
 
 **1.** 本日はどのような方法でご決済なさいますか。
 *Honjitsu wa donna youhou de go-kessai nasaimasu ka.*
-"How would you like to complete one's payment today?"
+"How would you like to complete your payment today?"
 
 **2.** クレジットカードでの決済が完了いたしました。
 *Kurejitto kaado de no kessai ga kanryou itashimashita.*

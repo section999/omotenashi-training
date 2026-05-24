@@ -14,7 +14,7 @@ Staff use 確定 most visibly at check-in when verbally reassuring guests that t
 
 **2.** お支払いが完了いたしましたので、ご予約が確定となりました。
 *O-shiharai ga kanryou itashimashita node, go-yoyaku ga kakutei to narimashita.*
-"Your payment has been completed, and one's reservation is now confirmed."
+"Your payment has been completed, and your reservation is now confirmed."
 
 **3.** 確定後は内容の変更に制限がある場合がございますので、ご確認をお願いいたします。
 *Kakutei go wa naiyou no henkou ni seigen ga aru baai ga gozaimasu node, go-kakunin wo o-negai itashimasu.*

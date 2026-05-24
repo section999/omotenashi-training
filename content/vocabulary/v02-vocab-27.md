@@ -10,11 +10,11 @@ In a hospitality context, staff introduce カードキー during check-in as a s
 
 **1.** こちらがカードキーでございます。エレベーターにもご利用いただけます。
 *Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.*
-"Here is one's card key. It can also be used for the elevator."
+"Here is your card key. It can also be used for the elevator."
 
 **2.** カードキーが反応しない場合は、フロントへお越しください。
 *Kādo kī ga hannō shinai baai wa, furonto e o-koshi kudasai.*
-"If one's card key does not respond, please come to the front desk."
+"If your card key does not respond, please come to the front desk."
 
 **3.** 追加のカードキーをご用意いたします。少々お待ちください。
 *Tsuika no kādo kī wo go-yōi itashimasu. Shōshō o-machi kudasai.*

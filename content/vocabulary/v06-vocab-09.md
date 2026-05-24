@@ -10,7 +10,7 @@ Understanding うるさい also helps staff read the emotional state of the gues
 
 **1.** 「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。
 *"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.*
-"Having received one's report that the noise is troubling you, we will address the disturbance."
+"Having received your report that the noise is troubling you, we will address the disturbance."
 
 **2.** ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。
 *Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.*

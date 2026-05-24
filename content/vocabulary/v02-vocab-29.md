@@ -14,7 +14,7 @@ In a hospitality context, 受付 most frequently appears when directing guests: 
 
 **2.** チェックインのお手続きは受付にてお願いいたします。
 *Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.*
-"Please complete one's check-in at the reception desk."
+"Please complete your check-in at the reception desk."
 
 **3.** スパの受付は地下一階にございます。
 *Supa no uketsuke wa chika ik-kai ni gozaimasu.*

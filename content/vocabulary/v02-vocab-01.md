@@ -20,7 +20,7 @@ Staff members stationed at the フロント are expected to maintain impeccable 
 
 **3.** フロントにて、お荷物をお預かりすることが可能でございます。
 *Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*
-"We are able to hold one's luggage at the front desk."
+"We are able to hold your luggage at the front desk."
 
 ## Related Expressions
 

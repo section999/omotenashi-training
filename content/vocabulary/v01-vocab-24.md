@@ -18,7 +18,7 @@ The phrase carries responsibility. Once staff say *go-annai itashimasu*, one is 
 
 **2.** レストランまでご案内いたします。足元にお気をつけください。
 *Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.*
-"I will guide you to the restaurant. Please watch one's step."
+"I will guide you to the restaurant. Please watch your step."
 
 **3.** チェックアウトの際には、出口までご案内いたします。
 *Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.*

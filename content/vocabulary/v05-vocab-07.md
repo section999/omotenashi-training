@@ -12,15 +12,15 @@ The language staff use when taking an order tells a guest a great deal about the
 
 **1.** ご注文はお決まりでしょうか。
 *Go-chuumon wa o-kimari deshou ka.*
-"Have you decided on one's order?"
+"Have you decided on your order?"
 
 **2.** ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。
 *Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.*
-"I will take one's order. How about today's recommendation?"
+"I will take your order. How about today's recommendation?"
 
 **3.** ご注文の内容を繰り返させていただきます。
 *Go-chuumon no naiyou wo kurikaesasete itadakimasu.*
-"Allow me to repeat one's order to confirm."
+"Allow me to repeat your order to confirm."
 
 
 ## Related Expressions

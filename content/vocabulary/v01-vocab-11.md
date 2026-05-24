@@ -22,7 +22,7 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 
 **3.** 温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。
 *Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.*
-"Here is a warm drink for you. Please, take one's time and enjoy."
+"Here is a warm drink for you. Please, take your time and enjoy."
 
 ## Related Expressions
 

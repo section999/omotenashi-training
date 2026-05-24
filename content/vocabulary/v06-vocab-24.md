@@ -12,7 +12,7 @@ This phrase appears across a wide range of situations: checking reservation deta
 
 **1.** ご予約の内容をただいま確認いたします。少々お待ちください。
 *Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.*
-"I will check one's reservation details right now. Please wait just a moment."
+"I will check your reservation details right now. Please wait just a moment."
 
 **2.** お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。
 *O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.*

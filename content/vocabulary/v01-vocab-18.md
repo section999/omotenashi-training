@@ -14,7 +14,7 @@ This phrase has a limited role with guests. If a guest comes back looking exhaus
 
 **1.** お疲れ様です。今日もありがとうございました。
 *O-tsukaresama desu. Kyō mo arigatō gozaimashita.*
-"Thank you for one's hard work. Thank you for today as well."
+"Thank you for your hard work. Thank you for today as well."
 
 **2.** お疲れ様でした。ゆっくり休んでください。
 *O-tsukaresama deshita. Yukkuri yasunte kudasai.*

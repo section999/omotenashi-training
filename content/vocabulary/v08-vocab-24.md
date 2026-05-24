@@ -18,7 +18,7 @@ title: 約 (yaku)
 
 **3.** 夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。
 *Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*
-"The dinner course is approximately 2 hours. Please make a reservation according to one's schedule."
+"The dinner course is approximately 2 hours. Please make a reservation according to your schedule."
 
 
 ## Related Expressions

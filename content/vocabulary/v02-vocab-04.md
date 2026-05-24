@@ -10,11 +10,11 @@ When confirming a reservation at the front desk, staff use ご予約はござい
 
 **1.** ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。
 *Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*
-"Do you have a reservation? May I ask one's name?"
+"Do you have a reservation? May I ask your name?"
 
 **2.** ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。
 *Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.*
-"Allow me to verify one's reservation details. Is a three-night stay correct?"
+"Allow me to verify your reservation details. Is a three-night stay correct?"
 
 **3.** レストランのご予約は、お電話またはフロントにてお受けしております。
 *Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.*

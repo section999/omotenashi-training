@@ -15,7 +15,7 @@ In hotels and restaurants, staff typically say レジでお支払いをお願い
 
 **2.** レジにてお釣りをお渡しいたします。
 *Reji nite otsuri o owatashi itashimasu.*
-"We will give you one's change at the register."
+"We will give you your change at the register."
 
 **3.** レジ担当のスタッフにお声がけください。
 *Reji tantou no sutaffu ni okoe gake kudasai.*

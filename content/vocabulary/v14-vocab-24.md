@@ -19,7 +19,7 @@ Hotel staff who bring up ICカード unprompted provide real service value. Many
 
 **3.** ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。
 *IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.*
-"You can top up one's IC card at station ticket vending machines at any time."
+"You can top up your IC card at station ticket vending machines at any time."
 
 ## Related Expressions
 

@@ -10,7 +10,7 @@ title: 担当者 (tantousha)
 
 **1.** ご予約内容につきまして、担当者よりご連絡いたします。
 *Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.*
-"The person in charge of one's reservation will contact you."
+"The person in charge of your reservation will contact you."
 
 **2.** 担当者にお取り次ぎいたしますので、少々お待ちください。
 *Tantōsha ni otorikitsugi itashimasu no de, shōshō omachi kudasai.*

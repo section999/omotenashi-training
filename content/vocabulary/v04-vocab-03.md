@@ -14,7 +14,7 @@ Staff mark a room 清掃済み by updating the room management system, placing a
 
 **2.** この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。
 *Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.*
-"This room has been cleaned. Please enjoy the stay at one's leisure."
+"This room has been cleaned. Please enjoy the stay at your leisure."
 
 **3.** 清掃済みのお部屋リストを、フロントに提出いたします。
 *Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.*

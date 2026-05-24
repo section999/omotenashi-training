@@ -11,15 +11,15 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of the
 
 **1.** ご用件をお伺いしてもよろしいですか。
 *Goyouken wo oukagai shite mo yoroshii desu ka.*
-"May I ask the purpose of one's call / visit?"
+"May I ask the purpose of your call / visit?"
 
 **2.** ご用件を承りましたので、担当者にお繋ぎいたします。
 *Goyouken wo uketamawarimashita node, tantousha ni otsunagi itashimasu.*
-"I have noted one's inquiry and will connect you with the person in charge."
+"I have noted your inquiry and will connect you with the person in charge."
 
 **3.** ご用件は予約のご変更でしょうか。
 *Goyouken wa yoyaku no go-henkou deshou ka.*
-"Is one's matter regarding a change to one's reservation?"
+"Is your matter regarding a change to your reservation?"
 
 
 ## Related Expressions

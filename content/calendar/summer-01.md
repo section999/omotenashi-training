@@ -10,17 +10,17 @@ The rainy season, *tsuyu* (梅雨, literally "plum rain"), brings weeks of susta
 
 ## Why Tsuyu Is an Opportunity
 
-Most visitors to Japan are thinking about spring cherry blossoms or autumn foliage ,  few are specifically planning around the rainy season. Guests who are present during tsuyu often did not choose it; they are making the best of conditions.
+Most visitors to Japan are thinking about spring cherry blossoms or autumn foliage, few are specifically planning around the rainy season. Guests who are present during tsuyu often did not choose it; they are making the best of conditions.
 
 A property that meets them with warmth and attentiveness during a season many overlook creates a disproportionately positive impression.
 
 ## Service Adjustments During Tsuyu
 
-- **Umbrellas at the entrance** ,  Complimentary umbrellas should be visibly available near all exits. Properties near train stations may offer loaner umbrellas for the day.
-- **Wet arrivals** ,  Guests who have walked through rain need immediate practical care. A warm *oshibori* (hand towel) offered at the door before check-in begins communicates that the conditions were anticipated.
-- **Footwear care** ,  In traditional properties, wet footwear at the entrance should be handled with care. A towel or shoe dryer can make a significant difference to a guest who has been walking in the rain.
-- **Humidity management** ,  Rooms should be dehumidified and well-ventilated. A room that smells damp undermines everything else.
-- **Indoor experience programming** ,  During sustained rain, proactively offer alternatives to outdoor plans: in-house onsen, traditional indoor activities, tea ceremony arrangements, cooking classes.
+- **Umbrellas at the entrance**, Complimentary umbrellas should be visibly available near all exits. Properties near train stations may offer loaner umbrellas for the day.
+- **Wet arrivals**, Guests who have walked through rain need immediate practical care. A warm *oshibori* (hand towel) offered at the door before check-in begins communicates that the conditions were anticipated.
+- **Footwear care**, In traditional properties, wet footwear at the entrance should be handled with care. A towel or shoe dryer can make a significant difference to a guest who has been walking in the rain.
+- **Humidity management**, Rooms should be dehumidified and well-ventilated. A room that smells damp undermines everything else.
+- **Indoor experience programming**, During sustained rain, proactively offer alternatives to outdoor plans: in-house onsen, traditional indoor activities, tea ceremony arrangements, cooking classes.
 
 ---
 

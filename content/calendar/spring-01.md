@@ -22,9 +22,9 @@ Front-line staff should know today's bloom conditions as a matter of professiona
 
 ## Service Touches for Sakura Season
 
-- Have umbrellas ready at the entrance ,  spring showers are frequent during bloom, and a guest who misses the peak because of rain will remember it
+- Have umbrellas ready at the entrance, spring showers are frequent during bloom, and a guest who misses the peak because of rain will remember it
 - Offer sakura-themed seasonal sweets (*wagashi*) with afternoon tea
-- Recommend early-morning or early-evening viewing times ,  these are less crowded and the light is softer
+- Recommend early-morning or early-evening viewing times, these are less crowded and the light is softer
 - For guests celebrating anniversaries or milestones during sakura season, a brief note acknowledging the occasion connects the property to the emotional significance of their visit
 
 ---
@@ -39,7 +39,7 @@ This phrase opens a warm, seasonal exchange with any guest during sakura season.
 
 **今が見頃ですので、ぜひお時間があればお花見をお楽しみください。**
 *Ima ga migorō desu no de, zehi o-jikan ga areba o-hanami wo o-tanoshimi kudasai.*
-"They are at their peak right now ,  please do enjoy the blossom viewing if you have time."
+"They are at their peak right now, please do enjoy the blossom viewing if you have time."
 
 Use this when conditions are confirmed. It gives the guest both a recommendation and a gentle sense of timing.
 

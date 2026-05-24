@@ -10,7 +10,7 @@ title: チェックアウト (check-out)
 
 **1.** ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。
 *Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.*
-"Have you finished checking out? We have one's bill ready."
+"Have you finished checking out? We have your bill ready."
 
 **2.** チェックアウトの際には、フロントまでルームキーをお返しください。
 *Chekku-auto no sai niwa, furonto made rūmu-kī o o-kaeshi kudasai.*

@@ -10,7 +10,7 @@ title: 理解しました (rikai shimashita)
 
 **1.** ご要望の内容を理解しました。直ちに手配いたします。
 *Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.*
-"I have understood the content of one's request. I will arrange it immediately."
+"I have understood the content of your request. I will arrange it immediately."
 
 **2.** ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。
 *Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.*

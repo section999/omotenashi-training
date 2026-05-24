@@ -19,7 +19,7 @@ In daily operations, staff will use 対応 broadly. It covers handling complaint
 
 **3.** お客様のご要望には、フロントスタッフが24時間対応しております。
 *O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.*
-"Our front desk staff is available to respond to one's requests 24 hours a day."
+"Our front desk staff is available to respond to your requests 24 hours a day."
 
 
 ## Related Expressions

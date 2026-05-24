@@ -15,7 +15,7 @@ Responses can range from adjusting the heating system, to offering extra blanket
 
 **2.** 暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。
 *Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.*
-"Shall we change the heating settings? Could you tell us one's preferred temperature?"
+"Shall we change the heating settings? Could you tell us your preferred temperature?"
 
 **3.** 寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。
 *Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.*

@@ -11,7 +11,7 @@ During check-in, confirming the bed arrangement out loud is a good practice, eve
 
 **1.** ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。
 *Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.*
-"Is one's reservation for a twin room? It is a room with two beds."
+"Is your reservation for a twin room? It is a room with two beds."
 
 **2.** ツインルームは四階にございます。エレベーターでお越しください。
 *Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.*

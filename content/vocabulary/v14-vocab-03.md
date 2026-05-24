@@ -14,7 +14,7 @@ The small details of how staff handle the document matter as much as the check i
 
 **2.** パスポート確認は法律上の義務ですので、ご協力をお願いいたします。
 *Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*
-"Passport verification is a legal requirement, so we appreciate one's cooperation."
+"Passport verification is a legal requirement, so we appreciate your cooperation."
 
 **3.** フロントスタッフはパスポート確認の後、情報を台帳に記入します。
 *Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*

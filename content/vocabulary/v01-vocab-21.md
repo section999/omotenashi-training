@@ -14,15 +14,15 @@ Context matters here. The phrase fits situations where a facility is temporarily
 
 **1.** 誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。
 *Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.*
-"I am very sorry, but the pool is currently unavailable. We ask for one's kind understanding."
+"I am very sorry, but the pool is currently unavailable. We ask for your kind understanding."
 
 **2.** ご不便をおかけいたしますが、ご理解いただけますと幸いです。
 *Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.*
-"I apologise for the inconvenience. We would be most grateful for one's understanding."
+"I apologise for the inconvenience. We would be most grateful for your understanding."
 
 **3.** こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。
 *Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.*
-"A reservation is required to use this facility. We thank you for one's understanding."
+"A reservation is required to use this facility. We thank you for your understanding."
 
 ## Related Expressions
 

@@ -10,7 +10,7 @@ In a hospitality context, the workflow is fairly consistent: acknowledge the req
 
 **1.** ご予約の変更は可能でございます。
 *Go-yoyaku no henkō wa kanō de gozaimasu.*
-"Changes to one's reservation are possible."
+"Changes to your reservation are possible."
 
 **2.** お日にちの変更をご希望でしょうか。
 *O-hinichi no henkō wo go-kibō deshō ka.*
@@ -18,7 +18,7 @@ In a hospitality context, the workflow is fairly consistent: acknowledge the req
 
 **3.** 変更内容を確認させていただきます。
 *Henkō naiyō wo kakunin sasete itadakimasu.*
-"Allow me to confirm the details of one's change."
+"Allow me to confirm the details of your change."
 
 ## Related Expressions
 

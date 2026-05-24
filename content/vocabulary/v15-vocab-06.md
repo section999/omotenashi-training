@@ -15,7 +15,7 @@ Staff should know the basics of fabric and heat. Cotton and linen handle high te
 
 **2.** シルクのブラウスには低温でアイロンをおかけになることをお勧めいたします。
 *Shiruku no burausu ni wa teion de airon o o-kake ni naru koto o o-susume itashimasu.*
-"We recommend ironing one's silk blouse on a low heat setting."
+"We recommend ironing your silk blouse on a low heat setting."
 
 **3.** アイロンのご入用でしたら、フロントまでお申し付けいただければすぐにお持ちいたします。
 *Airon no go-inyou de shitara, furonto made o-moushitsuke itadakereba sugu ni o-mochi itashimasu.*

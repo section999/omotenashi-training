@@ -18,11 +18,11 @@ A common error is rushing this phrase when things get busy, or dropping it entir
 
 **2.** 本日はご利用ありがとうございました。お気をつけてお帰りください。
 *Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.*
-"Thank you for visiting us today. Please take care on one's way home."
+"Thank you for visiting us today. Please take care on your way home."
 
 **3.** 足元にお気をつけください。
 *Ashimoto ni o-ki wo tsukete kudasai.*
-"Please watch one's step." (Specific application for stairs or uneven surfaces)
+"Please watch your step." (Specific application for stairs or uneven surfaces)
 
 ## Related Expressions
 

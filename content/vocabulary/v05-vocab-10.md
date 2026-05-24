@@ -10,11 +10,11 @@ The phrase 食後にコーヒーはいかがでしょうか is a standard exampl
 
 **1.** 食後にコーヒーはいかがでしょうか。
 *Shokugo ni koohii wa ikaga deshou ka.*
-"How about coffee after one's meal?"
+"How about coffee after your meal?"
 
 **2.** コーヒーはホットとアイス、どちらになさいますか。
 *Koohii wa hotto to aisu, dochira ni nasaimasu ka.*
-"Would you like one's coffee hot or iced?"
+"Would you like your coffee hot or iced?"
 
 **3.** 本日のコーヒーはエチオピア産の豆を使用しております。
 *Honjitsu no koohii wa Echiopia-san no mame wo shiyou shite orimasu.*

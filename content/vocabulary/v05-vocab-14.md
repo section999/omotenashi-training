@@ -10,7 +10,7 @@ announcing 満席 is never the end of the conversation. The staff member must im
 
 **1.** ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。
 *Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*
-"We are fully seated at the moment. If you like, I can take one's name and seat you in order."
+"We are fully seated at the moment. If you like, I can take your name and seat you in order."
 
 **2.** 大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。
 *Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.*

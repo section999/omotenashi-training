@@ -15,7 +15,7 @@ Practical guidance centers on the connection steps themselves. staff might say �
 
 **2.** Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。
 *Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*
-"If the Wi-Fi connection is not working, please turn off one's device once and try again."
+"If the Wi-Fi connection is not working, please turn off your device once and try again."
 
 **3.** お客様のお部屋では接続が安定しているか、担当者が確認いたします。
 *O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*

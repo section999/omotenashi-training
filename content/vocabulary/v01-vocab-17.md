@@ -13,15 +13,15 @@ A common error is to use *yōkoso* in everyday spoken greetings, where it ends u
 
 **1.** ようこそ、〇〇ホテルへ。心よりお待ちしておりました。
 *Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*
-"Welcome to ○○ Hotel. We have been truly looking forward to one's arrival."
+"Welcome to ○○ Hotel. We have been truly looking forward to your arrival."
 
 **2.** ようこそ日本へ。ご旅行をどうぞお楽しみください。
 *Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.*
-"Welcome to Japan. Please enjoy one's journey."
+"Welcome to Japan. Please enjoy your journey."
 
 **3.** ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。
 *Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.*
-"From one's welcome card: Welcome to our inn. We welcome you with all our hearts."
+"From your welcome card: Welcome to our inn. We welcome you with all our hearts."
 
 ## Related Expressions
 

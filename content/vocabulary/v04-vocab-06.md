@@ -14,7 +14,7 @@ Staff should know the property's policy on 連泊 (multi-night) stays and be rea
 
 **2.** シーツ交換をご希望の場合は、フロントまでお申し付けください。
 *Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.*
-"If you would like one's sheets changed, please let us know at the front desk."
+"If you would like your sheets changed, please let us know at the front desk."
 
 **3.** 連泊のお客様には、三日に一度シーツ交換をご提供しております。
 *Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*

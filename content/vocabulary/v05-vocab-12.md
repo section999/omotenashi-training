@@ -10,7 +10,7 @@ title: おかわり (okawari)
 
 **1.** お飲み物のおかわりはいかがでしょうか。
 *O-nomimono no okawari wa ikaga deshou ka.*
-"Would you like a refill for one's drink?"
+"Would you like a refill for your drink?"
 
 **2.** コーヒーのおかわりをすぐにお持ちいたします。
 *Koohii no okawari wo sugu ni o-mochi itashimasu.*

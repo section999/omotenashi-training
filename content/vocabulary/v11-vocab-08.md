@@ -15,7 +15,7 @@ When transferring a caller, the 担当部署 should be named first. Saying 予�
 
 **2.** 宴会担当部署にお電話をおつなぎいたします。
 *Enkai tantō busho ni odenwa wo otsunagi itashimasu.*
-"I will transfer one's call to the banquet department."
+"I will transfer your call to the banquet department."
 
 **3.** 担当部署より折り返しご連絡いたします。
 *Tantō busho yori orikaeshi gorenraku itashimasu.*

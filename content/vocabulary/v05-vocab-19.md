@@ -11,7 +11,7 @@ In daily restaurant and room service work, staff refer to ナイフ when setting
 
 **1.** お料理に合わせてナイフとフォークをご用意いたします。
 *O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*
-"We will prepare a knife and fork to match one's dish."
+"We will prepare a knife and fork to match your dish."
 
 **2.** ナイフが必要でございましたら、すぐにお持ちいたします。
 *Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.*

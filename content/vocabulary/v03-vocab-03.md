@@ -15,7 +15,7 @@ The term is borrowed directly from English and used consistently across hotel ch
 
 **2.** シングルルームにご案内いたします。エレベーターはあちらでございます。
 *Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.*
-"I will show you to one's single room. The elevator is over there."
+"I will show you to your single room. The elevator is over there."
 
 **3.** シングルルームのベッドはセミダブルサイズでございますのでご安心ください。
 *Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.*

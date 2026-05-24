@@ -10,7 +10,7 @@ The service dimension of 子供 matters just as much as the billing side. A rese
 
 **1.** お子様のご年齢をお知らせいただけますでしょうか。
 *O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*
-"Could you please let us know one's child's age?"
+"Could you please let us know your child's age?"
 
 **2.** お子様用の浴衣とスリッパをお部屋にご用意しております。
 *O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*
@@ -18,7 +18,7 @@ The service dimension of 子供 matters just as much as the billing side. A rese
 
 **3.** お子様のお食事は、お子様ランチをご用意できます。
 *O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*
-"We can prepare a children's meal set for one's child."
+"We can prepare a children's meal set for your child."
 
 ## Related Expressions
 

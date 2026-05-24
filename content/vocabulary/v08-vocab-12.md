@@ -15,7 +15,7 @@ The pronunciation follows an irregular counter pattern that is often missed: 地
 
 **2.** お車は地下一階の駐車場にお停めいただけます。エレベーターのB1ボタンをどうぞ。
 *O-kuruma wa chika ikkai no chuushajou ni o-tome itadakemasu. Erebeetaa no B-wan botan wo douzo.*
-"You may park one's car in the basement-level-1 parking lot. Please press the B1 button in the elevator."
+"You may park your car in the basement-level-1 parking lot. Please press the B1 button in the elevator."
 
 **3.** プールは地下一階、エレベーターを降りて左にございます。
 *Puuru wa chika ikkai, erebeetaa wo orite hidari ni gozaimasu.*

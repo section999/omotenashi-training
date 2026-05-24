@@ -11,7 +11,7 @@ Direction-giving for エスカレーター needs to include which direction it i
 
 **1.** 上りのエスカレーターは正面にございます。足元にお気をつけください。
 *Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.*
-"The up escalator is straight ahead. Please watch one's step."
+"The up escalator is straight ahead. Please watch your step."
 
 **2.** 大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。
 *Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.*

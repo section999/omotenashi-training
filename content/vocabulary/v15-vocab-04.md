@@ -19,7 +19,7 @@ Guests with sensitive skin sometimes ask specifically about fragrance-free or hy
 
 **3.** 洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。
 *Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.*
-"Please be careful not to add too much detergent, as it may leave residue on one's clothes."
+"Please be careful not to add too much detergent, as it may leave residue on your clothes."
 
 ## Related Expressions
 

@@ -10,15 +10,15 @@ A common error is to underestimate how much the phrasing matters here. The reque
 
 **1.** チェックインの際に、緊急連絡先をお教えいただけますか。
 *Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*
-"When checking in, could you provide us with one's emergency contact information?"
+"When checking in, could you provide us with your emergency contact information?"
 
 **2.** 緊急連絡先はご家族の番号でよろしいでしょうか。
 *Kinkyuu renrakusaki wa go-kazoku no bangou de yoroshii deshou ka.*
-"Would a family member's number be appropriate as one's emergency contact?"
+"Would a family member's number be appropriate as your emergency contact?"
 
 **3.** 万が一の際のため、緊急連絡先をお控えいただいております。
 *Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.*
-"We keep one's emergency contact information on file in case of any unforeseen situation."
+"We keep your emergency contact information on file in case of any unforeseen situation."
 
 
 ## Related Expressions

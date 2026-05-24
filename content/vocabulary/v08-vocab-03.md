@@ -15,7 +15,7 @@ In hotel contexts, まっすぐ most commonly appears in combinations: まっす
 
 **2.** この廊下をまっすぐ進むと、右手にエレベーターがございます。
 *Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*
-"If you go straight down this corridor, one will find the elevator on one's right."
+"If you go straight down this corridor, one will find the elevator on your right."
 
 **3.** 駅までこの道をまっすぐ、徒歩約10分でございます。
 *Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*

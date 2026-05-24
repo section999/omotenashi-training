@@ -15,7 +15,7 @@ When processing a 返金, confirm three pieces of information before proceeding:
 
 **2.** 返金は〇営業日以内にお客様のカードへご返金いたします。
 *Henkin wa 〇 eigyou-bi inai ni okyakusama no kaado e go-henkin itashimasu.*
-"The refund will be returned to one's card within 〇 business days."
+"The refund will be returned to your card within 〇 business days."
 
 **3.** 請求誤りのため、差額を返金させていただきます。
 *Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.*

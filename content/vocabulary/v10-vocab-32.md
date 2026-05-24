@@ -15,7 +15,7 @@ Before applying any クーポン, check two things: that it's 有効 (valid, mea
 
 **2.** クーポンの有効期限をご確認ください。
 *Kūpon no yūkō kigen o gokakunin kudasai.*
-"Please check the expiry date of one's coupon."
+"Please check the expiry date of your coupon."
 
 **3.** 申し訳ございませんが、こちらのクーポンはレストランのご利用には適用できません。
 *Mōshiwake gozaimasen ga, kochira no kūpon wa resutoran no goriyō ni wa tekiyō dekimasen.*

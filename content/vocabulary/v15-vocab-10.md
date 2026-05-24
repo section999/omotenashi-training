@@ -5,13 +5,13 @@ title: 荷物預かり (nimotsu azukari)
 ---
 荷物預かり is the hotel service where staff temporarily hold a guest's luggage on their behalf. It is one of those quiet but valuable parts of hospitality that many guests rely on more than they expect. A guest arrives at 10am when the room will not be ready until 3pm? 荷物預かり lets them drop their bags and go explore rather than sitting in the lobby watching their suitcase. A guest who has checked out but has an evening flight? Same solution. This service removes a real friction point from the travel day, and offering it proactively, without waiting to be asked, is exactly the kind of thinking that omotenashi is built on.
 
-When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyone's experience smooth.
+When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyyour experience smooth.
 
 ## Example Sentences
 
 **1.** チェックインは午後3時からですが、お荷物はただいまからお預かりできます。
 *Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.*
-"Check-in begins at 3:00 PM, but we can take one's luggage right now."
+"Check-in begins at 3:00 PM, but we can take your luggage right now."
 
 **2.** 荷物預かりをご利用の際は、こちらの引換券を大切にお持ちください。
 *Nimotsu azukari o go-riyou no sai wa, kochira no hikikaeken o taisetsu ni o-mochi kudasai.*
@@ -19,7 +19,7 @@ When accepting luggage, staff should always issue a 引換券 (claim ticket), ta
 
 **3.** お預かりしている荷物は、当日のご出発時間まで安全に保管いたします。
 *O-azukari shite iru nimotsu wa, toujitsu no go-shuppatsu jikan made anzen ni hokan itashimasu.*
-"We will keep one's stored luggage safely until one's departure time today."
+"We will keep your stored luggage safely until your departure time today."
 
 ## Related Expressions
 

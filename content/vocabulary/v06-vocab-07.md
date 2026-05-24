@@ -11,7 +11,7 @@ When a guest reports a 紛失, the first step is to gather precise information c
 
 **1.** パスポートの紛失について、ただいま確認いたします。
 *Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.*
-"We will look into the matter of one's lost passport immediately."
+"We will look into the matter of your lost passport immediately."
 
 **2.** 紛失のご報告をいただきました場合、館内を調査いたします。
 *Funshitsu no go-houkoku wo itadakimashita baai, kannai wo chousa itashimasu.*
@@ -19,7 +19,7 @@ When a guest reports a 紛失, the first step is to gather precise information c
 
 **3.** お客様のご紛失物が見つかり次第、すぐにご連絡いたします。
 *O-kyaku-sama no go-funshitsubutsu ga mitsukari shidai, sugu ni go-renraku itashimasu.*
-"As soon as one's lost item is found, we will contact you immediately."
+"As soon as your lost item is found, we will contact you immediately."
 
 
 ## Related Expressions

@@ -14,7 +14,7 @@ The phrase has the same structural origin as *konnichiwa*, both were once part o
 
 **1.** こんばんは。お疲れのところ、ようこそお越しくださいました。
 *Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*
-"Good evening. Welcome, and thank you for coming despite one's tiredness."
+"Good evening. Welcome, and thank you for coming despite your tiredness."
 
 **2.** こんばんは。お夕食はご予約をいただいておりますでしょうか。
 *Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.*

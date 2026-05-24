@@ -19,7 +19,7 @@ Management in hotels and ryokan has to balance genuine operational flexibility w
 
 **3.** 残業をする場合は事前に上司の承認を得てください。
 *Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*
-"If you need to work overtime, please obtain one's supervisor's approval in advance."
+"If you need to work overtime, please obtain your supervisor's approval in advance."
 
 
 ## Related Expressions

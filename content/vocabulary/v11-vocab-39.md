@@ -11,11 +11,11 @@ The phrase is most effective when framed with a polite apology at the front and 
 
 **1.** 恐れ入りますが、もう一度お願いします。お名前をはっきりお聞かせいただけますか。
 *Osore irimasu ga, mouichido onegai shimasu. Onamae wo hakkiri okikase itadakemasu ka.*
-"I beg one's pardon, but could I ask you once more? Could you please tell me one's name clearly?"
+"I beg your pardon, but could I ask you once more? Could you please tell me your name clearly?"
 
 **2.** 申し訳ございません、チェックイン日をもう一度お願いします。
 *Moushiwake gozaimasen, chekkuin bi wo mouichido onegai shimasu.*
-"I sincerely apologize: could you please repeat one's check-in date once more?"
+"I sincerely apologize: could you please repeat your check-in date once more?"
 
 **3.** 恐れ入りますが、もう一度おっしゃっていただけますでしょうか。確認のため復唱いたします。
 *Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.*

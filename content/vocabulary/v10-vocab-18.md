@@ -10,15 +10,15 @@ Staff most commonly offer 利用明細 at checkout, either as a printed document
 
 **1.** ご精算時に利用明細をお渡しいたします。
 *Go-seisan-ji ni riyou meisai o owatashi itashimasu.*
-"We will provide one's usage statement at checkout."
+"We will provide your usage statement at checkout."
 
 **2.** 利用明細はメールにてお送りすることも可能でございます。
 *Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*
-"We can also send one's usage statement by email."
+"We can also send your usage statement by email."
 
 **3.** ご不明な点がございましたら、利用明細をご確認ください。
 *Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.*
-"If you have any questions, please refer to one's usage statement."
+"If you have any questions, please refer to your usage statement."
 
 ## Related Expressions
 

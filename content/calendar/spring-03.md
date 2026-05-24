@@ -6,18 +6,18 @@ title: Golden Week, Late April to Early May
 
 **Season:** Spring · Late April to Early May
 
-Golden Week is Japan's longest national holiday cluster ,  a series of public holidays concentrated over approximately ten days. The holidays are: **Showa Day** (April 29), **Constitution Day** (May 3), **Greenery Day** (May 4), and **Children's Day** (May 5). When adjacent weekends are included, many Japanese take the full week off, producing one of the largest concentrated travel periods in the world.
+Golden Week is Japan's longest national holiday cluster, a series of public holidays concentrated over approximately ten days. The holidays are: **Showa Day** (April 29), **Constitution Day** (May 3), **Greenery Day** (May 4), and **Children's Day** (May 5). When adjacent weekends are included, many Japanese take the full week off, producing one of the largest concentrated travel periods in the world.
 
 ## What Golden Week Means in Practice
 
 - Hotels and ryokan are fully booked months in advance
-- Transport infrastructure operates at maximum capacity ,  bullet trains, airports, and highways are all crowded
+- Transport infrastructure operates at maximum capacity, bullet trains, airports, and highways are all crowded
 - Domestic travel dominates, meaning the majority of guests at traditional Japanese properties will be Japanese families
 - Restaurants, attractions, and popular destinations see multi-hour queues
 
 ## The Guest Experience
 
-Guests arrive in holiday mode ,  relaxed, indulgent, and expecting premium experiences. They have planned this trip for months and are investing significant time and money. The emotional expectation is high. Children's Day (May 5) in particular creates a family-dominated atmosphere, and properties should anticipate the needs of families with young children: appropriate menu items, family-friendly activities, and accessible spaces.
+Guests arrive in holiday mode, relaxed, indulgent, and expecting premium experiences. They have planned this trip for months and are investing significant time and money. The emotional expectation is high. Children's Day (May 5) in particular creates a family-dominated atmosphere, and properties should anticipate the needs of families with young children: appropriate menu items, family-friendly activities, and accessible spaces.
 
 ## Service Under Pressure
 
@@ -29,7 +29,7 @@ Practical preparations include:
 - Brief all teams on full occupancy and anticipated demand peaks
 - Ensure all amenities, room supplies, and restaurant stock are fully prepared before the period begins
 - Consider offering extended breakfast and dining service hours
-- For guests who encounter unavoidable waits, a small gesture of acknowledgement ,  water, a genuine word of thanks for their patience ,  goes a long way
+- For guests who encounter unavoidable waits, a small gesture of acknowledgement, water, a genuine word of thanks for their patience, goes a long way
 
 ---
 

@@ -15,11 +15,11 @@ The process starts with confirming the 宛名 before printing anything. For indi
 
 **2.** 宛名はいかがいたしましょうか。会社名でよろしいでしょうか。
 *Atena wa ikaga itashimashoo ka. Kaisha mei de yoroshii deshou ka.*
-"What name shall I put on the receipt? Would one's company name be correct?"
+"What name shall I put on the receipt? Would your company name be correct?"
 
 **3.** ただいま領収書を発行いたします。少々お待ちください。
 *Tadaima ryoushuusho wo hakkou itashimasu. Shoushou o-machi kudasai.*
-"I will issue one's receipt right away. Please wait just a moment."
+"I will issue your receipt right away. Please wait just a moment."
 
 
 ## Related Expressions

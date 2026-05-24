@@ -10,11 +10,11 @@ When a クレーム comes in, it should trigger a clear internal process: staff 
 
 **1.** お客様のクレームに対し、誠心誠意をもって対応いたします。
 *O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*
-"We will handle one's complaint with complete sincerity and dedication."
+"We will handle your complaint with complete sincerity and dedication."
 
 **2.** ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。
 *Tadaima kuremu no naiyou wo kakunin shite orimasu no de, shoushou omachi kudasaimase.*
-"We are currently reviewing the details of one's complaint, so please wait just a moment."
+"We are currently reviewing the details of your complaint, so please wait just a moment."
 
 **3.** クレームをいただいた際は、責任者がご対応させていただきます。
 *Kuremu wo itadaita sai wa, sekininsha ga go-taiou sasete itadakimasu.*

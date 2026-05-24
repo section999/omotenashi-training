@@ -10,15 +10,15 @@ Before processing any 予約変更, staff should review three things: the bookin
 
 **1.** 予約変更のご希望を承りました。どのような内容の変更をご希望でしょうか。
 *Yoyaku henkou no go-kibou wo uketamawarimashita. Donna youna naiyou no henkou wo go-kibou deshou ka.*
-"I have received one's request to modify one's reservation. What aspect of one's booking would you like to change?"
+"I have received your request to modify your reservation. What aspect of your booking would you like to change?"
 
 **2.** チェックイン日の予約変更につきまして、新しい日程の空き状況を確認いたします。少々お待ちくださいませ。
 *Chekkuin-bi no yoyaku henkou ni tsukimashite, atarashii nittei no aki joukyou wo kakunin itashimasu. Shoushou o-machi kudasaimase.*
-"Regarding the change to one's check-in date, I am checking availability for the new dates. Please wait a moment."
+"Regarding the change to your check-in date, I am checking availability for the new dates. Please wait a moment."
 
 **3.** 変更後の予約内容をご確認いただけますでしょうか。お部屋が〇〇号室から〇〇号室への変更となります。
 *Henkou go no yoyaku naiyou wo go-kakunin itadakemasu deshou ka. O-heya ga〇〇goushitsu kara〇〇goushitsu e no henkou to narimasu.*
-"Could you please confirm one's updated reservation details? The room will be changed from room [number] to room [number]."
+"Could you please confirm your updated reservation details? The room will be changed from room [number] to room [number]."
 
 ## Related Expressions
 

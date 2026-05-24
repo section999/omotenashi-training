@@ -15,7 +15,7 @@ When a 地震 occurs, staying calm, using simple and reassuring language with gu
 
 **2.** ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。
 *Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.*
-"An earthquake has just occurred. Please do not panic: crouch down where one is and protect one's head."
+"An earthquake has just occurred. Please do not panic: crouch down where one is and protect your head."
 
 **3.** 地震後は安全確認が完了するまで、エレベーターはご利用になれません。
 *Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*

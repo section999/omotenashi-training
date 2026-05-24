@@ -19,7 +19,7 @@ In day-to-day service, 予約日 surfaces when a guest questions whether a disco
 
 **3.** 予約日をご確認のうえ、ご利用プランをご案内いたします。
 *Yoyaku bi o go-kakunin no ue, go-riyou puran o go-annai itashimasu.*
-"We will confirm one's reservation date before advising you on the applicable plan."
+"We will confirm your reservation date before advising you on the applicable plan."
 
 
 ## Related Expressions

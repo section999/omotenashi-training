@@ -19,7 +19,7 @@ Managers in hotels and ryokan use 勤務 when discussing attendance records, eva
 
 **3.** 長年の勤務に感謝し、表彰状をお贈りします。
 *Naganen no kinmu ni kansha shi, hyoushoujou o ookuri shimasu.*
-"In appreciation of one's many years of dedicated service, we present you with this certificate of commendation."
+"In appreciation of your many years of dedicated service, we present you with this certificate of commendation."
 
 
 ## Related Expressions

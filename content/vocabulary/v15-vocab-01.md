@@ -19,7 +19,7 @@ When a guest comes to the front desk asking about ランドリー, staff should 
 
 **3.** 旅館では翌朝までにランドリーを仕上げてお部屋にお届けいたします。
 *Ryokan de wa yokuasa made ni randorii o shiagete o-heya ni o-todoke itashimasu.*
-"At our ryokan, we will have one's laundry finished and delivered to the room by the following morning."
+"At our ryokan, we will have your laundry finished and delivered to the room by the following morning."
 
 ## Related Expressions
 

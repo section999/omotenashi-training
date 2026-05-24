@@ -18,7 +18,7 @@ Staff ask about seating preference using the paired question 禁煙席と喫煙�
 
 **3.** 当レストランは全席禁煙でございます。あらかじめご了承くださいませ。
 *Tou resutoran wa zenseki kin'en de gozaimasu. Arakajime go-ryoushou kudasaimase.*
-"This restaurant is entirely non-smoking. We appreciate one's understanding in advance."
+"This restaurant is entirely non-smoking. We appreciate your understanding in advance."
 
 
 ## Related Expressions

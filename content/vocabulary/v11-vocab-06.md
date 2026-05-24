@@ -18,7 +18,7 @@ The phrase is only as good as what follows it. If the wait goes beyond about 30 
 
 **3.** お待たせいたしました。お調べした結果をご報告いたします。
 *Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.*
-"Thank you for one's patience. I will now share the results of my inquiry."
+"Thank you for your patience. I will now share the results of my inquiry."
 
 
 ## Related Expressions

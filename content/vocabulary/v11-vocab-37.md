@@ -11,7 +11,7 @@ An important skill with わかりました is not just saying it but what comes 
 
 **1.** わかりました。ご希望のお時間に合わせてご準備いたします。
 *Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.*
-"Understood. We will prepare in line with one's preferred time."
+"Understood. We will prepare in line with your preferred time."
 
 **2.** わかりました、すぐに担当のスタッフにお伝えいたします。
 *Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.*
@@ -19,7 +19,7 @@ An important skill with わかりました is not just saying it but what comes 
 
 **3.** ご事情はよくわかりました。できる限り対応いたします。
 *Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.*
-"I fully understand one's circumstances. We will do our best to accommodate you."
+"I fully understand your circumstances. We will do our best to accommodate you."
 
 
 ## Related Expressions

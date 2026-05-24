@@ -15,11 +15,11 @@ Keeping track of 残高 is a quiet but critical part of smooth hospitality opera
 
 **2.** 残高が不足している場合はお知らせいたします。
 *Zandaka ga fusoku shite iru baai wa oshirase itashimasu.*
-"We will notify you if one's balance is insufficient."
+"We will notify you if your balance is insufficient."
 
 **3.** プリペイドカードの残高をご確認いただけますか。
 *Puripeido kaado no zandaka o go-kakunin itadakemasu ka.*
-"Could you please check the balance on one's prepaid card?"
+"Could you please check the balance on your prepaid card?"
 
 
 ## Related Expressions

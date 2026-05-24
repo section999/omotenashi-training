@@ -12,7 +12,7 @@ When guests ask about dining, staff should be ready with operating hours, curren
 
 **1.** レストランはフロントを出て、左手にございます。
 *Resutoran wa furonto wo dete, hidarite ni gozaimasu.*
-"The restaurant is on one's left as one exit the front desk."
+"The restaurant is on your left as one exit the front desk."
 
 **2.** 本日のレストランの営業時間は18時から22時までとなっております。
 *Honjitsu no resutoran no eigyou jikan wa juuhachi-ji kara nijuuni-ji made to natte orimasu.*

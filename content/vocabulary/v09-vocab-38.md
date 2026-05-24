@@ -14,7 +14,7 @@ In a hospitality context, a complete answer to a question about 受付時間 has
 
 **2.** ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。
 *Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*
-"If one's arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements."
+"If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements."
 
 **3.** 受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。
 *Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*

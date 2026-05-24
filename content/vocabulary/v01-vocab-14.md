@@ -13,7 +13,7 @@ The key thing to understand is that *osore irimasu* is always about humbling one
 
 **1.** 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。
 *Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*
-"I am terribly sorry to trouble you, but could I ask one's name once more?"
+"I am terribly sorry to trouble you, but could I ask your name once more?"
 
 **2.** 恐れ入ります。ただいまご確認いたします。
 *Osore irimasu. Tadaima go-kakunin itashimasu.*

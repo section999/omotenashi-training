@@ -14,7 +14,7 @@ Effective 説明 follows a structure: telling the guest what one is about to exp
 
 **2.** チェックアウトの手順をご説明いたしますので、よろしければお聞きください。
 *Chekkuauto no tejun wo go-setsumei itashimasu node, yoroshikereba okiki kudasai.*
-"I will explain the check-out procedure: please listen at one's convenience."
+"I will explain the check-out procedure: please listen at your convenience."
 
 **3.** 以上がご朝食会場へのご説明でございます。ご不明な点はございますでしょうか。
 *Ijou ga go-choushoku kaijou e no go-setsumei de gozaimasu. Go-fumei na ten wa gozaimasu deshou ka.*

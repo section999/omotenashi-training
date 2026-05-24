@@ -19,7 +19,7 @@ title: 幼児 (youji)
 
 **3.** ご予約に幼児のお子様がいらっしゃいますので、安全のためチャイルドロックをお部屋に設置いたします。
 *Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.*
-"Since one's reservation includes an infant, we will install child locks in the room for safety."
+"Since your reservation includes an infant, we will install child locks in the room for safety."
 
 
 ## Related Expressions

@@ -14,7 +14,7 @@ Staff encounter 追加 most often at the front desk and through housekeeping req
 
 **2.** ご朝食に一品追加いただく場合は、別途料金が発生いたします。
 *Go-choushoku ni ippin tsuika itadaku baai wa, betto ryoukin ga hassei itashimasu.*
-"If you add an item to one's breakfast, a separate charge will apply."
+"If you add an item to your breakfast, a separate charge will apply."
 
 **3.** 枕の追加が必要でしたら、いつでもフロントまでお申しつけください。
 *Makura no tsuika ga hitsuyou deshitara, itsudemo furonto made o-moushitsuke kudasai.*

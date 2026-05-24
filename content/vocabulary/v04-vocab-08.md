@@ -18,7 +18,7 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 
 **3.** お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。
 *Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*
-"If you would like one's tea replenished, please let the front desk know at any time."
+"If you would like your tea replenished, please let the front desk know at any time."
 
 ## Related Expressions
 

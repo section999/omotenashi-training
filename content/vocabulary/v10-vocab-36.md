@@ -19,7 +19,7 @@ title: 署名 (shomei)
 
 **3.** ご署名いただいた書類はお控えとしてお渡しいたします。
 *Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.*
-"We will provide you with a copy of the signed document for one's records."
+"We will provide you with a copy of the signed document for your records."
 
 
 ## Related Expressions

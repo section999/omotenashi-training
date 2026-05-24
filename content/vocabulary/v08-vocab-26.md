@@ -19,7 +19,7 @@ Note: the goal when using 秒 is not to sound technical but to make precision fe
 
 **3.** このドアは閉めると3秒後にロックされます。カードキーをお持ちください。
 *Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.*
-"This door locks 3 seconds after closing. Please keep one's key card with you."
+"This door locks 3 seconds after closing. Please keep your key card with you."
 
 
 ## Related Expressions

@@ -18,7 +18,7 @@ Staff should proactively ask whether the guest requires a 領収書 rather than 
 
 **3.** こちらが領収書でございます。ご確認くださいませ。
 *Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.*
-"Here is one's receipt. Please take a moment to review it."
+"Here is your receipt. Please take a moment to review it."
 
 
 ## Related Expressions

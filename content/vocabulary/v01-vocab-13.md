@@ -22,7 +22,7 @@ Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, a
 
 **3.** 今後ともよろしくお願いいたします。
 *Kongo tomo yoroshiku o-negai itashimasu.*
-"I look forward to one's continued support." (Standard polite closing)
+"I look forward to your continued support." (Standard polite closing)
 
 ## Related Expressions
 

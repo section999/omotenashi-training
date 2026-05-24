@@ -14,7 +14,7 @@ a senior concierge or front desk supervisor will give 指導 by walking a new hi
 
 **2.** 丁寧なご指導のおかげで、業務に自信が持てるようになりました。
 *Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.*
-"Thanks to one's thorough guidance, I have grown confident in my duties."
+"Thanks to your thorough guidance, I have grown confident in my duties."
 
 **3.** 新人研修では、接客マナーについての指導を重点的に行っています。
 *Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*

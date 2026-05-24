@@ -22,7 +22,7 @@ During the walk itself, the guiding staff member typically walks slightly ahead 
 
 **3.** こちらへどうぞ。足元にお気をつけくださいませ。
 *Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.*
-"Please come this way. Please watch one's step."
+"Please come this way. Please watch your step."
 
 ## Related Expressions
 

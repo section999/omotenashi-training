@@ -10,7 +10,7 @@ The standard phrase for starting this process is ご予約の確認をさせて�
 
 **1.** ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。
 *Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.*
-"Allow me to confirm one's reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?"
+"Allow me to confirm your reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?"
 
 **2.** お電話でご予約の確認を承っております。
 *O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.*

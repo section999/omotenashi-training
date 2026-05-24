@@ -10,11 +10,11 @@ Guests typically receive a 確認番号 at the time of booking via email, SMS, o
 
 **1.** 恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。
 *Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*
-"I apologize for the trouble: could you please provide one's reservation confirmation number?"
+"I apologize for the trouble: could you please provide your reservation confirmation number?"
 
 **2.** 確認番号はご予約確認メールに記載されております。
 *Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.*
-"Your confirmation number is included in one's reservation confirmation email."
+"Your confirmation number is included in your reservation confirmation email."
 
 **3.** 確認番号〇〇番のご予約を確認いたしました。
 *Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.*

@@ -6,7 +6,7 @@ title: New Fiscal & Academic Year (新年度 Shinnendo), April 1
 
 **Season:** Spring · March to May
 
-Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and new employees ,  *shinjin sha-in* (新入社員) ,  begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
+Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and new employees, *shinjin sha-in* (新入社員), begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
 
 ## The Emotional Landscape
 
@@ -16,9 +16,9 @@ Reading the specific emotional tone of each guest and responding to it is more n
 
 ## Who You Are Likely to See
 
-- **Families with young adults and boxes** ,  likely accompanying a new university student moving into accommodation. A warm, celebratory tone is appropriate; offer practical help with the logistics of the day.
-- **Formally dressed solo guests** ,  likely new employees or transferred staff. Professional warmth is right; do not probe for personal details, but be ready to assist with local information.
-- **Groups with flowers and gifts** ,  likely a farewell gathering for a departing colleague. Give them space and offer attentive, unobtrusive service.
+- **Families with young adults and boxes**, likely accompanying a new university student moving into accommodation. A warm, celebratory tone is appropriate; offer practical help with the logistics of the day.
+- **Formally dressed solo guests**, likely new employees or transferred staff. Professional warmth is right; do not probe for personal details, but be ready to assist with local information.
+- **Groups with flowers and gifts**, likely a farewell gathering for a departing colleague. Give them space and offer attentive, unobtrusive service.
 
 ## Service Guidance
 

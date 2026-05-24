@@ -11,11 +11,11 @@ The trickier part of 分 is its pronunciation changes, and this is where common 
 
 **1.** 空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。
 *Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.*
-"It is 30 minutes by car to the airport. We recommend departing at least 2 hours before one's flight."
+"It is 30 minutes by car to the airport. We recommend departing at least 2 hours before your flight."
 
 **2.** ただいまお席の準備中でございます。約5分でご案内できます。
 *Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.*
-"We are currently preparing one's table. We can seat you in approximately 5 minutes."
+"We are currently preparing your table. We can seat you in approximately 5 minutes."
 
 **3.** エレベーターで3分、徒歩ですと約10分でお着きになれます。
 *Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.*

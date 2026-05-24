@@ -15,7 +15,7 @@ The cultural weight of proactive safety communication in Japanese hospitality is
 
 **2.** ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。
 *Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.*
-"For one's safety during the stay, we recommend confirming the location of emergency exits on each floor."
+"For your safety during the stay, we recommend confirming the location of emergency exits on each floor."
 
 **3.** こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。
 *Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.*

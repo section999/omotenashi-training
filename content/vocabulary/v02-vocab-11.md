@@ -10,7 +10,7 @@ The same humble language principles that apply to passport requests apply here t
 
 **1.** 身分証明書を拝見してもよろしいでしょうか。
 *Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*
-"May I see one's identification?"
+"May I see your identification?"
 
 **2.** 運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。
 *Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*
@@ -18,7 +18,7 @@ The same humble language principles that apply to passport requests apply here t
 
 **3.** 身分証明書はご確認後すぐにお返しいたします。
 *Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*
-"We will return one's identification immediately after reviewing it."
+"We will return your identification immediately after reviewing it."
 
 ## Related Expressions
 

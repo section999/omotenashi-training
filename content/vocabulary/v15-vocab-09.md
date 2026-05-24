@@ -11,15 +11,15 @@ Knowing the related services is just as important as knowing the word. Luggage s
 
 **1.** お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。
 *O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*
-"We will hold one's luggage here. We will bring it to the room as soon as it is ready."
+"We will hold your luggage here. We will bring it to the room as soon as it is ready."
 
 **2.** チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。
 *Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.*
-"Even after check-out, we can hold one's luggage at the front desk until one's departure."
+"Even after check-out, we can hold your luggage at the front desk until your departure."
 
 **3.** お荷物の中に壊れやすいものはございますか？特別に対応いたします。
 *O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*
-"Are there any fragile items in one's luggage? We will handle them with special care."
+"Are there any fragile items in your luggage? We will handle them with special care."
 
 ## Related Expressions
 
@@ -28,7 +28,7 @@ Knowing the related services is just as important as knowing the word. Luggage s
 
 ## Common Mistakes
 
-The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someone's bag without a word can come across as intrusive rather than helpful.
+The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someyour bag without a word can come across as intrusive rather than helpful.
 
 ---
 

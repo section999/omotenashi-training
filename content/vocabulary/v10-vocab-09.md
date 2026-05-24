@@ -14,7 +14,7 @@ The expected protocol is: state the amount received, confirm the total, then sta
 
 **2.** お釣りをお盆に乗せてお渡しいたします。
 *O-tsuri wo o-bon ni nosete o-watashi itashimasu.*
-"I will hand you one's change on a tray."
+"I will hand you your change on a tray."
 
 **3.** お釣りは500円硬貨1枚でございます。ご確認をお願いいたします。
 *O-tsuri wa go-hyaku en kouka ichi-mai de gozaimasu. Go-kakunin wo o-negai itashimasu.*

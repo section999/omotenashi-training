@@ -10,7 +10,7 @@ When a guest presents a バウチャー, staff should check three things before 
 
 **1.** バウチャーをフロントにてご提示ください。
 *Bauchā o furonto nite goteiji kudasai.*
-"Please present one's voucher at the front desk."
+"Please present your voucher at the front desk."
 
 **2.** こちらのバウチャーはお食事付きのご宿泊に適用されます。
 *Kochira no bauchā wa oshokuji-tsuki no goshukuhaku ni tekiyō saremasu.*
@@ -18,7 +18,7 @@ When a guest presents a バウチャー, staff should check three things before 
 
 **3.** バウチャーの内容を確認させていただきます。
 *Bauchā no naiyō o kakunin sasete itadakimasu.*
-"Allow me to verify the details of one's voucher."
+"Allow me to verify the details of your voucher."
 
 
 ## Related Expressions

@@ -10,15 +10,15 @@ Staff use お名前 at virtually every stage of the guest journey: when confirmi
 
 **1.** お名前をお伺いしてもよろしいでしょうか。
 *O-namae o o-ukagai shite mo yoroshii deshō ka.*
-"May I ask one's name?"
+"May I ask your name?"
 
 **2.** 田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。
 *Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.*
-"Mr./Ms. Tanaka, I have confirmed one's reservation. Thank you for visiting us today."
+"Mr./Ms. Tanaka, I have confirmed your reservation. Thank you for visiting us today."
 
 **3.** 恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。
 *Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*
-"I apologise for the inconvenience: could you kindly tell me one's name once more?"
+"I apologise for the inconvenience: could you kindly tell me your name once more?"
 
 
 ## Related Expressions

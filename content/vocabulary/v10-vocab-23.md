@@ -12,7 +12,7 @@ When a guest requests a 取消, the proper sequence is: confirm the reservation 
 
 **1.** ご予約の取消を承りました。
 *Go-yoyaku no torikeshi o uketamattewarimashita.*
-"We have accepted one's cancellation."
+"We have accepted your cancellation."
 
 **2.** 取消の場合、キャンセル料が発生する場合がございます。
 *Torikeshi no baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*

@@ -15,7 +15,7 @@ From a management perspective, 出勤 records let supervisors spot patterns of l
 
 **2.** 本日は台風のため、出勤が難しい場合は上司に連絡してください。
 *Honjitsu wa taifuu no tame, shukkin ga muzukashii baai wa joushi ni renraku shite kudasai.*
-"If coming in to work is difficult today due to the typhoon, please contact one's supervisor."
+"If coming in to work is difficult today due to the typhoon, please contact your supervisor."
 
 **3.** 出勤時にタイムカードを押すことを忘れないでください。
 *Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.*

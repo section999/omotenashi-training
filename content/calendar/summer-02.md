@@ -6,7 +6,7 @@ title: Tanabata, Star Festival (七夕), July 7
 
 **Season:** Summer · July
 
-Tanabata celebrates the annual meeting of the star deities **Orihime (織姫)**, the weaving princess represented by the star Vega, and **Hikoboshi (彦星)**, the cowherd represented by the star Altair. According to the legend, they are separated by the Milky Way and allowed to meet only once a year, on the seventh day of the seventh month. The bittersweet quality of this reunion ,  anticipated for an entire year, over in a night ,  gives Tanabata its particular emotional resonance.
+Tanabata celebrates the annual meeting of the star deities **Orihime (織姫)**, the weaving princess represented by the star Vega, and **Hikoboshi (彦星)**, the cowherd represented by the star Altair. According to the legend, they are separated by the Milky Way and allowed to meet only once a year, on the seventh day of the seventh month. The bittersweet quality of this reunion, anticipated for an entire year, over in a night, gives Tanabata its particular emotional resonance.
 
 ## The Tradition of Tanzaku
 
@@ -24,9 +24,9 @@ A well-executed Tanabata display does three things: it celebrates the season, it
 
 - Place a decorated bamboo (*sasa*) in the lobby or common area with tanzaku and pens available
 - Station a staff member nearby who can explain the tradition briefly and invite participation without pressure
-- For Japanese guests, the tradition is familiar ,  acknowledge it warmly and invite them to add a wish
-- For international guests, a brief explanation transforms a decorative element into a cultural experience: *"This is a bamboo for Tanabata ,  we write wishes on the paper strips and hang them, sending them to the stars."*
-- Collect the wishes at the end of the day and, at some properties, burn them ceremonially ,  the traditional way to send wishes onward
+- For Japanese guests, the tradition is familiar, acknowledge it warmly and invite them to add a wish
+- For international guests, a brief explanation transforms a decorative element into a cultural experience: *"This is a bamboo for Tanabata, we write wishes on the paper strips and hang them, sending them to the stars."*
+- Collect the wishes at the end of the day and, at some properties, burn them ceremonially, the traditional way to send wishes onward
 
 ---
 

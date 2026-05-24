@@ -11,7 +11,7 @@ A confident menu explanation matters more than it may appear. When a guest seems
 
 **1.** こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。
 *Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.*
-"This is today's menu. Please take one's time looking through it."
+"This is today's menu. Please take your time looking through it."
 
 **2.** メニューについてご不明な点がございましたら、お気軽にお申し付けください。
 *Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*

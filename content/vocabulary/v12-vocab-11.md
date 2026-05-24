@@ -19,7 +19,7 @@ Japanese workplaces across many industries train staff in 危険予知 (kiken yo
 
 **3.** 露天風呂の岩場は濡れると危険ですので、足元にご注意ください。
 *Rotenburo no iwaba wa nureruto kiken desu node, ashimoto ni gochuui kudasai.*
-"The rock area around the outdoor bath is dangerous when wet, so please watch one's step."
+"The rock area around the outdoor bath is dangerous when wet, so please watch your step."
 
 
 ## Related Expressions

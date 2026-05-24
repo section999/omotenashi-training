@@ -10,15 +10,15 @@ Daily cleaning includes タオル交換 as a matter, but guests may ask for extr
 
 **1.** タオル交換はご希望のときにいつでも承ります。
 *Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.*
-"We are happy to exchange one's towels whenever you wish."
+"We are happy to exchange your towels whenever you wish."
 
 **2.** バスタオルとフェイスタオルの交換をご用意いたしました。
 *Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.*
-"We have prepared replacements for both one's bath towel and face towel."
+"We have prepared replacements for both your bath towel and face towel."
 
 **3.** タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。
 *Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.*
-"If you leave one's towels on the floor, we will replace them with fresh ones during cleaning."
+"If you leave your towels on the floor, we will replace them with fresh ones during cleaning."
 
 
 ## Related Expressions

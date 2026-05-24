@@ -14,11 +14,11 @@ In written contexts such as emails, printed confirmations, and room service menu
 
 **1.** こちらのご予約内容をご確認ください。
 *Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*
-"Please confirm the details of one's reservation."
+"Please confirm the details of your reservation."
 
 **2.** お名前のスペルをご確認いただけますでしょうか。
 *O-namae no superu wo go-kakunin itadakemasu deshō ka.*
-"Could I ask you to confirm the spelling of one's name?"
+"Could I ask you to confirm the spelling of your name?"
 
 **3.** ご請求書をご確認の上、ご署名をお願いいたします。
 *Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.*

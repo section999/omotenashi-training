@@ -10,11 +10,11 @@ title: 少々お待ちください (shoushou omachi kudasai)
 
 **1.** 少々お待ちください。ただいまご予約を確認いたします。
 *Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.*
-"Please wait just a moment. I will check one's reservation right now."
+"Please wait just a moment. I will check your reservation right now."
 
 **2.** お荷物をお預かりいたします。少々お待ちくださいませ。
 *O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.*
-"I will take one's luggage. Please wait just a moment."
+"I will take your luggage. Please wait just a moment."
 
 **3.** 少々お待ちいただけますか。担当の者にお繋ぎいたします。
 *Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*

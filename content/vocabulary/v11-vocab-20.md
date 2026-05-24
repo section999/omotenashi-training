@@ -11,15 +11,15 @@ In hotel telephone scripts, this phrase typically appears early in a call, right
 
 **1.** お名前を頂戴できますか？
 *Onamae wo choudai dekimasu ka.*
-"May I have one's name?"
+"May I have your name?"
 
 **2.** 恐れ入りますが、お名前を頂戴できますか？
 *Osoreirimasu ga, onamae wo choudai dekimasu ka.*
-"I apologize for the inconvenience, but may I have one's name?"
+"I apologize for the inconvenience, but may I have your name?"
 
 **3.** ご予約の確認のため、お名前を頂戴できますか？
 *Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*
-"May I have one's name in order to confirm one's reservation?"
+"May I have your name in order to confirm your reservation?"
 
 
 ## Related Expressions
@@ -38,7 +38,7 @@ Shortening the phrase to お名前は？ or お名前を教えてください wh
 ## Quiz
 
 **相手の名前を聞くときは____と言います。
-(When asking for someone's name, you say "May I have your name?")**
+(When asking for someyour name, you say "May I have your name?")**
 
 - A. お名前を頂戴できますか (may I have your name?)
 - B. ご用件をお伺いできますか (may I help you? / what is your business?)

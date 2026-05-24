@@ -11,7 +11,7 @@ The チェックイン process requires staff to speak clearly, use appropriate 
 
 **1.** チェックインでございますか？ご予約のお名前をお伺いしてもよろしいでしょうか。
 *Chekku-in de gozaimasu ka? Go-yoyaku no o-namae o o-ukagai shite mo yoroshii deshō ka.*
-"Are you checking in? May I ask the name on one's reservation?"
+"Are you checking in? May I ask the name on your reservation?"
 
 **2.** チェックインのお手続きが完了いたしました。こちらがルームキーでございます。
 *Chekku-in no o-tetsuzuki ga kanryō itashimashita. Kochira ga rūmu-kī de gozaimasu.*

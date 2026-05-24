@@ -4,7 +4,7 @@ section: 2
 title: Respect for the Aged Day (敬老の日), 3rd Monday of September
 ---
 
-**Keirō no Hi (敬老の日)**, Respect for the Aged Day, is a national holiday observed on the third Monday of September. It is dedicated to honouring Japan's elderly population and celebrating their contributions to society. Many families use this day to take older relatives on trips, organise celebratory meals, or visit destinations that may otherwise be difficult to access. Multi-generational groups ,  grandparents, adult children, and grandchildren together ,  are the defining guest profile of this period.
+**Keirō no Hi (敬老の日)**, Respect for the Aged Day, is a national holiday observed on the third Monday of September. It is dedicated to honouring Japan's elderly population and celebrating their contributions to society. Many families use this day to take older relatives on trips, organise celebratory meals, or visit destinations that may otherwise be difficult to access. Multi-generational groups, grandparents, adult children, and grandchildren together, are the defining guest profile of this period.
 
 ## Cultural Context
 
@@ -21,7 +21,7 @@ Elderly guests often have specific needs that may not be communicated directly. 
 
 ## The Acknowledgement Opportunity
 
-A small gesture directed specifically at the elderly guest ,  a seasonal flower, a personal note, a small seasonal sweet ,  communicates that the property has noticed the significance of the occasion. This is not about the cost of the gesture. It is about the recognition that this person and this day have been seen.
+A small gesture directed specifically at the elderly guest, a seasonal flower, a personal note, a small seasonal sweet, communicates that the property has noticed the significance of the occasion. This is not about the cost of the gesture. It is about the recognition that this person and this day have been seen.
 
 ---
 
@@ -52,4 +52,4 @@ Used when greeting accompanying family members. It acknowledges the group visit 
 
 **Correct Answer:** Address the grandmother directly and warmly as the primary guest; proactively offer accessible routing, an unhurried pace, and any practical assistance; consider a small personal acknowledgement of the occasion
 
-**Explanation:** On Keirō no Hi, the grandmother is the honoured guest, and directing your attention to her rather than routing everything through the adult managing the booking is a basic act of respect. Proactive, quietly offered assistance with routes and pace honours her dignity without making her feel singled out for her limitations. A small personal gesture ,  a seasonal sweet or a brief note ,  tells her the property noticed the significance of the occasion.
+**Explanation:** On Keirō no Hi, the grandmother is the honoured guest, and directing your attention to her rather than routing everything through the adult managing the booking is a basic act of respect. Proactive, quietly offered assistance with routes and pace honours her dignity without making her feel singled out for her limitations. A small personal gesture, a seasonal sweet or a brief note, tells her the property noticed the significance of the occasion.

@@ -11,11 +11,11 @@ The standard protocol is: ask politely with お電話番号をお伺いできま
 
 **1.** ご予約の確認のため、お電話番号をお伺いできますか。
 *Goyoyaku no kakunin no tame, odenwa bangō wo oukagai dekimasu ka.*
-"May I have one's phone number to confirm one's reservation?"
+"May I have your phone number to confirm your reservation?"
 
 **2.** 折り返しご連絡いたしますので、お電話番号を教えていただけますか。
 *Orikaeshi gorenraku itashimasu no de, odenwa bangō wo oshiete itadakemasu ka.*
-"We will call you back, so could you please give us one's phone number?"
+"We will call you back, so could you please give us your phone number?"
 
 **3.** ホテルの電話番号は03-1234-5678でございます。
 *Hoteru no denwa bangō wa zero san no ichi ni san yon no go roku nana hachi de gozaimasu.*

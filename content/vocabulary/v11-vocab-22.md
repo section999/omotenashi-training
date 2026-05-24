@@ -10,7 +10,7 @@ title: お問い合わせ (otoiawase)
 
 **1.** お問い合わせありがとうございます。○○ホテルでございます。
 *Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*
-"Thank you for one's inquiry. This is ○○ Hotel."
+"Thank you for your inquiry. This is ○○ Hotel."
 
 **2.** ご不明な点がございましたら、いつでもお問い合わせください。
 *Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*
@@ -18,7 +18,7 @@ title: お問い合わせ (otoiawase)
 
 **3.** お問い合わせの内容を担当部署に確認いたします。
 *Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*
-"I will check the details of one's inquiry with the relevant department."
+"I will check the details of your inquiry with the relevant department."
 
 
 ## Related Expressions

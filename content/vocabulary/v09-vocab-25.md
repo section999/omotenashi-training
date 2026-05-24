@@ -15,7 +15,7 @@ A key responsibility with 仮予約 is communicating the 確認期限 clearly. W
 
 **2.** 仮予約の確認期限は今月末でございます。それまでにご連絡いただけますようお願い申し上げます。
 *Kari-yoyaku no kakunin kigen wa kongetsu-matsu de gozaimasu. Sore made ni go-renraku itadakemasu you o-negai moushiagemasu.*
-"The confirmation deadline for one's tentative reservation is the end of this month. We ask that you contact us by then."
+"The confirmation deadline for your tentative reservation is the end of this month. We ask that you contact us by then."
 
 **3.** 期限内にご確認いただけない場合、仮予約が自動的にキャンセルとなる場合がございます。
 *Kigen nai ni go-kakunin itadakenai baai, kari-yoyaku ga jidou-teki ni kyanseru to naru baai ga gozaimasu.*

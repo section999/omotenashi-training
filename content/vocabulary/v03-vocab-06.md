@@ -14,7 +14,7 @@ Every interaction with a スイートルーム guest should be unhurried, measur
 
 **2.** スイートルームはリビングと寝室が別々になっておりますので、ごゆっくりおくつろぎください。
 *Suiito-ruumu wa ribingu to shinshitsu ga betsubetsu ni natte orimasu no de, go-yukkuri o-kutsurogi kudasai.*
-"The suite has a separate living room and bedroom, so please relax at one's leisure."
+"The suite has a separate living room and bedroom, so please relax at your leisure."
 
 **3.** ご不要なものがございましたら、いつでもスイートルームよりフロントへお申し付けください。
 *Go-fuyou na mono ga gozaimashitara, itsudemo suiito-ruumu yori furonto e o-moushitsuke kudasai.*

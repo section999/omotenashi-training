@@ -11,7 +11,7 @@ From a staff perspective, 早割 rates come with conditions that must be communi
 
 **1.** お客様のご予約は60日前となりますので、早割プランが適用されます。通常料金より20％お得でございます。
 *O-kyaku-sama no go-yoyaku wa rokujuunichi mae to narimasu node, hayawari puran ga tekiyou saremasu. Tsuujou ryoukin yori nijuu-paasento o-toku de gozaimasu.*
-"As one's reservation is 60 days in advance, the early bird discount plan applies. You will save 20% compared to the standard rate."
+"As your reservation is 60 days in advance, the early bird discount plan applies. You will save 20% compared to the standard rate."
 
 **2.** 早割プランは事前決済・返金不可となっておりますので、あらかじめご了承くださいませ。
 *Hayawari puran wa jizen kessai · henkin fuka to natte orimasu node, arakajime go-ryoushou kudasaimase.*

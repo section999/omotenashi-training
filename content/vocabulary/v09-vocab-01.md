@@ -11,7 +11,7 @@ When a guest contacts the hotel by phone, email, or in person, asking for the �
 
 **1.** ご予約番号をお知らせいただけますでしょうか。
 *Go-yoyaku bangou o oshirase itadakemasu deshou ka.*
-"Could you please provide one's reservation number?"
+"Could you please provide your reservation number?"
 
 **2.** 予約番号は確認メールに記載されております。
 *Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.*
@@ -19,7 +19,7 @@ When a guest contacts the hotel by phone, email, or in person, asking for the �
 
 **3.** 予約番号をもとにご予約内容を確認いたします。
 *Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.*
-"We will verify one's reservation details using one's reservation number."
+"We will verify your reservation details using your reservation number."
 
 
 ## Related Expressions
@@ -30,7 +30,7 @@ When a guest contacts the hotel by phone, email, or in person, asking for the �
 
 ## Common Mistakes
 
-A common error is to mix up 予約番号 and 部屋番号 (room number), which is only assigned after check-in. Quoting a room number when asked for a reservation number sends the lookup in completely the wrong direction and wastes everyone's time. Note: is the register issue: saying 予約番号は？ to a guest instead of ご予約番号をお知らせください sounds abrupt and strips away the courteous tone that formal hospitality communication requires. The ご- prefix is expected here; it signals respect and keeps the interaction warm even in a purely transactional moment.
+A common error is to mix up 予約番号 and 部屋番号 (room number), which is only assigned after check-in. Quoting a room number when asked for a reservation number sends the lookup in completely the wrong direction and wastes everyyour time. Note: is the register issue: saying 予約番号は？ to a guest instead of ご予約番号をお知らせください sounds abrupt and strips away the courteous tone that formal hospitality communication requires. The ご- prefix is expected here; it signals respect and keeps the interaction warm even in a purely transactional moment.
 
 ---
 

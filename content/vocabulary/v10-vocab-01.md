@@ -14,7 +14,7 @@ This phrase comes up most when a guest is about to pay or when explaining bookin
 
 **2.** チェックイン前に支払い方法をご確認いただけますでしょうか。
 *Chekkuin mae ni shiharai houhou wo go-kakunin itadakemasu deshou ka.*
-"Could we confirm one's preferred payment method before check-in?"
+"Could we confirm your preferred payment method before check-in?"
 
 **3.** 分割払いをご希望の場合は、支払い方法の変更が必要でございます。
 *Bunkatsu barai wo go-kibou no baai wa, shiharai houhou no henkou ga hitsuyou de gozaimasu.*

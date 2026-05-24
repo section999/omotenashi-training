@@ -11,7 +11,7 @@ Staff training on the 非常ベル is based on one core principle: treat every a
 
 **1.** 非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。
 *Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*
-"When the emergency bell sounds, please leave one's belongings and evacuate promptly."
+"When the emergency bell sounds, please leave your belongings and evacuate promptly."
 
 **2.** 非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。
 *Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*

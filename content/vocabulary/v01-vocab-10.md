@@ -18,7 +18,7 @@ In Japanese service culture, *iie* requires particular care. Directly refusing a
 
 **2.** はい、ご予約を確認いたしました。
 *Hai, go-yoyaku wo kakunin itashimashita.*
-"Yes, I have confirmed one's reservation."
+"Yes, I have confirmed your reservation."
 
 **3.** 申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。
 *Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.*

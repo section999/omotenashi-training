@@ -4,11 +4,11 @@ section: 2
 title: New Year, Oshogatsu (お正月), December 31 to January 3
 ---
 
-**Oshōgatsu (お正月)** is Japan's most important cultural period. December 31st, *Ōmisoka* (大晦日), is spent with family, marked by the sounds of *joya no kane* (除夜の鐘) ,  the 108 temple bell tolls heard at midnight that mark the transition to the new year. January 1st through 3rd are the core holiday days, during which many Japanese visit local shrines and temples for *hatsumode* (初詣, the year's first shrine visit). Ryokan, onsen resorts, and traditional properties are booked months in advance, often a year ahead.
+**Oshōgatsu (お正月)** is Japan's most important cultural period. December 31st, *Ōmisoka* (大晦日), is spent with family, marked by the sounds of *joya no kane* (除夜の鐘), the 108 temple bell tolls heard at midnight that mark the transition to the new year. January 1st through 3rd are the core holiday days, during which many Japanese visit local shrines and temples for *hatsumode* (初詣, the year's first shrine visit). Ryokan, onsen resorts, and traditional properties are booked months in advance, often a year ahead.
 
 ## The Significance of the New Year Transition
 
-The New Year in Japan carries an emotional weight that differs from most other cultures' celebrations. It is a moment of formal completion and formal beginning. The year's debts ,  social, professional, and personal ,  are acknowledged and settled. The arrival of the new year is greeted with solemnity as well as celebration. The *nengajo* (年賀状) tradition, in which elaborate handwritten or printed cards are sent to arrive on January 1st, reflects the depth of the occasion.
+The New Year in Japan carries an emotional weight that differs from most other cultures' celebrations. It is a moment of formal completion and formal beginning. The year's debts, social, professional, and personal, are acknowledged and settled. The arrival of the new year is greeted with solemnity as well as celebration. The *nengajo* (年賀状) tradition, in which elaborate handwritten or printed cards are sent to arrive on January 1st, reflects the depth of the occasion.
 
 ## Knowing When Each Greeting Applies
 
@@ -21,7 +21,7 @@ The most visible professional skill during this period is knowing exactly when e
 | Until mid-January | 本年もよろしくお願いいたします | First meeting in the new year |
 | After mid-January | Return to standard greetings | The New Year period has ended |
 
-Using the wrong greeting ,  wishing someone a "Happy New Year" on December 31st, or still using the New Year greeting in late January ,  signals inattentiveness to cultural precision.
+Using the wrong greeting, wishing someone a "Happy New Year" on December 31st, or still using the New Year greeting in late January, signals inattentiveness to cultural precision.
 
 ## Traditional Elements to Know
 
@@ -30,7 +30,7 @@ Being able to explain these elements briefly and accurately to international gue
 - *Kadomatsu* (門松): pine and bamboo gate decorations placed at entrances, symbolising the welcoming of ancestors
 - *Shimekazari* (注連飾り): sacred rope decorations hung at doorways to ward off evil spirits
 - *Kagami mochi* (鏡餅): stacked rice cakes decorated with a bitter orange, displayed as an offering and later eaten
-- *Osechi ryōri* (おせち料理): the traditional New Year's meal of lacquerware boxes filled with symbolic foods ,  each dish carries a specific meaning (black beans for health, herring roe for fertility, and so on)
+- *Osechi ryōri* (おせち料理): the traditional New Year's meal of lacquerware boxes filled with symbolic foods, each dish carries a specific meaning (black beans for health, herring roe for fertility, and so on)
 
 ---
 

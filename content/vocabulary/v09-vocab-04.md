@@ -11,11 +11,11 @@ Operationally, 到着日 comes up when guests request early check-in, when trans
 
 **1.** 到着日のご予定をお知らせいただけますでしょうか。
 *Touchaku bi no go-yotei o oshirase itadakemasu deshou ka.*
-"Could you please let us know one's planned arrival date?"
+"Could you please let us know your planned arrival date?"
 
 **2.** 到着日の午後3時以降にチェックインが可能でございます。
 *Touchaku bi no gogo san-ji ikou ni chekku-in ga kanou de gozaimasu.*
-"Check-in is available from 3:00 PM on one's arrival date."
+"Check-in is available from 3:00 PM on your arrival date."
 
 **3.** 到着日を早める場合は、事前にご連絡をいただけますと幸いです。
 *Touchaku bi o hayameru baai wa, jizen ni go-renraku o itadakemasu to saiwai desu.*

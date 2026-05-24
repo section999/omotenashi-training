@@ -10,7 +10,7 @@ When a guest asks for an extra or different 枕, staff should respond immediatel
 
 **1.** ご希望でしたら、枕の硬さをお選びいただけます。
 *Go-kibou deshitara, makura no katasa wo o-erabi itadakemasu.*
-"If you wish, one may choose the firmness of one's pillow."
+"If you wish, one may choose the firmness of your pillow."
 
 **2.** 追加の枕をすぐにお持ちいたします。少々お待ちくださいませ。
 *Tsuika no makura wo sugu ni o-mochi itashimasu. Shoushou o-machi kudasaimase.*

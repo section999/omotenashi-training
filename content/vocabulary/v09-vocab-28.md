@@ -16,7 +16,7 @@ When a guest asks about 延長, the front desk process has three steps that must
 
 **2.** ご延長の件、ただいまシステムで確認いたします。少々お待ちくださいませ。
 *Go-enchou no ken, tadaima shisutemu de kakunin itashimasu. Shoushou o-machi kudasaimase.*
-"Regarding one's request to extend the stay, I am checking the system now. Please wait just a moment."
+"Regarding your request to extend the stay, I am checking the system now. Please wait just a moment."
 
 **3.** 本日も同じお部屋にてご延長が可能でございます。追加料金は1泊〜円でございます。
 *Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku〜en de gozaimasu.*

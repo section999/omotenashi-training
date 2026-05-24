@@ -17,20 +17,20 @@ Guests visiting during Culture Day tend toward cultural exploration rather than 
 
 ## The Concierge and Recommendation Opportunity
 
-Culture Day is one of the best days of the year for hospitality staff to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer ,  not a general tourist pamphlet.
+Culture Day is one of the best days of the year for hospitality staff to demonstrate genuine local cultural knowledge. A guest who asks "what's on today?" deserves a specific, enthusiastic, well-informed answer, not a general tourist pamphlet.
 
 Know in advance:
 
 - Which museums in the area have free admission today and what their current exhibitions cover
 - Any traditional ceremonies happening at local temples, shrines, or public parks
-- Any outdoor performances of traditional arts ,  Noh, Gagaku, traditional dance
+- Any outdoor performances of traditional arts, Noh, Gagaku, traditional dance
 - Any seasonal craft demonstrations that align with autumn themes
 
-A recommendation that includes *why* an event is significant ,  not just its location ,  transforms it from information into hospitality.
+A recommendation that includes *why* an event is significant, not just its location, transforms it from information into hospitality.
 
 ## Combining Culture and Koyo
 
-November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape. For example: "The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard ,  it is only available on Culture Day." This kind of specific, layered recommendation is the standard to aim for.
+November 3rd falls in the heart of koyo season for most of Japan. Culture Day recommendations can weave cultural content with autumn landscape. For example: "The temple's autumn garden is at its peak right now, and today they are also holding a traditional music performance in the inner courtyard, it is only available on Culture Day." This kind of specific, layered recommendation is the standard to aim for.
 
 ---
 

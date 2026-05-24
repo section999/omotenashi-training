@@ -10,7 +10,7 @@ Airport hotels and transit accommodations deal with this most directly, since gu
 
 **1.** 入国の際には、必ずパスポートと入国カードをご用意ください。
 *Nyuukoku no sai ni wa, kanarazu pasupoto to nyuukoku kaado wo goyoui kudasai.*
-"Please make sure to have one's passport and arrival card ready when entering the country."
+"Please make sure to have your passport and arrival card ready when entering the country."
 
 **2.** 入国審査を終えたお客様は、そのままホテルのシャトルバス乗り場にお進みください。
 *Nyuukoku shinsa wo oeta okyakusama wa, sono mama hoteru no shatoru basu noriba ni osusumi kudasai.*

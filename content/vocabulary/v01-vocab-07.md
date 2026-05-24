@@ -18,7 +18,7 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 **2.** 失礼いたします。少々お時間をいただいてもよろしいでしょうか。
 *Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*
-"Excuse me. May I take a moment of one's time?"
+"Excuse me. May I take a moment of your time?"
 
 **3.** 失礼いたします。（ドアをノックして部屋に入る際に）
 *Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*

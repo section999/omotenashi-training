@@ -15,11 +15,11 @@ Many hotels and ryokan require staff to record their 退勤 time using a time-st
 
 **2.** 退勤前に必ず引き継ぎ事項を同僚に伝えてください。
 *Taikin mae ni kanarazu hikitsugi jikou o douryou ni tsutaete kudasai.*
-"Please be sure to inform one's colleague of handover items before leaving."
+"Please be sure to inform your colleague of handover items before leaving."
 
 **3.** タイムカードを退勤時に押し忘れた場合は、すぐに上司に報告してください。
 *Taimu-kaado o taikin-ji ni oshi-wasureta baai wa, sugu ni joushi ni houkoku shite kudasai.*
-"If you forget to clock out when leaving, please report it to one's supervisor immediately."
+"If you forget to clock out when leaving, please report it to your supervisor immediately."
 
 
 ## Related Expressions

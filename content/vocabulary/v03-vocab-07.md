@@ -11,7 +11,7 @@ Beyond the guest experience, 禁煙 has legal and safety implications. Smoking i
 
 **1.** ご予約は禁煙室でよろしいでしょうか？
 *Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?*
-"Is one's reservation for a non-smoking room?"
+"Is your reservation for a non-smoking room?"
 
 **2.** 当ホテルの上層階はすべて禁煙フロアとなっております。
 *Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*

@@ -11,15 +11,15 @@ Hotel staff use 受取 when confirming that a courier delivery has arrived, when
 
 **1.** フロントにてお荷物のお受け取りをお待ちしております。
 *Furonto nite o-nimotsu no o-uketori wo o-machi shite orimasu.*
-"We are holding one's parcel at the front desk, ready for you to collect."
+"We are holding your parcel at the front desk, ready for you to collect."
 
 **2.** クリーニングのお受け取りの際は、引換券をご提示ください。
 *Kuriiningu no o-uketori no sai wa, hikikaeken wo go-teiji kudasai.*
-"When collecting one's laundry, please present one's claim ticket."
+"When collecting your laundry, please present your claim ticket."
 
 **3.** お客様のお荷物を確認の上、受取が完了いたしました。
 *O-kyaku-sama no o-nimotsu wo kakunin no ue, uketori ga kanryou itashimashita.*
-"After confirming one's belongings, we have completed the receipt of one's item."
+"After confirming your belongings, we have completed the receipt of your item."
 
 ## Related Expressions
 

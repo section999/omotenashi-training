@@ -10,7 +10,7 @@ When a transaction calls for a 暗証番号, the PIN pad should be turned toward
 
 **1.** 恐れ入りますが、暗証番号をご入力ください。
 *Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.*
-"I apologize for the inconvenience: please enter one's PIN."
+"I apologize for the inconvenience: please enter your PIN."
 
 **2.** 端末をお客様の方へお向けいたします。
 *Tanmatsu o okyakusama no hō e omuke itashimasu.*
@@ -18,7 +18,7 @@ When a transaction calls for a 暗証番号, the PIN pad should be turned toward
 
 **3.** 暗証番号はお客様ご自身でご入力いただきますようお願いいたします。
 *Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.*
-"We ask that you enter one's PIN yourself."
+"We ask that you enter your PIN yourself."
 
 
 ## Related Expressions

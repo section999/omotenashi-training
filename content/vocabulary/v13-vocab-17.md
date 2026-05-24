@@ -20,7 +20,7 @@ In a hotel context, 報告 shows up constantly: a front desk associate reporting
 
 **3.** 業務の進捗を定期的に上司に報告することは、チームの信頼関係につながります。
 *Gyoumu no shinchoku wo teikiteki ni joushi ni houkoku suru koto wa, chiimu no shinrai kankei ni tsunagarimasu.*
-"Regularly reporting work progress to one's supervisor builds trust within the team."
+"Regularly reporting work progress to your supervisor builds trust within the team."
 
 
 ## Related Expressions

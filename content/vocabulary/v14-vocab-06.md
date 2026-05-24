@@ -18,7 +18,7 @@ This means knowing airport transfer options inside out, which train lines serve 
 
 **3.** 本日ご出国のお客様は、フロントにてお荷物をお預かりいたします。
 *Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.*
-"For guests departing the country today, we can hold one's luggage at the front desk."
+"For guests departing the country today, we can hold your luggage at the front desk."
 
 ## Related Expressions
 

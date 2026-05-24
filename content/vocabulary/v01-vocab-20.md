@@ -22,7 +22,7 @@ This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō
 
 **3.** またのお越しを、スタッフ一同心よりお待ち申し上げております。
 *Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*
-"All of our staff look forward with all their hearts to one's next visit."
+"All of our staff look forward with all their hearts to your next visit."
 
 ## Related Expressions
 

@@ -15,11 +15,11 @@ The protocol for handling 伝言 has three steps: receiving the message carefull
 
 **2.** ご伝言の内容を復唱いたします。〇〇様よりお電話があった旨、お伝えいたします。
 *Godengon no naiyō wo fukushō itashimasu. Maru-maru-sama yori odenwa ga atta mune, otsutatae itashimasu.*
-"I will repeat one's message back to you. I will let them know that Mr./Ms. [Name] called."
+"I will repeat your message back to you. I will let them know that Mr./Ms. [Name] called."
 
 **3.** 伝言をお預かりしましたので、戻り次第ご連絡いたします。
 *Dengon wo oazukari shimashita no de, modori shidai gorenraku itashimasu.*
-"I have taken one's message and will have them contact you as soon as they return."
+"I have taken your message and will have them contact you as soon as they return."
 
 
 ## Related Expressions

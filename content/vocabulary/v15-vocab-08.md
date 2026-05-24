@@ -15,7 +15,7 @@ The key is confirming the details before heading out: the room number, the prefe
 
 **2.** フロント宛てに荷物が届いておりますので、ご都合のよいときにお受け取りください。
 *Furonto ate ni nimotsu ga todoite orimasu no de, go-tsugou no yoi toki ni o-uketori kudasai.*
-"A package has been delivered to the front desk for you; please collect it at one's convenience."
+"A package has been delivered to the front desk for you; please collect it at your convenience."
 
 **3.** 配達時間のご希望がございましたら、お気軽にお申し付けください。
 *Haitatsu jikan no go-kibou ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.*

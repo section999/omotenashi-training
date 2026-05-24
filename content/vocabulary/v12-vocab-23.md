@@ -11,7 +11,7 @@ Beyond signage, 注意 is part of everyday spoken service. The phrase 足元に�
 
 **1.** 清掃後で床が濡れておりますので、足元に十分ご注意ください。
 *Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*
-"The floor is wet after cleaning, so please take extra care with one's footing."
+"The floor is wet after cleaning, so please take extra care with your footing."
 
 **2.** 温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。
 *Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.*

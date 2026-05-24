@@ -10,11 +10,11 @@ In a hospitality context, staff encounter キャンセル requests over the phon
 
 **1.** ご予約をキャンセルされますか。
 *Go-yoyaku wo kyanseru saremasu ka.*
-"Would you like to cancel one's reservation?"
+"Would you like to cancel your reservation?"
 
 **2.** キャンセル料につきましては、チェックイン日の三日前よりご請求となります。
 *Kyanseru-ryō ni tsukimashite wa, chekku-in-bi no mik-ka mae yori go-seikyū to narimasu.*
-"Cancellation fees will apply from three days before one's check-in date."
+"Cancellation fees will apply from three days before your check-in date."
 
 **3.** キャンセルのお手続きが完了いたしました。
 *Kyanseru no o-tetsuzuki ga kanryō itashimashita.*

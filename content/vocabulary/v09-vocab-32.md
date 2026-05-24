@@ -19,7 +19,7 @@ Hotels often handle 直前予約 differently from advance bookings. Special prom
 
 **3.** 直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。
 *Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.*
-"For last-minute reservation guests, please be aware that we may not be able to offer one's preferred room type depending on current availability."
+"For last-minute reservation guests, please be aware that we may not be able to offer your preferred room type depending on current availability."
 
 
 ## Related Expressions

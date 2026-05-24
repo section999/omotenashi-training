@@ -15,11 +15,11 @@ The most common mistake with 折り返し is leaving out the timeframe. Saying �
 
 **2.** 折り返しのお電話のため、お電話番号をお伺いできますか。
 *Orikaeshi no odenwa no tame, odenwa bangō wo oukagai dekimasu ka.*
-"May I have one's phone number so we can call you back?"
+"May I have your phone number so we can call you back?"
 
 **3.** 折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。
 *Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.*
-"We sincerely apologize for the delay in returning one's call."
+"We sincerely apologize for the delay in returning your call."
 
 
 ## Related Expressions

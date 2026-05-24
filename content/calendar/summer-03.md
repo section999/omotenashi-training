@@ -10,22 +10,22 @@ Obon is Japan's most significant ancestral remembrance period, observed across t
 
 ## The Emotional Register
 
-The atmosphere of Obon is unlike any other travel period in Japan. It is neither purely celebratory nor purely solemn ,  it is reflective and familial. Guests may be processing grief over recently lost family members. Others may simply be enjoying extended time with relatives they rarely see.
+The atmosphere of Obon is unlike any other travel period in Japan. It is neither purely celebratory nor purely solemn, it is reflective and familial. Guests may be processing grief over recently lost family members. Others may simply be enjoying extended time with relatives they rarely see.
 
 The tone is quiet, inward, and deeply personal. An overly cheerful or festive approach from staff can feel out of place against this backdrop.
 
 ## Who You Are Likely to See
 
-- **Families returning to hometowns** ,  often nostalgic, emotionally close, moving at a slow and deliberate pace
-- **Urban guests travelling to rural properties** ,  many city-dwellers specifically seek quiet ryokan during Obon to experience the traditional atmosphere
-- **Individuals travelling alone** ,  some guests observe Obon in a more personal way, visiting grave sites without family. These guests may be in a genuinely reflective or grieving state.
-- **International guests who happen to arrive** ,  may be surprised by the density of travel and the changed atmosphere. A brief cultural explanation helps them understand what they are observing.
+- **Families returning to hometowns**, often nostalgic, emotionally close, moving at a slow and deliberate pace
+- **Urban guests travelling to rural properties**, many city-dwellers specifically seek quiet ryokan during Obon to experience the traditional atmosphere
+- **Individuals travelling alone**, some guests observe Obon in a more personal way, visiting grave sites without family. These guests may be in a genuinely reflective or grieving state.
+- **International guests who happen to arrive**, may be surprised by the density of travel and the changed atmosphere. A brief cultural explanation helps them understand what they are observing.
 
 ## Service Adjustments for Obon
 
-- Adopt a quieter, more attentive service mode ,  less energy, more presence
+- Adopt a quieter, more attentive service mode, less energy, more presence
 - Avoid upbeat background music during this period in traditional properties; quieter ambient sound is more appropriate
-- If *bon odori* dances are occurring near or at the property, offer guests the opportunity to observe or participate ,  frame it as a cultural invitation, not a required activity
+- If *bon odori* dances are occurring near or at the property, offer guests the opportunity to observe or participate, frame it as a cultural invitation, not a required activity
 - For guests who seem reflective or subdued, do not attempt to elevate their mood with cheerfulness; simply be present and attentive
 
 ---
