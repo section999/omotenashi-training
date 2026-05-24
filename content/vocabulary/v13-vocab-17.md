@@ -10,17 +10,17 @@ In a hotel context, 報告 shows up constantly: a front desk associate reporting
 
 ## Example Sentences
 
-**1.** チェックアウト後のお客様からのご意見を、フロントマネージャーに報告いたしました。
-*Chekku auto go no okyaku-sama kara no go-iken wo, furonto maneejaa ni houkoku itashimashita.*
-"I reported the feedback received from the guest after checkout to the front manager."
+チェックアウト後のお客様からのご意見を、フロントマネージャーに報告いたしました。
+<small>*Chekku auto go no okyaku-sama kara no go-iken wo, furonto maneejaa ni houkoku itashimashita.*</small>
+I reported the feedback received from the guest after checkout to the front manager.
 
-**2.** 客室の設備に不具合が見つかりましたので、すぐにメンテナンス部門へ報告しました。
-*Kyakushitsu no setsubi ni fuguai ga mitsukarimashita node, sugu ni mentenansu bumon e houkoku shimashita.*
-"A malfunction was found in the guest room equipment, so I immediately reported it to the maintenance department."
+客室の設備に不具合が見つかりましたので、すぐにメンテナンス部門へ報告しました。
+<small>*Kyakushitsu no setsubi ni fuguai ga mitsukarimashita node, sugu ni mentenansu bumon e houkoku shimashita.*</small>
+A malfunction was found in the guest room equipment, so I immediately reported it to the maintenance department.
 
-**3.** 業務の進捗を定期的に上司に報告することは、チームの信頼関係につながります。
-*Gyoumu no shinchoku wo teikiteki ni joushi ni houkoku suru koto wa, chiimu no shinrai kankei ni tsunagarimasu.*
-"Regularly reporting work progress to your supervisor builds trust within the team."
+業務の進捗を定期的に上司に報告することは、チームの信頼関係につながります。
+<small>*Gyoumu no shinchoku wo teikiteki ni joushi ni houkoku suru koto wa, chiimu no shinrai kankei ni tsunagarimasu.*</small>
+Regularly reporting work progress to your supervisor builds trust within the team.
 
 
 ## Related Expressions

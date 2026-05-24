@@ -8,17 +8,17 @@ title: キャンセル料 (kyanseru ryou)
 Professional service requires knowing not just that the fee exists, but also the specific tiers attached to the プラン: when the charges start, what percentage applies at each stage, and what the actual yen amount will be. A statement like 「キャンセル料は、宿泊日の3日前から発生いたします。前日は50%、当日は100%の料金をいただきます」 gives the guest a clear picture before they confirm, so they are making an informed decision rather than agreeing to something they did not read
 ## Example Sentences
 
-**1.** このプランのキャンセル料は、3日前から宿泊料金の50%となっております。
-*Kono puran no kyanseru ryou wa, mikkamae kara shukuhaku ryoukin no gojuu-paasento to natte orimasu.*
-"The cancellation fee for this plan is 50% of the accommodation charge from 3 days before the stay."
+このプランのキャンセル料は、3日前から宿泊料金の50%となっております。
+<small>*Kono puran no kyanseru ryou wa, mikkamae kara shukuhaku ryoukin no gojuu-paasento to natte orimasu.*</small>
+The cancellation fee for this plan is 50% of the accommodation charge from 3 days before the stay.
 
-**2.** キャンセルのご連絡は、お早めにいただけますようお願い申し上げます。
-*Kyanseru no go-renraku wa, o-hayame ni itadakemasu you o-negai moushiagemasu.*
-"We kindly ask that you contact us as early as possible if one needs to cancel."
+キャンセルのご連絡は、お早めにいただけますようお願い申し上げます。
+<small>*Kyanseru no go-renraku wa, o-hayame ni itadakemasu you o-negai moushiagemasu.*</small>
+We kindly ask that you contact us as early as possible if one needs to cancel.
 
-**3.** 当日キャンセルの場合、キャンセル料として宿泊料金の全額をいただく場合がございます。
-*Toujitsu kyanseru no baai, kyanseru ryou toshite shukuhaku ryoukin no zengaku wo itadaku baai ga gozaimasu.*
-"In the case of a same-day cancellation, the full accommodation charge may be collected as a cancellation fee."
+当日キャンセルの場合、キャンセル料として宿泊料金の全額をいただく場合がございます。
+<small>*Toujitsu kyanseru no baai, kyanseru ryou toshite shukuhaku ryoukin no zengaku wo itadaku baai ga gozaimasu.*</small>
+In the case of a same-day cancellation, the full accommodation charge may be collected as a cancellation fee.
 
 
 ## Related Expressions

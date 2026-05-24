@@ -8,17 +8,17 @@ title: 交換希望 (koukan kibou)
 staff use this expression when logging requests in operational systems (「タオル交換希望、302号室」), communicating between departments via radio or messaging apps, and verifying with guests what they need: 「タオルの交換をご希望でございますか？ただいまご用意いたします」 (would one like a replacement towel? I will prepare one right away). In ryokan settings, yukata and bedding 交換希望 requests are especially common and should be handled with the same speed and grace as in Western hotels
 ## Example Sentences
 
-**1.** タオルの交換をご希望でございますね。すぐにお持ちいたします。
-*Taoru no koukan wo go-kibou de gozaimasu ne. Sugu ni o-mochi itashimasu.*
-"You would like a replacement towel, is that right? I will bring one right away."
+タオルの交換をご希望でございますね。すぐにお持ちいたします。
+<small>*Taoru no koukan wo go-kibou de gozaimasu ne. Sugu ni o-mochi itashimasu.*</small>
+You would like a replacement towel, is that right? I will bring one right away.
 
-**2.** お客様より寝具の交換希望をいただきましたので、ハウスキーピングに手配いたします。
-*O-kyaku-sama yori shingu no koukan kibou wo itadakimashita no de, hausukiipingu ni tearai itashimasu.*
-"We have received a bedding replacement request from the guest, so I will arrange it with housekeeping."
+お客様より寝具の交換希望をいただきましたので、ハウスキーピングに手配いたします。
+<small>*O-kyaku-sama yori shingu no koukan kibou wo itadakimashita no de, hausukiipingu ni tearai itashimasu.*</small>
+We have received a bedding replacement request from the guest, so I will arrange it with housekeeping.
 
-**3.** リモコンが故障している場合は、交換希望としてフロントにご連絡ください。
-*Rimokon ga koshou shite iru baai wa, koukan kibou toshite furonto ni go-renraku kudasai.*
-"If the remote control is not working, please contact the front desk with a replacement request."
+リモコンが故障している場合は、交換希望としてフロントにご連絡ください。
+<small>*Rimokon ga koshou shite iru baai wa, koukan kibou toshite furonto ni go-renraku kudasai.*</small>
+If the remote control is not working, please contact the front desk with a replacement request.
 
 
 ## Related Expressions

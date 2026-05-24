@@ -8,17 +8,11 @@ title: 接続不良 (setsuzoku furyou)
 When a guest reports 接続不良, the response follows a clear structure: acknowledging the issue, offering a practical alternative, and escalating to maintenance if needed. Useful phrases include 接続不良でご不便をおかけしております (I apologize for the inconvenience caused by the poor connection) and 別の回線をご用意いたします (we will prepare a different line). When reporting the issue internally, the term 接続不良 should be used specifically rather than just saying "the phone is bad." Maintenance teams diagnose 接続不良 differently from 切断, and accurate language gets the guest back to a working line faster
 ## Example Sentences
 
-**1.** 接続不良で通話が途切れました。別の回線をお試しいただけますか。
-*Setsuzoku furyou de tsuuwa ga togireimashita. Betsu no kaisen wo otameshi itadakemasu ka.*
-"The call was interrupted due to poor connection. Could you try a different line?"
-
-**2.** お客様のお部屋で接続不良が発生しているようです。技術担当に確認いたします。
-*Okyakusama no oheya de setsuzoku furyou ga hassei shite iru you desu. Gijutsu tantou ni kakunin itashimasu.*
-"It appears there is a poor connection in the room. I will check with our technical staff."
-
-**3.** 接続不良が続く場合は、フロントまでお知らせください。
-*Setsuzoku furyou ga tsuzuku baai wa, furonto made oshirase kudasai.*
-"If the poor connection continues, please let the front desk know."
+| Japanese | Meaning |
+|---|---|
+| 接続不良で通話が途切れました。別の回線をお試しいただけますか。<br><small>*Setsuzoku furyou de tsuuwa ga togireimashita. Betsu no kaisen wo otameshi itadakemasu ka.*</small> | The call was interrupted due to poor connection. Could you try a different line? |
+| お客様のお部屋で接続不良が発生しているようです。技術担当に確認いたします。<br><small>*Okyakusama no oheya de setsuzoku furyou ga hassei shite iru you desu. Gijutsu tantou ni kakunin itashimasu.*</small> | It appears there is a poor connection in the room. I will check with our technical staff. |
+| 接続不良が続く場合は、フロントまでお知らせください。<br><small>*Setsuzoku furyou ga tsuzuku baai wa, furonto made oshirase kudasai.*</small> | If the poor connection continues, please let the front desk know. |
 
 ## Related Expressions
 

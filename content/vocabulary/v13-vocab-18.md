@@ -8,17 +8,11 @@ title: 連絡 (renraku)
 Unlike 報告 (which flows upward to supervisors), 連絡 is typically horizontal, shared between peers or departments. However, it can also flow downward when a manager informs staff of a change. The medium of 連絡 varies: telephone, internal messaging systems, physical logbooks, or face-to-face conversation. In Japanese hospitality culture, the expectation is that 連絡 is made proactively, staff do not wait to be asked for updates, they share relevant information as soon as it becomes available
 ## Example Sentences
 
-**1.** お客様の到着が早まりましたので、客室係に連絡をいたしました。
-*Okyaku-sama no touchaku ga hayamarimashita node, kyakushitsu-gakari ni renraku wo itashimashita.*
-"The guest's arrival has moved earlier, so I contacted the room attendant."
-
-**2.** 急なキャンセルが入りましたので、レストランへの連絡をお願いいたします。
-*Kyuu na kyanseru ga hairimashita node, resutoran e no renraku wo onegai itashimasu.*
-"A sudden cancellation has come in, so please contact the restaurant."
-
-**3.** 何かご不明な点がございましたら、担当者まで遠慮なくご連絡ください。
-*Nani ka go-fuumei na ten ga gozaimashitara, tantousha made enryo naku go-renraku kudasai.*
-"If you have any questions, please do not hesitate to contact the person in charge."
+| Japanese | Meaning |
+|---|---|
+| お客様の到着が早まりましたので、客室係に連絡をいたしました。<br><small>*Okyaku-sama no touchaku ga hayamarimashita node, kyakushitsu-gakari ni renraku wo itashimashita.*</small> | The guest's arrival has moved earlier, so I contacted the room attendant. |
+| 急なキャンセルが入りましたので、レストランへの連絡をお願いいたします。<br><small>*Kyuu na kyanseru ga hairimashita node, resutoran e no renraku wo onegai itashimasu.*</small> | A sudden cancellation has come in, so please contact the restaurant. |
+| 何かご不明な点がございましたら、担当者まで遠慮なくご連絡ください。<br><small>*Nani ka go-fuumei na ten ga gozaimashitara, tantousha made enryo naku go-renraku kudasai.*</small> | If you have any questions, please do not hesitate to contact the person in charge. |
 
 ## Related Expressions
 

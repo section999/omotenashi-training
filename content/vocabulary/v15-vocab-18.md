@@ -9,17 +9,17 @@ In hotels, ロッカー are commonly found in gym changing rooms, spa areas, and
 
 ## Example Sentences
 
-**1.** ロッカーはロビー横のコインロッカーコーナーにございます。
-*Rokkaa wa robii yoko no koin-rokkaa koona ni gozaimasu.*
-"The lockers are located in the coin-locker area beside the lobby."
+ロッカーはロビー横のコインロッカーコーナーにございます。
+<small>*Rokkaa wa robii yoko no koin-rokkaa koona ni gozaimasu.*</small>
+The lockers are located in the coin-locker area beside the lobby.
 
-**2.** 駅構内のロッカーは大・中・小のサイズがございます。
-*Eki kounai no rokkaa wa dai, chuu, shou no saizu ga gozaimasu.*
-"The lockers inside the station come in large, medium, and small sizes."
+駅構内のロッカーは大・中・小のサイズがございます。
+<small>*Eki kounai no rokkaa wa dai, chuu, shou no saizu ga gozaimasu.*</small>
+The lockers inside the station come in large, medium, and small sizes.
 
-**3.** ロッカーのご利用はSuicaまたは小銭でお支払いいただけます。
-*Rokkaa no go-riyou wa Suika mata wa kozeni de o-shiharai itadakemasu.*
-"Lockers can be paid for using Suica or coins."
+ロッカーのご利用はSuicaまたは小銭でお支払いいただけます。
+<small>*Rokkaa no go-riyou wa Suika mata wa kozeni de o-shiharai itadakemasu.*</small>
+Lockers can be paid for using Suica or coins.
 
 
 ## Related Expressions

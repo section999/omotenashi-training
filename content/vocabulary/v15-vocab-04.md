@@ -9,17 +9,11 @@ Guests with sensitive skin sometimes ask specifically about fragrance-free or hy
 
 ## Example Sentences
 
-**1.** コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。
-*Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.*
-"We provide liquid detergent for the coin laundry. Please ask at the front desk."
-
-**2.** デリケートな素材には、中性洗剤のご使用をお勧めいたします。
-*Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.*
-"For delicate fabrics, we recommend using a neutral (pH-balanced) detergent."
-
-**3.** 洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。
-*Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.*
-"Please be careful not to add too much detergent, as it may leave residue on your clothes."
+| Japanese | Meaning |
+|---|---|
+| コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。<br><small>*Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.*</small> | We provide liquid detergent for the coin laundry. Please ask at the front desk. |
+| デリケートな素材には、中性洗剤のご使用をお勧めいたします。<br><small>*Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.*</small> | For delicate fabrics, we recommend using a neutral (pH-balanced) detergent. |
+| 洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。<br><small>*Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.*</small> | Please be careful not to add too much detergent, as it may leave residue on your clothes. |
 
 ## Related Expressions
 

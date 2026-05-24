@@ -8,17 +8,17 @@ title: ドライヤー (doraiyaa)
 When guests ask about the ドライヤー, whether they are wondering where it is stored, how to use it, or whether it works with their home country's voltage, staff should answer patiently and clearly. Japan runs on 100V electricity, which is lower than the 220-240V standard in much of Europe and elsewhere, so voltage compatibility is a real concern for international guests. Staff should be ready to explain this calmly and point guests toward the information booklet in the room. If a ドライヤー fails during a stay, arranging a replacement quickly is a priority action, not something to leave for the next cleaning round
 ## Example Sentences
 
-**1.** ドライヤーはバスルームの引き出しに入っております。
-*Doraiyaa wa basurumu no hikidashi ni haitte orimasu.*
-"The hair dryer is stored in the bathroom drawer."
+ドライヤーはバスルームの引き出しに入っております。
+<small>*Doraiyaa wa basurumu no hikidashi ni haitte orimasu.*</small>
+The hair dryer is stored in the bathroom drawer.
 
-**2.** ドライヤーはコンセントに差してからスイッチを入れてご使用ください。
-*Doraiyaa wa konsento ni sashite kara suitchi wo irete goshiyou kudasai.*
-"Please plug the hair dryer in and turn on the switch before use."
+ドライヤーはコンセントに差してからスイッチを入れてご使用ください。
+<small>*Doraiyaa wa konsento ni sashite kara suitchi wo irete goshiyou kudasai.*</small>
+Please plug the hair dryer in and turn on the switch before use.
 
-**3.** ドライヤーの調子が悪い場合は、すぐに新しいものをご用意いたします。
-*Doraiyaa no choushi ga warui baai wa, sugu ni atarashii mono wo goyo'i itashimasu.*
-"If the hair dryer is not working properly, we will provide a new one right away."
+ドライヤーの調子が悪い場合は、すぐに新しいものをご用意いたします。
+<small>*Doraiyaa no choushi ga warui baai wa, sugu ni atarashii mono wo goyo'i itashimasu.*</small>
+If the hair dryer is not working properly, we will provide a new one right away.
 
 
 ## Related Expressions

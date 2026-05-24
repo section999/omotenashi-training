@@ -9,17 +9,11 @@ In daily use, 正面 appears in directions such as 正面玄関はこちらで�
 
 ## Example Sentences
 
-**1.** ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。
-*Hoteru no shoumen ni chuushajou ga gozaimasu. Gotouchaku no sai wa sochira o goriyou kudasai.*
-"There is a parking lot in front of the hotel. Please use it upon your arrival."
-
-**2.** エレベーターをお降りになりましたら、正面がフロントでございます。
-*Erebeetaa o oori ni narimashitara, shoumen ga furonto de gozaimasu.*
-"When you exit the elevator, the front desk is directly ahead of you."
-
-**3.** 正面玄関からお入りいただき、右手にコンシェルジュデスクがございます。
-*Shoumen genkan kara ohairi itadaki, migite ni konsheruju desuku ga gozaimasu.*
-"Please enter through the main front entrance; the concierge desk is on your right."
+| Japanese | Meaning |
+|---|---|
+| ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。<br><small>*Hoteru no shoumen ni chuushajou ga gozaimasu. Gotouchaku no sai wa sochira o goriyou kudasai.*</small> | There is a parking lot in front of the hotel. Please use it upon your arrival. |
+| エレベーターをお降りになりましたら、正面がフロントでございます。<br><small>*Erebeetaa o oori ni narimashitara, shoumen ga furonto de gozaimasu.*</small> | When you exit the elevator, the front desk is directly ahead of you. |
+| 正面玄関からお入りいただき、右手にコンシェルジュデスクがございます。<br><small>*Shoumen genkan kara ohairi itadaki, migite ni konsheruju desuku ga gozaimasu.*</small> | Please enter through the main front entrance; the concierge desk is on your right. |
 
 ## Related Expressions
 

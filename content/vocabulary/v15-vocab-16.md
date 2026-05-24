@@ -9,17 +9,11 @@ This is how it works. When a guest drops off luggage for storage, staff record t
 
 ## Example Sentences
 
-**1.** こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。
-*Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.*
-"This is the tracking number for your luggage. Please present it when one comes to collect it."
-
-**2.** 管理番号でお調べいたしますので、少々お待ちください。
-*Kanri bangou de o-shirabe itashimasu node, shoushou o-machi kudasai.*
-"We will look it up using the tracking number, so please wait a moment."
-
-**3.** 宅配便の管理番号をお控えいただくと、配達状況をご確認いただけます。
-*Takkyuubin no kanri bangou wo o-hikae itadaku to, haitatsu joukyou wo go-kakunin itadakemasu.*
-"If you keep a note of the courier tracking number, you will be able to check the delivery status."
+| Japanese | Meaning |
+|---|---|
+| こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。<br><small>*Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.*</small> | This is the tracking number for your luggage. Please present it when one comes to collect it. |
+| 管理番号でお調べいたしますので、少々お待ちください。<br><small>*Kanri bangou de o-shirabe itashimasu node, shoushou o-machi kudasai.*</small> | We will look it up using the tracking number, so please wait a moment. |
+| 宅配便の管理番号をお控えいただくと、配達状況をご確認いただけます。<br><small>*Takkyuubin no kanri bangou wo o-hikae itadaku to, haitatsu joukyou wo go-kakunin itadakemasu.*</small> | If you keep a note of the courier tracking number, you will be able to check the delivery status. |
 
 ## Related Expressions
 

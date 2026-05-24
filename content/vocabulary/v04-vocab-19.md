@@ -8,17 +8,11 @@ title: 修理 (shuuri)
 修理 comes up frequently in conversations between front-line staff, supervisors, and the maintenance (メンテナンス) or engineering department. When a guest reports a problem, staff should acknowledge it first, then commit to action: 修理はすぐに手配いたします is the standard assurance phrase. In written reports or handover notes, noting that 修理を依頼済み (repair has been requested) creates accountability across shifts, so the next team knows what was promised. A timeline should always be included; vague responses do not reassure anyone
 ## Example Sentences
 
-**1.** エアコンの修理は、ただちに手配いたします。
-*Eakon no shuuri wa, tadachi ni tehai itashimasu.*
-"We will immediately arrange the repair of the air conditioner."
-
-**2.** 修理が完了するまで、代替品をご用意いたします。
-*Shuuri ga kanryou suru made, daitaihin wo go-youi itashimasu.*
-"We will prepare a replacement item until the repair is complete."
-
-**3.** 本日中に修理が完了する予定でございます。
-*Honjitsu-juu ni shuuri ga kanryou suru yotei de gozaimasu.*
-"The repair is scheduled to be completed today."
+| Japanese | Meaning |
+|---|---|
+| エアコンの修理は、ただちに手配いたします。<br><small>*Eakon no shuuri wa, tadachi ni tehai itashimasu.*</small> | We will immediately arrange the repair of the air conditioner. |
+| 修理が完了するまで、代替品をご用意いたします。<br><small>*Shuuri ga kanryou suru made, daitaihin wo go-youi itashimasu.*</small> | We will prepare a replacement item until the repair is complete. |
+| 本日中に修理が完了する予定でございます。<br><small>*Honjitsu-juu ni shuuri ga kanryou suru yotei de gozaimasu.*</small> | The repair is scheduled to be completed today. |
 
 ## Related Expressions
 

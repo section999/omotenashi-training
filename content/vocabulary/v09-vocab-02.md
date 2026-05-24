@@ -9,17 +9,17 @@ title: 予約日 (yoyaku bi)
 In day-to-day service, 予約日 surfaces when a guest questions whether a discount applies, or when staff need to investigate a pricing discrepancy. It also appears on booking confirmation documents and in internal reservation reports. Guests occasionally ask when they made their booking, perhaps to check whether they qualify for a promotion they read about. Locating the 予約日 quickly in the property management system demonstrates competence
 ## Example Sentences
 
-**1.** ご予約日は2026年3月15日となっております。
-*Go-yoyaku bi wa nisen nijuuroku nen san-gatsu juugo-nichi to natte orimasu.*
-"Your reservation was made on March 15, 2026."
+ご予約日は2026年3月15日となっております。
+<small>*Go-yoyaku bi wa nisen nijuuroku nen san-gatsu juugo-nichi to natte orimasu.*</small>
+Your reservation was made on March 15, 2026.
 
-**2.** 早割の適用には、宿泊日の30日前の予約日が必要です。
-*Hayawari no tekiyou ni wa, shukuhaku bi no sanjuu-nichi mae no yoyaku bi ga hitsuyou desu.*
-"To receive the early bird discount, the reservation must be made 30 days before the stay date."
+早割の適用には、宿泊日の30日前の予約日が必要です。
+<small>*Hayawari no tekiyou ni wa, shukuhaku bi no sanjuu-nichi mae no yoyaku bi ga hitsuyou desu.*</small>
+To receive the early bird discount, the reservation must be made 30 days before the stay date.
 
-**3.** 予約日をご確認のうえ、ご利用プランをご案内いたします。
-*Yoyaku bi o go-kakunin no ue, go-riyou puran o go-annai itashimasu.*
-"We will confirm your reservation date before advising you on the applicable plan."
+予約日をご確認のうえ、ご利用プランをご案内いたします。
+<small>*Yoyaku bi o go-kakunin no ue, go-riyou puran o go-annai itashimasu.*</small>
+We will confirm your reservation date before advising you on the applicable plan.
 
 
 ## Related Expressions

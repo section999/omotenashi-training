@@ -9,17 +9,11 @@ When staff help a guest with 発送, the job is more than just handing them a fo
 
 ## Example Sentences
 
-**1.** お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。
-*O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*
-"We can help you send your souvenir bags to your home. Please fill in the shipping form."
-
-**2.** 国内発送でしたら、翌々日にはお届けできる見込みです。
-*Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.*
-"For domestic shipping, we expect delivery within two days."
-
-**3.** 発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。
-*Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.*
-"After shipping, we will give you a tracking number so one can check the delivery status."
+| Japanese | Meaning |
+|---|---|
+| お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。<br><small>*O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*</small> | We can help you send your souvenir bags to your home. Please fill in the shipping form. |
+| 国内発送でしたら、翌々日にはお届けできる見込みです。<br><small>*Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.*</small> | For domestic shipping, we expect delivery within two days. |
+| 発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。<br><small>*Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.*</small> | After shipping, we will give you a tracking number so one can check the delivery status. |
 
 ## Related Expressions
 

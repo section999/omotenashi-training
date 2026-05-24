@@ -8,17 +8,17 @@ title: 駐車場 (chuushajou)
 Beyond confirming availability, staff should be prepared to assist with valet parking where it is offered, explain overnight charges, and handle situations where the lot is full. In that case, directing guests to the nearest alternative with walking time and pricing information is the omotenashi-aligned response. Multilingual parking guidance cards or maps are useful supplementary tools that staff can offer proactively to guests who appear unfamiliar with the property
 ## Example Sentences
 
-**1.** 駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。
-*Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.*
-"You may use the parking lot. Please notify the front desk when one enter."
+駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。
+<small>*Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.*</small>
+You may use the parking lot. Please notify the front desk when one enter.
 
-**2.** 恐れ入りますが、駐車場は現在満車でございます。近隣のコインパーキングをご案内いたしましょうか。
-*Osoreirimasu ga, chuushajou wa genzai mansha de gozaimasu. Kinrin no koin paakingu wo go-annai itashimashou ka.*
-"I'm terribly sorry, but our parking lot is currently full. Shall I direct you to a nearby coin car park?"
+恐れ入りますが、駐車場は現在満車でございます。近隣のコインパーキングをご案内いたしましょうか。
+<small>*Osoreirimasu ga, chuushajou wa genzai mansha de gozaimasu. Kinrin no koin paakingu wo go-annai itashimashou ka.*</small>
+I'm terribly sorry, but our parking lot is currently full. Shall I direct you to a nearby coin car park?
 
-**3.** 駐車場は地下1階にございまして、車高制限は2メートルでございます。
-*Chuushajou wa chika ikkai ni gozaimashite, shako seigen wa ni meetoru de gozaimasu.*
-"The parking lot is on basement level one, with a vehicle height limit of two metres."
+駐車場は地下1階にございまして、車高制限は2メートルでございます。
+<small>*Chuushajou wa chika ikkai ni gozaimashite, shako seigen wa ni meetoru de gozaimasu.*</small>
+The parking lot is on basement level one, with a vehicle height limit of two metres.
 
 
 ## Related Expressions

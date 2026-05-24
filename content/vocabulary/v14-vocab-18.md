@@ -8,17 +8,17 @@ title: 電車 (densha)
 Staff should get comfortable explaining the layers of the 電車 system: the difference between JR lines and private railways (私鉄, shitetsu), how 各駅停車 local trains stop at every station while 急行 and 特急 services skip ahead, and which major hubs are the best transfer points in the city. A phrase like 「○○駅で乗り換えていただくと便利です」 is useful to a guest holding a train map and looking lost. Guests who arrive at the hotel already knowing their nearest station number and the main line they will use have a much smoother stay
 ## Example Sentences
 
-**1.** 東京では毎日電車に乗ります。
-*Toukyou de wa mainichi densha ni norimasu.*
-"I take the train every day in Tokyo."
+東京では毎日電車に乗ります。
+<small>*Toukyou de wa mainichi densha ni norimasu.*</small>
+I take the train every day in Tokyo.
 
-**2.** 当ホテルから最寄り駅まで徒歩三分で、電車でどこへでもアクセスいただけます。
-*Tou hoteru kara moyori eki made toho sanpun de, densha de doko e de mo akusesu itadakemasu.*
-"The nearest station is a three-minute walk from our hotel, giving you train access to anywhere."
+当ホテルから最寄り駅まで徒歩三分で、電車でどこへでもアクセスいただけます。
+<small>*Tou hoteru kara moyori eki made toho sanpun de, densha de doko e de mo akusesu itadakemasu.*</small>
+The nearest station is a three-minute walk from our hotel, giving you train access to anywhere.
 
-**3.** 空港へは成田エクスプレスという電車が便利でございます。
-*Kuukou e wa Narita Ekusupuresu to iu densha ga benri de gozaimasu.*
-"The Narita Express train is convenient for getting to the airport."
+空港へは成田エクスプレスという電車が便利でございます。
+<small>*Kuukou e wa Narita Ekusupuresu to iu densha ga benri de gozaimasu.*</small>
+The Narita Express train is convenient for getting to the airport.
 
 ## Related Expressions
 

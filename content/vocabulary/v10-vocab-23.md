@@ -10,17 +10,17 @@ When a guest requests a 取消, the proper sequence is: confirm the reservation 
 
 ## Example Sentences
 
-**1.** ご予約の取消を承りました。
-*Go-yoyaku no torikeshi o uketamattewarimashita.*
-"We have accepted your cancellation."
+ご予約の取消を承りました。
+<small>*Go-yoyaku no torikeshi o uketamattewarimashita.*</small>
+We have accepted your cancellation.
 
-**2.** 取消の場合、キャンセル料が発生する場合がございます。
-*Torikeshi no baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*
-"In the event of cancellation, a cancellation fee may apply."
+取消の場合、キャンセル料が発生する場合がございます。
+<small>*Torikeshi no baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*</small>
+In the event of cancellation, a cancellation fee may apply.
 
-**3.** お取消の前に日程変更のご検討はいかがでしょうか。
-*Otorikeshi no mae ni nittei henkou no go-kentou wa ikaga deshou ka.*
-"Before canceling, would you consider changing the date?"
+お取消の前に日程変更のご検討はいかがでしょうか。
+<small>*Otorikeshi no mae ni nittei henkou no go-kentou wa ikaga deshou ka.*</small>
+Before canceling, would you consider changing the date?
 
 
 ## Related Expressions

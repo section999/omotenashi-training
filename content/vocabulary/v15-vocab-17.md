@@ -9,17 +9,17 @@ A 引換券 is issued the moment an item is accepted, and the item is never rele
 
 ## Example Sentences
 
-**1.** クリーニングのお受け取りには、こちらの引換券が必要でございます。
-*Kuriiningu no o-uketori ni wa, kochira no hikikaeken ga hitsuyou de gozaimasu.*
-"This claim ticket is required when collecting your laundry."
+クリーニングのお受け取りには、こちらの引換券が必要でございます。
+<small>*Kuriiningu no o-uketori ni wa, kochira no hikikaeken ga hitsuyou de gozaimasu.*</small>
+This claim ticket is required when collecting your laundry.
 
-**2.** 引換券をお持ちでない場合は、スタッフまでお申し出ください。
-*Hikikaeken wo o-mochi de nai baai wa, sutaffu made o-moushide kudasai.*
-"If you do not have your claim ticket, please inform a member of staff."
+引換券をお持ちでない場合は、スタッフまでお申し出ください。
+<small>*Hikikaeken wo o-mochi de nai baai wa, sutaffu made o-moushide kudasai.*</small>
+If you do not have your claim ticket, please inform a member of staff.
 
-**3.** お荷物お預かりの際に引換券をお渡しいたします。
-*O-nimotsu o-azukari no sai ni hikikaeken wo o-watashi itashimasu.*
-"We will give you a claim ticket when we accept your luggage for storage."
+お荷物お預かりの際に引換券をお渡しいたします。
+<small>*O-nimotsu o-azukari no sai ni hikikaeken wo o-watashi itashimasu.*</small>
+We will give you a claim ticket when we accept your luggage for storage.
 
 
 ## Related Expressions

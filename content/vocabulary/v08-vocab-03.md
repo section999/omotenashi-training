@@ -9,17 +9,11 @@ In hotel contexts, まっすぐ most commonly appears in combinations: まっす
 
 ## Example Sentences
 
-**1.** ロビーまでまっすぐお進みください。
-*Robii made massugu o-susumi kudasai.*
-"Please go straight ahead to the lobby."
-
-**2.** この廊下をまっすぐ進むと、右手にエレベーターがございます。
-*Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*
-"If you go straight down this corridor, one will find the elevator on your right."
-
-**3.** 駅までこの道をまっすぐ、徒歩約10分でございます。
-*Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*
-"Go straight down this road to the station: it is approximately a 10-minute walk."
+| Japanese | Meaning |
+|---|---|
+| ロビーまでまっすぐお進みください。<br><small>*Robii made massugu o-susumi kudasai.*</small> | Please go straight ahead to the lobby. |
+| この廊下をまっすぐ進むと、右手にエレベーターがございます。<br><small>*Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*</small> | If you go straight down this corridor, one will find the elevator on your right. |
+| 駅までこの道をまっすぐ、徒歩約10分でございます。<br><small>*Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*</small> | Go straight down this road to the station: it is approximately a 10-minute walk. |
 
 ## Related Expressions
 

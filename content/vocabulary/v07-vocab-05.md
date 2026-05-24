@@ -9,18 +9,11 @@ When using a map to guide a guest, an effective approach is to orient it in the 
 
 ## Example Sentences
 
-**1.** こちらの地図でご案内いたします。現在地はここで、目的のレストランはこちらでございます。
-*Kochira no chizu de go-annai itashimasu. Genzaichi wa koko de, mokuteki no resutoran wa kochira de gozaimasu.*
-"I will guide you using this map. Your current location is here, and the restaurant one is looking for is here."
-
-**2.** ご観光の際にお役立ていただける地図をご用意しております。
-*Go-kankou no sai ni o-yakudate itadakeru chizu wo go-youi shite orimasu.*
-"We have maps available that may be useful during your sightseeing."
-
-**3.** 地図に印を付けてご説明いたしますので、少々お時間をいただけますでしょうか。
-*Chizu ni shirushi wo tsukete go-setsumei itashimasu node, shoushou o-jikan wo itadakemasu deshou ka.*
-"I will mark the map and explain the route: would you mind giving me just a moment?"
-
+| Japanese | Meaning |
+|---|---|
+| こちらの地図でご案内いたします。現在地はここで、目的のレストランはこちらでございます。<br><small>*Kochira no chizu de go-annai itashimasu. Genzaichi wa koko de, mokuteki no resutoran wa kochira de gozaimasu.*</small> | I will guide you using this map. Your current location is here, and the restaurant one is looking for is here. |
+| ご観光の際にお役立ていただける地図をご用意しております。<br><small>*Go-kankou no sai ni o-yakudate itadakeru chizu wo go-youi shite orimasu.*</small> | We have maps available that may be useful during your sightseeing. |
+| 地図に印を付けてご説明いたしますので、少々お時間をいただけますでしょうか。<br><small>*Chizu ni shirushi wo tsukete go-setsumei itashimasu node, shoushou o-jikan wo itadakemasu deshou ka.*</small> | I will mark the map and explain the route: would you mind giving me just a moment? |
 
 ## Related Expressions
 

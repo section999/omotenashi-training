@@ -8,17 +8,11 @@ title: 税金 (zeikin)
 Many Japanese hotels quote room rates as tax-inclusive to simplify billing, and the receipt will show the 税金 as a line item. When a guest questions the total or asks why their bill is higher than the quoted rate, a clear explanation such as 料金には税金が含まれております (tax is included in the price) or こちらは税金でございます (this is the tax) resolves the matter professionally. Staff should never apologise for the existence of tax, as it is a legal requirement, but should present the information with patience and transparency
 ## Example Sentences
 
-**1.** 料金には消費税が含まれております。
-*Ryōkin ni wa shōhi-zei ga fukumarete orimasu.*
-"Consumption tax is included in the charge."
-
-**2.** こちらの明細に税金の内訳が記載されております。
-*Kochira no meisai ni zeikin no uchiwake ga kisai sarete orimasu.*
-"The tax breakdown is listed on this itemised statement."
-
-**3.** 当市では宿泊税として別途200円をいただいております。
-*Tōshi de wa shukuhaku-zei to shite betto ni-hyaku-en o itadaite orimasu.*
-"In this city, we collect a separate accommodation tax of 200 yen."
+| Japanese | Meaning |
+|---|---|
+| 料金には消費税が含まれております。<br><small>*Ryōkin ni wa shōhi-zei ga fukumarete orimasu.*</small> | Consumption tax is included in the charge. |
+| こちらの明細に税金の内訳が記載されております。<br><small>*Kochira no meisai ni zeikin no uchiwake ga kisai sarete orimasu.*</small> | The tax breakdown is listed on this itemised statement. |
+| 当市では宿泊税として別途200円をいただいております。<br><small>*Tōshi de wa shukuhaku-zei to shite betto ni-hyaku-en o itadaite orimasu.*</small> | In this city, we collect a separate accommodation tax of 200 yen. |
 
 ## Related Expressions
 

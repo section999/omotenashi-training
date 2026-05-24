@@ -8,17 +8,17 @@ title: 予約確認 (yoyaku kakunin)
 The standard phrase for starting this process is ご予約の確認をさせていただきます, which uses the humble form させていただきます to convey that the staff member is asking for the guest's cooperation. This phrase tells the guest that their information is about to be reviewed and invites them to participate in the verification. After confirming all details verbally, many properties also present a printed confirmation slip for the guest to approve. That added step reduces misunderstanding and gives guests visible proof of what was agreed
 ## Example Sentences
 
-**1.** ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。
-*Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.*
-"Allow me to confirm your reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?"
+ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。
+<small>*Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.*</small>
+Allow me to confirm your reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?
 
-**2.** お電話でご予約の確認を承っております。
-*O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.*
-"We also handle reservation confirmations by phone."
+お電話でご予約の確認を承っております。
+<small>*O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.*</small>
+We also handle reservation confirmations by phone.
 
-**3.** 予約確認のメールをお送りいたしましたので、ご確認くださいませ。
-*Yoyaku kakunin no mēru o o-okuri itashimashita node, go-kakunin kudasaimase.*
-"We have sent you a reservation confirmation email; please take a moment to review it."
+予約確認のメールをお送りいたしましたので、ご確認くださいませ。
+<small>*Yoyaku kakunin no mēru o o-okuri itashimashita node, go-kakunin kudasaimase.*</small>
+We have sent you a reservation confirmation email; please take a moment to review it.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: 教育 (kyouiku)
 教育 in hospitality covers technical skills, how to prepare rooms, operate systems, mix cocktails, alongside interpersonal skills: how to read a guest's mood, when to speak and when to stay quiet. It also extends to cultural knowledge: regional customs, seasonal ceremonies, traditional aesthetics. A hotel that invests heavily in 教育 is telling both its employees and its guests that it values depth over convenience. Staff are not just task-executors but ambassadors of a service philosophy
 ## Example Sentences
 
-**1.** 会社は従業員の教育に力を入れています。
-*Kaisha wa juugyouin no kyouiku ni chikara o irete imasu.*
-"The company focuses on employee education."
-
-**2.** 当館では接客の教育を段階的に行っております。
-*Toukan de wa sekkyaku no kyouiku o dankai-teki ni okonatte orimasu.*
-"At our establishment, guest service education is conducted in stages."
-
-**3.** 新人の教育担当として、先輩スタッフを指名しました。
-*Shinjin no kyouiku tantou to shite, senpai sutaffu o shimei shimashita.*
-"We designated a senior staff member as the person in charge of new hire education."
+| Japanese | Meaning |
+|---|---|
+| 会社は従業員の教育に力を入れています。<br><small>*Kaisha wa juugyouin no kyouiku ni chikara o irete imasu.*</small> | The company focuses on employee education. |
+| 当館では接客の教育を段階的に行っております。<br><small>*Toukan de wa sekkyaku no kyouiku o dankai-teki ni okonatte orimasu.*</small> | At our establishment, guest service education is conducted in stages. |
+| 新人の教育担当として、先輩スタッフを指名しました。<br><small>*Shinjin no kyouiku tantou to shite, senpai sutaffu o shimei shimashita.*</small> | We designated a senior staff member as the person in charge of new hire education. |
 
 ## Related Expressions
 

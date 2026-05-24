@@ -8,17 +8,17 @@ title: お名前 (onamae)
 Staff use お名前 at virtually every stage of the guest journey: when confirming a reservation at arrival, when taking a phone booking, when calling a guest to the front desk, and when handing over keys or documents. Addressing guests by name (田中様, Suzuki-sama, etc.) throughout the interaction is an important omotenashi practice that creates a personalised experience. Mispronouncing or forgetting a guest's name after having been told it is considered a significant lapse in attentiveness
 ## Example Sentences
 
-**1.** お名前をお伺いしてもよろしいでしょうか。
-*O-namae o o-ukagai shite mo yoroshii deshō ka.*
-"May I ask your name?"
+お名前をお伺いしてもよろしいでしょうか。
+<small>*O-namae o o-ukagai shite mo yoroshii deshō ka.*</small>
+May I ask your name?
 
-**2.** 田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。
-*Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.*
-"Mr./Ms. Tanaka, I have confirmed your reservation. Thank you for visiting us today."
+田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。
+<small>*Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.*</small>
+Mr./Ms. Tanaka, I have confirmed your reservation. Thank you for visiting us today.
 
-**3.** 恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。
-*Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*
-"I apologise for the inconvenience: could you kindly tell me your name once more?"
+恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。
+<small>*Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*</small>
+I apologise for the inconvenience: could you kindly tell me your name once more?
 
 
 ## Related Expressions

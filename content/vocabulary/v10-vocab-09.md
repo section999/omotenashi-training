@@ -8,17 +8,11 @@ title: お釣り (otsuri)
 The expected protocol is: state the amount received, confirm the total, then state the change, "〇〇円お預かりいたします。合計〇〇円でございますので、お釣りは〇〇円でございます." In formal hospitality settings, お釣り is handed back with both hands on a small tray (お盆). A common error is underestimating this step. Turning a cash transaction into a moment of attentiveness is what separates good service from perfunctory service.
 ## Example Sentences
 
-**1.** 1万円お預かりいたします。お釣りは2,500円でございます。
-*Ichi-man en o-azukari itashimasu. O-tsuri wa ni-sen go-hyaku en de gozaimasu.*
-"I will take 10,000 yen. Your change is 2,500 yen."
-
-**2.** お釣りをお盆に乗せてお渡しいたします。
-*O-tsuri wo o-bon ni nosete o-watashi itashimasu.*
-"I will hand you your change on a tray."
-
-**3.** お釣りは500円硬貨1枚でございます。ご確認をお願いいたします。
-*O-tsuri wa go-hyaku en kouka ichi-mai de gozaimasu. Go-kakunin wo o-negai itashimasu.*
-"Your change is one 500-yen coin. Please verify the amount."
+| Japanese | Meaning |
+|---|---|
+| 1万円お預かりいたします。お釣りは2,500円でございます。<br><small>*Ichi-man en o-azukari itashimasu. O-tsuri wa ni-sen go-hyaku en de gozaimasu.*</small> | I will take 10,000 yen. Your change is 2,500 yen. |
+| お釣りをお盆に乗せてお渡しいたします。<br><small>*O-tsuri wo o-bon ni nosete o-watashi itashimasu.*</small> | I will hand you your change on a tray. |
+| お釣りは500円硬貨1枚でございます。ご確認をお願いいたします。<br><small>*O-tsuri wa go-hyaku en kouka ichi-mai de gozaimasu. Go-kakunin wo o-negai itashimasu.*</small> | Your change is one 500-yen coin. Please verify the amount. |
 
 ## Related Expressions
 

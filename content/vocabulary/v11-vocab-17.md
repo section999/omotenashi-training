@@ -8,17 +8,11 @@ title: 切断 (setsudan)
 The standard recovery script opens with an apology before anything else: 先ほどは途中で切れてしまい、申し訳ございませんでした (I sincerely apologize for the disconnection earlier). That acknowledgment comes first, before continuing with whatever the call was about. Jumping straight back to the topic and skipping the apology is inappropriate; the guest experienced an interruption, and recognizing that matters. It is also important to distinguish 切断 from 接続不良 (intermittent poor quality). A complete 切断 requires a callback; 接続不良 might be managed by asking the guest to try a different line, which is a less disruptive fix
 ## Example Sentences
 
-**1.** 通話中に切断されました。大変申し訳ございません。
-*Tsuuwachuu ni setsudan saremashita. Taihen moushiwake gozaimasen.*
-"The call was disconnected mid-conversation. I sincerely apologize."
-
-**2.** 先ほどは切断されてしまい、ご不便をおかけいたしました。
-*Sakihodo wa setsudan sarete shimai, go-fuben wo okake itashimashita.*
-"I apologize for the inconvenience caused by the disconnection earlier."
-
-**3.** 万が一切断された場合は、こちらからすぐにおかけ直しいたします。
-*Mangaichi setsudan sareta baai wa, kochira kara sugu ni okake naoshi itashimasu.*
-"If the call is disconnected for any reason, we will call you back immediately."
+| Japanese | Meaning |
+|---|---|
+| 通話中に切断されました。大変申し訳ございません。<br><small>*Tsuuwachuu ni setsudan saremashita. Taihen moushiwake gozaimasen.*</small> | The call was disconnected mid-conversation. I sincerely apologize. |
+| 先ほどは切断されてしまい、ご不便をおかけいたしました。<br><small>*Sakihodo wa setsudan sarete shimai, go-fuben wo okake itashimashita.*</small> | I apologize for the inconvenience caused by the disconnection earlier. |
+| 万が一切断された場合は、こちらからすぐにおかけ直しいたします。<br><small>*Mangaichi setsudan sareta baai wa, kochira kara sugu ni okake naoshi itashimasu.*</small> | If the call is disconnected for any reason, we will call you back immediately. |
 
 ## Related Expressions
 

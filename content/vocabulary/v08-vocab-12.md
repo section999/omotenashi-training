@@ -9,17 +9,11 @@ The pronunciation follows an irregular counter pattern that is often missed: 地
 
 ## Example Sentences
 
-**1.** ジムは地下一階にございます。
-*Jimu wa chika ikkai ni gozaimasu.*
-"The gym is on basement level 1."
-
-**2.** お車は地下一階の駐車場にお停めいただけます。エレベーターのB1ボタンをどうぞ。
-*O-kuruma wa chika ikkai no chuushajou ni o-tome itadakemasu. Erebeetaa no B-wan botan wo douzo.*
-"You may park your car in the basement-level-1 parking lot. Please press the B1 button in the elevator."
-
-**3.** プールは地下一階、エレベーターを降りて左にございます。
-*Puuru wa chika ikkai, erebeetaa wo orite hidari ni gozaimasu.*
-"The pool is on basement level 1: turn left after exiting the elevator."
+| Japanese | Meaning |
+|---|---|
+| ジムは地下一階にございます。<br><small>*Jimu wa chika ikkai ni gozaimasu.*</small> | The gym is on basement level 1. |
+| お車は地下一階の駐車場にお停めいただけます。エレベーターのB1ボタンをどうぞ。<br><small>*O-kuruma wa chika ikkai no chuushajou ni o-tome itadakemasu. Erebeetaa no B-wan botan wo douzo.*</small> | You may park your car in the basement-level-1 parking lot. Please press the B1 button in the elevator. |
+| プールは地下一階、エレベーターを降りて左にございます。<br><small>*Puuru wa chika ikkai, erebeetaa wo orite hidari ni gozaimasu.*</small> | The pool is on basement level 1: turn left after exiting the elevator. |
 
 ## Related Expressions
 

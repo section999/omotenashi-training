@@ -8,17 +8,11 @@ title: 支払い方法 (shiharai houhou)
 This phrase comes up most when a guest is about to pay or when explaining booking conditions. Front desk staff should list the accepted 支払い方法 clearly at the start of checkout rather than waiting to be asked. With international guests, confirming which card brands or payment apps are accepted in advance saves time and avoids declined transactions. Many properties post a sign, but a verbal confirmation raises the service standard.
 ## Example Sentences
 
-**1.** 本日ご利用いただける支払い方法は、現金、クレジットカード、電子決済の三種類でございます。
-*Honjitsu go-riyou itadakeru shiharai houhou wa, genkin, kurejitto kaado, denshi kessai no sanshu rui de gozaimasu.*
-"The payment methods available today are cash, credit card, and electronic payment: three options in total."
-
-**2.** チェックイン前に支払い方法をご確認いただけますでしょうか。
-*Chekkuin mae ni shiharai houhou wo go-kakunin itadakemasu deshou ka.*
-"Could we confirm your preferred payment method before check-in?"
-
-**3.** 分割払いをご希望の場合は、支払い方法の変更が必要でございます。
-*Bunkatsu barai wo go-kibou no baai wa, shiharai houhou no henkou ga hitsuyou de gozaimasu.*
-"If you would like to pay in installments, we will need to change the payment method."
+| Japanese | Meaning |
+|---|---|
+| 本日ご利用いただける支払い方法は、現金、クレジットカード、電子決済の三種類でございます。<br><small>*Honjitsu go-riyou itadakeru shiharai houhou wa, genkin, kurejitto kaado, denshi kessai no sanshu rui de gozaimasu.*</small> | The payment methods available today are cash, credit card, and electronic payment: three options in total. |
+| チェックイン前に支払い方法をご確認いただけますでしょうか。<br><small>*Chekkuin mae ni shiharai houhou wo go-kakunin itadakemasu deshou ka.*</small> | Could we confirm your preferred payment method before check-in? |
+| 分割払いをご希望の場合は、支払い方法の変更が必要でございます。<br><small>*Bunkatsu barai wo go-kibou no baai wa, shiharai houhou no henkou ga hitsuyou de gozaimasu.*</small> | If you would like to pay in installments, we will need to change the payment method. |
 
 ## Related Expressions
 

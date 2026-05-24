@@ -8,17 +8,17 @@ title: 通貨 (tsuuka)
 The most common scenario staff will face is a guest at a traditional ryokan who did not know it was cash-only. Some of the most beloved traditional properties in Japan still do not accept cards, and if guests are not told ahead of time, they will arrive unprepared. Proactively mentioning this during the reservation confirmation, or at the very least at check-in with a clear direction to the nearest ATM, prevents what could otherwise be an embarrassing and stressful situation. However, even for properties that do accept cards, knowing the current exchange rate range well enough to give a rough estimate in US dollars or euros is a small but appreciated skill
 ## Example Sentences
 
-**1.** 日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。
-*Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.*
-"Japan's currency is the yen, and cash payment is possible at most places."
+日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。
+<small>*Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.*</small>
+Japan's currency is the yen, and cash payment is possible at most places.
 
-**2.** 当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。
-*Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*
-"We do not accept foreign currency at this establishment, but there is an exchange office nearby."
+当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。
+<small>*Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*</small>
+We do not accept foreign currency at this establishment, but there is an exchange office nearby.
 
-**3.** 通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。
-*Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.*
-"Currency exchange rates change daily, so please check for the latest information."
+通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。
+<small>*Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.*</small>
+Currency exchange rates change daily, so please check for the latest information.
 
 ## Related Expressions
 

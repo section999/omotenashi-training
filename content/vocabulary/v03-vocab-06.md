@@ -8,17 +8,11 @@ title: スイートルーム (suite room)
 Every interaction with a スイートルーム guest should be unhurried, measured, and proactively informative. On arrival, the guest should be walked through the layout of the suite: where the bedroom is, how the living area connects, and any special features that should be noted. Guests should be guided through the space rather than left to explore it alone. The difference between a ジュニアスイート (a smaller suite with partial room separation) and a グランドスイート or ロイヤルスイート (a full, expansive suite) also matters; guests with specific expectations about what they booked deserve a precise answer
 ## Example Sentences
 
-**1.** スイートルームへのご宿泊を心よりお待ち申し上げておりました。
-*Suiito-ruumu e no go-shukuhaku wo kokoro yori o-machi moushi-agete orimashita.*
-"We have been looking forward to welcoming you to the suite with all our hearts."
-
-**2.** スイートルームはリビングと寝室が別々になっておりますので、ごゆっくりおくつろぎください。
-*Suiito-ruumu wa ribingu to shinshitsu ga betsubetsu ni natte orimasu no de, go-yukkuri o-kutsurogi kudasai.*
-"The suite has a separate living room and bedroom, so please relax at your leisure."
-
-**3.** ご不要なものがございましたら、いつでもスイートルームよりフロントへお申し付けください。
-*Go-fuyou na mono ga gozaimashitara, itsudemo suiito-ruumu yori furonto e o-moushitsuke kudasai.*
-"If there is anything you need, please let us know from the suite at any time."
+| Japanese | Meaning |
+|---|---|
+| スイートルームへのご宿泊を心よりお待ち申し上げておりました。<br><small>*Suiito-ruumu e no go-shukuhaku wo kokoro yori o-machi moushi-agete orimashita.*</small> | We have been looking forward to welcoming you to the suite with all our hearts. |
+| スイートルームはリビングと寝室が別々になっておりますので、ごゆっくりおくつろぎください。<br><small>*Suiito-ruumu wa ribingu to shinshitsu ga betsubetsu ni natte orimasu no de, go-yukkuri o-kutsurogi kudasai.*</small> | The suite has a separate living room and bedroom, so please relax at your leisure. |
+| ご不要なものがございましたら、いつでもスイートルームよりフロントへお申し付けください。<br><small>*Go-fuyou na mono ga gozaimashitara, itsudemo suiito-ruumu yori furonto e o-moushitsuke kudasai.*</small> | If there is anything you need, please let us know from the suite at any time. |
 
 ## Related Expressions
 

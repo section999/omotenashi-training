@@ -8,17 +8,11 @@ title: 補充 (hojuu)
 In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser
 ## Example Sentences
 
-**1.** アメニティの補充は、毎日の清掃時に行っております。
-*Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.*
-"Replenishment of amenities is carried out during the daily cleaning."
-
-**2.** ミニバーの補充が必要かどうか、確認してまいります。
-*Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*
-"I will go and check whether the minibar needs to be restocked."
-
-**3.** お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。
-*Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*
-"If you would like your tea replenished, please let the front desk know at any time."
+| Japanese | Meaning |
+|---|---|
+| アメニティの補充は、毎日の清掃時に行っております。<br><small>*Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.*</small> | Replenishment of amenities is carried out during the daily cleaning. |
+| ミニバーの補充が必要かどうか、確認してまいります。<br><small>*Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*</small> | I will go and check whether the minibar needs to be restocked. |
+| お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。<br><small>*Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*</small> | If you would like your tea replenished, please let the front desk know at any time. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 手配 (tehai)
 When using 手配 in speech, 手配いたします is the expected humble form at luxury and upscale properties, while 手配します works in more casual settings. Before responding, staff should confirm the key details: departure time, number of people, destination, and any special requirements. A common error is committing to 手配いたします too quickly, before all necessary information has been gathered, resulting in an arrangement that misses the mark. Once the details have been confirmed and the arrangement made, staff should follow up with the guest -- タクシーの手配が完了いたしました closes the loop.
 ## Example Sentences
 
-**1.** 空港までのタクシーを手配いたします。
-*Kuukou made no takushii wo tehai itashimasu.*
-"We will arrange a taxi to the airport for you."
+空港までのタクシーを手配いたします。
+<small>*Kuukou made no takushii wo tehai itashimasu.*</small>
+We will arrange a taxi to the airport for you.
 
-**2.** お部屋にお花を手配させていただきました。
-*Oheya ni ohana wo tehai sasete itadakimashita.*
-"We have arranged flowers for the room."
+お部屋にお花を手配させていただきました。
+<small>*Oheya ni ohana wo tehai sasete itadakimashita.*</small>
+We have arranged flowers for the room.
 
-**3.** ご要望のレストランのご予約も手配いたします。
-*Go-youbou no resutoran no go-yoyaku mo tehai itashimasu.*
-"We will also arrange a reservation at your requested restaurant."
+ご要望のレストランのご予約も手配いたします。
+<small>*Go-youbou no resutoran no go-yoyaku mo tehai itashimasu.*</small>
+We will also arrange a reservation at your requested restaurant.
 
 
 ## Related Expressions

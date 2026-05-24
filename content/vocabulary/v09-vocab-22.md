@@ -8,17 +8,17 @@ title: 期限 (kigen)
 A common error is to overlook that a 期限 needs both a date and a time. Saying 「期限は明日です」 is functionally incomplete. "Tomorrow" could mean 9 a.m., 3 p.m., or 11:59 p.m., and a guest who acts on the wrong assumption may miss a cutoff they tried to meet. The appropriate formulation is 「〇月〇日（〇曜日）の〇時までにご連絡いただけますようお願い申し上げます」, which leaves no room for misinterpretation. For any important deadline, following up with a written confirmation gives both staff and the guest a clear record
 ## Example Sentences
 
-**1.** 仮予約の確認期限は、今月15日の午前11時でございます。
-*Kari-yoyaku no kakunin kigen wa, kongetsu juugo-nichi no gozen juuichi-ji de gozaimasu.*
-"The confirmation deadline for the tentative reservation is the 15th of this month at 11:00 a.m."
+仮予約の確認期限は、今月15日の午前11時でございます。
+<small>*Kari-yoyaku no kakunin kigen wa, kongetsu juugo-nichi no gozen juuichi-ji de gozaimasu.*</small>
+The confirmation deadline for the tentative reservation is the 15th of this month at 11:00 a.m.
 
-**2.** 無料キャンセルの期限は、ご宿泊日の3日前の午後3時までとなっております。
-*Muryou kyanseru no kigen wa, go-shukuhaku-bi no mikkamae no gogo san-ji made to natte orimasu.*
-"The free cancellation deadline is 3:00 p.m., 3 days before the stay."
+無料キャンセルの期限は、ご宿泊日の3日前の午後3時までとなっております。
+<small>*Muryou kyanseru no kigen wa, go-shukuhaku-bi no mikkamae no gogo san-ji made to natte orimasu.*</small>
+The free cancellation deadline is 3:00 p.m., 3 days before the stay.
 
-**3.** ご予約の変更期限を過ぎた場合、キャンセル料が発生する場合がございます。
-*Go-yoyaku no henkou kigen wo sugita baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*
-"If the reservation change deadline has passed, a cancellation fee may apply."
+ご予約の変更期限を過ぎた場合、キャンセル料が発生する場合がございます。
+<small>*Go-yoyaku no henkou kigen wo sugita baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*</small>
+If the reservation change deadline has passed, a cancellation fee may apply.
 
 
 ## Related Expressions

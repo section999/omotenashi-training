@@ -8,17 +8,17 @@ title: エレベーター (erebeetaa)
 Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language
 ## Example Sentences
 
-**1.** エレベーターは正面玄関を入ってすぐ左手にございます。
-*Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*
-"The elevator is immediately to your left as one enter the main entrance."
+エレベーターは正面玄関を入ってすぐ左手にございます。
+<small>*Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*</small>
+The elevator is immediately to your left as one enter the main entrance.
 
-**2.** エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。
-*Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*
-"Please take the elevator to the 10th floor. Your room is at the end of the corridor on the right."
+エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。
+<small>*Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*</small>
+Please take the elevator to the 10th floor. Your room is at the end of the corridor on the right.
 
-**3.** ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。
-*Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*
-"The elevators are quite busy at the moment: would you mind waiting just a moment?"
+ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。
+<small>*Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*</small>
+The elevators are quite busy at the moment: would you mind waiting just a moment?
 
 
 ## Related Expressions

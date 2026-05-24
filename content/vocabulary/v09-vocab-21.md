@@ -8,17 +8,17 @@ title: 無料キャンセル (muryou kyanseru)
 The detail that matters most is the deadline. A guest who hears 「無料キャンセルは宿泊日の7日前まで可能でございます」 knows exactly when they need to decide. A guest who is told "free cancellation is available" will reasonably assume the window stretches right up to arrival, and when they cancel the night before and receive a charge, they will feel deceived even if the policy was technically disclosed somewhere in the booking flow. Repeating the deadline at the time of booking confirmation is one of the simplest and most effective steps for preventing that kind of dispute
 ## Example Sentences
 
-**1.** このプランは、ご宿泊日の7日前まで無料キャンセルが可能でございます。
-*Kono puran wa, go-shukuhaku-bi no nanokamae made muryou kyanseru ga kanou de gozaimasu.*
-"This plan allows free cancellation up to 7 days before the stay."
+このプランは、ご宿泊日の7日前まで無料キャンセルが可能でございます。
+<small>*Kono puran wa, go-shukuhaku-bi no nanokamae made muryou kyanseru ga kanou de gozaimasu.*</small>
+This plan allows free cancellation up to 7 days before the stay.
 
-**2.** 無料キャンセルの期限を過ぎてからのご変更には、キャンセル料が発生する場合がございます。
-*Muryou kyanseru no kigen wo sugite kara no go-henkou ni wa, kyanseru ryou ga hassei suru baai ga gozaimasu.*
-"Changes made after the free cancellation deadline may incur a cancellation fee."
+無料キャンセルの期限を過ぎてからのご変更には、キャンセル料が発生する場合がございます。
+<small>*Muryou kyanseru no kigen wo sugite kara no go-henkou ni wa, kyanseru ryou ga hassei suru baai ga gozaimasu.*</small>
+Changes made after the free cancellation deadline may incur a cancellation fee.
 
-**3.** 無料キャンセル期間中でしたら、お電話またはメールにてご連絡いただくだけで結構です。
-*Muryou kyanseru kikan-chuu deshitara, o-denwa mata wa meeru nite go-renraku itadaku dake de kekkou desu.*
-"During the free cancellation period, contacting us by phone or email is all that is needed."
+無料キャンセル期間中でしたら、お電話またはメールにてご連絡いただくだけで結構です。
+<small>*Muryou kyanseru kikan-chuu deshitara, o-denwa mata wa meeru nite go-renraku itadaku dake de kekkou desu.*</small>
+During the free cancellation period, contacting us by phone or email is all that is needed.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: 案内 (annai)
 案内 appears across almost every part of a hotel interaction. Staff use it when escorting a guest to their room at check-in (お部屋へご案内いたします), when directing them to a facility (レストランへご案内いたします), when introducing the property layout (施設をご案内いたします), or when offering local area information. A key practice is walking with the guest whenever possible, rather than pointing down a corridor. Even when physical escorting is not practical, verbal 案内 should be clear and complete, paired with a gesture that leaves no room for confusion
 ## Example Sentences
 
-**1.** お部屋へご案内いたします。こちらへどうぞ。
-*O-heya e go-annai itashimasu. Kochira e dōzo.*
-"I will show you to the room. This way, please."
-
-**2.** 施設についてご案内させていただいてもよろしいでしょうか。
-*Shisetsu ni tsuite go-annai sasete itadaite mo yoroshii deshō ka.*
-"May I take a moment to guide you through our facilities?"
-
-**3.** ご不明な点がございましたら、いつでもご案内いたします。
-*Go-fumei na ten ga gozaimashita ra, itsu demo go-annai itashimasu.*
-"If you have any questions, we are always happy to assist you."
+| Japanese | Meaning |
+|---|---|
+| お部屋へご案内いたします。こちらへどうぞ。<br><small>*O-heya e go-annai itashimasu. Kochira e dōzo.*</small> | I will show you to the room. This way, please. |
+| 施設についてご案内させていただいてもよろしいでしょうか。<br><small>*Shisetsu ni tsuite go-annai sasete itadaite mo yoroshii deshō ka.*</small> | May I take a moment to guide you through our facilities? |
+| ご不明な点がございましたら、いつでもご案内いたします。<br><small>*Go-fumei na ten ga gozaimashita ra, itsu demo go-annai itashimasu.*</small> | If you have any questions, we are always happy to assist you. |
 
 ## Related Expressions
 

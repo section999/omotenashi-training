@@ -9,17 +9,17 @@ title: 休憩 (kyuukei)
 Culturally, Japanese employees tend to be mindful of not letting breaks run long, since that can read as a lack of commitment to the team. Managers actively encourage their teams to take 休憩 properly, because rested staff provide better service. The expected practice is to step to a designated staff area away from guest sight lines, eat, and rest.
 ## Example Sentences
 
-**1.** 昼食後に30分の休憩があります。
-*Chuushoku-go ni sanjuppun no kyuukei ga arimasu.*
-"There is a 30-minute break after lunch."
+昼食後に30分の休憩があります。
+<small>*Chuushoku-go ni sanjuppun no kyuukei ga arimasu.*</small>
+There is a 30-minute break after lunch.
 
-**2.** 繁忙期でも、スタッフが交代で休憩できるようにシフトを組んでいます。
-*Hanbou-ki demo, sutaffu ga koutai de kyuukei dekiru you ni shifuto o kunde imasu.*
-"Even during busy seasons, we arrange shifts so that staff can take turns having a break."
+繁忙期でも、スタッフが交代で休憩できるようにシフトを組んでいます。
+<small>*Hanbou-ki demo, sutaffu ga koutai de kyuukei dekiru you ni shifuto o kunde imasu.*</small>
+Even during busy seasons, we arrange shifts so that staff can take turns having a break.
 
-**3.** 休憩室はバックヤードの奥にございます。どうぞご利用ください。
-*Kyuukei-shitsu wa bakkuyaado no oku ni gozaimasu. Douzo goriyou kudasai.*
-"The break room is at the back of the staff area. Please feel free to use it."
+休憩室はバックヤードの奥にございます。どうぞご利用ください。
+<small>*Kyuukei-shitsu wa bakkuyaado no oku ni gozaimasu. Douzo goriyou kudasai.*</small>
+The break room is at the back of the staff area. Please feel free to use it.
 
 
 ## Related Expressions

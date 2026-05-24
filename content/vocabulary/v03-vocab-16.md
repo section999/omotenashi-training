@@ -8,17 +8,11 @@ title: 浴室 (yokushitsu)
 During room orientation, staff commonly say 「お部屋の浴室はこちらでございます」 (the bathroom is here) or describe specific amenities: 「浴室にはバスタブとシャワーの両方がございます」 (the bathroom has both a bathtub and shower). At ryokan with private in-room baths, staff may also explain the filling procedure for the bath. In hotels, the term comes up when directing guests, describing cleanliness standards, or explaining housekeeping schedules
 ## Example Sentences
 
-**1.** お部屋の浴室は広くて清潔でございます。
-*Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.*
-"The bathroom in the room is spacious and clean."
-
-**2.** 浴室のご使用方法についてご説明いたします。
-*Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.*
-"I will explain how to use the bathroom."
-
-**3.** 浴室にはバスタオルとアメニティをご用意しております。
-*Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.*
-"Bath towels and amenities are prepared in the bathroom."
+| Japanese | Meaning |
+|---|---|
+| お部屋の浴室は広くて清潔でございます。<br><small>*Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.*</small> | The bathroom in the room is spacious and clean. |
+| 浴室のご使用方法についてご説明いたします。<br><small>*Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.*</small> | I will explain how to use the bathroom. |
+| 浴室にはバスタオルとアメニティをご用意しております。<br><small>*Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.*</small> | Bath towels and amenities are prepared in the bathroom. |
 
 ## Related Expressions
 

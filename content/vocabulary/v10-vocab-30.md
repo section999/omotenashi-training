@@ -9,17 +9,17 @@ title: サービス料 (saabisu ryou)
 A common error is being unsure how to introduce サービス料 in conversation without it sounding like a warning. The key is to disclose it proactively and early, before presenting the bill, not in response to a question. サービス料 and 消費税 are separate charges and must be listed individually on the invoice. When quoting a total, staff should name the base price, add サービス料, then add 消費税, or state the all-inclusive total and confirm explicitly that both are already included. Guests should not be left to guess the breakdown
 ## Example Sentences
 
-**1.** 料金にはサービス料10%が含まれております。
-*Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.*
-"A service charge of 10% is included in the rate."
+料金にはサービス料10%が含まれております。
+<small>*Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.*</small>
+A service charge of 10% is included in the rate.
 
-**2.** サービス料と消費税を合わせた合計金額は〇〇円でございます。
-*Sābisu ryō to shōhizei o awaseta gōkei kingaku wa 〇〇-en de gozaimasu.*
-"The total amount including service charge and consumption tax is [amount] yen."
+サービス料と消費税を合わせた合計金額は〇〇円でございます。
+<small>*Sābisu ryō to shōhizei o awaseta gōkei kingaku wa 〇〇-en de gozaimasu.*</small>
+The total amount including service charge and consumption tax is [amount] yen.
 
-**3.** お食事代はサービス料別となっておりますのでご確認ください。
-*Oshokuji-dai wa sābisu ryō betsu to natte orimasu node gokakunin kudasai.*
-"Please note that the dining charge is subject to an additional service charge."
+お食事代はサービス料別となっておりますのでご確認ください。
+<small>*Oshokuji-dai wa sābisu ryō betsu to natte orimasu node gokakunin kudasai.*</small>
+Please note that the dining charge is subject to an additional service charge.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: 子供 (kodomo)
 The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is a key aspect of omotenashi. お子様 should be used when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference
 ## Example Sentences
 
-**1.** お子様のご年齢をお知らせいただけますでしょうか。
-*O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*
-"Could you please let us know your child's age?"
-
-**2.** お子様用の浴衣とスリッパをお部屋にご用意しております。
-*O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*
-"We have prepared children's yukata and slippers in the room."
-
-**3.** お子様のお食事は、お子様ランチをご用意できます。
-*O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*
-"We can prepare a children's meal set for your child."
+| Japanese | Meaning |
+|---|---|
+| お子様のご年齢をお知らせいただけますでしょうか。<br><small>*O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*</small> | Could you please let us know your child's age? |
+| お子様用の浴衣とスリッパをお部屋にご用意しております。<br><small>*O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*</small> | We have prepared children's yukata and slippers in the room. |
+| お子様のお食事は、お子様ランチをご用意できます。<br><small>*O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*</small> | We can prepare a children's meal set for your child. |
 
 ## Related Expressions
 

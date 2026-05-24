@@ -8,17 +8,11 @@ title: 喫煙席 (kitsuen seki)
 Staff guide guests to 喫煙席 using directional phrases such as 喫煙席はこちらでございます ("the smoking section is this way"). If 喫煙席 is available only in a specific location, such as a separate room or terrace, staff should explain clearly: 喫煙席は2階にございます ("the smoking section is on the 2nd floor"). When a venue has eliminated 喫煙席 entirely, staff should inform the guest proactively and offer alternatives: 当店は全席禁煙でございます。屋外に喫煙スペースがございます ("this restaurant is entirely non-smoking; there is a smoking area outside")
 ## Example Sentences
 
-**1.** 喫煙席はこちらでございます。どうぞこちらへ。
-*Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.*
-"The smoking section is this way. Please come this way."
-
-**2.** 喫煙席は換気の整った別室にご用意しております。
-*Kitsuen seki wa kanki no totonotta bessho ni go-youi shite orimasu.*
-"The smoking section is prepared in a separate, well-ventilated room."
-
-**3.** 大変申し訳ございませんが、現在喫煙席はご用意しておりません。屋外の喫煙スペースをご利用いただけます。
-*Taihen moushiwake gozaimasen ga, genzai kitsuen seki wa go-youi shite orimasen. Okugai no kitsuen supesu wo go-riyou itadakemasu.*
-"We sincerely apologize, but we currently do not have a smoking section. You are welcome to use the outdoor smoking area."
+| Japanese | Meaning |
+|---|---|
+| 喫煙席はこちらでございます。どうぞこちらへ。<br><small>*Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.*</small> | The smoking section is this way. Please come this way. |
+| 喫煙席は換気の整った別室にご用意しております。<br><small>*Kitsuen seki wa kanki no totonotta bessho ni go-youi shite orimasu.*</small> | The smoking section is prepared in a separate, well-ventilated room. |
+| 大変申し訳ございませんが、現在喫煙席はご用意しておりません。屋外の喫煙スペースをご利用いただけます。<br><small>*Taihen moushiwake gozaimasen ga, genzai kitsuen seki wa go-youi shite orimasen. Okugai no kitsuen supesu wo go-riyou itadakemasu.*</small> | We sincerely apologize, but we currently do not have a smoking section. You are welcome to use the outdoor smoking area. |
 
 ## Related Expressions
 

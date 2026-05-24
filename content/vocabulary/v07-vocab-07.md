@@ -9,17 +9,11 @@ Staff should also moderate how they use 遠い. Softening with 少し (a little)
 
 ## Example Sentences
 
-**1.** 少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。
-*Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.*
-"It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen."
-
-**2.** お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。
-*O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.*
-"Your destination is a little far to walk to: shall I give you directions to the bus?"
-
-**3.** 観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。
-*Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.*
-"The sightseeing spot is a short distance away, but we can take you there by shuttle bus."
+| Japanese | Meaning |
+|---|---|
+| 少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。<br><small>*Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.*</small> | It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen. |
+| お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。<br><small>*O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.*</small> | Your destination is a little far to walk to: shall I give you directions to the bus? |
+| 観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。<br><small>*Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.*</small> | The sightseeing spot is a short distance away, but we can take you there by shuttle bus. |
 
 ## Related Expressions
 

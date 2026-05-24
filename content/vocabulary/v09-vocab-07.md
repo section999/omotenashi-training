@@ -9,17 +9,17 @@ title: 日数 (nissuu)
 The distinction between 日数 and 何泊 is a common source of billing errors. The distinction is as follows: a guest who checks in on April 10 and checks out on April 12 has a 日数 of 3 (April 10, 11, and 12 are all counted as calendar days) but a 何泊 of only 2 (the nights of April 10 and 11 are the chargeable overnight stays). If one bills for 3 nights when only 2 were occupied, a complaint and a refund request will follow. Getting this right upfront prevents billing errors
 ## Example Sentences
 
-**1.** 今回のご滞在日数は3日間でございます。
-*Konkai no go-taizai nissuu wa mikka-kan de gozaimasu.*
-"The total number of days for the stay this time is 3."
+今回のご滞在日数は3日間でございます。
+<small>*Konkai no go-taizai nissuu wa mikka-kan de gozaimasu.*</small>
+The total number of days for the stay this time is 3.
 
-**2.** 駐車場のご利用料金は滞在日数に応じてご請求いたします。
-*Chuushajou no go-riyou ryoukin wa taizai nissuu ni oujite go-seikyuu itashimasu.*
-"Parking fees will be charged based on the total number of days of the stay."
+駐車場のご利用料金は滞在日数に応じてご請求いたします。
+<small>*Chuushajou no go-riyou ryoukin wa taizai nissuu ni oujite go-seikyuu itashimasu.*</small>
+Parking fees will be charged based on the total number of days of the stay.
 
-**3.** 日数を確認のうえ、合計金額をご案内いたします。
-*Nissuu o kakunin no ue, goukei kingaku o go-annai itashimasu.*
-"We will confirm the number of days before advising you of the total amount."
+日数を確認のうえ、合計金額をご案内いたします。
+<small>*Nissuu o kakunin no ue, goukei kingaku o go-annai itashimasu.*</small>
+We will confirm the number of days before advising you of the total amount.
 
 
 ## Related Expressions

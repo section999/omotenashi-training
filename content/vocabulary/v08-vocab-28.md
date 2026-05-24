@@ -8,17 +8,11 @@ title: あちら側 (achira gawa)
 あちら側 is almost always paired with a pointing gesture or a physical escort to remove ambiguity. A guest standing in a wide hotel lobby who hears あちら側にございます understands both that the destination is across the space and that the staff member considers it farther away than arm's reach. Staff often supplement the phrase with a landmark: あちら側のエレベーターの隣にございます (it is next to the elevator on that side). When the destination is across a road or courtyard, あちら側 conveys crossing a clear boundary, making it especially useful for directing guests between hotel buildings or annexes
 ## Example Sentences
 
-**1.** お手洗いはあちら側にございます。どうぞ、ご案内いたします。
-*O-tearai wa achira gawa ni gozaimasu. Douzo, go-annai itashimasu.*
-"The restroom is on that side over there. Please allow me to guide you."
-
-**2.** レストランはロビーのあちら側、エレベーターの奥にございます。
-*Resutoran wa robii no achira gawa, erebeetaa no oku ni gozaimasu.*
-"The restaurant is on that far side of the lobby, beyond the elevators."
-
-**3.** 宴会場はこの廊下をまっすぐ進んでいただき、あちら側の扉からお入りください。
-*Enkaijou wa kono rouka wo massugu susunde itadaki, achira gawa no tobira kara o-hairi kudasai.*
-"For the banquet hall, please proceed straight along this corridor and enter through the door on that far side."
+| Japanese | Meaning |
+|---|---|
+| お手洗いはあちら側にございます。どうぞ、ご案内いたします。<br><small>*O-tearai wa achira gawa ni gozaimasu. Douzo, go-annai itashimasu.*</small> | The restroom is on that side over there. Please allow me to guide you. |
+| レストランはロビーのあちら側、エレベーターの奥にございます。<br><small>*Resutoran wa robii no achira gawa, erebeetaa no oku ni gozaimasu.*</small> | The restaurant is on that far side of the lobby, beyond the elevators. |
+| 宴会場はこの廊下をまっすぐ進んでいただき、あちら側の扉からお入りください。<br><small>*Enkaijou wa kono rouka wo massugu susunde itadaki, achira gawa no tobira kara o-hairi kudasai.*</small> | For the banquet hall, please proceed straight along this corridor and enter through the door on that far side. |
 
 ## Related Expressions
 

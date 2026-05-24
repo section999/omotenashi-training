@@ -9,17 +9,11 @@ When using 交差点 in guidance, specifying what the guest should do at it is i
 
 ## Example Sentences
 
-**1.** 交差点を渡って左に曲がってください。
-*Kousaten wo watatte hidari ni magatte kudasai.*
-"Please cross the intersection and turn left."
-
-**2.** 二つ目の交差点で信号をお待ちいただき、右にお進みください。
-*Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.*
-"At the second intersection, please wait for the signal and then proceed to the right."
-
-**3.** 駅はこの交差点を直進すると左手にございます。
-*Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.*
-"The station is on the left if one go straight through this intersection."
+| Japanese | Meaning |
+|---|---|
+| 交差点を渡って左に曲がってください。<br><small>*Kousaten wo watatte hidari ni magatte kudasai.*</small> | Please cross the intersection and turn left. |
+| 二つ目の交差点で信号をお待ちいただき、右にお進みください。<br><small>*Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.*</small> | At the second intersection, please wait for the signal and then proceed to the right. |
+| 駅はこの交差点を直進すると左手にございます。<br><small>*Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.*</small> | The station is on the left if one go straight through this intersection. |
 
 ## Related Expressions
 

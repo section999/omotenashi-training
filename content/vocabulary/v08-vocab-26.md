@@ -9,17 +9,17 @@ title: 秒 (byou)
 Note: the goal when using 秒 is not to sound technical but to make precision feel reassuring. A calm エレベーターのドアは5秒で閉まります, delivered with good eye contact, tells the guest everything they need to know without alarm. For guests unfamiliar with a hotel's automated systems, this kind of specific guidance helps them feel oriented rather than surprised. staff will rarely need 約 (approximately) with 秒 because the timing of facility equipment is fixed and known, so state the number directly
 ## Example Sentences
 
-**1.** エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。
-*Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*
-"The elevator doors close in 5 seconds. If one is in a hurry, please press the'open' button."
+エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。
+<small>*Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*</small>
+The elevator doors close in 5 seconds. If one is in a hurry, please press the'open' button.
 
-**2.** セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。
-*Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*
-"The security gate closes automatically 10 seconds after passage. Please let a staff member know if one needs assistance."
+セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。
+<small>*Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*</small>
+The security gate closes automatically 10 seconds after passage. Please let a staff member know if one needs assistance.
 
-**3.** このドアは閉めると3秒後にロックされます。カードキーをお持ちください。
-*Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.*
-"This door locks 3 seconds after closing. Please keep your key card with you."
+このドアは閉めると3秒後にロックされます。カードキーをお持ちください。
+<small>*Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.*</small>
+This door locks 3 seconds after closing. Please keep your key card with you.
 
 
 ## Related Expressions

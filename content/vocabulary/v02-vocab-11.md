@@ -8,17 +8,11 @@ title: 身分証明書 (mibun shomeisho)
 The same humble language principles that apply to passport requests apply here too. The key phrase is 身分証明書を拝見してもよろしいでしょうか. The term is longer and less recognizable to some international guests, so staff working in multilingual settings may want to support the verbal request with a written prompt or a gesture toward the document type needed. After viewing the ID, return it immediately and thank the guest for their cooperation
 ## Example Sentences
 
-**1.** 身分証明書を拝見してもよろしいでしょうか。
-*Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*
-"May I see your identification?"
-
-**2.** 運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。
-*Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*
-"If you have an identification document such as a driver's licence or health insurance card, please present it."
-
-**3.** 身分証明書はご確認後すぐにお返しいたします。
-*Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*
-"We will return your identification immediately after reviewing it."
+| Japanese | Meaning |
+|---|---|
+| 身分証明書を拝見してもよろしいでしょうか。<br><small>*Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*</small> | May I see your identification? |
+| 運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。<br><small>*Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*</small> | If you have an identification document such as a driver's licence or health insurance card, please present it. |
+| 身分証明書はご確認後すぐにお返しいたします。<br><small>*Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*</small> | We will return your identification immediately after reviewing it. |
 
 ## Related Expressions
 

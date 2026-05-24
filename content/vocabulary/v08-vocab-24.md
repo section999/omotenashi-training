@@ -8,17 +8,17 @@ title: 約 (yaku)
 約 appears throughout hospitality communication wherever estimates are necessary: 駅まで徒歩約10分です (approximately 10 minutes on foot to the station), お部屋の準備に約30分いただけますでしょうか (may we have approximately 30 minutes to prepare their room), or ご夕食は約2時間のコースでございます (dinner is approximately a 2-hour course). Staff should give an accurate estimate, use 約 to acknowledge natural variation, and then follow up if the actual time differs from the estimate
 ## Example Sentences
 
-**1.** 駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。
-*Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.*
-"It is approximately a 10-minute walk to the station. There are several traffic lights, so please allow extra time."
+駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。
+<small>*Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.*</small>
+It is approximately a 10-minute walk to the station. There are several traffic lights, so please allow extra time.
 
-**2.** お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。
-*Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.*
-"May we have approximately 30 minutes to prepare the room? We would appreciate it if one could wait in the lobby."
+お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。
+<small>*Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.*</small>
+May we have approximately 30 minutes to prepare the room? We would appreciate it if one could wait in the lobby.
 
-**3.** 夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。
-*Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*
-"The dinner course is approximately 2 hours. Please make a reservation according to your schedule."
+夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。
+<small>*Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*</small>
+The dinner course is approximately 2 hours. Please make a reservation according to your schedule.
 
 
 ## Related Expressions

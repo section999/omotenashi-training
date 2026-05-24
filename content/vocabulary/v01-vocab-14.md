@@ -11,17 +11,11 @@ The key thing to understand is that *osore irimasu* is always about humbling one
 
 ## Example Sentences
 
-**1.** 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。
-*Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*
-"I am terribly sorry to trouble you, but could I ask your name once more?"
-
-**2.** 恐れ入ります。ただいまご確認いたします。
-*Osore irimasu. Tadaima go-kakunin itashimasu.*
-"Thank you: excuse me for a moment while I confirm."
-
-**3.** 恐れ入りますが、少々お待ちいただけますでしょうか。
-*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*
-"I am terribly sorry to trouble you, but could you wait just a moment?"
+| Japanese | Meaning |
+|---|---|
+| 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。<br><small>*Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*</small> | I am terribly sorry to trouble you, but could I ask your name once more? |
+| 恐れ入ります。ただいまご確認いたします。<br><small>*Osore irimasu. Tadaima go-kakunin itashimasu.*</small> | Thank you: excuse me for a moment while I confirm. |
+| 恐れ入りますが、少々お待ちいただけますでしょうか。<br><small>*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*</small> | I am terribly sorry to trouble you, but could you wait just a moment? |
 
 ## Related Expressions
 

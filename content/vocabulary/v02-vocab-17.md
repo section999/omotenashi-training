@@ -8,17 +8,11 @@ title: 現金 (genkin)
 In a hospitality context, staff typically confirm the payment method toward the end of a guest's stay or when presenting a bill. お支払いは現金でよろしいでしょうか is the standard phrasing for that moment. If the guest confirms cash, make sure sufficient change is available and process the transaction with care. When handing back change, お釣りでございます is the right phrase to close the interaction. Counting out the change clearly and presenting it with both hands is the kind of detail that guests remember
 ## Example Sentences
 
-**1.** お支払いは現金でよろしいでしょうか。
-*O-shiharai wa genkin de yoroshii deshō ka.*
-"Will cash payment be acceptable?"
-
-**2.** 現金のみのお取り扱いとなっております。
-*Genkin nomi no o-tori-atsukai to natte orimasu.*
-"We only accept cash payments."
-
-**3.** 現金でお支払いの場合、お釣りをご用意いたします。
-*Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.*
-"If one is paying by cash, we will prepare your change."
+| Japanese | Meaning |
+|---|---|
+| お支払いは現金でよろしいでしょうか。<br><small>*O-shiharai wa genkin de yoroshii deshō ka.*</small> | Will cash payment be acceptable? |
+| 現金のみのお取り扱いとなっております。<br><small>*Genkin nomi no o-tori-atsukai to natte orimasu.*</small> | We only accept cash payments. |
+| 現金でお支払いの場合、お釣りをご用意いたします。<br><small>*Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.*</small> | If one is paying by cash, we will prepare your change. |
 
 ## Related Expressions
 

@@ -10,17 +10,17 @@ This phrase appears across a wide range of situations: checking reservation deta
 
 ## Example Sentences
 
-**1.** ご予約の内容をただいま確認いたします。少々お待ちください。
-*Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.*
-"I will check your reservation details right now. Please wait just a moment."
+ご予約の内容をただいま確認いたします。少々お待ちください。
+<small>*Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.*</small>
+I will check your reservation details right now. Please wait just a moment.
 
-**2.** お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。
-*O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.*
-"I will check the preparation status of the room and contact you shortly."
+お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。
+<small>*O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.*</small>
+I will check the preparation status of the room and contact you shortly.
 
-**3.** ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。
-*Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.*
-"Upon checking the situation you reported, we found that the repair had already been completed."
+ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。
+<small>*Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.*</small>
+Upon checking the situation you reported, we found that the repair had already been completed.
 
 
 ## Related Expressions

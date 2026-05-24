@@ -12,17 +12,11 @@ This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō
 
 ## Example Sentences
 
-**1.** ご利用ありがとうございました。またお越しくださいませ。
-*Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*
-"Thank you for staying with us. Please come again."
-
-**2.** 本日はご来館いただきありがとうございました。またお越しくださいませ。
-*Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.*
-"Thank you for visiting us today. Please come again."
-
-**3.** またのお越しを、スタッフ一同心よりお待ち申し上げております。
-*Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*
-"All of our staff look forward with all their hearts to your next visit."
+| Japanese | Meaning |
+|---|---|
+| ご利用ありがとうございました。またお越しくださいませ。<br><small>*Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*</small> | Thank you for staying with us. Please come again. |
+| 本日はご来館いただきありがとうございました。またお越しくださいませ。<br><small>*Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.*</small> | Thank you for visiting us today. Please come again. |
+| またのお越しを、スタッフ一同心よりお待ち申し上げております。<br><small>*Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*</small> | All of our staff look forward with all their hearts to your next visit. |
 
 ## Related Expressions
 

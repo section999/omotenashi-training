@@ -8,17 +8,17 @@ title: 地図アプリ (chizu apuri)
 Hotel staff who proactively recommend 地図アプリ add real value to the guest's day. When someone asks for directions, responding with 「Googleマップやヤフー地図などの地図アプリをお使いになると便利です」 is practical and guest-focused. Note that Japan-specific apps like Navitime offer far deeper transit integration than international apps, including precise transfer timing and platform numbers, so it is worth mentioning both options. Guests worried about mobile data costs will also appreciate being told that most 地図アプリ can download maps in advance for offline use
 ## Example Sentences
 
-**1.** 旅行中は地図アプリで目的地を探しました。
-*Ryokou-chuu wa chizu apuri de mokutekichi wo sagashimashita.*
-"I used a map app to find my destination while traveling."
+旅行中は地図アプリで目的地を探しました。
+<small>*Ryokou-chuu wa chizu apuri de mokutekichi wo sagashimashita.*</small>
+I used a map app to find my destination while traveling.
 
-**2.** 地図アプリを使えば、最寄りの駅まで簡単に行けます。
-*Chizu apuri wo tsukaeba, moyori no eki made kantan ni ikemasu.*
-"If you use a map app, one can easily get to the nearest station."
+地図アプリを使えば、最寄りの駅まで簡単に行けます。
+<small>*Chizu apuri wo tsukaeba, moyori no eki made kantan ni ikemasu.*</small>
+If you use a map app, one can easily get to the nearest station.
 
-**3.** オフラインでも使えるように地図アプリをダウンロードされることをお勧めします。
-*Ofurain de mo tsukaeru you ni chizu apuri wo daunroodo sareru koto wo osusume shimasu.*
-"We recommend downloading the map app in advance so one can use it offline."
+オフラインでも使えるように地図アプリをダウンロードされることをお勧めします。
+<small>*Ofurain de mo tsukaeru you ni chizu apuri wo daunroodo sareru koto wo osusume shimasu.*</small>
+We recommend downloading the map app in advance so one can use it offline.
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 伝票 (denpyou)
 F&B staff should treat 伝票 management as a core daily skill. Keeping slips organized by table, time, and service type makes end-of-shift reconciliation much smoother and reduces the chance of errors going unnoticed. When a guest signs a 伝票 for room-charge authorization, staff should take a moment to explain what the guest is signing: ご利用料金の確認書でございます、こちらにご署名をお願いいたします. That small explanation prevents later disputes about unauthorized charges and shows one is treating the guest as a partner in the process, not merely collecting a signature
 ## Example Sentences
 
-**1.** この伝票にご署名をいただけますでしょうか。お部屋付けの確認となります。
-*Kono denpyou ni go-shomei wo itadakemasu deshou ka. O-heya tsuke no kakunin to narimasu.*
-"Could you please sign this slip? It serves as confirmation that the charges will be billed to the room."
+この伝票にご署名をいただけますでしょうか。お部屋付けの確認となります。
+<small>*Kono denpyou ni go-shomei wo itadakemasu deshou ka. O-heya tsuke no kakunin to narimasu.*</small>
+Could you please sign this slip? It serves as confirmation that the charges will be billed to the room.
 
-**2.** キッチンへの伝票にテーブル番号と注文内容を正確にご記入ください。
-*Kicchin e no denpyou ni teeburu bangou to chuumon naiyou wo seikaku ni go-kinyuu kudasai.*
-"Please accurately fill in the table number and order details on the kitchen slip."
+キッチンへの伝票にテーブル番号と注文内容を正確にご記入ください。
+<small>*Kicchin e no denpyou ni teeburu bangou to chuumon naiyou wo seikaku ni go-kinyuu kudasai.*</small>
+Please accurately fill in the table number and order details on the kitchen slip.
 
-**3.** 伝票の内容をご確認いただき、不明な点があればお申し付けください。
-*Denpyou no naiyou wo go-kakunin itadaki, fumeina ten ga areba o-moushitsuke kudasai.*
-"Please check the contents of the slip, and let us know if anything is unclear."
+伝票の内容をご確認いただき、不明な点があればお申し付けください。
+<small>*Denpyou no naiyou wo go-kakunin itadaki, fumeina ten ga areba o-moushitsuke kudasai.*</small>
+Please check the contents of the slip, and let us know if anything is unclear.
 
 
 ## Related Expressions

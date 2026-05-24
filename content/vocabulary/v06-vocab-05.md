@@ -8,17 +8,17 @@ title: 修理依頼 (shuuri irai)
 修理依頼 works in both spoken and written contexts. Staff at the front desk typically log the request in the maintenance system, communicate the timeline to the guest, and follow up after the repair is completed. The word 承ります (uketamawarimasu) is the most appropriate response phrase, as it commits the hotel to action while remaining suitably humble. If a repair cannot be completed right away, offering alternatives, a room change, a loan of replacement equipment, is standard practice in professional service recovery
 ## Example Sentences
 
-**1.** テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。
-*Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.*
-"We have received your repair request for the television. A staff member will come to the room shortly."
+テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。
+<small>*Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.*</small>
+We have received your repair request for the television. A staff member will come to the room shortly.
 
-**2.** エアコンの修理依頼をフロントにてお承りしております。
-*Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.*
-"We are accepting repair requests for the air conditioning at the front desk."
+エアコンの修理依頼をフロントにてお承りしております。
+<small>*Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.*</small>
+We are accepting repair requests for the air conditioning at the front desk.
 
-**3.** ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。
-*Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*
-"Please be aware that repairs may take a little time; we appreciate your understanding."
+ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。
+<small>*Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*</small>
+Please be aware that repairs may take a little time; we appreciate your understanding.
 
 
 ## Related Expressions

@@ -9,17 +9,17 @@ title: ご用件 (goyouken)
 The standard phrase ご用件をお伺いします (may I ask the purpose of their call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, staff should confirm ご用件 rather than acting on assumptions. A regular guest may be calling for something unexpected, and assumptions cause the kind of misrouting one was trying to avoid
 ## Example Sentences
 
-**1.** ご用件をお伺いしてもよろしいですか。
-*Goyouken wo oukagai shite mo yoroshii desu ka.*
-"May I ask the purpose of your call / visit?"
+ご用件をお伺いしてもよろしいですか。
+<small>*Goyouken wo oukagai shite mo yoroshii desu ka.*</small>
+May I ask the purpose of your call / visit?
 
-**2.** ご用件を承りましたので、担当者にお繋ぎいたします。
-*Goyouken wo uketamawarimashita node, tantousha ni otsunagi itashimasu.*
-"I have noted your inquiry and will connect you with the person in charge."
+ご用件を承りましたので、担当者にお繋ぎいたします。
+<small>*Goyouken wo uketamawarimashita node, tantousha ni otsunagi itashimasu.*</small>
+I have noted your inquiry and will connect you with the person in charge.
 
-**3.** ご用件は予約のご変更でしょうか。
-*Goyouken wa yoyaku no go-henkou deshou ka.*
-"Is your matter regarding a change to your reservation?"
+ご用件は予約のご変更でしょうか。
+<small>*Goyouken wa yoyaku no go-henkou deshou ka.*</small>
+Is your matter regarding a change to your reservation?
 
 
 ## Related Expressions

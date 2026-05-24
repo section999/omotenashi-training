@@ -9,17 +9,17 @@ title: フロアマップ (furoamappu)
 Offering a フロアマップ proactively is a recognized expression of kikubari. An effective approach is to notice when someone is studying a hallway or pausing near a sign, and approach them first with こちらがフロアマップでございます. The map should always be handed with both hands, a small but meaningful gesture in Japanese hospitality. When presenting the map, staff should not just hand it and walk away. They should point to the guest's current location first, then show where the guest is heading, and mention landmarks in between. A map handed without that orientation loses most of its value
 ## Example Sentences
 
-**1.** こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。
-*Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.*
-"Here is the floor map. Your current location is here, and the room is here."
+こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。
+<small>*Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.*</small>
+Here is the floor map. Your current location is here, and the room is here.
 
-**2.** エレベーターの横にフロアマップがございますので、ご自由にお取りください。
-*Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.*
-"There is a floor map by the elevator, so please feel free to take one."
+エレベーターの横にフロアマップがございますので、ご自由にお取りください。
+<small>*Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.*</small>
+There is a floor map by the elevator, so please feel free to take one.
 
-**3.** ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。
-*Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*
-"If you have any questions, please refer to the floor map or let us know at the front desk."
+ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。
+<small>*Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*</small>
+If you have any questions, please refer to the floor map or let us know at the front desk.
 
 
 ## Related Expressions

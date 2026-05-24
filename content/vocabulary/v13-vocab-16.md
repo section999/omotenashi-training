@@ -8,17 +8,11 @@ title: 打ち合わせ (uchiawase)
 The word itself is derived from 打ち合う (to strike together), suggesting a collision of ideas that results in shared understanding. A 打ち合わせ might last anywhere from five minutes to an hour, depending on the complexity of what is being coordinated. Staff often use the phrase 少し打ち合わせをしましょう (sukoshi uchiawase wo shimashou, "let's have a quick briefing") to initiate these sessions informally. Efficiency and clarity achieved through proper 打ち合わせ reduces guest-facing errors
 ## Example Sentences
 
-**1.** イベント開始前に、スタッフ全員で打ち合わせを行いました。
-*Ibento kaishi mae ni, sutaffu zen'in de uchiawase wo okonaimashita.*
-"Before the event started, all staff held a briefing together."
-
-**2.** 明日の宴会の流れについて、料理長と打ち合わせをしたいと思います。
-*Ashita no enkai no nagare ni tsuite, ryouriche to uchiawase wo shitai to omoimasu.*
-"I would like to have a briefing with the head chef regarding tomorrow's banquet flow."
-
-**3.** シフト交代の前に、引き継ぎの打ち合わせをしっかり行ってください。
-*Shifuto koutai no mae ni, hikitsugi no uchiawase wo shikkari okonatte kudasai.*
-"Please conduct the handover briefing thoroughly before shift changeover."
+| Japanese | Meaning |
+|---|---|
+| イベント開始前に、スタッフ全員で打ち合わせを行いました。<br><small>*Ibento kaishi mae ni, sutaffu zen'in de uchiawase wo okonaimashita.*</small> | Before the event started, all staff held a briefing together. |
+| 明日の宴会の流れについて、料理長と打ち合わせをしたいと思います。<br><small>*Ashita no enkai no nagare ni tsuite, ryouriche to uchiawase wo shitai to omoimasu.*</small> | I would like to have a briefing with the head chef regarding tomorrow's banquet flow. |
+| シフト交代の前に、引き継ぎの打ち合わせをしっかり行ってください。<br><small>*Shifuto koutai no mae ni, hikitsugi no uchiawase wo shikkari okonatte kudasai.*</small> | Please conduct the handover briefing thoroughly before shift changeover. |
 
 ## Related Expressions
 

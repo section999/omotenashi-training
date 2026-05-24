@@ -8,17 +8,11 @@ title: 隣 (tonari)
 In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, staff should specify which side, 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests check both directions and look uncertain, which reduces guidance clarity
 ## Example Sentences
 
-**1.** レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。
-*Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.*
-"There is a café next to the restaurant. Please feel free to use it for coffee after breakfast."
-
-**2.** お部屋の右隣に自動販売機がございますので、ご自由にお使いください。
-*Oheya no migi tonari ni jidouhanbaiki ga gozaimasu node, gojiyuu ni otsukai kudasai.*
-"There is a vending machine to the right of the room; please feel free to use it."
-
-**3.** エレベーターホールの隣がフィットネスセンターでございます。
-*Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.*
-"The fitness center is adjacent to the elevator hall."
+| Japanese | Meaning |
+|---|---|
+| レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。<br><small>*Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.*</small> | There is a café next to the restaurant. Please feel free to use it for coffee after breakfast. |
+| お部屋の右隣に自動販売機がございますので、ご自由にお使いください。<br><small>*Oheya no migi tonari ni jidouhanbaiki ga gozaimasu node, gojiyuu ni otsukai kudasai.*</small> | There is a vending machine to the right of the room; please feel free to use it. |
+| エレベーターホールの隣がフィットネスセンターでございます。<br><small>*Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.*</small> | The fitness center is adjacent to the elevator hall. |
 
 ## Related Expressions
 

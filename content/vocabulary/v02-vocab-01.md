@@ -10,17 +10,11 @@ Staff members stationed at the フロント are expected to maintain impeccable 
 
 ## Example Sentences
 
-**1.** フロントはこちらでございます。どうぞこちらへお越しください。
-*Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*
-"The front desk is right here. Please come this way."
-
-**2.** ご不明な点がございましたら、いつでもフロントまでお申し付けください。
-*Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*
-"If you have any questions at all, please do not hesitate to let the front desk know."
-
-**3.** フロントにて、お荷物をお預かりすることが可能でございます。
-*Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*
-"We are able to hold your luggage at the front desk."
+| Japanese | Meaning |
+|---|---|
+| フロントはこちらでございます。どうぞこちらへお越しください。<br><small>*Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*</small> | The front desk is right here. Please come this way. |
+| ご不明な点がございましたら、いつでもフロントまでお申し付けください。<br><small>*Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*</small> | If you have any questions at all, please do not hesitate to let the front desk know. |
+| フロントにて、お荷物をお預かりすることが可能でございます。<br><small>*Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*</small> | We are able to hold your luggage at the front desk. |
 
 ## Related Expressions
 

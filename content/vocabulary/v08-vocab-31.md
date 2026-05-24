@@ -9,17 +9,17 @@ title: 中 (naka)
 Saying 中へどうぞ is not just directional; it carries a sense of invitation. That warmth is part of Japanese hospitality. Beyond the welcoming register, 中 does practical work whenever staff need to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions
 ## Example Sentences
 
-**1.** 会議室は建物の中、3階の奥にございます。
-*Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*
-"The conference room is inside the building, at the far end of the third floor."
+会議室は建物の中、3階の奥にございます。
+<small>*Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*</small>
+The conference room is inside the building, at the far end of the third floor.
 
-**2.** アメニティはバスルームの中にご用意しております。
-*Amenitii wa basurumu no naka ni go-youi shite orimasu.*
-"The amenities are prepared inside the bathroom."
+アメニティはバスルームの中にご用意しております。
+<small>*Amenitii wa basurumu no naka ni go-youi shite orimasu.*</small>
+The amenities are prepared inside the bathroom.
 
-**3.** レストランはホテルの建物の中にございますので、外へお出になる必要はございません。
-*Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.*
-"The restaurant is inside the hotel building, so there is no need to go outside."
+レストランはホテルの建物の中にございますので、外へお出になる必要はございません。
+<small>*Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.*</small>
+The restaurant is inside the hotel building, so there is no need to go outside.
 
 
 ## Related Expressions

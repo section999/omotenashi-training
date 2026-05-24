@@ -9,17 +9,11 @@ When explaining how to set up the board, staff should keep it practical: place i
 
 ## Example Sentences
 
-**1.** アイロン台はクロゼット内の上段にございます。ご不明な点はフロントまでどうぞ。
-*Airon dai wa kurozetto-nai no joudan ni gozaimasu. Go-fumeina ten wa furonto made douzo.*
-"The ironing board is on the upper shelf inside the closet. Please contact the front desk if one has any questions."
-
-**2.** アイロン台をご使用の際は、安定した場所に広げてからお使いください。
-*Airon dai o go-shiyou no sai wa, antei shita basho ni hirogete kara o-tsukai kudasai.*
-"When using the ironing board, please unfold it on a stable surface before use."
-
-**3.** ただいまお部屋にアイロン台がない場合は、すぐにお持ちいたしますのでお申し付けください。
-*Tadaima o-heya ni airon dai ga nai baai wa, sugu ni o-mochi itashimasu no de o-moushitsuke kudasai.*
-"If there is no ironing board in the room at this time, please let us know and we will bring one immediately."
+| Japanese | Meaning |
+|---|---|
+| アイロン台はクロゼット内の上段にございます。ご不明な点はフロントまでどうぞ。<br><small>*Airon dai wa kurozetto-nai no joudan ni gozaimasu. Go-fumeina ten wa furonto made douzo.*</small> | The ironing board is on the upper shelf inside the closet. Please contact the front desk if one has any questions. |
+| アイロン台をご使用の際は、安定した場所に広げてからお使いください。<br><small>*Airon dai o go-shiyou no sai wa, antei shita basho ni hirogete kara o-tsukai kudasai.*</small> | When using the ironing board, please unfold it on a stable surface before use. |
+| ただいまお部屋にアイロン台がない場合は、すぐにお持ちいたしますのでお申し付けください。<br><small>*Tadaima o-heya ni airon dai ga nai baai wa, sugu ni o-mochi itashimasu no de o-moushitsuke kudasai.*</small> | If there is no ironing board in the room at this time, please let us know and we will bring one immediately. |
 
 ## Related Expressions
 

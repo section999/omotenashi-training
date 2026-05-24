@@ -8,17 +8,11 @@ title: クレーム (kuremu)
 When a クレーム comes in, it should trigger a clear internal process: staff listen carefully, apologise sincerely, and if the issue cannot be resolved at the front-line level, they contact a supervisor without delay. Staff should never argue, make excuses, or dismiss the guest's perspective, even if the complaint involves a misunderstanding. Documenting クレーム is also standard practice, because patterns of complaints can reveal systemic problems that need management attention
 ## Example Sentences
 
-**1.** お客様のクレームに対し、誠心誠意をもって対応いたします。
-*O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*
-"We will handle your complaint with complete sincerity and dedication."
-
-**2.** ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。
-*Tadaima kuremu no naiyou wo kakunin shite orimasu no de, shoushou omachi kudasaimase.*
-"We are currently reviewing the details of your complaint, so please wait just a moment."
-
-**3.** クレームをいただいた際は、責任者がご対応させていただきます。
-*Kuremu wo itadaita sai wa, sekininsha ga go-taiou sasete itadakimasu.*
-"When a complaint is received, the person in charge will personally handle the response."
+| Japanese | Meaning |
+|---|---|
+| お客様のクレームに対し、誠心誠意をもって対応いたします。<br><small>*O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*</small> | We will handle your complaint with complete sincerity and dedication. |
+| ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。<br><small>*Tadaima kuremu no naiyou wo kakunin shite orimasu no de, shoushou omachi kudasaimase.*</small> | We are currently reviewing the details of your complaint, so please wait just a moment. |
+| クレームをいただいた際は、責任者がご対応させていただきます。<br><small>*Kuremu wo itadaita sai wa, sekininsha ga go-taiou sasete itadakimasu.*</small> | When a complaint is received, the person in charge will personally handle the response. |
 
 ## Related Expressions
 

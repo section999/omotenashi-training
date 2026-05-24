@@ -8,17 +8,11 @@ title: 夕食 (yuushoku)
 Because 夕食 often involves advance reservations, table assignments, and menu pre-selection, preparation before service begins is important. Confirming arrival times, dietary restrictions, and any celebratory occasions during the afternoon allows the kitchen and floor team to personalize the experience. When communicating with guests about 夕食, the phrasing should convey anticipation and warmth. The dinner hour is not just a meal but the emotional high point of the guest's day
 ## Example Sentences
 
-**1.** ご夕食は18時より大広間にてご用意しております。
-*Go-yuushoku wa juuhachi-ji yori ohiroma nite go-youi shite orimasu.*
-"Dinner is prepared in the main hall from 6:00 p.m."
-
-**2.** 夕食の開始時間は事前にお部屋にてお伺いいたします。
-*Yuushoku no kaishi jikan wa jizen ni o-heya nite o-ukagai itashimasu.*
-"We will ask your preferred dinner start time in advance at the room."
-
-**3.** 本日の夕食には旬の食材を使ったお料理をご用意しております。
-*Honjitsu no yuushoku ni wa shun no shokuzai wo tsukatta o-ryouri wo go-youi shite orimasu.*
-"Tonight's dinner features dishes prepared with seasonal ingredients."
+| Japanese | Meaning |
+|---|---|
+| ご夕食は18時より大広間にてご用意しております。<br><small>*Go-yuushoku wa juuhachi-ji yori ohiroma nite go-youi shite orimasu.*</small> | Dinner is prepared in the main hall from 6:00 p.m. |
+| 夕食の開始時間は事前にお部屋にてお伺いいたします。<br><small>*Yuushoku no kaishi jikan wa jizen ni o-heya nite o-ukagai itashimasu.*</small> | We will ask your preferred dinner start time in advance at the room. |
+| 本日の夕食には旬の食材を使ったお料理をご用意しております。<br><small>*Honjitsu no yuushoku ni wa shun no shokuzai wo tsukatta o-ryouri wo go-youi shite orimasu.*</small> | Tonight's dinner features dishes prepared with seasonal ingredients. |
 
 ## Related Expressions
 

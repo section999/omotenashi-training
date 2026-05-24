@@ -8,17 +8,17 @@ title: 電子決済 (denshi kessai)
 Staff need to know which 電子決済 methods the property accepts and where the correct terminal or QR code is for each one. When a transaction starts, staff should confirm that the amount shown matches the bill before the guest confirms on their end, and wait for the 決済完了 (payment complete) signal on the terminal before letting the guest go. Systems do occasionally fail, so having a backup plan ready and offering alternatives calmly prevents the situation from feeling like the guest's problem
 ## Example Sentences
 
-**1.** 電子決済はPayPayとクレジットカードがご利用いただけます。
-*Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.*
-"For electronic payment, we accept PayPay and credit cards."
+電子決済はPayPayとクレジットカードがご利用いただけます。
+<small>*Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.*</small>
+For electronic payment, we accept PayPay and credit cards.
 
-**2.** こちらのQRコードをスキャンして電子決済をお願いします。
-*Kochira no kyūāru kōdo o sukyan shite denshi kessai o onegai shimasu.*
-"Please scan this QR code to complete the electronic payment."
+こちらのQRコードをスキャンして電子決済をお願いします。
+<small>*Kochira no kyūāru kōdo o sukyan shite denshi kessai o onegai shimasu.*</small>
+Please scan this QR code to complete the electronic payment.
 
-**3.** ただいま電子決済のシステムに不具合が生じておりまして、大変申し訳ございません。
-*Tadaima denshi kessai no shisutemu ni fuguai ga shōjite orimashite, taihen mōshiwake gozaimasen.*
-"We are currently experiencing a technical issue with our electronic payment system, and we sincerely apologize for the inconvenience."
+ただいま電子決済のシステムに不具合が生じておりまして、大変申し訳ございません。
+<small>*Tadaima denshi kessai no shisutemu ni fuguai ga shōjite orimashite, taihen mōshiwake gozaimasen.*</small>
+We are currently experiencing a technical issue with our electronic payment system, and we sincerely apologize for the inconvenience.
 
 
 ## Related Expressions

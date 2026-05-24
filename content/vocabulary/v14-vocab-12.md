@@ -8,17 +8,17 @@ title: おすすめ (osusume)
 In restaurant settings, the おすすめ is often written on a small daily board or mentioned by servers at the start of a meal, typically reflecting seasonal ingredients or the chef's current specialty. In a hotel or ryokan, a staff おすすめ might be a particular garden path that is stunning at dusk, a local izakaya that regulars love but tourists rarely find, or the specific time on a weekday morning when the famous shrine is completely quiet. The best おすすめ are personal, specific, and delivered with genuine enthusiasm. A common error is to default to repeating what is on the printed map when asked, but that misses the whole point: guests are asking staff because they want their opinion, not the pamphlet's
 ## Example Sentences
 
-**1.** 本日のおすすめは、地元の新鮮な魚介類を使った会席料理でございます。
-*Honjitsu no osusume wa, jimoto no shinsen na gyokai rui wo tsukatta kaiseki ryouri de gozaimasu.*
-"Today's recommendation is a kaiseki course featuring fresh local seafood."
+本日のおすすめは、地元の新鮮な魚介類を使った会席料理でございます。
+<small>*Honjitsu no osusume wa, jimoto no shinsen na gyokai rui wo tsukatta kaiseki ryouri de gozaimasu.*</small>
+Today's recommendation is a kaiseki course featuring fresh local seafood.
 
-**2.** この時期のおすすめの観光地は、紅葉が美しい〇〇公園でございます。
-*Kono jiki no osusume no kankouchi wa, kouyou ga utsukushii ○○ kouen de gozaimasu.*
-"The recommended tourist spot for this season is ○○ Park, where the autumn foliage is beautiful."
+この時期のおすすめの観光地は、紅葉が美しい〇〇公園でございます。
+<small>*Kono jiki no osusume no kankouchi wa, kouyou ga utsukushii ○○ kouen de gozaimasu.*</small>
+The recommended tourist spot for this season is ○○ Park, where the autumn foliage is beautiful.
 
-**3.** スタッフおすすめの近くのカフェをご紹介いたしましょうか。
-*Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.*
-"Shall I introduce you to a nearby café that our staff recommend?"
+スタッフおすすめの近くのカフェをご紹介いたしましょうか。
+<small>*Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.*</small>
+Shall I introduce you to a nearby café that our staff recommend?
 
 ## Related Expressions
 

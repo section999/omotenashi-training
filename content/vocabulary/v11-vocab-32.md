@@ -8,17 +8,11 @@ title: 日本語対応 (nihongo taiou)
 日本語対応 also matters within a hotel's own internal structure, particularly in properties with international staff. If a guest calls the concierge desk and wants to speak in Japanese, there needs to be a clear process for reaching someone who can handle that conversation well. For non-native staff, reaching 日本語対応 level is a significant personal milestone, the point where their Japanese is sufficient for serving guests confidently in standard hospitality situations. Training programs often build their certification levels around this idea: at each stage, asking what this person can comfortably handle in Japanese
 ## Example Sentences
 
-**1.** 海外のお客様にも、日本語対応のスタッフがご対応いたします。
-*Kaigai no okyakusama ni mo, nihongo taiou no sutaffu ga go-taiou itashimasu.*
-"For overseas guests as well, Japanese-speaking staff will be available to assist you."
-
-**2.** 日本語対応可能なコンシェルジュが、ご滞在中いつでもお手伝いします。
-*Nihongo taiou kanou na konsheruju ga, go-taizaichuu itsudemo otetsudai shimasu.*
-"A Japanese-capable concierge is available at any time during the stay."
-
-**3.** ご予約の際に日本語対応をご希望の場合は、あらかじめお知らせください。
-*Go-yoyaku no sai ni nihongo taiou wo go-kibou no baai wa, arakajime oshirase kudasai.*
-"If you wish to have Japanese-language support at the time of booking, please let us know in advance."
+| Japanese | Meaning |
+|---|---|
+| 海外のお客様にも、日本語対応のスタッフがご対応いたします。<br><small>*Kaigai no okyakusama ni mo, nihongo taiou no sutaffu ga go-taiou itashimasu.*</small> | For overseas guests as well, Japanese-speaking staff will be available to assist you. |
+| 日本語対応可能なコンシェルジュが、ご滞在中いつでもお手伝いします。<br><small>*Nihongo taiou kanou na konsheruju ga, go-taizaichuu itsudemo otetsudai shimasu.*</small> | A Japanese-capable concierge is available at any time during the stay. |
+| ご予約の際に日本語対応をご希望の場合は、あらかじめお知らせください。<br><small>*Go-yoyaku no sai ni nihongo taiou wo go-kibou no baai wa, arakajime oshirase kudasai.*</small> | If you wish to have Japanese-language support at the time of booking, please let us know in advance. |
 
 ## Related Expressions
 

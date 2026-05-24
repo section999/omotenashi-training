@@ -10,17 +10,17 @@ For hotel staff, being fluent in both is a professional baseline. When one is po
 
 ## Example Sentences
 
-**1.** 緊急出口は各フロアのエレベーター横と廊下の突き当たりにございます。
-*Kinkyuu deguchi wa kaku-furoa no erebeetaa yoko to rouka no tsukiatari ni gozaimasu.*
-"Emergency exits are located next to the elevators on each floor and at the end of the corridors."
+緊急出口は各フロアのエレベーター横と廊下の突き当たりにございます。
+<small>*Kinkyuu deguchi wa kaku-furoa no erebeetaa yoko to rouka no tsukiatari ni gozaimasu.*</small>
+Emergency exits are located next to the elevators on each floor and at the end of the corridors.
 
-**2.** 緊急の際は緊急出口からすみやかにご避難いただき、建物の外の集合場所にお集まりください。
-*Kinkyuu no sai wa kinkyuu deguchi kara sumiyaka ni go-hinan itadaki, tatemono no soto no shuugou basho ni o-atsumari kudasai.*
-"In an emergency, please evacuate promptly through the emergency exits and gather at the assembly point outside the building."
+緊急の際は緊急出口からすみやかにご避難いただき、建物の外の集合場所にお集まりください。
+<small>*Kinkyuu no sai wa kinkyuu deguchi kara sumiyaka ni go-hinan itadaki, tatemono no soto no shuugou basho ni o-atsumari kudasai.*</small>
+In an emergency, please evacuate promptly through the emergency exits and gather at the assembly point outside the building.
 
-**3.** こちらの安全カードに、各階の緊急出口と避難経路が図で示されております。
-*Kochira no anzen kaado ni, kaku-kai no kinkyuu deguchi to hinan keiro ga zu de shimesarete orimasu.*
-"This safety card shows the emergency exits and evacuation routes for each floor in diagram form."
+こちらの安全カードに、各階の緊急出口と避難経路が図で示されております。
+<small>*Kochira no anzen kaado ni, kaku-kai no kinkyuu deguchi to hinan keiro ga zu de shimesarete orimasu.*</small>
+This safety card shows the emergency exits and evacuation routes for each floor in diagram form.
 
 
 ## Related Expressions

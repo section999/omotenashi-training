@@ -9,17 +9,17 @@ title: 予約番号 (yoyaku bangou)
 When a guest contacts the hotel by phone, email, or in person, asking for the 予約番号 before making any changes or confirmations is standard practice. The number appears on booking confirmation emails, OTA (online travel agency) booking slips, and hotel-issued vouchers, so guests are generally expected to have it handy. Staff should phrase the request using the polite humble form: ご予約番号をお知らせいただけますでしょうか. However, some guests will not have it, and in those cases staff shift to secondary verification methods such as name, arrival date, and contact information. Asking for the number first prioritizes efficiency
 ## Example Sentences
 
-**1.** ご予約番号をお知らせいただけますでしょうか。
-*Go-yoyaku bangou o oshirase itadakemasu deshou ka.*
-"Could you please provide your reservation number?"
+ご予約番号をお知らせいただけますでしょうか。
+<small>*Go-yoyaku bangou o oshirase itadakemasu deshou ka.*</small>
+Could you please provide your reservation number?
 
-**2.** 予約番号は確認メールに記載されております。
-*Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.*
-"Your reservation number is listed in the confirmation email."
+予約番号は確認メールに記載されております。
+<small>*Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.*</small>
+Your reservation number is listed in the confirmation email.
 
-**3.** 予約番号をもとにご予約内容を確認いたします。
-*Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.*
-"We will verify your reservation details using your reservation number."
+予約番号をもとにご予約内容を確認いたします。
+<small>*Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.*</small>
+We will verify your reservation details using your reservation number.
 
 
 ## Related Expressions

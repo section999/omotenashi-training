@@ -12,17 +12,11 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 ## Example Sentences
 
-**1.** 失礼いたします。お部屋にご案内いたします。
-*Shitsurei itashimasu. O-heya ni go-annai itashimasu.*
-"Excuse me. I will show you to the room."
-
-**2.** 失礼いたします。少々お時間をいただいてもよろしいでしょうか。
-*Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*
-"Excuse me. May I take a moment of your time?"
-
-**3.** 失礼いたします。（ドアをノックして部屋に入る際に）
-*Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*
-"Excuse me." (Said when knocking and entering a room)
+| Japanese | Meaning |
+|---|---|
+| 失礼いたします。お部屋にご案内いたします。<br><small>*Shitsurei itashimasu. O-heya ni go-annai itashimasu.*</small> | Excuse me. I will show you to the room. |
+| 失礼いたします。少々お時間をいただいてもよろしいでしょうか。<br><small>*Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*</small> | Excuse me. May I take a moment of your time? |
+| 失礼いたします。（ドアをノックして部屋に入る際に）<br><small>*Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*</small> | Excuse me. |
 
 ## Related Expressions
 

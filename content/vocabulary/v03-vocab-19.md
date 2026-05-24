@@ -8,17 +8,11 @@ title: エアコン (air conditioner)
 In a hospitality context, staff typically point out the エアコン remote control during room orientation: 「エアコンのリモコンはテレビ台の上にございます」 (the air conditioner remote is on the TV stand). If a guest reports a malfunction, the appropriate response would be 「すぐに係の者を向かわせます」 (I will send a staff member right away). Staff should also be ready to explain the difference between 冷房 (cooling) and 暖房 (heating) mode settings on the remote
 ## Example Sentences
 
-**1.** エアコンはこちらで操作できますので、温度はご自由にお調節ください。
-*Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*
-"You can operate the air conditioner here: please adjust the temperature as one like."
-
-**2.** エアコンのリモコンはテレビ台の上にございます。
-*Eakon no rimokon wa terebi dai no ue ni gozaimasu.*
-"The air conditioner remote is on the TV stand."
-
-**3.** エアコンの調子がよくない場合は、フロントまでお知らせください。
-*Eakon no choushi ga yokunai baai wa, furonto made o-shirase kudasai.*
-"If the air conditioner is not working properly, please let the front desk know."
+| Japanese | Meaning |
+|---|---|
+| エアコンはこちらで操作できますので、温度はご自由にお調節ください。<br><small>*Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*</small> | You can operate the air conditioner here: please adjust the temperature as one like. |
+| エアコンのリモコンはテレビ台の上にございます。<br><small>*Eakon no rimokon wa terebi dai no ue ni gozaimasu.*</small> | The air conditioner remote is on the TV stand. |
+| エアコンの調子がよくない場合は、フロントまでお知らせください。<br><small>*Eakon no choushi ga yokunai baai wa, furonto made o-shirase kudasai.*</small> | If the air conditioner is not working properly, please let the front desk know. |
 
 ## Related Expressions
 

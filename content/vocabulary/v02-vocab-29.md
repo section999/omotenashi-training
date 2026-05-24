@@ -8,17 +8,17 @@ title: 受付 (uketsuke)
 In a hospitality context, 受付 most frequently appears when directing guests: 受付はこちらでございます (the reception is here) or チェックインのお手続きは受付にてお願いいたします (please complete their check-in at the reception). Staff might also use it when explaining where to go for various services: スパの受付は地下一階でございます (the spa reception is on basement level one). Being able to direct guests clearly and confidently to the correct 受付 at any facility within the property is an important navigation skill for all hospitality staff
 ## Example Sentences
 
-**1.** 受付はこちらでございます。
-*Uketsuke wa kochira de gozaimasu.*
-"The reception is here."
+受付はこちらでございます。
+<small>*Uketsuke wa kochira de gozaimasu.*</small>
+The reception is here.
 
-**2.** チェックインのお手続きは受付にてお願いいたします。
-*Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.*
-"Please complete your check-in at the reception desk."
+チェックインのお手続きは受付にてお願いいたします。
+<small>*Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.*</small>
+Please complete your check-in at the reception desk.
 
-**3.** スパの受付は地下一階にございます。
-*Supa no uketsuke wa chika ik-kai ni gozaimasu.*
-"The spa reception is on the basement level."
+スパの受付は地下一階にございます。
+<small>*Supa no uketsuke wa chika ik-kai ni gozaimasu.*</small>
+The spa reception is on the basement level.
 
 
 ## Related Expressions

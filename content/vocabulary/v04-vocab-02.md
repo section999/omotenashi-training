@@ -8,17 +8,11 @@ title: 清掃中 (seisouchuu)
 Housekeeping staff hang the 清掃中 sign or card on the door handle before entering, and it stays up until all work is finished. Verbally, staff also use this phrase when redirecting a guest who tries to return to their room early. The key distinction to remember is the difference between 清掃中 and 清掃済み (seisou zumi, cleaning complete): mixing these two up in room-status reports causes operational problems, so both need to be learned until they are automatic
 ## Example Sentences
 
-**1.** ただいまお部屋が清掃中でございます。しばらくお待ちいただけますでしょうか。
-*Tadaima oheya ga seisou-chuu de gozaimasu. Shibaraku omachi itadakemasu deshou ka.*
-"Your room is currently being cleaned. Would you mind waiting a little while?"
-
-**2.** 清掃中のドアサインは、スタッフが作業中であることをお知らせするものです。
-*Seisou-chuu no doa sain wa, sutaffu ga sagyou-chuu de aru koto wo oshirase suru mono desu.*
-"The'cleaning in progress' door sign lets guests know that staff are working inside."
-
-**3.** 清掃中にお客様がいらっしゃいましたので、一時退室いたしました。
-*Seisou-chuu ni okyaku-sama ga irasshaimashita node, ichiji taishitsu itashimashita.*
-"A guest arrived while cleaning was in progress, so I temporarily stepped out of the room."
+| Japanese | Meaning |
+|---|---|
+| ただいまお部屋が清掃中でございます。しばらくお待ちいただけますでしょうか。<br><small>*Tadaima oheya ga seisou-chuu de gozaimasu. Shibaraku omachi itadakemasu deshou ka.*</small> | Your room is currently being cleaned. Would you mind waiting a little while? |
+| 清掃中のドアサインは、スタッフが作業中であることをお知らせするものです。<br><small>*Seisou-chuu no doa sain wa, sutaffu ga sagyou-chuu de aru koto wo oshirase suru mono desu.*</small> | The'cleaning in progress' door sign lets guests know that staff are working inside. |
+| 清掃中にお客様がいらっしゃいましたので、一時退室いたしました。<br><small>*Seisou-chuu ni okyaku-sama ga irasshaimashita node, ichiji taishitsu itashimashita.*</small> | A guest arrived while cleaning was in progress, so I temporarily stepped out of the room. |
 
 ## Related Expressions
 

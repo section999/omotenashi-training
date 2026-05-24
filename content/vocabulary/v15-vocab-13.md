@@ -9,17 +9,11 @@ In hotel hospitality, 宅配便 comes up regularly in two main scenarios: guests
 
 ## Example Sentences
 
-**1.** ホテルから空港まで、手荷物を宅配便でお送りすることができます。
-*Hoteru kara kuukou made, te-nimotsu wo takkyuubin de o-okuri suru koto ga dekimasu.*
-"We can ship your luggage from the hotel to the airport via courier service."
-
-**2.** 宅配便のお荷物はフロントにてお預かりしております。
-*Takkyuubin no o-nimotsu wa furonto nite o-azukari shite orimasu.*
-"We are holding your courier delivery at the front desk."
-
-**3.** 宅配便の伝票にご住所とお名前をご記入ください。
-*Takkyuubin no denpyou ni go-juusho to o-namae wo go-kinyuu kudasai.*
-"Please fill in your address and name on the courier delivery slip."
+| Japanese | Meaning |
+|---|---|
+| ホテルから空港まで、手荷物を宅配便でお送りすることができます。<br><small>*Hoteru kara kuukou made, te-nimotsu wo takkyuubin de o-okuri suru koto ga dekimasu.*</small> | We can ship your luggage from the hotel to the airport via courier service. |
+| 宅配便のお荷物はフロントにてお預かりしております。<br><small>*Takkyuubin no o-nimotsu wa furonto nite o-azukari shite orimasu.*</small> | We are holding your courier delivery at the front desk. |
+| 宅配便の伝票にご住所とお名前をご記入ください。<br><small>*Takkyuubin no denpyou ni go-juusho to o-namae wo go-kinyuu kudasai.*</small> | Please fill in your address and name on the courier delivery slip. |
 
 ## Related Expressions
 

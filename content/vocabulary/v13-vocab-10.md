@@ -8,17 +8,17 @@ title: 休み (yasumi)
 Japanese hospitality workers historically had fewer guaranteed 休み than workers in many other countries, partly due to cultural attitudes toward diligence and the round-the-clock demands of service. Awareness of work-life balance has grown in recent years, and many hotel chains now promote proper 休み scheduling as part of employee wellness programmes. During peak tourism seasons, requests to come in on designated days off can increase, which makes clear communication between staff and supervisors important
 ## Example Sentences
 
-**1.** 明日は休みですので、出勤しません。
-*Ashita wa yasumi desu node, shukkin shimasen.*
-"Tomorrow is a day off, so I will not go to work."
+明日は休みですので、出勤しません。
+<small>*Ashita wa yasumi desu node, shukkin shimasen.*</small>
+Tomorrow is a day off, so I will not go to work.
 
-**2.** 今週の休みはいつですか？シフト表を確認します。
-*Konshuu no yasumi wa itsu desu ka? Shifuto-hyou o kakunin shimasu.*
-"When is my day off this week? Let me check the shift schedule."
+今週の休みはいつですか？シフト表を確認します。
+<small>*Konshuu no yasumi wa itsu desu ka? Shifuto-hyou o kakunin shimasu.*</small>
+When is my day off this week? Let me check the shift schedule.
 
-**3.** 連休が取れたので、家族と旅行に行きます。
-*Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.*
-"I managed to get consecutive days off, so I am going on a trip with my family."
+連休が取れたので、家族と旅行に行きます。
+<small>*Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.*</small>
+I managed to get consecutive days off, so I am going on a trip with my family.
 
 
 ## Related Expressions

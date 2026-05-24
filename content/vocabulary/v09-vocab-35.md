@@ -9,17 +9,11 @@ Individual reservations offer the most opportunity for meaningful personalizatio
 
 ## Example Sentences
 
-**1.** 個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。
-*Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.*
-"Guests with individual reservations, please proceed to the front desk for identity verification before checking in."
-
-**2.** 個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。
-*Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.*
-"We have a double room prepared for your individual reservation. Do you have a preferred floor?"
-
-**3.** 前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。
-*Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.*
-"We had a record of your preferences from your previous stay, so we have prepared everything according to the same settings today."
+| Japanese | Meaning |
+|---|---|
+| 個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。<br><small>*Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.*</small> | Guests with individual reservations, please proceed to the front desk for identity verification before checking in. |
+| 個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。<br><small>*Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.*</small> | We have a double room prepared for your individual reservation. Do you have a preferred floor? |
+| 前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。<br><small>*Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.*</small> | We had a record of your preferences from your previous stay, so we have prepared everything according to the same settings today. |
 
 ## Related Expressions
 

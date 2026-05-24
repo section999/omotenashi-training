@@ -9,17 +9,11 @@ When accepting luggage, staff should always issue a 引換券 (claim ticket), ta
 
 ## Example Sentences
 
-**1.** チェックインは午後3時からですが、お荷物はただいまからお預かりできます。
-*Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.*
-"Check-in begins at 3:00 PM, but we can take your luggage right now."
-
-**2.** 荷物預かりをご利用の際は、こちらの引換券を大切にお持ちください。
-*Nimotsu azukari o go-riyou no sai wa, kochira no hikikaeken o taisetsu ni o-mochi kudasai.*
-"When using our luggage storage service, please keep this claim ticket safe."
-
-**3.** お預かりしている荷物は、当日のご出発時間まで安全に保管いたします。
-*O-azukari shite iru nimotsu wa, toujitsu no go-shuppatsu jikan made anzen ni hokan itashimasu.*
-"We will keep your stored luggage safely until your departure time today."
+| Japanese | Meaning |
+|---|---|
+| チェックインは午後3時からですが、お荷物はただいまからお預かりできます。<br><small>*Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.*</small> | Check-in begins at 3:00 PM, but we can take your luggage right now. |
+| 荷物預かりをご利用の際は、こちらの引換券を大切にお持ちください。<br><small>*Nimotsu azukari o go-riyou no sai wa, kochira no hikikaeken o taisetsu ni o-mochi kudasai.*</small> | When using our luggage storage service, please keep this claim ticket safe. |
+| お預かりしている荷物は、当日のご出発時間まで安全に保管いたします。<br><small>*O-azukari shite iru nimotsu wa, toujitsu no go-shuppatsu jikan made anzen ni hokan itashimasu.*</small> | We will keep your stored luggage safely until your departure time today. |
 
 ## Related Expressions
 

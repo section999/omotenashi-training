@@ -12,17 +12,11 @@ Two important distinctions: *arigatō gozaimasu* (present form) is used in the m
 
 ## Example Sentences
 
-**1.** ありがとうございます。ただいまお部屋にご案内いたします。
-*Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*
-"Thank you. I will show you to the room now."
-
-**2.** ご予約ありがとうございます。心よりお待ち申し上げております。
-*Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.*
-"Thank you for your reservation. We look forward to welcoming you."
-
-**3.** この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。
-*Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.*
-"Thank you very much for staying with us. We look forward to welcoming you again."
+| Japanese | Meaning |
+|---|---|
+| ありがとうございます。ただいまお部屋にご案内いたします。<br><small>*Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*</small> | Thank you. I will show you to the room now. |
+| ご予約ありがとうございます。心よりお待ち申し上げております。<br><small>*Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.*</small> | Thank you for your reservation. We look forward to welcoming you. |
+| この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。<br><small>*Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.*</small> | Thank you very much for staying with us. We look forward to welcoming you again. |
 
 ## Related Expressions
 

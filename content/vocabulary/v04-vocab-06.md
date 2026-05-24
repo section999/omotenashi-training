@@ -8,17 +8,11 @@ title: シーツ交換 (shiitsu koukan)
 Staff should know the property's policy on 連泊 (multi-night) stays and be ready to explain it when asked. Eco-conscious hotels sometimes encourage guests to reuse sheets to reduce environmental impact, and this needs to be communicated without pressure. When a guest requests a sheet change outside the regular schedule, the right response is immediate: 「承りました、すぐに手配いたします」. It is also common for guests to ask for タオル交換 (towel change) when they mean シーツ交換, or vice versa. Staff should always confirm which one they want before heading off to get supplies
 ## Example Sentences
 
-**1.** 本日、ベッドのシーツ交換を行わせていただきました。
-*Honjitsu, beddo no shiitsu koukan wo okonawasete itadakimashita.*
-"We have performed the bed sheet change for you today."
-
-**2.** シーツ交換をご希望の場合は、フロントまでお申し付けください。
-*Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.*
-"If you would like your sheets changed, please let us know at the front desk."
-
-**3.** 連泊のお客様には、三日に一度シーツ交換をご提供しております。
-*Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*
-"For guests staying multiple nights, we provide a sheet change once every three days."
+| Japanese | Meaning |
+|---|---|
+| 本日、ベッドのシーツ交換を行わせていただきました。<br><small>*Honjitsu, beddo no shiitsu koukan wo okonawasete itadakimashita.*</small> | We have performed the bed sheet change for you today. |
+| シーツ交換をご希望の場合は、フロントまでお申し付けください。<br><small>*Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.*</small> | If you would like your sheets changed, please let us know at the front desk. |
+| 連泊のお客様には、三日に一度シーツ交換をご提供しております。<br><small>*Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*</small> | For guests staying multiple nights, we provide a sheet change once every three days. |
 
 ## Related Expressions
 

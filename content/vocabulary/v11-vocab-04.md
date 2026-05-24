@@ -9,17 +9,17 @@ The standard protocol is: ask politely with お電話番号をお伺いできま
 
 ## Example Sentences
 
-**1.** ご予約の確認のため、お電話番号をお伺いできますか。
-*Goyoyaku no kakunin no tame, odenwa bangō wo oukagai dekimasu ka.*
-"May I have your phone number to confirm your reservation?"
+ご予約の確認のため、お電話番号をお伺いできますか。
+<small>*Goyoyaku no kakunin no tame, odenwa bangō wo oukagai dekimasu ka.*</small>
+May I have your phone number to confirm your reservation?
 
-**2.** 折り返しご連絡いたしますので、お電話番号を教えていただけますか。
-*Orikaeshi gorenraku itashimasu no de, odenwa bangō wo oshiete itadakemasu ka.*
-"We will call you back, so could you please give us your phone number?"
+折り返しご連絡いたしますので、お電話番号を教えていただけますか。
+<small>*Orikaeshi gorenraku itashimasu no de, odenwa bangō wo oshiete itadakemasu ka.*</small>
+We will call you back, so could you please give us your phone number?
 
-**3.** ホテルの電話番号は03-1234-5678でございます。
-*Hoteru no denwa bangō wa zero san no ichi ni san yon no go roku nana hachi de gozaimasu.*
-"The hotel's phone number is 03-1234-5678."
+ホテルの電話番号は03-1234-5678でございます。
+<small>*Hoteru no denwa bangō wa zero san no ichi ni san yon no go roku nana hachi de gozaimasu.*</small>
+The hotel's phone number is 03-1234-5678.
 
 
 ## Related Expressions

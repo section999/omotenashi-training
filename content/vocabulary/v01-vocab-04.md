@@ -12,17 +12,11 @@ The phrase has the same structural origin as *konnichiwa*, both were once part o
 
 ## Example Sentences
 
-**1.** こんばんは。お疲れのところ、ようこそお越しくださいました。
-*Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*
-"Good evening. Welcome, and thank you for coming despite your tiredness."
-
-**2.** こんばんは。お夕食はご予約をいただいておりますでしょうか。
-*Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.*
-"Good evening. Do you have a dinner reservation with us?"
-
-**3.** こんばんは。本日もご利用ありがとうございます。
-*Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.*
-"Good evening. Thank you for choosing us again today."
+| Japanese | Meaning |
+|---|---|
+| こんばんは。お疲れのところ、ようこそお越しくださいました。<br><small>*Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*</small> | Good evening. Welcome, and thank you for coming despite your tiredness. |
+| こんばんは。お夕食はご予約をいただいておりますでしょうか。<br><small>*Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.*</small> | Good evening. Do you have a dinner reservation with us? |
+| こんばんは。本日もご利用ありがとうございます。<br><small>*Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.*</small> | Good evening. Thank you for choosing us again today. |
 
 ## Related Expressions
 

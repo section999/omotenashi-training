@@ -9,17 +9,11 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 
 ## Example Sentences
 
-**1.** チェックアウト後も、お荷物を夕方まで保管させていただきます。
-*Chekku-auto go mo, o-nimotsu wo yuugata made hokan sasete itadakimasu.*
-"We will keep your luggage in storage until the evening, even after checkout."
-
-**2.** 貴重品は金庫にて厳重に保管しております。
-*Kichouhin wa kinko nite genjuu ni hokan shite orimasu.*
-"Valuables are kept under strict security in the safe."
-
-**3.** お荷物の保管を承りましたので、引換券をお持ちください。
-*O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.*
-"We have accepted your luggage for storage; please keep this claim ticket."
+| Japanese | Meaning |
+|---|---|
+| チェックアウト後も、お荷物を夕方まで保管させていただきます。<br><small>*Chekku-auto go mo, o-nimotsu wo yuugata made hokan sasete itadakimasu.*</small> | We will keep your luggage in storage until the evening, even after checkout. |
+| 貴重品は金庫にて厳重に保管しております。<br><small>*Kichouhin wa kinko nite genjuu ni hokan shite orimasu.*</small> | Valuables are kept under strict security in the safe. |
+| お荷物の保管を承りましたので、引換券をお持ちください。<br><small>*O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.*</small> | We have accepted your luggage for storage; please keep this claim ticket. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 喫煙 (kitsuen)
 When a guest requests a 喫煙室, staff should confirm availability promptly, state the floor or room number clearly, and note any specific usage conditions (e.g., ventilated balconies, designated smoking lounges). If no 喫煙室 is available, the refusal must be delivered with a sincere apology and, where possible, guidance to the nearest outdoor smoking area. Using the term accurately and without hesitation shows professionalism and prevents the costly error of assigning a non-smoking guest to a smoking room
 ## Example Sentences
 
-**1.** 喫煙室のご希望でございますね。ただいま空き状況を確認いたします。
-*Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.*
-"You would like a smoking room. I will check availability right now."
-
-**2.** 喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？
-*Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?*
-"The smoking room is on the sixth floor. Shall I show you the way?"
-
-**3.** 大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。
-*Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.*
-"We sincerely apologise, but no smoking rooms are available today. We can guide you to the outdoor smoking area."
+| Japanese | Meaning |
+|---|---|
+| 喫煙室のご希望でございますね。ただいま空き状況を確認いたします。<br><small>*Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.*</small> | You would like a smoking room. I will check availability right now. |
+| 喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？<br><small>*Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?*</small> | The smoking room is on the sixth floor. Shall I show you the way? |
+| 大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。<br><small>*Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.*</small> | We sincerely apologise, but no smoking rooms are available today. We can guide you to the outdoor smoking area. |
 
 ## Related Expressions
 

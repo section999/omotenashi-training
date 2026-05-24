@@ -8,17 +8,11 @@ title: 利用明細 (riyou meisai)
 Staff most commonly offer 利用明細 at checkout, either as a printed document or sent by email. The phrase 利用明細をメールでお送りいたしましょうか is a proactive service gesture that corporate guests appreciate -- it saves them from having to ask and signals attentiveness. Some guests may also request a 利用明細 for a specific date range within a longer stay, which requires generating a partial statement from the front desk system. Being able to explain each line item clearly, and to correct errors calmly when they are spotted, is a core skill for checkout staff
 ## Example Sentences
 
-**1.** ご精算時に利用明細をお渡しいたします。
-*Go-seisan-ji ni riyou meisai o owatashi itashimasu.*
-"We will provide your usage statement at checkout."
-
-**2.** 利用明細はメールにてお送りすることも可能でございます。
-*Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*
-"We can also send your usage statement by email."
-
-**3.** ご不明な点がございましたら、利用明細をご確認ください。
-*Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.*
-"If you have any questions, please refer to your usage statement."
+| Japanese | Meaning |
+|---|---|
+| ご精算時に利用明細をお渡しいたします。<br><small>*Go-seisan-ji ni riyou meisai o owatashi itashimasu.*</small> | We will provide your usage statement at checkout. |
+| 利用明細はメールにてお送りすることも可能でございます。<br><small>*Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*</small> | We can also send your usage statement by email. |
+| ご不明な点がございましたら、利用明細をご確認ください。<br><small>*Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.*</small> | If you have any questions, please refer to your usage statement. |
 
 ## Related Expressions
 

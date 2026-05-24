@@ -8,17 +8,17 @@ title: 空室 (kuushitsu)
 空室 appears most often in the phrase ただいま空室をお調べいたします, pairing the word with お調べ, the humble-polite form of 調べる (to check, to look into). That combination tells the guest clearly: the staff member is working on this for the guest right now. Availability systems in modern hotels display 空室 status in real time, and staff need to relay that information both promptly and in language that matches the register of the interaction
 ## Example Sentences
 
-**1.** 少々お待ちください。ただいま空室をお調べいたします。
-*Shōshō o-machi kudasai. Tadaima kūshitsu o o-shirabe itashimasu.*
-"One moment please. I will check available rooms for you now."
+少々お待ちください。ただいま空室をお調べいたします。
+<small>*Shōshō o-machi kudasai. Tadaima kūshitsu o o-shirabe itashimasu.*</small>
+One moment please. I will check available rooms for you now.
 
-**2.** 本日はシングルルームのご空室が1室ございます。
-*Honjitsu wa shinguru-rūmu no go-kūshitsu ga ichi-shitsu gozaimasu.*
-"We have one single room available today."
+本日はシングルルームのご空室が1室ございます。
+<small>*Honjitsu wa shinguru-rūmu no go-kūshitsu ga ichi-shitsu gozaimasu.*</small>
+We have one single room available today.
 
-**3.** 空室がございましたら、すぐにご連絡いたします。
-*Kūshitsu ga gozaimashitara, sugu ni go-renraku itashimasu.*
-"As soon as a room becomes available, we will contact you right away."
+空室がございましたら、すぐにご連絡いたします。
+<small>*Kūshitsu ga gozaimashitara, sugu ni go-renraku itashimasu.*</small>
+As soon as a room becomes available, we will contact you right away.
 
 
 ## Related Expressions

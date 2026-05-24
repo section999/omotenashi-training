@@ -10,17 +10,17 @@ In the context of omotenashi, communicating 避難経路 information goes beyond
 
 ## Example Sentences
 
-**1.** お部屋のドアの裏に避難経路図が貼られております。緊急の際はこちらをご参照ください。
-*O-heya no doa no ura ni hinan keiro-zu ga hararete orimasu. Kinkyuu no sai wa kochira wo go-sanshou kudasai.*
-"An evacuation route map is posted on the back of the room door. Please refer to it in an emergency."
+お部屋のドアの裏に避難経路図が貼られております。緊急の際はこちらをご参照ください。
+<small>*O-heya no doa no ura ni hinan keiro-zu ga hararete orimasu. Kinkyuu no sai wa kochira wo go-sanshou kudasai.*</small>
+An evacuation route map is posted on the back of the room door. Please refer to it in an emergency.
 
-**2.** 火災の場合は避難経路に従い、エレベーターをご利用にならず、階段でご避難ください。
-*Kasai no baai wa hinan keiro ni shitagaia, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*
-"In the event of a fire, please follow the evacuation route, and evacuate via the stairs: do not use the elevator."
+火災の場合は避難経路に従い、エレベーターをご利用にならず、階段でご避難ください。
+<small>*Kasai no baai wa hinan keiro ni shitagaia, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*</small>
+In the event of a fire, please follow the evacuation route, and evacuate via the stairs: do not use the elevator.
 
-**3.** 本日の避難訓練では、全スタッフが避難経路と集合場所を再確認いたします。
-*Honjitsu no hinan kunren de wa, zen-sutaffu ga hinan keiro to shuugou basho wo sai-kakunin itashimasu.*
-"In today's evacuation drill, all staff will reconfirm the evacuation routes and the assembly point."
+本日の避難訓練では、全スタッフが避難経路と集合場所を再確認いたします。
+<small>*Honjitsu no hinan kunren de wa, zen-sutaffu ga hinan keiro to shuugou basho wo sai-kakunin itashimasu.*</small>
+In today's evacuation drill, all staff will reconfirm the evacuation routes and the assembly point.
 
 
 ## Related Expressions

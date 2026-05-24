@@ -9,17 +9,11 @@ Staff should also be clear on the difference between approaching 閉店 and havi
 
 ## Example Sentences
 
-**1.** 申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。
-*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*
-"I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you?"
-
-**2.** レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。
-*Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.*
-"The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience."
-
-**3.** 只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。
-*Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.*
-"We have passed the last order time, which makes it difficult for us to take further orders at this point."
+| Japanese | Meaning |
+|---|---|
+| 申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。<br><small>*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*</small> | I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you? |
+| レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。<br><small>*Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.*</small> | The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience. |
+| 只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。<br><small>*Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.*</small> | We have passed the last order time, which makes it difficult for us to take further orders at this point. |
 
 ## Related Expressions
 

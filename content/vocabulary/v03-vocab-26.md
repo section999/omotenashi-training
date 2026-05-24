@@ -8,17 +8,11 @@ title: 清掃 (seisou)
 In guest-facing communication, staff typically inform guests of the 清掃 schedule at check-in: 「お部屋の清掃は午前10時までに完了いたします」 (room cleaning will be completed by 10 a.m.). Guests who prefer not to have their rooms cleaned may request this: 「清掃不要カードをドアにかけてください」 (please hang the do-not-disturb card on the door). When a guest requests additional or special cleaning, the appropriate response is 「すぐに清掃のスタッフを手配いたします」 (I will arrange for cleaning staff immediately)
 ## Example Sentences
 
-**1.** 清掃は午前10時までに完了いたします。
-*Seisou wa gozen juuji made ni kanryou itashimasu.*
-"Cleaning will be completed by 10 a.m."
-
-**2.** ご不在の間に清掃をご希望の場合はフロントまでお申し付けください。
-*Go-fuzai no aida ni seisou wo go-kibou no baai wa furonto made o-moushitsuke kudasai.*
-"If you would like cleaning done while one is away, please let the front desk know."
-
-**3.** 清掃不要の場合は、ドアノブに「清掃不要」カードをおかけください。
-*Seisou fuyou no baai wa, doa nobu ni "seisou fuyou" kaado wo o-kake kudasai.*
-"If you do not require cleaning, please hang the'No Cleaning' card on the door handle."
+| Japanese | Meaning |
+|---|---|
+| 清掃は午前10時までに完了いたします。<br><small>*Seisou wa gozen juuji made ni kanryou itashimasu.*</small> | Cleaning will be completed by 10 a.m. |
+| ご不在の間に清掃をご希望の場合はフロントまでお申し付けください。<br><small>*Go-fuzai no aida ni seisou wo go-kibou no baai wa furonto made o-moushitsuke kudasai.*</small> | If you would like cleaning done while one is away, please let the front desk know. |
+| 清掃不要の場合は、ドアノブに「清掃不要」カードをおかけください。<br><small>*Seisou fuyou no baai wa, doa nobu ni "seisou fuyou" kaado wo o-kake kudasai.*</small> | If you do not require cleaning, please hang the'No Cleaning' card on the door handle. |
 
 ## Related Expressions
 

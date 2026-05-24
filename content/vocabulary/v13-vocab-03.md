@@ -10,17 +10,17 @@ In practical terms, employees are expected to report task progress to their 上�
 
 ## Example Sentences
 
-**1.** 上司に報告書を提出しました。
-*Joushi ni houkokusho o teishutsu shimashita.*
-"I submitted the report to my boss."
+上司に報告書を提出しました。
+<small>*Joushi ni houkokusho o teishutsu shimashita.*</small>
+I submitted the report to my boss.
 
-**2.** チェックアウトのトラブルについて上司に相談しました。
-*Chekku-auto no toraburu ni tsuite joushi ni soudan shimashita.*
-"I consulted my supervisor about the check-out issue."
+チェックアウトのトラブルについて上司に相談しました。
+<small>*Chekku-auto no toraburu ni tsuite joushi ni soudan shimashita.*</small>
+I consulted my supervisor about the check-out issue.
 
-**3.** 上司の承認を得てから、お客様に返答いたします。
-*Joushi no shounin o ete kara, okyakusama ni hentou itashimasu.*
-"I will reply to the guest after obtaining my supervisor's approval."
+上司の承認を得てから、お客様に返答いたします。
+<small>*Joushi no shounin o ete kara, okyakusama ni hentou itashimasu.*</small>
+I will reply to the guest after obtaining my supervisor's approval.
 
 
 ## Related Expressions

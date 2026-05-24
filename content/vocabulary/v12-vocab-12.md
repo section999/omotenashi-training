@@ -9,17 +9,17 @@ title: 事故 (jiko)
 The response sequence is important: attend to the injured person first, then secure the scene to stop further harm, then report upward, then document. A common error is jumping straight to documentation while the person affected is still in distress. Regarding language when speaking to guests, staff should never admit legal liability on behalf of the property. Sincere concern should be expressed, practical help offered, and the matter escalated to management. How a hotel handles a 事故, in terms of speed, honesty, and care, often shapes how a guest feels about the property long after the incident itself
 ## Example Sentences
 
-**1.** ホテル内で事故が発生した場合、フロントにご報告ください。
-*Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.*
-"Report to the front desk if an accident occurs in the hotel."
+ホテル内で事故が発生した場合、フロントにご報告ください。
+<small>*Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.*</small>
+Report to the front desk if an accident occurs in the hotel.
 
-**2.** 駐車場で車同士の接触事故が起き、スタッフがすぐに現場に駆けつけました。
-*Chuushajou de kuruma doushi no sesshoku jiko ga oki, sutaffu ga sugu ni genba ni kaketsukemashita.*
-"A collision between two cars occurred in the parking lot, and staff rushed to the scene immediately."
+駐車場で車同士の接触事故が起き、スタッフがすぐに現場に駆けつけました。
+<small>*Chuushajou de kuruma doushi no sesshoku jiko ga oki, sutaffu ga sugu ni genba ni kaketsukemashita.*</small>
+A collision between two cars occurred in the parking lot, and staff rushed to the scene immediately.
 
-**3.** 事故の詳細は報告書にまとめ、翌日マネージャーに提出しました。
-*Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.*
-"The details of the accident were compiled in a report and submitted to the manager the following day."
+事故の詳細は報告書にまとめ、翌日マネージャーに提出しました。
+<small>*Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.*</small>
+The details of the accident were compiled in a report and submitted to the manager the following day.
 
 
 ## Related Expressions

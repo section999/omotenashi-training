@@ -15,17 +15,11 @@ In the register hierarchy of acknowledgement phrases:
 
 ## Example Sentences
 
-**1.** 承知いたしました。ただいまご手配いたします。
-*Shōchi itashimashita. Tadaima go-tehai itashimasu.*
-"Certainly, understood. I will arrange that right now."
-
-**2.** 承知いたしました。お部屋に折り返しご連絡いたします。
-*Shōchi itashimashita. O-heya ni orikaeshi go-renraku itashimasu.*
-"Certainly. I will contact you in the room shortly."
-
-**3.** ご要望承知いたしました。担当者にお伝えいたします。
-*Go-yōbō, shōchi itashimashita. Tantōsha ni o-tsutae itashimasu.*
-"Your request is noted and understood. I will pass it on to the person in charge."
+| Japanese | Meaning |
+|---|---|
+| 承知いたしました。ただいまご手配いたします。<br><small>*Shōchi itashimashita. Tadaima go-tehai itashimasu.*</small> | Certainly, understood. I will arrange that right now. |
+| 承知いたしました。お部屋に折り返しご連絡いたします。<br><small>*Shōchi itashimashita. O-heya ni orikaeshi go-renraku itashimasu.*</small> | Certainly. I will contact you in the room shortly. |
+| ご要望承知いたしました。担当者にお伝えいたします。<br><small>*Go-yōbō, shōchi itashimashita. Tantōsha ni o-tsutae itashimasu.*</small> | Your request is noted and understood. I will pass it on to the person in charge. |
 
 ## Related Expressions
 

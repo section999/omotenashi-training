@@ -9,17 +9,11 @@ The pronunciation of 階 changes depending on the number it attaches to: 一階 
 
 ## Example Sentences
 
-**1.** 客室は3階にございます。
-*Kyakushitsu wa san-gai ni gozaimasu.*
-"The guest rooms are on the 3rd floor."
-
-**2.** 大浴場は5階にございます。エレベーターをご利用ください。
-*Daiyokujou wa go-kai ni gozaimasu. Erebeetaa wo go-riyou kudasai.*
-"The large communal bath is on the 5th floor. Please use the elevator."
-
-**3.** レストランは2階、スパは4階にございます。
-*Resutoran wa ni-kai, supa wa yon-kai ni gozaimasu.*
-"The restaurant is on the 2nd floor and the spa is on the 4th floor."
+| Japanese | Meaning |
+|---|---|
+| 客室は3階にございます。<br><small>*Kyakushitsu wa san-gai ni gozaimasu.*</small> | The guest rooms are on the 3rd floor. |
+| 大浴場は5階にございます。エレベーターをご利用ください。<br><small>*Daiyokujou wa go-kai ni gozaimasu. Erebeetaa wo go-riyou kudasai.*</small> | The large communal bath is on the 5th floor. Please use the elevator. |
+| レストランは2階、スパは4階にございます。<br><small>*Resutoran wa ni-kai, supa wa yon-kai ni gozaimasu.*</small> | The restaurant is on the 2nd floor and the spa is on the 4th floor. |
 
 ## Related Expressions
 

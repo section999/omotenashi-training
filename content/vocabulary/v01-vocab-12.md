@@ -12,17 +12,11 @@ During the walk itself, the guiding staff member typically walks slightly ahead 
 
 ## Example Sentences
 
-**1.** こちらへどうぞ。お部屋までご案内いたします。
-*Kochira e dōzo. O-heya made go-annai itashimasu.*
-"Please come this way. I will show you to the room."
-
-**2.** レストランはこちらでございます。こちらへどうぞ。
-*Resutoran wa kochira de gozaimasu. Kochira e dōzo.*
-"The restaurant is this way. Please follow me."
-
-**3.** こちらへどうぞ。足元にお気をつけくださいませ。
-*Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.*
-"Please come this way. Please watch your step."
+| Japanese | Meaning |
+|---|---|
+| こちらへどうぞ。お部屋までご案内いたします。<br><small>*Kochira e dōzo. O-heya made go-annai itashimasu.*</small> | Please come this way. I will show you to the room. |
+| レストランはこちらでございます。こちらへどうぞ。<br><small>*Resutoran wa kochira de gozaimasu. Kochira e dōzo.*</small> | The restaurant is this way. Please follow me. |
+| こちらへどうぞ。足元にお気をつけくださいませ。<br><small>*Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.*</small> | Please come this way. Please watch your step. |
 
 ## Related Expressions
 

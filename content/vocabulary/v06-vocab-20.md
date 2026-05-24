@@ -10,17 +10,17 @@ title: 有料 (yuuryou)
 
 ## Example Sentences
 
-**1.** こちらのサービスは有料でございます。料金は後ほどご請求いたします。
-*Kochira no saabisu wa yuuryou de gozaimasu. Ryoukin wa nochi hodo go-seikyuu itashimasu.*
-"This service is chargeable. The fee will be billed to you later."
+こちらのサービスは有料でございます。料金は後ほどご請求いたします。
+<small>*Kochira no saabisu wa yuuryou de gozaimasu. Ryoukin wa nochi hodo go-seikyuu itashimasu.*</small>
+This service is chargeable. The fee will be billed to you later.
 
-**2.** ミニバーのお飲み物はすべて有料となっております。ご利用の際はご注意ください。
-*Minibaar no o-nomimono wa subete yuuryou to natte orimasu. Go-riyou no sai wa go-chuui kudasai.*
-"All minibar beverages are charged. Please be aware when using them."
+ミニバーのお飲み物はすべて有料となっております。ご利用の際はご注意ください。
+<small>*Minibaar no o-nomimono wa subete yuuryou to natte orimasu. Go-riyou no sai wa go-chuui kudasai.*</small>
+All minibar beverages are charged. Please be aware when using them.
 
-**3.** レイトチェックアウトをご希望の場合、追加料金が有料にて発生いたします。
-*Reito chekkuauto wo go-kibou no baai, tsuika ryoukin ga yuuryou nite hassei itashimasu.*
-"If you wish to have a late check-out, an additional charge will apply."
+レイトチェックアウトをご希望の場合、追加料金が有料にて発生いたします。
+<small>*Reito chekkuauto wo go-kibou no baai, tsuika ryoukin ga yuuryou nite hassei itashimasu.*</small>
+If you wish to have a late check-out, an additional charge will apply.
 
 
 ## Related Expressions

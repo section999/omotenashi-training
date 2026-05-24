@@ -9,17 +9,11 @@ Hotel staff who bring up ICカード unprompted provide real service value. Many
 
 ## Example Sentences
 
-**1.** ICカードで改札を通りました。
-*IC kaado de kaisatsu wo toorimashita.*
-"I passed through the ticket gate with an IC card."
-
-**2.** SuicaやPasmoなどのICカードは、電車だけでなくコンビニでもご利用いただけます。
-*Suika ya Pasumo nado no IC kaado wa, densha dake de naku konbini de mo goriyou itadakemasu.*
-"IC cards such as Suica and Pasmo can be used not only on trains but also at convenience stores."
-
-**3.** ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。
-*IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.*
-"You can top up your IC card at station ticket vending machines at any time."
+| Japanese | Meaning |
+|---|---|
+| ICカードで改札を通りました。<br><small>*IC kaado de kaisatsu wo toorimashita.*</small> | I passed through the ticket gate with an IC card. |
+| SuicaやPasmoなどのICカードは、電車だけでなくコンビニでもご利用いただけます。<br><small>*Suika ya Pasumo nado no IC kaado wa, densha dake de naku konbini de mo goriyou itadakemasu.*</small> | IC cards such as Suica and Pasmo can be used not only on trains but also at convenience stores. |
+| ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。<br><small>*IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.*</small> | You can top up your IC card at station ticket vending machines at any time. |
 
 ## Related Expressions
 

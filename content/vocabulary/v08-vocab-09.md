@@ -9,17 +9,11 @@ Directing a guest to 二階 should always include access instructions: エレベ
 
 ## Example Sentences
 
-**1.** レストランは二階にございます。
-*Resutoran wa nikai ni gozaimasu.*
-"The restaurant is on the second floor."
-
-**2.** 二階のラウンジにてウェルカムドリンクをご用意しております。
-*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*
-"We have a welcome drink prepared for you in the second-floor lounge."
-
-**3.** 会議室は二階の突き当たり左にございます。
-*Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.*
-"The conference room is on the second floor at the end of the corridor on the left."
+| Japanese | Meaning |
+|---|---|
+| レストランは二階にございます。<br><small>*Resutoran wa nikai ni gozaimasu.*</small> | The restaurant is on the second floor. |
+| 二階のラウンジにてウェルカムドリンクをご用意しております。<br><small>*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*</small> | We have a welcome drink prepared for you in the second-floor lounge. |
+| 会議室は二階の突き当たり左にございます。<br><small>*Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.*</small> | The conference room is on the second floor at the end of the corridor on the left. |
 
 ## Related Expressions
 

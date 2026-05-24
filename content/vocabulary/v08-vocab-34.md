@@ -9,17 +9,17 @@ title: 案内図 (annaizu)
 The value of an 案内図 shows when a guest needs multi-step directions. Verbal directions alone for a destination involving several turns and a level change are easy to forget by the time the guest is halfway there. Handing over the 案内図 while walking through the route verbally gives the guest a physical anchor they can refer back to independently. That combination of map plus explanation provides clear guidance. In Japanese hospitality, helping a guest navigate on their own while making it clear staff are still available shows respect for the guest's autonomy
 ## Example Sentences
 
-**1.** ロビーに案内図がございます。ご出発前にぜひご確認ください。
-*Robii ni annaizu ga gozaimasu. Go-shuppatsu mae ni zehi go-kakunin kudasai.*
-"There is a guide map in the lobby. Please be sure to check it before heading out."
+ロビーに案内図がございます。ご出発前にぜひご確認ください。
+<small>*Robii ni annaizu ga gozaimasu. Go-shuppatsu mae ni zehi go-kakunin kudasai.*</small>
+There is a guide map in the lobby. Please be sure to check it before heading out.
 
-**2.** こちらの案内図でレストランの場所をご確認いただけます。現在地はこちらでございます。
-*Kochira no annaizu de resutoran no basho wo go-kakunin itadakemasu. Genzaichi wa kochira de gozaimasu.*
-"You can confirm the restaurant's location on this guide map. Your current position is here."
+こちらの案内図でレストランの場所をご確認いただけます。現在地はこちらでございます。
+<small>*Kochira no annaizu de resutoran no basho wo go-kakunin itadakemasu. Genzaichi wa kochira de gozaimasu.*</small>
+You can confirm the restaurant's location on this guide map. Your current position is here.
 
-**3.** 案内図をご覧ください。プールはホテル敷地の南側、こちらの位置にございます。
-*Annaizu wo go-ran kudasai. Puuru wa hoteru shikichi no minamigawa, kochira no ichi ni gozaimasu.*
-"Please refer to the guide map. The pool is on the south side of the hotel grounds, at this location."
+案内図をご覧ください。プールはホテル敷地の南側、こちらの位置にございます。
+<small>*Annaizu wo go-ran kudasai. Puuru wa hoteru shikichi no minamigawa, kochira no ichi ni gozaimasu.*</small>
+Please refer to the guide map. The pool is on the south side of the hotel grounds, at this location.
 
 
 ## Related Expressions

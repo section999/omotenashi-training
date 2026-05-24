@@ -9,17 +9,11 @@ When a guest asks about getting clothes cleaned, the staff's first job is to und
 
 ## Example Sentences
 
-**1.** スーツのクリーニングを承ります。明後日の午前中にお部屋へお届けいたします。
-*Suutsu no kuriiningu o uketamawarimasu. Asatte no gozenchuu ni o-heya e o-todoke itashimasu.*
-"We will take care of dry cleaning your suit. It will be delivered to the room the morning of the day after tomorrow."
-
-**2.** こちらのジャケットはクリーニングのみ対応しております。通常の洗濯はお避けください。
-*Kochira no jaketto wa kuriiningu nomi taiou shite orimasu. Tsuujou no sentaku wa o-sake kudasai.*
-"This jacket can only be dry cleaned. Please avoid regular washing."
-
-**3.** クリーニングの料金表はフロントにご用意しておりますので、ご確認ください。
-*Kuriiningu no ryoukinhyou wa furonto ni go-youi shite orimasu no de, go-kakunin kudasai.*
-"A price list for dry cleaning is available at the front desk; please feel free to check it."
+| Japanese | Meaning |
+|---|---|
+| スーツのクリーニングを承ります。明後日の午前中にお部屋へお届けいたします。<br><small>*Suutsu no kuriiningu o uketamawarimasu. Asatte no gozenchuu ni o-heya e o-todoke itashimasu.*</small> | We will take care of dry cleaning your suit. It will be delivered to the room the morning of the day after tomorrow. |
+| こちらのジャケットはクリーニングのみ対応しております。通常の洗濯はお避けください。<br><small>*Kochira no jaketto wa kuriiningu nomi taiou shite orimasu. Tsuujou no sentaku wa o-sake kudasai.*</small> | This jacket can only be dry cleaned. Please avoid regular washing. |
+| クリーニングの料金表はフロントにご用意しておりますので、ご確認ください。<br><small>*Kuriiningu no ryoukinhyou wa furonto ni go-youi shite orimasu no de, go-kakunin kudasai.*</small> | A price list for dry cleaning is available at the front desk; please feel free to check it. |
 
 ## Related Expressions
 

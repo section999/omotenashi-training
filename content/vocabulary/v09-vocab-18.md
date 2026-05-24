@@ -9,17 +9,17 @@ Confirming inclusion is only the starting point. Good hotel communication means 
 
 ## Example Sentences
 
-**1.** お客様のプランは朝食付きでございます。朝食は午前7時から9時まで、1階のレストランにてご用意しております。
-*O-kyaku-sama no puran wa choushoku-tsuki de gozaimasu. Choushoku wa gozen shichi-ji kara ku-ji made, ikkai no resutoran nite go-youi shite orimasu.*
-"Your plan includes breakfast. Breakfast is served from 7:00 to 9:00 a.m. at the first-floor restaurant."
+お客様のプランは朝食付きでございます。朝食は午前7時から9時まで、1階のレストランにてご用意しております。
+<small>*O-kyaku-sama no puran wa choushoku-tsuki de gozaimasu. Choushoku wa gozen shichi-ji kara ku-ji made, ikkai no resutoran nite go-youi shite orimasu.*</small>
+Your plan includes breakfast. Breakfast is served from 7:00 to 9:00 a.m. at the first-floor restaurant.
 
-**2.** 朝食付きプランをご希望の場合、一名様あたり2,000円の追加となります。
-*Choushoku-tsuki puran wo go-kibou no baai, ichimei-sama atari nisen-en no tsuika to narimasu.*
-"If you would like to upgrade to the breakfast-included plan, it will be an additional 2,000 yen per person."
+朝食付きプランをご希望の場合、一名様あたり2,000円の追加となります。
+<small>*Choushoku-tsuki puran wo go-kibou no baai, ichimei-sama atari nisen-en no tsuika to narimasu.*</small>
+If you would like to upgrade to the breakfast-included plan, it will be an additional 2,000 yen per person.
 
-**3.** 朝食付きのお客様は、チェックインの際にお食事券をお渡しいたします。
-*Choushoku-tsuki no o-kyaku-sama wa, chekku-in no sai ni o-shokuji-ken wo o-watashi itashimasu.*
-"Guests on the breakfast-included plan will receive a meal voucher at check-in."
+朝食付きのお客様は、チェックインの際にお食事券をお渡しいたします。
+<small>*Choushoku-tsuki no o-kyaku-sama wa, chekku-in no sai ni o-shokuji-ken wo o-watashi itashimasu.*</small>
+Guests on the breakfast-included plan will receive a meal voucher at check-in.
 
 
 ## Related Expressions

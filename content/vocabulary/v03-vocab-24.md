@@ -8,17 +8,11 @@ title: 鍵穴 (kagiana)
 In a hospitality context, staff point to the 鍵穴 when handing over a physical key: 「鍵穴にカギを差し込んで右に回してください」 (insert the key into the keyhole and turn it to the right). For safe operation with a physical backup key, the explanation might be: 「緊急の場合は鍵穴にこちらの鍵をお使いください」 (in an emergency, please use this key in the keyhole). When explaining the safe's PIN setup, staff can clarify that the 鍵穴 is only for emergencies, normalizing the PIN-based daily use
 ## Example Sentences
 
-**1.** 鍵は鍵穴に差し込んで回してください。
-*Kagi wa kagiana ni sashikonde mawashite kudasai.*
-"Please insert the key into the keyhole and turn it."
-
-**2.** お部屋の鍵穴は正面玄関を向いております。
-*Oheya no kagiana wa shoumen genkan wo muite orimasu.*
-"The keyhole on the room door faces the front entrance side."
-
-**3.** 金庫の鍵穴はスタッフのみが使用する緊急用でございます。
-*Kinko no kagiana wa sutaffu nomi ga shiyou suru kinkyuu you de gozaimasu.*
-"The keyhole on the safe is for emergency use by staff only."
+| Japanese | Meaning |
+|---|---|
+| 鍵は鍵穴に差し込んで回してください。<br><small>*Kagi wa kagiana ni sashikonde mawashite kudasai.*</small> | Please insert the key into the keyhole and turn it. |
+| お部屋の鍵穴は正面玄関を向いております。<br><small>*Oheya no kagiana wa shoumen genkan wo muite orimasu.*</small> | The keyhole on the room door faces the front entrance side. |
+| 金庫の鍵穴はスタッフのみが使用する緊急用でございます。<br><small>*Kinko no kagiana wa sutaffu nomi ga shiyou suru kinkyuu you de gozaimasu.*</small> | The keyhole on the safe is for emergency use by staff only. |
 
 ## Related Expressions
 

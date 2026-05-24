@@ -8,17 +8,11 @@ title: タオル (towel)
 Multi-night guests and families especially tend to request extra タオル, so staff should be ready to respond quickly with the right item and use phrasing like こちらがご用意したタオルでございます when presenting it. The distinction between タオル, バスタオル, and フェイスタオル matters: these are three different items, and delivering the wrong one after a guest has asked specifically for one of them erodes trust. The differences should be learned and clearly kept in mind
 ## Example Sentences
 
-**1.** こちらがお部屋にご用意したタオルでございます。
-*Kochira ga o-heya ni go-youi shita taoru de gozaimasu.*
-"This is the towel we have prepared for the room."
-
-**2.** タオルが足りない場合は、フロントまでお申し付けください。すぐにお持ちいたします。
-*Taoru ga tarinai baai wa, furonto made o-moushitsuke kudasai. Sugu ni o-mochi itashimasu.*
-"If towels are not enough, please let the front desk know. We will bring them right away."
-
-**3.** ご滞在中、タオルはお一人様につき二枚ご用意しております。
-*Go-taizai-chuu, taoru wa o-hitorisama ni tsuki nimai go-youi shite orimasu.*
-"During the stay, two towels are prepared per person."
+| Japanese | Meaning |
+|---|---|
+| こちらがお部屋にご用意したタオルでございます。<br><small>*Kochira ga o-heya ni go-youi shita taoru de gozaimasu.*</small> | This is the towel we have prepared for the room. |
+| タオルが足りない場合は、フロントまでお申し付けください。すぐにお持ちいたします。<br><small>*Taoru ga tarinai baai wa, furonto made o-moushitsuke kudasai. Sugu ni o-mochi itashimasu.*</small> | If towels are not enough, please let the front desk know. We will bring them right away. |
+| ご滞在中、タオルはお一人様につき二枚ご用意しております。<br><small>*Go-taizai-chuu, taoru wa o-hitorisama ni tsuki nimai go-youi shite orimasu.*</small> | During the stay, two towels are prepared per person. |
 
 ## Related Expressions
 

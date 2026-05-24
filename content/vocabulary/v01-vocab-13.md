@@ -12,17 +12,11 @@ Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, a
 
 ## Example Sentences
 
-**1.** こちらにご署名をお願いいたします。
-*Kochira ni go-shomei wo o-negai itashimasu.*
-"Please sign here."
-
-**2.** ご到着の際は、フロントまでお越しいただくようお願いいたします。
-*Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.*
-"Upon arrival, we kindly ask that you come to the front desk."
-
-**3.** 今後ともよろしくお願いいたします。
-*Kongo tomo yoroshiku o-negai itashimasu.*
-"I look forward to your continued support." (Standard polite closing)
+| Japanese | Meaning |
+|---|---|
+| こちらにご署名をお願いいたします。<br><small>*Kochira ni go-shomei wo o-negai itashimasu.*</small> | Please sign here. |
+| ご到着の際は、フロントまでお越しいただくようお願いいたします。<br><small>*Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.*</small> | Upon arrival, we kindly ask that you come to the front desk. |
+| 今後ともよろしくお願いいたします。<br><small>*Kongo tomo yoroshiku o-negai itashimasu.*</small> | I look forward to your continued support. |
 
 ## Related Expressions
 

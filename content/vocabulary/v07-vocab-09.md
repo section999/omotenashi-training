@@ -9,17 +9,11 @@ The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the 
 
 ## Example Sentences
 
-**1.** レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。
-*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*
-"The restaurant opens at 7 o'clock. We hope you enjoy your breakfast."
-
-**2.** ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。
-*Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*
-"The current time is 6:45, and the restaurant will open in fifteen minutes."
-
-**3.** ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。
-*Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*
-"The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure."
+| Japanese | Meaning |
+|---|---|
+| レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。<br><small>*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*</small> | The restaurant opens at 7 o'clock. We hope you enjoy your breakfast. |
+| ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。<br><small>*Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*</small> | The current time is 6:45, and the restaurant will open in fifteen minutes. |
+| ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。<br><small>*Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*</small> | The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure. |
 
 ## Related Expressions
 

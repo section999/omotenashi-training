@@ -8,17 +8,17 @@ title: 領収書 (ryoushusho)
 Staff should proactively ask whether the guest requires a 領収書 rather than waiting to be asked, this anticipatory approach reflects omotenashi. The phrase はい、領収書をご用意いたします (yes, I will prepare a receipt) is the standard response. When the guest specifies how the receipt should be made out, confirm the details back to the guest (宛名は〇〇様でよろしいでしょうか) before issuing it, as corrections to a printed 領収書 can be complicated
 ## Example Sentences
 
-**1.** 領収書はご入用でしょうか。
-*Ryōshūsho wa go-iriyo deshō ka.*
-"Would you like a receipt?"
+領収書はご入用でしょうか。
+<small>*Ryōshūsho wa go-iriyo deshō ka.*</small>
+Would you like a receipt?
 
-**2.** はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。
-*Hai, ryōshūsho o go-yōi itashimasu. Atena wa dono yō ni itashimashō ka.*
-"I will prepare a receipt. How would you like the payee name written?"
+はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。
+<small>*Hai, ryōshūsho o go-yōi itashimasu. Atena wa dono yō ni itashimashō ka.*</small>
+I will prepare a receipt. How would you like the payee name written?
 
-**3.** こちらが領収書でございます。ご確認くださいませ。
-*Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.*
-"Here is your receipt. Please take a moment to review it."
+こちらが領収書でございます。ご確認くださいませ。
+<small>*Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.*</small>
+Here is your receipt. Please take a moment to review it.
 
 
 ## Related Expressions

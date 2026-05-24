@@ -9,17 +9,17 @@ In a hospitality context, 裏 appears in directional guidance such as 荷物の�
 
 ## Example Sentences
 
-**1.** 荷物受け取りは建物の裏にございます。スタッフがご案内いたします。
-*Nimotsu ukétori wa tatemono no ura ni gozaimasu. Sutaffu ga goannai itashimasu.*
-"The baggage pickup is at the back of the building. A staff member will guide you."
+荷物受け取りは建物の裏にございます。スタッフがご案内いたします。
+<small>*Nimotsu ukétori wa tatemono no ura ni gozaimasu. Sutaffu ga goannai itashimasu.*</small>
+The baggage pickup is at the back of the building. A staff member will guide you.
 
-**2.** 配送業者の方は正面玄関ではなく、裏口からお入りください。
-*Haisou gyousha no kata wa shoumen genkan de wa naku, uraguchi kara ohairi kudasai.*
-"Delivery personnel, please enter through the rear entrance rather than the main front entrance."
+配送業者の方は正面玄関ではなく、裏口からお入りください。
+<small>*Haisou gyousha no kata wa shoumen genkan de wa naku, uraguchi kara ohairi kudasai.*</small>
+Delivery personnel, please enter through the rear entrance rather than the main front entrance.
 
-**3.** 駐車場はホテルの裏側にございます。エレベーターで地下１階へお下りください。
-*Chuushajou wa hoteru no uragawa ni gozaimasu. Erebeetaa de chika ikkai e oori kudasai.*
-"The parking area is at the rear of the hotel. Please take the elevator down to basement level 1."
+駐車場はホテルの裏側にございます。エレベーターで地下１階へお下りください。
+<small>*Chuushajou wa hoteru no uragawa ni gozaimasu. Erebeetaa de chika ikkai e oori kudasai.*</small>
+The parking area is at the rear of the hotel. Please take the elevator down to basement level 1.
 
 
 ## Related Expressions

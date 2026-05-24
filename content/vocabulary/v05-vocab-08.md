@@ -10,17 +10,17 @@ Timing is where 提供 gets challenging, and it is where strong communication be
 
 ## Example Sentences
 
-**1.** お料理は順番に提供いたしますので、しばらくお待ちくださいませ。
-*O-ryouri wa junban ni teikyou itashimasu no de, shibaraku o-machi kudasaimase.*
-"We will serve the dishes in order, so please wait a moment."
+お料理は順番に提供いたしますので、しばらくお待ちくださいませ。
+<small>*O-ryouri wa junban ni teikyou itashimasu no de, shibaraku o-machi kudasaimase.*</small>
+We will serve the dishes in order, so please wait a moment.
 
-**2.** ただいまお料理を提供いたします。こちらが本日のアミューズでございます。
-*Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*
-"I will serve your dish now. This is today's amuse-bouche."
+ただいまお料理を提供いたします。こちらが本日のアミューズでございます。
+<small>*Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*</small>
+I will serve your dish now. This is today's amuse-bouche.
 
-**3.** ドリンクの提供にお時間をいただいております。大変申し訳ございません。
-*Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*
-"We apologize for the wait with your drink service."
+ドリンクの提供にお時間をいただいております。大変申し訳ございません。
+<small>*Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*</small>
+We apologize for the wait with your drink service.
 
 
 ## Related Expressions

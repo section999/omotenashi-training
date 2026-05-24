@@ -9,17 +9,17 @@ title: 接続 (setsuzoku)
 Practical guidance centers on the connection steps themselves. staff might say 「画面のWi-Fi設定をお開きください」 (please open their device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, staff check in with 「接続はできましたか？」 (were one able to connect?). If the problem persists after those steps, staff offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first staff do not work
 ## Example Sentences
 
-**1.** 接続方法をご案内いたしますので、少々お待ちください。
-*Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.*
-"I will guide you on how to connect, so please wait just a moment."
+接続方法をご案内いたしますので、少々お待ちください。
+<small>*Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.*</small>
+I will guide you on how to connect, so please wait just a moment.
 
-**2.** Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。
-*Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*
-"If the Wi-Fi connection is not working, please turn off your device once and try again."
+Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。
+<small>*Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*</small>
+If the Wi-Fi connection is not working, please turn off your device once and try again.
 
-**3.** お客様のお部屋では接続が安定しているか、担当者が確認いたします。
-*O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*
-"A member of staff will check whether the connection is stable in the room."
+お客様のお部屋では接続が安定しているか、担当者が確認いたします。
+<small>*O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*</small>
+A member of staff will check whether the connection is stable in the room.
 
 
 ## Related Expressions

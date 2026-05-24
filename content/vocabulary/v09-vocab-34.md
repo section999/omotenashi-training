@@ -8,17 +8,11 @@ title: 団体予約 (dantai yoyaku)
 Successfully managing a 団体予約 depends on internal communication between departments. A グループ担当者 (group coordinator on the hotel side) should be assigned to serve as the single point of contact, both internally and with the group's organizer. A 名簿 (meibo, guest manifest) listing all members' names and room assignments is prepared in advance, so the front desk can handle multiple check-ins efficiently. Group meals are coordinated with the kitchen, and dietary requirements noted in the reservation are passed to the restaurant ahead of time. When the group arrives, greeting them as a unified delegation, 〇〇様グループの皆様、ようこそお越しくださいました, creates a sense of reception and belonging from the first moment.
 ## Example Sentences
 
-**1.** 団体予約は10名様以上より承っております。グループ担当者を一名お決めいただけますでしょうか。
-*Dantai yoyaku wa juumeisama ijou yori uketamawaitte orimasu. Guruupu tantousha wo ichimei o-kime itadakemasu deshou ka.*
-"Group reservations are accepted for parties of 10 or more. Could you designate one person as the group coordinator?"
-
-**2.** ご団体様の名簿をご到着前日までにお送りいただけますと、スムーズなチェックインが可能となります。
-*Go-dantai-sama no meibo wo go-touchaku zekkijitsu made ni o-okuri itadakemasu to, sumuuzu na chekkuin ga kanou to narimasu.*
-"If you could send us the group roster by the day before arrival, we will be able to provide a smooth group check-in."
-
-**3.** 〇〇様グループの皆様、ようこそお越しくださいました。皆様のお部屋割りのご案内をご用意しております。
-*〇〇-sama guruupu no minasama, youkoso o-koshi kudasaimashita. Minasama no o-heya-wari no go-annai wo go-youi shite orimasu.*
-"Welcome, members of the [name] group. We have the room assignment guide prepared and ready."
+| Japanese | Meaning |
+|---|---|
+| 団体予約は10名様以上より承っております。グループ担当者を一名お決めいただけますでしょうか。<br><small>*Dantai yoyaku wa juumeisama ijou yori uketamawaitte orimasu. Guruupu tantousha wo ichimei o-kime itadakemasu deshou ka.*</small> | Group reservations are accepted for parties of 10 or more. Could you designate one person as the group coordinator? |
+| ご団体様の名簿をご到着前日までにお送りいただけますと、スムーズなチェックインが可能となります。<br><small>*Go-dantai-sama no meibo wo go-touchaku zekkijitsu made ni o-okuri itadakemasu to, sumuuzu na chekkuin ga kanou to narimasu.*</small> | If you could send us the group roster by the day before arrival, we will be able to provide a smooth group check-in. |
+| 〇〇様グループの皆様、ようこそお越しくださいました。皆様のお部屋割りのご案内をご用意しております。<br><small>*〇〇-sama guruupu no minasama, youkoso o-koshi kudasaimashita. Minasama no o-heya-wari no go-annai wo go-youi shite orimasu.*</small> | Welcome, members of the [name] group. We have the room assignment guide prepared and ready. |
 
 ## Related Expressions
 

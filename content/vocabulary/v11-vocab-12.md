@@ -9,17 +9,17 @@ title: メッセージ (messeeji)
 The key distinction between メッセージ and 伝言 is breadth. Where 伝言 implies a personal relay between two people, typically by phone, メッセージ can be almost any medium. When a guest asks to メッセージを残す (leave a message), they might mean voicemail, a note at the front desk, or a push notification through the hotel app. When the medium is not obvious, asking ご希望の連絡方法はございますか (do one has a preferred method of contact?) can prevent back-and-forth
 ## Example Sentences
 
-**1.** 山田様へのメッセージをお預かりしております。
-*Yamada-sama e no messēji wo oazukari shite orimasu.*
-"We have a message here for Mr./Ms. Yamada."
+山田様へのメッセージをお預かりしております。
+<small>*Yamada-sama e no messēji wo oazukari shite orimasu.*</small>
+We have a message here for Mr./Ms. Yamada.
 
-**2.** ルームサービスよりメッセージカードをお届けいたします。
-*Rūmu sābisu yori messēji kādo wo otodoke itashimasu.*
-"Room service will deliver a message card to the room."
+ルームサービスよりメッセージカードをお届けいたします。
+<small>*Rūmu sābisu yori messēji kādo wo otodoke itashimasu.*</small>
+Room service will deliver a message card to the room.
 
-**3.** メッセージを残してもよろしいですか。折り返しご連絡いただけますでしょうか。
-*Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.*
-"May I leave a message? Could you please call me back?"
+メッセージを残してもよろしいですか。折り返しご連絡いただけますでしょうか。
+<small>*Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.*</small>
+May I leave a message? Could you please call me back?
 
 
 ## Related Expressions

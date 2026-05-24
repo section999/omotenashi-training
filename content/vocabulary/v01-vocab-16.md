@@ -12,17 +12,11 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 ## Example Sentences
 
-**1.** こちらがお部屋でございます。ごゆっくりどうぞ。
-*Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*
-"This is the room. Please make yourself at home: take your time."
-
-**2.** 本日のお食事でございます。ごゆっくりどうぞ。
-*Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*
-"Here is today's meal. Please enjoy it at your leisure."
-
-**3.** どうぞ、ごゆっくりおくつろぎください。
-*Dōzo, goyukkuri o-kutsurogikudasai.*
-"Please, relax fully and take all the time you need."
+| Japanese | Meaning |
+|---|---|
+| こちらがお部屋でございます。ごゆっくりどうぞ。<br><small>*Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*</small> | This is the room. Please make yourself at home: take your time. |
+| 本日のお食事でございます。ごゆっくりどうぞ。<br><small>*Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*</small> | Here is today's meal. Please enjoy it at your leisure. |
+| どうぞ、ごゆっくりおくつろぎください。<br><small>*Dōzo, goyukkuri o-kutsurogikudasai.*</small> | Please, relax fully and take all the time you need. |
 
 ## Related Expressions
 

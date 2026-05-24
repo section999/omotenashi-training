@@ -8,17 +8,17 @@ title: 予約 (yoyaku)
 When confirming a reservation at the front desk, staff use ご予約はございますか to ask whether the guest has a booking. The honorific prefix ご elevates the noun and shows respect for the guest's arrangement. 予約 appears well beyond the front desk. Restaurant seating, spa bookings, tour reservations, shuttle scheduling, anywhere in the hotel where advance arrangement is required, all fall under the same word. Accurate record-keeping and clear communication of reservation details are the practical foundation of every 予約-related interaction
 ## Example Sentences
 
-**1.** ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。
-*Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*
-"Do you have a reservation? May I ask your name?"
+ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。
+<small>*Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*</small>
+Do you have a reservation? May I ask your name?
 
-**2.** ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。
-*Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.*
-"Allow me to verify your reservation details. Is a three-night stay correct?"
+ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。
+<small>*Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.*</small>
+Allow me to verify your reservation details. Is a three-night stay correct?
 
-**3.** レストランのご予約は、お電話またはフロントにてお受けしております。
-*Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.*
-"Restaurant reservations can be made by phone or at the front desk."
+レストランのご予約は、お電話またはフロントにてお受けしております。
+<small>*Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.*</small>
+Restaurant reservations can be made by phone or at the front desk.
 
 
 ## Related Expressions

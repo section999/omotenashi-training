@@ -9,17 +9,17 @@ title: 同僚 (douryou)
 Because so much hospitality work is shift-based and fast-moving, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and support during heavy service periods. Socialising outside work, through team meals or post-shift gatherings, is part of the culture and tends to build the kind of rapport that translates into better coordination when it counts
 ## Example Sentences
 
-**1.** 同僚と一緒に会議の準備をしました。
-*Douryou to issho ni kaigi no junbi o shimashita.*
-"I prepared for the meeting with my colleague."
+同僚と一緒に会議の準備をしました。
+<small>*Douryou to issho ni kaigi no junbi o shimashita.*</small>
+I prepared for the meeting with my colleague.
 
-**2.** 同僚が急に体調を崩したので、シフトを代わりました。
-*Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.*
-"I covered my colleague's shift because they suddenly fell ill."
+同僚が急に体調を崩したので、シフトを代わりました。
+<small>*Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.*</small>
+I covered my colleague's shift because they suddenly fell ill.
 
-**3.** フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。
-*Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.*
-"By sharing information with my front-desk colleague, we achieved a smooth check-in."
+フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。
+<small>*Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.*</small>
+By sharing information with my front-desk colleague, we achieved a smooth check-in.
 
 
 ## Related Expressions

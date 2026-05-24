@@ -8,17 +8,17 @@ title: 冷蔵庫 (reizouko)
 During room orientation, the guideline is clear: if the fridge is empty, 「冷蔵庫はご自由にお使いください」 is the appropriate phrase; if it is a minibar, 「冷蔵庫の飲み物はすべて有料となっております」 should be used. Guests who arrive with medications or special dietary items depend on knowing the refrigerator is available, so staff should mention it even when it seems routine. If a guest asks about ice, staff should let them know the ice machines are on each floor: 「製氷機は各階にございます」
 ## Example Sentences
 
-**1.** 冷蔵庫はご自由にお使いください。
-*Reizouko wa go-jiyuu ni o-tsukai kudasai.*
-"Please feel free to use the refrigerator."
+冷蔵庫はご自由にお使いください。
+<small>*Reizouko wa go-jiyuu ni o-tsukai kudasai.*</small>
+Please feel free to use the refrigerator.
 
-**2.** 冷蔵庫内の飲み物はすべて有料となっております。
-*Reizouko nai no nomimono wa subete yuuryou to natte orimasu.*
-"All beverages inside the refrigerator are chargeable."
+冷蔵庫内の飲み物はすべて有料となっております。
+<small>*Reizouko nai no nomimono wa subete yuuryou to natte orimasu.*</small>
+All beverages inside the refrigerator are chargeable.
 
-**3.** お薬など冷蔵が必要なものがございましたら、冷蔵庫をご利用ください。
-*Okusuri nado reizou ga hitsuyou na mono ga gozaimashitara, reizouko wo go-riyou kudasai.*
-"If you have medications or other items requiring refrigeration, please use the refrigerator."
+お薬など冷蔵が必要なものがございましたら、冷蔵庫をご利用ください。
+<small>*Okusuri nado reizou ga hitsuyou na mono ga gozaimashitara, reizouko wo go-riyou kudasai.*</small>
+If you have medications or other items requiring refrigeration, please use the refrigerator.
 
 
 ## Related Expressions

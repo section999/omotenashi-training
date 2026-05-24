@@ -8,17 +8,17 @@ title: バウチャー (bauchaa)
 When a guest presents a バウチャー, staff should check three things before accepting it: that the guest's name matches, that the service and date are correct, and that it has not already been used. If anything appears incorrect, verification with the issuing agency or booking system should occur before proceeding. Once accepted, the バウチャー stays with the property and goes through the appropriate billing channel so payment can be collected from the issuing party
 ## Example Sentences
 
-**1.** バウチャーをフロントにてご提示ください。
-*Bauchā o furonto nite goteiji kudasai.*
-"Please present your voucher at the front desk."
+バウチャーをフロントにてご提示ください。
+<small>*Bauchā o furonto nite goteiji kudasai.*</small>
+Please present your voucher at the front desk.
 
-**2.** こちらのバウチャーはお食事付きのご宿泊に適用されます。
-*Kochira no bauchā wa oshokuji-tsuki no goshukuhaku ni tekiyō saremasu.*
-"This voucher applies to an accommodation stay with meals included."
+こちらのバウチャーはお食事付きのご宿泊に適用されます。
+<small>*Kochira no bauchā wa oshokuji-tsuki no goshukuhaku ni tekiyō saremasu.*</small>
+This voucher applies to an accommodation stay with meals included.
 
-**3.** バウチャーの内容を確認させていただきます。
-*Bauchā no naiyō o kakunin sasete itadakimasu.*
-"Allow me to verify the details of your voucher."
+バウチャーの内容を確認させていただきます。
+<small>*Bauchā no naiyō o kakunin sasete itadakimasu.*</small>
+Allow me to verify the details of your voucher.
 
 
 ## Related Expressions

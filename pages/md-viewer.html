@@ -2900,9 +2900,9 @@ async function render() {
   // Wrap Japanese text in body (not quiz) with clickable pronunciation spans
   const isVocabFile = /^content\/vocabulary\/v\d+-vocab-\d+\.md$/.test(file);
 
-  // wrapJapanese only on non-vocabulary pages (vocab uses the Pronunciation widget instead)
+  // wrapJapanese on all pages (vocab gets both widget and inline click-to-speak)
   const bodyEl = document.querySelector('.section-body');
-  if (bodyEl && !isVocabFile) wrapJapanese(bodyEl);
+  if (bodyEl) wrapJapanese(bodyEl);
 
   // Inject pronunciation widget for vocabulary files
   if (isVocabFile) {

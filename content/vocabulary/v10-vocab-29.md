@@ -8,17 +8,11 @@ title: 税別 (zeibetsu)
 Whenever staff quote a 税別 price, they should immediately follow up with the 税込 equivalent so the guest knows the final out-of-pocket cost. For example, saying 「税別〇〇円、税込ですと〇〇円となります」 prevents confusion. This is especially important for international guests who may not be aware that Japan's consumption tax is not always included in displayed prices, unlike in some other countries
 ## Example Sentences
 
-**1.** こちらの料金は税別でございます。
-*Kochira no ryōkin wa zeibetsu de gozaimasu.*
-"This rate is exclusive of tax."
-
-**2.** 税別一万円ですので、税込では一万千円となります。
-*Zeibetsu ichiman-en desu node, zeikomi de wa ichiman issen-en to narimasu.*
-"The price is 10,000 yen excluding tax, so the total including tax will be 11,000 yen."
-
-**3.** メニューの価格はすべて税別となっておりますのでご了承ください。
-*Menyū no kakaku wa subete zeibetsu to natte orimasu node goryōshō kudasai.*
-"Please note that all prices on the menu are exclusive of tax."
+| Japanese | Meaning |
+|---|---|
+| こちらの料金は税別でございます。<br><small>*Kochira no ryōkin wa zeibetsu de gozaimasu.*</small> | This rate is exclusive of tax. |
+| 税別一万円ですので、税込では一万千円となります。<br><small>*Zeibetsu ichiman-en desu node, zeikomi de wa ichiman issen-en to narimasu.*</small> | The price is 10,000 yen excluding tax, so the total including tax will be 11,000 yen. |
+| メニューの価格はすべて税別となっておりますのでご了承ください。<br><small>*Menyū no kakaku wa subete zeibetsu to natte orimasu node goryōshō kudasai.*</small> | Please note that all prices on the menu are exclusive of tax. |
 
 ## Related Expressions
 

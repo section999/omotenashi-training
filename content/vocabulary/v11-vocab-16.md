@@ -8,17 +8,17 @@ title: 回線 (kaisen)
 Staff encounter 回線 in contexts such as reporting a guest's phone problem to maintenance (回線の問題を確認いたします, I will check the line), explaining internet speed options at check-in (この部屋の回線は高速です, the line in this room is high-speed), or coordinating with telecoms providers during outages. Knowing this term helps staff communicate more accurately internally and reassures technically informed guests that the problem is being handled at the right level
 ## Example Sentences
 
-**1.** この部屋の回線は高速ですので、快適にインターネットをご利用いただけます。
-*Kono heya no kaisen wa kousoku desu node, kaiteki ni intaanetto wo goriyou itadakemasu.*
-"The line in this room is high-speed, so one can use the internet comfortably."
+この部屋の回線は高速ですので、快適にインターネットをご利用いただけます。
+<small>*Kono heya no kaisen wa kousoku desu node, kaiteki ni intaanetto wo goriyou itadakemasu.*</small>
+The line in this room is high-speed, so one can use the internet comfortably.
 
-**2.** 回線の問題を確認いたしますので、少々お待ちください。
-*Kaisen no mondai wo kakunin itashimasu node, shoushou omachi kudasai.*
-"I will check the line for any issues, so please wait a moment."
+回線の問題を確認いたしますので、少々お待ちください。
+<small>*Kaisen no mondai wo kakunin itashimasu node, shoushou omachi kudasai.*</small>
+I will check the line for any issues, so please wait a moment.
 
-**3.** ただいま回線が混み合っており、繋がりにくい状況でございます。
-*Tadaima kaisen ga komiatte ori, tsunagarinikui joukyou de gozaimasu.*
-"The lines are currently congested, making it difficult to connect."
+ただいま回線が混み合っており、繋がりにくい状況でございます。
+<small>*Tadaima kaisen ga komiatte ori, tsunagarinikui joukyou de gozaimasu.*</small>
+The lines are currently congested, making it difficult to connect.
 
 
 ## Related Expressions

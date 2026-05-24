@@ -9,17 +9,17 @@ title: メニュー (menyuu)
 A confident menu explanation matters more than it may appear. When a guest seems unsure what to order, a well-placed recommendation, especially something seasonal or the chef's signature, reassures them that they are in good hands. When a menu is only in Japanese, offering a verbal summary or translated explanation to international guests is more than a courtesy; it is a direct expression of the inclusive spirit of omotenashi. The メニュー is also the primary tool for sharing allergen information and dietary options, so thorough knowledge of its contents is essential
 ## Example Sentences
 
-**1.** こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。
-*Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.*
-"This is today's menu. Please take your time looking through it."
+こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。
+<small>*Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.*</small>
+This is today's menu. Please take your time looking through it.
 
-**2.** メニューについてご不明な点がございましたら、お気軽にお申し付けください。
-*Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*
-"If you have any questions about the menu, please do not hesitate to ask."
+メニューについてご不明な点がございましたら、お気軽にお申し付けください。
+<small>*Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*</small>
+If you have any questions about the menu, please do not hesitate to ask.
 
-**3.** 季節のおすすめメニューについてご説明してもよろしいでしょうか。
-*Kisetsu no osusume menyuu ni tsuite go-setsumei shite mo yoroshii deshou ka.*
-"May I explain our seasonal recommended menu to you?"
+季節のおすすめメニューについてご説明してもよろしいでしょうか。
+<small>*Kisetsu no osusume menyuu ni tsuite go-setsumei shite mo yoroshii deshou ka.*</small>
+May I explain our seasonal recommended menu to you?
 
 
 ## Related Expressions

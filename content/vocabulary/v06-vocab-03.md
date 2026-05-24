@@ -9,17 +9,17 @@ title: 苦情 (kujou)
 The omotenashi mindset holds that a guest who complains is still giving the establishment an opportunity to do better. The guest who says nothing and does not return is the harder loss. The sequence when receiving a 苦情 is to listen without interrupting, acknowledge the guest's feelings with an apology, and only then explain what action will be taken. Staff never minimise the complaint or offer excuses before expressing empathy. In larger hotels, 苦情 are documented and reviewed regularly to catch patterns in service breakdowns, and front-line staff are trained to escalate when the issue is beyond their authority to resolve
 ## Example Sentences
 
-**1.** お客様の苦情を真摯に受け止め、早急に対応いたします。
-*O-kyaku-sama no kujou wo shinshi ni uketome, sakkyu ni taiou itashimasu.*
-"We will take your complaint sincerely to heart and respond as quickly as possible."
+お客様の苦情を真摯に受け止め、早急に対応いたします。
+<small>*O-kyaku-sama no kujou wo shinshi ni uketome, sakkyu ni taiou itashimasu.*</small>
+We will take your complaint sincerely to heart and respond as quickly as possible.
 
-**2.** ご苦情をいただきまして、ありがとうございます。改善に努めてまいります。
-*Go-kujou wo itadakimashite, arigatou gozaimasu. Kaizen ni tsutomete mairimasu.*
-"Thank you for bringing your complaint to our attention. We will strive to make improvements."
+ご苦情をいただきまして、ありがとうございます。改善に努めてまいります。
+<small>*Go-kujou wo itadakimashite, arigatou gozaimasu. Kaizen ni tsutomete mairimasu.*</small>
+Thank you for bringing your complaint to our attention. We will strive to make improvements.
 
-**3.** 苦情内容を詳しくお聞かせいただけますでしょうか。
-*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.*
-"Could you please tell me the details of your complaint?"
+苦情内容を詳しくお聞かせいただけますでしょうか。
+<small>*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.*</small>
+Could you please tell me the details of your complaint?
 
 
 ## Related Expressions

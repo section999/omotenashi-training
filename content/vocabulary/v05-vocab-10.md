@@ -8,17 +8,11 @@ title: コーヒー (koohii)
 The phrase 食後にコーヒーはいかがでしょうか is a standard example of the soft, non-pressuring offer style valued in Japanese service. Unlike a direct suggestion, this phrasing invites the guest to decide without feeling obligated. The casual 飲みますか is too blunt for formal service and loses the gentle, inviting quality that makes the offer feel warm. Staff should always follow up by asking hot or iced, and whether the guest takes milk or sugar, rather than assuming
 ## Example Sentences
 
-**1.** 食後にコーヒーはいかがでしょうか。
-*Shokugo ni koohii wa ikaga deshou ka.*
-"How about coffee after your meal?"
-
-**2.** コーヒーはホットとアイス、どちらになさいますか。
-*Koohii wa hotto to aisu, dochira ni nasaimasu ka.*
-"Would you like your coffee hot or iced?"
-
-**3.** 本日のコーヒーはエチオピア産の豆を使用しております。
-*Honjitsu no koohii wa Echiopia-san no mame wo shiyou shite orimasu.*
-"Today's coffee is made using beans sourced from Ethiopia."
+| Japanese | Meaning |
+|---|---|
+| 食後にコーヒーはいかがでしょうか。<br><small>*Shokugo ni koohii wa ikaga deshou ka.*</small> | How about coffee after your meal? |
+| コーヒーはホットとアイス、どちらになさいますか。<br><small>*Koohii wa hotto to aisu, dochira ni nasaimasu ka.*</small> | Would you like your coffee hot or iced? |
+| 本日のコーヒーはエチオピア産の豆を使用しております。<br><small>*Honjitsu no koohii wa Echiopia-san no mame wo shiyou shite orimasu.*</small> | Today's coffee is made using beans sourced from Ethiopia. |
 
 ## Related Expressions
 

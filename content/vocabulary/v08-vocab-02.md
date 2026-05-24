@@ -9,17 +9,11 @@ Left-side directions come up constantly in hotel corridors, where rooms alternat
 
 ## Example Sentences
 
-**1.** 入口は左側にございます。
-*Iriguchi wa hidari-gawa ni gozaimasu.*
-"The entrance is on the left side."
-
-**2.** エレベーターを降りて左にお進みください。
-*Erebeetaa wo orite hidari ni o-susumi kudasai.*
-"After exiting the elevator, please proceed to the left."
-
-**3.** お手洗いは廊下の左手奥にございます。
-*O-tearai wa rouka no hidari-te oku ni gozaimasu.*
-"The restroom is at the back on the left side of the corridor."
+| Japanese | Meaning |
+|---|---|
+| 入口は左側にございます。<br><small>*Iriguchi wa hidari-gawa ni gozaimasu.*</small> | The entrance is on the left side. |
+| エレベーターを降りて左にお進みください。<br><small>*Erebeetaa wo orite hidari ni o-susumi kudasai.*</small> | After exiting the elevator, please proceed to the left. |
+| お手洗いは廊下の左手奥にございます。<br><small>*O-tearai wa rouka no hidari-te oku ni gozaimasu.*</small> | The restroom is at the back on the left side of the corridor. |
 
 ## Related Expressions
 

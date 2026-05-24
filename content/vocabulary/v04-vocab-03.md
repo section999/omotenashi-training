@@ -8,17 +8,17 @@ title: 清掃済み (seisou zumi)
 Staff mark a room 清掃済み by updating the room management system, placing a completion card in the room, or calling through to the floor supervisor. When a guest asks whether their room is ready before standard check-in time, この部屋は清掃済みでございます delivers that confirmation at the right level of formality. The room should only be marked 清掃済み after both the amenity check and the final visual walkthrough are complete. Marking it early under pressure from a busy front desk leads directly to embarrassing situations
 ## Example Sentences
 
-**1.** お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。
-*Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.*
-"We have confirmed that the room has been cleaned, so we can now proceed with check-in."
+お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。
+<small>*Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.*</small>
+We have confirmed that the room has been cleaned, so we can now proceed with check-in.
 
-**2.** この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。
-*Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.*
-"This room has been cleaned. Please enjoy the stay at your leisure."
+この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。
+<small>*Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.*</small>
+This room has been cleaned. Please enjoy the stay at your leisure.
 
-**3.** 清掃済みのお部屋リストを、フロントに提出いたします。
-*Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.*
-"I will submit the list of cleaned rooms to the front desk."
+清掃済みのお部屋リストを、フロントに提出いたします。
+<small>*Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.*</small>
+I will submit the list of cleaned rooms to the front desk.
 
 
 ## Related Expressions

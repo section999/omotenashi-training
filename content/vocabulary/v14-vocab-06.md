@@ -8,17 +8,17 @@ title: 出国 (shukkoku)
 This means knowing airport transfer options inside out, which train lines serve which terminals, how long the ride takes, when shuttle buses run, and whether pre-booking is recommended. It also means knowing about duty-free shopping opportunities at the departure gates, which guests asking about 出国 often bring up. A common error is to underestimate how much value a detailed, practical departure briefing adds: "I'd suggest leaving by two o'clock given the security queues on weekend afternoons" is the kind of specific, useful advice that guests remember and mention in reviews
 ## Example Sentences
 
-**1.** 出国の手続きには時間がかかる場合がございますので、早めに空港へお向かいください。
-*Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e omukaikudasai.*
-"Entry procedures can take time, so please head to the airport early."
+出国の手続きには時間がかかる場合がございますので、早めに空港へお向かいください。
+<small>*Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e omukaikudasai.*</small>
+Entry procedures can take time, so please head to the airport early.
 
-**2.** 出国前に免税ショップでお買い物を楽しまれるお客様も多くいらっしゃいます。
-*Shukkoku mae ni menzei shoppu de okaimono wo tanoshimareru okyakusama mo ooku irasshaimasu.*
-"Many guests enjoy shopping at duty-free stores before their departure."
+出国前に免税ショップでお買い物を楽しまれるお客様も多くいらっしゃいます。
+<small>*Shukkoku mae ni menzei shoppu de okaimono wo tanoshimareru okyakusama mo ooku irasshaimasu.*</small>
+Many guests enjoy shopping at duty-free stores before their departure.
 
-**3.** 本日ご出国のお客様は、フロントにてお荷物をお預かりいたします。
-*Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.*
-"For guests departing the country today, we can hold your luggage at the front desk."
+本日ご出国のお客様は、フロントにてお荷物をお預かりいたします。
+<small>*Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.*</small>
+For guests departing the country today, we can hold your luggage at the front desk.
 
 ## Related Expressions
 

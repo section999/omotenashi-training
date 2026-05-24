@@ -8,17 +8,11 @@ title: 出発日 (shuppatsu bi)
 When confirming any reservation, the 出発日 should be verified explicitly alongside the 到着日. If a guest wants to extend their stay, the 出発日 is the reference point: it indicates which night needs to be added and whether the same room is available. it also governs the calculation of late check-out fees, which are based on how many hours past the standard departure time the guest remains in the room. Having that date confirmed and documented protects both the guest and the property
 ## Example Sentences
 
-**1.** ご出発日は4月12日のご予定でよろしいでしょうか。
-*Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*
-"Is April 12 your planned departure date?"
-
-**2.** 出発日の当日、チェックアウトは午前11時までにお願いしております。
-*Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.*
-"On your departure day, we ask that you check out by 11:00 AM."
-
-**3.** 出発日を1日延長されたい場合は、空き状況を確認いたします。
-*Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.*
-"If you would like to extend your departure by one day, we will check room availability."
+| Japanese | Meaning |
+|---|---|
+| ご出発日は4月12日のご予定でよろしいでしょうか。<br><small>*Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*</small> | Is April 12 your planned departure date? |
+| 出発日の当日、チェックアウトは午前11時までにお願いしております。<br><small>*Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.*</small> | On your departure day, we ask that you check out by 11:00 AM. |
+| 出発日を1日延長されたい場合は、空き状況を確認いたします。<br><small>*Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.*</small> | If you would like to extend your departure by one day, we will check room availability. |
 
 ## Related Expressions
 

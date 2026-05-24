@@ -9,17 +9,17 @@ title: 非常口 (hijouguchi)
 The cultural weight of proactive safety communication in Japanese hospitality is significant. Telling a guest 非常口の場所はこちらでございます during check-in or room orientation reflects both legal responsibility and genuine care for the person in front of one. Guests receive this information calmly and appreciate it. A panicked guest who has never been told where the 非常口 is faces a much more dangerous situation than one who already knows. Proactive communication is both professional and responsible. Staff should familiarize themselves with the evacuation route (避難経路) from each exit as well, so they can guide someone if an emergency occurs
 ## Example Sentences
 
-**1.** 非常口は廊下の突き当たり、右手にございます。火災の際はこちらからお逃げください。
-*Hijouguchi wa rouka no tsukiatari, migite ni gozaimasu. Kasai no sai wa kochira kara o-nige kudasai.*
-"The emergency exit is at the end of the corridor on the right. In the event of a fire, please evacuate from here."
+非常口は廊下の突き当たり、右手にございます。火災の際はこちらからお逃げください。
+<small>*Hijouguchi wa rouka no tsukiatari, migite ni gozaimasu. Kasai no sai wa kochira kara o-nige kudasai.*</small>
+The emergency exit is at the end of the corridor on the right. In the event of a fire, please evacuate from here.
 
-**2.** ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。
-*Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.*
-"For your safety during the stay, we recommend confirming the location of emergency exits on each floor."
+ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。
+<small>*Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.*</small>
+For your safety during the stay, we recommend confirming the location of emergency exits on each floor.
 
-**3.** こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。
-*Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.*
-"This card contains information on emergency exits and evacuation routes for each floor. Please read it."
+こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。
+<small>*Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.*</small>
+This card contains information on emergency exits and evacuation routes for each floor. Please read it.
 
 
 ## Related Expressions

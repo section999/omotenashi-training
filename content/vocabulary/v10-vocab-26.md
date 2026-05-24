@@ -9,17 +9,17 @@ title: 為替 (kawase)
 A clean approach is to post the current 為替レート visibly near the front desk or cashier area with a sign like 本日の為替レートはこちらです. This lets guests verify the conversion themselves before deciding whether to pay in foreign currency or go to a separate exchange counter. When a guest questions the rate, staff should point to the official posted source rather than defending it from memory. A common error is skipping that documentation step and then being in an uncomfortable standoff over a number that cannot be proven
 ## Example Sentences
 
-**1.** 本日の為替レートは〇〇円でございます。
-*Honjitsu no kawase reeto wa 〇〇-en de gozaimasu.*
-"Today's exchange rate is 〇〇 yen."
+本日の為替レートは〇〇円でございます。
+<small>*Honjitsu no kawase reeto wa 〇〇-en de gozaimasu.*</small>
+Today's exchange rate is 〇〇 yen.
 
-**2.** 為替レートは毎日更新されております。
-*Kawase reeto wa mainichi koushin sarete orimasu.*
-"The exchange rate is updated every day."
+為替レートは毎日更新されております。
+<small>*Kawase reeto wa mainichi koushin sarete orimasu.*</small>
+The exchange rate is updated every day.
 
-**3.** 為替レートの変動により、お支払い金額が異なる場合がございます。
-*Kawase reeto no hendou ni yori, oshiharai kingaku ga kotonaru baai ga gozaimasu.*
-"Due to fluctuations in the exchange rate, the payment amount may vary."
+為替レートの変動により、お支払い金額が異なる場合がございます。
+<small>*Kawase reeto no hendou ni yori, oshiharai kingaku ga kotonaru baai ga gozaimasu.*</small>
+Due to fluctuations in the exchange rate, the payment amount may vary.
 
 
 ## Related Expressions

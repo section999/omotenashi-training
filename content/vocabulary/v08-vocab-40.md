@@ -9,17 +9,17 @@ title: 表示 (hyouji)
 Understanding 表示 as a concept is important because it shapes how staff teach guests to navigate independently. When someone says 表示に従ってください (please follow the signs), they are handing the guest a skill, not just answering a question. This matters most in large hotels, airports, or convention centers where the sheer number of guests makes walking everyone to their destination impractical. The quality of a property's 表示 reflects its service design at a fundamental level. Signs that are clearly worded, correctly placed, well-lit, and available in multiple languages improve the guest experience. When a sign is missing, damaged, or confusing, frontline staff who spot it and report it are contributing to service quality
 ## Example Sentences
 
-**1.** お手洗いは廊下の表示に従ってお進みください。
-*O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.*
-"Please follow the signs along the corridor to the restroom."
+お手洗いは廊下の表示に従ってお進みください。
+<small>*O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.*</small>
+Please follow the signs along the corridor to the restroom.
 
-**2.** 非常口は赤い表示で示されておりますので、ご確認ください。
-*Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.*
-"The emergency exits are indicated by red signs, so please take note of them."
+非常口は赤い表示で示されておりますので、ご確認ください。
+<small>*Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.*</small>
+The emergency exits are indicated by red signs, so please take note of them.
 
-**3.** エレベーターの表示が示す通り、レストランは3階にございます。
-*Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.*
-"As indicated by the elevator display, the restaurant is on the third floor."
+エレベーターの表示が示す通り、レストランは3階にございます。
+<small>*Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.*</small>
+As indicated by the elevator display, the restaurant is on the third floor.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: 階段 (kaidan)
 During fire drills and actual emergencies, 階段 becomes critical operational vocabulary. Staff must direct guests to the nearest stairwell quickly and clearly, using firm but reassuring language. International guests unfamiliar with Japanese emergency procedures benefit from concise, repeated instruction. Staff should also know which stairwells are pressurized, which exit to the street, and any access restrictions on guest-facing routes
 ## Example Sentences
 
-**1.** 非常時にはエレベーターをご使用にならず、階段をご利用くださいませ。
-*Hijouji ni wa erebeetaa wo go-shiyou ni narazu, kaidan wo go-riyou kudasaimase.*
-"In an emergency, please do not use the elevator: please use the stairs."
-
-**2.** お部屋は2階でございますので、階段がご便利かと存じます。
-*O-heya wa nikai de gozaimasu node, kaidan ga go-benri ka to zonjimasu.*
-"Your room is on the second floor, so the stairs may be the most convenient option for you."
-
-**3.** 階段は廊下の突き当たり、エレベーターホールの右手にございます。
-*Kaidan wa rouka no tsukiatari, erebeetaa hooru no migite ni gozaimasu.*
-"The staircase is at the end of the corridor, to the right of the elevator hall."
+| Japanese | Meaning |
+|---|---|
+| 非常時にはエレベーターをご使用にならず、階段をご利用くださいませ。<br><small>*Hijouji ni wa erebeetaa wo go-shiyou ni narazu, kaidan wo go-riyou kudasaimase.*</small> | In an emergency, please do not use the elevator: please use the stairs. |
+| お部屋は2階でございますので、階段がご便利かと存じます。<br><small>*O-heya wa nikai de gozaimasu node, kaidan ga go-benri ka to zonjimasu.*</small> | Your room is on the second floor, so the stairs may be the most convenient option for you. |
+| 階段は廊下の突き当たり、エレベーターホールの右手にございます。<br><small>*Kaidan wa rouka no tsukiatari, erebeetaa hooru no migite ni gozaimasu.*</small> | The staircase is at the end of the corridor, to the right of the elevator hall. |
 
 ## Related Expressions
 

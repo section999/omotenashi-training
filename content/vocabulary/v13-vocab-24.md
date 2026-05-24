@@ -8,17 +8,11 @@ title: 管理 (kanri)
 The philosophy of 管理 in Japanese hospitality is proactive rather than reactive. Managers do not wait for problems to appear -- they prevent them by maintaining rigorous systems. Inventorying supplies before a busy weekend, auditing room cleanliness standards mid-week, reviewing guest feedback before it becomes a trend: these are all forms of 管理 at work. Staff at every level contribute through accurate record-keeping, timely reporting, and strict adherence to procedures. a culture of strong 管理 enables seamless omotenashi behind the scenes
 ## Example Sentences
 
-**1.** 客室のアメニティの在庫管理は、ハウスキーピング部門が担当しております。
-*Kyakushitsu no ameniti no zaiko kanri wa, hausu kiipingu bumon ga tantou shite orimasu.*
-"The housekeeping department is responsible for managing the inventory of guest room amenities."
-
-**2.** 衛生管理を徹底するため、毎日の清掃チェックリストを導入いたしました。
-*Eisei kanri wo tettei suru tame, mainichi no seisou chekku risuto wo donyu itashimashita.*
-"In order to ensure thorough hygiene management, we have introduced a daily cleaning checklist."
-
-**3.** 顧客情報の管理は、プライバシーポリシーに従い、厳格に行っております。
-*Kokyaku jouhou no kanri wa, puraibashii porishii ni shitagaii, genkaku ni okonatte orimasu.*
-"Guest information management is handled strictly in accordance with our privacy policy."
+| Japanese | Meaning |
+|---|---|
+| 客室のアメニティの在庫管理は、ハウスキーピング部門が担当しております。<br><small>*Kyakushitsu no ameniti no zaiko kanri wa, hausu kiipingu bumon ga tantou shite orimasu.*</small> | The housekeeping department is responsible for managing the inventory of guest room amenities. |
+| 衛生管理を徹底するため、毎日の清掃チェックリストを導入いたしました。<br><small>*Eisei kanri wo tettei suru tame, mainichi no seisou chekku risuto wo donyu itashimashita.*</small> | In order to ensure thorough hygiene management, we have introduced a daily cleaning checklist. |
+| 顧客情報の管理は、プライバシーポリシーに従い、厳格に行っております。<br><small>*Kokyaku jouhou no kanri wa, puraibashii porishii ni shitagaii, genkaku ni okonatte orimasu.*</small> | Guest information management is handled strictly in accordance with our privacy policy. |
 
 ## Related Expressions
 

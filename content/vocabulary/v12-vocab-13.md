@@ -10,17 +10,17 @@ Minor injuries like small cuts can often be handled with the hotel's first aid k
 
 ## Example Sentences
 
-**1.** お客様が浴室で怪我をされました。すぐに応急処置を行います。
-*Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.*
-"A guest has been injured in the bathroom. We will administer first aid immediately."
+お客様が浴室で怪我をされました。すぐに応急処置を行います。
+<small>*Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.*</small>
+A guest has been injured in the bathroom. We will administer first aid immediately.
 
-**2.** 怪我の状態を確認いたしましたので、救急車を手配しております。
-*Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.*
-"We have assessed the injury and are arranging an ambulance."
+怪我の状態を確認いたしましたので、救急車を手配しております。
+<small>*Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.*</small>
+We have assessed the injury and are arranging an ambulance.
 
-**3.** 怪我をされた場合は、どうかスタッフまでお申し付けください。
-*Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.*
-"If one is injured, please do not hesitate to notify a staff member."
+怪我をされた場合は、どうかスタッフまでお申し付けください。
+<small>*Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.*</small>
+If one is injured, please do not hesitate to notify a staff member.
 
 
 ## Related Expressions

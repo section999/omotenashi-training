@@ -9,17 +9,17 @@ title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, the name should be repeated back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name reduces transcription errors and routing mistakes, which saves time
 ## Example Sentences
 
-**1.** お名前を頂戴できますか？
-*Onamae wo choudai dekimasu ka.*
-"May I have your name?"
+お名前を頂戴できますか？
+<small>*Onamae wo choudai dekimasu ka.*</small>
+May I have your name?
 
-**2.** 恐れ入りますが、お名前を頂戴できますか？
-*Osoreirimasu ga, onamae wo choudai dekimasu ka.*
-"I apologize for the inconvenience, but may I have your name?"
+恐れ入りますが、お名前を頂戴できますか？
+<small>*Osoreirimasu ga, onamae wo choudai dekimasu ka.*</small>
+I apologize for the inconvenience, but may I have your name?
 
-**3.** ご予約の確認のため、お名前を頂戴できますか？
-*Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*
-"May I have your name in order to confirm your reservation?"
+ご予約の確認のため、お名前を頂戴できますか？
+<small>*Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*</small>
+May I have your name in order to confirm your reservation?
 
 
 ## Related Expressions

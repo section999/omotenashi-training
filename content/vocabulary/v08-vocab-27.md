@@ -9,17 +9,17 @@ title: こちら側 (kochira gawa)
 In daily hospitality use, こちら側 comes into its own when staff need to describe a bilateral layout. Pairing it with あちら側 (that side, farther from one) in a single sentence is clean and efficient: 洋室はあちら側、和室はこちら側でございます gives a guest a complete picture of a floor layout in one breath. This provides clear spatial guidance during a welcome walk. A common error is discovering that once staff start using こちら側 and あちら側 together, the words start coming out naturally
 ## Example Sentences
 
-**1.** エレベーターはこちら側にございます。どうぞこちらへお進みください。
-*Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.*
-"The elevator is on this side. Please proceed this way."
+エレベーターはこちら側にございます。どうぞこちらへお進みください。
+<small>*Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.*</small>
+The elevator is on this side. Please proceed this way.
 
-**2.** 窓側のお席はこちら側でございます。お眺めをどうぞお楽しみください。
-*Madogawa no oseki wa kochira gawa de gozaimasu. Onagame o douzo otanoshimi kudasai.*
-"The window seats are on this side. Please enjoy the view."
+窓側のお席はこちら側でございます。お眺めをどうぞお楽しみください。
+<small>*Madogawa no oseki wa kochira gawa de gozaimasu. Onagame o douzo otanoshimi kudasai.*</small>
+The window seats are on this side. Please enjoy the view.
 
-**3.** 喫煙エリアはあちら側、禁煙エリアはこちら側でございます。
-*Kitsuen eria wa achira gawa, kin-en eria wa kochira gawa de gozaimasu.*
-"The smoking area is on that side; the non-smoking area is on this side."
+喫煙エリアはあちら側、禁煙エリアはこちら側でございます。
+<small>*Kitsuen eria wa achira gawa, kin-en eria wa kochira gawa de gozaimasu.*</small>
+The smoking area is on that side; the non-smoking area is on this side.
 
 
 ## Related Expressions

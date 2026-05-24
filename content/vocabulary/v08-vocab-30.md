@@ -9,17 +9,17 @@ title: 下 (shita)
 One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. A common error is forgetting to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves the guest unsure how to proceed
 ## Example Sentences
 
-**1.** 駐車場は地下2階の下にございます。エレベーターをご利用ください。
-*Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*
-"The parking lot is below on basement level 2. Please use the elevator."
+駐車場は地下2階の下にございます。エレベーターをご利用ください。
+<small>*Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*</small>
+The parking lot is below on basement level 2. Please use the elevator.
 
-**2.** スパ施設は下の階、地下1階にてお待ちしております。
-*Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.*
-"The spa facilities are on the floor below, basement level 1."
+スパ施設は下の階、地下1階にてお待ちしております。
+<small>*Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.*</small>
+The spa facilities are on the floor below, basement level 1.
 
-**3.** ベッドの下にセーフティボックスがございますので、ご確認ください。
-*Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.*
-"There is a safety box under the bed, so please take note."
+ベッドの下にセーフティボックスがございますので、ご確認ください。
+<small>*Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.*</small>
+There is a safety box under the bed, so please take note.
 
 
 ## Related Expressions

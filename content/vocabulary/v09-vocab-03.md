@@ -9,17 +9,17 @@ title: 宿泊日 (shukuhaku bi)
 During check-in, reading back the 宿泊日 to the guest is a routine part of reservation verification. A phrase like 「本日4月10日よりご到着で、4月12日にご出発のご予定でよろしいでしょうか」 confirms that both parties are working from the same information before a room key changes hands. A common error is to skip this step to save time, but that thirty seconds of verification prevents costly mismatches that are difficult to resolve once a guest is settled in their room. Note that hotel room charges in Japan are calculated per night of occupancy, so the 宿泊日 also directly governs billing from start to finish
 ## Example Sentences
 
-**1.** ご宿泊日は4月10日から4月12日までのご予定でよろしいでしょうか。
-*Go-shukuhaku bi wa shi-gatsu touka kara shi-gatsu juunichi made no go-yotei de yoroshii deshou ka.*
-"Are the stay dates from April 10 to April 12, as planned?"
+ご宿泊日は4月10日から4月12日までのご予定でよろしいでしょうか。
+<small>*Go-shukuhaku bi wa shi-gatsu touka kara shi-gatsu juunichi made no go-yotei de yoroshii deshou ka.*</small>
+Are the stay dates from April 10 to April 12, as planned?
 
-**2.** 宿泊日をもとに、お部屋の準備を進めております。
-*Shukuhaku bi o moto ni, o-heya no junbi o susumete orimasu.*
-"We are preparing the room based on the stay dates."
+宿泊日をもとに、お部屋の準備を進めております。
+<small>*Shukuhaku bi o moto ni, o-heya no junbi o susumete orimasu.*</small>
+We are preparing the room based on the stay dates.
 
-**3.** 宿泊日の変更をご希望の場合は、空き状況を確認いたします。
-*Shukuhaku bi no henkou o go-kibou no baai wa, aki joukyou o kakunin itashimasu.*
-"If you wish to change the stay dates, we will check availability."
+宿泊日の変更をご希望の場合は、空き状況を確認いたします。
+<small>*Shukuhaku bi no henkou o go-kibou no baai wa, aki joukyou o kakunin itashimasu.*</small>
+If you wish to change the stay dates, we will check availability.
 
 
 ## Related Expressions

@@ -10,17 +10,17 @@ Knowing how to use 案内板 as a service tool is useful for staff. When a guest
 
 ## Example Sentences
 
-**1.** エレベーターの横にございます案内板をご確認ください。各フロアの施設が一覧でご覧いただけます。
-*Erebeetaa no yoko ni gozaimasu annaiban wo go-kakunin kudasai. Kaku-furoa no shisetsu ga ichiran de go-ran itadakemasu.*
-"Please check the information board by the elevator. You can see a full list of facilities on each floor."
+エレベーターの横にございます案内板をご確認ください。各フロアの施設が一覧でご覧いただけます。
+<small>*Erebeetaa no yoko ni gozaimasu annaiban wo go-kakunin kudasai. Kaku-furoa no shisetsu ga ichiran de go-ran itadakemasu.*</small>
+Please check the information board by the elevator. You can see a full list of facilities on each floor.
 
-**2.** 本日のご宴会場のご案内は、ロビーの案内板をご参照ください。
-*Honjitsu no go-enkaijou no go-annai wa, robii no annaiban wo go-sanshou kudasai.*
-"For today's banquet hall information, please refer to the information board in the lobby."
+本日のご宴会場のご案内は、ロビーの案内板をご参照ください。
+<small>*Honjitsu no go-enkaijou no go-annai wa, robii no annaiban wo go-sanshou kudasai.*</small>
+For today's banquet hall information, please refer to the information board in the lobby.
 
-**3.** ご不明の点は案内板をご覧いただくか、フロントデスクのスタッフにお申し付けください。
-*Go-fuumei no ten wa annaiban wo go-ran itadaku ka, furonto desuku no sutaffu ni o-moushitsuke kudasai.*
-"For any questions, please consult the information board or let a member of staff at the front desk know."
+ご不明の点は案内板をご覧いただくか、フロントデスクのスタッフにお申し付けください。
+<small>*Go-fuumei no ten wa annaiban wo go-ran itadaku ka, furonto desuku no sutaffu ni o-moushitsuke kudasai.*</small>
+For any questions, please consult the information board or let a member of staff at the front desk know.
 
 
 ## Related Expressions

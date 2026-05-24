@@ -9,17 +9,17 @@ title: 救助 (kyuujo)
 Hotel staff are trained to begin initial 救助 actions while simultaneously alerting professional emergency responders. The goal is never to delay calling 119, but to take immediate stabilising action while help is on the way. One area where students often underestimate the complexity is evacuation scenarios: guests with mobility limitations, elderly visitors, and families with young children all need prioritised attention and cannot be expected to follow the standard evacuation flow on their own. Drills practise communication routes, rescue paths, and accountability procedures so that no guest gets left behind. Communication itself is a rescue skill. Clear, calm verbal guidance and simple physical gestures for guests who do not speak Japanese can make the difference in a chaotic situation
 ## Example Sentences
 
-**1.** 火災発生時には、スタッフが速やかにお客様の救助に当たります。
-*Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.*
-"In the event of a fire, staff will promptly carry out guest rescue operations."
+火災発生時には、スタッフが速やかにお客様の救助に当たります。
+<small>*Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.*</small>
+In the event of a fire, staff will promptly carry out guest rescue operations.
 
-**2.** エレベーターに閉じ込められたお客様の救助は、保守業者と連携して行います。
-*Erebeetaa ni tojikoimerareta okyakusama no kyuujo wa, hoshuu gyousha to renkei shite okonaimasu.*
-"Rescue of guests trapped in the elevator will be carried out in coordination with the maintenance company."
+エレベーターに閉じ込められたお客様の救助は、保守業者と連携して行います。
+<small>*Erebeetaa ni tojikoimerareta okyakusama no kyuujo wa, hoshuu gyousha to renkei shite okonaimasu.*</small>
+Rescue of guests trapped in the elevator will be carried out in coordination with the maintenance company.
 
-**3.** 救助が必要な場合は、119番に通報するとともにフロントへお知らせください。
-*Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.*
-"If rescue is needed, please notify the front desk and call 119."
+救助が必要な場合は、119番に通報するとともにフロントへお知らせください。
+<small>*Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.*</small>
+If rescue is needed, please notify the front desk and call 119.
 
 
 ## Related Expressions

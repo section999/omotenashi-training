@@ -9,17 +9,17 @@ title: 幼児 (youji)
 
 ## Example Sentences
 
-**1.** 幼児のお客様には、ベビーベッドをご用意することが可能です。
-*Youji no o-kyakusama ni wa, bebii beddo o go-youi suru koto ga kanou desu.*
-"We are able to prepare a crib for infant guests."
+幼児のお客様には、ベビーベッドをご用意することが可能です。
+<small>*Youji no o-kyakusama ni wa, bebii beddo o go-youi suru koto ga kanou desu.*</small>
+We are able to prepare a crib for infant guests.
 
-**2.** 幼児は添い寝の場合、宿泊料金は無料でございます。
-*Youji wa soinine no baai, shukuhaku ryoukin wa muryou de gozaimasu.*
-"Infants sharing a bed with parents stay free of charge."
+幼児は添い寝の場合、宿泊料金は無料でございます。
+<small>*Youji wa soinine no baai, shukuhaku ryoukin wa muryou de gozaimasu.*</small>
+Infants sharing a bed with parents stay free of charge.
 
-**3.** ご予約に幼児のお子様がいらっしゃいますので、安全のためチャイルドロックをお部屋に設置いたします。
-*Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.*
-"Since your reservation includes an infant, we will install child locks in the room for safety."
+ご予約に幼児のお子様がいらっしゃいますので、安全のためチャイルドロックをお部屋に設置いたします。
+<small>*Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.*</small>
+Since your reservation includes an infant, we will install child locks in the room for safety.
 
 
 ## Related Expressions

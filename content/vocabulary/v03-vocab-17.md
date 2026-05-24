@@ -9,17 +9,11 @@ In a hospitality context, トイレ comes up most often when guests ask for dire
 
 ## Example Sentences
 
-**1.** トイレはこちらでございます。
-*Toire wa kochira de gozaimasu.*
-"The restroom is this way."
-
-**2.** お部屋のトイレはウォシュレット付きでございます。
-*Oheya no toire wa woshuretto tsuki de gozaimasu.*
-"The toilet in the room is equipped with a washlet."
-
-**3.** トイレと浴室は別々になっております。
-*Toire to yokushitsu wa betsubetsu ni natte orimasu.*
-"The toilet and bathroom are separate."
+| Japanese | Meaning |
+|---|---|
+| トイレはこちらでございます。<br><small>*Toire wa kochira de gozaimasu.*</small> | The restroom is this way. |
+| お部屋のトイレはウォシュレット付きでございます。<br><small>*Oheya no toire wa woshuretto tsuki de gozaimasu.*</small> | The toilet in the room is equipped with a washlet. |
+| トイレと浴室は別々になっております。<br><small>*Toire to yokushitsu wa betsubetsu ni natte orimasu.*</small> | The toilet and bathroom are separate. |
 
 ## Related Expressions
 

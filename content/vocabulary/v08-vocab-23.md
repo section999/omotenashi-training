@@ -8,17 +8,17 @@ title: 徒歩 (toho)
 徒歩 nearly always appears alongside 約 (approximately) and a specific minute count: 駅まで徒歩約10分です. Staff should calibrate these estimates carefully, accounting for traffic lights, elevation changes, and the pace of an average guest with luggage. For elderly guests or guests with heavy bags, staff at quality properties also consider proactively suggesting alternatives: 徒歩ですと少々遠くなりますので、タクシーをご用意いたしましょうか (it is a bit far on foot; shall we arrange a taxi for one?). This anticipation of need reflects Japanese hospitality culture
 ## Example Sentences
 
-**1.** 駅まで徒歩10分です。地図をお持ちいたしましょうか。
-*Eki made toho juppun desu. Chizu o omochi itashimashou ka.*
-"It is a 10-minute walk to the station. Shall I bring you a map?"
+駅まで徒歩10分です。地図をお持ちいたしましょうか。
+<small>*Eki made toho juppun desu. Chizu o omochi itashimashou ka.*</small>
+It is a 10-minute walk to the station. Shall I bring you a map?
 
-**2.** 観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。
-*Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.*
-"It is approximately a 15-minute walk to the sightseeing landmark. There is a row of cherry trees along the way, so please enjoy them."
+観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。
+<small>*Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.*</small>
+It is approximately a 15-minute walk to the sightseeing landmark. There is a row of cherry trees along the way, so please enjoy them.
 
-**3.** お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。
-*Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.*
-"Since you have luggage, how about a taxi? It takes about 20 minutes on foot."
+お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。
+<small>*Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.*</small>
+Since you have luggage, how about a taxi? It takes about 20 minutes on foot.
 
 
 ## Related Expressions

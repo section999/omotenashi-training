@@ -9,17 +9,17 @@ title: 精算 (seisan)
 Staff should prepare the statement before the guest arrives at the front desk so the interaction feels efficient. Reviewing the 内訳 (itemized breakdown) with the guest before finalizing is both professional and considerate, as it gives the guest the chance to flag discrepancies. Any disputes should be resolved before the final payment is processed. Reversing a completed transaction is more complicated than catching the problem beforehand.
 ## Example Sentences
 
-**1.** チェックアウトの際に、フロントにて精算をお願いいたします。
-*Chekkuauto no sai ni, furonto nite seisan wo o-negai itashimasu.*
-"Please settle your account at the front desk upon checkout."
+チェックアウトの際に、フロントにて精算をお願いいたします。
+<small>*Chekkuauto no sai ni, furonto nite seisan wo o-negai itashimasu.*</small>
+Please settle your account at the front desk upon checkout.
 
-**2.** ただいま精算書をご用意しておりますので、少々お待ちください。
-*Tadaima seisansho wo go-youi shite orimasu no de, shoushou o-machi kudasai.*
-"We are preparing your settlement statement now: please wait just a moment."
+ただいま精算書をご用意しておりますので、少々お待ちください。
+<small>*Tadaima seisansho wo go-youi shite orimasu no de, shoushou o-machi kudasai.*</small>
+We are preparing your settlement statement now: please wait just a moment.
 
-**3.** 精算の前に内訳をご確認いただけますでしょうか。
-*Seisan no mae ni uchiwake wo go-kakunin itadakemasu deshou ka.*
-"Would you like to review the itemized charges before we finalize the bill?"
+精算の前に内訳をご確認いただけますでしょうか。
+<small>*Seisan no mae ni uchiwake wo go-kakunin itadakemasu deshou ka.*</small>
+Would you like to review the itemized charges before we finalize the bill?
 
 
 ## Related Expressions

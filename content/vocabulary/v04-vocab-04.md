@@ -8,17 +8,11 @@ title: ゴミ (gomi)
 When talking with guests about trash, the approach should be polite without drawing unnecessary attention to the waste itself. If a guest asks where to put something, staff should guide them to the nearest ゴミ箱 or explain collection schedules clearly. In internal reports, knowing how to describe waste accurately also matters, for example when flagging a room where an unusually large amount of ゴミ needs special handling before the next guest arrives
 ## Example Sentences
 
-**1.** 客室のゴミは毎日の清掃時に回収いたします。
-*Kyakushitsu no gomi wa mainichi no seisou ji ni kaishuu itashimasu.*
-"Trash from guest rooms is collected during the daily cleaning."
-
-**2.** ゴミの分別にご協力いただけますと幸いでございます。
-*Gomi no bunbetsu ni gokyouryoku itadakemasu to saiwai de gozaimasu.*
-"We would greatly appreciate your cooperation with waste separation."
-
-**3.** ゴミがあふれていたため、清掃時に追加の袋をご用意いたしました。
-*Gomi ga afurete ita tame, seisou ji ni tsuika no fukuro wo goyo'i itashimashita.*
-"As the trash was overflowing, we provided an extra bag during the cleaning."
+| Japanese | Meaning |
+|---|---|
+| 客室のゴミは毎日の清掃時に回収いたします。<br><small>*Kyakushitsu no gomi wa mainichi no seisou ji ni kaishuu itashimasu.*</small> | Trash from guest rooms is collected during the daily cleaning. |
+| ゴミの分別にご協力いただけますと幸いでございます。<br><small>*Gomi no bunbetsu ni gokyouryoku itadakemasu to saiwai de gozaimasu.*</small> | We would greatly appreciate your cooperation with waste separation. |
+| ゴミがあふれていたため、清掃時に追加の袋をご用意いたしました。<br><small>*Gomi ga afurete ita tame, seisou ji ni tsuika no fukuro wo goyo'i itashimashita.*</small> | As the trash was overflowing, we provided an extra bag during the cleaning. |
 
 ## Related Expressions
 

@@ -8,17 +8,17 @@ title: 客室 (kyakushitsu)
 客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations, such as 客室係 (room attendant) and 客室番号 (room number), is foundational for anyone working in Japanese hospitality
 ## Example Sentences
 
-**1.** 本日お泊まりの客室は305号室でございます。
-*Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.*
-"Your guest room for tonight is room 305."
+本日お泊まりの客室は305号室でございます。
+<small>*Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.*</small>
+Your guest room for tonight is room 305.
 
-**2.** 客室へご案内いたします。どうぞこちらへお進みください。
-*Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.*
-"I will guide you to the guest room. Please proceed this way."
+客室へご案内いたします。どうぞこちらへお進みください。
+<small>*Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.*</small>
+I will guide you to the guest room. Please proceed this way.
 
-**3.** ご不明な点がございましたら、客室からフロントまでお電話ください。
-*Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*
-"If you have any questions, please call the front desk from the guest room."
+ご不明な点がございましたら、客室からフロントまでお電話ください。
+<small>*Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*</small>
+If you have any questions, please call the front desk from the guest room.
 
 
 ## Related Expressions

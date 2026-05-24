@@ -8,17 +8,11 @@ title: 向かい (mukai)
 In daily use, 向かい most commonly appears anchored to a known landmark: 郵便局は駅の向かいにございます, or コンビニはホテルの向かいです. At a ryokan, a staff member might say 大浴場はお食事処の向かいにございます. The word is effective when the guest can see the reference point from where they are standing, because they can look across and spot the destination themselves
 ## Example Sentences
 
-**1.** 郵便局は駅の向かいにございます。改札を出てすぐ正面です。
-*Yuubinkyoku wa eki no mukai ni gozaimasu. Kaisatsu o dete sugu shoumen desu.*
-"The post office is directly across from the station. It is straight ahead as soon as one exit the ticket gates."
-
-**2.** コンビニはホテルの向かいにございますので、徒歩約1分でございます。
-*Konbini wa hoteru no mukai ni gozaimasu node, toho yaku ippun de gozaimasu.*
-"The convenience store is across from the hotel, so it is approximately a one-minute walk."
-
-**3.** フィットネスルームはプールの向かいにございます。タオルはフロントでお貸しいたします。
-*Fittonesu ruumu wa puuru no mukai ni gozaimasu. Taoru wa furonto de okashi itashimasu.*
-"The fitness room is directly across from the pool. We can lend you a towel at the front desk."
+| Japanese | Meaning |
+|---|---|
+| 郵便局は駅の向かいにございます。改札を出てすぐ正面です。<br><small>*Yuubinkyoku wa eki no mukai ni gozaimasu. Kaisatsu o dete sugu shoumen desu.*</small> | The post office is directly across from the station. It is straight ahead as soon as one exit the ticket gates. |
+| コンビニはホテルの向かいにございますので、徒歩約1分でございます。<br><small>*Konbini wa hoteru no mukai ni gozaimasu node, toho yaku ippun de gozaimasu.*</small> | The convenience store is across from the hotel, so it is approximately a one-minute walk. |
+| フィットネスルームはプールの向かいにございます。タオルはフロントでお貸しいたします。<br><small>*Fittonesu ruumu wa puuru no mukai ni gozaimasu. Taoru wa furonto de okashi itashimasu.*</small> | The fitness room is directly across from the pool. We can lend you a towel at the front desk. |
 
 ## Related Expressions
 

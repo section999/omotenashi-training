@@ -8,17 +8,10 @@ title: スタッフ (sutaffu)
 The word is flexible. Managers use it when talking about their team in a collegial, day-to-day way, and it appears on uniforms, event programmes, and guest information pamphlets. When coordinating across departments, using スタッフ as the shared label, front-desk スタッフ working alongside housekeeping スタッフ, reinforces a sense of unified purpose rather than departmental division
 ## Example Sentences
 
-**1.** レストランのスタッフはお客様に飲み物を提供します。
-*Resutoran no sutaffu wa okyakusama ni nomimono o teikyou shimasu.*
-"Restaurant staff serve drinks to guests."
-
-**2.** フロントのスタッフが24時間対応しております。
-*Furonto no sutaffu ga nijuuyojikan taiou shite orimasu.*
-"Front desk staff are available 24 hours a day."
-
-**3.** 本日のイベントはスタッフ一同で準備いたしました。
-*Honjitsu no ibento wa sutaffu ichidou de junbi itashimashita.*
-"Today's event was prepared by all of our staff."
+| Japanese | Meaning |
+|---|---|
+| フロントのスタッフが24時間対応しております。<br><small>*Furonto no sutaffu ga nijuuyojikan taiou shite orimasu.*</small> | Front desk staff are available 24 hours a day. |
+| 本日のイベントはスタッフ一同で準備いたしました。<br><small>*Honjitsu no ibento wa sutaffu ichidou de junbi itashimashita.*</small> | Today's event was prepared by all of our staff. |
 
 ## Related Expressions
 

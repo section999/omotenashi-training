@@ -8,17 +8,17 @@ title: 指導 (shidou)
 a senior concierge or front desk supervisor will give 指導 by walking a new hire through actual guest interactions, then debriefing afterward to highlight areas for improvement. Good 指導 balances correction with encouragement, reflecting the Japanese principle of 育てる (sodateru, to raise, to cultivate). Phrases such as ご指導よろしくお願いします (go-shidou yoroshiku onegai shimasu, "I ask for their kind guidance") are commonly used by new staff as a humble expression of willingness to learn
 ## Example Sentences
 
-**1.** 先輩が新人スタッフにフロント業務の指導をしております。
-*Senpai ga shinjin sutaffu ni furonto gyoumu no shidou wo shite orimasu.*
-"A senior staff member is providing guidance on front desk operations to the new employee."
+先輩が新人スタッフにフロント業務の指導をしております。
+<small>*Senpai ga shinjin sutaffu ni furonto gyoumu no shidou wo shite orimasu.*</small>
+A senior staff member is providing guidance on front desk operations to the new employee.
 
-**2.** 丁寧なご指導のおかげで、業務に自信が持てるようになりました。
-*Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.*
-"Thanks to your thorough guidance, I have grown confident in my duties."
+丁寧なご指導のおかげで、業務に自信が持てるようになりました。
+<small>*Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.*</small>
+Thanks to your thorough guidance, I have grown confident in my duties.
 
-**3.** 新人研修では、接客マナーについての指導を重点的に行っています。
-*Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*
-"In new employee training, we focus heavily on guidance regarding guest service etiquette."
+新人研修では、接客マナーについての指導を重点的に行っています。
+<small>*Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*</small>
+In new employee training, we focus heavily on guidance regarding guest service etiquette.
 
 
 ## Related Expressions

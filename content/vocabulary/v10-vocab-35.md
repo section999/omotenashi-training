@@ -8,17 +8,17 @@ QRコード stands for "Quick Response Code," and it is a common payment interfa
 When guiding a guest through a QRコード payment, staff should present the code clearly at a comfortable angle, ensure the surface is clean and undamaged, and confirm that the amount in the guest's app matches the total before the guest confirms. Staff should then wait for the 決済完了 (payment complete) signal on the terminal before finishing. If a guest's app refuses to read the code, staff should check for anything blocking the scanner or interfering with the display, and offer an alternative payment method calmly
 ## Example Sentences
 
-**1.** こちらのQRコードでお支払いいただけます。
-*Kochira no kyūāru kōdo de oshiharai itadakemasu.*
-"You can pay using this QR code."
+こちらのQRコードでお支払いいただけます。
+<small>*Kochira no kyūāru kōdo de oshiharai itadakemasu.*</small>
+You can pay using this QR code.
 
-**2.** スマートフォンのカメラでQRコードをお読み取りください。
-*Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*
-"Please scan the QR code with your smartphone camera."
+スマートフォンのカメラでQRコードをお読み取りください。
+<small>*Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*</small>
+Please scan the QR code with your smartphone camera.
 
-**3.** お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。
-*Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*
-"Once you have confirmed the payment amount in the app, please proceed with the payment."
+お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。
+<small>*Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*</small>
+Once you have confirmed the payment amount in the app, please proceed with the payment.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: ドア (door)
 During room orientation, staff cover the basics clearly: 「ドアはオートロックになっております」 so guests remember their key card, and 「お部屋の中からはチェーンをかけてください」 to recommend the chain lock at night. Emergency exit information, such as 「非常口は廊下の左側にございます」, is naturally delivered alongside this ドア guidance. When a guest's key card stops working, staff should respond promptly and offer to re-issue it, a locked-out guest standing in the corridor is one of the more avoidable service failures in front-desk work
 ## Example Sentences
 
-**1.** ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。
-*Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*
-"The door is auto-locking, so please take your key card when one go out."
-
-**2.** ドアは内側から鍵を回してください。
-*Doa wa uchigawa kara kagi wo mawashite kudasai.*
-"Please lock the door from the inside."
-
-**3.** ご就寝の際は、チェーンロックもご使用いただくと安心でございます。
-*Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.*
-"For added security when sleeping, we recommend also using the chain lock."
+| Japanese | Meaning |
+|---|---|
+| ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。<br><small>*Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*</small> | The door is auto-locking, so please take your key card when one go out. |
+| ドアは内側から鍵を回してください。<br><small>*Doa wa uchigawa kara kagi wo mawashite kudasai.*</small> | Please lock the door from the inside. |
+| ご就寝の際は、チェーンロックもご使用いただくと安心でございます。<br><small>*Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.*</small> | For added security when sleeping, we recommend also using the chain lock. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 研修 (kenshuu)
 研修 doesn't stop at onboarding. Seasonal sessions update staff on new menus, services, or technologies, while ongoing ones respond to shifting guest expectations and industry standards. In prestigious establishments like traditional ryokan, 研修 may also include cultural education, the history of the property, local customs, and the deeper meaning of hospitality in the Japanese tradition. A willing, attentive approach to 研修 helps build credibility with management
 ## Example Sentences
 
-**1.** 新入社員は入社後に1週間の研修があります。
-*Shinnyu-shain wa nyuusha-go ni isshuukan no kenshuu ga arimasu.*
-"New employees have a one-week training programme after joining."
-
-**2.** フロントスタッフ向けに接客マナーの研修を実施しました。
-*Furonto sutaffu muke ni sekkyaku manaa no kenshuu o jisshi shimashita.*
-"We conducted a guest service manner training for front-desk staff."
-
-**3.** 研修期間中は先輩スタッフが丁寧に指導してくれます。
-*Kenshuu-kikan-chuu wa senpai sutaffu ga teinei ni shidou shite kuremasu.*
-"During the training period, senior staff will guide you carefully."
+| Japanese | Meaning |
+|---|---|
+| 新入社員は入社後に1週間の研修があります。<br><small>*Shinnyu-shain wa nyuusha-go ni isshuukan no kenshuu ga arimasu.*</small> | New employees have a one-week training programme after joining. |
+| フロントスタッフ向けに接客マナーの研修を実施しました。<br><small>*Furonto sutaffu muke ni sekkyaku manaa no kenshuu o jisshi shimashita.*</small> | We conducted a guest service manner training for front-desk staff. |
+| 研修期間中は先輩スタッフが丁寧に指導してくれます。<br><small>*Kenshuu-kikan-chuu wa senpai sutaffu ga teinei ni shidou shite kuremasu.*</small> | During the training period, senior staff will guide you carefully. |
 
 ## Related Expressions
 

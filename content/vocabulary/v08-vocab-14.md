@@ -9,17 +9,11 @@ The practical usage of 手前 appears in phrases like 入り口の手前にご�
 
 ## Example Sentences
 
-**1.** 受付カウンターは入り口の手前にございます。
-*Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.*
-"The reception counter is just before the entrance."
-
-**2.** お手洗いはエレベーターの手前、左側にございます。
-*O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.*
-"The restroom is just before the elevator, on the left side."
-
-**3.** レストランのご予約受付は入り口の手前のカウンターでお承りしております。
-*Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.*
-"Restaurant reservations are accepted at the counter just before the entrance."
+| Japanese | Meaning |
+|---|---|
+| 受付カウンターは入り口の手前にございます。<br><small>*Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.*</small> | The reception counter is just before the entrance. |
+| お手洗いはエレベーターの手前、左側にございます。<br><small>*O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.*</small> | The restroom is just before the elevator, on the left side. |
+| レストランのご予約受付は入り口の手前のカウンターでお承りしております。<br><small>*Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.*</small> | Restaurant reservations are accepted at the counter just before the entrance. |
 
 ## Related Expressions
 

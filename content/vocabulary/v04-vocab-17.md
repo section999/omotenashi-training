@@ -8,17 +8,11 @@ title: 汚れ (yogore)
 In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, scuff marks on corridor walls. When a guest reports a 汚れ, the right response combines acknowledgment with immediate action: 汚れをすぐに清掃いたします. In internal communication, specifying the type of stain (食べ物の汚れ for a food stain, 水の汚れ for a watermark) helps ensure the correct cleaning method is applied. Not all stains respond to the same treatment, and using the wrong product can make things worse
 ## Example Sentences
 
-**1.** お客様のご指摘の汚れを、ただちに清掃いたします。
-*Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.*
-"We will immediately clean the stain that the guest has pointed out."
-
-**2.** カーペットに汚れを発見しましたので、ご報告いたします。
-*Kaapetto ni yogore wo hakken shimashita node, go-houkoku itashimasu.*
-"We have found a stain on the carpet and are reporting it."
-
-**3.** 頑固な汚れには専用のクリーナーをお使いください。
-*Ganko na yogore ni wa senyou no kuriinaa wo o-tsukai kudasai.*
-"Please use the dedicated cleaner for stubborn stains."
+| Japanese | Meaning |
+|---|---|
+| お客様のご指摘の汚れを、ただちに清掃いたします。<br><small>*Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.*</small> | We will immediately clean the stain that the guest has pointed out. |
+| カーペットに汚れを発見しましたので、ご報告いたします。<br><small>*Kaapetto ni yogore wo hakken shimashita node, go-houkoku itashimasu.*</small> | We have found a stain on the carpet and are reporting it. |
+| 頑固な汚れには専用のクリーナーをお使いください。<br><small>*Ganko na yogore ni wa senyou no kuriinaa wo o-tsukai kudasai.*</small> | Please use the dedicated cleaner for stubborn stains. |
 
 ## Related Expressions
 

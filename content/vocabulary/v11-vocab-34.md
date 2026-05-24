@@ -8,17 +8,17 @@ title: 案内します (annai shimasu)
 On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide one to the lobby) and then walk the guest through the route step by step. Landmark-based directions work better on the phone than left and right instructions, because the guest has no visual reference. Giving them something to look for, such as 〜の隣 (next to) or 〜の前 (in front of), and checking in after each segment rather than delivering everything at once, is recommended: こちらはご理解いただけましたでしょうか (was this part clear to one?) gives the guest space to confirm before staff moves on
 ## Example Sentences
 
-**1.** ただいまお部屋までご案内いたします。こちらへどうぞ。
-*Tadaima oheya made go-annai itashimasu. Kochira e douzo.*
-"I will guide you to the room now. This way, please."
+ただいまお部屋までご案内いたします。こちらへどうぞ。
+<small>*Tadaima oheya made go-annai itashimasu. Kochira e douzo.*</small>
+I will guide you to the room now. This way, please.
 
-**2.** お電話でのご案内となりますが、レストランの場所をご説明いたします。
-*Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.*
-"I will guide you by telephone, and explain the location of the restaurant."
+お電話でのご案内となりますが、レストランの場所をご説明いたします。
+<small>*Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.*</small>
+I will guide you by telephone, and explain the location of the restaurant.
 
-**3.** ロビーまでご案内いたしますので、少々お待ちくださいませ。
-*Robii made go-annai itashimasu node, shoushou omachi kudasaimase.*
-"I will guide you to the lobby, so please wait just a moment."
+ロビーまでご案内いたしますので、少々お待ちくださいませ。
+<small>*Robii made go-annai itashimasu node, shoushou omachi kudasaimase.*</small>
+I will guide you to the lobby, so please wait just a moment.
 
 
 ## Related Expressions

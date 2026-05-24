@@ -8,17 +8,11 @@ title: サイン (sign)
 The most professional way to ask for a signature is こちらにサインをお願いいただけますでしょうか, which combines the directional こちら (here), the word サイン, and the layered polite request form お願いいただけますでしょうか. Staff should show the guest exactly where to sign, either by pointing with an open hand (never a single finger) or by offering a small marker near the signature line. Once the guest has signed, close the interaction with かしこまりました or ありがとうございました
 ## Example Sentences
 
-**1.** こちらにサインをお願いいただけますでしょうか。
-*Kochira ni sain o o-negai itadakemasu deshō ka.*
-"Could you please sign here?"
-
-**2.** チェックインの書類にサインをいただきましてありがとうございます。
-*Chekku-in no shorui ni sain o itadakimashite arigatō gozaimasu.*
-"Thank you for signing the check-in documents."
-
-**3.** クレジットカードのご利用明細にもサインをお願いいたします。
-*Kurejitto-kādo no go-riyō meisai ni mo sain o o-negai itashimasu.*
-"Please also sign the credit card charge slip."
+| Japanese | Meaning |
+|---|---|
+| こちらにサインをお願いいただけますでしょうか。<br><small>*Kochira ni sain o o-negai itadakemasu deshō ka.*</small> | Could you please sign here? |
+| チェックインの書類にサインをいただきましてありがとうございます。<br><small>*Chekku-in no shorui ni sain o itadakimashite arigatō gozaimasu.*</small> | Thank you for signing the check-in documents. |
+| クレジットカードのご利用明細にもサインをお願いいたします。<br><small>*Kurejitto-kādo no go-riyō meisai ni mo sain o o-negai itashimasu.*</small> | Please also sign the credit card charge slip. |
 
 ## Related Expressions
 

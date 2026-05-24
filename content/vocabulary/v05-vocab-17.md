@@ -8,17 +8,17 @@ title: 禁煙席 (kin'en seki)
 Staff ask about seating preference using the paired question 禁煙席と喫煙席、どちらをご希望ですか ("which do you prefer, non-smoking or smoking?") before escorting a guest to their table. If only 禁煙席 is available, or if the establishment is entirely non-smoking, staff should inform the guest proactively: 当店は全席禁煙でございます ("this restaurant is entirely non-smoking"). Knowing how to navigate guest reactions to a non-smoking policy with courtesy and clarity is an important skill for front-of-house staff
 ## Example Sentences
 
-**1.** 禁煙席と喫煙席、どちらをご希望でしょうか。
-*Kin'en seki to kitsuen seki, dochira wo go-kibou deshou ka.*
-"Which would you prefer: a non-smoking or a smoking seat?"
+禁煙席と喫煙席、どちらをご希望でしょうか。
+<small>*Kin'en seki to kitsuen seki, dochira wo go-kibou deshou ka.*</small>
+Which would you prefer: a non-smoking or a smoking seat?
 
-**2.** 禁煙席のお席へご案内いたします。こちらへどうぞ。
-*Kin'en seki no o-seki e go-annai itashimasu. Kochira e douzo.*
-"I will guide you to a non-smoking seat. This way, please."
+禁煙席のお席へご案内いたします。こちらへどうぞ。
+<small>*Kin'en seki no o-seki e go-annai itashimasu. Kochira e douzo.*</small>
+I will guide you to a non-smoking seat. This way, please.
 
-**3.** 当レストランは全席禁煙でございます。あらかじめご了承くださいませ。
-*Tou resutoran wa zenseki kin'en de gozaimasu. Arakajime go-ryoushou kudasaimase.*
-"This restaurant is entirely non-smoking. We appreciate your understanding in advance."
+当レストランは全席禁煙でございます。あらかじめご了承くださいませ。
+<small>*Tou resutoran wa zenseki kin'en de gozaimasu. Arakajime go-ryoushou kudasaimase.*</small>
+This restaurant is entirely non-smoking. We appreciate your understanding in advance.
 
 
 ## Related Expressions

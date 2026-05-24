@@ -9,17 +9,11 @@ In coin-operated laundry rooms, 乾燥 machines are typically separate from wash
 
 ## Example Sentences
 
-**1.** 乾燥機は洗濯機の隣にございます。1回200円でご利用いただけます。
-*Kansouki wa sentakuki no tonari ni gozaimasu. Ikkai nihyaku-en de go-riyou itadakemasu.*
-"The dryer is next to the washing machine. One cycle costs 200 yen."
-
-**2.** ウールのセーターは乾燥機をお避けになり、陰干しをお勧めいたします。
-*Uuru no seetaa wa kansouki o o-sake ni nari, kage-boshi o o-susume itashimasu.*
-"For wool sweaters, we recommend avoiding the dryer and air drying in the shade instead."
-
-**3.** ランドリーサービスでは洗濯と乾燥をセットで承っております。
-*Randorii saabisu de wa sentaku to kansou o setto de uketamawaite orimasu.*
-"Our laundry service handles both washing and drying together as a set."
+| Japanese | Meaning |
+|---|---|
+| 乾燥機は洗濯機の隣にございます。1回200円でご利用いただけます。<br><small>*Kansouki wa sentakuki no tonari ni gozaimasu. Ikkai nihyaku-en de go-riyou itadakemasu.*</small> | The dryer is next to the washing machine. One cycle costs 200 yen. |
+| ウールのセーターは乾燥機をお避けになり、陰干しをお勧めいたします。<br><small>*Uuru no seetaa wa kansouki o o-sake ni nari, kage-boshi o o-susume itashimasu.*</small> | For wool sweaters, we recommend avoiding the dryer and air drying in the shade instead. |
+| ランドリーサービスでは洗濯と乾燥をセットで承っております。<br><small>*Randorii saabisu de wa sentaku to kansou o setto de uketamawaite orimasu.*</small> | Our laundry service handles both washing and drying together as a set. |
 
 ## Related Expressions
 

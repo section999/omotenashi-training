@@ -9,17 +9,17 @@ title: 上 (ue)
 When paired with floor numbers, 上 becomes the backbone of vertical navigation. 一つ上の階 (the next floor up) and 上の階のレストラン (the restaurant on the floor above) are heard constantly in hotels. It also handles smaller-scale references, like amenity placement during room orientation: 棚の上にございます (it is on the upper shelf) is a phrase staff will use regularly during housekeeping interactions or when helping a guest locate something in their room. In buildings with mezzanine levels, 上 is especially useful for pointing someone to the upper section of the same floor
 ## Example Sentences
 
-**1.** フィットネスセンターは一つ上の階、5階にございます。
-*Fittonesu sentaa wa hitotsu ue no kai, go-kai ni gozaimasu.*
-"The fitness center is one floor up, on the fifth floor."
+フィットネスセンターは一つ上の階、5階にございます。
+<small>*Fittonesu sentaa wa hitotsu ue no kai, go-kai ni gozaimasu.*</small>
+The fitness center is one floor up, on the fifth floor.
 
-**2.** お部屋のアメニティは洗面台の上の棚にご用意しております。
-*O-heya no amenitii wa senmentai no ue no tana ni go-youi shite orimasu.*
-"The room amenities are prepared on the shelf above the vanity."
+お部屋のアメニティは洗面台の上の棚にご用意しております。
+<small>*O-heya no amenitii wa senmentai no ue no tana ni go-youi shite orimasu.*</small>
+The room amenities are prepared on the shelf above the vanity.
 
-**3.** 宴会場へは上の階のエレベーターホールをご利用ください。
-*Enkaijou e wa ue no kai no erebeetaa hooru wo go-riyou kudasai.*
-"To reach the banquet hall, please use the elevator hall on the upper floor."
+宴会場へは上の階のエレベーターホールをご利用ください。
+<small>*Enkaijou e wa ue no kai no erebeetaa hooru wo go-riyou kudasai.*</small>
+To reach the banquet hall, please use the elevator hall on the upper floor.
 
 
 ## Related Expressions

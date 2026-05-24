@@ -8,17 +8,11 @@ title: 改善 (kaizen)
 改善 activities may be as simple as repositioning a towel storage rack to reduce the number of steps a housekeeper takes per room, or as significant as redesigning the check-in sequence to eliminate wait times. Many hotels hold regular 改善ミーティング (kaizen miitingu, improvement meetings) where staff share observations from their daily work. Proposals that are adopted are often acknowledged publicly to reinforce the value of participation. The language around 改善 is important: rather than framing issues as failures, Japanese hospitality culture uses 改善 to frame them as opportunities, which preserves team morale and encourages open communication
 ## Example Sentences
 
-**1.** お客様からのご意見をもとに、フロントサービスの改善を進めております。
-*Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*
-"We are advancing improvements to our front desk service based on feedback from guests."
-
-**2.** 先月の改善提案が採用され、清掃時間が15分短縮されました。
-*Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.*
-"Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes."
-
-**3.** 小さな改善の積み重ねが、最終的に大きな品質向上につながります。
-*Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.*
-"The accumulation of small improvements ultimately leads to significant quality enhancement."
+| Japanese | Meaning |
+|---|---|
+| お客様からのご意見をもとに、フロントサービスの改善を進めております。<br><small>*Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*</small> | We are advancing improvements to our front desk service based on feedback from guests. |
+| 先月の改善提案が採用され、清掃時間が15分短縮されました。<br><small>*Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.*</small> | Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes. |
+| 小さな改善の積み重ねが、最終的に大きな品質向上につながります。<br><small>*Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.*</small> | The accumulation of small improvements ultimately leads to significant quality enhancement. |
 
 ## Related Expressions
 

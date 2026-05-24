@@ -9,17 +9,17 @@ title: 外 (soto)
 That weather awareness is where 外 connects to omotenashi. Telling a guest the taxi stand is to the left after exiting the building is a complete direction. Adding 本日は雨でございますので、傘をお持ちください turns it into an act of consideration. Whenever staff send someone 外, they should consider whether there is a weather note, a re-entry point, or a specific exit name that would help the guest
 ## Example Sentences
 
-**1.** 喫煙所は建物の外、正面玄関を出て右手にございます。
-*Kitsuenjo wa tatemono no soto, shoumen genkan wo dete migite ni gozaimasu.*
-"The smoking area is outside the building, to the right after exiting the main entrance."
+喫煙所は建物の外、正面玄関を出て右手にございます。
+<small>*Kitsuenjo wa tatemono no soto, shoumen genkan wo dete migite ni gozaimasu.*</small>
+The smoking area is outside the building, to the right after exiting the main entrance.
 
-**2.** プールはホテルの外、庭園の奥にございます。
-*Puuru wa hoteru no soto, teien no oku ni gozaimasu.*
-"The pool is outside the hotel, at the far end of the garden."
+プールはホテルの外、庭園の奥にございます。
+<small>*Puuru wa hoteru no soto, teien no oku ni gozaimasu.*</small>
+The pool is outside the hotel, at the far end of the garden.
 
-**3.** タクシー乗り場は外に出ていただき、左手にございます。本日は雨でございますので、傘をお持ちください。
-*Takushii noriba wa soto ni dete itadaki, hidarite ni gozaimasu. Honjitsu wa ame de gozaimasu no de, kasa wo o-mochi kudasai.*
-"The taxi stand is outside to the left. As it is raining today, please take an umbrella."
+タクシー乗り場は外に出ていただき、左手にございます。本日は雨でございますので、傘をお持ちください。
+<small>*Takushii noriba wa soto ni dete itadaki, hidarite ni gozaimasu. Honjitsu wa ame de gozaimasu no de, kasa wo o-mochi kudasai.*</small>
+The taxi stand is outside to the left. As it is raining today, please take an umbrella.
 
 
 ## Related Expressions

@@ -9,17 +9,17 @@ title: 不足 (fusoku)
 The phrasing staff choose matters here. お金が足りません can come across as blunt, even accusatory. The polished alternative is 〇〇円ご不足です, which states the shortfall factually and without judgment. Never stop at just announcing the problem -- immediately offer a path forward, whether that's an alternative payment method, a smaller transaction, or a quiet step away from the counter to process a supplementary payment. In a high-end hotel or ryokan, this kind of conversation should always happen away from other guests
 ## Example Sentences
 
-**1.** 恐れ入りますが、〇〇円ご不足でございます。
-*Osore irimasu ga, 〇〇-en go-fusoku de gozaimasu.*
-"I am sorry to inform you, but one is 〇〇 yen short."
+恐れ入りますが、〇〇円ご不足でございます。
+<small>*Osore irimasu ga, 〇〇-en go-fusoku de gozaimasu.*</small>
+I am sorry to inform you, but one is 〇〇 yen short.
 
-**2.** 不足分は別の方法でお支払いいただけますか。
-*Fusoku-bun wa betsu no houhou de oshiharai itadakemasu ka.*
-"Could you pay the shortfall by another method?"
+不足分は別の方法でお支払いいただけますか。
+<small>*Fusoku-bun wa betsu no houhou de oshiharai itadakemasu ka.*</small>
+Could you pay the shortfall by another method?
 
-**3.** 残高が不足しているため、追加のお支払いが必要です。
-*Zandaka ga fusoku shite iru tame, tsuika no oshiharai ga hitsuyou desu.*
-"Because the balance is insufficient, an additional payment is required."
+残高が不足しているため、追加のお支払いが必要です。
+<small>*Zandaka ga fusoku shite iru tame, tsuika no oshiharai ga hitsuyou desu.*</small>
+Because the balance is insufficient, an additional payment is required.
 
 
 ## Related Expressions

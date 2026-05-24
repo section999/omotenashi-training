@@ -9,17 +9,11 @@ Staff typically explain the shower during the room orientation given at check-in
 
 ## Example Sentences
 
-**1.** お部屋のシャワーは温度調節が可能でございます。
-*Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.*
-"The shower in the room allows you to adjust the temperature."
-
-**2.** シャワーの使い方についてご説明してもよろしいでしょうか。
-*Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.*
-"May I explain how to use the shower?"
-
-**3.** シャワーヘッドは取り外しができますので、ご自由にお使いください。
-*Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.*
-"The showerhead can be detached, so please use it freely."
+| Japanese | Meaning |
+|---|---|
+| お部屋のシャワーは温度調節が可能でございます。<br><small>*Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.*</small> | The shower in the room allows you to adjust the temperature. |
+| シャワーの使い方についてご説明してもよろしいでしょうか。<br><small>*Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.*</small> | May I explain how to use the shower? |
+| シャワーヘッドは取り外しができますので、ご自由にお使いください。<br><small>*Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.*</small> | The showerhead can be detached, so please use it freely. |
 
 ## Related Expressions
 

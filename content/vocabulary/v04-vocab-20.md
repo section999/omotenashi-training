@@ -8,17 +8,17 @@ title: 点検 (tenken)
 In hotel operations, 点検 takes many forms: daily room checks before guest arrival, periodic safety inspections of fire extinguishers and emergency exits, and post-departure checks after checkout. When entering a room or a guest area for inspection purposes, staff use phrases like 設備の点検を行っております ("we are conducting an equipment inspection") to explain their presence. The word also appears in written records. 点検済み (inspection completed) is stamped or initialed on checklists to confirm that a space has been cleared for guest use
 ## Example Sentences
 
-**1.** 安全のため、定期的に設備の点検を行っております。
-*Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.*
-"For safety, we conduct regular inspections of the facilities."
+安全のため、定期的に設備の点検を行っております。
+<small>*Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.*</small>
+For safety, we conduct regular inspections of the facilities.
 
-**2.** チェックイン前に客室の点検を完了いたしました。
-*Chekkuin mae ni kyakushitsu no tenken wo kanryou itashimashita.*
-"We have completed the room inspection prior to check-in."
+チェックイン前に客室の点検を完了いたしました。
+<small>*Chekkuin mae ni kyakushitsu no tenken wo kanryou itashimashita.*</small>
+We have completed the room inspection prior to check-in.
 
-**3.** ただいまエレベーターの点検中でございます。ご不便をおかけして申し訳ございません。
-*Tadaima erebeetaa no tenken-chuu de gozaimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.*
-"The elevator is currently under inspection. We sincerely apologize for the inconvenience."
+ただいまエレベーターの点検中でございます。ご不便をおかけして申し訳ございません。
+<small>*Tadaima erebeetaa no tenken-chuu de gozaimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.*</small>
+The elevator is currently under inspection. We sincerely apologize for the inconvenience.
 
 
 ## Related Expressions

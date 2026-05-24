@@ -8,17 +8,11 @@ title: テレビ (television)
 In room-orientation briefings, staff typically explain: 「テレビはリモコンで操作可能でございます」 (the TV can be operated with the remote) and may add which channel displays hotel information: 「1チャンネルがホテルの案内チャンネルでございます」 (channel 1 is the hotel information channel). If a guest reports a problem with the TV, staff should apologize and offer to send a technician or arrange a room with a functioning set
 ## Example Sentences
 
-**1.** お部屋のテレビはリモコンで操作可能でございます。
-*Oheya no terebi wa rimokon de sousa kanou de gozaimasu.*
-"The TV in the room can be operated with the remote."
-
-**2.** 1チャンネルにはホテルの案内が放映されております。
-*Ichi channeru ni wa hoteru no annai ga housai sarete orimasu.*
-"Channel 1 broadcasts hotel information."
-
-**3.** テレビのご使用方法についてご不明な点がございましたら、フロントへお申し付けください。
-*Terebi no go-shiyou houhou ni tsuite go-fumeina ten ga gozaimashitara, furonto e o-moushitsuke kudasai.*
-"If you have any questions about how to use the TV, please let the front desk know."
+| Japanese | Meaning |
+|---|---|
+| お部屋のテレビはリモコンで操作可能でございます。<br><small>*Oheya no terebi wa rimokon de sousa kanou de gozaimasu.*</small> | The TV in the room can be operated with the remote. |
+| 1チャンネルにはホテルの案内が放映されております。<br><small>*Ichi channeru ni wa hoteru no annai ga housai sarete orimasu.*</small> | Channel 1 broadcasts hotel information. |
+| テレビのご使用方法についてご不明な点がございましたら、フロントへお申し付けください。<br><small>*Terebi no go-shiyou houhou ni tsuite go-fumeina ten ga gozaimashitara, furonto e o-moushitsuke kudasai.*</small> | If you have any questions about how to use the TV, please let the front desk know. |
 
 ## Related Expressions
 

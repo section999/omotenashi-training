@@ -8,17 +8,17 @@ title: 洗面所 (senmenjo)
 During check-in or room orientation, staff might say 「洗面所はお部屋の奥にございます」 (the washroom is at the back of their room) or detail available items: 「洗面所には歯ブラシやタオルをご用意しております」 (the washroom has toothbrushes and towels prepared). When guests ask about where to brush their teeth or wash their face, 洗面所 is the correct referent. Housekeeping staff replenishing supplies will also use this term internally when checking amenity stock
 ## Example Sentences
 
-**1.** 洗面所はお部屋の奥にございます。
-*Senmenjo wa oheya no oku ni gozaimasu.*
-"The washroom is located at the back of the room."
+洗面所はお部屋の奥にございます。
+<small>*Senmenjo wa oheya no oku ni gozaimasu.*</small>
+The washroom is located at the back of the room.
 
-**2.** 洗面所には歯ブラシ、髭剃り、タオルをご用意しております。
-*Senmenjo ni wa haburashi, higesori, taoru wo go-youi shite orimasu.*
-"The washroom is stocked with a toothbrush, razor, and towels."
+洗面所には歯ブラシ、髭剃り、タオルをご用意しております。
+<small>*Senmenjo ni wa haburashi, higesori, taoru wo go-youi shite orimasu.*</small>
+The washroom is stocked with a toothbrush, razor, and towels.
 
-**3.** 洗面所のアメニティが不足している場合は、フロントにお申し付けください。
-*Senmenjo no ameniti ga fusoku shite iru baai wa, furonto ni o-moushitsuke kudasai.*
-"If washroom amenities are insufficient, please let the front desk know."
+洗面所のアメニティが不足している場合は、フロントにお申し付けください。
+<small>*Senmenjo no ameniti ga fusoku shite iru baai wa, furonto ni o-moushitsuke kudasai.*</small>
+If washroom amenities are insufficient, please let the front desk know.
 
 
 ## Related Expressions

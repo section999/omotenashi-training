@@ -11,17 +11,11 @@ A common error is to use *yōkoso* in everyday spoken greetings, where it ends u
 
 ## Example Sentences
 
-**1.** ようこそ、〇〇ホテルへ。心よりお待ちしておりました。
-*Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*
-"Welcome to ○○ Hotel. We have been truly looking forward to your arrival."
-
-**2.** ようこそ日本へ。ご旅行をどうぞお楽しみください。
-*Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.*
-"Welcome to Japan. Please enjoy your journey."
-
-**3.** ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。
-*Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.*
-"From your welcome card: Welcome to our inn. We welcome you with all our hearts."
+| Japanese | Meaning |
+|---|---|
+| ようこそ、〇〇ホテルへ。心よりお待ちしておりました。<br><small>*Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*</small> | Welcome to ○○ Hotel. We have been truly looking forward to your arrival. |
+| ようこそ日本へ。ご旅行をどうぞお楽しみください。<br><small>*Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.*</small> | Welcome to Japan. Please enjoy your journey. |
+| ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。<br><small>*Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.*</small> | From your welcome card: Welcome to our inn. We welcome you with all our hearts. |
 
 ## Related Expressions
 

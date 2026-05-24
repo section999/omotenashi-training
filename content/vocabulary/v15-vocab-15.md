@@ -9,17 +9,11 @@ The tricky part of 貴重品 conversations is tone. Staff are often required to 
 
 ## Example Sentences
 
-**1.** お部屋の金庫に貴重品を保管されることをお勧めいたします。
-*O-heya no kinko ni kichouhin wo hokan sareru koto wo o-susume itashimasu.*
-"We recommend storing your valuables in the in-room safe."
-
-**2.** 貴重品はフロントにてお預かりすることも可能でございます。
-*Kichouhin wa furonto nite o-azukari suru koto mo kanou de gozaimasu.*
-"It is also possible for us to keep your valuables at the front desk."
-
-**3.** パスポートや現金などの貴重品はお手元に置かれることをお勧めいたします。
-*Pasupooto ya genkin nado no kichouhin wa o-temoto ni okareru koto wo o-susume itashimasu.*
-"We recommend keeping valuables such as your passport and cash within easy reach."
+| Japanese | Meaning |
+|---|---|
+| お部屋の金庫に貴重品を保管されることをお勧めいたします。<br><small>*O-heya no kinko ni kichouhin wo hokan sareru koto wo o-susume itashimasu.*</small> | We recommend storing your valuables in the in-room safe. |
+| 貴重品はフロントにてお預かりすることも可能でございます。<br><small>*Kichouhin wa furonto nite o-azukari suru koto mo kanou de gozaimasu.*</small> | It is also possible for us to keep your valuables at the front desk. |
+| パスポートや現金などの貴重品はお手元に置かれることをお勧めいたします。<br><small>*Pasupooto ya genkin nado no kichouhin wa o-temoto ni okareru koto wo o-susume itashimasu.*</small> | We recommend keeping valuables such as your passport and cash within easy reach. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 鍵 (kagi)
 In a hospitality context, the key handover is a notable carefully choreographed moments in check-in. Present it with both hands, make brief eye contact, and pair the gesture with こちらがお部屋の鍵でございます。どうぞ。 If the key has any quirks, such as a ryokan-style mechanism that guests may not immediately recognize, fifteen seconds should be taken to show how it works before the guest is sent to the room. At check-out, the return is just as important: 鍵のご返却をお願いいたします should be delivered with equal courtesy, not like a transaction being closed
 ## Example Sentences
 
-**1.** こちらがお部屋の鍵でございます。どうぞ。
-*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*
-"Here is the room key. Please."
+こちらがお部屋の鍵でございます。どうぞ。
+<small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small>
+Here is the room key. Please.
 
-**2.** ご出発の際は、鍵のご返却をお願いいたします。
-*Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*
-"We kindly ask that you return the key when one depart."
+ご出発の際は、鍵のご返却をお願いいたします。
+<small>*Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*</small>
+We kindly ask that you return the key when one depart.
 
-**3.** 鍵をお忘れの場合は、フロントまでお申し付けください。
-*Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*
-"If you forget your key, please let us know at the front desk."
+鍵をお忘れの場合は、フロントまでお申し付けください。
+<small>*Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*</small>
+If you forget your key, please let us know at the front desk.
 
 
 ## Related Expressions

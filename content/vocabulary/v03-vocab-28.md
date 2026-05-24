@@ -8,17 +8,17 @@ title: ルームサービス (room service)
 In a hospitality context, the ルームサービス menu is typically found in the guest room, and staff at the front desk or via telephone explain: 「ルームサービスは24時間対応でございます」 (room service is available 24 hours) or 「ルームサービスのご注文はお部屋の電話よりどうぞ」 (please order room service by calling from their room telephone). If an order is delayed, proactive communication, 「お待たせいたしまして、大変申し訳ございません」 (I sincerely apologize for the wait), is essential to maintain trust
 ## Example Sentences
 
-**1.** ルームサービスは24時間対応でございます。
-*Ruumu saabisu wa nijuuyojikan taiou de gozaimasu.*
-"Room service is available 24 hours."
+ルームサービスは24時間対応でございます。
+<small>*Ruumu saabisu wa nijuuyojikan taiou de gozaimasu.*</small>
+Room service is available 24 hours.
 
-**2.** ルームサービスのご注文は、お部屋の電話で承っております。
-*Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamaette orimasu.*
-"Room service orders are taken by the room telephone."
+ルームサービスのご注文は、お部屋の電話で承っております。
+<small>*Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamaette orimasu.*</small>
+Room service orders are taken by the room telephone.
 
-**3.** ルームサービスのメニューはデスクの上においてございます。
-*Ruumu saabisu no menyuu wa desuku no ue ni oite gozaimasu.*
-"The room service menu is on the desk."
+ルームサービスのメニューはデスクの上においてございます。
+<small>*Ruumu saabisu no menyuu wa desuku no ue ni oite gozaimasu.*</small>
+The room service menu is on the desk.
 
 
 ## Related Expressions

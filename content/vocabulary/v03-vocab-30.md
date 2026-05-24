@@ -8,17 +8,17 @@ title: 交換 (koukan)
 交換 arises most often when guests request fresh towels, when the minibar is restocked, when yukata sizes need to be changed, or when bedding is replaced between guests. The standard response to a towel replacement request is: 「タオルを交換いたします。少々お待ちください」 (I will replace the towels. Please wait a moment). For scheduled bedding changes, staff may say: 「リネンの交換は毎日午前中に行っております」 (linen replacement is carried out every morning). If a guest declines service, the response should be gracious and non-insistent
 ## Example Sentences
 
-**1.** タオルを交換いたします。少々お待ちくださいませ。
-*Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.*
-"I will replace the towels. Please wait a moment."
+タオルを交換いたします。少々お待ちくださいませ。
+<small>*Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.*</small>
+I will replace the towels. Please wait a moment.
 
-**2.** リネンの交換は毎日午前中に行っております。
-*Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.*
-"Linen replacement is carried out every morning."
+リネンの交換は毎日午前中に行っております。
+<small>*Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.*</small>
+Linen replacement is carried out every morning.
 
-**3.** ご不便をおかけして大変申し訳ございません。すぐに交換いたします。
-*Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*
-"I sincerely apologize for the inconvenience. I will replace it right away."
+ご不便をおかけして大変申し訳ございません。すぐに交換いたします。
+<small>*Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*</small>
+I sincerely apologize for the inconvenience. I will replace it right away.
 
 
 ## Related Expressions

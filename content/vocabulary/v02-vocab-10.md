@@ -8,17 +8,11 @@ title: パスポート (passport)
 The right phrase for requesting a passport is パスポートを拝見してもよろしいでしょうか. This uses 拝見, the humble form of "to look at," and frames the request as asking for permission rather than issuing a command. After viewing the document, return it immediately with a bow and a word of thanks such as ありがとうございます or 恐れ入ります. If the property requires a photocopy or scan for records, explain this clearly before proceeding: 記録のためにコピーを取らせていただきます tells the guest exactly what is happening and why
 ## Example Sentences
 
-**1.** パスポートを拝見してもよろしいでしょうか。
-*Pasupōto o haiken shite mo yoroshii deshō ka.*
-"May I see your passport?"
-
-**2.** パスポートをお返しいたします。ありがとうございました。
-*Pasupōto o o-kaeshi itashimasu. Arigatō gozaimashita.*
-"Here is your passport back. Thank you very much."
-
-**3.** 記録のためにパスポートのコピーを取らせていただきます。
-*Kiroku no tame ni pasupōto no kopī o torasete itadakimasu.*
-"We will make a copy of your passport for our records."
+| Japanese | Meaning |
+|---|---|
+| パスポートを拝見してもよろしいでしょうか。<br><small>*Pasupōto o haiken shite mo yoroshii deshō ka.*</small> | May I see your passport? |
+| パスポートをお返しいたします。ありがとうございました。<br><small>*Pasupōto o o-kaeshi itashimasu. Arigatō gozaimashita.*</small> | Here is your passport back. Thank you very much. |
+| 記録のためにパスポートのコピーを取らせていただきます。<br><small>*Kiroku no tame ni pasupōto no kopī o torasete itadakimasu.*</small> | We will make a copy of your passport for our records. |
 
 ## Related Expressions
 

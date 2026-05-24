@@ -8,17 +8,11 @@ title: 騒音 (souon)
 When a guest reports 騒音, staff should respond without dismissing or minimising the complaint, even if the source is not immediately obvious. Staff investigate promptly, acknowledge the disruption, and offer intermediate solutions, a room relocation or earplugs, while the investigation is underway. When the noise originates from another guest, directly confronting that guest on behalf of a complainant requires careful judgment and usually manager involvement. This is a situation that demands particular diplomatic skill
 ## Example Sentences
 
-**1.** 騒音についてのご不便をおかけしており、大変申し訳ございません。
-*Souon ni tsuite no go-fuben wo okake shite ori, taihen moushiwake gozaimasen.*
-"We sincerely apologise for the inconvenience caused by the noise."
-
-**2.** 騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。
-*Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.*
-"We will look into the cause of the noise: could you give us just a little time?"
-
-**3.** 騒音が続く場合は、別のお部屋へのご移動もご提案できます。
-*Souon ga tsuzuku baai wa, betsu no oheya e no go-idou mo go-teian dekimasu.*
-"If the noise continues, we can also offer to move you to a different room."
+| Japanese | Meaning |
+|---|---|
+| 騒音についてのご不便をおかけしており、大変申し訳ございません。<br><small>*Souon ni tsuite no go-fuben wo okake shite ori, taihen moushiwake gozaimasen.*</small> | We sincerely apologise for the inconvenience caused by the noise. |
+| 騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。<br><small>*Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.*</small> | We will look into the cause of the noise: could you give us just a little time? |
+| 騒音が続く場合は、別のお部屋へのご移動もご提案できます。<br><small>*Souon ga tsuzuku baai wa, betsu no oheya e no go-idou mo go-teian dekimasu.*</small> | If the noise continues, we can also offer to move you to a different room. |
 
 ## Related Expressions
 

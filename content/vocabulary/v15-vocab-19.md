@@ -9,17 +9,17 @@ Staff should not simply wait to be asked. If a guest arrives at the lobby at 11 
 
 ## Example Sentences
 
-**1.** 館内ランドリーの利用時間は午前7時から午後11時までとなっております。
-*Kannai randorii no riyou jikan wa gozen shichi-ji kara gogo juuichi-ji made to natte orimasu.*
-"The in-house laundry room is available from 7 AM to 11 PM."
+館内ランドリーの利用時間は午前7時から午後11時までとなっております。
+<small>*Kannai randorii no riyou jikan wa gozen shichi-ji kara gogo juuichi-ji made to natte orimasu.*</small>
+The in-house laundry room is available from 7 AM to 11 PM.
 
-**2.** フィットネスセンターの利用時間をご確認のうえ、お越しください。
-*Fittonesu sentaa no riyou jikan wo go-kakunin no ue, o-koshi kudasai.*
-"Please confirm the fitness centre's usage hours before visiting."
+フィットネスセンターの利用時間をご確認のうえ、お越しください。
+<small>*Fittonesu sentaa no riyou jikan wo go-kakunin no ue, o-koshi kudasai.*</small>
+Please confirm the fitness centre's usage hours before visiting.
 
-**3.** お荷物の一時保管は利用時間内でのみ承っております。
-*O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.*
-"Temporary luggage storage is available only within the designated usage hours."
+お荷物の一時保管は利用時間内でのみ承っております。
+<small>*O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.*</small>
+Temporary luggage storage is available only within the designated usage hours.
 
 
 ## Related Expressions

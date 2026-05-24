@@ -8,17 +8,17 @@ title: 入国 (nyuukoku)
 Airport hotels and transit accommodations deal with this most directly, since guests there are often mid-journey and may have complicated itineraries. Knowing where the immigration counters are, how long the process typically takes during busy periods, and what documents guests need to have ready can make a real difference for someone who just came off an 11-hour flight and feels disoriented. However, even properties far from airports should understand 入国 basics: guests sometimes arrive with questions they did not have time to ask at the border, and a confident, helpful answer at check-in sets the tone for everything that follows
 ## Example Sentences
 
-**1.** 入国の際には、必ずパスポートと入国カードをご用意ください。
-*Nyuukoku no sai ni wa, kanarazu pasupoto to nyuukoku kaado wo goyoui kudasai.*
-"Please make sure to have your passport and arrival card ready when entering the country."
+入国の際には、必ずパスポートと入国カードをご用意ください。
+<small>*Nyuukoku no sai ni wa, kanarazu pasupoto to nyuukoku kaado wo goyoui kudasai.*</small>
+Please make sure to have your passport and arrival card ready when entering the country.
 
-**2.** 入国審査を終えたお客様は、そのままホテルのシャトルバス乗り場にお進みください。
-*Nyuukoku shinsa wo oeta okyakusama wa, sono mama hoteru no shatoru basu noriba ni osusumi kudasai.*
-"Guests who have completed immigration screening, please proceed directly to the hotel shuttle bus area."
+入国審査を終えたお客様は、そのままホテルのシャトルバス乗り場にお進みください。
+<small>*Nyuukoku shinsa wo oeta okyakusama wa, sono mama hoteru no shatoru basu noriba ni osusumi kudasai.*</small>
+Guests who have completed immigration screening, please proceed directly to the hotel shuttle bus area.
 
-**3.** 入国に問題がある場合は、空港の入国管理カウンターにご相談ください。
-*Nyuukoku ni mondai ga aru baai wa, kuukou no nyuukoku kanri kauntaa ni gosodan kudasai.*
-"If you have any issues with entry, please consult the immigration management counter at the airport."
+入国に問題がある場合は、空港の入国管理カウンターにご相談ください。
+<small>*Nyuukoku ni mondai ga aru baai wa, kuukou no nyuukoku kanri kauntaa ni gosodan kudasai.*</small>
+If you have any issues with entry, please consult the immigration management counter at the airport.
 
 ## Related Expressions
 

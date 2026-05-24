@@ -8,17 +8,11 @@ title: 掃除 (souji)
 In daily hotel operations, 掃除 runs on a schedule, typically each morning after checkout or during a guest's absence, and can also be requested on demand. Staff need to be able to talk about this clearly and politely with guests, whether they are asking if the room has already been serviced or want to arrange a specific time. When combined with verbs like 行う (to carry out) or the humble いたす, the word fits naturally into formal guest-facing speech
 ## Example Sentences
 
-**1.** 毎朝、客室の掃除を丁寧に行っております。
-*Maiasa, kyakushitsu no souji wo teinei ni okonatte orimasu.*
-"We carry out careful cleaning of the guest rooms every morning."
-
-**2.** ただいま掃除中でございますので、少々お待ちいただけますでしょうか。
-*Tadaima souji-chuu de gozaimasu node, shoushou omachi itadakemasu deshou ka.*
-"We are currently cleaning, so may I ask you to wait just a moment?"
-
-**3.** 掃除のご希望のお時間がございましたら、フロントまでお申し付けください。
-*Souji no gokibou no ojikan ga gozaimashitara, furonto made omoushitsuke kudasai.*
-"If you have a preferred time for cleaning, please let us know at the front desk."
+| Japanese | Meaning |
+|---|---|
+| 毎朝、客室の掃除を丁寧に行っております。<br><small>*Maiasa, kyakushitsu no souji wo teinei ni okonatte orimasu.*</small> | We carry out careful cleaning of the guest rooms every morning. |
+| ただいま掃除中でございますので、少々お待ちいただけますでしょうか。<br><small>*Tadaima souji-chuu de gozaimasu node, shoushou omachi itadakemasu deshou ka.*</small> | We are currently cleaning, so may I ask you to wait just a moment? |
+| 掃除のご希望のお時間がございましたら、フロントまでお申し付けください。<br><small>*Souji no gokibou no ojikan ga gozaimashitara, furonto made omoushitsuke kudasai.*</small> | If you have a preferred time for cleaning, please let us know at the front desk. |
 
 ## Related Expressions
 

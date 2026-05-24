@@ -10,17 +10,17 @@ The procedure is straightforward once the steps are clear. Start by checking ava
 
 ## Example Sentences
 
-**1.** 延泊は可能でございます。
-*Enpaku wa kanō de gozaimasu.*
-"An extension of stay is possible."
+延泊は可能でございます。
+<small>*Enpaku wa kanō de gozaimasu.*</small>
+An extension of stay is possible.
 
-**2.** 延泊のご希望でございますね。ただいま空き状況をご確認いたします。
-*Enpaku no go-kibō de gozaimasu ne. Tadaima aki jōkyō wo go-kakunin itashimasu.*
-"You would like to extend the stay. I will check availability right now."
+延泊のご希望でございますね。ただいま空き状況をご確認いたします。
+<small>*Enpaku no go-kibō de gozaimasu ne. Tadaima aki jōkyō wo go-kakunin itashimasu.*</small>
+You would like to extend the stay. I will check availability right now.
 
-**3.** 大変申し訳ございませんが、明日は満室のため延泊が難しい状況でございます。
-*Taihen mōshiwake gozaimasen ga, ashita wa manseki no tame enpaku ga muzukashii jōkyō de gozaimasu.*
-"We sincerely apologize, but as we are fully booked tomorrow, extending the stay would be difficult."
+大変申し訳ございませんが、明日は満室のため延泊が難しい状況でございます。
+<small>*Taihen mōshiwake gozaimasen ga, ashita wa manseki no tame enpaku ga muzukashii jōkyō de gozaimasu.*</small>
+We sincerely apologize, but as we are fully booked tomorrow, extending the stay would be difficult.
 
 
 ## Related Expressions

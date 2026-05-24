@@ -9,17 +9,17 @@ staff use アメニティ when orienting guests to the bathroom: 「洗面所に
 
 ## Example Sentences
 
-**1.** 洗面所にはアメニティをご用意しております。
-*Senmenjo ni wa ameniti wo go-youi shite orimasu.*
-"Amenities are prepared in the washroom."
+洗面所にはアメニティをご用意しております。
+<small>*Senmenjo ni wa ameniti wo go-youi shite orimasu.*</small>
+Amenities are prepared in the washroom.
 
-**2.** ご滞在中の必要なアメニティはお申し付けください。
-*Go-taizai chuu no hitsuyou na ameniti wa o-moushitsuke kudasai.*
-"Please request any amenities you need during the stay."
+ご滞在中の必要なアメニティはお申し付けください。
+<small>*Go-taizai chuu no hitsuyou na ameniti wa o-moushitsuke kudasai.*</small>
+Please request any amenities you need during the stay.
 
-**3.** アメニティが不足している場合は、フロントにご連絡いただければすぐにお持ちします。
-*Ameniti ga fusoku shite iru baai wa, furonto ni go-renraku itadakereba sugu ni o-mochi shimasu.*
-"If amenities are insufficient, please contact the front desk and we will bring them right away."
+アメニティが不足している場合は、フロントにご連絡いただければすぐにお持ちします。
+<small>*Ameniti ga fusoku shite iru baai wa, furonto ni go-renraku itadakereba sugu ni o-mochi shimasu.*</small>
+If amenities are insufficient, please contact the front desk and we will bring them right away.
 
 
 ## Related Expressions

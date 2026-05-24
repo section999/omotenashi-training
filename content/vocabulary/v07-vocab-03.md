@@ -8,17 +8,11 @@ title: ロビー (robii)
 Operationally, the lobby serves as a hub for multiple services: concierge assistance, luggage storage coordination, waiting areas for tours and taxis, and access to the front desk. When directing guests to meet others or wait for arrangements, using ロビー as a reference point is natural and immediately understood. Phrases anchoring a rendezvous point in the lobby, such as 「1階のロビーでお待ちください」, are standard in telephone communication, wake-up call follow-ups, and tour preparation coordination
 ## Example Sentences
 
-**1.** お待ち合わせは1階のロビーでお願いいたします。
-*O-machiai wa ikkai no robii de o-negai itashimasu.*
-"For your meeting, please wait in the lobby on the first floor."
-
-**2.** ロビーにてコンシェルジュがご案内いたしますので、少々お待ちくださいませ。
-*Robii ni te konshieruju ga go-annai itashimasu node, shoushou o-machi kudasaimase.*
-"A concierge will assist you in the lobby, so please wait just a moment."
-
-**3.** タクシーはただいまロビー前にご用意しております。
-*Takushii wa tadaima robii mae ni go-youi shite orimasu.*
-"Your taxi is currently ready in front of the lobby."
+| Japanese | Meaning |
+|---|---|
+| お待ち合わせは1階のロビーでお願いいたします。<br><small>*O-machiai wa ikkai no robii de o-negai itashimasu.*</small> | For your meeting, please wait in the lobby on the first floor. |
+| ロビーにてコンシェルジュがご案内いたしますので、少々お待ちくださいませ。<br><small>*Robii ni te konshieruju ga go-annai itashimasu node, shoushou o-machi kudasaimase.*</small> | A concierge will assist you in the lobby, so please wait just a moment. |
+| タクシーはただいまロビー前にご用意しております。<br><small>*Takushii wa tadaima robii mae ni go-youi shite orimasu.*</small> | Your taxi is currently ready in front of the lobby. |
 
 ## Related Expressions
 

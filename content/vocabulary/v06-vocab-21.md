@@ -8,17 +8,11 @@ title: 追加 (tsuika)
 Staff encounter 追加 most often at the front desk and through housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an add-on carries a charge, staff say so clearly at the time of the request: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). Proactive communication at this moment prevents the kind of billing confusion that creates complaints at checkout
 ## Example Sentences
 
-**1.** 追加でタオルをお持ちいたします。少々お待ちください。
-*Tsuika de taoru wo o-mochi itashimasu. Shoushou o-machi kudasai.*
-"I will bring additional towels. Please wait just a moment."
-
-**2.** ご朝食に一品追加いただく場合は、別途料金が発生いたします。
-*Go-choushoku ni ippin tsuika itadaku baai wa, betto ryoukin ga hassei itashimasu.*
-"If you add an item to your breakfast, a separate charge will apply."
-
-**3.** 枕の追加が必要でしたら、いつでもフロントまでお申しつけください。
-*Makura no tsuika ga hitsuyou deshitara, itsudemo furonto made o-moushitsuke kudasai.*
-"If you need an additional pillow, please let us know at the front desk at any time."
+| Japanese | Meaning |
+|---|---|
+| 追加でタオルをお持ちいたします。少々お待ちください。<br><small>*Tsuika de taoru wo o-mochi itashimasu. Shoushou o-machi kudasai.*</small> | I will bring additional towels. Please wait just a moment. |
+| ご朝食に一品追加いただく場合は、別途料金が発生いたします。<br><small>*Go-choushoku ni ippin tsuika itadaku baai wa, betto ryoukin ga hassei itashimasu.*</small> | If you add an item to your breakfast, a separate charge will apply. |
+| 枕の追加が必要でしたら、いつでもフロントまでお申しつけください。<br><small>*Makura no tsuika ga hitsuyou deshitara, itsudemo furonto made o-moushitsuke kudasai.*</small> | If you need an additional pillow, please let us know at the front desk at any time. |
 
 ## Related Expressions
 

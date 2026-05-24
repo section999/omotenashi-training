@@ -8,17 +8,17 @@ title: 税関 (zeikan)
 The role of hospitality staff is not to interpret customs law for guests: that is not their job and it is not safe to attempt it. What staff can do is help them understand the process clearly and point them toward official, multilingual customs information when they need it. A common error is to wonder how much they need to know about 税関 specifics, and the honest answer is: enough to be helpful without overstepping. Staff should know the general duty-free thresholds, know where to find the customs declaration form, and know how to say "please ask the customs officer" with confidence rather than guessing
 ## Example Sentences
 
-**1.** 日本に入国する際は、税関申告書のご記入をお願いします。
-*Nihon ni nyuukoku suru sai wa, zeikan shinkokusho no gokinyuu wo onegai shimasu.*
-"When entering Japan, please fill in the customs declaration form."
+日本に入国する際は、税関申告書のご記入をお願いします。
+<small>*Nihon ni nyuukoku suru sai wa, zeikan shinkokusho no gokinyuu wo onegai shimasu.*</small>
+When entering Japan, please fill in the customs declaration form.
 
-**2.** 税関で申告が必要な品物をお持ちの場合は、正直にご申告ください。
-*Zeikan de shinkoku ga hitsuyou na shinamono wo omochi no baai wa, shoujiki ni goshinoku kudasai.*
-"If one is carrying items that must be declared at customs, please declare them honestly."
+税関で申告が必要な品物をお持ちの場合は、正直にご申告ください。
+<small>*Zeikan de shinkoku ga hitsuyou na shinamono wo omochi no baai wa, shoujiki ni goshinoku kudasai.*</small>
+If one is carrying items that must be declared at customs, please declare them honestly.
 
-**3.** お土産の数量が多い場合、税関で課税される可能性がございますのでご注意ください。
-*Omiyage no suuryou ga ooi baai, zeikan de kazei sareru kanousei ga gozaimasu no de gotyuui kudasai.*
-"Please be aware that if one has a large quantity of souvenirs, they may be subject to customs duties."
+お土産の数量が多い場合、税関で課税される可能性がございますのでご注意ください。
+<small>*Omiyage no suuryou ga ooi baai, zeikan de kazei sareru kanousei ga gozaimasu no de gotyuui kudasai.*</small>
+Please be aware that if one has a large quantity of souvenirs, they may be subject to customs duties.
 
 ## Related Expressions
 

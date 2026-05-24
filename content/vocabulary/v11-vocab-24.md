@@ -8,17 +8,17 @@ title: 緊急連絡先 (kinkyuu renrakusaki)
 A common error is to underestimate how much the phrasing matters here. The request should feel routine and reassuring, not alarming. ご緊急の場合のご連絡先をお教えいただけますか (may I have their emergency contact information?) is gentler than asking in a way that makes the guest wonder why staff need it. The information should be stored securely, accessible to front desk and security staff, and updated at every stay since contact details change more often than people expect
 ## Example Sentences
 
-**1.** チェックインの際に、緊急連絡先をお教えいただけますか。
-*Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*
-"When checking in, could you provide us with your emergency contact information?"
+チェックインの際に、緊急連絡先をお教えいただけますか。
+<small>*Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*</small>
+When checking in, could you provide us with your emergency contact information?
 
-**2.** 緊急連絡先はご家族の番号でよろしいでしょうか。
-*Kinkyuu renrakusaki wa go-kazoku no bangou de yoroshii deshou ka.*
-"Would a family member's number be appropriate as your emergency contact?"
+緊急連絡先はご家族の番号でよろしいでしょうか。
+<small>*Kinkyuu renrakusaki wa go-kazoku no bangou de yoroshii deshou ka.*</small>
+Would a family member's number be appropriate as your emergency contact?
 
-**3.** 万が一の際のため、緊急連絡先をお控えいただいております。
-*Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.*
-"We keep your emergency contact information on file in case of any unforeseen situation."
+万が一の際のため、緊急連絡先をお控えいただいております。
+<small>*Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.*</small>
+We keep your emergency contact information on file in case of any unforeseen situation.
 
 
 ## Related Expressions

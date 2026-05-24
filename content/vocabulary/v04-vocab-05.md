@@ -8,17 +8,11 @@ title: ゴミ箱 (gomibako)
 When guests ask where to throw something away, staff should point them to the nearest ゴミ箱 clearly and politely, using phrases like こちらでございます or バスルームにもございます. In hotels with recycling policies, it may also be necessary to explain which bin is for which waste type, so knowing the property's rules is part of the job. Knowing the number and location of ゴミ箱 in each room type is the kind of specific detail that separates a well-prepared housekeeper from one who is going through the motions
 ## Example Sentences
 
-**1.** ゴミ箱はデスクの横にございます。
-*Gomibako wa desuku no yoko ni gozaimasu.*
-"The trash can is next to the desk."
-
-**2.** 清掃の際、全てのゴミ箱を空にして、新しいビニール袋をご用意いたします。
-*Seisou no sai, subete no gomibako wo kara ni shite, atarashii biniiru bukuro wo goyo'i itashimasu.*
-"During cleaning, we empty all the trash cans and provide fresh liners."
-
-**3.** ゴミ箱はこちらでございます。バスルームにもご用意しております。
-*Gomibako wa kochira de gozaimasu. Basurumu ni mo goyo'i shite orimasu.*
-"The trash can is here. There is also one provided in the bathroom."
+| Japanese | Meaning |
+|---|---|
+| ゴミ箱はデスクの横にございます。<br><small>*Gomibako wa desuku no yoko ni gozaimasu.*</small> | The trash can is next to the desk. |
+| 清掃の際、全てのゴミ箱を空にして、新しいビニール袋をご用意いたします。<br><small>*Seisou no sai, subete no gomibako wo kara ni shite, atarashii biniiru bukuro wo goyo'i itashimasu.*</small> | During cleaning, we empty all the trash cans and provide fresh liners. |
+| ゴミ箱はこちらでございます。バスルームにもご用意しております。<br><small>*Gomibako wa kochira de gozaimasu. Basurumu ni mo goyo'i shite orimasu.*</small> | The trash can is here. There is also one provided in the bathroom. |
 
 ## Related Expressions
 

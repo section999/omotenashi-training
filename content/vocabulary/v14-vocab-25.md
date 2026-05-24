@@ -9,17 +9,11 @@ Hotel and concierge staff regularly field 料金表-related questions from guest
 
 ## Example Sentences
 
-**1.** バスの料金表を確認してから乗りました。
-*Basu no ryoukinhyou wo kakunin shite kara norimashita.*
-"I checked the bus price list before boarding."
-
-**2.** タクシーの料金表はこちらに掲示しております。ご参考になさってください。
-*Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.*
-"The taxi fare chart is posted here. Please use it as a reference."
-
-**3.** 観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。
-*Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*
-"Admission fee information for tourist facilities is listed in the pamphlet available at the front desk."
+| Japanese | Meaning |
+|---|---|
+| バスの料金表を確認してから乗りました。<br><small>*Basu no ryoukinhyou wo kakunin shite kara norimashita.*</small> | I checked the bus price list before boarding. |
+| タクシーの料金表はこちらに掲示しております。ご参考になさってください。<br><small>*Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.*</small> | The taxi fare chart is posted here. Please use it as a reference. |
+| 観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。<br><small>*Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*</small> | Admission fee information for tourist facilities is listed in the pamphlet available at the front desk. |
 
 ## Related Expressions
 

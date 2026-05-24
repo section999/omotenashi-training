@@ -9,17 +9,11 @@ When directing guests to 地下, specifying the elevator button or stair access 
 
 ## Example Sentences
 
-**1.** 駐車場は地下にございます。
-*Chuushajou wa chika ni gozaimasu.*
-"The parking lot is in the basement."
-
-**2.** フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。
-*Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.*
-"The fitness center is on basement level 1. Please press the B1 button in the elevator."
-
-**3.** ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。
-*Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.*
-"The laundry room is in the basement. If you prefer the stairs, please use these."
+| Japanese | Meaning |
+|---|---|
+| 駐車場は地下にございます。<br><small>*Chuushajou wa chika ni gozaimasu.*</small> | The parking lot is in the basement. |
+| フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。<br><small>*Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.*</small> | The fitness center is on basement level 1. Please press the B1 button in the elevator. |
+| ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。<br><small>*Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.*</small> | The laundry room is in the basement. If you prefer the stairs, please use these. |
 
 ## Related Expressions
 

@@ -12,17 +12,11 @@ The phrase is always in the past tense (*mashita*), which conveys immediate comp
 
 ## Example Sentences
 
-**1.** かしこまりました。ただいまお持ちいたします。
-*Kashikomarimashita. Tadaima o-mochi itashimasu.*
-"Certainly. I will bring it to you right now."
-
-**2.** かしこまりました。ご要望を承りました。
-*Kashikomarimashita. Go-yōbō wo uketamawarimashita.*
-"Certainly. I have received your request."
-
-**3.** かしこまりました。お部屋まで直ちにお届けいたします。
-*Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.*
-"Certainly. I will have it delivered to the room immediately."
+| Japanese | Meaning |
+|---|---|
+| かしこまりました。ただいまお持ちいたします。<br><small>*Kashikomarimashita. Tadaima o-mochi itashimasu.*</small> | Certainly. I will bring it to you right now. |
+| かしこまりました。ご要望を承りました。<br><small>*Kashikomarimashita. Go-yōbō wo uketamawarimashita.*</small> | Certainly. I have received your request. |
+| かしこまりました。お部屋まで直ちにお届けいたします。<br><small>*Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.*</small> | Certainly. I will have it delivered to the room immediately. |
 
 ## Related Expressions
 

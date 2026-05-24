@@ -8,17 +8,11 @@ title: おかわり (okawari)
 おかわり applies across all kinds of dining situations: coffee after breakfast, water throughout a meal, rice refills at Japanese-style dinners, beverage top-ups in the lounge. The wording matters as much as the timing. お飲み物のおかわりはいかがでしょうか is warm and graceful, an invitation rather than an interruption. おかわりしますか is grammatically fine but lacks that softness. In a hospitality context, the polite offer is what the situation calls for. When a guest declines, staff should receive it calmly with かしこまりました or 承知いたしました and step back without making them feel they have caused any inconvenience
 ## Example Sentences
 
-**1.** お飲み物のおかわりはいかがでしょうか。
-*O-nomimono no okawari wa ikaga deshou ka.*
-"Would you like a refill for your drink?"
-
-**2.** コーヒーのおかわりをすぐにお持ちいたします。
-*Koohii no okawari wo sugu ni o-mochi itashimasu.*
-"I will bring a coffee refill right away."
-
-**3.** ご飯のおかわりはご自由にどうぞ。バイキングコーナーにてご用意しております。
-*Go-han no okawari wa go-jiyuu ni douzo. Baikingu koonaa nite go-youi shite orimasu.*
-"Please feel free to help yourself to more rice: it is available at the buffet corner."
+| Japanese | Meaning |
+|---|---|
+| お飲み物のおかわりはいかがでしょうか。<br><small>*O-nomimono no okawari wa ikaga deshou ka.*</small> | Would you like a refill for your drink? |
+| コーヒーのおかわりをすぐにお持ちいたします。<br><small>*Koohii no okawari wo sugu ni o-mochi itashimasu.*</small> | I will bring a coffee refill right away. |
+| ご飯のおかわりはご自由にどうぞ。バイキングコーナーにてご用意しております。<br><small>*Go-han no okawari wa go-jiyuu ni douzo. Baikingu koonaa nite go-youi shite orimasu.*</small> | Please feel free to help yourself to more rice: it is available at the buffet corner. |
 
 ## Related Expressions
 

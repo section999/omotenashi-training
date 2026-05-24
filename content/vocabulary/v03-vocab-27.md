@@ -9,17 +9,17 @@ title: 清掃係 (seisou kakari)
 When informing a guest that housekeeping will visit their room, the phrase 「清掃係がまいります」 is the correct form to use. For delivering items a guest has requested, 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) covers the situation fully. If the guest needs to be present during the cleaning visit, staff should always ask 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for one?) rather than deciding on a time without consulting them. How staff speak about the 清掃係 to guests also signals how the property values its team, respectful, professional language reflects well on the whole organization
 ## Example Sentences
 
-**1.** 清掃係がまいりますので、少々お待ちくださいませ。
-*Seisou kakari ga mairimasu node, shoushou o-machi kudasaimase.*
-"The cleaning staff will come shortly, so please wait a moment."
+清掃係がまいりますので、少々お待ちくださいませ。
+<small>*Seisou kakari ga mairimasu node, shoushou o-machi kudasaimase.*</small>
+The cleaning staff will come shortly, so please wait a moment.
 
-**2.** ご要望のタオルは清掃係がお届けいたします。
-*Go-youbou no taoru wa seisou kakari ga o-todoke itashimasu.*
-"The towels you requested will be delivered by the cleaning staff."
+ご要望のタオルは清掃係がお届けいたします。
+<small>*Go-youbou no taoru wa seisou kakari ga o-todoke itashimasu.*</small>
+The towels you requested will be delivered by the cleaning staff.
 
-**3.** 清掃係に関するご要望は、フロントにお申し付けいただければ手配いたします。
-*Seisou kakari ni kansuru go-youbou wa, furonto ni o-moushitsuke itadakereba tehai itashimasu.*
-"For any requests regarding cleaning staff, please let the front desk know and we will arrange it."
+清掃係に関するご要望は、フロントにお申し付けいただければ手配いたします。
+<small>*Seisou kakari ni kansuru go-youbou wa, furonto ni o-moushitsuke itadakereba tehai itashimasu.*</small>
+For any requests regarding cleaning staff, please let the front desk know and we will arrange it.
 
 
 ## Related Expressions

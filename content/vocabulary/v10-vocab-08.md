@@ -8,17 +8,11 @@ title: 内訳 (uchiwake)
 The 内訳 appears on the 精算書 (settlement statement) or 明細書 (itemized statement) at checkout. Restaurant staff may offer one when a guest questions a charge, or proactively when the bill includes several components. Staff should be able to walk through each line item calmly and explain any unfamiliar charges. If a discrepancy turns up during the 内訳 review, it should be resolved before finalizing payment. Correcting things after the transaction is closed is more difficult.
 ## Example Sentences
 
-**1.** ご料金の内訳はこちらでございます。ご確認をお願いいたします。
-*Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.*
-"Here is the itemized breakdown of your charges. Please review it at your convenience."
-
-**2.** 内訳をご覧いただくと、お食事代とルームサービス代が別々に記載されております。
-*Uchiwake wo go-ran itadaku to, o-shokuji dai to ruumu saabisu dai ga betsubetsu ni kisai sarete orimasu.*
-"As one can see from the breakdown, the dining charges and room service fees are listed separately."
-
-**3.** ご不明な点がございましたら、内訳についてご説明いたします。
-*Go-fumeina ten ga gozaimashitara, uchiwake ni tsuite go-setsumei itashimasu.*
-"If there is anything unclear, I am happy to explain any item in the breakdown."
+| Japanese | Meaning |
+|---|---|
+| ご料金の内訳はこちらでございます。ご確認をお願いいたします。<br><small>*Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.*</small> | Here is the itemized breakdown of your charges. Please review it at your convenience. |
+| 内訳をご覧いただくと、お食事代とルームサービス代が別々に記載されております。<br><small>*Uchiwake wo go-ran itadaku to, o-shokuji dai to ruumu saabisu dai ga betsubetsu ni kisai sarete orimasu.*</small> | As one can see from the breakdown, the dining charges and room service fees are listed separately. |
+| ご不明な点がございましたら、内訳についてご説明いたします。<br><small>*Go-fumeina ten ga gozaimashitara, uchiwake ni tsuite go-setsumei itashimasu.*</small> | If there is anything unclear, I am happy to explain any item in the breakdown. |
 
 ## Related Expressions
 

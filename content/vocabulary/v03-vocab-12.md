@@ -8,17 +8,17 @@ title: シーツ (sheets)
 Guests on extended stays may request シーツ交換 mid-stay, and when they do, it should be handled immediately using シーツを交換いたします. Some eco-conscious or boutique properties now offer guests the option to skip daily sheet changes as part of a sustainability programme. If their property has that policy, staff should be ready to explain it clearly; guests who ask about their sheets should receive a direct, honest answer
 ## Example Sentences
 
-**1.** シーツを清潔なものにお取り替えいたします。少々お時間をいただけますでしょうか。
-*Shiitsu wo seiketsu na mono ni o-torikae itashimasu. Shoushou o-jikan wo itadakemasu deshou ka?*
-"We will change your sheets to fresh ones. May we have just a moment?"
+シーツを清潔なものにお取り替えいたします。少々お時間をいただけますでしょうか。
+<small>*Shiitsu wo seiketsu na mono ni o-torikae itashimasu. Shoushou o-jikan wo itadakemasu deshou ka?*</small>
+We will change your sheets to fresh ones. May we have just a moment?
 
-**2.** ご希望でしたら、毎日シーツを交換することも可能でございます。
-*Go-kibou deshitara, mainichi shiitsu wo koukan suru koto mo kanou de gozaimasu.*
-"If you wish, we can change your sheets every day."
+ご希望でしたら、毎日シーツを交換することも可能でございます。
+<small>*Go-kibou deshitara, mainichi shiitsu wo koukan suru koto mo kanou de gozaimasu.*</small>
+If you wish, we can change your sheets every day.
 
-**3.** ただいまシーツの交換が完了いたしました。ご不便をおかけし、大変申し訳ございませんでした。
-*Tadaima shiitsu no koukan ga kanryou itashimashita. Go-fuben wo o-kake shi, taihen moushiwake gozaimasen deshita.*
-"We have now completed the sheet change. We sincerely apologise for any inconvenience caused."
+ただいまシーツの交換が完了いたしました。ご不便をおかけし、大変申し訳ございませんでした。
+<small>*Tadaima shiitsu no koukan ga kanryou itashimashita. Go-fuben wo o-kake shi, taihen moushiwake gozaimasen deshita.*</small>
+We have now completed the sheet change. We sincerely apologise for any inconvenience caused.
 
 
 ## Related Expressions

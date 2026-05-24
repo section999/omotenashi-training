@@ -12,17 +12,11 @@ A common error is rushing this phrase when things get busy, or dropping it entir
 
 ## Example Sentences
 
-**1.** いってらっしゃいませ。お気をつけて。
-*Itterasshai mase. O-ki wo tsukete.*
-"Please go safely and come back well. Take care."
-
-**2.** 本日はご利用ありがとうございました。お気をつけてお帰りください。
-*Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.*
-"Thank you for visiting us today. Please take care on your way home."
-
-**3.** 足元にお気をつけください。
-*Ashimoto ni o-ki wo tsukete kudasai.*
-"Please watch your step." (Specific application for stairs or uneven surfaces)
+| Japanese | Meaning |
+|---|---|
+| いってらっしゃいませ。お気をつけて。<br><small>*Itterasshai mase. O-ki wo tsukete.*</small> | Please go safely and come back well. Take care. |
+| 本日はご利用ありがとうございました。お気をつけてお帰りください。<br><small>*Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.*</small> | Thank you for visiting us today. Please take care on your way home. |
+| 足元にお気をつけください。<br><small>*Ashimoto ni o-ki wo tsukete kudasai.*</small> | Please watch your step. |
 
 ## Related Expressions
 

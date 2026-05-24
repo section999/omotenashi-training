@@ -10,17 +10,17 @@ When a guest asks about 延長, the front desk process has three steps that must
 
 ## Example Sentences
 
-**1.** 滞在を1泊延長したいのですが、可能でしょうか。
-*Taizai wo ippaku enchou shitai no desu ga, kanou deshou ka.*
-"I would like to extend my stay by one night: is that possible?"
+滞在を1泊延長したいのですが、可能でしょうか。
+<small>*Taizai wo ippaku enchou shitai no desu ga, kanou deshou ka.*</small>
+I would like to extend my stay by one night: is that possible?
 
-**2.** ご延長の件、ただいまシステムで確認いたします。少々お待ちくださいませ。
-*Go-enchou no ken, tadaima shisutemu de kakunin itashimasu. Shoushou o-machi kudasaimase.*
-"Regarding your request to extend the stay, I am checking the system now. Please wait just a moment."
+ご延長の件、ただいまシステムで確認いたします。少々お待ちくださいませ。
+<small>*Go-enchou no ken, tadaima shisutemu de kakunin itashimasu. Shoushou o-machi kudasaimase.*</small>
+Regarding your request to extend the stay, I am checking the system now. Please wait just a moment.
 
-**3.** 本日も同じお部屋にてご延長が可能でございます。追加料金は1泊〜円でございます。
-*Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku〜en de gozaimasu.*
-"We are able to extend the stay in the same room tonight. The additional charge is [amount] yen per night."
+本日も同じお部屋にてご延長が可能でございます。追加料金は1泊〜円でございます。
+<small>*Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku〜en de gozaimasu.*</small>
+We are able to extend the stay in the same room tonight. The additional charge is [amount] yen per night.
 
 
 ## Related Expressions

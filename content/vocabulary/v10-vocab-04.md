@@ -8,17 +8,11 @@ title: 前払い (maebarai)
 前払い is processed at booking (online or by phone) or by a set deadline before check-in. Front desk staff must verify on arrival that the 前払い has been received and recorded before granting room access. When a prepayment has not arrived by the deadline, proactively calling the guest to resolve it is the professional expectation. Failing to follow up risks the reservation falling through.
 ## Example Sentences
 
-**1.** こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。
-*Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*
-"This plan requires prepayment. Please complete payment within five days of confirming your reservation."
-
-**2.** 前払いが確認できましたので、ご予約が正式に確定いたしました。
-*Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.*
-"We have confirmed your prepayment, so your reservation is now officially secured."
-
-**3.** 前払いをご希望のお客様には、お得な割引料金をご用意しております。
-*Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.*
-"For guests who wish to prepay, we offer a special discounted rate."
+| Japanese | Meaning |
+|---|---|
+| こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。<br><small>*Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*</small> | This plan requires prepayment. Please complete payment within five days of confirming your reservation. |
+| 前払いが確認できましたので、ご予約が正式に確定いたしました。<br><small>*Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.*</small> | We have confirmed your prepayment, so your reservation is now officially secured. |
+| 前払いをご希望のお客様には、お得な割引料金をご用意しております。<br><small>*Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.*</small> | For guests who wish to prepay, we offer a special discounted rate. |
 
 ## Related Expressions
 

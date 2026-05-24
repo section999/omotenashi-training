@@ -12,17 +12,11 @@ For hospitality professionals, *irasshaimase* is more than a scripted phrase. It
 
 ## Example Sentences
 
-**1.** いらっしゃいませ。本日はお越しいただきありがとうございます。
-*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*
-"Welcome. Thank you so much for visiting us today."
-
-**2.** いらっしゃいませ。ご予約はいただいておりますでしょうか。
-*Irasshaimase. Go-yoyaku wa itadaite orimasu deshō ka.*
-"Welcome. Do you have a reservation with us?"
-
-**3.** いらっしゃいませ。お荷物をお持ちいたします。
-*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*
-"Welcome. Allow me to carry your luggage."
+| Japanese | Meaning |
+|---|---|
+| いらっしゃいませ。本日はお越しいただきありがとうございます。<br><small>*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*</small> | Welcome. Thank you so much for visiting us today. |
+| いらっしゃいませ。ご予約はいただいておりますでしょうか。<br><small>*Irasshaimase. Go-yoyaku wa itadaite orimasu deshō ka.*</small> | Welcome. Do you have a reservation with us? |
+| いらっしゃいませ。お荷物をお持ちいたします。<br><small>*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*</small> | Welcome. Allow me to carry your luggage. |
 
 ## Related Expressions
 

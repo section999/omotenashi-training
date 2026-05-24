@@ -9,17 +9,17 @@ title: 非常ベル (hijou beru)
 Staff training on the 非常ベル is based on one core principle: treat every activation as real until confirmed otherwise. The standard response involves notifying the duty manager, activating the public address system with evacuation instructions, deploying staff to assigned evacuation posts, and accounting for every guest, including those who may be asleep, have hearing impairments, or are in the bath and may not have heard the alarm. It also means logging every activation, whether genuine or a false alarm, and reporting repeated false activations to the fire authorities for inspection. One detail that is often overlooked: guests should be shown the locations of manual call points (手動式発信機) at check-in, so they know how to trigger the 非常ベル themselves if they discover an emergency before a smoke sensor does
 ## Example Sentences
 
-**1.** 非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。
-*Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*
-"When the emergency bell sounds, please leave your belongings and evacuate promptly."
+非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。
+<small>*Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*</small>
+When the emergency bell sounds, please leave your belongings and evacuate promptly.
 
-**2.** 非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。
-*Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*
-"Even in the event of a false alarm, staff will immediately conduct a safety check."
+非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。
+<small>*Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*</small>
+Even in the event of a false alarm, staff will immediately conduct a safety check.
 
-**3.** 各フロアの非常ベルの位置は、避難経路図でご確認いただけます。
-*Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*
-"The locations of emergency bells on each floor can be confirmed on the evacuation route map."
+各フロアの非常ベルの位置は、避難経路図でご確認いただけます。
+<small>*Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*</small>
+The locations of emergency bells on each floor can be confirmed on the evacuation route map.
 
 
 ## Related Expressions

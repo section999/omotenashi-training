@@ -8,17 +8,11 @@ title: 忘れ物 (wasuremono)
 All items found in guest rooms after checkout must be logged immediately with a description, the room number, the date found, and the staff member's name. Items go into a designated 忘れ物保管場所 (lost-item storage area) at the front desk or housekeeping station. If the guest has already departed, staff are expected to make reasonable contact attempts, with perishable items or medications given highest priority. Mailing lost items at the hotel's expense is considered standard practice at premium establishments
 ## Example Sentences
 
-**1.** お部屋に忘れ物がございましたので、お手元にお届けいたします。
-*Oheya ni wasuremono ga gozaimashita no de, o-temoto ni o-todoke itashimasu.*
-"We found a forgotten item in the room and will bring it to you."
-
-**2.** 忘れ物はフロントにて保管しておりますので、お気軽にお問い合わせください。
-*Wasuremono wa furonto nite hokan shite orimasu no de, o-ki-garu ni o-toiawase kudasai.*
-"Forgotten items are kept at the front desk, so please feel free to enquire."
-
-**3.** チェックアウト後に忘れ物がございましたら、ご郵送することも可能でございます。
-*Chekkuauto go ni wasuremono ga gozaimashitara, go-yusou suru koto mo kanou de gozaimasu.*
-"If you have left something behind after checkout, we are also able to send it to you by post."
+| Japanese | Meaning |
+|---|---|
+| お部屋に忘れ物がございましたので、お手元にお届けいたします。<br><small>*Oheya ni wasuremono ga gozaimashita no de, o-temoto ni o-todoke itashimasu.*</small> | We found a forgotten item in the room and will bring it to you. |
+| 忘れ物はフロントにて保管しておりますので、お気軽にお問い合わせください。<br><small>*Wasuremono wa furonto nite hokan shite orimasu no de, o-ki-garu ni o-toiawase kudasai.*</small> | Forgotten items are kept at the front desk, so please feel free to enquire. |
+| チェックアウト後に忘れ物がございましたら、ご郵送することも可能でございます。<br><small>*Chekkuauto go ni wasuremono ga gozaimashitara, go-yusou suru koto mo kanou de gozaimasu.*</small> | If you have left something behind after checkout, we are also able to send it to you by post. |
 
 ## Related Expressions
 

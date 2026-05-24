@@ -8,17 +8,11 @@ title: 紅茶 (koucha)
 When offering 紅茶 to a guest, staff should present accompaniment choices clearly: whether milk (ミルク), lemon (レモン), or honey (はちみつ) is available, and whether the temperature can be adjusted. For guests in the afternoon tea lounge, explaining the recommended steeping time or the origin of a particular leaf adds a storytelling dimension to the service. Proactively refilling the hot water pot so the guest can brew a second cup without asking is a small but meaningful gesture of attentiveness
 ## Example Sentences
 
-**1.** 紅茶もご用意できますが、いかがでしょうか。
-*Koucha mo go-youi dekimasu ga, ikaga deshou ka.*
-"We can also prepare black tea: would you like some?"
-
-**2.** 紅茶はダージリンとアールグレイをご用意しております。
-*Koucha wa Daajirin to Aarugurai wo go-youi shite orimasu.*
-"For black tea, we have Darjeeling and Earl Grey available."
-
-**3.** ミルクとレモン、どちらをお付けしましょうか。
-*Miruku to remon, dochira wo o-tsuke shimashou ka.*
-"Shall I bring milk or lemon with that?"
+| Japanese | Meaning |
+|---|---|
+| 紅茶もご用意できますが、いかがでしょうか。<br><small>*Koucha mo go-youi dekimasu ga, ikaga deshou ka.*</small> | We can also prepare black tea: would you like some? |
+| 紅茶はダージリンとアールグレイをご用意しております。<br><small>*Koucha wa Daajirin to Aarugurai wo go-youi shite orimasu.*</small> | For black tea, we have Darjeeling and Earl Grey available. |
+| ミルクとレモン、どちらをお付けしましょうか。<br><small>*Miruku to remon, dochira wo o-tsuke shimashou ka.*</small> | Shall I bring milk or lemon with that? |
 
 ## Related Expressions
 

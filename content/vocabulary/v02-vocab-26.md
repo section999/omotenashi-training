@@ -8,17 +8,17 @@ title: ルームキー (room key)
 Beyond the initial handover, ルームキー frequently comes up in other service scenarios: a guest locking themselves out (ルームキーをお部屋に忘れてしまいました), requesting a duplicate (予備のルームキーをいただけますか), or reporting a lost key (ルームキーを紛失してしまいました). Staff must handle each scenario calmly, verifying the guest's identity before issuing a replacement to ensure security. Upon check-out, the return of the ルームキー marks the formal conclusion of the guest's stay and should be acknowledged warmly
 ## Example Sentences
 
-**1.** こちらがルームキーでございます。どうぞ。
-*Kochira ga rūmu kī de gozaimasu. Dōzo.*
-"Here is the room key. Please."
+こちらがルームキーでございます。どうぞ。
+<small>*Kochira ga rūmu kī de gozaimasu. Dōzo.*</small>
+Here is the room key. Please.
 
-**2.** ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。
-*Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.*
-"If you have left the room key in the room, please let us know at the front desk."
+ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。
+<small>*Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.*</small>
+If you have left the room key in the room, please let us know at the front desk.
 
-**3.** チェックアウトの際にルームキーのご返却をお願いいたします。
-*Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.*
-"We kindly ask that you return the room key at check-out."
+チェックアウトの際にルームキーのご返却をお願いいたします。
+<small>*Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.*</small>
+We kindly ask that you return the room key at check-out.
 
 
 ## Related Expressions

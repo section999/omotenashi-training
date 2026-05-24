@@ -8,17 +8,17 @@ title: 承認 (shounin)
 In a hospitality context, 承認 is most commonly used in checkout and billing situations: a large refund requires 承認, a significant discount requires 承認, and processing a room charge to a corporate account may also require 承認 from the accounts department. Staff should communicate these requirements smoothly -- 少々お時間をいただきますが、上司の承認が必要でございます -- so the guest understands the brief delay. In hotel PMS (property management systems), 承認 is often a trackable action attached to a specific staff ID
 ## Example Sentences
 
-**1.** こちらの返金には上司の承認が必要でございます。
-*Kochira no henkin ni wa joushi no shounin ga hitsuyou de gozaimasu.*
-"A supervisor's approval is required for this refund."
+こちらの返金には上司の承認が必要でございます。
+<small>*Kochira no henkin ni wa joushi no shounin ga hitsuyou de gozaimasu.*</small>
+A supervisor's approval is required for this refund.
 
-**2.** 承認が下りましたら、すぐにご対応いたします。
-*Shounin ga orimashitara, sugu ni go-taiou itashimasu.*
-"As soon as approval is granted, we will assist you right away."
+承認が下りましたら、すぐにご対応いたします。
+<small>*Shounin ga orimashitara, sugu ni go-taiou itashimasu.*</small>
+As soon as approval is granted, we will assist you right away.
 
-**3.** 割引のご適用には責任者の承認をいただいております。
-*Waribiki no go-tekiyou ni wa sekininsha no shounin o itadaite orimasu.*
-"Applying a discount requires approval from a person in charge."
+割引のご適用には責任者の承認をいただいております。
+<small>*Waribiki no go-tekiyou ni wa sekininsha no shounin o itadaite orimasu.*</small>
+Applying a discount requires approval from a person in charge.
 
 
 ## Related Expressions

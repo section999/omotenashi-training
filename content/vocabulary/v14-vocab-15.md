@@ -8,17 +8,17 @@ title: ツアー (tsuaa)
 Concierge staff need to be fluent in describing different ツアー types. The key distinctions are グループツアー versus プライベートツアー, and 日帰りツアー (day-trip) versus 宿泊ツアー (overnight). When a guest shows interest, a phrase like 「ご希望に合ったツアーをご提案いたします」 goes a long way. Knowing which operators have strong reputations for punctuality and English-speaking support distinguishes average concierge advice from advice guests trust and act on
 ## Example Sentences
 
-**1.** 京都の観光ツアーに参加しました。
-*Kyouto no kankoukyaku tsuaa ni sanka shimashita.*
-"I joined a sightseeing tour in Kyoto."
+京都の観光ツアーに参加しました。
+<small>*Kyouto no kankoukyaku tsuaa ni sanka shimashita.*</small>
+I joined a sightseeing tour in Kyoto.
 
-**2.** 日帰りツアーでは奈良の鹿園もご覧いただけます。
-*Higaeri tsuaa de wa Nara no shikien mo goran itadakemasu.*
-"On the day-trip tour, one can also see the deer park in Nara."
+日帰りツアーでは奈良の鹿園もご覧いただけます。
+<small>*Higaeri tsuaa de wa Nara no shikien mo goran itadakemasu.*</small>
+On the day-trip tour, one can also see the deer park in Nara.
 
-**3.** プライベートツアーをご希望でしたら、フロントにてお手配いたします。
-*Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*
-"If you would like a private tour, we can arrange it at the front desk."
+プライベートツアーをご希望でしたら、フロントにてお手配いたします。
+<small>*Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*</small>
+If you would like a private tour, we can arrange it at the front desk.
 
 ## Related Expressions
 

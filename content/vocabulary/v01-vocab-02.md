@@ -12,17 +12,11 @@ In hotel settings, close attention to the time boundary is important. Using a mo
 
 ## Example Sentences
 
-**1.** おはようございます。本日のご朝食はご用意できております。
-*Ohayō gozaimasu. Honjitsu no go-chōshoku wa go-yōi dekite orimasu.*
-"Good morning. Your breakfast is ready for you today."
-
-**2.** おはようございます。昨晩はよくおやすみになれましたでしょうか。
-*Ohayō gozaimasu. Sakuban wa yoku oyasumi ni naremashita deshō ka.*
-"Good morning. Were you able to sleep well last night?"
-
-**3.** おはようございます。本日もよい一日をお過ごしください。
-*Ohayō gozaimasu. Honjitsu mo yoi ichinichi wo o-sugoshi kudasai.*
-"Good morning. I hope you have a wonderful day today."
+| Japanese | Meaning |
+|---|---|
+| おはようございます。本日のご朝食はご用意できております。<br><small>*Ohayō gozaimasu. Honjitsu no go-chōshoku wa go-yōi dekite orimasu.*</small> | Good morning. Your breakfast is ready for you today. |
+| おはようございます。昨晩はよくおやすみになれましたでしょうか。<br><small>*Ohayō gozaimasu. Sakuban wa yoku oyasumi ni naremashita deshō ka.*</small> | Good morning. Were you able to sleep well last night? |
+| おはようございます。本日もよい一日をお過ごしください。<br><small>*Ohayō gozaimasu. Honjitsu mo yoi ichinichi wo o-sugoshi kudasai.*</small> | Good morning. I hope you have a wonderful day today. |
 
 ## Related Expressions
 

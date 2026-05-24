@@ -9,17 +9,17 @@ title: ナイフ (naifu)
 In daily restaurant and room service work, staff refer to ナイフ when setting tables, responding to guest requests for additional cutlery, or describing the utensils that accompany a specific dish. A common phrase is ナイフをご用意いたします, used when a guest requests one or when announcing a table setup. Staff should also be ready to pair ナイフ with フォーク (fork) in standard table-setting language, and should be able to offer or clarify cutlery choices for guests with specific preferences or dietary needs
 ## Example Sentences
 
-**1.** お料理に合わせてナイフとフォークをご用意いたします。
-*O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*
-"We will prepare a knife and fork to match your dish."
+お料理に合わせてナイフとフォークをご用意いたします。
+<small>*O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*</small>
+We will prepare a knife and fork to match your dish.
 
-**2.** ナイフが必要でございましたら、すぐにお持ちいたします。
-*Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.*
-"If you need a knife, I will bring one right away."
+ナイフが必要でございましたら、すぐにお持ちいたします。
+<small>*Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.*</small>
+If you need a knife, I will bring one right away.
 
-**3.** ステーキナイフをご用意してもよろしいでしょうか。
-*Suteeki naifu wo go-youi shite mo yoroshii deshou ka.*
-"May I prepare a steak knife for you?"
+ステーキナイフをご用意してもよろしいでしょうか。
+<small>*Suteeki naifu wo go-youi shite mo yoroshii deshou ka.*</small>
+May I prepare a steak knife for you?
 
 
 ## Related Expressions

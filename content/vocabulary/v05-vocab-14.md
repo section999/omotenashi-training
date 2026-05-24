@@ -8,17 +8,11 @@ title: 満席 (manseki)
 announcing 満席 is never the end of the conversation. The staff member must immediately offer a constructive alternative: an estimated wait time, an offer to add the guest to a wait list, a suggestion of another hotel dining venue, or an invitation to wait in the lounge with complimentary tea. Leaving a guest with a "no" and nothing more goes against the omotenashi principle of finding solutions. The quality of a hotel's response to 満席 is just as revealing as its response to availability
 ## Example Sentences
 
-**1.** ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。
-*Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*
-"We are fully seated at the moment. If you like, I can take your name and seat you in order."
-
-**2.** 大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。
-*Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.*
-"We sincerely apologize, but we are fully seated at the moment. Would you be able to wait approximately 30 minutes?"
-
-**3.** 本日は満席でございますが、明日のご予約は承っております。
-*Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.*
-"We are fully booked today, but we are accepting reservations for tomorrow."
+| Japanese | Meaning |
+|---|---|
+| ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。<br><small>*Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*</small> | We are fully seated at the moment. If you like, I can take your name and seat you in order. |
+| 大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。<br><small>*Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.*</small> | We sincerely apologize, but we are fully seated at the moment. Would you be able to wait approximately 30 minutes? |
+| 本日は満席でございますが、明日のご予約は承っております。<br><small>*Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.*</small> | We are fully booked today, but we are accepting reservations for tomorrow. |
 
 ## Related Expressions
 

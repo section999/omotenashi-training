@@ -8,17 +8,11 @@ title: キャンセル (cancel)
 In a hospitality context, staff encounter キャンセル requests over the phone, at the front desk, and occasionally via email. When a guest initiates a cancellation, the standard flow is: confirm their intent (ご予約をキャンセルされますか), check the reservation, explain any applicable fees (キャンセル料が発生いたします), and confirm the cancellation in writing if required. If no fee applies, the gracious response is 承知いたしました。キャンセル手続きをいたします. Maintaining a warm and understanding tone throughout is essential, as guests may be canceling due to emergencies
 ## Example Sentences
 
-**1.** ご予約をキャンセルされますか。
-*Go-yoyaku wo kyanseru saremasu ka.*
-"Would you like to cancel your reservation?"
-
-**2.** キャンセル料につきましては、チェックイン日の三日前よりご請求となります。
-*Kyanseru-ryō ni tsukimashite wa, chekku-in-bi no mik-ka mae yori go-seikyū to narimasu.*
-"Cancellation fees will apply from three days before your check-in date."
-
-**3.** キャンセルのお手続きが完了いたしました。
-*Kyanseru no o-tetsuzuki ga kanryō itashimashita.*
-"Your cancellation has been completed."
+| Japanese | Meaning |
+|---|---|
+| ご予約をキャンセルされますか。<br><small>*Go-yoyaku wo kyanseru saremasu ka.*</small> | Would you like to cancel your reservation? |
+| キャンセル料につきましては、チェックイン日の三日前よりご請求となります。<br><small>*Kyanseru-ryō ni tsukimashite wa, chekku-in-bi no mik-ka mae yori go-seikyū to narimasu.*</small> | Cancellation fees will apply from three days before your check-in date. |
+| キャンセルのお手続きが完了いたしました。<br><small>*Kyanseru no o-tetsuzuki ga kanryō itashimashita.*</small> | Your cancellation has been completed. |
 
 ## Related Expressions
 

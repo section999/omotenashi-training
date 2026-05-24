@@ -8,17 +8,17 @@ title: 観光客 (kankoukyaku)
 Major destinations like Kyoto, Nikko, and Hiroshima lean heavily on 観光客 traffic, and if staff work at a property in those areas, local knowledge is part of the job description. Because 観光客 often arrive unfamiliar with the local train system, the layout of the building, or even basic customs, front-line staff need to be proactive rather than waiting to be asked. However, staff should not assume every 観光客 wants the same things: someone on a history tour has different needs from a family with young children, and recognising that difference is where real omotenashi lives
 ## Example Sentences
 
-**1.** 京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。
-*Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.*
-"Kyoto receives many tourists every year, and the ryokans fill up with reservations."
+京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。
+<small>*Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.*</small>
+Kyoto receives many tourists every year, and the ryokans fill up with reservations.
 
-**2.** 観光客のお客様に、近くの名所をご案内しております。
-*Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.*
-"We provide guidance to tourist guests about nearby famous sites."
+観光客のお客様に、近くの名所をご案内しております。
+<small>*Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.*</small>
+We provide guidance to tourist guests about nearby famous sites.
 
-**3.** 外国からの観光客が増えているため、英語のパンフレットを用意しました。
-*Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.*
-"We have prepared English-language brochures because the number of foreign tourists is increasing."
+外国からの観光客が増えているため、英語のパンフレットを用意しました。
+<small>*Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.*</small>
+We have prepared English-language brochures because the number of foreign tourists is increasing.
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 特典 (tokuten)
 Proactive communication about 特典 is considered good practice. Raising it proactively, something like 「このプランの特典として、ご到着時にウェルカムドリンクをご用意しております」, allows the guest to discover the benefit during their stay rather than after checkout. When guests feel their choice was rewarded, they leave satisfied
 ## Example Sentences
 
-**1.** こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。
-*Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.*
-"This plan includes breakfast and late check-out as perks."
-
-**2.** 特典のスパ利用は、ご滞在中に一度お使いいただけます。
-*Tokuten no supa riyou wa, go-taizai-chuu ni ichido o-tsukai itadakemasu.*
-"The spa access perk can be used once during the stay."
-
-**3.** 会員様限定の特典として、お部屋のアップグレードをご用意しております。
-*Kaiin-sama gentei no tokuten toshite, o-heya no appugureedo wo go-youi shite orimasu.*
-"As an exclusive member perk, we have prepared a room upgrade."
+| Japanese | Meaning |
+|---|---|
+| こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。<br><small>*Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.*</small> | This plan includes breakfast and late check-out as perks. |
+| 特典のスパ利用は、ご滞在中に一度お使いいただけます。<br><small>*Tokuten no supa riyou wa, go-taizai-chuu ni ichido o-tsukai itadakemasu.*</small> | The spa access perk can be used once during the stay. |
+| 会員様限定の特典として、お部屋のアップグレードをご用意しております。<br><small>*Kaiin-sama gentei no tokuten toshite, o-heya no appugureedo wo go-youi shite orimasu.*</small> | As an exclusive member perk, we have prepared a room upgrade. |
 
 ## Related Expressions
 

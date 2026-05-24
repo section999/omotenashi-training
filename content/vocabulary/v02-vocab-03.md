@@ -8,17 +8,11 @@ title: チェックアウト (check-out)
 チェックアウト often falls during a high-traffic window in the late morning, so staff must balance speed with warmth. Asking about the guest's stay with 滞在はいかがでしたか is a touch that guests appreciate. Checking whether baggage storage or transport assistance is needed before the guest leaves is an example of proactive omotenashi. The standard departure time in Japanese hotels is 11:00 a.m., and guests who wish to stay later will need to request a レイトチェックアウト
 ## Example Sentences
 
-**1.** ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。
-*Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.*
-"Have you finished checking out? We have your bill ready."
-
-**2.** チェックアウトの際には、フロントまでルームキーをお返しください。
-*Chekku-auto no sai niwa, furonto made rūmu-kī o o-kaeshi kudasai.*
-"At the time of check-out, please return the room key to the front desk."
-
-**3.** ご滞在はいかがでしたか。またのお越しを心よりお待ち申し上げております。
-*Go-taizai wa ikaga deshita ka. Mata no o-koshi o kokoro yori o-machi mōshi agemasu.*
-"How was the stay? We look forward to welcoming you again."
+| Japanese | Meaning |
+|---|---|
+| ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。<br><small>*Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.*</small> | Have you finished checking out? We have your bill ready. |
+| チェックアウトの際には、フロントまでルームキーをお返しください。<br><small>*Chekku-auto no sai niwa, furonto made rūmu-kī o o-kaeshi kudasai.*</small> | At the time of check-out, please return the room key to the front desk. |
+| ご滞在はいかがでしたか。またのお越しを心よりお待ち申し上げております。<br><small>*Go-taizai wa ikaga deshita ka. Mata no o-koshi o kokoro yori o-machi mōshi agemasu.*</small> | How was the stay? We look forward to welcoming you again. |
 
 ## Related Expressions
 

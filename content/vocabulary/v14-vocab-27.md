@@ -9,17 +9,11 @@ Knowing how to frame cultural differences diplomatically is a notably useful ski
 
 ## Example Sentences
 
-**1.** 日本の伝統文化をご体験いただけるプランをご用意しております。
-*Nihon no dentou bunka wo go-taiken itadakeru puran wo go-youi shite orimasu.*
-"We have prepared plans that allow you to experience traditional Japanese culture."
-
-**2.** 茶道は日本文化の美しさと精神を体現した芸術です。
-*Sadou wa nihon bunka no utsukushisa to seishin wo taigen shita geijutsu desu.*
-"The tea ceremony is an art form that embodies the beauty and spirit of Japanese culture."
-
-**3.** 異なる文化を尊重し合うことが、すばらしい旅の体験につながります。
-*Kotonaru bunka wo sonchou shi au koto ga, subarashii tabi no taiken ni tsunagarimasu.*
-"Mutually respecting different cultures leads to a wonderful travel experience."
+| Japanese | Meaning |
+|---|---|
+| 日本の伝統文化をご体験いただけるプランをご用意しております。<br><small>*Nihon no dentou bunka wo go-taiken itadakeru puran wo go-youi shite orimasu.*</small> | We have prepared plans that allow you to experience traditional Japanese culture. |
+| 茶道は日本文化の美しさと精神を体現した芸術です。<br><small>*Sadou wa nihon bunka no utsukushisa to seishin wo taigen shita geijutsu desu.*</small> | The tea ceremony is an art form that embodies the beauty and spirit of Japanese culture. |
+| 異なる文化を尊重し合うことが、すばらしい旅の体験につながります。<br><small>*Kotonaru bunka wo sonchou shi au koto ga, subarashii tabi no taiken ni tsunagarimasu.*</small> | Mutually respecting different cultures leads to a wonderful travel experience. |
 
 ## Related Expressions
 

@@ -9,17 +9,11 @@ When directing guests to 最上階, staff should mention the elevator and confir
 
 ## Example Sentences
 
-**1.** スカイラウンジは最上階にございます。
-*Surai raunji wa saijoukai ni gozaimasu.*
-"The sky lounge is on the top floor."
-
-**2.** 最上階の展望台からは富士山がご覧いただけます。
-*Saijoukai no tenboudai kara wa Fujisan ga go-ran itadakemasu.*
-"You can see Mount Fuji from the observation deck on the top floor."
-
-**3.** エグゼクティブスイートは最上階、エレベーターで15階のボタンをお押しください。
-*Eguzekütibu suiito wa saijoukai, erebeetaa de juugo-kai no botan wo o-oshi kudasai.*
-"The executive suite is on the top floor: please press the 15th-floor button in the elevator."
+| Japanese | Meaning |
+|---|---|
+| スカイラウンジは最上階にございます。<br><small>*Surai raunji wa saijoukai ni gozaimasu.*</small> | The sky lounge is on the top floor. |
+| 最上階の展望台からは富士山がご覧いただけます。<br><small>*Saijoukai no tenboudai kara wa Fujisan ga go-ran itadakemasu.*</small> | You can see Mount Fuji from the observation deck on the top floor. |
+| エグゼクティブスイートは最上階、エレベーターで15階のボタンをお押しください。<br><small>*Eguzekütibu suiito wa saijoukai, erebeetaa de juugo-kai no botan wo o-oshi kudasai.*</small> | The executive suite is on the top floor: please press the 15th-floor button in the elevator. |
 
 ## Related Expressions
 

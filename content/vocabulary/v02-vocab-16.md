@@ -8,17 +8,11 @@ title: 支払い (shiharai)
 In a hospitality context, staff most often encounter 支払い at check-out, though pre-authorization or full payment at check-in is also common depending on hotel policy. The standard phrasing お支払いはチェックアウト時にお願いいたします sets timing expectations clearly and politely. When multiple payment methods are available, staff follow up with お支払いの方法はいかがなさいますか to invite the guest's preference. Rehearsing these fixed expressions ensures smooth and professional payment interactions
 ## Example Sentences
 
-**1.** お支払いはチェックアウトの際にお願いいたします。
-*O-shiharai wa chekku-auto no sai ni o-negai itashimasu.*
-"We kindly ask that payment be made at the time of check-out."
-
-**2.** お支払いの方法はいかがなさいますか。
-*O-shiharai no hōhō wa ikaga nasaimasu ka.*
-"How would you like to make your payment?"
-
-**3.** 本日のお支払い合計は三万円でございます。
-*Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.*
-"Your total payment for today is 30,000 yen."
+| Japanese | Meaning |
+|---|---|
+| お支払いはチェックアウトの際にお願いいたします。<br><small>*O-shiharai wa chekku-auto no sai ni o-negai itashimasu.*</small> | We kindly ask that payment be made at the time of check-out. |
+| お支払いの方法はいかがなさいますか。<br><small>*O-shiharai no hōhō wa ikaga nasaimasu ka.*</small> | How would you like to make your payment? |
+| 本日のお支払い合計は三万円でございます。<br><small>*Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.*</small> | Your total payment for today is 30,000 yen. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 近くに (chikaku ni)
 In a hospitality context, 近くに on its own is not sufficient. Staff should follow it with a walking time: コンビニはホテルの近くに、徒歩約3分のところにございます gives the guest actionable information. An effective structure includes three parts: 近くに indicates proximity, 徒歩〇分 provides the time, and a landmark reference clarifies the location. Ryokan staff use the same structure when pointing guests toward a nearby temple or onsen source, so this pattern travels across property types
 ## Example Sentences
 
-**1.** コンビニはホテルの近くにございます。徒歩約3分でございます。
-*Konbini wa hoteru no chikaku ni gozaimasu. Toho yaku sanpun de gozaimasu.*
-"There is a convenience store near the hotel. It is approximately a 3-minute walk."
-
-**2.** 近くに観光スポットがいくつかございますので、地図をお持ちいたしましょうか。
-*Chikaku ni kankouspot to ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.*
-"There are several tourist spots nearby; shall I bring you a map?"
-
-**3.** レストランは駅の近くにございます。徒歩5分ほどでお着きになれます。
-*Resutoran wa eki no chikaku ni gozaimasu. Toho gofun hodo de otsuki ni naremasu.*
-"The restaurant is near the station. You can reach it in about a 5-minute walk."
+| Japanese | Meaning |
+|---|---|
+| コンビニはホテルの近くにございます。徒歩約3分でございます。<br><small>*Konbini wa hoteru no chikaku ni gozaimasu. Toho yaku sanpun de gozaimasu.*</small> | There is a convenience store near the hotel. It is approximately a 3-minute walk. |
+| 近くに観光スポットがいくつかございますので、地図をお持ちいたしましょうか。<br><small>*Chikaku ni kankouspot to ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.*</small> | There are several tourist spots nearby; shall I bring you a map? |
+| レストランは駅の近くにございます。徒歩5分ほどでお着きになれます。<br><small>*Resutoran wa eki no chikaku ni gozaimasu. Toho gofun hodo de otsuki ni naremasu.*</small> | The restaurant is near the station. You can reach it in about a 5-minute walk. |
 
 ## Related Expressions
 

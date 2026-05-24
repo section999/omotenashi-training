@@ -9,17 +9,17 @@ title: 相談 (soudan)
 In Japanese workplaces, the willingness to consult is seen as a sign of professionalism. Staff who try to solve everything alone, without ever consulting, can come across as lacking humility or situational awareness. The phrase ご相談があります (go-soudan ga arimasu, "I have something I would like to consult you about") is a respectful, natural way to approach a superior. Confidentiality is also important: anything discussed during a 相談, whether a guest concern or a personal staff issue, must be handled with discretion
 ## Example Sentences
 
-**1.** お客様からの特別なリクエストについて、支配人にご相談申し上げました。
-*Okyaku-sama kara no tokubetsu na rikuesuto ni tsuite, shihainin ni go-soudan moushiagemashita.*
-"I humbly consulted the general manager regarding the special request from the guest."
+お客様からの特別なリクエストについて、支配人にご相談申し上げました。
+<small>*Okyaku-sama kara no tokubetsu na rikuesuto ni tsuite, shihainin ni go-soudan moushiagemashita.*</small>
+I humbly consulted the general manager regarding the special request from the guest.
 
-**2.** 困ったことがあれば、いつでも気軽にご相談ください。
-*Komatta koto ga areba, itsudemo kidgaru ni go-soudan kudasai.*
-"Please feel free to consult us at any time if one encounter a problem."
+困ったことがあれば、いつでも気軽にご相談ください。
+<small>*Komatta koto ga areba, itsudemo kidgaru ni go-soudan kudasai.*</small>
+Please feel free to consult us at any time if one encounter a problem.
 
-**3.** 予約の変更に関して、フロントの担当者にご相談いただけますでしょうか。
-*Yoyaku no henkou ni kanshite, furonto no tantousha ni go-soudan itadakemasu deshou ka.*
-"Could you please consult with the person in charge at the front desk regarding the reservation change?"
+予約の変更に関して、フロントの担当者にご相談いただけますでしょうか。
+<small>*Yoyaku no henkou ni kanshite, furonto no tantousha ni go-soudan itadakemasu deshou ka.*</small>
+Could you please consult with the person in charge at the front desk regarding the reservation change?
 
 
 ## Related Expressions

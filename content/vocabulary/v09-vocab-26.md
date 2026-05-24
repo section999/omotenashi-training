@@ -9,17 +9,17 @@ title: 空き状況 (aki joukyou)
 The professional practice is to verify before asserting. A staff member who tells a guest そのお日にちは満室でございます without checking the system risks turning away a booking that was possible, or contradicting what another booking channel shows. The only acceptable response to any availability inquiry is 空き状況を確認いたします. Checking first before reporting is standard front desk practice
 ## Example Sentences
 
-**1.** 少々お待ちください。ただいま空き状況を確認いたします。
-*Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.*
-"Please wait a moment. I will check availability now."
+少々お待ちください。ただいま空き状況を確認いたします。
+<small>*Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.*</small>
+Please wait a moment. I will check availability now.
 
-**2.** 4月10日の空き状況を確認しましたところ、スタンダードルームが2室ございます。
-*Shigatsu tooka no aki joukyou wo kakunin shimashita tokoro, sutandaado ruumu ga ni-shitsu gozaimasu.*
-"Upon checking availability for April 10th, we have two standard rooms available."
+4月10日の空き状況を確認しましたところ、スタンダードルームが2室ございます。
+<small>*Shigatsu tooka no aki joukyou wo kakunin shimashita tokoro, sutandaado ruumu ga ni-shitsu gozaimasu.*</small>
+Upon checking availability for April 10th, we have two standard rooms available.
 
-**3.** 空き状況はリアルタイムで変動いたしますので、早めのご予約をお勧めいたします。
-*Aki joukyou wa riaru-taimu de hendou itashimasu node, hayame no go-yoyaku wo o-susume itashimasu.*
-"As availability changes in real time, we recommend booking as early as possible."
+空き状況はリアルタイムで変動いたしますので、早めのご予約をお勧めいたします。
+<small>*Aki joukyou wa riaru-taimu de hendou itashimasu node, hayame no go-yoyaku wo o-susume itashimasu.*</small>
+As availability changes in real time, we recommend booking as early as possible.
 
 
 ## Related Expressions

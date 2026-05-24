@@ -8,17 +8,17 @@ title: デポジット (deposit)
 In a hospitality context, staff introduce デポジット early in the check-in process, after confirming the guest's identity and reservation. The standard explanation covers three things: the amount, the reason, and the timeline for release: デポジットとして〇〇円をお預かりいたします。チェックアウト時にご精算後、返金いたします. If the deposit is a credit card hold rather than an actual charge, be sure to make that distinction clear. Guests who understand what is happening are far less likely to become concerned when they see the hold on their account
 ## Example Sentences
 
-**1.** デポジットとして一万円をお預かりいたします。
-*Depojitto to shite ichi-man en wo o-azukari itashimasu.*
-"We will hold a deposit of 10,000 yen."
+デポジットとして一万円をお預かりいたします。
+<small>*Depojitto to shite ichi-man en wo o-azukari itashimasu.*</small>
+We will hold a deposit of 10,000 yen.
 
-**2.** デポジットはチェックアウト時にご返金いたします。
-*Depojitto wa chekku-auto ji ni go-henkin itashimasu.*
-"The deposit will be refunded at check-out."
+デポジットはチェックアウト時にご返金いたします。
+<small>*Depojitto wa chekku-auto ji ni go-henkin itashimasu.*</small>
+The deposit will be refunded at check-out.
 
-**3.** デポジットはクレジットカードで仮押さえとなります。
-*Depojitto wa kurejitto kādo de kari-osae to narimasu.*
-"The deposit will be a pre-authorization hold on your credit card."
+デポジットはクレジットカードで仮押さえとなります。
+<small>*Depojitto wa kurejitto kādo de kari-osae to narimasu.*</small>
+The deposit will be a pre-authorization hold on your credit card.
 
 
 ## Related Expressions

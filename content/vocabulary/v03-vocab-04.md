@@ -9,17 +9,17 @@ title: ダブルルーム (double room)
 Staff should verify ダブルルーム reservations carefully at check-in and phrase confirmations so there is no room for misunderstanding. When proposing a ダブルルーム as an upgrade or alternative, the bed setup should be explained clearly. Higher-end properties sometimes label their offerings as queen or king rooms rather than ダブルルーム, so knowledge of those sub-categories allows staff to answer bed-size questions precisely
 ## Example Sentences
 
-**1.** 本日のご予約はダブルルームでございますね。ご確認ありがとうございます。
-*Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.*
-"Your reservation today is for a double room. Thank you for confirming."
+本日のご予約はダブルルームでございますね。ご確認ありがとうございます。
+<small>*Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.*</small>
+Your reservation today is for a double room. Thank you for confirming.
 
-**2.** ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？
-*Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*
-"A double room has one bed: will that be all right for you?"
+ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？
+<small>*Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*</small>
+A double room has one bed: will that be all right for you?
 
-**3.** ダブルルームに空室がございますので、ご希望でしたらご案内できます。
-*Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*
-"We have a double room available, so if one wish we can show you to it."
+ダブルルームに空室がございますので、ご希望でしたらご案内できます。
+<small>*Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*</small>
+We have a double room available, so if one wish we can show you to it.
 
 
 ## Related Expressions

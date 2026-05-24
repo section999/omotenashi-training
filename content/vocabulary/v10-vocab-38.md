@@ -8,17 +8,17 @@ title: 無効 (mukou)
 staff should treat any potential 無効 situation as a verification issue first rather than a conclusion. Saying 確認させていただきます (let me verify) before stating 無効 gives the staff member time to check whether the issue is invalid or a technical error, a card that appears 無効 may have a chip reading problem that resolves with a swipe or re-entry. Only once all options are exhausted should 無効 be communicated, and even then, it should be followed immediately by an offer of assistance
 ## Example Sentences
 
-**1.** 恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。
-*Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.*
-"I apologize, but this coupon is invalid as the expiry date has passed."
+恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。
+<small>*Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.*</small>
+I apologize, but this coupon is invalid as the expiry date has passed.
 
-**2.** ただいま確認いたしますので、少々お待ちください。
-*Tadaima kakunin itashimasu node, shōshō omachi kudasai.*
-"Allow me to verify this for you: please wait just a moment."
+ただいま確認いたしますので、少々お待ちください。
+<small>*Tadaima kakunin itashimasu node, shōshō omachi kudasai.*</small>
+Allow me to verify this for you: please wait just a moment.
 
-**3.** カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。
-*Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.*
-"If the card is invalid, would you be able to use an alternative payment method?"
+カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。
+<small>*Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.*</small>
+If the card is invalid, would you be able to use an alternative payment method?
 
 
 ## Related Expressions

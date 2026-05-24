@@ -9,17 +9,17 @@ title: 昼食 (chuushoku)
 Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that staff is problem-solving rather than reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When service is busy and expectations need to be managed, calm and direct communication is what keeps guests feeling respected
 ## Example Sentences
 
-**1.** 昼食は11時30分から14時30分までご利用いただけます。
-*Chuushoku wa juuichi-ji sanjuppun kara juushi-ji sanjuppun made go-riyou itadakemasu.*
-"Lunch is available from 11:30 a.m. to 2:30 p.m."
+昼食は11時30分から14時30分までご利用いただけます。
+<small>*Chuushoku wa juuichi-ji sanjuppun kara juushi-ji sanjuppun made go-riyou itadakemasu.*</small>
+Lunch is available from 11:30 a.m. to 2:30 p.m.
 
-**2.** 本日のランチメニューにはシェフのおすすめコースもございます。
-*Honjitsu no ranchi menyuu ni wa shefu no osusume koosu mo gozaimasu.*
-"Today's lunch menu also features the chef's recommended course."
+本日のランチメニューにはシェフのおすすめコースもございます。
+<small>*Honjitsu no ranchi menyuu ni wa shefu no osusume koosu mo gozaimasu.*</small>
+Today's lunch menu also features the chef's recommended course.
 
-**3.** お昼のご予約でしたら、本日まだお席をご用意できます。
-*O-hiru no go-yoyaku deshitara, honjitsu mada o-seki wo go-youi dekimasu.*
-"If you would like to reserve for lunch, we can still arrange a table for today."
+お昼のご予約でしたら、本日まだお席をご用意できます。
+<small>*O-hiru no go-yoyaku deshitara, honjitsu mada o-seki wo go-youi dekimasu.*</small>
+If you would like to reserve for lunch, we can still arrange a table for today.
 
 
 ## Related Expressions

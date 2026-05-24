@@ -9,17 +9,17 @@ In hotels, ryokan, and airport facilities, 両替 services may include foreign c
 
 ## Example Sentences
 
-**1.** 円をドルに両替していただけますか？
-*En o doru ni ryougae shite itadakemasu ka?*
-"Could you please exchange yen into dollars for me?"
+円をドルに両替していただけますか？
+<small>*En o doru ni ryougae shite itadakemasu ka?*</small>
+Could you please exchange yen into dollars for me?
 
-**2.** 恐れ入りますが、両替はフロントにてお取り扱いしております。
-*Osoreirimasu ga, ryougae wa furonto nite otoriatsukai shite orimasu.*
-"I apologize for the inconvenience, but currency exchange is handled at the front desk."
+恐れ入りますが、両替はフロントにてお取り扱いしております。
+<small>*Osoreirimasu ga, ryougae wa furonto nite otoriatsukai shite orimasu.*</small>
+I apologize for the inconvenience, but currency exchange is handled at the front desk.
 
-**3.** 一万円札を千円札に両替することは可能でしょうか？
-*Ichiman-en satsu o sen-en satsu ni ryougae suru koto wa kanō deshō ka?*
-"Would it be possible to break this 10,000-yen note into 1,000-yen notes?"
+一万円札を千円札に両替することは可能でしょうか？
+<small>*Ichiman-en satsu o sen-en satsu ni ryougae suru koto wa kanō deshō ka?*</small>
+Would it be possible to break this 10,000-yen note into 1,000-yen notes?
 
 
 ## Related Expressions

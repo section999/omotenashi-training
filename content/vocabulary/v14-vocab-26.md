@@ -9,17 +9,11 @@ When giving 道案内, the most effective approach is to anchor directions to la
 
 ## Example Sentences
 
-**1.** ご到着の際、駅からホテルまでの道案内をフロントにてご案内いたします。
-*Go-touchaku no sai, eki kara hoteru made no michi annai wo furonto nite go-annai itashimasu.*
-"Upon arrival, we will provide directions from the station to the hotel at the front desk."
-
-**2.** 観光スポットへの道案内が必要でございましたら、コンシェルジュデスクまでお申し付けください。
-*Kankou supotto e no michi annai ga hitsuyou de gozaimashitara, konshieruju desuku made o-moushitsuke kudasai.*
-"If you need directions to tourist attractions, please let us know at the concierge desk."
-
-**3.** 地図をご用意しておりますので、道案内と合わせてご活用ください。
-*Chizu wo go-youi shite orimasu no de, michi annai to awasete go-katuyou kudasai.*
-"We have maps available, so please use them together with the directions we provide."
+| Japanese | Meaning |
+|---|---|
+| ご到着の際、駅からホテルまでの道案内をフロントにてご案内いたします。<br><small>*Go-touchaku no sai, eki kara hoteru made no michi annai wo furonto nite go-annai itashimasu.*</small> | Upon arrival, we will provide directions from the station to the hotel at the front desk. |
+| 観光スポットへの道案内が必要でございましたら、コンシェルジュデスクまでお申し付けください。<br><small>*Kankou supotto e no michi annai ga hitsuyou de gozaimashitara, konshieruju desuku made o-moushitsuke kudasai.*</small> | If you need directions to tourist attractions, please let us know at the concierge desk. |
+| 地図をご用意しておりますので、道案内と合わせてご活用ください。<br><small>*Chizu wo go-youi shite orimasu no de, michi annai to awasete go-katuyou kudasai.*</small> | We have maps available, so please use them together with the directions we provide. |
 
 ## Related Expressions
 

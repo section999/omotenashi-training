@@ -9,17 +9,17 @@ title: 安全確認 (anzen kakunin)
 In operational language, 安全確認を行う or 安全確認を実施する are the standard verb phrases for "to conduct a safety check." Results go into a 点検記録 (inspection record) available for management or regulatory review. When a check reveals a problem, the affected area or equipment comes out of service immediately and is marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Regarding guest communication in those moments, explaining that something is temporarily unavailable due to a safety check signals that the hotel takes their wellbeing seriously. Most guests respond well to that transparency
 ## Example Sentences
 
-**1.** 朝のサービス開始前に、全設備の安全確認を実施しております。
-*Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.*
-"We conduct safety checks on all facilities before morning service begins."
+朝のサービス開始前に、全設備の安全確認を実施しております。
+<small>*Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.*</small>
+We conduct safety checks on all facilities before morning service begins.
 
-**2.** エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。
-*Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.*
-"We conducted a safety check before elevator use and confirmed there were no issues."
+エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。
+<small>*Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.*</small>
+We conducted a safety check before elevator use and confirmed there were no issues.
 
-**3.** ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。
-*Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.*
-"We apologize for the inconvenience, but the pool is temporarily closed for a safety check."
+ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。
+<small>*Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.*</small>
+We apologize for the inconvenience, but the pool is temporarily closed for a safety check.
 
 
 ## Related Expressions

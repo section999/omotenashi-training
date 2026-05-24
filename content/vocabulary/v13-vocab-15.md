@@ -9,17 +9,17 @@ title: 会議 (kaigi)
 During a 会議, everyone is expected to speak concisely, listen without interrupting, and raise disagreements carefully so they do not disrupt group harmony (和, wa). A chairperson (司会, shikai) guides the flow. In Japanese hotels, 会議 frequently crosses departmental lines, for example when coordinating a large banquet or preparing for a VIP arrival. Attendees should come with relevant data and be ready to follow up on any action items promptly
 ## Example Sentences
 
-**1.** 明日の会議は午前10時からフロントにて開催いたします。
-*Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.*
-"Tomorrow's meeting will be held at the front desk starting at 10 AM."
+明日の会議は午前10時からフロントにて開催いたします。
+<small>*Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.*</small>
+Tomorrow's meeting will be held at the front desk starting at 10 AM.
 
-**2.** 本日の会議の議事録をまとめて、各部門へ共有いたします。
-*Honjitsu no kaigi no gijiroku wo matomete, kaku bumon e kyouyuu itashimasu.*
-"I will compile the minutes from today's meeting and share them with each department."
+本日の会議の議事録をまとめて、各部門へ共有いたします。
+<small>*Honjitsu no kaigi no gijiroku wo matomete, kaku bumon e kyouyuu itashimasu.*</small>
+I will compile the minutes from today's meeting and share them with each department.
 
-**3.** 来週の会議では、ゴールデンウィーク期間中の対応について話し合う予定です。
-*Raishuu no kaigi de wa, Gooruden Wiiku kikan-chuu no taiou ni tsuite hanashiau yotei desu.*
-"In next week's meeting, we plan to discuss how to handle the Golden Week period."
+来週の会議では、ゴールデンウィーク期間中の対応について話し合う予定です。
+<small>*Raishuu no kaigi de wa, Gooruden Wiiku kikan-chuu no taiou ni tsuite hanashiau yotei desu.*</small>
+In next week's meeting, we plan to discuss how to handle the Golden Week period.
 
 
 ## Related Expressions

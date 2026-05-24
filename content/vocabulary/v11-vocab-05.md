@@ -8,17 +8,17 @@ title: お繋ぎします (otsunagi shimasu)
 Best practice in Japanese hotel phone etiquette is to name the destination before saying お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is recommended: briefly explaining the guest's situation to the receiving party before completing the connection, so the guest does not have to repeat themselves from the beginning. That extra step makes a noticeable difference in how the service feels
 ## Example Sentences
 
-**1.** 宿泊予約担当者にお繋ぎいたします。少々お待ちください。
-*Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.*
-"I will connect you to the accommodation reservations team. Please wait a moment."
+宿泊予約担当者にお繋ぎいたします。少々お待ちください。
+<small>*Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.*</small>
+I will connect you to the accommodation reservations team. Please wait a moment.
 
-**2.** フロントマネージャーにお繋ぎしますので、そのままお待ちいただけますか。
-*Furonto manējā ni otsunagi shimasu no de, sono mama omachi itadakemasu ka.*
-"I will connect you to the front desk manager; could you please stay on the line?"
+フロントマネージャーにお繋ぎしますので、そのままお待ちいただけますか。
+<small>*Furonto manējā ni otsunagi shimasu no de, sono mama omachi itadakemasu ka.*</small>
+I will connect you to the front desk manager; could you please stay on the line?
 
-**3.** ただいま担当者に状況をお伝えしてからお繋ぎいたします。
-*Tadaima tantōsha ni jōkyō wo otsutatae shite kara otsunagi itashimasu.*
-"I will brief the person in charge before connecting you."
+ただいま担当者に状況をお伝えしてからお繋ぎいたします。
+<small>*Tadaima tantōsha ni jōkyō wo otsutatae shite kara otsunagi itashimasu.*</small>
+I will brief the person in charge before connecting you.
 
 
 ## Related Expressions

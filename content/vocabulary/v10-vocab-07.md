@@ -9,17 +9,17 @@ title: 合計 (goukei)
 合計 appears on printed bills, digital terminals, and in spoken communication. Restaurant staff use it when presenting the table bill; front desk agents use it at checkout after completing 精算. In conversation, 合計〇〇円でございます is standard. A mumbled total often leads to confusion, so staff should state the figure clearly, point to it on the screen or printout, and give the guest a moment to register the amount before asking about payment.
 ## Example Sentences
 
-**1.** 合計金額は22,000円でございます。
-*Goukei kingaku wa ni-man ni-sen en de gozaimasu.*
-"The total amount is 22,000 yen."
+合計金額は22,000円でございます。
+<small>*Goukei kingaku wa ni-man ni-sen en de gozaimasu.*</small>
+The total amount is 22,000 yen.
 
-**2.** お食事とお飲み物を合わせた合計は8,800円でございます。
-*O-shokuji to o-nomimono wo awaseta goukei wa hassen happyaku en de gozaimasu.*
-"The total for your meal and beverages combined is 8,800 yen."
+お食事とお飲み物を合わせた合計は8,800円でございます。
+<small>*O-shokuji to o-nomimono wo awaseta goukei wa hassen happyaku en de gozaimasu.*</small>
+The total for your meal and beverages combined is 8,800 yen.
 
-**3.** 合計金額をご確認いただいた上で、お支払い方法をお選びください。
-*Goukei kingaku wo go-kakunin itadaita ue de, o-shiharai houhou wo o-erabi kudasai.*
-"Please confirm the total amount and then select your preferred payment method."
+合計金額をご確認いただいた上で、お支払い方法をお選びください。
+<small>*Goukei kingaku wo go-kakunin itadaita ue de, o-shiharai houhou wo o-erabi kudasai.*</small>
+Please confirm the total amount and then select your preferred payment method.
 
 
 ## Related Expressions

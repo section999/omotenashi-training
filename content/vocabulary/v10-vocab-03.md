@@ -8,17 +8,17 @@ title: 分割払い (bunkatsu barai)
 The 分割払い option appears on the card terminal during payment, and staff guide guests through selecting the right number of installments. Not all cards support it, and some hotels do not offer it, so knowing the property's policy matters. When installments are available, stating the monthly amount clearly, 毎月〇〇円のお支払いになります, helps guests understand the financial commitment.
 ## Example Sentences
 
-**1.** 高額のご利用の場合、分割払いもご利用いただけます。
-*Kougaku no go-riyou no baai, bunkatsu barai mo go-riyou itadakemasu.*
-"For larger amounts, installment payment is also available."
+高額のご利用の場合、分割払いもご利用いただけます。
+<small>*Kougaku no go-riyou no baai, bunkatsu barai mo go-riyou itadakemasu.*</small>
+For larger amounts, installment payment is also available.
 
-**2.** 何回払いをご希望でしょうか。
-*Nankai barai wo go-kibou deshou ka.*
-"How many installments would you prefer?"
+何回払いをご希望でしょうか。
+<small>*Nankai barai wo go-kibou deshou ka.*</small>
+How many installments would you prefer?
 
-**3.** 分割払いをお選びの場合、カード会社によって手数料が発生することがございます。
-*Bunkatsu barai wo o-erabi no baai, kaado gaisha ni yotte tesuuryou ga hassei suru koto ga gozaimasu.*
-"Please be aware that your card issuer may charge a fee if one choose installment payment."
+分割払いをお選びの場合、カード会社によって手数料が発生することがございます。
+<small>*Bunkatsu barai wo o-erabi no baai, kaado gaisha ni yotte tesuuryou ga hassei suru koto ga gozaimasu.*</small>
+Please be aware that your card issuer may charge a fee if one choose installment payment.
 
 
 ## Related Expressions

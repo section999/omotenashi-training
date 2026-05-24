@@ -9,17 +9,11 @@ One phrase that works well in these situations is 「日本では～という習
 
 ## Example Sentences
 
-**1.** 日本では、靴を脱いでから施設に入る習慣がございます。
-*Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.*
-"In Japan, there is a custom of removing your shoes before entering the facility."
-
-**2.** お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。
-*O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.*
-"The custom of washing your body before bathing is extremely important in Japan's hot spring culture."
-
-**3.** チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。
-*Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.*
-"There is no custom of tipping in Japan, as the service charge is included in the price."
+| Japanese | Meaning |
+|---|---|
+| 日本では、靴を脱いでから施設に入る習慣がございます。<br><small>*Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.*</small> | In Japan, there is a custom of removing your shoes before entering the facility. |
+| お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。<br><small>*O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.*</small> | The custom of washing your body before bathing is extremely important in Japan's hot spring culture. |
+| チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。<br><small>*Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.*</small> | There is no custom of tipping in Japan, as the service charge is included in the price. |
 
 ## Related Expressions
 

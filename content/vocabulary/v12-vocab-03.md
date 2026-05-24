@@ -9,17 +9,17 @@ title: 地震 (jishin)
 When a 地震 occurs, staying calm, using simple and reassuring language with guests, and guiding everyone away from windows and heavy furniture is recommended. Safe zones in the facility should be identified: under sturdy tables, away from shelving. After the shaking stops, a systematic safety check of the building is standard procedure before resuming normal operations. A common error is underestimating this step. Checking for structural damage, gas leaks, and water line issues before allowing guests back into affected areas is expected
 ## Example Sentences
 
-**1.** 地震が起きたら、机の下に隠れてください。
-*Jishin ga okitara, tsukue no shita ni kakurete kudasai.*
-"During an earthquake, take cover under a desk."
+地震が起きたら、机の下に隠れてください。
+<small>*Jishin ga okitara, tsukue no shita ni kakurete kudasai.*</small>
+During an earthquake, take cover under a desk.
 
-**2.** ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。
-*Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.*
-"An earthquake has just occurred. Please do not panic: crouch down where one is and protect your head."
+ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。
+<small>*Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.*</small>
+An earthquake has just occurred. Please do not panic: crouch down where one is and protect your head.
 
-**3.** 地震後は安全確認が完了するまで、エレベーターはご利用になれません。
-*Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*
-"After the earthquake, the elevators will not be available until a safety check is completed."
+地震後は安全確認が完了するまで、エレベーターはご利用になれません。
+<small>*Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*</small>
+After the earthquake, the elevators will not be available until a safety check is completed.
 
 
 ## Related Expressions

@@ -8,17 +8,11 @@ title: 留守番電話 (rusuban denwa)
 Hotels typically assign clear ownership over which team monitors each department's 留守番電話, especially important during shift changes when messages can slip through the cracks. Staff should check 留守番電話 at set intervals, and when responding to a message, acknowledge that it came via voicemail: 留守番電話にメッセージをいただきました、ありがとうございます (thank one for leaving a voicemail message). It is also the staff member's responsibility to inform callers when they are about to reach voicemail, so they can leave their message intentionally rather than being surprised by a recording
 ## Example Sentences
 
-**1.** 留守番電話にメッセージを残しました。
-*Rusuban denwa ni messeeji wo nokoshimashita.*
-"I left a message on the voicemail."
-
-**2.** 先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。
-*Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.*
-"Thank you for the message you left on voicemail earlier. We will call you back shortly."
-
-**3.** ただいま担当者が不在のため、留守番電話に切り替わります。
-*Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.*
-"The person in charge is currently unavailable, so the call will switch to voicemail."
+| Japanese | Meaning |
+|---|---|
+| 留守番電話にメッセージを残しました。<br><small>*Rusuban denwa ni messeeji wo nokoshimashita.*</small> | I left a message on the voicemail. |
+| 先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。<br><small>*Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.*</small> | Thank you for the message you left on voicemail earlier. We will call you back shortly. |
+| ただいま担当者が不在のため、留守番電話に切り替わります。<br><small>*Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.*</small> | The person in charge is currently unavailable, so the call will switch to voicemail. |
 
 ## Related Expressions
 

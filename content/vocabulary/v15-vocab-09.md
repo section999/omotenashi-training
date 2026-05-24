@@ -9,17 +9,11 @@ Knowing the related services is just as important as knowing the word. Luggage s
 
 ## Example Sentences
 
-**1.** お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。
-*O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*
-"We will hold your luggage here. We will bring it to the room as soon as it is ready."
-
-**2.** チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。
-*Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.*
-"Even after check-out, we can hold your luggage at the front desk until your departure."
-
-**3.** お荷物の中に壊れやすいものはございますか？特別に対応いたします。
-*O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*
-"Are there any fragile items in your luggage? We will handle them with special care."
+| Japanese | Meaning |
+|---|---|
+| お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。<br><small>*O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*</small> | We will hold your luggage here. We will bring it to the room as soon as it is ready. |
+| チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。<br><small>*Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.*</small> | Even after check-out, we can hold your luggage at the front desk until your departure. |
+| お荷物の中に壊れやすいものはございますか？特別に対応いたします。<br><small>*O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*</small> | Are there any fragile items in your luggage? We will handle them with special care. |
 
 ## Related Expressions
 

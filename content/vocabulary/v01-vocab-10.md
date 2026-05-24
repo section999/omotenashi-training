@@ -12,17 +12,11 @@ In Japanese service culture, *iie* requires particular care. Directly refusing a
 
 ## Example Sentences
 
-**1.** はい、かしこまりました。すぐにご用意いたします。
-*Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.*
-"Yes, certainly. I will prepare it right away."
-
-**2.** はい、ご予約を確認いたしました。
-*Hai, go-yoyaku wo kakunin itashimashita.*
-"Yes, I have confirmed your reservation."
-
-**3.** 申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。
-*Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.*
-"I am very sorry, but that room is currently not available."
+| Japanese | Meaning |
+|---|---|
+| はい、かしこまりました。すぐにご用意いたします。<br><small>*Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.*</small> | Yes, certainly. I will prepare it right away. |
+| はい、ご予約を確認いたしました。<br><small>*Hai, go-yoyaku wo kakunin itashimashita.*</small> | Yes, I have confirmed your reservation. |
+| 申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。<br><small>*Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.*</small> | I am very sorry, but that room is currently not available. |
 
 ## Related Expressions
 

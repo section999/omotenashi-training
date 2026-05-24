@@ -12,17 +12,11 @@ In Japanese hospitality, the manner of the apology matters as much as the words.
 
 ## Example Sentences
 
-**1.** 誠に申し訳ございません。ご不便をおかけいたしました。
-*Makoto ni moushiwake gozaimasen. Go-fuben wo o-kake itashimashita.*
-"I am truly very sorry. We have caused you inconvenience."
-
-**2.** 申し訳ございません。ただいますぐに対応させていただきます。
-*Moushiwake gozaimasen. Tadaima sugu ni taiō sasete itadakimasu.*
-"I am very sorry. I will address this for you immediately."
-
-**3.** お待たせいたしまして、誠に申し訳ございません。
-*O-matase itashimashite, makoto ni moushiwake gozaimasen.*
-"I am truly very sorry for making you wait."
+| Japanese | Meaning |
+|---|---|
+| 誠に申し訳ございません。ご不便をおかけいたしました。<br><small>*Makoto ni moushiwake gozaimasen. Go-fuben wo o-kake itashimashita.*</small> | I am truly very sorry. We have caused you inconvenience. |
+| 申し訳ございません。ただいますぐに対応させていただきます。<br><small>*Moushiwake gozaimasen. Tadaima sugu ni taiō sasete itadakimasu.*</small> | I am very sorry. I will address this for you immediately. |
+| お待たせいたしまして、誠に申し訳ございません。<br><small>*O-matase itashimashite, makoto ni moushiwake gozaimasen.*</small> | I am truly very sorry for making you wait. |
 
 ## Related Expressions
 

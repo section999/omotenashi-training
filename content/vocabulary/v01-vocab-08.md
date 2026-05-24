@@ -12,17 +12,11 @@ The phrase is equally important in phone contexts. When placing a caller on hold
 
 ## Example Sentences
 
-**1.** 少々お待ちください。ただいまご確認いたします。
-*Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.*
-"Please wait just a moment. I will check on that right now."
-
-**2.** 恐れ入りますが、少々お待ちいただけますでしょうか。
-*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*
-"I'm sorry to trouble you, but could you wait just a moment?"
-
-**3.** 大変お待たせいたしました。先ほどの件でございますが…
-*Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…*
-"Thank you very much for waiting. Regarding the matter from a moment ago…"
+| Japanese | Meaning |
+|---|---|
+| 少々お待ちください。ただいまご確認いたします。<br><small>*Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.*</small> | Please wait just a moment. I will check on that right now. |
+| 恐れ入りますが、少々お待ちいただけますでしょうか。<br><small>*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*</small> | I'm sorry to trouble you, but could you wait just a moment? |
+| 大変お待たせいたしました。先ほどの件でございますが…<br><small>*Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…*</small> | Thank you very much for waiting. Regarding the matter from a moment ago… |
 
 ## Related Expressions
 

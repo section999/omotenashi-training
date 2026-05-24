@@ -10,17 +10,17 @@ It is recommended to state 税込 explicitly whenever quoting a rate, whether at
 
 ## Example Sentences
 
-**1.** この料金は税込でございます。
-*Kono ryōkin wa zeikomi de gozaimasu.*
-"This rate is inclusive of tax."
+この料金は税込でございます。
+<small>*Kono ryōkin wa zeikomi de gozaimasu.*</small>
+This rate is inclusive of tax.
 
-**2.** ご案内した金額はすべて税込となっております。
-*Goannai shita kingaku wa subete zeikomi to natte orimasu.*
-"All prices we have quoted are tax-inclusive."
+ご案内した金額はすべて税込となっております。
+<small>*Goannai shita kingaku wa subete zeikomi to natte orimasu.*</small>
+All prices we have quoted are tax-inclusive.
 
-**3.** お支払い総額は税込で一万五千円でございます。
-*Oshiharai sōgaku wa zeikomi de ichiman gosen-en de gozaimasu.*
-"The total amount payable, including tax, is 15,000 yen."
+お支払い総額は税込で一万五千円でございます。
+<small>*Oshiharai sōgaku wa zeikomi de ichiman gosen-en de gozaimasu.*</small>
+The total amount payable, including tax, is 15,000 yen.
 
 
 ## Related Expressions

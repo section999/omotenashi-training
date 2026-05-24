@@ -9,17 +9,17 @@ title: 病院 (byouin)
 For international guests, walking into a Japanese 病院 can be daunting. Language barriers, unfamiliar administrative procedures, and a different approach to triage all add stress to an already difficult situation. That is where staff can provide valuable support. Written directions with the address in the guest's language, taxi arrangements, calling ahead to explain the guest's condition, or in serious cases, accompanying the guest are all appropriate actions. A common error is to simply hand over an address and consider the job done. Proactively offering transport and a phone call to the hospital goes further. Staff should also keep in mind the emergency numbers: 119 for ambulance and fire, 110 for police. International guests often assume the system works like their home country's, so direct explanation is helpful
 ## Example Sentences
 
-**1.** 最寄りの病院までの地図をご用意いたします。
-*Moyori no byouin made no chizu wo goyoui itashimasu.*
-"I will prepare a map to the nearest hospital for you."
+最寄りの病院までの地図をご用意いたします。
+<small>*Moyori no byouin made no chizu wo goyoui itashimasu.*</small>
+I will prepare a map to the nearest hospital for you.
 
-**2.** 緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。
-*Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.*
-"In an emergency, we will take you to the hospital right away. Shall I arrange a taxi?"
+緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。
+<small>*Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.*</small>
+In an emergency, we will take you to the hospital right away. Shall I arrange a taxi?
 
-**3.** 外国語対応の病院をご案内することも可能でございます。
-*Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.*
-"We are also able to direct you to hospitals that offer services in foreign languages."
+外国語対応の病院をご案内することも可能でございます。
+<small>*Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.*</small>
+We are also able to direct you to hospitals that offer services in foreign languages.
 
 
 ## Related Expressions

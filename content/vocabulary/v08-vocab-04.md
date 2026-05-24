@@ -9,18 +9,11 @@ Practically, 曲がる is used constantly at the front desk when giving walking 
 
 ## Example Sentences
 
-**1.** 二つ目の交差点で左に曲がってください。
-*Futatsu-me no kousaten de hidari ni magatte kudasai.*
-"Please turn left at the second intersection."
-
-**2.** エレベーターを出て右に曲がると、お部屋がございます。
-*Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.*
-"When you exit the elevator and turn right, one will find the room."
-
-**3.** ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。
-*Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.*
-"Exit the lobby and turn right at the first corner. The station is straight from there."
-
+| Japanese | Meaning |
+|---|---|
+| 二つ目の交差点で左に曲がってください。<br><small>*Futatsu-me no kousaten de hidari ni magatte kudasai.*</small> | Please turn left at the second intersection. |
+| エレベーターを出て右に曲がると、お部屋がございます。<br><small>*Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.*</small> | When you exit the elevator and turn right, one will find the room. |
+| ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。<br><small>*Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.*</small> | Exit the lobby and turn right at the first corner. The station is straight from there. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 当日予約 (toujitsu yoyaku)
 From an operations standpoint, 当日予約 means the front desk needs to verify real-time room availability, confirm whether housekeeping has finished preparing rooms in that category, and have a rate ready before responding. The 早割 and similar advance-purchase discounts do not apply. The appropriate keigo when accepting a 当日予約 is ご当日のご予約を承りました。お部屋のご用意が整い次第ご連絡いたします. Even when things are moving fast to accommodate a last-minute guest, the tone should stay calm and welcoming.
 ## Example Sentences
 
-**1.** 当日予約でも空室がございましたら、喜んでご案内させていただきます。
-*Toujitsu yoyaku demo kuushitsu ga gozaimashitara, yorokonde go-annai sasete itadakimasu.*
-"If we have availability, we are happy to accommodate same-day reservations."
+当日予約でも空室がございましたら、喜んでご案内させていただきます。
+<small>*Toujitsu yoyaku demo kuushitsu ga gozaimashitara, yorokonde go-annai sasete itadakimasu.*</small>
+If we have availability, we are happy to accommodate same-day reservations.
 
-**2.** ご当日のご予約を承りました。チェックインは午後3時からご案内できます。
-*Go-toujitsu no go-yoyaku wo uketamawarimashita. Chekkuin wa gogo sanji kara go-annai dekimasu.*
-"I have received your same-day reservation. We will be able to check you in from 3:00 PM."
+ご当日のご予約を承りました。チェックインは午後3時からご案内できます。
+<small>*Go-toujitsu no go-yoyaku wo uketamawarimashita. Chekkuin wa gogo sanji kara go-annai dekimasu.*</small>
+I have received your same-day reservation. We will be able to check you in from 3:00 PM.
 
-**3.** 当日予約でも可能ですが、早割プランは適用されず、通常料金でのご案内となります。
-*Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.*
-"Same-day reservations are accepted, but the early bird discount will not apply: the standard rate will be quoted."
+当日予約でも可能ですが、早割プランは適用されず、通常料金でのご案内となります。
+<small>*Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.*</small>
+Same-day reservations are accepted, but the early bird discount will not apply: the standard rate will be quoted.
 
 
 ## Related Expressions

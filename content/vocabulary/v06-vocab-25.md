@@ -8,17 +8,17 @@ title: 少々お待ちください (shoushou omachi kudasai)
 少々お待ちください precedes almost any situation where staff must step away or consult a system: checking reservations, retrieving items, consulting a colleague, or processing a transaction. The companion phrase 「お待たせいたしました」 (thank one for waiting / sorry to have kept one) should follow immediately upon returning. In high-end ryokan, staff may also say 「ただいま参ります」 (I will be right there) when responding to a guest summons before following with 少々お待ちください upon arrival. The pairing of these phrases creates a smooth, professional arc of interaction
 ## Example Sentences
 
-**1.** 少々お待ちください。ただいまご予約を確認いたします。
-*Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.*
-"Please wait just a moment. I will check your reservation right now."
+少々お待ちください。ただいまご予約を確認いたします。
+<small>*Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.*</small>
+Please wait just a moment. I will check your reservation right now.
 
-**2.** お荷物をお預かりいたします。少々お待ちくださいませ。
-*O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.*
-"I will take your luggage. Please wait just a moment."
+お荷物をお預かりいたします。少々お待ちくださいませ。
+<small>*O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.*</small>
+I will take your luggage. Please wait just a moment.
 
-**3.** 少々お待ちいただけますか。担当の者にお繋ぎいたします。
-*Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*
-"Could you kindly wait just a moment? I will transfer you to the relevant staff member."
+少々お待ちいただけますか。担当の者にお繋ぎいたします。
+<small>*Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*</small>
+Could you kindly wait just a moment? I will transfer you to the relevant staff member.
 
 
 ## Related Expressions

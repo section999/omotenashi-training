@@ -12,17 +12,11 @@ This phrase has a limited role with guests. If a guest comes back looking exhaus
 
 ## Example Sentences
 
-**1.** お疲れ様です。今日もありがとうございました。
-*O-tsukaresama desu. Kyō mo arigatō gozaimashita.*
-"Thank you for your hard work. Thank you for today as well."
-
-**2.** お疲れ様でした。ゆっくり休んでください。
-*O-tsukaresama deshita. Yukkuri yasunte kudasai.*
-"Good work today. Please rest well." (Said to a colleague finishing their shift)
-
-**3.** お疲れ様です。フロアの引き継ぎをお願いいたします。
-*O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.*
-"Thank you for the work. Please brief me on the floor handover."
+| Japanese | Meaning |
+|---|---|
+| お疲れ様です。今日もありがとうございました。<br><small>*O-tsukaresama desu. Kyō mo arigatō gozaimashita.*</small> | Thank you for your hard work. Thank you for today as well. |
+| お疲れ様でした。ゆっくり休んでください。<br><small>*O-tsukaresama deshita. Yukkuri yasunte kudasai.*</small> | Good work today. Please rest well. |
+| お疲れ様です。フロアの引き継ぎをお願いいたします。<br><small>*O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.*</small> | Thank you for the work. Please brief me on the floor handover. |
 
 ## Related Expressions
 

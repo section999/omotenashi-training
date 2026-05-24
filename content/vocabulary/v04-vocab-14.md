@@ -8,17 +8,11 @@ title: 掃除機 (soujiki)
 Because the 掃除機 is noisy, timing matters. Housekeeping staff should avoid early mornings and late evenings to avoid disturbing guests in adjacent rooms. If a guest is present in the room, staff should always ask permission before running the 掃除機, or offer to come back at a more convenient time. Occasionally a guest may ask to borrow one: staff should know whether hotel policy allows this and respond accordingly. In ryokan with tatami rooms, standard vacuum attachments must not be used on tatami, as they can pull and damage the woven straw surface
 ## Example Sentences
 
-**1.** カーペットの清掃には掃除機を使用しております。
-*Kaapetto no seisou ni wa soujiki wo shiyou shite orimasu.*
-"We use a vacuum cleaner for cleaning the carpeted areas."
-
-**2.** 掃除機の音でご不便をおかけしまして、大変申し訳ございませんでした。
-*Soujiki no oto de gofuben wo okakeshimashite, taihen moushiwake gozaimasen deshita.*
-"I sincerely apologize for any inconvenience caused by the noise of the vacuum cleaner."
-
-**3.** 清掃の際、掃除機を使用してお部屋の床を丁寧にお掃除いたします。
-*Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni osoujii itashimasu.*
-"During cleaning, we carefully vacuum the floor of the room using a vacuum cleaner."
+| Japanese | Meaning |
+|---|---|
+| カーペットの清掃には掃除機を使用しております。<br><small>*Kaapetto no seisou ni wa soujiki wo shiyou shite orimasu.*</small> | We use a vacuum cleaner for cleaning the carpeted areas. |
+| 掃除機の音でご不便をおかけしまして、大変申し訳ございませんでした。<br><small>*Soujiki no oto de gofuben wo okakeshimashite, taihen moushiwake gozaimasen deshita.*</small> | I sincerely apologize for any inconvenience caused by the noise of the vacuum cleaner. |
+| 清掃の際、掃除機を使用してお部屋の床を丁寧にお掃除いたします。<br><small>*Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni osoujii itashimasu.*</small> | During cleaning, we carefully vacuum the floor of the room using a vacuum cleaner. |
 
 ## Related Expressions
 

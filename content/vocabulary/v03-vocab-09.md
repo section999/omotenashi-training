@@ -8,17 +8,17 @@ title: ベッド (bed)
 The ベッド is the core element of any guest's sleep experience, and the sleep experience influences their impression of the property. Luxury hotels invest in premium mattresses and pillow menus, and staff who know what bedding extras are available, such as 毛布 (extra blankets), 枕 (additional pillows), or mattress toppers, are ready to respond before a guest finishes their sentence. When escorting a guest to their room, the bed type should be identified and available extras briefly noted. This habit makes a meaningful difference
 ## Example Sentences
 
-**1.** お部屋にはキングサイズのベッドがございます。
-*O-heya ni wa kingu-saizu no beddo ga gozaimasu.*
-"Your room has a king-size bed."
+お部屋にはキングサイズのベッドがございます。
+<small>*O-heya ni wa kingu-saizu no beddo ga gozaimasu.*</small>
+Your room has a king-size bed.
 
-**2.** ベッドの硬さについてご不満がございましたら、お気軽にお申し付けください。
-*Beddo no katasa ni tsuite go-fuman ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.*
-"If you have any dissatisfaction with the firmness of the bed, please feel free to let us know."
+ベッドの硬さについてご不満がございましたら、お気軽にお申し付けください。
+<small>*Beddo no katasa ni tsuite go-fuman ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.*</small>
+If you have any dissatisfaction with the firmness of the bed, please feel free to let us know.
 
-**3.** 追加のベッドが必要でございましたら、エキストラベッドをご用意することも可能でございます。
-*Tsuika no beddo ga hitsuyou de gozaimashitara, ekisutora-beddo wo go-youi suru koto mo kanou de gozaimasu.*
-"If you need an extra bed, we can also arrange an extra bed for you."
+追加のベッドが必要でございましたら、エキストラベッドをご用意することも可能でございます。
+<small>*Tsuika no beddo ga hitsuyou de gozaimashitara, ekisutora-beddo wo go-youi suru koto mo kanou de gozaimasu.*</small>
+If you need an extra bed, we can also arrange an extra bed for you.
 
 
 ## Related Expressions

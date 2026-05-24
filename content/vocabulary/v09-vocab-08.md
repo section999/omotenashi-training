@@ -8,17 +8,11 @@ title: 何泊 (nanpaku)
 confirming 何泊 is one of the first questions asked during a reservation inquiry, 「何泊のご予定でしょうか」, because it determines total accommodation revenue and informs all subsequent service planning. For groups or extended stays, staff recalculate 何泊 whenever dates change to ensure billing is adjusted correctly. Guests sometimes misunderstand the difference between 泊 and 日, particularly those from countries where "nights" and "days" are used more loosely, so clear explanation in polite terms is part of professional service
 ## Example Sentences
 
-**1.** 何泊のご予定でしょうか。
-*Nanpaku no go-yotei deshou ka.*
-"How many nights are you planning to stay?"
-
-**2.** 今回のご予約は2泊3日でございます。
-*Konkai no go-yoyaku wa ni-haku mik-ka de gozaimasu.*
-"Your reservation is for 2 nights and 3 days."
-
-**3.** 3泊以上のご滞在には、連泊割引が適用されます。
-*San-paku ijou no go-taizai ni wa, renpaku waribiki ga tekiyou saremasu.*
-"A consecutive-night discount applies for stays of 3 nights or more."
+| Japanese | Meaning |
+|---|---|
+| 何泊のご予定でしょうか。<br><small>*Nanpaku no go-yotei deshou ka.*</small> | How many nights are you planning to stay? |
+| 今回のご予約は2泊3日でございます。<br><small>*Konkai no go-yoyaku wa ni-haku mik-ka de gozaimasu.*</small> | Your reservation is for 2 nights and 3 days. |
+| 3泊以上のご滞在には、連泊割引が適用されます。<br><small>*San-paku ijou no go-taizai ni wa, renpaku waribiki ga tekiyou saremasu.*</small> | A consecutive-night discount applies for stays of 3 nights or more. |
 
 ## Related Expressions
 

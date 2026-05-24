@@ -9,17 +9,17 @@ title: 署名 (shomei)
 
 ## Example Sentences
 
-**1.** こちらにご署名をお願いいたします。
-*Kochira ni goshomei o onegai itashimasu.*
-"Could you please sign here?"
+こちらにご署名をお願いいたします。
+<small>*Kochira ni goshomei o onegai itashimasu.*</small>
+Could you please sign here?
 
-**2.** ご利用料金の確認のため、こちらにご署名いただけますでしょうか。
-*Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.*
-"Could you please sign here to confirm the charges for the stay?"
+ご利用料金の確認のため、こちらにご署名いただけますでしょうか。
+<small>*Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.*</small>
+Could you please sign here to confirm the charges for the stay?
 
-**3.** ご署名いただいた書類はお控えとしてお渡しいたします。
-*Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.*
-"We will provide you with a copy of the signed document for your records."
+ご署名いただいた書類はお控えとしてお渡しいたします。
+<small>*Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.*</small>
+We will provide you with a copy of the signed document for your records.
 
 
 ## Related Expressions

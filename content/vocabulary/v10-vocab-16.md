@@ -9,17 +9,17 @@ title: 決済 (kessai)
 In hotels, 決済 most commonly occurs at checkout (精算) but may also happen at the point of service for in-room dining, spa treatments, or optional add-ons. Restaurants use 決済 when referring to table-side payment processing. Key phrases include クレジットカードでの決済が可能です to let a guest know card payment is available, and 決済を処理いたします to indicate the transaction is being processed. When a 決済 fails, the appropriate response is to discreetly inform the guest and offer alternatives -- keeping their voice low, staying composed, and framing it as a technical check rather than a personal issue
 ## Example Sentences
 
-**1.** 本日はどのような方法でご決済なさいますか。
-*Honjitsu wa donna youhou de go-kessai nasaimasu ka.*
-"How would you like to complete your payment today?"
+本日はどのような方法でご決済なさいますか。
+<small>*Honjitsu wa donna youhou de go-kessai nasaimasu ka.*</small>
+How would you like to complete your payment today?
 
-**2.** クレジットカードでの決済が完了いたしました。
-*Kurejitto kaado de no kessai ga kanryou itashimashita.*
-"Payment by credit card has been completed."
+クレジットカードでの決済が完了いたしました。
+<small>*Kurejitto kaado de no kessai ga kanryou itashimashita.*</small>
+Payment by credit card has been completed.
 
-**3.** 電子マネーでの決済も承っております。
-*Denshi manee de no kessai mo uketamatteotte orimasu.*
-"We also accept payment by electronic money."
+電子マネーでの決済も承っております。
+<small>*Denshi manee de no kessai mo uketamatteotte orimasu.*</small>
+We also accept payment by electronic money.
 
 
 ## Related Expressions

@@ -8,17 +8,17 @@ title: 外国人 (gaikokujin)
 When working a reception desk or concierge role, the job involves anticipating what 外国人 guests need before they ask. That means multilingual menus, bilingual signage, and staff who can at least offer a warm greeting in English or another language. Note here: appearance is never a reliable guide to nationality, so staff should not assume a guest is Japanese or foreign based on how they look. The 外国人 classification includes anyone holding a non-Japanese passport, and attentiveness should match that reality
 ## Example Sentences
 
-**1.** 本日は外国人のお客様が多くいらっしゃいますので、英語での対応をお願いいたします。
-*Honjitsu wa gaikokujin no okyakusama ga ooku irasshaimasu node, eigo de no taiou wo onegai itashimasu.*
-"We have many foreign guests today, so please be prepared to assist in English."
+本日は外国人のお客様が多くいらっしゃいますので、英語での対応をお願いいたします。
+<small>*Honjitsu wa gaikokujin no okyakusama ga ooku irasshaimasu node, eigo de no taiou wo onegai itashimasu.*</small>
+We have many foreign guests today, so please be prepared to assist in English.
 
-**2.** 外国人のお客様にはパスポートのご提示をお願いしております。
-*Gaikokujin no okyakusama ni wa pasupoto no goteiji wo onegai shite orimasu.*
-"We ask foreign guests to present their passport."
+外国人のお客様にはパスポートのご提示をお願いしております。
+<small>*Gaikokujin no okyakusama ni wa pasupoto no goteiji wo onegai shite orimasu.*</small>
+We ask foreign guests to present their passport.
 
-**3.** このホテルは外国人旅行者に大変人気がございます。
-*Kono hoteru wa gaikokujin ryokousha ni taihen ninki ga gozaimasu.*
-"This hotel is very popular among foreign travelers."
+このホテルは外国人旅行者に大変人気がございます。
+<small>*Kono hoteru wa gaikokujin ryokousha ni taihen ninki ga gozaimasu.*</small>
+This hotel is very popular among foreign travelers.
 
 ## Related Expressions
 

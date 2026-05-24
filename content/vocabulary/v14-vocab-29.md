@@ -9,17 +9,11 @@ Hospitality staff need to handle マナー situations with a light touch. Guests
 
 ## Example Sentences
 
-**1.** 電車内では携帯電話のご使用をお控えいただくなど、マナーをお守りください。
-*Densha nai de wa keitai denwa no go-shiyou wo o-hikae itadaku nado, manaa wo o-mamori kudasai.*
-"Please observe good manners, such as refraining from using mobile phones inside the train."
-
-**2.** 温泉施設では、入浴前に体を洗うというマナーがございます。
-*Onsen shisetsu de wa, nyuuyoku mae ni karada wo arau to iu manaa ga gozaimasu.*
-"At hot spring facilities, there is a manner of washing your body before entering the bath."
-
-**3.** 神社仏閣を訪れる際は、その場のマナーを尊重していただけますと幸いです。
-*Jinja-butsukaku wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.*
-"When visiting shrines and temples, we would appreciate your respect for the manners of the place."
+| Japanese | Meaning |
+|---|---|
+| 電車内では携帯電話のご使用をお控えいただくなど、マナーをお守りください。<br><small>*Densha nai de wa keitai denwa no go-shiyou wo o-hikae itadaku nado, manaa wo o-mamori kudasai.*</small> | Please observe good manners, such as refraining from using mobile phones inside the train. |
+| 温泉施設では、入浴前に体を洗うというマナーがございます。<br><small>*Onsen shisetsu de wa, nyuuyoku mae ni karada wo arau to iu manaa ga gozaimasu.*</small> | At hot spring facilities, there is a manner of washing your body before entering the bath. |
+| 神社仏閣を訪れる際は、その場のマナーを尊重していただけますと幸いです。<br><small>*Jinja-butsukaku wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.*</small> | When visiting shrines and temples, we would appreciate your respect for the manners of the place. |
 
 ## Related Expressions
 

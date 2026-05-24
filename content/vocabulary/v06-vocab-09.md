@@ -8,17 +8,11 @@ title: うるさい (urusai)
 Understanding うるさい also helps staff read the emotional state of the guest. When someone uses this word unprompted, they are typically past their frustration threshold, the issue has been affecting them long enough that they felt compelled to say something. That calls for a particularly empathetic and swift response, not routine acknowledgement. Hospitality training in Japan specifically addresses this vocabulary gap: recognising the casual word the guest uses while responding in formal, solution-focused language
 ## Example Sentences
 
-**1.** 「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。
-*"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.*
-"Having received your report that the noise is troubling you, we will address the disturbance."
-
-**2.** ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。
-*Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.*
-"We are very sorry for the inconvenience. We will look into the cause of the noise right now."
-
-**3.** お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。
-*O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.*
-"If the noise from the neighbouring room has been disturbing you, we would like to suggest moving to a different room."
+| Japanese | Meaning |
+|---|---|
+| 「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。<br><small>*"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.*</small> | Having received your report that the noise is troubling you, we will address the disturbance. |
+| ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。<br><small>*Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.*</small> | We are very sorry for the inconvenience. We will look into the cause of the noise right now. |
+| お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。<br><small>*O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.*</small> | If the noise from the neighbouring room has been disturbing you, we would like to suggest moving to a different room. |
 
 ## Related Expressions
 

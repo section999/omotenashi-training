@@ -9,17 +9,11 @@ In daily hotel operations, 近く appears in responses to questions about the su
 
 ## Example Sentences
 
-**1.** 駅はホテルの近くにございます。徒歩で約5分でございます。
-*Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.*
-"The station is near the hotel: approximately a five-minute walk."
-
-**2.** ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。
-*Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.*
-"For dinner, there are several well-regarded Japanese restaurants near the hotel."
-
-**3.** コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。
-*Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.*
-"There is a convenience store just nearby, so I trust one will find everything you need."
+| Japanese | Meaning |
+|---|---|
+| 駅はホテルの近くにございます。徒歩で約5分でございます。<br><small>*Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.*</small> | The station is near the hotel: approximately a five-minute walk. |
+| ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。<br><small>*Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.*</small> | For dinner, there are several well-regarded Japanese restaurants near the hotel. |
+| コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。<br><small>*Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.*</small> | There is a convenience store just nearby, so I trust one will find everything you need. |
 
 ## Related Expressions
 

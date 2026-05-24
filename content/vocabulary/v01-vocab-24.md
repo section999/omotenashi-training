@@ -12,17 +12,11 @@ The phrase carries responsibility. Once staff say *go-annai itashimasu*, one is 
 
 ## Example Sentences
 
-**1.** お部屋までご案内いたします。こちらへどうぞ。
-*O-heya made go-annai itashimasu. Kochira e dōzo.*
-"I will show you to the room. Please come this way."
-
-**2.** レストランまでご案内いたします。足元にお気をつけください。
-*Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.*
-"I will guide you to the restaurant. Please watch your step."
-
-**3.** チェックアウトの際には、出口までご案内いたします。
-*Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.*
-"At checkout, I will escort you to the entrance."
+| Japanese | Meaning |
+|---|---|
+| お部屋までご案内いたします。こちらへどうぞ。<br><small>*O-heya made go-annai itashimasu. Kochira e dōzo.*</small> | I will show you to the room. Please come this way. |
+| レストランまでご案内いたします。足元にお気をつけください。<br><small>*Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.*</small> | I will guide you to the restaurant. Please watch your step. |
+| チェックアウトの際には、出口までご案内いたします。<br><small>*Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.*</small> | At checkout, I will escort you to the entrance. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 料金 (ryokin)
 When presenting the total charge, use こちらが料金でございます while pointing to or presenting the itemised statement. If additional charges are involved, such as room service, minibar consumption, or early check-in fees, walk the guest through each one individually before showing the final 料金. Business travellers especially will often ask for a full breakdown, so being ready to explain each component is part of the job
 ## Example Sentences
 
-**1.** こちらが料金でございます。ご確認いただけますでしょうか。
-*Kochira ga ryōkin de gozaimasu. Go-kakunin itadakemasu deshō ka.*
-"This is the charge. Could you please take a moment to review it?"
-
-**2.** 料金にはお食事代と消費税が含まれております。
-*Ryōkin ni wa o-shokuji-dai to shōhi-zei ga fukumarete orimasu.*
-"The charge includes the cost of meals and consumption tax."
-
-**3.** ルームサービスの追加料金はチェックアウト時にまとめてご請求いたします。
-*Rūmu-sābisu no tsuika ryōkin wa chekku-auto-ji ni matomete go-seikyū itashimasu.*
-"Additional room service charges will be billed together at the time of check-out."
+| Japanese | Meaning |
+|---|---|
+| こちらが料金でございます。ご確認いただけますでしょうか。<br><small>*Kochira ga ryōkin de gozaimasu. Go-kakunin itadakemasu deshō ka.*</small> | This is the charge. Could you please take a moment to review it? |
+| 料金にはお食事代と消費税が含まれております。<br><small>*Ryōkin ni wa o-shokuji-dai to shōhi-zei ga fukumarete orimasu.*</small> | The charge includes the cost of meals and consumption tax. |
+| ルームサービスの追加料金はチェックアウト時にまとめてご請求いたします。<br><small>*Rūmu-sābisu no tsuika ryōkin wa chekku-auto-ji ni matomete go-seikyū itashimasu.*</small> | Additional room service charges will be billed together at the time of check-out. |
 
 ## Related Expressions
 

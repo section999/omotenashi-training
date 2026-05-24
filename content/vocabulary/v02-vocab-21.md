@@ -8,17 +8,11 @@ title: 変更 (henkou)
 In a hospitality context, the workflow is fairly consistent: acknowledge the request warmly, check the system, then either confirm the change or offer an alternative. The opener ご変更のご希望でございますね confirms to the guest that the request has been understood. If a room upgrade or other change comes with an added charge, say so clearly and politely before making the modification. Closing with 変更内容をご確認いただけますか wraps the interaction neatly and prevents the kind of misunderstanding that causes problems at check-out
 ## Example Sentences
 
-**1.** ご予約の変更は可能でございます。
-*Go-yoyaku no henkō wa kanō de gozaimasu.*
-"Changes to your reservation are possible."
-
-**2.** お日にちの変更をご希望でしょうか。
-*O-hinichi no henkō wo go-kibō deshō ka.*
-"Are you hoping to change the date?"
-
-**3.** 変更内容を確認させていただきます。
-*Henkō naiyō wo kakunin sasete itadakimasu.*
-"Allow me to confirm the details of your change."
+| Japanese | Meaning |
+|---|---|
+| ご予約の変更は可能でございます。<br><small>*Go-yoyaku no henkō wa kanō de gozaimasu.*</small> | Changes to your reservation are possible. |
+| お日にちの変更をご希望でしょうか。<br><small>*O-hinichi no henkō wo go-kibō deshō ka.*</small> | Are you hoping to change the date? |
+| 変更内容を確認させていただきます。<br><small>*Henkō naiyō wo kakunin sasete itadakimasu.*</small> | Allow me to confirm the details of your change. |
 
 ## Related Expressions
 

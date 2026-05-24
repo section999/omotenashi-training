@@ -8,17 +8,11 @@ title: 避難場所 (hinan basho)
 Staff should memorize the 避難場所 for their assigned floor or section and rehearse the evacuation route during regular drills. During an actual emergency, the priority is to guide guests calmly and efficiently without creating panic; phrases such as こちらへどうぞ (please come this way) combined with clear gestures are more effective than lengthy verbal explanations under stress. Once at the 避難場所, a roll call using the guest list or room assignment records allows staff to confirm that all guests are accounted for. Cooperation with fire wardens, local authorities, and emergency services at the 避難場所 is essential for an organized response
 ## Example Sentences
 
-**1.** 火災の際は、速やかに最寄りの避難場所へお移りください。
-*Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.*
-"In case of fire, please move immediately to the nearest evacuation area."
-
-**2.** 避難場所はホテル正面玄関前の広場となっております。
-*Hinan basho wa hoteru shoumen genkan mae no hiroba to natte orimasu.*
-"The evacuation area is the open plaza in front of the hotel's main entrance."
-
-**3.** 緊急時はスタッフの誘導に従い、避難場所までお進みください。
-*Kinkyuu ji wa sutaffu no yuudou ni shitagatte, hinan basho made osusumi kudasai.*
-"During an emergency, please proceed to the evacuation area by following staff guidance."
+| Japanese | Meaning |
+|---|---|
+| 火災の際は、速やかに最寄りの避難場所へお移りください。<br><small>*Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.*</small> | In case of fire, please move immediately to the nearest evacuation area. |
+| 避難場所はホテル正面玄関前の広場となっております。<br><small>*Hinan basho wa hoteru shoumen genkan mae no hiroba to natte orimasu.*</small> | The evacuation area is the open plaza in front of the hotel's main entrance. |
+| 緊急時はスタッフの誘導に従い、避難場所までお進みください。<br><small>*Kinkyuu ji wa sutaffu no yuudou ni shitagatte, hinan basho made osusumi kudasai.*</small> | During an emergency, please proceed to the evacuation area by following staff guidance. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 作業 (sagyou)
 Even routine 作業 are treated with care and attention in Japanese hospitality. A room attendant who folds a towel into an origami shape is doing 作業, but the spirit behind it is genuine guest care. That combination of technical precision and warm intention is central to omotenashi. Supervisors use 作業確認 (sagyou kakunin, task verification) to check that every 作業 has been done to standard before a guest arrives or an event starts. The 作業手順 (sagyou tejun, task procedure) ensures that each piece of work is carried out consistently, regardless of which staff member is on duty
 ## Example Sentences
 
-**1.** チェックアウト後の客室清掃作業は、2時間以内に完了させてください。
-*Chekku auto go no kyakushitsu seisou sagyou wa, nijikan inai ni kanryou sasete kudasai.*
-"Please complete the guest room cleaning task within two hours after checkout."
+チェックアウト後の客室清掃作業は、2時間以内に完了させてください。
+<small>*Chekku auto go no kyakushitsu seisou sagyou wa, nijikan inai ni kanryou sasete kudasai.*</small>
+Please complete the guest room cleaning task within two hours after checkout.
 
-**2.** 倉庫での作業を行う際は、安全手順を必ず守ってください。
-*Soukou de no sagyou wo okonau sai wa, anzen tejun wo kanarazu mamotte kudasai.*
-"When performing tasks in the warehouse, please always follow the safety procedures."
+倉庫での作業を行う際は、安全手順を必ず守ってください。
+<small>*Soukou de no sagyou wo okonau sai wa, anzen tejun wo kanarazu mamotte kudasai.*</small>
+When performing tasks in the warehouse, please always follow the safety procedures.
 
-**3.** バンケット会場のセッティング作業が予定通りに完了いたしました。
-*Banketto kaijou no settingu sagyou ga yotei doori ni kanryou itashimashita.*
-"The setup task for the banquet venue has been completed as scheduled."
+バンケット会場のセッティング作業が予定通りに完了いたしました。
+<small>*Banketto kaijou no settingu sagyou ga yotei doori ni kanryou itashimashita.*</small>
+The setup task for the banquet venue has been completed as scheduled.
 
 
 ## Related Expressions

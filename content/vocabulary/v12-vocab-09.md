@@ -9,17 +9,17 @@ title: 消防車 (shoubousha)
 Cooperation with 消防 (fire service) personnel is legally required once they are on scene. When a 消防車 arrives, operational authority over the building shifts to the fire incident commander and staff must follow firefighter instructions rather than attempting to manage the situation on their own. Hotels are also inspected periodically by the 消防署 to verify that access routes, hydrant connections, sprinkler systems, and evacuation plans meet code. Knowing where the building's 消防用水 (fire service water supply connections) are located helps firefighters do their job faster when seconds count
 ## Example Sentences
 
-**1.** 消防車が現場に到着しました。
-*Shoubousha ga genba ni touchaku shimashita.*
-"The fire truck has arrived at the site."
+消防車が現場に到着しました。
+<small>*Shoubousha ga genba ni touchaku shimashita.*</small>
+The fire truck has arrived at the site.
 
-**2.** 火災の通報を受けて、消防車と救急車が同時に駆けつけました。
-*Kasai no tsuuhou wo ukete, shoubousha to kyuukyuusha ga douji ni kaketsukemashita.*
-"Upon receiving the fire report, both the fire truck and ambulance rushed to the scene simultaneously."
+火災の通報を受けて、消防車と救急車が同時に駆けつけました。
+<small>*Kasai no tsuuhou wo ukete, shoubousha to kyuukyuusha ga douji ni kaketsukemashita.*</small>
+Upon receiving the fire report, both the fire truck and ambulance rushed to the scene simultaneously.
 
-**3.** ホテルの駐車場への入口を開放し、消防車がスムーズに進入できるようにしました。
-*Hoteru no chuushajou e no iriguchi wo kaihou shi, shoubousha ga sumuuzu ni shinnyuu dekiru you ni shimashita.*
-"We opened the hotel parking lot entrance to allow the fire truck to enter smoothly."
+ホテルの駐車場への入口を開放し、消防車がスムーズに進入できるようにしました。
+<small>*Hoteru no chuushajou e no iriguchi wo kaihou shi, shoubousha ga sumuuzu ni shinnyuu dekiru you ni shimashita.*</small>
+We opened the hotel parking lot entrance to allow the fire truck to enter smoothly.
 
 
 ## Related Expressions

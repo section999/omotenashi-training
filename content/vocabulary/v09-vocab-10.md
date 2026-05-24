@@ -8,17 +8,17 @@ title: 大人 (otona)
 Teenagers who sit on the boundary of the adult threshold require extra attention. If a 12-year-old travels with a property that sets its adult age at 13, charging adult rates would be an overcharge that must be unwound at checkout. The property's specific policy should be checked before assigning rates to younger guests. Additionally, when speaking about 大人 guests in service language, the counter 名様 should be used instead of 人. Saying 大人2名様 instead of 大人2人 signals professionalism
 ## Example Sentences
 
-**1.** 大人2名でご予約を承りました。
-*Otona ni-mei de go-yoyaku o uketa wari mashita.*
-"We have received your reservation for 2 adults."
+大人2名でご予約を承りました。
+<small>*Otona ni-mei de go-yoyaku o uketa wari mashita.*</small>
+We have received your reservation for 2 adults.
 
-**2.** 大人のお客様には、浴衣をお部屋にご用意しております。
-*Otona no o-kyakusama ni wa, yukata o o-heya ni go-youi shite orimasu.*
-"We have yukata prepared in the room for adult guests."
+大人のお客様には、浴衣をお部屋にご用意しております。
+<small>*Otona no o-kyakusama ni wa, yukata o o-heya ni go-youi shite orimasu.*</small>
+We have yukata prepared in the room for adult guests.
 
-**3.** 大人1名様あたりの宿泊料金は18,000円でございます。
-*Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassento-en de gozaimasu.*
-"The room rate per adult guest is 18,000 yen."
+大人1名様あたりの宿泊料金は18,000円でございます。
+<small>*Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassento-en de gozaimasu.*</small>
+The room rate per adult guest is 18,000 yen.
 
 
 ## Related Expressions

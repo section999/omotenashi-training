@@ -8,17 +8,11 @@ In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a pro
 問題 is most often heard as part of conditional invitations to speak up: phrases like 何かご問題がございましたら (if there is any problem at all) function as open-ended expressions of readiness that encourage guests to come forward before a minor inconvenience turns into a serious complaint. The best staff use it proactively rather than reactively. Because the word is neutral in register, it works in both spoken and written guest communication, including printed signage and follow-up correspondence
 ## Example Sentences
 
-**1.** 何かご問題がございましたら、いつでもフロントまでお知らせください。
-*Nanika go-mondai ga gozaimashitara, itsudemo furonto made oshirase kudasai.*
-"If there is any problem at all, please let the front desk know at any time."
-
-**2.** ただいまお部屋の問題を確認しております。少々お待ちくださいませ。
-*Tadaima oheya no mondai wo kakunin shite orimasu. Shoushou omachi kudasaimase.*
-"We are currently checking the problem in the room. Please wait just a moment."
-
-**3.** ご宿泊中に問題が発生した場合は、すぐにお申し付けいただけますと幸いです。
-*Go-shukuhaku-chuu ni mondai ga hassei shita baai wa, sugu ni o-moushitsuke itadakemasu to saiwai desu.*
-"If a problem arises during the stay, we would be grateful if one could inform us immediately."
+| Japanese | Meaning |
+|---|---|
+| 何かご問題がございましたら、いつでもフロントまでお知らせください。<br><small>*Nanika go-mondai ga gozaimashitara, itsudemo furonto made oshirase kudasai.*</small> | If there is any problem at all, please let the front desk know at any time. |
+| ただいまお部屋の問題を確認しております。少々お待ちくださいませ。<br><small>*Tadaima oheya no mondai wo kakunin shite orimasu. Shoushou omachi kudasaimase.*</small> | We are currently checking the problem in the room. Please wait just a moment. |
+| ご宿泊中に問題が発生した場合は、すぐにお申し付けいただけますと幸いです。<br><small>*Go-shukuhaku-chuu ni mondai ga hassei shita baai wa, sugu ni o-moushitsuke itadakemasu to saiwai desu.*</small> | If a problem arises during the stay, we would be grateful if one could inform us immediately. |
 
 ## Related Expressions
 

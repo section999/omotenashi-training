@@ -8,17 +8,11 @@ title: 夕食付き (yuushoku tsuki)
 The key difference from 朝食付き is that dinner at most properties is not open-seating. There is often a fixed or staggered schedule, and the guest may need to choose a time slot. The check-in conversation for a 夕食付き guest should include the dinner window and a question such as 「夕食は18時よりご用意しております。ご希望のお時間をお教えいただけますか」. Mentioning only that dinner is included, without the time details, may result in guests arriving at the wrong time
 ## Example Sentences
 
-**1.** お客様のプランは夕食付きでございます。夕食は18時から20時の間にお召し上がりいただけます。
-*O-kyaku-sama no puran wa yuushoku-tsuki de gozaimasu. Yuushoku wa juuhachi-ji kara nijuu-ji no aida ni o-meshiagari itadakemasu.*
-"Your plan includes dinner. Dinner is available between 6:00 and 8:00 p.m."
-
-**2.** 夕食付きプランのお客様は、ご希望のお食事時間をフロントにてお知らせください。
-*Yuushoku-tsuki puran no o-kyaku-sama wa, go-kibou no o-shokuji jikan wo furonto nite o-shirase kudasai.*
-"Guests on the dinner-included plan, please let us know your preferred dining time at the front desk."
-
-**3.** 夕食付きプランには、旬の食材を使った会席料理が含まれております。
-*Yuushoku-tsuki puran ni wa, shun no shokuzai wo tsukatta kaiseki ryouri ga fukumarete orimasu.*
-"The dinner-included plan features kaiseki cuisine made with seasonal ingredients."
+| Japanese | Meaning |
+|---|---|
+| お客様のプランは夕食付きでございます。夕食は18時から20時の間にお召し上がりいただけます。<br><small>*O-kyaku-sama no puran wa yuushoku-tsuki de gozaimasu. Yuushoku wa juuhachi-ji kara nijuu-ji no aida ni o-meshiagari itadakemasu.*</small> | Your plan includes dinner. Dinner is available between 6:00 and 8:00 p.m. |
+| 夕食付きプランのお客様は、ご希望のお食事時間をフロントにてお知らせください。<br><small>*Yuushoku-tsuki puran no o-kyaku-sama wa, go-kibou no o-shokuji jikan wo furonto nite o-shirase kudasai.*</small> | Guests on the dinner-included plan, please let us know your preferred dining time at the front desk. |
+| 夕食付きプランには、旬の食材を使った会席料理が含まれております。<br><small>*Yuushoku-tsuki puran ni wa, shun no shokuzai wo tsukatta kaiseki ryouri ga fukumarete orimasu.*</small> | The dinner-included plan features kaiseki cuisine made with seasonal ingredients. |
 
 ## Related Expressions
 

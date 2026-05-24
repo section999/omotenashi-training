@@ -8,17 +8,17 @@ title: 確定 (kakutei)
 Staff use 確定 most visibly at check-in when verbally reassuring guests that their booking is in order, and in written or emailed reservation confirmations that accompany the 確定 status change. Best practice is to state 確定 alongside the reservation number (予約番号), as the number gives the guest a concrete reference point for any future inquiry and serves as written proof of the booking. For guests who have travelled long distances or are attending important events, the combination of ご予約は確定しております + a stated 予約番号 is a powerful reassurance
 ## Example Sentences
 
-**1.** ご予約は確定しております。予約番号は12345でございます。
-*Go-yoyaku wa kakutei shite orimasu. Yoyaku bangou wa ichi-ni-san-yon-go de gozaimasu.*
-"Your reservation is confirmed. Your reservation number is 12345."
+ご予約は確定しております。予約番号は12345でございます。
+<small>*Go-yoyaku wa kakutei shite orimasu. Yoyaku bangou wa ichi-ni-san-yon-go de gozaimasu.*</small>
+Your reservation is confirmed. Your reservation number is 12345.
 
-**2.** お支払いが完了いたしましたので、ご予約が確定となりました。
-*O-shiharai ga kanryou itashimashita node, go-yoyaku ga kakutei to narimashita.*
-"Your payment has been completed, and your reservation is now confirmed."
+お支払いが完了いたしましたので、ご予約が確定となりました。
+<small>*O-shiharai ga kanryou itashimashita node, go-yoyaku ga kakutei to narimashita.*</small>
+Your payment has been completed, and your reservation is now confirmed.
 
-**3.** 確定後は内容の変更に制限がある場合がございますので、ご確認をお願いいたします。
-*Kakutei go wa naiyou no henkou ni seigen ga aru baai ga gozaimasu node, go-kakunin wo o-negai itashimasu.*
-"Please note that there may be restrictions on changes after confirmation."
+確定後は内容の変更に制限がある場合がございますので、ご確認をお願いいたします。
+<small>*Kakutei go wa naiyou no henkou ni seigen ga aru baai ga gozaimasu node, go-kakunin wo o-negai itashimasu.*</small>
+Please note that there may be restrictions on changes after confirmation.
 
 
 ## Related Expressions

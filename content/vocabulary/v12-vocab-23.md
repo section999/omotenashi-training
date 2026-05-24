@@ -9,17 +9,17 @@ title: 注意 (chuui)
 Beyond signage, 注意 is part of everyday spoken service. The phrase 足元にご注意ください (please watch their step) comes up constantly when guiding guests through construction zones, down staircases, or over uneven ground. Similarly, お荷物にご注意ください is a natural reminder in busy lobbies. Because 注意 signals a moderate and precautionary level of risk, staff should not use it when the situation is dangerous. Those cases call for 危険 or 警告, and choosing the wrong word could cause guests to underestimate a real hazard
 ## Example Sentences
 
-**1.** 清掃後で床が濡れておりますので、足元に十分ご注意ください。
-*Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*
-"The floor is wet after cleaning, so please take extra care with your footing."
+清掃後で床が濡れておりますので、足元に十分ご注意ください。
+<small>*Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*</small>
+The floor is wet after cleaning, so please take extra care with your footing.
 
-**2.** 温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。
-*Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.*
-"The hot spring area has slippery floors, so please exercise great caution."
+温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。
+<small>*Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.*</small>
+The hot spring area has slippery floors, so please exercise great caution.
 
-**3.** 回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。
-*Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.*
-"When using the revolving door, we ask that you please watch young children carefully."
+回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。
+<small>*Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.*</small>
+When using the revolving door, we ask that you please watch young children carefully.
 
 
 ## Related Expressions

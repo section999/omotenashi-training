@@ -8,17 +8,11 @@ title: 緊急対応 (kinkyuu taiou)
 Staff responsibilities within 緊急対応 differ by role. Front desk handles guest communications and roll calls, security coordinates with emergency services, housekeeping supports evacuation, and management oversees the overall response. Key language tasks include announcing the situation clearly without causing panic, directing guests to safe zones, contacting 119番 (fire/ambulance) or 110番 (police) as needed, and documenting the sequence of events for the post-incident report. Teams that drill regularly with 避難訓練 (evacuation drills) act with more confidence when 緊急対応 is triggered for real, because the procedures become second nature
 ## Example Sentences
 
-**1.** 火災発生時は、緊急対応マニュアルに従って速やかに行動してください。
-*Kasai hassei ji wa, kinkyuu taiou manyuaru ni shitagatte sumiyaka ni koudou shite kudasai.*
-"In the event of a fire, please act immediately in accordance with the emergency response manual."
-
-**2.** 本日の緊急対応訓練にご参加いただき、ありがとうございました。
-*Honjitsu no kinkyuu taiou kunren ni gosanka itadaki, arigatou gozaimashita.*
-"Thank you for participating in today's emergency response drill."
-
-**3.** お客様の安全を確保するため、緊急対応チームが直ちに現場へ向かいました。
-*Okyakusama no anzen wo kakuho suru tame, kinkyuu taiou chiimu ga tadachi ni genba e mukaimashita.*
-"The emergency response team headed to the scene immediately to ensure guest safety."
+| Japanese | Meaning |
+|---|---|
+| 火災発生時は、緊急対応マニュアルに従って速やかに行動してください。<br><small>*Kasai hassei ji wa, kinkyuu taiou manyuaru ni shitagatte sumiyaka ni koudou shite kudasai.*</small> | In the event of a fire, please act immediately in accordance with the emergency response manual. |
+| 本日の緊急対応訓練にご参加いただき、ありがとうございました。<br><small>*Honjitsu no kinkyuu taiou kunren ni gosanka itadaki, arigatou gozaimashita.*</small> | Thank you for participating in today's emergency response drill. |
+| お客様の安全を確保するため、緊急対応チームが直ちに現場へ向かいました。<br><small>*Okyakusama no anzen wo kakuho suru tame, kinkyuu taiou chiimu ga tadachi ni genba e mukaimashita.*</small> | The emergency response team headed to the scene immediately to ensure guest safety. |
 
 ## Related Expressions
 

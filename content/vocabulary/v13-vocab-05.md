@@ -9,17 +9,17 @@ title: シフト (shifuto)
 For employees, the シフト isn't just about hours on a page. It's the accountability window. Arriving on time is a baseline professional expectation, and failing to show up without notice is treated as a serious breach in Japanese workplace culture. Many hotels now use digital scheduling systems where staff can view their シフト, request changes, and swap with colleagues, with everything tracked to keep operations predictable
 ## Example Sentences
 
-**1.** 明日のシフトは午前9時から午後5時までです。
-*Ashita no shifuto wa gozen kuji kara gogo goji made desu.*
-"Tomorrow's shift is from 9 AM to 5 PM."
+明日のシフトは午前9時から午後5時までです。
+<small>*Ashita no shifuto wa gozen kuji kara gogo goji made desu.*</small>
+Tomorrow's shift is from 9 AM to 5 PM.
 
-**2.** 来週のシフト表を確認してから予定を入れます。
-*Raishuu no shifuto-hyou o kakunin shite kara yotei o iremasu.*
-"I will check next week's shift schedule before making personal plans."
+来週のシフト表を確認してから予定を入れます。
+<small>*Raishuu no shifuto-hyou o kakunin shite kara yotei o iremasu.*</small>
+I will check next week's shift schedule before making personal plans.
 
-**3.** 夜間のシフトには必ずフロントに二名のスタッフを配置してください。
-*Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.*
-"Please make sure two staff members are always assigned to the front desk during the night shift."
+夜間のシフトには必ずフロントに二名のスタッフを配置してください。
+<small>*Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.*</small>
+Please make sure two staff members are always assigned to the front desk during the night shift.
 
 
 ## Related Expressions

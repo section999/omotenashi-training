@@ -8,17 +8,11 @@ title: 破損 (hason)
 In daily operations, staff encounter 破損 during room inspections (点検), checkout checks, and routine housekeeping. The standard procedure is to report it immediately to the maintenance or engineering department with a clear description of what is damaged and where. Common phrases include 破損がございました ("there is damage") for written reports, and 破損のため使用できません ("cannot be used due to damage") when removing an item from service. When a guest reports damage, staff should apologize, act promptly, and offer a solution. Staff should avoid evaluating fault before addressing the concern, as that conversation can come later
 ## Example Sentences
 
-**1.** 客室の椅子に破損がございましたため、至急ご報告いたします。
-*Kyakushitsu no isu ni hason ga gozaimashita tame, shikkyuu go-houkoku itashimasu.*
-"There is damage to the chair in the guest room, so we are reporting it urgently."
-
-**2.** 破損した備品は速やかに交換のご手配をいたします。
-*Hason shita bihin wa sumiyaka ni koukan no go-tehai wo itashimasu.*
-"We will promptly arrange a replacement for the damaged item."
-
-**3.** ご使用前に破損がないか確認をお願いいたします。
-*Go-shiyou mae ni hason ga nai ka kakunin wo onegai itashimasu.*
-"Please check for any damage before use."
+| Japanese | Meaning |
+|---|---|
+| 客室の椅子に破損がございましたため、至急ご報告いたします。<br><small>*Kyakushitsu no isu ni hason ga gozaimashita tame, shikkyuu go-houkoku itashimasu.*</small> | There is damage to the chair in the guest room, so we are reporting it urgently. |
+| 破損した備品は速やかに交換のご手配をいたします。<br><small>*Hason shita bihin wa sumiyaka ni koukan no go-tehai wo itashimasu.*</small> | We will promptly arrange a replacement for the damaged item. |
+| ご使用前に破損がないか確認をお願いいたします。<br><small>*Go-shiyou mae ni hason ga nai ka kakunin wo onegai itashimasu.*</small> | Please check for any damage before use. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 禁煙 (kin'en)
 Beyond the guest experience, 禁煙 has legal and safety implications. Smoking in a designated non-smoking room can trigger alarms, incur cleaning fees, and in some cases result in penalties for the guest. Staff need to be confident using 禁煙 both as a question, ご希望は禁煙でございますか ("is their preference non-smoking?"), and as a confirmation, 禁煙室をご用意しております ("we have a non-smoking room prepared for you"). Equally important is learning 喫煙 (kitsuen, smoking) with the same care, because a mix-up between the two leads to the wrong outcome
 ## Example Sentences
 
-**1.** ご予約は禁煙室でよろしいでしょうか？
-*Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?*
-"Is your reservation for a non-smoking room?"
+ご予約は禁煙室でよろしいでしょうか？
+<small>*Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?*</small>
+Is your reservation for a non-smoking room?
 
-**2.** 当ホテルの上層階はすべて禁煙フロアとなっております。
-*Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*
-"All upper floors of our hotel are non-smoking."
+当ホテルの上層階はすべて禁煙フロアとなっております。
+<small>*Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*</small>
+All upper floors of our hotel are non-smoking.
 
-**3.** 禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。
-*Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.*
-"We ask guests to refrain from smoking in non-smoking rooms. If you have any concerns, please contact the front desk."
+禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。
+<small>*Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.*</small>
+We ask guests to refrain from smoking in non-smoking rooms. If you have any concerns, please contact the front desk.
 
 
 ## Related Expressions

@@ -10,17 +10,17 @@ The language staff use when taking an order tells a guest a great deal about the
 
 ## Example Sentences
 
-**1.** ご注文はお決まりでしょうか。
-*Go-chuumon wa o-kimari deshou ka.*
-"Have you decided on your order?"
+ご注文はお決まりでしょうか。
+<small>*Go-chuumon wa o-kimari deshou ka.*</small>
+Have you decided on your order?
 
-**2.** ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。
-*Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.*
-"I will take your order. How about today's recommendation?"
+ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。
+<small>*Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.*</small>
+I will take your order. How about today's recommendation?
 
-**3.** ご注文の内容を繰り返させていただきます。
-*Go-chuumon no naiyou wo kurikaesasete itadakimasu.*
-"Allow me to repeat your order to confirm."
+ご注文の内容を繰り返させていただきます。
+<small>*Go-chuumon no naiyou wo kurikaesasete itadakimasu.*</small>
+Allow me to repeat your order to confirm.
 
 
 ## Related Expressions

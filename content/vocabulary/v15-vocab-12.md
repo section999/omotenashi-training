@@ -9,17 +9,11 @@ Hotel staff use 受取 when confirming that a courier delivery has arrived, when
 
 ## Example Sentences
 
-**1.** フロントにてお荷物のお受け取りをお待ちしております。
-*Furonto nite o-nimotsu no o-uketori wo o-machi shite orimasu.*
-"We are holding your parcel at the front desk, ready for you to collect."
-
-**2.** クリーニングのお受け取りの際は、引換券をご提示ください。
-*Kuriiningu no o-uketori no sai wa, hikikaeken wo go-teiji kudasai.*
-"When collecting your laundry, please present your claim ticket."
-
-**3.** お客様のお荷物を確認の上、受取が完了いたしました。
-*O-kyaku-sama no o-nimotsu wo kakunin no ue, uketori ga kanryou itashimashita.*
-"After confirming your belongings, we have completed the receipt of your item."
+| Japanese | Meaning |
+|---|---|
+| フロントにてお荷物のお受け取りをお待ちしております。<br><small>*Furonto nite o-nimotsu no o-uketori wo o-machi shite orimasu.*</small> | We are holding your parcel at the front desk, ready for you to collect. |
+| クリーニングのお受け取りの際は、引換券をご提示ください。<br><small>*Kuriiningu no o-uketori no sai wa, hikikaeken wo go-teiji kudasai.*</small> | When collecting your laundry, please present your claim ticket. |
+| お客様のお荷物を確認の上、受取が完了いたしました。<br><small>*O-kyaku-sama no o-nimotsu wo kakunin no ue, uketori ga kanryou itashimashita.*</small> | After confirming your belongings, we have completed the receipt of your item. |
 
 ## Related Expressions
 

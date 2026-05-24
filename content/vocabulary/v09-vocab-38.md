@@ -8,17 +8,11 @@ title: 受付時間 (uketsuke jikan)
 In a hospitality context, a complete answer to a question about 受付時間 has two parts: the actual hours, and what happens outside them. Stating a closing time without explaining the after-hours alternative leaves guests feeling stranded, especially first-time visitors who may not know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which provides the necessary information and reassures the guest that support is available.
 ## Example Sentences
 
-**1.** 受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。
-*Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.*
-"Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please use the intercom."
-
-**2.** ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。
-*Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*
-"If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements."
-
-**3.** 受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。
-*Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*
-"Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours."
+| Japanese | Meaning |
+|---|---|
+| 受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。<br><small>*Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.*</small> | Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please use the intercom. |
+| ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。<br><small>*Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*</small> | If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements. |
+| 受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。<br><small>*Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*</small> | Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours. |
 
 ## Related Expressions
 

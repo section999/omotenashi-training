@@ -8,17 +8,11 @@ title: 部屋 (heya)
 Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. お部屋 is appropriate in direct conversation and casual clarifications with guests. 客室 is appropriate for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The register of language at a property contributes to the overall atmosphere guests experience
 ## Example Sentences
 
-**1.** お部屋はいかがでしたか？
-*O-heya wa ikaga deshita ka?*
-"How was the room?"
-
-**2.** お部屋のカードキーをこちらにお持ちいただけますか？
-*O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?*
-"Could you bring the room card key here?"
-
-**3.** こちらがお部屋の鍵でございます。どうぞご確認ください。
-*Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.*
-"This is the key to the room. Please check it."
+| Japanese | Meaning |
+|---|---|
+| お部屋はいかがでしたか？<br><small>*O-heya wa ikaga deshita ka?*</small> | How was the room? |
+| お部屋のカードキーをこちらにお持ちいただけますか？<br><small>*O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?*</small> | Could you bring the room card key here? |
+| こちらがお部屋の鍵でございます。どうぞご確認ください。<br><small>*Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.*</small> | This is the key to the room. Please check it. |
 
 ## Related Expressions
 

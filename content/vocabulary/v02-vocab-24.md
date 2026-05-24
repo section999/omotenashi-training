@@ -8,17 +8,17 @@ title: レイトチェックアウト (late check-out)
 In a hospitality context, staff handle レイトチェックアウト requests either at check-in (when a guest pre-requests it) or on the morning of check-out (as a last-minute ask). In both cases, the procedure is the same: check room availability for that afternoon, confirm whether any fee applies (レイトチェックアウトは〇〇時まで〇〇円の追加料金となります), and communicate the decision warmly. Even when unavailable, offering alternatives such as luggage storage or access to lounge facilities until the flight softens the disappointment and upholds the spirit of omotenashi
 ## Example Sentences
 
-**1.** レイトチェックアウトはご利用可能でございます。追加料金は三千円となります。
-*Reito chekku-auto wa go-riyō kanō de gozaimasu. Tsuika ryōkin wa san-zen en to narimasu.*
-"Late check-out is available. The additional charge will be 3,000 yen."
+レイトチェックアウトはご利用可能でございます。追加料金は三千円となります。
+<small>*Reito chekku-auto wa go-riyō kanō de gozaimasu. Tsuika ryōkin wa san-zen en to narimasu.*</small>
+Late check-out is available. The additional charge will be 3,000 yen.
 
-**2.** レイトチェックアウトをご希望の場合、当日の空き状況によりご案内が可能でございます。
-*Reito chekku-auto wo go-kibō no baai, tōjitsu no aki jōkyō ni yori go-annai ga kanō de gozaimasu.*
-"If you would like late check-out, we can accommodate you depending on same-day availability."
+レイトチェックアウトをご希望の場合、当日の空き状況によりご案内が可能でございます。
+<small>*Reito chekku-auto wo go-kibō no baai, tōjitsu no aki jōkyō ni yori go-annai ga kanō de gozaimasu.*</small>
+If you would like late check-out, we can accommodate you depending on same-day availability.
 
-**3.** 本日は満室のため、レイトチェックアウトのご対応が難しい状況でございます。
-*Honjitsu wa manseki no tame, reito chekku-auto no go-taiō ga muzukashii jōkyō de gozaimasu.*
-"Unfortunately, as we are fully booked today, late check-out would be difficult to accommodate."
+本日は満室のため、レイトチェックアウトのご対応が難しい状況でございます。
+<small>*Honjitsu wa manseki no tame, reito chekku-auto no go-taiō ga muzukashii jōkyō de gozaimasu.*</small>
+Unfortunately, as we are fully booked today, late check-out would be difficult to accommodate.
 
 
 ## Related Expressions

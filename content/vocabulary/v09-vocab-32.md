@@ -9,17 +9,17 @@ title: 直前予約 (chokuzen yoyaku)
 Hotels often handle 直前予約 differently from advance bookings. Special promotional packages or upgrade options may be unavailable, and many properties set a cutoff time after which online booking is closed and only phone reservations are accepted. Staff need to know those cutoffs so they can advise callers accurately. When accepting a 直前予約, a standard phrase is ただいまご準備いたしますので、ご到着をお待ちしております. It signals to the guest that action is already being taken while making them feel welcomed.
 ## Example Sentences
 
-**1.** 直前予約は通常料金にてお受けいたします。お部屋の準備に少々お時間をいただきます。
-*Chokuzen yoyaku wa tsuujou ryoukin nite o-uke itashimasu. O-heya no junbi ni shoushou o-jikan wo itadakimasu.*
-"Last-minute reservations are accepted at the standard rate. Please allow us a short time to prepare the room."
+直前予約は通常料金にてお受けいたします。お部屋の準備に少々お時間をいただきます。
+<small>*Chokuzen yoyaku wa tsuujou ryoukin nite o-uke itashimasu. O-heya no junbi ni shoushou o-jikan wo itadakimasu.*</small>
+Last-minute reservations are accepted at the standard rate. Please allow us a short time to prepare the room.
 
-**2.** ただいまご準備いたしますので、ご到着は何時頃をご予定でしょうか。
-*Tadaima go-junbi itashimasu node, go-touchaku wa nanji goro wo go-yotei deshou ka.*
-"We will begin preparing right away: approximately what time do you expect to arrive?"
+ただいまご準備いたしますので、ご到着は何時頃をご予定でしょうか。
+<small>*Tadaima go-junbi itashimasu node, go-touchaku wa nanji goro wo go-yotei deshou ka.*</small>
+We will begin preparing right away: approximately what time do you expect to arrive?
 
-**3.** 直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。
-*Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.*
-"For last-minute reservation guests, please be aware that we may not be able to offer your preferred room type depending on current availability."
+直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。
+<small>*Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.*</small>
+For last-minute reservation guests, please be aware that we may not be able to offer your preferred room type depending on current availability.
 
 
 ## Related Expressions

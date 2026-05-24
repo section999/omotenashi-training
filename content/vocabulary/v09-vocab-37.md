@@ -9,17 +9,17 @@ title: 再確認 (sai kakunin)
 The contact may be by phone, email, or the hotel's booking platform. When calling, the standard opening is ご予約の再確認のためお電話いたしました, followed by reading back every key detail: name, arrival date and time, room type, meal plan, and any special requests. This scripted read-back serves as a quality check to catch data-entry errors before they become check-in surprises. The call also gives the guest a natural opening to mention a changed arrival time, a dietary update, or a new request.
 ## Example Sentences
 
-**1.** 明日ご到着のご予約内容を再確認させていただきたく、お電話いたしました。
-*Ashita go-touchaku no go-yoyaku naiyou wo sai-kakunin sasete itadakitaku, o-denwa itashimashita.*
-"I am calling to reconfirm the details of your reservation scheduled for arrival tomorrow."
+明日ご到着のご予約内容を再確認させていただきたく、お電話いたしました。
+<small>*Ashita go-touchaku no go-yoyaku naiyou wo sai-kakunin sasete itadakitaku, o-denwa itashimashita.*</small>
+I am calling to reconfirm the details of your reservation scheduled for arrival tomorrow.
 
-**2.** ご予約内容を再確認いたします。〇月〇日から2泊、デラックスダブルルーム1室、朝食付きプランでよろしいでしょうか。
-*Go-yoyaku naiyou wo sai-kakunin itashimasu. 〇gatsu〇ka kara nihaku, derakkusu daburu ruumu isshitsu, choushoku tsuki puran de yoroshii deshou ka.*
-"Allow me to reconfirm your reservation details: [dates], 2 nights, one Deluxe Double Room, breakfast included plan: is that correct?"
+ご予約内容を再確認いたします。〇月〇日から2泊、デラックスダブルルーム1室、朝食付きプランでよろしいでしょうか。
+<small>*Go-yoyaku naiyou wo sai-kakunin itashimasu. 〇gatsu〇ka kara nihaku, derakkusu daburu ruumu isshitsu, choushoku tsuki puran de yoroshii deshou ka.*</small>
+Allow me to reconfirm your reservation details: [dates], 2 nights, one Deluxe Double Room, breakfast included plan: is that correct?
 
-**3.** 再確認の際に、ご到着時間のご変更やご要望がございましたらお知らせください。
-*Sai-kakunin no sai ni, go-touchaku jikan no go-henkou ya go-youbou ga gozaimashitara o-shirase kudasai.*
-"If your arrival time has changed or if one has any new requests, please let us know at this time of reconfirmation."
+再確認の際に、ご到着時間のご変更やご要望がございましたらお知らせください。
+<small>*Sai-kakunin no sai ni, go-touchaku jikan no go-henkou ya go-youbou ga gozaimashitara o-shirase kudasai.*</small>
+If your arrival time has changed or if one has any new requests, please let us know at this time of reconfirmation.
 
 
 ## Related Expressions

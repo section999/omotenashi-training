@@ -12,17 +12,11 @@ In the philosophy of omotenashi, waiting for a guest to ask for help is already 
 
 ## Example Sentences
 
-**1.** お荷物をお持ちでしょうか。お手伝いしましょうか。
-*O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.*
-"Do you have luggage? May I help you with it?"
-
-**2.** お困りのようでしたら、お手伝いしましょうか。
-*O-komari no yō deshitara, o-tetsudai shimashō ka.*
-"You seem to be having some difficulty: may I help?"
-
-**3.** ご案内が必要でしたら、お手伝いしましょうか。
-*Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.*
-"If you need directions, may I assist you?"
+| Japanese | Meaning |
+|---|---|
+| お荷物をお持ちでしょうか。お手伝いしましょうか。<br><small>*O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.*</small> | Do you have luggage? May I help you with it? |
+| お困りのようでしたら、お手伝いしましょうか。<br><small>*O-komari no yō deshitara, o-tetsudai shimashō ka.*</small> | You seem to be having some difficulty: may I help? |
+| ご案内が必要でしたら、お手伝いしましょうか。<br><small>*Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.*</small> | If you need directions, may I assist you? |
 
 ## Related Expressions
 

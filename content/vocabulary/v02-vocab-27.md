@@ -8,17 +8,11 @@ title: カードキー (card key)
 In a hospitality context, staff introduce カードキー during check-in as a standard part of the handover sequence: こちらがカードキーでございます, followed by any relevant instructions about its use. If the property restricts elevator access by floor (エレベーターはカードキーをかざしてご利用ください), staff should explain this clearly to avoid frustration at the elevator. Common follow-up scenarios include demagnetized cards (カードキーが反応しない場合は、フロントへお越しください) or requests for a second card for a room companion (追加のカードキーをご用意いたします)
 ## Example Sentences
 
-**1.** こちらがカードキーでございます。エレベーターにもご利用いただけます。
-*Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.*
-"Here is your card key. It can also be used for the elevator."
-
-**2.** カードキーが反応しない場合は、フロントへお越しください。
-*Kādo kī ga hannō shinai baai wa, furonto e o-koshi kudasai.*
-"If your card key does not respond, please come to the front desk."
-
-**3.** 追加のカードキーをご用意いたします。少々お待ちください。
-*Tsuika no kādo kī wo go-yōi itashimasu. Shōshō o-machi kudasai.*
-"I will prepare an additional card key for you. Please wait a moment."
+| Japanese | Meaning |
+|---|---|
+| こちらがカードキーでございます。エレベーターにもご利用いただけます。<br><small>*Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.*</small> | Here is your card key. It can also be used for the elevator. |
+| カードキーが反応しない場合は、フロントへお越しください。<br><small>*Kādo kī ga hannō shinai baai wa, furonto e o-koshi kudasai.*</small> | If your card key does not respond, please come to the front desk. |
+| 追加のカードキーをご用意いたします。少々お待ちください。<br><small>*Tsuika no kādo kī wo go-yōi itashimasu. Shōshō o-machi kudasai.*</small> | I will prepare an additional card key for you. Please wait a moment. |
 
 ## Related Expressions
 

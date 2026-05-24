@@ -9,17 +9,11 @@ Hotel staff often step in to help guests navigate 切符 purchases, especially f
 
 ## Example Sentences
 
-**1.** 切符を買って電車に乗りました。
-*Kippu wo katte densha ni norimashita.*
-"I bought a ticket and took the train."
-
-**2.** 新幹線の指定席切符は事前にご購入されることをお勧めします。
-*Shinkansen no shiteiseki kippu wa jizen ni gokokunyu sareru koto wo osusume shimasu.*
-"We recommend purchasing your reserved shinkansen ticket in advance."
-
-**3.** 切符はこちらの自動券売機でお買い求めいただけます。英語表示も対応しております。
-*Kippu wa kochira no jidou kenbaiki de okaiotome itadakemasu. Eigo hyouji mo taiou shite orimasu.*
-"Tickets can be purchased at this vending machine here. It also supports English display."
+| Japanese | Meaning |
+|---|---|
+| 切符を買って電車に乗りました。<br><small>*Kippu wo katte densha ni norimashita.*</small> | I bought a ticket and took the train. |
+| 新幹線の指定席切符は事前にご購入されることをお勧めします。<br><small>*Shinkansen no shiteiseki kippu wa jizen ni gokokunyu sareru koto wo osusume shimasu.*</small> | We recommend purchasing your reserved shinkansen ticket in advance. |
+| 切符はこちらの自動券売機でお買い求めいただけます。英語表示も対応しております。<br><small>*Kippu wa kochira no jidou kenbaiki de okaiotome itadakemasu. Eigo hyouji mo taiou shite orimasu.*</small> | Tickets can be purchased at this vending machine here. It also supports English display. |
 
 ## Related Expressions
 

@@ -9,17 +9,17 @@ title: 残業 (zangyou)
 Management in hotels and ryokan has to balance genuine operational flexibility with a legal and ethical responsibility to prevent overwork. Many modern hospitality employers are implementing stricter 残業 monitoring and encouraging staff to finish within shift time whenever possible. For employees, an important practice to develop early is getting supervisor approval before starting 残業, rather than working the extra hours and reporting it after the fact. A common error is underestimating the importance of that pre-approval step in a Japanese workplace
 ## Example Sentences
 
-**1.** 今日は残業で夜9時まで働きました。
-*Kyou wa zangyou de yoru kuji made hatarakimashita.*
-"I worked overtime until 9 PM today."
+今日は残業で夜9時まで働きました。
+<small>*Kyou wa zangyou de yoru kuji made hatarakimashita.*</small>
+I worked overtime until 9 PM today.
 
-**2.** 大型連休前は予約が集中するため、残業が増えることがあります。
-*Oogata renkyuu mae wa yoyaku ga shuuchuu suru tame, zangyou ga fueru koto ga arimasu.*
-"Overtime tends to increase before major holiday periods due to a concentration of reservations."
+大型連休前は予約が集中するため、残業が増えることがあります。
+<small>*Oogata renkyuu mae wa yoyaku ga shuuchuu suru tame, zangyou ga fueru koto ga arimasu.*</small>
+Overtime tends to increase before major holiday periods due to a concentration of reservations.
 
-**3.** 残業をする場合は事前に上司の承認を得てください。
-*Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*
-"If you need to work overtime, please obtain your supervisor's approval in advance."
+残業をする場合は事前に上司の承認を得てください。
+<small>*Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*</small>
+If you need to work overtime, please obtain your supervisor's approval in advance.
 
 
 ## Related Expressions

@@ -12,17 +12,11 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 
 ## Example Sentences
 
-**1.** こちらがお部屋の鍵でございます。どうぞ。
-*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*
-"Here is the room key. Please."
-
-**2.** こちらのお席にどうぞ。
-*Kochira no o-seki ni dōzo.*
-"Please take this seat."
-
-**3.** 温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。
-*Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.*
-"Here is a warm drink for you. Please, take your time and enjoy."
+| Japanese | Meaning |
+|---|---|
+| こちらがお部屋の鍵でございます。どうぞ。<br><small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small> | Here is the room key. Please. |
+| こちらのお席にどうぞ。<br><small>*Kochira no o-seki ni dōzo.*</small> | Please take this seat. |
+| 温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。<br><small>*Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.*</small> | Here is a warm drink for you. Please, take your time and enjoy. |
 
 ## Related Expressions
 

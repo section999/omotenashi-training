@@ -8,17 +8,17 @@ title: パスポート確認 (pasupoto kakunin)
 The small details of how staff handle the document matter as much as the check itself. Receiving and returning the passport with both hands is standard Japanese service etiquette and signals respect. Staff should explain clearly why they need to see the passport and reassure the guest that the information is collected purely for legal registration, not stored for any other purpose. If a property sees a lot of international guests, a multilingual card at the front desk explaining the process in a few languages is a simple touch that can prevent a lot of awkward moments
 ## Example Sentences
 
-**1.** チェックインの際に、外国のお客様にはパスポート確認をお願いしております。
-*Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.*
-"We ask foreign guests to undergo a passport check at the time of check-in."
+チェックインの際に、外国のお客様にはパスポート確認をお願いしております。
+<small>*Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.*</small>
+We ask foreign guests to undergo a passport check at the time of check-in.
 
-**2.** パスポート確認は法律上の義務ですので、ご協力をお願いいたします。
-*Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*
-"Passport verification is a legal requirement, so we appreciate your cooperation."
+パスポート確認は法律上の義務ですので、ご協力をお願いいたします。
+<small>*Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*</small>
+Passport verification is a legal requirement, so we appreciate your cooperation.
 
-**3.** フロントスタッフはパスポート確認の後、情報を台帳に記入します。
-*Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*
-"After the passport check, front desk staff record the information in the register."
+フロントスタッフはパスポート確認の後、情報を台帳に記入します。
+<small>*Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*</small>
+After the passport check, front desk staff record the information in the register.
 
 ## Related Expressions
 

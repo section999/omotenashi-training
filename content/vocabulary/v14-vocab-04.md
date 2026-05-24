@@ -8,17 +8,17 @@ title: ビザ (biza)
 Note for day-to-day work: many countries have visa-exemption agreements with Japan, meaning their citizens can enter for up to 90 days without a ビザ at all. This covers large numbers of American, European, and Australian passport holders, so staff should not assume every international guest needed to apply for one. When a guest looks confused or worried about their visa status, the right move is to direct them politely to the Immigration Services Agency of Japan or to the nearest immigration office. A printed list of those contacts at the front desk is a small but thoughtful preparation
 ## Example Sentences
 
-**1.** 観光目的でご入国の場合、ビザが必要かどうかは国籍によって異なります。
-*Kankou mokuteki de gonyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.*
-"Whether a visa is required for entry for tourism purposes depends on the guest's nationality."
+観光目的でご入国の場合、ビザが必要かどうかは国籍によって異なります。
+<small>*Kankou mokuteki de gonyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.*</small>
+Whether a visa is required for entry for tourism purposes depends on the guest's nationality.
 
-**2.** お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。
-*Okyakusama no biza no yuukoukigen wo furonto nite gokakunin itadakemasu deshou ka.*
-"Would you be able to confirm your visa's expiry date at the front desk?"
+お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。
+<small>*Okyakusama no biza no yuukoukigen wo furonto nite gokakunin itadakemasu deshou ka.*</small>
+Would you be able to confirm your visa's expiry date at the front desk?
 
-**3.** ビザの延長については、最寄りの入国管理局にお問い合わせください。
-*Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*
-"For visa extensions, please contact the nearest immigration office."
+ビザの延長については、最寄りの入国管理局にお問い合わせください。
+<small>*Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*</small>
+For visa extensions, please contact the nearest immigration office.
 
 ## Related Expressions
 

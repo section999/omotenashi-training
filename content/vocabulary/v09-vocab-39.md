@@ -9,17 +9,11 @@ Staff should pair 締切 with an exact date and time to eliminate ambiguity. A p
 
 ## Example Sentences
 
-**1.** キャンセル無料の締切は明日の正午でございます。
-*Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.*
-"The deadline for free cancellation is tomorrow at noon."
-
-**2.** ご予約プランの締切が本日深夜零時となっております。
-*Goyoyaku puran no shimekiri ga honjitsu shin'ya reiji to natte orimasu.*
-"The reservation plan deadline is midnight tonight."
-
-**3.** 締切までにご連絡いただけますと大変助かります。
-*Shimekiri made ni go-renraku itadakemasu to taihen tasukarimasu.*
-"We would greatly appreciate it if one could contact us before the deadline."
+| Japanese | Meaning |
+|---|---|
+| キャンセル無料の締切は明日の正午でございます。<br><small>*Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.*</small> | The deadline for free cancellation is tomorrow at noon. |
+| ご予約プランの締切が本日深夜零時となっております。<br><small>*Goyoyaku puran no shimekiri ga honjitsu shin'ya reiji to natte orimasu.*</small> | The reservation plan deadline is midnight tonight. |
+| 締切までにご連絡いただけますと大変助かります。<br><small>*Shimekiri made ni go-renraku itadakemasu to taihen tasukarimasu.*</small> | We would greatly appreciate it if one could contact us before the deadline. |
 
 ## Related Expressions
 

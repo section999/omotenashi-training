@@ -9,17 +9,17 @@ title: 滞在 (taizai)
 A common error is to encounter 滞在 in billing summaries (ご滞在中の料金), service announcements (滞在中はルームサービスをご利用いただけます), and post-stay follow-ups (ご滞在はいかがでしたでしょうか). It also comes up naturally in conversations when staff check in on a guest's overall comfort. Choosing 滞在 over a narrower term signals that staff is attending to the whole experience rather than a single transaction. Note that when calculating charges or planning services, 滞在 encompasses everything from the moment of arrival to the moment of departure, making it the most comprehensive framing available
 ## Example Sentences
 
-**1.** お滞在中はごゆっくりおくつろぎください。
-*O-taizai chuu wa go-yukkuri o-kutsurogi kudasai.*
-"Please relax and enjoy the stay with us."
+お滞在中はごゆっくりおくつろぎください。
+<small>*O-taizai chuu wa go-yukkuri o-kutsurogi kudasai.*</small>
+Please relax and enjoy the stay with us.
 
-**2.** ご滞在は3泊4日のご予定でございますね。
-*Go-taizai wa san-paku yokka no go-yotei de gozaimasu ne.*
-"Your stay is scheduled for 3 nights and 4 days."
+ご滞在は3泊4日のご予定でございますね。
+<small>*Go-taizai wa san-paku yokka no go-yotei de gozaimasu ne.*</small>
+Your stay is scheduled for 3 nights and 4 days.
 
-**3.** ご滞在中にご不便がございましたら、いつでもフロントまでお申しつけください。
-*Go-taizai chuu ni go-fuben ga gozaimashitara, itsudemo furonto made o-moushitsuke kudasai.*
-"If you experience any inconvenience during the stay, please let us know at the front desk at any time."
+ご滞在中にご不便がございましたら、いつでもフロントまでお申しつけください。
+<small>*Go-taizai chuu ni go-fuben ga gozaimashitara, itsudemo furonto made o-moushitsuke kudasai.*</small>
+If you experience any inconvenience during the stay, please let us know at the front desk at any time.
 
 
 ## Related Expressions

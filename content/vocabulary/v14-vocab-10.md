@@ -8,17 +8,17 @@ title: 観光地 (kankouchi)
 Beyond basic recommendations, good hospitality staff understand the seasonal dynamics of local 観光地. Cherry blossom season transforms certain spots into something magical, autumn foliage does the same for others, and summer festivals draw crowds to specific shrines and parks. Knowing peak visiting times allows staff to advise guests on when to arrive to beat the crowds, how long to allow, and which lesser-known spots nearby might be equally rewarding with a fraction of the queue. That level of local expertise is what turns a hotel or ryokan into a trusted gateway to the region, not just a place to sleep
 ## Example Sentences
 
-**1.** 近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。
-*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*
-"We provide guided access to nearby tourist spots via our complimentary hotel shuttle."
+近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。
+<small>*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*</small>
+We provide guided access to nearby tourist spots via our complimentary hotel shuttle.
 
-**2.** このあたりの観光地をまとめたマップを無料でお配りしております。
-*Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.*
-"We offer a free map featuring the tourist spots in this area."
+このあたりの観光地をまとめたマップを無料でお配りしております。
+<small>*Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.*</small>
+We offer a free map featuring the tourist spots in this area.
 
-**3.** 観光地によっては入場料が必要な場合がございますので、事前にご確認ください。
-*Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*
-"Some tourist spots have an admission fee, so please check in advance."
+観光地によっては入場料が必要な場合がございますので、事前にご確認ください。
+<small>*Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*</small>
+Some tourist spots have an admission fee, so please check in advance.
 
 ## Related Expressions
 

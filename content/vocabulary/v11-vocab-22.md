@@ -8,17 +8,17 @@ title: お問い合わせ (otoiawase)
 お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly, rather than the more abrupt 質問 (shitsumon, question), sets a courteous tone for the entire interaction
 ## Example Sentences
 
-**1.** お問い合わせありがとうございます。○○ホテルでございます。
-*Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*
-"Thank you for your inquiry. This is ○○ Hotel."
+お問い合わせありがとうございます。○○ホテルでございます。
+<small>*Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*</small>
+Thank you for your inquiry. This is ○○ Hotel.
 
-**2.** ご不明な点がございましたら、いつでもお問い合わせください。
-*Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*
-"If you have any questions, please feel free to contact us at any time."
+ご不明な点がございましたら、いつでもお問い合わせください。
+<small>*Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*</small>
+If you have any questions, please feel free to contact us at any time.
 
-**3.** お問い合わせの内容を担当部署に確認いたします。
-*Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*
-"I will check the details of your inquiry with the relevant department."
+お問い合わせの内容を担当部署に確認いたします。
+<small>*Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*</small>
+I will check the details of your inquiry with the relevant department.
 
 
 ## Related Expressions

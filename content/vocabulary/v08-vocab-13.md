@@ -9,17 +9,11 @@ In modern hotel and restaurant settings, 奥 is used practically to direct guest
 
 ## Example Sentences
 
-**1.** レストランのお手洗いは奥にございます。
-*Resutoran no o-tearai wa oku ni gozaimasu.*
-"The restroom is at the back of the restaurant."
-
-**2.** お席は奥の窓際にご用意しております。
-*O-seki wa oku no madogiwa ni go-youi shite orimasu.*
-"Your table is prepared at the back by the window."
-
-**3.** ロッカールームは廊下の奥、突き当たりを右にございます。
-*Rokkaa ruumu wa rouka no oku, tsukiatari wo migi ni gozaimasu.*
-"The locker room is at the back of the corridor: turn right at the end."
+| Japanese | Meaning |
+|---|---|
+| レストランのお手洗いは奥にございます。<br><small>*Resutoran no o-tearai wa oku ni gozaimasu.*</small> | The restroom is at the back of the restaurant. |
+| お席は奥の窓際にご用意しております。<br><small>*O-seki wa oku no madogiwa ni go-youi shite orimasu.*</small> | Your table is prepared at the back by the window. |
+| ロッカールームは廊下の奥、突き当たりを右にございます。<br><small>*Rokkaa ruumu wa rouka no oku, tsukiatari wo migi ni gozaimasu.*</small> | The locker room is at the back of the corridor: turn right at the end. |
 
 ## Related Expressions
 

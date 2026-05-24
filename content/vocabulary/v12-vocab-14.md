@@ -9,17 +9,17 @@ title: 病気 (byouki)
 When a guest reports feeling ill, staff should ask about their symptoms clearly before deciding on a course of action. Most hotels can arrange a doctor visit through ドクターコール, direct the guest to the nearest hospital, or provide basic medications where permitted. For international guests, language is often the biggest barrier, so having multilingual health phrase cards and a list of nearby clinics with English-speaking staff is valuable preparation. Staff should record every guest illness, and if a contagious condition is suspected, hygiene protocols should be activated immediately to protect other guests and staff
 ## Example Sentences
 
-**1.** お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。
-*Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.*
-"A guest is feeling unwell, and we are currently arranging a doctor."
+お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。
+<small>*Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.*</small>
+A guest is feeling unwell, and we are currently arranging a doctor.
 
-**2.** 病気の症状がございましたら、すぐにフロントまでお知らせください。
-*Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.*
-"If you experience any symptoms of illness, please inform the front desk immediately."
+病気の症状がございましたら、すぐにフロントまでお知らせください。
+<small>*Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.*</small>
+If you experience any symptoms of illness, please inform the front desk immediately.
 
-**3.** お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。
-*Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*
-"If your child falls ill, we will direct you to the nearest paediatric hospital."
+お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。
+<small>*Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*</small>
+If your child falls ill, we will direct you to the nearest paediatric hospital.
 
 
 ## Related Expressions

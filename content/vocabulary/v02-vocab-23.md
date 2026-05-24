@@ -9,17 +9,17 @@ Handling these requests both proactively and transparently is important. If a gu
 
 ## Example Sentences
 
-**1.** 早朝チェックインをご希望の場合、追加料金が発生する場合がございます。
-*Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.*
-"If you would like early check-in, an additional charge may apply."
+早朝チェックインをご希望の場合、追加料金が発生する場合がございます。
+<small>*Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.*</small>
+If you would like early check-in, an additional charge may apply.
 
-**2.** お部屋の準備が整い次第、早朝チェックインのご案内をいたします。
-*O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.*
-"We will guide you to the room as soon as it is ready for early check-in."
+お部屋の準備が整い次第、早朝チェックインのご案内をいたします。
+<small>*O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.*</small>
+We will guide you to the room as soon as it is ready for early check-in.
 
-**3.** 早朝チェックインのご予約はお済みでしょうか。
-*Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.*
-"Have you made a reservation for early check-in?"
+早朝チェックインのご予約はお済みでしょうか。
+<small>*Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.*</small>
+Have you made a reservation for early check-in?
 
 
 ## Related Expressions

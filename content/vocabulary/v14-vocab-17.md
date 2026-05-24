@@ -8,17 +8,11 @@ title: 交通機関 (koutsuu kikan)
 Knowing the vocabulary is only the beginning. Guests need help with things like IC card compatibility across different operators, the difference between local and express services, and which option makes sense given their luggage, schedule, and budget. A phrase like 「最寄りの駅から各交通機関をご利用いただけます」 is both informative and reassuring for an arriving guest who doesn't yet know how things connect. A common error is to underestimate how much practical transportation knowledge a good concierge carries, but it shows up in every single shift
 ## Example Sentences
 
-**1.** 日本の交通機関はとても便利です。
-*Nihon no koutsuu kikan wa totemo benri desu.*
-"Transportation in Japan is very convenient."
-
-**2.** 当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。
-*Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.*
-"Our hotel is situated with very convenient access to major transportation systems."
-
-**3.** 交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。
-*Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.*
-"If you have any questions about transferring between transport systems, please do not hesitate to contact the front desk."
+| Japanese | Meaning |
+|---|---|
+| 日本の交通機関はとても便利です。<br><small>*Nihon no koutsuu kikan wa totemo benri desu.*</small> | Transportation in Japan is very convenient. |
+| 当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。<br><small>*Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.*</small> | Our hotel is situated with very convenient access to major transportation systems. |
+| 交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。<br><small>*Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.*</small> | If you have any questions about transferring between transport systems, please do not hesitate to contact the front desk. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: 避難 (hinan)
 避難 is announced over the public address system and reinforced by staff stationed at key points along evacuation routes. Staff should know the exact 避難経路 (evacuation route) for every floor of the property, identify guests who may need physical assistance, and account for all guests at the 避難場所 (evacuation area) after departure. Regular 避難訓練 (evacuation drills) are conducted to ensure both speed and composure
 ## Example Sentences
 
-**1.** 避難経路に従って安全な場所へ移動してください。
-*Hinan keiro ni shitagatte anzen na basho e idou shite kudasai.*
-"Please follow the evacuation route and move to a safe location."
-
-**2.** 火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。
-*Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*
-"As the fire alarm is sounding, all staff please begin evacuation guidance immediately."
-
-**3.** 避難の際は、エレベーターをご利用にならず、非常階段をお使いください。
-*Hinan no sai wa, erebētā wo goriyou ni narazu, hijou kaidan wo otsukai kudasai.*
-"During evacuation, please do not use the elevators: use the emergency staircase."
+| Japanese | Meaning |
+|---|---|
+| 避難経路に従って安全な場所へ移動してください。<br><small>*Hinan keiro ni shitagatte anzen na basho e idou shite kudasai.*</small> | Please follow the evacuation route and move to a safe location. |
+| 火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。<br><small>*Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*</small> | As the fire alarm is sounding, all staff please begin evacuation guidance immediately. |
+| 避難の際は、エレベーターをご利用にならず、非常階段をお使いください。<br><small>*Hinan no sai wa, erebētā wo goriyou ni narazu, hijou kaidan wo otsukai kudasai.*</small> | During evacuation, please do not use the elevators: use the emergency staircase. |
 
 ## Related Expressions
 

@@ -8,17 +8,11 @@ title: クレジットカード (credit card)
 In a hospitality context, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). When a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is an indicator of professional competence
 ## Example Sentences
 
-**1.** クレジットカードを拝見してもよろしいでしょうか。
-*Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*
-"May I take a look at your credit card?"
-
-**2.** チェックイン時にクレジットカードをお預かりしております。
-*Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.*
-"We hold a credit card at the time of check-in."
-
-**3.** お支払いはクレジットカードでよろしいでしょうか。
-*O-shiharai wa kurejitto kādo de yoroshii deshō ka.*
-"Will credit card payment be acceptable?"
+| Japanese | Meaning |
+|---|---|
+| クレジットカードを拝見してもよろしいでしょうか。<br><small>*Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*</small> | May I take a look at your credit card? |
+| チェックイン時にクレジットカードをお預かりしております。<br><small>*Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.*</small> | We hold a credit card at the time of check-in. |
+| お支払いはクレジットカードでよろしいでしょうか。<br><small>*O-shiharai wa kurejitto kādo de yoroshii deshō ka.*</small> | Will credit card payment be acceptable? |
 
 ## Related Expressions
 

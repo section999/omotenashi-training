@@ -9,17 +9,17 @@ How staff communicate 延長料金 matters as much as whether they charge it. An
 
 ## Example Sentences
 
-**1.** チェックアウト時刻を過ぎますと、延長料金が発生いたします。
-*Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.*
-"An extension fee will apply if you exceed the checkout time."
+チェックアウト時刻を過ぎますと、延長料金が発生いたします。
+<small>*Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.*</small>
+An extension fee will apply if you exceed the checkout time.
 
-**2.** コインロッカーの延長料金は1時間ごとに100円となっております。
-*Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.*
-"The coin locker extension fee is 100 yen per hour."
+コインロッカーの延長料金は1時間ごとに100円となっております。
+<small>*Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.*</small>
+The coin locker extension fee is 100 yen per hour.
 
-**3.** 延長料金についてご不明な点がございましたら、フロントまでお申し付けください。
-*Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.*
-"If you have any questions about the extension fee, please do not hesitate to contact the front desk."
+延長料金についてご不明な点がございましたら、フロントまでお申し付けください。
+<small>*Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.*</small>
+If you have any questions about the extension fee, please do not hesitate to contact the front desk.
 
 
 ## Related Expressions

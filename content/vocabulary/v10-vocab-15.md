@@ -9,17 +9,17 @@ title: 会計係 (kaikei kakari)
 In hotels and ryokan, the 会計係 may also review itemized charges (利用明細) with the guest, answer questions about specific line items, and handle late charges that were posted after departure. In restaurants, the role may be a dedicated cashier or the server themselves. Common phrases include 会計係が精算を行います when explaining the checkout process, and 会計係にお申し付けください when directing guests to the right person for billing questions. This role shapes the guest's final impression of the property
 ## Example Sentences
 
-**1.** 会計係がお支払いの手続きをいたします。
-*Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.*
-"The cashier will handle your payment procedure."
+会計係がお支払いの手続きをいたします。
+<small>*Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.*</small>
+The cashier will handle your payment procedure.
 
-**2.** ご不明な点は会計係にお尋ねください。
-*Go-fumeina ten wa kaikei kakari ni otazune kudasai.*
-"Please ask the cashier if one has any questions."
+ご不明な点は会計係にお尋ねください。
+<small>*Go-fumeina ten wa kaikei kakari ni otazune kudasai.*</small>
+Please ask the cashier if one has any questions.
 
-**3.** 会計係より領収書をお渡しいたします。
-*Kaikei kakari yori ryoushuusho o owatashi itashimasu.*
-"The cashier will provide you with a receipt."
+会計係より領収書をお渡しいたします。
+<small>*Kaikei kakari yori ryoushuusho o owatashi itashimasu.*</small>
+The cashier will provide you with a receipt.
 
 
 ## Related Expressions

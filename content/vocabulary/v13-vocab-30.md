@@ -8,17 +8,17 @@ title: 評価 (hyouka)
 Staff evaluations in Japanese hotels typically follow a regular cycle -- monthly, quarterly, or annual -- and usually combine quantitative metrics (room-cleaning completion rates, complaint resolution times) with qualitative assessments (attitude, communication, attentiveness to guest needs). Guest-facing 評価 comes largely through アンケート (anketto, questionnaires) or online review scores, and these results are shared openly with staff to connect daily behaviour to real guest satisfaction. Managers tend to open evaluation conversations with「フィードバックをお伝えします」(fiido-bakku wo ootsutae shimasu, "I will share some feedback"), which frames what follows as supportive rather than critical. Staff find this framing helpful because it signals the tone of the exchange before it begins
 ## Example Sentences
 
-**1.** 今月のサービス品質評価の結果をスタッフ全員と共有いたします。
-*Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.*
-"We will share the results of this month's service quality evaluation with all staff."
+今月のサービス品質評価の結果をスタッフ全員と共有いたします。
+<small>*Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.*</small>
+We will share the results of this month's service quality evaluation with all staff.
 
-**2.** お客様からの評価が高まっているのは、皆様の日々の努力の成果です。
-*Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.*
-"The improvement in our guests' evaluations is a result of everyyour daily efforts."
+お客様からの評価が高まっているのは、皆様の日々の努力の成果です。
+<small>*Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.*</small>
+The improvement in our guests' evaluations is a result of everyyour daily efforts.
 
-**3.** 定期的な評価を通じて、各スタッフの成長をサポートしてまいります。
-*Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*
-"We will continue to support the growth of each staff member through regular evaluations."
+定期的な評価を通じて、各スタッフの成長をサポートしてまいります。
+<small>*Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*</small>
+We will continue to support the growth of each staff member through regular evaluations.
 
 
 ## Related Expressions

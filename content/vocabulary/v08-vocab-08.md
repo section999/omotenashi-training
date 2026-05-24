@@ -9,17 +9,11 @@ The pronunciation is ikkai, not ichi-kai, and this is one of those irregular cou
 
 ## Example Sentences
 
-**1.** ロビーは一階にございます。
-*Robii wa ikkai ni gozaimasu.*
-"The lobby is on the first floor."
-
-**2.** フロントデスクは一階、入ってすぐ正面にございます。
-*Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.*
-"The front desk is on the first floor, directly ahead as one enter."
-
-**3.** お土産店は一階のロビー横にございます。
-*O-miyage-ten wa ikkai no robii yoko ni gozaimasu.*
-"The souvenir shop is on the first floor, next to the lobby."
+| Japanese | Meaning |
+|---|---|
+| ロビーは一階にございます。<br><small>*Robii wa ikkai ni gozaimasu.*</small> | The lobby is on the first floor. |
+| フロントデスクは一階、入ってすぐ正面にございます。<br><small>*Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.*</small> | The front desk is on the first floor, directly ahead as one enter. |
+| お土産店は一階のロビー横にございます。<br><small>*O-miyage-ten wa ikkai no robii yoko ni gozaimasu.*</small> | The souvenir shop is on the first floor, next to the lobby. |
 
 ## Related Expressions
 
