@@ -3,12 +3,10 @@ id: v10-vocab
 section: 19
 title: 残高 (zandaka)
 ---
-**Pronunciation:** [zan-**da**-ka]
-**Register:** Formal/Neutral, standard in front desk and billing conversations
 
 残高 is the word for a remaining balance, and it covers two distinct situations. On one side, a guest with a prepaid account or hotel card may still have money available to spend (positive 残高). On the other, a guest may have used services and not yet fully paid (outstanding 残高). The same word covers both directions, so context is essential to determine whether the 残高 refers to funds the guest has available or money they still owe.
 
-Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without stress. How one communicates this matters as much as when one does it: 残高 conversations should always be calm, private, and matter-of-fact
+Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without stress. How one communicates this matters as much as when staff do it: 残高 conversations should always be calm, private, and matter-of-fact
 ## Example Sentences
 
 **1.** 現在のご残高は〇〇円でございます。

@@ -3,8 +3,6 @@ id: v09-vocab
 section: 23
 title: 変更可能 (henkou kanou)
 ---
-**Pronunciation:** [hen-**kou**-ka-nou]
-**Register:** Formal/Neutral, standard reservation and front desk communication
 
 変更可能 (henkou kanou) means "changeable" or "modification is possible," indicating that some aspect of a reservation can be altered: the check-in date, room type, guest count, or meal plan. Telling a guest "yes, that can be changed" is only half the task. Staff must follow up immediately with the conditions: the deadline, any cost implications, and exactly which parts of the booking fall within that flexibility. A guest who hears 変更可能 without those details will often assume they can change anything, at any time, at no charge.
 

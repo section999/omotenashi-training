@@ -3,12 +3,10 @@ id: v08-vocab
 section: 31
 title: 中 (naka)
 ---
-**Pronunciation:** [**na**-ka]
-**Register:** Neutral to Formal, directing guests to indoor locations, room orientation
 
-中 means "inside" or "within," and it is used constantly in hotel service. Conference rooms inside a building, amenities inside a bathroom, facilities inside an interior courtyard: any time one needs to tell a guest that something is not outside but in here, 中 is one's word. In formal keigo sentences it sits naturally as 中にございます or 建物の中にございます, and it pairs well with 入る (hairu, to enter): 中にお入りください (please come inside) is one of those warm, welcoming phrases that guests respond to positively.
+中 means "inside" or "within," and it is used constantly in hotel service. Conference rooms inside a building, amenities inside a bathroom, facilities inside an interior courtyard: any time staff need to tell a guest that something is not outside but in here, 中 is their word. In formal keigo sentences it sits naturally as 中にございます or 建物の中にございます, and it pairs well with 入る (hairu, to enter): 中にお入りください (please come inside) is one of those warm, welcoming phrases that guests respond to positively.
 
-Saying 中へどうぞ is not just directional; it carries a sense of invitation. That warmth is part of Japanese hospitality. Beyond the welcoming register, 中 does practical work whenever one needs to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions
+Saying 中へどうぞ is not just directional; it carries a sense of invitation. That warmth is part of Japanese hospitality. Beyond the welcoming register, 中 does practical work whenever staff need to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions
 ## Example Sentences
 
 **1.** 会議室は建物の中、3階の奥にございます。

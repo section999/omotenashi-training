@@ -3,8 +3,6 @@ id: v10-vocab
 section: 10
 title: 領収書発行 (ryoushuusho hakkou)
 ---
-**Pronunciation:** [ryou-**shuu**-sho ha-**kou**]
-**Register:** Formal -- standard at front desk and cashier interactions post-payment
 
 領収書発行 refers to issuing an official receipt as proof that payment has been received. In Japanese hospitality, this is a standard post-payment courtesy -- staff are expected to offer it proactively rather than wait for the guest to ask. The 領収書 is most important for business travelers and corporate guests who need it for expense reimbursement. For that purpose, the document must have the correct addressee name (宛名), the accurate amount, the date, and the name or seal of the issuing establishment. An incorrect receipt cannot be used for reimbursement, requiring a reissue.
 

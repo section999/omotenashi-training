@@ -29,7 +29,7 @@ machine translation tools can produce serviceable first drafts, but any 翻訳 t
 
 ## Common Mistakes
 
-A common error is using 翻訳 and 通訳 as if they mean the same thing. They do not: 翻訳 is for written text, 通訳 is for spoken language. Keeping that boundary clear in one's own usage helps direct guests to the right resource. Another mistake is trusting machine translation output without review. The danger is not in using a tool but in distributing unreviewed output as a finished product. Allergy information in particular must be reviewed by a native speaker before it reaches any guest. When offering this service in a guest-facing situation, using the humble form ご翻訳いたします rather than the plain 翻訳します is recommended to stay in the appropriate keigo register.
+A common error is using 翻訳 and 通訳 as if they mean the same thing. They do not: 翻訳 is for written text, 通訳 is for spoken language. Keeping that boundary clear in their own usage helps direct guests to the right resource. Another mistake is trusting machine translation output without review. The danger is not in using a tool but in distributing unreviewed output as a finished product. Allergy information in particular must be reviewed by a native speaker before it reaches any guest. When offering this service in a guest-facing situation, using the humble form ご翻訳いたします rather than the plain 翻訳します is recommended to stay in the appropriate keigo register.
 
 ---
 

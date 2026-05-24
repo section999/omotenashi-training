@@ -3,8 +3,6 @@ id: v09-vocab
 section: 27
 title: 満席状況 (manseki joukyou)
 ---
-**Pronunciation:** [man-**se**-ki-jou-kyou]
-**Register:** Formal/Neutral, guest-facing communication when no slots are available
 
 満席状況 (manseki joukyou) brings together 満席 (full seating, full occupancy) and 状況 (situation, status) to describe the condition of a hotel, restaurant, or facility being completely booked with nothing left available. The term applies equally to restaurant tables, spa treatment slots, meeting room time blocks, and guest room inventory. In Japanese hospitality, delivering this kind of news vaguely or with a long delay is considered a service failure, so staff should check, confirm, and communicate 満席状況 promptly and professionally. Turning a guest away goes against the grain of omotenashi, which is why the industry trains staff to pair the bad news with a next step.
 

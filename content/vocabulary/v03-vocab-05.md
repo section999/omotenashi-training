@@ -3,8 +3,6 @@ id: v03-vocab
 section: 5
 title: ツインルーム (twin room)
 ---
-**Pronunciation:** [**tsuin**-ruu-mu]
-**Register:** Neutral, Operational, front desk, reservations, room assignment conversations
 
 ツインルーム is a guest room with two separate single or semi-double beds, and it is a common room type for business travel pairs, friends travelling together, and family members who prefer their own sleeping space. It is a commonly booked configuration in Japanese business hotels. Getting the room type right matters significantly: guests who expect two beds and walk into a room with one shared bed can feel discomfort or embarrassment, and that affects their impression of the stay.
 

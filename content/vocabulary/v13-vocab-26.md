@@ -3,8 +3,6 @@ id: v13-vocab
 section: 26
 title: 手順 (tejun)
 ---
-**Pronunciation:** [te-**ju**-n]
-**Register:** Formal -- used in training, operational documentation, and supervisory communications
 
 手順 means procedure or sequence of steps: a predefined, ordered set of instructions for completing a task correctly, safely, and consistently. Every department in a Japanese hotel has documented 手順 for its core activities -- the housekeeping 手順 for preparing a guest room, the front desk 手順 for processing a check-in, the concierge 手順 for arranging private car service. These procedures are not there to make work feel robotic. They exist to guarantee that every guest receives the same high standard of service regardless of who happens to be on shift that day. Following 手順 faithfully is, in its own way, a form of respect for the guest.
 

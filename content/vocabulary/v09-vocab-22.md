@@ -29,7 +29,7 @@ A common error is to overlook that a 期限 needs both a date and a time. Saying
 
 ## Common Mistakes
 
-The most frequent error is stating the date without the time; this ambiguity causes disputes. Verbal-only deadlines are risky because neither staff nor the guest has a record to point to later. For anything time-sensitive, a follow-up email or printed note with the exact 期限 is the safer approach. A third mistake is conflating different kinds of deadlines. The キャンセル期限 and the 支払い期限 (payment deadline) are often different dates, and if one mixes them up when explaining a booking, the guest ends up acting at the wrong time for the wrong reason. Each deadline should be labelled clearly, both in communication and in any written materials handed over.
+The most frequent error is stating the date without the time; this ambiguity causes disputes. Verbal-only deadlines are risky because neither staff nor the guest has a record to point to later. For anything time-sensitive, a follow-up email or printed note with the exact 期限 is the safer approach. A third mistake is conflating different kinds of deadlines. The キャンセル期限 and the 支払い期限 (payment deadline) are often different dates, and if staff mixes them up when explaining a booking, the guest ends up acting at the wrong time for the wrong reason. Each deadline should be labelled clearly, both in communication and in any written materials handed over.
 
 ---
 

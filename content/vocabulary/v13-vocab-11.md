@@ -3,8 +3,6 @@ id: v13-vocab
 section: 11
 title: 残業 (zangyou)
 ---
-**Pronunciation:** [**zan**-gyou]
-**Register:** Neutral to Formal, labour and workplace management
 
 残業 means overtime, work carried out beyond standard contracted hours. The kanji reflects this: 残 means "remaining" and 業 means "work or duty," so it literally describes work left over after regular hours. In hospitality, 残業 is a familiar reality. End-of-shift handovers that run long, unexpected guest situations, event overruns, or sudden staff shortages can all push employees past their scheduled finish time. Japanese labour law requires that 残業 be compensated at a premium rate, typically 25% above the base hourly wage, and unchecked overwork has become a serious social and workplace health issue in Japan in recent decades.
 

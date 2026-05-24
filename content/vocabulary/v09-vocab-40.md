@@ -3,8 +3,6 @@ id: v09-vocab
 section: 40
 title: 手配 (tehai)
 ---
-**Pronunciation:** [te-**hai**]
-**Register:** Formal -- used across hotel departments for any coordinated service
 
 手配 means to arrange, organize, or coordinate something on a guest's behalf. The scope is wide: booking an airport transfer, reserving a restaurant table, arranging flowers for an anniversary, setting up a meeting room, or organizing a private car. The word conveys active ownership -- staff are not passing a request along, they are taking personal responsibility to see it through. That sense of effort behind the scenes is at the heart of Japanese hospitality culture, where seamless service is valued precisely because the work that makes it seamless stays invisible.
 

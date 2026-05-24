@@ -3,7 +3,7 @@ id: v11-vocab
 section: 28
 title: 会話 (kaiwa)
 ---
-会話 means conversation or dialogue, built from 会 (to meet, to come together) and 話 (speech, talk). In hospitality, 会話 involves more than vocabulary. It includes active listening, pacing to match the guest, reading the mood in the room, and adjusting one's formality based on who one is speaking with. Staff assessments routinely evaluate 会話スキル (conversation skills) as a core competency: a guest who feels heard tends to rate their experience higher regardless of minor service issues elsewhere.
+会話 means conversation or dialogue, built from 会 (to meet, to come together) and 話 (speech, talk). In hospitality, 会話 involves more than vocabulary. It includes active listening, pacing to match the guest, reading the mood in the room, and adjusting their formality based on who one is speaking with. Staff assessments routinely evaluate 会話スキル (conversation skills) as a core competency: a guest who feels heard tends to rate their experience higher regardless of minor service issues elsewhere.
 
 When working with international guests, especially when neither party is speaking their first language, effective 会話 requires care and patience. Speaking slowly, avoiding idioms, and using confirming phrases like ご理解いただけましたでしょうか (was that clear?) at natural pause points is recommended. The goal is not grammatical perfection but rather making the guest feel understood and well looked after. A common error is to discover that calm, attentive 会話 with limited vocabulary leaves a better impression than nervous, fluent chatter that never listens
 ## Example Sentences
@@ -23,13 +23,13 @@ When working with international guests, especially when neither party is speakin
 
 ## Related Expressions
 
-- **コミュニケーション (komyunikeeshon)**: the broader concept of communication, including non-verbal signals like posture, eye contact, and facial expression. Staff training uses this alongside 会話 to remind staff that effective guest interaction extends beyond the words one chooses.
+- **コミュニケーション (komyunikeeshon)**: the broader concept of communication, including non-verbal signals like posture, eye contact, and facial expression. Staff training uses this alongside 会話 to remind staff that effective guest interaction extends beyond the words staff choose.
 - **対話 (taiwa)**: a more formal word for dialogue, used in business or conference contexts within hotel settings to describe structured, purposeful discussion rather than everyday exchange.
 
 
 ## Common Mistakes
 
-A common error is treating 会話 as only a speaking skill while forgetting that listening is an equally important part of it. In hospitality the listening side often matters more: a guest who feels heard is more likely to overlook service shortcomings. Another consideration is how one presents one's own ability. Saying 会話できます without qualification can imply full fluency, which creates disappointment when the conversation exceeds one's level. It is more helpful to say 基本的な英語での会話は可能です (basic conversation in English is possible). Additionally, 話します (I speak) sounds more abrupt and one-directional than 会話できます, which carries the nuance of a two-way exchange.
+A common error is treating 会話 as only a speaking skill while forgetting that listening is an equally important part of it. In hospitality the listening side often matters more: a guest who feels heard is more likely to overlook service shortcomings. Another consideration is how one presents their own ability. Saying 会話できます without qualification can imply full fluency, which creates disappointment when the conversation exceeds their level. It is more helpful to say 基本的な英語での会話は可能です (basic conversation in English is possible). Additionally, 話します (I speak) sounds more abrupt and one-directional than 会話できます, which carries the nuance of a two-way exchange.
 
 ---
 

@@ -3,8 +3,6 @@ id: v12-vocab
 section: 20
 title: 非常ベル (hijou beru)
 ---
-**Pronunciation:** [hi-**jou** **be**-ru]
-**Register:** Formal/Neutral, emergency response and fire safety
 
 非常ベル is the emergency bell or alarm, the audible signalling device installed throughout a hotel to alert everyone inside to a developing emergency, most commonly fire. 非常 (hijou) means "emergency" or "extraordinary situation," and ベル (beru) is the loanword for bell. When the 非常ベル sounds, that is the signal to start evacuation procedures immediately, not to pause and wonder whether it might be a drill or a false alarm. In Japanese hotels, fire alarms are interconnected throughout the building and monitored both locally and by the regional fire department, so activation automatically triggers an emergency response chain.
 

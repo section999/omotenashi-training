@@ -5,7 +5,7 @@ title: 通訳 (tsuuyaku)
 ---
 通訳 means live, spoken interpretation between languages. The characters break down as 通 (to pass through, to communicate) and 訳 (to interpret or translate), and together they describe making meaning travel across a language barrier in real time. Hotel contexts generate 通訳 needs all the time: a guest struggling at check-in, a business conference that needs a professional interpreter, a staff member trying to smooth out a misunderstanding. 通訳 is always spoken and always live, which puts pressure on accuracy and composure. This is what distinguishes it from 翻訳, which handles written text at a more deliberate pace.
 
-When a guest needs 通訳 help, one's first job is to clarify what kind they need: the language pair, the context, and whether a bilingual staff member can manage it or whether a certified professional is required. For a relaxed lobby conversation, a staff member with adequate language skills may be sufficient. For medical situations, legal matters, or complex business negotiations, a professional interpreter is the appropriate choice. Proactively offering this with 通訳が必要な場合はお申し付けください (please let us know if one needs interpretation) is better than waiting for a guest to struggle visibly and then reacting
+When a guest needs 通訳 help, their first job is to clarify what kind they need: the language pair, the context, and whether a bilingual staff member can manage it or whether a certified professional is required. For a relaxed lobby conversation, a staff member with adequate language skills may be sufficient. For medical situations, legal matters, or complex business negotiations, a professional interpreter is the appropriate choice. Proactively offering this with 通訳が必要な場合はお申し付けください (please let us know if staff needs interpretation) is better than waiting for a guest to struggle visibly and then reacting
 ## Example Sentences
 
 **1.** ご会議の際に通訳が必要でしたら、手配いたします。
@@ -29,7 +29,7 @@ When a guest needs 通訳 help, one's first job is to clarify what kind they nee
 
 ## Common Mistakes
 
-A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what one's hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
+A common error is confusing 通訳 with 翻訳. If a guest hands one a document and needs it in another language, that is 翻訳, not 通訳. Offering the wrong service sends people in the wrong direction and wastes everyone's time. A common error is also assuming that any bilingual colleague can handle all 通訳 situations: that may be acceptable for casual conversation, but in a medical emergency or a legal dispute, someone with professional credentials is needed, not just general language ability. When describing what their hotel can provide, specificity is important: 簡単な通訳であれば対応できます (I can manage basic interpretation) is more trustworthy than overpromising.
 
 ---
 

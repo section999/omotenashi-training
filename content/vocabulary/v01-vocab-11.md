@@ -27,7 +27,7 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 ## Related Expressions
 
 - **こちらへどうぞ (kochira e dōzo)**: "Please come this way." *Dōzo* combined with a clear direction. Use this to invite a guest to follow one somewhere.
-- **ごゆっくりどうぞ (goyukkuri dōzo)**: "Please take one's time / relax." *Dōzo* paired with an invitation to ease. Particularly important when showing a guest to their room or presenting a meal.
+- **ごゆっくりどうぞ (goyukkuri dōzo)**: "Please take their time / relax." *Dōzo* paired with an invitation to ease. Particularly important when showing a guest to their room or presenting a meal.
 - **どうぞ、お構いなく (dōzo, o-kamainaku)**: "Please don't worry on my behalf." Used when the guest is being overly considerate about not wanting to trouble one.
 
 ## Common Mistakes

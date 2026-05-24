@@ -3,12 +3,10 @@ id: v08-vocab
 section: 25
 title: 分 (fun/pun)
 ---
-**Pronunciation:** [fun / pun, changes based on number]
-**Register:** Neutral to Formal, directions, wait times, schedule information
 
-分 is the counter for minutes, and in hospitality it gets used constantly. Every time one tell a guest how far the station is, how long the wait will be, or how much time dinner will take, 分 is in that sentence. Guests make real decisions based on the numbers one gives them: do they walk or take a taxi, do they have time to explore before the restaurant opens, should they rest first. An accurately delivered 徒歩約10分です provides clear information.
+分 is the counter for minutes, and in hospitality it gets used constantly. Every time one tell a guest how far the station is, how long the wait will be, or how much time dinner will take, 分 is in that sentence. Guests make real decisions based on the numbers staff give them: do they walk or take a taxi, do they have time to explore before the restaurant opens, should they rest first. An accurately delivered 徒歩約10分です provides clear information.
 
-The trickier part of 分 is its pronunciation changes, and this is where common errors occur in service situations. The numbers 1, 3, 6, 8, and 10 all trigger a shift from ふん (fun) to ぷん (pun): 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Native speakers make these shifts automatically without thinking about them, so if one uses ふん across the board, it immediately signals that one is still learning. However, getting the numbers right is achievable with consistent practice, and prioritizing them early is worthwhile
+The trickier part of 分 is its pronunciation changes, and this is where common errors occur in service situations. The numbers 1, 3, 6, 8, and 10 all trigger a shift from ふん (fun) to ぷん (pun): 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Native speakers make these shifts automatically without thinking about them, so if staff use ふん across the board, it immediately signals that staff is still learning. However, getting the numbers right is achievable with consistent practice, and prioritizing them early is worthwhile
 ## Example Sentences
 
 **1.** 空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。
@@ -26,7 +24,7 @@ The trickier part of 分 is its pronunciation changes, and this is where common 
 
 ## Related Expressions
 
-- **時間 (jikan)**: Hours as a duration counter. one needs both 分 and 時間 to handle the full range of time communication: ご夕食は約2時間のコースでございます uses 時間, while a short walk uses 分. Mix them up and one's estimates sound wildly off.
+- **時間 (jikan)**: Hours as a duration counter. staff need both 分 and 時間 to handle the full range of time communication: ご夕食は約2時間のコースでございます uses 時間, while a short walk uses 分. Mix them up and their estimates sound wildly off.
 - **秒 (byou)**: Seconds, the smaller unit below 分. In most directions and wait-time situations, 分 is what one want. Seconds come up mainly for facility-specific timing like elevator door closings, so 秒 is far less frequent in daily service.
 
 

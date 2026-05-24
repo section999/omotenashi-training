@@ -3,8 +3,6 @@ id: v12-vocab
 section: 29
 title: 指示 (shiji)
 ---
-**Pronunciation:** [**shi**-ji]
-**Register:** Neutral to Formal, operational and emergency communication
 
 指示 means "instruction" or "directive," a clear, purposeful communication from someone in authority telling others what to do and often how to do it. In hotel operations, 指示 flows at multiple levels: a manager gives 指示 to a team about service procedures for a VIP arrival, a fire warden gives 指示 to guests during an evacuation, and a chef gives 指示 to kitchen staff about dish preparation. What separates 指示 from 案内 (guidance or information) is that 指示 carries an expectation of action. The recipient is expected to comply. In emergency situations, the clarity and authority of 指示 prevents confusion from delaying an evacuation or medical response. Japanese hospitality culture expects staff to follow 指示 from superiors promptly and to give 指示 to guests with calm confidence when safety requires it.
 
@@ -27,7 +25,7 @@ When issuing 指示 to guests during emergencies, the phrasing needs to balance 
 ## Related Expressions
 
 - **案内 (annai)**: guidance or information-sharing; unlike 指示, 案内 does not carry an expectation of compliance. It informs rather than directs, and belongs in normal service contexts like showing guests to their room.
-- **命令 (meirei)**: order or command; significantly stronger and more authoritative than 指示. It's rarely used in hospitality because it sounds military, though one may see it in emergency manuals to describe top-level directives from emergency services.
+- **命令 (meirei)**: order or command; significantly stronger and more authoritative than 指示. It's rarely used in hospitality because it sounds military, though staff may see it in emergency manuals to describe top-level directives from emergency services.
 
 
 ## Common Mistakes

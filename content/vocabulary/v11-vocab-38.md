@@ -3,12 +3,10 @@ id: v11-vocab
 section: 38
 title: 聞き取れません (kikitorimasen)
 ---
-**Pronunciation:** [ki-ki-**to**-re-ma-sen]
-**Register:** Neutral-Polite, used when one physically cannot hear the caller clearly
 
 聞き取れません translates as "I cannot make out what is being said," and it is specifically about audibility rather than understanding. This distinction matters more than it might initially seem. わかりません means one cannot grasp the meaning; 聞き取れません means the words themselves are not reaching one. On a busy hotel telephone line, poor connections, background noise, or a softly-spoken caller can make it impossible to catch critical details like room numbers, names, and arrival times. Using the right phrase diagnoses the problem accurately and tells the caller the kind of help needed. Swapping these two expressions can leave a caller thinking there is a language barrier when the only issue is a bad signal.
 
-In a hospitality telephone setting, 聞き取れません is not used on its own. Leading with 恐れ入りますが or 申し訳ございませんが softens the difficulty before naming it. A complete polite expression sounds like 恐れ入りますが、お声が聞き取れません. When the line remains unclear despite asking for a louder or clearer voice, offering to call back is recommended: 折り返しお電話させていただけますか shows the guest that one is taking responsibility for resolving the problem
+In a hospitality telephone setting, 聞き取れません is not used on its own. Leading with 恐れ入りますが or 申し訳ございませんが softens the difficulty before naming it. A complete polite expression sounds like 恐れ入りますが、お声が聞き取れません. When the line remains unclear despite asking for a louder or clearer voice, offering to call back is recommended: 折り返しお電話させていただけますか shows the guest that staff is taking responsibility for resolving the problem
 ## Example Sentences
 
 **1.** 恐れ入りますが、お声が少々聞き取れませんでした。
@@ -27,12 +25,12 @@ In a hospitality telephone setting, 聞き取れません is not used on its own
 ## Related Expressions
 
 - **わかりません (wakarimasen)**: "I do not understand"; this is about meaning and comprehension, not about hearing; reaching for this one when the issue is audibility can suggest to the caller that there is a language gap that does not exist
-- **お声が遠い (okoe ga tooi)**: "one's voice is distant or faint"; a softer and more indirect way of conveying the same idea as 聞き取れません; considered more refined in very formal hospitality contexts where directness feels slightly abrupt
+- **お声が遠い (okoe ga tooi)**: "their voice is distant or faint"; a softer and more indirect way of conveying the same idea as 聞き取れません; considered more refined in very formal hospitality contexts where directness feels slightly abrupt
 
 
 ## Common Mistakes
 
-A common error is using わかりません when the actual problem is that the voice cannot be heard. This misidentifies the situation and can make the caller feel that one's Japanese comprehension is the issue, which is confusing for everyone. Even when using 聞き取れません, saying it without any softening phrase comes across as blunt on a hotel line. Opening with 恐れ入りますが or 申し訳ございませんが is recommended. A common error is over-apologizing to the point where the call bogs down in expressions of remorse. Keeping it brief and redirecting quickly toward solving the problem is recommended.
+A common error is using わかりません when the actual problem is that the voice cannot be heard. This misidentifies the situation and can make the caller feel that their Japanese comprehension is the issue, which is confusing for everyone. Even when using 聞き取れません, saying it without any softening phrase comes across as blunt on a hotel line. Opening with 恐れ入りますが or 申し訳ございませんが is recommended. A common error is over-apologizing to the point where the call bogs down in expressions of remorse. Keeping it brief and redirecting quickly toward solving the problem is recommended.
 
 ---
 

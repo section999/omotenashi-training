@@ -3,10 +3,8 @@ id: v05-vocab
 section: 1
 title: レストラン (resutoran)
 ---
-**Pronunciation:** [re-su-**to**-ran]
-**Register:** Neutral, Operational, dining information, guest directions, F&B communication
 
-レストラン is the standard Japanese word for a restaurant, borrowed from French, and in the hotel context it can mean anything from a casual all-day cafe to a formal fine-dining venue on the top floor. Before directing guests to it, staff should know what the hotel's レストラン offers: the cuisine type, the price range, the dress code if there is one, and what makes it worth visiting. Being able to say "our restaurant specialises in seasonal kaiseki cuisine and has views of the garden" is a different level of service from just pointing and saying "it is over there." The first shows omotenashi; the second shows that one knows where the door is.
+レストラン is the standard Japanese word for a restaurant, borrowed from French, and in the hotel context it can mean anything from a casual all-day cafe to a formal fine-dining venue on the top floor. Before directing guests to it, staff should know what the hotel's レストラン offers: the cuisine type, the price range, the dress code if there is one, and what makes it worth visiting. Being able to say "our restaurant specialises in seasonal kaiseki cuisine and has views of the garden" is a different level of service from just pointing and saying "it is over there." The first shows omotenashi; the second shows that staff know where the door is.
 
 When guests ask about dining, staff should be ready with operating hours, current availability, and reservation requirements. If the hotel has multiple dining outlets, staff should be specific about which one is being described. The most important factor, however, is how the information is delivered. The phrase レストランはこちらでございます, delivered with a proper guiding gesture and warmth, makes a guest feel personally accompanied rather than redirected. That difference, between pointing and guiding, between saying words and serving, is what hospitality training is about.
 

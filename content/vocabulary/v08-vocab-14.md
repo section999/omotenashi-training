@@ -3,9 +3,6 @@ id: v08-vocab
 section: 14
 title: 手前 (temae)
 ---
-**Pronunciation:** [te-**ma**-e]
-**Register:** Neutral, interior spatial directions
-
 手前 means "the near side," "just before," or "in front of" in a spatial sense, specifically indicating a location that is close to the speaker or to the entrance of a space, as opposed to farther inside. It forms the natural counterpart to 奥 (the far interior), and together these two words describe the near-far axis that is fundamental to Japanese wayfinding language. In hospitality, 手前 is particularly useful when a facility or counter is located near the entrance or in the first part of a room, so guests do not need to walk all the way in. That distinction saves time and prevents the frustration of overshooting a destination in a large lobby or corridor.
 
 The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). In a hospitality context, that last usage is especially important: 手前 can mean "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (〜で). Blurring these distinctions can send guests past where they needed to stop
@@ -34,7 +31,6 @@ The practical usage of 手前 appears in phrases like 入り口の手前にご�
 A common mistake is to use 手前 as a synonym for 隣 (next to), but 手前 means specifically "before reaching X" rather than "beside X." These are directionally different enough to send a guest the wrong way entirely. Another error is using 手前 for outdoor distances, where 近く or すぐそこ are more natural; 手前 works best as a relative interior landmark reference. Failing to specify the reference point leaves 手前 meaningless. Using X の手前にございます tells the guest exactly where to stop.
 
 ---
-
 ## Quiz
 
 **Guest asks: "Where is the waiting area?"**

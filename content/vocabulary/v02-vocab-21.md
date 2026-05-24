@@ -3,9 +3,6 @@ id: v02-vocab
 section: 21
 title: 変更 (henkou)
 ---
-**Pronunciation:** [hen-**kou**]
-**Register:** Formal/Neutral, standard service contexts
-
 変更 means "change" or "modification" in the sense of officially altering an existing arrangement, plan, or reservation. Guests request it all the time: tweaking check-in or check-out dates, switching room types, adjusting the number of guests, or adding a special request they forgot at booking. 変更 keeps the original booking alive while updating its details, which makes it fundamentally different from a full cancellation. When a guest says they want a 変更, they still intend to stay at the property.
 
 In a hospitality context, the workflow is fairly consistent: acknowledge the request warmly, check the system, then either confirm the change or offer an alternative. The opener ご変更のご希望でございますね confirms to the guest that the request has been understood. If a room upgrade or other change comes with an added charge, say so clearly and politely before making the modification. Closing with 変更内容をご確認いただけますか wraps the interaction neatly and prevents the kind of misunderstanding that causes problems at check-out
@@ -33,7 +30,6 @@ In a hospitality context, the workflow is fairly consistent: acknowledge the req
 a notable common errors new staff make is saying 変更できません and leaving it there. In hospitality, a flat refusal without alternatives is almost never the right response. Always check what options exist before responding to a change request. If the exact change is not possible, offer the closest available alternative. A separate issue is confusing 変更 with 交換 (kōkan), which is about exchanging physical items, not modifying a reservation. Also, any 変更 confirmed verbally must be logged in the system immediately. What gets said at the desk and what the system shows must always match.
 
 ---
-
 ## Quiz
 
 **ご予約の変更は____でございます。

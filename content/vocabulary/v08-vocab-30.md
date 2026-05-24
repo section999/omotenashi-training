@@ -3,8 +3,6 @@ id: v08-vocab
 section: 30
 title: 下 (shita)
 ---
-**Pronunciation:** [**shi**-ta]
-**Register:** Neutral to Formal, vertical navigation, room orientation, object placement
 
 下 means "below," "underneath," or "down," and is the direct vertical counterpart to 上 (ue). In hotel navigation, it most often points guests downward toward basement levels, where parking garages, spas, laundry facilities, and storage rooms tend to live in Japanese hotels. The word is short and versatile: it handles floor-level directions (駐車場は下の階にございます) just as naturally as room-level ones (ソファーの下にございます). The surrounding keigo does the register work, making 下 straightforward to use.
 
@@ -26,7 +24,7 @@ One practical nuance worth getting comfortable with: 下 as a general "downward"
 
 ## Related Expressions
 
-- **地下 (chika)**: Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when one is directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue.
+- **地下 (chika)**: Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when staff is directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue.
 - **上 (ue)**: Above or up, the direct opposite of 下. Mastering both together helps staff handle any vertical direction question.
 
 

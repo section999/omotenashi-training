@@ -3,9 +3,6 @@ id: v09-vocab
 section: 33
 title: 連泊 (renpaku)
 ---
-**Pronunciation:** [ren-**pa**-ku]
-**Register:** Formal/Neutral, front desk, housekeeping coordination, and guest communication
-
 連泊 (renpaku) combines 連 (ren, consecutive or continuous) with 泊 (paku, overnight stay), meaning "consecutive-night stay" or "multi-night stay." When a guest books more than one night in a single reservation without checking out in between, that is a 連泊. In Japanese hotel culture, 連泊 guests receive careful attention across departments: housekeeping may shift to a lighter daily routine, the restaurant team might offer personalized recommendations, and the front desk tracks any preferences that emerge. The ability to care for a guest over several nights reflects the depth of omotenashi practice.
 
 Operationally, 連泊 affects room assignments (the guest should ideally stay in the same room throughout), billing (charges accumulate and are settled at checkout rather than nightly), and housekeeping frequency. A best practice at quality Japanese hotels is to ask about housekeeping preferences at check-in: 連泊中のお部屋の清掃についてお伺いしてもよろしいでしょうか. This brief conversation shows the guest that their privacy and personal comfort have been considered from the start.
@@ -33,7 +30,6 @@ Operationally, 連泊 affects room assignments (the guest should ideally stay in
 A common mistake with 連泊 guests is applying the same full-turnover housekeeping routine as a single-night stay without asking first. Many 連泊 guests, particularly in Japanese culture where personal space is valued, find it intrusive to have staff move their belongings around daily. They may prefer only towel and amenity replenishment. Staff should ask at check-in, as this avoids a friction point that can affect the entire stay. Another mistake is failing to update the housekeeping schedule when a guest extends their stay mid-trip, turning what was a single night into a 連泊. If the system still shows a checkout the next morning, housekeeping may schedule a full turnover clean while the guest is still occupying the room. Any reservation change must be reflected in the system immediately.
 
 ---
-
 ## Quiz
 
 **三日間続けて宿泊する場合、____です。

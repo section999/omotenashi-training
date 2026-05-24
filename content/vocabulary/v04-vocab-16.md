@@ -29,7 +29,7 @@ In practical hotel work, staff use 雑巾 as part of regular room turnover and d
 
 ## Common Mistakes
 
-Notable persistent errors in training include using a guest タオル as a 雑巾. This boundary gets blurred, especially when trainees are in a hurry, but guest towels must never become cleaning rags. Failing to specify wet or dry makes a difference: 濡れた雑巾 (damp cloth) and 乾いた雑巾 (dry cloth) have different finishing purposes, and using the wrong one can leave streaks or residue. The particle should be observed correctly: 雑巾**で**拭きます is correct; 雑巾を拭きます is wrong.
+Notable persistent errors in training include using a guest タオル as a 雑巾. This boundary gets blurred, especially when trainees are in a hurry, but guest towels must never become cleaning rags. Failing to specify wet or dry makes a difference: 濡れた雑巾 (damp cloth) and 乾いた雑巾 (dry cloth) have different finishing purposes, and using the wrong staff can leave streaks or residue. The particle should be observed correctly: 雑巾**で**拭きます is correct; 雑巾を拭きます is wrong.
 
 ---
 

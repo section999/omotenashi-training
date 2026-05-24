@@ -30,7 +30,7 @@ In a hospitality context, 裏 appears in directional guidance such as 荷物の�
 
 ## Common Mistakes
 
-A common mistake is using 裏 without clarification, which can sound abrupt or even suggest that a guest is being sent somewhere off-limits. Staff should accompany 裏 with a reason or a polite offer to escort (ご案内いたします). A common mistake is to also confuse 裏 with 奥 (oku, meaning deeper inside a space), but 裏 refers to the outside rear of a building while 奥 refers to the far interior; directing a guest to the 裏 of a restaurant when one mean the back corner table (奥のお席) would be a significant misdirection. Staff should avoid using 裏 casually about a guest area, as it can imply an "hidden" or "unofficial" quality.
+A common mistake is using 裏 without clarification, which can sound abrupt or even suggest that a guest is being sent somewhere off-limits. Staff should accompany 裏 with a reason or a polite offer to escort (ご案内いたします). A common mistake is to also confuse 裏 with 奥 (oku, meaning deeper inside a space), but 裏 refers to the outside rear of a building while 奥 refers to the far interior; directing a guest to the 裏 of a restaurant when staff mean the back corner table (奥のお席) would be a significant misdirection. Staff should avoid using 裏 casually about a guest area, as it can imply an "hidden" or "unofficial" quality.
 
 ---
 

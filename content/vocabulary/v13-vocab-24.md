@@ -3,9 +3,6 @@ id: v13-vocab
 section: 24
 title: 管理 (kanri)
 ---
-**Pronunciation:** [ka-n-**ri**]
-**Register:** Formal -- used across all hotel departments in professional and management contexts
-
 管理 means management, control, or administration: the systematic oversight of people, resources, processes, or data to keep everything running safely and to standard. In a hotel, 管理 reaches into every corner of operations. There is 在庫管理 (zaiko kanri, inventory management), 品質管理 (hinshitsu kanri, quality management), 衛生管理 (eisei kanri, hygiene management), and 顧客管理 (kokyaku kanri, guest relationship management), among many others. Each department carries its own 管理 responsibilities, and a manager is largely judged by how well they fulfil them. Good 管理 is essentially invisible to guests: when it is working, service flows without disruption; when it breaks down, guests feel it immediately.
 
 The philosophy of 管理 in Japanese hospitality is proactive rather than reactive. Managers do not wait for problems to appear -- they prevent them by maintaining rigorous systems. Inventorying supplies before a busy weekend, auditing room cleanliness standards mid-week, reviewing guest feedback before it becomes a trend: these are all forms of 管理 at work. Staff at every level contribute through accurate record-keeping, timely reporting, and strict adherence to procedures. a culture of strong 管理 enables seamless omotenashi behind the scenes
@@ -33,7 +30,6 @@ The philosophy of 管理 in Japanese hospitality is proactive rather than reacti
 A common error is to use 管理 and 経営 (keiei: business management, running a company) interchangeably, but they operate at very different levels. 管理 is about controlling and overseeing specific resources or processes inside an organisation, while 経営 refers to the strategic direction of the entire business. One should not use 管理 when talking about how a company is run at a boardroom level. Another common mistake is using 管理する without enough context -- saying 管理した on its own leaves the listener wondering what was managed. It is important to be specific: 在庫を管理する, 品質を管理する, and so on.
 
 ---
-
 ## Quiz
 
 **Fill in the blank: ___**

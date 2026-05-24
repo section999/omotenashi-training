@@ -3,10 +3,8 @@ id: v09-vocab
 section: 7
 title: 日数 (nissuu)
 ---
-**Pronunciation:** [**nis**-suu]
-**Register:** Formal -- used in billing documents, invoices, and scheduling
 
-日数 refers to the total count of calendar days associated with a guest's stay, counting both the arrival day and the departure day. It is primarily a billing and scheduling term, used when communicating the full span of a visit in terms of days rather than nights. In Japanese hotel accounting, 日数 shows up on invoices and internal reports where day-based service charges apply, things like parking fees, day-use spa access, or equipment rentals billed per calendar day rather than per occupancy night. If one works primarily in overnight accommodation, 何泊 (the number of nights) is the unit used most. But if the property offers day-use services or partners with external vendors who bill differently, 日数 becomes a term one needs to handle accurately.
+日数 refers to the total count of calendar days associated with a guest's stay, counting both the arrival day and the departure day. It is primarily a billing and scheduling term, used when communicating the full span of a visit in terms of days rather than nights. In Japanese hotel accounting, 日数 shows up on invoices and internal reports where day-based service charges apply, things like parking fees, day-use spa access, or equipment rentals billed per calendar day rather than per occupancy night. If staff work primarily in overnight accommodation, 何泊 (the number of nights) is the unit used most. But if the property offers day-use services or partners with external vendors who bill differently, 日数 becomes a term staff need to handle accurately.
 
 The distinction between 日数 and 何泊 is a common source of billing errors. The distinction is as follows: a guest who checks in on April 10 and checks out on April 12 has a 日数 of 3 (April 10, 11, and 12 are all counted as calendar days) but a 何泊 of only 2 (the nights of April 10 and 11 are the chargeable overnight stays). If one bills for 3 nights when only 2 were occupied, a complaint and a refund request will follow. Getting this right upfront prevents billing errors
 ## Example Sentences

@@ -3,8 +3,6 @@ id: v03-vocab
 section: 27
 title: 清掃係 (seisou kakari)
 ---
-**Pronunciation:** [sei-**sou**-ka-ka-ri]
-**Register:** Formal, Operational, guest-facing service coordination, housekeeping requests
 
 清掃係 breaks down as 清掃 (cleaning) and 係 (person in charge), and together they refer to the housekeeping staff responsible for keeping guest rooms and common areas in order. In Japanese hospitality, 清掃係 are not invisible background workers. They are active contributors to the guest experience, and the immaculate standards of Japanese accommodation depend entirely on their precision and care. In ryokan settings, the same person who cleans the room often returns before dinner to lay out the futon bedding, creating a direct and personal link between housekeeping and the guest's sense of comfort. Understanding this context is useful when coordinating with or speaking about 清掃係.
 
@@ -27,7 +25,7 @@ When informing a guest that housekeeping will visit their room, the phrase 「�
 ## Related Expressions
 
 - **ハウスキーピング (hausu kiipingu)**: the loanword for the housekeeping department as a whole; while 清掃係 refers to an individual staff member, ハウスキーピング refers to the department, and in large hotels guests may be directed to call that department directly for room service requests
-- **まいります (mairimasu)**: the humble form of 来ます (to come), used specifically when describing the actions of one's own hotel's staff in front of guests; using 来ます or 来る instead is a keigo failure that will stand out
+- **まいります (mairimasu)**: the humble form of 来ます (to come), used specifically when describing the actions of their own hotel's staff in front of guests; using 来ます or 来る instead is a keigo failure that will stand out
 
 
 ## Common Mistakes

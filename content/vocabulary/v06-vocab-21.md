@@ -3,9 +3,6 @@ id: v06-vocab
 section: 21
 title: 追加 (tsuika)
 ---
-**Pronunciation:** [tsu-**i**-ka]
-**Register:** Formal/Neutral, used when a guest requests more of something or when staff communicate add-on services
-
 追加 combines the characters for "pursue/chase" (追) and "add" (加), together conveying the idea of adding on top of what already exists. In hospitality, it typically signals a guest request that goes beyond what was originally arranged: an extra towel, an additional bed, an extra portion at dinner, or a supplementary amenity. Responding to 追加 requests with warmth and speed reflects quality service, and at the best properties these requests are fulfilled before a guest needs to ask a second time.
 
 Staff encounter 追加 most often at the front desk and through housekeeping requests. Common phrases include 「タオルを追加でお持ちいたします」 (I will bring additional towels) and 「追加のアメニティをご用意いたします」 (I will prepare additional amenities). When an add-on carries a charge, staff say so clearly at the time of the request: 「追加料金が発生する場合がございますので、あらかじめご了承ください」 (please be aware in advance that an additional charge may apply). Proactive communication at this moment prevents the kind of billing confusion that creates complaints at checkout
@@ -33,7 +30,6 @@ Staff encounter 追加 most often at the front desk and through housekeeping req
 追加 is not the same as 交換 (replacement). If a guest wants a dirty towel swapped for a clean one, that is a 交換希望 (replacement request), not an 追加. Using the wrong word in an internal message can send housekeeping the wrong instruction. A common error is conflating these two terms. On the billing side, staff sometimes forget to mention the additional charge at the time of the request and only bring it up at checkout, which is when it causes the most friction. Communicating charges early and clearly is the recommended approach.
 
 ---
-
 ## Quiz
 
 **Guest asks for extra items. Best response?**

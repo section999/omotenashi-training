@@ -3,10 +3,8 @@ id: v08-vocab
 section: 39
 title: 案内板 (annaiban)
 ---
-**Pronunciation:** [an-**nai**-ban]
-**Register:** Neutral to Formal -- everyday navigation and guest guidance contexts
 
-案内板 puts 案内 (annai, guidance / information) together with 板 (ban, board / panel) to get the fixed directional sign or information display one sees mounted on walls, pillars, and stands throughout a hotel. The key word here is "fixed." This is not a portable map one hand to a guest or a printed diagram one pull out of a drawer. The 案内板 stays where it is, listing floor-by-floor facilities, pointing arrows toward key areas, and displaying event or conference schedules. one will find them at the hotel entrance, in the lobby, at elevator landings, and at major corridor junctions. A well-placed 案内板 supports navigation in the background, reducing the number of repetitive directions staff need to give throughout the day.
+案内板 puts 案内 (annai, guidance / information) together with 板 (ban, board / panel) to get the fixed directional sign or information display staff see mounted on walls, pillars, and stands throughout a hotel. The key word here is "fixed." This is not a portable map one hand to a guest or a printed diagram one pull out of a drawer. The 案内板 stays where it is, listing floor-by-floor facilities, pointing arrows toward key areas, and displaying event or conference schedules. staff will find them at the hotel entrance, in the lobby, at elevator landings, and at major corridor junctions. A well-placed 案内板 supports navigation in the background, reducing the number of repetitive directions staff need to give throughout the day.
 
 Knowing how to use 案内板 as a service tool is useful for staff. When a guest asks which floor the restaurant is on, a skilled staff member does not just answer verbally and send the guest off. They say フロアの施設は案内板でご確認いただけます, walk the guest over to the board, and briefly point out the relevant section. That thirty-second moment of guidance empowers the guest to find answers on their own for the rest of the stay. In event-heavy hotels, the 案内板 also carries real-time information: banquet hall assignments, wedding reception schedules, and conference room postings are updated daily, making it a reference point that both guests and staff check throughout the day.
 
@@ -33,7 +31,7 @@ Knowing how to use 案内板 as a service tool is useful for staff. When a guest
 
 ## Common Mistakes
 
-案内板 and 案内図 are sometimes used as though they mean the same thing, but the distinction is straightforward: 案内板 is always a mounted, fixed sign, while 案内図 is a printed or illustrated diagram. When directing a guest to the 案内板, staff should indicate the specific section of the board the guest needs. Pointing in the general direction without specific guidance replaces one question with another. In formal speech, use 案内板をご覧ください or 案内板でご確認いただけます, and if one is walking the guest there, 案内板はこちらにございます is the natural phrase as one approach it together.
+案内板 and 案内図 are sometimes used as though they mean the same thing, but the distinction is straightforward: 案内板 is always a mounted, fixed sign, while 案内図 is a printed or illustrated diagram. When directing a guest to the 案内板, staff should indicate the specific section of the board the guest needs. Pointing in the general direction without specific guidance replaces one question with another. In formal speech, use 案内板をご覧ください or 案内板でご確認いただけます, and if staff is walking the guest there, 案内板はこちらにございます is the natural phrase as one approach it together.
 
 ---
 

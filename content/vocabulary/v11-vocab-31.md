@@ -24,7 +24,7 @@ The omotenashi approach recommends offering 英語対応 proactively. A well-tra
 ## Related Expressions
 
 - **多言語対応 (tago gengo taiou)**: multilingual support, a broader version of 英語対応 indicating that the hotel or department can serve guests in multiple foreign languages. Used in hotels with a diverse international clientele where English alone is not sufficient.
-- **外国語対応 (gaikokugo taiou)**: foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when one cannot list every language but still want to signal that non-Japanese speakers will be helped.
+- **外国語対応 (gaikokugo taiou)**: foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when staff cannot list every language but still want to signal that non-Japanese speakers will be helped.
 
 
 ## Common Mistakes

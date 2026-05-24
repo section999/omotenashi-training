@@ -3,10 +3,8 @@ id: v02-vocab
 section: 22
 title: 延泊 (enpaku)
 ---
-**Pronunciation:** [en-**pa**-ku]
-**Register:** Formal, standard service and reservation contexts
 
-延泊 (enpaku) means "extended stay," specifically remaining in one's room for one or more additional nights beyond the original check-out date. It comes up more often than might be expected, and how a property handles it reflects service quality. Because 延泊 depends entirely on room availability, it cannot always be granted, and staff need to be equally skilled at confirming a successful extension and at declining gracefully when nothing is available. The guest's peace of mind should be the focus either way.
+延泊 (enpaku) means "extended stay," specifically remaining in their room for one or more additional nights beyond the original check-out date. It comes up more often than might be expected, and how a property handles it reflects service quality. Because 延泊 depends entirely on room availability, it cannot always be granted, and staff need to be equally skilled at confirming a successful extension and at declining gracefully when nothing is available. The guest's peace of mind should be the focus either way.
 
 The procedure is straightforward once the steps are clear. Start by checking availability for the requested nights, then determine whether the same room can be kept (same-room continuation is always ideal) or whether a room change is unavoidable. If the extension is possible, confirm the new check-out date and sort out any payment adjustments before the guest returns to their room. If 延泊 is not possible, offering to look at sister properties or taking the guest's contact for a cancellation spot demonstrates omotenashi spirit even when the answer is no.
 

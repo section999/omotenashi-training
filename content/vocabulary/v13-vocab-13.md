@@ -27,7 +27,7 @@ title: 教育 (kyouiku)
 
 ## Common Mistakes
 
-A common error is using 教育 where 研修 or 指導 would be more precise. Saying「今日は教育があります」when one means a specific afternoon training session sounds too broad in scope -「今日は研修があります」is more natural. Another consideration: because 教育 carries the sense of shaping character and values, not just skills, it does not suit routine task instructions. It is better reserved for broader developmental contexts.
+A common error is using 教育 where 研修 or 指導 would be more precise. Saying「今日は教育があります」when staff means a specific afternoon training session sounds too broad in scope -「今日は研修があります」is more natural. Another consideration: because 教育 carries the sense of shaping character and values, not just skills, it does not suit routine task instructions. It is better reserved for broader developmental contexts.
 
 ---
 

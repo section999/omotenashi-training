@@ -31,7 +31,7 @@ In hotel settings, close attention to the time boundary is important. Using a mo
 
 ## Common Mistakes
 
-Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the most common slip. It sounds overly familiar with guests and with colleagues one does not know well, and the difference in register is noticeable even to guests who speak very little Japanese. The casual form tends to persist because it is often the version learned first; drilling the full form until it comes out naturally helps remove that habit. Using *ohayō gozaimasu* past late morning should also be avoided. If one is uncertain whether it is still morning for a particular guest, say a late sleeper coming down just before noon, defaulting to *konnichiwa* is safer than risking the mismatch.
+Using the casual *ohayō* (without *gozaimasu*) in a professional setting is the most common slip. It sounds overly familiar with guests and with colleagues staff do not know well, and the difference in register is noticeable even to guests who speak very little Japanese. The casual form tends to persist because it is often the version learned first; drilling the full form until it comes out naturally helps remove that habit. Using *ohayō gozaimasu* past late morning should also be avoided. If one is uncertain whether it is still morning for a particular guest, say a late sleeper coming down just before noon, defaulting to *konnichiwa* is safer than risking the mismatch.
 
 ---
 

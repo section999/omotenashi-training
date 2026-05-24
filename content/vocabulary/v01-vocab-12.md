@@ -28,7 +28,7 @@ During the walk itself, the guiding staff member typically walks slightly ahead 
 
 - **ご案内いたします (go-annai itashimasu)**: "I will guide you": the more formal declaration of guidance, often said before *kochira e dōzo*
 - **こちらでございます (kochira de gozaimasu)**: "It is this way / here it is": used to indicate a destination or object
-- **足元にお気をつけください (ashimoto ni o-ki wo tsukete kudasai)**: "Please watch one's step": said near stairs, thresholds, or uneven surfaces
+- **足元にお気をつけください (ashimoto ni o-ki wo tsukete kudasai)**: "Please watch their step": said near stairs, thresholds, or uneven surfaces
 
 ## Common Mistakes
 

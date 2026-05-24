@@ -3,8 +3,6 @@ id: v12-vocab
 section: 11
 title: 危険 (kiken)
 ---
-**Pronunciation:** [ki-**ken**]
-**Register:** Formal/Neutral, safety and emergency communication
 
 危険 describes situations, objects, or conditions that pose a threat to life, health, or property. It sits in a hierarchy: 注意 signals "be careful," while 危険 signals "this is serious." In a hotel, 危険 is used for things like a gas leak, post-earthquake structural damage, a flooded corridor, or a construction zone where guests should not go under any circumstances.
 

@@ -3,8 +3,6 @@ id: v06-vocab
 section: 11
 title: 寒い (samui)
 ---
-**Pronunciation:** [**sa**-mu-i]
-**Register:** Neutral, a basic i-adjective used both by guests reporting discomfort and by staff acknowledging it
 
 寒い is an i-adjective meaning cold or chilly, and it is one of the fundamental comfort complaints a guest can make. How quickly and thoughtfully staff respond to it reflects directly on the quality of the hotel's attentiveness. Cold discomfort tends to be taken especially seriously in winter months and in traditional ryokan settings, where the gap between a heated common room and a cooler private room can feel quite sharp. Elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold than others, so staff should not wait for a second complaint before acting.
 
@@ -27,7 +25,7 @@ Responses can range from adjusting the heating system, to offering extra blanket
 ## Related Expressions
 
 - **空調 (kuuchou)**: the HVAC system covering both heating and cooling; 空調を調整いたします is the go-to response phrase for both 寒い and 暑い complaints.
-- **毛布 (moufu)**: blanket; a tangible and immediate solution one can offer while longer-term heating adjustments are still being arranged.
+- **毛布 (moufu)**: blanket; a tangible and immediate solution staff can offer while longer-term heating adjustments are still being arranged.
 
 
 ## Common Mistakes

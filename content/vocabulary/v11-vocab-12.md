@@ -3,8 +3,6 @@ id: v11-vocab
 section: 12
 title: メッセージ (messeeji)
 ---
-**Pronunciation:** [me-**SEE**-ji]
-**Register:** Neutral to Formal, used across modern hospitality contexts
 
 メッセージ is the loanword from English that covers any form of communication left for someone who is not immediately available: handwritten notes, digital messages, SMS, email, voicemail, hotel app notifications. In a modern Japanese hotel, this word appears across almost every department. The front desk receives written メッセージ for guests. Housekeeping leaves メッセージ slips in rooms. Concierge staff coordinate with guests through digital メッセージ platforms. As hospitality becomes more multi-channel, handling メッセージ across these various formats is an important skill.
 

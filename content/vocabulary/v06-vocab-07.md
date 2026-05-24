@@ -3,8 +3,6 @@ id: v06-vocab
 section: 7
 title: 紛失 (funshitsu)
 ---
-**Pronunciation:** [fun-**shi**-tsu]
-**Register:** Formal, used when reporting or responding to a missing item with unknown whereabouts
 
 紛失 (funshitsu) means the loss of an item, and it is importantly different from 忘れ物, where the item was left at a known location. With 紛失, the whereabouts are entirely unknown. That distinction matters : a 忘れ物 sends one to check one specific place, while a 紛失 may require a broader investigation covering security footage, staff interviews, or a formal report. The appropriate scope of the response will also depend on what was lost. A missing passport or prescription medication demands a very different level of urgency than a misplaced book.
 

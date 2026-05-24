@@ -3,10 +3,8 @@ id: v08-vocab
 section: 36
 title: 非常口 (hijouguchi)
 ---
-**Pronunciation:** [hi-**jou**-gu-chi]
-**Register:** Formal, safety communication, check-in procedures, room orientation
 
-非常口 combines 非常 (hijou, emergency or extraordinary situation) with 口 (guchi, opening or exit), and it is the standard term for "emergency exit" on signage and safety cards throughout Japan. The green running-figure pictogram is recognized nationwide, and the word itself appears on every fire safety sign, evacuation route map, and hotel in-room safety card. This vocabulary is essential for professional use: knowing where every 非常口 is on every floor one works on, and being able to communicate that clearly, is a professional baseline. Staff who cannot answer a guest's question about emergency exits need further training.
+非常口 combines 非常 (hijou, emergency or extraordinary situation) with 口 (guchi, opening or exit), and it is the standard term for "emergency exit" on signage and safety cards throughout Japan. The green running-figure pictogram is recognized nationwide, and the word itself appears on every fire safety sign, evacuation route map, and hotel in-room safety card. This vocabulary is essential for professional use: knowing where every 非常口 is on every floor staff work on, and being able to communicate that clearly, is a professional baseline. Staff who cannot answer a guest's question about emergency exits need further training.
 
 The cultural weight of proactive safety communication in Japanese hospitality is significant. Telling a guest 非常口の場所はこちらでございます during check-in or room orientation reflects both legal responsibility and genuine care for the person in front of one. Guests receive this information calmly and appreciate it. A panicked guest who has never been told where the 非常口 is faces a much more dangerous situation than one who already knows. Proactive communication is both professional and responsible. Staff should familiarize themselves with the evacuation route (避難経路) from each exit as well, so they can guide someone if an emergency occurs
 ## Example Sentences
@@ -26,7 +24,7 @@ The cultural weight of proactive safety communication in Japanese hospitality is
 
 ## Related Expressions
 
-- **緊急出口 (kinkyuu deguchi)**: An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. 非常口 is the standardized term one will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service.
+- **緊急出口 (kinkyuu deguchi)**: An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. 非常口 is the standardized term staff will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service.
 - **避難経路 (hinan keiro)**: Evacuation route, the path from a 非常口 to a safe outdoor assembly point. Knowing both terms together gives one the complete picture for safety communication. Guests should hear both during orientation: where the exit is and how to get from it to safety.
 
 

@@ -3,8 +3,6 @@ id: v11-vocab
 section: 15
 title: 通話中 (tsuuwachuu)
 ---
-**Pronunciation:** [tsuu-wa-**CHUU**]
-**Register:** Formal, used in hotel telephone contexts
 
 通話中 means that a telephone line is currently in use. Either the person the caller wants is already on another call, or the line itself is occupied. Knowing this term matters because in hospitality, how one communicates this status is as important as the information itself. A caller who hears 通話中です with no follow-up will wonder what to do next, and that uncertainty should be avoided.
 

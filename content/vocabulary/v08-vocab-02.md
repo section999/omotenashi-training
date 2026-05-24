@@ -3,9 +3,6 @@ id: v08-vocab
 section: 2
 title: 左 (hidari)
 ---
-**Pronunciation:** [hi-**da**-ri]
-**Register:** Neutral, elevated with にございます in formal hotel speech
-
 左 means "left" and is one of the indispensable words in guest-facing navigation. Whether one is directing guests from the elevator to their room, guiding someone from the lobby toward the restaurant, or describing a walking route to a nearby attraction, 左 forms one half of the essential left-right navigational axis. In Japanese culture, spatial clarity is treated as a matter of respect for the guest's time and comfort. Vague directions are considered a failure of attentiveness, or ki ga kikanai. Mastering 左 alongside 右 is baseline knowledge for anyone working a guest-facing role.
 
 Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Combining 左 with a polite locating phrase such as 左にございます or 左側でございます, and adding a distance cue like 突き当たりの左 or 二つ目の扉の左, makes the instruction complete. When accompanying a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension more than words alone
@@ -24,20 +21,16 @@ Left-side directions come up constantly in hotel corridors, where rooms alternat
 *O-tearai wa rouka no hidari-te oku ni gozaimasu.*
 "The restroom is at the back on the left side of the corridor."
 
-
 ## Related Expressions
 
 - **左手 (hidarite)**: "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility
 - **左折 (sasetsu)**: "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance
-
 
 ## Common Mistakes
 
 The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. A common error is mixing up 左 and 右 when nervous or under pressure. Drilling both words together in realistic practice scenarios helps address this. Additionally: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Using an open hand when gesturing appears more polished.
 
 ---
-
-
 ## Quiz
 
 **Guest asks where the restroom is. You say:**

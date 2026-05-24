@@ -26,9 +26,9 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 ## Related Expressions
 
-- **どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)**: A more elaborate version: "Please, relax fully at one's leisure"
+- **どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)**: A more elaborate version: "Please, relax fully at their leisure"
 - **お急ぎでなければ (o-isogi de nakereba)**: "If one is not in a hurry": used to suggest there is no time pressure
-- **ゆっくりしていってください (yukkuri shite itte kudasai)**: "Please take one's time before you go": casual version; not appropriate for guest interactions
+- **ゆっくりしていってください (yukkuri shite itte kudasai)**: "Please take their time before you go": casual version; not appropriate for guest interactions
 
 ## Common Mistakes
 

@@ -3,8 +3,6 @@ id: v12-vocab
 section: 3
 title: 地震 (jishin)
 ---
-**Pronunciation:** [**ji**-shin]
-**Register:** Standard, used across all registers in emergency communication
 
 地震 is an earthquake: the sudden movement of tectonic plates producing ground shaking that can range from a barely noticeable tremor to a destructive seismic event. Japan is one of the most seismically active countries in the world, which means earthquake preparedness is a core professional skill for hospitality workers. Foreign guests in particular may have little or no experience with earthquakes and no instinct for what to do. In those moments, staff members serve as the calm authority. The ability to respond clearly and immediately turns potential panic into orderly, safe action.
 
@@ -27,12 +25,12 @@ When a 地震 occurs, staying calm, using simple and reassuring language with gu
 ## Related Expressions
 
 - **余震 (yoshin)**: aftershock; guests need to know that smaller tremors can follow the main event, and staff should proactively tell them to remain in safe positions until an all-clear is given rather than letting people assume the danger has passed
-- **震度 (shindo)**: Japan's seismic intensity scale, running from 0 to 7, which measures how strongly shaking was felt at a specific location; this is different from the Richter magnitude scale and is what one will hear in news reports and official announcements after a 地震
+- **震度 (shindo)**: Japan's seismic intensity scale, running from 0 to 7, which measures how strongly shaking was felt at a specific location; this is different from the Richter magnitude scale and is what staff will hear in news reports and official announcements after a 地震
 
 
 ## Common Mistakes
 
-A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfront hotels must address both as separate but potentially connected events, with different protocols. A common error is misjudging whether a tremor is small enough to ignore or large enough to act on. Learning one's facility's threshold protocol is recommended. Note on pronunciation: 地震 is じしん with two short, evenly stressed syllables. The vowels should not be stretched.
+A common mistake is conflating 地震 with 津波 (tsunami). Coastal and waterfront hotels must address both as separate but potentially connected events, with different protocols. A common error is misjudging whether a tremor is small enough to ignore or large enough to act on. Learning their facility's threshold protocol is recommended. Note on pronunciation: 地震 is じしん with two short, evenly stressed syllables. The vowels should not be stretched.
 
 ---
 

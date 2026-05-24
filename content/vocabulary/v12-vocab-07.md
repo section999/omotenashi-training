@@ -3,8 +3,6 @@ id: v12-vocab
 section: 7
 title: 警察 (keisatsu)
 ---
-**Pronunciation:** [**kei**-sa-tsu]
-**Register:** Standard, used across all registers when referring to law enforcement
 
 警察 refers to Japan's police authorities, responsible for public safety, crime prevention, and emergency response. In hospitality, staff may need to contact the 警察 for situations involving theft, violence or threats on the premises, missing persons, suspicious items, public disturbances, or fraud. Japan's police are professional and responsive, operating through regional 警察署 (police stations) and neighbourhood 交番 (substations). The general emergency number 110 is one every staff member must have committed to memory, and the direct number of the nearest 警察署 should be posted at the front desk and concierge station where it is immediately accessible.
 

@@ -3,10 +3,8 @@ id: v05-vocab
 section: 8
 title: 提供 (teikyou)
 ---
-**Pronunciation:** [tei-**kyou**]
-**Register:** Formal, standard in hospitality and F&B service contexts
 
-提供 refers to the act of serving or providing food and beverages to guests, covering everything from the moment a dish leaves the kitchen to the instant it is placed on the table. In Japanese hospitality, this moment carries significant weight. How a dish is set down, what one says as one places it, and whether one arrives at the right time all contribute to the guest's overall impression. In fine dining and kaiseki restaurants, announcing each dish as it arrives, naming the key ingredient or preparation style, turns what could be a routine handoff into a brief, memorable moment of storytelling.
+提供 refers to the act of serving or providing food and beverages to guests, covering everything from the moment a dish leaves the kitchen to the instant it is placed on the table. In Japanese hospitality, this moment carries significant weight. How a dish is set down, what staff say as one places it, and whether one arrives at the right time all contribute to the guest's overall impression. In fine dining and kaiseki restaurants, announcing each dish as it arrives, naming the key ingredient or preparation style, turns what could be a routine handoff into a brief, memorable moment of storytelling.
 
 Timing is where 提供 gets challenging, and it is where strong communication between floor staff and the kitchen shows. In a multi-course meal, each dish must arrive after the previous one is finished and cleared, without awkward gaps or rushed deliveries. Experienced staff develop a rhythm with the kitchen team so courses flow naturally throughout the meal. In buffet settings, 提供 shifts meaning slightly to cover restocking: fresh items should be available, and empty trays should never sit on the counter for more than a moment.
 

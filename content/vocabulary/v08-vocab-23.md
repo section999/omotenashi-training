@@ -29,7 +29,7 @@ title: 徒歩 (toho)
 
 ## Common Mistakes
 
-A frequent mistake is giving 徒歩 estimates based on one's own walking speed rather than an average guest's pace: staff who walk quickly may underestimate by several minutes, leading guests to feel rushed or lost. Another common error is using 歩いて〇分 in formal written or spoken contexts where 徒歩〇分 is the professional standard; while both are understood, 歩いて sounds conversational and slightly informal compared to the crisp 徒歩. Pronunciation shifts also occur for 分: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Incorrect pronunciation of minutes stands out to Japanese guests.
+A frequent mistake is giving 徒歩 estimates based on their own walking speed rather than an average guest's pace: staff who walk quickly may underestimate by several minutes, leading guests to feel rushed or lost. Another common error is using 歩いて〇分 in formal written or spoken contexts where 徒歩〇分 is the professional standard; while both are understood, 歩いて sounds conversational and slightly informal compared to the crisp 徒歩. Pronunciation shifts also occur for 分: 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Incorrect pronunciation of minutes stands out to Japanese guests.
 
 ---
 

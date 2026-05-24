@@ -3,12 +3,10 @@ id: v06-vocab
 section: 17
 title: 接続 (setsuzoku)
 ---
-**Pronunciation:** [se-tsu-**zo**-ku]
-**Register:** Formal/Neutral, used when guiding guests through the process of connecting devices to the hotel network
 
-接続 is built from the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, one will encounter this word most often when a guest needs help connecting a smartphone, laptop, or tablet to the property's Wi-Fi. Knowing 接続 and the vocabulary around it lets one walk guests through the process step by step, which reduces frustration and leaves a positive impression of the stay.
+接続 is built from the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, staff will encounter this word most often when a guest needs help connecting a smartphone, laptop, or tablet to the property's Wi-Fi. Knowing 接続 and the vocabulary around it lets one walk guests through the process step by step, which reduces frustration and leaves a positive impression of the stay.
 
-Practical guidance centers on the connection steps themselves. one might say 「画面のWi-Fi設定をお開きください」 (please open one's device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, staff check in with 「接続はできましたか？」 (were one able to connect?). If the problem persists after those steps, staff offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first one does not work
+Practical guidance centers on the connection steps themselves. staff might say 「画面のWi-Fi設定をお開きください」 (please open their device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, staff check in with 「接続はできましたか？」 (were one able to connect?). If the problem persists after those steps, staff offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first staff do not work
 ## Example Sentences
 
 **1.** 接続方法をご案内いたしますので、少々お待ちください。

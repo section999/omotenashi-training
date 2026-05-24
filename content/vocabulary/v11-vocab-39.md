@@ -3,8 +3,6 @@ id: v11-vocab
 section: 39
 title: もう一度お願いします (mouichido onegai shimasu)
 ---
-**Pronunciation:** [mou-i-**chi**-do o-ne-gai shi-mas]
-**Register:** Neutral-Polite, the standard request to have information repeated
 
 もう一度お願いします means "please say that once more," and in hotel telephone communication it is a notably important practical phrase in hotel telephone communication. Mishearing a single digit in a phone number or one syllable in a guest's name can cascade into errors across reservations, billing records, and guest room assignments. Japanese hospitality culture values accuracy, and asking for clarification is considered responsible rather than incompetent. A common error is to hold back from using this phrase out of hesitation, but the alternative, guessing, is more damaging than asking.
 

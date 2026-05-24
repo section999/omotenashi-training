@@ -3,8 +3,6 @@ id: v12-vocab
 section: 19
 title: 通報 (tsuuhou)
 ---
-**Pronunciation:** [**tsuu**-hou]
-**Register:** Formal, emergency notification and official reporting
 
 通報 means formally notifying an external authority, such as the fire department (消防署), police (警察), or ambulance service (救急), that an emergency exists and requires their intervention. It carries a sense of professional and civic duty. This is not just passing along information: making a 通報 is a deliberate act that activates official response systems. In a hotel, timely and accurate 通報 is one of the most important actions a staff member can take during a crisis. Delays can worsen outcomes in fires, medical emergencies, suspected crimes, and natural disasters.
 
@@ -26,7 +24,7 @@ Japanese staff are trained to give structured information when making a 通報 c
 
 ## Related Expressions
 
-- **報告 (houkoku)**: internal report; while 通報 goes to external authorities, 報告 is communication within the hotel, to a supervisor or the management team. Both happen in parallel during any emergency, and one does not replace the other.
+- **報告 (houkoku)**: internal report; while 通報 goes to external authorities, 報告 is communication within the hotel, to a supervisor or the management team. Both happen in parallel during any emergency, and staff do not replace the other.
 - **緊急連絡 (kinkyuu renraku)**: emergency contact; a broader term for crisis communication that may include 通報 to authorities alongside internal notifications and guest updates. Think of it as the overall communication effort, with 通報 being one specific component.
 
 

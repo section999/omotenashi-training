@@ -3,8 +3,6 @@ id: v09-vocab
 section: 26
 title: 空き状況 (aki joukyou)
 ---
-**Pronunciation:** [a-ki-**jou**-kyou]
-**Register:** Formal/Neutral, front desk and reservations communication with guests
 
 空き状況 (aki joukyou) literally puts 空き (vacancy, open space) together with 状況 (status, situation) to mean "vacancy status" or "availability." In day-to-day hotel operations, it is a frequently checked piece of information: guests ask before booking, staff verify before confirming, and housekeeping updates it in real time as rooms are cleaned and released. Getting 空き状況 right matters far beyond individual reservations. Overselling leads to 満室 situations, while under-reporting availability means lost revenue.
 

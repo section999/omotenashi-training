@@ -3,10 +3,8 @@ id: v10-vocab
 section: 28
 title: 税込 (zeikomi)
 ---
-**Pronunciation:** [zei-**ko**-mi]
-**Register:** Formal/Neutral -- standard in pricing, billing, and rate quotation
 
-税込 is a compound of 税 (zei, "tax") and 込み (komi, "included"). When a price is 税込, Japan's consumption tax (消費税, currently 10% on most goods and services) is already built into the number one sees. What the guest reads is exactly what they pay. This clarity is central to how Japanese hospitality handles financial communication: guests should never be surprised by an amount that turns out to be different from what was quoted. For international visitors especially, being told clearly whether a price is 税込 or not removes a common source of confusion.
+税込 is a compound of 税 (zei, "tax") and 込み (komi, "included"). When a price is 税込, Japan's consumption tax (消費税, currently 10% on most goods and services) is already built into the number staff see. What the guest reads is exactly what they pay. This clarity is central to how Japanese hospitality handles financial communication: guests should never be surprised by an amount that turns out to be different from what was quoted. For international visitors especially, being told clearly whether a price is 税込 or not removes a common source of confusion.
 
 It is recommended to state 税込 explicitly whenever quoting a rate, whether at check-in, over the phone, or in response to an inquiry. Saying 「〇〇円、税込でございます」 takes only a second and eliminates ambiguity. However, if a price list one is referencing does not specify, staff should check before quoting rather than assuming one way or the other. A common error is assuming that because prices in Japan are commonly displayed 税込, verbal confirmation can be skipped. That assumption leads to billing disputes.
 

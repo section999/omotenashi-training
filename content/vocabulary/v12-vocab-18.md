@@ -3,8 +3,6 @@ id: v12-vocab
 section: 18
 title: 救助 (kyuujo)
 ---
-**Pronunciation:** [**kyuu**-jo]
-**Register:** Formal, emergency response and evacuation
 
 救助 means rescue: the active intervention that saves a person from a dangerous, life-threatening, or distressing situation. This word conveys urgency and purpose. In a hotel context, 救助 might mean pulling a guest from a flooded area, assisting someone trapped in an elevator, finding a missing child on the premises, or coordinating with emergency services to get guests out safely during a fire or structural emergency. Japanese law requires hotel management to establish and maintain effective emergency response systems, and 救助 procedures sit at the centre of those frameworks.
 

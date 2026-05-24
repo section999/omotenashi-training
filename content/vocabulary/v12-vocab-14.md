@@ -3,8 +3,6 @@ id: v12-vocab
 section: 14
 title: 病気 (byouki)
 ---
-**Pronunciation:** [**byou**-ki]
-**Register:** Formal/Neutral, guest wellbeing and medical coordination
 
 病気 covers physical and mental health conditions that impair a person's normal functioning, from a mild cold or bout of food poisoning to conditions serious enough to require hospitalisation. When a guest shows signs of 病気, staff should respond with warmth and calm professionalism. The cultural value of 思いやり (omoiyari), meaning empathy, means staff should acknowledge how a guest is feeling before proceeding with logistics. Saying "I'm sorry to hear one is unwell, let me help you right away" has a different effect from immediately reaching for the phone.
 

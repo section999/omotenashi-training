@@ -3,12 +3,10 @@ id: v06-vocab
 section: 20
 title: 有料 (yuuryou)
 ---
-**Pronunciation:** [yuu-**ryou**]
-**Register:** Formal/Neutral, used when informing guests that a charge applies to a service or item
 
-有料 combines the characters for "existence/having" (有) and "fee/charge" (料), literally meaning "there is a fee." It is the direct counterpart to 無料 (free of charge). In Japanese hospitality culture, transparency about pricing is fundamental to trust. Surprising a guest with a charge they did not expect can be a damaging service failure one can make, and the size of the charge is almost irrelevant. A small unexpected bill can do more reputational damage than a large one that was clearly communicated upfront.
+有料 combines the characters for "existence/having" (有) and "fee/charge" (料), literally meaning "there is a fee." It is the direct counterpart to 無料 (free of charge). In Japanese hospitality culture, transparency about pricing is fundamental to trust. Surprising a guest with a charge they did not expect can be a damaging service failure staff can make, and the size of the charge is almost irrelevant. A small unexpected bill can do more reputational damage than a large one that was clearly communicated upfront.
 
-有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry, and late check-out fees. It also shows up throughout printed in-room materials and menus. When telling a guest that something is 有料, staff should mention the price or point them to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; one can check the pricing on the menu). That kind of complete communication prevents billing disputes from arising in the first place.
+有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry, and late check-out fees. It also shows up throughout printed in-room materials and menus. When telling a guest that something is 有料, staff should mention the price or point them to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; staff can check the pricing on the menu). That kind of complete communication prevents billing disputes from arising in the first place.
 
 ## Example Sentences
 

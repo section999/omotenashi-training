@@ -8,13 +8,13 @@ title: Setsubun, Bean Throwing Festival (節分), February 3 or 4
 
 ## The Mamemaki Tradition
 
-The central Setsubun practice is **mamemaki (豆まき)**, bean throwing. Family members — typically the eldest male — don an *oni* (demon/ogre) mask while others throw roasted soybeans (*fukumame*) and shout:
+The central Setsubun practice is **mamemaki (豆まき)**, bean throwing. Family members ,  typically the eldest male ,  don an *oni* (demon/ogre) mask while others throw roasted soybeans (*fukumame*) and shout:
 
 **鬼は外！福は内！**
 *(Oni wa soto! Fuku wa uchi!)*
 "Out with demons! In with good fortune!"
 
-It is also traditional to eat one roasted soybean for each year of your age, plus one for good luck in the coming year. In recent decades, the tradition of eating an *ehomaki* (恵方巻き) — a whole uncut *maki* sushi roll eaten silently while facing the year's lucky direction — has spread from the Kansai region to become a nationwide custom.
+It is also traditional to eat one roasted soybean for each year of your age, plus one for good luck in the coming year. In recent decades, the tradition of eating an *ehomaki* (恵方巻き) ,  a whole uncut *maki* sushi roll eaten silently while facing the year's lucky direction ,  has spread from the Kansai region to become a nationwide custom.
 
 ## Setsubun at Shrines and Temples
 
@@ -27,7 +27,7 @@ Setsubun offers some of the most guest-interactive seasonal opportunities availa
 - **Lobby mamemaki station**: provide roasted soybeans, oni masks, and cards explaining the tradition
 - **Ehomaki on the dinner menu**: note the lucky direction for the year and offer whole uncut maki rolls, framed as a participatory experience
 - **Oni mask display with photo opportunity**: visually striking, fun, and culturally genuine for families and international guests
-- **The story approach**: when explaining Setsubun to unfamiliar guests, lead with the narrative — the demons and the fortune — before describing the practice; the story makes the tradition come alive
+- **The story approach**: when explaining Setsubun to unfamiliar guests, lead with the narrative ,  the demons and the fortune ,  before describing the practice; the story makes the tradition come alive
 
 ---
 

@@ -29,7 +29,7 @@ In day-to-day operations, 従業員 is the word managers use when writing roster
 
 ## Common Mistakes
 
-A common error is to mix up 従業員 and 社員, assuming they mean the same thing. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There is also a register issue: using 従業員 to refer to oneself in front of a guest sounds stiff and impersonal. In those moments, stating one's role, such as フロントスタッフ, comes across more naturally.
+A common error is to mix up 従業員 and 社員, assuming they mean the same thing. 社員 typically covers only full-time, permanent employees, while 従業員 is the broader category that includes part-timers and contract workers. There is also a register issue: using 従業員 to refer to oneself in front of a guest sounds stiff and impersonal. In those moments, stating their role, such as フロントスタッフ, comes across more naturally.
 
 ---
 

@@ -3,8 +3,6 @@ id: v13-vocab
 section: 23
 title: 配置 (haichi)
 ---
-**Pronunciation:** [ha-i-**chi**]
-**Register:** Formal -- used in management briefings, operational planning, and staff communications
 
 配置 means assignment or placement: the deliberate positioning of staff, equipment, or resources so that every area is covered and every need can be met. Before a major event like a wedding reception or a VIP arrival, managers sit down and carefully work out the 配置 of staff across entry points, dining areas, guest rooms, and support zones. Correct 配置 means no guest has to search for help, while poor 配置 can result in overstaffed areas alongside unattended ones. In Japanese hospitality, the precision of 配置 is itself a form of omotenashi -- the idea that every position has been thought through with the guest in mind.
 
@@ -32,7 +30,7 @@ Staff 配置 is communicated through a 配置図 (haichi-zu, a placement diagram
 
 ## Common Mistakes
 
-A common error is to mix up 配置 with 配属 (haizoku: departmental assignment), as both involve placing people within an organisation. The difference is time horizon and purpose: 配置 is about physical positioning for a specific event or operational need, while 配属 is the longer-term organisational decision about which department someone belongs to. Using 配置 when one means 配属 -- for example, when discussing where a new employee has been permanently placed -- will sound like a temporary posting rather than a proper assignment. Also, 配置する is transitive: it always takes an object, so specify who or what is being placed.
+A common error is to mix up 配置 with 配属 (haizoku: departmental assignment), as both involve placing people within an organisation. The difference is time horizon and purpose: 配置 is about physical positioning for a specific event or operational need, while 配属 is the longer-term organisational decision about which department someone belongs to. Using 配置 when staff means 配属 -- for example, when discussing where a new employee has been permanently placed -- will sound like a temporary posting rather than a proper assignment. Also, 配置する is transitive: it always takes an object, so specify who or what is being placed.
 
 ---
 

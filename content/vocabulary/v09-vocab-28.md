@@ -3,8 +3,6 @@ id: v09-vocab
 section: 28
 title: 延長 (enchou)
 ---
-**Pronunciation:** [en-**chou**]
-**Register:** Formal/Neutral, front desk and reservation handling
 
 延長 (enchou) means "extension," the act of prolonging something beyond its original endpoint. In hotel operations, it most often refers to 滞在延長 (taizai enchou), extending a guest's stay beyond the checkout date already in the system. The term also covers other situations: a late checkout request, continued use of a meeting room, or extended rental of hotel equipment. In Japanese hospitality culture, being able to accommodate a guest who wants to stay longer is viewed positively, a small but meaningful mark of service quality. Handling 延長 requests smoothly is an important skill for hotel staff to develop.
 

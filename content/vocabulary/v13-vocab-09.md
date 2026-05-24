@@ -3,8 +3,6 @@ id: v13-vocab
 section: 9
 title: 休憩 (kyuukei)
 ---
-**Pronunciation:** [kyuu-**kei**]
-**Register:** Neutral, workplace welfare and scheduling
 
 休憩 refers to a break period during work, a designated time when employees step away from their duties to rest, eat, and recharge. In Japan this is legally regulated: the Labour Standards Act requires at least 45 minutes for shifts exceeding six hours, and at least 60 minutes for shifts over eight hours. For hospitality workers who remain active throughout their shift, 休憩 is essential for sustaining performance across the full working day. Hotels and ryokan typically stagger breaks across departments so service continuity is never interrupted.
 
@@ -32,7 +30,7 @@ Culturally, Japanese employees tend to be mindful of not letting breaks run long
 
 ## Common Mistakes
 
-The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. One would say 「今日は休みです」to mean "I have the day off." These are different concepts and keeping them clearly separated is important. Another common area to review is verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a helpful phrase when explaining to a guest why a colleague is momentarily unavailable.
+The most common mistake is confusing 休憩 with 休み. A sentence like 「今日は休憩です」sounds wrong. Staff would say 「今日は休みです」to mean "I have the day off." These are different concepts and keeping them clearly separated is important. Another common area to review is verbal forms: 休憩する is the correct way to use it as a verb, and 休憩中 means "currently on a break," which is a helpful phrase when explaining to a guest why a colleague is momentarily unavailable.
 
 ---
 

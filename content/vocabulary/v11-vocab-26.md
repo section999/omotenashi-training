@@ -5,7 +5,7 @@ title: 保留 (horyuu)
 ---
 保留 reads as "temporary retention" and refers to placing a telephone caller on hold. The characters break down as 保 (to hold or preserve) and 留 (to keep or detain), so together they describe keeping the caller in a waiting state. In hotel phone etiquette, this is a small detail that makes a significant difference: a guest who is placed on hold without any explanation is left in silence wondering if the call dropped. That uncertainty is the opposite of omotenashi.
 
-Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for one's patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is a clear marker of professional telephone service
+Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for their patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is a clear marker of professional telephone service
 ## Example Sentences
 
 **1.** 少々保留にさせていただきますので、そのままお待ちくださいませ。
@@ -23,13 +23,13 @@ Hotel staff are trained to return to the line within sixty seconds, even if the 
 
 ## Related Expressions
 
-- **お待たせいたしました (omatase itashimashita)**: the first thing one says when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before one move into one's update.
-- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that one is coming back.
+- **お待たせいたしました (omatase itashimashita)**: the first thing staff say when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before staff move into their update.
+- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that staff is coming back.
 
 
 ## Common Mistakes
 
-A common error is skipping the reason for 保留 or forgetting to give any estimate before pressing hold. That omission creates anxiety for the caller because they cannot see what is happening on one's end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous: the caller may not realize they are being placed on a formal hold. Register slippage is also a common issue: using the casual わかりました right before one places someone on hold breaks the keigo flow of the call. The same register should be maintained from the greeting through the hold announcement.
+A common error is skipping the reason for 保留 or forgetting to give any estimate before pressing hold. That omission creates anxiety for the caller because they cannot see what is happening on their end. Saying only 少々お待ちください without the 保留にさせていただきます framing is ambiguous: the caller may not realize they are being placed on a formal hold. Register slippage is also a common issue: using the casual わかりました right before staff places someone on hold breaks the keigo flow of the call. The same register should be maintained from the greeting through the hold announcement.
 
 ---
 

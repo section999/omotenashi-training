@@ -3,8 +3,6 @@ id: v10-vocab
 section: 26
 title: 為替 (kawase)
 ---
-**Pronunciation:** [ka-**wa**-se]
-**Register:** Formal -- most often used as part of the compound 為替レート in hospitality contexts
 
 為替 refers to the mechanism of converting one currency into another, and in hospitality it almost always appears as 為替レート, the exchange rate. This is the number that indicates how much Japanese yen a unit of foreign currency is worth on any given day. The rate is not fixed: it shifts continuously based on global markets, and a figure that was accurate yesterday may be off today. Staff who handle 外貨 payments need to know where to find the official daily rate and how to apply it, because an incorrect rate either costs the hotel money or overcharges the guest.
 
@@ -26,7 +24,7 @@ A clean approach is to post the current 為替レート visibly near the front d
 
 ## Related Expressions
 
-- **外貨 (gaika)**: 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; one needs 外貨 to have a reason to use 為替, and one needs 為替 to know what the 外貨 is worth.
+- **外貨 (gaika)**: 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; staff need 外貨 to have a reason to use 為替, and staff need 為替 to know what the 外貨 is worth.
 - **両替 (ryougae)**: 両替 is the physical act of swapping one currency for another; the 為替レート is what determines how much of one currency is given for another, making 為替 the arithmetic foundation of every 両替 transaction.
 
 

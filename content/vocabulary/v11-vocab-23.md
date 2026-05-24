@@ -3,8 +3,6 @@ id: v11-vocab
 section: 23
 title: ご連絡 (go-renraku)
 ---
-**Pronunciation:** [go-**REN**-raku]
-**Register:** Formal, used in telephone, email, and all professional communication contexts
 
 ご連絡 refers to any act of communication or contact: a phone call, email, written notice, or message, especially in professional or formal settings. In Japanese hospitality, timely and clear ご連絡 is a core service responsibility. Whether informing a guest of a reservation change, updating a colleague about a special request, or following up after a problem has been resolved, prompt ご連絡 shows that the hotel is reliable and that it respects the guest's time. Delayed ご連絡 is one of those small failures that guests remember long after the details of their stay have faded.
 

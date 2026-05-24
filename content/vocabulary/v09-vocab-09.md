@@ -3,8 +3,6 @@ id: v09-vocab
 section: 9
 title: 人数 (ninzuu)
 ---
-**Pronunciation:** [nin-**zuu**]
-**Register:** Formal -- used in reservations, check-in, dining, and safety compliance
 
 人数 is the total count of individuals in a reservation, encompassing adults (大人), children (子供), and infants (幼児). In Japanese hotel and ryokan operations, confirming 人数 is never a pure formality. It directly determines room capacity assignments, the number of futon or beds to prepare, the portions planned for kaiseki or buffet service, and compliance with fire safety regulations that set a legal maximum occupancy per room. Ryokan are especially meticulous about this because each additional guest triggers a corresponding adjustment in meal portions, yukata sizes, and amenity quantities. Over- or under-reporting 人数 does not just cause inconvenience; it disrupts operations across multiple departments simultaneously.
 
@@ -27,7 +25,7 @@ Note that 人数 comes up at several different points during a guest's visit, no
 ## Related Expressions
 
 - **名数 (meisuu)**: a formal or written variant meaning the count of named individuals; turns up in group travel manifests and official documents rather than in spoken guest interactions
-- **お何名様 (o-nan-mei-sama)**: the polished service-industry phrasing for asking how many guests are in the party; this is what one uses at restaurant entrances and concierge desks as a warm, respectful opening
+- **お何名様 (o-nan-mei-sama)**: the polished service-industry phrasing for asking how many guests are in the party; this is what staff use at restaurant entrances and concierge desks as a warm, respectful opening
 
 
 ## Common Mistakes

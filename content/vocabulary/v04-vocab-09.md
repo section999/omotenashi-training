@@ -23,7 +23,7 @@ When a guest asks for more 石鹸, staff should respond promptly with polite, hu
 
 ## Related Expressions
 
-- **液体石鹸 (ekitai sekken)**: liquid soap; increasingly common in hotels as a cleaner and more eco-friendly alternative to bar soap, so know the refill process at one's property.
+- **液体石鹸 (ekitai sekken)**: liquid soap; increasingly common in hotels as a cleaner and more eco-friendly alternative to bar soap, so know the refill process at their property.
 - **アメニティ (ameniti)**: amenities; the collective term for bathroom supplies including 石鹸, shampoo, conditioner, and toothbrush, useful when discussing the full bathroom provision as a group.
 
 

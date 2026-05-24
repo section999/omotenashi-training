@@ -3,10 +3,8 @@ id: v06-vocab
 section: 24
 title: 確認します (kakunin shimasu)
 ---
-**Pronunciation:** [ka-ku-**nin** shi-ma-su]
-**Register:** Formal, ubiquitous in all service contexts
 
-確認 is formed from 確, meaning "to confirm" or "make certain," and 認, meaning "to recognize" or "verify." Together they capture the idea of making sure something is exactly as it should be. In hospitality work, 確認します is a frequently used phrase because the job demands constant checking. Reservation details, room status, billing, guest preferences, reported issues: all of these require verification before one can give a confident answer. Rather than saying "I don't know," 確認します signals that the answer is coming and that one is actively working on it right now.
+確認 is formed from 確, meaning "to confirm" or "make certain," and 認, meaning "to recognize" or "verify." Together they capture the idea of making sure something is exactly as it should be. In hospitality work, 確認します is a frequently used phrase because the job demands constant checking. Reservation details, room status, billing, guest preferences, reported issues: all of these require verification before staff can give a confident answer. Rather than saying "I don't know," 確認します signals that the answer is coming and that staff is actively working on it right now.
 
 This phrase appears across a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting a reported problem (「状況を確認いたします」), and double-checking a guest request (「ただいま確認いたします」). The phrase becomes effective when paired with a time cue: 「すぐに確認いたします」 sets an expectation of immediacy, while 「少々お時間をいただき、確認いたします」 buys a moment without leaving the guest uncertain. That combination of action and timeline management distinguishes a polished response from a vague one.
 

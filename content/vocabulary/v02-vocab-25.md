@@ -3,8 +3,6 @@ id: v02-vocab
 section: 25
 title: 鍵 (kagi)
 ---
-**Pronunciation:** [**ka**-gi]
-**Register:** Neutral/Formal, standard guest-facing contexts
 
 鍵 (kagi) means "key" and refers primarily to the traditional physical metal key used to lock and unlock a door. Many modern hotels have moved to card-based systems, but 鍵 remains a universally understood term and is still common at ryokan and smaller inns that have kept traditional key systems. Beyond the object itself, the moment of handing over a 鍵 carries real weight in hospitality. It represents the transfer of the room to the guest, a gesture of trust and welcome that should be handled with care, not rushed or done with one hand.
 

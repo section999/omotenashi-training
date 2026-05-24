@@ -3,9 +3,6 @@ id: v03-vocab
 section: 6
 title: スイートルーム (suite room)
 ---
-**Pronunciation:** [**suii**-to-ruu-mu]
-**Register:** Formal, Elevated, luxury service, VIP guest interactions, premium accommodation
-
 スイートルーム is a multi-area premium room: typically a separate bedroom, a living room or lounge, and often an enhanced bathroom with additional fixtures. In Japanese luxury hotels and high-class ryokan, the スイートルーム is the top of the offering, and it frequently comes with dedicated concierge attention, exclusive amenity packages, and personalised touches like welcome fruit arrangements or custom yukata. Guests who book a suite are not only paying for more space, they expect a higher standard of attentiveness and discretion throughout their stay, and staff language should reflect that from the first moment.
 
 Every interaction with a スイートルーム guest should be unhurried, measured, and proactively informative. On arrival, the guest should be walked through the layout of the suite: where the bedroom is, how the living area connects, and any special features that should be noted. Guests should be guided through the space rather than left to explore it alone. The difference between a ジュニアスイート (a smaller suite with partial room separation) and a グランドスイート or ロイヤルスイート (a full, expansive suite) also matters; guests with specific expectations about what they booked deserve a precise answer
@@ -33,7 +30,6 @@ Every interaction with a スイートルーム guest should be unhurried, measur
 Slipping into casual or abbreviated speech around スイートルーム guests is a register error that undercuts the premium experience the guest is paying for. Language should remain consistently formal and calm throughout the interaction. Skipping the suite orientation on arrival and leaving guests to discover the layout themselves is another common gap, guests should be guided through the space, not left to explore it. On pronunciation, スイート is sometimes delivered with heavy stress on the first syllable. The long vowel in スイー should be held for two clear beats, スイー-ト, not スイ-ート.
 
 ---
-
 ## Quiz
 
 **A guest booked a suite. How do you politely confirm?**

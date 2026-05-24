@@ -35,7 +35,7 @@ In the register hierarchy of acknowledgement phrases:
 
 ## Common Mistakes
 
-A common error is reaching for *ryōkai itashimashita* in guest-facing situations. It is grammatically fine, but *ryōkai* carries associations with business or operational communication rather than guest service. *Shōchi itashimashita* sounds warmer and fits the hospitality context better. The other frequent error is falling back on *wakarimashita* in moments that call for more formal language. The guest and the setting should be considered before choosing one's register.
+A common error is reaching for *ryōkai itashimashita* in guest-facing situations. It is grammatically fine, but *ryōkai* carries associations with business or operational communication rather than guest service. *Shōchi itashimashita* sounds warmer and fits the hospitality context better. The other frequent error is falling back on *wakarimashita* in moments that call for more formal language. The guest and the setting should be considered before choosing their register.
 
 ---
 

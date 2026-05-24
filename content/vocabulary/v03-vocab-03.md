@@ -3,8 +3,6 @@ id: v03-vocab
 section: 3
 title: シングルルーム (single room)
 ---
-**Pronunciation:** [shin-gu-ru **ruu**-mu]
-**Register:** Formal/Neutral, standard in reservations and check-in contexts
 
 シングルルーム is the standard Japanese term for a single room, designating a guest room with one bed for one occupant. In Japanese hotels, a "single" bed is often a semi-double in terms of mattress width, as many properties size up to give solo travellers a more comfortable sleep. For this reason, it is standard practice to mention the bed dimensions separately from the room type when a guest asks, rather than leaving them to guess.
 

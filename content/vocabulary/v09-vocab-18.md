@@ -25,7 +25,7 @@ Confirming inclusion is only the starting point. Good hotel communication means 
 ## Related Expressions
 
 - **素泊まり (sudomari)**: the direct contrast to 朝食付き, a room-only plan with no meals; when a guest on 素泊まり asks about adding breakfast, walk them through the 朝食付きプランへの変更 option or the possibility of buying 朝食券 separately.
-- **朝食券 (choushoku ken)**: a breakfast voucher, sometimes handed to 朝食付き guests physically at check-in; knowing this term helps when one needs to explain the practical mechanics of how the breakfast benefit gets used at one's property.
+- **朝食券 (choushoku ken)**: a breakfast voucher, sometimes handed to 朝食付き guests physically at check-in; knowing this term helps when staff needs to explain the practical mechanics of how the breakfast benefit gets used at their property.
 
 
 ## Common Mistakes

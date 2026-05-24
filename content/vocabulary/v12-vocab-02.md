@@ -3,10 +3,8 @@ id: v12-vocab
 section: 2
 title: 火災 (kasai)
 ---
-**Pronunciation:** [**ka**-sai]
-**Register:** Formal, the official term used in announcements, reports, and emergency protocols
 
-火災 refers to a fire outbreak that threatens lives, property, and operations. In Japanese hospitality settings, fire safety is taken seriously because hotels and ryokan house sleeping guests who may not be alert to early warning signs. Before their first shift, staff should know where every fire extinguisher, alarm pull station, and evacuation route is located. The word 火災 signals not just flames but the full activation of one's property's emergency protocol, which distinguishes a minor contained incident from a life-threatening event requiring coordinated response.
+火災 refers to a fire outbreak that threatens lives, property, and operations. In Japanese hospitality settings, fire safety is taken seriously because hotels and ryokan house sleeping guests who may not be alert to early warning signs. Before their first shift, staff should know where every fire extinguisher, alarm pull station, and evacuation route is located. The word 火災 signals not just flames but the full activation of their property's emergency protocol, which distinguishes a minor contained incident from a life-threatening event requiring coordinated response.
 
 Regular fire drills (防災訓練, bousai kunren) make sure both staff and guests can respond correctly when a 火災 occurs. When communicating a fire situation, 火災 should be paired with specific location information and clear, simple directives. Clear, early communication during a fire emergency is important
 ## Example Sentences
@@ -26,7 +24,7 @@ Regular fire drills (防災訓練, bousai kunren) make sure both staff and guest
 
 ## Related Expressions
 
-- **火事 (kaji)**: the everyday, emotionally charged word for fire that one hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
+- **火事 (kaji)**: the everyday, emotionally charged word for fire that staff hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
 - **出火 (shukka)**: "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication
 
 

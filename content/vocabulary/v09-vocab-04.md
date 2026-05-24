@@ -3,8 +3,6 @@ id: v09-vocab
 section: 4
 title: 到着日 (touchaku bi)
 ---
-**Pronunciation:** [tou-cha-ku-**bi**]
-**Register:** Formal -- used in reservation records, transport coordination, and check-in
 
 到着日 is the specific calendar date on which the guest is scheduled to arrive at the hotel or ryokan. While 宿泊日 covers the full span of a stay, 到着日 focuses specifically on day one, the moment the guest crosses the threshold. That first moment triggers a cascade of preparatory actions: final room readiness checks, amenity placement, and, where applicable, airport or station pickup coordination. In omotenashi culture, the arrival experience is widely understood as the most impression-forming moment of a guest's entire visit. Luxury ryokan in particular time their welcome preparations precisely to the 到着日: personalized cards, seasonal flower arrangements, and pre-warmed foot baths are not set out the night before or the morning after. They are ready when the guest arrives.
 
@@ -32,7 +30,7 @@ Operationally, 到着日 comes up when guests request early check-in, when trans
 
 ## Common Mistakes
 
-A common error is to use 到着日 and 宿泊日 interchangeably, but 宿泊日 can refer to any or all nights of the stay, while 到着日 is exclusively the first day. They are related but not the same thing. However, an equally common slip is answering a question about 到着日 with a time rather than a date, saying 「午後3時です」 when the guest asked which day they are arriving. It sounds like a small mix-up, but it creates a lookup mismatch in the reservation system and can leave the guest feeling like one's team is not fully across their booking details.
+A common error is to use 到着日 and 宿泊日 interchangeably, but 宿泊日 can refer to any or all nights of the stay, while 到着日 is exclusively the first day. They are related but not the same thing. However, an equally common slip is answering a question about 到着日 with a time rather than a date, saying 「午後3時です」 when the guest asked which day they are arriving. It sounds like a small mix-up, but it creates a lookup mismatch in the reservation system and can leave the guest feeling like their team is not fully across their booking details.
 
 ---
 

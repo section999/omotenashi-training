@@ -24,7 +24,7 @@ When explaining バイキング to guests, staff should cover the key details: w
 ## Related Expressions
 
 - **ビュッフェ (byuffe)**: a direct borrowing from the French "buffet," used mainly in upscale or international hotel contexts; carries a slightly more refined connotation than バイキング.
-- **食べ放題 (tabe-houdai)**: literally "all one can eat," commonly used in casual restaurant advertising; less formal than バイキング and rarely used by hotel staff in guest-facing speech.
+- **食べ放題 (tabe-houdai)**: literally "all staff can eat," commonly used in casual restaurant advertising; less formal than バイキング and rarely used by hotel staff in guest-facing speech.
 
 
 ## Common Mistakes

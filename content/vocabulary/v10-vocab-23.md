@@ -3,8 +3,6 @@ id: v10-vocab
 section: 23
 title: 取消 (torikeshi)
 ---
-**Pronunciation:** [to-ri-**ke**-shi]
-**Register:** Formal -- preferred in official documents and hotel procedures over the loanword キャンセル
 
 取消 is the formal Japanese word for cancellation: ending a reservation, transaction, or agreement that was previously confirmed. A 取消 is not a single action but a chain of steps that must happen in a specific order. Missing one link in that chain risks double bookings, a 返金 that never gets processed, or a room that stays blocked in the system. The guest-facing and back-end sides of 取消 need to happen together smoothly.
 

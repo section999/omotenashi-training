@@ -24,7 +24,7 @@ The チェックイン process requires staff to speak clearly, use appropriate 
 
 ## Related Expressions
 
-- **チェックアウト (chekku-auto)**: the departure counterpart; staff should pair one's knowledge of チェックイン procedures with チェックアウト so one can handle both ends of a guest's stay.
+- **チェックアウト (chekku-auto)**: the departure counterpart; staff should pair their knowledge of チェックイン procedures with チェックアウト so staff can handle both ends of a guest's stay.
 - **フロント手続き (furonto tetsuzuki)**: "front desk procedures"; a broader phrase that encompasses チェックイン as well as other administrative processes at the front desk.
 
 

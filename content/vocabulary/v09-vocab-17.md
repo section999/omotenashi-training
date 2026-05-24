@@ -24,7 +24,7 @@ Confirming that no meals are included is the starting point. The omotenashi appr
 ## Related Expressions
 
 - **朝食付き (choushoku tsuki)**: the most direct contrast with 素泊まり; when guests on a 素泊まり booking ask about adding breakfast, confirm whether that is possible and what it costs, using 朝食付きプランへの変更 as the natural phrasing.
-- **一泊二食 (ippaku nishoku)**: "one night with two meals," meaning both breakfast and dinner are included; this is the opposite end of the spectrum from 素泊まり and is the standard arrangement at most traditional ryokan, so know it well when one needs to describe the full range of options.
+- **一泊二食 (ippaku nishoku)**: "one night with two meals," meaning both breakfast and dinner are included; this is the opposite end of the spectrum from 素泊まり and is the standard arrangement at most traditional ryokan, so know it well when staff need to describe the full range of options.
 
 
 ## Common Mistakes

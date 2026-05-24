@@ -3,9 +3,6 @@ id: v09-vocab
 section: 29
 title: 短縮 (tanshuku)
 ---
-**Pronunciation:** [tan-**shu**-ku]
-**Register:** Formal/Neutral, reservation changes and front desk communication
-
 短縮 (tanshuku) means "shortening" or "reduction," and in a hotel context it refers to reducing the number of nights in an existing reservation. When a guest's plans change and they need to leave earlier than originally booked, that is 滞在の短縮 (taizai no tanshuku). Unlike a full cancellation, a 短縮 keeps the remaining reservation intact while removing only the final night or nights. This distinction matters practically because cancellation policies often treat removed nights differently depending on whether the guest is shortening or cancelling entirely. Japanese hotels take care to communicate these distinctions clearly, since transparency about fees is part of building trust with guests.
 
 Handling a 短縮 request properly starts with pulling up the reservation and reviewing the plan's conditions (プランの条件) before saying anything about cost. Some advance-purchase or discounted plans charge the full rate for unused nights; flexible plans may allow a no-cost adjustment. After reviewing, the staff member should communicate any applicable fee clearly before processing: 短縮に伴いまして、〇月〇日分のキャンセル料が発生いたします. The guest's explicit agreement should be obtained before touching the system. Housekeeping and billing both need to be updated at the same time
@@ -33,7 +30,6 @@ Handling a 短縮 request properly starts with pulling up the reservation and re
 A common error is to confuse 短縮 with a full キャンセル (cancellation), but they are different procedures. With 短縮, only the removed nights are in question; the rest of the reservation stays intact. Processing a full cancellation when a guest only wanted to shorten their stay would wipe out their entire booking, which is a serious error. Another pitfall is telling a guest "no problem" before checking the plan's modification terms. Some discounted plans have strict no-change clauses, and approving a 短縮 without reading the conditions can lead to billing disputes. The recommended sequence is to check the plan, quote any fees, obtain confirmation from the guest, and then make the change.
 
 ---
-
 ## Quiz
 
 **Guest needs to leave one day earlier. Which term describes this?**

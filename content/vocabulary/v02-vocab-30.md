@@ -3,8 +3,6 @@ id: v02-vocab
 section: 30
 title: フロント係 (furonto kakari)
 ---
-**Pronunciation:** [fu-ron-to **ka**-ka-ri]
-**Register:** Formal, professional self-identification and role reference
 
 フロント係 (furonto kakari) means "front desk staff" or "front desk attendant," the person assigned to manage hotel front desk operations. The 係 (kakari) part makes this term precise. It does not just mean someone who works nearby; it means the person specifically assigned to and responsible for this role. These are the faces guests see first and last at any property. The impression they create at arrival affects the guest's perception of the stay, and the impression at departure is what the guest remembers.
 
@@ -32,7 +30,7 @@ title: フロント係 (furonto kakari)
 
 ## Common Mistakes
 
-A common error is to introduce themselves as フロントです, which is too brief and lacks the role clarity that guests expect. 私はフロント係でございます names the role clearly and uses appropriately formal language. 係 does not imply seniority. It means "the person responsible for this task," so it should not be translated as "manager" or "supervisor" when explaining the role. The role of フロント係 is inherently proactive. Waiting quietly at the desk for guests to come to one does not align with the omotenashi spirit of the position. The expected approach is to notice, engage, and offer before being asked.
+A common error is to introduce themselves as フロントです, which is too brief and lacks the role clarity that guests expect. 私はフロント係でございます names the role clearly and uses appropriately formal language. 係 does not imply seniority. It means "the person responsible for this task," so it should not be translated as "manager" or "supervisor" when explaining the role. The role of フロント係 is inherently proactive. Waiting quietly at the desk for guests to come to staff do not align with the omotenashi spirit of the position. The expected approach is to notice, engage, and offer before being asked.
 
 ---
 

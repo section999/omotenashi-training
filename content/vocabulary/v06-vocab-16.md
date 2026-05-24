@@ -3,8 +3,6 @@ id: v06-vocab
 section: 16
 title: パスワード (pasuwaado)
 ---
-**Pronunciation:** [pa-su-**waa**-do]
-**Register:** Neutral loanword, used in formal service phrasing when delivering Wi-Fi or safe access credentials
 
 パスワード is the Japanese rendering of the English word "password," adopted as one of many technology-related loanwords that became standard in the digital era. In hotel contexts it refers almost exclusively to the Wi-Fi access password, though it also applies to digital room safes or online reservation portals. Because passwords often mix letters, numbers, and symbols, miscommunication is very common when they are only spoken aloud. Written delivery is not just a courtesy here, it is a practical necessity.
 
@@ -26,7 +24,7 @@ Staff typically present パスワード on a printed card in the room, on the ke
 
 ## Related Expressions
 
-- **暗証番号 (anshou bangou)**: a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when one is explaining to a guest which type of credential they need.
+- **暗証番号 (anshou bangou)**: a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when staff is explaining to a guest which type of credential they need.
 - **ネットワーク名 / SSID (nettowaaку mei / SSID)**: the name of the Wi-Fi network a device must select before entering the パスワード. Both the network name and the password should be presented together, since many guests, particularly older travellers, may not know which network to choose.
 
 

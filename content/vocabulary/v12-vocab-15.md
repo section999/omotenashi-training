@@ -3,8 +3,6 @@ id: v12-vocab
 section: 15
 title: 応急処置 (oukyuu shochi)
 ---
-**Pronunciation:** [ou-**kyuu** sho-**chi**]
-**Register:** Formal, emergency response and first aid
 
 応急処置 is the immediate, temporary care given to an injured or suddenly ill person before professional medical help arrives. 応急 means an emergency or makeshift response, and 処置 means treatment or measures. Together they describe first aid: a rapid practical intervention designed to stabilise the situation, not to replace a doctor. In hotel work, this skill arises more often than many new staff expect. Cuts, burns, choking, allergic reactions, cardiac arrest, and sprained ankles from staircase falls are all real scenarios. Japanese hotel chains frequently require front-line staff to hold a basic first aid certification, and drills are run regularly.
 

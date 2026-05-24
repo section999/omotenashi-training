@@ -3,10 +3,8 @@ id: v12-vocab
 section: 5
 title: 消火器 (shoukaki)
 ---
-**Pronunciation:** [shou-**ka**-ki]
-**Register:** Standard, used in safety briefings, drills, and emergency situations
 
-消火器 is a portable fire extinguisher, and knowing how to use one correctly is a basic competency for every hospitality staff member. In Japanese hotels, ryokan, and restaurants, 消火器 are required by law at regular intervals throughout the building, clearly marked with red signage. During the first critical minutes after a fire starts, a well-trained staff member with a 消火器 nearby can stop a containable incident from becoming a full evacuation. That window is short, so knowing the locations of every extinguisher on one's floor before one needs one is important.
+消火器 is a portable fire extinguisher, and knowing how to use one correctly is a basic competency for every hospitality staff member. In Japanese hotels, ryokan, and restaurants, 消火器 are required by law at regular intervals throughout the building, clearly marked with red signage. During the first critical minutes after a fire starts, a well-trained staff member with a 消火器 nearby can stop a containable incident from becoming a full evacuation. That window is short, so knowing the locations of every extinguisher on their floor before staff needs one is important.
 
 Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side. Not all extinguishers work on all fires. Staff should know the difference between powder-type (粉末, funmatsu), CO2-type, and foam-type extinguishers because using the wrong type on a grease fire can worsen the situation. After any use, the extinguisher must come out of service immediately, be replaced or recharged, and the incident reported to management
 ## Example Sentences
@@ -32,7 +30,7 @@ Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim 
 
 ## Common Mistakes
 
-A common and dangerous mistake is attempting to use a 消火器 on a fire that has already grown too large to contain. The fire should be sized up first. If it reaches the ceiling or blocks one's exit, leaving immediately is necessary. A common error is confusing 消火器 (portable fire extinguisher) with 消火栓 (shoukassen, fixed fire hydrant or hose cabinet), which requires separate training to operate. When one has used a 消火器 and is moving away from the fire, one should never turn one's back to it. The fire should be faced while retreating toward the exit.
+A common and dangerous mistake is attempting to use a 消火器 on a fire that has already grown too large to contain. The fire should be sized up first. If it reaches the ceiling or blocks their exit, leaving immediately is necessary. A common error is confusing 消火器 (portable fire extinguisher) with 消火栓 (shoukassen, fixed fire hydrant or hose cabinet), which requires separate training to operate. When one has used a 消火器 and is moving away from the fire, staff should never turn their back to it. The fire should be faced while retreating toward the exit.
 
 ---
 

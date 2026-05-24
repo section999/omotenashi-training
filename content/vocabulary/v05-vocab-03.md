@@ -3,12 +3,10 @@ id: v05-vocab
 section: 3
 title: 昼食 (chuushoku)
 ---
-**Pronunciation:** [**chuu**-sho-ku]
-**Register:** Formal, Operational, F&B communication, dining guidance, reservation inquiries
 
-昼食 is the formal Japanese word for lunch, and in a hotel setting it covers everything from restaurant service to room service and banquet-style midday meals. Lunch presents real opportunities for the attentive hospitality professional: seasonal set menus, business lunch packages, and chef's recommendations are all worth knowing so one can describe them naturally when guests ask. Unlike breakfast, which most staying guests eat on-property, lunch guests often include day visitors or locals coming in from outside. Guest management at the lunch period therefore needs to be equally welcoming to both residents and walk-ins.
+昼食 is the formal Japanese word for lunch, and in a hotel setting it covers everything from restaurant service to room service and banquet-style midday meals. Lunch presents real opportunities for the attentive hospitality professional: seasonal set menus, business lunch packages, and chef's recommendations are all worth knowing so staff can describe them naturally when guests ask. Unlike breakfast, which most staying guests eat on-property, lunch guests often include day visitors or locals coming in from outside. Guest management at the lunch period therefore needs to be equally welcoming to both residents and walk-ins.
 
-Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that one is problem-solving rather than reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When service is busy and expectations need to be managed, calm and direct communication is what keeps guests feeling respected
+Practical communication around 昼食 centres on clear information: service times, what is available, and whether reservations are needed. During busy periods, stating wait times honestly and offering alternatives, the hotel lounge, a slightly later table, shows that staff is problem-solving rather than reporting a problem. Business guests in particular often care as much about pace and efficiency as they do about the food itself, so being attentive to their time as well as their meal matters. When service is busy and expectations need to be managed, calm and direct communication is what keeps guests feeling respected
 ## Example Sentences
 
 **1.** 昼食は11時30分から14時30分までご利用いただけます。

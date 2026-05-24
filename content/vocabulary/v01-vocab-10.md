@@ -32,7 +32,7 @@ In Japanese service culture, *iie* requires particular care. Directly refusing a
 
 ## Common Mistakes
 
-Using a bare *iie* to refuse a guest request is the most common mistake. In Japanese hospitality, the negative is always softened, redirected, or paired with an alternative. A second mistake is delivering *hai* without conviction. A half-hearted response can suggest that one has not fully heard or understood the request, which is the opposite of the attentive impression one wants to give. It should be said clearly, with eye contact and a slight nod, and followed immediately with whatever action or confirmation is needed.
+Using a bare *iie* to refuse a guest request is the most common mistake. In Japanese hospitality, the negative is always softened, redirected, or paired with an alternative. A second mistake is delivering *hai* without conviction. A half-hearted response can suggest that staff has not fully heard or understood the request, which is the opposite of the attentive impression one wants to give. It should be said clearly, with eye contact and a slight nod, and followed immediately with whatever action or confirmation is needed.
 
 ---
 

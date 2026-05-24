@@ -3,10 +3,8 @@ id: v10-vocab
 section: 15
 title: 会計係 (kaikei kakari)
 ---
-**Pronunciation:** [kai-**kei** ka-**ka**-ri]
-**Register:** Formal -- used when referring to or introducing payment staff in a guest-facing context
 
-会計係 is the designated staff member responsible for all aspects of guest payment: calculating totals, processing transactions, issuing receipts, and returning correct change. The payment interaction is the final impression a guest carries away from one's property, which makes the 会計係 role one that demands both numerical precision and warmth. A smooth stay can still leave a poor impression if the checkout is rushed or cold. The 会計係 must balance efficiency with courtesy -- not merely procedural politeness, but attentiveness that feels personal.
+会計係 is the designated staff member responsible for all aspects of guest payment: calculating totals, processing transactions, issuing receipts, and returning correct change. The payment interaction is the final impression a guest carries away from their property, which makes the 会計係 role one that demands both numerical precision and warmth. A smooth stay can still leave a poor impression if the checkout is rushed or cold. The 会計係 must balance efficiency with courtesy -- not merely procedural politeness, but attentiveness that feels personal.
 
 In hotels and ryokan, the 会計係 may also review itemized charges (利用明細) with the guest, answer questions about specific line items, and handle late charges that were posted after departure. In restaurants, the role may be a dedicated cashier or the server themselves. Common phrases include 会計係が精算を行います when explaining the checkout process, and 会計係にお申し付けください when directing guests to the right person for billing questions. This role shapes the guest's final impression of the property
 ## Example Sentences
@@ -27,7 +25,7 @@ In hotels and ryokan, the 会計係 may also review itemized charges (利用明�
 ## Related Expressions
 
 - **フロント係 (furonto kakari)**: front desk staff who handle check-in, check-out, and general guest inquiries. In smaller hotels these roles may overlap with 会計係, but in larger properties they are clearly distinct positions and directing a guest to the wrong one causes unnecessary inconvenience.
-- **レジ担当 (reji tantou)**: a more casual, operational term for the person working the register, used internally among staff. 会計係 is the formal role title one uses when speaking with or about guests.
+- **レジ担当 (reji tantou)**: a more casual, operational term for the person working the register, used internally among staff. 会計係 is the formal role title staff use when speaking with or about guests.
 
 
 ## Common Mistakes

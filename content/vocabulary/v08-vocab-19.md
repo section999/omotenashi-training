@@ -3,9 +3,6 @@ id: v08-vocab
 section: 19
 title: 隣 (tonari)
 ---
-**Pronunciation:** [to-**na**-ri]
-**Register:** Neutral, spatial directions and proximity
-
 隣 means "next to" or "adjacent to" and describes a side-by-side spatial relationship between two places or objects. In hospitality, precision in directional language reflects good service, and 隣 is a useful proximity word because it points guests to an immediately visible reference: the destination is right beside something they can already see. This avoids the vagueness of 近くに (nearby) when a location is literally touching or sharing a wall with a known landmark. Hotels, ryokan, and restaurants constantly need to describe adjacency, a café next to the lobby, a spa next to the pool, a gift shop next to the elevator bank, and 隣 is the natural, unambiguous choice in each case.
 
 In a hospitality context, 隣 appears in sentences like レストランの隣にカフェがございます or お部屋の隣に自動販売機がございます. When giving directions from the front desk, staff might say エレベーターの隣がコンシェルジュデスクでございます. When there are items or rooms on both sides of a corridor, staff should specify which side, 右隣 (right-adjacent) or 左隣 (left-adjacent). Without that detail, guests check both directions and look uncertain, which reduces guidance clarity
@@ -33,7 +30,6 @@ In a hospitality context, 隣 appears in sentences like レストランの隣に
 The most common mistake is confusing 隣 (side-by-side) with 向かい (directly across). These are opposite spatial concepts, so one error sends a guest walking in the wrong direction. Failing to specify right or left (右隣 versus 左隣) when there are rooms or facilities on both sides of a corridor is also a frequent oversight that leaves the guest guessing. Additionally, staff should avoid using 隣の部屋 (the room next door) carelessly in front of guests, as it can inadvertently reveal information about other guests' accommodations or create confusion about room assignments.
 
 ---
-
 ## Quiz
 
 **ATMはコンビニの____にございます。

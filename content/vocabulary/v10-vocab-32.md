@@ -3,8 +3,6 @@ id: v10-vocab
 section: 32
 title: クーポン (kuupon)
 ---
-**Pronunciation:** [ku-u-**pon**]
-**Register:** Neutral -- used with guests in everyday service interactions
 
 クーポン comes from the English "coupon" and refers to any certificate, voucher, or digital code that entitles the holder to a discount, complimentary item, or special benefit. In Japanese hospitality, クーポン come in many forms: paper coupons tucked into hotel amenity packets, digital codes sent via email or booking platforms, and QR-based promotions on travel apps. They serve as marketing tools to attract new guests and reward returning ones, and handling them well is an important operational skill. A smooth クーポン redemption leaves the guest feeling valued. A poorly handled one creates an awkward moment at the counter.
 
@@ -32,7 +30,7 @@ Before applying any クーポン, check two things: that it's 有効 (valid, mea
 
 ## Common Mistakes
 
-Confusing クーポン with バウチャー is a common slip. A クーポン is a discount instrument; a バウチャー represents prepaid value or a service entitlement. The practical difference matters when guests hand one something at the desk expecting one thing and one's system expects another. Another mistake is assuming a クーポン displayed on a phone screen is automatically valid. Staff should always check the expiry date and the applicable services listed. Applying an invalid or inapplicable クーポン creates accounting errors that take far longer to resolve than a quick verification would have.
+Confusing クーポン with バウチャー is a common slip. A クーポン is a discount instrument; a バウチャー represents prepaid value or a service entitlement. The practical difference matters when guests hand one something at the desk expecting one thing and their system expects another. Another mistake is assuming a クーポン displayed on a phone screen is automatically valid. Staff should always check the expiry date and the applicable services listed. Applying an invalid or inapplicable クーポン creates accounting errors that take far longer to resolve than a quick verification would have.
 
 ---
 

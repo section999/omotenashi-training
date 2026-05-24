@@ -6,9 +6,9 @@ title: お疲れ様です (otsukaresama desu)
 
 **お疲れ様です** means "thank you for one's hard work" or "I see that one has been working, and I acknowledge it." The root word *tsukareru* (疲れる) means "to become tired," elevated through honorific forms into *tsukaresama*. That shift in register is the whole point: the phrase is designed to make the other person feel seen, not just greeted.
 
-This is a notably frequently used expression in Japanese workplace culture, and one will hear it dozens of times on any given shift. One says it when passing a colleague in the corridor, when someone hands off a task, when a coworker arrives for their shift, and when everyone is finally heading home. The emotional function is solidarity: *I see one's work. Your effort is not invisible.* Getting comfortable with this phrase is an effective way to feel part of a Japanese team.
+This is a notably frequently used expression in Japanese workplace culture, and staff will hear it dozens of times on any given shift. One says it when passing a colleague in the corridor, when someone hands off a task, when a coworker arrives for their shift, and when everyone is finally heading home. The emotional function is solidarity: *I see their work. Your effort is not invisible.* Getting comfortable with this phrase is an effective way to feel part of a Japanese team.
 
-This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like one is treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* ("thank you so much for coming despite one's long day")
+This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like one is treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* ("thank you so much for coming despite their long day")
 
 ## Example Sentences
 
@@ -27,7 +27,7 @@ This phrase has a limited role with guests. If a guest comes back looking exhaus
 ## Related Expressions
 
 - **ご苦労様です (go-kurōsama desu)**: Similar in meaning, but this one flows downward in the hierarchy, from superiors to subordinates. Using it toward a colleague or, worse, a guest comes across as condescending.
-- **お疲れ様でした (o-tsukaresama deshita)**: The past-tense form, used once the work is done. One would say this at the end of a shift or after a task is completed, not in the middle of one.
+- **お疲れ様でした (o-tsukaresama deshita)**: The past-tense form, used once the work is done. Staff would say this at the end of a shift or after a task is completed, not in the middle of one.
 - **いってらっしゃい (itterasshai)**: "Have a safe trip / go well": said to a colleague or guest as they head out.
 
 ## Common Mistakes

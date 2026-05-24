@@ -3,8 +3,6 @@ id: v12-vocab
 section: 21
 title: 点検中 (tenken chuu)
 ---
-**Pronunciation:** [**ten**-ken **chuu**]
-**Register:** Formal/Neutral, facility management and guest communication
 
 点検中 means "under inspection" or "currently being checked." It combines 点検 (inspection) with 中 (in the middle of, currently underway). This status appears on elevators, swimming pools, gym equipment, kitchen appliances, and mechanical systems whenever scheduled or emergency maintenance is taking place. Regular inspections are legally mandated for many hotel systems in Japan, including fire suppression equipment, elevators, and gas lines, so 点検中 is a familiar notice for both staff and guests. It indicates that a system is being checked and that access to it is temporarily paused.
 
@@ -32,7 +30,7 @@ When something is 点検中, posting a sign is only the first step. Staff should
 
 ## Common Mistakes
 
-A common error is to use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong one gives guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. The biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and guidance for every guest who approaches.
+A common error is to use 点検中 and 修理中 as if they mean the same thing, but they describe different stages. 点検中 means the system is being checked and no fault may have been found yet. 修理中 means a confirmed problem is actively being repaired. Using the wrong staff give guests inaccurate information about when a facility will be available. Another common error is omitting the apology when informing guests of a 点検中 situation. Even routine maintenance that causes a minor inconvenience deserves a sincere お詫び (apology) in omotenashi culture. The biggest practical mistake is relying on the sign alone. A posted notice is not a substitute for a verbal explanation and guidance for every guest who approaches.
 
 ---
 

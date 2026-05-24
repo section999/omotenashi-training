@@ -3,8 +3,6 @@ id: v09-vocab
 section: 3
 title: 宿泊日 (shukuhaku bi)
 ---
-**Pronunciation:** [shu-ku-ha-ku-**bi**]
-**Register:** Formal -- used across all departments in scheduling and billing
 
 宿泊日 refers to the date or range of dates during which the guest is staying at the hotel or ryokan. It is an operationally significant piece of information in any reservation record, because virtually every department, housekeeping, kitchen, front desk, and concierge, uses it as a scheduling anchor. Room assignments, meal preparation, linen changes, and turndown service are all organized around the 宿泊日, so accuracy here has a direct knock-on effect throughout the building. In ryokan culture this becomes even more acute, where multi-course kaiseki dinners are prepared fresh for a fixed number of guests each evening. A one-day error in the 宿泊日 can disrupt the entire kitchen operation, not just a single guest interaction.
 
@@ -26,7 +24,7 @@ During check-in, reading back the 宿泊日 to the guest is a routine part of re
 
 ## Related Expressions
 
-- **到着日 (touchaku bi)**: the specific first day of the stay; useful when one needs to distinguish the check-in date from the full stay window
+- **到着日 (touchaku bi)**: the specific first day of the stay; useful when staff need to distinguish the check-in date from the full stay window
 - **出発日 (shuppatsu bi)**: the specific last day, or check-out date; always paired with 到着日 to define the complete 宿泊日 range
 
 

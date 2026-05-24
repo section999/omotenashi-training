@@ -4,13 +4,13 @@ section: 4
 title: Cold-Weather Greeting, December to February
 ---
 
-Japan's winter ranges from the mild, sunny days of the Pacific coast to the deep snows of Hokkaido and the Japan Sea side. Regardless of the specific conditions, acknowledging the cold in your greeting is a meaningful act — an expression of *omoiyari* (思いやり, empathetic care) that signals: "I noticed what you just walked through, and it matters to me."
+Japan's winter ranges from the mild, sunny days of the Pacific coast to the deep snows of Hokkaido and the Japan Sea side. Regardless of the specific conditions, acknowledging the cold in your greeting is a meaningful act ,  an expression of *omoiyari* (思いやり, empathetic care) that signals: "I noticed what you just walked through, and it matters to me."
 
 ## Why Seasonal Acknowledgement Matters
 
-Seasonal weather acknowledgements are embedded in Japanese social culture at every level — in spoken greetings, in formal written correspondence, and in hospitality practice. When you say *"寒い中をお越しいただきありがとうございます"* (thank you for coming in this cold), you are not making small talk. You are practising a form of empathetic recognition that has been part of Japanese social life for centuries.
+Seasonal weather acknowledgements are embedded in Japanese social culture at every level ,  in spoken greetings, in formal written correspondence, and in hospitality practice. When you say *"寒い中をお越しいただきありがとうございます"* (thank you for coming in this cold), you are not making small talk. You are practising a form of empathetic recognition that has been part of Japanese social life for centuries.
 
-The formal written equivalent, *kanchū omimai mōshiagemasu* (寒中お見舞い申し上げます), is used in professional correspondence from approximately January 8th to February 3rd — after the New Year period has formally ended and before spring begins. Knowing when to use each seasonal greeting is part of professional cultural literacy.
+The formal written equivalent, *kanchū omimai mōshiagemasu* (寒中お見舞い申し上げます), is used in professional correspondence from approximately January 8th to February 3rd ,  after the New Year period has formally ended and before spring begins. Knowing when to use each seasonal greeting is part of professional cultural literacy.
 
 ## Practical Care in Cold Weather
 
@@ -19,12 +19,12 @@ The acknowledgement is only the beginning. Following it with immediate physical 
 - **Warm oshibori**: handed to the guest as soon as they enter, before check-in begins
 - **Hot tea or warm drink**: mugicha gives way to *hōjicha* (roasted green tea) or *amazake* (sweet fermented rice drink) in winter, offered on arrival
 - **Coat and wet items**: if a guest arrives with a coat, wet umbrella, or snow-covered boots, address these proactively before proceeding to any administrative process
-- **Room temperature**: ensure rooms are warm before guest arrival — a cold room on a cold day is a failure of preparation
+- **Room temperature**: ensure rooms are warm before guest arrival ,  a cold room on a cold day is a failure of preparation
 - **Snow and ice information**: for guests planning outdoor excursions in snowy conditions, proactively share information about road conditions, appropriate footwear, and transport options
 
 ## Gradations of Winter
 
-December carries the warmth of year-end gatherings and the anticipation of the New Year. January is the heart of winter — quieter, colder, more interior. February brings the first hints of spring (*ume* plum blossoms begin in many parts of Japan) while still being deeply cold in the north. The service tone and amenity choices should reflect these subtle differences across the season.
+December carries the warmth of year-end gatherings and the anticipation of the New Year. January is the heart of winter ,  quieter, colder, more interior. February brings the first hints of spring (*ume* plum blossoms begin in many parts of Japan) while still being deeply cold in the north. The service tone and amenity choices should reflect these subtle differences across the season.
 
 ---
 

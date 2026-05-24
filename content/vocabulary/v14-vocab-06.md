@@ -27,7 +27,7 @@ This means knowing airport transfer options inside out, which train lines serve 
 
 ## Common Mistakes
 
-The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Note also: 出国 and 帰国 (kikoku, "returning to one's home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes a staff member's Japanese sound noticeably more natural.
+The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Note also: 出国 and 帰国 (kikoku, "returning to their home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes a staff member's Japanese sound noticeably more natural.
 
 ---
 

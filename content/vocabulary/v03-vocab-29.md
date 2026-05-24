@@ -5,7 +5,7 @@ title: アメニティ (amenity)
 ---
 アメニティ refers to the complimentary in-room convenience items provided by hotels and ryokan for guests' personal care and comfort. These typically include toiletries such as shampoo, conditioner, body wash, soap, toothbrushes, toothpaste, razors, cotton swabs, and skincare products, along with non-toiletry items such as slippers, yukatas (in ryokan), shower caps, and sewing kits. In Japanese hospitality, the quality and range of アメニティ is closely tied to the perceived prestige of the property. Luxury hotels often partner with internationally recognized cosmetic brands, while eco-conscious properties may have shifted to refillable dispensers in line with sustainability initiatives. Knowing what アメニティ are provided, being able to explain them to guests, and responding confidently to requests for more are all practical competencies for hotel and ryokan staff.
 
-staff use アメニティ when orienting guests to the bathroom: 「洗面所にはアメニティをご用意しております」 (amenities are prepared in the washroom) or when responding to requests: 「ご滞在中の必要なアメニティはお申し付けください」 (please let us know if one needs any amenities during one's stay). If a specific item is not stocked, staff should offer to source it: 「確認してご用意いたします」 (I will check and prepare it for one).
+staff use アメニティ when orienting guests to the bathroom: 「洗面所にはアメニティをご用意しております」 (amenities are prepared in the washroom) or when responding to requests: 「ご滞在中の必要なアメニティはお申し付けください」 (please let us know if staff needs any amenities during their stay). If a specific item is not stocked, staff should offer to source it: 「確認してご用意いたします」 (I will check and prepare it for one).
 
 ## Example Sentences
 

@@ -3,8 +3,6 @@ id: v03-vocab
 section: 4
 title: ダブルルーム (double room)
 ---
-**Pronunciation:** [da-bu-ru **ruu**-mu]
-**Register:** Formal/Neutral, standard in reservations and check-in contexts
 
 ダブルルーム designates a guest room with one double or queen-sized bed, intended for two occupants. It is the room type couples most commonly book, and it aligns with international hotel terminology, so guests who have travelled widely will expect the term to mean what it says. The critical distinction between ダブルルーム and ツインルーム is their bed arrangement. Both rooms sleep two people; the difference is the bed arrangement, and getting it wrong at check-in can cause disappointment, particularly for couples expecting to share a bed, or business partners expecting separate ones.
 

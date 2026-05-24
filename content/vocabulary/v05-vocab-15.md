@@ -3,8 +3,6 @@ id: v05-vocab
 section: 15
 title: 会計 (kaikei)
 ---
-**Pronunciation:** [kai-**ke**-i]
-**Register:** Formal, restaurant and hotel F&B settings
 
 会計 refers to the bill or the act of settling payment after dining, and more broadly covers financial settlement in a business context. In Japanese hospitality, handling お会計 is a critical moment in the guest experience. It is often the last direct interaction before the guest leaves, and a smooth, accurate, gracious payment process leaves a lasting positive impression. A common error is underestimating this moment, but mistakes or awkwardness at the payment stage can overshadow an otherwise excellent meal.
 
@@ -32,7 +30,7 @@ Staff use 会計 when presenting the bill, directing guests to the cashier, or c
 
 ## Common Mistakes
 
-A frequent mistake is using the casual チェック (check), borrowed from English, instead of お会計 in formal dining settings. While チェック is understood, it sounds informal and out of place in a high-service environment. Another common mistake is dropping the honorific お prefix, saying 会計します instead of お会計を承ります, which sounds abrupt when one is standing in front of a guest. Additionally, using the word レジ (cash register area) when guiding a guest should be avoided; it sounds transactional. Instead, お会計はあちらでございます keeps the tone warm and professional.
+A frequent mistake is using the casual チェック (check), borrowed from English, instead of お会計 in formal dining settings. While チェック is understood, it sounds informal and out of place in a high-service environment. Another common mistake is dropping the honorific お prefix, saying 会計します instead of お会計を承ります, which sounds abrupt when staff is standing in front of a guest. Additionally, using the word レジ (cash register area) when guiding a guest should be avoided; it sounds transactional. Instead, お会計はあちらでございます keeps the tone warm and professional.
 
 ---
 

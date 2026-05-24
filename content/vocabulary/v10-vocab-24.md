@@ -3,12 +3,10 @@ id: v10-vocab
 section: 24
 title: 手数料 (tesuuryou)
 ---
-**Pronunciation:** [te-su-**ryou**]
-**Register:** Formal/Neutral -- used in billing, payment, and administrative contexts
 
 手数料 is a service or handling fee charged on top of a base price, specifically tied to the mechanism of a transaction rather than the service itself. In hospitality it appears in several contexts: bank transfer fees for advance payments, currency exchange handling charges, and certain processing fees tied to booking platforms or card types. In Japanese culture, the expectation is that all costs be visible upfront and in full. Unexpected 手数料 are a common trigger for guest frustration, and the frustration is rarely about the money alone. Transparency here is expected.
 
-When a 手数料 applies, the appropriate approach is to name it, explain what it covers, and offer an alternative if one exists. For example: 銀行振込には〇〇円の手数料がかかります。クレジットカードでのお支払いには手数料はかかりません gives the guest information and a choice. This kind of disclosure builds trust. In formal settings, 手数料が発生いたします is the preferred phrasing over 手数料がかかります
+When a 手数料 applies, the appropriate approach is to name it, explain what it covers, and offer an alternative if staff exists. For example: 銀行振込には〇〇円の手数料がかかります。クレジットカードでのお支払いには手数料はかかりません gives the guest information and a choice. This kind of disclosure builds trust. In formal settings, 手数料が発生いたします is the preferred phrasing over 手数料がかかります
 ## Example Sentences
 
 **1.** 銀行振込には別途手数料が発生いたします。

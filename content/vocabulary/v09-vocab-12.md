@@ -25,7 +25,7 @@ title: 幼児 (youji)
 ## Related Expressions
 
 - **子供 (kodomo)**: the broader child category; 幼児 sits within it as the youngest age group, and the two appear separately on reservation forms because their pricing and amenity requirements are different.
-- **ベビーベッド (bebii beddo)**: a crib or baby bed; closely associated with 幼児 bookings; when one sees 幼児 on a reservation, proactively offering ベビーベッドのご用意 is a key kikubari practice.
+- **ベビーベッド (bebii beddo)**: a crib or baby bed; closely associated with 幼児 bookings; when staff see 幼児 on a reservation, proactively offering ベビーベッドのご用意 is a key kikubari practice.
 
 
 ## Common Mistakes

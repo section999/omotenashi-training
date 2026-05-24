@@ -3,8 +3,6 @@ id: v12-vocab
 section: 10
 title: 安全 (anzen)
 ---
-**Pronunciation:** [**an**-zen]
-**Register:** Standard, used across all registers in both operational and guest-facing contexts
 
 安全 means the state of being free from harm, danger, or unacceptable risk. In Japanese workplace culture the principle of 安全第一 (anzen daichi, safety first) is deeply embedded, and hotels, ryokan, and restaurants are both legally and ethically bound to maintain safe environments for guests and staff alike. In omotenashi culture, 安全 goes beyond regulatory compliance. It expresses care for the person in front of one. A guest cannot experience hospitality if they do not feel safe, which makes 安全 not just a checklist item but the foundation everything else rests on.
 
@@ -32,7 +30,7 @@ In daily operations, 安全 shows up in equipment inspections, food hygiene prac
 
 ## Common Mistakes
 
-One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment. Students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but are not the same thing, and the distinction matters in hospitality because one can achieve one without the other. Using 安全 as empty reassurance should be avoided. Saying 「ご安心ください」 to a guest while ignoring an actual hazard damages trust and goes against the spirit of omotenashi.
+One common conceptual mistake is treating 安全 as solely the responsibility of maintenance or management. Every staff member on every shift contributes to a safe environment. Students also frequently confuse 安全 (anzen, safety as an objective state) with 安心 (anshin, peace of mind as a subjective feeling). The two work together but are not the same thing, and the distinction matters in hospitality because staff can achieve one without the other. Using 安全 as empty reassurance should be avoided. Saying 「ご安心ください」 to a guest while ignoring an actual hazard damages trust and goes against the spirit of omotenashi.
 
 ---
 

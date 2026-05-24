@@ -3,8 +3,6 @@ id: v09-vocab
 section: 37
 title: 再確認 (sai kakunin)
 ---
-**Pronunciation:** [sai-**ka**-ku-nin]
-**Register:** Formal -- standard front desk and reservations usage
 
 再確認 (sai kakunin) combines 再 (sai, again / re-) with 確認 (kakunin, confirmation / verification), meaning "reconfirmation" -- the act of checking a reservation's details a second time before the guest arrives. In Japanese hotel practice, this is a proactive quality-control step, and guests who receive it tend to feel looked after. The process is best understood as a warm communication rather than an administrative chore. For VIP guests, large groups, or bookings tied to holidays and festivals, 再確認 is treated as mandatory rather than optional.
 

@@ -3,12 +3,10 @@ id: v06-vocab
 section: 23
 title: 対応 (taiou)
 ---
-**Pronunciation:** [tai-**ou**]
-**Register:** Formal, standard professional service vocabulary
 
 対応 is built from two kanji: 対, meaning "to face" or "to oppose," and 応, meaning "to respond" or "to answer." Together they describe the act of meeting a situation head-on and doing something about it. In Japanese hospitality, 対応 is one of the most valued competencies a staff member can demonstrate. It covers not just the physical action taken, but the speed, attitude, and communication quality that surround it. A guest who receives slow, vague, or dismissive responses is unlikely to return regardless of the property's appearance.
 
-In daily operations, one will use 対応 broadly. It covers handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is a commitment to both action and speed simultaneously. Following up once the task is done (「対応が完了いたしました」) closes the loop and shows the guest that staff followed through
+In daily operations, staff will use 対応 broadly. It covers handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is a commitment to both action and speed simultaneously. Following up once the task is done (「対応が完了いたしました」) closes the loop and shows the guest that staff followed through
 ## Example Sentences
 
 **1.** ご不便をおかけして申し訳ございません。迅速に対応いたします。
@@ -32,7 +30,7 @@ In daily operations, one will use 対応 broadly. It covers handling complaints 
 
 ## Common Mistakes
 
-A common error is to use 対応する in plain form with guests: 「対応します」 lacks the humble register that hotel service demands. The correct form is 「対応いたします」. Another pattern is defaulting to 対応 for every task when a more specific verb would serve better. Saying 「対応いたします」 when one means 「ご案内いたします」 or 「お持ちいたします」 is vague and less reassuring to the guest. A serious mistake is promising 対応 and then not confirming completion. Even if the underlying task was handled perfectly, a guest who never heard back will feel the issue was dropped.
+A common error is to use 対応する in plain form with guests: 「対応します」 lacks the humble register that hotel service demands. The correct form is 「対応いたします」. Another pattern is defaulting to 対応 for every task when a more specific verb would serve better. Saying 「対応いたします」 when staff means 「ご案内いたします」 or 「お持ちいたします」 is vague and less reassuring to the guest. A serious mistake is promising 対応 and then not confirming completion. Even if the underlying task was handled perfectly, a guest who never heard back will feel the issue was dropped.
 
 ---
 

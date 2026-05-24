@@ -3,8 +3,6 @@ id: v08-vocab
 section: 38
 title: 緊急出口 (kinkyuu deguchi)
 ---
-**Pronunciation:** [kin-**kyuu**-de-gu-chi]
-**Register:** Formal -- used in spoken safety briefings and bilingual signage
 
 緊急出口 puts 緊急 (kinkyuu, urgent / emergency) together with 出口 (deguchi, exit) to give one "emergency exit." It covers the same physical door as 非常口 (hijouguchi), but the two terms are used in different contexts. 非常口 is the official word in Japanese fire safety regulations and appears on green running-figure signs in public buildings across the country. 緊急出口 is more common in conversation and appears on bilingual safety cards and signage in hotels that welcome international guests. Both terms point to the same exit, and using the appropriate term in each situation reflects professional fluency.
 
@@ -33,7 +31,7 @@ For hotel staff, being fluent in both is a professional baseline. When one is po
 
 ## Common Mistakes
 
-The most consequential mistake is not telling guests where the emergency exit is at all. Emergency exit locations are expected information to mention if there happens to be a natural opening in the conversation, they are a fixed part of check-in and room orientation, every single time. A separate error is using 出口 (the ordinary exit) when one mean 緊急出口: dropping the 緊急 prefix removes the entire life-safety signal, and a confused guest may walk toward a regular lobby door during an evacuation. If a building uses both 非常口 and 緊急出口 on its signs, use whichever word matches the nearest sign and stay consistent, so guests can look up and immediately identify what one just described.
+The most consequential mistake is not telling guests where the emergency exit is at all. Emergency exit locations are expected information to mention if there happens to be a natural opening in the conversation, they are a fixed part of check-in and room orientation, every single time. A separate error is using 出口 (the ordinary exit) when staff mean 緊急出口: dropping the 緊急 prefix removes the entire life-safety signal, and a confused guest may walk toward a regular lobby door during an evacuation. If a building uses both 非常口 and 緊急出口 on its signs, use whichever word matches the nearest sign and stay consistent, so guests can look up and immediately identify what one just described.
 
 ---
 

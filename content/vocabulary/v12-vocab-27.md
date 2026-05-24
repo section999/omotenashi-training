@@ -3,8 +3,6 @@ id: v12-vocab
 section: 27
 title: 安全確認 (anzen kakunin)
 ---
-**Pronunciation:** [an-zen **ka**-ku-nin]
-**Register:** Formal, operational and safety procedures
 
 安全確認 means a safety check or safety verification, the systematic process of confirming that equipment, spaces, or procedures are clear of hazards before guests use them. In a hotel this takes many forms: testing elevator mechanisms before the morning rush, checking pool or spa water quality, making sure fire exits are unobstructed, and verifying that kitchen appliances are working correctly. Guest safety is a prerequisite for omotenashi. Excellent service cannot be delivered in an environment that poses risk, so 安全確認 is not a reactive activity done after something goes wrong; it is a proactive, scheduled discipline that every department builds into its daily routine.
 

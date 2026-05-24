@@ -3,12 +3,10 @@ id: v06-vocab
 section: 15
 title: Wi-Fi (waifai)
 ---
-**Pronunciation:** [wai-**fai**]
-**Register:** Neutral/Informal term, but used in formal service phrases when explaining connectivity to guests
 
 Wi-Fi (ワイファイ) has become a standard expected amenity in modern hospitality, and its quality and availability frequently appear in guest satisfaction surveys. In Japan, where domestic business travellers and international tourists alike depend heavily on connectivity, a hotel's ability to provide fast and reliable Wi-Fi reflects its service standard. Staff who can explain access procedures clearly, including how to find the network name (SSID) and enter the password, demonstrate an attentiveness that goes well beyond the basics.
 
-Wi-Fi information is typically shown on a card in the room, printed on the key sleeve, or available at the front desk. Common phrases include 「Wi-Fiをご利用いただけます」 (Wi-Fi is available for one's use) and 「Wi-Fiのパスワードはこちらでございます」 (here is the Wi-Fi password). When a guest reports a connectivity problem, staff walk through it with them step by step and escalate to technical support if needed. Proactively mentioning Wi-Fi during check-in has become standard at higher-end properties. Guests should not have to search for it
+Wi-Fi information is typically shown on a card in the room, printed on the key sleeve, or available at the front desk. Common phrases include 「Wi-Fiをご利用いただけます」 (Wi-Fi is available for their use) and 「Wi-Fiのパスワードはこちらでございます」 (here is the Wi-Fi password). When a guest reports a connectivity problem, staff walk through it with them step by step and escalate to technical support if needed. Proactively mentioning Wi-Fi during check-in has become standard at higher-end properties. Guests should not have to search for it
 ## Example Sentences
 
 **1.** 当ホテルでは、全館で無料のWi-Fiをご利用いただけます。
@@ -26,7 +24,7 @@ Wi-Fi information is typically shown on a card in the room, printed on the key s
 
 ## Related Expressions
 
-- **インターネット (intaanetto)**: the broader term for internet access. Wi-Fi refers to the wireless delivery method, while インターネット refers to the network itself. A property might offer インターネット via both Wi-Fi and a wired LAN cable (有線LAN), so knowing the distinction helps when one is troubleshooting.
+- **インターネット (intaanetto)**: the broader term for internet access. Wi-Fi refers to the wireless delivery method, while インターネット refers to the network itself. A property might offer インターネット via both Wi-Fi and a wired LAN cable (有線LAN), so knowing the distinction helps when staff is troubleshooting.
 - **接続 (setsuzoku)**: means "connection" and is used when describing the act of linking a device to the network. Wi-Fi is the service; 接続 is the action of using it, as in 「接続方法をご案内いたします」 (I will guide one on how to connect).
 
 

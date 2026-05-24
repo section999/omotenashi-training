@@ -3,8 +3,6 @@ id: v11-vocab
 section: 8
 title: 担当部署 (tantou busho)
 ---
-**Pronunciation:** [tan-**tou**-bu-sho]
-**Register:** Formal, professional hotel and office communication
 
 担当部署 is the team or division specifically responsible for a particular type of inquiry or service. This should be kept separate from 担当者, which points to an individual: 担当部署 points to the whole group, whether that is the reservations department, the banquet team, or facilities management. In a large hotel with many specialized departments, sending a call to the wrong 担当部署 means the guest has to repeat their entire question from scratch, which reflects poorly on the hotel's operations.
 

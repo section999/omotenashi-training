@@ -3,8 +3,6 @@ id: v06-vocab
 section: 19
 title: 無料 (muryou)
 ---
-**Pronunciation:** [mu-**ryou**]
-**Register:** Formal/Neutral, used proactively in guest communication to confirm that no charge applies
 
 無料 combines the characters for "nothing/none" (無) and "fee/charge" (料), meaning "no charge." In Japanese hospitality, being explicit about what is free is considered a basic courtesy. Guests should never have to wonder whether they will be billed for something, and they should certainly never discover a charge they did not expect. Properties that communicate 無料 clearly signal transparency, and that transparency builds the kind of trust that brings guests back. Knowing this word lets staff set correct expectations quickly and with confidence.
 

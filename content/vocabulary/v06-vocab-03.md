@@ -3,8 +3,6 @@ id: v06-vocab
 section: 3
 title: 苦情 (kujou)
 ---
-**Pronunciation:** [ku-**jou**]
-**Register:** Formal, used in professional service contexts when acknowledging a guest's complaint
 
 苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. When a guest brings a 苦情, they are expressing that something went wrong and feel strongly enough to say so. In Japanese hospitality culture, that is not treated as an attack, it is an opportunity to fix something that might have gone silently wrong for other guests too, and it deserves full sincerity in response.
 
@@ -27,7 +25,7 @@ The omotenashi mindset holds that a guest who complains is still giving the esta
 ## Related Expressions
 
 - **クレーム (kuremu)**: often implies a stronger, more formal or confrontational complaint that may require management involvement or compensation; 苦情 can sit on the softer side of the scale in some contexts.
-- **ご意見 (go-iken)**: means "one's opinion or feedback"; choosing this word instead of 苦情 softens the exchange and makes the guest feel their input is valued rather than filed away as a problem.
+- **ご意見 (go-iken)**: means "their opinion or feedback"; choosing this word instead of 苦情 softens the exchange and makes the guest feel their input is valued rather than filed away as a problem.
 
 
 ## Common Mistakes

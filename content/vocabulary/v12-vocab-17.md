@@ -3,8 +3,6 @@ id: v12-vocab
 section: 17
 title: 病院 (byouin)
 ---
-**Pronunciation:** [**byou**-in]
-**Register:** Formal/Neutral, guest medical support and referral
 
 病院 means hospital, a medical facility with professional staff, diagnostic equipment, and treatment capabilities for a broad range of conditions. Knowing the location of the nearest 病院 is basic knowledge that every front desk and concierge staff member needs to have ready. Japanese hospitals are categorised as follows: a 診療所 (shinryoujo) is a small clinic handling outpatient care, while 病院 in the legal sense must have at least 20 inpatient beds and offer broader services. Choosing the appropriate type for a given situation matters: sending a guest with a sprained wrist to a full emergency hospital, or a guest with chest pains to a small clinic, are both the wrong call.
 

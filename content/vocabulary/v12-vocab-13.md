@@ -3,8 +3,6 @@ id: v12-vocab
 section: 13
 title: 怪我 (kega)
 ---
-**Pronunciation:** [**ke**-ga]
-**Register:** Neutral to Formal, guest care and incident response
 
 怪我 refers to a physical injury caused by an external event, from a small cut or bruise to serious trauma that needs immediate medical attention. In a hotel, 怪我 can occur in many settings: slippery bathroom floors, staircases, fitness facilities, outdoor walkways, and kitchen areas. When a guest is hurt, assessing the severity is the first priority. That single step determines everything that follows.
 

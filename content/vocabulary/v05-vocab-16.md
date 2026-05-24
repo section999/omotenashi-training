@@ -3,9 +3,6 @@ id: v05-vocab
 section: 16
 title: 予約席 (yoyaku seki)
 ---
-**Pronunciation:** [yo-ya-ku **se**-ki]
-**Register:** Formal, front-of-house dining and seating management
-
 予約席 is a reserved seat or reserved table, a dining space designated in advance for a specific guest or party. Managing 予約席 with precision is a direct reflection of professionalism and respect for both the reserving guest and other diners. Seating a walk-in guest at a 予約席, even briefly, can cause significant inconvenience and embarrassment when the reserved party arrives. That is why all front-of-house staff need to recognize, protect, and communicate about reserved seats clearly and confidently.
 
 In daily restaurant operations, 予約席 are typically marked with reservation cards or indicated on the seating chart. When a guest approaches or sits at a reserved table, staff must respond immediately but courteously, using a phrase such as こちらは予約席でございます to inform the guest without causing embarrassment. However, the words alone are not enough. Staff should always follow up with an alternative: こちらは予約席でございます。あちらのお席へご案内いたしましょうか. In pre-service briefings, staff confirm which tables are 予約席 for each service period and who the reservations belong to.
@@ -34,7 +31,6 @@ In daily restaurant operations, 予約席 are typically marked with reservation 
 A common mistake is to say 予約されています instead of 予約席でございます; while not wrong, the latter is crisper and more professional in a hospitality setting. A bigger practical error is notifying the guest about the reserved seat and then stopping there. Saying こちらは予約席です without offering a redirect leaves the guest standing awkwardly with nowhere to go; staff should pair the notification with a solution. Additionally, staff should not use 予約席 to refer to seats that are merely blocked by a cleaning cart or staff belongings. The word specifically implies a guest reservation is in place, and using it loosely can cause confusion.
 
 ---
-
 ## Quiz
 
 **A guest sits at a reserved table. What do you say politely?**

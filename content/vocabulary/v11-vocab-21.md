@@ -3,12 +3,10 @@ id: v11-vocab
 section: 21
 title: ご用件 (goyouken)
 ---
-**Pronunciation:** [go-**YOU**-ken]
-**Register:** Formal, used in telephone and front-desk contexts
 
 ご用件 means the purpose, matter, or reason for a call or visit, in plain terms, what the guest needs. Identifying this early signals attentiveness and professionalism. A staff member who listens to ご用件 before doing anything else ensures the guest reaches the right person or department on the first attempt. That improvement makes a difference in how service feels, because guests should not have to explain their situation multiple times.
 
-The standard phrase ご用件をお伺いします (may I ask the purpose of one's call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, staff should confirm ご用件 rather than acting on assumptions. A regular guest may be calling for something unexpected, and assumptions cause the kind of misrouting one was trying to avoid
+The standard phrase ご用件をお伺いします (may I ask the purpose of their call?) typically appears as the second or third exchange in a call, right after obtaining the caller's name. In face-to-face contexts at the front desk or concierge, it serves the same function: establishing what the guest needs before any action is taken. Even with regular guests, staff should confirm ご用件 rather than acting on assumptions. A regular guest may be calling for something unexpected, and assumptions cause the kind of misrouting one was trying to avoid
 ## Example Sentences
 
 **1.** ご用件をお伺いしてもよろしいですか。
@@ -26,7 +24,7 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of one
 
 ## Related Expressions
 
-- **お問い合わせ (otoiawase)**: an inquiry or question from a guest, which is a specific type of ご用件; once one has established that the ご用件 is a question or information request, one can route the caller or visitor accordingly.
+- **お問い合わせ (otoiawase)**: an inquiry or question from a guest, which is a specific type of ご用件; once one has established that the ご用件 is a question or information request, staff can route the caller or visitor accordingly.
 - **ご要望 (go-yobou)**: a wish, request, or preference; more specific than ご用件, ご要望 refers to something the guest would like the hotel to do or provide, so understanding the difference helps one prepare the right kind of response.
 
 

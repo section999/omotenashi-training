@@ -3,7 +3,7 @@ id: v15-vocab
 section: 14
 title: 保管 (hokan)
 ---
-保管 means the careful, responsible storage of items for a defined period. It is built from 保 (ho, to protect or maintain) and 管 (kan, to oversee or administer), and together they convey something more than just "putting things in a room." 保管 implies active stewardship: accepting an item means taking on the duty to return it in exactly the condition it was received. In Japanese hospitality culture, that responsibility is taken seriously, and it connects directly to the omotenashi value of treating a guest's belongings as if they were one's own.
+保管 means the careful, responsible storage of items for a defined period. It is built from 保 (ho, to protect or maintain) and 管 (kan, to oversee or administer), and together they convey something more than just "putting things in a room." 保管 implies active stewardship: accepting an item means taking on the duty to return it in exactly the condition it was received. In Japanese hospitality culture, that responsibility is taken seriously, and it connects directly to the omotenashi value of treating a guest's belongings as if they were their own.
 
 Hotels offer 保管 in several common situations. Early-arriving guests whose room is not yet ready often leave their luggage at the front desk. Guests who have checked out but are not leaving until later in the day may also need their bags held for a few hours. Occasionally staff will handle more unusual requests: a musical instrument, fragile artwork, or medical equipment that needs special handling. In all cases, issuing a receipt or claim ticket (引換券) is standard practice. When staff return an item, doing a brief inspection in the guest's presence before handing it over is a small but meaningful gesture of transparency that reinforces trust.
 
@@ -23,7 +23,7 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 
 ## Related Expressions
 
-- **お預かり (o-azukari)**: the act of accepting an item into one's care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします).
+- **お預かり (o-azukari)**: the act of accepting an item into their care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします).
 - **一時保管 (ichiji hokan)**: temporary storage, specifying that the storage is for a limited, defined period rather than indefinitely. Useful when staff want to be clear about the timeframe.
 
 ## Common Mistakes

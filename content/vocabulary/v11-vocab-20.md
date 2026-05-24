@@ -3,8 +3,6 @@ id: v11-vocab
 section: 20
 title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 ---
-**Pronunciation:** [o-na-mae-wo-CHOO-dai-de-ki-ma-su-ka]
-**Register:** Formal/Humble, standard in telephone and check-in contexts
 
 お名前を頂戴できますか is the standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) translates as "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. This reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part.
 

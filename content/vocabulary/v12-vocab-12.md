@@ -3,8 +3,6 @@ id: v12-vocab
 section: 12
 title: 事故 (jiko)
 ---
-**Pronunciation:** [**ji**-ko]
-**Register:** Formal/Neutral, incident reporting and emergency response
 
 事故 is an unplanned event that causes injury, property damage, or serious disruption to normal operations. In hotels, that scope is wide: a guest slipping on a wet floor, a collision in the parking lot, a food poisoning case in the restaurant, or a work injury sustained by a staff member all count as 事故. Regardless of how minor something seems in the moment, every 事故 must be reported to management, documented in an incident report (事故報告書, jiko houkokusho), and properly followed up. Japan's hospitality industry operates within a strict legal framework that requires accurate records, and a missed report can create serious liability problems later.
 

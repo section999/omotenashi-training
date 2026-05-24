@@ -8,7 +8,7 @@ title: ご案内いたします (go-annai itashimasu)
 
 Guiding a guest is one of the more intimate forms of service in hospitality. Unlike answering a question at a desk, guiding places the staff member physically alongside the guest, creating a small, temporary bond of movement and trust. *Go-annai itashimasu* is the formal phrase that starts this process. One says it when picking up a guest from the lobby, escorting them to their room, leading them to a facility, or walking them to the entrance at departure.
 
-The phrase carries responsibility. Once one says *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them one's full attention throughout. The quality of that walk is itself a form of hospitality
+The phrase carries responsibility. Once staff say *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them their full attention throughout. The quality of that walk is itself a form of hospitality
 
 ## Example Sentences
 

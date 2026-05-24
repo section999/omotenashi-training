@@ -3,7 +3,7 @@ id: v11-vocab
 section: 4
 title: 電話番号 (denwa bangou)
 ---
-電話番号 shows up constantly in Japanese hospitality, in reservation confirmations, check-in forms, guest registration cards, and whenever one needs to record contact information for a follow-up call. It's a simple concept, but accuracy matters more than almost anything else here because a single wrong digit breaks the entire communication chain. In Japan, it's a firm cultural expectation that staff will repeat the 電話番号 back to the person who gave it, before ending the call or the interaction, to confirm it was heard correctly.
+電話番号 shows up constantly in Japanese hospitality, in reservation confirmations, check-in forms, guest registration cards, and whenever staff need to record contact information for a follow-up call. It's a simple concept, but accuracy matters more than almost anything else here because a single wrong digit breaks the entire communication chain. In Japan, it's a firm cultural expectation that staff will repeat the 電話番号 back to the person who gave it, before ending the call or the interaction, to confirm it was heard correctly.
 
 The standard protocol is: ask politely with お電話番号をお伺いできますか, listen carefully while writing, then read the number back in grouped segments, 〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか. Japanese phone numbers are typically divided into three groups separated by hyphens, and reading them that way is much easier for the listener to track and verify. A common error is handling this well for Japanese numbers but being caught off guard by international guests whose number formats are completely different; staff should be prepared for country codes and varying segment lengths.
 

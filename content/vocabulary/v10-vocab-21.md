@@ -3,10 +3,8 @@ id: v10-vocab
 section: 21
 title: 超過 (chouka)
 ---
-**Pronunciation:** [cho-**u**-ka]
-**Register:** Formal/Neutral, used in billing, logistics, and checkout conversations
 
-超過 means excess or overage: a defined limit has been surpassed. In hospitality, this most often occurs with late checkouts (the guest stayed past noon), luggage over a weight limit, or a banquet group that exceeded the contracted number of covers. Each situation generates a 超過料金 (excess charge), and explaining that charge clearly and diplomatically tests one's language skills. Guests tend to accept 超過料金 without complaint when they understand how it was calculated. The problem arises when the charge seems to come from nowhere.
+超過 means excess or overage: a defined limit has been surpassed. In hospitality, this most often occurs with late checkouts (the guest stayed past noon), luggage over a weight limit, or a banquet group that exceeded the contracted number of covers. Each situation generates a 超過料金 (excess charge), and explaining that charge clearly and diplomatically tests their language skills. Guests tend to accept 超過料金 without complaint when they understand how it was calculated. The problem arises when the charge seems to come from nowhere.
 
 A reliable three-part structure makes these conversations much smoother: state the defined limit, state the actual usage, then state the resulting charge. For example: チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. That sequence is transparent and easy to follow. If the 超過 is minor and the guest is a loyal or long-staying customer, checking with a supervisor about waiving the 超過料金 as a goodwill gesture may be appropriate. Knowing when to escalate that decision is part of the role
 ## Example Sentences
@@ -26,7 +24,7 @@ A reliable three-part structure makes these conversations much smoother: state t
 
 ## Related Expressions
 
-- **不足 (fusoku)**: 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy one will be explaining to guests at billing time.
+- **不足 (fusoku)**: 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy staff will be explaining to guests at billing time.
 - **超過料金 (chouka ryoukin)**: The most common applied form in hospitality, referring to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume.
 
 

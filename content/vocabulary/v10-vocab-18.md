@@ -3,9 +3,6 @@ id: v10-vocab
 section: 18
 title: 利用明細 (riyou meisai)
 ---
-**Pronunciation:** [ri-**you** mei-**sai**]
-**Register:** Formal -- front desk, checkout, and business travel contexts
-
 利用明細 is an itemized statement listing all individual charges incurred during a stay or service period. Unlike a 領収書 (receipt), which shows only the total amount paid, the 利用明細 provides a line-by-line breakdown of every charge: room rate, meals, spa services, minibar, telephone, and any other expenses. For Japanese business travelers, who routinely submit detailed expense claims to their companies, the 利用明細 is not optional -- it is an essential document. Hotels that provide it promptly and in a well-organized format show an understanding of what their guests need.
 
 Staff most commonly offer 利用明細 at checkout, either as a printed document or sent by email. The phrase 利用明細をメールでお送りいたしましょうか is a proactive service gesture that corporate guests appreciate -- it saves them from having to ask and signals attentiveness. Some guests may also request a 利用明細 for a specific date range within a longer stay, which requires generating a partial statement from the front desk system. Being able to explain each line item clearly, and to correct errors calmly when they are spotted, is a core skill for checkout staff
@@ -33,7 +30,6 @@ Staff most commonly offer 利用明細 at checkout, either as a printed document
 Confusing 利用明細 with 領収書 and offering one when the guest needs the other is a frequent error. A corporate guest asking for 領収書 needs proof that payment was made; a guest asking for 利用明細 needs a charge-by-charge breakdown. Always clarify which document is needed before printing anything. Waiting to be asked before offering 利用明細 is reactive service. In Japanese hospitality, offering it proactively to business guests is considered attentive -- it also prevents complaints about unexplained charges from surfacing after the guest has left the property.
 
 ---
-
 ## Quiz
 
 **What shows all charges for services used during a stay?**

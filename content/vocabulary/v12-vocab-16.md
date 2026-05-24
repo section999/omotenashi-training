@@ -3,8 +3,6 @@ id: v12-vocab
 section: 16
 title: 医者 (isha)
 ---
-**Pronunciation:** [**i**-sha]
-**Register:** Formal/Neutral, medical coordination and guest care
 
 医者 means doctor, a licensed medical professional who can diagnose, treat, and advise on health conditions. In a hotel setting, especially a luxury or high-end property, being able to quickly connect a guest with an 医者 is considered a standard service. Many large Japanese hotels maintain a roster of contracted physicians who can come directly to the property for in-room consultations. This service is called ドクターコール (doctor call), and it spares guests with non-life-threatening conditions from navigating an unfamiliar hospital system. This kind of anticipatory support is what omotenashi looks like in a medical context.
 

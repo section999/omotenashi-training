@@ -5,7 +5,7 @@ title: プラン (puran)
 ---
 プラン is the word for a booking package, a named bundle that ties together a specific room type, meal arrangement, perks, and price. In Japan there is a wide range of these: a romantic anniversary プラン might include a special dinner and a flower arrangement, while a business プラン might focus on late checkout and a light breakfast. At check-in, knowing which プラン a guest booked is an important piece of information, because it defines everything they are entitled to during their stay.
 
-The プラン should be referred to by its actual name rather than saying "one's booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under
+The プラン should be referred to by its actual name rather than saying "their booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under
 ## Example Sentences
 
 **1.** お客様は朝食付きスタンダードプランでご予約いただいております。
@@ -23,7 +23,7 @@ The プラン should be referred to by its actual name rather than saying "one's
 
 ## Related Expressions
 
-- **コース (koosu)**: a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when one mean the overall booking package would confuse the guest about whether one is talking about their meal or their entire stay arrangement.
+- **コース (koosu)**: a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when staff mean the overall booking package would confuse the guest about whether one is talking about their meal or their entire stay arrangement.
 - **パッケージ (pakkeiji)**: close in meaning to プラン but tends to stress the bundling of separate items like flights, hotel, and sightseeing; in a hotel-only setting プラン is the natural term, while パッケージ shows up more in travel agency and OTA marketing.
 
 

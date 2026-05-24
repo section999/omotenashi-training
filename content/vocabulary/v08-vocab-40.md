@@ -3,8 +3,6 @@ id: v08-vocab
 section: 40
 title: 表示 (hyouji)
 ---
-**Pronunciation:** [**hyou**-ji]
-**Register:** Neutral to Formal -- used across all types of visual communication
 
 表示 (hyouji) brings together 表 (hyou, to express / show) and 示 (ji, to indicate / point out) into a word that means "display," "indication," or "sign." In a hotel, 表示 covers the full spectrum of visual communication: the illuminated floor numbers above an elevator, the color-coded arrows on emergency exit signs, the bilingual text on a room service menu, the digital screen in the lobby showing today's event schedule. It is a broader, more general term than 案内板 (a specific type of sign) or 非常口 (a specific type of exit marker). 表示 is the category name and those other terms are specific examples within it. The word means "anything visual that communicates information."
 
@@ -32,7 +30,7 @@ Understanding 表示 as a concept is important because it shapes how staff teach
 
 ## Common Mistakes
 
-Staff should watch out for mixing up the noun 表示 and the verb 表示する (hyouji suru, to display / to show). The sentence structure shifts depending on which form one needs, so staff should check what role the word is playing before writing or saying it. Another mistake is using 表示 generically when a more specific term is available. If the sign in question is a 非常口 sign, staff should say 非常口の表示 or 非常口, as the specificity helps the guest find what they are looking for. Whenever staff tell a guest 表示に従ってください, they should pair it with a gesture toward the first visible sign in that direction. Without that starting point, the instruction is correct but incomplete.
+Staff should watch out for mixing up the noun 表示 and the verb 表示する (hyouji suru, to display / to show). The sentence structure shifts depending on which form staff need, so staff should check what role the word is playing before writing or saying it. Another mistake is using 表示 generically when a more specific term is available. If the sign in question is a 非常口 sign, staff should say 非常口の表示 or 非常口, as the specificity helps the guest find what they are looking for. Whenever staff tell a guest 表示に従ってください, they should pair it with a gesture toward the first visible sign in that direction. Without that starting point, the instruction is correct but incomplete.
 
 ---
 

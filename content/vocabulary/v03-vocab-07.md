@@ -3,12 +3,10 @@ id: v03-vocab
 section: 7
 title: 禁煙 (kin'en)
 ---
-**Pronunciation:** [**kin**-en]
-**Register:** Neutral, Operational, front desk, reservations, room assignments
 
 禁煙 (kin'en) means "no smoking," built from 禁 (kin, prohibition) and 煙 (en, smoke). It is an operationally critical term in hotel work. Non-smoking rooms are the default at most modern Japanese hotels, and confirming a guest's smoking preference at check-in is expected; it is a mandatory step in the process. Assigning a guest who needs a non-smoking room to a smoking room, or the reverse, is a likely cause of formal complaints and can damage a property's reputation in online reviews.
 
-Beyond the guest experience, 禁煙 has legal and safety implications. Smoking in a designated non-smoking room can trigger alarms, incur cleaning fees, and in some cases result in penalties for the guest. Staff need to be confident using 禁煙 both as a question, ご希望は禁煙でございますか ("is one's preference non-smoking?"), and as a confirmation, 禁煙室をご用意しております ("we have a non-smoking room prepared for you"). Equally important is learning 喫煙 (kitsuen, smoking) with the same care, because a mix-up between the two leads to the wrong outcome
+Beyond the guest experience, 禁煙 has legal and safety implications. Smoking in a designated non-smoking room can trigger alarms, incur cleaning fees, and in some cases result in penalties for the guest. Staff need to be confident using 禁煙 both as a question, ご希望は禁煙でございますか ("is their preference non-smoking?"), and as a confirmation, 禁煙室をご用意しております ("we have a non-smoking room prepared for you"). Equally important is learning 喫煙 (kitsuen, smoking) with the same care, because a mix-up between the two leads to the wrong outcome
 ## Example Sentences
 
 **1.** ご予約は禁煙室でよろしいでしょうか？

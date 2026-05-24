@@ -8,7 +8,7 @@ Japan's autumn foliage season, *koyo* (紅葉, literally "crimson leaves"), is o
 
 ## How Koyo Differs from Cherry Blossom Season
 
-Cherry blossom season is defined by transience and delicate beauty. Koyo carries a different emotional register — deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo often arrive in a slower, more reflective mood. They tend to linger, photograph carefully, and seek the most intense colours.
+Cherry blossom season is defined by transience and delicate beauty. Koyo carries a different emotional register ,  deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo often arrive in a slower, more reflective mood. They tend to linger, photograph carefully, and seek the most intense colours.
 
 ## What Front-Line Staff Need to Know
 
@@ -16,17 +16,17 @@ Koyo is weather-dependent and changes daily. The question every front-line staff
 
 - Know the current foliage status at the two or three nearest major viewing spots
 - Know whether the leaves are just beginning, at peak, or starting to fall
-- Be able to recommend the best viewing times — early morning for mist, late afternoon for golden light
+- Be able to recommend the best viewing times ,  early morning for mist, late afternoon for golden light
 - Know which areas are accessible by public transport versus taxi
 
 ## Service Touchpoints During Koyo
 
-A guest asking about koyo is not just asking for directions — they are asking for guidance on a once-a-year experience. Thoughtful preparation makes the difference:
+A guest asking about koyo is not just asking for directions ,  they are asking for guidance on a once-a-year experience. Thoughtful preparation makes the difference:
 
 - Suggest packed lunch options or nearby teahouses along popular foliage routes
 - Have detailed maps of walking routes marked with the best viewing points
 - Offer to book transportation in advance for popular spots that become congested on peak weekends
-- In the room, autumn-themed wagashi — sweet potato, chestnut, persimmon — and warm hojicha or roasted tea reflect the season naturally
+- In the room, autumn-themed wagashi ,  sweet potato, chestnut, persimmon ,  and warm hojicha or roasted tea reflect the season naturally
 
 ---
 
@@ -40,7 +40,7 @@ A natural conversational opener during koyo season. It acknowledges the season w
 
 **今年の紅葉は特に見事です。○○では今がちょうど見頃ですので、ぜひ足をお運びください。**
 *Kotoshi no kōyō wa toku ni migoto desu. ○○ de wa ima ga chōdo migorō desu no de, zehi ashi wo o-hakobi kudasai.*
-"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now — I would really recommend visiting."
+"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now ,  I would really recommend visiting."
 
 Use this when you have confirmed, current information about a specific location. Replace ○○ with the name of the viewing spot.
 

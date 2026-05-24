@@ -3,10 +3,8 @@ id: v13-vocab
 section: 4
 title: 同僚 (douryou)
 ---
-**Pronunciation:** [**dou**-ryou]
-**Register:** Neutral, workplace relationships
 
-同僚 refers to colleagues, the people who work alongside one in the same organisation or department at a comparable level. In hospitality, strong 同僚 relationships are what keep the operation running smoothly day to day. When a front-desk colleague covers one's duties during a break, or when kitchen staff and the dining room team coordinate on timing, that's 同僚 spirit working exactly as it should. Japanese hospitality culture places high value on team harmony, 和 (wa), and 同僚 relationships are where that harmony gets built or gradually eroded.
+同僚 refers to colleagues, the people who work alongside one in the same organisation or department at a comparable level. In hospitality, strong 同僚 relationships are what keep the operation running smoothly day to day. When a front-desk colleague covers their duties during a break, or when kitchen staff and the dining room team coordinate on timing, that's 同僚 spirit working exactly as it should. Japanese hospitality culture places high value on team harmony, 和 (wa), and 同僚 relationships are where that harmony gets built or gradually eroded.
 
 Because so much hospitality work is shift-based and fast-moving, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and support during heavy service periods. Socialising outside work, through team meals or post-shift gatherings, is part of the culture and tends to build the kind of rapport that translates into better coordination when it counts
 ## Example Sentences
@@ -32,7 +30,7 @@ Because so much hospitality work is shift-based and fast-moving, trust among 同
 
 ## Common Mistakes
 
-A common error is using 同僚 to describe someone who is clearly more senior. That would be 先輩 or 上司, and calling a senior colleague one's 同僚 can come across as dismissive of the seniority gap. Conversely, using it for someone noticeably more junior is similarly inappropriate. A common error is to also mix up 同僚 with スタッフ. スタッフ refers to the team as a whole, while 同僚 is a peer relationship, specifically someone at one's own level. That distinction is important to maintain.
+A common error is using 同僚 to describe someone who is clearly more senior. That would be 先輩 or 上司, and calling a senior colleague their 同僚 can come across as dismissive of the seniority gap. Conversely, using it for someone noticeably more junior is similarly inappropriate. A common error is to also mix up 同僚 with スタッフ. スタッフ refers to the team as a whole, while 同僚 is a peer relationship, specifically someone at their own level. That distinction is important to maintain.
 
 ---
 

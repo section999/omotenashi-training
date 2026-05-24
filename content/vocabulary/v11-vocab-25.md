@@ -29,7 +29,7 @@ title: 対応中 (taiou chuu)
 
 ## Common Mistakes
 
-Saying 対応中です with nothing else is a common error. It gives the guest a status but no sense of when things will resolve. Adding a timeframe or at least promising a follow-up call is recommended: 対応中でございます alone is a status report, but あと〇分ほどでご連絡いたします turns it into a commitment. A common error is using 対応中 when one has only logged the request and not yet started handling it, as 対応中 specifically means work is actively underway, not just that a request was received.
+Saying 対応中です with nothing else is a common error. It gives the guest a status but no sense of when things will resolve. Adding a timeframe or at least promising a follow-up call is recommended: 対応中でございます alone is a status report, but あと〇分ほどでご連絡いたします turns it into a commitment. A common error is using 対応中 when staff has only logged the request and not yet started handling it, as 対応中 specifically means work is actively underway, not just that a request was received.
 
 ---
 

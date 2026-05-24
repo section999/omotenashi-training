@@ -3,8 +3,6 @@ id: v12-vocab
 section: 25
 title: 立入禁止 (tachiiri kinshi)
 ---
-**Pronunciation:** [ta-chi-i-ri **kin**-shi]
-**Register:** Formal, safety and access restriction
 
 立入禁止 (tachiiri kinshi) means "no entry" or "do not enter," and it is an unambiguous restriction on physically accessing a designated area. The term combines 立入り (entry, stepping into) and 禁止 (prohibition, ban). In hotels, 立入禁止 appears on areas under construction or renovation, mechanical and electrical rooms, rooftops with structural risks, back-of-house corridors reserved for staff, and any space cordoned off after an incident. The signage typically uses a red-and-white colour scheme and often includes graphic symbols so international guests who cannot read Japanese still receive the message.
 

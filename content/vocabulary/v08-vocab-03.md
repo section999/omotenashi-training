@@ -3,12 +3,9 @@ id: v08-vocab
 section: 3
 title: まっすぐ (massugu)
 ---
-**Pronunciation:** [**mas**-su-gu]
-**Register:** Neutral, paired with お進みください in formal hotel speech
-
 まっすぐ means "straight ahead" and is one of the frequently used directional words in Japanese hospitality. When a destination lies directly along a guest's current path with no turns required, まっすぐ communicates this with economy and clarity. Efficient, unambiguous guidance is a form of respect in Japanese service culture. No guest should have to stop, backtrack, or ask a second time because the first set of directions was unclear. まっすぐ provides an immediate, intuitive orientation cue that works across language backgrounds and levels of familiarity with the property.
 
-In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if one goes straight, one will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
+In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if staff goes straight, staff will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
 
 ## Example Sentences
 
@@ -24,20 +21,16 @@ In hotel contexts, まっすぐ most commonly appears in combinations: まっす
 *Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*
 "Go straight down this road to the station: it is approximately a 10-minute walk."
 
-
 ## Related Expressions
 
 - **一直線に (icchokusen ni)**: "in a straight line," more emphatic and literary in tone; rarely used in verbal guidance but may appear in formal written directions or on printed maps
 - **突き当たり (tsukiatari)**: "the end of the corridor" or "dead end"; often paired with まっすぐ to indicate that the guest should keep walking straight until they reach a wall or door
-
 
 ## Common Mistakes
 
 A common error is saying まっすぐです and stopping there, without specifying what the guest will find at the end of the straight path. Adding a destination or a landmark is recommended. A common error is to confuse まっすぐ with ずっと (continuously, all the way along), which suggests extended duration rather than a specific direction. Omitting the polite お進みください after まっすぐ also makes the instruction feel like a command rather than a courteous suggestion, which is not the appropriate tone in hotel speech.
 
 ---
-
-
 ## Quiz
 
 **駅までこの道を____進んでください。

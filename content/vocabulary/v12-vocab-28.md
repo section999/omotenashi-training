@@ -3,9 +3,6 @@ id: v12-vocab
 section: 28
 title: 緊急対応 (kinkyuu taiou)
 ---
-**Pronunciation:** [kin-kyuu **ta**-i-ou]
-**Register:** Formal, emergency operations and safety management
-
 緊急対応 means "emergency response" and covers the full set of actions, procedures, and communications that are activated when a serious, time-critical incident occurs at a hotel. Fires, medical emergencies, natural disasters, and security threats all fall under 緊急対応. Japanese hotels codify this into a 緊急対応マニュアル (emergency response manual) that every staff member is trained on, because when seconds matter, the quality of the response depends on preparation, not improvisation. A well-executed 緊急対応 minimises harm, projects calm authority to guests, and upholds the hotel's duty of care for everyone on the premises.
 
 Staff responsibilities within 緊急対応 differ by role. Front desk handles guest communications and roll calls, security coordinates with emergency services, housekeeping supports evacuation, and management oversees the overall response. Key language tasks include announcing the situation clearly without causing panic, directing guests to safe zones, contacting 119番 (fire/ambulance) or 110番 (police) as needed, and documenting the sequence of events for the post-incident report. Teams that drill regularly with 避難訓練 (evacuation drills) act with more confidence when 緊急対応 is triggered for real, because the procedures become second nature
@@ -33,7 +30,6 @@ Staff responsibilities within 緊急対応 differ by role. Front desk handles gu
 A common error is to confuse 緊急対応 with 応急処置, thinking they are the same thing. First aid is one piece of emergency response, but 緊急対応 is the coordinated system as a whole. There is also a tendency among newer staff to assume 緊急対応 is someone else's job, something for security or management to handle. Every department has defined roles in the protocol and every staff member should be able to execute them. Additionally, using 緊急対応 in front of guests during a non-emergency situation should be avoided. It is a term that signals crisis, and using it out of context causes alarm rather than reassurance. It should be kept in internal channels.
 
 ---
-
 ## Quiz
 
 **What term describes staff actions taken during urgent emergencies?**

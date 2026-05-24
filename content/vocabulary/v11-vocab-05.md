@@ -3,7 +3,7 @@ id: v11-vocab
 section: 5
 title: お繋ぎします (otsunagi shimasu)
 ---
-お繋ぎします is the standard phrase for telling a caller they're being transferred or connected to another person or department. What makes it different from just pressing a button is the commitment it carries: when one says お繋ぎします, one is personally taking responsibility for making sure that connection succeeds. That reassurance matters to the guest, who might otherwise worry about being dropped into a loop or left on a silent line wondering if anyone is there.
+お繋ぎします is the standard phrase for telling a caller they're being transferred or connected to another person or department. What makes it different from just pressing a button is the commitment it carries: when staff say お繋ぎします, one is personally taking responsibility for making sure that connection succeeds. That reassurance matters to the guest, who might otherwise worry about being dropped into a loop or left on a silent line wondering if anyone is there.
 
 Best practice in Japanese hotel phone etiquette is to name the destination before saying お繋ぎします. A phrase like レストランの予約担当部署にお繋ぎいたします tells the caller exactly who will answer and why, which sets clear expectations. When the situation allows, a warm transfer is recommended: briefly explaining the guest's situation to the receiving party before completing the connection, so the guest does not have to repeat themselves from the beginning. That extra step makes a noticeable difference in how the service feels
 ## Example Sentences
