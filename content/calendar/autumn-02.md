@@ -25,22 +25,6 @@ A small gesture directed specifically at the elderly guest, a seasonal flower, a
 
 ---
 
-## Key Phrases
-
-**いつまでも、お元気でいらっしゃいますことを心よりお祈り申し上げます。**
-*Itsumade mo, o-genki de irasshaimasu koto wo kokoro yori o-inori mōshiagemasu.*
-"We sincerely wish you the very best of health for many years to come."
-
-Addressed directly to an elderly guest on Keirō no Hi. This phrase expresses genuine warmth and respect, and is appropriate when welcoming the honoured guest at arrival.
-
-**ご家族でのお越し、誠にありがとうございます。**
-*Go-kazoku de no o-koshi, makoto ni arigatō gozaimasu.*
-"Thank you sincerely for visiting as a family."
-
-Used when greeting accompanying family members. It acknowledges the group visit as a meaningful occasion in its own right.
-
----
-
 ## Quiz
 
 **A family of five arrives on Respect for the Aged Day. The grandmother is clearly the honoured guest: the family is attentive and ceremonious around her. She moves slowly and uses a walking stick. How should the staff respond?**

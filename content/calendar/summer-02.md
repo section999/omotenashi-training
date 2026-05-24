@@ -30,22 +30,6 @@ A well-executed Tanabata display does three things: it celebrates the season, it
 
 ---
 
-## Key Phrases
-
-**お願い事を短冊に書かれますか？**
-*O-negaigoto wo tanzaku ni kakare masu ka?*
-"Would you like to write a wish on a strip of paper?"
-
-A simple, direct invitation to participate. The phrasing is gentle and leaves the guest free to decline without awkwardness.
-
-**七夕にちなんで、願い事を短冊に書いて笹に飾る風習がございます。よろしければ、ぜひどうぞ。**
-*Tanabata ni chinande, negaigoto wo tanzaku ni kaite sasa ni kazaru fūshū ga gozaimasu. Yoroshikereba, zehi dōzo.*
-"In the spirit of Tanabata, there is a tradition of writing wishes on paper strips and hanging them on bamboo. Please feel free to add one if you'd like."
-
-Use this with international guests or any guest who pauses near the display but does not engage. The explanation provides context; the closing phrase makes the invitation gentle rather than obligatory.
-
----
-
 ## Quiz
 
 **An international guest stops in front of the Tanabata bamboo display and takes a photo but doesn't approach the wish-writing station. What is the ideal staff response?**

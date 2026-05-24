@@ -13,8 +13,11 @@ In a hospitality context, keigo tells the guest that they are valued, respected,
 Keigo is divided into three main categories:
 
 - **Sonkeigo (尊敬語)**: Respectful language. Used to elevate the guest's actions and status.
+  - E.g., *お召し上がりになりますか？* (Will you be dining?)
 - **Kenjōgo (謙譲語)**: Humble language. Used to lower the speaker's own actions, showing deference.
+  - E.g., *ご案内いたします。* (I will show you to your room.)
 - **Teineigo (丁寧語)**: Polite language. Everyday formal speech using です and ます forms.
+  - E.g., *こちらがお部屋でございます。* (This is your room.)
 
 Each category has a distinct function. Teineigo covers most everyday interactions. Sonkeigo and kenjōgo add a further layer of respect in formal or important situations.
 

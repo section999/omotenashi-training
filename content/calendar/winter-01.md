@@ -27,22 +27,6 @@ For formal oseibo gifts, the *noshi* label typically reads *お歳暮 (oseibo)* 
 
 ---
 
-## Key Phrases
-
-**本年も大変お世話になりました。**
-*Honnen mo taihen osewa ni narimashita.*
-"Thank you very much for your continued support throughout this year."
-
-A standard year-end expression used in spoken and written contexts. It acknowledges the relationship and the year drawing to a close.
-
-**本年中のご愛顧に深く感謝申し上げます。来年も変わらぬご厚誼をお願い申し上げます。**
-*Honnen-chū no go-aiko ni fukaku kansha mōshiagemasu. Rainen mo kawaranu go-kōgi wo o-negai mōshiagemasu.*
-"We express our deepest gratitude for your patronage this year. We look forward to your continued favour in the coming year."
-
-A formal closing used in written correspondence at year-end. Appropriate for letters or cards accompanying gifts or sent to long-standing guests and clients.
-
----
-
 ## Quiz
 
 **In December, a business guest asks for help coordinating the delivery of twelve gift boxes to different client addresses across the city. They seem slightly apologetic about asking. What is the ideal response?**

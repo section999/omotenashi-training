@@ -34,22 +34,6 @@ Being able to explain these elements briefly and accurately to international gue
 
 ---
 
-## Key Phrases
-
-**良いお年をお迎えください。**
-*Yoi otoshi wo omukae kudasai.*
-"Please have a good New Year."
-
-Used until December 31st when saying farewell to guests or colleagues. This phrase looks forward to the new year while acknowledging the year drawing to a close.
-
-**明けましておめでとうございます。本年もよろしくお願いいたします。**
-*Akemashite omedetō gozaimasu. Honnen mo yoroshiku onegai itashimasu.*
-"Happy New Year. I look forward to your continued support this year."
-
-Used from January 1st onward, and particularly at a first meeting in the new year. The second sentence is typically added when greeting someone you have an ongoing relationship with.
-
----
-
 ## Quiz
 
 **An international guest asks about the traditional rice cake decoration (鏡餅, kagami mochi) on display in the lobby. What is the ideal response?**

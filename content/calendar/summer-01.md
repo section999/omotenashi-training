@@ -24,22 +24,6 @@ A property that meets them with warmth and attentiveness during a season many ov
 
 ---
 
-## Key Phrases
-
-**お足元の悪い中、お越しいただきありがとうございます。**
-*O-ashimoto no warui naka, okoshi itadaki arigatō gozaimasu.*
-"Thank you for coming despite the difficult conditions underfoot."
-
-This is the standard greeting for rainy or wet arrivals. It acknowledges the guest's effort and signals that the conditions were noticed before any administrative process begins.
-
-**雨の中、わざわざお越しくださいまして、誠にありがとうございます。**
-*Ame no naka, wazawaza okoshi kudasaimashite, makoto ni arigatō gozaimasu.*
-"Thank you sincerely for making the effort to come in the rain."
-
-A slightly more formal alternative. Both phrases work because they express genuine recognition of what the guest has just experienced.
-
----
-
 ## Quiz
 
 **A guest arrives visibly wet from a heavy downpour. They are clearly frustrated. You have the oshibori ready but have not started the check-in process. What is the most effective sequence of actions?**

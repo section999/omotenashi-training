@@ -26,28 +26,6 @@ Beyond the greeting, summer hospitality has specific practical requirements:
 
 ---
 
-## Key Phrases
-
-**暑い中をお越しいただきありがとうございます。**
-*Atsui naka wo okoshi itadaki arigatō gozaimasu.*
-"Thank you for coming in this heat."
-
-This is the standard spoken greeting for summer arrivals. It acknowledges the conditions immediately and puts the guest's experience at the centre of the welcome.
-
-**暑中お見舞い申し上げます。**
-*Shochū omimai mōshiagemasu.*
-"I offer my summer greetings to you."
-
-Used in formal written communications from July through early August. This is a standard professional expression in Japanese business correspondence during the peak summer months.
-
-**残暑お見舞い申し上げます。**
-*Zansho omimai mōshiagemasu.*
-"I offer my late-summer greetings, the summer heat lingers."
-
-Used after *Risshū* (立秋, the traditional start of autumn, around August 7–8). The word *zansho* (残暑) means lingering heat, and the phrase acknowledges that summer is not yet over despite the calendar turning.
-
----
-
 ## Quiz
 
 **A guest arrives looking flushed and overheated after walking from the nearest station in mid-August. They have not yet spoken. What is the ideal first action?**

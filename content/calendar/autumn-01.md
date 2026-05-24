@@ -30,22 +30,6 @@ A guest asking about koyo is not just asking for directions, they are asking for
 
 ---
 
-## Key Phrases
-
-**紅葉がきれいな季節になりましたね。**
-*Kōyō ga kirei na kisetsu ni nari mashita ne.*
-"The autumn colours have become so beautiful, haven't they."
-
-A natural conversational opener during koyo season. It acknowledges the season warmly and often invites the guest to share what they have seen or plan to visit.
-
-**今年の紅葉は特に見事です。○○では今がちょうど見頃ですので、ぜひ足をお運びください。**
-*Kotoshi no kōyō wa toku ni migoto desu. ○○ de wa ima ga chōdo migorō desu no de, zehi ashi wo o-hakobi kudasai.*
-"The autumn colours are particularly spectacular this year. ○○ is at its absolute peak right now, I would really recommend visiting."
-
-Use this when you have confirmed, current information about a specific location. Replace ○○ with the name of the viewing spot.
-
----
-
 ## Quiz
 
 **A guest asks about the current koyo conditions at a nearby mountain. You are not fully certain of today's status. What is the professional response?**

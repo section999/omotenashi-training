@@ -29,22 +29,6 @@ Front-line staff should know today's bloom conditions as a matter of professiona
 
 ---
 
-## Key Phrases
-
-**今年の桜はとても綺麗ですね。**
-*Kotoshi no sakura wa totemo kirei desu ne.*
-"The cherry blossoms are especially beautiful this year, aren't they."
-
-This phrase opens a warm, seasonal exchange with any guest during sakura season. It acknowledges the moment you are both sharing.
-
-**今が見頃ですので、ぜひお時間があればお花見をお楽しみください。**
-*Ima ga migorō desu no de, zehi o-jikan ga areba o-hanami wo o-tanoshimi kudasai.*
-"They are at their peak right now, please do enjoy the blossom viewing if you have time."
-
-Use this when conditions are confirmed. It gives the guest both a recommendation and a gentle sense of timing.
-
----
-
 ## Quiz
 
 **A guest asks where to see the best cherry blossoms. You are not certain of today's exact bloom conditions at the nearest park. What is the most professional response?**

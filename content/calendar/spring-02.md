@@ -26,28 +26,6 @@ Congratulatory greetings are genuinely meaningful in this context, but only when
 
 ---
 
-## Key Phrases
-
-**ご入学おめでとうございます。**
-*Go-nyūgaku omedetō gozaimasu.*
-"Congratulations on your enrollment."
-
-Use this with families who are clearly accompanying a new student. The recognition of the occasion makes the moment feel seen and celebrated.
-
-**ご就職おめでとうございます。**
-*Go-shūshoku omedetō gozaimasu.*
-"Congratulations on your new position."
-
-Appropriate for guests who are clearly beginning a new professional role. A brief, warm delivery is more effective than an elaborate exchange.
-
-**新年度のスタートを心よりお祝い申し上げます。**
-*Shinnen-do no sutāto wo kokoro yori o-iwai mōshiagemasu.*
-"We sincerely congratulate you on the start of the new year."
-
-This more formal expression works when the specific circumstances are unclear but the transitional context of April is evident.
-
----
-
 ## Quiz
 
 **A family checks in on April 2nd. There is a young adult with them who looks both excited and nervous, and they are carrying several boxes and personal items. What tone and what specific gesture is most appropriate?**

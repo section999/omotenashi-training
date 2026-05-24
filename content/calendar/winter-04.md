@@ -28,28 +28,6 @@ December carries the warmth of year-end gatherings and the anticipation of the N
 
 ---
 
-## Key Phrases
-
-**寒い中をお越しいただきありがとうございます。**
-*Samui naka wo okoshi itadaki arigatō gozaimasu.*
-"Thank you for coming in this cold."
-
-A spoken greeting for cold-weather arrivals. It acknowledges the guest's journey before anything else and communicates that their comfort has already been noticed.
-
-**寒中お見舞い申し上げます。**
-*Kanchū omimai mōshiagemasu.*
-"I offer my midwinter greetings to you."
-
-A formal written greeting used in professional correspondence from approximately January 8th to February 3rd. It replaces the New Year greeting once that period has formally ended.
-
-**温かいお飲み物をご用意しております。いかがでしょうか。**
-*Atatakai o-nomimono wo go-yōi shite orimasu. Ikaga deshō ka.*
-"We have a warm drink ready for you. Would you like one?"
-
-Offered immediately after the arrival greeting. This phrase pairs the verbal acknowledgement of the cold with a concrete act of care.
-
----
-
 ## Quiz
 
 **Which of the following sequences best reflects omotenashi during a cold winter evening arrival?**

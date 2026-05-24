@@ -31,22 +31,6 @@ Setsubun offers some of the most guest-interactive seasonal opportunities availa
 
 ---
 
-## Key Phrases
-
-**鬼は外！福は内！**
-*Oni wa soto! Fuku wa uchi!*
-"Out with demons! In with good fortune!"
-
-The classic Setsubun chant, shouted while throwing beans. Sharing this phrase with guests during a mamemaki activity turns the moment into active participation rather than observation.
-
-**節分の季節がやってまいりました。今日は豆まきで、邪気を払いましょう。**
-*Setsubun no kisetsu ga yatte mairimashita. Kyō wa mamemaki de, jaki wo haraimashō.*
-"Setsubun season is upon us. Today we drive out evil with the bean-throwing ritual."
-
-A warm greeting phrase for Setsubun day. It introduces the occasion and invites guests into the spirit of the celebration.
-
----
-
 ## Quiz
 
 **An international guest watches a staff member wearing an oni mask in the lobby and looks confused. They approach you and ask: "What is happening?" What is the ideal response?**

@@ -34,22 +34,6 @@ November 3rd falls in the heart of koyo season for most of Japan. Culture Day re
 
 ---
 
-## Key Phrases
-
-**文化の日にご来館いただき、ありがとうございます。本日は様々な文化イベントが開催されております。**
-*Bunka no Hi ni go-raikan itadaki, arigatō gozaimasu. Honjitsu wa samazama na bunka ibento ga kaisai sarete orimasu.*
-"Thank you for visiting on Culture Day. A number of cultural events are being held today."
-
-A warm opening for guests arriving on November 3rd. It signals that the property is aware of the occasion and ready to guide.
-
-**本日は○○にて○○が開催されております。ご興味がございましたら、ぜひお越しください。**
-*Honjitsu wa ○○ ni te ○○ ga kaisai sarete orimasu. Go-kyōmi ga gozaimashitara, zehi o-koshi kudasai.*
-"Today, ○○ is being held at ○○. If you are interested, I would really recommend it."
-
-Use this when making a specific event recommendation. Replace the ○○ placeholders with the event name and location.
-
----
-
 ## Quiz
 
 **A guest asks for recommendations on Culture Day. You know that a nearby temple garden has free entry today, a traditional Noh performance is being held at the city arts centre at 2pm, and the local history museum has a special exhibition on regional crafts. What is the most helpful response?**
