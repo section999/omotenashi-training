@@ -1820,13 +1820,19 @@ function parseQuizMarkdown(raw) {
   if (!raw) return null;
   const lines = raw.split('\n').map(l => l.trim()).filter(l => l);
 
-  // Detect type - use regex on raw to capture multi-line bold questions
-  const boldBlocks = [...raw.matchAll(/\*\*([\s\S]*?)\*\*/g)];
-  const qBlock = boldBlocks.find(m => {
-    const t = m[1].trim();
-    return !t.startsWith('Correct') && !t.startsWith('Answer:') && !t.startsWith('Explanation:') && !t.startsWith('Model Answer:');
-  });
-  const q = qBlock ? qBlock[1].trim() : '';
+  // Prefer **Question:** line; fall back to first non-excluded bold block
+  const questionLine = lines.find(l => l.startsWith('**Question:**'));
+  let q = '';
+  if (questionLine) {
+    q = questionLine.replace('**Question:**', '').trim();
+  } else {
+    const boldBlocks = [...raw.matchAll(/\*\*([\s\S]*?)\*\*/g)];
+    const qBlock = boldBlocks.find(m => {
+      const t = m[1].trim();
+      return !t.startsWith('Correct') && !t.startsWith('Answer:') && !t.startsWith('Question:') && !t.startsWith('Fill in the blank') && !t.startsWith('Explanation:') && !t.startsWith('Model Answer:');
+    });
+    q = qBlock ? qBlock[1].trim() : '';
+  }
 
   const optLines = lines.filter(l => /^- [A-D]\./.test(l));
   const correctLine = lines.find(l => l.startsWith('**Correct Answer:**'));
