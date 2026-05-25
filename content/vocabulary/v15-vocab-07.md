@@ -7,8 +7,6 @@ title: アイロン台 (airon dai)
 
 When explaining how to set up the board, staff should keep it practical: place it on a stable surface, extend the legs fully, and point the narrow tapered end away from the user. Some guests, particularly those travelling from countries where ironing boards are less common, may need that brief walk-through. During room prep, checking the cover is important. A scorched or dirty cover can transfer marks directly onto a guest's shirt, which is the last thing anyone wants.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | アイロン台はクロゼット内の上段にございます。ご不明な点はフロントまでどうぞ。<br><small>*Airon dai wa kurozetto-nai no joudan ni gozaimasu. Go-fumeina ten wa furonto made douzo.*</small> | The ironing board is on the upper shelf inside the closet. Please contact the front desk if one has any questions. |

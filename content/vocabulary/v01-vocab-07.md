@@ -10,8 +10,6 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 *Shitsurei itashimasu* is not an apology. It should not be used when a guest's room was not ready or their meal was incorrect. For genuine errors and serious inconveniences, *moushiwake gozaimasen* is the right phrase. *Shitsurei itashimasu* belongs to the small social navigations of daily professional life, nothing more and nothing less
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 失礼いたします。お部屋にご案内いたします。<br><small>*Shitsurei itashimasu. O-heya ni go-annai itashimasu.*</small> | Excuse me. I will show you to the room. |

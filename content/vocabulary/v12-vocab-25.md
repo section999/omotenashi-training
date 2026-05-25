@@ -7,15 +7,16 @@ title: 立入禁止 (tachiiri kinshi)
 立入禁止 (tachiiri kinshi) means "no entry" or "do not enter," and it is an unambiguous restriction on physically accessing a designated area. The term combines 立入り (entry, stepping into) and 禁止 (prohibition, ban). In hotels, 立入禁止 appears on areas under construction or renovation, mechanical and electrical rooms, rooftops with structural risks, back-of-house corridors reserved for staff, and any space cordoned off after an incident. The signage typically uses a red-and-white colour scheme and often includes graphic symbols so international guests who cannot read Japanese still receive the message.
 
 The key difference between 立入禁止 and a sign like 使用禁止 (do not use) is scope. 使用禁止 restricts a specific device or piece of equipment. 立入禁止 restricts an entire physical space, which makes it a broader and often more serious designation. When a staff member discovers a guest has wandered into a 立入禁止 zone, they should respond calmly and immediately: guide them out, briefly explain the restriction, and apologise for any confusion around the signage. If the zone overlaps with a safety hazard such as a damaged floor or live construction, the incident should be documented and escalated to management for both safety and liability reasons. Physical barriers like cones, tape, or temporary fencing should always back up the signage
-## Example Sentences
 
 改装工事中のため、3階の一部エリアは立入禁止となっております。
 <small>*Kaisou kouji chuu no tame, sangai no ichibu eria wa tachiiri kinshi to natte orimasu.*</small>
 Part of the third floor is designated as a no-entry zone due to ongoing renovation works.
 
+
 立入禁止区域には、安全上の理由より何人もお入りいただけません。
 <small>*Tachiiri kinshi kuiki ni wa, anzen jou no riyuu yori nannin mo ohairi itadakemasen.*</small>
 No person may enter the no-entry zone for safety reasons.
+
 
 スタッフ専用エリアは立入禁止となっておりますので、ご了承くださいませ。
 <small>*Sutaffu senyou eria wa tachiiri kinshi to natte orimasu node, goryoushou kudasaimase.*</small>

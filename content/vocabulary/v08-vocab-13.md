@@ -7,8 +7,6 @@ title: 奥 (oku)
 
 In modern hotel and restaurant settings, 奥 is used practically to direct guests to facilities at the far end of a room, corridor, or dining area: お手洗いは奥にございます, or お席は奥の方でございます. When the destination is at the far end of the space, 突き当たり is often paired with 奥 for greater precision, as in 廊下の突き当たり奥にございます. Staff should also be careful to distinguish 奥 from 裏: 奥 means the interior far end of a space the guest is already inside, while 裏 means the rear exterior of a building. Mixing these two up is a common error
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | レストランのお手洗いは奥にございます。<br><small>*Resutoran no o-tearai wa oku ni gozaimasu.*</small> | The restroom is at the back of the restaurant. |

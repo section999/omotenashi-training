@@ -9,8 +9,6 @@ title: ようこそ (youkoso)
 
 A common error is to use *yōkoso* in everyday spoken greetings, where it ends up sounding theatrical, as if the formality level has been set too high. It should be saved for moments that call for it. When staff do use it, it is effective.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ようこそ、〇〇ホテルへ。心よりお待ちしておりました。<br><small>*Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*</small> | Welcome to ○○ Hotel. We have been truly looking forward to your arrival. |

@@ -8,15 +8,15 @@ title: 取消 (torikeshi)
 
 When a guest requests a 取消, the proper sequence is: confirm the reservation details, check the キャンセルポリシー to determine if a 取消料 applies, communicate the outcome clearly to the guest, process the 取消 in the property management system, release the inventory, and initiate any 返金. If the guest is canceling close to the arrival date and a 100% キャンセル料 applies, staff should inform them before finalizing anything. A common error is skipping the communication step and processing first, which leads to disputes. Before proceeding with a 取消, offering a date change is recommended. お取消の前に日程変更のご検討はいかがでしょうか is a guest-oriented line that can save bookings.
 
-## Example Sentences
-
 ご予約の取消を承りました。
 <small>*Go-yoyaku no torikeshi o uketamattewarimashita.*</small>
 We have accepted your cancellation.
 
+
 取消の場合、キャンセル料が発生する場合がございます。
 <small>*Torikeshi no baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*</small>
 In the event of cancellation, a cancellation fee may apply.
+
 
 お取消の前に日程変更のご検討はいかがでしょうか。
 <small>*Otorikeshi no mae ni nittei henkou no go-kentou wa ikaga deshou ka.*</small>

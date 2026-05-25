@@ -7,15 +7,15 @@ title: 両替 (ryougae)
 
 In hotels, ryokan, and airport facilities, 両替 services may include foreign currency exchange as well as providing change in smaller denominations for tipping at onsen or purchasing items from vending machines. Staff should count bills aloud in front of the guest to confirm the total, then present the exchanged money neatly, ideally placed in a small tray or envelope. If foreign currency exchange is not available on-site, staff should proactively direct guests to the nearest bank, post office, or authorized exchange bureau (両替所).
 
-## Example Sentences
-
 円をドルに両替していただけますか？
 <small>*En o doru ni ryougae shite itadakemasu ka?*</small>
 Could you please exchange yen into dollars for me?
 
+
 恐れ入りますが、両替はフロントにてお取り扱いしております。
 <small>*Osoreirimasu ga, ryougae wa furonto nite otoriatsukai shite orimasu.*</small>
 I apologize for the inconvenience, but currency exchange is handled at the front desk.
+
 
 一万円札を千円札に両替することは可能でしょうか？
 <small>*Ichiman-en satsu o sen-en satsu ni ryougae suru koto wa kanō deshō ka?*</small>

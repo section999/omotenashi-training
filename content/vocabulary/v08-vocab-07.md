@@ -7,8 +7,6 @@ title: 階 (kai)
 
 The pronunciation of 階 changes depending on the number it attaches to: 一階 (ikkai), 二階 (nikai), 三階 (sangai), 四階 (yonkai), 五階 (gokai), and so on. The irregular readings, particularly 一階, 六階, and 八階, require careful practice as they frequently cause confusion in real situations. In hotel speech, 〇階にございます is the standard locating phrase, ideally followed by エレベーターをご利用ください or 階段はこちらでございます so the guest also knows how to get there. Proactively mentioning both the floor number and the access method is the kind of complete, anticipatory guidance that reflects the omotenashi mindset
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 客室は3階にございます。<br><small>*Kyakushitsu wa san-gai ni gozaimasu.*</small> | The guest rooms are on the 3rd floor. |

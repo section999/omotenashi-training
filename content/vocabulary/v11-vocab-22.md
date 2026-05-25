@@ -6,15 +6,16 @@ title: お問い合わせ (otoiawase)
 お問い合わせ refers to an inquiry, question, or request for information made by a guest or prospective guest. It is an important term in Japanese hospitality vocabulary because it frames every guest question as a valued communication worthy of attentive and respectful handling. Saying お問い合わせありがとうございます (thank one for their inquiry) at the start of a call immediately establishes that the hotel views the guest's contact as a welcome event, not an interruption. That framing matters more than it might initially seem.
 
 お問い合わせ covers a wide range of guest contacts: questions about room availability, requests for information about facilities, complaints, special arrangement inquiries, and more. Hotels typically have dedicated お問い合わせ channels (phone, email, website form), and staff are trained to identify the nature of each お問い合わせ and route or resolve it efficiently. Using this term correctly, rather than the more abrupt 質問 (shitsumon, question), sets a courteous tone for the entire interaction
-## Example Sentences
 
 お問い合わせありがとうございます。○○ホテルでございます。
 <small>*Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*</small>
 Thank you for your inquiry. This is ○○ Hotel.
 
+
 ご不明な点がございましたら、いつでもお問い合わせください。
 <small>*Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*</small>
 If you have any questions, please feel free to contact us at any time.
+
 
 お問い合わせの内容を担当部署に確認いたします。
 <small>*Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*</small>

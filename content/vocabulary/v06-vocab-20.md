@@ -8,15 +8,15 @@ title: 有料 (yuuryou)
 
 有料 appears in many service contexts: minibar items (「ミニバーの飲み物は有料でございます」), premium Wi-Fi tiers, room service, laundry, and late check-out fees. It also shows up throughout printed in-room materials and menus. When telling a guest that something is 有料, staff should mention the price or point them to where pricing information can be found: 「有料でございます。料金はメニューにてご確認いただけます」 (it is a paid service; staff can check the pricing on the menu). That kind of complete communication prevents billing disputes from arising in the first place.
 
-## Example Sentences
-
 こちらのサービスは有料でございます。料金は後ほどご請求いたします。
 <small>*Kochira no saabisu wa yuuryou de gozaimasu. Ryoukin wa nochi hodo go-seikyuu itashimasu.*</small>
 This service is chargeable. The fee will be billed to you later.
 
+
 ミニバーのお飲み物はすべて有料となっております。ご利用の際はご注意ください。
 <small>*Minibaar no o-nomimono wa subete yuuryou to natte orimasu. Go-riyou no sai wa go-chuui kudasai.*</small>
 All minibar beverages are charged. Please be aware when using them.
+
 
 レイトチェックアウトをご希望の場合、追加料金が有料にて発生いたします。
 <small>*Reito chekkuauto wo go-kibou no baai, tsuika ryoukin ga yuuryou nite hassei itashimasu.*</small>

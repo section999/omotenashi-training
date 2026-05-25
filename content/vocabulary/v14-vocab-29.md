@@ -7,8 +7,6 @@ title: マナー (manaa)
 
 Hospitality staff need to handle マナー situations with a light touch. Guests sometimes arrive unaware of local expectations, and how staff address that is where professional skill shows. The goal is never to embarrass someone, it is to help them understand. Signage phrases like 「静かにお願いします」 and 「飲食はご遠慮ください」 communicate expectations gently and impersonally. When direct conversation is needed, the indirect Japanese approach works best: something like 「こちらではご遠慮いただいております」 (We kindly ask guests to refrain from that here) is far more effective than pointing out a マナー violation directly.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 電車内では携帯電話のご使用をお控えいただくなど、マナーをお守りください。<br><small>*Densha nai de wa keitai denwa no go-shiyou wo o-hikae itadaku nado, manaa wo o-mamori kudasai.*</small> | Please observe good manners, such as refraining from using mobile phones inside the train. |

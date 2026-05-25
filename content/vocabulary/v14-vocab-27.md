@@ -7,8 +7,6 @@ title: 文化 (bunka)
 
 Knowing how to frame cultural differences diplomatically is a notably useful skill in hospitality. When a guest unknowingly does something that conflicts with local expectations, like tipping at a restaurant or talking loudly at a shrine, a staff member who can gently offer context turns an awkward moment into a real connection. The phrase 「日本の文化では～とされています」 (In Japanese culture, it is considered that...) is helpful here. It invites guests into understanding rather than making them feel corrected, which is exactly the spirit of omotenashi.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 日本の伝統文化をご体験いただけるプランをご用意しております。<br><small>*Nihon no dentou bunka wo go-taiken itadakeru puran wo go-youi shite orimasu.*</small> | We have prepared plans that allow you to experience traditional Japanese culture. |

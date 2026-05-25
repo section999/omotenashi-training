@@ -7,8 +7,6 @@ title: クリーニング (kuriiningu)
 
 When a guest asks about getting clothes cleaned, the staff's first job is to understand what they need. However, many guests do not know the difference between regular laundry and dry cleaning, so staff may need to ask a quick clarifying question about the fabric or care label. Turnaround for クリーニング is typically one to two days, longer than standard laundry, so letting guests know upfront helps them manage their wardrobe around it. Some properties send items to an off-site クリーニング shop, and if that is the case at the hotel, being transparent about it avoids any confusion later.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | スーツのクリーニングを承ります。明後日の午前中にお部屋へお届けいたします。<br><small>*Suutsu no kuriiningu o uketamawarimasu. Asatte no gozenchuu ni o-heya e o-todoke itashimasu.*</small> | We will take care of dry cleaning your suit. It will be delivered to the room the morning of the day after tomorrow. |

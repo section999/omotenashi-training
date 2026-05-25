@@ -176,8 +176,8 @@
     .order-btn:hover { background: rgba(241,190,50,0.12); border-color: var(--accent-yellow); color: var(--accent-yellow); }
 
     /* VOCAB EXAMPLE (v01–v11 format) */
-    .vocab-example-line { border-left: 3px solid var(--accent-blue); padding-left: 12px; margin: 1rem 0; font-style: normal; }
-    .vocab-example-label { font-family: var(--font-mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent-blue); display: block; margin-bottom: 2px; font-style: normal; }
+    .vocab-example-line { border-left: 3px solid #f1be32; padding-left: 12px; margin: 1rem 0; font-style: normal; }
+    .vocab-example-label { font-family: var(--font-mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: #f1be32; display: block; margin-bottom: 2px; font-style: normal; }
 
     /* KEYBOARD NAV HINT */
     .keynav-hint { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
@@ -2910,15 +2910,48 @@ async function render() {
     if (m) injectVocabPronWidget(m[1].trim(), m[2].trim());
   }
 
-  // Style Example: lines in v01–v11 format (plain em tags, not labeled sections)
+  // Style example sentences in vocabulary files into blue left-border boxes
   if (isVocabFile && bodyEl) {
+    // 1. Handle *Example: text* format (single-paragraph italic-marked examples)
     bodyEl.querySelectorAll('p').forEach(p => {
       const em = p.querySelector('em');
       if (em && /^Example:\s/.test(em.textContent)) {
         p.classList.add('vocab-example-line');
         const rest = em.innerHTML.replace(/^Example:\s*/, '');
-        em.innerHTML = '<span class="vocab-example-label">Example</span>' + rest;
+        p.innerHTML = '<span class="vocab-example-label">Example</span>' + rest;
       }
+    });
+
+    // 2. Handle table format: <table> with Japanese/Meaning header
+    bodyEl.querySelectorAll('table').forEach(table => {
+      const thead = table.querySelector('thead');
+      if (!thead) return;
+      const headerText = thead.textContent.trim();
+      if (!/Japanese/i.test(headerText) || !/Meaning/i.test(headerText)) return;
+
+      const rows = table.querySelectorAll('tbody tr');
+      const fragment = document.createDocumentFragment();
+      rows.forEach(tr => {
+        const cells = tr.querySelectorAll('td');
+        if (cells.length < 2) return;
+        const p = document.createElement('p');
+        p.className = 'vocab-example-line';
+        p.innerHTML = '<span class="vocab-example-label">Example</span> ' +
+          cells[0].innerHTML.trim() + '<br>' + cells[1].innerHTML.trim();
+        fragment.appendChild(p);
+      });
+      table.replaceWith(fragment);
+    });
+
+    // 3. Handle paragraph format: <p> with <small> (romaji) = example
+    bodyEl.querySelectorAll('p').forEach(p => {
+      if (p.classList.contains('vocab-example-line')) return;
+      if (!p.querySelector('small')) return;
+      p.classList.add('vocab-example-line');
+      p.innerHTML = '<span class="vocab-example-label">Example</span> ' +
+        p.innerHTML
+          .replace(/\n<small>/g, '<br><small>')
+          .replace(/<\/small>\s*/g, '</small><br>');
     });
   }
 

@@ -6,15 +6,16 @@ title: 徒歩 (toho)
 徒歩 (徒歩) reads as "foot travel" and is the formal Japanese term for traveling on foot. In the context of hospitality, it is most powerfully used in the pattern 徒歩〇分 (〇-minute walk), which gives guests a practical, intuitive sense of distance that maps and street names alone cannot convey. This phrasing is ubiquitous in Japan, on Google Maps, station signage, restaurant websites, and hotel concierge guidance, because Japanese urban culture is highly pedestrian-oriented, and walking time is the primary unit of navigational distance. For international guests unfamiliar with Japanese geography, a 徒歩10分 from the front desk is more useful than a street address or a distance in kilometers.
 
 徒歩 nearly always appears alongside 約 (approximately) and a specific minute count: 駅まで徒歩約10分です. Staff should calibrate these estimates carefully, accounting for traffic lights, elevation changes, and the pace of an average guest with luggage. For elderly guests or guests with heavy bags, staff at quality properties also consider proactively suggesting alternatives: 徒歩ですと少々遠くなりますので、タクシーをご用意いたしましょうか (it is a bit far on foot; shall we arrange a taxi for one?). This anticipation of need reflects Japanese hospitality culture
-## Example Sentences
 
 駅まで徒歩10分です。地図をお持ちいたしましょうか。
 <small>*Eki made toho juppun desu. Chizu o omochi itashimashou ka.*</small>
 It is a 10-minute walk to the station. Shall I bring you a map?
 
+
 観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。
 <small>*Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.*</small>
 It is approximately a 15-minute walk to the sightseeing landmark. There is a row of cherry trees along the way, so please enjoy them.
+
 
 お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。
 <small>*Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.*</small>

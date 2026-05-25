@@ -7,15 +7,16 @@ title: 外貨 (gaika)
 外貨 reads as "outside-country money" and refers to any currency issued by a foreign nation. As inbound tourism to Japan continues to grow, knowing how to handle 外貨 smoothly is a valuable skill. Not every property accepts foreign currency directly, which is acceptable, but staff need to know their establishment's policy clearly and be ready to guide guests who arrive with 外貨 and need to convert it or find an alternative way to pay. A guest handling unfamiliar yen for the first time may already be stressed; their confidence in explaining the options makes a significant difference.
 
 For properties that do accept 外貨, the exchange rate must be checked daily, not quoted from memory. Many hotels and ryokan post the day's accepted rates near the front desk so guests can verify amounts themselves, which reduces questions and speeds up checkout. If the property does not handle 外貨 directly, staff should know the nearest 両替所 or ATM for foreign cards so they can give specific directions rather than a vague "there is one nearby."
-## Example Sentences
 
 外貨でのお支払いを承っております。
 <small>*Gaika de no oshiharai o uketamatteotte orimasu.*</small>
 We accept payment in foreign currency.
 
+
 本日お取り扱いできる外貨の種類はこちらになります。
 <small>*Honjitsu otoriatsukai dekiru gaika no shurui wa kochira ni narimasu.*</small>
 The foreign currencies we can handle today are as follows.
+
 
 外貨でのお支払いの場合、本日の為替レートを適用いたします。
 <small>*Gaika de no oshiharai no baai, honjitsu no kawase reeto o tekiyou itashimasu.*</small>

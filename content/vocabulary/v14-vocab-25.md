@@ -7,8 +7,6 @@ title: 料金表 (ryoukinhyou)
 
 Hotel and concierge staff regularly field 料金表-related questions from guests who are trying to budget excursions, estimate taxi costs, or choose between transport options. Being able to read a train station's fare map, which is itself a form of 料金表, and explain the right fare for a guest's destination is a practical skill that sets a good concierge apart. For taxi inquiries, knowing the base fare (初乗り料金, hatsunori ryoukin) and the approximate metered cost to popular destinations is useful. A smooth phrase to use is 「こちらに料金表がございますので、ご参照ください」, and offering to walk a guest through the table adds a personal dimension that a digital display cannot match.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | バスの料金表を確認してから乗りました。<br><small>*Basu no ryoukinhyou wo kakunin shite kara norimashita.*</small> | I checked the bus price list before boarding. |

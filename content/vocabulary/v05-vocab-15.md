@@ -7,15 +7,16 @@ title: 会計 (kaikei)
 会計 refers to the bill or the act of settling payment after dining, and more broadly covers financial settlement in a business context. In Japanese hospitality, handling お会計 is a critical moment in the guest experience. It is often the last direct interaction before the guest leaves, and a smooth, accurate, gracious payment process leaves a lasting positive impression. A common error is underestimating this moment, but mistakes or awkwardness at the payment stage can overshadow an otherwise excellent meal.
 
 Staff use 会計 when presenting the bill, directing guests to the cashier, or confirming payment methods. The phrase お会計はこちらで承ります is a standard tableside or cashier expression. Staff may also ask お支払い方法はいかがなさいますか after presenting お会計 to move naturally into payment confirmation. Alongside 会計, staff should also know 領収書 (receipt) and 分けて (split), as these come up regularly in billing situations and guests will expect staff to handle them without hesitation
-## Example Sentences
 
 お会計はこちらで承ります。
 <small>*O-kaikei wa kochira de uketamawarimasu.*</small>
 We will take care of the bill here.
 
+
 お会計をお持ちいたします。少々お待ちくださいませ。
 <small>*O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>
 I will bring your bill. Please wait just a moment.
+
 
 お会計はカードでもお支払いいただけます。
 <small>*O-kaikei wa kaado demo o-shiharai itadakemasu.*</small>

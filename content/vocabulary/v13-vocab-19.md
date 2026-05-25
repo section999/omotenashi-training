@@ -7,15 +7,16 @@ title: 相談 (soudan)
 相談 means consultation: sitting down with someone to talk through a problem, a concern, or a decision when staff is not sure how to proceed on their own. It is the third pillar of ホウレンソウ (報告・連絡・相談), and in many ways it is the most important one for newer staff. A front desk associate asking a senior colleague how to handle an unusual guest request, a concierge checking with management before arranging something special for a VIP, a housekeeper pausing to ask a supervisor whether to discard an item left in a guest room -- all of these are 相談 in action. The culture around 相談 actively encourages staff to consult rather than guess.
 
 In Japanese workplaces, the willingness to consult is seen as a sign of professionalism. Staff who try to solve everything alone, without ever consulting, can come across as lacking humility or situational awareness. The phrase ご相談があります (go-soudan ga arimasu, "I have something I would like to consult you about") is a respectful, natural way to approach a superior. Confidentiality is also important: anything discussed during a 相談, whether a guest concern or a personal staff issue, must be handled with discretion
-## Example Sentences
 
 お客様からの特別なリクエストについて、支配人にご相談申し上げました。
 <small>*Okyaku-sama kara no tokubetsu na rikuesuto ni tsuite, shihainin ni go-soudan moushiagemashita.*</small>
 I humbly consulted the general manager regarding the special request from the guest.
 
+
 困ったことがあれば、いつでも気軽にご相談ください。
 <small>*Komatta koto ga areba, itsudemo kidgaru ni go-soudan kudasai.*</small>
 Please feel free to consult us at any time if one encounter a problem.
+
 
 予約の変更に関して、フロントの担当者にご相談いただけますでしょうか。
 <small>*Yoyaku no henkou ni kanshite, furonto no tantousha ni go-soudan itadakemasu deshou ka.*</small>

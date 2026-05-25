@@ -7,8 +7,6 @@ title: 右 (migi)
 
 右 appears in guest-facing directions constantly: pointing guests to a room at the end of a corridor, redirecting them from the elevator lobby, or describing how to reach a nearby attraction on foot. When spoken aloud, staff typically accompany the word with an open-hand gesture to the right. Pointing with a single finger is considered impolite in Japanese professional culture. Combining 右 with distance ("次の角を右に") and a destination ("エレベーターがございます") gives guests complete and comfortable guidance.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 次の角を右に曲がってください。<br><small>*Tsugi no kado wo migi ni magatte kudasai.*</small> | Please turn right at the next corner. |

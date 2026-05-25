@@ -7,8 +7,6 @@ title: 乾燥 (kansou)
 
 In coin-operated laundry rooms, 乾燥 machines are typically separate from washing machines and charge by the cycle or minute. Guests do not always know to ask about dryer settings, so if they bring delicate items, it is a genuine service to bring up the topic first. For valet laundry, standard practice is to confirm with guests whether they prefer machine drying or air drying for items like wool or silk. Getting this right protects both the garment and the hotel's reputation.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 乾燥機は洗濯機の隣にございます。1回200円でご利用いただけます。<br><small>*Kansouki wa sentakuki no tonari ni gozaimasu. Ikkai nihyaku-en de go-riyou itadakemasu.*</small> | The dryer is next to the washing machine. One cycle costs 200 yen. |

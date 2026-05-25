@@ -6,15 +6,16 @@ title: 理解しました (rikai shimashita)
 理解しました (理解しました) means "I have understood" or "I comprehend," formed from the noun 理解 (understanding, comprehension), itself from 理 (reason, logic) and 解 (to untangle, to solve), and the verb する in past polite form. While わかりました (I understand) is the everyday polite acknowledgment of understanding, 理解しました carries a slightly more formal and deliberate tone, implying that the speaker has processed and internalized the information rather than hearing it. In hotel telephone contexts, this distinction matters because using the appropriate register conveys professionalism and reassures guests that their message has been received with care.
 
 理解しました is most naturally used after a guest has explained a complex situation, a special request, a complaint, a detailed instruction, and the staff member wants to confirm full comprehension before proceeding. However, in the most formal hospitality registers, かしこまりました (literally "I humbly receive their instruction") is the gold standard response, especially in luxury hotels. Training staff to use the right acknowledgment phrase in the right context, かしこまりました for formal instructions, 理解しました for confirmation of complex information, and わかりました for routine communication, is a key aspect of telephone etiquette education
-## Example Sentences
 
 ご要望の内容を理解しました。直ちに手配いたします。
 <small>*Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.*</small>
 I have understood the content of your request. I will arrange it immediately.
 
+
 ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。
 <small>*Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.*</small>
 I have understood the details you explained. I will confirm and call you back.
+
 
 状況を理解しましたので、担当部署と調整いたします。
 <small>*Joukyou wo rikai shimashita node, tantou busho to chousei itashimasu.*</small>

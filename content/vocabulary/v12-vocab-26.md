@@ -6,8 +6,6 @@ title: 避難場所 (hinan basho)
 避難場所 refers to an officially designated evacuation area where people must gather when an emergency forces them to leave a building. In Japanese hospitality, knowledge of the 避難場所 is a fundamental duty of every staff member, as hotel guests are unfamiliar with the property layout and depend entirely on staff guidance during crises. These areas are typically located at a safe distance from the building, such as a car park, open courtyard, or public park, and are marked on evacuation maps posted in guest rooms and corridor fire-safety panels. 避難 (hinan) means "to take refuge or evacuate," while 場所 (basho) means "place," making the compound clear even to guests with limited Japanese. Staff must be able to communicate the location of the nearest 避難場所 verbally, on foot, and through signage in multilingual formats where possible.
 
 Staff should memorize the 避難場所 for their assigned floor or section and rehearse the evacuation route during regular drills. During an actual emergency, the priority is to guide guests calmly and efficiently without creating panic; phrases such as こちらへどうぞ (please come this way) combined with clear gestures are more effective than lengthy verbal explanations under stress. Once at the 避難場所, a roll call using the guest list or room assignment records allows staff to confirm that all guests are accounted for. Cooperation with fire wardens, local authorities, and emergency services at the 避難場所 is essential for an organized response
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 火災の際は、速やかに最寄りの避難場所へお移りください。<br><small>*Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.*</small> | In case of fire, please move immediately to the nearest evacuation area. |

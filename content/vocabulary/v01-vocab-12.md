@@ -10,8 +10,6 @@ What separates excellent guiding from adequate guiding in Japanese hospitality i
 
 During the walk itself, the guiding staff member typically walks slightly ahead and to the side of the guest (never too far ahead), announces doorways and steps before the guest encounters them (*shitsurei itashimasu, kaidan de gozaimasu*, "excuse me, there are stairs"), and pauses at the destination to confirm arrival. The physical dimension of guiding is itself part of the hospitality experience, not merely a way to get from one place to another
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらへどうぞ。お部屋までご案内いたします。<br><small>*Kochira e dōzo. O-heya made go-annai itashimasu.*</small> | Please come this way. I will show you to the room. |

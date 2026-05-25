@@ -7,15 +7,16 @@ title: 接続 (setsuzoku)
 接続 is built from the characters for "contact/join" (接) and "continue/link" (続), together conveying the idea of establishing a continuous link. In hotel service, staff will encounter this word most often when a guest needs help connecting a smartphone, laptop, or tablet to the property's Wi-Fi. Knowing 接続 and the vocabulary around it lets one walk guests through the process step by step, which reduces frustration and leaves a positive impression of the stay.
 
 Practical guidance centers on the connection steps themselves. staff might say 「画面のWi-Fi設定をお開きください」 (please open their device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, staff check in with 「接続はできましたか？」 (were one able to connect?). If the problem persists after those steps, staff offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first staff do not work
-## Example Sentences
 
 接続方法をご案内いたしますので、少々お待ちください。
 <small>*Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.*</small>
 I will guide you on how to connect, so please wait just a moment.
 
+
 Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。
 <small>*Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*</small>
 If the Wi-Fi connection is not working, please turn off your device once and try again.
+
 
 お客様のお部屋では接続が安定しているか、担当者が確認いたします。
 <small>*O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*</small>

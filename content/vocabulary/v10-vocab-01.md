@@ -6,8 +6,6 @@ title: 支払い方法 (shiharai houhou)
 支払い方法 reads as "method of payment" and covers all the ways a guest can settle their bill: cash (現金), credit or debit card (クレジットカード), electronic wallets (電子決済), and bank transfer (銀行振込). In Japanese hospitality, proactively informing guests which options are available is considered basic professionalism, as it prevents awkward surprises at checkout. Japan is still a cash-heavy society in many regional contexts, yet digital payments are spreading. Staff need to know exactly which methods their property accepts.
 
 This phrase comes up most when a guest is about to pay or when explaining booking conditions. Front desk staff should list the accepted 支払い方法 clearly at the start of checkout rather than waiting to be asked. With international guests, confirming which card brands or payment apps are accepted in advance saves time and avoids declined transactions. Many properties post a sign, but a verbal confirmation raises the service standard.
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 本日ご利用いただける支払い方法は、現金、クレジットカード、電子決済の三種類でございます。<br><small>*Honjitsu go-riyou itadakeru shiharai houhou wa, genkin, kurejitto kaado, denshi kessai no sanshu rui de gozaimasu.*</small> | The payment methods available today are cash, credit card, and electronic payment: three options in total. |

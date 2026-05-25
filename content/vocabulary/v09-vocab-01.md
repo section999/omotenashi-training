@@ -7,15 +7,16 @@ title: 予約番号 (yoyaku bangou)
 予約番号 is the unique numeric or alphanumeric identifier assigned to every reservation at the time of booking. In Japanese hospitality operations, it serves as the primary lookup key in the property management system, letting staff pull up a complete guest profile, including stay dates, room type, meal plan, and special requests, within seconds. This is important because many guests share common surnames. A name-only search can return multiple records, and choosing the wrong one creates problems down the line. The 予約番号 cuts through that ambiguity efficiently. Its importance is reinforced by omotenashi culture, where swift and accurate service is understood as a direct expression of care for the guest.
 
 When a guest contacts the hotel by phone, email, or in person, asking for the 予約番号 before making any changes or confirmations is standard practice. The number appears on booking confirmation emails, OTA (online travel agency) booking slips, and hotel-issued vouchers, so guests are generally expected to have it handy. Staff should phrase the request using the polite humble form: ご予約番号をお知らせいただけますでしょうか. However, some guests will not have it, and in those cases staff shift to secondary verification methods such as name, arrival date, and contact information. Asking for the number first prioritizes efficiency
-## Example Sentences
 
 ご予約番号をお知らせいただけますでしょうか。
 <small>*Go-yoyaku bangou o oshirase itadakemasu deshou ka.*</small>
 Could you please provide your reservation number?
 
+
 予約番号は確認メールに記載されております。
 <small>*Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.*</small>
 Your reservation number is listed in the confirmation email.
+
 
 予約番号をもとにご予約内容を確認いたします。
 <small>*Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.*</small>

@@ -7,8 +7,6 @@ title: 道案内 (michi annai)
 
 When giving 道案内, the most effective approach is to anchor directions to landmarks rather than compass points or distances alone. Pointing someone north when they do not know which way is north does not help anyone. Using the convenience store on the corner, the red torii gate, or the big department store: these are the reference points guests can see and follow. A common error is to underestimate how much a hand-drawn map or a note with station names in both Japanese and romaji can mean to a foreign guest. That small extra step turns a transaction into genuine hospitality. If the destination is close enough, offering 「ご案内いたします」 and walking the guest there personally represents the highest form of this service.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ご到着の際、駅からホテルまでの道案内をフロントにてご案内いたします。<br><small>*Go-touchaku no sai, eki kara hoteru made no michi annai wo furonto nite go-annai itashimasu.*</small> | Upon arrival, we will provide directions from the station to the hotel at the front desk. |

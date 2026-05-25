@@ -8,15 +8,15 @@ title: 案内板 (annaiban)
 
 Knowing how to use 案内板 as a service tool is useful for staff. When a guest asks which floor the restaurant is on, a skilled staff member does not just answer verbally and send the guest off. They say フロアの施設は案内板でご確認いただけます, walk the guest over to the board, and briefly point out the relevant section. That thirty-second moment of guidance empowers the guest to find answers on their own for the rest of the stay. In event-heavy hotels, the 案内板 also carries real-time information: banquet hall assignments, wedding reception schedules, and conference room postings are updated daily, making it a reference point that both guests and staff check throughout the day.
 
-## Example Sentences
-
 エレベーターの横にございます案内板をご確認ください。各フロアの施設が一覧でご覧いただけます。
 <small>*Erebeetaa no yoko ni gozaimasu annaiban wo go-kakunin kudasai. Kaku-furoa no shisetsu ga ichiran de go-ran itadakemasu.*</small>
 Please check the information board by the elevator. You can see a full list of facilities on each floor.
 
+
 本日のご宴会場のご案内は、ロビーの案内板をご参照ください。
 <small>*Honjitsu no go-enkaijou no go-annai wa, robii no annaiban wo go-sanshou kudasai.*</small>
 For today's banquet hall information, please refer to the information board in the lobby.
+
 
 ご不明の点は案内板をご覧いただくか、フロントデスクのスタッフにお申し付けください。
 <small>*Go-fuumei no ten wa annaiban wo go-ran itadaku ka, furonto desuku no sutaffu ni o-moushitsuke kudasai.*</small>

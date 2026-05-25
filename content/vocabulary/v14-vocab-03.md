@@ -6,15 +6,16 @@ title: パスポート確認 (pasupoto kakunin)
 パスポート確認 is the process of verifying a guest's passport at check-in, and in Japan it is not optional: hotels are legally required to record the passport information of foreign nationals at the time of arrival. The job involves checking that the passport is valid and not expired, that the visa status is consistent with the guest's stay, and that the name on the booking matches the document. The legal requirement is non-negotiable, but how staff carry it out absolutely is, and doing it with warmth and professionalism distinguishes a smooth check-in from one that leaves a guest feeling interrogated.
 
 The small details of how staff handle the document matter as much as the check itself. Receiving and returning the passport with both hands is standard Japanese service etiquette and signals respect. Staff should explain clearly why they need to see the passport and reassure the guest that the information is collected purely for legal registration, not stored for any other purpose. If a property sees a lot of international guests, a multilingual card at the front desk explaining the process in a few languages is a simple touch that can prevent a lot of awkward moments
-## Example Sentences
 
 チェックインの際に、外国のお客様にはパスポート確認をお願いしております。
 <small>*Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.*</small>
 We ask foreign guests to undergo a passport check at the time of check-in.
 
+
 パスポート確認は法律上の義務ですので、ご協力をお願いいたします。
 <small>*Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*</small>
 Passport verification is a legal requirement, so we appreciate your cooperation.
+
 
 フロントスタッフはパスポート確認の後、情報を台帳に記入します。
 <small>*Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*</small>

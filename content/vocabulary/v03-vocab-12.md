@@ -6,15 +6,16 @@ title: シーツ (sheets)
 シーツ refers to bed sheets, the fitted and flat linens that cover the mattress and lay over the sleeper. In Japanese hotel operations, シーツ are changed between every guest stay as standard, and on request during longer stays. Cleanliness standards around linens are high in Japanese hospitality, and guests notice when something is not right. Stained, wrinkled, or poorly made beds are among the most common complaints in hotel reviews, reflecting how seriously guests take this aspect of the room.
 
 Guests on extended stays may request シーツ交換 mid-stay, and when they do, it should be handled immediately using シーツを交換いたします. Some eco-conscious or boutique properties now offer guests the option to skip daily sheet changes as part of a sustainability programme. If their property has that policy, staff should be ready to explain it clearly; guests who ask about their sheets should receive a direct, honest answer
-## Example Sentences
 
 シーツを清潔なものにお取り替えいたします。少々お時間をいただけますでしょうか。
 <small>*Shiitsu wo seiketsu na mono ni o-torikae itashimasu. Shoushou o-jikan wo itadakemasu deshou ka?*</small>
 We will change your sheets to fresh ones. May we have just a moment?
 
+
 ご希望でしたら、毎日シーツを交換することも可能でございます。
 <small>*Go-kibou deshitara, mainichi shiitsu wo koukan suru koto mo kanou de gozaimasu.*</small>
 If you wish, we can change your sheets every day.
+
 
 ただいまシーツの交換が完了いたしました。ご不便をおかけし、大変申し訳ございませんでした。
 <small>*Tadaima shiitsu no koukan ga kanryou itashimashita. Go-fuben wo o-kake shi, taihen moushiwake gozaimasen deshita.*</small>

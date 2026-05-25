@@ -6,15 +6,16 @@ title: 従業員 (juugyouin)
 従業員 is the standard term for an employee in Japanese business and hospitality settings. It carries a formal, institutional tone and covers everyone from front-desk clerks and concierge staff to kitchen workers and housekeeping teams. The word matters under Japanese labour law, because who counts as a 従業員 determines entitlements to wages, benefits, and legal protections. This is not just an HR abstraction; managers working in hotels need to understand this.
 
 In day-to-day operations, 従業員 is the word managers use when writing rosters, drafting internal memos, or conducting performance reviews. Staff rarely use it to describe themselves in conversation, however. Humble role titles feel more natural in those situations. Guests might hear it when a manager addresses the team collectively, and new hires will encounter it constantly during onboarding
-## Example Sentences
 
 ホテルの従業員は毎日チェックイン業務を行います。
 <small>*Hoteru no juugyouin wa mainichi chekku-in gyoumu o okonaimasu.*</small>
 Hotel employees handle check-in duties every day.
 
+
 新しい従業員は来週から研修を受けます。
 <small>*Atarashii juugyouin wa raishuu kara kenshuu o ukemasu.*</small>
 The new employees will attend training starting next week.
+
 
 全ての従業員はお客様への対応マニュアルを熟読してください。
 <small>*Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.*</small>

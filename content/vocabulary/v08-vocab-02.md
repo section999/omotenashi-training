@@ -7,8 +7,6 @@ title: 左 (hidari)
 
 Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Combining 左 with a polite locating phrase such as 左にございます or 左側でございます, and adding a distance cue like 突き当たりの左 or 二つ目の扉の左, makes the instruction complete. When accompanying a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension more than words alone
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 入口は左側にございます。<br><small>*Iriguchi wa hidari-gawa ni gozaimasu.*</small> | The entrance is on the left side. |

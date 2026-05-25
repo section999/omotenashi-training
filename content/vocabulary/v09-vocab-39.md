@@ -7,8 +7,6 @@ title: 締切 (shimekiri)
 
 Staff should pair 締切 with an exact date and time to eliminate ambiguity. A phrase such as キャンセル無料の締切は〇月〇日の午後三時でございます gives the guest a concrete target. When guests are close to a deadline, proactive communication is essential; reaching out a day or two in advance demonstrates attentiveness. If a guest misses a 締切, staff should explain the consequence calmly and clearly while exploring any alternatives the property's policy may allow, such as partial refunds or rescheduling options.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | キャンセル無料の締切は明日の正午でございます。<br><small>*Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.*</small> | The deadline for free cancellation is tomorrow at noon. |

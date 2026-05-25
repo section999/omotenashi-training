@@ -7,15 +7,16 @@ title: 非常口 (hijouguchi)
 非常口 combines 非常 (hijou, emergency or extraordinary situation) with 口 (guchi, opening or exit), and it is the standard term for "emergency exit" on signage and safety cards throughout Japan. The green running-figure pictogram is recognized nationwide, and the word itself appears on every fire safety sign, evacuation route map, and hotel in-room safety card. This vocabulary is essential for professional use: knowing where every 非常口 is on every floor staff work on, and being able to communicate that clearly, is a professional baseline. Staff who cannot answer a guest's question about emergency exits need further training.
 
 The cultural weight of proactive safety communication in Japanese hospitality is significant. Telling a guest 非常口の場所はこちらでございます during check-in or room orientation reflects both legal responsibility and genuine care for the person in front of one. Guests receive this information calmly and appreciate it. A panicked guest who has never been told where the 非常口 is faces a much more dangerous situation than one who already knows. Proactive communication is both professional and responsible. Staff should familiarize themselves with the evacuation route (避難経路) from each exit as well, so they can guide someone if an emergency occurs
-## Example Sentences
 
 非常口は廊下の突き当たり、右手にございます。火災の際はこちらからお逃げください。
 <small>*Hijouguchi wa rouka no tsukiatari, migite ni gozaimasu. Kasai no sai wa kochira kara o-nige kudasai.*</small>
 The emergency exit is at the end of the corridor on the right. In the event of a fire, please evacuate from here.
 
+
 ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。
 <small>*Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.*</small>
 For your safety during the stay, we recommend confirming the location of emergency exits on each floor.
+
 
 こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。
 <small>*Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.*</small>

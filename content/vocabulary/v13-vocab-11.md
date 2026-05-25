@@ -7,15 +7,16 @@ title: 残業 (zangyou)
 残業 means overtime, work carried out beyond standard contracted hours. The kanji reflects this: 残 means "remaining" and 業 means "work or duty," so it literally describes work left over after regular hours. In hospitality, 残業 is a familiar reality. End-of-shift handovers that run long, unexpected guest situations, event overruns, or sudden staff shortages can all push employees past their scheduled finish time. Japanese labour law requires that 残業 be compensated at a premium rate, typically 25% above the base hourly wage, and unchecked overwork has become a serious social and workplace health issue in Japan in recent decades.
 
 Management in hotels and ryokan has to balance genuine operational flexibility with a legal and ethical responsibility to prevent overwork. Many modern hospitality employers are implementing stricter 残業 monitoring and encouraging staff to finish within shift time whenever possible. For employees, an important practice to develop early is getting supervisor approval before starting 残業, rather than working the extra hours and reporting it after the fact. A common error is underestimating the importance of that pre-approval step in a Japanese workplace
-## Example Sentences
 
 今日は残業で夜9時まで働きました。
 <small>*Kyou wa zangyou de yoru kuji made hatarakimashita.*</small>
 I worked overtime until 9 PM today.
 
+
 大型連休前は予約が集中するため、残業が増えることがあります。
 <small>*Oogata renkyuu mae wa yoyaku ga shuuchuu suru tame, zangyou ga fueru koto ga arimasu.*</small>
 Overtime tends to increase before major holiday periods due to a concentration of reservations.
+
 
 残業をする場合は事前に上司の承認を得てください。
 <small>*Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*</small>

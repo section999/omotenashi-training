@@ -7,8 +7,6 @@ title: トイレ (toilet)
 
 In a hospitality context, トイレ comes up most often when guests ask for directions or when staff explain room layout at check-in: 「トイレはこちらでございます」 (the toilet is this way) or 「お手洗いはエレベーターの隣にございます」 (the restroom is next to the elevator). Staff should combine verbal direction with a gesture, pointing or gently indicating the direction, as this is consistent with Japanese hospitality etiquette. In some hotels, the toilet is a separate room from the bath, and clarifying this to guests unfamiliar with that layout is an important part of room orientation.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | トイレはこちらでございます。<br><small>*Toire wa kochira de gozaimasu.*</small> | The restroom is this way. |

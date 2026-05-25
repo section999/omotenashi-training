@@ -7,15 +7,16 @@ title: 寒い (samui)
 寒い is an i-adjective meaning cold or chilly, and it is one of the fundamental comfort complaints a guest can make. How quickly and thoughtfully staff respond to it reflects directly on the quality of the hotel's attentiveness. Cold discomfort tends to be taken especially seriously in winter months and in traditional ryokan settings, where the gap between a heated common room and a cooler private room can feel quite sharp. Elderly guests, guests from warm climates, and guests with certain medical conditions may be more sensitive to cold than others, so staff should not wait for a second complaint before acting.
 
 Responses can range from adjusting the heating system, to offering extra blankets (毛布, moufu), to providing a hot-water bottle (湯たんぽ, yutanpo), which guests at traditional inns appreciate. Warm beverages are another welcome gesture. At premium properties, anticipating cold complaints before they arise, by pre-warming rooms in winter, for instance, is considered excellent service. That kind of proactive thinking comes from staff who understand what their guests will need before they have to ask
-## Example Sentences
 
 お寒いとのことで、毛布をお持ちいたします。少々お待ちくださいませ。
 <small>*O-samui to no koto de, moufu wo o-mochi itashimasu. Shoushou omachi kudasaimase.*</small>
 As one is feeling cold, we will bring you a blanket. Please wait just a moment.
 
+
 暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。
 <small>*Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.*</small>
 Shall we change the heating settings? Could you tell us your preferred temperature?
+
 
 寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。
 <small>*Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.*</small>

@@ -7,15 +7,16 @@ title: 朝食 (choushoku)
 朝食 is the formal word for breakfast, and in the hotel environment it carries weight. The morning meal is often the first full sensory experience a guest has of the property after a night's sleep, and it shapes the emotional tone of their day. Whether their hotel serves a traditional Japanese set (和朝食), a Western buffet (洋朝食), or both, the breakfast offering reflects the property's identity. Thorough familiarity with the menu contents, including any allergy accommodations or dietary variations, is needed so that guest questions can be answered promptly and confidently. A smooth, well-informed breakfast conversation at check-in is one of those small things that quietly builds a guest's trust in the whole property.
 
 Staff should not wait for guests to ask about breakfast. The key details should be shared proactively during check-in: start and end times, location, and whether it is included in the room rate. Mentioning the start time but not the end time is a common omission that leads to guests arriving after service has closed, an avoidable frustration. If a guest has a dietary requirement, staff should liaise with the kitchen in advance and let the guest know it has been taken care of. In ryokan settings, 朝食 is often served in the guest room or a dedicated tatami dining hall, so the guidance staff give will differ from a standard hotel
-## Example Sentences
 
 朝食は7時より1階レストランにてご用意しております。
 <small>*Choushoku wa shichi-ji yori ikkai resutoran nite go-youi shite orimasu.*</small>
 Breakfast is prepared in the first-floor restaurant from 7:00 a.m.
 
+
 ご朝食はお部屋代に含まれております。
 <small>*Go-choushoku wa o-heya-dai ni fukumarete orimasu.*</small>
 Breakfast is included in the room rate.
+
 
 ご朝食のご希望のお時間をお教えいただけますでしょうか。
 <small>*Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.*</small>

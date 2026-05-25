@@ -6,15 +6,16 @@ title: おすすめ (osusume)
 おすすめ means a recommendation, a genuine suggestion offered to help someone make a good choice. In hospitality work, it is one of the most useful words staff will use daily, because when a guest asks おすすめはありますか? they are not just asking for information: they are inviting staff to share their knowledge and personality. A thoughtful おすすめ, whether for a dish, a nearby attraction, a transport route, or a cultural experience, tells the guest that the person in front of them is engaged and invested in making their stay good. That is a very different feeling from pointing at a brochure stand.
 
 In restaurant settings, the おすすめ is often written on a small daily board or mentioned by servers at the start of a meal, typically reflecting seasonal ingredients or the chef's current specialty. In a hotel or ryokan, a staff おすすめ might be a particular garden path that is stunning at dusk, a local izakaya that regulars love but tourists rarely find, or the specific time on a weekday morning when the famous shrine is completely quiet. The best おすすめ are personal, specific, and delivered with genuine enthusiasm. A common error is to default to repeating what is on the printed map when asked, but that misses the whole point: guests are asking staff because they want their opinion, not the pamphlet's
-## Example Sentences
 
 本日のおすすめは、地元の新鮮な魚介類を使った会席料理でございます。
 <small>*Honjitsu no osusume wa, jimoto no shinsen na gyokai rui wo tsukatta kaiseki ryouri de gozaimasu.*</small>
 Today's recommendation is a kaiseki course featuring fresh local seafood.
 
+
 この時期のおすすめの観光地は、紅葉が美しい〇〇公園でございます。
 <small>*Kono jiki no osusume no kankouchi wa, kouyou ga utsukushii ○○ kouen de gozaimasu.*</small>
 The recommended tourist spot for this season is ○○ Park, where the autumn foliage is beautiful.
+
 
 スタッフおすすめの近くのカフェをご紹介いたしましょうか。
 <small>*Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.*</small>

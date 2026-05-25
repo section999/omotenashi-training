@@ -7,15 +7,15 @@ title: 利用時間 (riyou jikan)
 
 Staff should not simply wait to be asked. If a guest arrives at the lobby at 11 PM and mentions wanting to use the gym, the team should bring up 利用時間 before the guest walks over and finds a locked door. The phrasing is typically constructive and polite: 「当施設のプールの利用時間は午前6時より午後10時までとなっております」 (Our pool is available from 6 AM until 10 PM). Note: some facilities have different hours on weekdays versus weekends, or during peak seasons, and guests do ask. Staff should know their property's schedule in detail -- front desk staff who hesitate on this question do not leave a confident impression.
 
-## Example Sentences
-
 館内ランドリーの利用時間は午前7時から午後11時までとなっております。
 <small>*Kannai randorii no riyou jikan wa gozen shichi-ji kara gogo juuichi-ji made to natte orimasu.*</small>
 The in-house laundry room is available from 7 AM to 11 PM.
 
+
 フィットネスセンターの利用時間をご確認のうえ、お越しください。
 <small>*Fittonesu sentaa no riyou jikan wo go-kakunin no ue, o-koshi kudasai.*</small>
 Please confirm the fitness centre's usage hours before visiting.
+
 
 お荷物の一時保管は利用時間内でのみ承っております。
 <small>*O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.*</small>

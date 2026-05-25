@@ -10,8 +10,6 @@ In Japanese hospitality, the manner of the apology matters as much as the words.
 
 *Moushiwake gozaimasen* is different from lighter expressions. It is used when something has gone wrong, a room not ready, a reservation lost, a meal incorrect, an unreasonable wait. For minor social intrusions (interrupting briefly to ask a question), *shitsurei itashimasu* or *sumimasen* are more appropriate. Reaching for the deepest apology for every small moment dilutes its meaning when one needs it
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 誠に申し訳ございません。ご不便をおかけいたしました。<br><small>*Makoto ni moushiwake gozaimasen. Go-fuben wo o-kake itashimashita.*</small> | I am truly very sorry. We have caused you inconvenience. |

@@ -6,8 +6,6 @@ title: 案内 (annai)
 案内 means guidance, direction, or the act of escorting someone to where they need to go. In Japanese hospitality it covers both physical escorting, such as walking a guest from the front desk to their room, and verbal direction, such as explaining where the restaurant or the elevator is. 案内 is not just functional; it anticipates what the guest needs to know, delivers that information before they have to ask, and leaves them feeling looked after rather than redirected.
 
 案内 appears across almost every part of a hotel interaction. Staff use it when escorting a guest to their room at check-in (お部屋へご案内いたします), when directing them to a facility (レストランへご案内いたします), when introducing the property layout (施設をご案内いたします), or when offering local area information. A key practice is walking with the guest whenever possible, rather than pointing down a corridor. Even when physical escorting is not practical, verbal 案内 should be clear and complete, paired with a gesture that leaves no room for confusion
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お部屋へご案内いたします。こちらへどうぞ。<br><small>*O-heya e go-annai itashimasu. Kochira e dōzo.*</small> | I will show you to the room. This way, please. |

@@ -7,15 +7,16 @@ title: 返金 (henkin)
 返金 means returning money to a guest: a refund. It comes up most often after a cancellation, a billing error, an overpayment, or a service that wasn't delivered as promised. The guest arriving at a 返金 conversation is rarely in a cheerful mood. How one handles it will either restore their confidence in the establishment or make things worse. A transparent, prompt, well-explained 返金 process can leave a guest feeling more positively about the property than before the problem occurred.
 
 When processing a 返金, confirm three pieces of information before proceeding: the eligible amount (based on their cancellation policy or the billing correction), the return method (back to the original card, by bank transfer, or in cash), and the timeline (〇営業日以内に返金いたします). Giving all three in one clear statement prevents the follow-up calls that happen when guests are left wondering how much they will receive or when. When a card refund will take several business days, providing written confirmation of the 返金 details gives the guest a reference while they wait
-## Example Sentences
 
 キャンセルポリシーに基づき、〇〇円を返金いたします。
 <small>*Kyanseru porishii ni motozuki, 〇〇-en o henkin itashimasu.*</small>
 Based on the cancellation policy, we will refund 〇〇 yen.
 
+
 返金は〇営業日以内にお客様のカードへご返金いたします。
 <small>*Henkin wa 〇 eigyou-bi inai ni okyakusama no kaado e go-henkin itashimasu.*</small>
 The refund will be returned to your card within 〇 business days.
+
 
 請求誤りのため、差額を返金させていただきます。
 <small>*Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.*</small>

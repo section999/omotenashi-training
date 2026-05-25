@@ -6,15 +6,16 @@ title: 対応中 (taiou chuu)
 対応中 means "currently handling" or "currently being addressed," and it tells the guest that their request is actively moving forward rather than forgotten. In Japanese hospitality, a guest should never have to wonder what is happening with their request. That uncertainty erodes trust, even when staff are working hard behind the scenes.
 
 対応中 appears in phone calls (ただいま対応中でございます), on internal status boards, and during shift handovers. An important skill is pairing the status update with a time estimate: ただいま対応中でございます、あと〇分ほどでご連絡いたします (currently being handled; we will contact one in approximately X minutes). That combination of status and timeframe distinguishes a professional response from a vague one. A guest who knows "ten more minutes" will wait patiently; a guest who hears only "we are handling it" will start to worry
-## Example Sentences
 
 ご依頼は現在対応中です。もう少々お待ちください。
 <small>*Goirai wa genzai taiouchuu desu. Mou shoushou omachi kudasai.*</small>
 Your request is currently being handled. Please wait just a little longer.
 
+
 ただいま対応中でございます。あと10分ほどでご連絡いたします。
 <small>*Tadaima taiouchuu de gozaimasu. Ato juppun hodo de go-renraku itashimasu.*</small>
 It is currently being handled. We will contact you in approximately 10 minutes.
+
 
 フロントにて対応中のため、担当者が席を外しております。
 <small>*Furonto nite taiouchuu no tame, tantousha ga seki wo hazashite orimasu.*</small>

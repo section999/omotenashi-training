@@ -7,15 +7,16 @@ title: エスカレーター (esukareetaa)
 エスカレーター is the standard Japanese term for escalator, borrowed directly from English, and it is one of three vertical transport options staff will direct guests to alongside エレベーター (elevator) and 階段 (stairs). For most guests moving between adjacent floors with no heavy luggage, the エスカレーター is a natural recommendation. The word itself is not complicated; the skill is in choosing appropriately. Before pointing to the escalator, staff should consider the guest: whether they have large bags, a stroller, a cane, or mobility concerns. If so, the エレベーター is the better suggestion, and offering it proactively distinguishes attentive service from accurate service.
 
 Direction-giving for エスカレーター needs to include which direction it is traveling, not just where it is. In a multi-floor hotel or shopping center, up escalators (上り, nobori) and down escalators (下り, kudari) are usually in different locations. 上りのエスカレーターはこちらでございます and 下りのエスカレーターはあちらにございます are the phrasing patterns to practice. Staff should add 足元にお気をつけください (please watch their step) and, for elderly guests or families with children, 手すりにお掴まりください (please hold the handrail). These additions demonstrate consideration for the guest
-## Example Sentences
 
 上りのエスカレーターは正面にございます。足元にお気をつけください。
 <small>*Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.*</small>
 The up escalator is straight ahead. Please watch your step.
 
+
 大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。
 <small>*Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.*</small>
 As you have large luggage, we recommend using the elevator rather than the escalator.
+
 
 ショッピングフロアへは、こちらのエスカレーターで3階までお上がりください。
 <small>*Shoppingu furoa e wa, kochira no esukareetaa de san-kai made o-agari kudasai.*</small>

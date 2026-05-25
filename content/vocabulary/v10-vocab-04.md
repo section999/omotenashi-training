@@ -6,8 +6,6 @@ title: 前払い (maebarai)
 前払い means paying for a service before receiving it, and it appears in Japanese hospitality for special rates, non-refundable booking plans, and online reservations through travel portals. Hotels and ryokan offering early-bird discounts or prepaid packages use 前払い to secure the booking and protect against last-minute cancellations. For guests, prepaying confirms the reservation is locked and often unlocks a lower rate. Staff need to communicate the payment deadline clearly along with accepted methods; leaving either detail vague often causes problems later.
 
 前払い is processed at booking (online or by phone) or by a set deadline before check-in. Front desk staff must verify on arrival that the 前払い has been received and recorded before granting room access. When a prepayment has not arrived by the deadline, proactively calling the guest to resolve it is the professional expectation. Failing to follow up risks the reservation falling through.
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。<br><small>*Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*</small> | This plan requires prepayment. Please complete payment within five days of confirming your reservation. |

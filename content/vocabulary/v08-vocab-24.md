@@ -6,15 +6,16 @@ title: 約 (yaku)
 約 (約) means "approximately" or "about" and functions as a prenominal modifier placed before numbers to indicate that the figure is an estimate rather than a precise measurement. In the high-expectation environment of Japanese hospitality, guests are conditioned by decades of service culture to expect accuracy, which means that when a number cannot be exact, the proper professional response is to qualify it with 約 rather than either guessing precisely or refusing to answer. This word sets realistic expectations, signals that the speaker is considering the guest's needs, and reduces complaints based on timing discrepancies.
 
 約 appears throughout hospitality communication wherever estimates are necessary: 駅まで徒歩約10分です (approximately 10 minutes on foot to the station), お部屋の準備に約30分いただけますでしょうか (may we have approximately 30 minutes to prepare their room), or ご夕食は約2時間のコースでございます (dinner is approximately a 2-hour course). Staff should give an accurate estimate, use 約 to acknowledge natural variation, and then follow up if the actual time differs from the estimate
-## Example Sentences
 
 駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。
 <small>*Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.*</small>
 It is approximately a 10-minute walk to the station. There are several traffic lights, so please allow extra time.
 
+
 お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。
 <small>*Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.*</small>
 May we have approximately 30 minutes to prepare the room? We would appreciate it if one could wait in the lobby.
+
 
 夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。
 <small>*Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*</small>

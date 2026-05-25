@@ -7,15 +7,16 @@ title: 担当部署 (tantou busho)
 担当部署 is the team or division specifically responsible for a particular type of inquiry or service. This should be kept separate from 担当者, which points to an individual: 担当部署 points to the whole group, whether that is the reservations department, the banquet team, or facilities management. In a large hotel with many specialized departments, sending a call to the wrong 担当部署 means the guest has to repeat their entire question from scratch, which reflects poorly on the hotel's operations.
 
 When transferring a caller, the 担当部署 should be named first. Saying 予約担当部署におつなぎいたします tells the guest exactly who will pick up and gives them confidence. Compare that with saying 転送いたします: one shows the staff member understood the guest's need, while the other sounds like simply passing the call along. Guests who hear a specific department name tend to relax, because it tells them someone with the right expertise is waiting
-## Example Sentences
 
 この件はレストランの担当部署にご確認いただく必要がございます。
 <small>*Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.*</small>
 This matter will need to be confirmed with the restaurant department.
 
+
 宴会担当部署にお電話をおつなぎいたします。
 <small>*Enkai tantō busho ni odenwa wo otsunagi itashimasu.*</small>
 I will transfer your call to the banquet department.
+
 
 担当部署より折り返しご連絡いたします。
 <small>*Tantō busho yori orikaeshi gorenraku itashimasu.*</small>

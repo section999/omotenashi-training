@@ -7,15 +7,15 @@ title: 退勤 (taikin)
 
 Many hotels and ryokan require staff to record their 退勤 time using a time-stamp system for accurate payroll and legal compliance. It's also standard practice to report to their 上司 before 退勤 if anything remains unresolved. Leaving without completing those steps, even if the clock technically says their shift is over, would be seen as irresponsible. Proper 退勤 reflects respect for the organisation and for the next shift's team.
 
-## Example Sentences
-
 午後6時に退勤しました。
 <small>*Gogo rokuji ni taikin shimashita.*</small>
 I left work at 6 PM.
 
+
 退勤前に必ず引き継ぎ事項を同僚に伝えてください。
 <small>*Taikin mae ni kanarazu hikitsugi jikou o douryou ni tsutaete kudasai.*</small>
 Please be sure to inform your colleague of handover items before leaving.
+
 
 タイムカードを退勤時に押し忘れた場合は、すぐに上司に報告してください。
 <small>*Taimu-kaado o taikin-ji ni oshi-wasureta baai wa, sugu ni joushi ni houkoku shite kudasai.*</small>

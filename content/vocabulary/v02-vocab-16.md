@@ -6,8 +6,6 @@ title: 支払い (shiharai)
 支払い means "payment" and encompasses the act of settling any financial obligation, room charges, dining bills, incidental fees, and more. In the Japanese hospitality industry, payment conversations require particular care because directly requesting money from a guest can feel blunt or transactional. Understanding how to frame 支払い with the right verb forms and honorifics is fundamental to maintaining the respectful, guest-first atmosphere expected at hotels and ryokan. The word itself is neutral, but the phrases surrounding it convey the level of professionalism.
 
 In a hospitality context, staff most often encounter 支払い at check-out, though pre-authorization or full payment at check-in is also common depending on hotel policy. The standard phrasing お支払いはチェックアウト時にお願いいたします sets timing expectations clearly and politely. When multiple payment methods are available, staff follow up with お支払いの方法はいかがなさいますか to invite the guest's preference. Rehearsing these fixed expressions ensures smooth and professional payment interactions
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お支払いはチェックアウトの際にお願いいたします。<br><small>*O-shiharai wa chekku-auto no sai ni o-negai itashimasu.*</small> | We kindly ask that payment be made at the time of check-out. |

@@ -7,15 +7,16 @@ title: 地震 (jishin)
 地震 is an earthquake: the sudden movement of tectonic plates producing ground shaking that can range from a barely noticeable tremor to a destructive seismic event. Japan is one of the most seismically active countries in the world, which means earthquake preparedness is a core professional skill for hospitality workers. Foreign guests in particular may have little or no experience with earthquakes and no instinct for what to do. In those moments, staff members serve as the calm authority. The ability to respond clearly and immediately turns potential panic into orderly, safe action.
 
 When a 地震 occurs, staying calm, using simple and reassuring language with guests, and guiding everyone away from windows and heavy furniture is recommended. Safe zones in the facility should be identified: under sturdy tables, away from shelving. After the shaking stops, a systematic safety check of the building is standard procedure before resuming normal operations. A common error is underestimating this step. Checking for structural damage, gas leaks, and water line issues before allowing guests back into affected areas is expected
-## Example Sentences
 
 地震が起きたら、机の下に隠れてください。
 <small>*Jishin ga okitara, tsukue no shita ni kakurete kudasai.*</small>
 During an earthquake, take cover under a desk.
 
+
 ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。
 <small>*Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.*</small>
 An earthquake has just occurred. Please do not panic: crouch down where one is and protect your head.
+
 
 地震後は安全確認が完了するまで、エレベーターはご利用になれません。
 <small>*Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*</small>

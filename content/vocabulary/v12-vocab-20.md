@@ -7,15 +7,16 @@ title: 非常ベル (hijou beru)
 非常ベル is the emergency bell or alarm, the audible signalling device installed throughout a hotel to alert everyone inside to a developing emergency, most commonly fire. 非常 (hijou) means "emergency" or "extraordinary situation," and ベル (beru) is the loanword for bell. When the 非常ベル sounds, that is the signal to start evacuation procedures immediately, not to pause and wonder whether it might be a drill or a false alarm. In Japanese hotels, fire alarms are interconnected throughout the building and monitored both locally and by the regional fire department, so activation automatically triggers an emergency response chain.
 
 Staff training on the 非常ベル is based on one core principle: treat every activation as real until confirmed otherwise. The standard response involves notifying the duty manager, activating the public address system with evacuation instructions, deploying staff to assigned evacuation posts, and accounting for every guest, including those who may be asleep, have hearing impairments, or are in the bath and may not have heard the alarm. It also means logging every activation, whether genuine or a false alarm, and reporting repeated false activations to the fire authorities for inspection. One detail that is often overlooked: guests should be shown the locations of manual call points (手動式発信機) at check-in, so they know how to trigger the 非常ベル themselves if they discover an emergency before a smoke sensor does
-## Example Sentences
 
 非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。
 <small>*Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*</small>
 When the emergency bell sounds, please leave your belongings and evacuate promptly.
 
+
 非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。
 <small>*Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*</small>
 Even in the event of a false alarm, staff will immediately conduct a safety check.
+
 
 各フロアの非常ベルの位置は、避難経路図でご確認いただけます。
 <small>*Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*</small>

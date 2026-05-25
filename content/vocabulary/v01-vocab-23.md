@@ -13,8 +13,6 @@ In the register hierarchy of acknowledgement phrases:
 
 *Shōchi itashimashita* fits telephone and written contexts well. *Kashikomarimashita* can occasionally feel overly theatrical in those settings. When a guest calls to request a late checkout, a dietary change, or an additional amenity, *shōchi itashimashita, tadaima taiō itashimasu* ("certainly, I will take care of that right now") is precise and professional
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 承知いたしました。ただいまご手配いたします。<br><small>*Shōchi itashimashita. Tadaima go-tehai itashimasu.*</small> | Certainly, understood. I will arrange that right now. |

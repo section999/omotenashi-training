@@ -10,8 +10,6 @@ This phrase is only half of the interaction. The other half is what happens duri
 
 The phrase is equally important in phone contexts. When placing a caller on hold, *shōshō o-machi kudasai* is the standard phrase before the hold begins. The same rule applies: return promptly, and open with *o-matase itashimashita* when staff picks up again.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 少々お待ちください。ただいまご確認いたします。<br><small>*Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.*</small> | Please wait just a moment. I will check on that right now. |

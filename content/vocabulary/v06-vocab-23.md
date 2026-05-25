@@ -7,15 +7,16 @@ title: 対応 (taiou)
 対応 is built from two kanji: 対, meaning "to face" or "to oppose," and 応, meaning "to respond" or "to answer." Together they describe the act of meeting a situation head-on and doing something about it. In Japanese hospitality, 対応 is one of the most valued competencies a staff member can demonstrate. It covers not just the physical action taken, but the speed, attitude, and communication quality that surround it. A guest who receives slow, vague, or dismissive responses is unlikely to return regardless of the property's appearance.
 
 In daily operations, staff will use 対応 broadly. It covers handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is a commitment to both action and speed simultaneously. Following up once the task is done (「対応が完了いたしました」) closes the loop and shows the guest that staff followed through
-## Example Sentences
 
 ご不便をおかけして申し訳ございません。迅速に対応いたします。
 <small>*Go-fuben wo okake shite moushiwake gozaimasen. Jinsoku ni taiou itashimasu.*</small>
 We apologize for the inconvenience. We will respond promptly.
 
+
 ただいま担当者が対応いたしますので、少々お待ちください。
 <small>*Tadaima tantousha ga taiou itashimasu no de, shoushou o-machi kudasai.*</small>
 The person in charge will handle this now, so please wait just a moment.
+
 
 お客様のご要望には、フロントスタッフが24時間対応しております。
 <small>*O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.*</small>

@@ -1,4 +1,4 @@
----
+﻿---
 id: v01-vocab
 section: 1
 title: いらっしゃいませ (irasshaimase)
@@ -10,12 +10,9 @@ This phrase is spoken the moment a guest enters any service space, a hotel lobby
 
 For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. The physical habits, pausing from whatever task was at hand, turning fully toward the guest, making genuine eye contact, take time to develop alongside the spoken word. The phrase should be practiced until it becomes natural, not mechanical
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | いらっしゃいませ。本日はお越しいただきありがとうございます。<br><small>*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*</small> | Welcome. Thank you so much for visiting us today. |
-| いらっしゃいませ。ご予約はいただいておりますでしょうか。<br><small>*Irasshaimase. Go-yoyaku wa itadaite orimasu deshō ka.*</small> | Welcome. Do you have a reservation with us? |
 | いらっしゃいませ。お荷物をお持ちいたします。<br><small>*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*</small> | Welcome. Allow me to carry your luggage. |
 
 ## Related Expressions

@@ -7,15 +7,16 @@ title: シングルルーム (single room)
 シングルルーム is the standard Japanese term for a single room, designating a guest room with one bed for one occupant. In Japanese hotels, a "single" bed is often a semi-double in terms of mattress width, as many properties size up to give solo travellers a more comfortable sleep. For this reason, it is standard practice to mention the bed dimensions separately from the room type when a guest asks, rather than leaving them to guess.
 
 The term is borrowed directly from English and used consistently across hotel chains, booking systems, and brochures. Confirming room types accurately at check-in is an important habit to develop, since misassignments are among the most common causes of guest dissatisfaction. When a guest has booked a シングルルーム but arrives with a companion, the situation should be handled with care and available alternatives should be offered without making anyone feel awkward. Knowing the full range of room types, シングル, ダブル, ツイン, スイート, provides the vocabulary to navigate upgrades and changes
-## Example Sentences
 
 ご予約内容はシングルルーム一泊でございます。
 <small>*Go-yoyaku naiyou wa shinguru-ruumu ippaku de gozaimasu.*</small>
 Your reservation is for a single room, one night.
 
+
 シングルルームにご案内いたします。エレベーターはあちらでございます。
 <small>*Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.*</small>
 I will show you to your single room. The elevator is over there.
+
 
 シングルルームのベッドはセミダブルサイズでございますのでご安心ください。
 <small>*Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.*</small>

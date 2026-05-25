@@ -7,8 +7,6 @@ title: 洗濯 (sentaku)
 
 When explaining 洗濯 options, staff should cover the essentials: whether there is a machine in the room or a shared laundry space, operating hours, and whether detergent is provided. In ryokan settings, guests usually have no direct access to washing machines, so it is worth proactively mentioning the in-house laundry service before they have to ask. Staff often find that offering this information unprompted is one of those small gestures that guests appreciate. Staff should always use polite keigo when discussing laundry requests so that the service feels attentive rather than transactional.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お部屋に洗濯機と乾燥機がございますので、ご自由にご利用ください。<br><small>*O-heya ni sentakuki to kansouki ga gozaimasu no de, go-jiyuu ni go-riyou kudasai.*</small> | Your room has a washing machine and dryer, so please feel free to use them. |

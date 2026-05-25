@@ -7,15 +7,16 @@ title: 苦情 (kujou)
 苦情 (kujou) means a complaint or grievance, and it carries more emotional weight than 問題 or トラブル. When a guest brings a 苦情, they are expressing that something went wrong and feel strongly enough to say so. In Japanese hospitality culture, that is not treated as an attack, it is an opportunity to fix something that might have gone silently wrong for other guests too, and it deserves full sincerity in response.
 
 The omotenashi mindset holds that a guest who complains is still giving the establishment an opportunity to do better. The guest who says nothing and does not return is the harder loss. The sequence when receiving a 苦情 is to listen without interrupting, acknowledge the guest's feelings with an apology, and only then explain what action will be taken. Staff never minimise the complaint or offer excuses before expressing empathy. In larger hotels, 苦情 are documented and reviewed regularly to catch patterns in service breakdowns, and front-line staff are trained to escalate when the issue is beyond their authority to resolve
-## Example Sentences
 
 お客様の苦情を真摯に受け止め、早急に対応いたします。
 <small>*O-kyaku-sama no kujou wo shinshi ni uketome, sakkyu ni taiou itashimasu.*</small>
 We will take your complaint sincerely to heart and respond as quickly as possible.
 
+
 ご苦情をいただきまして、ありがとうございます。改善に努めてまいります。
 <small>*Go-kujou wo itadakimashite, arigatou gozaimasu. Kaizen ni tsutomete mairimasu.*</small>
 Thank you for bringing your complaint to our attention. We will strive to make improvements.
+
 
 苦情内容を詳しくお聞かせいただけますでしょうか。
 <small>*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.*</small>

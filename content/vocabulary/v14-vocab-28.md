@@ -7,8 +7,6 @@ title: 習慣 (shuukan)
 
 One phrase that works well in these situations is 「日本では～という習慣があります」, which translates naturally as "In Japan, there is a custom of..." It is informative without being preachy, and it signals to the guest that staff are inviting them into local culture, not scolding them. Understanding where a 習慣 comes from helps both staff and guests appreciate it more deeply.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 日本では、靴を脱いでから施設に入る習慣がございます。<br><small>*Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.*</small> | In Japan, there is a custom of removing your shoes before entering the facility. |

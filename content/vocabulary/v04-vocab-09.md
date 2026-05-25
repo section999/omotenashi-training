@@ -6,15 +6,16 @@ title: 石鹸 (sekken)
 石鹸 is the Japanese word for soap, and it is one of those bathroom amenities that every single guest expects to find without having to ask. Soap quality signals where a property sits: upscale hotels may offer branded or locally made bars, while ryokan often feature artisanal soap with regional botanical ingredients, things like yuzu or hinoki, that connect the product to the place. Housekeeping staff are responsible for making sure 石鹸 is present, hygienic, and correctly positioned at both the sink and in the bathtub or shower area. A partially used bar from the previous guest must be discarded and replaced with a fresh, sealed one before the next guest arrives.
 
 When a guest asks for more 石鹸, staff should respond promptly with polite, humble language and bring it directly to the room. Some properties use liquid dispensers rather than bars, and staff should know the right terminology (液体石鹸, ekitai sekken) and be comfortable with the refill procedure. International guests sometimes make the request by gesture or in English, so being ready to recognize what they are asking for and respond appropriately is a useful skill
-## Example Sentences
 
 バスルームには石鹸をご用意しております。
 <small>*Basurumu ni wa sekken wo goyo'i shite orimasu.*</small>
 Soap is provided in the bathroom.
 
+
 石鹸をお持ちいたします。少々お待ちいただけますでしょうか。
 <small>*Sekken wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.*</small>
 I will bring you soap. Would you mind waiting just a moment?
+
 
 新しい石鹸をバスルームのシンク横にご用意いたしました。
 <small>*Atarashii sekken wo basurumu no shinku yoko ni goyo'i itashimashita.*</small>

@@ -7,8 +7,6 @@ title: 時刻表 (jikokuhyou)
 
 Concierge staff who can read a 時刻表 quickly, or who know how to pull one up on Navitime or the JR East website, are valuable assets. Guests planning day trips around temple opening hours, seasonal illuminations, or restaurant reservations often need accurate departure times to work backward from. A common error is to underestimate how often this skill comes up: in a single afternoon at a busy hotel, staff might check the 時刻表 five or six times. A good response phrase is 「時刻表を調べてみますので、少々お待ちくださいませ」, which shows initiative and keeps the guest calm while staff look it up.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 電車の時刻表を確認しました。<br><small>*Densha no jikokuhyou wo kakunin shimashita.*</small> | I checked the train timetable. |

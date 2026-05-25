@@ -7,8 +7,6 @@ title: 一階 (ikkai)
 
 The pronunciation is ikkai, not ichi-kai, and this is one of those irregular counters that must be memorised outright. When guests arrive confused about which floor they are standing on, confirming こちらが一階でございます gives them a clear orientation anchor for the rest of the property. Pairing 一階 with the access method (エレベーターのB/1Fボタン or 正面玄関をご利用ください) makes the guidance complete
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ロビーは一階にございます。<br><small>*Robii wa ikkai ni gozaimasu.*</small> | The lobby is on the first floor. |

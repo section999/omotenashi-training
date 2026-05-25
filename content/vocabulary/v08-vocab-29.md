@@ -7,15 +7,16 @@ title: 上 (ue)
 上 means "above," "up," or "upper," and in hotel service it comes up any time one is directing someone vertically. Higher floors, upper shelves, anything positioned above the reference point. The word itself is short and neutral, so the politeness lives in the surrounding sentence structure: 上にございます and 上の階でございます are the forms one wants in service contexts, not just 上 with a pointing gesture and a pause.
 
 When paired with floor numbers, 上 becomes the backbone of vertical navigation. 一つ上の階 (the next floor up) and 上の階のレストラン (the restaurant on the floor above) are heard constantly in hotels. It also handles smaller-scale references, like amenity placement during room orientation: 棚の上にございます (it is on the upper shelf) is a phrase staff will use regularly during housekeeping interactions or when helping a guest locate something in their room. In buildings with mezzanine levels, 上 is especially useful for pointing someone to the upper section of the same floor
-## Example Sentences
 
 フィットネスセンターは一つ上の階、5階にございます。
 <small>*Fittonesu sentaa wa hitotsu ue no kai, go-kai ni gozaimasu.*</small>
 The fitness center is one floor up, on the fifth floor.
 
+
 お部屋のアメニティは洗面台の上の棚にご用意しております。
 <small>*O-heya no amenitii wa senmentai no ue no tana ni go-youi shite orimasu.*</small>
 The room amenities are prepared on the shelf above the vanity.
+
 
 宴会場へは上の階のエレベーターホールをご利用ください。
 <small>*Enkaijou e wa ue no kai no erebeetaa hooru wo go-riyou kudasai.*</small>

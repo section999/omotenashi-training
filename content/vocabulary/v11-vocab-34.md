@@ -6,15 +6,16 @@ title: 案内します (annai shimasu)
 案内します means "I will guide you" or "I will direct you," from the noun 案内 (guidance, directions, information). it is used whenever giving directional help: walking a guest to their room, pointing something out on a map, describing a route over the phone. In higher-end hotels the expected form is ご案内いたします, the humble keigo variant that signals one is placing oneself in service to the guest rather than offering directions. This phrase comes up frequently in hotel lobbies and during telephone inquiries, so getting the register right is important.
 
 On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide one to the lobby) and then walk the guest through the route step by step. Landmark-based directions work better on the phone than left and right instructions, because the guest has no visual reference. Giving them something to look for, such as 〜の隣 (next to) or 〜の前 (in front of), and checking in after each segment rather than delivering everything at once, is recommended: こちらはご理解いただけましたでしょうか (was this part clear to one?) gives the guest space to confirm before staff moves on
-## Example Sentences
 
 ただいまお部屋までご案内いたします。こちらへどうぞ。
 <small>*Tadaima oheya made go-annai itashimasu. Kochira e douzo.*</small>
 I will guide you to the room now. This way, please.
 
+
 お電話でのご案内となりますが、レストランの場所をご説明いたします。
 <small>*Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.*</small>
 I will guide you by telephone, and explain the location of the restaurant.
+
 
 ロビーまでご案内いたしますので、少々お待ちくださいませ。
 <small>*Robii made go-annai itashimasu node, shoushou omachi kudasaimase.*</small>

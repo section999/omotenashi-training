@@ -10,8 +10,6 @@ Guiding a guest is one of the more intimate forms of service in hospitality. Unl
 
 The phrase carries responsibility. Once staff say *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them their full attention throughout. The quality of that walk is itself a form of hospitality
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お部屋までご案内いたします。こちらへどうぞ。<br><small>*O-heya made go-annai itashimasu. Kochira e dōzo.*</small> | I will show you to the room. Please come this way. |

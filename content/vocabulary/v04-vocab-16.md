@@ -6,15 +6,16 @@ title: 雑巾 (zoukin)
 雑巾 is a cleaning cloth or rag, traditionally made from worn-out fabric, used to wipe down surfaces by hand. In Japanese hospitality, cleanliness is directly linked to guest comfort and the hotel's reputation, so knowing exactly when and how to use a 雑巾 is a core housekeeping competency. Unlike a mop (モップ), which covers large open floors, the 雑巾 is the tool for detail work: tables, window ledges, bathroom counters, and anywhere that needs close-contact wiping.
 
 In practical hotel work, staff use 雑巾 as part of regular room turnover and deep-cleaning routines. Phrases like 濡れた雑巾で拭きます ("wipe with a damp cloth") and 乾いた雑巾で仕上げます ("finish with a dry cloth") are standard in training sessions. The hygiene rule here is non-negotiable: different cloths for different surfaces. Using the same 雑巾 on a toilet and then on a desk is not just unacceptable, it is a hygiene failure that proper color-coding systems are specifically designed to prevent
-## Example Sentences
 
 テーブルは清潔な雑巾で丁寧に拭いてください。
 <small>*Teeburu wa seiketsu na zoukin de teinei ni fuite kudasai.*</small>
 Please wipe the table carefully with a clean cloth.
 
+
 濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。
 <small>*Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.*</small>
 After removing the stain with a damp cloth, we finish with a dry cloth.
+
 
 用途ごとに色分けされた雑巾をご使用ください。
 <small>*Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.*</small>

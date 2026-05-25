@@ -8,15 +8,15 @@ title: 注文 (chuumon)
 
 The language staff use when taking an order tells a guest a great deal about their training. ご注文をお伺いいたします uses the deeply humble form お伺いいたします, which signals that receiving the guest's selection is something one is honored to do. After writing everything down, confirming with ご注文をご復唱いたします is standard practice in formal hotel restaurants. The order should always be repeated before leaving the table, and staff should be ready to answer questions about dishes as they go; solid menu knowledge is a basic requirement of the role.
 
-## Example Sentences
-
 ご注文はお決まりでしょうか。
 <small>*Go-chuumon wa o-kimari deshou ka.*</small>
 Have you decided on your order?
 
+
 ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。
 <small>*Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.*</small>
 I will take your order. How about today's recommendation?
+
 
 ご注文の内容を繰り返させていただきます。
 <small>*Go-chuumon no naiyou wo kurikaesasete itadakimasu.*</small>

@@ -6,8 +6,6 @@ title: 料金 (ryokin)
 料金 means charge, fee, or rate, and is the standard professional term for the cost of a hotel stay, room service, facility use, or any other paid service. It carries the right level of formality for written and verbal communication in a hospitality setting. In everyday conversation, 値段 (nedan) or お金 (okane) are natural ways to talk about prices. In a hotel, restaurant, or spa, 料金 is the expected term whenever a clear and professional presentation of costs is called for. Getting this right matters because transparency around 料金 prevents disputes at check-out.
 
 When presenting the total charge, use こちらが料金でございます while pointing to or presenting the itemised statement. If additional charges are involved, such as room service, minibar consumption, or early check-in fees, walk the guest through each one individually before showing the final 料金. Business travellers especially will often ask for a full breakdown, so being ready to explain each component is part of the job
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらが料金でございます。ご確認いただけますでしょうか。<br><small>*Kochira ga ryōkin de gozaimasu. Go-kakunin itadakemasu deshō ka.*</small> | This is the charge. Could you please take a moment to review it? |

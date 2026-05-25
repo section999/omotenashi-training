@@ -10,8 +10,6 @@ In Japanese service culture, *iie* requires particular care. Directly refusing a
 
 *Hai* also functions as a listening signal during conversation. Said briefly and attentively while the other person speaks, it signals that the staff member is following along. This is called *aizuchi* (相槌). In a hospitality context, staying completely silent while a guest explains something can read as inattention, so a gentle *hai, hai* as they talk shows them they are being heard and understood
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | はい、かしこまりました。すぐにご用意いたします。<br><small>*Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.*</small> | Yes, certainly. I will prepare it right away. |

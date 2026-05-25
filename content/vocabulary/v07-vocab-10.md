@@ -7,8 +7,6 @@ title: 閉店 (heiten)
 
 Staff should also be clear on the difference between approaching 閉店 and having already reached it. If a facility is about to close, there may still be options: briefly extending a courtesy, directing the guest to another open facility, or flagging it with a supervisor. If the facility has already closed, the response must be final while remaining warm. Giving guests a 10 to 15 minute courtesy notice before a restaurant closes is itself a small omotenashi gesture that many guests appreciate
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。<br><small>*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*</small> | I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you? |

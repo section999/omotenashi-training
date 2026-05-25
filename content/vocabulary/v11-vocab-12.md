@@ -7,15 +7,16 @@ title: メッセージ (messeeji)
 メッセージ is the loanword from English that covers any form of communication left for someone who is not immediately available: handwritten notes, digital messages, SMS, email, voicemail, hotel app notifications. In a modern Japanese hotel, this word appears across almost every department. The front desk receives written メッセージ for guests. Housekeeping leaves メッセージ slips in rooms. Concierge staff coordinate with guests through digital メッセージ platforms. As hospitality becomes more multi-channel, handling メッセージ across these various formats is an important skill.
 
 The key distinction between メッセージ and 伝言 is breadth. Where 伝言 implies a personal relay between two people, typically by phone, メッセージ can be almost any medium. When a guest asks to メッセージを残す (leave a message), they might mean voicemail, a note at the front desk, or a push notification through the hotel app. When the medium is not obvious, asking ご希望の連絡方法はございますか (do one has a preferred method of contact?) can prevent back-and-forth
-## Example Sentences
 
 山田様へのメッセージをお預かりしております。
 <small>*Yamada-sama e no messēji wo oazukari shite orimasu.*</small>
 We have a message here for Mr./Ms. Yamada.
 
+
 ルームサービスよりメッセージカードをお届けいたします。
 <small>*Rūmu sābisu yori messēji kādo wo otodoke itashimasu.*</small>
 Room service will deliver a message card to the room.
+
 
 メッセージを残してもよろしいですか。折り返しご連絡いただけますでしょうか。
 <small>*Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.*</small>

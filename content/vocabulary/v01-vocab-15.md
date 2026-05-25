@@ -10,8 +10,6 @@ The key distinction between this phrase and the more passive "is there anything 
 
 In the philosophy of omotenashi, waiting for a guest to ask for help is already too late. A hospitality professional anticipates the need, moves toward the guest, and offers *o-tetsudai shimashō ka* before the guest has to formulate a request. This proactive care, *ki ga tsuku* (気が付く), or "noticing," is a defining quality of excellent service. A common error is knowing the phrase but hesitating to use it proactively. This hesitation should be addressed through practice.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お荷物をお持ちでしょうか。お手伝いしましょうか。<br><small>*O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.*</small> | Do you have luggage? May I help you with it? |

@@ -7,15 +7,16 @@ title: 鍵 (kagi)
 鍵 (kagi) means "key" and refers primarily to the traditional physical metal key used to lock and unlock a door. Many modern hotels have moved to card-based systems, but 鍵 remains a universally understood term and is still common at ryokan and smaller inns that have kept traditional key systems. Beyond the object itself, the moment of handing over a 鍵 carries real weight in hospitality. It represents the transfer of the room to the guest, a gesture of trust and welcome that should be handled with care, not rushed or done with one hand.
 
 In a hospitality context, the key handover is a notable carefully choreographed moments in check-in. Present it with both hands, make brief eye contact, and pair the gesture with こちらがお部屋の鍵でございます。どうぞ。 If the key has any quirks, such as a ryokan-style mechanism that guests may not immediately recognize, fifteen seconds should be taken to show how it works before the guest is sent to the room. At check-out, the return is just as important: 鍵のご返却をお願いいたします should be delivered with equal courtesy, not like a transaction being closed
-## Example Sentences
 
 こちらがお部屋の鍵でございます。どうぞ。
 <small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small>
 Here is the room key. Please.
 
+
 ご出発の際は、鍵のご返却をお願いいたします。
 <small>*Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*</small>
 We kindly ask that you return the key when one depart.
+
 
 鍵をお忘れの場合は、フロントまでお申し付けください。
 <small>*Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*</small>

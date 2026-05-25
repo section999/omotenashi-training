@@ -7,8 +7,6 @@ title: 開店 (kaiten)
 
 The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the mechanical act of unlocking a door. It conveys readiness, presentation, and full preparedness to receive guests at the highest standard. A restaurant that 開店 at 7 a.m. in a top hotel is expected to be fully staffed, lit, and arranged at exactly that moment, not still setting up. Staff announcing opening times to guests are implicitly vouching for this standard of readiness. Knowing the practical nuances, for example, that hot dishes may not be available until 7:30 a.m. even though the room opens at 7 a.m., makes communication more useful and trustworthy
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。<br><small>*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*</small> | The restaurant opens at 7 o'clock. We hope you enjoy your breakfast. |

@@ -7,15 +7,16 @@ title: 中 (naka)
 中 means "inside" or "within," and it is used constantly in hotel service. Conference rooms inside a building, amenities inside a bathroom, facilities inside an interior courtyard: any time staff need to tell a guest that something is not outside but in here, 中 is their word. In formal keigo sentences it sits naturally as 中にございます or 建物の中にございます, and it pairs well with 入る (hairu, to enter): 中にお入りください (please come inside) is one of those warm, welcoming phrases that guests respond to positively.
 
 Saying 中へどうぞ is not just directional; it carries a sense of invitation. That warmth is part of Japanese hospitality. Beyond the welcoming register, 中 does practical work whenever staff need to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions
-## Example Sentences
 
 会議室は建物の中、3階の奥にございます。
 <small>*Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*</small>
 The conference room is inside the building, at the far end of the third floor.
 
+
 アメニティはバスルームの中にご用意しております。
 <small>*Amenitii wa basurumu no naka ni go-youi shite orimasu.*</small>
 The amenities are prepared inside the bathroom.
+
 
 レストランはホテルの建物の中にございますので、外へお出になる必要はございません。
 <small>*Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.*</small>

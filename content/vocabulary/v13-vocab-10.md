@@ -6,15 +6,16 @@ title: 休み (yasumi)
 休み refers to a day off, a scheduled day on which an employee is not required to work. In Japan's hospitality industry, which runs 365 days a year, managing 休み is important for both staff well-being and operational continuity. Employees are entitled to a minimum number of 休み per week under the Labour Standards Act, and hotels have to build rosters carefully to honour those entitlements while keeping full service coverage. A 休み is an entire non-working day, rest, personal errands, leisure, distinct from 休憩, which is a break within a shift.
 
 Japanese hospitality workers historically had fewer guaranteed 休み than workers in many other countries, partly due to cultural attitudes toward diligence and the round-the-clock demands of service. Awareness of work-life balance has grown in recent years, and many hotel chains now promote proper 休み scheduling as part of employee wellness programmes. During peak tourism seasons, requests to come in on designated days off can increase, which makes clear communication between staff and supervisors important
-## Example Sentences
 
 明日は休みですので、出勤しません。
 <small>*Ashita wa yasumi desu node, shukkin shimasen.*</small>
 Tomorrow is a day off, so I will not go to work.
 
+
 今週の休みはいつですか？シフト表を確認します。
 <small>*Konshuu no yasumi wa itsu desu ka? Shifuto-hyou o kakunin shimasu.*</small>
 When is my day off this week? Let me check the shift schedule.
+
 
 連休が取れたので、家族と旅行に行きます。
 <small>*Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.*</small>

@@ -7,15 +7,16 @@ title: 引換券 (hikikaeken)
 
 A 引換券 is issued the moment an item is accepted, and the item is never released without seeing the corresponding ticket first. This protects guests from mix-ups and protects the hotel from false claims. The ticket typically shows the 管理番号 (tracking number), the date of deposit, a description of the item, and sometimes the guest's room number. Staff should always tell guests to keep the 引換券 in a safe place and explain clearly what happens if it is lost. At most properties, this involves an identification and signed declaration process. The ticket is just a small piece of paper, but the promise it represents is not small at all.
 
-## Example Sentences
 
 クリーニングのお受け取りには、こちらの引換券が必要でございます。
 <small>*Kuriiningu no o-uketori ni wa, kochira no hikikaeken ga hitsuyou de gozaimasu.*</small>
 This claim ticket is required when collecting your laundry.
 
+
 引換券をお持ちでない場合は、スタッフまでお申し出ください。
 <small>*Hikikaeken wo o-mochi de nai baai wa, sutaffu made o-moushide kudasai.*</small>
 If you do not have your claim ticket, please inform a member of staff.
+
 
 お荷物お預かりの際に引換券をお渡しいたします。
 <small>*O-nimotsu o-azukari no sai ni hikikaeken wo o-watashi itashimasu.*</small>

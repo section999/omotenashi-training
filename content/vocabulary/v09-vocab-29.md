@@ -6,8 +6,6 @@ title: 短縮 (tanshuku)
 短縮 (tanshuku) means "shortening" or "reduction," and in a hotel context it refers to reducing the number of nights in an existing reservation. When a guest's plans change and they need to leave earlier than originally booked, that is 滞在の短縮 (taizai no tanshuku). Unlike a full cancellation, a 短縮 keeps the remaining reservation intact while removing only the final night or nights. This distinction matters practically because cancellation policies often treat removed nights differently depending on whether the guest is shortening or cancelling entirely. Japanese hotels take care to communicate these distinctions clearly, since transparency about fees is part of building trust with guests.
 
 Handling a 短縮 request properly starts with pulling up the reservation and reviewing the plan's conditions (プランの条件) before saying anything about cost. Some advance-purchase or discounted plans charge the full rate for unused nights; flexible plans may allow a no-cost adjustment. After reviewing, the staff member should communicate any applicable fee clearly before processing: 短縮に伴いまして、〇月〇日分のキャンセル料が発生いたします. The guest's explicit agreement should be obtained before touching the system. Housekeeping and billing both need to be updated at the same time
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 急なご事情でございますね。滞在を1泊短縮する場合、プランの条件によりキャンセル料が発生する場合がございます。<br><small>*Kyuu na go-jijou de gozaimasu ne. Taizai wo ippaku tanshuku suru baai, puran no jouken ni yori kyanseru ryou ga hassei suru baai ga gozaimasu.*</small> | That must be an unexpected situation. Please be aware that shortening the stay by one night may incur a cancellation charge depending on your booking plan's conditions. |

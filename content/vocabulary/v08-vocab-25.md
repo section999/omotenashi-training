@@ -7,15 +7,16 @@ title: 分 (fun/pun)
 分 is the counter for minutes, and in hospitality it gets used constantly. Every time one tell a guest how far the station is, how long the wait will be, or how much time dinner will take, 分 is in that sentence. Guests make real decisions based on the numbers staff give them: do they walk or take a taxi, do they have time to explore before the restaurant opens, should they rest first. An accurately delivered 徒歩約10分です provides clear information.
 
 The trickier part of 分 is its pronunciation changes, and this is where common errors occur in service situations. The numbers 1, 3, 6, 8, and 10 all trigger a shift from ふん (fun) to ぷん (pun): 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Native speakers make these shifts automatically without thinking about them, so if staff use ふん across the board, it immediately signals that staff is still learning. However, getting the numbers right is achievable with consistent practice, and prioritizing them early is worthwhile
-## Example Sentences
 
 空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。
 <small>*Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.*</small>
 It is 30 minutes by car to the airport. We recommend departing at least 2 hours before your flight.
 
+
 ただいまお席の準備中でございます。約5分でご案内できます。
 <small>*Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.*</small>
 We are currently preparing your table. We can seat you in approximately 5 minutes.
+
 
 エレベーターで3分、徒歩ですと約10分でお着きになれます。
 <small>*Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.*</small>

@@ -7,8 +7,6 @@ title: 営業時間 (eigyou jikan)
 
 Sharing 営業時間 proactively, rather than waiting to be asked, prevents unnecessary inconvenience. At check-in, briefly mentioning restaurant opening times, spa booking hours, and any facilities with restricted access helps guests plan their stay from the first moment. When hours change due to a private event or seasonal adjustment, communicating the update clearly and apologetically helps maintain trust. Distinguishing between ラストオーダー (last order) and actual closing time is important, as guests frequently assume these are the same thing when they are not
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | レストランの営業時間は朝7時から夜10時まででございます。<br><small>*Resutoran no eigyou jikan wa asa shichi-ji kara yoru juu-ji made de gozaimasu.*</small> | The restaurant's business hours are from 7 a.m. to 10 p.m. |

@@ -6,15 +6,16 @@ title: タオル交換 (taoru koukan)
 タオル交換 means replacing or exchanging towels. That covers bath towels, hand towels, and face towels, and in ryokan settings it can extend to yukata sashes and other fabric items connected to the bathing experience. Towels are among the most visible amenity items in any room: their freshness, how they are folded, and whether there are enough of them all leave a direct impression of how attentive the property is. Japanese hotels often require specific folding and display methods as part of the room standard, and housekeeping staff are expected to reproduce these consistently every single time.
 
 Daily cleaning includes タオル交換 as a matter, but guests may ask for extra changes at any point, and the appropriate response is to handle it promptly and without making them feel like the request is unusual. Many eco-conscious properties now ask guests to hang towels they wish to reuse, with replacement only triggered when towels are left on the floor. Whatever the hotel's policy, explain it warmly and without pressure. A guest who feels judged for asking tends not to ask again, and unspoken dissatisfaction is harder to manage than a straightforward towel request
-## Example Sentences
 
 タオル交換はご希望のときにいつでも承ります。
 <small>*Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.*</small>
 We are happy to exchange your towels whenever you wish.
 
+
 バスタオルとフェイスタオルの交換をご用意いたしました。
 <small>*Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.*</small>
 We have prepared replacements for both your bath towel and face towel.
+
 
 タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。
 <small>*Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.*</small>

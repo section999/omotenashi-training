@@ -6,15 +6,16 @@ title: 英語対応 (eigo taiou)
 英語対応 is a compound noun made from 英語 (English language) and 対応 (response, handling, support). Together they describe the capacity of a hotel, a department, or a specific staff member to serve guests in English. As international visitor numbers in Japan continue to grow, 英語対応 has become an important service differentiator for hotels. Travel agencies and overseas guests look for it when booking, so clear communication about it has commercial value alongside its service benefits. Staff training in 英語対応 also covers cultural communication differences, since guests from some regions tend to communicate more directly than is typical in Japanese hospitality culture.
 
 The omotenashi approach recommends offering 英語対応 proactively. A well-trained staff member does not wait for a foreign guest to stumble over a Japanese-only form. Reading the signals early, such as hesitation, a foreign-language document in hand, or uncertainty at the counter, and offering 英語でのご対応も可能でございます (we are also able to assist one in English) before the guest has to ask, is the recommended approach. That moment of anticipation can set the tone for a guest's stay. 英語対応 needs to be consistent across all touchpoints, not just the front desk. A guest who receives English support at check-in but none at the restaurant feels the inconsistency
-## Example Sentences
 
 フロントでは英語対応が可能でございます。お気軽にご利用ください。
 <small>*Furonto de wa eigo taiou ga kanou de gozaimasu. Okigaru ni go-riyou kudasai.*</small>
 English support is available at the front desk. Please feel free to use this service.
 
+
 英語対応のスタッフが常駐しておりますので、ご安心ください。
 <small>*Eigo taiou no sutaffu ga jouchuu shite orimasu node, go-anshin kudasai.*</small>
 English-capable staff are always on duty, so please rest assured.
+
 
 ご不明な点がございましたら、英語対応のスタッフがお手伝いいたします。
 <small>*Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.*</small>

@@ -10,8 +10,6 @@ This is a notably frequently used expression in Japanese workplace culture, and 
 
 This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* ("thank you so much for coming despite your long day")
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お疲れ様です。今日もありがとうございました。<br><small>*O-tsukaresama desu. Kyō mo arigatō gozaimashita.*</small> | Thank you for your hard work. Thank you for today as well. |

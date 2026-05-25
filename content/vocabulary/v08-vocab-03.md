@@ -7,8 +7,6 @@ title: まっすぐ (massugu)
 
 In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if staff goes straight, staff will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ロビーまでまっすぐお進みください。<br><small>*Robii made massugu o-susumi kudasai.*</small> | Please go straight ahead to the lobby. |

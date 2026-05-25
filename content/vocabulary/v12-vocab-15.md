@@ -7,15 +7,16 @@ title: 応急処置 (oukyuu shochi)
 応急処置 is the immediate, temporary care given to an injured or suddenly ill person before professional medical help arrives. 応急 means an emergency or makeshift response, and 処置 means treatment or measures. Together they describe first aid: a rapid practical intervention designed to stabilise the situation, not to replace a doctor. In hotel work, this skill arises more often than many new staff expect. Cuts, burns, choking, allergic reactions, cardiac arrest, and sprained ankles from staircase falls are all real scenarios. Japanese hotel chains frequently require front-line staff to hold a basic first aid certification, and drills are run regularly.
 
 The scope of 応急処置 in a hotel includes wound cleaning and bandaging, ice packs for sprains, assisting a choking guest with the Heimlich manoeuvre, and performing CPR (心肺蘇生, shinpai sosei) until paramedics arrive. Every floor should have a first aid kit (救急箱, kyuukyuubako) in an accessible location, and every staff member should know exactly where theirs is without hesitation. When treating a guest, the staff member's tone matters enormously. Calm, reassuring language prevents panic and keeps the situation manageable. Once the immediate crisis is resolved, a written incident report must be completed and submitted to management that same day
-## Example Sentences
 
 お客様が転倒されましたので、ただいま応急処置を行っております。
 <small>*Okyakusama ga tondou saremashita node, tadaima oukyuu shochi wo okonatte orimasu.*</small>
 A guest has fallen, and we are currently administering first aid.
 
+
 救急車が到着するまでの間、応急処置を続けてください。
 <small>*Kyuukyuusha ga touchaku suru made no aida, oukyuu shochi wo tsuzukete kudasai.*</small>
 Please continue first aid until the ambulance arrives.
+
 
 当ホテルのスタッフは全員、応急処置の訓練を受けております。
 <small>*Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.*</small>

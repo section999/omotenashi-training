@@ -7,8 +7,6 @@ ICカード stands for "Integrated Circuit card" and refers to the rechargeable 
 
 Hotel staff who bring up ICカード unprompted provide real service value. Many international guests do not know these cards can be bought and topped up at vending machines right in the airport arrivals hall. If a hotel is near a busy tourist area, staff can suggest that the guest loads enough balance (チャージ, chaaiji) to cover several days of travel. Some versions of Suica can now be added to an Apple Wallet or Google Wallet, so guests who prefer digital options will appreciate hearing that. A natural phrase to offer is 「ICカードをお持ちでしたら、いちいち切符をお買い求めいただかなくても便利にご移動いただけます」, which lets guests know they can travel freely without buying separate tickets each time.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ICカードで改札を通りました。<br><small>*IC kaado de kaisatsu wo toorimashita.*</small> | I passed through the ticket gate with an IC card. |

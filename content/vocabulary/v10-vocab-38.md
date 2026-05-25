@@ -6,15 +6,16 @@ title: 無効 (mukou)
 無効 is a compound of 無 (mu), meaning "none" or "without," and 効 (kō), derived from 効力 (kōryoku), meaning "effect" or "validity." In Japanese hospitality, 無効 is used to indicate that a coupon, voucher, card, or reservation has expired, been cancelled, or otherwise cannot be accepted. While the term is straightforward in meaning, its delivery requires considerable care, declaring something 無効 too abruptly can embarrass a guest and create a confrontational atmosphere. The best approach is to verify first, explain the reason clearly, and immediately offer an alternative solution to maintain a smooth and positive guest experience.
 
 staff should treat any potential 無効 situation as a verification issue first rather than a conclusion. Saying 確認させていただきます (let me verify) before stating 無効 gives the staff member time to check whether the issue is invalid or a technical error, a card that appears 無効 may have a chip reading problem that resolves with a swipe or re-entry. Only once all options are exhausted should 無効 be communicated, and even then, it should be followed immediately by an offer of assistance
-## Example Sentences
 
 恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。
 <small>*Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.*</small>
 I apologize, but this coupon is invalid as the expiry date has passed.
 
+
 ただいま確認いたしますので、少々お待ちください。
 <small>*Tadaima kakunin itashimasu node, shōshō omachi kudasai.*</small>
 Allow me to verify this for you: please wait just a moment.
+
 
 カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。
 <small>*Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.*</small>

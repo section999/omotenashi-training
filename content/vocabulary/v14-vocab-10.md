@@ -6,15 +6,16 @@ title: 観光地 (kankouchi)
 観光地 is a place that attracts visitors: for its scenery, historical significance, cultural richness, entertainment, or natural beauty. Japan has an extraordinary range of them, from ancient temples and castle towns to volcanic hot springs and modern theme parks. What this word means for daily work is that knowing the 観光地 around a property is not just a nice extra: it is a core part of the job. Guests expect front desk staff and concierges to be knowledgeable local guides, and a confident, enthusiastic answer to "What are the best 観光地 nearby?" is one of the most impactful omotenashi moments staff can create.
 
 Beyond basic recommendations, good hospitality staff understand the seasonal dynamics of local 観光地. Cherry blossom season transforms certain spots into something magical, autumn foliage does the same for others, and summer festivals draw crowds to specific shrines and parks. Knowing peak visiting times allows staff to advise guests on when to arrive to beat the crowds, how long to allow, and which lesser-known spots nearby might be equally rewarding with a fraction of the queue. That level of local expertise is what turns a hotel or ryokan into a trusted gateway to the region, not just a place to sleep
-## Example Sentences
 
 近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。
 <small>*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*</small>
 We provide guided access to nearby tourist spots via our complimentary hotel shuttle.
 
+
 このあたりの観光地をまとめたマップを無料でお配りしております。
 <small>*Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.*</small>
 We offer a free map featuring the tourist spots in this area.
+
 
 観光地によっては入場料が必要な場合がございますので、事前にご確認ください。
 <small>*Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*</small>

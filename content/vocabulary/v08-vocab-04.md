@@ -7,8 +7,6 @@ title: 曲がる (magaru)
 
 Practically, 曲がる is used constantly at the front desk when giving walking directions, in lobby guidance when escorting guests partway to their destination, and in verbal route descriptions for nearby restaurants or attractions. The pattern [landmark] + を/で + [direction] + に曲がってください is the standard construction: ロビーを出て右に曲がってください, 次の角を左に曲がってください. When there are multiple turns, numbering them clearly (最初の角を右に、次に左に) prevents confusion
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 二つ目の交差点で左に曲がってください。<br><small>*Futatsu-me no kousaten de hidari ni magatte kudasai.*</small> | Please turn left at the second intersection. |

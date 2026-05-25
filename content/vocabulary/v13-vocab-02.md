@@ -6,8 +6,6 @@ title: スタッフ (sutaffu)
 スタッフ is the loanword from English "staff" and is a frequently heard personnel term in Japanese hospitality environments. It covers the people who collectively keep an operation running, whether that's a hotel front desk, a restaurant floor, or a ryokan's service team. Compared to 従業員, which has an institutional, legalistic feel, スタッフ sounds approachable and team-oriented. That's why it's everywhere in customer-facing settings: signage such as「スタッフにお声がけください」("Please speak to a staff member") is standard across Japan.
 
 The word is flexible. Managers use it when talking about their team in a collegial, day-to-day way, and it appears on uniforms, event programmes, and guest information pamphlets. When coordinating across departments, using スタッフ as the shared label, front-desk スタッフ working alongside housekeeping スタッフ, reinforces a sense of unified purpose rather than departmental division
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | フロントのスタッフが24時間対応しております。<br><small>*Furonto no sutaffu ga nijuuyojikan taiou shite orimasu.*</small> | Front desk staff are available 24 hours a day. |

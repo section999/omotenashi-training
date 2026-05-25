@@ -6,15 +6,16 @@ title: 少々お待ちください (shoushou omachi kudasai)
 少々お待ちください is one of the phrases staff will use most in Japanese hospitality phone communication, and staff will reach for it whenever a caller needs to be briefly placed on hold, a transfer is being arranged, or staff need a moment to verify information. The word 少々 is doing important work here: it signals "just a little while" rather than an open-ended wait, which quietly manages the caller's expectations and keeps their patience intact. In omotenashi, even asking someone to hold has to be done with warmth and a clear sense that staff is moving quickly on their behalf.
 
 The phrase is only as good as what follows it. If the wait goes beyond about 30 seconds, staff should return to the line, say お待たせいたしました, and give an update or offer a callback. Leaving someone in silence for a minute or more without checking in breaks the trust that 少々 was meant to establish. When returning, お待たせいたしました should not be skipped, as starting into business without it feels as though the caller has been forgotten
-## Example Sentences
 
 少々お待ちください。ただいま担当者に確認いたします。
 <small>*Shōshō omachi kudasai. Tadaima tantōsha ni kakunin itashimasu.*</small>
 Please wait a moment. I will check with the person in charge right away.
 
+
 お部屋の状況を確認いたしますので、少々お待ちいただけますでしょうか。
 <small>*Oheya no jōkyō wo kakunin itashimasu no de, shōshō omachi itadakemasu deshō ka.*</small>
 Could you wait a moment while I check the status of the room?
+
 
 お待たせいたしました。お調べした結果をご報告いたします。
 <small>*Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.*</small>

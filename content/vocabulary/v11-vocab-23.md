@@ -8,15 +8,15 @@ title: ご連絡 (go-renraku)
 
 Staff encounter ご連絡 across a wide range of standard phrases: ご連絡をお待ちしております (we look forward to hearing from one), ご連絡いただきありがとうございます (thank one for getting in touch), and またいつでもご連絡ください (please feel free to contact us at any time). These are essential for closing phone calls, emails, and in-person interactions on a warm and professional note. using ご連絡 consistently also signals to guests that the hotel welcomes ongoing communication and is available, not just saying so as a formality.
 
-## Example Sentences
-
 ご連絡をお待ちしております。
 <small>*Go-renraku wo omachi shite orimasu.*</small>
 We look forward to your contact / hearing from you.
 
+
 ご連絡いただきありがとうございます。担当者より折り返しご連絡いたします。
 <small>*Go-renraku itadaki arigatou gozaimasu. Tantousha yori orikaeshi go-renraku itashimasu.*</small>
 Thank you for reaching out. The person in charge will contact you shortly.
+
 
 何かご不明な点がございましたら、いつでもご連絡ください。
 <small>*Nanika go-fumei na ten ga gozaimashitara, itsudemo go-renraku kudasai.*</small>

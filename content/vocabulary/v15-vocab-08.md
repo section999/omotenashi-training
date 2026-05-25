@@ -7,8 +7,6 @@ title: 配達 (haitatsu)
 
 The key is confirming the details before heading out: the room number, the preferred delivery time, and whether the guest wants a knock or a quiet drop-off. For laundry 配達 specifically, staff should always count the items against the order slip before leaving the service area. A missing piece discovered at the door is far worse than one caught in the back. In larger hotels, porters handle 配達 as a dedicated role, which keeps front desk staff free for other guest needs.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 洗濯物は本日の夕方6時にお部屋へ配達いたします。<br><small>*Sentakumono wa honjitsu no yuugata roku-ji ni o-heya e haitatsu itashimasu.*</small> | Your laundry will be delivered to the room this evening at 6:00 PM. |

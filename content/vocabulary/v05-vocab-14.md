@@ -6,8 +6,6 @@ title: 満席 (manseki)
 満席 reads as "full seating" and describes the state when every table in a restaurant or dining room is occupied. Communicating 満席 is one of the more delicate service situations in Japanese hospitality, because turning away a guest must be done in a way that preserves goodwill and the hotel's reputation. The phrasing ただいま満席でございます is carefully constructed: ただいま (at this moment) implies the situation is temporary rather than permanent, and that small word does a lot of work. A simple 満席です would feel blunt and dismissive, whereas the full phrase acknowledges the guest's desire while leaving room for hope.
 
 announcing 満席 is never the end of the conversation. The staff member must immediately offer a constructive alternative: an estimated wait time, an offer to add the guest to a wait list, a suggestion of another hotel dining venue, or an invitation to wait in the lounge with complimentary tea. Leaving a guest with a "no" and nothing more goes against the omotenashi principle of finding solutions. The quality of a hotel's response to 満席 is just as revealing as its response to availability
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。<br><small>*Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*</small> | We are fully seated at the moment. If you like, I can take your name and seat you in order. |

@@ -6,8 +6,6 @@ title: タオル (towel)
 タオル refers to the hand or face towel, the smaller towel used for drying hands and face, as distinct from the larger バスタオル (bath towel). In Japanese hotels and ryokan, towels form a core part of the in-room amenity setup and are replenished by housekeeping throughout the stay. Guests pay close attention to towel quality, softness, and cleanliness, and premium properties often use high-thread-count or specially woven fabrics to signal their service level. In ryokan, freshly laundered タオル may even be folded decoratively as part of the room welcome.
 
 Multi-night guests and families especially tend to request extra タオル, so staff should be ready to respond quickly with the right item and use phrasing like こちらがご用意したタオルでございます when presenting it. The distinction between タオル, バスタオル, and フェイスタオル matters: these are three different items, and delivering the wrong one after a guest has asked specifically for one of them erodes trust. The differences should be learned and clearly kept in mind
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらがお部屋にご用意したタオルでございます。<br><small>*Kochira ga o-heya ni go-youi shita taoru de gozaimasu.*</small> | This is the towel we have prepared for the room. |

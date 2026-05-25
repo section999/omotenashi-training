@@ -6,15 +6,16 @@ title: シャンプー (shanpuu)
 シャンプー is the Japanese loanword for shampoo and is a standard bathroom amenity in hotel and ryokan guest rooms. In Japan's hospitality sector, the quality and selection of シャンプー is taken seriously. Luxury properties often provide branded or salon-quality products, while ryokan may feature locally sourced botanical shampoos that reflect regional ingredients. Housekeeping staff check シャンプー levels during every room servicing and replace bottles or refill dispensers to ensure guests always have a full supply. The goal is that a guest never reaches for the shampoo and finds it almost empty.
 
 Staff need to know whether a property uses individual travel-sized bottles, large refillable dispensers, or pump-top containers, because each type requires a different replenishment approach. When a guest asks for more シャンプー, the response should be prompt and warm, with no suggestion that the request is an inconvenience. For guests with allergies or specific hair care concerns, staff should be aware of the product's ingredients. If uncertain, staff should offer to retrieve the packaging or provide an alternative rather than guessing
-## Example Sentences
 
 お部屋のバスルームにはシャンプーをご用意しております。
 <small>*Oheya no basurumu ni wa shanpuu wo goyo'i shite orimasu.*</small>
 Shampoo is provided in the room's bathroom.
 
+
 シャンプーが足りない場合は、お申し付けいただければすぐにお持ちいたします。
 <small>*Shanpuu ga tarinai baai wa, omoushitsuke itadakereba sugu ni omochi itashimasu.*</small>
 If you need more shampoo, please let us know and we will bring it immediately.
+
 
 本日、バスルームのシャンプーを新しいものに交換いたしました。
 <small>*Honjitsu, basurumu no shanpuu wo atarashii mono ni koukan itashimashita.*</small>

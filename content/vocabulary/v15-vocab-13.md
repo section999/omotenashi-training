@@ -7,8 +7,6 @@ title: 宅配便 (takkyuubin)
 
 In hotel hospitality, 宅配便 comes up regularly in two main scenarios: guests sending luggage ahead to their next hotel or to the airport (called 手荷物宅配), and guests receiving deliveries at the hotel. The luggage forwarding service is especially popular with visitors who want to explore Tokyo without dragging bags around all day. Staff at the front desk help guests complete the delivery slip (宅配伝票), explain the costs, and handle tracking questions. When a hotel accepts a delivery on behalf of a guest, the package must be stored safely and handed over with proper verification. Getting that process right is a trust issue, and guests notice when it is handled well.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ホテルから空港まで、手荷物を宅配便でお送りすることができます。<br><small>*Hoteru kara kuukou made, te-nimotsu wo takkyuubin de o-okuri suru koto ga dekimasu.*</small> | We can ship your luggage from the hotel to the airport via courier service. |

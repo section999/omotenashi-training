@@ -7,15 +7,16 @@ title: 後払い (atobarai)
 
 Restaurant and banquet venues within hotels sometimes extend 後払い to in-house guests whose charges are billed to the room, then settled at checkout. For external corporate clients, a 請求書 (invoice) is issued after the event with an agreed payment window. Staff must track all 後払い accounts carefully and flag overdue balances. Having the final bill prepared before the guest arrives at checkout is standard professional practice.
 
-## Example Sentences
 
 お食事代はお部屋付けにて後払いでお承りいたします。
 <small>*O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.*</small>
 The dining charges can be billed to the room and settled at checkout.
 
+
 法人のお客様には、後払いでの請求書払いも承っております。
 <small>*Houjin no o-kyakusama ni wa, atobarai de no seikyuusho barai mo uketamatte orimasu.*</small>
 For corporate clients, we also accept invoice-based deferred payment.
+
 
 後払いご希望の場合は、事前にフロントにてご登録が必要です。
 <small>*Atobarai go-kibou no baai wa, jizen ni furonto nite go-touroku ga hitsuyou desu.*</small>

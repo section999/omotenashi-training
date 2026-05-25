@@ -6,15 +6,16 @@ title: 毛布 (moufu)
 毛布 (moufu) means blanket, and it is a common comfort request staff will handle in any lodging environment. Guests ask for extra blankets in cold weather, in rooms where the air conditioning runs too strong, or because they sleep better with more weight on them. Extra 毛布 are typically stored in the wardrobe or available on request from housekeeping. The speed and warmth with which a request is handled leaves an impression, because sleep comfort is often what guests remember about a stay.
 
 The phrase お持ちいたしましょうか ("shall I bring you one?") is the appropriate phrase when the need can be anticipated, such as when a guest mentions feeling cold, or when the overnight temperature is expected to drop. In ryokan settings, the quilted covering used over futon bedding is often called 掛け布団 (kakebuton) rather than 毛布, so awareness of which term fits their property is necessary. Delivering a 毛布 with both hands and a brief spoken acknowledgment, rather than handing it over silently, signals care that guests notice and appreciate
-## Example Sentences
 
 追加の毛布をお持ちいたしましょうか？夜は冷え込みますので。
 <small>*Tsuika no moufu wo o-mochi itashimashou ka? Yoru wa hie-komimasu no de.*</small>
 Shall I bring you an extra blanket? It gets quite cold at night.
 
+
 毛布はクローゼット内の棚にご用意しております。
 <small>*Moufu wa kuroozetto-nai no tana ni go-youi shite orimasu.*</small>
 There is a blanket prepared for you on the shelf in the closet.
+
 
 ただいま毛布をお持ちいたします。少々お待ちくださいませ。
 <small>*Tadaima moufu wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>

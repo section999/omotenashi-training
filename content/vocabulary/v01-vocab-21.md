@@ -10,8 +10,6 @@ In isolation, *go-rikai kudasai* can feel imposing, as if staff is requiring the
 
 Context matters here. The phrase fits situations where a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or circumstances are beyond the property's control, such as weather or external events. However, it is not the right choice when the property itself made an error. In those cases, full apology and immediate resolution are required
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。<br><small>*Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.*</small> | I am very sorry, but the pool is currently unavailable. We ask for your kind understanding. |

@@ -7,8 +7,6 @@ title: 荷物 (nimotsu)
 
 Knowing the related services is just as important as knowing the word. Luggage storage between check-out and departure, forwarding bags to the next hotel, handling fragile or oversized items: all of these fall under the umbrella of 荷物 care. If a guest reports missing or damaged 荷物, staff should stay calm, apologise sincerely, and move directly into action: check storage records, review the log, and loop in a supervisor if needed. A common error is to underestimate how serious a missing bag situation feels to the guest. Accurate labelling with name and room number from the start prevents almost all of these moments.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。<br><small>*O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*</small> | We will hold your luggage here. We will bring it to the room as soon as it is ready. |

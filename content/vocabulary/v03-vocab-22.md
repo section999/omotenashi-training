@@ -6,15 +6,16 @@ title: 金庫 (kinko)
 金庫 combines 金 (gold/money) and 庫 (storehouse), and it refers to the in-room security safe where guests store passports, cash, jewelry, and electronics while they are out. Informing guests about the 金庫 at check-in is standard practice in quality hotels because a guest who does not know the safe exists is a guest who might leave valuables unsecured. The 金庫 is usually located in the wardrobe or closet and operates with a user-set PIN. Safe models vary by property, so staff should know theirs well enough to walk a guest through it without hesitation.
 
 During room orientation, staff say 「お貴重品はお部屋の金庫にお入れください」 and walk through the PIN setup: 「数字4桁の暗証番号をご自身で設定していただけます」. It is equally important to mention that if a guest forgets their PIN, they should contact the front desk and the property will follow its protocol for unlocking it, this detail reassures guests and removes potential anxiety. Ryokan without in-room safes typically offer a valuables service at the front desk instead, so staff should know what their property provides and be ready to explain it
-## Example Sentences
 
 お貴重品はお部屋の金庫にお入れください。
 <small>*O-kichouhin wa oheya no kinko ni o-ire kudasai.*</small>
 Please store your valuables in the room safe.
 
+
 金庫は暗証番号をご自身で設定してお使いいただけます。
 <small>*Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.*</small>
 You may set your own PIN to use the safe.
+
 
 万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。
 <small>*Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.*</small>

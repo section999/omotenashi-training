@@ -6,15 +6,16 @@ title: 観光客 (kankoukyaku)
 観光客 is the word for a visitor who has come for sightseeing, leisure, or cultural experiences, as opposed to someone travelling for business or family reasons. That distinction matters in hospitality because it tells staff something about what the guest needs. A 観光客 probably wants local recommendations, transport guidance, area maps, and maybe a heads-up on which attractions are worth the queue. A common error is to mistake this for a generic word for "visitor," but the 観光 component specifically points to the purpose: this person is here to see and experience something.
 
 Major destinations like Kyoto, Nikko, and Hiroshima lean heavily on 観光客 traffic, and if staff work at a property in those areas, local knowledge is part of the job description. Because 観光客 often arrive unfamiliar with the local train system, the layout of the building, or even basic customs, front-line staff need to be proactive rather than waiting to be asked. However, staff should not assume every 観光客 wants the same things: someone on a history tour has different needs from a family with young children, and recognising that difference is where real omotenashi lives
-## Example Sentences
 
 京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。
 <small>*Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.*</small>
 Kyoto receives many tourists every year, and the ryokans fill up with reservations.
 
+
 観光客のお客様に、近くの名所をご案内しております。
 <small>*Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.*</small>
 We provide guidance to tourist guests about nearby famous sites.
+
 
 外国からの観光客が増えているため、英語のパンフレットを用意しました。
 <small>*Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.*</small>

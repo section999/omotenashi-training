@@ -10,8 +10,6 @@ The timing and delivery of this phrase matter a great deal. It is the last impre
 
 This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank one for their visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ご利用ありがとうございました。またお越しくださいませ。<br><small>*Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*</small> | Thank you for staying with us. Please come again. |

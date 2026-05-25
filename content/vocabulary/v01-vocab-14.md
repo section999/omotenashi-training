@@ -9,8 +9,6 @@ The key thing to understand is that *osore irimasu* is always about humbling one
 
 *Osore irimasu* takes time to feel natural. When one first starts using it, it can feel theatrical, and that awkwardness shows. It should be practiced out loud until it flows without hesitation. The phrase works best when paired with genuine body language: a small, sincere bow and steady eye contact
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。<br><small>*Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*</small> | I am terribly sorry to trouble you, but could I ask your name once more? |

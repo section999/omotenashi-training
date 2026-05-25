@@ -6,15 +6,16 @@ title: タクシー (takushii)
 タクシー is the Japanese loanword for "taxi" and refers to metered hired vehicles for door-to-door transport. Japanese タクシー are known for cleanliness, professional drivers, and one feature that surprises nearly every international visitor: the rear left door opens and closes automatically. Guests should never touch it. Note that this is one of those small cultural details that is worth mentioning proactively before a guest approaches the vehicle, because nothing breaks the elegance of a hotel send-off like a guest trying to wrestle with a door that opens on its own. Fares are calculated by both distance and waiting time, and starting rates vary by region and company.
 
 Hotel staff get involved in タクシー arrangements more than staff might expect, from asking the doorman to hail one to calling a dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is almost always the right call. Staff should have the hotel's address card ready to hand to guests so they can pass it directly to the driver: verbal communication can be challenging for non-Japanese speakers, and a printed card with the destination address removes the guesswork entirely. The standard phrase to offer is 「タクシーをお呼びいたしましょうか？」
-## Example Sentences
 
 駅からホテルまでタクシーを利用しました。
 <small>*Eki kara hoteru made takushii wo riyou shimashita.*</small>
 I took a taxi from the station to the hotel.
 
+
 タクシーをお呼びいたしますので、少々お待ちくださいませ。
 <small>*Takushii wo oyobi itashimasu no de, shoushou omachi kudasaimase.*</small>
 I will call a taxi for you, so please wait just a moment.
+
 
 深夜はタクシーのご利用が便利でございます。電車は終電がございますので。
 <small>*Shinya wa takushii no goriyou ga benri de gozaimasu. Densha wa shuuden ga gozaimasu no de.*</small>

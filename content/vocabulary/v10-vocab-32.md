@@ -7,15 +7,16 @@ title: クーポン (kuupon)
 クーポン comes from the English "coupon" and refers to any certificate, voucher, or digital code that entitles the holder to a discount, complimentary item, or special benefit. In Japanese hospitality, クーポン come in many forms: paper coupons tucked into hotel amenity packets, digital codes sent via email or booking platforms, and QR-based promotions on travel apps. They serve as marketing tools to attract new guests and reward returning ones, and handling them well is an important operational skill. A smooth クーポン redemption leaves the guest feeling valued. A poorly handled one creates an awkward moment at the counter.
 
 Before applying any クーポン, check two things: that it's 有効 (valid, meaning within its expiry date) and that the guest's purchase or service qualifies under the stated conditions. If a クーポン cannot be applied, staff should explain the specific reason clearly and apologetically, then offer whatever help is possible. A common error is skipping the condition check and trying to apply it, which leads to system errors and confusion. When a クーポン is accepted, staff should confirm the discounted amount out loud with the guest before finalizing the transaction so there is no surprise at the total
-## Example Sentences
 
 こちらのクーポンをお使いいただくと10%の割引となります。
 <small>*Kochira no kūpon o otsukai itadaku to jū-pāsento no waribiki to narimasu.*</small>
 Using this coupon will give you a 10% discount.
 
+
 クーポンの有効期限をご確認ください。
 <small>*Kūpon no yūkō kigen o gokakunin kudasai.*</small>
 Please check the expiry date of your coupon.
+
 
 申し訳ございませんが、こちらのクーポンはレストランのご利用には適用できません。
 <small>*Mōshiwake gozaimasen ga, kochira no kūpon wa resutoran no goriyō ni wa tekiyō dekimasen.*</small>

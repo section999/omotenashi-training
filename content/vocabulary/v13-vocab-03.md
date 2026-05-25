@@ -8,15 +8,15 @@ title: 上司 (joushi)
 
 In practical terms, employees are expected to report task progress to their 上司, seek approval before making independent decisions, and check in when anything uncertain comes up. The triad 報告・連絡・相談, report, communicate, consult, often abbreviated as ホウレンソウ, is something every Japanese hospitality professional learns early, and 上司 sits at the centre of all three. A good supervisor in hospitality also models guest-service behaviour directly, setting the tone the rest of the team follows.
 
-## Example Sentences
-
 上司に報告書を提出しました。
 <small>*Joushi ni houkokusho o teishutsu shimashita.*</small>
 I submitted the report to my boss.
 
+
 チェックアウトのトラブルについて上司に相談しました。
 <small>*Chekku-auto no toraburu ni tsuite joushi ni soudan shimashita.*</small>
 I consulted my supervisor about the check-out issue.
+
 
 上司の承認を得てから、お客様に返答いたします。
 <small>*Joushi no shounin o ete kara, okyakusama ni hentou itashimasu.*</small>

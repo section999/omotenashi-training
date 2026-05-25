@@ -7,8 +7,6 @@ title: 発送 (hassou)
 
 When staff help a guest with 発送, the job is more than just handing them a form. Staff should help fill it in accurately, confirm the delivery address character by character if needed, advise on expected transit times, and flag any restrictions on what can be shipped, particularly liquids or lithium batteries on international routes. Handling the paperwork on behalf of a guest who cannot read Japanese is one of those small acts that guests remember. Staff should always hand over a tracking number or receipt after the 発送 is completed: that piece of paper is the guest's only proof that the package is on its way.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。<br><small>*O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*</small> | We can help you send your souvenir bags to your home. Please fill in the shipping form. |

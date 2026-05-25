@@ -7,15 +7,16 @@ title: 使用禁止 (shiyou kinshi)
 使用禁止 means "do not use" or "use prohibited," a directive that restricts access to a particular device, facility, or area. The compound combines 使用 (use) and 禁止 (prohibition), making it one of the clearest safety communications in a Japanese hotel. Unlike 点検中 (under inspection), which implies a temporary pause while something is being checked, 使用禁止 carries the weight of a rule: the facility cannot and must not be used until the prohibition is formally lifted. This applies to pools closed for water quality testing, out-of-order gym equipment, malfunctioning kitchen appliances, or areas sealed after an incident.
 
 When posting a 使用禁止 notice, staff should ensure it is visible at every access point to the restricted area and that the reason is communicated alongside it, whether on the sign itself or in person. Guests should not be left guessing. A short explanation like 安全確認のため (for safety verification) or 設備修理のため (for equipment repair) reassures guests that the restriction is purposeful and temporary. A common error is forgetting that when 使用禁止 affects a service the guest was expecting, such as a pool included in their booking, alternatives or compensation should be offered as appropriate. Monitoring compliance is also part of the job. If a guest ignores the sign, staff should intervene calmly, politely, and without making them feel embarrassed
-## Example Sentences
 
 安全点検のため、このジムのトレッドミルは使用禁止となっております。
 <small>*Anzen tenken no tame, kono jimu no toreddoMiru wa shiyou kinshi to natte orimasu.*</small>
 This gym treadmill is prohibited from use due to a safety inspection.
 
+
 使用禁止の表示がある機器はご利用になれませんので、ご了承ください。
 <small>*Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.*</small>
 Please note that equipment displaying a'do not use' sign cannot be operated.
+
 
 プールの水質検査が完了次第、使用禁止を解除いたします。
 <small>*Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.*</small>

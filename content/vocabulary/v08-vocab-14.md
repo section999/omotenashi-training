@@ -7,8 +7,6 @@ title: 手前 (temae)
 
 The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). In a hospitality context, that last usage is especially important: 手前 can mean "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (〜で). Blurring these distinctions can send guests past where they needed to stop
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 受付カウンターは入り口の手前にございます。<br><small>*Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.*</small> | The reception counter is just before the entrance. |

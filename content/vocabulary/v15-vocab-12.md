@@ -7,8 +7,6 @@ title: 受取 (uketori)
 
 Hotel staff use 受取 when confirming that a courier delivery has arrived, when returning laundered items to a guest, or when handing over stored luggage. The process typically involves verifying a guest's name, room number, or claim ticket before releasing any item, ensuring that nothing is given to the wrong person. Staff will often say 「お受け取りの確認をさせていただきます」 to signal that a verification step is taking place. When guests come to collect their belongings, a smooth 受取 experience, with courteous acknowledgment and efficient handling, leaves a strong positive impression.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | フロントにてお荷物のお受け取りをお待ちしております。<br><small>*Furonto nite o-nimotsu no o-uketori wo o-machi shite orimasu.*</small> | We are holding your parcel at the front desk, ready for you to collect. |

@@ -8,15 +8,15 @@ title: 避難経路 (hinan keiro)
 
 In the context of omotenashi, communicating 避難経路 information goes beyond checking a box for legal compliance. Professional staff deliver this calmly during check-in ("ご宿泊中のご案内として、避難経路をご確認ください"), back it up with the safety card in the guest room, and reinforce it through regular fire drills (避難訓練). A guest who hears this information delivered confidently and warmly is far more likely to remember it when it matters. When a real emergency happens, the staff member who has internalized the routes can guide panicked guests with authority, and that is where responsible hospitality becomes something deeper than good service.
 
-## Example Sentences
-
 お部屋のドアの裏に避難経路図が貼られております。緊急の際はこちらをご参照ください。
 <small>*O-heya no doa no ura ni hinan keiro-zu ga hararete orimasu. Kinkyuu no sai wa kochira wo go-sanshou kudasai.*</small>
 An evacuation route map is posted on the back of the room door. Please refer to it in an emergency.
 
+
 火災の場合は避難経路に従い、エレベーターをご利用にならず、階段でご避難ください。
 <small>*Kasai no baai wa hinan keiro ni shitagaia, erebeetaa wo go-riyou ni narazu, kaidan de go-hinan kudasai.*</small>
 In the event of a fire, please follow the evacuation route, and evacuate via the stairs: do not use the elevator.
+
 
 本日の避難訓練では、全スタッフが避難経路と集合場所を再確認いたします。
 <small>*Honjitsu no hinan kunren de wa, zen-sutaffu ga hinan keiro to shuugou basho wo sai-kakunin itashimasu.*</small>

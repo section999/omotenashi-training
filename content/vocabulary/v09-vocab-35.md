@@ -7,8 +7,6 @@ title: 個人予約 (kojin yoyaku)
 
 Individual reservations offer the most opportunity for meaningful personalization. Repeat guests' preferences stored in the system: preferred floor, pillow type, dietary restrictions, or a preferred wake-up time, can be applied to a 個人予約. Staff who greet an individual guest by name and reference a previous stay (前回もお世話になりました、お帰りなさいませ, welcome back, it's good to have one with us again) create a powerful impression of care. 個人予約 guests also tend to be flexible in expressing preferences during their stay, so staff should remain attentive throughout, not only at check-in, to any signals that a guest's needs are not fully being met.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。<br><small>*Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.*</small> | Guests with individual reservations, please proceed to the front desk for identity verification before checking in. |

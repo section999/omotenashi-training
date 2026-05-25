@@ -7,15 +7,16 @@ title: ダブルルーム (double room)
 ダブルルーム designates a guest room with one double or queen-sized bed, intended for two occupants. It is the room type couples most commonly book, and it aligns with international hotel terminology, so guests who have travelled widely will expect the term to mean what it says. The critical distinction between ダブルルーム and ツインルーム is their bed arrangement. Both rooms sleep two people; the difference is the bed arrangement, and getting it wrong at check-in can cause disappointment, particularly for couples expecting to share a bed, or business partners expecting separate ones.
 
 Staff should verify ダブルルーム reservations carefully at check-in and phrase confirmations so there is no room for misunderstanding. When proposing a ダブルルーム as an upgrade or alternative, the bed setup should be explained clearly. Higher-end properties sometimes label their offerings as queen or king rooms rather than ダブルルーム, so knowledge of those sub-categories allows staff to answer bed-size questions precisely
-## Example Sentences
 
 本日のご予約はダブルルームでございますね。ご確認ありがとうございます。
 <small>*Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.*</small>
 Your reservation today is for a double room. Thank you for confirming.
 
+
 ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？
 <small>*Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*</small>
 A double room has one bed: will that be all right for you?
+
 
 ダブルルームに空室がございますので、ご希望でしたらご案内できます。
 <small>*Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*</small>

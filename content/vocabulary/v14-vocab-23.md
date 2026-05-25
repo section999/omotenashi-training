@@ -7,8 +7,6 @@ title: 切符 (kippu)
 
 Hotel staff often step in to help guests navigate 切符 purchases, especially for day trips or onward journeys by shinkansen. The vending machines (自動券売機) at stations look intimidating to first-time users: many fare options, mostly Japanese-language menus, and many buttons. However, most major stations have machines with an English display option, and the manned windows called みどりの窓口 can handle complex itineraries when the machine is not enough. A reassuring phrase to pass along to guests is 「切符の購入でお困りの際は、駅員にお声がけいただければ親切に対応してくださいます」. Station staff in Japan are almost always willing to help.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 切符を買って電車に乗りました。<br><small>*Kippu wo katte densha ni norimashita.*</small> | I bought a ticket and took the train. |

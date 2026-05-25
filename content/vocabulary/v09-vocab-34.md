@@ -6,8 +6,6 @@ title: 団体予約 (dantai yoyaku)
 団体予約 (dantai yoyaku) combines 団体 (dantai, group, party, or organization) with 予約 (yoyaku, reservation), denoting a booking made for a group rather than an individual or couple. Japanese hotels generally define a 団体予約 as any booking for 10 or more guests, though some properties apply the classification from as few as 6 or 8. Groups can come from many sources: tourism parties, corporate retreats, school field trips (修学旅行, shuugaku ryokou), wedding parties, or sports teams. Because these bookings involve multiple rooms, coordinated arrival times, group meals, and often special programming, they require a coordination process beyond standard individual reservation handling.
 
 Successfully managing a 団体予約 depends on internal communication between departments. A グループ担当者 (group coordinator on the hotel side) should be assigned to serve as the single point of contact, both internally and with the group's organizer. A 名簿 (meibo, guest manifest) listing all members' names and room assignments is prepared in advance, so the front desk can handle multiple check-ins efficiently. Group meals are coordinated with the kitchen, and dietary requirements noted in the reservation are passed to the restaurant ahead of time. When the group arrives, greeting them as a unified delegation, 〇〇様グループの皆様、ようこそお越しくださいました, creates a sense of reception and belonging from the first moment.
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 団体予約は10名様以上より承っております。グループ担当者を一名お決めいただけますでしょうか。<br><small>*Dantai yoyaku wa juumeisama ijou yori uketamawaitte orimasu. Guruupu tantousha wo ichimei o-kime itadakemasu deshou ka.*</small> | Group reservations are accepted for parties of 10 or more. Could you designate one person as the group coordinator? |

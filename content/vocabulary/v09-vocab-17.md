@@ -6,15 +6,16 @@ title: 素泊まり (sudomari)
 素泊まり breaks down clearly from its parts: 素 (su) means "plain" or "bare," and 泊まり (tomari) means "staying overnight," so together they describe a stay without any meals attached. It is the most basic option in Japanese hotel and ryokan settings and stands in contrast to the meal-inclusive plans that are especially common at ryokan. Guests choose 素泊まり for different reasons: some want to explore local restaurants, some want to keep costs down. For staff, the practical importance of knowing a guest is on 素泊まり is that it prevents the awkward situation of directing someone toward the dining room for a meal they have not paid for.
 
 Confirming that no meals are included is the starting point. The omotenashi approach is to follow up with something useful: a recommendation for nearby restaurants, a mention of room service options, or directions to the nearest convenience store. A guest who chose 素泊まり to save money or stay flexible is not looking for an apology but for good local information. Providing that turns the conversation into a productive service interaction
-## Example Sentences
 
 お客様のご予約は素泊まりプランでございます。お食事のご用意はございませんが、近くにレストランがいくつかございます。
 <small>*O-kyaku-sama no go-yoyaku wa sudomari puran de gozaimasu. O-shokuji no go-youi wa gozaimasen ga, chikaku ni resutoran ga ikutsuka gozaimasu.*</small>
 Your reservation is under the room-only plan. Meals are not included, but there are several restaurants nearby.
 
+
 素泊まりのお客様には、朝食を別途ご注文いただけます。
 <small>*Sudomari no o-kyaku-sama ni wa, choushoku wo betto go-chuumon itadakemasu.*</small>
 Guests on the room-only plan may order breakfast separately.
+
 
 素泊まりプランの場合、チェックアウトは11時までとなっております。
 <small>*Sudomari puran no baai, chekku-auto wa juuichi-ji made to natte orimasu.*</small>

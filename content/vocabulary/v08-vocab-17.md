@@ -7,8 +7,6 @@ title: 正面 (shoumen)
 
 In daily use, 正面 appears in directions such as 正面玄関はこちらでございます, or when describing a lobby layout: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what a guest sees when facing a particular direction, as in エレベーターを出て正面がレストランでございます. saying 正面です without a subject can be ambiguous in a large lobby with multiple focal points, so staff should pair it with a clear reference.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。<br><small>*Hoteru no shoumen ni chuushajou ga gozaimasu. Gotouchaku no sai wa sochira o goriyou kudasai.*</small> | There is a parking lot in front of the hotel. Please use it upon your arrival. |

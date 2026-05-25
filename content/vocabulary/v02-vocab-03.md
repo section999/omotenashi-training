@@ -6,8 +6,6 @@ title: チェックアウト (check-out)
 チェックアウト is the formal process by which a guest settles their bill and officially ends their stay. It is the final significant interaction between a hotel and its guest, so it carries weight in shaping the overall memory of the visit. In Japanese hospitality, a graceful チェックアウト is just as important as a warm チェックイン. The farewell must be sincere, efficient, and leave the guest feeling valued. Staff typically confirm any outstanding charges, present the 領収書 (receipt), collect the room key, and express heartfelt appreciation for the guest's patronage.
 
 チェックアウト often falls during a high-traffic window in the late morning, so staff must balance speed with warmth. Asking about the guest's stay with 滞在はいかがでしたか is a touch that guests appreciate. Checking whether baggage storage or transport assistance is needed before the guest leaves is an example of proactive omotenashi. The standard departure time in Japanese hotels is 11:00 a.m., and guests who wish to stay later will need to request a レイトチェックアウト
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。<br><small>*Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.*</small> | Have you finished checking out? We have your bill ready. |

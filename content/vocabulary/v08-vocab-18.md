@@ -7,15 +7,15 @@ title: 裏 (ura)
 
 In a hospitality context, 裏 appears in directional guidance such as 荷物のお受け取りは建物の裏にございます (baggage pickup is at the back of the building) or 配送の方は裏口をご利用ください (delivery personnel should use the rear entrance). Staff may also use it when explaining the layout of a property to guests who are curious about the grounds: 駐車場は建物の裏側にございます (the parking area is at the rear of the building). When guiding a guest to an area near the 裏, staff should accompany the word with a clear reason and ideally offer to escort the guest rather than pointing.
 
-## Example Sentences
-
 荷物受け取りは建物の裏にございます。スタッフがご案内いたします。
 <small>*Nimotsu ukétori wa tatemono no ura ni gozaimasu. Sutaffu ga goannai itashimasu.*</small>
 The baggage pickup is at the back of the building. A staff member will guide you.
 
+
 配送業者の方は正面玄関ではなく、裏口からお入りください。
 <small>*Haisou gyousha no kata wa shoumen genkan de wa naku, uraguchi kara ohairi kudasai.*</small>
 Delivery personnel, please enter through the rear entrance rather than the main front entrance.
+
 
 駐車場はホテルの裏側にございます。エレベーターで地下１階へお下りください。
 <small>*Chuushajou wa hoteru no uragawa ni gozaimasu. Erebeetaa de chika ikkai e oori kudasai.*</small>

@@ -6,8 +6,6 @@ title: 変更 (henkou)
 変更 means "change" or "modification" in the sense of officially altering an existing arrangement, plan, or reservation. Guests request it all the time: tweaking check-in or check-out dates, switching room types, adjusting the number of guests, or adding a special request they forgot at booking. 変更 keeps the original booking alive while updating its details, which makes it fundamentally different from a full cancellation. When a guest says they want a 変更, they still intend to stay at the property.
 
 In a hospitality context, the workflow is fairly consistent: acknowledge the request warmly, check the system, then either confirm the change or offer an alternative. The opener ご変更のご希望でございますね confirms to the guest that the request has been understood. If a room upgrade or other change comes with an added charge, say so clearly and politely before making the modification. Closing with 変更内容をご確認いただけますか wraps the interaction neatly and prevents the kind of misunderstanding that causes problems at check-out
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ご予約の変更は可能でございます。<br><small>*Go-yoyaku no henkō wa kanō de gozaimasu.*</small> | Changes to your reservation are possible. |

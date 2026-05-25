@@ -7,8 +7,6 @@ title: 予約席 (yoyaku seki)
 
 In daily restaurant operations, 予約席 are typically marked with reservation cards or indicated on the seating chart. When a guest approaches or sits at a reserved table, staff must respond immediately but courteously, using a phrase such as こちらは予約席でございます to inform the guest without causing embarrassment. However, the words alone are not enough. Staff should always follow up with an alternative: こちらは予約席でございます。あちらのお席へご案内いたしましょうか. In pre-service briefings, staff confirm which tables are 予約席 for each service period and who the reservations belong to.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらは予約席でございます。誠に恐れ入りますが、別のお席へご案内いたします。<br><small>*Kochira wa yoyaku seki de gozaimasu. Makoto ni osore irimasu ga, betsu no o-seki e go-annai itashimasu.*</small> | This is a reserved seat. I am very sorry, but I will guide you to another table. |

@@ -6,15 +6,16 @@ title: コンディショナー (kondishonaa)
 コンディショナー is the Japanese loanword for hair conditioner, and it goes hand-in-hand with シャンプー in hotel and ryokan bathrooms. Some budget properties historically offered only shampoo, but guest expectations have shifted, especially among international travelers, and conditioner is now treated as a baseline item. Higher-end properties provide both as a matched pair without question. In ryokan settings, the コンディショナー sometimes reflects the property's regional character, with products featuring camellia oil (椿油) or hinoki (Japanese cypress) extract adding something local to the bath experience. Housekeeping staff are responsible for making sure コンディショナー is stocked, sealed or full, and neatly positioned beside シャンプー.
 
 Staff should be ready to tell guests exactly where the コンディショナー is located, whether that is on a shower shelf, in a wall-mounted dispenser, or near the sink with other amenities. If a guest raises product concerns or ingredient questions, staff should respond helpfully and honestly rather than guessing. Staff should offer to retrieve the product information card or check for alternatives if the property's inventory allows. The distinction between コンディショナー (a rinse-out conditioner) and トリートメント (a deeper conditioning treatment offered at some luxury properties) does come up with guests, so knowing the difference helps staff answer confidently
-## Example Sentences
 
 コンディショナーはシャンプーの隣にシャワー横の棚にございます。
 <small>*Kondishonaa wa shanpuu no tonari ni shawaa yoko no tana ni gozaimasu.*</small>
 The conditioner is on the shelf next to the shower, beside the shampoo.
 
+
 コンディショナーをお持ちいたします。少々お待ちくださいませ。
 <small>*Kondishonaa wo omochi itashimasu. Shoushou omachi kudasaimase.*</small>
 I will bring you conditioner. Please wait just a moment.
+
 
 バスルームにはシャンプーとコンディショナーをご用意しております。
 <small>*Basurumu ni wa shanpuu to kondishonaa wo goyo'i shite orimasu.*</small>

@@ -6,15 +6,16 @@ title: 点検 (tenken)
 点検 means inspection or systematic checking: the deliberate, often scheduled examination of a room, piece of equipment, or facility to verify that everything is in correct working order. In Japanese hospitality, 点検 reflects the value of catching problems before guests encounter them. A thorough 点検 routine is what allows a hotel to deliver a consistently smooth stay. The flickering light, the loose door hinge, the nearly depleted amenity all get noticed and addressed before the guest ever has to mention them.
 
 In hotel operations, 点検 takes many forms: daily room checks before guest arrival, periodic safety inspections of fire extinguishers and emergency exits, and post-departure checks after checkout. When entering a room or a guest area for inspection purposes, staff use phrases like 設備の点検を行っております ("we are conducting an equipment inspection") to explain their presence. The word also appears in written records. 点検済み (inspection completed) is stamped or initialed on checklists to confirm that a space has been cleared for guest use
-## Example Sentences
 
 安全のため、定期的に設備の点検を行っております。
 <small>*Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.*</small>
 For safety, we conduct regular inspections of the facilities.
 
+
 チェックイン前に客室の点検を完了いたしました。
 <small>*Chekkuin mae ni kyakushitsu no tenken wo kanryou itashimashita.*</small>
 We have completed the room inspection prior to check-in.
+
 
 ただいまエレベーターの点検中でございます。ご不便をおかけして申し訳ございません。
 <small>*Tadaima erebeetaa no tenken-chuu de gozaimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.*</small>

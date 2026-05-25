@@ -7,8 +7,6 @@ title: シャワー (shower)
 
 Staff typically explain the shower during the room orientation given at check-in, pointing out how to adjust water temperature, how the handheld unit functions, and where the controls are located. Common phrases include 「シャワーは温度調節が可能でございます」 (the shower temperature is adjustable) and 「シャワーのご使用方法についてご説明いたします」 (I will explain how to use the shower). In ryokan settings where a communal bath is the norm, staff may also clarify whether the in-room shower serves as a rinsing station before entering the ofuro.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お部屋のシャワーは温度調節が可能でございます。<br><small>*Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.*</small> | The shower in the room allows you to adjust the temperature. |

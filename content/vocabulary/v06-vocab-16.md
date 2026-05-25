@@ -7,15 +7,16 @@ title: パスワード (pasuwaado)
 パスワード is the Japanese rendering of the English word "password," adopted as one of many technology-related loanwords that became standard in the digital era. In hotel contexts it refers almost exclusively to the Wi-Fi access password, though it also applies to digital room safes or online reservation portals. Because passwords often mix letters, numbers, and symbols, miscommunication is very common when they are only spoken aloud. Written delivery is not just a courtesy here, it is a practical necessity.
 
 Staff typically present パスワード on a printed card in the room, on the key envelope, or on a small slip handed over at check-in. When communicating it verbally, staff speak slowly and offer to write it down. Useful phrases include 「Wi-FiのパスワードはこちらにXXXXとございます」 and 「大文字・小文字にご注意ください」 (please pay attention to uppercase and lowercase letters). ryokan properties sometimes have the password brushed in calligraphy on a decorative card, which is a small but thoughtful aesthetic touch that guests remember
-## Example Sentences
 
 Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。
 <small>*Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.*</small>
 Here is the Wi-Fi password. Please check it.
 
+
 パスワードは大文字と小文字を区別してご入力ください。
 <small>*Pasuwaado wa oumoji to komoji wo kubetsu shite go-nyuuryoku kudasai.*</small>
 Please enter the password distinguishing between uppercase and lowercase letters.
+
 
 パスワードがご不明の場合は、いつでもフロントへお申しつけください。
 <small>*Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.*</small>

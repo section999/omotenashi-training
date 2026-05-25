@@ -7,8 +7,6 @@ title: 荷物預かり (nimotsu azukari)
 
 When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyyour experience smooth.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | チェックインは午後3時からですが、お荷物はただいまからお預かりできます。<br><small>*Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.*</small> | Check-in begins at 3:00 PM, but we can take your luggage right now. |

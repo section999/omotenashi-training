@@ -10,8 +10,6 @@ In professional hospitality, *arigatō gozaimasu* should sound like it means som
 
 Two important distinctions: *arigatō gozaimasu* (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot say why
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ありがとうございます。ただいまお部屋にご案内いたします。<br><small>*Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*</small> | Thank you. I will show you to the room now. |

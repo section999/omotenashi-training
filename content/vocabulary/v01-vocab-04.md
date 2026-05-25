@@ -10,8 +10,6 @@ In hospitality, the evening greeting window is important because it often coinci
 
 The phrase has the same structural origin as *konnichiwa*, both were once part of longer expressions about how "today/tonight is going", but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こんばんは。お疲れのところ、ようこそお越しくださいました。<br><small>*Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*</small> | Good evening. Welcome, and thank you for coming despite your tiredness. |

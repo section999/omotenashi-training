@@ -7,15 +7,16 @@ title: 救急車 (kyuukyuusha)
 救急車 is an ambulance staffed by paramedics (救急救命士) and equipped for immediate care and rapid transport to hospital. In Japan, the emergency number for both ambulance and fire services is 119. Every hospitality staff member must know this number before working their first shift. When a guest loses consciousness, experiences a serious medical episode, sustains a severe injury, or needs care beyond what basic first aid can provide, staff should call without hesitation. Japan's ambulance response times are excellent in urban areas, but that does not mean staff should wait. 応急処置 (first aid) should be started immediately while another person makes the call.
 
 When contacting the dispatcher, staff should state the facility name and complete address, describe the patient's condition and current symptoms, include any medical history the guest has shared, and keep the line open to follow instructions. One staff member should be designated to wait at the building entrance to meet the paramedics and guide them directly to the patient. Lobby navigation wastes seconds that matter in a medical emergency. After the incident, an incident report should be completed, and follow-up with the guest's family or the hospital should be conducted as appropriate
-## Example Sentences
 
 怪我をしたら救急車を呼んでください。
 <small>*Kega wo shitara kyuukyuusha wo yonde kudasai.*</small>
 Call an ambulance if someone is injured.
 
+
 お客様が客室で倒れているとのご連絡を受け、すぐに救急車を手配しました。
 <small>*Okyakusama ga kyakushitsu de taorete iru to no gorenraku wo uke, sugu ni kyuukyuusha wo tehai shimashita.*</small>
 We received a report that a guest had collapsed in their room, and we immediately arranged an ambulance.
+
 
 救急車が到着するまでの間、スタッフが応急処置を施しました。
 <small>*Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.*</small>

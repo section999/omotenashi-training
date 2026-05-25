@@ -6,8 +6,6 @@ title: クレジットカード (credit card)
 クレジットカード is the standard Japanese term for a credit card, and it comes up throughout hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Knowing when and how to request a credit card without making the guest feel distrusted is a skill worth practising.
 
 In a hospitality context, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). When a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is an indicator of professional competence
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | クレジットカードを拝見してもよろしいでしょうか。<br><small>*Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*</small> | May I take a look at your credit card? |

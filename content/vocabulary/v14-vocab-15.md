@@ -6,15 +6,16 @@ title: ツアー (tsuaa)
 ツアー comes from the English "tour" and refers to any planned sightseeing itinerary that bundles transportation, guidance, and often meals or entry fees into a single package. Japan's tourism market has a huge range of ツアー products, from half-day city walks to multi-day regional journeys, and hotels often act as booking intermediaries. Guests who choose a ツアー are handing the logistics to professionals so they can focus entirely on the experience. Staff will see the word prominently in hotel lobbies on brochure racks labelled おすすめツアー.
 
 Concierge staff need to be fluent in describing different ツアー types. The key distinctions are グループツアー versus プライベートツアー, and 日帰りツアー (day-trip) versus 宿泊ツアー (overnight). When a guest shows interest, a phrase like 「ご希望に合ったツアーをご提案いたします」 goes a long way. Knowing which operators have strong reputations for punctuality and English-speaking support distinguishes average concierge advice from advice guests trust and act on
-## Example Sentences
 
 京都の観光ツアーに参加しました。
 <small>*Kyouto no kankoukyaku tsuaa ni sanka shimashita.*</small>
 I joined a sightseeing tour in Kyoto.
 
+
 日帰りツアーでは奈良の鹿園もご覧いただけます。
 <small>*Higaeri tsuaa de wa Nara no shikien mo goran itadakemasu.*</small>
 On the day-trip tour, one can also see the deer park in Nara.
+
 
 プライベートツアーをご希望でしたら、フロントにてお手配いたします。
 <small>*Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*</small>

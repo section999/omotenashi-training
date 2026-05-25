@@ -7,8 +7,6 @@ title: 交差点 (kousaten)
 
 When using 交差点 in guidance, specifying what the guest should do at it is important: whether to cross it (渡る), turn at it (曲がる), or use it as a reference point. Mentioning the traffic signal (信号) alongside it helps guests locate the intersection before they reach it. For guests unfamiliar with local traffic flow, a reminder to wait for the signal and stay alert for bicycles (自転車にご注意ください) is the kind of proactive thoughtfulness that distinguishes omotenashi hospitality from ordinary service
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 交差点を渡って左に曲がってください。<br><small>*Kousaten wo watatte hidari ni magatte kudasai.*</small> | Please cross the intersection and turn left. |

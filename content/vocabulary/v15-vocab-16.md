@@ -7,8 +7,6 @@ title: 管理番号 (kanri bangou)
 
 This is how it works. When a guest drops off luggage for storage, staff record the 管理番号 on both the claim ticket handed to the guest and the tag attached to the bag. That double record means even if the bag gets moved within the storage area, staff can still trace it back to its owner in seconds. For courier deliveries, the 管理番号 on the waybill connects the parcel directly to the guest's room number. Staff should get into the habit of reading the 管理番号 aloud when handing a ticket to a guest, and reminding them to keep it safe until they collect their item. It is a small step that prevents a lot of headaches later.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。<br><small>*Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.*</small> | This is the tracking number for your luggage. Please present it when one comes to collect it. |

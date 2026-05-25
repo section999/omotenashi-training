@@ -7,15 +7,16 @@ title: 確認作業 (kakunin sagyou)
 確認作業 means checking work or verification work: the deliberate, systematic process of reviewing tasks, room conditions, documents, or event setups to confirm that everything meets required standards before it reaches a guest or a superior. In Japanese hospitality, 確認作業 is expected. It is a built-in step in every service workflow. A room attendant performs 確認作業 after cleaning a guest room, working through the checklist to confirm that amenities are properly placed, towels are folded correctly, and nothing has been missed. A front desk associate performs 確認作業 before processing a checkout, making sure all charges are accurate. This habit of verifying before delivering contributes to the reputation for precision in Japanese hospitality.
 
 A common observation is that Japanese hotels seem to catch errors before they become visible to guests, and 確認作業 is the reason. Banquet staff verify setup diagrams before a function. Kitchen teams confirm every dish against the order ticket. Concierge staff double-check tour bookings the morning a guest departs. The goal is zero defects: catch the mistake internally, fix it quietly, and the guest never knows it happened. Checklists (チェックリスト) are the main tool for keeping 確認作業 organised, and they become valuable during busy periods when it is easy to lose track of what has been completed
-## Example Sentences
 
 客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。
 <small>*Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.*</small>
 Once the guest room is ready, please always carry out the verification check before escorting the guest.
 
+
 提出書類の確認作業を徹底することで、ミスを未然に防ぐことができます。
 <small>*Teishutsu shorui no kakunin sagyou wo tettei suru koto de, misu wo mizen ni fusegu koto ga dekimasu.*</small>
 By thoroughly carrying out document verification, mistakes can be prevented before they occur.
+
 
 バンケット開始1時間前に会場の確認作業を完了させる予定です。
 <small>*Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.*</small>

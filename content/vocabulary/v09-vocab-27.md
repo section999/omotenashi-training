@@ -8,15 +8,15 @@ title: 満席状況 (manseki joukyou)
 
 When staff need to inform a guest that dates or seats are fully booked, the recommended approach is to soften the news and offer an alternative in the same breath. The standard phrasing 誠に恐れ入りますが、ご希望の日程は満席状況でございます cushions the disappointment before the staff member pivots to options. 満席状況 is also used internally: briefings that flag 今週末は満席状況が続いております provide all departments with advance notice to prepare for peak-load service and address potential issues.
 
-## Example Sentences
-
 誠に恐れ入りますが、ご希望の日程は満席状況でございます。他のご日程でしたらご案内できますが、いかがでしょうか。
 <small>*Makoto ni osoreirimasu ga, go-kibou no nittei wa manseki joukyou de gozaimasu. Hoka no go-nittei deshitara go-annai dekimasu ga, ikaga deshou ka.*</small>
 I sincerely apologize, but the dates you requested are fully booked. We do have availability on other dates: would that work for you?
 
+
 今週末は満席状況が続いておりますので、キャンセル待ちにご登録されますか。
 <small>*Konshuu-matsu wa manseki joukyou ga tsuzuite orimasu node, kyanseru-machi ni go-touroku saremasu ka.*</small>
 We are fully booked through this weekend: would you like to be added to our cancellation waiting list?
+
 
 レストランも満席状況でございますが、15分ほどお待ちいただければご案内できます。
 <small>*Resutoran mo manseki joukyou de gozaimasu ga, juugo-fun hodo o-machi itadakereba go-annai dekimasu.*</small>

@@ -7,8 +7,6 @@ title: 出口 (deguchi)
 
 In daily hospitality use, 出口 appears in sentences like 出口は右手にございます or ご利用後は出口にてスタッフがご案内いたします. Restaurant staff use it to guide departing guests toward the correct door, particularly when a large dining room has multiple exits. An important skill is pairing 出口 with clear directional language, a calm tone, and a specific landmark, so guests can move confidently without needing to ask again
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 非常口の出口は右側です。ご確認いただけますようお願いいたします。<br><small>*Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*</small> | The emergency exit is on the right side. We ask that you please take note of it. |

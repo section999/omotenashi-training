@@ -7,8 +7,6 @@ title: 近く (chikaku)
 
 In daily hotel operations, 近く appears in responses to questions about the surrounding neighborhood, in printed materials like room folders and welcome guides, and in recommendations from concierge and front desk staff. When combined with phrases such as 「徒歩約〇分」 (approximately a [number]-minute walk) or 「〇〇を目印に」 (using [landmark] as a reference point), the description becomes precise enough to be useful. If a destination is only borderline convenient for walking, calling it 近く is not recommended. Guests who find the journey longer than implied tend to feel misled
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 駅はホテルの近くにございます。徒歩で約5分でございます。<br><small>*Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.*</small> | The station is near the hotel: approximately a five-minute walk. |

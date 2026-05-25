@@ -6,15 +6,16 @@ title: 通訳 (tsuuyaku)
 通訳 means live, spoken interpretation between languages. The characters break down as 通 (to pass through, to communicate) and 訳 (to interpret or translate), and together they describe making meaning travel across a language barrier in real time. Hotel contexts generate 通訳 needs all the time: a guest struggling at check-in, a business conference that needs a professional interpreter, a staff member trying to smooth out a misunderstanding. 通訳 is always spoken and always live, which puts pressure on accuracy and composure. This is what distinguishes it from 翻訳, which handles written text at a more deliberate pace.
 
 When a guest needs 通訳 help, their first job is to clarify what kind they need: the language pair, the context, and whether a bilingual staff member can manage it or whether a certified professional is required. For a relaxed lobby conversation, a staff member with adequate language skills may be sufficient. For medical situations, legal matters, or complex business negotiations, a professional interpreter is the appropriate choice. Proactively offering this with 通訳が必要な場合はお申し付けください (please let us know if staff needs interpretation) is better than waiting for a guest to struggle visibly and then reacting
-## Example Sentences
 
 ご会議の際に通訳が必要でしたら、手配いたします。
 <small>*Go-kaigi no sai ni tsuuyaku ga hitsuyou deshitara, tehai itashimasu.*</small>
 If you require an interpreter for your meeting, we will arrange one.
 
+
 英語と日本語間の通訳は、スタッフがご対応いたします。
 <small>*Eigo to nihongo-kan no tsuuyaku wa, sutaffu ga go-taiou itashimasu.*</small>
 Our staff will handle interpretation between English and Japanese.
+
 
 通訳のご要望がございましたら、フロントまでお申し付けくださいませ。
 <small>*Tsuuyaku no go-youbou ga gozaimashitara, furonto made omoshitsuke kudasaimase.*</small>

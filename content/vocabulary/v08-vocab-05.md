@@ -7,8 +7,6 @@ title: 角 (kado)
 
 In hotel communication, 角 most frequently appears as 次の角 (the next corner), 最初の角 (the first corner), or 二つ目の角 (the second corner), combined with 曲がる: 次の角を右に曲がってください. It also comes up in retail and restaurant contexts when directing guests around the exterior of a building or through a shopping complex. A common error is to overlook how important it is to specify which corner when multiple intersections are visible ahead. Ambiguity at corners is one of the leading causes of guests going the wrong way
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 次の角を右に曲がってください。<br><small>*Tsugi no kado wo migi ni magatte kudasai.*</small> | Please turn right at the next corner. |

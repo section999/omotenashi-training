@@ -7,8 +7,6 @@ title: アイロン (airon)
 
 Staff should know the basics of fabric and heat. Cotton and linen handle high temperatures fine; synthetics and silk need a low setting or a pressing cloth between the iron and the fabric to avoid scorching. When a guest reports a broken iron or asks to have one brought up, staff should treat it as urgent. That guest may be walking out the door in twenty minutes. If the room does not have one, staff should direct the guest to a shared laundry room or have one delivered right away.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | アイロンとアイロン台は備え付けのクロゼットの中にございます。<br><small>*Airon to airon dai wa sonaetsuke no kurozetto no naka ni gozaimasu.*</small> | The iron and ironing board are inside the built-in closet. |

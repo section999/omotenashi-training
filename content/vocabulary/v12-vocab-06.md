@@ -7,15 +7,16 @@ title: 警報 (keihou)
 警報 is an alert signal, auditory, visual, or both, that tells everyone in a building that immediate protective action is needed. In Japanese hospitality one encounter three main types: 火災警報 (fire alarm), 気象警報 (weather warning from the Japan Meteorological Agency), and internal emergency alerts over a hotel's PA system. Every activation of 警報 demands their full attention and response, even when staff suspects it might be a false alarm. Hesitation and dismissal are dangerous responses in an emergency. The cost of acting on a false alarm is inconvenience; the cost of ignoring a real one is greater.
 
 When a 警報 activates, their responsibilities follow a sequence: verifying the cause as quickly as safety permits, initiating the evacuation announcement, contacting emergency services, and keeping guests calm and moving in the right direction. Hotels regularly test alarm systems, so staff need to know the difference between a test signal and a live activation. When it is a 気象警報 for a typhoon or heavy snow rather than a fire, the response shifts toward operational adjustments: restricting outdoor activities, preparing contingency plans, and making sure stranded guests have what they need
-## Example Sentences
 
 火災警報が鳴ったらすぐに避難してください。
 <small>*Kasai keihou ga nattara sugu ni hinan shite kudasai.*</small>
 When the fire alarm sounds, evacuate immediately.
 
+
 ただいま警報が発令されました。お客様はスタッフの指示に従って行動してください。
 <small>*Tadaima keihou ga hatsurei saremashita. Okyakusama wa sutaffu no shiji ni shitagatte koudou shite kudasai.*</small>
 An alarm has just been activated. Guests, please follow the instructions of the staff.
+
 
 本日、台風に伴う気象警報が発令されましたので、外出はお控えください。
 <small>*Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.*</small>

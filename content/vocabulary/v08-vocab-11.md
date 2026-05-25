@@ -7,8 +7,6 @@ title: 地下 (chika)
 
 When directing guests to 地下, specifying the elevator button or stair access is important, since "the basement" tells guests where to go but not how to get there. If there are multiple basement levels (地下一階、地下二階), naming the specific level is essential. A guest who ends up on the wrong basement floor wastes time and may perceive the service as careless. Mentioning what they will find upon arrival, such as 駐車場でございます or ジムはこちらになります, confirms they have reached the right place.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 駐車場は地下にございます。<br><small>*Chuushajou wa chika ni gozaimasu.*</small> | The parking lot is in the basement. |

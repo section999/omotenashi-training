@@ -8,8 +8,6 @@ title: フロント (furonto)
 
 Staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational hub of the property
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | フロントはこちらでございます。どうぞこちらへお越しください。<br><small>*Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*</small> | The front desk is right here. Please come this way. |

@@ -6,15 +6,16 @@ title: 少々お待ちください (shoushou omachi kudasai)
 少々お待ちください is a four-part phrase: 少々 (shoushou, a little / just a moment), お待ち (the honorific noun form of "waiting"), ください (please do). Together they form a polite request for the guest to wait briefly while the staff member attends to a task. In Japanese hospitality, this phrase performs a critical emotional function: it signals that the guest is not being ignored, that action is underway, and that their time is respected. Delivered with eye contact, a slight bow, and a calm tone, it transforms a pause in service into a moment of dignity.
 
 少々お待ちください precedes almost any situation where staff must step away or consult a system: checking reservations, retrieving items, consulting a colleague, or processing a transaction. The companion phrase 「お待たせいたしました」 (thank one for waiting / sorry to have kept one) should follow immediately upon returning. In high-end ryokan, staff may also say 「ただいま参ります」 (I will be right there) when responding to a guest summons before following with 少々お待ちください upon arrival. The pairing of these phrases creates a smooth, professional arc of interaction
-## Example Sentences
 
 少々お待ちください。ただいまご予約を確認いたします。
 <small>*Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.*</small>
 Please wait just a moment. I will check your reservation right now.
 
+
 お荷物をお預かりいたします。少々お待ちくださいませ。
 <small>*O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.*</small>
 I will take your luggage. Please wait just a moment.
+
 
 少々お待ちいただけますか。担当の者にお繋ぎいたします。
 <small>*Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*</small>

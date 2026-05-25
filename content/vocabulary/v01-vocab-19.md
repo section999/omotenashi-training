@@ -10,8 +10,6 @@ In hospitality, *o-ki wo tsukete* comes up whenever a guest departs. They are he
 
 A common error is rushing this phrase when things get busy, or dropping it entirely. Yet it matters most at those times. In Japanese culture, the moment of parting carries real weight. Saying *o-ki wo tsukete* with a genuine bow tells the guest something that no facility feature can: *I still care what happens to you once you leave.* That is omotenashi at the threshold
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | いってらっしゃいませ。お気をつけて。<br><small>*Itterasshai mase. O-ki wo tsukete.*</small> | Please go safely and come back well. Take care. |

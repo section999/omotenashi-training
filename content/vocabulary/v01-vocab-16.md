@@ -10,8 +10,6 @@ The phrase carries a specific emotional weight in Japanese cultural context. Tim
 
 Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらがお部屋でございます。ごゆっくりどうぞ。<br><small>*Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*</small> | This is the room. Please make yourself at home: take your time. |

@@ -7,15 +7,16 @@ title: 救助 (kyuujo)
 救助 means rescue: the active intervention that saves a person from a dangerous, life-threatening, or distressing situation. This word conveys urgency and purpose. In a hotel context, 救助 might mean pulling a guest from a flooded area, assisting someone trapped in an elevator, finding a missing child on the premises, or coordinating with emergency services to get guests out safely during a fire or structural emergency. Japanese law requires hotel management to establish and maintain effective emergency response systems, and 救助 procedures sit at the centre of those frameworks.
 
 Hotel staff are trained to begin initial 救助 actions while simultaneously alerting professional emergency responders. The goal is never to delay calling 119, but to take immediate stabilising action while help is on the way. One area where students often underestimate the complexity is evacuation scenarios: guests with mobility limitations, elderly visitors, and families with young children all need prioritised attention and cannot be expected to follow the standard evacuation flow on their own. Drills practise communication routes, rescue paths, and accountability procedures so that no guest gets left behind. Communication itself is a rescue skill. Clear, calm verbal guidance and simple physical gestures for guests who do not speak Japanese can make the difference in a chaotic situation
-## Example Sentences
 
 火災発生時には、スタッフが速やかにお客様の救助に当たります。
 <small>*Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.*</small>
 In the event of a fire, staff will promptly carry out guest rescue operations.
 
+
 エレベーターに閉じ込められたお客様の救助は、保守業者と連携して行います。
 <small>*Erebeetaa ni tojikoimerareta okyakusama no kyuujo wa, hoshuu gyousha to renkei shite okonaimasu.*</small>
 Rescue of guests trapped in the elevator will be carried out in coordination with the maintenance company.
+
 
 救助が必要な場合は、119番に通報するとともにフロントへお知らせください。
 <small>*Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.*</small>

@@ -6,15 +6,16 @@ title: 遠くに (tooku ni)
 遠くに (遠くに) means "far away" or "in the distance" and describes a location that requires significant travel time or effort to reach. In hospitality, accuracy about distance is part of professional integrity and omotenashi. Guests who are told something is 近く (nearby) when it is far away feel misled, and that disappointment damages the guest experience. The word 遠くに signals to guests that they should factor in extra time, consider taking public transport or a taxi, or adjust their plans accordingly. Paired with practical transport suggestions, 遠くに helps guests plan effectively.
 
 遠くに is useful when guests ask about destinations and staff need to manage their expectations: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (staff can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view
-## Example Sentences
 
 山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。
 <small>*Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.*</small>
 The mountain can be seen far away from the hotel. On a clear day one can see it particularly well.
 
+
 あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。
 <small>*Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.*</small>
 Unfortunately, that museum is far from the station. We recommend taking a taxi.
+
 
 徒歩では遠くにございますので、シャトルバスのご利用はいかがでしょうか。
 <small>*Toho de wa tooku ni gozaimasu node, shatorubasu no goriyou wa ikaga deshou ka.*</small>

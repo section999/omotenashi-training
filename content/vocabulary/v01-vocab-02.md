@@ -10,8 +10,6 @@ The phrase has a historical warmth built into it. It derives from *hayai* (早�
 
 In hotel settings, close attention to the time boundary is important. Using a morning greeting in the afternoon, even by accident, signals inattentiveness to the guest. Greeting a guest who has just come down to breakfast at 9 AM with *konnichiwa* feels off. Staff should read the guest's state and the clock, and use the greeting that fits the actual moment
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | おはようございます。本日のご朝食はご用意できております。<br><small>*Ohayō gozaimasu. Honjitsu no go-chōshoku wa go-yōi dekite orimasu.*</small> | Good morning. Your breakfast is ready for you today. |

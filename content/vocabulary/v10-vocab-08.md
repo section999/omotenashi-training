@@ -6,8 +6,6 @@ title: 内訳 (uchiwake)
 内訳 refers to an itemized breakdown detailing each individual charge making up a total bill: room rate, meals, in-room services, taxes, service charges, and any additional fees listed separately so the guest can see how the total was calculated. In Japanese hospitality, providing a clear 内訳 is a matter of transparency and respect. Good omotenashi practice means offering the 内訳 before the guest asks for it. Corporate guests rely on itemized statements for expense reporting, so accuracy in this area is important.
 
 The 内訳 appears on the 精算書 (settlement statement) or 明細書 (itemized statement) at checkout. Restaurant staff may offer one when a guest questions a charge, or proactively when the bill includes several components. Staff should be able to walk through each line item calmly and explain any unfamiliar charges. If a discrepancy turns up during the 内訳 review, it should be resolved before finalizing payment. Correcting things after the transaction is closed is more difficult.
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ご料金の内訳はこちらでございます。ご確認をお願いいたします。<br><small>*Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.*</small> | Here is the itemized breakdown of your charges. Please review it at your convenience. |

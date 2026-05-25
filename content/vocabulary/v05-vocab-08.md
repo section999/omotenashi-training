@@ -8,15 +8,15 @@ title: 提供 (teikyou)
 
 Timing is where 提供 gets challenging, and it is where strong communication between floor staff and the kitchen shows. In a multi-course meal, each dish must arrive after the previous one is finished and cleared, without awkward gaps or rushed deliveries. Experienced staff develop a rhythm with the kitchen team so courses flow naturally throughout the meal. In buffet settings, 提供 shifts meaning slightly to cover restocking: fresh items should be available, and empty trays should never sit on the counter for more than a moment.
 
-## Example Sentences
-
 お料理は順番に提供いたしますので、しばらくお待ちくださいませ。
 <small>*O-ryouri wa junban ni teikyou itashimasu no de, shibaraku o-machi kudasaimase.*</small>
 We will serve the dishes in order, so please wait a moment.
 
+
 ただいまお料理を提供いたします。こちらが本日のアミューズでございます。
 <small>*Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*</small>
 I will serve your dish now. This is today's amuse-bouche.
+
 
 ドリンクの提供にお時間をいただいております。大変申し訳ございません。
 <small>*Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*</small>

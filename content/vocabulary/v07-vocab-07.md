@@ -7,8 +7,6 @@ title: 遠い (tooi)
 
 Staff should also moderate how they use 遠い. Softening with 少し (a little) or やや (somewhat) before the word signals honesty without alarm, making the guest feel informed rather than brushed off. Replacing vague uses of 遠い with specific, actionable alternatives is recommended. Knowing typical travel times from the property to major local destinations by foot, taxi, and public transport enables that kind of precise, helpful guidance. At ryokan in rural areas, guests often have little prior knowledge of local distances, so this level of preparation is valued
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | 少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。<br><small>*Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.*</small> | It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen. |

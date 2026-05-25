@@ -10,8 +10,6 @@ In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the to
 
 The phrase is always in the past tense (*mashita*), which conveys immediate completion. A staff member using this phrase is not saying "I am receiving their request." They are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, the acknowledgement is already complete and action has begun
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | かしこまりました。ただいまお持ちいたします。<br><small>*Kashikomarimashita. Tadaima o-mochi itashimasu.*</small> | Certainly. I will bring it to you right now. |

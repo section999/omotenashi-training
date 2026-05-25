@@ -7,15 +7,16 @@ title: 伝言 (dengon)
 伝言 is a message passed from one person to another, typically because the intended recipient was not available to take the call directly. The phrase that surrounds it in professional use is 伝言をお預かりいたします, which uses the verb お預かりする, carrying the meaning of "to receive in trust." That framing is deliberate. When a staff member accepts a 伝言, they are not just scribbling something down, they are making a personal guarantee that the message will reach the right person, accurately and without delay. That sense of responsibility is what distinguishes professional Japanese telephone etiquette from taking notes.
 
 The protocol for handling 伝言 has three steps: receiving the message carefully, documenting it fully, and delivering it promptly. At minimum, staff need the caller's name, their phone number, the time of the call, and the substance of the request. Before hanging up, it should be read back: お名前が〇〇様、お電話番号が〇〇、ご用件が〇〇でございますね. That confirmation loop is expected; skipping the readback creates a risk of errors that only surfaces later, by which time the caller has already gone
-## Example Sentences
 
 担当者はただいま不在ですが、伝言をお預かりいたしましょうか。
 <small>*Tantōsha wa tadaima fuzai desu ga, dengon wo oazukari itashimashō ka.*</small>
 The person in charge is currently unavailable; may I take a message?
 
+
 ご伝言の内容を復唱いたします。〇〇様よりお電話があった旨、お伝えいたします。
 <small>*Godengon no naiyō wo fukushō itashimasu. Maru-maru-sama yori odenwa ga atta mune, otsutatae itashimasu.*</small>
 I will repeat your message back to you. I will let them know that Mr./Ms. [Name] called.
+
 
 伝言をお預かりしましたので、戻り次第ご連絡いたします。
 <small>*Dengon wo oazukari shimashita no de, modori shidai gorenraku itashimasu.*</small>

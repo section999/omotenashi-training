@@ -10,8 +10,6 @@ title: こんにちは (konnichiwa)
 
 The time window for *konnichiwa* matters. Using the phrase in the early morning or after dark shows a lack of attentiveness that experienced guests notice. It is a small slip, but in a service environment, small slips accumulate
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こんにちは。本日はいかがお過ごしでしょうか。<br><small>*Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.*</small> | Good afternoon. How has your day been? |

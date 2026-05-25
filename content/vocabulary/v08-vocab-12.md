@@ -7,8 +7,6 @@ title: 地下一階 (chika ikkai)
 
 The pronunciation follows an irregular counter pattern that is often missed: 地下一階 is chika-ikkai, not chika-ichi-kai. The double-k is important because the mispronounced version sounds foreign. When directing guests, effective phrasing pairs the floor name with both the elevator button label and what awaits them: 地下一階にございます。エレベーターのB1ボタンをお押しください. This two-part structure, location plus access instruction, is the standard for below-ground guidance in Japanese hospitality.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ジムは地下一階にございます。<br><small>*Jimu wa chika ikkai ni gozaimasu.*</small> | The gym is on basement level 1. |

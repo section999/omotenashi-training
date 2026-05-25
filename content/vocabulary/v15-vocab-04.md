@@ -7,8 +7,6 @@ title: 洗剤 (senzai)
 
 Guests with sensitive skin sometimes ask specifically about fragrance-free or hypoallergenic options, and being prepared for that question is a nice mark of thoroughness. Knowing the difference between detergents for regular cotton and those formulated for delicates is equally useful. A common error is to overlook one practical point: too much 洗剤 is a problem, as excess detergent leaves residue on garments and can irritate the skin. Mentioning this to guests before they start a wash is a small piece of advice that tends to be welcomed.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。<br><small>*Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.*</small> | We provide liquid detergent for the coin laundry. Please ask at the front desk. |

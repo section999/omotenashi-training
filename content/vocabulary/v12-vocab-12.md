@@ -7,15 +7,16 @@ title: 事故 (jiko)
 事故 is an unplanned event that causes injury, property damage, or serious disruption to normal operations. In hotels, that scope is wide: a guest slipping on a wet floor, a collision in the parking lot, a food poisoning case in the restaurant, or a work injury sustained by a staff member all count as 事故. Regardless of how minor something seems in the moment, every 事故 must be reported to management, documented in an incident report (事故報告書, jiko houkokusho), and properly followed up. Japan's hospitality industry operates within a strict legal framework that requires accurate records, and a missed report can create serious liability problems later.
 
 The response sequence is important: attend to the injured person first, then secure the scene to stop further harm, then report upward, then document. A common error is jumping straight to documentation while the person affected is still in distress. Regarding language when speaking to guests, staff should never admit legal liability on behalf of the property. Sincere concern should be expressed, practical help offered, and the matter escalated to management. How a hotel handles a 事故, in terms of speed, honesty, and care, often shapes how a guest feels about the property long after the incident itself
-## Example Sentences
 
 ホテル内で事故が発生した場合、フロントにご報告ください。
 <small>*Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.*</small>
 Report to the front desk if an accident occurs in the hotel.
 
+
 駐車場で車同士の接触事故が起き、スタッフがすぐに現場に駆けつけました。
 <small>*Chuushajou de kuruma doushi no sesshoku jiko ga oki, sutaffu ga sugu ni genba ni kaketsukemashita.*</small>
 A collision between two cars occurred in the parking lot, and staff rushed to the scene immediately.
+
 
 事故の詳細は報告書にまとめ、翌日マネージャーに提出しました。
 <small>*Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.*</small>

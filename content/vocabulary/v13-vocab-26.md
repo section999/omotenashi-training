@@ -7,15 +7,16 @@ title: 手順 (tejun)
 手順 means procedure or sequence of steps: a predefined, ordered set of instructions for completing a task correctly, safely, and consistently. Every department in a Japanese hotel has documented 手順 for its core activities -- the housekeeping 手順 for preparing a guest room, the front desk 手順 for processing a check-in, the concierge 手順 for arranging private car service. These procedures are not there to make work feel robotic. They exist to guarantee that every guest receives the same high standard of service regardless of who happens to be on shift that day. Following 手順 faithfully is, in its own way, a form of respect for the guest.
 
 手順 are introduced during onboarding and reinforced throughout ongoing 指導 (shidou, guidance). Supervisors observe staff as they work through tasks and step in when steps are skipped or done out of sequence. In safety-critical areas -- kitchen operations, food hygiene, maintenance -- following 手順 precisely is not just about service quality; it is about preventing accidents. New employees are expected to master the established 手順 before they start developing their own efficiencies within those boundaries. The phrase 手順を踏む (tejun wo fumu, to follow the procedure step by step) captures the cultural value placed on doing things in the right order, not just getting things done
-## Example Sentences
 
 清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。
 <small>*Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.*</small>
 By following the cleaning procedure, we can maintain consistent guest room quality.
 
+
 緊急時の対応手順については、全スタッフが熟知しておく必要があります。
 <small>*Kinkyuuji no taiou tejun ni tsuite wa, zen sutaffu ga jukuchi shite oku hitsuyou ga arimasu.*</small>
 All staff must be thoroughly familiar with the emergency response procedure.
+
 
 新しい予約システムの操作手順を、マニュアルにまとめてご案内いたします。
 <small>*Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.*</small>

@@ -7,8 +7,6 @@ title: 注意事項 (chuui jikou)
 
 Staff encounter 注意事項 in all sorts of settings. Onsen facilities post rules about tattoos and bathing order. Heritage sites specify no-photography zones. Adventure tour operators run through physical requirements and equipment briefings. Hotels cover quiet hours and fire exits. The challenge is always the same: how does staff communicate this information fully without making guests feel unwelcome? The answer is framing. Presenting 注意事項 as care for the guest's safety and experience, rather than as a list of restrictions, makes a real difference in how it is received. Written notices in multiple languages are now standard across most major tourist facilities in Japan.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ご入館の前に、施設の注意事項をご確認いただけますようお願い申し上げます。<br><small>*Go-nyuukan no mae ni, shisetsu no chuui jikou wo go-kakunin itadakemasu you o-negai moushiagemasu.*</small> | We kindly request that you confirm the facility's precautions before entering. |

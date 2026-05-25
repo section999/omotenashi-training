@@ -7,15 +7,16 @@ title: 請求書 (seikyuusho)
 請求書 is a formal invoice issued to request payment from a client or organization. It comes before payment, not after. The document states what is owed, when it is due, and where payment should be sent. In Japanese hospitality, 請求書 are most common in corporate billing situations -- when a company books rooms or conference facilities and payment is collected through a post-stay invoicing process rather than at checkout. A proper 請求書 includes the recipient's name and address, the payment due date, itemized services, total amount, bank transfer details, and the hotel's information.
 
 The distinction from 領収書 (receipt) matters both procedurally and legally. 領収書 is issued after payment; 請求書 is issued before. Mixing them up creates problems in a client's accounting system. Staff handling billing should dispatch 請求書 promptly after the service is completed -- delayed invoicing holds up a client's accounts payable process and can strain the relationship. Following up politely on unpaid invoices within the agreed timeframe is also part of the role
-## Example Sentences
 
 請求書は後日、ご担当者様宛にメールにてお送りいたします。
 <small>*Seikyuusho wa gojitsu, go-tantousha-sama ate ni meeru nite o-okuri itashimasu.*</small>
 We will send the invoice by email to the person in charge at a later date.
 
+
 請求書のお支払い期限は、発行日より30日以内でございます。
 <small>*Seikyuusho no o-shiharai kigen wa, hakkou bi yori sanjuu nichi inai de gozaimasu.*</small>
 The payment due date on the invoice is within 30 days of the issue date.
+
 
 ご確認の上、お振込みをお願いいたします。
 <small>*Go-kakunin no ue, o-furikomi wo o-negai itashimasu.*</small>

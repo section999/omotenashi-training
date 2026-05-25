@@ -7,15 +7,16 @@ title: 超過 (chouka)
 超過 means excess or overage: a defined limit has been surpassed. In hospitality, this most often occurs with late checkouts (the guest stayed past noon), luggage over a weight limit, or a banquet group that exceeded the contracted number of covers. Each situation generates a 超過料金 (excess charge), and explaining that charge clearly and diplomatically tests their language skills. Guests tend to accept 超過料金 without complaint when they understand how it was calculated. The problem arises when the charge seems to come from nowhere.
 
 A reliable three-part structure makes these conversations much smoother: state the defined limit, state the actual usage, then state the resulting charge. For example: チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. That sequence is transparent and easy to follow. If the 超過 is minor and the guest is a loyal or long-staying customer, checking with a supervisor about waiving the 超過料金 as a goodwill gesture may be appropriate. Knowing when to escalate that decision is part of the role
-## Example Sentences
 
 チェックアウト時間を超過されたため、追加料金が発生いたします。
 <small>*Chekkuauto jikan o chouka sareta tame, tsuika ryoukin ga hassei itashimasu.*</small>
 Because you have exceeded the checkout time, an additional charge will apply.
 
+
 お荷物の重量が制限を超過しております。
 <small>*Onimotsu no juuryou ga seigen o chouka shite orimasu.*</small>
 Your luggage exceeds the weight limit.
+
 
 超過料金についてご説明させていただきます。
 <small>*Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.*</small>

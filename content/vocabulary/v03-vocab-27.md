@@ -7,15 +7,16 @@ title: 清掃係 (seisou kakari)
 清掃係 breaks down as 清掃 (cleaning) and 係 (person in charge), and together they refer to the housekeeping staff responsible for keeping guest rooms and common areas in order. In Japanese hospitality, 清掃係 are not invisible background workers. They are active contributors to the guest experience, and the immaculate standards of Japanese accommodation depend entirely on their precision and care. In ryokan settings, the same person who cleans the room often returns before dinner to lay out the futon bedding, creating a direct and personal link between housekeeping and the guest's sense of comfort. Understanding this context is useful when coordinating with or speaking about 清掃係.
 
 When informing a guest that housekeeping will visit their room, the phrase 「清掃係がまいります」 is the correct form to use. For delivering items a guest has requested, 「清掃係にお持ちするよう手配いたします」 (I will arrange for cleaning staff to bring it) covers the situation fully. If the guest needs to be present during the cleaning visit, staff should always ask 「何時ごろがご都合よろしいでしょうか」 (what time would be convenient for one?) rather than deciding on a time without consulting them. How staff speak about the 清掃係 to guests also signals how the property values its team, respectful, professional language reflects well on the whole organization
-## Example Sentences
 
 清掃係がまいりますので、少々お待ちくださいませ。
 <small>*Seisou kakari ga mairimasu node, shoushou o-machi kudasaimase.*</small>
 The cleaning staff will come shortly, so please wait a moment.
 
+
 ご要望のタオルは清掃係がお届けいたします。
 <small>*Go-youbou no taoru wa seisou kakari ga o-todoke itashimasu.*</small>
 The towels you requested will be delivered by the cleaning staff.
+
 
 清掃係に関するご要望は、フロントにお申し付けいただければ手配いたします。
 <small>*Seisou kakari ni kansuru go-youbou wa, furonto ni o-moushitsuke itadakereba tehai itashimasu.*</small>

@@ -7,15 +7,16 @@ title: 秒 (byou)
 秒 is the counter for seconds. In daily conversation it comes up far less than 分 or 時間, but in hotel settings it appears in a specific and important context: anything with a countdown or automatic closure. Elevator doors, security gates, room locks, timed spa equipment. These are moments where the guest needs to know how many seconds they have, not roughly, because the wrong choice can be inconvenient or, in the case of a fire door or security gate, disruptive. That precision makes 秒 worth learning.
 
 Note: the goal when using 秒 is not to sound technical but to make precision feel reassuring. A calm エレベーターのドアは5秒で閉まります, delivered with good eye contact, tells the guest everything they need to know without alarm. For guests unfamiliar with a hotel's automated systems, this kind of specific guidance helps them feel oriented rather than surprised. staff will rarely need 約 (approximately) with 秒 because the timing of facility equipment is fixed and known, so state the number directly
-## Example Sentences
 
 エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。
 <small>*Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*</small>
 The elevator doors close in 5 seconds. If one is in a hurry, please press the'open' button.
 
+
 セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。
 <small>*Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*</small>
 The security gate closes automatically 10 seconds after passage. Please let a staff member know if one needs assistance.
+
 
 このドアは閉めると3秒後にロックされます。カードキーをお持ちください。
 <small>*Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.*</small>

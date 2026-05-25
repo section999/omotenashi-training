@@ -6,8 +6,6 @@ title: 水漏れ (mizumore)
 水漏れ (mizumore) means water leakage: water escaping from pipes, taps, shower fittings, or other plumbing. In a hotel or ryokan, a 水漏れ is treated as a priority issue because it can escalate from a minor inconvenience to a hazard in a short time, affecting structural integrity, electrical systems, or the comfort of adjacent rooms. Any 水漏れ report, whether it comes from a guest or is spotted by a housekeeper, needs to go to maintenance immediately, and the affected area must be made safe without delay.
 
 The most important principle when speaking with a guest about a 水漏れ is to avoid asking them to manage or contain the situation themselves. Suggesting that they place towels or move valuables shifts responsibility onto the guest in a moment when they are already stressed. The right approach is to dispatch maintenance immediately and, if the leak is significant, to proactively offer a room change. A staff member who hesitates or appears unsure about what to do next will amplify the guest's anxiety. Using confident phrases like 水漏れを確認いたします paired with a clear next step communicates exactly the professional competence guests need to see
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | バスルームの水漏れのご報告をありがとうございます。ただいまメンテナンスをお送りいたします。<br><small>*Basuroomu no mizumore no go-houkoku wo arigatou gozaimasu. Tadaima mentenansu wo o-okuri itashimasu.*</small> | Thank you for reporting the water leak in the bathroom. We are sending maintenance right away. |

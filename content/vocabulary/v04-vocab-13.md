@@ -6,15 +6,16 @@ title: ドライヤー (doraiyaa)
 ドライヤー is the Japanese loanword for hair dryer, and it is a standard in-room appliance in hotels and ryokan across Japan. For many Japanese guests, thoroughly drying hair after bathing is a daily ritual, so a missing or broken ドライヤー is an inconvenience, not a minor detail. During room checks, housekeeping staff verify that the ドライヤー is in its designated location (typically the bathroom or a bedside drawer), working correctly, and stored neatly with the cord wrapped. Any appliance that is damaged, missing, or malfunctioning must be reported to the supervisor right away. A broken ドライヤー should never be left in a guest room.
 
 When guests ask about the ドライヤー, whether they are wondering where it is stored, how to use it, or whether it works with their home country's voltage, staff should answer patiently and clearly. Japan runs on 100V electricity, which is lower than the 220-240V standard in much of Europe and elsewhere, so voltage compatibility is a real concern for international guests. Staff should be ready to explain this calmly and point guests toward the information booklet in the room. If a ドライヤー fails during a stay, arranging a replacement quickly is a priority action, not something to leave for the next cleaning round
-## Example Sentences
 
 ドライヤーはバスルームの引き出しに入っております。
 <small>*Doraiyaa wa basurumu no hikidashi ni haitte orimasu.*</small>
 The hair dryer is stored in the bathroom drawer.
 
+
 ドライヤーはコンセントに差してからスイッチを入れてご使用ください。
 <small>*Doraiyaa wa konsento ni sashite kara suitchi wo irete goshiyou kudasai.*</small>
 Please plug the hair dryer in and turn on the switch before use.
+
 
 ドライヤーの調子が悪い場合は、すぐに新しいものをご用意いたします。
 <small>*Doraiyaa no choushi ga warui baai wa, sugu ni atarashii mono wo goyo'i itashimasu.*</small>

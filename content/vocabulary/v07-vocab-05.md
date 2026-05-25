@@ -7,8 +7,6 @@ title: 地図 (chizu)
 
 When using a map to guide a guest, an effective approach is to orient it in the direction the guest is facing, mark the hotel's current location clearly, and identify one or two prominent landmarks on the route before indicating the destination. For foreign guests, bilingual maps (日英両語) are preferred. Digital alternatives like Google Maps have their place, but a well-handled physical map interaction is more personal and often better remembered by guests
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらの地図でご案内いたします。現在地はここで、目的のレストランはこちらでございます。<br><small>*Kochira no chizu de go-annai itashimasu. Genzaichi wa koko de, mokuteki no resutoran wa kochira de gozaimasu.*</small> | I will guide you using this map. Your current location is here, and the restaurant one is looking for is here. |

@@ -7,8 +7,6 @@ title: 二階 (nikai)
 
 Directing a guest to 二階 should always include access instructions: エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask is the anticipatory aspect of omotenashi at work
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | レストランは二階にございます。<br><small>*Resutoran wa nikai ni gozaimasu.*</small> | The restaurant is on the second floor. |

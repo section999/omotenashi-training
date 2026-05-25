@@ -7,15 +7,16 @@ title: マニュアル (manyuaru)
 
 New employees study the マニュアル thoroughly during 研修 (kenshuu, the training period), and senior staff revisit it periodically to make sure it still reflects current procedures. When an unusual guest request comes in, or a situation arises that a staff member has not faced before, checking the マニュアル is the correct and expected first step. Managers revise the manual after incidents, customer feedback analysis, or the introduction of new equipment. Staff will hear「マニュアル通りに行ってください」(manyuaru doori ni okonatte kudasai, "please proceed according to the manual") in pre-shift briefings fairly regularly, especially during busy seasons when consistency matters most
 
-## Example Sentences
 
 新しいスタッフには、まずサービスマニュアルをよく読んでいただきます。
 <small>*Atarashii sutaffu ni wa, mazu saabisu manyuaru wo yoku yonde itadakimasu.*</small>
 We have new staff members read the service manual carefully first.
 
+
 ご不明な点がございましたら、マニュアルをご参照の上、先輩スタッフにご相談ください。
 <small>*Go-fumei na ten ga gozaimashitara, manyuaru wo go-sanshou no ue, senpai sutaffu ni go-soudan kudasai.*</small>
 If you have any questions, please consult the manual and then ask a senior staff member.
+
 
 緊急時の対応手順はマニュアルの第三章に詳しく記載されております。
 <small>*Kinkyuuji no taiou tejun wa manyuaru no dai-san-shou ni kuwashiku kisai sarete orimasu.*</small>

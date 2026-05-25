@@ -7,8 +7,6 @@ title: ランドリー (randorii)
 
 When a guest comes to the front desk asking about ランドリー, staff should be ready to explain both options clearly: what is available, what it costs, and how long it takes. In full-service hotels, a laundry bag and order form are usually placed in the room so guests can request the service without making a trip to reception. The most important detail to mention upfront is the cut-off time for same-day processing, because if a guest misses it, plans for the following morning may be affected. Getting that detail in early saves everyone a frustrating conversation later.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お客様、ランドリーサービスをご利用になりますか？本日の受付は午後3時までとなっております。<br><small>*Okyakusama, randorii saabisu o go-riyou ni narimasu ka? Honjitsu no uketsuke wa gogo san-ji made to natte orimasu.*</small> | Would you like to use our laundry service? Today's cut-off for same-day processing is 3:00 PM. |

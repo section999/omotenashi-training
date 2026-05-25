@@ -7,15 +7,16 @@ title: 決済 (kessai)
 決済 refers to the completion of a financial transaction -- the moment funds are transferred and the obligation is settled. This covers credit card payments, electronic money (IC cards, QR codes), bank transfers, and cash. In Japanese hospitality, smooth and secure 決済 is a fundamental operational requirement. A failed transaction can disrupt the guest experience and erode trust at a moment when they should feel satisfied. Staff are expected to be familiar with all payment systems offered and to handle any 決済 issues with composure.
 
 In hotels, 決済 most commonly occurs at checkout (精算) but may also happen at the point of service for in-room dining, spa treatments, or optional add-ons. Restaurants use 決済 when referring to table-side payment processing. Key phrases include クレジットカードでの決済が可能です to let a guest know card payment is available, and 決済を処理いたします to indicate the transaction is being processed. When a 決済 fails, the appropriate response is to discreetly inform the guest and offer alternatives -- keeping their voice low, staying composed, and framing it as a technical check rather than a personal issue
-## Example Sentences
 
 本日はどのような方法でご決済なさいますか。
 <small>*Honjitsu wa donna youhou de go-kessai nasaimasu ka.*</small>
 How would you like to complete your payment today?
 
+
 クレジットカードでの決済が完了いたしました。
 <small>*Kurejitto kaado de no kessai ga kanryou itashimashita.*</small>
 Payment by credit card has been completed.
+
 
 電子マネーでの決済も承っております。
 <small>*Denshi manee de no kessai mo uketamatteotte orimasu.*</small>

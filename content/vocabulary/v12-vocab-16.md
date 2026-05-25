@@ -7,15 +7,16 @@ title: 医者 (isha)
 医者 means doctor, a licensed medical professional who can diagnose, treat, and advise on health conditions. In a hotel setting, especially a luxury or high-end property, being able to quickly connect a guest with an 医者 is considered a standard service. Many large Japanese hotels maintain a roster of contracted physicians who can come directly to the property for in-room consultations. This service is called ドクターコール (doctor call), and it spares guests with non-life-threatening conditions from navigating an unfamiliar hospital system. This kind of anticipatory support is what omotenashi looks like in a medical context.
 
 Front desk staff are usually the ones who coordinate contact with an 医者 when a guest requests one or when a health concern is passed from another department. Before making the call, staff should gather the basics: room number, symptoms, any known allergies or existing conditions, and whether the guest has travel insurance. When relaying information to the doctor on behalf of a guest, accuracy and conciseness are important, and speculation about diagnosis should be avoided. After the visit, following up with the guest is recommended. A check-in to ask whether they received adequate care and whether there is anything else the hotel can do is small in effort but significant in terms of how a guest feels cared for
-## Example Sentences
 
 お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。
 <small>*Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.*</small>
 Since one is not feeling well, I will call a doctor for you immediately.
 
+
 医者の診察を受けられましたか。何かお手伝いできることはございますか。
 <small>*Isha no shinsatsu wo ukereremashita ka. Nanika otetsudai dekiru koto wa gozaimasu ka.*</small>
 Have you seen the doctor? Is there anything we can assist you with?
+
 
 当ホテルでは、24時間対応の医者をご手配することができます。
 <small>*Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.*</small>

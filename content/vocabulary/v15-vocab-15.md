@@ -7,8 +7,6 @@ title: 貴重品 (kichouhin)
 
 The tricky part of 貴重品 conversations is tone. Staff are often required to communicate that the hotel cannot be responsible for valuables left unsecured in the room, which is a necessary message but one that can easily sound cold or dismissive if delivered poorly. The professional approach is to lead with a solution: 「貴重品はお部屋の金庫またはフロントにてお預かりできます」 gives the guest a clear, caring option rather than just a warning. When guests do deposit 貴重品 at the front desk, staff should always issue a detailed receipt listing each item and handle everything in full view of the guest. A common error is to underestimate how much that visible care matters to the person handing over their passport or cash.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お部屋の金庫に貴重品を保管されることをお勧めいたします。<br><small>*O-heya no kinko ni kichouhin wo hokan sareru koto wo o-susume itashimasu.*</small> | We recommend storing your valuables in the in-room safe. |

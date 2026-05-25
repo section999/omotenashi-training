@@ -7,15 +7,15 @@ title: 電話番号 (denwa bangou)
 
 The standard protocol is: ask politely with お電話番号をお伺いできますか, listen carefully while writing, then read the number back in grouped segments, 〇〇-〇〇〇〇-〇〇〇〇でよろしいでしょうか. Japanese phone numbers are typically divided into three groups separated by hyphens, and reading them that way is much easier for the listener to track and verify. A common error is handling this well for Japanese numbers but being caught off guard by international guests whose number formats are completely different; staff should be prepared for country codes and varying segment lengths.
 
-## Example Sentences
-
 ご予約の確認のため、お電話番号をお伺いできますか。
 <small>*Goyoyaku no kakunin no tame, odenwa bangō wo oukagai dekimasu ka.*</small>
 May I have your phone number to confirm your reservation?
 
+
 折り返しご連絡いたしますので、お電話番号を教えていただけますか。
 <small>*Orikaeshi gorenraku itashimasu no de, odenwa bangō wo oshiete itadakemasu ka.*</small>
 We will call you back, so could you please give us your phone number?
+
 
 ホテルの電話番号は03-1234-5678でございます。
 <small>*Hoteru no denwa bangō wa zero san no ichi ni san yon no go roku nana hachi de gozaimasu.*</small>

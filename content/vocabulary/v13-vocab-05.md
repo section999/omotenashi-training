@@ -7,15 +7,16 @@ title: シフト (shifuto)
 シフト is the loanword from English "shift" and is the standard term for a scheduled block of working hours in Japanese hospitality. Hotels, restaurants, and ryokan run around the clock, which makes シフト management an operationally critical task for management. Shifts typically break into morning (早番, hayaban), afternoon (中番, nakaban), and night or late (遅番, osoban, or 夜勤, yakin). A well-built シフト means guest-facing departments are never left short-staffed and every employee knows exactly when their responsibility begins and ends.
 
 For employees, the シフト isn't just about hours on a page. It's the accountability window. Arriving on time is a baseline professional expectation, and failing to show up without notice is treated as a serious breach in Japanese workplace culture. Many hotels now use digital scheduling systems where staff can view their シフト, request changes, and swap with colleagues, with everything tracked to keep operations predictable
-## Example Sentences
 
 明日のシフトは午前9時から午後5時までです。
 <small>*Ashita no shifuto wa gozen kuji kara gogo goji made desu.*</small>
 Tomorrow's shift is from 9 AM to 5 PM.
 
+
 来週のシフト表を確認してから予定を入れます。
 <small>*Raishuu no shifuto-hyou o kakunin shite kara yotei o iremasu.*</small>
 I will check next week's shift schedule before making personal plans.
+
 
 夜間のシフトには必ずフロントに二名のスタッフを配置してください。
 <small>*Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.*</small>

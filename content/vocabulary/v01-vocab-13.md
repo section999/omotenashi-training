@@ -10,8 +10,6 @@ In hospitality, this phrase works in two main directions. Staff use it when aski
 
 Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, and a common mistake is mixing them up. *Kashikomarimashita* acknowledges a guest's request directed at one. *Dōzo* invites. *O-negai itashimasu* comes from the staff member asking something of the guest, or expressing a mutual wish. The direction is reversed. Keeping that distinction clear will help one reach for the right phrase without hesitating
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらにご署名をお願いいたします。<br><small>*Kochira ni go-shomei wo o-negai itashimasu.*</small> | Please sign here. |

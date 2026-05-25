@@ -7,15 +7,16 @@ title: Wi-Fi (waifai)
 Wi-Fi (ワイファイ) has become a standard expected amenity in modern hospitality, and its quality and availability frequently appear in guest satisfaction surveys. In Japan, where domestic business travellers and international tourists alike depend heavily on connectivity, a hotel's ability to provide fast and reliable Wi-Fi reflects its service standard. Staff who can explain access procedures clearly, including how to find the network name (SSID) and enter the password, demonstrate an attentiveness that goes well beyond the basics.
 
 Wi-Fi information is typically shown on a card in the room, printed on the key sleeve, or available at the front desk. Common phrases include 「Wi-Fiをご利用いただけます」 (Wi-Fi is available for their use) and 「Wi-Fiのパスワードはこちらでございます」 (here is the Wi-Fi password). When a guest reports a connectivity problem, staff walk through it with them step by step and escalate to technical support if needed. Proactively mentioning Wi-Fi during check-in has become standard at higher-end properties. Guests should not have to search for it
-## Example Sentences
 
 当ホテルでは、全館で無料のWi-Fiをご利用いただけます。
 <small>*Tou hoteru de wa, zenkan de muryou no waifai wo go-riyou itadakemasu.*</small>
 At our hotel, complimentary Wi-Fi is available throughout the entire building.
 
+
 Wi-FiのネットワークIDとパスワードは、お部屋のカードにご記載しております。
 <small>*Waifai no nettowaaку ID to pasuwaado wa, o-heya no kaado ni go-kisai shite orimasu.*</small>
 The Wi-Fi network ID and password are printed on the card in the room.
+
 
 Wi-Fiに接続できない場合は、フロントまでお申しつけください。
 <small>*Waifai ni setsuzoku dekinai baai wa, furonto made o-moushitsuke kudasai.*</small>

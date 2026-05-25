@@ -6,15 +6,16 @@ title: 税関 (zeikan)
 税関 is the government authority responsible for inspecting goods entering or leaving Japan and for collecting any applicable import duties and taxes. It operates under the Ministry of Finance at every international airport, seaport, and land border crossing in the country. Travellers are required to declare items that exceed duty-free allowances: certain quantities of alcohol, tobacco, and goods over a set monetary value. At high-end hotels and ryokans hosting international guests who arrive with gifts, luxury purchases, or large amounts of cash, knowing the basics of 税関 regulations allows staff to answer questions accurately and direct guests to the right resources.
 
 The role of hospitality staff is not to interpret customs law for guests: that is not their job and it is not safe to attempt it. What staff can do is help them understand the process clearly and point them toward official, multilingual customs information when they need it. A common error is to wonder how much they need to know about 税関 specifics, and the honest answer is: enough to be helpful without overstepping. Staff should know the general duty-free thresholds, know where to find the customs declaration form, and know how to say "please ask the customs officer" with confidence rather than guessing
-## Example Sentences
 
 日本に入国する際は、税関申告書のご記入をお願いします。
 <small>*Nihon ni nyuukoku suru sai wa, zeikan shinkokusho no gokinyuu wo onegai shimasu.*</small>
 When entering Japan, please fill in the customs declaration form.
 
+
 税関で申告が必要な品物をお持ちの場合は、正直にご申告ください。
 <small>*Zeikan de shinkoku ga hitsuyou na shinamono wo omochi no baai wa, shoujiki ni goshinoku kudasai.*</small>
 If one is carrying items that must be declared at customs, please declare them honestly.
+
 
 お土産の数量が多い場合、税関で課税される可能性がございますのでご注意ください。
 <small>*Omiyage no suuryou ga ooi baai, zeikan de kazei sareru kanousei ga gozaimasu no de gotyuui kudasai.*</small>

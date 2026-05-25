@@ -7,15 +7,15 @@ title: 停電 (teiden)
 
 停電 is announced promptly over intercom, at the front desk, or directly in corridors. Staff use it in phrases such as 「現在、停電が発生しております」 (a power outage is currently occurring) and 「停電により、ご不便をおかけしております」 (we apologize for the inconvenience caused by the power outage). Emergency lighting, candles in ryokan, and battery-powered flashlights are standard equipment to offer guests. staff should pair the announcement with an estimated resolution time when available and a clear instruction about what guests should do.
 
-## Example Sentences
-
 現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。
 <small>*Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.*</small>
 A power outage is currently occurring. We sincerely apologize for the inconvenience.
 
+
 停電の復旧まで、非常用照明をご利用ください。
 <small>*Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.*</small>
 Please use the emergency lighting until power is restored.
+
 
 停電の影響で、エレベーターが一時的にご利用いただけません。
 <small>*Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.*</small>

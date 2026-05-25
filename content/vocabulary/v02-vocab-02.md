@@ -7,15 +7,15 @@ title: チェックイン (check-in)
 
 The チェックイン process requires staff to speak clearly, use appropriate honorifics when referring to the guest's name and reservation, and guide the guest step by step without rushing. チェックインでございますか confirms the guest's purpose upon approach, and かしこまりました is the expected response once that purpose is understood. In busy periods, managing a queue politely while ensuring each guest feels individually attended to reflects skilled front desk performance.
 
-## Example Sentences
-
 チェックインでございますか？ご予約のお名前をお伺いしてもよろしいでしょうか。
 <small>*Chekku-in de gozaimasu ka? Go-yoyaku no o-namae o o-ukagai shite mo yoroshii deshō ka.*</small>
 Are you checking in? May I ask the name on your reservation?
 
+
 チェックインのお手続きが完了いたしました。こちらがルームキーでございます。
 <small>*Chekku-in no o-tetsuzuki ga kanryō itashimashita. Kochira ga rūmu-kī de gozaimasu.*</small>
 Your check-in is now complete. Here is the room key.
+
 
 チェックインは午後3時よりご利用いただけます。
 <small>*Chekku-in wa gogo san-ji yori go-riyō itadakemasu.*</small>

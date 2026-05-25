@@ -10,8 +10,6 @@ Unconfirmed information leads to errors, and errors in a hospitality context dir
 
 In written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらのご予約内容をご確認ください。<br><small>*Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*</small> | Please confirm the details of your reservation. |

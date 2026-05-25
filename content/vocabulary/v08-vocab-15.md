@@ -7,8 +7,6 @@ title: 入口 (iriguchi)
 
 In a hospitality context, 入口 appears most often in directional phrases such as 入口は正面にございます (the entrance is at the front) or こちらの入口からどうぞ (please come in through this entrance). At ryokan, staff often walk guests to the 玄関 (genkan, the traditional entryway) and specifically reference it as お入口 to signal the ceremonial nature of the welcome. In restaurants, hosts use it to distinguish the public entrance from the kitchen delivery door. Staff should combine 入口 with a direction word or landmark to give guests actionable guidance.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | ホテルの入口は正面にございます。どうぞこちらへお進みください。<br><small>*Hoteru no iriguchi wa shoumen ni gozaimasu. Douzo kochira e osusumi kudasai.*</small> | The hotel entrance is at the front. Please proceed this way. |

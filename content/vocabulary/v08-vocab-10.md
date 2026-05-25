@@ -7,8 +7,6 @@ title: 最上階 (saijoukai)
 
 When directing guests to 最上階, staff should mention the elevator and confirm the specific button or floor number to press, because "top floor" is a concept while the elevator requires a concrete number. A phrase like 最上階の〇〇階でございます naturally bridges the evocative word with the practical information. Mentioning the view (眺望がすばらしいです) or describing the amenities waiting for the guest turns a simple directional exchange into a moment of anticipation. That kind of small detail reflects omotenashi and is important when sending a guest upward.
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | スカイラウンジは最上階にございます。<br><small>*Surai raunji wa saijoukai ni gozaimasu.*</small> | The sky lounge is on the top floor. |

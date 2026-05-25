@@ -6,8 +6,6 @@ title: 汚れ (yogore)
 汚れ refers to dirt, stains, grime, or any visible soiling on surfaces, fabrics, or fixtures. In Japanese hospitality, the presence of 汚れ in a guest room or dining area calls for immediate attention. Guests expect spotless cleanliness as a baseline, and spotting a stain before the guest does is the mark of a thorough housekeeper. That ability to notice and name 汚れ accurately, then address it quickly with the right method, is a practical skill that takes time to develop.
 
 In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet stains, grease on restaurant tables, watermarks on bathroom fixtures, scuff marks on corridor walls. When a guest reports a 汚れ, the right response combines acknowledgment with immediate action: 汚れをすぐに清掃いたします. In internal communication, specifying the type of stain (食べ物の汚れ for a food stain, 水の汚れ for a watermark) helps ensure the correct cleaning method is applied. Not all stains respond to the same treatment, and using the wrong product can make things worse
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | お客様のご指摘の汚れを、ただちに清掃いたします。<br><small>*Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.*</small> | We will immediately clean the stain that the guest has pointed out. |

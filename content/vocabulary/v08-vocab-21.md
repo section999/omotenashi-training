@@ -6,8 +6,6 @@ title: 近くに (chikaku ni)
 近くに means "nearby" or "in the vicinity of," and it comes up constantly in hospitality settings. Guests ask about convenience stores, ATMs, pharmacies, restaurants, and transport stops dozens of times a day, and 近くに is usually the first word in the answer. What makes it so useful is that it signals accessibility without committing to a precise distance, which is the reassuring tone one wants when encouraging a guest to explore on foot. Unlike 隣 (directly next door) or 向かい (directly across), 近くに leaves room for "around the corner" to mean a short walk rather than an exact adjacency.
 
 In a hospitality context, 近くに on its own is not sufficient. Staff should follow it with a walking time: コンビニはホテルの近くに、徒歩約3分のところにございます gives the guest actionable information. An effective structure includes three parts: 近くに indicates proximity, 徒歩〇分 provides the time, and a landmark reference clarifies the location. Ryokan staff use the same structure when pointing guests toward a nearby temple or onsen source, so this pattern travels across property types
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | コンビニはホテルの近くにございます。徒歩約3分でございます。<br><small>*Konbini wa hoteru no chikaku ni gozaimasu. Toho yaku sanpun de gozaimasu.*</small> | There is a convenience store near the hotel. It is approximately a 3-minute walk. |

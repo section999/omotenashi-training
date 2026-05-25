@@ -10,8 +10,6 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 
 *Dōzo* can also stand completely alone as a full utterance. Handing over a key, presenting a menu, offering a warm drink, in many of these moments the single word carries the full weight of the exchange without needing elaboration. That simplicity is part of its elegance. There are also moments where *dōzo* alone is not quite enough, and a more specific phrase serves the guest better
 
-## Example Sentences
-
 | Japanese | Meaning |
 |---|---|
 | こちらがお部屋の鍵でございます。どうぞ。<br><small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small> | Here is the room key. Please. |
