@@ -6,29 +6,28 @@ title: Greetings for Apology Emails
 
 Apology emails require a different emotional tone from standard hotel emails.
 
-The priority is:
+The priority is: sincerity, responsibility, and guest care.
 
-- sincerity,
-- responsibility,
-- and guest care.
-
-A common opening is:
-
-この度は、ご不便をおかけし、誠に申し訳ございません。
+<div class="keigo-card blue">
+<span class="keigo-card-title">Standard Apology Greeting</span>
+<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span>
+</div>
 
 This expression immediately acknowledges inconvenience caused to the guest.
 
 In Japanese customer service culture, apology emails should:
 
-- sound calm,
-- avoid excuses,
-- and focus on the guest's experience.
+<div class="keigo-card green">
+<span class="keigo-card-title">Apology Tone Guidelines</span>
+<span class="keigo-badge good">Calm</span> Sound calm and composed<br>
+<span class="keigo-badge good">No excuses</span> Avoid making excuses<br>
+<span class="keigo-badge good">Guest focus</span> Focus on the guest's experience
+</div>
 
-The wording should never sound:
-
-- defensive,
-- casual,
-- or emotionally distant.
+<div class="keigo-card red">
+<span class="keigo-card-title">Never Sound Like This</span>
+The wording should never sound: defensive, casual, or emotionally distant.
+</div>
 
 A sincere opening helps reduce guest frustration and rebuild trust.
 

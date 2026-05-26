@@ -6,35 +6,55 @@ title: Common Mistakes in Handover
 
 ## Mistake 1: Writing Like Conversation
 
-**Wrong:**
-
-お客様がちょっと怒ってて…
-
-This is unacceptable in handover logs.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>お客様がちょっと怒ってて...</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Why</span>
+This is unacceptable in handover logs. Handover writing must be formal and structured, not conversational.
+</div>
+</div>
 
 ## Mistake 2: Missing Status Information
 
-**Wrong:**
-
-エアコン壊れています
-
-Missing: repair status, timing, action owner
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>エアコン壊れています</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Why</span>
+Missing: repair status, timing, action owner. Always include what has been done and what is next.
+</div>
+</div>
 
 ## Mistake 3: Emotional Language
 
-**Wrong:**
-
-かなり大変なクレームでした
-
-Handover must NEVER include emotion.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>かなり大変なクレームでした</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Why</span>
+Handover must NEVER include emotion. Describe facts only, not feelings.
+</div>
+</div>
 
 ## Mistake 4: Vague Responsibility
 
-**Wrong:**
-
-誰かが対応する予定です
-
-This is operational risk.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>誰かが対応する予定です</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Why</span>
+This is operational risk. Always assign clear ownership for every action item.
+</div>
+</div>
 
 ---
 

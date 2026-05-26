@@ -6,23 +6,40 @@ title: Essential Telephone Expressions
 
 Hotel phone communication depends on fixed expressions because real-time sentence construction under pressure leads to inconsistency and errors.
 
-**Core expressions:**
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Core Expressions</span>
 | Japanese | Function |
 |---|---|
-| お電話ありがとうございます | Establishes service start |
-| フロントでございます | Identifies authority |
-| 少々お待ちくださいませ | Manages silence and prevents anxiety |
-| 確認いたします | Signals operational action |
-| かしこまりました | Controlled acceptance |
-| 承知いたしました | Informational acknowledgment |
-| おつなぎいたします | Transfer coordination |
-| 折り返しご連絡いたします | Callback management |
-| 申し訳ございません | Apology stabilization |
+| <span class="keigo-jp"><code>お電話ありがとうございます</code></span> | Establishes service start |
+| <span class="keigo-jp"><code>フロントでございます</code></span> | Identifies authority |
+| <span class="keigo-jp"><code>少々お待ちくださいませ</code></span> | Manages silence and prevents anxiety |
+| <span class="keigo-jp"><code>確認いたします</code></span> | Signals operational action |
+| <span class="keigo-jp"><code>かしこまりました</code></span> | Controlled acceptance |
+| <span class="keigo-jp"><code>承知いたしました</code></span> | Informational acknowledgment |
+| <span class="keigo-jp"><code>おつなぎいたします</code></span> | Transfer coordination |
+| <span class="keigo-jp"><code>折り返しご連絡いたします</code></span> | Callback management |
+| <span class="keigo-jp"><code>申し訳ございません</code></span> | Apology stabilization |
+</div>
 
-**Why fixed phrases matter:** Under pressure (complaints, rush hours, peak check-in times), staff cognitive capacity decreases. Fixed phrases reduce mental load and ensure consistent service quality.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Why Fixed Phrases Matter</span>
+Under pressure (complaints, rush hours, peak check-in times), staff cognitive capacity decreases. Fixed phrases reduce mental load and ensure consistent service quality.
+</div>
 
-**Important distinction:** かしこまりました is preferred over 分かりました because it removes personal reaction and maintains service neutrality.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Casual</span>
+<span class="keigo-jp"><code>分かりました</code></span>
+<br><br>
+<span class="keigo-badge bad">Personal</span> Sounds too casual and personal.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Professional</span>
+<span class="keigo-jp"><code>かしこまりました</code></span>
+<br><br>
+<span class="keigo-badge good">Neutral</span> Removes personal reaction and maintains service neutrality.
+</div>
+</div>
 
 ---
 

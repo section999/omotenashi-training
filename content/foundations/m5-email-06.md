@@ -4,41 +4,26 @@ section: 6
 title: Greetings for Information Emails
 ---
 
-Hotels regularly send informational emails about:
+Hotels regularly send informational emails about: maintenance, temporary closures, service changes, seasonal updates, or operational notices.
 
-- maintenance,
-- temporary closures,
-- service changes,
-- seasonal updates,
-- or operational notices.
+In these cases, the opening should sound professional, respectful, and neutral.
 
-In these cases, the opening should sound:
+<div class="keigo-card blue">
+<span class="keigo-card-title">Standard Information Email Greeting</span>
+<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span>
+</div>
 
-- professional,
-- respectful,
-- and neutral.
+This greeting works well because it sounds formal but natural, fits many situations, and creates a business-professional tone.
 
-A common expression is:
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Difference</span>
+Unlike reservation emails, information emails focus more on professionalism than emotional warmth. However, the language should still feel considerate and guest-oriented.
+</div>
 
-平素より当ホテルをご利用いただき、誠にありがとうございます。
-
-This greeting works well because it:
-
-- sounds formal but natural,
-- fits many situations,
-- and creates a business-professional tone.
-
-Unlike reservation emails, information emails focus more on professionalism than emotional warmth.
-
-However, the language should still feel considerate and guest-oriented.
-
-Information emails should avoid sounding:
-
-- robotic,
-- cold,
-- or overly technical.
-
-Even operational notices are part of hospitality communication.
+<div class="keigo-card red">
+<span class="keigo-card-title">Avoid These</span>
+Information emails should avoid sounding: robotic, cold, or overly technical. Even operational notices are part of hospitality communication.
+</div>
 
 ---
 

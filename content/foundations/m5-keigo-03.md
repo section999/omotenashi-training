@@ -6,7 +6,7 @@ title: Why Hotel Keigo Sounds Different
 
 Many learners study keigo from textbooks. However, real hotel keigo sounds different from classroom Japanese.
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Why?</span>
 Because hotels prioritize <strong>smoothness</strong>, <strong>clarity</strong>, <strong>comfort</strong>, and <strong>speed of communication</strong> &mdash; not perfectly academic keigo.
 </div>
@@ -34,11 +34,6 @@ Real hotel keigo is: short, predictable, repeatable, and easy for guests to unde
 | Goal | Perfect grammar | Daily repetition and flow |
 
 Hotel keigo is **operational language**. Not literary language.
-
-<div class="keigo-card green">
-<span class="keigo-card-title">Key Principle</span>
-Hotel phrases are designed for <strong>daily repetition</strong>, <strong>natural speaking rhythm</strong>, and <strong>reduced guest stress</strong>.
-</div>
 
 ---
 

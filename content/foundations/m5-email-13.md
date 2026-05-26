@@ -6,39 +6,41 @@ title: Avoiding Awkward Tone Changes
 
 One of the most common problems in hotel emails is sudden tone change.
 
-This happens when:
+This happens when one sentence sounds extremely formal, but the next sentence becomes casual or unnatural.
 
-- one sentence sounds extremely formal,
-- but the next sentence becomes casual or unnatural.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Problem Example</span>
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span>
+<span class="keigo-jp"><code>また来てくださいね！</code></span>
+<br><br>
+<span class="keigo-badge bad">Inconsistent</span> The second sentence suddenly feels too friendly and informal.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Better Approach</span>
+Maintain stable politeness throughout the entire message.
+</div>
+</div>
 
-Example:
-
-誠にありがとうございます。
-また来てくださいね！
-
-The second sentence suddenly feels too friendly and informal for hotel business communication.
-
-This can make the email feel:
-
-- inconsistent,
-- immature,
-- or unprofessional.
+This can make the email feel inconsistent, immature, or unprofessional.
 
 Japanese hospitality writing usually maintains:
 
-- stable politeness,
-- emotional control,
-- and refined wording.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Hallmarks of Professional Writing</span>
+<span class="keigo-badge info">Stability</span> stable politeness<br>
+<span class="keigo-badge info">Control</span> emotional control<br>
+<span class="keigo-badge info">Refinement</span> refined wording
+</div>
 
 Even warm hospitality should still sound professional.
 
-Instead of overly casual friendliness, hotels prefer:
+Instead of overly casual friendliness, hotels prefer: elegant warmth, respectful support, and calm politeness.
 
-- elegant warmth,
-- respectful support,
-- and calm politeness.
-
+<div class="keigo-card green">
+<span class="keigo-card-title">Key Insight</span>
 Consistency creates trust and professionalism.
+</div>
 
 ---
 

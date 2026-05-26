@@ -8,51 +8,37 @@ In Japanese hotel emails, the opening and closing should feel like a natural pai
 
 If the tone changes suddenly, the email can sound awkward or poorly written.
 
-For example:
+<div class="keigo-pair">
+<div class="good-col">
+<span class="keigo-pair-label">Natural Pair</span>
+<strong>Opening:</strong><br>
+<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span>
+<br><br>
+<strong>Closing:</strong><br>
+<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span>
+<br><br>
+<span class="keigo-badge good">Balanced</span> Both expressions are formal and balanced.
+</div>
+<div class="bad-col">
+<span class="keigo-pair-label">Unnatural Pair</span>
+<strong>Opening:</strong><br>
+<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span>
+<br><br>
+<strong>Closing:</strong><br>
+<span class="keigo-jp"><code>よろしくです！</code></span>
+<br><br>
+<span class="keigo-badge bad">Inconsistent</span> Sudden shift from formal to casual.
+</div>
+</div>
 
-**Natural Pair**
+Japanese readers are very sensitive to: tone balance, politeness consistency, and emotional flow.
 
-Opening:
+Hotel emails should feel smooth, stable, and professional from beginning to end.
 
-平素より当ホテルをご利用いただき、誠にありがとうございます。
-
-Closing:
-
-今後ともよろしくお願い申し上げます。
-
-Both expressions are formal and balanced.
-
-**Unnatural Pair**
-
-Opening:
-
-平素より当ホテルをご利用いただき、誠にありがとうございます。
-
-Closing:
-
-よろしくです！
-
-The sudden shift from formal business Japanese to casual language creates inconsistency.
-
-Japanese readers are very sensitive to:
-
-- tone balance,
-- politeness consistency,
-- and emotional flow.
-
-Hotel emails should feel:
-
-- smooth,
-- stable,
-- and professional from beginning to end.
-
-A useful guideline is:
-
-- Formal opening → formal closing
-- Warm opening → warm closing
-- Apology opening → careful and supportive closing
-
-Tone consistency is an important part of professional hospitality writing.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Matching Guideline</span>
+Formal opening leads to formal closing. Warm opening leads to warm closing. Apology opening leads to careful and supportive closing. Tone consistency is an important part of professional hospitality writing.
+</div>
 
 ---
 

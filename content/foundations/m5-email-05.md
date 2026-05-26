@@ -8,32 +8,30 @@ Repeat guests should receive language that recognizes the ongoing relationship.
 
 A standard expression is:
 
-いつもお世話になっております。
+<div class="keigo-card blue">
+<span class="keigo-card-title">Standard Repeat Guest Greeting</span>
+<span class="keigo-jp"><code>いつもお世話になっております。</code></span>
+</div>
 
 This phrase is extremely common in Japanese business communication and expresses appreciation for continued support.
 
 In hotel settings, it communicates:
 
-- recognition,
-- loyalty appreciation,
-- and familiarity.
+<div class="keigo-card green">
+<span class="keigo-card-title">What It Communicates</span>
+<span class="keigo-badge good">Recognition</span> We know you<br>
+<span class="keigo-badge good">Loyalty</span> We appreciate your support<br>
+<span class="keigo-badge good">Familiarity</span> We remember you
+</div>
 
-This expression works well for:
+This expression works well for: repeat guests, membership customers, VIP guests, and corporate clients.
 
-- repeat guests,
-- membership customers,
-- VIP guests,
-- and corporate clients.
+The emotional message is: "We remember and appreciate you." This can strengthen guest loyalty and long-term relationships.
 
-The emotional message is:
-
-"We remember and appreciate you."
-
-This can strengthen guest loyalty and long-term relationships.
-
-However, hotel staff must be careful not to overuse this phrase. If the guest has never stayed before, the expression sounds unnatural because 「いつも」 implies repeated interaction.
-
-Attention to this detail is considered part of professional hospitality service.
+<div class="keigo-card red">
+<span class="keigo-card-title">Caution</span>
+Hotel staff must be careful not to overuse this phrase. If the guest has never stayed before, the expression sounds unnatural because <span class="keigo-jp"><code>いつも</code></span> implies repeated interaction. Attention to this detail is considered part of professional hospitality service.
+</div>
 
 ---
 

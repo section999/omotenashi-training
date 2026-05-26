@@ -6,21 +6,41 @@ title: Cancellation Calls
 
 Cancellation calls are operationally simple but emotionally sensitive. The guest may feel guilt, hesitation, or discomfort. The staff's role is to reduce emotional friction while maintaining procedural accuracy.
 
-**Flow:** Acknowledgment → Identity confirmation → Reservation check → Cancellation execution → Closure
+<div class="keigo-card blue">
+<span class="keigo-card-title">Flow</span>
+Acknowledgment → Identity confirmation → Reservation check → Cancellation execution → Closure
+</div>
 
-**Example:**
+<div class="keigo-card green">
+<span class="keigo-card-title">Example Call</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいです</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。お名前をお伺いしてもよろしいでしょうか</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>山田様ですね。確認いたしますので少々お待ちくださいませ</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊でございますね</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>キャンセルを承りました</code></span>
+</div>
 
-予約をキャンセルしたいです
-→ かしこまりました。お名前をお伺いしてもよろしいでしょうか
-→ 山田様ですね。確認いたしますので少々お待ちくださいませ
-→ 6月10日から2泊でございますね
-→ キャンセルを承りました
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Cold</span>
+<span class="keigo-jp"><code>キャンセルしました</code></span>
+<br><br>
+<span class="keigo-badge bad">Transactional</span> Sounds cold and transactional.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Professional</span>
+<span class="keigo-jp"><code>キャンセルを承りました</code></span>
+<br><br>
+<span class="keigo-badge good">Neutral</span> Signals completion without emotional tone.
+</div>
+</div>
 
-**Why 承りました matters:** It signals completion without emotional tone. キャンセルしました would sound transactional and cold.
+Final closing: <span class="keigo-jp"><code>またのご利用をお待ちしております</code></span>
 
-**Final closing:** またのご利用をお待ちしております
-
-**Important philosophy:** Even when the guest leaves, the hotel relationship should remain intact.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Important Philosophy</span>
+Even when the guest leaves, the hotel relationship should remain intact.
+</div>
 
 ---
 

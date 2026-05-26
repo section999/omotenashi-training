@@ -8,34 +8,34 @@ In Japanese hotel service, emails are considered part of the guest experience. T
 
 Because of this, Japanese hotel emails place strong importance on:
 
-- greetings,
-- closings,
-- emotional tone,
-- and politeness balance.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Elements</span>
+<span class="keigo-badge info">Greeting</span> greetings<br>
+<span class="keigo-badge info">Closing</span> closings<br>
+<span class="keigo-badge info">Tone</span> emotional tone<br>
+<span class="keigo-badge info">Politeness</span> politeness balance
+</div>
 
 Even when the information itself is correct, the email may still leave a poor impression if the language feels:
 
-- too cold,
-- too direct,
-- too casual,
-- or emotionally distant.
+<div class="keigo-card red">
+<span class="keigo-card-title">Avoid These Impressions</span>
+too cold, too direct, too casual, or emotionally distant
+</div>
 
 Japanese hospitality culture values subtle emotional communication. Guests often judge the quality of service from the wording of the email before arriving at the hotel.
 
-A well-written hotel email should make guests feel:
+<div class="keigo-card green">
+<span class="keigo-card-title">Goal of a Hotel Email</span>
+A well-written hotel email should make guests feel: welcomed, respected, reassured, and comfortable.
+</div>
 
-- welcomed,
-- respected,
-- reassured,
-- and comfortable.
+In many cases, the opening and closing lines create the strongest emotional impression. For this reason, hotel staff must carefully choose expressions that match the relationship with the guest, the purpose of the message, and the level of formality.
 
-In many cases, the opening and closing lines create the strongest emotional impression. For this reason, hotel staff must carefully choose expressions that match:
-
-- the relationship with the guest,
-- the purpose of the message,
-- and the level of formality.
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Core Philosophy</span>
 The goal is not only correct Japanese. The goal is to create hospitality through language.
+</div>
 
 ---
 

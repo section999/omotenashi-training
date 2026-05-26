@@ -6,30 +6,46 @@ title: Reservation Calls
 
 Reservation calls are one of the most sensitive operations because they directly affect room allocation, pricing, cleaning schedules, and inventory control.
 
-**Flow logic:** Request → Date confirmation → Availability check → Offer → Guest details → Final confirmation
+<div class="keigo-card blue">
+<span class="keigo-card-title">Flow Logic</span>
+Request → Date confirmation → Availability check → Offer → Guest details → Final confirmation
+</div>
 
-**Example:**
+<div class="keigo-card green">
+<span class="keigo-card-title">Example Call</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか</code></span><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>6月10日から2泊です</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊でございますね。確認いたしますので少々お待ちくださいませ</code></span>
+</div>
 
-予約したいんですが
-→ お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか
-→ 6月10日から2泊です
-→ 6月10日から2泊でございますね。確認いたしますので少々お待ちくださいませ
+<div class="keigo-card blue">
+<span class="keigo-card-title">Why Repetition Matters</span>
+Hotels always repeat dates and conditions because even a single misunderstanding (10th vs 11th) can create operational failure.
+</div>
 
-**Why repetition matters:** Hotels always repeat dates and conditions because even a single misunderstanding (10th vs 11th) can create operational failure.
+After checking:
 
-**After checking:**
-
-ツインルームに空きがございます
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Option Presentation</span>
+<span class="keigo-jp"><code>ツインルームに空きがございます</code></span>
+<br><br>
 This is not final yet; it is option presentation.
+</div>
 
-**Final step:**
+Final step:
 
-ご予約のお名前をお伺いしてもよろしいでしょうか
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Identity Confirmation</span>
+<span class="keigo-jp"><code>ご予約のお名前をお伺いしてもよろしいでしょうか</code></span>
+<br><br>
 This ensures identity confirmation before booking completion.
+</div>
 
-**Core principle:** Reservation calls are not conversations. They are verification chains.
+<div class="keigo-card green">
+<span class="keigo-card-title">Core Principle</span>
+Reservation calls are not conversations. They are verification chains.
+</div>
 
 ---
 

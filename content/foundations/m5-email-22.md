@@ -6,56 +6,41 @@ title: Apology Email Template
 
 Apology emails are some of the most delicate messages in hotel communication.
 
-Examples include:
+Examples include: room problems, reservation mistakes, noise complaints, service delays, or facility issues.
 
-- room problems,
-- reservation mistakes,
-- noise complaints,
-- service delays,
-- or facility issues.
-
-The tone should sound:
-
-- sincere,
-- calm,
-- and responsible.
+The tone should sound sincere, calm, and responsible.
 
 ## Standard Template
 
-**Opening**
-
-この度は、ご滞在中にご不便をおかけし、誠に申し訳ございませんでした。
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、ご滞在中にご不便をおかけし、誠に申し訳ございませんでした。</code></span>
+<br><br>
 This directly acknowledges inconvenience caused to the guest.
+</div>
 
-**Body**
-
-客室設備の不具合により、ご迷惑をおかけいたしましたことを深くお詫び申し上げます。
-今後同様のことが発生しないよう、設備管理体制を見直してまいります。
-
-This section:
-
-- explains the issue,
-- accepts responsibility,
-- and shows commitment to improvement.
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body</span>
+<span class="keigo-jp"><code>客室設備の不具合により、ご迷惑をおかけいたしましたことを深くお詫び申し上げます。今後同様のことが発生しないよう、設備管理体制を見直してまいります。</code></span>
+<br><br>
+This section explains the issue, accepts responsibility, and shows commitment to improvement.
+<br><br>
 Japanese apology culture values acknowledgment and corrective action.
+</div>
 
-**Closing**
-
-何かお気づきの点などございましたら、お気軽にお申し付けくださいませ。
-
+<div class="keigo-card green">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>何かお気づきの点などございましたら、お気軽にお申し付けくださいませ。</code></span>
+<br><br>
 This closing maintains support and emotional care.
+</div>
 
 ## Professional Tip
 
-Avoid:
-
-- excessive excuses,
-- defensive wording,
-- or casual tone.
-
-A professional apology email should rebuild trust calmly and respectfully.
+<div class="keigo-card red">
+<span class="keigo-card-title">Avoid</span>
+Excessive excuses, defensive wording, or casual tone. A professional apology email should rebuild trust calmly and respectfully.
+</div>
 
 ---
 

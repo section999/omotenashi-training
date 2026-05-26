@@ -6,17 +6,32 @@ title: Emergency Calls
 
 Emergency calls require emotional suppression and controlled authority tone. The staff must act as a stabilizing force.
 
-**Example:**
+<div class="keigo-card green">
+<span class="keigo-card-title">Example</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>電気が使えません</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。すぐに確認いたします</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>スタッフがお伺いいたします</code></span>
+</div>
 
-電気が使えません
-→ 申し訳ございません。すぐに確認いたします
-→ スタッフがお伺いいたします
+<div class="keigo-card blue">
+<span class="keigo-card-title">Why Calm Tone Matters</span>
+If staff show surprise or confusion, guest anxiety increases immediately.
+</div>
 
-**Why calm tone matters:** If staff show surprise or confusion, guest anxiety increases immediately.
-
-**Bad:**
-
-えっ、どうしましょう destroys trust in emergency situations.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Bad</span>
+<span class="keigo-jp"><code>えっ、どうしましょう</code></span>
+<br><br>
+<span class="keigo-badge bad">Panic</span> Destroys trust in emergency situations.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Good</span>
+<span class="keigo-jp"><code>申し訳ございません。すぐに確認いたします。</code></span>
+<br><br>
+<span class="keigo-badge good">Calm</span> Maintains trust through controlled tone.
+</div>
+</div>
 
 ---
 

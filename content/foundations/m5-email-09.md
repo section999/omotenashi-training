@@ -6,49 +6,28 @@ title: Warm Hospitality Closings
 
 Some closings are designed specifically to create warmth and anticipation before the guest's arrival.
 
-A common example is:
+<div class="keigo-card blue">
+<span class="keigo-card-title">Warm Hospitality Closing</span>
+<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span>
+<br><br>
+Meaning: "We sincerely look forward to your arrival."
+</div>
 
-ご到着を心よりお待ち申し上げております。
+This expression is especially common in: luxury hotels, ryokan, premium hospitality brands, and reservation confirmation emails.
 
-This means:
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Phrase: 心より</span>
+<span class="keigo-jp"><code>心より</code></span> means "from the bottom of our hearts" or "sincerely." This creates emotional warmth and communicates genuine hospitality.
+</div>
 
-"We sincerely look forward to your arrival."
+The phrase <span class="keigo-jp"><code>お待ち申し上げております</code></span> is a humble and respectful form of "we are waiting for you."
 
-This expression is especially common in:
+Together, the expression sounds elegant, welcoming, and highly professional.
 
-- luxury hotels,
-- ryokan,
-- premium hospitality brands,
-- and reservation confirmation emails.
-
-The important phrase is:
-
-「心より」
-
-which means:
-
-"from the bottom of our hearts"
-or "sincerely."
-
-This creates emotional warmth and communicates genuine hospitality.
-
-The phrase:
-
-「お待ち申し上げております」
-
-is a humble and respectful form of:
-
-"we are waiting for you."
-
-Together, the expression sounds:
-
-- elegant,
-- welcoming,
-- and highly professional.
-
-This type of closing helps guests feel emotionally welcomed before arriving at the hotel.
-
-In Japanese hospitality culture, creating anticipation and comfort before arrival is considered part of good service.
+<div class="keigo-card green">
+<span class="keigo-card-title">Why This Matters</span>
+This type of closing helps guests feel emotionally welcomed before arriving at the hotel. In Japanese hospitality culture, creating anticipation and comfort before arrival is considered part of good service.
+</div>
 
 ---
 

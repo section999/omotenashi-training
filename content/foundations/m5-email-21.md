@@ -6,59 +6,41 @@ title: Thank You After Stay Template
 
 Post-stay thank-you emails are important for building long-term guest relationships.
 
-These emails help:
+These emails help express appreciation, encourage repeat visits, and strengthen brand loyalty.
 
-- express appreciation,
-- encourage repeat visits,
-- and strengthen brand loyalty.
-
-The emotional tone should feel:
-
-- warm,
-- appreciative,
-- and sincere.
+The emotional tone should feel warm, appreciative, and sincere.
 
 ## Standard Template
 
-**Opening**
-
-この度は、当ホテルをご利用いただき、誠にありがとうございました。
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span>
+<br><br>
 This politely thanks the guest for staying at the hotel.
+</div>
 
-**Body**
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body</span>
+<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。お客様に快適なお時間をお過ごしいただけておりましたら幸いでございます。スタッフ一同、またお迎えできます日を楽しみにしております。</code></span>
+<br><br>
+This body shows care for the guest experience, expresses appreciation, and gently encourages future visits.
+<br><br>
+The phrase <span class="keigo-jp"><code>幸いでございます</code></span> adds softness and elegance.
+</div>
 
-ご滞在はいかがでしたでしょうか。
-お客様に快適なお時間をお過ごしいただけておりましたら幸いでございます。
-スタッフ一同、またお迎えできます日を楽しみにしております。
-
-This body:
-
-- shows care for the guest experience,
-- expresses appreciation,
-- and gently encourages future visits.
-
-The phrase:
-
-「幸いでございます」
-
-adds softness and elegance.
-
-**Closing**
-
-またお会いできます日を心よりお待ち申し上げております。
-
+<div class="keigo-card green">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span>
+<br><br>
 This creates a warm emotional ending while encouraging repeat visits naturally.
+</div>
 
 ## Professional Tip
 
-Thank-you emails should never sound overly promotional.
-
-The focus should remain on:
-
-- appreciation,
-- guest experience,
-- and hospitality.
+<div class="keigo-card red">
+<span class="keigo-card-title">Avoid</span>
+Thank-you emails should never sound overly promotional. The focus should remain on appreciation, guest experience, and hospitality.
+</div>
 
 ---
 

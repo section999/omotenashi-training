@@ -6,23 +6,35 @@ title: Professional Handover Mindset
 
 A professional hotel staff member must think:
 
+<div class="keigo-card red">
+<span class="keigo-card-title">Core Responsibility</span>
 "If I leave this information unclear, the next shift will fail."
+</div>
 
 So every line must be:
 
-- traceable
-- actionable
-- complete
+<div class="keigo-card blue">
+<span class="keigo-card-title">Three Essentials</span>
+<span class="keigo-badge good">Traceable</span> Can the next person trace what happened?<br>
+<span class="keigo-badge good">Actionable</span> Can they act on this information immediately?<br>
+<span class="keigo-badge good">Complete</span> Does it contain everything needed?
+</div>
 
 Good handover means:
 
-- no repetition of guest explanation
-- no confusion
-- no missing tasks
+<div class="keigo-card green">
+<span class="keigo-card-title">What Good Handover Achieves</span>
+<span class="keigo-badge info">No</span> repetition of guest explanation<br>
+<span class="keigo-badge info">No</span> confusion<br>
+<span class="keigo-badge info">No</span> missing tasks
+</div>
 
 ## Golden Rule
 
+<div class="keigo-card blue">
+<span class="keigo-card-title">Golden Rule</span>
 "If the next staff cannot act immediately, the handover is incomplete."
+</div>
 
 ---
 

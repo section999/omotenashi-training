@@ -8,14 +8,10 @@ title: Introduction to Hotel Handover
 
 In a Japanese hotel, 引き継ぎ (handover) is not just "passing information."
 
-It is a risk-control system.
-
-Because hotels operate 24 hours a day, guests interact with different staff:
-
-- morning shift
-- afternoon shift
-- night shift (ナイト)
-- sometimes emergency staff
+<div class="keigo-card blue">
+<span class="keigo-card-title">Risk-Control System</span>
+It is a risk-control system. Because hotels operate 24 hours a day, guests interact with different staff: morning shift, afternoon shift, night shift (<span class="keigo-jp"><code>ナイト</code></span>), and sometimes emergency staff.
+</div>
 
 If information is not perfectly transferred, the hotel loses:
 
@@ -30,9 +26,7 @@ In Japanese hospitality culture, guests must NEVER feel:
 
 This is why 引き継ぎ is treated as a core operational responsibility, not just paperwork.
 
-A good handover ensures:
-
-"The next staff behaves exactly like the previous staff already knows everything."
+The goal of handover: "The next staff behaves exactly like the previous staff already knows everything."
 
 ---
 

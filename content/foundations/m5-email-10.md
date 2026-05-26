@@ -6,49 +6,34 @@ title: Relationship-Building Closings
 
 For repeat guests and loyal customers, hotels often use closings that strengthen the ongoing relationship.
 
-Common expressions include:
+<div class="keigo-card blue">
+<span class="keigo-card-title">Standard Relationship Closing</span>
+<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span>
+</div>
 
-今後ともよろしくお願い申し上げます。
+<div class="keigo-card blue">
+<span class="keigo-card-title">VIP Relationship Closing</span>
+<span class="keigo-jp"><code>今後とも変わらぬご愛顧のほどよろしくお願い申し上げます。</code></span>
+</div>
 
-or
+These expressions communicate: appreciation, respect, and hope for continued patronage.
 
-今後とも変わらぬご愛顧のほどよろしくお願い申し上げます。
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Phrase: 今後とも</span>
+<span class="keigo-jp"><code>今後とも</code></span> means "from now on as well" or "going forward." This wording naturally fits repeat guests because it assumes a continuing relationship.
+</div>
 
-These expressions communicate:
+The longer version <span class="keigo-jp"><code>変わらぬご愛顧</code></span> means "your continued patronage and support." This is often used for VIP customers, luxury hotel guests, members, and long-term clients.
 
-- appreciation,
-- respect,
-- and hope for continued patronage.
-
-The phrase:
-
-「今後とも」
-
-means:
-
-"from now on as well"
-or "going forward."
-
-This wording naturally fits repeat guests because it assumes a continuing relationship.
-
-The longer version:
-
-「変わらぬご愛顧」
-
-means:
-
-"your continued patronage and support."
-
-This is often used for:
-
-- VIP customers,
-- luxury hotel guests,
-- members,
-- and long-term clients.
-
+<div class="keigo-card green">
+<span class="keigo-card-title">Purpose</span>
 These closings help create loyalty and long-term trust between the hotel and the guest.
+</div>
 
-However, they should generally not be used for first-time guests because they assume an already established relationship.
+<div class="keigo-card red">
+<span class="keigo-card-title">Watch Out</span>
+They should generally not be used for first-time guests because they assume an already established relationship.
+</div>
 
 ---
 

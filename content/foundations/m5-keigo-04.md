@@ -14,7 +14,7 @@ Used to respectfully refer to guests.<br>
 <span class="keigo-badge info">Purpose</span> Create respectful distance while remaining warm.
 </div>
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Request Patterns</span>
 Used when asking guests to do something.<br>
 <span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>〜いただけますでしょうか</code></span>, <span class="keigo-jp"><code>〜お願いいたします</code></span>, <span class="keigo-jp"><code>〜くださいませ</code></span><br>
@@ -22,7 +22,7 @@ Used when asking guests to do something.<br>
 <span class="keigo-badge info">Purpose</span> Reduce pressure and sound softer. Japanese service culture avoids sounding commanding.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Staff Action Patterns</span>
 Used when staff describe their own actions.<br>
 <span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>お伺いします</code></span>, <span class="keigo-jp"><code>確認いたします</code></span>, <span class="keigo-jp"><code>ご案内いたします</code></span>, <span class="keigo-jp"><code>承ります</code></span><br>
@@ -38,7 +38,7 @@ Used when giving hotel information.<br>
 <span class="keigo-badge info">Purpose</span> Provide information professionally without sounding cold.
 </div>
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing Patterns</span>
 Used to end guest interactions smoothly.<br>
 <span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span>, <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>

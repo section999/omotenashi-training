@@ -6,56 +6,39 @@ title: Pre-Arrival Guidance Template
 
 Pre-arrival emails help guests prepare for their stay before check-in.
 
-These emails often include:
+These emails often include check-in times, transportation guidance, parking information, amenities, or hotel policies.
 
-- check-in times,
-- transportation guidance,
-- parking information,
-- amenities,
-- or hotel policies.
-
-The tone should feel:
-
-- informative,
-- supportive,
-- and professional.
+The tone should feel informative, supportive, and professional.
 
 ## Standard Template
 
-**Opening**
-
-この度は、当ホテルをご予約いただき、誠にありがとうございます。
-
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span>
+<br><br>
 This opening works naturally because the guest has already made a reservation.
+</div>
 
-**Body**
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body</span>
+<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。チェックイン開始時間は15時からでございます。駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。また、ご不明点などございましたら、お気軽にお問い合わせください。</code></span>
+<br><br>
+This section provides practical information while maintaining hospitality tone. The wording should remain easy to understand, polite, and guest-friendly.
+</div>
 
-ご到着前のご案内をお送りいたします。
-チェックイン開始時間は15時からでございます。
-駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。
-また、ご不明点などございましたら、お気軽にお問い合わせください。
-
-This section provides practical information while maintaining hospitality tone.
-
-The wording should remain:
-
-- easy to understand,
-- polite,
-- and guest-friendly.
-
-**Closing**
-
-スタッフ一同、ご到着を心よりお待ち申し上げております。
-
+<div class="keigo-card green">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span>
+<br><br>
 This closing reinforces a welcoming atmosphere before arrival.
+</div>
 
 ## Professional Tip
 
-Pre-arrival emails should reduce guest anxiety by making information:
-
-- clear,
-- organized,
-- and reassuring.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Goal</span>
+Pre-arrival emails should reduce guest anxiety by making information clear, organized, and reassuring.
+</div>
 
 ---
 

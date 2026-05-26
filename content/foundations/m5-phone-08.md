@@ -6,18 +6,28 @@ title: Late Arrival Calls
 
 Late arrival communication directly affects room inventory control and no-show prevention. Without accurate recording, rooms may be released incorrectly during night audit.
 
-**Flow:** Arrival notice → Time confirmation → Repetition → Recording
+<div class="keigo-card blue">
+<span class="keigo-card-title">Flow</span>
+Arrival notice → Time confirmation → Repetition → Recording
+</div>
 
-**Example:**
+<div class="keigo-card green">
+<span class="keigo-card-title">Example Call</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着予定時刻をお伺いしてもよろしいでしょうか</code></span><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>22時頃です</code></span><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>22時頃でございますね。承知いたしました</code></span>
+</div>
 
-チェックインが遅くなります
-→ かしこまりました。ご到着予定時刻をお伺いしてもよろしいでしょうか
-→ 22時頃です
-→ 22時頃でございますね。承知いたしました
+<div class="keigo-card red">
+<span class="keigo-card-title">Why Repetition Is Critical</span>
+Time-based operations are highly sensitive. Even small miscommunication leads to system-level errors.
+</div>
 
-**Why repetition is critical:** Time-based operations are highly sensitive. Even small miscommunication leads to system-level errors.
-
-**Operational rule:** Every time must be repeated clearly and logged.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Operational Rule</span>
+Every time must be repeated clearly and logged.
+</div>
 
 ---
 

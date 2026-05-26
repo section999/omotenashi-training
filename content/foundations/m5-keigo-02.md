@@ -17,7 +17,7 @@ Sonkeigo is used when describing the guest's actions, condition, or status.
 The staff raises the guest linguistically. This is extremely important in Japanese hospitality culture.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">謙譲語 &mdash; Lower the Staff Position</span>
 Kenjōgo is used when staff describe their own actions.
 
@@ -28,7 +28,7 @@ Kenjōgo is used when staff describe their own actions.
 The staff intentionally lowers themselves linguistically. This creates the feeling: "We are here to serve you."
 </div>
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">丁寧語 &mdash; Maintain Professional Tone</span>
 Teineigo creates the general atmosphere of professional communication.
 

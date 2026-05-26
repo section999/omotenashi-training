@@ -6,16 +6,23 @@ title: Professional Telephone Mindset
 
 Telephone communication is not a skill. It is the hotel itself expressed through voice. Because there is no visual context, the entire brand experience is carried by language.
 
-**Professional mindset:** "My voice represents operational stability."
+<div class="keigo-card blue">
+<span class="keigo-card-title">Professional Mindset</span>
+"My voice represents operational stability."
+</div>
 
-**Key focus:**
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Focus</span>
+<span class="keigo-badge info">Clarity</span> clarity over speed<br>
+<span class="keigo-badge info">Structure</span> structure over natural speech<br>
+<span class="keigo-badge info">Calm</span> calm over friendliness<br>
+<span class="keigo-badge info">Consistency</span> consistency over variation
+</div>
 
-- clarity over speed
-- structure over natural speech
-- calm over friendliness
-- consistency over variation
-
+<div class="keigo-card green">
+<span class="keigo-card-title">The Goal</span>
 The goal is not to sound human-friendly, but system-reliable.
+</div>
 
 ---
 

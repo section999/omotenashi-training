@@ -6,37 +6,28 @@ title: Mistake Wrong Closings in Apology Emails
 
 Another common mistake is using relationship-building closings in apology emails.
 
-**Example:**
-
-今後ともよろしくお願い申し上げます。
-
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Problem</span>
+<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span>
+<br><br>
 after a serious apology.
+<br><br>
+<span class="keigo-badge bad">Inappropriate</span> The emotional focus shifts too quickly toward future business relationships.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Better Alternatives</span>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span>
+<br><br>
+<span class="keigo-jp"><code>何かございましたら、お申し付けくださいませ。</code></span>
+<br><br>
+<span class="keigo-badge good">Supportive</span> These expressions sound softer, more supportive, and emotionally considerate.
+</div>
+</div>
 
-This can sound inappropriate because the emotional focus shifts too quickly toward future business relationships.
+In apology emails, the priority should remain: sincerity, responsibility, and guest support.
 
-In apology emails, the priority should remain:
-
-- sincerity,
-- responsibility,
-- and guest support.
-
-**Better alternatives include:**
-
-ご不明点などございましたら、お気軽にご連絡くださいませ。
-
-or
-
-何かございましたら、お申し付けくださいませ。
-
-These expressions sound:
-
-- softer,
-- more supportive,
-- and emotionally considerate.
-
-A good apology email should leave the guest feeling:
-
-"The hotel genuinely cares about resolving the issue."
+A good apology email should leave the guest feeling: "The hotel genuinely cares about resolving the issue."
 
 ---
 

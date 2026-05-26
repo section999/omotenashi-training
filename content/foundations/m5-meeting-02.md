@@ -6,34 +6,47 @@ title: Structure of Hotel Handover
 
 A proper Japanese hotel handover always follows this structure:
 
-**1. Priority Guests (最優先情報)**
-- VIP guests
-- repeat important guests
-- complaints in progress
+<div class="keigo-card blue">
+<span class="keigo-card-title">1. Priority Guests (最優先情報)</span>
+<span class="keigo-badge info">VIP</span> VIP guests<br>
+<span class="keigo-badge info">Repeat</span> repeat important guests<br>
+<span class="keigo-badge info">Complaint</span> complaints in progress
+</div>
 
-**2. Active Problems (対応中案件)**
-- maintenance issues
-- unresolved complaints
-- ongoing guest requests
+<div class="keigo-card blue">
+<span class="keigo-card-title">2. Active Problems (対応中案件)</span>
+<span class="keigo-badge info">Issue</span> maintenance issues<br>
+<span class="keigo-badge info">Issue</span> unresolved complaints<br>
+<span class="keigo-badge info">Issue</span> ongoing guest requests
+</div>
 
-**3. Room Status (客室状況)**
-- room changes
-- cleaning delays
-- damaged rooms
+<div class="keigo-card blue">
+<span class="keigo-card-title">3. Room Status (客室状況)</span>
+<span class="keigo-badge info">Room</span> room changes<br>
+<span class="keigo-badge info">Room</span> cleaning delays<br>
+<span class="keigo-badge info">Room</span> damaged rooms
+</div>
 
-**4. Pending Tasks (未完了タスク)**
-- requests not yet completed
-- follow-ups required
-- approvals waiting
+<div class="keigo-card blue">
+<span class="keigo-card-title">4. Pending Tasks (未完了タスク)</span>
+<span class="keigo-badge info">Task</span> requests not yet completed<br>
+<span class="keigo-badge info">Task</span> follow-ups required<br>
+<span class="keigo-badge info">Task</span> approvals waiting
+</div>
 
-**5. Special Notes (特記事項)**
-- allergies
-- behavior concerns
-- sensitive guest preferences
+<div class="keigo-card blue">
+<span class="keigo-card-title">5. Special Notes (特記事項)</span>
+<span class="keigo-badge info">Note</span> allergies<br>
+<span class="keigo-badge info">Note</span> behavior concerns<br>
+<span class="keigo-badge info">Note</span> sensitive guest preferences
+</div>
 
 This structure exists for one reason:
 
+<div class="keigo-card green">
+<span class="keigo-card-title">Speed of Understanding</span>
 The next shift must understand everything within 10 to 30 seconds.
+</div>
 
 ---
 

@@ -4,14 +4,14 @@ section: 8
 title: Professional Keigo Mindset
 ---
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">The Core Mindset</span>
 "My language represents the entire hotel."
 </div>
 
 Guests do not separate the staff member and the hotel brand. Bad language damages trust immediately.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Good Keigo Creates</span>
 Good keigo creates: <strong>professionalism</strong>, <strong>emotional comfort</strong>, <strong>operational smoothness</strong>, <strong>fewer complaints</strong>, and <strong>higher guest satisfaction</strong>.
 </div>

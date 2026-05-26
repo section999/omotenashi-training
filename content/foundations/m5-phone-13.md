@@ -6,21 +6,32 @@ title: Common Telephone Mistakes
 
 Common failures include:
 
-- casual language (OKです / 分かりました)
-- missing confirmations
-- silence during system checks
-- emotional reactions
-- skipping repetition
+<div class="keigo-card red">
+<span class="keigo-card-title">Mistakes at a Glance</span>
+<span class="keigo-badge bad">Casual</span> casual language (<span class="keigo-jp"><code>OKです</code></span> / <span class="keigo-jp"><code>分かりました</code></span>)<br>
+<span class="keigo-badge bad">Skip</span> missing confirmations<br>
+<span class="keigo-badge bad">Silence</span> silence during system checks<br>
+<span class="keigo-badge bad">Emotion</span> emotional reactions<br>
+<span class="keigo-badge bad">No repeat</span> skipping repetition
+</div>
 
 Each mistake has operational consequences:
 
-- casual tone → reduces authority
-- no confirmation → causes booking errors
-- silence → creates guest anxiety
-- emotion → escalates complaints
-- no repetition → leads to miscommunication
+<div class="keigo-card blue">
+<span class="keigo-card-title">Consequences</span>
+| Mistake | Consequence |
+|---|---|
+| Casual tone | Reduces authority |
+| No confirmation | Causes booking errors |
+| Silence | Creates guest anxiety |
+| Emotion | Escalates complaints |
+| No repetition | Leads to miscommunication |
+</div>
 
-**Correct rule:** Every call must include structure, confirmation, and reassurance.
+<div class="keigo-card green">
+<span class="keigo-card-title">Correct Rule</span>
+Every call must include structure, confirmation, and reassurance.
+</div>
 
 ---
 

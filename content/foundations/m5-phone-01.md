@@ -10,22 +10,33 @@ This creates a very specific problem: even if actual service quality inside the 
 
 In practice, the guest should feel within 3 to 5 seconds of the call: "this hotel is calm, structured, and reliable." If this feeling is not created, the call is already at risk.
 
-**Core opening line:**
+<div class="keigo-card green">
+<span class="keigo-card-title">Core Opening Line</span>
+<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span>
+<br><br>
+<span class="keigo-badge good">Acknowledges</span> お電話ありがとうございます acknowledges contact and reduces guest tension<br>
+<span class="keigo-badge good">Defines</span> ホテル○○でございます immediately defines responsibility and authority
+</div>
 
-お電話ありがとうございます。ホテル○○でございます。
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Bad Example</span>
+<span class="keigo-jp"><code>もしもし / はい</code></span>
+<br><br>
+<span class="keigo-badge bad">Poor</span> This fails because it gives no structure, no identity, and no service signal.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Good Example</span>
+<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span>
+<br><br>
+<span class="keigo-badge good">Professional</span> Clear structure, identity, and service signal.
+</div>
+</div>
 
-**Why this works:**
-
-- お電話ありがとうございます acknowledges contact and reduces guest tension
-- ホテル○○でございます immediately defines responsibility and authority
-
-**Bad example:**
-
-もしもし / はい
-
-This fails because it gives no structure, no identity, and no service signal.
-
-**Key principle:** Telephone keigo is not politeness. It is trust construction through structured speech.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Key Principle</span>
+Telephone keigo is not politeness. It is trust construction through structured speech.
+</div>
 
 ---
 

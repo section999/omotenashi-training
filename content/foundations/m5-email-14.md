@@ -4,52 +4,41 @@ section: 14
 title: Warmth vs Professionalism
 ---
 
-A strong hotel email balances:
+A strong hotel email balances emotional warmth and professional distance.
 
-- emotional warmth,
-- and professional distance.
+If the email is too cold, guests may feel unimportant, unwelcome, or uncomfortable.
 
-If the email is too cold, guests may feel:
+If the email is too friendly, it may feel unprofessional, overly familiar, or inappropriate.
 
-- unimportant,
-- unwelcome,
-- or uncomfortable.
+Japanese hospitality language aims for: respectful friendliness, elegant politeness, and emotional comfort.
 
-If the email is too friendly, it may feel:
-
-- unprofessional,
-- overly familiar,
-- or inappropriate.
-
-Japanese hospitality language aims for:
-
-- respectful friendliness,
-- elegant politeness,
-- and emotional comfort.
-
-For example:
-
-**Too cold:**
-
-ご確認ください。
-
-**Too casual:**
-
-チェックしてくださいね！
-
-**Balanced hotel tone:**
-
-ご確認いただけますと幸いでございます。
-
-This expression sounds:
-
-- polite,
-- gentle,
-- and professional.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Too Cold</span>
+<span class="keigo-jp"><code>ご確認ください。</code></span>
+<br><br>
+<span class="keigo-badge bad">Cold</span> Lacks warmth.
+</div>
+<div class="bad-col">
+<span class="keigo-pair-label">Too Casual</span>
+<span class="keigo-jp"><code>チェックしてくださいね！</code></span>
+<br><br>
+<span class="keigo-badge bad">Casual</span> Overly familiar.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Balanced Hotel Tone</span>
+<span class="keigo-jp"><code>ご確認いただけますと幸いでございます。</code></span>
+<br><br>
+<span class="keigo-badge good">Balanced</span> Polite, gentle, and professional.
+</div>
+</div>
 
 Good hotel communication makes guests feel cared for without becoming overly personal.
 
+<div class="keigo-card blue">
+<span class="keigo-card-title">Core Skill</span>
 This balance is one of the most important skills in Japanese hospitality writing.
+</div>
 
 ---
 

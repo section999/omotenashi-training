@@ -6,38 +6,30 @@ title: Mistake Ending Emails Abruptly
 
 Some hotel emails end too suddenly without a proper closing.
 
-**Example:**
-
-ご予約を確認いたしました。
-
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Abrupt Ending</span>
+<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span>
+<br><br>
 End of email.
+<br><br>
+<span class="keigo-badge bad">Cold</span> Although grammatically correct, this feels cold, mechanical, and incomplete.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Better Ending</span>
+<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span>
+<br><br>
+<span class="keigo-badge good">Warm</span> Creates a softer and more guest-friendly impression.
+</div>
+</div>
 
-Although grammatically correct, this feels:
+Japanese hospitality communication usually includes appreciation, support, or welcoming language at the end.
 
-- cold,
-- mechanical,
-- and incomplete.
-
-Japanese hospitality communication usually includes:
-
-- appreciation,
-- support,
-- or welcoming language at the end.
-
-**Better example:**
-
-ご予約を確認いたしました。
-ご不明点などございましたら、お気軽にご連絡くださいませ。
-
-This creates a softer and more guest-friendly impression.
-
-Closings help:
-
-- reduce emotional distance,
-- improve readability,
-- and create hospitality warmth.
-
-Even short emails should include an appropriate closing phrase.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Why Closings Matter</span>
+Closings help: reduce emotional distance, improve readability, and create hospitality warmth. Even short emails should include an appropriate closing phrase.
+</div>
 
 ---
 

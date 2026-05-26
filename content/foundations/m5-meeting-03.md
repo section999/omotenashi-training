@@ -21,6 +21,8 @@ This is the real operational vocabulary used in Japanese hotel systems.
 | 完了 | completed |
 | 依頼あり | request received |
 
+<hr>
+
 ## Guest Operation Terms
 
 | Japanese | English |
@@ -33,6 +35,8 @@ This is the real operational vocabulary used in Japanese hotel systems.
 | クレーム対応 | complaint handling |
 | VIP対応 | VIP handling |
 
+<hr>
+
 ## Facility and Technical Terms
 
 | Japanese | English |
@@ -44,6 +48,8 @@ This is the real operational vocabulary used in Japanese hotel systems.
 | 騒音クレーム | noise complaint |
 | 故障中 | out of order |
 | 修理手配済み | repair arranged |
+
+<hr>
 
 ## Time and Status Expressions
 
