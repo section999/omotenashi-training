@@ -28,7 +28,7 @@ Part formal, part casual. This creates inconsistent tone.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Better</span>
-<span class="keigo-jp"><code>お客様はお召し上がりになりましたか？</code></span>
+<span class="keigo-jp"><code>お客様は召し上がりましたか？</code></span>
 </div>
 </div>
 

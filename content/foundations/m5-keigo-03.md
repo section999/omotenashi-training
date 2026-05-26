@@ -35,6 +35,15 @@ Real hotel keigo is: short, predictable, repeatable, and easy for guests to unde
 
 Hotel keigo is **operational language**. Not literary language.
 
+## Key Phrases
+
+| Japanese | English | Note |
+|---|---|---|
+| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Hotel standard — smooth and clear |
+| 少々お待ちくださいませ。| Please wait just a moment. | Short, repeatable, easy for guests |
+| かしこまりました。| Certainly. | Daily confirmation — preferred over わかりました |
+| ごゆっくりお過ごしくださいませ。| Please enjoy your stay at your leisure. | Warm closing — simple and professional |
+
 ---
 
 ## Quiz

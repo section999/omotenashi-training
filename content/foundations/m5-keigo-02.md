@@ -11,7 +11,7 @@ Hotel keigo is based on three operational functions. These functions constantly 
 Sonkeigo is used when describing the guest's actions, condition, or status.
 
 <span class="keigo-badge info">Purpose</span> Elevate the guest, show respect, maintain professional distance<br>
-<span class="keigo-badge info">Examples</span> <span class="keigo-jp"><code>いらっしゃいます</code></span>, <span class="keigo-jp"><code>お召し上がりになります</code></span>, <span class="keigo-jp"><code>ご覧になります</code></span>, <span class="keigo-jp"><code>お休みになります</code></span><br>
+<span class="keigo-badge info">Examples</span> <span class="keigo-jp"><code>いらっしゃいます</code></span>, <span class="keigo-jp"><code>召し上がります</code></span>, <span class="keigo-jp"><code>ご覧になります</code></span>, <span class="keigo-jp"><code>お休みになります</code></span><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>お客様はもうお休みになりました。</code></span>
 
 The staff raises the guest linguistically. This is extremely important in Japanese hospitality culture.
@@ -51,6 +51,16 @@ In real hotel operations, all three types are mixed constantly.
 <br><br>
 Within three sentences, guest elevation, professional tone, and staff humility are all used together naturally.
 </div>
+
+## Key Phrases
+
+| Japanese | English | Type |
+|---|---|---|
+| 山田様でいらっしゃいますね。| You are Mr./Ms. Yamada, correct? | 尊敬語 — elevates the guest |
+| お客様はもうお休みになりましたか？| Has the guest retired for the evening? | 尊敬語 — guest's action |
+| こちらがお部屋の鍵でございます。| This is your room key. | 丁寧語 — professional tone |
+| スタッフがご案内いたします。| A staff member will guide you. | 謙譲語 — staff humility |
+| 担当者がお伺いいたします。| A staff member will come to you. | 謙譲語 — humble visit |
 
 ---
 

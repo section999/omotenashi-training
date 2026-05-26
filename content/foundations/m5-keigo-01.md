@@ -35,17 +35,25 @@ Good keigo creates: <strong>safety</strong>, <strong>trust</strong>, <strong>com
 
 The goal is not "sounding difficult." The goal is **making the guest feel professionally cared for**.
 
+## Key Phrases
+
+| Japanese | English | Note |
+|---|---|---|
+| いらっしゃいませ。| Welcome. | The most fundamental hotel greeting |
+| ただいまご確認いたします。| I will confirm that right away. | Kenjōgo — staff humility in action |
+| 何かございましたらお申し付けください。| Please let us know if you need anything. | ございます = professional teineigo register |
+
 ---
 
 ## Quiz
 
-**What is keigo considered in Japanese hotel operations?**
+**A new front desk trainee tells their supervisor: "I always say desu and masu, so my keigo is fine." During an actual guest interaction, the trainee greets a VIP guest with 「いらっしゃいませ、田中さんですね」and then struggles when something goes wrong. What is the fundamental misunderstanding behind this approach?**
 
-- A. Just polite Japanese
-- B. A service-control system
-- C. Optional training
-- D. Only for managers
+- A. The trainee used the wrong greeting phrase for a VIP guest
+- B. The trainee sees keigo only as individual politeness, not as a service-control system that manages guest comfort, professional atmosphere, and brand image
+- C. Desu and masu forms are too advanced for a new trainee to use
+- D. The trainee should have used casual language to make the guest feel relaxed
 
 **Correct Answer:** B
 
-**Explanation:** Keigo is a service-control system used to manage guest comfort, professional atmosphere, service consistency, and brand image.
+**Explanation:** Keigo in hotel operations is a service-control system — not just a personal habit of being polite. It manages guest comfort, professional atmosphere, service consistency, and complaint prevention. Using desu/masu is only the minimum baseline (teineigo); VIP guests expect 様 (not さん), elevated language for their actions, and humble language for staff actions. The trainee's mistake shows they have not yet understood keigo as an operational standard.

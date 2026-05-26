@@ -45,6 +45,16 @@ Used to end guest interactions smoothly.<br>
 <span class="keigo-badge info">Purpose</span> Leave a warm final impression. In Japanese hospitality, the ending atmosphere is extremely important.
 </div>
 
+## Key Phrases
+
+| Japanese | English | Pattern Type |
+|---|---|---|
+| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Request pattern — softened ask |
+| ただいまお部屋までご案内いたします。| I will guide you to your room right away. | Staff action — kenjōgo |
+| 朝食は7時からでございます。| Breakfast starts at 7:00. | Information delivery — でございます |
+| こちらにご記入いただけますでしょうか。| Could you please fill this out? | Soft request — いただけますでしょうか |
+| ごゆっくりお過ごしくださいませ。| Please enjoy your time. | Closing — warm and professional |
+
 ---
 
 ## Quiz

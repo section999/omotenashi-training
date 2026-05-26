@@ -43,6 +43,16 @@ Overly difficult keigo sounds uncomfortable. Guests prefer smooth professionalis
 Professional keigo should sound: <strong>easy</strong>, <strong>calm</strong>, <strong>confident</strong>, and <strong>fluid</strong>.
 </div>
 
+## Key Phrases
+
+| Japanese | English | Rule Applied |
+|---|---|---|
+| お名前をお伺いしてもよろしいでしょうか。| May I ask your name? | Rule 1: Never sound direct |
+| 山田様でいらっしゃいますね。| You are Mr./Ms. Yamada, correct? | Rule 2: Always elevate the guest |
+| 確認いたします。| I will confirm that. | Rule 3: Staff sounds humble |
+| 少々お待ちくださいませ。| Please wait just a moment. | Rule 4: Avoid rough vocabulary |
+| かしこまりました。| Certainly. | Rule 4: Professional over わかりました |
+
 ---
 
 ## Quiz

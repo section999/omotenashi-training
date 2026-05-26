@@ -83,6 +83,52 @@ Sounds attentive and service-oriented.
 
 Sounds operationally professional, shows the hotel is formally managing the reservation.
 
+## Case 6: Checkout Farewell
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Casual</span>
+<span class="keigo-jp"><code>またどうぞ</code></span>
+<br><br>
+Sounds abrupt and dismissive as a farewell
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Hotel Standard</span>
+<span class="keigo-jp"><code>またのお越しをお待ちしております</code></span>
+<br><br>
+Leaves a warm final impression — the last words a guest hears matter enormously
+</div>
+</div>
+
+Pair with: <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span> (Please take care on your way home) for a complete checkout send-off.
+
+## Case 7: Dining Service — Presenting a Dish
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Too Plain</span>
+<span class="keigo-jp"><code>これ、おすすめです</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Hotel Standard</span>
+<span class="keigo-jp"><code>こちらが本日のおすすめでございます</code></span>
+</div>
+</div>
+
+でございます elevates even simple information delivery. Follow with: <span class="keigo-jp"><code>召し上がりますか？</code></span> (sonkeigo) rather than <span class="keigo-jp"><code>食べますか？</code></span> to honour the guest's action of eating.
+
+## Key Phrases
+
+| Japanese | English | Situation |
+|---|---|---|
+| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Name inquiry — check-in |
+| 少々お待ちくださいませ。| Please wait just a moment. | Asking to wait |
+| 603号室でございます。| Your room is 603. | Giving room info |
+| 何かございましたらお申し付けくださいませ。| Please let us know if you need anything. | Offering help |
+| 2泊で承っております。| We have you booked for 2 nights. | Confirming a reservation |
+| またのお越しをお待ちしております。| We look forward to your next visit. | Checkout farewell |
+| こちらが本日のおすすめでございます。| This is today's recommendation. | Dining service |
+
 ---
 
 ## Quiz
