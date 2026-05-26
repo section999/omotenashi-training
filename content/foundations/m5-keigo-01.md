@@ -40,7 +40,7 @@ The goal is not "sounding difficult." The goal is **making the guest feel profes
 | Japanese | English | Note |
 |---|---|---|
 | いらっしゃいませ。| Welcome. | The most fundamental hotel greeting |
-| ただいまご確認いたします。| I will confirm that right away. | Kenjōgo — staff humility in action |
+| ただいまご確認いたします。| I will confirm that right away. | Staff humility in action |
 | 何かございましたらお申し付けください。| Please let us know if you need anything. | ございます = professional teineigo register |
 
 ---
@@ -56,4 +56,4 @@ The goal is not "sounding difficult." The goal is **making the guest feel profes
 
 **Correct Answer:** B
 
-**Explanation:** Keigo in hotel operations is a service-control system — not just a personal habit of being polite. It manages guest comfort, professional atmosphere, service consistency, and complaint prevention. Using desu/masu is only the minimum baseline (teineigo); VIP guests expect 様 (not さん), elevated language for their actions, and humble language for staff actions. The trainee's mistake shows they have not yet understood keigo as an operational standard.
+**Explanation:** Keigo in hotel operations is a service-control system; not just a personal habit of being polite. It manages guest comfort, professional atmosphere, service consistency, and complaint prevention. Using desu/masu is only the minimum baseline (teineigo); VIP guests expect 様 (not さん), elevated language for their actions, and humble language for staff actions. The trainee's mistake shows they have not yet understood keigo as an operational standard.

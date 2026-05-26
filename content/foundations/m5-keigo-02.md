@@ -56,11 +56,11 @@ Within three sentences, guest elevation, professional tone, and staff humility a
 
 | Japanese | English | Type |
 |---|---|---|
-| 山田様でいらっしゃいますね。| You are Mr./Ms. Yamada, correct? | 尊敬語 — elevates the guest |
-| お客様はもうお休みになりましたか？| Has the guest retired for the evening? | 尊敬語 — guest's action |
-| こちらがお部屋の鍵でございます。| This is your room key. | 丁寧語 — professional tone |
-| スタッフがご案内いたします。| A staff member will guide you. | 謙譲語 — staff humility |
-| 担当者がお伺いいたします。| A staff member will come to you. | 謙譲語 — humble visit |
+| 山田様でいらっしゃいますね。| You are Mr./Ms. Yamada, correct? | 尊敬語: elevates the guest |
+| お客様はもうお休みになりましたか？| Has the guest retired for the evening? | 尊敬語: guest's action |
+| こちらがお部屋の鍵でございます。| This is your room key. | 丁寧語: professional tone |
+| スタッフがご案内いたします。| A staff member will guide you. | 謙譲語: staff humility |
+| 担当者がお伺いいたします。| A staff member will come to you. | 謙譲語: humble visit |
 
 ---
 

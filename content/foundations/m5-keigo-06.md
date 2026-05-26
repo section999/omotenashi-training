@@ -96,13 +96,13 @@ Sounds abrupt and dismissive as a farewell
 <span class="keigo-pair-label">Hotel Standard</span>
 <span class="keigo-jp"><code>またのお越しをお待ちしております</code></span>
 <br><br>
-Leaves a warm final impression — the last words a guest hears matter enormously
+Leaves a warm final impression
 </div>
 </div>
 
 Pair with: <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span> (Please take care on your way home) for a complete checkout send-off.
 
-## Case 7: Dining Service — Presenting a Dish
+## Case 7: Dining Service: Presenting a Dish
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -121,7 +121,7 @@ Pair with: <span class="keigo-jp"><code>お気をつけてお帰りください�
 
 | Japanese | English | Situation |
 |---|---|---|
-| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Name inquiry — check-in |
+| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Name inquiry : check-in |
 | 少々お待ちくださいませ。| Please wait just a moment. | Asking to wait |
 | 603号室でございます。| Your room is 603. | Giving room info |
 | 何かございましたらお申し付けくださいませ。| Please let us know if you need anything. | Offering help |

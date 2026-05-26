@@ -49,11 +49,11 @@ Used to end guest interactions smoothly.<br>
 
 | Japanese | English | Pattern Type |
 |---|---|---|
-| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Request pattern — softened ask |
-| ただいまお部屋までご案内いたします。| I will guide you to your room right away. | Staff action — kenjōgo |
-| 朝食は7時からでございます。| Breakfast starts at 7:00. | Information delivery — でございます |
-| こちらにご記入いただけますでしょうか。| Could you please fill this out? | Soft request — いただけますでしょうか |
-| ごゆっくりお過ごしくださいませ。| Please enjoy your time. | Closing — warm and professional |
+| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Request pattern: softened ask |
+| ただいまお部屋までご案内いたします。| I will guide you to your room right away. | Staff action: kenjōgo |
+| 朝食は7時からでございます。| Breakfast starts at 7:00. | Information delivery: でございます |
+| こちらにご記入いただけますでしょうか。| Could you please fill this out? | Soft request: いただけますでしょうか |
+| ごゆっくりお過ごしくださいませ。| Please enjoy your time. | Closing: warm and professional |
 
 ---
 
