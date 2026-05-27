@@ -3,10 +3,9 @@ id: m5-email-19
 section: 17
 title: Reservation Confirmation Template
 ---
-
 A reservation confirmation is often the hotel's first direct message to the guest. It must reassure, welcome, and build trust. The guest should feel their reservation has been handled properly and that the hotel is looking forward to their stay.
 
-## Standard Template
+The overall tone should be calm, welcoming, and organized. Avoid sounding too casual or robotic.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Opening</span>
@@ -20,8 +19,10 @@ Thank you very much for reserving our hotel on this occasion.
 <div class="keigo-card blue">
 <span class="keigo-card-title">Body</span>
 <span class="keigo-jp"><code>ご予約内容を確認いたしました。ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span>
-<br><br>
-This confirms the reservation, reassures the guest, and offers pre-arrival support. The phrase **スタッフ一同** (staffu ichidou, "all of our staff") creates a stronger hospitality feeling by showing the whole team is preparing.
+<br>
+<em>go-yoyaku naiyou wo kakunin itashimashita. go-taizai-chuu, kaiteki ni o-sugoshi itadakemasu you, staffu ichidou junbi wo susumete orimasu. go-touchaku mae ni go-fumeiten nado gozaimashitara, o-kigaru ni o-totawase kudasaimase.</em>
+<br>
+We have confirmed your reservation. All of our staff are preparing to ensure you have a comfortable stay. If you have any questions before your arrival, please feel free to contact us.
 </div>
 
 <div class="keigo-card blue">
@@ -33,20 +34,20 @@ This confirms the reservation, reassures the guest, and offers pre-arrival suppo
 We sincerely look forward to your arrival.
 </div>
 
-The overall tone should be calm, welcoming, and organized. Avoid sounding too casual or robotic.
+This confirms the reservation, reassures the guest, and opens the door for pre-arrival questions. The phrase **スタッフ一同** (staffu ichidou, "all of our staff") strengthens the hospitality message by showing the entire team is preparing for their stay, not just one person at the front desk.
 
 ---
 
 ## Quiz
 
-**What does the phrase 「スタッフ一同」 add to a reservation confirmation email?**
+**A reservation confirmation email should make the guest feel which of the following?**
 
-- A. A casual tone
-- B. Technical information
-- C. A sense of urgency
-- D. A stronger hospitality feeling by involving all staff
+- A. The hotel is busy but handling their booking
+- B. Their reservation has been handled properly and the hotel looks forward to their stay
+- C. The hotel has sent a polite automated receipt
+- D. Additional services are available for purchase
 
-**Correct Answer:** D
+**Correct Answer:** B
 
-**Explanation:** 「スタッフ一同」 means "all of our staff" and creates a stronger hospitality feeling by showing that the entire team is prepared to welcome the guest.
+**Explanation:** A reservation confirmation is the hotel's first direct communication. It should reassure the guest, build trust, and create anticipation. The guest should feel their reservation has been handled properly and that the hotel is welcoming them warmly, not that they received a generic receipt or a sales pitch.
 

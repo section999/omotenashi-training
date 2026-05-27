@@ -4,13 +4,7 @@ section: 19
 title: Thank You After Stay Template
 ---
 
-Post-stay thank-you emails are important for building long-term guest relationships.
-
-These emails help express appreciation, encourage repeat visits, and strengthen brand loyalty.
-
-The emotional tone should feel warm, appreciative, and sincere.
-
-## Standard Template
+Post-stay thank-you emails are important for building long-term guest relationships. They express appreciation, encourage repeat visits, and strengthen brand loyalty. The tone should be warm, appreciative, and sincere, never promotional.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Opening</span>
@@ -23,9 +17,11 @@ Thank you very much for staying at our hotel on this occasion.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Body</span>
-<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。お客様に快適なお時間をお過ごしいただけておりましたら幸いでございます。スタッフ一同、またお迎えできます日を楽しみにしております。</code></span>
-<br><br>
-This shows care for the guest experience, expresses appreciation, and gently encourages future visits. The phrase **幸いでございます** (saiwai de gozaimasu) adds softness and elegance.
+<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。快適にお過ごしいただけましたら幸いでございます。</code></span>
+<br>
+<em>go-taizai wa ikaga deshita deshouka. kaiteki ni o-sugoshi itadakemashitara saiwai de gozaimasu.</em>
+<br>
+How was your stay? We would be delighted if you had a comfortable time.
 </div>
 
 <div class="keigo-card blue">
@@ -37,20 +33,20 @@ This shows care for the guest experience, expresses appreciation, and gently enc
 We sincerely look forward to the day we can meet you again.
 </div>
 
-Thank-you emails should never sound overly promotional. The focus should remain on appreciation, guest experience, and hospitality.
+This shows care for the guest experience, expresses appreciation, and gently encourages future visits. The phrase **幸いでございます** (saiwai de gozaimasu) adds softness and elegance.
 
 ---
 
 ## Quiz
 
-**What should be the main focus of a post-stay thank-you email?**
+**What does the phrase 「幸いでございます」 add to this body sentence?**
 
-- A. Promoting new hotel services
-- B. Appreciation and the guest's experience
-- C. Asking for online reviews
-- D. Explaining hotel policies
+- A. It expresses certainty that the guest had a good stay
+- B. It politely requests the guest to return
+- C. It adds softness and elegance by humbly expressing hope rather than assumption
+- D. It formally closes the email
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Thank-you emails should focus on appreciation and the guest's experience, not sound overly promotional. The emotional tone should be warm, appreciative, and sincere.
+**Explanation:** 幸いでございます (saiwai de gozaimasu) means "would be delighted" and adds softness and elegance. It expresses hope about the guest's experience without assuming, which keeps the tone humble and polite.
 
