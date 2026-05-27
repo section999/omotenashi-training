@@ -13,11 +13,11 @@ A standard expression is:
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span>
 </div>
 
-This phrase is extremely common in Japanese business communication and expresses appreciation for continued support.
+This phrase is extremely common in business communication and expresses appreciation for continued support.
 
 In hotel settings, it communicates:
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">What It Communicates</span>
 <span class="keigo-badge good">Recognition</span> We know you<br>
 <span class="keigo-badge good">Loyalty</span> We appreciate your support<br>
@@ -28,7 +28,7 @@ This expression works well for: repeat guests, membership customers, VIP guests,
 
 The emotional message is: "We remember and appreciate you." This can strengthen guest loyalty and long-term relationships.
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Caution</span>
 Hotel staff must be careful not to overuse this phrase. If the guest has never stayed before, the expression sounds unnatural because <span class="keigo-jp"><code>いつも</code></span> implies repeated interaction. Attention to this detail is considered part of professional hospitality service.
 </div>
@@ -47,3 +47,4 @@ Hotel staff must be careful not to overuse this phrase. If the guest has never s
 **Correct Answer:** B
 
 **Explanation:** 「いつも」 implies repeated interaction. Using it for a first-time guest sounds unnatural and inattentive, which is considered a lack of professional hospitality.
+

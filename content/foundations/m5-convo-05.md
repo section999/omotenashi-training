@@ -100,11 +100,11 @@ This phrase should feel:
 
 **What is the most important quality to focus on when shadowing hospitality phrases?**
 
-- A. Speaking as quickly as possible
-- B. Using the loudest voice possible
-- C. Delivering with a calm, warm tone and natural pacing
-- D. Memorizing the kanji for every word
+- A. Delivering with a calm, warm tone and natural pacing
+- B. Memorizing the kanji for every word
+- C. Speaking as quickly as possible
+- D. Using the loudest voice possible
 
-**Correct Answer:** C
+**Correct Answer:** A
 
 **Explanation:** In hospitality speech, calm and warm delivery matters more than speed. Even perfect grammar sounds unnatural if intonation is too sharp, rhythm is rushed, or tone sounds robotic. The goal is to sound reassuring and welcoming.

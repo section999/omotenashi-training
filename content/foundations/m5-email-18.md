@@ -38,11 +38,12 @@ Professional hospitality writing is not about using the most difficult Japanese 
 
 **What is the problem with overusing difficult keigo in hotel emails?**
 
-- A. It sounds more professional
-- B. It becomes unnatural, difficult to understand, and emotionally distant
-- C. It impresses the guest
-- D. It shows the staff's education level
+- A. It shows the staff's education level
+- B. It sounds more professional
+- C. It becomes unnatural, difficult to understand, and emotionally distant
+- D. It impresses the guest
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** Excessive keigo makes emails unnatural and hard to understand. Hotel communication should prioritize clarity, smoothness, and guest comfort over complexity.
+

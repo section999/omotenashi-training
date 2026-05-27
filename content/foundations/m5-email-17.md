@@ -24,7 +24,7 @@ End of email.
 </div>
 </div>
 
-Japanese hospitality communication usually includes appreciation, support, or welcoming language at the end.
+Hospitality communication usually includes appreciation, support, or welcoming language at the end.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Why Closings Matter</span>
@@ -44,4 +44,5 @@ Closings help: reduce emotional distance, improve readability, and create hospit
 
 **Correct Answer:** B
 
-**Explanation:** An email that ends abruptly without a closing phrase feels cold, mechanical, and incomplete. Japanese hospitality communication always includes appreciation, support, or welcoming language at the end.
+**Explanation:** An email that ends abruptly without a closing phrase feels cold, mechanical, and incomplete. Hospitality communication always includes appreciation, support, or welcoming language at the end.
+

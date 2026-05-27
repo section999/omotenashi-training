@@ -19,7 +19,7 @@ Telephone communication is not a skill. It is the hotel itself expressed through
 <span class="keigo-badge info">Consistency</span> consistency over variation
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">The Goal</span>
 The goal is not to sound human-friendly, but system-reliable.
 </div>
@@ -30,11 +30,12 @@ The goal is not to sound human-friendly, but system-reliable.
 
 **What is the professional telephone mindset for hotel staff?**
 
-- A. Sound as friendly as possible
-- B. "My voice represents operational stability"
-- C. Speak as fast as possible
-- D. Use casual language to relax guests
+- A. "My voice represents operational stability"
+- B. Speak as fast as possible
+- C. Use casual language to relax guests
+- D. Sound as friendly as possible
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** Since telephone has no visual context, the entire brand experience is carried by voice. The goal is to sound system-reliable, prioritizing clarity, structure, calm, and consistency.
+

@@ -1,41 +1,28 @@
 ---
 id: m5-email-01
 section: 1
-title: Introduction to Japanese Hotel Email Etiquette
+title: Email Etiquette
 ---
 
-In Japanese hotel service, emails are considered part of the guest experience. They are not simply tools for delivering information. Every message sent by the hotel represents the hotel's professionalism, hospitality, and attention to detail.
+In hotels, every email is part of the guest experience. A message is never just information. It reflects the hotel's professionalism, hospitality, and attention to detail.
 
-Because of this, Japanese hotel emails place strong importance on:
+Hotel emails must balance four key elements:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Key Elements</span>
-<span class="keigo-badge info">Greeting</span> greetings<br>
-<span class="keigo-badge info">Closing</span> closings<br>
-<span class="keigo-badge info">Tone</span> emotional tone<br>
-<span class="keigo-badge info">Politeness</span> politeness balance
+<span class="keigo-badge info">Greeting</span> warm and appropriate openings<br>
+<span class="keigo-badge info">Closing</span> courteous and graceful endings<br>
+<span class="keigo-badge info">Tone</span> emotionally warm, not overly formal<br>
+<span class="keigo-badge info">Politeness</span> respectful without being stiff
 </div>
 
-Even when the information itself is correct, the email may still leave a poor impression if the language feels:
+Even when the information is correct, an email leaves a poor impression if the language feels **too cold, too direct, too casual, or emotionally distant**.
 
-<div class="keigo-card red">
-<span class="keigo-card-title">Avoid These Impressions</span>
-too cold, too direct, too casual, or emotionally distant
-</div>
+Guests often judge a hotel's service quality from email wording alone, before they ever arrive. In hospitality, every word shapes expectations.
 
-Japanese hospitality culture values subtle emotional communication. Guests often judge the quality of service from the wording of the email before arriving at the hotel.
+The opening and closing lines carry the strongest emotional weight. Staff must choose expressions appropriate to the guest relationship, the message purpose, and the formality level required.
 
-<div class="keigo-card green">
-<span class="keigo-card-title">Goal of a Hotel Email</span>
-A well-written hotel email should make guests feel: welcomed, respected, reassured, and comfortable.
-</div>
-
-In many cases, the opening and closing lines create the strongest emotional impression. For this reason, hotel staff must carefully choose expressions that match the relationship with the guest, the purpose of the message, and the level of formality.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Core Philosophy</span>
-The goal is not only correct Japanese. The goal is to create hospitality through language.
-</div>
+> **Core Philosophy:** The goal is not correct Japanese. It is hospitality through language.
 
 ---
 
@@ -50,4 +37,5 @@ The goal is not only correct Japanese. The goal is to create hospitality through
 
 **Correct Answer:** B
 
-**Explanation:** Japanese hotel emails are part of the guest experience. The goal is to create hospitality through language, making guests feel welcomed, respected, reassured, and comfortable.
+**Explanation:** Hotel emails are part of the guest experience. The goal is to create hospitality through language, making guests feel welcomed, respected, reassured, and comfortable.
+

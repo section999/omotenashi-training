@@ -146,3 +146,4 @@ This gives the hotel language a refined service tone.
 **Correct Answer:** B
 
 **Explanation:** Hotels avoid しています because it sounds operational rather than service-oriented. 承る carries the nuance of respectfully receiving or handling something, which gives the hotel language a refined, guest-centered tone.
+

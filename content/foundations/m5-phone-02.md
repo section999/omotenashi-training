@@ -24,7 +24,7 @@ Each step has a function:
 <span class="keigo-badge info">Closing</span> ends interaction cleanly and professionally
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Full Example</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。</code></span> (Greeting)<br>
 <span class="keigo-jp"><code>フロントでございます。</code></span> (Identification)<br>
@@ -34,7 +34,7 @@ Each step has a function:
 <span class="keigo-jp"><code>お電話ありがとうございました。</code></span> (Closing)
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Important Rule</span>
 Even if the request is simple, the structure must never be skipped. Skipping structure increases the probability of miscommunication, especially in reservations and complaints.
 </div>
@@ -45,11 +45,12 @@ Even if the request is simple, the structure must never be skipped. Skipping str
 
 **What is the purpose of the "Confirmation" step in the hotel phone call structure?**
 
-- A. To end the call
-- B. To prevent operational mistakes with names, dates, and numbers
-- C. To greet the guest
-- D. To transfer the call
+- A. To prevent operational mistakes with names, dates, and numbers
+- B. To greet the guest
+- C. To transfer the call
+- D. To end the call
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** The Confirmation step prevents operational mistakes by verifying key information such as names, dates, and numbers before proceeding.
+

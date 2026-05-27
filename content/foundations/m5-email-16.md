@@ -35,11 +35,12 @@ A good apology email should leave the guest feeling: "The hotel genuinely cares 
 
 **Why is 「今後ともよろしくお願い申し上げます」 inappropriate after a serious apology?**
 
-- A. It is too casual
-- B. It shifts focus too quickly toward future business relationships
-- C. It is grammatically wrong
-- D. It is too long
+- A. It shifts focus too quickly toward future business relationships
+- B. It is grammatically wrong
+- C. It is too long
+- D. It is too casual
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** Using a relationship-building closing after an apology can sound like the hotel is more interested in future business than addressing the current issue. Support-oriented closings are more appropriate.
+

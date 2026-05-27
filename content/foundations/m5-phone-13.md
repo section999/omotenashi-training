@@ -6,7 +6,7 @@ title: Common Telephone Mistakes
 
 Common failures include:
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Mistakes at a Glance</span>
 <span class="keigo-badge bad">Casual</span> casual language (<span class="keigo-jp"><code>OKです</code></span> / <span class="keigo-jp"><code>分かりました</code></span>)<br>
 <span class="keigo-badge bad">Skip</span> missing confirmations<br>
@@ -28,7 +28,7 @@ Each mistake has operational consequences:
 | No repetition | Leads to miscommunication |
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Correct Rule</span>
 Every call must include structure, confirmation, and reassurance.
 </div>
@@ -39,11 +39,12 @@ Every call must include structure, confirmation, and reassurance.
 
 **What is the operational consequence of silence during a system check on a hotel call?**
 
-- A. The guest feels relaxed
-- B. The guest feels anxious
-- C. The call ends faster
-- D. It is professional
+- A. The call ends faster
+- B. It is professional
+- C. The guest feels relaxed
+- D. The guest feels anxious
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** Silence during system checks creates guest anxiety. The guest cannot see what the staff is doing, so the staff should use phrases like 少々お待ちくださいませ to manage silence.
+

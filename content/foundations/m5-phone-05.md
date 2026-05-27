@@ -11,7 +11,7 @@ Reservation calls are one of the most sensitive operations because they directly
 Request → Date confirmation → Availability check → Offer → Guest details → Final confirmation
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example Call</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか</code></span><br>
@@ -42,7 +42,7 @@ Final step:
 This ensures identity confirmation before booking completion.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Core Principle</span>
 Reservation calls are not conversations. They are verification chains.
 </div>
@@ -53,11 +53,12 @@ Reservation calls are not conversations. They are verification chains.
 
 **What is the core principle of reservation calls in hotels?**
 
-- A. They are friendly conversations
-- B. They are verification chains, not conversations
-- C. They should be as short as possible
-- D. They require no confirmation
+- A. They should be as short as possible
+- B. They require no confirmation
+- C. They are friendly conversations
+- D. They are verification chains, not conversations
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** Reservation calls are verification chains where every detail must be confirmed and repeated to prevent operational failures in room allocation and inventory.
+

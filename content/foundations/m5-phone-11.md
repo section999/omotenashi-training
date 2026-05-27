@@ -8,7 +8,7 @@ These are simple requests but require high accuracy because they affect guest sc
 
 ## Wake-up Call
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールお願いします</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お時間をお伺いしてもよろしいでしょうか</code></span><br>
@@ -18,7 +18,7 @@ These are simple requests but require high accuracy because they affect guest sc
 
 ## Taxi Request
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>タクシーお願いします</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか</code></span><br>
@@ -26,7 +26,7 @@ These are simple requests but require high accuracy because they affect guest sc
 <strong>Staff:</strong> <span class="keigo-jp"><code>タクシーを手配いたします</code></span>
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Key Rule</span>
 Time and urgency must always be repeated for operational safety.
 </div>
@@ -45,3 +45,4 @@ Time and urgency must always be repeated for operational safety.
 **Correct Answer:** B
 
 **Explanation:** Time-based requests like wake-up calls and taxi orders directly affect the guest's schedule. Every time and urgency detail must be repeated clearly to prevent operational errors.
+

@@ -46,11 +46,12 @@ The best hotel staff sound all of these at the same time:
 
 **How should guests perceive a hotel staff member's keigo?**
 
-- A. As acting or pretending
-- B. As the language representing the entire hotel brand
-- C. As the staff member's personal style
-- D. As optional communication
+- A. As the language representing the entire hotel brand
+- B. As the staff member's personal style
+- C. As optional communication
+- D. As acting or pretending
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** Guests do not separate the staff member from the hotel brand. Bad language damages trust immediately, so keigo must represent the hotel's professionalism.
+

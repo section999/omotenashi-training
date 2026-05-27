@@ -28,7 +28,7 @@ This section explains the situation clearly, politely acknowledges inconvenience
 The phrase <span class="keigo-jp"><code>何卒ご理解のほどお願い申し上げます</code></span> is commonly used in professional notice emails.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span>
 <br><br>
@@ -46,13 +46,14 @@ Notice emails should avoid sounding too technical or cold. Even operational mess
 
 ## Quiz
 
-**Which phrase is commonly used in Japanese facility notice emails to politely request understanding?**
+**Which phrase is commonly used in facility notice emails to politely request understanding?**
 
-- A. さようなら
-- B. 何卒ご理解のほどお願い申し上げます
-- C. また来てください
-- D. ご確認ください
+- A. また来てください
+- B. ご確認ください
+- C. さようなら
+- D. 何卒ご理解のほどお願い申し上げます
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** 「何卒ご理解のほどお願い申し上げます」 is a standard polite phrase used in professional notice emails to request the guest's understanding and cooperation.
+

@@ -50,11 +50,12 @@ Hotel keigo is **operational language**. Not literary language.
 
 **Why does hotel keigo differ from textbook keigo?**
 
-- A. Hotels prefer academic language
-- B. Hotels prioritize smoothness, clarity, and comfort over academic perfection
-- C. Hotels use casual language only
-- D. There is no difference
+- A. Hotels use casual language only
+- B. There is no difference
+- C. Hotels prefer academic language
+- D. Hotels prioritize smoothness, clarity, and comfort over academic perfection
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** Hotel keigo is operational language designed for daily repetition, natural rhythm, and guest comfort, not perfectly academic textbook Japanese.
+

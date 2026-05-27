@@ -11,7 +11,7 @@ Late arrival communication directly affects room inventory control and no-show p
 Arrival notice → Time confirmation → Repetition → Recording
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example Call</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着予定時刻をお伺いしてもよろしいでしょうか</code></span><br>
@@ -19,7 +19,7 @@ Arrival notice → Time confirmation → Repetition → Recording
 <strong>Staff:</strong> <span class="keigo-jp"><code>22時頃でございますね。承知いたしました</code></span>
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Why Repetition Is Critical</span>
 Time-based operations are highly sensitive. Even small miscommunication leads to system-level errors.
 </div>
@@ -35,11 +35,12 @@ Every time must be repeated clearly and logged.
 
 **Why is time repetition critical in late arrival calls?**
 
-- A. To make conversation longer
-- B. Time-based operations are highly sensitive; small errors lead to system-level problems
-- C. To practice keigo
-- D. It is optional
+- A. It is optional
+- B. To make conversation longer
+- C. Time-based operations are highly sensitive; small errors lead to system-level problems
+- D. To practice keigo
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** Time-based operations like late arrivals directly affect inventory control and night audit. Even a small miscommunication about time can lead to rooms being released incorrectly.
+

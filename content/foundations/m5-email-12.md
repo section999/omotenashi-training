@@ -4,7 +4,7 @@ section: 12
 title: Matching Openings and Closings
 ---
 
-In Japanese hotel emails, the opening and closing should feel like a natural pair.
+In hotel emails, the opening and closing should feel like a natural pair.
 
 If the tone changes suddenly, the email can sound awkward or poorly written.
 
@@ -31,7 +31,7 @@ If the tone changes suddenly, the email can sound awkward or poorly written.
 </div>
 </div>
 
-Japanese readers are very sensitive to: tone balance, politeness consistency, and emotional flow.
+Readers are very sensitive to: tone balance, politeness consistency, and emotional flow.
 
 Hotel emails should feel smooth, stable, and professional from beginning to end.
 
@@ -46,11 +46,12 @@ Formal opening leads to formal closing. Warm opening leads to warm closing. Apol
 
 **What happens when a formal opening is paired with a casual closing in a hotel email?**
 
-- A. The email becomes more friendly
-- B. The email sounds awkward and inconsistent
-- C. The guest feels more comfortable
-- D. The email looks shorter
+- A. The email sounds awkward and inconsistent
+- B. The guest feels more comfortable
+- C. The email looks shorter
+- D. The email becomes more friendly
 
-**Correct Answer:** B
+**Correct Answer:** A
 
-**Explanation:** Japanese readers are sensitive to tone balance. A sudden shift from formal to casual creates inconsistency and sounds poorly written.
+**Explanation:** Readers are sensitive to tone balance. A sudden shift from formal to casual creates inconsistency and sounds poorly written.
+

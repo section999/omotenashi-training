@@ -25,12 +25,12 @@ These expressions communicate: appreciation, respect, and hope for continued pat
 
 The longer version <span class="keigo-jp"><code>変わらぬご愛顧</code></span> means "your continued patronage and support." This is often used for VIP customers, luxury hotel guests, members, and long-term clients.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Purpose</span>
 These closings help create loyalty and long-term trust between the hotel and the guest.
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Watch Out</span>
 They should generally not be used for first-time guests because they assume an already established relationship.
 </div>
@@ -41,11 +41,12 @@ They should generally not be used for first-time guests because they assume an a
 
 **Why should 「今後ともよろしくお願い申し上げます」 generally not be used for first-time guests?**
 
-- A. It is too casual
-- B. It assumes an already established relationship
-- C. It sounds angry
-- D. It is too short
+- A. It is too short
+- B. It is too casual
+- C. It assumes an already established relationship
+- D. It sounds angry
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** 「今後とも」 means "going forward" and assumes a continuing relationship. Using it for a first-time guest sounds presumptuous and unnatural.
+

@@ -4,49 +4,50 @@ section: 2
 title: Structure of Hotel Handover
 ---
 
-A proper Japanese hotel handover always follows this structure:
+Every hotel handover follows the same structure. This is not optional. It ensures the next shift can find what they need in seconds:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">1. Priority Guests (最優先情報)</span>
-<span class="keigo-badge info">VIP</span> VIP guests<br>
-<span class="keigo-badge info">Repeat</span> repeat important guests<br>
-<span class="keigo-badge info">Complaint</span> complaints in progress
-</div>
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">2. Active Problems (対応中案件)</span>
-<span class="keigo-badge info">Issue</span> maintenance issues<br>
-<span class="keigo-badge info">Issue</span> unresolved complaints<br>
-<span class="keigo-badge info">Issue</span> ongoing guest requests
+<span class="keigo-card-title">1. Priority Guests (最優先情報 / saiyuusen jouhou)</span>
+<span class="keigo-badge info">VIP</span> VIP guests, regular VIPs, VIP family<br>
+<span class="keigo-badge info">Repeat</span> repeat important guests and long-stay members<br>
+<span class="keigo-badge info">Complaint</span> complaints in progress or unresolved
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">3. Room Status (客室状況)</span>
-<span class="keigo-badge info">Room</span> room changes<br>
-<span class="keigo-badge info">Room</span> cleaning delays<br>
-<span class="keigo-badge info">Room</span> damaged rooms
+<span class="keigo-card-title">2. Active Problems (対応中案件 / taiouchuu anken)</span>
+<span class="keigo-badge info">Maintenance</span> facility issues, broken equipment<br>
+<span class="keigo-badge info">Complaint</span> guest complaints being handled<br>
+<span class="keigo-badge info">Request</span> ongoing guest requests (e.g. extra pillows, room change)
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">4. Pending Tasks (未完了タスク)</span>
-<span class="keigo-badge info">Task</span> requests not yet completed<br>
-<span class="keigo-badge info">Task</span> follow-ups required<br>
-<span class="keigo-badge info">Task</span> approvals waiting
+<span class="keigo-card-title">3. Room Status (客室状況 / kyakushitsu joukyou)</span>
+<span class="keigo-badge info">Change</span> room changes or upgrades<br>
+<span class="keigo-badge info">Delay</span> cleaning delays or late check-outs<br>
+<span class="keigo-badge info">Damage</span> damaged rooms, out-of-order rooms
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">5. Special Notes (特記事項)</span>
-<span class="keigo-badge info">Note</span> allergies<br>
-<span class="keigo-badge info">Note</span> behavior concerns<br>
-<span class="keigo-badge info">Note</span> sensitive guest preferences
+<span class="keigo-card-title">4. Pending Tasks (未完了タスク / mikanryou tasuku)</span>
+<span class="keigo-badge info">Pending</span> guest requests not yet completed<br>
+<span class="keigo-badge info">Follow-up</span> items requiring next shift action<br>
+<span class="keigo-badge info">Approval</span> approvals or manager decisions waiting
 </div>
 
-This structure exists for one reason:
-
-<div class="keigo-card green">
-<span class="keigo-card-title">Speed of Understanding</span>
-The next shift must understand everything within 10 to 30 seconds.
+<div class="keigo-card blue">
+<span class="keigo-card-title">5. Special Notes (特記事項 / tokkijikou)</span>
+<span class="keigo-badge info">Medical</span> allergies, medications, health concerns<br>
+<span class="keigo-badge info">Behavior</span> behavioral or noise concerns<br>
+<span class="keigo-badge info">Preference</span> sensitive guest preferences or special requests
 </div>
+
+When a new shift starts, staff have seconds to absorb the situation. A well-organized handover answers three questions instantly:
+
+- **Who needs attention?** VIPs, repeat guests, active complaints
+- **What is broken?** maintenance issues, ongoing problems, pending tasks
+- **What else matters?** room status, special notes, guest preferences
+
+The order is intentional: **people first, problems second, logistics third**. This ensures the most critical information is seen before anything else.
 
 ---
 
@@ -54,11 +55,12 @@ The next shift must understand everything within 10 to 30 seconds.
 
 **What is the main reason handover information must be structured in a specific order?**
 
-- A. To make it look professional
-- B. So the next shift can understand everything within 10 to 30 seconds
-- C. To fill more paper
-- D. To impress managers
+- A. So the next shift can understand everything within 10 to 30 seconds
+- B. To fill more paper
+- C. To impress managers
+- D. To make it look professional
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** A structured handover allows the next shift to quickly grasp all critical information, especially priority guests and active problems, within seconds of reading.
+

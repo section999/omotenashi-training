@@ -24,9 +24,9 @@ The phrase <span class="keigo-jp"><code>お待ち申し上げております</co
 
 Together, the expression sounds elegant, welcoming, and highly professional.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Why This Matters</span>
-This type of closing helps guests feel emotionally welcomed before arriving at the hotel. In Japanese hospitality culture, creating anticipation and comfort before arrival is considered part of good service.
+This type of closing helps guests feel emotionally welcomed before arriving at the hotel. In hospitality culture, creating anticipation and comfort before arrival is considered part of good service.
 </div>
 
 ---
@@ -43,3 +43,4 @@ This type of closing helps guests feel emotionally welcomed before arriving at t
 **Correct Answer:** B
 
 **Explanation:** 「心より」 means "from the bottom of my heart" or "sincerely," adding emotional warmth and genuine hospitality to the closing.
+

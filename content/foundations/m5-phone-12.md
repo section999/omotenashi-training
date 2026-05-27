@@ -6,7 +6,7 @@ title: Emergency Calls
 
 Emergency calls require emotional suppression and controlled authority tone. The staff must act as a stabilizing force.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>電気が使えません</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。すぐに確認いたします</code></span><br>
@@ -39,11 +39,12 @@ If staff show surprise or confusion, guest anxiety increases immediately.
 
 **What is the most important quality in handling emergency calls?**
 
-- A. Speed of speech
-- B. Calm and controlled authority tone
-- C. Using casual language to relax the guest
-- D. Asking many questions
+- A. Asking many questions
+- B. Speed of speech
+- C. Calm and controlled authority tone
+- D. Using casual language to relax the guest
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** Staff must act as a stabilizing force in emergencies. If staff show surprise or confusion, guest anxiety increases immediately. A calm, controlled tone maintains trust.
+

@@ -4,11 +4,11 @@ section: 5
 title: Real Hotel Keigo Rules
 ---
 
-Japanese hotel keigo follows practical operational rules to create consistency between staff members.
+Hotel keigo follows practical operational rules to create consistency between staff members.
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Rule 1: Never Sound Too Direct</span>
-Japanese hospitality avoids direct pressure. Even simple questions become softened.<br><br>
+Hospitality avoids direct pressure. Even simple questions become softened.<br><br>
 <span class="keigo-badge bad">Too Direct</span> <span class="keigo-jp"><code>名前は？</code></span> <span class="keigo-jp"><code>パスポートください</code></span><br>
 <span class="keigo-badge good">Hotel Standard</span> <span class="keigo-jp"><code>お名前をお伺いしてもよろしいでしょうか</code></span>, <span class="keigo-jp"><code>パスポートをお預かりいたします</code></span><br><br>
 Direct language can sound cold or aggressive. Soft language feels safer and more professional.
@@ -19,10 +19,10 @@ Direct language can sound cold or aggressive. Soft language feels safer and more
 Guests should never sound linguistically "equal" to staff.<br><br>
 <span class="keigo-badge bad">Too Casual</span> <span class="keigo-jp"><code>山田さんですね</code></span><br>
 <span class="keigo-badge good">Hotel Standard</span> <span class="keigo-jp"><code>山田様でいらっしゃいますね</code></span><br><br>
-Japanese hotels maintain professional hierarchy through language.
+Hotels maintain professional hierarchy through language.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Rule 3: Staff Must Sound Humble</span>
 Hotel staff avoid sounding dominant.<br><br>
 <span class="keigo-badge bad">Casual</span> <span class="keigo-jp"><code>確認します</code></span>, <span class="keigo-jp"><code>行きます</code></span><br>
@@ -30,7 +30,7 @@ Hotel staff avoid sounding dominant.<br><br>
 The hotel positions itself as serving the guest.
 </div>
 
-<div class="keigo-card amber">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Rule 4: Avoid Rough or Casual Vocabulary</span>
 <span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>ちょっと</code></span>, <span class="keigo-jp"><code>いいですか</code></span>, <span class="keigo-jp"><code>わかりました</code></span>, <span class="keigo-jp"><code>待ってください</code></span><br>
 <span class="keigo-badge good">Prefer</span> <span class="keigo-jp"><code>少々</code></span>, <span class="keigo-jp"><code>よろしいでしょうか</code></span>, <span class="keigo-jp"><code>かしこまりました</code></span>, <span class="keigo-jp"><code>お待ちくださいませ</code></span><br><br>
@@ -67,3 +67,4 @@ Professional keigo should sound: <strong>easy</strong>, <strong>calm</strong>, <
 **Correct Answer:** B
 
 **Explanation:** ちょっと is a casual softening word. In hotel service, prefer 少々お待ちくださいませ for a more refined and professional atmosphere.
+

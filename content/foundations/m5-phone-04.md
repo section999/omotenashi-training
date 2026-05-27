@@ -47,11 +47,12 @@ Under pressure (complaints, rush hours, peak check-in times), staff cognitive ca
 
 **Why is かしこまりました preferred over 分かりました in hotel phone calls?**
 
-- A. It is shorter
-- B. It removes personal reaction and maintains service neutrality
-- C. It is easier to pronounce
-- D. Guests prefer casual language
+- A. Guests prefer casual language
+- B. It is shorter
+- C. It removes personal reaction and maintains service neutrality
+- D. It is easier to pronounce
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** かしこまりました is a controlled acceptance phrase that removes personal reaction, while 分かりました sounds too casual and personal for professional hotel service.
+

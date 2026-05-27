@@ -11,7 +11,7 @@ Cancellation calls are operationally simple but emotionally sensitive. The guest
 Acknowledgment → Identity confirmation → Reservation check → Cancellation execution → Closure
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example Call</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいです</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。お名前をお伺いしてもよろしいでしょうか</code></span><br>
@@ -48,11 +48,12 @@ Even when the guest leaves, the hotel relationship should remain intact.
 
 **Why is 承りました preferred over キャンセルしました in cancellation calls?**
 
-- A. It is shorter
-- B. It signals completion without emotional tone, preserving the relationship
-- C. It is grammatically correct
-- D. It sounds more casual
+- A. It signals completion without emotional tone, preserving the relationship
+- B. It is grammatically correct
+- C. It sounds more casual
+- D. It is shorter
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** 承りました signals completion in a neutral way, while キャンセルしました sounds transactional and cold. The goal is to preserve the hotel-guest relationship even during cancellations.
+

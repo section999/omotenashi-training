@@ -62,7 +62,7 @@ Unnatural double keigo, sounds excessive. Professional keigo should sound contro
 </div>
 </div>
 
-"Check-in want to do" sounds too self-centered in Japanese hospitality settings. Japanese hotel language focuses on smoother interpersonal balance.
+"Check-in want to do" sounds too self-centered in hospitality settings. Hotel language focuses on smoother interpersonal balance.
 
 ---
 
@@ -70,11 +70,12 @@ Unnatural double keigo, sounds excessive. Professional keigo should sound contro
 
 **What is the problem with 「お伺いさせていただきます」？**
 
-- A. It is grammatically correct
-- B. It is unnatural double keigo that sounds excessive
-- C. It is too casual
-- D. It is the best choice for hotels
+- A. It is too casual
+- B. It is the best choice for hotels
+- C. It is grammatically correct
+- D. It is unnatural double keigo that sounds excessive
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** お伺いさせていただきます is an example of double keigo (overly humble). It sounds unnatural and excessive. Simple お伺いします is more controlled and professional.
+

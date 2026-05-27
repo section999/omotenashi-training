@@ -4,7 +4,7 @@ section: 8
 title: Standard Professional Closings
 ---
 
-In Japanese hotel emails, the closing is extremely important because it creates the final emotional impression for the guest.
+In hotel emails, the closing is extremely important because it creates the final emotional impression for the guest.
 
 Even when the body of the email is well written, an unnatural or abrupt ending can make the message feel cold, incomplete, or impersonal.
 
@@ -26,7 +26,7 @@ It can be used in: reservation emails, information notices, inquiry responses, a
 <span class="keigo-jp"><code>くださいませ</code></span> is softer and more elegant than simply saying <span class="keigo-jp"><code>ください</code></span>, which helps create a refined hotel tone.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Emotional Purpose</span>
 "We are available to support you." This gives guests reassurance and comfort.
 </div>
@@ -37,11 +37,12 @@ It can be used in: reservation emails, information notices, inquiry responses, a
 
 **Why is 「お気軽にご連絡くださいませ」 preferred over 「ご連絡ください」 in hotel emails?**
 
-- A. It is shorter
-- B. 「くださいませ」 is softer and more elegant
-- C. It is easier to write
-- D. It sounds more casual
+- A. 「くださいませ」 is softer and more elegant
+- B. It is easier to write
+- C. It sounds more casual
+- D. It is shorter
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** 「くださいませ」 is softer and more elegant than 「ください」, creating a refined and warm hotel tone that aligns with hospitality service.
+

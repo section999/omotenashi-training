@@ -135,11 +135,12 @@ Pair with: <span class="keigo-jp"><code>お気をつけてお帰りください�
 
 **Which is the correct hotel standard for offering assistance to a guest?**
 
-- A. 何かあったら言って
-- B. 何かございましたらお申し付けくださいませ
-- C. 何か用？
-- D. 大丈夫ですか
+- A. 大丈夫ですか
+- B. 何かあったら言って
+- C. 何かございましたらお申し付けくださいませ
+- D. 何か用？
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** 何かございましたらお申し付けくださいませ is attentive and service-oriented. The other options are too casual or direct for professional hotel service.
+

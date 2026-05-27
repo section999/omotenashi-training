@@ -23,7 +23,7 @@ One of the most common mistakes is using repeat guest expressions for first-time
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Professional Practice</span>
-Hotel staff should always confirm guest history before choosing greetings. Small wording choices strongly affect the impression of professionalism in Japanese hospitality culture.
+Hotel staff should always confirm guest history before choosing greetings. Small wording choices strongly affect the impression of professionalism in hospitality culture.
 </div>
 
 ---
@@ -32,11 +32,12 @@ Hotel staff should always confirm guest history before choosing greetings. Small
 
 **Why is 「いつもお世話になっております」 inappropriate for a first-time guest?**
 
-- A. It is too formal
-- B. 「いつも」 implies repeated visits or an existing relationship
-- C. It is grammatically incorrect
-- D. It is too short
+- A. It is grammatically incorrect
+- B. It is too short
+- C. It is too formal
+- D. 「いつも」 implies repeated visits or an existing relationship
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** 「いつも」 means "always" and implies repeated visits or an ongoing relationship. Using it for a first-time guest sounds careless or automatically generated.
+

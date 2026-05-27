@@ -4,11 +4,7 @@ section: 3
 title: Levels of Formality in Hotel Emails
 ---
 
-Japanese hotel emails generally use polite business Japanese known as keigo.
-
-However, hotel language should not feel overly stiff, excessively complicated, or difficult to read.
-
-The best hotel communication balances: professionalism, clarity, warmth, and elegance.
+Hotel emails use keigo, but the goal is not complexity. The best hotel tone balances: professionalism, clarity, warmth, and elegance.
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -31,14 +27,9 @@ The best hotel communication balances: professionalism, clarity, warmth, and ele
 </div>
 </div>
 
-Hotel emails should sound smooth and comfortable. Guests should feel respected without feeling overwhelmed by difficult language.
+Emails should feel natural, not forced. Guests should feel respected without being overwhelmed by difficult language. Luxury properties may use more elegant wording; casual hotels may use softer expressions. Both must maintain professional politeness.
 
-Luxury hotels may use slightly more elegant wording, while casual hotels may use softer expressions. However, both still maintain professional politeness.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Consistency Rule</span>
-An important rule is consistency. The email should maintain the same tone from beginning to end. Sudden changes in formality can make the message sound unnatural.
-</div>
+**Consistency Rule:** The email must maintain the same tone from beginning to end. Sudden shifts in formality sound unnatural.
 
 ---
 
@@ -46,11 +37,12 @@ An important rule is consistency. The email should maintain the same tone from b
 
 **What is the natural hotel tone for expressing gratitude?**
 
-- A. ありがとう！
-- B. 誠にありがとうございます
-- C. 深甚なる謝意を表明申し上げます
-- D. サンキュー
+- A. 深甚なる謝意を表明申し上げます
+- B. サンキュー
+- C. ありがとう！
+- D. 誠にありがとうございます
 
-**Correct Answer:** B
+**Correct Answer:** D
 
-**Explanation:** 誠にありがとうございます balances professionalism, clarity, warmth, and elegance. A and D are too casual, and C is overly stiff and complicated for hotel communication.
+**Explanation:** 誠にありがとうございます balances professionalism, clarity, warmth, and elegance. A (深甚なる謝意を表明申し上げます) is overly stiff, while B and C are too casual for hotel correspondence.
+

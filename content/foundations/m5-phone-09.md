@@ -11,7 +11,7 @@ Complaint calls are the highest emotional risk scenarios. The primary goal is no
 Apology → Acknowledgment → Action → Assurance
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example Call</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>隣がうるさいです</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけし申し訳ございません</code></span><br>
@@ -21,7 +21,7 @@ Apology → Acknowledgment → Action → Assurance
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Why Apology Comes First</span>
-In Japanese hospitality logic, emotional validation precedes problem-solving.
+In Hospitality logic, emotional validation precedes problem-solving.
 </div>
 
 <div class="keigo-pair">
@@ -45,11 +45,12 @@ In Japanese hospitality logic, emotional validation precedes problem-solving.
 
 **What is the first step in handling a complaint call?**
 
-- A. Explain the cause of the problem
-- B. Apologize and acknowledge the inconvenience
-- C. Transfer to a manager
-- D. Ask for more details
+- A. Transfer to a manager
+- B. Ask for more details
+- C. Explain the cause of the problem
+- D. Apologize and acknowledge the inconvenience
 
-**Correct Answer:** B
+**Correct Answer:** D
 
-**Explanation:** In Japanese hospitality logic, emotional validation precedes problem-solving. The first step is always to apologize and acknowledge the inconvenience to stabilize the guest's emotions.
+**Explanation:** In Hospitality logic, emotional validation precedes problem-solving. The first step is always to apologize and acknowledge the inconvenience to stabilize the guest's emotions.
+

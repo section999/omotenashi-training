@@ -9,7 +9,7 @@ title: Main Check-In Dialogue
 This conversation takes place at a hotel front desk during check-in.
 The staff member's role is not only to complete administrative procedures, but also to create a welcoming and reassuring first impression.
 
-In Japanese hospitality culture, the check-in process serves several functions at the same time:
+In hospitality culture, the check-in process serves several functions at the same time:
 
 - confirming reservation accuracy
 - establishing trust
@@ -66,11 +66,12 @@ Staff:   何かご不明な点がございましたら、フロントまでお�
 
 **In the dialogue, what does the staff say right after the guest gives their name during check-in?**
 
-- A. お名前は何ですか
-- B. 田中様でいらっしゃいますね。かしこまりました。
-- C. ご予約ありがとうございます
-- D. 少々お待ちください
+- A. 田中様でいらっしゃいますね。かしこまりました。
+- B. ご予約ありがとうございます
+- C. 少々お待ちください
+- D. お名前は何ですか
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** After the guest says "田中です", the staff uses the respectful confirmation 「田中様でいらっしゃいますね」followed by 「かしこまりました」. This phrasing confirms identity politely while sounding professional and welcoming, avoiding direct questioning like お名前は何ですか.
+

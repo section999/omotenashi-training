@@ -6,7 +6,7 @@ title: Transfer Calls
 
 Transfers must ensure that guests do not feel "passed around." The goal is continuity of responsibility.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Good Example</span>
 <span class="keigo-jp"><code>レストランへおつなぎいたします。少々お待ちくださいませ</code></span>
 <br><br>
@@ -39,11 +39,12 @@ Even when departments change, responsibility continuity must feel unbroken.
 
 **What is the key principle of transfer calls?**
 
-- A. Transfer as fast as possible
-- B. Responsibility continuity must feel unbroken
-- C. Let the guest explain again
-- D. End the call before transferring
+- A. Responsibility continuity must feel unbroken
+- B. Let the guest explain again
+- C. End the call before transferring
+- D. Transfer as fast as possible
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** Even when departments change, the guest should feel that responsibility continues seamlessly. おつなぎいたします frames transfer as coordination, not abandonment.
+

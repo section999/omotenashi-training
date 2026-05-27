@@ -6,7 +6,7 @@ title: Full Telephone Scripts
 
 ## Reservation
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Reservation Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが</code></span><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。ご希望のお日にちをお伺いしてもよろしいでしょうか</code></span><br><br>
@@ -30,7 +30,7 @@ title: Full Telephone Scripts
 
 ## Complaint
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Complaint Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋がうるさいです</code></span><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけし申し訳ございません。すぐに確認いたします。スタッフがお部屋へお伺いいたします</code></span>
@@ -38,7 +38,7 @@ title: Full Telephone Scripts
 
 ## Availability
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Availability Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>今日空いていますか</code></span><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>本日の空室状況を確認いたしますので少々お待ちくださいませ</code></span><br><br>
@@ -59,3 +59,4 @@ title: Full Telephone Scripts
 **Correct Answer:** B
 
 **Explanation:** おつなぎいたします frames the transfer as coordination and maintains responsibility continuity. 回します sounds informal and mechanical, making the guest feel passed around.
+

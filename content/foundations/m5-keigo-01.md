@@ -4,7 +4,7 @@ section: 1
 title: What Keigo Really Means in Hotel Operations
 ---
 
-In Japanese hospitality, keigo is not simply "polite Japanese."
+In hospitality, keigo is not simply "polite Japanese."
 
 It is a **service-control system**.
 
@@ -20,7 +20,7 @@ Guests evaluate hotel quality through: staff behavior, appearance, timing, clean
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">First Impression</span>
-Even before the guest sees the room, they already judge the hotel through the staff's keigo. This is why keigo training is treated as an operational standard in Japanese hotels.
+Even before the guest sees the room, they already judge the hotel through the staff's keigo. This is why keigo training is treated as an operational standard in hotels.
 </div>
 
 <div class="keigo-card blue">
@@ -57,3 +57,4 @@ The goal is not "sounding difficult." The goal is **making the guest feel profes
 **Correct Answer:** B
 
 **Explanation:** Keigo in hotel operations is a service-control system; not just a personal habit of being polite. It manages guest comfort, professional atmosphere, service consistency, and complaint prevention. Using desu/masu is only the minimum baseline (teineigo); VIP guests expect 様 (not さん), elevated language for their actions, and humble language for staff actions. The trainee's mistake shows they have not yet understood keigo as an operational standard.
+

@@ -11,7 +11,7 @@ Availability calls are not simple information delivery. They are decision-suppor
 Request → Confirmation → System check → Result → Alternative offer
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Example Call</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>今日空いていますか</code></span><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>本日の空室状況を確認いたしますので少々お待ちくださいませ</code></span><br>
@@ -25,12 +25,12 @@ Request → Confirmation → System check → Result → Alternative offer
 
 Continuation:
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Alternative Offer</span>
 <span class="keigo-jp"><code>もしよろしければ別日程でしたらご案内可能でございます</code></span>
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Key Rule</span>
 Never end a call with "no availability." Always extend service options.
 </div>
@@ -49,3 +49,4 @@ Never end a call with "no availability." Always extend service options.
 **Correct Answer:** B
 
 **Explanation:** Even when there is no availability, always offer alternatives such as different dates. This maintains guest interest and preserves the hotel's service image.
+

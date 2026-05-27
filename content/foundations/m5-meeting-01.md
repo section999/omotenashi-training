@@ -4,41 +4,37 @@ section: 1
 title: Introduction to Hotel Handover
 ---
 
-## What is 引き継ぎ in Real Hotel Operations?
+## What is 引き継ぎ (hikitsugi / handover)?
 
-In a Japanese hotel, 引き継ぎ (handover) is not just "passing information."
+In a hotel, 引き継ぎ (hikitsugi / handover) is not just "passing information."
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Risk-Control System</span>
-It is a risk-control system. Because hotels operate 24 hours a day, guests interact with different staff: morning shift, afternoon shift, night shift (<span class="keigo-jp"><code>ナイト</code></span>), and sometimes emergency staff.
-</div>
+It is a risk-control system. Hotels operate 24 hours a day, so guests interact with multiple shifts: morning, afternoon, night, and sometimes emergency staff.
 
 If information is not perfectly transferred, the hotel loses:
-
 - service continuity
 - guest trust
 - operational safety
 - complaint control accuracy
 
-In Japanese hospitality culture, guests must NEVER feel:
+The worst outcome: a guest feels "I already told this yesterday, why doesn't anyone know?" In hospitality, that is unacceptable. This is why 引き継ぎ is a core operational responsibility, not just paperwork.
 
-"I already told this yesterday, why doesn't anyone know?"
-
-This is why 引き継ぎ is treated as a core operational responsibility, not just paperwork.
-
-The goal of handover: "The next staff behaves exactly like the previous staff already knows everything."
+<div class="keigo-card blue">
+<span class="keigo-card-title">The Goal</span>
+"The next staff should be able to serve the guest as if no shift change happened."
+</div>
 
 ---
 
 ## Quiz
 
-**Why is 引き継ぎ (handover) considered a risk-control system in Japanese hotels?**
+**Why is 引き継ぎ considered a risk-control system in Japanese hotels?**
 
-- A. It is just paperwork
-- B. It prevents service failure when shifts change
-- C. It is only for night staff
-- D. It is optional for small hotels
+- A. It is only for night staff
+- B. It is optional for small hotels
+- C. It is just paperwork
+- D. It prevents service failure when shifts change
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** Hotels operate 24/7 with multiple shifts. Without perfect information transfer, guests would have to repeat themselves and service continuity would break.
+

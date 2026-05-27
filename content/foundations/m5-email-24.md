@@ -28,7 +28,7 @@ This section recognizes repeat use, reinforces personalized hospitality, and str
 The phrase <span class="keigo-jp"><code>前回同様</code></span> means "as with your previous stay." This creates a feeling of continuity and attentiveness.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>今後とも変わらぬご愛顧のほどよろしくお願い申し上げます。</code></span>
 <br><br>
@@ -48,11 +48,12 @@ VIP guest emails should sound elegant, calm, and refined. However, they should s
 
 **What does the phrase 「前回同様」 convey in a VIP guest email?**
 
-- A. The hotel has changed its policy
-- B. The hotel remembers the guest's previous stay
-- C. The hotel is fully booked
-- D. The hotel has new management
+- A. The hotel remembers the guest's previous stay
+- B. The hotel is fully booked
+- C. The hotel has new management
+- D. The hotel has changed its policy
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** 「前回同様」 means "as with your previous stay" and creates a feeling of continuity and attentiveness, showing the hotel remembers and values the guest.
+

@@ -29,7 +29,7 @@ Keigo in hotel telephone service is not grammar knowledge. It is role-based comm
 In real calls, staff switch between these layers within a single sentence. If this switching is incorrect, the speech may still be grammatically correct but will sound unnatural or "non-hotel-like."
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Key Idea</span>
 Keigo is not about correctness. It is about service role alignment.
 </div>
@@ -48,3 +48,4 @@ Keigo is not about correctness. It is about service role alignment.
 **Correct Answer:** B
 
 **Explanation:** お伺いいたします is Kenjogo (humble language), which lowers the staff's action to show service attitude and humility toward the guest.
+

@@ -28,7 +28,7 @@ This body section confirms the reservation, reassures the guest, and offers supp
 The phrase <span class="keigo-jp"><code>スタッフ一同</code></span> means "all of our staff" and creates a stronger hospitality feeling.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span>
 <br><br>
@@ -48,11 +48,12 @@ Reservation confirmation emails should sound: calm, welcoming, and organized. Av
 
 **What does the phrase 「スタッフ一同」 add to a reservation confirmation email?**
 
-- A. A sense of urgency
-- B. A stronger hospitality feeling by involving all staff
-- C. A casual tone
-- D. Technical information
+- A. A casual tone
+- B. Technical information
+- C. A sense of urgency
+- D. A stronger hospitality feeling by involving all staff
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** 「スタッフ一同」 means "all of our staff" and creates a stronger hospitality feeling by showing that the entire team is prepared to welcome the guest.
+

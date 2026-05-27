@@ -19,7 +19,7 @@ Used to respectfully refer to guests.<br>
 Used when asking guests to do something.<br>
 <span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>〜いただけますでしょうか</code></span>, <span class="keigo-jp"><code>〜お願いいたします</code></span>, <span class="keigo-jp"><code>〜くださいませ</code></span><br>
 <span class="keigo-badge info">Examples</span> こちらにご記入いただけますでしょうか, 少々お待ちくださいませ<br>
-<span class="keigo-badge info">Purpose</span> Reduce pressure and sound softer. Japanese service culture avoids sounding commanding.
+<span class="keigo-badge info">Purpose</span> Reduce pressure and sound softer. Service culture avoids sounding commanding.
 </div>
 
 <div class="keigo-card blue">
@@ -42,7 +42,7 @@ Used when giving hotel information.<br>
 <span class="keigo-card-title">Closing Patterns</span>
 Used to end guest interactions smoothly.<br>
 <span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span>, <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
-<span class="keigo-badge info">Purpose</span> Leave a warm final impression. In Japanese hospitality, the ending atmosphere is extremely important.
+<span class="keigo-badge info">Purpose</span> Leave a warm final impression. In hospitality, the ending atmosphere is extremely important.
 </div>
 
 ## Key Phrases
@@ -61,11 +61,12 @@ Used to end guest interactions smoothly.<br>
 
 **Which keigo pattern is used to reduce pressure when making a request to a guest?**
 
-- A. 〜でございます
-- B. 〜いただけますでしょうか
-- C. お伺いします
-- D. 様
+- A. 〜いただけますでしょうか
+- B. お伺いします
+- C. 様
+- D. 〜でございます
 
-**Correct Answer:** B
+**Correct Answer:** A
 
-**Explanation:** Request patterns like 〜いただけますでしょうか soften the request and reduce pressure, since Japanese service culture avoids sounding commanding.
+**Explanation:** Request patterns like 〜いただけますでしょうか soften the request and reduce pressure, since Service culture avoids sounding commanding.
+

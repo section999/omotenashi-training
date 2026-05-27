@@ -20,7 +20,7 @@ This greeting works well because it sounds formal but natural, fits many situati
 Unlike reservation emails, information emails focus more on professionalism than emotional warmth. However, the language should still feel considerate and guest-oriented.
 </div>
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Avoid These</span>
 Information emails should avoid sounding: robotic, cold, or overly technical. Even operational notices are part of hospitality communication.
 </div>
@@ -31,11 +31,12 @@ Information emails should avoid sounding: robotic, cold, or overly technical. Ev
 
 **Which opening is most appropriate for a hotel information email about temporary facility closures?**
 
-- A. この度は、ご予約いただき、誠にありがとうございます
-- B. 平素より当ホテルをご利用いただき、誠にありがとうございます
-- C. いつもお世話になっております
-- D. お疲れ様です
+- A. お疲れ様です
+- B. この度は、ご予約いただき、誠にありがとうございます
+- C. 平素より当ホテルをご利用いただき、誠にありがとうございます
+- D. いつもお世話になっております
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** 平素より当ホテルをご利用いただき、誠にありがとうございます sounds formal but natural and fits many informational situations. A is for reservations, C is for repeat guests, and D is for internal communication.
+

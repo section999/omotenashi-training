@@ -10,7 +10,7 @@ If the email is too cold, guests may feel unimportant, unwelcome, or uncomfortab
 
 If the email is too friendly, it may feel unprofessional, overly familiar, or inappropriate.
 
-Japanese hospitality language aims for: respectful friendliness, elegant politeness, and emotional comfort.
+Hospitality language aims for: respectful friendliness, elegant politeness, and emotional comfort.
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -37,7 +37,7 @@ Good hotel communication makes guests feel cared for without becoming overly per
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Core Skill</span>
-This balance is one of the most important skills in Japanese hospitality writing.
+This balance is one of the most important skills in hospitality writing.
 </div>
 
 ---

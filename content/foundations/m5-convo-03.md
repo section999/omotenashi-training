@@ -19,7 +19,7 @@ The staff should:
 
 **Important Hospitality Principle**
 
-Japanese hospitality values:
+Hospitality values:
 
 - emotional reassurance
 - predictability
@@ -102,7 +102,7 @@ The guest should never feel rushed.
 
 ごゆっくりお過ごしくださいませ
 
-This phrase is extremely common in Japanese hospitality.
+This phrase is extremely common in hospitality.
 
 It does not simply mean "Goodbye."
 
@@ -121,11 +121,12 @@ The phrase leaves the interaction feeling complete and elegant.
 
 **Which of the following is the most important principle to follow when delivering information during check-in?**
 
-- A. Deliver all information as quickly as possible to save time
-- B. Prioritize clarity, pacing, and emotional comfort over speed
-- C. Use the most advanced keigo you know to impress the guest
-- D. Let the guest ask questions first before providing any information
+- A. Let the guest ask questions first before providing any information
+- B. Deliver all information as quickly as possible to save time
+- C. Prioritize clarity, pacing, and emotional comfort over speed
+- D. Use the most advanced keigo you know to impress the guest
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** Hospitality communication prioritizes clarity, pacing, and emotional comfort. Speaking too quickly, even with correct grammar, makes the guest feel rushed and uncomfortable. The information should be delivered at a pace that allows the guest to process comfortably.
+

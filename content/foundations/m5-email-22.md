@@ -25,10 +25,10 @@ This directly acknowledges inconvenience caused to the guest.
 <br><br>
 This section explains the issue, accepts responsibility, and shows commitment to improvement.
 <br><br>
-Japanese apology culture values acknowledgment and corrective action.
+Apology culture values acknowledgment and corrective action.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>何かお気づきの点などございましたら、お気軽にお申し付けくださいませ。</code></span>
 <br><br>
@@ -37,7 +37,7 @@ This closing maintains support and emotional care.
 
 ## Professional Tip
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Avoid</span>
 Excessive excuses, defensive wording, or casual tone. A professional apology email should rebuild trust calmly and respectfully.
 </div>
@@ -46,13 +46,14 @@ Excessive excuses, defensive wording, or casual tone. A professional apology ema
 
 ## Quiz
 
-**What should an apology email prioritize in Japanese hospitality culture?**
+**What should an apology email prioritize in hospitality culture?**
 
-- A. Excuses for what happened
-- B. Acknowledgment and corrective action
-- C. Promotional offers
-- D. Future business relationships
+- A. Future business relationships
+- B. Excuses for what happened
+- C. Acknowledgment and corrective action
+- D. Promotional offers
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Japanese apology culture values acknowledgment of the issue and commitment to corrective action. Excessive excuses or defensive wording damages trust.
+**Explanation:** Apology culture values acknowledgment of the issue and commitment to corrective action. Excessive excuses or defensive wording damages trust.
+

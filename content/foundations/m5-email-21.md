@@ -28,7 +28,7 @@ This body shows care for the guest experience, expresses appreciation, and gentl
 The phrase <span class="keigo-jp"><code>幸いでございます</code></span> adds softness and elegance.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span>
 <br><br>
@@ -37,7 +37,7 @@ This creates a warm emotional ending while encouraging repeat visits naturally.
 
 ## Professional Tip
 
-<div class="keigo-card red">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Avoid</span>
 Thank-you emails should never sound overly promotional. The focus should remain on appreciation, guest experience, and hospitality.
 </div>
@@ -56,3 +56,4 @@ Thank-you emails should never sound overly promotional. The focus should remain 
 **Correct Answer:** B
 
 **Explanation:** Thank-you emails should focus on appreciation and the guest's experience, not sound overly promotional. The emotional tone should be warm, appreciative, and sincere.
+

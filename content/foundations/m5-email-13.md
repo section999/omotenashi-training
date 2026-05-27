@@ -24,7 +24,7 @@ Maintain stable politeness throughout the entire message.
 
 This can make the email feel inconsistent, immature, or unprofessional.
 
-Japanese hospitality writing usually maintains:
+Hospitality writing usually maintains:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Hallmarks of Professional Writing</span>
@@ -37,7 +37,7 @@ Even warm hospitality should still sound professional.
 
 Instead of overly casual friendliness, hotels prefer: elegant warmth, respectful support, and calm politeness.
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Key Insight</span>
 Consistency creates trust and professionalism.
 </div>
@@ -56,3 +56,4 @@ Consistency creates trust and professionalism.
 **Correct Answer:** B
 
 **Explanation:** Hotels should use elegant warmth, respectful support, and calm politeness to maintain professionalism while still being hospitable.
+

@@ -26,7 +26,7 @@ This opening works naturally because the guest has already made a reservation.
 This section provides practical information while maintaining hospitality tone. The wording should remain easy to understand, polite, and guest-friendly.
 </div>
 
-<div class="keigo-card green">
+<div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span>
 <br><br>
@@ -46,11 +46,12 @@ Pre-arrival emails should reduce guest anxiety by making information clear, orga
 
 **What is the main purpose of a pre-arrival guidance email?**
 
-- A. To ask for payment
-- B. To help guests prepare and reduce anxiety before check-in
-- C. To advertise hotel services
-- D. To collect guest feedback
+- A. To help guests prepare and reduce anxiety before check-in
+- B. To advertise hotel services
+- C. To collect guest feedback
+- D. To ask for payment
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:** Pre-arrival emails provide practical information to help guests prepare for their stay, reducing anxiety by making information clear, organized, and reassuring.
+

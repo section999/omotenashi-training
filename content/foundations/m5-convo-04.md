@@ -1,7 +1,7 @@
 ---
 id: m5-convo-04
 section: 4
-title: Common Hospitality Japanese Mistakes
+title: Common Hospitality Mistakes
 ---
 
 ## Mistake 1: お名前は？
@@ -80,11 +80,12 @@ The key principle is that information should be delivered in a way that feels gu
 
 **Why should hotel staff avoid saying 部屋は702です to a guest?**
 
-- A. The room number is incorrect
-- B. It sounds functional rather than hospitable, and hotels avoid plain です forms in formal interactions
-- C. Guests cannot understand です
-- D. It is grammatically incorrect
+- A. Guests cannot understand です
+- B. It is grammatically incorrect
+- C. The room number is incorrect
+- D. It sounds functional rather than hospitable, and hotels avoid plain です forms in formal interactions
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:** 部屋は702です sounds functional and lacks hospitality tone. Hotels use でございます instead of です to soften delivery, raise formality, and maintain an elegant service tone during guest interactions.
+

@@ -14,7 +14,7 @@ Sonkeigo is used when describing the guest's actions, condition, or status.
 <span class="keigo-badge info">Examples</span> <span class="keigo-jp"><code>いらっしゃいます</code></span>, <span class="keigo-jp"><code>召し上がります</code></span>, <span class="keigo-jp"><code>ご覧になります</code></span>, <span class="keigo-jp"><code>お休みになります</code></span><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>お客様はもうお休みになりました。</code></span>
 
-The staff raises the guest linguistically. This is extremely important in Japanese hospitality culture.
+The staff raises the guest linguistically. This is extremely important in hospitality culture.
 </div>
 
 <div class="keigo-card blue">
@@ -68,11 +68,12 @@ Within three sentences, guest elevation, professional tone, and staff humility a
 
 **Which keigo type is used to describe a guest's action such as お休みになりました？**
 
-- A. 謙譲語 (Kenjōgo)
-- B. 尊敬語 (Sonkeigo)
-- C. 丁寧語 (Teineigo)
-- D. casual language
+- A. casual language
+- B. 謙譲語 (Kenjōgo)
+- C. 尊敬語 (Sonkeigo)
+- D. 丁寧語 (Teineigo)
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:** 尊敬語 (Sonkeigo) elevates the guest by using respectful forms for the guest's actions, condition, or status.
+
