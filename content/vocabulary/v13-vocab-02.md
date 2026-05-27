@@ -3,7 +3,7 @@ id: v13-vocab
 section: 2
 title: スタッフ (sutaffu)
 ---
-スタッフ is the loanword from English "staff" and is a frequently heard personnel term in Japanese hospitality environments. It covers the people who collectively keep an operation running, whether that's a hotel front desk, a restaurant floor, or a ryokan's service team. Compared to 従業員, which has an institutional, legalistic feel, スタッフ sounds approachable and team-oriented. That's why it's everywhere in customer-facing settings: signage such as「スタッフにお声がけください」("Please speak to a staff member") is standard across Japan.
+スタッフ is the loanword from English "staff" and is a frequently heard personnel term in Japanese hospitality environments. It covers the people who collectively keep an operation running, whether that's a hotel front desk, a restaurant floor, or a ryokan's service team. Compared to 従業員, which has an institutional, legalistic feel, スタッフ sounds approachable and team-oriented. That's why it's everywhere in customer-facing settings: signage such as「スタッフにお声がけください」(Please speak to a staff member) is standard across Japan.
 
 The word is flexible. Managers use it when talking about their team in a collegial, day-to-day way, and it appears on uniforms, event programmes, and guest information pamphlets. When coordinating across departments, using スタッフ as the shared label, front-desk スタッフ working alongside housekeeping スタッフ, reinforces a sense of unified purpose rather than departmental division
 | Japanese | Meaning |
@@ -14,7 +14,7 @@ The word is flexible. Managers use it when talking about their team in a collegi
 ## Related Expressions
 
 - **従業員 (juugyouin)**: a more formal, legally precise term for employee; used in HR documents, contracts, and official communications rather than casual team discussion.
-- **チーム (chiimu)**: puts the emphasis on the collaborative unit rather than individual members; often used in briefings to build team spirit, as in「チームで取り組もう」("let's tackle it as a team").
+- **チーム (chiimu)**: puts the emphasis on the collaborative unit rather than individual members; often used in briefings to build team spirit, as in「チームで取り組もう」(let's tackle it as a team).
 
 ## Common Mistakes
 

@@ -30,7 +30,7 @@ Entering while ignoring the warning carries the possibility of a serious acciden
 
 ## Common Mistakes
 
-The most common mistake is conflating 警告 with 注意 and using them interchangeably: each occupies a distinct position in Japan's standardised hazard hierarchy, and using the wrong level can mislead guests about the severity of a risk. Another common mistake is to confuse 警告 (keikoku) with 警報 (keihou), which refers to alarm signals or broadcast alerts (such as typhoon warnings), rather than the physical safety signs and verbal cautions that 警告 describes. When issuing a verbal 警告 to a guest, it should be framed as concern for their safety rather than a reprimand: phrases like お客様の安全のためにお伝えしております ("I am telling you this for their safety") maintain the hospitality register while conveying urgency.
+The most common mistake is conflating 警告 with 注意 and using them interchangeably: each occupies a distinct position in Japan's standardised hazard hierarchy, and using the wrong level can mislead guests about the severity of a risk. Another common mistake is to confuse 警告 (keikoku) with 警報 (keihou), which refers to alarm signals or broadcast alerts (such as typhoon warnings), rather than the physical safety signs and verbal cautions that 警告 describes. When issuing a verbal 警告 to a guest, it should be framed as concern for their safety rather than a reprimand: phrases like お客様の安全のためにお伝えしております (I am telling you this for their safety) maintain the hospitality register while conveying urgency.
 
 ---
 

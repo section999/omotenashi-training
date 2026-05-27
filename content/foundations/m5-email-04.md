@@ -12,18 +12,16 @@ A first-time guest has no prior relationship with the hotel. The opening must cl
 <br>
 <em>kono tabi wa, goyoyaku itadaki, makoto ni arigatou gozaimasu</em>
 <br>
-"Thank you very much for making a reservation on this occasion."
+Thank you very much for making a reservation on this occasion.
 </div>
-
-Breaking this down:
 
 | Part | Japanese | Meaning |
 |------|----------|---------|
-| Opening phrase | この度は | "On this occasion": marks this as a new relationship |
-| Action | ご予約いただき | "for making a reservation": humble form showing respect |
-| Gratitude | 誠にありがとうございます | "sincerely thank you": polite and warm |
+| Opening phrase | この度は | On this occasion:<br>marks this as a new relationship |
+| Action | ご予約いただき | For making a reservation:<br>humble form showing respect |
+| Gratitude | 誠にありがとうございます | Sincerely thank you:<br>polite and warm |
 
-The key phrase is **この度は** ("on this occasion"). It signals that the hotel recognizes this is a first interaction. Using it correctly tells the guest: "We see you as a new guest and welcome you accordingly."
+The key phrase is **この度は** (on this occasion). It signals that the hotel recognizes this is a first interaction. Using it correctly tells the guest: "We see you as a new guest and welcome you accordingly."
 
 Using a repeat guest expression like **いつもお世話になっております** for a first-timer would sound automated and careless.
 

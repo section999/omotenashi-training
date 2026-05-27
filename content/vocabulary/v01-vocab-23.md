@@ -11,7 +11,7 @@ In the register hierarchy of acknowledgement phrases:
 - **かしこまりました**, the most formal; used in premium luxury hospitality
 - **わかりました**, neutral; appropriate between colleagues but too casual for guest interactions
 
-*Shōchi itashimashita* fits telephone and written contexts well. *Kashikomarimashita* can occasionally feel overly theatrical in those settings. When a guest calls to request a late checkout, a dietary change, or an additional amenity, *shōchi itashimashita, tadaima taiō itashimasu* ("certainly, I will take care of that right now") is precise and professional
+*Shōchi itashimashita* fits telephone and written contexts well. *Kashikomarimashita* can occasionally feel overly theatrical in those settings. When a guest calls to request a late checkout, a dietary change, or an additional amenity, *shōchi itashimashita, tadaima taiō itashimasu* (certainly, I will take care of that right now) is precise and professional
 
 | Japanese | Meaning |
 |---|---|

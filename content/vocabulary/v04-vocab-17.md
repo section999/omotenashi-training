@@ -19,7 +19,7 @@ In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet sta
 
 ## Common Mistakes
 
-A common error is reaching for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります ("there is a stain") without following up sounds passive and unhelpful. Staff should always add 清掃いたします or 対応いたします. When reporting to a guest, staff should avoid going into excessive detail about what the stain looks like, keeping it brief and moving straight to the solution.
+A common error is reaching for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります (there is a stain) without following up sounds passive and unhelpful. Staff should always add 清掃いたします or 対応いたします. When reporting to a guest, staff should avoid going into excessive detail about what the stain looks like, keeping it brief and moving straight to the solution.
 
 ---
 

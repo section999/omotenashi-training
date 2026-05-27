@@ -5,7 +5,7 @@ title: モップ (moppu)
 ---
 モップ is a wet-cleaning mop used to wash hard floor surfaces: marble lobbies, corridor tiles, bathroom floors, and similar areas in hotels and ryokan. The word is a direct English loanword, so it is easy to recognize. However, good モップ technique distinguishes professional housekeeping from casual wiping. That means wringing the mop to the right dampness, choosing the correct cleaning solution, and working in a systematic pattern. In high-end hospitality, guests notice floors, and a streaky or damp-smelling corridor tells them something about the attention to detail across the whole property.
 
-In daily operations, staff refer to モップ when discussing floor-cleaning schedules, selecting tools from the supply room, or dealing with spills in corridors or guest rooms. A useful phrase is モップで床を清掃いたします ("we will clean the floor with a mop"), which uses the humble form appropriate for informing guests or supervisors. Note: staff should also know when to use モップ versus a 雑巾 (cloth) or 掃除機 (vacuum). Each tool fits a specific type of surface and soiling, and reaching for the wrong one costs time
+In daily operations, staff refer to モップ when discussing floor-cleaning schedules, selecting tools from the supply room, or dealing with spills in corridors or guest rooms. A useful phrase is モップで床を清掃いたします (we will clean the floor with a mop), which uses the humble form appropriate for informing guests or supervisors. Note: staff should also know when to use モップ versus a 雑巾 (cloth) or 掃除機 (vacuum). Each tool fits a specific type of surface and soiling, and reaching for the wrong one costs time
 
 ただいまモップで廊下を清掃いたしております。
 <small>*Tadaima moppu de rouka wo seisou itashite orimasu.*</small>

@@ -41,7 +41,7 @@ Certain responses undermine the property's credibility, even when well-intention
 
 - A. Thank the guest for the feedback and politely explain that the bathroom was verified as clean that morning, and that the front desk staff member has an excellent service recordto assure future readers the issue was isolated
 - B. Thank the guest, apologise sincerely for both issues, and state that retraining has been conducted with both housekeeping and front desk teams to prevent recurrence
-- C. Thank the guest, acknowledge the bathroom concern specifically ("We take cleanliness seriously and have reviewed this with our housekeeping team"), address the front desk concern ("We will reinforce warm and attentive service standards with our team"), and avoid disputing or fully accepting either claim
+- C. Thank the guest, acknowledge the bathroom concern specifically (We take cleanliness seriously and have reviewed this with our housekeeping team), address the front desk concern (We will reinforce warm and attentive service standards with our team), and avoid disputing or fully accepting either claim
 - D. Respond privately to the guest requesting more details, and only post a public response after the facts have been fully clarified
 
 **Correct Answer:** C

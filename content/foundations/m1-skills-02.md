@@ -34,7 +34,7 @@ This does not require performance. It requires the genuine understanding that th
 
 ## Returning Items
 
-When returning any item, a coat, a bag from storage, an umbrella, do so with a brief verbal confirmation ("Your coat, sir/madam") and both hands extended. The item is returned as if being presented for the first time: with full attention, never as an afterthought tossed back while already moving on.
+When returning any item, a coat, a bag from storage, an umbrella, do so with a brief verbal confirmation (Your coat, sir/madam) and both hands extended. The item is returned as if being presented for the first time: with full attention, never as an afterthought tossed back while already moving on.
 
 ## Privacy of Personal Items
 

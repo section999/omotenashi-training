@@ -8,7 +8,7 @@ title: お疲れ様です (otsukaresama desu)
 
 This is a notably frequently used expression in Japanese workplace culture, and staff will hear it dozens of times on any given shift. Staff say it when passing a colleague in the corridor, when someone hands off a task, when a coworker arrives for their shift, and when everyone is finally heading home. The emotional function is solidarity: *I see your work. Your effort is not invisible.* Getting comfortable with this phrase is an effective way to feel part of a Japanese team.
 
-This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* ("thank you so much for coming despite your long day")
+This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* (thank you so much for coming despite your long day)
 
 | Japanese | Meaning |
 |---|---|

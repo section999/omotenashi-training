@@ -21,7 +21,7 @@ When using a map to guide a guest, an effective approach is to orient it in the 
 
 ## Common Mistakes
 
-Handing over a map without orientation or annotation misses the relational quality that makes the interaction memorable. Vague language such as 「この辺です」 ("it's around here") without marking the exact spot causes confusion and erodes trust. Assuming all guests can read Japanese map labels is a common error. Confirming whether the guest prefers a bilingual map is recommended, and reinforcing key points verbally regardless of which version is provided helps ensure clarity.
+Handing over a map without orientation or annotation misses the relational quality that makes the interaction memorable. Vague language such as 「この辺です」 (it's around here) without marking the exact spot causes confusion and erodes trust. Assuming all guests can read Japanese map labels is a common error. Confirming whether the guest prefers a bilingual map is recommended, and reinforcing key points verbally regardless of which version is provided helps ensure clarity.
 
 ---
 

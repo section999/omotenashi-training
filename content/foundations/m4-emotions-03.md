@@ -30,10 +30,10 @@ In Japanese culture, saying "no" directly is considered impolite. A guest may re
 
 | What they say | What they may mean |
 |---------------|-------------------|
-| 「少し遠いですね」("It's a little far") | Please suggest something closer |
-| 「大丈夫です」("It's fine") | May not actually be fine |
-| 「考えておきます」("I'll think about it") | Likely no |
-| 「ちょっと...」("It's a bit...") | There is a problem |
+| 「少し遠いですね」(It's a little far) | Please suggest something closer |
+| 「大丈夫です」(It's fine) | May not actually be fine |
+| 「考えておきます」(I'll think about it) | Likely no |
+| 「ちょっと...」(It's a bit...) | There is a problem |
 | Long pause after a question | Discomfort or disagreement |
 
 ## How to Respond

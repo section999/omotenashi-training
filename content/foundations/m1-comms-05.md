@@ -25,7 +25,7 @@ When you have identified that the moment is right:
 
 The tone of your approach should match the context. At a formal dinner, the approach is quiet and unhurried, the voice low and the manner reserved. At a casual poolside setting, a warmer and more relaxed manner is appropriate.
 
-In all cases, begin with acknowledgement before function. Acknowledge the guest as a person first ("Good evening, welcome back") before moving to operational matters ("Your reservation is confirmed"). The order communicates what you prioritise.
+In all cases, begin with acknowledgement before function. Acknowledge the guest as a person first (Good evening, welcome back) before moving to operational matters (Your reservation is confirmed). The order communicates what you prioritise.
 
 ## The Close
 

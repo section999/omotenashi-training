@@ -20,7 +20,7 @@ In Japanese hospitality, the manner of the apology matters as much as the words.
 
 - **すみません (sumimasen)**: A lighter, more casual apology/excuse me; not appropriate for serious situations
 - **失礼いたします (shitsurei itashimasu)**: "Excuse me" for minor social intrusions, not for genuine errors
-- **誠に申し訳ございません (makoto ni moushiwake gozaimasen)**: Intensified form with *makoto ni* ("truly"): used when maximum sincerity is required
+- **誠に申し訳ございません (makoto ni moushiwake gozaimasen)**: Intensified form with *makoto ni* (truly): used when maximum sincerity is required
 
 ## Common Mistakes
 

@@ -19,7 +19,7 @@ Each step has a function:
 <span class="keigo-badge info">Identification</span> clarifies responsibility (who is speaking)<br>
 <span class="keigo-badge info">Recognition</span> reduces guest anxiety by showing understanding<br>
 <span class="keigo-badge info">Confirmation</span> prevents operational mistakes (names, dates, numbers)<br>
-<span class="keigo-badge info">Action</span> shows transparency ("we are doing something now")<br>
+<span class="keigo-badge info">Action</span> shows transparency (we are doing something now)<br>
 <span class="keigo-badge info">Result</span> gives closure and certainty<br>
 <span class="keigo-badge info">Closing</span> ends interaction cleanly and professionally
 </div>

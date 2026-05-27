@@ -46,4 +46,4 @@ This error spread through chain restaurant training in the 1990s and has never f
 
 **Correct Answer:** "おっしゃられました" contains a double honorific (nijū keigo): おっしゃる is already the sonkeigo form of 言う, so adding られる is redundant. Also, "お部屋になります" implies the room is becoming somethingit should be "お部屋でございます"
 
-**Explanation:** Two common keigo errors appear in this sentence. First, nijū keigo (double honorific): おっしゃる is already sonkeigo, so おっしゃられました stacks an unnecessary extra honorific; the correct form is おっしゃいました. Second, になります implies transformation ("will become"), which is illogical for a room that already exists; the correct form is でございます. Identifying both errors shows a solid understanding of common keigo pitfalls.
+**Explanation:** Two common keigo errors appear in this sentence. First, nijū keigo (double honorific): おっしゃる is already sonkeigo, so おっしゃられました stacks an unnecessary extra honorific; the correct form is おっしゃいました. Second, になります implies transformation (will become), which is illogical for a room that already exists; the correct form is でございます. Identifying both errors shows a solid understanding of common keigo pitfalls.
