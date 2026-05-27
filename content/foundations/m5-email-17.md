@@ -1,6 +1,6 @@
 ---
 id: m5-email-17
-section: 17
+section: 15
 title: Mistake Ending Emails Abruptly
 ---
 
@@ -24,12 +24,7 @@ End of email.
 </div>
 </div>
 
-Hospitality communication usually includes appreciation, support, or welcoming language at the end.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Why Closings Matter</span>
-Closings help: reduce emotional distance, improve readability, and create hospitality warmth. Even short emails should include an appropriate closing phrase.
-</div>
+Hospitality communication usually includes appreciation, support, or welcoming language at the end. Closings help reduce emotional distance, improve readability, and create hospitality warmth. Even short emails should include an appropriate closing phrase.
 
 ---
 

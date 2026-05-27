@@ -31,7 +31,7 @@ The setup task for the banquet venue has been completed as scheduled.
 
 ## Common Mistakes
 
-A common mistake is using 作業 when speaking directly to guests. Saying 作業中です (sagyou-chuu desu: "we are in the middle of a task") to a guest can sound mechanical and impersonal, as if guests are an interruption to their workflow. A softer alternative like 準備しております (junbi shite orimasu: "we are preparing") is more guest-oriented. The 業務 versus 作業 distinction is also important: 業務 is their overall job function, and 作業 is one concrete piece of work within it. Mixing them up in writing or formal speech appears imprecise to native readers.
+A common mistake is using 作業 when speaking directly to guests. Saying 作業中です (sagyou-chuu desu: "we are in the middle of a task") to a guest can sound mechanical and impersonal, as if guests are an interruption to their workflow. A softer alternative like 準備しております (junbi shite orimasu: "we are preparing") is more guest-oriented. The 業務 versus 作業 distinction is also important: 業務 is their overall job function, and 作業 is one concrete piece of work within it. Mixing them up in writing or formal speech appears imprecise to native guests.
 
 ---
 

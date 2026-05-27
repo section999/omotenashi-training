@@ -4,36 +4,20 @@ section: 10
 title: Relationship-Building Closings
 ---
 
-For repeat guests and loyal customers, hotels often use closings that strengthen the ongoing relationship.
+Repeat guests and loyal customers should receive closings that acknowledge the ongoing relationship.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Standard Relationship Closing</span>
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span>
+<br>
+<em>kongo tomo yoroshiku onegai moushiagemasu</em>
+<br>
+We look forward to your continued patronage.
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">VIP Relationship Closing</span>
-<span class="keigo-jp"><code>今後とも変わらぬご愛顧のほどよろしくお願い申し上げます。</code></span>
-</div>
+This closing communicates appreciation, respect, and a desire for continued patronage. The key phrase **今後とも** (kongo tomo) means "from now on as well" and assumes a continuing relationship.
 
-These expressions communicate: appreciation, respect, and hope for continued patronage.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Key Phrase: 今後とも</span>
-<span class="keigo-jp"><code>今後とも</code></span> means "from now on as well" or "going forward." This wording naturally fits repeat guests because it assumes a continuing relationship.
-</div>
-
-The longer version <span class="keigo-jp"><code>変わらぬご愛顧</code></span> means "your continued patronage and support." This is often used for VIP customers, luxury hotel guests, members, and long-term clients.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Purpose</span>
-These closings help create loyalty and long-term trust between the hotel and the guest.
-</div>
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Watch Out</span>
-They should generally not be used for first-time guests because they assume an already established relationship.
-</div>
+Use this closing to build loyalty and trust with returning guests. Avoid it for first-time guests, as it implies a relationship that does not yet exist.
 
 ---
 

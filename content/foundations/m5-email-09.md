@@ -9,25 +9,17 @@ Some closings are designed specifically to create warmth and anticipation before
 <div class="keigo-card blue">
 <span class="keigo-card-title">Warm Hospitality Closing</span>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span>
-<br><br>
-Meaning: "We sincerely look forward to your arrival."
+<br>
+<em>go-touchaku wo kokoro yori o-machi moushiagete orimasu</em>
+<br>
+We sincerely look forward to your arrival.
 </div>
 
-This expression is especially common in: luxury hotels, ryokan, premium hospitality brands, and reservation confirmation emails.
+This expression is especially common in luxury hotels, ryokan, premium hospitality brands, and reservation confirmation emails.
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Key Phrase: 心より</span>
-<span class="keigo-jp"><code>心より</code></span> means "from the bottom of our hearts" or "sincerely." This creates emotional warmth and communicates genuine hospitality.
-</div>
+The key word is **心より**, meaning "from the bottom of our hearts" or "sincerely." It adds emotional warmth and genuine hospitality. The phrase **お待ち申し上げております** is a humble, respectful form of "we are waiting for you."
 
-The phrase <span class="keigo-jp"><code>お待ち申し上げております</code></span> is a humble and respectful form of "we are waiting for you."
-
-Together, the expression sounds elegant, welcoming, and highly professional.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Why This Matters</span>
-This type of closing helps guests feel emotionally welcomed before arriving at the hotel. In hospitality culture, creating anticipation and comfort before arrival is considered part of good service.
-</div>
+Together, the expression sounds elegant, welcoming, and highly professional. This type of closing helps guests feel emotionally welcomed before arrival. In hospitality, creating anticipation and comfort before the stay is part of good service.
 
 ---
 

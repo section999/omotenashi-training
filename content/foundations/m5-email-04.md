@@ -21,7 +21,7 @@ Thank you very much for making a reservation on this occasion.
 | Action | ご予約いただき | For making a reservation:<br>humble form showing respect |
 | Gratitude | 誠にありがとうございます | Sincerely thank you:<br>polite and warm |
 
-The key phrase is **この度は** (on this occasion). It signals that the hotel recognizes this is a first interaction. Using it correctly tells the guest: "We see you as a new guest and welcome you accordingly."
+The key phrase is **この度は** (on this occasion). It signals that the hotel recognizes this is a first interaction.
 
 Using a repeat guest expression like **いつもお世話になっております** for a first-timer would sound automated and careless.
 

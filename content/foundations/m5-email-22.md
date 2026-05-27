@@ -1,6 +1,6 @@
 ---
 id: m5-email-22
-section: 22
+section: 20
 title: Apology Email Template
 ---
 
@@ -15,32 +15,29 @@ The tone should sound sincere, calm, and responsible.
 <div class="keigo-card blue">
 <span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>この度は、ご滞在中にご不便をおかけし、誠に申し訳ございませんでした。</code></span>
-<br><br>
-This directly acknowledges inconvenience caused to the guest.
+<br>
+<em>kono tabi wa, go-taichuu ni go-fuben wo o-kake shi, makoto ni moushiwake gozaimasen deshita</em>
+<br>
+We sincerely apologize for the inconvenience caused during your stay.
 </div>
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Body</span>
 <span class="keigo-jp"><code>客室設備の不具合により、ご迷惑をおかけいたしましたことを深くお詫び申し上げます。今後同様のことが発生しないよう、設備管理体制を見直してまいります。</code></span>
 <br><br>
-This section explains the issue, accepts responsibility, and shows commitment to improvement.
-<br><br>
-Apology culture values acknowledgment and corrective action.
+This explains the issue, accepts responsibility, and shows commitment to improvement. Apology culture values both acknowledgment and corrective action.
 </div>
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>何かお気づきの点などございましたら、お気軽にお申し付けくださいませ。</code></span>
-<br><br>
-This closing maintains support and emotional care.
+<br>
+<em>nanika o-kizuki no ten nado gozaimashitara, o-kigaru ni o-moushi tsuke kudasaimase</em>
+<br>
+If you notice anything, please feel free to let us know.
 </div>
 
-## Professional Tip
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Avoid</span>
-Excessive excuses, defensive wording, or casual tone. A professional apology email should rebuild trust calmly and respectfully.
-</div>
+Avoid excessive excuses, defensive wording, or casual tone. A professional apology email should rebuild trust calmly and respectfully.
 
 ---
 

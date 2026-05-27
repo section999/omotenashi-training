@@ -4,32 +4,22 @@ section: 8
 title: Standard Professional Closings
 ---
 
-In hotel emails, the closing is extremely important because it creates the final emotional impression for the guest.
-
-Even when the body of the email is well written, an unnatural or abrupt ending can make the message feel cold, incomplete, or impersonal.
-
-For this reason, hotels often use safe and versatile closings that work in many situations.
+The closing creates the guest's final impression. Even a well-written body feels cold or incomplete if the ending is abrupt. Safe, versatile closings work across most situations.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Standard Professional Closing</span>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ。</code></span>
-<br><br>
-Meaning: "Please feel free to contact us."
+<br>
+<em>o-kigaru ni go-renraku kudasaimase</em>
+<br>
+Please feel free to contact us.
 </div>
 
-This expression is popular because it sounds polite, sounds warm, and feels supportive. Unlike direct business language, this phrase creates a softer hospitality feeling.
+This closing works well because it is polite, warm, and supportive. Unlike direct business language, it creates a softer hospitality tone. It fits reservation emails, information notices, inquiry responses, apology emails, and pre-arrival guidance.
 
-It can be used in: reservation emails, information notices, inquiry responses, apology emails, and pre-arrival guidance.
+Note that <span class="keigo-jp"><code>くださいませ</code></span> is used instead of <span class="keigo-jp"><code>ください</code></span> because it sounds softer and more elegant, giving the closing a refined hotel feel.
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Why くださいませ?</span>
-<span class="keigo-jp"><code>くださいませ</code></span> is softer and more elegant than simply saying <span class="keigo-jp"><code>ください</code></span>, which helps create a refined hotel tone.
-</div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Emotional Purpose</span>
-"We are available to support you." This gives guests reassurance and comfort.
-</div>
 
 ---
 
@@ -37,10 +27,10 @@ It can be used in: reservation emails, information notices, inquiry responses, a
 
 **Why is 「お気軽にご連絡くださいませ」 preferred over 「ご連絡ください」 in hotel emails?**
 
-- A. 「くださいませ」 is softer and more elegant
-- B. It is easier to write
-- C. It sounds more casual
-- D. It is shorter
+- A. It is softer and more elegant
+- B. It creates a more casual impression
+- C. It is grammatically required in keigo
+- D. It shortens the sentence length
 
 **Correct Answer:** A
 

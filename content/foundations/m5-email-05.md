@@ -4,18 +4,18 @@ section: 5
 title: Repeat Guest Greetings
 ---
 
-Repeat guests should receive language that recognizes the ongoing relationship.
-
-A standard expression is:
+Repeat guests should receive language that recognizes the ongoing relationship:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Standard Repeat Guest Greeting</span>
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span>
+<br>
+<em>itsumo osewa ni natte orimasu</em>
+<br>
+Thank you for your continued support.
 </div>
 
-This phrase is extremely common in business communication and expresses appreciation for continued support.
-
-In hotel settings, it communicates:
+This phrase expresses appreciation for continued support and is extremely common in business communication. It communicates:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">What It Communicates</span>
@@ -28,10 +28,7 @@ This expression works well for: repeat guests, membership customers, VIP guests,
 
 The emotional message is: "We remember and appreciate you." This can strengthen guest loyalty and long-term relationships.
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Caution</span>
-Hotel staff must be careful not to overuse this phrase. If the guest has never stayed before, the expression sounds unnatural because <span class="keigo-jp"><code>いつも</code></span> implies repeated interaction. Attention to this detail is considered part of professional hospitality service.
-</div>
+However, this phrase should not be used for first-time guests. <span class="keigo-jp"><code>いつも</code></span> (always) assumes repeated visits, so using it for a new reservation sounds automated and careless. Checking guest history before choosing a greeting is part of professional hospitality.
 
 ---
 

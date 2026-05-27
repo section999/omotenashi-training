@@ -4,32 +4,22 @@ section: 11
 title: Closings for Apology Emails
 ---
 
-Apology emails require especially careful endings.
+Apology closings need special care. The tone should stay soft, supportive, and sincere.
 
-The closing should remain soft, support the guest, and maintain sincerity.
+Avoid closings that sound overly cheerful, promotional, or sales-oriented. For example, <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span> (<em>kongo tomo yoroshiku onegai moushiagemasu</em>, "We look forward to your continued patronage") can sound inappropriate after a serious apology because it focuses too much on future business.
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Avoid These Closings</span>
-Avoid closings that sound: overly cheerful, promotional, or sales-oriented.
-</div>
-
-For example, <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span> may feel inappropriate if used immediately after a serious apology because it can sound too focused on future business.
+Instead, use a closing that emphasizes support:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Recommended Apology Closings</span>
+<span class="keigo-card-title">Recommended Apology Closing</span>
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span>
-<br><br>
-<span class="keigo-jp"><code>何かございましたら、お申し付けくださいませ。</code></span>
+<br>
+<em>go-fumeiten nado gozaimashitara, o-kigaru ni go-renraku kudasaimase</em>
+<br>
+If you have any questions, please feel free to contact us.
 </div>
 
-These expressions communicate: support, openness, and emotional care.
-
-The guest should feel: "The hotel is still listening and willing to help."
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Closing Tone</span>
-A good apology email should end gently rather than abruptly. The final emotional tone should feel calm, considerate, and professional.
-</div>
+This closing communicates support, openness, and care. The guest should feel the hotel is still listening and willing to help. An apology email should end gently, with a calm, considerate, and professional tone.
 
 ---
 
@@ -40,9 +30,9 @@ A good apology email should end gently rather than abruptly. The final emotional
 - A. また来てくださいね
 - B. ありがとうございました
 - C. 今後ともよろしくお願い申し上げます
-- D. 何かございましたら、お申し付けくださいませ
+- D. ご不明点などございましたら、お気軽にご連絡くださいませ
 
 **Correct Answer:** D
 
-**Explanation:** Support-oriented closings like お申し付けくださいませ communicate openness and care. A can sound too focused on future business after an apology, and C/D are too casual.
+**Explanation:** ご不明点などございましたら、お気軽にご連絡くださいませ communicates support and openness without being overly cheerful or future-business focused. A is too casual, B is too abrupt, and C can sound inappropriate after a serious apology.
 

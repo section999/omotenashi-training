@@ -4,9 +4,7 @@ section: 12
 title: Matching Openings and Closings
 ---
 
-In hotel emails, the opening and closing should feel like a natural pair.
-
-If the tone changes suddenly, the email can sound awkward or poorly written.
+The opening and closing of a hotel email must match in tone. A mismatch breaks the reader's trust, making the message feel careless or immature.
 
 <div class="keigo-pair">
 <div class="good-col">
@@ -31,14 +29,9 @@ If the tone changes suddenly, the email can sound awkward or poorly written.
 </div>
 </div>
 
-Readers are very sensitive to: tone balance, politeness consistency, and emotional flow.
+Guests are especially sensitive to tone balance, politeness consistency, and emotional flow. A single mismatched closing can undo the professionalism built throughout the email.
 
-Hotel emails should feel smooth, stable, and professional from beginning to end.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Matching Guideline</span>
-Formal opening leads to formal closing. Warm opening leads to warm closing. Apology opening leads to careful and supportive closing. Tone consistency is an important part of professional hospitality writing.
-</div>
+The rule is simple: formal opening leads to formal closing, warm opening leads to warm closing, and an apology opening leads to a careful, supportive closing. Tone consistency is not a minor detail. It is a core skill in professional hospitality writing.
 
 ---
 
@@ -53,5 +46,5 @@ Formal opening leads to formal closing. Warm opening leads to warm closing. Apol
 
 **Correct Answer:** A
 
-**Explanation:** Readers are sensitive to tone balance. A sudden shift from formal to casual creates inconsistency and sounds poorly written.
+**Explanation:** Guests are sensitive to tone balance. A sudden shift from formal to casual creates inconsistency and sounds poorly written.
 

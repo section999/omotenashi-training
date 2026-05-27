@@ -28,7 +28,7 @@ The opening and closing lines carry the strongest emotional weight. Staff must c
 
 ## Quiz
 
-**What is the primary purpose of a Japanese hotel email beyond delivering information?**
+**What is the primary purpose of a hotel email beyond delivering information?**
 
 - A. To save time
 - B. To create hospitality through language

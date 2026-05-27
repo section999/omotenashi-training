@@ -4,13 +4,7 @@ section: 14
 title: Warmth vs Professionalism
 ---
 
-A strong hotel email balances emotional warmth and professional distance.
-
-If the email is too cold, guests may feel unimportant, unwelcome, or uncomfortable.
-
-If the email is too friendly, it may feel unprofessional, overly familiar, or inappropriate.
-
-Hospitality language aims for: respectful friendliness, elegant politeness, and emotional comfort.
+A strong hotel email balances warmth and professionalism. Too cold, and guests feel unimportant. Too friendly, and the message feels unprofessional. Hospitality language aims for respectful friendliness, elegant politeness, and emotional comfort.
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -33,12 +27,7 @@ Hospitality language aims for: respectful friendliness, elegant politeness, and 
 </div>
 </div>
 
-Good hotel communication makes guests feel cared for without becoming overly personal.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Core Skill</span>
-This balance is one of the most important skills in hospitality writing.
-</div>
+Good hotel communication makes guests feel cared for without becoming overly personal. This balance is one of the most important skills in hospitality writing.
 
 ---
 

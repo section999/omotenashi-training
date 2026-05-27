@@ -4,9 +4,7 @@ section: 13
 title: Avoiding Awkward Tone Changes
 ---
 
-One of the most common problems in hotel emails is sudden tone change.
-
-This happens when one sentence sounds extremely formal, but the next sentence becomes casual or unnatural.
+A common mistake is mixing polite and casual language within the same message. Even if the opening and closing match, a single casual phrase in the middle can break the tone.
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -14,46 +12,33 @@ This happens when one sentence sounds extremely formal, but the next sentence be
 <span class="keigo-jp"><code>誠にありがとうございます。</code></span>
 <span class="keigo-jp"><code>また来てくださいね！</code></span>
 <br><br>
-<span class="keigo-badge bad">Inconsistent</span> The second sentence suddenly feels too friendly and informal.
+<span class="keigo-badge bad">Inconsistent</span> The first sentence is formal. The second shifts abruptly to a casual, friendly tone.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Better Approach</span>
-Maintain stable politeness throughout the entire message.
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span>
+<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span>
+<br><br>
+<span class="keigo-badge good">Consistent</span> Both sentences maintain the same formal and warm register.
 </div>
 </div>
 
-This can make the email feel inconsistent, immature, or unprofessional.
+The difference is subtle but important. **また来てくださいね** sounds like something a shopkeeper would say to a regular. **またのお越しを心よりお待ち申し上げております** matches the politeness of the first sentence and sounds appropriate for hotel correspondence.
 
-Hospitality writing usually maintains:
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Hallmarks of Professional Writing</span>
-<span class="keigo-badge info">Stability</span> stable politeness<br>
-<span class="keigo-badge info">Control</span> emotional control<br>
-<span class="keigo-badge info">Refinement</span> refined wording
-</div>
-
-Even warm hospitality should still sound professional.
-
-Instead of overly casual friendliness, hotels prefer: elegant warmth, respectful support, and calm politeness.
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Key Insight</span>
-Consistency creates trust and professionalism.
-</div>
+The boundary between professional warmth and casual friendliness is clear: if a phrase would sound natural between friends, it probably does not belong in a hotel email. Every sentence should maintain the same register from start to finish.
 
 ---
 
 ## Quiz
 
-**What is the recommended alternative to overly casual friendliness in hotel emails?**
+**Why is 「また来てくださいね」 inappropriate after 「誠にありがとうございます」 in a hotel email?**
 
-- A. Cold and distant language
-- B. Elegant warmth and calm politeness
-- C. Very casual slang
-- D. Extremely formal legal language
+- A. It is grammatically incorrect
+- B. It shifts to a casual tone that does not match the formal opening
+- C. It is too long
+- D. It uses keigo incorrectly
 
 **Correct Answer:** B
 
-**Explanation:** Hotels should use elegant warmth, respectful support, and calm politeness to maintain professionalism while still being hospitable.
+**Explanation:** 誠にありがとうございます is a formal, polite expression. また来てくださいね shifts abruptly to a casual, friendly register, creating an inconsistent tone. The replacement should match the formality of the opening.
 
