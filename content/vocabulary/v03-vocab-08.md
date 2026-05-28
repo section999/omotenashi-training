@@ -6,20 +6,36 @@ title: 喫煙 (kitsuen)
 喫煙 (kitsuen) means "smoking" and designates areas, floors, or rooms where tobacco use is permitted. The word pairs with 禁煙 (kin'en, non-smoking) as its direct opposite, and together these two terms form the core vocabulary for managing smoking preferences in any Japanese hospitality setting. With Japan's indoor smoking regulations becoming more stringent after revisions to the Health Promotion Act, smoking rooms are now a minority offering in many urban hotels. Some properties still maintain designated 喫煙室 (smoking rooms) or 喫煙フロア (smoking floors), and guests who smoke will actively request them.
 
 When a guest requests a 喫煙室, staff should confirm availability promptly, state the floor or room number clearly, and note any specific usage conditions (e.g., ventilated balconies, designated smoking lounges). If no 喫煙室 is available, the refusal must be delivered with a sincere apology and, where possible, guidance to the nearest outdoor smoking area. Using the term accurately and without hesitation shows professionalism and prevents the costly error of assigning a non-smoking guest to a smoking room
-| Japanese | Meaning |
-|---|---|
-| 喫煙室のご希望でございますね。ただいま空き状況を確認いたします。<br><small>*Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.*</small> | You would like a smoking room. I will check availability right now. |
-| 喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？<br><small>*Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?*</small> | The smoking room is on the sixth floor. Shall I show you the way? |
-| 大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。<br><small>*Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.*</small> | We sincerely apologise, but no smoking rooms are available today. We can guide you to the outdoor smoking area. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>喫煙室のご希望でございますね。ただいま空き状況を確認いたします。</code></span><br>
+<em>Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.</em><br>
+You would like a smoking room. I will check availability right now.
+<br><br>
+<span class="keigo-jp"><code>喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？</code></span><br>
+<em>Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?</em><br>
+The smoking room is on the sixth floor. Shall I show you the way?
+<br><br>
+<span class="keigo-jp"><code>大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。</code></span><br>
+<em>Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.</em><br>
+We sincerely apologise, but no smoking rooms are available today. We can guide you to the outdoor smoking area.
+</div>
 
 ## Related Expressions
 
-- **禁煙 (kin'en)**: "non-smoking"; the antonym and essential partner term; staff should confirm which type a guest requires and verify carefully against the room assignment.
-- **喫煙スペース (kitsuen supeesu)**: "smoking area/space"; the designated outdoor or ventilated zone for smokers when no smoking room is available; useful when managing overflow or full properties.
+<div class="keigo-card blue">
+<span class="keigo-badge info">禁煙 (kin'en)</span> "non-smoking"; the antonym and essential partner term; staff should confirm which type a guest requires and verify carefully against the room assignment.
+<br><br>
+<span class="keigo-badge info">喫煙スペース (kitsuen supeesu)</span> "smoking area/space"; the designated outdoor or ventilated zone for smokers when no smoking room is available; useful when managing overflow or full properties.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most consequential mistake is assigning a 喫煙室 to a guest who requested 禁煙. The odour in a smoking room is immediately apparent and difficult to remedy, leading to complaints. 喫煙 is also occasionally confused with 喫茶 (kissa, café/tea drinking) due to the similar first kanji 喫; context will almost always make the meaning clear, but being aware of the distinction helps. The casual phrase タバコ部屋 (tabako heya, "cigarette room") should not be used in formal guest communication. 喫煙室 is the correct professional term.
+</div>
 
 ---
 

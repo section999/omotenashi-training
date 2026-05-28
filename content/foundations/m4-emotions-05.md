@@ -8,28 +8,20 @@ Reading emotional cues is only half the skill. The harder half is responding in 
 
 ## Match Your Response to the Signal
 
-### When You Detect Mild Discomfort
 
-Approach quietly and offer without assumption:
-
-> "Would you like me to adjust anything for you?"
-
-Do not name what you observed. Do not say "you looked uncomfortable." Simply offer.
-
-### When You Detect Confusion
-
-Slow down. Use simpler language or a visual aid. Offer to repeat:
-
-> 「もう一度ご説明してもよろしいでしょうか？」
-> "May I explain that once more?"
-
-### When You Detect Sadness or Emotional Distress
-
+<div class="keigo-card blue">
+<span class="keigo-badge info">When You Detect Mild Discomfort</span><br>
+Approach quietly and offer without assumption:<br>> "Would you like me to adjust anything for you?"<br>Do not name what you observed. Do not say "you looked uncomfortable." Simply offer.
+<br><br>
+<span class="keigo-badge info">When You Detect Confusion</span><br>
+Slow down. Use simpler language or a visual aid. Offer to repeat:<br>> 「もう一度ご説明してもよろしいでしょうか？」<br>> "May I explain that once more?"
+<br><br>
+<span class="keigo-badge info">When You Detect Sadness or Emotional Distress</span><br>
 A guest who is visibly upset from personal circumstances, not service issues, deserves space, not inquiry. A quiet nod, a warm expression, and gentle attentiveness without intrusion is the appropriate response.
-
-### When a Guest is Frustrated
-
+<br><br>
+<span class="keigo-badge info">When a Guest is Frustrated</span><br>
 Do not match their energy. Lower your own voice slightly and slow your pace. Maintain calm, open body language. This physiological contrast tends to have a settling effect on the other person, even when it feels counterintuitive.
+</div>
 
 ## Emotional Regulation for Staff
 
@@ -37,18 +29,19 @@ Staying grounded when a guest is upset is genuinely demanding. The role is not t
 
 Before responding to a frustrated guest:
 
-- Take a slow breath and return attention to what the person actually needs, not how they are expressing it
-- Open, neutral posture reinforces calm
-- Recognising that the guest's frustration is about the situation, not about you personally, helps maintain perspective
+<div class="keigo-card blue">
+• Take a slow breath and return attention to what the person actually needs, not how they are expressing it<br>• Open, neutral posture reinforces calm<br>• Recognising that the guest's frustration is about the situation, not about you personally, helps maintain perspective
+</div>
+
 
 ## The Gold Standard Response
 
 Regardless of what emotional cue is detected, the gold standard response combines four elements:
 
-1. **Calm presence**: you are not rattled
-2. **Genuine warmth**: your concern is real
-3. **Practical action**: you offer or do something concrete
-4. **Discretion**: no fuss, no audience, no drama
+<div class="keigo-card blue">
+<span class="keigo-badge info">1. Calm presence</span><br>you are not rattled<br><br><span class="keigo-badge info">2. Genuine warmth</span><br>your concern is real<br><br><span class="keigo-badge info">3. Practical action</span><br>you offer or do something concrete<br><br><span class="keigo-badge info">4. Discretion</span><br>no fuss, no audience, no drama
+</div>
+
 
 ---
 

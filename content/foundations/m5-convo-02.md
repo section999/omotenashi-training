@@ -11,7 +11,6 @@ Hotel Japanese is distinct from ordinary polite Japanese. The goal is not simply
 Before analyzing specific phrases, it helps to understand that Japanese politeness has three distinct levels that hotels use strategically:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Politeness Levels in Hotel Japanese</span>
 <span class="keigo-badge info">Plain/Casual</span> Used between friends and colleagues<br>
 <em>Example: 名前を教えてください, Tell me your name.</em><br><br>
 <span class="keigo-badge info">Standard Polite (ていねい語)</span> Normal formal speech<br>
@@ -25,7 +24,6 @@ Hotels operate almost exclusively at the third level. The difference is not just
 ## Expression 1: Asking for the Guest's Name
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">ご予約のお名前をお聞かせいただけますでしょうか</span>
 <em>go-yoyaku no o-namae wo o-kikase itadakemasu deshou ka</em><br>
 May I ask for the name on your reservation?<br><br>
 
@@ -62,7 +60,6 @@ The question itself communicates respect
 ## Expression 2: Confirming the Guest's Identity
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">田中様でいらっしゃいますね</span>
 <em>Tanaka-sama de irasshaimasu ne</em><br>
 You are Mr./Ms. Tanaka, correct?<br><br>
 <span class="keigo-badge info">Key grammar:</span> いらっしゃいます is the honorific (尊敬語) form of いる (to be). It elevates the guest's existence, "you are" becomes an expression of respect rather than a neutral statement.<br><br>
@@ -79,7 +76,6 @@ The soft ending ね transforms the confirmation from a question into a collabora
 ## Expression 3: Hotel Services in Humble Language
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">承っております vs しています</span>
 <br>
 <em>Example: 朝食は1階レストランにて、7時から10時まで承っております</em><br>
 Breakfast is served at the 1st floor restaurant from 7:00 to 10:00 AM.<br><br>
@@ -95,7 +91,6 @@ Breakfast is served at the 1st floor restaurant from 7:00 to 10:00 AM.<br><br>
 ## Expression 4: Describing What Is Written
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">記載してございます vs 書いてあります</span>
 <em>Example: Wi-Fiのパスワードはこちらのカードに記載してございます</em><br>
 The Wi-Fi password is written on this card.<br><br>
 書いてあります is not incorrect, but it sounds like describing a physical fact. 記載してございます adds a layer of formality and care: the information was **formally recorded** for the guest, implying preparation and attention to detail. The word 記載 itself carries connotations of official documentation.
@@ -104,7 +99,6 @@ The Wi-Fi password is written on this card.<br><br>
 ## Common Mistakes to Avoid
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Mistake Pattern Summary</span>
 
 | Common Mistake | Problem | Correct Hospitality Form |
 |----------------|---------|--------------------------|
@@ -121,7 +115,6 @@ The pattern across all these corrections is the same: hospitality language shift
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Keigo Analysis Summary</span>
 <span class="keigo-jp"><code>お聞かせいただけますでしょうか</code></span>: May I ask? (soft, inviting)<br><br>
 <span class="keigo-jp"><code>〜でいらっしゃいますね</code></span>: You are 〜, correct? (elevating confirmation)<br><br>
 <span class="keigo-jp"><code>承っております</code></span>: We are offering / serving (respectful service language)<br><br>

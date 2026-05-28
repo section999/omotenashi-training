@@ -6,20 +6,36 @@ title: 留守番電話 (rusuban denwa)
 留守番電話 is the voicemail or answering machine system that records messages when a staff member or guest cannot be reached. The word itself is literal: 留守 means "guarding the house while away," and 番電話 means "the phone doing that watching." In a hotel context, that image is apt. The system stands in for a person, and someone needs to check it regularly and treat what it contains as actionable communication.
 
 Hotels typically assign clear ownership over which team monitors each department's 留守番電話, especially important during shift changes when messages can slip through the cracks. Staff should check 留守番電話 at set intervals, and when responding to a message, acknowledge that it came via voicemail: 留守番電話にメッセージをいただきました、ありがとうございます (thank one for leaving a voicemail message). It is also the staff member's responsibility to inform callers when they are about to reach voicemail, so they can leave their message intentionally rather than being surprised by a recording
-| Japanese | Meaning |
-|---|---|
-| 留守番電話にメッセージを残しました。<br><small>*Rusuban denwa ni messeeji wo nokoshimashita.*</small> | I left a message on the voicemail. |
-| 先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。<br><small>*Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.*</small> | Thank you for the message you left on voicemail earlier. We will call you back shortly. |
-| ただいま担当者が不在のため、留守番電話に切り替わります。<br><small>*Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.*</small> | The person in charge is currently unavailable, so the call will switch to voicemail. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>留守番電話にメッセージを残しました。</code></span><br>
+<em>Rusuban denwa ni messeeji wo nokoshimashita.</em><br>
+I left a message on the voicemail.
+<br><br>
+<span class="keigo-jp"><code>先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。</code></span><br>
+<em>Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.</em><br>
+Thank you for the message you left on voicemail earlier. We will call you back shortly.
+<br><br>
+<span class="keigo-jp"><code>ただいま担当者が不在のため、留守番電話に切り替わります。</code></span><br>
+<em>Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.</em><br>
+The person in charge is currently unavailable, so the call will switch to voicemail.
+</div>
 
 ## Related Expressions
 
-- **伝言 (dengon)**: the content of the message left within 留守番電話; 留守番電話 is the system, 伝言 is what goes inside it, so these terms describe different layers of the same process.
-- **不在 (fuzai)**: absence or being unavailable; 不在 is usually the reason a caller ends up at 留守番電話, so using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation.
+<div class="keigo-card blue">
+<span class="keigo-badge info">伝言 (dengon)</span> the content of the message left within 留守番電話; 留守番電話 is the system, 伝言 is what goes inside it, so these terms describe different layers of the same process.
+<br><br>
+<span class="keigo-badge info">不在 (fuzai)</span> absence or being unavailable; 不在 is usually the reason a caller ends up at 留守番電話, so using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A frequent issue is not tracking which 留守番電話 boxes were checked, which lets messages fall through during shift handovers. Before leaving a shift, staff should confirm which voicemail boxes were covered and which still need attention. 留守番電話 is sometimes used to refer to a recorded greeting message specifically, but the correct term for that is 応答メッセージ. The most serious failure in this area is not calling back after a voicemail is received. In Japanese hospitality, a guest who leaves a voicemail and hears nothing back feels ignored.
+</div>
 
 ---
 ## Quiz

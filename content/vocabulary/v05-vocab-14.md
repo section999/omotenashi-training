@@ -6,20 +6,36 @@ title: 満席 (manseki)
 満席 reads as "full seating" and describes the state when every table in a restaurant or dining room is occupied. Communicating 満席 is one of the more delicate service situations in Japanese hospitality, because turning away a guest must be done in a way that preserves goodwill and the hotel's reputation. The phrasing ただいま満席でございます is carefully constructed: ただいま (at this moment) implies the situation is temporary rather than permanent, and that small word does a lot of work. A simple 満席です would feel blunt and dismissive, whereas the full phrase acknowledges the guest's desire while leaving room for hope.
 
 announcing 満席 is never the end of the conversation. The staff member must immediately offer a constructive alternative: an estimated wait time, an offer to add the guest to a wait list, a suggestion of another hotel dining venue, or an invitation to wait in the lounge with complimentary tea. Leaving a guest with a "no" and nothing more goes against the omotenashi principle of finding solutions. The quality of a hotel's response to 満席 is just as revealing as its response to availability
-| Japanese | Meaning |
-|---|---|
-| ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。<br><small>*Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*</small> | We are fully seated at the moment. If you like, I can take your name and seat you in order. |
-| 大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。<br><small>*Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.*</small> | We sincerely apologize, but we are fully seated at the moment. Would you be able to wait approximately 30 minutes? |
-| 本日は満席でございますが、明日のご予約は承っております。<br><small>*Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.*</small> | We are fully booked today, but we are accepting reservations for tomorrow. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。</code></span><br>
+<em>Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.</em><br>
+We are fully seated at the moment. If you like, I can take your name and seat you in order.
+<br><br>
+<span class="keigo-jp"><code>大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。</code></span><br>
+<em>Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.</em><br>
+We sincerely apologize, but we are fully seated at the moment. Would you be able to wait approximately 30 minutes?
+<br><br>
+<span class="keigo-jp"><code>本日は満席でございますが、明日のご予約は承っております。</code></span><br>
+<em>Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.</em><br>
+We are fully booked today, but we are accepting reservations for tomorrow.
+</div>
 
 ## Related Expressions
 
-- **空いている席 (aiteiru seki)**: the opposite situation, meaning available seating; knowing both terms lets one move smoothly between positive and challenging seating moments without reaching for different vocabulary.
-- **キャンセル待ち (kyanseru-machi)**: a waiting list for cancellations; introduce this concept immediately after communicating 満席, as it gives the guest a concrete path forward rather than a dead end.
+<div class="keigo-card blue">
+<span class="keigo-badge info">空いている席 (aiteiru seki)</span> the opposite situation, meaning available seating; knowing both terms lets one move smoothly between positive and challenging seating moments without reaching for different vocabulary.
+<br><br>
+<span class="keigo-badge info">キャンセル待ち (kyanseru-machi)</span> a waiting list for cancellations; introduce this concept immediately after communicating 満席, as it gives the guest a concrete path forward rather than a dead end.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most damaging error is announcing 満席 with no follow-up offer or apology. That communicates indifference, and guests remember it. Using blunt phrasing like 席ないです or 満席だから is not only too casual but can come across as dismissive or even rude. A common error is to treat 満席 as a final answer, but it should always be a doorway into the next offer: a wait time, a reservation for tomorrow, or a suggestion of another venue. That follow-up distinguishes a disappointing moment from one the guest respects.
+</div>
 
 ---
 ## Quiz

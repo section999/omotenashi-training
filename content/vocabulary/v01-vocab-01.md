@@ -10,19 +10,32 @@ This phrase is spoken the moment a guest enters any service space, a hotel lobby
 
 For hospitality professionals, *irasshaimase* is more than a scripted phrase. It is the opening act of omotenashi. The physical habits, pausing from whatever task was at hand, turning fully toward the guest, making genuine eye contact, take time to develop alongside the spoken word. The phrase should be practiced until it becomes natural, not mechanical
 
-| Japanese | Meaning |
-|---|---|
-| いらっしゃいませ。本日はお越しいただきありがとうございます。<br><small>*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*</small> | Welcome. Thank you so much for visiting us today. |
-| いらっしゃいませ。お荷物をお持ちいたします。<br><small>*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*</small> | Welcome. Allow me to carry your luggage. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>いらっしゃいませ。本日はお越しいただきありがとうございます。</code></span><br>
+<em>Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.</em><br>
+Welcome. Thank you so much for visiting us today.
+<br><br>
+<span class="keigo-jp"><code>いらっしゃいませ。お荷物をお持ちいたします。</code></span><br>
+<em>Irasshaimase. O-nimotsu wo o-mochi itashimasu.</em><br>
+Welcome. Allow me to carry your luggage.
+</div>
 
 ## Related Expressions
 
-- **ようこそ (yōkoso)**: Also means "welcome," but used for more formal or special occasions (welcome ceremonies, written greetings). Less common as an everyday arrival greeting.
-- **おいでくださいませ (oide kudasaimase)**: A regional or ceremonial variant, slightly more literary in tone.
+<div class="keigo-card blue">
+<span class="keigo-badge info">ようこそ (yōkoso)</span> Also means "welcome," but used for more formal or special occasions (welcome ceremonies, written greetings). Less common as an everyday arrival greeting.
+<br><br>
+<span class="keigo-badge info">おいでくださいませ (oide kudasaimase)</span> A regional or ceremonial variant, slightly more literary in tone.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is delivering *irasshaimase* without making eye contact or pausing from another task. The guest should feel they are being welcomed, not that the phrase is being broadcast to the room. Divided attention is visible: a quick glance at a screen while speaking undermines the phrase. A second mistake is rushing the pronunciation: the *ssha* syllable is often compressed into something closer to *sa*, which sounds abrupt. Slowing the greeting down and letting each syllable carry its weight helps maintain its warmth.
+</div>
 
 ---
 

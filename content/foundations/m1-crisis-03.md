@@ -12,20 +12,19 @@ At the same time, some situations genuinely require escalation, for reasons of a
 
 The following situations require escalation:
 
-- The issue involves **health, safety, or legal liability**: a slip and fall, a food reaction, a security concern. These must always be escalated, even if the guest is not asking for a manager.
-- **Financial compensation or a significant upgrade** is being requested, beyond the front-line team's authorisation level.
-- The guest **specifically requests to speak with a manager**: this request must always be honoured immediately.
-- The situation is **beyond your authority or knowledge to resolve**, and continuing to attempt a resolution is making things worse.
-- The guest is **extremely distressed** and the presence of a senior person is likely to reassure them more effectively than continued front-line engagement.
+<div class="keigo-card blue">
+• The issue involves **health, safety, or legal liability**: a slip and fall, a food reaction, a security concern. These must always be escalated, even if the guest is not asking for a manager.<br><br><span class="keigo-badge info">Financial compensation or a significant upgrade</span> is being requested, beyond the front-line team's authorisation level.<br>• The guest **specifically requests to speak with a manager**: this request must always be honoured immediately.<br>• The situation is **beyond your authority or knowledge to resolve**, and continuing to attempt a resolution is making things worse.<br>• The guest is **extremely distressed** and the presence of a senior person is likely to reassure them more effectively than continued front-line engagement.
+</div>
+
 
 ## When Not to Escalate
 
 The following situations do not require escalation:
 
-- The complaint is within your authority to resolve and you can do so now.
-- The guest has not asked for a manager and is responding well to your engagement.
-- Escalation would require the guest to wait, with no benefit to them.
-- The situation can be resolved more quickly and warmly by the person already in the relationship with the guest.
+<div class="keigo-card blue">
+• The complaint is within your authority to resolve and you can do so now.<br>• The guest has not asked for a manager and is responding well to your engagement.<br>• Escalation would require the guest to wait, with no benefit to them.<br>• The situation can be resolved more quickly and warmly by the person already in the relationship with the guest.
+</div>
+
 
 One of the most common errors in complaint handling is escalating out of anxiety rather than genuine necessity. If the complaint can be handled at the front-line level, it should be. The guest benefits, and so does the staff member's own confidence.
 
@@ -33,10 +32,10 @@ One of the most common errors in complaint handling is escalating out of anxiety
 
 The quality of an escalation is determined by the briefing. The guest should never have to repeat themselves to the manager. The handover should include:
 
-- The guest's name and any relevant details
-- The nature of the complaint in specific terms
-- What has already been offered or attempted
-- Any relevant background from the guest's history with the property
+<div class="keigo-card blue">
+• The guest's name and any relevant details<br>• The nature of the complaint in specific terms<br>• What has already been offered or attempted<br>• Any relevant background from the guest's history with the property
+</div>
+
 
 The hand-off phrase bridges the interaction without creating a gap: "Mr Johnson, I'd like to introduce our guest relations manager, Tanaka-san, who will assist you directly from here. I've fully briefed her on everything we've discussed."
 
@@ -46,9 +45,10 @@ After the escalation, the original staff member should remain available for foll
 
 The best hospitality organisations empower front-line staff to resolve complaints without escalation in the majority of cases. This requires:
 
-- Clear authority levels, what can be offered without manager approval
-- Confidence in decision-making, built through training and practice
-- A culture where recovering a guest is valued more than avoiding a mistake
+<div class="keigo-card blue">
+• Clear authority levels, what can be offered without manager approval<br>• Confidence in decision-making, built through training and practice<br>• A culture where recovering a guest is valued more than avoiding a mistake
+</div>
+
 
 When front-line staff know they have both the authority and the support to make recovery decisions, their responses are faster, warmer, and more personal, exactly what complaint recovery requires.
 

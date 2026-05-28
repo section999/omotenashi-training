@@ -11,7 +11,6 @@ While the guest relationship determines the recognition phrase in the opening, t
 For emails triggered by a booking action (new reservation, modification, cancellation confirmation), the opening connects the gratitude to that action.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Reservation-Type Opening</span>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご変更のご連絡をいただき、ありがとうございます。</code></span><br>
@@ -24,7 +23,6 @@ The opening names the specific action (予約, 変更, etc.) so the guest immedi
 For informational emails (check-in time reminders, facility updates, policy changes), the opening should sound professional and neutral without the specific action reference.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Information Notice Opening</span>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for your continued use of our hotel.<br><br>
 平素より (always, habitually) creates a professional, general tone appropriate for operational announcements. It does not assume a specific recent action, making it suitable for notices sent to all guests or to a guest without a specific transaction happening.
@@ -35,7 +33,6 @@ Thank you very much for your continued use of our hotel.<br><br>
 Apology emails require a fundamentally different opening. The first line must acknowledge the inconvenience immediately. Leading with gratitude in an apology email sounds tone-deaf.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Apology Email Opening</span>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご迷惑をおかけし、誠に申し訳ございません。</code></span><br>
@@ -51,7 +48,6 @@ Key elements:<br>
 After a guest departs, the opening must shift tense to reflect the completed stay.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Post-Stay Opening</span>
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
 Thank you very much for staying at our hotel on this occasion.<br><br>
 Note the past tense: ありがとうございました (past) instead of ありがとうございます (present). This is essential. A post-stay email written with present tense sounds like a pre-stay email that was sent at the wrong time.
@@ -62,7 +58,6 @@ Note the past tense: ありがとうございました (past) instead of あり�
 Different email types and property types call for different formality levels within each category.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Formality Scale</span>
 
 | Level | Opening Phrase | Use |
 |---|---|---|
@@ -77,7 +72,6 @@ Different email types and property types call for different formality levels wit
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening Line Quick Reference by Email Type</span>
 <span class="keigo-badge info">Reservation</span> <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span><br>
 <span class="keigo-badge info">Information notice</span> <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span><br>
 <span class="keigo-badge info">Apology</span> <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span><br>

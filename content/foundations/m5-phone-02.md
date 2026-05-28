@@ -14,7 +14,6 @@ Professional hotel telephone calls are not free-flowing conversations. They foll
 ## Step 1: Greeting
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Greeting, Sets the tone</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
 <em>o-denwa arigatou gozaimasu.</em><br>
 Thank you for your call.<br><br>
@@ -24,7 +23,6 @@ Thank you for your call.<br><br>
 ## Step 2: Identification
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Identification, Establishes accountability</span>
 <span class="keigo-jp"><code>フロントでございます。</code></span><br>
 <em>furonto de gozaimasu.</em><br>
 This is the front desk.<br><br>
@@ -34,7 +32,6 @@ This is the front desk.<br><br>
 ## Step 3: Recognition
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Recognition, Shows the guest they were heard</span>
 <span class="keigo-jp"><code>ご予約についてでございますね。</code></span><br>
 <em>go-yoyaku ni tsuite de gozaimasu ne.</em><br>
 This is about your reservation, correct?<br><br>
@@ -44,7 +41,6 @@ This is about your reservation, correct?<br><br>
 ## Step 4: Confirmation
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Confirmation, Verifies critical details</span>
 <span class="keigo-jp"><code>6月10日から2泊でございますね。</code></span><br>
 <em>rokugatsu touka kara nihaku de gozaimasu ne.</em><br>
 June 10th for two nights, is that correct?<br><br>
@@ -54,7 +50,6 @@ June 10th for two nights, is that correct?<br><br>
 ## Step 5: Action
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Action, Maintains transparency during wait</span>
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
 <em>kakunin itashimasu node shoushou o-machi kudasaimase.</em><br>
 I will confirm that now, so please wait a moment.<br><br>
@@ -64,7 +59,6 @@ I will confirm that now, so please wait a moment.<br><br>
 ## Step 6: Result
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Result, Gives the guest certainty</span>
 <span class="keigo-jp"><code>かしこまりました。6月10日から2泊、ツインルームにて承っております。</code></span><br>
 <em>kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketsukete orimasu.</em><br>
 Certainly. We have your reservation: twin room, June 10th for two nights.<br><br>
@@ -74,7 +68,6 @@ Certainly. We have your reservation: twin room, June 10th for two nights.<br><br
 ## Step 7: Closing
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing, Ends with grace</span>
 <span class="keigo-jp"><code>お電話ありがとうございました。またのご連絡をお待ちしております。</code></span><br>
 <em>o-denwa arigatou gozaimashita. mata no go-renraku wo o-machi shite orimasu.</em><br>
 Thank you for your call. We look forward to hearing from you again.<br><br>
@@ -96,7 +89,6 @@ The structure exists not because of tradition, but because **each step eliminate
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Key Phrases by Step</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。</code></span>: Greeting<br>
 <span class="keigo-jp"><code>フロントでございます。</code></span>: Identification<br>
 <span class="keigo-jp"><code>〜についてでございますね。</code></span>: Recognition<br>

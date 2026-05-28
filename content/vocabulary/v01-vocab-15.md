@@ -10,21 +10,38 @@ The key distinction between this phrase and the more passive "is there anything 
 
 In the philosophy of omotenashi, waiting for a guest to ask for help is already too late. A hospitality professional anticipates the need, moves toward the guest, and offers *o-tetsudai shimashō ka* before the guest has to formulate a request. This proactive care, *ki ga tsuku* (気が付く), or "noticing," is a defining quality of excellent service. A common error is knowing the phrase but hesitating to use it proactively. This hesitation should be addressed through practice.
 
-| Japanese | Meaning |
-|---|---|
-| お荷物をお持ちでしょうか。お手伝いしましょうか。<br><small>*O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.*</small> | Do you have luggage? May I help you with it? |
-| お困りのようでしたら、お手伝いしましょうか。<br><small>*O-komari no yō deshitara, o-tetsudai shimashō ka.*</small> | You seem to be having some difficulty: may I help? |
-| ご案内が必要でしたら、お手伝いしましょうか。<br><small>*Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.*</small> | If you need directions, may I assist you? |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お荷物をお持ちでしょうか。お手伝いしましょうか。</code></span><br>
+<em>O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.</em><br>
+Do you have luggage? May I help you with it?
+<br><br>
+<span class="keigo-jp"><code>お困りのようでしたら、お手伝いしましょうか。</code></span><br>
+<em>O-komari no yō deshitara, o-tetsudai shimashō ka.</em><br>
+You seem to be having some difficulty: may I help?
+<br><br>
+<span class="keigo-jp"><code>ご案内が必要でしたら、お手伝いしましょうか。</code></span><br>
+<em>Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.</em><br>
+If you need directions, may I assist you?
+</div>
 
 ## Related Expressions
 
-- **何かお手伝いできることはございますか (nanika o-tetsudai dekiru koto wa gozaimasu ka)**: "Is there anything I can help you with?": a more open-ended version, inviting the guest to name a need
-- **ご案内いたします (go-annai itashimasu)**: "I will guide/show you": follows naturally after the guest accepts help
-- **いかがなさいましたか (ikaga nasaimashita ka)**: "What seems to be the matter?": used when a guest appears distressed or confused
+<div class="keigo-card blue">
+<span class="keigo-badge info">何かお手伝いできることはございますか (nanika o-tetsudai dekiru koto wa gozaimasu ka)</span> "Is there anything I can help you with?": a more open-ended version, inviting the guest to name a need
+<br><br>
+<span class="keigo-badge info">ご案内いたします (go-annai itashimasu)</span> "I will guide/show you": follows naturally after the guest accepts help
+<br><br>
+<span class="keigo-badge info">いかがなさいましたか (ikaga nasaimashita ka)</span> "What seems to be the matter?": used when a guest appears distressed or confused
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is waiting for a guest to make eye contact or directly ask before offering help. In omotenashi-oriented service, the initiative comes from the staff member, not the guest. A second mistake is offering *o-tetsudai shimashō ka* in a tone that feels routine or performative. The phrase works best when it sounds noticed and offered, not scripted.
+</div>
 
 ---
 

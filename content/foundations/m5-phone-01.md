@@ -48,7 +48,6 @@ Uses でございます, establishes formal service register
 ## Analyzing the Opening Line
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Three Functions in One Sentence</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span>
 <br><br>
 <span class="keigo-badge info">Gratitude</span> お電話ありがとうございます, communicates that the call is welcomed and valued. Even a brief moment of tension in the guest is immediately reduced.<br><br>
@@ -67,7 +66,6 @@ The staff member who answers the phone carries the reputation of the entire hote
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Standard Opening Phrases</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
 <em>o-denwa arigatou gozaimasu. hoteru ○○ de gozaimasu.</em><br>
 Thank you for your call. This is Hotel ○○.<br><br>

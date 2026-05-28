@@ -6,20 +6,36 @@ title: 部屋 (heya)
 部屋 (heya) is the everyday Japanese word for "room," and it works as the conversational partner to the more formal 客室. In hotel and ryokan settings, staff use 部屋 when speaking directly with guests in a warm, accessible way, especially during relaxed exchanges where overly formal language would feel out of place. The word carries no institutional weight and is universally understood, making it reliable whenever clear communication matters more than formal precision. Adding お to make it お部屋 raises the register and is the standard spoken form in most guest-facing interactions.
 
 Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Japanese. お部屋 is appropriate in direct conversation and casual clarifications with guests. 客室 is appropriate for written materials, public announcements, official signage, or any communication where the property is speaking in an institutional voice. The register of language at a property contributes to the overall atmosphere guests experience
-| Japanese | Meaning |
-|---|---|
-| お部屋はいかがでしたか？<br><small>*O-heya wa ikaga deshita ka?*</small> | How was the room? |
-| お部屋のカードキーをこちらにお持ちいただけますか？<br><small>*O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?*</small> | Could you bring the room card key here? |
-| こちらがお部屋の鍵でございます。どうぞご確認ください。<br><small>*Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.*</small> | This is the key to the room. Please check it. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋はいかがでしたか？</code></span><br>
+<em>O-heya wa ikaga deshita ka?</em><br>
+How was the room?
+<br><br>
+<span class="keigo-jp"><code>お部屋のカードキーをこちらにお持ちいただけますか？</code></span><br>
+<em>O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?</em><br>
+Could you bring the room card key here?
+<br><br>
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞご確認ください。</code></span><br>
+<em>Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.</em><br>
+This is the key to the room. Please check it.
+</div>
 
 ## Related Expressions
 
-- **客室 (kyakushitsu)**: the formal institutional term for guest room; correct for official, written, or high-register spoken contexts rather than direct guest conversation.
-- **お部屋 (o-heya)**: the honorific form of 部屋; raises the register of plain 部屋 and is the standard spoken form when addressing guests directly.
+<div class="keigo-card blue">
+<span class="keigo-badge info">客室 (kyakushitsu)</span> the formal institutional term for guest room; correct for official, written, or high-register spoken contexts rather than direct guest conversation.
+<br><br>
+<span class="keigo-badge info">お部屋 (o-heya)</span> the honorific form of 部屋; raises the register of plain 部屋 and is the standard spoken form when addressing guests directly.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A frequent error is using plain 部屋 without the honorific お in spoken guest interaction, which can come across as abrupt or too casual for a service setting. お部屋 should be used when speaking directly with guests. Conversely, writing 部屋 in formal guest-facing materials like welcome letters or facility signage is also incorrect; 客室 is the appropriate choice there. Staff sometimes mix up the contexts entirely and use 客室 in casual conversation, where it sounds stiff when お部屋 would feel natural and warm.
+</div>
 
 ---
 ## Quiz

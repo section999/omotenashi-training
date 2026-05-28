@@ -10,12 +10,10 @@ The invisibility of the service is central to its effect. The guest did not watc
 
 ## Standard Turndown Tasks
 
-- **Futon preparation**: Lay the futon on the tatami in the correct orientation, head away from the tokonoma. Feet should never point toward it. In Western-style rooms, fold back the duvet at a diagonal, leaving a clean triangle for the guest to slip into.
-- **Yukata arrangement**: Fold the yukata neatly and lay it at the foot of the bed or beside the futon.
-- **Lighting**: Dim the overhead lights and switch on bedside lamps to create warmth.
-- **Curtains**: Close fully, unless the room has a significant nighttime view, in which case leave them slightly open as an invitation to look out.
-- **Amenities**: Replace used towels, replenish toiletries, and position a fresh glass of water or a warm drink on the nightstand.
-- **Small gestures**: A seasonal wagashi (Japanese sweet) on the pillow, or a folded origami crane. Small touches that tell the guest someone was here and thought of them.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Futon preparation</span> Lay the futon on the tatami in the correct orientation, head away from the tokonoma. Feet should never point toward it. In Western-style rooms, fold back the duvet at a diagonal, leaving a clean triangle for the guest to slip into.<br><br><span class="keigo-badge info">Yukata arrangement</span> Fold the yukata neatly and lay it at the foot of the bed or beside the futon.<br><br><span class="keigo-badge info">Lighting</span> Dim the overhead lights and switch on bedside lamps to create warmth.<br><br><span class="keigo-badge info">Curtains</span> Close fully, unless the room has a significant nighttime view, in which case leave them slightly open as an invitation to look out.<br><br><span class="keigo-badge info">Amenities</span> Replace used towels, replenish toiletries, and position a fresh glass of water or a warm drink on the nightstand.<br><br><span class="keigo-badge info">Small gestures</span> A seasonal wagashi (Japanese sweet) on the pillow, or a folded origami crane. Small touches that tell the guest someone was here and thought of them.
+</div>
+
 
 ## Timing and Coordination
 

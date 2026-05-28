@@ -6,20 +6,36 @@ title: 交通機関 (koutsuu kikan)
 交通機関 is a compound noun meaning "transportation systems" or "means of transportation," covering the full network of trains, subways, buses, taxis, ferries, and anything else travellers use to get around. Japan's 交通機関 is internationally respected for its punctuality and coverage, especially the rail networks run by JR and private operators, and hotel staff who can navigate this landscape fluently become indispensable to guests who are trying to plan their days efficiently. Staff will often hear the fuller phrase 公共交通機関 (koukyou koutsuu kikan, public transportation) when distinguishing shared transit from private options like taxis.
 
 Knowing the vocabulary is only the beginning. Guests need help with things like IC card compatibility across different operators, the difference between local and express services, and which option makes sense given their luggage, schedule, and budget. A phrase like 「最寄りの駅から各交通機関をご利用いただけます」 is both informative and reassuring for an arriving guest who doesn't yet know how things connect. A common error is to underestimate how much practical transportation knowledge a good concierge carries, but it shows up in every single shift
-| Japanese | Meaning |
-|---|---|
-| 日本の交通機関はとても便利です。<br><small>*Nihon no koutsuu kikan wa totemo benri desu.*</small> | Transportation in Japan is very convenient. |
-| 当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。<br><small>*Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.*</small> | Our hotel is situated with very convenient access to major transportation systems. |
-| 交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。<br><small>*Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.*</small> | If you have any questions about transferring between transport systems, please do not hesitate to contact the front desk. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>日本の交通機関はとても便利です。</code></span><br>
+<em>Nihon no koutsuu kikan wa totemo benri desu.</em><br>
+Transportation in Japan is very convenient.
+<br><br>
+<span class="keigo-jp"><code>当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。</code></span><br>
+<em>Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.</em><br>
+Our hotel is situated with very convenient access to major transportation systems.
+<br><br>
+<span class="keigo-jp"><code>交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。</code></span><br>
+<em>Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.</em><br>
+If you have any questions about transferring between transport systems, please do not hesitate to contact the front desk.
+</div>
 
 ## Related Expressions
 
-- **公共交通機関 (koukyou koutsuu kikan)**: public transportation specifically; distinguishes shared transit like trains and buses from private options such as taxis or rental cars
-- **移動手段 (idou shudan)**: means of transport in a broader, more casual sense; often used when discussing a single journey rather than an entire network or system
+<div class="keigo-card blue">
+<span class="keigo-badge info">公共交通機関 (koukyou koutsuu kikan)</span> public transportation specifically; distinguishes shared transit like trains and buses from private options such as taxis or rental cars
+<br><br>
+<span class="keigo-badge info">移動手段 (idou shudan)</span> means of transport in a broader, more casual sense; often used when discussing a single journey rather than an entire network or system
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to shorten 交通機関 to just 交通, but 交通 by itself means "traffic" or "transport" in an abstract sense and does not specifically refer to a transportation system or vehicle type. If staff mean a specific mode, they should name it directly: 電車, バス, タクシー. Additionally: 機関 here means "mechanism" or "system," not 機関車 (locomotive), which uses the same first characters but is a completely different word.
+</div>
 
 ---
 

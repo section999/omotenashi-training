@@ -7,20 +7,36 @@ title: トイレ (toilet)
 
 In a hospitality context, トイレ comes up most often when guests ask for directions or when staff explain room layout at check-in: 「トイレはこちらでございます」 (the toilet is this way) or 「お手洗いはエレベーターの隣にございます」 (the restroom is next to the elevator). Staff should combine verbal direction with a gesture, pointing or gently indicating the direction, as this is consistent with Japanese hospitality etiquette. In some hotels, the toilet is a separate room from the bath, and clarifying this to guests unfamiliar with that layout is an important part of room orientation.
 
-| Japanese | Meaning |
-|---|---|
-| トイレはこちらでございます。<br><small>*Toire wa kochira de gozaimasu.*</small> | The restroom is this way. |
-| お部屋のトイレはウォシュレット付きでございます。<br><small>*Oheya no toire wa woshuretto tsuki de gozaimasu.*</small> | The toilet in the room is equipped with a washlet. |
-| トイレと浴室は別々になっております。<br><small>*Toire to yokushitsu wa betsubetsu ni natte orimasu.*</small> | The toilet and bathroom are separate. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>トイレはこちらでございます。</code></span><br>
+<em>Toire wa kochira de gozaimasu.</em><br>
+The restroom is this way.
+<br><br>
+<span class="keigo-jp"><code>お部屋のトイレはウォシュレット付きでございます。</code></span><br>
+<em>Oheya no toire wa woshuretto tsuki de gozaimasu.</em><br>
+The toilet in the room is equipped with a washlet.
+<br><br>
+<span class="keigo-jp"><code>トイレと浴室は別々になっております。</code></span><br>
+<em>Toire to yokushitsu wa betsubetsu ni natte orimasu.</em><br>
+The toilet and bathroom are separate.
+</div>
 
 ## Related Expressions
 
-- **お手洗い (otearai)**: A more refined, euphemistic term for restroom, literally meaning "place to wash hands." It is often preferred in very formal speech or written signage, and is considered slightly more polished than トイレ in upscale hospitality settings.
-- **洗面所 (senmenjo)**: Refers specifically to the washroom sink and vanity area, not the toilet itself. In rooms where these spaces are combined, the distinction matters; in rooms where they are separate, staff must clearly specify which area they are directing the guest to.
+<div class="keigo-card blue">
+<span class="keigo-badge info">お手洗い (otearai)</span> A more refined, euphemistic term for restroom, literally meaning "place to wash hands." It is often preferred in very formal speech or written signage, and is considered slightly more polished than トイレ in upscale hospitality settings.
+<br><br>
+<span class="keigo-badge info">洗面所 (senmenjo)</span> Refers specifically to the washroom sink and vanity area, not the toilet itself. In rooms where these spaces are combined, the distinction matters; in rooms where they are separate, staff must clearly specify which area they are directing the guest to.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is using plain forms such as 「トイレあります」 or 「トイレです」 when guiding guests. The correct professional phrase is 「トイレはこちらでございます」, using こちら for direction and ございます for register. Another mistake is failing to mention whether the toilet is separate from the bathroom, which is important information in Japanese-style rooms. In very high-end ryokan contexts, お手洗い or ご不浄 is more appropriate than トイレ, which can be perceived as slightly casual.
+</div>
 
 ---
 

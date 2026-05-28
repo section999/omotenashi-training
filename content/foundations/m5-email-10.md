@@ -9,7 +9,6 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 ## What This Email Must Accomplish
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Goals of an Operational Notice</span>
 <strong>1. Inform:</strong> State clearly what is happening, when, and which facilities or services are affected.<br>
 <strong>2. Acknowledge:</strong> Recognize that this creates inconvenience without over-apologizing.<br>
 <strong>3. Request:</strong> Ask for the guest's understanding using appropriate humble language.<br>
@@ -19,18 +18,15 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">件名 (Subject)</span>
 <span class="keigo-jp"><code>【設備点検のお知らせ】[Date] [Affected facility]一時休止のご案内</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for your continued use of our hotel.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Notification</span>
 <span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
 We will be conducting facility inspections on the following schedule.<br><br>
 <span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
@@ -40,13 +36,11 @@ During the inspection, [affected facility] will be unavailable for some time.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Acknowledgment and Request</span>
 <span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
 We apologize for the inconvenience and humbly ask for your understanding.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
 If you have any questions, please feel free to contact us.
 </div>
@@ -54,7 +48,6 @@ If you have any questions, please feel free to contact us.
 ## Key Phrase: 何卒ご理解のほど
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Phrase Analysis</span>
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br><br>
 何卒 (nanitozo), "humbly" or "please"; adds sincerity and humility<br>
 ご理解のほど (go-rikai no hodo), "your understanding"; のほど is a softening construction<br>
@@ -65,7 +58,6 @@ This phrase is standard in Japanese professional notice emails. It requests the 
 ## Alternate Versions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Renovation or Long-Term Closure</span>
 <span class="keigo-jp"><code>現在、ホテルの一部エリアにて改装工事を実施しております。</code></span><br>
 We are currently conducting renovation work in part of the hotel.<br><br>
 <span class="keigo-jp"><code>工事期間中は音や振動によりご迷惑をおかけする場合がございます。何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>

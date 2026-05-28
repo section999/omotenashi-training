@@ -7,20 +7,36 @@ title: 道案内 (michi annai)
 
 When giving 道案内, the most effective approach is to anchor directions to landmarks rather than compass points or distances alone. Pointing someone north when they do not know which way is north does not help anyone. Using the convenience store on the corner, the red torii gate, or the big department store: these are the reference points guests can see and follow. A common error is to underestimate how much a hand-drawn map or a note with station names in both Japanese and romaji can mean to a foreign guest. That small extra step turns a transaction into genuine hospitality. If the destination is close enough, offering 「ご案内いたします」 and walking the guest there personally represents the highest form of this service.
 
-| Japanese | Meaning |
-|---|---|
-| ご到着の際、駅からホテルまでの道案内をフロントにてご案内いたします。<br><small>*Go-touchaku no sai, eki kara hoteru made no michi annai wo furonto nite go-annai itashimasu.*</small> | Upon arrival, we will provide directions from the station to the hotel at the front desk. |
-| 観光スポットへの道案内が必要でございましたら、コンシェルジュデスクまでお申し付けください。<br><small>*Kankou supotto e no michi annai ga hitsuyou de gozaimashitara, konshieruju desuku made o-moushitsuke kudasai.*</small> | If you need directions to tourist attractions, please let us know at the concierge desk. |
-| 地図をご用意しておりますので、道案内と合わせてご活用ください。<br><small>*Chizu wo go-youi shite orimasu no de, michi annai to awasete go-katuyou kudasai.*</small> | We have maps available, so please use them together with the directions we provide. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご到着の際、駅からホテルまでの道案内をフロントにてご案内いたします。</code></span><br>
+<em>Go-touchaku no sai, eki kara hoteru made no michi annai wo furonto nite go-annai itashimasu.</em><br>
+Upon arrival, we will provide directions from the station to the hotel at the front desk.
+<br><br>
+<span class="keigo-jp"><code>観光スポットへの道案内が必要でございましたら、コンシェルジュデスクまでお申し付けください。</code></span><br>
+<em>Kankou supotto e no michi annai ga hitsuyou de gozaimashitara, konshieruju desuku made o-moushitsuke kudasai.</em><br>
+If you need directions to tourist attractions, please let us know at the concierge desk.
+<br><br>
+<span class="keigo-jp"><code>地図をご用意しておりますので、道案内と合わせてご活用ください。</code></span><br>
+<em>Chizu wo go-youi shite orimasu no de, michi annai to awasete go-katuyou kudasai.</em><br>
+We have maps available, so please use them together with the directions we provide.
+</div>
 
 ## Related Expressions
 
-- **案内 (annai)**: guidance or information in a broad sense; used for hotel tours, facility introductions, or any form of assistance, while 道案内 is the navigation-specific subset of this larger concept
-- **地図 (chizu)**: map; the physical or digital tool most commonly offered alongside 道案内 to help guests see their route and move around independently
+<div class="keigo-card blue">
+<span class="keigo-badge info">案内 (annai)</span> guidance or information in a broad sense; used for hotel tours, facility introductions, or any form of assistance, while 道案内 is the navigation-specific subset of this larger concept
+<br><br>
+<span class="keigo-badge info">地図 (chizu)</span> map; the physical or digital tool most commonly offered alongside 道案内 to help guests see their route and move around independently
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to use 案内 when 道案内 is the more precise term for navigation and wayfinding. Both are understood, but 道案内 tells the listener clearly that staff are talking about routes rather than general information or introductions. However, the bigger practical error is giving directions using compass directions without any landmark references, which leaves most guests lost and confused in an unfamiliar city. When offering to help, always use the humble form 「ご案内させていただきます」 rather than the plain 「案内します」. The difference in register here is not trivial. In a hotel setting, 「案内します」 can come across as blunt, while 「ご案内させていただきます」 signals that staff are there to serve.
+</div>
 
 ---
 

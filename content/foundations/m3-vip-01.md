@@ -10,29 +10,29 @@ VIP service is not a different kind of hospitality. It is the same omotenashi, a
 
 The core principles of omotenashi remain constant regardless of guest status:
 
-- The fundamentals of anticipation, sincerity, and invisibility of effort
-- The importance of genuine warmth over performance
-- Respect for the guest as a person, not as a status symbol
+<div class="keigo-card blue">
+• The fundamentals of anticipation, sincerity, and invisibility of effort<br>• The importance of genuine warmth over performance<br>• Respect for the guest as a person, not as a status symbol
+</div>
+
 
 A VIP guest treated with ceremony but without warmth will feel processed, not welcomed. Elaborate rituals that feel mechanical are worse than simple gestures that feel genuine.
 
 ## What Changes
 
-### Information Depth
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Information Depth</span><br>
 For a VIP guest, staff know more: preferred room temperature, dietary restrictions, previous stay history, the names of their spouse and children, their hobbies. This information is gathered in advance and acted on quietly, without drawing attention to the fact that it is known.
-
-### Response Speed
-
+<br><br>
+<span class="keigo-badge info">Response Speed</span><br>
 Requests are fulfilled faster. Issues are escalated immediately. Nothing waits.
-
-### Personalisation
-
+<br><br>
+<span class="keigo-badge info">Personalisation</span><br>
 Generic amenities are replaced with curated ones. A bottle of wine becomes the specific vintage they have ordered before. A fruit basket becomes the exact selection they prefer.
-
-### Discretion
-
+<br><br>
+<span class="keigo-badge info">Discretion</span><br>
 The visibility of the guest's stay is carefully managed. How and whether staff acknowledge them in public is calibrated to their preference.
+</div>
 
 ## Reading the Guest's Preference
 

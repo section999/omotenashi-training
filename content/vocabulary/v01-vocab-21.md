@@ -10,21 +10,38 @@ In isolation, *go-rikai kudasai* can feel imposing, as if staff is requiring the
 
 Context matters here. The phrase fits situations where a facility is temporarily unavailable, a rule must be observed, a booking limitation applies, or circumstances are beyond the property's control, such as weather or external events. However, it is not the right choice when the property itself made an error. In those cases, full apology and immediate resolution are required
 
-| Japanese | Meaning |
-|---|---|
-| 誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。<br><small>*Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.*</small> | I am very sorry, but the pool is currently unavailable. We ask for your kind understanding. |
-| ご不便をおかけいたしますが、ご理解いただけますと幸いです。<br><small>*Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.*</small> | I apologise for the inconvenience. We would be most grateful for your understanding. |
-| こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。<br><small>*Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.*</small> | A reservation is required to use this facility. We thank you for your understanding. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。</code></span><br>
+<em>Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.</em><br>
+I am very sorry, but the pool is currently unavailable. We ask for your kind understanding.
+<br><br>
+<span class="keigo-jp"><code>ご不便をおかけいたしますが、ご理解いただけますと幸いです。</code></span><br>
+<em>Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.</em><br>
+I apologise for the inconvenience. We would be most grateful for your understanding.
+<br><br>
+<span class="keigo-jp"><code>こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。</code></span><br>
+<em>Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.</em><br>
+A reservation is required to use this facility. We thank you for your understanding.
+</div>
 
 ## Related Expressions
 
-- **ご了承ください (go-ryōshō kudasai)**: "Please note / please accept": slightly more formal, often used in written notices
-- **ご容赦ください (go-yōsha kudasai)**: "Please forgive us / please excuse us": places emphasis on asking for forgiveness rather than understanding
-- **あいにく〜となっております (ainiku ~ to natte orimasu)**: "Unfortunately, ~ is the case": a gentler way to introduce an unavailability
+<div class="keigo-card blue">
+<span class="keigo-badge info">ご了承ください (go-ryōshō kudasai)</span> "Please note / please accept": slightly more formal, often used in written notices
+<br><br>
+<span class="keigo-badge info">ご容赦ください (go-yōsha kudasai)</span> "Please forgive us / please excuse us": places emphasis on asking for forgiveness rather than understanding
+<br><br>
+<span class="keigo-badge info">あいにく〜となっております (ainiku ~ to natte orimasu)</span> "Unfortunately, ~ is the case": a gentler way to introduce an unavailability
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using *go-rikai kudasai* without an apologetic lead-in is the most common mistake: it can sound like a command. It should always be paired with *moushiwake gozaimasen* or a similar expression of regret. A common error is reaching for this phrase reflexively in difficult moments, but when the property itself is at fault, a request for understanding is not the appropriate response. Full apology and immediate resolution come first.
+</div>
 
 ---
 

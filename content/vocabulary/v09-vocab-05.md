@@ -6,20 +6,36 @@ title: 出発日 (shuppatsu bi)
 出発日 is the date on which a guest is scheduled to leave the hotel, completing their stay. It receives just as much operational attention as the 到着日, because it drives the entire checkout workflow: housekeeping schedules deep cleaning and room preparation for the next arriving guest, the front desk prepares the final bill, and transportation or luggage-handling arrangements are confirmed. In ryokan settings, the 出発日 determines when the farewell breakfast will be served and, in many traditional properties, whether the okami or a senior staff member will personally see the guest off at the entrance. That farewell gesture is deeply embedded in Japanese hospitality culture, and it only happens with the right timing. Misjudging a guest's 出発日 by even one day can create a double-booking situation or leave an incoming guest's room unprepared.
 
 When confirming any reservation, the 出発日 should be verified explicitly alongside the 到着日. If a guest wants to extend their stay, the 出発日 is the reference point: it indicates which night needs to be added and whether the same room is available. it also governs the calculation of late check-out fees, which are based on how many hours past the standard departure time the guest remains in the room. Having that date confirmed and documented protects both the guest and the property
-| Japanese | Meaning |
-|---|---|
-| ご出発日は4月12日のご予定でよろしいでしょうか。<br><small>*Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*</small> | Is April 12 your planned departure date? |
-| 出発日の当日、チェックアウトは午前11時までにお願いしております。<br><small>*Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.*</small> | On your departure day, we ask that you check out by 11:00 AM. |
-| 出発日を1日延長されたい場合は、空き状況を確認いたします。<br><small>*Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.*</small> | If you would like to extend your departure by one day, we will check room availability. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご出発日は4月12日のご予定でよろしいでしょうか。</code></span><br>
+<em>Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.</em><br>
+Is April 12 your planned departure date?
+<br><br>
+<span class="keigo-jp"><code>出発日の当日、チェックアウトは午前11時までにお願いしております。</code></span><br>
+<em>Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.</em><br>
+On your departure day, we ask that you check out by 11:00 AM.
+<br><br>
+<span class="keigo-jp"><code>出発日を1日延長されたい場合は、空き状況を確認いたします。</code></span><br>
+<em>Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.</em><br>
+If you would like to extend your departure by one day, we will check room availability.
+</div>
 
 ## Related Expressions
 
-- **チェックアウト日 (chekku-auto bi)**: a near-synonym for 出発日, with a tone that focuses on the administrative check-out procedure rather than the physical act of leaving; the two are used interchangeably in most hotel contexts
-- **到着日 (touchaku bi)**: the counterpart arrival date; always confirmed together with 出発日 to define the complete stay window
+<div class="keigo-card blue">
+<span class="keigo-badge info">チェックアウト日 (chekku-auto bi)</span> a near-synonym for 出発日, with a tone that focuses on the administrative check-out procedure rather than the physical act of leaving; the two are used interchangeably in most hotel contexts
+<br><br>
+<span class="keigo-badge info">到着日 (touchaku bi)</span> the counterpart arrival date; always confirmed together with 出発日 to define the complete stay window
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 One recurring confusion is when a guest says they are staying "until the 12th." A common error is to record the 12th as the final occupancy night when the guest means they are checking out on the 12th morning. Explicit confirmation is needed: is the 12th a night the guest is sleeping in the room, or the day they are leaving? Getting this wrong leads to billing disputes and potential room clashes. Additionally, the casual verb form 帰る日 should be avoided in professional settings. It is perfectly natural in everyday Japanese, but in reservation contexts 出発日 is the correct term and anything less formal will stand out.
+</div>
 
 ---
 ## Quiz

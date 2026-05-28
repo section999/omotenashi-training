@@ -9,7 +9,6 @@ Face-to-face complaints are more complex than telephone complaints. When a guest
 ## Face-to-Face vs Telephone: Key Differences
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">What Changes In Person</span>
 <span class="keigo-badge info">Body language matters</span> A slight bow communicates genuine apology more than words alone<br><br>
 <span class="keigo-badge info">Eye contact</span> Calm, steady eye contact communicates that you are listening, avoiding eye contact signals discomfort or dismissal<br><br>
 <span class="keigo-badge info">Physical distance</span> Step slightly toward the guest (not away) to signal engagement<br><br>
@@ -19,7 +18,6 @@ Face-to-face complaints are more complex than telephone complaints. When a guest
 ## The 4-Step Resolution Framework
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Framework for Face-to-Face Complaints</span>
 <span class="keigo-badge info">1. Listen fully</span>: Do not interrupt. Let the guest finish.<br>
 <span class="keigo-badge info">2. Apologize genuinely</span>: Before explaining anything.<br>
 <span class="keigo-badge info">3. Act immediately</span>: State the specific action and timeline.<br>
@@ -29,7 +27,6 @@ Face-to-face complaints are more complex than telephone complaints. When a guest
 ## Room Quality Complaint
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Room Complaint Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋が汚れています。フロアに髪の毛が落ちていて、タオルも取り替えられていません。</code></span><br>
 My room is dirty. There are hairs on the floor and the towels haven't been changed.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変失礼いたしました。ご不快な思いをおかけしてしまい、誠に申し訳ございません。</code></span><br>
@@ -43,7 +40,6 @@ My room is dirty. There are hairs on the floor and the towels haven't been chang
 ## Service Failure Complaint
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Service Failure Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>さっきフロントで頼んだことが全然対応されていません。</code></span><br>
 The request I made at the front desk earlier has not been handled at all.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけしてしまい、大変申し訳ございませんでした。</code></span><br>
@@ -78,7 +74,6 @@ The request I made at the front desk earlier has not been handled at all.<br><br
 Some complaints require escalation, particularly if the issue involves compensation, policy exceptions, or a guest who remains upset after initial handling:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Escalation Protocol</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当のマネージャーをお呼びいたします。少々お待ちくださいませ。</code></span><br>
 I am sorry to ask you to wait, but I will call the manager now. Please give me just a moment.<br><br>
 <span class="keigo-badge info">Never say:</span> 「私には分かりません」, "I don't know" (without follow-up)<br>
@@ -90,7 +85,6 @@ I am sorry to ask you to wait, but I will call the manager now. Please give me j
 The most powerful step in complaint resolution is the follow-up, returning after the issue is resolved to confirm the guest is now satisfied:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Follow-Up Script</span>
 <span class="keigo-jp"><code>先ほどのお部屋の件でございますが、ご確認いただけましたでしょうか。</code></span><br>
 Regarding the issue with your room earlier, were you able to confirm that everything has been taken care of?<br><br>
 <span class="keigo-jp"><code>ご不便をおかけし、改めて申し訳ございませんでした。今後ともよろしくお願いいたします。</code></span><br>
@@ -102,7 +96,6 @@ Follow-up converts a complaint into an opportunity. Research consistently shows 
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Face-to-Face Complaint Phrases</span>
 <span class="keigo-jp"><code>ご不快な思いをおかけし、誠に申し訳ございません</code></span><br>
 I sincerely apologize for causing you discomfort.<br><br>
 <span class="keigo-jp"><code>ただいますぐ対応いたします</code></span><br>

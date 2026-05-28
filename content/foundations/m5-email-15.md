@@ -11,21 +11,18 @@ Professional hotel email writing requires consistency across every email sent, r
 Use this checklist before sending every hotel email. Each item represents a category of error covered in this module.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Subject Line</span>
 The subject line uses 【】 brackets to label the email type<br>
 The guest's name and relevant dates or topic are visible at a glance<br>
 The subject line is specific enough for the guest to understand the email without opening it
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening Line</span>
 The opening matches the guest's relationship type: この度は (first-time), いつもお世話になっております (repeat), or 格別のご愛顧 (VIP/long-term)<br>
 The opening matches the email type: gratitude for reservation, gratitude for contact, or apology (never gratitude before an apology)<br>
 Tense is correct: ありがとうございます (pre-stay) or ありがとうございました (post-stay)
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body</span>
 Each paragraph covers one topic<br>
 Facts are stated using でございます<br>
 Requests are written in soft form: 〜いただけますと幸いでございます<br>
@@ -35,14 +32,12 @@ No overly complex keigo that sounds unnatural
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing Line</span>
 A closing phrase is present (the email does not end abruptly)<br>
 The closing matches the email type: お待ちしております (pre-arrival), またお会いできる日を (post-stay), 今後ともよろしくお願い申し上げます (repeat guest), ご連絡くださいませ (apology or support)<br>
 くださいませ is used instead of ください
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Tone Consistency</span>
 The register is the same from opening to closing<br>
 No casual words or phrases appear mid-email (ね, よ, など informal forms)<br>
 The overall tone fits the email purpose: warm and welcoming (reservation), supportive (apology), clear and organized (notice)
@@ -51,7 +46,6 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 ## Expression Quick Reference
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening Lines</span>
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span>: First-time reservation<br>
 <span class="keigo-jp"><code>いつもお世話になっております</code></span>: Repeat guest<br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span>: General notice<br>
@@ -60,7 +54,6 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body Phrases</span>
 <span class="keigo-jp"><code>〜は以下のとおりでございます</code></span>: Details are as follows<br>
 <span class="keigo-jp"><code>〜でございます</code></span>: [Fact] is / This is [fact]<br>
 <span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate if you could 〜<br>
@@ -69,7 +62,6 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing Lines</span>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival close<br>
 <span class="keigo-jp"><code>スタッフ一同ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival (collective)<br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: Post-stay close<br>

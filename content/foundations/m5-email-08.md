@@ -9,7 +9,6 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 ## What This Email Must Accomplish
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Goals of a Pre-Arrival Email</span>
 <strong>1. Organize:</strong> Present practical information clearly and in logical order so the guest does not have to search or ask.<br>
 <strong>2. Reassure:</strong> The guest should feel everything is arranged and under control.<br>
 <strong>3. Welcome:</strong> Even a practical email must carry warmth. Close with genuine anticipation.
@@ -18,12 +17,10 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">件名 (Subject)</span>
 <span class="keigo-jp"><code>【ご到着前のご案内】[Name]様 ご滞在について</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。</code></span><br>
@@ -31,7 +28,6 @@ We are sending you the following information before your arrival.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Essential Information</span>
 <span class="keigo-jp"><code>チェックイン開始時間は15:00からでございます。</code></span><br>
 Check-in begins at 15:00.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11:00でございます。</code></span><br>
@@ -43,13 +39,11 @@ We would appreciate it if you could present your passport or ID at check-in.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Pre-Arrival Contact Invitation</span>
 <span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code></span><br>
 If you have any questions or requests before your arrival, please feel free to contact us.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
 All of our staff sincerely look forward to your arrival.
 </div>
@@ -57,7 +51,6 @@ All of our staff sincerely look forward to your arrival.
 ## Writing Principles for This Email
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pre-Arrival Email Writing Rules</span>
 <strong>One piece of information per sentence</strong><br>
 Do not write: "Check-in is at 15:00 and check-out is at 11:00 and the parking lot is at the front." Separate each fact into its own sentence.<br><br>
 <strong>Use でございます for all stated facts</strong><br>
@@ -71,7 +64,6 @@ A pre-arrival email should cover only the most important practical information. 
 ## Optional Additions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Optional Sections (Add as Needed)</span>
 <strong>Transportation:</strong><br>
 <span class="keigo-jp"><code>最寄り駅は〇〇駅でございます。徒歩5分ほどでございます。</code></span><br>
 The nearest station is [Station]. It is approximately a 5-minute walk.<br><br>

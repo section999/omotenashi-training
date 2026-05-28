@@ -10,21 +10,38 @@ This is a notably frequently used expression in Japanese workplace culture, and 
 
 This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* (thank you so much for coming despite your long day)
 
-| Japanese | Meaning |
-|---|---|
-| お疲れ様です。今日もありがとうございました。<br><small>*O-tsukaresama desu. Kyō mo arigatō gozaimashita.*</small> | Thank you for your hard work. Thank you for today as well. |
-| お疲れ様でした。ゆっくり休んでください。<br><small>*O-tsukaresama deshita. Yukkuri yasunte kudasai.*</small> | Good work today. Please rest well. |
-| お疲れ様です。フロアの引き継ぎをお願いいたします。<br><small>*O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.*</small> | Thank you for the work. Please brief me on the floor handover. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お疲れ様です。今日もありがとうございました。</code></span><br>
+<em>O-tsukaresama desu. Kyō mo arigatō gozaimashita.</em><br>
+Thank you for your hard work. Thank you for today as well.
+<br><br>
+<span class="keigo-jp"><code>お疲れ様でした。ゆっくり休んでください。</code></span><br>
+<em>O-tsukaresama deshita. Yukkuri yasunte kudasai.</em><br>
+Good work today. Please rest well.
+<br><br>
+<span class="keigo-jp"><code>お疲れ様です。フロアの引き継ぎをお願いいたします。</code></span><br>
+<em>O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.</em><br>
+Thank you for the work. Please brief me on the floor handover.
+</div>
 
 ## Related Expressions
 
-- **ご苦労様です (go-kurōsama desu)**: Similar in meaning, but this one flows downward in the hierarchy, from superiors to subordinates. Using it toward a colleague or, worse, a guest comes across as condescending.
-- **お疲れ様でした (o-tsukaresama deshita)**: The past-tense form, used once the work is done. Staff would say this at the end of a shift or after a task is completed, not in the middle of one.
-- **いってらっしゃい (itterasshai)**: "Have a safe trip / go well": said to a colleague or guest as they head out.
+<div class="keigo-card blue">
+<span class="keigo-badge info">ご苦労様です (go-kurōsama desu)</span> Similar in meaning, but this one flows downward in the hierarchy, from superiors to subordinates. Using it toward a colleague or, worse, a guest comes across as condescending.
+<br><br>
+<span class="keigo-badge info">お疲れ様でした (o-tsukaresama deshita)</span> The past-tense form, used once the work is done. Staff would say this at the end of a shift or after a task is completed, not in the middle of one.
+<br><br>
+<span class="keigo-badge info">いってらっしゃい (itterasshai)</span> "Have a safe trip / go well": said to a colleague or guest as they head out.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is saying *o-tsukaresama desu* directly to a guest who looks tired. The intent is kind, but it positions the guest as a coworker rather than someone one is serving, and that subtle misstep can land awkwardly. When one wants to acknowledge a guest's fatigue, it is better done through action: offering something warm, getting their bags, moving quickly. A common mistake is using *go-kurōsama desu* with a senior colleague. That phrase carries a top-down implication, and using it upward in the hierarchy is considered rude.
+</div>
 
 ---
 

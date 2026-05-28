@@ -16,10 +16,10 @@ Each of these states calls for a different approach, or, in the case of the phon
 
 When you have identified that the moment is right:
 
-- Move **unhurried but purposeful.** Rushing suggests anxiety; ambling suggests indifference. The pace communicates: "I am coming to you with full attention."
-- A slight **bow or nod** as you arrive acknowledges the guest's presence before you speak. It says "I see you" before any words are exchanged.
-- Position yourself at a **natural conversational distance**: not hovering over a seated guest, not speaking from so far away that they must raise their voice to respond.
-- Your **opening words** should be open and warm, not transactional. "Good evening, I hope everything is to your liking" invites a real response. "Ready to order?" does not.
+<div class="keigo-card blue">
+• Move **unhurried but purposeful.** Rushing suggests anxiety; ambling suggests indifference. The pace communicates: "I am coming to you with full attention."<br>• A slight **bow or nod** as you arrive acknowledges the guest's presence before you speak. It says "I see you" before any words are exchanged.<br>• Position yourself at a **natural conversational distance**: not hovering over a seated guest, not speaking from so far away that they must raise their voice to respond.<br>• Your **opening words** should be open and warm, not transactional. "Good evening, I hope everything is to your liking" invites a real response. "Ready to order?" does not.
+</div>
+
 
 ## Tone and Register
 

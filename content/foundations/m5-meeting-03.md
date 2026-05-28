@@ -11,7 +11,6 @@ Hotel handover notes use a specialized set of operational terms. These are not f
 The most important words in any handover entry are the status terms. They tell the incoming shift what has been done and what still needs to happen.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Status Vocabulary</span>
 
 | Term | Reading | Meaning | When to Use |
 |---|---|---|---|
@@ -27,7 +26,6 @@ The most important words in any handover entry are the status terms. They tell t
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Status Flow</span>
 依頼あり (received) → 対応中 (in progress) → 対応済み / 完了 (resolved)<br><br>
 要対応 and 確認待ち indicate a task is <strong>blocked</strong>. When these appear, the entry must also name who is responsible for unblocking it. Never leave a blocked task without an owner.
 </div>
@@ -35,7 +33,6 @@ The most important words in any handover entry are the status terms. They tell t
 ## Guest and Reservation Terms
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Guest Operation Vocabulary</span>
 
 | Term | Reading | Meaning | When to Use |
 |---|---|---|---|
@@ -52,7 +49,6 @@ The most important words in any handover entry are the status terms. They tell t
 ## Facility and Maintenance Terms
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Facility Vocabulary</span>
 
 | Term | Reading | Meaning | When to Use |
 |---|---|---|---|
@@ -67,7 +63,6 @@ The most important words in any handover entry are the status terms. They tell t
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Facility Reporting Rule</span>
 Always write: <strong>[Location] + [Problem] + [Status]</strong><br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>エアコン壊れています。</code></span><br><br>
@@ -77,7 +72,6 @@ A problem without location and status is unusable information.
 ## Time and Urgency Terms
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Urgency and Timeline Vocabulary</span>
 
 | Term | Reading | Meaning |
 |---|---|---|
@@ -90,7 +84,6 @@ A problem without location and status is unusable information.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Urgency Priority</span>
 即対応 is the highest urgency label. An item marked 即対応 means the incoming staff should stop what they are doing and address it before anything else.<br><br>
 If everything is marked 即対応, nothing effectively is. Reserve this label only for genuine emergencies or time-critical service failures.
 </div>
@@ -98,7 +91,6 @@ If everything is marked 即対応, nothing effectively is. Reserve this label on
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Complete Entry Examples Using Correct Vocabulary</span>
 <span class="keigo-jp"><code>305号室：VIPゲスト。ウェルカムフルーツ対応済み。</code></span><br>
 Room 305: VIP guest. Welcome fruit delivered.<br><br>
 <span class="keigo-jp"><code>210号室：騒音クレーム対応済み。経過確認要。</code></span><br>

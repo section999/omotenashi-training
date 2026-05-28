@@ -18,10 +18,10 @@ When a property has a custom of presenting welcome gifts, brief explanations add
 
 When selecting gifts for guests from different backgrounds, be aware of the following:
 
-- **Giving sets of four to Chinese guests**: four is considered inauspicious in Chinese culture, as it is in Japanese, due to its association with death
-- **Giving white flowers or chrysanthemums to many East Asian guests**: these are associated with funerals and mourning across several cultures
-- **Giving alcohol to guests who may be Muslim**: always consider the guest's background before selecting any food or drink gift
-- **Giving leather goods to Hindu guests**: sacred cow considerations apply
+<div class="keigo-card blue">
+<span class="keigo-badge info">Giving sets of four to Chinese guests</span> four is considered inauspicious in Chinese culture, as it is in Japanese, due to its association with death<br><br><span class="keigo-badge info">Giving white flowers or chrysanthemums to many East Asian guests</span> these are associated with funerals and mourning across several cultures<br><br><span class="keigo-badge info">Giving alcohol to guests who may be Muslim</span> always consider the guest's background before selecting any food or drink gift<br><br><span class="keigo-badge info">Giving leather goods to Hindu guests</span> sacred cow considerations apply
+</div>
+
 
 ## The Universal Principle
 

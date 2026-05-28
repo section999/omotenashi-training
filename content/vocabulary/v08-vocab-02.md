@@ -7,20 +7,36 @@ title: 左 (hidari)
 
 Left-side directions come up constantly in hotel corridors, where rooms alternate on both sides of a long hallway. Combining 左 with a polite locating phrase such as 左にございます or 左側でございます, and adding a distance cue like 突き当たりの左 or 二つ目の扉の左, makes the instruction complete. When accompanying a guest in person, gesturing toward the left with an open hand at the same time reinforces comprehension more than words alone
 
-| Japanese | Meaning |
-|---|---|
-| 入口は左側にございます。<br><small>*Iriguchi wa hidari-gawa ni gozaimasu.*</small> | The entrance is on the left side. |
-| エレベーターを降りて左にお進みください。<br><small>*Erebeetaa wo orite hidari ni o-susumi kudasai.*</small> | After exiting the elevator, please proceed to the left. |
-| お手洗いは廊下の左手奥にございます。<br><small>*O-tearai wa rouka no hidari-te oku ni gozaimasu.*</small> | The restroom is at the back on the left side of the corridor. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>入口は左側にございます。</code></span><br>
+<em>Iriguchi wa hidari-gawa ni gozaimasu.</em><br>
+The entrance is on the left side.
+<br><br>
+<span class="keigo-jp"><code>エレベーターを降りて左にお進みください。</code></span><br>
+<em>Erebeetaa wo orite hidari ni o-susumi kudasai.</em><br>
+After exiting the elevator, please proceed to the left.
+<br><br>
+<span class="keigo-jp"><code>お手洗いは廊下の左手奥にございます。</code></span><br>
+<em>O-tearai wa rouka no hidari-te oku ni gozaimasu.</em><br>
+The restroom is at the back on the left side of the corridor.
+</div>
 
 ## Related Expressions
 
-- **左手 (hidarite)**: "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility
-- **左折 (sasetsu)**: "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance
+<div class="keigo-card blue">
+<span class="keigo-badge info">左手 (hidarite)</span> "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility
+<br><br>
+<span class="keigo-badge info">左折 (sasetsu)</span> "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. A common error is mixing up 左 and 右 when nervous or under pressure. Drilling both words together in realistic practice scenarios helps address this. Additionally: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Using an open hand when gesturing appears more polished.
+</div>
 
 ---
 ## Quiz

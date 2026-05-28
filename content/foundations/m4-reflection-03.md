@@ -14,17 +14,17 @@ The end of a shift arrives alongside physical tiredness, the handover rush, and 
 
 The review does not need to be long or formal. Five minutes, done consistently, is far more valuable than an occasional hour-long debrief. It can happen on the walk to the locker room. A simple structure is all that is needed.
 
-### What went well?
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">What went well?</span><br>
 Name one or two specific moments from the shift that felt right, a guest interaction handled with real care, a piece of teamwork that flowed well. Be specific. Not "service was good" but "the late check-in at 11pm, I noticed they were exhausted and moved quickly without making them feel rushed."
-
-### What was difficult or incomplete?
-
+<br><br>
+<span class="keigo-badge info">What was difficult or incomplete?</span><br>
 Name one thing that did not go as well as it could have. What happened? What was noticed? What would you do differently next time?
-
-### What is the one thing to carry into the next shift?
-
+<br><br>
+<span class="keigo-badge info">What is the one thing to carry into the next shift?</span><br>
 One single, concrete intention: "Tomorrow I will watch the moment guests pick up their menus, I missed two tables today who were ready to order." One intention, carried consistently, makes a real difference.
+</div>
 
 ## The Team Review
 

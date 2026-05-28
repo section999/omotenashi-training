@@ -6,20 +6,36 @@ title: 水漏れ (mizumore)
 水漏れ (mizumore) means water leakage: water escaping from pipes, taps, shower fittings, or other plumbing. In a hotel or ryokan, a 水漏れ is treated as a priority issue because it can escalate from a minor inconvenience to a hazard in a short time, affecting structural integrity, electrical systems, or the comfort of adjacent rooms. Any 水漏れ report, whether it comes from a guest or is spotted by a housekeeper, needs to go to maintenance immediately, and the affected area must be made safe without delay.
 
 The most important principle when speaking with a guest about a 水漏れ is to avoid asking them to manage or contain the situation themselves. Suggesting that they place towels or move valuables shifts responsibility onto the guest in a moment when they are already stressed. The right approach is to dispatch maintenance immediately and, if the leak is significant, to proactively offer a room change. A staff member who hesitates or appears unsure about what to do next will amplify the guest's anxiety. Using confident phrases like 水漏れを確認いたします paired with a clear next step communicates exactly the professional competence guests need to see
-| Japanese | Meaning |
-|---|---|
-| バスルームの水漏れのご報告をありがとうございます。ただいまメンテナンスをお送りいたします。<br><small>*Basuroomu no mizumore no go-houkoku wo arigatou gozaimasu. Tadaima mentenansu wo o-okuri itashimasu.*</small> | Thank you for reporting the water leak in the bathroom. We are sending maintenance right away. |
-| 水漏れが確認されましたので、お部屋を変更させていただいてもよろしいでしょうか。<br><small>*Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshoo ka.*</small> | We have confirmed the water leak, so may we change the room? |
-| 水漏れの状況を確認いたしますので、ただいまお部屋にお伺いしてもよろしいでしょうか。<br><small>*Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshoo ka.*</small> | May we come to the room now to check the water leak situation? |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>バスルームの水漏れのご報告をありがとうございます。ただいまメンテナンスをお送りいたします。</code></span><br>
+<em>Basuroomu no mizumore no go-houkoku wo arigatou gozaimasu. Tadaima mentenansu wo o-okuri itashimasu.</em><br>
+Thank you for reporting the water leak in the bathroom. We are sending maintenance right away.
+<br><br>
+<span class="keigo-jp"><code>水漏れが確認されましたので、お部屋を変更させていただいてもよろしいでしょうか。</code></span><br>
+<em>Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshoo ka.</em><br>
+We have confirmed the water leak, so may we change the room?
+<br><br>
+<span class="keigo-jp"><code>水漏れの状況を確認いたしますので、ただいまお部屋にお伺いしてもよろしいでしょうか。</code></span><br>
+<em>Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshoo ka.</em><br>
+May we come to the room now to check the water leak situation?
+</div>
 
 ## Related Expressions
 
-- **故障 (koshou)**: general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it calls for a specific response.
-- **排水 (haisui)**: drainage; sometimes a 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause rather than just the symptom.
+<div class="keigo-card blue">
+<span class="keigo-badge info">故障 (koshou)</span> general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it calls for a specific response.
+<br><br>
+<span class="keigo-badge info">排水 (haisui)</span> drainage; sometimes a 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause rather than just the symptom.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A critical error is downplaying a 水漏れ and delaying the call to maintenance. Even a slow drip can cause significant water damage if left unchecked, and electricity near water is a safety risk. The guest should never be asked to handle any part of the situation themselves, a phrase like 「タオルで押さえておいてください」 (please hold a towel over it) shifts responsibility in a direction it should never go. The correct posture is always immediate professional response combined with clear communication about what happens next, no matter how small the leak appears.
+</div>
 
 ---
 ## Quiz

@@ -7,20 +7,36 @@ title: 閉店 (heiten)
 
 Staff should also be clear on the difference between approaching 閉店 and having already reached it. If a facility is about to close, there may still be options: briefly extending a courtesy, directing the guest to another open facility, or flagging it with a supervisor. If the facility has already closed, the response must be final while remaining warm. Giving guests a 10 to 15 minute courtesy notice before a restaurant closes is itself a small omotenashi gesture that many guests appreciate
 
-| Japanese | Meaning |
-|---|---|
-| 申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。<br><small>*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*</small> | I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you? |
-| レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。<br><small>*Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.*</small> | The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience. |
-| 只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。<br><small>*Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.*</small> | We have passed the last order time, which makes it difficult for us to take further orders at this point. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。</code></span><br>
+<em>Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.</em><br>
+I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you?
+<br><br>
+<span class="keigo-jp"><code>レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。</code></span><br>
+<em>Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.</em><br>
+The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience.
+<br><br>
+<span class="keigo-jp"><code>只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。</code></span><br>
+<em>Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.</em><br>
+We have passed the last order time, which makes it difficult for us to take further orders at this point.
+</div>
 
 ## Related Expressions
 
-- **開店 (kaiten)**: opening; the direct opposite of 閉店; always a useful alternative reference to offer when a guest has missed tonight's service, as in 「明日の開店は7時でございます」
-- **ラストオーダー (rasuto oodaa)**: last order; the cut-off time for placing orders, typically 30 to 60 minutes before 閉店; worth distinguishing clearly, since guests sometimes arrive after last order but before closing and expect full service
+<div class="keigo-card blue">
+<span class="keigo-badge info">開店 (kaiten)</span> opening; the direct opposite of 閉店; always a useful alternative reference to offer when a guest has missed tonight's service, as in 「明日の開店は7時でございます」
+<br><br>
+<span class="keigo-badge info">ラストオーダー (rasuto oodaa)</span> last order; the cut-off time for placing orders, typically 30 to 60 minutes before 閉店; worth distinguishing clearly, since guests sometimes arrive after last order but before closing and expect full service
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A critical error is delivering 閉店 without an apology or alternative. This comes across as dismissive and directly contradicts omotenashi values. Pairing the closure with 申し訳ございません and a follow-up suggestion is recommended. 閉店 (the facility is closed) is sometimes confused with 満席 (fully booked, no seats available), particularly in restaurant contexts. These situations require completely different responses and must not be mixed up. The informal 「閉まっています」 does not meet the register expected in hotel service. The correct formal phrasing is 「すでに閉店しております」, which maintains a professional tone even when the answer is negative.
+</div>
 
 ---
 ## Quiz

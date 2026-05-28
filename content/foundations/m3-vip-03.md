@@ -10,9 +10,10 @@ VIP guests often have needs that fall outside standard procedures, and they expe
 
 Before a VIP guest arrives, review everything available: past stay records, preferences communicated by the guest or their team, and any relevant details about their work and schedule. Then ask a simple question: *What might they need that they have not yet asked for?*
 
-- A musician arriving for a concert series may need a quiet room, a piano, and a wake-up call timed to their performance schedule.
-- A business traveller may need a printer, a second monitor, and a specific brand of coffee at 6 a.m.
-- A guest with mobility limitations may need a room closer to the elevator and a shower chair.
+<div class="keigo-card blue">
+• A musician arriving for a concert series may need a quiet room, a piano, and a wake-up call timed to their performance schedule.<br>• A business traveller may need a printer, a second monitor, and a specific brand of coffee at 6 a.m.<br>• A guest with mobility limitations may need a room closer to the elevator and a shower chair.
+</div>
+
 
 None of these are unusual requests. They are foreseeable needs that a prepared property provides without being asked.
 

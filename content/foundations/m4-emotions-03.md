@@ -10,21 +10,17 @@ In many Western cultures, silence in conversation feels awkward, something to mo
 
 Japanese communication is often described as *high-context*, meaning a significant part of the message travels through tone, context, and implication rather than words alone. Silence is a tool, not a gap.
 
-### Silence as Consideration
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Silence as Consideration</span><br>
 When a guest pauses before answering, they are most likely thinking carefully. Do not rush to fill the pause or repeat the question. Wait, and show patience with a calm expression and open posture.
-
-### Silence as Discomfort
-
-A guest who goes quiet after receiving information, a price, a wait time, a policy, may be displeased but unwilling to say so directly. Watch for accompanying cues:
-
-- A slight intake of breath
-- A brief downward glance
-- Lip compression
-
-### Silence as Refusal
-
+<br><br>
+<span class="keigo-badge info">Silence as Discomfort</span><br>
+A guest who goes quiet after receiving information, a price, a wait time, a policy, may be displeased but unwilling to say so directly. Watch for accompanying cues:<br>• A slight intake of breath<br>• A brief downward glance<br>• Lip compression
+<br><br>
+<span class="keigo-badge info">Silence as Refusal</span><br>
 In Japanese culture, saying "no" directly is considered impolite. A guest may respond to a suggestion with prolonged silence, a soft "hmm" (うーん), or a vague "it's a little..." (ちょっと...). These are soft rejections. Acknowledge them without pressing.
+</div>
 
 ## Indirect Communication Patterns
 

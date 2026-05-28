@@ -10,21 +10,38 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 
 *Dōzo* can also stand completely alone as a full utterance. Handing over a key, presenting a menu, offering a warm drink, in many of these moments the single word carries the full weight of the exchange without needing elaboration. That simplicity is part of its elegance. There are also moments where *dōzo* alone is not quite enough, and a more specific phrase serves the guest better
 
-| Japanese | Meaning |
-|---|---|
-| こちらがお部屋の鍵でございます。どうぞ。<br><small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small> | Here is the room key. Please. |
-| こちらのお席にどうぞ。<br><small>*Kochira no o-seki ni dōzo.*</small> | Please take this seat. |
-| 温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。<br><small>*Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.*</small> | Here is a warm drink for you. Please, take your time and enjoy. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞ。</code></span><br>
+<em>Kochira ga o-heya no kagi de gozaimasu. Dōzo.</em><br>
+Here is the room key. Please.
+<br><br>
+<span class="keigo-jp"><code>こちらのお席にどうぞ。</code></span><br>
+<em>Kochira no o-seki ni dōzo.</em><br>
+Please take this seat.
+<br><br>
+<span class="keigo-jp"><code>温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。</code></span><br>
+<em>Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.</em><br>
+Here is a warm drink for you. Please, take your time and enjoy.
+</div>
 
 ## Related Expressions
 
-- **こちらへどうぞ (kochira e dōzo)**: "Please come this way." *Dōzo* combined with a clear direction. Use this to invite a guest to follow one somewhere.
-- **ごゆっくりどうぞ (goyukkuri dōzo)**: "Please take their time / relax." *Dōzo* paired with an invitation to ease. Particularly important when showing a guest to their room or presenting a meal.
-- **どうぞ、お構いなく (dōzo, o-kamainaku)**: "Please don't worry on my behalf." Used when the guest is being overly considerate about not wanting to trouble one.
+<div class="keigo-card blue">
+<span class="keigo-badge info">こちらへどうぞ (kochira e dōzo)</span> "Please come this way." *Dōzo* combined with a clear direction. Use this to invite a guest to follow one somewhere.
+<br><br>
+<span class="keigo-badge info">ごゆっくりどうぞ (goyukkuri dōzo)</span> "Please take their time / relax." *Dōzo* paired with an invitation to ease. Particularly important when showing a guest to their room or presenting a meal.
+<br><br>
+<span class="keigo-badge info">どうぞ、お構いなく (dōzo, o-kamainaku)</span> "Please don't worry on my behalf." Used when the guest is being overly considerate about not wanting to trouble one.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is handing something to a guest without any verbal accompaniment, or saying *dōzo* while distracted, without making eye contact or using both hands. The word works because of the full gesture it accompanies, and the physical and verbal need to arrive together. Another mistake is reaching for *dōzo* in situations that call for a more specific phrase. Saying *dōzo* alone when admitting a guest to their room, for example, feels slightly incomplete. *Shitsurei itashimasu, go-annai itashimasu* is more appropriate there, and shows the guest that the staff member is actively guiding, not just waving them through.
+</div>
 
 ---
 

@@ -9,7 +9,6 @@ A hotel email has three required sections: the opening, the body, and the closin
 ## The Three-Part Structure
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Email Architecture</span>
 <strong>Opening</strong><br>
 Purpose: establish who you are addressing, recognize the relationship, and set the emotional tone<br>
 Length: one to two sentences<br><br>
@@ -26,7 +25,6 @@ Length: one to two sentences
 Before the opening, the subject line must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Subject Line Principles</span>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>【ご予約確認】山田様 7月15日〜16日 1泊</code></span><br>
 Guest name, dates, and purpose visible at a glance.<br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>【設備点検のお知らせ】7月20日(土) プール一時休止</code></span><br>
@@ -41,7 +39,6 @@ Use 【】 brackets to mark the email type. This is standard in Japanese profess
 The body must be organized, specific, and easy to read. Japanese hotel email bodies never include long, unstructured paragraphs.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body Structure Guidelines</span>
 <strong>One topic per paragraph</strong><br>
 Each paragraph covers one subject. Do not combine reservation details with parking instructions in the same paragraph.<br><br>
 <strong>Use でございます for facts</strong><br>
@@ -57,7 +54,6 @@ Long compound sentences are harder to read. Break them into shorter units.
 ## A Complete Email Example
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Full Email: Reservation Confirmation</span>
 <strong>件名 (Subject):</strong><br>
 <span class="keigo-jp"><code>【ご予約確認】山田様 8月10日〜11日 1泊</code></span><br><br>
 <strong>Opening:</strong><br>
@@ -77,7 +73,6 @@ Long compound sentences are harder to read. Break them into shorter units.
 Before sending, verify the email meets the standard at each level.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pre-Send Checklist</span>
 Subject line is specific and clearly labeled with 【】<br>
 Opening matches the guest's relationship type (first-time / repeat / VIP)<br>
 Opening matches the email type (reservation / notice / apology / post-stay)<br>
@@ -90,7 +85,6 @@ No casual language, excessive keigo, or abrupt endings
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body Language Patterns</span>
 <span class="keigo-jp"><code>ご予約内容は以下のとおりでございます</code></span>: Your reservation details are as follows<br>
 <span class="keigo-jp"><code>〜のとおりでございます</code></span>: As 〜 states / as follows<br>
 <span class="keigo-jp"><code>〜でございます</code></span>: It is 〜 (professional fact statement)<br>

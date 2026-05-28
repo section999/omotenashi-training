@@ -10,21 +10,38 @@ In hospitality, the evening greeting window is important because it often coinci
 
 The phrase has the same structural origin as *konnichiwa*, both were once part of longer expressions about how "today/tonight is going", but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous
 
-| Japanese | Meaning |
-|---|---|
-| こんばんは。お疲れのところ、ようこそお越しくださいました。<br><small>*Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*</small> | Good evening. Welcome, and thank you for coming despite your tiredness. |
-| こんばんは。お夕食はご予約をいただいておりますでしょうか。<br><small>*Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.*</small> | Good evening. Do you have a dinner reservation with us? |
-| こんばんは。本日もご利用ありがとうございます。<br><small>*Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.*</small> | Good evening. Thank you for choosing us again today. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こんばんは。お疲れのところ、ようこそお越しくださいました。</code></span><br>
+<em>Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.</em><br>
+Good evening. Welcome, and thank you for coming despite your tiredness.
+<br><br>
+<span class="keigo-jp"><code>こんばんは。お夕食はご予約をいただいておりますでしょうか。</code></span><br>
+<em>Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.</em><br>
+Good evening. Do you have a dinner reservation with us?
+<br><br>
+<span class="keigo-jp"><code>こんばんは。本日もご利用ありがとうございます。</code></span><br>
+<em>Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.</em><br>
+Good evening. Thank you for choosing us again today.
+</div>
 
 ## Related Expressions
 
-- **こんにちは (konnichiwa)**: The daytime greeting that *konbanwa* follows as evening arrives
-- **おやすみなさい (oyasumi nasai)**: Good night, used when parting for sleep rather than as a general evening greeting
-- **夜遅くに申し訳ございません (yoru osoku ni moushiwake gozaimasen)**: "I am sorry for the late hour": useful when contacting guests after a certain hour
+<div class="keigo-card blue">
+<span class="keigo-badge info">こんにちは (konnichiwa)</span> The daytime greeting that *konbanwa* follows as evening arrives
+<br><br>
+<span class="keigo-badge info">おやすみなさい (oyasumi nasai)</span> Good night, used when parting for sleep rather than as a general evening greeting
+<br><br>
+<span class="keigo-badge info">夜遅くに申し訳ございません (yoru osoku ni moushiwake gozaimasen)</span> "I am sorry for the late hour": useful when contacting guests after a certain hour
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common timing error is using *konbanwa* too early, in late afternoon when it is still clearly daytime. Some staff also continue using *konnichiwa* well into the evening out of habit; staff should pay attention to the light, the hour, and the atmosphere. *Konbanwa* is a greeting said when seeing someone, while *oyasumi nasai* is a farewell said when parting at night. They serve different moments and are not interchangeable.
+</div>
 
 ---
 

@@ -12,8 +12,10 @@ This is not about superficial aesthetics. It is about the message that physical 
 
 Japanese culture draws a clear distinction between two concepts:
 
-- **Oshare (おしゃれ)** is personal style, dressing to express individuality.
-- **Midashinami (身だしなみ)** is professional grooming, presenting yourself to put others at ease.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Oshare (おしゃれ)</span> is personal style, dressing to express individuality.<br><br><span class="keigo-badge info">Midashinami (身だしなみ)</span> is professional grooming, presenting yourself to put others at ease.
+</div>
+
 
 In a hospitality context, midashinami takes precedence. The staff member's personal preferences are set aside in favour of the comfort and reassurance of the guest. A neatly pressed uniform that the wearer finds plain is more appropriate than a personalised one that distracts or unsettles. This is not about suppressing identity. It is about choosing the right context for self-expression, and the guest-facing floor is not that context.
 
@@ -21,10 +23,10 @@ In a hospitality context, midashinami takes precedence. The staff member's perso
 
 Every element of appearance communicates something before a word is spoken.
 
-- Polished shoes signal attention to detail.
-- A clean, pressed uniform signals that the property has standards.
-- Upright posture signals presence and attentiveness.
-- Hair that is neat and away from the face signals focus on the guest.
+<div class="keigo-card blue">
+• Polished shoes signal attention to detail.<br>• A clean, pressed uniform signals that the property has standards.<br>• Upright posture signals presence and attentiveness.<br>• Hair that is neat and away from the face signals focus on the guest.
+</div>
+
 
 Guests absorb these cues before any interaction begins. Appearance is the first moment of service.
 

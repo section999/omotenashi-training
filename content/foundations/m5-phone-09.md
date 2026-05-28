@@ -26,7 +26,6 @@ Transferring a call is not a handoff, it is coordination. The framing of the tra
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Complete Transfer Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>レストランの予約をしたいのですが。</code></span><br>
 I'd like to make a restaurant reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。レストラン担当へおつなぎいたします。少々お待ちくださいませ。</code></span><br>
@@ -43,21 +42,18 @@ When transferring, **always state the destination before placing the guest on ho
 Holds are moments of silence, and silence creates anxiety. The staff member must manage hold time actively:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Entering a Hold</span>
 <span class="keigo-jp"><code>確認いたしますので、少々お待ちくださいませ。</code></span><br>
 I will check on that, please wait a moment.<br><br>
 <span class="keigo-badge info">Rule</span> Never place a guest on hold without explaining what you are checking. The guest needs to know the silence has a purpose.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Returning from a Hold</span>
 <span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
 Thank you very much for waiting.<br><br>
 <span class="keigo-badge info">Rule</span> Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment, the guest's patience is genuinely recognized.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Extended Hold, Check-in While Waiting</span>
 If the check takes longer than expected, return to the line briefly:<br><br>
 <span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
 I am sorry to keep you waiting. Could I ask for just a little more time?<br><br>
@@ -69,7 +65,6 @@ I am sorry to keep you waiting. Could I ask for just a little more time?<br><br>
 When a request cannot be handled immediately, offer a callback rather than asking the guest to call again:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Offering a Callback</span>
 <span class="keigo-jp"><code>現在担当者が対応中でございます。折り返しご連絡いたしますが、よろしいでしょうか。</code></span><br>
 Our specialist is currently with another guest. May I have us call you back?<br><br>
 <span class="keigo-jp"><code>ご連絡先のお電話番号をお伺いしてもよろしいでしょうか。</code></span><br>
@@ -83,7 +78,6 @@ We will call you within 30 minutes.
 ## The Principle of Responsibility Continuity
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Principle</span>
 The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback, the hotel must feel like a single, organized entity. The guest's request does not get "passed", it gets "coordinated."<br><br>
 Every transfer, hold, and callback is a test of whether the hotel operates as one system or as disconnected departments.
 </div>
@@ -91,7 +85,6 @@ Every transfer, hold, and callback is a test of whether the hotel operates as on
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Transfer, Hold, and Callback Phrases</span>
 <span class="keigo-jp"><code>〜へおつなぎいたします</code></span><br>
 I will connect you to 〜.<br><br>
 <span class="keigo-jp"><code>少々お待ちくださいませ</code></span><br>

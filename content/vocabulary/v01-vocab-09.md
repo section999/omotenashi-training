@@ -10,21 +10,38 @@ In the hierarchy of acknowledgement phrases, *kashikomarimashita* sits at the to
 
 The phrase is always in the past tense (*mashita*), which conveys immediate completion. A staff member using this phrase is not saying "I am receiving their request." They are saying "I have received it." That subtle distinction communicates attentiveness and resolve. The moment the guest speaks, the acknowledgement is already complete and action has begun
 
-| Japanese | Meaning |
-|---|---|
-| かしこまりました。ただいまお持ちいたします。<br><small>*Kashikomarimashita. Tadaima o-mochi itashimasu.*</small> | Certainly. I will bring it to you right now. |
-| かしこまりました。ご要望を承りました。<br><small>*Kashikomarimashita. Go-yōbō wo uketamawarimashita.*</small> | Certainly. I have received your request. |
-| かしこまりました。お部屋まで直ちにお届けいたします。<br><small>*Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.*</small> | Certainly. I will have it delivered to the room immediately. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>かしこまりました。ただいまお持ちいたします。</code></span><br>
+<em>Kashikomarimashita. Tadaima o-mochi itashimasu.</em><br>
+Certainly. I will bring it to you right now.
+<br><br>
+<span class="keigo-jp"><code>かしこまりました。ご要望を承りました。</code></span><br>
+<em>Kashikomarimashita. Go-yōbō wo uketamawarimashita.</em><br>
+Certainly. I have received your request.
+<br><br>
+<span class="keigo-jp"><code>かしこまりました。お部屋まで直ちにお届けいたします。</code></span><br>
+<em>Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.</em><br>
+Certainly. I will have it delivered to the room immediately.
+</div>
 
 ## Related Expressions
 
-- **承知いたしました (shōchi itashimashita)**: "Certainly / understood." Slightly less formal than *kashikomarimashita*, but still appropriate in most professional settings.
-- **わかりました (wakarimashita)**: "I understand." Neutral and colloquial. Not appropriate for guest-facing formal contexts.
-- **はい、かしこまりました (hai, kashikomarimashita)**: The *hai* prefix adds a beat of affirmation before the formal acknowledgement, and sounds particularly clean and confident.
+<div class="keigo-card blue">
+<span class="keigo-badge info">承知いたしました (shōchi itashimashita)</span> "Certainly / understood." Slightly less formal than *kashikomarimashita*, but still appropriate in most professional settings.
+<br><br>
+<span class="keigo-badge info">わかりました (wakarimashita)</span> "I understand." Neutral and colloquial. Not appropriate for guest-facing formal contexts.
+<br><br>
+<span class="keigo-badge info">はい、かしこまりました (hai, kashikomarimashita)</span> The *hai* prefix adds a beat of affirmation before the formal acknowledgement, and sounds particularly clean and confident.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is using *wakarimashita* in a formal hospitality context. It sounds like one is speaking to an equal, not serving a guest, and experienced guests in high-end settings will notice the register mismatch. A related mistake is saying *kashikomarimashita* and then pausing or carrying on with something unrelated. The phrase implies immediate, visible action. If there is a gap between the elevated language and what the guest sees, that gap erodes the trust the phrase was meant to build.
+</div>
 
 ---
 

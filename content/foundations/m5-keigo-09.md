@@ -11,7 +11,6 @@ Knowing keigo rules is one skill. Applying them instantly in the middle of a rea
 Every keigo choice comes down to one question: who is performing the action?
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Decision Sequence</span>
 <strong>Step 1:</strong> Identify the subject of the action.<br>
 Is it the guest? Is it the staff? Is it an object or a situation?<br><br>
 <strong>Step 2:</strong> Choose the keigo type.<br>
@@ -25,7 +24,6 @@ Then build the full sentence.
 ## Practice Set 1: Who Is Acting?
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Identify the Actor and Choose the Keigo Type</span>
 <strong>「お客様が食事をします」</strong><br>
 Actor: guest. Type needed: 尊敬語.<br>
 Correct: <span class="keigo-jp"><code>お客様がお食事を召し上がります。</code></span><br><br>
@@ -42,7 +40,6 @@ Correct: <span class="keigo-jp"><code>朝食は1階でございます。</code><
 When a third party (a colleague, a driver, another guest) is the subject, neither sonkeigo nor kenjogo is appropriate. Use standard polite language.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Third-Party Subjects</span>
 <strong>Referring to a colleague to the guest:</strong><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
 (Using sonkeigo for a colleague elevates them inappropriately)<br><br>
@@ -58,7 +55,6 @@ When a third party (a colleague, a driver, another guest) is the subject, neithe
 When referring to the guest's family, use sonkeigo because they are guests too, and their relationship with the guest extends the honorific context.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Guest's Family Members</span>
 <span class="keigo-jp"><code>ご家族様もいらっしゃいますか。</code></span><br>
 Will your family be joining you?<br><br>
 <span class="keigo-jp"><code>お子様はお召し上がりになりますか。</code></span><br>
@@ -71,7 +67,6 @@ Both ご家族様 and お子様 use honorific prefixes because they refer to peo
 Sometimes staff receive something from a guest (a form, a payment, a request). The humble verb いただく applies even when the physical action is the guest handing something over.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Staff Receives, Guest Gives</span>
 <span class="keigo-jp"><code>こちらの用紙にご記入いただけますでしょうか。</code></span><br>
 Could you fill in this form?<br>
 (Staff humbly receives the guest's completed form, いただく)<br><br>
@@ -86,7 +81,6 @@ The key: when the guest gives and the staff receives, the staff uses humble lang
 On the telephone, there is no visual confirmation of who is speaking. Keigo must be applied based on conversational role, not visual cues.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Telephone Subject Identification</span>
 When the caller says something: they are the subject. Apply sonkeigo to their action.<br>
 <span class="keigo-jp"><code>田中様がご予約なさっているとのことでございますね。</code></span><br>
 I understand you have a reservation, Mr./Ms. Tanaka.<br><br>
@@ -98,7 +92,6 @@ I will confirm that now. Please wait a moment.
 ## Rapid Judgment Practice
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Read Each Situation and Decide the Keigo Type</span>
 <strong>Situation A:</strong> The guest is walking to the elevator.<br>
 Guest is acting. 尊敬語. <span class="keigo-jp"><code>エレベーターへいらっしゃいますか。こちらでございます。ご案内いたします。</code></span><br>
 (いらっしゃいますか = 尊敬語 for the guest's movement; staff response follows in 丁寧語 + 謙譲語)<br><br>
@@ -113,7 +106,6 @@ Guest is acting. Receive it humbly. <span class="keigo-jp"><code>かしこまり
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Situational Judgment Quick Reference</span>
 Guest acts: 尊敬語 → <span class="keigo-jp"><code>いらっしゃいます / 召し上がります / なさいます</code></span><br>
 Staff acts: 謙譲語 → <span class="keigo-jp"><code>いたします / 参ります / 承ります</code></span><br>
 Fact/situation: 丁寧語 → <span class="keigo-jp"><code>でございます / ございます</code></span><br>

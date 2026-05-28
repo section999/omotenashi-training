@@ -9,7 +9,6 @@ Guests frequently contact hotels with questions before booking: room availabilit
 ## What This Email Must Accomplish
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Goals of an Inquiry Response</span>
 <strong>1. Acknowledge:</strong> Thank the guest for their inquiry immediately.<br>
 <strong>2. Answer:</strong> Provide clear, accurate information about what was asked.<br>
 <strong>3. Invite:</strong> Close with an offer for further questions and a gentle booking invitation if appropriate.
@@ -18,18 +17,15 @@ Guests frequently contact hotels with questions before booking: room availabilit
 ## Full Template: Availability Inquiry
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">件名 (Subject)</span>
 <span class="keigo-jp"><code>【お問い合わせへの回答】[Topic] について</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
 Thank you very much for your inquiry to our hotel on this occasion.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Answering the Question</span>
 <span class="keigo-jp"><code>ご質問いただきました[topic]についてご回答いたします。</code></span><br>
 I will answer your question regarding [topic].<br><br>
 <span class="keigo-jp"><code>[Answer in clear, organized form]</code></span><br><br>
@@ -41,7 +37,6 @@ If you have a preferred room type or number of guests, please let us know.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
 Please feel free to contact us if you have any other questions.<br><br>
 <span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております。</code></span><br>
@@ -53,7 +48,6 @@ We sincerely look forward to welcoming you.
 When a guest asks about special arrangements (accessibility, dietary needs, specific room requests):
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Special Request Response Body</span>
 <span class="keigo-jp"><code>ご要望の[specific request]につきましては、対応可能でございます。ご到着前にご担当者からご連絡差し上げます。</code></span><br>
 We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.<br><br>
 If not fully possible:<br>
@@ -64,7 +58,6 @@ Regarding your request for [specific request], we are currently limited to [limi
 ## Writing Principles for Inquiry Responses
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Inquiry Response Rules</span>
 <strong>Answer directly</strong><br>
 Do not bury the answer at the end. Lead with the answer, then provide supporting detail.<br><br>
 <strong>Match the question to the answer</strong><br>

@@ -7,20 +7,36 @@ title: 出口 (deguchi)
 
 In daily hospitality use, 出口 appears in sentences like 出口は右手にございます or ご利用後は出口にてスタッフがご案内いたします. Restaurant staff use it to guide departing guests toward the correct door, particularly when a large dining room has multiple exits. An important skill is pairing 出口 with clear directional language, a calm tone, and a specific landmark, so guests can move confidently without needing to ask again
 
-| Japanese | Meaning |
-|---|---|
-| 非常口の出口は右側です。ご確認いただけますようお願いいたします。<br><small>*Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*</small> | The emergency exit is on the right side. We ask that you please take note of it. |
-| ご宴会終了後、出口はこちらの扉からお進みください。<br><small>*Go-enkai shuuryou go, deguchi wa kochira no tobira kara osusumi kudasai.*</small> | After the banquet, please proceed toward the exit through this door. |
-| 駐車場の出口は建物を出て正面の信号をお渡りください。<br><small>*Chuushajou no deguchi wa tatemono o dete shoumen no shingou o owatari kudasai.*</small> | For the parking exit, please leave the building and cross the traffic light directly ahead. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>非常口の出口は右側です。ご確認いただけますようお願いいたします。</code></span><br>
+<em>Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.</em><br>
+The emergency exit is on the right side. We ask that you please take note of it.
+<br><br>
+<span class="keigo-jp"><code>ご宴会終了後、出口はこちらの扉からお進みください。</code></span><br>
+<em>Go-enkai shuuryou go, deguchi wa kochira no tobira kara osusumi kudasai.</em><br>
+After the banquet, please proceed toward the exit through this door.
+<br><br>
+<span class="keigo-jp"><code>駐車場の出口は建物を出て正面の信号をお渡りください。</code></span><br>
+<em>Chuushajou no deguchi wa tatemono o dete shoumen no shingou o owatari kudasai.</em><br>
+For the parking exit, please leave the building and cross the traffic light directly ahead.
+</div>
 
 ## Related Expressions
 
-- **入口 (iriguchi)**: The entrance, the direct counterpart to 出口. These two words are easy to mix up under pressure; a guest asking for the 出口 who is directed to the 入口 will loop back into the building rather than leaving, so staff should confirm which direction the guest is heading.
-- **非常口 (hijouguchi)**: The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff should know the difference and not direct guests to the 非常口 under normal circumstances.
+<div class="keigo-card blue">
+<span class="keigo-badge info">入口 (iriguchi)</span> The entrance, the direct counterpart to 出口. These two words are easy to mix up under pressure; a guest asking for the 出口 who is directed to the 入口 will loop back into the building rather than leaving, so staff should confirm which direction the guest is heading.
+<br><br>
+<span class="keigo-badge info">非常口 (hijouguchi)</span> The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff should know the difference and not direct guests to the 非常口 under normal circumstances.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is omitting the direction or landmark when saying 出口: telling a guest 出口はあちらです in a large building with multiple exits is often not enough and can cause them to wander. Another common mistake is confusing 出口 with 非常口 and using the emergency exit term in normal contexts, which can alarm guests unnecessarily. When a guest asks in English "Where is the exit?", staff should give a full sentence specifying direction, floor, or a visible landmark rather than defaulting to a vague gesture.
+</div>
 
 ---
 ## Quiz

@@ -14,10 +14,10 @@ Taking over is not always necessary. Being visibly available is often enough.
 
 ## Practical Standards for Guest-Facing Spaces
 
-- **Never criticise a colleague in front of a guest**, even gently. If a mistake occurred, correct it smoothly without attributing blame. "Please allow me to clarify..." rather than "My colleague was mistaken." The guest does not need to know who was at fault, they need the situation resolved.
-- **Never show frustration with a colleague**: sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism. Guests notice this immediately.
-- **Share workload fluidly**: experienced teams move without explicit instruction. If a guest is waiting, a table is uncleared, or a colleague is visibly stretched, act.
-- **Use internal language carefully**: conversations with colleagues within earshot of guests should be professional in both content and tone. Assume guests can hear more than might be expected.
+<div class="keigo-card blue">
+• **Never criticise a colleague in front of a guest**, even gently. If a mistake occurred, correct it smoothly without attributing blame. "Please allow me to clarify..." rather than "My colleague was mistaken." The guest does not need to know who was at fault, they need the situation resolved.<br><br><span class="keigo-badge info">Never show frustration with a colleague</span> sighing, eye-rolling, or impatient body language directed at a colleague while near guests is a serious breach of professionalism. Guests notice this immediately.<br><br><span class="keigo-badge info">Share workload fluidly</span> experienced teams move without explicit instruction. If a guest is waiting, a table is uncleared, or a colleague is visibly stretched, act.<br><br><span class="keigo-badge info">Use internal language carefully</span> conversations with colleagues within earshot of guests should be professional in both content and tone. Assume guests can hear more than might be expected.
+</div>
+
 
 ## The Back-of-House Standard
 

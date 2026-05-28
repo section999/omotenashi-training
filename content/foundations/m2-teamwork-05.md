@@ -10,10 +10,10 @@ A hospitality property operates continuously, but the people within it do not. S
 
 At the end of each shift, the outgoing team communicates the state of the property to the incoming team. A thorough mōshiokuri covers:
 
-- **Guest status**: Who has checked in, who is expected, who has special requirements or ongoing requests.
-- **Open issues**: Complaints not yet fully resolved, requests pending fulfilment, maintenance issues affecting guest areas.
-- **Notable interactions**: A guest who was unhappy, a VIP who requires extra attention, a first-time visitor who expressed interest in a particular experience.
-- **Operational notes**: Any changes to the day's service, a function in an event space, a menu item that is unavailable, a colleague who is absent.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Guest status</span> Who has checked in, who is expected, who has special requirements or ongoing requests.<br><br><span class="keigo-badge info">Open issues</span> Complaints not yet fully resolved, requests pending fulfilment, maintenance issues affecting guest areas.<br><br><span class="keigo-badge info">Notable interactions</span> A guest who was unhappy, a VIP who requires extra attention, a first-time visitor who expressed interest in a particular experience.<br><br><span class="keigo-badge info">Operational notes</span> Any changes to the day's service, a function in an event space, a menu item that is unavailable, a colleague who is absent.
+</div>
+
 
 ## The Standard for Written Communication
 

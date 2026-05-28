@@ -13,7 +13,6 @@ A hotel operates 24 hours a day with rotating shifts. No single staff member see
 The written record is called 申し送り (moushiokuri), sometimes translated as "shift notes" or "handover report." 申し送り is not just a log. It is a service-continuity document.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Core Purpose</span>
 The next shift must be able to serve every guest as if they themselves had been present since check-in.<br><br>
 Not approximately. Not mostly. Completely.
 </div>
@@ -23,7 +22,6 @@ Not approximately. Not mostly. Completely.
 Service failures caused by handover gaps are among the most damaging to guest satisfaction. They are also among the most preventable.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Consequences of Poor Handover</span>
 
 | Failure | Consequence |
 |---|---|
@@ -42,7 +40,6 @@ The worst outcome is a guest saying: "I already told someone this yesterday." Th
 In Japanese hotel culture, handover is not informational. It is a responsibility. Writing it carelessly, skipping sections, or leaving items unresolved before a shift ends reflects poorly on the staff member's professional judgment.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Handover Principle</span>
 Your shift ends when the next shift has everything they need. Not when the clock changes.
 </div>
 
@@ -51,7 +48,6 @@ Your shift ends when the next shift has everything they need. Not when the clock
 No matter how complex the shift was, the handover must answer three questions for the incoming team:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Three Questions</span>
 <strong>1. Who needs attention right now?</strong><br>
 VIP guests, guests with active complaints, guests with special needs.<br><br>
 <strong>2. What is unresolved?</strong><br>
@@ -63,7 +59,6 @@ Room changes, late check-outs, behavioral concerns, medical notes.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Handover Vocabulary</span>
 <span class="keigo-jp"><code>引き継ぎ</code></span> (hikitsugi), the handover process<br>
 <span class="keigo-jp"><code>申し送り</code></span> (moushiokuri), the written handover notes<br>
 <span class="keigo-jp"><code>対応中</code></span> (taiouchuu), currently being handled<br>

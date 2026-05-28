@@ -6,20 +6,36 @@ title: クレジットカード (credit card)
 クレジットカード is the standard Japanese term for a credit card, and it comes up throughout hotel payment procedures. At check-in, staff frequently request a credit card for room guarantee or pre-authorization, even when the guest intends to pay cash at check-out. This protects the hotel against incidentals such as minibar charges, room service, or damages. Knowing when and how to request a credit card without making the guest feel distrusted is a skill worth practising.
 
 In a hospitality context, front desk staff use クレジットカード in two distinct situations: at check-in to secure authorization (クレジットカードをお預かりできますか), and at check-out to process final payment (クレジットカードでのお支払いでよろしいでしょうか). When a guest asks which cards are accepted, be ready to name the accepted networks clearly: ご利用いただけるカードはVisa、Mastercard、JCBでございます. Responding fluently to these everyday scenarios is an indicator of professional competence
-| Japanese | Meaning |
-|---|---|
-| クレジットカードを拝見してもよろしいでしょうか。<br><small>*Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*</small> | May I take a look at your credit card? |
-| チェックイン時にクレジットカードをお預かりしております。<br><small>*Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.*</small> | We hold a credit card at the time of check-in. |
-| お支払いはクレジットカードでよろしいでしょうか。<br><small>*O-shiharai wa kurejitto kādo de yoroshii deshō ka.*</small> | Will credit card payment be acceptable? |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>クレジットカードを拝見してもよろしいでしょうか。</code></span><br>
+<em>Kurejitto kādo wo haiken shite mo yoroshii deshō ka.</em><br>
+May I take a look at your credit card?
+<br><br>
+<span class="keigo-jp"><code>チェックイン時にクレジットカードをお預かりしております。</code></span><br>
+<em>Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.</em><br>
+We hold a credit card at the time of check-in.
+<br><br>
+<span class="keigo-jp"><code>お支払いはクレジットカードでよろしいでしょうか。</code></span><br>
+<em>O-shiharai wa kurejitto kādo de yoroshii deshō ka.</em><br>
+Will credit card payment be acceptable?
+</div>
 
 ## Related Expressions
 
-- **デビットカード (debitto kādo)**: a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out.
-- **電子マネー (denshi manē)**: electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately.
+<div class="keigo-card blue">
+<span class="keigo-badge info">デビットカード (debitto kādo)</span> a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out.
+<br><br>
+<span class="keigo-badge info">電子マネー (denshi manē)</span> electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Reaching for 見る (miru) rather than 拝見する (haiken suru) when asking to examine a guest's card is a common register error. 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. A separate issue is saying カードください, which sounds like a demand with no context. Frame the request properly and explain why the card is needed. Before processing any card, staff should confirm the amount with the guest first: お支払い金額は〇〇円でよろしいでしょうか should come before any transaction.
+</div>
 
 ---
 

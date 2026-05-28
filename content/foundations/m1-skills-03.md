@@ -22,10 +22,10 @@ Hearing only the stated request is efficient. Hearing the implied context is car
 
 **3. Anticipate the next logical need.** After fulfilling the request, consider what naturally follows. Examples:
 
-- Extra pillows → "Would you also like an extra blanket?"
-- The bill → "Shall I arrange a taxi for you as well?"
-- Directions to the pharmacy → "Is there anything specific you're looking for? I may be able to check availability for you."
-- A replacement menu item due to an allergy → "I'll also let the kitchen know about the allergy so they can make sure none of the other courses contain it."
+<div class="keigo-card blue">
+• Extra pillows → "Would you also like an extra blanket?"<br>• The bill → "Shall I arrange a taxi for you as well?"<br>• Directions to the pharmacy → "Is there anything specific you're looking for? I may be able to check availability for you."<br>• A replacement menu item due to an allergy → "I'll also let the kitchen know about the allergy so they can make sure none of the other courses contain it."
+</div>
+
 
 ## Extension of Care vs. Upselling
 

@@ -10,21 +10,38 @@ This phrase is only half of the interaction. The other half is what happens duri
 
 The phrase is equally important in phone contexts. When placing a caller on hold, *shōshō o-machi kudasai* is the standard phrase before the hold begins. The same rule applies: return promptly, and open with *o-matase itashimashita* when staff picks up again.
 
-| Japanese | Meaning |
-|---|---|
-| 少々お待ちください。ただいまご確認いたします。<br><small>*Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.*</small> | Please wait just a moment. I will check on that right now. |
-| 恐れ入りますが、少々お待ちいただけますでしょうか。<br><small>*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*</small> | I'm sorry to trouble you, but could you wait just a moment? |
-| 大変お待たせいたしました。先ほどの件でございますが…<br><small>*Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…*</small> | Thank you very much for waiting. Regarding the matter from a moment ago… |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>少々お待ちください。ただいまご確認いたします。</code></span><br>
+<em>Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.</em><br>
+Please wait just a moment. I will check on that right now.
+<br><br>
+<span class="keigo-jp"><code>恐れ入りますが、少々お待ちいただけますでしょうか。</code></span><br>
+<em>Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.</em><br>
+I'm sorry to trouble you, but could you wait just a moment?
+<br><br>
+<span class="keigo-jp"><code>大変お待たせいたしました。先ほどの件でございますが…</code></span><br>
+<em>Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…</em><br>
+Thank you very much for waiting. Regarding the matter from a moment ago…
+</div>
 
 ## Related Expressions
 
-- **お待たせいたしました (o-matase itashimashita)**: "Thank you for waiting." Always say this when returning after asking a guest to wait. Skipping it leaves the interaction feeling incomplete.
-- **しばらくお待ちください (shibaraku o-machi kudasai)**: "Please wait a while." Use this when staff know the wait will be longer. *Shibaraku* implies noticeably more time than *shōshō*.
-- **只今お調べいたします (tadaima o-shirabe itashimasu)**: "I will look into that right now." Often paired with *shōshō o-machi kudasai* to explain what one is going off to do.
+<div class="keigo-card blue">
+<span class="keigo-badge info">お待たせいたしました (o-matase itashimashita)</span> "Thank you for waiting." Always say this when returning after asking a guest to wait. Skipping it leaves the interaction feeling incomplete.
+<br><br>
+<span class="keigo-badge info">しばらくお待ちください (shibaraku o-machi kudasai)</span> "Please wait a while." Use this when staff know the wait will be longer. *Shibaraku* implies noticeably more time than *shōshō*.
+<br><br>
+<span class="keigo-badge info">只今お調べいたします (tadaima o-shirabe itashimasu)</span> "I will look into that right now." Often paired with *shōshō o-machi kudasai* to explain what one is going off to do.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is asking a guest to wait and then not returning promptly, or returning without acknowledging them. The phrase creates an implicit contract, and staff should honour it by coming back quickly and by saying *o-matase itashimashita* every time. A second mistake is using *shibaraku* when staff means *shōshō*. Reaching for *shibaraku* thinking it sounds more polite is a misstep; if a staff member tells a guest "just a moment" and it takes ten minutes, expectations have been mismanaged. The word should match the reality of the wait.
+</div>
 
 ---
 

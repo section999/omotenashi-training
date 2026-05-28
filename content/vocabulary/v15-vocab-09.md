@@ -7,20 +7,36 @@ title: 荷物 (nimotsu)
 
 Knowing the related services is just as important as knowing the word. Luggage storage between check-out and departure, forwarding bags to the next hotel, handling fragile or oversized items: all of these fall under the umbrella of 荷物 care. If a guest reports missing or damaged 荷物, staff should stay calm, apologise sincerely, and move directly into action: check storage records, review the log, and loop in a supervisor if needed. A common error is to underestimate how serious a missing bag situation feels to the guest. Accurate labelling with name and room number from the start prevents almost all of these moments.
 
-| Japanese | Meaning |
-|---|---|
-| お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。<br><small>*O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*</small> | We will hold your luggage here. We will bring it to the room as soon as it is ready. |
-| チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。<br><small>*Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.*</small> | Even after check-out, we can hold your luggage at the front desk until your departure. |
-| お荷物の中に壊れやすいものはございますか？特別に対応いたします。<br><small>*O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*</small> | Are there any fragile items in your luggage? We will handle them with special care. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。</code></span><br>
+<em>O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.</em><br>
+We will hold your luggage here. We will bring it to the room as soon as it is ready.
+<br><br>
+<span class="keigo-jp"><code>チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。</code></span><br>
+<em>Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.</em><br>
+Even after check-out, we can hold your luggage at the front desk until your departure.
+<br><br>
+<span class="keigo-jp"><code>お荷物の中に壊れやすいものはございますか？特別に対応いたします。</code></span><br>
+<em>O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.</em><br>
+Are there any fragile items in your luggage? We will handle them with special care.
+</div>
 
 ## Related Expressions
 
-- **手荷物 (tenimotsu)**: hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over.
-- **荷物預かり (nimotsu azukari)**: the luggage storage service itself; this is the formal service name staff will use when a guest wants to leave their bags temporarily in the hotel's care.
+<div class="keigo-card blue">
+<span class="keigo-badge info">手荷物 (tenimotsu)</span> hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over.
+<br><br>
+<span class="keigo-badge info">荷物預かり (nimotsu azukari)</span> the luggage storage service itself; this is the formal service name staff will use when a guest wants to leave their bags temporarily in the hotel's care.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someyour bag without a word can come across as intrusive rather than helpful.
+</div>
 
 ---
 

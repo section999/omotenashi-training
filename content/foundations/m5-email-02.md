@@ -11,7 +11,6 @@ The opening line of a hotel email carries two messages simultaneously: what you 
 Hotel email openings fall into three relationship categories. Before writing any email, identify which category the guest belongs to.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Three Guest Relationship Levels</span>
 <span class="keigo-badge info">First-Time Guest</span> No prior relationship. New booking, first inquiry, or first contact. The opening must close the gap with warmth and genuine welcome.<br><br>
 <span class="keigo-badge info">Repeat Guest</span> The guest has stayed before or has an ongoing relationship with the hotel. The opening must acknowledge this history explicitly.<br><br>
 <span class="keigo-badge info">VIP / Corporate / Long-Term</span> The guest has elevated status, a long history, or a formal business relationship. The opening requires refined language and sometimes personalization.
@@ -20,7 +19,6 @@ Hotel email openings fall into three relationship categories. Before writing any
 ## Opening for First-Time Guests
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">First-Time Guest Opening</span>
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for making a reservation on this occasion.<br><br>
 <strong>Key phrase: この度は</strong><br>
@@ -33,7 +31,6 @@ Thank you very much for reaching out on this occasion.
 ## Opening for Repeat Guests
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Repeat Guest Opening</span>
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
 Thank you for your continued support.<br><br>
 <strong>Key phrase: いつもお世話になっております</strong><br>
@@ -46,7 +43,6 @@ It has been a while. Thank you very much for booking with us again on this occas
 ## Opening for VIP or Long-Term Guests
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">VIP / Long-Term Relationship Opening</span>
 <span class="keigo-jp"><code>平素より格別のご愛顧を賜り、誠にありがとうございます。</code></span><br>
 Thank you sincerely for your continued and generous patronage.<br><br>
 <strong>Key phrases:</strong><br>
@@ -77,7 +73,6 @@ Using the wrong opening communicates either carelessness or system automation. B
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening Line Quick Reference</span>
 <span class="keigo-badge info">First-time</span> <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span><br>
 <span class="keigo-badge info">Repeat</span> <span class="keigo-jp"><code>いつもお世話になっております</code></span><br>
 <span class="keigo-badge info">Long absence</span> <span class="keigo-jp"><code>ご無沙汰しております。この度は、またご予約いただき、誠にありがとうございます</code></span><br>

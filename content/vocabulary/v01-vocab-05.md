@@ -10,21 +10,38 @@ In professional hospitality, *arigatō gozaimasu* should sound like it means som
 
 Two important distinctions: *arigatō gozaimasu* (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot say why
 
-| Japanese | Meaning |
-|---|---|
-| ありがとうございます。ただいまお部屋にご案内いたします。<br><small>*Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*</small> | Thank you. I will show you to the room now. |
-| ご予約ありがとうございます。心よりお待ち申し上げております。<br><small>*Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.*</small> | Thank you for your reservation. We look forward to welcoming you. |
-| この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。<br><small>*Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.*</small> | Thank you very much for staying with us. We look forward to welcoming you again. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ありがとうございます。ただいまお部屋にご案内いたします。</code></span><br>
+<em>Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.</em><br>
+Thank you. I will show you to the room now.
+<br><br>
+<span class="keigo-jp"><code>ご予約ありがとうございます。心よりお待ち申し上げております。</code></span><br>
+<em>Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.</em><br>
+Thank you for your reservation. We look forward to welcoming you.
+<br><br>
+<span class="keigo-jp"><code>この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。</code></span><br>
+<em>Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.</em><br>
+Thank you very much for staying with us. We look forward to welcoming you again.
+</div>
 
 ## Related Expressions
 
-- **ありがとうございました (arigatō gozaimashita)**: Past tense; used at the conclusion of an interaction or stay
-- **大変ありがとうございます (taihen arigatō gozaimasu)**: "Thank you very much": slightly more emphatic
-- **恐れ入ります (osore irimasu)**: A more formal, humble expression of appreciation
+<div class="keigo-card blue">
+<span class="keigo-badge info">ありがとうございました (arigatō gozaimashita)</span> Past tense; used at the conclusion of an interaction or stay
+<br><br>
+<span class="keigo-badge info">大変ありがとうございます (taihen arigatō gozaimasu)</span> "Thank you very much": slightly more emphatic
+<br><br>
+<span class="keigo-badge info">恐れ入ります (osore irimasu)</span> A more formal, humble expression of appreciation
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is using the casual *arigatō* instead of *arigatō gozaimasu* in a professional setting. A subtler error is using the present form *gozaimasu* when the past form *gozaimashita* is needed, for example, at a guest's departure after a multi-night stay. The past form acknowledges the completed experience; the present form sounds like one is thanking them for something still in progress. It is a small detail, but guests who know Japanese will notice the mismatch.
+</div>
 
 ---
 

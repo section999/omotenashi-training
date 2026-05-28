@@ -10,8 +10,10 @@ In Japanese gift culture, how a gift is presented is as important as what it con
 
 A noshi is the decorative emblem attached to the front of a gift box. Originally a strip of dried abalone, it has long since become a printed paper symbol. Noshi paper (*noshigami*) carries two written elements:
 
-- **Uwagaki (上書き)**: the purpose or occasion of the gift, written above the ribbon pattern (e.g., *御礼* for gratitude, *御中元* for a mid-year gift)
-- **Shasho (差出人)**: the giver's name, written below the ribbon pattern
+<div class="keigo-card blue">
+<span class="keigo-badge info">Uwagaki (上書き)</span> the purpose or occasion of the gift, written above the ribbon pattern (e.g., *御礼* for gratitude, *御中元* for a mid-year gift)<br><br><span class="keigo-badge info">Shasho (差出人)</span> the giver's name, written below the ribbon pattern
+</div>
+
 
 The positions are fixed: occasion above, name below.
 
@@ -23,9 +25,10 @@ A furoshiki is a square cloth used to wrap and carry items. It is an elegant, su
 
 When presenting a gift:
 
-- Present with both hands and a slight bow
-- Extend the gift calmly at chest height, do not thrust it forward
-- In most traditional contexts, the recipient should not open the gift immediately, which avoids any awkwardness about the value received
+<div class="keigo-card blue">
+• Present with both hands and a slight bow<br>• Extend the gift calmly at chest height, do not thrust it forward<br>• In most traditional contexts, the recipient should not open the gift immediately, which avoids any awkwardness about the value received
+</div>
+
 
 ## Receiving Gifts from Guests
 

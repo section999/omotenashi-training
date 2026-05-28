@@ -12,8 +12,10 @@ The conventional phrase when presenting a gift is **"つまらないものです
 
 Alternative phrases include:
 
-- *"心ばかりのものですが"*, "It is just a small token of my feelings."
-- *"ほんの気持ちですが"*, "It is just a small thought."
+<div class="keigo-card blue">
+• *"心ばかりのものですが"*, "It is just a small token of my feelings."<br>• *"ほんの気持ちですが"*, "It is just a small thought."
+</div>
+
 
 ## Receiving a Gift
 
@@ -27,9 +29,10 @@ In traditional Japanese practice, gifts are not opened in front of the giver. Th
 
 The number of items in a gift set carries meaning:
 
-- Avoid sets of four (四, *shi*), as the pronunciation is associated with the word for death
-- Avoid sets of nine (九, *ku*), associated with the word for suffering
-- Sets of three, five, or seven are considered auspicious
+<div class="keigo-card blue">
+• Avoid sets of four (四, *shi*), as the pronunciation is associated with the word for death<br>• Avoid sets of nine (九, *ku*), associated with the word for suffering<br>• Sets of three, five, or seven are considered auspicious
+</div>
+
 
 ---
 

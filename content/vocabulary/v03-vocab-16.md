@@ -6,20 +6,36 @@ title: 浴室 (yokushitsu)
 浴室 (浴 = bathing, 室 = room) is a Sino-Japanese compound that refers to the dedicated bathing space within a guest room or facility. In Japanese hospitality culture, the bathing experience holds significance, particularly in ryokan, where the 浴室 may house both a western-style shower and a traditional soaking tub, often made of hinoki (cypress wood) or stone. Staff explaining the 浴室 are expected to highlight all available features, from the bath controls to toiletries, conveying a sense of attentive care that reflects the omotenashi spirit. Knowing this term allows staff to speak about bathing facilities with precision and professionalism.
 
 During room orientation, staff commonly say 「お部屋の浴室はこちらでございます」 (the bathroom is here) or describe specific amenities: 「浴室にはバスタブとシャワーの両方がございます」 (the bathroom has both a bathtub and shower). At ryokan with private in-room baths, staff may also explain the filling procedure for the bath. In hotels, the term comes up when directing guests, describing cleanliness standards, or explaining housekeeping schedules
-| Japanese | Meaning |
-|---|---|
-| お部屋の浴室は広くて清潔でございます。<br><small>*Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.*</small> | The bathroom in the room is spacious and clean. |
-| 浴室のご使用方法についてご説明いたします。<br><small>*Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.*</small> | I will explain how to use the bathroom. |
-| 浴室にはバスタオルとアメニティをご用意しております。<br><small>*Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.*</small> | Bath towels and amenities are prepared in the bathroom. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋の浴室は広くて清潔でございます。</code></span><br>
+<em>Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.</em><br>
+The bathroom in the room is spacious and clean.
+<br><br>
+<span class="keigo-jp"><code>浴室のご使用方法についてご説明いたします。</code></span><br>
+<em>Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.</em><br>
+I will explain how to use the bathroom.
+<br><br>
+<span class="keigo-jp"><code>浴室にはバスタオルとアメニティをご用意しております。</code></span><br>
+<em>Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.</em><br>
+Bath towels and amenities are prepared in the bathroom.
+</div>
 
 ## Related Expressions
 
-- **お風呂場 (ofuro ba)**: A more casual, domestic expression for the bathing room. While meaning is similar, お風呂場 would sound informal in a hotel setting; staff should use 浴室 in guest-facing speech and written materials.
-- **シャワー (shawaa)**: Refers specifically to the shower appliance or the act of showering, as opposed to 浴室, which names the entire bathing room. A guest might ask about シャワー use, while staff describe the overall 浴室 during orientation.
+<div class="keigo-card blue">
+<span class="keigo-badge info">お風呂場 (ofuro ba)</span> A more casual, domestic expression for the bathing room. While meaning is similar, お風呂場 would sound informal in a hotel setting; staff should use 浴室 in guest-facing speech and written materials.
+<br><br>
+<span class="keigo-badge info">シャワー (shawaa)</span> Refers specifically to the shower appliance or the act of showering, as opposed to 浴室, which names the entire bathing room. A guest might ask about シャワー use, while staff describe the overall 浴室 during orientation.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is using お風呂場 instead of 浴室 in formal hotel speech. Both refer to a bathing room, but お風呂場 sounds domestic and casual. 浴室 (bathing room) should not be confused with 洗面所 (washroom/sink area) or トイレ (toilet). In many Japanese hotel rooms these are separate spaces, and using the wrong term can misdirect a guest entirely. The most frequently overlooked register error is omitting ございます when describing the 浴室 to guests, a slip in formality that is noticeable in higher-end properties.
+</div>
 
 ---
 

@@ -7,21 +7,37 @@ title: 曲がる (magaru)
 
 Practically, 曲がる is used constantly at the front desk when giving walking directions, in lobby guidance when escorting guests partway to their destination, and in verbal route descriptions for nearby restaurants or attractions. The pattern [landmark] + を/で + [direction] + に曲がってください is the standard construction: ロビーを出て右に曲がってください, 次の角を左に曲がってください. When there are multiple turns, numbering them clearly (最初の角を右に、次に左に) prevents confusion
 
-| Japanese | Meaning |
-|---|---|
-| 二つ目の交差点で左に曲がってください。<br><small>*Futatsu-me no kousaten de hidari ni magatte kudasai.*</small> | Please turn left at the second intersection. |
-| エレベーターを出て右に曲がると、お部屋がございます。<br><small>*Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.*</small> | When you exit the elevator and turn right, one will find the room. |
-| ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。<br><small>*Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.*</small> | Exit the lobby and turn right at the first corner. The station is straight from there. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>二つ目の交差点で左に曲がってください。</code></span><br>
+<em>Futatsu-me no kousaten de hidari ni magatte kudasai.</em><br>
+Please turn left at the second intersection.
+<br><br>
+<span class="keigo-jp"><code>エレベーターを出て右に曲がると、お部屋がございます。</code></span><br>
+<em>Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.</em><br>
+When you exit the elevator and turn right, one will find the room.
+<br><br>
+<span class="keigo-jp"><code>ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。</code></span><br>
+<em>Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.</em><br>
+Exit the lobby and turn right at the first corner. The station is straight from there.
+</div>
 
 ## Related Expressions
 
-- **右折する / 左折する (usetsu suru / sasetsu suru)**: formal verbs for "to turn right / left," more common in written instructions, driving directions, or announcements; too stiff for direct conversational guidance in a hotel corridor
-- **折れる (oreru)**: informal way to say "to turn" at a corner; not recommended in formal hospitality settings, as it lacks the respectful register that 曲がってください carries
+<div class="keigo-card blue">
+<span class="keigo-badge info">右折する / 左折する (usetsu suru / sasetsu suru)</span> formal verbs for "to turn right / left," more common in written instructions, driving directions, or announcements; too stiff for direct conversational guidance in a hotel corridor
+<br><br>
+<span class="keigo-badge info">折れる (oreru)</span> informal way to say "to turn" at a corner; not recommended in formal hospitality settings, as it lacks the respectful register that 曲がってください carries
+</div>
 
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is giving the direction (右に曲がる) without specifying the reference point, leaving guests unsure of exactly where to turn. Naming the corner, door, or landmark is recommended. A common error is using the dictionary form 曲がる directly as a command, which sounds abrupt. The correct polite form is 曲がってください or 曲がっていただけますか. Confusing 曲がる with 渡る (to cross) is a frequent mistake at intersections, where both actions may occur in sequence.
+</div>
 
 ---
 

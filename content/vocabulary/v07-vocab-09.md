@@ -7,20 +7,36 @@ title: 開店 (kaiten)
 
 The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the mechanical act of unlocking a door. It conveys readiness, presentation, and full preparedness to receive guests at the highest standard. A restaurant that 開店 at 7 a.m. in a top hotel is expected to be fully staffed, lit, and arranged at exactly that moment, not still setting up. Staff announcing opening times to guests are implicitly vouching for this standard of readiness. Knowing the practical nuances, for example, that hot dishes may not be available until 7:30 a.m. even though the room opens at 7 a.m., makes communication more useful and trustworthy
 
-| Japanese | Meaning |
-|---|---|
-| レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。<br><small>*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*</small> | The restaurant opens at 7 o'clock. We hope you enjoy your breakfast. |
-| ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。<br><small>*Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*</small> | The current time is 6:45, and the restaurant will open in fifteen minutes. |
-| ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。<br><small>*Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*</small> | The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。</code></span><br>
+<em>Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.</em><br>
+The restaurant opens at 7 o'clock. We hope you enjoy your breakfast.
+<br><br>
+<span class="keigo-jp"><code>ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。</code></span><br>
+<em>Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.</em><br>
+The current time is 6:45, and the restaurant will open in fifteen minutes.
+<br><br>
+<span class="keigo-jp"><code>ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。</code></span><br>
+<em>Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.</em><br>
+The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure.
+</div>
 
 ## Related Expressions
 
-- **閉店 (heiten)**: closing; the opposite of 開店; equally important to communicate so guests know the end of service and can plan their last orders or final visits accordingly.
-- **営業時間 (eigyou jikan)**: business hours; the full time window that encompasses both 開店 and 閉店; when a guest asks a general question about a facility's hours, providing the entire 営業時間 is more complete than stating only the opening time.
+<div class="keigo-card blue">
+<span class="keigo-badge info">閉店 (heiten)</span> closing; the opposite of 開店; equally important to communicate so guests know the end of service and can plan their last orders or final visits accordingly.
+<br><br>
+<span class="keigo-badge info">営業時間 (eigyou jikan)</span> business hours; the full time window that encompasses both 開店 and 閉店; when a guest asks a general question about a facility's hours, providing the entire 営業時間 is more complete than stating only the opening time.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Giving the opening time correctly but omitting ラストオーダー (last order) or 閉店 (closing) leaves the guest with an incomplete picture of the service window. Providing the full context is recommended. Using the plain form 「開店します」 rather than 「開店いたします」 in formal guest communication is a register shortfall. The humble いたします is what the situation requires. If the current day's opening time is uncertain, particularly after a seasonal or event-related schedule change, confirming with a supervisor or posted signage before advising a guest is recommended. Incorrect information undermines credibility.
+</div>
 
 ---
 

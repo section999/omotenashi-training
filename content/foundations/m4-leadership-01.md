@@ -16,10 +16,10 @@ This means senior staff are teaching constantly, even when they are not trying t
 
 In practice, leading by example in hospitality means:
 
-- Maintaining standards when it is inconvenient. The leader who greets every guest with full presence at the end of a twelve-hour shift sets the bar for what professional conduct actually means.
-- Showing care for colleagues as well as guests. The leader who notices when a junior colleague is struggling and quietly offers support builds a culture of mutual care.
-- Being the first to acknowledge a mistake. In a culture where saving face matters, a senior staff member who takes responsibility without deflection gives junior staff permission to do the same.
-- Never allowing personal mood to show on the floor. Whatever is happening personally or professionally, a leader brings full composure to every guest interaction.
+<div class="keigo-card blue">
+• Maintaining standards when it is inconvenient. The leader who greets every guest with full presence at the end of a twelve-hour shift sets the bar for what professional conduct actually means.<br>• Showing care for colleagues as well as guests. The leader who notices when a junior colleague is struggling and quietly offers support builds a culture of mutual care.<br>• Being the first to acknowledge a mistake. In a culture where saving face matters, a senior staff member who takes responsibility without deflection gives junior staff permission to do the same.<br>• Never allowing personal mood to show on the floor. Whatever is happening personally or professionally, a leader brings full composure to every guest interaction.
+</div>
+
 
 ## The Ripple Effect
 

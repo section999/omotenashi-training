@@ -18,31 +18,17 @@ One famous idea connected to omotenashi is that the guest should feel cared for 
 
 ## Three Defining Qualities of Omotenashi
 
-### 1. Anticipation
 
-Omotenashi involves recognising a guest's needs before they are spoken.
-
-Examples:
-
-- Offering a warm towel to a tired traveller
-- Preparing extra umbrellas on a rainy day
-- Adjusting a room to a returning guest's preferred temperature before arrival
-
-The guest may never request these things directly, but thoughtful preparation improves comfort and reduces stress.
-
-### 2. Sincerity
-
-Actions in omotenashi are guided by genuine care and attentiveness.
-
-Guests can usually sense the difference between a scripted welcome and a welcome that feels warm and personal. Tone of voice, eye contact, timing, and small details all influence how sincere hospitality feels.
-
-### 3. Invisibility of Effort
-
-Good omotenashi feels smooth and natural.
-
-Even when staff members make significant preparations behind the scenes, the experience should remain comfortable and effortless for the guest. Service should not feel mechanical or overly performative.
-
-For example, a guest may arrive to find that dietary preferences have already been communicated to the restaurant, luggage has been quietly delivered to the room, or transportation arrangements are already prepared. The guest experiences ease and comfort without needing to think about the coordination behind it.
+<div class="keigo-card blue">
+<span class="keigo-badge info">1. Anticipation</span><br>
+Omotenashi involves recognising a guest's needs before they are spoken.<br>• Offering a warm towel to a tired traveller<br>• Preparing extra umbrellas on a rainy day<br>• Adjusting a room to a returning guest's preferred temperature before arrival<br>The guest may never request these things directly, but thoughtful preparation improves comfort and reduces stress.
+<br><br>
+<span class="keigo-badge info">2. Sincerity</span><br>
+Actions in omotenashi are guided by genuine care and attentiveness.<br>Guests can usually sense the difference between a scripted welcome and a welcome that feels warm and personal. Tone of voice, eye contact, timing, and small details all influence how sincere hospitality feels.
+<br><br>
+<span class="keigo-badge info">3. Invisibility of Effort</span><br>
+Good omotenashi feels smooth and natural.<br>Even when staff members make significant preparations behind the scenes, the experience should remain comfortable and effortless for the guest. Service should not feel mechanical or overly performative.<br>For example, a guest may arrive to find that dietary preferences have already been communicated to the restaurant, luggage has been quietly delivered to the room, or transportation arrangements are already prepared. The guest experiences ease and comfort without needing to think about the coordination behind it.
+</div>
 
 ## Omotenashi as a Team Culture
 
@@ -50,10 +36,10 @@ Omotenashi is not limited to front desk or guest-facing staff. It is a shared ph
 
 Examples include:
 
-- a chef selecting ingredients at their seasonal peak
-- a housekeeper carefully arranging the room
-- an engineer ensuring facilities operate smoothly
-- a reservations coordinator communicating guest preferences before arrival
+<div class="keigo-card blue">
+• a chef selecting ingredients at their seasonal peak<br>• a housekeeper carefully arranging the room<br>• an engineer ensuring facilities operate smoothly<br>• a reservations coordinator communicating guest preferences before arrival
+</div>
+
 
 Each role contributes to the overall guest experience. Even work that guests never see can strongly affect how welcomed and comfortable they feel.
 

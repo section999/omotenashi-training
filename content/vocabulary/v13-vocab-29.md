@@ -6,20 +6,36 @@ title: 改善 (kaizen)
 改善 reads as "change for the better" and is one of the most notable internationally recognised concepts to emerge from Japanese management philosophy. In the hospitality context, it refers to the ongoing, systematic effort to refine service methods, eliminate inefficiencies, and elevate the guest experience through small, incremental improvements rather than radical overhauls. Every department, from housekeeping and front desk to kitchen and concierge, is expected to participate in the 改善 process, and staff at all levels are encouraged to notice problems and propose solutions. This culture of continuous improvement ensures that service quality does not stagnate but evolves with guest expectations.
 
 改善 activities may be as simple as repositioning a towel storage rack to reduce the number of steps a housekeeper takes per room, or as significant as redesigning the check-in sequence to eliminate wait times. Many hotels hold regular 改善ミーティング (kaizen miitingu, improvement meetings) where staff share observations from their daily work. Proposals that are adopted are often acknowledged publicly to reinforce the value of participation. The language around 改善 is important: rather than framing issues as failures, Japanese hospitality culture uses 改善 to frame them as opportunities, which preserves team morale and encourages open communication
-| Japanese | Meaning |
-|---|---|
-| お客様からのご意見をもとに、フロントサービスの改善を進めております。<br><small>*Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*</small> | We are advancing improvements to our front desk service based on feedback from guests. |
-| 先月の改善提案が採用され、清掃時間が15分短縮されました。<br><small>*Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.*</small> | Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes. |
-| 小さな改善の積み重ねが、最終的に大きな品質向上につながります。<br><small>*Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.*</small> | The accumulation of small improvements ultimately leads to significant quality enhancement. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様からのご意見をもとに、フロントサービスの改善を進めております。</code></span><br>
+<em>Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.</em><br>
+We are advancing improvements to our front desk service based on feedback from guests.
+<br><br>
+<span class="keigo-jp"><code>先月の改善提案が採用され、清掃時間が15分短縮されました。</code></span><br>
+<em>Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.</em><br>
+Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes.
+<br><br>
+<span class="keigo-jp"><code>小さな改善の積み重ねが、最終的に大きな品質向上につながります。</code></span><br>
+<em>Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.</em><br>
+The accumulation of small improvements ultimately leads to significant quality enhancement.
+</div>
 
 ## Related Expressions
 
-- **業務改善 (gyoumu kaizen)**: operational improvement; the specific application of 改善 to work processes and administrative systems, often the focus of formal kaizen projects in hotel management
-- **PDCAサイクル (PDCA saikuru)**: the Plan-Do-Check-Act cycle; the structured methodology most commonly used to drive 改善 in Japanese organisations, ensuring improvements are tested, evaluated, and standardised
+<div class="keigo-card blue">
+<span class="keigo-badge info">業務改善 (gyoumu kaizen)</span> operational improvement; the specific application of 改善 to work processes and administrative systems, often the focus of formal kaizen projects in hotel management
+<br><br>
+<span class="keigo-badge info">PDCAサイクル (PDCA saikuru)</span> the Plan-Do-Check-Act cycle; the structured methodology most commonly used to drive 改善 in Japanese organisations, ensuring improvements are tested, evaluated, and standardised
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to assume 改善 is synonymous with 修理 (shuuri, repair) or 修正 (shuusei, correction), but 改善 implies proactive, forward-looking enhancement rather than fixing something that is broken. Another frequent error is treating 改善 as a one-time event: in Japanese workplace culture it is understood as continuous and never truly complete. When proposing a 改善, staff should use the polite form 「改善案を提案させていただきます」 (I would like to propose an improvement idea) rather than more direct phrasing, as the humble register shows respect for the team and decision-makers.
+</div>
 
 ---
 

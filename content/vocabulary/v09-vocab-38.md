@@ -6,20 +6,36 @@ title: 受付時間 (uketsuke jikan)
 受付時間 (uketsuke jikan) joins 受付 (uketsuke, reception / front desk) with 時間 (jikan, time / hours), meaning "reception hours" -- the window during which the front desk is staffed and available to help guests. Smaller Japanese properties like ryokan, boutique hotels, and budget accommodations often operate with limited 受付時間, while larger hotels may maintain a front desk around the clock but with reduced overnight staffing. Communicating 受付時間 clearly is a basic responsibility.
 
 In a hospitality context, a complete answer to a question about 受付時間 has two parts: the actual hours, and what happens outside them. Stating a closing time without explaining the after-hours alternative leaves guests feeling stranded, especially first-time visitors who may not know about intercom systems or emergency contacts. The standard model is 受付時間は〇時から〇時でございます。夜間はインターホンにてご対応いたします, which provides the necessary information and reassures the guest that support is available.
-| Japanese | Meaning |
-|---|---|
-| 受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。<br><small>*Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.*</small> | Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please use the intercom. |
-| ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。<br><small>*Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*</small> | If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements. |
-| 受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。<br><small>*Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*</small> | Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。</code></span><br>
+<em>Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.</em><br>
+Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please use the intercom.
+<br><br>
+<span class="keigo-jp"><code>ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。</code></span><br>
+<em>Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.</em><br>
+If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements.
+<br><br>
+<span class="keigo-jp"><code>受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。</code></span><br>
+<em>Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.</em><br>
+Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours.
+</div>
 
 ## Related Expressions
 
-- **チェックイン時間 (chekkuin jikan)**: check-in time; this is when rooms become available for occupancy, which is different from when the desk itself is staffed. These two concepts should be kept separate.
-- **夜間対応 (yakan taiou)**: after-hours response; the protocol for handling guest needs once the official 受付時間 has ended. This should be mentioned alongside 受付時間.
+<div class="keigo-card blue">
+<span class="keigo-badge info">チェックイン時間 (chekkuin jikan)</span> check-in time; this is when rooms become available for occupancy, which is different from when the desk itself is staffed. These two concepts should be kept separate.
+<br><br>
+<span class="keigo-badge info">夜間対応 (yakan taiou)</span> after-hours response; the protocol for handling guest needs once the official 受付時間 has ended. This should be mentioned alongside 受付時間.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after; guests who arrive at midnight and do not know about the intercom or a nighttime phone number may feel abandoned. Even when hours are communicated correctly, staff should be aware of holiday periods and special events when actual staffing may differ from the posted standard. Staff should verify that the hours given to a guest match the schedule for their specific dates of stay.
+</div>
 
 ---
 ## Quiz

@@ -103,7 +103,6 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Acknowledgment Register Comparison</span>
 
 | Expression | Register | When to Use |
 |---|---|---|
@@ -122,7 +121,6 @@ Certainly. I will confirm that right now.
 All five errors have the same root cause: reverting to the language that feels instinctive rather than applying the trained hotel standard.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Why These Errors Persist</span>
 Errors happen most often when staff are:<br>
 - Tired or operating under stress<br>
 - Handling an unexpected situation for the first time<br>
@@ -134,7 +132,6 @@ The solution is not more vocabulary. It is enough repetition that the hotel form
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Corrected Forms to Memorize</span>
 <span class="keigo-badge good">Guest eats</span> <span class="keigo-jp"><code>召し上がります</code></span> (not 食べます)<br>
 <span class="keigo-badge good">Staff guides</span> <span class="keigo-jp"><code>ご案内いたします</code></span> (not 案内します)<br>
 <span class="keigo-badge good">Colleague is here</span> <span class="keigo-jp"><code>担当者がおります</code></span> (not いらっしゃいます)<br>

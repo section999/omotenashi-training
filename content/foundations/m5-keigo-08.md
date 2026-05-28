@@ -11,7 +11,6 @@ While the core rules of keigo are consistent, each department has its own set of
 The front desk requires the widest keigo range. Staff must handle arrivals, identity confirmations, reservation management, problem-solving, and farewells, all in rapid succession.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Front Desk Core Phrases</span>
 <span class="keigo-jp"><code>いらっしゃいませ。</code></span><br>
 Welcome.<br><br>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span><br>
@@ -31,7 +30,6 @@ We look forward to your next visit.
 Restaurant service requires precise keigo for seating, taking orders, presenting food, and handling the bill. The staff frequently uses sonkeigo for the guest's eating and drinking actions.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Dining Service Core Phrases</span>
 <span class="keigo-jp"><code>何名様でいらっしゃいますか。</code></span><br>
 How many in your party?<br><br>
 <span class="keigo-jp"><code>こちらのお席へどうぞ。</code></span><br>
@@ -51,7 +49,6 @@ Here is your bill.
 The concierge role combines information delivery with physical service. Keigo here emphasizes readiness to assist and the humble offering of services.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Concierge Core Phrases</span>
 <span class="keigo-jp"><code>お荷物をお持ちいたします。</code></span><br>
 I will carry your luggage.<br><br>
 <span class="keigo-jp"><code>お荷物はお預かりいたします。</code></span><br>
@@ -69,7 +66,6 @@ Please ask us anytime if you have any questions.
 Housekeeping frequently operates without direct guest interaction, but when communication is needed, it requires clear keigo for entering rooms, handling requests, and reporting.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Housekeeping Core Phrases</span>
 <span class="keigo-jp"><code>ハウスキーピングでございます。お部屋のお掃除をさせていただいてもよろしいでしょうか。</code></span><br>
 This is housekeeping. May we clean your room?<br><br>
 <span class="keigo-jp"><code>ご不便をおかけいたしました。大変申し訳ございません。</code></span><br>
@@ -85,7 +81,6 @@ I have come to deliver the items you requested.
 When transferring or routing calls between departments, a clear and consistent keigo structure prevents confusion and projects professionalism.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Internal Transfer Phrases</span>
 <span class="keigo-jp"><code>お電話ありがとうございます。[Hotel name]でございます。</code></span><br>
 Thank you for calling. This is [Hotel name].<br><br>
 <span class="keigo-jp"><code>ただいま担当部署におつなぎいたします。少々お待ちくださいませ。</code></span><br>
@@ -97,7 +92,6 @@ Thank you for waiting.
 ## Comparing Department Priorities
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Keigo Focus by Department</span>
 
 | Department | Primary Keigo Challenge | Key Phrases |
 |---|---|---|
@@ -112,7 +106,6 @@ Thank you for waiting.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Cross-Department Phrases Every Staff Member Needs</span>
 <span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome (all departments)<br>
 <span class="keigo-jp"><code>かしこまりました</code></span>: Certainly (all departments)<br>
 <span class="keigo-jp"><code>少々お待ちくださいませ</code></span>: Please wait a moment (all departments)<br>

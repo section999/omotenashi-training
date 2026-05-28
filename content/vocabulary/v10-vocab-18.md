@@ -6,20 +6,36 @@ title: 利用明細 (riyou meisai)
 利用明細 is an itemized statement listing all individual charges incurred during a stay or service period. Unlike a 領収書 (receipt), which shows only the total amount paid, the 利用明細 provides a line-by-line breakdown of every charge: room rate, meals, spa services, minibar, telephone, and any other expenses. For Japanese business travelers, who routinely submit detailed expense claims to their companies, the 利用明細 is not optional -- it is an essential document. Hotels that provide it promptly and in a well-organized format show an understanding of what their guests need.
 
 Staff most commonly offer 利用明細 at checkout, either as a printed document or sent by email. The phrase 利用明細をメールでお送りいたしましょうか is a proactive service gesture that corporate guests appreciate -- it saves them from having to ask and signals attentiveness. Some guests may also request a 利用明細 for a specific date range within a longer stay, which requires generating a partial statement from the front desk system. Being able to explain each line item clearly, and to correct errors calmly when they are spotted, is a core skill for checkout staff
-| Japanese | Meaning |
-|---|---|
-| ご精算時に利用明細をお渡しいたします。<br><small>*Go-seisan-ji ni riyou meisai o owatashi itashimasu.*</small> | We will provide your usage statement at checkout. |
-| 利用明細はメールにてお送りすることも可能でございます。<br><small>*Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*</small> | We can also send your usage statement by email. |
-| ご不明な点がございましたら、利用明細をご確認ください。<br><small>*Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.*</small> | If you have any questions, please refer to your usage statement. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご精算時に利用明細をお渡しいたします。</code></span><br>
+<em>Go-seisan-ji ni riyou meisai o owatashi itashimasu.</em><br>
+We will provide your usage statement at checkout.
+<br><br>
+<span class="keigo-jp"><code>利用明細はメールにてお送りすることも可能でございます。</code></span><br>
+<em>Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.</em><br>
+We can also send your usage statement by email.
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、利用明細をご確認ください。</code></span><br>
+<em>Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.</em><br>
+If you have any questions, please refer to your usage statement.
+</div>
 
 ## Related Expressions
 
-- **明細書 (meisaisho)**: a slightly more formal written variant of 利用明細, often printed as the document header. Both refer to an itemized statement, but 明細書 tends to appear on the document itself while 利用明細 is how staff refer to it in conversation.
-- **領収書 (ryoushuusho)**: a receipt showing total payment, required for proof of purchase. It does not itemize individual charges the way 利用明細 does, so corporate guests often need both documents and should be offered both without having to ask twice.
+<div class="keigo-card blue">
+<span class="keigo-badge info">明細書 (meisaisho)</span> a slightly more formal written variant of 利用明細, often printed as the document header. Both refer to an itemized statement, but 明細書 tends to appear on the document itself while 利用明細 is how staff refer to it in conversation.
+<br><br>
+<span class="keigo-badge info">領収書 (ryoushuusho)</span> a receipt showing total payment, required for proof of purchase. It does not itemize individual charges the way 利用明細 does, so corporate guests often need both documents and should be offered both without having to ask twice.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Confusing 利用明細 with 領収書 and offering one when the guest needs the other is a frequent error. A corporate guest asking for 領収書 needs proof that payment was made; a guest asking for 利用明細 needs a charge-by-charge breakdown. Always clarify which document is needed before printing anything. Waiting to be asked before offering 利用明細 is reactive service. In Japanese hospitality, offering it proactively to business guests is considered attentive -- it also prevents complaints about unexplained charges from surfacing after the guest has left the property.
+</div>
 
 ---
 ## Quiz

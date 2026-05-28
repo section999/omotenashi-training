@@ -9,12 +9,10 @@ Reservation calls are among the most operationally critical interactions in a ho
 ## New Booking Call
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Booking Flow</span>
 Greeting → Date inquiry → Availability check → Option presentation → Guest details → Final confirmation
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Complete Booking Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが。</code></span><br>
 I'd like to make a reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
@@ -40,7 +38,6 @@ Mr./Ms. Yamada. I have confirmed your reservation: twin room, June 10th for two 
 Some learners feel that repeating dates and names back to the guest sounds unnecessary. In hotel operations, this repetition is essential:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Verification Chain</span>
 Dates repeated → prevents June 10th vs June 1st errors<br>
 Room type repeated → prevents twin vs single booking mistakes<br>
 Name repeated → confirms the correct guest identity<br>
@@ -53,12 +50,10 @@ Each repetition is a checkpoint. Missing one creates a gap where operational err
 When a guest calls to change their reservation, dates, room type, or number of guests, the same verification chain applies:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Modification Flow</span>
 Acknowledge request → Verify identity → Confirm current booking → Ask for new details → Check availability → Confirm new booking
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Modification Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
 I'd like to change my reservation dates.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
@@ -80,7 +75,6 @@ Thank you for waiting. I have updated your reservation to June 15th for two nigh
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Reservation Key Phrases</span>
 <span class="keigo-jp"><code>ご希望のお日にちをお伺いしてもよろしいでしょうか</code></span><br>
 May I ask for your preferred dates?<br><br>
 <span class="keigo-jp"><code>○○でございますね</code></span><br>

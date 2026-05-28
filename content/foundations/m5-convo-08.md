@@ -11,7 +11,6 @@ In hospitality, how you speak is as important as what you say. Perfect grammar s
 Professional hotel speech is a carefully calibrated performance, not in the theatrical sense, but in the sense that every vocal element is intentional:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">What Hospitality Vocal Quality Communicates</span>
 <span class="keigo-badge info">Calm tone</span> → "This hotel is organized and in control"<br>
 <span class="keigo-badge info">Warm tone</span> → "You are welcomed here genuinely"<br>
 <span class="keigo-badge info">Measured pace</span> → "Your comfort matters more than efficiency"<br>
@@ -44,7 +43,6 @@ Professional hotel speech is a carefully calibrated performance, not in the thea
 Read each phrase aloud, following the phrasing and pause guides below. The goal is not speed, it is developing the correct vocal quality for each expression. Repeat each phrase 5 to 10 times until the delivery feels natural rather than memorized.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Practice Phrase</span>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span><br>
 <em>go-yoyaku no | o-namae wo | o-kikase itadakemasu | deshou ka.</em><br><br>
 <strong>Focus points:</strong><br>
@@ -57,7 +55,6 @@ Read each phrase aloud, following the phrasing and pause guides below. The goal 
 ## Shadowing Practice 2: Presenting the Room Key
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Practice Phrase</span>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。お部屋は7階の702号室でございます。</code></span><br>
 <em>kochira ga | o-heya no kagi de gozaimasu. | o-heya wa | nana-kai no | nana-maru-ni-goushitsu | de gozaimasu.</em><br><br>
 <strong>Focus points:</strong><br>
@@ -70,7 +67,6 @@ Read each phrase aloud, following the phrasing and pause guides below. The goal 
 ## Shadowing Practice 3: The Farewell
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Practice Phrase</span>
 <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ。</code></span><br>
 <em>go-yukkuri | o-sugoshi | kudasaimase.</em><br><br>
 <strong>Focus points:</strong><br>
@@ -85,7 +81,6 @@ Read each phrase aloud, following the phrasing and pause guides below. The goal 
 Hotel speech differs between telephone and face-to-face contexts:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Vocal Differences by Context</span>
 
 | Quality | In Person | By Telephone |
 |---------|-----------|--------------|
@@ -101,7 +96,6 @@ On the telephone, the guest has no visual cues, so every pause feels longer, eve
 ## Daily Practice Routine
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">5-Step Daily Practice</span>
 <span class="keigo-badge info">1. Read aloud slowly</span>: Focus on one phrase at a time. Prioritize pacing over speed.<br><br>
 <span class="keigo-badge info">2. Focus on tone, not just words</span>: Record yourself if possible and listen for the emotional quality, not grammar.<br><br>
 <span class="keigo-badge info">3. Repeat each phrase 5–10 times</span>: Until it feels natural, not memorized.<br><br>
@@ -112,7 +106,6 @@ On the telephone, the guest has no visual cues, so every pause feels longer, eve
 ## The Relationship Between Language and Trust
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Why Delivery Matters as Much as Words</span>
 Guests in hotels are often in unfamiliar places, carrying stress from travel. When they hear calm, warm, measured speech, in the correct keigo register, they experience something specific: **a reduction in stress**. The language itself becomes a service.<br><br>
 This is why Japanese hospitality speech is not simply about avoiding mistakes. It is a trained, intentional tool for creating a particular emotional state in the guest, the feeling of being safely, expertly cared for.
 </div>
@@ -120,7 +113,6 @@ This is why Japanese hospitality speech is not simply about avoiding mistakes. I
 ## Key Phrases for Delivery Practice
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Phrases to Shadow</span>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
 [Invitation], Gentle, descending at the end<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます</code></span><br>

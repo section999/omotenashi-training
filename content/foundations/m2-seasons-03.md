@@ -10,8 +10,10 @@ Japanese summer is intense: hot, humid, and alive with the sound of cicadas and 
 
 The following phrases are appropriate from June through August:
 
-- *暑い日が続いておりますが、お体にお気をつけください。* "The heat continues, please take care of yourself."
-- *お暑い中、ご来館いただきまして誠にありがとうございます。* "Thank you sincerely for visiting in this heat."
+<div class="keigo-card blue">
+• *暑い日が続いておりますが、お体にお気をつけください。* "The heat continues, please take care of yourself."<br>• *お暑い中、ご来館いただきまして誠にありがとうございます。* "Thank you sincerely for visiting in this heat."
+</div>
+
 
 These phrases are brief, but they matter. A guest who has just stepped in from intense summer heat wants acknowledgement. A well-timed greeting communicates that you noticed.
 
@@ -25,16 +27,17 @@ When a property performs uchimizu in summer, explaining it to guests turns a sim
 
 Summer decorations and amenities emphasise coolness and lightness:
 
-- Wind chimes (*furin*, 風鈴) at entrances create a cooling auditory atmosphere
-- Cool-coloured arrangements: blue-glass vases, white flowers, bamboo elements
-- Chilled oshibori (hand towels) offered on arrival, a small but immediately felt seasonal switch from the warm towels used in winter
+<div class="keigo-card blue">
+• Wind chimes (*furin*, 風鈴) at entrances create a cooling auditory atmosphere<br>• Cool-coloured arrangements: blue-glass vases, white flowers, bamboo elements<br>• Chilled oshibori (hand towels) offered on arrival, a small but immediately felt seasonal switch from the warm towels used in winter
+</div>
+
 
 ## Seasonal Food and Drink
 
-- Cold noodles: *sōmen*, *hiyashi chūka*, *zaru soba*
-- Shaved ice (*kakigōri*): a summer classic, available in regional flavour variations
-- Mugicha (麦茶, barley tea): the standard cold drink of Japanese summers, naturally caffeine-free
-- Edamame, cold tofu (*hiyayakko*), cucumber dishes: light, refreshing, and cooling
+<div class="keigo-card blue">
+• Cold noodles: *sōmen*, *hiyashi chūka*, *zaru soba*<br>• Shaved ice (*kakigōri*): a summer classic, available in regional flavour variations<br>• Mugicha (麦茶, barley tea): the standard cold drink of Japanese summers, naturally caffeine-free<br>• Edamame, cold tofu (*hiyayakko*), cucumber dishes: light, refreshing, and cooling
+</div>
+
 
 ---
 

@@ -7,20 +7,36 @@ title: 遠い (tooi)
 
 Staff should also moderate how they use 遠い. Softening with 少し (a little) or やや (somewhat) before the word signals honesty without alarm, making the guest feel informed rather than brushed off. Replacing vague uses of 遠い with specific, actionable alternatives is recommended. Knowing typical travel times from the property to major local destinations by foot, taxi, and public transport enables that kind of precise, helpful guidance. At ryokan in rural areas, guests often have little prior knowledge of local distances, so this level of preparation is valued
 
-| Japanese | Meaning |
-|---|---|
-| 少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。<br><small>*Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.*</small> | It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen. |
-| お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。<br><small>*O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.*</small> | Your destination is a little far to walk to: shall I give you directions to the bus? |
-| 観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。<br><small>*Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.*</small> | The sightseeing spot is a short distance away, but we can take you there by shuttle bus. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。</code></span><br>
+<em>Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.</em><br>
+It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen.
+<br><br>
+<span class="keigo-jp"><code>お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。</code></span><br>
+<em>O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.</em><br>
+Your destination is a little far to walk to: shall I give you directions to the bus?
+<br><br>
+<span class="keigo-jp"><code>観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。</code></span><br>
+<em>Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.</em><br>
+The sightseeing spot is a short distance away, but we can take you there by shuttle bus.
+</div>
 
 ## Related Expressions
 
-- **近く (chikaku)**: nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed
-- **送迎サービス (sougei saabisu)**: shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing their property's shuttle schedule and route makes this recommendation immediately actionable
+<div class="keigo-card blue">
+<span class="keigo-badge info">近く (chikaku)</span> nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed
+<br><br>
+<span class="keigo-badge info">送迎サービス (sougei saabisu)</span> shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing their property's shuttle schedule and route makes this recommendation immediately actionable
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most significant mistake is delivering 遠い without any follow-up solution. In hospitality, an unanswered problem is an incomplete response. Dropping the softener 少し causes 「遠いです」 to sound blunt or dismissive. The more considerate framing is 「少し遠うございます」. There is also the opposite error: if a destination can reasonably be walked in 10 to 15 minutes, calling it 遠い oversells the difficulty and may push the guest toward unnecessary transport costs. Honest calibration allows the guest to decide.
+</div>
 
 ---
 ## Quiz

@@ -11,7 +11,6 @@ Knowing individual keigo verbs and prefixes is not enough. Professional hotel ke
 Every hotel sentence has three components that need a keigo decision:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Three Decisions Per Sentence</span>
 <strong>1. Who is the subject?</strong><br>
 Guest acting: use 尊敬語 for the verb<br>
 Staff acting: use 謙譲語 for the verb<br>
@@ -29,7 +28,6 @@ Loanwords: no prefix<br><br>
 Used at arrival and any time a guest's identity or presence is being noted.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pattern: Identity and Presence</span>
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますか。</code></span><br>
 Are you Mr./Ms. [Name]?<br><br>
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますね。</code></span><br>
@@ -44,7 +42,6 @@ Components: ご (prefix for 予約) + でいらっしゃいます (sonkeigo for 
 Used when telling the guest facts about the hotel, their room, or a service.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pattern: Stating Information</span>
 <span class="keigo-jp"><code>[Subject]は[information]でございます。</code></span><br><br>
 <span class="keigo-jp"><code>お部屋は702号室でございます。</code></span><br>
 Your room is Room 702.<br><br>
@@ -60,7 +57,6 @@ Components: お (prefix for 部屋) + でございます (teineigo refined state
 Used when requesting a guest to do something. Always use the softened form.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pattern: Soft Request</span>
 <span class="keigo-jp"><code>〜いただけますでしょうか。</code></span><br>
 Could you please 〜?<br><br>
 <span class="keigo-jp"><code>こちらにご記入いただけますでしょうか。</code></span><br>
@@ -77,7 +73,6 @@ Components: ご/お (prefix) + いただける (humble receiving) + でしょう
 Used when the staff member states what they are about to do or are doing.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pattern: Staff Action</span>
 <span class="keigo-jp"><code>ただいま〜いたします。</code></span><br>
 I will 〜 right now.<br><br>
 <span class="keigo-jp"><code>ただいまご確認いたします。</code></span><br>
@@ -94,7 +89,6 @@ Components: ご (prefix) + いたします / 承りました (kenjogo verb)
 Used when the hotel cannot fulfill a request fully. Structure: apology buffer + situation + alternative.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Pattern: Graceful Limitation</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、〜でございます。</code></span><br>
 I am truly sorry, but 〜.<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま満室でございます。</code></span><br>
@@ -107,7 +101,6 @@ Components: 誠に恐れ入りますが (kenjogo apology buffer) + でござい�
 ## A Full Check-In Exchange: Annotated
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Full Exchange with Analysis</span>
 <span class="keigo-jp"><code>いらっしゃいませ。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 Welcome. (いらっしゃる = sonkeigo for guest's existence/arrival)<br><br>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span> <span class="keigo-badge info">謙譲語 + 丁寧語</span><br>
@@ -121,7 +114,6 @@ I will prepare your room right now. (ご用意いたします = kenjogo for staf
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Sentence Patterns in Practice</span>
 <span class="keigo-jp"><code>〜でいらっしゃいますか</code></span>: Are you 〜? (guest identity)<br>
 <span class="keigo-jp"><code>〜でございます</code></span>: It is 〜 (information delivery)<br>
 <span class="keigo-jp"><code>〜いただけますでしょうか</code></span>: Could you please 〜? (soft request)<br>

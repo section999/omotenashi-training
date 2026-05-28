@@ -6,20 +6,36 @@ title: 補充 (hojuu)
 補充 means replenishment or restocking: refilling or replacing consumable items in a guest room or facility. In the hotel context, 補充 happens every time a room is serviced, covering toiletries like shampoo, conditioner, and soap; paper products like tissues and toilet paper; stationery; tea bags and coffee packets at the in-room kettle station; and minibar items where applicable. The ideal is that a guest never notices an item running low because it has already been topped up before they reach for it. That kind of unobtrusive attentiveness is what housekeeping 補充 is meant to achieve.
 
 In daily operations, housekeeping staff work from printed checklists to track which items need 補充 in each room type, ensuring consistency across the property. When a guest specifically requests something, more green tea packets, an extra roll of toilet paper, staff should confirm immediately and follow through without delay. Clear internal communication about 補充 status also prevents the embarrassment of a guest finding an empty dispenser
-| Japanese | Meaning |
-|---|---|
-| アメニティの補充は、毎日の清掃時に行っております。<br><small>*Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.*</small> | Replenishment of amenities is carried out during the daily cleaning. |
-| ミニバーの補充が必要かどうか、確認してまいります。<br><small>*Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*</small> | I will go and check whether the minibar needs to be restocked. |
-| お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。<br><small>*Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*</small> | If you would like your tea replenished, please let the front desk know at any time. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>アメニティの補充は、毎日の清掃時に行っております。</code></span><br>
+<em>Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.</em><br>
+Replenishment of amenities is carried out during the daily cleaning.
+<br><br>
+<span class="keigo-jp"><code>ミニバーの補充が必要かどうか、確認してまいります。</code></span><br>
+<em>Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.</em><br>
+I will go and check whether the minibar needs to be restocked.
+<br><br>
+<span class="keigo-jp"><code>お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。</code></span><br>
+<em>Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.</em><br>
+If you would like your tea replenished, please let the front desk know at any time.
+</div>
 
 ## Related Expressions
 
-- **交換 (koukan)**: Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted.
-- **在庫確認 (zaiko kakunin)**: Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management.
+<div class="keigo-card blue">
+<span class="keigo-badge info">交換 (koukan)</span> Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted.
+<br><br>
+<span class="keigo-badge info">在庫確認 (zaiko kakunin)</span> Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 補充 and 交換 are sometimes used interchangeably, but the distinction is clear: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full; hotel standards often require topping it up to full regardless of the current level. When speaking to guests, staff should always specify which item is being restocked so there is no ambiguity.
+</div>
 
 ---
 

@@ -10,21 +10,38 @@ Unconfirmed information leads to errors, and errors in a hospitality context dir
 
 In written contexts such as emails, printed confirmations, and room service menus, *go-kakunin kudasai* appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by *osore irimasu ga* or *moushiwake gozaimasen ga* to soften the request
 
-| Japanese | Meaning |
-|---|---|
-| こちらのご予約内容をご確認ください。<br><small>*Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*</small> | Please confirm the details of your reservation. |
-| お名前のスペルをご確認いただけますでしょうか。<br><small>*O-namae no superu wo go-kakunin itadakemasu deshō ka.*</small> | Could I ask you to confirm the spelling of your name? |
-| ご請求書をご確認の上、ご署名をお願いいたします。<br><small>*Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.*</small> | Please review the invoice and then sign. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのご予約内容をご確認ください。</code></span><br>
+<em>Kochira no go-yoyaku naiyō wo go-kakunin kudasai.</em><br>
+Please confirm the details of your reservation.
+<br><br>
+<span class="keigo-jp"><code>お名前のスペルをご確認いただけますでしょうか。</code></span><br>
+<em>O-namae no superu wo go-kakunin itadakemasu deshō ka.</em><br>
+Could I ask you to confirm the spelling of your name?
+<br><br>
+<span class="keigo-jp"><code>ご請求書をご確認の上、ご署名をお願いいたします。</code></span><br>
+<em>Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.</em><br>
+Please review the invoice and then sign.
+</div>
 
 ## Related Expressions
 
-- **ご確認いただけますでしょうか (go-kakunin itadakemasu deshō ka)**: "Could I ask you to confirm?": softer, more question-form version for spoken use
-- **内容をご確認の上 (naiyō wo go-kakunin no ue)**: "After confirming the contents": formal connector used in written communication
-- **お間違いはございませんか (o-machigai wa gozaimasu ka)**: "Is there anything incorrect?": an alternative way to invite review of details
+<div class="keigo-card blue">
+<span class="keigo-badge info">ご確認いただけますでしょうか (go-kakunin itadakemasu deshō ka)</span> "Could I ask you to confirm?": softer, more question-form version for spoken use
+<br><br>
+<span class="keigo-badge info">内容をご確認の上 (naiyō wo go-kakunin no ue)</span> "After confirming the contents": formal connector used in written communication
+<br><br>
+<span class="keigo-badge info">お間違いはございませんか (o-machigai wa gozaimasu ka)</span> "Is there anything incorrect?": an alternative way to invite review of details
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is presenting information to a guest without asking for confirmation at all, assuming the details are correct when the guest may have a different expectation. A common error is phrasing the request in a way that implies doubt about the guest: "Are you sure this is right?" That framing puts the guest on the defensive. The appropriate approach is to frame confirmation as *verification*, not correction. The responsibility for accurate information belongs to the staff, and the confirmation step is a quality check, not a suspicion.
+</div>
 
 ---
 

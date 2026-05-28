@@ -11,14 +11,12 @@ The staff member's role is not to prevent the cancellation, it is to **reduce em
 ## Cancellation Flow
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Flow</span>
 Acknowledgment → Identity verification → Reservation check → Cancellation execution → Fee communication (if applicable) → Warm closure
 </div>
 
 ## Complete Cancellation Script
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Cancellation Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいのですが。</code></span><br>
 I'd like to cancel my reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
@@ -63,7 +61,6 @@ Your cancellation has been received.<br><br>
 If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly, frame it as policy, not punishment:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Cancellation Fee Communication</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。</code></span><br>
 <em>makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.</em><br>
 I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.<br><br>
@@ -83,7 +80,6 @@ This matters because **guests who cancel due to circumstances beyond their contr
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Cancellation Key Phrases</span>
 <span class="keigo-jp"><code>キャンセルを承りました</code></span><br>
 Your cancellation has been processed.<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが、キャンセル料が発生いたします</code></span><br>

@@ -7,20 +7,36 @@ title: 乾燥 (kansou)
 
 In coin-operated laundry rooms, 乾燥 machines are typically separate from washing machines and charge by the cycle or minute. Guests do not always know to ask about dryer settings, so if they bring delicate items, it is a genuine service to bring up the topic first. For valet laundry, standard practice is to confirm with guests whether they prefer machine drying or air drying for items like wool or silk. Getting this right protects both the garment and the hotel's reputation.
 
-| Japanese | Meaning |
-|---|---|
-| 乾燥機は洗濯機の隣にございます。1回200円でご利用いただけます。<br><small>*Kansouki wa sentakuki no tonari ni gozaimasu. Ikkai nihyaku-en de go-riyou itadakemasu.*</small> | The dryer is next to the washing machine. One cycle costs 200 yen. |
-| ウールのセーターは乾燥機をお避けになり、陰干しをお勧めいたします。<br><small>*Uuru no seetaa wa kansouki o o-sake ni nari, kage-boshi o o-susume itashimasu.*</small> | For wool sweaters, we recommend avoiding the dryer and air drying in the shade instead. |
-| ランドリーサービスでは洗濯と乾燥をセットで承っております。<br><small>*Randorii saabisu de wa sentaku to kansou o setto de uketamawaite orimasu.*</small> | Our laundry service handles both washing and drying together as a set. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>乾燥機は洗濯機の隣にございます。1回200円でご利用いただけます。</code></span><br>
+<em>Kansouki wa sentakuki no tonari ni gozaimasu. Ikkai nihyaku-en de go-riyou itadakemasu.</em><br>
+The dryer is next to the washing machine. One cycle costs 200 yen.
+<br><br>
+<span class="keigo-jp"><code>ウールのセーターは乾燥機をお避けになり、陰干しをお勧めいたします。</code></span><br>
+<em>Uuru no seetaa wa kansouki o o-sake ni nari, kage-boshi o o-susume itashimasu.</em><br>
+For wool sweaters, we recommend avoiding the dryer and air drying in the shade instead.
+<br><br>
+<span class="keigo-jp"><code>ランドリーサービスでは洗濯と乾燥をセットで承っております。</code></span><br>
+<em>Randorii saabisu de wa sentaku to kansou o setto de uketamawaite orimasu.</em><br>
+Our laundry service handles both washing and drying together as a set.
+</div>
 
 ## Related Expressions
 
-- **洗濯 (sentaku)**: the washing step that comes before 乾燥; the two are often listed together as 洗濯・乾燥 to describe the full laundry process from start to finish.
-- **乾燥機 (kansouki)**: the dryer machine itself; 乾燥 is the process, 乾燥機 is the appliance. Adding 機 (ki, machine) to a process word gives the name of the device.
+<div class="keigo-card blue">
+<span class="keigo-badge info">洗濯 (sentaku)</span> the washing step that comes before 乾燥; the two are often listed together as 洗濯・乾燥 to describe the full laundry process from start to finish.
+<br><br>
+<span class="keigo-badge info">乾燥機 (kansouki)</span> the dryer machine itself; 乾燥 is the process, 乾燥機 is the appliance. Adding 機 (ki, machine) to a process word gives the name of the device.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to get confused because 乾燥 describes both drying laundry and dry environmental conditions, like dry skin or dry winter air. The word is identical in both cases, so always read the context. Another practical mistake is advising guests to use the 乾燥機 for all garments without first checking care labels. Silk and cashmere should never go in a machine dryer, and wool can shrink dramatically. A quick mention of "please check the label" when guests ask about the dryer can save a lot of grief. Finally, in guest-facing speech, staff should avoid the plain 乾燥する; use polished phrases like 乾燥をお願いできますか or 乾燥のご確認をお願いいたします.
+</div>
 
 ---
 

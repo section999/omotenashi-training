@@ -12,10 +12,10 @@ Faster is not always better. Slower is not always more elegant. The skill is mat
 
 Guests communicate their preferred pace through several channels:
 
-- **Energy level:** A tired, slow-moving guest needs efficient, low-friction service. An animated, engaged guest may welcome a longer interaction.
-- **The nature of the occasion:** A business lunch calls for efficiency, precision, and minimal interruption. A birthday dinner calls for generosity with time, unhurried attention, and presence without hovering.
-- **The stage of the meal:** An appetiser course early in the evening should not arrive in five minutes if guests have barely touched their welcome drinks. A main course at a table that has been waiting fifty minutes should not require another twenty.
-- **Direct signals:** A guest checking their watch, putting on their coat, or picking up their phone is communicating urgency. A guest who keeps refilling their own wine glass has a rhythm they want maintained.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Energy level:</span> A tired, slow-moving guest needs efficient, low-friction service. An animated, engaged guest may welcome a longer interaction.<br><br><span class="keigo-badge info">The nature of the occasion:</span> A business lunch calls for efficiency, precision, and minimal interruption. A birthday dinner calls for generosity with time, unhurried attention, and presence without hovering.<br><br><span class="keigo-badge info">The stage of the meal:</span> An appetiser course early in the evening should not arrive in five minutes if guests have barely touched their welcome drinks. A main course at a table that has been waiting fifty minutes should not require another twenty.<br><br><span class="keigo-badge info">Direct signals:</span> A guest checking their watch, putting on their coat, or picking up their phone is communicating urgency. A guest who keeps refilling their own wine glass has a rhythm they want maintained.
+</div>
+
 
 ## Pacing Across an Entire Stay
 
@@ -25,9 +25,10 @@ The concept of **ma (間)**: the Japanese aesthetic principle of meaningful paus
 
 ## Practical Calibration
 
-- If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated, adjust the intervals.
-- If a guest has finished eating while their companion is still on the first course, do not remove the finished plate until both have finished, unless they specifically request it.
-- If a guest's room is being cleaned and they are waiting in the lobby, the pace of housekeeping directly affects their stay. Communicate proactively rather than leaving them to wait in uncertainty.
+<div class="keigo-card blue">
+• If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated, adjust the intervals.<br>• If a guest has finished eating while their companion is still on the first course, do not remove the finished plate until both have finished, unless they specifically request it.<br>• If a guest's room is being cleaned and they are waiting in the lobby, the pace of housekeeping directly affects their stay. Communicate proactively rather than leaving them to wait in uncertainty.
+</div>
+
 
 ---
 

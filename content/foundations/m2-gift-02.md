@@ -12,10 +12,10 @@ The defining quality of good omiyage is that it should be local and shareable. T
 
 Key qualities of good omiyage:
 
-- **Regional specificity**: something unique to that area, not a product available nationwide
-- **Portionability**: individually wrapped pieces that can be handed out one at a time
-- **Presentation**: well-designed packaging, because the visual impression matters before the item is even opened
-- **Appropriate shelf life**: the item must last long enough for the traveller to actually arrive home
+<div class="keigo-card blue">
+<span class="keigo-badge info">Regional specificity</span> something unique to that area, not a product available nationwide<br><br><span class="keigo-badge info">Portionability</span> individually wrapped pieces that can be handed out one at a time<br><br><span class="keigo-badge info">Presentation</span> well-designed packaging, because the visual impression matters before the item is even opened<br><br><span class="keigo-badge info">Appropriate shelf life</span> the item must last long enough for the traveller to actually arrive home
+</div>
+
 
 ## Omiyage Recommendations in Hospitality
 

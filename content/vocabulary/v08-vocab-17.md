@@ -7,20 +7,36 @@ title: 正面 (shoumen)
 
 In daily use, 正面 appears in directions such as 正面玄関はこちらでございます, or when describing a lobby layout: フロントは正面にございます (the front desk is straight ahead). It is also used to describe what a guest sees when facing a particular direction, as in エレベーターを出て正面がレストランでございます. saying 正面です without a subject can be ambiguous in a large lobby with multiple focal points, so staff should pair it with a clear reference.
 
-| Japanese | Meaning |
-|---|---|
-| ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。<br><small>*Hoteru no shoumen ni chuushajou ga gozaimasu. Gotouchaku no sai wa sochira o goriyou kudasai.*</small> | There is a parking lot in front of the hotel. Please use it upon your arrival. |
-| エレベーターをお降りになりましたら、正面がフロントでございます。<br><small>*Erebeetaa o oori ni narimashitara, shoumen ga furonto de gozaimasu.*</small> | When you exit the elevator, the front desk is directly ahead of you. |
-| 正面玄関からお入りいただき、右手にコンシェルジュデスクがございます。<br><small>*Shoumen genkan kara ohairi itadaki, migite ni konsheruju desuku ga gozaimasu.*</small> | Please enter through the main front entrance; the concierge desk is on your right. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ホテルの正面に駐車場がございます。ご到着の際はそちらをご利用ください。</code></span><br>
+<em>Hoteru no shoumen ni chuushajou ga gozaimasu. Gotouchaku no sai wa sochira o goriyou kudasai.</em><br>
+There is a parking lot in front of the hotel. Please use it upon your arrival.
+<br><br>
+<span class="keigo-jp"><code>エレベーターをお降りになりましたら、正面がフロントでございます。</code></span><br>
+<em>Erebeetaa o oori ni narimashitara, shoumen ga furonto de gozaimasu.</em><br>
+When you exit the elevator, the front desk is directly ahead of you.
+<br><br>
+<span class="keigo-jp"><code>正面玄関からお入りいただき、右手にコンシェルジュデスクがございます。</code></span><br>
+<em>Shoumen genkan kara ohairi itadaki, migite ni konsheruju desuku ga gozaimasu.</em><br>
+Please enter through the main front entrance; the concierge desk is on your right.
+</div>
 
 ## Related Expressions
 
-- **裏 (ura)**: The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary.
-- **玄関 (genkan)**: The formal entryway or threshold, often combined with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position, 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance.
+<div class="keigo-card blue">
+<span class="keigo-badge info">裏 (ura)</span> The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary.
+<br><br>
+<span class="keigo-badge info">玄関 (genkan)</span> The formal entryway or threshold, often combined with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position, 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to confuse 正面 (the front, the direction one face) with 前 (mae, in front of or ahead), using them interchangeably. While both can mean "in front," 正面 specifically refers to the primary face of a structure and implies it is the intended point of approach, whereas 前 is a more general spatial term. Another mistake is using 正面 to describe a guest's movement when 前へ (forward or ahead) would be more natural for walking directions. The clearest approach is to use 正面 to establish the reference frame, then add 右 or 左 to complete the direction.
+</div>
 
 ---
 ## Quiz

@@ -7,20 +7,36 @@ title: 右 (migi)
 
 右 appears in guest-facing directions constantly: pointing guests to a room at the end of a corridor, redirecting them from the elevator lobby, or describing how to reach a nearby attraction on foot. When spoken aloud, staff typically accompany the word with an open-hand gesture to the right. Pointing with a single finger is considered impolite in Japanese professional culture. Combining 右 with distance (次の角を右に) and a destination (エレベーターがございます) gives guests complete and comfortable guidance.
 
-| Japanese | Meaning |
-|---|---|
-| 次の角を右に曲がってください。<br><small>*Tsugi no kado wo migi ni magatte kudasai.*</small> | Please turn right at the next corner. |
-| エレベーターはフロントを出て右手にございます。<br><small>*Erebeetaa wa furonto wo dete migi-te ni gozaimasu.*</small> | The elevator is to the right as one exit the front desk. |
-| 右側のドアからお入りください。<br><small>*Migi-gawa no doa kara o-hairi kudasai.*</small> | Please enter through the door on the right side. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>次の角を右に曲がってください。</code></span><br>
+<em>Tsugi no kado wo migi ni magatte kudasai.</em><br>
+Please turn right at the next corner.
+<br><br>
+<span class="keigo-jp"><code>エレベーターはフロントを出て右手にございます。</code></span><br>
+<em>Erebeetaa wa furonto wo dete migi-te ni gozaimasu.</em><br>
+The elevator is to the right as one exit the front desk.
+<br><br>
+<span class="keigo-jp"><code>右側のドアからお入りください。</code></span><br>
+<em>Migi-gawa no doa kara o-hairi kudasai.</em><br>
+Please enter through the door on the right side.
+</div>
 
 ## Related Expressions
 
-- **右手 (migite)**: literally "right hand," used to mean "on the right-hand side"; slightly more formal and spatial than 右 alone, preferred in polished hotel speech
-- **右折 (usetsu)**: "right turn," used in driving or formal route descriptions; too stiff for casual in-lobby guidance but appropriate when writing route cards for guests
+<div class="keigo-card blue">
+<span class="keigo-badge info">右手 (migite)</span> literally "right hand," used to mean "on the right-hand side"; slightly more formal and spatial than 右 alone, preferred in polished hotel speech
+<br><br>
+<span class="keigo-badge info">右折 (usetsu)</span> "right turn," used in driving or formal route descriptions; too stiff for casual in-lobby guidance but appropriate when writing route cards for guests
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to say 右です without adding a landmark or verb, which leaves guests uncertain about exactly where on the right the destination is. There is also the classic mix-up under pressure: confusing 右 with 左. Practicing directional phrases in pairs until the distinction is automatic is an effective approach. Using a single pointing finger rather than an open hand when saying 右 is also a register error that can read as rude in a formal hospitality environment.
+</div>
 
 ---
 

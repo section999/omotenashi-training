@@ -8,9 +8,10 @@ Japanese workplace culture operates with a clear awareness of **hierarchy (上�
 
 Three key terms define these relationships:
 
-- **Senpai (先輩)**: a senior colleague; someone with more experience in the role or organisation
-- **Kōhai (後輩)**: a junior colleague; someone with less experience
-- **Jōshi (上司)**: a direct superior or manager
+<div class="keigo-card blue">
+<span class="keigo-badge info">Senpai (先輩)</span> a senior colleague; someone with more experience in the role or organisation<br><br><span class="keigo-badge info">Kōhai (後輩)</span> a junior colleague; someone with less experience<br><br><span class="keigo-badge info">Jōshi (上司)</span> a direct superior or manager
+</div>
+
 
 ## The Senpai–Kōhai Relationship
 
@@ -20,10 +21,10 @@ This is not a passive relationship. A kōhai who watches closely and asks though
 
 ## How Hierarchy Functions in Practice
 
-- When addressing a senpai or jōshi, use respectful language. Keigo applies internally as well as with guests, particularly in formal properties.
-- When reporting to a manager (hōkoku), be direct, concise, and complete. State the situation, the action taken, and the current status.
-- Disagreement with a senior colleague should be raised privately and respectfully, not in front of guests or junior staff.
-- Decisions beyond your authority level should be escalated, not made unilaterally. Escalating shows good judgment.
+<div class="keigo-card blue">
+• When addressing a senpai or jōshi, use respectful language. Keigo applies internally as well as with guests, particularly in formal properties.<br>• When reporting to a manager (hōkoku), be direct, concise, and complete. State the situation, the action taken, and the current status.<br>• Disagreement with a senior colleague should be raised privately and respectfully, not in front of guests or junior staff.<br>• Decisions beyond your authority level should be escalated, not made unilaterally. Escalating shows good judgment.
+</div>
+
 
 ## The Purpose of Hierarchy
 

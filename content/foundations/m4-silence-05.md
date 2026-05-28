@@ -12,17 +12,19 @@ Movement communicates. A server who walks quickly, sets items down heavily, and 
 
 Cultivating ma in movement means:
 
-- Completing each gesture before starting the next (do not reach for the tray while still speaking)
-- Setting items down gently and attentively, not just functionally
-- Pausing briefly after placing something to make sure the guest's space is settled before leaving it
+<div class="keigo-card blue">
+• Completing each gesture before starting the next (do not reach for the tray while still speaking)<br>• Setting items down gently and attentively, not just functionally<br>• Pausing briefly after placing something to make sure the guest's space is settled before leaving it
+</div>
+
 
 ## Ma in Conversation
 
 In guest interactions, ma shows up as:
 
-- A brief pause after the guest finishes speaking, before responding
-- Letting the guest complete their thought fully before offering anything
-- Not turning away the moment an interaction seems almost over, letting the farewell finish naturally
+<div class="keigo-card blue">
+• A brief pause after the guest finishes speaking, before responding<br>• Letting the guest complete their thought fully before offering anything<br>• Not turning away the moment an interaction seems almost over, letting the farewell finish naturally
+</div>
+
 
 ## Ma in the Handover
 

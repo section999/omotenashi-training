@@ -18,9 +18,10 @@ The professional who improves by one percent each shift, in sensitivity, in skil
 
 ## The Three Qualities of the Master Practitioner
 
-- **Curiosity**: sustained interest in the guest as a person, in the craft of hospitality, and in one's own development
-- **Humility**: the recognition that there is always more to learn, and that every colleague, every guest, and every difficult moment has something to teach
-- **Patience**: the understanding that mastery is built slowly, through repetition, reflection, and the willingness to keep going when progress is not immediately visible
+<div class="keigo-card blue">
+<span class="keigo-badge info">Curiosity</span> sustained interest in the guest as a person, in the craft of hospitality, and in one's own development<br><br><span class="keigo-badge info">Humility</span> the recognition that there is always more to learn, and that every colleague, every guest, and every difficult moment has something to teach<br><br><span class="keigo-badge info">Patience</span> the understanding that mastery is built slowly, through repetition, reflection, and the willingness to keep going when progress is not immediately visible
+</div>
+
 
 ## Closing Reflection
 

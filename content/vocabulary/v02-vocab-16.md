@@ -6,20 +6,36 @@ title: 支払い (shiharai)
 支払い means "payment" and encompasses the act of settling any financial obligation, room charges, dining bills, incidental fees, and more. In the Japanese hospitality industry, payment conversations require particular care because directly requesting money from a guest can feel blunt or transactional. Understanding how to frame 支払い with the right verb forms and honorifics is fundamental to maintaining the respectful, guest-first atmosphere expected at hotels and ryokan. The word itself is neutral, but the phrases surrounding it convey the level of professionalism.
 
 In a hospitality context, staff most often encounter 支払い at check-out, though pre-authorization or full payment at check-in is also common depending on hotel policy. The standard phrasing お支払いはチェックアウト時にお願いいたします sets timing expectations clearly and politely. When multiple payment methods are available, staff follow up with お支払いの方法はいかがなさいますか to invite the guest's preference. Rehearsing these fixed expressions ensures smooth and professional payment interactions
-| Japanese | Meaning |
-|---|---|
-| お支払いはチェックアウトの際にお願いいたします。<br><small>*O-shiharai wa chekku-auto no sai ni o-negai itashimasu.*</small> | We kindly ask that payment be made at the time of check-out. |
-| お支払いの方法はいかがなさいますか。<br><small>*O-shiharai no hōhō wa ikaga nasaimasu ka.*</small> | How would you like to make your payment? |
-| 本日のお支払い合計は三万円でございます。<br><small>*Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.*</small> | Your total payment for today is 30,000 yen. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お支払いはチェックアウトの際にお願いいたします。</code></span><br>
+<em>O-shiharai wa chekku-auto no sai ni o-negai itashimasu.</em><br>
+We kindly ask that payment be made at the time of check-out.
+<br><br>
+<span class="keigo-jp"><code>お支払いの方法はいかがなさいますか。</code></span><br>
+<em>O-shiharai no hōhō wa ikaga nasaimasu ka.</em><br>
+How would you like to make your payment?
+<br><br>
+<span class="keigo-jp"><code>本日のお支払い合計は三万円でございます。</code></span><br>
+<em>Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.</em><br>
+Your total payment for today is 30,000 yen.
+</div>
 
 ## Related Expressions
 
-- **精算 (seisan)**: refers specifically to the final settlement or itemized reckoning of charges, often used in the phrase 精算書 (itemized bill). While 支払い refers to the act of paying, 精算 emphasizes the process of calculating and clearing the account, making it more common in back-office or checkout documentation contexts.
-- **会計 (kaikei)**: most commonly heard in restaurant settings meaning "the bill" or "checkout," and guests may use it to summon a server. In hotel contexts, 会計 sounds slightly less formal than お支払い, so staff generally prefer the latter when initiating payment conversations.
+<div class="keigo-card blue">
+<span class="keigo-badge info">精算 (seisan)</span> refers specifically to the final settlement or itemized reckoning of charges, often used in the phrase 精算書 (itemized bill). While 支払い refers to the act of paying, 精算 emphasizes the process of calculating and clearing the account, making it more common in back-office or checkout documentation contexts.
+<br><br>
+<span class="keigo-badge info">会計 (kaikei)</span> most commonly heard in restaurant settings meaning "the bill" or "checkout," and guests may use it to summon a server. In hotel contexts, 会計 sounds slightly less formal than お支払い, so staff generally prefer the latter when initiating payment conversations.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Saying 支払いしてください directly to a guest sounds demanding and impolite; the correct form wraps the request in humble language: お支払いをお願いいたします. Another frequent error is dropping the honorific お before 支払い when speaking to guests; 支払い alone is grammatically fine but loses the respectful register expected in hospitality. Mixing up 支払い with 会計 in hotel contexts can also cause confusion, as guests may associate 会計 primarily with restaurants.
+</div>
 
 ---
 

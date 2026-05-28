@@ -10,11 +10,10 @@ The staff member's role in this situation is to make the onsen accessible. This 
 
 ## Key Points to Communicate
 
-1. **Separate baths for men and women.** Most traditional onsen have completely separate facilities. Reassure guests that privacy is built into the system.
-2. **The washing requirement.** Frame it positively: "Before entering the bath, there are shower stations where you wash completely. It is part of the ritual, everyone does it."
-3. **No swimwear.** This is the point most likely to cause hesitation. A matter-of-fact, reassuring tone helps: "Onsen are entered without swimwear, it is a tradition going back centuries, and the separate facilities mean complete privacy from the opposite gender."
-4. **Small towel use.** "A small towel is provided. You can fold it on your head or leave it at the edge of the bath, it does not go in the water."
-5. **Temperature and timing.** "The water is quite hot, around 40 to 44°C. For your first visit, we recommend 10 to 15 minutes, then rest before going back in."
+<div class="keigo-card blue">
+<span class="keigo-badge info">1. Separate baths for men and women.</span><br>Most traditional onsen have completely separate facilities. Reassure guests that privacy is built into the system.<br><br><span class="keigo-badge info">2. The washing requirement.</span><br>Frame it positively: "Before entering the bath, there are shower stations where you wash completely. It is part of the ritual, everyone does it."<br><br><span class="keigo-badge info">3. No swimwear.</span><br>This is the point most likely to cause hesitation. A matter-of-fact, reassuring tone helps: "Onsen are entered without swimwear, it is a tradition going back centuries, and the separate facilities mean complete privacy from the opposite gender."<br><br><span class="keigo-badge info">4. Small towel use.</span><br>"A small towel is provided. You can fold it on your head or leave it at the edge of the bath, it does not go in the water."<br><br><span class="keigo-badge info">5. Temperature and timing.</span><br>"The water is quite hot, around 40 to 44°C. For your first visit, we recommend 10 to 15 minutes, then rest before going back in."
+</div>
+
 
 ## Handling the Tattoo Question
 

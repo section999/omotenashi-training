@@ -20,9 +20,10 @@ The phrase *"いつもお世話になっております"* (thank you for your co
 
 In Japanese telephone conversation, the listener regularly signals that they are following the speaker. Common responses include:
 
-- *"はい"* (yes)
-- *"承知いたしました"* (understood)
-- *"かしこまりました"* (certainly)
+<div class="keigo-card blue">
+• *"はい"* (yes)<br>• *"承知いたしました"* (understood)<br>• *"かしこまりました"* (certainly)
+</div>
+
 
 These are not interruptions. They are required social signals. Silence on a phone call communicates disconnection, or that the line has dropped. These acknowledgements may feel unfamiliar at first, but they become natural with practice.
 
@@ -30,10 +31,10 @@ These are not interruptions. They are required social signals. Silence on a phon
 
 When the caller needs someone who is unavailable, follow these steps:
 
-- Confirm the caller's name and contact number
-- Note the purpose of the call
-- Give a specific timeframe for the callback: *"○○より1時間以内にご連絡いたします"* (○○ will contact you within one hour)
-- Repeat the details back to confirm accuracy
+<div class="keigo-card blue">
+• Confirm the caller's name and contact number<br>• Note the purpose of the call<br>• Give a specific timeframe for the callback: *"○○より1時間以内にご連絡いたします"* (○○ will contact you within one hour)<br>• Repeat the details back to confirm accuracy
+</div>
+
 
 A vague "we'll call back" is not acceptable. Always give a specific timeframe.
 

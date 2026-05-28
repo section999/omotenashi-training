@@ -28,7 +28,6 @@ Emergency calls, power failure, medical concern, fire alarm, injury, require a r
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Emergency Script (Facility)</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋の電気が全部消えました。</code></span><br>
 All the lights in my room went out.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ただいまスタッフがお部屋へお伺いいたします。少々お待ちくださいませ。</code></span><br>
@@ -38,7 +37,6 @@ May I confirm your room number?
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Emergency Script (Medical)</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>具合が悪いです。助けてください。</code></span><br>
 I feel unwell. Please help.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。すぐに対応いたします。お部屋番号をお教えいただけますでしょうか。</code></span><br>
@@ -53,7 +51,6 @@ Staff are on their way now. Are you able to stay on the line?
 These are the five most frequent mistakes in hotel telephone communication, along with the specific problem each creates:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Mistakes and Consequences</span>
 
 | Mistake | Example | Operational Consequence |
 |---|---|---|
@@ -66,7 +63,6 @@ These are the five most frequent mistakes in hotel telephone communication, alon
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Silence Problem in Detail</span>
 When a staff member is checking the system, they can see what is happening. The guest cannot. To the guest, silence means one of two things: the call has failed, or the staff member is confused. Neither is acceptable. Always narrate the action before going quiet:<br><br>
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
 Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of silence without it feels like abandonment.
@@ -75,13 +71,11 @@ Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of sil
 ## The Professional Telephone Mindset
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Principle</span>
 "In a telephone call, my voice is the hotel."<br><br>
 There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration, it is the operational reality.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The 4 C's of Professional Telephone Communication</span>
 <span class="keigo-badge info">Clarity</span>: over speed. Speak clearly enough for the guest to follow without strain.<br><br>
 <span class="keigo-badge info">Structure</span>: over natural speech. Follow the 7-step framework; do not improvise.<br><br>
 <span class="keigo-badge info">Calm</span>: over enthusiasm. The goal is reassurance, not energy.<br><br>
@@ -93,7 +87,6 @@ The goal of hotel telephone communication is not to sound human and warm in the 
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Emergency and Standards Phrases</span>
 <span class="keigo-jp"><code>ただいますぐ対応いたします</code></span><br>
 We will respond immediately.<br><br>
 <span class="keigo-jp"><code>スタッフがただいまお伺いいたします</code></span><br>

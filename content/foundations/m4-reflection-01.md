@@ -20,11 +20,10 @@ Hansei does not require a formal meeting or a long block of quiet time. It fits 
 
 A simple hansei practice for hospitality professionals:
 
-- Identify a moment, a specific interaction, decision, or response
-- Describe what happened, factually, without judgement
-- Ask what you noticed, and what you may have missed
-- Ask what you would do differently, and why
-- Name one thing to try differently next time
+<div class="keigo-card blue">
+• Identify a moment, a specific interaction, decision, or response<br>• Describe what happened, factually, without judgement<br>• Ask what you noticed, and what you may have missed<br>• Ask what you would do differently, and why<br>• Name one thing to try differently next time
+</div>
+
 
 The final step is essential. Hansei without a clear intention to act differently is incomplete. Looking back only has value when it helps you move forward more skilfully.
 

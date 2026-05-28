@@ -29,7 +29,6 @@ Handover notes contain information about what happened and what was done. They n
 Every handover entry uses the same structure. This makes scanning fast even under pressure.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Standard Entry Format</span>
 <strong>[Location/Guest] + [Issue/Request] + [Status]</strong><br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
 Room 305: AC issue. Repair arranged (planned for tomorrow).<br><br>
@@ -43,7 +42,6 @@ Three questions this format answers: What happened? To whom? What was done?
 Certain words belong to casual spoken Japanese and have no place in handover notes. They create uncertainty and signal to the reader that the information may not be reliable.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Banned Vocabulary</span>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>ちょっと</code></span>: softening word; vague<br>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>たぶん</code></span>: "probably"; uncertain<br>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>〜と思います</code></span>: "I think"; expresses opinion, not fact<br>
@@ -94,7 +92,6 @@ A problem without a status is an incomplete entry. The incoming staff does not k
 Before submitting the handover, read it from the perspective of someone who was not on shift. Ask: can they act on this immediately? If not, rewrite it.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Self-Check Question</span>
 "If I were reading this for the first time with no background knowledge, would I know exactly what to do and who to contact?"<br><br>
 If the answer is no, the entry is not finished.
 </div>
@@ -102,7 +99,6 @@ If the answer is no, the entry is not finished.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Correct Entry Language</span>
 <span class="keigo-jp"><code>〜：[issue]。[status]。</code></span>: Standard entry format<br>
 <span class="keigo-jp"><code>修理手配済み</code></span>: Repair arranged<br>
 <span class="keigo-jp"><code>フロント確認待ち</code></span>: Awaiting front desk confirmation<br>

@@ -7,20 +7,36 @@ title: 洗剤 (senzai)
 
 Guests with sensitive skin sometimes ask specifically about fragrance-free or hypoallergenic options, and being prepared for that question is a nice mark of thoroughness. Knowing the difference between detergents for regular cotton and those formulated for delicates is equally useful. A common error is to overlook one practical point: too much 洗剤 is a problem, as excess detergent leaves residue on garments and can irritate the skin. Mentioning this to guests before they start a wash is a small piece of advice that tends to be welcomed.
 
-| Japanese | Meaning |
-|---|---|
-| コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。<br><small>*Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.*</small> | We provide liquid detergent for the coin laundry. Please ask at the front desk. |
-| デリケートな素材には、中性洗剤のご使用をお勧めいたします。<br><small>*Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.*</small> | For delicate fabrics, we recommend using a neutral (pH-balanced) detergent. |
-| 洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。<br><small>*Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.*</small> | Please be careful not to add too much detergent, as it may leave residue on your clothes. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。</code></span><br>
+<em>Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.</em><br>
+We provide liquid detergent for the coin laundry. Please ask at the front desk.
+<br><br>
+<span class="keigo-jp"><code>デリケートな素材には、中性洗剤のご使用をお勧めいたします。</code></span><br>
+<em>Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.</em><br>
+For delicate fabrics, we recommend using a neutral (pH-balanced) detergent.
+<br><br>
+<span class="keigo-jp"><code>洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。</code></span><br>
+<em>Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.</em><br>
+Please be careful not to add too much detergent, as it may leave residue on your clothes.
+</div>
 
 ## Related Expressions
 
-- **柔軟剤 (juunanai)**: fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two.
-- **漂白剤 (hyouhakuzai)**: bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area.
+<div class="keigo-card blue">
+<span class="keigo-badge info">柔軟剤 (juunanai)</span> fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two.
+<br><br>
+<span class="keigo-badge info">漂白剤 (hyouhakuzai)</span> bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A straightforward but important mistake is confusing 洗剤 (senzai, detergent for clothes) with 洗浄剤 (senjouzai, cleaning agent for surfaces or equipment). They sound similar but are used in completely different contexts. The potentially costly error is mixing up 洗剤 and 柔軟剤: if a guest asks about softener and staff hand them detergent, the results will not be what they expected. In guest-facing speech, staff should avoid the blunt instruction 洗剤を入れてください. A more helpful and polite phrasing like こちらの洗剤をご使用ください fits the service context much better.
+</div>
 
 ---
 

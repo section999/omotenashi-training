@@ -9,21 +9,38 @@ title: ようこそ (youkoso)
 
 A common error is to use *yōkoso* in everyday spoken greetings, where it ends up sounding theatrical, as if the formality level has been set too high. It should be saved for moments that call for it. When staff do use it, it is effective.
 
-| Japanese | Meaning |
-|---|---|
-| ようこそ、〇〇ホテルへ。心よりお待ちしておりました。<br><small>*Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*</small> | Welcome to ○○ Hotel. We have been truly looking forward to your arrival. |
-| ようこそ日本へ。ご旅行をどうぞお楽しみください。<br><small>*Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.*</small> | Welcome to Japan. Please enjoy your journey. |
-| ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。<br><small>*Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.*</small> | From your welcome card: Welcome to our inn. We welcome you with all our hearts. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ようこそ、〇〇ホテルへ。心よりお待ちしておりました。</code></span><br>
+<em>Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.</em><br>
+Welcome to ○○ Hotel. We have been truly looking forward to your arrival.
+<br><br>
+<span class="keigo-jp"><code>ようこそ日本へ。ご旅行をどうぞお楽しみください。</code></span><br>
+<em>Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.</em><br>
+Welcome to Japan. Please enjoy your journey.
+<br><br>
+<span class="keigo-jp"><code>ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。</code></span><br>
+<em>Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.</em><br>
+From your welcome card: Welcome to our inn. We welcome you with all our hearts.
+</div>
 
 ## Related Expressions
 
-- **いらっしゃいませ (irasshaimase)**: the everyday spoken welcome staff use at the moment a guest arrives; this is their go-to phrase for routine arrivals and should feel natural and immediate
-- **お越しいただきありがとうございます (o-koshi itadaki arigatō gozaimasu)**: "Thank you for coming to us", expresses gratitude for the guest making the effort to visit, with a warm and slightly more personal tone
-- **心よりお迎えいたします (kokoro yori o-mukae itashimasu)**: "We welcome you from the heart", a beautiful phrase for written communication and formal spoken greetings on special occasions
+<div class="keigo-card blue">
+<span class="keigo-badge info">いらっしゃいませ (irasshaimase)</span> the everyday spoken welcome staff use at the moment a guest arrives; this is their go-to phrase for routine arrivals and should feel natural and immediate
+<br><br>
+<span class="keigo-badge info">お越しいただきありがとうございます (o-koshi itadaki arigatō gozaimasu)</span> "Thank you for coming to us", expresses gratitude for the guest making the effort to visit, with a warm and slightly more personal tone
+<br><br>
+<span class="keigo-badge info">心よりお迎えいたします (kokoro yori o-mukae itashimasu)</span> "We welcome you from the heart", a beautiful phrase for written communication and formal spoken greetings on special occasions
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is using *yōkoso* as a casual spoken greeting, which can make it feel overdone or awkward in routine interactions. It should be kept for written contexts, ceremonial moments, or special arrivals. However, the opposite mistake also happens: treating every guest the same with *irasshaimase* regardless of the occasion. For a VIP guest, an anniversary couple, or a long-awaited reunion visit, stepping up to *yōkoso* language shows that staff has noticed something meaningful about their presence.
+</div>
 
 ---
 ## Quiz

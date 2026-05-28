@@ -11,7 +11,6 @@ The staff member's primary goal is **not to solve the problem immediately**. It 
 ## The Complaint Handling Principle
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Emotional Logic of Complaints</span>
 Guest emotion follows a predictable path:<br><br>
 Frustration → Need to be heard → Need to be validated → Ready to hear solutions<br><br>
 If staff skip to "solutions" before the guest feels heard, the emotional tension escalates rather than resolves. The fastest path to resolution is always: acknowledge first, solve second.
@@ -20,7 +19,6 @@ If staff skip to "solutions" before the guest feels heard, the emotional tension
 ## The 4-A Framework
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">4-A Complaint Framework</span>
 <span class="keigo-badge info">1. Apologize</span>: Express genuine regret immediately, before asking any questions<br>
 <span class="keigo-badge info">2. Acknowledge</span>: Confirm you understand what the guest has experienced<br>
 <span class="keigo-badge info">3. Act</span>: State clearly what action will be taken, and when<br>
@@ -30,7 +28,6 @@ If staff skip to "solutions" before the guest feels heard, the emotional tension
 ## Noise Complaint Script
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Noise Complaint</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>隣の部屋がうるさくて眠れません。</code></span><br>
 The room next to mine is so noisy I can't sleep.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span><br>
@@ -46,7 +43,6 @@ The room next to mine is so noisy I can't sleep.<br><br>
 ## Facility Problem Script
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Facility Problem (e.g., air conditioning not working)</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>エアコンが動きません。</code></span><br>
 The air conditioning isn't working.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ご不便をおかけしております。</code></span><br>
@@ -79,7 +75,6 @@ While we are resolving this, please let us know if there is anything we can prov
 When a complaint requires a manager's involvement:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Escalation Phrase</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。</code></span><br>
 <em>makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.</em><br>
 I am sorry to trouble you, but I will now connect you to the responsible person. Please wait a moment.<br><br>
@@ -89,7 +84,6 @@ I am sorry to trouble you, but I will now connect you to the responsible person.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Complaint Key Phrases</span>
 <span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません</code></span><br>
 I sincerely apologize for the inconvenience caused.<br><br>
 <span class="keigo-jp"><code>ただいまの状況、確かに承りました</code></span><br>

@@ -7,20 +7,36 @@ title: マナー (manaa)
 
 Hospitality staff need to handle マナー situations with a light touch. Guests sometimes arrive unaware of local expectations, and how staff address that is where professional skill shows. The goal is never to embarrass someone, it is to help them understand. Signage phrases like 「静かにお願いします」 and 「飲食はご遠慮ください」 communicate expectations gently and impersonally. When direct conversation is needed, the indirect Japanese approach works best: something like 「こちらではご遠慮いただいております」 (We kindly ask guests to refrain from that here) is far more effective than pointing out a マナー violation directly.
 
-| Japanese | Meaning |
-|---|---|
-| 電車内では携帯電話のご使用をお控えいただくなど、マナーをお守りください。<br><small>*Densha nai de wa keitai denwa no go-shiyou wo o-hikae itadaku nado, manaa wo o-mamori kudasai.*</small> | Please observe good manners, such as refraining from using mobile phones inside the train. |
-| 温泉施設では、入浴前に体を洗うというマナーがございます。<br><small>*Onsen shisetsu de wa, nyuuyoku mae ni karada wo arau to iu manaa ga gozaimasu.*</small> | At hot spring facilities, there is a manner of washing your body before entering the bath. |
-| 神社仏閣を訪れる際は、その場のマナーを尊重していただけますと幸いです。<br><small>*Jinja-butsukaku wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.*</small> | When visiting shrines and temples, we would appreciate your respect for the manners of the place. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>電車内では携帯電話のご使用をお控えいただくなど、マナーをお守りください。</code></span><br>
+<em>Densha nai de wa keitai denwa no go-shiyou wo o-hikae itadaku nado, manaa wo o-mamori kudasai.</em><br>
+Please observe good manners, such as refraining from using mobile phones inside the train.
+<br><br>
+<span class="keigo-jp"><code>温泉施設では、入浴前に体を洗うというマナーがございます。</code></span><br>
+<em>Onsen shisetsu de wa, nyuuyoku mae ni karada wo arau to iu manaa ga gozaimasu.</em><br>
+At hot spring facilities, there is a manner of washing your body before entering the bath.
+<br><br>
+<span class="keigo-jp"><code>神社仏閣を訪れる際は、その場のマナーを尊重していただけますと幸いです。</code></span><br>
+<em>Jinja-butsukaku wo otozureru sai wa, sono ba no manaa wo sonchou shite itadakemasu to saiwai desu.</em><br>
+When visiting shrines and temples, we would appreciate your respect for the manners of the place.
+</div>
 
 ## Related Expressions
 
-- **エチケット (echiketto)**: etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. Staff may hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings.
-- **ルール (ruuru)**: rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone.
+<div class="keigo-card blue">
+<span class="keigo-badge info">エチケット (echiketto)</span> etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. Staff may hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings.
+<br><br>
+<span class="keigo-badge info">ルール (ruuru)</span> rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to treat マナー as identical to 礼儀 (reigi, courtesy), but 礼儀 is more about respectful conduct within personal relationships, while マナー has a broader, more public connotation covering everyday shared spaces. The two overlap but are not interchangeable. On correction technique: saying 「マナー違反です」 directly to a guest sounds blunt and accusatory. Substituting 「こちらではご遠慮いただいております」 achieves the same goal while keeping the interaction warm and face-saving for everyone involved.
+</div>
 
 ---
 

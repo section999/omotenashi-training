@@ -106,7 +106,6 @@ A VIP guest is scheduled to arrive during the evening shift.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Professional Entry Language Patterns</span>
 <span class="keigo-jp"><code>〜：[issue]あり。[status]。</code></span>: Standard event entry<br>
 <span class="keigo-jp"><code>〜対応済み</code></span>: Issue handled; no further action needed<br>
 <span class="keigo-jp"><code>〜確認待ち</code></span>: Awaiting confirmation from named party<br>

@@ -7,20 +7,36 @@ title: 荷物預かり (nimotsu azukari)
 
 When accepting luggage, staff should always issue a 引換券 (claim ticket), tag each item clearly with the guest's name and a reference number, and store everything in a secure, designated area. Staff should flag any fragile items at the time of acceptance and note them in the log. During high-traffic periods like Golden Week or peak tourist season, the storage area can fill up faster than expected. Communicating early about capacity, rather than turning a guest away at the counter, keeps everyyour experience smooth.
 
-| Japanese | Meaning |
-|---|---|
-| チェックインは午後3時からですが、お荷物はただいまからお預かりできます。<br><small>*Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.*</small> | Check-in begins at 3:00 PM, but we can take your luggage right now. |
-| 荷物預かりをご利用の際は、こちらの引換券を大切にお持ちください。<br><small>*Nimotsu azukari o go-riyou no sai wa, kochira no hikikaeken o taisetsu ni o-mochi kudasai.*</small> | When using our luggage storage service, please keep this claim ticket safe. |
-| お預かりしている荷物は、当日のご出発時間まで安全に保管いたします。<br><small>*O-azukari shite iru nimotsu wa, toujitsu no go-shuppatsu jikan made anzen ni hokan itashimasu.*</small> | We will keep your stored luggage safely until your departure time today. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>チェックインは午後3時からですが、お荷物はただいまからお預かりできます。</code></span><br>
+<em>Chekku-in wa gogo san-ji kara desu ga, o-nimotsu wa tadaima kara o-azukari dekimasu.</em><br>
+Check-in begins at 3:00 PM, but we can take your luggage right now.
+<br><br>
+<span class="keigo-jp"><code>荷物預かりをご利用の際は、こちらの引換券を大切にお持ちください。</code></span><br>
+<em>Nimotsu azukari o go-riyou no sai wa, kochira no hikikaeken o taisetsu ni o-mochi kudasai.</em><br>
+When using our luggage storage service, please keep this claim ticket safe.
+<br><br>
+<span class="keigo-jp"><code>お預かりしている荷物は、当日のご出発時間まで安全に保管いたします。</code></span><br>
+<em>O-azukari shite iru nimotsu wa, toujitsu no go-shuppatsu jikan made anzen ni hokan itashimasu.</em><br>
+We will keep your stored luggage safely until your departure time today.
+</div>
 
 ## Related Expressions
 
-- **荷物 (nimotsu)**: luggage in general; 荷物預かり is built from 荷物 plus 預かり (the act of holding something in trust), so understanding the parts makes the compound feel natural.
-- **保管 (hokan)**: broader term for storage or safekeeping of any item; 荷物預かり is the guest-service-specific version of this concept.
+<div class="keigo-card blue">
+<span class="keigo-badge info">荷物 (nimotsu)</span> luggage in general; 荷物預かり is built from 荷物 plus 預かり (the act of holding something in trust), so understanding the parts makes the compound feel natural.
+<br><br>
+<span class="keigo-badge info">保管 (hokan)</span> broader term for storage or safekeeping of any item; 荷物預かり is the guest-service-specific version of this concept.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to say 荷物預かりをしてください when speaking with guests, which is grammatically fine but not appropriate in register. In guest-facing speech, staff should use お荷物をお預かりいたします, which is the proper keigo form. Another thing that catches learners off guard is forgetting the 引換券. Without that ticket, if a bag gets moved around in the storage area, retrieval disputes are very difficult to sort out cleanly. Staff should not confuse 荷物預かり with ロッカー either: 荷物預かり is a staff-managed service, while a ロッカー is a self-service option where the guest locks and manages their own belongings independently.
+</div>
 
 ---
 

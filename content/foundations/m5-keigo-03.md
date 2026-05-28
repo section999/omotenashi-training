@@ -11,7 +11,6 @@ title: 尊敬語 (Sonkeigo) in Depth
 Use 尊敬語 whenever the **guest** is the subject of the action. It is not just about swapping verbs. It reflects the hospitality value: the guest is the honored party, and language must show that.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The One-Question Test</span>
 Before choosing a verb form, ask: <strong>Is the guest the one doing this action?</strong><br><br>
 If yes: use 尊敬語<br>
 If no (staff is doing it): use 謙譲語<br>
@@ -23,7 +22,6 @@ If neutral context: use 丁寧語
 These verbs have entirely new forms in sonkeigo. They cannot be constructed by formula and must be memorized individually.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Irregular Sonkeigo Verb Forms</span>
 
 | Plain Form | Sonkeigo Form | Context |
 |---|---|---|
@@ -48,7 +46,6 @@ For verbs without special irregular forms, use:
 **お + verb stem (masu-stem) + になります**
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Regular Pattern: お〜になります</span>
 <span class="keigo-jp"><code>お使いになります</code></span>: Guest uses<br>
 <span class="keigo-jp"><code>お読みになります</code></span>: Guest reads<br>
 <span class="keigo-jp"><code>お書きになります</code></span>: Guest writes<br>
@@ -64,7 +61,6 @@ Construction: お + [verb masu-stem] + になります<br>
 For Chinese-origin (漢語) verb stems, use ご instead of お:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">ご〜になります / ご〜なさいます</span>
 <span class="keigo-jp"><code>ご利用になります</code></span>: Guest uses a service<br>
 <span class="keigo-jp"><code>ご確認になります</code></span>: Guest confirms<br>
 <span class="keigo-jp"><code>ご予約なさいます</code></span>: Guest makes a reservation<br>
@@ -109,7 +105,6 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 A serious mistake is using sonkeigo to describe the staff's own actions. These verbs apply only to guests.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Never Use Sonkeigo for Your Own Actions</span>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br>
 いらっしゃいます is an honorific. Applying it to yourself elevates yourself above the guest.<br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>私がおります。</code></span><br>
@@ -122,7 +117,6 @@ Applying sonkeigo to a colleague is also incorrect.<br><br>
 ## Sonkeigo Question Forms
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Common Sonkeigo Question Patterns</span>
 <span class="keigo-jp"><code>〜でいらっしゃいますか</code></span><br>
 Are you 〜?<br>
 Example: <span class="keigo-jp"><code>田中様でいらっしゃいますか。</code></span><br><br>
@@ -137,7 +131,6 @@ Example: <span class="keigo-jp"><code>朝食はいかがなさいますか。</c
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core 尊敬語 Phrases for Hotel Use</span>
 <span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome<br>
 <span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>〜でいらっしゃいますか</code></span>: Are you 〜?<br>
 <span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>召し上がりますか</code></span>: Will you eat/drink?<br>

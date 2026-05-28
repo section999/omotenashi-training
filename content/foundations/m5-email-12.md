@@ -9,7 +9,6 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 ## What This Email Must Accomplish
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Goals of a Cancellation Response</span>
 <strong>1. Confirm:</strong> State clearly that the cancellation has been processed.<br>
 <strong>2. Acknowledge fee if applicable:</strong> Communicate cancellation fees, if any, in a professional and non-confrontational way.<br>
 <strong>3. Preserve relationship:</strong> End with warmth that keeps the door open for a future booking.
@@ -18,18 +17,15 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 ## Template 1: Simple Cancellation (No Fee)
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">件名 (Subject)</span>
 <span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
 Thank you for contacting us.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Confirmation</span>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
 We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
 <span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
@@ -37,7 +33,6 @@ No cancellation fee has been charged.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
 We hope to have the opportunity to welcome you again. We look forward to your future visit.
 </div>
@@ -45,23 +40,19 @@ We hope to have the opportunity to welcome you again. We look forward to your fu
 ## Template 2: Cancellation with Fee
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">件名 (Subject)</span>
 <span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Opening</span>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Cancellation Confirmation</span>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
 We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Body: Fee Communication</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
 We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
 <span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
@@ -71,7 +62,6 @@ If you have any questions, please feel free to contact us.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing</span>
 <span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
 We hope to have the opportunity to welcome you again.
 </div>
@@ -79,7 +69,6 @@ We hope to have the opportunity to welcome you again.
 ## Key Phrase: 誠に恐れ入りますが
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Communicating Fees Professionally</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: "I am truly sorry to say, but..."<br>
 This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.
 </div>

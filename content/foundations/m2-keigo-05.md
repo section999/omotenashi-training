@@ -10,22 +10,28 @@ Even experienced staff make keigo errors. Many of these mistakes have become so 
 
 Stacking multiple honorific forms on a single verb creates grammatical redundancy and sounds awkward. A common example is *おっしゃられました*. Since おっしゃる is already the sonkeigo form of 言う, adding られ is unnecessary and incorrect.
 
-- Incorrect: *おっしゃられました*
-- Correct: *おっしゃいました*
+<div class="keigo-card blue">
+• Incorrect: *おっしゃられました*<br>• Correct: *おっしゃいました*
+</div>
+
 
 ## 2. Using Kenjōgo for the Guest's Actions
 
 Kenjōgo lowers the speaker. It should never be used to describe what the guest does. Saying *お客様がいただきますか？* is incorrect because いただく is humble language reserved for the speaker's own receiving.
 
-- Incorrect: *お客様がいただきますか？*
-- Correct: *お客様は召し上がりますか？* (sonkeigo)
+<div class="keigo-card blue">
+• Incorrect: *お客様がいただきますか？*<br>• Correct: *お客様は召し上がりますか？* (sonkeigo)
+</div>
+
 
 ## 3. ～になります Used Incorrectly
 
 *こちらがコーヒーになります* (This will become coffee) is heard in many restaurants but is grammatically incorrect. Nothing is becoming coffee, it simply is coffee.
 
-- Incorrect: *こちらがコーヒーになります*
-- Correct: *こちらがコーヒーでございます*
+<div class="keigo-card blue">
+• Incorrect: *こちらがコーヒーになります*<br>• Correct: *こちらがコーヒーでございます*
+</div>
+
 
 This error spread through chain restaurant training in the 1990s and has never fully disappeared. Hearing it frequently does not make it correct.
 

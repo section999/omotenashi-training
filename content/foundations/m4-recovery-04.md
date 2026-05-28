@@ -8,30 +8,27 @@ Once the guest has been heard and a sincere apology has been made, the interacti
 
 ## Principles of Solution-Finding
 
-### Speed Matters
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Speed Matters</span><br>
 The longer a guest waits for a resolution after a complaint, the more the initial failure compounds. Move quickly, not frantically, but with deliberate, visible urgency. If you need to consult a manager or check availability, tell the guest exactly what you are doing and how long it will take. Do not disappear without explanation.
-
-### Match the Solution to the Problem
-
+<br><br>
+<span class="keigo-badge info">Match the Solution to the Problem</span><br>
 An inconvenience caused by a one-hour wait is not resolved by offering a complimentary pen. A significant failure, a room that was genuinely uninhabitable, a major allergy oversight, requires a proportional response. Knowing what is within your authority to offer, and when to escalate, is one of the most practical skills in service recovery.
-
-### Ask When Appropriate
-
+<br><br>
+<span class="keigo-badge info">Ask When Appropriate</span><br>
 In some cases, the right solution is not obvious. Asking the guest what would make things right is both respectful and practical: "I would very much like to make this right for you, may I ask what would be most helpful?" This is not stepping back from responsibility; it is recognising that the guest knows their own situation best.
-
-### Never Argue
-
+<br><br>
+<span class="keigo-badge info">Never Argue</span><br>
 Even if the guest's account of events contains inaccuracies, this is not the moment to correct them. The priority is resolution. If factual clarification is genuinely necessary, it can be handled later, gently, and only if relevant to the solution.
+</div>
 
 ## Common Recovery Actions
 
-- Room upgrade or room change
-- Complimentary meal, beverage, or amenity
-- Waived charge for the affected item or service
-- Priority rebooking or arrangement assistance
-- Personal attention from a senior staff member or manager
-- Written follow-up or thank-you note
+<div class="keigo-card blue">
+• Room upgrade or room change<br>• Complimentary meal, beverage, or amenity<br>• Waived charge for the affected item or service<br>• Priority rebooking or arrangement assistance<br>• Personal attention from a senior staff member or manager<br>• Written follow-up or thank-you note
+</div>
+
 
 ## Offering the Solution
 

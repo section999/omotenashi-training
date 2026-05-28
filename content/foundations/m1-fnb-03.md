@@ -18,16 +18,17 @@ Good pacing requires continuous observation. The server's attention should be on
 
 Signals that a guest is ready for the next course:
 
-- Cutlery placed together on the plate, even informally, typically signals that the guest has finished
-- Plates pushed slightly forward or aside, the guest is making space for what comes next
-- A pause in conversation after eating, the experience of the dish has been processed and attention is returning outward
-- The guest glancing toward the service area, often a sign they are ready for the next step
+<div class="keigo-card blue">
+• Cutlery placed together on the plate, even informally, typically signals that the guest has finished<br>• Plates pushed slightly forward or aside, the guest is making space for what comes next<br>• A pause in conversation after eating, the experience of the dish has been processed and attention is returning outward<br>• The guest glancing toward the service area, often a sign they are ready for the next step
+</div>
+
 
 Signals that a guest is not yet ready:
 
-- Cutlery still in hand or in use
-- One guest still eating while another has finished, do not clear the finished plate; wait until both have completed the course
-- Active, animated conversation, the meal is part of the social experience; do not interrupt
+<div class="keigo-card blue">
+• Cutlery still in hand or in use<br>• One guest still eating while another has finished, do not clear the finished plate; wait until both have completed the course<br>• Active, animated conversation, the meal is part of the social experience; do not interrupt
+</div>
+
 
 ## Adapting to the Table's Pace
 

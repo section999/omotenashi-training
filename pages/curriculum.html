@@ -98,109 +98,7 @@
       margin-bottom: 4px;
     }
 
-    /* ── MODULE BLOCK ── */
-    .module-block {
-      background: var(--bg-primary);
-      border: 1px solid rgba(255,255,255,0.06);
-      border-radius: 10px;
-      margin-top: 10px;
-      overflow: hidden;
-      transition: border-color 0.2s;
-    }
-    .module-block:hover {
-      border-color: rgba(var(--accent-rgb), 0.35);
-    }
-    .module-block.open {
-      border-color: rgba(var(--accent-rgb), 0.35);
-    }
-
-    /* ── MODULE HEADER ── */
-    .module-header {
-      display: flex; align-items: center; gap: 18px;
-      padding: 24px 28px 20px;
-      cursor: pointer;
-    }
-    .module-chevron {
-      font-size: 0.75rem; color: var(--text-muted);
-      transition: transform 0.2s; flex-shrink: 0;
-      margin-left: auto;
-    }
-    .module-block.open .module-chevron { transform: rotate(180deg); }
-    .module-icon {
-      width: 52px; height: 52px; border-radius: 50%;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 1.5rem; flex-shrink: 0; line-height: 1;
-      background: var(--accent-bg);
-    }
-    .module-meta { flex: 1; min-width: 0; }
-    .module-num {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      font-size: 1rem; letter-spacing: normal;
-      text-transform: uppercase; color: #fff;
-      margin-bottom: 4px;
-    }
-    .module-title {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      font-size: 1rem; font-weight: 700;
-      color: #fff; line-height: 1.3;
-      margin-bottom: 3px;
-    }
-    .module-subtitle {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      font-size: 1rem;
-      color: #fff;
-    }
-    .module-count {
-      font-family: 'Segoe UI', system-ui, sans-serif; font-size: 1rem;
-      color: #fff;
-      background: rgba(255,255,255,0.05);
-      padding: 4px 10px; border-radius: 999px;
-      white-space: nowrap; flex-shrink: 0;
-    }
-
-    /* ── LESSON LIST ── */
-    .lesson-list {
-      border-top: 1px solid rgba(255,255,255,0.05);
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.3s ease;
-    }
-    .module-block.open .lesson-list {
-      max-height: 3000px;
-    }
-    .lesson-item {
-      display: flex; align-items: center; gap: 14px;
-      padding: 13px 28px;
-      text-decoration: none;
-      color: #fff;
-      border-bottom: 1px solid rgba(255,255,255,0.04);
-      transition: background 0.12s, color 0.12s;
-    }
-    .lesson-item:last-child { border-bottom: none; }
-    .lesson-item:hover {
-      background: rgba(255,255,255,0.03);
-      color: var(--text-primary);
-    }
-    .lesson-item:hover .lesson-step {
-      border-color: var(--accent);
-      color: var(--accent);
-    }
-    .lesson-step {
-      width: 36px; height: 36px; border-radius: 50%;
-      border: 1px solid rgba(255,255,255,0.25);
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'Segoe UI', system-ui, sans-serif; font-size: 1rem;
-      color: #fff; flex-shrink: 0;
-      transition: border-color 0.12s, color 0.12s;
-    }
-    .lesson-name { flex: 1; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 1rem; color: #fff; }
-    .lesson-go {
-      font-size: 1rem; color: #fff;
-      opacity: 0; transition: opacity 0.12s;
-    }
-    .lesson-item:hover .lesson-go { opacity: 1; }
-
-    /* ── COURSE TREE (Hierarchical / Pinyin-style) ── */
+    /* ── COURSE TREE ── */
     .course-tree {
       background: var(--bg-primary);
       border: 1px solid rgba(255,255,255,0.06);
@@ -1181,6 +1079,27 @@ margin-top: 48px;
                 <a href="md-viewer.html?file=content/foundations/m5-meeting-05.md" class="step-btn">5</a>
                 <a href="md-viewer.html?file=content/foundations/m5-meeting-06.md" class="step-btn">6</a>
                 <a href="md-viewer.html?file=content/foundations/m5-meeting-07.md" class="step-btn">7</a>
+              </div>
+             </div>
+           </div>
+
+          <!-- L2: Internal Communication -->
+          <div class="tree-l2" id="tree-l2-m5-internal">
+            <div class="tree-l2-row" onclick="toggleTree(this,'tree-l2-m5-internal')" role="button" aria-expanded="false">
+              <span class="tree-l2-chevron">▶</span>
+              <span class="tree-circle"></span>
+              <span class="tree-l2-label">Internal Communication</span>
+              <span class="tree-l2-progress">0 of 7 steps complete</span>
+            </div>
+            <div class="tree-l2-children">
+              <div class="step-grid">
+                <a href="md-viewer.html?file=content/foundations/m5-internal-01.md" class="step-btn">1</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-02.md" class="step-btn">2</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-03.md" class="step-btn">3</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-04.md" class="step-btn">4</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-05.md" class="step-btn">5</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-06.md" class="step-btn">6</a>
+                <a href="md-viewer.html?file=content/foundations/m5-internal-07.md" class="step-btn">7</a>
               </div>
              </div>
            </div>

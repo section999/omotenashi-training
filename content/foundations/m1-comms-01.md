@@ -26,11 +26,10 @@ Neither guest told you what they needed. You read it.
 
 Reading the air is a skill built from specific observations:
 
-- **Pace:** how quickly or slowly is the guest moving and speaking? Match it.
-- **Eye contact:** are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze suggests a preference for less.
-- **Response length:** one-word answers versus expansive conversation. Respond in kind.
-- **Posture:** leaning toward you (engaged) or away (guarded). Adjust your physical proximity accordingly.
-- **Mood on arrival:** a guest arriving flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Pace:</span> how quickly or slowly is the guest moving and speaking? Match it.<br><br><span class="keigo-badge info">Eye contact:</span> are they meeting your gaze or looking past you? Sustained gaze invites engagement; averted gaze suggests a preference for less.<br><br><span class="keigo-badge info">Response length:</span> one-word answers versus expansive conversation. Respond in kind.<br><br><span class="keigo-badge info">Posture:</span> leaning toward you (engaged) or away (guarded). Adjust your physical proximity accordingly.<br><br><span class="keigo-badge info">Mood on arrival:</span> a guest arriving flustered from a delayed flight needs different handling than one who has arrived relaxed after a comfortable journey.
+</div>
+
 
 ## The Common Mistake
 

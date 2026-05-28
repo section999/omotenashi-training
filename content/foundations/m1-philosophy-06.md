@@ -18,10 +18,10 @@ Every shift is an opportunity to notice one thing you could do better: one momen
 
 ## Practical Expressions of Omotenashi in Daily Work
 
-- **Before the shift:** Review what you know about today's guests, arrivals, anniversaries, dietary needs, preferences noted from previous stays. Preparation is where omotenashi begins.
-- **During the shift:** Practice kikubari continuously. Read the room and each guest, and act on what you observe. Do not wait to be asked.
-- **At the moment of service:** Make every interaction feel unhurried and personal, even when you are busy. The guest should never feel like a queue number.
-- **After the interaction:** Note what was said, what was preferred, what would improve the next visit. Memory, or its systematic equivalent in guest notes, is what transforms one good stay into a lasting relationship.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Before the shift:</span> Review what you know about today's guests, arrivals, anniversaries, dietary needs, preferences noted from previous stays. Preparation is where omotenashi begins.<br><br><span class="keigo-badge info">During the shift:</span> Practice kikubari continuously. Read the room and each guest, and act on what you observe. Do not wait to be asked.<br><br><span class="keigo-badge info">At the moment of service:</span> Make every interaction feel unhurried and personal, even when you are busy. The guest should never feel like a queue number.<br><br><span class="keigo-badge info">After the interaction:</span> Note what was said, what was preferred, what would improve the next visit. Memory, or its systematic equivalent in guest notes, is what transforms one good stay into a lasting relationship.
+</div>
+
 
 ## Kokorozukai: Thoughtfulness in Action
 
@@ -29,9 +29,10 @@ The Japanese concept of **kokorozukai (心遣い)**: literally "the use of the h
 
 Examples include:
 
-- A birthday card left on the pillow
-- A note explaining the origin of the ingredients in a meal
-- Remembering a guest's name on their second visit
+<div class="keigo-card blue">
+• A birthday card left on the pillow<br>• A note explaining the origin of the ingredients in a meal<br>• Remembering a guest's name on their second visit
+</div>
+
 
 These actions take moments to execute but show that the guest was held in mind. Kokorozukai is not occasional. It is a way of moving through every interaction with a habit of consideration, asking not only "what does this guest need?" but "what would make this person feel genuinely cared for?"
 

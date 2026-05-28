@@ -7,20 +7,36 @@ title: シャワー (shower)
 
 Staff typically explain the shower during the room orientation given at check-in, pointing out how to adjust water temperature, how the handheld unit functions, and where the controls are located. Common phrases include 「シャワーは温度調節が可能でございます」 (the shower temperature is adjustable) and 「シャワーのご使用方法についてご説明いたします」 (I will explain how to use the shower). In ryokan settings where a communal bath is the norm, staff may also clarify whether the in-room shower serves as a rinsing station before entering the ofuro.
 
-| Japanese | Meaning |
-|---|---|
-| お部屋のシャワーは温度調節が可能でございます。<br><small>*Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.*</small> | The shower in the room allows you to adjust the temperature. |
-| シャワーの使い方についてご説明してもよろしいでしょうか。<br><small>*Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.*</small> | May I explain how to use the shower? |
-| シャワーヘッドは取り外しができますので、ご自由にお使いください。<br><small>*Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.*</small> | The showerhead can be detached, so please use it freely. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋のシャワーは温度調節が可能でございます。</code></span><br>
+<em>Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.</em><br>
+The shower in the room allows you to adjust the temperature.
+<br><br>
+<span class="keigo-jp"><code>シャワーの使い方についてご説明してもよろしいでしょうか。</code></span><br>
+<em>Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.</em><br>
+May I explain how to use the shower?
+<br><br>
+<span class="keigo-jp"><code>シャワーヘッドは取り外しができますので、ご自由にお使いください。</code></span><br>
+<em>Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.</em><br>
+The showerhead can be detached, so please use it freely.
+</div>
 
 ## Related Expressions
 
-- **浴室 (yokushitsu)**: The formal term for the entire bathroom or bathing room. While シャワー refers specifically to the shower appliance or act of showering, 浴室 encompasses the whole space including bath, sink, and shower. Staff use 浴室 in formal descriptions and brochures.
-- **お風呂 (ofuro)**: Refers to the bath, typically a soaking tub. Unlike シャワー (a quick rinse), お風呂 implies the Japanese cultural practice of a full soak, and in ryokan contexts the two are clearly differentiated in staff explanations.
+<div class="keigo-card blue">
+<span class="keigo-badge info">浴室 (yokushitsu)</span> The formal term for the entire bathroom or bathing room. While シャワー refers specifically to the shower appliance or act of showering, 浴室 encompasses the whole space including bath, sink, and shower. Staff use 浴室 in formal descriptions and brochures.
+<br><br>
+<span class="keigo-badge info">お風呂 (ofuro)</span> Refers to the bath, typically a soaking tub. Unlike シャワー (a quick rinse), お風呂 implies the Japanese cultural practice of a full soak, and in ryokan contexts the two are clearly differentiated in staff explanations.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to use シャワー as a verb directly, saying 「シャワーしてください」, but the natural phrasing is 「シャワーをお使いください」 or 「シャワーをお浴びください」. Another common error is dropping polite forms when explaining room equipment. Staff should use ございます or でございます rather than plain です or ある forms. Confusing シャワー (shower) with お風呂 (bath) when responding to guest questions about bathing facilities is another common error, as the two are quite different in a Japanese hospitality context.
+</div>
 
 ---
 

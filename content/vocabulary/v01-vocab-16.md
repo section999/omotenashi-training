@@ -10,21 +10,38 @@ The phrase carries a specific emotional weight in Japanese cultural context. Tim
 
 Use this phrase when showing a guest to their room for the first time, presenting a meal, seating a guest at a table, or inviting a guest to browse, rest, or enjoy a facility. It is the hospitality professional's gift of time
 
-| Japanese | Meaning |
-|---|---|
-| こちらがお部屋でございます。ごゆっくりどうぞ。<br><small>*Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*</small> | This is the room. Please make yourself at home: take your time. |
-| 本日のお食事でございます。ごゆっくりどうぞ。<br><small>*Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*</small> | Here is today's meal. Please enjoy it at your leisure. |
-| どうぞ、ごゆっくりおくつろぎください。<br><small>*Dōzo, goyukkuri o-kutsurogikudasai.*</small> | Please, relax fully and take all the time you need. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらがお部屋でございます。ごゆっくりどうぞ。</code></span><br>
+<em>Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.</em><br>
+This is the room. Please make yourself at home: take your time.
+<br><br>
+<span class="keigo-jp"><code>本日のお食事でございます。ごゆっくりどうぞ。</code></span><br>
+<em>Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.</em><br>
+Here is today's meal. Please enjoy it at your leisure.
+<br><br>
+<span class="keigo-jp"><code>どうぞ、ごゆっくりおくつろぎください。</code></span><br>
+<em>Dōzo, goyukkuri o-kutsurogikudasai.</em><br>
+Please, relax fully and take all the time you need.
+</div>
 
 ## Related Expressions
 
-- **どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)**: A more elaborate version: "Please, relax fully at their leisure"
-- **お急ぎでなければ (o-isogi de nakereba)**: "If one is not in a hurry": used to suggest there is no time pressure
-- **ゆっくりしていってください (yukkuri shite itte kudasai)**: "Please take their time before you go": casual version; not appropriate for guest interactions
+<div class="keigo-card blue">
+<span class="keigo-badge info">どうぞ、ごゆっくりおくつろぎください (dōzo, goyukkuri o-kutsurogikudasai)</span> A more elaborate version: "Please, relax fully at their leisure"
+<br><br>
+<span class="keigo-badge info">お急ぎでなければ (o-isogi de nakereba)</span> "If one is not in a hurry": used to suggest there is no time pressure
+<br><br>
+<span class="keigo-badge info">ゆっくりしていってください (yukkuri shite itte kudasai)</span> "Please take their time before you go": casual version; not appropriate for guest interactions
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is forgetting to say *goyukkuri dōzo* at all: treating room arrival or meal delivery as purely functional rather than as a moment to communicate care. A second mistake is saying the phrase while already turning to leave, which undermines the message entirely. It should be said with brief eye contact, allowing the guest a moment to feel welcomed before stepping away.
+</div>
 
 ---
 

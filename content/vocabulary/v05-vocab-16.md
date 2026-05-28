@@ -7,20 +7,36 @@ title: 予約席 (yoyaku seki)
 
 In daily restaurant operations, 予約席 are typically marked with reservation cards or indicated on the seating chart. When a guest approaches or sits at a reserved table, staff must respond immediately but courteously, using a phrase such as こちらは予約席でございます to inform the guest without causing embarrassment. However, the words alone are not enough. Staff should always follow up with an alternative: こちらは予約席でございます。あちらのお席へご案内いたしましょうか. In pre-service briefings, staff confirm which tables are 予約席 for each service period and who the reservations belong to.
 
-| Japanese | Meaning |
-|---|---|
-| こちらは予約席でございます。誠に恐れ入りますが、別のお席へご案内いたします。<br><small>*Kochira wa yoyaku seki de gozaimasu. Makoto ni osore irimasu ga, betsu no o-seki e go-annai itashimasu.*</small> | This is a reserved seat. I am very sorry, but I will guide you to another table. |
-| 窓際のお席は本日すべて予約席となっております。<br><small>*Madogiwa no o-seki wa honjitsu subete yoyaku seki to natte orimasu.*</small> | All window seats are reserved today. |
-| ご予約のお客様のために、予約席をご用意しております。<br><small>*Go-yoyaku no okyaku-sama no tame ni, yoyaku seki wo go-youi shite orimasu.*</small> | We have reserved seats prepared for guests with reservations. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらは予約席でございます。誠に恐れ入りますが、別のお席へご案内いたします。</code></span><br>
+<em>Kochira wa yoyaku seki de gozaimasu. Makoto ni osore irimasu ga, betsu no o-seki e go-annai itashimasu.</em><br>
+This is a reserved seat. I am very sorry, but I will guide you to another table.
+<br><br>
+<span class="keigo-jp"><code>窓際のお席は本日すべて予約席となっております。</code></span><br>
+<em>Madogiwa no o-seki wa honjitsu subete yoyaku seki to natte orimasu.</em><br>
+All window seats are reserved today.
+<br><br>
+<span class="keigo-jp"><code>ご予約のお客様のために、予約席をご用意しております。</code></span><br>
+<em>Go-yoyaku no okyaku-sama no tame ni, yoyaku seki wo go-youi shite orimasu.</em><br>
+We have reserved seats prepared for guests with reservations.
+</div>
 
 ## Related Expressions
 
-- **禁煙席 (kin'en seki)**: Non-smoking seat. Like 予約席, 禁煙席 is a category of seating that must be managed and communicated at the time of seating; both terms come up together in the same guest interactions.
-- **満席 (manseki)**: Full, no seats available. When all 予約席 are occupied by the reserving guests and no other seats remain, 満席 describes the overall restaurant status; it is the closely related term staff reach for when turning away walk-in guests.
+<div class="keigo-card blue">
+<span class="keigo-badge info">禁煙席 (kin'en seki)</span> Non-smoking seat. Like 予約席, 禁煙席 is a category of seating that must be managed and communicated at the time of seating; both terms come up together in the same guest interactions.
+<br><br>
+<span class="keigo-badge info">満席 (manseki)</span> Full, no seats available. When all 予約席 are occupied by the reserving guests and no other seats remain, 満席 describes the overall restaurant status; it is the closely related term staff reach for when turning away walk-in guests.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to say 予約されています instead of 予約席でございます; while not wrong, the latter is crisper and more professional in a hospitality setting. A bigger practical error is notifying the guest about the reserved seat and then stopping there. Saying こちらは予約席です without offering a redirect leaves the guest standing awkwardly with nowhere to go; staff should pair the notification with a solution. Additionally, staff should not use 予約席 to refer to seats that are merely blocked by a cleaning cart or staff belongings. The word specifically implies a guest reservation is in place, and using it loosely can cause confusion.
+</div>
 
 ---
 ## Quiz

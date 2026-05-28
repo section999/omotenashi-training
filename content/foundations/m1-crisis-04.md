@@ -10,31 +10,29 @@ Not all apologies are equal. A poor apology can make a situation significantly w
 
 Several common apology patterns fail to communicate genuine care:
 
-- *"I'm sorry you feel that way"*, apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.
-- *"I apologise if there was an issue"*, the conditional "if" implies doubt that anything actually went wrong.
-- *"We're very busy tonight"*, offering an explanation before an apology deflects responsibility before acknowledging impact.
-- *"I'll pass that feedback along"*, distances the staff member from the problem and relocates it elsewhere.
-- *"That's not normally how we operate"*, prioritises the property's reputation over the guest's experience.
+<div class="keigo-card blue">
+• *"I'm sorry you feel that way"*, apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.<br>• *"I apologise if there was an issue"*, the conditional "if" implies doubt that anything actually went wrong.<br>• *"We're very busy tonight"*, offering an explanation before an apology deflects responsibility before acknowledging impact.<br>• *"I'll pass that feedback along"*, distances the staff member from the problem and relocates it elsewhere.<br>• *"That's not normally how we operate"*, prioritises the property's reputation over the guest's experience.
+</div>
+
 
 Each of these patterns, however subtly, communicates: I am managing this situation, not caring about you. Staff sometimes reach for these phrases under pressure because they feel safer. They are not safer. They usually make things worse.
 
 ## The Qualities of a Sincere Apology
 
-### 1. It Names the Issue Specifically
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">1. It Names the Issue Specifically</span><br>
 Not "I'm sorry for any inconvenience", this phrase has become so overused it carries almost no weight. Instead: "I'm sorry that the noise last night disturbed your sleep." The specificity shows that the situation was understood, not just acknowledged.
-
-### 2. It Is Unconditional
-
+<br><br>
+<span class="keigo-badge info">2. It Is Unconditional</span><br>
 No "but," no explanation first, no investigation attached. The apology stands alone: 大変申し訳ございません。お部屋の環境でご不便をおかけしてしまいました。 The facts and the resolution come after. The apology is not contingent on them.
-
-### 3. It Acknowledges Impact
-
+<br><br>
+<span class="keigo-badge info">3. It Acknowledges Impact</span><br>
 Beyond the event itself, a sincere apology acknowledges what the event meant to the guest. A late room was not just late, it disrupted their plans, their rest, their evening. "I understand how disruptive that must have been for your first night with us." This step is often skipped, but it is where the emotional connection of the apology is made.
-
-### 4. It Is Followed Immediately by Action
-
+<br><br>
+<span class="keigo-badge info">4. It Is Followed Immediately by Action</span><br>
 An apology without resolution is hollow. The action, whether a room change, a replacement item, or a compensation offer, must follow within the same breath. The apology says "I acknowledge what happened." The action says "and I am going to change it."
+</div>
 
 ## The Japanese Standard
 

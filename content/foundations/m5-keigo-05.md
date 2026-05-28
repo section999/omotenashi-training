@@ -11,7 +11,6 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 丁寧語 is not simply "adding desu and masu." In hotel contexts, it means replacing everyday polite forms with refined forms that sound more formal, measured, and professional.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Teineigo Upgrade</span>
 
 | Everyday Polite | Hotel 丁寧語 | Use |
 |---|---|---|
@@ -30,7 +29,6 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 でございます is the most important teineigo form in hotels. It replaces です in almost every situation where information is being stated or confirmed.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">でございます: Core Uses</span>
 <strong>Stating facts:</strong><br>
 <span class="keigo-jp"><code>朝食は1階でございます。</code></span>: Breakfast is on the 1st floor.<br>
 <span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span>: Checkout is at 11:00.<br><br>
@@ -68,7 +66,6 @@ Both mean "there is / we have," but ございます is the hotel-level form.
 しております is the teineigo form of しています. It conveys that the staff is in the middle of an action, with an added feeling of service attention.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">しております in Context</span>
 <span class="keigo-jp"><code>ただいまご確認しております。</code></span><br>
 I am confirming that right now.<br><br>
 <span class="keigo-jp"><code>担当者が対応しております。</code></span><br>
@@ -82,7 +79,6 @@ I am looking into that now.
 丁寧語 handles how requests are softened so they never sound demanding. Two key patterns:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Soft Request Patterns</span>
 <strong>Pattern 1: 〜いただけますでしょうか</strong><br>
 The most polite request form. Used when asking guests to do something.<br>
 <span class="keigo-jp"><code>こちらにご記入いただけますでしょうか。</code></span><br>
@@ -117,7 +113,6 @@ When verifying information with a guest, end with でございますね or よ�
 A complete hotel exchange uses all three systems. Each sentence uses a different type depending on who is acting:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">One Exchange, Three Types</span>
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 You are Mr./Ms. Yamada, correct? (いらっしゃる elevates the guest's existence)<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
@@ -129,7 +124,6 @@ A staff member will guide you. (いたします humbly states the staff's action
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core 丁寧語 Phrases for Hotel Use</span>
 <span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございます</code></span>: It is / This is<br>
 <span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますね</code></span>: That is 〜, correct?<br>
 <span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますか</code></span>: Is it 〜?<br>

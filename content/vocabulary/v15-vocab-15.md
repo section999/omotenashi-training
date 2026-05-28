@@ -7,20 +7,36 @@ title: 貴重品 (kichouhin)
 
 The tricky part of 貴重品 conversations is tone. Staff are often required to communicate that the hotel cannot be responsible for valuables left unsecured in the room, which is a necessary message but one that can easily sound cold or dismissive if delivered poorly. The professional approach is to lead with a solution: 「貴重品はお部屋の金庫またはフロントにてお預かりできます」 gives the guest a clear, caring option rather than just a warning. When guests do deposit 貴重品 at the front desk, staff should always issue a detailed receipt listing each item and handle everything in full view of the guest. A common error is to underestimate how much that visible care matters to the person handing over their passport or cash.
 
-| Japanese | Meaning |
-|---|---|
-| お部屋の金庫に貴重品を保管されることをお勧めいたします。<br><small>*O-heya no kinko ni kichouhin wo hokan sareru koto wo o-susume itashimasu.*</small> | We recommend storing your valuables in the in-room safe. |
-| 貴重品はフロントにてお預かりすることも可能でございます。<br><small>*Kichouhin wa furonto nite o-azukari suru koto mo kanou de gozaimasu.*</small> | It is also possible for us to keep your valuables at the front desk. |
-| パスポートや現金などの貴重品はお手元に置かれることをお勧めいたします。<br><small>*Pasupooto ya genkin nado no kichouhin wa o-temoto ni okareru koto wo o-susume itashimasu.*</small> | We recommend keeping valuables such as your passport and cash within easy reach. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋の金庫に貴重品を保管されることをお勧めいたします。</code></span><br>
+<em>O-heya no kinko ni kichouhin wo hokan sareru koto wo o-susume itashimasu.</em><br>
+We recommend storing your valuables in the in-room safe.
+<br><br>
+<span class="keigo-jp"><code>貴重品はフロントにてお預かりすることも可能でございます。</code></span><br>
+<em>Kichouhin wa furonto nite o-azukari suru koto mo kanou de gozaimasu.</em><br>
+It is also possible for us to keep your valuables at the front desk.
+<br><br>
+<span class="keigo-jp"><code>パスポートや現金などの貴重品はお手元に置かれることをお勧めいたします。</code></span><br>
+<em>Pasupooto ya genkin nado no kichouhin wa o-temoto ni okareru koto wo o-susume itashimasu.</em><br>
+We recommend keeping valuables such as your passport and cash within easy reach.
+</div>
 
 ## Related Expressions
 
-- **金庫 (kinko)**: the in-room safe or strongbox provided specifically for storing 貴重品; knowing how to explain its use to guests is a basic front-line skill.
-- **紛失 (funshitsu)**: loss or misplacement; a word that comes up in lost valuables reports and that every hospitality professional should know how to handle calmly and efficiently.
+<div class="keigo-card blue">
+<span class="keigo-badge info">金庫 (kinko)</span> the in-room safe or strongbox provided specifically for storing 貴重品; knowing how to explain its use to guests is a basic front-line skill.
+<br><br>
+<span class="keigo-badge info">紛失 (funshitsu)</span> loss or misplacement; a word that comes up in lost valuables reports and that every hospitality professional should know how to handle calmly and efficiently.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to substitute 大切なもの (taisetsuna mono, "important things") for 貴重品 in formal hospitality speech. While the meaning is similar, 大切なもの is too casual and vague for professional use. 貴重品 is the established term in hotel operations, and using it consistently signals competence. On pronunciation: the natural rhythm flows as ki-CHOU-hin, with the middle syllable carrying the strongest emphasis. Students who over-separate the kanji readings end up with an awkward cadence that sounds unnatural to native speakers and guests alike.
+</div>
 
 ---
 

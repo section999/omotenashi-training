@@ -7,20 +7,36 @@ title: 手前 (temae)
 
 The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). In a hospitality context, that last usage is especially important: 手前 can mean "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (〜で). Blurring these distinctions can send guests past where they needed to stop
 
-| Japanese | Meaning |
-|---|---|
-| 受付カウンターは入り口の手前にございます。<br><small>*Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.*</small> | The reception counter is just before the entrance. |
-| お手洗いはエレベーターの手前、左側にございます。<br><small>*O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.*</small> | The restroom is just before the elevator, on the left side. |
-| レストランのご予約受付は入り口の手前のカウンターでお承りしております。<br><small>*Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.*</small> | Restaurant reservations are accepted at the counter just before the entrance. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>受付カウンターは入り口の手前にございます。</code></span><br>
+<em>Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.</em><br>
+The reception counter is just before the entrance.
+<br><br>
+<span class="keigo-jp"><code>お手洗いはエレベーターの手前、左側にございます。</code></span><br>
+<em>O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.</em><br>
+The restroom is just before the elevator, on the left side.
+<br><br>
+<span class="keigo-jp"><code>レストランのご予約受付は入り口の手前のカウンターでお承りしております。</code></span><br>
+<em>Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.</em><br>
+Restaurant reservations are accepted at the counter just before the entrance.
+</div>
 
 ## Related Expressions
 
-- **奥 (oku)**: "the back / further inside"; the spatial opposite of 手前; understanding both in tandem lets staff locate anything precisely along the near-far axis of any room or corridor
-- **すぐそこ (sugu soko)**: "right there / close"; more informal than 手前 and does not specify near-side versus far-side; more appropriate in casual conversation than in formal hotel guidance
+<div class="keigo-card blue">
+<span class="keigo-badge info">奥 (oku)</span> "the back / further inside"; the spatial opposite of 手前; understanding both in tandem lets staff locate anything precisely along the near-far axis of any room or corridor
+<br><br>
+<span class="keigo-badge info">すぐそこ (sugu soko)</span> "right there / close"; more informal than 手前 and does not specify near-side versus far-side; more appropriate in casual conversation than in formal hotel guidance
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to use 手前 as a synonym for 隣 (next to), but 手前 means specifically "before reaching X" rather than "beside X." These are directionally different enough to send a guest the wrong way entirely. Another error is using 手前 for outdoor distances, where 近く or すぐそこ are more natural; 手前 works best as a relative interior landmark reference. Failing to specify the reference point leaves 手前 meaningless. Using X の手前にございます tells the guest exactly where to stop.
+</div>
 
 ---
 ## Quiz

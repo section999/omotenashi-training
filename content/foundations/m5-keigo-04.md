@@ -11,7 +11,6 @@ title: 謙譲語 (Kenjogo) in Depth
 Use 謙譲語 whenever **staff** are the subject describing their own actions, especially actions directed toward or done for the guest. The staff's use of a humble verb form communicates service commitment without a single word explicitly saying so.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Why Kenjogo Matters</span>
 Saying 「確認します」 and 「確認いたします」 both mean "I will confirm." But the second communicates: "I will confirm, and I do so in service of you." The humble form carries that meaning automatically. Guests perceive it, even if they cannot explain why the second sounds better.
 </div>
 
@@ -20,7 +19,6 @@ Saying 「確認します」 and 「確認いたします」 both mean "I will c
 These are the most important humble verbs. Each has a completely new form with no connection to the plain verb.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Irregular Kenjogo Verb Forms</span>
 
 | Plain Form | Kenjogo Form | Meaning in Context |
 |---|---|---|
@@ -46,7 +44,6 @@ For verbs without special irregular forms, use:
 **お + verb stem (masu-stem) + いたします / します**
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Regular Pattern: お〜いたします</span>
 <span class="keigo-jp"><code>お持ちいたします</code></span>: I will carry / bring<br>
 <span class="keigo-jp"><code>お届けいたします</code></span>: I will deliver<br>
 <span class="keigo-jp"><code>お調べいたします</code></span>: I will look into it<br>
@@ -62,7 +59,6 @@ Construction: お + [verb masu-stem] + いたします<br>
 For Chinese-origin (漢語) verb stems, use ご instead of お:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">ご〜いたします</span>
 <span class="keigo-jp"><code>ご案内いたします</code></span>: I will guide you<br>
 <span class="keigo-jp"><code>ご確認いたします</code></span>: I will confirm<br>
 <span class="keigo-jp"><code>ご連絡いたします</code></span>: I will contact you<br>
@@ -107,7 +103,6 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 承ります deserves special attention. It is the humble form for receiving requests, reservations, or orders. It communicates "I humbly accept this" and is used constantly at front desk and reservation services.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">承ります in Context</span>
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
 I have received your reservation.<br><br>
 <span class="keigo-jp"><code>ご注文を承ります。</code></span><br>
@@ -122,7 +117,6 @@ I have received your request.<br><br>
 Just as sonkeigo must never be applied to staff, kenjogo must never be applied to guests. This reverses the hospitality relationship.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Never Use Kenjogo for the Guest</span>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br>
 おります is a humble form. Using it for the guest lowers the guest.<br><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様が参ります。</code></span><br>
@@ -134,7 +128,6 @@ Just as sonkeigo must never be applied to staff, kenjogo must never be applied t
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core 謙譲語 Phrases for Hotel Use</span>
 <span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ただいまご確認いたします</code></span>: I will confirm that right now<br>
 <span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お部屋までご案内いたします</code></span>: I will guide you to your room<br>
 <span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ご予約を承りました</code></span>: I have received your reservation<br>

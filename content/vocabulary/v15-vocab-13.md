@@ -7,20 +7,36 @@ title: 宅配便 (takkyuubin)
 
 In hotel hospitality, 宅配便 comes up regularly in two main scenarios: guests sending luggage ahead to their next hotel or to the airport (called 手荷物宅配), and guests receiving deliveries at the hotel. The luggage forwarding service is especially popular with visitors who want to explore Tokyo without dragging bags around all day. Staff at the front desk help guests complete the delivery slip (宅配伝票), explain the costs, and handle tracking questions. When a hotel accepts a delivery on behalf of a guest, the package must be stored safely and handed over with proper verification. Getting that process right is a trust issue, and guests notice when it is handled well.
 
-| Japanese | Meaning |
-|---|---|
-| ホテルから空港まで、手荷物を宅配便でお送りすることができます。<br><small>*Hoteru kara kuukou made, te-nimotsu wo takkyuubin de o-okuri suru koto ga dekimasu.*</small> | We can ship your luggage from the hotel to the airport via courier service. |
-| 宅配便のお荷物はフロントにてお預かりしております。<br><small>*Takkyuubin no o-nimotsu wa furonto nite o-azukari shite orimasu.*</small> | We are holding your courier delivery at the front desk. |
-| 宅配便の伝票にご住所とお名前をご記入ください。<br><small>*Takkyuubin no denpyou ni go-juusho to o-namae wo go-kinyuu kudasai.*</small> | Please fill in your address and name on the courier delivery slip. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ホテルから空港まで、手荷物を宅配便でお送りすることができます。</code></span><br>
+<em>Hoteru kara kuukou made, te-nimotsu wo takkyuubin de o-okuri suru koto ga dekimasu.</em><br>
+We can ship your luggage from the hotel to the airport via courier service.
+<br><br>
+<span class="keigo-jp"><code>宅配便のお荷物はフロントにてお預かりしております。</code></span><br>
+<em>Takkyuubin no o-nimotsu wa furonto nite o-azukari shite orimasu.</em><br>
+We are holding your courier delivery at the front desk.
+<br><br>
+<span class="keigo-jp"><code>宅配便の伝票にご住所とお名前をご記入ください。</code></span><br>
+<em>Takkyuubin no denpyou ni go-juusho to o-namae wo go-kinyuu kudasai.</em><br>
+Please fill in your address and name on the courier delivery slip.
+</div>
 
 ## Related Expressions
 
-- **郵便 (yuubin)**: standard postal mail, slower and less trackable than 宅配便. Used for letters and smaller items where timing is not critical.
-- **手荷物宅配 (te-nimotsu takkyuu)**: luggage forwarding, the hotel-specific application of 宅配便 that ships guest bags to airports or next destinations, freeing guests to move around comfortably.
+<div class="keigo-card blue">
+<span class="keigo-badge info">郵便 (yuubin)</span> standard postal mail, slower and less trackable than 宅配便. Used for letters and smaller items where timing is not critical.
+<br><br>
+<span class="keigo-badge info">手荷物宅配 (te-nimotsu takkyuu)</span> luggage forwarding, the hotel-specific application of 宅配便 that ships guest bags to airports or next destinations, freeing guests to move around comfortably.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to confuse 宅配便 with 配達 (haitatsu), which means "delivery" as a general action. 宅配便 refers specifically to the commercial door-to-door courier system, not just any act of handing something over. Pronunciation is another common stumble: students sometimes say "ta-ku-hai-bin" by over-separating the kanji readings. The natural spoken form contracts into "tak-kyuu-bin" with the double consonant clearly held. Practising that double consonant until it feels natural will make staff sound much more fluent when dealing with guests.
+</div>
 
 ---
 

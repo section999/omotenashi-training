@@ -7,20 +7,36 @@ title: 料金表 (ryoukinhyou)
 
 Hotel and concierge staff regularly field 料金表-related questions from guests who are trying to budget excursions, estimate taxi costs, or choose between transport options. Being able to read a train station's fare map, which is itself a form of 料金表, and explain the right fare for a guest's destination is a practical skill that sets a good concierge apart. For taxi inquiries, knowing the base fare (初乗り料金, hatsunori ryoukin) and the approximate metered cost to popular destinations is useful. A smooth phrase to use is 「こちらに料金表がございますので、ご参照ください」, and offering to walk a guest through the table adds a personal dimension that a digital display cannot match.
 
-| Japanese | Meaning |
-|---|---|
-| バスの料金表を確認してから乗りました。<br><small>*Basu no ryoukinhyou wo kakunin shite kara norimashita.*</small> | I checked the bus price list before boarding. |
-| タクシーの料金表はこちらに掲示しております。ご参考になさってください。<br><small>*Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.*</small> | The taxi fare chart is posted here. Please use it as a reference. |
-| 観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。<br><small>*Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*</small> | Admission fee information for tourist facilities is listed in the pamphlet available at the front desk. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>バスの料金表を確認してから乗りました。</code></span><br>
+<em>Basu no ryoukinhyou wo kakunin shite kara norimashita.</em><br>
+I checked the bus price list before boarding.
+<br><br>
+<span class="keigo-jp"><code>タクシーの料金表はこちらに掲示しております。ご参考になさってください。</code></span><br>
+<em>Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.</em><br>
+The taxi fare chart is posted here. Please use it as a reference.
+<br><br>
+<span class="keigo-jp"><code>観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。</code></span><br>
+<em>Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.</em><br>
+Admission fee information for tourist facilities is listed in the pamphlet available at the front desk.
+</div>
 
 ## Related Expressions
 
-- **運賃 (unchin)**: the fare charged for a specific transportation journey; the actual cost a guest pays for a ride, which is what gets displayed inside a 料金表
-- **入場料 (nyuujouryou)**: admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and one of the common questions that arise at a hotel concierge desk
+<div class="keigo-card blue">
+<span class="keigo-badge info">運賃 (unchin)</span> the fare charged for a specific transportation journey; the actual cost a guest pays for a ride, which is what gets displayed inside a 料金表
+<br><br>
+<span class="keigo-badge info">入場料 (nyuujouryou)</span> admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and one of the common questions that arise at a hotel concierge desk
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to mix up 料金表 with 値段 (nedan, a single item's price) or talk about a 値段リスト, but 料金表 refers specifically to an officially formatted posted table, not just any mention of a price. In a service setting, 「料金表をご確認ください」 sounds far more professional than 「値段を見てください」 when pointing a guest toward a posted fare chart. The pitch on 料金 in standard Tokyo Japanese drops after the second mora (ryou-KIN), and getting the pitch right makes speech clearer and more natural. A common error is to overlook pitch accent, but in fast speech it does affect how easily staff are understood.
+</div>
 
 ---
 

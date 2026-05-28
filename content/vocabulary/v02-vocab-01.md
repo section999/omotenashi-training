@@ -8,20 +8,36 @@ title: フロント (furonto)
 
 Staff members stationed at the フロント are expected to maintain impeccable keigo at all times, since this is often the first and last place a guest visits. When directing guests, the phrase フロントはこちらでございます is used rather than pointing alone, reflecting the omotenashi principle of guiding guests with words and gesture together. The front desk also coordinates with other departments, housekeeping, concierge, and room service, making it the operational hub of the property
 
-| Japanese | Meaning |
-|---|---|
-| フロントはこちらでございます。どうぞこちらへお越しください。<br><small>*Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*</small> | The front desk is right here. Please come this way. |
-| ご不明な点がございましたら、いつでもフロントまでお申し付けください。<br><small>*Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*</small> | If you have any questions at all, please do not hesitate to let the front desk know. |
-| フロントにて、お荷物をお預かりすることが可能でございます。<br><small>*Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*</small> | We are able to hold your luggage at the front desk. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>フロントはこちらでございます。どうぞこちらへお越しください。</code></span><br>
+<em>Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.</em><br>
+The front desk is right here. Please come this way.
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、いつでもフロントまでお申し付けください。</code></span><br>
+<em>Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.</em><br>
+If you have any questions at all, please do not hesitate to let the front desk know.
+<br><br>
+<span class="keigo-jp"><code>フロントにて、お荷物をお預かりすることが可能でございます。</code></span><br>
+<em>Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.</em><br>
+We are able to hold your luggage at the front desk.
+</div>
 
 ## Related Expressions
 
-- **受付 (uketsuke)**: a broader term for any reception counter; フロント specifically implies a hotel front desk, while 受付 can apply to clinics, offices, or event venues.
-- **フロント係 (furonto kakari)**: the staff member(s) assigned to the front desk; use this term when referring to a person rather than the location itself.
+<div class="keigo-card blue">
+<span class="keigo-badge info">受付 (uketsuke)</span> a broader term for any reception counter; フロント specifically implies a hotel front desk, while 受付 can apply to clinics, offices, or event venues.
+<br><br>
+<span class="keigo-badge info">フロント係 (furonto kakari)</span> the staff member(s) assigned to the front desk; use this term when referring to a person rather than the location itself.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using フロント with overly casual sentence-ending forms such as フロントはあそこです should be avoided, because while grammatically correct, it lacks the formality expected in hotel service; the copula should always be elevated to でございます. A second common error is using the word interchangeably with 受付: although the meanings overlap, フロント carries a hotel-specific nuance that 受付 does not always share. Finally, omitting the location marker は or が should also be avoided, since saying フロントこちら sounds incomplete and unprofessional.
+</div>
 
 ---
 

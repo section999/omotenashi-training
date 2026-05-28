@@ -7,21 +7,37 @@ title: 地図 (chizu)
 
 When using a map to guide a guest, an effective approach is to orient it in the direction the guest is facing, mark the hotel's current location clearly, and identify one or two prominent landmarks on the route before indicating the destination. For foreign guests, bilingual maps (日英両語) are preferred. Digital alternatives like Google Maps have their place, but a well-handled physical map interaction is more personal and often better remembered by guests
 
-| Japanese | Meaning |
-|---|---|
-| こちらの地図でご案内いたします。現在地はここで、目的のレストランはこちらでございます。<br><small>*Kochira no chizu de go-annai itashimasu. Genzaichi wa koko de, mokuteki no resutoran wa kochira de gozaimasu.*</small> | I will guide you using this map. Your current location is here, and the restaurant one is looking for is here. |
-| ご観光の際にお役立ていただける地図をご用意しております。<br><small>*Go-kankou no sai ni o-yakudate itadakeru chizu wo go-youi shite orimasu.*</small> | We have maps available that may be useful during your sightseeing. |
-| 地図に印を付けてご説明いたしますので、少々お時間をいただけますでしょうか。<br><small>*Chizu ni shirushi wo tsukete go-setsumei itashimasu node, shoushou o-jikan wo itadakemasu deshou ka.*</small> | I will mark the map and explain the route: would you mind giving me just a moment? |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらの地図でご案内いたします。現在地はここで、目的のレストランはこちらでございます。</code></span><br>
+<em>Kochira no chizu de go-annai itashimasu. Genzaichi wa koko de, mokuteki no resutoran wa kochira de gozaimasu.</em><br>
+I will guide you using this map. Your current location is here, and the restaurant one is looking for is here.
+<br><br>
+<span class="keigo-jp"><code>ご観光の際にお役立ていただける地図をご用意しております。</code></span><br>
+<em>Go-kankou no sai ni o-yakudate itadakeru chizu wo go-youi shite orimasu.</em><br>
+We have maps available that may be useful during your sightseeing.
+<br><br>
+<span class="keigo-jp"><code>地図に印を付けてご説明いたしますので、少々お時間をいただけますでしょうか。</code></span><br>
+<em>Chizu ni shirushi wo tsukete go-setsumei itashimasu node, shoushou o-jikan wo itadakemasu deshou ka.</em><br>
+I will mark the map and explain the route: would you mind giving me just a moment?
+</div>
 
 ## Related Expressions
 
-- **ご案内 (go-annai)**: guidance or directions; often used alongside 地図 as in 「地図でご案内いたします」; can also refer to accompanying a guest physically to a destination, making it broader than the map alone.
-- **目印 (mejirushi)**: landmark; used when verbally explaining a route and pointing out reference points on a map (「この交差点が目印です」); essential for making directions actionable when map literacy varies among guests.
+<div class="keigo-card blue">
+<span class="keigo-badge info">ご案内 (go-annai)</span> guidance or directions; often used alongside 地図 as in 「地図でご案内いたします」; can also refer to accompanying a guest physically to a destination, making it broader than the map alone.
+<br><br>
+<span class="keigo-badge info">目印 (mejirushi)</span> landmark; used when verbally explaining a route and pointing out reference points on a map (「この交差点が目印です」); essential for making directions actionable when map literacy varies among guests.
+</div>
 
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Handing over a map without orientation or annotation misses the relational quality that makes the interaction memorable. Vague language such as 「この辺です」 (it's around here) without marking the exact spot causes confusion and erodes trust. Assuming all guests can read Japanese map labels is a common error. Confirming whether the guest prefers a bilingual map is recommended, and reinforcing key points verbally regardless of which version is provided helps ensure clarity.
+</div>
 
 ---
 

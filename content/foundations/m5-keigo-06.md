@@ -9,7 +9,6 @@ In hotel keigo, the prefixes お and ご are added to nouns and verb stems to cr
 ## The Basic Rule
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">お vs ご</span>
 <span class="keigo-badge info">お</span> Used with <strong>native Japanese words</strong> (和語 / wago). These words have kun'yomi readings.<br>
 Examples: <span class="keigo-jp"><code>お部屋</code></span> (へや), <span class="keigo-jp"><code>お荷物</code></span> (にもつ), <span class="keigo-jp"><code>お水</code></span> (みず)<br><br>
 <span class="keigo-badge info">ご</span> Used with <strong>Chinese-origin words</strong> (漢語 / kango). These words have on'yomi readings and often appear as two-kanji compounds.<br>
@@ -19,7 +18,6 @@ Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <spa
 ## Common Hotel Words with お
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">お Prefix: Native Japanese Words</span>
 
 | With お | Plain Form | English |
 |---|---|---|
@@ -39,7 +37,6 @@ Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <spa
 ## Common Hotel Words with ご
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">ご Prefix: Chinese-Origin Words</span>
 
 | With ご | Plain Form | English |
 |---|---|---|
@@ -61,7 +58,6 @@ Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <spa
 Some Chinese-origin words have become fixed polite expressions with お in the service industry. These are not constructed by rule; they must be memorized.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Fixed Exceptions with お</span>
 
 | Word | Type | English |
 |---|---|---|
@@ -81,7 +77,6 @@ These are fixed hotel phrases. Use お電話, not ご電話. Use お会計, not 
 Loanwords (外来語) from English and other languages never take お or ご. Adding a prefix to a loanword sounds incorrect.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">No Prefix for Loanwords</span>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おチェックイン / ごチェックイン</code></span><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おサービス / ごサービス</code></span><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おエレベーター</code></span><br><br>
@@ -114,7 +109,6 @@ Instead of adding a prefix, use the word in a keigo sentence structure:<br>
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Prefix Examples in Full Hotel Sentences</span>
 <span class="keigo-jp"><code>お荷物をお預かりいたします。</code></span><br>
 I will hold your luggage.<br><br>
 <span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>

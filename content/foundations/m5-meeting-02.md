@@ -9,7 +9,6 @@ Every professional handover follows the same five-section structure. The order i
 ## The Five-Section Structure
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section 1: Priority Guests (最優先情報)</span>
 The first thing the incoming shift reads. Covers any guest who requires elevated attention.<br><br>
 <span class="keigo-badge info">VIP</span> VIP guests, first-time VIPs, VIP family members<br>
 <span class="keigo-badge info">Repeat</span> Valued repeat guests, long-stay members<br>
@@ -18,7 +17,6 @@ The first thing the incoming shift reads. Covers any guest who requires elevated
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section 2: Active Problems (対応中案件)</span>
 Issues currently being managed that the incoming staff must continue or monitor.<br><br>
 <span class="keigo-badge info">Maintenance</span> Room or facility issues in progress<br>
 <span class="keigo-badge info">Complaint</span> Guest complaints being handled<br>
@@ -27,7 +25,6 @@ Issues currently being managed that the incoming staff must continue or monitor.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section 3: Room Status (客室状況)</span>
 Any deviation from the standard room assignment or condition.<br><br>
 <span class="keigo-badge info">Changes</span> Room upgrades or moves completed or in progress<br>
 <span class="keigo-badge info">Delays</span> Cleaning not completed, late check-outs<br>
@@ -36,7 +33,6 @@ Any deviation from the standard room assignment or condition.<br><br>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section 4: Pending Tasks (未完了タスク)</span>
 Requests received but not yet completed, and items requiring the incoming shift to take action.<br><br>
 <span class="keigo-badge info">Pending Requests</span> Items the guest asked for that have not been delivered<br>
 <span class="keigo-badge info">Follow-Up Required</span> Callbacks, confirmations, or arrangements not yet made<br>
@@ -45,7 +41,6 @@ Requests received but not yet completed, and items requiring the incoming shift 
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section 5: Special Notes (特記事項)</span>
 Anything that does not fit the above categories but must be communicated.<br><br>
 <span class="keigo-badge info">Medical</span> Allergies, medications, health concerns<br>
 <span class="keigo-badge info">Behavioral</span> Noise concerns, sensitive situations<br>
@@ -56,7 +51,6 @@ Anything that does not fit the above categories but must be communicated.<br><br
 ## The Structure in Practice
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">A Sample Handover Summary</span>
 <strong>最優先情報：</strong><br>
 <span class="keigo-jp"><code>305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。</code></span><br><br>
 <strong>対応中案件：</strong><br>
@@ -72,7 +66,6 @@ Anything that does not fit the above categories but must be communicated.<br><br
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Section Header Vocabulary</span>
 <span class="keigo-jp"><code>最優先情報</code></span>: Priority guests / urgent guest information<br>
 <span class="keigo-jp"><code>対応中案件</code></span>: Active issues<br>
 <span class="keigo-jp"><code>客室状況</code></span>: Room status<br>

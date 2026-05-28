@@ -10,21 +10,38 @@ In hospitality, this phrase works in two main directions. Staff use it when aski
 
 Note: this phrase is not interchangeable with *kashikomarimashita* or *dōzo*, and a common mistake is mixing them up. *Kashikomarimashita* acknowledges a guest's request directed at one. *Dōzo* invites. *O-negai itashimasu* comes from the staff member asking something of the guest, or expressing a mutual wish. The direction is reversed. Keeping that distinction clear will help one reach for the right phrase without hesitating
 
-| Japanese | Meaning |
-|---|---|
-| こちらにご署名をお願いいたします。<br><small>*Kochira ni go-shomei wo o-negai itashimasu.*</small> | Please sign here. |
-| ご到着の際は、フロントまでお越しいただくようお願いいたします。<br><small>*Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.*</small> | Upon arrival, we kindly ask that you come to the front desk. |
-| 今後ともよろしくお願いいたします。<br><small>*Kongo tomo yoroshiku o-negai itashimasu.*</small> | I look forward to your continued support. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらにご署名をお願いいたします。</code></span><br>
+<em>Kochira ni go-shomei wo o-negai itashimasu.</em><br>
+Please sign here.
+<br><br>
+<span class="keigo-jp"><code>ご到着の際は、フロントまでお越しいただくようお願いいたします。</code></span><br>
+<em>Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.</em><br>
+Upon arrival, we kindly ask that you come to the front desk.
+<br><br>
+<span class="keigo-jp"><code>今後ともよろしくお願いいたします。</code></span><br>
+<em>Kongo tomo yoroshiku o-negai itashimasu.</em><br>
+I look forward to your continued support.
+</div>
 
 ## Related Expressions
 
-- **よろしくお願いいたします (yoroshiku o-negai itashimasu)**: "I ask for their kind cooperation / thank you in advance": a notably versatile polite expression in Japanese
-- **お願いします (o-negai shimasu)**: Slightly less formal version; appropriate in everyday professional contexts
-- **ご協力をお願いいたします (go-kyōryoku wo o-negai itashimasu)**: "We kindly ask for their cooperation": used when asking guests to follow a rule or procedure
+<div class="keigo-card blue">
+<span class="keigo-badge info">よろしくお願いいたします (yoroshiku o-negai itashimasu)</span> "I ask for their kind cooperation / thank you in advance": a notably versatile polite expression in Japanese
+<br><br>
+<span class="keigo-badge info">お願いします (o-negai shimasu)</span> Slightly less formal version; appropriate in everyday professional contexts
+<br><br>
+<span class="keigo-badge info">ご協力をお願いいたします (go-kyōryoku wo o-negai itashimasu)</span> "We kindly ask for their cooperation": used when asking guests to follow a rule or procedure
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is using the casual *onegai* alone in a professional setting: it sounds like one is asking a favour from a friend. The full *o-negai itashimasu* maintains the appropriate distance and respect. Another mistake is overloading requests with too many phrases. The request should be kept clear and the polite form concise so the guest understands what is being asked of them.
+</div>
 
 ---
 

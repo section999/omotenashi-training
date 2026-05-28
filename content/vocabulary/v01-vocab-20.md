@@ -10,21 +10,38 @@ The timing and delivery of this phrase matter a great deal. It is the last impre
 
 This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō gozaimashita* (thank one for their visit today), followed by *o-ki wo tsukete* (please take care), and closing with *mata o-koshi kudasaimase* (please come again). Each phrase in the sequence builds on the last, creating a complete and warm send-off
 
-| Japanese | Meaning |
-|---|---|
-| ご利用ありがとうございました。またお越しくださいませ。<br><small>*Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*</small> | Thank you for staying with us. Please come again. |
-| 本日はご来館いただきありがとうございました。またお越しくださいませ。<br><small>*Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.*</small> | Thank you for visiting us today. Please come again. |
-| またのお越しを、スタッフ一同心よりお待ち申し上げております。<br><small>*Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*</small> | All of our staff look forward with all their hearts to your next visit. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご利用ありがとうございました。またお越しくださいませ。</code></span><br>
+<em>Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.</em><br>
+Thank you for staying with us. Please come again.
+<br><br>
+<span class="keigo-jp"><code>本日はご来館いただきありがとうございました。またお越しくださいませ。</code></span><br>
+<em>Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.</em><br>
+Thank you for visiting us today. Please come again.
+<br><br>
+<span class="keigo-jp"><code>またのお越しを、スタッフ一同心よりお待ち申し上げております。</code></span><br>
+<em>Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.</em><br>
+All of our staff look forward with all their hearts to your next visit.
+</div>
 
 ## Related Expressions
 
-- **お気をつけてお帰りください (o-ki wo tsukete o-kaeri kudasai)**: "Please take care going home": the safety farewell that precedes *mata o-koshi kudasaimase*
-- **またのお越しをお待ちしております (mata no o-koshi wo o-machi shite orimasu)**: "We look forward to their next visit": slightly more formal and often used in written farewells
-- **いつでもまたお越しください (itsudemo mata o-koshi kudasai)**: "Please come again any time": adds warmth and openness to the invitation
+<div class="keigo-card blue">
+<span class="keigo-badge info">お気をつけてお帰りください (o-ki wo tsukete o-kaeri kudasai)</span> "Please take care going home": the safety farewell that precedes *mata o-koshi kudasaimase*
+<br><br>
+<span class="keigo-badge info">またのお越しをお待ちしております (mata no o-koshi wo o-machi shite orimasu)</span> "We look forward to their next visit": slightly more formal and often used in written farewells
+<br><br>
+<span class="keigo-badge info">いつでもまたお越しください (itsudemo mata o-koshi kudasai)</span> "Please come again any time": adds warmth and openness to the invitation
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is delivering this phrase while already turned away or distracted. It should be the last thing staff give the guest their full attention for. A second mistake is omitting it entirely in busy periods; the farewell is expected. Every guest deserves to leave with this phrase. A third mistake is saying it too quickly, letting it sound like a procedural checkbox rather than a genuine invitation.
+</div>
 
 ---
 

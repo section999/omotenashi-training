@@ -7,20 +7,36 @@ title: まっすぐ (massugu)
 
 In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if staff goes straight, staff will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
 
-| Japanese | Meaning |
-|---|---|
-| ロビーまでまっすぐお進みください。<br><small>*Robii made massugu o-susumi kudasai.*</small> | Please go straight ahead to the lobby. |
-| この廊下をまっすぐ進むと、右手にエレベーターがございます。<br><small>*Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*</small> | If you go straight down this corridor, one will find the elevator on your right. |
-| 駅までこの道をまっすぐ、徒歩約10分でございます。<br><small>*Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*</small> | Go straight down this road to the station: it is approximately a 10-minute walk. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ロビーまでまっすぐお進みください。</code></span><br>
+<em>Robii made massugu o-susumi kudasai.</em><br>
+Please go straight ahead to the lobby.
+<br><br>
+<span class="keigo-jp"><code>この廊下をまっすぐ進むと、右手にエレベーターがございます。</code></span><br>
+<em>Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.</em><br>
+If you go straight down this corridor, one will find the elevator on your right.
+<br><br>
+<span class="keigo-jp"><code>駅までこの道をまっすぐ、徒歩約10分でございます。</code></span><br>
+<em>Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.</em><br>
+Go straight down this road to the station: it is approximately a 10-minute walk.
+</div>
 
 ## Related Expressions
 
-- **一直線に (icchokusen ni)**: "in a straight line," more emphatic and literary in tone; rarely used in verbal guidance but may appear in formal written directions or on printed maps
-- **突き当たり (tsukiatari)**: "the end of the corridor" or "dead end"; often paired with まっすぐ to indicate that the guest should keep walking straight until they reach a wall or door
+<div class="keigo-card blue">
+<span class="keigo-badge info">一直線に (icchokusen ni)</span> "in a straight line," more emphatic and literary in tone; rarely used in verbal guidance but may appear in formal written directions or on printed maps
+<br><br>
+<span class="keigo-badge info">突き当たり (tsukiatari)</span> "the end of the corridor" or "dead end"; often paired with まっすぐ to indicate that the guest should keep walking straight until they reach a wall or door
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is saying まっすぐです and stopping there, without specifying what the guest will find at the end of the straight path. Adding a destination or a landmark is recommended. A common error is to confuse まっすぐ with ずっと (continuously, all the way along), which suggests extended duration rather than a specific direction. Omitting the polite お進みください after まっすぐ also makes the instruction feel like a command rather than a courteous suggestion, which is not the appropriate tone in hotel speech.
+</div>
 
 ---
 ## Quiz

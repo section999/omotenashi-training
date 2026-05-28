@@ -7,20 +7,36 @@ title: 交差点 (kousaten)
 
 When using 交差点 in guidance, specifying what the guest should do at it is important: whether to cross it (渡る), turn at it (曲がる), or use it as a reference point. Mentioning the traffic signal (信号) alongside it helps guests locate the intersection before they reach it. For guests unfamiliar with local traffic flow, a reminder to wait for the signal and stay alert for bicycles (自転車にご注意ください) is the kind of proactive thoughtfulness that distinguishes omotenashi hospitality from ordinary service
 
-| Japanese | Meaning |
-|---|---|
-| 交差点を渡って左に曲がってください。<br><small>*Kousaten wo watatte hidari ni magatte kudasai.*</small> | Please cross the intersection and turn left. |
-| 二つ目の交差点で信号をお待ちいただき、右にお進みください。<br><small>*Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.*</small> | At the second intersection, please wait for the signal and then proceed to the right. |
-| 駅はこの交差点を直進すると左手にございます。<br><small>*Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.*</small> | The station is on the left if one go straight through this intersection. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>交差点を渡って左に曲がってください。</code></span><br>
+<em>Kousaten wo watatte hidari ni magatte kudasai.</em><br>
+Please cross the intersection and turn left.
+<br><br>
+<span class="keigo-jp"><code>二つ目の交差点で信号をお待ちいただき、右にお進みください。</code></span><br>
+<em>Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.</em><br>
+At the second intersection, please wait for the signal and then proceed to the right.
+<br><br>
+<span class="keigo-jp"><code>駅はこの交差点を直進すると左手にございます。</code></span><br>
+<em>Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.</em><br>
+The station is on the left if one go straight through this intersection.
+</div>
 
 ## Related Expressions
 
-- **角 (kado)**: "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals
-- **信号 (shingou)**: "traffic signal" or "traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing
+<div class="keigo-card blue">
+<span class="keigo-badge info">角 (kado)</span> "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals
+<br><br>
+<span class="keigo-badge info">信号 (shingou)</span> "traffic signal" or "traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A frequent error is using 交差点 to describe a corridor junction inside a building. In indoor spaces, 角 is the correct and natural term. A common error is forgetting to specify the action at the intersection, whether the guest should cross it or turn at it, leaving them standing at the signal unsure what to do next. Omitting the safety reminder about traffic signals means guests may miss important safety information. True omotenashi includes giving guests information that keeps them safe, not just information that gets them to their destination. Cyclists often run red lights in Japan, so mentioning 自転車にご注意ください is a reasonable precaution.
+</div>
 
 ---
 ## Quiz

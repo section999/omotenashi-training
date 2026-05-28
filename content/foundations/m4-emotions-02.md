@@ -8,23 +8,20 @@ The face and body are constant broadcasters of emotional state. Learning to obse
 
 ## Key Facial Signals
 
-### The Genuine Smile
 
-A real smile engages the eyes: the corners crinkle slightly and the lower eyelids rise. This is known as the Duchenne smile. A polite social smile only moves the mouth.
-
-When a guest gives a genuine smile, they are relaxed and satisfied. A smile that does not reach the eyes may suggest politeness masking discomfort.
-
-### The Furrowed Brow
-
+<div class="keigo-card blue">
+<span class="keigo-badge info">The Genuine Smile</span><br>
+A real smile engages the eyes: the corners crinkle slightly and the lower eyelids rise. This is known as the Duchenne smile. A polite social smile only moves the mouth.<br>When a guest gives a genuine smile, they are relaxed and satisfied. A smile that does not reach the eyes may suggest politeness masking discomfort.
+<br><br>
+<span class="keigo-badge info">The Furrowed Brow</span><br>
 Even a brief furrowing of the brow points to confusion, concern, or mild frustration. If you notice this while explaining something, slow down and offer to clarify before the guest needs to ask.
-
-### Lip Compression
-
+<br><br>
+<span class="keigo-badge info">Lip Compression</span><br>
 When a person presses their lips together briefly, they are often suppressing a negative reaction, disagreement, frustration, or reluctance. This is a cue to gently pause and invite feedback.
-
-### Jaw Tension
-
+<br><br>
+<span class="keigo-badge info">Jaw Tension</span><br>
 A tightened jaw or clenched teeth, even with an otherwise neutral expression, suggests stress. Consider whether the environment, noise level, or wait time may be a contributing factor.
+</div>
 
 ## Key Body Language Signals
 

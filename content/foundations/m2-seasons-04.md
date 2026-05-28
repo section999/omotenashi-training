@@ -10,23 +10,26 @@ Autumn in Japan is often described as the season of *momiji* (紅葉), the turni
 
 The following phrases are appropriate from September through November:
 
-- *秋の深まりとともに、皆様のご来館を心よりお待ちしております。* "As autumn deepens, we sincerely await your visit."
-- *日に日に秋らしくなってまいりました。* "Day by day it becomes more and more autumnal."
+<div class="keigo-card blue">
+• *秋の深まりとともに、皆様のご来館を心よりお待ちしております。* "As autumn deepens, we sincerely await your visit."<br>• *日に日に秋らしくなってまいりました。* "Day by day it becomes more and more autumnal."
+</div>
+
 
 ## Seasonal Environment
 
 Autumn decorations reflect the rich colours and textures of the season:
 
-- Deep earth tones: burgundy, rust, amber, forest green
-- Maple branch arrangements, dried grasses, persimmon fruit as decorative elements
-- Heavier table linens and warmer lighting to reflect the shortening days
+<div class="keigo-card blue">
+• Deep earth tones: burgundy, rust, amber, forest green<br>• Maple branch arrangements, dried grasses, persimmon fruit as decorative elements<br>• Heavier table linens and warmer lighting to reflect the shortening days
+</div>
+
 
 ## Seasonal Food and Drink
 
-- Mushrooms: matsutake (松茸), shiitake, nameko, autumn is peak season for Japanese fungi
-- Sweet potato (*satsumaimo*), chestnuts (*kuri*), persimmon (*kaki*)
-- New rice (*shinmai*, 新米): the autumn rice harvest produces the freshest, most fragrant cooked rice of the year, a significant event in Japanese food culture
-- Warm sake, hojicha (roasted green tea), and warming soups return to the menu
+<div class="keigo-card blue">
+• Mushrooms: matsutake (松茸), shiitake, nameko, autumn is peak season for Japanese fungi<br>• Sweet potato (*satsumaimo*), chestnuts (*kuri*), persimmon (*kaki*)<br>• New rice (*shinmai*, 新米): the autumn rice harvest produces the freshest, most fragrant cooked rice of the year, a significant event in Japanese food culture<br>• Warm sake, hojicha (roasted green tea), and warming soups return to the menu
+</div>
+
 
 ## The Mood of Autumn
 

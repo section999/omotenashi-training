@@ -11,7 +11,6 @@ This lesson covers the complete reference set of core hotel telephone expression
 ## Acknowledgment Expressions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Acknowledging Requests and Information</span>
 <span class="keigo-jp"><code>かしこまりました</code></span><br>
 <em>kashikomarimashita</em>: Certainly (highest formality; used when receiving requests or instructions from a guest)<br><br>
 <span class="keigo-jp"><code>承知いたしました</code></span><br>
@@ -23,7 +22,6 @@ This lesson covers the complete reference set of core hotel telephone expression
 ## Wait and Hold Expressions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Managing Wait Time</span>
 <span class="keigo-jp"><code>少々お待ちくださいませ</code></span><br>
 <em>shoushou o-machi kudasaimase</em>: Please wait a moment<br><br>
 <span class="keigo-jp"><code>確認いたします</code></span><br>
@@ -35,7 +33,6 @@ This lesson covers the complete reference set of core hotel telephone expression
 ## Transfer and Connection Expressions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Connecting to Another Department</span>
 <span class="keigo-jp"><code>おつなぎいたします</code></span><br>
 <em>o-tsunagi itashimasu</em>: I will connect you (frames transfer as coordination, not abandonment)<br><br>
 <span class="keigo-jp"><code>担当者にお繋ぎいたします</code></span><br>
@@ -47,7 +44,6 @@ This lesson covers the complete reference set of core hotel telephone expression
 ## Apology Expressions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Expressing Regret</span>
 <span class="keigo-jp"><code>申し訳ございません</code></span><br>
 <em>moushiwake gozaimasen</em>: I am very sorry (standard formal apology)<br><br>
 <span class="keigo-jp"><code>ご不便をおかけし申し訳ございません</code></span><br>
@@ -59,7 +55,6 @@ This lesson covers the complete reference set of core hotel telephone expression
 ## Closing Expressions
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Ending the Call</span>
 <span class="keigo-jp"><code>お電話ありがとうございました</code></span><br>
 <em>o-denwa arigatou gozaimashita</em>: Thank you for your call<br><br>
 <span class="keigo-jp"><code>またのご利用をお待ちしております</code></span><br>
@@ -88,7 +83,6 @@ This is one of the most important distinctions in hotel Japanese, and one of the
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">When to Use Which</span>
 <span class="keigo-badge info">かしこまりました</span> → Guest makes a request ("Please arrange a twin room"), confirm receipt with full service neutrality<br><br>
 <span class="keigo-badge info">承知いたしました</span> → Guest provides information ("I will arrive at 10pm"), confirm the information was received and logged<br><br>
 <span class="keigo-badge bad">分かりました</span> → Never use with guests. Appropriate only between staff members.
@@ -99,7 +93,6 @@ The difference is subtle but significant. かしこまりました positions the
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Quick Reference</span>
 <span class="keigo-jp"><code>かしこまりました</code></span>: Certainly (for requests)<br>
 <span class="keigo-jp"><code>承知いたしました</code></span>: Understood (for information)<br>
 <span class="keigo-jp"><code>少々お待ちくださいませ</code></span>: Please wait a moment<br>

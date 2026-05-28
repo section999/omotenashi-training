@@ -6,20 +6,36 @@ title: 子供 (kodomo)
 子供 refers to child guests, generally those below the adult age threshold, which at most properties means under 12 or 13. The pricing is more involved than a simple adult-versus-child split: the rate often depends on whether the child is sharing a bed with parents, using an extra futon, or taking a separate room. Many properties break 子供 down further into age brackets, such as elementary school students (小学生) and preschool-age children (未就学児), with different meal portions and room setup expectations for each. The property's definitions should be confirmed before quoting a rate to a family.
 
 The service dimension of 子供 matters just as much as the billing side. A reservation with a child in it is a prompt to consider: child-size yukata, a step stool in the bathroom, a highchair at the dining table, perhaps a separate children's menu. Doing this without being asked is a key aspect of omotenashi. お子様 should be used when addressing parents or referring to the child in conversation; the plain form 子供 sounds blunt in a hospitality context and guests will notice the difference
-| Japanese | Meaning |
-|---|---|
-| お子様のご年齢をお知らせいただけますでしょうか。<br><small>*O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*</small> | Could you please let us know your child's age? |
-| お子様用の浴衣とスリッパをお部屋にご用意しております。<br><small>*O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*</small> | We have prepared children's yukata and slippers in the room. |
-| お子様のお食事は、お子様ランチをご用意できます。<br><small>*O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*</small> | We can prepare a children's meal set for your child. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お子様のご年齢をお知らせいただけますでしょうか。</code></span><br>
+<em>O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.</em><br>
+Could you please let us know your child's age?
+<br><br>
+<span class="keigo-jp"><code>お子様用の浴衣とスリッパをお部屋にご用意しております。</code></span><br>
+<em>O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.</em><br>
+We have prepared children's yukata and slippers in the room.
+<br><br>
+<span class="keigo-jp"><code>お子様のお食事は、お子様ランチをご用意できます。</code></span><br>
+<em>O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.</em><br>
+We can prepare a children's meal set for your child.
+</div>
 
 ## Related Expressions
 
-- **幼児 (youji)**: infants and toddlers, typically under 3 or 4 years old; a subcategory of 子供 with its own rules, often free of charge but still needing a crib and other baby-specific arrangements.
-- **小学生 (shougakusei)**: elementary school-age children; many properties treat this as its own pricing bracket with specific meal options and room setup considerations that differ from both younger children and adults.
+<div class="keigo-card blue">
+<span class="keigo-badge info">幼児 (youji)</span> infants and toddlers, typically under 3 or 4 years old; a subcategory of 子供 with its own rules, often free of charge but still needing a crib and other baby-specific arrangements.
+<br><br>
+<span class="keigo-badge info">小学生 (shougakusei)</span> elementary school-age children; many properties treat this as its own pricing bracket with specific meal options and room setup considerations that differ from both younger children and adults.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using the plain form 子供 when speaking with guests is a quick way to sound casual in a situation that calls for warmth and formality. お子様 is the correct form in any guest-facing context, with no exceptions. A second common error is applying a generic child rate to a booking without first asking the child's age. If the property uses age-based subcategories, this can result in incorrect billing, and correcting it later is uncomfortable for everyone. A brief age confirmation at the reservation stage prevents that entirely.
+</div>
 
 ---
 

@@ -10,21 +10,38 @@ Guiding a guest is one of the more intimate forms of service in hospitality. Unl
 
 The phrase carries responsibility. Once staff say *go-annai itashimasu*, one is committed to the guiding role until the guest arrives at their destination. That means walking at their pace, announcing hazards, opening doors, and giving them their full attention throughout. The quality of that walk is itself a form of hospitality
 
-| Japanese | Meaning |
-|---|---|
-| お部屋までご案内いたします。こちらへどうぞ。<br><small>*O-heya made go-annai itashimasu. Kochira e dōzo.*</small> | I will show you to the room. Please come this way. |
-| レストランまでご案内いたします。足元にお気をつけください。<br><small>*Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.*</small> | I will guide you to the restaurant. Please watch your step. |
-| チェックアウトの際には、出口までご案内いたします。<br><small>*Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.*</small> | At checkout, I will escort you to the entrance. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋までご案内いたします。こちらへどうぞ。</code></span><br>
+<em>O-heya made go-annai itashimasu. Kochira e dōzo.</em><br>
+I will show you to the room. Please come this way.
+<br><br>
+<span class="keigo-jp"><code>レストランまでご案内いたします。足元にお気をつけください。</code></span><br>
+<em>Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.</em><br>
+I will guide you to the restaurant. Please watch your step.
+<br><br>
+<span class="keigo-jp"><code>チェックアウトの際には、出口までご案内いたします。</code></span><br>
+<em>Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.</em><br>
+At checkout, I will escort you to the entrance.
+</div>
 
 ## Related Expressions
 
-- **こちらへどうぞ (kochira e dōzo)**: "Please come this way": the movement invitation that follows *go-annai itashimasu*
-- **お連れいたします (o-tsure itashimasu)**: "I will accompany you": slightly warmer/more personal, sometimes used in VIP contexts
-- **ご案内申し上げます (go-annai mōshiagemasu)**: Even more formal version of *go-annai itashimasu*; used in highly elevated service contexts or formal announcements
+<div class="keigo-card blue">
+<span class="keigo-badge info">こちらへどうぞ (kochira e dōzo)</span> "Please come this way": the movement invitation that follows *go-annai itashimasu*
+<br><br>
+<span class="keigo-badge info">お連れいたします (o-tsure itashimasu)</span> "I will accompany you": slightly warmer/more personal, sometimes used in VIP contexts
+<br><br>
+<span class="keigo-badge info">ご案内申し上げます (go-annai mōshiagemasu)</span> Even more formal version of *go-annai itashimasu*; used in highly elevated service contexts or formal announcements
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is saying *go-annai itashimasu* and then not fully committing to the escort: walking too fast, failing to open doors, not mentioning hazards, or leaving the guest to find the final stretch on their own. The phrase creates an obligation that must be honoured. A common error is treating *go-annai itashimasu* as a room-escort-only phrase, but it applies any time a guest needs to be physically guided somewhere: restaurant, spa, meeting room, elevator. If one is leading them, it should be used.
+</div>
 
 ---
 

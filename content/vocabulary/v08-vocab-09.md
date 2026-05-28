@@ -7,20 +7,36 @@ title: 二階 (nikai)
 
 Directing a guest to 二階 should always include access instructions: エレベーターをご利用ください (please use the elevator) or 階段はこちらでございます (the stairs are this way). If the elevator is nearby, pointing to it reinforces the instruction. For guests with luggage or mobility considerations, mentioning the elevator proactively without waiting for them to ask is the anticipatory aspect of omotenashi at work
 
-| Japanese | Meaning |
-|---|---|
-| レストランは二階にございます。<br><small>*Resutoran wa nikai ni gozaimasu.*</small> | The restaurant is on the second floor. |
-| 二階のラウンジにてウェルカムドリンクをご用意しております。<br><small>*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*</small> | We have a welcome drink prepared for you in the second-floor lounge. |
-| 会議室は二階の突き当たり左にございます。<br><small>*Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.*</small> | The conference room is on the second floor at the end of the corridor on the left. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>レストランは二階にございます。</code></span><br>
+<em>Resutoran wa nikai ni gozaimasu.</em><br>
+The restaurant is on the second floor.
+<br><br>
+<span class="keigo-jp"><code>二階のラウンジにてウェルカムドリンクをご用意しております。</code></span><br>
+<em>Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.</em><br>
+We have a welcome drink prepared for you in the second-floor lounge.
+<br><br>
+<span class="keigo-jp"><code>会議室は二階の突き当たり左にございます。</code></span><br>
+<em>Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.</em><br>
+The conference room is on the second floor at the end of the corridor on the left.
+</div>
 
 ## Related Expressions
 
-- **上の階 (ue no kai)**: "the floor above"; a relative term used when the specific floor number is less important than the direction; less precise than 二階 and not recommended when a specific floor can be named
-- **一階 (ikkai)**: "first floor / ground level"; always the floor immediately below 二階; understanding both in context helps guests build a mental map of the building's vertical layout
+<div class="keigo-card blue">
+<span class="keigo-badge info">上の階 (ue no kai)</span> "the floor above"; a relative term used when the specific floor number is less important than the direction; less precise than 二階 and not recommended when a specific floor can be named
+<br><br>
+<span class="keigo-badge info">一階 (ikkai)</span> "first floor / ground level"; always the floor immediately below 二階; understanding both in context helps guests build a mental map of the building's vertical layout
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to pronounce 二階 as ni-gai under the influence of other irregular floor readings, but 二階 is nikai and follows the standard pattern. Saying just 二階 without following with にございます or にあります is insufficient formality for hotel speech. A subtle but important error is failing to mention elevator access when directing guests to 二階. Guests with heavy luggage should not have to ask whether stairs are the only option.
+</div>
 
 ---
 

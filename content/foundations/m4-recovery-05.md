@@ -16,17 +16,17 @@ A brief follow-up answers that question without a word being said about it. It c
 
 ## How to Follow Up
 
-### Timing
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Timing</span><br>
 Follow up within a few hours of the resolution, at the next natural interaction point. For a dining complaint, check in during dessert. For a front desk issue, a short call to the room that evening is appropriate.
-
-### Tone
-
+<br><br>
+<span class="keigo-badge info">Tone</span><br>
 Keep it warm, brief, and genuine, not clinical or administrative. The goal is to show continued care: "I wanted to make sure everything has been comfortable for you since this morning. We are very glad you are with us."
-
-### Handover
-
+<br><br>
+<span class="keigo-badge info">Handover</span><br>
 If your shift ends before the follow-up moment arrives, make sure the incoming colleague knows the situation and is ready to follow up on your behalf. That seamless transfer of care is itself a form of service.
+</div>
 
 ## Closing the Loop
 

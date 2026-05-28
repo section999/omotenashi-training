@@ -11,7 +11,6 @@ Hotel email is not simply written Japanese. It is a service medium. Before the g
 A guest reading a reservation confirmation, a pre-arrival notice, or an apology letter is forming an opinion about the hotel. That opinion is based entirely on the language, not on the room, the pool, or the food.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">What Guests Assess in Every Email</span>
 <span class="keigo-badge info">Professionalism</span> Does this hotel know how to communicate?<br>
 <span class="keigo-badge info">Care</span> Did they pay attention to who I am?<br>
 <span class="keigo-badge info">Trust</span> Can I rely on this hotel to handle my stay properly?<br>
@@ -22,7 +21,6 @@ All four questions are answered before the guest reads the first piece of inform
 ## The Four Requirements of Hotel Email Language
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Four Requirements</span>
 <strong>1. Appropriate Register</strong><br>
 The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).<br><br>
 <strong>2. Tone Consistency</strong><br>
@@ -36,7 +34,6 @@ Hotel emails are not cold business correspondence. They carry the emotional warm
 ## What Happens When Email Language Is Wrong
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Cost of Poor Email Language</span>
 
 | Error | Guest Impression |
 |---|---|
@@ -53,7 +50,6 @@ Hotel emails are not cold business correspondence. They carry the emotional warm
 The target for all hotel email writing is professional warmth. Not overly formal. Not casually friendly. The guest should feel:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Target Feeling</span>
 "This hotel is organized, attentive, and genuinely glad I am coming."<br><br>
 <span class="keigo-badge bad">Too stiff</span> <span class="keigo-jp"><code>深甚なる謝意を表明申し上げます。</code></span><br>
 Overly ceremonial. Emotionally cold despite formal politeness.<br><br>
@@ -66,7 +62,6 @@ Polite, warm, and appropriately professional.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Foundation Email Vocabulary</span>
 <span class="keigo-jp"><code>誠にありがとうございます</code></span>: Sincerely thank you<br>
 <span class="keigo-jp"><code>ご不明な点はございますか</code></span>: Do you have any questions?<br>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Please feel free to contact us<br>

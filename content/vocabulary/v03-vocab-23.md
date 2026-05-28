@@ -6,20 +6,36 @@ title: ドア (door)
 ドア is a loanword for "door," and in hotel contexts it specifically refers to the Western-style hinged room door rather than a 引き戸 (sliding panel door) or 障子 (paper screen). The guest room ドア is the front line of both privacy and security, and every guest needs to know how to operate it properly. Modern hotel rooms use electronic key card locks that auto-lock when the door closes, which is convenient but also means a guest who steps out without their card is locked out instantly. Guests should also know about the internal chain lock (チェーンロック) for added security while inside the room.
 
 During room orientation, staff cover the basics clearly: 「ドアはオートロックになっております」 so guests remember their key card, and 「お部屋の中からはチェーンをかけてください」 to recommend the chain lock at night. Emergency exit information, such as 「非常口は廊下の左側にございます」, is naturally delivered alongside this ドア guidance. When a guest's key card stops working, staff should respond promptly and offer to re-issue it, a locked-out guest standing in the corridor is one of the more avoidable service failures in front-desk work
-| Japanese | Meaning |
-|---|---|
-| ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。<br><small>*Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*</small> | The door is auto-locking, so please take your key card when one go out. |
-| ドアは内側から鍵を回してください。<br><small>*Doa wa uchigawa kara kagi wo mawashite kudasai.*</small> | Please lock the door from the inside. |
-| ご就寝の際は、チェーンロックもご使用いただくと安心でございます。<br><small>*Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.*</small> | For added security when sleeping, we recommend also using the chain lock. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。</code></span><br>
+<em>Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.</em><br>
+The door is auto-locking, so please take your key card when one go out.
+<br><br>
+<span class="keigo-jp"><code>ドアは内側から鍵を回してください。</code></span><br>
+<em>Doa wa uchigawa kara kagi wo mawashite kudasai.</em><br>
+Please lock the door from the inside.
+<br><br>
+<span class="keigo-jp"><code>ご就寝の際は、チェーンロックもご使用いただくと安心でございます。</code></span><br>
+<em>Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.</em><br>
+For added security when sleeping, we recommend also using the chain lock.
+</div>
 
 ## Related Expressions
 
-- **カードキー (kaado kii)**: The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out.
-- **チェーンロック (cheen rokku)**: The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation.
+<div class="keigo-card blue">
+<span class="keigo-badge info">カードキー (kaado kii)</span> The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out.
+<br><br>
+<span class="keigo-badge info">チェーンロック (cheen rokku)</span> The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is giving only the minimal instruction 「ドアは鍵をかけてください」 without explaining the auto-lock mechanism or the chain lock, leaving guests without full information. Casual imperative forms like 「ドア閉めて」 should be avoided in favor of the polite 「ドアをお閉めください」 or contextual guidance forms. In Japanese hotel practice, safety information about the nearest fire exit is typically delivered together with door and lock orientation, overlooking that connection is a common gap in new staff training.
+</div>
 
 ---
 

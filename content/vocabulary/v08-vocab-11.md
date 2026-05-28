@@ -7,20 +7,36 @@ title: 地下 (chika)
 
 When directing guests to 地下, specifying the elevator button or stair access is important, since "the basement" tells guests where to go but not how to get there. If there are multiple basement levels (地下一階、地下二階), naming the specific level is essential. A guest who ends up on the wrong basement floor wastes time and may perceive the service as careless. Mentioning what they will find upon arrival, such as 駐車場でございます or ジムはこちらになります, confirms they have reached the right place.
 
-| Japanese | Meaning |
-|---|---|
-| 駐車場は地下にございます。<br><small>*Chuushajou wa chika ni gozaimasu.*</small> | The parking lot is in the basement. |
-| フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。<br><small>*Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.*</small> | The fitness center is on basement level 1. Please press the B1 button in the elevator. |
-| ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。<br><small>*Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.*</small> | The laundry room is in the basement. If you prefer the stairs, please use these. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>駐車場は地下にございます。</code></span><br>
+<em>Chuushajou wa chika ni gozaimasu.</em><br>
+The parking lot is in the basement.
+<br><br>
+<span class="keigo-jp"><code>フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。</code></span><br>
+<em>Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.</em><br>
+The fitness center is on basement level 1. Please press the B1 button in the elevator.
+<br><br>
+<span class="keigo-jp"><code>ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。</code></span><br>
+<em>Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.</em><br>
+The laundry room is in the basement. If you prefer the stairs, please use these.
+</div>
 
 ## Related Expressions
 
-- **地下一階 (chika ikkai)**: "basement level 1 (B1)"; the more specific term when there is only one basement level or when distinguishing between multiple basement floors; preferred over the general 地下 when the exact level is known
-- **地下街 (chikagai)**: "underground shopping arcade / underground mall"; a common feature of large Japanese cities and station complexes; relevant when directing guests to urban underground retail areas outside the hotel
+<div class="keigo-card blue">
+<span class="keigo-badge info">地下一階 (chika ikkai)</span> "basement level 1 (B1)"; the more specific term when there is only one basement level or when distinguishing between multiple basement floors; preferred over the general 地下 when the exact level is known
+<br><br>
+<span class="keigo-badge info">地下街 (chikagai)</span> "underground shopping arcade / underground mall"; a common feature of large Japanese cities and station complexes; relevant when directing guests to urban underground retail areas outside the hotel
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is saying 地下にございます without specifying the elevator button or floor code (B1, B2), which leaves guests pressing the wrong button. If the building has multiple basement levels, the level must be named explicitly. Treating 地下 as though it always means one specific floor is a frequent mistake. Forgetting to confirm what the guest will find in the basement, such as parking versus the gym, can also lead to guests arriving at the wrong facility entirely.
+</div>
 
 ---
 ## Quiz

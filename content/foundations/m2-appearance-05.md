@@ -10,10 +10,10 @@ Refined hospitality practice extends to details that guests rarely notice consci
 
 The hands are constantly visible and constantly communicating. Core principles include:
 
-- **Pointing**: Never point at a person or object with a single index finger. Use an open hand with the palm up and fingers together.
-- **Indicating direction**: Extend the arm with an open hand in the direction intended, at a natural height.
-- **Handling objects**: Items offered to guests, menus, cards, bags, documents, are presented with both hands and a slight bow. This simple act doubles the care conveyed.
-- **Touching guests**: Physical contact is generally avoided. If necessary (for example, steadying an elderly guest or guiding someone through a doorway), ask first or use the lightest possible touch on the arm.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Pointing</span> Never point at a person or object with a single index finger. Use an open hand with the palm up and fingers together.<br><br><span class="keigo-badge info">Indicating direction</span> Extend the arm with an open hand in the direction intended, at a natural height.<br><br><span class="keigo-badge info">Handling objects</span> Items offered to guests, menus, cards, bags, documents, are presented with both hands and a slight bow. This simple act doubles the care conveyed.<br><br><span class="keigo-badge info">Touching guests</span> Physical contact is generally avoided. If necessary (for example, steadying an elderly guest or guiding someone through a doorway), ask first or use the lightest possible touch on the arm.
+</div>
+
 
 ## Eyes
 
@@ -23,9 +23,10 @@ When interacting with a group of guests, distribute eye contact evenly. Consiste
 
 ## Voice
 
-- **Volume**: Calibrate to the environment. A quiet dining room calls for a lower voice; a busy lobby may require slightly more projection. Never raise the voice in frustration.
-- **Pace**: Slower speech tends to read as confident and in control. Rushed speech reads as anxious.
-- **Tone**: Warm, clear, and unhurried. The guest should feel they have full attention and that there is no rush to move on.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Volume</span> Calibrate to the environment. A quiet dining room calls for a lower voice; a busy lobby may require slightly more projection. Never raise the voice in frustration.<br><br><span class="keigo-badge info">Pace</span> Slower speech tends to read as confident and in control. Rushed speech reads as anxious.<br><br><span class="keigo-badge info">Tone</span> Warm, clear, and unhurried. The guest should feel they have full attention and that there is no rush to move on.
+</div>
+
 
 ---
 

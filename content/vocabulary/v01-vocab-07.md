@@ -10,21 +10,38 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 *Shitsurei itashimasu* is not an apology. It should not be used when a guest's room was not ready or their meal was incorrect. For genuine errors and serious inconveniences, *moushiwake gozaimasen* is the right phrase. *Shitsurei itashimasu* belongs to the small social navigations of daily professional life, nothing more and nothing less
 
-| Japanese | Meaning |
-|---|---|
-| 失礼いたします。お部屋にご案内いたします。<br><small>*Shitsurei itashimasu. O-heya ni go-annai itashimasu.*</small> | Excuse me. I will show you to the room. |
-| 失礼いたします。少々お時間をいただいてもよろしいでしょうか。<br><small>*Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*</small> | Excuse me. May I take a moment of your time? |
-| 失礼いたします。（ドアをノックして部屋に入る際に）<br><small>*Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*</small> | Excuse me. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>失礼いたします。お部屋にご案内いたします。</code></span><br>
+<em>Shitsurei itashimasu. O-heya ni go-annai itashimasu.</em><br>
+Excuse me. I will show you to the room.
+<br><br>
+<span class="keigo-jp"><code>失礼いたします。少々お時間をいただいてもよろしいでしょうか。</code></span><br>
+<em>Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.</em><br>
+Excuse me. May I take a moment of your time?
+<br><br>
+<span class="keigo-jp"><code>失礼いたします。（ドアをノックして部屋に入る際に）</code></span><br>
+<em>Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)</em><br>
+Excuse me.
+</div>
 
 ## Related Expressions
 
-- **申し訳ございません (moushiwake gozaimasen)**: Deep apology for genuine errors. Much stronger than *shitsurei itashimasu*, and the right phrase when something has gone wrong.
-- **すみません (sumimasen)**: Casual "excuse me" or light apology. Fine between colleagues, but too informal for guest-facing interactions.
-- **恐れ入ります (osore irimasu)**: A more humble "excuse me" or expression of appreciation. Used when making a request of the guest or receiving their thanks.
+<div class="keigo-card blue">
+<span class="keigo-badge info">申し訳ございません (moushiwake gozaimasen)</span> Deep apology for genuine errors. Much stronger than *shitsurei itashimasu*, and the right phrase when something has gone wrong.
+<br><br>
+<span class="keigo-badge info">すみません (sumimasen)</span> Casual "excuse me" or light apology. Fine between colleagues, but too informal for guest-facing interactions.
+<br><br>
+<span class="keigo-badge info">恐れ入ります (osore irimasu)</span> A more humble "excuse me" or expression of appreciation. Used when making a request of the guest or receiving their thanks.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common confusion is using *shitsurei itashimasu* as an apology for a serious problem. If a guest's room was not ready or their dinner had an error, *shitsurei itashimasu* sounds far too light and can come across as almost dismissive. It should be reserved for its proper purpose: the polite navigation of minor social intrusions. In casual spoken Japanese, people sometimes use *shitsurei* more loosely, which can give the impression it covers a wider range. In formal hospitality, the boundaries are stricter, and knowing where this phrase belongs is essential.
+</div>
 
 ---
 

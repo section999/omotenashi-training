@@ -11,7 +11,6 @@ Hotel keigo is built from three distinct systems that work together in every int
 Sonkeigo is used when describing the **guest's** actions, decisions, condition, or status. By choosing a special honorific verb for the guest's action, the staff linguistically elevates the guest. This is not just politeness. It communicates the fundamental hospitality message: "You are the honored person here."
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">尊敬語: Key Verb Pairs</span>
 
 | Plain Form | Sonkeigo Form | Meaning |
 |---|---|---|
@@ -46,7 +45,6 @@ Sonkeigo is used when describing the **guest's** actions, decisions, condition, 
 Kenjogo is used when describing the **staff's own actions**. By choosing a humble verb form, the staff positions themselves below the guest. This is the structural opposite of sonkeigo: sonkeigo raises the guest; kenjogo lowers the staff. Together they create the defining relationship of Japanese hospitality service.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">謙譲語: Key Verb Pairs</span>
 
 | Plain Form | Kenjogo Form | Meaning |
 |---|---|---|
@@ -81,7 +79,6 @@ Kenjogo is used when describing the **staff's own actions**. By choosing a humbl
 Teineigo creates the general atmosphere of professional, refined communication. It is not strongly respectful toward the guest or strongly humble for the staff. It simply ensures the overall tone sounds polished and appropriate for a hotel environment.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">丁寧語: Key Forms</span>
 <span class="keigo-jp"><code>〜でございます</code></span> (polished form of です)<br>
 <span class="keigo-jp"><code>〜しております</code></span> (polished form of しています)<br>
 <span class="keigo-jp"><code>ありがとうございます</code></span> (the standard polite thank you)<br>
@@ -96,7 +93,6 @@ Examples:<br>
 In a real hotel interaction, all three types are used in the same breath. A single check-in exchange might contain all three:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">All Three in Three Sentences</span>
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
 You are Mr./Ms. Yamada, correct? (いらっしゃる elevates the guest's existence)<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
@@ -110,7 +106,6 @@ Switching between all three naturally and accurately is the core skill of hotel 
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Core Verb Examples by Type</span>
 <span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>いらっしゃいますか</code></span> Are you here? / Are you Mr./Ms. X?<br>
 <span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>召し上がりますか</code></span> Would you like to eat/drink?<br>
 <span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お伺いいたします</code></span> I will come to you / I will ask<br>

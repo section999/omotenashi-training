@@ -9,7 +9,6 @@ Availability calls are not simple information delivery. They are **decision-supp
 ## Availability Check, Room Available
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Available Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
 Do you have availability on June 10th?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
@@ -40,7 +39,6 @@ Unfortunately, we are fully booked today.<br><br>
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Fully Booked + Alternative Offer</span>
 <strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
 I will check. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
@@ -56,7 +54,6 @@ If you would like, we can offer alternative dates nearby. Would that work for yo
 Guests often call to understand what types of rooms are available before committing to a reservation:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Room Type Inquiry Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
 What kinds of rooms do you have?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルにはスタンダードルーム、ツインルーム、そしてデラックスルームがございます。ご利用のご人数はいかがでしょうか。</code></span><br>
@@ -72,7 +69,6 @@ Two guests. For two, I would recommend our twin room or deluxe room. Shall I als
 When guiding a guest toward an alternative, end with a question that invites their input rather than pushing a decision:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Inviting Guest Input</span>
 <span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
 <span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
 <span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?<br><br>
@@ -82,7 +78,6 @@ These endings return decision-making to the guest, reducing pressure and maintai
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Availability Key Phrases</span>
 <span class="keigo-jp"><code>空室状況を確認いたします</code></span><br>
 I will check availability.<br><br>
 <span class="keigo-jp"><code>あいにく〜は満室となっております</code></span><br>

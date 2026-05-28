@@ -12,18 +12,18 @@ A *kashikiri* bath is a private onsen facility reserved exclusively for one gues
 
 Kashikiri is the right recommendation for:
 
-- Guests who are uncomfortable with communal bathing
-- Couples
-- Families with young children
+<div class="keigo-card blue">
+• Guests who are uncomfortable with communal bathing<br>• Couples<br>• Families with young children
+</div>
+
 
 Many guests are unaware that this option exists until a staff member mentions it. Proactively offering the information is part of good service.
 
-### Managing Kashikiri Reservations
 
-- Inform guests of available times and booking procedures at check-in
-- Confirm the reservation the day before or the morning of the booking
-- Prepare the bath 15 minutes before the reserved time: heat the water, set the lighting, place fresh towels, and check that the space is spotless
-- A seasonal flower or small natural element at the bath entrance elevates the experience from functional to memorable
+<div class="keigo-card blue">
+<span class="keigo-badge info">Managing Kashikiri Reservations</span><br>
+• Inform guests of available times and booking procedures at check-in<br>• Confirm the reservation the day before or the morning of the booking<br>• Prepare the bath 15 minutes before the reserved time: heat the water, set the lighting, place fresh towels, and check that the space is spotless<br>• A seasonal flower or small natural element at the bath entrance elevates the experience from functional to memorable
+</div>
 
 ## Rotenburo (露天風呂), Open-Air Baths
 

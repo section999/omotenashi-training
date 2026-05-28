@@ -12,18 +12,19 @@ In hospitality, wabi-sabi is sometimes misread as a preference for the rustic or
 
 The modern luxury hotel expresses wabi-sabi through several consistent choices:
 
-- **Natural materials:** wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and shift over time rather than holding an artificial perfection.
-- **Seasonal rotation:** decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu signals that attention has lapsed.
-- **Deliberate absence of clutter:** the tokonoma alcove holds only one carefully chosen scroll and one arrangement. The room breathes, leaving space for the guest's eye and mind to rest.
-- **Quiet and calm as design choices:** the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness, it is the space in which the guest's experience can actually exist.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Natural materials:</span> wood with visible grain, stone with natural variation, linen rather than synthetic fabric. These materials age and shift over time rather than holding an artificial perfection.<br><br><span class="keigo-badge info">Seasonal rotation:</span> decorations, flower arrangements, and menu items that change with the season. A permanent display or an out-of-season menu signals that attention has lapsed.<br><br><span class="keigo-badge info">Deliberate absence of clutter:</span> the tokonoma alcove holds only one carefully chosen scroll and one arrangement. The room breathes, leaving space for the guest's eye and mind to rest.<br><br><span class="keigo-badge info">Quiet and calm as design choices:</span> the absence of background music in certain spaces, the preference for natural light, the use of sound-absorbing materials. Silence is not emptiness, it is the space in which the guest's experience can actually exist.
+</div>
+
 
 ## Wabi-Sabi in Food and Service
 
 In kaiseki and fine dining, wabi-sabi appears in closely related ways:
 
-- Serving ingredients at their seasonal peak (*shun*), because the brevity of a season is part of what makes it worth tasting now
-- Presenting food in handmade ceramics that carry subtle imperfections
-- The considered pause before placing a dish, not rushing, allowing a moment of anticipation to form naturally
+<div class="keigo-card blue">
+• Serving ingredients at their seasonal peak (*shun*), because the brevity of a season is part of what makes it worth tasting now<br>• Presenting food in handmade ceramics that carry subtle imperfections<br>• The considered pause before placing a dish, not rushing, allowing a moment of anticipation to form naturally
+</div>
+
 
 ## The Practical Principle
 

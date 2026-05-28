@@ -7,20 +7,36 @@ title: アイロン (airon)
 
 Staff should know the basics of fabric and heat. Cotton and linen handle high temperatures fine; synthetics and silk need a low setting or a pressing cloth between the iron and the fabric to avoid scorching. When a guest reports a broken iron or asks to have one brought up, staff should treat it as urgent. That guest may be walking out the door in twenty minutes. If the room does not have one, staff should direct the guest to a shared laundry room or have one delivered right away.
 
-| Japanese | Meaning |
-|---|---|
-| アイロンとアイロン台は備え付けのクロゼットの中にございます。<br><small>*Airon to airon dai wa sonaetsuke no kurozetto no naka ni gozaimasu.*</small> | The iron and ironing board are inside the built-in closet. |
-| シルクのブラウスには低温でアイロンをおかけになることをお勧めいたします。<br><small>*Shiruku no burausu ni wa teion de airon o o-kake ni naru koto o o-susume itashimasu.*</small> | We recommend ironing your silk blouse on a low heat setting. |
-| アイロンのご入用でしたら、フロントまでお申し付けいただければすぐにお持ちいたします。<br><small>*Airon no go-inyou de shitara, furonto made o-moushitsuke itadakereba sugu ni o-mochi itashimasu.*</small> | If you need an iron, please let the front desk know and we will bring one to you right away. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>アイロンとアイロン台は備え付けのクロゼットの中にございます。</code></span><br>
+<em>Airon to airon dai wa sonaetsuke no kurozetto no naka ni gozaimasu.</em><br>
+The iron and ironing board are inside the built-in closet.
+<br><br>
+<span class="keigo-jp"><code>シルクのブラウスには低温でアイロンをおかけになることをお勧めいたします。</code></span><br>
+<em>Shiruku no burausu ni wa teion de airon o o-kake ni naru koto o o-susume itashimasu.</em><br>
+We recommend ironing your silk blouse on a low heat setting.
+<br><br>
+<span class="keigo-jp"><code>アイロンのご入用でしたら、フロントまでお申し付けいただければすぐにお持ちいたします。</code></span><br>
+<em>Airon no go-inyou de shitara, furonto made o-moushitsuke itadakereba sugu ni o-mochi itashimasu.</em><br>
+If you need an iron, please let the front desk know and we will bring one to you right away.
+</div>
 
 ## Related Expressions
 
-- **アイロン台 (airon dai)**: the ironing board; guests almost always need both together, so staff should think of them as a set when preparing the room.
-- **スチームアイロン (sutiimu airon)**: a steam iron that emits moisture while pressing; a good choice for delicate fabrics or stubborn wrinkles that will not budge with dry heat alone.
+<div class="keigo-card blue">
+<span class="keigo-badge info">アイロン台 (airon dai)</span> the ironing board; guests almost always need both together, so staff should think of them as a set when preparing the room.
+<br><br>
+<span class="keigo-badge info">スチームアイロン (sutiimu airon)</span> a steam iron that emits moisture while pressing; a good choice for delicate fabrics or stubborn wrinkles that will not budge with dry heat alone.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is to say アイロンをする, which sounds a little off to native speakers. The natural collocation is アイロンをかける, literally "to apply the iron." In guest-facing speech, staff should use the polite form アイロンをおかけになる. アイロン (the appliance) and 鉄 (tetsu, iron the metal) are completely unrelated in daily speech, so there is no real risk of confusing guests in context. A good habit to build early is always advising guests to check care labels before pressing anything, especially with borrowed hotel irons where the temperature dial markings may be worn.
+</div>
 
 ---
 

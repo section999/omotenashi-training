@@ -11,7 +11,6 @@ This lesson covers the complete flow of a hotel restaurant interaction, from sea
 ## Seating a Guest
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Greeting and Seating Script</span>
 <strong>Staff:</strong> <span class="keigo-jp"><code>いらっしゃいませ。何名様でしょうか。</code></span><br>
 Welcome. How many guests are in your party?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>2人です。</code></span><br>
@@ -29,7 +28,6 @@ Thank you. Here is the menu. Please call us when you are ready to order.
 ## Taking an Order
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Order Taking Script</span>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご注文はお決まりでしょうか。</code></span><br>
 Have you decided on your order?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>サーモンのグリルと白ワインをお願いします。</code></span><br>
@@ -47,7 +45,6 @@ Certainly. Please wait a moment.
 ## Serving the Food
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Food Service Script</span>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お待たせいたしました。サーモンのグリルでございます。</code></span><br>
 Thank you for your patience. Here is the grilled salmon.<br><br>
 <span class="keigo-jp"><code>白ワインでございます。どうぞごゆっくりお召し上がりくださいませ。</code></span><br>
@@ -59,7 +56,6 @@ The phrase ごゆっくりお召し上がりくださいませ mirrors ごゆっ
 ## Checking on the Guest Mid-Meal
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Mid-Meal Check</span>
 <span class="keigo-jp"><code>お料理のお味はいかがでしょうか。</code></span><br>
 How is your food?<br><br>
 <span class="keigo-jp"><code>何かご不明な点やご要望はございますでしょうか。</code></span><br>
@@ -71,7 +67,6 @@ Checking in once during the meal shows attentiveness. However, checking too freq
 ## Handling a Dietary Request
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Dietary Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>アレルギーがあるので、ナッツを使わないものをお願いしたいのですが。</code></span><br>
 I have allergies, could I get something without nuts?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。シェフに確認いたします。少々お待ちくださいませ。</code></span><br>
@@ -83,7 +78,6 @@ Thank you for waiting. The 〜 dish does not contain nuts, so please rest assure
 ## Presenting the Bill
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Bill Presentation Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>お会計をお願いします。</code></span><br>
 Could I have the bill, please?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。少々お待ちくださいませ。</code></span><br>
@@ -97,7 +91,6 @@ Thank you very much for dining with us. We look forward to serving you again.
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Restaurant Service Key Phrases</span>
 <span class="keigo-jp"><code>何名様でしょうか</code></span>: How many guests?<br><br>
 <span class="keigo-jp"><code>こちらへどうぞ</code></span>: Please follow me this way.<br><br>
 <span class="keigo-jp"><code>ご注文はお決まりでしょうか</code></span>: Have you decided on your order?<br><br>

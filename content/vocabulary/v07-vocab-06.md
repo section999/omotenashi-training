@@ -7,20 +7,36 @@ title: 近く (chikaku)
 
 In daily hotel operations, 近く appears in responses to questions about the surrounding neighborhood, in printed materials like room folders and welcome guides, and in recommendations from concierge and front desk staff. When combined with phrases such as 「徒歩約〇分」 (approximately a [number]-minute walk) or 「〇〇を目印に」 (using [landmark] as a reference point), the description becomes precise enough to be useful. If a destination is only borderline convenient for walking, calling it 近く is not recommended. Guests who find the journey longer than implied tend to feel misled
 
-| Japanese | Meaning |
-|---|---|
-| 駅はホテルの近くにございます。徒歩で約5分でございます。<br><small>*Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.*</small> | The station is near the hotel: approximately a five-minute walk. |
-| ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。<br><small>*Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.*</small> | For dinner, there are several well-regarded Japanese restaurants near the hotel. |
-| コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。<br><small>*Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.*</small> | There is a convenience store just nearby, so I trust one will find everything you need. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>駅はホテルの近くにございます。徒歩で約5分でございます。</code></span><br>
+<em>Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.</em><br>
+The station is near the hotel: approximately a five-minute walk.
+<br><br>
+<span class="keigo-jp"><code>ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。</code></span><br>
+<em>Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.</em><br>
+For dinner, there are several well-regarded Japanese restaurants near the hotel.
+<br><br>
+<span class="keigo-jp"><code>コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。</code></span><br>
+<em>Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.</em><br>
+There is a convenience store just nearby, so I trust one will find everything you need.
+</div>
 
 ## Related Expressions
 
-- **遠い (tooi)**: far; the natural antonym of 近く; should be handled delicately in guest communication, always paired with an alternative solution such as a taxi or bus recommendation rather than left as a simple negative.
-- **徒歩〇分 (toho ~-fun)**: a [number]-minute walk; used to give 近く concrete meaning; far more useful than 近く alone because it sets a precise expectation for the guest.
+<div class="keigo-card blue">
+<span class="keigo-badge info">遠い (tooi)</span> far; the natural antonym of 近く; should be handled delicately in guest communication, always paired with an alternative solution such as a taxi or bus recommendation rather than left as a simple negative.
+<br><br>
+<span class="keigo-badge info">徒歩〇分 (toho ~-fun)</span> a [number]-minute walk; used to give 近く concrete meaning; far more useful than 近く alone because it sets a precise expectation for the guest.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using 近く without any supporting detail leaves the guest uncertain about whether they can walk or need transport. Following up with a time estimate or landmark is recommended. There is also a tendency to overuse 近く to avoid delivering disappointing news about distance. If a destination takes 15 to 20 minutes on foot, calling it 近く is misleading and damages trust. Finally, 「近いです」 is acceptable but 「近くにございます」 or 「近くでございます」 is the more polished register for hotel staff.
+</div>
 
 ---
 

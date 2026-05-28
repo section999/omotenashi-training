@@ -11,7 +11,6 @@ Unlike check-in, which is about welcome and reassurance, check-out is about **gr
 ## Check-Out Flow
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Check-Out Flow</span>
 Guest arrives at front desk → Greeting → Room number confirmation → Bill presentation → Payment → Final verification → Luggage offer → Farewell
 </div>
 
@@ -83,7 +82,6 @@ Staff:   またのお越しをお待ちしております。お気をつけて�
 ### Asking About Payment
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Payment Inquiry</span>
 <span class="keigo-jp"><code>お支払いはいかがなさいますか</code></span><br>
 <em>o-shiharai wa ikaga nasaimasu ka</em><br>
 How would you like to pay?<br><br>
@@ -93,7 +91,6 @@ How would you like to pay?<br><br>
 ### The Thank-You for Staying
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Expressing Gratitude for the Stay</span>
 <span class="keigo-jp"><code>この度は○泊ご利用いただきまして、誠にありがとうございました。</code></span><br>
 <em>kono tabi wa ○-haku go-riyou itadakimashite, makoto ni arigatou gozaimashita.</em><br>
 Thank you very much for choosing to stay with us for ○ nights.<br><br>
@@ -103,7 +100,6 @@ Thank you very much for choosing to stay with us for ○ nights.<br><br>
 ### The Farewell
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Two-Part Farewell</span>
 <span class="keigo-jp"><code>またのお越しをお待ちしております</code></span><br>
 We look forward to welcoming you again.<br><br>
 <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
@@ -116,7 +112,6 @@ The first phrase keeps the relationship open, this is not goodbye, but "until we
 Always offer to help with luggage, even if the guest appears to be managing. The offer itself communicates attentiveness:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Luggage Offer</span>
 <span class="keigo-jp"><code>お荷物はお持ちいたしましょうか。</code></span><br>
 <em>o-nimotsu wa o-mochi itashimashoo ka</em><br>
 May I carry your luggage for you?<br><br>
@@ -126,7 +121,6 @@ If the guest declines: 承知いたしました。, Understood. (accept graceful
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Check-Out Key Phrases</span>
 <span class="keigo-jp"><code>こちらがご請求書でございます</code></span><br>
 Here is your bill.<br><br>
 <span class="keigo-jp"><code>お支払いはいかがなさいますか</code></span><br>

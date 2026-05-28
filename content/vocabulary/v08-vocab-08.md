@@ -7,20 +7,36 @@ title: 一階 (ikkai)
 
 The pronunciation is ikkai, not ichi-kai, and this is one of those irregular counters that must be memorised outright. When guests arrive confused about which floor they are standing on, confirming こちらが一階でございます gives them a clear orientation anchor for the rest of the property. Pairing 一階 with the access method (エレベーターのB/1Fボタン or 正面玄関をご利用ください) makes the guidance complete
 
-| Japanese | Meaning |
-|---|---|
-| ロビーは一階にございます。<br><small>*Robii wa ikkai ni gozaimasu.*</small> | The lobby is on the first floor. |
-| フロントデスクは一階、入ってすぐ正面にございます。<br><small>*Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.*</small> | The front desk is on the first floor, directly ahead as one enter. |
-| お土産店は一階のロビー横にございます。<br><small>*O-miyage-ten wa ikkai no robii yoko ni gozaimasu.*</small> | The souvenir shop is on the first floor, next to the lobby. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ロビーは一階にございます。</code></span><br>
+<em>Robii wa ikkai ni gozaimasu.</em><br>
+The lobby is on the first floor.
+<br><br>
+<span class="keigo-jp"><code>フロントデスクは一階、入ってすぐ正面にございます。</code></span><br>
+<em>Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.</em><br>
+The front desk is on the first floor, directly ahead as one enter.
+<br><br>
+<span class="keigo-jp"><code>お土産店は一階のロビー横にございます。</code></span><br>
+<em>O-miyage-ten wa ikkai no robii yoko ni gozaimasu.</em><br>
+The souvenir shop is on the first floor, next to the lobby.
+</div>
 
 ## Related Expressions
 
-- **グラウンドフロア (guraundo furoa)**: "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps prevent confusion with guests from countries where "first floor" means one level above ground
-- **正面玄関 (shoumen genkan)**: "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests who are approaching from outside the building
+<div class="keigo-card blue">
+<span class="keigo-badge info">グラウンドフロア (guraundo furoa)</span> "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps prevent confusion with guests from countries where "first floor" means one level above ground
+<br><br>
+<span class="keigo-badge info">正面玄関 (shoumen genkan)</span> "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests who are approaching from outside the building
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A persistent error is pronouncing 一階 as ichi-kai rather than ikkai. This stands out to Japanese guests and undermines confidence in fluency, so practicing it until it sounds natural is recommended. A common error is focusing on getting the concept right while pronunciation is neglected. In a professional setting, pronunciation matters. International guests sometimes misunderstand 一階 as the floor above ground, since "first floor" in many European countries means exactly that. Being ready to clarify with こちらが地上階でございます if a guest looks confused is recommended. Using 一階です rather than 一階にございます is a register shortfall in formal hospitality contexts.
+</div>
 
 ---
 ## Quiz

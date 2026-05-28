@@ -103,7 +103,6 @@ The phrase leaves the check-in feeling complete and warm, rather than efficient 
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Check-In Key Phrases</span>
 <span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome<br><br>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
 May I ask for the name on your reservation?<br><br>

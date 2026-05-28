@@ -11,7 +11,6 @@ Wake-up calls, taxi arrangements, and late arrival notices share a common charac
 A wake-up call that is logged incorrectly, or not logged at all, can cause a guest to miss a flight, meeting, or departure. This is one of the highest-consequence errors in hotel operations.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Wake-up Call Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールをお願いします。</code></span><br>
 I'd like a wake-up call, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間をお伺いしてもよろしいでしょうか。</code></span><br>
@@ -29,7 +28,6 @@ Room 702, we will call you tomorrow morning at 6:00. Thank you.
 ## Taxi Arrangements
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Taxi Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
 Can you arrange a taxi for me?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか。</code></span><br>
@@ -49,7 +47,6 @@ Certainly. I will arrange a taxi to Tokyo Station for 3:00 PM. We will notify yo
 Without accurate late arrival records, rooms may be released during night audit, creating a situation where a paying guest arrives to find no room available. This is an irreversible operational failure.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Late Arrival Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります。</code></span><br>
 My check-in will be late.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着の予定時刻をお伺いしてもよろしいでしょうか。</code></span><br>
@@ -63,7 +60,6 @@ Around 11:00 PM. Understood. We will expect you at the front desk. May I also co
 ## Why Time Repetition Cannot Be Skipped
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Consequence Table</span>
 | Request Type | If Time Is Wrong | Consequence |
 |---|---|---|
 | Wake-up call | 6am logged as 7am | Guest misses flight or meeting |
@@ -76,7 +72,6 @@ Unlike other service errors that can be corrected, time-based failures often can
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Schedule-Based Request Phrases</span>
 <span class="keigo-jp"><code>ご希望のお時間をお伺いしてもよろしいでしょうか</code></span><br>
 May I ask for your preferred time?<br><br>
 <span class="keigo-jp"><code>○時のモーニングコールで承りました</code></span><br>

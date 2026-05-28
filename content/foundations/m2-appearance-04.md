@@ -16,18 +16,17 @@ title: Bowing, Ojigi, the Language of Respect
 
 ## Correct Bowing Technique
 
-- Begin from a straight standing posture.
-- Bend from the **waist**, not the neck, the back remains straight, and the head follows the body.
-- Eyes lower naturally as the bow deepens; do not maintain eye contact with the guest while bowing.
-- Hands: women place both hands in front (right over left); men keep hands at the sides or loosely in front.
-- Hold the bow at the deepest point for one to two seconds before rising.
-- Rise smoothly and without hurrying.
+<div class="keigo-card blue">
+• Begin from a straight standing posture.<br>• Bend from the **waist**, not the neck, the back remains straight, and the head follows the body.<br>• Eyes lower naturally as the bow deepens; do not maintain eye contact with the guest while bowing.<br>• Hands: women place both hands in front (right over left); men keep hands at the sides or loosely in front.<br>• Hold the bow at the deepest point for one to two seconds before rising.<br>• Rise smoothly and without hurrying.
+</div>
+
 
 ## Common Errors to Avoid
 
-- **Nodding instead of bowing**: a head nod is not a bow and reads as casual or dismissive.
-- **Bowing while speaking**: the bow and the words should be separate, bow, then speak, or speak, then bow.
-- **Mechanical repetition**: bowing without intention is less effective than a simple, genuine acknowledgement. A bow that is clearly automatic, performed without awareness, can land worse than no bow at all.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Nodding instead of bowing</span> a head nod is not a bow and reads as casual or dismissive.<br><br><span class="keigo-badge info">Bowing while speaking</span> the bow and the words should be separate, bow, then speak, or speak, then bow.<br><br><span class="keigo-badge info">Mechanical repetition</span> bowing without intention is less effective than a simple, genuine acknowledgement. A bow that is clearly automatic, performed without awareness, can land worse than no bow at all.
+</div>
+
 
 ## Receiving a Bow
 

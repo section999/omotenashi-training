@@ -9,7 +9,6 @@ After check-in, a significant portion of guest-staff interaction happens through
 ## Housekeeping Requests
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Towel Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>タオルを追加でお願いしたいのですが。</code></span><br>
 I'd like some extra towels, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ただいまお持ちいたします。少々お待ちくださいませ。</code></span><br>
@@ -26,7 +25,6 @@ Is there anything else you need?
 ## Room Service Requests
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Room Service Order Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>ルームサービスをお願いしたいのですが。</code></span><br>
 I'd like to order room service.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご注文をお伺いいたします。</code></span><br>
@@ -44,7 +42,6 @@ Is there anything else you would like?
 ## Concierge, Directions and Information
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Direction Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>上野公園への行き方を教えてもらえますか。</code></span><br>
 Could you tell me how to get to Ueno Park?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルから上野公園ですと、電車でお越しの場合は最寄りの〜駅から山手線にお乗りいただき、上野駅でお降りいただくのが便利でございます。徒歩で約5分でございます。</code></span><br>
@@ -58,7 +55,6 @@ I can also prepare a map for you, would that be helpful?
 Not every concierge question can be answered instantly. The professional response is to acknowledge, take time to find the answer, and follow up, never to guess or provide uncertain information:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">When You Don't Know the Answer</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>近くにおすすめの和食レストランはありますか。</code></span><br>
 Are there any good Japanese restaurants nearby?<br><br>
 <strong>Staff (uncertain):</strong> <span class="keigo-jp"><code>かしこまりました。少々お待ちいただけますでしょうか。確認してまいります。</code></span><br>
@@ -75,7 +71,6 @@ Thank you for waiting. There is a Japanese restaurant called 〜 about 5 minutes
 Excellent concierge service does not just answer questions, it anticipates the next need:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Proactive Offers</span>
 After providing directions:<br>
 <span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span>: Shall I prepare a map for you?<br><br>
 After suggesting a restaurant:<br>
@@ -88,7 +83,6 @@ These proactive offers embody the omotenashi principle: anticipating needs befor
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">In-Room and Concierge Phrases</span>
 <span class="keigo-jp"><code>ただいまお持ちいたします</code></span><br>
 I will bring it to you right away.<br><br>
 <span class="keigo-jp"><code>ほかにご要望はございますでしょうか</code></span><br>

@@ -8,17 +8,17 @@ A uniform is not simply workwear. It is a symbol of the property and the profess
 
 ## Uniform Care
 
-- **Cleanliness**: The uniform must be clean at the start of every shift. A stained or visibly worn uniform suggests inattention to detail, and guests connect this directly to other areas of service.
-- **Pressing**: Creases should be sharp where intended and absent elsewhere. A crumpled uniform signals that preparation was rushed.
-- **Fit**: Ill-fitting uniforms, whether too loose, too tight, or incorrectly adjusted, draw attention away from the interaction itself.
-- **Name badge**: Worn at the correct position (usually the left chest), straight, and readable. A missing or reversed name badge removes an opportunity for genuine personal connection.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Cleanliness</span> The uniform must be clean at the start of every shift. A stained or visibly worn uniform suggests inattention to detail, and guests connect this directly to other areas of service.<br><br><span class="keigo-badge info">Pressing</span> Creases should be sharp where intended and absent elsewhere. A crumpled uniform signals that preparation was rushed.<br><br><span class="keigo-badge info">Fit</span> Ill-fitting uniforms, whether too loose, too tight, or incorrectly adjusted, draw attention away from the interaction itself.<br><br><span class="keigo-badge info">Name badge</span> Worn at the correct position (usually the left chest), straight, and readable. A missing or reversed name badge removes an opportunity for genuine personal connection.
+</div>
+
 
 ## Grooming Standards
 
-- **Hair**: Clean, neat, and styled away from the face. Long hair should be tied back in public-facing roles. In food service, hair must be fully secured to comply with hygiene requirements.
-- **Fragrance**: Minimal or none. Strong perfume or cologne in a dining environment can interfere with the guest's experience of food and drink, and may cause real discomfort for guests with sensitivities.
-- **Hands and nails**: Clean, trimmed, and unpainted, or with neutral polish only, in food service contexts. Hands are frequently visible and reflect hygiene standards directly.
-- **Makeup**: Neat and understated. The goal is a well-presented appearance, not a dramatic one.
+<div class="keigo-card blue">
+<span class="keigo-badge info">Hair</span> Clean, neat, and styled away from the face. Long hair should be tied back in public-facing roles. In food service, hair must be fully secured to comply with hygiene requirements.<br><br><span class="keigo-badge info">Fragrance</span> Minimal or none. Strong perfume or cologne in a dining environment can interfere with the guest's experience of food and drink, and may cause real discomfort for guests with sensitivities.<br><br><span class="keigo-badge info">Hands and nails</span> Clean, trimmed, and unpainted, or with neutral polish only, in food service contexts. Hands are frequently visible and reflect hygiene standards directly.<br><br><span class="keigo-badge info">Makeup</span> Neat and understated. The goal is a well-presented appearance, not a dramatic one.
+</div>
+
 
 ## The Mirror Check
 

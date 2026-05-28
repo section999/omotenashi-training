@@ -7,20 +7,36 @@ title: 最上階 (saijoukai)
 
 When directing guests to 最上階, staff should mention the elevator and confirm the specific button or floor number to press, because "top floor" is a concept while the elevator requires a concrete number. A phrase like 最上階の〇〇階でございます naturally bridges the evocative word with the practical information. Mentioning the view (眺望がすばらしいです) or describing the amenities waiting for the guest turns a simple directional exchange into a moment of anticipation. That kind of small detail reflects omotenashi and is important when sending a guest upward.
 
-| Japanese | Meaning |
-|---|---|
-| スカイラウンジは最上階にございます。<br><small>*Surai raunji wa saijoukai ni gozaimasu.*</small> | The sky lounge is on the top floor. |
-| 最上階の展望台からは富士山がご覧いただけます。<br><small>*Saijoukai no tenboudai kara wa Fujisan ga go-ran itadakemasu.*</small> | You can see Mount Fuji from the observation deck on the top floor. |
-| エグゼクティブスイートは最上階、エレベーターで15階のボタンをお押しください。<br><small>*Eguzekütibu suiito wa saijoukai, erebeetaa de juugo-kai no botan wo o-oshi kudasai.*</small> | The executive suite is on the top floor: please press the 15th-floor button in the elevator. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>スカイラウンジは最上階にございます。</code></span><br>
+<em>Surai raunji wa saijoukai ni gozaimasu.</em><br>
+The sky lounge is on the top floor.
+<br><br>
+<span class="keigo-jp"><code>最上階の展望台からは富士山がご覧いただけます。</code></span><br>
+<em>Saijoukai no tenboudai kara wa Fujisan ga go-ran itadakemasu.</em><br>
+You can see Mount Fuji from the observation deck on the top floor.
+<br><br>
+<span class="keigo-jp"><code>エグゼクティブスイートは最上階、エレベーターで15階のボタンをお押しください。</code></span><br>
+<em>Eguzekütibu suiito wa saijoukai, erebeetaa de juugo-kai no botan wo o-oshi kudasai.</em><br>
+The executive suite is on the top floor: please press the 15th-floor button in the elevator.
+</div>
 
 ## Related Expressions
 
-- **ペントハウス (pentohousu)**: "penthouse," a loanword used specifically for luxury top-floor suites in upscale urban hotels; more specific than 最上階, which refers to the entire floor rather than a single suite
-- **屋上 (okujou)**: "rooftop," referring to the open area on top of the building's roof, accessible from or above 最上階; used for rooftop gardens, outdoor terraces, or rooftop bars that are literally above the top interior floor
+<div class="keigo-card blue">
+<span class="keigo-badge info">ペントハウス (pentohousu)</span> "penthouse," a loanword used specifically for luxury top-floor suites in upscale urban hotels; more specific than 最上階, which refers to the entire floor rather than a single suite
+<br><br>
+<span class="keigo-badge info">屋上 (okujou)</span> "rooftop," referring to the open area on top of the building's roof, accessible from or above 最上階; used for rooftop gardens, outdoor terraces, or rooftop bars that are literally above the top interior floor
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common error is treating 最上階 as a complete answer without naming the actual floor number, which leaves guests unable to use the elevator correctly. Providing both (最上階の〇階) makes the information actionable. A common error is to confuse 最上階 with 屋上: 最上階 is an enclosed interior floor, while 屋上 is the open outdoor roof level. These are different spaces, and mixing them up will send guests to the wrong place. Using 最上階です as a complete answer without mentioning elevator access or the floor number is insufficient for guest guidance. Effective responses pair the word with the view, the amenity, and the elevator number.
+</div>
 
 ---
 ## Quiz

@@ -10,30 +10,24 @@ The best complaint is the one that never happens. By detecting the early signs o
 
 Guest dissatisfaction rarely appears suddenly. It builds in stages.
 
-### Stage 1: Minor Irritation
 
-Something is slightly off. The guest notices but says nothing.
-
-- Brief frown or reduced eye contact with staff
-- Slower pace or checking their watch
-- Subtle signs of disengagement
-
-### Stage 2: Growing Discomfort
-
+<div class="keigo-card blue">
+<span class="keigo-badge info">Stage 1: Minor Irritation</span><br>
+Something is slightly off. The guest notices but says nothing.<br>• Brief frown or reduced eye contact with staff<br>• Slower pace or checking their watch<br>• Subtle signs of disengagement
+<br><br>
+<span class="keigo-badge info">Stage 2: Growing Discomfort</span><br>
 The issue persists or compounds. The guest becomes quieter and more closed in body language. They may begin looking around as if seeking someone to speak to, but hesitate to do so.
-
-### Stage 3: Active Dissatisfaction
-
-The guest decides to voice a complaint, or, worse, decides not to and simply leaves with a negative impression, never to return.
-
-The goal is to intervene at Stage 1 or early Stage 2, before the guest has made any decision. That window is often wider than it appears.
+<br><br>
+<span class="keigo-badge info">Stage 3: Active Dissatisfaction</span><br>
+The guest decides to voice a complaint, or, worse, decides not to and simply leaves with a negative impression, never to return.<br>The goal is to intervene at Stage 1 or early Stage 2, before the guest has made any decision. That window is often wider than it appears.
+</div>
 
 ## Environmental Triggers to Watch
 
-- **Wait times**: Guests checking the time repeatedly, standing stiffly, sighing
-- **Temperature**: Guests pulling at their clothing, fanning themselves, sitting with arms pulled in
-- **Noise**: Guests leaning in closer to hear, wincing at sudden sounds, covering ears
-- **Service gaps**: Guests looking around with an empty glass, an untouched menu, or a searching expression
+<div class="keigo-card blue">
+<span class="keigo-badge info">Wait times</span> Guests checking the time repeatedly, standing stiffly, sighing<br><br><span class="keigo-badge info">Temperature</span> Guests pulling at their clothing, fanning themselves, sitting with arms pulled in<br><br><span class="keigo-badge info">Noise</span> Guests leaning in closer to hear, wincing at sudden sounds, covering ears<br><br><span class="keigo-badge info">Service gaps</span> Guests looking around with an empty glass, an untouched menu, or a searching expression
+</div>
+
 
 ## The Proactive Check-In
 

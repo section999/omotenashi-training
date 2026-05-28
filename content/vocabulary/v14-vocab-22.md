@@ -7,20 +7,36 @@ title: 時刻表 (jikokuhyou)
 
 Concierge staff who can read a 時刻表 quickly, or who know how to pull one up on Navitime or the JR East website, are valuable assets. Guests planning day trips around temple opening hours, seasonal illuminations, or restaurant reservations often need accurate departure times to work backward from. A common error is to underestimate how often this skill comes up: in a single afternoon at a busy hotel, staff might check the 時刻表 five or six times. A good response phrase is 「時刻表を調べてみますので、少々お待ちくださいませ」, which shows initiative and keeps the guest calm while staff look it up.
 
-| Japanese | Meaning |
-|---|---|
-| 電車の時刻表を確認しました。<br><small>*Densha no jikokuhyou wo kakunin shimashita.*</small> | I checked the train timetable. |
-| 最終バスの時刻表をご確認のうえ、お時間に余裕をもってお出かけください。<br><small>*Saishuu basu no jikokuhyou wo gokakunin no ue, ojikan ni yoyuu wo motte odekake kudasai.*</small> | Please check the last bus timetable and allow yourself plenty of time. |
-| 新幹線の時刻表はこちらのタブレットからご覧いただけます。<br><small>*Shinkansen no jikokuhyou wa kochira no taburetto kara goran itadakemasu.*</small> | You can view the shinkansen timetable on this tablet. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>電車の時刻表を確認しました。</code></span><br>
+<em>Densha no jikokuhyou wo kakunin shimashita.</em><br>
+I checked the train timetable.
+<br><br>
+<span class="keigo-jp"><code>最終バスの時刻表をご確認のうえ、お時間に余裕をもってお出かけください。</code></span><br>
+<em>Saishuu basu no jikokuhyou wo gokakunin no ue, ojikan ni yoyuu wo motte odekake kudasai.</em><br>
+Please check the last bus timetable and allow yourself plenty of time.
+<br><br>
+<span class="keigo-jp"><code>新幹線の時刻表はこちらのタブレットからご覧いただけます。</code></span><br>
+<em>Shinkansen no jikokuhyou wa kochira no taburetto kara goran itadakemasu.</em><br>
+You can view the shinkansen timetable on this tablet.
+</div>
 
 ## Related Expressions
 
-- **ダイヤ (daiya)**: short for ダイヤグラム (diagram); refers to a train's operational schedule and used when discussing whether services are running on time (ダイヤ通り) or delayed
-- **発車時刻 (hassha jikoku)**: departure time; a key element within any 時刻表, specifically the moment a service leaves a stop or station
+<div class="keigo-card blue">
+<span class="keigo-badge info">ダイヤ (daiya)</span> short for ダイヤグラム (diagram); refers to a train's operational schedule and used when discussing whether services are running on time (ダイヤ通り) or delayed
+<br><br>
+<span class="keigo-badge info">発車時刻 (hassha jikoku)</span> departure time; a key element within any 時刻表, specifically the moment a service leaves a stop or station
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 スケジュール (schedule) and 時刻表 are not the same thing. スケジュール is a personal agenda or event schedule, while 時刻表 refers specifically to a transport timetable. In hospitality, using 時刻表 when discussing trains and buses sounds precise and professional. However, the confusion that causes real problems is between 到着時刻 (arrival time) and 発車時刻 (departure time). When a guest asks what time the train is, staff should confirm which one they need: the answer is different by several minutes, and getting it wrong can mean a missed connection.
+</div>
 
 ---
 

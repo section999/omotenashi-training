@@ -10,21 +10,38 @@ In Japanese service culture, *iie* requires particular care. Directly refusing a
 
 *Hai* also functions as a listening signal during conversation. Said briefly and attentively while the other person speaks, it signals that the staff member is following along. This is called *aizuchi* (相槌). In a hospitality context, staying completely silent while a guest explains something can read as inattention, so a gentle *hai, hai* as they talk shows them they are being heard and understood
 
-| Japanese | Meaning |
-|---|---|
-| はい、かしこまりました。すぐにご用意いたします。<br><small>*Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.*</small> | Yes, certainly. I will prepare it right away. |
-| はい、ご予約を確認いたしました。<br><small>*Hai, go-yoyaku wo kakunin itashimashita.*</small> | Yes, I have confirmed your reservation. |
-| 申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。<br><small>*Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.*</small> | I am very sorry, but that room is currently not available. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>はい、かしこまりました。すぐにご用意いたします。</code></span><br>
+<em>Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.</em><br>
+Yes, certainly. I will prepare it right away.
+<br><br>
+<span class="keigo-jp"><code>はい、ご予約を確認いたしました。</code></span><br>
+<em>Hai, go-yoyaku wo kakunin itashimashita.</em><br>
+Yes, I have confirmed your reservation.
+<br><br>
+<span class="keigo-jp"><code>申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。</code></span><br>
+<em>Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.</em><br>
+I am very sorry, but that room is currently not available.
+</div>
 
 ## Related Expressions
 
-- **かしこまりました (kashikomarimashita)**: "Certainly." A more complete and formal affirmative response than *hai* alone. Reach for this when a guest makes a request.
-- **左様でございます (sayō de gozaimasu)**: "That is correct." A formal confirmation used when agreeing with or affirming something a guest has stated.
-- **あいにく〜でございます (ainiku ~ de gozaimasu)**: "Unfortunately, ~." A polite way to introduce a refusal or unavailability without reaching for a blunt negative.
+<div class="keigo-card blue">
+<span class="keigo-badge info">かしこまりました (kashikomarimashita)</span> "Certainly." A more complete and formal affirmative response than *hai* alone. Reach for this when a guest makes a request.
+<br><br>
+<span class="keigo-badge info">左様でございます (sayō de gozaimasu)</span> "That is correct." A formal confirmation used when agreeing with or affirming something a guest has stated.
+<br><br>
+<span class="keigo-badge info">あいにく〜でございます (ainiku ~ de gozaimasu)</span> "Unfortunately, ~." A polite way to introduce a refusal or unavailability without reaching for a blunt negative.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using a bare *iie* to refuse a guest request is the most common mistake. In Japanese hospitality, the negative is always softened, redirected, or paired with an alternative. A second mistake is delivering *hai* without conviction. A half-hearted response can suggest that staff has not fully heard or understood the request, which is the opposite of the attentive impression one wants to give. It should be said clearly, with eye contact and a slight nod, and followed immediately with whatever action or confirmation is needed.
+</div>
 
 ---
 

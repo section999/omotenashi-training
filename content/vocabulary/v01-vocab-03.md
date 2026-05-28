@@ -10,21 +10,38 @@ title: こんにちは (konnichiwa)
 
 The time window for *konnichiwa* matters. Using the phrase in the early morning or after dark shows a lack of attentiveness that experienced guests notice. It is a small slip, but in a service environment, small slips accumulate
 
-| Japanese | Meaning |
-|---|---|
-| こんにちは。本日はいかがお過ごしでしょうか。<br><small>*Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.*</small> | Good afternoon. How has your day been? |
-| こんにちは。何かお手伝いできることはございますか。<br><small>*Konnichiwa. Nanika otetsudai dekiru koto wa gozaimasu ka.*</small> | Good afternoon. Is there anything I can help you with? |
-| こんにちは。只今お戻りですか。お荷物をお持ちいたします。<br><small>*Konnichiwa. Tadaima o-modori desu ka. O-nimotsu wo o-mochi itashimasu.*</small> | Good afternoon. Are you just returning? Allow me to carry your bags. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こんにちは。本日はいかがお過ごしでしょうか。</code></span><br>
+<em>Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.</em><br>
+Good afternoon. How has your day been?
+<br><br>
+<span class="keigo-jp"><code>こんにちは。何かお手伝いできることはございますか。</code></span><br>
+<em>Konnichiwa. Nanika otetsudai dekiru koto wa gozaimasu ka.</em><br>
+Good afternoon. Is there anything I can help you with?
+<br><br>
+<span class="keigo-jp"><code>こんにちは。只今お戻りですか。お荷物をお持ちいたします。</code></span><br>
+<em>Konnichiwa. Tadaima o-modori desu ka. O-nimotsu wo o-mochi itashimasu.</em><br>
+Good afternoon. Are you just returning? Allow me to carry your bags.
+</div>
 
 ## Related Expressions
 
-- **おはようございます (ohayō gozaimasu)**: Morning greeting (until approximately 11 AM). Use this before *konnichiwa* becomes appropriate for the time of day.
-- **こんばんは (konbanwa)**: Evening greeting (from approximately 6 PM onward). The natural handoff from *konnichiwa* as the day ends.
-- **いらっしゃいませ (irasshaimase)**: Formal arrival welcome. Can precede *konnichiwa* or stand alone on first contact with a guest.
+<div class="keigo-card blue">
+<span class="keigo-badge info">おはようございます (ohayō gozaimasu)</span> Morning greeting (until approximately 11 AM). Use this before *konnichiwa* becomes appropriate for the time of day.
+<br><br>
+<span class="keigo-badge info">こんばんは (konbanwa)</span> Evening greeting (from approximately 6 PM onward). The natural handoff from *konnichiwa* as the day ends.
+<br><br>
+<span class="keigo-badge info">いらっしゃいませ (irasshaimase)</span> Formal arrival welcome. Can precede *konnichiwa* or stand alone on first contact with a guest.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The biggest mistake is getting the time window wrong: using *konnichiwa* in the morning or after dark. A second common mistake is equally avoidable: mispronouncing the particle は as *ha*. In this phrase it is always read as *wa*, and getting it wrong draws attention in a way that undermines the greeting. The casual abbreviation *konchi* (コンチ) should be avoided in any professional setting, regardless of how friendly or relaxed the guest seems. The register one maintains with guests should stay consistent.
+</div>
 
 ---
 

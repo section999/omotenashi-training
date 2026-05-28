@@ -6,20 +6,36 @@ title: うるさい (urusai)
 うるさい is an i-adjective meaning noisy, loud, or annoyingly persistent. In a hospitality context, guests will often use this word spontaneously when expressing displeasure about sound: 「外がうるさくて眠れませんでした」 (I couldn't sleep because it was so noisy outside). Staff must recognise and respond to this word fluently, even though they themselves should avoid using it in formal responses. The directness of うるさい can read as blunt or even confrontational in certain contexts, which is why professional training emphasises substituting it with the formal term 騒音 when acknowledging the complaint.
 
 Understanding うるさい also helps staff read the emotional state of the guest. When someone uses this word unprompted, they are typically past their frustration threshold, the issue has been affecting them long enough that they felt compelled to say something. That calls for a particularly empathetic and swift response, not routine acknowledgement. Hospitality training in Japan specifically addresses this vocabulary gap: recognising the casual word the guest uses while responding in formal, solution-focused language
-| Japanese | Meaning |
-|---|---|
-| 「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。<br><small>*"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.*</small> | Having received your report that the noise is troubling you, we will address the disturbance. |
-| ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。<br><small>*Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.*</small> | We are very sorry for the inconvenience. We will look into the cause of the noise right now. |
-| お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。<br><small>*O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.*</small> | If the noise from the neighbouring room has been disturbing you, we would like to suggest moving to a different room. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。</code></span><br>
+<em>"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.</em><br>
+Having received your report that the noise is troubling you, we will address the disturbance.
+<br><br>
+<span class="keigo-jp"><code>ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。</code></span><br>
+<em>Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.</em><br>
+We are very sorry for the inconvenience. We will look into the cause of the noise right now.
+<br><br>
+<span class="keigo-jp"><code>お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。</code></span><br>
+<em>O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.</em><br>
+If the noise from the neighbouring room has been disturbing you, we would like to suggest moving to a different room.
+</div>
 
 ## Related Expressions
 
-- **騒音 (souon)**: the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context.
-- **ご迷惑 (go-meiwaku)**: nuisance or bother; often used in apologies: ご迷惑をおかけして申し訳ございません (we are sorry for causing one trouble): and pairs naturally with noise-related complaints.
+<div class="keigo-card blue">
+<span class="keigo-badge info">騒音 (souon)</span> the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context.
+<br><br>
+<span class="keigo-badge info">ご迷惑 (go-meiwaku)</span> nuisance or bother; often used in apologies: ご迷惑をおかけして申し訳ございません (we are sorry for causing one trouble): and pairs naturally with noise-related complaints.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most critical mistake is mirroring the guest's language and saying うるさいですね: it validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume, the word can also mean annoying or bothersome in other senses, so context matters. Staff listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before offering a solution. The correct substitution is not just swapping うるさい for 騒音; the response must also include a concrete next step.
+</div>
 
 ---
 

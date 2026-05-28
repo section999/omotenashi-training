@@ -16,19 +16,17 @@ Mentoring is also not correction. Constantly pointing out every mistake in the m
 
 Effective mentoring in a hospitality context involves three recurring practices.
 
-### Debriefing After Significant Interactions
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Debriefing After Significant Interactions</span><br>
 After a challenging guest interaction, a complaint, a VIP arrival, a special request, a brief, unhurried conversation with a junior colleague about what happened, what worked, and what could be improved is among the most valuable development tools available. The debrief is not a review; it is a thinking-together exercise that develops judgment.
-
-### Narrating Your Own Practice
-
+<br><br>
+<span class="keigo-badge info">Narrating Your Own Practice</span><br>
 When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed, did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
-
-### Creating Space for Questions
-
-In Japanese workplace culture, junior colleagues are often reluctant to admit uncertainty or ask questions. A good mentor creates a relationship safe enough for questions to be asked freely, and models, through their own curiosity and humility, that not knowing is the beginning of learning, not a mark against professionalism.
-
----
+<br><br>
+<span class="keigo-badge info">Creating Space for Questions</span><br>
+In Japanese workplace culture, junior colleagues are often reluctant to admit uncertainty or ask questions. A good mentor creates a relationship safe enough for questions to be asked freely, and models, through their own curiosity and humility, that not knowing is the beginning of learning, not a mark against professionalism.<br>---
+</div>
 
 ## Quiz
 

@@ -7,20 +7,36 @@ title: 習慣 (shuukan)
 
 One phrase that works well in these situations is 「日本では～という習慣があります」, which translates naturally as "In Japan, there is a custom of..." It is informative without being preachy, and it signals to the guest that staff are inviting them into local culture, not scolding them. Understanding where a 習慣 comes from helps both staff and guests appreciate it more deeply.
 
-| Japanese | Meaning |
-|---|---|
-| 日本では、靴を脱いでから施設に入る習慣がございます。<br><small>*Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.*</small> | In Japan, there is a custom of removing your shoes before entering the facility. |
-| お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。<br><small>*O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.*</small> | The custom of washing your body before bathing is extremely important in Japan's hot spring culture. |
-| チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。<br><small>*Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.*</small> | There is no custom of tipping in Japan, as the service charge is included in the price. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>日本では、靴を脱いでから施設に入る習慣がございます。</code></span><br>
+<em>Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.</em><br>
+In Japan, there is a custom of removing your shoes before entering the facility.
+<br><br>
+<span class="keigo-jp"><code>お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。</code></span><br>
+<em>O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.</em><br>
+The custom of washing your body before bathing is extremely important in Japan's hot spring culture.
+<br><br>
+<span class="keigo-jp"><code>チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。</code></span><br>
+<em>Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.</em><br>
+There is no custom of tipping in Japan, as the service charge is included in the price.
+</div>
 
 ## Related Expressions
 
-- **慣習 (kanshuu)**: established social convention; carries a slightly more institutional weight than 習慣, often describing customs with a sense of obligation, like annual gift-giving cycles or formal greetings at the start of a business relationship.
-- **マナー (manaa)**: manners; while 習慣 describes what people habitually do as part of their culture, マナー refers to the polite behaviour expected in specific social situations. The two overlap but are not the same.
+<div class="keigo-card blue">
+<span class="keigo-badge info">慣習 (kanshuu)</span> established social convention; carries a slightly more institutional weight than 習慣, often describing customs with a sense of obligation, like annual gift-giving cycles or formal greetings at the start of a business relationship.
+<br><br>
+<span class="keigo-badge info">マナー (manaa)</span> manners; while 習慣 describes what people habitually do as part of their culture, マナー refers to the polite behaviour expected in specific social situations. The two overlap but are not the same.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 One common mistake is using 習慣 to describe a personal quirk or bad habit. For that, 癖 (kuse) is the right word. In hospitality contexts, 習慣 almost always refers to culturally shared practices, not individual behaviour. Students also sometimes confuse 習慣 with 慣例 (kanrei, precedent or established practice within an organisation): 習慣 is societal and broad, while 慣例 is typically internal and institutional. When staff explain a 習慣 to a guest, it should always be framed as an invitation to participate, not a correction. That shift in tone makes all the difference.
+</div>
 
 ---
 

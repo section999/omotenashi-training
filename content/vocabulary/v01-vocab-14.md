@@ -9,21 +9,38 @@ The key thing to understand is that *osore irimasu* is always about humbling one
 
 *Osore irimasu* takes time to feel natural. When one first starts using it, it can feel theatrical, and that awkwardness shows. It should be practiced out loud until it flows without hesitation. The phrase works best when paired with genuine body language: a small, sincere bow and steady eye contact
 
-| Japanese | Meaning |
-|---|---|
-| 恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。<br><small>*Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*</small> | I am terribly sorry to trouble you, but could I ask your name once more? |
-| 恐れ入ります。ただいまご確認いたします。<br><small>*Osore irimasu. Tadaima go-kakunin itashimasu.*</small> | Thank you: excuse me for a moment while I confirm. |
-| 恐れ入りますが、少々お待ちいただけますでしょうか。<br><small>*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*</small> | I am terribly sorry to trouble you, but could you wait just a moment? |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。</code></span><br>
+<em>Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.</em><br>
+I am terribly sorry to trouble you, but could I ask your name once more?
+<br><br>
+<span class="keigo-jp"><code>恐れ入ります。ただいまご確認いたします。</code></span><br>
+<em>Osore irimasu. Tadaima go-kakunin itashimasu.</em><br>
+Thank you: excuse me for a moment while I confirm.
+<br><br>
+<span class="keigo-jp"><code>恐れ入りますが、少々お待ちいただけますでしょうか。</code></span><br>
+<em>Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.</em><br>
+I am terribly sorry to trouble you, but could you wait just a moment?
+</div>
 
 ## Related Expressions
 
-- **失礼いたします (shitsurei itashimasu)**: "Excuse me", similar function but one step below *osore irimasu* in formality; this is the phrase staff will reach for most often in everyday professional situations, and that is completely fine
-- **すみません (sumimasen)**: the everyday excuse me or apology that works fine among colleagues, but feels too casual for the register that *osore irimasu* signals to guests
-- **とんでもございません (tondemo gozaimasen)**: "Not at all / one is too kind", the natural companion phrase when a guest praises one or their service; it deflects rather than accepts
+<div class="keigo-card blue">
+<span class="keigo-badge info">失礼いたします (shitsurei itashimasu)</span> "Excuse me", similar function but one step below *osore irimasu* in formality; this is the phrase staff will reach for most often in everyday professional situations, and that is completely fine
+<br><br>
+<span class="keigo-badge info">すみません (sumimasen)</span> the everyday excuse me or apology that works fine among colleagues, but feels too casual for the register that *osore irimasu* signals to guests
+<br><br>
+<span class="keigo-badge info">とんでもございません (tondemo gozaimasen)</span> "Not at all / one is too kind", the natural companion phrase when a guest praises one or their service; it deflects rather than accepts
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 The most common mistake is not using *osore irimasu* at all. A common error is defaulting to *sumimasen* even in elevated settings where the more refined phrase would be more fitting. The register of their language is part of the service. If the lobby is marble and the uniforms are tailored, their words should match. A second mistake is delivering *osore irimasu* in a flat or distracted tone. It should always come with genuine feeling and a small bow, not as a throwaway opener.
+</div>
 
 ---
 ## Quiz

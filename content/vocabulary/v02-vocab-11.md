@@ -6,20 +6,36 @@ title: 身分証明書 (mibun shomeisho)
 身分証明書 means identification document and is the umbrella term for any official document that establishes a person's identity. International guests typically present a パスポート, but domestic Japanese guests may provide a driver's licence (運転免許証), a My Number card (マイナンバーカード), a health insurance card (健康保険証), or another government-issued document. Understanding this distinction matters because it allows staff to request identification from any guest, regardless of nationality, using language that is both accurate and appropriately polite. Verifying identity is a legal requirement in Japan and a basic security responsibility for any property.
 
 The same humble language principles that apply to passport requests apply here too. The key phrase is 身分証明書を拝見してもよろしいでしょうか. The term is longer and less recognizable to some international guests, so staff working in multilingual settings may want to support the verbal request with a written prompt or a gesture toward the document type needed. After viewing the ID, return it immediately and thank the guest for their cooperation
-| Japanese | Meaning |
-|---|---|
-| 身分証明書を拝見してもよろしいでしょうか。<br><small>*Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*</small> | May I see your identification? |
-| 運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。<br><small>*Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*</small> | If you have an identification document such as a driver's licence or health insurance card, please present it. |
-| 身分証明書はご確認後すぐにお返しいたします。<br><small>*Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*</small> | We will return your identification immediately after reviewing it. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>身分証明書を拝見してもよろしいでしょうか。</code></span><br>
+<em>Mibun shōmeisho o haiken shite mo yoroshii deshō ka.</em><br>
+May I see your identification?
+<br><br>
+<span class="keigo-jp"><code>運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。</code></span><br>
+<em>Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.</em><br>
+If you have an identification document such as a driver's licence or health insurance card, please present it.
+<br><br>
+<span class="keigo-jp"><code>身分証明書はご確認後すぐにお返しいたします。</code></span><br>
+<em>Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.</em><br>
+We will return your identification immediately after reviewing it.
+</div>
 
 ## Related Expressions
 
-- **パスポート (pasupōto)**: passport; the most common form of 身分証明書 for foreign guests and the document required by law for non-Japanese nationals checking in.
-- **ご提示 (go-teiji)**: presentation of a document; the polite noun form used when asking a guest to show something, as in ご提示をお願いいたします.
+<div class="keigo-card blue">
+<span class="keigo-badge info">パスポート (pasupōto)</span> passport; the most common form of 身分証明書 for foreign guests and the document required by law for non-Japanese nationals checking in.
+<br><br>
+<span class="keigo-badge info">ご提示 (go-teiji)</span> presentation of a document; the polite noun form used when asking a guest to show something, as in ご提示をお願いいたします.
+</div>
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. Staff should not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
+</div>
 
 ---
 

@@ -11,7 +11,6 @@ The key principle: **a professional never says "impossible" directly**. Instead,
 ## Situation 1: Reservation Not Found
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">No Reservation Found Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>田中で予約しているはずなのですが。</code></span><br>
 I should have a reservation under Tanaka.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。確認いたします。少々お待ちくださいませ。</code></span><br>
@@ -29,7 +28,6 @@ We sincerely apologize for this situation. As we do have availability tonight, m
 ## Situation 2: Walk-in Guest When Fully Booked
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Fully Booked Walk-in Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>今夜泊まれますか。予約はしていないのですが。</code></span><br>
 Can I stay tonight? I don't have a reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご来館いただきましてありがとうございます。ただいまの空き状況を確認いたします。</code></span><br>
@@ -46,7 +44,6 @@ Note: Suggesting a nearby hotel in a walk-in fully-booked situation is appropria
 ## Situation 3: Guest Insists on an Unavailable Room
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Unavailable Room Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>前回泊まった部屋と同じ部屋にしてほしいんですが、701号室です。</code></span><br>
 I'd like the same room I stayed in last time, Room 701.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。確認いたします。</code></span><br>
@@ -61,7 +58,6 @@ We do have the same type of room available on the same floor, with a similar vie
 ## The Language of Graceful Refusal
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Key Refusal Phrases</span>
 <span class="keigo-jp"><code>あいにく〜</code></span><br>
 Unfortunately... (soft, expresses genuine regret)<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが〜</code></span><br>
@@ -75,7 +71,6 @@ We are able to offer 〜 (alternative), always follow a refusal with an offer
 ## Situation 4: Request That Exceeds Hotel Capabilities
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Exceeding Capability Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>今夜、部屋にピアノを用意してもらえますか。</code></span><br>
 Could you arrange a piano in my room tonight?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>誠にありがたいご要望でございますが、ピアノのご用意につきましては当ホテルのご対応範囲外となっておりまして、誠に恐れ入ります。</code></span><br>
@@ -87,7 +82,6 @@ However, depending on the underlying need, there may be another way we could hel
 ## The Principle Behind Graceful Refusals
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Why the Language Matters</span>
 Saying 「できません」 (We cannot do that) is factually identical to 「難しい状況でございます」 (It is difficult at this time), but they communicate entirely different things.<br><br>
 できません closes the conversation and positions the hotel as inflexible.<br>
 難しい状況でございます opens a space for alternatives and positions the hotel as genuinely trying.<br><br>
@@ -97,7 +91,6 @@ The guest's emotional response depends not just on what is said, but on how much
 ## Key Phrases
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Difficult Situation Key Phrases</span>
 <span class="keigo-jp"><code>あいにく〜は満室となっております</code></span><br>
 Unfortunately, 〜 is fully booked.<br><br>
 <span class="keigo-jp"><code>現在のところご確認ができない状況でございます</code></span><br>

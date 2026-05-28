@@ -30,7 +30,6 @@ The opening, body, and closing must all operate at the same formality level. A s
 Hotel email language is not cold business Japanese and it is not casual friendly Japanese. It sits between the two.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Three-Way Balance</span>
 <span class="keigo-badge bad">Too cold</span> <span class="keigo-jp"><code>ご確認ください。</code></span><br>
 Grammatically polite but emotionally distant. Lacks warmth.<br><br>
 <span class="keigo-badge bad">Too casual</span> <span class="keigo-jp"><code>チェックしてくださいね！</code></span><br>
@@ -80,7 +79,6 @@ An email that ends with the last piece of information, without a closing phrase,
 Small word choices within the body of an email create a significant difference in perceived quality. Know the hotel-standard replacements.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Polish Substitutions</span>
 
 | Everyday Form | Hotel Email Standard |
 |---|---|
@@ -98,7 +96,6 @@ Small word choices within the body of an email create a significant difference i
 Before sending any email, read it as if you are the guest receiving it for the first time. Ask:
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Self-Review Questions</span>
 1. Does the opening match the guest's relationship type?<br>
 2. Is the register consistent from opening to closing?<br>
 3. Is there anything that sounds too casual, too stiff, or emotionally cold?<br>

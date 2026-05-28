@@ -14,23 +14,20 @@ This cultural context does not require dishonesty. It requires care in timing, s
 
 ## The Four Conditions for Feedback
 
-### Privacy
 
+<div class="keigo-card blue">
+<span class="keigo-badge info">Privacy</span><br>
 Feedback that points to a shortcoming is always given privately, never in front of colleagues, guests, or anyone whose presence might cause the recipient embarrassment. Even gentle, well-intentioned feedback can become devastating if delivered publicly.
-
-### Timing
-
+<br><br>
+<span class="keigo-badge info">Timing</span><br>
 Immediate correction during a guest interaction is almost never appropriate. Wait for a natural break, or for after the shift. The exception is a safety issue or an error severe enough that not correcting it immediately would cause greater harm.
-
-### Specificity
-
+<br><br>
+<span class="keigo-badge info">Specificity</span><br>
 Effective feedback is specific: not "you need to be more attentive" but "when the couple at table four were ready to order, there was about a five-minute wait. Next time, if you notice they have closed their menus, that's a good cue to approach." Specific feedback is actionable. Vague feedback generates anxiety without direction.
-
-### Positive Framing
-
-In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real, a hollow compliment before a criticism damages trust rather than building it.
-
----
+<br><br>
+<span class="keigo-badge info">Positive Framing</span><br>
+In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real, a hollow compliment before a criticism damages trust rather than building it.<br>---
+</div>
 
 ## Quiz
 

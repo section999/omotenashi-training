@@ -7,21 +7,37 @@ title: 入口 (iriguchi)
 
 In a hospitality context, 入口 appears most often in directional phrases such as 入口は正面にございます (the entrance is at the front) or こちらの入口からどうぞ (please come in through this entrance). At ryokan, staff often walk guests to the 玄関 (genkan, the traditional entryway) and specifically reference it as お入口 to signal the ceremonial nature of the welcome. In restaurants, hosts use it to distinguish the public entrance from the kitchen delivery door. Staff should combine 入口 with a direction word or landmark to give guests actionable guidance.
 
-| Japanese | Meaning |
-|---|---|
-| ホテルの入口は正面にございます。どうぞこちらへお進みください。<br><small>*Hoteru no iriguchi wa shoumen ni gozaimasu. Douzo kochira e osusumi kudasai.*</small> | The hotel entrance is at the front. Please proceed this way. |
-| 宴会場の入口はエレベーターを降りて左手にございます。<br><small>*Enkaijou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.*</small> | The banquet hall entrance is on the left after you exit the elevator. |
-| レストランのお客様用入口はこちらでございます。スタッフ用は裏口をご利用ください。<br><small>*Resutoran no okyakusama you iriguchi wa kochira de gozaimasu. Sutaffu you wa uraguchi o goriyou kudasai.*</small> | The guest entrance to the restaurant is here. Staff should use the back entrance. |
+
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ホテルの入口は正面にございます。どうぞこちらへお進みください。</code></span><br>
+<em>Hoteru no iriguchi wa shoumen ni gozaimasu. Douzo kochira e osusumi kudasai.</em><br>
+The hotel entrance is at the front. Please proceed this way.
+<br><br>
+<span class="keigo-jp"><code>宴会場の入口はエレベーターを降りて左手にございます。</code></span><br>
+<em>Enkaijou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.</em><br>
+The banquet hall entrance is on the left after you exit the elevator.
+<br><br>
+<span class="keigo-jp"><code>レストランのお客様用入口はこちらでございます。スタッフ用は裏口をご利用ください。</code></span><br>
+<em>Resutoran no okyakusama you iriguchi wa kochira de gozaimasu. Sutaffu you wa uraguchi o goriyou kudasai.</em><br>
+The guest entrance to the restaurant is here. Staff should use the back entrance.
+</div>
 
 ## Related Expressions
 
-- **出口 (deguchi)**: The direct counterpart meaning "exit." Where 入口 marks where guests arrive, 出口 marks where they leave; confusing the two in directions can send a guest entirely the wrong way, so staff should confirm which one the guest needs.
-- **玄関 (genkan)**: The formal entryway found in traditional Japanese homes and ryokan, carrying cultural significance as the threshold between outside and inside. It is more specific than 入口 and implies a ritual of removing shoes; staff at ryokan use 玄関 rather than 入口 to invoke the warmth of a traditional welcome.
+<div class="keigo-card blue">
+<span class="keigo-badge info">出口 (deguchi)</span> The direct counterpart meaning "exit." Where 入口 marks where guests arrive, 出口 marks where they leave; confusing the two in directions can send a guest entirely the wrong way, so staff should confirm which one the guest needs.
+<br><br>
+<span class="keigo-badge info">玄関 (genkan)</span> The formal entryway found in traditional Japanese homes and ryokan, carrying cultural significance as the threshold between outside and inside. It is more specific than 入口 and implies a ritual of removing shoes; staff at ryokan use 玄関 rather than 入口 to invoke the warmth of a traditional welcome.
+</div>
 
 
 ## Common Mistakes
 
+<div class="keigo-card blue">
 A common mistake is to use 入口 and 出口 interchangeably when giving rapid directions under pressure, which can lead guests in the opposite direction from their intended destination. Another common error is stating 入口はあちらです without a landmark or direction word, leaving guests uncertain about exactly where to go in a large lobby. Using 入り口 (the kanji split form with り written out) inconsistently on signage is also not recommended. Uniformity across written and spoken communication prevents guest confusion.
+</div>
 
 ---
 

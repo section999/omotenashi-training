@@ -12,25 +12,17 @@ Japanese culture places high value on *tatemae* (表向き), the public face one
 
 ## The Three Channels
 
-### Body Language
 
-Posture, movement, and gesture reveal a guest's comfort level.
-
-- A guest who leans slightly away may be uncomfortable, even if they say "it's fine"
-- Crossed arms often signal defensiveness or unease
-- Avoiding direct facing can indicate reluctance or discomfort
-
-### Facial Micro-Expressions
-
-Fleeting expressions lasting a fraction of a second reveal genuine emotion before a person consciously controls their face.
-
-- A brief frown or tightened jaw can signal frustration
-- A forced smile that does not reach the eyes may mask discomfort
-- These signals appear and disappear quickly, so attentiveness is essential
-
-### Vocal Tone
-
+<div class="keigo-card blue">
+<span class="keigo-badge info">Body Language</span><br>
+Posture, movement, and gesture reveal a guest's comfort level.<br>• A guest who leans slightly away may be uncomfortable, even if they say "it's fine"<br>• Crossed arms often signal defensiveness or unease<br>• Avoiding direct facing can indicate reluctance or discomfort
+<br><br>
+<span class="keigo-badge info">Facial Micro-Expressions</span><br>
+Fleeting expressions lasting a fraction of a second reveal genuine emotion before a person consciously controls their face.<br>• A brief frown or tightened jaw can signal frustration<br>• A forced smile that does not reach the eyes may mask discomfort<br>• These signals appear and disappear quickly, so attentiveness is essential
+<br><br>
+<span class="keigo-badge info">Vocal Tone</span><br>
 The same words spoken with different pitch, speed, or volume carry entirely different meanings. A clipped "thank you" and a warm "thank you" are not the same message.
+</div>
 
 ## The Japanese Context
 
