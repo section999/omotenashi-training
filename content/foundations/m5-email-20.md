@@ -1,7 +1,7 @@
 ---
 id: m5-email-20
 section: 20
-title: Facility Notice Template
+title: Template Practice: Facility Notice
 ---
 
 Staff sometimes needs to send operational notices about maintenance schedules, temporary closures, renovations, or facility restrictions. These emails should remain professional, respectful, and considerate. Even operational announcements are part of hospitality communication.

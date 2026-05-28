@@ -1,10 +1,10 @@
 ---
 id: m5-internal-02
 section: 2
-title: 報告 — Reporting to Supervisors
+title: 報告: Reporting to Supervisors
 ---
 
-報告 (houkoku) is the act of reporting outcomes, problems, or guest situations to a supervisor. In Japanese professional culture, reporting is not optional — it is a core duty. A staff member who completes a task but does not report the outcome leaves their supervisor without the information needed to manage the floor effectively.
+報告 (houkoku) is the act of reporting outcomes, problems, or guest situations to a supervisor. In Japanese professional culture, reporting is not optional; it is a core duty. A staff member who completes a task but does not report the outcome leaves their supervisor without the information needed to manage the floor effectively.
 
 Effective reporting follows a consistent structure: conclusion first, then supporting detail. This is the opposite of the storytelling instinct, which saves the outcome for last. In a hotel environment, supervisors need the key fact immediately so they can decide whether to act.
 
@@ -22,9 +22,9 @@ The correct structure is: <strong>conclusion → situation → action taken or n
 Every supervisor report should contain three elements in this order:
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">1. Conclusion / key fact</span> — What happened or what is the status?<br>
-<span class="keigo-badge info">2. Situation detail</span> — Relevant context the supervisor needs<br>
-<span class="keigo-badge info">3. Action taken / action needed</span> — What has been done, or what is being requested?
+<span class="keigo-badge info">1. Conclusion / key fact</span>: What happened or what is the status?<br>
+<span class="keigo-badge info">2. Situation detail</span>: Relevant context the supervisor needs<br>
+<span class="keigo-badge info">3. Action taken / action needed</span>: What has been done, or what is being requested?
 </div>
 
 ## Report Type 1: Task Completion
@@ -63,10 +63,10 @@ Here are the details.
 ## Timing of Reports
 
 <div class="keigo-card blue">
-<span class="keigo-badge good">Immediately</span> — Any safety issue, guest complaint, maintenance failure, or situation the supervisor would want to know about now<br><br>
-<span class="keigo-badge good">At natural break point</span> — Task completions, minor updates that do not affect current operations<br><br>
-<span class="keigo-badge good">At shift end</span> — Summary of the shift for the handover record — this is 申し送り (covered in the Handover module)<br><br>
-<span class="keigo-badge bad">Never</span> — Withholding a problem because you are still trying to solve it. Report first, update as the situation develops.
+<span class="keigo-badge good">Immediately</span>: Any safety issue, guest complaint, maintenance failure, or situation the supervisor would want to know about now<br><br>
+<span class="keigo-badge good">At natural break point</span>: Task completions, minor updates that do not affect current operations<br><br>
+<span class="keigo-badge good">At shift end</span>: Summary of the shift for the handover record. This is 申し送り (covered in the Handover module)<br><br>
+<span class="keigo-badge bad">Never</span>: Withholding a problem because you are still trying to solve it. Report first, update as the situation develops.
 </div>
 
 ## Key Phrases

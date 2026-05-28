@@ -16,7 +16,7 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 |---|---|---|
 | です | でございます | All identification and information |
 | しています | しております | Staff ongoing actions |
-| していますか | されていますか | Questions about guest's ongoing state |
+| していますか | なさっていますか | Guest's ongoing actions (尊敬語) |
 | ありますか | ございますか | Any existence question |
 | ありません | ございません | Negative existence |
 | いいですか | よろしいでしょうか | Seeking permission or confirmation |

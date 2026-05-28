@@ -4,7 +4,7 @@ section: 1
 title: Why Internal Communication Requires Its Own Language
 ---
 
-Hotel Japanese has two distinct modes: guest-facing and internal. Most training focuses on guest-facing keigo, but the language staff use with each other — with supervisors, colleagues, and other departments — follows a different set of rules that is equally important to professional service.
+Hotel Japanese has two distinct modes: guest-facing and internal. Most training focuses on guest-facing keigo, but the language staff use with each other, with supervisors, colleagues, and other departments, follows a different set of rules that is equally important to professional service.
 
 Internal communication errors do not stay internal. A vague report to a supervisor leads to a delayed response. A request that sounds casual from a junior to a senior creates friction. A cross-department message missing key information results in a guest waiting longer than necessary. The quality of internal language directly determines the quality of guest outcomes.
 
@@ -16,7 +16,7 @@ Internal communication errors do not stay internal. A vague report to a supervis
 |---|---|---|
 | Register | Highest (尊敬語 + 謙譲語) | Formal but functional |
 | Priority | Guest comfort and emotional experience | Accuracy and efficiency |
-| Length | As warm and complete as needed | Concise — key facts first |
+| Length | As warm and complete as needed | Concise; key facts first |
 | Apology style | Deeply softened, emotionally attentive | Direct acknowledgment, solution-focused |
 | Goal | Create the feeling of being cared for | Enable fast, accurate action |
 
@@ -36,7 +36,7 @@ All three require different language structures, different timing, and different
 
 ## The Hierarchy and What It Means for Language
 
-Japanese workplaces operate with a clear hierarchical structure that directly shapes language. The senpai-kohai (先輩後輩) system — senior colleague and junior colleague — determines register choices even between peers of similar rank.
+Japanese workplaces operate with a clear hierarchical structure that directly shapes language. The senpai-kohai (先輩後輩) system, senior colleague and junior colleague, determines register choices even between peers of similar rank.
 
 <div class="keigo-card blue">
 <span class="keigo-badge info">Junior to senior (後輩 to 先輩 / staff to supervisor)</span><br>
@@ -71,11 +71,11 @@ The guest's experience of the hotel is the sum of all the internal communication
 
 **A junior staff member needs to ask their supervisor for advice on handling an unusual guest request. Which ホウレンソウ type is this?**
 
-- A. 報告 — because it involves a guest situation
-- B. 連絡 — because information is being passed between two people
-- C. 相談 — because the staff member is seeking guidance on an uncertain situation
-- D. None — internal communication does not require a specific framework
+- A. 報告: because it involves a guest situation
+- B. 連絡: because information is being passed between two people
+- C. 相談: because the staff member is seeking guidance on an uncertain situation
+- D. None: internal communication does not require a specific framework
 
 **Correct Answer:** C
 
-**Explanation:** 相談 (consulting) applies when a staff member brings an uncertain situation or decision to a supervisor and asks for guidance. This differs from 報告 (reporting completed facts) and 連絡 (passing known information). The staff member does not yet know the answer — they are seeking it. Recognizing which type of communication is needed determines the correct language structure and the appropriate moment to initiate it.
+**Explanation:** 相談 (consulting) applies when a staff member brings an uncertain situation or decision to a supervisor and asks for guidance. This differs from 報告 (reporting completed facts) and 連絡 (passing known information). The staff member does not yet know the answer; they are seeking it. Recognizing which type of communication is needed determines the correct language structure and the appropriate moment to initiate it.

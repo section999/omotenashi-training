@@ -475,6 +475,32 @@
       border-bottom-color: var(--accent-yellow);
       background: rgba(241,190,50,0.08);
     }
+    /* Romaji tooltip on hover */
+    .jp-word[data-romaji] { position: relative; }
+    .jp-word[data-romaji]::after {
+      content: attr(data-romaji);
+      position: absolute;
+      bottom: calc(100% + 7px);
+      left: 50%;
+      transform: translateX(-50%);
+      background: #12122a;
+      border: 1px solid #3b3b5c;
+      color: #9ab0e8;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      line-height: 1.5;
+      padding: 5px 11px;
+      border-radius: 6px;
+      max-width: 480px;
+      white-space: normal;
+      word-break: break-word;
+      text-align: center;
+      pointer-events: none;
+      z-index: 200;
+      opacity: 0;
+      transition: opacity 0.15s;
+    }
+    .jp-word[data-romaji]:hover::after { opacity: 1; }
     .jp-word.speaking {
       border-bottom-color: var(--accent-green);
       background: rgba(31,173,105,0.12);
@@ -1930,6 +1956,25 @@ function wrapJapanese(root) {
   });
 }
 
+// Make .keigo-jp code elements speakable + extract adjacent romaji for hover tooltip
+function wrapKeigoJpCodes(root) {
+  root.querySelectorAll('.keigo-jp code').forEach(code => {
+    code.classList.add('jp-word');
+    code.title = 'クリックで発音を聞く';
+
+    // Find adjacent <em> romaji: pattern is .keigo-jp<br><em>romaji</em>
+    const parent = code.closest('.keigo-jp');
+    if (!parent) return;
+    let sib = parent.nextSibling;
+    while (sib && (sib.nodeType === Node.TEXT_NODE || (sib.nodeType === Node.ELEMENT_NODE && sib.tagName === 'BR'))) {
+      sib = sib.nextSibling;
+    }
+    if (sib && sib.nodeType === Node.ELEMENT_NODE && sib.tagName === 'EM') {
+      code.dataset.romaji = sib.textContent.trim();
+    }
+  });
+}
+
 // ── FRONTMATTER PARSER ────────────────────────────────────────────────────────
 function parseFrontmatter(raw) {
   const match = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -3328,11 +3373,14 @@ async function render() {
   if (bodyEl) {
     bodyEl.querySelectorAll('.jp-word').forEach(span => {
       if (span.closest('.dialogue')) return;
+      if (span.tagName === 'CODE') return; // keigo-jp code elements handled below
       const p = span.parentNode;
       if (!p) return;
       p.replaceChild(document.createTextNode(span.textContent), span);
       p.normalize();
     });
+    // Add jp-word to .keigo-jp code blocks (after the unwrap pass above)
+    wrapKeigoJpCodes(bodyEl);
     // Add romaji to Key Phrases from the Dialogue tables
     bodyEl.querySelectorAll('h2').forEach(h2 => {
       if (h2.textContent.trim() !== 'Key Phrases from the Dialogue') return;

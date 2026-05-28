@@ -1,7 +1,7 @@
 ---
 id: m5-email-19
 section: 19
-title: Thank You After Stay Template
+title: Template Practice: Post-Stay Thank-You
 ---
 
 Post-stay thank-you emails are important for building long-term guest relationships. They express appreciation, encourage repeat visits, and strengthen brand loyalty. The tone should be warm, appreciative, and sincere, never promotional.

@@ -1,7 +1,7 @@
 ---
 id: m5-email-17
 section: 17
-title: Reservation Confirmation Template
+title: Template Practice: Reservation Confirmation
 ---
 A reservation confirmation is often the hotel's first direct message to the guest. It must reassure, welcome, and build trust. The guest should feel their reservation has been handled properly and that the hotel is looking forward to their stay.
 

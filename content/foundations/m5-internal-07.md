@@ -1,7 +1,7 @@
 ---
 id: m5-internal-07
 section: 7
-title: Internal Communication Standards — Summary and Common Errors
+title: Internal Communication Standards: Summary and Common Errors
 ---
 
 Strong internal communication is the infrastructure beneath every smooth guest interaction. When it works, guests never notice. When it fails, guests experience delays, inconsistencies, and the feeling that the hotel is not organized. This lesson consolidates the key standards from the Internal Communication sub-module and identifies the most common errors.
@@ -12,11 +12,11 @@ Strong internal communication is the infrastructure beneath every smooth guest i
 <span class="keigo-badge info">1. Use ホウレンソウ consistently</span><br>
 Every situation fits one of three types: 報告 (report outcomes and problems upward), 連絡 (pass information to whoever needs it), 相談 (consult when uncertain). Choosing the right type determines the right structure and timing.<br><br>
 <span class="keigo-badge info">2. Conclusion first</span><br>
-State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately — supporting detail follows.<br><br>
+State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately; supporting detail follows.<br><br>
 <span class="keigo-badge info">3. Include who, what, when, and next step</span><br>
 Incomplete messages cause follow-up questions that slow operations. Every message should answer these four elements.<br><br>
 <span class="keigo-badge info">4. Match register to the relationship</span><br>
-Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally — it slows communication and sounds unnatural.<br><br>
+Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally; it slows communication and sounds unnatural.<br><br>
 <span class="keigo-badge info">5. Never delay a report to solve it first</span><br>
 Report the problem, then solve it. A supervisor who hears about a problem two hours after it occurred cannot manage the floor effectively. Report early and update as the situation develops.
 </div>
@@ -27,10 +27,10 @@ Report the problem, then solve it. A supervisor who hears about a problem two ho
 <div class="bad-col">
 <span class="keigo-pair-label">Error 1: Story-first reporting</span>
 <span class="keigo-jp"><code>「今日お客様が来て、なんかいろいろあって、最終的に...」</code></span><br>
-Background before conclusion — supervisor has to wait for the key fact.<br><br>
+Background before conclusion; supervisor has to wait for the key fact.<br><br>
 <span class="keigo-pair-label">Error 2: Vague 連絡</span>
 <span class="keigo-jp"><code>「なんか503号室で問題あります」</code></span><br>
-No specifics — the recipient cannot act.
+No specifics; the recipient cannot act.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction 1</span>
@@ -46,7 +46,7 @@ Room, issue, action needed.
 <div class="bad-col">
 <span class="keigo-pair-label">Error 3: Vague 相談</span>
 <span class="keigo-jp"><code>「どうしたらいいですか？」</code></span><br>
-No situation, no context, no specific question — supervisor must ask multiple follow-up questions.<br><br>
+No situation, no context, no specific question; supervisor must ask multiple follow-up questions.<br><br>
 <span class="keigo-pair-label">Error 4: Avoiding error reports</span>
 Waiting to see if the problem resolves itself before telling a supervisor.<br><br>
 <span class="keigo-pair-label">Error 5: Using guest-facing language internally</span>
@@ -112,4 +112,4 @@ A staff member who reports clearly saves their supervisor time. A colleague who 
 
 **Correct Answer:** C
 
-**Explanation:** Errors that may have already had downstream effects require immediate escalation, not delay. The report should include what the incorrect information was, when it was passed, what action may have been taken based on it, and a request for guidance on correction. Option A delays potentially necessary action by hours. Option B is not a communication act at all — hoping is not 連絡 or 報告. Option D attempts to suppress the error rather than resolve it, which is a serious professional failure and may result in a guest impact that the supervisor never has the chance to prevent.
+**Explanation:** Errors that may have already had downstream effects require immediate escalation, not delay. The report should include what the incorrect information was, when it was passed, what action may have been taken based on it, and a request for guidance on correction. Option A delays potentially necessary action by hours. Option B is not a communication act at all; hoping is not 連絡 or 報告. Option D attempts to suppress the error rather than resolve it, which is a serious professional failure and may result in a guest impact that the supervisor never has the chance to prevent.

@@ -1,7 +1,7 @@
 ---
 id: m5-email-18
 section: 18
-title: Pre-Arrival Guidance Template
+title: Template Practice: Pre-Arrival Guidance
 ---
 
 Pre-arrival emails help guests prepare for their stay before check-in. They typically cover check-in times, transportation guidance, parking, amenities, and hotel policies. The tone should be informative, supportive, and professional, reassuring the guest that everything is ready.

@@ -1,10 +1,10 @@
 ---
 id: m5-internal-03
 section: 3
-title: 連絡 — Passing Information Between Colleagues
+title: 連絡: Passing Information Between Colleagues
 ---
 
-連絡 (renraku) is the act of passing factual information to colleagues or departments who need it. Unlike 報告, which flows upward to supervisors, 連絡 moves in any direction — between peers, from senior to junior, from one department to another.
+連絡 (renraku) is the act of passing factual information to colleagues or departments who need it. Unlike 報告, which flows upward to supervisors, 連絡 moves in any direction: between peers, from senior to junior, from one department to another.
 
 The core principle of 連絡 is completeness. A partial message causes the recipient to ask follow-up questions, which slows everything down. Every 連絡 should answer: what happened, who is involved, when, and what (if anything) needs to happen next.
 
@@ -24,10 +24,10 @@ The core principle of 連絡 is completeness. A partial message causes the recip
 ## The Complete 連絡 Structure
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">Who</span> — Which guest, which room, which staff member is involved?<br>
-<span class="keigo-badge info">What</span> — What is the situation or information?<br>
-<span class="keigo-badge info">When</span> — What time frame applies?<br>
-<span class="keigo-badge info">Next step</span> — Is any action required, and by whom?
+<span class="keigo-badge info">Who</span>: Which guest, which room, which staff member is involved?<br>
+<span class="keigo-badge info">What</span>: What is the situation or information?<br>
+<span class="keigo-badge info">When</span>: What time frame applies?<br>
+<span class="keigo-badge info">Next step</span>: Is any action required, and by whom?
 </div>
 
 ## Passing Information to a Colleague (Same Level)
@@ -115,4 +115,4 @@ The guest in Room 503 has reported that the shower has no hot water. As of 2:00 
 
 **Correct Answer:** B
 
-**Explanation:** Option B contains all required elements: who (Room 612 guest), what (extra blanket request), status (not yet handled), and next step (please take care of it). The register is professional without being overly formal for a peer-to-peer exchange. Option A is too casual and vague. Option C gives no ownership — "someone should" does not constitute 連絡. Option D uses 報告 language, which is for upward reporting to supervisors, and is inappropriate and overly formal for this peer-to-peer information handoff.
+**Explanation:** Option B contains all required elements: who (Room 612 guest), what (extra blanket request), status (not yet handled), and next step (please take care of it). The register is professional without being overly formal for a peer-to-peer exchange. Option A is too casual and vague. Option C gives no ownership; "someone should" does not constitute 連絡. Option D uses 報告 language, which is for upward reporting to supervisors, and is inappropriate and overly formal for this peer-to-peer information handoff.

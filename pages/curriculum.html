@@ -103,7 +103,7 @@
       background: var(--bg-primary);
       border: 1px solid rgba(255,255,255,0.06);
       border-radius: 10px;
-margin-top: 48px;
+      margin-top: 48px;
       overflow: hidden;
     }
 
@@ -117,12 +117,6 @@ margin-top: 48px;
     }
     .tree-l1-row:hover { background: rgba(255,255,255,0.03); }
 
-    .tree-l1-icon {
-      width: 44px; height: 44px; border-radius: 50%;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 1.3rem; flex-shrink: 0; line-height: 1;
-      background: rgba(241,190,50,0.12);
-    }
     .tree-l1-label {
       flex: 1; font-size: 1rem; font-weight: 700;
       font-family: 'Segoe UI', system-ui, sans-serif;
@@ -174,7 +168,7 @@ margin-top: 48px;
       max-height: 0; overflow: hidden;
       transition: max-height 0.3s ease;
     }
-    .tree-l2.open .tree-l2-children { max-height: 300px; }
+    .tree-l2.open .tree-l2-children { max-height: 3000px; }
 
     /* Step buttons grid */
     .step-grid {
@@ -221,10 +215,6 @@ margin-top: 48px;
 
     /* ── MOBILE ── */
     @media (max-width: 600px) {
-      .pillar-icon { width: 36px; height: 36px; font-size: 1rem; }
-      .philosophy-grid p[style*="font-size:0.9rem"],
-      .philosophy-grid p[style*="font-size:0.95rem"] { font-size: 0.7rem !important; }
-      .pillar-text-desc { font-size: 0.75rem !important; }
       .section-label { font-size: 0.8rem; }
       .tree-l1-label { font-size: 0.8rem; }
       .tree-l1-progress { font-size: 0.625rem; }
@@ -234,15 +224,7 @@ margin-top: 48px;
       .tree-l2-row { padding: 10px 16px 10px 28px; }
       .step-grid { padding: 8px 16px 14px 28px; }
       .step-btn { width: 40px; height: 40px; font-size: 0.75rem; }
-      .module-title { font-size: 0.8rem; }
-      .module-subtitle { font-size: 0.75rem; }
-      .module-count { font-size: 0.7rem; }
-      .module-header { padding: 16px 18px; }
-      .lesson-name { font-size: 0.8rem; }
-      .lesson-step { font-size: 0.75rem; width: 30px; height: 30px; }
-      .lesson-item { padding: 11px 18px; }
       .page-title { font-size: 2.6rem; }
-      .module-count { display: none; }
     }
     [data-theme="light"] {
       --bg-primary:    #ffffff;
@@ -265,165 +247,26 @@ margin-top: 48px;
     [data-theme="light"] body,
     [data-theme="light"] .page-title,
     [data-theme="light"] .section-label,
-    [data-theme="light"] .module-num,
-    [data-theme="light"] .module-title,
-    [data-theme="light"] .module-subtitle,
-    [data-theme="light"] .module-count,
-    [data-theme="light"] .lesson-item,
-    [data-theme="light"] .lesson-name,
-    [data-theme="light"] .lesson-step,
-    [data-theme="light"] .lesson-go,
     [data-theme="light"] .step-btn,
     [data-theme="light"] .tree-l1-label,
     [data-theme="light"] .tree-l1-progress,
     [data-theme="light"] .tree-circle,
     [data-theme="light"] .tree-l2-label,
     [data-theme="light"] .tree-l2-progress { color: #1b1b32; }
-    [data-theme="light"] .module-block,
     [data-theme="light"] .course-tree,
-    [data-theme="light"] .lesson-item,
-    [data-theme="light"] .lesson-step,
     [data-theme="light"] .step-btn { border-color: #d0d0d5; }
-    [data-theme="light"] .module-count { background: rgba(0,0,0,0.05); }
-    [data-theme="light"] .lesson-item:hover { background: rgba(0,0,0,0.04); }
     [data-theme="light"] .tree-l1-row:hover { background: rgba(0,0,0,0.04); }
     [data-theme="light"] .tree-l2-row:hover { background: rgba(0,0,0,0.04); }
-    [data-theme="light"] .lesson-list { border-top-color: rgba(0,0,0,0.08); }
-    [data-theme="light"] .lesson-item { border-bottom-color: rgba(0,0,0,0.06); }
     [data-theme="light"] .tree-l1-row { border-bottom-color: rgba(0,0,0,0.07); }
     [data-theme="light"] .tree-l2-row { border-bottom-color: rgba(0,0,0,0.06); }
     /* nav always dark */
     [data-theme="light"] .nav { background: #0a0a23 !important; }
-    /* ── PHILOSOPHY (japanese way) ──────────────────── */
-    .philosophy-grid {
-      margin-bottom: 40px;
-    }
-    .philosophy-quote {
-      position: relative;
-      padding: 40px;
-      background: var(--bg-secondary);
-      border-radius: 16px;
-      border: 1px solid var(--border-default);
-    }
-    .philosophy-quote::before {
-      content: '"';
-      position: absolute;
-      top: -20px; left: 32px;
-      font-size: 5rem;
-      color: var(--accent-yellow);
-      font-family: serif;
-      line-height: 1;
-      opacity: 0.4;
-    }
-    .philosophy-jp {
-      font-family: 'Yu Gothic', 'MS Gothic', serif;
-      font-size: 2.6rem;
-      color: var(--text-primary);
-      margin-bottom: 16px;
-      letter-spacing: 0.1em;
-    }
-    .philosophy-romaji {
-      font-family: var(--font-mono);
-      font-size: 0.85rem;
-      color: var(--accent-yellow);
-      letter-spacing: 0.12em;
-      margin-bottom: 12px;
-    }
-    .philosophy-meaning {
-      font-size: 0.9rem;
-      color: var(--text-secondary);
-      line-height: 1.7;
-    }
-    .pillar-list {
-      list-style: none;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 20px;
-    }
-    @media (max-width: 700px) {
-      .pillar-list { grid-template-columns: 1fr; }
-    }
-    .pillar-item {
-      display: flex;
-      gap: 16px;
-      align-items: flex-start;
-    }
-    .pillar-icon {
-      width: 44px; height: 44px;
-      border-radius: 10px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 1.2rem; flex-shrink: 0;
-      border: 1px solid;
-    }
-    .pillar-icon.yellow { background: rgba(241,190,50,.1); border-color: rgba(241,190,50,.3); }
-    .pillar-icon.blue   { background: rgba(var(--accent-blue-rgb),.1); border-color: rgba(var(--accent-blue-rgb),.3); }
-    .pillar-icon.green  { background: rgba(31,173,105,.1); border-color: rgba(31,173,105,.3); }
-    .pillar-icon.purple { background: rgba(155,89,182,.1); border-color: rgba(155,89,182,.3); }
-    .pillar-text-title {
-      font-family: var(--font-mono);
-      font-size: 0.9rem; font-weight: 700;
-      color: var(--text-primary);
-      margin-bottom: 4px;
-    }
-    .pillar-text-desc {
-      font-size: 0.9rem;
-      color: var(--text-secondary);
-      line-height: 1.6;
-    }
-    @media (max-width: 600px) {
-      .pillar-text-title { font-size: 0.75rem; }
-      .pillar-text-desc { font-size: 0.75rem; }
-    }
-    /* ── OUTCOMES ────────────────────────────────────── */
-    .outcomes-grid {
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
-    .outcome-item {
-      display: flex;
-      gap: 14px;
-      align-items: flex-start;
-      padding: 20px 22px;
-      background: var(--bg-secondary);
-      border: 1px solid var(--border-default);
-      border-radius: 10px;
-      transition: border-color var(--transition);
-    }
-    .outcome-item:hover { border-color: var(--border-strong); }
-    .outcome-check {
-      width: 22px; height: 22px;
-      border-radius: 50%;
-      background: rgba(31,173,105,.15);
-      border: 1px solid rgba(31,173,105,.4);
-      display: flex; align-items: center; justify-content: center;
-      font-size: 0.65rem;
-      color: var(--accent-green);
-      flex-shrink: 0;
-      margin-top: 2px;
-    }
-    .outcome-text {
-      font-size: 0.9rem;
-      color: var(--text-secondary);
-      line-height: 1.6;
-    }
-    .outcome-text strong { color: var(--text-primary); }
-    @media (max-width: 600px) {
-      .outcome-text { font-size: 0.75rem; }
-      .outcome-check { width: 20px; height: 20px; font-size: 0.7rem; }
-      .outcome-item { padding: 14px 16px; }
-      .page-header p[style*="font-size:0.95rem"] { font-size: 0.7rem !important; }
-      .page-header p[style*="font-size:0.85rem"] { font-size: 0.625rem !important; }
-    }
-  @keyframes shake {
-    0%,100% { transform: translateX(0); }
-    25%      { transform: translateX(-6px); }
-    75%      { transform: translateX(6px); }
-  }
   .vocab-xref { display:flex; align-items:center; gap:6px; flex-wrap:wrap; margin-top:10px; padding:8px 0 4px; border-top:1px solid var(--border-default); }
   .vocab-xref-label { font-family:var(--font-mono); font-size:0.68rem; text-transform:uppercase; letter-spacing:0.08em; color:var(--text-muted); white-space:nowrap; }
-  .vocab-chip { display:inline-block; padding:3px 10px; border-radius:12px; border:1px solid var(--accent-blue); color:var(--accent-blue); font-size:0.75rem; font-weight:600; text-decoration:none; white-space:nowrap; transition:background 0.12s; }
-  .vocab-chip:hover { background:rgba(var(--accent-blue-rgb),0.1); }
+  .vocab-chip { display:inline-block; padding:3px 10px; border-radius:12px; border:1px solid #5b8dee; color:#5b8dee; font-size:0.75rem; font-weight:600; text-decoration:none; white-space:nowrap; transition:background 0.12s; }
+  .vocab-chip:hover { background:rgba(91,141,238,0.12); }
+  [data-theme="light"] .vocab-chip { border-color:#2553c0; color:#2553c0; }
+  [data-theme="light"] .vocab-chip:hover { background:rgba(37,83,192,0.08); }
   </style>
   <link rel="stylesheet" href="../assets/nav.css" />
   <script src="../assets/nav-template.js"></script>
@@ -432,8 +275,8 @@ margin-top: 48px;
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "Omotenashi Training Curriculum",
-  "description": "Browse 4 modules of Japanese hospitality training - philosophy, mindset, keigo language forms, and practical communication skills.",
-  "numberOfItems": 624,
+  "description": "Browse 7 sections of Japanese hospitality training - omotenashi philosophy, practical service skills, expert specialization, keigo language, vocabulary, and cultural calendar.",
+  "numberOfItems": 599,
   "itemListElement": [
     {"@type":"ListItem","position":1,"name":"The Spirit of Omotenashi"},
     {"@type":"ListItem","position":2,"name":"Practical Service Skills"},
@@ -951,7 +794,7 @@ margin-top: 48px;
       <div class="tree-l1" id="tree-l1-cal">
         <div class="tree-l1-row" onclick="toggleTree(this,'tree-l1-cal')" role="button" aria-expanded="false">
           <span class="tree-l1-label">Cultural Calendar</span>
-          <span class="tree-l1-progress">4 seasons · 14 events</span>
+          <span class="tree-l1-progress">0 of 14 steps complete</span>
           <span class="tree-l1-chevron">▾</span>
         </div>
         <div class="tree-l1-children">
@@ -961,7 +804,7 @@ margin-top: 48px;
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Spring</span>
-              <span class="tree-l2-progress">March - May · 3 events</span>
+              <span class="tree-l2-progress" data-static>March - May · 3 events</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -977,7 +820,7 @@ margin-top: 48px;
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Summer</span>
-              <span class="tree-l2-progress">June - August · 4 events</span>
+              <span class="tree-l2-progress" data-static>June - August · 4 events</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -994,7 +837,7 @@ margin-top: 48px;
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Autumn</span>
-              <span class="tree-l2-progress">September - November · 3 events</span>
+              <span class="tree-l2-progress" data-static>September - November · 3 events</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1010,7 +853,7 @@ margin-top: 48px;
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Winter</span>
-              <span class="tree-l2-progress">December - February · 4 events</span>
+              <span class="tree-l2-progress" data-static>December - February · 4 events</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1043,7 +886,7 @@ margin-top: 48px;
             <div class="tree-l2-row" onclick="toggleTree(this,'tree-l2-m5-keigo')" role="button" aria-expanded="false">
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
-              <span class="tree-l2-label">Keigo Basics</span>
+              <span class="tree-l2-label">Keigo Foundations</span>
               <span class="tree-l2-progress">0 of 10 steps complete</span>
             </div>
             <div class="tree-l2-children">
@@ -1088,7 +931,7 @@ margin-top: 48px;
             <div class="tree-l2-row" onclick="toggleTree(this,'tree-l2-m5-internal')" role="button" aria-expanded="false">
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
-              <span class="tree-l2-label">Internal Communication</span>
+              <span class="tree-l2-label">Staff Communication &amp; Hourenso</span>
               <span class="tree-l2-progress">0 of 7 steps complete</span>
             </div>
             <div class="tree-l2-children">
@@ -1110,7 +953,7 @@ margin-top: 48px;
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
               <span class="tree-l2-label">Email Communication</span>
-              <span class="tree-l2-progress">0 of 15 steps complete</span>
+              <span class="tree-l2-progress">0 of 20 steps complete</span>
             </div>
             <div class="tree-l2-children">
               <div class="step-grid">
@@ -1129,6 +972,11 @@ margin-top: 48px;
                 <a href="md-viewer.html?file=content/foundations/m5-email-13.md" class="step-btn">13</a>
                 <a href="md-viewer.html?file=content/foundations/m5-email-14.md" class="step-btn">14</a>
                 <a href="md-viewer.html?file=content/foundations/m5-email-15.md" class="step-btn">15</a>
+                <a href="md-viewer.html?file=content/foundations/m5-email-16.md" class="step-btn">16</a>
+                <a href="md-viewer.html?file=content/foundations/m5-email-17.md" class="step-btn">17</a>
+                <a href="md-viewer.html?file=content/foundations/m5-email-18.md" class="step-btn">18</a>
+                <a href="md-viewer.html?file=content/foundations/m5-email-19.md" class="step-btn">19</a>
+                <a href="md-viewer.html?file=content/foundations/m5-email-20.md" class="step-btn">20</a>
               </div>
              </div>
            </div>
@@ -1138,7 +986,7 @@ margin-top: 48px;
             <div class="tree-l2-row" onclick="toggleTree(this,'tree-l2-m5-phone')" role="button" aria-expanded="false">
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
-              <span class="tree-l2-label">Telephone Communication</span>
+              <span class="tree-l2-label">Telephone Service &amp; Etiquette</span>
               <span class="tree-l2-progress">0 of 10 steps complete</span>
             </div>
             <div class="tree-l2-children">
@@ -1164,7 +1012,7 @@ margin-top: 48px;
             <div class="tree-l2-row" onclick="toggleTree(this,'tree-l2-m5-convo')" role="button" aria-expanded="false">
               <span class="tree-l2-chevron">▶</span>
               <span class="tree-circle"></span>
-              <span class="tree-l2-label">Situational Conversation</span>
+              <span class="tree-l2-label">Guest Dialogues &amp; Scenarios</span>
               <span class="tree-l2-progress">0 of 8 steps complete</span>
             </div>
             <div class="tree-l2-children">
@@ -1868,7 +1716,7 @@ margin-top: 48px;
         if (!btns.length) return;
         const done = l2.querySelectorAll('.step-btn.done').length;
         const prog = l2.querySelector('.tree-l2-progress');
-        if (prog) prog.textContent = done + ' of ' + btns.length + (done === 1 && btns.length === 1 ? ' step' : ' steps') + ' complete';
+        if (prog && !prog.hasAttribute('data-static')) prog.textContent = done + ' of ' + btns.length + (done === 1 && btns.length === 1 ? ' step' : ' steps') + ' complete';
       });
 
       // Update "X of Y steps complete" for each L1
@@ -1880,55 +1728,7 @@ margin-top: 48px;
         if (prog) prog.textContent = done + ' of ' + btns.length + (done === 1 && btns.length === 1 ? ' step' : ' steps') + ' complete';
       });
 
-      // Update vocabulary practice known count
-      (function() {
-        const fcGroups = [
-          {id:'v01-vocab',t:24},{id:'v02-vocab',t:30},{id:'v03-vocab',t:30},
-          {id:'v04-vocab',t:20},{id:'v05-vocab',t:20},{id:'v06-vocab',t:25},
-          {id:'v07-vocab',t:10},{id:'v08-vocab',t:40},{id:'v09-vocab',t:40},
-          {id:'v10-vocab',t:40},{id:'v11-vocab',t:40},{id:'v12-vocab',t:30},
-          {id:'v13-vocab',t:30},{id:'v14-vocab',t:30},{id:'v15-vocab',t:20},
-        ];
-        let known = 0;
-        fcGroups.forEach(g => {
-          for (let i = 1; i <= g.t; i++) {
-            const num = String(i).padStart(2,'0');
-            try { if (localStorage.getItem('omotenashi:fc:content/vocabulary/'+g.id+'-'+num+'.md') === 'know') known++; } catch(e) {}
-          }
-        });
-        const el = document.getElementById('fc-global-progress');
-        if (el) el.textContent = '2 practice modes';
-      })();
     });
-
-
-    // ── COURSE SEARCH ─────────────────────────────────────────────────────────
-    function searchCurriculum(q) {
-      q = q.trim().toLowerCase();
-      document.querySelectorAll('.tree-l1, .tree-l2').forEach(el => {
-        el.style.display = '';
-      });
-      if (!q) return;
-      document.querySelectorAll('.tree-l2').forEach(sec => {
-        const label = (sec.querySelector('.tree-l2-label') || sec).textContent.toLowerCase();
-        const match = label.includes(q);
-        sec.style.display = match ? '' : 'none';
-        if (match) {
-          // Open section and its parent L1
-          sec.classList.add('open');
-          const l1 = sec.closest('.tree-l1');
-          if (l1) l1.classList.add('open');
-        }
-      });
-      document.querySelectorAll('.tree-l1').forEach(l1 => {
-        const l1Label = (l1.querySelector('.tree-l1-label') || '').textContent.toLowerCase();
-        const l1Match = l1Label.includes(q);
-        const l2s = l1.querySelectorAll('.tree-l2');
-        const hasVisible = [...l2s].some(s => s.style.display !== 'none');
-        l1.style.display = (hasVisible || l1Match) ? '' : 'none';
-        if (l1Match) l1.classList.add('open');
-      });
-    }
 
 
     // Keyboard accessibility for collapsible tree rows
@@ -1942,38 +1742,6 @@ margin-top: 48px;
         }
       });
     });
-
-    // Mark completed step-btns from localStorage + update progress labels
-    (function() {
-      try {
-        document.querySelectorAll('.step-btn').forEach(function(btn) {
-          var href = btn.getAttribute('href') || '';
-          var fm = href.match(/file=([^&]+)/);
-          if (!fm) return;
-          var filePath = decodeURIComponent(fm[1]);
-          var m = filePath.match(/\/([^/]+)-(\d+)\.md$/);
-          if (!m) return;
-          var key = 'omotenashi:' + m[1] + ':' + parseInt(m[2], 10);
-          if (localStorage.getItem(key) === '1') btn.classList.add('done');
-        });
-        // Update section-level "X of Y steps complete" labels
-        document.querySelectorAll('.tree-l2').forEach(function(sec) {
-          var total = sec.querySelectorAll('.step-btn').length;
-          if (!total) return;
-          var done = sec.querySelectorAll('.step-btn.done').length;
-          var lbl = sec.querySelector('.tree-l2-progress');
-          if (lbl) lbl.textContent = lbl.textContent.replace(/^\d+/, done);
-        });
-        // Update top-level module "X of Y steps complete" labels
-        document.querySelectorAll('.tree-l1').forEach(function(mod) {
-          var total = mod.querySelectorAll('.step-btn').length;
-          if (!total) return;
-          var done = mod.querySelectorAll('.step-btn.done').length;
-          var lbl = mod.querySelector('.tree-l1-progress');
-          if (lbl) lbl.textContent = lbl.textContent.replace(/^\d+/, done);
-        });
-      } catch(e) {}
-    })();
 
     function toggleTree(el, id) {
       var t = document.getElementById(id);

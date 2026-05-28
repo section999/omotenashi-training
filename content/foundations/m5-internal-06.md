@@ -4,13 +4,13 @@ section: 6
 title: Reporting Mistakes and Escalating Problems
 ---
 
-Two of the most important — and most avoided — forms of internal communication are reporting your own error and escalating a problem you cannot resolve. Both require courage and specific language. Both, when done well, protect the guest experience and strengthen the team.
+Two of the most important, and most avoided, forms of internal communication are reporting your own error and escalating a problem you cannot resolve. Both require courage and specific language. Both, when done well, protect the guest experience and strengthen the team.
 
-Avoiding error reports or delaying escalation is a far greater professional failure than the original mistake. In hotel service, what often makes a situation unrecoverable is not the initial error — it is the silence that follows.
+Avoiding error reports or delaying escalation is a far greater professional failure than the original mistake. In hotel service, what often makes a situation unrecoverable is not the initial error; it is the silence that follows.
 
 ## Reporting Your Own Mistake
 
-The internal apology for an error is different from the guest-facing apology. Internally, the goal is not emotional comfort — it is rapid, accurate information transfer so that the problem can be fixed.
+The internal apology for an error is different from the guest-facing apology. Internally, the goal is not emotional comfort; it is rapid, accurate information transfer so that the problem can be fixed.
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -30,10 +30,10 @@ I need to report something. I made a verification error regarding [matter]. The 
 ## The Internal Error Report Structure
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">1. State the fact first</span> — What happened? What was the error?<br>
-<span class="keigo-badge info">2. State the current impact</span> — How is this affecting the guest or operations right now?<br>
-<span class="keigo-badge info">3. State what you have already done</span> — Have you taken any initial steps to address it?<br>
-<span class="keigo-badge info">4. Ask for guidance</span> — Request specific direction on next steps.<br><br>
+<span class="keigo-badge info">1. State the fact first</span>: What happened? What was the error?<br>
+<span class="keigo-badge info">2. State the current impact</span>: How is this affecting the guest or operations right now?<br>
+<span class="keigo-badge info">3. State what you have already done</span>: Have you taken any initial steps to address it?<br>
+<span class="keigo-badge info">4. Ask for guidance</span>: Request specific direction on next steps.<br><br>
 <span class="keigo-badge bad">Do not</span> Begin with a long apology. Do not frame the report around your feelings. Do not minimize the impact. Report the facts, then accept guidance.
 </div>
 
@@ -41,18 +41,18 @@ I need to report something. I made a verification error regarding [matter]. The 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご報告いたします。先ほど田中様のチェックインの際に、お部屋を702号室でご案内してしまいましたが、正しくは703号室でございました。現在、田中様は702号室にいらっしゃいます。お鍵の交換とお部屋の移動をご案内すべきかと思いますが、ご指示いただけますでしょうか。</code></span><br>
-I need to report something. When checking in Mr./Ms. Tanaka a moment ago, I directed them to Room 702, but the correct room is 703. Mr./Ms. Tanaka is currently in Room 702. I believe we should arrange a key exchange and room move — could you advise on how to handle this?
+I need to report something. When checking in Mr./Ms. Tanaka a moment ago, I directed them to Room 702, but the correct room is 703. Mr./Ms. Tanaka is currently in Room 702. I believe we should arrange a key exchange and room move. Could you advise on how to handle this?
 </div>
 
 ## Escalating a Problem You Cannot Resolve
 
-Escalation is not failure — it is professional judgment. The ability to recognize when a situation exceeds your authority or skill level is a service skill, not a weakness.
+Escalation is not failure; it is professional judgment. The ability to recognize when a situation exceeds your authority or skill level is a service skill, not a weakness.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>私の対応範囲を超えていると判断し、ご相談いたします。</code></span><br>
 I have judged that this is beyond what I can handle on my own and am bringing it to you.<br><br>
 <span class="keigo-jp"><code>〇〇様のご要望につきまして、私での対応が難しく、ご対応をお願いできますでしょうか。</code></span><br>
-Regarding Mr./Ms. [Name]'s request, I am not able to handle this myself — could you step in?<br><br>
+Regarding Mr./Ms. [Name]'s request, I am not able to handle this myself. Could you step in?<br><br>
 <span class="keigo-jp"><code>お客様はまだフロントにいらっしゃいます。</code></span><br>
 The guest is still at the front desk.
 </div>

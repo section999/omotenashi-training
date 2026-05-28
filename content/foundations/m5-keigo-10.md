@@ -61,16 +61,16 @@ Double keigo means stacking two humble forms on top of each other, creating an u
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>お伺いさせていただきます。</code></span><br>
 (お伺い is already humble; adding させていただく is redundant)<br><br>
-<span class="keigo-jp"><code>おっしゃられました。</code></span><br>
-(おっしゃる is already sonkeigo; adding られる is redundant)<br><br>
+<span class="keigo-jp"><code>ご覧になられました。</code></span><br>
+(ご覧になる is already sonkeigo; adding られる is redundant)<br><br>
 <span class="keigo-badge bad">Why it happens</span> Staff trying to be maximally polite end up stacking forms.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>お伺いいたします。</code></span><br>
 (one humble layer is correct)<br><br>
-<span class="keigo-jp"><code>おっしゃいました。</code></span><br>
-(sonkeigo verb, no extra passive layer needed)<br><br>
+<span class="keigo-jp"><code>ご覧になりました。</code></span><br>
+(correct sonkeigo form, no extra passive layer needed)<br><br>
 <span class="keigo-badge good">Rule</span> One keigo form per verb. Stacking two humble or two honorific forms creates over-keigo.
 </div>
 </div>

@@ -6,7 +6,7 @@ title: Cross-Department Communication
 
 A hotel operates as a network of departments that depend on each other to deliver seamless guest service. The front desk coordinates with housekeeping, maintenance, the restaurant, and the concierge dozens of times each day. The quality of these cross-department exchanges directly determines how quickly guest needs are met.
 
-Cross-department communication uses professional but functional language — not the full guest-facing keigo register, but not casual speech either. The goal is accurate, fast coordination between colleagues who share a service mission.
+Cross-department communication uses professional but functional language, not the full guest-facing keigo register, but not casual speech either. The goal is accurate, fast coordination between colleagues who share a service mission.
 
 ## The Cross-Department Communication Standard
 
@@ -45,14 +45,14 @@ Thank you. I will let the guest know.
 
 <div class="keigo-card blue">
 <strong>Concierge:</strong> <span class="keigo-jp"><code>コンシェルジュの〇〇です。本日の夕食のご予約で、202号室の田中様、2名様、19時でお願いできますでしょうか。</code></span><br>
-This is [Name] from the concierge desk. I would like to make a dinner reservation for Mr./Ms. Tanaka in Room 202 — two guests at 7:00 PM tonight. Is that possible?<br><br>
+This is [Name] from the concierge desk. I would like to make a dinner reservation for Mr./Ms. Tanaka in Room 202, two guests at 7:00 PM tonight. Is that possible?<br><br>
 <strong>Restaurant:</strong> <span class="keigo-jp"><code>承りました。田中様、2名様、19時でございますね。</code></span><br>
 Understood. Mr./Ms. Tanaka, two guests, 7:00 PM.
 </div>
 
 ## Housekeeping to Front Desk (Reverse Direction)
 
-Cross-department communication also flows in reverse — departments contacting the front desk to pass information back:
+Cross-department communication also flows in reverse, with departments contacting the front desk to pass information back:
 
 <div class="keigo-card blue">
 <strong>Housekeeping:</strong> <span class="keigo-jp"><code>ハウスキーピングです。605号室の清掃が完了いたしました。</code></span><br>
