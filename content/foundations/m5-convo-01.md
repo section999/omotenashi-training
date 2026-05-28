@@ -1,77 +1,131 @@
 ---
 id: m5-convo-01
 section: 1
-title: Main Check-In Dialogue
+title: Check-In Dialogue — Full Script and Service Flow
 ---
 
-## Situation Overview
+Check-in is the first physical interaction between a guest and the hotel. Everything the guest has imagined about the hotel — from the booking process, to travel, to arrival — converges in this moment. The staff member at the front desk carries the entire weight of first impression.
 
-This conversation takes place at a hotel front desk during check-in.
-The staff member's role is not only to complete administrative procedures, but also to create a welcoming and reassuring first impression.
+The check-in process serves several simultaneous functions:
 
-In hospitality culture, the check-in process serves several functions at the same time:
+- Confirming reservation accuracy
+- Establishing trust and professionalism
+- Creating emotional comfort for the guest
+- Delivering essential information efficiently
 
-- confirming reservation accuracy
-- establishing trust
-- demonstrating professionalism
-- creating emotional comfort for the guest
+Because of these layered goals, hotel staff use carefully selected keigo expressions — language that is calm, respectful, and refined — rather than simply "polite" speech.
 
-Because of this, hotel staff use carefully selected keigo expressions that sound calm, respectful, and refined.
-
-## Dialogue
+## Complete Check-In Dialogue
 
 ```dialogue
 Staff:   いらっしゃいませ。本日は当ホテルにご予約いただき、誠にありがとうございます。
 (EN)     Welcome, and thank you very much for choosing our hotel today.
+
          ご予約のお名前をお聞かせいただけますでしょうか？
 (EN)     May I ask for the name on your reservation?
+
 Guest:   田中です。
 (EN)     Tanaka.
+
 Staff:   田中様でいらっしゃいますね。かしこまりました。
-(EN)     You are Mr. Tanaka, correct? Certainly.
-         本日より2泊、デラックスツインのお部屋でご予約いただいております。
+(EN)     You are Mr./Ms. Tanaka, correct? Certainly.
+
+         少々お待ちくださいませ。
+(EN)     Please wait a moment.
+
+         お待たせいたしました。本日より2泊、デラックスツインのお部屋でご予約いただいております。
          お間違いないでしょうか？
-(EN)     You have reserved a deluxe twin room for two nights starting today. Is everything correct?
+(EN)     Thank you for waiting. You have reserved a deluxe twin room for two nights starting today. Is everything correct?
+
 Guest:   はい、そうです。
 (EN)     Yes, that's correct.
-Staff:   ありがとうございます。こちらがお部屋の鍵でございます。
-(EN)     Thank you very much. Here is your room key.
-         お部屋は7階の702号室でございます。
-(EN)     Your room is Room 702 on the 7th floor.
-         朝食は1階レストランで、7時から10時まで承っております。
-(EN)     Breakfast is served at the restaurant on the 1st floor from 7:00 to 10:00 AM.
-         また、Wi-Fiのパスワードは、こちらのカードに記載してございます。
-(EN)     Also, the Wi-Fi password is written on this card.
+
+Staff:   ありがとうございます。こちらにサインをお願いいたします。
+(EN)     Thank you. Could I ask you to sign here?
+
+         こちらがお部屋の鍵でございます。お部屋は7階の702号室でございます。
+(EN)     Here is your room key. Your room is Room 702 on the 7th floor.
+
+         エレベーターはあちらでございます。
+(EN)     The elevator is over there.
+
+         朝食は1階レストランにて、7時から10時まで承っております。
+(EN)     Breakfast is served at the 1st floor restaurant from 7:00 to 10:00 AM.
+
+         Wi-Fiのパスワードは、こちらのカードに記載してございます。
+(EN)     The Wi-Fi password is on this card.
+
 Guest:   ありがとうございます。
 (EN)     Thank you.
+
 Staff:   何かご不明な点がございましたら、フロントまでお気軽にお声がけくださいませ。
-(EN)     If you have any questions, please feel free to contact the front desk.
+(EN)     If you have any questions at all, please feel free to contact us at the front desk.
+
          それでは、ごゆっくりお過ごしくださいませ。
-(EN)     We hope you enjoy your stay.
+(EN)     We hope you enjoy a relaxing stay.
 ```
 
-### Service Flow Inside the Dialogue
+## Service Flow Analysis
 
-| Stage | Purpose |
-|-------|---------|
-| Greeting | Welcome the guest warmly |
-| Name Confirmation | Verify reservation identity |
-| Reservation Confirmation | Prevent errors |
-| Information Delivery | Explain key hotel services |
-| Closing | End interaction gracefully |
+Each stage of the check-in dialogue serves a specific purpose:
+
+| Stage | Key Phrase | Purpose |
+|-------|------------|---------|
+| Welcome | いらっしゃいませ | Establishes warm first impression |
+| Name Request | お聞かせいただけますでしょうか | Begins identity verification softly |
+| Identity Confirmation | 〜様でいらっしゃいますね | Confirms politely without sounding interrogative |
+| Reservation Confirmation | お間違いないでしょうか | Prevents errors; shows the hotel is organized |
+| Information Delivery | こちらが〜でございます | Delivers key information clearly |
+| Closing | ごゆっくりお過ごしくださいませ | Ends with warmth, care, and hospitality |
+
+## The First 10 Seconds
+
+The opening exchange — from いらっしゃいませ through the first sentence — sets the emotional tone for the entire stay. Research in hospitality shows that guests who feel genuinely welcomed at check-in are significantly more forgiving of minor service issues during their stay.
+
+This means the welcome is not a formality. It is an investment in the entire guest relationship.
+
+**Important principles for the check-in opening:**
+- Make eye contact before speaking
+- Greet immediately — never let a guest stand at the counter unacknowledged
+- Speak clearly and at a moderate pace
+- Smile while speaking (it changes the tone of your voice audibly)
+
+## The Closing: ごゆっくりお過ごしくださいませ
+
+This phrase deserves special attention. It is not simply "goodbye." It communicates:
+
+- **Care** — the hotel wishes the guest to enjoy themselves
+- **Permission** — the guest is encouraged to relax, not rush
+- **Completion** — the interaction closes gracefully
+
+The phrase leaves the check-in feeling complete and warm, rather than efficient and transactional.
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Check-In Key Phrases</span>
+<span class="keigo-jp"><code>いらっしゃいませ</code></span> — Welcome<br><br>
+<span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
+May I ask for the name on your reservation?<br><br>
+<span class="keigo-jp"><code>〜様でいらっしゃいますね。かしこまりました。</code></span><br>
+You are 〜, correct? Certainly.<br><br>
+<span class="keigo-jp"><code>お間違いないでしょうか</code></span><br>
+Is everything correct?<br><br>
+<span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span><br>
+We hope you enjoy a relaxing stay.
+</div>
 
 ---
 
 ## Quiz
 
-**In the dialogue, what does the staff say right after the guest gives their name during check-in?**
+**In the dialogue, what does the staff say right after the guest provides their name during check-in?**
 
 - A. 田中様でいらっしゃいますね。かしこまりました。
 - B. ご予約ありがとうございます
-- C. 少々お待ちください
-- D. お名前は何ですか
+- C. お名前は何ですか
+- D. パスポートを見せてください
 
 **Correct Answer:** A
 
-**Explanation:** After the guest says "田中です", the staff uses the respectful confirmation 「田中様でいらっしゃいますね」followed by 「かしこまりました」. This phrasing confirms identity politely while sounding professional and welcoming, avoiding direct questioning like お名前は何ですか.
-
+**Explanation:** After the guest says "田中です", the staff uses 「田中様でいらっしゃいますね」 to confirm identity respectfully, followed by 「かしこまりました」 to acknowledge. The expression いらっしゃいますね elevates the guest and avoids sounding interrogative. Asking お名前は何ですか again would be unnecessary and would imply the first response wasn't heard.

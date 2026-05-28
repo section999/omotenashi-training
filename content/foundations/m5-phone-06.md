@@ -1,59 +1,109 @@
 ---
 id: m5-phone-06
 section: 6
-title: Cancellation Calls
+title: Availability and Room Inquiry Calls
 ---
 
-Cancellation calls are operationally simple but emotionally sensitive. The guest may feel guilt, hesitation, or discomfort. The staff's role is to reduce emotional friction while maintaining procedural accuracy.
+Availability calls are not simple information delivery. They are **decision-support interactions**. The guest is actively evaluating whether to book, so clarity and tone directly influence whether they proceed. Staff who handle availability calls well do not just answer "yes or no" — they guide the guest toward a positive decision.
+
+## Availability Check — Room Available
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Flow</span>
-Acknowledgment → Identity confirmation → Reservation check → Cancellation execution → Closure
+<span class="keigo-card-title">Available Script</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
+Do you have availability on June 10th?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
+I will check availability for June 10th. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月10日はツインルームとスタンダードルームにお部屋がございます。いかがなさいますか。</code></span><br>
+Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Example Call</span>
-<strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいです</code></span><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。お名前をお伺いしてもよろしいでしょうか</code></span><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>山田様ですね。確認いたしますので少々お待ちくださいませ</code></span><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊でございますね</code></span><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>キャンセルを承りました</code></span>
-</div>
+## Availability Check — Fully Booked
+
+When there are no rooms available, the word あいにく is essential. It softens the refusal without being vague:
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Cold</span>
-<span class="keigo-jp"><code>キャンセルしました</code></span>
-<br><br>
-<span class="keigo-badge bad">Transactional</span> Sounds cold and transactional.
+<span class="keigo-pair-label">Abrupt</span>
+<span class="keigo-jp"><code>満室です。</code></span>
+<br><em>manshitsu desu.</em><br>
+We are fully booked.<br><br>
+<span class="keigo-badge bad">Problem</span> Blunt, cold, and closes the interaction. The guest feels rejected.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Professional</span>
-<span class="keigo-jp"><code>キャンセルを承りました</code></span>
-<br><br>
-<span class="keigo-badge good">Neutral</span> Signals completion without emotional tone.
+<span class="keigo-jp"><code>あいにく本日は満室となっております。</code></span>
+<br><em>ainiki honjitsu wa manshitsu to natte orimasu.</em><br>
+Unfortunately, we are fully booked today.<br><br>
+<span class="keigo-badge good">Why it works</span> あいにく (ainiku) expresses genuine regret. The hotel acknowledges the inconvenience without being defensive.
 </div>
 </div>
-
-Final closing: <span class="keigo-jp"><code>またのご利用をお待ちしております</code></span>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Important Philosophy</span>
-Even when the guest leaves, the hotel relationship should remain intact.
+<span class="keigo-card-title">Fully Booked + Alternative Offer</span>
+<strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
+I will check. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
+Thank you for waiting. Unfortunately, June 10th is fully booked.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。ご都合はいかがでしょうか。</code></span><br>
+If you would like, we can offer alternative dates nearby. Would that work for you?
+</div>
+
+**The key rule: never end a call with "no availability." Always extend service options.** Ending with a refusal closes the relationship. Ending with an alternative offer keeps it open.
+
+## Room Type Inquiry
+
+Guests often call to understand what types of rooms are available before committing to a reservation:
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Room Type Inquiry Script</span>
+<strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
+What kinds of rooms do you have?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルにはスタンダードルーム、ツインルーム、そしてデラックスルームがございます。ご利用のご人数はいかがでしょうか。</code></span><br>
+Certainly. Our hotel offers standard rooms, twin rooms, and deluxe rooms. May I ask how many guests will be staying?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>2人です。</code></span><br>
+Two people.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>2名様でございますね。2名様ですとツインルームまたはデラックスルームがおすすめでございます。ご料金のご案内もよろしいでしょうか。</code></span><br>
+Two guests. For two, I would recommend our twin room or deluxe room. Shall I also share the rates?
+</div>
+
+## Softening Unavailability with いかがでしょうか
+
+When guiding a guest toward an alternative, end with a question that invites their input rather than pushing a decision:
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Inviting Guest Input</span>
+<span class="keigo-jp"><code>いかがでしょうか</code></span> — How does that sound? / Would that work?<br>
+<span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span> — Would that be convenient for you?<br>
+<span class="keigo-jp"><code>いかがなさいますか</code></span> — What would you prefer?<br><br>
+These endings return decision-making to the guest, reducing pressure and maintaining a service-oriented dynamic.
+</div>
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Availability Key Phrases</span>
+<span class="keigo-jp"><code>空室状況を確認いたします</code></span><br>
+I will check availability.<br><br>
+<span class="keigo-jp"><code>あいにく〜は満室となっております</code></span><br>
+Unfortunately, 〜 is fully booked.<br><br>
+<span class="keigo-jp"><code>〜でしたらご案内が可能でございます</code></span><br>
+We can offer 〜 (alternative).<br><br>
+<span class="keigo-jp"><code>いかがでしょうか</code></span><br>
+How does that sound?
 </div>
 
 ---
 
 ## Quiz
 
-**Why is 承りました preferred over キャンセルしました in cancellation calls?**
+**A guest calls and asks if June 10th is available. You check and find it is fully booked. What is the correct response?**
 
-- A. It signals completion without emotional tone, preserving the relationship
-- B. It is grammatically correct
-- C. It sounds more casual
-- D. It is shorter
+- A. 満室です。ありがとうございました。
+- B. あいにく6月10日は満室となっております。もしよろしければ、前後の日程でしたらご案内が可能でございます。
+- C. 空いておりません。他のホテルをお探しください。
+- D. 少々お待ちくださいませ（and then say nothing more）
 
-**Correct Answer:** A
+**Correct Answer:** B
 
-**Explanation:** 承りました signals completion in a neutral way, while キャンセルしました sounds transactional and cold. The goal is to preserve the hotel-guest relationship even during cancellations.
-
+**Explanation:** The professional approach is to use あいにく to soften the refusal, then immediately offer an alternative. Ending with "fully booked" alone (option A) closes the relationship. Suggesting other hotels (option C) is never appropriate. Always extend an alternative offer and return the decision to the guest.
