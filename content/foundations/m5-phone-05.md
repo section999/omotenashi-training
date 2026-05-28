@@ -1,12 +1,12 @@
 ---
 id: m5-phone-05
 section: 5
-title: Cancellation Calls — Emotional Management
+title: Cancellation Calls, Emotional Management
 ---
 
 Cancellation calls are operationally simple but emotionally sensitive. The guest may feel guilt, hesitation, or discomfort. Plans changed. Money may be at stake. They do not know how the hotel will respond.
 
-The staff member's role is not to prevent the cancellation — it is to **reduce emotional friction while maintaining procedural accuracy**, and to ensure the hotel relationship remains intact even as the guest leaves.
+The staff member's role is not to prevent the cancellation, it is to **reduce emotional friction while maintaining procedural accuracy**, and to ensure the hotel relationship remains intact even as the guest leaves.
 
 ## Cancellation Flow
 
@@ -54,13 +54,13 @@ The reservation was cancelled.<br><br>
 <span class="keigo-jp"><code>キャンセルを承りました</code></span>
 <br><em>kyanseru wo uketsukemashita</em><br>
 Your cancellation has been received.<br><br>
-<span class="keigo-badge good">Why it works</span> 承る (uketsukeru) carries a nuance of respectfully receiving. It signals completion without coldness — the relationship is preserved.
+<span class="keigo-badge good">Why it works</span> 承る (uketsukeru) carries a nuance of respectfully receiving. It signals completion without coldness, the relationship is preserved.
 </div>
 </div>
 
 ## Communicating Cancellation Fees
 
-If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly — frame it as policy, not punishment:
+If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly, frame it as policy, not punishment:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Cancellation Fee Communication</span>
@@ -75,7 +75,7 @@ I am sorry to inform you, but per the reservation cancellation policy, a cancell
 またのご利用をお待ちしております is not just a farewell. It communicates:
 
 - The hotel holds no ill will toward the guest
-- The relationship is not ended — only this reservation is
+- The relationship is not ended, only this reservation is
 - The guest is welcome to return
 
 This matters because **guests who cancel due to circumstances beyond their control often rebook**. How the hotel handles the cancellation directly affects whether they return.
@@ -105,4 +105,4 @@ We look forward to welcoming you again.
 
 **Correct Answer:** C
 
-**Explanation:** 承る (uketsukeru) carries the nuance of respectfully receiving or handling. Used here, it signals completion in a way that maintains service dignity — the interaction closes professionally, not coldly. キャンセルしました sounds transactional and signals that the relationship is simply over.
+**Explanation:** 承る (uketsukeru) carries the nuance of respectfully receiving or handling. Used here, it signals completion in a way that maintains service dignity, the interaction closes professionally, not coldly. キャンセルしました sounds transactional and signals that the relationship is simply over.

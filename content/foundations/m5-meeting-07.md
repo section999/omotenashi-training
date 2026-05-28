@@ -1,61 +1,101 @@
 ---
 id: m5-meeting-07
 section: 7
-title: Professional Handover Mindset
+title: The Professional Handover Standard
 ---
 
-Good handover writing is not about grammar or vocabulary. It is about how you think about your role in the shift chain.
+The technical skills of handover writing are learnable in hours. The professional standard is something different. It is the habit of thinking about the next shift before you think about your own convenience. This lesson describes that standard and why it matters.
 
-## The Core Mindset
+## What the Professional Standard Looks Like
 
-Think about the person reading your handover notes. They are in the middle of a busy shift, juggling multiple tasks at once. They do not have time to guess what you meant or fill in missing details.
-
-This is why every line matters. A missing room number, an unclear status, or a task without an owner can lead to real problems: a guest complaint, a double booking, or a service delay. Your handwriting carries real operational weight.
-
-## The Three Essentials
-
-Every line you write must pass three tests:
+A professional handover is not defined by what is in the notes. It is defined by the effect on the next shift.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Traceable</span>
-Can the next person trace what happened from start to finish? Include room numbers, names, times, and actions taken.
+<span class="keigo-card-title">The Three Tests</span>
+<strong>Traceable:</strong> Can the incoming staff trace every guest situation from start to current state?<br>
+Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.<br><br>
+<strong>Actionable:</strong> Does every entry tell the incoming staff what to do?<br>
+If an entry contains only a problem with no status or next step, it is not actionable. It is noise.<br><br>
+<strong>Complete:</strong> Is there anything the incoming staff would need to ask about?<br>
+If the answer is yes, the handover is not done yet.
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Actionable</span>
-Does this information tell the next person what to do? If they cannot act on it, it is noise, not handover.
-</div>
+## The Shift-End Mindset
+
+Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Complete</span>
-Does it contain everything needed? If the next person has to ask "but what about...?" the handover is not done.
+<span class="keigo-card-title">What "Finishing the Shift" Actually Means</span>
+Not: the clock hit 22:00 and I went home<br><br>
+But: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation<br><br>
+<span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
+Your shift continues until the handover is complete.
+</div>
+
+## Common Mindset Failures
+
+Most handover errors are not caused by lack of knowledge. They are caused by treating the handover as secondary to other tasks.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">The Four Mindset Failures</span>
+<span class="keigo-badge bad">1. Rushing</span><br>
+Writing the handover in the last two minutes of the shift guarantees missing information.<br>
+Fix: update the notes continuously throughout the shift, not all at once at the end.<br><br>
+<span class="keigo-badge bad">2. Assuming the next person already knows</span><br>
+"They'll figure it out" is not a professional position. The next person was not there.<br>
+Fix: write as if the reader has no background knowledge of the shift.<br><br>
+<span class="keigo-badge bad">3. Emotional filtering</span><br>
+Writing more about how you felt during a difficult interaction than about what happened and what needs to happen next.<br>
+Fix: read the entry before submitting and remove any word that describes your feelings.<br><br>
+<span class="keigo-badge bad">4. Leaving tasks without owners</span><br>
+"To be confirmed" with no name assigned is the most common source of tasks falling through.<br>
+Fix: every unresolved item must have a specific name or department attached.
 </div>
 
 ## What Good Handover Creates
 
-When every staff member writes with this mindset, the result is seamless service:
-
-- Guests never repeat themselves to different staff
-- No confusion about who is handling what
-- No tasks are forgotten between shifts
+When every staff member meets this standard, the result is not just better notes. It is a different quality of guest experience.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">The Golden Rule</span>
-"If the next staff cannot act immediately, the handover is incomplete."
+<span class="keigo-card-title">The Guest Experience Impact</span>
+Guests never repeat themselves across shifts<br>
+No VIP arrives without the right preparation<br>
+No complaint stays unresolved because it was lost between shifts<br>
+No maintenance issue surprises the incoming team<br><br>
+All of this happens because of what is written, when it is written, and how well it communicates.<br><br>
+The guest never sees the handover. But they feel whether it was done well.
+</div>
+
+## The Golden Rule
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">The Standard</span>
+If the incoming staff cannot act immediately based on what you wrote, the handover is not complete.
+</div>
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Professional Standard Vocabulary</span>
+<span class="keigo-jp"><code>引き継ぎ完了</code></span>: Handover complete<br>
+<span class="keigo-jp"><code>確認済み</code></span>: Confirmed<br>
+<span class="keigo-jp"><code>次シフトへ申し送り済み</code></span>: Transferred to next shift<br>
+<span class="keigo-jp"><code>経過確認要</code></span>: Follow-up recommended<br>
+<span class="keigo-jp"><code>即対応</code></span>: Immediate action required<br>
+<span class="keigo-jp"><code>担当：〜</code></span>: Person responsible: [name/department]
 </div>
 
 ---
 
 ## Quiz
 
-**What is the golden rule of hotel handover?**
+**A staff member finishes their shift notes at the end of the day and writes everything from memory. What professional standard are they failing to meet?**
 
-- A. Write as much detail as possible
-- B. If the next staff cannot act immediately, the handover is incomplete
-- C. Always use polite keigo
-- D. Only write about VIP guests
+- A. Notes must be written in the morning only
+- B. Handover notes should be updated continuously throughout the shift so no detail is forgotten
+- C. Only managers are allowed to write handover notes at the end of a shift
+- D. Memory-based notes are acceptable if they are detailed enough
 
 **Correct Answer:** B
 
-**Explanation:** The golden rule states that if the next shift staff member cannot take immediate action based on the handover notes, the handover is incomplete and ineffective.
-
+**Explanation:** Writing all handover notes from memory at the end of a shift almost guarantees incomplete or inaccurate entries. Details from early in the shift are easily forgotten under the pressure of a busy day. The professional standard is to update notes continuously as events occur: when a complaint is received, record it then; when a request is resolved, update the status then. End-of-shift notes should only be a final check to ensure nothing has been missed, not the primary documentation event.

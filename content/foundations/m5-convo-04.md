@@ -33,15 +33,15 @@ I'd like to order room service.<br><br>
 Certainly. Please go ahead with your order.<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>サンドイッチとコーヒーをお願いします。</code></span><br>
 A sandwich and coffee, please.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>サンドイッチとコーヒーでございますね。かしこまりました。ただいまのご注文は、30分ほどでお届けいたします。</code></span><br>
-A sandwich and coffee — certainly. Your order will be delivered in approximately 30 minutes.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>サンドイッチとコーヒーでございますね。かしこまりました。ご注文の品は30分ほどでお届けいたします。</code></span><br>
+A sandwich and coffee, certainly. Your order will be delivered in approximately 30 minutes.<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>分かりました。</code></span><br>
 Understood.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ほかにご要望はございますでしょうか。</code></span><br>
 Is there anything else you would like?
 </div>
 
-## Concierge — Directions and Information
+## Concierge, Directions and Information
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Direction Request Script</span>
@@ -50,12 +50,12 @@ Could you tell me how to get to Ueno Park?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルから上野公園ですと、電車でお越しの場合は最寄りの〜駅から山手線にお乗りいただき、上野駅でお降りいただくのが便利でございます。徒歩で約5分でございます。</code></span><br>
 Certainly. To get to Ueno Park from our hotel, if you take the train, board the Yamanote Line from the nearest station and exit at Ueno Station. It is approximately 5 minutes on foot.<br><br>
 <span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span><br>
-I can also prepare a map for you — would that be helpful?
+I can also prepare a map for you, would that be helpful?
 </div>
 
 ## Handling Requests You Cannot Immediately Answer
 
-Not every concierge question can be answered instantly. The professional response is to acknowledge, take time to find the answer, and follow up — never to guess or provide uncertain information:
+Not every concierge question can be answered instantly. The professional response is to acknowledge, take time to find the answer, and follow up, never to guess or provide uncertain information:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">When You Don't Know the Answer</span>
@@ -65,23 +65,23 @@ Are there any good Japanese restaurants nearby?<br><br>
 Certainly. Could you give me a moment? I will check for you.<br><br>
 <em>[After checking]</em><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お待たせいたしました。徒歩5分ほどのところに〜という和食のレストランがございます。評判もよく、本日もご予約が可能でございます。ご予約をお取りすることもできますが、いかがでしょうか。</code></span><br>
-Thank you for waiting. There is a Japanese restaurant called 〜 about 5 minutes on foot. It has a good reputation and reservations are available today. I could make a reservation for you — would you like that?
+Thank you for waiting. There is a Japanese restaurant called 〜 about 5 minutes on foot. It has a good reputation and reservations are available today. I could make a reservation for you, would you like that?
 </div>
 
 **The key phrase 確認してまいります (I will check and come back) is one of the most powerful professional expressions in hotel service.** It communicates: "I take your question seriously enough to verify before answering, rather than guessing."
 
-## Proactive Service — Anticipating Needs
+## Proactive Service, Anticipating Needs
 
-Excellent concierge service does not just answer questions — it anticipates the next need:
+Excellent concierge service does not just answer questions, it anticipates the next need:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Proactive Offers</span>
 After providing directions:<br>
-<span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span> — Shall I prepare a map for you?<br><br>
+<span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span>: Shall I prepare a map for you?<br><br>
 After suggesting a restaurant:<br>
-<span class="keigo-jp"><code>ご予約をお取りすることもできますが、いかがでしょうか。</code></span> — Shall I make a reservation for you?<br><br>
+<span class="keigo-jp"><code>ご予約をお取りすることもできますが、いかがでしょうか。</code></span>: Shall I make a reservation for you?<br><br>
 After arranging transport:<br>
-<span class="keigo-jp"><code>タクシーのご手配もできますが、いかがでしょうか。</code></span> — Shall I arrange a taxi for you?<br><br>
+<span class="keigo-jp"><code>タクシーのご手配もできますが、いかがでしょうか。</code></span>: Shall I arrange a taxi for you?<br><br>
 These proactive offers embody the omotenashi principle: anticipating needs before they are expressed.
 </div>
 
@@ -112,4 +112,4 @@ Shall I make a reservation for 〜?
 
 **Correct Answer:** C
 
-**Explanation:** When uncertain, the professional response is to acknowledge the request, pause to verify the information, and return with accurate guidance. Guessing risks giving the guest incorrect information. Saying "I don't know" without follow-up abandons the request. The phrase 確認してまいります signals that the staff takes the question seriously enough to verify — which is itself an act of service.
+**Explanation:** When uncertain, the professional response is to acknowledge the request, pause to verify the information, and return with accurate guidance. Guessing risks giving the guest incorrect information. Saying "I don't know" without follow-up abandons the request. The phrase 確認してまいります signals that the staff takes the question seriously enough to verify, which is itself an act of service.

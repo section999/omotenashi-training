@@ -1,10 +1,10 @@
 ---
 id: m5-phone-04
 section: 4
-title: Reservation Calls — New Bookings and Modifications
+title: Reservation Calls, New Bookings and Modifications
 ---
 
-Reservation calls are among the most operationally critical interactions in a hotel. A single error — a wrong date, a misheard name, or a misunderstood room type — affects room allocation, pricing, housekeeping schedules, and guest satisfaction. Reservation handling is therefore structured as a **verification chain**: every detail is confirmed before proceeding.
+Reservation calls are among the most operationally critical interactions in a hotel. A single error, a wrong date, a misheard name, or a misunderstood room type, affects room allocation, pricing, housekeeping schedules, and guest satisfaction. Reservation handling is therefore structured as a **verification chain**: every detail is confirmed before proceeding.
 
 ## New Booking Call
 
@@ -50,7 +50,7 @@ Each repetition is a checkpoint. Missing one creates a gap where operational err
 
 ## Modification Call
 
-When a guest calls to change their reservation — dates, room type, or number of guests — the same verification chain applies:
+When a guest calls to change their reservation, dates, room type, or number of guests, the same verification chain applies:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Modification Flow</span>

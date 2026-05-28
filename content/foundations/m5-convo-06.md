@@ -4,26 +4,26 @@ section: 6
 title: Handling Complaints Face-to-Face
 ---
 
-Face-to-face complaints are more complex than telephone complaints. When a guest is standing in front of you — frustrated, disappointed, or angry — the staff member must manage **language, body language, and emotional tone simultaneously**. A complaint handled well in person often transforms into the strongest form of guest loyalty. Handled poorly, it becomes a story the guest tells for years.
+Face-to-face complaints are more complex than telephone complaints. When a guest is standing in front of you, frustrated, disappointed, or angry, the staff member must manage **language, body language, and emotional tone simultaneously**. A complaint handled well in person often transforms into the strongest form of guest loyalty. Handled poorly, it becomes a story the guest tells for years.
 
 ## Face-to-Face vs Telephone: Key Differences
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">What Changes In Person</span>
 <span class="keigo-badge info">Body language matters</span> A slight bow communicates genuine apology more than words alone<br><br>
-<span class="keigo-badge info">Eye contact</span> Calm, steady eye contact communicates that you are listening — avoiding eye contact signals discomfort or dismissal<br><br>
+<span class="keigo-badge info">Eye contact</span> Calm, steady eye contact communicates that you are listening, avoiding eye contact signals discomfort or dismissal<br><br>
 <span class="keigo-badge info">Physical distance</span> Step slightly toward the guest (not away) to signal engagement<br><br>
-<span class="keigo-badge info">Voice tone</span> Lower and slower than normal — never match the guest's raised tone
+<span class="keigo-badge info">Voice tone</span> Lower and slower than normal, never match the guest's raised tone
 </div>
 
 ## The 4-Step Resolution Framework
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Framework for Face-to-Face Complaints</span>
-<span class="keigo-badge info">1. Listen fully</span> — Do not interrupt. Let the guest finish.<br>
-<span class="keigo-badge info">2. Apologize genuinely</span> — Before explaining anything.<br>
-<span class="keigo-badge info">3. Act immediately</span> — State the specific action and timeline.<br>
-<span class="keigo-badge info">4. Follow up</span> — Return to confirm the issue is resolved.
+<span class="keigo-badge info">1. Listen fully</span>: Do not interrupt. Let the guest finish.<br>
+<span class="keigo-badge info">2. Apologize genuinely</span>: Before explaining anything.<br>
+<span class="keigo-badge info">3. Act immediately</span>: State the specific action and timeline.<br>
+<span class="keigo-badge info">4. Follow up</span>: Return to confirm the issue is resolved.
 </div>
 
 ## Room Quality Complaint
@@ -58,7 +58,7 @@ The request I made at the front desk earlier has not been handled at all.<br><br
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Defensive — Never say</span>
+<span class="keigo-pair-label">Defensive, Never say</span>
 <span class="keigo-jp"><code>それは私の担当ではありませんので…</code></span>
 <br>"That is not my responsibility..."<br><br>
 <span class="keigo-jp"><code>ルール上、それはできません</code></span>
@@ -66,7 +66,7 @@ The request I made at the front desk earlier has not been handled at all.<br><br
 <span class="keigo-badge bad">Why these fail</span> The guest does not care about internal responsibility or rules. They care about their experience. Defensive language escalates the complaint immediately.
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">Professional — Always say</span>
+<span class="keigo-pair-label">Professional, Always say</span>
 <span class="keigo-jp"><code>誠に申し訳ございませんでした。ただいま対応いたします。</code></span>
 <br>"I sincerely apologize. I will take care of this now."<br><br>
 <span class="keigo-badge good">Why this works</span> Takes responsibility on behalf of the hotel as a whole. The guest feels heard and acted upon.
@@ -75,24 +75,24 @@ The request I made at the front desk earlier has not been handled at all.<br><br
 
 ## Escalation to a Manager
 
-Some complaints require escalation — particularly if the issue involves compensation, policy exceptions, or a guest who remains upset after initial handling:
+Some complaints require escalation, particularly if the issue involves compensation, policy exceptions, or a guest who remains upset after initial handling:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Escalation Protocol</span>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当のマネージャーをお呼びいたします。少々お待ちくださいませ。</code></span><br>
 I am sorry to ask you to wait, but I will call the manager now. Please give me just a moment.<br><br>
-<span class="keigo-badge info">Never say:</span> 「私には分かりません」 — "I don't know" (without follow-up)<br>
-<span class="keigo-badge info">Never say:</span> 「マネージャーに聞いてください」 — "Please ask the manager" (without personally facilitating)
+<span class="keigo-badge info">Never say:</span> 「私には分かりません」, "I don't know" (without follow-up)<br>
+<span class="keigo-badge info">Never say:</span> 「マネージャーに聞いてください」, "Please ask the manager" (without personally facilitating)
 </div>
 
 ## Follow-Up: The Most Forgotten Step
 
-The most powerful step in complaint resolution is the follow-up — returning after the issue is resolved to confirm the guest is now satisfied:
+The most powerful step in complaint resolution is the follow-up, returning after the issue is resolved to confirm the guest is now satisfied:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Follow-Up Script</span>
 <span class="keigo-jp"><code>先ほどのお部屋の件でございますが、ご確認いただけましたでしょうか。</code></span><br>
-Regarding the issue with your room earlier — were you able to confirm that everything has been taken care of?<br><br>
+Regarding the issue with your room earlier, were you able to confirm that everything has been taken care of?<br><br>
 <span class="keigo-jp"><code>ご不便をおかけし、改めて申し訳ございませんでした。今後ともよろしくお願いいたします。</code></span><br>
 We sincerely apologize again for the inconvenience. We hope to continue serving you well.
 </div>

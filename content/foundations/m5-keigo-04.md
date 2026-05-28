@@ -1,72 +1,159 @@
 ---
 id: m5-keigo-04
 section: 4
-title: Essential Hotel Keigo Patterns
+title: 謙譲語 (Kenjogo) in Depth
 ---
 
-These patterns appear repeatedly in almost every hotel interaction. Professional staff memorize them until they become automatic.
+謙譲語 is the counterpart to 尊敬語. While sonkeigo raises the guest, kenjogo lowers the staff. Together they create the defining language structure of Japanese hospitality: the guest is always linguistically above the staff.
+
+## The Core Rule
+
+Use 謙譲語 whenever **staff** are the subject describing their own actions, especially actions directed toward or done for the guest. The staff's use of a humble verb form communicates service commitment without a single word explicitly saying so.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Guest Reference Patterns</span>
-Used to respectfully refer to guests.<br>
-<span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>様</code></span>, <span class="keigo-jp"><code>お客様</code></span>, <span class="keigo-jp"><code>ご宿泊者様</code></span><br>
-<span class="keigo-badge info">Examples</span> 山田様, お客様はこちらへどうぞ, ご宿泊者様専用エリア<br>
-<span class="keigo-badge info">Purpose</span> Create respectful distance while remaining warm.
+<span class="keigo-card-title">Why Kenjogo Matters</span>
+Saying 「確認します」 and 「確認いたします」 both mean "I will confirm." But the second communicates: "I will confirm, and I do so in service of you." The humble form carries that meaning automatically. Guests perceive it, even if they cannot explain why the second sounds better.
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Request Patterns</span>
-Used when asking guests to do something.<br>
-<span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>〜いただけますでしょうか</code></span>, <span class="keigo-jp"><code>〜お願いいたします</code></span>, <span class="keigo-jp"><code>〜くださいませ</code></span><br>
-<span class="keigo-badge info">Examples</span> こちらにご記入いただけますでしょうか, 少々お待ちくださいませ<br>
-<span class="keigo-badge info">Purpose</span> Reduce pressure and sound softer. Service culture avoids sounding commanding.
-</div>
+## Group 1: Irregular Kenjogo Verbs
+
+These are the most important humble verbs. Each has a completely new form with no connection to the plain verb.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Staff Action Patterns</span>
-Used when staff describe their own actions.<br>
-<span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>お伺いします</code></span>, <span class="keigo-jp"><code>確認いたします</code></span>, <span class="keigo-jp"><code>ご案内いたします</code></span>, <span class="keigo-jp"><code>承ります</code></span><br>
-<span class="keigo-badge info">Examples</span> 担当者へ確認いたします, お部屋までご案内いたします<br>
-<span class="keigo-badge info">Purpose</span> Show service attitude and humility.
+<span class="keigo-card-title">Irregular Kenjogo Verb Forms</span>
+
+| Plain Form | Kenjogo Form | Meaning in Context |
+|---|---|---|
+| 行く | 参ります | I go (toward the guest) |
+| 行く | 伺います | I visit / go humbly |
+| 来る | 参ります | I come |
+| いる | おります | I am here |
+| 言う | 申します | I say |
+| する | いたします | I do |
+| 聞く / 訪ねる | 伺います | I ask / I visit |
+| もらう | いただきます | I humbly receive |
+| 見る | 拝見します | I look at / I read (humbly) |
+| 知る | 存じます | I know |
+| 食べる / 飲む | いただきます | I humbly eat / drink |
+| あげる | 差し上げます | I give (to the guest) |
+
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Information Delivery Patterns</span>
-Used when giving hotel information.<br>
-<span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>〜でございます</code></span>, <span class="keigo-jp"><code>〜となっております</code></span>, <span class="keigo-jp"><code>〜を承っております</code></span><br>
-<span class="keigo-badge info">Examples</span> 朝食は7時からでございます, 本日は満室となっております<br>
-<span class="keigo-badge info">Purpose</span> Provide information professionally without sounding cold.
-</div>
+## Group 2: Regular Kenjogo Pattern
+
+For verbs without special irregular forms, use:
+
+**お + verb stem (masu-stem) + いたします / します**
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Closing Patterns</span>
-Used to end guest interactions smoothly.<br>
-<span class="keigo-badge info">Core</span> <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span>, <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
-<span class="keigo-badge info">Purpose</span> Leave a warm final impression. In hospitality, the ending atmosphere is extremely important.
+<span class="keigo-card-title">Regular Pattern: お〜いたします</span>
+<span class="keigo-jp"><code>お持ちいたします</code></span>: I will carry / bring<br>
+<span class="keigo-jp"><code>お届けいたします</code></span>: I will deliver<br>
+<span class="keigo-jp"><code>お調べいたします</code></span>: I will look into it<br>
+<span class="keigo-jp"><code>お伝えいたします</code></span>: I will convey the message<br>
+<span class="keigo-jp"><code>お連れいたします</code></span>: I will accompany / take you<br><br>
+Construction: お + [verb masu-stem] + いたします<br>
+持ちます → お持ちいたします<br>
+届けます → お届けいたします
+</div>
+
+## Group 3: ご + Sino-Japanese Verb Stems
+
+For Chinese-origin (漢語) verb stems, use ご instead of お:
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">ご〜いたします</span>
+<span class="keigo-jp"><code>ご案内いたします</code></span>: I will guide you<br>
+<span class="keigo-jp"><code>ご確認いたします</code></span>: I will confirm<br>
+<span class="keigo-jp"><code>ご連絡いたします</code></span>: I will contact you<br>
+<span class="keigo-jp"><code>ご用意いたします</code></span>: I will prepare<br>
+<span class="keigo-jp"><code>ご説明いたします</code></span>: I will explain
+</div>
+
+## Applied Kenjogo: Hotel Scenarios
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Casual (wrong)</span>
+<span class="keigo-jp"><code>確認します。</code></span><br>
+"I'll confirm."<br><br>
+<span class="keigo-badge bad">Wrong</span> No humility. Sounds like a colleague talking to another colleague.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">謙譲語 (correct)</span>
+<span class="keigo-jp"><code>確認いたします。</code></span><br>
+"I will confirm."<br><br>
+<span class="keigo-badge good">Correct</span> いたします is the humble form of する, placing the staff in a service role.
+</div>
+</div>
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Casual (wrong)</span>
+<span class="keigo-jp"><code>部屋まで行きます。</code></span><br>
+"I'll go to the room."<br><br>
+<span class="keigo-badge bad">Wrong</span> 行く has no humble quality in plain form.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">謙譲語 (correct)</span>
+<span class="keigo-jp"><code>お部屋までご案内いたします。</code></span><br>
+"I will guide you to your room."<br><br>
+<span class="keigo-badge good">Correct</span> ご案内いたします layers the service role with humility.
+</div>
+</div>
+
+## The 承ります Form
+
+承ります deserves special attention. It is the humble form for receiving requests, reservations, or orders. It communicates "I humbly accept this" and is used constantly at front desk and reservation services.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">承ります in Context</span>
+<span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
+I have received your reservation.<br><br>
+<span class="keigo-jp"><code>ご注文を承ります。</code></span><br>
+I will take your order.<br><br>
+<span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
+I have received your request.<br><br>
+承ります can replace いただきます when the staff is receiving formal requests in a service context. It has a more operationally precise feeling.
+</div>
+
+## Critical Error: Kenjogo Applied to the Guest
+
+Just as sonkeigo must never be applied to staff, kenjogo must never be applied to guests. This reverses the hospitality relationship.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Never Use Kenjogo for the Guest</span>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br>
+おります is a humble form. Using it for the guest lowers the guest.<br><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様が参ります。</code></span><br>
+参ります is humble. Applying it to the guest's arrival treats them as a lower-status person.<br><br>
+<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
+<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がお越しになります。</code></span>
 </div>
 
 ## Key Phrases
 
-| Japanese | English | Pattern Type |
-|---|---|---|
-| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Request pattern: softened ask |
-| ただいまお部屋までご案内いたします。| I will guide you to your room right away. | Staff action: kenjōgo |
-| 朝食は7時からでございます。| Breakfast starts at 7:00. | Information delivery: でございます |
-| こちらにご記入いただけますでしょうか。| Could you please fill this out? | Soft request: いただけますでしょうか |
-| ごゆっくりお過ごしくださいませ。| Please enjoy your time. | Closing: warm and professional |
+<div class="keigo-card blue">
+<span class="keigo-card-title">Core 謙譲語 Phrases for Hotel Use</span>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ただいまご確認いたします</code></span>: I will confirm that right now<br>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お部屋までご案内いたします</code></span>: I will guide you to your room<br>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ご予約を承りました</code></span>: I have received your reservation<br>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お荷物をお持ちいたします</code></span>: I will carry your luggage<br>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>担当者に申し伝えます</code></span>: I will convey that to the person in charge<br>
+<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お伺いいたします</code></span>: I will come to you / I will ask
+</div>
 
 ---
 
 ## Quiz
 
-**Which keigo pattern is used to reduce pressure when making a request to a guest?**
+**A guest asks staff to check on their room. Which response uses 謙譲語 correctly?**
 
-- A. 〜いただけますでしょうか
-- B. お伺いします
-- C. 様
-- D. 〜でございます
+- A. 「確認します」
+- B. 「確認なさいます」
+- C. 「ただいまご確認いたします」
+- D. 「確認いたされます」
 
-**Correct Answer:** A
+**Correct Answer:** C
 
-**Explanation:** Request patterns like 〜いただけますでしょうか soften the request and reduce pressure, since Service culture avoids sounding commanding.
-
+**Explanation:** 確認いたします uses いたします, the humble form of する, placing the staff in a service role appropriate for 謙譲語. ただいま (right now) adds urgency and care. Option A is plain language with no keigo. Option B uses なさいます, which is a sonkeigo form appropriate only for the guest's actions. Option D is grammatically incorrect. When staff describe their own actions, 謙譲語 always applies.

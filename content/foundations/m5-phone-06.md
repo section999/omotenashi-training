@@ -4,9 +4,9 @@ section: 6
 title: Availability and Room Inquiry Calls
 ---
 
-Availability calls are not simple information delivery. They are **decision-support interactions**. The guest is actively evaluating whether to book, so clarity and tone directly influence whether they proceed. Staff who handle availability calls well do not just answer "yes or no" — they guide the guest toward a positive decision.
+Availability calls are not simple information delivery. They are **decision-support interactions**. The guest is actively evaluating whether to book, so clarity and tone directly influence whether they proceed. Staff who handle availability calls well do not just answer "yes or no", they guide the guest toward a positive decision.
 
-## Availability Check — Room Available
+## Availability Check, Room Available
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Available Script</span>
@@ -18,7 +18,7 @@ I will check availability for June 10th. Please wait a moment.<br><br>
 Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
 </div>
 
-## Availability Check — Fully Booked
+## Availability Check, Fully Booked
 
 When there are no rooms available, the word あいにく is essential. It softens the refusal without being vague:
 
@@ -73,9 +73,9 @@ When guiding a guest toward an alternative, end with a question that invites the
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Inviting Guest Input</span>
-<span class="keigo-jp"><code>いかがでしょうか</code></span> — How does that sound? / Would that work?<br>
-<span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span> — Would that be convenient for you?<br>
-<span class="keigo-jp"><code>いかがなさいますか</code></span> — What would you prefer?<br><br>
+<span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
+<span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
+<span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?<br><br>
 These endings return decision-making to the guest, reducing pressure and maintaining a service-oriented dynamic.
 </div>
 

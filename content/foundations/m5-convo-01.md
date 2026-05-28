@@ -1,10 +1,10 @@
 ---
 id: m5-convo-01
 section: 1
-title: Check-In Dialogue — Full Script and Service Flow
+title: Check-In Dialogue, Full Script and Service Flow
 ---
 
-Check-in is the first physical interaction between a guest and the hotel. Everything the guest has imagined about the hotel — from the booking process, to travel, to arrival — converges in this moment. The staff member at the front desk carries the entire weight of first impression.
+Check-in is the first physical interaction between a guest and the hotel. Everything the guest has imagined about the hotel, from the booking process, to travel, to arrival, converges in this moment. The staff member at the front desk carries the entire weight of first impression.
 
 The check-in process serves several simultaneous functions:
 
@@ -13,7 +13,7 @@ The check-in process serves several simultaneous functions:
 - Creating emotional comfort for the guest
 - Delivering essential information efficiently
 
-Because of these layered goals, hotel staff use carefully selected keigo expressions — language that is calm, respectful, and refined — rather than simply "polite" speech.
+Because of these layered goals, hotel staff use carefully selected keigo expressions, language that is calm, respectful, and refined, rather than simply "polite" speech.
 
 ## Complete Check-In Dialogue
 
@@ -80,13 +80,13 @@ Each stage of the check-in dialogue serves a specific purpose:
 
 ## The First 10 Seconds
 
-The opening exchange — from いらっしゃいませ through the first sentence — sets the emotional tone for the entire stay. Research in hospitality shows that guests who feel genuinely welcomed at check-in are significantly more forgiving of minor service issues during their stay.
+The opening exchange, from いらっしゃいませ through the first sentence, sets the emotional tone for the entire stay. Research in hospitality shows that guests who feel genuinely welcomed at check-in are significantly more forgiving of minor service issues during their stay.
 
 This means the welcome is not a formality. It is an investment in the entire guest relationship.
 
 **Important principles for the check-in opening:**
 - Make eye contact before speaking
-- Greet immediately — never let a guest stand at the counter unacknowledged
+- Greet immediately, never let a guest stand at the counter unacknowledged
 - Speak clearly and at a moderate pace
 - Smile while speaking (it changes the tone of your voice audibly)
 
@@ -94,9 +94,9 @@ This means the welcome is not a formality. It is an investment in the entire gue
 
 This phrase deserves special attention. It is not simply "goodbye." It communicates:
 
-- **Care** — the hotel wishes the guest to enjoy themselves
-- **Permission** — the guest is encouraged to relax, not rush
-- **Completion** — the interaction closes gracefully
+- **Care**, the hotel wishes the guest to enjoy themselves
+- **Permission**, the guest is encouraged to relax, not rush
+- **Completion**, the interaction closes gracefully
 
 The phrase leaves the check-in feeling complete and warm, rather than efficient and transactional.
 
@@ -104,7 +104,7 @@ The phrase leaves the check-in feeling complete and warm, rather than efficient 
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Check-In Key Phrases</span>
-<span class="keigo-jp"><code>いらっしゃいませ</code></span> — Welcome<br><br>
+<span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome<br><br>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
 May I ask for the name on your reservation?<br><br>
 <span class="keigo-jp"><code>〜様でいらっしゃいますね。かしこまりました。</code></span><br>
@@ -119,13 +119,13 @@ We hope you enjoy a relaxing stay.
 
 ## Quiz
 
-**In the dialogue, what does the staff say right after the guest provides their name during check-in?**
+**Why does the staff say 「田中様でいらっしゃいますね」 rather than 「田中様ですか？」 after the guest provides their name?**
 
-- A. 田中様でいらっしゃいますね。かしこまりました。
-- B. ご予約ありがとうございます
-- C. お名前は何ですか
-- D. パスポートを見せてください
+- A. でいらっしゃいます is the correct negative form to express uncertainty
+- B. いらっしゃいますね uses 尊敬語 to elevate the guest, and the soft ending ね creates a cooperative confirmation rather than an interrogative question
+- C. ですか is grammatically incorrect at the hotel register level
+- D. 田中様ですか would be used only when the guest has not yet provided their name
 
-**Correct Answer:** A
+**Correct Answer:** B
 
-**Explanation:** After the guest says "田中です", the staff uses 「田中様でいらっしゃいますね」 to confirm identity respectfully, followed by 「かしこまりました」 to acknowledge. The expression いらっしゃいますね elevates the guest and avoids sounding interrogative. Asking お名前は何ですか again would be unnecessary and would imply the first response wasn't heard.
+**Explanation:** いらっしゃいます is the 尊敬語 form of いる, which elevates the guest's existence itself. Adding ね transforms the structure from a question into a cooperative confirmation, both parties verifying together rather than the staff interrogating the guest. This is the core principle of hospitality keigo: the phrasing itself communicates respect and creates comfort, not just grammatical correctness.

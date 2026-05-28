@@ -1,70 +1,154 @@
 ---
 id: m5-keigo-05
 section: 5
-title: Real Hotel Keigo Rules
+title: 丁寧語 (Teineigo) and Sentence Polish
 ---
 
-Hotel keigo follows practical operational rules to create consistency between staff members.
+丁寧語 creates the baseline professional tone in all hotel communication. While 尊敬語 elevates the guest and 謙譲語 lowers the staff, 丁寧語 handles everything in between: the general atmosphere of the sentence, how information is delivered, and how polished the overall interaction sounds.
+
+## What 丁寧語 Actually Does
+
+丁寧語 is not simply "adding desu and masu." In hotel contexts, it means replacing everyday polite forms with refined forms that sound more formal, measured, and professional.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Rule 1: Never Sound Too Direct</span>
-Hospitality avoids direct pressure. Even simple questions become softened.<br><br>
-<span class="keigo-badge bad">Too Direct</span> <span class="keigo-jp"><code>名前は？</code></span> <span class="keigo-jp"><code>パスポートください</code></span><br>
-<span class="keigo-badge good">Hotel Standard</span> <span class="keigo-jp"><code>お名前をお伺いしてもよろしいでしょうか</code></span>, <span class="keigo-jp"><code>パスポートをお預かりいたします</code></span><br><br>
-Direct language can sound cold or aggressive. Soft language feels safer and more professional.
+<span class="keigo-card-title">The Teineigo Upgrade</span>
+
+| Everyday Polite | Hotel 丁寧語 | Use |
+|---|---|---|
+| です | でございます | All identification and information |
+| しています | しております | Staff ongoing actions |
+| していますか | されていますか | Questions about guest's ongoing state |
+| ありますか | ございますか | Any existence question |
+| ありません | ございません | Negative existence |
+| いいですか | よろしいでしょうか | Seeking permission or confirmation |
+| ですね | でございますね | Polished confirmation |
+
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Rule 2: Guests Must Always Sound Elevated</span>
-Guests should never sound linguistically "equal" to staff.<br><br>
-<span class="keigo-badge bad">Too Casual</span> <span class="keigo-jp"><code>山田さんですね</code></span><br>
-<span class="keigo-badge good">Hotel Standard</span> <span class="keigo-jp"><code>山田様でいらっしゃいますね</code></span><br><br>
-Hotels maintain professional hierarchy through language.
-</div>
+## でございます in Detail
+
+でございます is the most important teineigo form in hotels. It replaces です in almost every situation where information is being stated or confirmed.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Rule 3: Staff Must Sound Humble</span>
-Hotel staff avoid sounding dominant.<br><br>
-<span class="keigo-badge bad">Casual</span> <span class="keigo-jp"><code>確認します</code></span>, <span class="keigo-jp"><code>行きます</code></span><br>
-<span class="keigo-badge good">Hotel Standard</span> <span class="keigo-jp"><code>確認いたします</code></span>, <span class="keigo-jp"><code>お伺いいたします</code></span><br><br>
-The hotel positions itself as serving the guest.
+<span class="keigo-card-title">でございます: Core Uses</span>
+<strong>Stating facts:</strong><br>
+<span class="keigo-jp"><code>朝食は1階でございます。</code></span>: Breakfast is on the 1st floor.<br>
+<span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span>: Checkout is at 11:00.<br><br>
+<strong>Identifying the guest:</strong><br>
+<span class="keigo-jp"><code>山田様でございますね。</code></span>: You are Mr./Ms. Yamada, correct?<br><br>
+<strong>Confirming a reservation:</strong><br>
+<span class="keigo-jp"><code>2泊でございますね。</code></span>: That is a 2-night stay, correct?<br><br>
+<strong>Presenting objects:</strong><br>
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span>: Here is your room key.
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">Rule 4: Avoid Rough or Casual Vocabulary</span>
-<span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>ちょっと</code></span>, <span class="keigo-jp"><code>いいですか</code></span>, <span class="keigo-jp"><code>わかりました</code></span>, <span class="keigo-jp"><code>待ってください</code></span><br>
-<span class="keigo-badge good">Prefer</span> <span class="keigo-jp"><code>少々</code></span>, <span class="keigo-jp"><code>よろしいでしょうか</code></span>, <span class="keigo-jp"><code>かしこまりました</code></span>, <span class="keigo-jp"><code>お待ちくださいませ</code></span><br><br>
-Small wording differences greatly affect service atmosphere.
+## ございます vs あります
+
+Both mean "there is / we have," but ございます is the hotel-level form.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Everyday polite</span>
+<span class="keigo-jp"><code>プールがあります。</code></span><br>
+"There is a pool."<br><br>
+<span class="keigo-jp"><code>ご不明な点はありますか？</code></span><br>
+"Do you have any unclear points?"
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Hotel 丁寧語</span>
+<span class="keigo-jp"><code>プールがございます。</code></span><br>
+"There is a pool."<br><br>
+<span class="keigo-jp"><code>ご不明な点はございますか？</code></span><br>
+"Do you have any unclear points?"
+</div>
 </div>
 
+## しております vs しています
+
+しております is the teineigo form of しています. It conveys that the staff is in the middle of an action, with an added feeling of service attention.
+
 <div class="keigo-card blue">
-<span class="keigo-card-title">Rule 5: Good Keigo Must Sound Natural</span>
-Overly difficult keigo sounds uncomfortable. Guests prefer smooth professionalism, not unnatural textbook perfection.<br><br>
-Professional keigo should sound: <strong>easy</strong>, <strong>calm</strong>, <strong>confident</strong>, and <strong>fluid</strong>.
+<span class="keigo-card-title">しております in Context</span>
+<span class="keigo-jp"><code>ただいまご確認しております。</code></span><br>
+I am confirming that right now.<br><br>
+<span class="keigo-jp"><code>担当者が対応しております。</code></span><br>
+A staff member is handling that.<br><br>
+<span class="keigo-jp"><code>ただいまお調べしております。</code></span><br>
+I am looking into that now.
+</div>
+
+## The Softened Request Forms
+
+丁寧語 handles how requests are softened so they never sound demanding. Two key patterns:
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Soft Request Patterns</span>
+<strong>Pattern 1: 〜いただけますでしょうか</strong><br>
+The most polite request form. Used when asking guests to do something.<br>
+<span class="keigo-jp"><code>こちらにご記入いただけますでしょうか。</code></span><br>
+Could you please fill this in?<br><br>
+<strong>Pattern 2: 〜くださいませ</strong><br>
+A polished instruction or invitation. Used to guide the guest's action.<br>
+<span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>
+Please wait just a moment.<br>
+<span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ。</code></span><br>
+Please enjoy your time at your leisure.
+</div>
+
+## The Polished Confirmation Form
+
+When verifying information with a guest, end with でございますね or よろしいでしょうか rather than ですね or いいですか.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Everyday polite</span>
+<span class="keigo-jp"><code>3泊ですね？</code></span><br>
+<span class="keigo-jp"><code>こちらでいいですか？</code></span>
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Hotel 丁寧語</span>
+<span class="keigo-jp"><code>3泊でございますね。</code></span><br>
+<span class="keigo-jp"><code>こちらでよろしいでしょうか。</code></span>
+</div>
+</div>
+
+## Bringing All Three Types Together
+
+A complete hotel exchange uses all three systems. Each sentence uses a different type depending on who is acting:
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">One Exchange, Three Types</span>
+<span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
+You are Mr./Ms. Yamada, correct? (いらっしゃる elevates the guest's existence)<br><br>
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
+Here is your room key. (でございます creates professional tone)<br><br>
+<span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
+A staff member will guide you. (いたします humbly states the staff's action)
 </div>
 
 ## Key Phrases
 
-| Japanese | English | Rule Applied |
-|---|---|---|
-| お名前をお伺いしてもよろしいでしょうか。| May I ask your name? | Rule 1: Never sound direct |
-| 山田様でいらっしゃいますね。| You are Mr./Ms. Yamada, correct? | Rule 2: Always elevate the guest |
-| 確認いたします。| I will confirm that. | Rule 3: Staff sounds humble |
-| 少々お待ちくださいませ。| Please wait just a moment. | Rule 4: Avoid rough vocabulary |
-| かしこまりました。| Certainly. | Rule 4: Professional over わかりました |
+<div class="keigo-card blue">
+<span class="keigo-card-title">Core 丁寧語 Phrases for Hotel Use</span>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございます</code></span>: It is / This is<br>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますね</code></span>: That is 〜, correct?<br>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますか</code></span>: Is it 〜?<br>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜ございます</code></span>: There is / We have<br>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>よろしいでしょうか</code></span>: Is that alright?<br>
+<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜しております</code></span>: I/We am/are doing 〜
+</div>
 
 ---
 
 ## Quiz
 
-**What is the problem with saying 「ちょっと待ってください」 to a hotel guest?**
+**A staff member wants to ask "Is that alright?" Which is the correct hotel form?**
 
-- A. It is grammatically incorrect
-- B. ちょっと is too casual and rough for service language
-- C. It is too long
-- D. It is perfect keigo
+- A. 「いいですか？」
+- B. 「大丈夫ですか？」
+- C. 「よろしいでしょうか。」
+- D. 「よろしいですか？」
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** ちょっと is a casual softening word. In hotel service, prefer 少々お待ちくださいませ for a more refined and professional atmosphere.
-
+**Explanation:** よろしいでしょうか is the full hotel-standard teineigo confirmation form. よろしい is the polite form of いい, and でしょうか is more refined than ですか. Option A (いいですか) and option D (よろしいですか) are both shorter forms that sound acceptable in everyday conversation but fall short of hotel standard. Option B (大丈夫ですか) is casual and implies concern rather than a polite inquiry. In hotels, the full form よろしいでしょうか is the standard.

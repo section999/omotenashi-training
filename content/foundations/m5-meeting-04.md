@@ -1,76 +1,127 @@
 ---
 id: m5-meeting-04
 section: 4
-title: Handover Writing Style Rules
+title: Handover Writing Rules
 ---
 
-Handover notes are read under time pressure. The next shift does not have time to interpret unclear language. This is why every hotel follows strict writing rules: remove emotion, remove ambiguity, and state only what the next person needs to act on.
+Handover notes are read under time pressure by people who were not present during the events being described. This creates specific writing requirements: the notes must be factual, structured, concise, and unambiguous. Any deviation from these principles creates risk.
 
-## Rule 1: Write Only What Is Factual
+## Rule 1: Write Facts, Not Feelings
 
-Handover notes must contain facts, not feelings. Never describe how you feel about a situation. Never explain why something happened. State what is wrong and what has been done.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>ちょっとエアコンが変な感じです</code></span><br><br>
-<span class="keigo-badge bad">Subjective</span> Emotional and unclear.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>空調不良あり</code></span><br><br>
-<span class="keigo-badge good">Factual</span> States the problem directly.
-</div>
-</div>
-
-Also avoid explaining causes:
+Handover notes contain information about what happened and what was done. They never contain the writer's emotions, interpretations, or personal assessments of the situation.
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>おそらく機械が少し古いので壊れたと思います</code></span><br><br>
-<span class="keigo-badge bad">Wordy</span> Too much reasoning.
+<span class="keigo-jp"><code>かなり大変なクレームでした</code></span><br>
+"It was quite a difficult complaint."<br><br>
+<span class="keigo-badge bad">Emotional</span> 大変 (difficult) describes the writer's experience, not the situation. The incoming staff cannot act on this.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>設備不良。修理依頼済み。</code></span><br><br>
-<span class="keigo-badge good">Concise</span> Just facts.
+<span class="keigo-jp"><code>210号室：騒音クレーム。隣室に説明済み。210号室対応済み。</code></span><br><br>
+<span class="keigo-badge good">Factual</span> States what happened and what was done. The incoming staff has all they need.
 </div>
 </div>
 
-## Rule 2: Remove Ambiguous Words
+## Rule 2: Use the Standard Format
 
-Certain words create uncertainty and have no place in handover notes:
-
-<span class="keigo-jp"><code>ちょっと</code></span>, <span class="keigo-jp"><code>たぶん</code></span>, <span class="keigo-jp"><code>〜と思います</code></span>, <span class="keigo-jp"><code>なんか</code></span>
-
-These words make the reader question whether the information is reliable. Delete them from your handover vocabulary entirely.
-
-## Rule 3: Use the Standard Format
-
-Every handover entry follows the same structure so the next shift can scan quickly:
+Every handover entry uses the same structure. This makes scanning fast even under pressure.
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Standard Format</span>
-<strong>[Room / Guest] + [Issue] + [Status]</strong>
-<br><br>
-<span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>210号室：騒音クレームあり。夜間対応済み。</code></span>
+<span class="keigo-card-title">Standard Entry Format</span>
+<strong>[Location/Guest] + [Issue/Request] + [Status]</strong><br><br>
+<span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
+Room 305: AC issue. Repair arranged (planned for tomorrow).<br><br>
+<span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>501号室：延泊希望あり。フロント確認待ち。</code></span><br>
+Room 501: Extension request. Awaiting front desk confirmation.<br><br>
+Three questions this format answers: What happened? To whom? What was done?
 </div>
 
-This format answers three questions: who, what, and what was done. No extra words needed.
+## Rule 3: Remove Ambiguous Words
+
+Certain words belong to casual spoken Japanese and have no place in handover notes. They create uncertainty and signal to the reader that the information may not be reliable.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Banned Vocabulary</span>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>ちょっと</code></span>: softening word; vague<br>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>たぶん</code></span>: "probably"; uncertain<br>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>〜と思います</code></span>: "I think"; expresses opinion, not fact<br>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>なんか</code></span>: filler word; unprofessional<br>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>感じです</code></span>: "it feels like"; vague assessment<br><br>
+If you are not certain about a fact, either verify it before writing or mark it clearly as unconfirmed, not tentative.
+</div>
+
+## Rule 4: Always Include Status
+
+A problem without a status is an incomplete entry. The incoming staff does not know whether to act, wait, or investigate.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>エアコン壊れています</code></span><br>
+"The AC is broken."<br><br>
+<span class="keigo-badge bad">Incomplete</span> Is anyone fixing it? When? Who was informed?
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br><br>
+<span class="keigo-badge good">Complete</span> Problem, action taken, and timeline all present.
+</div>
+</div>
+
+## Rule 5: Name Who Is Responsible
+
+"Someone will handle it" means no one will handle it. Every unresolved item must have a named owner or responsible department.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>誰かが対応する予定です</code></span><br>
+"Someone is planning to handle it."<br><br>
+<span class="keigo-badge bad">No owner</span> Both shifts assume the other is responsible. The task is never done.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span class="keigo-jp"><code>フロント確認待ち</code></span><br>
+<span class="keigo-jp"><code>夜間スタッフ対応予定</code></span><br><br>
+<span class="keigo-badge good">Clear owner</span> The incoming staff knows exactly who is responsible.
+</div>
+</div>
+
+## Rule 6: Write for the Reader, Not for Yourself
+
+Before submitting the handover, read it from the perspective of someone who was not on shift. Ask: can they act on this immediately? If not, rewrite it.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">The Self-Check Question</span>
+"If I were reading this for the first time with no background knowledge, would I know exactly what to do and who to contact?"<br><br>
+If the answer is no, the entry is not finished.
+</div>
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Correct Entry Language</span>
+<span class="keigo-jp"><code>〜：[issue]。[status]。</code></span>: Standard entry format<br>
+<span class="keigo-jp"><code>修理手配済み</code></span>: Repair arranged<br>
+<span class="keigo-jp"><code>フロント確認待ち</code></span>: Awaiting front desk confirmation<br>
+<span class="keigo-jp"><code>夜間スタッフ対応予定</code></span>: Night shift will handle<br>
+<span class="keigo-jp"><code>経過確認要</code></span>: Follow-up recommended<br>
+<span class="keigo-jp"><code>対応済み</code></span>: Already handled
+</div>
 
 ---
 
 ## Quiz
 
-**Which word is NOT allowed in professional hotel handover writing?**
+**A staff member writes: 「たぶん修理される予定です」. What is wrong with this entry?**
 
-- A. 要対応
-- B. 対応済み
-- C. たぶん
-- D. 修理手配済み
+- A. 修理 is the wrong word for repairs
+- B. たぶん is an ambiguous softening word that creates uncertainty; handover notes must state confirmed facts
+- C. The sentence is too short
+- D. It should be written in keigo
 
-**Correct Answer:** C
+**Correct Answer:** B
 
-**Explanation:** たぶん (maybe) is a softening word that creates ambiguity. Handover notes must be factual and unambiguous. Other options are all acceptable operational terms.
-
+**Explanation:** たぶん means "probably" and introduces uncertainty into an operational record. The incoming staff cannot determine whether the repair has been arranged or is merely expected. Handover notes must state only confirmed facts: 修理手配済み (repair arranged) if confirmed, or 修理手配中 (repair being arranged) if still in progress. Vague words like たぶん, ちょっと, and 〜と思います are not permitted in professional handover writing.

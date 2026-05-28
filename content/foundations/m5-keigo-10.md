@@ -1,73 +1,159 @@
 ---
 id: m5-keigo-10
 section: 10
-title: Special Cases and Exceptions
+title: Common Keigo Errors and How to Correct Them
 ---
 
-The basic お/ご rule works most of the time, but it has important exceptions. Some common words use お even though the rule expects ご. Mastering these exceptions is what makes your keigo sound natural and experienced, not just textbook-correct.
+Even experienced hotel staff make recurring keigo errors. Understanding why these errors happen, not just what to avoid, is what builds lasting accuracy. This lesson covers the five most common keigo mistakes in hotel service and gives exact corrections.
 
-## Common Exceptions with お
+## Error 1: Using Plain Verbs for the Guest's Actions
 
-Some 漢語 words use お instead of ご in everyday hotel language:
-
-| Word | Type | Why お? |
-|---|---|---|
-| お電話 | 漢語 | Fixed polite form in service industry |
-| お料理 | 漢語 | Naturalized as a polite set phrase |
-| お掃除 | 漢語 | Common fixed expression |
-| お会計 | 漢語 | Standard in restaurants and hotels |
-| お写真 | 漢語 | Used when referring to guest photos |
-| お返事 | 漢語 | Fixed polite form |
-| お勉強 | 漢語 | set phrase for "studies" |
-
-## Words That Never Take a Prefix
-
-<div class="keigo-card blue">
-<span class="keigo-card-title">Never Add お or ご</span>
-Loanwords (外来語): トイレ, チェック, サービス, フロント, シーツ, エレベーター<br><br>
-Some Japanese words already contain politeness: お母様 (already honorific), おっしゃる (already honorific verb)
-</div>
-
-## Practice: Hotel Scenarios
+This is the most widespread error. Staff use plain or everyday polite forms when describing what the guest does, instead of applying sonkeigo.
 
 <div class="keigo-pair">
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
-<span class="keigo-jp"><code>ご予約についてでございますね。</code></span><br>
-<span class="keigo-jp"><code>お料理のお時間は7時でございます。</code></span><br>
-<span class="keigo-jp"><code>お写真をお撮りしましょうか。</code></span><br>
-<span class="keigo-jp"><code>お部屋のご案内をいたします。</code></span>
-</div>
 <div class="bad-col">
-<span class="keigo-pair-label">Incorrect</span>
-<span class="keigo-jp"><code>ご電話ありがとうございます。</code></span> (wrong prefix)<br>
-<span class="keigo-jp"><code>お予約についてでございますね。</code></span> (wrong prefix)<br>
-<span class="keigo-jp"><code>ご料理のお時間は7時でございます。</code></span> (wrong prefix)<br>
-<span class="keigo-jp"><code>ご写真をお撮りしましょうか。</code></span> (wrong prefix)<br>
-<span class="keigo-jp"><code>ご部屋のご案内をいたします。</code></span> (wrong prefix)
+<span class="keigo-pair-label">Error</span>
+<span class="keigo-jp"><code>お客様は食べましたか？</code></span><br>
+Has the guest eaten?<br><br>
+<span class="keigo-jp"><code>何時に来ますか？</code></span><br>
+What time will you come?<br><br>
+<span class="keigo-badge bad">Why it happens</span> Plain verbs are instinctive. Sonkeigo requires a conscious choice.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correction</span>
+<span class="keigo-jp"><code>お客様はもう召し上がりましたか？</code></span><br>
+Has the guest already eaten?<br><br>
+<span class="keigo-jp"><code>何時頃お越しになりますか？</code></span><br>
+Around what time will you be arriving?<br><br>
+<span class="keigo-badge good">Rule</span> Guest as subject = always 尊敬語 verb.
 </div>
 </div>
 
+## Error 2: Applying Sonkeigo to Staff
+
+Using sonkeigo verbs to describe your own actions or a colleague's actions elevates the staff above or equal to the guest, reversing the hospitality relationship.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error</span>
+<span class="keigo-jp"><code>私がご案内していらっしゃいます。</code></span><br>
+(using sonkeigo for self)<br><br>
+<span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+(using sonkeigo for a colleague)<br><br>
+<span class="keigo-badge bad">Why it happens</span> Confusion about which direction the hierarchy runs.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correction</span>
+<span class="keigo-jp"><code>私がご案内いたします。</code></span><br>
+(kenjogo for self)<br><br>
+<span class="keigo-jp"><code>担当者がおります。</code></span><br>
+(humble form for colleague)<br><br>
+<span class="keigo-badge good">Rule</span> Staff and colleagues = 謙譲語. Only the guest gets 尊敬語.
+</div>
+</div>
+
+## Error 3: Double Keigo (過剰敬語)
+
+Double keigo means stacking two humble forms on top of each other, creating an unnatural expression that sounds excessive rather than polished.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error</span>
+<span class="keigo-jp"><code>お伺いさせていただきます。</code></span><br>
+(お伺い is already humble; adding させていただく is redundant)<br><br>
+<span class="keigo-jp"><code>おっしゃられました。</code></span><br>
+(おっしゃる is already sonkeigo; adding られる is redundant)<br><br>
+<span class="keigo-badge bad">Why it happens</span> Staff trying to be maximally polite end up stacking forms.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correction</span>
+<span class="keigo-jp"><code>お伺いいたします。</code></span><br>
+(one humble layer is correct)<br><br>
+<span class="keigo-jp"><code>おっしゃいました。</code></span><br>
+(sonkeigo verb, no extra passive layer needed)<br><br>
+<span class="keigo-badge good">Rule</span> One keigo form per verb. Stacking two humble or two honorific forms creates over-keigo.
+</div>
+</div>
+
+## Error 4: Mixing Registers Mid-Sentence
+
+A sentence that starts in hotel keigo and drifts into casual or plain language creates an inconsistent tone that guests perceive as unprofessional.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error</span>
+<span class="keigo-jp"><code>少々お待ちください。</code></span><br>
+(お待ち is polite, but くださいませ is the hotel standard, not ください alone)<br><br>
+<span class="keigo-jp"><code>かしこまりました。確認します。</code></span><br>
+(first phrase is high keigo; 確認します is plain)<br><br>
+<span class="keigo-badge bad">Why it happens</span> Fatigue or habit causes the second half of the sentence to revert.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correction</span>
+<span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>
+(consistently hotel-register throughout)<br><br>
+<span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
+(both phrases at hotel keigo level)<br><br>
+<span class="keigo-badge good">Rule</span> Match the register of the entire sentence, from opening word to ending particle.
+</div>
+</div>
+
+## Error 5: Using わかりました Instead of かしこまりました
+
+わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment.
+
 <div class="keigo-card blue">
-<span class="keigo-card-title">Summary</span>
-<span class="keigo-badge info">Rule</span> お for 和語, ご for 漢語<br>
-<span class="keigo-badge info">Exception</span> Some 漢語 words use お (電話, 料理, 掃除, 会計, 写真)<br>
-<span class="keigo-badge info">Never</span> Loanwords never take お or ご
+<span class="keigo-card-title">The Acknowledgment Register Comparison</span>
+
+| Expression | Register | When to Use |
+|---|---|---|
+| わかった | Casual | Never in hotel service |
+| わかりました | Everyday polite | Not appropriate at hotel standard |
+| 承知しました | Business polite | Internal staff communication |
+| かしこまりました | Hotel keigo | Every guest-facing acknowledgment |
+
+<br>
+<span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
+Certainly. I will confirm that right now.
+</div>
+
+## The Underlying Pattern
+
+All five errors have the same root cause: reverting to the language that feels instinctive rather than applying the trained hotel standard.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Why These Errors Persist</span>
+Errors happen most often when staff are:<br>
+- Tired or operating under stress<br>
+- Handling an unexpected situation for the first time<br>
+- Switching between guest interactions quickly<br>
+- Speaking with colleagues and then immediately turning to a guest<br><br>
+The solution is not more vocabulary. It is enough repetition that the hotel forms become the instinctive ones, replacing the casual defaults.
+</div>
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Corrected Forms to Memorize</span>
+<span class="keigo-badge good">Guest eats</span> <span class="keigo-jp"><code>召し上がります</code></span> (not 食べます)<br>
+<span class="keigo-badge good">Staff guides</span> <span class="keigo-jp"><code>ご案内いたします</code></span> (not 案内します)<br>
+<span class="keigo-badge good">Colleague is here</span> <span class="keigo-jp"><code>担当者がおります</code></span> (not いらっしゃいます)<br>
+<span class="keigo-badge good">I will visit</span> <span class="keigo-jp"><code>お伺いいたします</code></span> (not お伺いさせていただきます)<br>
+<span class="keigo-badge good">Certainly</span> <span class="keigo-jp"><code>かしこまりました</code></span> (not わかりました)<br>
+<span class="keigo-badge good">Please wait</span> <span class="keigo-jp"><code>少々お待ちくださいませ</code></span> (not 待ってください)
 </div>
 
 ---
 
 ## Quiz
 
-**Which word correctly takes お instead of ご despite being a 漢語?**
+**A front desk staff member says 「お伺いさせていただきます」. What is the error?**
 
-- A. ご迷惑
-- B. ご利用
-- C. お写真
-- D. おトイレ
+- A. お伺い is incorrect and should be replaced with a different verb
+- B. This is correct and natural hotel keigo
+- C. This is double keigo: お伺い is already a humble form, and adding させていただく creates an over-humble expression
+- D. さていただく should be replaced with くださいませ
 
 **Correct Answer:** C
 
-**Explanation:** 写真 is a 漢語 but is a fixed exception that uses お in hotel language (お写真をお撮りしましょうか). おトイレ is incorrect because loanwords never take a prefix. ご利用 and ご迷惑 correctly follow the ご for 漢語 rule.
-
+**Explanation:** お伺いします is already a fully humble 謙譲語 form. Adding させていただく (another humble expression meaning "to be permitted to do") creates double keigo that sounds excessive and unnatural. The correct form is simply 「お伺いいたします」, which uses one humble layer (お伺い) plus the polished auxiliary いたします. Hotel keigo requires one keigo form per verb, not stacked humility.

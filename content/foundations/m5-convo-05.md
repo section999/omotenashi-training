@@ -6,7 +6,7 @@ title: Restaurant and Dining Service Situations
 
 Restaurant service within a hotel presents unique language demands. Unlike a standalone restaurant, hotel dining staff often serve guests who are tired, unfamiliar with the menu, or in a hurry before an event. The language of hotel restaurant service must be welcoming without being overwhelming, efficient without feeling rushed.
 
-This lesson covers the complete flow of a hotel restaurant interaction — from seating to bill — with the specific keigo appropriate to each stage.
+This lesson covers the complete flow of a hotel restaurant interaction, from seating to bill, with the specific keigo appropriate to each stage.
 
 ## Seating a Guest
 
@@ -35,7 +35,7 @@ Have you decided on your order?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>サーモンのグリルと白ワインをお願いします。</code></span><br>
 Grilled salmon and a white wine, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>サーモンのグリルと白ワインでございますね。かしこまりました。</code></span><br>
-Grilled salmon and white wine — certainly.<br><br>
+Grilled salmon and white wine, certainly.<br><br>
 <span class="keigo-jp"><code>アレルギーや苦手なものはございますでしょうか。</code></span><br>
 Do you have any allergies or foods you prefer to avoid?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>特にありません。</code></span><br>
@@ -73,7 +73,7 @@ Checking in once during the meal shows attentiveness. However, checking too freq
 <div class="keigo-card blue">
 <span class="keigo-card-title">Dietary Request Script</span>
 <strong>Guest:</strong> <span class="keigo-jp"><code>アレルギーがあるので、ナッツを使わないものをお願いしたいのですが。</code></span><br>
-I have allergies — could I get something without nuts?<br><br>
+I have allergies, could I get something without nuts?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。シェフに確認いたします。少々お待ちくださいませ。</code></span><br>
 Certainly. I will check with the chef. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お待たせいたしました。〜のメニューはナッツを使用しておりませんのでご安心くださいませ。</code></span><br>
@@ -98,12 +98,12 @@ Thank you very much for dining with us. We look forward to serving you again.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Restaurant Service Key Phrases</span>
-<span class="keigo-jp"><code>何名様でしょうか</code></span> — How many guests?<br><br>
-<span class="keigo-jp"><code>こちらへどうぞ</code></span> — Please follow me this way.<br><br>
-<span class="keigo-jp"><code>ご注文はお決まりでしょうか</code></span> — Have you decided on your order?<br><br>
-<span class="keigo-jp"><code>アレルギーや苦手なものはございますでしょうか</code></span> — Any allergies or dietary restrictions?<br><br>
-<span class="keigo-jp"><code>お待たせいたしました。〜でございます</code></span> — Thank you for waiting. Here is your 〜.<br><br>
-<span class="keigo-jp"><code>ごゆっくりお召し上がりくださいませ</code></span> — Please enjoy your meal at your leisure.
+<span class="keigo-jp"><code>何名様でしょうか</code></span>: How many guests?<br><br>
+<span class="keigo-jp"><code>こちらへどうぞ</code></span>: Please follow me this way.<br><br>
+<span class="keigo-jp"><code>ご注文はお決まりでしょうか</code></span>: Have you decided on your order?<br><br>
+<span class="keigo-jp"><code>アレルギーや苦手なものはございますでしょうか</code></span>: Any allergies or dietary restrictions?<br><br>
+<span class="keigo-jp"><code>お待たせいたしました。〜でございます</code></span>: Thank you for waiting. Here is your 〜.<br><br>
+<span class="keigo-jp"><code>ごゆっくりお召し上がりくださいませ</code></span>: Please enjoy your meal at your leisure.
 </div>
 
 ---

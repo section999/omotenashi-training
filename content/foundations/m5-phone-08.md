@@ -1,10 +1,10 @@
 ---
 id: m5-phone-08
 section: 8
-title: Complaint Calls — De-escalation Protocol
+title: Complaint Calls, De-escalation Protocol
 ---
 
-Complaint calls are the highest emotional risk scenario in hotel telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem — they are communicating that their experience did not meet expectations.
+Complaint calls are the highest emotional risk scenario in hotel telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem, they are communicating that their experience did not meet expectations.
 
 The staff member's primary goal is **not to solve the problem immediately**. It is to stabilize the guest's emotional state first. An upset guest cannot process solutions. A calm guest can.
 
@@ -21,10 +21,10 @@ If staff skip to "solutions" before the guest feels heard, the emotional tension
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">4-A Complaint Framework</span>
-<span class="keigo-badge info">1. Apologize</span> — Express genuine regret immediately, before asking any questions<br>
-<span class="keigo-badge info">2. Acknowledge</span> — Confirm you understand what the guest has experienced<br>
-<span class="keigo-badge info">3. Act</span> — State clearly what action will be taken, and when<br>
-<span class="keigo-badge info">4. Assure</span> — Confirm the situation will be resolved and that the guest can rely on the staff
+<span class="keigo-badge info">1. Apologize</span>: Express genuine regret immediately, before asking any questions<br>
+<span class="keigo-badge info">2. Acknowledge</span>: Confirm you understand what the guest has experienced<br>
+<span class="keigo-badge info">3. Act</span>: State clearly what action will be taken, and when<br>
+<span class="keigo-badge info">4. Assure</span>: Confirm the situation will be resolved and that the guest can rely on the staff
 </div>
 
 ## Noise Complaint Script
@@ -61,13 +61,13 @@ While we are resolving this, please let us know if there is anything we can prov
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Defensive — Escalates the situation</span>
+<span class="keigo-pair-label">Defensive, Escalates the situation</span>
 <span class="keigo-jp"><code>それはですね…</code></span>
 <br><em>"Well, about that..."</em><br><br>
 <span class="keigo-badge bad">Why it fails</span> Signals defensiveness before hearing the complaint fully. The guest feels they are about to be argued with.
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">Calm — De-escalates immediately</span>
+<span class="keigo-pair-label">Calm, De-escalates immediately</span>
 <span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span>
 <br><em>"I sincerely apologize for the inconvenience."</em><br><br>
 <span class="keigo-badge good">Why it works</span> The guest's frustration is acknowledged before any explanation. Emotional pressure releases immediately.

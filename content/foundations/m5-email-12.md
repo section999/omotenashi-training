@@ -1,50 +1,100 @@
 ---
 id: m5-email-12
 section: 12
-title: Matching Openings and Closings
+title: Cancellation Handling Template
 ---
 
-The opening and closing of a hotel email must match in tone. A mismatch breaks the reader's trust, making the message feel careless or immature.
+Cancellation emails serve a dual purpose: they confirm the cancellation administratively and preserve the guest relationship for future visits. Even when a guest cancels, how the hotel responds can be the difference between a guest who never returns and one who books again.
 
-<div class="keigo-pair">
-<div class="good-col">
-<span class="keigo-pair-label">Natural Pair</span>
-<strong>Opening:</strong><br>
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span>
-<br><br>
-<strong>Closing:</strong><br>
-<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span>
-<br><br>
-<span class="keigo-badge good">Balanced</span> Both expressions are formal and balanced.
-</div>
-<div class="bad-col">
-<span class="keigo-pair-label">Unnatural Pair</span>
-<strong>Opening:</strong><br>
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span>
-<br><br>
-<strong>Closing:</strong><br>
-<span class="keigo-jp"><code>よろしくです！</code></span>
-<br><br>
-<span class="keigo-badge bad">Inconsistent</span> Sudden shift from formal to casual.
-</div>
+## What This Email Must Accomplish
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Goals of a Cancellation Response</span>
+<strong>1. Confirm:</strong> State clearly that the cancellation has been processed.<br>
+<strong>2. Acknowledge fee if applicable:</strong> Communicate cancellation fees, if any, in a professional and non-confrontational way.<br>
+<strong>3. Preserve relationship:</strong> End with warmth that keeps the door open for a future booking.
 </div>
 
-Guests are especially sensitive to tone balance, politeness consistency, and emotional flow. A single mismatched closing can undo the professionalism built throughout the email.
+## Template 1: Simple Cancellation (No Fee)
 
-The rule is simple: formal opening leads to formal closing, warm opening leads to warm closing, and an apology opening leads to a careful, supportive closing. Tone consistency is not a minor detail. It is a core skill in professional hospitality writing.
+<div class="keigo-card blue">
+<span class="keigo-card-title">件名 (Subject)</span>
+<span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span>
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+Thank you for contacting us.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body: Confirmation</span>
+<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
+We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
+<span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
+No cancellation fee has been charged.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
+We hope to have the opportunity to welcome you again. We look forward to your future visit.
+</div>
+
+## Template 2: Cancellation with Fee
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">件名 (Subject)</span>
+<span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span>
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span>
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body: Cancellation Confirmation</span>
+<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
+We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body: Fee Communication</span>
+<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
+We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
+<span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
+Cancellation fee: [Amount] yen (equivalent to 1 night of [Date] check-in)<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
+If you have any questions, please feel free to contact us.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
+We hope to have the opportunity to welcome you again.
+</div>
+
+## Key Phrase: 誠に恐れ入りますが
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Communicating Fees Professionally</span>
+<span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: "I am truly sorry to say, but..."<br>
+This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.
+</div>
 
 ---
 
 ## Quiz
 
-**What happens when a formal opening is paired with a casual closing in a hotel email?**
+**A guest cancels a reservation that incurs a fee. How should the cancellation email communicate the fee?**
 
-- A. The email sounds awkward and inconsistent
-- B. The guest feels more comfortable
-- C. The email looks shorter
-- D. The email becomes more friendly
+- A. 「キャンセル料を払ってください」
+- B. 「誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします」
+- C. 「キャンセル料はありません」(when there is a fee)
+- D. Say nothing about the fee and send a bill separately
 
-**Correct Answer:** A
+**Correct Answer:** B
 
-**Explanation:** Guests are sensitive to tone balance. A sudden shift from formal to casual creates inconsistency and sounds poorly written.
-
+**Explanation:** 誠に恐れ入りますが acknowledges the inconvenience of the fee while maintaining a professional tone. ご予約条件に基づき (based on the reservation terms) frames the fee as a policy rather than a personal decision, which reduces the guest's sense of grievance. Option A (キャンセル料を払ってください) is too direct and sounds demanding. Option C is dishonest. Option D leaves the guest uninformed and creates distrust when the unexpected bill arrives.

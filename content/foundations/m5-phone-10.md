@@ -8,7 +8,7 @@ This lesson covers the three remaining pillars of hotel telephone mastery: handl
 
 ## Emergency Call Protocol
 
-Emergency calls — power failure, medical concern, fire alarm, injury — require a response that is the opposite of natural instinct. The human instinct in an emergency is to react with urgency, ask many questions, and show concern vocally. In hotel telephone service, this is exactly what must be avoided.
+Emergency calls, power failure, medical concern, fire alarm, injury, require a response that is the opposite of natural instinct. The human instinct in an emergency is to react with urgency, ask many questions, and show concern vocally. In hotel telephone service, this is exactly what must be avoided.
 
 **Staff must act as a stabilizing force.** If the staff member sounds panicked or confused, the guest's anxiety immediately increases. The call must project calm and controlled authority from the first word.
 
@@ -77,18 +77,18 @@ Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of sil
 <div class="keigo-card blue">
 <span class="keigo-card-title">Core Principle</span>
 "In a telephone call, my voice is the hotel."<br><br>
-There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration — it is the operational reality.
+There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration, it is the operational reality.
 </div>
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">The 4 C's of Professional Telephone Communication</span>
-<span class="keigo-badge info">Clarity</span> — over speed. Speak clearly enough for the guest to follow without strain.<br><br>
-<span class="keigo-badge info">Structure</span> — over natural speech. Follow the 7-step framework; do not improvise.<br><br>
-<span class="keigo-badge info">Calm</span> — over enthusiasm. The goal is reassurance, not energy.<br><br>
-<span class="keigo-badge info">Consistency</span> — over variation. Every call should sound the same. Guests trust predictability.
+<span class="keigo-badge info">Clarity</span>: over speed. Speak clearly enough for the guest to follow without strain.<br><br>
+<span class="keigo-badge info">Structure</span>: over natural speech. Follow the 7-step framework; do not improvise.<br><br>
+<span class="keigo-badge info">Calm</span>: over enthusiasm. The goal is reassurance, not energy.<br><br>
+<span class="keigo-badge info">Consistency</span>: over variation. Every call should sound the same. Guests trust predictability.
 </div>
 
-The goal of hotel telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable** — the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
+The goal of hotel telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable**, the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
 
 ## Key Phrases
 
@@ -106,7 +106,7 @@ Are you able to stay on the line?
 
 ## Quiz
 
-**A guest calls to report a power outage in their room. The staff member's first response is "えっ、どうしましょう！" — what is the problem with this response?**
+**A guest calls to report a power outage in their room. The staff member's first response is "えっ、どうしましょう！", what is the problem with this response?**
 
 - A. It is grammatically incorrect
 - B. It shows genuine concern, which guests appreciate

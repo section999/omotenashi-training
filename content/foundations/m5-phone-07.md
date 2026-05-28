@@ -1,10 +1,10 @@
 ---
 id: m5-phone-07
 section: 7
-title: Schedule-Based Requests — Wake-up Calls, Taxis, Late Arrivals
+title: Schedule-Based Requests, Wake-up Calls, Taxis, Late Arrivals
 ---
 
-Wake-up calls, taxi arrangements, and late arrival notices share a common characteristic: they are **time-critical**. An error in the time — even by one hour — directly affects the guest's schedule and can cause serious operational failures. For this reason, all schedule-based requests follow the same rule: **every time must be repeated clearly and logged immediately**.
+Wake-up calls, taxi arrangements, and late arrival notices share a common characteristic: they are **time-critical**. An error in the time, even by one hour, directly affects the guest's schedule and can cause serious operational failures. For this reason, all schedule-based requests follow the same rule: **every time must be repeated clearly and logged immediately**.
 
 ## Wake-up Call Requests
 
@@ -19,7 +19,7 @@ Certainly. May I ask for the time you would like?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>明日の朝6時です。</code></span><br>
 Tomorrow morning at 6:00.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>明日の朝6時のモーニングコールで承りました。お部屋番号をお伺いしてもよろしいでしょうか。</code></span><br>
-A wake-up call for tomorrow at 6:00 AM — noted. May I confirm your room number?<br><br>
+A wake-up call for tomorrow at 6:00 AM, noted. May I confirm your room number?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>702号室です。</code></span><br>
 Room 702.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>702号室、明日の朝6時にご連絡いたします。どうぞよろしくお願いいたします。</code></span><br>
@@ -46,7 +46,7 @@ Certainly. I will arrange a taxi to Tokyo Station for 3:00 PM. We will notify yo
 
 ## Late Arrival Notices
 
-Without accurate late arrival records, rooms may be released during night audit — creating a situation where a paying guest arrives to find no room available. This is an irreversible operational failure.
+Without accurate late arrival records, rooms may be released during night audit, creating a situation where a paying guest arrives to find no room available. This is an irreversible operational failure.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Late Arrival Script</span>
@@ -71,7 +71,7 @@ Around 11:00 PM. Understood. We will expect you at the front desk. May I also co
 | Late arrival | 11pm not logged | Room released; no-show recorded |
 </div>
 
-Unlike other service errors that can be corrected, time-based failures often cannot be undone. The guest's schedule has already been affected. This is why **repeating the time is not a formality — it is the most critical verification step in schedule-based calls**.
+Unlike other service errors that can be corrected, time-based failures often cannot be undone. The guest's schedule has already been affected. This is why **repeating the time is not a formality, it is the most critical verification step in schedule-based calls**.
 
 ## Key Phrases
 
@@ -100,4 +100,4 @@ May I ask your estimated arrival time?
 
 **Correct Answer:** B
 
-**Explanation:** Repeating the time immediately after the guest states it gives them a clear moment to correct any misunderstanding. A wake-up call at the wrong time can cause the guest to miss a flight or meeting — consequences that cannot be undone. Time repetition in schedule-based requests is not a formality; it is the final safety check before logging.
+**Explanation:** Repeating the time immediately after the guest states it gives them a clear moment to correct any misunderstanding. A wake-up call at the wrong time can cause the guest to miss a flight or meeting, consequences that cannot be undone. Time repetition in schedule-based requests is not a formality; it is the final safety check before logging.

@@ -8,19 +8,19 @@ Transfers, holds, and callbacks are moments where guests are most likely to feel
 
 ## Transfer Protocol
 
-Transferring a call is not a handoff — it is coordination. The framing of the transfer determines whether the guest feels abandoned or supported.
+Transferring a call is not a handoff, it is coordination. The framing of the transfer determines whether the guest feels abandoned or supported.
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Mechanical</span>
 <span class="keigo-jp"><code>回します。</code></span>
-<br><em>まわします — I'll put you through.</em><br><br>
+<br><em>まわします, I'll put you through.</em><br><br>
 <span class="keigo-badge bad">Problem</span> Sounds like the guest is being handed off as a task. Informal and impersonal. The guest feels processed, not served.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Professional</span>
 <span class="keigo-jp"><code>レストランへおつなぎいたします。</code></span>
-<br><em>o-tsunagi itashimasu — I will connect you to the restaurant.</em><br><br>
+<br><em>o-tsunagi itashimasu, I will connect you to the restaurant.</em><br><br>
 <span class="keigo-badge good">Why it works</span> 繋ぐ (tsunagu) means "to connect," which frames the transfer as maintaining a link rather than ending one. The guest feels guided.
 </div>
 </div>
@@ -40,7 +40,7 @@ When transferring, **always state the destination before placing the guest on ho
 
 ## Hold Management
 
-Holds are moments of silence — and silence creates anxiety. The staff member must manage hold time actively:
+Holds are moments of silence, and silence creates anxiety. The staff member must manage hold time actively:
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Entering a Hold</span>
@@ -53,11 +53,11 @@ I will check on that, please wait a moment.<br><br>
 <span class="keigo-card-title">Returning from a Hold</span>
 <span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
 Thank you very much for waiting.<br><br>
-<span class="keigo-badge info">Rule</span> Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment — the guest's patience is genuinely recognized.
+<span class="keigo-badge info">Rule</span> Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment, the guest's patience is genuinely recognized.
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-card-title">Extended Hold — Check-in While Waiting</span>
+<span class="keigo-card-title">Extended Hold, Check-in While Waiting</span>
 If the check takes longer than expected, return to the line briefly:<br><br>
 <span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
 I am sorry to keep you waiting. Could I ask for just a little more time?<br><br>
@@ -84,7 +84,7 @@ We will call you within 30 minutes.
 
 <div class="keigo-card blue">
 <span class="keigo-card-title">Core Principle</span>
-The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback — the hotel must feel like a single, organized entity. The guest's request does not get "passed" — it gets "coordinated."<br><br>
+The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback, the hotel must feel like a single, organized entity. The guest's request does not get "passed", it gets "coordinated."<br><br>
 Every transfer, hold, and callback is a test of whether the hotel operates as one system or as disconnected departments.
 </div>
 

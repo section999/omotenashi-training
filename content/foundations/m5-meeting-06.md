@@ -1,103 +1,116 @@
 ---
 id: m5-meeting-06
 section: 6
-title: Common Mistakes in Handover
+title: Verbal Handover and Shift Briefings
 ---
 
-Even experienced staff make these mistakes. Recognizing them is the first step to writing professional handover notes.
+Written handover notes cover what happened during the shift. Verbal handover is what happens face-to-face when the outgoing staff briefs the incoming team. Both are required for professional shift transitions. This lesson covers the structure and language of verbal briefings.
 
-## Mistake 1: Writing Like Conversation
+## Why Verbal Handover Matters
 
-The biggest difference between spoken Japanese and handover writing is structure. Speaking uses fillers, softeners, and incomplete sentences. Handover notes cannot.
+Written notes capture facts. Verbal briefings add the nuance that notes cannot easily convey: tone of voice, the level of urgency, the emotional state of a difficult guest, or the context behind an unusual decision.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>お客様がちょっと怒ってて...</code></span>
-<br><br>
-<span class="keigo-badge bad">Conversational</span> Uses ちょっと, trailing て-form, and no clear status. The next shift cannot act on this.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct Approach</span>
-State what happened and what was done. Example: <span class="keigo-jp"><code>210号室：騒音クレーム対応済み。</code></span><br><br>
-<span class="keigo-badge good">Structured</span> Room, issue, action. No emotions, no filler.
-</div>
+<div class="keigo-card blue">
+<span class="keigo-card-title">What Verbal Briefings Add</span>
+<span class="keigo-badge info">Urgency cues</span> "This guest is expecting a callback in the next 30 minutes"<br>
+<span class="keigo-badge info">Context</span> "The noise complaint was resolved, but the guest seemed unsatisfied"<br>
+<span class="keigo-badge info">Judgment guidance</span> "If the VIP in 305 calls, escalate immediately to the manager"<br>
+<span class="keigo-badge info">Real-time updates</span> Information that occurred in the last few minutes before handover
 </div>
 
-Handover writing must be formal and structured, not conversational. If it sounds like something you would say aloud, it is probably wrong.
+## The Verbal Briefing Structure
 
-## Mistake 2: Missing Status Information
+A verbal briefing follows the same five-section order as written notes: priority guests first, then active problems, room status, pending tasks, and special notes.
 
-A problem without a status is incomplete. The next shift does not know whether the issue is solved, being worked on, or waiting for someone.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>エアコン壊れています</code></span>
-<br><br>
-<span class="keigo-badge bad">Incomplete</span> The AC is broken. Now what? Is anyone fixing it? When?
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct Approach</span>
-Always include status: <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）</code></span><br><br>
-<span class="keigo-badge good">Complete</span> Problem, action taken, and timeline are all clear.
-</div>
+<div class="keigo-card blue">
+<span class="keigo-card-title">Verbal Briefing Opening</span>
+<span class="keigo-jp"><code>では、引き継ぎをお伝えいたします。</code></span><br>
+I will now brief you on the handover.<br><br>
+<span class="keigo-jp"><code>まず、最優先事項からご説明いたします。</code></span><br>
+I will start with the priority items.<br><br>
+Using a clear opening signals to the incoming staff that the briefing has begun and they should focus.
 </div>
 
-A complete handover entry answers: what is the issue, what has been done, who is responsible, and what happens next.
+## Key Verbal Phrases by Section
 
-## Mistake 3: Emotional Language
-
-Emotions do not help the next shift do their job. Words like 大変, ひどい, 困った describe how you felt, not what happened.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>かなり大変なクレームでした</code></span>
-<br><br>
-<span class="keigo-badge bad">Emotional</span> 大変 tells the next shift nothing useful. How should they prepare? What was the actual issue?
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct Approach</span>
-Describe the facts: <span class="keigo-jp"><code>隣室の騒音クレーム。210号室対応済み。305号室に説明済み。</code></span><br><br>
-<span class="keigo-badge good">Factual</span> The next shift knows exactly what happened and to which rooms.
-</div>
+<div class="keigo-card blue">
+<span class="keigo-card-title">Priority Guests Section</span>
+<span class="keigo-jp"><code>305号室の山田様がVIPでいらっしゃいます。</code></span><br>
+Mr./Ms. Yamada in Room 305 is a VIP guest.<br><br>
+<span class="keigo-jp"><code>到着時は必ずマネージャーが対応するようにお願いします。</code></span><br>
+Please make sure a manager handles the arrival.<br><br>
+<span class="keigo-jp"><code>クレームが1件継続中です。詳細は申し送りにございます。</code></span><br>
+One complaint is still ongoing. The details are in the written notes.
 </div>
 
-If you are tempted to write how you feel, stop and ask: "Does this help the next person act?" If not, delete it.
-
-## Mistake 4: Vague Responsibility
-
-"Someone will handle it" means no one will handle it. Handover notes must assign clear ownership for every action item.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>誰かが対応する予定です</code></span>
-<br><br>
-<span class="keigo-badge bad">No owner</span> This is an operational risk. If everyone assumes someone else will do it, the task falls through.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct Approach</span>
-Name the person or department: <span class="keigo-jp"><code>フロント確認待ち</code></span> or <span class="keigo-jp"><code>夜間スタッフ対応予定</code></span><br><br>
-<span class="keigo-badge good">Clear ownership</span> The next shift knows exactly who is responsible.
-</div>
+<div class="keigo-card blue">
+<span class="keigo-card-title">Active Problems Section</span>
+<span class="keigo-jp"><code>210号室の騒音クレームは夜間対応済みですが、経過の確認をお願いします。</code></span><br>
+The noise complaint for Room 210 was handled during the night shift, but please check in on it.<br><br>
+<span class="keigo-jp"><code>305号室のエアコンは明日修理予定です。今夜もし連絡があればすぐ対応を。</code></span><br>
+Room 305's AC repair is scheduled for tomorrow. If they call tonight, please attend to it immediately.
 </div>
 
-If you cannot name who will handle it, the handover is not complete.
+<div class="keigo-card blue">
+<span class="keigo-card-title">Pending Tasks Section</span>
+<span class="keigo-jp"><code>501号室の延泊については、フロントからまだ確認が取れていません。本日中にご対応をお願いします。</code></span><br>
+The extension request for Room 501 has not been confirmed by the front desk yet. Please handle it today.<br><br>
+<span class="keigo-jp"><code>これが本日の未対応タスク一覧です。優先順位をご確認ください。</code></span><br>
+Here is today's list of pending tasks. Please check the priority order.
+</div>
+
+## Closing the Verbal Briefing
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Closing Phrases</span>
+<span class="keigo-jp"><code>以上が本日の引き継ぎ事項です。何かご不明な点はございますか。</code></span><br>
+That concludes today's handover. Do you have any questions?<br><br>
+<span class="keigo-jp"><code>詳細は申し送りをご確認くださいませ。何かあればすぐにご連絡ください。</code></span><br>
+Please check the written notes for details. Contact me immediately if anything comes up.<br><br>
+<span class="keigo-jp"><code>本日もよろしくお願いいたします。</code></span><br>
+I am counting on you for today's shift.
+</div>
+
+## Receiving the Briefing
+
+The incoming staff also has responsibilities during a verbal briefing. Passive listening is not enough.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Incoming Staff Phrases</span>
+<span class="keigo-jp"><code>かしこまりました。</code></span><br>
+Understood.<br><br>
+<span class="keigo-jp"><code>〜は、〜ということでよろしいでしょうか。</code></span><br>
+Regarding 〜, I understand it means 〜. Is that correct?<br><br>
+<span class="keigo-jp"><code>501号室の延泊確認は、本日15時までに必要でしょうか。</code></span><br>
+Does the extension confirmation for Room 501 need to be done by 15:00 today?<br><br>
+<span class="keigo-jp"><code>承りました。</code></span><br>
+I have received the briefing.<br><br>
+The incoming staff should confirm unclear items during the briefing, not after the outgoing staff has left.
+</div>
+
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Verbal Briefing Core Expressions</span>
+<span class="keigo-jp"><code>では、引き継ぎをお伝えいたします</code></span>: Starting the briefing<br>
+<span class="keigo-jp"><code>経過の確認をお願いします</code></span>: Please follow up on this<br>
+<span class="keigo-jp"><code>本日中にご対応をお願いします</code></span>: Please handle this today<br>
+<span class="keigo-jp"><code>以上が本日の引き継ぎ事項です</code></span>: Closing the briefing<br>
+<span class="keigo-jp"><code>何かご不明な点はございますか</code></span>: Any questions?<br>
+<span class="keigo-jp"><code>承りました</code></span>: Received and understood
+</div>
 
 ---
 
 ## Quiz
 
-**Why is emotional language prohibited in hotel handover notes?**
+**During a verbal briefing, the outgoing staff says: 「501号室の延泊はフロント確認待ちです」. What should the incoming staff say next?**
 
-- A. Handover must be factual and actionable, not emotional
-- B. Only managers can use emotional language
-- C. It is acceptable in some cases
-- D. It takes too long to write
+- A. 「わかりました」
+- B. 「それは誰かが対応する予定ですか」
+- C. 「承りました。確認はいつまでに必要でしょうか。」
+- D. Nothing; the incoming staff only needs to listen
 
-**Correct Answer:** A
+**Correct Answer:** C
 
-**Explanation:** Handover notes must be objective and actionable. Emotional language like かなり大変 (very tough) does not convey clear operational information and is unprofessional.
-
+**Explanation:** When receiving a verbal briefing, the incoming staff should confirm unclear details immediately. 承りました (I have received this) is the appropriate acknowledgment at hotel standard, and asking いつまでに必要でしょうか (when does it need to be done by?) ensures the task has a clear deadline before the briefing ends. Option A (わかりました) is below hotel keigo standard. Option B suggests the incoming staff does not understand their own responsibility. Passive listening without confirming key details is not professional.

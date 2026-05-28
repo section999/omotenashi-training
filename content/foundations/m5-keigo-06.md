@@ -1,146 +1,143 @@
 ---
 id: m5-keigo-06
 section: 6
-title: Real Front Desk Examples
+title: Honorific Prefixes お and ご
 ---
 
-## Case 1: Asking for Guest Name
+In hotel keigo, the prefixes お and ご are added to nouns and verb stems to create a polished, guest-oriented tone. These prefixes signal that the speaker is treating the listener with respect. Choosing the wrong prefix sounds unnatural and can undermine otherwise correct keigo.
+
+## The Basic Rule
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">お vs ご</span>
+<span class="keigo-badge info">お</span> Used with <strong>native Japanese words</strong> (和語 / wago). These words have kun'yomi readings.<br>
+Examples: <span class="keigo-jp"><code>お部屋</code></span> (へや), <span class="keigo-jp"><code>お荷物</code></span> (にもつ), <span class="keigo-jp"><code>お水</code></span> (みず)<br><br>
+<span class="keigo-badge info">ご</span> Used with <strong>Chinese-origin words</strong> (漢語 / kango). These words have on'yomi readings and often appear as two-kanji compounds.<br>
+Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <span class="keigo-jp"><code>ご確認</code></span> (かくにん), <span class="keigo-jp"><code>ご利用</code></span> (りよう)
+</div>
+
+## Common Hotel Words with お
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">お Prefix: Native Japanese Words</span>
+
+| With お | Plain Form | English |
+|---|---|---|
+| お部屋 | 部屋 | room |
+| お荷物 | 荷物 | luggage |
+| お水 | 水 | water |
+| お酒 | 酒 | alcohol |
+| お茶 | 茶 | tea |
+| お食事 | 食事 | meal |
+| お風呂 | 風呂 | bath |
+| お手洗い | 手洗い | restroom |
+| お名前 | 名前 | name |
+| お布団 | 布団 | futon |
+
+</div>
+
+## Common Hotel Words with ご
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">ご Prefix: Chinese-Origin Words</span>
+
+| With ご | Plain Form | English |
+|---|---|---|
+| ご予約 | 予約 | reservation |
+| ご確認 | 確認 | confirmation |
+| ご連絡 | 連絡 | contact |
+| ご利用 | 利用 | use of service |
+| ご案内 | 案内 | guidance |
+| ご希望 | 希望 | request / wish |
+| ご到着 | 到着 | arrival |
+| ご滞在 | 滞在 | stay |
+| ご不明 | 不明 | unclear point |
+| ご意見 | 意見 | opinion |
+
+</div>
+
+## Exceptions: 漢語 Words That Take お
+
+Some Chinese-origin words have become fixed polite expressions with お in the service industry. These are not constructed by rule; they must be memorized.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Fixed Exceptions with お</span>
+
+| Word | Type | English |
+|---|---|---|
+| お電話 | 漢語 | telephone call |
+| お料理 | 漢語 | cooking / food |
+| お会計 | 漢語 | bill / payment |
+| お掃除 | 漢語 | cleaning |
+| お写真 | 漢語 | photograph |
+| お返事 | 漢語 | reply |
+| お時間 | 漢語 | time (polite) |
+
+These are fixed hotel phrases. Use お電話, not ご電話. Use お会計, not ご会計.
+</div>
+
+## Words That Never Take a Prefix
+
+Loanwords (外来語) from English and other languages never take お or ご. Adding a prefix to a loanword sounds incorrect.
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">No Prefix for Loanwords</span>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おチェックイン / ごチェックイン</code></span><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おサービス / ごサービス</code></span><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おエレベーター</code></span><br><br>
+<span class="keigo-badge good">Correct</span> チェックイン, サービス, エレベーター (no prefix)<br><br>
+Instead of adding a prefix, use the word in a keigo sentence structure:<br>
+<span class="keigo-jp"><code>エレベーターはこちらでございます。</code></span>
+</div>
+
+## Common Prefix Mistakes
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Weak Service</span>
-<span class="keigo-jp"><code>お名前は？</code></span>
-<br><br>
-Too short, too direct, not hospitality-level
+<span class="keigo-pair-label">Wrong prefix</span>
+<span class="keigo-jp"><code>ご部屋</code></span> (部屋 is 和語, use お)<br>
+<span class="keigo-jp"><code>お予約</code></span> (予約 is 漢語, use ご)<br>
+<span class="keigo-jp"><code>お確認</code></span> (確認 is 漢語, use ご)<br>
+<span class="keigo-jp"><code>ご電話</code></span> (fixed exception, use お)<br>
+<span class="keigo-jp"><code>ごエレベーター</code></span> (loanword, no prefix)
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">Professional Hotel Style</span>
-<span class="keigo-jp"><code>ご予約のお名前をお伺いしてもよろしいでしょうか</code></span>
-<br><br>
-Softens the request, shows humility, sounds calm and professional
+<span class="keigo-pair-label">Correct prefix</span>
+<span class="keigo-jp"><code>お部屋</code></span><br>
+<span class="keigo-jp"><code>ご予約</code></span><br>
+<span class="keigo-jp"><code>ご確認</code></span><br>
+<span class="keigo-jp"><code>お電話</code></span><br>
+<span class="keigo-jp"><code>エレベーター</code></span>
 </div>
 </div>
-
-## Case 2: Asking Guest to Wait
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Casual</span>
-<span class="keigo-jp"><code>ちょっと待ってください</code></span>
-<br><br>
-Sounds conversational, can feel abrupt
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>少々お待ちくださいませ</code></span>
-<br><br>
-Softens waiting request, maintains elegant atmosphere
-</div>
-</div>
-
-## Case 3: Giving Room Information
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Plain</span>
-<span class="keigo-jp"><code>603号室です</code></span>
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>603号室でございます</code></span>
-</div>
-</div>
-
-Sounds more refined and polished.
-
-## Case 4: Offering Assistance
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Casual</span>
-<span class="keigo-jp"><code>何かあったら言ってください</code></span>
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>何かございましたらお申し付けくださいませ</code></span>
-</div>
-</div>
-
-Sounds attentive and service-oriented.
-
-## Case 5: Reservation Confirmation
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Weak</span>
-<span class="keigo-jp"><code>2泊ですね</code></span>
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>2泊で承っております</code></span>
-</div>
-</div>
-
-Sounds operationally professional, shows the hotel is formally managing the reservation.
-
-## Case 6: Checkout Farewell
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Casual</span>
-<span class="keigo-jp"><code>またどうぞ</code></span>
-<br><br>
-Sounds abrupt and dismissive as a farewell
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>またのお越しをお待ちしております</code></span>
-<br><br>
-Leaves a warm final impression
-</div>
-</div>
-
-Pair with: <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span> (Please take care on your way home) for a complete checkout send-off.
-
-## Case 7: Dining Service: Presenting a Dish
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Too Plain</span>
-<span class="keigo-jp"><code>これ、おすすめです</code></span>
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Hotel Standard</span>
-<span class="keigo-jp"><code>こちらが本日のおすすめでございます</code></span>
-</div>
-</div>
-
-でございます elevates even simple information delivery. Follow with: <span class="keigo-jp"><code>召し上がりますか？</code></span> (sonkeigo) rather than <span class="keigo-jp"><code>食べますか？</code></span> to honour the guest's action of eating.
 
 ## Key Phrases
 
-| Japanese | English | Situation |
-|---|---|---|
-| ご予約のお名前をお伺いしてもよろしいでしょうか。| May I ask the name on your reservation? | Name inquiry : check-in |
-| 少々お待ちくださいませ。| Please wait just a moment. | Asking to wait |
-| 603号室でございます。| Your room is 603. | Giving room info |
-| 何かございましたらお申し付けくださいませ。| Please let us know if you need anything. | Offering help |
-| 2泊で承っております。| We have you booked for 2 nights. | Confirming a reservation |
-| またのお越しをお待ちしております。| We look forward to your next visit. | Checkout farewell |
-| こちらが本日のおすすめでございます。| This is today's recommendation. | Dining service |
+<div class="keigo-card blue">
+<span class="keigo-card-title">Prefix Examples in Full Hotel Sentences</span>
+<span class="keigo-jp"><code>お荷物をお預かりいたします。</code></span><br>
+I will hold your luggage.<br><br>
+<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
+I have confirmed your reservation.<br><br>
+<span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
+Thank you for calling.<br><br>
+<span class="keigo-jp"><code>ご不明な点はございますか。</code></span><br>
+Do you have any questions?<br><br>
+<span class="keigo-jp"><code>お会計はこちらでございます。</code></span><br>
+Here is your bill.
+</div>
 
 ---
 
 ## Quiz
 
-**Which is the correct hotel standard for offering assistance to a guest?**
+**Which of the following uses the correct honorific prefix?**
 
-- A. 大丈夫ですか
-- B. 何かあったら言って
-- C. 何かございましたらお申し付けくださいませ
-- D. 何か用？
+- A. 「ご部屋はこちらでございます」
+- B. 「お予約を確認いたしました」
+- C. 「ご電話ありがとうございます」
+- D. 「お部屋はこちらでございます」
 
-**Correct Answer:** C
+**Correct Answer:** D
 
-**Explanation:** 何かございましたらお申し付けくださいませ is attentive and service-oriented. The other options are too casual or direct for professional hotel service.
-
+**Explanation:** 部屋 is a native Japanese word (和語) so it takes お, making option D correct. Option A incorrectly applies ご to 部屋. Option B incorrectly applies お to 予約 (a 漢語 word that takes ご). Option C incorrectly applies ご to 電話, which is a fixed exception that always uses お in hotel service.

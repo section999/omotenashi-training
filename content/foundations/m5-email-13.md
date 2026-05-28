@@ -1,44 +1,91 @@
 ---
 id: m5-email-13
 section: 13
-title: Avoiding Awkward Tone Changes
+title: Guest Inquiry Response Template
 ---
 
-A common mistake is mixing polite and casual language within the same message. Even if the opening and closing match, a single casual phrase in the middle can break the tone.
+Guests frequently contact hotels with questions before booking: room availability, facilities, accessibility, policies, or special requests. Responding to inquiries with clear, warm, and helpful language is not just customer service. It directly influences whether the guest books or moves on.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Problem Example</span>
-<span class="keigo-jp"><code>誠にありがとうございます。</code></span>
-<span class="keigo-jp"><code>また来てくださいね！</code></span>
-<br><br>
-<span class="keigo-badge bad">Inconsistent</span> The first sentence is formal. The second shifts abruptly to a casual, friendly tone.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Better Approach</span>
-<span class="keigo-jp"><code>誠にありがとうございます。</code></span>
-<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span>
-<br><br>
-<span class="keigo-badge good">Consistent</span> Both sentences maintain the same formal and warm register.
-</div>
+## What This Email Must Accomplish
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Goals of an Inquiry Response</span>
+<strong>1. Acknowledge:</strong> Thank the guest for their inquiry immediately.<br>
+<strong>2. Answer:</strong> Provide clear, accurate information about what was asked.<br>
+<strong>3. Invite:</strong> Close with an offer for further questions and a gentle booking invitation if appropriate.
 </div>
 
-The difference is subtle but important. **また来てくださいね** sounds like something a shopkeeper would say to a regular. **またのお越しを心よりお待ち申し上げております** matches the politeness of the first sentence and sounds appropriate for hotel correspondence.
+## Full Template: Availability Inquiry
 
-The boundary between professional warmth and casual friendliness is clear: if a phrase would sound natural between friends, it probably does not belong in a hotel email. Every sentence should maintain the same register from start to finish.
+<div class="keigo-card blue">
+<span class="keigo-card-title">件名 (Subject)</span>
+<span class="keigo-jp"><code>【お問い合わせへの回答】[Topic] について</code></span>
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Opening</span>
+<span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
+Thank you very much for your inquiry to our hotel on this occasion.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Body: Answering the Question</span>
+<span class="keigo-jp"><code>ご質問いただきました[topic]についてご回答いたします。</code></span><br>
+I will answer your question regarding [topic].<br><br>
+<span class="keigo-jp"><code>[Answer in clear, organized form]</code></span><br><br>
+For room availability:<br>
+<span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます。</code></span><br>
+Regarding your specified dates, reservations are currently available.<br><br>
+<span class="keigo-jp"><code>ご希望のお部屋タイプや人数などございましたら、お知らせくださいませ。</code></span><br>
+If you have a preferred room type or number of guests, please let us know.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Closing</span>
+<span class="keigo-jp"><code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+Please feel free to contact us if you have any other questions.<br><br>
+<span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております。</code></span><br>
+We sincerely look forward to welcoming you.
+</div>
+
+## Template Variation: Special Request Inquiry
+
+When a guest asks about special arrangements (accessibility, dietary needs, specific room requests):
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Special Request Response Body</span>
+<span class="keigo-jp"><code>ご要望の[specific request]につきましては、対応可能でございます。ご到着前にご担当者からご連絡差し上げます。</code></span><br>
+We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.<br><br>
+If not fully possible:<br>
+<span class="keigo-jp"><code>ご要望の[specific request]につきましては、現在のところ[limitation]となっております。誠に恐れ入りますが、[alternative if available]でしたらご対応が可能でございます。</code></span><br>
+Regarding your request for [specific request], we are currently limited to [limitation]. I am very sorry, but [alternative] would be possible.
+</div>
+
+## Writing Principles for Inquiry Responses
+
+<div class="keigo-card blue">
+<span class="keigo-card-title">Inquiry Response Rules</span>
+<strong>Answer directly</strong><br>
+Do not bury the answer at the end. Lead with the answer, then provide supporting detail.<br><br>
+<strong>Match the question to the answer</strong><br>
+Acknowledge specifically what was asked: 「ご質問いただきました〜についてご回答いたします」<br><br>
+<strong>Avoid ambiguous answers</strong><br>
+"It may be possible" or "probably" leaves the guest with uncertainty. If you cannot answer definitively, say when you will have an answer: 「担当者に確認の上、本日中にご返信いたします」<br><br>
+<strong>Close with an invitation</strong><br>
+End with ご来訪をお待ちしております to keep the interaction open and hospitality-oriented.
+</div>
 
 ---
 
 ## Quiz
 
-**Why is 「また来てくださいね」 inappropriate after 「誠にありがとうございます」 in a hotel email?**
+**A guest asks if the hotel has parking available. The response begins with 「ご質問いただきました駐車場についてご回答いたします。」 What does this opening line accomplish?**
 
-- A. It is grammatically incorrect
-- B. It shifts to a casual tone that does not match the formal opening
-- C. It is too long
-- D. It uses keigo incorrectly
+- A. It translates the guest's question back to them to confirm understanding
+- B. It explicitly links the response to the specific question, making the email feel attentive and organized
+- C. It is unnecessary; the guest already knows what they asked
+- D. It is too long and should be shortened
 
 **Correct Answer:** B
 
-**Explanation:** 誠にありがとうございます is a formal, polite expression. また来てくださいね shifts abruptly to a casual, friendly register, creating an inconsistent tone. The replacement should match the formality of the opening.
-
+**Explanation:** Starting the body with ご質問いただきました〜についてご回答いたします creates a clear connection between the guest's inquiry and the hotel's response. The guest sees immediately that their specific question is being addressed, not a generic template response. This attentiveness is part of hospitality communication: the guest should feel heard and specifically answered, not processed. It also prevents ambiguity when a guest sends multiple questions.
