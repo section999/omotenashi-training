@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="../assets/favicon-32x32.png" />
   <link rel="manifest" href="../manifest.json" />
+  <link rel="stylesheet" href="../assets/tokens.css" />
   <meta name="theme-color" content="#0a0a23" />
   <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
   <title>Hospitality Simulator - Omotenashi Training</title>
@@ -18,23 +19,6 @@
   <meta name="twitter:description" content="Practice real Japanese hospitality interactions with 100 role-play scenarios and pronunciation feedback." />
   <meta name="twitter:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
   <style>
-    :root {
-      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
-      --accent-yellow:#f1be32; --accent-blue:#0a2a6a; --accent-blue-rgb:10,42,106;
-      --accent-green:#1fad69; --accent-red:#c5442a;
-      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
-      --text-inverse:#0a0a23; --border-default:#2a2a4a;
-      --font-sans:'Segoe UI',system-ui,sans-serif;
-      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
-    }
-    [data-theme="light"] {
-      --bg-primary:#ffffff; --bg-secondary:#f5f6f7; --bg-tertiary:#eaeaef;
-      --text-primary:#1b1b32; --text-secondary:#46465e; --text-muted:#78788a;
-      --text-inverse:#ffffff; --border-default:#c8c9cc;
-      --accent-yellow:#f1be32; --accent-blue:#002ead; --accent-blue-rgb:0,46,173;
-      --accent-green:#1a9058; --accent-red:#c5442a;
-    }
-    [data-theme="light"] .nav { background:#0a0a23 !important; }
     [data-theme="light"] .msg-bubble { color:#3b3b4f !important; }
     [data-theme="light"] .msg-label { color:#3b3b4f !important; }
     [data-theme="light"] .chat-header-title { color:#3b3b4f !important; }
@@ -247,6 +231,7 @@
   "isPartOf": { "@type": "WebSite", "url": "https://section999.github.io/omotenashi-training/" }
 }
 </script>
+  <script>(function(){var c=document.createElement('link');c.rel='canonical';c.href=location.href.split('?')[0];document.head.appendChild(c);var m=document.createElement('meta');m.setAttribute('property','og:url');m.content=location.href.split('?')[0];document.head.appendChild(m)})();</script>
 </head>
 <body>
 
@@ -352,8 +337,11 @@ function togOrder(btn) {
 
 function updateSetupStats() {
   const val = document.getElementById('simSetupCat').value;
-  const count = val === 'all' ? 100 : SIM_CATEGORIES[parseInt(val)].ids.length;
-  document.getElementById('setupStats').innerHTML = '<strong>' + count + '</strong> scenario' + (count !== 1 ? 's' : '') + ' available';
+  const ids = val === 'all' ? Array.from({length: 100}, (_, i) => i + 1) : SIM_CATEGORIES[parseInt(val)].ids;
+  const count = ids.length;
+  const done = ids.filter(id => localStorage.getItem('omotenashi:simulator:' + id) === '1').length;
+  const doneStr = done > 0 ? ' &nbsp;<span style="color:var(--accent-green);font-size:0.85em">' + done + '/' + count + ' completed</span>' : '';
+  document.getElementById('setupStats').innerHTML = '<strong>' + count + '</strong> scenario' + (count !== 1 ? 's' : '') + ' available' + doneStr;
 }
 
 function startSimulator() {
@@ -977,6 +965,7 @@ function simShowResult() {
 
 // ── INIT: pre-select category from URL param ───────────────────────────────────
 (function() {
+  updateSetupStats();
   try {
     const params = new URLSearchParams(location.search);
     const cat = params.get('cat');

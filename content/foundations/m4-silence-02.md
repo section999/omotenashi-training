@@ -49,6 +49,6 @@ This is not mind-reading. It is attentive pattern recognition, developed through
 - C. Ask the first-bite question through the companion since they are already talking, to avoid interrupting the guest directly
 - D. Skip the check-in entirely tonight due to the busy service; the guest will flag you if something is wrong
 
-**Correct Answer:** Wait for a natural pause: the companion finishes their point, the guest sets down their utensils, or looks up from the plate. Trusting that the check-in timing matters more than covering every table on a fixed schedule, even during a busy service
+**Correct Answer:** B
 
 **Explanation:** The lesson teaches that the same action lands completely differently depending on timing. Approaching mid-bite while the companion is mid-story (A) disrupts two guests at once and signals that the server is tracking their own checklist rather than the table's rhythm. Asking through the companion (C) is indirect and awkward. Skipping entirely (D) abandons the standard of care. Option B applies the lesson's core principle of reading the rhythm and waiting for a natural pause; the timing of the check-in is what determines whether it feels attentive or intrusive.

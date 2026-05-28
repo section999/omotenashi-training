@@ -50,6 +50,6 @@ Recommending leaf-viewing spots (*momiji-gari* destinations) adds genuine local 
 - C. "It is locally grown, but I am not sure of the specific variety. Would you like me to ask the chef?"
 - D. "It is a premium brand we import especially for our restaurant. I am glad you enjoy it."
 
-**Correct Answer:** "This is shinmainew rice from this autumn's harvest. It is at its peak fragrance and moisture content right now. In Japan, the first rice of the season is considered a special delicacy and is one of the most meaningful seasonal touches we can offer."
+**Correct Answer:** B
 
 **Explanation:** Shinmai, literally "new rice," is the freshly harvested rice of the autumn season. It is a shun ingredientserved at its peak. Explaining this to the guest turns a simple meal into a culturally rich experience. The other options either provide incorrect information, defer to the chef unnecessarily, or invent a foreign origin story that misses the seasonal significance.

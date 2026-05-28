@@ -45,6 +45,6 @@ Many international guests have never used a communal bath before, and a brief ex
 - C. Wait for a natural private moment, then gently say, "I hope you are enjoying your stay. May I offer a small tip about the yukata?" and explain the left-over-right custom with a warm, matter-of-fact tone
 - D. Ask the guest's companion to discreetly tell them about the mistake
 
-**Correct Answer:** Wait for a natural private moment, then gently say, "I hope you are enjoying your stay. May I offer a small tip about the yukata?" and explain the left-over-right custom with a warm, matter-of-fact tone
+**Correct Answer:** C
 
 **Explanation:** This situation requires balancing respect for the guest's current enjoyment with the real cultural significance of the yukata error (right-over-left is associated with funerals). Interrupting a joyful moment is intrusive, but staying silent allows the guest to unknowingly walk through the ryokan incorrectly dressed. Choosing the right timing and framingprivate, warm, and framed as a helpful tippreserves the guest's positive experience while giving them culturally essential knowledge. Delegating to the companion avoids direct staff responsibility.

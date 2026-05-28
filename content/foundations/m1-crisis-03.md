@@ -65,6 +65,6 @@ When front-line staff know they have both the authority and the support to make 
 - C. After the resolution, to report the complaint in the management system
 - D. Only if the complaint is repeated the following night
 
-**Correct Answer:** Only if the guest specifically requests to speak with a manager, or if the room move requires authorisation above your level: otherwise, continue handling it yourself
+**Correct Answer:** B
 
 **Explanation:** When a complaint is within your authority and the guest is engaged with you, escalating it unnecessarily introduces a wait, breaks the relationship that has built up, and signals to the guest that you lacked the standing or confidence to act. Handle what you can handle. Escalation is for situations that genuinely require a senior presence, not for situations that make you anxious.

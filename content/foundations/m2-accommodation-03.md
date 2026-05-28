@@ -32,6 +32,6 @@ Turndown is typically done while guests are at dinner. Coordinate with the dinin
 - C. Facing the doorway, so the guest can see who enters the room
 - D. Against the wall opposite the window, to maximise floor space
 
-**Correct Answer:** Away from the tokonoma, because pointing one's feet toward the most honoured part of the room is considered disrespectful
+**Correct Answer:** B
 
 **Explanation:** In Japanese custom, pointing the feet toward a revered object or space is disrespectful, and the tokonoma is the spiritual and aesthetic centre of the room. The head of the futon must be placed away from it so the guest's feet do not point toward it. This cultural reasoning overrides convenience, security, or aesthetic considerations.

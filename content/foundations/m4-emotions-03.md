@@ -53,6 +53,6 @@ This approach gives the guest a face-saving way to change their mind without eve
 - C. Offer an alternative option gracefully
 - D. Apologise and say nothing more
 
-**Correct Answer:** Offer an alternative option gracefully
+**Correct Answer:** C
 
 **Explanation:** "ちょっと..." paired with a long pause is a classic indirect refusal in Japanese communication. Repeating your original recommendation ignores the signal entirely; asking directly whether they dislike it puts the guest in the uncomfortable position of having to say "no" out loud. Offering an alternative gracefully lets them move to something better without ever needing to criticise your first suggestion.

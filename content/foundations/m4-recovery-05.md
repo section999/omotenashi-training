@@ -45,6 +45,6 @@ The end of a stay is a natural moment to close the loop. At check-out, if the gu
 - C. Ask them to complete a feedback form about yesterday's issue
 - D. Offer another apology for yesterday, at length, in front of other guests
 
-**Correct Answer:** Briefly and warmly check in to ensure their stay has been comfortable since the incident
+**Correct Answer:** B
 
 **Explanation:** A brief, warm check-in at the next natural moment shows the guest that your care did not end when the complaint was resolved. Avoiding them would read as awkward and leave trust unrepaired. Apologising at length in public creates embarrassment for everyone. Handing them a feedback form turns a human moment into an administrative one. A simple, genuine "I hope this morning has been more comfortable" costs almost nothing and means a great deal.

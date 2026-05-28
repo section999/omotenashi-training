@@ -56,6 +56,6 @@ Regardless of what emotional cue is detected, the gold standard response combine
 - C. Step back and wait for them to calm down
 - D. Immediately call your supervisor
 
-**Correct Answer:** Lower your own voice and slow your pace
+**Correct Answer:** B
 
 **Explanation:** When you lower your voice and slow your pace, you create a physiological contrast that tends to pull an agitated person's energy down toward yours. Matching their volume signals that the situation is escalating, not being resolved. Stepping back and waiting hands the interaction over to tension, and calling a supervisor immediately abandons the guest before you have tried to help.

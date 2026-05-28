@@ -48,6 +48,6 @@ A guest who is studying the menu with visible uncertainty, or who asks directly 
 - C. Recommend a dessert that complements the light, delicate nature of their meal: ideally the seasonal or in-house preparation: and explain why it suits what they have been eating
 - D. Say "everything is delicious" and encourage them to choose
 
-**Correct Answer:** Recommend a dessert that complements the light, delicate nature of their meal: ideally the seasonal or in-house preparation: and explain why it suits what they have been eating
+**Correct Answer:** C
 
 **Explanation:** A trustworthy recommendation follows naturally from what the guest has already chosen. After two light fish courses, something heavy and rich may not be the right ending, and knowing that distinction is exactly what a knowledgeable recommendation looks like. Explaining the reasoning, drawing the connection to the arc of the meal, turns the suggestion into genuine care rather than a sales prompt.

@@ -36,6 +36,6 @@ It is useful to know the top local omiyage options in advance: what they are, wh
 - C. "You should buy two boxes to ensure there is enough for everyone."
 - D. "Don't worry; your colleagues can cut the cake and share it themselves."
 
-**Correct Answer:** "This is a high-quality item. However, since omiyage is meant to be shared among a group, you may prefer something individually wrapped so each person can receive their own portion easily."
+**Correct Answer:** B
 
 **Explanation:** The defining quality of good omiyage is that it is shareable. Individual wrapping allows the traveller to distribute portions one by one, fulfilling the social purpose of acknowledging each person. A single large cake, while high quality, requires cutting and creates awkwardness about portion size. The advice should be practical and focused on the omiyage's purpose: easy, gracious distribution.

@@ -52,6 +52,6 @@ Read the situation: a guest in a hurry wants their request fulfilled quickly and
 - C. Process the payment and mention the loyalty points they have earned
 - D. Process the payment and ask them to rate their stay on a feedback form
 
-**Correct Answer:** Process the payment, ask whether they need their luggage brought down, offer to arrange transport, and confirm whether they have everything they need before departure: all without being asked
+**Correct Answer:** B
 
 **Explanation:** "I'd like to pay the bill" is really "I'm about to leave," and skilled hospitality reads the implied departure behind the stated request. Loyalty points and feedback forms serve the property, not the guest. A warm, practical farewell, luggage brought down, transport arranged, anything forgotten checked for, is what makes a checkout feel like care rather than a transaction. The guest should leave feeling looked after, not queued through.

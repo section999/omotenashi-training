@@ -38,6 +38,6 @@ Guests participating in these customs will often look to staff for guidance, whe
 - C. They are worried about exceeding their luggage weight limit
 - D. They want a gift that reflects the latest seasonal trends
 
-**Correct Answer:** They feel a sense of girisocial dutyto acknowledge their team and affirm the relationship by bringing gifts from their travels
+**Correct Answer:** B
 
 **Explanation:** Giri is the sense of social duty that motivates gift-giving in Japanese culture. Returning from a trip without omiyage for colleagues carries genuine social weight. The guest's anxiety about choosing something appropriate reflects this sense of obligation to maintain workplace relationshipsnot mere materialism, logistics, or fashion concerns.

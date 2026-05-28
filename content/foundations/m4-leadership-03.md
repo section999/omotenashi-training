@@ -40,6 +40,6 @@ In Japanese hospitality culture, vague communication is considered a form of pro
 - C. Report the colleague to a manager for giving an incomplete handover that violates team communication standards
 - D. Check the room's status in the system yourself and move on without asking further, to avoid straining the relationship
 
-**Correct Answer:** The vague handover ("one of the rooms," "an issue," "handled it") provides nothing actionable, and you are now responsible for that guest's experience. The right approach is to respectfully ask for specific details: which room, what issue, what was done, and what follow-up is needed, while acknowledging the colleague's fatigue
+**Correct Answer:** B
 
 **Explanation:** The lesson explicitly states that vague communication is a form of professional negligence in Japanese hospitality. While the colleague is senior and tired, the incoming staff member now bears responsibility for every guest on the property. Option B balances respect for the colleague with professional responsibility for the guest by asking for specifics without confrontation. Option A abdicates that responsibility entirely. Option C escalates unnecessarily and damages team relationships. Option D bypasses the human context that the handover is meant to transfer, leaving the guest at risk of falling through the gap.

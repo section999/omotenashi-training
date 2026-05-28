@@ -40,6 +40,6 @@ The final step is essential. Hansei without a clear intention to act differently
 - C. This is an appropriate end-of-shift review because it names the specific mistake; frustration is a natural by-product of high standards
 - D. This is regret, but regret is a natural stage of professional development and should not be interfered with
 
-**Correct Answer:** This is regret, not hansei: it loops on self-criticism without generating insight. A hansei approach would factually describe what happened, identify what went wrong (I responded without thinking about the guest's preferences), and set one concrete intention for next time (I will ask two questions about what they are looking for before making a recommendation)
+**Correct Answer:** B
 
 **Explanation:** The thought pattern described is self-critical repetition without forward movement ("I always mess up," "I am never going to get better"), which is the defining characteristic of regret. Hansei acknowledges the same mistake but then moves to analysis and intention. The key difference is not in whether the mistake is named, but in whether the reflection produces usable insight that changes future behaviour.

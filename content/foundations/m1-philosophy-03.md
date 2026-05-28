@@ -51,6 +51,6 @@ A luxury hotel where staff shift to casual speech in informal moments shows inco
 - C. Sonkeigo: using elevated forms to honour the guest's action
 - D. No special form is required for questions
 
-**Correct Answer:** Sonkeigo: using elevated forms to honour the guest's action
+**Correct Answer:** C
 
 **Explanation:** Sonkeigo is the register that elevates the guest, and it applies whenever you are speaking about something the guest does. Asking 召し上がりますか？ rather than 食べますか？ honours that relationship at the level of grammar itself. Applying kenjōgo to a guest's actions is a familiar training error that inverts the intended social asymmetry and signals inadequate preparation to any discerning listener.

@@ -49,6 +49,6 @@ Filling silence with noise, whether words or background conversation, is often u
 - C. Every two minutes, to show attentiveness
 - D. Only if they signal for you: never approach without being called
 
-**Correct Answer:** After they have had a few bites and the initial reaction to the dish has settled: watching for a natural pause in eating or conversation
+**Correct Answer:** B
 
 **Explanation:** Asking about a dish before the guest has had a chance to taste it is a form of interruption, and the answer you get back will be meaningless anyway. Waiting for a natural pause after a few bites respects the rhythm of the meal and gives the check-in genuine purpose. Good timing is about serving the guest's experience, not fulfilling a checklist.

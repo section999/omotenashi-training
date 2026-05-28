@@ -55,6 +55,6 @@ The bow should feel like giving something, not performing a gesture.
 - C. Briefly apologise while walking the guest to their upgraded room, combining acknowledgement with action to satisfy both the guest and the manager
 - D. Briefly explain the system error so the guest understands it was not intentional, then offer compensation to close the situation quickly
 
-**Correct Answer:** Deliver a sincere, specific apology first: "申し訳ございません. You waited 45 minutes after your journey. That is not acceptable." Let the apology land fully before moving to a solution. A genuine apology, even under pressure, is what makes any offer that follows feel like care rather than a transaction
+**Correct Answer:** B
 
 **Explanation:** The lesson emphasises that an apology is not a transaction and must come before any solution. Rushing to compensation (A or C) skips the step that makes the guest feel genuinely heard; the apology risks feeling like a price paid to close the situation. Explaining the error (D) before apologising shifts focus to the establishment's circumstances. Option B respects both the guest's need to be heard and the practical need for resolution; a sincere apology delivered under pressure, rather than bypassed by it, demonstrates genuine professionalism.

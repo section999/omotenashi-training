@@ -33,6 +33,6 @@ Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. 
 - C. "Matsutake are more affordable in autumn, so we can offer them as part of the course menu."
 - D. "We received a large shipment from our supplier and want to use them at their freshest."
 
-**Correct Answer:** "Autumn is shunthe peak seasonfor matsutake. They are at their most fragrant and flavourful right now. Serving them at this time means serving the best possible version of the ingredient."
+**Correct Answer:** B
 
 **Explanation:** Shun describes the window when an ingredient is at its absolute peak: freshest, most flavourful, and most in harmony with the season. Serving shun ingredients is a quiet act of respect for the guest, offering the finest version of a dish. Explaining this to the guest turns a meal into a cultural experience.

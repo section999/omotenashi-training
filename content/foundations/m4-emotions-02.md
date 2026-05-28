@@ -56,6 +56,6 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 - C. The guest seems impatient with the wait; speed through the check-in process to minimise any further annoyance
 - D. The guest is clearly dissatisfied with something visible; ask them directly what is wrong so the issue can be addressed immediately
 
-**Correct Answer:** The guest is likely tired or disoriented after travel, based on the cluster of signals; offer to explain the check-in process step by step and check if they need anything after settling in
+**Correct Answer:** B
 
 **Explanation:** No single non-verbal signal is conclusive on its own. A mouth-only (non-Duchenne) smile paired with a furrowed brow and weight-shifting forms a cluster that more likely indicates fatigue or uncertainty than genuine satisfaction, impatience, or specific dissatisfaction. Option A misreads the social smile as genuine warmth. Option C projects impatience onto signals that more commonly indicate discomfort. Option D is too direct and risks making the guest defensive. The omotenashi-aligned response is to offer clarity and support without assuming the guest has a specific problem, letting them reveal their needs at their own pace.

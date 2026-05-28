@@ -47,6 +47,6 @@ Read the whole person, not just their words. A guest who says "I'm fine" while s
 - C. Since the guest is a regular who would normally tell you directly if something were wrong, the non-verbal signals should be interpreted as simple tiredness rather than dissatisfaction
 - D. Avoid engaging further to respect their privacy; if they want to discuss something, they will bring it up on their own later
 
-**Correct Answer:** The guest's non-verbal signals form a consistent cluster that contradicts their words, even a regular can have an off day. The most appropriate response is a gentle, open-ended follow-up that gives them a face-saving way to share if they wish, without forcing them
+**Correct Answer:** B
 
 **Explanation:** The lesson teaches the importance of reading the whole person, not just their words, and understanding the tatemae/honne gap. Even a regular guest who is usually direct may not feel comfortable expressing dissatisfaction in every situation. The cluster of averted gaze, crossed arms, and flat tone is too consistent to dismiss as unrelated tiredness (C) or to override by past behaviour (A). Option B balances respect for the relationship with attentiveness to the current signals, using an open-ended follow-up that the lesson specifically recommends.

@@ -42,6 +42,6 @@ This reflection serves two purposes: it confirms your understanding of the issue
 - C. Signal to a colleague to come and take over
 - D. Begin filling out a complaint form while they talk
 
-**Correct Answer:** Let them finish speaking completely before responding
+**Correct Answer:** B
 
 **Explanation:** Even when you already know the answer, cutting the guest off signals that closing the complaint matters more to you than the guest's experience of being heard. Letting them finish, completely, is itself a form of care. Filling in forms, signalling a colleague, or offering solutions mid-sentence all make the same mistake: they prioritise the outcome over the person.

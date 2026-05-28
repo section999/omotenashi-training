@@ -40,6 +40,6 @@ In Japanese professional culture, feedback is often framed within a context of a
 - C. Let it pass: the guest did not seem concerned
 - D. Submit a written report to the manager
 
-**Correct Answer:** Quietly handle it yourself immediately, then find a private moment after service to discuss what happened and why checking is important
+**Correct Answer:** B
 
 **Explanation:** The allergy is a safety issue, so the first move is to fix it quietly before the meal is served. Once service is over, a private conversation focused on what happened and why the check matters is far more useful than a public correction or a written report, both of which generate shame or defensiveness rather than understanding. Fix the situation first; develop the person second.

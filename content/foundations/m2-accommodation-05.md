@@ -41,6 +41,6 @@ A farewell that shows the guest was remembered, not just processed, is the signa
 - C. Signal to the new guest that you have seen them, then stay with the departing guest for the full osōkuriremaining until their vehicle is out of sight
 - D. Tell the departing guest, "Please wait a moment," handle the new guest quickly, then return for the farewell
 
-**Correct Answer:** Signal to the new guest that you have seen them, then stay with the departing guest for the full osōkuriremaining until their vehicle is out of sight
+**Correct Answer:** C
 
 **Explanation:** Osōkuri is the formal send-off and the guest's final impression of the property. Cutting it short sends a message that the next person matters more than the person leaving. Acknowledging the new guest with eye contact and a nod shows awareness without abandoning the farewell. Once the departing guest is gone, you can attend to the new guest fully. Rushing the farewell undermines days of excellent service.

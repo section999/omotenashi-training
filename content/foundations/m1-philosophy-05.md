@@ -45,6 +45,6 @@ When unsure whether to add something to a room, a table setting, or a guest inte
 - C. The style is simply a cost-saving measure by the property
 - D. Wabi-sabi requires that all furniture be removed from traditional rooms
 
-**Correct Answer:** The minimal, considered aesthetic reflects wabi-sabi: the deliberate absence of unnecessary elements is itself an act of care and hospitality
+**Correct Answer:** B
 
 **Explanation:** Wabi-sabi is not about absence for its own sake; it is about choosing only what genuinely belongs and removing everything else. Each object in that room, the seasonal arrangement, the handmade tea set, the natural linen, was chosen because it serves the guest's experience of calm and care. A room that has been thoughtfully edited communicates more than one that has been filled, and the wrong answers all miss that point by treating the room as incomplete, cost-driven, or governed by an arbitrary rule about furniture.

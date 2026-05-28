@@ -50,6 +50,6 @@ End with an open offer and then withdraw quietly.
 - C. Stop and let the guest decide; they may want to explore on their own
 - D. Walk backward while facing the guest so they can follow you easily
 
-**Correct Answer:** Walk slightly ahead and to the side, pause at the turn, and indicate the correct direction with an open hand, palm up
+**Correct Answer:** A
 
 **Explanation:** Walking slightly ahead and to the side keeps the guest informed of the route without leaving them behind or making them feel followed. Pausing at the turn gives the guest a moment to orient themselves, and the open-hand gesture (palm up, fingers together) signals direction respectfully. Pointing with a single finger is considered rude, walking backward is unsafe, and leaving the guest to decide alone abandons the guiding role.

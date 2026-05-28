@@ -36,6 +36,6 @@ A guest who is seamlessly passed between departments feels that the property ope
 - C. The guest should have been given a map and directed to their room independently
 - D. The bell attendant should have been waiting at the front desk before the guest arrived
 
-**Correct Answer:** This is a visible handoverthe guest feels transferred rather than continuously welcomed. The front desk staff should have communicated ahead so the bell attendant was already informed and could be introduced by name
+**Correct Answer:** B
 
 **Explanation:** An invisible handover requires the receiving colleague to be briefed in advance so they can greet the guest as if they have been expecting them all along. Leaving the guest waiting while someone is found, and having the next colleague introduce themselves from scratch, creates a visible seam in service. The guest experiences a transfer of responsibility rather than continuous care. Renraku (advance communication) is what makes the handover invisible.

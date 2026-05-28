@@ -38,6 +38,6 @@ Kaizen asks for honest recognition that however good your current practice is, i
 - C. Accept that the breakfast rush is busy by nature; guests understand there may be delays during peak hours
 - D. Ask the manager to purchase an additional set of coffee pots so that backup is always available
 
-**Correct Answer:** Suggest to the shift leader today that the coffee pots be moved to a more accessible spot during breakfast service, and test whether it improves refill speed starting tomorrow
+**Correct Answer:** B
 
 **Explanation:** Kaizen is characterised by small, immediate, observable improvements based on daily observation. Option B reflects this: the staff member identifies a specific issue, proposes a low-cost change, and tests it in the next shift. Option A delays action to a formal meeting weeks away. Option C accepts the status quo, which is the opposite of kaizen. Option D proposes a solution that requires budget approval and purchasing, bypassing the small, immediate action that kaizen emphasises.

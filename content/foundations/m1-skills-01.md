@@ -40,6 +40,6 @@ A dietary restriction that stays only in the reservation system and never reache
 - C. Wait until check-in to ask about the allergy and room preference, then process the requests
 - D. Leave a card with the welcome gift options and let the guest choose what they'd like
 
-**Correct Answer:** Assign a high-floor room, brief the kitchen and F&B team about the nut allergy, arrange a welcome gift or special touch in the room acknowledging the occasion, ensure all staff in contact with the guest today are aware of the allergy
+**Correct Answer:** B
 
 **Explanation:** Each piece of information in the guest's profile calls for a different kind of action. A nut allergy is a safety matter that must reach the kitchen before the guest sits down, not when they mention it at the table. A honeymoon is an emotional milestone that deserves a genuine acknowledgement in the room. A floor preference should simply be honoured. Waiting until check-in to handle any of this converts known information into a missed opportunity and, in the case of the allergy, a genuine risk.

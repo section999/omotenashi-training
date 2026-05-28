@@ -60,6 +60,6 @@ Return to confirm the resolution worked. This is the step most often skipped, an
 - C. Note: recording the complaint in the property's management system for future review
 - D. Neutralise: de-escalating the guest's emotional state before proceeding to resolution
 
-**Correct Answer:** Notify: following up personally with the guest to confirm the resolution was satisfactory
+**Correct Answer:** B
 
 **Explanation:** Following up is what separates a genuine recovery from a transaction that happened to go smoothly. Resolving the complaint and then disappearing tells the guest the goal was to end the interaction. Coming back, even briefly, to confirm the resolution worked tells them their experience was the actual priority, and that you cared enough to make sure.

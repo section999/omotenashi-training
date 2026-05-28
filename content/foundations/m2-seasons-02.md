@@ -50,6 +50,6 @@ Spring carries a mood of fresh beginnings. Guests visiting in this season often 
 - C. "We have artificial cherry blossom displays in the lobby that remain beautiful all year."
 - D. "The blossoms fall quickly because of the wind and rain this time of year."
 
-**Correct Answer:** "What you are describing is called mono no awarethe bittersweet appreciation of beauty precisely because it is fleeting. It is a deeply respected Japanese aesthetic, and many people feel that cherry blossoms are special because they do not last."
+**Correct Answer:** B
 
 **Explanation:** Mono no aware is the aesthetic of appreciating beauty that is transient. Cherry blossoms are its most iconic expression. Naming this concept for the guest validates their feeling and turns a passing observation into a meaningful cultural insight. The other options dismiss the emotion, offer artificial alternatives, or give a meteorological explanation that misses the aesthetic depth entirely.

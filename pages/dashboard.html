@@ -5,41 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="../assets/favicon-32x32.png" />
   <link rel="manifest" href="../manifest.json" />
+  <link rel="stylesheet" href="../assets/tokens.css" />
   <meta name="theme-color" content="#0a0a23" />
   <meta name="robots" content="noindex" />
   <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
   <title>Progress Dashboard - Omotenashi Training</title>
   <style>
-    :root {
-      --bg-primary:    #0a0a23;
-      --bg-secondary:  #1b1b32;
-      --bg-tertiary:   #2a2a4a;
-      --accent-yellow: #f1be32;
-      --accent-blue:   #0a2a6a;
-      --accent-green:  #1fad69;
-      --accent-red:    #c5442a;
-      --accent-purple: #9b59b6;
-      --text-primary:   #ffffff;
-      --text-secondary: #a3a3c2;
-      --text-muted:     #5f5f7a;
-      --border-default: #2a2a4a;
-      --border-strong:  #4a4a6a;
-      --font-sans: 'Segoe UI', system-ui, sans-serif;
-      --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
-      --transition: 150ms ease;
-    }
+    /* dashboard inverts bg hierarchy in light mode */
     [data-theme="light"] {
-      --bg-primary:    #f5f6f7;
-      --bg-secondary:  #ffffff;
-      --bg-tertiary:   #eef0f2;
-      --text-primary:   #1b1b32;
-      --text-secondary: #46465e;
-      --text-muted:     #78788a;
-      --border-default: #c8c9cc;
-      --border-strong:  #8e8e9a;
-      --accent-blue:    #002ead;
+      --bg-primary:   #f5f6f7;
+      --bg-secondary: #ffffff;
+      --bg-tertiary:  #eef0f2;
     }
-    [data-theme="light"] .nav { background: #0a0a23 !important; }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: 18px; scroll-behavior: smooth; }
@@ -311,6 +288,14 @@
       line-height: 1.5;
     }
 
+    /* ── SUB-MODULE ROWS ── */
+    .sub-rows { margin-top: 14px; display: flex; flex-direction: column; gap: 6px; }
+    .sub-row { display: flex; align-items: center; gap: 10px; }
+    .sub-row-name { font-size: 0.75rem; color: var(--text-secondary); min-width: 100px; flex-shrink: 0; }
+    .sub-row-count { font-family: var(--font-mono); font-size: 0.68rem; color: var(--text-muted); min-width: 44px; text-align: right; flex-shrink: 0; }
+    .sub-row-track { flex: 1; height: 4px; background: var(--bg-tertiary); border-radius: 2px; overflow: hidden; }
+    .sub-row-fill { height: 100%; border-radius: 2px; transition: width 0.7s cubic-bezier(.4,0,.2,1); min-width: 0; }
+
     /* ── RESPONSIVE ── */
     @media (max-width: 640px) {
       #nav-root { display: none; }
@@ -335,6 +320,7 @@
       .dash-close-btn { top: 12px; right: 16px; }
     }
   </style>
+  <script>(function(){var c=document.createElement('link');c.rel='canonical';c.href=location.href.split('?')[0];document.head.appendChild(c);var m=document.createElement('meta');m.setAttribute('property','og:url');m.content=location.href.split('?')[0];document.head.appendChild(m)})();</script>
 </head>
 <body>
 
@@ -355,6 +341,7 @@
     <div class="save-actions">
       <button class="save-action-btn" onclick="exportProgress()">⬇ Export Progress</button>
       <button class="save-action-btn" onclick="importProgress()">⬆ Import Progress</button>
+      <button class="save-action-btn" onclick="resetProgress()" style="border-color:rgba(197,68,42,0.4);color:#c5442a;">⚠ Reset Progress</button>
     </div>
     <p class="save-note">Progress is stored in this browser only. Use Export / Import to move it across devices.</p>
   </div>
@@ -490,6 +477,20 @@ function render(MODULES) {
     const { done, total } = countModuleDone(mod);
     totalDone += done;
     const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+    const subRows = mod.lessons.map(({ stem, count }) => {
+      let subDone = 0;
+      for (let i = 1; i <= count; i++) {
+        if (localStorage.getItem('omotenashi:' + stem + ':' + i)) subDone++;
+      }
+      const subPct = count > 0 ? Math.round((subDone / count) * 100) : 0;
+      const label = stem.replace(/^m\d+-/, '');
+      const displayLabel = label.charAt(0).toUpperCase() + label.slice(1);
+      return `<div class="sub-row">
+        <span class="sub-row-name">${displayLabel}</span>
+        <span class="sub-row-count">${subDone}/${count}</span>
+        <div class="sub-row-track"><div class="sub-row-fill" style="width:${subPct}%;background:${mod.color}"></div></div>
+      </div>`;
+    }).join('');
     return `
       <div class="module-row">
         <div class="module-row-top">
@@ -499,6 +500,7 @@ function render(MODULES) {
         <div class="progress-track">
           <div class="progress-fill" style="width:${pct}%;background:${mod.color}"></div>
         </div>
+        <div class="sub-rows">${subRows}</div>
       </div>`;
   }).join('');
 
@@ -570,6 +572,18 @@ function importProgress() {
     reader.readAsText(file);
   };
   input.click();
+}
+
+// ── RESET PROGRESS ───────────────────────────────────────────────────────────
+function resetProgress() {
+  if (!confirm('This will delete ALL lesson progress, SRS data, and flashcard data. This cannot be undone.\n\nContinue?')) return;
+  const toRemove = [];
+  for (let i = 0; i < localStorage.length; i++) {
+    const k = localStorage.key(i);
+    if (k && k.startsWith('omotenashi:') && k !== 'omotenashi:user:name') toRemove.push(k);
+  }
+  toRemove.forEach(k => localStorage.removeItem(k));
+  location.reload();
 }
 
 // ── SAVE PROGRESS ────────────────────────────────────────────────────────────

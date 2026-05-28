@@ -68,6 +68,6 @@ The care is genuine, but it is made invisible. The guest experiences only the co
 - C. Offer a full tour of the hotel facilities before showing them to their room
 - D. Speak louder and slower to help them understand
 
-**Correct Answer:** Simplify the process, minimise information, and get them to their room efficiently
+**Correct Answer:** B
 
 **Explanation:** A travel-fatigued guest's cognitive capacity is genuinely limited; loading them with questions, facility tours, or loud, slow speech makes check-in harder, not easier. What they need is efficiency and quiet care, getting to their room as smoothly as possible. A full welcome and property introduction can wait until they have rested and can actually take it in.

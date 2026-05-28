@@ -40,6 +40,6 @@ Every culture has some form of gift-giving, and every culture values the feeling
 - C. Open the gift warmly, respond genuinely, and engage with the item: matching the guest's expectation
 - D. Accept with both hands and a bow, then ask a colleague to open it later
 
-**Correct Answer:** Open the gift warmly, respond genuinely, and engage with the item: matching the guest's expectation
+**Correct Answer:** C
 
 **Explanation:** Omotenashi means reading your guest and responding to what they actually need, not following a script regardless of context. When a Western guest is visibly waiting for you to open their gift, retreating into Japanese custom makes them feel rejected. Opening it warmly, as they expect, is genuine hospitality. Setting it aside, delegating it to a colleague, or explaining Japanese etiquette at that moment would all miss the point.

@@ -42,6 +42,6 @@ Complaints, refund discussions, contract terms, and anything that may need to be
 - C. "Thank you for your message. Your check-in time is 3:00 p.m. We look forward to welcoming you. Please let us know if there is anything we can arrange in advance."
 - D. "Check-in is at 3PM. Please bring your reservation confirmation."
 
-**Correct Answer:** "Thank you for your message. Your check-in time is 3:00 p.m. We look forward to welcoming you. Please let us know if there is anything we can arrange in advance."
+**Correct Answer:** C
 
 **Explanation:** A messaging app doesn't lower the service standard; it just changes the medium. The correct reply confirms the information clearly, uses full sentences, and opens the door for the guest to ask for more, rather than closing the exchange with a terse confirmation. The other options are either too casual, too clipped, or miss the warmth that turns a basic answer into a small moment of hospitality.

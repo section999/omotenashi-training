@@ -40,6 +40,6 @@ Staff who know the story behind each dish are visibly more confident, and guests
 - C. The ceramics are more practical and easier to clean than fine porcelain
 - D. The bowls were selected based on their price range for this tier of the menu
 
-**Correct Answer:** The handmade, slightly imperfect vessels reflect wabi-sabi: the aesthetic appreciation of natural beauty and craftsmanship, which is central to the kaiseki philosophy
+**Correct Answer:** B
 
 **Explanation:** In kaiseki, nothing is accidental, and that includes the vessels. Handmade ceramics with natural asymmetry embody wabi-sabi, the appreciation for imperfection and honest craftsmanship, and signal that care was exercised at every level of the meal. Being able to explain that choice clearly and naturally is exactly the difference between service and genuine hospitality.

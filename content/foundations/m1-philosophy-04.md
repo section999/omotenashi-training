@@ -46,6 +46,6 @@ The guiding principle is to be present enough to notice, and discreet enough not
 - C. Standard procedure: this is required of all staff at all times regardless of the guest
 - D. Teineigo: applying formal language to the service interaction
 
-**Correct Answer:** Proactive service and kikubari: anticipating needs and acting on subtle observations before being asked
+**Correct Answer:** B
 
 **Explanation:** Proactive service and kikubari work together: kikubari is the attentive awareness that reads the guest's state, and proactive service is the response that comes before any request is made. Bringing a warm oshibori and adjusting the vent without being asked tells the guest that someone has been paying genuine attention to them as a person, not simply managing the table. That feeling is the emotional core of omotenashi.

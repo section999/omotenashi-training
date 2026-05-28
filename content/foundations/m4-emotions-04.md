@@ -55,6 +55,6 @@ If the guest does express dissatisfaction, thank them. A guest who tells you the
 - C. The guest is simply taking their time with the menu; checking a watch twice is normal behaviour and does not indicate dissatisfaction
 - D. Since the guest has not called out or flagged down a server, they are not dissatisfied; approaching would be presumptuous
 
-**Correct Answer:** The initial watch-checking was an early Stage 1 signal of irritation about the wait. The guest has now progressed into quiet disengagement (Stage 2): no longer actively signalling, not engaging with the menu, and not being acknowledged by passing staff. The server should approach calmly with a gentle check-in as soon as possible
+**Correct Answer:** B
 
 **Explanation:** The lesson teaches that dissatisfaction builds in stages. The initial watch-checking (Stage 1) followed by silent inattention without turning pages, while staff walk past unacknowledged, indicates progression toward Stage 2. The fact that the guest stopped actively signalling does not mean the issue resolved; it more likely means they have moved from slight irritation to quiet disengagement. Options A and C both miss this progression. Option D places the burden on the guest to escalate, which contradicts the principle of anticipation (先読み). A proactive check-in at this point can still resolve the issue before it reaches Stage 3.

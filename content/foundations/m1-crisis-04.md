@@ -53,6 +53,6 @@ This phrase, delivered with a sincere bow, carries considerable weight in Japane
 - C. "I am deeply sorry that your room was not ready when we promised. That delay was unacceptable, and I understand how frustrating it must have been to wait after a long journey. Let me make this right immediately."
 - D. "I'm sorry you're feeling that way: we'll look into what happened."
 
-**Correct Answer:** "I am deeply sorry that your room was not ready when we promised. That delay was unacceptable, and I understand how frustrating it must have been to wait after a long journey. Let me make this right immediately."
+**Correct Answer:** C
 
 **Explanation:** Option C names the exact issue, offers no deflection, acknowledges the emotional impact of waiting after a long journey, and immediately commits to action. The other options each carry a common apology flaw: one explains the reason before acknowledging the guest, another hedges with "if," and another apologises for the feeling rather than the failure. A sincere apology stands on its own, without conditions attached.

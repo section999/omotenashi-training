@@ -35,6 +35,6 @@ One of the most affecting expressions of ma in hospitality is the silence after 
 - C. Apologise briefly and ask them to step aside so you can assist the next guest while they wait; this manages both guests' time fairly
 - D. Explain that check-in time is officially at 3 PM and they have arrived a few hours early, to set clear expectations about what is standard
 
-**Correct Answer:** Pause briefly, make eye contact, and sincerely acknowledge their frustration first: "I am truly sorry. You have just arrived after a long journey and your room is not ready. That is not the welcome you deserved." Then propose a solution. The queue behind them, while real, does not override the need for genuine acknowledgement to land first
+**Correct Answer:** B
 
 **Explanation:** The lesson specifically teaches that silence and sincere acknowledgement must precede any solution, especially when a guest is distressed. Option B honours this by pausing, acknowledging specifically what went wrong, and then moving to a solution. Option A jumps to compensation without genuine acknowledgement. Option C prioritises queue management over the guest's emotional state, which can make the guest feel processed rather than cared for. Option D defends policy, which is the opposite of the care the situation requires. The pause and sincere acknowledgement are not inefficient; they are what allows any solution to land as genuine care.

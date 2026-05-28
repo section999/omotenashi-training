@@ -49,6 +49,6 @@ These actions take moments to execute but show that the guest was held in mind. 
 - C. Ask them at check-in whether they would like any special arrangements for this stay
 - D. Make a note of their preferences this stay to prepare for next time
 
-**Correct Answer:** Ensure the firmer pillow is already in the room before arrival, arrange for green tea to be offered proactively at breakfast, and consider leaving a small note about local ceramics from the concierge
+**Correct Answer:** B
 
 **Explanation:** True omotenashi acts on what is already known, before the guest has to ask. The other options all require the guest to repeat themselves or wait until this visit to generate data for next time, which misses the whole point of keeping records. When a returning guest finds their pillow preference already met and their tea preference remembered, they feel like a person who was held in mind, not a reservation number being processed again.

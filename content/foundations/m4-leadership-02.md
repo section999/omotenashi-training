@@ -39,6 +39,6 @@ In Japanese workplace culture, junior colleagues are often reluctant to admit un
 - C. Find a private moment to discuss what happened, what they noticed, and how they might approach it differently next time
 - D. Ignore it: junior staff learn from experience without guidance
 
-**Correct Answer:** Find a private moment to discuss what happened, what they noticed, and how they might approach it differently next time
+**Correct Answer:** C
 
 **Explanation:** Mentoring builds judgment and self-awareness, and that requires a private conversation with space for honest reflection, not a public correction or a formal record. Correcting someone in front of colleagues creates embarrassment that shuts down learning; ignoring the error leaves a gap in understanding that will likely recur. A quiet, reflective debrief after the fact is how professionals actually grow.

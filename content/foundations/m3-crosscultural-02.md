@@ -46,6 +46,6 @@ Treat allergen enquiries with the same seriousness as religious dietary requirem
 - C. Honestly inform the guest that the dish contains mirin and offer to find an alternative that meets their requirements
 - D. Remove the sauce from the dish and serve it plain
 
-**Correct Answer:** Honestly inform the guest that the dish contains mirin and offer to find an alternative that meets their requirements
+**Correct Answer:** C
 
 **Explanation:** Mirin is a rice wine and contains alcohol, which makes it non-halal regardless of how common it is in Japanese cooking. Telling a guest it is fine when it isn't is a serious breach of trust with real consequences for that person. Honesty paired with a genuine effort to find an alternative is what genuine care looks like here.

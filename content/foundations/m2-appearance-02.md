@@ -37,6 +37,6 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 - C. The colleague is violating the uniform policyreport them to the manager right away
 - D. The fragrance might cling to the table linensreplace the tablecloth after the guest leaves
 
-**Correct Answer:** The fragrance may interfere with the guest's sensory experience of the food and winequietly mention the fragrance standard to your colleague after service
+**Correct Answer:** B
 
 **Explanation:** In a dining setting, the guest's sensory experience of food is central to what they are paying for. Strong fragrance can mask delicate aromas or cause genuine discomfort. Addressing it discreetly after service gives the colleague the information without creating a scene that would itself distract guests. Minimising fragrance is a practical act of care for the guest's experience, not merely a rule.

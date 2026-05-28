@@ -55,6 +55,6 @@ Do not hang up until the guest has disconnected. In Japanese telephone etiquette
 - C. They are buying time while they look up the answer
 - D. It is a nervous habit, not a meaningful signal
 
-**Correct Answer:** They are signalling that they are following the conversation: a required courtesy in Japanese telephone etiquette
+**Correct Answer:** B
 
 **Explanation:** In Japanese phone etiquette, frequent verbal acknowledgements like "はい" signal that you are present and following along; without them, the caller genuinely cannot tell if the line is still connected. These signals are not agreements to anything, they are the phone equivalent of nodding while someone speaks. Treating them as nervous habits or premature promises misreads a well-established professional norm.

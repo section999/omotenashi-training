@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="../assets/favicon-32x32.png" />
   <link rel="manifest" href="../manifest.json" />
+  <link rel="stylesheet" href="../assets/tokens.css" />
   <meta name="theme-color" content="#0a0a23" />
   <script>try{if(localStorage.getItem('theme')==='light')document.documentElement.setAttribute('data-theme','light')}catch(e){}</script>
   <title>Lesson - Omotenashi Training</title>
@@ -19,31 +20,6 @@
   <meta name="twitter:description" content="Interactive Japanese hospitality training - lessons, quizzes, and simulator scenarios." />
   <meta name="twitter:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" />
   <style>
-    :root {
-      --bg-primary:#0a0a23; --bg-secondary:#1b1b32; --bg-tertiary:#2a2a4a;
-      --accent-yellow:#f1be32; --accent-blue:#0a2a6a; --accent-blue-rgb:10,42,106;
-      --accent-green:#1fad69; --accent-red:#c5442a;
-      --text-primary:#ffffff; --text-secondary:#a3a3c2; --text-muted:#5f5f7a;
-      --text-inverse:#0a0a23; --border-default:#2a2a4a;
-      --font-sans:'Segoe UI',system-ui,sans-serif;
-      --font-mono:'Cascadia Code','Fira Code','Consolas',monospace;
-    }
-    [data-theme="light"] {
-      --bg-primary:    #ffffff;
-      --bg-secondary:  #f5f6f7;
-      --bg-tertiary:   #eaeaef;
-      --text-primary:   #1b1b32;
-      --text-secondary: #46465e;
-      --text-muted:     #78788a;
-      --text-inverse:   #ffffff;
-      --border-default: #c8c9cc;
-      --accent-yellow: #f1be32;
-      --accent-blue:    #002ead;
-      --accent-blue-rgb: 0,46,173;
-      --accent-green:   #1a9058;
-      --accent-red:     #c5442a;
-    }
-    [data-theme="light"] .nav { background: #0a0a23 !important; }
     [data-theme="light"] .msg-bubble { color: #3b3b4f !important; }
     [data-theme="light"] .msg-label { color: #3b3b4f !important; }
     [data-theme="light"] .chat-header-title { color: #3b3b4f !important; }
@@ -178,6 +154,15 @@
     /* VOCAB EXAMPLE (v01–v11 format) */
     .vocab-example-line { border-left: 3px solid #f1be32; padding-left: 12px; margin: 1rem 0; font-style: normal; }
     .vocab-example-label { font-family: var(--font-mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: #f1be32; display: block; margin-bottom: 2px; font-style: normal; }
+
+    /* STEP INDICATOR */
+    .step-indicator { font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 8px; }
+
+    /* LESSON NAV */
+    .lesson-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--border-default); }
+    .lesson-nav-btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border: 1px solid var(--border-default); border-radius: 5px; color: var(--text-secondary); text-decoration: none; font-size: 0.875rem; transition: border-color 0.12s, color 0.12s, background 0.12s; background: transparent; }
+    .lesson-nav-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.04); }
+    .lesson-nav-placeholder { flex: 1; }
 
     /* KEYBOARD NAV HINT */
     .keynav-hint { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
@@ -555,6 +540,7 @@
   }
 }
 </script>
+  <script>(function(){var c=document.createElement('link');c.rel='canonical';c.href=location.href.split('?')[0];document.head.appendChild(c);var m=document.createElement('meta');m.setAttribute('property','og:url');m.content=location.href.split('?')[0];document.head.appendChild(m)})();</script>
 </head>
 <body>
 
@@ -1681,6 +1667,29 @@ document.addEventListener('keydown', e => {
   }
   if (e.key === 'ArrowRight' && window._nextFile) {
     window.location.href = 'md-viewer.html?file=' + encodeURIComponent(window._nextFile);
+  }
+  // A/B/C/D to select MCQ option
+  if (/^[A-Da-d]$/.test(e.key) && !e.ctrlKey && !e.metaKey && !e.altKey) {
+    if (document.getElementById('modalOverlay').classList.contains('open')) return;
+    const quiz = document.querySelector('[data-qtype="mcq"]');
+    if (!quiz) return;
+    const fb = document.getElementById(quiz.dataset.qid + '-fb');
+    if (fb && fb.style.display === 'block') return;
+    const idx = e.key.toUpperCase().charCodeAt(0) - 65;
+    const opts = quiz.querySelectorAll('.quiz-opt');
+    if (idx < opts.length) {
+      opts.forEach(o => o.classList.remove('selected'));
+      opts[idx].classList.add('selected');
+      const btn = quiz.querySelector('.quiz-check');
+      if (btn) btn.disabled = false;
+      e.preventDefault();
+    }
+  }
+  // Enter to submit active quiz check button
+  if (e.key === 'Enter' && !e.ctrlKey && !e.metaKey) {
+    if (document.getElementById('modalOverlay').classList.contains('open')) return;
+    const btn = document.querySelector('.section-quiz .quiz-check:not([disabled])');
+    if (btn) { btn.click(); e.preventDefault(); }
   }
 });
 
@@ -3222,13 +3231,28 @@ async function render() {
   // Body HTML via marked
   const bodyHtml = DOMPurify.sanitize(marked.parse(processedContent));
 
+  const stepIndicator = (sectionNum && total)
+    ? `<div class="step-indicator">Step ${sectionNum} of ${total}</div>`
+    : '';
+
+  const lessonNav = `<div class="lesson-nav">
+    ${prevFile
+      ? `<a href="md-viewer.html?file=${encodeURIComponent(prevFile)}" class="lesson-nav-btn">&#8592; Previous</a>`
+      : `<span class="lesson-nav-placeholder"></span>`}
+    ${nextFile
+      ? `<a href="md-viewer.html?file=${encodeURIComponent(nextFile)}" class="lesson-nav-btn">Next &#8594;</a>`
+      : `<a href="curriculum.html" class="lesson-nav-btn">Back to Curriculum</a>`}
+  </div>`;
+
   document.getElementById('main').innerHTML = `
     ${breadcrumb}
     <div class="lesson-section">
+      ${stepIndicator}
       <div class="section-heading">${sectionTitle}</div>
       <div class="section-body">${bodyHtml}</div>
       ${quiz ? renderQuiz(quiz) : ''}
     </div>
+    ${lessonNav}
   `;
 
   // Wrap Japanese text in body (not quiz) with clickable pronunciation spans

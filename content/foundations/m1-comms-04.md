@@ -42,6 +42,6 @@ A rushed check-in followed by a leisurely breakfast creates an inconsistency the
 - C. Ask the guest to pause briefly so you can complete the task
 - D. Leave the glasses and return later when the conversation has completely ended
 
-**Correct Answer:** Pause immediately, step back slightly, and wait for a natural break in their conversation before proceeding or excusing yourself
+**Correct Answer:** B
 
 **Explanation:** Carrying on with your task while a guest is mid-sentence sends a clear, unintended message: the work comes first. Pausing and stepping back acknowledges the conversation without drawing attention to yourself, and waiting for a natural break before proceeding quietly, with a brief 失礼いたします if needed, shows exactly the kind of timing awareness that defines good service.

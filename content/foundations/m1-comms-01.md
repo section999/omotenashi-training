@@ -50,6 +50,6 @@ This skill cannot be scripted. It develops through genuine interest in the peopl
 - C. The guest does not speak the language: speak more slowly and loudly
 - D. The guest is expecting VIP treatment: escalate to a manager
 
-**Correct Answer:** The guest is likely tired, stressed, or in a hurry: serve efficiently and warmly, minimise unnecessary conversation
+**Correct Answer:** B
 
 **Explanation:** Reading the air means interpreting what a guest communicates without words. A brief greeting, averted eye contact, and sliding the passport straight across all point to one thing: this person wants efficient, professional service with no social friction attached. Warm competence is exactly right here; drawn-out pleasantries are not.

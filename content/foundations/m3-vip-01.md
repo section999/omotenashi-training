@@ -53,6 +53,6 @@ A guest who prefers to be unrecognised is not being difficult. They are communic
 - C. VIP service requires a completely different service philosophy
 - D. VIP guests must always be addressed by a senior manager, not front-line staff
 
-**Correct Answer:** The margin for error narrows and personalisation deepens: but the core principles remain the same
+**Correct Answer:** B
 
 **Explanation:** VIP service is omotenashi applied with greater precision and a narrower tolerance for gaps. The core principles, anticipation, sincerity, genuine warmth, remain exactly the same; what shifts is how deeply those principles must be prepared for and how quickly any shortfall is noticed. Expensive amenities and senior managers don't define VIP service; the consistency and depth of care does.

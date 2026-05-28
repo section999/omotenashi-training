@@ -36,6 +36,6 @@ Staff who understand how these rooms are designed can explain them to curious gu
 - C. "Yes, but please be careful not to damage the scroll."
 - D. "I will ask housekeeping to move the flower arrangement so you have more room."
 
-**Correct Answer:** "I'm sorry, but that alcove is the tokonomait is for display only. Nothing should be placed inside it. May I suggest using the chabudai table instead?"
+**Correct Answer:** B
 
 **Explanation:** The tokonoma is the spiritual and aesthetic focal point of the washitsu. Placing personal items inside it disrupts its intentional, curated quality. Offering the chabudai as an alternative preserves the guest's experience while respecting the room's design. Allowing the camera on the tokonoma shelf, moving the arrangement, or giving blanket permission would all miss the cultural significance of the space.

@@ -41,6 +41,6 @@ An uninformed colleague can undo careful preparation in a single interaction. Br
 - C. It is legally required when hosting high-profile guests
 - D. The personal assistant typically pays the bill
 
-**Correct Answer:** The personal assistant has delegated authority and significantly influences how the guest's stay is perceived
+**Correct Answer:** B
 
 **Explanation:** A PA or chief of staff manages the guest's schedule, communicates preferences, and filters how the stay is perceived by the principal. If a PA is poorly served or left feeling like an afterthought, that frustration finds its way back to the guest, whether directly or through the quality of coordination. Treating support staff with the same attentiveness as the principal is not a courtesy; it is how VIP service actually works.

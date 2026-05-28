@@ -47,6 +47,6 @@ The number of items in a gift set carries meaning:
 - C. "You should have refused the gift politely."
 - D. "Your response was fineguests appreciate warmth in any form."
 
-**Correct Answer:** "Your enthusiasm was lovely, but next time, accept with both hands and say 'ご丁寧に、恐れ入ります。ありがとうございます' first before opening."
+**Correct Answer:** A
 
 **Explanation:** The correct etiquette when receiving a gift is to accept with both hands and a slight bow, expressing gratitude with "ご丁寧に、恐れ入ります。ありがとうございます." In traditional practice, gifts are not opened immediately in front of the giver. However, the lesson also notes that if a guest clearly expects it to be opened (common with Western guests), opening it warmly is appropriate. The key is reading the guestbut accepting properly first is always the starting point.

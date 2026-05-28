@@ -51,6 +51,6 @@ If a guest is clearly in a hurry, acknowledge this and work with the kitchen to 
 - C. Bring the dessert for the two who have finished and hold the others' desserts until the remaining guests are done
 - D. Ask all four guests if they are ready for dessert, regardless of their current state
 
-**Correct Answer:** Wait until all four guests have finished before clearing any plates, then offer the dessert when the table is ready as a whole
+**Correct Answer:** B
 
 **Explanation:** Removing plates from guests who have finished while others are still eating creates a visible asymmetry that quietly pressures those who are slower. A table is a social unit, and the meal should move forward together. Waiting until everyone is done before clearing or offering the next course keeps that rhythm intact and puts the guest's experience above the kitchen's timetable.

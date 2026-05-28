@@ -1,0 +1,68 @@
+/* ── DESIGN TOKENS ──────────────────────────────────────────────────────────
+   Shared CSS custom properties for all Omotenashi Training pages.
+   Link this file before any page-specific styles.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+:root {
+  /* Backgrounds */
+  --bg-primary:      #0a0a23;
+  --bg-secondary:    #1b1b32;
+  --bg-tertiary:     #2a2a4a;
+  --bg-surface:      #0d0d1a;
+
+  /* Accents */
+  --accent-yellow:   #f1be32;
+  --accent-blue:     #0a2a6a;
+  --accent-blue-rgb: 10,42,106;
+  --accent-green:    #1fad69;
+  --accent-red:      #c5442a;
+  --accent-purple:   #9b59b6;
+  --accent-rgb:      241,190,50;
+
+  /* Text */
+  --text-primary:    #ffffff;
+  --text-secondary:  #a3a3c2;
+  --text-muted:      #5f5f7a;
+  --text-inverse:    #0a0a23;
+
+  /* Borders */
+  --border-default:  #2a2a4a;
+  --border-strong:   #4a4a6a;
+
+  /* Typography */
+  --font-sans: 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+
+  /* Motion */
+  --transition:      150ms ease;
+  --transition-slow: 400ms ease;
+}
+
+[data-theme="light"] {
+  /* Backgrounds */
+  --bg-primary:      #ffffff;
+  --bg-secondary:    #f5f6f7;
+  --bg-tertiary:     #eaeaef;
+  --bg-surface:      #ffffff;
+
+  /* Accents */
+  --accent-yellow:   #f1be32;
+  --accent-blue:     #002ead;
+  --accent-blue-rgb: 0,46,173;
+  --accent-green:    #1a9058;
+  --accent-red:      #c5442a;
+  --accent-purple:   #9b59b6;
+
+  /* Text */
+  --text-primary:    #1b1b32;
+  --text-secondary:  #46465e;
+  --text-muted:      #78788a;
+  --text-inverse:    #ffffff;
+
+  /* Borders */
+  --border-default:  #c8c9cc;
+  --border-strong:   #8e8e9a;
+}
+
+/* Keep nav always dark regardless of theme */
+[data-theme="light"] .nav { background: #0a0a23 !important; }

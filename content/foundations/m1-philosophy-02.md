@@ -69,6 +69,6 @@ Over time, these small actions shape the quality of the guest experience and hel
 - C. The concept of simplicity and restraint in Japanese room design
 - D. A greeting used to welcome guests at the beginning of a stay
 
-**Correct Answer:** "One time, one meeting": the idea that every guest encounter is unique and irreplaceable, demanding complete dedication
+**Correct Answer:** B
 
 **Explanation:** Ichi-go ichi-e originates in the tea ceremony tradition of Sen no Rikyu and carries directly into professional hospitality. Because this exact encounter, with this person, at this moment, will never happen again in quite the same way, the host owes it complete attention and preparation. It is both a philosophical stance and a daily discipline.

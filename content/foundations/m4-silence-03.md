@@ -44,6 +44,6 @@ At the start of a shift, consciously slow your default pace by ten percent. Noti
 - C. Continue monitoring quietly and approach only at a natural pause in their conversation
 - D. Send a manager to check on them
 
-**Correct Answer:** Continue monitoring quietly and approach only at a natural pause in their conversation
+**Correct Answer:** C
 
 **Explanation:** In omotenashi, the guest's pace is the pace. Approaching every five minutes projects anxiety rather than care, and informing them that other guests are waiting directly contradicts the principle of placing the guest first. Sending a manager escalates a situation that requires only patience. Quiet, attentive waiting, followed by an approach at a genuine natural pause, is both respectful and correct.

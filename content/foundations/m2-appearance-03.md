@@ -40,6 +40,6 @@ When entering a space where a guest is seated, or passing closely through a narr
 - C. That the staff member is on a personal break
 - D. Nothing: guests do not notice staff movement
 
-**Correct Answer:** Disengagement and inattentiveness
+**Correct Answer:** B
 
 **Explanation:** Guests read body language below the level of conscious thought, which is exactly why it matters so much. Hands in pockets signal that the person is self-contained, disengaged, and not available. Rushing through a space adds to that impression rather than softening it. Guests do not usually articulate what they noticed; they simply feel less confident that the person would stop to help them. Open posture and measured movement keep that confidence intact.

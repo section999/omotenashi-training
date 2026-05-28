@@ -40,6 +40,6 @@ Over time, the work of a good leader becomes invisible, because the entire team 
 - C. Explain to the guest that it has been a long day and service may be slower
 - D. Provide a quick, efficient greeting and move on as fast as possible
 
-**Correct Answer:** Greet the guest with full professional presence and energy, as though it were the start of the shift
+**Correct Answer:** B
 
 **Explanation:** Junior staff learn by watching senior colleagues, which means behaviour under pressure sets the standard just as much as behaviour at its best. Delegating to a junior colleague, rushing through the greeting, or explaining that the shift has been long all communicate that full presence is conditional. Maintaining composure and warmth for the last guest of a long shift is precisely what mite manabu looks like in practice.

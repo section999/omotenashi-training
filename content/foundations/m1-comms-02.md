@@ -48,6 +48,6 @@ A soft gaze communicates: I am here with you, I am attentive, and you have my fu
 - C. Defiance or defensiveness: in this context, a softer gaze with a slight downward tilt is more appropriate
 - D. Nothing: eye contact during an apology is always the correct approach
 
-**Correct Answer:** Defiance or defensiveness: in this context, a softer gaze with a slight downward tilt is more appropriate
+**Correct Answer:** C
 
 **Explanation:** Sustained eye contact during an apology can read as defiance rather than remorse, regardless of intent. A softened gaze angled slightly downward, paired with a gentle bow, communicates genuine humility and acknowledgement. Confidence and sincerity in this moment are shown through your words and your composure, not through holding someone's stare.

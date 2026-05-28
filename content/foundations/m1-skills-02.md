@@ -47,6 +47,6 @@ A guest's belongings should never be opened, searched, repositioned without clea
 - C. Ask the guest to hurry so the bags can be stored before the elevator fills
 - D. Leave all three bags and return when the guest is ready
 
-**Correct Answer:** Walking ahead with the guest's bags while they are not ready abandons them and may cause anxiety about their belongings; wait until the guest is ready to move and walk with them
+**Correct Answer:** B
 
 **Explanation:** Service follows the guest's rhythm, not the staff member's convenience. The moment you walk away with someone's belongings before they are ready to move, you have prioritised your own efficiency over their comfort. A guest who watches their bags disappear into an elevator without them has good reason to feel anxious. Staying present, waiting, and moving together is not slower service; it is the right service.

@@ -1,4 +1,4 @@
-const CACHE = 'omotenashi-v14'
+const CACHE = 'omotenashi-v15'
 
 const BASE = self.location.pathname.replace(/\/[^/]*$/, '/')
 
@@ -7,6 +7,7 @@ const PRECACHE = [
   BASE + 'index.html',
   BASE + '404.html',
   BASE + 'manifest.json',
+  BASE + 'assets/tokens.css',
   BASE + 'assets/nav.css',
   BASE + 'assets/nav-template.js',
   BASE + 'assets/nav.js',

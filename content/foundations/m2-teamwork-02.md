@@ -45,6 +45,6 @@ The structure may feel unfamiliar at first. Once its purpose becomes clear, it f
 - C. After the guest interaction concludes, privately raise the concern with the senior colleague, respectfully sharing the observation about the available quieter rooms. If the senior disagrees with the assessment, escalate the matter through proper channels to a manager
 - D. Do nothingthe senior colleague has more experience and their judgment should be trusted
 
-**Correct Answer:** After the guest interaction concludes, privately raise the concern with the senior colleague, respectfully sharing the observation about the available quieter rooms. If the senior disagrees with the assessment, escalate the matter through proper channels to a manager
+**Correct Answer:** C
 
 **Explanation:** This situation has multiple dimensions. Correcting a colleague in front of a guest damages both the guest's experience and team trust. Ignoring the problem entirely risks the guest's dissatisfaction going unaddressed. Bypassing the senior to go directly to the general manager violates the hierarchy structure and damages working relationships. The correct approach starts with the senpai–kōhai relationship: raise it privately and respectfully, giving the senior the opportunity to reflect. If the concern is dismissed and the pattern continues, escalation through proper channels is then appropriate.

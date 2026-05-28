@@ -49,6 +49,6 @@ These four elements are covered in the following lessons through the LEARN frame
 - C. The best strategy is to prevent complaints by having perfect service, making complaint handling a secondary priority
 - D. Complaints handled by managers produce better loyalty outcomes than those handled by front-line staff
 
-**Correct Answer:** Guests who complain and have their complaint resolved with genuine care often become more loyal than guests who experienced no problems
+**Correct Answer:** B
 
 **Explanation:** A well-handled complaint does something that a faultless stay cannot: it shows the guest how the property behaves under pressure. When staff respond with genuine care rather than defensiveness, the guest gains real evidence of the organisation's values. That demonstration of commitment, visible precisely because something went wrong, is often more persuasive than smooth service that was never tested.

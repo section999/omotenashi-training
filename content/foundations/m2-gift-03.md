@@ -47,6 +47,6 @@ When a guest presents a gift to staff, it should be accepted with both hands, a 
 - C. On the back of the noshi paper, hidden from view
 - D. Either position is acceptable as long as the writing is neat
 
-**Correct Answer:** Above the ribbon patternthe uwagaki positionindicating the purpose of the gift
+**Correct Answer:** A
 
 **Explanation:** On a noshi, the two text positions have fixed roles. The uwagaki (above the ribbon) states the occasion or purposesuch as 御礼 for gratitude. The giver's name goes in the shasho position below. Confusing the two positions would be a real error in formal gift presentation, making the property appear unprepared.

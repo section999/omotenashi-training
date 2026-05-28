@@ -46,6 +46,6 @@ A small bow and a quiet closing phrase ("Thank you," "Please enjoy," or "I'll be
 - C. Return in five minutes and hope they have finished their conversation
 - D. Ask a colleague to take the table: it is too awkward to interrupt
 
-**Correct Answer:** Wait at a respectful distance, make brief eye contact with the primary guest to signal you are there, and wait for a natural pause in their conversation
+**Correct Answer:** A
 
 **Explanation:** Interrupting an animated conversation to take an order places your schedule above the guest's experience. Waiting at a respectful distance, visible but not crowding the table, signals that you are ready without forcing a shift in attention. A brief moment of eye contact lets the guest know you are there; their nod or pause is the real invitation to step forward.

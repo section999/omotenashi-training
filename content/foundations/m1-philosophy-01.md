@@ -58,6 +58,6 @@ Modern hospitality also recognises the importance of professionalism, teamwork, 
 - C. Ensuring that every staff member follows a standardised greeting script
 - D. Responding quickly and efficiently to guest complaints
 
-**Correct Answer:** Serving the guest sincerely and anticipating their needs, with no expectation of return
+**Correct Answer:** B
 
 **Explanation:** Omotenashi is not defined by delivering what was booked, following a script, or resolving complaints efficiently. It is defined by acting entirely for the guest's benefit, sincerely and without expectation of return. The preparation and care are invisible; what the guest receives is only the feeling of being genuinely welcomed and looked after.

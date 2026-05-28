@@ -43,6 +43,6 @@ When team culture supports it, a brief collective review at the end of service, 
 - C. Ask a colleague to cover the start of their next task so they can write a detailed account of everything that happened during the shift
 - D. Skip reflection today since the shift was relatively uneventful and nothing particularly noteworthy occurred
 
-**Correct Answer:** Spend 3 to 5 minutes doing a quick structured review: name one specific interaction that went well, one that was difficult, and one concrete intention for the next shift; then use the remaining time to rest
+**Correct Answer:** B
 
 **Explanation:** The lesson emphasises that five minutes of consistent structured reflection is far more valuable than an occasional hour-long session. The end of a shift is the best time because specific memories are still fresh. Option B follows the recommended three-part structure in a realistic timeframe while respecting the staff member's personal time. Option A loses the freshness of the memories entirely by postponing. Option C is unnecessarily detailed and unsustainable. Option D misses the point that even uneventful shifts contain small observations that compound over time.

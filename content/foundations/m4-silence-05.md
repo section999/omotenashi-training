@@ -47,6 +47,6 @@ Where in your service do you rush? Where do you fill silence out of habit or mil
 - C. Announce that you are clearing the plates to make sure they know
 - D. Clear only your side of the table and come back later for the rest
 
-**Correct Answer:** Wait for a pause in their conversation, then clear quietly and move without disrupting the flow
+**Correct Answer:** B
 
 **Explanation:** Clearing plates is your job, but so is protecting the guest's experience, and those two things only conflict if you choose the wrong moment. Proceeding mid-sentence treats the task as more important than the conversation. Announcing yourself draws attention you do not need. Clearing only part of the table creates a half-finished, uncomfortable impression. Waiting for a natural pause, then moving quietly and completely, is how the task gets done without anyone noticing it happened.

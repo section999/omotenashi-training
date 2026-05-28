@@ -47,6 +47,6 @@ Guests receive these things without feeling them. The standard for kokorozukai i
 - C. Mention that you heard them talking about the flight and offer your sympathy about the early start
 - D. Leave a note at their table with the airport transfer options
 
-**Correct Answer:** Ask if they would like to order quickly, confirm a taxi has been arranged (or offer to arrange one), and mention the estimated travel time to the airport: based on what you know about their flight time
+**Correct Answer:** B
 
 **Explanation:** Kokorozukai is the habit of carrying the guest's concerns forward and acting on them without prompting. The guest mentioned the early flight the night before; that concern did not expire at midnight. Greeting them warmly but doing nothing practical, or simply leaving a note, falls short because it puts the work back on the guest. Proactively confirming the taxi and flagging the travel time shows that the information was remembered and turned into real help.

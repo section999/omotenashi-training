@@ -42,6 +42,6 @@ The guest should never feel lesser for their requirement. They should feel that 
 - C. Ask the guest if they are sure about the allergy, in case it is a preference rather than a medical requirement
 - D. Inform the manager and let them handle the communication with the kitchen
 
-**Correct Answer:** Stop service immediately, inform the kitchen of the allergy, confirm the status of all prepared courses with the chef, return to the guest with a specific confirmation of what has been checked and what will be adjusted, and follow through on every remaining course
+**Correct Answer:** B
 
 **Explanation:** A serious food allergy is a medical safety issue, not a preference to accommodate when convenient. The correct response is immediate, specific, and verified at every course, not a general reassurance passed along and assumed to have landed. The guest needs to know that the kitchen has received the information, that prepared courses have been checked, and that you will confirm each remaining dish personally.

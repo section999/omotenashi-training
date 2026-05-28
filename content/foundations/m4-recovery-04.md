@@ -47,6 +47,6 @@ The solution should be presented, not pushed: "I would like to offer you [soluti
 - C. It should be presented as compensation that ends the matter
 - D. It should always include a full refund to avoid further complaints
 
-**Correct Answer:** It should match the nature and scale of the problem, and be presented with genuine care
+**Correct Answer:** B
 
 **Explanation:** A solution needs to fit the situation. An over-the-top response to a minor inconvenience feels off, and a token gesture after a serious failure feels dismissive. The wrong answers here all focus on the transaction rather than the guest: spending the most, closing the matter with a refund, or framing the solution as compensation. What actually works is matching the response to the problem and offering it with genuine care.

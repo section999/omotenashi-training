@@ -42,6 +42,6 @@ The most powerful thing a leader in hospitality can do is to care about the gues
 - C. Increase the frequency of formal performance reviews
 - D. Post the mission statement in a prominent location for all staff to see
 
-**Correct Answer:** Consistently model the standards they expect: in every interaction, every day: and create regular moments that celebrate excellent guest care
+**Correct Answer:** B
 
 **Explanation:** Culture is what people do when no rule requires it, and it is built through consistent behaviour and shared recognition, not documents or posters. A leader who models the standard in every interaction, and who regularly names and celebrates excellent care when it happens, gives the team a living example to follow. Policies and mission statements tell people what is expected; a leader who lives it shows them what it actually looks like.

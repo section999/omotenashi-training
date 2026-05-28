@@ -43,6 +43,6 @@ This module has covered the foundations of professional reflection: from hansei 
 - C. Concierge B demonstrates the mastery mindset by actively pursuing growth beyond competence, while Concierge A maintains a competent but static level. The mastery mindset is defined by continued learning and curiosity, not by flawless performance
 - D. Concierge B's extra efforts suggest they lack efficiency during their shift and need additional practice to keep up with their workload
 
-**Correct Answer:** Concierge B demonstrates the mastery mindset by actively pursuing growth beyond competence, while Concierge A maintains a competent but static level. The mastery mindset is defined by continued learning and curiosity, not by flawless performance
+**Correct Answer:** C
 
 **Explanation:** The lesson defines the mastery mindset as remaining a student of the craft, regardless of experience level. Concierge B embodies curiosity (researching, seeking feedback, daily reflection), which are the behaviours the lesson identifies as central to mastery. Concierge A is competent and reliable, which are valuable, but the lesson specifically distinguishes competence from mastery. Option C captures this distinction accurately. Option D misreads growth-seeking behaviour as a sign of inadequacy, which contradicts the lesson's core message.

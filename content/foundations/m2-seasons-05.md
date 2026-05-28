@@ -48,6 +48,6 @@ The concept of *kansha* (感謝, gratitude) intensifies at year's end. For hospi
 - C. Respond with "明けましておめでとうございます" since it is still January
 - D. Politely inform the guest that the greeting period ended on January 7th
 
-**Correct Answer:** Respond with "明けましておめでとうございます" but keep in mind that after January 7th (the end of matsu no uchi), the greeting is generally considered past the appropriate window
+**Correct Answer:** A
 
 **Explanation:** The New Year's greeting is traditionally used until approximately January 7th, tied to matsu no uchi (the period New Year's decorations remain displayed). However, when a guest initiates the greeting, the warm and gracious response is to reciprocate rather than correct them. The key professional skill is knowing the standard window while also knowing when to prioritise guest warmth over strict adherence to timing rules.

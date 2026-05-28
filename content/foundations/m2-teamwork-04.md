@@ -36,6 +36,6 @@ Guests occasionally walk into staff areas or overhear back-of-house conversation
 - C. Step in immediately to greet and assist the new guest yourself
 - D. Make eye contact with the guest to signal you have seen them, then continue with your current task until free
 
-**Correct Answer:** Step in immediately to greet and assist the new guest yourself
+**Correct Answer:** C
 
 **Explanation:** In omotenashi, a guest who is waiting and ungreeted has already had a gap in service. Stepping in immediately closes that gap and shows the guest that any member of the team is ready to help them. Waiting for your colleague to finish, or signalling from a distance, puts the team's convenience above the guest's experience.
