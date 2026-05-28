@@ -36,6 +36,8 @@ The solution should be presented, not pushed: "I would like to offer you [soluti
 
 ---
 
+
+---
 ## Quiz
 
 **After apologising, what is the most important quality of the solution you offer?**

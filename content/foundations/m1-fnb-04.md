@@ -37,6 +37,8 @@ A guest who is studying the menu with visible uncertainty, or who asks directly 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest has ordered two light fish courses and is looking at the dessert menu. They ask: "What do you recommend for dessert?" What is the most omotenashi-aligned response?**

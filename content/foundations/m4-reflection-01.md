@@ -29,6 +29,8 @@ The final step is essential. Hansei without a clear intention to act differently
 
 ---
 
+
+---
 ## Quiz
 
 **A staff member finishes a difficult shift. They sit down and replay a moment where a guest asked for restaurant recommendations and the staff member gave a rushed, generic answer: "I should have paused before answering. That was not helpful. I always mess up these recommendation questions. I am never going to get better at this." Which of the following best identifies the problem with this thought pattern, and what would a hansei approach look like?**

@@ -33,6 +33,8 @@ Guests often feel anxious about getting something wrong in an unfamiliar setting
 
 ---
 
+
+---
 ## Quiz
 
 **A first-time international guest walks toward the onsen entrance looking uncertain. They are wearing their yukata and holding the small tenugui towel. They ask: "Do I just go in now?" What is the most appropriate guidance to give?**

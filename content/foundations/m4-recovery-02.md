@@ -31,6 +31,8 @@ This reflection serves two purposes: it confirms your understanding of the issue
 
 ---
 
+
+---
 ## Quiz
 
 **A guest begins explaining their complaint about their meal. You realise after ten seconds that you already know the cause of the problem. What should you do?**

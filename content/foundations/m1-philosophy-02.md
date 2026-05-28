@@ -58,6 +58,8 @@ Over time, these small actions shape the quality of the guest experience and hel
 
 ---
 
+
+---
 ## Quiz
 
 **What does 一期一会 (ichi-go ichi-e) mean, and why is it significant in hospitality?**

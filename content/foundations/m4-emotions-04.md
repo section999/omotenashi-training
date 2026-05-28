@@ -44,6 +44,8 @@ If the guest does express dissatisfaction, thank them. A guest who tells you the
 
 ---
 
+
+---
 ## Quiz
 
 **A guest has been seated in the restaurant for about 10 minutes. They checked their watch twice in the first few minutes, then stopped checking and are now sitting quietly, looking at the menu without turning pages. A server walks past their table twice without stopping. The guest does not call out. Which of the following best analyses this situation and the correct timing for intervention?**

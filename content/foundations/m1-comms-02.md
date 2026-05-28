@@ -37,6 +37,8 @@ A soft gaze communicates: I am here with you, I am attentive, and you have my fu
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is making a complaint. They are clearly frustrated. During your apology, you maintain strong, direct eye contact throughout. What might this communicate unintentionally?**

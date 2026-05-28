@@ -27,6 +27,8 @@ Guests participating in these customs will often look to staff for guidance, whe
 
 ---
 
+
+---
 ## Quiz
 
 **A Japanese business guest is browsing your hotel's gift shop before heading home. They seem anxious and say, "I've been on a business trip for a week and need to bring something back for my team. I'm not sure what's appropriate." Which concept best explains their underlying concern?**

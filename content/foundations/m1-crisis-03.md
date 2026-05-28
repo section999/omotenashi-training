@@ -54,6 +54,8 @@ When front-line staff know they have both the authority and the support to make 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is complaining about noise from a neighbouring room. You have offered to move them to a different room and they are considering it. They have not asked for a manager. At what point, if any, should you escalate?**

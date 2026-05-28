@@ -24,6 +24,8 @@ One of the most affecting expressions of ma in hospitality is the silence after 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest arrives at the front desk after a long flight and is told their room is not ready yet. They are clearly frustrated: their voice is raised, and another guest is waiting behind them. Which of the following best balances respect for the guest's emotional state with the practical need to manage the queue?**

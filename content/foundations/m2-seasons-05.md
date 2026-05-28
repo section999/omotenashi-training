@@ -37,6 +37,8 @@ The concept of *kansha* (感謝, gratitude) intensifies at year's end. For hospi
 
 ---
 
+
+---
 ## Quiz
 
 **It is January 10th. A guest who checked in yesterday greets you with "明けましておめでとうございます" (Akemashite omedetō gozaimasu). How should you respond, and what does this tell you about the appropriate greeting window?**

@@ -29,6 +29,8 @@ Requests that are illegal, harmful, or deeply unethical are declined firmly and 
 
 ---
 
+
+---
 ## Quiz
 
 **A VIP guest asks the front desk to arrange a same-day reservation at a fully booked Michelin-starred restaurant and says: "I know it is full. Use the property's namethey will find a table." The property has a strong business relationship with the restaurant. What is the most appropriate response?**

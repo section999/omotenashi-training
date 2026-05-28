@@ -25,9 +25,11 @@ After a challenging guest interaction, a complaint, a VIP arrival, a special req
 When a senior staff member explains *why* they did something, not just *what* they did, junior staff gain access to the reasoning beneath the surface of professional behaviour. "I gave them a moment before speaking because I noticed they seemed a little overwhelmed, did you notice that?" This kind of real-time narration builds the observational sensitivity that is at the heart of omotenashi.
 <br><br>
 <span class="keigo-badge info">Creating Space for Questions</span><br>
-In Japanese workplace culture, junior colleagues are often reluctant to admit uncertainty or ask questions. A good mentor creates a relationship safe enough for questions to be asked freely, and models, through their own curiosity and humility, that not knowing is the beginning of learning, not a mark against professionalism.<br>---
+In Japanese workplace culture, junior colleagues are often reluctant to admit uncertainty or ask questions. A good mentor creates a relationship safe enough for questions to be asked freely, and models, through their own curiosity and humility, that not knowing is the beginning of learning, not a mark against professionalism.<br>
 </div>
 
+
+---
 ## Quiz
 
 **A junior colleague made an error during a guest interaction. What is the best mentoring response?**

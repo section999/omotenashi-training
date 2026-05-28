@@ -34,6 +34,8 @@ When unsure whether to add something to a room, a table setting, or a guest inte
 
 ---
 
+
+---
 ## Quiz
 
 **A hotel room contains only a single seasonal ikebana arrangement, a handmade ceramic tea set, and natural linen curtains. A new staff member asks why the room is "so empty." What is the most accurate explanation?**

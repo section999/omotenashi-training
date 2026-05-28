@@ -40,6 +40,8 @@ A luxury hotel where staff shift to casual speech in informal moments shows inco
 
 ---
 
+
+---
 ## Quiz
 
 **Which keigo type should be used to describe a guest's action, such as asking if they would like to eat?**

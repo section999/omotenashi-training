@@ -27,6 +27,8 @@ Kaizen asks for honest recognition that however good your current practice is, i
 
 ---
 
+
+---
 ## Quiz
 
 **A staff member notices that during the breakfast rush, guests who want coffee refills often wait because the coffee pots are kept on a counter that is difficult for staff to reach quickly. Which of the following responses most fully embodies the kaizen mindset in action?**

@@ -29,6 +29,8 @@ When entering a space where a guest is seated, or passing closely through a narr
 
 ---
 
+
+---
 ## Quiz
 
 **A staff member is walking quickly through the lobby with their hands in their pockets. What does this communicate to a guest, even if unintentionally?**

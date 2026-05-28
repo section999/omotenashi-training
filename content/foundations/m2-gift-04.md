@@ -36,6 +36,8 @@ The number of items in a gift set carries meaning:
 
 ---
 
+
+---
 ## Quiz
 
 **A regular guest presents a gift to the front desk staff and says, "This is a small token of my appreciation." The newest staff member reaches out with one hand and says, "Thank you! Can I open it now?" How should you gently guide the staff member afterward about the proper etiquette?**

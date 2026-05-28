@@ -31,6 +31,8 @@ Complaints, refund discussions, contract terms, and anything that may need to be
 
 ---
 
+
+---
 ## Quiz
 
 **A guest messages the property on WhatsApp asking to confirm their check-in time. The correct reply is:**

@@ -42,6 +42,8 @@ This phrase, delivered with a sincere bow, carries considerable weight in Japane
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is upset because their room was not ready at the promised time. Which of the following is the most sincere apology?**

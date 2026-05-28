@@ -39,6 +39,8 @@ End with an open offer and then withdraw quietly.
 
 ---
 
+
+---
 ## Quiz
 
 **You are escorting a returning guest to their room. At a junction in the corridor, they pause, uncertain which way to go. How should you guide them?**

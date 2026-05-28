@@ -21,6 +21,8 @@ Turndown is typically done while guests are at dinner. Coordinate with the dinin
 
 ---
 
+
+---
 ## Quiz
 
 **You are preparing a guest's futon during turndown service. The room has a clearly positioned tokonoma alcove. Where should you place the head of the futon, and why?**

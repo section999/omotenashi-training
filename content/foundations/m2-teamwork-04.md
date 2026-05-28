@@ -25,6 +25,8 @@ Guests occasionally walk into staff areas or overhear back-of-house conversation
 
 ---
 
+
+---
 ## Quiz
 
 **A guest approaches while your colleague is occupied with another guest. What should you do?**

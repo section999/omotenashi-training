@@ -36,6 +36,8 @@ Where in your service do you rush? Where do you fill silence out of habit or mil
 
 ---
 
+
+---
 ## Quiz
 
 **You are clearing a guest's finished plates. The guest is mid-sentence in a conversation with a companion. What should you do?**

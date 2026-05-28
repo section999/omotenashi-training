@@ -37,6 +37,8 @@ Ma cannot be taught as a technique. It must be cultivated as a sensitivity, an a
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is studying the dinner menu and seems uncertain. They open their mouth as if to ask a question, then look back down at the menu. A staff member is standing nearby, ready to help. Which of the following approaches best demonstrates an understanding of ma (間)?**

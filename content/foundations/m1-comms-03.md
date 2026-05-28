@@ -38,6 +38,8 @@ Filling silence with noise, whether words or background conversation, is often u
 
 ---
 
+
+---
 ## Quiz
 
 **A guest has just received their first course at a fine dining restaurant. As a staff member, you want to check their satisfaction. When is the best moment to approach?**

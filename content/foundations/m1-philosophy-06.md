@@ -38,6 +38,8 @@ These actions take moments to execute but show that the guest was held in mind. 
 
 ---
 
+
+---
 ## Quiz
 
 **A returning guest arrives. In their notes: they prefer a firmer pillow, they always ask for green tea rather than coffee at breakfast, and they mentioned during their last stay that they enjoy local ceramics. What is the most omotenashi-aligned response to their arrival?**

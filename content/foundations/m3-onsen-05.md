@@ -39,6 +39,8 @@ Guests most at risk are often the least likely to mention it, elderly guests who
 
 ---
 
+
+---
 ## Quiz
 
 **An elderly guest travelling alone tells you they plan to use the onsen tonight after having "a few sakes" with dinner. They mention they have high blood pressure but add that "the doctor said it is well controlled." They are clearly looking forward to the experience. What is the most appropriate guidance?**

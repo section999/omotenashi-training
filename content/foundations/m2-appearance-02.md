@@ -26,6 +26,8 @@ Before beginning any guest-facing shift, take thirty seconds in front of a mirro
 
 ---
 
+
+---
 ## Quiz
 
 **A guest who is a food critic is dining alone in your restaurant, carefully examining each dish before tasting. During service, you notice your colleague is wearing noticeable cologne. The guest glances toward your colleague briefly. What is the primary concern, and what should you do?**

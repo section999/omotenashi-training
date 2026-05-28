@@ -45,6 +45,8 @@ Never stare. Never point. Never discuss a guest's body language within earshot.
 
 ---
 
+
+---
 ## Quiz
 
 **A guest at the check-in counter smiles as you greet them, but the smile involves only their mouth and does not reach their eyes. Their brow is slightly furrowed as they look around the lobby, and they shift their weight from foot to foot. What is the most appropriate interpretation and omotenashi-aligned response?**

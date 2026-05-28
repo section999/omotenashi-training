@@ -32,6 +32,8 @@ When team culture supports it, a brief collective review at the end of service, 
 
 ---
 
+
+---
 ## Quiz
 
 **A staff member finishes their shift at 4 PM. They have 15 minutes before a personal appointment. Which of the following is the most effective use of that time for professional growth, based on the principles of end-of-shift review?**

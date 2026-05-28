@@ -39,6 +39,8 @@ This skill cannot be scripted. It develops through genuine interest in the peopl
 
 ---
 
+
+---
 ## Quiz
 
 **A guest arrives at the front desk. They respond to your greeting with a brief "yes" and immediately slide their passport across without making eye contact. What does this communicate, and what is the appropriate response?**

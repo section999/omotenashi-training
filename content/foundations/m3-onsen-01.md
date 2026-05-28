@@ -34,6 +34,8 @@ Knowing your property's water type and describing its properties clearly and con
 
 ---
 
+
+---
 ## Quiz
 
 **A Japanese guest asks at the front desk: "What kind of spring is this onsen? I have joint pain and was hoping for something that might help." The property's onsen is a sodium chloride spring. What is the most appropriate response?**

@@ -36,6 +36,8 @@ Read the whole person, not just their words. A guest who says "I'm fine" while s
 
 ---
 
+
+---
 ## Quiz
 
 **A regular Japanese guest who has always been friendly and direct with you in the past approaches the front desk. They say "it's fine" in response to your greeting, but they avoid eye contact, their arms are crossed, and their usual warm tone is flat. Which of the following best analyses this situation and the correct approach?**

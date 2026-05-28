@@ -38,6 +38,8 @@ This is not mind-reading. It is attentive pattern recognition, developed through
 
 ---
 
+
+---
 ## Quiz
 
 **A guest has just taken their first bite of the main course. The restaurant is busy, your section is full, and you have other tables that need attention. The guest's companion is mid-sentence, clearly telling a story. Which of the following best analyses the timing considerations here?**

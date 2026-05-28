@@ -26,9 +26,11 @@ Immediate correction during a guest interaction is almost never appropriate. Wai
 Effective feedback is specific: not "you need to be more attentive" but "when the couple at table four were ready to order, there was about a five-minute wait. Next time, if you notice they have closed their menus, that's a good cue to approach." Specific feedback is actionable. Vague feedback generates anxiety without direction.
 <br><br>
 <span class="keigo-badge info">Positive Framing</span><br>
-In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real, a hollow compliment before a criticism damages trust rather than building it.<br>---
+In Japanese professional culture, feedback is often framed within a context of affirmation: acknowledging what is working before naming what could be improved. This is not a formality. It is a recognition that most people are doing many things well, and that developmental feedback sits within that larger picture of genuine capability. The affirmation must be real, a hollow compliment before a criticism damages trust rather than building it.<br>
 </div>
 
+
+---
 ## Quiz
 
 **You notice a junior colleague forgot to confirm a guest's allergy at the time of ordering. The meal has not yet been served. What is the right approach?**

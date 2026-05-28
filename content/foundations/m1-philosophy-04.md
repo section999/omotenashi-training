@@ -35,6 +35,8 @@ The guiding principle is to be present enough to notice, and discreet enough not
 
 ---
 
+
+---
 ## Quiz
 
 **A guest sits down at a restaurant table after a long journey. Without being asked, staff bring a warm oshibori and adjust the nearby air conditioning vent. What principle does this demonstrate?**

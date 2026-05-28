@@ -39,6 +39,8 @@ Recommending leaf-viewing spots (*momiji-gari* destinations) adds genuine local 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest at your ryokan comments on how fragrant and delicious the rice is with their meal. They ask, "Is this a special kind of rice?" Your kitchen is using freshly harvested autumn rice. What do you say to explain its significance?**

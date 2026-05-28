@@ -29,6 +29,8 @@ A team culture where surfacing bad news is treated as responsible rather than pu
 
 ---
 
+
+---
 ## Quiz
 
 **You are starting the evening front desk shift. The morning shift's written notes say only: "Some guests had issues this morning. Check the system for details." When you ask the outgoing staff member for specifics, they shrug and say, "I cannot remember exactlyit was a busy morning." What is the core problem here, and what should have been done differently?**

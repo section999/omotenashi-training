@@ -32,6 +32,8 @@ The concept of **ma (間)**: the Japanese aesthetic principle of meaningful paus
 
 ---
 
+
+---
 ## Quiz
 
 **A couple finishes their main courses at a fine dining restaurant. One of them is still talking animatedly while the other has clearly finished. The staff member wants to clear the table and present the dessert menu. What is the correct approach?**

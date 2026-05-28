@@ -47,6 +47,8 @@ Modern hospitality also recognises the importance of professionalism, teamwork, 
 
 ---
 
+
+---
 ## Quiz
 
 **Which of the following best captures the essence of omotenashi?**

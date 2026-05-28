@@ -40,6 +40,8 @@ If a guest is clearly in a hurry, acknowledge this and work with the kitchen to 
 
 ---
 
+
+---
 ## Quiz
 
 **A table of four has been dining for two hours. Two guests have clearly finished their main courses, but the other two are still eating. The kitchen has the dessert ready. What should the server do?**

@@ -45,6 +45,8 @@ Regardless of what emotional cue is detected, the gold standard response combine
 
 ---
 
+
+---
 ## Quiz
 
 **A guest speaks to you in a frustrated, raised voice. What is the most effective non-verbal response?**

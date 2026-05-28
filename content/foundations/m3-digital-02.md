@@ -44,6 +44,8 @@ Do not hang up until the guest has disconnected. In Japanese telephone etiquette
 
 ---
 
+
+---
 ## Quiz
 
 **During a phone call, a Japanese hospitality professional responds with "はい、はい" repeatedly while the guest explains their request. Why?**

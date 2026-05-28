@@ -44,6 +44,8 @@ The bow should feel like giving something, not performing a gesture.
 
 ---
 
+
+---
 ## Quiz
 
 **A guest's reservation was mishandled and they waited 45 minutes. After you listen fully to their experience, the guest is clearly frustrated. Your manager is standing nearby and signals to you to "resolve this quickly." Which of the following best balances the principles of a sincere apology with the pressure to resolve the situation efficiently?**

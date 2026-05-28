@@ -19,9 +19,11 @@ Decorations, flower arrangements (ikebana), table settings, and even uniforms sh
 Seasonal greetings (*kisetsu no aisatsu*, 季節の挨拶) open conversations and written correspondence. Knowing the phrase that fits the current time of year signals cultural fluency and genuine attentiveness. It communicates that you are paying attention to more than just the guest's booking details.
 <br><br>
 <span class="keigo-badge info">Food and Drink</span><br>
-Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. It is a quiet act of respect for the guest. Shun ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. A staff member who can name the seasonal ingredient on the plate and explain why it appears now is turning a meal into an experience.<br>---
+Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. It is a quiet act of respect for the guest. Shun ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. A staff member who can name the seasonal ingredient on the plate and explain why it appears now is turning a meal into an experience.<br>
 </div>
 
+
+---
 ## Quiz
 
 **During an early autumn dinner service, a guest asks about your special course menu, which features matsutake mushrooms. The guest asks, "Why are matsutake featured so prominently right now?" What is the best explanation, connecting your answer to the concept of shun?**

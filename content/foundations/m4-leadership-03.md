@@ -29,6 +29,8 @@ In Japanese hospitality culture, vague communication is considered a form of pro
 
 ---
 
+
+---
 ## Quiz
 
 **At the start of your shift, a senior colleague who trained you says: "One of the rooms had an issue earlier. Do not worry about it, I handled it." You sense the information is vague but the colleague seems tired and eager to leave. Which of the following best analyses the situation and the right response?**

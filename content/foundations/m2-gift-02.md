@@ -25,6 +25,8 @@ It is useful to know the top local omiyage options in advance: what they are, wh
 
 ---
 
+
+---
 ## Quiz
 
 **A guest in your gift shop picks up a large, beautifully packaged box of premium confectionery and says, "This looks perfect to bring back to my office." You notice the sweets are a single large cake rather than individually wrapped portions. What should you advise?**

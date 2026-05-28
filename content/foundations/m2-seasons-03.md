@@ -41,6 +41,8 @@ Summer decorations and amenities emphasise coolness and lightness:
 
 ---
 
+
+---
 ## Quiz
 
 **A guest arrives at your ryokan on a sweltering July afternoon. As they approach the entrance, they see a staff member sprinkling water on the ground outside. The guest looks curious but does not ask. How should you acknowledge and explain this moment to enhance their arrival experience?**

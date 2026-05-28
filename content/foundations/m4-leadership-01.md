@@ -29,6 +29,8 @@ Over time, the work of a good leader becomes invisible, because the entire team 
 
 ---
 
+
+---
 ## Quiz
 
 **A senior staff member is exhausted near the end of a long shift. A guest arrives at the front desk. What does leading by example require?**

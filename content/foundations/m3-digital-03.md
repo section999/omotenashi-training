@@ -35,6 +35,8 @@ Certain responses undermine the property's credibility, even when well-intention
 
 ---
 
+
+---
 ## Quiz
 
 **A guest leaves a 3-star review stating: "The room was dirtythere was hair in the bathroom when we arrived. Also the front desk staff were unfriendly." You check the room inspection records and confirm the bathroom was fully cleaned that morning. The front desk staff member involved has an excellent record with no previous complaints. How should the property respond?**

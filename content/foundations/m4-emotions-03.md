@@ -42,6 +42,8 @@ This approach gives the guest a face-saving way to change their mind without eve
 
 ---
 
+
+---
 ## Quiz
 
 **A guest responds to your room recommendation with a long pause and "ちょっと...": what is the most appropriate response?**

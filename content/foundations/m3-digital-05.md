@@ -26,6 +26,8 @@ Staff should not post about guests, share images taken in guest areas during wor
 
 ---
 
+
+---
 ## Quiz
 
 **A guest posts a photo on Instagram of a staff member helping them with luggage at check-in, captioning it "Best service ever at [property name]!" and tagging the property. The staff member is clearly identifiable in the photo and did not give consent to be photographed. The post is receiving many positive reactions and comments. What is the most appropriate response?**

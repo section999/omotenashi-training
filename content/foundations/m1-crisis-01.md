@@ -38,6 +38,8 @@ These four elements are covered in the following lessons through the LEARN frame
 
 ---
 
+
+---
 ## Quiz
 
 **Research on complaint recovery in hospitality consistently shows that:**

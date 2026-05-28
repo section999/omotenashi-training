@@ -25,6 +25,8 @@ Use room numbers rather than personal names in radio communications. *"Can house
 
 ---
 
+
+---
 ## Quiz
 
 **A VIP guest is dining in the restaurant when another guest approaches a staff member and says excitedly: "I think that is [famous person] at table 7! I am a huge fanI just want to say hello briefly." The other guest is a loyal returning customer. What is the most appropriate response?**

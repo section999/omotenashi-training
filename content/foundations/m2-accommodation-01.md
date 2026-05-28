@@ -25,6 +25,8 @@ Western-style rooms follow international conventions, but a good Japanese proper
 
 Staff who understand how these rooms are designed can explain them to curious guests, handle misuse tactfully, and maintain the space with the care it deserves. Knowing the purpose behind each element makes it possible to serve the space well and to share its meaning naturally.
 
+
+---
 ## Quiz
 
 **A guest staying in a washitsu calls the front desk and asks, "Would it be all right if I set my camera on the shelf inside the alcove to take a photo of the room?" What should you say?**

@@ -29,6 +29,8 @@ Every culture has some form of gift-giving, and every culture values the feeling
 
 ---
 
+
+---
 ## Quiz
 
 **A Western guest presents a gift to a staff member and is clearly waiting for it to be opened. What is the best response?**

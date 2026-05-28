@@ -35,6 +35,8 @@ Treat allergen enquiries with the same seriousness as religious dietary requirem
 
 ---
 
+
+---
 ## Quiz
 
 **A guest identifies themselves as Muslim and asks whether a dish is halal. The kitchen uses mirin in the recipe. What is the correct response?**

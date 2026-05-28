@@ -33,6 +33,8 @@ At the start of a shift, consciously slow your default pace by ten percent. Noti
 
 ---
 
+
+---
 ## Quiz
 
 **A busy lunch service is underway. A guest has been sitting for 30 minutes but seems deeply engaged in conversation. What is the correct approach?**

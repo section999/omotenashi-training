@@ -33,6 +33,8 @@ Each of these steps is explored in the lessons that follow.
 
 ---
 
+
+---
 ## Quiz
 
 **A regular Japanese guest who usually stays for three nights has checked out after only one night. At check-out, they said the room was "fine" but avoided eye contact and seemed subdued. The front desk agent accepted the answer and did not ask further. Later, the agent learns the guest had reported noise to housekeeping the previous night, but housekeeping did not escalate it. Which of the following best analyses the missed opportunity here?**

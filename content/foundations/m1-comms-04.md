@@ -31,6 +31,8 @@ A rushed check-in followed by a leisurely breakfast creates an inconsistency the
 
 ---
 
+
+---
 ## Quiz
 
 **You are clearing empty glasses from a dining table when a guest begins speaking to their companion mid-sentence. What should you do?**

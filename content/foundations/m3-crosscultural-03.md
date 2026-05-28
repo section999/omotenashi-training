@@ -32,6 +32,8 @@ For all East Asian guests, the experience of being seen as an individual, not as
 
 ---
 
+
+---
 ## Quiz
 
 **A group of Chinese tourists arrives with a tour guide. Who should the front desk primarily coordinate with for group logistics?**

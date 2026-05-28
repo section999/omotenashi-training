@@ -34,6 +34,8 @@ Return the guest's bow at an equal or slightly deeper angle. A bow is a gesture 
 
 ---
 
+
+---
 ## Quiz
 
 **A VIP couple who have visited your property several times before is arriving for their anniversary celebration. The general manager asks you to greet them at the main entrance. What type of bow should you use in this situation, and what technique should you follow?**

@@ -36,6 +36,8 @@ A guest's belongings should never be opened, searched, repositioned without clea
 
 ---
 
+
+---
 ## Quiz
 
 **A guest arrives with three bags. You pick up two of the bags and begin walking toward the elevator. The guest is still at the entrance sorting through their pockets. What is the problem, and what is the correct approach?**

@@ -30,6 +30,8 @@ A farewell that shows the guest was remembered, not just processed, is the signa
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is checking out after a five-day stay. As you accompany them to the entrance, another guest approaches the front desk with an urgent question. You are the only staff member at the front. What should you do?**

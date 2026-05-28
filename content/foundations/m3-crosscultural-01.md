@@ -27,6 +27,8 @@ Whatever the culture, guests want to feel welcomed, respected, understood, and c
 
 ---
 
+
+---
 ## Quiz
 
 **An East Asian guest pushes most of their dinner aside after two bites but smiles and says "It is fine, thank you" when you ask how the meal is. You recognise the main dish contains an ingredient uncommon in their home country. They come from a culture where direct complaint is considered impolite. What is the most appropriate response?**

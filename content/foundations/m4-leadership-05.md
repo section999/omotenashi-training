@@ -31,6 +31,8 @@ The most powerful thing a leader in hospitality can do is to care about the gues
 
 ---
 
+
+---
 ## Quiz
 
 **A leader wants to build a stronger culture of excellence in their team. Which action is most effective?**

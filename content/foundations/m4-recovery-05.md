@@ -34,6 +34,8 @@ The end of a stay is a natural moment to close the loop. At check-out, if the gu
 
 ---
 
+
+---
 ## Quiz
 
 **A guest's complaint was resolved successfully last night. It is now the next morning and you pass them at breakfast. What should you do?**

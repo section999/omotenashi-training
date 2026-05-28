@@ -30,6 +30,8 @@ Western guests, particularly from North America, may find standard Japanese room
 
 ---
 
+
+---
 ## Quiz
 
 **A Western guest insists on tipping a staff member ¥5,000 after dinner, saying: "I know it is not the custom here, but this was exceptional service and I want you to have this." The property has a strict no-tipping policy, and accepting could result in disciplinary action. The guest seems genuinely insistent and appears to expect the staff member to accept. What is the most appropriate response?**

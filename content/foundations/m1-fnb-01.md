@@ -29,6 +29,8 @@ Staff who know the story behind each dish are visibly more confident, and guests
 
 ---
 
+
+---
 ## Quiz
 
 **A guest asks why their kaiseki meal uses locally made, slightly asymmetric ceramic bowls rather than perfectly matched porcelain. What is the most accurate and hospitality-appropriate answer?**

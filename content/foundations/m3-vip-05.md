@@ -33,6 +33,8 @@ Once the guest has departed, conduct an internal review. Identify what failed, w
 
 ---
 
+
+---
 ## Quiz
 
 **A VIP guest's room is not ready at check-in due to an unexpected maintenance issue. The only immediately available room is one category lower than booked. However, a significant suite upgrade in the guest's booked category will be available starting tomorrow for the second night. The guest is visibly frustrated. What is the most appropriate response?**

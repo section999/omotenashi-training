@@ -41,6 +41,8 @@ Read the situation: a guest in a hurry wants their request fulfilled quickly and
 
 ---
 
+
+---
 ## Quiz
 
 **A guest at checkout says: "I'd like to pay the bill now." What is the most omotenashi-aligned response?**

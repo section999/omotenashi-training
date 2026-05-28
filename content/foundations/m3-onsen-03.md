@@ -27,6 +27,8 @@ Offering an alternative matters as much as communicating the rule. Raised calmly
 
 ---
 
+
+---
 ## Quiz
 
 **A guest with visible arm tattoos checks in. They are accompanied by a Japanese colleague who is also staying at the property. You need to communicate the onsen tattoo policy. The private bath is available at an additional charge. What is the most appropriate approach?**

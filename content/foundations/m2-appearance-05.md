@@ -30,6 +30,8 @@ When interacting with a group of guests, distribute eye contact evenly. Consiste
 
 ---
 
+
+---
 ## Quiz
 
 **A guest at the concierge desk asks where the garden is located. Your hands are full with documents you are organizing. What is the best way to respond?**

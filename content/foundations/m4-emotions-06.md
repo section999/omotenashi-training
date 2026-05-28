@@ -57,6 +57,8 @@ The care is genuine, but it is made invisible. The guest experiences only the co
 
 ---
 
+
+---
 ## Quiz
 
 **A guest arrives at check-in with heavy eyes, slow speech, and struggles to remember their booking reference. What is the most appropriate response?**

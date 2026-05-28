@@ -33,6 +33,8 @@ It is acceptable, and more professional, to say "I am not certain, let me find o
 
 ---
 
+
+---
 ## Quiz
 
 **A guest from a culture where assertive bargaining is normal is loudly arguing with the front desk about the room rate at check-in, insisting they were quoted a lower price. Other guests in the lobby are watching. The rate on the booking confirmation matches the current charge. What is the most appropriate approach?**

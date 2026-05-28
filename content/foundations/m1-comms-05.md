@@ -35,6 +35,8 @@ A small bow and a quiet closing phrase ("Thank you," "Please enjoy," or "I'll be
 
 ---
 
+
+---
 ## Quiz
 
 **You are approaching a table to take an order. As you arrive, the guests are in the middle of an animated conversation. What is the correct approach?**

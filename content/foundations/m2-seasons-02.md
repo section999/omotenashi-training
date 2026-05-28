@@ -39,6 +39,8 @@ Spring carries a mood of fresh beginnings. Guests visiting in this season often 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is visiting during cherry blossom season and mentions, "There is something a little sad about how quickly the blossoms will fall. They are so beautiful, yet they barely last a week." How can you connect this feeling to Japanese aesthetics to enrich their experience?**

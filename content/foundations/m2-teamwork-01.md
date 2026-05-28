@@ -27,6 +27,8 @@ A guest complaint reported thirty minutes after the fact is still fixable. One r
 
 ---
 
+
+---
 ## Quiz
 
 **A guest at breakfast mentions they need a late checkout. According to hōrenso principles, what should happen next?**

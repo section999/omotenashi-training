@@ -36,6 +36,8 @@ Guests receive these things without feeling them. The standard for kokorozukai i
 
 ---
 
+
+---
 ## Quiz
 
 **A guest mentioned at dinner that they have an early flight tomorrow and are anxious about getting to the airport in time. The next morning, at breakfast, you remember this. What is the most kokorozukai-aligned response?**

@@ -25,6 +25,8 @@ If the full answer requires more time, send an acknowledgement within the hour: 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest enquiry asks about room availability and dining options. The room is available but the dining question requires checking with the restaurant team. What should you do?**

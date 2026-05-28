@@ -36,6 +36,8 @@ When a guest presents a gift to staff, it should be accepted with both hands, a 
 
 ---
 
+
+---
 ## Quiz
 
 **Your property is preparing a thank-you gift for a corporate client who has hosted a large event at your venue. You need to attach a noshi paper. Where should you write "御礼" (gratitude) on the noshi?**

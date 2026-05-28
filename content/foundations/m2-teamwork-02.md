@@ -34,6 +34,8 @@ The structure may feel unfamiliar at first. Once its purpose becomes clear, it f
 
 ---
 
+
+---
 ## Quiz
 
 **A junior staff member observes a senior colleague handling a complaint from a VIP guest about noise from a nearby function room. The senior colleague apologises but does not offer to move the guest to a quieter room, even though quieter rooms are available. The junior staff member believes this solution was inadequate and that the guest left visibly dissatisfied. Multiple factors must be weighed. What is the most professional course of action?**

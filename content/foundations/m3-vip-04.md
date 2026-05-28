@@ -30,6 +30,8 @@ An uninformed colleague can undo careful preparation in a single interaction. Br
 
 ---
 
+
+---
 ## Quiz
 
 **Why is it important to treat a VIP guest's personal assistant with the same attentiveness as the principal guest?**

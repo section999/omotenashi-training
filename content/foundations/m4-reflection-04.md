@@ -32,6 +32,8 @@ This module has covered the foundations of professional reflection: from hansei 
 
 ---
 
+
+---
 ## Quiz
 
 **Two concierges have both worked at the hotel for five years and receive consistently positive guest feedback. Concierge A completes every request accurately and efficiently, follows all procedures correctly, and has never had a formal complaint. Concierge B also completes requests accurately, but on their own time, researched local temples to give more detailed recommendations, asked a senior colleague to observe their phone manner and give feedback, and keeps a notebook of one small thing to improve each shift. Which analysis best reflects the mastery mindset as taught in this lesson?**

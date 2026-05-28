@@ -42,6 +42,8 @@ A guest who prefers to be unrecognised is not being difficult. They are communic
 
 ---
 
+
+---
 ## Quiz
 
 **What is the most important distinction between VIP service and standard hospitality?**

@@ -29,6 +29,8 @@ A dietary restriction that stays only in the reservation system and never reache
 
 ---
 
+
+---
 ## Quiz
 
 **A guest is arriving this evening. In their profile: they prefer a high floor, they have a nut allergy, and the booking note says "honeymoon." What preparation steps should happen before they arrive?**

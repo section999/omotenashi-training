@@ -41,6 +41,8 @@ Premium rooms in some ryokan feature a private bath fed directly from the hot sp
 
 ---
 
+
+---
 ## Quiz
 
 **A young couple from Europe is checking in for a three-night stay. They seem hesitant when you mention the onsen, and the woman asks: "Is the bath shared with other people?" They are travelling together and value privacy. What is the best recommendation?**

@@ -31,6 +31,8 @@ The guest should never feel lesser for their requirement. They should feel that 
 
 ---
 
+
+---
 ## Quiz
 
 **A guest mentions at the table that they have a serious shellfish allergy. Two courses are already prepared in the kitchen. What is the correct sequence of actions?**
