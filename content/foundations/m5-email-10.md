@@ -66,6 +66,15 @@ During the construction period, there may be noise or vibrations. We humbly ask 
 We will do our best to minimize any inconvenience to your stay.
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします</code></span>: We will be conducting facility inspections on the following schedule<br>
+<span class="keigo-jp"><code>点検作業中は、〜がご利用いただけない時間帯がございます</code></span>: During the inspection, [facility] will be unavailable for some time<br>
+<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding<br>
+<span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります</code></span>: We will do our best to minimize any inconvenience to your stay
+</div>
+
 ---
 
 ## Quiz

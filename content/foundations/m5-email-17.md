@@ -36,6 +36,15 @@ We sincerely look forward to your arrival.
 
 This confirms the reservation, reassures the guest, and opens the door for pre-arrival questions. The phrase **スタッフ一同** (staffu ichidou, "all of our staff") strengthens the hospitality message by showing the entire team is preparing for their stay, not just one person at the front desk.
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます</code></span>: Thank you very much for reserving our hotel on this occasion<br>
+<span class="keigo-jp"><code>スタッフ一同準備を進めております</code></span>: All of our staff are preparing<br>
+<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ</code></span>: If you have any questions before your arrival, please feel free to contact us<br>
+<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: We sincerely look forward to your arrival
+</div>
+
 ---
 
 ## Quiz

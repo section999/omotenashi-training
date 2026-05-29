@@ -104,6 +104,16 @@ Before sending any email, read it as if you are the guest receiving it for the f
 If any answer is no, revise before sending.
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>誠にありがとうございます</code></span>: Thank you sincerely<br>
+<span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
+<span class="keigo-jp"><code>ご安心くださいませ</code></span>: Please be assured<br>
+<span class="keigo-jp"><code>かしこまりました / 承りました</code></span>: Certainly / Understood<br>
+<span class="keigo-jp"><code>またのお越しをお待ちしております</code></span>: We look forward to welcoming you again
+</div>
+
 ---
 
 ## Quiz

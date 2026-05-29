@@ -37,6 +37,15 @@ All of our staff sincerely look forward to your arrival.
 
 This delivers essential details in a polite, guest-friendly tone. Notice how each piece of information is presented clearly, one step at a time, so the guest never feels overwhelmed.
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします</code></span>: We are sending you information before your arrival<br>
+<span class="keigo-jp"><code>チェックイン開始時間は15時からでございます</code></span>: Check-in begins at 15:00<br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にお問い合わせください</code></span>: If you have any questions, please feel free to contact us<br>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております</code></span>: All of our staff sincerely look forward to your arrival
+</div>
+
 ---
 
 ## Quiz

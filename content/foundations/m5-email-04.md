@@ -89,6 +89,16 @@ Opening: <span class="keigo-jp"><code>この度は、ご不便をおかけし、
 Closing: <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: We sincerely look forward to your arrival<br>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております</code></span>: All of our staff sincerely look forward to your arrival (collective)<br>
+<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: We sincerely look forward to the day we can welcome you again<br>
+<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span>: We look forward to your continued patronage<br>
+<span class="keigo-jp"><code>ご不明な点などございましたら、お気軽にご連絡くださいませ</code></span>: Please feel free to contact us if you have any questions
+</div>
+
 ---
 
 ## Quiz

@@ -55,7 +55,7 @@
     .cs-topbar { display:flex; align-items:center; gap:10px; margin-top:40px; margin-bottom:24px; }
     .cs-back { padding:6px 13px; background:transparent; border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.8rem; cursor:pointer; white-space:nowrap; }
     .cs-back:hover { background:var(--bg-tertiary); color:var(--text-primary); }
-    .cs-round { font-family:var(--font-mono); font-size:0.76rem; color:var(--text-muted); white-space:nowrap; }
+
     .cs-group-sel { margin-left:auto; background:var(--bg-tertiary); border:1px solid var(--border-default); border-radius:4px; color:var(--text-secondary); font-size:0.76rem; padding:5px 8px; cursor:pointer; max-width:190px; }
 
     .cs-prog-wrap { height:5px; background:var(--bg-tertiary); border-radius:3px; overflow:hidden; margin-bottom:6px; }
@@ -292,7 +292,7 @@ function parseVocabMD(text) {
   const tm = title.match(/^(.+?)\s*\((.+?)\)$/);
   const jp = tm ? tm[1].trim() : title;
   const romaji = tm ? tm[2].trim() : '';
-  const body = text.replace(/^---\n[\s\S]*?\n---\n?/, '').trim();
+  const body = text.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '').trim();
   const paras = body.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
   const filtered = paras.filter(p => p !== '---' && !/^##/.test(p) && !/^\*\*(Correct|Explanation|Quiz|Pronunciation|Register)/.test(p));
   let definition = '';
@@ -305,6 +305,7 @@ function parseVocabMD(text) {
   const sentenceEnd = definition.search(/\.\s/);
   if (sentenceEnd !== -1) definition = definition.slice(0, sentenceEnd + 1);
   definition = definition.replace(/^\*{0,2}[^\x00-\x7F\s]+\*{0,2}(\s*\([^)]+\))?\s+/, 'It ');
+  definition = definition.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/\*([^*]+)\*/g, '$1');
   return { jp, romaji, definition };
 }
 
@@ -441,9 +442,6 @@ function showSetupScreen(preGroup) {
       '</div>' +
       '<div class="setup-divider"></div>' +
       '<div class="setup-row setup-check-col">' +
-        '<label class="setup-check-label"><input type="checkbox" id="setupStudySession" checked/>' +
-          '<span class="setup-check-text"><strong>Study Session</strong>' +
-          '<span class="setup-check-sub">Re-show "Still learning" cards each round until all are known</span></span></label>' +
         '<label class="setup-check-label"><input type="checkbox" id="setupAutoAdv"/>' +
           '<span class="setup-check-text"><strong>Auto-advance</strong>' +
           '<span class="setup-check-sub">Move to next card automatically 0.8s after marking</span></span></label>' +
@@ -472,26 +470,22 @@ function setMode(m) {
 // ── SESSION ───────────────────────────────────────────────────────────────────
 function startSession() {
   const group = document.getElementById('setupGroup').value;
-  const studySession = document.getElementById('setupStudySession').checked;
   const autoAdv = document.getElementById('setupAutoAdv').checked;
   const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
   session = {
-    roundFiles: [], queueIdx: 0, round: 1,
-    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, studySession, groupFilter: group, mode: setupMode }
+    roundFiles: [], queueIdx: 0,
+    settings: { direction: setupDir, shuffle: setupOrder==='shuffle', autoAdvance: autoAdv, groupFilter: group, mode: setupMode }
   };
   showCardScreen();
-  startRound(files, 1);
+  startDeck(files);
 }
 
-function startRound(files, roundNum) {
+function startDeck(files) {
   const arr = [...files];
   if (session.settings.shuffle) shuffle(arr);
   session.roundFiles = arr;
   session.queueIdx = 0;
-  session.round = roundNum;
-  const rl = document.getElementById('csRoundLabel');
-  if (rl) rl.textContent = 'Round ' + roundNum;
-  if (arr.length > 0) loadCard(arr[0]); else endRound();
+  if (arr.length > 0) loadCard(arr[0]); else showCompleteScreen();
 }
 
 function changeGroup(val) {
@@ -499,7 +493,7 @@ function changeGroup(val) {
   const files = val === 'all' ? [...ALL_FILES] : buildGroupFiles(val);
   showCardScreen();
   session.settings.groupFilter = val;
-  startRound(files, 1);
+  startDeck(files);
 }
 
 // ── SCREEN: CARD ──────────────────────────────────────────────────────────────
@@ -508,7 +502,6 @@ function showCardScreen() {
   document.getElementById('main-content').innerHTML =
     '<div class="cs-topbar">' +
       '<button class="cs-back" onclick="showSetupScreen()">← Setup</button>' +
-      '<span class="cs-round" id="csRoundLabel">Round 1</span>' +
       '<select class="cs-group-sel" id="csGroupSel" onchange="changeGroup(this.value)">' + groupOptsHtml(session.settings.groupFilter) + '</select>' +
     '</div>' +
     '<div class="cs-card" id="csCard"' + (isDictation ? '' : ' onclick="cardClick()"') + '>' +
@@ -847,7 +840,7 @@ function markCard(status) {
 // ── NAVIGATE ─────────────────────────────────────────────────────────────────
 function goNext() {
   clearAutoAdv();
-  if (session.queueIdx >= session.roundFiles.length - 1) { endRound(); return; }
+  if (session.queueIdx >= session.roundFiles.length - 1) { showCompleteScreen(); return; }
   session.queueIdx++;
   loadCard(session.roundFiles[session.queueIdx]);
 }
@@ -858,7 +851,6 @@ function goPrev() {
   loadCard(session.roundFiles[session.queueIdx]);
 }
 
-function endRound() { showCompleteScreen(); }
 
 function updateProgressBar() {
   const files = session.roundFiles;
@@ -899,15 +891,15 @@ function showCompleteScreen() {
   const learningFiles = files.filter(f => getStatus(f) === 'learning');
   const allKnown = learningFiles.length === 0 && unseen === 0;
 
-  const studyAgainBtn = (session.settings.studySession && learningFiles.length > 0)
+  const studyAgainBtn = learningFiles.length > 0
     ? '<button class="c-btn-primary" onclick="doStudyLearning()">Study &ldquo;Still learning&rdquo; again (' + learningFiles.length + ' cards) →</button>'
     : (allKnown ? '<div style="color:var(--accent-green);font-weight:600;margin-bottom:8px;">All cards known! 🎉</div>' : '');
 
   document.getElementById('main-content').innerHTML =
     '<div class="complete-wrap">' +
       '<div class="complete-icon">' + (allKnown ? '🎉' : '✓') + '</div>' +
-      '<div class="complete-title">Round ' + session.round + ' Complete!</div>' +
-      '<div class="complete-sub">' + files.length + ' cards reviewed' + (session.round > 1 ? ' · Round ' + session.round : '') + '</div>' +
+      '<div class="complete-title">Complete!</div>' +
+      '<div class="complete-sub">' + files.length + ' cards reviewed</div>' +
       '<div class="complete-stats">' +
         '<div class="c-stat"><div class="c-stat-n c-know">' + know + '</div><div class="c-stat-l">Known</div></div>' +
         '<div class="c-stat"><div class="c-stat-n c-learning">' + learning + '</div><div class="c-stat-l">Still learning</div></div>' +
@@ -924,13 +916,13 @@ function showCompleteScreen() {
 function doStudyLearning() {
   const learningFiles = session.roundFiles.filter(f => getStatus(f) === 'learning');
   showCardScreen();
-  startRound([...learningFiles], session.round + 1);
+  startDeck([...learningFiles]);
 }
 function restartSame() {
   const group = session.settings.groupFilter;
   const files = group === 'all' ? [...ALL_FILES] : buildGroupFiles(group);
   showCardScreen();
-  startRound(files, 1);
+  startDeck(files);
 }
 
 // ── INIT ──────────────────────────────────────────────────────────────────────

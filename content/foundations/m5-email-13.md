@@ -68,6 +68,16 @@ Acknowledge specifically what was asked: 「ご質問いただきました〜に
 End with ご来訪をお待ちしております to keep the interaction open and hospitality-oriented.
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます</code></span>: Thank you very much for your inquiry to our hotel on this occasion<br>
+<span class="keigo-jp"><code>ご質問いただきました〜についてご回答いたします</code></span>: I will answer your question regarding [topic]<br>
+<span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます</code></span>: Regarding your specified dates, reservations are currently available<br>
+<span class="keigo-jp"><code>担当者に確認の上、本日中にご返信いたします</code></span>: I will confirm with our coordinator and reply to you today<br>
+<span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております</code></span>: We sincerely look forward to welcoming you
+</div>
+
 ---
 
 ## Quiz

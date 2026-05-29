@@ -35,6 +35,15 @@ We sincerely look forward to the day we can meet you again.
 
 This shows care for the guest experience, expresses appreciation, and gently encourages future visits. The phrase **幸いでございます** (saiwai de gozaimasu) adds softness and elegance.
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました</code></span>: Thank you very much for staying at our hotel (past tense: ありがとうございました)<br>
+<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span>: How was your stay?<br>
+<span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span>: We would be delighted if you had a comfortable stay<br>
+<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: We sincerely look forward to the day we can meet you again
+</div>
+
 ---
 
 ## Quiz

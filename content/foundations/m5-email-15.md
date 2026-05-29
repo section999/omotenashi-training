@@ -70,6 +70,16 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span>: First-time reservation opening<br>
+<span class="keigo-jp"><code>いつもお世話になっております</code></span>: Repeat guest opening<br>
+<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: Apology opening<br>
+<span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate if you could soft request form for all body requests<br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Universal support close
+</div>
+
 ---
 
 ## Quiz

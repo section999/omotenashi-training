@@ -96,9 +96,14 @@
     .section-body ul, .section-body ol { margin: 0.5rem 0 1rem 1.4rem; color: #fff; }
     .section-body li { margin-bottom: 0.4rem; line-height: 1.65; font-size: 1rem; color: #fff; }
     .section-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
-    .section-body table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; }
+    .section-body table { display: block; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; }
     .section-body th { background: rgba(255,255,255,0.04); text-align: left; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); white-space: nowrap; }
     .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); color: #fff; }
+    @media (max-width: 640px) {
+      .section-body table { font-size: 0.875rem; }
+      .section-body th { padding: 6px 10px; white-space: normal; }
+      .section-body td { padding: 6px 10px; }
+    }
     .section-body blockquote { border-left: 3px solid var(--accent-blue); padding-left: 16px; color: var(--text-secondary); margin: 1rem 0; font-style: italic; }
 
     /* QUIZ */
@@ -156,13 +161,12 @@
     .vocab-example-label { font-family: var(--font-mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: #f1be32; display: block; margin-bottom: 2px; font-style: normal; }
 
     /* STEP INDICATOR */
-    .step-indicator { font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 8px; }
-
     /* LESSON NAV */
-    .lesson-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--border-default); }
-    .lesson-nav-btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border: 1px solid var(--border-default); border-radius: 5px; color: var(--text-secondary); text-decoration: none; font-size: 0.875rem; transition: border-color 0.12s, color 0.12s, background 0.12s; background: transparent; }
+    .lesson-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid var(--border-default); }
+    .lesson-nav-btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border: 1px solid var(--border-default); border-radius: 5px; color: var(--text-secondary); text-decoration: none; font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; transition: border-color 0.12s, color 0.12s, background 0.12s; background: transparent; }
     .lesson-nav-btn:hover { border-color: var(--accent-yellow); color: var(--accent-yellow); background: rgba(241,190,50,0.04); }
     .lesson-nav-placeholder { flex: 1; }
+    .step-indicator { font-family: var(--font-mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); text-align: center; flex: 1; }
 
     /* KEYBOARD NAV HINT */
     .keynav-hint { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
@@ -175,7 +179,7 @@
     .chat-header-title { font-weight: 700; font-size: 1.2rem; color: #fff; }
     .chat-turn-progress { position:absolute; right:20px; top:50%; transform:translateY(-50%); font-size:0.7rem; color:rgba(255,255,255,0.35); letter-spacing:0.04em; }
     .msg-system { display: flex; align-items: center; gap: 10px; font-size: 0.78rem; color: var(--text-muted); margin: 8px 16px; font-style: italic; }
-    .msg-system::before, .msg-system::after { content: ''; flex: 1; height: 1px; background: var(--border-muted); }
+    .msg-system::before, .msg-system::after { content: ''; flex: 1; height: 1px; background: var(--border-default); }
     .chat-messages { padding: 24px; display: flex; flex-direction: column; gap: 18px; min-height: 300px; max-height: 480px; overflow-y: auto; }
     .msg { display: flex; gap: 12px; align-items: flex-start; }
     .msg-user { justify-content: flex-end; }
@@ -787,26 +791,25 @@ const FILE_MAP = {
   'content/foundations/m5-meeting-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:6, total:8, prev:'content/foundations/m5-meeting-05.md', next:'content/foundations/m5-meeting-07.md' },
    'content/foundations/m5-meeting-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:7, total:7, prev:'content/foundations/m5-meeting-06.md', next:'content/foundations/m5-internal-01.md' },
   // m5-phone (8)
-  'content/foundations/m5-phone-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:14, prev:'content/foundations/m5-email-20.md', next:'content/foundations/m5-phone-02.md' },
-  'content/foundations/m5-phone-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:2, total:14, prev:'content/foundations/m5-phone-01.md', next:'content/foundations/m5-phone-03.md' },
-  'content/foundations/m5-phone-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:3, total:14, prev:'content/foundations/m5-phone-02.md', next:'content/foundations/m5-phone-04.md' },
-  'content/foundations/m5-phone-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:4, total:14, prev:'content/foundations/m5-phone-03.md', next:'content/foundations/m5-phone-05.md' },
-  'content/foundations/m5-phone-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:5, total:14, prev:'content/foundations/m5-phone-04.md', next:'content/foundations/m5-phone-06.md' },
-  'content/foundations/m5-phone-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:6, total:14, prev:'content/foundations/m5-phone-05.md', next:'content/foundations/m5-phone-07.md' },
-  'content/foundations/m5-phone-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:7, total:14, prev:'content/foundations/m5-phone-06.md', next:'content/foundations/m5-phone-08.md' },
-  'content/foundations/m5-phone-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:8, total:14, prev:'content/foundations/m5-phone-07.md', next:'content/foundations/m5-phone-09.md' },
-  'content/foundations/m5-phone-09.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:9, total:14, prev:'content/foundations/m5-phone-08.md', next:'content/foundations/m5-phone-10.md' },
-  'content/foundations/m5-phone-10.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:10, total:14, prev:'content/foundations/m5-phone-09.md', next:'content/foundations/m5-phone-11.md' },
-  'content/foundations/m5-phone-11.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:11, total:14, prev:'content/foundations/m5-phone-10.md', next:'content/foundations/m5-phone-12.md' },
-  'content/foundations/m5-phone-12.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:12, total:14, prev:'content/foundations/m5-phone-11.md', next:'content/foundations/m5-phone-13.md' },
-  'content/foundations/m5-phone-13.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:13, total:14, prev:'content/foundations/m5-phone-12.md', next:'content/foundations/m5-phone-14.md' },
-  'content/foundations/m5-phone-14.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:14, total:14, prev:'content/foundations/m5-phone-13.md', next:'content/foundations/m5-convo-01.md' },
+  'content/foundations/m5-phone-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:10, prev:'content/foundations/m5-email-20.md', next:'content/foundations/m5-phone-02.md' },
+  'content/foundations/m5-phone-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:2, total:10, prev:'content/foundations/m5-phone-01.md', next:'content/foundations/m5-phone-03.md' },
+  'content/foundations/m5-phone-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:3, total:10, prev:'content/foundations/m5-phone-02.md', next:'content/foundations/m5-phone-04.md' },
+  'content/foundations/m5-phone-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:4, total:10, prev:'content/foundations/m5-phone-03.md', next:'content/foundations/m5-phone-05.md' },
+  'content/foundations/m5-phone-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:5, total:10, prev:'content/foundations/m5-phone-04.md', next:'content/foundations/m5-phone-06.md' },
+  'content/foundations/m5-phone-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:6, total:10, prev:'content/foundations/m5-phone-05.md', next:'content/foundations/m5-phone-07.md' },
+  'content/foundations/m5-phone-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:7, total:10, prev:'content/foundations/m5-phone-06.md', next:'content/foundations/m5-phone-08.md' },
+  'content/foundations/m5-phone-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:8, total:10, prev:'content/foundations/m5-phone-07.md', next:'content/foundations/m5-phone-09.md' },
+  'content/foundations/m5-phone-09.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:9, total:10, prev:'content/foundations/m5-phone-08.md', next:'content/foundations/m5-phone-10.md' },
+  'content/foundations/m5-phone-10.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:10, total:10, prev:'content/foundations/m5-phone-09.md', next:'content/foundations/m5-convo-01.md' },
     // m5-convo (8)
-  'content/foundations/m5-convo-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:1, total:5, prev:'content/foundations/m5-phone-14.md', next:'content/foundations/m5-convo-02.md' },
-  'content/foundations/m5-convo-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:2, total:5, prev:'content/foundations/m5-convo-01.md', next:'content/foundations/m5-convo-03.md' },
-  'content/foundations/m5-convo-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:3, total:5, prev:'content/foundations/m5-convo-02.md', next:'content/foundations/m5-convo-04.md' },
-  'content/foundations/m5-convo-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:4, total:5, prev:'content/foundations/m5-convo-03.md', next:'content/foundations/m5-convo-05.md' },
-  'content/foundations/m5-convo-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:5, total:5, prev:'content/foundations/m5-convo-04.md', next:null },
+  'content/foundations/m5-convo-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:1, total:8, prev:'content/foundations/m5-phone-10.md', next:'content/foundations/m5-convo-02.md' },
+  'content/foundations/m5-convo-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:2, total:8, prev:'content/foundations/m5-convo-01.md', next:'content/foundations/m5-convo-03.md' },
+  'content/foundations/m5-convo-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:3, total:8, prev:'content/foundations/m5-convo-02.md', next:'content/foundations/m5-convo-04.md' },
+  'content/foundations/m5-convo-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:4, total:8, prev:'content/foundations/m5-convo-03.md', next:'content/foundations/m5-convo-05.md' },
+  'content/foundations/m5-convo-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:5, total:8, prev:'content/foundations/m5-convo-04.md', next:'content/foundations/m5-convo-06.md' },
+  'content/foundations/m5-convo-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:6, total:8, prev:'content/foundations/m5-convo-05.md', next:'content/foundations/m5-convo-07.md' },
+  'content/foundations/m5-convo-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:7, total:8, prev:'content/foundations/m5-convo-06.md', next:'content/foundations/m5-convo-08.md' },
+  'content/foundations/m5-convo-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Situational Conversation', section:8, total:8, prev:'content/foundations/m5-convo-07.md', next:null },
     // m5-internal (7)
   'content/foundations/m5-internal-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Internal Communication', section:1, total:7, prev:'content/foundations/m5-meeting-07.md',   next:'content/foundations/m5-internal-02.md' },
   'content/foundations/m5-internal-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Internal Communication', section:2, total:7, prev:'content/foundations/m5-internal-01.md', next:'content/foundations/m5-internal-03.md' },
@@ -3233,26 +3236,26 @@ async function render() {
 
   const stepIndicator = (sectionNum && total)
     ? `<div class="step-indicator">Step ${sectionNum} of ${total}</div>`
-    : '';
+    : `<span class="lesson-nav-placeholder"></span>`;
 
   const lessonNav = `<div class="lesson-nav">
     ${prevFile
-      ? `<a href="md-viewer.html?file=${encodeURIComponent(prevFile)}" class="lesson-nav-btn">&#8592; Previous</a>`
+      ? `<a href="md-viewer.html?file=${encodeURIComponent(prevFile)}" class="lesson-nav-btn">&#8592;</a>`
       : `<span class="lesson-nav-placeholder"></span>`}
+    ${stepIndicator}
     ${nextFile
-      ? `<a href="md-viewer.html?file=${encodeURIComponent(nextFile)}" class="lesson-nav-btn">Next &#8594;</a>`
-      : `<a href="curriculum.html" class="lesson-nav-btn">Back to Curriculum</a>`}
+      ? `<a href="md-viewer.html?file=${encodeURIComponent(nextFile)}" class="lesson-nav-btn">&#8594;</a>`
+      : `<a href="curriculum.html" class="lesson-nav-btn">🏠</a>`}
   </div>`;
 
   document.getElementById('main').innerHTML = `
     ${breadcrumb}
+    ${lessonNav}
     <div class="lesson-section">
-      ${stepIndicator}
       <div class="section-heading">${sectionTitle}</div>
       <div class="section-body">${bodyHtml}</div>
       ${quiz ? renderQuiz(quiz) : ''}
     </div>
-    ${lessonNav}
   `;
 
   // Wrap Japanese text in body (not quiz) with clickable pronunciation spans

@@ -73,6 +73,16 @@ The pool is available from 10:00 to 21:00.<br><br>
 Add only information that reduces the guest's planning effort. Omit anything the guest does not need to know before arriving.
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします</code></span>: We are sending you information before your arrival<br>
+<span class="keigo-jp"><code>チェックイン開始時間は〜時からでございます</code></span>: Check-in begins at [time]<br>
+<span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate it if you could<br>
+<span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ</code></span>: If you have any questions or requests before your arrival, please feel free to contact us<br>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております</code></span>: All of our staff sincerely look forward to your arrival
+</div>
+
 ---
 
 ## Quiz

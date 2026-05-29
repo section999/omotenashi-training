@@ -23,6 +23,14 @@ Some learners think complex keigo sounds more professional. In reality, excessiv
 
 Guests should feel comfortable and respected. They should understand the message easily. Professional hospitality writing is not about using the most difficult Japanese. It is about creating smooth, considerate communication.
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>誠にありがとうございます</code></span>: Thank you sincerely<br>
+<span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
+<span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Please feel free to contact us
+</div>
+
 ---
 
 ## Quiz

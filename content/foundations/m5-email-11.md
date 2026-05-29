@@ -65,6 +65,15 @@ After a genuine apology, an enthusiastic return invitation sounds like the hotel
 <span class="keigo-badge good">Forward-looking but not rushed</span> Mention what will be done, but do not rush to close the issue before the guest has had a chance to feel heard.
 </div>
 
+## Key Phrases
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: We sincerely apologize for the inconvenience caused on this occasion<br>
+<span class="keigo-jp"><code>重ねてお詫び申し上げます</code></span>: We sincerely apologize again<br>
+<span class="keigo-jp"><code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります</code></span>: All of our staff will work to prevent the same situation from occurring again<br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Please feel free to contact us if you have any questions
+</div>
+
 ---
 
 ## Quiz
