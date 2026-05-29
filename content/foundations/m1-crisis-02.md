@@ -20,9 +20,10 @@ Truly listening to a complaint means resisting the instinct to respond immediate
 
 Physical listening signals matter:
 
-<div class="keigo-card blue">
-• Face the guest directly<br>• Maintain appropriate eye contact<br>• Keep your body still and open<br>• Do not fidget, check the time, or glance at colleagues
-</div>
+• Face the guest directly
+• Maintain appropriate eye contact
+• Keep your body still and open
+• Do not fidget, check the time, or glance at colleagues
 
 
 These physical details register clearly with an upset guest, even when they are not consciously noticed.

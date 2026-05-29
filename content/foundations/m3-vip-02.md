@@ -8,9 +8,10 @@ Discretion is the most important quality in VIP service. It is not a skill but a
 
 ## What Discretion Means in Practice
 
-<div class="keigo-card blue">
-• Never confirm or deny a VIP guest's presence to anyone, media, other guests, callers, or people claiming to be family or colleagues. The standard response to any such enquiry is: *"I'm afraid I'm not able to share information about our guests."*<br>• Never discuss guests with colleagues outside of operational necessity. The detail that a notable guest ordered room service at 2 a.m. is not a story to share, not even in the staff room.<br>• Never photograph, approach for personal reasons, or request autographs. A VIP guest who is recognised by a staff member in a way that draws attention has been let down by that property.<br>• Manage the environment. If a VIP guest is dining, stay alert to other guests who may recognise them. If needed, manage sightlines, seat the VIP in a more private position, or gently redirect the attention of others.
-</div>
+• Never confirm or deny a VIP guest's presence to anyone, media, other guests, callers, or people claiming to be family or colleagues. The standard response to any such enquiry is: *"I'm afraid I'm not able to share information about our guests."*
+• Never discuss guests with colleagues outside of operational necessity. The detail that a notable guest ordered room service at 2 a.m. is not a story to share, not even in the staff room.
+• Never photograph, approach for personal reasons, or request autographs. A VIP guest who is recognised by a staff member in a way that draws attention has been let down by that property.
+• Manage the environment. If a VIP guest is dining, stay alert to other guests who may recognise them. If needed, manage sightlines, seat the VIP in a more private position, or gently redirect the attention of others.
 
 
 ## The Standard to Apply

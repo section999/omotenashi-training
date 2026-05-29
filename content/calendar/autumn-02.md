@@ -8,7 +8,7 @@ title: Respect for the Aged Day (敬老の日), 3rd Monday of September
 
 ## Cultural Context
 
-Japan has one of the oldest populations in the world, and the treatment of the elderly carries genuine social and ethical weight. *Omoiyari* (思いやり), empathetic consideration for others, is especially significant toward older guests, for whom travel may require greater effort and planning than it once did. When a family organises a special trip for an elderly relative, that act itself is meaningful. The hospitality professional's role is to honour the occasion alongside them.
+Japan has one of the oldest populations in the world, and the treatment of the elderly carries genuine social and ethical weight. 思いやり (<em>Omoiyari</em>), empathetic consideration for others, is especially significant toward older guests, for whom travel may require greater effort and planning than it once did. When a family organises a special trip for an elderly relative, that act itself is meaningful. The hospitality professional's role is to honour the occasion alongside them.
 
 ## Physical and Practical Considerations
 

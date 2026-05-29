@@ -20,9 +20,10 @@ Proactive service requires a specific skill: **kikubari (気配り)**, attentive
 
 Examples of kikubari in practice:
 
-<div class="keigo-card blue">
-• Noticing that a guest's glass is approaching empty and refilling it before it runs dry<br>• Observing that a guest is shivering slightly and offering to adjust the temperature before they speak<br>• Seeing that a couple celebrating an anniversary has chosen a quiet corner and ensuring they are not unnecessarily interrupted<br>• Recognising a returning guest and addressing them by name before they provide it at check-in
-</div>
+• Noticing that a guest's glass is approaching empty and refilling it before it runs dry
+• Observing that a guest is shivering slightly and offering to adjust the temperature before they speak
+• Seeing that a couple celebrating an anniversary has chosen a quiet corner and ensuring they are not unnecessarily interrupted
+• Recognising a returning guest and addressing them by name before they provide it at check-in
 
 
 Each of these requires observation, judgment, and care. Each creates a moment the guest will feel even if they cannot articulate why.

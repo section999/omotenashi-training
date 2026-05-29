@@ -72,26 +72,17 @@ Excellent concierge service does not just answer questions, it anticipates the n
 
 <div class="keigo-card blue">
 After providing directions:<br>
-<span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span>: Shall I prepare a map for you?<br><br>
+<span class="keigo-jp"><code>地図もご用意できますが、いかがでしょうか。</code></span><br>
+Shall I prepare a map for you?<br><br>
 After suggesting a restaurant:<br>
-<span class="keigo-jp"><code>ご予約をお取りすることもできますが、いかがでしょうか。</code></span>: Shall I make a reservation for you?<br><br>
+<span class="keigo-jp"><code>ご予約をお取りすることもできますが、いかがでしょうか。</code></span><br>
+Shall I make a reservation for you?<br><br>
 After arranging transport:<br>
-<span class="keigo-jp"><code>タクシーのご手配もできますが、いかがでしょうか。</code></span>: Shall I arrange a taxi for you?<br><br>
+<span class="keigo-jp"><code>タクシーのご手配もできますが、いかがでしょうか。</code></span><br>
+Shall I arrange a taxi for you?
+</div>
+
 These proactive offers embody the omotenashi principle: anticipating needs before they are expressed.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいまお持ちいたします</code></span><br>
-I will bring it to you right away.<br><br>
-<span class="keigo-jp"><code>ほかにご要望はございますでしょうか</code></span><br>
-Is there anything else you would like?<br><br>
-<span class="keigo-jp"><code>確認してまいります</code></span><br>
-I will check and come back to you.<br><br>
-<span class="keigo-jp"><code>〜のご予約をお取りすることもできますが、いかがでしょうか</code></span><br>
-Shall I make a reservation for 〜?
-</div>
 
 ---
 

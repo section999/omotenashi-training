@@ -100,20 +100,6 @@ This phrase deserves special attention. It is not simply "goodbye." It communica
 
 The phrase leaves the check-in feeling complete and warm, rather than efficient and transactional.
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome<br><br>
-<span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
-May I ask for the name on your reservation?<br><br>
-<span class="keigo-jp"><code>〜様でいらっしゃいますね。かしこまりました。</code></span><br>
-You are 〜, correct? Certainly.<br><br>
-<span class="keigo-jp"><code>お間違いないでしょうか</code></span><br>
-Is everything correct?<br><br>
-<span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span><br>
-We hope you enjoy a relaxing stay.
-</div>
-
 ---
 
 ## Quiz

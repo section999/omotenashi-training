@@ -8,18 +8,11 @@ Strong internal communication is the infrastructure beneath every smooth guest i
 
 ## The Five Standards
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Use ホウレンソウ consistently</span><br>
-Every situation fits one of three types: 報告 (report outcomes and problems upward), 連絡 (pass information to whoever needs it), 相談 (consult when uncertain). Choosing the right type determines the right structure and timing.<br><br>
-<span class="keigo-badge info">2. Conclusion first</span><br>
-State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately; supporting detail follows.<br><br>
-<span class="keigo-badge info">3. Include who, what, when, and next step</span><br>
-Incomplete messages cause follow-up questions that slow operations. Every message should answer these four elements.<br><br>
-<span class="keigo-badge info">4. Match register to the relationship</span><br>
-Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally; it slows communication and sounds unnatural.<br><br>
-<span class="keigo-badge info">5. Never delay a report to solve it first</span><br>
-Report the problem, then solve it. A supervisor who hears about a problem two hours after it occurred cannot manage the floor effectively. Report early and update as the situation develops.
-</div>
+- **1. Use ホウレンソウ consistently:** Every situation fits one of three types: 報告 (report outcomes and problems upward), 連絡 (pass information to whoever needs it), 相談 (consult when uncertain). Choosing the right type determines the right structure and timing.
+- **2. Conclusion first:** State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately; supporting detail follows.
+- **3. Include who, what, when, and next step:** Incomplete messages cause follow-up questions that slow operations. Every message should answer these four elements.
+- **4. Match register to the relationship:** Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally; it slows communication and sounds unnatural.
+- **5. Never delay a report to solve it first:** Report the problem, then solve it. A supervisor who hears about a problem two hours after it occurred cannot manage the floor effectively. Report early and update as the situation develops.
 
 ## The Five Common Errors
 
@@ -66,8 +59,6 @@ Functional and professional without over-formality.
 
 ## Quick Reference: Situation to Phrase
 
-<div class="keigo-card blue">
-
 | Situation | Type | Key Opening |
 |---|---|---|
 | Task completed | 報告 | 〇〇の件、完了いたしました |
@@ -79,25 +70,12 @@ Functional and professional without over-formality.
 | Reporting your own error | 報告 | ご報告いたします。〇〇の際にミスがございました |
 | Escalating to a manager | 相談 + 報告 | 私の対応範囲を超えていると判断いたしました |
 
-</div>
-
 ## Internal Communication and Guest Experience
 
-<div class="keigo-card blue">
-Every phrase covered in this sub-module exists for one reason: to allow the hotel to respond to guest needs faster and more accurately than it otherwise could.<br><br>
+Every phrase covered in this sub-module exists for one reason: to allow the hotel to respond to guest needs faster and more accurately than it otherwise could.
+
+
 A staff member who reports clearly saves their supervisor time. A colleague who passes complete 連絡 prevents a guest from waiting. A team member who consults well gets the right answer and applies it immediately. The omotenashi philosophy of anticipating and meeting guest needs depends entirely on a team that communicates internally with the same care and precision they bring to guest-facing interactions.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご報告いたします</code></span>: I am reporting this to you.<br><br>
-<span class="keigo-jp"><code>ご連絡させていただきます</code></span>: I would like to share some information.<br><br>
-<span class="keigo-jp"><code>少しご相談してもよろしいでしょうか</code></span>: May I consult with you for a moment?<br><br>
-<span class="keigo-jp"><code>いかがいたしましょうか</code></span>: How would you like me to proceed?<br><br>
-<span class="keigo-jp"><code>対応についてご指示をいただけますでしょうか</code></span>: Could I have your guidance on how to proceed?<br><br>
-<span class="keigo-jp"><code>かしこまりました。そのように対応いたします</code></span>: Understood. I will proceed accordingly.
-</div>
 
 ---
 

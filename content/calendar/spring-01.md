@@ -6,7 +6,7 @@ title: Sakura Season, Cherry Blossom Viewing (花見 Hanami)
 
 **Season:** Spring · Late March to Early May
 
-From late March through mid-April, Japan's cherry blossoms transform cities and countryside into something extraordinary. This is one of the peak foreign tourist seasons, and Japanese guests arrive in a celebratory, emotionally elevated mood. Parks fill with *hanami* (花見, flower-viewing) picnickers, and the atmosphere throughout the country is festive, communal, and tinged with the awareness that the blossoms will not last.
+From late March through mid-April, Japan's cherry blossoms transform cities and countryside into something extraordinary. This is one of the peak foreign tourist seasons, and Japanese guests arrive in a celebratory, emotionally elevated mood. Parks fill with 花見 (<em>hanami</em>, flower-viewing) picnickers, and the atmosphere throughout the country is festive, communal, and tinged with the awareness that the blossoms will not last.
 
 ## The Cultural Meaning
 
@@ -23,7 +23,7 @@ Front-line staff should know today's bloom conditions as a matter of professiona
 ## Service Touches for Sakura Season
 
 - Have umbrellas ready at the entrance, spring showers are frequent during bloom, and a guest who misses the peak because of rain will remember it
-- Offer sakura-themed seasonal sweets (*wagashi*) with afternoon tea
+- Offer sakura-themed seasonal sweets (<em>wagashi</em>) with afternoon tea
 - Recommend early-morning or early-evening viewing times, these are less crowded and the light is softer
 - For guests celebrating anniversaries or milestones during sakura season, a brief note acknowledging the occasion connects the property to the emotional significance of their visit
 

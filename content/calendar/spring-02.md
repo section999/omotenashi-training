@@ -6,7 +6,7 @@ title: New Fiscal & Academic Year (新年度 Shinnendo), April 1
 
 **Season:** Spring · March to May
 
-Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and new employees, *shinjin sha-in* (新入社員), begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
+Japan's business and educational calendar resets on April 1st. Companies begin new fiscal years, universities and schools welcome new students, and new employees, 新入社員 (<em>shinjin sha-in</em>), begin their professional careers. This creates a distinctive wave of travel: family trips to accompany children moving to new cities, farewell dinners for colleagues transferring, and welcome gatherings for new teams.
 
 ## The Emotional Landscape
 
@@ -22,7 +22,7 @@ Reading the specific emotional tone of each guest and responding to it is more n
 
 ## Service Guidance
 
-Congratulatory greetings are genuinely meaningful in this context, but only when used with awareness. Offering *ご入学おめでとうございます* to a family that is clearly not in that situation is awkward. Read the context before using a specific greeting.
+Congratulatory greetings are genuinely meaningful in this context, but only when used with awareness. Offering <em>ご入学おめでとうございます</em> to a family that is clearly not in that situation is awkward. Read the context before using a specific greeting.
 
 ---
 

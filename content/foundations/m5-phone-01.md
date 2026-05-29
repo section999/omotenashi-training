@@ -48,12 +48,13 @@ Uses でございます, establishes formal service register
 ## Analyzing the Opening Line
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span>
-<br><br>
-<span class="keigo-badge info">Gratitude</span> お電話ありがとうございます, communicates that the call is welcomed and valued. Even a brief moment of tension in the guest is immediately reduced.<br><br>
-<span class="keigo-badge info">Identity</span> ホテル○○でございます, confirms the guest has reached the correct place, removing any uncertainty.<br><br>
-<span class="keigo-badge info">Register</span> でございます (de gozaimasu) signals a formal, high-service environment. It prepares the guest to expect professional handling throughout the call.
+<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
+Thank you for your call. This is Hotel ○○.
 </div>
+
+- **Gratitude:** お電話ありがとうございます communicates that the call is welcomed and valued. Even a brief moment of tension in the guest is immediately reduced.
+- **Identity:** ホテル○○でございます confirms the guest has reached the correct place, removing any uncertainty.
+- **Register:** でございます (de gozaimasu) signals a formal, high-service environment. It prepares the guest to expect professional handling throughout the call.
 
 ## Telephone as Brand Management
 
@@ -62,22 +63,6 @@ For many guests, the telephone call is their **first contact** with the hotel, b
 This means: **every telephone call is a moment of brand management**.
 
 The staff member who answers the phone carries the reputation of the entire hotel in their voice. The phone call is not the beginning of service, it is service itself.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
-<em>o-denwa arigatou gozaimasu. hoteru ○○ de gozaimasu.</em><br>
-Thank you for your call. This is Hotel ○○.<br><br>
-<span class="keigo-jp"><code>お電話ありがとうございます。フロントでございます。</code></span><br>
-Thank you for your call. This is the front desk.<br><br>
-<span class="keigo-jp"><code>お電話ありがとうございます。レストランでございます。</code></span><br>
-Thank you for your call. This is the restaurant.<br><br>
-<span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>
-Please wait a moment.<br><br>
-<span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
-Thank you very much for waiting.
-</div>
 
 ---
 

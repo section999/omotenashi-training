@@ -8,11 +8,11 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Organize:</strong> Present practical information clearly and in logical order so the guest does not have to search or ask.<br>
-<strong>2. Reassure:</strong> The guest should feel everything is arranged and under control.<br>
-<strong>3. Welcome:</strong> Even a practical email must carry warmth. Close with genuine anticipation.
-</div>
+**1. Organize:** Present practical information clearly and in logical order so the guest does not have to search or ask.
+
+**2. Reassure:** The guest should feel everything is arranged and under control.
+
+**3. Welcome:** Even a practical email must carry warmth. Close with genuine anticipation.
 
 ## Full Template
 
@@ -50,16 +50,24 @@ All of our staff sincerely look forward to your arrival.
 
 ## Writing Principles for This Email
 
-<div class="keigo-card blue">
-<strong>One piece of information per sentence</strong><br>
-Do not write: "Check-in is at 15:00 and check-out is at 11:00 and the parking lot is at the front." Separate each fact into its own sentence.<br><br>
-<strong>Use でございます for all stated facts</strong><br>
-Every operational fact (check-in time, checkout time, location) should use でございます as the sentence ending.<br><br>
-<strong>Use soft forms for requests</strong><br>
-When asking the guest to bring something or do something, use 〜いただけますと幸いでございます rather than a direct command.<br><br>
-<strong>Do not overwhelm</strong><br>
+**One piece of information per sentence**
+
+Do not write: "Check-in is at 15:00 and check-out is at 11:00 and the parking lot is at the front." Separate each fact into its own sentence.
+
+
+**Use でございます for all stated facts**
+
+Every operational fact (check-in time, checkout time, location) should use でございます as the sentence ending.
+
+
+**Use soft forms for requests**
+
+When asking the guest to bring something or do something, use 〜いただけますと幸いでございます rather than a direct command.
+
+
+**Do not overwhelm**
+
 A pre-arrival email should cover only the most important practical information. Every detail will be communicated again at check-in. Long emails reduce readability.
-</div>
 
 ## Optional Additions
 
@@ -69,19 +77,10 @@ A pre-arrival email should cover only the most important practical information. 
 The nearest station is [Station]. It is approximately a 5-minute walk.<br><br>
 <strong>Amenity note:</strong><br>
 <span class="keigo-jp"><code>プールは10:00〜21:00にご利用いただけます。</code></span><br>
-The pool is available from 10:00 to 21:00.<br><br>
+The pool is available from 10:00 to 21:00.
+</div>
+
 Add only information that reduces the guest's planning effort. Omit anything the guest does not need to know before arriving.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします</code></span>: We are sending you information before your arrival<br>
-<span class="keigo-jp"><code>チェックイン開始時間は〜時からでございます</code></span>: Check-in begins at [time]<br>
-<span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate it if you could<br>
-<span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ</code></span>: If you have any questions or requests before your arrival, please feel free to contact us<br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております</code></span>: All of our staff sincerely look forward to your arrival
-</div>
 
 ---
 

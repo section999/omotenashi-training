@@ -77,20 +77,10 @@ Regarding 〜, I understand it means 〜. Is that correct?<br><br>
 <span class="keigo-jp"><code>501号室の延泊確認は、本日15時までに必要でしょうか。</code></span><br>
 Does the extension confirmation for Room 501 need to be done by 15:00 today?<br><br>
 <span class="keigo-jp"><code>承りました。</code></span><br>
-I have received the briefing.<br><br>
+I have received the briefing.
+</div>
+
 The incoming staff should confirm unclear items during the briefing, not after the outgoing staff has left.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>では、引き継ぎをお伝えいたします</code></span>: Starting the briefing<br>
-<span class="keigo-jp"><code>経過の確認をお願いします</code></span>: Please follow up on this<br>
-<span class="keigo-jp"><code>本日中にご対応をお願いします</code></span>: Please handle this today<br>
-<span class="keigo-jp"><code>以上が本日の引き継ぎ事項です</code></span>: Closing the briefing<br>
-<span class="keigo-jp"><code>何かご不明な点はございますか</code></span>: Any questions?<br>
-<span class="keigo-jp"><code>承りました</code></span>: Received and understood
-</div>
 
 ---
 

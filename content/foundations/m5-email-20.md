@@ -35,15 +35,6 @@ If you have any questions, please feel free to contact us.
 
 This explains the situation clearly, acknowledges inconvenience politely, and requests understanding. The phrase **何卒ご理解のほどお願い申し上げます** (nanitozo go-rikai no hodo onegai moushiagemasu) is commonly used in professional notice emails.
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span>: Thank you for your continued use of our hotel<br>
-<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします</code></span>: We will conduct facility inspections on the following schedule<br>
-<span class="keigo-jp"><code>何卒ご理解のほどお願い申し上げます</code></span>: We kindly ask for your understanding<br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ</code></span>: If you have any questions, please feel free to contact us
-</div>
-
 ---
 
 ## Quiz

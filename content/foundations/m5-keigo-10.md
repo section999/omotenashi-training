@@ -102,8 +102,6 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 
 わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment.
 
-<div class="keigo-card blue">
-
 | Expression | Register | When to Use |
 |---|---|---|
 | わかった | Casual | Never in hotel service |
@@ -111,34 +109,25 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 | 承知しました | Business polite | Internal staff communication |
 | かしこまりました | Hotel keigo | Every guest-facing acknowledgment |
 
-<br>
 <span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
 Certainly. I will confirm that right now.
-</div>
 
 ## The Underlying Pattern
 
 All five errors have the same root cause: reverting to the language that feels instinctive rather than applying the trained hotel standard.
 
-<div class="keigo-card blue">
-Errors happen most often when staff are:<br>
-- Tired or operating under stress<br>
-- Handling an unexpected situation for the first time<br>
-- Switching between guest interactions quickly<br>
-- Speaking with colleagues and then immediately turning to a guest<br><br>
+Errors happen most often when staff are:
+
+- Tired or operating under stress
+
+- Handling an unexpected situation for the first time
+
+- Switching between guest interactions quickly
+
+- Speaking with colleagues and then immediately turning to a guest
+
+
 The solution is not more vocabulary. It is enough repetition that the hotel forms become the instinctive ones, replacing the casual defaults.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge good">Guest eats</span> <span class="keigo-jp"><code>召し上がります</code></span> (not 食べます)<br>
-<span class="keigo-badge good">Staff guides</span> <span class="keigo-jp"><code>ご案内いたします</code></span> (not 案内します)<br>
-<span class="keigo-badge good">Colleague is here</span> <span class="keigo-jp"><code>担当者がおります</code></span> (not いらっしゃいます)<br>
-<span class="keigo-badge good">I will visit</span> <span class="keigo-jp"><code>お伺いいたします</code></span> (not お伺いさせていただきます)<br>
-<span class="keigo-badge good">Certainly</span> <span class="keigo-jp"><code>かしこまりました</code></span> (not わかりました)<br>
-<span class="keigo-badge good">Please wait</span> <span class="keigo-jp"><code>少々お待ちくださいませ</code></span> (not 待ってください)
-</div>
 
 ---
 

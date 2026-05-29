@@ -10,7 +10,7 @@ Tanabata celebrates the annual meeting of the star deities **Orihime (織姫)**,
 
 ## The Tradition of Tanzaku
 
-The central Tanabata practice is writing a wish on a narrow strip of colourful paper called **tanzaku (短冊)** and hanging it on a bamboo branch (*sasa*). Bamboo grows quickly and reaches toward the sky, making it a natural symbol for wishes being sent upward to the stars.
+The central Tanabata practice is writing a wish on a narrow strip of colourful paper called **tanzaku (短冊)** and hanging it on a bamboo branch (<em>sasa</em>). Bamboo grows quickly and reaches toward the sky, making it a natural symbol for wishes being sent upward to the stars.
 
 Colours carry meanings: yellow for ambition and productivity, white for purity, red for relationships, blue for intellectual growth, black or purple for formal occasions.
 
@@ -22,10 +22,10 @@ A well-executed Tanabata display does three things: it celebrates the season, it
 
 ## Creating a Tanabata Experience
 
-- Place a decorated bamboo (*sasa*) in the lobby or common area with tanzaku and pens available
+- Place a decorated bamboo (<em>sasa</em>) in the lobby or common area with tanzaku and pens available
 - Station a staff member nearby who can explain the tradition briefly and invite participation without pressure
 - For Japanese guests, the tradition is familiar, acknowledge it warmly and invite them to add a wish
-- For international guests, a brief explanation transforms a decorative element into a cultural experience: *"This is a bamboo for Tanabata, we write wishes on the paper strips and hang them, sending them to the stars."*
+- For international guests, a brief explanation transforms a decorative element into a cultural experience: <em>"This is a bamboo for Tanabata, we write wishes on the paper strips and hang them, sending them to the stars."</em>
 - Collect the wishes at the end of the day and, at some properties, burn them ceremonially, the traditional way to send wishes onward
 
 ---

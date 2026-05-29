@@ -29,14 +29,13 @@ The opening, body, and closing must all operate at the same formality level. A s
 
 Hotel email language is not cold business Japanese and it is not casual friendly Japanese. It sits between the two.
 
-<div class="keigo-card blue">
-<span class="keigo-badge bad">Too cold</span> <span class="keigo-jp"><code>ご確認ください。</code></span><br>
-Grammatically polite but emotionally distant. Lacks warmth.<br><br>
-<span class="keigo-badge bad">Too casual</span> <span class="keigo-jp"><code>チェックしてくださいね！</code></span><br>
-Friendly but not appropriate for hotel correspondence.<br><br>
-<span class="keigo-badge good">Hotel standard</span> <span class="keigo-jp"><code>ご確認いただけますと幸いでございます。</code></span><br>
-Polite, gentle, warm, and professional.
-</div>
+| Register | Phrase |
+|---|---|
+| Too cold | ご確認ください。 |
+| Too casual | チェックしてくださいね！ |
+| Hotel standard | ご確認いただけますと幸いでございます。 |
+
+The "too cold" form is grammatically polite but emotionally distant. The "too casual" form is friendly but not appropriate for hotel correspondence. The hotel standard is polite, gentle, warm, and professional.
 
 ## Rule 3: Avoid Overly Complex Keigo
 
@@ -78,8 +77,6 @@ An email that ends with the last piece of information, without a closing phrase,
 
 Small word choices within the body of an email create a significant difference in perceived quality. Know the hotel-standard replacements.
 
-<div class="keigo-card blue">
-
 | Everyday Form | Hotel Email Standard |
 |---|---|
 | ありがとうございます | 誠にありがとうございます |
@@ -89,30 +86,22 @@ Small word choices within the body of an email create a significant difference i
 | また来てください | またのお越しをお待ちしております |
 | わかりました | かしこまりました / 承りました |
 
-</div>
-
 ## The Test: Read from the Guest's Perspective
 
 Before sending any email, read it as if you are the guest receiving it for the first time. Ask:
 
-<div class="keigo-card blue">
-1. Does the opening match the guest's relationship type?<br>
-2. Is the register consistent from opening to closing?<br>
-3. Is there anything that sounds too casual, too stiff, or emotionally cold?<br>
-4. Does the closing create the right final impression?<br>
-5. Would a guest reading this feel genuinely welcomed and cared for?<br><br>
+1. Does the opening match the guest's relationship type?
+
+2. Is the register consistent from opening to closing?
+
+3. Is there anything that sounds too casual, too stiff, or emotionally cold?
+
+4. Does the closing create the right final impression?
+
+5. Would a guest reading this feel genuinely welcomed and cared for?
+
+
 If any answer is no, revise before sending.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>誠にありがとうございます</code></span>: Thank you sincerely<br>
-<span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
-<span class="keigo-jp"><code>ご安心くださいませ</code></span>: Please be assured<br>
-<span class="keigo-jp"><code>かしこまりました / 承りました</code></span>: Certainly / Understood<br>
-<span class="keigo-jp"><code>またのお越しをお待ちしております</code></span>: We look forward to welcoming you again
-</div>
 
 ---
 

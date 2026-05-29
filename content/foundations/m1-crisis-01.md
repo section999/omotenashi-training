@@ -18,9 +18,9 @@ Even a guest who is expressing frustration loudly or emotionally is, underneath 
 
 Every complaint is information.
 
-<div class="keigo-card blue">
-• A complaint about noise from a neighbouring room tells you about soundproofing or scheduling.<br>• A complaint about a dish tells you about consistency in the kitchen.<br>• A complaint about a slow response tells you about staffing or internal communication.
-</div>
+• A complaint about noise from a neighbouring room tells you about soundproofing or scheduling.
+• A complaint about a dish tells you about consistency in the kitchen.
+• A complaint about a slow response tells you about staffing or internal communication.
 
 
 Treated as feedback rather than attack, complaints are an ongoing quality audit. The property that listens carefully to its failures and acts accordingly will improve faster than one that responds defensively.

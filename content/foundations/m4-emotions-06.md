@@ -48,9 +48,9 @@ When the signals are ambiguous, respond with simplicity and gentleness in either
 
 For a travel-fatigued guest, omoiyari takes practical forms:
 
-<div class="keigo-card blue">
-• A glass of water placed quietly on the desk without comment<br>• A faster check-in process<br>• A softer voice and reduced information
-</div>
+• A glass of water placed quietly on the desk without comment
+• A faster check-in process
+• A softer voice and reduced information
 
 
 The care is genuine, but it is made invisible. The guest experiences only the comfort it creates.

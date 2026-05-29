@@ -12,9 +12,9 @@ Messaging apps feel casual because most people use them that way. A guest asking
 
 Avoid the following in guest messages:
 
-<div class="keigo-card blue">
-• Abbreviations (*"Sry for wait"*, *"thx for ur msg"*)<br>• Emoji in formal contexts (a brief, appropriate emoji can warm a personal conversation, but use judgment)<br>• One-word replies (*"OK"*, *"Sure"*) without context or warmth
-</div>
+• Abbreviations (*"Sry for wait"*, *"thx for ur msg"*)
+• Emoji in formal contexts (a brief, appropriate emoji can warm a personal conversation, but use judgment)
+• One-word replies (*"OK"*, *"Sure"*) without context or warmth
 
 
 ## Response Speed

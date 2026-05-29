@@ -29,13 +29,11 @@ I need to report something. I made a verification error regarding [matter]. The 
 
 ## The Internal Error Report Structure
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. State the fact first</span>: What happened? What was the error?<br>
-<span class="keigo-badge info">2. State the current impact</span>: How is this affecting the guest or operations right now?<br>
-<span class="keigo-badge info">3. State what you have already done</span>: Have you taken any initial steps to address it?<br>
-<span class="keigo-badge info">4. Ask for guidance</span>: Request specific direction on next steps.<br><br>
-<span class="keigo-badge bad">Do not</span> Begin with a long apology. Do not frame the report around your feelings. Do not minimize the impact. Report the facts, then accept guidance.
-</div>
+- **1. State the fact first:** What happened? What was the error?
+- **2. State the current impact:** How is this affecting the guest or operations right now?
+- **3. State what you have already done:** Have you taken any initial steps to address it?
+- **4. Ask for guidance:** Request specific direction on next steps.
+- **Do not:** Begin with a long apology. Do not frame the report around your feelings. Do not minimize the impact. Report the facts, then accept guidance.
 
 ## Script: Reporting a Check-In Error
 
@@ -59,18 +57,14 @@ The guest is still at the front desk.
 
 ## The Escalation Threshold
 
-<div class="keigo-card blue">
-<span class="keigo-badge bad">Escalate now</span> The guest is visibly angry or upset and is not responding to your initial handling<br>
-<span class="keigo-badge bad">Escalate now</span> The request involves compensation, a refund, or a policy exception<br>
-<span class="keigo-badge bad">Escalate now</span> The guest mentions a safety concern that has not been resolved<br>
-<span class="keigo-badge bad">Escalate now</span> The guest has asked for a manager by name<br><br>
-<span class="keigo-badge good">Handle yourself</span> Standard requests within your authority and training<br>
-<span class="keigo-badge good">Handle yourself</span> Complaints where you have a clear resolution available
-</div>
+- **Escalate now:** The guest is visibly angry or upset and is not responding to your initial handling
+- **Escalate now:** The request involves compensation, a refund, or a policy exception
+- **Escalate now:** The guest mentions a safety concern that has not been resolved
+- **Escalate now:** The guest has asked for a manager by name
+- **Handle yourself:** Standard requests within your authority and training
+- **Handle yourself:** Complaints where you have a clear resolution available
 
 ## The Internal vs. Guest-Facing Apology
-
-<div class="keigo-card blue">
 
 | Context | Tone | Focus | Language |
 |---|---|---|---|
@@ -78,17 +72,6 @@ The guest is still at the front desk.
 | Guest-facing | Warm, emotionally attentive | Guest's experience | 誠に申し訳ございません。ご不便をおかけいたしました |
 
 Using guest-facing apology language internally wastes time. Using internal apology language with a guest sounds cold and insufficient. The register must match the audience.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご報告いたします。〇〇の際にミスがございました</code></span>: I need to report something. There was an error with [X].<br><br>
-<span class="keigo-jp"><code>対応についてご指示をいただけますでしょうか</code></span>: Could I have your guidance on how to proceed?<br><br>
-<span class="keigo-jp"><code>私の対応範囲を超えていると判断いたしました</code></span>: I have judged this to be beyond my scope.<br><br>
-<span class="keigo-jp"><code>ご対応をお願いできますでしょうか</code></span>: Could you please step in?<br><br>
-<span class="keigo-jp"><code>お客様はまだフロントにいらっしゃいます</code></span>: The guest is still at the front desk.
-</div>
 
 ---
 

@@ -82,25 +82,11 @@ This is one of the most important distinctions in hotel Japanese, and one of the
 </div>
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">かしこまりました</span> → Guest makes a request ("Please arrange a twin room"), confirm receipt with full service neutrality<br><br>
-<span class="keigo-badge info">承知いたしました</span> → Guest provides information ("I will arrive at 10pm"), confirm the information was received and logged<br><br>
-<span class="keigo-badge bad">分かりました</span> → Never use with guests. Appropriate only between staff members.
-</div>
+- **かしこまりました:** Guest makes a request ("Please arrange a twin room") — confirm receipt with full service neutrality.
+- **承知いたしました:** Guest provides information ("I will arrive at 10pm") — confirm the information was received and logged.
+- **分かりました:** Never use with guests. Appropriate only between staff members.
 
 The difference is subtle but significant. かしこまりました positions the staff member as a service professional receiving an instruction. 分かりました positions them as an equal acknowledging a statement. In hotel service, the relationship is never equal, it is always service-directed.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>かしこまりました</code></span>: Certainly (for requests)<br>
-<span class="keigo-jp"><code>承知いたしました</code></span>: Understood (for information)<br>
-<span class="keigo-jp"><code>少々お待ちくださいませ</code></span>: Please wait a moment<br>
-<span class="keigo-jp"><code>大変お待たせいたしました</code></span>: Thank you for waiting<br>
-<span class="keigo-jp"><code>おつなぎいたします</code></span>: I will connect you<br>
-<span class="keigo-jp"><code>申し訳ございません</code></span>: I am very sorry<br>
-<span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: I am sorry to trouble you, but...
-</div>
 
 ---
 

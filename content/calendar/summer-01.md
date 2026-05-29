@@ -6,7 +6,7 @@ title: Tsuyu, Rainy Season (梅雨), June to Mid-July
 
 **Season:** Summer · June to mid-July
 
-The rainy season, *tsuyu* (梅雨, literally "plum rain"), brings weeks of sustained humidity and frequent rain across most of Japan from early June through mid-July. The name comes from the coincidence with the ripening of *ume* (plum) fruit. Guests arrive damp, sometimes chilled despite the warmth, and often in a low mood. This is, quietly, one of the best opportunities in the hospitality year to demonstrate genuine care.
+The rainy season, 梅雨 (<em>tsuyu</em>, literally "plum rain"), brings weeks of sustained humidity and frequent rain across most of Japan from early June through mid-July. The name comes from the coincidence with the ripening of <em>ume</em> (plum) fruit. Guests arrive damp, sometimes chilled despite the warmth, and often in a low mood. This is, quietly, one of the best opportunities in the hospitality year to demonstrate genuine care.
 
 ## Why Tsuyu Is an Opportunity
 
@@ -17,7 +17,7 @@ A property that meets them with warmth and attentiveness during a season many ov
 ## Service Adjustments During Tsuyu
 
 - **Umbrellas at the entrance**, Complimentary umbrellas should be visibly available near all exits. Properties near train stations may offer loaner umbrellas for the day.
-- **Wet arrivals**, Guests who have walked through rain need immediate practical care. A warm *oshibori* (hand towel) offered at the door before check-in begins communicates that the conditions were anticipated.
+- **Wet arrivals**, Guests who have walked through rain need immediate practical care. A warm <em>oshibori</em> (hand towel) offered at the door before check-in begins communicates that the conditions were anticipated.
 - **Footwear care**, In traditional properties, wet footwear at the entrance should be handled with care. A towel or shoe dryer can make a significant difference to a guest who has been walking in the rain.
 - **Humidity management**, Rooms should be dehumidified and well-ventilated. A room that smells damp undermines everything else.
 - **Indoor experience programming**, During sustained rain, proactively offer alternatives to outdoor plans: in-house onsen, traditional indoor activities, tea ceremony arrangements, cooking classes.

@@ -10,9 +10,11 @@ Not all apologies are equal. A poor apology can make a situation significantly w
 
 Several common apology patterns fail to communicate genuine care:
 
-<div class="keigo-card blue">
-• *"I'm sorry you feel that way"*, apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.<br>• *"I apologise if there was an issue"*, the conditional "if" implies doubt that anything actually went wrong.<br>• *"We're very busy tonight"*, offering an explanation before an apology deflects responsibility before acknowledging impact.<br>• *"I'll pass that feedback along"*, distances the staff member from the problem and relocates it elsewhere.<br>• *"That's not normally how we operate"*, prioritises the property's reputation over the guest's experience.
-</div>
+• *"I'm sorry you feel that way"*, apologises for the guest's feeling, not for what happened. It implies the problem is their sensitivity, not the situation.
+• *"I apologise if there was an issue"*, the conditional "if" implies doubt that anything actually went wrong.
+• *"We're very busy tonight"*, offering an explanation before an apology deflects responsibility before acknowledging impact.
+• *"I'll pass that feedback along"*, distances the staff member from the problem and relocates it elsewhere.
+• *"That's not normally how we operate"*, prioritises the property's reputation over the guest's experience.
 
 
 Each of these patterns, however subtly, communicates: I am managing this situation, not caring about you. Staff sometimes reach for these phrases under pressure because they feel safer. They are not safer. They usually make things worse.

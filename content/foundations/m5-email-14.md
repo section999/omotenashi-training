@@ -106,16 +106,6 @@ An email that ends with the last piece of information and no closing phrase feel
 </div>
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-Post-stay: <span class="keigo-jp"><code>ありがとうございました</code></span> (not ありがとうございます)<br>
-Apology opening: <span class="keigo-jp"><code>誠に申し訳ございません</code></span> (not ありがとうございます)<br>
-First-time guest: <span class="keigo-jp"><code>この度は</code></span> (not いつもお世話になっております)<br>
-Closing: <span class="keigo-jp"><code>〜くださいませ</code></span> (not 〜ください or 〜くださいね)<br>
-Fact statements: <span class="keigo-jp"><code>でございます</code></span> (not です)
-</div>
-
 ---
 
 ## Quiz

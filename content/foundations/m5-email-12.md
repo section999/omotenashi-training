@@ -8,11 +8,11 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Confirm:</strong> State clearly that the cancellation has been processed.<br>
-<strong>2. Acknowledge fee if applicable:</strong> Communicate cancellation fees, if any, in a professional and non-confrontational way.<br>
-<strong>3. Preserve relationship:</strong> End with warmth that keeps the door open for a future booking.
-</div>
+**1. Confirm:** State clearly that the cancellation has been processed.
+
+**2. Acknowledge fee if applicable:** Communicate cancellation fees, if any, in a professional and non-confrontational way.
+
+**3. Preserve relationship:** End with warmth that keeps the door open for a future booking.
 
 ## Template 1: Simple Cancellation (No Fee)
 
@@ -69,17 +69,10 @@ We hope to have the opportunity to welcome you again.
 ## Key Phrase: 誠に恐れ入りますが
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: "I am truly sorry to say, but..."<br>
+<span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: "I am truly sorry to say, but..."
+</div>
+
 This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>キャンセル料は発生しておりません</code></span>: No cancellation fee has been charged<br>
-<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします</code></span>: We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply<br>
-<span class="keigo-jp"><code>またの機会にぜひ当ホテルをご利用いただけますと幸いでございます</code></span>: We hope to have the opportunity to welcome you again
-</div>
 
 ---
 

@@ -43,22 +43,26 @@ Holds are moments of silence, and silence creates anxiety. The staff member must
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>確認いたしますので、少々お待ちくださいませ。</code></span><br>
-I will check on that, please wait a moment.<br><br>
-<span class="keigo-badge info">Rule</span> Never place a guest on hold without explaining what you are checking. The guest needs to know the silence has a purpose.
+I will check on that, please wait a moment.
 </div>
+
+Never place a guest on hold without explaining what you are checking. The guest needs to know the silence has a purpose.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
-Thank you very much for waiting.<br><br>
-<span class="keigo-badge info">Rule</span> Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment, the guest's patience is genuinely recognized.
+Thank you very much for waiting.
 </div>
 
+Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment; the guest's patience is genuinely recognized.
+
 <div class="keigo-card blue">
-If the check takes longer than expected, return to the line briefly:<br><br>
+If the check takes longer than expected, return to the line briefly:
+
 <span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
-I am sorry to keep you waiting. Could I ask for just a little more time?<br><br>
-<span class="keigo-badge info">Why this matters</span> An unannounced long hold feels like disconnection. A brief check-in reassures the guest the call is still active.
+I am sorry to keep you waiting. Could I ask for just a little more time?
 </div>
+
+An unannounced long hold feels like disconnection. A brief check-in reassures the guest the call is still active.
 
 ## Callback Protocol
 
@@ -77,23 +81,10 @@ We will call you within 30 minutes.
 
 ## The Principle of Responsibility Continuity
 
-<div class="keigo-card blue">
-The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback, the hotel must feel like a single, organized entity. The guest's request does not get "passed", it gets "coordinated."<br><br>
+The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback, the hotel must feel like a single, organized entity. The guest's request does not get "passed", it gets "coordinated."
+
+
 Every transfer, hold, and callback is a test of whether the hotel operates as one system or as disconnected departments.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>〜へおつなぎいたします</code></span><br>
-I will connect you to 〜.<br><br>
-<span class="keigo-jp"><code>少々お待ちくださいませ</code></span><br>
-Please wait a moment.<br><br>
-<span class="keigo-jp"><code>大変お待たせいたしました</code></span><br>
-Thank you very much for waiting.<br><br>
-<span class="keigo-jp"><code>折り返しご連絡いたします</code></span><br>
-I will call you back.
-</div>
 
 ---
 

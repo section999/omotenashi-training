@@ -8,11 +8,11 @@ The reservation confirmation is often the first direct communication from the ho
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Confirm:</strong> The guest must see their reservation details clearly and be able to verify them.<br>
-<strong>2. Reassure:</strong> The hotel is prepared and handling their stay properly.<br>
-<strong>3. Welcome:</strong> The guest should feel the hotel is looking forward to their arrival, not just processing a transaction.
-</div>
+**1. Confirm:** The guest must see their reservation details clearly and be able to verify them.
+
+**2. Reassure:** The hotel is prepared and handling their stay properly.
+
+**3. Welcome:** The guest should feel the hotel is looking forward to their arrival, not just processing a transaction.
 
 ## Full Template
 
@@ -49,32 +49,25 @@ We sincerely look forward to your arrival.
 ## Key Phrases Explained
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>スタッフ一同</code></span> (staffu ichidou), "all of our staff"<br>
-This phrase makes the welcome feel collective rather than coming from one person, which is more impactful. The guest feels the whole hotel is preparing for them.<br><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span>: "so that you may have a comfortable stay"<br>
-よう here expresses purpose. The staff is preparing with the guest's comfort as the goal.<br><br>
-<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span>: "sincerely look forward to"<br>
-心より (from the heart) makes the anticipation feel genuine rather than formulaic. お待ち申し上げております uses humble language (申し上げる) for extra refinement.
+<span class="keigo-jp"><code>スタッフ一同</code></span> (staffu ichidou): "all of our staff"<br><br>
+<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span>: "so that you may have a comfortable stay"<br><br>
+<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span>: "sincerely look forward to"
 </div>
+
+スタッフ一同 makes the welcome feel collective rather than coming from one person, which is more impactful. The guest feels the whole hotel is preparing for them.
+
+よう in 快適にお過ごしいただけますよう expresses purpose. The staff is preparing with the guest's comfort as the goal.
+
+心より (from the heart) makes the anticipation feel genuine rather than formulaic. お待ち申し上げております uses humble language (申し上げる) for extra refinement.
 
 ## Variations
 
 <div class="keigo-card blue">
-Replace the opening with:<br>
 <span class="keigo-jp"><code>いつもお世話になっております。この度もご予約いただき、誠にありがとうございます。</code></span><br>
-Thank you for your continued support. Thank you very much for booking with us again on this occasion.<br><br>
-Everything else in the template remains the same.
+Thank you for your continued support. Thank you very much for booking with us again on this occasion.
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます</code></span>: Your reservation details are as follows<br>
-<span class="keigo-jp"><code>スタッフ一同準備を進めております</code></span>: All staff are preparing<br>
-<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span>: So that you may have a comfortable stay<br>
-<span class="keigo-jp"><code>ご到着前にご不明点などございましたら</code></span>: If you have any questions before your arrival<br>
-<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: We sincerely look forward to your arrival
-</div>
+For repeat guests, replace the opening with this phrase. Everything else in the template remains the same.
 
 ---
 

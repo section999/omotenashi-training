@@ -24,9 +24,10 @@ When escorting a guest to their room, walk slightly ahead and to the side. Walki
 
 In the room, explain the essential elements clearly and briefly:
 
-<div class="keigo-card blue">
-• Location of bathroom, controls, and emergency exits<br>• Yukata and how to wear it (if applicable)<br>• Green tea set and how to prepare it<br>• Contact number for the front desk
-</div>
+• Location of bathroom, controls, and emergency exits
+• Yukata and how to wear it (if applicable)
+• Green tea set and how to prepare it
+• Contact number for the front desk
 
 
 The room explanation should feel like a short, friendly orientation rather than a checklist recited at speed. It is the guest's first experience of the space they will be living in, so it deserves calm and care.

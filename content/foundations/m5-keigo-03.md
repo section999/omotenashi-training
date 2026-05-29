@@ -10,18 +10,18 @@ title: 尊敬語 (Sonkeigo) in Depth
 
 Use 尊敬語 whenever the **guest** is the subject of the action. It is not just about swapping verbs. It reflects the hospitality value: the guest is the honored party, and language must show that.
 
-<div class="keigo-card blue">
-Before choosing a verb form, ask: <strong>Is the guest the one doing this action?</strong><br><br>
-If yes: use 尊敬語<br>
-If no (staff is doing it): use 謙譲語<br>
+Before choosing a verb form, ask: **Is the guest the one doing this action?**
+
+
+If yes: use 尊敬語
+
+If no (staff is doing it): use 謙譲語
+
 If neutral context: use 丁寧語
-</div>
 
 ## Group 1: Irregular Sonkeigo Verbs
 
 These verbs have entirely new forms in sonkeigo. They cannot be constructed by formula and must be memorized individually.
-
-<div class="keigo-card blue">
 
 | Plain Form | Sonkeigo Form | Context |
 |---|---|---|
@@ -37,8 +37,6 @@ These verbs have entirely new forms in sonkeigo. They cannot be constructed by f
 | くれる | くださいます | Guest gives |
 | 休む | お休みになります | Guest rests |
 
-</div>
-
 ## Group 2: Regular Sonkeigo Pattern
 
 For verbs without special irregular forms, use:
@@ -50,11 +48,10 @@ For verbs without special irregular forms, use:
 <span class="keigo-jp"><code>お読みになります</code></span>: Guest reads<br>
 <span class="keigo-jp"><code>お書きになります</code></span>: Guest writes<br>
 <span class="keigo-jp"><code>お待ちになります</code></span>: Guest waits<br>
-<span class="keigo-jp"><code>お持ちになります</code></span>: Guest carries / has<br><br>
-Construction: お + [verb masu-stem] + になります<br>
-書きます → お書きになります<br>
-待ちます → お待ちになります
+<span class="keigo-jp"><code>お持ちになります</code></span>: Guest carries / has
 </div>
+
+Construction: お + [verb masu-stem] + になります. For example: 書きます → お書きになります, 待ちます → お待ちになります.
 
 ## Group 3: ご + Sino-Japanese Verb Stems
 
@@ -105,14 +102,13 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 A serious mistake is using sonkeigo to describe the staff's own actions. These verbs apply only to guests.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br>
-いらっしゃいます is an honorific. Applying it to yourself elevates yourself above the guest.<br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>私がおります。</code></span><br>
-おります is the humble (謙譲語) form of いる for staff use.<br><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
-Applying sonkeigo to a colleague is also incorrect.<br><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br><br>
+<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>私がおります。</code></span><br><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>担当者がおります。</code></span>
 </div>
+
+いらっしゃいます is an honorific form. Applying it to yourself or a colleague elevates them above the guest, which reverses the hospitality relationship. おります is the humble (謙譲語) form of いる and is correct for staff use.
 
 ## Sonkeigo Question Forms
 
@@ -126,17 +122,6 @@ Example: <span class="keigo-jp"><code>お飲み物はいかがでしょうか。
 <span class="keigo-jp"><code>なさいますか</code></span><br>
 Will you do 〜?<br>
 Example: <span class="keigo-jp"><code>朝食はいかがなさいますか。</code></span>
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>〜でいらっしゃいますか</code></span>: Are you 〜?<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>召し上がりますか</code></span>: Will you eat/drink?<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>おっしゃいましたでしょうか</code></span>: Did you say 〜?<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>ご覧になりますか</code></span>: Would you like to see 〜?<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>なさいますか</code></span>: Will you do 〜?
 </div>
 
 ---

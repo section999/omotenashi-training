@@ -16,9 +16,12 @@ title: Bowing, Ojigi, the Language of Respect
 
 ## Correct Bowing Technique
 
-<div class="keigo-card blue">
-• Begin from a straight standing posture.<br>• Bend from the **waist**, not the neck, the back remains straight, and the head follows the body.<br>• Eyes lower naturally as the bow deepens; do not maintain eye contact with the guest while bowing.<br>• Hands: women place both hands in front (right over left); men keep hands at the sides or loosely in front.<br>• Hold the bow at the deepest point for one to two seconds before rising.<br>• Rise smoothly and without hurrying.
-</div>
+• Begin from a straight standing posture.
+• Bend from the **waist**, not the neck, the back remains straight, and the head follows the body.
+• Eyes lower naturally as the bow deepens; do not maintain eye contact with the guest while bowing.
+• Hands: women place both hands in front (right over left); men keep hands at the sides or loosely in front.
+• Hold the bow at the deepest point for one to two seconds before rising.
+• Rise smoothly and without hurrying.
 
 
 ## Common Errors to Avoid

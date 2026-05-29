@@ -10,15 +10,11 @@ title: 謙譲語 (Kenjogo) in Depth
 
 Use 謙譲語 whenever **staff** are the subject describing their own actions, especially actions directed toward or done for the guest. The staff's use of a humble verb form communicates service commitment without a single word explicitly saying so.
 
-<div class="keigo-card blue">
 Saying 「確認します」 and 「確認いたします」 both mean "I will confirm." But the second communicates: "I will confirm, and I do so in service of you." The humble form carries that meaning automatically. Guests perceive it, even if they cannot explain why the second sounds better.
-</div>
 
 ## Group 1: Irregular Kenjogo Verbs
 
 These are the most important humble verbs. Each has a completely new form with no connection to the plain verb.
-
-<div class="keigo-card blue">
 
 | Plain Form | Kenjogo Form | Meaning in Context |
 |---|---|---|
@@ -35,8 +31,6 @@ These are the most important humble verbs. Each has a completely new form with n
 | 食べる / 飲む | いただきます | I humbly eat / drink |
 | あげる | 差し上げます | I give (to the guest) |
 
-</div>
-
 ## Group 2: Regular Kenjogo Pattern
 
 For verbs without special irregular forms, use:
@@ -48,11 +42,10 @@ For verbs without special irregular forms, use:
 <span class="keigo-jp"><code>お届けいたします</code></span>: I will deliver<br>
 <span class="keigo-jp"><code>お調べいたします</code></span>: I will look into it<br>
 <span class="keigo-jp"><code>お伝えいたします</code></span>: I will convey the message<br>
-<span class="keigo-jp"><code>お連れいたします</code></span>: I will accompany / take you<br><br>
-Construction: お + [verb masu-stem] + いたします<br>
-持ちます → お持ちいたします<br>
-届けます → お届けいたします
+<span class="keigo-jp"><code>お連れいたします</code></span>: I will accompany / take you
 </div>
+
+Construction: お + [verb masu-stem] + いたします. For example: 持ちます → お持ちいたします, 届けます → お届けいたします.
 
 ## Group 3: ご + Sino-Japanese Verb Stems
 
@@ -108,33 +101,23 @@ I have received your reservation.<br><br>
 <span class="keigo-jp"><code>ご注文を承ります。</code></span><br>
 I will take your order.<br><br>
 <span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
-I have received your request.<br><br>
-承ります can replace いただきます when the staff is receiving formal requests in a service context. It has a more operationally precise feeling.
+I have received your request.
 </div>
+
+承ります can replace いただきます when the staff is receiving formal requests in a service context. It has a more operationally precise feeling.
 
 ## Critical Error: Kenjogo Applied to the Guest
 
 Just as sonkeigo must never be applied to staff, kenjogo must never be applied to guests. This reverses the hospitality relationship.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br>
-おります is a humble form. Using it for the guest lowers the guest.<br><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様が参ります。</code></span><br>
-参ります is humble. Applying it to the guest's arrival treats them as a lower-status person.<br><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br><br>
+<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様が参ります。</code></span><br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がお越しになります。</code></span>
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ただいまご確認いたします</code></span>: I will confirm that right now<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お部屋までご案内いたします</code></span>: I will guide you to your room<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>ご予約を承りました</code></span>: I have received your reservation<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お荷物をお持ちいたします</code></span>: I will carry your luggage<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>担当者に申し伝えます</code></span>: I will convey that to the person in charge<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お伺いいたします</code></span>: I will come to you / I will ask
-</div>
+おります is a humble form; using it for the guest lowers the guest. 参ります is also humble, so applying it to the guest's arrival treats them as a lower-status person. Always use 尊敬語 forms such as いらっしゃいます or お越しになります for the guest.
 
 ---
 

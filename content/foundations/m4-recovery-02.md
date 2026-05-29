@@ -16,9 +16,11 @@ Interrupting, even to offer a solution, tells the guest that closing the complai
 
 Active listening is not passive. While the guest speaks, body language communicates attention:
 
-<div class="keigo-card blue">
-• Face the guest directly, at an appropriate distance<br>• Maintain gentle, respectful eye contact, not a fixed stare, but steady engagement<br>• Bow your head slightly as they speak, a subtle cue of reception<br>• Do not cross your arms, look around the room, or touch your face<br>• Do not reach for a radio, a phone, or a form, those actions come later
-</div>
+• Face the guest directly, at an appropriate distance
+• Maintain gentle, respectful eye contact, not a fixed stare, but steady engagement
+• Bow your head slightly as they speak, a subtle cue of reception
+• Do not cross your arms, look around the room, or touch your face
+• Do not reach for a radio, a phone, or a form, those actions come later
 
 
 These signals tell the guest that they have your full attention and that what they are saying matters.

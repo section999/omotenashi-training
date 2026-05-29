@@ -6,7 +6,7 @@ title: Obon, Ancestral Memorial Period (お盆), Mid-August
 
 **Season:** Summer · Mid-August
 
-Obon is Japan's most significant ancestral remembrance period, observed across three to four days in mid-August (or in some regions, July). It is the time when the spirits of ancestors are believed to return to the world of the living to visit their families. Japanese families travel to their *furusato* (故郷, hometown) to tend graves, hold family reunions, and participate in *bon odori* (盆踊り), traditional dance gatherings in town squares and temple grounds.
+Obon is Japan's most significant ancestral remembrance period, observed across three to four days in mid-August (or in some regions, July). It is the time when the spirits of ancestors are believed to return to the world of the living to visit their families. Japanese families travel to their 故郷 (<em>furusato</em>, hometown) to tend graves, hold family reunions, and participate in 盆踊り (<em>bon odori</em>), traditional dance gatherings in town squares and temple grounds.
 
 ## The Emotional Register
 
@@ -25,7 +25,7 @@ The tone is quiet, inward, and deeply personal. An overly cheerful or festive ap
 
 - Adopt a quieter, more attentive service mode, less energy, more presence
 - Avoid upbeat background music during this period in traditional properties; quieter ambient sound is more appropriate
-- If *bon odori* dances are occurring near or at the property, offer guests the opportunity to observe or participate, frame it as a cultural invitation, not a required activity
+- If <em>bon odori</em> dances are occurring near or at the property, offer guests the opportunity to observe or participate, frame it as a cultural invitation, not a required activity
 - For guests who seem reflective or subdued, do not attempt to elevate their mood with cheerfulness; simply be present and attentive
 
 ---

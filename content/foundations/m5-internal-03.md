@@ -10,8 +10,6 @@ The core principle of 連絡 is completeness. A partial message causes the recip
 
 ## What Makes 連絡 Different from 報告
 
-<div class="keigo-card blue">
-
 | | 報告 | 連絡 |
 |---|---|---|
 | Direction | Upward to supervisor | Any direction |
@@ -19,16 +17,12 @@ The core principle of 連絡 is completeness. A partial message causes the recip
 | Tone | Formal, respectful | Professional but functional |
 | Purpose | Keep supervisor informed | Keep the team coordinated |
 
-</div>
-
 ## The Complete 連絡 Structure
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Who</span>: Which guest, which room, which staff member is involved?<br>
-<span class="keigo-badge info">What</span>: What is the situation or information?<br>
-<span class="keigo-badge info">When</span>: What time frame applies?<br>
-<span class="keigo-badge info">Next step</span>: Is any action required, and by whom?
-</div>
+- **Who:** Which guest, which room, which staff member is involved?
+- **What:** What is the situation or information?
+- **When:** What time frame applies?
+- **Next step:** Is any action required, and by whom?
 
 ## Passing Information to a Colleague (Same Level)
 
@@ -67,13 +61,11 @@ Please handle this accordingly.
 
 Not all information can wait. Some situations require immediate 連絡 regardless of what else is happening:
 
-<div class="keigo-card blue">
-<span class="keigo-badge bad">Cannot wait</span> A guest has reported a safety concern (smoke smell, water leak, injury)<br>
-<span class="keigo-badge bad">Cannot wait</span> A VIP guest has arrived or is arriving earlier than expected<br>
-<span class="keigo-badge bad">Cannot wait</span> A guest complaint has not been resolved after first contact<br>
-<span class="keigo-badge bad">Cannot wait</span> A system failure is affecting multiple rooms or operations<br><br>
-<span class="keigo-badge good">Can wait until break</span> Routine updates, schedule changes, minor guest requests that are already being handled
-</div>
+- **Cannot wait:** A guest has reported a safety concern (smoke smell, water leak, injury)
+- **Cannot wait:** A VIP guest has arrived or is arriving earlier than expected
+- **Cannot wait:** A guest complaint has not been resolved after first contact
+- **Cannot wait:** A system failure is affecting multiple rooms or operations
+- **Can wait until break:** Routine updates, schedule changes, minor guest requests that are already being handled
 
 ## The Incomplete 連絡 Problem
 
@@ -90,16 +82,6 @@ Something happened in Room 503.<br><br>
 The guest in Room 503 has reported that the shower has no hot water. As of 2:00 PM this has not yet been addressed. Could you please contact maintenance?<br><br>
 <span class="keigo-badge good">Complete</span> Who (Room 503 guest), what (no hot water), when (as of 2PM), next step (contact maintenance).
 </div>
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご連絡させていただきます</code></span>: I would like to share some information.<br><br>
-<span class="keigo-jp"><code>〇〇の件、お伝えしておきます</code></span>: I'd like to pass along something about [X].<br><br>
-<span class="keigo-jp"><code>ご参考までにお伝えします</code></span>: I am sharing this for your reference.<br><br>
-<span class="keigo-jp"><code>対応よろしくお願いします</code></span>: Please handle this accordingly.<br><br>
-<span class="keigo-jp"><code>ご確認ください</code></span>: Please be aware / please confirm.
 </div>
 
 ---

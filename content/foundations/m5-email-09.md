@@ -8,12 +8,14 @@ A post-stay thank-you email is sent within 24 to 48 hours of checkout. It streng
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Thank:</strong> Express genuine gratitude for the guest's stay.<br>
-<strong>2. Care:</strong> Show interest in how the stay went, without assuming it was perfect.<br>
-<strong>3. Invite:</strong> Gently encourage a future visit without being promotional.<br><br>
+**1. Thank:** Express genuine gratitude for the guest's stay.
+
+**2. Care:** Show interest in how the stay went, without assuming it was perfect.
+
+**3. Invite:** Gently encourage a future visit without being promotional.
+
+
 The one thing this email must not do: make the guest feel like they are receiving a sales message.
-</div>
 
 ## Full Template
 
@@ -23,9 +25,10 @@ The one thing this email must not do: make the guest feel like they are receivin
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
-Thank you very much for staying at our hotel on this occasion.<br><br>
-Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
+Thank you very much for staying at our hotel on this occasion.
 </div>
+
+Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
@@ -45,12 +48,18 @@ We sincerely look forward to the day we can welcome you again.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
-"How was your stay?", asks with genuine interest without assuming. でしたでしょうか (past polite question form) is softer than でしたか.<br><br>
+"How was your stay?"<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
-"If you had a comfortable stay, we would be happy." This is not asserting the stay was good; it expresses hope. 幸いでございます (woud be fortunate/happy) keeps the tone humble and sincere.<br><br>
+"If you had a comfortable stay, we would be happy."<br><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
-"We sincerely look forward to the day we can meet you again." またお会いできる日 is more personal than またのご来店 and creates a genuine human connection rather than a commercial invitation.
+"We sincerely look forward to the day we can meet you again."
 </div>
+
+ご滞在はいかがでしたでしょうか asks with genuine interest without assuming. でしたでしょうか (past polite question form) is softer than でしたか.
+
+快適にお過ごしいただけましたら幸いでございます does not assert the stay was good; it expresses hope. 幸いでございます (would be fortunate/happy) keeps the tone humble and sincere.
+
+またお会いできる日 is more personal than またのご来店 and creates a genuine human connection rather than a commercial invitation.
 
 ## Handling Feedback Invitation
 

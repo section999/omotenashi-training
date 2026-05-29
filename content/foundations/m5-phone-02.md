@@ -6,73 +6,77 @@ title: The 7-Step Call Structure
 
 Professional hotel telephone calls are not free-flowing conversations. They follow a defined structure. This is not a stylistic preference, it is a **risk control system**. Each step exists to prevent a specific category of operational failure.
 
-<div class="keigo-card blue">
-<span class="keigo-card-title">The 7 Steps</span>
-<span class="keigo-badge info">1. Greeting</span> → <span class="keigo-badge info">2. Identification</span> → <span class="keigo-badge info">3. Recognition</span> → <span class="keigo-badge info">4. Confirmation</span> → <span class="keigo-badge info">5. Action</span> → <span class="keigo-badge info">6. Result</span> → <span class="keigo-badge info">7. Closing</span>
-</div>
+**The 7 Steps:** 1. Greeting → 2. Identification → 3. Recognition → 4. Confirmation → 5. Action → 6. Result → 7. Closing
 
 ## Step 1: Greeting
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
 <em>o-denwa arigatou gozaimasu.</em><br>
-Thank you for your call.<br><br>
-<span class="keigo-badge good">Purpose</span> Creates an immediate sense of welcome. Communicates that the call is expected and valued before a single request is made.
+Thank you for your call.
 </div>
+
+Creates an immediate sense of welcome. Communicates that the call is expected and valued before a single request is made.
 
 ## Step 2: Identification
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>フロントでございます。</code></span><br>
 <em>furonto de gozaimasu.</em><br>
-This is the front desk.<br><br>
-<span class="keigo-badge good">Purpose</span> Tells the guest who they are speaking with. Creates accountability from the first moment. If the guest is transferred, they know where they started.
+This is the front desk.
 </div>
+
+Tells the guest who they are speaking with. Creates accountability from the first moment. If the guest is transferred, they know where they started.
 
 ## Step 3: Recognition
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご予約についてでございますね。</code></span><br>
 <em>go-yoyaku ni tsuite de gozaimasu ne.</em><br>
-This is about your reservation, correct?<br><br>
-<span class="keigo-badge good">Purpose</span> Shows the guest their topic was understood before any action is taken. Reduces anxiety and prevents mishandled requests. The soft ending ね invites confirmation without pressure.
+This is about your reservation, correct?
 </div>
+
+Shows the guest their topic was understood before any action is taken. Reduces anxiety and prevents mishandled requests. The soft ending ね invites confirmation without pressure.
 
 ## Step 4: Confirmation
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>6月10日から2泊でございますね。</code></span><br>
 <em>rokugatsu touka kara nihaku de gozaimasu ne.</em><br>
-June 10th for two nights, is that correct?<br><br>
-<span class="keigo-badge good">Purpose</span> Verifies names, dates, and room types before processing. Every repeated detail is a checkpoint. Missing one creates a gap where errors enter.
+June 10th for two nights, is that correct?
 </div>
+
+Verifies names, dates, and room types before processing. Every repeated detail is a checkpoint. Missing one creates a gap where errors enter.
 
 ## Step 5: Action
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
 <em>kakunin itashimasu node shoushou o-machi kudasaimase.</em><br>
-I will confirm that now, so please wait a moment.<br><br>
-<span class="keigo-badge good">Purpose</span> Tells the guest exactly what is happening. Since the guest cannot see the staff member's screen, unexplained silence creates anxiety. Always narrate the action before the wait.
+I will confirm that now, so please wait a moment.
 </div>
+
+Tells the guest exactly what is happening. Since the guest cannot see the staff member's screen, unexplained silence creates anxiety. Always narrate the action before the wait.
 
 ## Step 6: Result
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>かしこまりました。6月10日から2泊、ツインルームにて承っております。</code></span><br>
 <em>kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketsukete orimasu.</em><br>
-Certainly. We have your reservation: twin room, June 10th for two nights.<br><br>
-<span class="keigo-badge good">Purpose</span> Confirms that the transaction was completed correctly. The guest should leave this step with no uncertainty about what was processed.
+Certainly. We have your reservation: twin room, June 10th for two nights.
 </div>
+
+Confirms that the transaction was completed correctly. The guest should leave this step with no uncertainty about what was processed.
 
 ## Step 7: Closing
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お電話ありがとうございました。またのご連絡をお待ちしております。</code></span><br>
 <em>o-denwa arigatou gozaimashita. mata no go-renraku wo o-machi shite orimasu.</em><br>
-Thank you for your call. We look forward to hearing from you again.<br><br>
-<span class="keigo-badge good">Purpose</span> Ends the interaction gracefully and leaves a positive final impression. Note: ありがとうございました uses past tense (mashita), not present (masu), because the call has now concluded.
+Thank you for your call. We look forward to hearing from you again.
 </div>
+
+Ends the interaction gracefully and leaves a positive final impression. Note: ありがとうございました uses past tense (mashita), not present (masu), because the call has now concluded.
 
 ## What Happens If You Skip a Step
 
@@ -85,18 +89,6 @@ Thank you for your call. We look forward to hearing from you again.<br><br>
 | Closing | Interaction ends abruptly; emotional impression is incomplete |
 
 The structure exists not because of tradition, but because **each step eliminates a specific, predictable risk**. Treat it as non-negotiable professional procedure, not a script to personalize.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お電話ありがとうございます。</code></span>: Greeting<br>
-<span class="keigo-jp"><code>フロントでございます。</code></span>: Identification<br>
-<span class="keigo-jp"><code>〜についてでございますね。</code></span>: Recognition<br>
-<span class="keigo-jp"><code>〜でございますね。</code></span>: Confirmation<br>
-<span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span>: Action<br>
-<span class="keigo-jp"><code>かしこまりました。〜にて承っております。</code></span>: Result<br>
-<span class="keigo-jp"><code>お電話ありがとうございました。</code></span>: Closing
-</div>
 
 ---
 

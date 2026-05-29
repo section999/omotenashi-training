@@ -91,21 +91,7 @@ A problem without a status is an incomplete entry. The incoming staff does not k
 
 Before submitting the handover, read it from the perspective of someone who was not on shift. Ask: can they act on this immediately? If not, rewrite it.
 
-<div class="keigo-card blue">
-"If I were reading this for the first time with no background knowledge, would I know exactly what to do and who to contact?"<br><br>
-If the answer is no, the entry is not finished.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>〜：[issue]。[status]。</code></span>: Standard entry format<br>
-<span class="keigo-jp"><code>修理手配済み</code></span>: Repair arranged<br>
-<span class="keigo-jp"><code>フロント確認待ち</code></span>: Awaiting front desk confirmation<br>
-<span class="keigo-jp"><code>夜間スタッフ対応予定</code></span>: Night shift will handle<br>
-<span class="keigo-jp"><code>経過確認要</code></span>: Follow-up recommended<br>
-<span class="keigo-jp"><code>対応済み</code></span>: Already handled
-</div>
+"If I were reading this for the first time with no background knowledge, would I know exactly what to do and who to contact?" If the answer is no, the entry is not finished.
 
 ---
 

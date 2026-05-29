@@ -4,11 +4,11 @@ section: 2
 title: New Year, Oshogatsu (お正月), December 31 to January 3
 ---
 
-**Oshōgatsu (お正月)** is Japan's most important cultural period. December 31st, *Ōmisoka* (大晦日), is spent with family, marked by the sounds of *joya no kane* (除夜の鐘), the 108 temple bell tolls heard at midnight that mark the transition to the new year. January 1st through 3rd are the core holiday days, during which many Japanese visit local shrines and temples for *hatsumode* (初詣, the year's first shrine visit). Ryokan, onsen resorts, and traditional properties are booked months in advance, often a year ahead.
+**Oshōgatsu (お正月)** is Japan's most important cultural period. December 31st, 大晦日 (<em>Ōmisoka</em>), is spent with family, marked by the sounds of 除夜の鐘 (<em>joya no kane</em>), the 108 temple bell tolls heard at midnight that mark the transition to the new year. January 1st through 3rd are the core holiday days, during which many Japanese visit local shrines and temples for 初詣 (<em>hatsumode</em>, the year's first shrine visit). Ryokan, onsen resorts, and traditional properties are booked months in advance, often a year ahead.
 
 ## The Significance of the New Year Transition
 
-The New Year in Japan carries an emotional weight that differs from most other cultures' celebrations. It is a moment of formal completion and formal beginning. The year's debts, social, professional, and personal, are acknowledged and settled. The arrival of the new year is greeted with solemnity as well as celebration. The *nengajo* (年賀状) tradition, in which elaborate handwritten or printed cards are sent to arrive on January 1st, reflects the depth of the occasion.
+The New Year in Japan carries an emotional weight that differs from most other cultures' celebrations. It is a moment of formal completion and formal beginning. The year's debts, social, professional, and personal, are acknowledged and settled. The arrival of the new year is greeted with solemnity as well as celebration. The 年賀状 (<em>nengajo</em>) tradition, in which elaborate handwritten or printed cards are sent to arrive on January 1st, reflects the depth of the occasion.
 
 ## Knowing When Each Greeting Applies
 
@@ -27,10 +27,10 @@ Using the wrong greeting, wishing someone a "Happy New Year" on December 31st, o
 
 Being able to explain these elements briefly and accurately to international guests transforms a hotel stay into a cultural education:
 
-- *Kadomatsu* (門松): pine and bamboo gate decorations placed at entrances, symbolising the welcoming of ancestors
-- *Shimekazari* (注連飾り): sacred rope decorations hung at doorways to ward off evil spirits
-- *Kagami mochi* (鏡餅): stacked rice cakes decorated with a bitter orange, displayed as an offering and later eaten
-- *Osechi ryōri* (おせち料理): the traditional New Year's meal of lacquerware boxes filled with symbolic foods, each dish carries a specific meaning (black beans for health, herring roe for fertility, and so on)
+- 門松 (<em>Kadomatsu</em>): pine and bamboo gate decorations placed at entrances, symbolising the welcoming of ancestors
+- 注連飾り (<em>Shimekazari</em>): sacred rope decorations hung at doorways to ward off evil spirits
+- 鏡餅 (<em>Kagami mochi</em>): stacked rice cakes decorated with a bitter orange, displayed as an offering and later eaten
+- おせち料理 (<em>Osechi ryōri</em>): the traditional New Year's meal of lacquerware boxes filled with symbolic foods, each dish carries a specific meaning (black beans for health, herring roe for fertility, and so on)
 
 ---
 
@@ -39,7 +39,7 @@ Being able to explain these elements briefly and accurately to international gue
 **An international guest asks about the traditional rice cake decoration (鏡餅, kagami mochi) on display in the lobby. What is the ideal response?**
 
 - A. "It is a New Year's decoration: just for display."
-- B. Explain briefly that kagami mochi is a traditional New Year's offering representing health and prosperity; that "kagami" means mirror (symbolising purity); that it is displayed through mid-January and then cracked and eaten in a ceremony called *kagami biraki*; and invite them to ask any further questions
+- B. Explain briefly that kagami mochi is a traditional New Year's offering representing health and prosperity; that "kagami" means mirror (symbolising purity); that it is displayed through mid-January and then cracked and eaten in a ceremony called <em>kagami biraki</em>; and invite them to ask any further questions
 - C. Apologise that you don't know much about the decoration
 - D. Direct them to a tourist information pamphlet at the concierge desk
 

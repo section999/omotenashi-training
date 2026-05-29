@@ -21,9 +21,10 @@ The following situations require escalation:
 
 The following situations do not require escalation:
 
-<div class="keigo-card blue">
-• The complaint is within your authority to resolve and you can do so now.<br>• The guest has not asked for a manager and is responding well to your engagement.<br>• Escalation would require the guest to wait, with no benefit to them.<br>• The situation can be resolved more quickly and warmly by the person already in the relationship with the guest.
-</div>
+• The complaint is within your authority to resolve and you can do so now.
+• The guest has not asked for a manager and is responding well to your engagement.
+• Escalation would require the guest to wait, with no benefit to them.
+• The situation can be resolved more quickly and warmly by the person already in the relationship with the guest.
 
 
 One of the most common errors in complaint handling is escalating out of anxiety rather than genuine necessity. If the complaint can be handled at the front-line level, it should be. The guest benefits, and so does the staff member's own confidence.
@@ -32,9 +33,10 @@ One of the most common errors in complaint handling is escalating out of anxiety
 
 The quality of an escalation is determined by the briefing. The guest should never have to repeat themselves to the manager. The handover should include:
 
-<div class="keigo-card blue">
-• The guest's name and any relevant details<br>• The nature of the complaint in specific terms<br>• What has already been offered or attempted<br>• Any relevant background from the guest's history with the property
-</div>
+• The guest's name and any relevant details
+• The nature of the complaint in specific terms
+• What has already been offered or attempted
+• Any relevant background from the guest's history with the property
 
 
 The hand-off phrase bridges the interaction without creating a gap: "Mr Johnson, I'd like to introduce our guest relations manager, Tanaka-san, who will assist you directly from here. I've fully briefed her on everything we've discussed."
@@ -45,9 +47,9 @@ After the escalation, the original staff member should remain available for foll
 
 The best hospitality organisations empower front-line staff to resolve complaints without escalation in the majority of cases. This requires:
 
-<div class="keigo-card blue">
-• Clear authority levels, what can be offered without manager approval<br>• Confidence in decision-making, built through training and practice<br>• A culture where recovering a guest is valued more than avoiding a mistake
-</div>
+• Clear authority levels, what can be offered without manager approval
+• Confidence in decision-making, built through training and practice
+• A culture where recovering a guest is valued more than avoiding a mistake
 
 
 When front-line staff know they have both the authority and the support to make recovery decisions, their responses are faster, warmer, and more personal, exactly what complaint recovery requires.

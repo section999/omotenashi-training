@@ -59,28 +59,13 @@ Around 11:00 PM. Understood. We will expect you at the front desk. May I also co
 
 ## Why Time Repetition Cannot Be Skipped
 
-<div class="keigo-card blue">
 | Request Type | If Time Is Wrong | Consequence |
 |---|---|---|
 | Wake-up call | 6am logged as 7am | Guest misses flight or meeting |
 | Taxi | 3pm logged as 2pm | Guest stranded or late |
 | Late arrival | 11pm not logged | Room released; no-show recorded |
-</div>
 
 Unlike other service errors that can be corrected, time-based failures often cannot be undone. The guest's schedule has already been affected. This is why **repeating the time is not a formality, it is the most critical verification step in schedule-based calls**.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご希望のお時間をお伺いしてもよろしいでしょうか</code></span><br>
-May I ask for your preferred time?<br><br>
-<span class="keigo-jp"><code>○時のモーニングコールで承りました</code></span><br>
-Wake-up call at ○:00 has been noted.<br><br>
-<span class="keigo-jp"><code>タクシーを手配いたします</code></span><br>
-I will arrange a taxi.<br><br>
-<span class="keigo-jp"><code>ご到着の予定時刻をお伺いしてもよろしいでしょうか</code></span><br>
-May I ask your estimated arrival time?
-</div>
 
 ---
 

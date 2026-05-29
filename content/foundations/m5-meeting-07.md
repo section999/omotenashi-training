@@ -10,22 +10,27 @@ The technical skills of handover writing are learnable in hours. The professiona
 
 A professional handover is not defined by what is in the notes. It is defined by the effect on the next shift.
 
-<div class="keigo-card blue">
-<strong>Traceable:</strong> Can the incoming staff trace every guest situation from start to current state?<br>
-Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.<br><br>
-<strong>Actionable:</strong> Does every entry tell the incoming staff what to do?<br>
-If an entry contains only a problem with no status or next step, it is not actionable. It is noise.<br><br>
-<strong>Complete:</strong> Is there anything the incoming staff would need to ask about?<br>
+**Traceable:** Can the incoming staff trace every guest situation from start to current state?
+
+Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.
+
+
+**Actionable:** Does every entry tell the incoming staff what to do?
+
+If an entry contains only a problem with no status or next step, it is not actionable. It is noise.
+
+
+**Complete:** Is there anything the incoming staff would need to ask about?
+
 If the answer is yes, the handover is not done yet.
-</div>
 
 ## The Shift-End Mindset
 
 Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought.
 
+Not "the clock hit 22:00 and I went home" — but: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation.
+
 <div class="keigo-card blue">
-Not: the clock hit 22:00 and I went home<br><br>
-But: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation<br><br>
 <span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
 Your shift continues until the handover is complete.
 </div>
@@ -53,31 +58,13 @@ Fix: every unresolved item must have a specific name or department attached.
 
 When every staff member meets this standard, the result is not just better notes. It is a different quality of guest experience.
 
-<div class="keigo-card blue">
-Guests never repeat themselves across shifts<br>
-No VIP arrives without the right preparation<br>
-No complaint stays unresolved because it was lost between shifts<br>
-No maintenance issue surprises the incoming team<br><br>
-All of this happens because of what is written, when it is written, and how well it communicates.<br><br>
-The guest never sees the handover. But they feel whether it was done well.
-</div>
+Guests never repeat themselves across shifts. No VIP arrives without the right preparation. No complaint stays unresolved because it was lost between shifts. No maintenance issue surprises the incoming team.
+
+All of this happens because of what is written, when it is written, and how well it communicates. The guest never sees the handover. But they feel whether it was done well.
 
 ## The Golden Rule
 
-<div class="keigo-card blue">
 If the incoming staff cannot act immediately based on what you wrote, the handover is not complete.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>引き継ぎ完了</code></span>: Handover complete<br>
-<span class="keigo-jp"><code>確認済み</code></span>: Confirmed<br>
-<span class="keigo-jp"><code>次シフトへ申し送り済み</code></span>: Transferred to next shift<br>
-<span class="keigo-jp"><code>経過確認要</code></span>: Follow-up recommended<br>
-<span class="keigo-jp"><code>即対応</code></span>: Immediate action required<br>
-<span class="keigo-jp"><code>担当：〜</code></span>: Person responsible: [name/department]
-</div>
 
 ---
 

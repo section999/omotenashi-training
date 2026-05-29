@@ -4,11 +4,11 @@ section: 1
 title: Oseibo, Year-End Gift Giving (お歳暮), December
 ---
 
-**Oseibo (お歳暮)** is the year-end gift-giving season, during which individuals and businesses send gifts to those who have supported or helped them throughout the year. The practice is rooted in the Japanese value of *on-gaeshi* (恩返し), the repayment of a debt of gratitude. Recipients typically include business clients and partners, teachers and mentors, doctors who have provided care, relatives who have hosted or helped, and long-standing professional relationships. High-end department stores (*depaato*, デパート) process enormous volumes of gift deliveries throughout December.
+**Oseibo (お歳暮)** is the year-end gift-giving season, during which individuals and businesses send gifts to those who have supported or helped them throughout the year. The practice is rooted in the Japanese value of 恩返し (<em>on-gaeshi</em>), the repayment of a debt of gratitude. Recipients typically include business clients and partners, teachers and mentors, doctors who have provided care, relatives who have hosted or helped, and long-standing professional relationships. High-end department stores (デパート, <em>depaato</em>) process enormous volumes of gift deliveries throughout December.
 
 ## Who Participates
 
-Oseibo is primarily a practice of adults in professional and social relationships. It is distinct from *omiyage* (souvenir gifts brought back from travel) and from *ochugen* (the mid-year equivalent). For hospitality professionals, understanding the practice helps when assisting guests who are coordinating gifts through the property, sending items to multiple recipients, managing deliveries, or selecting appropriate gifts from the property's shop.
+Oseibo is primarily a practice of adults in professional and social relationships. It is distinct from <em>omiyage</em> (souvenir gifts brought back from travel) and from <em>ochugen</em> (the mid-year equivalent). For hospitality professionals, understanding the practice helps when assisting guests who are coordinating gifts through the property, sending items to multiple recipients, managing deliveries, or selecting appropriate gifts from the property's shop.
 
 ## The Practical Hospitality Dimension
 
@@ -17,13 +17,13 @@ Business guests during Oseibo season may have a range of requests:
 - Arriving with multiple packaged items to be stored and forwarded
 - Needing assistance with coordinating deliveries to multiple addresses
 - Asking for recommendations on appropriate gifts representing the local area
-- Requiring gift-wrapping services with *noshi* (formal gift notation paper) and appropriate uwagaki labels such as お歳暮
+- Requiring gift-wrapping services with <em>noshi</em> (formal gift notation paper) and appropriate uwagaki labels such as お歳暮
 
 Each of these is a genuine service opportunity. A guest who asks for help coordinating year-end deliveries is trusting the property with something socially significant. Respond with the same attentiveness you would bring to any guest service.
 
 ## Gift-Wrapping and Labelling
 
-For formal oseibo gifts, the *noshi* label typically reads *お歳暮 (oseibo)* above the ribbon pattern and the sender's family name below. If the property offers gift-wrapping services, staff should understand the correct labelling conventions. An incorrectly labelled formal gift is a social error the guest will notice.
+For formal oseibo gifts, the <em>noshi</em> label typically reads <em>お歳暮 (oseibo)</em> above the ribbon pattern and the sender's family name below. If the property offers gift-wrapping services, staff should understand the correct labelling conventions. An incorrectly labelled formal gift is a social error the guest will notice.
 
 ---
 

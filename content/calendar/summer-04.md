@@ -10,16 +10,16 @@ Japan's summer is genuinely demanding. Temperatures in major cities regularly ex
 
 ## The Cultural Significance of Weather Acknowledgement
 
-In Japanese communication, acknowledging the conditions the other person has been enduring, heat, cold, rain, is a fundamental expression of *omoiyari* (思いやり, empathy and consideration for others). When a staff member says *"It's so hot today, thank you for coming in this heat,"* they are not commenting on the weather. They are expressing awareness of what the guest has just experienced, and the guest feels noticed before anything else happens.
+In Japanese communication, acknowledging the conditions the other person has been enduring, heat, cold, rain, is a fundamental expression of 思いやり (<em>omoiyari</em>, empathy and consideration for others). When a staff member says <em>"It's so hot today, thank you for coming in this heat,"</em> they are not commenting on the weather. They are expressing awareness of what the guest has just experienced, and the guest feels noticed before anything else happens.
 
-This applies in both directions. In summer, the heat greeting acknowledges the effort of arriving. In the formal written context, the *shochū omimai* (暑中お見舞い), the summer greeting card, is a standard professional communication expressing concern for the recipient during the difficult summer months.
+This applies in both directions. In summer, the heat greeting acknowledges the effort of arriving. In the formal written context, the 暑中お見舞い (<em>shochū omimai</em>), the summer greeting card, is a standard professional communication expressing concern for the recipient during the difficult summer months.
 
 ## Practical Care During Summer
 
 Beyond the greeting, summer hospitality has specific practical requirements:
 
 - **Cold oshibori on arrival**, in summer, the warm oshibori of other seasons becomes cold or lightly chilled
-- **Cold barley tea** (*mugicha*, 麦茶) offered on arrival, naturally caffeine-free, traditional, and refreshing
+- **Cold barley tea** (麦茶, <em>mugicha</em>) offered on arrival, naturally caffeine-free, traditional, and refreshing
 - **Cooling before check-in**, a brief moment in an air-conditioned lobby space, rather than immediately moving to the desk, gives guests a chance to regulate their temperature
 - **Sunscreen, cooling spray, salt tablets**, legitimate amenity items for summer in Japan; offering to provide or replenish them is a thoughtful touch
 - **Hydration reminders**, for guests planning outdoor excursions, a brief word about the heat and a recommendation to carry water is genuine care

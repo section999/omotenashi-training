@@ -10,22 +10,22 @@ Effective reporting follows a consistent structure: conclusion first, then suppo
 
 ## The Conclusion-First Principle
 
-<div class="keigo-card blue">
-In casual conversation, we often build toward a conclusion: "I went to the room, I knocked three times, no one answered, so I checked the system, and it turns out..." In professional reporting, this structure wastes time and obscures urgency.<br><br>
-The correct structure is: <strong>conclusion → situation → action taken or needed</strong>.<br><br>
-<span class="keigo-badge bad">Story-first (avoid)</span> 「702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...」<br><br>
-<span class="keigo-badge good">Conclusion-first (correct)</span> 「702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。」
-</div>
+In casual conversation, we often build toward a conclusion: "I went to the room, I knocked three times, no one answered, so I checked the system, and it turns out..." In professional reporting, this structure wastes time and obscures urgency.
+
+The correct structure is: **conclusion → situation → action taken or needed**.
+
+| Style | Example |
+|---|---|
+| Story-first (avoid) | 「702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...」 |
+| Conclusion-first (correct) | 「702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。」 |
 
 ## The Three-Part Report Structure
 
 Every supervisor report should contain three elements in this order:
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Conclusion / key fact</span>: What happened or what is the status?<br>
-<span class="keigo-badge info">2. Situation detail</span>: Relevant context the supervisor needs<br>
-<span class="keigo-badge info">3. Action taken / action needed</span>: What has been done, or what is being requested?
-</div>
+- **1. Conclusion / key fact:** What happened or what is the status?
+- **2. Situation detail:** Relevant context the supervisor needs
+- **3. Action taken / action needed:** What has been done, or what is being requested?
 
 ## Report Type 1: Task Completion
 
@@ -62,22 +62,10 @@ Here are the details.
 
 ## Timing of Reports
 
-<div class="keigo-card blue">
-<span class="keigo-badge good">Immediately</span>: Any safety issue, guest complaint, maintenance failure, or situation the supervisor would want to know about now<br><br>
-<span class="keigo-badge good">At natural break point</span>: Task completions, minor updates that do not affect current operations<br><br>
-<span class="keigo-badge good">At shift end</span>: Summary of the shift for the handover record. This is 申し送り (covered in the Handover module)<br><br>
-<span class="keigo-badge bad">Never</span>: Withholding a problem because you are still trying to solve it. Report first, update as the situation develops.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご報告いたします</code></span>: I am reporting this to you.<br><br>
-<span class="keigo-jp"><code>〇〇の件、完了いたしました</code></span>: The matter of [X] has been completed.<br><br>
-<span class="keigo-jp"><code>問題が発生いたしました</code></span>: A problem has occurred.<br><br>
-<span class="keigo-jp"><code>いかがいたしましょうか</code></span>: How would you like me to proceed?<br><br>
-<span class="keigo-jp"><code>ご対応いただけますでしょうか</code></span>: Could you please handle this?
-</div>
+- **Immediately:** Any safety issue, guest complaint, maintenance failure, or situation the supervisor would want to know about now
+- **At natural break point:** Task completions, minor updates that do not affect current operations
+- **At shift end:** Summary of the shift for the handover record. This is 申し送り (covered in the Handover module)
+- **Never:** Withholding a problem because you are still trying to solve it. Report first, update as the situation develops.
 
 ---
 

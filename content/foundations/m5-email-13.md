@@ -8,11 +8,11 @@ Guests frequently contact hotels with questions before booking: room availabilit
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Acknowledge:</strong> Thank the guest for their inquiry immediately.<br>
-<strong>2. Answer:</strong> Provide clear, accurate information about what was asked.<br>
-<strong>3. Invite:</strong> Close with an offer for further questions and a gentle booking invitation if appropriate.
-</div>
+**1. Acknowledge:** Thank the guest for their inquiry immediately.
+
+**2. Answer:** Provide clear, accurate information about what was asked.
+
+**3. Invite:** Close with an offer for further questions and a gentle booking invitation if appropriate.
 
 ## Full Template: Availability Inquiry
 
@@ -49,34 +49,36 @@ When a guest asks about special arrangements (accessibility, dietary needs, spec
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご要望の[specific request]につきましては、対応可能でございます。ご到着前にご担当者からご連絡差し上げます。</code></span><br>
-We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.<br><br>
-If not fully possible:<br>
+We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.
+</div>
+
+If not fully possible:
+
+<div class="keigo-card blue">
 <span class="keigo-jp"><code>ご要望の[specific request]につきましては、現在のところ[limitation]となっております。誠に恐れ入りますが、[alternative if available]でしたらご対応が可能でございます。</code></span><br>
 Regarding your request for [specific request], we are currently limited to [limitation]. I am very sorry, but [alternative] would be possible.
 </div>
 
 ## Writing Principles for Inquiry Responses
 
-<div class="keigo-card blue">
-<strong>Answer directly</strong><br>
-Do not bury the answer at the end. Lead with the answer, then provide supporting detail.<br><br>
-<strong>Match the question to the answer</strong><br>
-Acknowledge specifically what was asked: 「ご質問いただきました〜についてご回答いたします」<br><br>
-<strong>Avoid ambiguous answers</strong><br>
-"It may be possible" or "probably" leaves the guest with uncertainty. If you cannot answer definitively, say when you will have an answer: 「担当者に確認の上、本日中にご返信いたします」<br><br>
-<strong>Close with an invitation</strong><br>
+**Answer directly**
+
+Do not bury the answer at the end. Lead with the answer, then provide supporting detail.
+
+
+**Match the question to the answer**
+
+Acknowledge specifically what was asked: 「ご質問いただきました〜についてご回答いたします」
+
+
+**Avoid ambiguous answers**
+
+"It may be possible" or "probably" leaves the guest with uncertainty. If you cannot answer definitively, say when you will have an answer: 「担当者に確認の上、本日中にご返信いたします」
+
+
+**Close with an invitation**
+
 End with ご来訪をお待ちしております to keep the interaction open and hospitality-oriented.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます</code></span>: Thank you very much for your inquiry to our hotel on this occasion<br>
-<span class="keigo-jp"><code>ご質問いただきました〜についてご回答いたします</code></span>: I will answer your question regarding [topic]<br>
-<span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます</code></span>: Regarding your specified dates, reservations are currently available<br>
-<span class="keigo-jp"><code>担当者に確認の上、本日中にご返信いたします</code></span>: I will confirm with our coordinator and reply to you today<br>
-<span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております</code></span>: We sincerely look forward to welcoming you
-</div>
 
 ---
 

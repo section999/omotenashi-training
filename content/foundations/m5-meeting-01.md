@@ -12,10 +12,7 @@ A hotel operates 24 hours a day with rotating shifts. No single staff member see
 
 The written record is called 申し送り (moushiokuri), sometimes translated as "shift notes" or "handover report." 申し送り is not just a log. It is a service-continuity document.
 
-<div class="keigo-card blue">
-The next shift must be able to serve every guest as if they themselves had been present since check-in.<br><br>
-Not approximately. Not mostly. Completely.
-</div>
+The next shift must be able to serve every guest as if they themselves had been present since check-in. Not approximately. Not mostly. Completely.
 
 ## What Breaks Without Good Handover
 
@@ -39,22 +36,25 @@ The worst outcome is a guest saying: "I already told someone this yesterday." Th
 
 In Japanese hotel culture, handover is not informational. It is a responsibility. Writing it carelessly, skipping sections, or leaving items unresolved before a shift ends reflects poorly on the staff member's professional judgment.
 
-<div class="keigo-card blue">
 Your shift ends when the next shift has everything they need. Not when the clock changes.
-</div>
 
 ## The Three Questions Every Handover Answers
 
 No matter how complex the shift was, the handover must answer three questions for the incoming team:
 
-<div class="keigo-card blue">
-<strong>1. Who needs attention right now?</strong><br>
-VIP guests, guests with active complaints, guests with special needs.<br><br>
-<strong>2. What is unresolved?</strong><br>
-Maintenance issues, pending requests, items waiting for confirmation.<br><br>
-<strong>3. What else must I know?</strong><br>
+**1. Who needs attention right now?**
+
+VIP guests, guests with active complaints, guests with special needs.
+
+
+**2. What is unresolved?**
+
+Maintenance issues, pending requests, items waiting for confirmation.
+
+
+**3. What else must I know?**
+
 Room changes, late check-outs, behavioral concerns, medical notes.
-</div>
 
 ## Key Phrases
 

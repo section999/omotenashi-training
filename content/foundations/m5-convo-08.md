@@ -10,12 +10,10 @@ In hospitality, how you speak is as important as what you say. Perfect grammar s
 
 Professional hotel speech is a carefully calibrated performance, not in the theatrical sense, but in the sense that every vocal element is intentional:
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Calm tone</span> → "This hotel is organized and in control"<br>
-<span class="keigo-badge info">Warm tone</span> → "You are welcomed here genuinely"<br>
-<span class="keigo-badge info">Measured pace</span> → "Your comfort matters more than efficiency"<br>
-<span class="keigo-badge info">Clear articulation</span> → "I want to be sure you understand everything"
-</div>
+- **Calm tone:** "This hotel is organized and in control"
+- **Warm tone:** "You are welcomed here genuinely"
+- **Measured pace:** "Your comfort matters more than efficiency"
+- **Clear articulation:** "I want to be sure you understand everything"
 
 ## The Target Vocal Profile
 
@@ -44,43 +42,35 @@ Read each phrase aloud, following the phrasing and pause guides below. The goal 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span><br>
-<em>go-yoyaku no | o-namae wo | o-kikase itadakemasu | deshou ka.</em><br><br>
-<strong>Focus points:</strong><br>
-→ Slight natural pause after お名前を, creates a sense of gentle request<br>
-→ Soften でしょうか with a slight downward close, sounds inviting, not interrogating<br>
-→ Avoid strong rising intonation at the end, the question should feel like an invitation, not a demand<br><br>
-<strong>The goal:</strong> The guest should feel guided, not questioned.
+<em>go-yoyaku no | o-namae wo | o-kikase itadakemasu | deshou ka.</em><br>
+May I ask for the name on your reservation?
 </div>
+
+Focus points: pause slightly after お名前を to create a sense of gentle request. Soften でしょうか with a slight downward close so it sounds inviting rather than interrogating. Avoid strong rising intonation at the end -- the question should feel like an invitation, not a demand. The goal is for the guest to feel guided, not questioned.
 
 ## Shadowing Practice 2: Presenting the Room Key
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。お部屋は7階の702号室でございます。</code></span><br>
-<em>kochira ga | o-heya no kagi de gozaimasu. | o-heya wa | nana-kai no | nana-maru-ni-goushitsu | de gozaimasu.</em><br><br>
-<strong>Focus points:</strong><br>
-→ Slow, deliberate pacing, the guest needs to understand and remember the room number<br>
-→ Slight emphasis on the floor number and room number<br>
-→ Stable, reassuring volume, the guest should feel organized information is being delivered<br><br>
-<strong>The goal:</strong> The guest should leave this exchange with absolute clarity about their room.
+<em>kochira ga | o-heya no kagi de gozaimasu. | o-heya wa | nana-kai no | nana-maru-ni-goushitsu | de gozaimasu.</em><br>
+Here is your room key. Your room is Room 702 on the 7th floor.
 </div>
+
+Use slow, deliberate pacing so the guest can understand and remember the room number. Place slight emphasis on the floor number and room number. Maintain stable, reassuring volume. The goal is for the guest to leave this exchange with absolute clarity about their room.
 
 ## Shadowing Practice 3: The Farewell
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ。</code></span><br>
-<em>go-yukkuri | o-sugoshi | kudasaimase.</em><br><br>
-<strong>Focus points:</strong><br>
-→ Warm emotional delivery, this is the final impression of the check-in experience<br>
-→ Gentle sentence ending, ませ should close softly, not sharply<br>
-→ Slight downward intonation, conveys sincerity and completion<br><br>
-<strong>The goal:</strong> The guest should feel genuinely cared for as they walk toward the elevator.
+<em>go-yukkuri | o-sugoshi | kudasaimase.</em><br>
+We hope you enjoy a relaxing stay.
 </div>
+
+Deliver this phrase with warm emotional intent, as it is the final impression of the check-in experience. The ending ませ should close softly rather than sharply. A slight downward intonation conveys sincerity and completion. The goal is for the guest to feel genuinely cared for as they walk toward the elevator.
 
 ## Telephone vs In-Person Voice
 
 Hotel speech differs between telephone and face-to-face contexts:
-
-<div class="keigo-card blue">
 
 | Quality | In Person | By Telephone |
 |---------|-----------|--------------|
@@ -91,37 +81,36 @@ Hotel speech differs between telephone and face-to-face contexts:
 | Expression | Supported by facial expression | Entirely through voice |
 
 On the telephone, the guest has no visual cues, so every pause feels longer, every hesitation more significant. Over-articulate slightly, and pause more deliberately than you would in person.
-</div>
 
 ## Daily Practice Routine
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Read aloud slowly</span>: Focus on one phrase at a time. Prioritize pacing over speed.<br><br>
-<span class="keigo-badge info">2. Focus on tone, not just words</span>: Record yourself if possible and listen for the emotional quality, not grammar.<br><br>
-<span class="keigo-badge info">3. Repeat each phrase 5–10 times</span>: Until it feels natural, not memorized.<br><br>
-<span class="keigo-badge info">4. Practice with a mirror</span>: Observe your facial expression. A slight, natural smile changes vocal tone audibly, even on the phone.<br><br>
-<span class="keigo-badge info">5. Identify the emotional goal</span>: Before each phrase, ask: what should the guest feel when I say this? Calm? Welcomed? Reassured? Let the answer guide the delivery.
-</div>
+- **1. Read aloud slowly:** Focus on one phrase at a time. Prioritize pacing over speed.
+- **2. Focus on tone, not just words:** Record yourself if possible and listen for the emotional quality, not grammar.
+- **3. Repeat each phrase 5-10 times:** Until it feels natural, not memorized.
+- **4. Practice with a mirror:** Observe your facial expression. A slight, natural smile changes vocal tone audibly, even on the phone.
+- **5. Identify the emotional goal:** Before each phrase, ask: what should the guest feel when I say this? Calm? Welcomed? Reassured? Let the answer guide the delivery.
 
 ## The Relationship Between Language and Trust
 
-<div class="keigo-card blue">
-Guests in hotels are often in unfamiliar places, carrying stress from travel. When they hear calm, warm, measured speech, in the correct keigo register, they experience something specific: **a reduction in stress**. The language itself becomes a service.<br><br>
+Guests in hotels are often in unfamiliar places, carrying stress from travel. When they hear calm, warm, measured speech, in the correct keigo register, they experience something specific: **a reduction in stress**. The language itself becomes a service.
+
+
 This is why Japanese hospitality speech is not simply about avoiding mistakes. It is a trained, intentional tool for creating a particular emotional state in the guest, the feeling of being safely, expertly cared for.
-</div>
 
 ## Key Phrases for Delivery Practice
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
-[Invitation], Gentle, descending at the end<br><br>
+May I ask for the name on your reservation?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます</code></span><br>
-[Presentation], Clear, measured, confident<br><br>
+Here is your room key.<br><br>
 <span class="keigo-jp"><code>かしこまりました</code></span><br>
-[Acknowledgment], Warm but professional, no upward lilt<br><br>
+Certainly.<br><br>
 <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span><br>
-[Farewell], Warm, sincere, gentle close
+We hope you enjoy a relaxing stay.
 </div>
+
+When practicing: deliver the name request as a gentle, descending invitation. Deliver the room key phrase with clear, measured confidence. Deliver かしこまりました as warm but professional with no upward lilt. Deliver the farewell with warmth, sincerity, and a gentle close.
 
 ---
 

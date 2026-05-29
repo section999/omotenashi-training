@@ -50,28 +50,22 @@ Anything that does not fit the above categories but must be communicated.<br><br
 
 ## The Structure in Practice
 
-<div class="keigo-card blue">
-<strong>最優先情報：</strong><br>
-<span class="keigo-jp"><code>305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。</code></span><br><br>
-<strong>対応中案件：</strong><br>
-<span class="keigo-jp"><code>210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。</code></span><br><br>
-<strong>客室状況：</strong><br>
-<span class="keigo-jp"><code>412号室：清掃未完了。15:00頃対応予定。</code></span><br><br>
-<strong>未完了タスク：</strong><br>
-<span class="keigo-jp"><code>延泊希望あり（501号室）。フロント確認待ち。</code></span><br><br>
-<strong>特記事項：</strong><br>
-<span class="keigo-jp"><code>604号室：ナッツアレルギーあり。レストランに申し送り済み。</code></span>
-</div>
+```
+最優先情報 (Priority guest information)
+305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。
 
-## Key Phrases
+対応中案件 (Active issues)
+210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>最優先情報</code></span>: Priority guests / urgent guest information<br>
-<span class="keigo-jp"><code>対応中案件</code></span>: Active issues<br>
-<span class="keigo-jp"><code>客室状況</code></span>: Room status<br>
-<span class="keigo-jp"><code>未完了タスク</code></span>: Pending tasks<br>
-<span class="keigo-jp"><code>特記事項</code></span>: Special notes
-</div>
+客室状況 (Room status)
+412号室：清掃未完了。15:00頃対応予定。
+
+未完了タスク (Pending tasks)
+延泊希望あり（501号室）。フロント確認待ち。
+
+特記事項 (Special notes)
+604号室：ナッツアレルギーあり。レストランに申し送り済み。
+```
 
 ---
 

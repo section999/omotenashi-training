@@ -71,22 +71,10 @@ When guiding a guest toward an alternative, end with a question that invites the
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
 <span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
-<span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?<br><br>
+<span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?
+</div>
+
 These endings return decision-making to the guest, reducing pressure and maintaining a service-oriented dynamic.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>空室状況を確認いたします</code></span><br>
-I will check availability.<br><br>
-<span class="keigo-jp"><code>あいにく〜は満室となっております</code></span><br>
-Unfortunately, 〜 is fully booked.<br><br>
-<span class="keigo-jp"><code>〜でしたらご案内が可能でございます</code></span><br>
-We can offer 〜 (alternative).<br><br>
-<span class="keigo-jp"><code>いかがでしょうか</code></span><br>
-How does that sound?
-</div>
 
 ---
 

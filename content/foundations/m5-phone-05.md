@@ -10,9 +10,7 @@ The staff member's role is not to prevent the cancellation, it is to **reduce em
 
 ## Cancellation Flow
 
-<div class="keigo-card blue">
 Acknowledgment → Identity verification → Reservation check → Cancellation execution → Fee communication (if applicable) → Warm closure
-</div>
 
 ## Complete Cancellation Script
 
@@ -63,9 +61,10 @@ If a cancellation fee applies, it must be communicated clearly but gently. Never
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。</code></span><br>
 <em>makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.</em><br>
-I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.<br><br>
-<span class="keigo-badge info">Key phrase</span> 誠に恐れ入りますが softens the delivery of unwelcome information. The fee is framed as policy (not a personal decision by the hotel).
+I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.
 </div>
+
+誠に恐れ入りますが softens the delivery of unwelcome information. The fee is framed as policy, not a personal decision by the hotel.
 
 ## The Philosophy of the Warm Closing
 
@@ -76,17 +75,6 @@ I am sorry to inform you, but per the reservation cancellation policy, a cancell
 - The guest is welcome to return
 
 This matters because **guests who cancel due to circumstances beyond their control often rebook**. How the hotel handles the cancellation directly affects whether they return.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>キャンセルを承りました</code></span><br>
-Your cancellation has been processed.<br><br>
-<span class="keigo-jp"><code>誠に恐れ入りますが、キャンセル料が発生いたします</code></span><br>
-I am sorry to inform you, but a cancellation fee will apply.<br><br>
-<span class="keigo-jp"><code>またのご利用をお待ちしております</code></span><br>
-We look forward to welcoming you again.
-</div>
 
 ---
 

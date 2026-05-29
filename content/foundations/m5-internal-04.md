@@ -10,25 +10,22 @@ The most common mistake in 相談 is either avoiding it (trying to solve everyth
 
 ## When to Consult
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Policy uncertainty</span>: A guest has made a request that may or may not fall within hotel policy<br><br>
-<span class="keigo-badge info">Escalation decision</span>: You are unsure whether a guest situation requires a manager's involvement<br><br>
-<span class="keigo-badge info">Conflicting priorities</span>: You have two urgent tasks and need to know which to address first<br><br>
-<span class="keigo-badge info">Unusual request</span>: A guest has asked for something you have not encountered before<br><br>
-<span class="keigo-badge info">Personal skill boundary</span>: You have reached the limit of your own ability to resolve a situation<br><br>
-<span class="keigo-badge bad">Do not consult for</span> Situations clearly within your responsibility and training. Use your judgment first. Only escalate when genuinely uncertain.
-</div>
+- **Policy uncertainty:** A guest has made a request that may or may not fall within hotel policy
+- **Escalation decision:** You are unsure whether a guest situation requires a manager's involvement
+- **Conflicting priorities:** You have two urgent tasks and need to know which to address first
+- **Unusual request:** A guest has asked for something you have not encountered before
+- **Personal skill boundary:** You have reached the limit of your own ability to resolve a situation
+- **Do not consult for:** Situations clearly within your responsibility and training. Use your judgment first. Only escalate when genuinely uncertain.
 
 ## The 相談 Structure
 
 A well-formed 相談 has three parts:
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. The situation</span>: What is the current state? (factual, brief)<br>
-<span class="keigo-badge info">2. What you have tried or considered</span>: This shows you have already thought about it<br>
-<span class="keigo-badge info">3. The specific question</span>: What exactly do you need guidance on?<br><br>
+- **1. The situation:** What is the current state? (factual, brief)
+- **2. What you have tried or considered:** This shows you have already thought about it
+- **3. The specific question:** What exactly do you need guidance on?
+
 A 相談 without Part 2 sounds like you are handing the problem over. A 相談 without Part 3 leaves the supervisor guessing what you need from them.
-</div>
 
 ## Consulting a Supervisor
 
@@ -80,16 +77,6 @@ Understood. I will proceed accordingly.<br><br>
 Thank you. I will keep that in mind.<br><br>
 <span class="keigo-jp"><code>結果についてはまたご報告いたします。</code></span><br>
 I will report back on the outcome.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少しご相談してもよろしいでしょうか</code></span>: May I consult with you for a moment?<br><br>
-<span class="keigo-jp"><code>ご意見をいただけますでしょうか</code></span>: Could I get your guidance?<br><br>
-<span class="keigo-jp"><code>いかがでしょうか</code></span>: Does that seem right? / What do you think?<br><br>
-<span class="keigo-jp"><code>ご判断いただけますでしょうか</code></span>: Could you make the call on this?<br><br>
-<span class="keigo-jp"><code>結果についてはまたご報告いたします</code></span>: I will report back on how it goes.
 </div>
 
 ---

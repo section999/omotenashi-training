@@ -10,9 +10,7 @@ Unlike check-in, which is about welcome and reassurance, check-out is about **gr
 
 ## Check-Out Flow
 
-<div class="keigo-card blue">
 Guest arrives at front desk → Greeting → Room number confirmation → Bill presentation → Payment → Final verification → Luggage offer → Farewell
-</div>
 
 ## Complete Check-Out Dialogue
 
@@ -84,18 +82,20 @@ Staff:   またのお越しをお待ちしております。お気をつけて�
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お支払いはいかがなさいますか</code></span><br>
 <em>o-shiharai wa ikaga nasaimasu ka</em><br>
-How would you like to pay?<br><br>
-いかがなさいますか is the honorific form of どうしますか. It asks the guest to make a decision without any pressure. The guest feels they are choosing, not being processed.
+How would you like to pay?
 </div>
+
+いかがなさいますか is the honorific form of どうしますか. It asks the guest to make a decision without any pressure. The guest feels they are choosing, not being processed.
 
 ### The Thank-You for Staying
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は○泊ご利用いただきまして、誠にありがとうございました。</code></span><br>
 <em>kono tabi wa ○-haku go-riyou itadakimashite, makoto ni arigatou gozaimashita.</em><br>
-Thank you very much for choosing to stay with us for ○ nights.<br><br>
-<span class="keigo-badge info">Key element</span> ご利用いただきまして uses the humble form of "to use", the guest's choice to stay is expressed as something humbly received by the hotel. This phrasing communicates genuine appreciation.
+Thank you very much for choosing to stay with us for ○ nights.
 </div>
+
+ご利用いただきまして uses the humble form of "to use," expressing the guest's choice to stay as something humbly received by the hotel. This phrasing communicates genuine appreciation.
 
 ### The Farewell
 
@@ -103,9 +103,10 @@ Thank you very much for choosing to stay with us for ○ nights.<br><br>
 <span class="keigo-jp"><code>またのお越しをお待ちしております</code></span><br>
 We look forward to welcoming you again.<br><br>
 <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
-Please take care on your journey home.<br><br>
-The first phrase keeps the relationship open, this is not goodbye, but "until we meet again." The second phrase expresses genuine care for the guest's safety beyond the hotel. Together they communicate that the hotel's concern for the guest does not end at the door.
+Please take care on your journey home.
 </div>
+
+The first phrase keeps the relationship open, treating this not as goodbye but as "until we meet again." The second phrase expresses genuine care for the guest's safety beyond the hotel. Together they communicate that the hotel's concern for the guest does not end at the door.
 
 ## Luggage Assistance
 
@@ -114,24 +115,10 @@ Always offer to help with luggage, even if the guest appears to be managing. The
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お荷物はお持ちいたしましょうか。</code></span><br>
 <em>o-nimotsu wa o-mochi itashimashoo ka</em><br>
-May I carry your luggage for you?<br><br>
-If the guest declines: 承知いたしました。, Understood. (accept gracefully with no disappointment shown)
+May I carry your luggage for you?
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがご請求書でございます</code></span><br>
-Here is your bill.<br><br>
-<span class="keigo-jp"><code>お支払いはいかがなさいますか</code></span><br>
-How would you like to pay?<br><br>
-<span class="keigo-jp"><code>この度は〜ご利用いただきまして、誠にありがとうございました</code></span><br>
-Thank you very much for your stay.<br><br>
-<span class="keigo-jp"><code>またのお越しをお待ちしております</code></span><br>
-We look forward to welcoming you again.<br><br>
-<span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
-Please take care on your journey home.
-</div>
+If the guest declines, respond with 承知いたしました (Understood) and accept gracefully with no disappointment shown.
 
 ---
 

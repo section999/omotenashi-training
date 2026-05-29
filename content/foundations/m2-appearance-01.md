@@ -23,9 +23,10 @@ In a hospitality context, midashinami takes precedence. The staff member's perso
 
 Every element of appearance communicates something before a word is spoken.
 
-<div class="keigo-card blue">
-• Polished shoes signal attention to detail.<br>• A clean, pressed uniform signals that the property has standards.<br>• Upright posture signals presence and attentiveness.<br>• Hair that is neat and away from the face signals focus on the guest.
-</div>
+• Polished shoes signal attention to detail.
+• A clean, pressed uniform signals that the property has standards.
+• Upright posture signals presence and attentiveness.
+• Hair that is neat and away from the face signals focus on the guest.
 
 
 Guests absorb these cues before any interaction begins. Appearance is the first moment of service.

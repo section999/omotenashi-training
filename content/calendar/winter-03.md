@@ -4,17 +4,17 @@ section: 3
 title: Setsubun, Bean Throwing Festival (節分), February 3 or 4
 ---
 
-**Setsubun (節分)**, literally "seasonal division," marks the day before *Risshun* (立春), the traditional start of spring in the Japanese lunar calendar. February 3rd or 4th (the date varies slightly by year) has been observed for centuries as a day for purification rituals to drive out evil and welcome good fortune into the new year of the old calendar.
+**Setsubun (節分)**, literally "seasonal division," marks the day before 立春 (<em>Risshun</em>), the traditional start of spring in the Japanese lunar calendar. February 3rd or 4th (the date varies slightly by year) has been observed for centuries as a day for purification rituals to drive out evil and welcome good fortune into the new year of the old calendar.
 
 ## The Mamemaki Tradition
 
-The central Setsubun practice is **mamemaki (豆まき)**, bean throwing. Family members, typically the eldest male, don an *oni* (demon/ogre) mask while others throw roasted soybeans (*fukumame*) and shout:
+The central Setsubun practice is **mamemaki (豆まき)**, bean throwing. Family members, typically the eldest male, don an <em>oni</em> (demon/ogre) mask while others throw roasted soybeans (<em>fukumame</em>) and shout:
 
 **鬼は外！福は内！**
-*(Oni wa soto! Fuku wa uchi!)*
+<em>(Oni wa soto! Fuku wa uchi!)</em>
 "Out with demons! In with good fortune!"
 
-It is also traditional to eat one roasted soybean for each year of your age, plus one for good luck in the coming year. In recent decades, the tradition of eating an *ehomaki* (恵方巻き), a whole uncut *maki* sushi roll eaten silently while facing the year's lucky direction, has spread from the Kansai region to become a nationwide custom.
+It is also traditional to eat one roasted soybean for each year of your age, plus one for good luck in the coming year. In recent decades, the tradition of eating an 恵方巻き (<em>ehomaki</em>), a whole uncut <em>maki</em> sushi roll eaten silently while facing the year's lucky direction, has spread from the Kansai region to become a nationwide custom.
 
 ## Setsubun at Shrines and Temples
 

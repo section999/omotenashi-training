@@ -91,8 +91,6 @@ Thank you for waiting.
 
 ## Comparing Department Priorities
 
-<div class="keigo-card blue">
-
 | Department | Primary Keigo Challenge | Key Phrases |
 |---|---|---|
 | Front Desk | Smooth identity confirmation + information delivery | いらっしゃいます, でございます, 承りました |
@@ -100,18 +98,6 @@ Thank you for waiting.
 | Concierge | Humble service offering; readiness | お持ちいたします, ご手配いたします |
 | Housekeeping | Permission to enter; apology language | させていただいてもよろしいでしょうか |
 | Telephone | Opening line; hold and transfer language | おつなぎいたします, お待たせいたしました |
-
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いらっしゃいませ</code></span>: Welcome (all departments)<br>
-<span class="keigo-jp"><code>かしこまりました</code></span>: Certainly (all departments)<br>
-<span class="keigo-jp"><code>少々お待ちくださいませ</code></span>: Please wait a moment (all departments)<br>
-<span class="keigo-jp"><code>ありがとうございます</code></span>: Thank you (all departments)<br>
-<span class="keigo-jp"><code>申し訳ございません</code></span>: I am very sorry (all departments)
-</div>
 
 ---
 

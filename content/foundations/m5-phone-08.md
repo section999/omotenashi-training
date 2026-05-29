@@ -10,20 +10,20 @@ The staff member's primary goal is **not to solve the problem immediately**. It 
 
 ## The Complaint Handling Principle
 
-<div class="keigo-card blue">
-Guest emotion follows a predictable path:<br><br>
-Frustration → Need to be heard → Need to be validated → Ready to hear solutions<br><br>
+Guest emotion follows a predictable path:
+
+
+Frustration → Need to be heard → Need to be validated → Ready to hear solutions
+
+
 If staff skip to "solutions" before the guest feels heard, the emotional tension escalates rather than resolves. The fastest path to resolution is always: acknowledge first, solve second.
-</div>
 
 ## The 4-A Framework
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Apologize</span>: Express genuine regret immediately, before asking any questions<br>
-<span class="keigo-badge info">2. Acknowledge</span>: Confirm you understand what the guest has experienced<br>
-<span class="keigo-badge info">3. Act</span>: State clearly what action will be taken, and when<br>
-<span class="keigo-badge info">4. Assure</span>: Confirm the situation will be resolved and that the guest can rely on the staff
-</div>
+- **1. Apologize:** Express genuine regret immediately, before asking any questions.
+- **2. Acknowledge:** Confirm you understand what the guest has experienced.
+- **3. Act:** State clearly what action will be taken, and when.
+- **4. Assure:** Confirm the situation will be resolved and that the guest can rely on the staff.
 
 ## Noise Complaint Script
 
@@ -77,22 +77,10 @@ When a complaint requires a manager's involvement:
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。</code></span><br>
 <em>makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.</em><br>
-I am sorry to trouble you, but I will now connect you to the responsible person. Please wait a moment.<br><br>
-<span class="keigo-badge info">Key principle</span> Never escalate abruptly. Always apologize before transferring, and never make the guest feel "passed on."
+I am sorry to trouble you, but I will now connect you to the responsible person. Please wait a moment.
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません</code></span><br>
-I sincerely apologize for the inconvenience caused.<br><br>
-<span class="keigo-jp"><code>ただいまの状況、確かに承りました</code></span><br>
-I have clearly understood your situation.<br><br>
-<span class="keigo-jp"><code>すぐに確認いたします</code></span><br>
-I will check on this immediately.<br><br>
-<span class="keigo-jp"><code>必ず対応いたします</code></span><br>
-We will absolutely resolve this.
-</div>
+Never escalate abruptly. Always apologize before transferring, and never make the guest feel "passed on."
 
 ---
 

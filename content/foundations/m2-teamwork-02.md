@@ -21,9 +21,10 @@ This is not a passive relationship. A kōhai who watches closely and asks though
 
 ## How Hierarchy Functions in Practice
 
-<div class="keigo-card blue">
-• When addressing a senpai or jōshi, use respectful language. Keigo applies internally as well as with guests, particularly in formal properties.<br>• When reporting to a manager (hōkoku), be direct, concise, and complete. State the situation, the action taken, and the current status.<br>• Disagreement with a senior colleague should be raised privately and respectfully, not in front of guests or junior staff.<br>• Decisions beyond your authority level should be escalated, not made unilaterally. Escalating shows good judgment.
-</div>
+• When addressing a senpai or jōshi, use respectful language. Keigo applies internally as well as with guests, particularly in formal properties.
+• When reporting to a manager (hōkoku), be direct, concise, and complete. State the situation, the action taken, and the current status.
+• Disagreement with a senior colleague should be raised privately and respectfully, not in front of guests or junior staff.
+• Decisions beyond your authority level should be escalated, not made unilaterally. Escalating shows good judgment.
 
 
 ## The Purpose of Hierarchy

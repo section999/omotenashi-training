@@ -26,7 +26,7 @@ Know in advance:
 - Any outdoor performances of traditional arts, Noh, Gagaku, traditional dance
 - Any seasonal craft demonstrations that align with autumn themes
 
-A recommendation that includes *why* an event is significant, not just its location, transforms it from information into hospitality.
+A recommendation that includes <em>why</em> an event is significant, not just its location, transforms it from information into hospitality.
 
 ## Combining Culture and Koyo
 

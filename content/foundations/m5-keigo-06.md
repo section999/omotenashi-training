@@ -9,15 +9,13 @@ In hotel keigo, the prefixes お and ご are added to nouns and verb stems to cr
 ## The Basic Rule
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">お</span> Used with <strong>native Japanese words</strong> (和語 / wago). These words have kun'yomi readings.<br>
-Examples: <span class="keigo-jp"><code>お部屋</code></span> (へや), <span class="keigo-jp"><code>お荷物</code></span> (にもつ), <span class="keigo-jp"><code>お水</code></span> (みず)<br><br>
-<span class="keigo-badge info">ご</span> Used with <strong>Chinese-origin words</strong> (漢語 / kango). These words have on'yomi readings and often appear as two-kanji compounds.<br>
-Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <span class="keigo-jp"><code>ご確認</code></span> (かくにん), <span class="keigo-jp"><code>ご利用</code></span> (りよう)
+<span class="keigo-badge info">お</span> <span class="keigo-jp"><code>お部屋</code></span> (へや), <span class="keigo-jp"><code>お荷物</code></span> (にもつ), <span class="keigo-jp"><code>お水</code></span> (みず)<br><br>
+<span class="keigo-badge info">ご</span> <span class="keigo-jp"><code>ご予約</code></span> (よやく), <span class="keigo-jp"><code>ご確認</code></span> (かくにん), <span class="keigo-jp"><code>ご利用</code></span> (りよう)
 </div>
 
-## Common Hotel Words with お
+お is used with native Japanese words (和語 / wago), which have kun'yomi readings. ご is used with Chinese-origin words (漢語 / kango), which have on'yomi readings and often appear as two-kanji compounds.
 
-<div class="keigo-card blue">
+## Common Hotel Words with お
 
 | With お | Plain Form | English |
 |---|---|---|
@@ -32,11 +30,7 @@ Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <spa
 | お名前 | 名前 | name |
 | お布団 | 布団 | futon |
 
-</div>
-
 ## Common Hotel Words with ご
-
-<div class="keigo-card blue">
 
 | With ご | Plain Form | English |
 |---|---|---|
@@ -51,13 +45,9 @@ Examples: <span class="keigo-jp"><code>ご予約</code></span> (よやく), <spa
 | ご不明 | 不明 | unclear point |
 | ご意見 | 意見 | opinion |
 
-</div>
-
 ## Exceptions: 漢語 Words That Take お
 
 Some Chinese-origin words have become fixed polite expressions with お in the service industry. These are not constructed by rule; they must be memorized.
-
-<div class="keigo-card blue">
 
 | Word | Type | English |
 |---|---|---|
@@ -70,7 +60,6 @@ Some Chinese-origin words have become fixed polite expressions with お in the s
 | お時間 | 漢語 | time (polite) |
 
 These are fixed hotel phrases. Use お電話, not ご電話. Use お会計, not ご会計.
-</div>
 
 ## Words That Never Take a Prefix
 
@@ -81,9 +70,10 @@ Loanwords (外来語) from English and other languages never take お or ご. Ad
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おサービス / ごサービス</code></span><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おエレベーター</code></span><br><br>
 <span class="keigo-badge good">Correct</span> チェックイン, サービス, エレベーター (no prefix)<br><br>
-Instead of adding a prefix, use the word in a keigo sentence structure:<br>
 <span class="keigo-jp"><code>エレベーターはこちらでございます。</code></span>
 </div>
+
+Instead of adding a prefix to a loanword, use the word within a keigo sentence structure.
 
 ## Common Prefix Mistakes
 
@@ -104,21 +94,6 @@ Instead of adding a prefix, use the word in a keigo sentence structure:<br>
 <span class="keigo-jp"><code>お電話</code></span><br>
 <span class="keigo-jp"><code>エレベーター</code></span>
 </div>
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お荷物をお預かりいたします。</code></span><br>
-I will hold your luggage.<br><br>
-<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
-I have confirmed your reservation.<br><br>
-<span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
-Thank you for calling.<br><br>
-<span class="keigo-jp"><code>ご不明な点はございますか。</code></span><br>
-Do you have any questions?<br><br>
-<span class="keigo-jp"><code>お会計はこちらでございます。</code></span><br>
-Here is your bill.
 </div>
 
 ---

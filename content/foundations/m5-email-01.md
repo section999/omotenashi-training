@@ -10,30 +10,35 @@ Hotel email is not simply written Japanese. It is a service medium. Before the g
 
 A guest reading a reservation confirmation, a pre-arrival notice, or an apology letter is forming an opinion about the hotel. That opinion is based entirely on the language, not on the room, the pool, or the food.
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Professionalism</span> Does this hotel know how to communicate?<br>
-<span class="keigo-badge info">Care</span> Did they pay attention to who I am?<br>
-<span class="keigo-badge info">Trust</span> Can I rely on this hotel to handle my stay properly?<br>
-<span class="keigo-badge info">Warmth</span> Do they actually want me here?<br><br>
+- **Professionalism:** Does this hotel know how to communicate?
+- **Care:** Did they pay attention to who I am?
+- **Trust:** Can I rely on this hotel to handle my stay properly?
+- **Warmth:** Do they actually want me here?
+
 All four questions are answered before the guest reads the first piece of information in the body of the email.
-</div>
 
 ## The Four Requirements of Hotel Email Language
 
-<div class="keigo-card blue">
-<strong>1. Appropriate Register</strong><br>
-The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).<br><br>
-<strong>2. Tone Consistency</strong><br>
-The opening, body, and closing must maintain the same register throughout. A formal opening with a casual closing signals carelessness.<br><br>
-<strong>3. Guest Orientation</strong><br>
-Every sentence should be written from the guest's perspective. What does the guest need to know? How does the guest feel reading this?<br><br>
-<strong>4. Warmth Within Professionalism</strong><br>
+**1. Appropriate Register**
+
+The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).
+
+
+**2. Tone Consistency**
+
+The opening, body, and closing must maintain the same register throughout. A formal opening with a casual closing signals carelessness.
+
+
+**3. Guest Orientation**
+
+Every sentence should be written from the guest's perspective. What does the guest need to know? How does the guest feel reading this?
+
+
+**4. Warmth Within Professionalism**
+
 Hotel emails are not cold business correspondence. They carry the emotional warmth of Japanese hospitality while maintaining professional clarity.
-</div>
 
 ## What Happens When Email Language Is Wrong
-
-<div class="keigo-card blue">
 
 | Error | Guest Impression |
 |---|---|
@@ -43,31 +48,19 @@ Hotel emails are not cold business correspondence. They carry the emotional warm
 | Wrong relationship register | The hotel is not paying attention to me |
 | Excessive or unnatural keigo | The hotel is stiff and uncomfortable |
 
-</div>
-
 ## The Balance: Professional and Human
 
 The target for all hotel email writing is professional warmth. Not overly formal. Not casually friendly. The guest should feel:
 
-<div class="keigo-card blue">
-"This hotel is organized, attentive, and genuinely glad I am coming."<br><br>
-<span class="keigo-badge bad">Too stiff</span> <span class="keigo-jp"><code>深甚なる謝意を表明申し上げます。</code></span><br>
-Overly ceremonial. Emotionally cold despite formal politeness.<br><br>
-<span class="keigo-badge bad">Too casual</span> <span class="keigo-jp"><code>ありがとうございます！また来てくださいね！</code></span><br>
-Friendly but not appropriate for professional hotel correspondence.<br><br>
-<span class="keigo-badge good">Hotel standard</span> <span class="keigo-jp"><code>誠にありがとうございます。ご到着を心よりお待ち申し上げております。</code></span><br>
-Polite, warm, and appropriately professional.
-</div>
+"This hotel is organized, attentive, and genuinely glad I am coming."
 
-## Key Phrases
+| Register | Phrase |
+|---|---|
+| Too stiff | 深甚なる謝意を表明申し上げます。 |
+| Too casual | ありがとうございます！また来てくださいね！ |
+| Hotel standard | 誠にありがとうございます。ご到着を心よりお待ち申し上げております。 |
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>誠にありがとうございます</code></span>: Sincerely thank you<br>
-<span class="keigo-jp"><code>ご不明な点はございますか</code></span>: Do you have any questions?<br>
-<span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Please feel free to contact us<br>
-<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span>: We sincerely look forward to 〜<br>
-<span class="keigo-jp"><code>何卒よろしくお願い申し上げます</code></span>: We humbly ask for your understanding
-</div>
+The "too stiff" example is overly ceremonial and emotionally cold despite formal politeness. The "too casual" example is friendly but not appropriate for professional hotel correspondence. The hotel standard is polite, warm, and appropriately professional.
 
 ---
 

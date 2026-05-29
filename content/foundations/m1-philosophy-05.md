@@ -21,9 +21,9 @@ The modern luxury hotel expresses wabi-sabi through several consistent choices:
 
 In kaiseki and fine dining, wabi-sabi appears in closely related ways:
 
-<div class="keigo-card blue">
-• Serving ingredients at their seasonal peak (*shun*), because the brevity of a season is part of what makes it worth tasting now<br>• Presenting food in handmade ceramics that carry subtle imperfections<br>• The considered pause before placing a dish, not rushing, allowing a moment of anticipation to form naturally
-</div>
+• Serving ingredients at their seasonal peak (*shun*), because the brevity of a season is part of what makes it worth tasting now
+• Presenting food in handmade ceramics that carry subtle imperfections
+• The considered pause before placing a dish, not rushing, allowing a moment of anticipation to form naturally
 
 
 ## The Practical Principle

@@ -12,9 +12,8 @@ A formal meal has a rhythm: arrival, settling, reading the menu, ordering, eatin
 
 Examples of timing that respects the guest's rhythm:
 
-<div class="keigo-card blue">
-• Not approaching a guest who has just taken their first sip of soup to ask if everything is all right<br>• Not bringing the dessert menu while the guest is still engaged in deep conversation over the main course
-</div>
+• Not approaching a guest who has just taken their first sip of soup to ask if everything is all right
+• Not bringing the dessert menu while the guest is still engaged in deep conversation over the main course
 
 
 The server waits, not passively, but actively, until the natural pause arrives.
@@ -29,9 +28,9 @@ Learning to recognise these openings requires a shift in how the role is underst
 
 The highest form of timing is anticipatory, acting before the guest even realises they need something:
 
-<div class="keigo-card blue">
-• Refilling a water glass before the guest notices it is low<br>• Bringing an extra napkin when a guest orders a dish that is typically messy<br>• Adjusting the air conditioning before the guest has to ask
-</div>
+• Refilling a water glass before the guest notices it is low
+• Bringing an extra napkin when a guest orders a dish that is typically messy
+• Adjusting the air conditioning before the guest has to ask
 
 
 This is not mind-reading. It is attentive pattern recognition, developed through experience and genuine care. In Japanese hospitality, this quality is described as *ki ga tsuku* (気が付く), "noticing" or "becoming aware." It is a small phrase for a very large skill.

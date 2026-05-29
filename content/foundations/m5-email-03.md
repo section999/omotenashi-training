@@ -14,9 +14,10 @@ For emails triggered by a booking action (new reservation, modification, cancell
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご変更のご連絡をいただき、ありがとうございます。</code></span><br>
-Thank you for contacting us regarding your modification.<br><br>
-The opening names the specific action (予約, 変更, etc.) so the guest immediately understands the subject of the email.
+Thank you for contacting us regarding your modification.
 </div>
+
+The opening names the specific action (予約, 変更, etc.) so the guest immediately understands the subject of the email.
 
 ## Email Type 2: General Information or Operational Notice
 
@@ -24,9 +25,10 @@ For informational emails (check-in time reminders, facility updates, policy chan
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
-Thank you very much for your continued use of our hotel.<br><br>
-平素より (always, habitually) creates a professional, general tone appropriate for operational announcements. It does not assume a specific recent action, making it suitable for notices sent to all guests or to a guest without a specific transaction happening.
+Thank you very much for your continued use of our hotel.
 </div>
+
+平素より (always, habitually) creates a professional, general tone appropriate for operational announcements. It does not assume a specific recent action, making it suitable for notices sent to all guests or to a guest without a specific transaction happening.
 
 ## Email Type 3: Apology Email
 
@@ -36,12 +38,10 @@ Apology emails require a fundamentally different opening. The first line must ac
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご迷惑をおかけし、誠に申し訳ございません。</code></span><br>
-We sincerely apologize for the trouble caused on this occasion.<br><br>
-Key elements:<br>
-この度は, anchors the apology to a specific incident<br>
-ご不便をおかけし / ご迷惑をおかけし, acknowledges the impact on the guest<br>
-誠に申し訳ございません, the most sincere form of apology
+We sincerely apologize for the trouble caused on this occasion.
 </div>
+
+Key elements: この度は anchors the apology to a specific incident. ご不便をおかけし / ご迷惑をおかけし acknowledges the impact on the guest. 誠に申し訳ございません is the most sincere form of apology.
 
 ## Email Type 4: Post-Stay or Thank-You
 
@@ -49,15 +49,14 @@ After a guest departs, the opening must shift tense to reflect the completed sta
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
-Thank you very much for staying at our hotel on this occasion.<br><br>
-Note the past tense: ありがとうございました (past) instead of ありがとうございます (present). This is essential. A post-stay email written with present tense sounds like a pre-stay email that was sent at the wrong time.
+Thank you very much for staying at our hotel on this occasion.
 </div>
+
+Note the past tense: ありがとうございました (past) instead of ありがとうございます (present). This is essential. A post-stay email written with present tense sounds like a pre-stay email that was sent at the wrong time.
 
 ## The Formality Spectrum
 
 Different email types and property types call for different formality levels within each category.
-
-<div class="keigo-card blue">
 
 | Level | Opening Phrase | Use |
 |---|---|---|
@@ -66,17 +65,6 @@ Different email types and property types call for different formality levels wit
 | Reservation specific | この度は、ご予約いただき、誠にありがとうございます | Booking confirmations |
 | Apology | この度は、ご不便をおかけし、誠に申し訳ございません | Any apology situation |
 | Post-stay | この度は、ご利用いただき、誠にありがとうございました | Thank-you emails |
-
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge info">Reservation</span> <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span><br>
-<span class="keigo-badge info">Information notice</span> <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span><br>
-<span class="keigo-badge info">Apology</span> <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span><br>
-<span class="keigo-badge info">Post-stay</span> <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span>
-</div>
 
 ---
 

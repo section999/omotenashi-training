@@ -10,18 +10,27 @@ Knowing individual keigo verbs and prefixes is not enough. Professional hotel ke
 
 Every hotel sentence has three components that need a keigo decision:
 
-<div class="keigo-card blue">
-<strong>1. Who is the subject?</strong><br>
-Guest acting: use 尊敬語 for the verb<br>
-Staff acting: use 謙譲語 for the verb<br>
-No clear actor: use 丁寧語 baseline<br><br>
-<strong>2. Are nouns or verb stems prefixed?</strong><br>
-Japanese-origin words: お<br>
-Chinese-origin words: ご<br>
-Loanwords: no prefix<br><br>
-<strong>3. What is the sentence ending?</strong><br>
+**1. Who is the subject?**
+
+Guest acting: use 尊敬語 for the verb
+
+Staff acting: use 謙譲語 for the verb
+
+No clear actor: use 丁寧語 baseline
+
+
+**2. Are nouns or verb stems prefixed?**
+
+Japanese-origin words: お
+
+Chinese-origin words: ご
+
+Loanwords: no prefix
+
+
+**3. What is the sentence ending?**
+
 でございます / ございます / いたします / くださいませ / でしょうか
-</div>
 
 ## Pattern 1: Guest Is Present / Identity Confirmation
 
@@ -33,9 +42,10 @@ Are you Mr./Ms. [Name]?<br><br>
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますね。</code></span><br>
 You are Mr./Ms. [Name], correct?<br><br>
 <span class="keigo-jp"><code>ご予約の[Name]様でいらっしゃいますか。</code></span><br>
-Are you Mr./Ms. [Name] with a reservation?<br><br>
-Components: ご (prefix for 予約) + でいらっしゃいます (sonkeigo for the guest's existence)
+Are you Mr./Ms. [Name] with a reservation?
 </div>
+
+Components: ご (prefix for 予約) + でいらっしゃいます (sonkeigo for the guest's existence).
 
 ## Pattern 2: Information Delivery
 
@@ -48,9 +58,10 @@ Your room is Room 702.<br><br>
 <span class="keigo-jp"><code>朝食は1階のレストランでございます。</code></span><br>
 Breakfast is at the restaurant on the 1st floor.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span><br>
-Checkout is at 11:00.<br><br>
-Components: お (prefix for 部屋) + でございます (teineigo refined statement)
+Checkout is at 11:00.
 </div>
+
+Components: お (prefix for 部屋) + でございます (teineigo refined statement).
 
 ## Pattern 3: Asking the Guest to Act
 
@@ -64,9 +75,10 @@ Could you please fill this in?<br><br>
 <span class="keigo-jp"><code>パスポートをご提示いただけますでしょうか。</code></span><br>
 Could you please show your passport?<br><br>
 <span class="keigo-jp"><code>少々お待ちいただけますでしょうか。</code></span><br>
-Could you please wait a moment?<br><br>
-Components: ご/お (prefix) + いただける (humble receiving) + でしょうか (teineigo question)
+Could you please wait a moment?
 </div>
+
+Components: ご/お (prefix) + いただける (humble receiving) + でしょうか (teineigo question).
 
 ## Pattern 4: Staff Announcing Their Action
 
@@ -80,9 +92,10 @@ I will confirm that right now.<br><br>
 <span class="keigo-jp"><code>お部屋までご案内いたします。</code></span><br>
 I will guide you to your room.<br><br>
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
-I have received your reservation.<br><br>
-Components: ご (prefix) + いたします / 承りました (kenjogo verb)
+I have received your reservation.
 </div>
+
+Components: ご (prefix) + いたします / 承りました (kenjogo verb).
 
 ## Pattern 5: Apologizing and Softening Limitations
 
@@ -94,32 +107,25 @@ I am truly sorry, but 〜.<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま満室でございます。</code></span><br>
 I am truly sorry, but we are fully booked at this time.<br><br>
 <span class="keigo-jp"><code>あいにく〜が難しい状況でございます。</code></span><br>
-Unfortunately, 〜 is difficult at this time.<br><br>
-Components: 誠に恐れ入りますが (kenjogo apology buffer) + でございます (teineigo statement)
+Unfortunately, 〜 is difficult at this time.
 </div>
+
+Components: 誠に恐れ入りますが (kenjogo apology buffer) + でございます (teineigo statement).
 
 ## A Full Check-In Exchange: Annotated
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>いらっしゃいませ。</code></span> <span class="keigo-badge info">尊敬語</span><br>
-Welcome. (いらっしゃる = sonkeigo for guest's existence/arrival)<br><br>
+Welcome.<br><br>
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span> <span class="keigo-badge info">謙譲語 + 丁寧語</span><br>
-Could you tell me the name on your reservation? (お聞かせいただく = humble receiving; ご/お prefixes correct)<br><br>
+Could you tell me the name on your reservation?<br><br>
 <span class="keigo-jp"><code>田中様でいらっしゃいますね。2泊でございますね。</code></span> <span class="keigo-badge info">尊敬語 + 丁寧語</span><br>
-You are Ms./Mr. Tanaka, correct? A 2-night stay, correct? (いらっしゃいます = sonkeigo; でございます = teineigo)<br><br>
+You are Ms./Mr. Tanaka, correct? A 2-night stay, correct?<br><br>
 <span class="keigo-jp"><code>ただいまお部屋をご用意いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
-I will prepare your room right now. (ご用意いたします = kenjogo for staff action)
+I will prepare your room right now.
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>〜でいらっしゃいますか</code></span>: Are you 〜? (guest identity)<br>
-<span class="keigo-jp"><code>〜でございます</code></span>: It is 〜 (information delivery)<br>
-<span class="keigo-jp"><code>〜いただけますでしょうか</code></span>: Could you please 〜? (soft request)<br>
-<span class="keigo-jp"><code>ただいま〜いたします</code></span>: I will 〜 right now (staff action)<br>
-<span class="keigo-jp"><code>誠に恐れ入りますが〜</code></span>: I am truly sorry, but 〜 (limitation buffer)
-</div>
+In this exchange: いらっしゃる is sonkeigo for the guest's existence/arrival; お聞かせいただく is humble receiving with correct ご/お prefixes; いらっしゃいます is sonkeigo and でございます is teineigo; ご用意いたします is kenjogo for the staff's action.
 
 ---
 

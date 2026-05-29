@@ -16,10 +16,10 @@ This comes from Japan's long relationship with nature. The four seasons carry em
 Decorations, flower arrangements (ikebana), table settings, and even uniforms shift to reflect the season. A New Year's arrangement displayed in June, or summer-themed displays in autumn, disrupts the guest's sense of immersion. Seasonal alignment is noticed, sometimes consciously, sometimes not, but it always registers.
 <br><br>
 <span class="keigo-badge info">Language</span><br>
-Seasonal greetings (*kisetsu no aisatsu*, 季節の挨拶) open conversations and written correspondence. Knowing the phrase that fits the current time of year signals cultural fluency and genuine attentiveness. It communicates that you are paying attention to more than just the guest's booking details.
+Seasonal greetings (季節の挨拶, <em>kisetsu no aisatsu</em>) open conversations and written correspondence. Knowing the phrase that fits the current time of year signals cultural fluency and genuine attentiveness. It communicates that you are paying attention to more than just the guest's booking details.
 <br><br>
 <span class="keigo-badge info">Food and Drink</span><br>
-Serving seasonal ingredients (*shun*, 旬) is not simply a culinary preference. It is a quiet act of respect for the guest. Shun ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. A staff member who can name the seasonal ingredient on the plate and explain why it appears now is turning a meal into an experience.<br>
+Serving seasonal ingredients (旬, <em>shun</em>) is not simply a culinary preference. It is a quiet act of respect for the guest. Shun ingredients are at their flavour peak, which means serving them is serving the best possible version of a dish. A staff member who can name the seasonal ingredient on the plate and explain why it appears now is turning a meal into an experience.<br>
 </div>
 
 

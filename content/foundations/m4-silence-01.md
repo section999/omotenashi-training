@@ -12,9 +12,8 @@ Ma is not awkward silence. It is not hesitation, uncertainty, or forgetting what
 
 Examples of ma in service:
 
-<div class="keigo-card blue">
-• A staff member who delivers a meal and steps away quietly before the guest has even lifted their chopsticks<br>• A front desk agent who pauses after a guest shares a concern, absorbing it fully before responding
-</div>
+• A staff member who delivers a meal and steps away quietly before the guest has even lifted their chopsticks
+• A front desk agent who pauses after a guest shares a concern, absorbing it fully before responding
 
 
 Ma communicates: *I am here. I am listening. I am not rushing you.*

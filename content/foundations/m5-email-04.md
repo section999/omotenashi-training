@@ -10,12 +10,10 @@ The closing of a hotel email creates the final impression. A well-constructed op
 
 Every email closing serves one or more of these purposes:
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Support</span> The hotel remains available, please feel free to ask us anything<br>
-<span class="keigo-badge info">Welcome</span> We look forward to seeing you<br>
-<span class="keigo-badge info">Relationship</span> We value your continued patronage<br>
-<span class="keigo-badge info">Care</span> We want your experience to be excellent
-</div>
+- **Support:** The hotel remains available; please feel free to ask
+- **Welcome:** We look forward to seeing you
+- **Relationship:** We value your continued patronage
+- **Care:** We want your experience to be excellent
 
 ## Closing Type 1: Support Closing (Universal)
 
@@ -23,11 +21,10 @@ This is the safest, most versatile closing. It fits reservation emails, informat
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-If you have any questions, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>お気軽にご連絡くださいませ。</code></span><br>
-Please feel free to contact us.<br><br>
-Note: くださいませ is softer and more refined than ください. In hotel correspondence, always use くださいませ.
+If you have any questions, please feel free to contact us.
 </div>
+
+くださいませ is softer and more refined than ください. In hotel correspondence, always use くださいませ.
 
 ## Closing Type 2: Welcome Closing (Pre-Arrival)
 
@@ -35,23 +32,21 @@ Used in reservation confirmations and pre-arrival emails. Creates emotional warm
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
-We sincerely look forward to your arrival.<br><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
-All of our staff sincerely look forward to your arrival.<br><br>
-心より (sincerely, from the heart) elevates the emotional warmth. お待ち申し上げております uses humble language (申し上げる) to express that the staff is waiting in service of the guest.
+We sincerely look forward to your arrival.
 </div>
+
+心より (sincerely, from the heart) elevates the emotional warmth. お待ち申し上げております uses humble language to express that the staff is waiting in service of the guest. Adding スタッフ一同 (all of our staff) at the start creates a more collective, formal tone.
 
 ## Closing Type 3: Relationship Closing (Repeat Guest)
 
-Used when expressing appreciation for continued patronage. Best suited to emails to repeat guests or at the end of post-stay thank-you messages.
+Used when expressing appreciation for continued patronage. Best suited to emails to repeat guests or at the end of post-stay messages.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span><br>
-We look forward to your continued patronage.<br><br>
-<span class="keigo-jp"><code>またのお越しをお待ちしております。</code></span><br>
-We look forward to welcoming you again.<br><br>
-今後とも (from now on as well) explicitly acknowledges an ongoing relationship. Do not use this closing for first-time guests.
+We look forward to your continued patronage.
 </div>
+
+今後とも (from now on as well) explicitly acknowledges an ongoing relationship. Do not use this closing for first-time guests. またのお越しをお待ちしております is a lighter alternative for less formal repeat-guest emails.
 
 ## Closing Type 4: Post-Stay Return Closing
 
@@ -59,9 +54,10 @@ Used specifically in post-stay emails to express hope for a future visit.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
-We sincerely look forward to the day we can welcome you again.<br><br>
-またお会いできる日 (the day we can meet again) is more personal and warmer than またのお越し (your next visit), making it appropriate for high-touch post-stay messages at premium properties.
+We sincerely look forward to the day we can welcome you again.
 </div>
+
+またお会いできる日 (the day we can meet again) is more personal and warmer than またのお越し (your next visit), making it appropriate for high-touch post-stay messages at premium properties.
 
 ## Closing Type 5: Apology Closing
 
@@ -69,35 +65,18 @@ After an apology, the closing must emphasize support and care, not future busine
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-Please feel free to contact us if you have any questions.<br><br>
-<span class="keigo-jp"><code>今後とも変わらぬご愛顧のほど、何卒よろしくお願い申し上げます。</code></span><br>
-We humbly ask for your continued support going forward.<br><br>
-Keep apology closings soft and supportive. Avoid 今後ともよろしくお願い申し上げます in its short form immediately after a serious apology, as it can read as pivoting quickly to future business.
+Please feel free to contact us if you have any questions.
 </div>
+
+Avoid 今後ともよろしくお願い申し上げます immediately after a serious apology. It can read as pivoting to future business before the guest's concern has been fully respected. If the situation calls for it, 今後とも変わらぬご愛顧のほど、何卒よろしくお願い申し上げます is acceptable as a softer variation.
 
 ## Matching Opening to Closing
 
-<div class="keigo-card blue">
-<span class="keigo-badge good">Pre-arrival</span><br>
-Opening: <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span><br>
-Closing: <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span><br><br>
-<span class="keigo-badge good">Post-stay</span><br>
-Opening: <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span><br>
-Closing: <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br><br>
-<span class="keigo-badge good">Apology</span><br>
-Opening: <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span><br>
-Closing: <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: We sincerely look forward to your arrival<br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております</code></span>: All of our staff sincerely look forward to your arrival (collective)<br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: We sincerely look forward to the day we can welcome you again<br>
-<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span>: We look forward to your continued patronage<br>
-<span class="keigo-jp"><code>ご不明な点などございましたら、お気軽にご連絡くださいませ</code></span>: Please feel free to contact us if you have any questions
-</div>
+| Context | Opening | Closing |
+|---|---|---|
+| Pre-arrival | この度は、ご予約いただき、誠にありがとうございます | ご到着を心よりお待ち申し上げております |
+| Post-stay | この度は、ご利用いただき、誠にありがとうございました | またお会いできます日を心よりお待ち申し上げております |
+| Apology | この度は、ご不便をおかけし、誠に申し訳ございません | ご不明点などございましたら、お気軽にご連絡くださいませ |
 
 ---
 

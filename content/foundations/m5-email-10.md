@@ -8,12 +8,13 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 
 ## What This Email Must Accomplish
 
-<div class="keigo-card blue">
-<strong>1. Inform:</strong> State clearly what is happening, when, and which facilities or services are affected.<br>
-<strong>2. Acknowledge:</strong> Recognize that this creates inconvenience without over-apologizing.<br>
-<strong>3. Request:</strong> Ask for the guest's understanding using appropriate humble language.<br>
-<strong>4. Support:</strong> Close with an offer to answer questions.
-</div>
+**1. Inform:** State clearly what is happening, when, and which facilities or services are affected.
+
+**2. Acknowledge:** Recognize that this creates inconvenience without over-apologizing.
+
+**3. Request:** Ask for the guest's understanding using appropriate humble language.
+
+**4. Support:** Close with an offer to answer questions.
 
 ## Full Template
 
@@ -48,12 +49,13 @@ If you have any questions, please feel free to contact us.
 ## Key Phrase: 何卒ご理解のほど
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br><br>
-何卒 (nanitozo), "humbly" or "please"; adds sincerity and humility<br>
-ご理解のほど (go-rikai no hodo), "your understanding"; のほど is a softening construction<br>
-よろしくお願い申し上げます, the highest-register form of please/request<br><br>
-This phrase is standard in Japanese professional notice emails. It requests the guest's understanding and patience without sounding demanding or casual.
+<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
+We humbly ask for your understanding.
 </div>
+
+何卒 (nanitozo) means "humbly" or "please" and adds sincerity and humility. ご理解のほど (go-rikai no hodo) means "your understanding"; のほど is a softening construction. よろしくお願い申し上げます is the highest-register form of please/request.
+
+This phrase is standard in Japanese professional notice emails. It requests the guest's understanding and patience without sounding demanding or casual.
 
 ## Alternate Versions
 
@@ -64,15 +66,6 @@ We are currently conducting renovation work in part of the hotel.<br><br>
 During the construction period, there may be noise or vibrations. We humbly ask for your understanding.<br><br>
 <span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります。</code></span><br>
 We will do our best to minimize any inconvenience to your stay.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします</code></span>: We will be conducting facility inspections on the following schedule<br>
-<span class="keigo-jp"><code>点検作業中は、〜がご利用いただけない時間帯がございます</code></span>: During the inspection, [facility] will be unavailable for some time<br>
-<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding<br>
-<span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります</code></span>: We will do our best to minimize any inconvenience to your stay
 </div>
 
 ---

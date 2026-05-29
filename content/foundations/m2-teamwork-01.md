@@ -6,9 +6,9 @@ title: Hōrenso, The Foundation of Team Communication
 
 **報・連・相 (hōrenso)** is one of the most widely taught principles in Japanese professional culture. Its name is also the Japanese word for spinach (ほうれん草), which makes it easy to remember. The three components are:
 
-<div class="keigo-card blue">
-• **報告 (hōkoku)**, Reporting: informing a superior or colleague of a completed task, a development, or a problem. "I have done X" or "X has happened."<br>• **連絡 (renraku)**, Contacting: sharing information that others need to know in order to act. A guest's arrival time, a change in a booking, a complaint received. "You need to know X."<br>• **相談 (sōdan)**, Consulting: seeking guidance or input before making a decision, particularly in uncertain situations. "I am facing X, what should I do?"
-</div>
+• **報告 (hōkoku)**, Reporting: informing a superior or colleague of a completed task, a development, or a problem. "I have done X" or "X has happened."
+• **連絡 (renraku)**, Contacting: sharing information that others need to know in order to act. A guest's arrival time, a change in a booking, a complaint received. "You need to know X."
+• **相談 (sōdan)**, Consulting: seeking guidance or input before making a decision, particularly in uncertain situations. "I am facing X, what should I do?"
 
 
 ## Why Hōrenso Matters in Hospitality

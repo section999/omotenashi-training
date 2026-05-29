@@ -25,9 +25,9 @@ A furoshiki is a square cloth used to wrap and carry items. It is an elegant, su
 
 When presenting a gift:
 
-<div class="keigo-card blue">
-• Present with both hands and a slight bow<br>• Extend the gift calmly at chest height, do not thrust it forward<br>• In most traditional contexts, the recipient should not open the gift immediately, which avoids any awkwardness about the value received
-</div>
+• Present with both hands and a slight bow
+• Extend the gift calmly at chest height, do not thrust it forward
+• In most traditional contexts, the recipient should not open the gift immediately, which avoids any awkwardness about the value received
 
 
 ## Receiving Gifts from Guests

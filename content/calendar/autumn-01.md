@@ -4,15 +4,15 @@ section: 1
 title: Koyo, Autumn Foliage (紅葉), October to November
 ---
 
-Japan's autumn foliage season, *koyo* (紅葉, literally "crimson leaves"), is one of the country's most significant natural events. The progression of colour begins in Hokkaido in September and moves southward over approximately two months, reaching Kyushu by November. Kyoto, Nikko, Hakone, the Japanese Alps, and countless mountain resorts fill to capacity during this period. International tourism peaks during koyo, particularly from East Asian countries where the tradition of viewing autumn leaves carries deep cultural resonance.
+Japan's autumn foliage season, 紅葉 (<em>koyo</em>, literally "crimson leaves"), is one of the country's most significant natural events. The progression of colour begins in Hokkaido in September and moves southward over approximately two months, reaching Kyushu by November. Kyoto, Nikko, Hakone, the Japanese Alps, and countless mountain resorts fill to capacity during this period. International tourism peaks during koyo, particularly from East Asian countries where the tradition of viewing autumn leaves carries deep cultural resonance.
 
 ## How Koyo Differs from Cherry Blossom Season
 
-Cherry blossom season is defined by transience and delicate beauty. Koyo carries a different emotional register, deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (*momiji*) and ginkgo (*ichō*) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo often arrive in a slower, more reflective mood. They tend to linger, photograph carefully, and seek the most intense colours.
+Cherry blossom season is defined by transience and delicate beauty. Koyo carries a different emotional register, deeper, more contemplative, associated with the richness of maturity and harvest. The reds and golds of maple (<em>momiji</em>) and ginkgo (<em>ichō</em>) trees create a warmer, more enveloping palette than spring's pale pink. Guests who come for koyo often arrive in a slower, more reflective mood. They tend to linger, photograph carefully, and seek the most intense colours.
 
 ## What Front-Line Staff Need to Know
 
-Koyo is weather-dependent and changes daily. The question every front-line staff member must be ready to answer accurately is: *"Where are the leaves at their best right now, and for how many more days?"* This information shifts with temperature and rainfall. Staff should be prepared with the following:
+Koyo is weather-dependent and changes daily. The question every front-line staff member must be ready to answer accurately is: <em>"Where are the leaves at their best right now, and for how many more days?"</em> This information shifts with temperature and rainfall. Staff should be prepared with the following:
 
 - Know the current foliage status at the two or three nearest major viewing spots
 - Know whether the leaves are just beginning, at peak, or starting to fall

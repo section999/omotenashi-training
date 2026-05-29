@@ -36,9 +36,10 @@ Omotenashi is not limited to front desk or guest-facing staff. It is a shared ph
 
 Examples include:
 
-<div class="keigo-card blue">
-• a chef selecting ingredients at their seasonal peak<br>• a housekeeper carefully arranging the room<br>• an engineer ensuring facilities operate smoothly<br>• a reservations coordinator communicating guest preferences before arrival
-</div>
+• a chef selecting ingredients at their seasonal peak
+• a housekeeper carefully arranging the room
+• an engineer ensuring facilities operate smoothly
+• a reservations coordinator communicating guest preferences before arrival
 
 
 Each role contributes to the overall guest experience. Even work that guests never see can strongly affect how welcomed and comfortable they feel.

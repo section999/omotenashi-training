@@ -10,8 +10,6 @@ Hotel keigo is built from three distinct systems that work together in every int
 
 Sonkeigo is used when describing the **guest's** actions, decisions, condition, or status. By choosing a special honorific verb for the guest's action, the staff linguistically elevates the guest. This is not just politeness. It communicates the fundamental hospitality message: "You are the honored person here."
 
-<div class="keigo-card blue">
-
 | Plain Form | Sonkeigo Form | Meaning |
 |---|---|---|
 | いる (to be / to exist) | いらっしゃいます | Guest is / Guest exists |
@@ -23,7 +21,6 @@ Sonkeigo is used when describing the **guest's** actions, decisions, condition, 
 | 言う (to say) | おっしゃいます | Guest says |
 | する (to do) | なさいます | Guest does |
 | 休む (to rest) | お休みになります | Guest rests |
-</div>
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -44,8 +41,6 @@ Sonkeigo is used when describing the **guest's** actions, decisions, condition, 
 
 Kenjogo is used when describing the **staff's own actions**. By choosing a humble verb form, the staff positions themselves below the guest. This is the structural opposite of sonkeigo: sonkeigo raises the guest; kenjogo lowers the staff. Together they create the defining relationship of Japanese hospitality service.
 
-<div class="keigo-card blue">
-
 | Plain Form | Kenjogo Form | Meaning |
 |---|---|---|
 | 行く (to go) | 参ります / 伺います | I go (to the guest) |
@@ -57,7 +52,6 @@ Kenjogo is used when describing the **staff's own actions**. By choosing a humbl
 | 聞く (to hear/ask) | 伺います | I ask / I visit |
 | 見る (to look) | 拝見します | I look at |
 | もらう (to receive action) | いただきます | I humbly receive your action |
-</div>
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -94,24 +88,16 @@ In a real hotel interaction, all three types are used in the same breath. A sing
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
-You are Mr./Ms. Yamada, correct? (いらっしゃる elevates the guest's existence)<br><br>
+You are Mr./Ms. Yamada, correct?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
-Here is your room key. (でございます creates professional tone)<br><br>
+Here is your room key.<br><br>
 <span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
-A staff member will guide you. (いたします humbly states the staff's action)
+A staff member will guide you.
 </div>
+
+In this exchange: いらっしゃいます elevates the guest's existence (尊敬語), でございます creates the professional tone (丁寧語), and いたします humbly states the staff's action (謙譲語).
 
 Switching between all three naturally and accurately is the core skill of hotel keigo. It is not memorizing three lists. It is understanding who is doing what, and choosing the verb form accordingly.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>いらっしゃいますか</code></span> Are you here? / Are you Mr./Ms. X?<br>
-<span class="keigo-badge info">尊敬語</span> <span class="keigo-jp"><code>召し上がりますか</code></span> Would you like to eat/drink?<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>お伺いいたします</code></span> I will come to you / I will ask<br>
-<span class="keigo-badge info">謙譲語</span> <span class="keigo-jp"><code>承ります</code></span> I will humbly receive (a request)<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございます</code></span> It is / This is (refined です)
-</div>
 
 ---
 

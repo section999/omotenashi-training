@@ -10,38 +10,41 @@ Professional hotel email writing requires consistency across every email sent, r
 
 Use this checklist before sending every hotel email. Each item represents a category of error covered in this module.
 
-<div class="keigo-card blue">
-The subject line uses 【】 brackets to label the email type<br>
-The guest's name and relevant dates or topic are visible at a glance<br>
+The subject line uses 【】 brackets to label the email type
+
+The guest's name and relevant dates or topic are visible at a glance
+
 The subject line is specific enough for the guest to understand the email without opening it
-</div>
 
-<div class="keigo-card blue">
-The opening matches the guest's relationship type: この度は (first-time), いつもお世話になっております (repeat), or 格別のご愛顧 (VIP/long-term)<br>
-The opening matches the email type: gratitude for reservation, gratitude for contact, or apology (never gratitude before an apology)<br>
+The opening matches the guest's relationship type: この度は (first-time), いつもお世話になっております (repeat), or 格別のご愛顧 (VIP/long-term)
+
+The opening matches the email type: gratitude for reservation, gratitude for contact, or apology (never gratitude before an apology)
+
 Tense is correct: ありがとうございます (pre-stay) or ありがとうございました (post-stay)
-</div>
 
-<div class="keigo-card blue">
-Each paragraph covers one topic<br>
-Facts are stated using でございます<br>
-Requests are written in soft form: 〜いただけますと幸いでございます<br>
-No vague answers (たぶん, 〜かもしれない) for questions that require clear answers<br>
-No excuses in apology emails<br>
+Each paragraph covers one topic
+
+Facts are stated using でございます
+
+Requests are written in soft form: 〜いただけますと幸いでございます
+
+No vague answers (たぶん, 〜かもしれない) for questions that require clear answers
+
+No excuses in apology emails
+
 No overly complex keigo that sounds unnatural
-</div>
 
-<div class="keigo-card blue">
-A closing phrase is present (the email does not end abruptly)<br>
-The closing matches the email type: お待ちしております (pre-arrival), またお会いできる日を (post-stay), 今後ともよろしくお願い申し上げます (repeat guest), ご連絡くださいませ (apology or support)<br>
+A closing phrase is present (the email does not end abruptly)
+
+The closing matches the email type: お待ちしております (pre-arrival), またお会いできる日を (post-stay), 今後ともよろしくお願い申し上げます (repeat guest), ご連絡くださいませ (apology or support)
+
 くださいませ is used instead of ください
-</div>
 
-<div class="keigo-card blue">
-The register is the same from opening to closing<br>
-No casual words or phrases appear mid-email (ね, よ, など informal forms)<br>
+The register is the same from opening to closing
+
+No casual words or phrases appear mid-email (ね, よ, など informal forms)
+
 The overall tone fits the email purpose: warm and welcoming (reservation), supportive (apology), clear and organized (notice)
-</div>
 
 ## Expression Quick Reference
 
@@ -68,16 +71,6 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span>: Repeat guest / relationship<br>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Universal support close<br>
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span>: First-time reservation opening<br>
-<span class="keigo-jp"><code>いつもお世話になっております</code></span>: Repeat guest opening<br>
-<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: Apology opening<br>
-<span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate if you could soft request form for all body requests<br>
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Universal support close
 </div>
 
 ---

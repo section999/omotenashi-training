@@ -8,9 +8,7 @@ Reservation calls are among the most operationally critical interactions in a ho
 
 ## New Booking Call
 
-<div class="keigo-card blue">
 Greeting → Date inquiry → Availability check → Option presentation → Guest details → Final confirmation
-</div>
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが。</code></span><br>
@@ -37,21 +35,22 @@ Mr./Ms. Yamada. I have confirmed your reservation: twin room, June 10th for two 
 
 Some learners feel that repeating dates and names back to the guest sounds unnecessary. In hotel operations, this repetition is essential:
 
-<div class="keigo-card blue">
-Dates repeated → prevents June 10th vs June 1st errors<br>
-Room type repeated → prevents twin vs single booking mistakes<br>
-Name repeated → confirms the correct guest identity<br>
-Final summary → gives the guest verbal confirmation before the call ends<br><br>
+Dates repeated → prevents June 10th vs June 1st errors
+
+Room type repeated → prevents twin vs single booking mistakes
+
+Name repeated → confirms the correct guest identity
+
+Final summary → gives the guest verbal confirmation before the call ends
+
+
 Each repetition is a checkpoint. Missing one creates a gap where operational errors enter undetected.
-</div>
 
 ## Modification Call
 
 When a guest calls to change their reservation, dates, room type, or number of guests, the same verification chain applies:
 
-<div class="keigo-card blue">
 Acknowledge request → Verify identity → Confirm current booking → Ask for new details → Check availability → Confirm new booking
-</div>
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
@@ -71,19 +70,6 @@ Thank you for waiting. I have updated your reservation to June 15th for two nigh
 </div>
 
 **Reservation calls are not conversations. They are verification chains.**
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご希望のお日にちをお伺いしてもよろしいでしょうか</code></span><br>
-May I ask for your preferred dates?<br><br>
-<span class="keigo-jp"><code>○○でございますね</code></span><br>
-That is ○○, correct? (universal verification phrase)<br><br>
-<span class="keigo-jp"><code>ご予約のお名前をお伺いしてもよろしいでしょうか</code></span><br>
-May I ask for the name on the reservation?<br><br>
-<span class="keigo-jp"><code>〜にて承りました</code></span><br>
-I have confirmed your reservation for 〜
-</div>
 
 ---
 

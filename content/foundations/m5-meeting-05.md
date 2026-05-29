@@ -103,16 +103,6 @@ A VIP guest is scheduled to arrive during the evening shift.
 </div>
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>〜：[issue]あり。[status]。</code></span>: Standard event entry<br>
-<span class="keigo-jp"><code>〜対応済み</code></span>: Issue handled; no further action needed<br>
-<span class="keigo-jp"><code>〜確認待ち</code></span>: Awaiting confirmation from named party<br>
-<span class="keigo-jp"><code>【VIP対応】</code></span>: Priority marker for VIP entries<br>
-<span class="keigo-jp"><code>経過確認要</code></span>: Follow-up recommended but not urgent
-</div>
-
 ---
 
 ## Quiz

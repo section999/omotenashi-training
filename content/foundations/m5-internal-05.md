@@ -10,14 +10,9 @@ Cross-department communication uses professional but functional language, not th
 
 ## The Cross-Department Communication Standard
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Identify yourself and your department first</span><br>
-The receiving department needs to know immediately who is calling and from where.<br><br>
-<span class="keigo-badge info">2. State the guest and room number before the request</span><br>
-The receiving department will need this to act. Give it before the detail, not after.<br><br>
-<span class="keigo-badge info">3. Confirm the request was received and will be handled</span><br>
-Never end a cross-department call without a clear acknowledgment from the other side.
-</div>
+- **1. Identify yourself and your department first:** The receiving department needs to know immediately who is calling and from where.
+- **2. State the guest and room number before the request:** The receiving department will need this to act. Give it before the detail, not after.
+- **3. Confirm the request was received and will be handled:** Never end a cross-department call without a clear acknowledgment from the other side.
 
 ## Front Desk to Housekeeping
 
@@ -69,19 +64,10 @@ Also, I am letting you know that the shower head in the bathroom is aging.
 <span class="keigo-jp"><code>ただいま手が離せない状況ですが、〇〇分後には対応できます。</code></span><br>
 We are currently occupied, but we can address it in approximately [X] minutes.<br><br>
 <span class="keigo-jp"><code>申し訳ありませんが、現在対応が難しい状況です。上の者に確認してご連絡いたします。</code></span><br>
-I am sorry, but we cannot handle that at this moment. I will check with my supervisor and get back to you.<br><br>
+I am sorry, but we cannot handle that at this moment. I will check with my supervisor and get back to you.
+</div>
+
 Upon hearing this, the requesting department should relay the updated timeline to the guest, not leave them waiting without explanation.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>〇〇部の〇〇です</code></span>: This is [Name] from [Department].<br><br>
-<span class="keigo-jp"><code>〇〇号室のお客様より〇〇のご要望がございます</code></span>: The guest in Room [X] has requested [Y].<br><br>
-<span class="keigo-jp"><code>早急にご対応いただけますでしょうか</code></span>: Could you address this as soon as possible?<br><br>
-<span class="keigo-jp"><code>承知しました。ただいま対応いたします</code></span>: Understood. We will take care of it right away.<br><br>
-<span class="keigo-jp"><code>お客様にはその旨お伝えいたします</code></span>: I will let the guest know.
-</div>
 
 ---
 

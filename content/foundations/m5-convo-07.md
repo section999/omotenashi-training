@@ -59,14 +59,16 @@ We do have the same type of room available on the same floor, with a similar vie
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>あいにく〜</code></span><br>
-Unfortunately... (soft, expresses genuine regret)<br><br>
+Unfortunately...<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが〜</code></span><br>
-I am truly sorry, but... (formal, softens a limitation)<br><br>
+I am truly sorry, but...<br><br>
 <span class="keigo-jp"><code>〜が難しい状況でございます</code></span><br>
-It is difficult to 〜 at this time (frames impossibility as circumstance, not policy)<br><br>
+It is difficult to 〜 at this time<br><br>
 <span class="keigo-jp"><code>〜でしたらご用意が可能でございます</code></span><br>
-We are able to offer 〜 (alternative), always follow a refusal with an offer
+We are able to offer 〜
 </div>
+
+あいにく〜 is soft and expresses genuine regret. 誠に恐れ入りますが〜 is more formal and softens a limitation. 〜が難しい状況でございます frames impossibility as circumstance rather than policy. Always follow a refusal with 〜でしたらご用意が可能でございます to offer an alternative.
 
 ## Situation 4: Request That Exceeds Hotel Capabilities
 
@@ -81,25 +83,15 @@ However, depending on the underlying need, there may be another way we could hel
 
 ## The Principle Behind Graceful Refusals
 
-<div class="keigo-card blue">
-Saying 「できません」 (We cannot do that) is factually identical to 「難しい状況でございます」 (It is difficult at this time), but they communicate entirely different things.<br><br>
-できません closes the conversation and positions the hotel as inflexible.<br>
-難しい状況でございます opens a space for alternatives and positions the hotel as genuinely trying.<br><br>
+Saying 「できません」 (We cannot do that) is factually identical to 「難しい状況でございます」 (It is difficult at this time), but they communicate entirely different things.
+
+
+できません closes the conversation and positions the hotel as inflexible.
+
+難しい状況でございます opens a space for alternatives and positions the hotel as genuinely trying.
+
+
 The guest's emotional response depends not just on what is said, but on how much care is communicated in the saying of it.
-</div>
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>あいにく〜は満室となっております</code></span><br>
-Unfortunately, 〜 is fully booked.<br><br>
-<span class="keigo-jp"><code>現在のところご確認ができない状況でございます</code></span><br>
-We are currently unable to locate 〜.<br><br>
-<span class="keigo-jp"><code>〜が難しい状況でございます</code></span><br>
-It is difficult to arrange 〜 at this time.<br><br>
-<span class="keigo-jp"><code>〜でしたらご案内が可能でございます</code></span><br>
-We are able to offer 〜 (alternative).
-</div>
 
 ---
 

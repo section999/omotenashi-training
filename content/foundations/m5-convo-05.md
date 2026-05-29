@@ -88,17 +88,6 @@ Thank you for waiting. Here is your bill.<br><br>
 Thank you very much for dining with us. We look forward to serving you again.
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>何名様でしょうか</code></span>: How many guests?<br><br>
-<span class="keigo-jp"><code>こちらへどうぞ</code></span>: Please follow me this way.<br><br>
-<span class="keigo-jp"><code>ご注文はお決まりでしょうか</code></span>: Have you decided on your order?<br><br>
-<span class="keigo-jp"><code>アレルギーや苦手なものはございますでしょうか</code></span>: Any allergies or dietary restrictions?<br><br>
-<span class="keigo-jp"><code>お待たせいたしました。〜でございます</code></span>: Thank you for waiting. Here is your 〜.<br><br>
-<span class="keigo-jp"><code>ごゆっくりお召し上がりくださいませ</code></span>: Please enjoy your meal at your leisure.
-</div>
-
 ---
 
 ## Quiz

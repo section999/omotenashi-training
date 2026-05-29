@@ -22,9 +22,9 @@ The communal onsen operates according to a set of customs that are not merely po
 
 ## After Bathing
 
-<div class="keigo-card blue">
-• Rinse briefly in the shower before returning to the changing room.<br>• Pat dry before leaving the wet area to avoid slipping and to keep the changing room floor dry.<br>• Do not use a hair dryer in the wet area.
-</div>
+• Rinse briefly in the shower before returning to the changing room.
+• Pat dry before leaving the wet area to avoid slipping and to keep the changing room floor dry.
+• Do not use a hair dryer in the wet area.
 
 
 ## Explaining the Rules to Guests

@@ -10,8 +10,6 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 
 丁寧語 is not simply "adding desu and masu." In hotel contexts, it means replacing everyday polite forms with refined forms that sound more formal, measured, and professional.
 
-<div class="keigo-card blue">
-
 | Everyday Polite | Hotel 丁寧語 | Use |
 |---|---|---|
 | です | でございます | All identification and information |
@@ -21,8 +19,6 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 | ありません | ございません | Negative existence |
 | いいですか | よろしいでしょうか | Seeking permission or confirmation |
 | ですね | でございますね | Polished confirmation |
-
-</div>
 
 ## でございます in Detail
 
@@ -114,23 +110,14 @@ A complete hotel exchange uses all three systems. Each sentence uses a different
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
-You are Mr./Ms. Yamada, correct? (いらっしゃる elevates the guest's existence)<br><br>
+You are Mr./Ms. Yamada, correct?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
-Here is your room key. (でございます creates professional tone)<br><br>
+Here is your room key.<br><br>
 <span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
-A staff member will guide you. (いたします humbly states the staff's action)
+A staff member will guide you.
 </div>
 
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございます</code></span>: It is / This is<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますね</code></span>: That is 〜, correct?<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜でございますか</code></span>: Is it 〜?<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜ございます</code></span>: There is / We have<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>よろしいでしょうか</code></span>: Is that alright?<br>
-<span class="keigo-badge info">丁寧語</span> <span class="keigo-jp"><code>〜しております</code></span>: I/We am/are doing 〜
-</div>
+In this exchange: いらっしゃいます elevates the guest's existence (尊敬語), でございます creates the professional tone (丁寧語), and いたします humbly states the staff's action (謙譲語).
 
 ---
 

@@ -50,8 +50,6 @@ Staff are on their way now. Are you able to stay on the line?
 
 These are the five most frequent mistakes in hotel telephone communication, along with the specific problem each creates:
 
-<div class="keigo-card blue">
-
 | Mistake | Example | Operational Consequence |
 |---|---|---|
 | Casual language | 分かりました、OKです | Reduces guest perception of hotel quality |
@@ -60,40 +58,26 @@ These are the five most frequent mistakes in hotel telephone communication, alon
 | Emotional reaction | Sighing, surprised responses | Escalates complaints, loses trust |
 | Skipping the closing | Ending abruptly | Interaction feels incomplete; negative final impression |
 
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
+I will confirm that, so please wait a moment.
 </div>
 
-<div class="keigo-card blue">
-When a staff member is checking the system, they can see what is happening. The guest cannot. To the guest, silence means one of two things: the call has failed, or the staff member is confused. Neither is acceptable. Always narrate the action before going quiet:<br><br>
-<span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
-Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of silence without it feels like abandonment.
-</div>
+When a staff member is checking the system, they can see what is happening. The guest cannot. To the guest, silence means one of two things: the call has failed, or the staff member is confused. Neither is acceptable. Always narrate the action before going quiet. Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of silence without it feels like abandonment.
 
 ## The Professional Telephone Mindset
 
-<div class="keigo-card blue">
-"In a telephone call, my voice is the hotel."<br><br>
-There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration, it is the operational reality.
-</div>
+"In a telephone call, my voice is the hotel."
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Clarity</span>: over speed. Speak clearly enough for the guest to follow without strain.<br><br>
-<span class="keigo-badge info">Structure</span>: over natural speech. Follow the 7-step framework; do not improvise.<br><br>
-<span class="keigo-badge info">Calm</span>: over enthusiasm. The goal is reassurance, not energy.<br><br>
-<span class="keigo-badge info">Consistency</span>: over variation. Every call should sound the same. Guests trust predictability.
-</div>
+
+There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration, it is the operational reality.
+
+- **Clarity:** over speed. Speak clearly enough for the guest to follow without strain.
+- **Structure:** over natural speech. Follow the 7-step framework; do not improvise.
+- **Calm:** over enthusiasm. The goal is reassurance, not energy.
+- **Consistency:** over variation. Every call should sound the same. Guests trust predictability.
 
 The goal of hotel telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable**, the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいますぐ対応いたします</code></span><br>
-We will respond immediately.<br><br>
-<span class="keigo-jp"><code>スタッフがただいまお伺いいたします</code></span><br>
-A staff member is on their way to you now.<br><br>
-<span class="keigo-jp"><code>お電話を切らずにいらっしゃいますか</code></span><br>
-Are you able to stay on the line?
-</div>
 
 ---
 

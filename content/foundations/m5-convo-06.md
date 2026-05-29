@@ -8,21 +8,17 @@ Face-to-face complaints are more complex than telephone complaints. When a guest
 
 ## Face-to-Face vs Telephone: Key Differences
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Body language matters</span> A slight bow communicates genuine apology more than words alone<br><br>
-<span class="keigo-badge info">Eye contact</span> Calm, steady eye contact communicates that you are listening, avoiding eye contact signals discomfort or dismissal<br><br>
-<span class="keigo-badge info">Physical distance</span> Step slightly toward the guest (not away) to signal engagement<br><br>
-<span class="keigo-badge info">Voice tone</span> Lower and slower than normal, never match the guest's raised tone
-</div>
+- **Body language matters:** A slight bow communicates genuine apology more than words alone
+- **Eye contact:** Calm, steady eye contact communicates that you are listening, avoiding eye contact signals discomfort or dismissal
+- **Physical distance:** Step slightly toward the guest (not away) to signal engagement
+- **Voice tone:** Lower and slower than normal, never match the guest's raised tone
 
 ## The 4-Step Resolution Framework
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">1. Listen fully</span>: Do not interrupt. Let the guest finish.<br>
-<span class="keigo-badge info">2. Apologize genuinely</span>: Before explaining anything.<br>
-<span class="keigo-badge info">3. Act immediately</span>: State the specific action and timeline.<br>
-<span class="keigo-badge info">4. Follow up</span>: Return to confirm the issue is resolved.
-</div>
+- **1. Listen fully:** Do not interrupt. Let the guest finish.
+- **2. Apologize genuinely:** Before explaining anything.
+- **3. Act immediately:** State the specific action and timeline.
+- **4. Follow up:** Return to confirm the issue is resolved.
 
 ## Room Quality Complaint
 
@@ -75,10 +71,11 @@ Some complaints require escalation, particularly if the issue involves compensat
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当のマネージャーをお呼びいたします。少々お待ちくださいませ。</code></span><br>
-I am sorry to ask you to wait, but I will call the manager now. Please give me just a moment.<br><br>
-<span class="keigo-badge info">Never say:</span> 「私には分かりません」, "I don't know" (without follow-up)<br>
-<span class="keigo-badge info">Never say:</span> 「マネージャーに聞いてください」, "Please ask the manager" (without personally facilitating)
+I am sorry to ask you to wait, but I will call the manager now. Please give me just a moment.
 </div>
+
+- **Never say:** 「私には分かりません」 "I don't know" (without follow-up)
+- **Never say:** 「マネージャーに聞いてください」 "Please ask the manager" (without personally facilitating)
 
 ## Follow-Up: The Most Forgotten Step
 
@@ -92,19 +89,6 @@ We sincerely apologize again for the inconvenience. We hope to continue serving 
 </div>
 
 Follow-up converts a complaint into an opportunity. Research consistently shows that guests whose complaints are resolved well have higher loyalty scores than guests who never complained at all.
-
-## Key Phrases
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご不快な思いをおかけし、誠に申し訳ございません</code></span><br>
-I sincerely apologize for causing you discomfort.<br><br>
-<span class="keigo-jp"><code>ただいますぐ対応いたします</code></span><br>
-I will take care of this immediately.<br><br>
-<span class="keigo-jp"><code>担当のマネージャーをお呼びいたします</code></span><br>
-I will call the manager for you.<br><br>
-<span class="keigo-jp"><code>ご確認いただけましたでしょうか</code></span><br>
-Were you able to confirm that everything has been resolved?
-</div>
 
 ---
 

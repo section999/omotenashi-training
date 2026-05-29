@@ -12,9 +12,9 @@ A *kashikiri* bath is a private onsen facility reserved exclusively for one gues
 
 Kashikiri is the right recommendation for:
 
-<div class="keigo-card blue">
-• Guests who are uncomfortable with communal bathing<br>• Couples<br>• Families with young children
-</div>
+• Guests who are uncomfortable with communal bathing
+• Couples
+• Families with young children
 
 
 Many guests are unaware that this option exists until a staff member mentions it. Proactively offering the information is part of good service.
