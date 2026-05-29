@@ -7,20 +7,21 @@ title: 会話 (kaiwa)
 
 When working with international guests, especially when neither party is speaking their first language, effective 会話 requires care and patience. Speaking slowly, avoiding idioms, and using confirming phrases like ご理解いただけましたでしょうか (was that clear?) at natural pause points is recommended. The goal is not grammatical perfection but rather making the guest feel understood and well looked after. A common error is to discover that calm, attentive 会話 with limited vocabulary leaves a better impression than nervous, fluent chatter that never listens
 
-英語でも会話できますので、お気軽にお声がけください。
-<small>*Eigo demo kaiwa dekimasu node, okigaru ni okoe gake kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>英語でも会話できますので、お気軽にお声がけください。</code></span><br>
+<em>Eigo demo kaiwa dekimasu node, okigaru ni okoe gake kudasai.</em><br>
 We are able to have a conversation in English as well, so please feel free to speak with us.
-
-
-ご不明な点がございましたら、フロントにてご会話いただけます。
-<small>*Go-fumei na ten ga gozaimashitara, furonto nite go-kaiwa itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、フロントにてご会話いただけます。</code></span><br>
+<em>Go-fumei na ten ga gozaimashitara, furonto nite go-kaiwa itadakemasu.</em><br>
 If you have any questions, we can have a conversation at the front desk.
-
-
-電話での会話は、ゆっくりはっきりとお話しするよう心がけております。
-<small>*Denwa de no kaiwa wa, yukkuri hakkiri to ohanashi suru you kokorogakete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>電話での会話は、ゆっくりはっきりとお話しするよう心がけております。</code></span><br>
+<em>Denwa de no kaiwa wa, yukkuri hakkiri to ohanashi suru you kokorogakete orimasu.</em><br>
 We make a point of speaking slowly and clearly during telephone conversations.
-
+</div>
 
 ## Related Expressions
 

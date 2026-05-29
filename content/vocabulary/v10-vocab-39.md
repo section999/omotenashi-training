@@ -7,20 +7,21 @@ title: 有効 (yuukou)
 
 confirming 有効 means checking three things: the 有効期限 (expiry date), whether any specific conditions on the document are met, and whether the item has already been used. Once validity is confirmed, staff should inform the guest what they are entitled to, such as 「こちらのバウチャーは有効でございます。お部屋代全額に適用されます」. This extra information removes any uncertainty about the scope of the benefit and prevents awkward questions later
 
-こちらのバウチャーは有効でございます。
-<small>*Kochira no bauchā wa yūkō de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのバウチャーは有効でございます。</code></span><br>
+<em>Kochira no bauchā wa yūkō de gozaimasu.</em><br>
 This voucher is valid.
-
-
-クーポンの有効期限を確認いたしましたところ、本日もご利用いただけます。
-<small>*Kūpon no yūkō kigen o kakunin itashimashita tokoro, honjitsu mo goriyō itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>クーポンの有効期限を確認いたしましたところ、本日もご利用いただけます。</code></span><br>
+<em>Kūpon no yūkō kigen o kakunin itashimashita tokoro, honjitsu mo goriyō itadakemasu.</em><br>
 I have checked the coupon's expiry date and it can be used today.
-
-
-ご予約は有効でございますので、そのままチェックインいただけます。
-<small>*Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご予約は有効でございますので、そのままチェックインいただけます。</code></span><br>
+<em>Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.</em><br>
 Your reservation is valid, so one may proceed directly to check-in.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 寒い (samui)
 
 Responses can range from adjusting the heating system, to offering extra blankets (毛布, moufu), to providing a hot-water bottle (湯たんぽ, yutanpo), which guests at traditional inns appreciate. Warm beverages are another welcome gesture. At premium properties, anticipating cold complaints before they arise, by pre-warming rooms in winter, for instance, is considered excellent service. That kind of proactive thinking comes from staff who understand what their guests will need before they have to ask
 
-お寒いとのことで、毛布をお持ちいたします。少々お待ちくださいませ。
-<small>*O-samui to no koto de, moufu wo o-mochi itashimasu. Shoushou omachi kudasaimase.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お寒いとのことで、毛布をお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>O-samui to no koto de, moufu wo o-mochi itashimasu. Shoushou omachi kudasaimase.</em><br>
 As one is feeling cold, we will bring you a blanket. Please wait just a moment.
-
-
-暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。
-<small>*Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。</code></span><br>
+<em>Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.</em><br>
 Shall we change the heating settings? Could you tell us your preferred temperature?
-
-
-寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。
-<small>*Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。</code></span><br>
+<em>Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.</em><br>
 If you feel cold, please do not hesitate to let us know and we will adjust the air conditioning temperature.
-
+</div>
 
 ## Related Expressions
 

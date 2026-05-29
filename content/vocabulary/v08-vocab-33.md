@@ -8,20 +8,21 @@ title: フロアマップ (furoamappu)
 
 Offering a フロアマップ proactively is a recognized expression of kikubari. An effective approach is to notice when someone is studying a hallway or pausing near a sign, and approach them first with こちらがフロアマップでございます. The map should always be handed with both hands, a small but meaningful gesture in Japanese hospitality. When presenting the map, staff should not just hand it and walk away. They should point to the guest's current location first, then show where the guest is heading, and mention landmarks in between. A map handed without that orientation loses most of its value
 
-こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。
-<small>*Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。</code></span><br>
+<em>Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.</em><br>
 Here is the floor map. Your current location is here, and the room is here.
-
-
-エレベーターの横にフロアマップがございますので、ご自由にお取りください。
-<small>*Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーターの横にフロアマップがございますので、ご自由にお取りください。</code></span><br>
+<em>Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.</em><br>
 There is a floor map by the elevator, so please feel free to take one.
-
-
-ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。
-<small>*Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。</code></span><br>
+<em>Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.</em><br>
 If you have any questions, please refer to the floor map or let us know at the front desk.
-
+</div>
 
 ## Related Expressions
 

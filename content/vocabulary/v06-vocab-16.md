@@ -8,20 +8,21 @@ title: パスワード (pasuwaado)
 
 Staff typically present パスワード on a printed card in the room, on the key envelope, or on a small slip handed over at check-in. When communicating it verbally, staff speak slowly and offer to write it down. Useful phrases include 「Wi-FiのパスワードはこちらにXXXXとございます」 and 「大文字・小文字にご注意ください」 (please pay attention to uppercase and lowercase letters). ryokan properties sometimes have the password brushed in calligraphy on a decorative card, which is a small but thoughtful aesthetic touch that guests remember
 
-Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。
-<small>*Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。</code></span><br>
+<em>Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.</em><br>
 Here is the Wi-Fi password. Please check it.
-
-
-パスワードは大文字と小文字を区別してご入力ください。
-<small>*Pasuwaado wa oumoji to komoji wo kubetsu shite go-nyuuryoku kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>パスワードは大文字と小文字を区別してご入力ください。</code></span><br>
+<em>Pasuwaado wa oumoji to komoji wo kubetsu shite go-nyuuryoku kudasai.</em><br>
 Please enter the password distinguishing between uppercase and lowercase letters.
-
-
-パスワードがご不明の場合は、いつでもフロントへお申しつけください。
-<small>*Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>パスワードがご不明の場合は、いつでもフロントへお申しつけください。</code></span><br>
+<em>Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.</em><br>
 If one is unsure of the password, please contact the front desk at any time.
-
+</div>
 
 ## Related Expressions
 

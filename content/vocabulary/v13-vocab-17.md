@@ -8,20 +8,21 @@ title: 報告 (houkoku)
 
 In a hotel context, 報告 shows up constantly: a front desk associate reporting a guest complaint to the duty manager, a housekeeper letting the floor supervisor know that a room is ready, a maintenance team submitting a written account of a repair. The phrasing matters here. 報告いたします (houkoku itashimasu) is the humble, formal way to announce a report to a superior. verbal reports are almost always followed by written documentation, especially for incidents that may require follow-up or have insurance implications.
 
-チェックアウト後のお客様からのご意見を、フロントマネージャーに報告いたしました。
-<small>*Chekku auto go no okyaku-sama kara no go-iken wo, furonto maneejaa ni houkoku itashimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>チェックアウト後のお客様からのご意見を、フロントマネージャーに報告いたしました。</code></span><br>
+<em>Chekku auto go no okyaku-sama kara no go-iken wo, furonto maneejaa ni houkoku itashimashita.</em><br>
 I reported the feedback received from the guest after checkout to the front manager.
-
-
-客室の設備に不具合が見つかりましたので、すぐにメンテナンス部門へ報告しました。
-<small>*Kyakushitsu no setsubi ni fuguai ga mitsukarimashita node, sugu ni mentenansu bumon e houkoku shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>客室の設備に不具合が見つかりましたので、すぐにメンテナンス部門へ報告しました。</code></span><br>
+<em>Kyakushitsu no setsubi ni fuguai ga mitsukarimashita node, sugu ni mentenansu bumon e houkoku shimashita.</em><br>
 A malfunction was found in the guest room equipment, so I immediately reported it to the maintenance department.
-
-
-業務の進捗を定期的に上司に報告することは、チームの信頼関係につながります。
-<small>*Gyoumu no shinchoku wo teikiteki ni joushi ni houkoku suru koto wa, chiimu no shinrai kankei ni tsunagarimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>業務の進捗を定期的に上司に報告することは、チームの信頼関係につながります。</code></span><br>
+<em>Gyoumu no shinchoku wo teikiteki ni joushi ni houkoku suru koto wa, chiimu no shinrai kankei ni tsunagarimasu.</em><br>
 Regularly reporting work progress to your supervisor builds trust within the team.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 空いている席 (aiteiru seki)
 
 When a guest asks about availability, staff should respond immediately and with action. Staff should either guide them directly to a seat using お席へご案内いたします, or offer a realistic wait time with an apology and a suggestion, perhaps the hotel lounge, or a specific estimate of when a table will open. Guests should never be left standing at the entrance without acknowledgment. If a table is turning over shortly, saying "a seat will be ready in about ten minutes" is more effective than a vague "please wait." Specific information shows respect for the guest's time
 
-ただいま空いている席へご案内いたします。
-<small>*Tadaima aiteiru seki e go-annai itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいま空いている席へご案内いたします。</code></span><br>
+<em>Tadaima aiteiru seki e go-annai itashimasu.</em><br>
 I will guide you to an available seat right away.
-
-
-窓際に空いている席がございます。いかがでしょうか。
-<small>*Madogiwa ni aiteiru seki ga gozaimasu. Ikaga deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>窓際に空いている席がございます。いかがでしょうか。</code></span><br>
+<em>Madogiwa ni aiteiru seki ga gozaimasu. Ikaga deshou ka.</em><br>
 There is an available seat by the window. Would that suit you?
-
-
-ただいまお席はすべて埋まっておりますが、15分ほどで空く予定でございます。
-<small>*Tadaima o-seki wa subete umatte orimasu ga, juugo-fun hodo de aku yotei de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいまお席はすべて埋まっておりますが、15分ほどで空く予定でございます。</code></span><br>
+<em>Tadaima o-seki wa subete umatte orimasu ga, juugo-fun hodo de aku yotei de gozaimasu.</em><br>
 All seats are currently occupied, but one should become available in about 15 minutes.
-
+</div>
 
 ## Related Expressions
 

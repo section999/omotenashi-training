@@ -8,20 +8,21 @@ title: 火災 (kasai)
 
 Regular fire drills (防災訓練, bousai kunren) make sure both staff and guests can respond correctly when a 火災 occurs. When communicating a fire situation, 火災 should be paired with specific location information and clear, simple directives. Clear, early communication during a fire emergency is important
 
-火災が発生したら、消火器を使うか避難してください。
-<small>*Kasai ga hassei shitara, shoukaki wo tsukau ka hinan shite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>火災が発生したら、消火器を使うか避難してください。</code></span><br>
+<em>Kasai ga hassei shitara, shoukaki wo tsukau ka hinan shite kudasai.</em><br>
 If a fire occurs, use the fire extinguisher or evacuate.
-
-
-ただいま火災警報が発令されました。お客様はただちに避難経路を通って館外へお進みください。
-<small>*Tadaima kasai keihou ga hatsurei saremashita. Okyakusama wa tadachi ni hinan keiro wo tootte kangai e osusumi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま火災警報が発令されました。お客様はただちに避難経路を通って館外へお進みください。</code></span><br>
+<em>Tadaima kasai keihou ga hatsurei saremashita. Okyakusama wa tadachi ni hinan keiro wo tootte kangai e osusumi kudasai.</em><br>
 A fire alarm has been issued. Guests, please proceed outside immediately via the evacuation routes.
-
-
-火災の原因は調理場の油を使った作業中の不注意でした。
-<small>*Kasai no gen'in wa chouriba no abura wo tsukatta sagyou chuu no fuchuui deshita.*</small>
+<br><br>
+<span class="keigo-jp"><code>火災の原因は調理場の油を使った作業中の不注意でした。</code></span><br>
+<em>Kasai no gen'in wa chouriba no abura wo tsukatta sagyou chuu no fuchuui deshita.</em><br>
 The cause of the fire was carelessness during oil cooking in the kitchen.
-
+</div>
 
 ## Related Expressions
 

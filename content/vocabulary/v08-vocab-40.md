@@ -8,20 +8,21 @@ title: 表示 (hyouji)
 
 Understanding 表示 as a concept is important because it shapes how staff teach guests to navigate independently. When someone says 表示に従ってください (please follow the signs), they are handing the guest a skill, not just answering a question. This matters most in large hotels, airports, or convention centers where the sheer number of guests makes walking everyone to their destination impractical. The quality of a property's 表示 reflects its service design at a fundamental level. Signs that are clearly worded, correctly placed, well-lit, and available in multiple languages improve the guest experience. When a sign is missing, damaged, or confusing, frontline staff who spot it and report it are contributing to service quality
 
-お手洗いは廊下の表示に従ってお進みください。
-<small>*O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お手洗いは廊下の表示に従ってお進みください。</code></span><br>
+<em>O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.</em><br>
 Please follow the signs along the corridor to the restroom.
-
-
-非常口は赤い表示で示されておりますので、ご確認ください。
-<small>*Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>非常口は赤い表示で示されておりますので、ご確認ください。</code></span><br>
+<em>Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.</em><br>
 The emergency exits are indicated by red signs, so please take note of them.
-
-
-エレベーターの表示が示す通り、レストランは3階にございます。
-<small>*Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーターの表示が示す通り、レストランは3階にございます。</code></span><br>
+<em>Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.</em><br>
 As indicated by the elevator display, the restaurant is on the third floor.
-
+</div>
 
 ## Related Expressions
 

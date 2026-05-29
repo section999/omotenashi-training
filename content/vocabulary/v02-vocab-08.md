@@ -7,20 +7,21 @@ title: 満室 (manshitsu)
 
 The standard professional approach involves three things: an apology first (大変申し訳ございませんが), a clear time frame (本日は, meaning "for today"), and where possible, an alternative such as a nearby partner hotel or a waitlist option. The full phrase 本日は満室でございます uses ございます for formality and 本日 to limit the scope to the current day, which subtly implies that the situation may change. Avoid using 本日 as a false comfort if the property is booked out for the week. Offering a referral or a future-date option is the better move, and it shows the guest that being turned away today does not mean they are not valued
 
-大変申し訳ございませんが、本日は満室でございます。
-<small>*Taihen mōshiwake gozaimasen ga, honjitsu wa manshitsu de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>大変申し訳ございませんが、本日は満室でございます。</code></span><br>
+<em>Taihen mōshiwake gozaimasen ga, honjitsu wa manshitsu de gozaimasu.</em><br>
 We sincerely apologise, but we are fully booked for today.
-
-
-本日は満室でございますが、明日以降でしたらご空室をご用意できます。
-<small>*Honjitsu wa manshitsu de gozaimasu ga, ashita ikō deshitara go-kūshitsu o go-yōi dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日は満室でございますが、明日以降でしたらご空室をご用意できます。</code></span><br>
+<em>Honjitsu wa manshitsu de gozaimasu ga, ashita ikō deshitara go-kūshitsu o go-yōi dekimasu.</em><br>
 We are fully booked today, but we can accommodate you from tomorrow onward.
-
-
-満室の際は、近隣のホテルをご案内することも可能でございます。
-<small>*Manshitsu no sai wa, kinrin no hoteru o go-annai suru koto mo kanō de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>満室の際は、近隣のホテルをご案内することも可能でございます。</code></span><br>
+<em>Manshitsu no sai wa, kinrin no hoteru o go-annai suru koto mo kanō de gozaimasu.</em><br>
 When we are fully booked, we can also direct you to nearby hotels.
-
+</div>
 
 ## Related Expressions
 

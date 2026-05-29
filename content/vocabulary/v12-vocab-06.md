@@ -8,20 +8,21 @@ title: 警報 (keihou)
 
 When a 警報 activates, their responsibilities follow a sequence: verifying the cause as quickly as safety permits, initiating the evacuation announcement, contacting emergency services, and keeping guests calm and moving in the right direction. Hotels regularly test alarm systems, so staff need to know the difference between a test signal and a live activation. When it is a 気象警報 for a typhoon or heavy snow rather than a fire, the response shifts toward operational adjustments: restricting outdoor activities, preparing contingency plans, and making sure stranded guests have what they need
 
-火災警報が鳴ったらすぐに避難してください。
-<small>*Kasai keihou ga nattara sugu ni hinan shite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>火災警報が鳴ったらすぐに避難してください。</code></span><br>
+<em>Kasai keihou ga nattara sugu ni hinan shite kudasai.</em><br>
 When the fire alarm sounds, evacuate immediately.
-
-
-ただいま警報が発令されました。お客様はスタッフの指示に従って行動してください。
-<small>*Tadaima keihou ga hatsurei saremashita. Okyakusama wa sutaffu no shiji ni shitagatte koudou shite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま警報が発令されました。お客様はスタッフの指示に従って行動してください。</code></span><br>
+<em>Tadaima keihou ga hatsurei saremashita. Okyakusama wa sutaffu no shiji ni shitagatte koudou shite kudasai.</em><br>
 An alarm has just been activated. Guests, please follow the instructions of the staff.
-
-
-本日、台風に伴う気象警報が発令されましたので、外出はお控えください。
-<small>*Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日、台風に伴う気象警報が発令されましたので、外出はお控えください。</code></span><br>
+<em>Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.</em><br>
 A weather warning has been issued today due to a typhoon, so please refrain from going outside.
-
+</div>
 
 ## Related Expressions
 

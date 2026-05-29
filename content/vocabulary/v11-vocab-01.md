@@ -7,20 +7,21 @@ title: 電話 (denwa)
 
 staff will encounter 電話 in instructions such as お電話でのご予約 (reservations by phone) and お電話ありがとうございます (thank one for calling), which is the standard opening greeting when answering. Dropping the honorific form お電話 when speaking to or about a guest's call can sound abrupt or careless in formal hotel environments. A common error is to overlook this at first. 電話 can function as both a noun (the phone) and part of a verb phrase (電話をかける, to make a call; 電話を受ける, to receive a call)
 
-お電話ありがとうございます。グランドホテル東京でございます。
-<small>*Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お電話ありがとうございます。グランドホテル東京でございます。</code></span><br>
+<em>Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.</em><br>
 Thank you for calling. This is Grand Hotel Tokyo.
-
-
-客室から内線電話をかけることができます。
-<small>*Kyakushitsu kara naisen denwa wo kakeru koto ga dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>客室から内線電話をかけることができます。</code></span><br>
+<em>Kyakushitsu kara naisen denwa wo kakeru koto ga dekimasu.</em><br>
 You can make calls from the in-room telephone.
-
-
-ご予約のお電話は、午前9時から午後8時の間にお願いいたします。
-<small>*Goyoyaku no odenwa wa, gozen kuji kara gogo hachiji no aida ni onegai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご予約のお電話は、午前9時から午後8時の間にお願いいたします。</code></span><br>
+<em>Goyoyaku no odenwa wa, gozen kuji kara gogo hachiji no aida ni onegai itashimasu.</em><br>
 For reservation calls, please contact us between 9:00 a.m. and 8:00 p.m.
-
+</div>
 
 ## Related Expressions
 

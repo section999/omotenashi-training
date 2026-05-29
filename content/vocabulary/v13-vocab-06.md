@@ -8,20 +8,21 @@ title: 勤務 (kinmu)
 
 Managers in hotels and ryokan use 勤務 when discussing attendance records, evaluating staff reliability, or spelling out expectations about conduct during working hours. Phrases like 勤務態度 (work attitude) and 勤務時間 (working hours) come up regularly in performance reviews. The expectation built into the word is that employees maintain professional behaviour, in appearance, speech, and attentiveness to guests, for the full duration of their 勤務. This represents a higher standard than mere presence, and the word itself signals that seriousness
 
-彼の勤務は毎日午前8時から始まります。
-<small>*Kare no kinmu wa mainichi gozen hachiji kara hajimarimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>彼の勤務は毎日午前8時から始まります。</code></span><br>
+<em>Kare no kinmu wa mainichi gozen hachiji kara hajimarimasu.</em><br>
 His duty starts every day at 8 AM.
-
-
-勤務中はスマートフォンの私的利用を禁止しています。
-<small>*Kinmu-chuu wa sumaatofon no shiteki riyou o kinshi shite imasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>勤務中はスマートフォンの私的利用を禁止しています。</code></span><br>
+<em>Kinmu-chuu wa sumaatofon no shiteki riyou o kinshi shite imasu.</em><br>
 Personal use of smartphones is prohibited during working hours.
-
-
-長年の勤務に感謝し、表彰状をお贈りします。
-<small>*Naganen no kinmu ni kansha shi, hyoushoujou o ookuri shimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>長年の勤務に感謝し、表彰状をお贈りします。</code></span><br>
+<em>Naganen no kinmu ni kansha shi, hyoushoujou o ookuri shimasu.</em><br>
 In appreciation of your many years of dedicated service, we present you with this certificate of commendation.
-
+</div>
 
 ## Related Expressions
 

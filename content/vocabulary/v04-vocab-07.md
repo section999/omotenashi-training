@@ -7,20 +7,21 @@ title: タオル交換 (taoru koukan)
 
 Daily cleaning includes タオル交換 as a matter, but guests may ask for extra changes at any point, and the appropriate response is to handle it promptly and without making them feel like the request is unusual. Many eco-conscious properties now ask guests to hang towels they wish to reuse, with replacement only triggered when towels are left on the floor. Whatever the hotel's policy, explain it warmly and without pressure. A guest who feels judged for asking tends not to ask again, and unspoken dissatisfaction is harder to manage than a straightforward towel request
 
-タオル交換はご希望のときにいつでも承ります。
-<small>*Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>タオル交換はご希望のときにいつでも承ります。</code></span><br>
+<em>Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.</em><br>
 We are happy to exchange your towels whenever you wish.
-
-
-バスタオルとフェイスタオルの交換をご用意いたしました。
-<small>*Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>バスタオルとフェイスタオルの交換をご用意いたしました。</code></span><br>
+<em>Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.</em><br>
 We have prepared replacements for both your bath towel and face towel.
-
-
-タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。
-<small>*Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。</code></span><br>
+<em>Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.</em><br>
 If you leave your towels on the floor, we will replace them with fresh ones during cleaning.
-
+</div>
 
 ## Related Expressions
 

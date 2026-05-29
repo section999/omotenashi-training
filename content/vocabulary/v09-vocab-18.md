@@ -7,20 +7,21 @@ title: 朝食付き (choushoku tsuki)
 
 Confirming inclusion is only the starting point. Good hotel communication means giving the guest the full picture: where breakfast is served, what time it runs, and what kind of food to expect. Saying 「朝食は7時から9時まで、2階レストランにてお召し上がりいただけます」 answers the three questions the guest was about to ask, all at once. At ryokan especially, breakfast sometimes requires a time slot to be agreed in advance, and mentioning this proactively saves back-and-forth the next morning.
 
-お客様のプランは朝食付きでございます。朝食は午前7時から9時まで、1階のレストランにてご用意しております。
-<small>*O-kyaku-sama no puran wa choushoku-tsuki de gozaimasu. Choushoku wa gozen shichi-ji kara ku-ji made, ikkai no resutoran nite go-youi shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様のプランは朝食付きでございます。朝食は午前7時から9時まで、1階のレストランにてご用意しております。</code></span><br>
+<em>O-kyaku-sama no puran wa choushoku-tsuki de gozaimasu. Choushoku wa gozen shichi-ji kara ku-ji made, ikkai no resutoran nite go-youi shite orimasu.</em><br>
 Your plan includes breakfast. Breakfast is served from 7:00 to 9:00 a.m. at the first-floor restaurant.
-
-
-朝食付きプランをご希望の場合、一名様あたり2,000円の追加となります。
-<small>*Choushoku-tsuki puran wo go-kibou no baai, ichimei-sama atari nisen-en no tsuika to narimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>朝食付きプランをご希望の場合、一名様あたり2,000円の追加となります。</code></span><br>
+<em>Choushoku-tsuki puran wo go-kibou no baai, ichimei-sama atari nisen-en no tsuika to narimasu.</em><br>
 If you would like to upgrade to the breakfast-included plan, it will be an additional 2,000 yen per person.
-
-
-朝食付きのお客様は、チェックインの際にお食事券をお渡しいたします。
-<small>*Choushoku-tsuki no o-kyaku-sama wa, chekku-in no sai ni o-shokuji-ken wo o-watashi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>朝食付きのお客様は、チェックインの際にお食事券をお渡しいたします。</code></span><br>
+<em>Choushoku-tsuki no o-kyaku-sama wa, chekku-in no sai ni o-shokuji-ken wo o-watashi itashimasu.</em><br>
 Guests on the breakfast-included plan will receive a meal voucher at check-in.
-
+</div>
 
 ## Related Expressions
 

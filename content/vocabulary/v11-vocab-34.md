@@ -7,20 +7,21 @@ title: 案内します (annai shimasu)
 
 On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide one to the lobby) and then walk the guest through the route step by step. Landmark-based directions work better on the phone than left and right instructions, because the guest has no visual reference. Giving them something to look for, such as 〜の隣 (next to) or 〜の前 (in front of), and checking in after each segment rather than delivering everything at once, is recommended: こちらはご理解いただけましたでしょうか (was this part clear to one?) gives the guest space to confirm before staff moves on
 
-ただいまお部屋までご案内いたします。こちらへどうぞ。
-<small>*Tadaima oheya made go-annai itashimasu. Kochira e douzo.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいまお部屋までご案内いたします。こちらへどうぞ。</code></span><br>
+<em>Tadaima oheya made go-annai itashimasu. Kochira e douzo.</em><br>
 I will guide you to the room now. This way, please.
-
-
-お電話でのご案内となりますが、レストランの場所をご説明いたします。
-<small>*Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お電話でのご案内となりますが、レストランの場所をご説明いたします。</code></span><br>
+<em>Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.</em><br>
 I will guide you by telephone, and explain the location of the restaurant.
-
-
-ロビーまでご案内いたしますので、少々お待ちくださいませ。
-<small>*Robii made go-annai itashimasu node, shoushou omachi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>ロビーまでご案内いたしますので、少々お待ちくださいませ。</code></span><br>
+<em>Robii made go-annai itashimasu node, shoushou omachi kudasaimase.</em><br>
 I will guide you to the lobby, so please wait just a moment.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 客室 (kyakushitsu)
 
 客室 is the word staff reach for whenever they need to refer to a room in a manner that honors the formality of the service relationship. It appears in phrases confirming bookings, explaining room features during check-in, and directing guests through the property. Mastery of 客室 and its collocations, such as 客室係 (room attendant) and 客室番号 (room number), is foundational for anyone working in Japanese hospitality
 
-本日お泊まりの客室は305号室でございます。
-<small>*Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>本日お泊まりの客室は305号室でございます。</code></span><br>
+<em>Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.</em><br>
 Your guest room for tonight is room 305.
-
-
-客室へご案内いたします。どうぞこちらへお進みください。
-<small>*Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>客室へご案内いたします。どうぞこちらへお進みください。</code></span><br>
+<em>Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.</em><br>
 I will guide you to the guest room. Please proceed this way.
-
-
-ご不明な点がございましたら、客室からフロントまでお電話ください。
-<small>*Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、客室からフロントまでお電話ください。</code></span><br>
+<em>Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.</em><br>
 If you have any questions, please call the front desk from the guest room.
-
+</div>
 
 ## Related Expressions
 

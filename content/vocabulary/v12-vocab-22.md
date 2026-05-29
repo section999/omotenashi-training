@@ -8,20 +8,21 @@ title: 使用禁止 (shiyou kinshi)
 
 When posting a 使用禁止 notice, staff should ensure it is visible at every access point to the restricted area and that the reason is communicated alongside it, whether on the sign itself or in person. Guests should not be left guessing. A short explanation like 安全確認のため (for safety verification) or 設備修理のため (for equipment repair) reassures guests that the restriction is purposeful and temporary. A common error is forgetting that when 使用禁止 affects a service the guest was expecting, such as a pool included in their booking, alternatives or compensation should be offered as appropriate. Monitoring compliance is also part of the job. If a guest ignores the sign, staff should intervene calmly, politely, and without making them feel embarrassed
 
-安全点検のため、このジムのトレッドミルは使用禁止となっております。
-<small>*Anzen tenken no tame, kono jimu no toreddoMiru wa shiyou kinshi to natte orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>安全点検のため、このジムのトレッドミルは使用禁止となっております。</code></span><br>
+<em>Anzen tenken no tame, kono jimu no toreddoMiru wa shiyou kinshi to natte orimasu.</em><br>
 This gym treadmill is prohibited from use due to a safety inspection.
-
-
-使用禁止の表示がある機器はご利用になれませんので、ご了承ください。
-<small>*Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>使用禁止の表示がある機器はご利用になれませんので、ご了承ください。</code></span><br>
+<em>Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.</em><br>
 Please note that equipment displaying a'do not use' sign cannot be operated.
-
-
-プールの水質検査が完了次第、使用禁止を解除いたします。
-<small>*Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>プールの水質検査が完了次第、使用禁止を解除いたします。</code></span><br>
+<em>Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.</em><br>
 The pool's'do not use' restriction will be lifted as soon as the water quality inspection is complete.
-
+</div>
 
 ## Related Expressions
 

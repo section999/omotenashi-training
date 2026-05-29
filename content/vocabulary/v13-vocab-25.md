@@ -8,20 +8,21 @@ title: 確認作業 (kakunin sagyou)
 
 A common observation is that Japanese hotels seem to catch errors before they become visible to guests, and 確認作業 is the reason. Banquet staff verify setup diagrams before a function. Kitchen teams confirm every dish against the order ticket. Concierge staff double-check tour bookings the morning a guest departs. The goal is zero defects: catch the mistake internally, fix it quietly, and the guest never knows it happened. Checklists (チェックリスト) are the main tool for keeping 確認作業 organised, and they become valuable during busy periods when it is easy to lose track of what has been completed
 
-客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。
-<small>*Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。</code></span><br>
+<em>Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.</em><br>
 Once the guest room is ready, please always carry out the verification check before escorting the guest.
-
-
-提出書類の確認作業を徹底することで、ミスを未然に防ぐことができます。
-<small>*Teishutsu shorui no kakunin sagyou wo tettei suru koto de, misu wo mizen ni fusegu koto ga dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>提出書類の確認作業を徹底することで、ミスを未然に防ぐことができます。</code></span><br>
+<em>Teishutsu shorui no kakunin sagyou wo tettei suru koto de, misu wo mizen ni fusegu koto ga dekimasu.</em><br>
 By thoroughly carrying out document verification, mistakes can be prevented before they occur.
-
-
-バンケット開始1時間前に会場の確認作業を完了させる予定です。
-<small>*Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>バンケット開始1時間前に会場の確認作業を完了させる予定です。</code></span><br>
+<em>Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.</em><br>
 We plan to complete the venue verification check one hour before the banquet begins.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 理解しました (rikai shimashita)
 
 理解しました is most naturally used after a guest has explained a complex situation, a special request, a complaint, a detailed instruction, and the staff member wants to confirm full comprehension before proceeding. However, in the most formal hospitality registers, かしこまりました (literally "I humbly receive their instruction") is the gold standard response, especially in luxury hotels. Training staff to use the right acknowledgment phrase in the right context, かしこまりました for formal instructions, 理解しました for confirmation of complex information, and わかりました for routine communication, is a key aspect of telephone etiquette education
 
-ご要望の内容を理解しました。直ちに手配いたします。
-<small>*Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご要望の内容を理解しました。直ちに手配いたします。</code></span><br>
+<em>Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.</em><br>
 I have understood the content of your request. I will arrange it immediately.
-
-
-ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。
-<small>*Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。</code></span><br>
+<em>Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.</em><br>
 I have understood the details you explained. I will confirm and call you back.
-
-
-状況を理解しましたので、担当部署と調整いたします。
-<small>*Joukyou wo rikai shimashita node, tantou busho to chousei itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>状況を理解しましたので、担当部署と調整いたします。</code></span><br>
+<em>Joukyou wo rikai shimashita node, tantou busho to chousei itashimasu.</em><br>
 I have understood the situation, and I will coordinate with the relevant department.
-
+</div>
 
 ## Related Expressions
 

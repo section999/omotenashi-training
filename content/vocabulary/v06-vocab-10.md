@@ -7,20 +7,21 @@ title: 暑い (atsui)
 
 The response to a 暑い complaint depends on the cause. The air conditioning may need adjustment, a window may be stuck, or the heating may have been set incorrectly. Staff who are not in the room themselves should ask a clarifying question or offer to send a maintenance contact rather than giving advice from a distance. In ryokan settings where air conditioning is limited by design, alternatives such as portable fans, ice water, or cooled towels are standard comfort measures that show thoughtful preparation
 
-「お部屋が暑い」とのことで、ただいま空調を確認いたします。
-<small>*"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>「お部屋が暑い」とのことで、ただいま空調を確認いたします。</code></span><br>
+<em>"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.</em><br>
 We understand that the room is warm: we will check the air conditioning right away.
-
-
-空調の温度調整が必要でございましたら、スタッフまでお申し付けください。
-<small>*Kuuchou no ondo chousei ga hitsuyou de gozaimashitara, sutaffu made o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>空調の温度調整が必要でございましたら、スタッフまでお申し付けください。</code></span><br>
+<em>Kuuchou no ondo chousei ga hitsuyou de gozaimashitara, sutaffu made o-moushitsuke kudasai.</em><br>
 If you need the air conditioning temperature adjusted, please let a member of staff know.
-
-
-暑くてお休みになれないとのこと、大変失礼いたしました。すぐに係の者をお送りします。
-<small>*Atsukute o-yasumi ni narenai to no koto, taihen shitsurei itashimashita. Sugu ni kakari no mono wo o-okuri shimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>暑くてお休みになれないとのこと、大変失礼いたしました。すぐに係の者をお送りします。</code></span><br>
+<em>Atsukute o-yasumi ni narenai to no koto, taihen shitsurei itashimashita. Sugu ni kakari no mono wo o-okuri shimasu.</em><br>
 We sincerely apologise that the heat has prevented you from resting. We will send someone to the room right away.
-
+</div>
 
 ## Related Expressions
 

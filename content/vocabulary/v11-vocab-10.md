@@ -8,20 +8,21 @@ title: 折り返し (orikaeshi)
 
 The most common mistake with 折り返し is leaving out the timeframe. Saying 折り返しご連絡いたします without specifying when gives the guest no reliable expectation. Adding 1時間以内に (within one hour) or 本日中に (by end of today) turns a vague promise into a concrete one. The timeframe is what the guest will hold staff to. That is why tracking pending 折り返し calls is a standard part of any front desk shift handover; a missed callback is a notable failure in hotel communication, because the guest was told explicitly to expect one
 
-担当者より1時間以内に折り返しご連絡いたします。
-<small>*Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>担当者より1時間以内に折り返しご連絡いたします。</code></span><br>
+<em>Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.</em><br>
 The person in charge will call you back within one hour.
-
-
-折り返しのお電話のため、お電話番号をお伺いできますか。
-<small>*Orikaeshi no odenwa no tame, odenwa bangō wo oukagai dekimasu ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>折り返しのお電話のため、お電話番号をお伺いできますか。</code></span><br>
+<em>Orikaeshi no odenwa no tame, odenwa bangō wo oukagai dekimasu ka.</em><br>
 May I have your phone number so we can call you back?
-
-
-折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。
-<small>*Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.*</small>
+<br><br>
+<span class="keigo-jp"><code>折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。</code></span><br>
+<em>Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.</em><br>
 We sincerely apologize for the delay in returning your call.
-
+</div>
 
 ## Related Expressions
 

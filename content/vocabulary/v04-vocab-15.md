@@ -7,20 +7,21 @@ title: モップ (moppu)
 
 In daily operations, staff refer to モップ when discussing floor-cleaning schedules, selecting tools from the supply room, or dealing with spills in corridors or guest rooms. A useful phrase is モップで床を清掃いたします (we will clean the floor with a mop), which uses the humble form appropriate for informing guests or supervisors. Note: staff should also know when to use モップ versus a 雑巾 (cloth) or 掃除機 (vacuum). Each tool fits a specific type of surface and soiling, and reaching for the wrong one costs time
 
-ただいまモップで廊下を清掃いたしております。
-<small>*Tadaima moppu de rouka wo seisou itashite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいまモップで廊下を清掃いたしております。</code></span><br>
+<em>Tadaima moppu de rouka wo seisou itashite orimasu.</em><br>
 We are currently cleaning the corridor with a mop.
-
-
-飲み物がこぼれましたので、モップで床を拭かせていただきます。
-<small>*Nomimono ga koboremashita node, moppu de yuka wo fukasete itadakimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>飲み物がこぼれましたので、モップで床を拭かせていただきます。</code></span><br>
+<em>Nomimono ga koboremashita node, moppu de yuka wo fukasete itadakimasu.</em><br>
 A drink has been spilled, so we will mop the floor.
-
-
-清掃用具入れにモップとバケツがございます。
-<small>*Seisou yougu ire ni moppu to baketsu ga gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>清掃用具入れにモップとバケツがございます。</code></span><br>
+<em>Seisou yougu ire ni moppu to baketsu ga gozaimasu.</em><br>
 There are a mop and bucket in the cleaning supply room.
-
+</div>
 
 ## Related Expressions
 

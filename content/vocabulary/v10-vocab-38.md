@@ -7,20 +7,21 @@ title: 無効 (mukou)
 
 staff should treat any potential 無効 situation as a verification issue first rather than a conclusion. Saying 確認させていただきます (let me verify) before stating 無効 gives the staff member time to check whether the issue is invalid or a technical error, a card that appears 無効 may have a chip reading problem that resolves with a swipe or re-entry. Only once all options are exhausted should 無効 be communicated, and even then, it should be followed immediately by an offer of assistance
 
-恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。
-<small>*Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。</code></span><br>
+<em>Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.</em><br>
 I apologize, but this coupon is invalid as the expiry date has passed.
-
-
-ただいま確認いたしますので、少々お待ちください。
-<small>*Tadaima kakunin itashimasu node, shōshō omachi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま確認いたしますので、少々お待ちください。</code></span><br>
+<em>Tadaima kakunin itashimasu node, shōshō omachi kudasai.</em><br>
 Allow me to verify this for you: please wait just a moment.
-
-
-カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。
-<small>*Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。</code></span><br>
+<em>Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.</em><br>
 If the card is invalid, would you be able to use an alternative payment method?
-
+</div>
 
 ## Related Expressions
 

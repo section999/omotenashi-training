@@ -8,20 +8,21 @@ title: 消火器 (shoukaki)
 
 Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side. Not all extinguishers work on all fires. Staff should know the difference between powder-type (粉末, funmatsu), CO2-type, and foam-type extinguishers because using the wrong type on a grease fire can worsen the situation. After any use, the extinguisher must come out of service immediately, be replaced or recharged, and the incident reported to management
 
-火災の場合、消火器を使用して初期消火を行ってください。
-<small>*Kasai no baai, shoukaki wo shiyou shite shoki shouka wo okonatte kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>火災の場合、消火器を使用して初期消火を行ってください。</code></span><br>
+<em>Kasai no baai, shoukaki wo shiyou shite shoki shouka wo okonatte kudasai.</em><br>
 In case of a fire, use the fire extinguisher for initial firefighting.
-
-
-レストランの各フロアには消火器が設置されていますので、場所を確認しておいてください。
-<small>*Resutoran no kaku furoa ni wa shoukaki ga secchi sarete imasu node, basho wo kakunin shite oite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>レストランの各フロアには消火器が設置されていますので、場所を確認しておいてください。</code></span><br>
+<em>Resutoran no kaku furoa ni wa shoukaki ga secchi sarete imasu node, basho wo kakunin shite oite kudasai.</em><br>
 Fire extinguishers are installed on each floor of the restaurant, so please confirm their locations.
-
-
-消火器は月に一度、スタッフが点検しなければなりません。
-<small>*Shoukaki wa tsuki ni ichido, sutaffu ga tenken shinakereba narimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>消火器は月に一度、スタッフが点検しなければなりません。</code></span><br>
+<em>Shoukaki wa tsuki ni ichido, sutaffu ga tenken shinakereba narimasen.</em><br>
 Fire extinguishers must be inspected by staff once a month.
-
+</div>
 
 ## Related Expressions
 

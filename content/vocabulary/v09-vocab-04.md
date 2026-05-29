@@ -8,20 +8,21 @@ title: 到着日 (touchaku bi)
 
 Operationally, 到着日 comes up when guests request early check-in, when transportation logistics need to be arranged, or when a reservation change shifts the starting point of a booking. Staff typically confirm the 到着日 alongside the expected arrival time, asking 「何時頃のご到着をご予定でしょうか」, so that housekeeping can have the room ready at the right moment rather than sometime during the day. Guests who provide flight numbers or train arrival times make this coordination smoother for everyone involved
 
-到着日のご予定をお知らせいただけますでしょうか。
-<small>*Touchaku bi no go-yotei o oshirase itadakemasu deshou ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>到着日のご予定をお知らせいただけますでしょうか。</code></span><br>
+<em>Touchaku bi no go-yotei o oshirase itadakemasu deshou ka.</em><br>
 Could you please let us know your planned arrival date?
-
-
-到着日の午後3時以降にチェックインが可能でございます。
-<small>*Touchaku bi no gogo san-ji ikou ni chekku-in ga kanou de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>到着日の午後3時以降にチェックインが可能でございます。</code></span><br>
+<em>Touchaku bi no gogo san-ji ikou ni chekku-in ga kanou de gozaimasu.</em><br>
 Check-in is available from 3:00 PM on your arrival date.
-
-
-到着日を早める場合は、事前にご連絡をいただけますと幸いです。
-<small>*Touchaku bi o hayameru baai wa, jizen ni go-renraku o itadakemasu to saiwai desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>到着日を早める場合は、事前にご連絡をいただけますと幸いです。</code></span><br>
+<em>Touchaku bi o hayameru baai wa, jizen ni go-renraku o itadakemasu to saiwai desu.</em><br>
 If you plan to arrive earlier than scheduled, we would appreciate advance notice.
-
+</div>
 
 ## Related Expressions
 

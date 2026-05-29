@@ -8,20 +8,21 @@ title: 通話中 (tsuuwachuu)
 
 The professional standard is to pair the status with an action. ただいま通話中でございます alone is incomplete. Adding 折り返しご連絡いたしましょうか (shall we call one back?) or しばらくお待ちいただけますか (would one be able to wait a moment?) gives the caller a clear path forward. This two-part structure, status plus option, is a fundamental pattern in Japanese hotel telephone etiquette, and it applies to 通話中 just as it does to 不在 and 保留
 
-ただいま通話中です。少々お待ちいただけますか。
-<small>*Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいま通話中です。少々お待ちいただけますか。</code></span><br>
+<em>Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.</em><br>
 The line is currently busy. Could you wait a moment?
-
-
-担当者はただいま通話中でございますので、折り返しご連絡いたします。
-<small>*Tantousha wa tadaima tsuuwachuu de gozaimasu node, orikaeshi go-renraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>担当者はただいま通話中でございますので、折り返しご連絡いたします。</code></span><br>
+<em>Tantousha wa tadaima tsuuwachuu de gozaimasu node, orikaeshi go-renraku itashimasu.</em><br>
 The person in charge is currently on a call, so we will call you back.
-
-
-通話中のため繋がりにくい場合は、しばらく経ってからおかけ直しください。
-<small>*Tsuuwachuu no tame tsunagarinikui baai wa, shibaraku tatte kara okake naoshi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>通話中のため繋がりにくい場合は、しばらく経ってからおかけ直しください。</code></span><br>
+<em>Tsuuwachuu no tame tsunagarinikui baai wa, shibaraku tatte kara okake naoshi kudasai.</em><br>
 If you have difficulty connecting because the line is busy, please try calling again after a short while.
-
+</div>
 
 ## Related Expressions
 

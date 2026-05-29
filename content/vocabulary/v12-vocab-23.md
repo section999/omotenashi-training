@@ -8,20 +8,21 @@ title: 注意 (chuui)
 
 Beyond signage, 注意 is part of everyday spoken service. The phrase 足元にご注意ください (please watch their step) comes up constantly when guiding guests through construction zones, down staircases, or over uneven ground. Similarly, お荷物にご注意ください is a natural reminder in busy lobbies. Because 注意 signals a moderate and precautionary level of risk, staff should not use it when the situation is dangerous. Those cases call for 危険 or 警告, and choosing the wrong word could cause guests to underestimate a real hazard
 
-清掃後で床が濡れておりますので、足元に十分ご注意ください。
-<small>*Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>清掃後で床が濡れておりますので、足元に十分ご注意ください。</code></span><br>
+<em>Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.</em><br>
 The floor is wet after cleaning, so please take extra care with your footing.
-
-
-温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。
-<small>*Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。</code></span><br>
+<em>Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.</em><br>
 The hot spring area has slippery floors, so please exercise great caution.
-
-
-回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。
-<small>*Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。</code></span><br>
+<em>Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.</em><br>
 When using the revolving door, we ask that you please watch young children carefully.
-
+</div>
 
 ## Related Expressions
 

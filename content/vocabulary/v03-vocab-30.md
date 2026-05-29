@@ -7,20 +7,21 @@ title: 交換 (koukan)
 
 交換 arises most often when guests request fresh towels, when the minibar is restocked, when yukata sizes need to be changed, or when bedding is replaced between guests. The standard response to a towel replacement request is: 「タオルを交換いたします。少々お待ちください」 (I will replace the towels. Please wait a moment). For scheduled bedding changes, staff may say: 「リネンの交換は毎日午前中に行っております」 (linen replacement is carried out every morning). If a guest declines service, the response should be gracious and non-insistent
 
-タオルを交換いたします。少々お待ちくださいませ。
-<small>*Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>タオルを交換いたします。少々お待ちくださいませ。</code></span><br>
+<em>Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.</em><br>
 I will replace the towels. Please wait a moment.
-
-
-リネンの交換は毎日午前中に行っております。
-<small>*Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>リネンの交換は毎日午前中に行っております。</code></span><br>
+<em>Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.</em><br>
 Linen replacement is carried out every morning.
-
-
-ご不便をおかけして大変申し訳ございません。すぐに交換いたします。
-<small>*Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不便をおかけして大変申し訳ございません。すぐに交換いたします。</code></span><br>
+<em>Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.</em><br>
 I sincerely apologize for the inconvenience. I will replace it right away.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 水 (mizu)
 
 Temperature awareness matters as much as timing. Some guests, particularly older Japanese guests, prefer room-temperature or warm water (常温のお水 or お白湯), while international guests often expect chilled water with ice. Asking about temperature preference before assuming shows the kind of anticipatory awareness that separates good service from memorable service. When refilling, staff should approach quietly and pour without cutting into the guest's conversation
 
-お水をお持ちいたします。少々お待ちください。
-<small>*O-mizu wo o-mochi itashimasu. Shoushou o-machi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お水をお持ちいたします。少々お待ちください。</code></span><br>
+<em>O-mizu wo o-mochi itashimasu. Shoushou o-machi kudasai.</em><br>
 I will bring you water. Please wait a moment.
-
-
-お水のおかわりはいかがでしょうか。
-<small>*O-mizu no okawari wa ikaga deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>お水のおかわりはいかがでしょうか。</code></span><br>
+<em>O-mizu no okawari wa ikaga deshou ka.</em><br>
 Would you like a refill of water?
-
-
-常温のお水とお冷やのお水、どちらをご希望でしょうか。
-<small>*Jouon no o-mizu to o-hiya no o-mizu, dochira wo go-kibou deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>常温のお水とお冷やのお水、どちらをご希望でしょうか。</code></span><br>
+<em>Jouon no o-mizu to o-hiya no o-mizu, dochira wo go-kibou deshou ka.</em><br>
 Would you prefer room-temperature water or chilled water?
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 両替 (ryougae)
 
 In hotels, ryokan, and airport facilities, 両替 services may include foreign currency exchange as well as providing change in smaller denominations for tipping at onsen or purchasing items from vending machines. Staff should count bills aloud in front of the guest to confirm the total, then present the exchanged money neatly, ideally placed in a small tray or envelope. If foreign currency exchange is not available on-site, staff should proactively direct guests to the nearest bank, post office, or authorized exchange bureau (両替所).
 
-円をドルに両替していただけますか？
-<small>*En o doru ni ryougae shite itadakemasu ka?*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>円をドルに両替していただけますか？</code></span><br>
+<em>En o doru ni ryougae shite itadakemasu ka?</em><br>
 Could you please exchange yen into dollars for me?
-
-
-恐れ入りますが、両替はフロントにてお取り扱いしております。
-<small>*Osoreirimasu ga, ryougae wa furonto nite otoriatsukai shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>恐れ入りますが、両替はフロントにてお取り扱いしております。</code></span><br>
+<em>Osoreirimasu ga, ryougae wa furonto nite otoriatsukai shite orimasu.</em><br>
 I apologize for the inconvenience, but currency exchange is handled at the front desk.
-
-
-一万円札を千円札に両替することは可能でしょうか？
-<small>*Ichiman-en satsu o sen-en satsu ni ryougae suru koto wa kanō deshō ka?*</small>
+<br><br>
+<span class="keigo-jp"><code>一万円札を千円札に両替することは可能でしょうか？</code></span><br>
+<em>Ichiman-en satsu o sen-en satsu ni ryougae suru koto wa kanō deshō ka?</em><br>
 Would it be possible to break this 10,000-yen note into 1,000-yen notes?
-
+</div>
 
 ## Related Expressions
 

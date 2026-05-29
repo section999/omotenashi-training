@@ -7,20 +7,21 @@ title: 宿泊 (shukuhaku)
 
 宿泊 comes up constantly when discussing the number of nights (宿泊数), the period of stay (宿泊期間), and a guest's overall accommodation arrangement. The polite prefix ご is always added when referring to a guest's stay. ご宿泊の期間はいつからいつまででしょうか is the standard phrase for confirming check-in and check-out dates. 宿泊 differs from 滞在 (taizai), which is a broader term for the time someone spends in a place and does not necessarily imply overnight accommodation. Using the correct word demonstrates professional precision
 
-ご宿泊の期間はいつからいつまででしょうか。
-<small>*Go-shukuhaku no kikan wa itsu kara itsu made deshō ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご宿泊の期間はいつからいつまででしょうか。</code></span><br>
+<em>Go-shukuhaku no kikan wa itsu kara itsu made deshō ka.</em><br>
 From when to when will you be staying with us?
-
-
-本日より2泊ご宿泊のご予定でよろしいでしょうか。
-<small>*Honjitsu yori futa-haku go-shukuhaku no go-yotei de yoroshii deshō ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日より2泊ご宿泊のご予定でよろしいでしょうか。</code></span><br>
+<em>Honjitsu yori futa-haku go-shukuhaku no go-yotei de yoroshii deshō ka.</em><br>
 Is a two-night stay beginning today correct?
-
-
-ご宿泊中、何かご不明な点がございましたら、いつでもフロントまでお申し付けください。
-<small>*Go-shukuhaku-chū, nanika go-fumei na ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご宿泊中、何かご不明な点がございましたら、いつでもフロントまでお申し付けください。</code></span><br>
+<em>Go-shukuhaku-chū, nanika go-fumei na ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.</em><br>
 During the stay, please do not hesitate to contact the front desk at any time with any questions.
-
+</div>
 
 ## Related Expressions
 

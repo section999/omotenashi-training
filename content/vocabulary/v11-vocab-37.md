@@ -8,20 +8,21 @@ title: わかりました (wakarimashita)
 
 An important skill with わかりました is not just saying it but what comes next. On its own, it can feel passive, almost like one heard the message but is not sure what to do with it. Pairing it with an action statement changes the dynamic: わかりました、すぐにお持ちいたします tells the guest one understood and one is already moving. This combination matters most on the phone, where the guest cannot see their body language or attentiveness. Following up with what one plans to do is recommended
 
-わかりました。ご希望のお時間に合わせてご準備いたします。
-<small>*Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>わかりました。ご希望のお時間に合わせてご準備いたします。</code></span><br>
+<em>Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.</em><br>
 Understood. We will prepare in line with your preferred time.
-
-
-わかりました、すぐに担当のスタッフにお伝えいたします。
-<small>*Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>わかりました、すぐに担当のスタッフにお伝えいたします。</code></span><br>
+<em>Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.</em><br>
 Understood: I will relay this to the responsible staff member right away.
-
-
-ご事情はよくわかりました。できる限り対応いたします。
-<small>*Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご事情はよくわかりました。できる限り対応いたします。</code></span><br>
+<em>Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.</em><br>
 I fully understand your circumstances. We will do our best to accommodate you.
-
+</div>
 
 ## Related Expressions
 

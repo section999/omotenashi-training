@@ -8,20 +8,21 @@ title: 出勤 (shukkin)
 
 From a management perspective, 出勤 records let supervisors spot patterns of lateness, calculate actual working hours for payroll, and verify compliance with Japanese labour law requirements around minimum rest periods. For employees, the key shift in mindset is thinking of 出勤 as a formal obligation rather than "showing up." reliability directly affects team trust and guest satisfaction
 
-毎朝9時に出勤します。
-<small>*Maiasa kuji ni shukkin shimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>毎朝9時に出勤します。</code></span><br>
+<em>Maiasa kuji ni shukkin shimasu.</em><br>
 I go to work at 9 AM every morning.
-
-
-本日は台風のため、出勤が難しい場合は上司に連絡してください。
-<small>*Honjitsu wa taifuu no tame, shukkin ga muzukashii baai wa joushi ni renraku shite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日は台風のため、出勤が難しい場合は上司に連絡してください。</code></span><br>
+<em>Honjitsu wa taifuu no tame, shukkin ga muzukashii baai wa joushi ni renraku shite kudasai.</em><br>
 If coming in to work is difficult today due to the typhoon, please contact your supervisor.
-
-
-出勤時にタイムカードを押すことを忘れないでください。
-<small>*Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>出勤時にタイムカードを押すことを忘れないでください。</code></span><br>
+<em>Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.</em><br>
 Please do not forget to clock in when one arrive for the shift.
-
+</div>
 
 ## Related Expressions
 

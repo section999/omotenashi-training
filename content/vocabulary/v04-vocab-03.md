@@ -7,20 +7,21 @@ title: 清掃済み (seisou zumi)
 
 Staff mark a room 清掃済み by updating the room management system, placing a completion card in the room, or calling through to the floor supervisor. When a guest asks whether their room is ready before standard check-in time, この部屋は清掃済みでございます delivers that confirmation at the right level of formality. The room should only be marked 清掃済み after both the amenity check and the final visual walkthrough are complete. Marking it early under pressure from a busy front desk leads directly to embarrassing situations
 
-お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。
-<small>*Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。</code></span><br>
+<em>Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.</em><br>
 We have confirmed that the room has been cleaned, so we can now proceed with check-in.
-
-
-この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。
-<small>*Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。</code></span><br>
+<em>Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.</em><br>
 This room has been cleaned. Please enjoy the stay at your leisure.
-
-
-清掃済みのお部屋リストを、フロントに提出いたします。
-<small>*Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>清掃済みのお部屋リストを、フロントに提出いたします。</code></span><br>
+<em>Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.</em><br>
 I will submit the list of cleaned rooms to the front desk.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: レジ (reji)
 
 In hotels and restaurants, staff typically say レジでお支払いをお願いいたします to direct guests to the payment point. In ryokan and high-end hotels, physically escorting the guest to the レジ rather than pointing is the expected standard. The レジ is also where 領収書 (receipts) and 利用明細 (itemized statements) are issued, which means composure and accuracy at this station are essential. Rushing the レジ interaction can come across as dismissive rather than attentive
 
-こちらのレジでお支払いいただけますか。
-<small>*Kochira no reji de oshiharai itadakemasu ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのレジでお支払いいただけますか。</code></span><br>
+<em>Kochira no reji de oshiharai itadakemasu ka.</em><br>
 Would you be able to pay at this register?
-
-
-レジにてお釣りをお渡しいたします。
-<small>*Reji nite otsuri o owatashi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>レジにてお釣りをお渡しいたします。</code></span><br>
+<em>Reji nite otsuri o owatashi itashimasu.</em><br>
 We will give you your change at the register.
-
-
-レジ担当のスタッフにお声がけください。
-<small>*Reji tantou no sutaffu ni okoe gake kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>レジ担当のスタッフにお声がけください。</code></span><br>
+<em>Reji tantou no sutaffu ni okoe gake kudasai.</em><br>
 Please speak to the staff member at the register.
-
+</div>
 
 ## Related Expressions
 

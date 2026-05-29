@@ -7,20 +7,21 @@ title: 通訳 (tsuuyaku)
 
 When a guest needs 通訳 help, their first job is to clarify what kind they need: the language pair, the context, and whether a bilingual staff member can manage it or whether a certified professional is required. For a relaxed lobby conversation, a staff member with adequate language skills may be sufficient. For medical situations, legal matters, or complex business negotiations, a professional interpreter is the appropriate choice. Proactively offering this with 通訳が必要な場合はお申し付けください (please let us know if staff needs interpretation) is better than waiting for a guest to struggle visibly and then reacting
 
-ご会議の際に通訳が必要でしたら、手配いたします。
-<small>*Go-kaigi no sai ni tsuuyaku ga hitsuyou deshitara, tehai itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご会議の際に通訳が必要でしたら、手配いたします。</code></span><br>
+<em>Go-kaigi no sai ni tsuuyaku ga hitsuyou deshitara, tehai itashimasu.</em><br>
 If you require an interpreter for your meeting, we will arrange one.
-
-
-英語と日本語間の通訳は、スタッフがご対応いたします。
-<small>*Eigo to nihongo-kan no tsuuyaku wa, sutaffu ga go-taiou itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>英語と日本語間の通訳は、スタッフがご対応いたします。</code></span><br>
+<em>Eigo to nihongo-kan no tsuuyaku wa, sutaffu ga go-taiou itashimasu.</em><br>
 Our staff will handle interpretation between English and Japanese.
-
-
-通訳のご要望がございましたら、フロントまでお申し付けくださいませ。
-<small>*Tsuuyaku no go-youbou ga gozaimashitara, furonto made omoshitsuke kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>通訳のご要望がございましたら、フロントまでお申し付けくださいませ。</code></span><br>
+<em>Tsuuyaku no go-youbou ga gozaimashitara, furonto made omoshitsuke kudasaimase.</em><br>
 If you have a need for interpretation, please do not hesitate to contact the front desk.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 分 (fun/pun)
 
 The trickier part of 分 is its pronunciation changes, and this is where common errors occur in service situations. The numbers 1, 3, 6, 8, and 10 all trigger a shift from ふん (fun) to ぷん (pun): 1分 (いっぷん), 3分 (さんぷん), 6分 (ろっぷん), 8分 (はっぷん), 10分 (じゅっぷん). Native speakers make these shifts automatically without thinking about them, so if staff use ふん across the board, it immediately signals that staff is still learning. However, getting the numbers right is achievable with consistent practice, and prioritizing them early is worthwhile
 
-空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。
-<small>*Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。</code></span><br>
+<em>Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.</em><br>
 It is 30 minutes by car to the airport. We recommend departing at least 2 hours before your flight.
-
-
-ただいまお席の準備中でございます。約5分でご案内できます。
-<small>*Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいまお席の準備中でございます。約5分でご案内できます。</code></span><br>
+<em>Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.</em><br>
 We are currently preparing your table. We can seat you in approximately 5 minutes.
-
-
-エレベーターで3分、徒歩ですと約10分でお着きになれます。
-<small>*Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーターで3分、徒歩ですと約10分でお着きになれます。</code></span><br>
+<em>Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.</em><br>
 It is 3 minutes by elevator or approximately 10 minutes on foot.
-
+</div>
 
 ## Related Expressions
 

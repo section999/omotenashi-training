@@ -7,20 +7,21 @@ title: コンディショナー (kondishonaa)
 
 Staff should be ready to tell guests exactly where the コンディショナー is located, whether that is on a shower shelf, in a wall-mounted dispenser, or near the sink with other amenities. If a guest raises product concerns or ingredient questions, staff should respond helpfully and honestly rather than guessing. Staff should offer to retrieve the product information card or check for alternatives if the property's inventory allows. The distinction between コンディショナー (a rinse-out conditioner) and トリートメント (a deeper conditioning treatment offered at some luxury properties) does come up with guests, so knowing the difference helps staff answer confidently
 
-コンディショナーはシャンプーの隣にシャワー横の棚にございます。
-<small>*Kondishonaa wa shanpuu no tonari ni shawaa yoko no tana ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>コンディショナーはシャンプーの隣にシャワー横の棚にございます。</code></span><br>
+<em>Kondishonaa wa shanpuu no tonari ni shawaa yoko no tana ni gozaimasu.</em><br>
 The conditioner is on the shelf next to the shower, beside the shampoo.
-
-
-コンディショナーをお持ちいたします。少々お待ちくださいませ。
-<small>*Kondishonaa wo omochi itashimasu. Shoushou omachi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>コンディショナーをお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>Kondishonaa wo omochi itashimasu. Shoushou omachi kudasaimase.</em><br>
 I will bring you conditioner. Please wait just a moment.
-
-
-バスルームにはシャンプーとコンディショナーをご用意しております。
-<small>*Basurumu ni wa shanpuu to kondishonaa wo goyo'i shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>バスルームにはシャンプーとコンディショナーをご用意しております。</code></span><br>
+<em>Basurumu ni wa shanpuu to kondishonaa wo goyo'i shite orimasu.</em><br>
 Both shampoo and conditioner are provided in the bathroom.
-
+</div>
 
 ## Related Expressions
 

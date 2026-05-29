@@ -8,20 +8,21 @@ title: 残高 (zandaka)
 
 Keeping track of 残高 is a quiet but critical part of smooth hospitality operations. Proactively flagging a low balance before it hits zero -- especially in a ryokan or resort where everything is settled at checkout -- saves everyone from an awkward scramble at the end of a stay. A guest who is informed early has time to top up or arrange alternative payment without stress. How one communicates this matters as much as when staff do it: 残高 conversations should always be calm, private, and matter-of-fact
 
-現在のご残高は〇〇円でございます。
-<small>*Genzai no go-zandaka wa 〇〇-en de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>現在のご残高は〇〇円でございます。</code></span><br>
+<em>Genzai no go-zandaka wa 〇〇-en de gozaimasu.</em><br>
 Your current balance is 〇〇 yen.
-
-
-残高が不足している場合はお知らせいたします。
-<small>*Zandaka ga fusoku shite iru baai wa oshirase itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>残高が不足している場合はお知らせいたします。</code></span><br>
+<em>Zandaka ga fusoku shite iru baai wa oshirase itashimasu.</em><br>
 We will notify you if your balance is insufficient.
-
-
-プリペイドカードの残高をご確認いただけますか。
-<small>*Puripeido kaado no zandaka o go-kakunin itadakemasu ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>プリペイドカードの残高をご確認いただけますか。</code></span><br>
+<em>Puripeido kaado no zandaka o go-kakunin itadakemasu ka.</em><br>
 Could you please check the balance on your prepaid card?
-
+</div>
 
 ## Related Expressions
 

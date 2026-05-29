@@ -7,20 +7,21 @@ title: ルームキー (room key)
 
 Beyond the initial handover, ルームキー frequently comes up in other service scenarios: a guest locking themselves out (ルームキーをお部屋に忘れてしまいました), requesting a duplicate (予備のルームキーをいただけますか), or reporting a lost key (ルームキーを紛失してしまいました). Staff must handle each scenario calmly, verifying the guest's identity before issuing a replacement to ensure security. Upon check-out, the return of the ルームキー marks the formal conclusion of the guest's stay and should be acknowledged warmly
 
-こちらがルームキーでございます。どうぞ。
-<small>*Kochira ga rūmu kī de gozaimasu. Dōzo.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらがルームキーでございます。どうぞ。</code></span><br>
+<em>Kochira ga rūmu kī de gozaimasu. Dōzo.</em><br>
 Here is the room key. Please.
-
-
-ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。
-<small>*Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。</code></span><br>
+<em>Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.</em><br>
 If you have left the room key in the room, please let us know at the front desk.
-
-
-チェックアウトの際にルームキーのご返却をお願いいたします。
-<small>*Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>チェックアウトの際にルームキーのご返却をお願いいたします。</code></span><br>
+<em>Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.</em><br>
 We kindly ask that you return the room key at check-out.
-
+</div>
 
 ## Related Expressions
 

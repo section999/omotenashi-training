@@ -8,20 +8,21 @@ title: 鍵 (kagi)
 
 In a hospitality context, the key handover is a notable carefully choreographed moments in check-in. Present it with both hands, make brief eye contact, and pair the gesture with こちらがお部屋の鍵でございます。どうぞ。 If the key has any quirks, such as a ryokan-style mechanism that guests may not immediately recognize, fifteen seconds should be taken to show how it works before the guest is sent to the room. At check-out, the return is just as important: 鍵のご返却をお願いいたします should be delivered with equal courtesy, not like a transaction being closed
 
-こちらがお部屋の鍵でございます。どうぞ。
-<small>*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞ。</code></span><br>
+<em>Kochira ga o-heya no kagi de gozaimasu. Dōzo.</em><br>
 Here is the room key. Please.
-
-
-ご出発の際は、鍵のご返却をお願いいたします。
-<small>*Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご出発の際は、鍵のご返却をお願いいたします。</code></span><br>
+<em>Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.</em><br>
 We kindly ask that you return the key when one depart.
-
-
-鍵をお忘れの場合は、フロントまでお申し付けください。
-<small>*Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>鍵をお忘れの場合は、フロントまでお申し付けください。</code></span><br>
+<em>Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.</em><br>
 If you forget your key, please let us know at the front desk.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 一括払い (ikkatsu barai)
 
 For shorter stays or charges, 一括払い is usually appropriate. When a bill is particularly large, such as a multi-night banquet package, staff may introduce 分割払い as an option. The confirmation phrase ご一括でよろしいでしょうか is a standard check before running any card, and staff should use it consistently regardless of the bill amount.
 
-ご一括払いでよろしいでしょうか、それとも分割払いをご希望でしょうか。
-<small>*Go-ikkatsu barai de yoroshii deshou ka, soretomo bunkatsu barai wo go-kibou deshou ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご一括払いでよろしいでしょうか、それとも分割払いをご希望でしょうか。</code></span><br>
+<em>Go-ikkatsu barai de yoroshii deshou ka, soretomo bunkatsu barai wo go-kibou deshou ka.</em><br>
 Would you like to pay in full, or would you prefer installments?
-
-
-宿泊料金は一括払いにてお承りいたします。
-<small>*Shukuhaku ryoukin wa ikkatsu barai nite o-uketamawari itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>宿泊料金は一括払いにてお承りいたします。</code></span><br>
+<em>Shukuhaku ryoukin wa ikkatsu barai nite o-uketamawari itashimasu.</em><br>
 We will process the accommodation fee as a single lump-sum payment.
-
-
-クレジットカードでの一括払いの場合、手数料はかかりません。
-<small>*Kurejitto kaado de no ikkatsu barai no baai, tesuuryou wa kakarimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>クレジットカードでの一括払いの場合、手数料はかかりません。</code></span><br>
+<em>Kurejitto kaado de no ikkatsu barai no baai, tesuuryou wa kakarimasen.</em><br>
 There is no processing fee when paying by credit card in a single payment.
-
+</div>
 
 ## Related Expressions
 

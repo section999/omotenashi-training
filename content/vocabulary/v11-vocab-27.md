@@ -7,20 +7,21 @@ title: 転送 (tensou)
 
 The recommended standard is what practitioners call a warm transfer. Before connecting the guest, staff reach the receiving party first, briefly explains the guest's situation, and then brings them together. One signals this to the guest with 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect one). This takes an extra thirty seconds but changes the experience for the guest. A cold transfer, where staff forwards the call without any preparation, is discouraged in omotenashi settings
 
-担当部署に転送いたしますので、少々お待ちくださいませ。
-<small>*Tantou busho ni tensou itashimasu node, shoushou omachi kudasaimase.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>担当部署に転送いたしますので、少々お待ちくださいませ。</code></span><br>
+<em>Tantou busho ni tensou itashimasu node, shoushou omachi kudasaimase.</em><br>
 I will transfer you to the department in charge, so please wait a moment.
-
-
-レストランのご予約につきましては、レストラン直通に転送させていただきます。
-<small>*Resutoran no go-yoyaku ni tsukimashite wa, resutoran chokutsuu ni tensou sasete itadakimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>レストランのご予約につきましては、レストラン直通に転送させていただきます。</code></span><br>
+<em>Resutoran no go-yoyaku ni tsukimashite wa, resutoran chokutsuu ni tensou sasete itadakimasu.</em><br>
 For restaurant reservations, I will transfer you directly to the restaurant.
-
-
-転送いたします前に、担当者に内容をお伝えしておきます。
-<small>*Tensou itashimasu mae ni, tantousha ni naiyou wo otsurae shite okimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>転送いたします前に、担当者に内容をお伝えしておきます。</code></span><br>
+<em>Tensou itashimasu mae ni, tantousha ni naiyou wo otsurae shite okimasu.</em><br>
 Before I transfer you, I will inform the responsible staff member of the details.
-
+</div>
 
 ## Related Expressions
 

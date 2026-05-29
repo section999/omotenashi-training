@@ -8,20 +8,21 @@ title: 安全 (anzen)
 
 In daily operations, 安全 shows up in equipment inspections, food hygiene practices, slip-hazard awareness, fire drill participation, and clear emergency signage. A common error is to think safety is someone else's job; every staff member contributes by reporting hazards immediately, following established protocols, and proactively warning guests about risks like wet floors, slippery outdoor paths, or uneven tatami. Management's commitment to 安全 is visible through training programs, maintenance schedules, and a workplace culture where staff feel safe to raise concerns without blame
 
-安全を確保するため、全ての設備を点検しました。
-<small>*Anzen wo kakuho suru tame, subete no setsubi wo tenken shimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>安全を確保するため、全ての設備を点検しました。</code></span><br>
+<em>Anzen wo kakuho suru tame, subete no setsubi wo tenken shimashita.</em><br>
 We inspected all equipment to ensure safety.
-
-
-お客様の安全を最優先に考え、台風の接近中は屋外施設を閉鎖しました。
-<small>*Okyakusama no anzen wo saiyuusen ni kangae, taifuu no secchin chuu wa okugai shisetsu wo heisa shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様の安全を最優先に考え、台風の接近中は屋外施設を閉鎖しました。</code></span><br>
+<em>Okyakusama no anzen wo saiyuusen ni kangae, taifuu no secchin chuu wa okugai shisetsu wo heisa shimashita.</em><br>
 Prioritising guest safety, we closed the outdoor facilities while the typhoon approached.
-
-
-新入スタッフは初日に安全に関する研修を受けなければなりません。
-<small>*Shinnyuu sutaffu wa shonichi ni anzen ni kansuru kenshuu wo ukenakereba narimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>新入スタッフは初日に安全に関する研修を受けなければなりません。</code></span><br>
+<em>Shinnyuu sutaffu wa shonichi ni anzen ni kansuru kenshuu wo ukenakereba narimasen.</em><br>
 New staff must attend a safety training session on their first day.
-
+</div>
 
 ## Related Expressions
 

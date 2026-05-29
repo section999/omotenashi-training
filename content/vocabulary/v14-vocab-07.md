@@ -7,19 +7,21 @@ title: 通貨 (tsuuka)
 
 The most common scenario staff will face is a guest at a traditional ryokan who did not know it was cash-only. Some of the most beloved traditional properties in Japan still do not accept cards, and if guests are not told ahead of time, they will arrive unprepared. Proactively mentioning this during the reservation confirmation, or at the very least at check-in with a clear direction to the nearest ATM, prevents what could otherwise be an embarrassing and stressful situation. However, even for properties that do accept cards, knowing the current exchange rate range well enough to give a rough estimate in US dollars or euros is a small but appreciated skill
 
-日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。
-<small>*Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。</code></span><br>
+<em>Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.</em><br>
 Japan's currency is the yen, and cash payment is possible at most places.
-
-
-当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。
-<small>*Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。</code></span><br>
+<em>Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.</em><br>
 We do not accept foreign currency at this establishment, but there is an exchange office nearby.
-
-
-通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。
-<small>*Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。</code></span><br>
+<em>Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.</em><br>
 Currency exchange rates change daily, so please check for the latest information.
+</div>
 
 ## Related Expressions
 

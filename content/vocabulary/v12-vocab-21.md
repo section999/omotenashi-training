@@ -8,20 +8,21 @@ title: 点検中 (tenken chuu)
 
 When something is 点検中, posting a sign is only the first step. Staff should approach any guest who comes toward the restricted area, explain the situation verbally, give an estimated duration if possible, and offer alternatives. If the elevator is 点検中, staff should direct guests to the nearest staircase or an available lift and offer to carry luggage or accompany anyone who has difficulty with stairs. Guests who receive a clear, apologetic explanation and are pointed toward a workable alternative rarely complain about routine maintenance. It is the silence and the unexplained sign that causes frustration. After the inspection is complete, the area should be reopened promptly and the findings logged in the maintenance record
 
-大変申し訳ございませんが、ただいまプールは点検中でございます。
-<small>*Taihen moushiwake gozaimasenga, tadaima puuru wa tenken chuu de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>大変申し訳ございませんが、ただいまプールは点検中でございます。</code></span><br>
+<em>Taihen moushiwake gozaimasenga, tadaima puuru wa tenken chuu de gozaimasu.</em><br>
 We sincerely apologise, but the pool is currently under inspection.
-
-
-エレベーターが点検中のため、こちらの階段をご利用くださいますようお願いいたします。
-<small>*Erebeetaa ga tenken chuu no tame, kochira no kaidan wo goriyou kudasaimasuyou onegai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーターが点検中のため、こちらの階段をご利用くださいますようお願いいたします。</code></span><br>
+<em>Erebeetaa ga tenken chuu no tame, kochira no kaidan wo goriyou kudasaimasuyou onegai itashimasu.</em><br>
 As the elevator is under inspection, we ask that you please use these stairs.
-
-
-点検中のジムの機器は、本日午後3時より再度ご利用いただけます。
-<small>*Tenken chuu no jimu no kiki wa, honjitsu gogo sanji yori saido goriyou itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>点検中のジムの機器は、本日午後3時より再度ご利用いただけます。</code></span><br>
+<em>Tenken chuu no jimu no kiki wa, honjitsu gogo sanji yori saido goriyou itadakemasu.</em><br>
 The gym equipment currently under inspection will be available again from 3:00 pm today.
-
+</div>
 
 ## Related Expressions
 

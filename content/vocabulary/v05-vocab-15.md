@@ -8,20 +8,21 @@ title: 会計 (kaikei)
 
 Staff use 会計 when presenting the bill, directing guests to the cashier, or confirming payment methods. The phrase お会計はこちらで承ります is a standard tableside or cashier expression. Staff may also ask お支払い方法はいかがなさいますか after presenting お会計 to move naturally into payment confirmation. Alongside 会計, staff should also know 領収書 (receipt) and 分けて (split), as these come up regularly in billing situations and guests will expect staff to handle them without hesitation
 
-お会計はこちらで承ります。
-<small>*O-kaikei wa kochira de uketamawarimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お会計はこちらで承ります。</code></span><br>
+<em>O-kaikei wa kochira de uketamawarimasu.</em><br>
 We will take care of the bill here.
-
-
-お会計をお持ちいたします。少々お待ちくださいませ。
-<small>*O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>お会計をお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
 I will bring your bill. Please wait just a moment.
-
-
-お会計はカードでもお支払いいただけます。
-<small>*O-kaikei wa kaado demo o-shiharai itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お会計はカードでもお支払いいただけます。</code></span><br>
+<em>O-kaikei wa kaado demo o-shiharai itadakemasu.</em><br>
 You may also pay the bill by card.
-
+</div>
 
 ## Related Expressions
 

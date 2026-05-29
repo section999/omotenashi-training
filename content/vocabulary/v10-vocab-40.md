@@ -7,20 +7,21 @@ title: 確認番号 (kakunin bangou)
 
 Guests typically receive a 確認番号 at the time of booking via email, SMS, or the platform they used. At check-in, staff should ask for it early so the reservation can be pulled up instantly. However, not every guest will have it handy. Staff should offer to look them up by email address, phone number, or arrival date, and do so graciously. A guest should never be made to feel they have done something wrong by not memorizing their confirmation number
 
-恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。
-<small>*Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。</code></span><br>
+<em>Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.</em><br>
 I apologize for the trouble: could you please provide your reservation confirmation number?
-
-
-確認番号はご予約確認メールに記載されております。
-<small>*Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>確認番号はご予約確認メールに記載されております。</code></span><br>
+<em>Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.</em><br>
 Your confirmation number is included in your reservation confirmation email.
-
-
-確認番号〇〇番のご予約を確認いたしました。
-<small>*Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>確認番号〇〇番のご予約を確認いたしました。</code></span><br>
+<em>Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.</em><br>
 I have confirmed the reservation under confirmation number [number].
-
+</div>
 
 ## Related Expressions
 

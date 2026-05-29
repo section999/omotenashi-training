@@ -7,20 +7,21 @@ title: 従業員 (juugyouin)
 
 In day-to-day operations, 従業員 is the word managers use when writing rosters, drafting internal memos, or conducting performance reviews. Staff rarely use it to describe themselves in conversation, however. Humble role titles feel more natural in those situations. Guests might hear it when a manager addresses the team collectively, and new hires will encounter it constantly during onboarding
 
-ホテルの従業員は毎日チェックイン業務を行います。
-<small>*Hoteru no juugyouin wa mainichi chekku-in gyoumu o okonaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ホテルの従業員は毎日チェックイン業務を行います。</code></span><br>
+<em>Hoteru no juugyouin wa mainichi chekku-in gyoumu o okonaimasu.</em><br>
 Hotel employees handle check-in duties every day.
-
-
-新しい従業員は来週から研修を受けます。
-<small>*Atarashii juugyouin wa raishuu kara kenshuu o ukemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>新しい従業員は来週から研修を受けます。</code></span><br>
+<em>Atarashii juugyouin wa raishuu kara kenshuu o ukemasu.</em><br>
 The new employees will attend training starting next week.
-
-
-全ての従業員はお客様への対応マニュアルを熟読してください。
-<small>*Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>全ての従業員はお客様への対応マニュアルを熟読してください。</code></span><br>
+<em>Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.</em><br>
 All employees, please read the guest service manual thoroughly.
-
+</div>
 
 ## Related Expressions
 

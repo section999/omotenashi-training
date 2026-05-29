@@ -8,20 +8,21 @@ title: 同僚 (douryou)
 
 Because so much hospitality work is shift-based and fast-moving, trust among 同僚 matters enormously. Staff rely on each other for accurate handovers, shared knowledge of guest preferences, and support during heavy service periods. Socialising outside work, through team meals or post-shift gatherings, is part of the culture and tends to build the kind of rapport that translates into better coordination when it counts
 
-同僚と一緒に会議の準備をしました。
-<small>*Douryou to issho ni kaigi no junbi o shimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>同僚と一緒に会議の準備をしました。</code></span><br>
+<em>Douryou to issho ni kaigi no junbi o shimashita.</em><br>
 I prepared for the meeting with my colleague.
-
-
-同僚が急に体調を崩したので、シフトを代わりました。
-<small>*Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>同僚が急に体調を崩したので、シフトを代わりました。</code></span><br>
+<em>Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.</em><br>
 I covered my colleague's shift because they suddenly fell ill.
-
-
-フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。
-<small>*Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。</code></span><br>
+<em>Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.</em><br>
 By sharing information with my front-desk colleague, we achieved a smooth check-in.
-
+</div>
 
 ## Related Expressions
 

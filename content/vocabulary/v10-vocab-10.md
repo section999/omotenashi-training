@@ -8,20 +8,21 @@ title: 領収書発行 (ryoushuusho hakkou)
 
 The process starts with confirming the 宛名 before printing anything. For individual guests, the default is 上様 (general addressee) unless they specify otherwise. Corporate guests almost always need their company name on the document. Some guests need the charges itemized; others need only the consolidated total. Asking this question before printing prevents having to reissue the document afterward.
 
-領収書の発行はご入用でしょうか。
-<small>*Ryoushuusho no hakkou wa go-iriyo deshou ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>領収書の発行はご入用でしょうか。</code></span><br>
+<em>Ryoushuusho no hakkou wa go-iriyo deshou ka.</em><br>
 Would you like a receipt issued?
-
-
-宛名はいかがいたしましょうか。会社名でよろしいでしょうか。
-<small>*Atena wa ikaga itashimashoo ka. Kaisha mei de yoroshii deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>宛名はいかがいたしましょうか。会社名でよろしいでしょうか。</code></span><br>
+<em>Atena wa ikaga itashimashoo ka. Kaisha mei de yoroshii deshou ka.</em><br>
 What name shall I put on the receipt? Would your company name be correct?
-
-
-ただいま領収書を発行いたします。少々お待ちください。
-<small>*Tadaima ryoushuusho wo hakkou itashimasu. Shoushou o-machi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま領収書を発行いたします。少々お待ちください。</code></span><br>
+<em>Tadaima ryoushuusho wo hakkou itashimasu. Shoushou o-machi kudasai.</em><br>
 I will issue your receipt right away. Please wait just a moment.
-
+</div>
 
 ## Related Expressions
 

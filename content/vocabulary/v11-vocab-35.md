@@ -7,20 +7,21 @@ title: 説明します (setsumei shimasu)
 
 Effective 説明 follows a structure: telling the guest what one is about to explain, working through it in logical steps, and closing with a summary phrase like 以上が〇〇のご説明でございます (that concludes the explanation of 〇〇). That closing matters because it signals to the guest that staff is done and invites questions. On the telephone this structure is more important since guests cannot see their gestures or read their facial expression to know when staff has finished. Slowing down, pausing between key points, and ending with the summary close is recommended
 
-お部屋の設備についてご説明いたします。
-<small>*Oheya no setsubi ni tsuite go-setsumei itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋の設備についてご説明いたします。</code></span><br>
+<em>Oheya no setsubi ni tsuite go-setsumei itashimasu.</em><br>
 I will explain the facilities in the room.
-
-
-チェックアウトの手順をご説明いたしますので、よろしければお聞きください。
-<small>*Chekkuauto no tejun wo go-setsumei itashimasu node, yoroshikereba okiki kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>チェックアウトの手順をご説明いたしますので、よろしければお聞きください。</code></span><br>
+<em>Chekkuauto no tejun wo go-setsumei itashimasu node, yoroshikereba okiki kudasai.</em><br>
 I will explain the check-out procedure: please listen at your convenience.
-
-
-以上がご朝食会場へのご説明でございます。ご不明な点はございますでしょうか。
-<small>*Ijou ga go-choushoku kaijou e no go-setsumei de gozaimasu. Go-fumei na ten wa gozaimasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>以上がご朝食会場へのご説明でございます。ご不明な点はございますでしょうか。</code></span><br>
+<em>Ijou ga go-choushoku kaijou e no go-setsumei de gozaimasu. Go-fumei na ten wa gozaimasu deshou ka.</em><br>
 That concludes the explanation of the breakfast venue. Do you have any questions?
-
+</div>
 
 ## Related Expressions
 

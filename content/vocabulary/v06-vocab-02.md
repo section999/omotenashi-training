@@ -7,20 +7,21 @@ title: トラブル (toraburu)
 
 When a guest reports a トラブル, the first professional step is always to listen fully before speaking. Staff resist the impulse to jump to solutions immediately. They ask a clarifying question or use the phrase トラブルについてお伺いいたします (I will ask about the issue) to show that the guest's account is being taken seriously. After gathering details, they communicate clearly what happens next, whether that is calling maintenance, offering a room change, or bringing in a supervisor, so the guest knows what to expect
 
-ただいまのトラブルについて、担当者がすぐにご対応いたします。
-<small>*Tadaima no toraburu ni tsuite, tantousha ga sugu ni go-taiou itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ただいまのトラブルについて、担当者がすぐにご対応いたします。</code></span><br>
+<em>Tadaima no toraburu ni tsuite, tantousha ga sugu ni go-taiou itashimasu.</em><br>
 The person in charge will attend to the current trouble right away.
-
-
-トラブルのご不便をおかけいたしまして、誠に申し訳ございません。
-<small>*Toraburu no go-fuben wo okake itashimashite, makoto ni moushiwake gozaimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>トラブルのご不便をおかけいたしまして、誠に申し訳ございません。</code></span><br>
+<em>Toraburu no go-fuben wo okake itashimashite, makoto ni moushiwake gozaimasen.</em><br>
 We sincerely apologise for the inconvenience caused by this issue.
-
-
-館内でトラブルが発生した場合は、遠慮なくフロントへお声がけください。
-<small>*Kannai de toraburu ga hassei shita baai wa, enryo naku furonto e okoe-gake kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>館内でトラブルが発生した場合は、遠慮なくフロントへお声がけください。</code></span><br>
+<em>Kannai de toraburu ga hassei shita baai wa, enryo naku furonto e okoe-gake kudasai.</em><br>
 If any trouble arises in the facility, please do not hesitate to speak to the front desk.
-
+</div>
 
 ## Related Expressions
 

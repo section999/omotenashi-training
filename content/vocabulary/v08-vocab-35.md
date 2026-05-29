@@ -8,20 +8,21 @@ title: エスカレーター (esukareetaa)
 
 Direction-giving for エスカレーター needs to include which direction it is traveling, not just where it is. In a multi-floor hotel or shopping center, up escalators (上り, nobori) and down escalators (下り, kudari) are usually in different locations. 上りのエスカレーターはこちらでございます and 下りのエスカレーターはあちらにございます are the phrasing patterns to practice. Staff should add 足元にお気をつけください (please watch their step) and, for elderly guests or families with children, 手すりにお掴まりください (please hold the handrail). These additions demonstrate consideration for the guest
 
-上りのエスカレーターは正面にございます。足元にお気をつけください。
-<small>*Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>上りのエスカレーターは正面にございます。足元にお気をつけください。</code></span><br>
+<em>Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.</em><br>
 The up escalator is straight ahead. Please watch your step.
-
-
-大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。
-<small>*Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。</code></span><br>
+<em>Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.</em><br>
 As you have large luggage, we recommend using the elevator rather than the escalator.
-
-
-ショッピングフロアへは、こちらのエスカレーターで3階までお上がりください。
-<small>*Shoppingu furoa e wa, kochira no esukareetaa de san-kai made o-agari kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ショッピングフロアへは、こちらのエスカレーターで3階までお上がりください。</code></span><br>
+<em>Shoppingu furoa e wa, kochira no esukareetaa de san-kai made o-agari kudasai.</em><br>
 To reach the shopping floor, please take this escalator up to the third floor.
-
+</div>
 
 ## Related Expressions
 

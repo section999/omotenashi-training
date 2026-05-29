@@ -7,20 +7,21 @@ title: バイキング (baikingu)
 
 When explaining バイキング to guests, staff should cover the key details: whether it is all-one-can-eat, any time restrictions, the variety of dishes available, and any rules around plate handling or food hygiene. For international guests unfamiliar with Japanese buffet etiquette, a brief and friendly explanation prevents misunderstandings. In a hospitality context, staff should also watch for guests who may need assistance. Elderly guests, families with small children, or guests with mobility challenges may need extra support navigating the buffet layout
 
-朝食はバイキング形式でお好きなものをお取りいただけます。
-<small>*Choushoku wa baikingu keishiki de o-suki na mono wo o-tori itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>朝食はバイキング形式でお好きなものをお取りいただけます。</code></span><br>
+<em>Choushoku wa baikingu keishiki de o-suki na mono wo o-tori itadakemasu.</em><br>
 Breakfast is buffet-style; please help yourself to whatever you like.
-
-
-バイキングのご利用時間は9時までとなっております。
-<small>*Baikingu no go-riyou jikan wa ku-ji made to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>バイキングのご利用時間は9時までとなっております。</code></span><br>
+<em>Baikingu no go-riyou jikan wa ku-ji made to natte orimasu.</em><br>
 The buffet is available until 9:00 a.m.
-
-
-本日のバイキングには和食と洋食、両方のメニューをご用意しております。
-<small>*Honjitsu no baikingu ni wa washoku to youshoku, ryouhou no menyuu wo go-youi shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日のバイキングには和食と洋食、両方のメニューをご用意しております。</code></span><br>
+<em>Honjitsu no baikingu ni wa washoku to youshoku, ryouhou no menyuu wo go-youi shite orimasu.</em><br>
 Today's buffet features both Japanese and Western menu options.
-
+</div>
 
 ## Related Expressions
 

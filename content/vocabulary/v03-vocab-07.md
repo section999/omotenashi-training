@@ -8,20 +8,21 @@ title: 禁煙 (kin'en)
 
 Beyond the guest experience, 禁煙 has legal and safety implications. Smoking in a designated non-smoking room can trigger alarms, incur cleaning fees, and in some cases result in penalties for the guest. Staff need to be confident using 禁煙 both as a question, ご希望は禁煙でございますか (is their preference non-smoking?), and as a confirmation, 禁煙室をご用意しております (we have a non-smoking room prepared for you). Equally important is learning 喫煙 (kitsuen, smoking) with the same care, because a mix-up between the two leads to the wrong outcome
 
-ご予約は禁煙室でよろしいでしょうか？
-<small>*Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約は禁煙室でよろしいでしょうか？</code></span><br>
+<em>Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?</em><br>
 Is your reservation for a non-smoking room?
-
-
-当ホテルの上層階はすべて禁煙フロアとなっております。
-<small>*Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当ホテルの上層階はすべて禁煙フロアとなっております。</code></span><br>
+<em>Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.</em><br>
 All upper floors of our hotel are non-smoking.
-
-
-禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。
-<small>*Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。</code></span><br>
+<em>Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.</em><br>
 We ask guests to refrain from smoking in non-smoking rooms. If you have any concerns, please contact the front desk.
-
+</div>
 
 ## Related Expressions
 

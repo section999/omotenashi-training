@@ -8,20 +8,21 @@ title: 手数料 (tesuuryou)
 
 When a 手数料 applies, the appropriate approach is to name it, explain what it covers, and offer an alternative if staff exists. For example: 銀行振込には〇〇円の手数料がかかります。クレジットカードでのお支払いには手数料はかかりません gives the guest information and a choice. This kind of disclosure builds trust. In formal settings, 手数料が発生いたします is the preferred phrasing over 手数料がかかります
 
-銀行振込には別途手数料が発生いたします。
-<small>*Ginkou furikomi ni wa betto tesuuryou ga hassei itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>銀行振込には別途手数料が発生いたします。</code></span><br>
+<em>Ginkou furikomi ni wa betto tesuuryou ga hassei itashimasu.</em><br>
 A separate handling fee will apply for bank transfers.
-
-
-手数料を含めた合計金額はこちらになります。
-<small>*Tesuuryou o fukumeta goukei kingaku wa kochira ni narimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>手数料を含めた合計金額はこちらになります。</code></span><br>
+<em>Tesuuryou o fukumeta goukei kingaku wa kochira ni narimasu.</em><br>
 The total amount including the handling fee is as follows.
-
-
-手数料についてご不明な点がございましたらお申し付けください。
-<small>*Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>手数料についてご不明な点がございましたらお申し付けください。</code></span><br>
+<em>Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.</em><br>
 Please let us know if one has any questions about the handling fee.
-
+</div>
 
 ## Related Expressions
 

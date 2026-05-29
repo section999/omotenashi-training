@@ -8,20 +8,21 @@ title: 手順 (tejun)
 
 手順 are introduced during onboarding and reinforced throughout ongoing 指導 (shidou, guidance). Supervisors observe staff as they work through tasks and step in when steps are skipped or done out of sequence. In safety-critical areas -- kitchen operations, food hygiene, maintenance -- following 手順 precisely is not just about service quality; it is about preventing accidents. New employees are expected to master the established 手順 before they start developing their own efficiencies within those boundaries. The phrase 手順を踏む (tejun wo fumu, to follow the procedure step by step) captures the cultural value placed on doing things in the right order, not just getting things done
 
-清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。
-<small>*Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。</code></span><br>
+<em>Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.</em><br>
 By following the cleaning procedure, we can maintain consistent guest room quality.
-
-
-緊急時の対応手順については、全スタッフが熟知しておく必要があります。
-<small>*Kinkyuuji no taiou tejun ni tsuite wa, zen sutaffu ga jukuchi shite oku hitsuyou ga arimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>緊急時の対応手順については、全スタッフが熟知しておく必要があります。</code></span><br>
+<em>Kinkyuuji no taiou tejun ni tsuite wa, zen sutaffu ga jukuchi shite oku hitsuyou ga arimasu.</em><br>
 All staff must be thoroughly familiar with the emergency response procedure.
-
-
-新しい予約システムの操作手順を、マニュアルにまとめてご案内いたします。
-<small>*Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>新しい予約システムの操作手順を、マニュアルにまとめてご案内いたします。</code></span><br>
+<em>Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.</em><br>
 I will compile the operating procedure for the new reservation system into a manual and provide guidance.
-
+</div>
 
 ## Related Expressions
 

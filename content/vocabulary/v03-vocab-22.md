@@ -7,20 +7,21 @@ title: 金庫 (kinko)
 
 During room orientation, staff say 「お貴重品はお部屋の金庫にお入れください」 and walk through the PIN setup: 「数字4桁の暗証番号をご自身で設定していただけます」. It is equally important to mention that if a guest forgets their PIN, they should contact the front desk and the property will follow its protocol for unlocking it, this detail reassures guests and removes potential anxiety. Ryokan without in-room safes typically offer a valuables service at the front desk instead, so staff should know what their property provides and be ready to explain it
 
-お貴重品はお部屋の金庫にお入れください。
-<small>*O-kichouhin wa oheya no kinko ni o-ire kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お貴重品はお部屋の金庫にお入れください。</code></span><br>
+<em>O-kichouhin wa oheya no kinko ni o-ire kudasai.</em><br>
 Please store your valuables in the room safe.
-
-
-金庫は暗証番号をご自身で設定してお使いいただけます。
-<small>*Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>金庫は暗証番号をご自身で設定してお使いいただけます。</code></span><br>
+<em>Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.</em><br>
 You may set your own PIN to use the safe.
-
-
-万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。
-<small>*Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。</code></span><br>
+<em>Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.</em><br>
 Should you forget your PIN, please do not hesitate to contact the front desk.
-
+</div>
 
 ## Related Expressions
 

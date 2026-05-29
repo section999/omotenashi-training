@@ -7,20 +7,21 @@ title: 内線 (naisen)
 
 When giving a guest an 内線番号, the standard phrasing is 内線〇〇番でございます. Staff should also confirm how to access the internal line from the guest's room handset, because the procedure varies by property. Typically guests dial the extension number directly without pressing 0 first, but they should not be assumed to know this. Confusing 内線 with 外線 (the external line) can lead to unexpected charges on a guest's account or connect them to the wrong destination, so precision is needed when explaining which line to use
 
-内線101におかけください。ルームサービスにつながります。
-<small>*Naisen hyakuichi ni okake kudasai. Rūmu sābisu ni tsunagarimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>内線101におかけください。ルームサービスにつながります。</code></span><br>
+<em>Naisen hyakuichi ni okake kudasai. Rūmu sābisu ni tsunagarimasu.</em><br>
 Please dial extension 101. It will connect you to room service.
-
-
-フロントへのお電話は内線0番でございます。
-<small>*Furonto e no odenwa wa naisen zero-ban de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>フロントへのお電話は内線0番でございます。</code></span><br>
+<em>Furonto e no odenwa wa naisen zero-ban de gozaimasu.</em><br>
 To reach the front desk, please dial extension 0.
-
-
-ただいま内線にてハウスキーピングに確認いたします。
-<small>*Tadaima naisen nite hausukīpingu ni kakunin itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま内線にてハウスキーピングに確認いたします。</code></span><br>
+<em>Tadaima naisen nite hausukīpingu ni kakunin itashimasu.</em><br>
 I will check with housekeeping via the internal line right now.
-
+</div>
 
 ## Related Expressions
 

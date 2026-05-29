@@ -8,20 +8,21 @@ title: 緊急出口 (kinkyuu deguchi)
 
 For hotel staff, being fluent in both is a professional baseline. When one is pointing at a 非常口 sign during a room orientation, saying 非常口はこちらです is appropriate because one is referring to what is written on the sign. In a free-flowing conversation where a guest asks about fire safety, 緊急出口 often sounds more natural in speech. The underlying message is always the same: guests need to know where this door is before they need it, and it is the staff's responsibility to ensure they do. When both terms appear on the same property's signage, staff should use whichever word matches the sign closest to where they are standing.
 
-緊急出口は各フロアのエレベーター横と廊下の突き当たりにございます。
-<small>*Kinkyuu deguchi wa kaku-furoa no erebeetaa yoko to rouka no tsukiatari ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>緊急出口は各フロアのエレベーター横と廊下の突き当たりにございます。</code></span><br>
+<em>Kinkyuu deguchi wa kaku-furoa no erebeetaa yoko to rouka no tsukiatari ni gozaimasu.</em><br>
 Emergency exits are located next to the elevators on each floor and at the end of the corridors.
-
-
-緊急の際は緊急出口からすみやかにご避難いただき、建物の外の集合場所にお集まりください。
-<small>*Kinkyuu no sai wa kinkyuu deguchi kara sumiyaka ni go-hinan itadaki, tatemono no soto no shuugou basho ni o-atsumari kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>緊急の際は緊急出口からすみやかにご避難いただき、建物の外の集合場所にお集まりください。</code></span><br>
+<em>Kinkyuu no sai wa kinkyuu deguchi kara sumiyaka ni go-hinan itadaki, tatemono no soto no shuugou basho ni o-atsumari kudasai.</em><br>
 In an emergency, please evacuate promptly through the emergency exits and gather at the assembly point outside the building.
-
-
-こちらの安全カードに、各階の緊急出口と避難経路が図で示されております。
-<small>*Kochira no anzen kaado ni, kaku-kai no kinkyuu deguchi to hinan keiro ga zu de shimesarete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>こちらの安全カードに、各階の緊急出口と避難経路が図で示されております。</code></span><br>
+<em>Kochira no anzen kaado ni, kaku-kai no kinkyuu deguchi to hinan keiro ga zu de shimesarete orimasu.</em><br>
 This safety card shows the emergency exits and evacuation routes for each floor in diagram form.
-
+</div>
 
 ## Related Expressions
 

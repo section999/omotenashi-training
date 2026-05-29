@@ -7,20 +7,21 @@ title: 約 (yaku)
 
 約 appears throughout hospitality communication wherever estimates are necessary: 駅まで徒歩約10分です (approximately 10 minutes on foot to the station), お部屋の準備に約30分いただけますでしょうか (may we have approximately 30 minutes to prepare their room), or ご夕食は約2時間のコースでございます (dinner is approximately a 2-hour course). Staff should give an accurate estimate, use 約 to acknowledge natural variation, and then follow up if the actual time differs from the estimate
 
-駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。
-<small>*Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。</code></span><br>
+<em>Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.</em><br>
 It is approximately a 10-minute walk to the station. There are several traffic lights, so please allow extra time.
-
-
-お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。
-<small>*Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。</code></span><br>
+<em>Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.</em><br>
 May we have approximately 30 minutes to prepare the room? We would appreciate it if one could wait in the lobby.
-
-
-夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。
-<small>*Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。</code></span><br>
+<em>Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.</em><br>
 The dinner course is approximately 2 hours. Please make a reservation according to your schedule.
-
+</div>
 
 ## Related Expressions
 

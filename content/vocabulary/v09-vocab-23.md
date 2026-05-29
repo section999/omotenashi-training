@@ -8,20 +8,21 @@ title: 変更可能 (henkou kanou)
 
 The conditions vary depending on the plan. An advance-purchase 早割 rate might allow a room-type change but lock the dates completely, while a flexible plan allows both. A common error is to struggle to keep these distinctions clear in the moment, especially under pressure at the front desk. The key habit to build: the moment 変更可能 is stated, the window and scope should be defined immediately
 
-ご予約の日程は、3日前まで変更可能でございます。
-<small>*Go-yoyaku no nittei wa, mikkamae made henkou kanou de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約の日程は、3日前まで変更可能でございます。</code></span><br>
+<em>Go-yoyaku no nittei wa, mikkamae made henkou kanou de gozaimasu.</em><br>
 The dates of your reservation can be changed up to 3 days in advance.
-
-
-お部屋タイプは変更可能ですが、空き状況によっては対応できない場合もございます。
-<small>*O-heya taipu wa henkou kanou desu ga, aki joukyou ni yotte wa taiou dekinai baai mo gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お部屋タイプは変更可能ですが、空き状況によっては対応できない場合もございます。</code></span><br>
+<em>O-heya taipu wa henkou kanou desu ga, aki joukyou ni yotte wa taiou dekinai baai mo gozaimasu.</em><br>
 The room type can be changed, though this may not always be possible depending on availability.
-
-
-このプランはお食事内容が変更可能ですので、アレルギーなどお気軽にご相談ください。
-<small>*Kono puran wa o-shokuji naiyou ga henkou kanou desu node, arerugii nado o-ki-garu ni go-soudan kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>このプランはお食事内容が変更可能ですので、アレルギーなどお気軽にご相談ください。</code></span><br>
+<em>Kono puran wa o-shokuji naiyou ga henkou kanou desu node, arerugii nado o-ki-garu ni go-soudan kudasai.</em><br>
 The meal contents of this plan can be adjusted, so please feel free to consult us about any allergies.
-
+</div>
 
 ## Related Expressions
 

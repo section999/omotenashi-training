@@ -7,20 +7,21 @@ title: ロッカー (rokkaa)
 
 In hotels, ロッカー are commonly found in gym changing rooms, spa areas, and sometimes lobby zones for day-use guests. Guests frequently ask hotel staff about nearby ロッカー options, especially near popular tourist sites. A solid hospitality professional knows the local setup: which stations have them, what sizes are available (small, medium, and large), how payment works (most now take IC cards like Suica as well as coins), and what to do if a unit malfunctions. Being able to guide a guest confidently to the right storage option, whether that is the hotel's own 保管 service or a coin ロッカー at the nearby station, is exactly the kind of practical help that makes a real difference.
 
-ロッカーはロビー横のコインロッカーコーナーにございます。
-<small>*Rokkaa wa robii yoko no koin-rokkaa koona ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ロッカーはロビー横のコインロッカーコーナーにございます。</code></span><br>
+<em>Rokkaa wa robii yoko no koin-rokkaa koona ni gozaimasu.</em><br>
 The lockers are located in the coin-locker area beside the lobby.
-
-
-駅構内のロッカーは大・中・小のサイズがございます。
-<small>*Eki kounai no rokkaa wa dai, chuu, shou no saizu ga gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>駅構内のロッカーは大・中・小のサイズがございます。</code></span><br>
+<em>Eki kounai no rokkaa wa dai, chuu, shou no saizu ga gozaimasu.</em><br>
 The lockers inside the station come in large, medium, and small sizes.
-
-
-ロッカーのご利用はSuicaまたは小銭でお支払いいただけます。
-<small>*Rokkaa no go-riyou wa Suika mata wa kozeni de o-shiharai itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ロッカーのご利用はSuicaまたは小銭でお支払いいただけます。</code></span><br>
+<em>Rokkaa no go-riyou wa Suika mata wa kozeni de o-shiharai itadakemasu.</em><br>
 Lockers can be paid for using Suica or coins.
-
+</div>
 
 ## Related Expressions
 

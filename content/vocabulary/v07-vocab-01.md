@@ -7,20 +7,21 @@ title: エレベーター (erebeetaa)
 
 Staff must know not only the location of each elevator bank but also any access restrictions, such as floors requiring keycard authentication or service lifts reserved for staff. In high-end hotels it is standard to press the button for the guest, hold the door, and indicate the correct floor. During emergencies, staff must be able to immediately redirect guests away from elevators to the nearest stairwell using calm, practiced language
 
-エレベーターは正面玄関を入ってすぐ左手にございます。
-<small>*Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>エレベーターは正面玄関を入ってすぐ左手にございます。</code></span><br>
+<em>Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.</em><br>
 The elevator is immediately to your left as one enter the main entrance.
-
-
-エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。
-<small>*Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。</code></span><br>
+<em>Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.</em><br>
 Please take the elevator to the 10th floor. Your room is at the end of the corridor on the right.
-
-
-ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。
-<small>*Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。</code></span><br>
+<em>Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.</em><br>
 The elevators are quite busy at the moment: would you mind waiting just a moment?
-
+</div>
 
 ## Related Expressions
 

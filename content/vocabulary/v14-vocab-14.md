@@ -7,19 +7,21 @@ title: ガイド (gaido)
 
 Hotel staff field questions about ガイド services regularly and need to be ready with clear options. Some properties arrange in-house guided experiences, while others keep a list of trusted agencies. Note the difference between a specialist ガイド and a general 案内 (annai), which means guidance or information more broadly: a front-desk assistant pointing a guest toward the elevator is doing 案内, while a licensed expert leading a temple walking tour is a ガイド. Getting that distinction right helps staff match the right service to each guest's actual need
 
-観光ガイドが名所を案内してくれました。
-<small>*Kankoukyaku gaido ga meisho wo annai shite kuremashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>観光ガイドが名所を案内してくれました。</code></span><br>
+<em>Kankoukyaku gaido ga meisho wo annai shite kuremashita.</em><br>
 The tour guide showed us the famous places.
-
-
-当館では英語対応のガイドをご手配することができます。
-<small>*Toukan de wa eigo taiou no gaido wo otehaisuru koto ga dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当館では英語対応のガイドをご手配することができます。</code></span><br>
+<em>Toukan de wa eigo taiou no gaido wo otehaisuru koto ga dekimasu.</em><br>
 Our hotel can arrange an English-speaking guide for you.
-
-
-博物館では音声ガイドを借りることをお勧めします。
-<small>*Hakubutsukan de wa onsei gaido wo kariru koto wo osusume shimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>博物館では音声ガイドを借りることをお勧めします。</code></span><br>
+<em>Hakubutsukan de wa onsei gaido wo kariru koto wo osusume shimasu.</em><br>
 We recommend renting an audio guide at the museum.
+</div>
 
 ## Related Expressions
 

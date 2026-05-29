@@ -8,20 +8,21 @@ title: 窓 (mado)
 
 In a standard room orientation, two phrases carry most of the weight. 「窓からは〇〇の景色がご覧いただけます」 highlights the view (from the window staff can enjoy a view of...), and 「窓は手前に引いて開けてください」 explains the operation (please pull the window toward one to open it). In rooms where windows cannot be opened fully, 「安全のため、窓は一定の幅までしか開かない仕様になっております」 delivers the safety information calmly and clearly. Guests respond well to honest, calm explanations of restrictions. Curtain and blind controls naturally come up in the same part of the orientation, so staff should be ready to cover those together with the window
 
-窓からは庭園の景色がご覧いただけます。
-<small>*Mado kara wa teien no keshiki ga go-ran itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>窓からは庭園の景色がご覧いただけます。</code></span><br>
+<em>Mado kara wa teien no keshiki ga go-ran itadakemasu.</em><br>
 From the window one can enjoy a view of the garden.
-
-
-窓は手前に引いて開けてください。
-<small>*Mado wa temae ni hiite akete kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>窓は手前に引いて開けてください。</code></span><br>
+<em>Mado wa temae ni hiite akete kudasai.</em><br>
 Please pull the window toward you to open it.
-
-
-安全のため、窓は一定の幅までしか開かない仕様になっております。
-<small>*Anzen no tame, mado wa ittei no haba made shika akanai shiyou ni natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>安全のため、窓は一定の幅までしか開かない仕様になっております。</code></span><br>
+<em>Anzen no tame, mado wa ittei no haba made shika akanai shiyou ni natte orimasu.</em><br>
 For safety reasons, the window is designed to open only to a certain width.
-
+</div>
 
 ## Related Expressions
 

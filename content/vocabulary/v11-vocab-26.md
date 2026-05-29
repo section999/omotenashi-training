@@ -7,20 +7,21 @@ title: 保留 (horyuu)
 
 Hotel staff are trained to return to the line within sixty seconds, even if the answer is not ready yet. The key phrase is 少々保留にさせていただきます (I will place one on hold for a brief moment), and it must be followed by an actual return, not just silence. However, if the wait stretches longer, coming back with お待たせいたしております、もう少々お時間をいただけますでしょうか (thank one for their patience, may I have a little more time) keeps the guest feeling attended to. This cycle of placing on hold, returning, and updating is a clear marker of professional telephone service
 
-少々保留にさせていただきますので、そのままお待ちくださいませ。
-<small>*Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>少々保留にさせていただきますので、そのままお待ちくださいませ。</code></span><br>
+<em>Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.</em><br>
 I will place you on hold for a moment, so please stay on the line.
-
-
-ただいま担当者に確認しておりますので、保留のままお待ちいただけますでしょうか。
-<small>*Tadaima tantousha ni kakunin shite orimasu node, horyuu no mama omachi itadakemasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま担当者に確認しておりますので、保留のままお待ちいただけますでしょうか。</code></span><br>
+<em>Tadaima tantousha ni kakunin shite orimasu node, horyuu no mama omachi itadakemasu deshou ka.</em><br>
 I am currently checking with the person in charge, so may I ask you to remain on hold?
-
-
-お待たせいたしました。保留を解除いたします。
-<small>*Omatase itashimashita. Horyuu wo kaijo itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お待たせいたしました。保留を解除いたします。</code></span><br>
+<em>Omatase itashimashita. Horyuu wo kaijo itashimasu.</em><br>
 Thank you for your patience. I am now taking you off hold.
-
+</div>
 
 ## Related Expressions
 

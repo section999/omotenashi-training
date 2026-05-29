@@ -8,20 +8,21 @@ title: 救急車 (kyuukyuusha)
 
 When contacting the dispatcher, staff should state the facility name and complete address, describe the patient's condition and current symptoms, include any medical history the guest has shared, and keep the line open to follow instructions. One staff member should be designated to wait at the building entrance to meet the paramedics and guide them directly to the patient. Lobby navigation wastes seconds that matter in a medical emergency. After the incident, an incident report should be completed, and follow-up with the guest's family or the hospital should be conducted as appropriate
 
-怪我をしたら救急車を呼んでください。
-<small>*Kega wo shitara kyuukyuusha wo yonde kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>怪我をしたら救急車を呼んでください。</code></span><br>
+<em>Kega wo shitara kyuukyuusha wo yonde kudasai.</em><br>
 Call an ambulance if someone is injured.
-
-
-お客様が客室で倒れているとのご連絡を受け、すぐに救急車を手配しました。
-<small>*Okyakusama ga kyakushitsu de taorete iru to no gorenraku wo uke, sugu ni kyuukyuusha wo tehai shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様が客室で倒れているとのご連絡を受け、すぐに救急車を手配しました。</code></span><br>
+<em>Okyakusama ga kyakushitsu de taorete iru to no gorenraku wo uke, sugu ni kyuukyuusha wo tehai shimashita.</em><br>
 We received a report that a guest had collapsed in their room, and we immediately arranged an ambulance.
-
-
-救急車が到着するまでの間、スタッフが応急処置を施しました。
-<small>*Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>救急車が到着するまでの間、スタッフが応急処置を施しました。</code></span><br>
+<em>Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.</em><br>
 While waiting for the ambulance, staff administered first aid.
-
+</div>
 
 ## Related Expressions
 

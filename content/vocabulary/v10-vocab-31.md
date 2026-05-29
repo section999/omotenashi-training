@@ -8,20 +8,21 @@ title: 宿泊税 (shukuhaku zei)
 
 In operations, the accommodation collects 宿泊税 on behalf of the local government and remits it periodically. For guests staying multiple nights or booking multiple rooms, the cumulative total can become a noticeable figure, so proactive disclosure at check-in prevents surprise at checkout. List it as a separate line item on the invoice, distinct from both サービス料 and 消費税. A quick mention during the check-in briefing, something like 宿泊税が別途かかります, sets clear expectations
 
-宿泊税は料金に別途含まれております。
-<small>*Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>宿泊税は料金に別途含まれております。</code></span><br>
+<em>Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.</em><br>
 The accommodation tax is included as a separate item in the rate.
-
-
-東京都の宿泊税は一泊のお部屋代によって異なります。
-<small>*Tōkyō-to no shukuhaku zei wa ippaku no oheya-dai ni yotte kotonari masu.*</small>
+<br><br>
+<span class="keigo-jp"><code>東京都の宿泊税は一泊のお部屋代によって異なります。</code></span><br>
+<em>Tōkyō-to no shukuhaku zei wa ippaku no oheya-dai ni yotte kotonari masu.</em><br>
 Tokyo's accommodation tax varies depending on the room rate per night.
-
-
-こちらのご請求書に宿泊税の内訳が記載されております。
-<small>*Kochira no goseikyu-sho ni shukuhaku zei no uchiwake ga kisai sarete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>こちらのご請求書に宿泊税の内訳が記載されております。</code></span><br>
+<em>Kochira no goseikyu-sho ni shukuhaku zei no uchiwake ga kisai sarete orimasu.</em><br>
 The breakdown of accommodation tax is listed on this invoice.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 対応中 (taiou chuu)
 
 対応中 appears in phone calls (ただいま対応中でございます), on internal status boards, and during shift handovers. An important skill is pairing the status update with a time estimate: ただいま対応中でございます、あと〇分ほどでご連絡いたします (currently being handled; we will contact one in approximately X minutes). That combination of status and timeframe distinguishes a professional response from a vague one. A guest who knows "ten more minutes" will wait patiently; a guest who hears only "we are handling it" will start to worry
 
-ご依頼は現在対応中です。もう少々お待ちください。
-<small>*Goirai wa genzai taiouchuu desu. Mou shoushou omachi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご依頼は現在対応中です。もう少々お待ちください。</code></span><br>
+<em>Goirai wa genzai taiouchuu desu. Mou shoushou omachi kudasai.</em><br>
 Your request is currently being handled. Please wait just a little longer.
-
-
-ただいま対応中でございます。あと10分ほどでご連絡いたします。
-<small>*Tadaima taiouchuu de gozaimasu. Ato juppun hodo de go-renraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま対応中でございます。あと10分ほどでご連絡いたします。</code></span><br>
+<em>Tadaima taiouchuu de gozaimasu. Ato juppun hodo de go-renraku itashimasu.</em><br>
 It is currently being handled. We will contact you in approximately 10 minutes.
-
-
-フロントにて対応中のため、担当者が席を外しております。
-<small>*Furonto nite taiouchuu no tame, tantousha ga seki wo hazashite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>フロントにて対応中のため、担当者が席を外しております。</code></span><br>
+<em>Furonto nite taiouchuu no tame, tantousha ga seki wo hazashite orimasu.</em><br>
 The person in charge is away from their desk as they are currently handling a matter at the front desk.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 中 (naka)
 
 Saying 中へどうぞ is not just directional; it carries a sense of invitation. That warmth is part of Japanese hospitality. Beyond the welcoming register, 中 does practical work whenever staff need to distinguish between an indoor facility and one that requires going outside. In bad weather, that distinction matters a lot to guests. 中 also handles room-level directions during orientation, クローゼットの中にハンガーがございます (there are hangers inside the closet), so it travels well across all types of guest interactions
 
-会議室は建物の中、3階の奥にございます。
-<small>*Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>会議室は建物の中、3階の奥にございます。</code></span><br>
+<em>Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.</em><br>
 The conference room is inside the building, at the far end of the third floor.
-
-
-アメニティはバスルームの中にご用意しております。
-<small>*Amenitii wa basurumu no naka ni go-youi shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>アメニティはバスルームの中にご用意しております。</code></span><br>
+<em>Amenitii wa basurumu no naka ni go-youi shite orimasu.</em><br>
 The amenities are prepared inside the bathroom.
-
-
-レストランはホテルの建物の中にございますので、外へお出になる必要はございません。
-<small>*Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>レストランはホテルの建物の中にございますので、外へお出になる必要はございません。</code></span><br>
+<em>Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.</em><br>
 The restaurant is inside the hotel building, so there is no need to go outside.
-
+</div>
 
 ## Related Expressions
 

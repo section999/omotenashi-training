@@ -8,20 +8,21 @@ title: 紛失 (funshitsu)
 
 When a guest reports a 紛失, the first step is to gather precise information calmly: what was lost, when it was last seen, and where on the property the guest has already been. Getting this picture clearly before launching a search is not bureaucratic delay, it is the fastest path to resolution. If the item cannot be located, the guest is directed toward local lost-and-found services or the nearest police station, where a 紛失届 (official lost-item report) can be filed. That document may matter for insurance claims or replacing identification
 
-パスポートの紛失について、ただいま確認いたします。
-<small>*Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>パスポートの紛失について、ただいま確認いたします。</code></span><br>
+<em>Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.</em><br>
 We will look into the matter of your lost passport immediately.
-
-
-紛失のご報告をいただきました場合、館内を調査いたします。
-<small>*Funshitsu no go-houkoku wo itadakimashita baai, kannai wo chousa itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>紛失のご報告をいただきました場合、館内を調査いたします。</code></span><br>
+<em>Funshitsu no go-houkoku wo itadakimashita baai, kannai wo chousa itashimasu.</em><br>
 When we receive a report of a lost item, we will conduct a search of the premises.
-
-
-お客様のご紛失物が見つかり次第、すぐにご連絡いたします。
-<small>*O-kyaku-sama no go-funshitsubutsu ga mitsukari shidai, sugu ni go-renraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様のご紛失物が見つかり次第、すぐにご連絡いたします。</code></span><br>
+<em>O-kyaku-sama no go-funshitsubutsu ga mitsukari shidai, sugu ni go-renraku itashimasu.</em><br>
 As soon as your lost item is found, we will contact you immediately.
-
+</div>
 
 ## Related Expressions
 

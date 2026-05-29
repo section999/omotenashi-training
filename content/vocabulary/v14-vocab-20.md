@@ -7,19 +7,21 @@ title: タクシー (takushii)
 
 Hotel staff get involved in タクシー arrangements more than staff might expect, from asking the doorman to hail one to calling a dispatcher for a scheduled pickup. For guests with heavy luggage, limited mobility, or late-night travel needs, タクシー is almost always the right call. Staff should have the hotel's address card ready to hand to guests so they can pass it directly to the driver: verbal communication can be challenging for non-Japanese speakers, and a printed card with the destination address removes the guesswork entirely. The standard phrase to offer is 「タクシーをお呼びいたしましょうか？」
 
-駅からホテルまでタクシーを利用しました。
-<small>*Eki kara hoteru made takushii wo riyou shimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>駅からホテルまでタクシーを利用しました。</code></span><br>
+<em>Eki kara hoteru made takushii wo riyou shimashita.</em><br>
 I took a taxi from the station to the hotel.
-
-
-タクシーをお呼びいたしますので、少々お待ちくださいませ。
-<small>*Takushii wo oyobi itashimasu no de, shoushou omachi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>タクシーをお呼びいたしますので、少々お待ちくださいませ。</code></span><br>
+<em>Takushii wo oyobi itashimasu no de, shoushou omachi kudasaimase.</em><br>
 I will call a taxi for you, so please wait just a moment.
-
-
-深夜はタクシーのご利用が便利でございます。電車は終電がございますので。
-<small>*Shinya wa takushii no goriyou ga benri de gozaimasu. Densha wa shuuden ga gozaimasu no de.*</small>
+<br><br>
+<span class="keigo-jp"><code>深夜はタクシーのご利用が便利でございます。電車は終電がございますので。</code></span><br>
+<em>Shinya wa takushii no goriyou ga benri de gozaimasu. Densha wa shuuden ga gozaimasu no de.</em><br>
 Taxis are convenient for late-night travel, as trains have a last service time.
+</div>
 
 ## Related Expressions
 

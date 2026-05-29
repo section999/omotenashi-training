@@ -7,19 +7,21 @@ title: 乗り場 (noriba)
 
 Hotel staff need to direct guests to the correct 乗り場 on a daily basis, especially for airport coaches, limousine buses, and sightseeing services that depart from fixed points. Vague directions do not serve guests well here. A skilled staff member says something like 「駅の南口を出ていただきますと、バスの乗り場がすぐ左手にございます」 rather than just "go to the bus stop," because that sentence gives an exit name, a transport type, and a spatial reference all at once. When a 乗り場 number is available, include it: it removes the last remaining source of confusion
 
-バスの乗り場は駅の正面にあります。
-<small>*Basu no noriba wa eki no shoumen ni arimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>バスの乗り場は駅の正面にあります。</code></span><br>
+<em>Basu no noriba wa eki no shoumen ni arimasu.</em><br>
 The bus boarding area is in front of the station.
-
-
-タクシー乗り場はホテルの玄関を出て右手にございます。
-<small>*Takushii noriba wa hoteru no genkan wo dete migite ni gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>タクシー乗り場はホテルの玄関を出て右手にございます。</code></span><br>
+<em>Takushii noriba wa hoteru no genkan wo dete migite ni gozaimasu.</em><br>
 The taxi stand is to the right as one exit the hotel entrance.
-
-
-リムジンバスの乗り場は第一ターミナルの一階、三番乗り場でございます。
-<small>*Rimujin basu no noriba wa daiichi taaaminaru no ikkai, sanban noriba de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>リムジンバスの乗り場は第一ターミナルの一階、三番乗り場でございます。</code></span><br>
+<em>Rimujin basu no noriba wa daiichi taaaminaru no ikkai, sanban noriba de gozaimasu.</em><br>
 The limousine bus boarding area is on the first floor of Terminal 1, boarding bay number three.
+</div>
 
 ## Related Expressions
 

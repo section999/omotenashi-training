@@ -8,20 +8,21 @@ title: 確認します (kakunin shimasu)
 
 This phrase appears across a wide range of situations: checking reservation details (「ご予約内容を確認いたします」), verifying room availability (「空き状況を確認いたします」), inspecting a reported problem (「状況を確認いたします」), and double-checking a guest request (「ただいま確認いたします」). The phrase becomes effective when paired with a time cue: 「すぐに確認いたします」 sets an expectation of immediacy, while 「少々お時間をいただき、確認いたします」 buys a moment without leaving the guest uncertain. That combination of action and timeline management distinguishes a polished response from a vague one.
 
-ご予約の内容をただいま確認いたします。少々お待ちください。
-<small>*Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約の内容をただいま確認いたします。少々お待ちください。</code></span><br>
+<em>Go-yoyaku no naiyou wo tadaima kakunin itashimasu. Shoushou o-machi kudasai.</em><br>
 I will check your reservation details right now. Please wait just a moment.
-
-
-お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。
-<small>*O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お部屋の準備状況を確認いたしまして、すぐにご連絡いたします。</code></span><br>
+<em>O-heya no junbi joukyou wo kakunin itashimashite, sugu ni go-renraku itashimasu.</em><br>
 I will check the preparation status of the room and contact you shortly.
-
-
-ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。
-<small>*Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご報告いただいた状況を確認いたしましたところ、すでに修理が完了しておりました。</code></span><br>
+<em>Go-houkoku itadaita joukyou wo kakunin itashimashita tokoro, sudeni shuurii ga kanryou shite orimashita.</em><br>
 Upon checking the situation you reported, we found that the repair had already been completed.
-
+</div>
 
 ## Related Expressions
 

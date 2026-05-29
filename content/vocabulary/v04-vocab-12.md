@@ -7,20 +7,21 @@ title: 歯ブラシ (haburashi)
 
 When a guest asks for a 歯ブラシ, staff should treat the request as routine, whether they forgot to pack one or want a spare. It should be brought to the room promptly and politely. Some properties keep 歯ブラシ kits at the front desk; others stock them in the housekeeping supply closet on each floor. Knowing where to find one quickly and how to phrase the response in polite Japanese is the kind of readiness that makes day-to-day service run smoothly
 
-歯ブラシはバスルームにご用意しております。
-<small>*Haburashi wa basurumu ni goyo'i shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>歯ブラシはバスルームにご用意しております。</code></span><br>
+<em>Haburashi wa basurumu ni goyo'i shite orimasu.</em><br>
 A toothbrush is provided in the bathroom.
-
-
-歯ブラシをお持ちいたします。少々お待ちいただけますでしょうか。
-<small>*Haburashi wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>歯ブラシをお持ちいたします。少々お待ちいただけますでしょうか。</code></span><br>
+<em>Haburashi wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.</em><br>
 I will bring you a toothbrush. Would you mind waiting just a moment?
-
-
-歯ブラシが必要でしたら、フロントにてお申し付けください。すぐにお届けいたします。
-<small>*Haburashi ga hitsuyou deshitara, furonto nite omoushitsuke kudasai. Sugu ni otodoke itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>歯ブラシが必要でしたら、フロントにてお申し付けください。すぐにお届けいたします。</code></span><br>
+<em>Haburashi ga hitsuyou deshitara, furonto nite omoushitsuke kudasai. Sugu ni otodoke itashimasu.</em><br>
 If you need a toothbrush, please let us know at the front desk and we will deliver it to you right away.
-
+</div>
 
 ## Related Expressions
 

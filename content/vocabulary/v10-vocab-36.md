@@ -7,20 +7,21 @@ title: 署名 (shomei)
 
 署名 is required for credit card transactions that do not use a PIN, for registration forms at check-in, and for any document that needs guest authorization. Staff should indicate the exact field where the 署名 is needed (using a finger or pen to point, never writing in the guest's space), and should explain the purpose in simple, polite language. After obtaining a 署名, the document should be handled carefully as a legal record and stored according to the property's compliance procedures.
 
-こちらにご署名をお願いいたします。
-<small>*Kochira ni goshomei o onegai itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらにご署名をお願いいたします。</code></span><br>
+<em>Kochira ni goshomei o onegai itashimasu.</em><br>
 Could you please sign here?
-
-
-ご利用料金の確認のため、こちらにご署名いただけますでしょうか。
-<small>*Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご利用料金の確認のため、こちらにご署名いただけますでしょうか。</code></span><br>
+<em>Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.</em><br>
 Could you please sign here to confirm the charges for the stay?
-
-
-ご署名いただいた書類はお控えとしてお渡しいたします。
-<small>*Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご署名いただいた書類はお控えとしてお渡しいたします。</code></span><br>
+<em>Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.</em><br>
 We will provide you with a copy of the signed document for your records.
-
+</div>
 
 ## Related Expressions
 

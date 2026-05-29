@@ -8,20 +8,21 @@ title: ツインルーム (twin room)
 
 During check-in, confirming the bed arrangement out loud is a good practice, even if the reservation already shows ツインルーム. A quick phrase like ベッドが二つのお部屋でございます (it is a room with two beds) gives guests reassurance and removes any ambiguity. When guests look uncertain about their room type, the matter should be addressed before they ask. If only one bed type is available due to high occupancy, that should be communicated clearly and apologetically before leading them to the room, not as a surprise when they open the door
 
-ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。
-<small>*Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。</code></span><br>
+<em>Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.</em><br>
 Is your reservation for a twin room? It is a room with two beds.
-
-
-ツインルームは四階にございます。エレベーターでお越しください。
-<small>*Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ツインルームは四階にございます。エレベーターでお越しください。</code></span><br>
+<em>Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.</em><br>
 The twin room is on the fourth floor. Please take the elevator.
-
-
-本日はツインルームへのアップグレードをご提供できますので、いかがでしょうか？
-<small>*Honjitsu wa tsuin-ruumu e no appugureedu wo go-teikyou dekimasu no de, ikaga deshou ka?*</small>
+<br><br>
+<span class="keigo-jp"><code>本日はツインルームへのアップグレードをご提供できますので、いかがでしょうか？</code></span><br>
+<em>Honjitsu wa tsuin-ruumu e no appugureedu wo go-teikyou dekimasu no de, ikaga deshou ka?</em><br>
 We can offer you an upgrade to a twin room today: would you like that?
-
+</div>
 
 ## Related Expressions
 

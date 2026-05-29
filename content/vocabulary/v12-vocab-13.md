@@ -8,20 +8,21 @@ title: 怪我 (kega)
 
 Minor injuries like small cuts can often be handled with the hotel's first aid kit. Fractures, head injuries, deep lacerations, or anything where severity is uncertain should always mean calling for professional help. The instinct to reassure a guest can sometimes cause staff to underestimate an injury, so when in doubt, escalation is appropriate. Every incident involving injury must be documented in an accident report, no matter how small, both to protect the guest and the hotel. Preventing 怪我 through wet floor signs, good lighting, and regular hazard checks is as important as responding to it.
 
-お客様が浴室で怪我をされました。すぐに応急処置を行います。
-<small>*Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様が浴室で怪我をされました。すぐに応急処置を行います。</code></span><br>
+<em>Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.</em><br>
 A guest has been injured in the bathroom. We will administer first aid immediately.
-
-
-怪我の状態を確認いたしましたので、救急車を手配しております。
-<small>*Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>怪我の状態を確認いたしましたので、救急車を手配しております。</code></span><br>
+<em>Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.</em><br>
 We have assessed the injury and are arranging an ambulance.
-
-
-怪我をされた場合は、どうかスタッフまでお申し付けください。
-<small>*Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>怪我をされた場合は、どうかスタッフまでお申し付けください。</code></span><br>
+<em>Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.</em><br>
 If one is injured, please do not hesitate to notify a staff member.
-
+</div>
 
 ## Related Expressions
 

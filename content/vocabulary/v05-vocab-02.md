@@ -8,20 +8,21 @@ title: 朝食 (choushoku)
 
 Staff should not wait for guests to ask about breakfast. The key details should be shared proactively during check-in: start and end times, location, and whether it is included in the room rate. Mentioning the start time but not the end time is a common omission that leads to guests arriving after service has closed, an avoidable frustration. If a guest has a dietary requirement, staff should liaise with the kitchen in advance and let the guest know it has been taken care of. In ryokan settings, 朝食 is often served in the guest room or a dedicated tatami dining hall, so the guidance staff give will differ from a standard hotel
 
-朝食は7時より1階レストランにてご用意しております。
-<small>*Choushoku wa shichi-ji yori ikkai resutoran nite go-youi shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>朝食は7時より1階レストランにてご用意しております。</code></span><br>
+<em>Choushoku wa shichi-ji yori ikkai resutoran nite go-youi shite orimasu.</em><br>
 Breakfast is prepared in the first-floor restaurant from 7:00 a.m.
-
-
-ご朝食はお部屋代に含まれております。
-<small>*Go-choushoku wa o-heya-dai ni fukumarete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご朝食はお部屋代に含まれております。</code></span><br>
+<em>Go-choushoku wa o-heya-dai ni fukumarete orimasu.</em><br>
 Breakfast is included in the room rate.
-
-
-ご朝食のご希望のお時間をお教えいただけますでしょうか。
-<small>*Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご朝食のご希望のお時間をお教えいただけますでしょうか。</code></span><br>
+<em>Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.</em><br>
 Could you let us know your preferred breakfast time?
-
+</div>
 
 ## Related Expressions
 

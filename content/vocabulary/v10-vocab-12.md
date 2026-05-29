@@ -8,20 +8,21 @@ title: 請求書 (seikyuusho)
 
 The distinction from 領収書 (receipt) matters both procedurally and legally. 領収書 is issued after payment; 請求書 is issued before. Mixing them up creates problems in a client's accounting system. Staff handling billing should dispatch 請求書 promptly after the service is completed -- delayed invoicing holds up a client's accounts payable process and can strain the relationship. Following up politely on unpaid invoices within the agreed timeframe is also part of the role
 
-請求書は後日、ご担当者様宛にメールにてお送りいたします。
-<small>*Seikyuusho wa gojitsu, go-tantousha-sama ate ni meeru nite o-okuri itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>請求書は後日、ご担当者様宛にメールにてお送りいたします。</code></span><br>
+<em>Seikyuusho wa gojitsu, go-tantousha-sama ate ni meeru nite o-okuri itashimasu.</em><br>
 We will send the invoice by email to the person in charge at a later date.
-
-
-請求書のお支払い期限は、発行日より30日以内でございます。
-<small>*Seikyuusho no o-shiharai kigen wa, hakkou bi yori sanjuu nichi inai de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>請求書のお支払い期限は、発行日より30日以内でございます。</code></span><br>
+<em>Seikyuusho no o-shiharai kigen wa, hakkou bi yori sanjuu nichi inai de gozaimasu.</em><br>
 The payment due date on the invoice is within 30 days of the issue date.
-
-
-ご確認の上、お振込みをお願いいたします。
-<small>*Go-kakunin no ue, o-furikomi wo o-negai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご確認の上、お振込みをお願いいたします。</code></span><br>
+<em>Go-kakunin no ue, o-furikomi wo o-negai itashimasu.</em><br>
 Please review the invoice and arrange payment by bank transfer.
-
+</div>
 
 ## Related Expressions
 

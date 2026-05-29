@@ -8,20 +8,21 @@ title: 病気 (byouki)
 
 When a guest reports feeling ill, staff should ask about their symptoms clearly before deciding on a course of action. Most hotels can arrange a doctor visit through ドクターコール, direct the guest to the nearest hospital, or provide basic medications where permitted. For international guests, language is often the biggest barrier, so having multilingual health phrase cards and a list of nearby clinics with English-speaking staff is valuable preparation. Staff should record every guest illness, and if a contagious condition is suspected, hygiene protocols should be activated immediately to protect other guests and staff
 
-お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。
-<small>*Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。</code></span><br>
+<em>Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.</em><br>
 A guest is feeling unwell, and we are currently arranging a doctor.
-
-
-病気の症状がございましたら、すぐにフロントまでお知らせください。
-<small>*Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>病気の症状がございましたら、すぐにフロントまでお知らせください。</code></span><br>
+<em>Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.</em><br>
 If you experience any symptoms of illness, please inform the front desk immediately.
-
-
-お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。
-<small>*Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。</code></span><br>
+<em>Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.</em><br>
 If your child falls ill, we will direct you to the nearest paediatric hospital.
-
+</div>
 
 ## Related Expressions
 

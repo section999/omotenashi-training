@@ -7,20 +7,21 @@ title: プラン (puran)
 
 The プラン should be referred to by its actual name rather than saying "their booking." Saying 「スタンダード朝食付きプランでご予約いただいております」 tells the guest that their specific choice was recorded and will be honoured, which is reassuring. Naming the プラン at check-in also heads off mid-stay disputes about whether a meal or perk is included. プラン and 予約 are not the same word: 予約 is the act or record of booking; プラン is the package type that booking falls under
 
-お客様は朝食付きスタンダードプランでご予約いただいております。
-<small>*O-kyaku-sama wa choushoku-tsuki sutandaado puran de go-yoyaku itadaite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様は朝食付きスタンダードプランでご予約いただいております。</code></span><br>
+<em>O-kyaku-sama wa choushoku-tsuki sutandaado puran de go-yoyaku itadaite orimasu.</em><br>
 You have a reservation under the Standard Plan with Breakfast.
-
-
-こちらのプランには夕食と温泉入浴が含まれております。
-<small>*Kochira no puran ni wa yuushoku to onsen nyuuyoku ga fukumarete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>こちらのプランには夕食と温泉入浴が含まれております。</code></span><br>
+<em>Kochira no puran ni wa yuushoku to onsen nyuuyoku ga fukumarete orimasu.</em><br>
 This plan includes dinner and onsen bathing.
-
-
-プランの内容についてご不明な点がございましたら、いつでもお申し付けください。
-<small>*Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>プランの内容についてご不明な点がございましたら、いつでもお申し付けください。</code></span><br>
+<em>Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.</em><br>
 If you have any questions about the contents of your plan, please feel free to let us know at any time.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 税込 (zeikomi)
 
 It is recommended to state 税込 explicitly whenever quoting a rate, whether at check-in, over the phone, or in response to an inquiry. Saying 「〇〇円、税込でございます」 takes only a second and eliminates ambiguity. However, if a price list one is referencing does not specify, staff should check before quoting rather than assuming one way or the other. A common error is assuming that because prices in Japan are commonly displayed 税込, verbal confirmation can be skipped. That assumption leads to billing disputes.
 
-この料金は税込でございます。
-<small>*Kono ryōkin wa zeikomi de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この料金は税込でございます。</code></span><br>
+<em>Kono ryōkin wa zeikomi de gozaimasu.</em><br>
 This rate is inclusive of tax.
-
-
-ご案内した金額はすべて税込となっております。
-<small>*Goannai shita kingaku wa subete zeikomi to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご案内した金額はすべて税込となっております。</code></span><br>
+<em>Goannai shita kingaku wa subete zeikomi to natte orimasu.</em><br>
 All prices we have quoted are tax-inclusive.
-
-
-お支払い総額は税込で一万五千円でございます。
-<small>*Oshiharai sōgaku wa zeikomi de ichiman gosen-en de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お支払い総額は税込で一万五千円でございます。</code></span><br>
+<em>Oshiharai sōgaku wa zeikomi de ichiman gosen-en de gozaimasu.</em><br>
 The total amount payable, including tax, is 15,000 yen.
-
+</div>
 
 ## Related Expressions
 

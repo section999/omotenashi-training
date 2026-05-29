@@ -7,20 +7,21 @@ title: 音声案内 (onsei annai)
 
 In a hospitality context, 音声案内 appears whenever a hotel routes incoming calls through a main switchboard menu. Staff might say 音声案内で1番を押してください (please press 1 on the voice menu) or explain to a guest calling from abroad how the system works before transferring them. Being proactive about guiding guests through the 音声案内 steps, rather than saying "follow the prompts," is a key expression of omotenashi in telephone service
 
-音声案内に従って、1番を押してフロントにお繋ぎください。
-<small>*Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>音声案内に従って、1番を押してフロントにお繋ぎください。</code></span><br>
+<em>Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.</em><br>
 Please follow the voice guidance and press 1 to connect to the front desk.
-
-
-音声案内がわかりにくい場合は、そのままお待ちいただければオペレーターにお繋ぎいたします。
-<small>*Onsei annai ga wakarinikoui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>音声案内がわかりにくい場合は、そのままお待ちいただければオペレーターにお繋ぎいたします。</code></span><br>
+<em>Onsei annai ga wakarinikoui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.</em><br>
 If the voice guidance is unclear, please stay on the line and we will connect you to an operator.
-
-
-ただいま音声案内のシステムをご利用いただいております。
-<small>*Tadaima onsei annai no shisutemu wo goriyou itadaite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま音声案内のシステムをご利用いただいております。</code></span><br>
+<em>Tadaima onsei annai no shisutemu wo goriyou itadaite orimasu.</em><br>
 You are currently using our voice guidance system.
-
+</div>
 
 ## Related Expressions
 

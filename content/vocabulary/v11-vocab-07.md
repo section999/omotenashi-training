@@ -7,20 +7,21 @@ title: 担当者 (tantousha)
 
 担当者 is used most often in the phrase 担当者におつなぎいたします (I will connect one to the person in charge) or 担当者よりご連絡いたします (the person in charge will contact one). When the 担当者 is unavailable, staff should not simply state this and end the conversation; the protocol is to explain the situation and offer an alternative: taking a message, arranging a callback, or connecting to a backup colleague. Understanding how to use 担当者 correctly anchors the guest's confidence in the hotel's organizational structure
 
-ご予約内容につきまして、担当者よりご連絡いたします。
-<small>*Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約内容につきまして、担当者よりご連絡いたします。</code></span><br>
+<em>Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.</em><br>
 The person in charge of your reservation will contact you.
-
-
-担当者にお取り次ぎいたしますので、少々お待ちください。
-<small>*Tantōsha ni otorikitsugi itashimasu no de, shōshō omachi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>担当者にお取り次ぎいたしますので、少々お待ちください。</code></span><br>
+<em>Tantōsha ni otorikitsugi itashimasu no de, shōshō omachi kudasai.</em><br>
 I will put you through to the person in charge; please wait a moment.
-
-
-ただいま担当者が不在ですが、ご伝言をお預かりいたしましょうか。
-<small>*Tadaima tantōsha ga fuzai desu ga, godengon wo oazukari itashimashō ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま担当者が不在ですが、ご伝言をお預かりいたしましょうか。</code></span><br>
+<em>Tadaima tantōsha ga fuzai desu ga, godengon wo oazukari itashimashō ka.</em><br>
 The person in charge is currently unavailable; may I take a message?
-
+</div>
 
 ## Related Expressions
 

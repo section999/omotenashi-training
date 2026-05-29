@@ -7,19 +7,21 @@ title: 観光客 (kankoukyaku)
 
 Major destinations like Kyoto, Nikko, and Hiroshima lean heavily on 観光客 traffic, and if staff work at a property in those areas, local knowledge is part of the job description. Because 観光客 often arrive unfamiliar with the local train system, the layout of the building, or even basic customs, front-line staff need to be proactive rather than waiting to be asked. However, staff should not assume every 観光客 wants the same things: someone on a history tour has different needs from a family with young children, and recognising that difference is where real omotenashi lives
 
-京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。
-<small>*Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。</code></span><br>
+<em>Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.</em><br>
 Kyoto receives many tourists every year, and the ryokans fill up with reservations.
-
-
-観光客のお客様に、近くの名所をご案内しております。
-<small>*Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>観光客のお客様に、近くの名所をご案内しております。</code></span><br>
+<em>Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.</em><br>
 We provide guidance to tourist guests about nearby famous sites.
-
-
-外国からの観光客が増えているため、英語のパンフレットを用意しました。
-<small>*Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>外国からの観光客が増えているため、英語のパンフレットを用意しました。</code></span><br>
+<em>Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.</em><br>
 We have prepared English-language brochures because the number of foreign tourists is increasing.
+</div>
 
 ## Related Expressions
 

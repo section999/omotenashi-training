@@ -7,20 +7,21 @@ title: 暗証番号 (anshou bangou)
 
 When a transaction calls for a 暗証番号, the PIN pad should be turned toward the guest and staff should step back so the guest has a clear, private space to enter it. Staff should never attempt to see the PIN, ask the guest to say it aloud, or allow anyone nearby to observe the keypad. If a guest enters the wrong PIN, staff should inform them quietly and offer another attempt without drawing attention to the situation
 
-恐れ入りますが、暗証番号をご入力ください。
-<small>*Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、暗証番号をご入力ください。</code></span><br>
+<em>Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.</em><br>
 I apologize for the inconvenience: please enter your PIN.
-
-
-端末をお客様の方へお向けいたします。
-<small>*Tanmatsu o okyakusama no hō e omuke itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>端末をお客様の方へお向けいたします。</code></span><br>
+<em>Tanmatsu o okyakusama no hō e omuke itashimasu.</em><br>
 I will turn the terminal toward you.
-
-
-暗証番号はお客様ご自身でご入力いただきますようお願いいたします。
-<small>*Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>暗証番号はお客様ご自身でご入力いただきますようお願いいたします。</code></span><br>
+<em>Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.</em><br>
 We ask that you enter your PIN yourself.
-
+</div>
 
 ## Related Expressions
 

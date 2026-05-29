@@ -8,20 +8,21 @@ title: 確認いたします (kakunin itashimasu)
 
 On the practical side, 確認いたします comes up constantly: verifying reservation details, checking availability with a colleague, confirming a request before sending it upstairs. After using it, staff should return with the answer within a reasonable time or provide an interim update. 確認に少々時間をいただいております (I am currently taking a moment to confirm; please wait just a little longer) is an update that helps keep guests patient. Leaving a guest in silence after saying 確認いたします, typically because the staff member becomes absorbed in the task, is one of the more common service failures
 
-担当者に確認いたします。少々お待ちいただけますか。
-<small>*Tantousha ni kakunin itashimasu. Shoushou omachi itadakemasu ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>担当者に確認いたします。少々お待ちいただけますか。</code></span><br>
+<em>Tantousha ni kakunin itashimasu. Shoushou omachi itadakemasu ka.</em><br>
 I will check with the person in charge. Could you wait a moment?
-
-
-ご予約の内容を確認いたします。
-<small>*Goyoyaku no naiyou wo kakunin itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご予約の内容を確認いたします。</code></span><br>
+<em>Goyoyaku no naiyou wo kakunin itashimasu.</em><br>
 I will confirm the details of your reservation.
-
-
-確認に少々時間をいただいております。もう少々お待ちください。
-<small>*Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>確認に少々時間をいただいております。もう少々お待ちください。</code></span><br>
+<em>Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.</em><br>
 I am currently taking a moment to confirm. Please wait just a little longer.
-
+</div>
 
 ## Related Expressions
 

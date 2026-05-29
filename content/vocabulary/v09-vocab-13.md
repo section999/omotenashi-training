@@ -7,20 +7,21 @@ title: 追加料金 (tsuika ryoukin)
 
 The standard phrase is 「〇〇には追加料金が発生いたします」, which is clean and formal without sounding harsh. A specific number is clearer than a vague statement such as "a fee may apply." Telling a guest 「1泊5,000円の追加料金となります」 gives them something concrete to agree to, and that precision reduces checkout disputes considerably
 
-エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。
-<small>*Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。</code></span><br>
+<em>Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.</em><br>
 An additional charge of 3,000 yen per night applies for the use of an extra bed.
-
-
-レイトチェックアウトをご希望の場合、追加料金をご確認ください。
-<small>*Reito chekku-auto o go-kibou no baai, tsuika ryoukin o go-kakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>レイトチェックアウトをご希望の場合、追加料金をご確認ください。</code></span><br>
+<em>Reito chekku-auto o go-kibou no baai, tsuika ryoukin o go-kakunin kudasai.</em><br>
 If you would like a late checkout, please check the additional fee.
-
-
-追加料金はチェックアウト時に精算いたします。
-<small>*Tsuika ryoukin wa chekku-auto ji ni seisan itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>追加料金はチェックアウト時に精算いたします。</code></span><br>
+<em>Tsuika ryoukin wa chekku-auto ji ni seisan itashimasu.</em><br>
 Additional charges will be settled at checkout.
-
+</div>
 
 ## Related Expressions
 

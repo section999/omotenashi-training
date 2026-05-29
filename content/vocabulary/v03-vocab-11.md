@@ -7,20 +7,21 @@ title: 毛布 (moufu)
 
 The phrase お持ちいたしましょうか (shall I bring you one?) is the appropriate phrase when the need can be anticipated, such as when a guest mentions feeling cold, or when the overnight temperature is expected to drop. In ryokan settings, the quilted covering used over futon bedding is often called 掛け布団 (kakebuton) rather than 毛布, so awareness of which term fits their property is necessary. Delivering a 毛布 with both hands and a brief spoken acknowledgment, rather than handing it over silently, signals care that guests notice and appreciate
 
-追加の毛布をお持ちいたしましょうか？夜は冷え込みますので。
-<small>*Tsuika no moufu wo o-mochi itashimashou ka? Yoru wa hie-komimasu no de.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>追加の毛布をお持ちいたしましょうか？夜は冷え込みますので。</code></span><br>
+<em>Tsuika no moufu wo o-mochi itashimashou ka? Yoru wa hie-komimasu no de.</em><br>
 Shall I bring you an extra blanket? It gets quite cold at night.
-
-
-毛布はクローゼット内の棚にご用意しております。
-<small>*Moufu wa kuroozetto-nai no tana ni go-youi shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>毛布はクローゼット内の棚にご用意しております。</code></span><br>
+<em>Moufu wa kuroozetto-nai no tana ni go-youi shite orimasu.</em><br>
 There is a blanket prepared for you on the shelf in the closet.
-
-
-ただいま毛布をお持ちいたします。少々お待ちくださいませ。
-<small>*Tadaima moufu wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま毛布をお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>Tadaima moufu wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
 I will bring a blanket right away. Please wait just a moment.
-
+</div>
 
 ## Related Expressions
 

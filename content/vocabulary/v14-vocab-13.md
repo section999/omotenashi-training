@@ -7,19 +7,21 @@ title: 人気 (ninki)
 
 For hotel staff, 人気 is useful in service conversations. When a guest asks for a suggestion, saying 「こちらはとても人気があります」 feels helpful rather than pushy, because staff are reporting what others have found rather than pushing personal taste. However, the word gets even more powerful when staff pair it with timing: knowing which spots are most popular during cherry blossom season or autumn foliage means staff can tailor their recommendations to the moment rather than giving the same answer year-round. Guests notice when a staff member speaks to the season
 
-この神社は観光客にとても人気があります。
-<small>*Kono jinja wa kankoukyaku ni totemo ninki ga arimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この神社は観光客にとても人気があります。</code></span><br>
+<em>Kono jinja wa kankoukyaku ni totemo ninki ga arimasu.</em><br>
 This shrine is very popular among tourists.
-
-
-当ホテルの朝食ビュッフェはお客様の間で大変人気でございます。
-<small>*Tou hoteru no choushoku byuffe wa okyakusama no aida de taihen ninki de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当ホテルの朝食ビュッフェはお客様の間で大変人気でございます。</code></span><br>
+<em>Tou hoteru no choushoku byuffe wa okyakusama no aida de taihen ninki de gozaimasu.</em><br>
 Our hotel's breakfast buffet is extremely popular among guests.
-
-
-今の季節は富士山のツアーが一番人気です。
-<small>*Ima no kisetsu wa Fujisan no tsuaa ga ichiban ninki desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>今の季節は富士山のツアーが一番人気です。</code></span><br>
+<em>Ima no kisetsu wa Fujisan no tsuaa ga ichiban ninki desu.</em><br>
 At this time of year, the Mount Fuji tour is the most popular.
+</div>
 
 ## Related Expressions
 

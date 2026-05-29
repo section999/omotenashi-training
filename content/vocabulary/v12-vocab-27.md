@@ -8,20 +8,21 @@ title: 安全確認 (anzen kakunin)
 
 In operational language, 安全確認を行う or 安全確認を実施する are the standard verb phrases for "to conduct a safety check." Results go into a 点検記録 (inspection record) available for management or regulatory review. When a check reveals a problem, the affected area or equipment comes out of service immediately and is marked with 点検中 (under inspection) or 使用禁止 (do not use) signage until the issue is resolved. Regarding guest communication in those moments, explaining that something is temporarily unavailable due to a safety check signals that the hotel takes their wellbeing seriously. Most guests respond well to that transparency
 
-朝のサービス開始前に、全設備の安全確認を実施しております。
-<small>*Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>朝のサービス開始前に、全設備の安全確認を実施しております。</code></span><br>
+<em>Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.</em><br>
 We conduct safety checks on all facilities before morning service begins.
-
-
-エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。
-<small>*Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。</code></span><br>
+<em>Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.</em><br>
 We conducted a safety check before elevator use and confirmed there were no issues.
-
-
-ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。
-<small>*Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。</code></span><br>
+<em>Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.</em><br>
 We apologize for the inconvenience, but the pool is temporarily closed for a safety check.
-
+</div>
 
 ## Related Expressions
 

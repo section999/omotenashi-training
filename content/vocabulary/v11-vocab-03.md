@@ -7,20 +7,21 @@ title: 外線 (gaisen)
 
 failing to mention the 外線 prefix is a common reason guests become frustrated with their in-room phone. They dial, nothing happens, and they feel helpless. Staff should also be clear about the fact that 外線 calls from guest rooms are typically billed to the room account and may carry a surcharge. When a guest needs to call a taxi, an airline, or a local restaurant, staff can either place the call for them or walk them through the steps, but should not leave them to figure it out alone
 
-外線をおかけになる場合は、まず0をお押しください。
-<small>*Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>外線をおかけになる場合は、まず0をお押しください。</code></span><br>
+<em>Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.</em><br>
 To make an outside call, please press 0 first.
-
-
-外線通話料金はチェックアウト時にご精算いただきます。
-<small>*Gaisen tsūwaryōkin wa chekku-auto ji ni goseisan itadakimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>外線通話料金はチェックアウト時にご精算いただきます。</code></span><br>
+<em>Gaisen tsūwaryōkin wa chekku-auto ji ni goseisan itadakimasu.</em><br>
 Outside call charges will be settled at the time of check-out.
-
-
-外線がつながらない場合は、フロントの内線0番にご連絡ください。
-<small>*Gaisen ga tsunagaranai baai wa, furonto no naisen zero-ban ni gorenraku kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>外線がつながらない場合は、フロントの内線0番にご連絡ください。</code></span><br>
+<em>Gaisen ga tsunagaranai baai wa, furonto no naisen zero-ban ni gorenraku kudasai.</em><br>
 If you cannot connect to an outside line, please contact the front desk at extension 0.
-
+</div>
 
 ## Related Expressions
 

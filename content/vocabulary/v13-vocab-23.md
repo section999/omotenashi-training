@@ -8,20 +8,21 @@ title: 配置 (haichi)
 
 Staff 配置 is communicated through a 配置図 (haichi-zu, a placement diagram showing exactly where each person is stationed). These diagrams are seen most often in banquet and event operations, pinned up in the back office before a function begins. 配置 also has a broader meaning in human resources: when a new hire is placed into a specific department, that is also called 配置. During busy seasons, hotels may temporarily reassign staff from one area to another, and that decision is expressed with the same word
 
-ウェディングパーティーのスタッフ配置を見直し、各エリアに担当者を配置いたしました。
-<small>*Wedingu paatii no sutaffu haichi wo minaooshi, kaku eria ni tantousha wo haichi itashimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ウェディングパーティーのスタッフ配置を見直し、各エリアに担当者を配置いたしました。</code></span><br>
+<em>Wedingu paatii no sutaffu haichi wo minaooshi, kaku eria ni tantousha wo haichi itashimashita.</em><br>
 We reviewed the staff placement for the wedding party and assigned a person in charge to each area.
-
-
-イベント当日の配置図をスタッフ全員に共有しておきます。
-<small>*Ibento toujitsu no haichi-zu wo sutaffu zen'in ni kyouyuu shite okimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>イベント当日の配置図をスタッフ全員に共有しておきます。</code></span><br>
+<em>Ibento toujitsu no haichi-zu wo sutaffu zen'in ni kyouyuu shite okimasu.</em><br>
 I will share the placement diagram for the day of the event with all staff in advance.
-
-
-繁忙期には追加スタッフを各フロアに配置し、対応力を高める予定です。
-<small>*Hanbou-ki ni wa tsuika sutaffu wo kaku furoa ni haichi shi, taiouryoku wo takameru yotei desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>繁忙期には追加スタッフを各フロアに配置し、対応力を高める予定です。</code></span><br>
+<em>Hanbou-ki ni wa tsuika sutaffu wo kaku furoa ni haichi shi, taiouryoku wo takameru yotei desu.</em><br>
 During peak season, we plan to place additional staff on each floor to enhance our response capability.
-
+</div>
 
 ## Related Expressions
 

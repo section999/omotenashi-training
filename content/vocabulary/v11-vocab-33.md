@@ -7,20 +7,21 @@ title: 外国語 (gaikokugo)
 
 having 外国語 skills on their team is only part of the picture. Hotels that handle international guests well also build systems that support all staff regardless of their individual language ability: printed language resource cards, reliable translation tools, and on-call interpreter services. A common error is to discover that even a basic greeting in a guest's language, a few words of Chinese, Korean, or French, makes an impression that goes beyond what the words say. That is why staff training increasingly covers basic hospitality phrases across several 外国語.
 
-外国語でのお問い合わせも、スタッフが対応いたします。
-<small>*Gaikokugo de no otoiawase mo, sutaffu ga taiou itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>外国語でのお問い合わせも、スタッフが対応いたします。</code></span><br>
+<em>Gaikokugo de no otoiawase mo, sutaffu ga taiou itashimasu.</em><br>
 Our staff will also handle inquiries in foreign languages.
-
-
-外国語パンフレットをご用意しておりますので、どうぞご自由にお取りください。
-<small>*Gaikokugo panfuretto wo go-youi shite orimasu node, douzo go-jiyuu ni otori kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>外国語パンフレットをご用意しておりますので、どうぞご自由にお取りください。</code></span><br>
+<em>Gaikokugo panfuretto wo go-youi shite orimasu node, douzo go-jiyuu ni otori kudasai.</em><br>
 We have brochures available in foreign languages, so please feel free to take one.
-
-
-外国語でのご案内が必要なお客様は、フロントまでお申し付けください。
-<small>*Gaikokugo de no go-annai ga hitsuyou na okyakusama wa, furonto made omoshitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>外国語でのご案内が必要なお客様は、フロントまでお申し付けください。</code></span><br>
+<em>Gaikokugo de no go-annai ga hitsuyou na okyakusama wa, furonto made omoshitsuke kudasai.</em><br>
 Guests who need guidance in a foreign language are welcome to contact the front desk.
-
+</div>
 
 ## Related Expressions
 

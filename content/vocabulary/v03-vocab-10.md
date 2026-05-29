@@ -7,20 +7,21 @@ title: 枕 (makura)
 
 When a guest asks for an extra or different 枕, staff should respond immediately using 枕をご用意いたします or 枕をお持ちいたします. In ryokan settings, staff may also encounter traditional cylindrical shapes or 高枕 (takamakura, high pillows), and explaining those options warmly makes guests feel cared for. In a luxury or extended-stay context, asking about pillow preferences proactively during check-in, before the guest has to raise it themselves, is a practice that earns lasting goodwill
 
-ご希望でしたら、枕の硬さをお選びいただけます。
-<small>*Go-kibou deshitara, makura no katasa wo o-erabi itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご希望でしたら、枕の硬さをお選びいただけます。</code></span><br>
+<em>Go-kibou deshitara, makura no katasa wo o-erabi itadakemasu.</em><br>
 If you wish, one may choose the firmness of your pillow.
-
-
-追加の枕をすぐにお持ちいたします。少々お待ちくださいませ。
-<small>*Tsuika no makura wo sugu ni o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>追加の枕をすぐにお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>Tsuika no makura wo sugu ni o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
 I will bring an extra pillow shortly. Please wait just a moment.
-
-
-枕が合わないなど、ご不便がございましたら、いつでもお申し付けください。
-<small>*Makura ga awanai nado, go-fuben ga gozaimashitara, itsudemo o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>枕が合わないなど、ご不便がございましたら、いつでもお申し付けください。</code></span><br>
+<em>Makura ga awanai nado, go-fuben ga gozaimashitara, itsudemo o-moushitsuke kudasai.</em><br>
 If the pillow does not suit you or you have any inconvenience, please let us know at any time.
-
+</div>
 
 ## Related Expressions
 

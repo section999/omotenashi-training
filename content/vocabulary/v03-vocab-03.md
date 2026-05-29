@@ -8,20 +8,21 @@ title: シングルルーム (single room)
 
 The term is borrowed directly from English and used consistently across hotel chains, booking systems, and brochures. Confirming room types accurately at check-in is an important habit to develop, since misassignments are among the most common causes of guest dissatisfaction. When a guest has booked a シングルルーム but arrives with a companion, the situation should be handled with care and available alternatives should be offered without making anyone feel awkward. Knowing the full range of room types, シングル, ダブル, ツイン, スイート, provides the vocabulary to navigate upgrades and changes
 
-ご予約内容はシングルルーム一泊でございます。
-<small>*Go-yoyaku naiyou wa shinguru-ruumu ippaku de gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約内容はシングルルーム一泊でございます。</code></span><br>
+<em>Go-yoyaku naiyou wa shinguru-ruumu ippaku de gozaimasu.</em><br>
 Your reservation is for a single room, one night.
-
-
-シングルルームにご案内いたします。エレベーターはあちらでございます。
-<small>*Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>シングルルームにご案内いたします。エレベーターはあちらでございます。</code></span><br>
+<em>Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.</em><br>
 I will show you to your single room. The elevator is over there.
-
-
-シングルルームのベッドはセミダブルサイズでございますのでご安心ください。
-<small>*Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>シングルルームのベッドはセミダブルサイズでございますのでご安心ください。</code></span><br>
+<em>Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.</em><br>
 Please be assured that the single room's bed is semi-double size.
-
+</div>
 
 ## Related Expressions
 

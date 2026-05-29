@@ -8,20 +8,21 @@ title: 人数 (ninzuu)
 
 Note that 人数 comes up at several different points during a guest's visit, not just once at booking. Staff confirm it during the initial reservation, again at check-in, and sometimes once more when guests are seated in the dining area. At the front desk the standard phrasing is 「お客様のご人数をお知らせください」; at a restaurant host stand the equivalent greeting is 「お何名様でしょうか」. Both are expressions staff should be prepared to use. If a guest's actual party size turns out to be different from what was reserved, the record should be updated immediately so every department, from housekeeping to the kitchen, gets accurate information before it is too late to act on it
 
-ご予約のお人数をご確認させていただきます。
-<small>*Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご予約のお人数をご確認させていただきます。</code></span><br>
+<em>Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.</em><br>
 Allow me to confirm the number of guests in your reservation.
-
-
-ご人数は大人2名、お子様1名でよろしいでしょうか。
-<small>*Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご人数は大人2名、お子様1名でよろしいでしょうか。</code></span><br>
+<em>Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.</em><br>
 Is the party 2 adults and 1 child?
-
-
-お部屋の最大人数は4名様となっております。
-<small>*O-heya no saidai ninzuu wa yo-mei-sama to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お部屋の最大人数は4名様となっております。</code></span><br>
+<em>O-heya no saidai ninzuu wa yo-mei-sama to natte orimasu.</em><br>
 The maximum occupancy for this room is 4 guests.
-
+</div>
 
 ## Related Expressions
 

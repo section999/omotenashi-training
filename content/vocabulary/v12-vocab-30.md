@@ -7,20 +7,21 @@ title: 落ち着いてください (ochitsuite kudasai)
 
 落ち着いてください is rarely used alone; it is typically preceded by a brief acknowledgment of the guest's distress and followed by concrete guidance. For example: ご安心ください、スタッフが対応しております。落ち着いてこちらへお進みください (Please be reassured, staff are handling the situation. Please calmly proceed this way). This structure acknowledges the emotion, provides reassurance, and offers a clear next step, all of which help the guest transition from panic to compliance. Staff should practice delivering this phrase with calm, as a nervous or hurried delivery undermines the message. Regular emergency simulation training builds the composure staff need to be effective
 
-ご安心ください。落ち着いてください。スタッフが誘導いたします。
-<small>*Go-anshin kudasai. Ochitsuite kudasai. Sutaffu ga yuudou itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご安心ください。落ち着いてください。スタッフが誘導いたします。</code></span><br>
+<em>Go-anshin kudasai. Ochitsuite kudasai. Sutaffu ga yuudou itashimasu.</em><br>
 Please be reassured. Please stay calm. Our staff will guide you.
-
-
-火災報知機が鳴っておりますが、落ち着いてください。順序よく避難してください。
-<small>*Kasai houchi ki ga natte orimasu ga, ochitsuite kudasai. Junjo yoku hinan shite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>火災報知機が鳴っておりますが、落ち着いてください。順序よく避難してください。</code></span><br>
+<em>Kasai houchi ki ga natte orimasu ga, ochitsuite kudasai. Junjo yoku hinan shite kudasai.</em><br>
 The fire alarm is sounding, but please remain calm. Please evacuate in an orderly manner.
-
-
-落ち着いてください。深呼吸して、スタッフの指示をお聞きください。
-<small>*Ochitsuite kudasai. Shinkokyuu shite, sutaffu no shiji wo okiki kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>落ち着いてください。深呼吸して、スタッフの指示をお聞きください。</code></span><br>
+<em>Ochitsuite kudasai. Shinkokyuu shite, sutaffu no shiji wo okiki kudasai.</em><br>
 Please stay calm. Take a deep breath and listen to the staff's instructions.
-
+</div>
 
 ## Related Expressions
 

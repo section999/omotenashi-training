@@ -7,20 +7,21 @@ title: 幼児 (youji)
 
 幼児 should be treated as a trigger for a checklist rather than a zero-cost footnote on the reservation: does the room need a crib? Is the floor plan safe for a toddler who walks or crawls? Can a stroller get through the corridors and into the elevator? These are questions guests may not think to ask, which is why staff should anticipate them.
 
-幼児のお客様には、ベビーベッドをご用意することが可能です。
-<small>*Youji no o-kyakusama ni wa, bebii beddo o go-youi suru koto ga kanou desu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>幼児のお客様には、ベビーベッドをご用意することが可能です。</code></span><br>
+<em>Youji no o-kyakusama ni wa, bebii beddo o go-youi suru koto ga kanou desu.</em><br>
 We are able to prepare a crib for infant guests.
-
-
-幼児は添い寝の場合、宿泊料金は無料でございます。
-<small>*Youji wa soinine no baai, shukuhaku ryoukin wa muryou de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>幼児は添い寝の場合、宿泊料金は無料でございます。</code></span><br>
+<em>Youji wa soinine no baai, shukuhaku ryoukin wa muryou de gozaimasu.</em><br>
 Infants sharing a bed with parents stay free of charge.
-
-
-ご予約に幼児のお子様がいらっしゃいますので、安全のためチャイルドロックをお部屋に設置いたします。
-<small>*Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご予約に幼児のお子様がいらっしゃいますので、安全のためチャイルドロックをお部屋に設置いたします。</code></span><br>
+<em>Go-yoyaku ni youji no o-ko-sama ga irasshaimasu no de, anzen no tame chairudo rokku o o-heya ni setchi itashimasu.</em><br>
 Since your reservation includes an infant, we will install child locks in the room for safety.
-
+</div>
 
 ## Related Expressions
 

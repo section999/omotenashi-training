@@ -8,20 +8,21 @@ title: 業務 (gyoumu)
 
 業務 appears in many compound terms in daily hotel operations: 業務効率化 (gyoumu kooritsu-ka, improvement of operational efficiency), 業務報告 (gyoumu houkoku, work report), and 業務手順 (gyoumu tejun, operational procedure). Staff are expected to prioritise their assigned 業務, and stepping outside those duties generally requires approval from a supervisor. The smooth execution of 業務 across all departments is what allows a hotel to function as a seamlessly coordinated service organisation
 
-毎朝、シフト開始前に業務内容を確認するようにしております。
-<small>*Maiasa, shifuto kaishi mae ni gyoumu naiyou wo kakunin suru you ni shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>毎朝、シフト開始前に業務内容を確認するようにしております。</code></span><br>
+<em>Maiasa, shifuto kaishi mae ni gyoumu naiyou wo kakunin suru you ni shite orimasu.</em><br>
 Every morning, I make a point of reviewing my duties before the shift begins.
-
-
-本日の業務でご不明な点がございましたら、上長にご確認ください。
-<small>*Honjitsu no gyoumu de go-fumei na ten ga gozaimashitara, jouchou ni go-kakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日の業務でご不明な点がございましたら、上長にご確認ください。</code></span><br>
+<em>Honjitsu no gyoumu de go-fumei na ten ga gozaimashitara, jouchou ni go-kakunin kudasai.</em><br>
 If you have any questions regarding today's duties, please confirm with your supervisor.
-
-
-フロント業務では、笑顔と迅速な対応が最も重要です。
-<small>*Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>フロント業務では、笑顔と迅速な対応が最も重要です。</code></span><br>
+<em>Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.</em><br>
 In front desk duties, a smile and prompt response are the most important things.
-
+</div>
 
 ## Related Expressions
 

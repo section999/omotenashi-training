@@ -8,20 +8,21 @@ title: 非常ベル (hijou beru)
 
 Staff training on the 非常ベル is based on one core principle: treat every activation as real until confirmed otherwise. The standard response involves notifying the duty manager, activating the public address system with evacuation instructions, deploying staff to assigned evacuation posts, and accounting for every guest, including those who may be asleep, have hearing impairments, or are in the bath and may not have heard the alarm. It also means logging every activation, whether genuine or a false alarm, and reporting repeated false activations to the fire authorities for inspection. One detail that is often overlooked: guests should be shown the locations of manual call points (手動式発信機) at check-in, so they know how to trigger the 非常ベル themselves if they discover an emergency before a smoke sensor does
 
-非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。
-<small>*Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。</code></span><br>
+<em>Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.</em><br>
 When the emergency bell sounds, please leave your belongings and evacuate promptly.
-
-
-非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。
-<small>*Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。</code></span><br>
+<em>Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.</em><br>
 Even in the event of a false alarm, staff will immediately conduct a safety check.
-
-
-各フロアの非常ベルの位置は、避難経路図でご確認いただけます。
-<small>*Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>各フロアの非常ベルの位置は、避難経路図でご確認いただけます。</code></span><br>
+<em>Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.</em><br>
 The locations of emergency bells on each floor can be confirmed on the evacuation route map.
-
+</div>
 
 ## Related Expressions
 

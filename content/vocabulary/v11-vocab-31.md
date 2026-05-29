@@ -7,20 +7,21 @@ title: 英語対応 (eigo taiou)
 
 The omotenashi approach recommends offering 英語対応 proactively. A well-trained staff member does not wait for a foreign guest to stumble over a Japanese-only form. Reading the signals early, such as hesitation, a foreign-language document in hand, or uncertainty at the counter, and offering 英語でのご対応も可能でございます (we are also able to assist one in English) before the guest has to ask, is the recommended approach. That moment of anticipation can set the tone for a guest's stay. 英語対応 needs to be consistent across all touchpoints, not just the front desk. A guest who receives English support at check-in but none at the restaurant feels the inconsistency
 
-フロントでは英語対応が可能でございます。お気軽にご利用ください。
-<small>*Furonto de wa eigo taiou ga kanou de gozaimasu. Okigaru ni go-riyou kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>フロントでは英語対応が可能でございます。お気軽にご利用ください。</code></span><br>
+<em>Furonto de wa eigo taiou ga kanou de gozaimasu. Okigaru ni go-riyou kudasai.</em><br>
 English support is available at the front desk. Please feel free to use this service.
-
-
-英語対応のスタッフが常駐しておりますので、ご安心ください。
-<small>*Eigo taiou no sutaffu ga jouchuu shite orimasu node, go-anshin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>英語対応のスタッフが常駐しておりますので、ご安心ください。</code></span><br>
+<em>Eigo taiou no sutaffu ga jouchuu shite orimasu node, go-anshin kudasai.</em><br>
 English-capable staff are always on duty, so please rest assured.
-
-
-ご不明な点がございましたら、英語対応のスタッフがお手伝いいたします。
-<small>*Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、英語対応のスタッフがお手伝いいたします。</code></span><br>
+<em>Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.</em><br>
 If you have any questions, an English-speaking staff member will assist you.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 超過 (chouka)
 
 A reliable three-part structure makes these conversations much smoother: state the defined limit, state the actual usage, then state the resulting charge. For example: チェックアウトは12時でしたが、現在14時のご利用となりますので、超過料金が〇〇円かかります. That sequence is transparent and easy to follow. If the 超過 is minor and the guest is a loyal or long-staying customer, checking with a supervisor about waiving the 超過料金 as a goodwill gesture may be appropriate. Knowing when to escalate that decision is part of the role
 
-チェックアウト時間を超過されたため、追加料金が発生いたします。
-<small>*Chekkuauto jikan o chouka sareta tame, tsuika ryoukin ga hassei itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>チェックアウト時間を超過されたため、追加料金が発生いたします。</code></span><br>
+<em>Chekkuauto jikan o chouka sareta tame, tsuika ryoukin ga hassei itashimasu.</em><br>
 Because you have exceeded the checkout time, an additional charge will apply.
-
-
-お荷物の重量が制限を超過しております。
-<small>*Onimotsu no juuryou ga seigen o chouka shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お荷物の重量が制限を超過しております。</code></span><br>
+<em>Onimotsu no juuryou ga seigen o chouka shite orimasu.</em><br>
 Your luggage exceeds the weight limit.
-
-
-超過料金についてご説明させていただきます。
-<small>*Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>超過料金についてご説明させていただきます。</code></span><br>
+<em>Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.</em><br>
 Allow me to explain the excess charge.
-
+</div>
 
 ## Related Expressions
 

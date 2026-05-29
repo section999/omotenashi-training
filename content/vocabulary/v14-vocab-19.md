@@ -7,19 +7,21 @@ title: バス (basu)
 
 Hotel staff are asked about バス routes constantly, and airport transfers are the most common case. Many hotels near regional airports or in cities without rail airport links rely on リムジンバス (airport limousine coach) as the primary option. Being able to explain the バス stop location, the stop name, and approximate journey time is standard concierge knowledge. The most useful thing staff can say is 「○○行きのバスは、ホテル前のバス停からご乗車いただけます」: staff have given them the destination, the departure point, and the name of the stop, all in one sentence
 
-空港から市内までバスで行きました。
-<small>*Kuukou kara shinai made basu de ikimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>空港から市内までバスで行きました。</code></span><br>
+<em>Kuukou kara shinai made basu de ikimashita.</em><br>
 I went from the airport to the city by bus.
-
-
-京都の主な観光地は市バスで巡ることができます。
-<small>*Kyouto no omo na kankoukyaku chi wa shi basu de meguru koto ga dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>京都の主な観光地は市バスで巡ることができます。</code></span><br>
+<em>Kyouto no omo na kankoukyaku chi wa shi basu de meguru koto ga dekimasu.</em><br>
 You can visit Kyoto's main tourist attractions by city bus.
-
-
-リムジンバスのご予約はフロントにてお手続きいただけます。
-<small>*Rimujin basu no goyoyaku wa furonto nite otetsuzuki itadakemasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>リムジンバスのご予約はフロントにてお手続きいただけます。</code></span><br>
+<em>Rimujin basu no goyoyaku wa furonto nite otetsuzuki itadakemasu.</em><br>
 Limousine bus reservations can be arranged at the front desk.
+</div>
 
 ## Related Expressions
 

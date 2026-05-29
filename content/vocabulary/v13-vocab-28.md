@@ -7,19 +7,21 @@ title: 効率 (kouritsu)
 
 The concept of 効率 is closely linked to 改善 (kaizen, continuous improvement). Together they form the backbone of Japanese operational philosophy in service industries. Increasing 効率 might involve rearranging housekeeping trolleys so rooms on the same floor are cleaned in sequence, or introducing digital check-in tablets to reduce front-desk queue times. Staff are encouraged to share ideas that could raise 効率, and such contributions are viewed positively during performance evaluations. The phrase 作業効率を上げる (sagyou kouritsu wo ageru, to raise operational efficiency) is frequently used in morning briefings and project meetings
 
-チェックイン業務の効率を高めるため、タブレット端末を導入いたしました。
-<small>*Chekku-in gyoumu no kouritsu wo takameru tame, taburetto tanmatsu wo dounyuu itashimashita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>チェックイン業務の効率を高めるため、タブレット端末を導入いたしました。</code></span><br>
+<em>Chekku-in gyoumu no kouritsu wo takameru tame, taburetto tanmatsu wo dounyuu itashimashita.</em><br>
 We have introduced tablet devices in order to improve the efficiency of check-in operations.
-
-
-効率よく客室を清掃するために、各フロアの担当エリアを見直しました。
-<small>*Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoiimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>効率よく客室を清掃するために、各フロアの担当エリアを見直しました。</code></span><br>
+<em>Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoiimashita.</em><br>
 We have reviewed the assigned areas on each floor in order to clean guest rooms more efficiently.
-
-
-スタッフの皆様のご協力のおかげで、業務効率が大幅に改善されました。
-<small>*Sutaffu no minasama no go-kyouryoku no okage de, gyoumu kouritsu ga oohaba ni kaizen saremashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>スタッフの皆様のご協力のおかげで、業務効率が大幅に改善されました。</code></span><br>
+<em>Sutaffu no minasama no go-kyouryoku no okage de, gyoumu kouritsu ga oohaba ni kaizen saremashita.</em><br>
 Thanks to the cooperation of all staff members, operational efficiency has improved significantly.
+</div>
 
 ## Related Expressions
 

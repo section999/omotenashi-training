@@ -8,20 +8,21 @@ title: 聞き取れません (kikitorimasen)
 
 In a hospitality telephone setting, 聞き取れません is not used on its own. Leading with 恐れ入りますが or 申し訳ございませんが softens the difficulty before naming it. A complete polite expression sounds like 恐れ入りますが、お声が聞き取れません. When the line remains unclear despite asking for a louder or clearer voice, offering to call back is recommended: 折り返しお電話させていただけますか shows the guest that staff is taking responsibility for resolving the problem
 
-恐れ入りますが、お声が少々聞き取れませんでした。
-<small>*Osore irimasu ga, okoe ga shoushou kikitoremasen deshita.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、お声が少々聞き取れませんでした。</code></span><br>
+<em>Osore irimasu ga, okoe ga shoushou kikitoremasen deshita.</em><br>
 I beg your pardon, but I had some difficulty hearing your voice.
-
-
-申し訳ございません、只今お声が聞き取れません。もう少し大きな声でおっしゃっていただけますか。
-<small>*Moushiwake gozaimasen, tadaima okoe ga kikitorimasen. Mou sukoshi ooki na koe de osshatte itadakemasu ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>申し訳ございません、只今お声が聞き取れません。もう少し大きな声でおっしゃっていただけますか。</code></span><br>
+<em>Moushiwake gozaimasen, tadaima okoe ga kikitorimasen. Mou sukoshi ooki na koe de osshatte itadakemasu ka.</em><br>
 I sincerely apologize, I cannot hear you at the moment. Could you please speak a little louder?
-
-
-電話の状態が悪く、聞き取れませんでした。折り返しご連絡いたしましょうか。
-<small>*Denwa no joutai ga waruku, kikitoremasen deshita. Orikaeshi go-renraku itashimashou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>電話の状態が悪く、聞き取れませんでした。折り返しご連絡いたしましょうか。</code></span><br>
+<em>Denwa no joutai ga waruku, kikitoremasen deshita. Orikaeshi go-renraku itashimashou ka.</em><br>
 The phone connection was poor and I could not make out what you said. Shall I call you back?
-
+</div>
 
 ## Related Expressions
 

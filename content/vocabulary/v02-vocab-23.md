@@ -7,20 +7,21 @@ title: 早朝チェックイン (early check-in)
 
 Handling these requests both proactively and transparently is important. If a guest has pre-arranged early check-in, confirm it warmly at arrival. If not, explain the situation clearly and set realistic expectations. The key phrases include 早朝チェックインには追加料金が発生する場合がございます (early check-in may incur an additional charge) and お部屋の準備が整い次第、ご案内いたします (we will show one to their room as soon as it is ready). In either case, offering the guest access to luggage storage (お荷物のお預かり) and lobby or lounge amenities while they wait demonstrates omotenashi.
 
-早朝チェックインをご希望の場合、追加料金が発生する場合がございます。
-<small>*Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>早朝チェックインをご希望の場合、追加料金が発生する場合がございます。</code></span><br>
+<em>Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.</em><br>
 If you would like early check-in, an additional charge may apply.
-
-
-お部屋の準備が整い次第、早朝チェックインのご案内をいたします。
-<small>*O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お部屋の準備が整い次第、早朝チェックインのご案内をいたします。</code></span><br>
+<em>O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.</em><br>
 We will guide you to the room as soon as it is ready for early check-in.
-
-
-早朝チェックインのご予約はお済みでしょうか。
-<small>*Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>早朝チェックインのご予約はお済みでしょうか。</code></span><br>
+<em>Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.</em><br>
 Have you made a reservation for early check-in?
-
+</div>
 
 ## Related Expressions
 

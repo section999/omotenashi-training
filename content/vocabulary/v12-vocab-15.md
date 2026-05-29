@@ -8,20 +8,21 @@ title: 応急処置 (oukyuu shochi)
 
 The scope of 応急処置 in a hotel includes wound cleaning and bandaging, ice packs for sprains, assisting a choking guest with the Heimlich manoeuvre, and performing CPR (心肺蘇生, shinpai sosei) until paramedics arrive. Every floor should have a first aid kit (救急箱, kyuukyuubako) in an accessible location, and every staff member should know exactly where theirs is without hesitation. When treating a guest, the staff member's tone matters enormously. Calm, reassuring language prevents panic and keeps the situation manageable. Once the immediate crisis is resolved, a written incident report must be completed and submitted to management that same day
 
-お客様が転倒されましたので、ただいま応急処置を行っております。
-<small>*Okyakusama ga tondou saremashita node, tadaima oukyuu shochi wo okonatte orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様が転倒されましたので、ただいま応急処置を行っております。</code></span><br>
+<em>Okyakusama ga tondou saremashita node, tadaima oukyuu shochi wo okonatte orimasu.</em><br>
 A guest has fallen, and we are currently administering first aid.
-
-
-救急車が到着するまでの間、応急処置を続けてください。
-<small>*Kyuukyuusha ga touchaku suru made no aida, oukyuu shochi wo tsuzukete kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>救急車が到着するまでの間、応急処置を続けてください。</code></span><br>
+<em>Kyuukyuusha ga touchaku suru made no aida, oukyuu shochi wo tsuzukete kudasai.</em><br>
 Please continue first aid until the ambulance arrives.
-
-
-当ホテルのスタッフは全員、応急処置の訓練を受けております。
-<small>*Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当ホテルのスタッフは全員、応急処置の訓練を受けております。</code></span><br>
+<em>Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.</em><br>
 All staff at this hotel have received first aid training.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: シャンプー (shanpuu)
 
 Staff need to know whether a property uses individual travel-sized bottles, large refillable dispensers, or pump-top containers, because each type requires a different replenishment approach. When a guest asks for more シャンプー, the response should be prompt and warm, with no suggestion that the request is an inconvenience. For guests with allergies or specific hair care concerns, staff should be aware of the product's ingredients. If uncertain, staff should offer to retrieve the packaging or provide an alternative rather than guessing
 
-お部屋のバスルームにはシャンプーをご用意しております。
-<small>*Oheya no basurumu ni wa shanpuu wo goyo'i shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋のバスルームにはシャンプーをご用意しております。</code></span><br>
+<em>Oheya no basurumu ni wa shanpuu wo goyo'i shite orimasu.</em><br>
 Shampoo is provided in the room's bathroom.
-
-
-シャンプーが足りない場合は、お申し付けいただければすぐにお持ちいたします。
-<small>*Shanpuu ga tarinai baai wa, omoushitsuke itadakereba sugu ni omochi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>シャンプーが足りない場合は、お申し付けいただければすぐにお持ちいたします。</code></span><br>
+<em>Shanpuu ga tarinai baai wa, omoushitsuke itadakereba sugu ni omochi itashimasu.</em><br>
 If you need more shampoo, please let us know and we will bring it immediately.
-
-
-本日、バスルームのシャンプーを新しいものに交換いたしました。
-<small>*Honjitsu, basurumu no shanpuu wo atarashii mono ni koukan itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日、バスルームのシャンプーを新しいものに交換いたしました。</code></span><br>
+<em>Honjitsu, basurumu no shanpuu wo atarashii mono ni koukan itashimashita.</em><br>
 Today, we have replaced the shampoo in the bathroom with a fresh bottle.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: ダブルルーム (double room)
 
 Staff should verify ダブルルーム reservations carefully at check-in and phrase confirmations so there is no room for misunderstanding. When proposing a ダブルルーム as an upgrade or alternative, the bed setup should be explained clearly. Higher-end properties sometimes label their offerings as queen or king rooms rather than ダブルルーム, so knowledge of those sub-categories allows staff to answer bed-size questions precisely
 
-本日のご予約はダブルルームでございますね。ご確認ありがとうございます。
-<small>*Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>本日のご予約はダブルルームでございますね。ご確認ありがとうございます。</code></span><br>
+<em>Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.</em><br>
 Your reservation today is for a double room. Thank you for confirming.
-
-
-ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？
-<small>*Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*</small>
+<br><br>
+<span class="keigo-jp"><code>ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？</code></span><br>
+<em>Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?</em><br>
 A double room has one bed: will that be all right for you?
-
-
-ダブルルームに空室がございますので、ご希望でしたらご案内できます。
-<small>*Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>ダブルルームに空室がございますので、ご希望でしたらご案内できます。</code></span><br>
+<em>Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.</em><br>
 We have a double room available, so if one wish we can show you to it.
-
+</div>
 
 ## Related Expressions
 

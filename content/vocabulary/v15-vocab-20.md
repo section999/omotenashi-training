@@ -7,21 +7,21 @@ title: 延長料金 (enchou ryoukin)
 
 How staff communicate 延長料金 matters as much as whether they charge it. An unexpected fee, presented without context, can sour an otherwise positive stay. The right approach is proactive: when a guest deposits luggage in a coin locker, a good staff member might mention, 「4時間を超えますと延長料金が発生いたしますのでご注意ください」 (Please note that an extension fee will apply if you exceed four hours). If a guest is surprised at checkout by an 延長料金 they did not expect, staff should explain it calmly and with empathy, and, where the property's policy allows, use good judgment about small overages for guests who have had an otherwise strong stay. How staff handle these moments is what guests remember long after the amount has been forgotten.
 
+## Example Sentences
 
-チェックアウト時刻を過ぎますと、延長料金が発生いたします。
-<small>*Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.*</small>
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>チェックアウト時刻を過ぎますと、延長料金が発生いたします。</code></span><br>
+<em>Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.</em><br>
 An extension fee will apply if you exceed the checkout time.
-
-
-コインロッカーの延長料金は1時間ごとに100円となっております。
-<small>*Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>コインロッカーの延長料金は1時間ごとに100円となっております。</code></span><br>
+<em>Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.</em><br>
 The coin locker extension fee is 100 yen per hour.
-
-
-延長料金についてご不明な点がございましたら、フロントまでお申し付けください。
-<small>*Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>延長料金についてご不明な点がございましたら、フロントまでお申し付けください。</code></span><br>
+<em>Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.</em><br>
 If you have any questions about the extension fee, please do not hesitate to contact the front desk.
-
+</div>
 
 ## Related Expressions
 

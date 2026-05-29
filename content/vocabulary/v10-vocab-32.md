@@ -8,20 +8,21 @@ title: クーポン (kuupon)
 
 Before applying any クーポン, check two things: that it's 有効 (valid, meaning within its expiry date) and that the guest's purchase or service qualifies under the stated conditions. If a クーポン cannot be applied, staff should explain the specific reason clearly and apologetically, then offer whatever help is possible. A common error is skipping the condition check and trying to apply it, which leads to system errors and confusion. When a クーポン is accepted, staff should confirm the discounted amount out loud with the guest before finalizing the transaction so there is no surprise at the total
 
-こちらのクーポンをお使いいただくと10%の割引となります。
-<small>*Kochira no kūpon o otsukai itadaku to jū-pāsento no waribiki to narimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのクーポンをお使いいただくと10%の割引となります。</code></span><br>
+<em>Kochira no kūpon o otsukai itadaku to jū-pāsento no waribiki to narimasu.</em><br>
 Using this coupon will give you a 10% discount.
-
-
-クーポンの有効期限をご確認ください。
-<small>*Kūpon no yūkō kigen o gokakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>クーポンの有効期限をご確認ください。</code></span><br>
+<em>Kūpon no yūkō kigen o gokakunin kudasai.</em><br>
 Please check the expiry date of your coupon.
-
-
-申し訳ございませんが、こちらのクーポンはレストランのご利用には適用できません。
-<small>*Mōshiwake gozaimasen ga, kochira no kūpon wa resutoran no goriyō ni wa tekiyō dekimasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>申し訳ございませんが、こちらのクーポンはレストランのご利用には適用できません。</code></span><br>
+<em>Mōshiwake gozaimasen ga, kochira no kūpon wa resutoran no goriyō ni wa tekiyō dekimasen.</em><br>
 I apologize, but this coupon cannot be applied to restaurant use.
-
+</div>
 
 ## Related Expressions
 

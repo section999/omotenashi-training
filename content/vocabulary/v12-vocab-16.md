@@ -8,20 +8,21 @@ title: 医者 (isha)
 
 Front desk staff are usually the ones who coordinate contact with an 医者 when a guest requests one or when a health concern is passed from another department. Before making the call, staff should gather the basics: room number, symptoms, any known allergies or existing conditions, and whether the guest has travel insurance. When relaying information to the doctor on behalf of a guest, accuracy and conciseness are important, and speculation about diagnosis should be avoided. After the visit, following up with the guest is recommended. A check-in to ask whether they received adequate care and whether there is anything else the hotel can do is small in effort but significant in terms of how a guest feels cared for
 
-お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。
-<small>*Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。</code></span><br>
+<em>Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.</em><br>
 Since one is not feeling well, I will call a doctor for you immediately.
-
-
-医者の診察を受けられましたか。何かお手伝いできることはございますか。
-<small>*Isha no shinsatsu wo ukereremashita ka. Nanika otetsudai dekiru koto wa gozaimasu ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>医者の診察を受けられましたか。何かお手伝いできることはございますか。</code></span><br>
+<em>Isha no shinsatsu wo ukereremashita ka. Nanika otetsudai dekiru koto wa gozaimasu ka.</em><br>
 Have you seen the doctor? Is there anything we can assist you with?
-
-
-当ホテルでは、24時間対応の医者をご手配することができます。
-<small>*Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>当ホテルでは、24時間対応の医者をご手配することができます。</code></span><br>
+<em>Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.</em><br>
 Our hotel is able to arrange a doctor available around the clock.
-
+</div>
 
 ## Related Expressions
 

@@ -8,20 +8,21 @@ title: 危険 (kiken)
 
 Japanese workplaces across many industries train staff in 危険予知 (kiken yochi), which means hazard prediction. The idea is to spot potential dangers before anyone gets hurt. For hotel staff, this mindset means regularly scanning the environment, not just waiting for something to go wrong before acting. 危険 alone is never enough: the word must always be paired with a clear instruction, such as "do not enter" or "please evacuate." A sign that just says 危険 without telling people what to do leaves guests confused and unsafe
 
-このエリアは危険ですので、立ち入らないでください。
-<small>*Kono eria wa kiken desu node, tachiiri naide kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>このエリアは危険ですので、立ち入らないでください。</code></span><br>
+<em>Kono eria wa kiken desu node, tachiiri naide kudasai.</em><br>
 This area is dangerous, so please do not enter.
-
-
-地震の後、建物の一部に危険な亀裂が見つかり、そのフロアを閉鎖しました。
-<small>*Jishin no ato, tatemono no ichibu ni kiken na kiretsu ga mitsukari, sono furoa wo heisa shimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>地震の後、建物の一部に危険な亀裂が見つかり、そのフロアを閉鎖しました。</code></span><br>
+<em>Jishin no ato, tatemono no ichibu ni kiken na kiretsu ga mitsukari, sono furoa wo heisa shimashita.</em><br>
 After the earthquake, dangerous cracks were found in part of the building, so we closed that floor.
-
-
-露天風呂の岩場は濡れると危険ですので、足元にご注意ください。
-<small>*Rotenburo no iwaba wa nureruto kiken desu node, ashimoto ni gochuui kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>露天風呂の岩場は濡れると危険ですので、足元にご注意ください。</code></span><br>
+<em>Rotenburo no iwaba wa nureruto kiken desu node, ashimoto ni gochuui kudasai.</em><br>
 The rock area around the outdoor bath is dangerous when wet, so please watch your step.
-
+</div>
 
 ## Related Expressions
 

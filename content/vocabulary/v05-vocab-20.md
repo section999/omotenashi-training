@@ -7,20 +7,21 @@ title: フォーク (fooku)
 
 フォーク comes up in a wide range of F&B service situations: table setting before a meal, responding to a guest who discovers missing cutlery, clearing and replacing between courses, and assisting guests with special dietary needs who may require particular fork types (e.g., a fish fork or a dessert fork). The standard response when a guest reports a missing fork, フォークをお持ちいたします, is a model for immediate, no-delay service recovery. Staff should also be familiar with the common pairing ナイフとフォーク (knife and fork) and know when to offer 箸 as an alternative
 
-フォークをお持ちいたします。少々お待ちくださいませ。
-<small>*Fooku wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>フォークをお持ちいたします。少々お待ちくださいませ。</code></span><br>
+<em>Fooku wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
 I will bring a fork. Please wait just a moment.
-
-
-フォークとナイフのセットをご用意いたしました。
-<small>*Fooku to naifu no setto wo go-youi itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>フォークとナイフのセットをご用意いたしました。</code></span><br>
+<em>Fooku to naifu no setto wo go-youi itashimashita.</em><br>
 I have prepared a set of fork and knife for you.
-
-
-デザートフォークもご一緒にお持ちいたしましょうか。
-<small>*Dezaato fooku mo go-issho ni o-mochi itashimashou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>デザートフォークもご一緒にお持ちいたしましょうか。</code></span><br>
+<em>Dezaato fooku mo go-issho ni o-mochi itashimashou ka.</em><br>
 Shall I also bring a dessert fork along with that?
-
+</div>
 
 ## Related Expressions
 

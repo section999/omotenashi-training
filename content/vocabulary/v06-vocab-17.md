@@ -8,20 +8,21 @@ title: 接続 (setsuzoku)
 
 Practical guidance centers on the connection steps themselves. staff might say 「画面のWi-Fi設定をお開きください」 (please open their device's Wi-Fi settings), followed by 「ネットワーク名を選択し、パスワードをご入力ください」 (select the network name and enter the password). Once the guest has tried, staff check in with 「接続はできましたか？」 (were one able to connect?). If the problem persists after those steps, staff offer to demonstrate on a similar device or call technical support as a secondary option. Guests appreciate knowing there is a next step if the first staff do not work
 
-接続方法をご案内いたしますので、少々お待ちください。
-<small>*Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>接続方法をご案内いたしますので、少々お待ちください。</code></span><br>
+<em>Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.</em><br>
 I will guide you on how to connect, so please wait just a moment.
-
-
-Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。
-<small>*Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。</code></span><br>
+<em>Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.</em><br>
 If the Wi-Fi connection is not working, please turn off your device once and try again.
-
-
-お客様のお部屋では接続が安定しているか、担当者が確認いたします。
-<small>*O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様のお部屋では接続が安定しているか、担当者が確認いたします。</code></span><br>
+<em>O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.</em><br>
 A member of staff will check whether the connection is stable in the room.
-
+</div>
 
 ## Related Expressions
 

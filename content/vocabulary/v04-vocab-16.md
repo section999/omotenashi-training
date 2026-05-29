@@ -7,20 +7,21 @@ title: 雑巾 (zoukin)
 
 In practical hotel work, staff use 雑巾 as part of regular room turnover and deep-cleaning routines. Phrases like 濡れた雑巾で拭きます (wipe with a damp cloth) and 乾いた雑巾で仕上げます (finish with a dry cloth) are standard in training sessions. The hygiene rule here is non-negotiable: different cloths for different surfaces. Using the same 雑巾 on a toilet and then on a desk is not just unacceptable, it is a hygiene failure that proper color-coding systems are specifically designed to prevent
 
-テーブルは清潔な雑巾で丁寧に拭いてください。
-<small>*Teeburu wa seiketsu na zoukin de teinei ni fuite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>テーブルは清潔な雑巾で丁寧に拭いてください。</code></span><br>
+<em>Teeburu wa seiketsu na zoukin de teinei ni fuite kudasai.</em><br>
 Please wipe the table carefully with a clean cloth.
-
-
-濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。
-<small>*Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。</code></span><br>
+<em>Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.</em><br>
 After removing the stain with a damp cloth, we finish with a dry cloth.
-
-
-用途ごとに色分けされた雑巾をご使用ください。
-<small>*Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>用途ごとに色分けされた雑巾をご使用ください。</code></span><br>
+<em>Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.</em><br>
 Please use the color-coded cloths designated for each purpose.
-
+</div>
 
 ## Related Expressions
 

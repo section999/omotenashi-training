@@ -7,20 +7,21 @@ title: 停電 (teiden)
 
 停電 is announced promptly over intercom, at the front desk, or directly in corridors. Staff use it in phrases such as 「現在、停電が発生しております」 (a power outage is currently occurring) and 「停電により、ご不便をおかけしております」 (we apologize for the inconvenience caused by the power outage). Emergency lighting, candles in ryokan, and battery-powered flashlights are standard equipment to offer guests. staff should pair the announcement with an estimated resolution time when available and a clear instruction about what guests should do.
 
-現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。
-<small>*Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。</code></span><br>
+<em>Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.</em><br>
 A power outage is currently occurring. We sincerely apologize for the inconvenience.
-
-
-停電の復旧まで、非常用照明をご利用ください。
-<small>*Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>停電の復旧まで、非常用照明をご利用ください。</code></span><br>
+<em>Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.</em><br>
 Please use the emergency lighting until power is restored.
-
-
-停電の影響で、エレベーターが一時的にご利用いただけません。
-<small>*Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.*</small>
+<br><br>
+<span class="keigo-jp"><code>停電の影響で、エレベーターが一時的にご利用いただけません。</code></span><br>
+<em>Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.</em><br>
 Due to the power outage, the elevator is temporarily out of service.
-
+</div>
 
 ## Related Expressions
 

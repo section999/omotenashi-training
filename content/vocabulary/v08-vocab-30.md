@@ -8,20 +8,21 @@ title: 下 (shita)
 
 One practical nuance worth getting comfortable with: 下 as a general "downward" cue works well alongside 地下 (chika), the specific term for basement floors. When directing a guest to a basement restaurant or parking lot, say 地下一階にございます for the actual floor reference, then use 下 as a supporting spatial cue: エレベーターで下にお降りください. That combination, specific floor plus directional cue, is cleaner than either alone. A common error is forgetting to pair 下 with an access method. Saying 下にございます without mentioning whether the guest should take the elevator, escalator, or stairs leaves the guest unsure how to proceed
 
-駐車場は地下2階の下にございます。エレベーターをご利用ください。
-<small>*Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>駐車場は地下2階の下にございます。エレベーターをご利用ください。</code></span><br>
+<em>Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.</em><br>
 The parking lot is below on basement level 2. Please use the elevator.
-
-
-スパ施設は下の階、地下1階にてお待ちしております。
-<small>*Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>スパ施設は下の階、地下1階にてお待ちしております。</code></span><br>
+<em>Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.</em><br>
 The spa facilities are on the floor below, basement level 1.
-
-
-ベッドの下にセーフティボックスがございますので、ご確認ください。
-<small>*Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ベッドの下にセーフティボックスがございますので、ご確認ください。</code></span><br>
+<em>Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.</em><br>
 There is a safety box under the bed, so please take note.
-
+</div>
 
 ## Related Expressions
 

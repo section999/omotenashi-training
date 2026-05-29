@@ -7,20 +7,21 @@ QRコード stands for "Quick Response Code," and it is a common payment interfa
 
 When guiding a guest through a QRコード payment, staff should present the code clearly at a comfortable angle, ensure the surface is clean and undamaged, and confirm that the amount in the guest's app matches the total before the guest confirms. Staff should then wait for the 決済完了 (payment complete) signal on the terminal before finishing. If a guest's app refuses to read the code, staff should check for anything blocking the scanner or interfering with the display, and offer an alternative payment method calmly
 
-こちらのQRコードでお支払いいただけます。
-<small>*Kochira no kyūāru kōdo de oshiharai itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのQRコードでお支払いいただけます。</code></span><br>
+<em>Kochira no kyūāru kōdo de oshiharai itadakemasu.</em><br>
 You can pay using this QR code.
-
-
-スマートフォンのカメラでQRコードをお読み取りください。
-<small>*Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>スマートフォンのカメラでQRコードをお読み取りください。</code></span><br>
+<em>Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.</em><br>
 Please scan the QR code with your smartphone camera.
-
-
-お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。
-<small>*Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。</code></span><br>
+<em>Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.</em><br>
 Once you have confirmed the payment amount in the app, please proceed with the payment.
-
+</div>
 
 ## Related Expressions
 

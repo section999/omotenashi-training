@@ -8,20 +8,21 @@ title: 無料 (muryou)
 
 Staff use 無料 proactively when describing complimentary services: 「朝食は無料でご提供しております」 (breakfast is provided free of charge) or 「駐車場は無料でございます」 (the parking lot is complimentary). When a guest asks whether something costs money, a clear 「無料でございます」 is the ideal response: short, formal, and reassuring. The contrast with 有料 (chargeable) is something staff need to have sorted before starting a shift. Knowing which services are free and which are not from memory is part of performing the job effectively
 
-当ホテルのWi-Fiは全館無料でご利用いただけます。
-<small>*Tou hoteru no waifai wa zenkan muryou de go-riyou itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>当ホテルのWi-Fiは全館無料でご利用いただけます。</code></span><br>
+<em>Tou hoteru no waifai wa zenkan muryou de go-riyou itadakemasu.</em><br>
 Wi-Fi at our hotel is available free of charge throughout the entire building.
-
-
-ロビーのコーヒーは無料にてご提供しております。どうぞご自由にお召し上がりください。
-<small>*Robii no koohii wa muryou nite go-teikyou shite orimasu. Douzo go-jiyuu ni o-meshi-agari kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ロビーのコーヒーは無料にてご提供しております。どうぞご自由にお召し上がりください。</code></span><br>
+<em>Robii no koohii wa muryou nite go-teikyou shite orimasu. Douzo go-jiyuu ni o-meshi-agari kudasai.</em><br>
 The coffee in the lobby is provided complimentary. Please help yourself freely.
-
-
-空港シャトルバスのご利用は無料でございますが、事前のご予約が必要でございます。
-<small>*Kuukou shatorubasu no go-riyou wa muryou de gozaimasu ga, jizen no go-yoyaku ga hitsuyou de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>空港シャトルバスのご利用は無料でございますが、事前のご予約が必要でございます。</code></span><br>
+<em>Kuukou shatorubasu no go-riyou wa muryou de gozaimasu ga, jizen no go-yoyaku ga hitsuyou de gozaimasu.</em><br>
 The airport shuttle bus is complimentary, but advance reservation is required.
-
+</div>
 
 ## Related Expressions
 

@@ -7,20 +7,21 @@ title: 緊急 (kinkyuu)
 
 緊急 appears in internal announcements, emergency manuals, signage above telephone panels, and staff radio communications. It is always used with a sense of gravity; saying 緊急 without a genuine emergency is a breach of professional conduct. Pairing it with specific follow-up instructions (evacuate, call the front desk, stop what one is doing) ensures guests understand not just the severity but the expected response
 
-緊急の場合はすぐにフロントに連絡してください。
-<small>*Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>緊急の場合はすぐにフロントに連絡してください。</code></span><br>
+<em>Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.</em><br>
 In case of an emergency, please contact the front desk immediately.
-
-
-緊急事態が発生しましたので、お客様は落ち着いてスタッフの指示に従ってください。
-<small>*Kinkyuu jitai ga hassei shimashita no de, okyakusama wa ochitsuite sutaffu no shiji ni shitagatte kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>緊急事態が発生しましたので、お客様は落ち着いてスタッフの指示に従ってください。</code></span><br>
+<em>Kinkyuu jitai ga hassei shimashita no de, okyakusama wa ochitsuite sutaffu no shiji ni shitagatte kudasai.</em><br>
 An emergency has occurred, so guests please remain calm and follow staff instructions.
-
-
-緊急時の連絡先は客室のインフォメーションブックに記載されています。
-<small>*Kinkyuu ji no renrakusaki wa kyakushitsu no infomēshon bukku ni kisai sarete imasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>緊急時の連絡先は客室のインフォメーションブックに記載されています。</code></span><br>
+<em>Kinkyuu ji no renrakusaki wa kyakushitsu no infomēshon bukku ni kisai sarete imasu.</em><br>
 Emergency contact numbers are listed in the in-room information book.
-
+</div>
 
 ## Related Expressions
 

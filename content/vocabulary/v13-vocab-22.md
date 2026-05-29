@@ -8,20 +8,21 @@ title: 担当 (tantou)
 
 The idea of 担当 goes deep into how Japanese hotels organise their teams. Staff can be 担当 for a particular floor, a VIP arrival, a recurring task like supply ordering, or a single large event. When staff need to reach the right person, the standard question is 担当の方はどなたですか (tantou no kata wa donata desu ka, "who is the person in charge?"). Being appointed as 担当 carries real weight in Japanese professional culture -- once one is the 担当, one is expected to see the matter through to the end and report back when it is resolved. A common error is to underestimate how much responsibility is implied by that staff word
 
-お客様のご担当をさせていただきます、コンシェルジュの田中と申します。
-<small>*Okyaku-sama no go-tantou wo sasete itadakimasu, konshieruju no Tanaka to moushimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>お客様のご担当をさせていただきます、コンシェルジュの田中と申します。</code></span><br>
+<em>Okyaku-sama no go-tantou wo sasete itadakimasu, konshieruju no Tanaka to moushimasu.</em><br>
 My name is Tanaka from concierge, and I will be the one in charge of assisting you.
-
-
-本件のご担当者様にお取り次ぎいたします。少々お待ちください。
-<small>*Honken no go-tantousha-sama ni o-toritsugii itashimasu. Shoushou o-machi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>本件のご担当者様にお取り次ぎいたします。少々お待ちください。</code></span><br>
+<em>Honken no go-tantousha-sama ni o-toritsugii itashimasu. Shoushou o-machi kudasai.</em><br>
 I will connect you with the person in charge of this matter. Please wait a moment.
-
-
-彼女はVIPのお客様の担当として、滞在中ずっとサポートいたしました。
-<small>*Kanojo wa VIP no okyaku-sama no tantou to shite, taizai-chuu zutto sapooto itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>彼女はVIPのお客様の担当として、滞在中ずっとサポートいたしました。</code></span><br>
+<em>Kanojo wa VIP no okyaku-sama no tantou to shite, taizai-chuu zutto sapooto itashimashita.</em><br>
 She served as the designated staff member for the VIP guest, supporting them throughout their stay.
-
+</div>
 
 ## Related Expressions
 

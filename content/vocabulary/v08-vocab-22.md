@@ -7,20 +7,21 @@ title: 遠くに (tooku ni)
 
 遠くに is useful when guests ask about destinations and staff need to manage their expectations: あいにく、その神社はここから遠くにございます。バスでお越しいただくことをお勧めいたします (unfortunately, that shrine is far from here; we recommend taking the bus). The word also appears in scenic descriptions at ryokan: 遠くに富士山がご覧いただけます (staff can see Mt. Fuji in the distance), a use that shifts the nuance from logistical warning to poetic appreciation of the view
 
-山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。
-<small>*Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。</code></span><br>
+<em>Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.</em><br>
 The mountain can be seen far away from the hotel. On a clear day one can see it particularly well.
-
-
-あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。
-<small>*Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。</code></span><br>
+<em>Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.</em><br>
 Unfortunately, that museum is far from the station. We recommend taking a taxi.
-
-
-徒歩では遠くにございますので、シャトルバスのご利用はいかがでしょうか。
-<small>*Toho de wa tooku ni gozaimasu node, shatorubasu no goriyou wa ikaga deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>徒歩では遠くにございますので、シャトルバスのご利用はいかがでしょうか。</code></span><br>
+<em>Toho de wa tooku ni gozaimasu node, shatorubasu no goriyou wa ikaga deshou ka.</em><br>
 It is too far to walk, so would you consider using our shuttle bus?
-
+</div>
 
 ## Related Expressions
 

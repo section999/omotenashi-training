@@ -7,20 +7,21 @@ title: 石鹸 (sekken)
 
 When a guest asks for more 石鹸, staff should respond promptly with polite, humble language and bring it directly to the room. Some properties use liquid dispensers rather than bars, and staff should know the right terminology (液体石鹸, ekitai sekken) and be comfortable with the refill procedure. International guests sometimes make the request by gesture or in English, so being ready to recognize what they are asking for and respond appropriately is a useful skill
 
-バスルームには石鹸をご用意しております。
-<small>*Basurumu ni wa sekken wo goyo'i shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>バスルームには石鹸をご用意しております。</code></span><br>
+<em>Basurumu ni wa sekken wo goyo'i shite orimasu.</em><br>
 Soap is provided in the bathroom.
-
-
-石鹸をお持ちいたします。少々お待ちいただけますでしょうか。
-<small>*Sekken wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>石鹸をお持ちいたします。少々お待ちいただけますでしょうか。</code></span><br>
+<em>Sekken wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.</em><br>
 I will bring you soap. Would you mind waiting just a moment?
-
-
-新しい石鹸をバスルームのシンク横にご用意いたしました。
-<small>*Atarashii sekken wo basurumu no shinku yoko ni goyo'i itashimashita.*</small>
+<br><br>
+<span class="keigo-jp"><code>新しい石鹸をバスルームのシンク横にご用意いたしました。</code></span><br>
+<em>Atarashii sekken wo basurumu no shinku yoko ni goyo'i itashimashita.</em><br>
 I have placed a fresh bar of soap next to the bathroom sink.
-
+</div>
 
 ## Related Expressions
 

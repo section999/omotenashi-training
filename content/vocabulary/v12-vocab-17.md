@@ -8,20 +8,21 @@ title: 病院 (byouin)
 
 For international guests, walking into a Japanese 病院 can be daunting. Language barriers, unfamiliar administrative procedures, and a different approach to triage all add stress to an already difficult situation. That is where staff can provide valuable support. Written directions with the address in the guest's language, taxi arrangements, calling ahead to explain the guest's condition, or in serious cases, accompanying the guest are all appropriate actions. A common error is to simply hand over an address and consider the job done. Proactively offering transport and a phone call to the hospital goes further. Staff should also keep in mind the emergency numbers: 119 for ambulance and fire, 110 for police. International guests often assume the system works like their home country's, so direct explanation is helpful
 
-最寄りの病院までの地図をご用意いたします。
-<small>*Moyori no byouin made no chizu wo goyoui itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>最寄りの病院までの地図をご用意いたします。</code></span><br>
+<em>Moyori no byouin made no chizu wo goyoui itashimasu.</em><br>
 I will prepare a map to the nearest hospital for you.
-
-
-緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。
-<small>*Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.*</small>
+<br><br>
+<span class="keigo-jp"><code>緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。</code></span><br>
+<em>Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.</em><br>
 In an emergency, we will take you to the hospital right away. Shall I arrange a taxi?
-
-
-外国語対応の病院をご案内することも可能でございます。
-<small>*Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>外国語対応の病院をご案内することも可能でございます。</code></span><br>
+<em>Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.</em><br>
 We are also able to direct you to hospitals that offer services in foreign languages.
-
+</div>
 
 ## Related Expressions
 

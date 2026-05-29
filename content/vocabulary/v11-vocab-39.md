@@ -8,20 +8,21 @@ title: もう一度お願いします (mouichido onegai shimasu)
 
 The phrase is most effective when framed with a polite apology at the front and a read-back confirmation at the back: 恐れ入りますが、もう一度おっしゃっていただけますか, and then once the caller repeats the information, confirming it back with ご確認のために繰り返させていただきます. That loop of request, repeat, and read-back is how professional telephone handling prevents errors. Luxury hotel settings call for the more refined form もう一度おっしゃっていただけますでしょうか because it uses the honorific verb おっしゃる for the guest's speech and the softened conditional ending for additional politeness
 
-恐れ入りますが、もう一度お願いします。お名前をはっきりお聞かせいただけますか。
-<small>*Osore irimasu ga, mouichido onegai shimasu. Onamae wo hakkiri okikase itadakemasu ka.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>恐れ入りますが、もう一度お願いします。お名前をはっきりお聞かせいただけますか。</code></span><br>
+<em>Osore irimasu ga, mouichido onegai shimasu. Onamae wo hakkiri okikase itadakemasu ka.</em><br>
 I beg your pardon, but could I ask you once more? Could you please tell me your name clearly?
-
-
-申し訳ございません、チェックイン日をもう一度お願いします。
-<small>*Moushiwake gozaimasen, chekkuin bi wo mouichido onegai shimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>申し訳ございません、チェックイン日をもう一度お願いします。</code></span><br>
+<em>Moushiwake gozaimasen, chekkuin bi wo mouichido onegai shimasu.</em><br>
 I sincerely apologize: could you please repeat your check-in date once more?
-
-
-恐れ入りますが、もう一度おっしゃっていただけますでしょうか。確認のため復唱いたします。
-<small>*Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>恐れ入りますが、もう一度おっしゃっていただけますでしょうか。確認のため復唱いたします。</code></span><br>
+<em>Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.</em><br>
 I'm very sorry to trouble you, but could you say that once more? I will read it back for confirmation.
-
+</div>
 
 ## Related Expressions
 

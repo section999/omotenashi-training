@@ -8,20 +8,21 @@ title: レストラン (resutoran)
 
 When guests ask about dining, staff should be ready with operating hours, current availability, and reservation requirements. If the hotel has multiple dining outlets, staff should be specific about which one is being described. The most important factor, however, is how the information is delivered. The phrase レストランはこちらでございます, delivered with a proper guiding gesture and warmth, makes a guest feel personally accompanied rather than redirected. That difference, between pointing and guiding, between saying words and serving, is what hospitality training is about.
 
-レストランはフロントを出て、左手にございます。
-<small>*Resutoran wa furonto wo dete, hidarite ni gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>レストランはフロントを出て、左手にございます。</code></span><br>
+<em>Resutoran wa furonto wo dete, hidarite ni gozaimasu.</em><br>
 The restaurant is on your left as one exit the front desk.
-
-
-本日のレストランの営業時間は18時から22時までとなっております。
-<small>*Honjitsu no resutoran no eigyou jikan wa juuhachi-ji kara nijuuni-ji made to natte orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>本日のレストランの営業時間は18時から22時までとなっております。</code></span><br>
+<em>Honjitsu no resutoran no eigyou jikan wa juuhachi-ji kara nijuuni-ji made to natte orimasu.</em><br>
 Today's restaurant hours are from 6:00 p.m. to 10:00 p.m.
-
-
-ご夕食はホテル内のレストランをぜひご利用くださいませ。
-<small>*Go-yuushoku wa hoteru-nai no resutoran wo zehi go-riyou kudasaimase.*</small>
+<br><br>
+<span class="keigo-jp"><code>ご夕食はホテル内のレストランをぜひご利用くださいませ。</code></span><br>
+<em>Go-yuushoku wa hoteru-nai no resutoran wo zehi go-riyou kudasaimase.</em><br>
 We warmly invite you to enjoy dinner at the hotel restaurant.
-
+</div>
 
 ## Related Expressions
 

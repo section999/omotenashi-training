@@ -7,20 +7,21 @@ title: 評価 (hyouka)
 
 Staff evaluations in Japanese hotels typically follow a regular cycle -- monthly, quarterly, or annual -- and usually combine quantitative metrics (room-cleaning completion rates, complaint resolution times) with qualitative assessments (attitude, communication, attentiveness to guest needs). Guest-facing 評価 comes largely through アンケート (anketto, questionnaires) or online review scores, and these results are shared openly with staff to connect daily behaviour to real guest satisfaction. Managers tend to open evaluation conversations with「フィードバックをお伝えします」(fiido-bakku wo ootsutae shimasu, "I will share some feedback"), which frames what follows as supportive rather than critical. Staff find this framing helpful because it signals the tone of the exchange before it begins
 
-今月のサービス品質評価の結果をスタッフ全員と共有いたします。
-<small>*Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>今月のサービス品質評価の結果をスタッフ全員と共有いたします。</code></span><br>
+<em>Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.</em><br>
 We will share the results of this month's service quality evaluation with all staff.
-
-
-お客様からの評価が高まっているのは、皆様の日々の努力の成果です。
-<small>*Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様からの評価が高まっているのは、皆様の日々の努力の成果です。</code></span><br>
+<em>Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.</em><br>
 The improvement in our guests' evaluations is a result of everyyour daily efforts.
-
-
-定期的な評価を通じて、各スタッフの成長をサポートしてまいります。
-<small>*Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>定期的な評価を通じて、各スタッフの成長をサポートしてまいります。</code></span><br>
+<em>Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.</em><br>
 We will continue to support the growth of each staff member through regular evaluations.
-
+</div>
 
 ## Related Expressions
 

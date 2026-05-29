@@ -8,20 +8,21 @@ title: 通報 (tsuuhou)
 
 Japanese staff are trained to give structured information when making a 通報 call: the type of emergency, the hotel's full address (written down and available at every station), the specific floor and room number, the number of people affected, and whether hazardous materials are involved. For international staff, Japan's emergency numbers differ from many other countries: 119 connects to fire and ambulance, while 110 connects to police. This differs from the 911 system, and international guests often need to be told directly. After a 通報 is made, a record must be entered into the hotel's emergency log right away, including the time of the call, which authority was contacted, and exactly what information was relayed
 
-火災を発見次第、ただちに消防署に通報してください。
-<small>*Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>火災を発見次第、ただちに消防署に通報してください。</code></span><br>
+<em>Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.</em><br>
 Upon discovering a fire, report it to the fire department immediately.
-
-
-スタッフは緊急時には119番に通報する手順を熟知しています。
-<small>*Sutaffu wa kinkyuu ji ni wa hyakujuukyuuban ni tsuuhou suru tejun wo jukuchi shite imasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>スタッフは緊急時には119番に通報する手順を熟知しています。</code></span><br>
+<em>Sutaffu wa kinkyuu ji ni wa hyakujuukyuuban ni tsuuhou suru tejun wo jukuchi shite imasu.</em><br>
 Staff are thoroughly familiar with the procedure for reporting emergencies to 119.
-
-
-不審者を発見した場合は、直ちに警察に通報するとともに、支配人に報告してください。
-<small>*Fushinsya wo hakken shita baai wa, tadachi ni keisatsu ni tsuuhou suru to tomo ni, shihainin ni houkoku shite kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>不審者を発見した場合は、直ちに警察に通報するとともに、支配人に報告してください。</code></span><br>
+<em>Fushinsya wo hakken shita baai wa, tadachi ni keisatsu ni tsuuhou suru to tomo ni, shihainin ni houkoku shite kudasai.</em><br>
 If you discover a suspicious individual, report to the police immediately and notify the manager.
-
+</div>
 
 ## Related Expressions
 

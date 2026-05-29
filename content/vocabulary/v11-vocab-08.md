@@ -8,20 +8,21 @@ title: 担当部署 (tantou busho)
 
 When transferring a caller, the 担当部署 should be named first. Saying 予約担当部署におつなぎいたします tells the guest exactly who will pick up and gives them confidence. Compare that with saying 転送いたします: one shows the staff member understood the guest's need, while the other sounds like simply passing the call along. Guests who hear a specific department name tend to relax, because it tells them someone with the right expertise is waiting
 
-この件はレストランの担当部署にご確認いただく必要がございます。
-<small>*Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>この件はレストランの担当部署にご確認いただく必要がございます。</code></span><br>
+<em>Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.</em><br>
 This matter will need to be confirmed with the restaurant department.
-
-
-宴会担当部署にお電話をおつなぎいたします。
-<small>*Enkai tantō busho ni odenwa wo otsunagi itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>宴会担当部署にお電話をおつなぎいたします。</code></span><br>
+<em>Enkai tantō busho ni odenwa wo otsunagi itashimasu.</em><br>
 I will transfer your call to the banquet department.
-
-
-担当部署より折り返しご連絡いたします。
-<small>*Tantō busho yori orikaeshi gorenraku itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>担当部署より折り返しご連絡いたします。</code></span><br>
+<em>Tantō busho yori orikaeshi gorenraku itashimasu.</em><br>
 The department in charge will call you back.
-
+</div>
 
 ## Related Expressions
 

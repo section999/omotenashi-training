@@ -7,19 +7,21 @@ title: 観光地 (kankouchi)
 
 Beyond basic recommendations, good hospitality staff understand the seasonal dynamics of local 観光地. Cherry blossom season transforms certain spots into something magical, autumn foliage does the same for others, and summer festivals draw crowds to specific shrines and parks. Knowing peak visiting times allows staff to advise guests on when to arrive to beat the crowds, how long to allow, and which lesser-known spots nearby might be equally rewarding with a fraction of the queue. That level of local expertise is what turns a hotel or ryokan into a trusted gateway to the region, not just a place to sleep
 
-近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。
-<small>*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。</code></span><br>
+<em>Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.</em><br>
 We provide guided access to nearby tourist spots via our complimentary hotel shuttle.
-
-
-このあたりの観光地をまとめたマップを無料でお配りしております。
-<small>*Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>このあたりの観光地をまとめたマップを無料でお配りしております。</code></span><br>
+<em>Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.</em><br>
 We offer a free map featuring the tourist spots in this area.
-
-
-観光地によっては入場料が必要な場合がございますので、事前にご確認ください。
-<small>*Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>観光地によっては入場料が必要な場合がございますので、事前にご確認ください。</code></span><br>
+<em>Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.</em><br>
 Some tourist spots have an admission fee, so please check in advance.
+</div>
 
 ## Related Expressions
 

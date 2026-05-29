@@ -7,20 +7,21 @@ title: 翻訳 (hon'yaku)
 
 machine translation tools can produce serviceable first drafts, but any 翻訳 that goes in front of a guest should be reviewed by a person with native proficiency before it is printed or sent. Hotels that handle a lot of international guests typically maintain a library of pre-approved 翻訳 documents for the most common situations, which saves time and keeps quality consistent. If a guest brings in a personal document and asks for 翻訳 help, a contract or a prescription for example, the appropriate approach is to refer them to a professional translation service rather than attempting an informal version that could be misread
 
-こちらのメニューを英語に翻訳したものもご用意しております。
-<small>*Kochira no menyuu wo eigo ni hon'yaku shita mono mo go-youi shite orimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>こちらのメニューを英語に翻訳したものもご用意しております。</code></span><br>
+<em>Kochira no menyuu wo eigo ni hon'yaku shita mono mo go-youi shite orimasu.</em><br>
 We also have a version of this menu translated into English.
-
-
-重要なお知らせにつきましては、正確な翻訳をご提供いたします。
-<small>*Juuyou na oshirase ni tsukimashite wa, seikaku na hon'yaku wo go-teikyou itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>重要なお知らせにつきましては、正確な翻訳をご提供いたします。</code></span><br>
+<em>Juuyou na oshirase ni tsukimashite wa, seikaku na hon'yaku wo go-teikyou itashimasu.</em><br>
 For important notices, we will provide accurate translations.
-
-
-書類の翻訳が必要でございましたら、専門の翻訳者をご紹介いたします。
-<small>*Shorui no hon'yaku ga hitsuyou de gozaimashitara, senmon no hon'yakusha wo goshoukai itashimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>書類の翻訳が必要でございましたら、専門の翻訳者をご紹介いたします。</code></span><br>
+<em>Shorui no hon'yaku ga hitsuyou de gozaimashitara, senmon no hon'yakusha wo goshoukai itashimasu.</em><br>
 If you need a document translated, we will introduce you to a professional translator.
-
+</div>
 
 ## Related Expressions
 

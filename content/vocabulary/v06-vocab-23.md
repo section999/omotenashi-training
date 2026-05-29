@@ -8,20 +8,21 @@ title: 対応 (taiou)
 
 In daily operations, staff will use 対応 broadly. It covers handling complaints (「クレームに対応する」), responding to room service requests (「ルームサービスの対応」), managing emergencies (「緊急対応」), and coordinating between departments (「フロントが対応いたします」). The phrase 「迅速に対応いたします」 is a commitment to both action and speed simultaneously. Following up once the task is done (「対応が完了いたしました」) closes the loop and shows the guest that staff followed through
 
-ご不便をおかけして申し訳ございません。迅速に対応いたします。
-<small>*Go-fuben wo okake shite moushiwake gozaimasen. Jinsoku ni taiou itashimasu.*</small>
+## Example Sentences
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご不便をおかけして申し訳ございません。迅速に対応いたします。</code></span><br>
+<em>Go-fuben wo okake shite moushiwake gozaimasen. Jinsoku ni taiou itashimasu.</em><br>
 We apologize for the inconvenience. We will respond promptly.
-
-
-ただいま担当者が対応いたしますので、少々お待ちください。
-<small>*Tadaima tantousha ga taiou itashimasu no de, shoushou o-machi kudasai.*</small>
+<br><br>
+<span class="keigo-jp"><code>ただいま担当者が対応いたしますので、少々お待ちください。</code></span><br>
+<em>Tadaima tantousha ga taiou itashimasu no de, shoushou o-machi kudasai.</em><br>
 The person in charge will handle this now, so please wait just a moment.
-
-
-お客様のご要望には、フロントスタッフが24時間対応しております。
-<small>*O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.*</small>
+<br><br>
+<span class="keigo-jp"><code>お客様のご要望には、フロントスタッフが24時間対応しております。</code></span><br>
+<em>O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.</em><br>
 Our front desk staff is available to respond to your requests 24 hours a day.
-
+</div>
 
 ## Related Expressions
 
