@@ -98,7 +98,7 @@
     .section-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
     .section-body table { display: table; width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; }
     .section-body th { background: rgba(255,255,255,0.04); text-align: center; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); white-space: nowrap; }
-    .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); color: #fff; text-align: center; }
+    .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); color: #fff; text-align: left; }
     @media (max-width: 640px) {
       .section-body table { font-size: 0.875rem; }
       .section-body th { padding: 6px 10px; white-space: normal; }
@@ -1519,7 +1519,7 @@ function handleQuizCheck(btn) {
       opts[qData.correct].classList.add('correct');
       btn.disabled = true;
       fb.className = 'quiz-feedback ok';
-      fb.textContent = '✓ Correct!';
+      fb.innerHTML = '✓ Correct!' + (qData.exp ? '<div style="margin-top:8px;font-size:0.88rem;line-height:1.5;opacity:0.9;">' + qData.exp + '</div>' : '');
       setTimeout(showCompletionModal, 600);
     } else {
       opts[sel].classList.add('wrong');
@@ -1707,81 +1707,6 @@ function selectOpt(el, qId) {
   el.classList.add('selected');
   document.getElementById(qId + '-btn').disabled = false;
 }
-function checkMCQ(qId, correct, exp) {
-  const opts = document.querySelectorAll(`#${qId}-opts .quiz-opt`);
-  let sel = -1;
-  opts.forEach((o, i) => { if (o.classList.contains('selected')) sel = i; });
-  if (sel < 0) return;
-  const fb = document.getElementById(qId + '-fb');
-  fb.style.display = 'block';
-  if (sel === correct) {
-    opts[correct].classList.add('correct');
-    document.getElementById(qId + '-btn').disabled = true;
-    fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct!';
-    setTimeout(showCompletionModal, 600);
-  } else {
-    opts[sel].classList.add('wrong');
-    fb.className = 'quiz-feedback err';
-    fb.textContent = '✗ Incorrect. Try again.';
-    opts[sel].classList.remove('wrong', 'selected');
-    document.getElementById(qId + '-btn').disabled = false;
-  }
-}
-function checkTF(btn, val, correct, exp) {
-  const quizEl = btn.closest('.section-quiz');
-  if (!quizEl) return;
-  const fb = quizEl.querySelector('.quiz-feedback');
-  if (!fb) return;
-  const allBtns = btn.closest('.tf-options');
-  if (!allBtns) return;
-  const btns = allBtns.querySelectorAll('.tf-btn');
-  fb.style.display = 'block';
-  if (val === correct) {
-    btns.forEach(b => b.disabled = true);
-    btn.classList.add('correct');
-    fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct!';
-    setTimeout(showCompletionModal, 600);
-  } else {
-    btn.classList.add('wrong');
-    fb.className = 'quiz-feedback err';
-    fb.textContent = '✗ Incorrect. Try again.';
-    setTimeout(() => {
-      btn.classList.remove('wrong');
-      fb.style.display = 'none';
-    }, 800);
-  }
-}
-function checkFITB(qId, answer, exp, extras) {
-  const input = document.getElementById(qId + '-input');
-  const fb = document.getElementById(qId + '-fb');
-  const val = input.value.trim();
-  if (!val) return;
-  const accepted = [answer, ...(extras || [])];
-  const romajiMatch = exp.match(/\(([a-zA-Z][^)]*)\)/);
-  if (romajiMatch) accepted.push(romajiMatch[1].trim());
-  const ok = accepted.some(a => val === a || val.toLowerCase() === a.toLowerCase());
-  fb.style.display = 'block';
-  if (ok) {
-    input.disabled = true;
-    const checkBtn = document.getElementById(qId + '-check');
-    if (checkBtn) checkBtn.disabled = true;
-    fb.className = 'quiz-feedback ok';
-    fb.textContent = '✓ Correct!';
-    setTimeout(showCompletionModal, 600);
-  } else {
-    fb.className = 'quiz-feedback err';
-    fb.textContent = '✗ Incorrect. Try again.';
-  }
-}
-function showModel(qId, a, exp) {
-  const ma = document.getElementById(qId + '-ma');
-  ma.style.display = 'block';
-  ma.innerHTML = `<strong>Model Answer</strong>${a}<br><br>${exp}`;
-  setTimeout(showCompletionModal, 600);
-}
-
 // ── MATCHING QUIZ ──────────────────────────────────────────────────────────────
 function checkMatch(qId) {
   var list = document.getElementById(qId + '-list')
@@ -1825,16 +1750,6 @@ function checkMatchSubmit(qId, exp) {
 }
 
 // ── ORDERING QUIZ ──────────────────────────────────────────────────────────────
-function orderUp(qId, i) {
-  if (i === 0) return
-  swapOrderItems(qId, i, i - 1)
-}
-function orderDown(qId, i) {
-  var list = document.getElementById(qId + '-list')
-  var items = list.querySelectorAll('.order-item')
-  if (i >= items.length - 1) return
-  swapOrderItems(qId, i, i + 1)
-}
 function swapOrderItems(qId, a, b) {
   var list = document.getElementById(qId + '-list')
   var items = list.querySelectorAll('.order-item')
@@ -1853,32 +1768,6 @@ function renumberOrder(qId) {
     if (dnBtn) { dnBtn.dataset.qid = qId; dnBtn.dataset.idx = i; dnBtn.dataset.dir = 'down' }
   })
 }
-function checkOrder(qId, correct, exp) {
-  var list = document.getElementById(qId + '-list')
-  if (!list) return
-  var items = list.querySelectorAll('.order-item')
-  var current = Array.from(items).map(function(el) { return parseInt(el.dataset.i) })
-  var ok = current.every(function(v, i) { return v === correct[i] })
-  var quizEl = list.closest('.section-quiz')
-  if (!quizEl) return
-  var fb = quizEl.querySelector('.quiz-feedback')
-  if (!fb) return
-  fb.style.display = 'block'
-  if (ok) {
-    items.forEach(function(el) { el.style.borderColor = '#2ecc71' })
-    fb.className = 'quiz-feedback ok'
-    fb.textContent = '✓ Correct order! ' + exp
-    setTimeout(showCompletionModal, 600)
-  } else {
-    items.forEach(function(el) { el.style.borderColor = '#c5442a' })
-    fb.className = 'quiz-feedback err'
-    fb.textContent = '✗ Incorrect order. Try again.'
-    setTimeout(function() {
-      items.forEach(function(el) { el.style.borderColor = '' })
-    }, 1200)
-  }
-}
-
 // ── JAPANESE TTS ──────────────────────────────────────────────────────────────
 let _toastTimer = null;
 let _activeSpeakEl = null;
@@ -2079,7 +1968,7 @@ function parseQuizMarkdown(raw) {
   }
 
   // Ordering: lines starting with `- ` or `* ` when no MCQ prefix
-  const orderLines = lines.filter(l => /^- /.test(l) && !/^-[A-D]\./.test(l));
+  const orderLines = lines.filter(l => /^- /.test(l) && !/^- [A-D]\./.test(l));
   if (orderLines.length >= 2) {
     const items = orderLines.map(l => l.replace(/^- /, '').trim());
     return { type: 'order', q, opts: items, correct: items.map(function(_, i) { return i; }), exp };
@@ -3241,8 +3130,8 @@ async function render() {
 
   // Wrap Japanese terms in table first-cells with clickable speak spans
   bodyHtml = bodyHtml.replace(
-    /<td>([\u3040-\u30ff\u3400-\u9fff\uff00-\uffef\u3000-\u303f\u30a0-\u30ff\u3005]+)<br>/g,
-    '<td><span class="jp-speak">$1</span><br>'
+    /<td>([\u3040-\u30ff\u3400-\u9fff\uff00-\uffef\u3000-\u303f\u30a0-\u30ff\u3005]+)(<br>|<\/td>)/g,
+    '<td><span class="jp-speak">$1</span>$2'
   );
 
   const stepIndicator = (sectionNum && total)
