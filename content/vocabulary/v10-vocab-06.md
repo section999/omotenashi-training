@@ -25,9 +25,10 @@ Would you like to review the itemized charges before we finalize the bill?
 
 ## Related Expressions
 
-- **チェックアウト (chekkuauto)**: checkout; 精算 typically happens as part of the checkout process, but it can also occur mid-stay for partial billing or conference billing when a group requires interim settlement.
-- **内訳 (uchiwake)**: itemized breakdown; reviewing the 内訳 is the step that comes just before finalizing the 精算. They function as a natural pair -- one leads directly to the other.
-
+| Expression | Description |
+|---|---|
+| チェックアウト<br>chekkuauto | checkout; 精算 typically happens as part of the checkout process, but it can also occur mid-stay for partial billing or conference billing when a group requires interim settlement. |
+| 内訳<br>uchiwake | itemized breakdown; reviewing the 内訳 is the step that comes just before finalizing the 精算. They function as a natural pair -- one leads directly to the other. |
 
 ## Common Mistakes
 

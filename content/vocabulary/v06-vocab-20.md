@@ -25,9 +25,10 @@ If you wish to have a late check-out, an additional charge will apply.
 
 ## Related Expressions
 
-- **無料 (muryou)**: the direct opposite, meaning free of charge. Staff need to be equally comfortable with both terms because a single check-in briefing may require both: Wi-Fi is 無料, but room service is 有料.
-- **別途料金 (betto ryoukin)**: meaning "separate or additional charge," used when a base service is included but an add-on carries an extra cost. It is more specific than 有料 alone and is the appropriate phrase when a guest might reasonably assume an extension of an already-paid service is covered.
-
+| Expression | Description |
+|---|---|
+| 無料<br>muryou | the direct opposite, meaning free of charge. Staff need to be equally comfortable with both terms because a single check-in briefing may require both: Wi-Fi is 無料, but room service is 有料. |
+| 別途料金<br>betto ryoukin | meaning "separate or additional charge," used when a base service is included but an add-on carries an extra cost. It is more specific than 有料 alone and is the appropriate phrase when a guest might reasonably assume an extension of an already-paid service is covered. |
 
 ## Common Mistakes
 

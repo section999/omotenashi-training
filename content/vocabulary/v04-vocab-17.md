@@ -25,17 +25,14 @@ Please use the dedicated cleaner for stubborn stains.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">破損 (hason)</span> Physical damage to an object or fixture. While 汚れ refers to surface-level soiling that can usually be cleaned, 破損 implies structural or material damage requiring repair or replacement: the two must be distinguished when filing incident reports.
-<br><br>
-<span class="keigo-badge info">清掃 (seisou)</span> The act of cleaning. 清掃 is the formal term for the cleaning process staff carry out in response to 汚れ; knowing both words together allows staff to form complete, professional statements about the problem and its solution.
-</div>
+| Expression | Description |
+|---|---|
+| 破損<br>hason | Physical damage to an object or fixture. While 汚れ refers to surface-level soiling that can usually be cleaned, 破損 implies structural or material damage requiring repair or replacement: the two must be distinguished when filing incident reports. |
+| 清掃<br>seisou | The act of cleaning. 清掃 is the formal term for the cleaning process staff carry out in response to 汚れ; knowing both words together allows staff to form complete, professional statements about the problem and its solution. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is reaching for 汚い (kitanai: dirty/filthy) when speaking to guests. That word is an adjective with a blunter, more negative feel that can sound accusatory. 汚れ as a noun is neutral and professional, the appropriate choice in any guest-facing context. Another error is identifying a 汚れ without pairing it with action: saying 汚れがあります (there is a stain) without following up sounds passive and unhelpful. Staff should always add 清掃いたします or 対応いたします. When reporting to a guest, staff should avoid going into excessive detail about what the stain looks like, keeping it brief and moving straight to the solution.
-</div>
 
 ---
 

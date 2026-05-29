@@ -25,9 +25,10 @@ Upon checking the situation you reported, we found that the repair had already b
 
 ## Related Expressions
 
-- **調べます (shirabemasu)**: means "I will look into it" or "I will investigate," with a broader, more exploratory nuance. While 確認します verifies something that is expected to exist (a reservation, a room status), 調べます suggests gathering new information from scratch. For guests, 確認します tends to feel more reassuring because it implies the answer is already retrievable.
-- **チェックします (chekku shimasu)**: a loanword equivalent meaning "I will check," comfortable in casual team conversations but too informal for direct guest interactions. When speaking with guests, the fully Japanese 確認いたします carries more weight and deliberateness.
-
+| Expression | Description |
+|---|---|
+| 調べます<br>shirabemasu | means "I will look into it" or "I will investigate," with a broader, more exploratory nuance. While 確認します verifies something that is expected to exist (a reservation, a room status), 調べます suggests gathering new information from scratch. For guests, 確認します tends to feel more reassuring because it implies the answer is already retrievable. |
+| チェックします<br>chekku shimasu | a loanword equivalent meaning "I will check," comfortable in casual team conversations but too informal for direct guest interactions. When speaking with guests, the fully Japanese 確認いたします carries more weight and deliberateness. |
 
 ## Common Mistakes
 

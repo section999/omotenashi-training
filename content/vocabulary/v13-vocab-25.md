@@ -25,9 +25,10 @@ We plan to complete the venue verification check one hour before the banquet beg
 
 ## Related Expressions
 
-- **チェックリスト (chekku risuto)**: the checklist used to structure 確認作業, making sure every verification step is completed in the right order and nothing is missed
-- **ダブルチェック (daburu chekku)**: double-checking, where a second staff member independently verifies the same task; standard practice for financial transactions and VIP room preparations
-
+| Expression | Description |
+|---|---|
+| チェックリスト<br>chekku risuto | the checklist used to structure 確認作業, making sure every verification step is completed in the right order and nothing is missed |
+| ダブルチェック<br>daburu chekku | double-checking, where a second staff member independently verifies the same task; standard practice for financial transactions and VIP room preparations |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ If you leave your towels on the floor, we will replace them with fresh ones duri
 
 ## Related Expressions
 
-- **シーツ交換 (shiitsu koukan)**: bed sheet change; related but distinct from タオル交換, so make sure guests and staff are clear about which service is being requested or fulfilled.
-- **アメニティ補充 (ameniti hojuu)**: amenity replenishment; covers a broader set of bathroom supplies and is often carried out at the same time as タオル交換 during room servicing.
-
+| Expression | Description |
+|---|---|
+| シーツ交換<br>shiitsu koukan | bed sheet change; related but distinct from タオル交換, so make sure guests and staff are clear about which service is being requested or fulfilled. |
+| アメニティ補充<br>ameniti hojuu | amenity replenishment; covers a broader set of bathroom supplies and is often carried out at the same time as タオル交換 during room servicing. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ We are also able to direct you to hospitals that offer services in foreign langu
 
 ## Related Expressions
 
-- **救急病院 (kyuukyuu byouin)**: emergency hospital; a facility specifically equipped for critical and life-threatening cases, operating 24 hours a day. Every hotel should have at least one identified in advance for their local area.
-- **診療所 (shinryoujo)**: clinic or small medical office; the appropriate referral for minor illnesses and non-urgent injuries. Knowing the difference between this and a full 病院 helps one direct guests to the right level of care.
-
+| Expression | Description |
+|---|---|
+| 救急病院<br>kyuukyuu byouin | emergency hospital; a facility specifically equipped for critical and life-threatening cases, operating 24 hours a day. Every hotel should have at least one identified in advance for their local area. |
+| 診療所<br>shinryoujo | clinic or small medical office; the appropriate referral for minor illnesses and non-urgent injuries. Knowing the difference between this and a full 病院 helps one direct guests to the right level of care. |
 
 ## Common Mistakes
 

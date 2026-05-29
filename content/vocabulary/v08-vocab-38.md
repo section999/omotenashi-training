@@ -25,9 +25,10 @@ This safety card shows the emergency exits and evacuation routes for each floor 
 
 ## Related Expressions
 
-- **非常口 (hijouguchi)**: the official regulatory term for emergency exit, dominant on standardized Japanese safety signs; 緊急出口 tends to appear more in spoken instruction and international-facing contexts
-- **避難経路 (hinan keiro)**: the full evacuation path from any room all the way to the 緊急出口 and beyond; always communicate both together so guests have the complete picture, not just the destination
-
+| Expression | Description |
+|---|---|
+| 非常口<br>hijouguchi | the official regulatory term for emergency exit, dominant on standardized Japanese safety signs; 緊急出口 tends to appear more in spoken instruction and international-facing contexts |
+| 避難経路<br>hinan keiro | the full evacuation path from any room all the way to the 緊急出口 and beyond; always communicate both together so guests have the complete picture, not just the destination |
 
 ## Common Mistakes
 

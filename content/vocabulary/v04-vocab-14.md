@@ -25,17 +25,14 @@ During cleaning, we carefully vacuum the floor of the room using a vacuum cleane
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">モップ (moppu)</span> Mop; used for wet-cleaning hard floor surfaces where a vacuum cleaner is not appropriate: the two tools address different floor types and soil conditions.
-<br><br>
-<span class="keigo-badge info">ほうき (houki)</span> Broom; used for sweeping in outdoor or rough-surface areas; a more traditional tool that may appear in ryokan courtyards or garden paths.
-</div>
+| Expression | Description |
+|---|---|
+| モップ<br>moppu | Mop; used for wet-cleaning hard floor surfaces where a vacuum cleaner is not appropriate: the two tools address different floor types and soil conditions. |
+| ほうき<br>houki | Broom; used for sweeping in outdoor or rough-surface areas; a more traditional tool that may appear in ryokan courtyards or garden paths. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 掃除機を使う is understandable but less natural in professional housekeeping speech. The standard expression is 掃除機をかける, meaning "to run the vacuum cleaner." Running the 掃除機 too quickly or carelessly produces missed areas and a poor result: technique and thoroughness matter as much as having the right tool. Standard vacuum attachments must never be used on tatami flooring: the surface is fragile and damage is irreversible.
-</div>
 
 ---
 

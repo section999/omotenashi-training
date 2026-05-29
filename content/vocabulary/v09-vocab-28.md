@@ -25,9 +25,10 @@ We are able to extend the stay in the same room tonight. The additional charge i
 
 ## Related Expressions
 
-- **レイトチェックアウト (reito chekkuauto)**: late checkout, a lighter form of extension where the guest keeps the room for a few extra hours rather than a full additional night. Subject to a surcharge in many cases, and handled through a separate process from overnight 延長.
-- **短縮 (tanshuku)**: the direct opposite of 延長, shortening a stay. Staff need to be familiar with both terms to handle the full range of duration-change requests a guest might bring to the desk.
-
+| Expression | Description |
+|---|---|
+| レイトチェックアウト<br>reito chekkuauto | late checkout, a lighter form of extension where the guest keeps the room for a few extra hours rather than a full additional night. Subject to a surcharge in many cases, and handled through a separate process from overnight 延長. |
+| 短縮<br>tanshuku | the direct opposite of 延長, shortening a stay. Staff need to be familiar with both terms to handle the full range of duration-change requests a guest might bring to the desk. |
 
 ## Common Mistakes
 

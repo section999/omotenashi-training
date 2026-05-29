@@ -23,8 +23,10 @@ Please be aware that if one has a large quantity of souvenirs, they may be subje
 
 ## Related Expressions
 
-- **税関申告書 (zeikan shinkokusho)**: the customs declaration form that travellers complete when arriving in Japan; this is the document guests will sometimes ask front desk staff about.
-- **免税 (menzei)**: duty-free or tax-exempt; a term guests encounter constantly at airport shops and tourist retail stores, and a term worth knowing so staff can explain it when asked.
+| Expression | Description |
+|---|---|
+| 税関申告書<br>zeikan shinkokusho | the customs declaration form that travellers complete when arriving in Japan; this is the document guests will sometimes ask front desk staff about. |
+| 免税<br>menzei | duty-free or tax-exempt; a term guests encounter constantly at airport shops and tourist retail stores, and a term worth knowing so staff can explain it when asked. |
 
 ## Common Mistakes
 

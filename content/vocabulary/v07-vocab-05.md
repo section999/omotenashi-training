@@ -26,18 +26,14 @@ I will mark the map and explain the route: would you mind giving me just a momen
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ご案内 (go-annai)</span> guidance or directions; often used alongside 地図 as in 「地図でご案内いたします」; can also refer to accompanying a guest physically to a destination, making it broader than the map alone.
-<br><br>
-<span class="keigo-badge info">目印 (mejirushi)</span> landmark; used when verbally explaining a route and pointing out reference points on a map (「この交差点が目印です」); essential for making directions actionable when map literacy varies among guests.
-</div>
-
+| Expression | Description |
+|---|---|
+| ご案内<br>go-annai | guidance or directions; often used alongside 地図 as in 「地図でご案内いたします」; can also refer to accompanying a guest physically to a destination, making it broader than the map alone. |
+| 目印<br>mejirushi | landmark; used when verbally explaining a route and pointing out reference points on a map (「この交差点が目印です」); essential for making directions actionable when map literacy varies among guests. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Handing over a map without orientation or annotation misses the relational quality that makes the interaction memorable. Vague language such as 「この辺です」 (it's around here) without marking the exact spot causes confusion and erodes trust. Assuming all guests can read Japanese map labels is a common error. Confirming whether the guest prefers a bilingual map is recommended, and reinforcing key points verbally regardless of which version is provided helps ensure clarity.
-</div>
 
 ---
 

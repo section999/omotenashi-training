@@ -26,17 +26,14 @@ The showerhead can be detached, so please use it freely.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">浴室 (yokushitsu)</span> The formal term for the entire bathroom or bathing room. While シャワー refers specifically to the shower appliance or act of showering, 浴室 encompasses the whole space including bath, sink, and shower. Staff use 浴室 in formal descriptions and brochures.
-<br><br>
-<span class="keigo-badge info">お風呂 (ofuro)</span> Refers to the bath, typically a soaking tub. Unlike シャワー (a quick rinse), お風呂 implies the Japanese cultural practice of a full soak, and in ryokan contexts the two are clearly differentiated in staff explanations.
-</div>
+| Expression | Description |
+|---|---|
+| 浴室<br>yokushitsu | The formal term for the entire bathroom or bathing room. While シャワー refers specifically to the shower appliance or act of showering, 浴室 encompasses the whole space including bath, sink, and shower. Staff use 浴室 in formal descriptions and brochures. |
+| お風呂<br>ofuro | Refers to the bath, typically a soaking tub. Unlike シャワー (a quick rinse), お風呂 implies the Japanese cultural practice of a full soak, and in ryokan contexts the two are clearly differentiated in staff explanations. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to use シャワー as a verb directly, saying 「シャワーしてください」, but the natural phrasing is 「シャワーをお使いください」 or 「シャワーをお浴びください」. Another common error is dropping polite forms when explaining room equipment. Staff should use ございます or でございます rather than plain です or ある forms. Confusing シャワー (shower) with お風呂 (bath) when responding to guest questions about bathing facilities is another common error, as the two are quite different in a Japanese hospitality context.
-</div>
 
 ---
 

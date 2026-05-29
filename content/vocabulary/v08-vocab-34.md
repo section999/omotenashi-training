@@ -25,9 +25,10 @@ Please refer to the guide map. The pool is on the south side of the hotel ground
 
 ## Related Expressions
 
-- **フロアマップ (furoamappu)**: A floor map focused on the spatial layout of a single floor. If 案内図 is the overview, フロアマップ is the detail view. Both are useful, and knowing when to reach for each is useful for concierge staff.
-- **地図 (chizu)**: A general map in the broad sense, including city maps and regional road maps. 案内図 is produced specifically by the facility for visitors; 地図 can mean any cartographic document. In a hotel context 案内図 is the more precise and natural word.
-
+| Expression | Description |
+|---|---|
+| フロアマップ<br>furoamappu | A floor map focused on the spatial layout of a single floor. If 案内図 is the overview, フロアマップ is the detail view. Both are useful, and knowing when to reach for each is useful for concierge staff. |
+| 地図<br>chizu | A general map in the broad sense, including city maps and regional road maps. 案内図 is produced specifically by the facility for visitors; 地図 can mean any cartographic document. In a hotel context 案内図 is the more precise and natural word. |
 
 ## Common Mistakes
 

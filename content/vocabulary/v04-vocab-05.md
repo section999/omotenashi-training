@@ -25,17 +25,14 @@ The trash can is here. There is also one provided in the bathroom.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ゴミ (gomi)</span> the trash itself; ゴミ箱 is the container that holds it, so be careful not to use the two words interchangeably when directing guests.
-<br><br>
-<span class="keigo-badge info">分別ボックス (bunbetsu bokkusu)</span> a recycling or sorting box found in eco-certified hotels where guests separate waste by category.
-</div>
+| Expression | Description |
+|---|---|
+| ゴミ<br>gomi | the trash itself; ゴミ箱 is the container that holds it, so be careful not to use the two words interchangeably when directing guests. |
+| 分別ボックス<br>bunbetsu bokkusu | a recycling or sorting box found in eco-certified hotels where guests separate waste by category. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A very common oversight is emptying the ゴミ箱 and forgetting to put a fresh liner in. It takes seconds, but guests notice. When directing a guest verbally, the shortcut 「ゴミはここ」 should be avoided, as it sounds abrupt and unprofessional. Always use 「ゴミ箱はこちらでございます」 instead. ゴミ箱 is also sometimes confused with 灰皿 (haizara, ashtray). They are entirely different items, and smoking areas and ashtrays come with their own separate communication requirements.
-</div>
 
 ---
 

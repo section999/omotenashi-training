@@ -25,9 +25,10 @@ A member of staff will check whether the connection is stable in the room.
 
 ## Related Expressions
 
-- **Wi-Fi (waifai)**: the wireless network service itself, as distinct from 接続, which is the act of linking to it. The natural sequence is: explain Wi-Fi availability first (「Wi-Fiをご利用いただけます」), then offer 接続 assistance (「接続方法をご案内いたします」) as a follow-up.
-- **切断 (setsudan)**: the opposite of 接続, meaning disconnection or severance of the link. Used when explaining that a device has dropped the connection: 「接続が切断されましたか？」 (has the connection been cut?). Knowing both terms helps one describe connectivity issues accurately.
-
+| Expression | Description |
+|---|---|
+| Wi-Fi<br>waifai | the wireless network service itself, as distinct from 接続, which is the act of linking to it. The natural sequence is: explain Wi-Fi availability first (「Wi-Fiをご利用いただけます」), then offer 接続 assistance (「接続方法をご案内いたします」) as a follow-up. |
+| 切断<br>setsudan | the opposite of 接続, meaning disconnection or severance of the link. Used when explaining that a device has dropped the connection: 「接続が切断されましたか？」 (has the connection been cut?). Knowing both terms helps one describe connectivity issues accurately. |
 
 ## Common Mistakes
 

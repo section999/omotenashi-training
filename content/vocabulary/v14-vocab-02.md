@@ -23,12 +23,14 @@ We have prepared English-language brochures because the number of foreign touris
 
 ## Related Expressions
 
-- **旅行者 (ryokousha)**: the broader word for anyone travelling, including business travellers and transit passengers; not everyone who travels is a 観光客, but every 観光客 is a 旅行者.
-- **インバウンド観光客 (inbaundo kankoukyaku)**: specifically foreign visitors coming into Japan; a term staff will encounter more in tourism policy documents and hotel management discussions than at the front desk.
+| Expression | Description |
+|---|---|
+| 旅行者<br>ryokousha | the broader word for anyone travelling, including business travellers and transit passengers; not everyone who travels is a 観光客, but every 観光客 is a 旅行者. |
+| インバウンド観光客<br>inbaundo kankoukyaku | specifically foreign visitors coming into Japan; a term staff will encounter more in tourism policy documents and hotel management discussions than at the front desk. |
 
 ## Common Mistakes
 
-The most common error is using 旅行者 and 観光客 as if they mean the same thing. They do not: 旅行者 is any traveller, while 観光客 tells staff the person is on a leisure or sightseeing trip. Note on pronunciation: 観光客 is a three-part compound noun, *kankou-kyaku*, and the natural stress falls on the second mora, *kou*. Saying it with flat, even stress on every syllable sounds unnatural to a native speaker's ear. Staff should also avoid using 観光 alone as a noun to mean "tourist"; 観光 refers to the act of sightseeing, not the person doing it.
+The most common error is using 旅行者 and 観光客 as if they mean the same thing. They do not: 旅行者 is any traveller, while 観光客 tells staff the person is on a leisure or sightseeing trip. Note on pronunciation: 観光客 is a three-part compound noun, 観光客, and the natural stress falls on the second mora, *kou*. Saying it with flat, even stress on every syllable sounds unnatural to a native speaker's ear. Staff should also avoid using 観光 alone as a noun to mean "tourist"; 観光 refers to the act of sightseeing, not the person doing it.
 
 ---
 

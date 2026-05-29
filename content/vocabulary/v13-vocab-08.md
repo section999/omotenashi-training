@@ -24,9 +24,10 @@ If you forget to clock out when leaving, please report it to your supervisor imm
 
 ## Related Expressions
 
-- **出勤 (shukkin)**: the direct counterpart: arriving at work to begin their shift. 出勤 and 退勤 are tracked together in attendance systems.
-- **引き継ぎ (hikitsugi)**: the handover of duties and information to the next shift; an essential step that should happen before 退勤 in any guest-facing hospitality role.
-
+| Expression | Description |
+|---|---|
+| 出勤<br>shukkin | the direct counterpart: arriving at work to begin their shift. 出勤 and 退勤 are tracked together in attendance systems. |
+| 引き継ぎ<br>hikitsugi | the handover of duties and information to the next shift; an essential step that should happen before 退勤 in any guest-facing hospitality role. |
 
 ## Common Mistakes
 

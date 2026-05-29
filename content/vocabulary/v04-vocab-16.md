@@ -24,9 +24,10 @@ Please use the color-coded cloths designated for each purpose.
 
 ## Related Expressions
 
-- **モップ (moppu)**: A wet mop used for cleaning large floor areas. While 雑巾 is used for detailed hand-wiping of surfaces and furniture, モップ covers expansive floor space more efficiently; both tools have distinct roles and should not be substituted for each other.
-- **タオル (taoru)**: A towel, which in a hospitality context is a guest-facing item. Unlike 雑巾, which is a staff cleaning tool, タオル is provided for guests and should never be repurposed as a cleaning cloth.
-
+| Expression | Description |
+|---|---|
+| モップ<br>moppu | A wet mop used for cleaning large floor areas. While 雑巾 is used for detailed hand-wiping of surfaces and furniture, モップ covers expansive floor space more efficiently; both tools have distinct roles and should not be substituted for each other. |
+| タオル<br>taoru | A towel, which in a hospitality context is a guest-facing item. Unlike 雑巾, which is a staff cleaning tool, タオル is provided for guests and should never be repurposed as a cleaning cloth. |
 
 ## Common Mistakes
 

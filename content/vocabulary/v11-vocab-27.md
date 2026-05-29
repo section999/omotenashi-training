@@ -24,9 +24,10 @@ Before I transfer you, I will inform the responsible staff member of the details
 
 ## Related Expressions
 
-- **お繋ぎします (otsunagi shimasu)**: a softer, more guest-centered way to say "I will connect you." This phrasing is preferred over 転送します in face-to-face situations and in higher-register telephone settings because it puts the focus on serving the guest rather than describing the technical action.
-- **直通 (chokutsuu)**: a direct line, as in 直通番号 (direct number). Knowing which departments have direct lines matters when staff arranges a 転送, because routing a call directly avoids extra rings and the risk of the guest being passed through an unnecessary switchboard step.
-
+| Expression | Description |
+|---|---|
+| お繋ぎします<br>otsunagi shimasu | a softer, more guest-centered way to say "I will connect you." This phrasing is preferred over 転送します in face-to-face situations and in higher-register telephone settings because it puts the focus on serving the guest rather than describing the technical action. |
+| 直通<br>chokutsuu | a direct line, as in 直通番号 (direct number). Knowing which departments have direct lines matters when staff arranges a 転送, because routing a call directly avoids extra rings and the risk of the guest being passed through an unnecessary switchboard step. |
 
 ## Common Mistakes
 

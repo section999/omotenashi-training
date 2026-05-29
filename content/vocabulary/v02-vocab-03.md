@@ -25,17 +25,14 @@ How was the stay? We look forward to welcoming you again.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">レイトチェックアウト (reito chekku-auto)</span> a late check-out arrangement; guests must request this in advance, and availability depends on occupancy.
-<br><br>
-<span class="keigo-badge info">お会計 (o-kaikei)</span> the bill or total charge; this word appears together with チェックアウト whenever payment is being finalised.
-</div>
+| Expression | Description |
+|---|---|
+| レイトチェックアウト<br>reito chekku-auto | a late check-out arrangement; guests must request this in advance, and availability depends on occupancy. |
+| お会計<br>o-kaikei | the bill or total charge; this word appears together with チェックアウト whenever payment is being finalised. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 チェックアウトは何時ですか? is acceptable when asking about departure time, but it sounds more like a guest than a staff member. Use お時間をご確認いただけますでしょうか or a similar professional form instead. Another common mistake is forgetting the honorific prefix ご before チェックアウト in formal contexts. It is not always mandatory, but ご + チェックアウト + は + お済みでしょうか is the standard phrase for confirming completion. Taking an extra moment to bow and express gratitude at the farewell is culturally expected and should never be skipped.
-</div>
 
 ---
 

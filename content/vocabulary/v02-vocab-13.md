@@ -25,17 +25,14 @@ Additional room service charges will be billed together at the time of check-out
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お会計 (o-kaikei)</span> the bill or total amount due; o-kaikei is more at home in restaurant settings, while 料金 is used more broadly across all types of charges in hotel operations.
-<br><br>
-<span class="keigo-badge info">追加料金 (tsuika ryōkin)</span> additional or extra charge; this comes up whenever a fee is added beyond the base room rate, such as for extra services, late check-out, or extended stays.
-</div>
+| Expression | Description |
+|---|---|
+| お会計<br>o-kaikei | the bill or total amount due; o-kaikei is more at home in restaurant settings, while 料金 is used more broadly across all types of charges in hotel operations. |
+| 追加料金<br>tsuika ryōkin | additional or extra charge; this comes up whenever a fee is added beyond the base room rate, such as for extra services, late check-out, or extended stays. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 値段 in a hotel context sounds too casual; 料金 is the professional term. Presenting the bill by saying just 料金です, dropping both こちらが and the polite ございます, sounds abrupt and dismissive. The full phrase こちらが料金でございます is the correct form. Always show the itemised statement before stating the total; guests should be able to see what they are paying for before anyone asks them to settle the bill.
-</div>
 
 ---
 

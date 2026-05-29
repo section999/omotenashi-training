@@ -24,9 +24,10 @@ The parking lot is on basement level one, with a vehicle height limit of two met
 
 ## Related Expressions
 
-- **バレーパーキング (baree paakingu)**: valet parking; available at higher-end hotels where staff take the vehicle on the guest's behalf; requires clear communication about retrieval procedure and timing.
-- **駐車券 (chuushaken)**: parking ticket or validation voucher; many hotel restaurants and facilities offer 駐車券サービス (parking validation) to guests who dine or purchase; staff should mention this benefit proactively.
-
+| Expression | Description |
+|---|---|
+| バレーパーキング<br>baree paakingu | valet parking; available at higher-end hotels where staff take the vehicle on the guest's behalf; requires clear communication about retrieval procedure and timing. |
+| 駐車券<br>chuushaken | parking ticket or validation voucher; many hotel restaurants and facilities offer 駐車券サービス (parking validation) to guests who dine or purchase; staff should mention this benefit proactively. |
 
 ## Common Mistakes
 

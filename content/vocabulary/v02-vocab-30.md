@@ -25,9 +25,10 @@ Please feel free to contact the front desk staff with any questions.
 
 ## Related Expressions
 
-- **フロントスタッフ (furonto sutaffu)**: front desk staff as a collective group, a loanword used more often in internal communication or staff meetings. Where フロント係 points to an individual's assigned role and responsibility, フロントスタッフ refers more broadly to the team.
-- **コンシェルジュ (konshieruju)**: concierge, a guest services role that overlaps with but is separate from フロント係. While フロント係 handles the administrative side of arrivals and departures, the コンシェルジュ focuses on personalized guest requests and arrangements. In smaller properties, one person often does both.
-
+| Expression | Description |
+|---|---|
+| フロントスタッフ<br>furonto sutaffu | front desk staff as a collective group, a loanword used more often in internal communication or staff meetings. Where フロント係 points to an individual's assigned role and responsibility, フロントスタッフ refers more broadly to the team. |
+| コンシェルジュ<br>konshieruju | concierge, a guest services role that overlaps with but is separate from フロント係. While フロント係 handles the administrative side of arrivals and departures, the コンシェルジュ focuses on personalized guest requests and arrangements. In smaller properties, one person often does both. |
 
 ## Common Mistakes
 

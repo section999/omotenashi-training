@@ -26,17 +26,14 @@ The station is on the left if one go straight through this intersection.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">角 (kado)</span> "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals
-<br><br>
-<span class="keigo-badge info">信号 (shingou)</span> "traffic signal" or "traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing
-</div>
+| Expression | Description |
+|---|---|
+| 角<br>kado | "corner"; used for simpler turning points within corridors or at smaller road corners without traffic signals; 交差点 implies a formal road crossing with signals |
+| 信号<br>shingou | "traffic signal" or "traffic light"; almost always mentioned alongside 交差点 in pedestrian guidance to remind guests to wait safely before crossing |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A frequent error is using 交差点 to describe a corridor junction inside a building. In indoor spaces, 角 is the correct and natural term. A common error is forgetting to specify the action at the intersection, whether the guest should cross it or turn at it, leaving them standing at the signal unsure what to do next. Omitting the safety reminder about traffic signals means guests may miss important safety information. True omotenashi includes giving guests information that keeps them safe, not just information that gets them to their destination. Cyclists often run red lights in Japan, so mentioning 自転車にご注意ください is a reasonable precaution.
-</div>
 
 ---
 ## Quiz

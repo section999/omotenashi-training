@@ -24,9 +24,10 @@ The room rate per adult guest is 18,000 yen.
 
 ## Related Expressions
 
-- **子供 (kodomo)**: the child category, typically under 12 or 13; priced differently from 大人, and the booking also signals a need for different amenities such as smaller yukata or kid-friendly meal portions.
-- **シニア (shinia)**: a senior guest category used by some properties that offer age-based loyalty discounts; not universal, but good to know when their property has plans designed for older travellers.
-
+| Expression | Description |
+|---|---|
+| 子供<br>kodomo | the child category, typically under 12 or 13; priced differently from 大人, and the booking also signals a need for different amenities such as smaller yukata or kid-friendly meal portions. |
+| シニア<br>shinia | a senior guest category used by some properties that offer age-based loyalty discounts; not universal, but good to know when their property has plans designed for older travellers. |
 
 ## Common Mistakes
 

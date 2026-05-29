@@ -25,17 +25,14 @@ Your total payment for today is 30,000 yen.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">精算 (seisan)</span> refers specifically to the final settlement or itemized reckoning of charges, often used in the phrase 精算書 (itemized bill). While 支払い refers to the act of paying, 精算 emphasizes the process of calculating and clearing the account, making it more common in back-office or checkout documentation contexts.
-<br><br>
-<span class="keigo-badge info">会計 (kaikei)</span> most commonly heard in restaurant settings meaning "the bill" or "checkout," and guests may use it to summon a server. In hotel contexts, 会計 sounds slightly less formal than お支払い, so staff generally prefer the latter when initiating payment conversations.
-</div>
+| Expression | Description |
+|---|---|
+| 精算<br>seisan | refers specifically to the final settlement or itemized reckoning of charges, often used in the phrase 精算書 (itemized bill). While 支払い refers to the act of paying, 精算 emphasizes the process of calculating and clearing the account, making it more common in back-office or checkout documentation contexts. |
+| 会計<br>kaikei | most commonly heard in restaurant settings meaning "the bill" or "checkout," and guests may use it to summon a server. In hotel contexts, 会計 sounds slightly less formal than お支払い, so staff generally prefer the latter when initiating payment conversations. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Saying 支払いしてください directly to a guest sounds demanding and impolite; the correct form wraps the request in humble language: お支払いをお願いいたします. Another frequent error is dropping the honorific お before 支払い when speaking to guests; 支払い alone is grammatically fine but loses the respectful register expected in hospitality. Mixing up 支払い with 会計 in hotel contexts can also cause confusion, as guests may associate 会計 primarily with restaurants.
-</div>
 
 ---
 

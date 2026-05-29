@@ -25,9 +25,10 @@ Allow me to explain the excess charge.
 
 ## Related Expressions
 
-- **不足 (fusoku)**: 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy staff will be explaining to guests at billing time.
-- **超過料金 (chouka ryoukin)**: The most common applied form in hospitality, referring to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume.
-
+| Expression | Description |
+|---|---|
+| 不足<br>fusoku | 不足 is the mirror image of 超過 -- where 超過 means a limit was exceeded, 不足 means a required amount was not met; together they cover the two types of discrepancy staff will be explaining to guests at billing time. |
+| 超過料金<br>chouka ryoukin | The most common applied form in hospitality, referring to the fee charged when a guest exceeds a defined limit such as checkout time, luggage weight, or contracted service volume. |
 
 ## Common Mistakes
 

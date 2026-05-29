@@ -25,9 +25,10 @@ We apologize for the inconvenience, but the pool is temporarily closed for a saf
 
 ## Related Expressions
 
-- **点検 (tenken)**: inspection or maintenance check; a broader term covering both safety and operational checks. 安全確認 specifically emphasizes the safety dimension of an inspection, so while the two overlap, they're not interchangeable.
-- **確認作業 (kakunin sagyou)**: verification work; the broader category of confirmation activities, of which 安全確認 is the safety-specific subset.
-
+| Expression | Description |
+|---|---|
+| 点検<br>tenken | inspection or maintenance check; a broader term covering both safety and operational checks. 安全確認 specifically emphasizes the safety dimension of an inspection, so while the two overlap, they're not interchangeable. |
+| 確認作業<br>kakunin sagyou | verification work; the broader category of confirmation activities, of which 安全確認 is the safety-specific subset. |
 
 ## Common Mistakes
 

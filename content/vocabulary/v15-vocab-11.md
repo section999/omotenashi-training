@@ -26,17 +26,14 @@ After shipping, we will give you a tracking number so one can check the delivery
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">配達 (haitatsu)</span> delivery from the recipient's perspective; 発送 is the sending end and 配達 is the receiving end of the same journey.
-<br><br>
-<span class="keigo-badge info">宅配便 (takkyuubin)</span> the courier or home delivery network that carries out the 発送; the two terms go hand in hand when explaining shipping services to guests.
-</div>
+| Expression | Description |
+|---|---|
+| 配達<br>haitatsu | delivery from the recipient's perspective; 発送 is the sending end and 配達 is the receiving end of the same journey. |
+| 宅配便<br>takkyuubin | the courier or home delivery network that carries out the 発送; the two terms go hand in hand when explaining shipping services to guests. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to swap 発送 and 配達, and it is worth drilling the difference clearly: 発送 belongs to the sender, 配達 belongs to the recipient. When a guest is sending something out from the hotel, staff should use 発送. When something is arriving at the hotel for a guest, staff should use 配達. However, the other key mistake is register: using plain 発送する in direct guest communication sounds too casual. Staff should use 発送いたします or お送りいたします instead. Additionally, staff should not assume all items can be shipped internationally without checking first. Customs restrictions and carrier rules change, and giving wrong advice here can leave a guest's package stuck at customs.
-</div>
 
 ---
 

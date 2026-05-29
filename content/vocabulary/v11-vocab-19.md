@@ -25,9 +25,10 @@ I am currently taking a moment to confirm. Please wait just a little longer.
 
 ## Related Expressions
 
-- **確かめます (tashikamemasu)**: a slightly less formal way to say "I will make sure / verify"; it lacks the humility marker いたします, so it is better suited to conversations among colleagues than to guest-facing interactions.
-- **調べます (shirabemasu)**: "I will look into it / research it," which implies a deeper investigation than a quick check; use 確認いたします when verifying known information and 調べます when the answer requires research or consultation with an external source.
-
+| Expression | Description |
+|---|---|
+| 確かめます<br>tashikamemasu | a slightly less formal way to say "I will make sure / verify"; it lacks the humility marker いたします, so it is better suited to conversations among colleagues than to guest-facing interactions. |
+| 調べます<br>shirabemasu | "I will look into it / research it," which implies a deeper investigation than a quick check; use 確認いたします when verifying known information and 調べます when the answer requires research or consultation with an external source. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Thank you for your patience. I am now taking you off hold.
 
 ## Related Expressions
 
-- **お待たせいたしました (omatase itashimashita)**: the first thing staff say when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before staff move into their update.
-- **そのままお待ちください (sono mama omachi kudasai)**: a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that staff is coming back.
-
+| Expression | Description |
+|---|---|
+| お待たせいたしました<br>omatase itashimashita | the first thing staff say when returning from 保留, before anything else. It acknowledges the guest's wait and resets the tone before staff move into their update. |
+| そのままお待ちください<br>sono mama omachi kudasai | a gentle instruction to stay on the line. It is softer and more reassuring than pressing the hold button without a word, because it confirms to the caller that staff is coming back. |
 
 ## Common Mistakes
 

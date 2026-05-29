@@ -26,17 +26,14 @@ The souvenir shop is on the first floor, next to the lobby.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">グラウンドフロア (guraundo furoa)</span> "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps prevent confusion with guests from countries where "first floor" means one level above ground
-<br><br>
-<span class="keigo-badge info">正面玄関 (shoumen genkan)</span> "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests who are approaching from outside the building
-</div>
+| Expression | Description |
+|---|---|
+| グラウンドフロア<br>guraundo furoa | "ground floor," a loanword sometimes seen in international hotels to clarify that 一階 is street level; helps prevent confusion with guests from countries where "first floor" means one level above ground |
+| 正面玄関<br>shoumen genkan | "main entrance"; closely associated with 一階 since the main entrance is always at ground level; often mentioned together when directing guests who are approaching from outside the building |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A persistent error is pronouncing 一階 as ichi-kai rather than ikkai. This stands out to Japanese guests and undermines confidence in fluency, so practicing it until it sounds natural is recommended. A common error is focusing on getting the concept right while pronunciation is neglected. In a professional setting, pronunciation matters. International guests sometimes misunderstand 一階 as the floor above ground, since "first floor" in many European countries means exactly that. Being ready to clarify with こちらが地上階でございます if a guest looks confused is recommended. Using 一階です rather than 一階にございます is a register shortfall in formal hospitality contexts.
-</div>
 
 ---
 ## Quiz

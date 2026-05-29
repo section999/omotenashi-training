@@ -25,17 +25,14 @@ If the poor connection continues, please let the front desk know.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">切断 (setsudan)</span> a complete disconnection where the call ends abruptly; while 接続不良 is intermittent and the call remains at least partially active, 切断 means the line is fully severed and a callback is required.
-<br><br>
-<span class="keigo-badge info">回線 (kaisen)</span> the line or circuit through which the connection is made; 接続不良 is often a symptom of a problem with the 回線, so these two terms appear together naturally in maintenance reports and guest explanations.
-</div>
+| Expression | Description |
+|---|---|
+| 切断<br>setsudan | a complete disconnection where the call ends abruptly; while 接続不良 is intermittent and the call remains at least partially active, 切断 means the line is fully severed and a callback is required. |
+| 回線<br>kaisen | the line or circuit through which the connection is made; 接続不良 is often a symptom of a problem with the 回線, so these two terms appear together naturally in maintenance reports and guest explanations. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 切断 and 接続不良 describe different situations that require different responses. 接続不良 is intermittent; 切断 is a complete break. When telling a guest about 接続不良, a concrete solution should be offered alongside the acknowledgment. Saying only 接続不良です without suggesting a different phone or the lobby line leaves the guest with a problem and no path forward. As a grammar note, 接続不良 is a noun phrase and needs a verb or copula to work in a sentence, so attaching 接続不良です or 接続不良が発生しています should be practiced until natural.
-</div>
 
 ---
 ## Quiz

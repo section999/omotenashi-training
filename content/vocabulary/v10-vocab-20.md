@@ -25,9 +25,10 @@ Because the balance is insufficient, an additional payment is required.
 
 ## Related Expressions
 
-- **残高不足 (zandaka fusoku)**: This compound specifically means an insufficient account or card balance, and is the most common form 不足 takes in hotel payment contexts; it also appears as an error message on electronic payment terminals, so guests may already be familiar with it.
-- **超過 (chouka)**: 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps one communicates about any financial discrepancy, whether the guest has too little or the charge is too high.
-
+| Expression | Description |
+|---|---|
+| 残高不足<br>zandaka fusoku | This compound specifically means an insufficient account or card balance, and is the most common form 不足 takes in hotel payment contexts; it also appears as an error message on electronic payment terminals, so guests may already be familiar with it. |
+| 超過<br>chouka | 超過 is the direct opposite of 不足, meaning an excess or overage; understanding both terms together helps one communicates about any financial discrepancy, whether the guest has too little or the charge is too high. |
 
 ## Common Mistakes
 

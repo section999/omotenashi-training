@@ -24,9 +24,10 @@ We will provide you with a copy of the signed document for your records.
 
 ## Related Expressions
 
-- **暗証番号 (anshō bangō)**: PIN code; an alternative method to 署名 for authorizing card payments; some guests may be asked for one or the other depending on the card type
-- **承認 (shōnin)**: approval; the confirmation from the card network that a transaction is authorized, which happens alongside or after the 署名 process
-
+| Expression | Description |
+|---|---|
+| 暗証番号<br>anshō bangō | PIN code; an alternative method to 署名 for authorizing card payments; some guests may be asked for one or the other depending on the card type |
+| 承認<br>shōnin | approval; the confirmation from the card network that a transaction is authorized, which happens alongside or after the 署名 process |
 
 ## Common Mistakes
 

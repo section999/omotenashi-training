@@ -25,9 +25,10 @@ The maximum occupancy for this room is 4 guests.
 
 ## Related Expressions
 
-- **名数 (meisuu)**: a formal or written variant meaning the count of named individuals; turns up in group travel manifests and official documents rather than in spoken guest interactions
-- **お何名様 (o-nan-mei-sama)**: the polished service-industry phrasing for asking how many guests are in the party; this is what staff use at restaurant entrances and concierge desks as a warm, respectful opening
-
+| Expression | Description |
+|---|---|
+| 名数<br>meisuu | a formal or written variant meaning the count of named individuals; turns up in group travel manifests and official documents rather than in spoken guest interactions |
+| お何名様<br>o-nan-mei-sama | the polished service-industry phrasing for asking how many guests are in the party; this is what staff use at restaurant entrances and concierge desks as a warm, respectful opening |
 
 ## Common Mistakes
 

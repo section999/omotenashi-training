@@ -25,17 +25,14 @@ If you need an additional pillow, please let us know at the front desk at any ti
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">補充 (hojuu)</span> means "replenishment" or restocking, used for restoring items to their original quantity rather than adding above it. Housekeeping 補充 of toiletries is routine maintenance; a guest's 追加 request is a deliberate ask for more than what was provided. The distinction matters in internal communication.
-<br><br>
-<span class="keigo-badge info">追加料金 (tsuika ryoukin)</span> the compound noun meaning "additional charge." This closely related phrase is essential for any context where 追加 services carry a cost, such as late check-out, extra beds, or premium menu additions. 追加料金 should always be communicated proactively, never retroactively.
-</div>
+| Expression | Description |
+|---|---|
+| 補充<br>hojuu | means "replenishment" or restocking, used for restoring items to their original quantity rather than adding above it. Housekeeping 補充 of toiletries is routine maintenance; a guest's 追加 request is a deliberate ask for more than what was provided. The distinction matters in internal communication. |
+| 追加料金<br>tsuika ryoukin | the compound noun meaning "additional charge." This closely related phrase is essential for any context where 追加 services carry a cost, such as late check-out, extra beds, or premium menu additions. 追加料金 should always be communicated proactively, never retroactively. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 追加 is not the same as 交換 (replacement). If a guest wants a dirty towel swapped for a clean one, that is a 交換希望 (replacement request), not an 追加. Using the wrong word in an internal message can send housekeeping the wrong instruction. A common error is conflating these two terms. On the billing side, staff sometimes forget to mention the additional charge at the time of the request and only bring it up at checkout, which is when it causes the most friction. Communicating charges early and clearly is the recommended approach.
-</div>
 
 ---
 ## Quiz

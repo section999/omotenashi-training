@@ -25,9 +25,10 @@ If rescue is needed, please notify the front desk and call 119.
 
 ## Related Expressions
 
-- **救出 (kyuushutsu)**: extraction or physical rescue; used specifically when a person is physically freed from confinement, like being pulled from elevator debris or lifted from floodwater. It is a more specific action within the broader idea of 救助.
-- **避難誘導 (hinan yūdō)**: evacuation guidance; the organised process of directing guests toward safety exits. This often runs alongside 救助 during large-scale emergencies and requires its own dedicated training.
-
+| Expression | Description |
+|---|---|
+| 救出<br>kyuushutsu | extraction or physical rescue; used specifically when a person is physically freed from confinement, like being pulled from elevator debris or lifted from floodwater. It is a more specific action within the broader idea of 救助. |
+| 避難誘導<br>hinan yūdō | evacuation guidance; the organised process of directing guests toward safety exits. This often runs alongside 救助 during large-scale emergencies and requires its own dedicated training. |
 
 ## Common Mistakes
 

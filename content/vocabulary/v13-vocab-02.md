@@ -21,17 +21,14 @@ Today's event was prepared by all of our staff.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">従業員 (juugyouin)</span> a more formal, legally precise term for employee; used in HR documents, contracts, and official communications rather than casual team discussion.
-<br><br>
-<span class="keigo-badge info">チーム (chiimu)</span> puts the emphasis on the collaborative unit rather than individual members; often used in briefings to build team spirit, as in「チームで取り組もう」(let's tackle it as a team).
-</div>
+| Expression | Description |
+|---|---|
+| 従業員<br>juugyouin | a more formal, legally precise term for employee; used in HR documents, contracts, and official communications rather than casual team discussion. |
+| チーム<br>chiimu | puts the emphasis on the collaborative unit rather than individual members; often used in briefings to build team spirit, as in「チームで取り組もう」(let's tackle it as a team). |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is reaching for スタッフ in formal written documents, employment contracts, and official government filings. In those contexts, 従業員 is expected. A common error is also trying to pluralise it as "スタッフたち," but スタッフ already implies a collective group and does not need a plural marker in most situations. The keigo article matters when writing formally: スタッフの皆様 is a more suitable choice than スタッフたち for announcements directed at the team.
-</div>
 
 ---
 

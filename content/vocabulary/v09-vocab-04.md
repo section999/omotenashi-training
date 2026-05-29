@@ -25,9 +25,10 @@ If you plan to arrive earlier than scheduled, we would appreciate advance notice
 
 ## Related Expressions
 
-- **チェックイン日 (chekku-in bi)**: a near-synonym for 到着日 in hotel contexts, with a slightly more operational tone that emphasizes the administrative act of checking in rather than the physical moment of arrival
-- **出発日 (shuppatsu bi)**: the counterpart departure date; always confirmed alongside 到着日 to establish the complete stay window
-
+| Expression | Description |
+|---|---|
+| チェックイン日<br>chekku-in bi | a near-synonym for 到着日 in hotel contexts, with a slightly more operational tone that emphasizes the administrative act of checking in rather than the physical moment of arrival |
+| 出発日<br>shuppatsu bi | the counterpart departure date; always confirmed alongside 到着日 to establish the complete stay window |
 
 ## Common Mistakes
 

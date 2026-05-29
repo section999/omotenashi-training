@@ -24,9 +24,10 @@ During the stay, please do not hesitate to contact the front desk at any time wi
 
 ## Related Expressions
 
-- **滞在 (taizai)**: a broader term meaning the time someone spends at a place; unlike 宿泊, it does not specifically imply an overnight stay and can apply to day visits as well.
-- **泊まる (tomaru)**: the casual verb meaning "to stay overnight"; perfectly natural in everyday conversation, but front desk staff should consistently use 宿泊 or ご宿泊 to keep the right professional tone.
-
+| Expression | Description |
+|---|---|
+| 滞在<br>taizai | a broader term meaning the time someone spends at a place; unlike 宿泊, it does not specifically imply an overnight stay and can apply to day visits as well. |
+| 泊まる<br>tomaru | the casual verb meaning "to stay overnight"; perfectly natural in everyday conversation, but front desk staff should consistently use 宿泊 or ご宿泊 to keep the right professional tone. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ If the call is disconnected for any reason, we will call you back immediately.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">接続不良 (setsuzoku furyou)</span> poor or unstable connection, where the call does not end completely but the audio is interrupted, choppy, or delayed; unlike 切断, 接続不良 is intermittent and may improve without a full reconnection.
-<br><br>
-<span class="keigo-badge info">通話中 (tsuuwachuu)</span> the state of being on an active call; a 切断 ends the 通話中 state without warning, which is why it requires immediate corrective action on the hotel's part.
-</div>
+| Expression | Description |
+|---|---|
+| 接続不良<br>setsuzoku furyou | poor or unstable connection, where the call does not end completely but the audio is interrupted, choppy, or delayed; unlike 切断, 接続不良 is intermittent and may improve without a full reconnection. |
+| 通話中<br>tsuuwachuu | the state of being on an active call; a 切断 ends the 通話中 state without warning, which is why it requires immediate corrective action on the hotel's part. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is waiting for the guest to call back rather than proactively re-dialing. In Japanese hospitality, the responsibility to restore the connection belongs to the hotel. Another error is mixing up 切断 and 接続不良 when reporting to maintenance: they describe different problems, and using the right term helps the technical team diagnose the cause faster. With guests, the casual phrase 電話が切れた should be avoided. The appropriate polite form is 切断されました, and that distinction in register reflects the professionalism guests expect.
-</div>
 
 ---
 ## Quiz

@@ -26,17 +26,14 @@ We have reserved seats prepared for guests with reservations.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">禁煙席 (kin'en seki)</span> Non-smoking seat. Like 予約席, 禁煙席 is a category of seating that must be managed and communicated at the time of seating; both terms come up together in the same guest interactions.
-<br><br>
-<span class="keigo-badge info">満席 (manseki)</span> Full, no seats available. When all 予約席 are occupied by the reserving guests and no other seats remain, 満席 describes the overall restaurant status; it is the closely related term staff reach for when turning away walk-in guests.
-</div>
+| Expression | Description |
+|---|---|
+| 禁煙席<br>kin'en seki | Non-smoking seat. Like 予約席, 禁煙席 is a category of seating that must be managed and communicated at the time of seating; both terms come up together in the same guest interactions. |
+| 満席<br>manseki | Full, no seats available. When all 予約席 are occupied by the reserving guests and no other seats remain, 満席 describes the overall restaurant status; it is the closely related term staff reach for when turning away walk-in guests. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to say 予約されています instead of 予約席でございます; while not wrong, the latter is crisper and more professional in a hospitality setting. A bigger practical error is notifying the guest about the reserved seat and then stopping there. Saying こちらは予約席です without offering a redirect leaves the guest standing awkwardly with nowhere to go; staff should pair the notification with a solution. Additionally, staff should not use 予約席 to refer to seats that are merely blocked by a cleaning cart or staff belongings. The word specifically implies a guest reservation is in place, and using it loosely can cause confusion.
-</div>
 
 ---
 ## Quiz

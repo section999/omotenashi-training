@@ -24,9 +24,10 @@ That concludes the explanation of the breakfast venue. Do you have any questions
 
 ## Related Expressions
 
-- **ご案内いたします (go-annai itashimasu)**: "I will guide you." Closely related to ご説明いたします but with the emphasis on directional or locational guidance rather than informational content. Knowing when to use one versus the other helps one communicate with more precision in guest interactions.
-- **ご確認ください (go-kakunin kudasai)**: "please confirm" or "please check." This phrase often follows a 説明 as a natural closing step, inviting the guest to verify they have understood before the conversation moves forward.
-
+| Expression | Description |
+|---|---|
+| ご案内いたします<br>go-annai itashimasu | "I will guide you." Closely related to ご説明いたします but with the emphasis on directional or locational guidance rather than informational content. Knowing when to use one versus the other helps one communicate with more precision in guest interactions. |
+| ご確認ください<br>go-kakunin kudasai | "please confirm" or "please check." This phrase often follows a 説明 as a natural closing step, inviting the guest to verify they have understood before the conversation moves forward. |
 
 ## Common Mistakes
 

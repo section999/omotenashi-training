@@ -25,17 +25,14 @@ The keyhole on the safe is for emergency use by staff only.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">カードキー (kaado kii)</span> The electronic key card that replaces the physical key in modern hotels. In properties where カードキー is the primary access method, a 鍵穴 may only appear on the in-room safe, making it necessary to distinguish the two systems for guests.
-<br><br>
-<span class="keigo-badge info">鍵 (kagi)</span> The key itself, as distinct from the 鍵穴 (keyhole). In guidance such as 「鍵を鍵穴に差し込んでください」, both words appear together and must be clearly distinguished: 鍵 is the object the guest holds; 鍵穴 is where it goes.
-</div>
+| Expression | Description |
+|---|---|
+| カードキー<br>kaado kii | The electronic key card that replaces the physical key in modern hotels. In properties where カードキー is the primary access method, a 鍵穴 may only appear on the in-room safe, making it necessary to distinguish the two systems for guests. |
+| 鍵<br>kagi | The key itself, as distinct from the 鍵穴 (keyhole). In guidance such as 「鍵を鍵穴に差し込んでください」, both words appear together and must be clearly distinguished: 鍵 is the object the guest holds; 鍵穴 is where it goes. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common omission is explaining key use without specifying the rotational direction: saying only 「差し込んでください」 (please insert it) without clarifying 「右に回す」 (turn right) or 「左に回す」 (turn left) can leave guests turning the key the wrong way. Confusing 鍵穴 with 鍵 (the key itself) in instructions leads to unclear guidance. When a guest's key does not work, staff should also determine whether the issue is with the key itself, the 鍵穴 mechanism, or the guest's unfamiliarity with the required technique, diagnosing this correctly requires knowing all three elements.
-</div>
 
 ---
 

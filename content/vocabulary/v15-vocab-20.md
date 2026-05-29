@@ -25,9 +25,10 @@ If you have any questions about the extension fee, please do not hesitate to con
 
 ## Related Expressions
 
-- **追加料金 (tsuika ryoukin)**: additional charge; a broader term for any supplemental fee: 延長料金 is specifically a time-based subtype of this
-- **レイトチェックアウト (reito chekku-auto)**: late checkout; a common service where guests pay an 延長料金 to keep their room past the standard checkout time, often until noon or 3 PM
-
+| Expression | Description |
+|---|---|
+| 追加料金<br>tsuika ryoukin | additional charge; a broader term for any supplemental fee: 延長料金 is specifically a time-based subtype of this |
+| レイトチェックアウト<br>reito chekku-auto | late checkout; a common service where guests pay an 延長料金 to keep their room past the standard checkout time, often until noon or 3 PM |
 
 ## Common Mistakes
 

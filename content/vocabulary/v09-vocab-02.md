@@ -25,9 +25,10 @@ We will confirm your reservation date before advising you on the applicable plan
 
 ## Related Expressions
 
-- **宿泊日 (shukuhaku bi)**: the actual date or dates of the guest's stay; this is when they are physically at the hotel, not when they booked, and the two are frequently confused
-- **到着日 (touchaku bi)**: specifically the first day of arrival within a multi-night stay; useful when staff need to identify the check-in date precisely rather than referring to the entire stay window
-
+| Expression | Description |
+|---|---|
+| 宿泊日<br>shukuhaku bi | the actual date or dates of the guest's stay; this is when they are physically at the hotel, not when they booked, and the two are frequently confused |
+| 到着日<br>touchaku bi | specifically the first day of arrival within a multi-night stay; useful when staff need to identify the check-in date precisely rather than referring to the entire stay window |
 
 ## Common Mistakes
 

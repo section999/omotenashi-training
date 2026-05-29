@@ -25,9 +25,10 @@ We will verify your reservation details using your reservation number.
 
 ## Related Expressions
 
-- **予約確認番号 (yoyaku kakunin bangou)**: a slightly longer form that emphasizes the confirmation aspect; used interchangeably with 予約番号 but tends to appear more in formal written correspondence
-- **受付番号 (uketsuke bangou)**: a counter or reception number issued on the spot, not a pre-booking identifier; one is more likely to encounter this in clinics or government offices than in hotel settings
-
+| Expression | Description |
+|---|---|
+| 予約確認番号<br>yoyaku kakunin bangou | a slightly longer form that emphasizes the confirmation aspect; used interchangeably with 予約番号 but tends to appear more in formal written correspondence |
+| 受付番号<br>uketsuke bangou | a counter or reception number issued on the spot, not a pre-booking identifier; one is more likely to encounter this in clinics or government offices than in hotel settings |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ We opened the hotel parking lot entrance to allow the fire truck to enter smooth
 
 ## Related Expressions
 
-- **消防署 (shoubousho)**: fire station; the permanent facility where 消防車 and firefighters are based; know the address and direct number of the nearest one, not just the emergency 119 line
-- **はしご車 (hashigoguruma)**: ladder truck; a type of 消防車 with an extendable aerial ladder used for high-rise rescue; hotels above a certain height are required to confirm their facilities are accessible to these vehicles
-
+| Expression | Description |
+|---|---|
+| 消防署<br>shoubousho | fire station; the permanent facility where 消防車 and firefighters are based; know the address and direct number of the nearest one, not just the emergency 119 line |
+| はしご車<br>hashigoguruma | ladder truck; a type of 消防車 with an extendable aerial ladder used for high-rise rescue; hotels above a certain height are required to confirm their facilities are accessible to these vehicles |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ Please do not forget to clock in when one arrive for the shift.
 
 ## Related Expressions
 
-- **退勤 (taikin)**: the direct opposite of 出勤, leaving work at the end of a shift. The two terms are almost always discussed together when dealing with attendance records or payroll.
-- **遅刻 (chikoku)**: arriving late; what happens when 出勤 doesn't happen on time. In hospitality, 遅刻 can cause real service disruptions and is taken seriously by management.
-
+| Expression | Description |
+|---|---|
+| 退勤<br>taikin | the direct opposite of 出勤, leaving work at the end of a shift. The two terms are almost always discussed together when dealing with attendance records or payroll. |
+| 遅刻<br>chikoku | arriving late; what happens when 出勤 doesn't happen on time. In hospitality, 遅刻 can cause real service disruptions and is taken seriously by management. |
 
 ## Common Mistakes
 

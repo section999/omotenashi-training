@@ -24,9 +24,10 @@ Allow me to verify the details of your voucher.
 
 ## Related Expressions
 
-- **クーポン (kūpon)**: a discount coupon; unlike a バウチャー, it trims the price rather than representing full prepayment, so the two should never be treated as the same thing at the billing stage
-- **予約確認書 (yoyaku kakunin-sho)**: reservation confirmation document; often accompanies a バウチャー but serves the separate purpose of confirming booking details rather than proving payment
-
+| Expression | Description |
+|---|---|
+| クーポン<br>kūpon | a discount coupon; unlike a バウチャー, it trims the price rather than representing full prepayment, so the two should never be treated as the same thing at the billing stage |
+| 予約確認書<br>yoyaku kakunin-sho | reservation confirmation document; often accompanies a バウチャー but serves the separate purpose of confirming booking details rather than proving payment |
 
 ## Common Mistakes
 

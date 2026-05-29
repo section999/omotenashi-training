@@ -25,9 +25,10 @@ I will reply to the guest after obtaining my supervisor's approval.
 
 ## Related Expressions
 
-- **部長 (buchou)**: department head; a specific title for an upper-level manager. This is used when the person's actual rank is known rather than just describing them generically as 上司.
-- **先輩 (senpai)**: a senior colleague who joined before staff; carries mentoring connotations but doesn't necessarily have formal authority over one the way a 上司 does.
-
+| Expression | Description |
+|---|---|
+| 部長<br>buchou | department head; a specific title for an upper-level manager. This is used when the person's actual rank is known rather than just describing them generically as 上司. |
+| 先輩<br>senpai | a senior colleague who joined before staff; carries mentoring connotations but doesn't necessarily have formal authority over one the way a 上司 does. |
 
 ## Common Mistakes
 

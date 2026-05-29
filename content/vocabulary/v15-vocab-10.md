@@ -26,17 +26,14 @@ We will keep your stored luggage safely until your departure time today.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">荷物 (nimotsu)</span> luggage in general; 荷物預かり is built from 荷物 plus 預かり (the act of holding something in trust), so understanding the parts makes the compound feel natural.
-<br><br>
-<span class="keigo-badge info">保管 (hokan)</span> broader term for storage or safekeeping of any item; 荷物預かり is the guest-service-specific version of this concept.
-</div>
+| Expression | Description |
+|---|---|
+| 荷物<br>nimotsu | luggage in general; 荷物預かり is built from 荷物 plus 預かり (the act of holding something in trust), so understanding the parts makes the compound feel natural. |
+| 保管<br>hokan | broader term for storage or safekeeping of any item; 荷物預かり is the guest-service-specific version of this concept. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to say 荷物預かりをしてください when speaking with guests, which is grammatically fine but not appropriate in register. In guest-facing speech, staff should use お荷物をお預かりいたします, which is the proper keigo form. Another thing that catches learners off guard is forgetting the 引換券. Without that ticket, if a bag gets moved around in the storage area, retrieval disputes are very difficult to sort out cleanly. Staff should not confuse 荷物預かり with ロッカー either: 荷物預かり is a staff-managed service, while a ロッカー is a self-service option where the guest locks and manages their own belongings independently.
-</div>
 
 ---
 

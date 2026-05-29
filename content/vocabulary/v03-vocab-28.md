@@ -24,9 +24,10 @@ The room service menu is on the desk.
 
 ## Related Expressions
 
-- **出前 (demae)**: Traditional Japanese food delivery, typically from a local restaurant to their home or accommodation. While ルームサービス is the hotel's own internal service, 出前 refers to external delivery from outside establishments. Some ryokan and smaller hotels may coordinate 出前 rather than offering in-house ルームサービス.
-- **フルーツバスケット / ウェルカムドリンク (furuutsu basuketto / uerukamu dorinku)**: Complimentary room amenities that may be confused with ルームサービス by guests. Staff should distinguish between items provided as complimentary welcome gifts and items ordered (and charged) through the ルームサービス system.
-
+| Expression | Description |
+|---|---|
+| 出前<br>demae | Traditional Japanese food delivery, typically from a local restaurant to their home or accommodation. While ルームサービス is the hotel's own internal service, 出前 refers to external delivery from outside establishments. Some ryokan and smaller hotels may coordinate 出前 rather than offering in-house ルームサービス. |
+| フルーツバスケット / ウェルカムドリンク<br>furuutsu basuketto / uerukamu dorinku | Complimentary room amenities that may be confused with ルームサービス by guests. Staff should distinguish between items provided as complimentary welcome gifts and items ordered (and charged) through the ルームサービス system. |
 
 ## Common Mistakes
 

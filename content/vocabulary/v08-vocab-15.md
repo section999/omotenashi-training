@@ -26,18 +26,14 @@ The guest entrance to the restaurant is here. Staff should use the back entrance
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">出口 (deguchi)</span> The direct counterpart meaning "exit." Where 入口 marks where guests arrive, 出口 marks where they leave; confusing the two in directions can send a guest entirely the wrong way, so staff should confirm which one the guest needs.
-<br><br>
-<span class="keigo-badge info">玄関 (genkan)</span> The formal entryway found in traditional Japanese homes and ryokan, carrying cultural significance as the threshold between outside and inside. It is more specific than 入口 and implies a ritual of removing shoes; staff at ryokan use 玄関 rather than 入口 to invoke the warmth of a traditional welcome.
-</div>
-
+| Expression | Description |
+|---|---|
+| 出口<br>deguchi | The direct counterpart meaning "exit." Where 入口 marks where guests arrive, 出口 marks where they leave; confusing the two in directions can send a guest entirely the wrong way, so staff should confirm which one the guest needs. |
+| 玄関<br>genkan | The formal entryway found in traditional Japanese homes and ryokan, carrying cultural significance as the threshold between outside and inside. It is more specific than 入口 and implies a ritual of removing shoes; staff at ryokan use 玄関 rather than 入口 to invoke the warmth of a traditional welcome. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to use 入口 and 出口 interchangeably when giving rapid directions under pressure, which can lead guests in the opposite direction from their intended destination. Another common error is stating 入口はあちらです without a landmark or direction word, leaving guests uncertain about exactly where to go in a large lobby. Using 入り口 (the kanji split form with り written out) inconsistently on signage is also not recommended. Uniformity across written and spoken communication prevents guest confusion.
-</div>
 
 ---
 

@@ -25,9 +25,10 @@ While waiting for the ambulance, staff administered first aid.
 
 ## Related Expressions
 
-- **119番 (hyaku-juu-kyuu-ban)**: Japan's single emergency number for both ambulance and fire response; staff must commit this to memory separately from 110 (police), because confusing the two in a real emergency causes dangerous delays
-- **救急救命士 (kyuukyuu kyuumeishi)**: paramedic; the trained medical professional riding in the 救急車; knowing this term helps staff communicate clearly with the arriving crew about what has already been done
-
+| Expression | Description |
+|---|---|
+| 119番<br>hyaku-juu-kyuu-ban | Japan's single emergency number for both ambulance and fire response; staff must commit this to memory separately from 110 (police), because confusing the two in a real emergency causes dangerous delays |
+| 救急救命士<br>kyuukyuu kyuumeishi | paramedic; the trained medical professional riding in the 救急車; knowing this term helps staff communicate clearly with the arriving crew about what has already been done |
 
 ## Common Mistakes
 

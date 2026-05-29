@@ -26,17 +26,14 @@ Are there any fragile items in your luggage? We will handle them with special ca
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">手荷物 (tenimotsu)</span> hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over.
-<br><br>
-<span class="keigo-badge info">荷物預かり (nimotsu azukari)</span> the luggage storage service itself; this is the formal service name staff will use when a guest wants to leave their bags temporarily in the hotel's care.
-</div>
+| Expression | Description |
+|---|---|
+| 手荷物<br>tenimotsu | hand luggage or carry-on items; the smaller bags a traveller keeps with them rather than checking in or handing over. |
+| 荷物預かり<br>nimotsu azukari | the luggage storage service itself; this is the formal service name staff will use when a guest wants to leave their bags temporarily in the hotel's care. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common oversight is dropping the honorific お. In guest-facing speech, 荷物 on its own sounds abrupt. Staff should always say お荷物 (o-nimotsu) when talking directly with a guest. Another common mistake is to sometimes reach for スーツケース (suutsukeesu) when a guest has a mixed collection of bags, but 荷物 is the broader and more appropriate term that covers everything at once. Additionally, staff should never move or handle a guest's 荷物 without first asking. Even with the best intentions, reaching for someyour bag without a word can come across as intrusive rather than helpful.
-</div>
 
 ---
 

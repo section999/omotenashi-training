@@ -25,9 +25,10 @@ If your child falls ill, we will direct you to the nearest paediatric hospital.
 
 ## Related Expressions
 
-- **体調不良 (taichou furyou)**: feeling unwell or in poor physical condition; softer than 病気, and generally preferred in direct conversation with guests because it sounds less alarming.
-- **症状 (shoujou)**: symptoms; asking about a guest's 症状 helps gauge how urgent the medical response should be and allows accurate information to be passed to a doctor or emergency service.
-
+| Expression | Description |
+|---|---|
+| 体調不良<br>taichou furyou | feeling unwell or in poor physical condition; softer than 病気, and generally preferred in direct conversation with guests because it sounds less alarming. |
+| 症状<br>shoujou | symptoms; asking about a guest's 症状 helps gauge how urgent the medical response should be and allows accurate information to be passed to a doctor or emergency service. |
 
 ## Common Mistakes
 

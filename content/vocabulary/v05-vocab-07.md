@@ -25,9 +25,10 @@ Allow me to repeat your order to confirm.
 
 ## Related Expressions
 
-- **オーダー (oodaa)**: the English loanword equivalent, fine among kitchen and floor staff behind the scenes but 注文 or ご注文 is the right choice whenever one is speaking directly with a guest.
-- **ご用命 (go-youmei)**: a very formal word for "their request" or "their order," more often seen in written menus or formal correspondence than in spoken service; worth recognizing even if staff rarely say it aloud.
-
+| Expression | Description |
+|---|---|
+| オーダー<br>oodaa | the English loanword equivalent, fine among kitchen and floor staff behind the scenes but 注文 or ご注文 is the right choice whenever one is speaking directly with a guest. |
+| ご用命<br>go-youmei | a very formal word for "their request" or "their order," more often seen in written menus or formal correspondence than in spoken service; worth recognizing even if staff rarely say it aloud. |
 
 ## Common Mistakes
 

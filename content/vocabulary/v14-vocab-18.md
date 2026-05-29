@@ -23,8 +23,10 @@ The Narita Express train is convenient for getting to the airport.
 
 ## Related Expressions
 
-- **地下鉄 (chikatetsu)**: subway or underground train; a type of 電車 that runs underground, common in major cities like Tokyo and Osaka
-- **新幹線 (shinkansen)**: the bullet train; technically a type of 電車 for long-distance intercity travel, but almost never called 電車 in casual speech; guests and staff always refer to it by name
+| Expression | Description |
+|---|---|
+| 地下鉄<br>chikatetsu | subway or underground train; a type of 電車 that runs underground, common in major cities like Tokyo and Osaka |
+| 新幹線<br>shinkansen | the bullet train; technically a type of 電車 for long-distance intercity travel, but almost never called 電車 in casual speech; guests and staff always refer to it by name |
 
 ## Common Mistakes
 

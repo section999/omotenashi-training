@@ -3,11 +3,11 @@ id: v01-vocab
 section: 17
 title: ようこそ (youkoso)
 ---
-*Yōkoso* means "welcome," but it carries a different emotional weight than *irasshaimase*. Where *irasshaimase* says "welcome, I am ready to serve you," *yōkoso* says "we are glad one is here." It has a commemorative feeling, the kind of welcome one sees on a banner at a festival entrance, at the top of a letter to a valued guest, or in the opening line of a formal banquet speech. It marks the moment as meaningful.
+ようこそ means "welcome," but it carries a different emotional weight than いらっしゃいませ. Where いらっしゃいませ says "welcome, I am ready to serve you," ようこそ says "we are glad one is here." It has a commemorative feeling, the kind of welcome one sees on a banner at a festival entrance, at the top of a letter to a valued guest, or in the opening line of a formal banquet speech. It marks the moment as meaningful.
 
-*Yōkoso* belongs to situations with a ceremonial or special quality. A welcome card placed in a honeymoon suite, the greeting on a digital screen for a VIP arrival, the first sentence of a speech at a dinner event. It combines naturally with a destination or occasion: *yōkoso, Nihon e* (welcome to Japan), *yōkoso, [hotel name] e* (welcome to our hotel). Knowing when to use it versus when *irasshaimase* is the right call matters. A repeat guest on their anniversary visit deserves *yōkoso*. A Tuesday check-in at a business hotel calls for *irasshaimase*. Both are sincere; they just signal different levels of occasion.
+ようこそ belongs to situations with a ceremonial or special quality. A welcome card placed in a honeymoon suite, the greeting on a digital screen for a VIP arrival, the first sentence of a speech at a dinner event. It combines naturally with a destination or occasion: *yōkoso, Nihon e* (welcome to Japan), *yōkoso, [hotel name] e* (welcome to our hotel). Knowing when to use it versus when いらっしゃいませ is the right call matters. A repeat guest on their anniversary visit deserves ようこそ. A Tuesday check-in at a business hotel calls for いらっしゃいませ. Both are sincere; they just signal different levels of occasion.
 
-A common error is to use *yōkoso* in everyday spoken greetings, where it ends up sounding theatrical, as if the formality level has been set too high. It should be saved for moments that call for it. When staff do use it, it is effective.
+A common error is to use ようこそ in everyday spoken greetings, where it ends up sounding theatrical, as if the formality level has been set too high. It should be saved for moments that call for it. When staff do use it, it is effective.
 
 
 ## Example Sentences
@@ -28,19 +28,15 @@ From your welcome card: Welcome to our inn. We welcome you with all our hearts.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">いらっしゃいませ (irasshaimase)</span> the everyday spoken welcome staff use at the moment a guest arrives; this is their go-to phrase for routine arrivals and should feel natural and immediate
-<br><br>
-<span class="keigo-badge info">お越しいただきありがとうございます (o-koshi itadaki arigatō gozaimasu)</span> "Thank you for coming to us", expresses gratitude for the guest making the effort to visit, with a warm and slightly more personal tone
-<br><br>
-<span class="keigo-badge info">心よりお迎えいたします (kokoro yori o-mukae itashimasu)</span> "We welcome you from the heart", a beautiful phrase for written communication and formal spoken greetings on special occasions
-</div>
+| Expression | Description |
+|---|---|
+| いらっしゃいませ<br>irasshaimase | the everyday spoken welcome staff use at the moment a guest arrives; this is their go-to phrase for routine arrivals and should feel natural and immediate |
+| お越しいただきありがとうございます<br>o-koshi itadaki arigatō gozaimasu | "Thank you for coming to us", expresses gratitude for the guest making the effort to visit, with a warm and slightly more personal tone |
+| 心よりお迎えいたします<br>kokoro yori o-mukae itashimasu | "We welcome you from the heart", a beautiful phrase for written communication and formal spoken greetings on special occasions |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
-The most common mistake is using *yōkoso* as a casual spoken greeting, which can make it feel overdone or awkward in routine interactions. It should be kept for written contexts, ceremonial moments, or special arrivals. However, the opposite mistake also happens: treating every guest the same with *irasshaimase* regardless of the occasion. For a VIP guest, an anniversary couple, or a long-awaited reunion visit, stepping up to *yōkoso* language shows that staff has noticed something meaningful about their presence.
-</div>
+The most common mistake is using ようこそ as a casual spoken greeting, which can make it feel overdone or awkward in routine interactions. It should be kept for written contexts, ceremonial moments, or special arrivals. However, the opposite mistake also happens: treating every guest the same with いらっしゃいませ regardless of the occasion. For a VIP guest, an anniversary couple, or a long-awaited reunion visit, stepping up to ようこそ language shows that staff has noticed something meaningful about their presence.
 
 ---
 ## Quiz
@@ -54,4 +50,4 @@ The most common mistake is using *yōkoso* as a casual spoken greeting, which ca
 
 **Correct Answer:** ようこそ〇〇ホテルへ。お二人のご宿泊を心よりお祝い申し上げます。(Welcome to ○○ Hotel. We celebrate your stay with all our hearts.)
 
-**Explanation:** *Yōkoso* carries a ceremonial warmth that makes it perfectly suited to written, special-occasion contexts like a honeymoon welcome card. *Irasshaimase* belongs to the spoken moment of arrival and would feel oddly operational on paper, while a casual greeting like *konnichiwa* would completely miss the significance of the occasion.
+**Explanation:** ようこそ carries a ceremonial warmth that makes it perfectly suited to written, special-occasion contexts like a honeymoon welcome card. いらっしゃいませ belongs to the spoken moment of arrival and would feel oddly operational on paper, while a casual greeting like こんにちは would completely miss the significance of the occasion.

@@ -25,9 +25,10 @@ She served as the designated staff member for the VIP guest, supporting them thr
 
 ## Related Expressions
 
-- **担当者 (tantousha)**: the noun form pointing to the actual person in charge; staff hear this constantly in phone calls and internal handoffs when someone needs to be connected to the right individual
-- **ご担当 (go-tantou)**: the honorific form, used when referring respectfully to the person responsible for a guest's account or service arrangement
-
+| Expression | Description |
+|---|---|
+| 担当者<br>tantousha | the noun form pointing to the actual person in charge; staff hear this constantly in phone calls and internal handoffs when someone needs to be connected to the right individual |
+| ご担当<br>go-tantou | the honorific form, used when referring respectfully to the person responsible for a guest's account or service arrangement |
 
 ## Common Mistakes
 

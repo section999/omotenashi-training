@@ -25,17 +25,14 @@ If the noise from the neighbouring room has been disturbing you, we would like t
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">騒音 (souon)</span> the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context.
-<br><br>
-<span class="keigo-badge info">ご迷惑 (go-meiwaku)</span> nuisance or bother; often used in apologies: ご迷惑をおかけして申し訳ございません (we are sorry for causing one trouble): and pairs naturally with noise-related complaints.
-</div>
+| Expression | Description |
+|---|---|
+| 騒音<br>souon | the formal noun for noise disturbance; the word staff should use when responding to complaints in a guest-facing context. |
+| ご迷惑<br>go-meiwaku | nuisance or bother; often used in apologies: ご迷惑をおかけして申し訳ございません (we are sorry for causing one trouble): and pairs naturally with noise-related complaints. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most critical mistake is mirroring the guest's language and saying うるさいですね: it validates the emotion but signals no professional action and sounds casual. A subtler error is assuming うるさい only refers to volume, the word can also mean annoying or bothersome in other senses, so context matters. Staff listen carefully to confirm whether the complaint is about external noise, another guest, or a facility sound before offering a solution. The correct substitution is not just swapping うるさい for 騒音; the response must also include a concrete next step.
-</div>
 
 ---
 

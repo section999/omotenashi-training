@@ -24,9 +24,10 @@ I will bring a blanket right away. Please wait just a moment.
 
 ## Related Expressions
 
-- **掛け布団 (kakebuton)**: traditional Japanese quilted blanket used over futon bedding; the ryokan equivalent of the Western-style 毛布, and a term staff need to know if their property has tatami-style rooms.
-- **枕 (makura)**: pillow; guests often ask for extra pillows and blankets at the same time, so knowing both terms and being ready to bring them together is a small but effective show of foresight.
-
+| Expression | Description |
+|---|---|
+| 掛け布団<br>kakebuton | traditional Japanese quilted blanket used over futon bedding; the ryokan equivalent of the Western-style 毛布, and a term staff need to know if their property has tatami-style rooms. |
+| 枕<br>makura | pillow; guests often ask for extra pillows and blankets at the same time, so knowing both terms and being ready to bring them together is a small but effective show of foresight. |
 
 ## Common Mistakes
 

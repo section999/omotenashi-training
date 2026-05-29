@@ -25,9 +25,10 @@ In today's evacuation drill, all staff will reconfirm the evacuation routes and 
 
 ## Related Expressions
 
-- **非常口 (hijouguchi)**: the emergency exit door at the end of the 避難経路; knowing both terms lets staff give guests a complete picture of how to get out safely
-- **集合場所 (shuugou basho)**: the outdoor assembly point where everyone gathers after evacuation; staff should pair this with 避難経路 in a safety briefing so guests understand not just where to go but where to stop
-
+| Expression | Description |
+|---|---|
+| 非常口<br>hijouguchi | the emergency exit door at the end of the 避難経路; knowing both terms lets staff give guests a complete picture of how to get out safely |
+| 集合場所<br>shuugou basho | the outdoor assembly point where everyone gathers after evacuation; staff should pair this with 避難経路 in a safety briefing so guests understand not just where to go but where to stop |
 
 ## Common Mistakes
 

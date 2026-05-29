@@ -25,9 +25,10 @@ The pool's'do not use' restriction will be lifted as soon as the water quality i
 
 ## Related Expressions
 
-- **立入禁止 (tachiiri kinshi)**: no entry; while 使用禁止 prohibits operating a specific device or facility, 立入禁止 prohibits physically entering an area or zone. It is a broader spatial restriction, not tied to a particular piece of equipment.
-- **故障中 (koshouchuu)**: out of order; used specifically when a device is broken or malfunctioning. The key difference from 使用禁止 is that 故障中 describes a technical problem, whereas 使用禁止 may be imposed on a perfectly functional facility for safety or administrative reasons.
-
+| Expression | Description |
+|---|---|
+| 立入禁止<br>tachiiri kinshi | no entry; while 使用禁止 prohibits operating a specific device or facility, 立入禁止 prohibits physically entering an area or zone. It is a broader spatial restriction, not tied to a particular piece of equipment. |
+| 故障中<br>koshouchuu | out of order; used specifically when a device is broken or malfunctioning. The key difference from 使用禁止 is that 故障中 describes a technical problem, whereas 使用禁止 may be imposed on a perfectly functional facility for safety or administrative reasons. |
 
 ## Common Mistakes
 

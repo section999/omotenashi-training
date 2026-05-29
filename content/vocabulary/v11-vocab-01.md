@@ -24,9 +24,10 @@ For reservation calls, please contact us between 9:00 a.m. and 8:00 p.m.
 
 ## Related Expressions
 
-- **お電話**: the honorific form required in all guest-facing speech; using plain 電話 when addressing a guest's call sounds overly casual and should be avoided at the front desk.
-- **電話をかける / 電話を受ける**: the two core verb phrases staff must know; かける means to place a call, 受ける means to receive one, and using them correctly prevents operational confusion.
-
+| Expression | Description |
+|---|---|
+| お電話 | the honorific form required in all guest-facing speech; using plain 電話 when addressing a guest's call sounds overly casual and should be avoided at the front desk. |
+| 電話をかける / 電話を受ける | the two core verb phrases staff must know; かける means to place a call, 受ける means to receive one, and using them correctly prevents operational confusion. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ During the stay, two towels are prepared per person.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">バスタオル (basu taoru)</span> bath towel; larger and thicker, used after bathing. Make sure to distinguish it from タオル when responding to guest requests so one deliver the right item every time.
-<br><br>
-<span class="keigo-badge info">フェイスタオル (feesu taoru)</span> face towel; thinner and smaller than the standard タオル, sometimes provided separately in higher-end amenity setups.
-</div>
+| Expression | Description |
+|---|---|
+| バスタオル<br>basu taoru | bath towel; larger and thicker, used after bathing. Make sure to distinguish it from タオル when responding to guest requests so one deliver the right item every time. |
+| フェイスタオル<br>feesu taoru | face towel; thinner and smaller than the standard タオル, sometimes provided separately in higher-end amenity setups. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Treating タオル as a catch-all word for any towel leads to delivery errors. Bringing a バスタオル when a guest asked for a hand towel, or a フェイスタオル when they expected something larger, creates a moment of disappointment. When presenting a タオル, saying just タオルどうぞ is too casual for a professional setting; こちらがタオルでございます or こちらでございます should be used instead. Towels should always be presented with both hands; one-handed delivery may seem natural, but in Japanese hospitality, two hands signal respect, and guests who know this will notice the difference.
-</div>
 
 ---
 

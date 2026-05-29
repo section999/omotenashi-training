@@ -25,9 +25,10 @@ The airport shuttle bus is complimentary, but advance reservation is required.
 
 ## Related Expressions
 
-- **有料 (yuuryou)**: the direct opposite of 無料, meaning a charge applies. Staff must be equally fluent in both terms and able to use them without hesitation. A single check-in explanation might need both: Wi-Fi is 無料, but room service is 有料.
-- **サービス料込み (saabisu ryou komi)**: meaning "service charge included," used in restaurants and hotels where a percentage-based fee is built into the bill. It reassures guests that tipping is unnecessary in Japan, and distinguishes all-inclusive pricing from individual 有料 items.
-
+| Expression | Description |
+|---|---|
+| 有料<br>yuuryou | the direct opposite of 無料, meaning a charge applies. Staff must be equally fluent in both terms and able to use them without hesitation. A single check-in explanation might need both: Wi-Fi is 無料, but room service is 有料. |
+| サービス料込み<br>saabisu ryou komi | meaning "service charge included," used in restaurants and hotels where a percentage-based fee is built into the bill. It reassures guests that tipping is unnecessary in Japan, and distinguishes all-inclusive pricing from individual 有料 items. |
 
 ## Common Mistakes
 

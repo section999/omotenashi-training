@@ -26,17 +26,14 @@ There is a convenience store just nearby, so I trust one will find everything yo
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">遠い (tooi)</span> far; the natural antonym of 近く; should be handled delicately in guest communication, always paired with an alternative solution such as a taxi or bus recommendation rather than left as a simple negative.
-<br><br>
-<span class="keigo-badge info">徒歩〇分 (toho ~-fun)</span> a [number]-minute walk; used to give 近く concrete meaning; far more useful than 近く alone because it sets a precise expectation for the guest.
-</div>
+| Expression | Description |
+|---|---|
+| 遠い<br>tooi | far; the natural antonym of 近く; should be handled delicately in guest communication, always paired with an alternative solution such as a taxi or bus recommendation rather than left as a simple negative. |
+| 徒歩〇分<br>toho ~-fun | a [number]-minute walk; used to give 近く concrete meaning; far more useful than 近く alone because it sets a precise expectation for the guest. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 近く without any supporting detail leaves the guest uncertain about whether they can walk or need transport. Following up with a time estimate or landmark is recommended. There is also a tendency to overuse 近く to avoid delivering disappointing news about distance. If a destination takes 15 to 20 minutes on foot, calling it 近く is misleading and damages trust. Finally, 「近いです」 is acceptable but 「近くにございます」 or 「近くでございます」 is the more polished register for hotel staff.
-</div>
 
 ---
 

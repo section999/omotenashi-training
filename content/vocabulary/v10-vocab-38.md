@@ -24,9 +24,10 @@ If the card is invalid, would you be able to use an alternative payment method?
 
 ## Related Expressions
 
-- **有効 (yūkō)**: valid; the direct opposite of 無効, confirming that a coupon, card, or document can be used
-- **有効期限 (yūkō kigen)**: expiry date; the most common reason a coupon or card becomes 無効
-
+| Expression | Description |
+|---|---|
+| 有効<br>yūkō | valid; the direct opposite of 無効, confirming that a coupon, card, or document can be used |
+| 有効期限<br>yūkō kigen | expiry date; the most common reason a coupon or card becomes 無効 |
 
 ## Common Mistakes
 

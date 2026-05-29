@@ -25,17 +25,14 @@ Your change is one 500-yen coin. Please verify the amount.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お預かりいたします (o-azukari itashimasu)</span> "I will take/receive [the amount]"; the formal phrase used when accepting cash from a guest before counting out お釣り; always spoken before handling the money.
-<br><br>
-<span class="keigo-badge info">両替 (ryougae)</span> currency exchange or bill-breaking; sometimes guests hand over large bills not to pay but to get smaller denominations, which is a 両替 request rather than an お釣り situation.
-</div>
+| Expression | Description |
+|---|---|
+| お預かりいたします<br>o-azukari itashimasu | "I will take/receive [the amount]"; the formal phrase used when accepting cash from a guest before counting out お釣り; always spoken before handling the money. |
+| 両替<br>ryougae | currency exchange or bill-breaking; sometimes guests hand over large bills not to pay but to get smaller denominations, which is a 両替 request rather than an お釣り situation. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Returning お釣り without stating the amount aloud removes the transparency check and can lead to disputes. A common error is to handle change with one hand or place it directly on the counter without a tray: both are considered informal and below standard in hospitality contexts. Avoid the casual はい、お釣りです; the correct form is お釣りは〇〇円でございます, spoken clearly before handing the change over.
-</div>
 
 ---
 

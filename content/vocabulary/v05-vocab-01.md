@@ -25,9 +25,10 @@ We warmly invite you to enjoy dinner at the hotel restaurant.
 
 ## Related Expressions
 
-- **食堂 (shokudou)**: a more utilitarian dining hall, common in ryokan or staff canteen settings; carries a much less polished feel than レストラン and is rarely the right word to use in guest-facing situations
-- **ダイニング (dainingu)**: an upscale loanword alternative used in some luxury hotel branding; similar in meaning but implies a slightly more curated, refined atmosphere
-
+| Expression | Description |
+|---|---|
+| 食堂<br>shokudou | a more utilitarian dining hall, common in ryokan or staff canteen settings; carries a much less polished feel than レストラン and is rarely the right word to use in guest-facing situations |
+| ダイニング<br>dainingu | an upscale loanword alternative used in some luxury hotel branding; similar in meaning but implies a slightly more curated, refined atmosphere |
 
 ## Common Mistakes
 

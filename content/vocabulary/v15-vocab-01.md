@@ -26,17 +26,14 @@ At our ryokan, we will have your laundry finished and delivered to the room by t
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">洗濯 (sentaku)</span> the native Japanese word for the act of washing clothes, more domestic in tone. ランドリー leans toward a commercial facility or hotel service, while 洗濯 feels more like something done at home.
-<br><br>
-<span class="keigo-badge info">クリーニング (kuriiningu)</span> professional dry cleaning using chemical solvents, the right choice for suits, formal dresses, and any garment whose care label says no water washing.
-</div>
+| Expression | Description |
+|---|---|
+| 洗濯<br>sentaku | the native Japanese word for the act of washing clothes, more domestic in tone. ランドリー leans toward a commercial facility or hotel service, while 洗濯 feels more like something done at home. |
+| クリーニング<br>kuriiningu | professional dry cleaning using chemical solvents, the right choice for suits, formal dresses, and any garment whose care label says no water washing. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to use ランドリー and 洗濯 as if they mean exactly the same thing. They are close, but 洗濯 is the word for doing laundry at home, while ランドリー points to a commercial facility or service. Staff should avoid saying ランドリーをする when describing personal home washing; 洗濯をする is the natural phrase there. Additionally, when a guest asks about ランドリー, staff should check whether they mean regular washing or dry cleaning. Some guests use ランドリー loosely to mean "get my clothes cleaned," and the answer changes significantly depending on what they need.
-</div>
 
 ---
 

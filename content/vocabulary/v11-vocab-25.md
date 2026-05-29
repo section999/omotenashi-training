@@ -24,9 +24,10 @@ The person in charge is away from their desk as they are currently handling a ma
 
 ## Related Expressions
 
-- **保留 (horyuu)**: being placed on hold during a phone call. The guest is waiting on the line while their request is 対応中. 保留 is the waiting state and 対応中 is what is happening during that wait.
-- **完了 (kanryou)**: completion or conclusion. 対応中 tells the guest work is underway; 完了 (対応が完了いたしました) closes the loop and tells them it is done. A smooth service cycle moves from 対応中 to 完了 with timely communication at each step.
-
+| Expression | Description |
+|---|---|
+| 保留<br>horyuu | being placed on hold during a phone call. The guest is waiting on the line while their request is 対応中. 保留 is the waiting state and 対応中 is what is happening during that wait. |
+| 完了<br>kanryou | completion or conclusion. 対応中 tells the guest work is underway; 完了 (対応が完了いたしました) closes the loop and tells them it is done. A smooth service cycle moves from 対応中 to 完了 with timely communication at each step. |
 
 ## Common Mistakes
 

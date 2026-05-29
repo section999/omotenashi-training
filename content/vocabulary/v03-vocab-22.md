@@ -24,9 +24,10 @@ Should you forget your PIN, please do not hesitate to contact the front desk.
 
 ## Related Expressions
 
-- **お貴重品 (o-kichouhin)**: "valuables"; the word almost always paired with 金庫 in hospitality speech. Staff should memorize 「お貴重品は金庫にお入れください」 as a single unit, because staff will say it exactly that way at every check-in.
-- **クローゼット (kuroozetto)**: the wardrobe or closet where the 金庫 is typically housed. When directing guests to the safe, staff will usually say 「金庫はクローゼットの中にございます」, so these two words go hand in hand.
-
+| Expression | Description |
+|---|---|
+| お貴重品<br>o-kichouhin | "valuables"; the word almost always paired with 金庫 in hospitality speech. Staff should memorize 「お貴重品は金庫にお入れください」 as a single unit, because staff will say it exactly that way at every check-in. |
+| クローゼット<br>kuroozetto | the wardrobe or closet where the 金庫 is typically housed. When directing guests to the safe, staff will usually say 「金庫はクローゼットの中にございます」, so these two words go hand in hand. |
 
 ## Common Mistakes
 

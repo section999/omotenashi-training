@@ -24,9 +24,10 @@ In the case of a same-day cancellation, the full accommodation charge may be col
 
 ## Related Expressions
 
-- **無料キャンセル (muryou kyanseru)**: the window during which a guest can cancel at no cost; many plans advertise this as a selling point, and knowing both terms together lets one explain the full cancellation policy in a single clear statement.
-- **返金 (henkin)**: refund; when a cancellation results in a partial charge, the remaining amount goes back to the guest as 返金; being clear about both sides of the transaction, what is charged and what is returned, keeps the conversation honest and avoids confusion.
-
+| Expression | Description |
+|---|---|
+| 無料キャンセル<br>muryou kyanseru | the window during which a guest can cancel at no cost; many plans advertise this as a selling point, and knowing both terms together lets one explain the full cancellation policy in a single clear statement. |
+| 返金<br>henkin | refund; when a cancellation results in a partial charge, the remaining amount goes back to the guest as 返金; being clear about both sides of the transaction, what is charged and what is returned, keeps the conversation honest and avoids confusion. |
 
 ## Common Mistakes
 

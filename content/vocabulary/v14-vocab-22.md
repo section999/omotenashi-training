@@ -26,17 +26,14 @@ You can view the shinkansen timetable on this tablet.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ダイヤ (daiya)</span> short for ダイヤグラム (diagram); refers to a train's operational schedule and used when discussing whether services are running on time (ダイヤ通り) or delayed
-<br><br>
-<span class="keigo-badge info">発車時刻 (hassha jikoku)</span> departure time; a key element within any 時刻表, specifically the moment a service leaves a stop or station
-</div>
+| Expression | Description |
+|---|---|
+| ダイヤ<br>daiya | short for ダイヤグラム (diagram); refers to a train's operational schedule and used when discussing whether services are running on time (ダイヤ通り) or delayed |
+| 発車時刻<br>hassha jikoku | departure time; a key element within any 時刻表, specifically the moment a service leaves a stop or station |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 スケジュール (schedule) and 時刻表 are not the same thing. スケジュール is a personal agenda or event schedule, while 時刻表 refers specifically to a transport timetable. In hospitality, using 時刻表 when discussing trains and buses sounds precise and professional. However, the confusion that causes real problems is between 到着時刻 (arrival time) and 発車時刻 (departure time). When a guest asks what time the train is, staff should confirm which one they need: the answer is different by several minutes, and getting it wrong can mean a missed connection.
-</div>
 
 ---
 

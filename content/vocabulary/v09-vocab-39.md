@@ -26,17 +26,14 @@ We would greatly appreciate it if one could contact us before the deadline.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">期限 (kigen)</span> a general term for an expiry or time limit; broader and sometimes renewable, whereas 締切 is typically absolute and non-negotiable
-<br><br>
-<span class="keigo-badge info">有効期限 (yuukou kigen)</span> validity period, used for coupons or points; related to time constraints but focuses on when a benefit expires rather than when an action must be taken
-</div>
+| Expression | Description |
+|---|---|
+| 期限<br>kigen | a general term for an expiry or time limit; broader and sometimes renewable, whereas 締切 is typically absolute and non-negotiable |
+| 有効期限<br>yuukou kigen | validity period, used for coupons or points; related to time constraints but focuses on when a benefit expires rather than when an action must be taken |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to use 締切 and 期限 interchangeably, but in hospitality contexts this can cause confusion: 締切 signals a hard stop, while 期限 may imply some flexibility. Another common error is stating a 締切 without specifying the time zone or exact hour, which is especially problematic for international guests or cross-regional bookings. Vague expressions like 締切が近いです without concrete dates can cause anxiety or lead guests to assume the deadline is further away than it is.
-</div>
 
 ---
 

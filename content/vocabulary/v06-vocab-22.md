@@ -24,9 +24,10 @@ If the remote control is not working, please contact the front desk with a repla
 
 ## Related Expressions
 
-- **追加 (tsuika)**: Means an addition, i.e., the guest wants more of something on top of what they have. This is distinct from 交換希望, where the guest wants to swap an existing item. Housekeeping and front desk staff must log these separately to ensure correct responses: delivery of a new towel alongside the existing one versus a swap.
-- **修理依頼 (shuurii irai)**: A repair request, used when an item is broken or malfunctioning but the guest or staff want it fixed rather than replaced. If a guest reports a broken shower head, the correct categorization may be 修理依頼 (call maintenance to fix it) rather than 交換希望 (swap it out entirely), though both options should be considered based on urgency.
-
+| Expression | Description |
+|---|---|
+| 追加<br>tsuika | Means an addition, i.e., the guest wants more of something on top of what they have. This is distinct from 交換希望, where the guest wants to swap an existing item. Housekeeping and front desk staff must log these separately to ensure correct responses: delivery of a new towel alongside the existing one versus a swap. |
+| 修理依頼<br>shuurii irai | A repair request, used when an item is broken or malfunctioning but the guest or staff want it fixed rather than replaced. If a guest reports a broken shower head, the correct categorization may be 修理依頼 (call maintenance to fix it) rather than 交換希望 (swap it out entirely), though both options should be considered based on urgency. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Restaurant reservations can be made by phone or at the front desk.
 
 ## Related Expressions
 
-- **予約確認 (yoyaku kakunin)**: reservation confirmation; the specific act of verifying existing booking details, often performed at check-in.
-- **予約変更 (yoyaku henkō)**: reservation modification; changing dates, room type, or guest count after an initial booking has been made.
-
+| Expression | Description |
+|---|---|
+| 予約確認<br>yoyaku kakunin | reservation confirmation; the specific act of verifying existing booking details, often performed at check-in. |
+| 予約変更<br>yoyaku henkō | reservation modification; changing dates, room type, or guest count after an initial booking has been made. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Shall I also bring a dessert fork along with that?
 
 ## Related Expressions
 
-- **ナイフ (naifu)**: Knife. フォーク and ナイフ are the two foundational Western cutlery items; they are routinely set and replaced as a pair, and staff should think of them together rather than as isolated items when assessing a table's readiness.
-- **スプーン (supuun)**: Spoon. The full Western cutlery trio is ナイフ・フォーク・スプーン; knowing all three terms and their placement rules (spoon to the right of the knife) prepares staff for complete table setup and guest requests.
-
+| Expression | Description |
+|---|---|
+| ナイフ<br>naifu | Knife. フォーク and ナイフ are the two foundational Western cutlery items; they are routinely set and replaced as a pair, and staff should think of them together rather than as isolated items when assessing a table's readiness. |
+| スプーン<br>supuun | Spoon. The full Western cutlery trio is ナイフ・フォーク・スプーン; knowing all three terms and their placement rules (spoon to the right of the knife) prepares staff for complete table setup and guest requests. |
 
 ## Common Mistakes
 

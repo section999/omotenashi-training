@@ -24,9 +24,10 @@ If you have medications or other items requiring refrigeration, please use the r
 
 ## Related Expressions
 
-- **ミニバー (minibaa)**: the English loanword used when the 冷蔵庫 is pre-stocked as a minibar. A ミニバー means everything inside is priced and tracked; an empty 冷蔵庫 is free for guests to use. Making this distinction clear avoids billing disputes.
-- **製氷機 (seihouki)**: ice machine, typically in the corridor on each floor. When guests want ice for their 冷蔵庫 drinks, point them here, and knowing this term lets staff give a complete, helpful answer.
-
+| Expression | Description |
+|---|---|
+| ミニバー<br>minibaa | the English loanword used when the 冷蔵庫 is pre-stocked as a minibar. A ミニバー means everything inside is priced and tracked; an empty 冷蔵庫 is free for guests to use. Making this distinction clear avoids billing disputes. |
+| 製氷機<br>seihouki | ice machine, typically in the corridor on each floor. When guests want ice for their 冷蔵庫 drinks, point them here, and knowing this term lets staff give a complete, helpful answer. |
 
 ## Common Mistakes
 

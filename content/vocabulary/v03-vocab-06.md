@@ -25,17 +25,14 @@ If there is anything you need, please let us know from the suite at any time.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ジュニアスイート (junia suiito)</span> a smaller entry-level suite with partial separation between sleeping and sitting areas; a good stepping stone for guests who want a premium feel without the full スイートルーム footprint
-<br><br>
-<span class="keigo-badge info">デラックスルーム (derakkusu-ruumu)</span> a high-grade standard room, not a suite; guests sometimes confuse these two, so be ready to explain the difference between a premium room and a multi-area suite
-</div>
+| Expression | Description |
+|---|---|
+| ジュニアスイート<br>junia suiito | a smaller entry-level suite with partial separation between sleeping and sitting areas; a good stepping stone for guests who want a premium feel without the full スイートルーム footprint |
+| デラックスルーム<br>derakkusu-ruumu | a high-grade standard room, not a suite; guests sometimes confuse these two, so be ready to explain the difference between a premium room and a multi-area suite |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Slipping into casual or abbreviated speech around スイートルーム guests is a register error that undercuts the premium experience the guest is paying for. Language should remain consistently formal and calm throughout the interaction. Skipping the suite orientation on arrival and leaving guests to discover the layout themselves is another common gap, guests should be guided through the space, not left to explore it. On pronunciation, スイート is sometimes delivered with heavy stress on the first syllable. The long vowel in スイー should be held for two clear beats, スイー-ト, not スイ-ート.
-</div>
 
 ---
 ## Quiz

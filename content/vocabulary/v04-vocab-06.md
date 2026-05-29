@@ -25,17 +25,14 @@ For guests staying multiple nights, we provide a sheet change once every three d
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">タオル交換 (taoru koukan)</span> Towel replacement; often requested alongside シーツ交換 but refers specifically to bath and hand towels, not bed linen.
-<br><br>
-<span class="keigo-badge info">ターンダウン (taandaun)</span> Turndown service; a premium evening service that includes straightening the bed and sometimes involves refreshing linen, distinct from full シーツ交換.
-</div>
+| Expression | Description |
+|---|---|
+| タオル交換<br>taoru koukan | Towel replacement; often requested alongside シーツ交換 but refers specifically to bath and hand towels, not bed linen. |
+| ターンダウン<br>taandaun | Turndown service; a premium evening service that includes straightening the bed and sometimes involves refreshing linen, distinct from full シーツ交換. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Confusing シーツ (sheets) with タオル (towels) when responding to a guest request is an easy mistake that wastes time. Always confirm what the guest is asking for before going to get anything. 取り替え (torikae) also tends to appear in guest-facing speech, but 交換 sounds more professional in a hotel context. Never tell a guest that a sheet change outside the regular schedule cannot be done without checking with a supervisor first.
-</div>
 
 ---
 

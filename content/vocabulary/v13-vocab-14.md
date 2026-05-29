@@ -24,9 +24,10 @@ In new employee training, we focus heavily on guidance regarding guest service e
 
 ## Related Expressions
 
-- **ご指導ください (go-shidou kudasai)**: a polite request for guidance, used by staff seeking direction from a superior
-- **OJT (on-the-job training)**: the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting
-
+| Expression | Description |
+|---|---|
+| ご指導ください<br>go-shidou kudasai | a polite request for guidance, used by staff seeking direction from a superior |
+| OJT<br>on-the-job training | the common hospitality practice of 指導 delivered during actual work rather than in a classroom setting |
 
 ## Common Mistakes
 

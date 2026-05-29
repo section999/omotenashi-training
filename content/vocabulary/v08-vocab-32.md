@@ -25,9 +25,10 @@ The taxi stand is outside to the left. As it is raining today, please take an um
 
 ## Related Expressions
 
-- **中 (naka)**: Inside, the direct opposite of 外. These two together cover the indoor/outdoor distinction that is central to hotel navigation. If one is confident with both, staff can answer almost any location question clearly.
-- **建物の外 (tatemono no soto)**: Outside the building, the most common compound phrase using 外 in hotel directions. More specific than 外 alone because it names the reference boundary explicitly, which helps guests who are not yet familiar with the property layout.
-
+| Expression | Description |
+|---|---|
+| 中<br>naka | Inside, the direct opposite of 外. These two together cover the indoor/outdoor distinction that is central to hotel navigation. If one is confident with both, staff can answer almost any location question clearly. |
+| 建物の外<br>tatemono no soto | Outside the building, the most common compound phrase using 外 in hotel directions. More specific than 外 alone because it names the reference boundary explicitly, which helps guests who are not yet familiar with the property layout. |
 
 ## Common Mistakes
 

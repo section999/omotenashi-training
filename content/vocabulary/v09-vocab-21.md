@@ -24,9 +24,10 @@ During the free cancellation period, contacting us by phone or email is all that
 
 ## Related Expressions
 
-- **キャンセル料 (kyanseru ryou)**: the fee that kicks in once the 無料キャンセル window has closed; these two terms define the two sides of any cancellation policy, and the clearest way to explain it is together: 「〇日前までは無料キャンセルが可能ですが、それ以降はキャンセル料が発生いたします」.
-- **返金不可 (henkin fuka)**: "non-refundable," the opposite end of the spectrum from 無料キャンセル; some lower-priced plans carry this condition, meaning no refund is issued regardless of timing; knowing all three terms together lets one explain the full range of cancellation conditions their property offers.
-
+| Expression | Description |
+|---|---|
+| キャンセル料<br>kyanseru ryou | the fee that kicks in once the 無料キャンセル window has closed; these two terms define the two sides of any cancellation policy, and the clearest way to explain it is together: 「〇日前までは無料キャンセルが可能ですが、それ以降はキャンセル料が発生いたします」. |
+| 返金不可<br>henkin fuka | "non-refundable," the opposite end of the spectrum from 無料キャンセル; some lower-priced plans carry this condition, meaning no refund is issued regardless of timing; knowing all three terms together lets one explain the full range of cancellation conditions their property offers. |
 
 ## Common Mistakes
 

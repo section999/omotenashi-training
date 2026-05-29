@@ -24,9 +24,10 @@ Temporary luggage storage is available only within the designated usage hours.
 
 ## Related Expressions
 
-- **営業時間 (eigyou jikan)**: business hours; similar concept to 利用時間, but this one is used for shops, restaurants, or service counters that are staffed, not self-use facilities where guests walk in directly
-- **受付時間 (uketsuke jikan)**: reception hours; the specific window when a desk or counter is staffed and taking requests, which is often shorter than the facility's overall 利用時間
-
+| Expression | Description |
+|---|---|
+| 営業時間<br>eigyou jikan | business hours; similar concept to 利用時間, but this one is used for shops, restaurants, or service counters that are staffed, not self-use facilities where guests walk in directly |
+| 受付時間<br>uketsuke jikan | reception hours; the specific window when a desk or counter is staffed and taking requests, which is often shorter than the facility's overall 利用時間 |
 
 ## Common Mistakes
 

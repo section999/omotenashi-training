@@ -24,9 +24,10 @@ I will check with housekeeping via the internal line right now.
 
 ## Related Expressions
 
-- **外線**: the external line for calls outside the hotel; guests should be reminded that 外線 may incur charges, unlike 内線 calls which are generally free within the property
-- **内線番号**: the specific extension number assigned to a room or department; the number should be repeated clearly and confirmed with the guest before ending the conversation
-
+| Expression | Description |
+|---|---|
+| 外線 | the external line for calls outside the hotel; guests should be reminded that 外線 may incur charges, unlike 内線 calls which are generally free within the property |
+| 内線番号 | the specific extension number assigned to a room or department; the number should be repeated clearly and confirmed with the guest before ending the conversation |
 
 ## Common Mistakes
 

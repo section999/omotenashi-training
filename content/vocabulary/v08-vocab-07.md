@@ -26,17 +26,14 @@ The restaurant is on the 2nd floor and the spa is on the 4th floor.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">フロア (furoa)</span> the loanword for "floor," borrowed from English; used interchangeably with 階 in some modern hotel settings, particularly on digital displays or in English-heavy environments, but 階 remains the standard in formal Japanese hospitality speech
-<br><br>
-<span class="keigo-badge info">〜番地 (〜banchi)</span> the address-specific numbering system used outdoors; entirely different from 階, which applies strictly to vertical floor levels within a building
-</div>
+| Expression | Description |
+|---|---|
+| フロア<br>furoa | the loanword for "floor," borrowed from English; used interchangeably with 階 in some modern hotel settings, particularly on digital displays or in English-heavy environments, but 階 remains the standard in formal Japanese hospitality speech |
+| 〜番地<br>〜banchi | the address-specific numbering system used outdoors; entirely different from 階, which applies strictly to vertical floor levels within a building |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common mistake is mispronouncing floor numbers: 一階 is ikkai, not ichi-kai; 六階 is rokkai; 八階 is hakkai. These irregular readings need to be memorised through consistent practice. Another common mistake is saying 〇階です instead of 〇階にございます, which is grammatically fine but lacks the formality expected in hotel service. A practically costly mistake is forgetting to specify the access method after naming the floor. For guests with mobility considerations, knowing whether to take the elevator or stairs matters as much as knowing which floor to aim for.
-</div>
 
 ---
 ## Quiz

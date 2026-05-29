@@ -4,11 +4,11 @@ section: 4
 title: こんばんは (konbanwa)
 ---
 
-**こんばんは** is the standard evening greeting in Japanese, used from approximately 6:00 PM onward, or whenever the shift from afternoon to evening is clearly felt. It carries a slightly quieter, more reflective warmth than the daytime greetings. Evening arrivals often involve guests who are tired from travel or full from a day of activity, and *konbanwa* acknowledges that temporal shift with an unhurried warmth.
+**こんばんは** is the standard evening greeting in Japanese, used from approximately 6:00 PM onward, or whenever the shift from afternoon to evening is clearly felt. It carries a slightly quieter, more reflective warmth than the daytime greetings. Evening arrivals often involve guests who are tired from travel or full from a day of activity, and こんばんは acknowledges that temporal shift with an unhurried warmth.
 
-In hospitality, the evening greeting window is important because it often coincides with the most sensitive arrival moments: guests checking in after a long journey, returning from dinner, or arriving late-night after many hours of travel. The tone of *konbanwa* matters here. A well-delivered greeting, calm, warm, attentive, tells a tired guest that the property is still fully present regardless of the hour. There is a temptation in busy evening periods to deliver it on autopilot; that temptation should be resisted.
+In hospitality, the evening greeting window is important because it often coincides with the most sensitive arrival moments: guests checking in after a long journey, returning from dinner, or arriving late-night after many hours of travel. The tone of こんばんは matters here. A well-delivered greeting, calm, warm, attentive, tells a tired guest that the property is still fully present regardless of the hour. There is a temptation in busy evening periods to deliver it on autopilot; that temptation should be resisted.
 
-The phrase has the same structural origin as *konnichiwa*, both were once part of longer expressions about how "today/tonight is going", but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous
+The phrase has the same structural origin as こんにちは, both were once part of longer expressions about how "today/tonight is going", but in modern use it functions as a simple, sincere evening acknowledgement. Use it whenever the sun has set or when the atmosphere clearly feels like evening, even if the exact clock hour is ambiguous
 
 
 ## Example Sentences
@@ -29,19 +29,15 @@ Good evening. Thank you for choosing us again today.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">こんにちは (konnichiwa)</span> The daytime greeting that *konbanwa* follows as evening arrives
-<br><br>
-<span class="keigo-badge info">おやすみなさい (oyasumi nasai)</span> Good night, used when parting for sleep rather than as a general evening greeting
-<br><br>
-<span class="keigo-badge info">夜遅くに申し訳ございません (yoru osoku ni moushiwake gozaimasen)</span> "I am sorry for the late hour": useful when contacting guests after a certain hour
-</div>
+| Expression | Description |
+|---|---|
+| こんにちは<br>konnichiwa | The daytime greeting that こんばんは follows as evening arrives |
+| おやすみなさい<br>oyasumi nasai | Good night, used when parting for sleep rather than as a general evening greeting |
+| 夜遅くに申し訳ございません<br>yoru osoku ni moushiwake gozaimasen | "I am sorry for the late hour": useful when contacting guests after a certain hour |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
-The most common timing error is using *konbanwa* too early, in late afternoon when it is still clearly daytime. Some staff also continue using *konnichiwa* well into the evening out of habit; staff should pay attention to the light, the hour, and the atmosphere. *Konbanwa* is a greeting said when seeing someone, while *oyasumi nasai* is a farewell said when parting at night. They serve different moments and are not interchangeable.
-</div>
+The most common timing error is using こんばんは too early, in late afternoon when it is still clearly daytime. Some staff also continue using こんにちは well into the evening out of habit; staff should pay attention to the light, the hour, and the atmosphere. こんばんは is a greeting said when seeing someone, while おやすみなさい is a farewell said when parting at night. They serve different moments and are not interchangeable.
 
 ---
 
@@ -56,4 +52,4 @@ The most common timing error is using *konbanwa* too early, in late afternoon wh
 
 **Correct Answer:** こんばんは。(Good evening.)
 
-**Explanation:** At 8:15 PM, *konbanwa* is the right greeting because the shift to evening is clearly established. *Konnichiwa* and *ohayō gozaimasu* belong to earlier parts of the day, and *otsukaresama desu* is a phrase shared between colleagues, not offered to arriving guests.
+**Explanation:** At 8:15 PM, こんばんは is the right greeting because the shift to evening is clearly established. こんにちは and おはようございます belong to earlier parts of the day, and お疲れ様です is a phrase shared between colleagues, not offered to arriving guests.

@@ -24,9 +24,10 @@ If you have any questions, please call the front desk from the guest room.
 
 ## Related Expressions
 
-- **部屋 (heya)**: the neutral, everyday word for "room"; appropriate in casual conversation with guests but too informal for written or official hotel communication.
-- **お部屋 (o-heya)**: the honorific form of 部屋; more polite than plain 部屋 and acceptable in spoken guest interactions, though still less formal than 客室.
-
+| Expression | Description |
+|---|---|
+| 部屋<br>heya | the neutral, everyday word for "room"; appropriate in casual conversation with guests but too informal for written or official hotel communication. |
+| お部屋<br>o-heya | the honorific form of 部屋; more polite than plain 部屋 and acceptable in spoken guest interactions, though still less formal than 客室. |
 
 ## Common Mistakes
 

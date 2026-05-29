@@ -25,9 +25,10 @@ If one is unsure of the password, please contact the front desk at any time.
 
 ## Related Expressions
 
-- **暗証番号 (anshou bangou)**: a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when staff is explaining to a guest which type of credential they need.
-- **ネットワーク名 / SSID (nettowaaку mei / SSID)**: the name of the Wi-Fi network a device must select before entering the パスワード. Both the network name and the password should be presented together, since many guests, particularly older travellers, may not know which network to choose.
-
+| Expression | Description |
+|---|---|
+| 暗証番号<br>anshou bangou | a PIN code, always numeric, used for room safes, ATMs, and electronic locks. Unlike パスワード, which may contain letters and symbols, 暗証番号 is numbers only. The distinction matters when staff is explaining to a guest which type of credential they need. |
+| ネットワーク名 / SSID<br>nettowaaку mei / SSID | the name of the Wi-Fi network a device must select before entering the パスワード. Both the network name and the password should be presented together, since many guests, particularly older travellers, may not know which network to choose. |
 
 ## Common Mistakes
 

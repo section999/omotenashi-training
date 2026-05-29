@@ -25,9 +25,10 @@ If you forget your key, please let us know at the front desk.
 
 ## Related Expressions
 
-- **ルームキー (rūmu kī)**: room key, a more specific term that makes clear the key is for the guest room. In hotels that run both physical and card-based systems, ルームキー can refer to either type, while 鍵 specifically implies a physical metal key.
-- **カードキー (kādo kī)**: card key, the electronic access card used in most modern hotels. Functionally the same as 鍵 in purpose, but staff should use the appropriate term for their property's system rather than defaulting to 鍵 when what they mean is a card.
-
+| Expression | Description |
+|---|---|
+| ルームキー<br>rūmu kī | room key, a more specific term that makes clear the key is for the guest room. In hotels that run both physical and card-based systems, ルームキー can refer to either type, while 鍵 specifically implies a physical metal key. |
+| カードキー<br>kādo kī | card key, the electronic access card used in most modern hotels. Functionally the same as 鍵 in purpose, but staff should use the appropriate term for their property's system rather than defaulting to 鍵 when what they mean is a card. |
 
 ## Common Mistakes
 

@@ -26,17 +26,14 @@ If you have a preferred delivery time, please feel free to let us know.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">発送 (hassou)</span> sending or dispatching items from the hotel outward; think of 発送 as the outbound action and 配達 as the inbound arrival.
-<br><br>
-<span class="keigo-badge info">受取 (uketori)</span> the act of receiving delivered items from the guest's side; it pairs naturally with 配達 as the other half of the same transaction.
-</div>
+| Expression | Description |
+|---|---|
+| 発送<br>hassou | sending or dispatching items from the hotel outward; think of 発送 as the outbound action and 配達 as the inbound arrival. |
+| 受取<br>uketori | the act of receiving delivered items from the guest's side; it pairs naturally with 配達 as the other half of the same transaction. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to mix up 配達 and 発送, and it is an easy trap to fall into. Remember that 配達 is the delivery from the sender's side reaching someone, while 発送 is the act of dispatching something from the sender's end. Another common issue is register: saying 配達する in guest-facing speech sounds too plain. Use 配達いたします or, even better, お届けいたします when talking directly with guests. However, the bigger practical mistake is over-promising on timing. Staff should never give a guest a specific delivery window unless they are confident they can keep it. In Japan especially, stating a time creates a real commitment.
-</div>
 
 ---
 

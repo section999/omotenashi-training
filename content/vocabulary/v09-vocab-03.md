@@ -25,9 +25,10 @@ If you wish to change the stay dates, we will check availability.
 
 ## Related Expressions
 
-- **到着日 (touchaku bi)**: the specific first day of the stay; useful when staff need to distinguish the check-in date from the full stay window
-- **出発日 (shuppatsu bi)**: the specific last day, or check-out date; always paired with 到着日 to define the complete 宿泊日 range
-
+| Expression | Description |
+|---|---|
+| 到着日<br>touchaku bi | the specific first day of the stay; useful when staff need to distinguish the check-in date from the full stay window |
+| 出発日<br>shuppatsu bi | the specific last day, or check-out date; always paired with 到着日 to define the complete 宿泊日 range |
 
 ## Common Mistakes
 

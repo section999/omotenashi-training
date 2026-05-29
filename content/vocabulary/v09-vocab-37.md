@@ -25,9 +25,10 @@ If your arrival time has changed or if one has any new requests, please let us k
 
 ## Related Expressions
 
-- **確認 (kakunin)**: confirmation; the initial verification done at the time of booking. 再確認 is the follow-up done closer to arrival, and the 再 prefix signals a revisiting rather than a first-time confirmation.
-- **予約変更 (yoyaku henkou)**: reservation change; a 再確認 call frequently uncovers the need for a 予約変更, and handling both in the same call is perfectly natural and efficient.
-
+| Expression | Description |
+|---|---|
+| 確認<br>kakunin | confirmation; the initial verification done at the time of booking. 再確認 is the follow-up done closer to arrival, and the 再 prefix signals a revisiting rather than a first-time confirmation. |
+| 予約変更<br>yoyaku henkou | reservation change; a 再確認 call frequently uncovers the need for a 予約変更, and handling both in the same call is perfectly natural and efficient. |
 
 ## Common Mistakes
 

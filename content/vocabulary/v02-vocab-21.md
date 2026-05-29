@@ -25,17 +25,14 @@ Allow me to confirm the details of your change.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">キャンセル (kyanseru)</span> cancellation, which ends a reservation entirely rather than adjusting it. The two terms carry different fee implications and require different procedural steps, so clarify which the guest wants before taking any action.
-<br><br>
-<span class="keigo-badge info">修正 (shūsei)</span> correction or revision, typically used in back-office contexts when fixing a clerical error in a booking record. Unlike 変更, which reflects a guest's deliberate choice to alter something, 修正 is about fixing a mistake that already exists.
-</div>
+| Expression | Description |
+|---|---|
+| キャンセル<br>kyanseru | cancellation, which ends a reservation entirely rather than adjusting it. The two terms carry different fee implications and require different procedural steps, so clarify which the guest wants before taking any action. |
+| 修正<br>shūsei | correction or revision, typically used in back-office contexts when fixing a clerical error in a booking record. Unlike 変更, which reflects a guest's deliberate choice to alter something, 修正 is about fixing a mistake that already exists. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 a notable common errors new staff make is saying 変更できません and leaving it there. In hospitality, a flat refusal without alternatives is almost never the right response. Always check what options exist before responding to a change request. If the exact change is not possible, offer the closest available alternative. A separate issue is confusing 変更 with 交換 (kōkan), which is about exchanging physical items, not modifying a reservation. Also, any 変更 confirmed verbally must be logged in the system immediately. What gets said at the desk and what the system shows must always match.
-</div>
 
 ---
 ## Quiz

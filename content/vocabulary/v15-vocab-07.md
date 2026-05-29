@@ -26,17 +26,14 @@ If there is no ironing board in the room at this time, please let us know and we
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">アイロン (airon)</span> the iron itself; these two items go together as a pair and are typically requested and stored that way.
-<br><br>
-<span class="keigo-badge info">プレス台 (puresu dai)</span> a pressing board used in professional tailoring or laundry settings, designed for more controlled and precise pressing than a standard アイロン台.
-</div>
+| Expression | Description |
+|---|---|
+| アイロン<br>airon | the iron itself; these two items go together as a pair and are typically requested and stored that way. |
+| プレス台<br>puresu dai | a pressing board used in professional tailoring or laundry settings, designed for more controlled and precise pressing than a standard アイロン台. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to shorten アイロン台 to just アイロン when speaking quickly, which can confuse a guest who is specifically asking for the board and not the iron. Staff should get into the habit of using the full term. Another gap that comes up: learners sometimes forget to mention that the board should be fully set up and stable before the iron is switched on. A guest who heats the iron first and then tries to unfold a stiff board one-handed is not going to have a good time. 台 (dai) shows up in many other hospitality words, like 受付台 (reception counter) and カウンター台, so treating it as a building block will help vocabulary grow faster.
-</div>
 
 ---
 

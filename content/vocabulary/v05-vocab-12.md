@@ -25,17 +25,14 @@ Please feel free to help yourself to more rice: it is available at the buffet co
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">補充 (hojuu)</span> a more formal, operational word for replenishment, used among staff when discussing restocking supplies rather than in any direct guest-facing conversation
-<br><br>
-<span class="keigo-badge info">もう一杯 (mou ippai)</span> "one more cup or glass," the casual expression guests themselves might use; when staff acknowledge it, respond with the polished おかわりでございますね to match and gently lift the register
-</div>
+| Expression | Description |
+|---|---|
+| 補充<br>hojuu | a more formal, operational word for replenishment, used among staff when discussing restocking supplies rather than in any direct guest-facing conversation |
+| もう一杯<br>mou ippai | "one more cup or glass," the casual expression guests themselves might use; when staff acknowledge it, respond with the polished おかわりでございますね to match and gently lift the register |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most significant error is waiting for a guest to ask for おかわり rather than offering it first. Kikubari means reading the table and acting before the need becomes obvious. Reaching for おかわりしますか when the softer いかがでしょうか is more appropriate is another common slip. Equally important and often overlooked: おかわり should be offered to all guests at the table at the same time. Offering a refill to one person and not others creates an uncomfortable sense of uneven attention that guests notice even when they do not say anything.
-</div>
 
 ---
 ## Quiz

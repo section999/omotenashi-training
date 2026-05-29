@@ -25,9 +25,10 @@ We have a double room available, so if one wish we can show you to it.
 
 ## Related Expressions
 
-- **ツインルーム (tsuin-ruumu)**: a room with two separate single beds; the key alternative for guests who want individual sleeping spaces rather than sharing one bed.
-- **キングルーム (kingu-ruumu)**: a room with a king-sized bed; a premium variant of the ダブルルーム found in upscale properties, offering additional space and a larger bed.
-
+| Expression | Description |
+|---|---|
+| ツインルーム<br>tsuin-ruumu | a room with two separate single beds; the key alternative for guests who want individual sleeping spaces rather than sharing one bed. |
+| キングルーム<br>kingu-ruumu | a room with a king-sized bed; a premium variant of the ダブルルーム found in upscale properties, offering additional space and a larger bed. |
 
 ## Common Mistakes
 

@@ -23,8 +23,10 @@ If you would like a private tour, we can arrange it at the front desk.
 
 ## Related Expressions
 
-- **パッケージツアー (pakkeeji tsuaa)**: a packaged tour bundling flights, accommodation, and activities; more structured and all-inclusive than a standard standalone ツアー
-- **観光 (kankou)**: sightseeing as a general activity; the broader concept of tourism from which specific ツアー products are built
+| Expression | Description |
+|---|---|
+| パッケージツアー<br>pakkeeji tsuaa | a packaged tour bundling flights, accommodation, and activities; more structured and all-inclusive than a standard standalone ツアー |
+| 観光<br>kankou | sightseeing as a general activity; the broader concept of tourism from which specific ツアー products are built |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ The gym equipment currently under inspection will be available again from 3:00 p
 
 ## Related Expressions
 
-- **定期点検 (teiki tenken)**: scheduled inspection; a routine, planned 点検 carried out at regular intervals, whether monthly, quarterly, or annually, to keep systems safe and compliant. This is distinct from an emergency inspection triggered by a fault.
-- **修理中 (shuurichuu)**: under repair; the status that follows 点検中 when the inspection reveals a fault and active fixing is underway. Worth knowing the difference: 点検中 means being checked, 修理中 means being fixed.
-
+| Expression | Description |
+|---|---|
+| 定期点検<br>teiki tenken | scheduled inspection; a routine, planned 点検 carried out at regular intervals, whether monthly, quarterly, or annually, to keep systems safe and compliant. This is distinct from an emergency inspection triggered by a fault. |
+| 修理中<br>shuurichuu | under repair; the status that follows 点検中 when the inspection reveals a fault and active fixing is underway. Worth knowing the difference: 点検中 means being checked, 修理中 means being fixed. |
 
 ## Common Mistakes
 

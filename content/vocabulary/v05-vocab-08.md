@@ -25,9 +25,10 @@ We apologize for the wait with your drink service.
 
 ## Related Expressions
 
-- **サーブする (saabu suru)**: the casual English loanword for "to serve," fine in staff conversations but too informal for anything said directly to a guest at the table.
-- **お出しする (o-dashi suru)**: a humble verb phrase that means "to bring out" or "to serve," and it often sounds more natural than the noun 提供 in conversational service moments.
-
+| Expression | Description |
+|---|---|
+| サーブする<br>saabu suru | the casual English loanword for "to serve," fine in staff conversations but too informal for anything said directly to a guest at the table. |
+| お出しする<br>o-dashi suru | a humble verb phrase that means "to bring out" or "to serve," and it often sounds more natural than the noun 提供 in conversational service moments. |
 
 ## Common Mistakes
 

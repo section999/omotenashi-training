@@ -26,17 +26,14 @@ The laundry room is in the basement. If you prefer the stairs, please use these.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">地下一階 (chika ikkai)</span> "basement level 1 (B1)"; the more specific term when there is only one basement level or when distinguishing between multiple basement floors; preferred over the general 地下 when the exact level is known
-<br><br>
-<span class="keigo-badge info">地下街 (chikagai)</span> "underground shopping arcade / underground mall"; a common feature of large Japanese cities and station complexes; relevant when directing guests to urban underground retail areas outside the hotel
-</div>
+| Expression | Description |
+|---|---|
+| 地下一階<br>chika ikkai | "basement level 1 (B1)"; the more specific term when there is only one basement level or when distinguishing between multiple basement floors; preferred over the general 地下 when the exact level is known |
+| 地下街<br>chikagai | "underground shopping arcade / underground mall"; a common feature of large Japanese cities and station complexes; relevant when directing guests to urban underground retail areas outside the hotel |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is saying 地下にございます without specifying the elevator button or floor code (B1, B2), which leaves guests pressing the wrong button. If the building has multiple basement levels, the level must be named explicitly. Treating 地下 as though it always means one specific floor is a frequent mistake. Forgetting to confirm what the guest will find in the basement, such as parking versus the gym, can also lead to guests arriving at the wrong facility entirely.
-</div>
 
 ---
 ## Quiz

@@ -26,17 +26,14 @@ Please enter through the main front entrance; the concierge desk is on your righ
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">裏 (ura)</span> The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary.
-<br><br>
-<span class="keigo-badge info">玄関 (genkan)</span> The formal entryway or threshold, often combined with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position, 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance.
-</div>
+| Expression | Description |
+|---|---|
+| 裏<br>ura | The back or rear side of a building, the spatial opposite of 正面. While 正面 is the guest-facing, ceremonial side of a property, 裏 is typically where service deliveries, staff entrances, and back-of-house operations occur; guests should generally be directed away from 裏 unless specifically necessary. |
+| 玄関<br>genkan | The formal entryway or threshold, often combined with 正面 as 正面玄関 (main entrance). While 正面 describes spatial position, 玄関 describes the physical threshold itself; combining them as 正面玄関 is the standard way to refer to a hotel's or ryokan's ceremonial main entrance. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to confuse 正面 (the front, the direction one face) with 前 (mae, in front of or ahead), using them interchangeably. While both can mean "in front," 正面 specifically refers to the primary face of a structure and implies it is the intended point of approach, whereas 前 is a more general spatial term. Another mistake is using 正面 to describe a guest's movement when 前へ (forward or ahead) would be more natural for walking directions. The clearest approach is to use 正面 to establish the reference frame, then add 右 or 左 to complete the direction.
-</div>
 
 ---
 ## Quiz

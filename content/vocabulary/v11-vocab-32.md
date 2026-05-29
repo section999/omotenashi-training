@@ -25,17 +25,14 @@ If you wish to have Japanese-language support at the time of booking, please let
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">英語対応 (eigo taiou)</span> English-language support, the most commonly paired term with 日本語対応 in multilingual hospitality settings. Together they signal bilingual capability rather than one-language-only service.
-<br><br>
-<span class="keigo-badge info">母国語対応 (bokokugo taiou)</span> support in a guest's native language. This broader concept wraps around 日本語対応 and reminds staff that the goal is always making the guest feel comfortable in their own language, not just technically communicating.
-</div>
+| Expression | Description |
+|---|---|
+| 英語対応<br>eigo taiou | English-language support, the most commonly paired term with 日本語対応 in multilingual hospitality settings. Together they signal bilingual capability rather than one-language-only service. |
+| 母国語対応<br>bokokugo taiou | support in a guest's native language. This broader concept wraps around 日本語対応 and reminds staff that the goal is always making the guest feel comfortable in their own language, not just technically communicating. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to treat 日本語対応 as redundant within Japan and leave it out of multilingual materials. That is an oversight. Japanese-speaking international guests, people booking from overseas or living abroad, will not assume Japanese service is available unless it is stated. Another common error is presenting 日本語対応 as equivalent to full native-level fluency in all registers. That is not always the case, and overpromising creates awkward situations. a non-native staff member might handle 日本語対応 comfortably for standard check-in and service conversations while still needing support for complex or formal discussions. Being clear about the level, whether conversational, business-level, or near-native, helps guests know what to expect.
-</div>
 
 ---
 

@@ -25,9 +25,10 @@ If you need to work overtime, please obtain your supervisor's approval in advanc
 
 ## Related Expressions
 
-- **休憩 (kyuukei)**: a break during a shift; stands in direct contrast to 残業, which extends work beyond the scheduled period rather than providing relief within it.
-- **過労 (karou)**: overwork or physical exhaustion from excessive labour; the serious health consequence that can follow unchecked 残業, and a term that has entered wide public consciousness through Japan's ongoing work-reform debates.
-
+| Expression | Description |
+|---|---|
+| 休憩<br>kyuukei | a break during a shift; stands in direct contrast to 残業, which extends work beyond the scheduled period rather than providing relief within it. |
+| 過労<br>karou | overwork or physical exhaustion from excessive labour; the serious health consequence that can follow unchecked 残業, and a term that has entered wide public consciousness through Japan's ongoing work-reform debates. |
 
 ## Common Mistakes
 

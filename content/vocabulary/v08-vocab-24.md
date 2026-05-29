@@ -24,9 +24,10 @@ The dinner course is approximately 2 hours. Please make a reservation according 
 
 ## Related Expressions
 
-- **ちょうど (choudo)**: Exactly or precisely, the direct opposite of 約 in terms of certainty. Where 約 hedges an estimate, ちょうど asserts exactness: 駅まで徒歩ちょうど10分です would imply a guaranteed 10-minute walk with no variation. Staff should use ちょうど only when they are confident in an exact figure, and 約 whenever any variation is possible.
-- **ほど (hodo)**: About or around, a softer hedging expression that is more commonly used in spoken conversation than 約. While 約 is preferred in written or formal service contexts (maps, pamphlets, verbal directions), ほど (e.g., 10分ほど) sounds slightly more natural in relaxed spoken guidance; both are correct and staff should be comfortable with either.
-
+| Expression | Description |
+|---|---|
+| ちょうど<br>choudo | Exactly or precisely, the direct opposite of 約 in terms of certainty. Where 約 hedges an estimate, ちょうど asserts exactness: 駅まで徒歩ちょうど10分です would imply a guaranteed 10-minute walk with no variation. Staff should use ちょうど only when they are confident in an exact figure, and 約 whenever any variation is possible. |
+| ほど<br>hodo | About or around, a softer hedging expression that is more commonly used in spoken conversation than 約. While 約 is preferred in written or formal service contexts (maps, pamphlets, verbal directions), ほど (e.g., 10分ほど) sounds slightly more natural in relaxed spoken guidance; both are correct and staff should be comfortable with either. |
 
 ## Common Mistakes
 

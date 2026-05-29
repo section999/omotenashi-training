@@ -24,9 +24,10 @@ There are a mop and bucket in the cleaning supply room.
 
 ## Related Expressions
 
-- **雑巾 (zoukin)**: A cloth used for wiping surfaces by hand. While モップ covers large floor areas efficiently, 雑巾 is used for detailed wiping of tables, shelves, and tight corners where a mop cannot reach.
-- **バケツ (baketsu)**: A bucket used alongside a mop to hold cleaning water or solution. The two items are typically mentioned together: モップとバケツ (mop and bucket) as a set.
-
+| Expression | Description |
+|---|---|
+| 雑巾<br>zoukin | A cloth used for wiping surfaces by hand. While モップ covers large floor areas efficiently, 雑巾 is used for detailed wiping of tables, shelves, and tight corners where a mop cannot reach. |
+| バケツ<br>baketsu | A bucket used alongside a mop to hold cleaning water or solution. The two items are typically mentioned together: モップとバケツ (mop and bucket) as a set. |
 
 ## Common Mistakes
 

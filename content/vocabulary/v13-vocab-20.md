@@ -25,9 +25,10 @@ In front desk duties, a smile and prompt response are the most important things.
 
 ## Related Expressions
 
-- **業務内容 (gyoumu naiyou)**: the specific content and scope of their assigned duties; staff will review this at the start of every shift and during onboarding
-- **業務効率化 (gyoumu kooritsu-ka)**: the improvement of operational efficiency, a constant goal in hotel management that depends on every staff member performing their 業務 well
-
+| Expression | Description |
+|---|---|
+| 業務内容<br>gyoumu naiyou | the specific content and scope of their assigned duties; staff will review this at the start of every shift and during onboarding |
+| 業務効率化<br>gyoumu kooritsu-ka | the improvement of operational efficiency, a constant goal in hotel management that depends on every staff member performing their 業務 well |
 
 ## Common Mistakes
 

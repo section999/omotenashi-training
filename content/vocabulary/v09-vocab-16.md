@@ -24,9 +24,10 @@ If you have any questions about the contents of your plan, please feel free to l
 
 ## Related Expressions
 
-- **コース (koosu)**: a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when staff mean the overall booking package would confuse the guest about whether one is talking about their meal or their entire stay arrangement.
-- **パッケージ (pakkeiji)**: close in meaning to プラン but tends to stress the bundling of separate items like flights, hotel, and sightseeing; in a hotel-only setting プラン is the natural term, while パッケージ shows up more in travel agency and OTA marketing.
-
+| Expression | Description |
+|---|---|
+| コース<br>koosu | a set meal course, a sequence of dishes; a プラン may well include a コース dinner, but the two words live at different levels; using コース when staff mean the overall booking package would confuse the guest about whether one is talking about their meal or their entire stay arrangement. |
+| パッケージ<br>pakkeiji | close in meaning to プラン but tends to stress the bundling of separate items like flights, hotel, and sightseeing; in a hotel-only setting プラン is the natural term, while パッケージ shows up more in travel agency and OTA marketing. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Today, we have replaced the shampoo in the bathroom with a fresh bottle.
 
 ## Related Expressions
 
-- **コンディショナー (kondishonaa)**: Hair conditioner; almost always provided alongside シャンプー and should be checked and replenished at the same time.
-- **ボディーソープ (bodiisoopu)**: Body wash/soap; another bathroom amenity frequently grouped with シャンプー in hotel amenity sets: staff should know all three when restocking.
-
+| Expression | Description |
+|---|---|
+| コンディショナー<br>kondishonaa | Hair conditioner; almost always provided alongside シャンプー and should be checked and replenished at the same time. |
+| ボディーソープ<br>bodiisoopu | Body wash/soap; another bathroom amenity frequently grouped with シャンプー in hotel amenity sets: staff should know all three when restocking. |
 
 ## Common Mistakes
 

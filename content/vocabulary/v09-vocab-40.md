@@ -25,9 +25,10 @@ We will also arrange a reservation at your requested restaurant.
 
 ## Related Expressions
 
-- **準備 (junbi)**: preparation; the focus is on getting things physically ready, rather than organizing or commissioning a service. 手配 and 準備 often go together when a request involves both coordination and setup.
-- **調整 (chousei)**: adjustment or coordination; used when fine-tuning schedules or balancing competing requirements between multiple parties, rather than initiating the arrangement itself.
-
+| Expression | Description |
+|---|---|
+| 準備<br>junbi | preparation; the focus is on getting things physically ready, rather than organizing or commissioning a service. 手配 and 準備 often go together when a request involves both coordination and setup. |
+| 調整<br>chousei | adjustment or coordination; used when fine-tuning schedules or balancing competing requirements between multiple parties, rather than initiating the arrangement itself. |
 
 ## Common Mistakes
 

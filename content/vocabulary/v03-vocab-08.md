@@ -25,17 +25,14 @@ We sincerely apologise, but no smoking rooms are available today. We can guide y
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">禁煙 (kin'en)</span> "non-smoking"; the antonym and essential partner term; staff should confirm which type a guest requires and verify carefully against the room assignment.
-<br><br>
-<span class="keigo-badge info">喫煙スペース (kitsuen supeesu)</span> "smoking area/space"; the designated outdoor or ventilated zone for smokers when no smoking room is available; useful when managing overflow or full properties.
-</div>
+| Expression | Description |
+|---|---|
+| 禁煙<br>kin'en | "non-smoking"; the antonym and essential partner term; staff should confirm which type a guest requires and verify carefully against the room assignment. |
+| 喫煙スペース<br>kitsuen supeesu | "smoking area/space"; the designated outdoor or ventilated zone for smokers when no smoking room is available; useful when managing overflow or full properties. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most consequential mistake is assigning a 喫煙室 to a guest who requested 禁煙. The odour in a smoking room is immediately apparent and difficult to remedy, leading to complaints. 喫煙 is also occasionally confused with 喫茶 (kissa, café/tea drinking) due to the similar first kanji 喫; context will almost always make the meaning clear, but being aware of the distinction helps. The casual phrase タバコ部屋 (tabako heya, "cigarette room") should not be used in formal guest communication. 喫煙室 is the correct professional term.
-</div>
 
 ---
 

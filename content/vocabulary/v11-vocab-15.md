@@ -25,9 +25,10 @@ If you have difficulty connecting because the line is busy, please try calling a
 
 ## Related Expressions
 
-- **保留 (horyuu)**: being placed on hold during an active call; 通話中 describes the state of a line being occupied, while 保留 describes what happens to a guest while the staff member handles something on another line simultaneously.
-- **話し中 (hanashichuu)**: a casual, everyday expression meaning the line is busy; 通話中 is the more formal, professional term that belongs in hospitality contexts.
-
+| Expression | Description |
+|---|---|
+| 保留<br>horyuu | being placed on hold during an active call; 通話中 describes the state of a line being occupied, while 保留 describes what happens to a guest while the staff member handles something on another line simultaneously. |
+| 話し中<br>hanashichuu | a casual, everyday expression meaning the line is busy; 通話中 is the more formal, professional term that belongs in hospitality contexts. |
 
 ## Common Mistakes
 

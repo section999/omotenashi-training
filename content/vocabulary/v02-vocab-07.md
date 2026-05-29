@@ -24,9 +24,10 @@ As soon as a room becomes available, we will contact you right away.
 
 ## Related Expressions
 
-- **満室 (manshitsu)**: the direct opposite, meaning fully booked with no rooms available. Knowing both terms allows staff to handle any availability situation with the right language.
-- **空き (aki)**: a more casual, general word for vacancy or openness; 空室 is the precise, hospitality-specific compound staff should be using in professional contexts.
-
+| Expression | Description |
+|---|---|
+| 満室<br>manshitsu | the direct opposite, meaning fully booked with no rooms available. Knowing both terms allows staff to handle any availability situation with the right language. |
+| 空き<br>aki | a more casual, general word for vacancy or openness; 空室 is the precise, hospitality-specific compound staff should be using in professional contexts. |
 
 ## Common Mistakes
 

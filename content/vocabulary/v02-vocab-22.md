@@ -25,9 +25,10 @@ We sincerely apologize, but as we are fully booked tomorrow, extending the stay 
 
 ## Related Expressions
 
-- **チェックアウト日 (chekku-auto bi)**: the check-out date, which 延泊 effectively pushes back. When confirming an extension, restate the new チェックアウト日 clearly so the guest knows exactly when their stay now ends.
-- **満室 (manseki)**: fully booked, no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver that news politely, with a genuine apology and a suggestion or two, distinguishes good hospitality from adequate hospitality.
-
+| Expression | Description |
+|---|---|
+| チェックアウト日<br>chekku-auto bi | the check-out date, which 延泊 effectively pushes back. When confirming an extension, restate the new チェックアウト日 clearly so the guest knows exactly when their stay now ends. |
+| 満室<br>manseki | fully booked, no vacancy. This is the most common reason 延泊 cannot be accommodated, and knowing how to deliver that news politely, with a genuine apology and a suggestion or two, distinguishes good hospitality from adequate hospitality. |
 
 ## Common Mistakes
 

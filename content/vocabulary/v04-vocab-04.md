@@ -25,17 +25,14 @@ As the trash was overflowing, we provided an extra bag during the cleaning.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">廃棄物 (haikiibutsu)</span> A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech.
-<br><br>
-<span class="keigo-badge info">ゴミ袋 (gomi bukuro)</span> Trash bag; staff should know this term when replenishing or replacing liners in guest room bins.
-</div>
+| Expression | Description |
+|---|---|
+| 廃棄物<br>haikiibutsu | A formal, technical term for waste or discarded materials; used in written hotel policies and waste management documentation rather than everyday speech. |
+| ゴミ袋<br>gomi bukuro | Trash bag; staff should know this term when replenishing or replacing liners in guest room bins. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Dropping the word ゴミ into guest-facing speech without polite framing can sound blunt. Softer phrasings like 「お荷物やゴミのご確認をいたします」 work much better when the word needs to appear at all. ゴミ and 汚れ (yogore) are also sometimes confused, but 汚れ means a dirt stain or soiling on a surface, not discarded objects. Failing to separate burnable from non-burnable ゴミ in hotels that require it is not just an etiquette issue: it can result in regulatory violations.
-</div>
 
 ---
 

@@ -25,17 +25,14 @@ We are fully booked today, but we are accepting reservations for tomorrow.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">空いている席 (aiteiru seki)</span> the opposite situation, meaning available seating; knowing both terms lets one move smoothly between positive and challenging seating moments without reaching for different vocabulary.
-<br><br>
-<span class="keigo-badge info">キャンセル待ち (kyanseru-machi)</span> a waiting list for cancellations; introduce this concept immediately after communicating 満席, as it gives the guest a concrete path forward rather than a dead end.
-</div>
+| Expression | Description |
+|---|---|
+| 空いている席<br>aiteiru seki | the opposite situation, meaning available seating; knowing both terms lets one move smoothly between positive and challenging seating moments without reaching for different vocabulary. |
+| キャンセル待ち<br>kyanseru-machi | a waiting list for cancellations; introduce this concept immediately after communicating 満席, as it gives the guest a concrete path forward rather than a dead end. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most damaging error is announcing 満席 with no follow-up offer or apology. That communicates indifference, and guests remember it. Using blunt phrasing like 席ないです or 満席だから is not only too casual but can come across as dismissive or even rude. A common error is to treat 満席 as a final answer, but it should always be a doorway into the next offer: a wait time, a reservation for tomorrow, or a suggestion of another venue. That follow-up distinguishes a disappointing moment from one the guest respects.
-</div>
 
 ---
 ## Quiz

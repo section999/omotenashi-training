@@ -24,9 +24,10 @@ When we are fully booked, we can also direct you to nearby hotels.
 
 ## Related Expressions
 
-- **空室 (kūshitsu)**: the direct opposite, meaning a vacant room. Always verify the system before declaring 満室, because last-minute cancellations can open up availability in the middle of what looked like a sold-out night.
-- **キャンセル待ち (kyanseru machi)**: a cancellation waitlist. Offering this when 満室 is the situation shows continued effort on behalf of the guest, and it can recover a booking that would otherwise be lost.
-
+| Expression | Description |
+|---|---|
+| 空室<br>kūshitsu | the direct opposite, meaning a vacant room. Always verify the system before declaring 満室, because last-minute cancellations can open up availability in the middle of what looked like a sold-out night. |
+| キャンセル待ち<br>kyanseru machi | a cancellation waitlist. Offering this when 満室 is the situation shows continued effort on behalf of the guest, and it can recover a booking that would otherwise be lost. |
 
 ## Common Mistakes
 

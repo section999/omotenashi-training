@@ -24,9 +24,10 @@ The parking area is at the rear of the hotel. Please take the elevator down to b
 
 ## Related Expressions
 
-- **正面 (shoumen)**: The front or main face of a building, the direct spatial counterpart to 裏. Where 正面 is the public, guest-facing side of a property, 裏 is the operational, staff-oriented side; maintaining this distinction in communication helps guests understand which spaces are intended for them.
-- **裏口 (uraguchi)**: Literally "back opening," the specific rear entrance of a building. While 裏 refers broadly to the back side, 裏口 specifies the door or gate itself; staff should use 裏口 when directing someone to use a specific rear entry point rather than just indicating the general back area.
-
+| Expression | Description |
+|---|---|
+| 正面<br>shoumen | The front or main face of a building, the direct spatial counterpart to 裏. Where 正面 is the public, guest-facing side of a property, 裏 is the operational, staff-oriented side; maintaining this distinction in communication helps guests understand which spaces are intended for them. |
+| 裏口<br>uraguchi | Literally "back opening," the specific rear entrance of a building. While 裏 refers broadly to the back side, 裏口 specifies the door or gate itself; staff should use 裏口 when directing someone to use a specific rear entry point rather than just indicating the general back area. |
 
 ## Common Mistakes
 

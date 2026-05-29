@@ -24,9 +24,10 @@ The elevator is currently under inspection. We sincerely apologize for the incon
 
 ## Related Expressions
 
-- **修理 (shuuri)**: Repair. 点検 is the proactive check carried out to prevent problems; 修理 is the reactive fix applied when a problem is discovered. Together they form the core of a hotel's preventive maintenance cycle.
-- **確認 (kakunin)**: Confirmation or verification. 確認 is a broader, everyday term for checking or confirming something (e.g., confirming a reservation), while 点検 specifically implies a systematic, safety-oriented inspection of physical equipment or spaces.
-
+| Expression | Description |
+|---|---|
+| 修理<br>shuuri | Repair. 点検 is the proactive check carried out to prevent problems; 修理 is the reactive fix applied when a problem is discovered. Together they form the core of a hotel's preventive maintenance cycle. |
+| 確認<br>kakunin | Confirmation or verification. 確認 is a broader, everyday term for checking or confirming something (e.g., confirming a reservation), while 点検 specifically implies a systematic, safety-oriented inspection of physical equipment or spaces. |
 
 ## Common Mistakes
 

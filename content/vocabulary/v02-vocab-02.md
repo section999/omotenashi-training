@@ -24,9 +24,10 @@ Check-in is available from 3:00 p.m.
 
 ## Related Expressions
 
-- **チェックアウト (chekku-auto)**: the departure counterpart; staff should pair their knowledge of チェックイン procedures with チェックアウト so staff can handle both ends of a guest's stay.
-- **フロント手続き (furonto tetsuzuki)**: "front desk procedures"; a broader phrase that encompasses チェックイン as well as other administrative processes at the front desk.
-
+| Expression | Description |
+|---|---|
+| チェックアウト<br>chekku-auto | the departure counterpart; staff should pair their knowledge of チェックイン procedures with チェックアウト so staff can handle both ends of a guest's stay. |
+| フロント手続き<br>furonto tetsuzuki | "front desk procedures"; a broader phrase that encompasses チェックイン as well as other administrative processes at the front desk. |
 
 ## Common Mistakes
 

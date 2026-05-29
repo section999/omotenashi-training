@@ -25,9 +25,10 @@ The total amount payable, including tax, is 15,000 yen.
 
 ## Related Expressions
 
-- **税別 (zeibetsu)**: the opposite of 税込; tax is not included and will be added on top of the quoted price
-- **消費税 (shōhizei)**: consumption tax; the specific levy that is either included (税込) or excluded (税別) in any given price
-
+| Expression | Description |
+|---|---|
+| 税別<br>zeibetsu | the opposite of 税込; tax is not included and will be added on top of the quoted price |
+| 消費税<br>shōhizei | consumption tax; the specific levy that is either included (税込) or excluded (税別) in any given price |
 
 ## Common Mistakes
 

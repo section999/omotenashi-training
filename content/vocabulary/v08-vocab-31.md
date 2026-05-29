@@ -25,9 +25,10 @@ The restaurant is inside the hotel building, so there is no need to go outside.
 
 ## Related Expressions
 
-- **外 (soto)**: Outside, the direct opposite of 中. Clearly separating these two in directions saves guests from unnecessary trips outdoors, especially in rain or cold weather. This is a useful spatial pair in hotel navigation.
-- **奥 (oku)**: The back or further inside, which adds depth to 中. When something is not just inside but deep inside a space, 奥 is the more precise word. Think of 中 as getting someone through the door and 奥 as pointing them to the far end once they are inside.
-
+| Expression | Description |
+|---|---|
+| 外<br>soto | Outside, the direct opposite of 中. Clearly separating these two in directions saves guests from unnecessary trips outdoors, especially in rain or cold weather. This is a useful spatial pair in hotel navigation. |
+| 奥<br>oku | The back or further inside, which adds depth to 中. When something is not just inside but deep inside a space, 奥 is the more precise word. Think of 中 as getting someone through the door and 奥 as pointing them to the far end once they are inside. |
 
 ## Common Mistakes
 

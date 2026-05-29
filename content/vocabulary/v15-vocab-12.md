@@ -26,17 +26,14 @@ After confirming your belongings, we have completed the receipt of your item.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">受け渡し (ukewatashi)</span> the mutual exchange or handover of an item, emphasising the transfer between two parties rather than just the act of receiving
-<br><br>
-<span class="keigo-badge info">お預かり (o-azukari)</span> the act of the hotel or staff taking custody of an item on the guest's behalf, the complement to 受取 from the staff's perspective
-</div>
+| Expression | Description |
+|---|---|
+| 受け渡し<br>ukewatashi | the mutual exchange or handover of an item, emphasising the transfer between two parties rather than just the act of receiving |
+| お預かり<br>o-azukari | the act of the hotel or staff taking custody of an item on the guest's behalf, the complement to 受取 from the staff's perspective |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to confuse 受取 with 受付 (uketsuke), which means "reception" or "check-in desk" rather than the act of receiving an item. Another common error is omitting the honorific prefix お before uketori when speaking to a guest: in keigo contexts, お受け取り is the expected polite form. Using the plain noun alone in guest-facing speech can sound abrupt and out of place in a hotel environment.
-</div>
 
 ---
 

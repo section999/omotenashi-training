@@ -25,17 +25,14 @@ If you would like to pay in installments, we will need to change the payment met
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">決済方法 (kessai houhou)</span> a more technical term for payment method used in system or back-office contexts; 支払い方法 is more guest-facing and conversational.
-<br><br>
-<span class="keigo-badge info">お支払い (o-shiharai)</span> the polite shortened form used in direct conversation, e.g., "お支払いはいかがなさいますか" (How would one like to pay?); less formal than the full compound.
-</div>
+| Expression | Description |
+|---|---|
+| 決済方法<br>kessai houhou | a more technical term for payment method used in system or back-office contexts; 支払い方法 is more guest-facing and conversational. |
+| お支払い<br>o-shiharai | the polite shortened form used in direct conversation, e.g., "お支払いはいかがなさいますか" (How would one like to pay?); less formal than the full compound. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is using the casual form 払い方 (haraikata) in a formal service context, which is too relaxed for front desk interactions. Another common slip is listing payment methods without confirming whether the guest's specific card brand or e-wallet is supported, which leads to declined transactions. The phrase 支払い方法はなんですか is too blunt; the polite form お支払い方法はいかがなさいますか is the standard for guest-facing use.
-</div>
 
 ---
 

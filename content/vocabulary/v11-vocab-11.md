@@ -25,9 +25,10 @@ I have taken your message and will have them contact you as soon as they return.
 
 ## Related Expressions
 
-- **メッセージ**: a broader, more modern word for a message that covers digital and written formats; 伝言 specifically implies verbal or brief written relay between people, and carries a more personal, traditional tone.
-- **折り返し**: the callback that often follows a 伝言; when a caller's message includes a request to be called back, confirm the 電話番号 and timeframe before closing the call.
-
+| Expression | Description |
+|---|---|
+| メッセージ | a broader, more modern word for a message that covers digital and written formats; 伝言 specifically implies verbal or brief written relay between people, and carries a more personal, traditional tone. |
+| 折り返し | the callback that often follows a 伝言; when a caller's message includes a request to be called back, confirm the 電話番号 and timeframe before closing the call. |
 
 ## Common Mistakes
 

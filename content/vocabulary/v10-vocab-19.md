@@ -25,9 +25,10 @@ Could you please check the balance on your prepaid card?
 
 ## Related Expressions
 
-- **不足 (fusoku)**: 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound one reach for when a balance falls short of a charge; knowing this pairing lets one communicates payment shortfalls precisely without sounding blunt.
-- **合計 (goukei)**: 合計 is the full total owed, while 残高 is what remains after partial payment or what sits in a prepaid account; together they give both staff and guests a clear picture of where things stand at checkout.
-
+| Expression | Description |
+|---|---|
+| 不足<br>fusoku | 不足 means shortage or insufficiency, and 残高不足 (zandaka fusoku) is the compound one reach for when a balance falls short of a charge; knowing this pairing lets one communicates payment shortfalls precisely without sounding blunt. |
+| 合計<br>goukei | 合計 is the full total owed, while 残高 is what remains after partial payment or what sits in a prepaid account; together they give both staff and guests a clear picture of where things stand at checkout. |
 
 ## Common Mistakes
 

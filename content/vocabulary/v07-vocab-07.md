@@ -26,17 +26,14 @@ The sightseeing spot is a short distance away, but we can take you there by shut
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">近く (chikaku)</span> nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed
-<br><br>
-<span class="keigo-badge info">送迎サービス (sougei saabisu)</span> shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing their property's shuttle schedule and route makes this recommendation immediately actionable
-</div>
+| Expression | Description |
+|---|---|
+| 近く<br>chikaku | nearby; the antonym of 遠い; used when a destination is within comfortable walking distance and no transport alternative is needed |
+| 送迎サービス<br>sougei saabisu | shuttle or transfer service; frequently the recommended solution when a destination is described as 遠い; knowing their property's shuttle schedule and route makes this recommendation immediately actionable |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most significant mistake is delivering 遠い without any follow-up solution. In hospitality, an unanswered problem is an incomplete response. Dropping the softener 少し causes 「遠いです」 to sound blunt or dismissive. The more considerate framing is 「少し遠うございます」. There is also the opposite error: if a destination can reasonably be walked in 10 to 15 minutes, calling it 遠い oversells the difficulty and may push the guest toward unnecessary transport costs. Honest calibration allows the guest to decide.
-</div>
 
 ---
 ## Quiz

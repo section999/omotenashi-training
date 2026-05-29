@@ -24,9 +24,10 @@ The deposit will be a pre-authorization hold on your credit card.
 
 ## Related Expressions
 
-- **保証金 (hoshōkin)**: the Japanese-origin equivalent of デポジット, meaning "security money" or "guarantee payment." It is more formal and legalistic in tone and may appear in written contracts or terms and conditions, while デポジット is the more commonly spoken term at hotel front desks.
-- **仮押さえ (kari-osae)**: a "temporary hold" or pre-authorization on a credit card, distinct from an actual charge. Staff should use this term specifically when explaining credit card deposits to reassure guests that their card will not be permanently charged at check-in.
-
+| Expression | Description |
+|---|---|
+| 保証金<br>hoshōkin | the Japanese-origin equivalent of デポジット, meaning "security money" or "guarantee payment." It is more formal and legalistic in tone and may appear in written contracts or terms and conditions, while デポジット is the more commonly spoken term at hotel front desks. |
+| 仮押さえ<br>kari-osae | a "temporary hold" or pre-authorization on a credit card, distinct from an actual charge. Staff should use this term specifically when explaining credit card deposits to reassure guests that their card will not be permanently charged at check-in. |
 
 ## Common Mistakes
 

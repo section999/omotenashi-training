@@ -25,9 +25,10 @@ I apologize, but this coupon cannot be applied to restaurant use.
 
 ## Related Expressions
 
-- **バウチャー (bauchaa)**: a prepaid voucher representing a specific service or monetary value; unlike a クーポン that offers a partial discount, a バウチャー typically covers the full cost of the service it represents
-- **割引 (waribiki)**: discount; the general term for any price reduction, of which クーポン is one specific mechanism
-
+| Expression | Description |
+|---|---|
+| バウチャー<br>bauchaa | a prepaid voucher representing a specific service or monetary value; unlike a クーポン that offers a partial discount, a バウチャー typically covers the full cost of the service it represents |
+| 割引<br>waribiki | discount; the general term for any price reduction, of which クーポン is one specific mechanism |
 
 ## Common Mistakes
 

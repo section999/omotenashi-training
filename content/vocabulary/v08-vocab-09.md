@@ -26,17 +26,14 @@ The conference room is on the second floor at the end of the corridor on the lef
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">上の階 (ue no kai)</span> "the floor above"; a relative term used when the specific floor number is less important than the direction; less precise than 二階 and not recommended when a specific floor can be named
-<br><br>
-<span class="keigo-badge info">一階 (ikkai)</span> "first floor / ground level"; always the floor immediately below 二階; understanding both in context helps guests build a mental map of the building's vertical layout
-</div>
+| Expression | Description |
+|---|---|
+| 上の階<br>ue no kai | "the floor above"; a relative term used when the specific floor number is less important than the direction; less precise than 二階 and not recommended when a specific floor can be named |
+| 一階<br>ikkai | "first floor / ground level"; always the floor immediately below 二階; understanding both in context helps guests build a mental map of the building's vertical layout |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to pronounce 二階 as ni-gai under the influence of other irregular floor readings, but 二階 is nikai and follows the standard pattern. Saying just 二階 without following with にございます or にあります is insufficient formality for hotel speech. A subtle but important error is failing to mention elevator access when directing guests to 二階. Guests with heavy luggage should not have to ask whether stairs are the only option.
-</div>
 
 ---
 

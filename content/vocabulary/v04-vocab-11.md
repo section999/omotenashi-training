@@ -24,9 +24,10 @@ Both shampoo and conditioner are provided in the bathroom.
 
 ## Related Expressions
 
-- **シャンプー (shanpuu)**: shampoo; staff should check and replenish it together with コンディショナー since the two form a matched bathroom amenity pair.
-- **トリートメント (toriitomento)**: hair treatment; a richer conditioning product sometimes offered at premium properties, going deeper than a standard コンディショナー rinse.
-
+| Expression | Description |
+|---|---|
+| シャンプー<br>shanpuu | shampoo; staff should check and replenish it together with コンディショナー since the two form a matched bathroom amenity pair. |
+| トリートメント<br>toriitomento | hair treatment; a richer conditioning product sometimes offered at premium properties, going deeper than a standard コンディショナー rinse. |
 
 ## Common Mistakes
 

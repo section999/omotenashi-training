@@ -6,9 +6,9 @@ title: ありがとうございます (arigatou gozaimasu)
 
 **ありがとうございます** means "thank you," but its usage in Japanese hospitality extends well beyond a reflexive response to a favour. In the omotenashi tradition, gratitude is expressed proactively and with some degree of specificity, not just as social noise. The phrase has an interesting etymology: *arigatai* (ありがたい) historically meant "difficult to exist" or "rare." The idea being that what one is thankful for is precious and not to be taken for granted.
 
-In professional hospitality, *arigatō gozaimasu* should sound like it means something, like the guest's presence and patronage are appreciated. A flat, automatic *arigatō* risks sounding hollow through overuse. Varying their delivery, making eye contact, bowing slightly, and giving the phrase the weight it deserves helps maintain its sincerity.
+In professional hospitality, ありがとうございます should sound like it means something, like the guest's presence and patronage are appreciated. A flat, automatic ありがとう risks sounding hollow through overuse. Varying their delivery, making eye contact, bowing slightly, and giving the phrase the weight it deserves helps maintain its sincerity.
 
-Two important distinctions: *arigatō gozaimasu* (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot say why
+Two important distinctions: ありがとうございます (present form) is used in the moment, when receiving something, when a guest shows patience. *Arigatō gozaimashita* (past form) is used at the end of an interaction or stay, "thank you for everything (that has concluded)." Using the correct tense shows linguistic precision that guests notice even if they cannot say why
 
 
 ## Example Sentences
@@ -29,19 +29,15 @@ Thank you very much for staying with us. We look forward to welcoming you again.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ありがとうございました (arigatō gozaimashita)</span> Past tense; used at the conclusion of an interaction or stay
-<br><br>
-<span class="keigo-badge info">大変ありがとうございます (taihen arigatō gozaimasu)</span> "Thank you very much": slightly more emphatic
-<br><br>
-<span class="keigo-badge info">恐れ入ります (osore irimasu)</span> A more formal, humble expression of appreciation
-</div>
+| Expression | Description |
+|---|---|
+| ありがとうございました<br>arigatō gozaimashita | Past tense; used at the conclusion of an interaction or stay |
+| 大変ありがとうございます<br>taihen arigatō gozaimasu | Slightly more emphatic form of thanks |
+| 恐れ入ります<br>osore irimasu | A more formal, humble expression of appreciation |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
-The most common mistake is using the casual *arigatō* instead of *arigatō gozaimasu* in a professional setting. A subtler error is using the present form *gozaimasu* when the past form *gozaimashita* is needed, for example, at a guest's departure after a multi-night stay. The past form acknowledges the completed experience; the present form sounds like one is thanking them for something still in progress. It is a small detail, but guests who know Japanese will notice the mismatch.
-</div>
+The most common mistake is using the casual ありがとう instead of ありがとうございます in a professional setting. A subtler error is using the present form ございます when the past form *gozaimashita* is needed, for example, at a guest's departure after a multi-night stay. The past form acknowledges the completed experience; the present form sounds like one is thanking them for something still in progress. It is a small detail, but guests who know Japanese will notice the mismatch.
 
 ---
 
@@ -56,4 +52,4 @@ The most common mistake is using the casual *arigatō* instead of *arigatō goza
 
 **Correct Answer:** ありがとうございました。(Thank you: past / for the completed stay)
 
-**Explanation:** At departure, the past form *arigatō gozaimashita* is correct because it acknowledges the stay as a completed experience and honours everything that has just concluded. Using the present form *gozaimasu* at that moment feels misaligned, as if the stay were still ongoing rather than something to be grateful for in full.
+**Explanation:** At departure, the past form *arigatō gozaimashita* is correct because it acknowledges the stay as a completed experience and honours everything that has just concluded. Using the present form ございます at that moment feels misaligned, as if the stay were still ongoing rather than something to be grateful for in full.

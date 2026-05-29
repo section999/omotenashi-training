@@ -24,9 +24,10 @@ If the hair dryer is not working properly, we will provide a new one right away.
 
 ## Related Expressions
 
-- **コンセント (konsento)**: electrical outlet or plug socket; essential vocabulary when explaining how to use the ドライヤー or any other in-room appliance.
-- **電圧 (den'atsu)**: voltage; comes up when international guests need to know whether their own devices or the hotel's ドライヤー is compatible with their country's electrical standard.
-
+| Expression | Description |
+|---|---|
+| コンセント<br>konsento | electrical outlet or plug socket; essential vocabulary when explaining how to use the ドライヤー or any other in-room appliance. |
+| 電圧<br>den'atsu | voltage; comes up when international guests need to know whether their own devices or the hotel's ドライヤー is compatible with their country's electrical standard. |
 
 ## Common Mistakes
 

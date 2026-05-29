@@ -24,9 +24,10 @@ I will guide you to the lobby, so please wait just a moment.
 
 ## Related Expressions
 
-- **ご案内いたします (go-annai itashimasu)**: the humble keigo form of 案内します and the expected phrasing in upscale hotels and any formal guest-facing situation. This should be the default rather than the plain 案内します when speaking with guests.
-- **道案内 (michi annai)**: directional guidance specifically for routes and paths. this compound is used when a guest needs step-by-step directions to the hotel or to a nearby location, particularly in telephone situations where a physical map is not available.
-
+| Expression | Description |
+|---|---|
+| ご案内いたします<br>go-annai itashimasu | the humble keigo form of 案内します and the expected phrasing in upscale hotels and any formal guest-facing situation. This should be the default rather than the plain 案内します when speaking with guests. |
+| 道案内<br>michi annai | directional guidance specifically for routes and paths. this compound is used when a guest needs step-by-step directions to the hotel or to a nearby location, particularly in telephone situations where a physical map is not available. |
 
 ## Common Mistakes
 

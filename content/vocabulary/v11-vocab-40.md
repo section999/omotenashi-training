@@ -25,9 +25,10 @@ There were parts that were a little difficult to catch, so thank you very much f
 
 ## Related Expressions
 
-- **はっきり話してください (hakkiri hanashite kudasai)**: "please speak clearly"; this term relates to enunciation and pronunciation clarity rather than pace; the two are often used together when both speed and articulation are making a call difficult to follow
-- **繰り返していただけますか (kurikaeshite itadakemasu ka)**: "could you repeat that?"; the natural follow-up if a sentence spoken at slow pace is still not fully understood; pairs well with ゆっくり as a second step in the clarification process
-
+| Expression | Description |
+|---|---|
+| はっきり話してください<br>hakkiri hanashite kudasai | "please speak clearly"; this term relates to enunciation and pronunciation clarity rather than pace; the two are often used together when both speed and articulation are making a call difficult to follow |
+| 繰り返していただけますか<br>kurikaeshite itadakemasu ka | "could you repeat that?"; the natural follow-up if a sentence spoken at slow pace is still not fully understood; pairs well with ゆっくり as a second step in the clarification process |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Please stay calm. Take a deep breath and listen to the staff's instructions.
 
 ## Related Expressions
 
-- **ご安心ください (go-anshin kudasai)**: "please be reassured"; often used as a precursor to 落ち着いてください to first address the emotional state before requesting behavioral change; combined, they form a powerful reassurance sequence
-- **深呼吸してください (shinkokyuu shite kudasai)**: "please take a deep breath"; a concrete, actionable instruction that complements 落ち着いてください by giving the panicking person something specific and calming to do
-
+| Expression | Description |
+|---|---|
+| ご安心ください<br>go-anshin kudasai | "please be reassured"; often used as a precursor to 落ち着いてください to first address the emotional state before requesting behavioral change; combined, they form a powerful reassurance sequence |
+| 深呼吸してください<br>shinkokyuu shite kudasai | "please take a deep breath"; a concrete, actionable instruction that complements 落ち着いてください by giving the panicking person something specific and calming to do |
 
 ## Common Mistakes
 

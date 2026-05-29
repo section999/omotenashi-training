@@ -25,9 +25,10 @@ Due to fluctuations in the exchange rate, the payment amount may vary.
 
 ## Related Expressions
 
-- **外貨 (gaika)**: 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; staff need 外貨 to have a reason to use 為替, and staff need 為替 to know what the 外貨 is worth.
-- **両替 (ryougae)**: 両替 is the physical act of swapping one currency for another; the 為替レート is what determines how much of one currency is given for another, making 為替 the arithmetic foundation of every 両替 transaction.
-
+| Expression | Description |
+|---|---|
+| 外貨<br>gaika | 外貨 is the foreign currency itself, while 為替 is the rate at which that currency is valued against the yen; staff need 外貨 to have a reason to use 為替, and staff need 為替 to know what the 外貨 is worth. |
+| 両替<br>ryougae | 両替 is the physical act of swapping one currency for another; the 為替レート is what determines how much of one currency is given for another, making 為替 the arithmetic foundation of every 両替 transaction. |
 
 ## Common Mistakes
 

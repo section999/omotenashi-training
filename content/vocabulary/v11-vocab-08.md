@@ -25,9 +25,10 @@ The department in charge will call you back.
 
 ## Related Expressions
 
-- **担当者**: the specific individual within a 担当部署; when the caller's matter needs a named contact rather than a team, route to 担当者 instead
-- **フロント**: the front desk, which typically acts as the first point of contact and the routing hub for all calls to the appropriate 担当部署; knowing which department handles what is a core front desk skill
-
+| Expression | Description |
+|---|---|
+| 担当者 | the specific individual within a 担当部署; when the caller's matter needs a named contact rather than a team, route to 担当者 instead |
+| フロント | the front desk, which typically acts as the first point of contact and the routing hub for all calls to the appropriate 担当部署; knowing which department handles what is a core front desk skill |
 
 ## Common Mistakes
 

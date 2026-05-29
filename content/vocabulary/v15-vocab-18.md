@@ -24,9 +24,10 @@ Lockers can be paid for using Suica or coins.
 
 ## Related Expressions
 
-- **コインロッカー (koin-rokkaa)**: coin locker; the most common type of public ロッカー in Japan, originally operated with 100-yen coins and now increasingly accepting IC cards like Suica
-- **手荷物一時預かり所 (te-nimotsu ichiji azukari-jo)**: staffed luggage storage counter; the human alternative to ロッカー, where a staff member takes responsibility for the bags, which also means more flexibility for oversized items that would not fit in a compartment
-
+| Expression | Description |
+|---|---|
+| コインロッカー<br>koin-rokkaa | coin locker; the most common type of public ロッカー in Japan, originally operated with 100-yen coins and now increasingly accepting IC cards like Suica |
+| 手荷物一時預かり所<br>te-nimotsu ichiji azukari-jo | staffed luggage storage counter; the human alternative to ロッカー, where a staff member takes responsibility for the bags, which also means more flexibility for oversized items that would not fit in a compartment |
 
 ## Common Mistakes
 

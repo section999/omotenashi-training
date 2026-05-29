@@ -24,9 +24,10 @@ Here is your receipt. Please take a moment to review it.
 
 ## Related Expressions
 
-- **レシート (reshīto)**: a simpler, machine-printed receipt (e.g., from a POS terminal); 領収書 is an official hand-written or stamped receipt that holds greater formality and is required for business expense claims.
-- **宛名 (atena)**: the payee/recipient name on a receipt; business travellers often need this written as their company name rather than a personal name.
-
+| Expression | Description |
+|---|---|
+| レシート<br>reshīto | a simpler, machine-printed receipt (e.g., from a POS terminal); 領収書 is an official hand-written or stamped receipt that holds greater formality and is required for business expense claims. |
+| 宛名<br>atena | the payee/recipient name on a receipt; business travellers often need this written as their company name rather than a personal name. |
 
 ## Common Mistakes
 

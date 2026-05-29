@@ -25,17 +25,14 @@ If you have any questions, please do not hesitate to contact the person in charg
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ホウレンソウ (hourensou)</span> the triad of 報告・連絡・相談; 連絡 is the communication link that keeps all team members informed in real time
-<br><br>
-<span class="keigo-badge info">ご連絡ください (go-renraku kudasai)</span> the standard polite phrase used in guest-facing communications inviting guests or colleagues to get in touch
-</div>
+| Expression | Description |
+|---|---|
+| ホウレンソウ<br>hourensou | the triad of 報告・連絡・相談; 連絡 is the communication link that keeps all team members informed in real time |
+| ご連絡ください<br>go-renraku kudasai | the standard polite phrase used in guest-facing communications inviting guests or colleagues to get in touch |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common mistake is confusing 連絡 with 報告. 連絡 is about keeping others informed in the moment, while 報告 is a formal account of what has been completed or observed, directed upward. Another error is using 連絡する without honorific forms in guest-facing contexts; ご連絡いたします is the appropriate guest-facing phrase. Another common mistake is omitting the particle に when indicating who is being contacted: 上司に連絡する (contact the supervisor), not 上司を連絡する.
-</div>
 
 ---
 

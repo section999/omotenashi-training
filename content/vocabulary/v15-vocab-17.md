@@ -25,9 +25,10 @@ We will give you a claim ticket when we accept your luggage for storage.
 
 ## Related Expressions
 
-- **預かり証 (azukarishou)**: a formal receipt or acknowledgment of custody, similar to 引換券 but more document-like in its format, typically used for high-value or sensitive items where a more official record is needed
-- **チケット (chiketto)**: the loanword "ticket," which works fine in casual conversation but should not replace 引換券 in formal hotel communication
-
+| Expression | Description |
+|---|---|
+| 預かり証<br>azukarishou | a formal receipt or acknowledgment of custody, similar to 引換券 but more document-like in its format, typically used for high-value or sensitive items where a more official record is needed |
+| チケット<br>chiketto | the loanword "ticket," which works fine in casual conversation but should not replace 引換券 in formal hotel communication |
 
 ## Common Mistakes
 

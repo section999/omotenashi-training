@@ -23,8 +23,10 @@ Shall I introduce you to a nearby café that our staff recommend?
 
 ## Related Expressions
 
-- **ご提案 (goteian)**: a more formal word for suggestion or proposal; staff should use this when presenting options in a deliberate, consultative way, such as recommending a room upgrade or a special package, rather than casually sharing a favourite spot.
-- **人気 (ninki)**: popular, reflecting collective approval; a dish can be both おすすめ (a personal staff endorsement) and 人気 (a crowd favourite), but the nuance is different, so staff should not use them as if they mean the same thing.
+| Expression | Description |
+|---|---|
+| ご提案<br>goteian | a more formal word for suggestion or proposal; staff should use this when presenting options in a deliberate, consultative way, such as recommending a room upgrade or a special package, rather than casually sharing a favourite spot. |
+| 人気<br>ninki | popular, reflecting collective approval; a dish can be both おすすめ (a personal staff endorsement) and 人気 (a crowd favourite), but the nuance is different, so staff should not use them as if they mean the same thing. |
 
 ## Common Mistakes
 

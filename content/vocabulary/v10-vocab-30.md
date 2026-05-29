@@ -25,9 +25,10 @@ Please note that the dining charge is subject to an additional service charge.
 
 ## Related Expressions
 
-- **手数料 (tesūryō)**: a handling or processing fee for transactions or administrative services; a different category from サービス料, which is tied to the quality of hospitality service, not to how a payment is processed
-- **チップ (chippu)**: the English-derived word for a tip; largely absent from Japanese practice, since サービス料 fills the same economic and social role
-
+| Expression | Description |
+|---|---|
+| 手数料<br>tesūryō | a handling or processing fee for transactions or administrative services; a different category from サービス料, which is tied to the quality of hospitality service, not to how a payment is processed |
+| チップ<br>chippu | the English-derived word for a tip; largely absent from Japanese practice, since サービス料 fills the same economic and social role |
 
 ## Common Mistakes
 

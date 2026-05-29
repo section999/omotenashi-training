@@ -26,17 +26,14 @@ The locker room is at the back of the corridor: turn right at the end.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">手前 (temae)</span> "the near side / in front of"; the spatial opposite of 奥; together they form the near-far axis used to locate anything within a room or along a corridor
-<br><br>
-<span class="keigo-badge info">突き当たり (tsukiatari)</span> "the end of the corridor / the far wall"; more specific than 奥, indicating the endpoint of a space; often used together (奥の突き当たり) for maximum precision
-</div>
+| Expression | Description |
+|---|---|
+| 手前<br>temae | "the near side / in front of"; the spatial opposite of 奥; together they form the near-far axis used to locate anything within a room or along a corridor |
+| 突き当たり<br>tsukiatari | "the end of the corridor / the far wall"; more specific than 奥, indicating the endpoint of a space; often used together (奥の突き当たり) for maximum precision |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is confusing 奥 with 裏: 奥 is used for the far interior of a space one is already inside, while 裏 refers to the rear exterior side of a building. Another mistake is using 奥 without pairing it with a more specific landmark or direction when the space is large, leaving guests uncertain of how far back to walk. Adding 突き当たり or a visible landmark solves this. Using 奥 to mean "far away" in general outdoor contexts is also incorrect: 奥 is an interior spatial term, while 遠くに is used for general outdoor distance.
-</div>
 
 ---
 ## Quiz

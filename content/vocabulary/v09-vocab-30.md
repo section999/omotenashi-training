@@ -25,9 +25,10 @@ With the early bird discount applied at 10%, the room rate will be [amount] yen 
 
 ## Related Expressions
 
-- **直前割 (chokuzen-wari)**: last-minute discount, the reverse of 早割, offering reduced rates for bookings made very close to the stay date to fill remaining inventory. Being familiar with both helps staff explain the hotel's full pricing strategy to guests.
-- **割引 (waribiki)**: the general term for discount. 早割 is one specific type of 割引, and knowing the distinction matters when guests ask whether any promotional rates are available.
-
+| Expression | Description |
+|---|---|
+| 直前割<br>chokuzen-wari | last-minute discount, the reverse of 早割, offering reduced rates for bookings made very close to the stay date to fill remaining inventory. Being familiar with both helps staff explain the hotel's full pricing strategy to guests. |
+| 割引<br>waribiki | the general term for discount. 早割 is one specific type of 割引, and knowing the distinction matters when guests ask whether any promotional rates are available. |
 
 ## Common Mistakes
 

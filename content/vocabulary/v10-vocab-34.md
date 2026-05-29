@@ -24,9 +24,10 @@ We are currently experiencing a technical issue with our electronic payment syst
 
 ## Related Expressions
 
-- **QRコード (kyūāru kōdo)**: QR code; the most common interface for 電子決済 app-based payments in Japan, so knowing how to present one clearly is a basic front-desk skill
-- **現金払い (genkin barai)**: cash payment; the traditional alternative to 電子決済, still widely used across Japan and should always be offered as a fallback
-
+| Expression | Description |
+|---|---|
+| QRコード<br>kyūāru kōdo | QR code; the most common interface for 電子決済 app-based payments in Japan, so knowing how to present one clearly is a basic front-desk skill |
+| 現金払い<br>genkin barai | cash payment; the traditional alternative to 電子決済, still widely used across Japan and should always be offered as a fallback |
 
 ## Common Mistakes
 

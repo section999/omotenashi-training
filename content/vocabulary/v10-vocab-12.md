@@ -25,9 +25,10 @@ Please review the invoice and arrange payment by bank transfer.
 
 ## Related Expressions
 
-- **領収書 (ryoushuusho)**: receipt; issued after the 請求書 has been paid. The two documents together complete the billing cycle and provide a full paper trail -- one showing what was requested, the other confirming it was settled.
-- **明細書 (meisaisho)**: itemized statement; often attached to the 請求書 to provide supporting detail for each line item. For large corporate or event billings, attaching a 明細書 is standard practice.
-
+| Expression | Description |
+|---|---|
+| 領収書<br>ryoushuusho | receipt; issued after the 請求書 has been paid. The two documents together complete the billing cycle and provide a full paper trail -- one showing what was requested, the other confirming it was settled. |
+| 明細書<br>meisaisho | itemized statement; often attached to the 請求書 to provide supporting detail for each line item. For large corporate or event billings, attaching a 明細書 is standard practice. |
 
 ## Common Mistakes
 

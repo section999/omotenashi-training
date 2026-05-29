@@ -25,17 +25,14 @@ If the noise continues, we can also offer to move you to a different room.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">うるさい (urusai)</span> a casual adjective meaning "noisy" or "loud"; guests will use it freely, but staff should avoid it in formal responses, substituting 騒音 instead.
-<br><br>
-<span class="keigo-badge info">物音 (monooto)</span> sounds made by objects or movement (footsteps, doors closing); slightly narrower than 騒音, which encompasses all noise types.
-</div>
+| Expression | Description |
+|---|---|
+| うるさい<br>urusai | a casual adjective meaning "noisy" or "loud"; guests will use it freely, but staff should avoid it in formal responses, substituting 騒音 instead. |
+| 物音<br>monooto | sounds made by objects or movement (footsteps, doors closing); slightly narrower than 騒音, which encompasses all noise types. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common mistake is echoing a guest's casual language by saying うるさいですね: it matches their register but signals no professional action, and it sounds out of place coming from a staff member. Staff should reframe using the formal term 騒音 and pair it with a commitment to investigate. Another error is over-promising: unless the source is directly controllable by staff, silence should not be guaranteed. The right approach is to commit to investigating and offer alternatives. Guests are usually more reassured by effort than by promises that cannot be kept.
-</div>
 
 ---
 

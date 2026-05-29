@@ -24,9 +24,10 @@ The elevators are quite busy at the moment: would you mind waiting just a moment
 
 ## Related Expressions
 
-- **エスカレーター (esukareetaa)**: an escalator; found in department stores and large hotel lobbies, but less common in guestroom areas; used when directing guests to a specific floor in a retail or public-facing context.
-- **階段 (kaidan)**: stairs; the correct alternative during emergency evacuations and sometimes preferred by guests for short distances; elevators should not be recommended during a fire drill or emergency.
-
+| Expression | Description |
+|---|---|
+| エスカレーター<br>esukareetaa | an escalator; found in department stores and large hotel lobbies, but less common in guestroom areas; used when directing guests to a specific floor in a retail or public-facing context. |
+| 階段<br>kaidan | stairs; the correct alternative during emergency evacuations and sometimes preferred by guests for short distances; elevators should not be recommended during a fire drill or emergency. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ If you would like your tea replenished, please let the front desk know at any ti
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">交換 (koukan)</span> Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted.
-<br><br>
-<span class="keigo-badge info">在庫確認 (zaiko kakunin)</span> Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management.
-</div>
+| Expression | Description |
+|---|---|
+| 交換<br>koukan | Exchange or replacement; used when an item is swapped out entirely (e.g., towel exchange), whereas 補充 implies topping up a supply that has been partially or fully depleted. |
+| 在庫確認<br>zaiko kakunin | Inventory check; the internal process of verifying stock levels before performing 補充, important in housekeeping management. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 補充 and 交換 are sometimes used interchangeably, but the distinction is clear: 補充 is refilling a consumable, while 交換 is replacing one item with another (a dirty towel for a clean one, for example). Another error is skipping 補充 when an item appears mostly full; hotel standards often require topping it up to full regardless of the current level. When speaking to guests, staff should always specify which item is being restocked so there is no ambiguity.
-</div>
 
 ---
 

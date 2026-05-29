@@ -24,9 +24,10 @@ Entering while ignoring the warning carries the possibility of a serious acciden
 
 ## Related Expressions
 
-- **注意 (chuui)**: caution; the level below 警告 in the safety hierarchy, used for moderate risks where care is advised but immediate danger is not imminent; distinguishing these two levels is essential for accurate hazard communication.
-- **危険 (kiken)**: danger; the highest level of hazard communication, used when there is an immediate risk of death or severe injury, representing the level above 警告 in severity.
-
+| Expression | Description |
+|---|---|
+| 注意<br>chuui | caution; the level below 警告 in the safety hierarchy, used for moderate risks where care is advised but immediate danger is not imminent; distinguishing these two levels is essential for accurate hazard communication. |
+| 危険<br>kiken | danger; the highest level of hazard communication, used when there is an immediate risk of death or severe injury, representing the level above 警告 in severity. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ If any equipment breaks down, we would be grateful if one could let the front de
 
 ## Related Expressions
 
-- **修理依頼 (shuuri irai)**: a repair request; the natural next step once a 故障 is identified. 故障 refers to the state and 修理依頼 to the action that follows it.
-- **不具合 (fuguai)**: a defect or irregularity that may not be a total breakdown; used for minor faults or inconsistent performance, as distinct from the complete failure implied by 故障.
-
+| Expression | Description |
+|---|---|
+| 修理依頼<br>shuuri irai | a repair request; the natural next step once a 故障 is identified. 故障 refers to the state and 修理依頼 to the action that follows it. |
+| 不具合<br>fuguai | a defect or irregularity that may not be a total breakdown; used for minor faults or inconsistent performance, as distinct from the complete failure implied by 故障. |
 
 ## Common Mistakes
 

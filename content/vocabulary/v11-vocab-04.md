@@ -24,9 +24,10 @@ The hotel's phone number is 03-1234-5678.
 
 ## Related Expressions
 
-- **内線番号**: the extension number used within the property; distinct from 電話番号 in that it only works on the internal network and is typically two to four digits, not a full national number
-- **緊急連絡先**: an emergency contact number that is confirmed separately from the reservation phone number; collecting this at check-in is standard practice in Japanese hospitality for safety reasons
-
+| Expression | Description |
+|---|---|
+| 内線番号 | the extension number used within the property; distinct from 電話番号 in that it only works on the internal network and is typically two to four digits, not a full national number |
+| 緊急連絡先 | an emergency contact number that is confirmed separately from the reservation phone number; collecting this at check-in is standard practice in Japanese hospitality for safety reasons |
 
 ## Common Mistakes
 

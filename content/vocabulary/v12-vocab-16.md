@@ -25,9 +25,10 @@ Our hotel is able to arrange a doctor available around the clock.
 
 ## Related Expressions
 
-- **ドクターコール (dokutaa kooru)**: doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is a notable appreciated services a luxury hotel can offer.
-- **診察 (shinsatsu)**: medical examination; what the 医者 performs when called to assess a guest's condition, typically involving checking vital signs and asking about symptoms before recommending a course of action.
-
+| Expression | Description |
+|---|---|
+| ドクターコール<br>dokutaa kooru | doctor call; the hotel service of summoning a physician directly to a guest's room. It relies on the hotel's network of contracted 医者 and is a notable appreciated services a luxury hotel can offer. |
+| 診察<br>shinsatsu | medical examination; what the 医者 performs when called to assess a guest's condition, typically involving checking vital signs and asking about symptoms before recommending a course of action. |
 
 ## Common Mistakes
 

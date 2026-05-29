@@ -25,17 +25,14 @@ I have brought the bath towels. If you like, shall I bring them inside the room?
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">タオル (taoru)</span> hand/face towel; the smaller companion to バスタオル; guests and staff must distinguish clearly between the two to ensure the right item is provided.
-<br><br>
-<span class="keigo-badge info">ガウン (gaun)</span> bathrobe; often provided alongside バスタオル in higher-end rooms and suites, offering an additional layer of comfort after bathing.
-</div>
+| Expression | Description |
+|---|---|
+| タオル<br>taoru | hand/face towel; the smaller companion to バスタオル; guests and staff must distinguish clearly between the two to ensure the right item is provided. |
+| ガウン<br>gaun | bathrobe; often provided alongside バスタオル in higher-end rooms and suites, offering an additional layer of comfort after bathing. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common error is providing a standard タオル when a guest requested a バスタオル. The size difference is significant and noticeable. バス is also sometimes over-anglicised in pronunciation; it is bah-su, not "bass" as in English. When delivering replacement バスタオル mid-stay, used towels should always be removed from the bathroom at the same time. Leaving soiled linen in the room after bringing in clean items is a service gap that guests notice.
-</div>
 
 ---
 

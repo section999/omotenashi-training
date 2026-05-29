@@ -25,9 +25,10 @@ If you have any questions, please refer to the floor map or let us know at the f
 
 ## Related Expressions
 
-- **案内図 (annaizu)**: A guide map covering the full facility or complex, rather than a single floor. Think of 案内図 as the bird's-eye view and フロアマップ as the street-level detail. Both serve guests well, but in different situations.
-- **案内板 (annaiban)**: A fixed information board mounted on a wall, showing directions and facility information. It complements the フロアマップ as a static navigation resource at high-traffic points like elevator lobbies and corridor junctions.
-
+| Expression | Description |
+|---|---|
+| 案内図<br>annaizu | A guide map covering the full facility or complex, rather than a single floor. Think of 案内図 as the bird's-eye view and フロアマップ as the street-level detail. Both serve guests well, but in different situations. |
+| 案内板<br>annaiban | A fixed information board mounted on a wall, showing directions and facility information. It complements the フロアマップ as a static navigation resource at high-traffic points like elevator lobbies and corridor junctions. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ I have confirmed the reservation under confirmation number [number].
 
 ## Related Expressions
 
-- **予約番号 (yoyaku bangō)**: reservation number; closely related to 確認番号 but specifically assigned at booking time; the two are sometimes used interchangeably, but some systems issue a separate 確認番号 after the booking as a verification step
-- **照会番号 (shōkai bangō)**: inquiry or reference number; used in customer service to track a request or complaint, and is a different thing from a reservation or payment confirmation
-
+| Expression | Description |
+|---|---|
+| 予約番号<br>yoyaku bangō | reservation number; closely related to 確認番号 but specifically assigned at booking time; the two are sometimes used interchangeably, but some systems issue a separate 確認番号 after the booking as a verification step |
+| 照会番号<br>shōkai bangō | inquiry or reference number; used in customer service to track a request or complaint, and is a different thing from a reservation or payment confirmation |
 
 ## Common Mistakes
 

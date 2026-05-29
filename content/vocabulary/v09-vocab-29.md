@@ -25,17 +25,14 @@ Once you have confirmed, I will proceed with processing the stay shortening in o
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">延長 (enchou)</span> the direct opposite of 短縮, extending a stay rather than cutting it short. Staff should be prepared for both types of duration changes, since they require similar plan-condition checks before any system action.
-<br><br>
-<span class="keigo-badge info">キャンセル料 (kyanseru ryou)</span> the cancellation charge that often becomes relevant when a 短縮 request removes a night that falls within the policy's penalty window. Staff should check the plan conditions before quoting "no charge."
-</div>
+| Expression | Description |
+|---|---|
+| 延長<br>enchou | the direct opposite of 短縮, extending a stay rather than cutting it short. Staff should be prepared for both types of duration changes, since they require similar plan-condition checks before any system action. |
+| キャンセル料<br>kyanseru ryou | the cancellation charge that often becomes relevant when a 短縮 request removes a night that falls within the policy's penalty window. Staff should check the plan conditions before quoting "no charge." |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to confuse 短縮 with a full キャンセル (cancellation), but they are different procedures. With 短縮, only the removed nights are in question; the rest of the reservation stays intact. Processing a full cancellation when a guest only wanted to shorten their stay would wipe out their entire booking, which is a serious error. Another pitfall is telling a guest "no problem" before checking the plan's modification terms. Some discounted plans have strict no-change clauses, and approving a 短縮 without reading the conditions can lead to billing disputes. The recommended sequence is to check the plan, quote any fees, obtain confirmation from the guest, and then make the change.
-</div>
 
 ---
 ## Quiz

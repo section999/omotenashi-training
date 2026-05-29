@@ -24,9 +24,10 @@ I will check the details of your inquiry with the relevant department.
 
 ## Related Expressions
 
-- **ご用件 (goyouken)**: The purpose or matter of a call or visit. ご用件 is the broader category: お問い合わせ is one type of ご用件, specifically a question or request for information. A guest may have a ご用件 that is a complaint, a reservation request, or an お問い合わせ, among other things.
-- **ご質問 (go-shitsumon)**: A question, more direct and slightly less formal than お問い合わせ. ご質問 tends to refer to a single specific question, while お問い合わせ can encompass a broader, multi-part inquiry. In formal phone scripts, お問い合わせ is generally preferred.
-
+| Expression | Description |
+|---|---|
+| ご用件<br>goyouken | The purpose or matter of a call or visit. ご用件 is the broader category: お問い合わせ is one type of ご用件, specifically a question or request for information. A guest may have a ご用件 that is a complaint, a reservation request, or an お問い合わせ, among other things. |
+| ご質問<br>go-shitsumon | A question, more direct and slightly less formal than お問い合わせ. ご質問 tends to refer to a single specific question, while お問い合わせ can encompass a broader, multi-part inquiry. In formal phone scripts, お問い合わせ is generally preferred. |
 
 ## Common Mistakes
 

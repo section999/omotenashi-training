@@ -24,9 +24,10 @@ Applying a discount requires approval from a person in charge.
 
 ## Related Expressions
 
-- **許可 (kyoka)**: 許可 means permission in a broader sense and can be used between equals or toward guests (e.g., permission to enter a restricted area), while 承認 specifically implies a hierarchical or formal authorization process in a business context.
-- **確認 (kakunin)**: 確認 means confirmation or verification and is a step that often precedes 承認; a staff member confirms the details before a supervisor grants 承認, so the two terms frequently appear together in the same workflow.
-
+| Expression | Description |
+|---|---|
+| 許可<br>kyoka | 許可 means permission in a broader sense and can be used between equals or toward guests (e.g., permission to enter a restricted area), while 承認 specifically implies a hierarchical or formal authorization process in a business context. |
+| 確認<br>kakunin | 確認 means confirmation or verification and is a step that often precedes 承認; a staff member confirms the details before a supervisor grants 承認, so the two terms frequently appear together in the same workflow. |
 
 ## Common Mistakes
 

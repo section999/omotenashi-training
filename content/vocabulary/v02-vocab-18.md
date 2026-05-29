@@ -25,17 +25,14 @@ Will credit card payment be acceptable?
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">デビットカード (debitto kādo)</span> a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out.
-<br><br>
-<span class="keigo-badge info">電子マネー (denshi manē)</span> electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately.
-</div>
+| Expression | Description |
+|---|---|
+| デビットカード<br>debitto kādo | a debit card, which draws funds directly from a bank account rather than extending credit. Some hotels process debit cards differently from credit cards, and staff should clarify whether the hotel's pre-authorization system supports debit cards to avoid confusion at check-out. |
+| 電子マネー<br>denshi manē | electronic money or e-money (e.g., Suica, PayPay), which is growing in use across Japan. Staff should know which electronic payment methods the hotel accepts so they can answer guest inquiries promptly and accurately. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Reaching for 見る (miru) rather than 拝見する (haiken suru) when asking to examine a guest's card is a common register error. 見せてください is too casual and can feel presumptuous; 拝見してもよろしいでしょうか is the correct humble-polite form. A separate issue is saying カードください, which sounds like a demand with no context. Frame the request properly and explain why the card is needed. Before processing any card, staff should confirm the amount with the guest first: お支払い金額は〇〇円でよろしいでしょうか should come before any transaction.
-</div>
 
 ---
 

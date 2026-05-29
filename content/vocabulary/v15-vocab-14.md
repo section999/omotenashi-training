@@ -26,17 +26,14 @@ We have accepted your luggage for storage; please keep this claim ticket.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お預かり (o-azukari)</span> the act of accepting an item into their care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします).
-<br><br>
-<span class="keigo-badge info">一時保管 (ichiji hokan)</span> temporary storage, specifying that the storage is for a limited, defined period rather than indefinitely. Useful when staff want to be clear about the timeframe.
-</div>
+| Expression | Description |
+|---|---|
+| お預かり<br>o-azukari | the act of accepting an item into their care; more transactional and guest-facing than 保管, and often used as the verb form in direct service speech (お預かりします). |
+| 一時保管<br>ichiji hokan | temporary storage, specifying that the storage is for a limited, defined period rather than indefinitely. Useful when staff want to be clear about the timeframe. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to reach for 保存 (hozon) when 保管 is meant. 保存 is the right word for preserving food or saving a digital file, not for storing luggage or valuables in a hotel. Using it in a guest context sounds wrong and can create confusion. In terms of speech level, 「保管します」 is fine internally but too plain for direct guest communication. The polite forms 「保管させていただきます」 or 「お預かりいたします」 are the appropriate ones to use in front of guests. Additionally, staff should always record the storage start time and the guest's contact details when accepting items for 保管. It protects both sides if any question arises later.
-</div>
 
 ---
 

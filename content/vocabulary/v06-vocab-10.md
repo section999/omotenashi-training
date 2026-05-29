@@ -24,9 +24,10 @@ We sincerely apologise that the heat has prevented you from resting. We will sen
 
 ## Related Expressions
 
-- **空調 (kuuchou)**: air conditioning / HVAC system; the solution most commonly referenced in response to 暑い complaints; 空調を調整いたします is the standard action phrase.
-- **蒸し暑い (mushiatsui)**: hot and humid; a more specific complaint that may arise in summer, particularly in traditional buildings where climate control is limited.
-
+| Expression | Description |
+|---|---|
+| 空調<br>kuuchou | air conditioning / HVAC system; the solution most commonly referenced in response to 暑い complaints; 空調を調整いたします is the standard action phrase. |
+| 蒸し暑い<br>mushiatsui | hot and humid; a more specific complaint that may arise in summer, particularly in traditional buildings where climate control is limited. |
 
 ## Common Mistakes
 

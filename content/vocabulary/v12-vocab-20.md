@@ -25,9 +25,10 @@ The locations of emergency bells on each floor can be confirmed on the evacuatio
 
 ## Related Expressions
 
-- **火災報知器 (kasai houchiki)**: fire alarm detector; the automatic sensor that picks up smoke or heat and triggers the 非常ベル system. It is distinct from a manual bell pull, and understanding whether activation was automatic or manual helps staff assess the situation faster.
-- **避難訓練 (hinan kunren)**: evacuation drill; the regular rehearsal through which staff, and sometimes guests, practise responding correctly to the 非常ベル to ensure efficient and orderly egress when it matters most.
-
+| Expression | Description |
+|---|---|
+| 火災報知器<br>kasai houchiki | fire alarm detector; the automatic sensor that picks up smoke or heat and triggers the 非常ベル system. It is distinct from a manual bell pull, and understanding whether activation was automatic or manual helps staff assess the situation faster. |
+| 避難訓練<br>hinan kunren | evacuation drill; the regular rehearsal through which staff, and sometimes guests, practise responding correctly to the 非常ベル to ensure efficient and orderly egress when it matters most. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ I will issue your receipt right away. Please wait just a moment.
 
 ## Related Expressions
 
-- **明細書 (meisaisho)**: itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment. These are two separate documents, and a guest may need both.
-- **宛名 (atena)**: the addressee name on the receipt; must be confirmed before printing, since it cannot be corrected after issuance without scrapping the document and starting over.
-
+| Expression | Description |
+|---|---|
+| 明細書<br>meisaisho | itemized statement; often requested alongside the 領収書 by corporate guests who need a charge breakdown in addition to proof of payment. These are two separate documents, and a guest may need both. |
+| 宛名<br>atena | the addressee name on the receipt; must be confirmed before printing, since it cannot be corrected after issuance without scrapping the document and starting over. |
 
 ## Common Mistakes
 

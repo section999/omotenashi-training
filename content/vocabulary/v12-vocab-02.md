@@ -25,9 +25,10 @@ The cause of the fire was carelessness during oil cooking in the kitchen.
 
 ## Related Expressions
 
-- **火事 (kaji)**: the everyday, emotionally charged word for fire that staff hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements
-- **出火 (shukka)**: "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication
-
+| Expression | Description |
+|---|---|
+| 火事<br>kaji | the everyday, emotionally charged word for fire that staff hear in casual speech or someone shouting in alarm; 火災 is the term that belongs in official reports, formal signage, and PA announcements |
+| 出火<br>shukka | "outbreak of fire" with emphasis on the point of ignition; this word shows up in technical and investigative contexts, not in guest-facing communication |
 
 ## Common Mistakes
 

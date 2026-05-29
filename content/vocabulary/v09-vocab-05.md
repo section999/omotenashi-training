@@ -25,17 +25,14 @@ If you would like to extend your departure by one day, we will check room availa
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">チェックアウト日 (chekku-auto bi)</span> a near-synonym for 出発日, with a tone that focuses on the administrative check-out procedure rather than the physical act of leaving; the two are used interchangeably in most hotel contexts
-<br><br>
-<span class="keigo-badge info">到着日 (touchaku bi)</span> the counterpart arrival date; always confirmed together with 出発日 to define the complete stay window
-</div>
+| Expression | Description |
+|---|---|
+| チェックアウト日<br>chekku-auto bi | a near-synonym for 出発日, with a tone that focuses on the administrative check-out procedure rather than the physical act of leaving; the two are used interchangeably in most hotel contexts |
+| 到着日<br>touchaku bi | the counterpart arrival date; always confirmed together with 出発日 to define the complete stay window |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 One recurring confusion is when a guest says they are staying "until the 12th." A common error is to record the 12th as the final occupancy night when the guest means they are checking out on the 12th morning. Explicit confirmation is needed: is the 12th a night the guest is sleeping in the room, or the day they are leaving? Getting this wrong leads to billing disputes and potential room clashes. Additionally, the casual verb form 帰る日 should be avoided in professional settings. It is perfectly natural in everyday Japanese, but in reservation contexts 出発日 is the correct term and anything less formal will stand out.
-</div>
 
 ---
 ## Quiz

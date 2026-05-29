@@ -25,9 +25,10 @@ If you feel cold, please do not hesitate to let us know and we will adjust the a
 
 ## Related Expressions
 
-- **空調 (kuuchou)**: the HVAC system covering both heating and cooling; 空調を調整いたします is the go-to response phrase for both 寒い and 暑い complaints.
-- **毛布 (moufu)**: blanket; a tangible and immediate solution staff can offer while longer-term heating adjustments are still being arranged.
-
+| Expression | Description |
+|---|---|
+| 空調<br>kuuchou | the HVAC system covering both heating and cooling; 空調を調整いたします is the go-to response phrase for both 寒い and 暑い complaints. |
+| 毛布<br>moufu | blanket; a tangible and immediate solution staff can offer while longer-term heating adjustments are still being arranged. |
 
 ## Common Mistakes
 

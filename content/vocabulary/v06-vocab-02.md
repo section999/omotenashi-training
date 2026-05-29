@@ -24,9 +24,10 @@ If any trouble arises in the facility, please do not hesitate to speak to the fr
 
 ## Related Expressions
 
-- **問題 (mondai)**: broader and more neutral; appropriate for any kind of issue, whereas トラブル suggests something more disruptive or time-sensitive.
-- **アクシデント (akushidento)**: from English "accident"; used for physical mishaps (a spill, a fall) rather than systemic or service issues.
-
+| Expression | Description |
+|---|---|
+| 問題<br>mondai | broader and more neutral; appropriate for any kind of issue, whereas トラブル suggests something more disruptive or time-sensitive. |
+| アクシデント<br>akushidento | from English "accident"; used for physical mishaps (a spill, a fall) rather than systemic or service issues. |
 
 ## Common Mistakes
 

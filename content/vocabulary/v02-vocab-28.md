@@ -25,17 +25,14 @@ If you have any questions, we are always happy to assist you.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">説明 (setsumei)</span> explanation, focused specifically on conveying information with words. While 案内 often involves movement or a broader orientation, 説明 is narrower, it is about explaining a procedure or a detail. staff would offer ご案内 for a room tour but ご説明 for walking a guest through the check-out process.
-<br><br>
-<span class="keigo-badge info">エスコート (esukōto)</span> escort, a loanword used in upscale properties for the act of physically accompanying a guest. More ceremonial than 案内 in nuance, and more often reserved for VIP interactions or high-end arrival experiences.
-</div>
+| Expression | Description |
+|---|---|
+| 説明<br>setsumei | explanation, focused specifically on conveying information with words. While 案内 often involves movement or a broader orientation, 説明 is narrower, it is about explaining a procedure or a detail. staff would offer ご案内 for a room tour but ご説明 for walking a guest through the check-out process. |
+| エスコート<br>esukōto | escort, a loanword used in upscale properties for the act of physically accompanying a guest. More ceremonial than 案内 in nuance, and more often reserved for VIP interactions or high-end arrival experiences. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 案内する in plain form with a guest is a register error. The proper form is ご案内いたします, which turns a neutral verb into a respectful service offer. Another common error is stopping at the entrance of a corridor and pointing rather than walking the guest there. Physical escorting is the omotenashi standard when circumstances allow. The difference between 案内 and 紹介 (shōkai) should be noted: 案内 brings someone to or through something; 紹介 introduces or recommends something to them. Swapping these two produces sentences that are noticeably unnatural.
-</div>
 
 ---
 ## Quiz

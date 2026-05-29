@@ -25,9 +25,10 @@ If you have any questions, please check the instructions of our staff.
 
 ## Related Expressions
 
-- **案内 (annai)**: guidance or information-sharing; unlike 指示, 案内 does not carry an expectation of compliance. It informs rather than directs, and belongs in normal service contexts like showing guests to their room.
-- **命令 (meirei)**: order or command; significantly stronger and more authoritative than 指示. It's rarely used in hospitality because it sounds military, though staff may see it in emergency manuals to describe top-level directives from emergency services.
-
+| Expression | Description |
+|---|---|
+| 案内<br>annai | guidance or information-sharing; unlike 指示, 案内 does not carry an expectation of compliance. It informs rather than directs, and belongs in normal service contexts like showing guests to their room. |
+| 命令<br>meirei | order or command; significantly stronger and more authoritative than 指示. It's rarely used in hospitality because it sounds military, though staff may see it in emergency manuals to describe top-level directives from emergency services. |
 
 ## Common Mistakes
 

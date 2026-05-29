@@ -26,17 +26,14 @@ Due to a special event today, the bar's operating hours are shorter than usual. 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ラストオーダー (rasuto oodaa)</span> last order; the cut-off time for placing food and drink orders, which typically precedes actual closing by 30 to 60 minutes; guests frequently confuse this with 営業時間, so clarifying both when staff describe restaurant hours is good practice
-<br><br>
-<span class="keigo-badge info">定休日 (teikyuubi)</span> regular closing day; a fixed day of the week when a facility does not operate; always worth mentioning when a guest asks about 営業時間 for a day the facility will be closed
-</div>
+| Expression | Description |
+|---|---|
+| ラストオーダー<br>rasuto oodaa | last order; the cut-off time for placing food and drink orders, which typically precedes actual closing by 30 to 60 minutes; guests frequently confuse this with 営業時間, so clarifying both when staff describe restaurant hours is good practice |
+| 定休日<br>teikyuubi | regular closing day; a fixed day of the week when a facility does not operate; always worth mentioning when a guest asks about 営業時間 for a day the facility will be closed |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Stating only the opening time without the closing time leaves guests without the full picture they need to plan. Giving the complete range from open to close is recommended. Failing to mention ラストオーダー when describing restaurant hours means guests may arrive believing the kitchen is still open when food orders have already stopped. Guests rarely ask about last order separately, so it must be volunteered. If there is any doubt about current 営業時間, especially after a schedule change, confirming with a supervisor or checking posted signage before advising a guest is recommended. Memory alone is not reliable enough for something this specific.
-</div>
 
 ---
 ## Quiz

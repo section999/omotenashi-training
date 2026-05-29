@@ -23,8 +23,10 @@ The limousine bus boarding area is on the first floor of Terminal 1, boarding ba
 
 ## Related Expressions
 
-- **バス停 (basu-tei)**: a bus stop; a more general term for any boarding point along a bus route, while 乗り場 implies a designated, organized departure facility with specific structure
-- **のりば (noriba written in hiragana)**: the same word written in hiragana, which appears frequently on station signage to improve readability for younger visitors and international guests
+| Expression | Description |
+|---|---|
+| バス停<br>basu-tei | a bus stop; a more general term for any boarding point along a bus route, while 乗り場 implies a designated, organized departure facility with specific structure |
+| のりば<br>noriba written in hiragana | the same word written in hiragana, which appears frequently on station signage to improve readability for younger visitors and international guests |
 
 ## Common Mistakes
 

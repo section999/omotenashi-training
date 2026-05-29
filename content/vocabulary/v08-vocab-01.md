@@ -26,17 +26,14 @@ Please enter through the door on the right side.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">右手 (migite)</span> literally "right hand," used to mean "on the right-hand side"; slightly more formal and spatial than 右 alone, preferred in polished hotel speech
-<br><br>
-<span class="keigo-badge info">右折 (usetsu)</span> "right turn," used in driving or formal route descriptions; too stiff for casual in-lobby guidance but appropriate when writing route cards for guests
-</div>
+| Expression | Description |
+|---|---|
+| 右手<br>migite | literally "right hand," used to mean "on the right-hand side"; slightly more formal and spatial than 右 alone, preferred in polished hotel speech |
+| 右折<br>usetsu | "right turn," used in driving or formal route descriptions; too stiff for casual in-lobby guidance but appropriate when writing route cards for guests |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to say 右です without adding a landmark or verb, which leaves guests uncertain about exactly where on the right the destination is. There is also the classic mix-up under pressure: confusing 右 with 左. Practicing directional phrases in pairs until the distinction is automatic is an effective approach. Using a single pointing finger rather than an open hand when saying 右 is also a register error that can read as rude in a formal hospitality environment.
-</div>
 
 ---
 

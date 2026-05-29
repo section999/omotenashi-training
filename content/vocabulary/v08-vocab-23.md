@@ -24,9 +24,10 @@ Since you have luggage, how about a taxi? It takes about 20 minutes on foot.
 
 ## Related Expressions
 
-- **約〇分 (yaku 〇-fun)**: Approximately 〇 minutes, the standard hedge that always accompanies 徒歩 in professional guidance. Saying 徒歩10分 without 約 implies a precision that cannot be guaranteed; 徒歩約10分 acknowledges natural variation and is both more honest and more natural-sounding to Japanese guests.
-- **バス・タクシー (basu / takushii)**: Bus and taxi, the most common transport alternatives offered when 徒歩 is impractical. Staff should be prepared to pivot from a 徒歩 answer to a transport recommendation in the same breath when guest circumstances (age, luggage, weather, distance) make walking unsuitable.
-
+| Expression | Description |
+|---|---|
+| 約〇分<br>yaku 〇-fun | Approximately 〇 minutes, the standard hedge that always accompanies 徒歩 in professional guidance. Saying 徒歩10分 without 約 implies a precision that cannot be guaranteed; 徒歩約10分 acknowledges natural variation and is both more honest and more natural-sounding to Japanese guests. |
+| バス・タクシー<br>basu / takushii | Bus and taxi, the most common transport alternatives offered when 徒歩 is impractical. Staff should be prepared to pivot from a 徒歩 answer to a transport recommendation in the same breath when guest circumstances (age, luggage, weather, distance) make walking unsuitable. |
 
 ## Common Mistakes
 

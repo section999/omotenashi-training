@@ -25,9 +25,10 @@ When using the revolving door, we ask that you please watch young children caref
 
 ## Related Expressions
 
-- **危険 (kiken)**: danger; a stronger hazard designation used when there is significant risk of serious injury. The two words represent different rungs on the safety warning scale, so choosing the right one matters.
-- **警告 (keikoku)**: warning; sitting between 注意 and 危険, it signals that the risk is serious and immediate action is required, even if the situation isn't yet life-threatening.
-
+| Expression | Description |
+|---|---|
+| 危険<br>kiken | danger; a stronger hazard designation used when there is significant risk of serious injury. The two words represent different rungs on the safety warning scale, so choosing the right one matters. |
+| 警告<br>keikoku | warning; sitting between 注意 and 危険, it signals that the risk is serious and immediate action is required, even if the situation isn't yet life-threatening. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ You may also pay the bill by card.
 
 ## Related Expressions
 
-- **お支払い (o-shiharai)**: Payment. While 会計 refers to the bill and the act of checking out, お支払い refers to the payment action itself; the two are closely linked and often used in succession, as in お会計のお支払いはいかがなさいますか.
-- **領収書 (ryoushuusho)**: Receipt. After 会計 is settled, business travelers often request a 領収書 for expense purposes; knowing this term lets one respond immediately and professionally without asking the guest to repeat themselves.
-
+| Expression | Description |
+|---|---|
+| お支払い<br>o-shiharai | Payment. While 会計 refers to the bill and the act of checking out, お支払い refers to the payment action itself; the two are closely linked and often used in succession, as in お会計のお支払いはいかがなさいますか. |
+| 領収書<br>ryoushuusho | Receipt. After 会計 is settled, business travelers often request a 領収書 for expense purposes; knowing this term lets one respond immediately and professionally without asking the guest to repeat themselves. |
 
 ## Common Mistakes
 

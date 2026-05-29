@@ -25,17 +25,14 @@ If one is paying by cash, we will prepare your change.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お釣り (o-tsuri)</span> the change returned to a guest after a cash payment. Always confirm the amount and present it with both hands, saying お釣りでございます rather than just silently handing it over.
-<br><br>
-<span class="keigo-badge info">クレジットカード (kurejitto kādo)</span> the most common alternative to 現金 in hotel settings. When a guest opts for card over cash, smoothly transition to card processing and confirm the card type and any applicable fees.
-</div>
+| Expression | Description |
+|---|---|
+| お釣り<br>o-tsuri | the change returned to a guest after a cash payment. Always confirm the amount and present it with both hands, saying お釣りでございます rather than just silently handing it over. |
+| クレジットカード<br>kurejitto kādo | the most common alternative to 現金 in hotel settings. When a guest opts for card over cash, smoothly transition to card processing and confirm the card type and any applicable fees. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is asking 現金ですか？ without the honorific structure. It sounds blunt, and the full form お支払いは現金でよろしいでしょうか is far more appropriate for guest interactions. The word 現金 covers all physical currency, not just coins. It is distinct from 小銭 (kozeni, loose coins/change), which is the narrower term. On the topic of cash-only policies, avoid delivering 現金のみです in a clipped tone. The fuller form 現金のみのお取り扱いとなっております sounds measured and professional rather than dismissive.
-</div>
 
 ---
 

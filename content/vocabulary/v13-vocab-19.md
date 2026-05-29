@@ -25,9 +25,10 @@ Could you please consult with the person in charge at the front desk regarding t
 
 ## Related Expressions
 
-- **ホウレンソウ (hourensou)**: the full communication triad; 相談 completes the cycle by making sure that difficult or uncertain decisions are brought to the right people before anyone acts
-- **ご相談承ります (go-soudan uketamawarimasu)**: a formal phrase staff will hear from concierge and guest services staff, warmly inviting guests to bring any request or concern forward
-
+| Expression | Description |
+|---|---|
+| ホウレンソウ<br>hourensou | the full communication triad; 相談 completes the cycle by making sure that difficult or uncertain decisions are brought to the right people before anyone acts |
+| ご相談承ります<br>go-soudan uketamawarimasu | a formal phrase staff will hear from concierge and guest services staff, warmly inviting guests to bring any request or concern forward |
 
 ## Common Mistakes
 

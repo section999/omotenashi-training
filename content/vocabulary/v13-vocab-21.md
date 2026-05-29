@@ -25,9 +25,10 @@ The setup task for the banquet venue has been completed as scheduled.
 
 ## Related Expressions
 
-- **業務 (gyoumu)**: the broader category of all assigned duties; 作業 are the individual pieces of work that sit within that larger scope
-- **作業手順 (sagyou tejun)**: the step-by-step procedure for carrying out a specific 作業, which keeps quality consistent no matter who performs the task
-
+| Expression | Description |
+|---|---|
+| 業務<br>gyoumu | the broader category of all assigned duties; 作業 are the individual pieces of work that sit within that larger scope |
+| 作業手順<br>sagyou tejun | the step-by-step procedure for carrying out a specific 作業, which keeps quality consistent no matter who performs the task |
 
 ## Common Mistakes
 

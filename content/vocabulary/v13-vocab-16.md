@@ -25,17 +25,14 @@ Please conduct the handover briefing thoroughly before shift changeover.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">会議 (kaigi)</span> a formal, structured meeting, more official than 打ち合わせ and typically involving an agenda and minutes
-<br><br>
-<span class="keigo-badge info">引き継ぎ (hikitsugi)</span> shift handover briefing, a specific type of 打ち合わせ that occurs at the transition between shifts
-</div>
+| Expression | Description |
+|---|---|
+| 会議<br>kaigi | a formal, structured meeting, more official than 打ち合わせ and typically involving an agenda and minutes |
+| 引き継ぎ<br>hikitsugi | shift handover briefing, a specific type of 打ち合わせ that occurs at the transition between shifts |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is treating 打ち合わせ as completely interchangeable with 会議. While both involve communication between staff, 打ち合わせ carries no implication of formal authority or recorded decisions. Another common mistake is mispronouncing the word by stressing the wrong syllable; the stress falls on "wa" (uchiawase). Additionally, dropping the honorific お (o-uchiawase) when referring to a session involving superiors can sound too casual.
-</div>
 
 ---
 

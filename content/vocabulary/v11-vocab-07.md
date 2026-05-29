@@ -24,9 +24,10 @@ The person in charge is currently unavailable; may I take a message?
 
 ## Related Expressions
 
-- **担当部署**: the department responsible for the matter, as opposed to the individual person; using 担当部署 is appropriate when the specific 担当者 is not yet identified or when routing to a team rather than an individual.
-- **ご担当者様**: the honorific form used when addressing or referring to the person in charge from another company or organization; always use ご担当者様 in business-to-business phone communication.
-
+| Expression | Description |
+|---|---|
+| 担当部署 | the department responsible for the matter, as opposed to the individual person; using 担当部署 is appropriate when the specific 担当者 is not yet identified or when routing to a team rather than an individual. |
+| ご担当者様 | the honorific form used when addressing or referring to the person in charge from another company or organization; always use ご担当者様 in business-to-business phone communication. |
 
 ## Common Mistakes
 

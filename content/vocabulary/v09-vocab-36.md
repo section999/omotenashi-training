@@ -25,17 +25,14 @@ Could you please confirm your updated reservation details? The room will be chan
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">変更条件 (henkou jouken)</span> modification conditions, the terms attached to a booking plan that govern whether changes are allowed, at what cost, and within what timeframe before arrival. Staff should read these before saying anything to the guest.
-<br><br>
-<span class="keigo-badge info">再確認 (sai kakunin)</span> reconfirmation. After completing a 予約変更, sending a revised confirmation and offering a verbal summary of the updated details prevents misunderstandings from surfacing at check-in.
-</div>
+| Expression | Description |
+|---|---|
+| 変更条件<br>henkou jouken | modification conditions, the terms attached to a booking plan that govern whether changes are allowed, at what cost, and within what timeframe before arrival. Staff should read these before saying anything to the guest. |
+| 再確認<br>sai kakunin | reconfirmation. After completing a 予約変更, sending a revised confirmation and offering a verbal summary of the updated details prevents misunderstandings from surfacing at check-in. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common mistake with 予約変更 is accepting a vague request without clarifying which element the guest wants to change. A guest who says 予約を変更したいのですが could mean dates, room type, number of guests, or any combination. Proceeding without asking risks changing the wrong thing entirely. Taking a moment to ask a clarifying question is the appropriate response, even when there is pressure to act quickly. Another frequent error is failing to check whether the plan allows modification before exploring options. Some 早割 and prepaid plans explicitly prohibit 予約変更, and the guest needs to know that restriction before any system action is taken. The recommended procedure is to read the plan conditions first, communicate options second, and modify the reservation record last.
-</div>
 
 ---
 ## Quiz

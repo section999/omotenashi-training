@@ -26,18 +26,14 @@ Exit the lobby and turn right at the first corner. The station is straight from 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">右折する / 左折する (usetsu suru / sasetsu suru)</span> formal verbs for "to turn right / left," more common in written instructions, driving directions, or announcements; too stiff for direct conversational guidance in a hotel corridor
-<br><br>
-<span class="keigo-badge info">折れる (oreru)</span> informal way to say "to turn" at a corner; not recommended in formal hospitality settings, as it lacks the respectful register that 曲がってください carries
-</div>
-
+| Expression | Description |
+|---|---|
+| 右折する / 左折する<br>usetsu suru / sasetsu suru | formal verbs for "to turn right / left," more common in written instructions, driving directions, or announcements; too stiff for direct conversational guidance in a hotel corridor |
+| 折れる<br>oreru | informal way to say "to turn" at a corner; not recommended in formal hospitality settings, as it lacks the respectful register that 曲がってください carries |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is giving the direction (右に曲がる) without specifying the reference point, leaving guests unsure of exactly where to turn. Naming the corner, door, or landmark is recommended. A common error is using the dictionary form 曲がる directly as a command, which sounds abrupt. The correct polite form is 曲がってください or 曲がっていただけますか. Confusing 曲がる with 渡る (to cross) is a frequent mistake at intersections, where both actions may occur in sequence.
-</div>
 
 ---
 

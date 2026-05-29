@@ -25,17 +25,14 @@ We can prepare a children's meal set for your child.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">幼児 (youji)</span> infants and toddlers, typically under 3 or 4 years old; a subcategory of 子供 with its own rules, often free of charge but still needing a crib and other baby-specific arrangements.
-<br><br>
-<span class="keigo-badge info">小学生 (shougakusei)</span> elementary school-age children; many properties treat this as its own pricing bracket with specific meal options and room setup considerations that differ from both younger children and adults.
-</div>
+| Expression | Description |
+|---|---|
+| 幼児<br>youji | infants and toddlers, typically under 3 or 4 years old; a subcategory of 子供 with its own rules, often free of charge but still needing a crib and other baby-specific arrangements. |
+| 小学生<br>shougakusei | elementary school-age children; many properties treat this as its own pricing bracket with specific meal options and room setup considerations that differ from both younger children and adults. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using the plain form 子供 when speaking with guests is a quick way to sound casual in a situation that calls for warmth and formality. お子様 is the correct form in any guest-facing context, with no exceptions. A second common error is applying a generic child rate to a booking without first asking the child's age. If the property uses age-based subcategories, this can result in incorrect billing, and correcting it later is uncomfortable for everyone. A brief age confirmation at the reservation stage prevents that entirely.
-</div>
 
 ---
 

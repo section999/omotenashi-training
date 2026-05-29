@@ -25,17 +25,14 @@ This is the key to the room. Please check it.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">客室 (kyakushitsu)</span> the formal institutional term for guest room; correct for official, written, or high-register spoken contexts rather than direct guest conversation.
-<br><br>
-<span class="keigo-badge info">お部屋 (o-heya)</span> the honorific form of 部屋; raises the register of plain 部屋 and is the standard spoken form when addressing guests directly.
-</div>
+| Expression | Description |
+|---|---|
+| 客室<br>kyakushitsu | the formal institutional term for guest room; correct for official, written, or high-register spoken contexts rather than direct guest conversation. |
+| お部屋<br>o-heya | the honorific form of 部屋; raises the register of plain 部屋 and is the standard spoken form when addressing guests directly. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A frequent error is using plain 部屋 without the honorific お in spoken guest interaction, which can come across as abrupt or too casual for a service setting. お部屋 should be used when speaking directly with guests. Conversely, writing 部屋 in formal guest-facing materials like welcome letters or facility signage is also incorrect; 客室 is the appropriate choice there. Staff sometimes mix up the contexts entirely and use 客室 in casual conversation, where it sounds stiff when お部屋 would feel natural and warm.
-</div>
 
 ---
 ## Quiz

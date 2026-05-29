@@ -25,9 +25,10 @@ Our front desk staff is available to respond to your requests 24 hours a day.
 
 ## Related Expressions
 
-- **処理 (shori)**: has a more administrative, task-processing feel; it handles paperwork, data, and systematic procedures like チェックイン処理. Unlike 対応, which captures the relational quality of a response, 処理 is mechanical and not suitable for describing person-to-person service moments.
-- **解決 (kaiketsu)**: means "resolution" and represents the outcome of a successful 対応 rather than the act of responding itself. It can be understood as a two-step sequence: 「対応いたします」 opens the process, and 「解決いたしました」 closes it. Used together, they reassure the guest that the issue is being handled and will be resolved.
-
+| Expression | Description |
+|---|---|
+| 処理<br>shori | has a more administrative, task-processing feel; it handles paperwork, data, and systematic procedures like チェックイン処理. Unlike 対応, which captures the relational quality of a response, 処理 is mechanical and not suitable for describing person-to-person service moments. |
+| 解決<br>kaiketsu | means "resolution" and represents the outcome of a successful 対応 rather than the act of responding itself. It can be understood as a two-step sequence: 「対応いたします」 opens the process, and 「解決いたしました」 closes it. Used together, they reassure the guest that the issue is being handled and will be resolved. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ We kindly ask that you return the room key at check-out.
 
 ## Related Expressions
 
-- **カードキー (kādo kī)**: card key, the specific type of ルームキー used in most modern hotels. While ルームキー describes the function (room access), カードキー describes the form (card format). In hotels using electronic card systems, the two terms are often used interchangeably, but カードキー is more precise.
-- **鍵 (kagi)**: the general Japanese word for key. While 鍵 is the broader term, ルームキー is more precise in specifying that the key is for the guest room. In a multi-key environment (e.g., ryokan with room key plus gate key), the distinction is important for clarity.
-
+| Expression | Description |
+|---|---|
+| カードキー<br>kādo kī | card key, the specific type of ルームキー used in most modern hotels. While ルームキー describes the function (room access), カードキー describes the form (card format). In hotels using electronic card systems, the two terms are often used interchangeably, but カードキー is more precise. |
+| 鍵<br>kagi | the general Japanese word for key. While 鍵 is the broader term, ルームキー is more precise in specifying that the key is for the guest room. In a multi-key environment (e.g., ryokan with room key plus gate key), the distinction is important for clarity. |
 
 ## Common Mistakes
 

@@ -23,8 +23,10 @@ For visa extensions, please contact the nearest immigration office.
 
 ## Related Expressions
 
-- **査証 (sashou)**: the formal, official Japanese word for visa; staff will find this in government documents and legal text, while ビザ is what everyone says in conversation.
-- **在留資格 (zairyuu shikaku)**: the legal term for residence status or visa category; this is more specific than ビザ and refers to the exact classification under which a foreigner is permitted to stay in Japan.
+| Expression | Description |
+|---|---|
+| 査証<br>sashou | the formal, official Japanese word for visa; staff will find this in government documents and legal text, while ビザ is what everyone says in conversation. |
+| 在留資格<br>zairyuu shikaku | the legal term for residence status or visa category; this is more specific than ビザ and refers to the exact classification under which a foreigner is permitted to stay in Japan. |
 
 ## Common Mistakes
 

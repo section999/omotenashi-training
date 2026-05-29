@@ -25,9 +25,10 @@ Please speak to the staff member at the register.
 
 ## Related Expressions
 
-- **精算 (seisan)**: the broader act of settling a bill or final account, often used for hotel checkout or accumulated charges. 精算 is the process; レジ is the physical location where part of that process takes place.
-- **会計 (kaikei)**: the act of paying, or the accounting function. A guest might say お会計をお願いします to request the bill, and staff would then direct them to the レジ to complete the transaction.
-
+| Expression | Description |
+|---|---|
+| 精算<br>seisan | the broader act of settling a bill or final account, often used for hotel checkout or accumulated charges. 精算 is the process; レジ is the physical location where part of that process takes place. |
+| 会計<br>kaikei | the act of paying, or the accounting function. A guest might say お会計をお願いします to request the bill, and staff would then direct them to the レジ to complete the transaction. |
 
 ## Common Mistakes
 

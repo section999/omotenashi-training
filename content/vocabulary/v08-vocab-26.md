@@ -25,9 +25,10 @@ This door locks 3 seconds after closing. Please keep your key card with you.
 
 ## Related Expressions
 
-- **分 (fun/pun)**: Minutes, the next unit up from 秒. These two should be kept clearly separated in service contexts. Saying an elevator door waits 5分 (five minutes) instead of 5秒 (five seconds) would be confusing and might make a guest think the system is broken.
-- **すぐ (sugu)**: Immediately or right away, a softer alternative when staff do not need to give a precise count. すぐ閉まります works as a casual warning, but when safety is involved and the count matters, use 秒 with the exact number.
-
+| Expression | Description |
+|---|---|
+| 分<br>fun/pun | Minutes, the next unit up from 秒. These two should be kept clearly separated in service contexts. Saying an elevator door waits 5分 (five minutes) instead of 5秒 (five seconds) would be confusing and might make a guest think the system is broken. |
+| すぐ<br>sugu | Immediately or right away, a softer alternative when staff do not need to give a precise count. すぐ閉まります works as a casual warning, but when safety is involved and the count matters, use 秒 with the exact number. |
 
 ## Common Mistakes
 

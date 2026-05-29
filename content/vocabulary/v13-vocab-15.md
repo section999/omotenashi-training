@@ -25,9 +25,10 @@ In next week's meeting, we plan to discuss how to handle the Golden Week period.
 
 ## Related Expressions
 
-- **打ち合わせ (uchiawase)**: a shorter, informal coordination meeting where a couple of people sync up quickly; far less structured than 会議, and staff would never produce formal minutes for one
-- **議事録 (gijiroku)**: the written minutes produced after a 会議, documenting every decision and action item so nothing falls through the cracks
-
+| Expression | Description |
+|---|---|
+| 打ち合わせ<br>uchiawase | a shorter, informal coordination meeting where a couple of people sync up quickly; far less structured than 会議, and staff would never produce formal minutes for one |
+| 議事録<br>gijiroku | the written minutes produced after a 会議, documenting every decision and action item so nothing falls through the cracks |
 
 ## Common Mistakes
 

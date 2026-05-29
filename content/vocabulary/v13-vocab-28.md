@@ -23,8 +23,10 @@ Thanks to the cooperation of all staff members, operational efficiency has impro
 
 ## Related Expressions
 
-- **生産性 (seisansei)**: productivity; a broader measure of output relative to input, often used when discussing overall hotel or department performance rather than individual task efficiency
-- **無駄 (muda)**: waste; the elimination of 無駄 is considered a core method for raising 効率, as unnecessary steps, waiting time, and excess materials all reduce efficiency
+| Expression | Description |
+|---|---|
+| 生産性<br>seisansei | productivity; a broader measure of output relative to input, often used when discussing overall hotel or department performance rather than individual task efficiency |
+| 無駄<br>muda | waste; the elimination of 無駄 is considered a core method for raising 効率, as unnecessary steps, waiting time, and excess materials all reduce efficiency |
 
 ## Common Mistakes
 

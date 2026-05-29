@@ -24,9 +24,10 @@ We make a point of speaking slowly and clearly during telephone conversations.
 
 ## Related Expressions
 
-- **コミュニケーション (komyunikeeshon)**: the broader concept of communication, including non-verbal signals like posture, eye contact, and facial expression. Staff training uses this alongside 会話 to remind staff that effective guest interaction extends beyond the words staff choose.
-- **対話 (taiwa)**: a more formal word for dialogue, used in business or conference contexts within hotel settings to describe structured, purposeful discussion rather than everyday exchange.
-
+| Expression | Description |
+|---|---|
+| コミュニケーション<br>komyunikeeshon | the broader concept of communication, including non-verbal signals like posture, eye contact, and facial expression. Staff training uses this alongside 会話 to remind staff that effective guest interaction extends beyond the words staff choose. |
+| 対話<br>taiwa | a more formal word for dialogue, used in business or conference contexts within hotel settings to describe structured, purposeful discussion rather than everyday exchange. |
 
 ## Common Mistakes
 

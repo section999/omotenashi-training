@@ -25,17 +25,14 @@ Our front desk staff provide full service during reception hours. Emergency requ
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">チェックイン時間 (chekkuin jikan)</span> check-in time; this is when rooms become available for occupancy, which is different from when the desk itself is staffed. These two concepts should be kept separate.
-<br><br>
-<span class="keigo-badge info">夜間対応 (yakan taiou)</span> after-hours response; the protocol for handling guest needs once the official 受付時間 has ended. This should be mentioned alongside 受付時間.
-</div>
+| Expression | Description |
+|---|---|
+| チェックイン時間<br>chekkuin jikan | check-in time; this is when rooms become available for occupancy, which is different from when the desk itself is staffed. These two concepts should be kept separate. |
+| 夜間対応<br>yakan taiou | after-hours response; the protocol for handling guest needs once the official 受付時間 has ended. This should be mentioned alongside 受付時間. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A frequent mistake is quoting only the opening time of 受付時間 without mentioning when it closes, which leaves guests guessing. Equally problematic is stating the closing time with no mention of what comes after; guests who arrive at midnight and do not know about the intercom or a nighttime phone number may feel abandoned. Even when hours are communicated correctly, staff should be aware of holiday periods and special events when actual staffing may differ from the posted standard. Staff should verify that the hours given to a guest match the schedule for their specific dates of stay.
-</div>
 
 ---
 ## Quiz

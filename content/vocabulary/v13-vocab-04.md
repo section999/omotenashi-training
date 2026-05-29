@@ -25,9 +25,10 @@ By sharing information with my front-desk colleague, we achieved a smooth check-
 
 ## Related Expressions
 
-- **先輩 (senpai)**: a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries an expectation that the senior party will mentor and support those below them.
-- **後輩 (kouhai)**: a junior colleague who joined after one; the direct counterpart to 先輩, and someone one is expected to guide and look out for.
-
+| Expression | Description |
+|---|---|
+| 先輩<br>senpai | a senior colleague with more experience or tenure; the relationship is less equal than 同僚, and carries an expectation that the senior party will mentor and support those below them. |
+| 後輩<br>kouhai | a junior colleague who joined after one; the direct counterpart to 先輩, and someone one is expected to guide and look out for. |
 
 ## Common Mistakes
 

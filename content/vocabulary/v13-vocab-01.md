@@ -24,9 +24,10 @@ All employees, please read the guest service manual thoroughly.
 
 ## Related Expressions
 
-- **スタッフ (sutaffu)**: a softer, more conversational term for staff; often used in spoken hospitality contexts and on signage, whereas 従業員 is more common in formal documents.
-- **社員 (shain)**: refers specifically to full-time company employees, as opposed to part-time or contract workers; narrower in scope than 従業員.
-
+| Expression | Description |
+|---|---|
+| スタッフ<br>sutaffu | a softer, more conversational term for staff; often used in spoken hospitality contexts and on signage, whereas 従業員 is more common in formal documents. |
+| 社員<br>shain | refers specifically to full-time company employees, as opposed to part-time or contract workers; narrower in scope than 従業員. |
 
 ## Common Mistakes
 

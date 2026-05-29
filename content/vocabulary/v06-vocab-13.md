@@ -25,17 +25,14 @@ May we come to the room now to check the water leak situation?
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">故障 (koshou)</span> general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it calls for a specific response.
-<br><br>
-<span class="keigo-badge info">排水 (haisui)</span> drainage; sometimes a 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause rather than just the symptom.
-</div>
+| Expression | Description |
+|---|---|
+| 故障<br>koshou | general equipment breakdown; 水漏れ is a specific type of plumbing failure that falls under the broader category of 故障 but is named precisely because it calls for a specific response. |
+| 排水<br>haisui | drainage; sometimes a 水漏れ is caused by a blockage rather than a broken pipe, and understanding the difference helps maintenance address the root cause rather than just the symptom. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A critical error is downplaying a 水漏れ and delaying the call to maintenance. Even a slow drip can cause significant water damage if left unchecked, and electricity near water is a safety risk. The guest should never be asked to handle any part of the situation themselves, a phrase like 「タオルで押さえておいてください」 (please hold a towel over it) shifts responsibility in a direction it should never go. The correct posture is always immediate professional response combined with clear communication about what happens next, no matter how small the leak appears.
-</div>
 
 ---
 ## Quiz

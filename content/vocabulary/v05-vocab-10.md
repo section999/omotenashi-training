@@ -25,17 +25,14 @@ Today's coffee is made using beans sourced from Ethiopia.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">紅茶 (koucha)</span> black tea, the most common alternative to coffee after meals; when offering コーヒー, it is courteous to mention 紅茶 as an option at the same time for guests who do not drink coffee.
-<br><br>
-<span class="keigo-badge info">カフェイン抜き (kafein nuki)</span> decaffeinated; important vocabulary when a guest requests coffee but mentions sensitivity to caffeine, particularly in the evening.
-</div>
+| Expression | Description |
+|---|---|
+| 紅茶<br>koucha | black tea, the most common alternative to coffee after meals; when offering コーヒー, it is courteous to mention 紅茶 as an option at the same time for guests who do not drink coffee. |
+| カフェイン抜き<br>kafein nuki | decaffeinated; important vocabulary when a guest requests coffee but mentions sensitivity to caffeine, particularly in the evening. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is offering コーヒー without mentioning an alternative, which can leave non-coffee-drinking guests feeling overlooked. Staff sometimes forget to ask about hot versus iced preference and bring hot coffee by default, which can disappoint a guest who was hoping for something cold. Using 飲みますか instead of いかがでしょうか drops the soft, inviting quality that formal service depends on. Staff should practise the polite form until it feels natural, because guests notice the difference.
-</div>
 
 ---
 ## Quiz

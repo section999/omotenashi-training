@@ -25,17 +25,14 @@ Bath towels and amenities are prepared in the bathroom.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お風呂場 (ofuro ba)</span> A more casual, domestic expression for the bathing room. While meaning is similar, お風呂場 would sound informal in a hotel setting; staff should use 浴室 in guest-facing speech and written materials.
-<br><br>
-<span class="keigo-badge info">シャワー (shawaa)</span> Refers specifically to the shower appliance or the act of showering, as opposed to 浴室, which names the entire bathing room. A guest might ask about シャワー use, while staff describe the overall 浴室 during orientation.
-</div>
+| Expression | Description |
+|---|---|
+| お風呂場<br>ofuro ba | A more casual, domestic expression for the bathing room. While meaning is similar, お風呂場 would sound informal in a hotel setting; staff should use 浴室 in guest-facing speech and written materials. |
+| シャワー<br>shawaa | Refers specifically to the shower appliance or the act of showering, as opposed to 浴室, which names the entire bathing room. A guest might ask about シャワー use, while staff describe the overall 浴室 during orientation. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is using お風呂場 instead of 浴室 in formal hotel speech. Both refer to a bathing room, but お風呂場 sounds domestic and casual. 浴室 (bathing room) should not be confused with 洗面所 (washroom/sink area) or トイレ (toilet). In many Japanese hotel rooms these are separate spaces, and using the wrong term can misdirect a guest entirely. The most frequently overlooked register error is omitting ございます when describing the 浴室 to guests, a slip in formality that is noticeable in higher-end properties.
-</div>
 
 ---
 

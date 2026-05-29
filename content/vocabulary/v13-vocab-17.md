@@ -25,9 +25,10 @@ Regularly reporting work progress to your supervisor builds trust within the tea
 
 ## Related Expressions
 
-- **ホウレンソウ (hourensou)**: the three-word triad 報告・連絡・相談 that underpins communication in any Japanese workplace; knowing this acronym immediately signals that staff understand the professional culture
-- **インシデントレポート (incident report)**: a written 報告 documenting a guest complaint, accident, or service failure, kept on record for accountability and continuous improvement
-
+| Expression | Description |
+|---|---|
+| ホウレンソウ<br>hourensou | the three-word triad 報告・連絡・相談 that underpins communication in any Japanese workplace; knowing this acronym immediately signals that staff understand the professional culture |
+| インシデントレポート<br>incident report | a written 報告 documenting a guest complaint, accident, or service failure, kept on record for accountability and continuous improvement |
 
 ## Common Mistakes
 

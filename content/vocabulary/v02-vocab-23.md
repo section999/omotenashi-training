@@ -24,9 +24,10 @@ Have you made a reservation for early check-in?
 
 ## Related Expressions
 
-- **レイトチェックアウト (reito chekku-auto)**: late check-out, the mirror concept to 早朝チェックイン. Both are subject to availability and may carry additional charges; mastering the explanation for both is essential for staff handling flexible stay requests.
-- **標準チェックイン時間 (hyōjun chekku-in jikan)**: the standard check-in time. Knowing and communicating the hotel's standard time clearly is the baseline from which any discussion of 早朝 or late options begins. Staff should state the standard time before explaining exceptions.
-
+| Expression | Description |
+|---|---|
+| レイトチェックアウト<br>reito chekku-auto | late check-out, the mirror concept to 早朝チェックイン. Both are subject to availability and may carry additional charges; mastering the explanation for both is essential for staff handling flexible stay requests. |
+| 標準チェックイン時間<br>hyōjun chekku-in jikan | the standard check-in time. Knowing and communicating the hotel's standard time clearly is the baseline from which any discussion of 早朝 or late options begins. Staff should state the standard time before explaining exceptions. |
 
 ## Common Mistakes
 

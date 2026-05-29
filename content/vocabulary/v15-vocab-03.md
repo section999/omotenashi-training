@@ -26,17 +26,14 @@ Our laundry service handles both washing and drying together as a set.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">洗濯 (sentaku)</span> the washing step that comes before 乾燥; the two are often listed together as 洗濯・乾燥 to describe the full laundry process from start to finish.
-<br><br>
-<span class="keigo-badge info">乾燥機 (kansouki)</span> the dryer machine itself; 乾燥 is the process, 乾燥機 is the appliance. Adding 機 (ki, machine) to a process word gives the name of the device.
-</div>
+| Expression | Description |
+|---|---|
+| 洗濯<br>sentaku | the washing step that comes before 乾燥; the two are often listed together as 洗濯・乾燥 to describe the full laundry process from start to finish. |
+| 乾燥機<br>kansouki | the dryer machine itself; 乾燥 is the process, 乾燥機 is the appliance. Adding 機 (ki, machine) to a process word gives the name of the device. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to get confused because 乾燥 describes both drying laundry and dry environmental conditions, like dry skin or dry winter air. The word is identical in both cases, so always read the context. Another practical mistake is advising guests to use the 乾燥機 for all garments without first checking care labels. Silk and cashmere should never go in a machine dryer, and wool can shrink dramatically. A quick mention of "please check the label" when guests ask about the dryer can save a lot of grief. Finally, in guest-facing speech, staff should avoid the plain 乾燥する; use polished phrases like 乾燥をお願いできますか or 乾燥のご確認をお願いいたします.
-</div>
 
 ---
 

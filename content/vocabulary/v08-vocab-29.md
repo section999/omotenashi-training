@@ -25,9 +25,10 @@ To reach the banquet hall, please use the elevator hall on the upper floor.
 
 ## Related Expressions
 
-- **下 (shita)**: Below or down, the direct counterpart to 上. These two together cover all vertical spatial reference in hotel navigation, so learning them as a pair from the start is recommended.
-- **上の階 (ue no kai)**: The floor above, a set phrase that combines 上 with 階 (floor). More specific than 上 alone when directing guests between numbered floors, and it is the phrase used most often in service.
-
+| Expression | Description |
+|---|---|
+| 下<br>shita | Below or down, the direct counterpart to 上. These two together cover all vertical spatial reference in hotel navigation, so learning them as a pair from the start is recommended. |
+| 上の階<br>ue no kai | The floor above, a set phrase that combines 上 with 階 (floor). More specific than 上 alone when directing guests between numbered floors, and it is the phrase used most often in service. |
 
 ## Common Mistakes
 

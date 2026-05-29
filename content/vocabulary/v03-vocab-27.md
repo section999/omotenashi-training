@@ -25,9 +25,10 @@ For any requests regarding cleaning staff, please let the front desk know and we
 
 ## Related Expressions
 
-- **ハウスキーピング (hausu kiipingu)**: the loanword for the housekeeping department as a whole; while 清掃係 refers to an individual staff member, ハウスキーピング refers to the department, and in large hotels guests may be directed to call that department directly for room service requests
-- **まいります (mairimasu)**: the humble form of 来ます (to come), used specifically when describing the actions of their own hotel's staff in front of guests; using 来ます or 来る instead is a keigo failure that will stand out
-
+| Expression | Description |
+|---|---|
+| ハウスキーピング<br>hausu kiipingu | the loanword for the housekeeping department as a whole; while 清掃係 refers to an individual staff member, ハウスキーピング refers to the department, and in large hotels guests may be directed to call that department directly for room service requests |
+| まいります<br>mairimasu | the humble form of 来ます (to come), used specifically when describing the actions of their own hotel's staff in front of guests; using 来ます or 来る instead is a keigo failure that will stand out |
 
 ## Common Mistakes
 

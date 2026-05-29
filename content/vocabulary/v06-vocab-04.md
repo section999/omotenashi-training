@@ -25,17 +25,14 @@ When a complaint is received, the person in charge will personally handle the re
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">苦情 (kujou)</span> a complaint or grievance; often softer in nuance than クレーム and more commonly used when documenting or discussing the complaint internally.
-<br><br>
-<span class="keigo-badge info">ご不満 (go-fuman)</span> means dissatisfaction; useful for acknowledging a guest's emotional state before moving to resolution: ご不満をおかけして申し訳ございません.
-</div>
+| Expression | Description |
+|---|---|
+| 苦情<br>kujou | a complaint or grievance; often softer in nuance than クレーム and more commonly used when documenting or discussing the complaint internally. |
+| ご不満<br>go-fuman | means dissatisfaction; useful for acknowledging a guest's emotional state before moving to resolution: ご不満をおかけして申し訳ございません. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is reaching for クレーム when a simple 問題 would do, unnecessarily heightening the formality or urgency of the situation. The reverse error also happens: downgrading a legitimate クレーム to mere 問題 can make the guest feel unheard. Staff must never say クレームは受け付けません (we do not accept complaints). That phrase is not only dismissive, it is actively damaging to the hotel's reputation. All complaints must be received graciously, regardless of their perceived validity.
-</div>
 
 ---
 

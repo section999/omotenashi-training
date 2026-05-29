@@ -24,9 +24,10 @@ Thank you for your patience. I will now share the results of my inquiry.
 
 ## Related Expressions
 
-- **お待たせいたしました**: the mandatory follow-up phrase when returning to a caller after a wait; skipping it feels dismissive and breaks the warmth the wait phrase was meant to set up
-- **保留にさせていただきます**: a more explicit phrase meaning "I will place you on hold"; it pairs with 少々お待ちください when the hold will involve hold music rather than open silence
-
+| Expression | Description |
+|---|---|
+| お待たせいたしました | the mandatory follow-up phrase when returning to a caller after a wait; skipping it feels dismissive and breaks the warmth the wait phrase was meant to set up |
+| 保留にさせていただきます | a more explicit phrase meaning "I will place you on hold"; it pairs with 少々お待ちください when the hold will involve hold music rather than open silence |
 
 ## Common Mistakes
 

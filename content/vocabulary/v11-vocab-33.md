@@ -24,9 +24,10 @@ Guests who need guidance in a foreign language are welcome to contact the front 
 
 ## Related Expressions
 
-- **多言語 (tago gengo)**: multilingual, a more specific term that emphasizes active support for multiple languages at once. Where 外国語対応 signals general openness to non-Japanese languages, 多言語 implies genuine, simultaneous capability across several of them.
-- **語学力 (gogakuryoku)**: language proficiency, the term seen on job postings and in staff evaluations describing a candidate's level of 外国語 ability. It covers both production and comprehension, not just vocabulary.
-
+| Expression | Description |
+|---|---|
+| 多言語<br>tago gengo | multilingual, a more specific term that emphasizes active support for multiple languages at once. Where 外国語対応 signals general openness to non-Japanese languages, 多言語 implies genuine, simultaneous capability across several of them. |
+| 語学力<br>gogakuryoku | language proficiency, the term seen on job postings and in staff evaluations describing a candidate's level of 外国語 ability. It covers both production and comprehension, not just vocabulary. |
 
 ## Common Mistakes
 

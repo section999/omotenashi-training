@@ -24,9 +24,10 @@ Emergency contact numbers are listed in the in-room information book.
 
 ## Related Expressions
 
-- **非常 (hijou)**: also means "emergency" but more often appears in compound nouns such as 非常口 (emergency exit) and 非常ベル (emergency bell); 緊急 describes the state or situation while 非常 often labels equipment or infrastructure.
-- **急いで (isoide)**: means "hurry" and conveys urgency in everyday speech, but it lacks the critical safety connotation of 緊急 and is inappropriate for formal emergency announcements.
-
+| Expression | Description |
+|---|---|
+| 非常<br>hijou | also means "emergency" but more often appears in compound nouns such as 非常口 (emergency exit) and 非常ベル (emergency bell); 緊急 describes the state or situation while 非常 often labels equipment or infrastructure. |
+| 急いで<br>isoide | means "hurry" and conveys urgency in everyday speech, but it lacks the critical safety connotation of 緊急 and is inappropriate for formal emergency announcements. |
 
 ## Common Mistakes
 

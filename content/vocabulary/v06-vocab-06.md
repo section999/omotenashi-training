@@ -25,17 +25,14 @@ If you have left something behind after checkout, we are also able to send it to
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">紛失 (funshitsu)</span> refers to a lost item where the guest does not know where it is; 忘れ物 implies the item was left at a specific location, while 紛失 suggests it is missing and the location is unknown.
-<br><br>
-<span class="keigo-badge info">お忘れ物 (o-wasuremono)</span> the honorific form with お prefix; used when speaking directly to or about a guest's forgotten item, as it shows respect.
-</div>
+| Expression | Description |
+|---|---|
+| 紛失<br>funshitsu | refers to a lost item where the guest does not know where it is; 忘れ物 implies the item was left at a specific location, while 紛失 suggests it is missing and the location is unknown. |
+| お忘れ物<br>o-wasuremono | the honorific form with お prefix; used when speaking directly to or about a guest's forgotten item, as it shows respect. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is storing found items without logging them properly, which makes retrieval nearly impossible when guests call to enquire days later. Another mistake is discarding items that appear to be rubbish, staff should check with a supervisor before disposing of anything found in a guest room. Saying 「忘れましたよ」 (one forgot it) to a guest should be avoided, as that direct phrasing can feel accusatory. The preferred alternative is お忘れ物がございました (there was a forgotten item), which keeps the tone warm and non-judgmental.
-</div>
 
 ---
 

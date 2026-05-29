@@ -24,8 +24,10 @@ We will continue to support the growth of each staff member through regular eval
 
 ## Related Expressions
 
-- **査定 (satei)**: assessment in the context of salary reviews or formal grading; more administrative in tone than 評価, which can be used broadly for anything from guest satisfaction to staff performance
-- **フィードバック (fiido-bakku)**: the conversational delivery of evaluation findings to an individual, typically framed warmly and used alongside the more formal 評価 process
+| Expression | Description |
+|---|---|
+| 査定<br>satei | assessment in the context of salary reviews or formal grading; more administrative in tone than 評価, which can be used broadly for anything from guest satisfaction to staff performance |
+| フィードバック<br>fiido-bakku | the conversational delivery of evaluation findings to an individual, typically framed warmly and used alongside the more formal 評価 process |
 
 ## Common Mistakes
 

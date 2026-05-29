@@ -25,9 +25,10 @@ We preserved the scene and had the guest wait in another location until the poli
 
 ## Related Expressions
 
-- **110番 (hyaku-juu-ban)**: Japan's emergency police contact number, equivalent to 911 in the US; every hospitality staff member must have this memorised before their first shift, no exceptions
-- **警備員 (keibiin)**: on-site security guard employed by the hotel; 警備員 handle routine security matters on the premises, while 警察 are the government law enforcement called for actual criminal incidents
-
+| Expression | Description |
+|---|---|
+| 110番<br>hyaku-juu-ban | Japan's emergency police contact number, equivalent to 911 in the US; every hospitality staff member must have this memorised before their first shift, no exceptions |
+| 警備員<br>keibiin | on-site security guard employed by the hotel; 警備員 handle routine security matters on the premises, while 警察 are the government law enforcement called for actual criminal incidents |
 
 ## Common Mistakes
 

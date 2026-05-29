@@ -25,9 +25,10 @@ Fire extinguishers must be inspected by staff once a month.
 
 ## Related Expressions
 
-- **初期消火 (shoki shouka)**: initial firefighting; refers to the brief window after a fire starts when a 消火器 can stop it; if that window closes and the fire spreads, staff should stop fighting and focus entirely on evacuation
-- **スプリンクラー (supurinkuraa)**: sprinkler system; the automatic overhead water-discharge system that activates when heat passes a threshold; unlike a 消火器, it operates without any human intervention
-
+| Expression | Description |
+|---|---|
+| 初期消火<br>shoki shouka | initial firefighting; refers to the brief window after a fire starts when a 消火器 can stop it; if that window closes and the fire spreads, staff should stop fighting and focus entirely on evacuation |
+| スプリンクラー<br>supurinkuraa | sprinkler system; the automatic overhead water-discharge system that activates when heat passes a threshold; unlike a 消火器, it operates without any human intervention |
 
 ## Common Mistakes
 

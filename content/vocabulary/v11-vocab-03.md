@@ -24,9 +24,10 @@ If you cannot connect to an outside line, please contact the front desk at exten
 
 ## Related Expressions
 
-- **内線**: the internal line used within the hotel; unlike 外線, 内線 calls are generally free and need no prefix digit, so the contrast between the two is worth explaining clearly to every guest
-- **回線**: the physical or logical communication line itself; when a guest reports that 外線 is not working, the problem may be at the 回線 level, which requires a maintenance check rather than a quick fix at the front desk
-
+| Expression | Description |
+|---|---|
+| 内線 | the internal line used within the hotel; unlike 外線, 内線 calls are generally free and need no prefix digit, so the contrast between the two is worth explaining clearly to every guest |
+| 回線 | the physical or logical communication line itself; when a guest reports that 外線 is not working, the problem may be at the 回線 level, which requires a maintenance check rather than a quick fix at the front desk |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ We will make a copy of your passport for our records.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">身分証明書 (mibun shōmeisho)</span> identification document; the broader umbrella term that covers passports alongside other forms of ID such as driver's licences and residence cards used by domestic guests.
-<br><br>
-<span class="keigo-badge info">拝見 (haiken)</span> the humble verb for viewing another person's belongings or documents. Always use 拝見 rather than 見る or 確認する when asking to look at anything belonging to a guest.
-</div>
+| Expression | Description |
+|---|---|
+| 身分証明書<br>mibun shōmeisho | identification document; the broader umbrella term that covers passports alongside other forms of ID such as driver's licences and residence cards used by domestic guests. |
+| 拝見<br>haiken | the humble verb for viewing another person's belongings or documents. Always use 拝見 rather than 見る or 確認する when asking to look at anything belonging to a guest. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 見せてください (please show me) is technically correct Japanese, but it is too direct and lacks the humility the situation calls for. パスポートを拝見してもよろしいでしょうか is the standard form. 確認 (kakunin) is sometimes used when constructing the request sentence, but it implies a clinical verification rather than the respectful viewing that 拝見 conveys. A practical error to avoid is holding the passport too long. Return it as soon as the required information has been noted, as guests feel uncomfortable when their travel documents are sitting on someone else's desk.
-</div>
 
 ---
 

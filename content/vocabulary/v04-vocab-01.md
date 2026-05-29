@@ -25,17 +25,14 @@ If you have a preferred time for cleaning, please let us know at the front desk.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">清掃 (seisou)</span> A more formal, professional term for cleaning, preferred in written notices, staff manuals, and official announcements; 掃除 is more conversational.
-<br><br>
-<span class="keigo-badge info">お掃除 (o-souji)</span> The honorific prefix お softens the word slightly; used when referring to cleaning performed by or for a guest in a respectful tone.
-</div>
+| Expression | Description |
+|---|---|
+| 清掃<br>seisou | A more formal, professional term for cleaning, preferred in written notices, staff manuals, and official announcements; 掃除 is more conversational. |
+| お掃除<br>o-souji | The honorific prefix お softens the word slightly; used when referring to cleaning performed by or for a guest in a respectful tone. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 On formal hotel signage and in written reports, 清掃 is the standard term; 掃除 reads as too conversational in those contexts. Another common error is using 掃除します instead of 掃除いたします, which can come across as too casual in front of a guest. Staff should also be careful not to confuse 掃除 with 整理 (seirii): 整理 is about tidying and organizing, not actual cleaning.
-</div>
 
 ---
 

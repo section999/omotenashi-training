@@ -25,17 +25,14 @@ The emergency response team headed to the scene immediately to ensure guest safe
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">応急処置 (oukyuu shochi)</span> first aid; immediate medical intervention before professional help arrives. It's one component of 緊急対応 in medical incidents, but much narrower in scope than the full emergency response system.
-<br><br>
-<span class="keigo-badge info">避難誘導 (hinan yuudou)</span> evacuation guidance; the specific task of directing people to safety during an emergency. This is one of the primary responsibilities within a broader 緊急対応.
-</div>
+| Expression | Description |
+|---|---|
+| 応急処置<br>oukyuu shochi | first aid; immediate medical intervention before professional help arrives. It's one component of 緊急対応 in medical incidents, but much narrower in scope than the full emergency response system. |
+| 避難誘導<br>hinan yuudou | evacuation guidance; the specific task of directing people to safety during an emergency. This is one of the primary responsibilities within a broader 緊急対応. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to confuse 緊急対応 with 応急処置, thinking they are the same thing. First aid is one piece of emergency response, but 緊急対応 is the coordinated system as a whole. There is also a tendency among newer staff to assume 緊急対応 is someone else's job, something for security or management to handle. Every department has defined roles in the protocol and every staff member should be able to execute them. Additionally, using 緊急対応 in front of guests during a non-emergency situation should be avoided. It is a term that signals crisis, and using it out of context causes alarm rather than reassurance. It should be kept in internal channels.
-</div>
 
 ---
 ## Quiz

@@ -24,9 +24,10 @@ It is too far to walk, so would you consider using our shuttle bus?
 
 ## Related Expressions
 
-- **近くに (chikaku ni)**: Nearby or in the vicinity, the direct antonym of 遠くに. The contrast between these two terms is the core of distance communication in hospitality; staff who can deploy both accurately give guests the information they need to plan their time.
-- **徒歩 (toho)**: On foot / walking, which often appears in sentences alongside 遠くに as a way of clarifying that walking is not recommended. Saying 徒歩では遠くにございます (it is too far to walk) smoothly combines both words to steer guests toward transport options.
-
+| Expression | Description |
+|---|---|
+| 近くに<br>chikaku ni | Nearby or in the vicinity, the direct antonym of 遠くに. The contrast between these two terms is the core of distance communication in hospitality; staff who can deploy both accurately give guests the information they need to plan their time. |
+| 徒歩<br>toho | On foot / walking, which often appears in sentences alongside 遠くに as a way of clarifying that walking is not recommended. Saying 徒歩では遠くにございます (it is too far to walk) smoothly combines both words to steer guests toward transport options. |
 
 ## Common Mistakes
 

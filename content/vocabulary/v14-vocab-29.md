@@ -26,17 +26,14 @@ When visiting shrines and temples, we would appreciate your respect for the mann
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">エチケット (echiketto)</span> etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. Staff may hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings.
-<br><br>
-<span class="keigo-badge info">ルール (ruuru)</span> rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone.
-</div>
+| Expression | Description |
+|---|---|
+| エチケット<br>echiketto | etiquette; very close in meaning to マナー but carries a slightly more formal, internationally-flavoured nuance. Staff may hear it most in dining contexts or when discussing social protocols that overlap between Japanese and Western settings. |
+| ルール<br>ruuru | rule; the key difference from マナー is that ルール comes with stated consequences if broken, such as no-smoking zones or photography restrictions at cultural sites. マナー is upheld through social awareness alone. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to treat マナー as identical to 礼儀 (reigi, courtesy), but 礼儀 is more about respectful conduct within personal relationships, while マナー has a broader, more public connotation covering everyday shared spaces. The two overlap but are not interchangeable. On correction technique: saying 「マナー違反です」 directly to a guest sounds blunt and accusatory. Substituting 「こちらではご遠慮いただいております」 achieves the same goal while keeping the interaction warm and face-saving for everyone involved.
-</div>
 
 ---
 

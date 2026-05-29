@@ -25,9 +25,10 @@ Before canceling, would you consider changing the date?
 
 ## Related Expressions
 
-- **変更 (henkou)**: 変更 means a modification to a date, room type, or booking detail, and it's the first alternative worth offering before a guest proceeds with a 取消; a well-timed suggestion to 変更 can keep the booking alive while giving the guest what they need.
-- **返金 (henkin)**: 返金 is the refund that may follow a 取消; the two are procedurally linked, and guests need to know upfront whether their 取消 will result in a full refund, partial refund, or none at all depending on the cancellation timeline.
-
+| Expression | Description |
+|---|---|
+| 変更<br>henkou | 変更 means a modification to a date, room type, or booking detail, and it's the first alternative worth offering before a guest proceeds with a 取消; a well-timed suggestion to 変更 can keep the booking alive while giving the guest what they need. |
+| 返金<br>henkin | 返金 is the refund that may follow a 取消; the two are procedurally linked, and guests need to know upfront whether their 取消 will result in a full refund, partial refund, or none at all depending on the cancellation timeline. |
 
 ## Common Mistakes
 

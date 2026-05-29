@@ -24,9 +24,10 @@ Please be aware that your card issuer may charge a fee if one choose installment
 
 ## Related Expressions
 
-- **一括払い (ikkatsu barai)**: the default single-payment alternative; always offered alongside 分割払い so the guest can compare and choose.
-- **リボ払い (ribo barai)**: revolving credit payment, a different type of installment where a fixed monthly amount is charged regardless of total; sometimes confused with 分割払い but operates differently and usually carries higher fees.
-
+| Expression | Description |
+|---|---|
+| 一括払い<br>ikkatsu barai | the default single-payment alternative; always offered alongside 分割払い so the guest can compare and choose. |
+| リボ払い<br>ribo barai | revolving credit payment, a different type of installment where a fixed monthly amount is charged regardless of total; sometimes confused with 分割払い but operates differently and usually carries higher fees. |
 
 ## Common Mistakes
 

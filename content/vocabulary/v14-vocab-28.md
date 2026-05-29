@@ -26,17 +26,14 @@ There is no custom of tipping in Japan, as the service charge is included in the
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">慣習 (kanshuu)</span> established social convention; carries a slightly more institutional weight than 習慣, often describing customs with a sense of obligation, like annual gift-giving cycles or formal greetings at the start of a business relationship.
-<br><br>
-<span class="keigo-badge info">マナー (manaa)</span> manners; while 習慣 describes what people habitually do as part of their culture, マナー refers to the polite behaviour expected in specific social situations. The two overlap but are not the same.
-</div>
+| Expression | Description |
+|---|---|
+| 慣習<br>kanshuu | established social convention; carries a slightly more institutional weight than 習慣, often describing customs with a sense of obligation, like annual gift-giving cycles or formal greetings at the start of a business relationship. |
+| マナー<br>manaa | manners; while 習慣 describes what people habitually do as part of their culture, マナー refers to the polite behaviour expected in specific social situations. The two overlap but are not the same. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 One common mistake is using 習慣 to describe a personal quirk or bad habit. For that, 癖 (kuse) is the right word. In hospitality contexts, 習慣 almost always refers to culturally shared practices, not individual behaviour. Students also sometimes confuse 習慣 with 慣例 (kanrei, precedent or established practice within an organisation): 習慣 is societal and broad, while 慣例 is typically internal and institutional. When staff explain a 習慣 to a guest, it should always be framed as an invitation to participate, not a correction. That shift in tone makes all the difference.
-</div>
 
 ---
 

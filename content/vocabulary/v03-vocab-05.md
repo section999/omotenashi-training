@@ -25,9 +25,10 @@ We can offer you an upgrade to a twin room today: would you like that?
 
 ## Related Expressions
 
-- **ダブルルーム (daburu-ruumu)**: a room with one shared bed for two guests; this is the term most likely to be confused with ツインルーム, so the bed count should be clarified when there is any doubt
-- **シングルルーム (shinguru-ruumu)**: a room with one bed for one guest; this should be clearly distinguished from ツインルーム if a reservation detail is unclear or incomplete
-
+| Expression | Description |
+|---|---|
+| ダブルルーム<br>daburu-ruumu | a room with one shared bed for two guests; this is the term most likely to be confused with ツインルーム, so the bed count should be clarified when there is any doubt |
+| シングルルーム<br>shinguru-ruumu | a room with one bed for one guest; this should be clearly distinguished from ツインルーム if a reservation detail is unclear or incomplete |
 
 ## Common Mistakes
 

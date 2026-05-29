@@ -25,9 +25,10 @@ If you discover a suspicious individual, report to the police immediately and no
 
 ## Related Expressions
 
-- **報告 (houkoku)**: internal report; while 通報 goes to external authorities, 報告 is communication within the hotel, to a supervisor or the management team. Both happen in parallel during any emergency, and staff do not replace the other.
-- **緊急連絡 (kinkyuu renraku)**: emergency contact; a broader term for crisis communication that may include 通報 to authorities alongside internal notifications and guest updates. Think of it as the overall communication effort, with 通報 being one specific component.
-
+| Expression | Description |
+|---|---|
+| 報告<br>houkoku | internal report; while 通報 goes to external authorities, 報告 is communication within the hotel, to a supervisor or the management team. Both happen in parallel during any emergency, and staff do not replace the other. |
+| 緊急連絡<br>kinkyuu renraku | emergency contact; a broader term for crisis communication that may include 通報 to authorities alongside internal notifications and guest updates. Think of it as the overall communication effort, with 通報 being one specific component. |
 
 ## Common Mistakes
 

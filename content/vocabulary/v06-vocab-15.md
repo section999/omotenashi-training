@@ -25,9 +25,10 @@ If one is unable to connect to Wi-Fi, please let us know at the front desk.
 
 ## Related Expressions
 
-- **インターネット (intaanetto)**: the broader term for internet access. Wi-Fi refers to the wireless delivery method, while インターネット refers to the network itself. A property might offer インターネット via both Wi-Fi and a wired LAN cable (有線LAN), so knowing the distinction helps when staff is troubleshooting.
-- **接続 (setsuzoku)**: means "connection" and is used when describing the act of linking a device to the network. Wi-Fi is the service; 接続 is the action of using it, as in 「接続方法をご案内いたします」 (I will guide one on how to connect).
-
+| Expression | Description |
+|---|---|
+| インターネット<br>intaanetto | the broader term for internet access. Wi-Fi refers to the wireless delivery method, while インターネット refers to the network itself. A property might offer インターネット via both Wi-Fi and a wired LAN cable (有線LAN), so knowing the distinction helps when staff is troubleshooting. |
+| 接続<br>setsuzoku | means "connection" and is used when describing the act of linking a device to the network. Wi-Fi is the service; 接続 is the action of using it, as in 「接続方法をご案内いたします」 (I will guide one on how to connect). |
 
 ## Common Mistakes
 

@@ -26,17 +26,14 @@ For the parking exit, please leave the building and cross the traffic light dire
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">入口 (iriguchi)</span> The entrance, the direct counterpart to 出口. These two words are easy to mix up under pressure; a guest asking for the 出口 who is directed to the 入口 will loop back into the building rather than leaving, so staff should confirm which direction the guest is heading.
-<br><br>
-<span class="keigo-badge info">非常口 (hijouguchi)</span> The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff should know the difference and not direct guests to the 非常口 under normal circumstances.
-</div>
+| Expression | Description |
+|---|---|
+| 入口<br>iriguchi | The entrance, the direct counterpart to 出口. These two words are easy to mix up under pressure; a guest asking for the 出口 who is directed to the 入口 will loop back into the building rather than leaving, so staff should confirm which direction the guest is heading. |
+| 非常口<br>hijouguchi | The emergency exit, a specialized compound of 非常 (emergency/extraordinary) and 口 (opening). Unlike general 出口, 非常口 is reserved for evacuation routes and is marked by the universal green running-figure sign; staff should know the difference and not direct guests to the 非常口 under normal circumstances. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is omitting the direction or landmark when saying 出口: telling a guest 出口はあちらです in a large building with multiple exits is often not enough and can cause them to wander. Another common mistake is confusing 出口 with 非常口 and using the emergency exit term in normal contexts, which can alarm guests unnecessarily. When a guest asks in English "Where is the exit?", staff should give a full sentence specifying direction, floor, or a visible landmark rather than defaulting to a vague gesture.
-</div>
 
 ---
 ## Quiz

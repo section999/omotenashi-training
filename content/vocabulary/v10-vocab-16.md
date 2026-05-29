@@ -25,9 +25,10 @@ We also accept payment by electronic money.
 
 ## Related Expressions
 
-- **支払い (shiharai)**: the everyday word for payment, appropriate in any register. 支払い is more natural in conversation with guests; 決済 is more formal and technical, often appearing in written documents, receipts, and system interfaces.
-- **精算 (seisan)**: the final settlement of an accumulated bill, such as at hotel checkout. 精算 is about resolving the complete account; 決済 is about the specific mechanism used to process that payment.
-
+| Expression | Description |
+|---|---|
+| 支払い<br>shiharai | the everyday word for payment, appropriate in any register. 支払い is more natural in conversation with guests; 決済 is more formal and technical, often appearing in written documents, receipts, and system interfaces. |
+| 精算<br>seisan | the final settlement of an accumulated bill, such as at hotel checkout. 精算 is about resolving the complete account; 決済 is about the specific mechanism used to process that payment. |
 
 ## Common Mistakes
 

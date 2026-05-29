@@ -25,9 +25,10 @@ Would you prefer room-temperature water or chilled water?
 
 ## Related Expressions
 
-- **お冷や (o-hiya)**: a refined term specifically for chilled water served in restaurants, more elegant than saying 冷たいお水; commonly heard in traditional Japanese dining settings and worth using yourself.
-- **お白湯 (o-sayu)**: plain hot water, often requested by elderly guests or health-conscious diners; knowing how to offer this gracefully is important, as some guests will request it by name.
-
+| Expression | Description |
+|---|---|
+| お冷や<br>o-hiya | a refined term specifically for chilled water served in restaurants, more elegant than saying 冷たいお水; commonly heard in traditional Japanese dining settings and worth using yourself. |
+| お白湯<br>o-sayu | plain hot water, often requested by elderly guests or health-conscious diners; knowing how to offer this gracefully is important, as some guests will request it by name. |
 
 ## Common Mistakes
 

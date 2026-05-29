@@ -25,9 +25,10 @@ We ask guests to refrain from smoking in non-smoking rooms. If you have any conc
 
 ## Related Expressions
 
-- **喫煙 (kitsuen)**: "smoking", the direct opposite of 禁煙; staff should confirm which the guest prefers before finalising a room assignment and record it so it is not forgotten
-- **禁煙フロア (kin'en furoa)**: "non-smoking floor"; many hotels designate entire floors rather than individual rooms, so knowing this extension of the term helps one give complete information
-
+| Expression | Description |
+|---|---|
+| 喫煙<br>kitsuen | "smoking", the direct opposite of 禁煙; staff should confirm which the guest prefers before finalising a room assignment and record it so it is not forgotten |
+| 禁煙フロア<br>kin'en furoa | "non-smoking floor"; many hotels designate entire floors rather than individual rooms, so knowing this extension of the term helps one give complete information |
 
 ## Common Mistakes
 

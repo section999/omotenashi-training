@@ -24,9 +24,10 @@ We have now completed the sheet change. We sincerely apologise for any inconveni
 
 ## Related Expressions
 
-- **シーツ交換 (shiitsu koukan)**: "sheet replacement/change"; the compound phrase used when a guest requests or staff announces a linen change, more specific and professional than saying シーツ alone.
-- **枕カバー (makura kabaa)**: pillowcase; typically replaced at the same time as シーツ during a full linen change, so knowing both terms helps one describe the full scope of what housekeeping will do.
-
+| Expression | Description |
+|---|---|
+| シーツ交換<br>shiitsu koukan | "sheet replacement/change"; the compound phrase used when a guest requests or staff announces a linen change, more specific and professional than saying シーツ alone. |
+| 枕カバー<br>makura kabaa | pillowcase; typically replaced at the same time as シーツ during a full linen change, so knowing both terms helps one describe the full scope of what housekeeping will do. |
 
 ## Common Mistakes
 

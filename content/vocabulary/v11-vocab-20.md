@@ -25,9 +25,10 @@ May I have your name in order to confirm your reservation?
 
 ## Related Expressions
 
-- **お名前は何ですか (onamae wa nan desu ka)**: a more direct, less humble way of asking for a name; while grammatically fine, it is considered too blunt for formal hotel service because it lacks the humble framing that 頂戴できますか provides.
-- **ご氏名 (go-shimei)**: a more formal word for "full name," typically used in written forms or when a full legal name is required; お名前 works for most phone and in-person situations, while ご氏名 belongs in official documents like hotel registration cards.
-
+| Expression | Description |
+|---|---|
+| お名前は何ですか<br>onamae wa nan desu ka | a more direct, less humble way of asking for a name; while grammatically fine, it is considered too blunt for formal hotel service because it lacks the humble framing that 頂戴できますか provides. |
+| ご氏名<br>go-shimei | a more formal word for "full name," typically used in written forms or when a full legal name is required; お名前 works for most phone and in-person situations, while ご氏名 belongs in official documents like hotel registration cards. |
 
 ## Common Mistakes
 

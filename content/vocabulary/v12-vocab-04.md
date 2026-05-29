@@ -25,17 +25,14 @@ During evacuation, please do not use the elevators: use the emergency staircase.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">避難訓練 (hinan kunren)</span> evacuation drill; the regular practice exercise that prepares staff and familiarises guests with the evacuation procedure before an emergency occurs.
-<br><br>
-<span class="keigo-badge info">誘導 (yuudou)</span> guidance or escorting; when staff actively lead guests toward the evacuation route they are performing 誘導, which is a key staff responsibility during 避難.
-</div>
+| Expression | Description |
+|---|---|
+| 避難訓練<br>hinan kunren | evacuation drill; the regular practice exercise that prepares staff and familiarises guests with the evacuation procedure before an emergency occurs. |
+| 誘導<br>yuudou | guidance or escorting; when staff actively lead guests toward the evacuation route they are performing 誘導, which is a key staff responsibility during 避難. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A critical mistake is using the elevators during 避難: staff must be trained to redirect guests to stairs even when guests resist, as elevator shafts can fill with smoke and power failures can trap occupants. A common mistake is to confuse 避難 (evacuation: moving to safety) with 救助 (kyuujo: rescue: saving someone already in danger), which are related but distinct actions. Staff should also avoid using vague language during an evacuation announcement; phrases like 「外に出てください」 without specifying the route can cause confusion and crowd congestion.
-</div>
 
 ---
 

@@ -25,17 +25,14 @@ If you have any questions about transferring between transport systems, please d
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">公共交通機関 (koukyou koutsuu kikan)</span> public transportation specifically; distinguishes shared transit like trains and buses from private options such as taxis or rental cars
-<br><br>
-<span class="keigo-badge info">移動手段 (idou shudan)</span> means of transport in a broader, more casual sense; often used when discussing a single journey rather than an entire network or system
-</div>
+| Expression | Description |
+|---|---|
+| 公共交通機関<br>koukyou koutsuu kikan | public transportation specifically; distinguishes shared transit like trains and buses from private options such as taxis or rental cars |
+| 移動手段<br>idou shudan | means of transport in a broader, more casual sense; often used when discussing a single journey rather than an entire network or system |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to shorten 交通機関 to just 交通, but 交通 by itself means "traffic" or "transport" in an abstract sense and does not specifically refer to a transportation system or vehicle type. If staff mean a specific mode, they should name it directly: 電車, バス, タクシー. Additionally: 機関 here means "mechanism" or "system," not 機関車 (locomotive), which uses the same first characters but is a completely different word.
-</div>
 
 ---
 

@@ -23,8 +23,10 @@ Limousine bus reservations can be arranged at the front desk.
 
 ## Related Expressions
 
-- **バス停 (basu-tei)**: bus stop; the physical location where passengers wait and board, the most essential piece of information to give alongside any バス direction
-- **観光バス (kankou basu)**: sightseeing bus; a specialized service for tourists, often with on-board commentary and stops optimized around popular attractions
+| Expression | Description |
+|---|---|
+| バス停<br>basu-tei | bus stop; the physical location where passengers wait and board, the most essential piece of information to give alongside any バス direction |
+| 観光バス<br>kankou basu | sightseeing bus; a specialized service for tourists, often with on-board commentary and stops optimized around popular attractions |
 
 ## Common Mistakes
 

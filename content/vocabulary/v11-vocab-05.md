@@ -24,9 +24,10 @@ I will brief the person in charge before connecting you.
 
 ## Related Expressions
 
-- **転送いたします**: a more technical way to say "I will transfer the call"; お繋ぎします has a warmer, more personal feel, while 転送 reads as more operational and tends to appear in internal communications
-- **少々お待ちください**: always paired with お繋ぎします; never initiate a transfer without first asking the caller to hold, because leaving silence with no warning feels abrupt and unsettling
-
+| Expression | Description |
+|---|---|
+| 転送いたします | a more technical way to say "I will transfer the call"; お繋ぎします has a warmer, more personal feel, while 転送 reads as more operational and tends to appear in internal communications |
+| 少々お待ちください | always paired with お繋ぎします; never initiate a transfer without first asking the caller to hold, because leaving silence with no warning feels abrupt and unsettling |
 
 ## Common Mistakes
 

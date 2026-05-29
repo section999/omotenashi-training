@@ -26,17 +26,14 @@ For washing delicate garments, we recommend our dry cleaning service.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ランドリー (randorii)</span> a loanword that emphasises a commercial laundry facility or hotel service, rather than the personal act of washing at home.
-<br><br>
-<span class="keigo-badge info">クリーニング (kuriiningu)</span> professional dry cleaning using chemical solvents, used when water-based 洗濯 would damage the fabric.
-</div>
+| Expression | Description |
+|---|---|
+| ランドリー<br>randorii | a loanword that emphasises a commercial laundry facility or hotel service, rather than the personal act of washing at home. |
+| クリーニング<br>kuriiningu | professional dry cleaning using chemical solvents, used when water-based 洗濯 would damage the fabric. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is using 洗濯 when a guest needs dry cleaning. 洗濯 means water-based washing only, so applying it to suits or silk garments can create confusion and potential damage. Staff should always check the care label before advising. Students also sometimes say 洗濯をしてください to a guest, which sounds commanding and too casual for a service setting. The polite form 洗濯のご依頼を承ります is far more appropriate. Additionally, staff should keep straight: 洗濯 (washing clothes) and 洗浄 (senjou, cleaning equipment or surfaces) are different words with different uses, so they should not be mixed up.
-</div>
 
 ---
 

@@ -25,17 +25,14 @@ The restaurant is near the station. You can reach it in about a 5-minute walk.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">隣 (tonari)</span> Next door, with no gap between the two things. 隣 is used when precision matters, such as when a pharmacy shares a wall with the hotel entrance, while 近くに is used for anything in the general walking-distance range.
-<br><br>
-<span class="keigo-badge info">遠くに (tooku ni)</span> Far away, the opposite of 近くに. Using 遠くに when a destination is far prevents false expectations. If something is a 20-minute walk, say so.
-</div>
+| Expression | Description |
+|---|---|
+| 隣<br>tonari | Next door, with no gap between the two things. 隣 is used when precision matters, such as when a pharmacy shares a wall with the hotel entrance, while 近くに is used for anything in the general walking-distance range. |
+| 遠くに<br>tooku ni | Far away, the opposite of 近くに. Using 遠くに when a destination is far prevents false expectations. If something is a 20-minute walk, say so. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common slip is using 近くに without adding a distance estimate afterward. A guest who hears 近くにございます but gets no follow-up has no idea whether "nearby" means two minutes or fifteen, and that ambiguity causes frustration. Staff should tie it to 徒歩〇分 or a landmark. Another common mistake is dropping the に and saying 近く alone, which sounds grammatically incomplete in a full sentence. If a place is next door, 近くに understates the proximity and could send the guest walking past it looking for something farther away. When a place is 隣, staff should use 隣に.
-</div>
 
 ---
 ## Quiz

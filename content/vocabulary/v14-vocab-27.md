@@ -26,17 +26,14 @@ Mutually respecting different cultures leads to a wonderful travel experience.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">伝統 (dentou)</span> tradition; more specific than 文化, pointing to practices passed down through generations, such as festivals, crafts, and performing arts. It is helpful to think of 伝統 as one thread woven into the larger fabric of 文化.
-<br><br>
-<span class="keigo-badge info">風習 (fuushuu)</span> regional customs and local practices; a narrower form of 文化 that staff may encounter when guests ask why a certain area does things differently from Tokyo or Kyoto.
-</div>
+| Expression | Description |
+|---|---|
+| 伝統<br>dentou | tradition; more specific than 文化, pointing to practices passed down through generations, such as festivals, crafts, and performing arts. It is helpful to think of 伝統 as one thread woven into the larger fabric of 文化. |
+| 風習<br>fuushuu | regional customs and local practices; a narrower form of 文化 that staff may encounter when guests ask why a certain area does things differently from Tokyo or Kyoto. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to mix up 文化 and 習慣 (shuukan, custom or habit). They are related but not the same thing. 文化 is the broader framework of a society's identity, while 習慣 describes the specific behaviours that exist within it. Removing shoes indoors is a 習慣; the whole system of values and practices that makes that custom feel natural is 文化. When speaking to guests about Japanese culture, keeping the tone warm and inviting rather than instructional is important. Guests respond much better to cultural sharing than to a list of rules they need to follow.
-</div>
 
 ---
 

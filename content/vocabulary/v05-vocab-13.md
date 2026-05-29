@@ -25,9 +25,10 @@ All seats are currently occupied, but one should become available in about 15 mi
 
 ## Related Expressions
 
-- **満席 (manseki)**: "all seats taken", the natural opposite of 空いている席; these two terms are paired constantly in restaurant communication, and knowing both allows one to explain the full seating picture clearly
-- **ご案内 (go-annai)**: the act of guiding a guest to their seat; always used together with seating vocabulary, and always expressed humbly as ご案内いたします when speaking with guests
-
+| Expression | Description |
+|---|---|
+| 満席<br>manseki | "all seats taken", the natural opposite of 空いている席; these two terms are paired constantly in restaurant communication, and knowing both allows one to explain the full seating picture clearly |
+| ご案内<br>go-annai | the act of guiding a guest to their seat; always used together with seating vocabulary, and always expressed humbly as ご案内いたします when speaking with guests |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ We will return your identification immediately after reviewing it.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">パスポート (pasupōto)</span> passport; the most common form of 身分証明書 for foreign guests and the document required by law for non-Japanese nationals checking in.
-<br><br>
-<span class="keigo-badge info">ご提示 (go-teiji)</span> presentation of a document; the polite noun form used when asking a guest to show something, as in ご提示をお願いいたします.
-</div>
+| Expression | Description |
+|---|---|
+| パスポート<br>pasupōto | passport; the most common form of 身分証明書 for foreign guests and the document required by law for non-Japanese nationals checking in. |
+| ご提示<br>go-teiji | presentation of a document; the polite noun form used when asking a guest to show something, as in ご提示をお願いいたします. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. Staff should not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
-</div>
 
 ---
 

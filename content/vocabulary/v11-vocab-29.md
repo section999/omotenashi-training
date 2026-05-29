@@ -24,9 +24,10 @@ If you have a need for interpretation, please do not hesitate to contact the fro
 
 ## Related Expressions
 
-- **翻訳 (hon'yaku)**: written translation, as opposed to 通訳 which is spoken. In hospitality this distinction is important, because offering one when the guest needs the other wastes time and can leave them frustrated.
-- **バイリンガルスタッフ (bairingaru sutaffu)**: bilingual staff members who routinely handle informal 通訳 duties within the hotel without holding professional interpreter credentials. Valuable for day-to-day conversations, but not the right resource for high-stakes situations.
-
+| Expression | Description |
+|---|---|
+| 翻訳<br>hon'yaku | written translation, as opposed to 通訳 which is spoken. In hospitality this distinction is important, because offering one when the guest needs the other wastes time and can leave them frustrated. |
+| バイリンガルスタッフ<br>bairingaru sutaffu | bilingual staff members who routinely handle informal 通訳 duties within the hotel without holding professional interpreter credentials. Valuable for day-to-day conversations, but not the right resource for high-stakes situations. |
 
 ## Common Mistakes
 

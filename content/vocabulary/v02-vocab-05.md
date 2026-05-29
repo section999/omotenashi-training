@@ -24,9 +24,10 @@ We have sent you a reservation confirmation email; please take a moment to revie
 
 ## Related Expressions
 
-- **予約変更 (yoyaku henkō)**: reservation modification; when confirmation reveals an error, this is the next step if dates or details need to be adjusted.
-- **ご確認 (go-kakunin)**: the polite standalone form of "confirmation," used broadly in requests such as ご確認くださいませ (please confirm).
-
+| Expression | Description |
+|---|---|
+| 予約変更<br>yoyaku henkō | reservation modification; when confirmation reveals an error, this is the next step if dates or details need to be adjusted. |
+| ご確認<br>go-kakunin | the polite standalone form of "confirmation," used broadly in requests such as ご確認くださいませ (please confirm). |
 
 ## Common Mistakes
 

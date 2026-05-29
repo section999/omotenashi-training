@@ -25,9 +25,10 @@ The breakdown of accommodation tax is listed on this invoice.
 
 ## Related Expressions
 
-- **消費税 (shōhizei)**: national consumption tax applied to most goods and services; distinct from 宿泊税, which is a locally administered levy specific to accommodation
-- **サービス料 (sābisu ryō)**: service charge; another separate line item on hotel bills, not to be conflated with 宿泊税
-
+| Expression | Description |
+|---|---|
+| 消費税<br>shōhizei | national consumption tax applied to most goods and services; distinct from 宿泊税, which is a locally administered levy specific to accommodation |
+| サービス料<br>sābisu ryō | service charge; another separate line item on hotel bills, not to be conflated with 宿泊税 |
 
 ## Common Mistakes
 

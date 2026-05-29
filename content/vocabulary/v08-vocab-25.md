@@ -25,9 +25,10 @@ It is 3 minutes by elevator or approximately 10 minutes on foot.
 
 ## Related Expressions
 
-- **時間 (jikan)**: Hours as a duration counter. staff need both 分 and 時間 to handle the full range of time communication: ご夕食は約2時間のコースでございます uses 時間, while a short walk uses 分. Mix them up and their estimates sound wildly off.
-- **秒 (byou)**: Seconds, the smaller unit below 分. In most directions and wait-time situations, 分 is what one want. Seconds come up mainly for facility-specific timing like elevator door closings, so 秒 is far less frequent in daily service.
-
+| Expression | Description |
+|---|---|
+| 時間<br>jikan | Hours as a duration counter. staff need both 分 and 時間 to handle the full range of time communication: ご夕食は約2時間のコースでございます uses 時間, while a short walk uses 分. Mix them up and their estimates sound wildly off. |
+| 秒<br>byou | Seconds, the smaller unit below 分. In most directions and wait-time situations, 分 is what one want. Seconds come up mainly for facility-specific timing like elevator door closings, so 秒 is far less frequent in daily service. |
 
 ## Common Mistakes
 

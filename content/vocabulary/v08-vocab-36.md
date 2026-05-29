@@ -25,9 +25,10 @@ This card contains information on emergency exits and evacuation routes for each
 
 ## Related Expressions
 
-- **緊急出口 (kinkyuu deguchi)**: An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. 非常口 is the standardized term staff will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service.
-- **避難経路 (hinan keiro)**: Evacuation route, the path from a 非常口 to a safe outdoor assembly point. Knowing both terms together gives one the complete picture for safety communication. Guests should hear both during orientation: where the exit is and how to get from it to safety.
-
+| Expression | Description |
+|---|---|
+| 緊急出口<br>kinkyuu deguchi | An emergency exit in spoken-language contexts, used more in verbal instruction than on official signage. 非常口 is the standardized term staff will see on signs and safety cards across Japan, so it is the form to learn first and use in formal written and spoken service. |
+| 避難経路<br>hinan keiro | Evacuation route, the path from a 非常口 to a safe outdoor assembly point. Knowing both terms together gives one the complete picture for safety communication. Guests should hear both during orientation: where the exit is and how to get from it to safety. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ The smoking area is on that side; the non-smoking area is on this side.
 
 ## Related Expressions
 
-- **あちら側 (achira gawa)**: That side, farther from the speaker. Using こちら側 and あちら側 together in the same sentence is an efficient way to explain a bilateral layout. Staff should practice delivering both with a clear gesture to each side.
-- **こちら (kochira)**: The simpler base form, meaning "this direction" or "this way," without the side distinction. こちら is used when guiding someone in a direction (こちらへどうぞ), and こちら側 is used when staff need to distinguish between two sides of a space.
-
+| Expression | Description |
+|---|---|
+| あちら側<br>achira gawa | That side, farther from the speaker. Using こちら側 and あちら側 together in the same sentence is an efficient way to explain a bilateral layout. Staff should practice delivering both with a clear gesture to each side. |
+| こちら<br>kochira | The simpler base form, meaning "this direction" or "this way," without the side distinction. こちら is used when guiding someone in a direction (こちらへどうぞ), and こちら側 is used when staff need to distinguish between two sides of a space. |
 
 ## Common Mistakes
 

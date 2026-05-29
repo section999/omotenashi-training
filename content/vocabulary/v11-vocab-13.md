@@ -24,9 +24,10 @@ You are currently using our voice guidance system.
 
 ## Related Expressions
 
-- **自動応答 (jidou outou)**: Automated response, a broader term covering any automatic reply system (including recorded messages), whereas 音声案内 specifically refers to voice-guided menu navigation. Use 音声案内 when describing the interactive menu itself.
-- **IVR (ai bui aru)**: The technical English-derived term for interactive voice response, used mainly in internal or technical contexts. 音声案内 is the guest-facing, Japanese term that should be used in front-of-house communication.
-
+| Expression | Description |
+|---|---|
+| 自動応答<br>jidou outou | Automated response, a broader term covering any automatic reply system (including recorded messages), whereas 音声案内 specifically refers to voice-guided menu navigation. Use 音声案内 when describing the interactive menu itself. |
+| IVR<br>ai bui aru | The technical English-derived term for interactive voice response, used mainly in internal or technical contexts. 音声案内 is the guest-facing, Japanese term that should be used in front-of-house communication. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ Our restaurant is also fully booked, but if one is willing to wait approximately
 
 ## Related Expressions
 
-- **空き状況 (aki joukyou)**: the opposite of 満席状況, describing current availability. Staff check this before confirming any reservation or walk-in request.
-- **キャンセル待ち (kyanseru-machi)**: the waiting list for cancellations. Offering this as a natural next step after communicating 満席状況 shows the guest that staff are still trying to help, rather than simply turning them away.
-
+| Expression | Description |
+|---|---|
+| 空き状況<br>aki joukyou | the opposite of 満席状況, describing current availability. Staff check this before confirming any reservation or walk-in request. |
+| キャンセル待ち<br>kyanseru-machi | the waiting list for cancellations. Offering this as a natural next step after communicating 満席状況 shows the guest that staff are still trying to help, rather than simply turning them away. |
 
 ## Common Mistakes
 

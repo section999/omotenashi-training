@@ -25,9 +25,10 @@ I will compile the operating procedure for the new reservation system into a man
 
 ## Related Expressions
 
-- **マニュアル (manyuaru)**: the operations manual in which 手順 are compiled and stored for all staff to reference; every hotel department has one
-- **作業手順書 (sagyou tejunsho)**: a formal written document recording the 手順 for a specific task, used in training sessions and quality audits
-
+| Expression | Description |
+|---|---|
+| マニュアル<br>manyuaru | the operations manual in which 手順 are compiled and stored for all staff to reference; every hotel department has one |
+| 作業手順書<br>sagyou tejunsho | a formal written document recording the 手順 for a specific task, used in training sessions and quality audits |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ Please make sure two staff members are always assigned to the front desk during 
 
 ## Related Expressions
 
-- **勤務 (kinmu)**: refers to the act or period of performing work duties; broader than シフト, which specifically means a scheduled time block. 勤務時間 means "working hours" in a general sense.
-- **早番・遅番 (hayaban / osoban)**: specific labels for the early shift and late shift; used within the シフト system to tell a staff member which rotation they're on.
-
+| Expression | Description |
+|---|---|
+| 勤務<br>kinmu | refers to the act or period of performing work duties; broader than シフト, which specifically means a scheduled time block. 勤務時間 means "working hours" in a general sense. |
+| 早番・遅番<br>hayaban / osoban | specific labels for the early shift and late shift; used within the シフト system to tell a staff member which rotation they're on. |
 
 ## Common Mistakes
 

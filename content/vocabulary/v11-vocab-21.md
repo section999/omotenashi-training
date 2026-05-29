@@ -25,9 +25,10 @@ Is your matter regarding a change to your reservation?
 
 ## Related Expressions
 
-- **お問い合わせ (otoiawase)**: an inquiry or question from a guest, which is a specific type of ご用件; once one has established that the ご用件 is a question or information request, staff can route the caller or visitor accordingly.
-- **ご要望 (go-yobou)**: a wish, request, or preference; more specific than ご用件, ご要望 refers to something the guest would like the hotel to do or provide, so understanding the difference helps one prepare the right kind of response.
-
+| Expression | Description |
+|---|---|
+| お問い合わせ<br>otoiawase | an inquiry or question from a guest, which is a specific type of ご用件; once one has established that the ご用件 is a question or information request, staff can route the caller or visitor accordingly. |
+| ご要望<br>go-yobou | a wish, request, or preference; more specific than ご用件, ご要望 refers to something the guest would like the hotel to do or provide, so understanding the difference helps one prepare the right kind of response. |
 
 ## Common Mistakes
 

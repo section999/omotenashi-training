@@ -24,9 +24,10 @@ If amenities are insufficient, please contact the front desk and we will bring t
 
 ## Related Expressions
 
-- **備品 (bihin)**: General in-room supplies or equipment, encompassing a broader category than アメニティ. While アメニティ typically refers to personal care items, 備品 can also include items like the hair dryer, iron, or kettle. Staff use both terms, choosing based on context.
-- **タオル (taoru)**: Towels, which are closely related to アメニティ but often discussed separately in the context of replacement requests (交換) or housekeeping. When a guest requests additional アメニティ, they may mean toiletries, towels, or both: staff should clarify the specific need.
-
+| Expression | Description |
+|---|---|
+| 備品<br>bihin | General in-room supplies or equipment, encompassing a broader category than アメニティ. While アメニティ typically refers to personal care items, 備品 can also include items like the hair dryer, iron, or kettle. Staff use both terms, choosing based on context. |
+| タオル<br>taoru | Towels, which are closely related to アメニティ but often discussed separately in the context of replacement requests (交換) or housekeeping. When a guest requests additional アメニティ, they may mean toiletries, towels, or both: staff should clarify the specific need. |
 
 ## Common Mistakes
 

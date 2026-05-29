@@ -25,9 +25,10 @@ Same-day reservations are accepted, but the early bird discount will not apply: 
 
 ## Related Expressions
 
-- **直前予約 (chokuzen yoyaku)**: last-minute reservation, a subset of 当日予約 where the guest is arriving imminently, often within one to two hours. The key difference is urgency for room preparation.
-- **飛び込み (tobikomi)**: walk-in guest, someone who arrives at the front desk with no reservation at all. Unlike 当日予約, there is zero advance notice, so the preparation window is even shorter.
-
+| Expression | Description |
+|---|---|
+| 直前予約<br>chokuzen yoyaku | last-minute reservation, a subset of 当日予約 where the guest is arriving imminently, often within one to two hours. The key difference is urgency for room preparation. |
+| 飛び込み<br>tobikomi | walk-in guest, someone who arrives at the front desk with no reservation at all. Unlike 当日予約, there is zero advance notice, so the preparation window is even shorter. |
 
 ## Common Mistakes
 

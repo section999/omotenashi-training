@@ -25,17 +25,14 @@ Please also sign the credit card charge slip.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">署名 (shomei)</span> a more formal, legal term for signature; 署名 belongs on official documents and contracts, while サイン handles everyday hospitality situations like check-in forms and charge slips.
-<br><br>
-<span class="keigo-badge info">捺印 (natsu-in)</span> personal stamp or seal (hanko); in Japan, a personal seal can sometimes substitute for a handwritten signature on formal documents, though hotels generally accept サイン from all guests.
-</div>
+| Expression | Description |
+|---|---|
+| 署名<br>shomei | a more formal, legal term for signature; 署名 belongs on official documents and contracts, while サイン handles everyday hospitality situations like check-in forms and charge slips. |
+| 捺印<br>natsu-in | personal stamp or seal (hanko); in Japan, a personal seal can sometimes substitute for a handwritten signature on formal documents, though hotels generally accept サイン from all guests. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using サインしてください is a common slip. It makes grammatical sense but is too direct and lacks the level of politeness the situation calls for. Pointing with a single finger to indicate the signature line is also considered rude in Japanese culture; an open hand or a pen laid near the line is the right approach. Remaining calm and patient during the signing process, even when there is a queue, is an element of professional omotenashi.
-</div>
 
 ---
 

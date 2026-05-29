@@ -24,9 +24,10 @@ Please note that there may be restrictions on changes after confirmation.
 
 ## Related Expressions
 
-- **仮予約 (kari yoyaku)**: The provisional state that precedes 確定: a tentative reservation that has not yet been finalised. Understanding the progression from 仮予約 to 確定 is essential for front desk staff, as it governs what the property is and is not committed to at each stage.
-- **予約番号 (yoyaku bangou)**: The reservation number issued when a booking reaches 確定 status. These two terms are operationally linked: whenever 確定 is communicated to a guest, the 予約番号 should accompany it as tangible proof.
-
+| Expression | Description |
+|---|---|
+| 仮予約<br>kari yoyaku | The provisional state that precedes 確定: a tentative reservation that has not yet been finalised. Understanding the progression from 仮予約 to 確定 is essential for front desk staff, as it governs what the property is and is not committed to at each stage. |
+| 予約番号<br>yoyaku bangou | The reservation number issued when a booking reaches 確定 status. These two terms are operationally linked: whenever 確定 is communicated to a guest, the 予約番号 should accompany it as tangible proof. |
 
 ## Common Mistakes
 

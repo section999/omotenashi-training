@@ -25,9 +25,10 @@ Could you let us know your preferred breakfast time?
 
 ## Related Expressions
 
-- **朝ごはん (asagohan)**: the everyday, informal word for breakfast; perfectly fine to use with colleagues, but it sounds too casual for guest-facing communication in a hotel or ryokan
-- **和朝食 (wa-choushoku)**: specifically a Japanese-style breakfast featuring rice, miso soup, grilled fish, and pickles; know this term so staff can help guests understand their menu options clearly
-
+| Expression | Description |
+|---|---|
+| 朝ごはん<br>asagohan | the everyday, informal word for breakfast; perfectly fine to use with colleagues, but it sounds too casual for guest-facing communication in a hotel or ryokan |
+| 和朝食<br>wa-choushoku | specifically a Japanese-style breakfast featuring rice, miso soup, grilled fish, and pickles; know this term so staff can help guests understand their menu options clearly |
 
 ## Common Mistakes
 

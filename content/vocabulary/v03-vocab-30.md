@@ -24,9 +24,10 @@ I sincerely apologize for the inconvenience. I will replace it right away.
 
 ## Related Expressions
 
-- **補充 (hojuu)**: Replenishment, used when restocking rather than replacing one item with another of the same kind. While 交換 implies swapping a used item for a fresh one (e.g., a used towel for a clean one), 補充 is used when topping up supplies (e.g., adding more shampoo bottles). The distinction matters when responding precisely to guest requests.
-- **ご用意 (go-youi)**: "Preparation / providing." When proactively setting up replacement items rather than responding to a complaint, staff use ご用意: 「新しいタオルをご用意いたします」 (I will prepare fresh towels for one). This phrasing sounds more hospitable and less reactive than 交換します.
-
+| Expression | Description |
+|---|---|
+| 補充<br>hojuu | Replenishment, used when restocking rather than replacing one item with another of the same kind. While 交換 implies swapping a used item for a fresh one (e.g., a used towel for a clean one), 補充 is used when topping up supplies (e.g., adding more shampoo bottles). The distinction matters when responding precisely to guest requests. |
+| ご用意<br>go-youi | "Preparation / providing." When proactively setting up replacement items rather than responding to a complaint, staff use ご用意: 「新しいタオルをご用意いたします」 (I will prepare fresh towels for one). This phrasing sounds more hospitable and less reactive than 交換します. |
 
 ## Common Mistakes
 

@@ -26,17 +26,14 @@ If you keep a note of the courier tracking number, you will be able to check the
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">伝票番号 (denpyou bangou)</span> slip or waybill number; the number printed on a courier or delivery slip, essentially a 管理番号 specific to the shipping world
-<br><br>
-<span class="keigo-badge info">予約番号 (yoyaku bangou)</span> reservation number; the same concept applied to bookings, used to pull up a guest's reservation in the hotel system
-</div>
+| Expression | Description |
+|---|---|
+| 伝票番号<br>denpyou bangou | slip or waybill number; the number printed on a courier or delivery slip, essentially a 管理番号 specific to the shipping world |
+| 予約番号<br>yoyaku bangou | reservation number; the same concept applied to bookings, used to pull up a guest's reservation in the hotel system |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to translate 管理番号 literally as "management number," which sounds a bit odd in English. Depending on the situation, the natural English equivalent is "tracking number," "reference number," or "claim number." If staff drop the 管理 and just say 番号 to a guest, it is vague enough to cause confusion. Staff should always use the full term 管理番号 in guest communication so there is no ambiguity about what they are referring to.
-</div>
 
 ---
 

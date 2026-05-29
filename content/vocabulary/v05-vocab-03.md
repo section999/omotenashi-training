@@ -25,9 +25,10 @@ If you would like to reserve for lunch, we can still arrange a table for today.
 
 ## Related Expressions
 
-- **ランチ (ranchi)**: the loanword equivalent, widely used in casual and mid-range contexts; it is acceptable in many hotel settings but 昼食 carries a more formal register that suits upscale dining communication better
-- **昼ごはん (hiru-gohan)**: the informal everyday word for lunch, fine among staff in back-of-house conversation but too casual for any direct guest-facing situation in a hotel environment
-
+| Expression | Description |
+|---|---|
+| ランチ<br>ranchi | the loanword equivalent, widely used in casual and mid-range contexts; it is acceptable in many hotel settings but 昼食 carries a more formal register that suits upscale dining communication better |
+| 昼ごはん<br>hiru-gohan | the informal everyday word for lunch, fine among staff in back-of-house conversation but too casual for any direct guest-facing situation in a hotel environment |
 
 ## Common Mistakes
 

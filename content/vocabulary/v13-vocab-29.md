@@ -25,17 +25,14 @@ The accumulation of small improvements ultimately leads to significant quality e
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">業務改善 (gyoumu kaizen)</span> operational improvement; the specific application of 改善 to work processes and administrative systems, often the focus of formal kaizen projects in hotel management
-<br><br>
-<span class="keigo-badge info">PDCAサイクル (PDCA saikuru)</span> the Plan-Do-Check-Act cycle; the structured methodology most commonly used to drive 改善 in Japanese organisations, ensuring improvements are tested, evaluated, and standardised
-</div>
+| Expression | Description |
+|---|---|
+| 業務改善<br>gyoumu kaizen | operational improvement; the specific application of 改善 to work processes and administrative systems, often the focus of formal kaizen projects in hotel management |
+| PDCAサイクル<br>PDCA saikuru | the Plan-Do-Check-Act cycle; the structured methodology most commonly used to drive 改善 in Japanese organisations, ensuring improvements are tested, evaluated, and standardised |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to assume 改善 is synonymous with 修理 (shuuri, repair) or 修正 (shuusei, correction), but 改善 implies proactive, forward-looking enhancement rather than fixing something that is broken. Another frequent error is treating 改善 as a one-time event: in Japanese workplace culture it is understood as continuous and never truly complete. When proposing a 改善, staff should use the polite form 「改善案を提案させていただきます」 (I would like to propose an improvement idea) rather than more direct phrasing, as the humble register shows respect for the team and decision-makers.
-</div>
 
 ---
 

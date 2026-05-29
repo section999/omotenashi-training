@@ -25,9 +25,10 @@ Due to a billing error, we will refund the difference.
 
 ## Related Expressions
 
-- **取消 (torikeshi)**: 取消 is the cancellation that typically triggers a 返金; processing a 取消 activates the cancellation policy and determines whether a refund is due, and if so, how much.
-- **払い戻し (haraimodoshi)**: 払い戻し is close in meaning to 返金 but shows up more in transportation and ticketing contexts, like train or airline refunds; in hotel and hospitality settings, 返金 is the standard choice.
-
+| Expression | Description |
+|---|---|
+| 取消<br>torikeshi | 取消 is the cancellation that typically triggers a 返金; processing a 取消 activates the cancellation policy and determines whether a refund is due, and if so, how much. |
+| 払い戻し<br>haraimodoshi | 払い戻し is close in meaning to 返金 but shows up more in transportation and ticketing contexts, like train or airline refunds; in hotel and hospitality settings, 返金 is the standard choice. |
 
 ## Common Mistakes
 

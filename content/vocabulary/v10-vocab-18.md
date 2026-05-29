@@ -25,17 +25,14 @@ If you have any questions, please refer to your usage statement.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">明細書 (meisaisho)</span> a slightly more formal written variant of 利用明細, often printed as the document header. Both refer to an itemized statement, but 明細書 tends to appear on the document itself while 利用明細 is how staff refer to it in conversation.
-<br><br>
-<span class="keigo-badge info">領収書 (ryoushuusho)</span> a receipt showing total payment, required for proof of purchase. It does not itemize individual charges the way 利用明細 does, so corporate guests often need both documents and should be offered both without having to ask twice.
-</div>
+| Expression | Description |
+|---|---|
+| 明細書<br>meisaisho | a slightly more formal written variant of 利用明細, often printed as the document header. Both refer to an itemized statement, but 明細書 tends to appear on the document itself while 利用明細 is how staff refer to it in conversation. |
+| 領収書<br>ryoushuusho | a receipt showing total payment, required for proof of purchase. It does not itemize individual charges the way 利用明細 does, so corporate guests often need both documents and should be offered both without having to ask twice. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Confusing 利用明細 with 領収書 and offering one when the guest needs the other is a frequent error. A corporate guest asking for 領収書 needs proof that payment was made; a guest asking for 利用明細 needs a charge-by-charge breakdown. Always clarify which document is needed before printing anything. Waiting to be asked before offering 利用明細 is reactive service. In Japanese hospitality, offering it proactively to business guests is considered attentive -- it also prevents complaints about unexplained charges from surfacing after the guest has left the property.
-</div>
 
 ---
 ## Quiz

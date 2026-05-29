@@ -25,9 +25,10 @@ The rock area around the outdoor bath is dangerous when wet, so please watch you
 
 ## Related Expressions
 
-- **注意 (chuui)**: caution; a milder alert one'd use when guests just need to slow down and be careful, not when the risk is life-threatening. Think of it as the lower rung on a ladder: 注意 first, then 警告, then 危険 at the top.
-- **危険物 (kikenbutsu)**: hazardous material; a substance that is flammable, toxic, or reactive. This term appears in Japanese regulations that govern what guests and staff may bring onto or store within a property.
-
+| Expression | Description |
+|---|---|
+| 注意<br>chuui | caution; a milder alert one'd use when guests just need to slow down and be careful, not when the risk is life-threatening. Think of it as the lower rung on a ladder: 注意 first, then 警告, then 危険 at the top. |
+| 危険物<br>kikenbutsu | hazardous material; a substance that is flammable, toxic, or reactive. This term appears in Japanese regulations that govern what guests and staff may bring onto or store within a property. |
 
 ## Common Mistakes
 

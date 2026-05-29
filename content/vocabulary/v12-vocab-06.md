@@ -25,9 +25,10 @@ A weather warning has been issued today due to a typhoon, so please refrain from
 
 ## Related Expressions
 
-- **非常ベル (hijou beru)**: emergency bell; the physical hardware device that produces the audible part of a fire 警報; the 非常ベル is the piece of equipment while 警報 describes the alert state itself
-- **警告 (keikoku)**: warning; a directed caution aimed at a specific person or situation, compared to 警報 which is a broadcast signal going out to all occupants of a space at once
-
+| Expression | Description |
+|---|---|
+| 非常ベル<br>hijou beru | emergency bell; the physical hardware device that produces the audible part of a fire 警報; the 非常ベル is the piece of equipment while 警報 describes the alert state itself |
+| 警告<br>keikoku | warning; a directed caution aimed at a specific person or situation, compared to 警報 which is a broadcast signal going out to all occupants of a space at once |
 
 ## Common Mistakes
 

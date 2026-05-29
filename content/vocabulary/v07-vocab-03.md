@@ -25,17 +25,14 @@ Your taxi is currently ready in front of the lobby.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">フロント (furonto)</span> front desk or reception counter, located within or adjacent to the lobby; more specific than ロビー and used when directing guests to check-in, key exchange, or billing inquiries.
-<br><br>
-<span class="keigo-badge info">ラウンジ (raunji)</span> lounge; a more relaxed seating area that may be part of the lobby or a separate space offering drinks and refreshments; often distinguished from the main lobby by its comfort-oriented purpose.
-</div>
+| Expression | Description |
+|---|---|
+| フロント<br>furonto | front desk or reception counter, located within or adjacent to the lobby; more specific than ロビー and used when directing guests to check-in, key exchange, or billing inquiries. |
+| ラウンジ<br>raunji | lounge; a more relaxed seating area that may be part of the lobby or a separate space offering drinks and refreshments; often distinguished from the main lobby by its comfort-oriented purpose. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 ロビー and フロント are not interchangeable: フロント refers specifically to the reception desk or staff station, not the open communal area. In larger properties, saying 「ロビー」 alone without a floor number can leave guests uncertain. 「1階のロビー」 is clearer. The casual 「ロビーで待ってください」 should be avoided in formal contexts. The correct register is 「ロビーにてお待ちいただけますでしょうか」.
-</div>
 
 ---
 

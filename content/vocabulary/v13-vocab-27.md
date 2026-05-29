@@ -25,8 +25,10 @@ Emergency response procedures are described in detail in Chapter 3 of the manual
 
 ## Related Expressions
 
-- **手順書 (tejunsho)**: a procedural document narrowly focused on a single task or workflow; it works alongside the broader マニュアル rather than replacing it
-- **規定 (kitei)**: the formal rules and regulations that underpin the manual's content; the マニュアル tells staff how to act, while 規定 states what is officially required
+| Expression | Description |
+|---|---|
+| 手順書<br>tejunsho | a procedural document narrowly focused on a single task or workflow; it works alongside the broader マニュアル rather than replacing it |
+| 規定<br>kitei | the formal rules and regulations that underpin the manual's content; the マニュアル tells staff how to act, while 規定 states what is officially required |
 
 ## Common Mistakes
 

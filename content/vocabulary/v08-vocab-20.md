@@ -25,17 +25,14 @@ The fitness room is directly across from the pool. We can lend you a towel at th
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">隣 (tonari)</span> Adjacent or next to, the side-by-side counterpart to the face-to-face relationship of 向かい. A guest looking for 隣 will search to the left or right of a reference point, while a guest looking for 向かい will look straight across; these are mutually exclusive directions, so precision matters.
-<br><br>
-<span class="keigo-badge info">反対側 (hantai gawa)</span> The opposite side, a slightly more formal or emphatic term for the other side of a space or road. While 向かい often implies a face-to-face relationship (the facade of one building facing another), 反対側 more neutrally means the other side of a boundary; in some contexts they are interchangeable, but 向かい carries a stronger implication of direct visual alignment.
-</div>
+| Expression | Description |
+|---|---|
+| 隣<br>tonari | Adjacent or next to, the side-by-side counterpart to the face-to-face relationship of 向かい. A guest looking for 隣 will search to the left or right of a reference point, while a guest looking for 向かい will look straight across; these are mutually exclusive directions, so precision matters. |
+| 反対側<br>hantai gawa | The opposite side, a slightly more formal or emphatic term for the other side of a space or road. While 向かい often implies a face-to-face relationship (the facade of one building facing another), 反対側 more neutrally means the other side of a boundary; in some contexts they are interchangeable, but 向かい carries a stronger implication of direct visual alignment. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most serious mistake is using 向かい when the intended meaning is 隣 (next to), or vice versa. These errors send guests looking in completely the wrong direction. Another common mistake is using 向かい without a reference point, saying 向かいにあります as if the guest already knows what to look across from. Staff should state the reference point explicitly. In written directions and maps, 向かい is sometimes written as 対面 (taimen) in formal documents, so knowing both forms prevents confusion when guests show staff printed instructions.
-</div>
 
 ---
 ## Quiz

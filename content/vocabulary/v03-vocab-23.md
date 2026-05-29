@@ -25,17 +25,14 @@ For added security when sleeping, we recommend also using the chain lock.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">カードキー (kaado kii)</span> The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out.
-<br><br>
-<span class="keigo-badge info">チェーンロック (cheen rokku)</span> The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation.
-</div>
+| Expression | Description |
+|---|---|
+| カードキー<br>kaado kii | The key card used to unlock the guest room ドア. In modern hotels, the ドア cannot be opened without the カードキー and will auto-lock upon closing. Staff must explain this clearly so guests do not accidentally lock themselves out. |
+| チェーンロック<br>cheen rokku | The internal chain or security latch attached to the inside of the ドア. While the key card lock secures the door from outside, the チェーンロック provides added privacy and security from within, and staff should recommend its use during the room orientation. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is giving only the minimal instruction 「ドアは鍵をかけてください」 without explaining the auto-lock mechanism or the chain lock, leaving guests without full information. Casual imperative forms like 「ドア閉めて」 should be avoided in favor of the polite 「ドアをお閉めください」 or contextual guidance forms. In Japanese hotel practice, safety information about the nearest fire exit is typically delivered together with door and lock orientation, overlooking that connection is a common gap in new staff training.
-</div>
 
 ---
 

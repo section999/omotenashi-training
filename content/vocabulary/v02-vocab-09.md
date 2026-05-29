@@ -24,9 +24,10 @@ I apologise for the inconvenience: could you kindly tell me your name once more?
 
 ## Related Expressions
 
-- **〜様 (〜sama)**: the honorific suffix added to a guest's name in all direct address; using さん in a formal hotel context when speaking to guests is not recommended.
-- **お苗字 (o-myōji)**: the polite term for surname/family name; this is used when distinguishing the family name specifically from the full name.
-
+| Expression | Description |
+|---|---|
+| 〜様<br>〜sama | the honorific suffix added to a guest's name in all direct address; using さん in a formal hotel context when speaking to guests is not recommended. |
+| お苗字<br>o-myōji | the polite term for surname/family name; this is used when distinguishing the family name specifically from the full name. |
 
 ## Common Mistakes
 

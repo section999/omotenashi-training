@@ -25,9 +25,10 @@ As availability changes in real time, we recommend booking as early as possible.
 
 ## Related Expressions
 
-- **満室 (manshitsu)**: "fully booked," the state where 空き状況 has reached zero. 満室 should be used only after confirming through the system. When it does apply, an alternative date or a nearby sister property should be offered rather than leaving the guest with no options.
-- **空室 (kuushitsu)**: an individual vacant room, as opposed to 空き状況, which refers to the overall availability picture. 空室 tends to appear in housekeeping and property management system contexts, while 空き状況 is the guest-facing term for "do you have anything available?"
-
+| Expression | Description |
+|---|---|
+| 満室<br>manshitsu | "fully booked," the state where 空き状況 has reached zero. 満室 should be used only after confirming through the system. When it does apply, an alternative date or a nearby sister property should be offered rather than leaving the guest with no options. |
+| 空室<br>kuushitsu | an individual vacant room, as opposed to 空き状況, which refers to the overall availability picture. 空室 tends to appear in housekeeping and property management system contexts, while 空き状況 is the guest-facing term for "do you have anything available?" |
 
 ## Common Mistakes
 

@@ -23,8 +23,10 @@ After the passport check, front desk staff record the information in the registe
 
 ## Related Expressions
 
-- **身分証明書の確認 (mibun shoumeisho no kakunin)**: the broader term for identity document verification; this covers any form of ID check, including driver's licences and residence cards for domestic guests, not just passport checks for foreign nationals.
-- **チェックイン手続き (chekku-in tetsuzuki)**: the full check-in procedure as a whole; パスポート確認 is one step within this larger process.
+| Expression | Description |
+|---|---|
+| 身分証明書の確認<br>mibun shoumeisho no kakunin | the broader term for identity document verification; this covers any form of ID check, including driver's licences and residence cards for domestic guests, not just passport checks for foreign nationals. |
+| チェックイン手続き<br>chekku-in tetsuzuki | the full check-in procedure as a whole; パスポート確認 is one step within this larger process. |
 
 ## Common Mistakes
 

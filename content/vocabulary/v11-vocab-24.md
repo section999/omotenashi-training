@@ -24,9 +24,10 @@ We keep your emergency contact information on file in case of any unforeseen sit
 
 ## Related Expressions
 
-- **ご連絡先 (go-renrakusaki)**: general contact information, not limited to emergencies. Hotels typically collect both a ご連絡先 and a dedicated 緊急連絡先, especially for guests travelling alone. The two serve different purposes and both belong in the check-in record.
-- **緊急事態 (kinkyuu jitai)**: an emergency situation or state of emergency. These two terms naturally go together: when a 緊急事態 arises, their 緊急連絡先 record is the first thing one reach for, so staff should know exactly where it is stored and how to act on it quickly.
-
+| Expression | Description |
+|---|---|
+| ご連絡先<br>go-renrakusaki | general contact information, not limited to emergencies. Hotels typically collect both a ご連絡先 and a dedicated 緊急連絡先, especially for guests travelling alone. The two serve different purposes and both belong in the check-in record. |
+| 緊急事態<br>kinkyuu jitai | an emergency situation or state of emergency. These two terms naturally go together: when a 緊急事態 arises, their 緊急連絡先 record is the first thing one reach for, so staff should know exactly where it is stored and how to act on it quickly. |
 
 ## Common Mistakes
 

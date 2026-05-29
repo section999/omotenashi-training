@@ -24,9 +24,10 @@ Please be aware that repairs may take a little time; we appreciate your understa
 
 ## Related Expressions
 
-- **故障 (koshou)**: the breakdown or malfunction itself; 故障 describes the state of the broken item, while 修理依頼 is the action of requesting its repair.
-- **メンテナンス (mentenansu)**: from English "maintenance"; often used for scheduled upkeep rather than emergency repair, and more common in internal staff communication.
-
+| Expression | Description |
+|---|---|
+| 故障<br>koshou | the breakdown or malfunction itself; 故障 describes the state of the broken item, while 修理依頼 is the action of requesting its repair. |
+| メンテナンス<br>mentenansu | from English "maintenance"; often used for scheduled upkeep rather than emergency repair, and more common in internal staff communication. |
 
 ## Common Mistakes
 

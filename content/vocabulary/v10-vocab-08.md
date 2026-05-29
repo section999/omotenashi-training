@@ -25,17 +25,14 @@ If there is anything unclear, I am happy to explain any item in the breakdown.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">明細書 (meisaisho)</span> itemized statement; a more formal document version of the 内訳, often issued for corporate or accounting purposes.
-<br><br>
-<span class="keigo-badge info">合計 (goukei)</span> the total that results from the 内訳; always presented after the breakdown has been reviewed, not before.
-</div>
+| Expression | Description |
+|---|---|
+| 明細書<br>meisaisho | itemized statement; a more formal document version of the 内訳, often issued for corporate or accounting purposes. |
+| 合計<br>goukei | the total that results from the 内訳; always presented after the breakdown has been reviewed, not before. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to skip the 内訳 and jump straight to the 合計, which leaves guests with no opportunity to verify what they are being charged. Another issue is presenting the 内訳 as a finished document without inviting questions: it can feel like a formality rather than a service moment. 内訳 should not be conflated with 明細書. The 内訳 is the structured breakdown itself; 明細書 is the formal document that contains it.
-</div>
 
 ---
 

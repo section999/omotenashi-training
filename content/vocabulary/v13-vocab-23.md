@@ -25,9 +25,10 @@ During peak season, we plan to place additional staff on each floor to enhance o
 
 ## Related Expressions
 
-- **配置図 (haichi-zu)**: the staff placement diagram or floor plan showing exactly where each person is stationed during an event or shift; an everyday tool in banquet operations
-- **人員配置 (jin'in haichi)**: staffing allocation at the management level, covering how many people are assigned to each department or post
-
+| Expression | Description |
+|---|---|
+| 配置図<br>haichi-zu | the staff placement diagram or floor plan showing exactly where each person is stationed during an event or shift; an everyday tool in banquet operations |
+| 人員配置<br>jin'in haichi | staffing allocation at the management level, covering how many people are assigned to each department or post |
 
 ## Common Mistakes
 

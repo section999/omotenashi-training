@@ -25,17 +25,14 @@ For guests who wish to prepay, we offer a special discounted rate.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">後払い (atobarai)</span> the opposite arrangement, where payment is made after the service is received; common for room charges billed at checkout.
-<br><br>
-<span class="keigo-badge info">デポジット (depojitto)</span> a deposit rather than full prepayment; often required to hold a reservation without committing to full 前払い, especially for high-demand periods.
-</div>
+| Expression | Description |
+|---|---|
+| 後払い<br>atobarai | the opposite arrangement, where payment is made after the service is received; common for room charges billed at checkout. |
+| デポジット<br>depojitto | a deposit rather than full prepayment; often required to hold a reservation without committing to full 前払い, especially for high-demand periods. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to treat 前払い and デポジット as the same thing: a deposit is partial, while 前払い typically means the full amount paid in advance. Another slip is not communicating the payment deadline clearly, leaving guests uncertain about when they need to pay. Staff should also avoid confirming a reservation as "secured" before the 前払い has been received and processed. A pending bank transfer is not confirmed payment.
-</div>
 
 ---
 

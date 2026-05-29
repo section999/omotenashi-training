@@ -24,9 +24,10 @@ I managed to get consecutive days off, so I am going on a trip with my family.
 
 ## Related Expressions
 
-- **休憩 (kyuukei)**: a break period within a working shift, not a full day off; learners frequently mix these two up since both involve resting.
-- **有給休暇 (yuukyuu kyuuka)**: paid leave; a formally allocated type of 休み guaranteed by law, distinct from regular scheduled days off or public holidays.
-
+| Expression | Description |
+|---|---|
+| 休憩<br>kyuukei | a break period within a working shift, not a full day off; learners frequently mix these two up since both involve resting. |
+| 有給休暇<br>yuukyuu kyuuka | paid leave; a formally allocated type of 休み guaranteed by law, distinct from regular scheduled days off or public holidays. |
 
 ## Common Mistakes
 

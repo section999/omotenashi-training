@@ -24,9 +24,10 @@ Due to the power outage, the elevator is temporarily out of service.
 
 ## Related Expressions
 
-- **故障 (koshou)**: Refers to a mechanical breakdown or malfunction of a specific device or piece of equipment, such as an air conditioner or elevator. Unlike 停電, which affects the entire electrical supply, 故障 is localized to a single item and does not imply a broader outage.
-- **停止 (teishi)**: Means a stoppage or suspension, often used for scheduled service interruptions (e.g., 運転停止, suspension of service). Unlike 停電, which is almost always unplanned and urgent, 停止 can be planned and communicated in advance.
-
+| Expression | Description |
+|---|---|
+| 故障<br>koshou | Refers to a mechanical breakdown or malfunction of a specific device or piece of equipment, such as an air conditioner or elevator. Unlike 停電, which affects the entire electrical supply, 故障 is localized to a single item and does not imply a broader outage. |
+| 停止<br>teishi | Means a stoppage or suspension, often used for scheduled service interruptions (e.g., 運転停止, suspension of service). Unlike 停電, which is almost always unplanned and urgent, 停止 can be planned and communicated in advance. |
 
 ## Common Mistakes
 

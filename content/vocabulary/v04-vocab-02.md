@@ -25,17 +25,14 @@ A guest arrived while cleaning was in progress, so I temporarily stepped out of 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">清掃済み (seisou zumi)</span> Means cleaning is complete; used to mark a room as ready for guest occupancy, the direct counterpart to 清掃中.
-<br><br>
-<span class="keigo-badge info">使用中 (shiyou-chuu)</span> Means "in use" or "occupied," often seen on bathroom or facility doors; not specific to cleaning and should not be used in place of 清掃中.
-</div>
+| Expression | Description |
+|---|---|
+| 清掃済み<br>seisou zumi | Means cleaning is complete; used to mark a room as ready for guest occupancy, the direct counterpart to 清掃中. |
+| 使用中<br>shiyou-chuu | Means "in use" or "occupied," often seen on bathroom or facility doors; not specific to cleaning and should not be used in place of 清掃中. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is writing 掃除中 instead of 清掃中 on official signage. Both mean "cleaning in progress," but 清掃中 is the professional standard for hotels and ryokan. 清掃中 and 使用中 are also sometimes confused: 使用中 means "occupied" with no cleaning implied. The 清掃中 sign should be removed promptly once work is done; leaving it up unnecessarily can prevent guests from accessing their own rooms.
-</div>
 
 ---
 

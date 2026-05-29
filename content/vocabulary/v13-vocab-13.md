@@ -25,17 +25,14 @@ We designated a senior staff member as the person in charge of new hire educatio
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">研修 (kenshuu)</span> a specific, structured training programme; a subset of 教育, which is the broader developmental process across an employee's tenure.
-<br><br>
-<span class="keigo-badge info">指導 (shidou)</span> hands-on instruction or supervision directed at a specific behaviour or task; 教育 sets the framework while 指導 is the moment-to-moment delivery of that guidance.
-</div>
+| Expression | Description |
+|---|---|
+| 研修<br>kenshuu | a specific, structured training programme; a subset of 教育, which is the broader developmental process across an employee's tenure. |
+| 指導<br>shidou | hands-on instruction or supervision directed at a specific behaviour or task; 教育 sets the framework while 指導 is the moment-to-moment delivery of that guidance. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is using 教育 where 研修 or 指導 would be more precise. Saying「今日は教育があります」when staff means a specific afternoon training session sounds too broad in scope -「今日は研修があります」is more natural. Another consideration: because 教育 carries the sense of shaping character and values, not just skills, it does not suit routine task instructions. It is better reserved for broader developmental contexts.
-</div>
 
 ---
 

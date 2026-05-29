@@ -24,9 +24,10 @@ Do you need both the receipt and the itemized statement for your expense claim?
 
 ## Related Expressions
 
-- **領収書 (ryoushuusho)**: receipt; confirms payment has been received but does not detail individual charges; often issued together with the 明細書 for corporate guests.
-- **利用明細 (riyou meisai)**: usage statement; similar in content but used more in the context of credit card statements or loyalty account histories rather than a formal hotel document.
-
+| Expression | Description |
+|---|---|
+| 領収書<br>ryoushuusho | receipt; confirms payment has been received but does not detail individual charges; often issued together with the 明細書 for corporate guests. |
+| 利用明細<br>riyou meisai | usage statement; similar in content but used more in the context of credit card statements or loyalty account histories rather than a formal hotel document. |
 
 ## Common Mistakes
 

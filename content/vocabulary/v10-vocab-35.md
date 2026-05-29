@@ -24,9 +24,10 @@ Once you have confirmed the payment amount in the app, please proceed with the p
 
 ## Related Expressions
 
-- **電子決済 (denshi kessai)**: electronic payment; QRコード is one of the main delivery methods for 電子決済 in Japan, so the two concepts go hand in hand
-- **バーコード (bākōdo)**: barcode; a one-dimensional predecessor to the QRコード, still found in retail but far less flexible when it comes to handling payments
-
+| Expression | Description |
+|---|---|
+| 電子決済<br>denshi kessai | electronic payment; QRコード is one of the main delivery methods for 電子決済 in Japan, so the two concepts go hand in hand |
+| バーコード<br>bākōdo | barcode; a one-dimensional predecessor to the QRコード, still found in retail but far less flexible when it comes to handling payments |
 
 ## Common Mistakes
 

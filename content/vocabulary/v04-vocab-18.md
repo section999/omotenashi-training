@@ -25,17 +25,14 @@ Please check for any damage before use.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">汚れ (yogore)</span> Surface soiling or staining, as opposed to physical breakage. 汚れ can typically be cleaned, while 破損 requires repair or replacement: distinguishing between the two is essential when filing maintenance or housekeeping reports.
-<br><br>
-<span class="keigo-badge info">修理 (shuuri)</span> Repair. 破損 names the problem; 修理 names the solution. In professional communication, both words often appear together: 破損の修理を手配いたします (we will arrange the repair of the damage).
-</div>
+| Expression | Description |
+|---|---|
+| 汚れ<br>yogore | Surface soiling or staining, as opposed to physical breakage. 汚れ can typically be cleaned, while 破損 requires repair or replacement: distinguishing between the two is essential when filing maintenance or housekeeping reports. |
+| 修理<br>shuuri | Repair. 破損 names the problem; 修理 names the solution. In professional communication, both words often appear together: 破損の修理を手配いたします (we will arrange the repair of the damage). |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 壊れ (koware: broken) in formal written or guest-facing communication is a register slip: 破損 is the professional standard in hospitality contexts. When reporting 破損, the location should always be included: 客室302号室のテーブルに破損が, for example, so that maintenance can respond without needing to follow up for basic information. A common mistake is using 破損 for equipment malfunction. If a TV fails to turn on, that is 故障 (koshou: malfunction/breakdown), not 破損. The distinction matters when filing reports.
-</div>
 
 ---
 

@@ -25,9 +25,10 @@ Please be assured that the single room's bed is semi-double size.
 
 ## Related Expressions
 
-- **ダブルルーム (daburu-ruumu)**: a room with one larger bed for two guests; guests sometimes use "double" loosely when they mean "a room for two people," which can lead to a bed-type mismatch if staff do not clarify.
-- **ツインルーム (tsuin-ruumu)**: a room with two separate beds, the preferred option for two guests who want individual sleeping space, and the most frequent comparison point when guests are choosing between types.
-
+| Expression | Description |
+|---|---|
+| ダブルルーム<br>daburu-ruumu | a room with one larger bed for two guests; guests sometimes use "double" loosely when they mean "a room for two people," which can lead to a bed-type mismatch if staff do not clarify. |
+| ツインルーム<br>tsuin-ruumu | a room with two separate beds, the preferred option for two guests who want individual sleeping space, and the most frequent comparison point when guests are choosing between types. |
 
 ## Common Mistakes
 

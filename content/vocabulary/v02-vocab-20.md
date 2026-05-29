@@ -25,17 +25,14 @@ Your cancellation has been completed.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">取り消し (torikeshi)</span> the native Japanese word for cancellation or withdrawal, often found in formal documents and official notices. While functionally similar to キャンセル, it carries a more legalistic and written tone, making it less common in face-to-face guest interactions.
-<br><br>
-<span class="keigo-badge info">キャンセル料 (kyanseru-ryō)</span> the cancellation fee itself, a critical concept that staff must explain accurately. The amount varies by hotel policy and how far in advance the cancellation is made: mastering how to explain 料金 (charges) politely is just as important as knowing the word キャンセル.
-</div>
+| Expression | Description |
+|---|---|
+| 取り消し<br>torikeshi | the native Japanese word for cancellation or withdrawal, often found in formal documents and official notices. While functionally similar to キャンセル, it carries a more legalistic and written tone, making it less common in face-to-face guest interactions. |
+| キャンセル料<br>kyanseru-ryō | the cancellation fee itself, a critical concept that staff must explain accurately. The amount varies by hotel policy and how far in advance the cancellation is made: mastering how to explain 料金 (charges) politely is just as important as knowing the word キャンセル. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Staff sometimes use キャンセルする？ when addressing a guest, which sounds abrupt and even presumptuous; the correct form ご予約をキャンセルされますか uses the honorific ご予約 and the respectful suffix されますか to show deference. キャンセル料 should always be explained proactively: guests must be informed of any potential fees before the cancellation is processed, not after. A third common error is processing the cancellation without written or verbal confirmation from the guest, which can lead to disputes.
-</div>
 
 ---
 

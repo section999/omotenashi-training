@@ -25,9 +25,10 @@ Could you please tell me the details of your complaint?
 
 ## Related Expressions
 
-- **クレーム (kuremu)**: often implies a stronger, more formal or confrontational complaint that may require management involvement or compensation; 苦情 can sit on the softer side of the scale in some contexts.
-- **ご意見 (go-iken)**: means "their opinion or feedback"; choosing this word instead of 苦情 softens the exchange and makes the guest feel their input is valued rather than filed away as a problem.
-
+| Expression | Description |
+|---|---|
+| クレーム<br>kuremu | often implies a stronger, more formal or confrontational complaint that may require management involvement or compensation; 苦情 can sit on the softer side of the scale in some contexts. |
+| ご意見<br>go-iken | means "their opinion or feedback"; choosing this word instead of 苦情 softens the exchange and makes the guest feel their input is valued rather than filed away as a problem. |
 
 ## Common Mistakes
 

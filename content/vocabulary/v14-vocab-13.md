@@ -23,8 +23,10 @@ At this time of year, the Mount Fuji tour is the most popular.
 
 ## Related Expressions
 
-- **おすすめ (osusume)**: a personal recommendation coming from the speaker; contrasts with 人気, which implies broad public approval from many people
-- **評判 (hyouban)**: reputation or word-of-mouth buzz; similar territory to 人気 but emphasizes what people are saying rather than a measurable popularity count
+| Expression | Description |
+|---|---|
+| おすすめ<br>osusume | a personal recommendation coming from the speaker; contrasts with 人気, which implies broad public approval from many people |
+| 評判<br>hyouban | reputation or word-of-mouth buzz; similar territory to 人気 but emphasizes what people are saying rather than a measurable popularity count |
 
 ## Common Mistakes
 

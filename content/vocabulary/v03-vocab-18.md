@@ -24,9 +24,10 @@ If washroom amenities are insufficient, please let the front desk know.
 
 ## Related Expressions
 
-- **浴室 (yokushitsu)**: The formal term for the bathing room (bath/shower area). While 洗面所 focuses on the sink and vanity area, 浴室 encompasses the entire bathing space. In hotels where these are separate rooms, distinguishing them clearly for guests is important.
-- **トイレ (toire)**: Refers to the toilet/restroom. In three-compartment Japanese hotel bathrooms, トイレ, 洗面所, and 浴室 are each distinct spaces; using the wrong term when giving directions can confuse a guest seeking a specific facility.
-
+| Expression | Description |
+|---|---|
+| 浴室<br>yokushitsu | The formal term for the bathing room (bath/shower area). While 洗面所 focuses on the sink and vanity area, 浴室 encompasses the entire bathing space. In hotels where these are separate rooms, distinguishing them clearly for guests is important. |
+| トイレ<br>toire | Refers to the toilet/restroom. In three-compartment Japanese hotel bathrooms, トイレ, 洗面所, and 浴室 are each distinct spaces; using the wrong term when giving directions can confuse a guest seeking a specific facility. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ Please be aware that staff-only areas are designated as no-entry zones.
 
 ## Related Expressions
 
-- **使用禁止 (shiyou kinshi)**: do not use; restricts a specific device or facility rather than an entire space. The two signs often appear together when a restricted area also contains prohibited equipment.
-- **関係者以外立入禁止 (kankeisha igai tachiiri kinshi)**: authorised personnel only; an extended version specifying that only those with official clearance may enter. one'll see this on back-of-house doors and service corridors throughout larger hotels.
-
+| Expression | Description |
+|---|---|
+| 使用禁止<br>shiyou kinshi | do not use; restricts a specific device or facility rather than an entire space. The two signs often appear together when a restricted area also contains prohibited equipment. |
+| 関係者以外立入禁止<br>kankeisha igai tachiiri kinshi | authorised personnel only; an extended version specifying that only those with official clearance may enter. one'll see this on back-of-house doors and service corridors throughout larger hotels. |
 
 ## Common Mistakes
 

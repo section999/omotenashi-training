@@ -25,17 +25,14 @@ We have a special plan available for 3-night consecutive stays, with a multi-nig
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">連泊割引 (renpaku waribiki)</span> multi-night discount offered by many hotels for consecutive stays of two nights or more, rewarding guests who commit to a longer visit. Staff should mention this proactively when a guest qualifies.
-<br><br>
-<span class="keigo-badge info">滞在日数 (taizai nissuu)</span> number of nights staying, the formal term used when discussing the total duration of a 連泊 in reservation confirmation or billing summaries.
-</div>
+| Expression | Description |
+|---|---|
+| 連泊割引<br>renpaku waribiki | multi-night discount offered by many hotels for consecutive stays of two nights or more, rewarding guests who commit to a longer visit. Staff should mention this proactively when a guest qualifies. |
+| 滞在日数<br>taizai nissuu | number of nights staying, the formal term used when discussing the total duration of a 連泊 in reservation confirmation or billing summaries. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake with 連泊 guests is applying the same full-turnover housekeeping routine as a single-night stay without asking first. Many 連泊 guests, particularly in Japanese culture where personal space is valued, find it intrusive to have staff move their belongings around daily. They may prefer only towel and amenity replenishment. Staff should ask at check-in, as this avoids a friction point that can affect the entire stay. Another mistake is failing to update the housekeeping schedule when a guest extends their stay mid-trip, turning what was a single night into a 連泊. If the system still shows a checkout the next morning, housekeeping may schedule a full turnover clean while the guest is still occupying the room. Any reservation change must be reflected in the system immediately.
-</div>
 
 ---
 ## Quiz

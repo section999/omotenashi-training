@@ -26,17 +26,14 @@ Turn at this corner and the parking lot will be directly ahead of you.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">交差点 (kousaten)</span> "intersection"; used for larger road crossings with traffic signals, while 角 typically refers to a simpler turning point at a corner without implying a full road crossing
-<br><br>
-<span class="keigo-badge info">曲がり角 (magarikado)</span> "turning corner"; a compound combining 曲がる and 角, used in both literal directions and figuratively (a turning point in life); in hospitality, 角 alone is sufficient and more natural in speech
-</div>
+| Expression | Description |
+|---|---|
+| 交差点<br>kousaten | "intersection"; used for larger road crossings with traffic signals, while 角 typically refers to a simpler turning point at a corner without implying a full road crossing |
+| 曲がり角<br>magarikado | "turning corner"; a compound combining 曲がる and 角, used in both literal directions and figuratively (a turning point in life); in hospitality, 角 alone is sufficient and more natural in speech |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to drop 角 entirely and just say 右に曲がってください without specifying where, leaving guests to guess which turn to make. Naming the specific corner is recommended. There is also an important vocabulary distinction: 角 is appropriate for simpler corridor junctions or street corners, while 交差点 implies a full road intersection with traffic signals. They are not interchangeable. Failing to count corners explicitly with 次の, 二つ目の, and so on is another frequent cause of guests overshooting their destination or stopping too early.
-</div>
 
 ---
 ## Quiz

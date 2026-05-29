@@ -26,17 +26,14 @@ Admission fee information for tourist facilities is listed in the pamphlet avail
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">運賃 (unchin)</span> the fare charged for a specific transportation journey; the actual cost a guest pays for a ride, which is what gets displayed inside a 料金表
-<br><br>
-<span class="keigo-badge info">入場料 (nyuujouryou)</span> admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and one of the common questions that arise at a hotel concierge desk
-</div>
+| Expression | Description |
+|---|---|
+| 運賃<br>unchin | the fare charged for a specific transportation journey; the actual cost a guest pays for a ride, which is what gets displayed inside a 料金表 |
+| 入場料<br>nyuujouryou | admission fee; a specific type of 料金表 entry for attractions, museums, parks, and events, and one of the common questions that arise at a hotel concierge desk |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to mix up 料金表 with 値段 (nedan, a single item's price) or talk about a 値段リスト, but 料金表 refers specifically to an officially formatted posted table, not just any mention of a price. In a service setting, 「料金表をご確認ください」 sounds far more professional than 「値段を見てください」 when pointing a guest toward a posted fare chart. The pitch on 料金 in standard Tokyo Japanese drops after the second mora (ryou-KIN), and getting the pitch right makes speech clearer and more natural. A common error is to overlook pitch accent, but in fast speech it does affect how easily staff are understood.
-</div>
 
 ---
 

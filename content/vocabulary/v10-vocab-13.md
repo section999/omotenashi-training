@@ -25,9 +25,10 @@ Please check the contents of the slip, and let us know if anything is unclear.
 
 ## Related Expressions
 
-- **レシート (reshiito)**: a printed register receipt given to the guest; the customer-facing output that is generated from the internal 伝票 process. The guest sees the レシート; the 伝票 stays internal.
-- **オーダー票 (oodaa hyou)**: order form or order ticket; a more specific term for the kitchen order slip, as opposed to the billing 伝票 that records charges for the guest's account.
-
+| Expression | Description |
+|---|---|
+| レシート<br>reshiito | a printed register receipt given to the guest; the customer-facing output that is generated from the internal 伝票 process. The guest sees the レシート; the 伝票 stays internal. |
+| オーダー票<br>oodaa hyou | order form or order ticket; a more specific term for the kitchen order slip, as opposed to the billing 伝票 that records charges for the guest's account. |
 
 ## Common Mistakes
 

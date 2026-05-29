@@ -25,17 +25,14 @@ The dinner-included plan features kaiseki cuisine made with seasonal ingredients
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">一泊二食 (ippaku nishoku)</span> "one night with two meals," covering both breakfast and dinner; this is the most comprehensive meal-inclusive arrangement at ryokan and essentially combines 朝食付き and 夕食付き; know it for guests who ask whether all meals are covered.
-<br><br>
-<span class="keigo-badge info">朝食付き (choushoku tsuki)</span> the breakfast counterpart to 夕食付き; when a guest asks whether their plan covers all meals, be specific about which term applies rather than saying "meals are included," since that phrase is vague enough to mislead.
-</div>
+| Expression | Description |
+|---|---|
+| 一泊二食<br>ippaku nishoku | "one night with two meals," covering both breakfast and dinner; this is the most comprehensive meal-inclusive arrangement at ryokan and essentially combines 朝食付き and 夕食付き; know it for guests who ask whether all meals are covered. |
+| 朝食付き<br>choushoku tsuki | the breakfast counterpart to 夕食付き; when a guest asks whether their plan covers all meals, be specific about which term applies rather than saying "meals are included," since that phrase is vague enough to mislead. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Not communicating the dinner time is the most consequential mistake with 夕食付き. At a property with a single dinner seating, a guest who was never told when to show up can miss the entire meal, and that is a situation that is difficult to resolve with an apology alone. Saying only 夕食が含まれています is also insufficient. The guest needs to know whether it is a buffet, a set course, or à la carte, because each involves different expectations and decisions. Additionally, staff should not assume that because dinner is included the guest needs no further guidance. They may need directions to the dining venue, information about dress standards, or help flagging a dietary restriction before the kitchen starts preparing their course.
-</div>
 
 ---
 

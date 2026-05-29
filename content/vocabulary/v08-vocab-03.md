@@ -26,17 +26,14 @@ Go straight down this road to the station: it is approximately a 10-minute walk.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">一直線に (icchokusen ni)</span> "in a straight line," more emphatic and literary in tone; rarely used in verbal guidance but may appear in formal written directions or on printed maps
-<br><br>
-<span class="keigo-badge info">突き当たり (tsukiatari)</span> "the end of the corridor" or "dead end"; often paired with まっすぐ to indicate that the guest should keep walking straight until they reach a wall or door
-</div>
+| Expression | Description |
+|---|---|
+| 一直線に<br>icchokusen ni | "in a straight line," more emphatic and literary in tone; rarely used in verbal guidance but may appear in formal written directions or on printed maps |
+| 突き当たり<br>tsukiatari | "the end of the corridor" or "dead end"; often paired with まっすぐ to indicate that the guest should keep walking straight until they reach a wall or door |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is saying まっすぐです and stopping there, without specifying what the guest will find at the end of the straight path. Adding a destination or a landmark is recommended. A common error is to confuse まっすぐ with ずっと (continuously, all the way along), which suggests extended duration rather than a specific direction. Omitting the polite お進みください after まっすぐ also makes the instruction feel like a command rather than a courteous suggestion, which is not the appropriate tone in hotel speech.
-</div>
 
 ---
 ## Quiz

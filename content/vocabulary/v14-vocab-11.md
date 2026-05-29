@@ -23,8 +23,10 @@ The famous shrine ○○, a ten-minute walk from our ryokan, is especially spect
 
 ## Related Expressions
 
-- **観光地 (kankouchi)**: the broader term for any tourist spot; 名所 is a subset of 観光地, specifically the places with established cultural or historical renown.
-- **旧跡 (kyuuseki)**: a more scholarly or governmental term for ancient or historically significant sites, often used in preservation and academic contexts rather than in everyday hospitality conversation.
+| Expression | Description |
+|---|---|
+| 観光地<br>kankouchi | the broader term for any tourist spot; 名所 is a subset of 観光地, specifically the places with established cultural or historical renown. |
+| 旧跡<br>kyuuseki | a more scholarly or governmental term for ancient or historically significant sites, often used in preservation and academic contexts rather than in everyday hospitality conversation. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Could you kindly wait just a moment? I will transfer you to the relevant staff m
 
 ## Related Expressions
 
-- **お待たせいたしました (o-matase itashimashita)**: "Thank you for waiting" / "Sorry to have kept you waiting." This is the obligatory follow-up phrase after 少々お待ちください. Returning to a guest without saying this phrase is a noticeable omission in formal Japanese service and signals inattentiveness to the guest's experience.
-- **ただいま参ります (tadaima mairimasu)**: "I will be right there / I will come immediately." Used when a guest calls for staff from a distance or over the phone. It is the humble equivalent of 「すぐ行きます」 and is used before arriving rather than after. In combination with 少々お待ちください, it creates a full, reassuring response to any summons.
-
+| Expression | Description |
+|---|---|
+| お待たせいたしました<br>o-matase itashimashita | "Thank you for waiting" / "Sorry to have kept you waiting." This is the obligatory follow-up phrase after 少々お待ちください. Returning to a guest without saying this phrase is a noticeable omission in formal Japanese service and signals inattentiveness to the guest's experience. |
+| ただいま参ります<br>tadaima mairimasu | "I will be right there / I will come immediately." Used when a guest calls for staff from a distance or over the phone. It is the humble equivalent of 「すぐ行きます」 and is used before arriving rather than after. In combination with 少々お待ちください, it creates a full, reassuring response to any summons. |
 
 ## Common Mistakes
 

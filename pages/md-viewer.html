@@ -44,8 +44,8 @@
     [data-theme="light"] .section-body ol,
     [data-theme="light"] .section-body th,
     [data-theme="light"] .section-body td { color: #1b1b32; }
-    [data-theme="light"] .section-body th { background: rgba(0,0,0,0.04); }
-    [data-theme="light"] .section-body td { border-bottom-color: rgba(0,0,0,0.08); }
+    [data-theme="light"] .section-body th { background: rgba(0,0,0,0.04); border-right-color: rgba(0,0,0,0.1); }
+    [data-theme="light"] .section-body td { border-bottom-color: rgba(0,0,0,0.08); border-right-color: rgba(0,0,0,0.08); }
     [data-theme="light"] .quiz-label,
     [data-theme="light"] .quiz-q { color: #1b1b32; }
     [data-theme="light"] .quiz-opt,
@@ -96,9 +96,11 @@
     .section-body ul, .section-body ol { margin: 0.5rem 0 1rem 1.4rem; color: #fff; }
     .section-body li { margin-bottom: 0.4rem; line-height: 1.65; font-size: 1rem; color: #fff; }
     .section-body hr { border: none; border-top: 1px solid var(--border-default); margin: 28px 0; }
-    .section-body table { display: table; width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; }
-    .section-body th { background: rgba(255,255,255,0.04); text-align: center; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); white-space: nowrap; }
-    .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); color: #fff; text-align: left; }
+    .section-body table { display: table; width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 1rem; table-layout: fixed; }
+    .section-body th { background: rgba(255,255,255,0.04); text-align: center; padding: 8px 14px; color: #fff; font-weight: 600; border-bottom: 1px solid var(--border-default); border-right: 1px solid var(--border-default); white-space: nowrap; }
+    .section-body th:last-child { border-right: none; }
+    .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); border-right: 1px solid rgba(255,255,255,0.06); color: #fff; text-align: left; }
+    .section-body td:last-child { border-right: none; }
     @media (max-width: 640px) {
       .section-body table { font-size: 0.875rem; }
       .section-body th { padding: 6px 10px; white-space: normal; }

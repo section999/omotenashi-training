@@ -24,9 +24,10 @@ If the pillow does not suit you or you have any inconvenience, please let us kno
 
 ## Related Expressions
 
-- **枕カバー (makura kabaa)**: pillowcase; comes up when guests ask for a replacement or when housekeeping walks through the linen change schedule.
-- **毛布 (moufu)**: blanket; guests frequently ask for both extra pillows and blankets together, especially in cold weather or over-air-conditioned rooms, so know both terms as a natural pair.
-
+| Expression | Description |
+|---|---|
+| 枕カバー<br>makura kabaa | pillowcase; comes up when guests ask for a replacement or when housekeeping walks through the linen change schedule. |
+| 毛布<br>moufu | blanket; guests frequently ask for both extra pillows and blankets together, especially in cold weather or over-air-conditioned rooms, so know both terms as a natural pair. |
 
 ## Common Mistakes
 

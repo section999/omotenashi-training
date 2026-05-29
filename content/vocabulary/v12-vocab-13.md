@@ -25,9 +25,10 @@ If one is injured, please do not hesitate to notify a staff member.
 
 ## Related Expressions
 
-- **負傷 (fushō)**: a more formal word for injury, found mainly in official reports and medical documentation rather than in everyday conversation with guests. Staff would write 負傷 in an incident report but say 怪我 out loud.
-- **擦り傷 (surikizu)**: a scrape or abrasion; one of the more common minor 怪我 that occurs when guests fall or brush against rough surfaces, especially around outdoor areas or staircases.
-
+| Expression | Description |
+|---|---|
+| 負傷<br>fushō | a more formal word for injury, found mainly in official reports and medical documentation rather than in everyday conversation with guests. Staff would write 負傷 in an incident report but say 怪我 out loud. |
+| 擦り傷<br>surikizu | a scrape or abrasion; one of the more common minor 怪我 that occurs when guests fall or brush against rough surfaces, especially around outdoor areas or staircases. |
 
 ## Common Mistakes
 

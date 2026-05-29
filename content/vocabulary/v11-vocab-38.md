@@ -25,9 +25,10 @@ The phone connection was poor and I could not make out what you said. Shall I ca
 
 ## Related Expressions
 
-- **わかりません (wakarimasen)**: "I do not understand"; this is about meaning and comprehension, not about hearing; reaching for this one when the issue is audibility can suggest to the caller that there is a language gap that does not exist
-- **お声が遠い (okoe ga tooi)**: "their voice is distant or faint"; a softer and more indirect way of conveying the same idea as 聞き取れません; considered more refined in very formal hospitality contexts where directness feels slightly abrupt
-
+| Expression | Description |
+|---|---|
+| わかりません<br>wakarimasen | "I do not understand"; this is about meaning and comprehension, not about hearing; reaching for this one when the issue is audibility can suggest to the caller that there is a language gap that does not exist |
+| お声が遠い<br>okoe ga tooi | "their voice is distant or faint"; a softer and more indirect way of conveying the same idea as 聞き取れません; considered more refined in very formal hospitality contexts where directness feels slightly abrupt |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ Additional charges will be settled at checkout.
 
 ## Related Expressions
 
-- **割増料金 (warimashi ryoukin)**: a surcharge or premium rate applied for peak season, weekends, or last-minute bookings; unlike 追加料金, it modifies the base rate itself rather than adding a separate line item to the bill.
-- **諸費用 (sho-hiyou)**: miscellaneous expenses; shows up on final invoices as a catch-all label for minor incidental charges; if a guest sees 諸費用 on their bill without context, expect them to ask what it covers, so be ready to break it down.
-
+| Expression | Description |
+|---|---|
+| 割増料金<br>warimashi ryoukin | a surcharge or premium rate applied for peak season, weekends, or last-minute bookings; unlike 追加料金, it modifies the base rate itself rather than adding a separate line item to the bill. |
+| 諸費用<br>sho-hiyou | miscellaneous expenses; shows up on final invoices as a catch-all label for minor incidental charges; if a guest sees 諸費用 on their bill without context, expect them to ask what it covers, so be ready to break it down. |
 
 ## Common Mistakes
 

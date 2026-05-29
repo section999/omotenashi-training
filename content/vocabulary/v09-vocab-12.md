@@ -24,9 +24,10 @@ Since your reservation includes an infant, we will install child locks in the ro
 
 ## Related Expressions
 
-- **子供 (kodomo)**: the broader child category; 幼児 sits within it as the youngest age group, and the two appear separately on reservation forms because their pricing and amenity requirements are different.
-- **ベビーベッド (bebii beddo)**: a crib or baby bed; closely associated with 幼児 bookings; when staff see 幼児 on a reservation, proactively offering ベビーベッドのご用意 is a key kikubari practice.
-
+| Expression | Description |
+|---|---|
+| 子供<br>kodomo | the broader child category; 幼児 sits within it as the youngest age group, and the two appear separately on reservation forms because their pricing and amenity requirements are different. |
+| ベビーベッド<br>bebii beddo | a crib or baby bed; closely associated with 幼児 bookings; when staff see 幼児 on a reservation, proactively offering ベビーベッドのご用意 is a key kikubari practice. |
 
 ## Common Mistakes
 

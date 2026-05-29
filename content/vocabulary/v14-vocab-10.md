@@ -23,8 +23,10 @@ Some tourist spots have an admission fee, so please check in advance.
 
 ## Related Expressions
 
-- **名所 (meisho)**: a famous or historically prestigious place; while 観光地 describes any place tourists visit, 名所 carries the weight of established cultural or historical recognition.
-- **穴場 (anaba)**: a hidden gem or lesser-known spot; the contrast to the crowded 観光地, and often the most appreciated type of recommendation from a knowledgeable concierge.
+| Expression | Description |
+|---|---|
+| 名所<br>meisho | a famous or historically prestigious place; while 観光地 describes any place tourists visit, 名所 carries the weight of established cultural or historical recognition. |
+| 穴場<br>anaba | a hidden gem or lesser-known spot; the contrast to the crowded 観光地, and often the most appreciated type of recommendation from a knowledgeable concierge. |
 
 ## Common Mistakes
 

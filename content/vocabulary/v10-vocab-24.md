@@ -25,9 +25,10 @@ Please let us know if one has any questions about the handling fee.
 
 ## Related Expressions
 
-- **追加料金 (tsuika ryoukin)**: 追加料金 covers any additional charge beyond a base price, while 手数料 is narrower -- it applies specifically to processing or administrative fees for a transaction method; both require disclosure, but they come up in different conversations.
-- **消費税 (shouhizei)**: 消費税 is the government consumption tax, distinct from 手数料 by nature: tax is universal and obligatory, while 手数料 is service-specific and sometimes avoidable depending on how the guest pays.
-
+| Expression | Description |
+|---|---|
+| 追加料金<br>tsuika ryoukin | 追加料金 covers any additional charge beyond a base price, while 手数料 is narrower -- it applies specifically to processing or administrative fees for a transaction method; both require disclosure, but they come up in different conversations. |
+| 消費税<br>shouhizei | 消費税 is the government consumption tax, distinct from 手数料 by nature: tax is universal and obligatory, while 手数料 is service-specific and sometimes avoidable depending on how the guest pays. |
 
 ## Common Mistakes
 

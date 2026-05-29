@@ -25,9 +25,10 @@ All staff at this hotel have received first aid training.
 
 ## Related Expressions
 
-- **救急箱 (kyuukyuubako)**: first aid kit; the physical container of supplies used when carrying out 応急処置. It must be checked and restocked regularly, and every staff member needs to know its location on their floor.
-- **心肺蘇生 (shinpai sosei)**: CPR (cardiopulmonary resuscitation); the most critical form of 応急処置, performed when a guest goes into cardiac arrest. Knowing how to do this is expected for hotel staff.
-
+| Expression | Description |
+|---|---|
+| 救急箱<br>kyuukyuubako | first aid kit; the physical container of supplies used when carrying out 応急処置. It must be checked and restocked regularly, and every staff member needs to know its location on their floor. |
+| 心肺蘇生<br>shinpai sosei | CPR (cardiopulmonary resuscitation); the most critical form of 応急処置, performed when a guest goes into cardiac arrest. Knowing how to do this is expected for hotel staff. |
 
 ## Common Mistakes
 

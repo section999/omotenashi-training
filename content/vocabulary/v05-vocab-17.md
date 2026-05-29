@@ -24,9 +24,10 @@ This restaurant is entirely non-smoking. We appreciate your understanding in adv
 
 ## Related Expressions
 
-- **喫煙席 (kitsuen seki)**: Smoking seat. 禁煙席 and 喫煙席 are direct opposites and are always offered as a paired choice when seating guests; staff must know both terms and be prepared for either preference without expressing judgment.
-- **分煙 (bun'en)**: Separation of smoking and non-smoking areas. 分煙 describes the venue policy of maintaining distinct spaces for smokers and non-smokers; a restaurant that offers both 禁煙席 and 喫煙席 is a 分煙 establishment.
-
+| Expression | Description |
+|---|---|
+| 喫煙席<br>kitsuen seki | Smoking seat. 禁煙席 and 喫煙席 are direct opposites and are always offered as a paired choice when seating guests; staff must know both terms and be prepared for either preference without expressing judgment. |
+| 分煙<br>bun'en | Separation of smoking and non-smoking areas. 分煙 describes the venue policy of maintaining distinct spaces for smokers and non-smokers; a restaurant that offers both 禁煙席 and 喫煙席 is a 分煙 establishment. |
 
 ## Common Mistakes
 

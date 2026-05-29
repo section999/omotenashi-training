@@ -25,9 +25,10 @@ If you would like to use deferred payment, prior registration at the front desk 
 
 ## Related Expressions
 
-- **前払い (maebarai)**: the opposite; payment made before the service is received, often associated with discounted or non-refundable plans.
-- **ルームチャージ (ruumu chaaji)**: "room charge"; billing services used during a stay (dining, spa, etc.) to the room account for settlement at checkout: a specific form of 後払い.
-
+| Expression | Description |
+|---|---|
+| 前払い<br>maebarai | the opposite; payment made before the service is received, often associated with discounted or non-refundable plans. |
+| ルームチャージ<br>ruumu chaaji | "room charge"; billing services used during a stay (dining, spa, etc.) to the room account for settlement at checkout: a specific form of 後払い. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ During the training period, senior staff will guide you carefully.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">教育 (kyouiku)</span> education or development in a broader, ongoing sense; while 研修 is a defined programme with a start and end, 教育 encompasses the wider continuous development of employees across their career.
-<br><br>
-<span class="keigo-badge info">OJT (On-the-Job Training)</span> hands-on learning within the actual work environment, often used alongside or following formal 研修 in Japanese hospitality onboarding.
-</div>
+| Expression | Description |
+|---|---|
+| 教育<br>kyouiku | education or development in a broader, ongoing sense; while 研修 is a defined programme with a start and end, 教育 encompasses the wider continuous development of employees across their career. |
+| OJT<br>On-the-Job Training | hands-on learning within the actual work environment, often used alongside or following formal 研修 in Japanese hospitality onboarding. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to treat 研修 and 教育 as synonyms. The key difference is scope and structure. 研修 is a bounded programme, a schedule, materials, often an assessment. 教育 is the broader, more holistic process of nurturing an employee's capabilities over time. Using 研修 when referring to a manager's ongoing informal mentoring of their team is too narrow, 教育 or 指導 would fit better there.
-</div>
 
 ---
 

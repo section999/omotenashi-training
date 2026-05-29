@@ -25,17 +25,14 @@ Tonight's dinner features dishes prepared with seasonal ingredients.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">晩ごはん (ban-gohan)</span> the casual, everyday term for dinner; used among family or friends but entirely inappropriate in hotel or ryokan guest communication.
-<br><br>
-<span class="keigo-badge info">ディナー (dinaa)</span> a loanword alternative common in Western-style hotel restaurants; carries a slightly different nuance of a formal European dinner setting rather than traditional Japanese dining.
-</div>
+| Expression | Description |
+|---|---|
+| 晩ごはん<br>ban-gohan | the casual, everyday term for dinner; used among family or friends but entirely inappropriate in hotel or ryokan guest communication. |
+| ディナー<br>dinaa | a loanword alternative common in Western-style hotel restaurants; carries a slightly different nuance of a formal European dinner setting rather than traditional Japanese dining. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common error is using 晩ごはん with guests, which immediately breaks the formal tone expected in hospitality. Staff sometimes announce only the dinner start time and forget to mention the last order time, which can lead to guests arriving too late. Keeping communication generic, saying 夕食は6時です, is informative but misses the opportunity to express the anticipation and care that omotenashi calls for. Tone matters significantly in these moments.
-</div>
 
 ---
 

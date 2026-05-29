@@ -26,17 +26,14 @@ The restroom is at the back on the left side of the corridor.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">左手 (hidarite)</span> "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility
-<br><br>
-<span class="keigo-badge info">左折 (sasetsu)</span> "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance
-</div>
+| Expression | Description |
+|---|---|
+| 左手<br>hidarite | "left-hand side," more precise and polished than 左 alone; 左手にございます is the preferred phrasing in formal hotel speech when describing the location of a facility |
+| 左折<br>sasetsu | "left turn," used in written route instructions or when giving directions for someone driving; a bit too formal and stiff for casual hallway guidance |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most frequent error is saying 左です rather than 左にございます. The latter is the expected level of formality in hotel service, and its omission can feel abrupt to Japanese guests. A common error is mixing up 左 and 右 when nervous or under pressure. Drilling both words together in realistic practice scenarios helps address this. Additionally: pointing with a single finger rather than an open, flat hand is a register mistake specific to Japanese professional environments. Using an open hand when gesturing appears more polished.
-</div>
 
 ---
 ## Quiz

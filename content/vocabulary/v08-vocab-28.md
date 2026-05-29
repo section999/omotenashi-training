@@ -25,17 +25,14 @@ For the banquet hall, please proceed straight along this corridor and enter thro
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">こちら側 (kochira gawa)</span> "this side," used when the destination is near the speaker; the natural partner to あちら側 in spatial orientation dialogue
-<br><br>
-<span class="keigo-badge info">そちら側 (sochira gawa)</span> "that side near you," used to direct a guest toward something already close to them, completing the full three-part directional system
-</div>
+| Expression | Description |
+|---|---|
+| こちら側<br>kochira gawa | "this side," used when the destination is near the speaker; the natural partner to あちら側 in spatial orientation dialogue |
+| そちら側<br>sochira gawa | "that side near you," used to direct a guest toward something already close to them, completing the full three-part directional system |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is defaulting to the casual あそこ (over there) when speaking to guests, which sounds too informal in a hotel setting and should be replaced with あちら or あちら側. Another frequent error is using あちら側 without any accompanying gesture or landmark, leaving guests uncertain about which direction is meant: the word is spatially relative and depends on shared visual context to be effective. Staff should not confuse あちら側 with 向こう側 (mukougawa, the other side), which implies crossing something like a road or wall, whereas あちら側 points to a more distant area within the same general space.
-</div>
 
 ---
 

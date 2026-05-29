@@ -23,12 +23,14 @@ We recommend confirming the fee at the exchange office before using the service.
 
 ## Related Expressions
 
-- **両替 (ryougae)**: the act of exchanging currency itself; 両替所 is the place, while 両替 is the action performed there.
-- **ATM (etiemu)**: a practical alternative to the 両替所 for many guests; international-card-compatible machines at convenience stores and Japan Post branches often provide better rates and longer hours.
+| Expression | Description |
+|---|---|
+| 両替<br>ryougae | the act of exchanging currency itself; 両替所 is the place, while 両替 is the action performed there. |
+| ATM<br>etiemu | a practical alternative to the 両替所 for many guests; international-card-compatible machines at convenience stores and Japan Post branches often provide better rates and longer hours. |
 
 ## Common Mistakes
 
-A common error is to mix up 両替所 with 換金所 (kankinsho). The difference is important: 換金所 is for cashing in vouchers, prizes, or other instruments, not for foreign currency exchange. If a guest needs to exchange euros for yen, 両替所 is the right word. On pronunciation, take care with 両替: the middle characters 替 (*gae*) and 解 (*kai*) look similar but sound different, and 両解 would be a different word entirely. Additionally: 両替所 handles currency conversion and nothing else. It's not a bank, and guests cannot use it for wire transfers or other financial services.
+A common error is to mix up 両替所 with 換金所 (kankinsho). The difference is important: 換金所 is for cashing in vouchers, prizes, or other instruments, not for foreign currency exchange. If a guest needs to exchange euros for yen, 両替所 is the right word. On pronunciation, take care with 両替: the middle characters 替 (*gae*) and 解 (階) look similar but sound different, and 両解 would be a different word entirely. Additionally: 両替所 handles currency conversion and nothing else. It's not a bank, and guests cannot use it for wire transfers or other financial services.
 
 ---
 

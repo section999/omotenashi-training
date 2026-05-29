@@ -25,9 +25,10 @@ If we do not receive confirmation within the deadline, the tentative reservation
 
 ## Related Expressions
 
-- **確定 (kakutei)**: the completed state that 仮予約 transitions into once all conditions are met. Frame 仮予約 as a step in a process, not a problem: telling guests 現在は仮予約ですが、〇日までにご確認いただければ確定となります makes the path forward clear and actionable.
-- **確認期限 (kakunin kigen)**: the specific deadline for converting 仮予約 to 確定. Learn this as a set phrase alongside 仮予約 itself, since staff will almost never say one without needing the other.
-
+| Expression | Description |
+|---|---|
+| 確定<br>kakutei | the completed state that 仮予約 transitions into once all conditions are met. Frame 仮予約 as a step in a process, not a problem: telling guests 現在は仮予約ですが、〇日までにご確認いただければ確定となります makes the path forward clear and actionable. |
+| 確認期限<br>kakunin kigen | the specific deadline for converting 仮予約 to 確定. Learn this as a set phrase alongside 仮予約 itself, since staff will almost never say one without needing the other. |
 
 ## Common Mistakes
 

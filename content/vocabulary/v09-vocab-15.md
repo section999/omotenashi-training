@@ -25,17 +25,14 @@ As an exclusive member perk, we have prepared a room upgrade.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">サービス (saabisu)</span> in everyday Japanese, サービス can mean a spontaneous complimentary gesture (like an unexpected dessert) or just "service" in general; 特典 is narrower and more precise, referring to a named benefit that is deliberately built into the plan.
-<br><br>
-<span class="keigo-badge info">付帯サービス (futai saabisu)</span> "ancillary services," covering the full range of services attached to a stay, some included, some optional; 特典 is the subset that is specifically complimentary and typically highlighted as a selling point when staff describe plans to guests.
-</div>
+| Expression | Description |
+|---|---|
+| サービス<br>saabisu | in everyday Japanese, サービス can mean a spontaneous complimentary gesture (like an unexpected dessert) or just "service" in general; 特典 is narrower and more precise, referring to a named benefit that is deliberately built into the plan. |
+| 付帯サービス<br>futai saabisu | "ancillary services," covering the full range of services attached to a stay, some included, some optional; 特典 is the subset that is specifically complimentary and typically highlighted as a selling point when staff describe plans to guests. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using 特典 for something the guest still has to pay for, such as a discounted spa treatment, is misleading and will cause friction. 特典 means the benefit is included at no extra charge. A second gap is mentioning a 特典 without explaining how to claim it: time restrictions, reservation requirements, and location details all need to be included. Omitting 特典 information at check-in because the guest is assumed to remember their booking details means a missed opportunity. Most guests book weeks in advance and will not recall every detail; a brief reminder at check-in ensures they get to enjoy what they paid for.
-</div>
 
 ---
 

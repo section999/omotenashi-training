@@ -26,17 +26,14 @@ Restaurant reservations are accepted at the counter just before the entrance.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">奥 (oku)</span> "the back / further inside"; the spatial opposite of 手前; understanding both in tandem lets staff locate anything precisely along the near-far axis of any room or corridor
-<br><br>
-<span class="keigo-badge info">すぐそこ (sugu soko)</span> "right there / close"; more informal than 手前 and does not specify near-side versus far-side; more appropriate in casual conversation than in formal hotel guidance
-</div>
+| Expression | Description |
+|---|---|
+| 奥<br>oku | "the back / further inside"; the spatial opposite of 手前; understanding both in tandem lets staff locate anything precisely along the near-far axis of any room or corridor |
+| すぐそこ<br>sugu soko | "right there / close"; more informal than 手前 and does not specify near-side versus far-side; more appropriate in casual conversation than in formal hotel guidance |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is to use 手前 as a synonym for 隣 (next to), but 手前 means specifically "before reaching X" rather than "beside X." These are directionally different enough to send a guest the wrong way entirely. Another error is using 手前 for outdoor distances, where 近く or すぐそこ are more natural; 手前 works best as a relative interior landmark reference. Failing to specify the reference point leaves 手前 meaningless. Using X の手前にございます tells the guest exactly where to stop.
-</div>
 
 ---
 ## Quiz

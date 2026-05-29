@@ -25,9 +25,10 @@ May I explain our seasonal recommended menu to you?
 
 ## Related Expressions
 
-- **お品書き (o-shinagaki)**: the traditional Japanese term for a written list of dishes, most commonly used in kaiseki or traditional Japanese restaurants; it carries a more culturally rooted feeling than the loanword メニュー.
-- **コース (koosu)**: a fixed multi-course meal, as opposed to ordering à la carte; staff will use this word often when walking guests through set dining packages.
-
+| Expression | Description |
+|---|---|
+| お品書き<br>o-shinagaki | the traditional Japanese term for a written list of dishes, most commonly used in kaiseki or traditional Japanese restaurants; it carries a more culturally rooted feeling than the loanword メニュー. |
+| コース<br>koosu | a fixed multi-course meal, as opposed to ordering à la carte; staff will use this word often when walking guests through set dining packages. |
 
 ## Common Mistakes
 

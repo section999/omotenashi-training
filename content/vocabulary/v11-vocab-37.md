@@ -25,9 +25,10 @@ I fully understand your circumstances. We will do our best to accommodate you.
 
 ## Related Expressions
 
-- **かしこまりました (kashikomarimashita)**: the most formal keigo equivalent, reserved for luxury hotel settings when a guest gives one a direct instruction; this phrase carries a deeper sense of humble acceptance, so in formal properties, staff should learn when to use this instead of わかりました
-- **承知しました (shouchi shimashita)**: a business-register alternative to わかりました; slightly more professional in tone and common in business hotel settings or when confirming arrangements with colleagues in writing
-
+| Expression | Description |
+|---|---|
+| かしこまりました<br>kashikomarimashita | the most formal keigo equivalent, reserved for luxury hotel settings when a guest gives one a direct instruction; this phrase carries a deeper sense of humble acceptance, so in formal properties, staff should learn when to use this instead of わかりました |
+| 承知しました<br>shouchi shimashita | a business-register alternative to わかりました; slightly more professional in tone and common in business hotel settings or when confirming arrangements with colleagues in writing |
 
 ## Common Mistakes
 

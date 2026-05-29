@@ -25,9 +25,10 @@ For any questions, please consult the information board or let a member of staff
 
 ## Related Expressions
 
-- **案内図 (annaizu)**: a diagram-based navigation document, usually printed and carried; where 案内板 stays fixed on the wall, 案内図 is something a guest can pick up and take with them
-- **フロアマップ (furoamappu)**: a detailed spatial floor plan showing the layout of each level; 案内板 handles directional signage and general facility overviews, while フロアマップ gives the bird's-eye spatial picture
-
+| Expression | Description |
+|---|---|
+| 案内図<br>annaizu | a diagram-based navigation document, usually printed and carried; where 案内板 stays fixed on the wall, 案内図 is something a guest can pick up and take with them |
+| フロアマップ<br>furoamappu | a detailed spatial floor plan showing the layout of each level; 案内板 handles directional signage and general facility overviews, while フロアマップ gives the bird's-eye spatial picture |
 
 ## Common Mistakes
 

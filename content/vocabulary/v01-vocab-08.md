@@ -4,11 +4,11 @@ section: 8
 title: 少々お待ちください (shoushou omachi kudasai)
 ---
 
-**少々お待ちください** means "please wait a moment," but the phrase carries more than its translation suggests. *Shōshō* (少々) means "just a little" or "a small amount," and its inclusion is a deliberate act of courtesy. One is minimising the imposition on the guest, signalling that one will be back quickly, and communicating that their time is valued. The full phrase carries an implicit promise: this will not take long, and I have not forgotten one.
+**少々お待ちください** means "please wait a moment," but the phrase carries more than its translation suggests. 少々 (少々) means "just a little" or "a small amount," and its inclusion is a deliberate act of courtesy. One is minimising the imposition on the guest, signalling that one will be back quickly, and communicating that their time is valued. The full phrase carries an implicit promise: this will not take long, and I have not forgotten one.
 
-This phrase is only half of the interaction. The other half is what happens during and after the wait. When one returns, one thanks the guest for waiting with *o-matase itashimashita*, and one comes back before the wait becomes longer than "a moment" reasonably implies. If circumstances mean the wait will stretch beyond what one promised, going back to the guest before the time runs out and updating them honestly is the right approach. A guest should not be left standing or sitting unacknowledged while staff sort things out behind the scenes.
+This phrase is only half of the interaction. The other half is what happens during and after the wait. When one returns, one thanks the guest for waiting with お待たせいたしました, and one comes back before the wait becomes longer than "a moment" reasonably implies. If circumstances mean the wait will stretch beyond what one promised, going back to the guest before the time runs out and updating them honestly is the right approach. A guest should not be left standing or sitting unacknowledged while staff sort things out behind the scenes.
 
-The phrase is equally important in phone contexts. When placing a caller on hold, *shōshō o-machi kudasai* is the standard phrase before the hold begins. The same rule applies: return promptly, and open with *o-matase itashimashita* when staff picks up again.
+The phrase is equally important in phone contexts. When placing a caller on hold, 少々お待ちください is the standard phrase before the hold begins. The same rule applies: return promptly, and open with お待たせいたしました when staff picks up again.
 
 
 ## Example Sentences
@@ -29,19 +29,15 @@ Thank you very much for waiting. Regarding the matter from a moment ago…
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お待たせいたしました (o-matase itashimashita)</span> "Thank you for waiting." Always say this when returning after asking a guest to wait. Skipping it leaves the interaction feeling incomplete.
-<br><br>
-<span class="keigo-badge info">しばらくお待ちください (shibaraku o-machi kudasai)</span> "Please wait a while." Use this when staff know the wait will be longer. *Shibaraku* implies noticeably more time than *shōshō*.
-<br><br>
-<span class="keigo-badge info">只今お調べいたします (tadaima o-shirabe itashimasu)</span> "I will look into that right now." Often paired with *shōshō o-machi kudasai* to explain what one is going off to do.
-</div>
+| Expression | Description |
+|---|---|
+| お待たせいたしました<br>o-matase itashimashita | "Thank you for waiting." Always say this when returning after asking a guest to wait. Skipping it leaves the interaction feeling incomplete. |
+| しばらくお待ちください<br>shibaraku o-machi kudasai | "Please wait a while." Use this when staff know the wait will be longer. しばらく implies noticeably more time than 少々. |
+| 只今お調べいたします<br>tadaima o-shirabe itashimasu | "I will look into that right now." Often paired with 少々お待ちください to explain what one is going off to do. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
-The most common mistake is asking a guest to wait and then not returning promptly, or returning without acknowledging them. The phrase creates an implicit contract, and staff should honour it by coming back quickly and by saying *o-matase itashimashita* every time. A second mistake is using *shibaraku* when staff means *shōshō*. Reaching for *shibaraku* thinking it sounds more polite is a misstep; if a staff member tells a guest "just a moment" and it takes ten minutes, expectations have been mismanaged. The word should match the reality of the wait.
-</div>
+The most common mistake is asking a guest to wait and then not returning promptly, or returning without acknowledging them. The phrase creates an implicit contract, and staff should honour it by coming back quickly and by saying お待たせいたしました every time. A second mistake is using しばらく when staff means 少々. Reaching for しばらく thinking it sounds more polite is a misstep; if a staff member tells a guest "just a moment" and it takes ten minutes, expectations have been mismanaged. The word should match the reality of the wait.
 
 ---
 
@@ -56,4 +52,4 @@ The most common mistake is asking a guest to wait and then not returning promptl
 
 **Correct Answer:** 少々お待ちください。(Please wait just a moment.)
 
-**Explanation:** *Shōshō o-machi kudasai* is the right phrase because *shōshō* signals a brief wait, communicating to the guest that their time is respected and you will be back quickly. The other options either belong to different situations or lack this forward-looking reassurance; always complete the exchange by saying *o-matase itashimashita* when you return.
+**Explanation:** 少々お待ちください is the right phrase because 少々 signals a brief wait, communicating to the guest that their time is respected and you will be back quickly. The other options either belong to different situations or lack this forward-looking reassurance; always complete the exchange by saying お待たせいたしました when you return.

@@ -23,8 +23,10 @@ We recommend renting an audio guide at the museum.
 
 ## Related Expressions
 
-- **案内人 (annai-nin)**: a general guide or usher; less specialized than ガイド, often used for in-house hotel escorts or someone directing guests to a venue
-- **ツアーコンダクター (tsuaa kondakutaa)**: a tour conductor who manages group logistics; distinct from a ガイド, whose focus is on explanation and cultural interpretation rather than scheduling
+| Expression | Description |
+|---|---|
+| 案内人<br>annai-nin | a general guide or usher; less specialized than ガイド, often used for in-house hotel escorts or someone directing guests to a venue |
+| ツアーコンダクター<br>tsuaa kondakutaa | a tour conductor who manages group logistics; distinct from a ガイド, whose focus is on explanation and cultural interpretation rather than scheduling |
 
 ## Common Mistakes
 

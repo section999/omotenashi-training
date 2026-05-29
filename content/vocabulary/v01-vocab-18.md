@@ -4,11 +4,11 @@ section: 18
 title: お疲れ様です (otsukaresama desu)
 ---
 
-**お疲れ様です** means "thank you for your hard work" or "I see that you have been working, and I acknowledge it." The root word *tsukareru* (疲れる) means "to become tired," elevated through honorific forms into *tsukaresama*. That shift in register is the whole point: the phrase is designed to make the other person feel seen, not just greeted.
+**お疲れ様です** means "thank you for your hard work" or "I see that you have been working, and I acknowledge it." The root word 疲れる (疲れる) means "to become tired," elevated through honorific forms into お疲れ様. That shift in register is the whole point: the phrase is designed to make the other person feel seen, not just greeted.
 
 This is a notably frequently used expression in Japanese workplace culture, and staff will hear it dozens of times on any given shift. Staff say it when passing a colleague in the corridor, when someone hands off a task, when a coworker arrives for their shift, and when everyone is finally heading home. The emotional function is solidarity: *I see your work. Your effort is not invisible.* Getting comfortable with this phrase is an effective way to feel part of a Japanese team.
 
-This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing *o-tsukaresama desu* at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* (thank you so much for coming despite your long day)
+This phrase has a limited role with guests. If a guest comes back looking exhausted after a long day, directing お疲れ様です at them can feel oddly like staff are treating them as a subordinate colleague. That is the wrong dynamic entirely. Experienced staff find softer ways to acknowledge a guest's fatigue, like offering a warm drink or saying *o-tsukare no tokoro, ōkini o-koshi kudasaimashita* (thank you so much for coming despite your long day)
 
 
 ## Example Sentences
@@ -29,19 +29,15 @@ Thank you for the work. Please brief me on the floor handover.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ご苦労様です (go-kurōsama desu)</span> Similar in meaning, but this one flows downward in the hierarchy, from superiors to subordinates. Using it toward a colleague or, worse, a guest comes across as condescending.
-<br><br>
-<span class="keigo-badge info">お疲れ様でした (o-tsukaresama deshita)</span> The past-tense form, used once the work is done. Staff would say this at the end of a shift or after a task is completed, not in the middle of one.
-<br><br>
-<span class="keigo-badge info">いってらっしゃい (itterasshai)</span> "Have a safe trip / go well": said to a colleague or guest as they head out.
-</div>
+| Expression | Description |
+|---|---|
+| ご苦労様です<br>go-kurōsama desu | Similar in meaning, but this one flows downward in the hierarchy, from superiors to subordinates. Using it toward a colleague or, worse, a guest comes across as condescending. |
+| お疲れ様でした<br>o-tsukaresama deshita | The past-tense form, used once the work is done. Staff would say this at the end of a shift or after a task is completed, not in the middle of one. |
+| いってらっしゃい<br>itterasshai | "Have a safe trip / go well": said to a colleague or guest as they head out. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
-The most common mistake is saying *o-tsukaresama desu* directly to a guest who looks tired. The intent is kind, but it positions the guest as a coworker rather than someone one is serving, and that subtle misstep can land awkwardly. When one wants to acknowledge a guest's fatigue, it is better done through action: offering something warm, getting their bags, moving quickly. A common mistake is using *go-kurōsama desu* with a senior colleague. That phrase carries a top-down implication, and using it upward in the hierarchy is considered rude.
-</div>
+The most common mistake is saying お疲れ様です directly to a guest who looks tired. The intent is kind, but it positions the guest as a coworker rather than someone one is serving, and that subtle misstep can land awkwardly. When one wants to acknowledge a guest's fatigue, it is better done through action: offering something warm, getting their bags, moving quickly. A common mistake is using *go-kurōsama desu* with a senior colleague. That phrase carries a top-down implication, and using it upward in the hierarchy is considered rude.
 
 ---
 
@@ -56,4 +52,4 @@ The most common mistake is saying *o-tsukaresama desu* directly to a guest who l
 
 **Correct Answer:** お疲れ様です。(Thank you for your hard work.)
 
-**Explanation:** *O-tsukaresama desu* is the phrase that builds team solidarity by acknowledging a colleague's effort, and it is expected whenever you pass someone mid-shift in Japanese workplace culture. *Go-kurōsama desu* looks and sounds similar but flows downward in the hierarchy, so using it between equals carries an unintentional air of condescension.
+**Explanation:** お疲れ様です is the phrase that builds team solidarity by acknowledging a colleague's effort, and it is expected whenever you pass someone mid-shift in Japanese workplace culture. *Go-kurōsama desu* looks and sounds similar but flows downward in the hierarchy, so using it between equals carries an unintentional air of condescension.

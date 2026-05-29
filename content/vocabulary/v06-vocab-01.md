@@ -25,17 +25,14 @@ If a problem arises during the stay, we would be grateful if one could inform us
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">トラブル (toraburu)</span> borrowed from English "trouble"; slightly more urgent or event-like in feel, often used for technical or unexpected disruptions rather than general issues.
-<br><br>
-<span class="keigo-badge info">不具合 (fuguai)</span> specifically refers to a malfunction or irregularity in equipment or systems; more technical than 問題 and used primarily in maintenance contexts.
-</div>
+| Expression | Description |
+|---|---|
+| トラブル<br>toraburu | borrowed from English "trouble"; slightly more urgent or event-like in feel, often used for technical or unexpected disruptions rather than general issues. |
+| 不具合<br>fuguai | specifically refers to a malfunction or irregularity in equipment or systems; more technical than 問題 and used primarily in maintenance contexts. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is confusing 問題 with クレーム (kuremu) and treating them as interchangeable. 問題 is a neutral description of an issue, while クレーム implies a formal complaint made by the guest, and reaching for クレーム prematurely can escalate the situation unnecessarily. Staff occasionally use the casual 問題ない (no problem) in guest-facing speech, which should be avoided in favour of politer alternatives such as ご問題はございません.
-</div>
 
 ---
 

@@ -25,17 +25,14 @@ We sincerely apologize, but we currently do not have a smoking section. You are 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">禁煙席 (kin'en seki)</span> Non-smoking seat. 喫煙席 and 禁煙席 are always presented as a pair in seating preference questions; staff must be comfortable handling guests who choose either option without expressing a preference or judgment of their own.
-<br><br>
-<span class="keigo-badge info">喫煙スペース (kitsuen supesu)</span> Smoking area/space. When a restaurant no longer offers 喫煙席 at the table level, it may still have a designated 喫煙スペース (often outdoors or in a separate lounge); knowing this term allows staff to redirect smoking guests appropriately.
-</div>
+| Expression | Description |
+|---|---|
+| 禁煙席<br>kin'en seki | Non-smoking seat. 喫煙席 and 禁煙席 are always presented as a pair in seating preference questions; staff must be comfortable handling guests who choose either option without expressing a preference or judgment of their own. |
+| 喫煙スペース<br>kitsuen supesu | Smoking area/space. When a restaurant no longer offers 喫煙席 at the table level, it may still have a designated 喫煙スペース (often outdoors or in a separate lounge); knowing this term allows staff to redirect smoking guests appropriately. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Staff sometimes make the mistake of appearing apologetic or hesitant when escorting a guest to 喫煙席: in professional hospitality, guest choice must be honored without judgment, and the tone should be the same as guiding someone to any other seat. A practical error is failing to mention any relevant conditions of the 喫煙席 (e.g., it is in a separate building or has a time limit); surprises after seating create negative impressions. Another common mistake is confusing 喫煙席 with 喫煙室 (kitsuen shitsu: a dedicated smoking room, often used in office buildings or hotels); the 席 (seat) versus 室 (room) distinction is meaningful and should be used accurately.
-</div>
 
 ---
 

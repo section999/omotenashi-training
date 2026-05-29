@@ -25,17 +25,14 @@ The person in charge is currently unavailable, so the call will switch to voicem
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">伝言 (dengon)</span> the content of the message left within 留守番電話; 留守番電話 is the system, 伝言 is what goes inside it, so these terms describe different layers of the same process.
-<br><br>
-<span class="keigo-badge info">不在 (fuzai)</span> absence or being unavailable; 不在 is usually the reason a caller ends up at 留守番電話, so using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation.
-</div>
+| Expression | Description |
+|---|---|
+| 伝言<br>dengon | the content of the message left within 留守番電話; 留守番電話 is the system, 伝言 is what goes inside it, so these terms describe different layers of the same process. |
+| 不在<br>fuzai | absence or being unavailable; 不在 is usually the reason a caller ends up at 留守番電話, so using both terms together (不在のため留守番電話に…) gives the caller a clear, polite explanation. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A frequent issue is not tracking which 留守番電話 boxes were checked, which lets messages fall through during shift handovers. Before leaving a shift, staff should confirm which voicemail boxes were covered and which still need attention. 留守番電話 is sometimes used to refer to a recorded greeting message specifically, but the correct term for that is 応答メッセージ. The most serious failure in this area is not calling back after a voicemail is received. In Japanese hospitality, a guest who leaves a voicemail and hears nothing back feels ignored.
-</div>
 
 ---
 ## Quiz

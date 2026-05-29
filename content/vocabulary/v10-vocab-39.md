@@ -24,9 +24,10 @@ Your reservation is valid, so one may proceed directly to check-in.
 
 ## Related Expressions
 
-- **無効 (mukō)**: invalid; the direct opposite of 有効, used when a document, card, or offer cannot be accepted and always requires a gentle, clear explanation to the guest
-- **有効期限 (yūkō kigen)**: expiry date; the first thing to check when determining whether something is 有効 or 無効, though it's not the only condition to verify
-
+| Expression | Description |
+|---|---|
+| 無効<br>mukō | invalid; the direct opposite of 有効, used when a document, card, or offer cannot be accepted and always requires a gentle, clear explanation to the guest |
+| 有効期限<br>yūkō kigen | expiry date; the first thing to check when determining whether something is 有効 or 無効, though it's not the only condition to verify |
 
 ## Common Mistakes
 

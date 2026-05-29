@@ -25,9 +25,10 @@ As indicated by the elevator display, the restaurant is on the third floor.
 
 ## Related Expressions
 
-- **案内板 (annaiban)**: a fixed mounted sign, which is one specific format of 表示; 表示 is the wider category that includes all visual indicators, and 案内板 is one particular type within it
-- **サイン (sain)**: the colloquial term borrowed from English, used casually in modern hotel settings for directional or informational signage; 表示 is the more formal and precise Japanese equivalent for professional and official contexts
-
+| Expression | Description |
+|---|---|
+| 案内板<br>annaiban | a fixed mounted sign, which is one specific format of 表示; 表示 is the wider category that includes all visual indicators, and 案内板 is one particular type within it |
+| サイン<br>sain | the colloquial term borrowed from English, used casually in modern hotel settings for directional or informational signage; 表示 is the more formal and precise Japanese equivalent for professional and official contexts |
 
 ## Common Mistakes
 

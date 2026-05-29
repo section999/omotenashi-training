@@ -26,17 +26,14 @@ We had a record of your preferences from your previous stay, so we have prepared
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">団体予約 (dantai yoyaku)</span> group reservation; the contrasting booking type that requires coordinated multi-room management and a dedicated group coordinator, as opposed to the one-to-one service model of 個人予約.
-<br><br>
-<span class="keigo-badge info">リピーター (ripeetaa)</span> repeat guest; individual guests who return to the same hotel are among the most important 個人予約 guests, and personalized service based on their history is the hallmark of excellent omotenashi.
-</div>
+| Expression | Description |
+|---|---|
+| 団体予約<br>dantai yoyaku | group reservation; the contrasting booking type that requires coordinated multi-room management and a dedicated group coordinator, as opposed to the one-to-one service model of 個人予約. |
+| リピーター<br>ripeetaa | repeat guest; individual guests who return to the same hotel are among the most important 個人予約 guests, and personalized service based on their history is the hallmark of excellent omotenashi. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is treating 個人予約 as simple and therefore giving it less attentive handling than group bookings. Individual reservations are where memorable moments of hospitality occur: a small gesture or recalled preference can transform a guest into a loyal リピーター. Failing to access the guest history profile when a 個人予約 arrives means missing the opportunity to apply stored preferences. Every 個人予約 check-in should begin with pulling up the guest record to check for notes, past complaints, VIP status, and preferences before the guest reaches the desk.
-</div>
 
 ---
 

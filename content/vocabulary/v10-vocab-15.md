@@ -25,9 +25,10 @@ The cashier will provide you with a receipt.
 
 ## Related Expressions
 
-- **フロント係 (furonto kakari)**: front desk staff who handle check-in, check-out, and general guest inquiries. In smaller hotels these roles may overlap with 会計係, but in larger properties they are clearly distinct positions and directing a guest to the wrong one causes unnecessary inconvenience.
-- **レジ担当 (reji tantou)**: a more casual, operational term for the person working the register, used internally among staff. 会計係 is the formal role title staff use when speaking with or about guests.
-
+| Expression | Description |
+|---|---|
+| フロント係<br>furonto kakari | front desk staff who handle check-in, check-out, and general guest inquiries. In smaller hotels these roles may overlap with 会計係, but in larger properties they are clearly distinct positions and directing a guest to the wrong one causes unnecessary inconvenience. |
+| レジ担当<br>reji tantou | a more casual, operational term for the person working the register, used internally among staff. 会計係 is the formal role title staff use when speaking with or about guests. |
 
 ## Common Mistakes
 

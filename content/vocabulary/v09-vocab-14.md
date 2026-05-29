@@ -24,9 +24,10 @@ The total amount after the discount is 15,000 yen.
 
 ## Related Expressions
 
-- **値引き (nebiki)**: Like 割引, 値引き means a price reduction, but 値引き implies a more informal or negotiated reduction, often used in retail or market contexts. In hotel settings, 割引 is strongly preferred as it refers to a structured, policy-based discount rather than an ad-hoc bargain.
-- **サービス料 (saabisu ryou)**: A service charge added on top of the base rate, making it the conceptual opposite of 割引. Understanding both terms together helps staff explain how a final invoice is calculated when both a discount and a service charge are present.
-
+| Expression | Description |
+|---|---|
+| 値引き<br>nebiki | Like 割引, 値引き means a price reduction, but 値引き implies a more informal or negotiated reduction, often used in retail or market contexts. In hotel settings, 割引 is strongly preferred as it refers to a structured, policy-based discount rather than an ad-hoc bargain. |
+| サービス料<br>saabisu ryou | A service charge added on top of the base rate, making it the conceptual opposite of 割引. Understanding both terms together helps staff explain how a final invoice is calculated when both a discount and a service charge are present. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ During an emergency, please proceed to the evacuation area by following staff gu
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">避難経路 (hinan keiro)</span> evacuation route; the designated path leading from the building to the 避難場所; posted on corridor maps and should be explained to guests at check-in for high-risk areas
-<br><br>
-<span class="keigo-badge info">集合場所 (shuugou basho)</span> assembly point; a near-synonym sometimes used interchangeably with 避難場所, though 集合場所 can also refer to non-emergency meeting points
-</div>
+| Expression | Description |
+|---|---|
+| 避難経路<br>hinan keiro | evacuation route; the designated path leading from the building to the 避難場所; posted on corridor maps and should be explained to guests at check-in for high-risk areas |
+| 集合場所<br>shuugou basho | assembly point; a near-synonym sometimes used interchangeably with 避難場所, though 集合場所 can also refer to non-emergency meeting points |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Staff sometimes confuse 避難場所 (evacuation area: the destination) with 避難経路 (evacuation route: the path to get there), which can cause unclear guidance during a crisis. Another error is assuming guests know where the 避難場所 is without explicit instruction: foreign guests especially may not have read the room safety card. Learners should also avoid using casual speech during emergency announcements; even under pressure, maintaining a calm and formal register helps guests follow instructions without additional panic.
-</div>
 
 ---
 

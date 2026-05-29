@@ -24,9 +24,10 @@ If you have any questions, an English-speaking staff member will assist you.
 
 ## Related Expressions
 
-- **多言語対応 (tago gengo taiou)**: multilingual support, a broader version of 英語対応 indicating that the hotel or department can serve guests in multiple foreign languages. Used in hotels with a diverse international clientele where English alone is not sufficient.
-- **外国語対応 (gaikokugo taiou)**: foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when staff cannot list every language but still want to signal that non-Japanese speakers will be helped.
-
+| Expression | Description |
+|---|---|
+| 多言語対応<br>tago gengo taiou | multilingual support, a broader version of 英語対応 indicating that the hotel or department can serve guests in multiple foreign languages. Used in hotels with a diverse international clientele where English alone is not sufficient. |
+| 外国語対応<br>gaikokugo taiou | foreign language support in general, a more inclusive phrasing that covers English and other languages when specific capabilities vary by department. Useful when staff cannot list every language but still want to signal that non-Japanese speakers will be helped. |
 
 ## Common Mistakes
 

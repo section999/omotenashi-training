@@ -25,17 +25,14 @@ Shall I bring milk or lemon with that?
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">お茶 (o-cha)</span> in a Japanese context, お茶 often defaults to green tea (緑茶) rather than black tea; staff should clarify which type of tea is being discussed to avoid confusion, especially with international guests.
-<br><br>
-<span class="keigo-badge info">ハーブティー (haabu tii)</span> herbal tea, an increasingly common request in upscale hotel settings, particularly for guests seeking caffeine-free options in the evening; useful to know alongside 紅茶.
-</div>
+| Expression | Description |
+|---|---|
+| お茶<br>o-cha | in a Japanese context, お茶 often defaults to green tea (緑茶) rather than black tea; staff should clarify which type of tea is being discussed to avoid confusion, especially with international guests. |
+| ハーブティー<br>haabu tii | herbal tea, an increasingly common request in upscale hotel settings, particularly for guests seeking caffeine-free options in the evening; useful to know alongside 紅茶. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Assuming all tea-drinking guests want コーヒーの代わりに紅茶 (black tea as a coffee substitute) is a common error; some guests may prefer green tea or herbal options. Staff should always ask rather than assume. Forgetting to offer milk or lemon when bringing 紅茶 is a notable oversight in formal service. Staff should also avoid steeping the tea for the guest without offering the option, as some guests prefer to control the strength themselves. This step is easy to skip when busy, but it is one of those small details that guests remember.
-</div>
 
 ---
 

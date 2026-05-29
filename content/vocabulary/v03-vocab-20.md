@@ -25,17 +25,14 @@ If you have any questions about how to use the TV, please let the front desk kno
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">リモコン (rimokon)</span> Short for "remote control." When explaining the テレビ to guests, the リモコン is an essential item to point out and locate specifically. Learners should practice the full phrase 「リモコンはテレビ台の上にございます」 as a standard orientation sentence.
-<br><br>
-<span class="keigo-badge info">チャンネル (channeru)</span> "Channel." Staff may need to explain specific channel numbers for hotel information, local news, or English-language broadcasts. Knowing how to count channels naturally in Japanese (「1チャンネル」, 「2チャンネル」) is part of competent room orientation.
-</div>
+| Expression | Description |
+|---|---|
+| リモコン<br>rimokon | Short for "remote control." When explaining the テレビ to guests, the リモコン is an essential item to point out and locate specifically. Learners should practice the full phrase 「リモコンはテレビ台の上にございます」 as a standard orientation sentence. |
+| チャンネル<br>channeru | "Channel." Staff may need to explain specific channel numbers for hotel information, local news, or English-language broadcasts. Knowing how to count channels naturally in Japanese (「1チャンネル」, 「2チャンネル」) is part of competent room orientation. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common oversight is showing the guest where the テレビ is without explaining how to operate it or which channel provides hotel-specific information; omitting this detail reduces the effectiveness of the orientation. Using 「テレビが使えます」 (plain form) rather than the more polite 「テレビはリモコンで操作可能でございます」 is another frequent error. When mentioning the TV, the location of the remote should be pointed out at the same time. Guests should not have to search for it, and leaving that detail out is inconsistent with the proactive spirit of omotenashi.
-</div>
 
 ---
 

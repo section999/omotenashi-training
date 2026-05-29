@@ -23,8 +23,10 @@ Taxis are convenient for late-night travel, as trains have a last service time.
 
 ## Related Expressions
 
-- **配車アプリ (haisha apuri)**: a taxi-hailing app such as GO or DiDi; an increasingly popular modern alternative to flagging down a タクシー on the street
-- **ハイヤー (haiyaa)**: a hired car or chauffeured vehicle; a higher-end version of タクシー, typically pre-booked and associated with corporate or VIP travel
+| Expression | Description |
+|---|---|
+| 配車アプリ<br>haisha apuri | a taxi-hailing app such as GO or DiDi; an increasingly popular modern alternative to flagging down a タクシー on the street |
+| ハイヤー<br>haiyaa | a hired car or chauffeured vehicle; a higher-end version of タクシー, typically pre-booked and associated with corporate or VIP travel |
 
 ## Common Mistakes
 

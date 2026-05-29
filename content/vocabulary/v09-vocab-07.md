@@ -25,9 +25,10 @@ We will confirm the number of days before advising you of the total amount.
 
 ## Related Expressions
 
-- **何泊 (nanpaku)**: the night-based counterpart to 日数; used for room charges, since hotels bill per night of occupancy; staff should confirm which unit applies before quoting any price to a guest
-- **泊数 (hakusuu)**: a more formal or written variant of 何泊, meaning the count of chargeable nights; appears in invoices and reservation systems rather than in casual conversation
-
+| Expression | Description |
+|---|---|
+| 何泊<br>nanpaku | the night-based counterpart to 日数; used for room charges, since hotels bill per night of occupancy; staff should confirm which unit applies before quoting any price to a guest |
+| 泊数<br>hakusuu | a more formal or written variant of 何泊, meaning the count of chargeable nights; appears in invoices and reservation systems rather than in casual conversation |
 
 ## Common Mistakes
 

@@ -23,12 +23,14 @@ For guests departing the country today, we can hold your luggage at the front de
 
 ## Related Expressions
 
-- **入国 (nyuukoku)**: the direct antonym, referring to arriving in Japan through immigration; together, 入国 and 出国 frame the full arc of a guest's visit.
-- **出発 (shuppatsu)**: a more general word for departure or leaving; unlike 出国, it can refer to leaving a hotel, a station, or a city, not just crossing a national border.
+| Expression | Description |
+|---|---|
+| 入国<br>nyuukoku | the direct antonym, referring to arriving in Japan through immigration; together, 入国 and 出国 frame the full arc of a guest's visit. |
+| 出発<br>shuppatsu | a more general word for departure or leaving; unlike 出国, it can refer to leaving a hotel, a station, or a city, not just crossing a national border. |
 
 ## Common Mistakes
 
-The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Note also: 出国 and 帰国 (kikoku, "returning to their home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in *shuk-koku* is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes a staff member's Japanese sound noticeably more natural.
+The most common mix-up is between 出国 and 出発. Both involve leaving somewhere, but 出国 is specifically about crossing a national border at an official checkpoint, while 出発 is general-purpose. Note also: 出国 and 帰国 (kikoku, "returning to their home country") are different in feel. 帰国 carries the sense of going home, while 出国 is neutral about where the person is headed. On pronunciation, the double consonant in 出国 is a 促音 (sokuon): give it a beat of pause rather than running the two syllables together smoothly. Getting this right makes a staff member's Japanese sound noticeably more natural.
 
 ---
 

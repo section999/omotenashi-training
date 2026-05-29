@@ -25,17 +25,14 @@ Guest information management is handled strictly in accordance with our privacy 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">管理職 (kanrishoku)</span> a management position or managerial role; the staff category formally responsible for 管理 within a department or across the hotel
-<br><br>
-<span class="keigo-badge info">品質管理 (hinshitsu kanri)</span> quality management, the specific application of 管理 principles to maintaining consistent service and product standards throughout hotel operations
-</div>
+| Expression | Description |
+|---|---|
+| 管理職<br>kanrishoku | a management position or managerial role; the staff category formally responsible for 管理 within a department or across the hotel |
+| 品質管理<br>hinshitsu kanri | quality management, the specific application of 管理 principles to maintaining consistent service and product standards throughout hotel operations |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to use 管理 and 経営 (keiei: business management, running a company) interchangeably, but they operate at very different levels. 管理 is about controlling and overseeing specific resources or processes inside an organisation, while 経営 refers to the strategic direction of the entire business. Staff should not use 管理 when talking about how a company is run at a boardroom level. Another common mistake is using 管理する without enough context -- saying 管理した on its own leaves the listener wondering what was managed. It is important to be specific: 在庫を管理する, 品質を管理する, and so on.
-</div>
 
 ---
 ## Quiz

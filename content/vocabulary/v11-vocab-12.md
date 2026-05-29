@@ -25,9 +25,10 @@ May I leave a message? Could you please call me back?
 
 ## Related Expressions
 
-- **伝言**: the more traditional and formal word for a message relayed between people; 伝言 implies personal accountability and is preferred in formal phone scripts, while メッセージ suits broader and more modern contexts.
-- **留守番電話**: voicemail, which is itself a recorded form of メッセージ; knowing the difference helps staff route or retrieve communications correctly.
-
+| Expression | Description |
+|---|---|
+| 伝言 | the more traditional and formal word for a message relayed between people; 伝言 implies personal accountability and is preferred in formal phone scripts, while メッセージ suits broader and more modern contexts. |
+| 留守番電話 | voicemail, which is itself a recorded form of メッセージ; knowing the difference helps staff route or retrieve communications correctly. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ The break room is at the back of the staff area. Please feel free to use it.
 
 ## Related Expressions
 
-- **休み (yasumi)**: a day off, not a break within a shift. Both involve rest, which makes them easy to mix up, but they operate at completely different scales.
-- **残業 (zangyou)**: overtime; the opposite end of the spectrum. Frequent 残業 can eat into the 休憩 time employees are legally entitled to, raising both legal and staff welfare concerns.
-
+| Expression | Description |
+|---|---|
+| 休み<br>yasumi | a day off, not a break within a shift. Both involve rest, which makes them easy to mix up, but they operate at completely different scales. |
+| 残業<br>zangyou | overtime; the opposite end of the spectrum. Frequent 残業 can eat into the 休憩 time employees are legally entitled to, raising both legal and staff welfare concerns. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ I'm very sorry to trouble you, but could you say that once more? I will read it 
 
 ## Related Expressions
 
-- **もう一度おっしゃっていただけますか (mouichido osshatte itadakemasu ka)**: the more formal and respectful variant that uses the honorific verb おっしゃる; this is the version appropriate for luxury hotel contexts where every word choice reflects on the property
-- **復唱します (fukushou shimasu)**: "I will repeat it back"; the essential follow-up after a repetition request, confirming that the information was captured correctly and closing the communication loop
-
+| Expression | Description |
+|---|---|
+| もう一度おっしゃっていただけますか<br>mouichido osshatte itadakemasu ka | the more formal and respectful variant that uses the honorific verb おっしゃる; this is the version appropriate for luxury hotel contexts where every word choice reflects on the property |
+| 復唱します<br>fukushou shimasu | "I will repeat it back"; the essential follow-up after a repetition request, confirming that the information was captured correctly and closing the communication loop |
 
 ## Common Mistakes
 

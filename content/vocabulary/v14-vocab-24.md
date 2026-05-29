@@ -26,17 +26,14 @@ You can top up your IC card at station ticket vending machines at any time.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">Suica (スイカ)</span> the most widely used ICカード in eastern Japan, issued by JR East; the name plays on 水か (like water) and sui ca (from "swipe card"), and the penguin mascot is instantly recognizable to most guests
-<br><br>
-<span class="keigo-badge info">チャージ (chaaiji)</span> topping up or reloading money onto an ICカード; borrowed from the English "charge," this is the word everyone uses when adding balance at a vending machine or convenience store
-</div>
+| Expression | Description |
+|---|---|
+| Suica<br>スイカ | the most widely used ICカード in eastern Japan, issued by JR East; the name plays on 水か (like water) and sui ca (from "swipe card"), and the penguin mascot is instantly recognizable to most guests |
+| チャージ<br>chaaiji | topping up or reloading money onto an ICカード; borrowed from the English "charge," this is the word everyone uses when adding balance at a vending machine or convenience store |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to assume an ICカード from one region works everywhere in Japan. Most major cards do have nationwide compatibility these days, but some older or regional cards still have limits, so confirming coverage is always a good idea. A grammatical slip worth watching: the natural particle for topping up is に, not を, so say ICカードにチャージする rather than ICカードをチャージする. However, both are understood in conversation, so this is more about sounding natural than avoiding misunderstanding. Additionally, staff should not mix up ICカード (the transport and payment card) with クレジットカード (credit card). When a guest asks about "paying by card" at the hotel, it is worth checking which type of card is meant before assuming.
-</div>
 
 ---
 

@@ -25,9 +25,10 @@ If you would like to use the laundry service, please let us know at the front de
 
 ## Related Expressions
 
-- **使用 (shiyou)**: also means "use," but tends to refer to the physical operation of an object or device, such as 機器の使用 (use of equipment). 利用 is broader and more relational, implying using a service that someone has provided, which makes it the preferred word in guest-staff interactions.
-- **活用 (katsuyou)**: means "to make full or effective use of," with a nuance of maximising potential. It is not standard in everyday hospitality phrases, but appears in marketing copy like 「施設を最大限にご活用ください」 (please make the most of our facilities). It is noticeably stronger and more emphatic than 利用.
-
+| Expression | Description |
+|---|---|
+| 使用<br>shiyou | also means "use," but tends to refer to the physical operation of an object or device, such as 機器の使用 (use of equipment). 利用 is broader and more relational, implying using a service that someone has provided, which makes it the preferred word in guest-staff interactions. |
+| 活用<br>katsuyou | means "to make full or effective use of," with a nuance of maximising potential. It is not standard in everyday hospitality phrases, but appears in marketing copy like 「施設を最大限にご活用ください」 (please make the most of our facilities). It is noticeably stronger and more emphatic than 利用. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ The staircase is at the end of the corridor, to the right of the elevator hall.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">非常階段 (hijou kaidan)</span> emergency staircase; specifically designated for evacuation use and often marked with green emergency exit signs; always indicate this route during safety briefings.
-<br><br>
-<span class="keigo-badge info">エレベーター (erebeetaa)</span> elevator; the standard alternative for multi-floor travel, but never to be used during a fire or emergency evacuation; contrasting these two clearly in training prevents dangerous guest behavior.
-</div>
+| Expression | Description |
+|---|---|
+| 非常階段<br>hijou kaidan | emergency staircase; specifically designated for evacuation use and often marked with green emergency exit signs; always indicate this route during safety briefings. |
+| エレベーター<br>erebeetaa | elevator; the standard alternative for multi-floor travel, but never to be used during a fire or emergency evacuation; contrasting these two clearly in training prevents dangerous guest behavior. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Plain language during emergencies, such as 「階段を使ってください」, is understood but the more composed 「階段をご利用ください」 maintains staff authority and calm. When multiple stairwells exist, always specify which one by naming the location with a landmark such as 「廊下の突き当たりの」. Guests should never be left to assume that elevators are forbidden during fires, always state it explicitly alongside the instruction to use the stairs.
-</div>
 
 ---
 

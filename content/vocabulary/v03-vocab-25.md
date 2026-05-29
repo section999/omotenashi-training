@@ -25,9 +25,10 @@ For safety reasons, the window is designed to open only to a certain width.
 
 ## Related Expressions
 
-- **カーテン (kaaten)**: curtain, 窓 and カーテン are almost always handled together in room orientation; guests need to understand both light control and privacy, so 「カーテンをお引きください」 (please draw the curtains) is a natural companion to window guidance
-- **景色 (keshiki)**: view or scenery, when the room has something worth seeing outside, 景色 is how one name it; 「窓から富士山の景色がご覧いただけます」 pairs the two words in a natural and memorable hospitality expression
-
+| Expression | Description |
+|---|---|
+| カーテン<br>kaaten | curtain, 窓 and カーテン are almost always handled together in room orientation; guests need to understand both light control and privacy, so 「カーテンをお引きください」 (please draw the curtains) is a natural companion to window guidance |
+| 景色<br>keshiki | view or scenery, when the room has something worth seeing outside, 景色 is how one name it; 「窓から富士山の景色がご覧いただけます」 pairs the two words in a natural and memorable hospitality expression |
 
 ## Common Mistakes
 

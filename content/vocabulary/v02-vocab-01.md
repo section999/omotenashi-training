@@ -27,17 +27,14 @@ We are able to hold your luggage at the front desk.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">受付 (uketsuke)</span> a broader term for any reception counter; フロント specifically implies a hotel front desk, while 受付 can apply to clinics, offices, or event venues.
-<br><br>
-<span class="keigo-badge info">フロント係 (furonto kakari)</span> the staff member(s) assigned to the front desk; use this term when referring to a person rather than the location itself.
-</div>
+| Expression | Description |
+|---|---|
+| 受付<br>uketsuke | a broader term for any reception counter; フロント specifically implies a hotel front desk, while 受付 can apply to clinics, offices, or event venues. |
+| フロント係<br>furonto kakari | the staff member(s) assigned to the front desk; use this term when referring to a person rather than the location itself. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 Using フロント with overly casual sentence-ending forms such as フロントはあそこです should be avoided, because while grammatically correct, it lacks the formality expected in hotel service; the copula should always be elevated to でございます. A second common error is using the word interchangeably with 受付: although the meanings overlap, フロント carries a hotel-specific nuance that 受付 does not always share. Finally, omitting the location marker は or が should also be avoided, since saying フロントこちら sounds incomplete and unprofessional.
-</div>
 
 ---
 
@@ -52,4 +49,4 @@ Using フロント with overly casual sentence-ending forms such as フロント
 
 **Correct Answer:** フロントはこちらでございます (the front desk is here)
 
-**Explanation:** *Furonto wa kochira de gozaimasu* pairs the most polite copula *de gozaimasu* with the respectful directional *kochira*, which together guide a lost guest with warmth rather than just a pointed finger. The other options either shift focus to the staff member's actions or use casual forms that drop below the register expected at a hotel front desk.
+**Explanation:** *Furonto wa kochira de gozaimasu* pairs the most polite copula *de gozaimasu* with the respectful directional こちら, which together guide a lost guest with warmth rather than just a pointed finger. The other options either shift focus to the staff member's actions or use casual forms that drop below the register expected at a hotel front desk.

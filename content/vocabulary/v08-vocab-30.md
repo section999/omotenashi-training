@@ -25,9 +25,10 @@ There is a safety box under the bed, so please take note.
 
 ## Related Expressions
 
-- **地下 (chika)**: Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when staff is directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue.
-- **上 (ue)**: Above or up, the direct opposite of 下. Mastering both together helps staff handle any vertical direction question.
-
+| Expression | Description |
+|---|---|
+| 地下<br>chika | Underground or basement, a compound of 地 (ground) and 下 (below). More specific than 下 alone when staff is directing guests to numbered basement floors. Use 地下 for the floor reference and 下 for the directional cue. |
+| 上<br>ue | Above or up, the direct opposite of 下. Mastering both together helps staff handle any vertical direction question. |
 
 ## Common Mistakes
 

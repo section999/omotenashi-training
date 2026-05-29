@@ -25,9 +25,10 @@ New staff must attend a safety training session on their first day.
 
 ## Related Expressions
 
-- **安全確認 (anzen kakunin)**: safety check; the specific act of verifying that a space, piece of equipment, or procedure meets safety standards before use; more active and procedural than 安全 used alone
-- **安心 (anshin)**: peace of mind; related to 安全 but describing the psychological feeling of reassurance rather than the objective physical state of being safe; in omotenashi, staff aim to give guests both 安全 (actual safety) and 安心 (the feeling of safety)
-
+| Expression | Description |
+|---|---|
+| 安全確認<br>anzen kakunin | safety check; the specific act of verifying that a space, piece of equipment, or procedure meets safety standards before use; more active and procedural than 安全 used alone |
+| 安心<br>anshin | peace of mind; related to 安全 but describing the psychological feeling of reassurance rather than the objective physical state of being safe; in omotenashi, staff aim to give guests both 安全 (actual safety) and 安心 (the feeling of safety) |
 
 ## Common Mistakes
 

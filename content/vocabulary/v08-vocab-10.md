@@ -26,17 +26,14 @@ The executive suite is on the top floor: please press the 15th-floor button in t
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ペントハウス (pentohousu)</span> "penthouse," a loanword used specifically for luxury top-floor suites in upscale urban hotels; more specific than 最上階, which refers to the entire floor rather than a single suite
-<br><br>
-<span class="keigo-badge info">屋上 (okujou)</span> "rooftop," referring to the open area on top of the building's roof, accessible from or above 最上階; used for rooftop gardens, outdoor terraces, or rooftop bars that are literally above the top interior floor
-</div>
+| Expression | Description |
+|---|---|
+| ペントハウス<br>pentohousu | "penthouse," a loanword used specifically for luxury top-floor suites in upscale urban hotels; more specific than 最上階, which refers to the entire floor rather than a single suite |
+| 屋上<br>okujou | "rooftop," referring to the open area on top of the building's roof, accessible from or above 最上階; used for rooftop gardens, outdoor terraces, or rooftop bars that are literally above the top interior floor |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is treating 最上階 as a complete answer without naming the actual floor number, which leaves guests unable to use the elevator correctly. Providing both (最上階の〇階) makes the information actionable. A common error is to confuse 最上階 with 屋上: 最上階 is an enclosed interior floor, while 屋上 is the open outdoor roof level. These are different spaces, and mixing them up will send guests to the wrong place. Using 最上階です as a complete answer without mentioning elevator access or the floor number is insufficient for guest guidance. Effective responses pair the word with the view, the amenity, and the elevator number.
-</div>
 
 ---
 ## Quiz

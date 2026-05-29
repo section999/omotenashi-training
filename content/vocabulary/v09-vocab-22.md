@@ -24,9 +24,10 @@ If the reservation change deadline has passed, a cancellation fee may apply.
 
 ## Related Expressions
 
-- **締め切り (shimekiri)**: a near-synonym for 期限, literally "closing off," but more at home in business or publishing contexts for submission deadlines; in hotel communication 期限 is the standard term for reservation-related cutoffs, while 締め切り might surface in event registration or special request scenarios.
-- **有効期限 (yuukou kigen)**: "expiry date" or "validity period," a compound that attaches 期限 to items like gift vouchers, loyalty points, membership status, or payment cards; recognise this when a guest asks about an expiring voucher or whether their accumulated points are still valid.
-
+| Expression | Description |
+|---|---|
+| 締め切り<br>shimekiri | a near-synonym for 期限, literally "closing off," but more at home in business or publishing contexts for submission deadlines; in hotel communication 期限 is the standard term for reservation-related cutoffs, while 締め切り might surface in event registration or special request scenarios. |
+| 有効期限<br>yuukou kigen | "expiry date" or "validity period," a compound that attaches 期限 to items like gift vouchers, loyalty points, membership status, or payment cards; recognise this when a guest asks about an expiring voucher or whether their accumulated points are still valid. |
 
 ## Common Mistakes
 

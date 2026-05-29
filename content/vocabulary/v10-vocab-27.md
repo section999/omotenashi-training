@@ -24,9 +24,10 @@ Would it be possible to break this 10,000-yen note into 1,000-yen notes?
 
 ## Related Expressions
 
-- **為替レート (kawase reeto)**: the exchange rate applied during 両替; guests may ask about this before proceeding
-- **両替所 (ryougaejo)**: a dedicated currency exchange counter or bureau; used when the hotel cannot perform the exchange directly
-
+| Expression | Description |
+|---|---|
+| 為替レート<br>kawase reeto | the exchange rate applied during 両替; guests may ask about this before proceeding |
+| 両替所<br>ryougaejo | a dedicated currency exchange counter or bureau; used when the hotel cannot perform the exchange directly |
 
 ## Common Mistakes
 

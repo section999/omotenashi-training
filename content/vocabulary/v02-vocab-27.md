@@ -25,17 +25,14 @@ I will prepare an additional card key for you. Please wait a moment.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">ルームキー (rūmu kī)</span> room key as a functional concept. カードキー describes the physical form of the key, while ルームキー describes its purpose. In most modern hotels, these terms refer to the same object, but ルームキー is the broader category term and カードキー specifies the card format.
-<br><br>
-<span class="keigo-badge info">磁気カード (jiki kādo)</span> magnetic stripe card. Some older properties use magnetic stripe systems that are more prone to demagnetization (e.g., from proximity to mobile phones). Staff at such properties should proactively advise guests to keep their カードキー away from electronic devices to prevent access issues.
-</div>
+| Expression | Description |
+|---|---|
+| ルームキー<br>rūmu kī | room key as a functional concept. カードキー describes the physical form of the key, while ルームキー describes its purpose. In most modern hotels, these terms refer to the same object, but ルームキー is the broader category term and カードキー specifies the card format. |
+| 磁気カード<br>jiki kādo | magnetic stripe card. Some older properties use magnetic stripe systems that are more prone to demagnetization (e.g., from proximity to mobile phones). Staff at such properties should proactively advise guests to keep their カードキー away from electronic devices to prevent access issues. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common service lapse is presenting the カードキー without showing or explaining how it works. For guests unfamiliar with card key systems, a brief explanation (カードをかざしてドアを開けてください) prevents frustration at the room door. When a guest reports a lost key, the correct professional response is to verify identity first, then issue a replacement discreetly without drawing attention to the loss in a way that embarrasses the guest. Staff should also deactivate the lost card before programming a replacement, as this is a security requirement.
-</div>
 
 ---
 

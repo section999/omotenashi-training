@@ -24,9 +24,10 @@ We ask that you enter your PIN yourself.
 
 ## Related Expressions
 
-- **署名 (shomei)**: signature; an alternative to 暗証番号 for authorizing card payments, depending on card type and terminal setting, so staff should be familiar with which terminals at the property require it
-- **セキュリティコード (sekyuriti kōdo)**: security code (CVV/CVC); a different numeric code found on the back of a card, used for online transactions only, not for in-person PIN entry
-
+| Expression | Description |
+|---|---|
+| 署名<br>shomei | signature; an alternative to 暗証番号 for authorizing card payments, depending on card type and terminal setting, so staff should be familiar with which terminals at the property require it |
+| セキュリティコード<br>sekyuriti kōdo | security code (CVV/CVC); a different numeric code found on the back of a card, used for online transactions only, not for in-person PIN entry |
 
 ## Common Mistakes
 

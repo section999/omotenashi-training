@@ -25,9 +25,10 @@ If you experience any inconvenience during the stay, please let us know at the f
 
 ## Related Expressions
 
-- **宿泊 (shukuhaku)**: focused specifically on overnight accommodation; 滞在 is broader and can include day-use visits, while 宿泊 always implies spending at least one night
-- **お過ごし (o-sugoshi)**: a warmer, softer expression for how the guest is spending their time; used in phrases like お過ごしはいかがでしょうか as a gentle check on the guest's comfort during their stay
-
+| Expression | Description |
+|---|---|
+| 宿泊<br>shukuhaku | focused specifically on overnight accommodation; 滞在 is broader and can include day-use visits, while 宿泊 always implies spending at least one night |
+| お過ごし<br>o-sugoshi | a warmer, softer expression for how the guest is spending their time; used in phrases like お過ごしはいかがでしょうか as a gentle check on the guest's comfort during their stay |
 
 ## Common Mistakes
 

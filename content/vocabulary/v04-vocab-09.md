@@ -24,9 +24,10 @@ I have placed a fresh bar of soap next to the bathroom sink.
 
 ## Related Expressions
 
-- **液体石鹸 (ekitai sekken)**: liquid soap; increasingly common in hotels as a cleaner and more eco-friendly alternative to bar soap, so know the refill process at their property.
-- **アメニティ (ameniti)**: amenities; the collective term for bathroom supplies including 石鹸, shampoo, conditioner, and toothbrush, useful when discussing the full bathroom provision as a group.
-
+| Expression | Description |
+|---|---|
+| 液体石鹸<br>ekitai sekken | liquid soap; increasingly common in hotels as a cleaner and more eco-friendly alternative to bar soap, so know the refill process at their property. |
+| アメニティ<br>ameniti | amenities; the collective term for bathroom supplies including 石鹸, shampoo, conditioner, and toothbrush, useful when discussing the full bathroom provision as a group. |
 
 ## Common Mistakes
 

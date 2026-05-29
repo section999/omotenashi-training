@@ -25,9 +25,10 @@ If you have any questions at all, please contact us at any time.
 
 ## Related Expressions
 
-- **お問い合わせ (otoiawase)**: an inquiry or question from a guest; ご連絡 is the broader term for any form of contact, while お問い合わせ specifically describes a guest reaching out with a question or request.
-- **折り返し (orikaeshi)**: a return call or response; 折り返しご連絡いたします is a common phrases in hospitality and combines both concepts neatly, with ご連絡 as the act and 折り返し specifying that it is a response to prior contact.
-
+| Expression | Description |
+|---|---|
+| お問い合わせ<br>otoiawase | an inquiry or question from a guest; ご連絡 is the broader term for any form of contact, while お問い合わせ specifically describes a guest reaching out with a question or request. |
+| 折り返し<br>orikaeshi | a return call or response; 折り返しご連絡いたします is a common phrases in hospitality and combines both concepts neatly, with ご連絡 as the act and 折り返し specifying that it is a response to prior contact. |
 
 ## Common Mistakes
 

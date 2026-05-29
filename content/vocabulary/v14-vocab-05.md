@@ -23,8 +23,10 @@ If you have any issues with entry, please consult the immigration management cou
 
 ## Related Expressions
 
-- **出国 (shukkoku)**: the direct opposite of 入国, referring to the process of leaving Japan; the procedures mirror each other but happen at different points in the guest's journey.
-- **入国審査 (nyuukoku shinsa)**: immigration screening specifically, the officer-conducted check that forms part of the broader 入国 process; knowing this distinction helps staff use each term precisely.
+| Expression | Description |
+|---|---|
+| 出国<br>shukkoku | the direct opposite of 入国, referring to the process of leaving Japan; the procedures mirror each other but happen at different points in the guest's journey. |
+| 入国審査<br>nyuukoku shinsa | immigration screening specifically, the officer-conducted check that forms part of the broader 入国 process; knowing this distinction helps staff use each term precisely. |
 
 ## Common Mistakes
 

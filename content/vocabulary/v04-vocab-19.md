@@ -25,17 +25,14 @@ The repair is scheduled to be completed today.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">破損 (hason)</span> The damage that necessitates a repair. 破損 describes what is wrong; 修理 describes what will be done about it. Using both together: 破損を確認し、修理を手配いたします: forms a complete professional response.
-<br><br>
-<span class="keigo-badge info">点検 (tenken)</span> Inspection or checking. 点検 is the preventive activity that catches potential problems before they become 破損, whereas 修理 is the corrective response after a problem has already occurred.
-</div>
+| Expression | Description |
+|---|---|
+| 破損<br>hason | The damage that necessitates a repair. 破損 describes what is wrong; 修理 describes what will be done about it. Using both together: 破損を確認し、修理を手配いたします: forms a complete professional response. |
+| 点検<br>tenken | Inspection or checking. 点検 is the preventive activity that catches potential problems before they become 破損, whereas 修理 is the corrective response after a problem has already occurred. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to confuse 修理 with 交換 (koukan: replacement). The distinction matters: 修理 means fixing the existing item, while 交換 means swapping it out entirely. Using the wrong word creates mismatched expectations. Also, 修理します in plain form sounds too direct when speaking to guests: the humble 修理を手配いたします is more appropriate because it shows that action is being arranged on the guest's behalf. Vague timeframes should also be avoided: 修理 should be followed with a specific commitment like 本日中に (today) or すぐに (immediately).
-</div>
 
 ---
 

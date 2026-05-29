@@ -25,9 +25,10 @@ For last-minute reservation guests, please be aware that we may not be able to o
 
 ## Related Expressions
 
-- **当日予約 (toujitsu yoyaku)**: same-day reservation, the broader category that includes 直前予約. A 当日予約 made in the morning for an evening check-in can allow several hours for preparation. 直前予約 implies the guest is arriving very soon, which changes the urgency level.
-- **飛び込み (tobikomi)**: walk-in guest with no reservation at all, more urgent than 直前予約 since there is zero advance notice for the room to be readied.
-
+| Expression | Description |
+|---|---|
+| 当日予約<br>toujitsu yoyaku | same-day reservation, the broader category that includes 直前予約. A 当日予約 made in the morning for an evening check-in can allow several hours for preparation. 直前予約 implies the guest is arriving very soon, which changes the urgency level. |
+| 飛び込み<br>tobikomi | walk-in guest with no reservation at all, more urgent than 直前予約 since there is zero advance notice for the room to be readied. |
 
 ## Common Mistakes
 

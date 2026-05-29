@@ -25,17 +25,14 @@ If you do not require cleaning, please hang the'No Cleaning' card on the door ha
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">掃除 (souji)</span> The everyday, casual term for cleaning, typically used in domestic or informal settings. In professional hotel communication, 清掃 is always preferred over 掃除 as it conveys a higher level of formality and seriousness about cleanliness standards.
-<br><br>
-<span class="keigo-badge info">ハウスキーピング (hausu kiipingu)</span> The loanword for "housekeeping," referring to the entire department responsible for 清掃 and room maintenance. In larger international hotels, staff may use both terms; ハウスキーピング for the department and 清掃 for the act of cleaning itself.
-</div>
+| Expression | Description |
+|---|---|
+| 掃除<br>souji | The everyday, casual term for cleaning, typically used in domestic or informal settings. In professional hotel communication, 清掃 is always preferred over 掃除 as it conveys a higher level of formality and seriousness about cleanliness standards. |
+| ハウスキーピング<br>hausu kiipingu | The loanword for "housekeeping," referring to the entire department responsible for 清掃 and room maintenance. In larger international hotels, staff may use both terms; ハウスキーピング for the department and 清掃 for the act of cleaning itself. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common mistake is using 掃除 instead of 清掃 in formal guest-facing contexts. It sounds too casual for professional hotel communication, and experienced guests will notice the register gap. Stating the cleaning time without specifying what that means is another frequent lapse, saying 「10時に清掃します」 without clarifying whether guests should vacate or can schedule around their plans leaves things vague. Forgetting to mention the do-not-disturb card option is also a missed service opportunity; many guests appreciate having that choice and prefer to be told proactively rather than having to ask.
-</div>
 
 ---
 

@@ -24,9 +24,10 @@ I have understood the situation, and I will coordinate with the relevant departm
 
 ## Related Expressions
 
-- **かしこまりました (kashikomarimashita)**: the most formal keigo acknowledgment of understanding, used in luxury hotel settings to convey humble acceptance of a guest's instruction; the preferred phrase over 理解しました in high-end establishments
-- **承知しました (shouchi shimashita)**: "I have acknowledged / I understand"; similar in formality to 理解しました but with a nuance of having received and accepted instructions or information as valid
-
+| Expression | Description |
+|---|---|
+| かしこまりました<br>kashikomarimashita | the most formal keigo acknowledgment of understanding, used in luxury hotel settings to convey humble acceptance of a guest's instruction; the preferred phrase over 理解しました in high-end establishments |
+| 承知しました<br>shouchi shimashita | "I have acknowledged / I understand"; similar in formality to 理解しました but with a nuance of having received and accepted instructions or information as valid |
 
 ## Common Mistakes
 

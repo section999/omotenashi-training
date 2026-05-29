@@ -23,8 +23,10 @@ This hotel is very popular among foreign travelers.
 
 ## Related Expressions
 
-- **海外からのお客様 (kaigai kara no okyakusama)**: a softer, guest-facing way to refer to international visitors; staff should use this when speaking directly with or about guests, since it sounds warmer and more welcoming than the more clinical 外国人.
-- **インバウンド (inbaundo)**: the industry term for inbound foreign tourism to Japan; staff will hear this in business strategy meetings and marketing discussions, but not in direct guest conversation.
+| Expression | Description |
+|---|---|
+| 海外からのお客様<br>kaigai kara no okyakusama | a softer, guest-facing way to refer to international visitors; staff should use this when speaking directly with or about guests, since it sounds warmer and more welcoming than the more clinical 外国人. |
+| インバウンド<br>inbaundo | the industry term for inbound foreign tourism to Japan; staff will hear this in business strategy meetings and marketing discussions, but not in direct guest conversation. |
 
 ## Common Mistakes
 

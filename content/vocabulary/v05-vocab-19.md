@@ -25,9 +25,10 @@ May I prepare a steak knife for you?
 
 ## Related Expressions
 
-- **フォーク (fooku)**: Fork. ナイフ and フォーク are the two primary Western cutlery items and are almost always mentioned together in table setting and service contexts; knowing both lets one address a guest's full cutlery needs in a single statement.
-- **箸 (hashi)**: Chopsticks. When a guest prefers Japanese-style utensils or when the dish is Japanese cuisine, 箸 may replace or accompany Western cutlery; being able to offer both ナイフ・フォーク and 箸 shows attentiveness to guest preference.
-
+| Expression | Description |
+|---|---|
+| フォーク<br>fooku | Fork. ナイフ and フォーク are the two primary Western cutlery items and are almost always mentioned together in table setting and service contexts; knowing both lets one address a guest's full cutlery needs in a single statement. |
+| 箸<br>hashi | Chopsticks. When a guest prefers Japanese-style utensils or when the dish is Japanese cuisine, 箸 may replace or accompany Western cutlery; being able to offer both ナイフ・フォーク and 箸 shows attentiveness to guest preference. |
 
 ## Common Mistakes
 

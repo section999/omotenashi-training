@@ -25,9 +25,10 @@ For payments in foreign currency, today's exchange rate will be applied.
 
 ## Related Expressions
 
-- **両替 (ryougae)**: 両替 is the act of exchanging currency, the service guests most often need when they have 外貨; staff should be able to explain whether it's available on-site, the service hours, and any 手数料 that applies.
-- **為替 (kawase)**: 為替 refers to the exchange rate used to convert 外貨 into Japanese yen; the 外貨 is the currency itself, and the 為替 is the mechanism that determines its value in yen.
-
+| Expression | Description |
+|---|---|
+| 両替<br>ryougae | 両替 is the act of exchanging currency, the service guests most often need when they have 外貨; staff should be able to explain whether it's available on-site, the service hours, and any 手数料 that applies. |
+| 為替<br>kawase | 為替 refers to the exchange rate used to convert 外貨 into Japanese yen; the 外貨 is the currency itself, and the 為替 is the mechanism that determines its value in yen. |
 
 ## Common Mistakes
 

@@ -26,17 +26,14 @@ The pool is on basement level 1: turn left after exiting the elevator.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">地下二階 (chika nikai)</span> "basement level 2 (B2)"; used when the building has a second basement level, often for deeper parking or utility areas; staff must distinguish clearly between B1 and B2 in their directions
-<br><br>
-<span class="keigo-badge info">地下 (chika)</span> the general, non-specific term for "basement"; appropriate only when there is a single basement level or when the exact level is unknown; 地下一階 is preferred when the specific floor is known
-</div>
+| Expression | Description |
+|---|---|
+| 地下二階<br>chika nikai | "basement level 2 (B2)"; used when the building has a second basement level, often for deeper parking or utility areas; staff must distinguish clearly between B1 and B2 in their directions |
+| 地下<br>chika | the general, non-specific term for "basement"; appropriate only when there is a single basement level or when the exact level is unknown; 地下一階 is preferred when the specific floor is known |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A critical error is pronouncing 地下一階 as chika-ichi-kai; the correct reading is chika-ikkai, following the double-k pattern of other 一階 compounds. Directing guests to 地下 without specifying the B1 elevator button is also common; staff should mention the button alongside the floor name. Confusing 地下一階 with 地下二階 in a building with multiple basement levels is a navigational error that wastes guest time and reflects poorly on the property.
-</div>
 
 ---
 ## Quiz

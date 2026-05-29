@@ -24,9 +24,10 @@ The lines are currently congested, making it difficult to connect.
 
 ## Related Expressions
 
-- **内線 (naisen)**: The internal extension line within a hotel, a specific type of 回線 used for communication between rooms and departments. While 回線 refers to the broader channel, 内線 is a defined subset used in-house.
-- **外線 (gaisen)**: An external line connecting to the outside world, as opposed to the hotel's internal network. Both 内線 and 外線 operate on a 回線, but they serve different purposes and require different handling at the front desk.
-
+| Expression | Description |
+|---|---|
+| 内線<br>naisen | The internal extension line within a hotel, a specific type of 回線 used for communication between rooms and departments. While 回線 refers to the broader channel, 内線 is a defined subset used in-house. |
+| 外線<br>gaisen | An external line connecting to the outside world, as opposed to the hotel's internal network. Both 内線 and 外線 operate on a 回線, but they serve different purposes and require different handling at the front desk. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ The meal contents of this plan can be adjusted, so please feel free to consult u
 
 ## Related Expressions
 
-- **変更不可 (henkou fuka)**: the direct opposite, meaning no changes are permitted. On discounted or prepaid plans this restriction is common, and staff need to be upfront about it so guests don't assume a flexibility that isn't there.
-- **確定 (kakutei)**: once a booking reaches confirmed status, some elements that were previously flexible can shift to 変更不可. Knowing how 確定 interacts with 変更可能 helps one walk guests through the full reservation lifecycle clearly.
-
+| Expression | Description |
+|---|---|
+| 変更不可<br>henkou fuka | the direct opposite, meaning no changes are permitted. On discounted or prepaid plans this restriction is common, and staff need to be upfront about it so guests don't assume a flexibility that isn't there. |
+| 確定<br>kakutei | once a booking reaches confirmed status, some elements that were previously flexible can shift to 変更不可. Knowing how 確定 interacts with 変更可能 helps one walk guests through the full reservation lifecycle clearly. |
 
 ## Common Mistakes
 

@@ -25,17 +25,14 @@ In this city, we collect a separate accommodation tax of 200 yen.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">消費税 (shōhi-zei)</span> consumption tax; the specific type of 税金 most commonly referenced in hotel billing, currently 10% in Japan for most hospitality services.
-<br><br>
-<span class="keigo-badge info">税込み / 税抜き (zei-komi / zei-nuki)</span> tax-inclusive / tax-exclusive; the two key billing formats that guests frequently ask about when comparing rates.
-</div>
+| Expression | Description |
+|---|---|
+| 消費税<br>shōhi-zei | consumption tax; the specific type of 税金 most commonly referenced in hotel billing, currently 10% in Japan for most hospitality services. |
+| 税込み / 税抜き<br>zei-komi / zei-nuki | tax-inclusive / tax-exclusive; the two key billing formats that guests frequently ask about when comparing rates. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common confusion is between 税金 (zeikin, general term for tax) and 消費税 (shōhi-zei, consumption tax specifically): in hotel billing contexts, 消費税 is the precise term, though 税金 is understood. Saying 税金は別です (tax is separate) without specifying the amount or percentage leaves guests uncertain; always provide the rate or amount. Additionally, do not confuse 税込み (tax included) with 込み (included in general): when discussing pricing, always specify that it is tax that is included.
-</div>
 
 ---
 

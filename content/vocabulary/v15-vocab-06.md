@@ -26,17 +26,14 @@ If you need an iron, please let the front desk know and we will bring one to you
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">アイロン台 (airon dai)</span> the ironing board; guests almost always need both together, so staff should think of them as a set when preparing the room.
-<br><br>
-<span class="keigo-badge info">スチームアイロン (sutiimu airon)</span> a steam iron that emits moisture while pressing; a good choice for delicate fabrics or stubborn wrinkles that will not budge with dry heat alone.
-</div>
+| Expression | Description |
+|---|---|
+| アイロン台<br>airon dai | the ironing board; guests almost always need both together, so staff should think of them as a set when preparing the room. |
+| スチームアイロン<br>sutiimu airon | a steam iron that emits moisture while pressing; a good choice for delicate fabrics or stubborn wrinkles that will not budge with dry heat alone. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to say アイロンをする, which sounds a little off to native speakers. The natural collocation is アイロンをかける, literally "to apply the iron." In guest-facing speech, staff should use the polite form アイロンをおかけになる. アイロン (the appliance) and 鉄 (tetsu, iron the metal) are completely unrelated in daily speech, so there is no real risk of confusing guests in context. A good habit to build early is always advising guests to check care labels before pressing anything, especially with borrowed hotel irons where the temperature dial markings may be worn.
-</div>
 
 ---
 

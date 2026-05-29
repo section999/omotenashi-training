@@ -24,9 +24,10 @@ There is no processing fee when paying by credit card in a single payment.
 
 ## Related Expressions
 
-- **分割払い (bunkatsu barai)**: the opposite of 一括払い; payment split into multiple installments, which may incur additional fees depending on the card issuer.
-- **全額 (zengaku)**: "full amount"; used in related contexts such as 全額ご負担いただきます (staff will be responsible for the full amount), but not a payment method term itself.
-
+| Expression | Description |
+|---|---|
+| 分割払い<br>bunkatsu barai | the opposite of 一括払い; payment split into multiple installments, which may incur additional fees depending on the card issuer. |
+| 全額<br>zengaku | "full amount"; used in related contexts such as 全額ご負担いただきます (staff will be responsible for the full amount), but not a payment method term itself. |
 
 ## Common Mistakes
 

@@ -25,9 +25,10 @@ As soon as your lost item is found, we will contact you immediately.
 
 ## Related Expressions
 
-- **忘れ物 (wasuremono)**: an item left behind at a known location; less serious in implication than 紛失 and usually resolved by checking a specific room or area.
-- **紛失届 (funshitsu-todoke)**: a formal lost-item report filed with a police station; staff may need to walk guests through this process when an item cannot be recovered on-site.
-
+| Expression | Description |
+|---|---|
+| 忘れ物<br>wasuremono | an item left behind at a known location; less serious in implication than 紛失 and usually resolved by checking a specific room or area. |
+| 紛失届<br>funshitsu-todoke | a formal lost-item report filed with a police station; staff may need to walk guests through this process when an item cannot be recovered on-site. |
 
 ## Common Mistakes
 

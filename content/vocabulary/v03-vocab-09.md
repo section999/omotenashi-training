@@ -24,9 +24,10 @@ If you need an extra bed, we can also arrange an extra bed for you.
 
 ## Related Expressions
 
-- **布団 (futon)**: traditional Japanese floor bedding used in ryokan; the tatami-room alternative to the Western ベッド. If their property offers both styles, the difference should be explained warmly rather than assuming a preference.
-- **マットレス (mattoresu)**: mattress; comes up when guests discuss firmness preferences or ask for a softer or harder sleeping surface.
-
+| Expression | Description |
+|---|---|
+| 布団<br>futon | traditional Japanese floor bedding used in ryokan; the tatami-room alternative to the Western ベッド. If their property offers both styles, the difference should be explained warmly rather than assuming a preference. |
+| マットレス<br>mattoresu | mattress; comes up when guests discuss firmness preferences or ask for a softer or harder sleeping surface. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ The spa reception is on the basement level.
 
 ## Related Expressions
 
-- **フロント (furonto)**: the front desk, the primary service counter at a hotel's main entrance. While フロント is specific to the hotel's main front desk, 受付 is broader and can refer to any registration or reception point within a property. When directing guests to the main desk, either term works, but 受付 is slightly more formal.
-- **カウンター (kauntā)**: counter, often used to describe the physical structure of a service desk. In guest-facing speech, カウンター is less common than フロント or 受付, but it may appear in directions such as あちらのカウンターでお手続きいただけます (staff can complete the procedure at that counter).
-
+| Expression | Description |
+|---|---|
+| フロント<br>furonto | the front desk, the primary service counter at a hotel's main entrance. While フロント is specific to the hotel's main front desk, 受付 is broader and can refer to any registration or reception point within a property. When directing guests to the main desk, either term works, but 受付 is slightly more formal. |
+| カウンター<br>kauntā | counter, often used to describe the physical structure of a service desk. In guest-facing speech, カウンター is less common than フロント or 受付, but it may appear in directions such as あちらのカウンターでお手続きいただけます (staff can complete the procedure at that counter). |
 
 ## Common Mistakes
 

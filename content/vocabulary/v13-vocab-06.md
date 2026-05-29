@@ -25,9 +25,10 @@ In appreciation of your many years of dedicated service, we present you with thi
 
 ## Related Expressions
 
-- **シフト (shifuto)**: the specific scheduled time block for work; more concrete and scheduling-focused than 勤務, which is about the duty and period of service itself.
-- **業務 (gyoumu)**: the actual tasks and responsibilities carried out during 勤務. Where 勤務 describes the working period, 業務 describes what fills that period.
-
+| Expression | Description |
+|---|---|
+| シフト<br>shifuto | the specific scheduled time block for work; more concrete and scheduling-focused than 勤務, which is about the duty and period of service itself. |
+| 業務<br>gyoumu | the actual tasks and responsibilities carried out during 勤務. Where 勤務 describes the working period, 業務 describes what fills that period. |
 
 ## Common Mistakes
 

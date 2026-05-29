@@ -26,17 +26,14 @@ Tickets can be purchased at this vending machine here. It also supports English 
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">乗車券 (joushaken)</span> a more formal term for a boarding ticket; appears on official receipts and documentation, while 切符 is the natural word to use in spoken conversation
-<br><br>
-<span class="keigo-badge info">ICカード (IC kaado)</span> a rechargeable smart card that works as an electronic alternative to 切符 for most standard rail and bus journeys across Japan
-</div>
+| Expression | Description |
+|---|---|
+| 乗車券<br>joushaken | a more formal term for a boarding ticket; appears on official receipts and documentation, while 切符 is the natural word to use in spoken conversation |
+| ICカード<br>IC kaado | a rechargeable smart card that works as an electronic alternative to 切符 for most standard rail and bus journeys across Japan |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to assume one 切符 covers an entire journey, but in Japan, transferring between different railway companies (for example, JR to a private line) may require a separate 切符 for each operator unless a combined ticket covers the full route. This is a common source of confusion at the ticket gate, and a quick heads-up from hotel staff before guests leave can prevent a stressful experience. The other confusion that staff should watch for is between 切符 and チケット (chiketto): チケット is more commonly used for event, concert, or facility admission, not for transport. In hospitality contexts, 切符 for trains and 乗車券 for formal documentation are the natural choices.
-</div>
 
 ---
 

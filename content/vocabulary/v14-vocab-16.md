@@ -23,8 +23,10 @@ We recommend downloading the map app in advance so one can use it offline.
 
 ## Related Expressions
 
-- **ナビ (nabi)**: short for ナビゲーション (navigation); used for in-car GPS systems and can refer to any navigation function within a 地図アプリ
-- **道案内 (michi-annai)**: giving directions verbally or on foot; the human equivalent of what a 地図アプリ does, used by hotel staff when the app is unavailable or the guest needs a personal explanation
+| Expression | Description |
+|---|---|
+| ナビ<br>nabi | short for ナビゲーション (navigation); used for in-car GPS systems and can refer to any navigation function within a 地図アプリ |
+| 道案内<br>michi-annai | giving directions verbally or on foot; the human equivalent of what a 地図アプリ does, used by hotel staff when the app is unavailable or the guest needs a personal explanation |
 
 ## Common Mistakes
 

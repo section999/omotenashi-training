@@ -25,17 +25,14 @@ A consecutive-night discount applies for stays of 3 nights or more.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">日数 (nissuu)</span> counts calendar days rather than overnight units; used for day-based charges like parking or day-use facilities; always numerically one greater than 何泊 for a continuous stay.
-<br><br>
-<span class="keigo-badge info">連泊 (renpaku)</span> specifically means consecutive nights, often qualifying a guest for multi-night discounts; presupposes a 何泊 count of 2 or more.
-</div>
+| Expression | Description |
+|---|---|
+| 日数<br>nissuu | counts calendar days rather than overnight units; used for day-based charges like parking or day-use facilities; always numerically one greater than 何泊 for a continuous stay. |
+| 連泊<br>renpaku | specifically means consecutive nights, often qualifying a guest for multi-night discounts; presupposes a 何泊 count of 2 or more. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A common error is to confuse 何泊 with 何日 (how many days), answering questions about nights with a day count or vice versa. Saying 「3日です」 when the system shows a 2泊 stay can cause billing errors and guest confusion. Another mistake is using the counter 泊 incorrectly: the pronunciation changes with different numbers (一泊 = ippaku, 二泊 = nihaku, 三泊 = sanpaku, 六泊 = roppaku), and mispronouncing these in front of guests creates an unprofessional impression.
-</div>
 
 ---
 

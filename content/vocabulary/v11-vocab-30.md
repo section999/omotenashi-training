@@ -24,9 +24,10 @@ If you need a document translated, we will introduce you to a professional trans
 
 ## Related Expressions
 
-- **通訳 (tsuuyaku)**: spoken, oral interpretation, the counterpart to 翻訳. This distinction is important: 翻訳 is for text, 通訳 is for speech. Offering the wrong one when a guest needs help sends them in the wrong direction.
-- **翻訳ツール (hon'yaku tsuuru)**: translation software and AI-assisted tools. These come up in staff training discussions about when machine output is acceptable versus when human review is necessary. For guest-facing materials, human review is recommended.
-
+| Expression | Description |
+|---|---|
+| 通訳<br>tsuuyaku | spoken, oral interpretation, the counterpart to 翻訳. This distinction is important: 翻訳 is for text, 通訳 is for speech. Offering the wrong one when a guest needs help sends them in the wrong direction. |
+| 翻訳ツール<br>hon'yaku tsuuru | translation software and AI-assisted tools. These come up in staff training discussions about when machine output is acceptable versus when human review is necessary. For guest-facing materials, human review is recommended. |
 
 ## Common Mistakes
 

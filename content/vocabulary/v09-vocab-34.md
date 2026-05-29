@@ -25,17 +25,14 @@ Welcome, members of the [name] group. We have the room assignment guide prepared
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">個人予約 (kojin yoyaku)</span> individual reservation, the direct contrast to 団体予約. The standard one-to-one service model applies, with no need for the coordination infrastructure a group booking requires.
-<br><br>
-<span class="keigo-badge info">名簿 (meibo)</span> guest roster or manifest, the document listing all group members, typically provided by the organizer before arrival. It allows front desk staff to pre-assign rooms and keep check-in flowing smoothly when many people arrive at once.
-</div>
+| Expression | Description |
+|---|---|
+| 個人予約<br>kojin yoyaku | individual reservation, the direct contrast to 団体予約. The standard one-to-one service model applies, with no need for the coordination infrastructure a group booking requires. |
+| 名簿<br>meibo | guest roster or manifest, the document listing all group members, typically provided by the organizer before arrival. It allows front desk staff to pre-assign rooms and keep check-in flowing smoothly when many people arrive at once. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 One critical mistake with 団体予約 is failing to assign a dedicated internal coordinator before the group arrives. Without one clear point of contact, different members of the group will approach different staff with conflicting questions, and the inconsistent responses that result undermine confidence in the hotel. This problem escalates when 20 or 30 people arrive at the same time. Another common oversight is neglecting to coordinate meal plans with the kitchen in advance. The kitchen needs group dining details, guest count, arrival time, dietary requirements, and menu choices well in advance. A large group that arrives with undisclosed dining needs creates strain and risks long waits or compromised food quality.
-</div>
 
 ---
 ## Quiz

@@ -26,17 +26,14 @@ Please be careful not to add too much detergent, as it may leave residue on your
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">柔軟剤 (juunanai)</span> fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two.
-<br><br>
-<span class="keigo-badge info">漂白剤 (hyouhakuzai)</span> bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area.
-</div>
+| Expression | Description |
+|---|---|
+| 柔軟剤<br>juunanai | fabric softener; used after 洗剤 to add softness and a pleasant scent to laundry. It is a separate product and goes in a different compartment of the machine, so staff should make sure guests know not to mix the two. |
+| 漂白剤<br>hyouhakuzai | bleach; a strong cleaning agent for stain removal, not safe for coloured or delicate fabrics. Worth keeping clearly labelled and away from general 洗剤 in the laundry area. |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A straightforward but important mistake is confusing 洗剤 (senzai, detergent for clothes) with 洗浄剤 (senjouzai, cleaning agent for surfaces or equipment). They sound similar but are used in completely different contexts. The potentially costly error is mixing up 洗剤 and 柔軟剤: if a guest asks about softener and staff hand them detergent, the results will not be what they expected. In guest-facing speech, staff should avoid the blunt instruction 洗剤を入れてください. A more helpful and polite phrasing like こちらの洗剤をご使用ください fits the service context much better.
-</div>
 
 ---
 

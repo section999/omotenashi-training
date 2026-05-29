@@ -24,9 +24,10 @@ If you need a toothbrush, please let us know at the front desk and we will deliv
 
 ## Related Expressions
 
-- **歯磨き粉 (hamigakiko)**: toothpaste; provided alongside 歯ブラシ as a standard pair, so staff should check and replenish both at the same time.
-- **アメニティセット (ameniti setto)**: amenity set; the packaged collection of personal care items that typically includes 歯ブラシ, toothpaste, comb, and razor, standard in Japanese hotel rooms.
-
+| Expression | Description |
+|---|---|
+| 歯磨き粉<br>hamigakiko | toothpaste; provided alongside 歯ブラシ as a standard pair, so staff should check and replenish both at the same time. |
+| アメニティセット<br>ameniti setto | amenity set; the packaged collection of personal care items that typically includes 歯ブラシ, toothpaste, comb, and razor, standard in Japanese hotel rooms. |
 
 ## Common Mistakes
 

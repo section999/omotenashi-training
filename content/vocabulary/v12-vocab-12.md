@@ -25,9 +25,10 @@ The details of the accident were compiled in a report and submitted to the manag
 
 ## Related Expressions
 
-- **トラブル (toraburu)**: trouble; a loanword for operational problems or minor guest complaints that fall short of being a formal 事故. Using this word for a serious accident would come across as minimising what happened, so choose carefully based on severity.
-- **インシデント (inshidento)**: incident; a loanword that has grown more common in hospitality and medical settings, used for any unplanned event that required attention, including near-misses where no actual harm occurred but danger was present. It is broader than 事故 in that way.
-
+| Expression | Description |
+|---|---|
+| トラブル<br>toraburu | trouble; a loanword for operational problems or minor guest complaints that fall short of being a formal 事故. Using this word for a serious accident would come across as minimising what happened, so choose carefully based on severity. |
+| インシデント<br>inshidento | incident; a loanword that has grown more common in hospitality and medical settings, used for any unplanned event that required attention, including near-misses where no actual harm occurred but danger was present. It is broader than 事故 in that way. |
 
 ## Common Mistakes
 

@@ -24,9 +24,10 @@ I will submit the list of cleaned rooms to the front desk.
 
 ## Related Expressions
 
-- **清掃中 (seisou-chuu)**: the direct opposite, meaning cleaning is currently in progress; staff need both terms side by side if staff is going to communicate room status accurately.
-- **準備完了 (junbi kanryou)**: means "preparation complete"; a broader phrase that appears in restaurant and event settings, whereas 清掃済み stays specific to room-cleaning completion.
-
+| Expression | Description |
+|---|---|
+| 清掃中<br>seisou-chuu | the direct opposite, meaning cleaning is currently in progress; staff need both terms side by side if staff is going to communicate room status accurately. |
+| 準備完了<br>junbi kanryou | means "preparation complete"; a broader phrase that appears in restaurant and event settings, whereas 清掃済み stays specific to room-cleaning completion. |
 
 ## Common Mistakes
 

@@ -26,17 +26,14 @@ We have passed the last order time, which makes it difficult for us to take furt
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">開店 (kaiten)</span> opening; the direct opposite of 閉店; always a useful alternative reference to offer when a guest has missed tonight's service, as in 「明日の開店は7時でございます」
-<br><br>
-<span class="keigo-badge info">ラストオーダー (rasuto oodaa)</span> last order; the cut-off time for placing orders, typically 30 to 60 minutes before 閉店; worth distinguishing clearly, since guests sometimes arrive after last order but before closing and expect full service
-</div>
+| Expression | Description |
+|---|---|
+| 開店<br>kaiten | opening; the direct opposite of 閉店; always a useful alternative reference to offer when a guest has missed tonight's service, as in 「明日の開店は7時でございます」 |
+| ラストオーダー<br>rasuto oodaa | last order; the cut-off time for placing orders, typically 30 to 60 minutes before 閉店; worth distinguishing clearly, since guests sometimes arrive after last order but before closing and expect full service |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 A critical error is delivering 閉店 without an apology or alternative. This comes across as dismissive and directly contradicts omotenashi values. Pairing the closure with 申し訳ございません and a follow-up suggestion is recommended. 閉店 (the facility is closed) is sometimes confused with 満席 (fully booked, no seats available), particularly in restaurant contexts. These situations require completely different responses and must not be mixed up. The informal 「閉まっています」 does not meet the register expected in hotel service. The correct formal phrasing is 「すでに閉店しております」, which maintains a professional tone even when the answer is negative.
-</div>
 
 ---
 ## Quiz

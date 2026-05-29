@@ -25,17 +25,14 @@ Please note that all prices on the menu are exclusive of tax.
 
 ## Related Expressions
 
-<div class="keigo-card blue">
-<span class="keigo-badge info">税込 (zeikomi)</span> tax-inclusive; the stated price already includes consumption tax, making it the final amount
-<br><br>
-<span class="keigo-badge info">消費税 (shōhizei)</span> consumption tax; the 10% tax added to 税別 prices to arrive at the 税込 total
-</div>
+| Expression | Description |
+|---|---|
+| 税込<br>zeikomi | tax-inclusive; the stated price already includes consumption tax, making it the final amount |
+| 消費税<br>shōhizei | consumption tax; the 10% tax added to 税別 prices to arrive at the 税込 total |
 
 ## Common Mistakes
 
-<div class="keigo-card blue">
 The most common mistake is quoting a 税別 price without mentioning that tax will be added, leaving guests surprised at the final bill. Another common mistake is confusing 税別 with 税込 under pressure, particularly when a guest asks for clarification on the spot. When in doubt, staff should state both the 税別 price and the 税込 equivalent in the same sentence to eliminate ambiguity.
-</div>
 
 ---
 

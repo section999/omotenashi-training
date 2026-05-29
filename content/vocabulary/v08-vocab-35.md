@@ -25,9 +25,10 @@ To reach the shopping floor, please take this escalator up to the third floor.
 
 ## Related Expressions
 
-- **エレベーター (erebeetaa)**: Elevator, the enclosed cabin option. Recommended over エスカレーター for guests with luggage, strollers, wheelchairs, or any mobility needs. Knowing when to suggest this instead of the escalator is a practical skill, not just a vocabulary distinction.
-- **階段 (kaidan)**: Stairs, the manual option. Mention it when escalators and elevators are temporarily out of service, or when a guest specifically asks for the stairs. In normal service, it comes up less often than the other two.
-
+| Expression | Description |
+|---|---|
+| エレベーター<br>erebeetaa | Elevator, the enclosed cabin option. Recommended over エスカレーター for guests with luggage, strollers, wheelchairs, or any mobility needs. Knowing when to suggest this instead of the escalator is a practical skill, not just a vocabulary distinction. |
+| 階段<br>kaidan | Stairs, the manual option. Mention it when escalators and elevators are temporarily out of service, or when a guest specifically asks for the stairs. In normal service, it comes up less often than the other two. |
 
 ## Common Mistakes
 
