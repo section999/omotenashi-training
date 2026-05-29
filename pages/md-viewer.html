@@ -3135,6 +3135,11 @@ async function render() {
     /<td>([\u3040-\u30ff\u3400-\u9fff\uff00-\uffef\u3000-\u303f\u30a0-\u30ff\u3005]+)(<br>|<\/td>)/g,
     '<td><span class="jp-speak">$1</span>$2'
   );
+  // Wrap Example Sentences Japanese text in keigo-jp code blocks with jp-speak
+  bodyHtml = bodyHtml.replace(
+    /<span class="keigo-jp"><code>([\s\S]*?)<\/code><\/span>/g,
+    '<span class="keigo-jp"><span class="jp-speak">$1</span></span>'
+  );
 
   const stepIndicator = (sectionNum && total)
     ? `<div class="step-indicator">Step ${sectionNum} of ${total}</div>`
@@ -3302,13 +3307,12 @@ async function render() {
   if (bodyEl) {
     bodyEl.querySelectorAll('.jp-word').forEach(span => {
       if (span.closest('.dialogue')) return;
-      if (span.tagName === 'CODE') return; // keigo-jp code elements handled below
+      if (span.tagName === 'CODE') return;
       const p = span.parentNode;
       if (!p) return;
       p.replaceChild(document.createTextNode(span.textContent), span);
       p.normalize();
     });
-    // .keigo-jp code blocks: no TTS (only vocabulary table .jp-speak spans have TTS)
     // Add romaji to Key Phrases from the Dialogue tables
     bodyEl.querySelectorAll('h2').forEach(h2 => {
       if (h2.textContent.trim() !== 'Key Phrases from the Dialogue') return;
