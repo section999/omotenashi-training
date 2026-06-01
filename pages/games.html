@@ -942,14 +942,18 @@ var GameHangman={
     this.render();
   },
   next:function(){
-    var s=_gameState;s.index++;s.wrong=0;s.guessed=[];
+    var s=_gameState;
+    var w=s.words[s.index];
+    var won=w.jp.split('').every(function(c){return s.guessed.indexOf(c)>=0});
+    if(won)s.wonCount=(s.wonCount||0)+1;
+    s.index++;s.wrong=0;s.guessed=[];
     if(s.index>=s.words.length)this.showResult();else this.render();
   },
   showResult:function(){
     var s=_gameState;
-    var correct=s.words.length-(s.wrong>0?1:0);
-    _saveBest('hangman',s.words.length,true);
-    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">Complete!</div><div class="g-result-label">You finished all '+s.words.length+' words</div><div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
+    var correct=s.wonCount||0;
+    var isNewBest=_saveBest('hangman',correct,true);
+    var html='<button class="gh-back" onclick="showHub()">&#x2190; Back to Games</button><div class="g-title">&#x1F3AD; Hangman</div><div class="g-area"><div class="g-result"><div class="g-result-score">'+correct+'/'+s.words.length+'</div><div class="g-result-label">Words guessed correctly</div>'+(isNewBest?'<div class="g-newbest">NEW BEST!</div>':'')+'<div class="g-result-btns"><button class="g-btn g-btn-y" onclick="GameHangman._start()">Play Again</button><button class="g-btn g-btn-o" onclick="showHub()">Back to Games</button></div></div></div>';
     document.getElementById('main-content').innerHTML=html;
   }
 };
