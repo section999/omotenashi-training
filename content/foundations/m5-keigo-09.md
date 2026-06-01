@@ -48,10 +48,10 @@ When a third party (a colleague, a driver, another guest) is the subject, neithe
 
 <div class="keigo-card blue">
 <strong>Referring to a colleague to the guest:</strong><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>担当者がおります。</code></span><br><br>
+Wrong: <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+Correct: <span class="keigo-jp"><code>担当者がおります。</code></span><br><br>
 <strong>Referring to another hotel to the guest:</strong><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>近隣のホテルをご案内することができます。</code></span>
+<span class="keigo-jp"><code>近隣のホテルをご案内することができます。</code></span>
 </div>
 
 Using sonkeigo for a colleague (いらっしゃいます) elevates them inappropriately. おります is the humble form, which keeps the colleague below the guest. For a neutral third party such as another hotel, a standard polite form is used, keeping the guest as the focus.

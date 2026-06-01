@@ -36,14 +36,12 @@ Loanwords: no prefix
 
 Used at arrival and any time a guest's identity or presence is being noted.
 
-<div class="keigo-card blue">
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますか。</code></span><br>
-Are you Mr./Ms. [Name]?<br><br>
+Are you Mr./Ms. [Name]?<br>
 <span class="keigo-jp"><code>[Name]様でいらっしゃいますね。</code></span><br>
-You are Mr./Ms. [Name], correct?<br><br>
+You are Mr./Ms. [Name], correct?<br>
 <span class="keigo-jp"><code>ご予約の[Name]様でいらっしゃいますか。</code></span><br>
 Are you Mr./Ms. [Name] with a reservation?
-</div>
 
 Components: ご (prefix for 予約) + でいらっしゃいます (sonkeigo for the guest's existence).
 
@@ -51,15 +49,14 @@ Components: ご (prefix for 予約) + でいらっしゃいます (sonkeigo for 
 
 Used when telling the guest facts about the hotel, their room, or a service.
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>[Subject]は[information]でございます。</code></span><br><br>
+Structure: <span class="keigo-jp"><code>[Subject]は[information]でございます。</code></span>
+
 <span class="keigo-jp"><code>お部屋は702号室でございます。</code></span><br>
-Your room is Room 702.<br><br>
+Your room is Room 702.<br>
 <span class="keigo-jp"><code>朝食は1階のレストランでございます。</code></span><br>
-Breakfast is at the restaurant on the 1st floor.<br><br>
+Breakfast is at the restaurant on the 1st floor.<br>
 <span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span><br>
 Checkout is at 11:00.
-</div>
 
 Components: お (prefix for 部屋) + でございます (teineigo refined statement).
 
@@ -84,16 +81,14 @@ Components: ご/お (prefix) + いただける (humble receiving) + でしょう
 
 Used when the staff member states what they are about to do or are doing.
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいま〜いたします。</code></span><br>
-I will 〜 right now.<br><br>
+Structure: <span class="keigo-jp"><code>ただいま〜いたします。</code></span> (I will 〜 right now.)
+
 <span class="keigo-jp"><code>ただいまご確認いたします。</code></span><br>
-I will confirm that right now.<br><br>
+I will confirm that right now.<br>
 <span class="keigo-jp"><code>お部屋までご案内いたします。</code></span><br>
-I will guide you to your room.<br><br>
+I will guide you to your room.<br>
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
 I have received your reservation.
-</div>
 
 Components: ご (prefix) + いたします / 承りました (kenjogo verb).
 

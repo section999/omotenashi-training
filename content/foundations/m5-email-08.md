@@ -17,17 +17,11 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご到着前のご案内】[Name]様 ご滞在について</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【ご到着前のご案内】[Name]様 ご滞在について</code></span><br><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。</code></span><br>
-We are sending you the following information before your arrival.
-</div>
-
-<div class="keigo-card blue">
+We are sending you the following information before your arrival.<br><br>
 <span class="keigo-jp"><code>チェックイン開始時間は15:00からでございます。</code></span><br>
 Check-in begins at 15:00.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11:00でございます。</code></span><br>
@@ -35,15 +29,9 @@ Checkout is at 11:00.<br><br>
 <span class="keigo-jp"><code>駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。</code></span><br>
 Guests using the parking lot, please proceed to the hotel front entrance.<br><br>
 <span class="keigo-jp"><code>チェックイン時にパスポートまたは身分証明書をご提示いただけますと幸いでございます。</code></span><br>
-We would appreciate it if you could present your passport or ID at check-in.
-</div>
-
-<div class="keigo-card blue">
+We would appreciate it if you could present your passport or ID at check-in.<br><br>
 <span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code></span><br>
-If you have any questions or requests before your arrival, please feel free to contact us.
-</div>
-
-<div class="keigo-card blue">
+If you have any questions or requests before your arrival, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
 All of our staff sincerely look forward to your arrival.
 </div>

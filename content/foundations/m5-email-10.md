@@ -19,29 +19,17 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【設備点検のお知らせ】[Date] [Affected facility]一時休止のご案内</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【設備点検のお知らせ】[Date] [Affected facility]一時休止のご案内</code></span><br><br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
-Thank you very much for your continued use of our hotel.
-</div>
-
-<div class="keigo-card blue">
+Thank you very much for your continued use of our hotel.<br><br>
 <span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
 We will be conducting facility inspections on the following schedule.<br><br>
 <span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
 <span class="keigo-jp"><code>対象：[Affected facility]</code></span><br><br>
 <span class="keigo-jp"><code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code></span><br>
-During the inspection, [affected facility] will be unavailable for some time.
-</div>
-
-<div class="keigo-card blue">
+During the inspection, [affected facility] will be unavailable for some time.<br><br>
 <span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
-We apologize for the inconvenience and humbly ask for your understanding.
-</div>
-
-<div class="keigo-card blue">
+We apologize for the inconvenience and humbly ask for your understanding.<br><br>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
 If you have any questions, please feel free to contact us.
 </div>

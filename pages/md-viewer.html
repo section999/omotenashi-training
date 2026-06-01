@@ -102,9 +102,12 @@
     .section-body td { padding: 8px 14px; border-bottom: 1px solid rgba(255,255,255,0.04); border-right: 1px solid rgba(255,255,255,0.06); color: #fff; text-align: left; }
     .section-body td:last-child { border-right: none; }
     @media (max-width: 640px) {
-      .section-body table { font-size: 0.875rem; }
+      .section-body table { font-size: 0.875rem; display: block; overflow-x: auto; }
       .section-body th { padding: 6px 10px; white-space: normal; }
       .section-body td { padding: 6px 10px; }
+    }
+    @media (max-width: 480px) {
+      .keigo-pair { flex-direction: column; }
     }
     .section-body blockquote { border-left: 3px solid var(--accent-blue); padding-left: 16px; color: var(--text-secondary); margin: 1rem 0; font-style: italic; }
     .jp-speak { text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px; cursor: pointer; transition: color 0.12s; }
@@ -769,26 +772,21 @@ const FILE_MAP = {
   'content/foundations/m5-keigo-10.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Keigo Basics', section:10, total:10, prev:'content/foundations/m5-keigo-09.md', next:'content/foundations/m5-meeting-01.md' },
 
   'content/foundations/m5-meeting-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:1, total:8, prev:'content/foundations/m5-keigo-10.md', next:'content/foundations/m5-meeting-02.md' },
-  'content/foundations/m5-email-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:1, total:20, prev:'content/foundations/m5-internal-07.md', next:'content/foundations/m5-email-02.md' },
-  'content/foundations/m5-email-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:2, total:20, prev:'content/foundations/m5-email-01.md', next:'content/foundations/m5-email-03.md' },
-  'content/foundations/m5-email-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:3, total:20, prev:'content/foundations/m5-email-02.md', next:'content/foundations/m5-email-04.md' },
-  'content/foundations/m5-email-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:4, total:20, prev:'content/foundations/m5-email-03.md', next:'content/foundations/m5-email-05.md' },
-  'content/foundations/m5-email-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:5, total:20, prev:'content/foundations/m5-email-04.md', next:'content/foundations/m5-email-06.md' },
-  'content/foundations/m5-email-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:6, total:20, prev:'content/foundations/m5-email-05.md', next:'content/foundations/m5-email-07.md' },
-  'content/foundations/m5-email-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:7, total:20, prev:'content/foundations/m5-email-06.md', next:'content/foundations/m5-email-08.md' },
-  'content/foundations/m5-email-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:8, total:20, prev:'content/foundations/m5-email-07.md', next:'content/foundations/m5-email-09.md' },
-  'content/foundations/m5-email-09.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:9, total:20, prev:'content/foundations/m5-email-08.md', next:'content/foundations/m5-email-10.md' },
-  'content/foundations/m5-email-10.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:10, total:20, prev:'content/foundations/m5-email-09.md', next:'content/foundations/m5-email-11.md' },
-  'content/foundations/m5-email-11.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:11, total:20, prev:'content/foundations/m5-email-10.md', next:'content/foundations/m5-email-12.md' },
-  'content/foundations/m5-email-12.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:12, total:20, prev:'content/foundations/m5-email-11.md', next:'content/foundations/m5-email-13.md' },
-  'content/foundations/m5-email-13.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:13, total:20, prev:'content/foundations/m5-email-12.md', next:'content/foundations/m5-email-14.md' },
-    'content/foundations/m5-email-14.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:14, total:20, prev:'content/foundations/m5-email-13.md', next:'content/foundations/m5-email-15.md' },
-   'content/foundations/m5-email-15.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:15, total:20, prev:'content/foundations/m5-email-14.md', next:'content/foundations/m5-email-16.md' },
-  'content/foundations/m5-email-16.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:16, total:20, prev:'content/foundations/m5-email-15.md', next:'content/foundations/m5-email-17.md' },
-  'content/foundations/m5-email-17.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:17, total:20, prev:'content/foundations/m5-email-16.md', next:'content/foundations/m5-email-18.md' },
-  'content/foundations/m5-email-18.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:18, total:20, prev:'content/foundations/m5-email-17.md', next:'content/foundations/m5-email-19.md' },
-      'content/foundations/m5-email-19.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:19, total:20, prev:'content/foundations/m5-email-18.md', next:'content/foundations/m5-email-20.md' },
-  'content/foundations/m5-email-20.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:20, total:20, prev:'content/foundations/m5-email-19.md', next:'content/foundations/m5-phone-01.md' },
+  'content/foundations/m5-email-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:1, total:15, prev:'content/foundations/m5-internal-07.md', next:'content/foundations/m5-email-02.md' },
+  'content/foundations/m5-email-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:2, total:15, prev:'content/foundations/m5-email-01.md', next:'content/foundations/m5-email-03.md' },
+  'content/foundations/m5-email-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:3, total:15, prev:'content/foundations/m5-email-02.md', next:'content/foundations/m5-email-04.md' },
+  'content/foundations/m5-email-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:4, total:15, prev:'content/foundations/m5-email-03.md', next:'content/foundations/m5-email-05.md' },
+  'content/foundations/m5-email-05.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:5, total:15, prev:'content/foundations/m5-email-04.md', next:'content/foundations/m5-email-06.md' },
+  'content/foundations/m5-email-06.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:6, total:15, prev:'content/foundations/m5-email-05.md', next:'content/foundations/m5-email-07.md' },
+  'content/foundations/m5-email-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:7, total:15, prev:'content/foundations/m5-email-06.md', next:'content/foundations/m5-email-08.md' },
+  'content/foundations/m5-email-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:8, total:15, prev:'content/foundations/m5-email-07.md', next:'content/foundations/m5-email-09.md' },
+  'content/foundations/m5-email-09.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:9, total:15, prev:'content/foundations/m5-email-08.md', next:'content/foundations/m5-email-10.md' },
+  'content/foundations/m5-email-10.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:10, total:15, prev:'content/foundations/m5-email-09.md', next:'content/foundations/m5-email-11.md' },
+  'content/foundations/m5-email-11.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:11, total:15, prev:'content/foundations/m5-email-10.md', next:'content/foundations/m5-email-12.md' },
+  'content/foundations/m5-email-12.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:12, total:15, prev:'content/foundations/m5-email-11.md', next:'content/foundations/m5-email-13.md' },
+  'content/foundations/m5-email-13.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:13, total:15, prev:'content/foundations/m5-email-12.md', next:'content/foundations/m5-email-14.md' },
+  'content/foundations/m5-email-14.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:14, total:15, prev:'content/foundations/m5-email-13.md', next:'content/foundations/m5-email-15.md' },
+  'content/foundations/m5-email-15.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Email Communication', section:15, total:15, prev:'content/foundations/m5-email-14.md', next:'content/foundations/m5-phone-01.md' },
   'content/foundations/m5-meeting-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:2, total:8, prev:'content/foundations/m5-meeting-01.md', next:'content/foundations/m5-meeting-03.md' },
   'content/foundations/m5-meeting-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:3, total:8, prev:'content/foundations/m5-meeting-02.md', next:'content/foundations/m5-meeting-04.md' },
   'content/foundations/m5-meeting-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:4, total:8, prev:'content/foundations/m5-meeting-03.md', next:'content/foundations/m5-meeting-05.md' },
@@ -797,7 +795,7 @@ const FILE_MAP = {
   'content/foundations/m5-meeting-07.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:7, total:8, prev:'content/foundations/m5-meeting-06.md', next:'content/foundations/m5-meeting-08.md' },
   'content/foundations/m5-meeting-08.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Handover Communication', section:8, total:8, prev:'content/foundations/m5-meeting-07.md', next:'content/foundations/m5-internal-01.md' },
   // m5-phone (8)
-  'content/foundations/m5-phone-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:10, prev:'content/foundations/m5-email-20.md', next:'content/foundations/m5-phone-02.md' },
+  'content/foundations/m5-phone-01.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:10, prev:'content/foundations/m5-email-15.md', next:'content/foundations/m5-phone-02.md' },
   'content/foundations/m5-phone-02.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:2, total:10, prev:'content/foundations/m5-phone-01.md', next:'content/foundations/m5-phone-03.md' },
   'content/foundations/m5-phone-03.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:3, total:10, prev:'content/foundations/m5-phone-02.md', next:'content/foundations/m5-phone-04.md' },
   'content/foundations/m5-phone-04.md': { module:'Keigo: Honorific Language for Guest Service', lesson:'Telephone Communication', section:4, total:10, prev:'content/foundations/m5-phone-03.md', next:'content/foundations/m5-phone-05.md' },
@@ -1620,7 +1618,7 @@ function handleQuizCheck(btn) {
     var ma = document.getElementById(qId + '-ma');
     if (!ma) return;
     ma.style.display = 'block';
-    ma.innerHTML = '<strong>Model Answer</strong>' + qData.a + '<br><br>' + qData.exp;
+    ma.innerHTML = '<strong>Model Answer</strong><br>' + qData.a + '<br><br>' + qData.exp;
     setTimeout(showCompletionModal, 600);
     return;
   }
@@ -2669,7 +2667,7 @@ const SIM_CATEGORIES = [
 function renderSimulator(scenario, file, info) {
   _simScenario = scenario;
   _simFileId = file;
-  document.title = scenario.title + '  Omotenashi Training';
+  document.title = scenario.title + ' - Omotenashi Training';
 
   const cat = SIM_CATEGORIES.find(c => c.ids.includes(scenario.id));
   const catName = cat ? cat.name : 'Simulator';
@@ -3053,7 +3051,7 @@ async function render() {
   const sectionNum = info.section || meta.section || '';
   const total = info.total || '';
 
-  document.title = sectionTitle + '  Omotenashi Training';
+  document.title = sectionTitle + ' - Omotenashi Training';
 
   // Save last visited lesson for "Continue" banner on homepage
   try { localStorage.setItem('omotenashi:lastLesson', JSON.stringify({ file, title: sectionTitle, module: moduleLabel })); } catch(e) {}

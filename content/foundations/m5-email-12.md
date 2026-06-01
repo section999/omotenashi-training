@@ -17,22 +17,13 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 ## Template 1: Simple Cancellation (No Fee)
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span><br><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
-Thank you for contacting us.
-</div>
-
-<div class="keigo-card blue">
+Thank you for contacting us.<br><br>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
 We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
 <span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
-No cancellation fee has been charged.
-</div>
-
-<div class="keigo-card blue">
+No cancellation fee has been charged.<br><br>
 <span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
 We hope to have the opportunity to welcome you again. We look forward to your future visit.
 </div>
@@ -40,28 +31,17 @@ We hope to have the opportunity to welcome you again. We look forward to your fu
 ## Template 2: Cancellation with Fee
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span>
-</div>
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span><br><br>
+<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+Thank you for contacting us.<br><br>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
-We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).
-</div>
-
-<div class="keigo-card blue">
+We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
 We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
 <span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
 Cancellation fee: [Amount] yen (equivalent to 1 night of [Date] check-in)<br><br>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
-If you have any questions, please feel free to contact us.
-</div>
-
-<div class="keigo-card blue">
+If you have any questions, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
 We hope to have the opportunity to welcome you again.
 </div>

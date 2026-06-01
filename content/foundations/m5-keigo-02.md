@@ -26,13 +26,13 @@ Sonkeigo is used when describing the **guest's** actions, decisions, condition, 
 <div class="bad-col">
 <span class="keigo-pair-label">Plain language</span>
 <span class="keigo-jp"><code>お客様はもう食べましたか？</code></span>
-<br>"Has the guest already eaten?"<br><br>
+<br>Has the guest already eaten?<br><br>
 <span class="keigo-badge bad">Too casual</span> Uses the plain verb 食べる for the guest's action.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Sonkeigo</span>
 <span class="keigo-jp"><code>お客様はもう召し上がりましたか？</code></span>
-<br>"Has the guest already eaten?"<br><br>
+<br>Has the guest already eaten?<br><br>
 <span class="keigo-badge good">Correct</span> 召し上がる elevates the guest's action of eating.
 </div>
 </div>
@@ -57,13 +57,13 @@ Kenjogo is used when describing the **staff's own actions**. By choosing a humbl
 <div class="bad-col">
 <span class="keigo-pair-label">Plain language</span>
 <span class="keigo-jp"><code>確認します。</code></span>
-<br>"I will confirm."<br><br>
+<br>I will confirm.<br><br>
 <span class="keigo-badge bad">Informal</span> Sounds like a colleague. The staff does not lower their position.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Kenjogo</span>
 <span class="keigo-jp"><code>確認いたします。</code></span>
-<br>"I will confirm."<br><br>
+<br>I will confirm.<br><br>
 <span class="keigo-badge good">Correct</span> いたします is the humble form of する, placing the staff in a service position.
 </div>
 </div>

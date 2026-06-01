@@ -66,10 +66,10 @@ These are fixed hotel phrases. Use お電話, not ご電話. Use お会計, not 
 Loanwords (外来語) from English and other languages never take お or ご. Adding a prefix to a loanword sounds incorrect.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おチェックイン / ごチェックイン</code></span><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おサービス / ごサービス</code></span><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>おエレベーター</code></span><br><br>
-<span class="keigo-badge good">Correct</span> チェックイン, サービス, エレベーター (no prefix)<br><br>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>おチェックイン / ごチェックイン</code></span><br>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>おサービス / ごサービス</code></span><br>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>おエレベーター</code></span><br><br>
+<strong>Correct:</strong> チェックイン, サービス, エレベーター (no prefix)<br><br>
 <span class="keigo-jp"><code>エレベーターはこちらでございます。</code></span>
 </div>
 

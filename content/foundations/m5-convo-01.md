@@ -92,6 +92,11 @@ This means the welcome is not a formality. It is an investment in the entire gue
 
 ## The Closing: ごゆっくりお過ごしくださいませ
 
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>それでは、ごゆっくりお過ごしくださいませ。</code></span><br>
+We hope you enjoy a relaxing stay.
+</div>
+
 This phrase deserves special attention. It is not simply "goodbye." It communicates:
 
 - **Care**, the hotel wishes the guest to enjoy themselves

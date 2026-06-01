@@ -15,15 +15,15 @@ A guest in Room 305 reported that their air conditioning is not working. The out
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>エアコンがちょっとおかしい感じで、明日修理する予定です</code></span><br><br>
 <span class="keigo-badge bad">ちょっと/感じ</span> Vague and emotional language<br>
-<span class="keigo-badge bad">No room number</span> The incoming staff does not know which room<br>
-<span class="keigo-badge bad">Unclear ownership</span> Who arranged the repair?
+<strong>No room number:</strong> The incoming staff does not know which room<br>
+<strong>Unclear ownership:</strong> Who arranged the repair?
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br><br>
 <span class="keigo-badge good">Room + Issue + Status</span> All three components present<br>
-<span class="keigo-badge good">Specific</span> Room 305, AC issue, repair confirmed<br>
-<span class="keigo-badge good">Timeline</span> Incoming shift knows when to expect resolution
+<strong>Specific:</strong> Room 305, AC issue, repair confirmed<br>
+<strong>Timeline:</strong> Incoming shift knows when to expect resolution
 </div>
 </div>
 
@@ -36,14 +36,14 @@ A guest in Room 210 complained about noise from the room next door. Night staff 
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>お客様がうるさいと言っていて少し困っている感じです</code></span><br><br>
 <span class="keigo-badge bad">Staff's feelings</span> 困っている感じ is the staff member's emotion, not relevant<br>
-<span class="keigo-badge bad">No room numbers</span> Which rooms were involved?<br>
-<span class="keigo-badge bad">No resolution status</span> Was anything done?
+<strong>No room numbers:</strong> Which rooms were involved?<br>
+<strong>No resolution status:</strong> Was anything done?
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>210号室：騒音クレームあり。隣室（211号室）に説明済み。両室対応済み。</code></span><br><br>
 <span class="keigo-badge good">Both rooms named</span> The incoming staff can monitor either room<br>
-<span class="keigo-badge good">Action documented</span> Both rooms were addressed
+<strong>Action documented:</strong> Both rooms were addressed
 </div>
 </div>
 
@@ -56,7 +56,7 @@ A guest asked for extra towels and they were delivered.
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>タオル欲しいと言われたので渡しました</code></span><br><br>
 <span class="keigo-badge bad">Conversational style</span> ので (because/so) is explanatory narration, not a handover note<br>
-<span class="keigo-badge bad">No room number</span> Which guest?
+<strong>No room number:</strong> Which guest?
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
@@ -74,14 +74,14 @@ A guest wants to extend their stay but room availability has not been confirmed.
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>延泊したいって言ってました。まだ確認中です。</code></span><br><br>
 <span class="keigo-badge bad">って quotation style</span> Casual spoken Japanese, not appropriate for written records<br>
-<span class="keigo-badge bad">No room number</span> Incoming staff does not know which guest to follow up with<br>
-<span class="keigo-badge bad">No owner</span> Who is confirming availability?
+<strong>No room number:</strong> Incoming staff does not know which guest to follow up with<br>
+<strong>No owner:</strong> Who is confirming availability?
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>501号室：延泊希望あり（1泊追加）。フロント確認待ち。</code></span><br><br>
 <span class="keigo-badge good">Room + Request + Owner</span> Complete and actionable<br>
-<span class="keigo-badge good">Specific request</span> "1 additional night" tells the front desk exactly what to confirm
+<strong>Specific request:</strong> 1 additional night tells the front desk exactly what to confirm
 </div>
 </div>
 
@@ -94,7 +94,7 @@ A VIP guest is scheduled to arrive during the evening shift.
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>VIPのお客様が来るかもしれないので、よろしくお願いします。</code></span><br><br>
 <span class="keigo-badge bad">かもしれない</span> Uncertainty is not acceptable for VIP notifications<br>
-<span class="keigo-badge bad">よろしくお願いします</span> Not an operational instruction; incoming staff does not know what is expected
+<strong>よろしくお願いします:</strong> Not an operational instruction; incoming staff does not know what is expected
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>

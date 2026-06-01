@@ -11,10 +11,10 @@ Written handover notes cover what happened during the shift. Verbal handover is 
 Written notes capture facts. Verbal briefings add the nuance that notes cannot easily convey: tone of voice, the level of urgency, the emotional state of a difficult guest, or the context behind an unusual decision.
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">Urgency cues</span> "This guest is expecting a callback in the next 30 minutes"<br>
-<span class="keigo-badge info">Context</span> "The noise complaint was resolved, but the guest seemed unsatisfied"<br>
-<span class="keigo-badge info">Judgment guidance</span> "If the VIP in 305 calls, escalate immediately to the manager"<br>
-<span class="keigo-badge info">Real-time updates</span> Information that occurred in the last few minutes before handover
+<strong>Urgency cues:</strong> This guest is expecting a callback in the next 30 minutes<br>
+<strong>Context:</strong> The noise complaint was resolved, but the guest seemed unsatisfied<br>
+<strong>Judgment guidance:</strong> If the VIP in 305 calls, escalate immediately to the manager<br>
+<strong>Real-time updates:</strong> Information that occurred in the last few minutes before handover
 </div>
 
 ## The Verbal Briefing Structure
@@ -37,17 +37,11 @@ Mr./Ms. Yamada in Room 305 is a VIP guest.<br><br>
 <span class="keigo-jp"><code>到着時は必ずマネージャーが対応するようにお願いします。</code></span><br>
 Please make sure a manager handles the arrival.<br><br>
 <span class="keigo-jp"><code>クレームが1件継続中です。詳細は申し送りにございます。</code></span><br>
-One complaint is still ongoing. The details are in the written notes.
-</div>
-
-<div class="keigo-card blue">
+One complaint is still ongoing. The details are in the written notes.<br><br>
 <span class="keigo-jp"><code>210号室の騒音クレームは夜間対応済みですが、経過の確認をお願いします。</code></span><br>
 The noise complaint for Room 210 was handled during the night shift, but please check in on it.<br><br>
 <span class="keigo-jp"><code>305号室のエアコンは明日修理予定です。今夜もし連絡があればすぐ対応を。</code></span><br>
-Room 305's AC repair is scheduled for tomorrow. If they call tonight, please attend to it immediately.
-</div>
-
-<div class="keigo-card blue">
+Room 305's AC repair is scheduled for tomorrow. If they call tonight, please attend to it immediately.<br><br>
 <span class="keigo-jp"><code>501号室の延泊については、フロントからまだ確認が取れていません。本日中にご対応をお願いします。</code></span><br>
 The extension request for Room 501 has not been confirmed by the front desk yet. Please handle it today.<br><br>
 <span class="keigo-jp"><code>これが本日の未対応タスク一覧です。優先順位をご確認ください。</code></span><br>

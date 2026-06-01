@@ -17,31 +17,19 @@ The reservation confirmation is often the first direct communication from the ho
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご予約確認】[Name]様 [Date]〜[Date] [Number]泊</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【ご予約確認】[Name]様 [Date]〜[Date] [Number]泊</code></span><br><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
-Thank you very much for reserving our hotel on this occasion.
-</div>
-
-<div class="keigo-card blue">
+Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
 Your reservation details are as follows.<br><br>
 <span class="keigo-jp"><code>チェックイン：[Date]（[Day]）[Time]〜</code></span><br>
 <span class="keigo-jp"><code>チェックアウト：[Date]（[Day]）[Time]</code></span><br>
 <span class="keigo-jp"><code>ご宿泊人数：[Number]名様</code></span><br>
-<span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span><br><br>
 <span class="keigo-jp"><code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code></span><br>
 All of our staff are preparing to ensure you have a comfortable stay.<br><br>
 <span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-If you have any questions before your arrival, please feel free to contact us.
-</div>
-
-<div class="keigo-card blue">
+If you have any questions before your arrival, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
 We sincerely look forward to your arrival.
 </div>

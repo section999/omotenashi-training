@@ -49,7 +49,7 @@ The same information written without structure looks like this.
 
 <div class="keigo-card blue">
 
-<span class="keigo-badge bad">Poorly written</span>
+**Poorly written:**
 
 ```
 VIPゲストがいます。
@@ -59,7 +59,7 @@ VIPゲストがいます。
 アレルギーのお客様がいます。
 ```
 
-<span class="keigo-badge good">Correctly written</span>
+**Correctly written:**
 
 ```
 305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。

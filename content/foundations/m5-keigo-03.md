@@ -71,13 +71,13 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
 <span class="keigo-jp"><code>何時にチェックインしますか？</code></span><br>
-"What time will you check in?"<br><br>
+What time will you check in?<br><br>
 <span class="keigo-badge bad">Wrong</span> Guest's action described without 尊敬語.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
 <span class="keigo-jp"><code>何時頃お越しになりますか？</code></span><br>
-"Around what time will you be arriving?"<br><br>
+Around what time will you be arriving?<br><br>
 <span class="keigo-badge good">Correct</span> お越しになる is the honorific for 来る in this context.
 </div>
 </div>
@@ -86,13 +86,13 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
 <span class="keigo-jp"><code>朝食は食べますか？</code></span><br>
-"Will you eat breakfast?"<br><br>
+Will you eat breakfast?<br><br>
 <span class="keigo-badge bad">Wrong</span> 食べる should be 召し上がる for the guest.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
 <span class="keigo-jp"><code>朝食はお召し上がりになりますか？</code></span><br>
-"Will you be having breakfast?"<br><br>
+Will you be having breakfast?<br><br>
 <span class="keigo-badge good">Correct</span> 召し上がる elevated; お〜になります adds further polish.
 </div>
 </div>
@@ -102,10 +102,10 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 A serious mistake is using sonkeigo to describe the staff's own actions. These verbs apply only to guests.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>私がおります。</code></span><br><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>担当者がおります。</code></span>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br>
+<strong>Correct:</strong> <span class="keigo-jp"><code>私がおります。</code></span><br><br>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+<strong>Correct:</strong> <span class="keigo-jp"><code>担当者がおります。</code></span>
 </div>
 
 いらっしゃいます is an honorific form. Applying it to yourself or a colleague elevates them above the guest, which reverses the hospitality relationship. おります is the humble (謙譲語) form of いる and is correct for staff use.

@@ -65,13 +65,13 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 <div class="bad-col">
 <span class="keigo-pair-label">Casual (wrong)</span>
 <span class="keigo-jp"><code>確認します。</code></span><br>
-"I'll confirm."<br><br>
+I'll confirm.<br><br>
 <span class="keigo-badge bad">Wrong</span> No humility. Sounds like a colleague talking to another colleague.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">謙譲語 (correct)</span>
 <span class="keigo-jp"><code>確認いたします。</code></span><br>
-"I will confirm."<br><br>
+I will confirm.<br><br>
 <span class="keigo-badge good">Correct</span> いたします is the humble form of する, placing the staff in a service role.
 </div>
 </div>
@@ -80,13 +80,13 @@ For Chinese-origin (漢語) verb stems, use ご instead of お:
 <div class="bad-col">
 <span class="keigo-pair-label">Casual (wrong)</span>
 <span class="keigo-jp"><code>部屋まで行きます。</code></span><br>
-"I'll go to the room."<br><br>
+I'll go to the room.<br><br>
 <span class="keigo-badge bad">Wrong</span> 行く has no humble quality in plain form.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">謙譲語 (correct)</span>
 <span class="keigo-jp"><code>お部屋までご案内いたします。</code></span><br>
-"I will guide you to your room."<br><br>
+I will guide you to your room.<br><br>
 <span class="keigo-badge good">Correct</span> ご案内いたします layers the service role with humility.
 </div>
 </div>
@@ -111,10 +111,10 @@ I have received your request.
 Just as sonkeigo must never be applied to staff, kenjogo must never be applied to guests. This reverses the hospitality relationship.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br><br>
-<span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>お客様が参ります。</code></span><br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お客様がお越しになります。</code></span>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br>
+<strong>Wrong:</strong> <span class="keigo-jp"><code>お客様が参ります。</code></span><br><br>
+<strong>Correct:</strong> <span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
+<strong>Correct:</strong> <span class="keigo-jp"><code>お客様がお越しになります。</code></span>
 </div>
 
 おります is a humble form; using it for the guest lowers the guest. 参ります is also humble, so applying it to the guest's arrival treats them as a lower-status person. Always use 尊敬語 forms such as いらっしゃいます or お越しになります for the guest.

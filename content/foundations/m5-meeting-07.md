@@ -28,7 +28,7 @@ If the answer is yes, the handover is not done yet.
 
 Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought.
 
-Not "the clock hit 22:00 and I went home" — but: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation.
+Not "the clock hit 22:00 and I went home"; instead: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
@@ -40,16 +40,16 @@ Your shift continues until the handover is complete.
 Most handover errors are not caused by lack of knowledge. They are caused by treating the handover as secondary to other tasks.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">1. Rushing</span><br>
+<strong>1. Rushing</strong><br>
 Writing the handover in the last two minutes of the shift guarantees missing information.<br>
 Fix: update the notes continuously throughout the shift, not all at once at the end.<br><br>
-<span class="keigo-badge bad">2. Assuming the next person already knows</span><br>
+<strong>2. Assuming the next person already knows</strong><br>
 "They'll figure it out" is not a professional position. The next person was not there.<br>
 Fix: write as if the reader has no background knowledge of the shift.<br><br>
-<span class="keigo-badge bad">3. Emotional filtering</span><br>
+<strong>3. Emotional filtering</strong><br>
 Writing more about how you felt during a difficult interaction than about what happened and what needs to happen next.<br>
 Fix: read the entry before submitting and remove any word that describes your feelings.<br><br>
-<span class="keigo-badge bad">4. Leaving tasks without owners</span><br>
+<strong>4. Leaving tasks without owners</strong><br>
 "To be confirmed" with no name assigned is the most common source of tasks falling through.<br>
 Fix: every unresolved item must have a specific name or department attached.
 </div>

@@ -20,29 +20,20 @@ The one thing this email must not do: make the guest feel like they are receivin
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご滞在のお礼】[Name]様 ありがとうございました</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【ご滞在のお礼】[Name]様 ありがとうございました</code></span><br><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
-Thank you very much for staying at our hotel on this occasion.
-</div>
-
-Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
-
-<div class="keigo-card blue">
+Thank you very much for staying at our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
 How was your stay?<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code></span><br>
 If you had a comfortable stay, all of our staff would be very pleased to hear it.<br><br>
 <span class="keigo-jp"><code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code></span><br>
-If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.
-</div>
-
-<div class="keigo-card blue">
+If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.<br><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
 We sincerely look forward to the day we can welcome you again.
 </div>
+
+Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
 
 ## Key Phrases Explained
 
@@ -66,9 +57,9 @@ We sincerely look forward to the day we can welcome you again.
 The second body sentence invites feedback without demanding it. This is a deliberate language choice.
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Too demanding</span> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
+<strong>Avoid:</strong> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
 Sounds like a requirement, not an invitation.<br><br>
-<span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>お気づきの点などございましたら、お聞かせいただけますと幸いでございます。</code></span><br>
+<strong>Better:</strong> <span class="keigo-jp"><code>お気づきの点などございましたら、お聞かせいただけますと幸いでございます。</code></span><br>
 Sounds genuinely interested in the guest's experience without creating obligation.
 </div>
 

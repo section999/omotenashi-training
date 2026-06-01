@@ -17,15 +17,9 @@ Guests frequently contact hotels with questions before booking: room availabilit
 ## Full Template: Availability Inquiry
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【お問い合わせへの回答】[Topic] について</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【お問い合わせへの回答】[Topic] について</code></span><br><br>
 <span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
-Thank you very much for your inquiry to our hotel on this occasion.
-</div>
-
-<div class="keigo-card blue">
+Thank you very much for your inquiry to our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご質問いただきました[topic]についてご回答いたします。</code></span><br>
 I will answer your question regarding [topic].<br><br>
 <span class="keigo-jp"><code>[Answer in clear, organized form]</code></span><br><br>
@@ -33,10 +27,7 @@ For room availability:<br>
 <span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます。</code></span><br>
 Regarding your specified dates, reservations are currently available.<br><br>
 <span class="keigo-jp"><code>ご希望のお部屋タイプや人数などございましたら、お知らせくださいませ。</code></span><br>
-If you have a preferred room type or number of guests, please let us know.
-</div>
-
-<div class="keigo-card blue">
+If you have a preferred room type or number of guests, please let us know.<br><br>
 <span class="keigo-jp"><code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
 Please feel free to contact us if you have any other questions.<br><br>
 <span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております。</code></span><br>

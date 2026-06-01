@@ -77,14 +77,14 @@ An email that ends with the last piece of information, without a closing phrase,
 
 Small word choices within the body of an email create a significant difference in perceived quality. Know the hotel-standard replacements.
 
-| Everyday Form | Hotel Email Standard |
-|---|---|
-| ありがとうございます | 誠にありがとうございます |
-| ください | くださいませ |
-| 確認してください | ご確認いただけますと幸いでございます |
-| 問題ありません | ご安心くださいませ |
-| また来てください | またのお越しをお待ちしております |
-| わかりました | かしこまりました / 承りました |
+| Everyday Form | Hotel Email Standard | Why It Changes |
+|---|---|---|
+| ありがとうございます | 誠にありがとうございます | 誠に adds genuine sincerity; prevents the phrase from sounding automatic |
+| ください | くださいませ | ませ softens the request; the guest feels guided rather than instructed |
+| 確認してください | ご確認いただけますと幸いでございます | Transforms a command into a humble invitation; the guest retains full autonomy |
+| 問題ありません | ご安心くださいませ | Shifts focus from dismissing the concern to caring for the guest's peace of mind |
+| また来てください | またのお越しをお待ちしております | Expresses genuine anticipation from the hotel's side rather than an instruction to the guest |
+| わかりました | かしこまりました / 承りました | Signals both full understanding and service commitment, not just acknowledgment |
 
 ## The Test: Read from the Guest's Perspective
 

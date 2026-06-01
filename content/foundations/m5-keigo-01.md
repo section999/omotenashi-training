@@ -10,45 +10,89 @@ Ask most learners what keigo is and they will say: "polite Japanese." That is a 
 
 Friendliness and politeness are different things. A staff member can be friendly and still sound unprofessional. A staff member can be grammatically polite and still make a guest feel rushed, looked down on, or ignored. Keigo works at a deeper level than vocabulary selection. It controls the *emotional atmosphere* of every interaction.
 
-- **Guest Comfort:** Guests feel safe, respected, and welcomed
-- **Professional Atmosphere:** The hotel feels organized and reliable
-- **Emotional Distance:** Warm but not overly familiar
-- **Complaint Prevention:** Guests who feel respected complain less
-- **Brand Image:** Language is part of the hotel's identity
+| What Keigo Controls | Effect on the Guest |
+|---|---|
+| Guest Comfort | Feels safe, respected, and welcomed |
+| Professional Atmosphere | Perceives the hotel as organized and reliable |
+| Emotional Distance | Warm but not overly familiar |
+| Complaint Prevention | Guests who feel respected complain less |
+| Brand Image | Language is part of the hotel's identity |
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Friendly but untrained</span>
+<span class="keigo-jp"><code>ありがとうございます！またきてくださいね！</code></span><br>
+Thanks! Come again!<br><br>
+<span class="keigo-badge bad">Incomplete</span> Warm in tone, but the casual register signals the staff is untrained. Guests judge the hotel accordingly.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Keigo standard</span>
+<span class="keigo-jp"><code>ありがとうございます。またのお越しを心よりお待ち申し上げております。</code></span><br>
+Thank you. We look forward to welcoming you again.<br><br>
+<span class="keigo-badge good">Correct</span> The same warmth, delivered at hotel standard. The guest leaves with a clear sense of where they stayed.
+</div>
+</div>
 
 ## How Guests Judge Quality Through Language
 
-Before a guest sees their room, before they taste the food, before any service is delivered, they have already formed an impression of the hotel through the staff's language. This impression happens unconsciously and instantly. It is almost impossible to recover from a poor language first impression, even with excellent service afterward.
+Before a guest sees their room, before they taste the food, before any service is delivered, they have already formed an impression of the hotel through the staff's language. This impression happens unconsciously and instantly. It is almost impossible to recover from a poor first-language impression, even with excellent service afterward.
 
-Within the first sentence the guest hears or reads, they assess:
+Within the first sentence the guest hears, they assess all four of the following simultaneously:
 
-
-Is this staff member trained? Is this hotel organized? Do I feel welcomed here? Is this place worth what I paid?
-
+<div class="keigo-card blue">
+<em>Is this staff member trained?</em><br>
+<em>Is this hotel organized?</em><br>
+<em>Do I feel welcomed here?</em><br>
+<em>Is this place worth what I paid?</em>
+</div>
 
 Keigo answers all four questions before the guest has even stated their request.
 
 ## The Three Registers Every Hotel Staff Must Control
 
-Japanese has three formal speech systems that hotels use together in every interaction:
+Japanese has three formal speech systems that hotels use together in every interaction. Each has a distinct function, and all three must be active at once.
 
-- **尊敬語 (Sonkeigo):** Honorific language: used when talking about the guest's actions or status. Raises the guest.
-- **謙譲語 (Kenjogo):** Humble language: used when talking about the staff's own actions. Lowers the staff.
-- **丁寧語 (Teineigo):** Polite language: the general professional tone. Creates a refined atmosphere.
+| Register | Japanese | Function |
+|---|---|---|
+| Honorific | 尊敬語 (Sonkeigo) | Describes the **guest's** actions; raises the guest |
+| Humble | 謙譲語 (Kenjogo) | Describes the **staff's** actions; lowers the staff |
+| Polite | 丁寧語 (Teineigo) | Sets the general professional tone |
 
-Using only one of these is not enough. A hotel interaction that uses only teineigo sounds technically polite but emotionally flat. The combination of all three is what creates the distinctively warm, professional atmosphere of Japanese hospitality.
+Using only one register is not enough. A hotel interaction that uses only teineigo sounds technically polite but emotionally flat. The combination of all three is what creates the distinctively warm, professional atmosphere of Japanese hospitality. A single check-in exchange contains all three:
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
+You are Mr./Ms. Yamada, correct?<br><br>
+<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
+Here is your room key.<br><br>
+<span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
+A staff member will guide you.
+</div>
 
 ## Keigo Is Not Performance
 
-A common misunderstanding is that keigo is a performance, like putting on a mask. In hospitality, this view is wrong. Professional keigo is not an act. It is a trained skill, like any other operational competency. A doctor's calm manner during an emergency is not a performance. It is a professional standard. Hotel keigo works the same way.
+A common misunderstanding is that keigo is a performance, like putting on a mask. In hospitality, this view is wrong. Professional keigo is not an act. It is a trained skill, like any other operational competency. A doctor's calm manner during an emergency is not a performance; it is a professional standard. Hotel keigo works the same way.
 
-A guest should never feel: "This staff member sounds untrained."
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Keigo as performance</span>
+<span class="keigo-jp"><code>かしこまりました。</code></span><br>
+Said while glancing at a screen, mid-task.<br><br>
+<span class="keigo-badge bad">Wrong</span> The correct words are present, but the delivery reveals the staff is not fully present. Guests notice immediately.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Keigo as trained standard</span>
+<span class="keigo-jp"><code>かしこまりました。</code></span><br>
+Said after pausing, turning toward the guest, with eye contact.<br><br>
+<span class="keigo-badge good">Correct</span> Same phrase. The standard is in the delivery, not just the vocabulary.
+</div>
+</div>
 
-
-Not once. Not during a complaint. Not at 2am. Not when the staff member is tired or stressed.
-
-
+<div class="keigo-card blue">
+A guest should never feel: <em>"This staff member sounds untrained."</em><br><br>
+Not once. Not during a complaint. Not at 2am. Not when the staff member is tired or stressed.<br><br>
 This is why keigo is trained as an operational standard, not left to personality.
+</div>
 
 ---
 

@@ -31,6 +31,8 @@ function renderNav() {
           <a href="${toRoot}index.html">Main</a>
           <a href="${toPages}curriculum.html">Curriculum</a>
           <a href="${toPages}languagedojo.html">Language Dojo</a>
+          <a href="${toPages}vocabularypractice.html">Vocabulary Practice</a>
+          <a href="${toPages}simulator.html">Simulator</a>
           <a href="${toPages}games.html">Games</a>
           <a href="#" onclick="toggleMode();return false;">Switch Mode</a>
           <a href="https://www.freecodecamp.org/donate/" target="_blank" rel="noopener">Donate</a>

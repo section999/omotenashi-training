@@ -19,41 +19,29 @@ An apology email is one of the most critical communications a hotel sends. It ca
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご不便のお詫び】ご滞在中のご不便について</code></span>
-</div>
-
-<div class="keigo-card blue">
+<span class="keigo-jp"><code>【ご不便のお詫び】ご滞在中のご不便について</code></span><br><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-We sincerely apologize for the inconvenience caused on this occasion.
-</div>
-
-The apology is stated in the opening line. There is no gratitude phrase before it. Starting with ありがとうございます before acknowledging an apology sounds tone-deaf and signals that the hotel is following a template without reading the situation.
-
-<div class="keigo-card blue">
+We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-jp"><code>ご滞在中に[issue]によりご不便をおかけしましたこと、重ねてお詫び申し上げます。</code></span><br>
-We sincerely apologize again for the inconvenience caused during your stay by [issue].
-</div>
-
-Name the specific issue. A general apology without naming what happened sounds dismissive.
-
-<div class="keigo-card blue">
+We sincerely apologize again for the inconvenience caused during your stay by [issue].<br><br>
 <span class="keigo-jp"><code>現在、[specific action taken or planned]に向けて取り組んでおります。</code></span><br>
 We are currently working on [specific action taken or planned].<br><br>
 <span class="keigo-jp"><code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります。</code></span><br>
-All of our staff will work to prevent the same situation from occurring again.
-</div>
-
-<div class="keigo-card blue">
+All of our staff will work to prevent the same situation from occurring again.<br><br>
 <span class="keigo-jp"><code>今後ともどうぞよろしくお願い申し上げます。ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
 We humbly ask for your continued support. Please feel free to contact us if you have any questions.
 </div>
 
+The apology is stated in the opening line. There is no gratitude phrase before it. Starting with ありがとうございます before acknowledging an apology sounds tone-deaf and signals that the hotel is following a template without reading the situation.
+
+Name the specific issue. A general apology without naming what happened sounds dismissive.
+
 ## Phrases to Avoid in Apology Emails
 
 <div class="keigo-card blue">
-<span class="keigo-badge bad">Excuse language</span> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br><br>
-<span class="keigo-badge bad">Overly cheerful closing</span> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
-<span class="keigo-badge bad">Vague resolution</span> <span class="keigo-jp"><code>今後気をつけます</code></span>
+<strong>Excuse language:</strong> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br><br>
+<strong>Overly cheerful closing:</strong> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
+<strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span>
 </div>
 
 Blaming equipment age shifts responsibility away from the hotel. The guest does not care why; they care about the impact and the response.

@@ -10,15 +10,15 @@ title: 丁寧語 (Teineigo) and Sentence Polish
 
 丁寧語 is not simply "adding desu and masu." In hotel contexts, it means replacing everyday polite forms with refined forms that sound more formal, measured, and professional.
 
-| Everyday Polite | Hotel 丁寧語 | Use |
+| Everyday Polite | Hotel 丁寧語 | Why Use This |
 |---|---|---|
-| です | でございます | All identification and information |
-| しています | しております | Staff ongoing actions |
-| していますか | なさっていますか | Guest's ongoing actions (尊敬語) |
-| ありますか | ございますか | Any existence question |
-| ありません | ございません | Negative existence |
-| いいですか | よろしいでしょうか | Seeking permission or confirmation |
-| ですね | でございますね | Polished confirmation |
+| です | でございます | More polished than です; establishes hotel-level register in every statement |
+| しています | しております | Humble ongoing form; communicates service attention, not just activity |
+| していますか | なさっていますか | Guest as subject requires 尊敬語; plain form treats the guest like a colleague |
+| ありますか | ございますか | ございます is the refined existence form; あります sounds functional rather than service-oriented |
+| ありません | ございません | Negative must match the register of the sentence; ありません breaks the tone |
+| いいですか | よろしいでしょうか | でしょうか is softer than ですか; よろしい is more refined than いい |
+| ですね | でございますね | Preserves hotel register through the confirmation; ですね feels casual by comparison |
 
 ## でございます in Detail
 
@@ -44,16 +44,16 @@ Both mean "there is / we have," but ございます is the hotel-level form.
 <div class="bad-col">
 <span class="keigo-pair-label">Everyday polite</span>
 <span class="keigo-jp"><code>プールがあります。</code></span><br>
-"There is a pool."<br><br>
+There is a pool.<br><br>
 <span class="keigo-jp"><code>ご不明な点はありますか？</code></span><br>
-"Do you have any unclear points?"
+Do you have any unclear points?
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hotel 丁寧語</span>
 <span class="keigo-jp"><code>プールがございます。</code></span><br>
-"There is a pool."<br><br>
+There is a pool.<br><br>
 <span class="keigo-jp"><code>ご不明な点はございますか？</code></span><br>
-"Do you have any unclear points?"
+Do you have any unclear points?
 </div>
 </div>
 

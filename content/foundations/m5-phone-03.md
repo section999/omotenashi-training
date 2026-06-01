@@ -82,9 +82,16 @@ This is one of the most important distinctions in hotel Japanese, and one of the
 </div>
 </div>
 
-- **かしこまりました:** Guest makes a request ("Please arrange a twin room") — confirm receipt with full service neutrality.
-- **承知いたしました:** Guest provides information ("I will arrive at 10pm") — confirm the information was received and logged.
-- **分かりました:** Never use with guests. Appropriate only between staff members.
+- **かしこまりました:**
+  Use when the guest makes a request ("Please arrange a twin room").
+  Confirm receipt with full service commitment.
+
+- **承知いたしました:**
+  Use when the guest provides information ("I will arrive at 10pm").
+  Confirm the information was received and logged.
+
+- **分かりました:**
+  Never use with guests. Appropriate only between staff members.
 
 The difference is subtle but significant. かしこまりました positions the staff member as a service professional receiving an instruction. 分かりました positions them as an equal acknowledging a statement. In hotel service, the relationship is never equal, it is always service-directed.
 
