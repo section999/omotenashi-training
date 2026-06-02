@@ -14,16 +14,20 @@ title: でございます in Detail
 <div class="bad-col">
 <span class="keigo-pair-label">Everyday polite (です)</span>
 <span class="keigo-jp"><code>お部屋は302号室です。</code></span><br>
+<em>o-heya wa sanbyaku-ni goushitsu desu.</em><br>
 Your room is Room 302.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11時です。</code></span><br>
+<em>chekku-auto wa juuichi-ji desu.</em><br>
 Checkout is at 11:00.<br><br>
 <span class="keigo-badge bad">Too plain</span> Grammatically correct, but the register signals everyday speech rather than hotel service.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hotel 丁寧語 (でございます)</span>
 <span class="keigo-jp"><code>お部屋は302号室でございます。</code></span><br>
+<em>o-heya wa sanbyaku-ni goushitsu de gozaimasu.</em><br>
 Your room is Room 302.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span><br>
+<em>chekku-auto wa juuichi-ji de gozaimasu.</em><br>
 Checkout is at 11:00.<br><br>
 <span class="keigo-badge good">Hotel standard</span> Same information, delivered at the hotel register.
 </div>

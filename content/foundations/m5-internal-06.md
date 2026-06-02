@@ -72,8 +72,8 @@ The guest is still at the front desk.
 
 | Context | Tone | Focus | Language |
 |---|---|---|---|
-| Internal (to supervisor) | Direct, factual | Information + solution | 確認ミスがございました。対応をご指示ください |
-| Guest-facing | Warm, emotionally attentive | Guest's experience | 誠に申し訳ございません。ご不便をおかけいたしました |
+| Internal (to supervisor) | Direct, factual | Information + solution | <span>確認ミスがございました。対応をご指示ください</span> |
+| Guest-facing | Warm, emotionally attentive | Guest's experience | <span>誠に申し訳ございません。ご不便をおかけいたしました</span> |
 
 Using guest-facing apology language internally wastes time. Using internal apology language with a guest sounds cold and insufficient. The register must match the audience.
 

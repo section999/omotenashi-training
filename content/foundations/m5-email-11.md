@@ -19,8 +19,6 @@ An apology email is one of the most critical communications a hotel sends. It ca
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご不便のお詫び】ご滞在中のご不便について</code></span><br><br>
-<em>【 go fuben no owabi 】 go-taizai chu no go fuben nitsuite</em><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
 <em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
@@ -49,7 +47,8 @@ Name the specific issue. A general apology without naming what happened sounds d
 <em>setsubi no roukyu ka niyori go fuben o okake shimashita</em><br>
 <strong>Overly cheerful closing:</strong> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
 <em>mata no okoshi o omachi shite orimasu!</em><br>
-<strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span>
+<strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span><br>
+<em>kongo ki o tsuke masu</em>
 </div>
 
 Blaming equipment age shifts responsibility away from the hotel. The guest does not care why; they care about the impact and the response.

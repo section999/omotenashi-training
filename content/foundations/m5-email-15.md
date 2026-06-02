@@ -57,7 +57,8 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 <em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu</em><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: Apology<br>
 <em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n</em><br>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span>: Post-stay
+<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span>: Post-stay<br>
+<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita</em>
 </div>
 
 <div class="keigo-card blue">
@@ -69,7 +70,8 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 <em>○○ itadake masu to saiwai de gozaimasu</em><br>
 <span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
 <em>go-kakunin itadake masu to saiwai de gozaimasu</em><br>
-<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding
+<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding<br>
+<em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em>
 </div>
 
 <div class="keigo-card blue">
@@ -83,7 +85,8 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 <em>kongo to mo yoroshiku onegai moushiage masu</em><br>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Universal support close<br>
 <em>o kigaru ni go-renraku kudasaimase</em><br>
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close<br>
+<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase</em>
 </div>
 
 ---

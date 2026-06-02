@@ -1,132 +1,81 @@
 ---
 id: m5-meeting-08
 section: 8
-title: Reading a Complete Handover Note
+title: Written Examples: Room Issues and Complaints
 ---
 
-This lesson uses a single sample handover note to build five practical reading skills: recognizing structure, identifying status labels, connecting section headers to shift priorities, completing partial entries, and making operational decisions from what you read.
+The clearest way to understand professional handover writing is to compare weak entries with correct ones. Each case below presents a real hotel situation, a typical error, and the professional rewrite with analysis.
 
-## The Sample Note
+## Case 1: AC Failure (Critical Room Issue)
 
-The following is a complete handover note from an afternoon shift.
+A guest in Room 305 reported that their air conditioning is not working. The outgoing staff arranged for a repair.
 
-```
-最優先情報：
-305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。
-
-対応中案件：
-210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。
-
-客室状況：
-412号室：清掃未完了。15:00頃対応予定。
-
-未完了タスク：
-延泊希望あり（501号室）。フロント確認待ち。
-
-特記事項：
-604号室：ナッツアレルギーあり。レストランに申し送り済み。
-```
-
-Read it once before continuing. Note which entries feel complete and which feel like they require something from you.
-
-## 1. Structure: What Each Line Is Made Of
-
-Every entry in this note follows the same pattern: **[Location] + [Situation] + [Status]**.
-
-| Entry | Location | Situation | Status |
-|---|---|---|---|
-| 305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。 | 305号室 | VIPゲスト（鈴木様） | 対応済み |
-| 210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。 | 210号室 | 騒音クレーム | 経過確認要 |
-| 412号室：清掃未完了。15:00頃対応予定。 | 412号室 | 清掃未完了 | 15:00頃対応予定 |
-| 延泊希望あり（501号室）。フロント確認待ち。 | 501号室 | 延泊希望 | 確認待ち |
-| 604号室：ナッツアレルギーあり。レストランに申し送り済み。 | 604号室 | ナッツアレルギー | 申し送り済み |
-
-Every entry is traceable. You can identify where the situation is, what it is, and what has been done or still needs to happen.
-
-## 2. Before and After
-
-The same information written without structure looks like this.
-
-<div class="keigo-card blue">
-
-**Poorly written:**
-
-```
-VIPゲストがいます。
-クレームがありました。
-部屋がまだ準備できていません。
-延泊したいお客様がいます。
-アレルギーのお客様がいます。
-```
-
-**Correctly written:**
-
-```
-305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。
-210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。
-412号室：清掃未完了。15:00頃対応予定。
-延泊希望あり（501号室）。フロント確認待ち。
-604号室：ナッツアレルギーあり。レストランに申し送り済み。
-```
-
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>エアコンがちょっとおかしい感じで、明日修理する予定です。</code></span><br><br>
+<span class="keigo-badge bad">ちょっと/感じ</span> Vague and emotional language<br>
+<strong>No room number:</strong> The incoming staff does not know which room.<br>
+<strong>Unclear ownership:</strong> Who arranged the repair?
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br><br>
+<span class="keigo-badge good">Room + Issue + Status</span> All three components present<br>
+<strong>Specific:</strong> Room 305, AC issue, repair confirmed<br>
+<strong>Timeline:</strong> Incoming shift knows when to expect resolution
+</div>
 </div>
 
-The poorly written version is five problems with no location, no status, and no next step. The incoming staff knows something is wrong, but has no way to act on any of it.
+## Case 2: Noise Complaint (Interpersonal Situation)
 
-## 3. Section Headers and the Three Questions
+A guest in Room 210 complained about noise from the room next door. Night staff spoke to both rooms.
 
-In Lesson 1, handover was defined by three questions the incoming shift must answer. The section headers in this note map directly to those questions.
-
-| Section Header | Question It Answers |
-|---|---|
-| 最優先情報<br><em>saisuyusen jouhou</em> | Who needs attention right now? |
-| 対応中案件<br><em>taiouchuu anken</em> | What is currently being handled? |
-| 未完了タスク<br><em>mikanryou tasuku</em> | What is unresolved? |
-| 客室状況<br><em>kyakushitsu joukyou</em> | What else must I know? |
-| 特記事項<br><em>tokkijishou</em> | What else must I know? |
-
-When writing your own notes, check whether each entry fits one of these three questions. If an entry does not fit, it is likely missing a location, a status label, or both.
-
-## 4. Fill in the Blank
-
-Complete each partial entry with the correct status term. Refer to the vocabulary from Lesson 3 if needed.
-
-<div class="keigo-card blue">
-
-**a.** 412号室：清掃未完了。15:00頃 ___。
-<br>Answer: 対応予定
-
-**b.** 501号室：延泊希望あり。フロント ___。
-<br>Answer: 確認待ち
-
-**c.** 210号室：騒音クレーム対応済み。経過 ___。
-<br>Answer: 確認要
-
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>お客様がうるさいと言っていて少し困っている感じです。</code></span><br><br>
+<span class="keigo-badge bad">Staff's feelings</span> 困っている感じ is the staff member's emotion, not relevant.<br>
+<strong>No room numbers:</strong> Which rooms were involved?<br>
+<strong>No resolution status:</strong> Was anything done?
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>210号室：騒音クレームあり。隣室（211号室）に説明済み。両室対応済み。</code></span><br><br>
+<span class="keigo-badge good">Both rooms named</span> The incoming staff can monitor either room.<br>
+<strong>Action documented:</strong> Both rooms were addressed.
+</div>
 </div>
 
-These are not the only correct answers. Any status term that accurately reflects the actual state of the task is acceptable. The goal is to confirm that the label you choose matches the situation precisely.
+## Case 3: Extra Request (Simple Completed Task)
 
-## 5. Comprehension: Making a Decision
+A guest asked for extra towels and they were delivered.
 
-Read the sample note again. You are the incoming night staff. It is now 22:00.
-
-**Which task requires your attention first, and why?**
-
-Room 412 was marked for cleaning at 15:00. It is now 22:00 and no update has been recorded. This entry is overdue. Before any other task, confirm whether the room was actually cleaned. If it was not, resolve it or escalate immediately.
-
-This is what reading a handover means in practice. The status terms record the plan from the previous shift. Your responsibility is to verify the plan was carried out, and act on anything that was not.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>タオル欲しいと言われたので渡しました。</code></span><br><br>
+<span class="keigo-badge bad">Conversational style</span> ので (because/so) is explanatory narration, not a handover note.<br>
+<strong>No room number:</strong> Which guest?
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>412号室：タオル追加依頼あり。対応済み。</code></span><br><br>
+<span class="keigo-badge good">Concise</span> Request confirmed and closed in two phrases.
+</div>
+</div>
 
 ---
 
 ## Quiz
 
-**You receive the handover note in this lesson. It is 22:00. Room 412 was marked for cleaning at 15:00, but no update has been recorded. What should you do?**
+**Which is the correct handover entry for a noise complaint in Room 210?**
 
-- A. Ignore it because the previous shift already noted it
-- B. Mark it as 対応済み since the scheduled time has passed
-- C. Check whether the room was cleaned and act on the result
-- D. Wait until morning and ask the day shift
+- A. ちょっと騒音問題がありました
+- B. たぶんうるさかったみたいです
+- C. お客様がうるさいと言っていました
+- D. 210号室：騒音クレームあり。夜間スタッフ対応済み。
 
-**Correct Answer:** C
+**Correct Answer:** D
 
-**Explanation:** A status entry without a follow-up update is not confirmation that a task was completed. 15:00頃対応予定 records a plan, not a result. The incoming staff is responsible for verifying overdue entries and acting on any that were not resolved. Ignoring the entry or deferring it to the next shift risks a guest arriving at an unprepared room.
+**Explanation:** The correct format is [Room] + [Issue] + [Status]. Option D follows this structure exactly: room number identified, issue labeled with the operational term 騒音クレーム, and status confirmed as handled. Options A and B use vague softening words (ちょっと, たぶん) that are banned from handover writing. Option C is written as conversational reporting, lacks both the room number and the resolution status, and does not tell the incoming staff what was done.

@@ -26,12 +26,14 @@ Using a plain verb when the guest is the subject sounds fine in everyday convers
 <div class="bad-col">
 <span class="keigo-pair-label">No 尊敬語</span>
 <span class="keigo-jp"><code>お客様は食べましたか？</code></span><br>
+<em>okyakusama wa tabemashita ka?</em><br>
 Has the guest eaten?<br><br>
 <span class="keigo-badge bad">Register error</span> Plain verb treats the guest's action like a colleague's.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 applied</span>
 <span class="keigo-jp"><code>お客様はもう召し上がりましたか？</code></span><br>
+<em>okyakusama wa mou meshiagarimashita ka?</em><br>
 Has the guest already eaten?<br><br>
 <span class="keigo-badge good">Correct</span> 召し上がる is the 尊敬語 form of 食べる.
 </div>

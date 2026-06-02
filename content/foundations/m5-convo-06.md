@@ -59,16 +59,19 @@ The request I made at the front desk earlier has not been handled at all.<br><br
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Defensive, Never say</span>
-<span class="keigo-jp"><code>それは私の担当ではありませんので…</code></span>
-<br>"That is not my responsibility..."<br><br>
-<span class="keigo-jp"><code>ルール上、それはできません</code></span>
-<br>"According to our rules, that is not possible."<br><br>
+<span class="keigo-jp"><code>それは私の担当ではありませんので…</code></span><br>
+<em>sore wa watashi no tantou de wa arimasen node...</em><br>
+"That is not my responsibility..."<br><br>
+<span class="keigo-jp"><code>ルール上、それはできません</code></span><br>
+<em>ruuru jou, sore wa dekimasen</em><br>
+"According to our rules, that is not possible."<br><br>
 <span class="keigo-badge bad">Why these fail</span> The guest does not care about internal responsibility or rules. They care about their experience. Defensive language escalates the complaint immediately.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Professional, Always say</span>
-<span class="keigo-jp"><code>誠に申し訳ございませんでした。ただいま対応いたします。</code></span>
-<br>"I sincerely apologize. I will take care of this now."<br><br>
+<span class="keigo-jp"><code>誠に申し訳ございませんでした。ただいま対応いたします。</code></span><br>
+<em>makotoni moushiwake gozaimasen deshita. tadaima taiou itashimasu.</em><br>
+"I sincerely apologize. I will take care of this now."<br><br>
 <span class="keigo-badge good">Why this works</span> Takes responsibility on behalf of the hotel as a whole. The guest feels heard and acted upon.
 </div>
 </div>

@@ -56,9 +56,9 @@ The target for all hotel email writing is professional warmth. Not overly formal
 
 | Register | Phrase |
 |---|---|
-| Too stiff | 深甚なる謝意を表明申し上げます。 |
-| Too casual | ありがとうございます！また来てくださいね！ |
-| Hotel standard | 誠にありがとうございます。ご到着を心よりお待ち申し上げております。 |
+| Too stiff | <span>深甚なる謝意を表明申し上げます。</span> |
+| Too casual | <span>ありがとうございます！また来てくださいね！</span> |
+| Hotel standard | <span>誠にありがとうございます。ご到着を心よりお待ち申し上げております。</span> |
 
 The "too stiff" example is overly ceremonial and emotionally cold despite formal politeness. The "too casual" example is friendly but not appropriate for professional hotel correspondence. The hotel standard is polite, warm, and appropriately professional.
 

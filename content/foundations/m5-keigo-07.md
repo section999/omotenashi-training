@@ -14,12 +14,14 @@ Use 謙譲語 whenever **staff** are the subject and the action is directed towa
 <div class="bad-col">
 <span class="keigo-pair-label">No 謙譲語</span>
 <span class="keigo-jp"><code>確認します。</code></span><br>
+<em>kakunin shimasu.</em><br>
 I'll confirm.<br><br>
 <span class="keigo-badge bad">Incomplete</span> Sounds like a colleague talking to another colleague.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">謙譲語 applied</span>
 <span class="keigo-jp"><code>確認いたします。</code></span><br>
+<em>kakunin itashimasu.</em><br>
 I will confirm.<br><br>
 <span class="keigo-badge good">Correct</span> いたします is the humble form of する; it places the staff in a service role.
 </div>

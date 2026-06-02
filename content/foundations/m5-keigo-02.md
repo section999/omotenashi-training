@@ -25,9 +25,9 @@ Japanese has three formal speech systems that hotels use together in every inter
 
 | Register | Japanese | Function |
 |---|---|---|
-| Honorific | 尊敬語 (Sonkeigo) | Describes the **guest's** actions; raises the guest |
-| Humble | 謙譲語 (Kenjogo) | Describes the **staff's** actions; lowers the staff |
-| Polite | 丁寧語 (Teineigo) | Sets the general professional tone |
+| Honorific | <span>尊敬語 (Sonkeigo)</span> | Describes the **guest's** actions; raises the guest |
+| Humble | <span>謙譲語 (Kenjogo)</span> | Describes the **staff's** actions; lowers the staff |
+| Polite | <span>丁寧語 (Teineigo)</span> | Sets the general professional tone |
 
 Using only one register is not enough. A hotel interaction that uses only teineigo sounds technically polite but emotionally flat. The combination of all three creates the distinctively warm, professional atmosphere of Japanese hospitality.
 
@@ -51,12 +51,14 @@ A common misunderstanding is that keigo is a performance, like putting on a mask
 <div class="bad-col">
 <span class="keigo-pair-label">Keigo as performance</span>
 <span class="keigo-jp"><code>かしこまりました。</code></span><br>
+<em>kashikomarimashita.</em><br>
 Said while glancing at a screen, mid-task.<br><br>
 <span class="keigo-badge bad">Wrong</span> The correct words are present, but the delivery reveals the staff is not fully present. Guests notice immediately.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Keigo as trained standard</span>
 <span class="keigo-jp"><code>かしこまりました。</code></span><br>
+<em>kashikomarimashita.</em><br>
 Said after pausing, turning toward the guest, with eye contact.<br><br>
 <span class="keigo-badge good">Correct</span> Same phrase. The standard is in the delivery, not just the vocabulary.
 </div>

@@ -61,14 +61,14 @@ Functional and professional without over-formality.
 
 | Situation | Type | Key Opening |
 |---|---|---|
-| Task completed | 報告 | 〇〇の件、完了いたしました |
-| Problem discovered | 報告 | 問題が発生いたしました。ご報告いたします |
-| Guest complaint received | 報告 | 〇〇様よりご苦情がございました |
-| Passing an update to a colleague | 連絡 | 〇〇の件、お伝えしておきます |
-| Informing another department | 連絡 | フロントの〇〇です。〇〇号室のお客様より... |
-| Asking for guidance on an unusual request | 相談 | 少しご相談してもよろしいでしょうか |
-| Reporting your own error | 報告 | ご報告いたします。〇〇の際にミスがございました |
-| Escalating to a manager | 相談 + 報告 | 私の対応範囲を超えていると判断いたしました |
+| Task completed | <span>報告</span> | <span>〇〇の件、完了いたしました</span> |
+| Problem discovered | <span>報告</span> | <span>問題が発生いたしました。ご報告いたします</span> |
+| Guest complaint received | <span>報告</span> | <span>〇〇様よりご苦情がございました</span> |
+| Passing an update to a colleague | <span>連絡</span> | <span>〇〇の件、お伝えしておきます</span> |
+| Informing another department | <span>連絡</span> | <span>フロントの〇〇です。〇〇号室のお客様より...</span> |
+| Asking for guidance on an unusual request | <span>相談</span> | <span>少しご相談してもよろしいでしょうか</span> |
+| Reporting your own error | <span>報告</span> | <span>ご報告いたします。〇〇の際にミスがございました</span> |
+| Escalating to a manager | <span>相談 + 報告</span> | <span>私の対応範囲を超えていると判断いたしました</span> |
 
 ## Internal Communication and Guest Experience
 

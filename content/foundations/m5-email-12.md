@@ -17,8 +17,6 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 ## Template 1: Simple Cancellation (No Fee)
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span><br><br>
-<em>【 kyanseru kakunin 】[ Name ] sama go-yoyaku kyanseru no go-kakunin</em><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
 <em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
 Thank you for contacting us.<br><br>
@@ -36,8 +34,6 @@ We hope to have the opportunity to welcome you again. We look forward to your fu
 ## Template 2: Cancellation with Fee
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span><br><br>
-<em>【 kyanseru kakunin 】[ Name ] sama kyanseru ryou no go-annai</em><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
 <em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
 Thank you for contacting us.<br><br>
@@ -61,7 +57,9 @@ We hope to have the opportunity to welcome you again.
 ## Key Phrase: 誠に恐れ入りますが
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に恐れ入りますが</code></span>: "I am truly sorry to say, but..."
+<span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
+<em>makotoni osoreirimasu ga</em><br>
+I am truly sorry to say, but...
 </div>
 
 This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.

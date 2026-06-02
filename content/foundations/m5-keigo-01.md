@@ -22,12 +22,14 @@ Friendliness and politeness are different things. A staff member can be friendly
 <div class="bad-col">
 <span class="keigo-pair-label">Friendly but untrained</span>
 <span class="keigo-jp"><code>ありがとうございます！またきてくださいね！</code></span><br>
+<em>arigatou gozaimasu! mata kite kudasai ne!</em><br>
 Thanks! Come again!<br><br>
 <span class="keigo-badge bad">Incomplete</span> Warm in tone, but the casual register signals the staff is untrained. Guests judge the hotel accordingly.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Keigo standard</span>
 <span class="keigo-jp"><code>ありがとうございます。またのお越しを心よりお待ち申し上げております。</code></span><br>
+<em>arigatou gozaimasu. mata no o-koshi o kokoro yori o-machi moushiagemasu.</em><br>
 Thank you. We look forward to welcoming you again.<br><br>
 <span class="keigo-badge good">Correct</span> The same warmth, delivered at hotel standard. The guest leaves with a clear sense of where they stayed.
 </div>

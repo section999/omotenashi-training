@@ -34,9 +34,9 @@ Before the opening, the subject line must be clear and specific. A vague subject
 
 | Result | Subject Line |
 |---|---|
-| Correct | 【ご予約確認】山田様 7月15日〜16日 1泊 |
-| Correct | 【設備点検のお知らせ】7月20日(土) プール一時休止 |
-| Wrong | ご確認ください |
+| Correct | <span>【ご予約確認】山田様 7月15日〜16日 1泊</span> |
+| Correct | <span>【設備点検のお知らせ】7月20日(土) プール一時休止</span> |
+| Wrong | <span>ご確認ください</span> |
 
 The first example has the guest name, dates, and purpose visible at a glance. The second identifies the date and affected facility immediately. The wrong example is vague and does not tell the guest what to expect inside.
 
@@ -84,7 +84,9 @@ Long compound sentences are harder to read. Break them into shorter units.
 <span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span><br><br>
 <em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni o toiawase kudasaimase.</em><br>
 <strong>Closing:</strong><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
+All of our staff sincerely look forward to your arrival.
 </div>
 
 ## The Tone Check

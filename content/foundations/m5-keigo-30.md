@@ -29,12 +29,14 @@ Recognizing these conditions makes it possible to increase alertness before an e
 <div class="bad-col">
 <span class="keigo-pair-label">Unstable keigo</span>
 <span class="keigo-jp"><code>かしこまりました。確認します。</code></span><br>
+<em>kashikomarimashita. kakunin shimasu.</em><br>
 Certainly. I'll confirm.<br><br>
 <span class="keigo-badge bad">Reversion</span> The acknowledgment is hotel-level, but the action statement reverts to plain. The inconsistency is noticeable.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Stable keigo</span>
 <span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
+<em>kashikomarimashita. tadaima go-kakunin itashimasu.</em><br>
 Certainly. I will confirm that right now.<br><br>
 <span class="keigo-badge good">Consistent</span> Both phrases maintain the hotel register. The guest receives a single, unified professional impression.
 </div>

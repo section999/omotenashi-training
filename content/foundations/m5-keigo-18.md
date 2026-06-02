@@ -18,17 +18,17 @@ Knowing individual keigo forms is not enough. Professional hotel keigo requires 
 
 | Word origin | Prefix | Example |
 |---|---|---|
-| Japanese-origin (<span>和語</span>) | <span>お</span> | <span>部屋</span> → <span>お部屋</span> |
-| Chinese-origin (<span>漢語</span>) | <span>ご</span> | <span>予約</span> → <span>ご予約</span> |
-| Loanword (<span>外来語</span>) | none | チェックイン → チェックイン |
+| <span>Japanese-origin (<span>和語</span>)</span> | <span>お</span> | <span>部屋</span> → <span>お部屋</span> |
+| <span>Chinese-origin (<span>漢語</span>)</span> | <span>ご</span> | <span>予約</span> → <span>ご予約</span> |
+| <span>Loanword (<span>外来語</span>)</span> | none | <span>チェックイン → チェックイン</span> |
 
 ## Question 3: What Is the Sentence Ending?
 
 | Ending | Use |
 |---|---|
-| <span>でございます</span> | Stating facts; refined form of です |
-| <span>ございます</span> | Refined existence; replaces あります |
-| <span>いたします</span> | Staff action; humble form of します |
+| <span>でございます</span> | <span>Stating facts; refined form of です</span> |
+| <span>ございます</span> | <span>Refined existence; replaces あります</span> |
+| <span>いたします</span> | <span>Staff action; humble form of します</span> |
 | <span>くださいませ</span> | Polished instruction to the guest |
 | <span>でしょうか</span> | Softened question or confirmation |
 

@@ -379,6 +379,31 @@
     .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-red); }
     .keigo-pair .good-col .keigo-pair-label { color: var(--accent-green); }
     .keigo-jp code { background: rgba(241,190,50,0.08); padding: 1px 6px; border-radius: 3px; font-size: 0.95rem; font-weight: 600; color: var(--text-primary); }
+    /* JP sentence wrapper — column layout for dropdown romaji */
+    .jp-sentence-wrap { display: inline-flex; flex-direction: column; vertical-align: top; max-width: 100%; }
+    .jp-top-line { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    /* Romaji — distinct font, dropdown below JP text */
+    em.keigo-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: #7eb8f7; background: rgba(100,160,255,0.07); border-left: 2px solid rgba(100,160,255,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
+    em.keigo-romaji.shown { display: block; }
+    [data-theme="light"] em.keigo-romaji { color: #1a5fae; background: rgba(26,95,180,0.06); border-left-color: rgba(26,95,180,0.3); }
+    /* td span em (status table pattern) */
+    em.td-romaji { display: none; font-style: italic; font-family: 'Menlo','Courier New',monospace; font-size: 0.8em; color: #7eb8f7; }
+    em.td-romaji.shown { display: inline; }
+    [data-theme="light"] em.td-romaji { color: #1a5fae; }
+    /* Reading column (vocab tables) */
+    .section-body td.vocab-reading-cell { color: transparent !important; transition: color 0.15s; font-family: 'Menlo','Courier New',monospace; font-size: 0.88em; }
+    .section-body td.vocab-reading-cell.shown { color: #7eb8f7 !important; }
+    [data-theme="light"] .section-body td.vocab-reading-cell.shown { color: #1a5fae !important; }
+    /* JP action buttons */
+    .jp-action-btns { display: inline-flex; gap: 4px; align-items: center; flex-shrink: 0; }
+    .jp-action-btn { display: inline-flex; align-items: center; justify-content: center; height: 20px; padding: 0 8px; border-radius: 99px; border: 1px solid rgba(255,255,255,0.1); background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.35); font-size: 0.6rem; font-family: var(--font-mono); letter-spacing: 0.03em; cursor: pointer; white-space: nowrap; transition: background 0.15s, color 0.15s, border-color 0.15s, box-shadow 0.15s; }
+    .jp-action-btn:hover { background: rgba(255,255,255,0.09); color: rgba(255,255,255,0.75); border-color: rgba(255,255,255,0.22); }
+    .jp-speak-btn:hover { background: rgba(100,160,255,0.1); color: #7eb8f7; border-color: rgba(100,160,255,0.3); box-shadow: 0 0 0 2px rgba(100,160,255,0.08); }
+    .jp-action-btn.active { background: rgba(241,190,50,0.12); color: #f1be32; border-color: rgba(241,190,50,0.4); box-shadow: 0 0 0 2px rgba(241,190,50,0.08); }
+    [data-theme="light"] .jp-action-btn { border-color: rgba(0,0,0,0.1); background: rgba(0,0,0,0.03); color: rgba(0,0,0,0.35); }
+    [data-theme="light"] .jp-action-btn:hover { background: rgba(0,0,0,0.07); color: rgba(0,0,0,0.75); border-color: rgba(0,0,0,0.18); }
+    [data-theme="light"] .jp-speak-btn:hover { background: rgba(26,95,180,0.07); color: #1a5fae; border-color: rgba(26,95,180,0.3); }
+    [data-theme="light"] .jp-action-btn.active { background: rgba(26,95,180,0.08); color: #1a5fae; border-color: rgba(26,95,180,0.4); }
     [data-theme="light"] .keigo-card { background: #f5f6f7; border-color: #d8d8e0; }
     [data-theme="light"] .keigo-card.blue .keigo-card-title { color: #002ead; }
     [data-theme="light"] .keigo-card.green .keigo-card-title { color: #1a9058; }
@@ -388,7 +413,9 @@
     /* ── PHRASE BLOCK ────────────────────────────────────────────── */
     .phrase-block { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-left: 4px solid var(--accent-blue); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
     .phrase-jp { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: var(--text-primary); }
-    .phrase-romaji { font-style: italic; color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 4px; }
+    .phrase-romaji { font-style: italic; color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 4px; display: none; }
+    .phrase-romaji.shown { display: block; }
+    .phrase-jp { display: flex; align-items: center; flex-wrap: wrap; gap: 4px; }
     .phrase-en { color: var(--text-primary); font-size: 0.9rem; }
     [data-theme="light"] .phrase-block { background: #f5f6f7; border-color: #d8d8e0; }
     [data-theme="light"] .keigo-pair .bad-col { background: rgba(197,68,42,0.04); }
@@ -797,7 +824,7 @@ const FILE_MAP = {
   'content/foundations/m5-keigo-29.md': { module:'Honorific Language for Guest Service', lesson:'Keigo Basics', section:29, total:30, prev:'content/foundations/m5-keigo-28.md', next:'content/foundations/m5-keigo-30.md' },
   'content/foundations/m5-keigo-30.md': { module:'Honorific Language for Guest Service', lesson:'Keigo Basics', section:30, total:30, prev:'content/foundations/m5-keigo-29.md', next:'content/foundations/m5-meeting-01.md' },
 
-  'content/foundations/m5-meeting-01.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:1, total:8, prev:'content/foundations/m5-keigo-30.md', next:'content/foundations/m5-meeting-02.md' },
+  'content/foundations/m5-meeting-01.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:1, total:15, prev:'content/foundations/m5-keigo-30.md', next:'content/foundations/m5-meeting-02.md' },
   'content/foundations/m5-email-01.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:1, total:15, prev:'content/foundations/m5-internal-07.md', next:'content/foundations/m5-email-02.md' },
   'content/foundations/m5-email-02.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:2, total:15, prev:'content/foundations/m5-email-01.md', next:'content/foundations/m5-email-03.md' },
   'content/foundations/m5-email-03.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:3, total:15, prev:'content/foundations/m5-email-02.md', next:'content/foundations/m5-email-04.md' },
@@ -813,13 +840,20 @@ const FILE_MAP = {
   'content/foundations/m5-email-13.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:13, total:15, prev:'content/foundations/m5-email-12.md', next:'content/foundations/m5-email-14.md' },
   'content/foundations/m5-email-14.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:14, total:15, prev:'content/foundations/m5-email-13.md', next:'content/foundations/m5-email-15.md' },
   'content/foundations/m5-email-15.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:15, total:15, prev:'content/foundations/m5-email-14.md', next:'content/foundations/m5-phone-01.md' },
-  'content/foundations/m5-meeting-02.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:2, total:8, prev:'content/foundations/m5-meeting-01.md', next:'content/foundations/m5-meeting-03.md' },
-  'content/foundations/m5-meeting-03.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:3, total:8, prev:'content/foundations/m5-meeting-02.md', next:'content/foundations/m5-meeting-04.md' },
-  'content/foundations/m5-meeting-04.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:4, total:8, prev:'content/foundations/m5-meeting-03.md', next:'content/foundations/m5-meeting-05.md' },
-  'content/foundations/m5-meeting-05.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:5, total:8, prev:'content/foundations/m5-meeting-04.md', next:'content/foundations/m5-meeting-06.md' },
-  'content/foundations/m5-meeting-06.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:6, total:8, prev:'content/foundations/m5-meeting-05.md', next:'content/foundations/m5-meeting-07.md' },
-  'content/foundations/m5-meeting-07.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:7, total:8, prev:'content/foundations/m5-meeting-06.md', next:'content/foundations/m5-meeting-08.md' },
-  'content/foundations/m5-meeting-08.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:8, total:8, prev:'content/foundations/m5-meeting-07.md', next:'content/foundations/m5-internal-01.md' },
+  'content/foundations/m5-meeting-02.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:2, total:15, prev:'content/foundations/m5-meeting-01.md', next:'content/foundations/m5-meeting-03.md' },
+  'content/foundations/m5-meeting-03.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:3, total:15, prev:'content/foundations/m5-meeting-02.md', next:'content/foundations/m5-meeting-04.md' },
+  'content/foundations/m5-meeting-04.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:4, total:15, prev:'content/foundations/m5-meeting-03.md', next:'content/foundations/m5-meeting-05.md' },
+  'content/foundations/m5-meeting-05.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:5, total:15, prev:'content/foundations/m5-meeting-04.md', next:'content/foundations/m5-meeting-06.md' },
+  'content/foundations/m5-meeting-06.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:6, total:15, prev:'content/foundations/m5-meeting-05.md', next:'content/foundations/m5-meeting-07.md' },
+  'content/foundations/m5-meeting-07.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:7, total:15, prev:'content/foundations/m5-meeting-06.md', next:'content/foundations/m5-meeting-08.md' },
+  'content/foundations/m5-meeting-08.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:8, total:15, prev:'content/foundations/m5-meeting-07.md', next:'content/foundations/m5-meeting-09.md' },
+  'content/foundations/m5-meeting-09.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:9, total:15, prev:'content/foundations/m5-meeting-08.md', next:'content/foundations/m5-meeting-10.md' },
+  'content/foundations/m5-meeting-10.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:10, total:15, prev:'content/foundations/m5-meeting-09.md', next:'content/foundations/m5-meeting-11.md' },
+  'content/foundations/m5-meeting-11.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:11, total:15, prev:'content/foundations/m5-meeting-10.md', next:'content/foundations/m5-meeting-12.md' },
+  'content/foundations/m5-meeting-12.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:12, total:15, prev:'content/foundations/m5-meeting-11.md', next:'content/foundations/m5-meeting-13.md' },
+  'content/foundations/m5-meeting-13.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:13, total:15, prev:'content/foundations/m5-meeting-12.md', next:'content/foundations/m5-meeting-14.md' },
+  'content/foundations/m5-meeting-14.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:14, total:15, prev:'content/foundations/m5-meeting-13.md', next:'content/foundations/m5-meeting-15.md' },
+  'content/foundations/m5-meeting-15.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:15, total:15, prev:'content/foundations/m5-meeting-14.md', next:'content/foundations/m5-internal-01.md' },
   // m5-phone (8)
   'content/foundations/m5-phone-01.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:10, prev:'content/foundations/m5-email-15.md', next:'content/foundations/m5-phone-02.md' },
   'content/foundations/m5-phone-02.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:2, total:10, prev:'content/foundations/m5-phone-01.md', next:'content/foundations/m5-phone-03.md' },
@@ -841,7 +875,7 @@ const FILE_MAP = {
   'content/foundations/m5-convo-07.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:7, total:8, prev:'content/foundations/m5-convo-06.md', next:'content/foundations/m5-convo-08.md' },
   'content/foundations/m5-convo-08.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:8, total:8, prev:'content/foundations/m5-convo-07.md', next:null },
     // m5-internal (7)
-  'content/foundations/m5-internal-01.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:1, total:7, prev:'content/foundations/m5-meeting-08.md', next:'content/foundations/m5-internal-02.md' },
+  'content/foundations/m5-internal-01.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:1, total:7, prev:'content/foundations/m5-meeting-15.md', next:'content/foundations/m5-internal-02.md' },
   'content/foundations/m5-internal-02.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:2, total:7, prev:'content/foundations/m5-internal-01.md', next:'content/foundations/m5-internal-03.md' },
   'content/foundations/m5-internal-03.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:3, total:7, prev:'content/foundations/m5-internal-02.md', next:'content/foundations/m5-internal-04.md' },
   'content/foundations/m5-internal-04.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:4, total:7, prev:'content/foundations/m5-internal-03.md', next:'content/foundations/m5-internal-05.md' },
@@ -1850,6 +1884,7 @@ document.addEventListener('click', e => {
   if (w) speakJapanese(w.textContent.trim(), w);
 });
 
+
 // Wrap Japanese character runs in .section-body with clickable spans
 function wrapJapanese(root) {
   const JP_RE = /([\u3040-\u9FFF\uFF00-\uFFEF]+)/g;
@@ -1888,22 +1923,119 @@ function wrapJapanese(root) {
   });
 }
 
-// Make .keigo-jp code elements speakable + extract adjacent romaji for hover tooltip
-function wrapKeigoJpCodes(root) {
-  root.querySelectorAll('.keigo-jp code').forEach(code => {
-    code.classList.add('jp-word');
-    code.title = 'クリックで発音を聞く';
+// Create [▶] [abc] pill buttons for a Japanese sentence
+function makeJpActionBtns(jpText, romajiEl) {
+  const wrap = document.createElement('span');
+  wrap.className = 'jp-action-btns';
 
-    // Find adjacent <em> romaji: pattern is .keigo-jp<br><em>romaji</em>
-    const parent = code.closest('.keigo-jp');
-    if (!parent) return;
-    let sib = parent.nextSibling;
+  const speakBtn = document.createElement('button');
+  speakBtn.className = 'jp-action-btn jp-speak-btn';
+  speakBtn.title = '発音を聞く';
+  speakBtn.textContent = '▶';
+  speakBtn.addEventListener('click', e => { e.stopPropagation(); speakJapanese(jpText, speakBtn); });
+  wrap.appendChild(speakBtn);
+
+  if (romajiEl) {
+    const romajiBtn = document.createElement('button');
+    romajiBtn.className = 'jp-action-btn';
+    romajiBtn.title = 'ローマ字を表示';
+    romajiBtn.textContent = 'abc';
+    romajiBtn.addEventListener('click', e => {
+      e.stopPropagation();
+      const shown = romajiEl.classList.toggle('shown');
+      romajiBtn.classList.toggle('active', shown);
+    });
+    wrap.appendChild(romajiBtn);
+  }
+
+  return wrap;
+}
+
+// Wrap .keigo-jp sentences: [jp + btns] with romaji dropdown below
+function wrapKeigoJpCodes(root) {
+  root.querySelectorAll('.keigo-jp .jp-speak, .keigo-jp code').forEach(inner => {
+    inner.classList.add('jp-word');
+    const keigoJp = inner.closest('.keigo-jp');
+    if (!keigoJp) return;
+
+    // Find adjacent <em> romaji before any DOM changes.
+    // Only link if separated by at most 1 <br> (double-br means a new paragraph — not romaji).
+    let sib = keigoJp.nextSibling;
+    let brCount = 0;
     while (sib && (sib.nodeType === Node.TEXT_NODE || (sib.nodeType === Node.ELEMENT_NODE && sib.tagName === 'BR'))) {
+      if (sib.tagName === 'BR') brCount++;
       sib = sib.nextSibling;
     }
-    if (sib && sib.nodeType === Node.ELEMENT_NODE && sib.tagName === 'EM') {
-      code.dataset.romaji = sib.textContent.trim();
+    const romajiEm = (brCount <= 1 && sib && sib.tagName === 'EM') ? sib : null;
+    if (romajiEm) {
+      romajiEm.classList.add('keigo-romaji');
+      inner.dataset.romaji = romajiEm.textContent.trim();
     }
+
+    // Build: .jp-sentence-wrap > [.jp-top-line: keigoJp + btns] + [romajiEm]
+    const wrapper = document.createElement('span');
+    wrapper.className = 'jp-sentence-wrap';
+    const topLine = document.createElement('span');
+    topLine.className = 'jp-top-line';
+
+    keigoJp.parentNode.insertBefore(wrapper, keigoJp);
+    topLine.appendChild(keigoJp);
+    topLine.appendChild(makeJpActionBtns(inner.textContent.trim(), romajiEm));
+    wrapper.appendChild(topLine);
+
+    // Remove BR/text nodes between wrapper and romajiEm, move romajiEm inside wrapper
+    if (romajiEm) {
+      let cur = wrapper.nextSibling;
+      while (cur && cur !== romajiEm) {
+        const next = cur.nextSibling;
+        if (cur.nodeType === Node.TEXT_NODE || cur.tagName === 'BR') cur.remove();
+        cur = next;
+      }
+      if (cur === romajiEm) wrapper.appendChild(romajiEm);
+    }
+  });
+}
+
+// Add buttons to vocab tables and td span em patterns
+function initTableRomaji(root) {
+  // Pattern A: table with a "Reading" column header
+  root.querySelectorAll('table').forEach(table => {
+    const ths = Array.from(table.querySelectorAll('thead th'));
+    const readingIdx = ths.findIndex(th => /^reading$/i.test(th.textContent.trim()));
+    if (readingIdx < 0) return;
+    const termIdx = readingIdx > 0 ? readingIdx - 1 : 0;
+    table.querySelectorAll('tbody tr').forEach(row => {
+      const tds = row.querySelectorAll('td');
+      const readingTd = tds[readingIdx];
+      const termTd = tds[termIdx];
+      if (!readingTd || !termTd) return;
+      readingTd.classList.add('vocab-reading-cell');
+      const jpText = termTd.textContent.trim();
+      termTd.appendChild(makeJpActionBtns(jpText, readingTd));
+    });
+  });
+
+  // Pattern B: <td><span>JP<br><em>romaji</em></span></td>
+  root.querySelectorAll('td span em').forEach(em => {
+    em.classList.add('td-romaji');
+    const span = em.closest('span');
+    const td = em.closest('td');
+    if (!span || !td) return;
+    const jpText = Array.from(span.childNodes)
+      .filter(n => n.nodeName !== 'EM' && n.nodeName !== 'BR')
+      .map(n => n.textContent).join('').trim();
+    span.after(makeJpActionBtns(jpText, em));
+  });
+}
+
+// Add buttons to phrase-blocks
+function initPhraseBlockBtns(root) {
+  root.querySelectorAll('.phrase-block').forEach(block => {
+    const jpDiv = block.querySelector('.phrase-jp');
+    const romajiDiv = block.querySelector('.phrase-romaji');
+    if (!jpDiv) return;
+    const jpText = jpDiv.querySelector('.jp-speak')?.textContent.trim() || jpDiv.textContent.trim();
+    jpDiv.appendChild(makeJpActionBtns(jpText, romajiDiv));
   });
 }
 
@@ -3200,6 +3332,9 @@ async function render() {
   // wrapJapanese on all pages (vocab gets both widget and inline click-to-speak)
   const bodyEl = document.querySelector('.section-body');
   if (bodyEl) wrapJapanese(bodyEl);
+  if (bodyEl) wrapKeigoJpCodes(bodyEl);
+  if (bodyEl) initTableRomaji(bodyEl);
+  if (bodyEl) initPhraseBlockBtns(bodyEl);
 
   // ── Wrap tables in overflow-auto containers (so table fills content width) ──
   if (bodyEl) {

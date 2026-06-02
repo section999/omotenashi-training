@@ -19,8 +19,6 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【設備点検のお知らせ】[Date] [Affected facility]一時休止のご案内</code></span><br><br>
-<em>【 setsubi tenken no oshirase 】[ Date ] [ Affected facility ] ichi ji kyushi no go-annai</em><br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
 <em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for your continued use of our hotel.<br><br>

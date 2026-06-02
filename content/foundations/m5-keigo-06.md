@@ -12,12 +12,14 @@ Knowing sonkeigo forms in isolation is not enough. This lesson applies them to r
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
 <span class="keigo-jp"><code>なんじにチェックインしますか？</code></span><br>
+<em>nanji ni chekku-in shimasu ka?</em><br>
 What time will you check in?<br><br>
 <span class="keigo-badge bad">Wrong</span> Guest's action described without 尊敬語.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
 <span class="keigo-jp"><code>なんじごろお越しになりますか？</code></span><br>
+<em>nanji goro o-koshi ni narimasu ka?</em><br>
 Around what time will you be arriving?<br><br>
 <span class="keigo-badge good">Correct</span> お越しになる is the honorific for 来る in this context.
 </div>
@@ -27,12 +29,14 @@ Around what time will you be arriving?<br><br>
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
 <span class="keigo-jp"><code>朝食は食べますか？</code></span><br>
+<em>choushoku wa tabemasu ka?</em><br>
 Will you eat breakfast?<br><br>
 <span class="keigo-badge bad">Wrong</span> 食べる should be 召し上がる for the guest.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
 <span class="keigo-jp"><code>朝食はお召し上がりになりますか？</code></span><br>
+<em>choushoku wa o-meshiagari ni narimasu ka?</em><br>
 Will you be having breakfast?<br><br>
 <span class="keigo-badge good">Correct</span> 召し上がる elevated; お○○になります adds further polish.
 </div>
@@ -48,12 +52,14 @@ Sonkeigo verbs elevate whoever performs the action. If a staff member uses them 
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>私がいらっしゃいます。</code></span><br>
+<em>watashi ga irasshaimasu.</em><br>
 I am here.<br><br>
 <span class="keigo-badge bad">Wrong</span> いらっしゃいます elevates the speaker above the guest.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>私がおります。</code></span><br>
+<em>watashi ga orimasu.</em><br>
 I am here.<br><br>
 <span class="keigo-badge good">Correct</span> おります is 謙譲語 for いる; it lowers the staff's position.
 </div>
@@ -63,12 +69,14 @@ I am here.<br><br>
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+<em>tantousha ga irasshaimasu.</em><br>
 The person in charge is here.<br><br>
 <span class="keigo-badge bad">Wrong</span> Elevates a colleague above the guest.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>担当者がおります。</code></span><br>
+<em>tantousha ga orimasu.</em><br>
 The person in charge is here.<br><br>
 <span class="keigo-badge good">Correct</span> おります keeps the staff in the appropriate humble position.
 </div>

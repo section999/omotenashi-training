@@ -14,12 +14,14 @@ Among all humble forms, 承ります (uketamawarimasu) deserves special attentio
 <div class="bad-col">
 <span class="keigo-pair-label">いただきます (general receiving)</span>
 <span class="keigo-jp"><code>ご要望をいただきました。</code></span><br>
+<em>go-youbou o itadakimashita.</em><br>
 I received your request.<br><br>
 <span class="keigo-badge bad">Incomplete</span> Grammatically humble, but sounds like a passive acknowledgment rather than a service commitment.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">承ります (service receiving)</span>
 <span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
+<em>go-youbou o uketamawarimashita.</em><br>
 I have received and accepted your request.<br><br>
 <span class="keigo-badge good">Preferred</span> 承ります signals active responsibility; the staff is not just acknowledging but committing to act.
 </div>

@@ -14,16 +14,20 @@ This is the most widespread error. Staff use plain or everyday polite forms when
 <div class="bad-col">
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>お客様は食べましたか？</code></span><br>
+<em>okyakusama wa tabemashita ka?</em><br>
 Has the guest eaten?<br><br>
 <span class="keigo-jp"><code>何時に来ますか？</code></span><br>
+<em>nanji ni kimasu ka?</em><br>
 What time will you come?<br><br>
 <span class="keigo-badge bad">Why it happens</span> Plain verbs are instinctive. 尊敬語 requires a conscious choice.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>お客様はもう召し上がりましたか？</code></span><br>
+<em>okyakusama wa mou meshiagarimashita ka?</em><br>
 Has the guest already eaten?<br><br>
 <span class="keigo-jp"><code>何時頃お越しになりますか？</code></span><br>
+<em>nanji goro o-koshi ni narimasu ka?</em><br>
 Around what time will you be arriving?<br><br>
 <span class="keigo-badge good">Rule</span> Guest as subject = always 尊敬語 verb.
 </div>
@@ -37,16 +41,20 @@ Using 尊敬語 verbs to describe your own actions or a colleague's actions elev
 <div class="bad-col">
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>私がご案内していらっしゃいます。</code></span><br>
+<em>watashi ga go-annai shite irasshaimasu.</em><br>
 (using 尊敬語 for self)<br><br>
 <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+<em>tantousha ga irasshaimasu.</em><br>
 (using 尊敬語 for a colleague)<br><br>
 <span class="keigo-badge bad">Why it happens</span> Confusion about which direction the hierarchy runs.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>私がご案内いたします。</code></span><br>
+<em>watashi ga go-annai itashimasu.</em><br>
 (謙譲語 for self)<br><br>
 <span class="keigo-jp"><code>担当者がおります。</code></span><br>
+<em>tantousha ga orimasu.</em><br>
 (humble form for colleague)<br><br>
 <span class="keigo-badge good">Rule</span> Staff and colleagues = 謙譲語. Only the guest gets 尊敬語.
 </div>

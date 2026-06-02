@@ -12,7 +12,7 @@ Pick up within three rings. Answering after five or more rings requires an immed
 
 The standard answer format is:
 *"○○ホテル、○○でございます。いつもお世話になっております。"*
-"[Property name], this is [your name]. Thank you for calling."
+[Property name], this is [your name]. Thank you for calling.
 
 The phrase *"いつもお世話になっております"* (thank you for your continued support) is standard in Japanese business calls. Use it with guests who have stayed before or with business partners.
 

@@ -12,7 +12,7 @@ Internal communication errors do not stay internal. A vague report to a supervis
 
 | Dimension | Guest-Facing | Internal |
 |---|---|---|
-| Register | Highest (尊敬語 + 謙譲語) | Formal but functional |
+| Register | <span>Highest (尊敬語 + 謙譲語)</span> | Formal but functional |
 | Priority | Guest comfort and emotional experience | Accuracy and efficiency |
 | Length | As warm and complete as needed | Concise; key facts first |
 | Apology style | Deeply softened, emotionally attentive | Direct acknowledgment, solution-focused |

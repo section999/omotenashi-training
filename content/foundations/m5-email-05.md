@@ -14,13 +14,17 @@ The opening, body, and closing must all operate at the same formality level. A s
 <div class="bad-col">
 <span class="keigo-pair-label">Register break</span>
 <span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
-<span class="keigo-jp"><code>また来てくださいね！</code></span><br><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+<span class="keigo-jp"><code>また来てくださいね！</code></span><br>
+<em>mata kite kudasai ne!</em><br><br>
 <span class="keigo-badge bad">Inconsistent</span> The first sentence is formal hotel language. The second shifts to casual shopkeeper language. The guest feels the hotel is not paying attention.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Consistent register</span>
 <span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
-<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span><br><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span><br>
+<em>mata no okoshi o kokoro yori omachi moushiage te orimasu.</em><br><br>
 <span class="keigo-badge good">Consistent</span> Both sentences maintain the same professional warmth.
 </div>
 </div>
@@ -31,9 +35,9 @@ Hotel email language is not cold business Japanese and it is not casual friendly
 
 | Register | Phrase |
 |---|---|
-| Too cold | ご確認ください。 |
-| Too casual | チェックしてくださいね！ |
-| Hotel standard | ご確認いただけますと幸いでございます。 |
+| Too cold | <span>ご確認ください。</span> |
+| Too casual | <span>チェックしてくださいね！</span> |
+| Hotel standard | <span>ご確認いただけますと幸いでございます。</span> |
 
 The "too cold" form is grammatically polite but emotionally distant. The "too casual" form is friendly but not appropriate for hotel correspondence. The hotel standard is polite, gentle, warm, and professional.
 
@@ -44,12 +48,14 @@ Excessive keigo sounds unnatural and emotionally distant. Guests feel addressed 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Over-keigo</span>
-<span class="keigo-jp"><code>深甚なる謝意を申し上げ奉ります。</code></span><br><br>
+<span class="keigo-jp"><code>深甚なる謝意を申し上げ奉ります。</code></span><br>
+<em>shinjin naru sha-i o moushiage tatematsuri masu.</em><br><br>
 <span class="keigo-badge bad">Unnatural</span> Ceremonial language from a different era. Most guests find this stiff and uncomfortable.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Natural hotel language</span>
-<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br><br>
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
+<em>makotoni arigatou gozaimasu.</em><br><br>
 <span class="keigo-badge good">Natural</span> Simple, warm, and appropriate. Professional keigo is never about complexity.
 </div>
 </div>
@@ -62,13 +68,16 @@ An email that ends with the last piece of information, without a closing phrase,
 <div class="bad-col">
 <span class="keigo-pair-label">Abrupt ending</span>
 <span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
+<em>go-yoyaku o kakunin itashimashita.</em><br>
 [End of email]<br><br>
 <span class="keigo-badge bad">Cold</span> Grammatically correct but emotionally flat. The guest feels processed, not welcomed.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Complete ending</span>
 <span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br><br>
+<em>go-yoyaku o kakunin itashimashita.</em><br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br><br>
 <span class="keigo-badge good">Complete</span> Adds support and warmth after the information.
 </div>
 </div>
@@ -79,12 +88,12 @@ Small word choices within the body of an email create a significant difference i
 
 | Everyday Form | Hotel Email Standard | Why It Changes |
 |---|---|---|
-| ありがとうございます | 誠にありがとうございます | 誠に adds genuine sincerity; prevents the phrase from sounding automatic |
-| ください | くださいませ | ませ softens the request; the guest feels guided rather than instructed |
-| 確認してください | ご確認いただけますと幸いでございます | Transforms a command into a humble invitation; the guest retains full autonomy |
-| 問題ありません | ご安心くださいませ | Shifts focus from dismissing the concern to caring for the guest's peace of mind |
-| また来てください | またのお越しをお待ちしております | Expresses genuine anticipation from the hotel's side rather than an instruction to the guest |
-| わかりました | かしこまりました / 承りました | Signals both full understanding and service commitment, not just acknowledgment |
+| <span>ありがとうございます</span> | <span>誠にありがとうございます</span> | <span>誠に adds genuine sincerity; prevents the phrase from sounding automatic</span> |
+| <span>ください</span> | <span>くださいませ</span> | <span>ませ softens the request; the guest feels guided rather than instructed</span> |
+| <span>確認してください</span> | <span>ご確認いただけますと幸いでございます</span> | Transforms a command into a humble invitation; the guest retains full autonomy |
+| <span>問題ありません</span> | <span>ご安心くださいませ</span> | Shifts focus from dismissing the concern to caring for the guest's peace of mind |
+| <span>また来てください</span> | <span>またのお越しをお待ちしております</span> | Expresses genuine anticipation from the hotel's side rather than an instruction to the guest |
+| <span>わかりました</span> | <span>かしこまりました / 承りました</span> | Signals both full understanding and service commitment, not just acknowledgment |
 
 ## The Test: Read from the Guest's Perspective
 

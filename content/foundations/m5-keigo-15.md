@@ -40,12 +40,14 @@ When verifying information with a guest, use でございますね or よろし�
 <div class="bad-col">
 <span class="keigo-pair-label">Everyday polite</span>
 <span class="keigo-jp"><code>3泊ですね？</code></span><br>
+<em>sanhaku desu ne?</em><br>
 That is 3 nights, right?<br><br>
 <span class="keigo-badge bad">Too casual</span> ですね drops the hotel-level register.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hotel 丁寧語</span>
 <span class="keigo-jp"><code>3泊でございますね。</code></span><br>
+<em>sanhaku de gozaimasu ne.</em><br>
 That is a 3-night stay, correct?<br><br>
 <span class="keigo-badge good">Correct</span> でございますね maintains the polished register while inviting confirmation.
 </div>
@@ -55,12 +57,14 @@ That is a 3-night stay, correct?<br><br>
 <div class="bad-col">
 <span class="keigo-pair-label">Everyday polite</span>
 <span class="keigo-jp"><code>こちらでいいですか？</code></span><br>
+<em>kochira de ii desu ka?</em><br>
 Is this alright?<br><br>
 <span class="keigo-badge bad">Too casual</span> いいですか sounds like a quick check between colleagues.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hotel 丁寧語</span>
 <span class="keigo-jp"><code>こちらでよろしいでしょうか。</code></span><br>
+<em>kochira de yoroshii deshou ka.</em><br>
 Would this be alright?<br><br>
 <span class="keigo-badge good">Correct</span> よろしい is more refined than いい; でしょうか turns the check into a respectful inquiry.
 </div>

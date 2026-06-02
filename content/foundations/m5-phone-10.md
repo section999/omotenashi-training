@@ -16,13 +16,13 @@ Emergency calls, power failure, medical concern, fire alarm, injury, require a r
 <div class="bad-col">
 <span class="keigo-pair-label">Panic Response</span>
 <span class="keigo-jp"><code>えっ、どうしましょう！すぐ誰かを呼びますね！</code></span>
-<br><br>
+<br><em>e', dou shimashou! sugu dareka o yobi masu ne!</em><br><br>
 <span class="keigo-badge bad">Destroys trust</span> Sounds unprepared. The guest feels the hotel cannot handle the situation.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Controlled Response</span>
 <span class="keigo-jp"><code>申し訳ございません。ただいますぐ対応いたします。</code></span>
-<br><br>
+<br><em>moushiwake gozaimase n. tada ima sugu taiou itashimasu.</em><br><br>
 <span class="keigo-badge good">Builds trust</span> Calm and decisive. The guest feels the hotel is in control.
 </div>
 </div>
@@ -58,7 +58,7 @@ These are the five most frequent mistakes in hotel telephone communication, alon
 
 | Mistake | Example | Operational Consequence |
 |---|---|---|
-| Casual language | 分かりました、OKです | Reduces guest perception of hotel quality |
+| Casual language | <span>分かりました、OKです</span> | Reduces guest perception of hotel quality |
 | Missing confirmation | Processing without repeating details | Booking errors, wrong dates, wrong names |
 | Unexplained silence | Going silent during system checks | Guest anxiety, calls feel disconnected |
 | Emotional reaction | Sighing, surprised responses | Escalates complaints, loses trust |

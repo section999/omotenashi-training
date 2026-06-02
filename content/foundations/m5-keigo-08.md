@@ -8,7 +8,7 @@ Like sonkeigo, the most important 謙譲語 verbs are irregular. They have compl
 
 ## Group 1: Irregular Kenjogo Verbs
 
-| Plain Form | 謙譲語 Form | Meaning in Context |
+| Plain Form | <span>謙譲語 Form</span> | Meaning in Context |
 |---|---|---|
 | <span>行く</span> | <span>参ります</span> | I go (toward the guest) |
 | <span>行く</span> | <span>伺います</span> | I visit / go humbly |

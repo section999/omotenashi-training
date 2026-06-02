@@ -10,15 +10,15 @@ title: 丁寧語: What It Actually Does
 
 A common misunderstanding is that using desu and masu is enough. In hotel contexts, 丁寧語 means replacing everyday polite forms with refined forms that sound more formal, measured, and professional.
 
-| Everyday Polite | Hotel 丁寧語 | Why Use This |
+| Everyday Polite | <span>Hotel 丁寧語</span> | Why Use This |
 |---|---|---|
-| <span>です</span> | <span>でございます</span> | More polished than です; establishes hotel-level register in every statement |
+| <span>です</span> | <span>でございます</span> | <span>More polished than です; establishes hotel-level register in every statement</span> |
 | <span>しています</span> | <span>しております</span> | Humble ongoing form; communicates service attention, not just activity |
-| <span>していますか</span> | <span>なさっていますか</span> | Guest as subject requires 尊敬語; plain form treats the guest like a colleague |
-| <span>ありますか</span> | <span>ございますか</span> | ございます is the refined existence form; あります sounds functional rather than service-oriented |
-| <span>ありません</span> | <span>ございません</span> | Negative must match the register of the sentence; ありません breaks the tone |
-| <span>いいですか</span> | <span>よろしいでしょうか</span> | でしょうか is softer than ですか; よろしい is more refined than いい |
-| <span>ですね</span> | <span>でございますね</span> | Preserves hotel register through confirmations; ですね feels casual by comparison |
+| <span>していますか</span> | <span>なさっていますか</span> | <span>Guest as subject requires 尊敬語; plain form treats the guest like a colleague</span> |
+| <span>ありますか</span> | <span>ございますか</span> | <span>ございます is the refined existence form; あります sounds functional rather than service-oriented</span> |
+| <span>ありません</span> | <span>ございません</span> | <span>Negative must match the register of the sentence; ありません breaks the tone</span> |
+| <span>いいですか</span> | <span>よろしいでしょうか</span> | <span>でしょうか is softer than ですか; よろしい is more refined than いい</span> |
+| <span>ですね</span> | <span>でございますね</span> | <span>Preserves hotel register through confirmations; ですね feels casual by comparison</span> |
 
 ## The Three Layers Working Together
 

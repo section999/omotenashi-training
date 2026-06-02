@@ -33,13 +33,13 @@ We look forward to your next visit.
 
 | Phrase | Keigo in Use |
 |---|---|
-| <span>いらっしゃいませ</span> | 尊敬語:welcomes the guest's arrival |
+| <span>いらっしゃいませ</span> | 尊敬語: welcomes the guest's arrival |
 | <span>ご予約のお名前</span> | ご (漢語 prefix) + お (和語 prefix) |
 | <span>お聞かせいただけますでしょうか</span> | Humble receiving + 丁寧語 question |
-| <span>でいらっしゃいますね</span> | 尊敬語:confirms guest identity |
-| <span>でございます</span> | 丁寧語:refined statement |
+| <span>でいらっしゃいますね</span> | 尊敬語: confirms guest identity |
+| <span>でございます</span> | 丁寧語: refined statement |
 | <span>お申し付けくださいませ</span> | Polished instruction to the guest |
-| <span>お待ちしております</span> | 謙譲語:humble waiting |
+| <span>お待ちしております</span> | 謙譲語: humble waiting |
 
 ---
 

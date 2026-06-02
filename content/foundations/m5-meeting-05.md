@@ -1,105 +1,67 @@
 ---
 id: m5-meeting-05
 section: 5
-title: Written Handover Examples
+title: Facility, Maintenance, and Time Terms
 ---
 
-The clearest way to understand professional handover writing is to compare weak entries with correct ones. Each case below presents a real hotel situation, a typical error, and the professional rewrite with analysis.
+Facility, maintenance, and time vocabulary allows you to describe physical problems and deadlines with precision. These terms appear in nearly every shift that involves a room issue, a repair, or a pending task.
 
-## Case 1: AC Failure (Critical Room Issue)
+## Facility and Room Terms
 
-A guest in Room 305 reported that their air conditioning is not working. The outgoing staff arranged for a repair.
+| Term | Reading | Meaning |
+|---|---|---|
+| <span>客室</span> | <span>kyakushitsu</span> | guest room |
+| <span>フロント</span> | <span>furonto</span> | front desk |
+| <span>レストラン</span> | <span>resutoran</span> | restaurant |
+| <span>空調</span> | <span>kuchou</span> | air conditioning |
+| <span>清掃</span> | <span>seisou</span> | cleaning / housekeeping |
+| <span>設備</span> | <span>setsubi</span> | facility / equipment |
+| <span>廊下</span> | <span>rouka</span> | corridor / hallway |
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>エアコンがちょっとおかしい感じで、明日修理する予定です</code></span><br><br>
-<span class="keigo-badge bad">ちょっと/感じ</span> Vague and emotional language<br>
-<strong>No room number:</strong> The incoming staff does not know which room<br>
-<strong>Unclear ownership:</strong> Who arranged the repair?
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br><br>
-<span class="keigo-badge good">Room + Issue + Status</span> All three components present<br>
-<strong>Specific:</strong> Room 305, AC issue, repair confirmed<br>
-<strong>Timeline:</strong> Incoming shift knows when to expect resolution
-</div>
-</div>
+空調 is the correct operational term for air conditioning in handover entries. エアコン appears in spoken language and in quotes from guests, but 空調不良 is the written standard for recording an AC issue.
 
-## Case 2: Noise Complaint (Interpersonal Situation)
+## Maintenance Terms
 
-A guest in Room 210 complained about noise from the room next door. Night staff spoke to both rooms.
+| Term | Reading | Meaning |
+|---|---|---|
+| <span>故障</span> | <span>koshou</span> | breakdown / failure |
+| <span>不具合</span> | <span>fuguai</span> | malfunction / problem |
+| <span>修理手配</span> | <span>shuri tehai</span> | repair arranged |
+| <span>点検</span> | <span>tenken</span> | inspection / check |
+| <span>対応予定</span> | <span>taiou yotei</span> | scheduled for action |
+| <span>申し送り</span> | <span>moushiokuri</span> | written handover record |
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>お客様がうるさいと言っていて少し困っている感じです</code></span><br><br>
-<span class="keigo-badge bad">Staff's feelings</span> 困っている感じ is the staff member's emotion, not relevant<br>
-<strong>No room numbers:</strong> Which rooms were involved?<br>
-<strong>No resolution status:</strong> Was anything done?
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>210号室：騒音クレームあり。隣室（211号室）に説明済み。両室対応済み。</code></span><br><br>
-<span class="keigo-badge good">Both rooms named</span> The incoming staff can monitor either room<br>
-<strong>Action documented:</strong> Both rooms were addressed
-</div>
-</div>
+修理手配済み means the repair has been arranged (confirmed). 修理手配中 means it is still being arranged. Use the exact form that reflects the actual status.
 
-## Case 3: Extra Request (Simple Completed Task)
+## Time Terms
 
-A guest asked for extra towels and they were delivered.
+| Term | Reading | Meaning |
+|---|---|---|
+| <span>本日中</span> | <span>honjitsu chuu</span> | by end of today |
+| <span>至急</span> | <span>shikyuu</span> | urgent / immediately |
+| <span>○○頃</span> | <span>○○ goro</span> | around ○○ (approximate time) |
+| <span>○○まで</span> | <span>○○ made</span> | by ○○ (deadline) |
+| <span>本日</span> | <span>honjitsu</span> | today (formal) |
+| <span>翌日</span> | <span>yokujitsu</span> | the following day |
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>タオル欲しいと言われたので渡しました</code></span><br><br>
-<span class="keigo-badge bad">Conversational style</span> ので (because/so) is explanatory narration, not a handover note<br>
-<strong>No room number:</strong> Which guest?
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>412号室：タオル追加依頼あり。対応済み。</code></span><br><br>
-<span class="keigo-badge good">Concise</span> Request confirmed and closed in two phrases
-</div>
-</div>
+○○頃 signals an approximation; use it only when no confirmed time is available. If a time is confirmed, state it directly (18:00ご到着予定, not 18:00頃ご到着予定).
 
-## Case 4: Pending Request (Incomplete Task)
+## Combining Facility, Maintenance, and Time Terms
 
-A guest wants to extend their stay but room availability has not been confirmed.
+A complete maintenance entry names the room, states the problem using the correct operational term, and gives the status with a time reference.
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>延泊したいって言ってました。まだ確認中です。</code></span><br><br>
-<span class="keigo-badge bad">って quotation style</span> Casual spoken Japanese, not appropriate for written records<br>
-<strong>No room number:</strong> Incoming staff does not know which guest to follow up with<br>
-<strong>No owner:</strong> Who is confirming availability?
+<span><code>エアコンがおかしいみたいです。</code></span><br>
+The AC seems to be having a problem.<br><br>
+<span class="keigo-badge bad">Vague</span> みたいです is uncertain; エアコン is informal; no room; no status.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>501号室：延泊希望あり（1泊追加）。フロント確認待ち。</code></span><br><br>
-<span class="keigo-badge good">Room + Request + Owner</span> Complete and actionable<br>
-<strong>Specific request:</strong> 1 additional night tells the front desk exactly what to confirm
-</div>
-</div>
-
-## Case 5: VIP Arrival (Priority Guest)
-
-A VIP guest is scheduled to arrive during the evening shift.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>VIPのお客様が来るかもしれないので、よろしくお願いします。</code></span><br><br>
-<span class="keigo-badge bad">かもしれない</span> Uncertainty is not acceptable for VIP notifications<br>
-<strong>よろしくお願いします:</strong> Not an operational instruction; incoming staff does not know what is expected
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>【VIP対応】山田様（305号室）：18:00頃ご到着予定。ウェルカムフルーツ準備済み。チェックイン時マネージャー対応。</code></span><br><br>
-<span class="keigo-badge good">All required information</span> Who, which room, when, what is prepared, who should handle
+<span><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
+Room 305: AC malfunction. Repair arranged (scheduled for tomorrow).<br><br>
+<span class="keigo-badge good">Complete</span> Room, operational term, confirmed repair status, and timeline.
 </div>
 </div>
 
@@ -107,13 +69,13 @@ A VIP guest is scheduled to arrive during the evening shift.
 
 ## Quiz
 
-**Which is the correct handover entry for a noise complaint in Room 210?**
+**Which is the correct operational term for recording an air conditioning problem in a handover entry?**
 
-- A. ちょっと騒音問題がありました
-- B. たぶんうるさかったみたいです
-- C. お客様がうるさいと言っていました
-- D. 210号室：騒音クレームあり。夜間スタッフ対応済み。
+- A. エアコン壊れています
+- B. 空調不良
+- C. クーラーがおかしい
+- D. エアコン問題あり
 
-**Correct Answer:** D
+**Correct Answer:** B
 
-**Explanation:** The correct format is [Room] + [Issue] + [Status]. Option D follows this structure exactly: room number identified, issue labeled with the operational term 騒音クレーム, and status confirmed as handled. Options A and B use vague softening words (ちょっと, たぶん) that are banned from handover writing. Option C is written as conversational reporting, not as an operational record, and lacks both the room number context and the resolution status.
+**Explanation:** 空調不良 is the standard operational term for an air conditioning malfunction in written hotel records. 空調 is the formal term for air conditioning systems, and 不良 specifies malfunction or poor condition. エアコン is acceptable in speech and in direct guest quotes, but 空調不良 is the correct form for handover entries. The other options mix informal vocabulary with conversational phrasing that does not meet written operational standards.

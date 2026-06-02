@@ -14,7 +14,7 @@ For native Japanese verbs (和語) without an irregular sonkeigo form, apply thi
 
 The masu-stem is the verb's ます form with ます removed.
 
-| Plain | ます form | Masu-stem | Sonkeigo |
+| Plain | <span>ます form</span> | Masu-stem | Sonkeigo |
 |---|---|---|---|
 | <span>書く</span> | <span>書きます</span> | <span>書き</span> | <span>お書きになります</span> |
 | <span>待つ</span> | <span>待ちます</span> | <span>待ち</span> | <span>お待ちになります</span> |
@@ -46,7 +46,7 @@ For verbs of Chinese origin (漢語), typically two-kanji compounds used with �
 
 **ご + [漢語 noun stem] + になります / なさいます**
 
-| Plain (する form) | Noun stem | Sonkeigo |
+| <span>Plain (する form)</span> | Noun stem | Sonkeigo |
 |---|---|---|
 | <span>利用する</span> | <span>利用</span> | <span>ご利用になります</span> |
 | <span>確認する</span> | <span>確認</span> | <span>ご確認になります</span> |

@@ -37,12 +37,14 @@ Here is your bill.
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
 <span class="keigo-jp"><code>朝食は食べましたか？</code></span><br>
+<em>choushoku wa tabemashita ka?</em><br>
 Did you eat breakfast?<br><br>
 <span class="keigo-badge bad">Wrong</span> Plain form does not elevate the guest's action.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
 <span class="keigo-jp"><code>朝食はお召し上がりになりましたか？</code></span><br>
+<em>choushoku wa o-meshiagari ni narimashita ka?</em><br>
 Did you have breakfast?<br><br>
 <span class="keigo-badge good">Correct</span> 召し上がる is the 尊敬語 form for eating and drinking.
 </div>

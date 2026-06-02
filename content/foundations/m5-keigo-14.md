@@ -14,16 +14,20 @@ Both mean "there is / we have," but ございます is the hotel-level form. Usi
 <div class="bad-col">
 <span class="keigo-pair-label">Everyday polite</span>
 <span class="keigo-jp"><code>プールがあります。</code></span><br>
+<em>puuru ga arimasu.</em><br>
 There is a pool.<br><br>
 <span class="keigo-jp"><code>ご不明な点はありますか？</code></span><br>
+<em>go-fumei na ten wa arimasu ka?</em><br>
 Do you have any unclear points?<br><br>
 <span class="keigo-badge bad">Too plain</span> あります is functional but drops the hotel register.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hotel 丁寧語</span>
 <span class="keigo-jp"><code>プールがございます。</code></span><br>
+<em>puuru ga gozaimasu.</em><br>
 There is a pool.<br><br>
 <span class="keigo-jp"><code>ご不明な点はございますか？</code></span><br>
+<em>go-fumei na ten wa gozaimasu ka?</em><br>
 Do you have any unclear points?<br><br>
 <span class="keigo-badge good">Correct</span> ございます maintains hotel register throughout.
 </div>
@@ -49,9 +53,9 @@ I am looking into that now.
 
 | Ending | Use |
 |---|---|
-| <span>でございます</span> | Stating facts; refined form of です |
-| <span>ございます</span> | Refined existence; replaces あります |
-| <span>いたします</span> | Staff action; humble form of します |
+| <span>でございます</span> | <span>Stating facts; refined form of です</span> |
+| <span>ございます</span> | <span>Refined existence; replaces あります</span> |
+| <span>いたします</span> | <span>Staff action; humble form of します</span> |
 | <span>くださいませ</span> | Polished instruction to the guest |
 | <span>でしょうか</span> | Softened question or confirmation |
 

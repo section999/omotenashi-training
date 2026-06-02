@@ -17,8 +17,7 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご到着前のご案内】[Name]様 ご滞在について</code></span><br><br>
-<em>【 go touchaku mae no go-annai 】[ Name ] sama go-taizai nitsuite</em><br>
+
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>

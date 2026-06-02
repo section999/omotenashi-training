@@ -17,8 +17,7 @@ The reservation confirmation is often the first direct communication from the ho
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご予約確認】[Name]様 [Date]〜[Date] [Number]泊</code></span><br><br>
-<em>【 go-yoyaku kakunin 】[ Name ] sama [ Date ]〜[ Date ] [ Number ] haku</em><br>
+
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
@@ -47,11 +46,15 @@ We sincerely look forward to your arrival.
 ## Key Phrases Explained
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>スタッフ一同</code></span> (staffu ichidou): "all of our staff"<br><br>
+<span class="keigo-jp"><code>スタッフ一同</code></span><br>
 <em>sutaffu ichidou</em><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span>: "so that you may have a comfortable stay"<br><br>
+all of our staff<br><br>
+<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span><br>
 <em>kaiteki ni osugoshi itadake masu you</em><br>
-<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span>: "sincerely look forward to"
+so that you may have a comfortable stay<br><br>
+<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span><br>
+<em>kokoro yori omachi moushiage te orimasu</em><br>
+sincerely look forward to
 </div>
 
 スタッフ一同 makes the welcome feel collective rather than coming from one person, which is more impactful. The guest feels the whole hotel is preparing for them.

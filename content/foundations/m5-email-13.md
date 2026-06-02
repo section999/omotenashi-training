@@ -17,8 +17,6 @@ Guests frequently contact hotels with questions before booking: room availabilit
 ## Full Template: Availability Inquiry
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【お問い合わせへの回答】[Topic] について</code></span><br><br>
-<em>【 o toiawase e no kaitou 】[ Topic ] nitsuite</em><br>
 <span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, tou hoteru e o toiawase itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for your inquiry to our hotel on this occasion.<br><br>

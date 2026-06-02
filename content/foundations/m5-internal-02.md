@@ -16,8 +16,8 @@ The correct structure is: **conclusion → situation → action taken or needed*
 
 | Style | Example |
 |---|---|
-| Story-first (avoid) | 「702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...」 |
-| Conclusion-first (correct) | 「702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。」 |
+| Story-first (avoid) | <span>「702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...」</span> |
+| Conclusion-first (correct) | <span>「702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。」</span> |
 
 ## The Three-Part Report Structure
 

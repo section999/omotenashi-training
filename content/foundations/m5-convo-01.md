@@ -71,12 +71,12 @@ Each stage of the check-in dialogue serves a specific purpose:
 
 | Stage | Key Phrase | Purpose |
 |-------|------------|---------|
-| Welcome | いらっしゃいませ | Establishes warm first impression |
-| Name Request | お聞かせいただけますでしょうか | Begins identity verification softly |
-| Identity Confirmation | ○○様でいらっしゃいますね | Confirms politely without sounding interrogative |
-| Reservation Confirmation | お間違いないでしょうか | Prevents errors; shows the hotel is organized |
-| Information Delivery | こちらが○○でございます | Delivers key information clearly |
-| Closing | ごゆっくりお過ごしくださいませ | Ends with warmth, care, and hospitality |
+| Welcome | <span>いらっしゃいませ</span> | Establishes warm first impression |
+| Name Request | <span>お聞かせいただけますでしょうか</span> | Begins identity verification softly |
+| Identity Confirmation | <span>○○様でいらっしゃいますね</span> | Confirms politely without sounding interrogative |
+| Reservation Confirmation | <span>お間違いないでしょうか</span> | Prevents errors; shows the hotel is organized |
+| Information Delivery | <span>こちらが○○でございます</span> | Delivers key information clearly |
+| Closing | <span>ごゆっくりお過ごしくださいませ</span> | Ends with warmth, care, and hospitality |
 
 ## The First 10 Seconds
 

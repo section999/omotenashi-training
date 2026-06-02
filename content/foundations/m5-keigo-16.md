@@ -19,7 +19,7 @@ In hotel keigo, the prefixes お and ご are added to nouns and verb stems to cr
 
 ## Common Hotel Words with お
 
-| With お | Plain Form | English |
+| <span>With お</span> | Plain Form | English |
 |---|---|---|
 | <span>お部屋</span> | <span>部屋</span> | room |
 | <span>お荷物</span> | <span>荷物</span> | luggage |

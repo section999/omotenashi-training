@@ -65,14 +65,16 @@ Staff:   またのお越しをお待ちしております。お気をつけて�
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Plain</span>
-<span class="keigo-jp"><code>これが請求書です</code></span>
-<br><em>"This is the bill."</em><br><br>
+<span class="keigo-jp"><code>これが請求書です</code></span><br>
+<em>kore ga seikyuusho desu</em><br>
+"This is the bill."<br><br>
 <span class="keigo-badge bad">Problem</span> Blunt and transactional. Feels like handing over a document, not providing a service.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hospitality</span>
-<span class="keigo-jp"><code>こちらがご請求書でございます</code></span>
-<br><em>"Here is your bill."</em><br><br>
+<span class="keigo-jp"><code>こちらがご請求書でございます</code></span><br>
+<em>kochira ga go-seikyuusho de gozaimasu</em><br>
+"Here is your bill."<br><br>
 <span class="keigo-badge good">Effect</span> こちら (this way / here) is softer than これ (this). ご prefix honors the bill. でございます raises formality.
 </div>
 </div>

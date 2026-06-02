@@ -8,7 +8,7 @@ This lesson covers ご and the two important exceptions to the お/ご rule: Chi
 
 ## Common Hotel Words with ご
 
-| With ご | Plain Form | English |
+| <span>With ご</span> | Plain Form | English |
 |---|---|---|
 | <span>ご予約</span> | <span>予約</span> | reservation |
 | <span>ご確認</span> | <span>確認</span> | confirmation |
@@ -27,13 +27,13 @@ Some Chinese-origin words have become fixed polite expressions with お in the s
 
 | Word | Type | English |
 |---|---|---|
-| <span>お電話</span> | 漢語 | telephone call |
-| <span>お料理</span> | 漢語 | cooking / food |
-| <span>お会計</span> | 漢語 | bill / payment |
-| <span>お掃除</span> | 漢語 | cleaning |
-| <span>お写真</span> | 漢語 | photograph |
-| <span>お返事</span> | 漢語 | reply |
-| <span>お時間</span> | 漢語 | time (polite) |
+| <span>お電話</span> | <span>漢語</span> | telephone call |
+| <span>お料理</span> | <span>漢語</span> | cooking / food |
+| <span>お会計</span> | <span>漢語</span> | bill / payment |
+| <span>お掃除</span> | <span>漢語</span> | cleaning |
+| <span>お写真</span> | <span>漢語</span> | photograph |
+| <span>お返事</span> | <span>漢語</span> | reply |
+| <span>お時間</span> | <span>漢語</span> | time (polite) |
 
 These are fixed hotel phrases. Use お電話, not ご電話. Use お会計, not ご会計.
 

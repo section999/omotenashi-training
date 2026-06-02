@@ -29,18 +29,19 @@ May I ask for the name on your reservation?<br><br>
 
 | Element | Grammar Function |
 |---------|-----------------|
-| ご予約 | Honorific prefix, elevates the guest's reservation |
-| お名前 | Beautified noun, softens "name" into a respectful form |
-| お聞かせ | Honorific causative form of 聞く |
-| いただけます | Humble receiving of the guest's action |
-| でしょうか | Softened question ending, invites rather than demands |
+| <span>ご予約</span> | Honorific prefix, elevates the guest's reservation |
+| <span>お名前</span> | Beautified noun, softens "name" into a respectful form |
+| <span>お聞かせ</span> | <span>Honorific causative form of 聞く</span> |
+| <span>いただけます</span> | Humble receiving of the guest's action |
+| <span>でしょうか</span> | Softened question ending, invites rather than demands |
 </div>
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Too Direct</span>
-<span class="keigo-jp"><code>お名前を教えてください</code></span>
-<br><em>"Please tell me your name."</em><br><br>
+<span class="keigo-jp"><code>お名前を教えてください</code></span><br>
+<em>o-namae o oshiete kudasai</em><br>
+"Please tell me your name."<br><br>
 <span class="keigo-badge bad">Problems</span>
 Grammatically correct, but feels commanding<br>
 Lacks the guiding, inviting quality of hospitality speech<br>
@@ -48,8 +49,9 @@ The guest feels questioned, not welcomed
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Hospitality Level</span>
-<span class="keigo-jp"><code>お聞かせいただけますでしょうか</code></span>
-<br><em>"May I ask...?"</em><br><br>
+<span class="keigo-jp"><code>お聞かせいただけますでしょうか</code></span><br>
+<em>o-kikase itadakemasu deshou ka</em><br>
+"May I ask...?"<br><br>
 <span class="keigo-badge good">Effect</span>
 Feels like a gentle invitation<br>
 Guest is guided, not interrogated<br>
@@ -65,9 +67,9 @@ You are Mr./Ms. Tanaka, correct?<br><br>
 
 | Version | Register | Feel |
 |---------|----------|------|
-| 田中さんですか？ | Casual polite | Sounds like a question; slightly interrogative |
-| 田中様ですね | Standard formal | Acceptable but lacks hospitality warmth |
-| 田中様でいらっしゃいますね | Hospitality keigo | Confirms gently; guest feels elevated |
+| <span>田中さんですか？</span> | Casual polite | Sounds like a question; slightly interrogative |
+| <span>田中様ですね</span> | Standard formal | Acceptable but lacks hospitality warmth |
+| <span>田中様でいらっしゃいますね</span> | Hospitality keigo | Confirms gently; guest feels elevated |
 
 いらっしゃいます is the honorific (尊敬語) form of いる (to be). It elevates the guest's existence, so "you are" becomes an expression of respect rather than a neutral statement. The soft ending ね transforms the confirmation from a question into a collaborative verification, which feels cooperative rather than interrogative.
 
@@ -79,9 +81,9 @@ Breakfast is served at the 1st floor restaurant from 7:00 to 10:00 AM.
 
 | Version | Feel |
 |---------|------|
-| 朝食は1階です | Purely informational, sounds like a sign |
-| 朝食はしています | Operational, the hotel is doing a task |
-| 朝食は承っております | Service-oriented, the hotel is hosting, not just operating |
+| <span>朝食は1階です</span> | Purely informational, sounds like a sign |
+| <span>朝食はしています</span> | Operational, the hotel is doing a task |
+| <span>朝食は承っております</span> | Service-oriented, the hotel is hosting, not just operating |
 
 The verb 承る (uketamawaru) originally means "to respectfully receive." When used for hotel services, it communicates that the hotel is offering its services in a spirit of respectful reception, not just providing a function, but serving with intention.
 
@@ -98,11 +100,11 @@ The Wi-Fi password is written on this card.
 
 | Common Mistake | Problem | Correct Hospitality Form |
 |----------------|---------|--------------------------|
-| お名前は？ | Abrupt, feels like a demand | ご予約のお名前をお聞かせいただけますでしょうか |
-| 部屋は702です | Plain, functional | 702号室でございます |
-| 朝食は1階です | Mechanical, lacks service tone | 1階レストランにて承っております |
-| 田中さんですね | Appropriate, but not hospitality level | 田中様でいらっしゃいますね |
-| 分かりました | Too casual | かしこまりました |
+| <span>お名前は？</span> | Abrupt, feels like a demand | <span>ご予約のお名前をお聞かせいただけますでしょうか</span> |
+| <span>部屋は702です</span> | Plain, functional | <span>702号室でございます</span> |
+| <span>朝食は1階です</span> | Mechanical, lacks service tone | <span>1階レストランにて承っております</span> |
+| <span>田中さんですね</span> | Appropriate, but not hospitality level | <span>田中様でいらっしゃいますね</span> |
+| <span>分かりました</span> | Too casual | <span>かしこまりました</span> |
 
 The pattern across all these corrections is the same: hospitality language shifts the interaction from **information exchange** to **service experience**. The words themselves communicate that the guest is being cared for, not just processed.
 

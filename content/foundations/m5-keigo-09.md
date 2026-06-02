@@ -12,7 +12,7 @@ For native Japanese verbs (和語) without a special kenjogo form, apply:
 
 **お + [masu-stem] + いたします**
 
-| Plain | ます form | Masu-stem | 謙譲語 |
+| Plain | <span>ます form</span> | Masu-stem | <span>謙譲語</span> |
 |---|---|---|---|
 | <span>持つ</span> | <span>持ちます</span> | <span>持ち</span> | <span>お持ちいたします</span> |
 | <span>届ける</span> | <span>届けます</span> | <span>届け</span> | <span>お届けいたします</span> |
@@ -44,7 +44,7 @@ For verb stems of Chinese origin (漢語), use **ご** instead of お:
 
 **ご + [漢語 noun stem] + いたします**
 
-| Plain (する form) | Noun stem | 謙譲語 |
+| <span>Plain (する form)</span> | Noun stem | <span>謙譲語</span> |
 |---|---|---|
 | <span>案内する</span> | <span>案内</span> | <span>ご案内いたします</span> |
 | <span>確認する</span> | <span>確認</span> | <span>ご確認いたします</span> |

@@ -13,12 +13,14 @@ Using present tense in an email about a completed stay is one of the most common
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございます。</code></span><br><br>
+<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimasu.</em><br><br>
 <span class="keigo-badge bad">Present tense</span> ありがとうございます is used for ongoing or current situations. The guest has already checked out.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました。</code></span><br><br>
+<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました。</code></span><br>
+<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita.</em><br><br>
 <span class="keigo-badge good">Past tense</span> ありがとうございました correctly reflects that the event is complete.
 </div>
 </div>
@@ -30,12 +32,14 @@ Beginning an apology with ありがとうございます before acknowledging th
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>いつもお世話になっております。この度は誠に申し訳ございません。</code></span><br><br>
+<span class="keigo-jp"><code>いつもお世話になっております。この度は誠に申し訳ございません。</code></span><br>
+<em>itsumo osewa ni natte orimasu. kono tabi wa makotoni moushiwake gozaimase n.</em><br><br>
 <span class="keigo-badge bad">Wrong priority</span> The gratitude opener delays the apology and feels tone-deaf to the guest's frustration.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br><br>
+<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
+<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br><br>
 <span class="keigo-badge good">Apology first</span> The opening immediately acknowledges the inconvenience.
 </div>
 </div>
@@ -46,12 +50,14 @@ Beginning an apology with ありがとうございます before acknowledging th
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
+<em>itsumo osewa ni natte orimasu.</em><br>
 (sent to a guest with no booking history)<br><br>
 <span class="keigo-badge bad">Wrong relationship</span> いつも assumes repeated contact. This signals carelessness.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br><br>
+<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br><br>
 <span class="keigo-badge good">Correct relationship</span> この度は signals a new interaction.
 </div>
 </div>
@@ -63,12 +69,14 @@ A shift in formality level partway through the email, even a single casual phras
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からです。また来てくださいね！</code></span><br><br>
+<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からです。また来てくださいね！</code></span><br>
+<em>makotoni arigatou gozaimasu. chekkuin wa 15 ji kara desu. mata kite kudasai ne!</em><br><br>
 <span class="keigo-badge bad">Register breaks</span> です (mild polite) and また来てくださいね (casual) both fall below hotel standard.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からでございます。またのお越しをお待ち申し上げております。</code></span><br><br>
+<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からでございます。またのお越しをお待ち申し上げております。</code></span><br>
+<em>makotoni arigatou gozaimasu. chekkuin wa 15 ji kara de gozaimasu. mata no okoshi o omachi moushiage te orimasu.</em><br><br>
 <span class="keigo-badge good">Consistent register</span> All three sentences at the same professional level.
 </div>
 </div>
@@ -81,12 +89,14 @@ An email that ends with the last piece of information and no closing phrase feel
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
+<em>go-yoyaku o uketamawarimashita.</em><br>
 [Email ends here]<br><br>
 <span class="keigo-badge bad">Cold ending</span> Grammatically correct but emotionally flat.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>ご予約を承りました。ご不明点などございましたら、お気軽にご連絡くださいませ。ご到着を心よりお待ち申し上げております。</code></span><br><br>
+<span class="keigo-jp"><code>ご予約を承りました。ご不明点などございましたら、お気軽にご連絡くださいませ。ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>go-yoyaku o uketamawarimashita. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase. go touchaku o kokoro yori omachi moushiage te orimasu.</em><br><br>
 <span class="keigo-badge good">Complete</span> Support and welcome added after the confirmation.
 </div>
 </div>
@@ -96,12 +106,14 @@ An email that ends with the last piece of information and no closing phrase feel
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>設備が古かったため、エアコンの不具合が生じました。</code></span><br><br>
+<span class="keigo-jp"><code>設備が古かったため、エアコンの不具合が生じました。</code></span><br>
+<em>setsubi ga furukatta tame, eakon no fuguai ga shoujimashita.</em><br><br>
 <span class="keigo-badge bad">Excuse</span> Attributing the problem to old equipment shifts responsibility. The guest's experience does not improve with an explanation.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>エアコンの不具合によりご不便をおかけしましたこと、誠に申し訳ございません。再発防止に努めてまいります。</code></span><br><br>
+<span class="keigo-jp"><code>エアコンの不具合によりご不便をおかけしましたこと、誠に申し訳ございません。再発防止に努めてまいります。</code></span><br>
+<em>eakon no fuguai niyori go fuben o okake shimashita koto, makotoni moushiwake gozaimase n. saihatsu boushi ni tsutome te mairimasu.</em><br><br>
 <span class="keigo-badge good">Responsible</span> Acknowledges the impact and commits to prevention.
 </div>
 </div>

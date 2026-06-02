@@ -66,11 +66,11 @@ Different email types and property types call for different formality levels wit
 
 | Level | Opening Phrase | Use |
 |---|---|---|
-| Highest (luxury / VIP) | 平素より格別のご愛顧を賜り、誠にありがとうございます | VIP letters, formal announcements |
-| Standard hotel | 平素より当ホテルをご利用いただき、誠にありがとうございます | General notices |
-| Reservation specific | この度は、ご予約いただき、誠にありがとうございます | Booking confirmations |
-| Apology | この度は、ご不便をおかけし、誠に申し訳ございません | Any apology situation |
-| Post-stay | この度は、ご利用いただき、誠にありがとうございました | Thank-you emails |
+| Highest (luxury / VIP) | <span>平素より格別のご愛顧を賜り、誠にありがとうございます</span> | VIP letters, formal announcements |
+| Standard hotel | <span>平素より当ホテルをご利用いただき、誠にありがとうございます</span> | General notices |
+| Reservation specific | <span>この度は、ご予約いただき、誠にありがとうございます</span> | Booking confirmations |
+| Apology | <span>この度は、ご不便をおかけし、誠に申し訳ございません</span> | Any apology situation |
+| Post-stay | <span>この度は、ご利用いただき、誠にありがとうございました</span> | Thank-you emails |
 
 ---
 

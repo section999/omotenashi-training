@@ -20,8 +20,7 @@ The one thing this email must not do: make the guest feel like they are receivin
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>【ご滞在のお礼】[Name]様 ありがとうございました</code></span><br><br>
-<em>【 go-taizai no orei 】[ Name ] sama arigatou gozaimashita</em><br>
+
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
 Thank you very much for staying at our hotel on this occasion.<br><br>
@@ -46,13 +45,13 @@ Note: ありがとうございました (past tense). The stay is complete. Usin
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
 <em>go-taizai wa ikaga deshita deshou ka</em><br>
-"How was your stay?"<br><br>
+How was your stay?<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
 <em>kaiteki ni osugoshi itadake mashitara saiwai de gozaimasu</em><br>
-"If you had a comfortable stay, we would be happy."<br><br>
+If you had a comfortable stay, we would be happy.<br><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
 <em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
-"We sincerely look forward to the day we can meet you again."
+We sincerely look forward to the day we can meet you again.
 </div>
 
 ご滞在はいかがでしたでしょうか asks with genuine interest without assuming. でしたでしょうか (past polite question form) is softer than でしたか.

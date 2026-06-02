@@ -14,12 +14,14 @@ When a colleague is the subject, neither sonkeigo nor kenjogo is appropriate. So
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
+<em>tantousha ga irasshaimasu.</em><br>
 The person in charge is here.<br><br>
 <span class="keigo-badge bad">Wrong</span> いらっしゃいます is 尊敬語; applying it to a colleague elevates them above the guest.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>担当者がおります。</code></span><br>
+<em>tantousha ga orimasu.</em><br>
 The person in charge is here.<br><br>
 <span class="keigo-badge good">Correct</span> おります is 謙譲語 for いる; it keeps the colleague in an appropriately lower position than the guest.
 </div>

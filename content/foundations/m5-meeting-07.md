@@ -1,83 +1,81 @@
 ---
 id: m5-meeting-07
 section: 7
-title: The Professional Handover Standard
+title: Writing Rules 4-6
 ---
 
-The technical skills of handover writing are learnable in hours. The professional standard is something different. It is the habit of thinking about the next shift before you think about your own convenience. This lesson describes that standard and why it matters.
+Rules 4 through 6 address the three most common causes of tasks falling through between shifts: missing status labels, unnamed owners, and entries written for the writer rather than the reader.
 
-## What the Professional Standard Looks Like
+## Rule 4: Always Include Status
 
-A professional handover is not defined by what is in the notes. It is defined by the effect on the next shift.
+A problem without a status is an incomplete entry. The incoming staff does not know whether to act, wait, or investigate.
 
-**Traceable:** Can the incoming staff trace every guest situation from start to current state?
-
-Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.
-
-
-**Actionable:** Does every entry tell the incoming staff what to do?
-
-If an entry contains only a problem with no status or next step, it is not actionable. It is noise.
-
-
-**Complete:** Is there anything the incoming staff would need to ask about?
-
-If the answer is yes, the handover is not done yet.
-
-## The Shift-End Mindset
-
-Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought.
-
-Not "the clock hit 22:00 and I went home"; instead: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
-<em>hikitsugi ga kanryou suru made ga, anata no shifuto desu.</em><br>
-Your shift continues until the handover is complete.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>エアコン壊れています。</code></span><br>
+The AC is broken.<br><br>
+<span class="keigo-badge bad">Incomplete</span> Is anyone fixing it? When? Who was informed?
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
+Room 305: AC malfunction. Repair arranged (planned for tomorrow).<br><br>
+<span class="keigo-badge good">Complete</span> Problem, action taken, and timeline all present.
+</div>
 </div>
 
-## Common Mindset Failures
+## Rule 5: Name Who Is Responsible
 
-Most handover errors are not caused by lack of knowledge. They are caused by treating the handover as secondary to other tasks.
+"Someone will handle it" means no one will handle it. Every unresolved item must have a named owner or responsible department.
 
-<div class="keigo-card blue">
-<strong>1. Rushing</strong><br>
-Writing the handover in the last two minutes of the shift guarantees missing information.<br>
-Fix: update the notes continuously throughout the shift, not all at once at the end.<br><br>
-<strong>2. Assuming the next person already knows</strong><br>
-"They'll figure it out" is not a professional position. The next person was not there.<br>
-Fix: write as if the reader has no background knowledge of the shift.<br><br>
-<strong>3. Emotional filtering</strong><br>
-Writing more about how you felt during a difficult interaction than about what happened and what needs to happen next.<br>
-Fix: read the entry before submitting and remove any word that describes your feelings.<br><br>
-<strong>4. Leaving tasks without owners</strong><br>
-"To be confirmed" with no name assigned is the most common source of tasks falling through.<br>
-Fix: every unresolved item must have a specific name or department attached.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>誰かが対応する予定です。</code></span><br>
+Someone is planning to handle it.<br><br>
+<span class="keigo-badge bad">No owner</span> Both shifts assume the other is responsible. The task is never done.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>フロント確認待ち</code></span><br>
+<span><code>夜間スタッフ対応予定</code></span><br><br>
+<span class="keigo-badge good">Clear owner</span> The incoming staff knows exactly who is responsible.
+</div>
 </div>
 
-## What Good Handover Creates
+## Rule 6: Write for the Reader, Not for Yourself
 
-When every staff member meets this standard, the result is not just better notes. It is a different quality of guest experience.
+Before submitting the handover, read it from the perspective of someone who was not on shift. Ask: can they act on this immediately? If not, rewrite it.
 
-Guests never repeat themselves across shifts. No VIP arrives without the right preparation. No complaint stays unresolved because it was lost between shifts. No maintenance issue surprises the incoming team.
+"If I were reading this for the first time with no background knowledge, would I know exactly what to do and who to contact?" If the answer is no, the entry is not finished.
 
-All of this happens because of what is written, when it is written, and how well it communicates. The guest never sees the handover. But they feel whether it was done well.
-
-## The Golden Rule
-
-If the incoming staff cannot act immediately based on what you wrote, the handover is not complete.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span><code>さっきの件、よろしくお願いします。</code></span><br>
+Regarding that earlier matter, please handle it.<br><br>
+<span class="keigo-badge bad">No context</span> The reader has no idea what "that earlier matter" refers to.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span><code>501号室：延泊希望あり（1泊追加）。フロント確認待ち。本日15時までに要対応。</code></span><br>
+Room 501: Extension request (1 additional night). Awaiting front desk confirmation. Action required by 15:00 today.<br><br>
+<span class="keigo-badge good">Self-contained</span> Any reader, with no background, can act on this immediately.
+</div>
+</div>
 
 ---
 
 ## Quiz
 
-**A staff member finishes their shift notes at the end of the day and writes everything from memory. What professional standard are they failing to meet?**
+**A staff member finishes their shift notes and writes: 「あとはよろしく。」. Which rule does this violate most directly?**
 
-- A. Notes must be written in the morning only
-- B. Handover notes should be updated continuously throughout the shift so no detail is forgotten
-- C. Only managers are allowed to write handover notes at the end of a shift
-- D. Memory-based notes are acceptable if they are detailed enough
+- A. Rule 4:no status label
+- B. Rule 5:no named owner
+- C. Rule 6:written for the writer, not the reader
+- D. Rule 1:contains emotional language
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Writing all handover notes from memory at the end of a shift almost guarantees incomplete or inaccurate entries. Details from early in the shift are easily forgotten under the pressure of a busy day. The professional standard is to update notes continuously as events occur: when a complaint is received, record it then; when a request is resolved, update the status then. End-of-shift notes should only be a final check to ensure nothing has been missed, not the primary documentation event.
+**Explanation:** 「あとはよろしく」 ("I'll leave the rest to you") is written entirely from the outgoing staff member's perspective. It tells the incoming staff nothing: no room number, no issue, no status, no owner, no deadline. It assumes the reader already knows the context, which is exactly the failure Rule 6 addresses. A self-contained entry must make sense to any reader with no background knowledge of the shift.

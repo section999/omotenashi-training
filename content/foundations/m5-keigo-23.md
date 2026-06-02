@@ -62,7 +62,7 @@ Thank you for waiting.
 | Department | Primary Keigo Challenge |
 |---|---|
 | Front Desk | Identity confirmation + information delivery |
-| Dining | 尊敬語 for eating and drinking; allergy sensitivity |
+| Dining | <span>尊敬語 for eating and drinking; allergy sensitivity</span> |
 | Concierge | Humble service offering; readiness language |
 | Housekeeping | Permission to enter; apology language |
 | Telephone | Opening line; hold and transfer language |

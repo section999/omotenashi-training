@@ -40,10 +40,10 @@ When the caller is the subject (performing an action), apply 尊敬語 to that a
 
 | Situation | Subject | Keigo |
 |---|---|---|
-| Colleague's presence | Colleague | おります (not いらっしゃいます) |
-| Guest's family | Family member | 尊敬語 (same as guest) |
-| Staff receiving from guest | Staff | いただく / お預かりいたします |
-| Telephone, caller acts | Caller (= guest) | 尊敬語 |
+| Colleague's presence | Colleague | <span>おります (not いらっしゃいます)</span> |
+| Guest's family | Family member | <span>尊敬語 (same as guest)</span> |
+| Staff receiving from guest | Staff | <span>いただく / お預かりいたします</span> |
+| Telephone, caller acts | Caller (= guest) | <span>尊敬語</span> |
 
 ---
 
