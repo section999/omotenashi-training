@@ -54,7 +54,7 @@ Staff are on their way now. Are you able to stay on the line?
 
 ## Quiz
 
-**A guest calls to report a power outage in their room. The staff member's first response is "えっ、どうしましょう！" — what is the problem with this response?**
+**A guest calls to report a power outage in their room. The staff member's first response is "えっ、どうしましょう！" what is the problem with this response?**
 
 - A. It is grammatically incorrect
 - B. It shows genuine concern, which guests appreciate
