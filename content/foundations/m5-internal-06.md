@@ -1,93 +1,81 @@
 ---
 id: m5-internal-06
 section: 6
-title: Reporting Mistakes and Escalating Problems
+title: "連絡 in Practice: Templates"
 ---
 
-Two of the most important, and most avoided, forms of internal communication are reporting your own error and escalating a problem you cannot resolve. Both require courage and specific language. Both, when done well, protect the guest experience and strengthen the team.
+The four most common 連絡 scenarios each require slightly different language. This lesson covers the three directional patterns (same level, upward, downward) and the contrast between incomplete and complete 連絡.
 
-Avoiding error reports or delaying escalation is a far greater professional failure than the original mistake. In hotel service, what often makes a situation unrecoverable is not the initial error; it is the silence that follows.
+## Passing Information to a Colleague (Same Level)
 
-## Reporting Your Own Mistake
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>〇〇の件、お伝えしておきます。</code></span><br>
+<em>〇 〇 no ken, otsutae shite okimasu.</em><br>
+I'd like to pass along something about [matter].<br><br>
+<span class="keigo-jp"><code>〇〇様から追加の枕のご依頼がありました。対応お願いできますか。</code></span><br>
+<em>〇 〇 you kara tsuika no makura no go-irai ga arimashita. taiou onegai dekimasu ka.</em><br>
+Mr./Ms. [Name] has requested extra pillows. Could you take care of that?<br><br>
+<span class="keigo-jp"><code>チェックインがあと3組ほど控えています。ご確認ください。</code></span><br>
+<em>chekkuin ga ato 3 kumi hodo hikae te imasu. go-kakunin kudasai.</em><br>
+There are about three more check-ins expected. Please be aware.
+</div>
 
-The internal apology for an error is different from the guest-facing apology. Internally, the goal is not emotional comfort; it is rapid, accurate information transfer so that the problem can be fixed.
+## Passing Information Upward
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>ご連絡させていただきます。</code></span><br>
+<em>go-renraku sa se te itadakimasu.</em><br>
+I would like to share some information with you.<br><br>
+<span class="keigo-jp"><code>〇〇号室のお客様が16時ごろチェックアウト予定とのことです。</code></span><br>
+<em>〇 〇 gou shitsu no okyakusama ga 16 ji goro chekku auto yotei to no koto desu.</em><br>
+The guest in Room [X] is expected to check out around 4:00 PM.<br><br>
+<span class="keigo-jp"><code>ご参考までにお伝えしておきます。</code></span><br>
+<em>go sankou made ni otsutae shite okimasu.</em><br>
+I am sharing this for your reference.
+</div>
+
+## Passing Information Downward
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>〇〇の件を共有しておきます。</code></span><br>
+<em>〇 〇 no ken o kyouyu shite okimasu.</em><br>
+I want to share something about [matter].<br><br>
+<span class="keigo-jp"><code>〇〇様のご到着が17時に変更になりました。</code></span><br>
+<em>〇 〇 you no go touchaku ga 17 ji ni henkou ni narimashita.</em><br>
+Mr./Ms. [Name]'s arrival has been changed to 5:00 PM.<br><br>
+<span class="keigo-jp"><code>対応よろしくお願いします。</code></span><br>
+<em>taiou yoroshiku onegai shimasu.</em><br>
+Please handle this accordingly.
+</div>
+
+## The Incomplete 連絡 Problem
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">What to avoid</span>
-<span class="keigo-jp"><code>すみません、もしかしたら私のせいかもしれなくて、よくわからないんですが...</code></span><br>
-I'm sorry, it might be my fault, I'm not really sure...<br><br>
-<span class="keigo-badge bad">Problems</span> Vague, lacks facts, buries the issue in apology. The supervisor has no information to act on.
+<span class="keigo-pair-label">Incomplete (causes confusion)</span>
+<span class="keigo-jp"><code>503号室、なんかあったみたいです。</code></span><br>
+Something happened in Room 503.<br><br>
+<span class="keigo-badge bad">What's missing</span> What happened? When? Who is involved? What needs to happen next? The recipient cannot act on this information.
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">What to say</span>
-<span class="keigo-jp"><code>ご報告いたします。〇〇の際に私の確認ミスがございました。現在〇〇の状況です。対応についてご指示をいただけますでしょうか。</code></span><br>
-I need to report something. I made a verification error regarding [matter]. The current situation is [X]. Could I have your guidance on how to proceed?<br><br>
-<span class="keigo-badge good">Complete</span> What happened, current status, specific request for guidance.
+<span class="keigo-pair-label">Complete (enables action)</span>
+<span class="keigo-jp"><code>503号室のお客様より、シャワーのお湯が出ないとのご連絡がありました。14時現在未対応です。メンテナンスへのご連絡をお願いできますでしょうか。</code></span><br>
+The guest in Room 503 has reported that the shower has no hot water. As of 2:00 PM this has not yet been addressed. Could you please contact maintenance?<br><br>
+<span class="keigo-badge good">Complete</span> Who (Room 503 guest), what (no hot water), when (as of 2PM), next step (contact maintenance).
 </div>
 </div>
-
-## The Internal Error Report Structure
-
-- **1. State the fact first:** What happened? What was the error?
-- **2. State the current impact:** How is this affecting the guest or operations right now?
-- **3. State what you have already done:** Have you taken any initial steps to address it?
-- **4. Ask for guidance:** Request specific direction on next steps.
-- **Do not:** Begin with a long apology. Do not frame the report around your feelings. Do not minimize the impact. Report the facts, then accept guidance.
-
-## Script: Reporting a Check-In Error
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご報告いたします。先ほど田中様のチェックインの際に、お部屋を702号室でご案内してしまいましたが、正しくは703号室でございました。現在、田中様は702号室にいらっしゃいます。お鍵の交換とお部屋の移動をご案内すべきかと思いますが、ご指示いただけますでしょうか。</code></span><br>
-<em>go-houkoku itashimasu. saki hodo tanaka sama no chekkuin no sai ni, o-heya o 702 gou shitsu de go-annai shite shimaimashita ga, masashiku wa 703 gou shitsu de gozaimashita. genzai, tanaka sama wa 702 gou shitsu ni irasshaimasu. o kagi no koukan to o-heya no idou o go-annai su beki ka to omoimasu ga, go shiji itadake masu deshou ka.</em><br>
-I need to report something. When checking in Mr./Ms. Tanaka a moment ago, I directed them to Room 702, but the correct room is 703. Mr./Ms. Tanaka is currently in Room 702. I believe we should arrange a key exchange and room move. Could you advise on how to handle this?
-</div>
-
-## Escalating a Problem You Cannot Resolve
-
-Escalation is not failure; it is professional judgment. The ability to recognize when a situation exceeds your authority or skill level is a service skill, not a weakness.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>私の対応範囲を超えていると判断し、ご相談いたします。</code></span><br>
-<em>watashi no taiou han'i o koe te iru to handan shi, go-soudan itashimasu.</em><br>
-I have judged that this is beyond what I can handle on my own and am bringing it to you.<br><br>
-<span class="keigo-jp"><code>〇〇様のご要望につきまして、私での対応が難しく、ご対応をお願いできますでしょうか。</code></span><br>
-<em>〇 〇 you no go-youbou ni tsuki mashite, watashi de no taiou ga muzukashiku, go-taiou o onegai dekimasu deshou ka.</em><br>
-Regarding Mr./Ms. [Name]'s request, I am not able to handle this myself. Could you step in?<br><br>
-<span class="keigo-jp"><code>お客様はまだフロントにいらっしゃいます。</code></span><br>
-<em>okyakusama wa mada furonto ni irasshaimasu.</em><br>
-The guest is still at the front desk.
-</div>
-
-## The Escalation Threshold
-
-- **Escalate now:** The guest is visibly angry or upset and is not responding to your initial handling
-- **Escalate now:** The request involves compensation, a refund, or a policy exception
-- **Escalate now:** The guest mentions a safety concern that has not been resolved
-- **Escalate now:** The guest has asked for a manager by name
-- **Handle yourself:** Standard requests within your authority and training
-- **Handle yourself:** Complaints where you have a clear resolution available
-
-## The Internal vs. Guest-Facing Apology
-
-| Context | Tone | Focus | Language |
-|---|---|---|---|
-| Internal (to supervisor) | Direct, factual | Information + solution | <span>確認ミスがございました。対応をご指示ください</span> |
-| Guest-facing | Warm, emotionally attentive | Guest's experience | <span>誠に申し訳ございません。ご不便をおかけいたしました</span> |
-
-Using guest-facing apology language internally wastes time. Using internal apology language with a guest sounds cold and insufficient. The register must match the audience.
 
 ---
 
 ## Quiz
 
-**A staff member mistakenly booked a guest into the wrong room type. The guest has not yet checked in. What is the correct internal response?**
+**A front desk colleague is about to go on break. You need to pass along that a guest in Room 612 has requested an extra blanket and it has not yet been delivered. What is the correct 連絡?**
 
-- A. Wait until the guest arrives and handle it then to avoid causing concern
-- B. Report the error to the supervisor immediately with the specific details and ask for guidance on how to correct the booking
-- C. Quietly correct the booking in the system without telling anyone
-- D. Apologize to the supervisor repeatedly without explaining what happened
+- A. 612号室、何かあったっけ？
+- B. 612号室のお客様より毛布の追加のご依頼があります。未対応ですので、対応よろしくお願いします
+- C. 誰かが毛布を持っていくはずです
+- D. ご報告いたします。612号室に問題が発生しました
 
 **Correct Answer:** B
 
-**Explanation:** The correct response is to report immediately while there is still time to resolve the situation before it affects the guest. The report should include the specific error (wrong room type), the current status (guest not yet arrived), and a request for guidance. Option A risks the guest arriving to an incorrect booking with no preparation. Option C may solve the booking issue but leaves the supervisor uninformed and unable to manage the situation. Option D prioritizes the apology over the information transfer, which delays resolution and gives the supervisor nothing to act on.
+**Explanation:** Option B contains all required elements: who (Room 612 guest), what (extra blanket request), status (not yet handled), and next step (please take care of it). The register is professional without being overly formal for a peer-to-peer exchange. Option A is too casual and vague. Option C gives no ownership; "someone should" does not constitute 連絡. Option D uses 報告 language, which is for upward reporting to supervisors, and is inappropriate and overly formal for this peer-to-peer information handoff.

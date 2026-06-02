@@ -1,82 +1,89 @@
 ---
 id: m5-email-10
 section: 10
-title: Facility and Operational Notice Template
+title: Reservation Confirmation Template
 ---
 
-Hotels occasionally must notify guests about maintenance schedules, temporary facility closures, service changes, or renovation work. These operational emails require a professional, respectful tone that acknowledges the inconvenience to the guest without sounding dismissive or overly apologetic.
+The reservation confirmation is often the first direct communication from the hotel to the guest. It must do three things: confirm the booking accurately, reassure the guest that everything is in order, and make them feel genuinely welcomed before they arrive.
 
 ## What This Email Must Accomplish
 
-**1. Inform:** State clearly what is happening, when, and which facilities or services are affected.
+**1. Confirm:** The guest must see their reservation details clearly and be able to verify them.
 
-**2. Acknowledge:** Recognize that this creates inconvenience without over-apologizing.
+**2. Reassure:** The hotel is prepared and handling their stay properly.
 
-**3. Request:** Ask for the guest's understanding using appropriate humble language.
-
-**4. Support:** Close with an offer to answer questions.
+**3. Welcome:** The guest should feel the hotel is looking forward to their arrival, not just processing a transaction.
 
 ## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
-<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for your continued use of our hotel.<br><br>
-<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
-<em>kaki no nittei nite kannai setsubi tenken o jisshi itashimasu.</em><br>
-We will be conducting facility inspections on the following schedule.<br><br>
-<span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
-<em>nittei :[ Date ]([ Day ])[ Time ]〜[ Time ]</em><br>
-<span class="keigo-jp"><code>対象：[Affected facility]</code></span><br><br>
-<em>taishou :[ Affected facility ]</em><br>
-<span class="keigo-jp"><code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code></span><br>
-<em>tenken sagyou chu wa, [ affected facility ] ga go-riyou itadake nai jikan tai ga gozaimasu.</em><br>
-During the inspection, [affected facility] will be unavailable for some time.<br><br>
-<span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
-<em>okyakusama ni wa go fuben o okakeitashimasu ga, nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
-We apologize for the inconvenience and humbly ask for your understanding.<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions, please feel free to contact us.
+
+<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you very much for reserving our hotel on this occasion.<br><br>
+<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
+Your reservation details are as follows.<br><br>
+<span class="keigo-jp"><code>チェックイン：[Date]（[Day]）[Time]〜</code></span><br>
+<em>chekkuin :[ Date ]([ Day ])[ Time ]〜</em><br>
+<span class="keigo-jp"><code>チェックアウト：[Date]（[Day]）[Time]</code></span><br>
+<em>chekku auto :[ Date ]([ Day ])[ Time ]</em><br>
+<span class="keigo-jp"><code>ご宿泊人数：[Number]名様</code></span><br>
+<em>go shukuhaku ninzu :[ Number ] mei sama</em><br>
+<span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span><br><br>
+<em>o-heya taipu :[ Room type ]</em><br>
+<span class="keigo-jp"><code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code></span><br>
+<em>go-taizai chu, kaiteki ni osugoshi itadake masu you, sutaffu ichi dou jumbi o susume te orimasu.</em><br>
+All of our staff are preparing to ensure you have a comfortable stay.<br><br>
+<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
+If you have any questions before your arrival, please feel free to contact us.<br><br>
+<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
+We sincerely look forward to your arrival.
 </div>
 
-## Key Phrase: 何卒ご理解のほど
+## Key Phrases Explained
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
-<em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em><br>
-We humbly ask for your understanding.
+<span class="keigo-jp"><code>スタッフ一同</code></span><br>
+<em>sutaffu ichidou</em><br>
+all of our staff<br><br>
+<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span><br>
+<em>kaiteki ni osugoshi itadake masu you</em><br>
+so that you may have a comfortable stay<br><br>
+<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span><br>
+<em>kokoro yori omachi moushiage te orimasu</em><br>
+sincerely look forward to
 </div>
 
-何卒 (nanitozo) means "humbly" or "please" and adds sincerity and humility. ご理解のほど (go-rikai no hodo) means "your understanding"; のほど is a softening construction. よろしくお願い申し上げます is the highest-register form of please/request.
+スタッフ一同 makes the welcome feel collective rather than coming from one person, which is more impactful. The guest feels the whole hotel is preparing for them.
 
-This phrase is standard in Japanese professional notice emails. It requests the guest's understanding and patience without sounding demanding or casual.
+よう in 快適にお過ごしいただけますよう expresses purpose. The staff is preparing with the guest's comfort as the goal.
 
-## Alternate Versions
+心より (from the heart) makes the anticipation feel genuine rather than formulaic. お待ち申し上げております uses humble language (申し上げる) for extra refinement.
+
+## Variations
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>現在、ホテルの一部エリアにて改装工事を実施しております。</code></span><br>
-<em>genzai, hoteru no ichibu eria nite kaisou kouji o jisshi shite orimasu.</em><br>
-We are currently conducting renovation work in part of the hotel.<br><br>
-<span class="keigo-jp"><code>工事期間中は音や振動によりご迷惑をおかけする場合がございます。何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
-<em>kouji kikan chu wa oto ya shindou niyori go-meiwaku o okake suru baai ga gozaimasu. nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
-During the construction period, there may be noise or vibrations. We humbly ask for your understanding.<br><br>
-<span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります。</code></span><br>
-<em>go-taizai no go fuben o saishougen ni osaeru you tsutome te mairimasu.</em><br>
-We will do our best to minimize any inconvenience to your stay.
+<span class="keigo-jp"><code>いつもお世話になっております。この度もご予約いただき、誠にありがとうございます。</code></span><br>
+<em>itsumo osewa ni natte orimasu. kono tabi mo go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you for your continued support. Thank you very much for booking with us again on this occasion.
 </div>
+
+For repeat guests, replace the opening with this phrase. Everything else in the template remains the same.
 
 ---
 
 ## Quiz
 
-**Which phrase is the standard way to request guest understanding in a facility notice email?**
+**A reservation confirmation email uses the phrase 「スタッフ一同準備を進めております」. What does this phrase communicate to the guest?**
 
-- A. また来てください
-- B. ご確認ください
-- C. 何卒ご理解のほどよろしくお願い申し上げます
-- D. 問題ありません
+- A. That only one staff member is assigned to their stay
+- B. That the hotel is currently short-staffed
+- C. That the entire team is preparing for their stay, making the welcome feel collective and genuine
+- D. That the hotel is asking the guest to confirm their own preparation
 
 **Correct Answer:** C
 
-**Explanation:** 何卒ご理解のほどよろしくお願い申し上げます is the standard formal phrase for requesting understanding and patience in professional Japanese correspondence. 何卒 adds sincerity, ご理解のほど softens the request with のほど, and よろしくお願い申し上げます uses the highest-register form of asking. Options A, B, and D are all inappropriate for this purpose.
+**Explanation:** スタッフ一同 means "all of our staff" or "the entire team." Using this collective phrase instead of 私 (I, referring to one person) makes the welcome feel like a shared hospitality commitment from the whole hotel. The guest feels prepared for, not just processed. This is an intentional language choice in Japanese hospitality writing.

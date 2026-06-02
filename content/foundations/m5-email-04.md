@@ -1,7 +1,7 @@
 ---
 id: m5-email-04
 section: 4
-title: Email Closing Lines
+title: Email Closing Lines (Part 1)
 ---
 
 The closing of a hotel email creates the final impression. A well-constructed opening followed by an abrupt ending feels incomplete and careless. The closing communicates the hotel's ongoing attitude toward the guest: supportive, welcoming, and attentive even after the message ends.
@@ -51,49 +51,17 @@ We look forward to your continued patronage.
 
 今後とも (from now on as well) explicitly acknowledges an ongoing relationship. Do not use this closing for first-time guests. またのお越しをお待ちしております is a lighter alternative for less formal repeat-guest emails.
 
-## Closing Type 4: Post-Stay Return Closing
-
-Used specifically in post-stay emails to express hope for a future visit.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to the day we can welcome you again.
-</div>
-
-またお会いできる日 (the day we can meet again) is more personal and warmer than またのお越し (your next visit), making it appropriate for high-touch post-stay messages at premium properties.
-
-## Closing Type 5: Apology Closing
-
-After an apology, the closing must emphasize support and care, not future business. An upbeat relationship-building closing immediately after an apology sounds insensitive.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-Please feel free to contact us if you have any questions.
-</div>
-
-Avoid 今後ともよろしくお願い申し上げます immediately after a serious apology. It can read as pivoting to future business before the guest's concern has been fully respected. If the situation calls for it, 今後とも変わらぬご愛顧のほど、何卒よろしくお願い申し上げます is acceptable as a softer variation.
-
-## Matching Opening to Closing
-
-| Context | Opening | Closing |
-|---|---|---|
-| Pre-arrival | <span>この度は、ご予約いただき、誠にありがとうございます</span> | <span>ご到着を心よりお待ち申し上げております</span> |
-| Post-stay | <span>この度は、ご利用いただき、誠にありがとうございました</span> | <span>またお会いできます日を心よりお待ち申し上げております</span> |
-| Apology | <span>この度は、ご不便をおかけし、誠に申し訳ございません</span> | <span>ご不明点などございましたら、お気軽にご連絡くださいませ</span> |
-
 ---
 
 ## Quiz
 
-**A reservation confirmation email has just been written. Which closing is most appropriate?**
+**A first-time guest has just booked a room and is arriving next week. Which closing is most appropriate for the confirmation email?**
 
-- A. またのお越しを心よりお待ちしております
+- A. 今後ともよろしくお願い申し上げます
 - B. ご到着を心よりお待ち申し上げております
-- C. 今後ともよろしくお願い申し上げます
-- D. No closing needed; ending on the body is sufficient
+- C. またお会いできます日を心よりお待ち申し上げております
+- D. No closing is needed for a short confirmation email
 
 **Correct Answer:** B
 
-**Explanation:** A reservation confirmation is a pre-arrival email. The closing should create anticipation and warmth about the upcoming visit. ご到着を心よりお待ち申し上げております (We sincerely look forward to your arrival) is the exact match for this context. Option A (またのお越し) is a post-visit expression that implies the stay has already happened. Option C (今後とも) is a relationship-maintenance closing better suited for repeat guests or post-stay messages. Option D is incorrect because ending without a closing makes the email feel incomplete and cold.
+**Explanation:** This is a pre-arrival reservation confirmation for a first-time guest. The closing should create warmth and genuine anticipation about the upcoming arrival. ご到着を心よりお待ち申し上げております is designed exactly for this purpose. Option A (今後とも) implies an ongoing relationship and should be reserved for repeat guests. Option C (またお会いできる日を) is a post-stay closing used after the guest has already departed. Option D is incorrect because ending without a closing leaves the email feeling cold and incomplete.

@@ -1,104 +1,52 @@
 ---
 id: m5-phone-06
 section: 6
-title: Availability and Room Inquiry Calls
+title: Reservation Calls: Modifications
 ---
 
-Availability calls are not simple information delivery. They are **decision-support interactions**. The guest is actively evaluating whether to book, so clarity and tone directly influence whether they proceed. Staff who handle availability calls well do not just answer "yes or no", they guide the guest toward a positive decision.
+The same verification chain that applies to new bookings also governs modification calls. When a guest calls to change their reservation, dates, room type, or number of guests, every detail is confirmed before any change is processed.
 
-## Availability Check, Room Available
+## Modification Call
 
-<div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
-<em>6 tsuki 10 nichi ni ai te imasu ka.</em><br>
-Do you have availability on June 10th?<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
-<em>honjitsu 6 tsuki 10 nichi no sora shitsu joukyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
-I will check availability for June 10th. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月10日はツインルームとスタンダードルームにお部屋がございます。いかがなさいますか。</code></span><br>
-<em>taihen o-matase itashimashita. 6 tsuki 10 nichi wa tsuin rumu to sutandado rumu ni o-heya ga gozaimasu. ika ga nasaimasu ka.</em><br>
-Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
-</div>
-
-## Availability Check, Fully Booked
-
-When there are no rooms available, the word あいにく is essential. It softens the refusal without being vague:
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Abrupt</span>
-<span class="keigo-jp"><code>満室です。</code></span>
-<br><em>manshitsu desu.</em><br>
-We are fully booked.<br><br>
-<span class="keigo-badge bad">Problem</span> Blunt, cold, and closes the interaction. The guest feels rejected.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Professional</span>
-<span class="keigo-jp"><code>あいにく本日は満室となっております。</code></span>
-<br><em>ainiki honjitsu wa manshitsu to natte orimasu.</em><br>
-Unfortunately, we are fully booked today.<br><br>
-<span class="keigo-badge good">Why it works</span> あいにく (ainiku) expresses genuine regret. The hotel acknowledges the inconvenience without being defensive.
-</div>
-</div>
+Acknowledge request → Verify identity → Confirm current booking → Ask for new details → Check availability → Confirm new booking
 
 <div class="keigo-card blue">
-<strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
-<em>kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
-I will check. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
-<em>taihen o-matase itashimashita. ainiku 6 tsuki 10 nichi wa manshitsu to natte orimasu.</em><br>
-Thank you for waiting. Unfortunately, June 10th is fully booked.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。ご都合はいかがでしょうか。</code></span><br>
-<em>moshi yoroshikere ba, zengo no nittei deshi tara go-annai ga kanou de gozaimasu. go tsugou wa ikaga deshou ka.</em><br>
-If you would like, we can offer alternative dates nearby. Would that work for you?
+<strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
+<em>yoyaku no nittei o henkou shitai no desu ga.</em><br>
+I'd like to change my reservation dates.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
+Certainly. May I have the name on the reservation?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。現在のご予約内容を確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>yamada sama de gozaimasu ne. genzai no go-yoyaku naiyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
+Mr./Ms. Yamada. I will check your current reservation. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊、ツインルームのご予約でございますね。ご希望の新しいお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
+<em>6 tsuki 10 nichi kara 2 haku, tsuin rumu no go-yoyaku de gozaimasu ne. go-kibou no atarashii o hinichi o o ukagai shite mo yoroshii deshou ka.</em><br>
+Your current reservation is a twin room, June 10th for two nights. May I ask your new preferred dates?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>6月15日から2泊にしたいです。</code></span><br>
+<em>6 tsuki 15 nichi kara 2 haku ni shitai desu.</em><br>
+I'd like to change to June 15th for two nights.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>6月15日から2泊へのご変更でございますね。確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>6 tsuki 15 nichi kara 2 haku e no go henkou de gozaimasu ne. kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
+A change to June 15th for two nights, correct? I will check availability. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月15日から2泊、ツインルームにてご変更を承りました。</code></span><br>
+<em>taihen o-matase itashimashita. 6 tsuki 15 nichi kara 2 haku, tsuin rumu nite go henkou o uketamawarimashita.</em><br>
+Thank you for waiting. I have updated your reservation to June 15th for two nights in a twin room.
 </div>
 
-**The key rule: never end a call with "no availability." Always extend service options.** Ending with a refusal closes the relationship. Ending with an alternative offer keeps it open.
-
-## Room Type Inquiry
-
-Guests often call to understand what types of rooms are available before committing to a reservation:
-
-<div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
-<em>donna heya ga arimasu ka.</em><br>
-What kinds of rooms do you have?<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルにはスタンダードルーム、ツインルーム、そしてデラックスルームがございます。ご利用のご人数はいかがでしょうか。</code></span><br>
-<em>kashikomarimashita. tou hoteru ni wa sutandado rumu, tsuin rumu, soshite derakkusu rumu ga gozaimasu. go-riyou no go ninzu wa ikaga deshou ka.</em><br>
-Certainly. Our hotel offers standard rooms, twin rooms, and deluxe rooms. May I ask how many guests will be staying?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>2人です。</code></span><br>
-<em>2 nin desu.</em><br>
-Two people.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>2名様でございますね。2名様ですとツインルームまたはデラックスルームがおすすめでございます。ご料金のご案内もよろしいでしょうか。</code></span><br>
-<em>2 mei sama de gozaimasu ne. 2 mei sama desu to tsuin rumu matawa derakkusu rumu ga osusume de gozaimasu. go ryoukin no go-annai mo yoroshii deshou ka.</em><br>
-Two guests. For two, I would recommend our twin room or deluxe room. Shall I also share the rates?
-</div>
-
-## Softening Unavailability with いかがでしょうか
-
-When guiding a guest toward an alternative, end with a question that invites their input rather than pushing a decision:
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
-<em>ikaga deshou ka</em><br>
-<span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
-<em>go tsugou wa yoroshii deshou ka</em><br>
-<span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?
-</div>
-
-These endings return decision-making to the guest, reducing pressure and maintaining a service-oriented dynamic.
+**Reservation calls are not conversations. They are verification chains.**
 
 ---
 
 ## Quiz
 
-**A guest calls and asks if June 10th is available. You check and find it is fully booked. What is the correct response?**
+**During a modification call, after confirming the guest's current reservation, what is the correct next step?**
 
-- A. 満室です。ありがとうございました。
-- B. あいにく6月10日は満室となっております。もしよろしければ、前後の日程でしたらご案内が可能でございます。
-- C. 空いておりません。他のホテルをお探しください。
-- D. 少々お待ちくださいませ（and then say nothing more）
+- A. Confirm the new dates immediately without checking availability
+- B. Ask the guest to hold while you cancel the old reservation first
+- C. Ask for the new preferred dates, repeat them back, then check availability before confirming
+- D. Tell the guest the fee for changing dates before asking what dates they want
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** The professional approach is to use あいにく to soften the refusal, then immediately offer an alternative. Ending with "fully booked" alone (option A) closes the relationship. Suggesting other hotels (option C) is never appropriate. Always extend an alternative offer and return the decision to the guest.
+**Explanation:** The modification call follows the same verification chain as a new booking. After confirming the current reservation, ask for new dates, repeat them back for accuracy (6月15日から2泊へのご変更でございますね), then check availability before processing the change. Confirming new dates without checking availability risks informing the guest of a confirmed change that cannot be honoured.

@@ -1,134 +1,80 @@
 ---
 id: m5-email-14
 section: 14
-title: Email Writing Mistakes and Corrections
+title: Apology Email Template
 ---
 
-Even well-intentioned hotel emails contain recurring errors that undermine their professional quality. This lesson presents the most common mistakes found in hotel email writing, explains why each one is a problem, and provides the correct version.
+An apology email is one of the most critical communications a hotel sends. It can either restore trust or damage it further, depending entirely on how it is written. The language must be sincere, take clear responsibility, explain what is being done, and close with care, all without making excuses.
 
-## Mistake 1: Wrong Tense in Post-Stay Email
+## What This Email Must Accomplish
 
-Using present tense in an email about a completed stay is one of the most common errors.
+**1. Acknowledge:** Name the specific inconvenience immediately. Do not delay the apology with an unrelated opening.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimasu.</em><br><br>
-<span class="keigo-badge bad">Present tense</span> ありがとうございます is used for ongoing or current situations. The guest has already checked out.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました。</code></span><br>
-<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita.</em><br><br>
-<span class="keigo-badge good">Past tense</span> ありがとうございました correctly reflects that the event is complete.
-</div>
-</div>
+**2. Accept:** Take clear responsibility. Never blame circumstances, other guests, or equipment.
 
-## Mistake 2: Starting an Apology Email with Gratitude
+**3. Act:** State what has been done or will be done to resolve or prevent recurrence.
 
-Beginning an apology with ありがとうございます before acknowledging the problem signals that the hotel has not read the situation.
+**4. Support:** End with an offer for continued assistance, not a sales-oriented closing.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>いつもお世話になっております。この度は誠に申し訳ございません。</code></span><br>
-<em>itsumo osewa ni natte orimasu. kono tabi wa makotoni moushiwake gozaimase n.</em><br><br>
-<span class="keigo-badge bad">Wrong priority</span> The gratitude opener delays the apology and feels tone-deaf to the guest's frustration.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
+## Full Template
+
+<div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br><br>
-<span class="keigo-badge good">Apology first</span> The opening immediately acknowledges the inconvenience.
-</div>
-</div>
-
-## Mistake 3: Using いつもお世話になっております for a First-Time Guest
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
-<em>itsumo osewa ni natte orimasu.</em><br>
-(sent to a guest with no booking history)<br><br>
-<span class="keigo-badge bad">Wrong relationship</span> いつも assumes repeated contact. This signals carelessness.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br><br>
-<span class="keigo-badge good">Correct relationship</span> この度は signals a new interaction.
-</div>
+<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
+We sincerely apologize for the inconvenience caused on this occasion.<br><br>
+<span class="keigo-jp"><code>ご滞在中に[issue]によりご不便をおかけしましたこと、重ねてお詫び申し上げます。</code></span><br>
+<em>go-taizai chu ni [ issue ] niyori go fuben o okake shimashita koto, kasane te owabi moushiage masu.</em><br>
+We sincerely apologize again for the inconvenience caused during your stay by [issue].<br><br>
+<span class="keigo-jp"><code>現在、[specific action taken or planned]に向けて取り組んでおります。</code></span><br>
+<em>genzai, [ specific action taken or planned ] ni muke te torikun de orimasu.</em><br>
+We are currently working on [specific action taken or planned].<br><br>
+<span class="keigo-jp"><code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります。</code></span><br>
+<em>douyou no jitai ga saihatsu shi nai you, sutaffu ichi dou kaizen ni tsutome te mairimasu.</em><br>
+All of our staff will work to prevent the same situation from occurring again.<br><br>
+<span class="keigo-jp"><code>今後ともどうぞよろしくお願い申し上げます。ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>kongo to mo douzo yoroshiku onegai moushiage masu. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
+We humbly ask for your continued support. Please feel free to contact us if you have any questions.
 </div>
 
-## Mistake 4: Register Inconsistency Within the Email
+The apology is stated in the opening line. There is no gratitude phrase before it. Starting with ありがとうございます before acknowledging an apology sounds tone-deaf and signals that the hotel is following a template without reading the situation.
 
-A shift in formality level partway through the email, even a single casual phrase, breaks the professional tone.
+Name the specific issue. A general apology without naming what happened sounds dismissive.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からです。また来てくださいね！</code></span><br>
-<em>makotoni arigatou gozaimasu. chekkuin wa 15 ji kara desu. mata kite kudasai ne!</em><br><br>
-<span class="keigo-badge bad">Register breaks</span> です (mild polite) and また来てくださいね (casual) both fall below hotel standard.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>誠にありがとうございます。チェックインは15時からでございます。またのお越しをお待ち申し上げております。</code></span><br>
-<em>makotoni arigatou gozaimasu. chekkuin wa 15 ji kara de gozaimasu. mata no okoshi o omachi moushiage te orimasu.</em><br><br>
-<span class="keigo-badge good">Consistent register</span> All three sentences at the same professional level.
-</div>
+## Phrases to Avoid in Apology Emails
+
+<div class="keigo-card blue">
+<strong>Excuse language:</strong> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br><br>
+<em>setsubi no roukyu ka niyori go fuben o okake shimashita</em><br>
+<strong>Overly cheerful closing:</strong> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
+<em>mata no okoshi o omachi shite orimasu!</em><br>
+<strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span><br>
+<em>kongo ki o tsuke masu</em>
 </div>
 
-## Mistake 5: Abrupt Ending
+Blaming equipment age shifts responsibility away from the hotel. The guest does not care why; they care about the impact and the response.
 
-An email that ends with the last piece of information and no closing phrase feels incomplete.
+After a genuine apology, an enthusiastic return invitation sounds like the hotel has already moved on from the guest's experience.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
-<em>go-yoyaku o uketamawarimashita.</em><br>
-[Email ends here]<br><br>
-<span class="keigo-badge bad">Cold ending</span> Grammatically correct but emotionally flat.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>ご予約を承りました。ご不明点などございましたら、お気軽にご連絡くださいませ。ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>go-yoyaku o uketamawarimashita. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase. go touchaku o kokoro yori omachi moushiage te orimasu.</em><br><br>
-<span class="keigo-badge good">Complete</span> Support and welcome added after the confirmation.
-</div>
-</div>
+"We will be more careful in the future" with no specifics sounds empty. Name the actual action being taken.
 
-## Mistake 6: Making Excuses in an Apology
+## The Tone of a Sincere Apology
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Wrong</span>
-<span class="keigo-jp"><code>設備が古かったため、エアコンの不具合が生じました。</code></span><br>
-<em>setsubi ga furukatta tame, eakon no fuguai ga shoujimashita.</em><br><br>
-<span class="keigo-badge bad">Excuse</span> Attributing the problem to old equipment shifts responsibility. The guest's experience does not improve with an explanation.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correct</span>
-<span class="keigo-jp"><code>エアコンの不具合によりご不便をおかけしましたこと、誠に申し訳ございません。再発防止に努めてまいります。</code></span><br>
-<em>eakon no fuguai niyori go fuben o okake shimashita koto, makotoni moushiwake gozaimase n. saihatsu boushi ni tsutome te mairimasu.</em><br><br>
-<span class="keigo-badge good">Responsible</span> Acknowledges the impact and commits to prevention.
-</div>
-</div>
+- **Calm:** Do not sound panicked or overly distressed. Controlled, measured language communicates that the hotel takes the situation seriously.
+- **Specific:** Name what happened, when, and what is being done. Vague apologies feel formulaic.
+- **Responsible:** Own the outcome without deflecting. The guest's inconvenience is the hotel's responsibility.
+- **Forward-looking but not rushed:** Mention what will be done, but do not rush to close the issue before the guest has had a chance to feel heard.
 
 ---
 
 ## Quiz
 
-**A post-stay thank-you email begins 「いつもお世話になっております。この度は、誠にありがとうございます」. Name two errors in this opening.**
+**An apology email for a noise issue writes: 「隣室のお客様の声によりご不便をおかけしました。」 What is wrong with this sentence?**
 
-- A. いつもお世話になっております is wrong and the tense of ありがとうございます is wrong
-- B. いつもお世話になっております is wrong and 誠に is unnecessary
-- C. The subject line is missing and the email is too short
-- D. There are no errors; this is an acceptable hotel email opening
+- A. It is too short
+- B. It uses the wrong keigo level
+- C. It deflects responsibility by attributing the noise to another guest rather than acknowledging the hotel's failure to manage the situation
+- D. 隣室 is the wrong word
 
-**Correct Answer:** A
+**Correct Answer:** C
 
-**Explanation:** Two errors are present. First, いつもお世話になっております assumes a pre-existing ongoing relationship; for a post-stay thank-you, either この度は (acknowledging the specific stay) is more appropriate, or いつもお世話になっております can be kept if it is genuinely a repeat guest. Second, ありがとうございます uses present tense, but a post-stay email refers to a completed stay and must use ありがとうございました (past tense). Both errors reflect carelessness in choosing language to match the specific communication situation.
+**Explanation:** Saying the inconvenience was caused by "another guest's voice" shifts responsibility away from the hotel. The hotel's failure was not preventing or resolving the noise issue, not the other guest's behavior. A correct apology focuses on the hotel's responsibility: 「ご滞在中、騒音によりご不便をおかけしましたこと、誠に申し訳ございません。」 This accepts the inconvenience without deflecting blame.

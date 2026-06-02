@@ -1,93 +1,43 @@
 ---
 id: m5-internal-07
 section: 7
-title: Internal Communication Standards: Summary and Common Errors
+title: "相談: When and How to Consult"
 ---
 
-Strong internal communication is the infrastructure beneath every smooth guest interaction. When it works, guests never notice. When it fails, guests experience delays, inconsistencies, and the feeling that the hotel is not organized. This lesson consolidates the key standards from the Internal Communication sub-module and identifies the most common errors.
+相談 (soudan) is the act of bringing an uncertain situation to a supervisor or experienced colleague and asking for guidance. It is the most complex of the three ホウレンソウ types because it requires a staff member to present a problem they have not yet solved, and to do so in a way that is structured, respectful, and actionable.
 
-## The Five Standards
+The most common mistake in 相談 is either avoiding it (trying to solve everything independently) or doing it poorly (presenting a vague problem without framing). Both slow down service and increase the risk of errors.
 
-- **1. Use ホウレンソウ consistently:** Every situation fits one of three types: 報告 (report outcomes and problems upward), 連絡 (pass information to whoever needs it), 相談 (consult when uncertain). Choosing the right type determines the right structure and timing.
-- **2. Conclusion first:** State the key fact before the context. Supervisors and colleagues need the outcome or situation immediately; supporting detail follows.
-- **3. Include who, what, when, and next step:** Incomplete messages cause follow-up questions that slow operations. Every message should answer these four elements.
-- **4. Match register to the relationship:** Use formal language upward (to supervisors and senpai). Use professional but functional language with peers. Do not use guest-facing keigo internally; it slows communication and sounds unnatural.
-- **5. Never delay a report to solve it first:** Report the problem, then solve it. A supervisor who hears about a problem two hours after it occurred cannot manage the floor effectively. Report early and update as the situation develops.
+## When to Consult
 
-## The Five Common Errors
+- **Policy uncertainty:** A guest has made a request that may or may not fall within hotel policy
+- **Escalation decision:** You are unsure whether a guest situation requires a manager's involvement
+- **Conflicting priorities:** You have two urgent tasks and need to know which to address first
+- **Unusual request:** A guest has asked for something you have not encountered before
+- **Personal skill boundary:** You have reached the limit of your own ability to resolve a situation
+- **Do not consult for:** Situations clearly within your responsibility and training. Use your judgment first. Only escalate when genuinely uncertain.
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Error 1: Story-first reporting</span>
-<span class="keigo-jp"><code>「今日お客様が来て、なんかいろいろあって、最終的に...」</code></span><br>
-Background before conclusion; supervisor has to wait for the key fact.<br><br>
-<span class="keigo-pair-label">Error 2: Vague 連絡</span>
-<span class="keigo-jp"><code>「なんか503号室で問題あります」</code></span><br>
-No specifics; the recipient cannot act.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correction 1</span>
-<span class="keigo-jp"><code>「〇〇号室のお客様より〇〇のご苦情がございました。ご報告いたします」</code></span><br>
-Key fact first.<br><br>
-<span class="keigo-pair-label">Correction 2</span>
-<span class="keigo-jp"><code>「503号室のお客様よりシャワーが使えないとのご報告がありました。メンテナンスの連絡をお願いできますでしょうか」</code></span><br>
-Room, issue, action needed.
-</div>
-</div>
+## The 相談 Structure
 
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Error 3: Vague 相談</span>
-<span class="keigo-jp"><code>「どうしたらいいですか？」</code></span><br>
-No situation, no context, no specific question; supervisor must ask multiple follow-up questions.<br><br>
-<span class="keigo-pair-label">Error 4: Avoiding error reports</span>
-Waiting to see if the problem resolves itself before telling a supervisor.<br><br>
-<span class="keigo-pair-label">Error 5: Using guest-facing language internally</span>
-<span class="keigo-jp"><code>「誠に恐れ入りますが、ご確認いただけますでしょうか」</code></span><br>
-This level of formality is unusual internally and slows down communication.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correction 3</span>
-Provide the situation, what you have considered, and your specific question before asking for guidance.<br><br>
-<span class="keigo-pair-label">Correction 4</span>
-Report immediately. The earlier a supervisor knows, the more options they have to resolve it smoothly.<br><br>
-<span class="keigo-pair-label">Correction 5</span>
-<span class="keigo-jp"><code>「〇〇の件、確認いただけますか」</code></span><br>
-Functional and professional without over-formality.
-</div>
-</div>
+A well-formed 相談 has three parts:
 
-## Quick Reference: Situation to Phrase
+- **1. The situation:** What is the current state? (factual, brief)
+- **2. What you have tried or considered:** This shows you have already thought about it
+- **3. The specific question:** What exactly do you need guidance on?
 
-| Situation | Type | Key Opening |
-|---|---|---|
-| Task completed | <span>報告</span> | <span>〇〇の件、完了いたしました</span> |
-| Problem discovered | <span>報告</span> | <span>問題が発生いたしました。ご報告いたします</span> |
-| Guest complaint received | <span>報告</span> | <span>〇〇様よりご苦情がございました</span> |
-| Passing an update to a colleague | <span>連絡</span> | <span>〇〇の件、お伝えしておきます</span> |
-| Informing another department | <span>連絡</span> | <span>フロントの〇〇です。〇〇号室のお客様より...</span> |
-| Asking for guidance on an unusual request | <span>相談</span> | <span>少しご相談してもよろしいでしょうか</span> |
-| Reporting your own error | <span>報告</span> | <span>ご報告いたします。〇〇の際にミスがございました</span> |
-| Escalating to a manager | <span>相談 + 報告</span> | <span>私の対応範囲を超えていると判断いたしました</span> |
-
-## Internal Communication and Guest Experience
-
-Every phrase covered in this sub-module exists for one reason: to allow the hotel to respond to guest needs faster and more accurately than it otherwise could.
-
-
-A staff member who reports clearly saves their supervisor time. A colleague who passes complete 連絡 prevents a guest from waiting. A team member who consults well gets the right answer and applies it immediately. The omotenashi philosophy of anticipating and meeting guest needs depends entirely on a team that communicates internally with the same care and precision they bring to guest-facing interactions.
+A 相談 without Part 2 sounds like you are handing the problem over entirely. A 相談 without Part 3 leaves the supervisor guessing what you need from them.
 
 ---
 
 ## Quiz
 
-**A staff member realizes mid-shift that they passed incorrect information to a colleague two hours ago, and the colleague may have already acted on it. What should the staff member do?**
+**A staff member encounters a situation they are fully trained to handle and have resolved many times before. The guest is asking for a standard early check-in, and rooms are available. What should the staff member do?**
 
-- A. Wait until the end of shift to mention it in the handover notes
-- B. Hope the colleague noticed the error and corrected it independently
-- C. Report the error immediately to their supervisor with the specific details, what may have already happened as a result, and ask how to correct the situation
-- D. Send the colleague a casual message and ask them not to mention it
+- A. Use 相談 to check with the supervisor before making any decision involving a guest
+- B. Handle it independently; this is within their responsibility and training, so 相談 is not needed
+- C. Use 連絡 to inform the supervisor after handling it
+- D. Use 報告 first, then wait for supervisor permission before proceeding
 
-**Correct Answer:** C
+**Correct Answer:** B
 
-**Explanation:** Errors that may have already had downstream effects require immediate escalation, not delay. The report should include what the incorrect information was, when it was passed, what action may have been taken based on it, and a request for guidance on correction. Option A delays potentially necessary action by hours. Option B is not a communication act at all; hoping is not 連絡 or 報告. Option D attempts to suppress the error rather than resolve it, which is a serious professional failure and may result in a guest impact that the supervisor never has the chance to prevent.
+**Explanation:** 相談 is for situations where genuine uncertainty exists: policy questions, unusual requests, or situations beyond the staff member's training. A standard early check-in with rooms available is within the staff member's authority and training. Consulting a supervisor for every routine decision wastes supervisor time, slows service, and undermines the staff member's own competence. Once the matter is resolved, a brief 連絡 or 報告 may be appropriate depending on whether the supervisor needs to know the outcome.

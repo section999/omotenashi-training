@@ -1,99 +1,98 @@
 ---
 id: m5-phone-07
 section: 7
-title: Schedule-Based Requests, Wake-up Calls, Taxis, Late Arrivals
+title: Cancellation Calls, Emotional Management
 ---
 
-Wake-up calls, taxi arrangements, and late arrival notices share a common characteristic: they are **time-critical**. An error in the time, even by one hour, directly affects the guest's schedule and can cause serious operational failures. For this reason, all schedule-based requests follow the same rule: **every time must be repeated clearly and logged immediately**.
+Cancellation calls are operationally simple but emotionally sensitive. The guest may feel guilt, hesitation, or discomfort. Plans changed. Money may be at stake. They do not know how the hotel will respond.
 
-## Wake-up Call Requests
+The staff member's role is not to prevent the cancellation, it is to **reduce emotional friction while maintaining procedural accuracy**, and to ensure the hotel relationship remains intact even as the guest leaves.
 
-A wake-up call that is logged incorrectly, or not logged at all, can cause a guest to miss a flight, meeting, or departure. This is one of the highest-consequence errors in hotel operations.
+## Cancellation Flow
 
-<div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールをお願いします。</code></span><br>
-<em>mouningu kouru o onegai shimasu.</em><br>
-I'd like a wake-up call, please.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>kashikomarimashita. go-kibou no o-jikan o o ukagai shite mo yoroshii deshou ka.</em><br>
-Certainly. May I ask for the time you would like?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>明日の朝6時です。</code></span><br>
-<em>ashita no asa 6 ji desu.</em><br>
-Tomorrow morning at 6:00.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>明日の朝6時のモーニングコールで承りました。お部屋番号をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>ashita no asa 6 ji no mouningu kouru de uketamawarimashita. o-heya bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
-A wake-up call for tomorrow at 6:00 AM, noted. May I confirm your room number?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>702号室です。</code></span><br>
-<em>702 goushitsu desu.</em><br>
-Room 702.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>702号室、明日の朝6時にご連絡いたします。どうぞよろしくお願いいたします。</code></span><br>
-<em>702 goushitsu, ashita no asa 6 ji ni go-renraku itashimasu. douzo yoroshiku onegai itashimasu.</em><br>
-Room 702, we will call you tomorrow morning at 6:00. Thank you.
-</div>
+Acknowledgment → Identity verification → Reservation check → Cancellation execution → Fee communication (if applicable) → Warm closure
 
-## Taxi Arrangements
+## Complete Cancellation Script
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
-<em>takushi o tehai shite morae masu ka.</em><br>
-Can you arrange a taxi for me?<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか。</code></span><br>
-<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu deshou ka.</em><br>
-Certainly. Do you have a preferred time?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>午後3時にお願いします。</code></span><br>
-<em>gogo 3 ji ni onegai shimasu.</em><br>
-3:00 PM, please.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>午後3時でございますね。お向かい先はございますでしょうか。</code></span><br>
-<em>gogo 3 ji de gozaimasu ne. o mukai saki wa gozaimasu deshou ka.</em><br>
-3:00 PM. May I ask for the destination?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>東京駅までです。</code></span><br>
-<em>toukyou eki made desu.</em><br>
-Tokyo Station.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。午後3時に東京駅行きのタクシーを手配いたします。準備ができましたらお知らせいたします。</code></span><br>
-<em>kashikomarimashita. gogo 3 ji ni toukyou eki iki no takushi o tehai itashimasu. jumbi ga deki mashitara oshirase itashimasu.</em><br>
-Certainly. I will arrange a taxi to Tokyo Station for 3:00 PM. We will notify you when it is ready.
+<strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいのですが。</code></span><br>
+<em>yoyaku o kyanseru shitai no desu ga.</em><br>
+I'd like to cancel my reservation.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
+Certainly. May I have the name on the reservation?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>山田です。</code></span><br>
+<em>yamada desu.</em><br>
+Yamada.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。確認いたしますので少々お待ちくださいませ。</code></span><br>
+<em>yamada sama de gozaimasu ne. kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
+Mr./Ms. Yamada. I will check now, please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>お待たせいたしました。6月10日から2泊、ツインルームのご予約でございますね。</code></span><br>
+<em>o-matase itashimashita. 6 tsuki 10 nichi kara 2 haku, tsuin rumu no go-yoyaku de gozaimasu ne.</em><br>
+Thank you for waiting. Your reservation is a twin room, June 10th for two nights, correct?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>はい、そうです。</code></span><br>
+<em>hai, sou desu.</em><br>
+Yes, that's right.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。キャンセルを承りました。</code></span><br>
+<em>kashikomarimashita. kyanseru o uketamawarimashita.</em><br>
+Certainly. Your cancellation has been processed.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>またのご利用をお待ちしております。お電話ありがとうございました。</code></span><br>
+<em>mata no go-riyou o omachi shite orimasu. o-denwa arigatou gozaimashita.</em><br>
+We look forward to welcoming you in the future. Thank you for your call.
 </div>
 
-## Late Arrival Notices
+## The Language of Neutral Completion
 
-Without accurate late arrival records, rooms may be released during night audit, creating a situation where a paying guest arrives to find no room available. This is an irreversible operational failure.
+The choice of words when confirming a cancellation matters significantly:
 
-<div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります。</code></span><br>
-<em>chekkuin ga osoku narimasu.</em><br>
-My check-in will be late.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着の予定時刻をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>kashikomarimashita. go touchaku no yotei jikoku o o ukagai shite mo yoroshii deshou ka.</em><br>
-Certainly. May I ask your estimated arrival time?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>夜の11時頃になると思います。</code></span><br>
-<em>yoru no 11 ji goro ni naru to omoimasu.</em><br>
-Around 11:00 PM, I think.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>夜11時頃でございますね。承知いたしました。フロントで確かにお待ちしております。お名前をもう一度お伺いしてもよろしいでしょうか。</code></span><br>
-<em>yoru 11 ji goro de gozaimasu ne. shouchi itashimashita. furonto de tashika ni omachi shite orimasu. o-namae o mouichido o ukagai shite mo yoroshii deshou ka.</em><br>
-Around 11:00 PM. Understood. We will expect you at the front desk. May I also confirm your name?
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Cold and Transactional</span>
+<span class="keigo-jp"><code>キャンセルしました</code></span>
+<br><em>kyanseru shimashita</em><br>
+The reservation was cancelled.<br><br>
+<span class="keigo-badge bad">Problem</span> Sounds mechanical and detached. Signals that the relationship is over.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Professional and Neutral</span>
+<span class="keigo-jp"><code>キャンセルを承りました</code></span>
+<br><em>kyanseru wo uketsukemashita</em><br>
+Your cancellation has been received.<br><br>
+<span class="keigo-badge good">Why it works</span> 承る (uketsukeru) carries a nuance of respectfully receiving. It signals completion without coldness; the relationship is preserved.
+</div>
 </div>
 
-## Why Time Repetition Cannot Be Skipped
+## Communicating Cancellation Fees
 
-| Request Type | If Time Is Wrong | Consequence |
-|---|---|---|
-| Wake-up call | 6am logged as 7am | Guest misses flight or meeting |
-| Taxi | 3pm logged as 2pm | Guest stranded or late |
-| Late arrival | 11pm not logged | Room released; no-show recorded |
+If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly; frame it as policy, not punishment:
 
-Unlike other service errors that can be corrected, time-based failures often cannot be undone. The guest's schedule has already been affected. This is why **repeating the time is not a formality, it is the most critical verification step in schedule-based calls**.
+**誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。**
+*makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.*
+I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.
+
+誠に恐れ入りますが softens the delivery of unwelcome information. The fee is framed as policy, not a personal decision by the hotel.
+
+## The Philosophy of the Warm Closing
+
+またのご利用をお待ちしております is not just a farewell. It communicates:
+
+- The hotel holds no ill will toward the guest
+- The relationship is not ended, only this reservation is
+- The guest is welcome to return
+
+This matters because **guests who cancel due to circumstances beyond their control often rebook**. How the hotel handles the cancellation directly affects whether they return.
 
 ---
 
 ## Quiz
 
-**A guest says their wake-up call should be at 7:00 AM. The staff confirms "7時のモーニングコールで承りました." Why is this repetition essential?**
+**Why is キャンセルを承りました preferred over キャンセルしました?**
 
-- A. It is a formality with no practical purpose
-- B. It gives the guest a chance to correct the time if it was misheard, preventing schedule-critical errors
-- C. It makes the call sound more professional
-- D. It allows time to check the room number
+- A. 承りました is shorter and faster to say
+- B. キャンセルしました is grammatically incorrect
+- C. 承る carries a nuance of respectfully receiving, preserving the service tone and guest relationship even at the close of the interaction
+- D. 承りました is only used for complaints
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Repeating the time immediately after the guest states it gives them a clear moment to correct any misunderstanding. A wake-up call at the wrong time can cause the guest to miss a flight or meeting, consequences that cannot be undone. Time repetition in schedule-based requests is not a formality; it is the final safety check before logging.
+**Explanation:** 承る (uketsukeru) carries the nuance of respectfully receiving or handling. Used here, it signals completion in a way that maintains service dignity; the interaction closes professionally, not coldly. キャンセルしました sounds transactional and signals that the relationship is simply over.

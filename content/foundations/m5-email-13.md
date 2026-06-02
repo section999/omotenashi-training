@@ -1,95 +1,82 @@
 ---
 id: m5-email-13
 section: 13
-title: Guest Inquiry Response Template
+title: Facility and Operational Notice Template
 ---
 
-Guests frequently contact hotels with questions before booking: room availability, facilities, accessibility, policies, or special requests. Responding to inquiries with clear, warm, and helpful language is not just customer service. It directly influences whether the guest books or moves on.
+Hotels occasionally must notify guests about maintenance schedules, temporary facility closures, service changes, or renovation work. These operational emails require a professional, respectful tone that acknowledges the inconvenience to the guest without sounding dismissive or overly apologetic.
 
 ## What This Email Must Accomplish
 
-**1. Acknowledge:** Thank the guest for their inquiry immediately.
+**1. Inform:** State clearly what is happening, when, and which facilities or services are affected.
 
-**2. Answer:** Provide clear, accurate information about what was asked.
+**2. Acknowledge:** Recognize that this creates inconvenience without over-apologizing.
 
-**3. Invite:** Close with an offer for further questions and a gentle booking invitation if appropriate.
+**3. Request:** Ask for the guest's understanding using appropriate humble language.
 
-## Full Template: Availability Inquiry
+**4. Support:** Close with an offer to answer questions.
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, tou hoteru e o toiawase itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for your inquiry to our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご質問いただきました[topic]についてご回答いたします。</code></span><br>
-<em>go shitsumon itadakimashita [ topic ] nitsuite go kaitou itashimasu.</em><br>
-I will answer your question regarding [topic].<br><br>
-<span class="keigo-jp"><code>[Answer in clear, organized form]</code></span><br><br>
-<em>[ Answer in clear, organized form ]</em><br>
-For room availability:<br>
-<span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます。</code></span><br>
-<em>go shitei no o hinichi ni tsuki mashite wa, genzai go-yoyaku ga kanou de gozaimasu.</em><br>
-Regarding your specified dates, reservations are currently available.<br><br>
-<span class="keigo-jp"><code>ご希望のお部屋タイプや人数などございましたら、お知らせくださいませ。</code></span><br>
-<em>go-kibou no o-heya taipu ya ninzu nado gozai mashitara, oshirase kudasaimase.</em><br>
-If you have a preferred room type or number of guests, please let us know.<br><br>
-<span class="keigo-jp"><code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>ta ni go fumei na ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-Please feel free to contact us if you have any other questions.<br><br>
-<span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております。</code></span><br>
-<em>go raihou o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to welcoming you.
-</div>
-
-## Template Variation: Special Request Inquiry
-
-When a guest asks about special arrangements (accessibility, dietary needs, specific room requests):
+## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>ご要望の[specific request]につきましては、対応可能でございます。ご到着前にご担当者からご連絡差し上げます。</code></span><br>
-<em>go-youbou no [ specific request ] ni tsuki mashite wa, taiou kanou de gozaimasu. go touchaku mae ni go tantou sha kara go-renraku sashiage masu.</em><br>
-We are able to accommodate your request for [specific request]. Our coordinator will contact you before your arrival.
+<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
+<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you very much for your continued use of our hotel.<br><br>
+<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
+<em>kaki no nittei nite kannai setsubi tenken o jisshi itashimasu.</em><br>
+We will be conducting facility inspections on the following schedule.<br><br>
+<span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
+<em>nittei :[ Date ]([ Day ])[ Time ]〜[ Time ]</em><br>
+<span class="keigo-jp"><code>対象：[Affected facility]</code></span><br><br>
+<em>taishou :[ Affected facility ]</em><br>
+<span class="keigo-jp"><code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code></span><br>
+<em>tenken sagyou chu wa, [ affected facility ] ga go-riyou itadake nai jikan tai ga gozaimasu.</em><br>
+During the inspection, [affected facility] will be unavailable for some time.<br><br>
+<span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
+<em>okyakusama ni wa go fuben o okakeitashimasu ga, nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
+We apologize for the inconvenience and humbly ask for your understanding.<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
+If you have any questions, please feel free to contact us.
 </div>
 
-If not fully possible:
+## Key Phrase: 何卒ご理解のほど
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>ご要望の[specific request]につきましては、現在のところ[limitation]となっております。誠に恐れ入りますが、[alternative if available]でしたらご対応が可能でございます。</code></span><br>
-<em>go-youbou no [ specific request ] ni tsuki mashite wa, genzai no tokoro [ limitation ] to natte orimasu. makotoni osoreirimasu ga, [ alternative if available ] deshi tara go-taiou ga kanou de gozaimasu.</em><br>
-Regarding your request for [specific request], we are currently limited to [limitation]. I am very sorry, but [alternative] would be possible.
+<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
+<em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em><br>
+We humbly ask for your understanding.
 </div>
 
-## Writing Principles for Inquiry Responses
+何卒 (nanitozo) means "humbly" or "please" and adds sincerity and humility. ご理解のほど (go-rikai no hodo) means "your understanding"; のほど is a softening construction. よろしくお願い申し上げます is the highest-register form of please/request.
 
-**Answer directly**
+This phrase is standard in Japanese professional notice emails. It requests the guest's understanding and patience without sounding demanding or casual.
 
-Do not bury the answer at the end. Lead with the answer, then provide supporting detail.
+## Alternate Versions
 
-
-**Match the question to the answer**
-
-Acknowledge specifically what was asked: 「ご質問いただきました○○についてご回答いたします」
-
-
-**Avoid ambiguous answers**
-
-"It may be possible" or "probably" leaves the guest with uncertainty. If you cannot answer definitively, say when you will have an answer: 「担当者に確認の上、本日中にご返信いたします」
-
-
-**Close with an invitation**
-
-End with ご来訪をお待ちしております to keep the interaction open and hospitality-oriented.
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>現在、ホテルの一部エリアにて改装工事を実施しております。</code></span><br>
+<em>genzai, hoteru no ichibu eria nite kaisou kouji o jisshi shite orimasu.</em><br>
+We are currently conducting renovation work in part of the hotel.<br><br>
+<span class="keigo-jp"><code>工事期間中は音や振動によりご迷惑をおかけする場合がございます。何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
+<em>kouji kikan chu wa oto ya shindou niyori go-meiwaku o okake suru baai ga gozaimasu. nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
+During the construction period, there may be noise or vibrations. We humbly ask for your understanding.<br><br>
+<span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります。</code></span><br>
+<em>go-taizai no go fuben o saishougen ni osaeru you tsutome te mairimasu.</em><br>
+We will do our best to minimize any inconvenience to your stay.
+</div>
 
 ---
 
 ## Quiz
 
-**A guest asks if the hotel has parking available. The response begins with 「ご質問いただきました駐車場についてご回答いたします。」 What does this opening line accomplish?**
+**Which phrase is the standard way to request guest understanding in a facility notice email?**
 
-- A. It translates the guest's question back to them to confirm understanding
-- B. It explicitly links the response to the specific question, making the email feel attentive and organized
-- C. It is unnecessary; the guest already knows what they asked
-- D. It is too long and should be shortened
+- A. また来てください
+- B. ご確認ください
+- C. 何卒ご理解のほどよろしくお願い申し上げます
+- D. 問題ありません
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Starting the body with ご質問いただきました○○についてご回答いたします creates a clear connection between the guest's inquiry and the hotel's response. The guest sees immediately that their specific question is being addressed, not a generic template response. This attentiveness is part of hospitality communication: the guest should feel heard and specifically answered, not processed. It also prevents ambiguity when a guest sends multiple questions.
+**Explanation:** 何卒ご理解のほどよろしくお願い申し上げます is the standard formal phrase for requesting understanding and patience in professional Japanese correspondence. 何卒 adds sincerity, ご理解のほど softens the request with のほど, and よろしくお願い申し上げます uses the highest-register form of asking. Options A, B, and D are all inappropriate for this purpose.

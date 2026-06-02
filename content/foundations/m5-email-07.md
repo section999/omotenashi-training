@@ -1,89 +1,74 @@
 ---
 id: m5-email-07
 section: 7
-title: Reservation Confirmation Template
+title: Tone Consistency and Email Polish (Part 2)
 ---
 
-The reservation confirmation is often the first direct communication from the hotel to the guest. It must do three things: confirm the booking accurately, reassure the guest that everything is in order, and make them feel genuinely welcomed before they arrive.
+This lesson continues with two more polish rules and a practical test for reviewing your email before sending.
 
-## What This Email Must Accomplish
+## Rule 4: Never End Abruptly
 
-**1. Confirm:** The guest must see their reservation details clearly and be able to verify them.
+An email that ends with the last piece of information, without a closing phrase, feels cold and incomplete. Even short emails need a proper closing.
 
-**2. Reassure:** The hotel is prepared and handling their stay properly.
-
-**3. Welcome:** The guest should feel the hotel is looking forward to their arrival, not just processing a transaction.
-
-## Full Template
-
-<div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for reserving our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
-<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
-Your reservation details are as follows.<br><br>
-<span class="keigo-jp"><code>チェックイン：[Date]（[Day]）[Time]〜</code></span><br>
-<em>chekkuin :[ Date ]([ Day ])[ Time ]〜</em><br>
-<span class="keigo-jp"><code>チェックアウト：[Date]（[Day]）[Time]</code></span><br>
-<em>chekku auto :[ Date ]([ Day ])[ Time ]</em><br>
-<span class="keigo-jp"><code>ご宿泊人数：[Number]名様</code></span><br>
-<em>go shukuhaku ninzu :[ Number ] mei sama</em><br>
-<span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span><br><br>
-<em>o-heya taipu :[ Room type ]</em><br>
-<span class="keigo-jp"><code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code></span><br>
-<em>go-taizai chu, kaiteki ni osugoshi itadake masu you, sutaffu ichi dou jumbi o susume te orimasu.</em><br>
-All of our staff are preparing to ensure you have a comfortable stay.<br><br>
-<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions before your arrival, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to your arrival.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Abrupt ending</span>
+<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
+<em>go-yoyaku o kakunin itashimashita.</em><br>
+[End of email]<br><br>
+<span class="keigo-badge bad">Cold</span> Grammatically correct but emotionally flat. The guest feels processed, not welcomed.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Complete ending</span>
+<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
+<em>go-yoyaku o kakunin itashimashita.</em><br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br><br>
+<span class="keigo-badge good">Complete</span> Adds support and warmth after the information.
+</div>
 </div>
 
-## Key Phrases Explained
+## Rule 5: Sentence-Level Polish
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>スタッフ一同</code></span><br>
-<em>sutaffu ichidou</em><br>
-all of our staff<br><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span><br>
-<em>kaiteki ni osugoshi itadake masu you</em><br>
-so that you may have a comfortable stay<br><br>
-<span class="keigo-jp"><code>心よりお待ち申し上げております</code></span><br>
-<em>kokoro yori omachi moushiage te orimasu</em><br>
-sincerely look forward to
-</div>
+Small word choices within the body of an email create a significant difference in perceived quality. Know the hotel-standard replacements.
 
-スタッフ一同 makes the welcome feel collective rather than coming from one person, which is more impactful. The guest feels the whole hotel is preparing for them.
+| Everyday Form | Hotel Email Standard | Why It Changes |
+|---|---|---|
+| <span>ありがとうございます</span> | <span>誠にありがとうございます</span> | <span>誠に adds genuine sincerity; prevents the phrase from sounding automatic</span> |
+| <span>ください</span> | <span>くださいませ</span> | <span>ませ softens the request; the guest feels guided rather than instructed</span> |
+| <span>確認してください</span> | <span>ご確認いただけますと幸いでございます</span> | Transforms a command into a humble invitation; the guest retains full autonomy |
+| <span>問題ありません</span> | <span>ご安心くださいませ</span> | Shifts focus from dismissing the concern to caring for the guest's peace of mind |
+| <span>また来てください</span> | <span>またのお越しをお待ちしております</span> | Expresses genuine anticipation from the hotel's side rather than an instruction to the guest |
+| <span>わかりました</span> | <span>かしこまりました / 承りました</span> | Signals both full understanding and service commitment, not just acknowledgment |
 
-よう in 快適にお過ごしいただけますよう expresses purpose. The staff is preparing with the guest's comfort as the goal.
+## The Test: Read from the Guest's Perspective
 
-心より (from the heart) makes the anticipation feel genuine rather than formulaic. お待ち申し上げております uses humble language (申し上げる) for extra refinement.
+Before sending any email, read it as if you are the guest receiving it for the first time. Ask:
 
-## Variations
+1. Does the opening match the guest's relationship type?
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いつもお世話になっております。この度もご予約いただき、誠にありがとうございます。</code></span><br>
-<em>itsumo osewa ni natte orimasu. kono tabi mo go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you for your continued support. Thank you very much for booking with us again on this occasion.
-</div>
+2. Is the register consistent from opening to closing?
 
-For repeat guests, replace the opening with this phrase. Everything else in the template remains the same.
+3. Is there anything that sounds too casual, too stiff, or emotionally cold?
+
+4. Does the closing create the right final impression?
+
+5. Would a guest reading this feel genuinely welcomed and cared for?
+
+
+If any answer is no, revise before sending.
 
 ---
 
 ## Quiz
 
-**A reservation confirmation email uses the phrase 「スタッフ一同準備を進めております」. What does this phrase communicate to the guest?**
+**A guest receives a hotel email that opens with 「平素より当ホテルをご利用いただき、誠にありがとうございます」 but closes with 「よろしくです！」. What is wrong?**
 
-- A. That only one staff member is assigned to their stay
-- B. That the hotel is currently short-staffed
-- C. That the entire team is preparing for their stay, making the welcome feel collective and genuine
-- D. That the hotel is asking the guest to confirm their own preparation
+- A. The opening is too casual
+- B. The closing is too long
+- C. The opening and closing are in completely different registers; the shift breaks the professional tone
+- D. Nothing is wrong; variety in tone creates a friendly email
 
 **Correct Answer:** C
 
-**Explanation:** スタッフ一同 means "all of our staff" or "the entire team." Using this collective phrase instead of 私 (I, referring to one person) makes the welcome feel like a shared hospitality commitment from the whole hotel. The guest feels prepared for, not just processed. This is an intentional language choice in Japanese hospitality writing.
+**Explanation:** 平素より当ホテルをご利用いただき is a highly formal, professional opening. よろしくです is casual spoken Japanese, not appropriate for any hotel correspondence. The shift between them is jarring and signals that the email was written carelessly. A formal opening requires a formal or professional-warm closing. The overall register of the email must be consistent from the first word to the last.

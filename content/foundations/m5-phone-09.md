@@ -1,111 +1,54 @@
 ---
 id: m5-phone-09
 section: 9
-title: Transfer, Hold, and Callback Procedures
+title: Availability Calls: Room Type Inquiries
 ---
 
-Transfers, holds, and callbacks are moments where guests are most likely to feel "passed around" or forgotten. In these moments, **continuity of responsibility** is the core principle: even when the guest is moved to another staff member, placed on hold, or told they will receive a call back, they must feel that the hotel is still actively managing their request.
+Guests often call to understand what types of rooms are available before committing to a reservation. These inquiry calls are opportunities to guide the guest toward the right choice. The staff member's role is to ask the right questions and make a personalized recommendation, not simply list options.
 
-## Transfer Protocol
-
-Transferring a call is not a handoff, it is coordination. The framing of the transfer determines whether the guest feels abandoned or supported.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Mechanical</span>
-<span class="keigo-jp"><code>回します。</code></span>
-<br><em>まわします, I'll put you through.</em><br><br>
-<span class="keigo-badge bad">Problem</span> Sounds like the guest is being handed off as a task. Informal and impersonal. The guest feels processed, not served.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Professional</span>
-<span class="keigo-jp"><code>レストランへおつなぎいたします。</code></span>
-<br><em>o-tsunagi itashimasu, I will connect you to the restaurant.</em><br><br>
-<span class="keigo-badge good">Why it works</span> 繋ぐ (tsunagu) means "to connect," which frames the transfer as maintaining a link rather than ending one. The guest feels guided.
-</div>
-</div>
+## Room Type Inquiry
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>レストランの予約をしたいのですが。</code></span><br>
-<em>resutoran no yoyaku o shitai no desu ga.</em><br>
-I'd like to make a restaurant reservation.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。レストラン担当へおつなぎいたします。少々お待ちくださいませ。</code></span><br>
-<em>kashikomarimashita. resutoran tantou e o tsunagi itashimasu. shoushou omachi kudasaimase.</em><br>
-Certainly. I will connect you to our restaurant team. Please wait a moment.<br><br>
-<em>[After connecting]</em><br><br>
-<strong>Restaurant staff:</strong> <span class="keigo-jp"><code>レストランでございます。お電話ありがとうございます。</code></span><br>
-<em>resutoran de gozaimasu. o-denwa arigatou gozaimasu.</em><br>
-This is the restaurant. Thank you for your call.
+<strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
+<em>donna heya ga arimasu ka.</em><br>
+What kinds of rooms do you have?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルにはスタンダードルーム、ツインルーム、そしてデラックスルームがございます。ご利用のご人数はいかがでしょうか。</code></span><br>
+<em>kashikomarimashita. tou hoteru ni wa sutandado rumu, tsuin rumu, soshite derakkusu rumu ga gozaimasu. go-riyou no go ninzu wa ikaga deshou ka.</em><br>
+Certainly. Our hotel offers standard rooms, twin rooms, and deluxe rooms. May I ask how many guests will be staying?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>2人です。</code></span><br>
+<em>2 nin desu.</em><br>
+Two people.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>2名様でございますね。2名様ですとツインルームまたはデラックスルームがおすすめでございます。ご料金のご案内もよろしいでしょうか。</code></span><br>
+<em>2 mei sama de gozaimasu ne. 2 mei sama desu to tsuin rumu matawa derakkusu rumu ga osusume de gozaimasu. go ryoukin no go-annai mo yoroshii deshou ka.</em><br>
+Two guests. For two, I would recommend our twin room or deluxe room. Shall I also share the rates?
 </div>
 
-When transferring, **always state the destination before placing the guest on hold**. Never silently connect without explanation.
+## Softening Unavailability with いかがでしょうか
 
-## Hold Management
-
-Holds are moments of silence, and silence creates anxiety. The staff member must manage hold time actively:
+When guiding a guest toward an alternative, end with a question that invites their input rather than pushing a decision:
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>確認いたしますので、少々お待ちくださいませ。</code></span><br>
-<em>kakunin itashimasu node, shoushou omachi kudasaimase.</em><br>
-I will check on that, please wait a moment.
+<span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
+<em>ikaga deshou ka</em><br>
+<span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
+<em>go tsugou wa yoroshii deshou ka</em><br>
+<span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?<br>
+<em>ika ga nasaimasu ka</em>
 </div>
 
-Never place a guest on hold without explaining what you are checking. The guest needs to know the silence has a purpose.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
-<em>taihen o-matase itashimashita.</em><br>
-Thank you very much for waiting.
-</div>
-
-Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the acknowledgment; the guest's patience is genuinely recognized.
-
-<div class="keigo-card blue">
-If the check takes longer than expected, return to the line briefly:
-
-<span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
-<em>taihen o-matase shite orimasu. mou shoushou o-jikan o itadake masu deshou ka.</em><br>
-I am sorry to keep you waiting. Could I ask for just a little more time?
-</div>
-
-An unannounced long hold feels like disconnection. A brief check-in reassures the guest the call is still active.
-
-## Callback Protocol
-
-When a request cannot be handled immediately, offer a callback rather than asking the guest to call again:
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>現在担当者が対応中でございます。折り返しご連絡いたしますが、よろしいでしょうか。</code></span><br>
-<em>genzai tantou sha ga taiou chu de gozaimasu. orikaeshi go-renraku itashimasu ga, yoroshii deshou ka.</em><br>
-Our specialist is currently with another guest. May I have us call you back?<br><br>
-<span class="keigo-jp"><code>ご連絡先のお電話番号をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>go-renraku saki no o-denwa bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
-May I take your contact phone number?<br><br>
-<span class="keigo-jp"><code>30分以内にご連絡いたします。</code></span><br>
-<em>30 fun inai ni go-renraku itashimasu.</em><br>
-We will call you within 30 minutes.
-</div>
-
-**When offering a callback, always state a specific time frame.** "We will call you back" without a time creates uncertainty. "Within 30 minutes" creates a commitment the guest can rely on.
-
-## The Principle of Responsibility Continuity
-
-The guest should never feel that responsibility for their request has disappeared. Whether they are transferred, placed on hold, or promised a callback, the hotel must feel like a single, organized entity. The guest's request does not get "passed", it gets "coordinated."
-
-
-Every transfer, hold, and callback is a test of whether the hotel operates as one system or as disconnected departments.
+These endings return decision-making to the guest, reducing pressure and maintaining a service-oriented dynamic.
 
 ---
 
 ## Quiz
 
-**A staff member needs to transfer a guest to the spa department. Which approach is correct?**
+**A guest asks what rooms are available. After listing room types, what should the staff say next?**
 
-- A. Silently transfer the call without explanation
-- B. Say 「回します」and immediately connect
-- C. Say 「スパ担当へおつなぎいたします。少々お待ちくださいませ」before connecting
-- D. Ask the guest to call the spa directly
+- A. Quote the price immediately without asking further questions
+- B. Ask how many guests will be staying to make a personalized recommendation
+- C. Tell the guest to check the hotel website for details
+- D. End the call and wait for the guest to call back with a decision
 
-**Correct Answer:** C
+**Correct Answer:** B
 
-**Explanation:** The correct approach is to state the destination (スパ担当へおつなぎいたします) and ask the guest to wait (少々お待ちくださいませ) before connecting. This maintains transparency and frames the transfer as coordinated service, not abandonment. 回します is too informal and lacks service tone. Asking the guest to call directly breaks continuity of responsibility.
+**Explanation:** After presenting room types, asking about the number of guests (ご利用のご人数はいかがでしょうか) allows the staff member to make a personalized recommendation. This turns an information-only call into a guided decision-support interaction. Quoting price without context misses the opportunity to match the guest with the most suitable option.

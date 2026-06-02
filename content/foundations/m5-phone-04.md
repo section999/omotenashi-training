@@ -1,103 +1,73 @@
 ---
 id: m5-phone-04
 section: 4
-title: Reservation Calls, New Bookings and Modifications
+title: Core Telephone Keigo: Apology, Closing, and Critical Distinctions
 ---
 
-Reservation calls are among the most operationally critical interactions in a hotel. A single error, a wrong date, a misheard name, or a misunderstood room type, affects room allocation, pricing, housekeeping schedules, and guest satisfaction. Reservation handling is therefore structured as a **verification chain**: every detail is confirmed before proceeding.
+This lesson covers apology and closing expressions, along with one of the most important distinctions in hotel Japanese: when to use かしこまりました, 承知いたしました, and 分かりました.
 
-## New Booking Call
-
-Greeting → Date inquiry → Availability check → Option presentation → Guest details → Final confirmation
+## Apology Expressions
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが。</code></span><br>
-<em>yoyaku shitai n desu ga.</em><br>
-I'd like to make a reservation.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
-<em>o-denwa arigatou gozaimasu. go-kibou no o hinichi o o ukagai shite mo yoroshii deshou ka.</em><br>
-Thank you for your call. May I ask for your preferred dates?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>6月10日から2泊です。</code></span><br>
-<em>6 tsuki 10 nichi kara 2 haku desu.</em><br>
-June 10th for two nights.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊でございますね。確認いたしますので少々お待ちくださいませ。</code></span><br>
-<em>6 tsuki 10 nichi kara 2 haku de gozaimasu ne. kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
-June 10th for two nights, correct? I will check availability now, please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。ツインルームとデラックスルームに空きがございます。いかがなさいますか。</code></span><br>
-<em>taihen o-matase itashimashita. tsuin rumu to derakkusu rumu ni aki ga gozaimasu. ika ga nasaimasu ka.</em><br>
-Thank you for waiting. We have availability in twin rooms and deluxe rooms. Which would you prefer?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>ツインでお願いします。</code></span><br>
-<em>tsuin de onegai shimasu.</em><br>
-A twin room, please.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
-Certainly. May I ask for the name on the reservation?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>山田です。</code></span><br>
-<em>yamada desu.</em><br>
-Yamada.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。6月10日から2泊、ツインルームで承りました。ご連絡先のお電話番号をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>yamada sama de gozaimasu ne. 6 tsuki 10 nichi kara 2 haku, tsuin rumu de uketamawarimashita. go-renraku saki no o-denwa bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
-Mr./Ms. Yamada. I have confirmed your reservation: twin room, June 10th for two nights. May I also take a contact phone number?
+<span class="keigo-jp"><code>申し訳ございません</code></span><br>
+<em>moushiwake gozaimasen</em>: I am very sorry (standard formal apology)<br><br>
+<span class="keigo-jp"><code>ご不便をおかけし申し訳ございません</code></span><br>
+<em>go-fuben wo okake shi moushiwake gozaimasen</em>: I sincerely apologize for the inconvenience caused<br><br>
+<span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
+<em>makoto ni osore irimasu ga</em>: I am truly sorry to trouble you, but... (soft prefix before a refusal or limitation)
 </div>
 
-## Why Repetition Is Not Redundant
-
-Some learners feel that repeating dates and names back to the guest sounds unnecessary. In hotel operations, this repetition is essential:
-
-Dates repeated → prevents June 10th vs June 1st errors
-
-Room type repeated → prevents twin vs single booking mistakes
-
-Name repeated → confirms the correct guest identity
-
-Final summary → gives the guest verbal confirmation before the call ends
-
-
-Each repetition is a checkpoint. Missing one creates a gap where operational errors enter undetected.
-
-## Modification Call
-
-When a guest calls to change their reservation, dates, room type, or number of guests, the same verification chain applies:
-
-Acknowledge request → Verify identity → Confirm current booking → Ask for new details → Check availability → Confirm new booking
+## Closing Expressions
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
-<em>yoyaku no nittei o henkou shitai no desu ga.</em><br>
-I'd like to change my reservation dates.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
-Certainly. May I have the name on the reservation?<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。現在のご予約内容を確認いたします。少々お待ちくださいませ。</code></span><br>
-<em>yamada sama de gozaimasu ne. genzai no go-yoyaku naiyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
-Mr./Ms. Yamada. I will check your current reservation. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊、ツインルームのご予約でございますね。ご希望の新しいお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
-<em>6 tsuki 10 nichi kara 2 haku, tsuin rumu no go-yoyaku de gozaimasu ne. go-kibou no atarashii o hinichi o o ukagai shite mo yoroshii deshou ka.</em><br>
-Your current reservation is a twin room, June 10th for two nights. May I ask your new preferred dates?<br><br>
-<strong>Guest:</strong> <span class="keigo-jp"><code>6月15日から2泊にしたいです。</code></span><br>
-<em>6 tsuki 15 nichi kara 2 haku ni shitai desu.</em><br>
-I'd like to change to June 15th for two nights.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>6月15日から2泊へのご変更でございますね。確認いたします。少々お待ちくださいませ。</code></span><br>
-<em>6 tsuki 15 nichi kara 2 haku e no go henkou de gozaimasu ne. kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
-A change to June 15th for two nights, correct? I will check availability. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月15日から2泊、ツインルームにてご変更を承りました。</code></span><br>
-<em>taihen o-matase itashimashita. 6 tsuki 15 nichi kara 2 haku, tsuin rumu nite go henkou o uketamawarimashita.</em><br>
-Thank you for waiting. I have updated your reservation to June 15th for two nights in a twin room.
+<span class="keigo-jp"><code>お電話ありがとうございました</code></span><br>
+<em>o-denwa arigatou gozaimashita</em>: Thank you for your call<br><br>
+<span class="keigo-jp"><code>またのご利用をお待ちしております</code></span><br>
+<em>mata no go-riyou wo o-machi shite orimasu</em>: We look forward to serving you again<br><br>
+<span class="keigo-jp"><code>どうぞよろしくお願いいたします</code></span><br>
+<em>douzo yoroshiku o-negai itashimasu</em>: Thank you in advance (closing before action is taken on your behalf)
 </div>
 
-**Reservation calls are not conversations. They are verification chains.**
+## Critical Distinction: Three Ways to Say "I Understand"
+
+This is one of the most important distinctions in hotel Japanese, and one of the most commonly made mistakes.
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Casual, Never use with guests</span>
+<span class="keigo-jp"><code>分かりました</code></span>
+<br><em>wakarimashita</em><br>
+I understand<br><br>
+<span class="keigo-badge bad">Problem</span> Sounds personal and colleague-level. Implies "I, personally, get it"; too casual for any guest-facing interaction.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Professional, Standard for guest requests</span>
+<span class="keigo-jp"><code>かしこまりました</code></span>
+<br><em>kashikomarimashita</em><br>
+Certainly<br><br>
+<span class="keigo-badge good">Correct</span> Removes personal reaction entirely. The standard acknowledgment when receiving an instruction or request from a guest.
+</div>
+</div>
+
+- **かしこまりました:** Use when the guest makes a request ("Please arrange a twin room"). Confirm receipt with full service commitment.
+
+- **承知いたしました:** Use when the guest provides information ("I will arrive at 10pm"). Confirm the information was received and logged.
+
+- **分かりました:** Never use with guests. Appropriate only between staff members.
+
+かしこまりました positions the staff member as a service professional receiving an instruction. 分かりました positions them as an equal acknowledging a statement. In hotel service, the relationship is never equal; it is always service-directed.
 
 ---
 
 ## Quiz
 
-**A guest calls and says "6月10日から2泊です." What should the staff say immediately after?**
+**A guest says: "Please arrange a late check-out until noon." Which response best acknowledges this request?**
 
-- A. かしこまりました。すぐに予約します
-- B. 6月10日から2泊でございますね。確認いたしますので少々お待ちくださいませ
-- C. どのお部屋がよろしいですか
-- D. お名前をどうぞ
+- A. 分かりました、大丈夫です
+- B. そうですか、なるほど
+- C. かしこまりました。正午のレイトチェックアウトで承ります
+- D. 承知いたしました、OKです
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** Immediately repeating "6月10日から2泊でございますね" is the Confirmation step of the 7-step structure. This verifies the dates before taking any action. Following with 確認いたしますので少々お待ちくださいませ is the Action step, which tells the guest what is happening next. Skipping confirmation before asking for name or room preference risks processing incorrect information.
+**Explanation:** When a guest makes a request, かしこまりました is the correct acknowledgment. Following it with a restatement of the request (正午のレイトチェックアウトで承ります) confirms accuracy. 分かりました is too casual, OKです is unprofessional, and 承知いたしました is more appropriate for receiving information than a request.

@@ -1,105 +1,71 @@
 ---
 id: m5-phone-08
 section: 8
-title: Complaint Calls, De-escalation Protocol
+title: Availability Calls: Checking and Responding
 ---
 
-Complaint calls are the highest emotional risk scenario in hotel telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem, they are communicating that their experience did not meet expectations.
+Availability calls are not simple information delivery. They are **decision-support interactions**. The guest is actively evaluating whether to book, so clarity and tone directly influence whether they proceed. Staff who handle availability calls well do not just answer "yes or no"; they guide the guest toward a positive decision.
 
-The staff member's primary goal is **not to solve the problem immediately**. It is to stabilize the guest's emotional state first. An upset guest cannot process solutions. A calm guest can.
-
-## The Complaint Handling Principle
-
-Guest emotion follows a predictable path:
-
-
-Frustration → Need to be heard → Need to be validated → Ready to hear solutions
-
-
-If staff skip to "solutions" before the guest feels heard, the emotional tension escalates rather than resolves. The fastest path to resolution is always: acknowledge first, solve second.
-
-## The 4-A Framework
-
-- **1. Apologize:** Express genuine regret immediately, before asking any questions.
-- **2. Acknowledge:** Confirm you understand what the guest has experienced.
-- **3. Act:** State clearly what action will be taken, and when.
-- **4. Assure:** Confirm the situation will be resolved and that the guest can rely on the staff.
-
-## Noise Complaint Script
+## Availability Check: Room Available
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>隣の部屋がうるさくて眠れません。</code></span><br>
-<em>tonari no heya ga urusaku te nemure mase n.</em><br>
-The room next to mine is so noisy I can't sleep.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
-[Apologize] I sincerely apologize for the inconvenience this is causing you.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ただいまの状況、確かに承りました。</code></span><br>
-<em>tada ima no joukyou, tashika ni uketamawarimashita.</em><br>
-[Acknowledge] I have clearly understood the situation you are experiencing.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>すぐにスタッフが確認にまいります。</code></span><br>
-<em>sugu ni sutaffu ga kakunin ni mairimasu.</em><br>
-[Act] A staff member will check on it immediately.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>必ず対応いたしますので、もう少々お待ちいただけますでしょうか。</code></span><br>
-<em>kanarazu taiou itashimasu node, mou shoushou omachi itadake masu deshou ka.</em><br>
-[Assure] We will absolutely resolve this. Could you please wait just a little longer?
+<strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
+<em>6 tsuki 10 nichi ni ai te imasu ka.</em><br>
+Do you have availability on June 10th?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>honjitsu 6 tsuki 10 nichi no sora shitsu joukyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
+I will check availability for June 10th. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月10日はツインルームとスタンダードルームにお部屋がございます。いかがなさいますか。</code></span><br>
+<em>taihen o-matase itashimashita. 6 tsuki 10 nichi wa tsuin rumu to sutandado rumu ni o-heya ga gozaimasu. ika ga nasaimasu ka.</em><br>
+Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
 </div>
 
-## Facility Problem Script
+## Availability Check: Fully Booked
 
-<div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>エアコンが動きません。</code></span><br>
-<em>eakon ga ugoki mase n.</em><br>
-The air conditioning isn't working.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ご不便をおかけしております。</code></span><br>
-<em>moushiwake gozaimase n. go fuben o okake shite orimasu.</em><br>
-I am very sorry. We apologize for the inconvenience.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>すぐに担当スタッフがお部屋へお伺いいたします。</code></span><br>
-<em>sugu ni tantou sutaffu ga o-heya e o ukagai itashimasu.</em><br>
-Our maintenance staff will come to your room immediately.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ご不便の間、何かご用意できることがあればお申し付けくださいませ。</code></span><br>
-<em>go fuben no ma, nani ka go-youi dekiru koto ga are ba o moushitsuke kudasaimase.</em><br>
-While we are resolving this, please let us know if there is anything we can provide for your comfort.
-</div>
-
-## What Not to Say
+When there are no rooms available, the word あいにく is essential. It softens the refusal without being vague:
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Defensive, Escalates the situation</span>
-<span class="keigo-jp"><code>それはですね…</code></span>
-<br><em>"Well, about that..."</em><br><br>
-<span class="keigo-badge bad">Why it fails</span> Signals defensiveness before hearing the complaint fully. The guest feels they are about to be argued with.
+<span class="keigo-pair-label">Abrupt</span>
+<span class="keigo-jp"><code>満室です。</code></span>
+<br><em>manshitsu desu.</em><br>
+We are fully booked.<br><br>
+<span class="keigo-badge bad">Problem</span> Blunt, cold, and closes the interaction. The guest feels rejected.
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">Calm, De-escalates immediately</span>
-<span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span>
-<br><em>"I sincerely apologize for the inconvenience."</em><br><br>
-<span class="keigo-badge good">Why it works</span> The guest's frustration is acknowledged before any explanation. Emotional pressure releases immediately.
+<span class="keigo-pair-label">Professional</span>
+<span class="keigo-jp"><code>あいにく本日は満室となっております。</code></span>
+<br><em>ainiku honjitsu wa manshitsu to natte orimasu.</em><br>
+Unfortunately, we are fully booked today.<br><br>
+<span class="keigo-badge good">Why it works</span> あいにく (ainiku) expresses genuine regret. The hotel acknowledges the inconvenience without being defensive.
 </div>
 </div>
 
-## Escalation to a Manager
+<div class="keigo-card blue">
+<strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
+I will check. Please wait a moment.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
+<em>taihen o-matase itashimashita. ainiku 6 tsuki 10 nichi wa manshitsu to natte orimasu.</em><br>
+Thank you for waiting. Unfortunately, June 10th is fully booked.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。ご都合はいかがでしょうか。</code></span><br>
+<em>moshi yoroshikere ba, zengo no nittei deshi tara go-annai ga kanou de gozaimasu. go tsugou wa ikaga deshou ka.</em><br>
+If you would like, we can offer alternative dates nearby. Would that work for you?
+</div>
 
-When a complaint requires a manager's involvement:
-
-**誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。**  
-*makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.*  
-I am sorry to trouble you, but I will now connect you to the responsible person. Please wait a moment.
-
-Never escalate abruptly. Always apologize before transferring, and never make the guest feel "passed on."
+**The key rule: never end a call with "no availability." Always extend service options.** Ending with a refusal closes the relationship. Ending with an alternative offer keeps it open.
 
 ---
 
 ## Quiz
 
-**A guest calls to complain that room service has not arrived after 45 minutes. What is the correct first response?**
+**A guest calls and asks if June 10th is available. You check and find it is fully booked. What is the correct response?**
 
-- A. 只今確認しますand immediately check without acknowledging the guest's frustration
-- B. ご不便をおかけし、誠に申し訳ございませんfollowed by acknowledgment and clear action
-- C. Explain that room service is busy during peak hours
-- D. Ask the guest to call back later
+- A. 満室です。ありがとうございました。
+- B. あいにく6月10日は満室となっております。もしよろしければ、前後の日程でしたらご案内が可能でございます。
+- C. 空いておりません。他のホテルをお探しください。
+- D. 少々お待ちくださいませ（and then say nothing more）
 
 **Correct Answer:** B
 
-**Explanation:** The first step is always to apologize and acknowledge the guest's frustration before taking any action. Explaining the reason (peak hours) before apologizing makes the guest feel dismissed. The 4-A framework: Apologize → Acknowledge → Act → Assure. Never skip the emotional validation step even when you know the operational cause.
+**Explanation:** The professional approach is to use あいにく to soften the refusal, then immediately offer an alternative. Ending with "fully booked" alone (option A) closes the relationship. Suggesting other hotels (option C) is never appropriate. Always extend an alternative offer and return the decision to the guest.

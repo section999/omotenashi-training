@@ -1,123 +1,76 @@
 ---
 id: m5-email-06
 section: 6
-title: Building a Complete Hotel Email
+title: Tone Consistency and Email Polish (Part 1)
 ---
 
-A hotel email has three required sections: the opening, the body, and the closing. Each section has a distinct function. Understanding how they work together, not just individually, is what enables writing emails that feel complete, professional, and genuinely hospitable.
+Knowing the right opening and closing phrases is not enough if the email shifts in register partway through, ends abruptly, or uses language that is either too stiff or too casual. This lesson covers the first three tone quality principles that make hotel emails feel consistently professional.
 
-## The Three-Part Structure
+## Rule 1: Maintain One Register Throughout
 
-**Opening**
+The opening, body, and closing must all operate at the same formality level. A sudden shift, even a single word, breaks the guest's sense of trust.
 
-Purpose: establish who you are addressing, recognize the relationship, and set the emotional tone
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Register break</span>
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+<span class="keigo-jp"><code>また来てくださいね！</code></span><br>
+<em>mata kite kudasai ne!</em><br><br>
+<span class="keigo-badge bad">Inconsistent</span> The first sentence is formal hotel language. The second shifts to casual shopkeeper language. The guest feels the hotel is not paying attention.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Consistent register</span>
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span><br>
+<em>mata no okoshi o kokoro yori omachi moushiage te orimasu.</em><br><br>
+<span class="keigo-badge good">Consistent</span> Both sentences maintain the same professional warmth.
+</div>
+</div>
 
-Length: one to two sentences
+## Rule 2: Balance Warmth and Professionalism
 
+Hotel email language is not cold business Japanese and it is not casual friendly Japanese. It sits between the two.
 
-**Body**
-
-Purpose: deliver the specific information, request, or response
-
-Length: as needed, organized clearly, one topic per sentence or paragraph
-
-
-**Closing**
-
-Purpose: leave the guest with a feeling of support, warmth, or welcome
-
-Length: one to two sentences
-
-## The Subject Line
-
-Before the opening, the subject line must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
-
-| Result | Subject Line |
+| Register | Phrase |
 |---|---|
-| Correct | <span>【ご予約確認】山田様 7月15日〜16日 1泊</span> |
-| Correct | <span>【設備点検のお知らせ】7月20日(土) プール一時休止</span> |
-| Wrong | <span>ご確認ください</span> |
+| Too cold | <span>ご確認ください。</span> |
+| Too casual | <span>チェックしてくださいね！</span> |
+| Hotel standard | <span>ご確認いただけますと幸いでございます。</span> |
 
-The first example has the guest name, dates, and purpose visible at a glance. The second identifies the date and affected facility immediately. The wrong example is vague and does not tell the guest what to expect inside.
+The "too cold" form is grammatically polite but emotionally distant. The "too casual" form is friendly but not appropriate for hotel correspondence. The hotel standard is polite, gentle, warm, and professional.
 
-Use 【】 brackets to mark the email type. This is standard in Japanese professional email.
+## Rule 3: Avoid Overly Complex Keigo
 
-## Body Writing Principles
+Excessive keigo sounds unnatural and emotionally distant. Guests feel addressed by a machine rather than by a person.
 
-The body must be organized, specific, and easy to read. Japanese hotel email bodies never include long, unstructured paragraphs.
-
-<div class="keigo-card blue">
-<strong>Use でございます for facts</strong><br>
-<span class="keigo-jp"><code>チェックインは15時からでございます。</code></span><br>
-<em>chekkuin wa 15 ji kara de gozaimasu.</em><br>
-Check-in begins at 15:00.<br><br>
-<strong>Use soft verb forms for requests</strong><br>
-<span class="keigo-jp"><code>パスポートをご持参いただけますと幸いでございます。</code></span><br>
-<em>pasupouto o go jisan itadake masu to saiwai de gozaimasu.</em><br>
-We would appreciate it if you could bring your passport.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Over-keigo</span>
+<span class="keigo-jp"><code>深甚なる謝意を申し上げ奉ります。</code></span><br>
+<em>shinjin naru sha-i o moushiage tatematsuri masu.</em><br><br>
+<span class="keigo-badge bad">Unnatural</span> Ceremonial language from a different era. Most guests find this stiff and uncomfortable.
 </div>
-
-Each paragraph should cover one subject. Do not combine reservation details with parking instructions in the same paragraph.
-
-でございます sounds professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and appropriate for guest-facing requests.
-
-Long compound sentences are harder to read. Break them into shorter units.
-
-## A Complete Email Example
-
-<div class="keigo-card blue">
-<strong>件名 (Subject):</strong><br>
-<span class="keigo-jp"><code>【ご予約確認】山田様 8月10日〜11日 1泊</code></span><br><br>
-<em>【 go-yoyaku kakunin 】 yamada sama 8 tsuki 10 nichi 〜 11 nichi 1 haku</em><br>
-<strong>Opening:</strong><br>
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br><br>
-<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-<strong>Body:</strong><br>
-<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
-<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
-<span class="keigo-jp"><code>チェックイン：8月10日（土）15:00〜</code></span><br>
-<em>chekkuin : 8 tsuki 10 nichi ( do ) 15 : 00 〜</em><br>
-<span class="keigo-jp"><code>チェックアウト：8月11日（日）11:00</code></span><br>
-<em>chekku auto : 8 tsuki 11 nichi ( hi ) 11 : 00</em><br>
-<span class="keigo-jp"><code>ご宿泊人数：2名様</code></span><br><br>
-<em>go shukuhaku ninzu : 2 mei sama</em><br>
-<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span><br><br>
-<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni o toiawase kudasaimase.</em><br>
-<strong>Closing:</strong><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-All of our staff sincerely look forward to your arrival.
+<div class="good-col">
+<span class="keigo-pair-label">Natural hotel language</span>
+<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
+<em>makotoni arigatou gozaimasu.</em><br><br>
+<span class="keigo-badge good">Natural</span> Simple, warm, and appropriate. Professional keigo is never about complexity.
 </div>
-
-## The Tone Check
-
-Before sending, verify the email meets the standard at each level.
-
-Subject line is specific and clearly labeled with 【】
-
-Opening matches the guest's relationship type (first-time / repeat / VIP)
-
-Opening matches the email type (reservation / notice / apology / post-stay)
-
-Body is organized with one topic per paragraph
-
-Closing creates the right emotional impression for the email type
-
-Register is consistent from opening to closing
-
-No casual language, excessive keigo, or abrupt endings
+</div>
 
 ---
 
 ## Quiz
 
-**Which subject line is most appropriate for a hotel email confirming a reservation?**
+**A hotel email uses 「深甚なる謝意を申し上げ奉ります」 instead of 「誠にありがとうございます」. What is the problem?**
 
-- A. ご確認ください
-- B. メールをお送りします
-- C. 【ご予約確認】田中様 9月5日〜6日 1泊
-- D. ありがとうございます
+- A. The phrase is grammatically incorrect
+- B. The phrase is too short and lacks detail
+- C. The phrase is excessively ceremonial; it sounds unnatural and makes guests feel addressed by a machine rather than by a person
+- D. The phrase is appropriate only in apology emails, not general correspondence
 
 **Correct Answer:** C
 
-**Explanation:** An effective subject line tells the guest immediately what the email contains and who it is for. 【ご予約確認】 uses the standard bracket label, the guest's name personalizes it, and the dates and duration provide essential specifics at a glance. Option A (ご確認ください) is vague and does not tell the guest what to confirm. Option B (メールをお送りします) simply states a fact with no useful information. Option D (ありがとうございます) could describe almost any email and does not indicate content.
+**Explanation:** Over-keigo uses archaic or ceremonial constructions that were appropriate in formal written Japanese of a previous era but feel stiff and cold in modern hotel correspondence. The guest does not feel welcomed; they feel processed. Professional hotel keigo prioritizes natural warmth over linguistic complexity. 誠にありがとうございます achieves the same respectful gratitude in a way that sounds human and genuine.

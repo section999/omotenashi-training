@@ -1,105 +1,80 @@
 ---
 id: m5-email-15
 section: 15
-title: Email Writing Checklist
+title: Cancellation Handling Template
 ---
 
-Professional hotel email writing requires consistency across every email sent, regardless of who writes it or when. This lesson provides a complete checklist to review before sending any hotel email, plus a final expression reference for the most commonly needed phrases.
+Cancellation emails serve a dual purpose: they confirm the cancellation administratively and preserve the guest relationship for future visits. Even when a guest cancels, how the hotel responds can be the difference between a guest who never returns and one who books again.
 
-## The Pre-Send Checklist
+## What This Email Must Accomplish
 
-Use this checklist before sending every hotel email. Each item represents a category of error covered in this module.
+**1. Confirm:** State clearly that the cancellation has been processed.
 
-The subject line uses 【】 brackets to label the email type
+**2. Acknowledge fee if applicable:** Communicate cancellation fees, if any, in a professional and non-confrontational way.
 
-The guest's name and relevant dates or topic are visible at a glance
+**3. Preserve relationship:** End with warmth that keeps the door open for a future booking.
 
-The subject line is specific enough for the guest to understand the email without opening it
-
-The opening matches the guest's relationship type: この度は (first-time), いつもお世話になっております (repeat), or 格別のご愛顧 (VIP/long-term)
-
-The opening matches the email type: gratitude for reservation, gratitude for contact, or apology (never gratitude before an apology)
-
-Tense is correct: ありがとうございます (pre-stay) or ありがとうございました (post-stay)
-
-Each paragraph covers one topic
-
-Facts are stated using でございます
-
-Requests are written in soft form: ○○いただけますと幸いでございます
-
-No vague answers (たぶん, ○○かもしれない) for questions that require clear answers
-
-No excuses in apology emails
-
-No overly complex keigo that sounds unnatural
-
-A closing phrase is present (the email does not end abruptly)
-
-The closing matches the email type: お待ちしております (pre-arrival), またお会いできる日を (post-stay), 今後ともよろしくお願い申し上げます (repeat guest), ご連絡くださいませ (apology or support)
-
-くださいませ is used instead of ください
-
-The register is the same from opening to closing
-
-No casual words or phrases appear mid-email (ね, よ, など informal forms)
-
-The overall tone fits the email purpose: warm and welcoming (reservation), supportive (apology), clear and organized (notice)
-
-## Expression Quick Reference
+## Template 1: Simple Cancellation (No Fee)
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span>: First-time reservation<br>
-<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu</em><br>
-<span class="keigo-jp"><code>いつもお世話になっております</code></span>: Repeat guest<br>
-<em>itsumo osewa ni natte orimasu</em><br>
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span>: General notice<br>
-<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu</em><br>
-<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: Apology<br>
-<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n</em><br>
-<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span>: Post-stay<br>
-<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita</em>
+<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
+Thank you for contacting us.<br><br>
+<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
+<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) o uketamawarimashita torikeshi ga kanryou itashimashita koto o go-kakunin moushiage masu.</em><br>
+We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
+<span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
+<em>kyanseru ryou wa hassei shite ori mase n.</em><br>
+No cancellation fee has been charged.<br><br>
+<span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
+<em>mata no kikai ni, zehi tou hoteru o go-riyou itadake masu to saiwai de gozaimasu. go raihou o omachi shite orimasu.</em><br>
+We hope to have the opportunity to welcome you again. We look forward to your future visit.
 </div>
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>○○は以下のとおりでございます</code></span>: Details are as follows<br>
-<em>○○ wa ika no touri de gozaimasu</em><br>
-<span class="keigo-jp"><code>○○でございます</code></span>: [Fact] is / This is [fact]<br>
-<em>○○ de gozaimasu</em><br>
-<span class="keigo-jp"><code>○○いただけますと幸いでございます</code></span>: We would appreciate if you could ○○<br>
-<em>○○ itadake masu to saiwai de gozaimasu</em><br>
-<span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
-<em>go-kakunin itadake masu to saiwai de gozaimasu</em><br>
-<span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding<br>
-<em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em>
-</div>
+## Template 2: Cancellation with Fee
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival close<br>
-<em>go touchaku o kokoro yori omachi moushiage te orimasu</em><br>
-<span class="keigo-jp"><code>スタッフ一同ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival (collective)<br>
-<em>sutaffu ichidou go touchaku o kokoro yori omachi moushiage te orimasu</em><br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: Post-stay close<br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
-<span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span>: Repeat guest / relationship<br>
-<em>kongo to mo yoroshiku onegai moushiage masu</em><br>
-<span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Universal support close<br>
-<em>o kigaru ni go-renraku kudasaimase</em><br>
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close<br>
-<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase</em>
+<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
+Thank you for contacting us.<br><br>
+<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
+<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) no kyanseru o uketamawarimashita.</em><br>
+We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).<br><br>
+<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
+<em>makotoni osoreirimasu ga, go-yoyaku jouken ni motozuki, kyanseru ryou ga hassei itashimasu.</em><br>
+We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
+<span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
+<em>kyanseru ryou :[ Amount ] en ([ Date ] chekkuin 1 haku bun )</em><br>
+Cancellation fee: [Amount] yen (equivalent to 1 night of [Date] check-in)<br><br>
+<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
+If you have any questions, please feel free to contact us.<br><br>
+<span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
+<em>mata no kikai ni zehi go-riyou itadake masu to saiwai de gozaimasu.</em><br>
+We hope to have the opportunity to welcome you again.
 </div>
+
+## Key Phrase: 誠に恐れ入りますが
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
+<em>makotoni osoreirimasu ga</em><br>
+I am truly sorry to say, but...
+</div>
+
+This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.
 
 ---
 
 ## Quiz
 
-**A staff member finishes a reservation confirmation email and sends it without reviewing it. The email starts with 「いつもお世話になっております」 for a first-time guest, uses ありがとうございました, and closes with 「また来てくださいね」. How many checklist errors does this email contain?**
+**A guest cancels a reservation that incurs a fee. How should the cancellation email communicate the fee?**
 
-- A. One
-- B. Two
-- C. Three
-- D. Four
+- A. キャンセル料を払ってください
+- B. 誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします
+- C. キャンセル料はありません(when there is a fee)
+- D. Say nothing about the fee and send a bill separately
 
-**Correct Answer:** C
+**Correct Answer:** B
 
-**Explanation:** Three errors are present. First, いつもお世話になっております is the repeat-guest opening; this guest is new, so この度は should be used. Second, ありがとうございました is past tense, but a reservation confirmation is a pre-arrival email where the stay has not yet occurred; ありがtoうございます is correct here. Third, また来てくださいね is a casual closing unsuitable for hotel correspondence; またのお越しをお待ちしております or ご到着を心よりお待ち申し上げております are correct. Using a checklist before sending would have caught all three.
+**Explanation:** 誠に恐れ入りますが acknowledges the inconvenience of the fee while maintaining a professional tone. ご予約条件に基づき (based on the reservation terms) frames the fee as a policy rather than a personal decision, which reduces the guest's sense of grievance. Option A (キャンセル料を払ってください) is too direct and sounds demanding. Option C is dishonest. Option D leaves the guest uninformed and creates distrust when the unexpected bill arrives.

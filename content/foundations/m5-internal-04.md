@@ -1,104 +1,71 @@
 ---
 id: m5-internal-04
 section: 4
-title: 相談: Consulting and Requesting Help
+title: "報告 in Practice: Templates and Timing"
 ---
 
-相談 (soudan) is the act of bringing an uncertain situation to a supervisor or experienced colleague and asking for guidance. It is the most complex of the three ホウレンソウ types because it requires a staff member to present a problem they have not yet solved, and to do so in a way that is structured, respectful, and actionable.
+Knowing the conclusion-first principle is not enough on its own. You also need ready-made language for the three most common reporting situations: task completion, problem discovery, and guest situations requiring supervisor awareness. This lesson provides those templates and covers the timing rules for when to report.
 
-The most common mistake in 相談 is either avoiding it (trying to solve everything independently) or doing it poorly (presenting a vague problem without framing). Both slow down service and increase the risk of errors.
-
-## When to Consult
-
-- **Policy uncertainty:** A guest has made a request that may or may not fall within hotel policy
-- **Escalation decision:** You are unsure whether a guest situation requires a manager's involvement
-- **Conflicting priorities:** You have two urgent tasks and need to know which to address first
-- **Unusual request:** A guest has asked for something you have not encountered before
-- **Personal skill boundary:** You have reached the limit of your own ability to resolve a situation
-- **Do not consult for:** Situations clearly within your responsibility and training. Use your judgment first. Only escalate when genuinely uncertain.
-
-## The 相談 Structure
-
-A well-formed 相談 has three parts:
-
-- **1. The situation:** What is the current state? (factual, brief)
-- **2. What you have tried or considered:** This shows you have already thought about it
-- **3. The specific question:** What exactly do you need guidance on?
-
-A 相談 without Part 2 sounds like you are handing the problem over. A 相談 without Part 3 leaves the supervisor guessing what you need from them.
-
-## Consulting a Supervisor
+## Report Type 1: Task Completion
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>少しご相談してもよろしいでしょうか。</code></span><br>
-<em>sukoshi go-soudan shite mo yoroshii deshou ka.</em><br>
-May I consult with you for a moment?<br><br>
-<span class="keigo-jp"><code>〇〇様よりご要望がございまして、私の判断では対応が難しく、ご意見をいただけますでしょうか。</code></span><br>
-<em>〇 〇 you yori go-youbou ga gozai mashite, watashi no handan de wa taiou ga muzukashiku, go-iken o itadake masu deshou ka.</em><br>
-We have received a request from Mr./Ms. [Name] that I am not sure how to handle. Could I get your guidance?<br><br>
-<span class="keigo-jp"><code>〇〇については〇〇と対応しようと考えておりますが、いかがでしょうか。</code></span><br>
-<em>〇 〇 nitsuite wa 〇 〇 to taiou shiyou to kangae te orimasu ga, ikaga deshou ka.</em><br>
-Regarding [matter], I was thinking of [approach]. Does that seem right to you?
+<span class="keigo-jp"><code>〇〇の件、完了いたしました。</code></span><br>
+<em>〇 〇 no ken, kanryou itashimashita.</em><br>
+The matter of [task] has been completed.<br><br>
+<span class="keigo-jp"><code>○○のご対応が完了いたしましたのでご報告いたします。</code></span><br>
+<em>○ ○ no go-taiou ga kanryou itashimashita node go-houkoku itashimasu.</em><br>
+I am reporting that we have completed [matter].<br><br>
+<span class="keigo-jp"><code>問題なく対応できました。</code></span><br>
+<em>mondai naku taiou dekimashita.</em><br>
+It was handled without any issues.
 </div>
 
-## Consulting a Senior Colleague (先輩)
+## Report Type 2: Problem Discovery
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>経験をお借りしてよろしいでしょうか。</code></span><br>
-<em>keiken o o kari shite yoroshii deshou ka.</em><br>
-May I benefit from your experience for a moment?<br><br>
-<span class="keigo-jp"><code>お時間よろしければ、〇〇についてお聞きしてもよろしいですか。</code></span><br>
-<em>o-jikan yoroshikere ba, 〇 〇 nitsuite o-kiki shite mo yoroshii desu ka.</em><br>
-If you have a moment, may I ask you about [matter]?<br><br>
-<span class="keigo-jp"><code>〇〇の場合はどのように対応されていますか。</code></span><br>
-<em>〇 〇 no baai wa dono you ni taiou sa re te imasu ka.</em><br>
-How do you usually handle [situation]?
+<span class="keigo-jp"><code>〇〇にて問題が発生いたしました。ご報告いたします。</code></span><br>
+<em>〇 〇 nite mondai ga hassei itashimashita. go-houkoku itashimasu.</em><br>
+A problem has occurred with [matter]. I am reporting this now.<br><br>
+<span class="keigo-jp"><code>〇〇号室のエアコンが作動しておりません。お客様よりご連絡いただきました。</code></span><br>
+<em>〇 〇 gou shitsu no eakon ga sadou shite ori mase n. okyakusama yori go-renraku itadakimashita.</em><br>
+The air conditioning in Room [X] is not functioning. We received a report from the guest.<br><br>
+<span class="keigo-jp"><code>ただいまのところ〇〇の状況です。いかがいたしましょうか。</code></span><br>
+<em>tada ima no tokoro 〇 〇 no joukyou desu. ika ga itashi masho u ka.</em><br>
+The current situation is [X]. How would you like me to proceed?
 </div>
 
-## What Not to Do
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Vague dump (avoid)</span>
-<span class="keigo-jp"><code>603号室のお客様が何か言ってて、どうしたらいいですか。</code></span><br>
-The guest in Room 603 is saying something. What should I do?<br><br>
-<span class="keigo-badge bad">Problems</span> No facts, no context, no indication of what was tried. Forces the supervisor to ask basic questions before they can help.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Structured consultation (correct)</span>
-<span class="keigo-jp"><code>603号室の田中様がレイトチェックアウトをご希望でいらっしゃいます。13時を希望されておりますが、当日は満室のため通常は難しい状況です。ご判断いただけますでしょうか。</code></span><br>
-Mr. Tanaka in Room 603 is requesting a late checkout until 1:00 PM. As the hotel is fully booked today, this is normally difficult to accommodate. Could you advise on how to proceed?<br><br>
-<span class="keigo-badge good">Complete</span> Situation + constraint + specific decision needed.
-</div>
-</div>
-
-## Receiving the Answer
-
-After a supervisor or senpai provides guidance, acknowledge it clearly:
+## Report Type 3: Guest Situation Requiring Supervisor Awareness
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>かしこまりました。そのように対応いたします。</code></span><br>
-<em>kashikomarimashita. sono you ni taiou itashimasu.</em><br>
-Understood. I will proceed accordingly.<br><br>
-<span class="keigo-jp"><code>ありがとうございます。参考にいたします。</code></span><br>
-<em>arigatou gozaimasu. sankou ni itashimasu.</em><br>
-Thank you. I will keep that in mind.<br><br>
-<span class="keigo-jp"><code>結果についてはまたご報告いたします。</code></span><br>
-<em>kekka nitsuite wa mata go-houkoku itashimasu.</em><br>
-I will report back on the outcome.
+<span class="keigo-jp"><code>〇〇様よりご要望がございました。ご確認いただけますでしょうか。</code></span><br>
+<em>〇 〇 you yori go-youbou ga gozaimashita. go-kakunin itadake masu deshou ka.</em><br>
+We have received a request from Mr./Ms. [Name]. Could you please take a look?<br><br>
+<span class="keigo-jp"><code>〇〇様がご不満のようで、私では対応が難しい状況です。ご対応いただけますでしょうか。</code></span><br>
+<em>〇 〇 you ga go fuman no you de, watashi de wa taiou ga muzukashii joukyou desu. go-taiou itadake masu deshou ka.</em><br>
+Mr./Ms. [Name] appears to be dissatisfied, and the situation is beyond what I can handle alone. Could you step in?<br><br>
+<span class="keigo-jp"><code>詳細はこちらです。</code></span><br>
+<em>shousai wa kochira desu.</em><br>
+Here are the details.
 </div>
+
+## Timing of Reports
+
+- **Immediately:** Any safety issue, guest complaint, maintenance failure, or situation the supervisor would want to know about now
+- **At natural break point:** Task completions, minor updates that do not affect current operations
+- **At shift end:** Summary of the shift for the handover record. This is 申し送り (covered in the Handover module)
+- **Never:** Withholding a problem because you are still trying to solve it. Report first, update as the situation develops.
 
 ---
 
 ## Quiz
 
-**Which 相談 opening best demonstrates the three-part consultation structure?**
+**A staff member wants to report to their supervisor that a guest in Room 805 has complained about noise. Which opening is correct?**
 
-- A. どうしたらいいですか
-- B. 田中様がレイトチェックアウトを希望されています。通常料金でご対応してよろしいでしょうか、それとも特別対応が必要でしょうか。ご判断いただけますでしょうか
-- C. マネージャーさん、ちょっといいですか
-- D. 問題が起きました
+- A. 805号室のお客様が、なんか、うるさいって言ってました
+- B. 805号室のお客様より騒音のご苦情がございました。ご報告いたします
+- C. うるさい部屋があるみたいです
+- D. 大変でした。805号室のお客様がすごく怒っていて...
 
 **Correct Answer:** B
 
-**Explanation:** Option B contains all three elements of a well-formed 相談: the situation (Mr. Tanaka requesting late checkout), what has been considered (two possible approaches are presented), and a specific question (which approach to take). The supervisor can answer directly without needing to ask clarifying questions. Options A and D present problems without structure or context. Option C is an informal opener that does not itself constitute a consultation, and using casual forms like さん when addressing a supervisor is not appropriate professional register.
+**Explanation:** Option B follows the conclusion-first structure: the key fact (noise complaint from Room 805) is stated first, followed by the reporting phrase. It uses formal language appropriate for upward reporting (ご苦情がございました, ご報告いたします). Options A and C are too casual and lack the specificity a supervisor needs to act. Option D begins with an emotional reaction rather than a fact, which delays the information and frames the report around the staff member's experience rather than the guest's situation.

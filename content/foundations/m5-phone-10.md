@@ -1,102 +1,70 @@
 ---
 id: m5-phone-10
 section: 10
-title: Emergencies, Common Mistakes, and Professional Standards
+title: Schedule Requests: Wake-up Calls and Taxis
 ---
 
-This lesson covers the three remaining pillars of hotel telephone mastery: handling emergency calls with controlled authority, avoiding the most common professional mistakes, and developing the mindset that separates excellent telephone service from merely adequate communication.
+Wake-up calls and taxi arrangements share a critical characteristic: they are **time-critical**. An error in the time, even by one hour, directly affects the guest's schedule and can cause serious operational failures. For this reason, all schedule-based requests follow the same rule: **every time must be repeated clearly and logged immediately**.
 
-## Emergency Call Protocol
+## Wake-up Call Requests
 
-Emergency calls, power failure, medical concern, fire alarm, injury, require a response that is the opposite of natural instinct. The human instinct in an emergency is to react with urgency, ask many questions, and show concern vocally. In hotel telephone service, this is exactly what must be avoided.
-
-**Staff must act as a stabilizing force.** If the staff member sounds panicked or confused, the guest's anxiety immediately increases. The call must project calm and controlled authority from the first word.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Panic Response</span>
-<span class="keigo-jp"><code>えっ、どうしましょう！すぐ誰かを呼びますね！</code></span>
-<br><em>e', dou shimashou! sugu dareka o yobi masu ne!</em><br><br>
-<span class="keigo-badge bad">Destroys trust</span> Sounds unprepared. The guest feels the hotel cannot handle the situation.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Controlled Response</span>
-<span class="keigo-jp"><code>申し訳ございません。ただいますぐ対応いたします。</code></span>
-<br><em>moushiwake gozaimase n. tada ima sugu taiou itashimasu.</em><br><br>
-<span class="keigo-badge good">Builds trust</span> Calm and decisive. The guest feels the hotel is in control.
-</div>
-</div>
+A wake-up call that is logged incorrectly, or not logged at all, can cause a guest to miss a flight, meeting, or departure. This is one of the highest-consequence errors in hotel operations.
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>部屋の電気が全部消えました。</code></span><br>
-<em>heya no denki ga zembu kie mashita.</em><br>
-All the lights in my room went out.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ただいまスタッフがお部屋へお伺いいたします。少々お待ちくださいませ。</code></span><br>
-<em>moushiwake gozaimase n. tadaima sutaffu ga o-heya e o ukagai itashimasu. shoushou omachi kudasaimase.</em><br>
-I sincerely apologize. A staff member will come to your room immediately. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>お部屋番号をご確認させていただけますでしょうか。</code></span><br>
-<em>o-heya bangou o go-kakunin sa se te itadake masu deshou ka.</em><br>
-May I confirm your room number?
+<strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールをお願いします。</code></span><br>
+<em>mouningu kouru o onegai shimasu.</em><br>
+I'd like a wake-up call, please.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan o o ukagai shite mo yoroshii deshou ka.</em><br>
+Certainly. May I ask for the time you would like?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>明日の朝6時です。</code></span><br>
+<em>ashita no asa 6 ji desu.</em><br>
+Tomorrow morning at 6:00.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>明日の朝6時のモーニングコールで承りました。お部屋番号をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>ashita no asa 6 ji no mouningu kouru de uketamawarimashita. o-heya bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
+A wake-up call for tomorrow at 6:00 AM, noted. May I confirm your room number?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>702号室です。</code></span><br>
+<em>702 goushitsu desu.</em><br>
+Room 702.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>702号室、明日の朝6時にご連絡いたします。どうぞよろしくお願いいたします。</code></span><br>
+<em>702 goushitsu, ashita no asa 6 ji ni go-renraku itashimasu. douzo yoroshiku onegai itashimasu.</em><br>
+Room 702, we will call you tomorrow morning at 6:00. Thank you.
 </div>
+
+## Taxi Arrangements
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>具合が悪いです。助けてください。</code></span><br>
-<em>guai ga warui desu. tasuke te kudasai.</em><br>
-I feel unwell. Please help.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。すぐに対応いたします。お部屋番号をお教えいただけますでしょうか。</code></span><br>
-<em>kashikomarimashita. sugu ni taiou itashimasu. o-heya bangou o o oshie itadake masu deshou ka.</em><br>
-Understood. We will respond immediately. Could you tell me your room number?<br><br>
-<em>[After getting room number]</em><br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ただいまスタッフが向かいます。お電話を切らずにいらっしゃいますか。</code></span><br>
-<em>tadaima sutaffu ga mukaimasu. o-denwa o kira zu ni irasshaimasu ka.</em><br>
-Staff are on their way now. Are you able to stay on the line?
+<strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
+<em>takushi o tehai shite morae masu ka.</em><br>
+Can you arrange a taxi for me?<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu deshou ka.</em><br>
+Certainly. Do you have a preferred time?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>午後3時にお願いします。</code></span><br>
+<em>gogo 3 ji ni onegai shimasu.</em><br>
+3:00 PM, please.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>午後3時でございますね。お向かい先はございますでしょうか。</code></span><br>
+<em>gogo 3 ji de gozaimasu ne. o mukai saki wa gozaimasu deshou ka.</em><br>
+3:00 PM. May I ask for the destination?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>東京駅までです。</code></span><br>
+<em>toukyou eki made desu.</em><br>
+Tokyo Station.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。午後3時に東京駅行きのタクシーを手配いたします。準備ができましたらお知らせいたします。</code></span><br>
+<em>kashikomarimashita. gogo 3 ji ni toukyou eki iki no takushi o tehai itashimasu. jumbi ga deki mashitara oshirase itashimasu.</em><br>
+Certainly. I will arrange a taxi to Tokyo Station for 3:00 PM. We will notify you when it is ready.
 </div>
-
-## Common Telephone Mistakes and Their Consequences
-
-These are the five most frequent mistakes in hotel telephone communication, along with the specific problem each creates:
-
-| Mistake | Example | Operational Consequence |
-|---|---|---|
-| Casual language | <span>分かりました、OKです</span> | Reduces guest perception of hotel quality |
-| Missing confirmation | Processing without repeating details | Booking errors, wrong dates, wrong names |
-| Unexplained silence | Going silent during system checks | Guest anxiety, calls feel disconnected |
-| Emotional reaction | Sighing, surprised responses | Escalates complaints, loses trust |
-| Skipping the closing | Ending abruptly | Interaction feels incomplete; negative final impression |
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
-<em>kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
-I will confirm that, so please wait a moment.
-</div>
-
-When a staff member is checking the system, they can see what is happening. The guest cannot. To the guest, silence means one of two things: the call has failed, or the staff member is confused. Neither is acceptable. Always narrate the action before going quiet. Even 10 seconds of silence after this phrase feels acceptable. 10 seconds of silence without it feels like abandonment.
-
-## The Professional Telephone Mindset
-
-"In a telephone call, my voice is the hotel."
-
-
-There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration, it is the operational reality.
-
-- **Clarity:** over speed. Speak clearly enough for the guest to follow without strain.
-- **Structure:** over natural speech. Follow the 7-step framework; do not improvise.
-- **Calm:** over enthusiasm. The goal is reassurance, not energy.
-- **Consistency:** over variation. Every call should sound the same. Guests trust predictability.
-
-The goal of hotel telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable**, the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
 
 ---
 
 ## Quiz
 
-**A guest calls to report a power outage in their room. The staff member's first response is "えっ、どうしましょう！", what is the problem with this response?**
+**A guest says their wake-up call should be at 7:00 AM. The staff confirms "7時のモーニングコールで承りました." Why is this repetition essential?**
 
-- A. It is grammatically incorrect
-- B. It shows genuine concern, which guests appreciate
-- C. It projects panic, which destroys the guest's trust and increases their anxiety
-- D. It is too short; more information should be requested first
+- A. It is a formality with no practical purpose
+- B. It gives the guest a chance to correct the time if it was misheard, preventing schedule-critical errors
+- C. It makes the call sound more professional
+- D. It allows time to check the room number
 
-**Correct Answer:** C
+**Correct Answer:** B
 
-**Explanation:** In emergencies, staff must act as a stabilizing force. If the staff member sounds panicked or confused, the guest's anxiety immediately increases. The guest needs to feel the hotel is competent and in control. A calm response (申し訳ございません。ただいまスタッフがお部屋へお伺いいたします) is far more reassuring than any show of emotional concern.
+**Explanation:** Repeating the time immediately after the guest states it gives them a clear moment to correct any misunderstanding. A wake-up call at the wrong time can cause the guest to miss a flight or meeting; consequences that cannot be undone. Time repetition in schedule-based requests is not a formality; it is the final safety check before logging.

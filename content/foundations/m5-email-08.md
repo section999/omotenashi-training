@@ -1,96 +1,79 @@
 ---
 id: m5-email-08
 section: 8
-title: Pre-Arrival Guidance Template
+title: Building a Complete Hotel Email (Part 1)
 ---
 
-A pre-arrival email is sent several days before the guest's check-in date. Its purpose is to reduce anxiety and prepare the guest by providing essential practical information: arrival time, transportation, parking, and what to bring. The tone should be informative, supportive, and organized. Clarity is the priority.
+A hotel email has three required sections: the opening, the body, and the closing. Each section has a distinct function. This lesson covers the structural foundation: how the three parts work, how to write an effective subject line, and the principles for the body.
 
-## What This Email Must Accomplish
+## The Three-Part Structure
 
-**1. Organize:** Present practical information clearly and in logical order so the guest does not have to search or ask.
+**Opening**
 
-**2. Reassure:** The guest should feel everything is arranged and under control.
+Purpose: establish who you are addressing, recognize the relationship, and set the emotional tone
 
-**3. Welcome:** Even a practical email must carry warmth. Close with genuine anticipation.
+Length: one to two sentences
 
-## Full Template
+
+**Body**
+
+Purpose: deliver the specific information, request, or response
+
+Length: as needed, organized clearly, one topic per sentence or paragraph
+
+
+**Closing**
+
+Purpose: leave the guest with a feeling of support, warmth, or welcome
+
+Length: one to two sentences
+
+## The Subject Line
+
+Before the opening, the subject line must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
+
+| Result | Subject Line |
+|---|---|
+| Correct | <span>【ご予約確認】山田様 7月15日〜16日 1泊</span> |
+| Correct | <span>【設備点検のお知らせ】7月20日(土) プール一時休止</span> |
+| Wrong | <span>ご確認ください</span> |
+
+The first example has the guest name, dates, and purpose visible at a glance. The second identifies the date and affected facility immediately. The wrong example is vague and does not tell the guest what to expect inside.
+
+Use 【】 brackets to mark the email type. This is standard in Japanese professional email.
+
+## Body Writing Principles
+
+The body must be organized, specific, and easy to read. Japanese hotel email bodies never include long, unstructured paragraphs.
 
 <div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for reserving our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。</code></span><br>
-<em>go touchaku mae no go-annai o ookuri itashimasu.</em><br>
-We are sending you the following information before your arrival.<br><br>
-<span class="keigo-jp"><code>チェックイン開始時間は15:00からでございます。</code></span><br>
-<em>chekkuin kaishi jikan wa 15 : 00 kara de gozaimasu.</em><br>
+<strong>Use でございます for facts</strong><br>
+<span class="keigo-jp"><code>チェックインは15時からでございます。</code></span><br>
+<em>chekkuin wa 15 ji kara de gozaimasu.</em><br>
 Check-in begins at 15:00.<br><br>
-<span class="keigo-jp"><code>チェックアウトは11:00でございます。</code></span><br>
-<em>chekku auto wa 11 : 00 de gozaimasu.</em><br>
-Checkout is at 11:00.<br><br>
-<span class="keigo-jp"><code>駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。</code></span><br>
-<em>chusha jou o go-riyou no okyakusama wa, hoteru shoumen iriguchi made okoshi kudasaimase.</em><br>
-Guests using the parking lot, please proceed to the hotel front entrance.<br><br>
-<span class="keigo-jp"><code>チェックイン時にパスポートまたは身分証明書をご提示いただけますと幸いでございます。</code></span><br>
-<em>chekkuin ji ni pasupouto matawa mibun shoumei sho o go teiji itadake masu to saiwai de gozaimasu.</em><br>
-We would appreciate it if you could present your passport or ID at check-in.<br><br>
-<span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei na ten ya go-youbou nado gozai mashitara, touchaku mae ni mo o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions or requests before your arrival, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-All of our staff sincerely look forward to your arrival.
+<strong>Use soft verb forms for requests</strong><br>
+<span class="keigo-jp"><code>パスポートをご持参いただけますと幸いでございます。</code></span><br>
+<em>pasupouto o go jisan itadake masu to saiwai de gozaimasu.</em><br>
+We would appreciate it if you could bring your passport.
 </div>
 
-## Writing Principles for This Email
+Each paragraph should cover one subject. Do not combine reservation details with parking instructions in the same paragraph.
 
-**One piece of information per sentence**
+でございます sounds professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and appropriate for guest-facing requests.
 
-Do not write: "Check-in is at 15:00 and check-out is at 11:00 and the parking lot is at the front." Separate each fact into its own sentence.
-
-
-**Use でございます for all stated facts**
-
-Every operational fact (check-in time, checkout time, location) should use でございます as the sentence ending.
-
-
-**Use soft forms for requests**
-
-When asking the guest to bring something or do something, use ○○いただけますと幸いでございます rather than a direct command.
-
-
-**Do not overwhelm**
-
-A pre-arrival email should cover only the most important practical information. Every detail will be communicated again at check-in. Long emails reduce readability.
-
-## Optional Additions
-
-<div class="keigo-card blue">
-<strong>Transportation:</strong><br>
-<span class="keigo-jp"><code>最寄り駅は〇〇駅でございます。徒歩5分ほどでございます。</code></span><br>
-<em>moyorieki wa 〇 〇 eki de gozaimasu. toho 5 fun hodo de gozaimasu.</em><br>
-The nearest station is [Station]. It is approximately a 5-minute walk.<br><br>
-<strong>Amenity note:</strong><br>
-<span class="keigo-jp"><code>プールは10:00〜21:00にご利用いただけます。</code></span><br>
-<em>puru wa 10 : 00 〜 21 : 00 ni go-riyou itadake masu.</em><br>
-The pool is available from 10:00 to 21:00.
-</div>
-
-Add only information that reduces the guest's planning effort. Omit anything the guest does not need to know before arriving.
+Long compound sentences are harder to read. Break them into shorter units.
 
 ---
 
 ## Quiz
 
-**A pre-arrival email includes five paragraphs with check-in time, checkout time, parking, shuttle schedule, restaurant hours, and pool hours all mixed together. What is wrong?**
+**Which of the following subject lines best meets the standard for Japanese hotel email?**
 
-- A. The email is too short
-- B. Pre-arrival emails should only mention checkout time
-- C. Too much information combined without structure makes the email hard to read and may overwhelm the guest
-- D. The email should not include check-in time
+- A. ご確認ください
+- B. メールです
+- C. 【ご予約確認】田中様 9月5日〜6日 1泊
+- D. ありがとうございます
 
 **Correct Answer:** C
 
-**Explanation:** The purpose of a pre-arrival email is to reduce anxiety, not create it. Combining many pieces of information without clear organization makes the email hard to read and difficult to reference later. Keep paragraphs focused on one topic at a time, and limit the email to the information that is most essential before arrival. Details about restaurant hours or pool schedules can be shared at check-in or in a separate welcome packet.
+**Explanation:** An effective subject line uses 【】 brackets to label the email type, includes the guest's name for personalization, and shows dates and duration so the guest knows exactly what the email is about before opening it. Option A (ご確認ください) is vague and gives no useful information. Option B (メールです) simply states a fact. Option D (ありがとうございます) could describe almost any hotel email and provides no specific content. Only Option C meets all three requirements: labeled type, guest name, and specific details.

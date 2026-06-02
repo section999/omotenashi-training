@@ -1,89 +1,68 @@
 ---
 id: m5-email-09
 section: 9
-title: Post-Stay Thank-You Template
+title: Building a Complete Hotel Email (Part 2)
 ---
 
-A post-stay thank-you email is sent within 24 to 48 hours of checkout. It strengthens the guest relationship, expresses genuine appreciation, and opens the door for a return visit. The tone must be warm, appreciative, and sincere, never promotional or transactional.
+This lesson applies the structure from Part 1 to a complete email example, then provides a final tone check to use before sending any hotel email.
 
-## What This Email Must Accomplish
-
-**1. Thank:** Express genuine gratitude for the guest's stay.
-
-**2. Care:** Show interest in how the stay went, without assuming it was perfect.
-
-**3. Invite:** Gently encourage a future visit without being promotional.
-
-
-The one thing this email must not do: make the guest feel like they are receiving a sales message.
-
-## Full Template
+## A Complete Email Example
 
 <div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
-<em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
-Thank you very much for staying at our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
-<em>go-taizai wa ikaga deshita deshou ka.</em><br>
-How was your stay?<br><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code></span><br>
-<em>kaiteki ni osugoshi itadake mashitara, sutaffu ichidou taihen ureshiku zonjimasu.</em><br>
-If you had a comfortable stay, all of our staff would be very pleased to hear it.<br><br>
-<span class="keigo-jp"><code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code></span><br>
-<em>moshi go fuman ya okizuki no ten nado gozai mashitara, zehi o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
-If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.<br><br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to the day we can welcome you again.
+<strong>件名 (Subject):</strong><br>
+<span class="keigo-jp"><code>【ご予約確認】山田様 8月10日〜11日 1泊</code></span><br><br>
+<em>【 go-yoyaku kakunin 】 yamada sama 8 tsuki 10 nichi 〜 11 nichi 1 haku</em><br>
+<strong>Opening:</strong><br>
+<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
+<strong>Body:</strong><br>
+<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
+<span class="keigo-jp"><code>チェックイン：8月10日（土）15:00〜</code></span><br>
+<em>chekkuin : 8 tsuki 10 nichi ( do ) 15 : 00 〜</em><br>
+<span class="keigo-jp"><code>チェックアウト：8月11日（日）11:00</code></span><br>
+<em>chekku auto : 8 tsuki 11 nichi ( hi ) 11 : 00</em><br>
+<span class="keigo-jp"><code>ご宿泊人数：2名様</code></span><br><br>
+<em>go shukuhaku ninzu : 2 mei sama</em><br>
+<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span><br><br>
+<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni o toiawase kudasaimase.</em><br>
+<strong>Closing:</strong><br>
+<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
+All of our staff sincerely look forward to your arrival.
 </div>
 
-Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
+Notice how all three parts work together: the opening acknowledges the new booking with this-occasion language (この度は), the body states facts using でございます and handles the mid-body question invitation with くださいませ, and the closing uses the collective warmth of スタッフ一同 with a sincere pre-arrival expression.
 
-## Key Phrases Explained
+## The Tone Check
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
-<em>go-taizai wa ikaga deshita deshou ka</em><br>
-How was your stay?<br><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
-<em>kaiteki ni osugoshi itadake mashitara saiwai de gozaimasu</em><br>
-If you had a comfortable stay, we would be happy.<br><br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
-We sincerely look forward to the day we can meet you again.
-</div>
+Before sending, verify the email meets the standard at each level.
 
-ご滞在はいかがでしたでしょうか asks with genuine interest without assuming. でしたでしょうか (past polite question form) is softer than でしたか.
+Subject line is specific and clearly labeled with 【】
 
-快適にお過ごしいただけましたら幸いでございます does not assert the stay was good; it expresses hope. 幸いでございます (would be fortunate/happy) keeps the tone humble and sincere.
+Opening matches the guest's relationship type (first-time / repeat / VIP)
 
-またお会いできる日 is more personal than またのご来店 and creates a genuine human connection rather than a commercial invitation.
+Opening matches the email type (reservation / notice / apology / post-stay)
 
-## Handling Feedback Invitation
+Body is organized with one topic per paragraph
 
-The second body sentence invites feedback without demanding it. This is a deliberate language choice.
+Closing creates the right emotional impression for the email type
 
-<div class="keigo-card blue">
-<strong>Avoid:</strong> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
-<em>anketo ni go kaitou kudasai.</em><br>
-Sounds like a requirement, not an invitation.<br><br>
-<strong>Better:</strong> <span class="keigo-jp"><code>お気づきの点などございましたら、お聞かせいただけますと幸いでございます。</code></span><br>
-<em>okizuki no ten nado gozai mashitara, o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
-Sounds genuinely interested in the guest's experience without creating obligation.
-</div>
+Register is consistent from opening to closing
+
+No casual language, excessive keigo, or abrupt endings
 
 ---
 
 ## Quiz
 
-**A post-stay email uses 「誠にありがとうございます」. What error has been made?**
+**Which subject line is most appropriate for a hotel email confirming a reservation?**
 
-- A. ありがとうございます is too casual for this context
-- B. The email should never thank the guest in a post-stay message
-- C. The present tense ありがとうございます is incorrect; the stay is in the past, so ありがとうございました is required
-- D. 誠に is not necessary in post-stay emails
+- A. ご確認ください
+- B. メールをお送りします
+- C. 【ご予約確認】田中様 9月5日〜6日 1泊
+- D. ありがとうございます
 
 **Correct Answer:** C
 
-**Explanation:** Post-stay emails refer to a completed event. Japanese distinguishes present and past tense in thank-you expressions: ありがとうございます (ongoing, current) versus ありがとうございました (completed, past). Using present tense in a post-stay email signals that the writer was not paying attention to when the email was being sent, which is a noticeable error in professional hotel correspondence.
+**Explanation:** An effective subject line tells the guest immediately what the email contains and who it is for. 【ご予約確認】 uses the standard bracket label, the guest's name personalizes it, and the dates and duration provide essential specifics at a glance. Option A (ご確認ください) is vague and does not tell the guest what to confirm. Option B (メールをお送りします) simply states a fact with no useful information. Option D (ありがとうございます) could describe almost any email and does not indicate content.

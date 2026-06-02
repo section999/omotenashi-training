@@ -1,80 +1,89 @@
 ---
 id: m5-email-12
 section: 12
-title: Cancellation Handling Template
+title: Post-Stay Thank-You Template
 ---
 
-Cancellation emails serve a dual purpose: they confirm the cancellation administratively and preserve the guest relationship for future visits. Even when a guest cancels, how the hotel responds can be the difference between a guest who never returns and one who books again.
+A post-stay thank-you email is sent within 24 to 48 hours of checkout. It strengthens the guest relationship, expresses genuine appreciation, and opens the door for a return visit. The tone must be warm, appreciative, and sincere, never promotional or transactional.
 
 ## What This Email Must Accomplish
 
-**1. Confirm:** State clearly that the cancellation has been processed.
+**1. Thank:** Express genuine gratitude for the guest's stay.
 
-**2. Acknowledge fee if applicable:** Communicate cancellation fees, if any, in a professional and non-confrontational way.
+**2. Care:** Show interest in how the stay went, without assuming it was perfect.
 
-**3. Preserve relationship:** End with warmth that keeps the door open for a future booking.
+**3. Invite:** Gently encourage a future visit without being promotional.
 
-## Template 1: Simple Cancellation (No Fee)
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
-<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
-Thank you for contacting us.<br><br>
-<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
-<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) o uketamawarimashita torikeshi ga kanryou itashimashita koto o go-kakunin moushiage masu.</em><br>
-We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
-<span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
-<em>kyanseru ryou wa hassei shite ori mase n.</em><br>
-No cancellation fee has been charged.<br><br>
-<span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
-<em>mata no kikai ni, zehi tou hoteru o go-riyou itadake masu to saiwai de gozaimasu. go raihou o omachi shite orimasu.</em><br>
-We hope to have the opportunity to welcome you again. We look forward to your future visit.
-</div>
+The one thing this email must not do: make the guest feel like they are receiving a sales message.
 
-## Template 2: Cancellation with Fee
+## Full Template
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
-<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
-Thank you for contacting us.<br><br>
-<span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
-<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) no kyanseru o uketamawarimashita.</em><br>
-We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).<br><br>
-<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
-<em>makotoni osoreirimasu ga, go-yoyaku jouken ni motozuki, kyanseru ryou ga hassei itashimasu.</em><br>
-We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
-<span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
-<em>kyanseru ryou :[ Amount ] en ([ Date ] chekkuin 1 haku bun )</em><br>
-Cancellation fee: [Amount] yen (equivalent to 1 night of [Date] check-in)<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
-<em>mata no kikai ni zehi go-riyou itadake masu to saiwai de gozaimasu.</em><br>
-We hope to have the opportunity to welcome you again.
+
+<span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
+Thank you very much for staying at our hotel on this occasion.<br><br>
+<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
+<em>go-taizai wa ikaga deshita deshou ka.</em><br>
+How was your stay?<br><br>
+<span class="keigo-jp"><code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code></span><br>
+<em>kaiteki ni osugoshi itadake mashitara, sutaffu ichidou taihen ureshiku zonjimasu.</em><br>
+If you had a comfortable stay, all of our staff would be very pleased to hear it.<br><br>
+<span class="keigo-jp"><code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code></span><br>
+<em>moshi go fuman ya okizuki no ten nado gozai mashitara, zehi o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
+If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.<br><br>
+<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
+We sincerely look forward to the day we can welcome you again.
 </div>
 
-## Key Phrase: 誠に恐れ入りますが
+Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
+
+## Key Phrases Explained
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
-<em>makotoni osoreirimasu ga</em><br>
-I am truly sorry to say, but...
+<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
+<em>go-taizai wa ikaga deshita deshou ka</em><br>
+How was your stay?<br><br>
+<span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
+<em>kaiteki ni osugoshi itadake mashitara saiwai de gozaimasu</em><br>
+If you had a comfortable stay, we would be happy.<br><br>
+<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
+We sincerely look forward to the day we can meet you again.
 </div>
 
-This phrase softens the notification of a cancellation fee. It acknowledges the potential inconvenience without apologizing for the policy itself. It positions the fee as a circumstance of the booking terms rather than something the hotel is imposing arbitrarily.
+ご滞在はいかがでしたでしょうか asks with genuine interest without assuming. でしたでしょうか (past polite question form) is softer than でしたか.
+
+快適にお過ごしいただけましたら幸いでございます does not assert the stay was good; it expresses hope. 幸いでございます (would be fortunate/happy) keeps the tone humble and sincere.
+
+またお会いできる日 is more personal than またのご来店 and creates a genuine human connection rather than a commercial invitation.
+
+## Handling Feedback Invitation
+
+The second body sentence invites feedback without demanding it. This is a deliberate language choice.
+
+<div class="keigo-card blue">
+<strong>Avoid:</strong> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
+<em>anketo ni go kaitou kudasai.</em><br>
+Sounds like a requirement, not an invitation.<br><br>
+<strong>Better:</strong> <span class="keigo-jp"><code>お気づきの点などございましたら、お聞かせいただけますと幸いでございます。</code></span><br>
+<em>okizuki no ten nado gozai mashitara, o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
+Sounds genuinely interested in the guest's experience without creating obligation.
+</div>
 
 ---
 
 ## Quiz
 
-**A guest cancels a reservation that incurs a fee. How should the cancellation email communicate the fee?**
+**A post-stay email uses 「誠にありがとうございます」. What error has been made?**
 
-- A. キャンセル料を払ってください
-- B. 誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします
-- C. キャンセル料はありません(when there is a fee)
-- D. Say nothing about the fee and send a bill separately
+- A. ありがとうございます is too casual for this context
+- B. The email should never thank the guest in a post-stay message
+- C. The present tense ありがとうございます is incorrect; the stay is in the past, so ありがとうございました is required
+- D. 誠に is not necessary in post-stay emails
 
-**Correct Answer:** B
+**Correct Answer:** C
 
-**Explanation:** 誠に恐れ入りますが acknowledges the inconvenience of the fee while maintaining a professional tone. ご予約条件に基づき (based on the reservation terms) frames the fee as a policy rather than a personal decision, which reduces the guest's sense of grievance. Option A (キャンセル料を払ってください) is too direct and sounds demanding. Option C is dishonest. Option D leaves the guest uninformed and creates distrust when the unexpected bill arrives.
+**Explanation:** Post-stay emails refer to a completed event. Japanese distinguishes present and past tense in thank-you expressions: ありがとうございます (ongoing, current) versus ありがとうございました (completed, past). Using present tense in a post-stay email signals that the writer was not paying attention to when the email was being sent, which is a noticeable error in professional hotel correspondence.
