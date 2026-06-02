@@ -9,19 +9,17 @@ Beyond the initial handover, ルームキー frequently comes up in other servic
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがルームキーでございます。どうぞ。</code></span><br>
-<em>Kochira ga rūmu kī de gozaimasu. Dōzo.</em><br>
+**こちらがルームキーでございます。どうぞ。**  
+*Kochira ga rūmu kī de gozaimasu. Dōzo.*  
 Here is the room key. Please.
-<br><br>
-<span class="keigo-jp"><code>ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。</code></span><br>
-<em>Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.</em><br>
+
+**ルームキーをお部屋にお忘れの場合は、フロントへお申し付けください。**  
+*Rūmu kī wo o-heya ni o-wasure no baai wa, furonto e o-mōshitsuke kudasai.*  
 If you have left the room key in the room, please let us know at the front desk.
-<br><br>
-<span class="keigo-jp"><code>チェックアウトの際にルームキーのご返却をお願いいたします。</code></span><br>
-<em>Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.</em><br>
+
+**チェックアウトの際にルームキーのご返却をお願いいたします。**  
+*Chekku-auto no sai ni rūmu kī no go-henkyaku wo o-negai itashimasu.*  
 We kindly ask that you return the room key at check-out.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In a hospitality context, staff point to the 鍵穴 when handing over a physical
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>鍵は鍵穴に差し込んで回してください。</code></span><br>
-<em>Kagi wa kagiana ni sashikonde mawashite kudasai.</em><br>
+**鍵は鍵穴に差し込んで回してください。**  
+*Kagi wa kagiana ni sashikonde mawashite kudasai.*  
 Please insert the key into the keyhole and turn it.
-<br><br>
-<span class="keigo-jp"><code>お部屋の鍵穴は正面玄関を向いております。</code></span><br>
-<em>Oheya no kagiana wa shoumen genkan wo muite orimasu.</em><br>
+
+**お部屋の鍵穴は正面玄関を向いております。**  
+*Oheya no kagiana wa shoumen genkan wo muite orimasu.*  
 The keyhole on the room door faces the front entrance side.
-<br><br>
-<span class="keigo-jp"><code>金庫の鍵穴はスタッフのみが使用する緊急用でございます。</code></span><br>
-<em>Kinko no kagiana wa sutaffu nomi ga shiyou suru kinkyuu you de gozaimasu.</em><br>
+
+**金庫の鍵穴はスタッフのみが使用する緊急用でございます。**  
+*Kinko no kagiana wa sutaffu nomi ga shiyou suru kinkyuu you de gozaimasu.*  
 The keyhole on the safe is for emergency use by staff only.
-</div>
 
 ## Related Expressions
 

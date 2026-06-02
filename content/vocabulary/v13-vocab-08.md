@@ -9,19 +9,17 @@ Many hotels and ryokan require staff to record their 退勤 time using a time-st
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>午後6時に退勤しました。</code></span><br>
-<em>Gogo rokuji ni taikin shimashita.</em><br>
+**午後6時に退勤しました。**  
+*Gogo rokuji ni taikin shimashita.*  
 I left work at 6 PM.
-<br><br>
-<span class="keigo-jp"><code>退勤前に必ず引き継ぎ事項を同僚に伝えてください。</code></span><br>
-<em>Taikin mae ni kanarazu hikitsugi jikou o douryou ni tsutaete kudasai.</em><br>
+
+**退勤前に必ず引き継ぎ事項を同僚に伝えてください。**  
+*Taikin mae ni kanarazu hikitsugi jikou o douryou ni tsutaete kudasai.*  
 Please be sure to inform your colleague of handover items before leaving.
-<br><br>
-<span class="keigo-jp"><code>タイムカードを退勤時に押し忘れた場合は、すぐに上司に報告してください。</code></span><br>
-<em>Taimu-kaado o taikin-ji ni oshi-wasureta baai wa, sugu ni joushi ni houkoku shite kudasai.</em><br>
+
+**タイムカードを退勤時に押し忘れた場合は、すぐに上司に報告してください。**  
+*Taimu-kaado o taikin-ji ni oshi-wasureta baai wa, sugu ni joushi ni houkoku shite kudasai.*  
 If you forget to clock out when leaving, please report it to your supervisor immediately.
-</div>
 
 ## Related Expressions
 

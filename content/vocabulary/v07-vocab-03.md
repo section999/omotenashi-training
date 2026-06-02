@@ -9,19 +9,17 @@ Operationally, the lobby serves as a hub for multiple services: concierge assist
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お待ち合わせは1階のロビーでお願いいたします。</code></span><br>
-<em>O-machiai wa ikkai no robii de o-negai itashimasu.</em><br>
+**お待ち合わせは1階のロビーでお願いいたします。**  
+*O-machiai wa ikkai no robii de o-negai itashimasu.*  
 For your meeting, please wait in the lobby on the first floor.
-<br><br>
-<span class="keigo-jp"><code>ロビーにてコンシェルジュがご案内いたしますので、少々お待ちくださいませ。</code></span><br>
-<em>Robii ni te konshieruju ga go-annai itashimasu node, shoushou o-machi kudasaimase.</em><br>
+
+**ロビーにてコンシェルジュがご案内いたしますので、少々お待ちくださいませ。**  
+*Robii ni te konshieruju ga go-annai itashimasu node, shoushou o-machi kudasaimase.*  
 A concierge will assist you in the lobby, so please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>タクシーはただいまロビー前にご用意しております。</code></span><br>
-<em>Takushii wa tadaima robii mae ni go-youi shite orimasu.</em><br>
+
+**タクシーはただいまロビー前にご用意しております。**  
+*Takushii wa tadaima robii mae ni go-youi shite orimasu.*  
 Your taxi is currently ready in front of the lobby.
-</div>
 
 ## Related Expressions
 
@@ -48,5 +46,5 @@ Your taxi is currently ready in front of the lobby.
 
 **Correct Answer:** ロビー (lobby)
 
-**Explanation:** ロビー is the recognized central gathering space guests expect to meet in, and お待ち合わせは〜でお願いいたします is the standard phrasing for designating a rendezvous point. フロント is the service counter rather than an open waiting area, and a レストラン or 駐車場 would be unnecessarily inconvenient and imprecise for this purpose.
+**Explanation:** ロビー is the recognized central gathering space guests expect to meet in, and お待ち合わせは○○でお願いいたします is the standard phrasing for designating a rendezvous point. フロント is the service counter rather than an open waiting area, and a レストラン or 駐車場 would be unnecessarily inconvenient and imprecise for this purpose.
 

@@ -9,19 +9,17 @@ title: 修理依頼 (shuuri irai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。</code></span><br>
-<em>Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.</em><br>
+**テレビの修理依頼を承りました。係の者がすぐにお伺いいたします。**  
+*Terebi no shuuri irai wo uketamawarimashita. Kakari no mono ga sugu ni o-ukagai itashimasu.*  
 We have received your repair request for the television. A staff member will come to the room shortly.
-<br><br>
-<span class="keigo-jp"><code>エアコンの修理依頼をフロントにてお承りしております。</code></span><br>
-<em>Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.</em><br>
+
+**エアコンの修理依頼をフロントにてお承りしております。**  
+*Eakon no shuuri irai wo furonto nite o-uketamawari shite orimasu.*  
 We are accepting repair requests for the air conditioning at the front desk.
-<br><br>
-<span class="keigo-jp"><code>ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。</code></span><br>
-<em>Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.</em><br>
+
+**ご修理には少々お時間をいただく場合がございますが、ご了承くださいませ。**  
+*Go-shuuri ni wa shoushou o-jikan wo itadaku baai ga gozaimasu ga, go-ryoushou kudasaimase.*  
 Please be aware that repairs may take a little time; we appreciate your understanding.
-</div>
 
 ## Related Expressions
 

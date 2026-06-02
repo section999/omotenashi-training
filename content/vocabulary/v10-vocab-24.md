@@ -10,19 +10,17 @@ When a 手数料 applies, the appropriate approach is to name it, explain what i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>銀行振込には別途手数料が発生いたします。</code></span><br>
-<em>Ginkou furikomi ni wa betto tesuuryou ga hassei itashimasu.</em><br>
+**銀行振込には別途手数料が発生いたします。**  
+*Ginkou furikomi ni wa betto tesuuryou ga hassei itashimasu.*  
 A separate handling fee will apply for bank transfers.
-<br><br>
-<span class="keigo-jp"><code>手数料を含めた合計金額はこちらになります。</code></span><br>
-<em>Tesuuryou o fukumeta goukei kingaku wa kochira ni narimasu.</em><br>
+
+**手数料を含めた合計金額はこちらになります。**  
+*Tesuuryou o fukumeta goukei kingaku wa kochira ni narimasu.*  
 The total amount including the handling fee is as follows.
-<br><br>
-<span class="keigo-jp"><code>手数料についてご不明な点がございましたらお申し付けください。</code></span><br>
-<em>Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.</em><br>
+
+**手数料についてご不明な点がございましたらお申し付けください。**  
+*Tesuuryou ni tsuite go-fumeina ten ga gozaimashitara ommoshitsuke kudasai.*  
 Please let us know if one has any questions about the handling fee.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ The cultural nuance of 開店 in a Japanese hospitality setting goes beyond the 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。</code></span><br>
-<em>Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.</em><br>
+**レストランは7時に開店いたします。ご朝食をお楽しみいただけますと幸いです。**  
+*Resutoran wa shichi-ji ni kaiten itashimasu. Go-choushoku wo o-tanoshimi itadakemasu to saiwai desu.*  
 The restaurant opens at 7 o'clock. We hope you enjoy your breakfast.
-<br><br>
-<span class="keigo-jp"><code>ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。</code></span><br>
-<em>Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.</em><br>
+
+**ただいまの時刻は6時45分でございまして、レストランは15分後に開店いたします。**  
+*Tadaima no jikoku wa roku-ji yonjuugo-fun de gozaimashite, resutoran wa juugo-fun go ni kaiten itashimasu.*  
 The current time is 6:45, and the restaurant will open in fifteen minutes.
-<br><br>
-<span class="keigo-jp"><code>ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。</code></span><br>
-<em>Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.</em><br>
+
+**ギフトショップは10時に開店いたしますので、ご出発前にお立ち寄りいただけます。**  
+*Gifuto shoppu wa juu-ji ni kaiten itashimasu node, go-shuppatsu mae ni o-tachiyori itadakemasu.*  
 The gift shop opens at 10 o'clock, so one is welcome to stop by before your departure.
-</div>
 
 ## Related Expressions
 

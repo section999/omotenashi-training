@@ -13,19 +13,17 @@ In the philosophy of omotenashi, waiting for a guest to ask for help is already 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お荷物をお持ちでしょうか。お手伝いしましょうか。</code></span><br>
-<em>O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.</em><br>
+**お荷物をお持ちでしょうか。お手伝いしましょうか。**  
+*O-nimotsu wo o-mochi deshō ka. O-tetsudai shimashō ka.*  
 Do you have luggage? May I help you with it?
-<br><br>
-<span class="keigo-jp"><code>お困りのようでしたら、お手伝いしましょうか。</code></span><br>
-<em>O-komari no yō deshitara, o-tetsudai shimashō ka.</em><br>
+
+**お困りのようでしたら、お手伝いしましょうか。**  
+*O-komari no yō deshitara, o-tetsudai shimashō ka.*  
 You seem to be having some difficulty: may I help?
-<br><br>
-<span class="keigo-jp"><code>ご案内が必要でしたら、お手伝いしましょうか。</code></span><br>
-<em>Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.</em><br>
+
+**ご案内が必要でしたら、お手伝いしましょうか。**  
+*Go-annai ga hitsuyō deshitara, o-tetsudai shimashō ka.*  
 If you need directions, may I assist you?
-</div>
 
 ## Related Expressions
 

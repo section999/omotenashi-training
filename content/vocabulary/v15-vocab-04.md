@@ -10,19 +10,17 @@ Guests with sensitive skin sometimes ask specifically about fragrance-free or hy
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。</code></span><br>
-<em>Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.</em><br>
+**コイン式ランドリーには液体洗剤をご用意しております。フロントにてお申し付けください。**  
+*Koin-shiki randorii ni wa ekitai senzai o go-youi shite orimasu. Furonto nite o-moushitsuke kudasai.*  
 We provide liquid detergent for the coin laundry. Please ask at the front desk.
-<br><br>
-<span class="keigo-jp"><code>デリケートな素材には、中性洗剤のご使用をお勧めいたします。</code></span><br>
-<em>Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.</em><br>
+
+**デリケートな素材には、中性洗剤のご使用をお勧めいたします。**  
+*Derikeeto na sozai ni wa, chuusei senzai no go-shiyou o o-susume itashimasu.*  
 For delicate fabrics, we recommend using a neutral (pH-balanced) detergent.
-<br><br>
-<span class="keigo-jp"><code>洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。</code></span><br>
-<em>Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.</em><br>
+
+**洗濯機に洗剤を入れすぎますと、衣類に残留することがございますのでご注意ください。**  
+*Sentakuki ni senzai o iresugimasu to, irui ni zanryuu suru koto ga gozaimasu no de go-chuui kudasai.*  
 Please be careful not to add too much detergent, as it may leave residue on your clothes.
-</div>
 
 ## Related Expressions
 

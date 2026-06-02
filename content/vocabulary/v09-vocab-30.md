@@ -10,19 +10,17 @@ From a staff perspective, 早割 rates come with conditions that must be communi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のご予約は60日前となりますので、早割プランが適用されます。通常料金より20％お得でございます。</code></span><br>
-<em>O-kyaku-sama no go-yoyaku wa rokujuunichi mae to narimasu node, hayawari puran ga tekiyou saremasu. Tsuujou ryoukin yori nijuu-paasento o-toku de gozaimasu.</em><br>
+**お客様のご予約は60日前となりますので、早割プランが適用されます。通常料金より20％お得でございます。**  
+*O-kyaku-sama no go-yoyaku wa rokujuunichi mae to narimasu node, hayawari puran ga tekiyou saremasu. Tsuujou ryoukin yori nijuu-paasento o-toku de gozaimasu.*  
 As your reservation is 60 days in advance, the early bird discount plan applies. You will save 20% compared to the standard rate.
-<br><br>
-<span class="keigo-jp"><code>早割プランは事前決済・返金不可となっておりますので、あらかじめご了承くださいませ。</code></span><br>
-<em>Hayawari puran wa jizen kessai · henkin fuka to natte orimasu node, arakajime go-ryoushou kudasaimase.</em><br>
+
+**早割プランは事前決済・返金不可となっておりますので、あらかじめご了承くださいませ。**  
+*Hayawari puran wa jizen kessai · henkin fuka to natte orimasu node, arakajime go-ryoushou kudasaimase.*  
 Please be aware that the early bird plan requires advance payment and is non-refundable.
-<br><br>
-<span class="keigo-jp"><code>早割で宿泊料金が10％引きとなり、ご宿泊料金は1泊〇〇円でございます。</code></span><br>
-<em>Hayawari de shukuhaku ryoukin ga juu-paasento biki to nari, go-shukuhaku ryoukin wa ippaku〇〇en de gozaimasu.</em><br>
+
+**早割で宿泊料金が10％引きとなり、ご宿泊料金は1泊〇〇円でございます。**  
+*Hayawari de shukuhaku ryoukin ga juu-paasento biki to nari, go-shukuhaku ryoukin wa ippaku〇〇en de gozaimasu.*  
 With the early bird discount applied at 10%, the room rate will be [amount] yen per night.
-</div>
 
 ## Related Expressions
 

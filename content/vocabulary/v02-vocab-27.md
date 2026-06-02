@@ -9,19 +9,17 @@ In a hospitality context, staff introduce カードキー during check-in as a s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがカードキーでございます。エレベーターにもご利用いただけます。</code></span><br>
-<em>Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.</em><br>
+**こちらがカードキーでございます。エレベーターにもご利用いただけます。**  
+*Kochira ga kādo kī de gozaimasu. Erebētā ni mo go-riyō itadakemasu.*  
 Here is your card key. It can also be used for the elevator.
-<br><br>
-<span class="keigo-jp"><code>カードキーが反応しない場合は、フロントへお越しください。</code></span><br>
-<em>Kādo kī ga hannō shinai baai wa, furonto e o-koshi kudasai.</em><br>
+
+**カードキーが反応しない場合は、フロントへお越しください。**  
+*Kādo kī ga hannō shinai baai wa, furonto e o-koshi kudasai.*  
 If your card key does not respond, please come to the front desk.
-<br><br>
-<span class="keigo-jp"><code>追加のカードキーをご用意いたします。少々お待ちください。</code></span><br>
-<em>Tsuika no kādo kī wo go-yōi itashimasu. Shōshō o-machi kudasai.</em><br>
+
+**追加のカードキーをご用意いたします。少々お待ちください。**  
+*Tsuika no kādo kī wo go-yōi itashimasu. Shōshō o-machi kudasai.*  
 I will prepare an additional card key for you. Please wait a moment.
-</div>
 
 ## Related Expressions
 

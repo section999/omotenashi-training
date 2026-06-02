@@ -9,19 +9,17 @@ In a hospitality context, staff handle レイトチェックアウト requests e
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レイトチェックアウトはご利用可能でございます。追加料金は三千円となります。</code></span><br>
-<em>Reito chekku-auto wa go-riyō kanō de gozaimasu. Tsuika ryōkin wa san-zen en to narimasu.</em><br>
+**レイトチェックアウトはご利用可能でございます。追加料金は三千円となります。**  
+*Reito chekku-auto wa go-riyō kanō de gozaimasu. Tsuika ryōkin wa san-zen en to narimasu.*  
 Late check-out is available. The additional charge will be 3,000 yen.
-<br><br>
-<span class="keigo-jp"><code>レイトチェックアウトをご希望の場合、当日の空き状況によりご案内が可能でございます。</code></span><br>
-<em>Reito chekku-auto wo go-kibō no baai, tōjitsu no aki jōkyō ni yori go-annai ga kanō de gozaimasu.</em><br>
+
+**レイトチェックアウトをご希望の場合、当日の空き状況によりご案内が可能でございます。**  
+*Reito chekku-auto wo go-kibō no baai, tōjitsu no aki jōkyō ni yori go-annai ga kanō de gozaimasu.*  
 If you would like late check-out, we can accommodate you depending on same-day availability.
-<br><br>
-<span class="keigo-jp"><code>本日は満室のため、レイトチェックアウトのご対応が難しい状況でございます。</code></span><br>
-<em>Honjitsu wa manseki no tame, reito chekku-auto no go-taiō ga muzukashii jōkyō de gozaimasu.</em><br>
+
+**本日は満室のため、レイトチェックアウトのご対応が難しい状況でございます。**  
+*Honjitsu wa manseki no tame, reito chekku-auto no go-taiō ga muzukashii jōkyō de gozaimasu.*  
 Unfortunately, as we are fully booked today, late check-out would be difficult to accommodate.
-</div>
 
 ## Related Expressions
 

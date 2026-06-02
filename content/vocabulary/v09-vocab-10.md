@@ -9,19 +9,17 @@ Teenagers who sit on the boundary of the adult threshold require extra attention
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>大人2名でご予約を承りました。</code></span><br>
-<em>Otona ni-mei de go-yoyaku o uketa wari mashita.</em><br>
+**大人2名でご予約を承りました。**  
+*Otona ni-mei de go-yoyaku o uketa wari mashita.*  
 We have received your reservation for 2 adults.
-<br><br>
-<span class="keigo-jp"><code>大人のお客様には、浴衣をお部屋にご用意しております。</code></span><br>
-<em>Otona no o-kyakusama ni wa, yukata o o-heya ni go-youi shite orimasu.</em><br>
+
+**大人のお客様には、浴衣をお部屋にご用意しております。**  
+*Otona no o-kyakusama ni wa, yukata o o-heya ni go-youi shite orimasu.*  
 We have yukata prepared in the room for adult guests.
-<br><br>
-<span class="keigo-jp"><code>大人1名様あたりの宿泊料金は18,000円でございます。</code></span><br>
-<em>Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassento-en de gozaimasu.</em><br>
+
+**大人1名様あたりの宿泊料金は18,000円でございます。**  
+*Otona ichi-mei-sama atari no shukuhaku ryoukin wa ichiman hassento-en de gozaimasu.*  
 The room rate per adult guest is 18,000 yen.
-</div>
 
 ## Related Expressions
 

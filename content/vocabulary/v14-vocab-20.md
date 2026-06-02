@@ -9,19 +9,17 @@ Hotel staff get involved in タクシー arrangements more than staff might expe
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駅からホテルまでタクシーを利用しました。</code></span><br>
-<em>Eki kara hoteru made takushii wo riyou shimashita.</em><br>
+**駅からホテルまでタクシーを利用しました。**  
+*Eki kara hoteru made takushii wo riyou shimashita.*  
 I took a taxi from the station to the hotel.
-<br><br>
-<span class="keigo-jp"><code>タクシーをお呼びいたしますので、少々お待ちくださいませ。</code></span><br>
-<em>Takushii wo oyobi itashimasu no de, shoushou omachi kudasaimase.</em><br>
+
+**タクシーをお呼びいたしますので、少々お待ちくださいませ。**  
+*Takushii wo oyobi itashimasu no de, shoushou omachi kudasaimase.*  
 I will call a taxi for you, so please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>深夜はタクシーのご利用が便利でございます。電車は終電がございますので。</code></span><br>
-<em>Shinya wa takushii no goriyou ga benri de gozaimasu. Densha wa shuuden ga gozaimasu no de.</em><br>
+
+**深夜はタクシーのご利用が便利でございます。電車は終電がございますので。**  
+*Shinya wa takushii no goriyou ga benri de gozaimasu. Densha wa shuuden ga gozaimasu no de.*  
 Taxis are convenient for late-night travel, as trains have a last service time.
-</div>
 
 ## Related Expressions
 

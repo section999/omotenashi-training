@@ -9,19 +9,17 @@ title: 約 (yaku)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。</code></span><br>
-<em>Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.</em><br>
+**駅まで徒歩約10分です。信号がいくつかございますのでご余裕をもってお出かけください。**  
+*Eki made toho yaku juppun desu. Shingou ga ikutsuka gozaimasu node, go-yoyuu o motte odekake kudasai.*  
 It is approximately a 10-minute walk to the station. There are several traffic lights, so please allow extra time.
-<br><br>
-<span class="keigo-jp"><code>お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。</code></span><br>
-<em>Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.</em><br>
+
+**お部屋の準備に約30分いただけますでしょうか。ロビーでお待ちいただけますと幸いです。**  
+*Oheya no junbi ni yaku sanjuppun itadakemasu deshou ka. Robii de omachi itadakemasu to saiwai desu.*  
 May we have approximately 30 minutes to prepare the room? We would appreciate it if one could wait in the lobby.
-<br><br>
-<span class="keigo-jp"><code>夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。</code></span><br>
-<em>Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.</em><br>
+
+**夕食のコースは約2時間でございます。ご都合に合わせてご予約ください。**  
+*Yuushoku no koosu wa yaku nijikan de gozaimasu. Gotsugou ni awasete goyoyaku kudasai.*  
 The dinner course is approximately 2 hours. Please make a reservation according to your schedule.
-</div>
 
 ## Related Expressions
 

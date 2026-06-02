@@ -10,19 +10,17 @@ In hotels, 決済 most commonly occurs at checkout (精算) but may also happen 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日はどのような方法でご決済なさいますか。</code></span><br>
-<em>Honjitsu wa donna youhou de go-kessai nasaimasu ka.</em><br>
+**本日はどのような方法でご決済なさいますか。**  
+*Honjitsu wa donna youhou de go-kessai nasaimasu ka.*  
 How would you like to complete your payment today?
-<br><br>
-<span class="keigo-jp"><code>クレジットカードでの決済が完了いたしました。</code></span><br>
-<em>Kurejitto kaado de no kessai ga kanryou itashimashita.</em><br>
+
+**クレジットカードでの決済が完了いたしました。**  
+*Kurejitto kaado de no kessai ga kanryou itashimashita.*  
 Payment by credit card has been completed.
-<br><br>
-<span class="keigo-jp"><code>電子マネーでの決済も承っております。</code></span><br>
-<em>Denshi manee de no kessai mo uketamatteotte orimasu.</em><br>
+
+**電子マネーでの決済も承っております。**  
+*Denshi manee de no kessai mo uketamatteotte orimasu.*  
 We also accept payment by electronic money.
-</div>
 
 ## Related Expressions
 

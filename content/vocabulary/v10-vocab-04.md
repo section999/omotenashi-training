@@ -9,19 +9,17 @@ title: 前払い (maebarai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。</code></span><br>
-<em>Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.</em><br>
+**こちらのプランは前払いが必要でございます。ご予約確定後5日以内にお支払いください。**  
+*Kochira no puran wa maebarai ga hitsuyou de gozaimasu. Go-yoyaku kakutei go itsuka inai ni o-shiharai kudasai.*  
 This plan requires prepayment. Please complete payment within five days of confirming your reservation.
-<br><br>
-<span class="keigo-jp"><code>前払いが確認できましたので、ご予約が正式に確定いたしました。</code></span><br>
-<em>Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.</em><br>
+
+**前払いが確認できましたので、ご予約が正式に確定いたしました。**  
+*Maebarai ga kakunin dekimashita no de, go-yoyaku ga seishiki ni kakutei itashimashita.*  
 We have confirmed your prepayment, so your reservation is now officially secured.
-<br><br>
-<span class="keigo-jp"><code>前払いをご希望のお客様には、お得な割引料金をご用意しております。</code></span><br>
-<em>Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.</em><br>
+
+**前払いをご希望のお客様には、お得な割引料金をご用意しております。**  
+*Maebarai wo go-kibou no o-kyakusama ni wa, o-toku na waribiki ryoukin wo go-youi shite orimasu.*  
 For guests who wish to prepay, we offer a special discounted rate.
-</div>
 
 ## Related Expressions
 

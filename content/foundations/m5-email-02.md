@@ -18,9 +18,11 @@ Hotel email openings fall into three relationship categories. Before writing any
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for making a reservation on this occasion.<br><br>
 <strong>Alternative (inquiry response):</strong><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, go-renraku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reaching out on this occasion.
 </div>
 
@@ -30,9 +32,11 @@ Thank you very much for reaching out on this occasion.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
+<em>itsumo osewa ni natte orimasu.</em><br>
 Thank you for your continued support.<br><br>
 <strong>For a guest returning after a long gap:</strong><br>
 <span class="keigo-jp"><code>ご無沙汰しております。この度は、またご予約いただき、誠にありがとうございます。</code></span><br>
+<em>gobusata shite orimasu. kono tabi wa, mata go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 It has been a while. Thank you very much for booking with us again on this occasion.
 </div>
 
@@ -42,6 +46,7 @@ It has been a while. Thank you very much for booking with us again on this occas
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>平素より格別のご愛顧を賜り、誠にありがとうございます。</code></span><br>
+<em>heiso yori kakubetsu no go aiko o tamawari, makotoni arigatou gozaimasu.</em><br>
 Thank you sincerely for your continued and generous patronage.
 </div>
 
@@ -73,10 +78,10 @@ Using the wrong opening communicates either carelessness or system automation. B
 
 **A guest has stayed at the hotel twice before and is booking again. Which opening is correct?**
 
-- A. 「この度は、ご予約いただき、誠にありがとうございます」
-- B. 「はじめまして」
-- C. 「いつもお世話になっております」
-- D. 「ご無沙汰しております」
+- A. この度は、ご予約いただき、誠にありがとうございます
+- B. はじめまして
+- C. いつもお世話になっております
+- D. ご無沙汰しております
 
 **Correct Answer:** C
 

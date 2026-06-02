@@ -9,19 +9,17 @@ Hotel staff are trained to return to the line within sixty seconds, even if the 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々保留にさせていただきますので、そのままお待ちくださいませ。</code></span><br>
-<em>Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.</em><br>
+**少々保留にさせていただきますので、そのままお待ちくださいませ。**  
+*Shoushou horyuu ni sasete itadakimasu node, sono mama omachi kudasaimase.*  
 I will place you on hold for a moment, so please stay on the line.
-<br><br>
-<span class="keigo-jp"><code>ただいま担当者に確認しておりますので、保留のままお待ちいただけますでしょうか。</code></span><br>
-<em>Tadaima tantousha ni kakunin shite orimasu node, horyuu no mama omachi itadakemasu deshou ka.</em><br>
+
+**ただいま担当者に確認しておりますので、保留のままお待ちいただけますでしょうか。**  
+*Tadaima tantousha ni kakunin shite orimasu node, horyuu no mama omachi itadakemasu deshou ka.*  
 I am currently checking with the person in charge, so may I ask you to remain on hold?
-<br><br>
-<span class="keigo-jp"><code>お待たせいたしました。保留を解除いたします。</code></span><br>
-<em>Omatase itashimashita. Horyuu wo kaijo itashimasu.</em><br>
+
+**お待たせいたしました。保留を解除いたします。**  
+*Omatase itashimashita. Horyuu wo kaijo itashimasu.*  
 Thank you for your patience. I am now taking you off hold.
-</div>
 
 ## Related Expressions
 

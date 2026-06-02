@@ -12,16 +12,22 @@ A wake-up call that is logged incorrectly, or not logged at all, can cause a gue
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>モーニングコールをお願いします。</code></span><br>
+<em>mouningu kouru o onegai shimasu.</em><br>
 I'd like a wake-up call, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan o o ukagai shite mo yoroshii deshou ka.</em><br>
 Certainly. May I ask for the time you would like?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>明日の朝6時です。</code></span><br>
+<em>ashita no asa 6 ji desu.</em><br>
 Tomorrow morning at 6:00.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>明日の朝6時のモーニングコールで承りました。お部屋番号をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>ashita no asa 6 ji no mouningu kouru de uketamawarimashita. o-heya bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
 A wake-up call for tomorrow at 6:00 AM, noted. May I confirm your room number?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>702号室です。</code></span><br>
+<em>702 goushitsu desu.</em><br>
 Room 702.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>702号室、明日の朝6時にご連絡いたします。どうぞよろしくお願いいたします。</code></span><br>
+<em>702 goushitsu, ashita no asa 6 ji ni go-renraku itashimasu. douzo yoroshiku onegai itashimasu.</em><br>
 Room 702, we will call you tomorrow morning at 6:00. Thank you.
 </div>
 
@@ -29,16 +35,22 @@ Room 702, we will call you tomorrow morning at 6:00. Thank you.
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
+<em>takushi o tehai shite morae masu ka.</em><br>
 Can you arrange a taxi for me?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu deshou ka.</em><br>
 Certainly. Do you have a preferred time?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>午後3時にお願いします。</code></span><br>
+<em>gogo 3 ji ni onegai shimasu.</em><br>
 3:00 PM, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>午後3時でございますね。お向かい先はございますでしょうか。</code></span><br>
+<em>gogo 3 ji de gozaimasu ne. o mukai saki wa gozaimasu deshou ka.</em><br>
 3:00 PM. May I ask for the destination?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>東京駅までです。</code></span><br>
+<em>toukyou eki made desu.</em><br>
 Tokyo Station.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。午後3時に東京駅行きのタクシーを手配いたします。準備ができましたらお知らせいたします。</code></span><br>
+<em>kashikomarimashita. gogo 3 ji ni toukyou eki iki no takushi o tehai itashimasu. jumbi ga deki mashitara oshirase itashimasu.</em><br>
 Certainly. I will arrange a taxi to Tokyo Station for 3:00 PM. We will notify you when it is ready.
 </div>
 
@@ -48,12 +60,16 @@ Without accurate late arrival records, rooms may be released during night audit,
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります。</code></span><br>
+<em>chekkuin ga osoku narimasu.</em><br>
 My check-in will be late.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着の予定時刻をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go touchaku no yotei jikoku o o ukagai shite mo yoroshii deshou ka.</em><br>
 Certainly. May I ask your estimated arrival time?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>夜の11時頃になると思います。</code></span><br>
+<em>yoru no 11 ji goro ni naru to omoimasu.</em><br>
 Around 11:00 PM, I think.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>夜11時頃でございますね。承知いたしました。フロントで確かにお待ちしております。お名前をもう一度お伺いしてもよろしいでしょうか。</code></span><br>
+<em>yoru 11 ji goro de gozaimasu ne. shouchi itashimashita. furonto de tashika ni omachi shite orimasu. o-namae o mouichido o ukagai shite mo yoroshii deshou ka.</em><br>
 Around 11:00 PM. Understood. We will expect you at the front desk. May I also confirm your name?
 </div>
 

@@ -9,19 +9,17 @@ Staff ask about seating preference using the paired question 禁煙席と喫煙�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>禁煙席と喫煙席、どちらをご希望でしょうか。</code></span><br>
-<em>Kin'en seki to kitsuen seki, dochira wo go-kibou deshou ka.</em><br>
+**禁煙席と喫煙席、どちらをご希望でしょうか。**  
+*Kin'en seki to kitsuen seki, dochira wo go-kibou deshou ka.*  
 Which would you prefer: a non-smoking or a smoking seat?
-<br><br>
-<span class="keigo-jp"><code>禁煙席のお席へご案内いたします。こちらへどうぞ。</code></span><br>
-<em>Kin'en seki no o-seki e go-annai itashimasu. Kochira e douzo.</em><br>
+
+**禁煙席のお席へご案内いたします。こちらへどうぞ。**  
+*Kin'en seki no o-seki e go-annai itashimasu. Kochira e douzo.*  
 I will guide you to a non-smoking seat. This way, please.
-<br><br>
-<span class="keigo-jp"><code>当レストランは全席禁煙でございます。あらかじめご了承くださいませ。</code></span><br>
-<em>Tou resutoran wa zenseki kin'en de gozaimasu. Arakajime go-ryoushou kudasaimase.</em><br>
+
+**当レストランは全席禁煙でございます。あらかじめご了承くださいませ。**  
+*Tou resutoran wa zenseki kin'en de gozaimasu. Arakajime go-ryoushou kudasaimase.*  
 This restaurant is entirely non-smoking. We appreciate your understanding in advance.
-</div>
 
 ## Related Expressions
 

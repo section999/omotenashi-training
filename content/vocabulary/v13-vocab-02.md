@@ -9,15 +9,13 @@ The word is flexible. Managers use it when talking about their team in a collegi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>フロントのスタッフが24時間対応しております。</code></span><br>
-<em>Furonto no sutaffu ga nijuuyojikan taiou shite orimasu.</em><br>
+**フロントのスタッフが24時間対応しております。**  
+*Furonto no sutaffu ga nijuuyojikan taiou shite orimasu.*  
 Front desk staff are available 24 hours a day.
-<br><br>
-<span class="keigo-jp"><code>本日のイベントはスタッフ一同で準備いたしました。</code></span><br>
-<em>Honjitsu no ibento wa sutaffu ichidou de junbi itashimashita.</em><br>
+
+**本日のイベントはスタッフ一同で準備いたしました。**  
+*Honjitsu no ibento wa sutaffu ichidou de junbi itashimashita.*  
 Today's event was prepared by all of our staff.
-</div>
 
 ## Related Expressions
 

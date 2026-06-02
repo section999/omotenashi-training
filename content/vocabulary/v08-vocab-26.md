@@ -10,19 +10,17 @@ Note: the goal when using 秒 is not to sound technical but to make precision fe
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。</code></span><br>
-<em>Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.</em><br>
+**エレベーターのドアは5秒で閉まります。お急ぎの場合は「開」ボタンをお押しください。**  
+*Erebeetaa no doa wa gosbyou de shimarimasu. Oisogi no baai wa "hira" botan o ooshi kudasai.*  
 The elevator doors close in 5 seconds. If one is in a hurry, please press the'open' button.
-<br><br>
-<span class="keigo-jp"><code>セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。</code></span><br>
-<em>Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.</em><br>
+
+**セキュリティゲートは通過後10秒で自動的に閉まります。スタッフへお声がけください。**  
+*Sekyuritii geeeto wa tsuuka go jyuubyou de jidouteki ni shimarimasu. Sutaffu e okoe gake kudasai.*  
 The security gate closes automatically 10 seconds after passage. Please let a staff member know if one needs assistance.
-<br><br>
-<span class="keigo-jp"><code>このドアは閉めると3秒後にロックされます。カードキーをお持ちください。</code></span><br>
-<em>Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.</em><br>
+
+**このドアは閉めると3秒後にロックされます。カードキーをお持ちください。**  
+*Kono doa wa shimeru to sanbyou go ni rokku saremasu. Kaado kii o omochi kudasai.*  
 This door locks 3 seconds after closing. Please keep your key card with you.
-</div>
 
 ## Related Expressions
 

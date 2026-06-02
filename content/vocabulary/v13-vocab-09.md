@@ -10,19 +10,17 @@ Culturally, Japanese employees tend to be mindful of not letting breaks run long
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>昼食後に30分の休憩があります。</code></span><br>
-<em>Chuushoku-go ni sanjuppun no kyuukei ga arimasu.</em><br>
+**昼食後に30分の休憩があります。**  
+*Chuushoku-go ni sanjuppun no kyuukei ga arimasu.*  
 There is a 30-minute break after lunch.
-<br><br>
-<span class="keigo-jp"><code>繁忙期でも、スタッフが交代で休憩できるようにシフトを組んでいます。</code></span><br>
-<em>Hanbou-ki demo, sutaffu ga koutai de kyuukei dekiru you ni shifuto o kunde imasu.</em><br>
+
+**繁忙期でも、スタッフが交代で休憩できるようにシフトを組んでいます。**  
+*Hanbou-ki demo, sutaffu ga koutai de kyuukei dekiru you ni shifuto o kunde imasu.*  
 Even during busy seasons, we arrange shifts so that staff can take turns having a break.
-<br><br>
-<span class="keigo-jp"><code>休憩室はバックヤードの奥にございます。どうぞご利用ください。</code></span><br>
-<em>Kyuukei-shitsu wa bakkuyaado no oku ni gozaimasu. Douzo goriyou kudasai.</em><br>
+
+**休憩室はバックヤードの奥にございます。どうぞご利用ください。**  
+*Kyuukei-shitsu wa bakkuyaado no oku ni gozaimasu. Douzo goriyou kudasai.*  
 The break room is at the back of the staff area. Please feel free to use it.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ When confirming a reservation at the front desk, staff use ご予約はござい
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.</em><br>
+**ご予約はございますか？お名前をお伺いしてもよろしいでしょうか。**  
+*Go-yoyaku wa gozaimasu ka? O-namae o o-ukagai shite mo yoroshii deshō ka.*  
 Do you have a reservation? May I ask your name?
-<br><br>
-<span class="keigo-jp"><code>ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。</code></span><br>
-<em>Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.</em><br>
+
+**ご予約の内容を確認させていただきます。3泊のご予定でよろしいでしょうか。**  
+*Go-yoyaku no naiyō o kakunin sasete itadakimasu. San-paku no go-yotei de yoroshii deshō ka.*  
 Allow me to verify your reservation details. Is a three-night stay correct?
-<br><br>
-<span class="keigo-jp"><code>レストランのご予約は、お電話またはフロントにてお受けしております。</code></span><br>
-<em>Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.</em><br>
+
+**レストランのご予約は、お電話またはフロントにてお受けしております。**  
+*Resutoran no go-yoyaku wa, o-denwa mata wa furonto nite o-uke shite orimasu.*  
 Restaurant reservations can be made by phone or at the front desk.
-</div>
 
 ## Related Expressions
 

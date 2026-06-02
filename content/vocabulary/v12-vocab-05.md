@@ -10,19 +10,17 @@ Using a 消火器 correctly means knowing the PASS technique: Pull the pin, Aim 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災の場合、消火器を使用して初期消火を行ってください。</code></span><br>
-<em>Kasai no baai, shoukaki wo shiyou shite shoki shouka wo okonatte kudasai.</em><br>
+**火災の場合、消火器を使用して初期消火を行ってください。**  
+*Kasai no baai, shoukaki wo shiyou shite shoki shouka wo okonatte kudasai.*  
 In case of a fire, use the fire extinguisher for initial firefighting.
-<br><br>
-<span class="keigo-jp"><code>レストランの各フロアには消火器が設置されていますので、場所を確認しておいてください。</code></span><br>
-<em>Resutoran no kaku furoa ni wa shoukaki ga secchi sarete imasu node, basho wo kakunin shite oite kudasai.</em><br>
+
+**レストランの各フロアには消火器が設置されていますので、場所を確認しておいてください。**  
+*Resutoran no kaku furoa ni wa shoukaki ga secchi sarete imasu node, basho wo kakunin shite oite kudasai.*  
 Fire extinguishers are installed on each floor of the restaurant, so please confirm their locations.
-<br><br>
-<span class="keigo-jp"><code>消火器は月に一度、スタッフが点検しなければなりません。</code></span><br>
-<em>Shoukaki wa tsuki ni ichido, sutaffu ga tenken shinakereba narimasen.</em><br>
+
+**消火器は月に一度、スタッフが点検しなければなりません。**  
+*Shoukaki wa tsuki ni ichido, sutaffu ga tenken shinakereba narimasen.*  
 Fire extinguishers must be inspected by staff once a month.
-</div>
 
 ## Related Expressions
 

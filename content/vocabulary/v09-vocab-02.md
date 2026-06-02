@@ -10,19 +10,17 @@ In day-to-day service, 予約日 surfaces when a guest questions whether a disco
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約日は2026年3月15日となっております。</code></span><br>
-<em>Go-yoyaku bi wa nisen nijuuroku nen san-gatsu juugo-nichi to natte orimasu.</em><br>
+**ご予約日は2026年3月15日となっております。**  
+*Go-yoyaku bi wa nisen nijuuroku nen san-gatsu juugo-nichi to natte orimasu.*  
 Your reservation was made on March 15, 2026.
-<br><br>
-<span class="keigo-jp"><code>早割の適用には、宿泊日の30日前の予約日が必要です。</code></span><br>
-<em>Hayawari no tekiyou ni wa, shukuhaku bi no sanjuu-nichi mae no yoyaku bi ga hitsuyou desu.</em><br>
+
+**早割の適用には、宿泊日の30日前の予約日が必要です。**  
+*Hayawari no tekiyou ni wa, shukuhaku bi no sanjuu-nichi mae no yoyaku bi ga hitsuyou desu.*  
 To receive the early bird discount, the reservation must be made 30 days before the stay date.
-<br><br>
-<span class="keigo-jp"><code>予約日をご確認のうえ、ご利用プランをご案内いたします。</code></span><br>
-<em>Yoyaku bi o go-kakunin no ue, go-riyou puran o go-annai itashimasu.</em><br>
+
+**予約日をご確認のうえ、ご利用プランをご案内いたします。**  
+*Yoyaku bi o go-kakunin no ue, go-riyou puran o go-annai itashimasu.*  
 We will confirm your reservation date before advising you on the applicable plan.
-</div>
 
 ## Related Expressions
 

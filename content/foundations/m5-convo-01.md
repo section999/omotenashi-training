@@ -73,9 +73,9 @@ Each stage of the check-in dialogue serves a specific purpose:
 |-------|------------|---------|
 | Welcome | いらっしゃいませ | Establishes warm first impression |
 | Name Request | お聞かせいただけますでしょうか | Begins identity verification softly |
-| Identity Confirmation | 〜様でいらっしゃいますね | Confirms politely without sounding interrogative |
+| Identity Confirmation | ○○様でいらっしゃいますね | Confirms politely without sounding interrogative |
 | Reservation Confirmation | お間違いないでしょうか | Prevents errors; shows the hotel is organized |
-| Information Delivery | こちらが〜でございます | Delivers key information clearly |
+| Information Delivery | こちらが○○でございます | Delivers key information clearly |
 | Closing | ごゆっくりお過ごしくださいませ | Ends with warmth, care, and hospitality |
 
 ## The First 10 Seconds
@@ -94,6 +94,7 @@ This means the welcome is not a formality. It is an investment in the entire gue
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>それでは、ごゆっくりお過ごしくださいませ。</code></span><br>
+<em>soredewa, go yukkuri osugoshi kudasaimase.</em><br>
 We hope you enjoy a relaxing stay.
 </div>
 

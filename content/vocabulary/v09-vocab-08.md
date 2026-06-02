@@ -9,19 +9,17 @@ confirming 何泊 is one of the first questions asked during a reservation inqui
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>何泊のご予定でしょうか。</code></span><br>
-<em>Nanpaku no go-yotei deshou ka.</em><br>
+**何泊のご予定でしょうか。**  
+*Nanpaku no go-yotei deshou ka.*  
 How many nights are you planning to stay?
-<br><br>
-<span class="keigo-jp"><code>今回のご予約は2泊3日でございます。</code></span><br>
-<em>Konkai no go-yoyaku wa ni-haku mik-ka de gozaimasu.</em><br>
+
+**今回のご予約は2泊3日でございます。**  
+*Konkai no go-yoyaku wa ni-haku mik-ka de gozaimasu.*  
 Your reservation is for 2 nights and 3 days.
-<br><br>
-<span class="keigo-jp"><code>3泊以上のご滞在には、連泊割引が適用されます。</code></span><br>
-<em>San-paku ijou no go-taizai ni wa, renpaku waribiki ga tekiyou saremasu.</em><br>
+
+**3泊以上のご滞在には、連泊割引が適用されます。**  
+*San-paku ijou no go-taizai ni wa, renpaku waribiki ga tekiyou saremasu.*  
 A consecutive-night discount applies for stays of 3 nights or more.
-</div>
 
 ## Related Expressions
 

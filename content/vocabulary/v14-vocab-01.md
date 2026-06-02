@@ -9,19 +9,17 @@ When working a reception desk or concierge role, the job involves anticipating w
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日は外国人のお客様が多くいらっしゃいますので、英語での対応をお願いいたします。</code></span><br>
-<em>Honjitsu wa gaikokujin no okyakusama ga ooku irasshaimasu node, eigo de no taiou wo onegai itashimasu.</em><br>
+**本日は外国人のお客様が多くいらっしゃいますので、英語での対応をお願いいたします。**  
+*Honjitsu wa gaikokujin no okyakusama ga ooku irasshaimasu node, eigo de no taiou wo onegai itashimasu.*  
 We have many foreign guests today, so please be prepared to assist in English.
-<br><br>
-<span class="keigo-jp"><code>外国人のお客様にはパスポートのご提示をお願いしております。</code></span><br>
-<em>Gaikokujin no okyakusama ni wa pasupoto no goteiji wo onegai shite orimasu.</em><br>
+
+**外国人のお客様にはパスポートのご提示をお願いしております。**  
+*Gaikokujin no okyakusama ni wa pasupoto no goteiji wo onegai shite orimasu.*  
 We ask foreign guests to present their passport.
-<br><br>
-<span class="keigo-jp"><code>このホテルは外国人旅行者に大変人気がございます。</code></span><br>
-<em>Kono hoteru wa gaikokujin ryokousha ni taihen ninki ga gozaimasu.</em><br>
+
+**このホテルは外国人旅行者に大変人気がございます。**  
+*Kono hoteru wa gaikokujin ryokousha ni taihen ninki ga gozaimasu.*  
 This hotel is very popular among foreign travelers.
-</div>
 
 ## Related Expressions
 

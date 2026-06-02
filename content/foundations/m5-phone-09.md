@@ -27,11 +27,14 @@ Transferring a call is not a handoff, it is coordination. The framing of the tra
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>レストランの予約をしたいのですが。</code></span><br>
+<em>resutoran no yoyaku o shitai no desu ga.</em><br>
 I'd like to make a restaurant reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。レストラン担当へおつなぎいたします。少々お待ちくださいませ。</code></span><br>
+<em>kashikomarimashita. resutoran tantou e o tsunagi itashimasu. shoushou omachi kudasaimase.</em><br>
 Certainly. I will connect you to our restaurant team. Please wait a moment.<br><br>
 <em>[After connecting]</em><br><br>
 <strong>Restaurant staff:</strong> <span class="keigo-jp"><code>レストランでございます。お電話ありがとうございます。</code></span><br>
+<em>resutoran de gozaimasu. o-denwa arigatou gozaimasu.</em><br>
 This is the restaurant. Thank you for your call.
 </div>
 
@@ -43,6 +46,7 @@ Holds are moments of silence, and silence creates anxiety. The staff member must
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>確認いたしますので、少々お待ちくださいませ。</code></span><br>
+<em>kakunin itashimasu node, shoushou omachi kudasaimase.</em><br>
 I will check on that, please wait a moment.
 </div>
 
@@ -50,6 +54,7 @@ Never place a guest on hold without explaining what you are checking. The guest 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>大変お待たせいたしました。</code></span><br>
+<em>taihen o-matase itashimashita.</em><br>
 Thank you very much for waiting.
 </div>
 
@@ -59,6 +64,7 @@ Always acknowledge the wait before continuing. 大変 (taihen) emphasizes the ac
 If the check takes longer than expected, return to the line briefly:
 
 <span class="keigo-jp"><code>大変お待たせしております。もう少々お時間をいただけますでしょうか。</code></span><br>
+<em>taihen o-matase shite orimasu. mou shoushou o-jikan o itadake masu deshou ka.</em><br>
 I am sorry to keep you waiting. Could I ask for just a little more time?
 </div>
 
@@ -70,10 +76,13 @@ When a request cannot be handled immediately, offer a callback rather than askin
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>現在担当者が対応中でございます。折り返しご連絡いたしますが、よろしいでしょうか。</code></span><br>
+<em>genzai tantou sha ga taiou chu de gozaimasu. orikaeshi go-renraku itashimasu ga, yoroshii deshou ka.</em><br>
 Our specialist is currently with another guest. May I have us call you back?<br><br>
 <span class="keigo-jp"><code>ご連絡先のお電話番号をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>go-renraku saki no o-denwa bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
 May I take your contact phone number?<br><br>
 <span class="keigo-jp"><code>30分以内にご連絡いたします。</code></span><br>
+<em>30 fun inai ni go-renraku itashimasu.</em><br>
 We will call you within 30 minutes.
 </div>
 

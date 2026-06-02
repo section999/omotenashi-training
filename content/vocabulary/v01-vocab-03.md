@@ -13,19 +13,17 @@ The time window for こんにちは matters. Using the phrase in the early morni
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こんにちは。本日はいかがお過ごしでしょうか。</code></span><br>
-<em>Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.</em><br>
+**こんにちは。本日はいかがお過ごしでしょうか。**  
+*Konnichiwa. Honjitsu wa ikaga o-sugoshi deshō ka.*  
 Good afternoon. How has your day been?
-<br><br>
-<span class="keigo-jp"><code>こんにちは。何かお手伝いできることはございますか。</code></span><br>
-<em>Konnichiwa. Nanika otetsudai dekiru koto wa gozaimasu ka.</em><br>
+
+**こんにちは。何かお手伝いできることはございますか。**  
+*Konnichiwa. Nanika otetsudai dekiru koto wa gozaimasu ka.*  
 Good afternoon. Is there anything I can help you with?
-<br><br>
-<span class="keigo-jp"><code>こんにちは。只今お戻りですか。お荷物をお持ちいたします。</code></span><br>
-<em>Konnichiwa. Tadaima o-modori desu ka. O-nimotsu wo o-mochi itashimasu.</em><br>
+
+**こんにちは。只今お戻りですか。お荷物をお持ちいたします。**  
+*Konnichiwa. Tadaima o-modori desu ka. O-nimotsu wo o-mochi itashimasu.*  
 Good afternoon. Are you just returning? Allow me to carry your bags.
-</div>
 
 ## Related Expressions
 

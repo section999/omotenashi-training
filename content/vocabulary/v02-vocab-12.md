@@ -9,19 +9,17 @@ The most professional way to ask for a signature is こちらにサインをお�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらにサインをお願いいただけますでしょうか。</code></span><br>
-<em>Kochira ni sain o o-negai itadakemasu deshō ka.</em><br>
+**こちらにサインをお願いいただけますでしょうか。**  
+*Kochira ni sain o o-negai itadakemasu deshō ka.*  
 Could you please sign here?
-<br><br>
-<span class="keigo-jp"><code>チェックインの書類にサインをいただきましてありがとうございます。</code></span><br>
-<em>Chekku-in no shorui ni sain o itadakimashite arigatō gozaimasu.</em><br>
+
+**チェックインの書類にサインをいただきましてありがとうございます。**  
+*Chekku-in no shorui ni sain o itadakimashite arigatō gozaimasu.*  
 Thank you for signing the check-in documents.
-<br><br>
-<span class="keigo-jp"><code>クレジットカードのご利用明細にもサインをお願いいたします。</code></span><br>
-<em>Kurejitto-kādo no go-riyō meisai ni mo sain o o-negai itashimasu.</em><br>
+
+**クレジットカードのご利用明細にもサインをお願いいたします。**  
+*Kurejitto-kādo no go-riyō meisai ni mo sain o o-negai itashimasu.*  
 Please also sign the credit card charge slip.
-</div>
 
 ## Related Expressions
 

@@ -13,19 +13,17 @@ In hotel settings, close attention to the time boundary is important. Using a mo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>おはようございます。本日のご朝食はご用意できております。</code></span><br>
-<em>Ohayō gozaimasu. Honjitsu no go-chōshoku wa go-yōi dekite orimasu.</em><br>
+**おはようございます。本日のご朝食はご用意できております。**  
+*Ohayō gozaimasu. Honjitsu no go-chōshoku wa go-yōi dekite orimasu.*  
 Good morning. Your breakfast is ready for you today.
-<br><br>
-<span class="keigo-jp"><code>おはようございます。昨晩はよくおやすみになれましたでしょうか。</code></span><br>
-<em>Ohayō gozaimasu. Sakuban wa yoku oyasumi ni naremashita deshō ka.</em><br>
+
+**おはようございます。昨晩はよくおやすみになれましたでしょうか。**  
+*Ohayō gozaimasu. Sakuban wa yoku oyasumi ni naremashita deshō ka.*  
 Good morning. Were you able to sleep well last night?
-<br><br>
-<span class="keigo-jp"><code>おはようございます。本日もよい一日をお過ごしください。</code></span><br>
-<em>Ohayō gozaimasu. Honjitsu mo yoi ichinichi wo o-sugoshi kudasai.</em><br>
+
+**おはようございます。本日もよい一日をお過ごしください。**  
+*Ohayō gozaimasu. Honjitsu mo yoi ichinichi wo o-sugoshi kudasai.*  
 Good morning. I hope you have a wonderful day today.
-</div>
 
 ## Related Expressions
 

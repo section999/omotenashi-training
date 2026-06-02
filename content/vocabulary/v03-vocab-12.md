@@ -9,19 +9,17 @@ Guests on extended stays may request シーツ交換 mid-stay, and when they do,
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>シーツを清潔なものにお取り替えいたします。少々お時間をいただけますでしょうか。</code></span><br>
-<em>Shiitsu wo seiketsu na mono ni o-torikae itashimasu. Shoushou o-jikan wo itadakemasu deshou ka?</em><br>
+**シーツを清潔なものにお取り替えいたします。少々お時間をいただけますでしょうか。**  
+*Shiitsu wo seiketsu na mono ni o-torikae itashimasu. Shoushou o-jikan wo itadakemasu deshou ka?*  
 We will change your sheets to fresh ones. May we have just a moment?
-<br><br>
-<span class="keigo-jp"><code>ご希望でしたら、毎日シーツを交換することも可能でございます。</code></span><br>
-<em>Go-kibou deshitara, mainichi shiitsu wo koukan suru koto mo kanou de gozaimasu.</em><br>
+
+**ご希望でしたら、毎日シーツを交換することも可能でございます。**  
+*Go-kibou deshitara, mainichi shiitsu wo koukan suru koto mo kanou de gozaimasu.*  
 If you wish, we can change your sheets every day.
-<br><br>
-<span class="keigo-jp"><code>ただいまシーツの交換が完了いたしました。ご不便をおかけし、大変申し訳ございませんでした。</code></span><br>
-<em>Tadaima shiitsu no koukan ga kanryou itashimashita. Go-fuben wo o-kake shi, taihen moushiwake gozaimasen deshita.</em><br>
+
+**ただいまシーツの交換が完了いたしました。ご不便をおかけし、大変申し訳ございませんでした。**  
+*Tadaima shiitsu no koukan ga kanryou itashimashita. Go-fuben wo o-kake shi, taihen moushiwake gozaimasen deshita.*  
 We have now completed the sheet change. We sincerely apologise for any inconvenience caused.
-</div>
 
 ## Related Expressions
 

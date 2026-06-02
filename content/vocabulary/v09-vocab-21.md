@@ -9,19 +9,17 @@ The detail that matters most is the deadline. A guest who hears 「無料キャ�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>このプランは、ご宿泊日の7日前まで無料キャンセルが可能でございます。</code></span><br>
-<em>Kono puran wa, go-shukuhaku-bi no nanokamae made muryou kyanseru ga kanou de gozaimasu.</em><br>
+**このプランは、ご宿泊日の7日前まで無料キャンセルが可能でございます。**  
+*Kono puran wa, go-shukuhaku-bi no nanokamae made muryou kyanseru ga kanou de gozaimasu.*  
 This plan allows free cancellation up to 7 days before the stay.
-<br><br>
-<span class="keigo-jp"><code>無料キャンセルの期限を過ぎてからのご変更には、キャンセル料が発生する場合がございます。</code></span><br>
-<em>Muryou kyanseru no kigen wo sugite kara no go-henkou ni wa, kyanseru ryou ga hassei suru baai ga gozaimasu.</em><br>
+
+**無料キャンセルの期限を過ぎてからのご変更には、キャンセル料が発生する場合がございます。**  
+*Muryou kyanseru no kigen wo sugite kara no go-henkou ni wa, kyanseru ryou ga hassei suru baai ga gozaimasu.*  
 Changes made after the free cancellation deadline may incur a cancellation fee.
-<br><br>
-<span class="keigo-jp"><code>無料キャンセル期間中でしたら、お電話またはメールにてご連絡いただくだけで結構です。</code></span><br>
-<em>Muryou kyanseru kikan-chuu deshitara, o-denwa mata wa meeru nite go-renraku itadaku dake de kekkou desu.</em><br>
+
+**無料キャンセル期間中でしたら、お電話またはメールにてご連絡いただくだけで結構です。**  
+*Muryou kyanseru kikan-chuu deshitara, o-denwa mata wa meeru nite go-renraku itadaku dake de kekkou desu.*  
 During the free cancellation period, contacting us by phone or email is all that is needed.
-</div>
 
 ## Related Expressions
 

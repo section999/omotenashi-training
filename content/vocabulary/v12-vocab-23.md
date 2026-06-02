@@ -10,19 +10,17 @@ Beyond signage, 注意 is part of everyday spoken service. The phrase 足元に�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>清掃後で床が濡れておりますので、足元に十分ご注意ください。</code></span><br>
-<em>Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.</em><br>
+**清掃後で床が濡れておりますので、足元に十分ご注意ください。**  
+*Seisou go de yuka ga nurete orimasu node, ashimoto ni juubun gochuui kudasai.*  
 The floor is wet after cleaning, so please take extra care with your footing.
-<br><br>
-<span class="keigo-jp"><code>温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。</code></span><br>
-<em>Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.</em><br>
+
+**温泉エリアは床が滑りやすくなっておりますので、十分ご注意ください。**  
+*Onsen eria wa yuka ga suberi yasuku natte orimasu node, juubun gochuui kudasai.*  
 The hot spring area has slippery floors, so please exercise great caution.
-<br><br>
-<span class="keigo-jp"><code>回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。</code></span><br>
-<em>Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.</em><br>
+
+**回転扉をご利用の際は、お子様にご注意いただきますようお願いいたします。**  
+*Kaiten tobira wo goriyou no sai wa, okosama ni gochuui itadakimasuyou onegai itashimasu.*  
 When using the revolving door, we ask that you please watch young children carefully.
-</div>
 
 ## Related Expressions
 

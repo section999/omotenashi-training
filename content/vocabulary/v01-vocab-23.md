@@ -16,19 +16,17 @@ In the register hierarchy of acknowledgement phrases:
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>承知いたしました。ただいまご手配いたします。</code></span><br>
-<em>Shōchi itashimashita. Tadaima go-tehai itashimasu.</em><br>
+**承知いたしました。ただいまご手配いたします。**  
+*Shōchi itashimashita. Tadaima go-tehai itashimasu.*  
 Certainly, understood. I will arrange that right now.
-<br><br>
-<span class="keigo-jp"><code>承知いたしました。お部屋に折り返しご連絡いたします。</code></span><br>
-<em>Shōchi itashimashita. O-heya ni orikaeshi go-renraku itashimasu.</em><br>
+
+**承知いたしました。お部屋に折り返しご連絡いたします。**  
+*Shōchi itashimashita. O-heya ni orikaeshi go-renraku itashimasu.*  
 Certainly. I will contact you in the room shortly.
-<br><br>
-<span class="keigo-jp"><code>ご要望承知いたしました。担当者にお伝えいたします。</code></span><br>
-<em>Go-yōbō, shōchi itashimashita. Tantōsha ni o-tsutae itashimasu.</em><br>
+
+**ご要望承知いたしました。担当者にお伝えいたします。**  
+*Go-yōbō, shōchi itashimashita. Tantōsha ni o-tsutae itashimasu.*  
 Your request is noted and understood. I will pass it on to the person in charge.
-</div>
 
 ## Related Expressions
 

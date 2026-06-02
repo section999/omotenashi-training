@@ -10,19 +10,17 @@ A common error is being unsure how to introduce サービス料 in conversation 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>料金にはサービス料10%が含まれております。</code></span><br>
-<em>Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.</em><br>
+**料金にはサービス料10%が含まれております。**  
+*Ryōkin ni wa sābisu ryō jū-pāsento ga fukumarete orimasu.*  
 A service charge of 10% is included in the rate.
-<br><br>
-<span class="keigo-jp"><code>サービス料と消費税を合わせた合計金額は〇〇円でございます。</code></span><br>
-<em>Sābisu ryō to shōhizei o awaseta gōkei kingaku wa 〇〇-en de gozaimasu.</em><br>
+
+**サービス料と消費税を合わせた合計金額は〇〇円でございます。**  
+*Sābisu ryō to shōhizei o awaseta gōkei kingaku wa 〇〇-en de gozaimasu.*  
 The total amount including service charge and consumption tax is [amount] yen.
-<br><br>
-<span class="keigo-jp"><code>お食事代はサービス料別となっておりますのでご確認ください。</code></span><br>
-<em>Oshokuji-dai wa sābisu ryō betsu to natte orimasu node gokakunin kudasai.</em><br>
+
+**お食事代はサービス料別となっておりますのでご確認ください。**  
+*Oshokuji-dai wa sābisu ryō betsu to natte orimasu node gokakunin kudasai.*  
 Please note that the dining charge is subject to an additional service charge.
-</div>
 
 ## Related Expressions
 

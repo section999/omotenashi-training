@@ -9,19 +9,17 @@ Handling a 短縮 request properly starts with pulling up the reservation and re
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>急なご事情でございますね。滞在を1泊短縮する場合、プランの条件によりキャンセル料が発生する場合がございます。</code></span><br>
-<em>Kyuu na go-jijou de gozaimasu ne. Taizai wo ippaku tanshuku suru baai, puran no jouken ni yori kyanseru ryou ga hassei suru baai ga gozaimasu.</em><br>
+**急なご事情でございますね。滞在を1泊短縮する場合、プランの条件によりキャンセル料が発生する場合がございます。**  
+*Kyuu na go-jijou de gozaimasu ne. Taizai wo ippaku tanshuku suru baai, puran no jouken ni yori kyanseru ryou ga hassei suru baai ga gozaimasu.*  
 That must be an unexpected situation. Please be aware that shortening the stay by one night may incur a cancellation charge depending on your booking plan's conditions.
-<br><br>
-<span class="keigo-jp"><code>短縮のご希望を承りました。変更後のチェックアウト日は〇月〇日でよろしいでしょうか。</code></span><br>
-<em>Tanshuku no go-kibou wo uketamawarimashita. Henkou go no chekkuauto bi wa〇gatsu〇ka de yoroshii deshou ka.</em><br>
+
+**短縮のご希望を承りました。変更後のチェックアウト日は〇月〇日でよろしいでしょうか。**  
+*Tanshuku no go-kibou wo uketamawarimashita. Henkou go no chekkuauto bi wa〇gatsu〇ka de yoroshii deshou ka.*  
 I have received your request to shorten the stay. Shall your new checkout date be [date]?
-<br><br>
-<span class="keigo-jp"><code>ご確認いただけましたら、システムの方で短縮手続きを進めさせていただきます。</code></span><br>
-<em>Go-kakunin itadakemashitara, shisutemu no hou de tanshuku tetsuzuki wo susume sasete itadakimasu.</em><br>
+
+**ご確認いただけましたら、システムの方で短縮手続きを進めさせていただきます。**  
+*Go-kakunin itadakemashitara, shisutemu no hou de tanshuku tetsuzuki wo susume sasete itadakimasu.*  
 Once you have confirmed, I will proceed with processing the stay shortening in our system.
-</div>
 
 ## Related Expressions
 

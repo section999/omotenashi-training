@@ -13,19 +13,17 @@ Context matters here. The phrase fits situations where a facility is temporarily
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。</code></span><br>
-<em>Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.</em><br>
+**誠に申し訳ございませんが、ただいまプールのご利用はご遠慮いただいております。ご理解のほど、よろしくお願いいたします。**  
+*Makoto ni moushiwake gozaimasen ga, tadaima pūru no go-riyō wa go-enryo itadaite orimasu. Go-rikai no hodo, yoroshiku o-negai itashimasu.*  
 I am very sorry, but the pool is currently unavailable. We ask for your kind understanding.
-<br><br>
-<span class="keigo-jp"><code>ご不便をおかけいたしますが、ご理解いただけますと幸いです。</code></span><br>
-<em>Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.</em><br>
+
+**ご不便をおかけいたしますが、ご理解いただけますと幸いです。**  
+*Go-fuben wo o-kake itashimasu ga, go-rikai itadakemasu to saiwai desu.*  
 I apologise for the inconvenience. We would be most grateful for your understanding.
-<br><br>
-<span class="keigo-jp"><code>こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。</code></span><br>
-<em>Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.</em><br>
+
+**こちらの施設のご利用には、ご予約が必要でございます。ご理解のほどよろしくお願いいたします。**  
+*Kochira no shisetsu no go-riyō ni wa, go-yoyaku ga hitsuyō de gozaimasu. Go-rikai no hodo yoroshiku o-negai itashimasu.*  
 A reservation is required to use this facility. We thank you for your understanding.
-</div>
 
 ## Related Expressions
 
@@ -33,7 +31,7 @@ A reservation is required to use this facility. We thank you for your understand
 |---|---|
 | ご了承ください<br>go-ryōshō kudasai | "Please note / please accept": slightly more formal, often used in written notices |
 | ご容赦ください<br>go-yōsha kudasai | "Please forgive us / please excuse us": places emphasis on asking for forgiveness rather than understanding |
-| あいにく〜となっております<br>ainiku ~ to natte orimasu | "Unfortunately, ~ is the case": a gentler way to introduce an unavailability |
+| あいにく○○となっております<br>ainiku ~ to natte orimasu | "Unfortunately, ~ is the case": a gentler way to introduce an unavailability |
 
 ## Common Mistakes
 

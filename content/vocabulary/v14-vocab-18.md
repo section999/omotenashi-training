@@ -9,19 +9,17 @@ Staff should get comfortable explaining the layers of the 電車 system: the dif
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>東京では毎日電車に乗ります。</code></span><br>
-<em>Toukyou de wa mainichi densha ni norimasu.</em><br>
+**東京では毎日電車に乗ります。**  
+*Toukyou de wa mainichi densha ni norimasu.*  
 I take the train every day in Tokyo.
-<br><br>
-<span class="keigo-jp"><code>当ホテルから最寄り駅まで徒歩三分で、電車でどこへでもアクセスいただけます。</code></span><br>
-<em>Tou hoteru kara moyori eki made toho sanpun de, densha de doko e de mo akusesu itadakemasu.</em><br>
+
+**当ホテルから最寄り駅まで徒歩三分で、電車でどこへでもアクセスいただけます。**  
+*Tou hoteru kara moyori eki made toho sanpun de, densha de doko e de mo akusesu itadakemasu.*  
 The nearest station is a three-minute walk from our hotel, giving you train access to anywhere.
-<br><br>
-<span class="keigo-jp"><code>空港へは成田エクスプレスという電車が便利でございます。</code></span><br>
-<em>Kuukou e wa Narita Ekusupuresu to iu densha ga benri de gozaimasu.</em><br>
+
+**空港へは成田エクスプレスという電車が便利でございます。**  
+*Kuukou e wa Narita Ekusupuresu to iu densha ga benri de gozaimasu.*  
 The Narita Express train is convenient for getting to the airport.
-</div>
 
 ## Related Expressions
 

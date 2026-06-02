@@ -9,19 +9,17 @@ The recommended standard is what practitioners call a warm transfer. Before conn
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>担当部署に転送いたしますので、少々お待ちくださいませ。</code></span><br>
-<em>Tantou busho ni tensou itashimasu node, shoushou omachi kudasaimase.</em><br>
+**担当部署に転送いたしますので、少々お待ちくださいませ。**  
+*Tantou busho ni tensou itashimasu node, shoushou omachi kudasaimase.*  
 I will transfer you to the department in charge, so please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>レストランのご予約につきましては、レストラン直通に転送させていただきます。</code></span><br>
-<em>Resutoran no go-yoyaku ni tsukimashite wa, resutoran chokutsuu ni tensou sasete itadakimasu.</em><br>
+
+**レストランのご予約につきましては、レストラン直通に転送させていただきます。**  
+*Resutoran no go-yoyaku ni tsukimashite wa, resutoran chokutsuu ni tensou sasete itadakimasu.*  
 For restaurant reservations, I will transfer you directly to the restaurant.
-<br><br>
-<span class="keigo-jp"><code>転送いたします前に、担当者に内容をお伝えしておきます。</code></span><br>
-<em>Tensou itashimasu mae ni, tantousha ni naiyou wo otsurae shite okimasu.</em><br>
+
+**転送いたします前に、担当者に内容をお伝えしておきます。**  
+*Tensou itashimasu mae ni, tantousha ni naiyou wo otsurae shite okimasu.*  
 Before I transfer you, I will inform the responsible staff member of the details.
-</div>
 
 ## Related Expressions
 

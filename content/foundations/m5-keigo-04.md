@@ -18,45 +18,83 @@ These are the most important humble verbs. Each has a completely new form with n
 
 | Plain Form | Kenjogo Form | Meaning in Context |
 |---|---|---|
-| 行く | 参ります | I go (toward the guest) |
-| 行く | 伺います | I visit / go humbly |
-| 来る | 参ります | I come |
-| いる | おります | I am here |
-| 言う | 申します | I say |
-| する | いたします | I do |
-| 聞く / 訪ねる | 伺います | I ask / I visit |
-| もらう | いただきます | I humbly receive |
-| 見る | 拝見します | I look at / I read (humbly) |
-| 知る | 存じます | I know |
-| 食べる / 飲む | いただきます | I humbly eat / drink |
-| あげる | 差し上げます | I give (to the guest) |
+| <span>行く</span> | <span>参ります</span> | I go (toward the guest) |
+| <span>行く</span> | <span>伺います</span> | I visit / go humbly |
+| <span>来る</span> | <span>参ります</span> | I come |
+| <span>いる</span> | <span>おります</span> | I am here |
+| <span>言う</span> | <span>申します</span> | I say |
+| <span>する</span> | <span>いたします</span> | I do |
+| <span>聞く / 訪ねる</span> | <span>伺います</span> | I ask / I visit |
+| <span>もらう</span> | <span>いただきます</span> | I humbly receive |
+| <span>見る</span> | <span>拝見します</span> | I look at / I read (humbly) |
+| <span>知る</span> | <span>存じます</span> | I know |
+| <span>食べる / 飲む</span> | <span>いただきます</span> | I humbly eat / drink |
+| <span>あげる</span> | <span>差し上げます</span> | I give (to the guest) |
 
 ## Group 2: Regular Kenjogo Pattern
 
-For verbs without special irregular forms, use:
+For verbs that do not have a special irregular kenjogo form, apply this formula:
 
-**お + verb stem (masu-stem) + いたします / します**
+**お + [masu-stem] + いたします**
+
+The masu-stem is the verb in its ます form with ます removed. For example:
+
+| Plain | ます form | Masu-stem | Kenjogo |
+|---|---|---|---|
+| <span>持つ</span> | <span>持ちます</span> | <span>持ち</span> | <span>お持ちいたします</span> |
+| <span>届ける</span> | <span>届けます</span> | <span>届け</span> | <span>お届けいたします</span> |
+| <span>調べる</span> | <span>調べます</span> | <span>調べ</span> | <span>お調べいたします</span> |
+
+**More examples:**
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>お持ちいたします</code></span>: I will carry / bring<br>
-<span class="keigo-jp"><code>お届けいたします</code></span>: I will deliver<br>
-<span class="keigo-jp"><code>お調べいたします</code></span>: I will look into it<br>
-<span class="keigo-jp"><code>お伝えいたします</code></span>: I will convey the message<br>
-<span class="keigo-jp"><code>お連れいたします</code></span>: I will accompany / take you
+<span class="keigo-jp"><code>お持ちいたします</code></span><br>
+<em>o-mochi itashimasu</em><br>
+I will carry / bring<br><br>
+<span class="keigo-jp"><code>お届けいたします</code></span><br>
+<em>o-todoke itashimasu</em><br>
+I will deliver<br><br>
+<span class="keigo-jp"><code>お調べいたします</code></span><br>
+<em>o-shirabe itashimasu</em><br>
+I will look into it<br><br>
+<span class="keigo-jp"><code>お伝えいたします</code></span><br>
+<em>o-tsutae itashimasu</em><br>
+I will convey the message<br><br>
+<span class="keigo-jp"><code>お連れいたします</code></span><br>
+<em>o-tsure itashimasu</em><br>
+I will accompany / take you
 </div>
-
-Construction: お + [verb masu-stem] + いたします. For example: 持ちます → お持ちいたします, 届けます → お届けいたします.
 
 ## Group 3: ご + Sino-Japanese Verb Stems
 
-For Chinese-origin (漢語) verb stems, use ご instead of お:
+For verb stems of Chinese origin (漢語), use **ご** instead of お. These stems are typically two-kanji compounds used with する.
+
+**ご + [漢語 noun stem] + いたします**
+
+| Plain (する form) | Noun stem | Kenjogo |
+|---|---|---|
+| <span>案内する</span> | <span>案内</span> | <span>ご案内いたします</span> |
+| <span>確認する</span> | <span>確認</span> | <span>ご確認いたします</span> |
+| <span>連絡する</span> | <span>連絡</span> | <span>ご連絡いたします</span> |
+
+**More examples:**
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>ご案内いたします</code></span>: I will guide you<br>
-<span class="keigo-jp"><code>ご確認いたします</code></span>: I will confirm<br>
-<span class="keigo-jp"><code>ご連絡いたします</code></span>: I will contact you<br>
-<span class="keigo-jp"><code>ご用意いたします</code></span>: I will prepare<br>
-<span class="keigo-jp"><code>ご説明いたします</code></span>: I will explain
+<span class="keigo-jp"><code>ご案内いたします</code></span><br>
+<em>go-annai itashimasu</em><br>
+I will guide you<br><br>
+<span class="keigo-jp"><code>ご確認いたします</code></span><br>
+<em>go-kakunin itashimasu</em><br>
+I will confirm<br><br>
+<span class="keigo-jp"><code>ご連絡いたします</code></span><br>
+<em>go-renraku itashimasu</em><br>
+I will contact you<br><br>
+<span class="keigo-jp"><code>ご用意いたします</code></span><br>
+<em>go-youi itashimasu</em><br>
+I will prepare<br><br>
+<span class="keigo-jp"><code>ご説明いたします</code></span><br>
+<em>go-setsumei itashimasu</em><br>
+I will explain
 </div>
 
 ## Applied Kenjogo: Hotel Scenarios
@@ -97,10 +135,13 @@ I will guide you to your room.<br><br>
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
+<em>go-yoyaku o uketamawarimashita.</em><br>
 I have received your reservation.<br><br>
 <span class="keigo-jp"><code>ご注文を承ります。</code></span><br>
+<em>go chumon o uketamawarimasu.</em><br>
 I will take your order.<br><br>
 <span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
+<em>go-youbou o uketamawarimashita.</em><br>
 I have received your request.
 </div>
 
@@ -110,26 +151,49 @@ I have received your request.
 
 Just as sonkeigo must never be applied to staff, kenjogo must never be applied to guests. This reverses the hospitality relationship.
 
-<div class="keigo-card blue">
-<strong>Wrong:</strong> <span class="keigo-jp"><code>お客様がいらっしゃいます → おります？</code></span><br>
-<strong>Wrong:</strong> <span class="keigo-jp"><code>お客様が参ります。</code></span><br><br>
-<strong>Correct:</strong> <span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
-<strong>Correct:</strong> <span class="keigo-jp"><code>お客様がお越しになります。</code></span>
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>お客様がおります。</code></span><br>
+The guest is here.<br><br>
+<span class="keigo-badge bad">Wrong</span> おります is the 謙譲語 form of いる. Using it for the guest linguistically lowers the guest.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span class="keigo-jp"><code>お客様がいらっしゃいます。</code></span><br>
+The guest is here.<br><br>
+<span class="keigo-badge good">Correct</span> いらっしゃいます is the 尊敬語 form of いる; it elevates the guest's presence appropriately.
+</div>
 </div>
 
-おります is a humble form; using it for the guest lowers the guest. 参ります is also humble, so applying it to the guest's arrival treats them as a lower-status person. Always use 尊敬語 forms such as いらっしゃいます or お越しになります for the guest.
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Wrong</span>
+<span class="keigo-jp"><code>お客様が参ります。</code></span><br>
+The guest is coming.<br><br>
+<span class="keigo-badge bad">Wrong</span> 参ります is the 謙譲語 form of 来る. Applying it to the guest treats them as a lower-status person.
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Correct</span>
+<span class="keigo-jp"><code>お客様がお越しになります。</code></span><br>
+The guest is coming.<br><br>
+<span class="keigo-badge good">Correct</span> お越しになります is the 尊敬語 form appropriate for the guest's arrival.
+</div>
+</div>
+
+The rule is absolute: kenjogo forms belong to the staff. The guest always receives 尊敬語.
 
 ---
 
 ## Quiz
 
-**A guest asks staff to check on their room. Which response uses 謙譲語 correctly?**
+**A staff member needs to announce that the guest has arrived. Which sentence is correct?**
 
-- A. 「確認します」
-- B. 「確認なさいます」
-- C. 「ただいまご確認いたします」
-- D. 「確認いたされます」
+- A. お客様が参ります。
+- B. お客様がおります。
+- C. お客様がいらっしゃいます。
+- D. お客様がいたします。
 
 **Correct Answer:** C
 
-**Explanation:** 確認いたします uses いたします, the humble form of する, placing the staff in a service role appropriate for 謙譲語. ただいま (right now) adds urgency and care. Option A is plain language with no keigo. Option B uses なさいます, which is a sonkeigo form appropriate only for the guest's actions. Option D is grammatically incorrect. When staff describe their own actions, 謙譲語 always applies.
+**Explanation:** The guest's existence and arrival must always be expressed in 尊敬語. いらっしゃいます is the sonkeigo form of いる and 来る, making option C correct. Option A uses 参ります, the 謙譲語 form of 来る; applying it to the guest lowers them, which is the opposite of hospitality. Option B uses おります, the 謙譲語 form of いる; same error. Option D uses いたします, the humble form of する, which makes no grammatical sense here. Kenjogo forms belong to the staff only.

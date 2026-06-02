@@ -10,19 +10,17 @@ The key is confirming the details before heading out: the room number, the prefe
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>洗濯物は本日の夕方6時にお部屋へ配達いたします。</code></span><br>
-<em>Sentakumono wa honjitsu no yuugata roku-ji ni o-heya e haitatsu itashimasu.</em><br>
+**洗濯物は本日の夕方6時にお部屋へ配達いたします。**  
+*Sentakumono wa honjitsu no yuugata roku-ji ni o-heya e haitatsu itashimasu.*  
 Your laundry will be delivered to the room this evening at 6:00 PM.
-<br><br>
-<span class="keigo-jp"><code>フロント宛てに荷物が届いておりますので、ご都合のよいときにお受け取りください。</code></span><br>
-<em>Furonto ate ni nimotsu ga todoite orimasu no de, go-tsugou no yoi toki ni o-uketori kudasai.</em><br>
+
+**フロント宛てに荷物が届いておりますので、ご都合のよいときにお受け取りください。**  
+*Furonto ate ni nimotsu ga todoite orimasu no de, go-tsugou no yoi toki ni o-uketori kudasai.*  
 A package has been delivered to the front desk for you; please collect it at your convenience.
-<br><br>
-<span class="keigo-jp"><code>配達時間のご希望がございましたら、お気軽にお申し付けください。</code></span><br>
-<em>Haitatsu jikan no go-kibou ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.</em><br>
+
+**配達時間のご希望がございましたら、お気軽にお申し付けください。**  
+*Haitatsu jikan no go-kibou ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.*  
 If you have a preferred delivery time, please feel free to let us know.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ During a 会議, everyone is expected to speak concisely, listen without interru
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>明日の会議は午前10時からフロントにて開催いたします。</code></span><br>
-<em>Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.</em><br>
+**明日の会議は午前10時からフロントにて開催いたします。**  
+*Ashita no kaigi wa gozen juuji kara furonto ni te kaisai itashimasu.*  
 Tomorrow's meeting will be held at the front desk starting at 10 AM.
-<br><br>
-<span class="keigo-jp"><code>本日の会議の議事録をまとめて、各部門へ共有いたします。</code></span><br>
-<em>Honjitsu no kaigi no gijiroku wo matomete, kaku bumon e kyouyuu itashimasu.</em><br>
+
+**本日の会議の議事録をまとめて、各部門へ共有いたします。**  
+*Honjitsu no kaigi no gijiroku wo matomete, kaku bumon e kyouyuu itashimasu.*  
 I will compile the minutes from today's meeting and share them with each department.
-<br><br>
-<span class="keigo-jp"><code>来週の会議では、ゴールデンウィーク期間中の対応について話し合う予定です。</code></span><br>
-<em>Raishuu no kaigi de wa, Gooruden Wiiku kikan-chuu no taiou ni tsuite hanashiau yotei desu.</em><br>
+
+**来週の会議では、ゴールデンウィーク期間中の対応について話し合う予定です。**  
+*Raishuu no kaigi de wa, Gooruden Wiiku kikan-chuu no taiou ni tsuite hanashiau yotei desu.*  
 In next week's meeting, we plan to discuss how to handle the Golden Week period.
-</div>
 
 ## Related Expressions
 

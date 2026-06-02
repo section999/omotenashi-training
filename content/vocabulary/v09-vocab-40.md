@@ -10,19 +10,17 @@ When using 手配 in speech, 手配いたします is the expected humble form a
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>空港までのタクシーを手配いたします。</code></span><br>
-<em>Kuukou made no takushii wo tehai itashimasu.</em><br>
+**空港までのタクシーを手配いたします。**  
+*Kuukou made no takushii wo tehai itashimasu.*  
 We will arrange a taxi to the airport for you.
-<br><br>
-<span class="keigo-jp"><code>お部屋にお花を手配させていただきました。</code></span><br>
-<em>Oheya ni ohana wo tehai sasete itadakimashita.</em><br>
+
+**お部屋にお花を手配させていただきました。**  
+*Oheya ni ohana wo tehai sasete itadakimashita.*  
 We have arranged flowers for the room.
-<br><br>
-<span class="keigo-jp"><code>ご要望のレストランのご予約も手配いたします。</code></span><br>
-<em>Go-youbou no resutoran no go-yoyaku mo tehai itashimasu.</em><br>
+
+**ご要望のレストランのご予約も手配いたします。**  
+*Go-youbou no resutoran no go-yoyaku mo tehai itashimasu.*  
 We will also arrange a reservation at your requested restaurant.
-</div>
 
 ## Related Expressions
 

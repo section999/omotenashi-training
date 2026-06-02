@@ -9,19 +9,17 @@ title: 修理 (shuuri)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エアコンの修理は、ただちに手配いたします。</code></span><br>
-<em>Eakon no shuuri wa, tadachi ni tehai itashimasu.</em><br>
+**エアコンの修理は、ただちに手配いたします。**  
+*Eakon no shuuri wa, tadachi ni tehai itashimasu.*  
 We will immediately arrange the repair of the air conditioner.
-<br><br>
-<span class="keigo-jp"><code>修理が完了するまで、代替品をご用意いたします。</code></span><br>
-<em>Shuuri ga kanryou suru made, daitaihin wo go-youi itashimasu.</em><br>
+
+**修理が完了するまで、代替品をご用意いたします。**  
+*Shuuri ga kanryou suru made, daitaihin wo go-youi itashimasu.*  
 We will prepare a replacement item until the repair is complete.
-<br><br>
-<span class="keigo-jp"><code>本日中に修理が完了する予定でございます。</code></span><br>
-<em>Honjitsu-juu ni shuuri ga kanryou suru yotei de gozaimasu.</em><br>
+
+**本日中に修理が完了する予定でございます。**  
+*Honjitsu-juu ni shuuri ga kanryou suru yotei de gozaimasu.*  
 The repair is scheduled to be completed today.
-</div>
 
 ## Related Expressions
 

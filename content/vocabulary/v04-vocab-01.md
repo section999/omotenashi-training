@@ -9,19 +9,17 @@ In daily hotel operations, 掃除 runs on a schedule, typically each morning aft
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>毎朝、客室の掃除を丁寧に行っております。</code></span><br>
-<em>Maiasa, kyakushitsu no souji wo teinei ni okonatte orimasu.</em><br>
+**毎朝、客室の掃除を丁寧に行っております。**  
+*Maiasa, kyakushitsu no souji wo teinei ni okonatte orimasu.*  
 We carry out careful cleaning of the guest rooms every morning.
-<br><br>
-<span class="keigo-jp"><code>ただいま掃除中でございますので、少々お待ちいただけますでしょうか。</code></span><br>
-<em>Tadaima souji-chuu de gozaimasu node, shoushou omachi itadakemasu deshou ka.</em><br>
+
+**ただいま掃除中でございますので、少々お待ちいただけますでしょうか。**  
+*Tadaima souji-chuu de gozaimasu node, shoushou omachi itadakemasu deshou ka.*  
 We are currently cleaning, so may I ask you to wait just a moment?
-<br><br>
-<span class="keigo-jp"><code>掃除のご希望のお時間がございましたら、フロントまでお申し付けください。</code></span><br>
-<em>Souji no gokibou no ojikan ga gozaimashitara, furonto made omoushitsuke kudasai.</em><br>
+
+**掃除のご希望のお時間がございましたら、フロントまでお申し付けください。**  
+*Souji no gokibou no ojikan ga gozaimashitara, furonto made omoushitsuke kudasai.*  
 If you have a preferred time for cleaning, please let us know at the front desk.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ Staff encounter ご連絡 across a wide range of standard phrases: ご連絡を�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご連絡をお待ちしております。</code></span><br>
-<em>Go-renraku wo omachi shite orimasu.</em><br>
+**ご連絡をお待ちしております。**  
+*Go-renraku wo omachi shite orimasu.*  
 We look forward to your contact / hearing from you.
-<br><br>
-<span class="keigo-jp"><code>ご連絡いただきありがとうございます。担当者より折り返しご連絡いたします。</code></span><br>
-<em>Go-renraku itadaki arigatou gozaimasu. Tantousha yori orikaeshi go-renraku itashimasu.</em><br>
+
+**ご連絡いただきありがとうございます。担当者より折り返しご連絡いたします。**  
+*Go-renraku itadaki arigatou gozaimasu. Tantousha yori orikaeshi go-renraku itashimasu.*  
 Thank you for reaching out. The person in charge will contact you shortly.
-<br><br>
-<span class="keigo-jp"><code>何かご不明な点がございましたら、いつでもご連絡ください。</code></span><br>
-<em>Nanika go-fumei na ten ga gozaimashitara, itsudemo go-renraku kudasai.</em><br>
+
+**何かご不明な点がございましたら、いつでもご連絡ください。**  
+*Nanika go-fumei na ten ga gozaimashitara, itsudemo go-renraku kudasai.*  
 If you have any questions at all, please contact us at any time.
-</div>
 
 ## Related Expressions
 

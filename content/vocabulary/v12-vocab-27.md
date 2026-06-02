@@ -10,19 +10,17 @@ In operational language, 安全確認を行う or 安全確認を実施する ar
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>朝のサービス開始前に、全設備の安全確認を実施しております。</code></span><br>
-<em>Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.</em><br>
+**朝のサービス開始前に、全設備の安全確認を実施しております。**  
+*Asa no saabisu kaishi mae ni, zen setsubi no anzen kakunin wo jisshi shite orimasu.*  
 We conduct safety checks on all facilities before morning service begins.
-<br><br>
-<span class="keigo-jp"><code>エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。</code></span><br>
-<em>Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.</em><br>
+
+**エレベーター使用前に安全確認を行い、問題がないことを確認いたしました。**  
+*Erebeetaa shiyou mae ni anzen kakunin wo okonai, mondai ga nai koto wo kakunin itashimashita.*  
 We conducted a safety check before elevator use and confirmed there were no issues.
-<br><br>
-<span class="keigo-jp"><code>ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。</code></span><br>
-<em>Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.</em><br>
+
+**ご不便をおかけいたしますが、プールは安全確認のため一時的に閉鎖しております。**  
+*Go-fuben wo okake itashimasu ga, puuru wa anzen kakunin no tame ichijiteki ni heisa shite orimasu.*  
 We apologize for the inconvenience, but the pool is temporarily closed for a safety check.
-</div>
 
 ## Related Expressions
 

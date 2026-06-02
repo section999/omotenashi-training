@@ -5,23 +5,21 @@ title: 案内します (annai shimasu)
 ---
 案内します means "I will guide you" or "I will direct you," from the noun 案内 (guidance, directions, information). it is used whenever giving directional help: walking a guest to their room, pointing something out on a map, describing a route over the phone. In higher-end hotels the expected form is ご案内いたします, the humble keigo variant that signals one is placing oneself in service to the guest rather than offering directions. This phrase comes up frequently in hotel lobbies and during telephone inquiries, so getting the register right is important.
 
-On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide one to the lobby) and then walk the guest through the route step by step. Landmark-based directions work better on the phone than left and right instructions, because the guest has no visual reference. Giving them something to look for, such as 〜の隣 (next to) or 〜の前 (in front of), and checking in after each segment rather than delivering everything at once, is recommended: こちらはご理解いただけましたでしょうか (was this part clear to one?) gives the guest space to confirm before staff moves on
+On the telephone, 案内します shifts into a purely verbal guidance role. A front desk agent might say ロビーへの行き方をご案内いたします (I will guide one to the lobby) and then walk the guest through the route step by step. Landmark-based directions work better on the phone than left and right instructions, because the guest has no visual reference. Giving them something to look for, such as ○○の隣 (next to) or ○○の前 (in front of), and checking in after each segment rather than delivering everything at once, is recommended: こちらはご理解いただけましたでしょうか (was this part clear to one?) gives the guest space to confirm before staff moves on
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいまお部屋までご案内いたします。こちらへどうぞ。</code></span><br>
-<em>Tadaima oheya made go-annai itashimasu. Kochira e douzo.</em><br>
+**ただいまお部屋までご案内いたします。こちらへどうぞ。**  
+*Tadaima oheya made go-annai itashimasu. Kochira e douzo.*  
 I will guide you to the room now. This way, please.
-<br><br>
-<span class="keigo-jp"><code>お電話でのご案内となりますが、レストランの場所をご説明いたします。</code></span><br>
-<em>Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.</em><br>
+
+**お電話でのご案内となりますが、レストランの場所をご説明いたします。**  
+*Odenwa de no go-annai to narimasu ga, resutoran no basho wo go-setsumei itashimasu.*  
 I will guide you by telephone, and explain the location of the restaurant.
-<br><br>
-<span class="keigo-jp"><code>ロビーまでご案内いたしますので、少々お待ちくださいませ。</code></span><br>
-<em>Robii made go-annai itashimasu node, shoushou omachi kudasaimase.</em><br>
+
+**ロビーまでご案内いたしますので、少々お待ちくださいませ。**  
+*Robii made go-annai itashimasu node, shoushou omachi kudasaimase.*  
 I will guide you to the lobby, so please wait just a moment.
-</div>
 
 ## Related Expressions
 
@@ -49,4 +47,4 @@ Dropping the ご prefix and saying 案内します in a guest-facing situation i
 
 **Correct Answer:** 案内します (I will guide you)
 
-**Explanation:** 案内します means to guide someone directionally, and its humble form ご案内いたします is the expected register when speaking with guests rather than colleagues. 説明します covers informational explanation, 確認いたします is a promise to verify, and お繋ぎします redirects someone to a person, none of which carry the sense of physically or verbally guiding someone to a place. On the telephone, landmark-based directions (〜の隣, 〜の前) serve the guest far better than left-and-right instructions because they give a concrete visual anchor when no map is visible.
+**Explanation:** 案内します means to guide someone directionally, and its humble form ご案内いたします is the expected register when speaking with guests rather than colleagues. 説明します covers informational explanation, 確認いたします is a promise to verify, and お繋ぎします redirects someone to a person, none of which carry the sense of physically or verbally guiding someone to a place. On the telephone, landmark-based directions (○○の隣, ○○の前) serve the guest far better than left-and-right instructions because they give a concrete visual anchor when no map is visible.

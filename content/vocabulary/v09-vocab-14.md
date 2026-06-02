@@ -9,19 +9,17 @@ title: 割引 (waribiki)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>早割プランをご利用いただくと、通常料金より20％割引となっております。</code></span><br>
-<em>Hayawari puran wo go-riyou itadaku to, tsuujou ryoukin yori nijuu-paasento waribiki to natte orimasu.</em><br>
+**早割プランをご利用いただくと、通常料金より20％割引となっております。**  
+*Hayawari puran wo go-riyou itadaku to, tsuujou ryoukin yori nijuu-paasento waribiki to natte orimasu.*  
 If you use our early-bird plan, one will receive a 20% discount off the standard rate.
-<br><br>
-<span class="keigo-jp"><code>会員様には10％の割引が適用されます。</code></span><br>
-<em>Kaiin-sama ni wa juu-paasento no waribiki ga tekiyou saremasu.</em><br>
+
+**会員様には10％の割引が適用されます。**  
+*Kaiin-sama ni wa juu-paasento no waribiki ga tekiyou saremasu.*  
 A 10% discount is applied for members.
-<br><br>
-<span class="keigo-jp"><code>割引後の金額は合計で15,000円でございます。</code></span><br>
-<em>Waribiki go no kingaku wa goukei de ichiman-gosen-en de gozaimasu.</em><br>
+
+**割引後の金額は合計で15,000円でございます。**  
+*Waribiki go no kingaku wa goukei de ichiman-gosen-en de gozaimasu.*  
 The total amount after the discount is 15,000 yen.
-</div>
 
 ## Related Expressions
 

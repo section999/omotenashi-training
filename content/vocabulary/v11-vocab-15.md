@@ -10,19 +10,17 @@ The professional standard is to pair the status with an action. ただいま通�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいま通話中です。少々お待ちいただけますか。</code></span><br>
-<em>Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.</em><br>
+**ただいま通話中です。少々お待ちいただけますか。**  
+*Tadaima tsuuwachuu desu. Shoushou omachi itadakemasu ka.*  
 The line is currently busy. Could you wait a moment?
-<br><br>
-<span class="keigo-jp"><code>担当者はただいま通話中でございますので、折り返しご連絡いたします。</code></span><br>
-<em>Tantousha wa tadaima tsuuwachuu de gozaimasu node, orikaeshi go-renraku itashimasu.</em><br>
+
+**担当者はただいま通話中でございますので、折り返しご連絡いたします。**  
+*Tantousha wa tadaima tsuuwachuu de gozaimasu node, orikaeshi go-renraku itashimasu.*  
 The person in charge is currently on a call, so we will call you back.
-<br><br>
-<span class="keigo-jp"><code>通話中のため繋がりにくい場合は、しばらく経ってからおかけ直しください。</code></span><br>
-<em>Tsuuwachuu no tame tsunagarinikui baai wa, shibaraku tatte kara okake naoshi kudasai.</em><br>
+
+**通話中のため繋がりにくい場合は、しばらく経ってからおかけ直しください。**  
+*Tsuuwachuu no tame tsunagarinikui baai wa, shibaraku tatte kara okake naoshi kudasai.*  
 If you have difficulty connecting because the line is busy, please try calling again after a short while.
-</div>
 
 ## Related Expressions
 

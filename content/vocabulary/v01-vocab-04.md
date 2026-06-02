@@ -13,19 +13,17 @@ The phrase has the same structural origin as こんにちは, both were once par
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こんばんは。お疲れのところ、ようこそお越しくださいました。</code></span><br>
-<em>Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.</em><br>
+**こんばんは。お疲れのところ、ようこそお越しくださいました。**  
+*Konbanwa. O-tsukare no tokoro, yōkoso o-koshi kudasaimashita.*  
 Good evening. Welcome, and thank you for coming despite your tiredness.
-<br><br>
-<span class="keigo-jp"><code>こんばんは。お夕食はご予約をいただいておりますでしょうか。</code></span><br>
-<em>Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.</em><br>
+
+**こんばんは。お夕食はご予約をいただいておりますでしょうか。**  
+*Konbanwa. O-yūshoku wa go-yoyaku wo itadaite orimasu deshō ka.*  
 Good evening. Do you have a dinner reservation with us?
-<br><br>
-<span class="keigo-jp"><code>こんばんは。本日もご利用ありがとうございます。</code></span><br>
-<em>Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.</em><br>
+
+**こんばんは。本日もご利用ありがとうございます。**  
+*Konbanwa. Honjitsu mo go-riyō arigatō gozaimasu.*  
 Good evening. Thank you for choosing us again today.
-</div>
 
 ## Related Expressions
 

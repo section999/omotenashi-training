@@ -9,19 +9,17 @@ announcing 満席 is never the end of the conversation. The staff member must im
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。</code></span><br>
-<em>Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.</em><br>
+**ただいま満席でございます。よろしければお名前をお伺いし、順番にご案内いたします。**  
+*Tadaima manseki de gozaimasu. Yoroshikereba o-namae wo o-ukagai shi, junban ni go-annai itashimasu.*  
 We are fully seated at the moment. If you like, I can take your name and seat you in order.
-<br><br>
-<span class="keigo-jp"><code>大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。</code></span><br>
-<em>Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.</em><br>
+
+**大変申し訳ございませんが、ただいま満席でございます。30分ほどお待ちいただけますでしょうか。**  
+*Taihen moushiwake gozaimasen ga, tadaima manseki de gozaimasu. Sanjuppun hodo o-machi itadakemasu deshou ka.*  
 We sincerely apologize, but we are fully seated at the moment. Would you be able to wait approximately 30 minutes?
-<br><br>
-<span class="keigo-jp"><code>本日は満席でございますが、明日のご予約は承っております。</code></span><br>
-<em>Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.</em><br>
+
+**本日は満席でございますが、明日のご予約は承っております。**  
+*Honjitsu wa manseki de gozaimasu ga, ashita no go-yoyaku wa uketamawatte orimasu.*  
 We are fully booked today, but we are accepting reservations for tomorrow.
-</div>
 
 ## Related Expressions
 

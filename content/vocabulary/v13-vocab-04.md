@@ -10,19 +10,17 @@ Because so much hospitality work is shift-based and fast-moving, trust among 同
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>同僚と一緒に会議の準備をしました。</code></span><br>
-<em>Douryou to issho ni kaigi no junbi o shimashita.</em><br>
+**同僚と一緒に会議の準備をしました。**  
+*Douryou to issho ni kaigi no junbi o shimashita.*  
 I prepared for the meeting with my colleague.
-<br><br>
-<span class="keigo-jp"><code>同僚が急に体調を崩したので、シフトを代わりました。</code></span><br>
-<em>Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.</em><br>
+
+**同僚が急に体調を崩したので、シフトを代わりました。**  
+*Douryou ga kyuu ni taichou o kuzushita node, shifuto o kawarimashita.*  
 I covered my colleague's shift because they suddenly fell ill.
-<br><br>
-<span class="keigo-jp"><code>フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。</code></span><br>
-<em>Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.</em><br>
+
+**フロントの同僚と情報を共有して、スムーズなチェックインを実現しました。**  
+*Furonto no douryou to jouhou o kyouyuu shite, sumuuzu na chekku-in o jitsugen shimashita.*  
 By sharing information with my front-desk colleague, we achieved a smooth check-in.
-</div>
 
 ## Related Expressions
 

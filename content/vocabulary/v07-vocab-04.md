@@ -9,19 +9,17 @@ Beyond confirming availability, staff should be prepared to assist with valet pa
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。</code></span><br>
-<em>Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.</em><br>
+**駐車場をご利用いただけます。ご入庫の際はフロントにてお申し付けくださいませ。**  
+*Chuushajou wo go-riyou itadakemasu. Go-nyuuko no sai wa furonto ni te o-moushitsuke kudasaimase.*  
 You may use the parking lot. Please notify the front desk when one enter.
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、駐車場は現在満車でございます。近隣のコインパーキングをご案内いたしましょうか。</code></span><br>
-<em>Osoreirimasu ga, chuushajou wa genzai mansha de gozaimasu. Kinrin no koin paakingu wo go-annai itashimashou ka.</em><br>
+
+**恐れ入りますが、駐車場は現在満車でございます。近隣のコインパーキングをご案内いたしましょうか。**  
+*Osoreirimasu ga, chuushajou wa genzai mansha de gozaimasu. Kinrin no koin paakingu wo go-annai itashimashou ka.*  
 I'm terribly sorry, but our parking lot is currently full. Shall I direct you to a nearby coin car park?
-<br><br>
-<span class="keigo-jp"><code>駐車場は地下1階にございまして、車高制限は2メートルでございます。</code></span><br>
-<em>Chuushajou wa chika ikkai ni gozaimashite, shako seigen wa ni meetoru de gozaimasu.</em><br>
+
+**駐車場は地下1階にございまして、車高制限は2メートルでございます。**  
+*Chuushajou wa chika ikkai ni gozaimashite, shako seigen wa ni meetoru de gozaimasu.*  
 The parking lot is on basement level one, with a vehicle height limit of two metres.
-</div>
 
 ## Related Expressions
 

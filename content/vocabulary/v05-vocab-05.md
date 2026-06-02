@@ -9,19 +9,17 @@ When explaining バイキング to guests, staff should cover the key details: w
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>朝食はバイキング形式でお好きなものをお取りいただけます。</code></span><br>
-<em>Choushoku wa baikingu keishiki de o-suki na mono wo o-tori itadakemasu.</em><br>
+**朝食はバイキング形式でお好きなものをお取りいただけます。**  
+*Choushoku wa baikingu keishiki de o-suki na mono wo o-tori itadakemasu.*  
 Breakfast is buffet-style; please help yourself to whatever you like.
-<br><br>
-<span class="keigo-jp"><code>バイキングのご利用時間は9時までとなっております。</code></span><br>
-<em>Baikingu no go-riyou jikan wa ku-ji made to natte orimasu.</em><br>
+
+**バイキングのご利用時間は9時までとなっております。**  
+*Baikingu no go-riyou jikan wa ku-ji made to natte orimasu.*  
 The buffet is available until 9:00 a.m.
-<br><br>
-<span class="keigo-jp"><code>本日のバイキングには和食と洋食、両方のメニューをご用意しております。</code></span><br>
-<em>Honjitsu no baikingu ni wa washoku to youshoku, ryouhou no menyuu wo go-youi shite orimasu.</em><br>
+
+**本日のバイキングには和食と洋食、両方のメニューをご用意しております。**  
+*Honjitsu no baikingu ni wa washoku to youshoku, ryouhou no menyuu wo go-youi shite orimasu.*  
 Today's buffet features both Japanese and Western menu options.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ When a guest reports a トラブル, the first professional step is always to li
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいまのトラブルについて、担当者がすぐにご対応いたします。</code></span><br>
-<em>Tadaima no toraburu ni tsuite, tantousha ga sugu ni go-taiou itashimasu.</em><br>
+**ただいまのトラブルについて、担当者がすぐにご対応いたします。**  
+*Tadaima no toraburu ni tsuite, tantousha ga sugu ni go-taiou itashimasu.*  
 The person in charge will attend to the current trouble right away.
-<br><br>
-<span class="keigo-jp"><code>トラブルのご不便をおかけいたしまして、誠に申し訳ございません。</code></span><br>
-<em>Toraburu no go-fuben wo okake itashimashite, makoto ni moushiwake gozaimasen.</em><br>
+
+**トラブルのご不便をおかけいたしまして、誠に申し訳ございません。**  
+*Toraburu no go-fuben wo okake itashimashite, makoto ni moushiwake gozaimasen.*  
 We sincerely apologise for the inconvenience caused by this issue.
-<br><br>
-<span class="keigo-jp"><code>館内でトラブルが発生した場合は、遠慮なくフロントへお声がけください。</code></span><br>
-<em>Kannai de toraburu ga hassei shita baai wa, enryo naku furonto e okoe-gake kudasai.</em><br>
+
+**館内でトラブルが発生した場合は、遠慮なくフロントへお声がけください。**  
+*Kannai de toraburu ga hassei shita baai wa, enryo naku furonto e okoe-gake kudasai.*  
 If any trouble arises in the facility, please do not hesitate to speak to the front desk.
-</div>
 
 ## Related Expressions
 

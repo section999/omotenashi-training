@@ -10,19 +10,17 @@ Hotel and concierge staff regularly field 料金表-related questions from guest
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バスの料金表を確認してから乗りました。</code></span><br>
-<em>Basu no ryoukinhyou wo kakunin shite kara norimashita.</em><br>
+**バスの料金表を確認してから乗りました。**  
+*Basu no ryoukinhyou wo kakunin shite kara norimashita.*  
 I checked the bus price list before boarding.
-<br><br>
-<span class="keigo-jp"><code>タクシーの料金表はこちらに掲示しております。ご参考になさってください。</code></span><br>
-<em>Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.</em><br>
+
+**タクシーの料金表はこちらに掲示しております。ご参考になさってください。**  
+*Takushii no ryoukinhyou wa kochira ni keiji shite orimasu. Gosankou ni nasatte kudasai.*  
 The taxi fare chart is posted here. Please use it as a reference.
-<br><br>
-<span class="keigo-jp"><code>観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。</code></span><br>
-<em>Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.</em><br>
+
+**観光施設の入場料金表はフロントにてお渡しできるパンフレットに記載されております。**  
+*Kankou shisetsu no nyuujou ryoukinhyou wa furonto nite oowatashi dekiru panfuretto ni kisai sarete orimasu.*  
 Admission fee information for tourist facilities is listed in the pamphlet available at the front desk.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ When talking with guests about trash, the approach should be polite without draw
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>客室のゴミは毎日の清掃時に回収いたします。</code></span><br>
-<em>Kyakushitsu no gomi wa mainichi no seisou ji ni kaishuu itashimasu.</em><br>
+**客室のゴミは毎日の清掃時に回収いたします。**  
+*Kyakushitsu no gomi wa mainichi no seisou ji ni kaishuu itashimasu.*  
 Trash from guest rooms is collected during the daily cleaning.
-<br><br>
-<span class="keigo-jp"><code>ゴミの分別にご協力いただけますと幸いでございます。</code></span><br>
-<em>Gomi no bunbetsu ni gokyouryoku itadakemasu to saiwai de gozaimasu.</em><br>
+
+**ゴミの分別にご協力いただけますと幸いでございます。**  
+*Gomi no bunbetsu ni gokyouryoku itadakemasu to saiwai de gozaimasu.*  
 We would greatly appreciate your cooperation with waste separation.
-<br><br>
-<span class="keigo-jp"><code>ゴミがあふれていたため、清掃時に追加の袋をご用意いたしました。</code></span><br>
-<em>Gomi ga afurete ita tame, seisou ji ni tsuika no fukuro wo goyo'i itashimashita.</em><br>
+
+**ゴミがあふれていたため、清掃時に追加の袋をご用意いたしました。**  
+*Gomi ga afurete ita tame, seisou ji ni tsuika no fukuro wo goyo'i itashimashita.*  
 As the trash was overflowing, we provided an extra bag during the cleaning.
-</div>
 
 ## Related Expressions
 

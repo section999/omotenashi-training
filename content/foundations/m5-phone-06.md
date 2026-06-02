@@ -10,10 +10,13 @@ Availability calls are not simple information delivery. They are **decision-supp
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>6月10日に空いていますか。</code></span><br>
+<em>6 tsuki 10 nichi ni ai te imasu ka.</em><br>
 Do you have availability on June 10th?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>honjitsu 6 tsuki 10 nichi no sora shitsu joukyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 I will check availability for June 10th. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月10日はツインルームとスタンダードルームにお部屋がございます。いかがなさいますか。</code></span><br>
+<em>taihen o-matase itashimashita. 6 tsuki 10 nichi wa tsuin rumu to sutandado rumu ni o-heya ga gozaimasu. ika ga nasaimasu ka.</em><br>
 Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
 </div>
 
@@ -40,10 +43,13 @@ Unfortunately, we are fully booked today.<br><br>
 
 <div class="keigo-card blue">
 <strong>Staff:</strong> <span class="keigo-jp"><code>確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 I will check. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
+<em>taihen o-matase itashimashita. ainiku 6 tsuki 10 nichi wa manshitsu to natte orimasu.</em><br>
 Thank you for waiting. Unfortunately, June 10th is fully booked.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。ご都合はいかがでしょうか。</code></span><br>
+<em>moshi yoroshikere ba, zengo no nittei deshi tara go-annai ga kanou de gozaimasu. go tsugou wa ikaga deshou ka.</em><br>
 If you would like, we can offer alternative dates nearby. Would that work for you?
 </div>
 
@@ -55,12 +61,16 @@ Guests often call to understand what types of rooms are available before committ
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>どんな部屋がありますか。</code></span><br>
+<em>donna heya ga arimasu ka.</em><br>
 What kinds of rooms do you have?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。当ホテルにはスタンダードルーム、ツインルーム、そしてデラックスルームがございます。ご利用のご人数はいかがでしょうか。</code></span><br>
+<em>kashikomarimashita. tou hoteru ni wa sutandado rumu, tsuin rumu, soshite derakkusu rumu ga gozaimasu. go-riyou no go ninzu wa ikaga deshou ka.</em><br>
 Certainly. Our hotel offers standard rooms, twin rooms, and deluxe rooms. May I ask how many guests will be staying?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>2人です。</code></span><br>
+<em>2 nin desu.</em><br>
 Two people.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>2名様でございますね。2名様ですとツインルームまたはデラックスルームがおすすめでございます。ご料金のご案内もよろしいでしょうか。</code></span><br>
+<em>2 mei sama de gozaimasu ne. 2 mei sama desu to tsuin rumu matawa derakkusu rumu ga osusume de gozaimasu. go ryoukin no go-annai mo yoroshii deshou ka.</em><br>
 Two guests. For two, I would recommend our twin room or deluxe room. Shall I also share the rates?
 </div>
 
@@ -70,7 +80,9 @@ When guiding a guest toward an alternative, end with a question that invites the
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>いかがでしょうか</code></span>: How does that sound? / Would that work?<br>
+<em>ikaga deshou ka</em><br>
 <span class="keigo-jp"><code>ご都合はよろしいでしょうか</code></span>: Would that be convenient for you?<br>
+<em>go tsugou wa yoroshii deshou ka</em><br>
 <span class="keigo-jp"><code>いかがなさいますか</code></span>: What would you prefer?
 </div>
 

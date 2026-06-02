@@ -9,19 +9,17 @@ Staff guide guests to 喫煙席 using directional phrases such as 喫煙席は�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>喫煙席はこちらでございます。どうぞこちらへ。</code></span><br>
-<em>Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.</em><br>
+**喫煙席はこちらでございます。どうぞこちらへ。**  
+*Kitsuen seki wa kochira de gozaimasu. Douzo kochira e.*  
 The smoking section is this way. Please come this way.
-<br><br>
-<span class="keigo-jp"><code>喫煙席は換気の整った別室にご用意しております。</code></span><br>
-<em>Kitsuen seki wa kanki no totonotta bessho ni go-youi shite orimasu.</em><br>
+
+**喫煙席は換気の整った別室にご用意しております。**  
+*Kitsuen seki wa kanki no totonotta bessho ni go-youi shite orimasu.*  
 The smoking section is prepared in a separate, well-ventilated room.
-<br><br>
-<span class="keigo-jp"><code>大変申し訳ございませんが、現在喫煙席はご用意しておりません。屋外の喫煙スペースをご利用いただけます。</code></span><br>
-<em>Taihen moushiwake gozaimasen ga, genzai kitsuen seki wa go-youi shite orimasen. Okugai no kitsuen supesu wo go-riyou itadakemasu.</em><br>
+
+**大変申し訳ございませんが、現在喫煙席はご用意しておりません。屋外の喫煙スペースをご利用いただけます。**  
+*Taihen moushiwake gozaimasen ga, genzai kitsuen seki wa go-youi shite orimasen. Okugai no kitsuen supesu wo go-riyou itadakemasu.*  
 We sincerely apologize, but we currently do not have a smoking section. You are welcome to use the outdoor smoking area.
-</div>
 
 ## Related Expressions
 

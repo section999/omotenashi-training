@@ -10,19 +10,17 @@ In hotels and restaurants, staff typically say レジでお支払いをお願い
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのレジでお支払いいただけますか。</code></span><br>
-<em>Kochira no reji de oshiharai itadakemasu ka.</em><br>
+**こちらのレジでお支払いいただけますか。**  
+*Kochira no reji de oshiharai itadakemasu ka.*  
 Would you be able to pay at this register?
-<br><br>
-<span class="keigo-jp"><code>レジにてお釣りをお渡しいたします。</code></span><br>
-<em>Reji nite otsuri o owatashi itashimasu.</em><br>
+
+**レジにてお釣りをお渡しいたします。**  
+*Reji nite otsuri o owatashi itashimasu.*  
 We will give you your change at the register.
-<br><br>
-<span class="keigo-jp"><code>レジ担当のスタッフにお声がけください。</code></span><br>
-<em>Reji tantou no sutaffu ni okoe gake kudasai.</em><br>
+
+**レジ担当のスタッフにお声がけください。**  
+*Reji tantou no sutaffu ni okoe gake kudasai.*  
 Please speak to the staff member at the register.
-</div>
 
 ## Related Expressions
 

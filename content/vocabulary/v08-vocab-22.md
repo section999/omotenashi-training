@@ -9,19 +9,17 @@ title: 遠くに (tooku ni)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。</code></span><br>
-<em>Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.</em><br>
+**山はホテルから遠くに見えます。天気の良い日は特によくご覧いただけます。**  
+*Yama wa hoteru kara tooku ni miemasu. Tenki no yoi hi wa toku ni yoku goran itadakemasu.*  
 The mountain can be seen far away from the hotel. On a clear day one can see it particularly well.
-<br><br>
-<span class="keigo-jp"><code>あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。</code></span><br>
-<em>Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.</em><br>
+
+**あいにくその美術館は駅から遠くにございます。タクシーをご利用になることをお勧めいたします。**  
+*Ainiku sono bijutsukan wa eki kara tooku ni gozaimasu. Takushii o goriyou ni naru koto o osusume itashimasu.*  
 Unfortunately, that museum is far from the station. We recommend taking a taxi.
-<br><br>
-<span class="keigo-jp"><code>徒歩では遠くにございますので、シャトルバスのご利用はいかがでしょうか。</code></span><br>
-<em>Toho de wa tooku ni gozaimasu node, shatorubasu no goriyou wa ikaga deshou ka.</em><br>
+
+**徒歩では遠くにございますので、シャトルバスのご利用はいかがでしょうか。**  
+*Toho de wa tooku ni gozaimasu node, shatorubasu no goriyou wa ikaga deshou ka.*  
 It is too far to walk, so would you consider using our shuttle bus?
-</div>
 
 ## Related Expressions
 

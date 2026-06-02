@@ -9,19 +9,17 @@ In a hospitality context, 受付 most frequently appears when directing guests: 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>受付はこちらでございます。</code></span><br>
-<em>Uketsuke wa kochira de gozaimasu.</em><br>
+**受付はこちらでございます。**  
+*Uketsuke wa kochira de gozaimasu.*  
 The reception is here.
-<br><br>
-<span class="keigo-jp"><code>チェックインのお手続きは受付にてお願いいたします。</code></span><br>
-<em>Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.</em><br>
+
+**チェックインのお手続きは受付にてお願いいたします。**  
+*Chekku-in no o-tetsuzuki wa uketsuke ni te o-negai itashimasu.*  
 Please complete your check-in at the reception desk.
-<br><br>
-<span class="keigo-jp"><code>スパの受付は地下一階にございます。</code></span><br>
-<em>Supa no uketsuke wa chika ik-kai ni gozaimasu.</em><br>
+
+**スパの受付は地下一階にございます。**  
+*Supa no uketsuke wa chika ik-kai ni gozaimasu.*  
 The spa reception is on the basement level.
-</div>
 
 ## Related Expressions
 

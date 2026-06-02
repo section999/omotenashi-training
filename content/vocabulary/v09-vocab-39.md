@@ -10,19 +10,17 @@ Staff should pair 締切 with an exact date and time to eliminate ambiguity. A p
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>キャンセル無料の締切は明日の正午でございます。</code></span><br>
-<em>Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.</em><br>
+**キャンセル無料の締切は明日の正午でございます。**  
+*Kyanseru muryou no shimekiri wa ashita no shougo de gozaimasu.*  
 The deadline for free cancellation is tomorrow at noon.
-<br><br>
-<span class="keigo-jp"><code>ご予約プランの締切が本日深夜零時となっております。</code></span><br>
-<em>Goyoyaku puran no shimekiri ga honjitsu shin'ya reiji to natte orimasu.</em><br>
+
+**ご予約プランの締切が本日深夜零時となっております。**  
+*Goyoyaku puran no shimekiri ga honjitsu shin'ya reiji to natte orimasu.*  
 The reservation plan deadline is midnight tonight.
-<br><br>
-<span class="keigo-jp"><code>締切までにご連絡いただけますと大変助かります。</code></span><br>
-<em>Shimekiri made ni go-renraku itadakemasu to taihen tasukarimasu.</em><br>
+
+**締切までにご連絡いただけますと大変助かります。**  
+*Shimekiri made ni go-renraku itadakemasu to taihen tasukarimasu.*  
 We would greatly appreciate it if one could contact us before the deadline.
-</div>
 
 ## Related Expressions
 

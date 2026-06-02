@@ -13,19 +13,17 @@ A common error is rushing this phrase when things get busy, or dropping it entir
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いってらっしゃいませ。お気をつけて。</code></span><br>
-<em>Itterasshai mase. O-ki wo tsukete.</em><br>
+**いってらっしゃいませ。お気をつけて。**  
+*Itterasshai mase. O-ki wo tsukete.*  
 Please go safely and come back well. Take care.
-<br><br>
-<span class="keigo-jp"><code>本日はご利用ありがとうございました。お気をつけてお帰りください。</code></span><br>
-<em>Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.</em><br>
+
+**本日はご利用ありがとうございました。お気をつけてお帰りください。**  
+*Honjitsu wa go-riyō arigatō gozaimashita. O-ki wo tsukete o-kaeri kudasai.*  
 Thank you for visiting us today. Please take care on your way home.
-<br><br>
-<span class="keigo-jp"><code>足元にお気をつけください。</code></span><br>
-<em>Ashimoto ni o-ki wo tsukete kudasai.</em><br>
+
+**足元にお気をつけください。**  
+*Ashimoto ni o-ki wo tsukete kudasai.*  
 Please watch your step.
-</div>
 
 ## Related Expressions
 

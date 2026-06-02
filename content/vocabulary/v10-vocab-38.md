@@ -9,19 +9,17 @@ staff should treat any potential 無効 situation as a verification issue first 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。</code></span><br>
-<em>Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.</em><br>
+**恐れ入りますが、こちらのクーポンは有効期限が切れているため無効となっております。**  
+*Osoreirimasu ga, kochira no kūpon wa yūkō kigen ga kirete iru tame mukō to natte orimasu.*  
 I apologize, but this coupon is invalid as the expiry date has passed.
-<br><br>
-<span class="keigo-jp"><code>ただいま確認いたしますので、少々お待ちください。</code></span><br>
-<em>Tadaima kakunin itashimasu node, shōshō omachi kudasai.</em><br>
+
+**ただいま確認いたしますので、少々お待ちください。**  
+*Tadaima kakunin itashimasu node, shōshō omachi kudasai.*  
 Allow me to verify this for you: please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。</code></span><br>
-<em>Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.</em><br>
+
+**カードが無効の場合は、別のお支払い方法をご用意いただけますでしょうか。**  
+*Kādo ga mukō no baai wa, betsu no oshiharai hōhō o goyōi itadakemasu deshō ka.*  
 If the card is invalid, would you be able to use an alternative payment method?
-</div>
 
 ## Related Expressions
 

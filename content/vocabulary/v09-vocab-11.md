@@ -9,19 +9,17 @@ The service dimension of 子供 matters just as much as the billing side. A rese
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お子様のご年齢をお知らせいただけますでしょうか。</code></span><br>
-<em>O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.</em><br>
+**お子様のご年齢をお知らせいただけますでしょうか。**  
+*O-ko-sama no go-nenrei o oshirase itadakemasu deshou ka.*  
 Could you please let us know your child's age?
-<br><br>
-<span class="keigo-jp"><code>お子様用の浴衣とスリッパをお部屋にご用意しております。</code></span><br>
-<em>O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.</em><br>
+
+**お子様用の浴衣とスリッパをお部屋にご用意しております。**  
+*O-ko-sama you no yukata to surippa o o-heya ni go-youi shite orimasu.*  
 We have prepared children's yukata and slippers in the room.
-<br><br>
-<span class="keigo-jp"><code>お子様のお食事は、お子様ランチをご用意できます。</code></span><br>
-<em>O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.</em><br>
+
+**お子様のお食事は、お子様ランチをご用意できます。**  
+*O-ko-sama no o-shokuji wa, o-ko-sama ranchi o go-youi dekimasu.*  
 We can prepare a children's meal set for your child.
-</div>
 
 ## Related Expressions
 

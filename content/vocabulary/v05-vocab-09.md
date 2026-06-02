@@ -10,19 +10,17 @@ Temperature awareness matters as much as timing. Some guests, particularly older
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お水をお持ちいたします。少々お待ちください。</code></span><br>
-<em>O-mizu wo o-mochi itashimasu. Shoushou o-machi kudasai.</em><br>
+**お水をお持ちいたします。少々お待ちください。**  
+*O-mizu wo o-mochi itashimasu. Shoushou o-machi kudasai.*  
 I will bring you water. Please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>お水のおかわりはいかがでしょうか。</code></span><br>
-<em>O-mizu no okawari wa ikaga deshou ka.</em><br>
+
+**お水のおかわりはいかがでしょうか。**  
+*O-mizu no okawari wa ikaga deshou ka.*  
 Would you like a refill of water?
-<br><br>
-<span class="keigo-jp"><code>常温のお水とお冷やのお水、どちらをご希望でしょうか。</code></span><br>
-<em>Jouon no o-mizu to o-hiya no o-mizu, dochira wo go-kibou deshou ka.</em><br>
+
+**常温のお水とお冷やのお水、どちらをご希望でしょうか。**  
+*Jouon no o-mizu to o-hiya no o-mizu, dochira wo go-kibou deshou ka.*  
 Would you prefer room-temperature water or chilled water?
-</div>
 
 ## Related Expressions
 

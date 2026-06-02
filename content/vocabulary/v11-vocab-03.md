@@ -9,19 +9,17 @@ failing to mention the 外線 prefix is a common reason guests become frustrated
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>外線をおかけになる場合は、まず0をお押しください。</code></span><br>
-<em>Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.</em><br>
+**外線をおかけになる場合は、まず0をお押しください。**  
+*Gaisen wo okake ni naru baai wa, mazu zero wo oshikudasai.*  
 To make an outside call, please press 0 first.
-<br><br>
-<span class="keigo-jp"><code>外線通話料金はチェックアウト時にご精算いただきます。</code></span><br>
-<em>Gaisen tsūwaryōkin wa chekku-auto ji ni goseisan itadakimasu.</em><br>
+
+**外線通話料金はチェックアウト時にご精算いただきます。**  
+*Gaisen tsūwaryōkin wa chekku-auto ji ni goseisan itadakimasu.*  
 Outside call charges will be settled at the time of check-out.
-<br><br>
-<span class="keigo-jp"><code>外線がつながらない場合は、フロントの内線0番にご連絡ください。</code></span><br>
-<em>Gaisen ga tsunagaranai baai wa, furonto no naisen zero-ban ni gorenraku kudasai.</em><br>
+
+**外線がつながらない場合は、フロントの内線0番にご連絡ください。**  
+*Gaisen ga tsunagaranai baai wa, furonto no naisen zero-ban ni gorenraku kudasai.*  
 If you cannot connect to an outside line, please contact the front desk at extension 0.
-</div>
 
 ## Related Expressions
 

@@ -13,19 +13,17 @@ This phrase has a limited role with guests. If a guest comes back looking exhaus
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お疲れ様です。今日もありがとうございました。</code></span><br>
-<em>O-tsukaresama desu. Kyō mo arigatō gozaimashita.</em><br>
+**お疲れ様です。今日もありがとうございました。**  
+*O-tsukaresama desu. Kyō mo arigatō gozaimashita.*  
 Thank you for your hard work. Thank you for today as well.
-<br><br>
-<span class="keigo-jp"><code>お疲れ様でした。ゆっくり休んでください。</code></span><br>
-<em>O-tsukaresama deshita. Yukkuri yasunte kudasai.</em><br>
+
+**お疲れ様でした。ゆっくり休んでください。**  
+*O-tsukaresama deshita. Yukkuri yasunte kudasai.*  
 Good work today. Please rest well.
-<br><br>
-<span class="keigo-jp"><code>お疲れ様です。フロアの引き継ぎをお願いいたします。</code></span><br>
-<em>O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.</em><br>
+
+**お疲れ様です。フロアの引き継ぎをお願いいたします。**  
+*O-tsukaresama desu. Furoa no hikitsugi wo o-negai itashimasu.*  
 Thank you for the work. Please brief me on the floor handover.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Staff should not simply wait to be asked. If a guest arrives at the lobby at 11 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>館内ランドリーの利用時間は午前7時から午後11時までとなっております。</code></span><br>
-<em>Kannai randorii no riyou jikan wa gozen shichi-ji kara gogo juuichi-ji made to natte orimasu.</em><br>
+**館内ランドリーの利用時間は午前7時から午後11時までとなっております。**  
+*Kannai randorii no riyou jikan wa gozen shichi-ji kara gogo juuichi-ji made to natte orimasu.*  
 The in-house laundry room is available from 7 AM to 11 PM.
-<br><br>
-<span class="keigo-jp"><code>フィットネスセンターの利用時間をご確認のうえ、お越しください。</code></span><br>
-<em>Fittonesu sentaa no riyou jikan wo go-kakunin no ue, o-koshi kudasai.</em><br>
+
+**フィットネスセンターの利用時間をご確認のうえ、お越しください。**  
+*Fittonesu sentaa no riyou jikan wo go-kakunin no ue, o-koshi kudasai.*  
 Please confirm the fitness centre's usage hours before visiting.
-<br><br>
-<span class="keigo-jp"><code>お荷物の一時保管は利用時間内でのみ承っております。</code></span><br>
-<em>O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.</em><br>
+
+**お荷物の一時保管は利用時間内でのみ承っております。**  
+*O-nimotsu no ichiji hokan wa riyou jikan-nai demo mi uketamawaatte orimasu.*  
 Temporary luggage storage is available only within the designated usage hours.
-</div>
 
 ## Related Expressions
 

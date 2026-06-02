@@ -9,19 +9,17 @@ Understanding うるさい also helps staff read the emotional state of the gues
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。</code></span><br>
-<em>"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.</em><br>
+**「うるさくて困っています」とのお申し出を受け、騒音の対応をいたします。**  
+*"Urusaku te komatte imasu" to no o-moushide wo uke, souon no taiou wo itashimasu.*  
 Having received your report that the noise is troubling you, we will address the disturbance.
-<br><br>
-<span class="keigo-jp"><code>ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。</code></span><br>
-<em>Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.</em><br>
+
+**ご不便をおかけして申し訳ございません。騒音の原因をただいま確認いたします。**  
+*Go-fuben wo okake shite moushiwake gozaimasen. Souon no gen-in wo tadaima kakunin itashimasu.*  
 We are very sorry for the inconvenience. We will look into the cause of the noise right now.
-<br><br>
-<span class="keigo-jp"><code>お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。</code></span><br>
-<em>O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.</em><br>
+
+**お隣の騒音でご迷惑をおかけしておりましたら、別室へのご移動をご提案いたします。**  
+*O-tonari no souon de go-meiwaku wo okake shite orimashitara, besshitsu e no go-idou wo go-teian itashimasu.*  
 If the noise from the neighbouring room has been disturbing you, we would like to suggest moving to a different room.
-</div>
 
 ## Related Expressions
 

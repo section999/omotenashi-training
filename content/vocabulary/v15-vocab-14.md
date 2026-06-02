@@ -10,19 +10,17 @@ Hotels offer 保管 in several common situations. Early-arriving guests whose ro
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックアウト後も、お荷物を夕方まで保管させていただきます。</code></span><br>
-<em>Chekku-auto go mo, o-nimotsu wo yuugata made hokan sasete itadakimasu.</em><br>
+**チェックアウト後も、お荷物を夕方まで保管させていただきます。**  
+*Chekku-auto go mo, o-nimotsu wo yuugata made hokan sasete itadakimasu.*  
 We will keep your luggage in storage until the evening, even after checkout.
-<br><br>
-<span class="keigo-jp"><code>貴重品は金庫にて厳重に保管しております。</code></span><br>
-<em>Kichouhin wa kinko nite genjuu ni hokan shite orimasu.</em><br>
+
+**貴重品は金庫にて厳重に保管しております。**  
+*Kichouhin wa kinko nite genjuu ni hokan shite orimasu.*  
 Valuables are kept under strict security in the safe.
-<br><br>
-<span class="keigo-jp"><code>お荷物の保管を承りましたので、引換券をお持ちください。</code></span><br>
-<em>O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.</em><br>
+
+**お荷物の保管を承りましたので、引換券をお持ちください。**  
+*O-nimotsu no hokan wo uketamawarimashita node, hikikaeken wo o-mochi kudasai.*  
 We have accepted your luggage for storage; please keep this claim ticket.
-</div>
 
 ## Related Expressions
 

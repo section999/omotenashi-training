@@ -9,19 +9,17 @@ In a hospitality context, front desk staff use クレジットカード in two d
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>クレジットカードを拝見してもよろしいでしょうか。</code></span><br>
-<em>Kurejitto kādo wo haiken shite mo yoroshii deshō ka.</em><br>
+**クレジットカードを拝見してもよろしいでしょうか。**  
+*Kurejitto kādo wo haiken shite mo yoroshii deshō ka.*  
 May I take a look at your credit card?
-<br><br>
-<span class="keigo-jp"><code>チェックイン時にクレジットカードをお預かりしております。</code></span><br>
-<em>Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.</em><br>
+
+**チェックイン時にクレジットカードをお預かりしております。**  
+*Chekku-in ji ni kurejitto kādo wo o-azukari shite orimasu.*  
 We hold a credit card at the time of check-in.
-<br><br>
-<span class="keigo-jp"><code>お支払いはクレジットカードでよろしいでしょうか。</code></span><br>
-<em>O-shiharai wa kurejitto kādo de yoroshii deshō ka.</em><br>
+
+**お支払いはクレジットカードでよろしいでしょうか。**  
+*O-shiharai wa kurejitto kādo de yoroshii deshō ka.*  
 Will credit card payment be acceptable?
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Japanese hospitality workers historically had fewer guaranteed 休み than worke
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>明日は休みですので、出勤しません。</code></span><br>
-<em>Ashita wa yasumi desu node, shukkin shimasen.</em><br>
+**明日は休みですので、出勤しません。**  
+*Ashita wa yasumi desu node, shukkin shimasen.*  
 Tomorrow is a day off, so I will not go to work.
-<br><br>
-<span class="keigo-jp"><code>今週の休みはいつですか？シフト表を確認します。</code></span><br>
-<em>Konshuu no yasumi wa itsu desu ka? Shifuto-hyou o kakunin shimasu.</em><br>
+
+**今週の休みはいつですか？シフト表を確認します。**  
+*Konshuu no yasumi wa itsu desu ka? Shifuto-hyou o kakunin shimasu.*  
 When is my day off this week? Let me check the shift schedule.
-<br><br>
-<span class="keigo-jp"><code>連休が取れたので、家族と旅行に行きます。</code></span><br>
-<em>Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.</em><br>
+
+**連休が取れたので、家族と旅行に行きます。**  
+*Renkyuu ga toreta node, kazoku to ryokou ni ikimasu.*  
 I managed to get consecutive days off, so I am going on a trip with my family.
-</div>
 
 ## Related Expressions
 

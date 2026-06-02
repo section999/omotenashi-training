@@ -10,19 +10,17 @@ Staff should verify ダブルルーム reservations carefully at check-in and ph
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日のご予約はダブルルームでございますね。ご確認ありがとうございます。</code></span><br>
-<em>Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.</em><br>
+**本日のご予約はダブルルームでございますね。ご確認ありがとうございます。**  
+*Honjitsu no go-yoyaku wa daburu-ruumu de gozaimasu ne. Go-kakunin arigatou gozaimasu.*  
 Your reservation today is for a double room. Thank you for confirming.
-<br><br>
-<span class="keigo-jp"><code>ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？</code></span><br>
-<em>Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?</em><br>
+
+**ダブルルームはベッドがひとつのお部屋でございますが、よろしいでしょうか？**  
+*Daburu-ruumu wa beddo ga hitotsu no o-heya de gozaimasu ga, yoroshii deshou ka?*  
 A double room has one bed: will that be all right for you?
-<br><br>
-<span class="keigo-jp"><code>ダブルルームに空室がございますので、ご希望でしたらご案内できます。</code></span><br>
-<em>Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.</em><br>
+
+**ダブルルームに空室がございますので、ご希望でしたらご案内できます。**  
+*Daburu-ruumu ni kuushitsu ga gozaimasu no de, go-kibou deshitara go-annai dekimasu.*  
 We have a double room available, so if one wish we can show you to it.
-</div>
 
 ## Related Expressions
 

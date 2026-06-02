@@ -13,19 +13,17 @@ Note: this phrase is not interchangeable with かしこまりました or どう
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらにご署名をお願いいたします。</code></span><br>
-<em>Kochira ni go-shomei wo o-negai itashimasu.</em><br>
+**こちらにご署名をお願いいたします。**  
+*Kochira ni go-shomei wo o-negai itashimasu.*  
 Please sign here.
-<br><br>
-<span class="keigo-jp"><code>ご到着の際は、フロントまでお越しいただくようお願いいたします。</code></span><br>
-<em>Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.</em><br>
+
+**ご到着の際は、フロントまでお越しいただくようお願いいたします。**  
+*Go-tōchaku no sai wa, furonto made o-koshi itadaku yō o-negai itashimasu.*  
 Upon arrival, we kindly ask that you come to the front desk.
-<br><br>
-<span class="keigo-jp"><code>今後ともよろしくお願いいたします。</code></span><br>
-<em>Kongo tomo yoroshiku o-negai itashimasu.</em><br>
+
+**今後ともよろしくお願いいたします。**  
+*Kongo tomo yoroshiku o-negai itashimasu.*  
 I look forward to your continued support.
-</div>
 
 ## Related Expressions
 

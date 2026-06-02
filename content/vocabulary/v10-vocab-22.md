@@ -10,19 +10,17 @@ When processing a 返金, confirm three pieces of information before proceeding:
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>キャンセルポリシーに基づき、〇〇円を返金いたします。</code></span><br>
-<em>Kyanseru porishii ni motozuki, 〇〇-en o henkin itashimasu.</em><br>
+**キャンセルポリシーに基づき、〇〇円を返金いたします。**  
+*Kyanseru porishii ni motozuki, 〇〇-en o henkin itashimasu.*  
 Based on the cancellation policy, we will refund 〇〇 yen.
-<br><br>
-<span class="keigo-jp"><code>返金は〇営業日以内にお客様のカードへご返金いたします。</code></span><br>
-<em>Henkin wa 〇 eigyou-bi inai ni okyakusama no kaado e go-henkin itashimasu.</em><br>
+
+**返金は〇営業日以内にお客様のカードへご返金いたします。**  
+*Henkin wa 〇 eigyou-bi inai ni okyakusama no kaado e go-henkin itashimasu.*  
 The refund will be returned to your card within 〇 business days.
-<br><br>
-<span class="keigo-jp"><code>請求誤りのため、差額を返金させていただきます。</code></span><br>
-<em>Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.</em><br>
+
+**請求誤りのため、差額を返金させていただきます。**  
+*Seikyuu ayamari no tame, sagaku o henkin sasete itadakimasu.*  
 Due to a billing error, we will refund the difference.
-</div>
 
 ## Related Expressions
 

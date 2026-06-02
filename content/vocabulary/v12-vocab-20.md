@@ -10,19 +10,17 @@ Staff training on the 非常ベル is based on one core principle: treat every a
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。</code></span><br>
-<em>Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.</em><br>
+**非常ベルが鳴った際は、速やかにお荷物を置いて避難してください。**  
+*Hijou beru ga natta sai wa, sumiyaka ni onimotsu wo oite hinan shite kudasai.*  
 When the emergency bell sounds, please leave your belongings and evacuate promptly.
-<br><br>
-<span class="keigo-jp"><code>非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。</code></span><br>
-<em>Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.</em><br>
+
+**非常ベルが誤作動した場合も、スタッフが直ちに安全確認を行います。**  
+*Hijou beru ga gosadou shita baai mo, sutaffu ga tadachi ni anzen kakunin wo okonaimasu.*  
 Even in the event of a false alarm, staff will immediately conduct a safety check.
-<br><br>
-<span class="keigo-jp"><code>各フロアの非常ベルの位置は、避難経路図でご確認いただけます。</code></span><br>
-<em>Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.</em><br>
+
+**各フロアの非常ベルの位置は、避難経路図でご確認いただけます。**  
+*Kaku furoa no hijou beru no ichi wa, hinan keiro zu de gokakunin itadakemasu.*  
 The locations of emergency bells on each floor can be confirmed on the evacuation route map.
-</div>
 
 ## Related Expressions
 

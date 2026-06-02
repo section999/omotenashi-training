@@ -9,19 +9,17 @@ During room orientation, staff say 「お貴重品はお部屋の金庫にお入
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お貴重品はお部屋の金庫にお入れください。</code></span><br>
-<em>O-kichouhin wa oheya no kinko ni o-ire kudasai.</em><br>
+**お貴重品はお部屋の金庫にお入れください。**  
+*O-kichouhin wa oheya no kinko ni o-ire kudasai.*  
 Please store your valuables in the room safe.
-<br><br>
-<span class="keigo-jp"><code>金庫は暗証番号をご自身で設定してお使いいただけます。</code></span><br>
-<em>Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.</em><br>
+
+**金庫は暗証番号をご自身で設定してお使いいただけます。**  
+*Kinko wa anshou bangou wo go-jishin de settei shite o-tsukai itadakemasu.*  
 You may set your own PIN to use the safe.
-<br><br>
-<span class="keigo-jp"><code>万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。</code></span><br>
-<em>Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.</em><br>
+
+**万が一、暗証番号をお忘れの場合は、フロントまでお申し付けください。**  
+*Mangaichi, anshou bangou wo o-wasure no baai wa, furonto made o-moushitsuke kudasai.*  
 Should you forget your PIN, please do not hesitate to contact the front desk.
-</div>
 
 ## Related Expressions
 

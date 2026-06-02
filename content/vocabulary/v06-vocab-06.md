@@ -9,19 +9,17 @@ All items found in guest rooms after checkout must be logged immediately with a 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋に忘れ物がございましたので、お手元にお届けいたします。</code></span><br>
-<em>Oheya ni wasuremono ga gozaimashita no de, o-temoto ni o-todoke itashimasu.</em><br>
+**お部屋に忘れ物がございましたので、お手元にお届けいたします。**  
+*Oheya ni wasuremono ga gozaimashita no de, o-temoto ni o-todoke itashimasu.*  
 We found a forgotten item in the room and will bring it to you.
-<br><br>
-<span class="keigo-jp"><code>忘れ物はフロントにて保管しておりますので、お気軽にお問い合わせください。</code></span><br>
-<em>Wasuremono wa furonto nite hokan shite orimasu no de, o-ki-garu ni o-toiawase kudasai.</em><br>
+
+**忘れ物はフロントにて保管しておりますので、お気軽にお問い合わせください。**  
+*Wasuremono wa furonto nite hokan shite orimasu no de, o-ki-garu ni o-toiawase kudasai.*  
 Forgotten items are kept at the front desk, so please feel free to enquire.
-<br><br>
-<span class="keigo-jp"><code>チェックアウト後に忘れ物がございましたら、ご郵送することも可能でございます。</code></span><br>
-<em>Chekkuauto go ni wasuremono ga gozaimashitara, go-yusou suru koto mo kanou de gozaimasu.</em><br>
+
+**チェックアウト後に忘れ物がございましたら、ご郵送することも可能でございます。**  
+*Chekkuauto go ni wasuremono ga gozaimashitara, go-yusou suru koto mo kanou de gozaimasu.*  
 If you have left something behind after checkout, we are also able to send it to you by post.
-</div>
 
 ## Related Expressions
 
@@ -48,5 +46,5 @@ A common error is storing found items without logging them properly, which makes
 
 **Correct Answer:** 忘れ物 (lost and found / forgotten item)
 
-**Explanation:** 忘れ物 is the word for an item a guest has left behind, which is exactly what the sentence お部屋に〜がございました is describing. クレーム, 故障, and 問題 all refer to complaints or malfunctions, and none of them describe a physical object found in a room. Promptly reporting and properly logging 忘れ物 is a direct expression of omotenashi care that extends beyond the moment the guest departs.
+**Explanation:** 忘れ物 is the word for an item a guest has left behind, which is exactly what the sentence お部屋に○○がございました is describing. クレーム, 故障, and 問題 all refer to complaints or malfunctions, and none of them describe a physical object found in a room. Promptly reporting and properly logging 忘れ物 is a direct expression of omotenashi care that extends beyond the moment the guest departs.
 

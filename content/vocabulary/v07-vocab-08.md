@@ -10,19 +10,17 @@ Sharing 営業時間 proactively, rather than waiting to be asked, prevents unne
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レストランの営業時間は朝7時から夜10時まででございます。</code></span><br>
-<em>Resutoran no eigyou jikan wa asa shichi-ji kara yoru juu-ji made de gozaimasu.</em><br>
+**レストランの営業時間は朝7時から夜10時まででございます。**  
+*Resutoran no eigyou jikan wa asa shichi-ji kara yoru juu-ji made de gozaimasu.*  
 The restaurant's business hours are from 7 a.m. to 10 p.m.
-<br><br>
-<span class="keigo-jp"><code>スパの営業時間は本日10時から21時まででございますが、ご予約はお早めにいただけますと幸いです。</code></span><br>
-<em>Supa no eigyou jikan wa honjitsu juu-ji kara nijuuichi-ji made de gozaimasu ga, go-yoyaku wa o-hayame ni itadakemasu to saiwai desu.</em><br>
+
+**スパの営業時間は本日10時から21時まででございますが、ご予約はお早めにいただけますと幸いです。**  
+*Supa no eigyou jikan wa honjitsu juu-ji kara nijuuichi-ji made de gozaimasu ga, go-yoyaku wa o-hayame ni itadakemasu to saiwai desu.*  
 Today's spa operating hours are from 10 a.m. to 9 p.m: we recommend booking early.
-<br><br>
-<span class="keigo-jp"><code>本日は特別イベントのため、バーの営業時間が通常より短くなっております。ご不便をおかけして申し訳ございません。</code></span><br>
-<em>Honjitsu wa tokubetsu ibento no tame, baa no eigyou jikan ga tsuujou yori mijikaku natte orimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.</em><br>
+
+**本日は特別イベントのため、バーの営業時間が通常より短くなっております。ご不便をおかけして申し訳ございません。**  
+*Honjitsu wa tokubetsu ibento no tame, baa no eigyou jikan ga tsuujou yori mijikaku natte orimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.*  
 Due to a special event today, the bar's operating hours are shorter than usual. We sincerely apologise for any inconvenience.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ title: 署名 (shomei)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらにご署名をお願いいたします。</code></span><br>
-<em>Kochira ni goshomei o onegai itashimasu.</em><br>
+**こちらにご署名をお願いいたします。**  
+*Kochira ni goshomei o onegai itashimasu.*  
 Could you please sign here?
-<br><br>
-<span class="keigo-jp"><code>ご利用料金の確認のため、こちらにご署名いただけますでしょうか。</code></span><br>
-<em>Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.</em><br>
+
+**ご利用料金の確認のため、こちらにご署名いただけますでしょうか。**  
+*Goriyō ryōkin no kakunin no tame, kochira ni goshomei itadakemasu deshō ka.*  
 Could you please sign here to confirm the charges for the stay?
-<br><br>
-<span class="keigo-jp"><code>ご署名いただいた書類はお控えとしてお渡しいたします。</code></span><br>
-<em>Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.</em><br>
+
+**ご署名いただいた書類はお控えとしてお渡しいたします。**  
+*Goshomei itadaita shorui wa okontae to shite owatashi itashimasu.*  
 We will provide you with a copy of the signed document for your records.
-</div>
 
 ## Related Expressions
 

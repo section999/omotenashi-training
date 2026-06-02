@@ -10,19 +10,17 @@ When transferring a caller, the 担当部署 should be named first. Saying 予�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この件はレストランの担当部署にご確認いただく必要がございます。</code></span><br>
-<em>Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.</em><br>
+**この件はレストランの担当部署にご確認いただく必要がございます。**  
+*Kono ken wa resutoran no tantō busho ni gokakunin itadaku hitsuyō ga gozaimasu.*  
 This matter will need to be confirmed with the restaurant department.
-<br><br>
-<span class="keigo-jp"><code>宴会担当部署にお電話をおつなぎいたします。</code></span><br>
-<em>Enkai tantō busho ni odenwa wo otsunagi itashimasu.</em><br>
+
+**宴会担当部署にお電話をおつなぎいたします。**  
+*Enkai tantō busho ni odenwa wo otsunagi itashimasu.*  
 I will transfer your call to the banquet department.
-<br><br>
-<span class="keigo-jp"><code>担当部署より折り返しご連絡いたします。</code></span><br>
-<em>Tantō busho yori orikaeshi gorenraku itashimasu.</em><br>
+
+**担当部署より折り返しご連絡いたします。**  
+*Tantō busho yori orikaeshi gorenraku itashimasu.*  
 The department in charge will call you back.
-</div>
 
 ## Related Expressions
 

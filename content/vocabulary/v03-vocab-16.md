@@ -9,19 +9,17 @@ During room orientation, staff commonly say 「お部屋の浴室はこちらで
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋の浴室は広くて清潔でございます。</code></span><br>
-<em>Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.</em><br>
+**お部屋の浴室は広くて清潔でございます。**  
+*Oheya no yokushitsu wa hirokute seiketsu de gozaimasu.*  
 The bathroom in the room is spacious and clean.
-<br><br>
-<span class="keigo-jp"><code>浴室のご使用方法についてご説明いたします。</code></span><br>
-<em>Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.</em><br>
+
+**浴室のご使用方法についてご説明いたします。**  
+*Yokushitsu no go-shiyou houhou ni tsuite go-setsumei itashimasu.*  
 I will explain how to use the bathroom.
-<br><br>
-<span class="keigo-jp"><code>浴室にはバスタオルとアメニティをご用意しております。</code></span><br>
-<em>Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.</em><br>
+
+**浴室にはバスタオルとアメニティをご用意しております。**  
+*Yokushitsu ni wa basu taoru to ameniti wo go-youi shite orimasu.*  
 Bath towels and amenities are prepared in the bathroom.
-</div>
 
 ## Related Expressions
 

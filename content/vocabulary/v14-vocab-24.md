@@ -10,19 +10,17 @@ Hotel staff who bring up ICカード unprompted provide real service value. Many
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ICカードで改札を通りました。</code></span><br>
-<em>IC kaado de kaisatsu wo toorimashita.</em><br>
+**ICカードで改札を通りました。**  
+*IC kaado de kaisatsu wo toorimashita.*  
 I passed through the ticket gate with an IC card.
-<br><br>
-<span class="keigo-jp"><code>SuicaやPasmoなどのICカードは、電車だけでなくコンビニでもご利用いただけます。</code></span><br>
-<em>Suika ya Pasumo nado no IC kaado wa, densha dake de naku konbini de mo goriyou itadakemasu.</em><br>
+
+**SuicaやPasmoなどのICカードは、電車だけでなくコンビニでもご利用いただけます。**  
+*Suika ya Pasumo nado no IC kaado wa, densha dake de naku konbini de mo goriyou itadakemasu.*  
 IC cards such as Suica and Pasmo can be used not only on trains but also at convenience stores.
-<br><br>
-<span class="keigo-jp"><code>ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。</code></span><br>
-<em>IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.</em><br>
+
+**ICカードへのチャージは駅の自動券売機でいつでも行っていただけます。**  
+*IC kaado e no chaaiji wa eki no jidou kenbaiki de itsudemo okonatte itadakemasu.*  
 You can top up your IC card at station ticket vending machines at any time.
-</div>
 
 ## Related Expressions
 

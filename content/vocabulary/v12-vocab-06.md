@@ -10,19 +10,17 @@ When a 警報 activates, their responsibilities follow a sequence: verifying the
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災警報が鳴ったらすぐに避難してください。</code></span><br>
-<em>Kasai keihou ga nattara sugu ni hinan shite kudasai.</em><br>
+**火災警報が鳴ったらすぐに避難してください。**  
+*Kasai keihou ga nattara sugu ni hinan shite kudasai.*  
 When the fire alarm sounds, evacuate immediately.
-<br><br>
-<span class="keigo-jp"><code>ただいま警報が発令されました。お客様はスタッフの指示に従って行動してください。</code></span><br>
-<em>Tadaima keihou ga hatsurei saremashita. Okyakusama wa sutaffu no shiji ni shitagatte koudou shite kudasai.</em><br>
+
+**ただいま警報が発令されました。お客様はスタッフの指示に従って行動してください。**  
+*Tadaima keihou ga hatsurei saremashita. Okyakusama wa sutaffu no shiji ni shitagatte koudou shite kudasai.*  
 An alarm has just been activated. Guests, please follow the instructions of the staff.
-<br><br>
-<span class="keigo-jp"><code>本日、台風に伴う気象警報が発令されましたので、外出はお控えください。</code></span><br>
-<em>Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.</em><br>
+
+**本日、台風に伴う気象警報が発令されましたので、外出はお控えください。**  
+*Honjitsu, taifuu ni tomonau kishou keihou ga hatsurei saremashita node, gaishutsu wa okakaenakudasai.*  
 A weather warning has been issued today due to a typhoon, so please refrain from going outside.
-</div>
 
 ## Related Expressions
 

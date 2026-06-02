@@ -9,19 +9,17 @@ When a guest requests a 喫煙室, staff should confirm availability promptly, s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>喫煙室のご希望でございますね。ただいま空き状況を確認いたします。</code></span><br>
-<em>Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.</em><br>
+**喫煙室のご希望でございますね。ただいま空き状況を確認いたします。**  
+*Kitsuen-shitsu no go-kibou de gozaimasu ne. Tadaima aki-joukyou wo kakunin itashimasu.*  
 You would like a smoking room. I will check availability right now.
-<br><br>
-<span class="keigo-jp"><code>喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？</code></span><br>
-<em>Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?</em><br>
+
+**喫煙可能なお部屋は六階にございます。ご案内いたしましょうか？**  
+*Kitsuen kanou na o-heya wa roku-kai ni gozaimasu. Go-annai itashimashou ka?*  
 The smoking room is on the sixth floor. Shall I show you the way?
-<br><br>
-<span class="keigo-jp"><code>大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。</code></span><br>
-<em>Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.</em><br>
+
+**大変申し訳ございませんが、本日は喫煙室の空きがございません。屋外の喫煙スペースをご案内することは可能でございます。**  
+*Taihen moushiwake gozaimasen ga, honjitsu wa kitsuen-shitsu no aki ga gozaimasen. Okugai no kitsuen-supeesu wo go-annai suru koto wa kanou de gozaimasu.*  
 We sincerely apologise, but no smoking rooms are available today. We can guide you to the outdoor smoking area.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In a hospitality context, the ルームサービス menu is typically found in t
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ルームサービスは24時間対応でございます。</code></span><br>
-<em>Ruumu saabisu wa nijuuyojikan taiou de gozaimasu.</em><br>
+**ルームサービスは24時間対応でございます。**  
+*Ruumu saabisu wa nijuuyojikan taiou de gozaimasu.*  
 Room service is available 24 hours.
-<br><br>
-<span class="keigo-jp"><code>ルームサービスのご注文は、お部屋の電話で承っております。</code></span><br>
-<em>Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamaette orimasu.</em><br>
+
+**ルームサービスのご注文は、お部屋の電話で承っております。**  
+*Ruumu saabisu no go-chuumon wa, oheya no denwa de uketamaette orimasu.*  
 Room service orders are taken by the room telephone.
-<br><br>
-<span class="keigo-jp"><code>ルームサービスのメニューはデスクの上においてございます。</code></span><br>
-<em>Ruumu saabisu no menyuu wa desuku no ue ni oite gozaimasu.</em><br>
+
+**ルームサービスのメニューはデスクの上においてございます。**  
+*Ruumu saabisu no menyuu wa desuku no ue ni oite gozaimasu.*  
 The room service menu is on the desk.
-</div>
 
 ## Related Expressions
 

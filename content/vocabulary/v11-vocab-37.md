@@ -10,19 +10,17 @@ An important skill with わかりました is not just saying it but what comes 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>わかりました。ご希望のお時間に合わせてご準備いたします。</code></span><br>
-<em>Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.</em><br>
+**わかりました。ご希望のお時間に合わせてご準備いたします。**  
+*Wakarimashita. Go-kibou no ojikan ni awasete go-junbi itashimasu.*  
 Understood. We will prepare in line with your preferred time.
-<br><br>
-<span class="keigo-jp"><code>わかりました、すぐに担当のスタッフにお伝えいたします。</code></span><br>
-<em>Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.</em><br>
+
+**わかりました、すぐに担当のスタッフにお伝えいたします。**  
+*Wakarimashita, sugu ni tantou no sutaffu ni otsurae itashimasu.*  
 Understood: I will relay this to the responsible staff member right away.
-<br><br>
-<span class="keigo-jp"><code>ご事情はよくわかりました。できる限り対応いたします。</code></span><br>
-<em>Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.</em><br>
+
+**ご事情はよくわかりました。できる限り対応いたします。**  
+*Go-jijou wa yoku wakarimashita. Dekiru kagiri taiou itashimasu.*  
 I fully understand your circumstances. We will do our best to accommodate you.
-</div>
 
 ## Related Expressions
 

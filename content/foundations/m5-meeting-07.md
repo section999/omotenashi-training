@@ -32,6 +32,7 @@ Not "the clock hit 22:00 and I went home"; instead: every VIP is flagged, every 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
+<em>hikitsugi ga kanryou suru made ga, anata no shifuto desu.</em><br>
 Your shift continues until the handover is complete.
 </div>
 

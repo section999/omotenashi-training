@@ -9,19 +9,17 @@ When a クレーム comes in, it should trigger a clear internal process: staff 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のクレームに対し、誠心誠意をもって対応いたします。</code></span><br>
-<em>O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.</em><br>
+**お客様のクレームに対し、誠心誠意をもって対応いたします。**  
+*O-kyaku-sama no kuremu ni tashi, seishin-seii wo motte taiou itashimasu.*  
 We will handle your complaint with complete sincerity and dedication.
-<br><br>
-<span class="keigo-jp"><code>ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。</code></span><br>
-<em>Tadaima kuremu no naiyou wo kakunin shite orimasu no de, shoushou omachi kudasaimase.</em><br>
+
+**ただいまクレームの内容を確認しておりますので、少々お待ちくださいませ。**  
+*Tadaima kuremu no naiyou wo kakunin shite orimasu no de, shoushou omachi kudasaimase.*  
 We are currently reviewing the details of your complaint, so please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>クレームをいただいた際は、責任者がご対応させていただきます。</code></span><br>
-<em>Kuremu wo itadaita sai wa, sekininsha ga go-taiou sasete itadakimasu.</em><br>
+
+**クレームをいただいた際は、責任者がご対応させていただきます。**  
+*Kuremu wo itadaita sai wa, sekininsha ga go-taiou sasete itadakimasu.*  
 When a complaint is received, the person in charge will personally handle the response.
-</div>
 
 ## Related Expressions
 

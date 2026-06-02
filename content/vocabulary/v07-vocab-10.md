@@ -10,19 +10,17 @@ Staff should also be clear on the difference between approaching 閉店 and havi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。</code></span><br>
-<em>Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.</em><br>
+**申し訳ございませんが、すでに閉店しております。ルームサービスはまだご利用いただけますが、いかがでしょうか。**  
+*Moushiwake gozaimasen ga, sude ni heiten shite orimasu. Ruumu saabisu wa mada go-riyou itadakemasu ga, ikaga deshou ka.*  
 I sincerely apologise, but we are already closed. Room service is still available: would that be of interest to you?
-<br><br>
-<span class="keigo-jp"><code>レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。</code></span><br>
-<em>Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.</em><br>
+
+**レストランは本日22時をもちまして閉店いたしました。ご不便をおかけして大変申し訳ございません。**  
+*Resutoran wa honjitsu nijuuni-ji wo mochimashite heiten itashimashita. Go-fuben wo o-kake shite taihen moushiwake gozaimasen.*  
 The restaurant closed tonight at 10 p.m. We are very sorry for the inconvenience.
-<br><br>
-<span class="keigo-jp"><code>只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。</code></span><br>
-<em>Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.</em><br>
+
+**只今ラストオーダーの時間を過ぎておりますため、ご注文をお受けすることが難しい状況でございます。**  
+*Tadaima rasuto oodaa no jikan wo sugite orimasu tame, go-chuumon wo o-uke suru koto ga muzukashii joukyou de gozaimasu.*  
 We have passed the last order time, which makes it difficult for us to take further orders at this point.
-</div>
 
 ## Related Expressions
 

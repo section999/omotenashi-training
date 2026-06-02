@@ -9,25 +9,23 @@ Staff use お名前 at virtually every stage of the guest journey: when confirmi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お名前をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>O-namae o o-ukagai shite mo yoroshii deshō ka.</em><br>
+**お名前をお伺いしてもよろしいでしょうか。**  
+*O-namae o o-ukagai shite mo yoroshii deshō ka.*  
 May I ask your name?
-<br><br>
-<span class="keigo-jp"><code>田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。</code></span><br>
-<em>Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.</em><br>
+
+**田中様、ご予約を確認いたしました。本日はご来館ありがとうございます。**  
+*Tanaka-sama, go-yoyaku o kakunin itashimashita. Honjitsu wa go-raikan arigatō gozaimasu.*  
 Mr./Ms. Tanaka, I have confirmed your reservation. Thank you for visiting us today.
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。</code></span><br>
-<em>Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.</em><br>
+
+**恐れ入りますが、もう一度お名前をお聞かせいただけますでしょうか。**  
+*Osoreirimasu ga, mō ichido o-namae o o-kikase itadakemasu deshō ka.*  
 I apologise for the inconvenience: could you kindly tell me your name once more?
-</div>
 
 ## Related Expressions
 
 | Expression | Description |
 |---|---|
-| 〜様<br>〜sama | the honorific suffix added to a guest's name in all direct address; using さん in a formal hotel context when speaking to guests is not recommended. |
+| ○○様<br>○○sama | the honorific suffix added to a guest's name in all direct address; using さん in a formal hotel context when speaking to guests is not recommended. |
 | お苗字<br>o-myōji | the polite term for surname/family name; this is used when distinguishing the family name specifically from the full name. |
 
 ## Common Mistakes

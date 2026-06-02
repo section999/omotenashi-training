@@ -10,19 +10,17 @@ Individual reservations offer the most opportunity for meaningful personalizatio
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。</code></span><br>
-<em>Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.</em><br>
+**個人予約でご来館のお客様は、フロントにてご本人様確認の上チェックインをお願いいたします。**  
+*Kojin yoyaku de go-raikan no o-kyaku-sama wa, furonto nite go-honnin-sama kakunin no ue chekkuin wo o-negai itashimasu.*  
 Guests with individual reservations, please proceed to the front desk for identity verification before checking in.
-<br><br>
-<span class="keigo-jp"><code>個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。</code></span><br>
-<em>Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.</em><br>
+
+**個人予約でダブルルームをご用意しております。ご希望のフロアはございますか。**  
+*Kojin yoyaku de dabururuumu wo go-youi shite orimasu. Go-kibou no furoa wa gozaimasu ka.*  
 We have a double room prepared for your individual reservation. Do you have a preferred floor?
-<br><br>
-<span class="keigo-jp"><code>前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。</code></span><br>
-<em>Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.</em><br>
+
+**前回のご滞在の際のご希望を記録しておりましたので、本日も同じご設定でご用意いたしました。**  
+*Zenkai no go-taizai no sai no go-kibou wo kiroku shite orimashita node, honjitsu mo onaji go-settei de go-youi itashimashita.*  
 We had a record of your preferences from your previous stay, so we have prepared everything according to the same settings today.
-</div>
 
 ## Related Expressions
 

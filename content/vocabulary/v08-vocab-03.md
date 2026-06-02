@@ -5,24 +5,22 @@ title: まっすぐ (massugu)
 ---
 まっすぐ means "straight ahead" and is one of the frequently used directional words in Japanese hospitality. When a destination lies directly along a guest's current path with no turns required, まっすぐ communicates this with economy and clarity. Efficient, unambiguous guidance is a form of respect in Japanese service culture. No guest should have to stop, backtrack, or ask a second time because the first set of directions was unclear. まっすぐ provides an immediate, intuitive orientation cue that works across language backgrounds and levels of familiarity with the property.
 
-In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと〜がございます (if staff goes straight, staff will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
+In hotel contexts, まっすぐ most commonly appears in combinations: まっすぐお進みください (please continue straight), まっすぐ行くと○○がございます (if staff goes straight, staff will find something), or まっすぐ突き当たりに (straight ahead at the end of the corridor). It appears most naturally in long hallways, when pointing guests from the lobby toward the elevator bank, or when describing outdoor walking routes. Adding a distance marker like 〇〇メートルほど or 徒歩〇分 after まっすぐ makes guidance more practical, especially for guests who are trying to decide whether to walk or take a vehicle.
 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ロビーまでまっすぐお進みください。</code></span><br>
-<em>Robii made massugu o-susumi kudasai.</em><br>
+**ロビーまでまっすぐお進みください。**  
+*Robii made massugu o-susumi kudasai.*  
 Please go straight ahead to the lobby.
-<br><br>
-<span class="keigo-jp"><code>この廊下をまっすぐ進むと、右手にエレベーターがございます。</code></span><br>
-<em>Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.</em><br>
+
+**この廊下をまっすぐ進むと、右手にエレベーターがございます。**  
+*Kono rouka wo massugu susumu to, migi-te ni erebeetaa ga gozaimasu.*  
 If you go straight down this corridor, one will find the elevator on your right.
-<br><br>
-<span class="keigo-jp"><code>駅までこの道をまっすぐ、徒歩約10分でございます。</code></span><br>
-<em>Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.</em><br>
+
+**駅までこの道をまっすぐ、徒歩約10分でございます。**  
+*Eki made kono michi wo massugu, toho yaku juppun de gozaimasu.*  
 Go straight down this road to the station: it is approximately a 10-minute walk.
-</div>
 
 ## Related Expressions
 

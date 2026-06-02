@@ -9,19 +9,17 @@ When a guest asks for a 歯ブラシ, staff should treat the request as routine,
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>歯ブラシはバスルームにご用意しております。</code></span><br>
-<em>Haburashi wa basurumu ni goyo'i shite orimasu.</em><br>
+**歯ブラシはバスルームにご用意しております。**  
+*Haburashi wa basurumu ni goyo'i shite orimasu.*  
 A toothbrush is provided in the bathroom.
-<br><br>
-<span class="keigo-jp"><code>歯ブラシをお持ちいたします。少々お待ちいただけますでしょうか。</code></span><br>
-<em>Haburashi wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.</em><br>
+
+**歯ブラシをお持ちいたします。少々お待ちいただけますでしょうか。**  
+*Haburashi wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.*  
 I will bring you a toothbrush. Would you mind waiting just a moment?
-<br><br>
-<span class="keigo-jp"><code>歯ブラシが必要でしたら、フロントにてお申し付けください。すぐにお届けいたします。</code></span><br>
-<em>Haburashi ga hitsuyou deshitara, furonto nite omoushitsuke kudasai. Sugu ni otodoke itashimasu.</em><br>
+
+**歯ブラシが必要でしたら、フロントにてお申し付けください。すぐにお届けいたします。**  
+*Haburashi ga hitsuyou deshitara, furonto nite omoushitsuke kudasai. Sugu ni otodoke itashimasu.*  
 If you need a toothbrush, please let us know at the front desk and we will deliver it to you right away.
-</div>
 
 ## Related Expressions
 

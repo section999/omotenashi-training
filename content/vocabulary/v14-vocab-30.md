@@ -10,19 +10,17 @@ Staff encounter 注意事項 in all sorts of settings. Onsen facilities post rul
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご入館の前に、施設の注意事項をご確認いただけますようお願い申し上げます。</code></span><br>
-<em>Go-nyuukan no mae ni, shisetsu no chuui jikou wo go-kakunin itadakemasu you o-negai moushiagemasu.</em><br>
+**ご入館の前に、施設の注意事項をご確認いただけますようお願い申し上げます。**  
+*Go-nyuukan no mae ni, shisetsu no chuui jikou wo go-kakunin itadakemasu you o-negai moushiagemasu.*  
 We kindly request that you confirm the facility's precautions before entering.
-<br><br>
-<span class="keigo-jp"><code>お体に刺青がある場合、温泉施設の注意事項により、ご利用をお断りする場合がございます。</code></span><br>
-<em>O-karada ni irezumi ga aru baai, onsen shisetsu no chuui jikou ni yori, go-riyou wo o-kotowari suru baai ga gozaimasu.</em><br>
+
+**お体に刺青がある場合、温泉施設の注意事項により、ご利用をお断りする場合がございます。**  
+*O-karada ni irezumi ga aru baai, onsen shisetsu no chuui jikou ni yori, go-riyou wo o-kotowari suru baai ga gozaimasu.*  
 Guests with tattoos may be declined entry based on the hot spring facility's precautions.
-<br><br>
-<span class="keigo-jp"><code>ツアー出発前に、安全に関する注意事項をご説明いたしますので、よくお聞きください。</code></span><br>
-<em>Tsuaa shuppatsu mae ni, anzen ni kan suru chuui jikou wo go-setsumei itashimasu no de, yoku o-kiki kudasai.</em><br>
+
+**ツアー出発前に、安全に関する注意事項をご説明いたしますので、よくお聞きください。**  
+*Tsuaa shuppatsu mae ni, anzen ni kan suru chuui jikou wo go-setsumei itashimasu no de, yoku o-kiki kudasai.*  
 Before the tour departs, we will explain safety precautions, so please listen carefully.
-</div>
 
 ## Related Expressions
 

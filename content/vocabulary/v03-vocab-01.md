@@ -9,19 +9,17 @@ title: 客室 (kyakushitsu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日お泊まりの客室は305号室でございます。</code></span><br>
-<em>Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.</em><br>
+**本日お泊まりの客室は305号室でございます。**  
+*Honjitsu otomari no kyakushitsu wa sanmaru-go-goushitsu de gozaimasu.*  
 Your guest room for tonight is room 305.
-<br><br>
-<span class="keigo-jp"><code>客室へご案内いたします。どうぞこちらへお進みください。</code></span><br>
-<em>Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.</em><br>
+
+**客室へご案内いたします。どうぞこちらへお進みください。**  
+*Kyakushitsu e go-annai itashimasu. Douzo kochira e o-susumi kudasai.*  
 I will guide you to the guest room. Please proceed this way.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、客室からフロントまでお電話ください。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.</em><br>
+
+**ご不明な点がございましたら、客室からフロントまでお電話ください。**  
+*Go-fumeina ten ga gozaimashitara, kyakushitsu kara furonto made o-denwa kudasai.*  
 If you have any questions, please call the front desk from the guest room.
-</div>
 
 ## Related Expressions
 

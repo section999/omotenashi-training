@@ -10,19 +10,17 @@ When paired with floor numbers, 上 becomes the backbone of vertical navigation.
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>フィットネスセンターは一つ上の階、5階にございます。</code></span><br>
-<em>Fittonesu sentaa wa hitotsu ue no kai, go-kai ni gozaimasu.</em><br>
+**フィットネスセンターは一つ上の階、5階にございます。**  
+*Fittonesu sentaa wa hitotsu ue no kai, go-kai ni gozaimasu.*  
 The fitness center is one floor up, on the fifth floor.
-<br><br>
-<span class="keigo-jp"><code>お部屋のアメニティは洗面台の上の棚にご用意しております。</code></span><br>
-<em>O-heya no amenitii wa senmentai no ue no tana ni go-youi shite orimasu.</em><br>
+
+**お部屋のアメニティは洗面台の上の棚にご用意しております。**  
+*O-heya no amenitii wa senmentai no ue no tana ni go-youi shite orimasu.*  
 The room amenities are prepared on the shelf above the vanity.
-<br><br>
-<span class="keigo-jp"><code>宴会場へは上の階のエレベーターホールをご利用ください。</code></span><br>
-<em>Enkaijou e wa ue no kai no erebeetaa hooru wo go-riyou kudasai.</em><br>
+
+**宴会場へは上の階のエレベーターホールをご利用ください。**  
+*Enkaijou e wa ue no kai no erebeetaa hooru wo go-riyou kudasai.*  
 To reach the banquet hall, please use the elevator hall on the upper floor.
-</div>
 
 ## Related Expressions
 

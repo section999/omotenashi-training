@@ -9,19 +9,17 @@ During room orientation, the guideline is clear: if the fridge is empty, 「冷�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>冷蔵庫はご自由にお使いください。</code></span><br>
-<em>Reizouko wa go-jiyuu ni o-tsukai kudasai.</em><br>
+**冷蔵庫はご自由にお使いください。**  
+*Reizouko wa go-jiyuu ni o-tsukai kudasai.*  
 Please feel free to use the refrigerator.
-<br><br>
-<span class="keigo-jp"><code>冷蔵庫内の飲み物はすべて有料となっております。</code></span><br>
-<em>Reizouko nai no nomimono wa subete yuuryou to natte orimasu.</em><br>
+
+**冷蔵庫内の飲み物はすべて有料となっております。**  
+*Reizouko nai no nomimono wa subete yuuryou to natte orimasu.*  
 All beverages inside the refrigerator are chargeable.
-<br><br>
-<span class="keigo-jp"><code>お薬など冷蔵が必要なものがございましたら、冷蔵庫をご利用ください。</code></span><br>
-<em>Okusuri nado reizou ga hitsuyou na mono ga gozaimashitara, reizouko wo go-riyou kudasai.</em><br>
+
+**お薬など冷蔵が必要なものがございましたら、冷蔵庫をご利用ください。**  
+*Okusuri nado reizou ga hitsuyou na mono ga gozaimashitara, reizouko wo go-riyou kudasai.*  
 If you have medications or other items requiring refrigeration, please use the refrigerator.
-</div>
 
 ## Related Expressions
 

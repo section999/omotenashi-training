@@ -9,19 +9,17 @@ title: 緊急 (kinkyuu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>緊急の場合はすぐにフロントに連絡してください。</code></span><br>
-<em>Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.</em><br>
+**緊急の場合はすぐにフロントに連絡してください。**  
+*Kinkyuu no baai wa sugu ni furonto ni renraku shite kudasai.*  
 In case of an emergency, please contact the front desk immediately.
-<br><br>
-<span class="keigo-jp"><code>緊急事態が発生しましたので、お客様は落ち着いてスタッフの指示に従ってください。</code></span><br>
-<em>Kinkyuu jitai ga hassei shimashita no de, okyakusama wa ochitsuite sutaffu no shiji ni shitagatte kudasai.</em><br>
+
+**緊急事態が発生しましたので、お客様は落ち着いてスタッフの指示に従ってください。**  
+*Kinkyuu jitai ga hassei shimashita no de, okyakusama wa ochitsuite sutaffu no shiji ni shitagatte kudasai.*  
 An emergency has occurred, so guests please remain calm and follow staff instructions.
-<br><br>
-<span class="keigo-jp"><code>緊急時の連絡先は客室のインフォメーションブックに記載されています。</code></span><br>
-<em>Kinkyuu ji no renrakusaki wa kyakushitsu no infomēshon bukku ni kisai sarete imasu.</em><br>
+
+**緊急時の連絡先は客室のインフォメーションブックに記載されています。**  
+*Kinkyuu ji no renrakusaki wa kyakushitsu no infomēshon bukku ni kisai sarete imasu.*  
 Emergency contact numbers are listed in the in-room information book.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ A key responsibility with 仮予約 is communicating the 確認期限 clearly. W
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>現在、お客様のご予約は仮予約の状態でございます。〇月〇日までにお支払いをいただくことで確定となります。</code></span><br>
-<em>Genzai, o-kyaku-sama no go-yoyaku wa kari-yoyaku no joutai de gozaimasu. Maru-gatsu maru-nichi made ni o-shiharai wo itadaku koto de kakutei to narimasu.</em><br>
+**現在、お客様のご予約は仮予約の状態でございます。〇月〇日までにお支払いをいただくことで確定となります。**  
+*Genzai, o-kyaku-sama no go-yoyaku wa kari-yoyaku no joutai de gozaimasu. Maru-gatsu maru-nichi made ni o-shiharai wo itadaku koto de kakutei to narimasu.*  
 Your reservation is currently tentative. It will be confirmed upon receipt of payment by [date].
-<br><br>
-<span class="keigo-jp"><code>仮予約の確認期限は今月末でございます。それまでにご連絡いただけますようお願い申し上げます。</code></span><br>
-<em>Kari-yoyaku no kakunin kigen wa kongetsu-matsu de gozaimasu. Sore made ni go-renraku itadakemasu you o-negai moushiagemasu.</em><br>
+
+**仮予約の確認期限は今月末でございます。それまでにご連絡いただけますようお願い申し上げます。**  
+*Kari-yoyaku no kakunin kigen wa kongetsu-matsu de gozaimasu. Sore made ni go-renraku itadakemasu you o-negai moushiagemasu.*  
 The confirmation deadline for your tentative reservation is the end of this month. We ask that you contact us by then.
-<br><br>
-<span class="keigo-jp"><code>期限内にご確認いただけない場合、仮予約が自動的にキャンセルとなる場合がございます。</code></span><br>
-<em>Kigen nai ni go-kakunin itadakenai baai, kari-yoyaku ga jidou-teki ni kyanseru to naru baai ga gozaimasu.</em><br>
+
+**期限内にご確認いただけない場合、仮予約が自動的にキャンセルとなる場合がございます。**  
+*Kigen nai ni go-kakunin itadakenai baai, kari-yoyaku ga jidou-teki ni kyanseru to naru baai ga gozaimasu.*  
 If we do not receive confirmation within the deadline, the tentative reservation may be automatically cancelled.
-</div>
 
 ## Related Expressions
 

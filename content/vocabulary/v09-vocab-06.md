@@ -10,19 +10,17 @@ A common error is to encounter 滞在 in billing summaries (ご滞在中の料�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お滞在中はごゆっくりおくつろぎください。</code></span><br>
-<em>O-taizai chuu wa go-yukkuri o-kutsurogi kudasai.</em><br>
+**お滞在中はごゆっくりおくつろぎください。**  
+*O-taizai chuu wa go-yukkuri o-kutsurogi kudasai.*  
 Please relax and enjoy the stay with us.
-<br><br>
-<span class="keigo-jp"><code>ご滞在は3泊4日のご予定でございますね。</code></span><br>
-<em>Go-taizai wa san-paku yokka no go-yotei de gozaimasu ne.</em><br>
+
+**ご滞在は3泊4日のご予定でございますね。**  
+*Go-taizai wa san-paku yokka no go-yotei de gozaimasu ne.*  
 Your stay is scheduled for 3 nights and 4 days.
-<br><br>
-<span class="keigo-jp"><code>ご滞在中にご不便がございましたら、いつでもフロントまでお申しつけください。</code></span><br>
-<em>Go-taizai chuu ni go-fuben ga gozaimashitara, itsudemo furonto made o-moushitsuke kudasai.</em><br>
+
+**ご滞在中にご不便がございましたら、いつでもフロントまでお申しつけください。**  
+*Go-taizai chuu ni go-fuben ga gozaimashitara, itsudemo furonto made o-moushitsuke kudasai.*  
 If you experience any inconvenience during the stay, please let us know at the front desk at any time.
-</div>
 
 ## Related Expressions
 

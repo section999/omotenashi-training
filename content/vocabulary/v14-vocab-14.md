@@ -9,19 +9,17 @@ Hotel staff field questions about ガイド services regularly and need to be re
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>観光ガイドが名所を案内してくれました。</code></span><br>
-<em>Kankoukyaku gaido ga meisho wo annai shite kuremashita.</em><br>
+**観光ガイドが名所を案内してくれました。**  
+*Kankoukyaku gaido ga meisho wo annai shite kuremashita.*  
 The tour guide showed us the famous places.
-<br><br>
-<span class="keigo-jp"><code>当館では英語対応のガイドをご手配することができます。</code></span><br>
-<em>Toukan de wa eigo taiou no gaido wo otehaisuru koto ga dekimasu.</em><br>
+
+**当館では英語対応のガイドをご手配することができます。**  
+*Toukan de wa eigo taiou no gaido wo otehaisuru koto ga dekimasu.*  
 Our hotel can arrange an English-speaking guide for you.
-<br><br>
-<span class="keigo-jp"><code>博物館では音声ガイドを借りることをお勧めします。</code></span><br>
-<em>Hakubutsukan de wa onsei gaido wo kariru koto wo osusume shimasu.</em><br>
+
+**博物館では音声ガイドを借りることをお勧めします。**  
+*Hakubutsukan de wa onsei gaido wo kariru koto wo osusume shimasu.*  
 We recommend renting an audio guide at the museum.
-</div>
 
 ## Related Expressions
 

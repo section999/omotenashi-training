@@ -29,20 +29,26 @@ Emergency calls, power failure, medical concern, fire alarm, injury, require a r
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋の電気が全部消えました。</code></span><br>
+<em>heya no denki ga zembu kie mashita.</em><br>
 All the lights in my room went out.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ただいまスタッフがお部屋へお伺いいたします。少々お待ちくださいませ。</code></span><br>
+<em>moushiwake gozaimase n. tadaima sutaffu ga o-heya e o ukagai itashimasu. shoushou omachi kudasaimase.</em><br>
 I sincerely apologize. A staff member will come to your room immediately. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お部屋番号をご確認させていただけますでしょうか。</code></span><br>
+<em>o-heya bangou o go-kakunin sa se te itadake masu deshou ka.</em><br>
 May I confirm your room number?
 </div>
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>具合が悪いです。助けてください。</code></span><br>
+<em>guai ga warui desu. tasuke te kudasai.</em><br>
 I feel unwell. Please help.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。すぐに対応いたします。お部屋番号をお教えいただけますでしょうか。</code></span><br>
+<em>kashikomarimashita. sugu ni taiou itashimasu. o-heya bangou o o oshie itadake masu deshou ka.</em><br>
 Understood. We will respond immediately. Could you tell me your room number?<br><br>
 <em>[After getting room number]</em><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ただいまスタッフが向かいます。お電話を切らずにいらっしゃいますか。</code></span><br>
+<em>tadaima sutaffu ga mukaimasu. o-denwa o kira zu ni irasshaimasu ka.</em><br>
 Staff are on their way now. Are you able to stay on the line?
 </div>
 
@@ -60,6 +66,7 @@ These are the five most frequent mistakes in hotel telephone communication, alon
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
+<em>kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
 I will confirm that, so please wait a moment.
 </div>
 

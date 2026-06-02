@@ -10,19 +10,17 @@ In daily operations, staff will use 対応 broadly. It covers handling complaint
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご不便をおかけして申し訳ございません。迅速に対応いたします。</code></span><br>
-<em>Go-fuben wo okake shite moushiwake gozaimasen. Jinsoku ni taiou itashimasu.</em><br>
+**ご不便をおかけして申し訳ございません。迅速に対応いたします。**  
+*Go-fuben wo okake shite moushiwake gozaimasen. Jinsoku ni taiou itashimasu.*  
 We apologize for the inconvenience. We will respond promptly.
-<br><br>
-<span class="keigo-jp"><code>ただいま担当者が対応いたしますので、少々お待ちください。</code></span><br>
-<em>Tadaima tantousha ga taiou itashimasu no de, shoushou o-machi kudasai.</em><br>
+
+**ただいま担当者が対応いたしますので、少々お待ちください。**  
+*Tadaima tantousha ga taiou itashimasu no de, shoushou o-machi kudasai.*  
 The person in charge will handle this now, so please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>お客様のご要望には、フロントスタッフが24時間対応しております。</code></span><br>
-<em>O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.</em><br>
+
+**お客様のご要望には、フロントスタッフが24時間対応しております。**  
+*O-kyaku-sama no go-youmou ni wa, furonto sutaffu ga nijuuyojikan taiou shite orimasu.*  
 Our front desk staff is available to respond to your requests 24 hours a day.
-</div>
 
 ## Related Expressions
 

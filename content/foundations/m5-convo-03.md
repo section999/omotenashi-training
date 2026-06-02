@@ -79,21 +79,17 @@ Staff:   またのお越しをお待ちしております。お気をつけて�
 
 ### Asking About Payment
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お支払いはいかがなさいますか</code></span><br>
-<em>o-shiharai wa ikaga nasaimasu ka</em><br>
+**お支払いはいかがなさいますか**  
+*o-shiharai wa ikaga nasaimasu ka*  
 How would you like to pay?
-</div>
 
 いかがなさいますか is the honorific form of どうしますか. It asks the guest to make a decision without any pressure. The guest feels they are choosing, not being processed.
 
 ### The Thank-You for Staying
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は○泊ご利用いただきまして、誠にありがとうございました。</code></span><br>
-<em>kono tabi wa ○-haku go-riyou itadakimashite, makoto ni arigatou gozaimashita.</em><br>
+**この度は○泊ご利用いただきまして、誠にありがとうございました。**  
+*kono tabi wa ○-haku go-riyou itadakimashite, makoto ni arigatou gozaimashita.*  
 Thank you very much for choosing to stay with us for ○ nights.
-</div>
 
 ご利用いただきまして uses the humble form of "to use," expressing the guest's choice to stay as something humbly received by the hotel. This phrasing communicates genuine appreciation.
 
@@ -101,8 +97,10 @@ Thank you very much for choosing to stay with us for ○ nights.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>またのお越しをお待ちしております</code></span><br>
+<em>mata no okoshi o omachi shite orimasu</em><br>
 We look forward to welcoming you again.<br><br>
 <span class="keigo-jp"><code>お気をつけてお帰りくださいませ</code></span><br>
+<em>oki o tsukete o-kaeri kudasaimase</em><br>
 Please take care on your journey home.
 </div>
 
@@ -112,11 +110,9 @@ The first phrase keeps the relationship open, treating this not as goodbye but a
 
 Always offer to help with luggage, even if the guest appears to be managing. The offer itself communicates attentiveness:
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お荷物はお持ちいたしましょうか。</code></span><br>
-<em>o-nimotsu wa o-mochi itashimashoo ka</em><br>
+**お荷物はお持ちいたしましょうか。**  
+*o-nimotsu wa o-mochi itashimashoo ka*  
 May I carry your luggage for you?
-</div>
 
 If the guest declines, respond with 承知いたしました (Understood) and accept gracefully with no disappointment shown.
 

@@ -10,19 +10,17 @@ When staff need to inform a guest that dates or seats are fully booked, the reco
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に恐れ入りますが、ご希望の日程は満席状況でございます。他のご日程でしたらご案内できますが、いかがでしょうか。</code></span><br>
-<em>Makoto ni osoreirimasu ga, go-kibou no nittei wa manseki joukyou de gozaimasu. Hoka no go-nittei deshitara go-annai dekimasu ga, ikaga deshou ka.</em><br>
+**誠に恐れ入りますが、ご希望の日程は満席状況でございます。他のご日程でしたらご案内できますが、いかがでしょうか。**  
+*Makoto ni osoreirimasu ga, go-kibou no nittei wa manseki joukyou de gozaimasu. Hoka no go-nittei deshitara go-annai dekimasu ga, ikaga deshou ka.*  
 I sincerely apologize, but the dates you requested are fully booked. We do have availability on other dates: would that work for you?
-<br><br>
-<span class="keigo-jp"><code>今週末は満席状況が続いておりますので、キャンセル待ちにご登録されますか。</code></span><br>
-<em>Konshuu-matsu wa manseki joukyou ga tsuzuite orimasu node, kyanseru-machi ni go-touroku saremasu ka.</em><br>
+
+**今週末は満席状況が続いておりますので、キャンセル待ちにご登録されますか。**  
+*Konshuu-matsu wa manseki joukyou ga tsuzuite orimasu node, kyanseru-machi ni go-touroku saremasu ka.*  
 We are fully booked through this weekend: would you like to be added to our cancellation waiting list?
-<br><br>
-<span class="keigo-jp"><code>レストランも満席状況でございますが、15分ほどお待ちいただければご案内できます。</code></span><br>
-<em>Resutoran mo manseki joukyou de gozaimasu ga, juugo-fun hodo o-machi itadakereba go-annai dekimasu.</em><br>
+
+**レストランも満席状況でございますが、15分ほどお待ちいただければご案内できます。**  
+*Resutoran mo manseki joukyou de gozaimasu ga, juugo-fun hodo o-machi itadakereba go-annai dekimasu.*  
 Our restaurant is also fully booked, but if one is willing to wait approximately 15 minutes, we can seat you.
-</div>
 
 ## Related Expressions
 

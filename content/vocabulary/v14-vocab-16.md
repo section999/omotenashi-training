@@ -9,19 +9,17 @@ Hotel staff who proactively recommend 地図アプリ add real value to the gues
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>旅行中は地図アプリで目的地を探しました。</code></span><br>
-<em>Ryokou-chuu wa chizu apuri de mokutekichi wo sagashimashita.</em><br>
+**旅行中は地図アプリで目的地を探しました。**  
+*Ryokou-chuu wa chizu apuri de mokutekichi wo sagashimashita.*  
 I used a map app to find my destination while traveling.
-<br><br>
-<span class="keigo-jp"><code>地図アプリを使えば、最寄りの駅まで簡単に行けます。</code></span><br>
-<em>Chizu apuri wo tsukaeba, moyori no eki made kantan ni ikemasu.</em><br>
+
+**地図アプリを使えば、最寄りの駅まで簡単に行けます。**  
+*Chizu apuri wo tsukaeba, moyori no eki made kantan ni ikemasu.*  
 If you use a map app, one can easily get to the nearest station.
-<br><br>
-<span class="keigo-jp"><code>オフラインでも使えるように地図アプリをダウンロードされることをお勧めします。</code></span><br>
-<em>Ofurain de mo tsukaeru you ni chizu apuri wo daunroodo sareru koto wo osusume shimasu.</em><br>
+
+**オフラインでも使えるように地図アプリをダウンロードされることをお勧めします。**  
+*Ofurain de mo tsukaeru you ni chizu apuri wo daunroodo sareru koto wo osusume shimasu.*  
 We recommend downloading the map app in advance so one can use it offline.
-</div>
 
 ## Related Expressions
 

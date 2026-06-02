@@ -10,19 +10,17 @@ Even routine 作業 are treated with care and attention in Japanese hospitality.
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックアウト後の客室清掃作業は、2時間以内に完了させてください。</code></span><br>
-<em>Chekku auto go no kyakushitsu seisou sagyou wa, nijikan inai ni kanryou sasete kudasai.</em><br>
+**チェックアウト後の客室清掃作業は、2時間以内に完了させてください。**  
+*Chekku auto go no kyakushitsu seisou sagyou wa, nijikan inai ni kanryou sasete kudasai.*  
 Please complete the guest room cleaning task within two hours after checkout.
-<br><br>
-<span class="keigo-jp"><code>倉庫での作業を行う際は、安全手順を必ず守ってください。</code></span><br>
-<em>Soukou de no sagyou wo okonau sai wa, anzen tejun wo kanarazu mamotte kudasai.</em><br>
+
+**倉庫での作業を行う際は、安全手順を必ず守ってください。**  
+*Soukou de no sagyou wo okonau sai wa, anzen tejun wo kanarazu mamotte kudasai.*  
 When performing tasks in the warehouse, please always follow the safety procedures.
-<br><br>
-<span class="keigo-jp"><code>バンケット会場のセッティング作業が予定通りに完了いたしました。</code></span><br>
-<em>Banketto kaijou no settingu sagyou ga yotei doori ni kanryou itashimashita.</em><br>
+
+**バンケット会場のセッティング作業が予定通りに完了いたしました。**  
+*Banketto kaijou no settingu sagyou ga yotei doori ni kanryou itashimashita.*  
 The setup task for the banquet venue has been completed as scheduled.
-</div>
 
 ## Related Expressions
 

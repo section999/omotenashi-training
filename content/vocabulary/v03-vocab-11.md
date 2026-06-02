@@ -9,19 +9,17 @@ The phrase お持ちいたしましょうか (shall I bring you one?) is the app
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>追加の毛布をお持ちいたしましょうか？夜は冷え込みますので。</code></span><br>
-<em>Tsuika no moufu wo o-mochi itashimashou ka? Yoru wa hie-komimasu no de.</em><br>
+**追加の毛布をお持ちいたしましょうか？夜は冷え込みますので。**  
+*Tsuika no moufu wo o-mochi itashimashou ka? Yoru wa hie-komimasu no de.*  
 Shall I bring you an extra blanket? It gets quite cold at night.
-<br><br>
-<span class="keigo-jp"><code>毛布はクローゼット内の棚にご用意しております。</code></span><br>
-<em>Moufu wa kuroozetto-nai no tana ni go-youi shite orimasu.</em><br>
+
+**毛布はクローゼット内の棚にご用意しております。**  
+*Moufu wa kuroozetto-nai no tana ni go-youi shite orimasu.*  
 There is a blanket prepared for you on the shelf in the closet.
-<br><br>
-<span class="keigo-jp"><code>ただいま毛布をお持ちいたします。少々お待ちくださいませ。</code></span><br>
-<em>Tadaima moufu wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
+
+**ただいま毛布をお持ちいたします。少々お待ちくださいませ。**  
+*Tadaima moufu wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*  
 I will bring a blanket right away. Please wait just a moment.
-</div>
 
 ## Related Expressions
 

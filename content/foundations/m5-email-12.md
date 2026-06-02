@@ -18,13 +18,18 @@ Cancellation emails serve a dual purpose: they confirm the cancellation administ
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【キャンセル確認】[Name]様 ご予約キャンセルのご確認</code></span><br><br>
+<em>【 kyanseru kakunin 】[ Name ] sama go-yoyaku kyanseru no go-kakunin</em><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
 Thank you for contacting us.<br><br>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）を承りました取り消しが完了いたしましたことをご確認申し上げます。</code></span><br>
+<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) o uketamawarimashita torikeshi ga kanryou itashimashita koto o go-kakunin moushiage masu.</em><br>
 We confirm that the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]) has been completed.<br><br>
 <span class="keigo-jp"><code>キャンセル料は発生しておりません。</code></span><br>
+<em>kyanseru ryou wa hassei shite ori mase n.</em><br>
 No cancellation fee has been charged.<br><br>
 <span class="keigo-jp"><code>またの機会に、ぜひ当ホテルをご利用いただけますと幸いでございます。ご来訪をお待ちしております。</code></span><br>
+<em>mata no kikai ni, zehi tou hoteru o go-riyou itadake masu to saiwai de gozaimasu. go raihou o omachi shite orimasu.</em><br>
 We hope to have the opportunity to welcome you again. We look forward to your future visit.
 </div>
 
@@ -32,17 +37,24 @@ We hope to have the opportunity to welcome you again. We look forward to your fu
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【キャンセル確認】[Name]様 キャンセル料のご案内</code></span><br><br>
+<em>【 kyanseru kakunin 】[ Name ] sama kyanseru ryou no go-annai</em><br>
 <span class="keigo-jp"><code>この度は、ご連絡いただきありがとうございます。</code></span><br>
+<em>kono tabi wa, go-renraku itadaki arigatou gozaimasu.</em><br>
 Thank you for contacting us.<br><br>
 <span class="keigo-jp"><code>[Name]様のご予約（[Date]〜[Date]）のキャンセルを承りました。</code></span><br>
+<em>[ Name ] sama no go-yoyaku ([ Date ]〜[ Date ]) no kyanseru o uketamawarimashita.</em><br>
 We have received the cancellation of Mr./Ms. [Name]'s reservation ([Date] to [Date]).<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします。</code></span><br>
+<em>makotoni osoreirimasu ga, go-yoyaku jouken ni motozuki, kyanseru ryou ga hassei itashimasu.</em><br>
 We are sorry to inform you, but based on the reservation terms, a cancellation fee will apply.<br><br>
 <span class="keigo-jp"><code>キャンセル料：[Amount]円（[Date]チェックイン1泊分）</code></span><br>
+<em>kyanseru ryou :[ Amount ] en ([ Date ] chekkuin 1 haku bun )</em><br>
 Cancellation fee: [Amount] yen (equivalent to 1 night of [Date] check-in)<br><br>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>またの機会にぜひご利用いただけますと幸いでございます。</code></span><br>
+<em>mata no kikai ni zehi go-riyou itadake masu to saiwai de gozaimasu.</em><br>
 We hope to have the opportunity to welcome you again.
 </div>
 
@@ -60,9 +72,9 @@ This phrase softens the notification of a cancellation fee. It acknowledges the 
 
 **A guest cancels a reservation that incurs a fee. How should the cancellation email communicate the fee?**
 
-- A. 「キャンセル料を払ってください」
-- B. 「誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします」
-- C. 「キャンセル料はありません」(when there is a fee)
+- A. キャンセル料を払ってください
+- B. 誠に恐れ入りますが、ご予約条件に基づき、キャンセル料が発生いたします
+- C. キャンセル料はありません(when there is a fee)
 - D. Say nothing about the fee and send a bill separately
 
 **Correct Answer:** B

@@ -10,19 +10,17 @@ Staff should also moderate how they use 遠い. Softening with 少し (a little)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。</code></span><br>
-<em>Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.</em><br>
+**少し遠いため、タクシーのご利用をおすすめいたします。料金は片道およそ1,200円でございます。**  
+*Sukoshi tooi tame, takushii no go-riyou wo o-susume itashimasu. Ryoukin wa katamichi oyoso sen nihyaku en de gozaimasu.*  
 It is a little far, so we recommend taking a taxi. The one-way fare is approximately 1,200 yen.
-<br><br>
-<span class="keigo-jp"><code>お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。</code></span><br>
-<em>O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.</em><br>
+
+**お客様のご目的地は徒歩では少々遠うございますので、バスをご案内いたしましょうか。**  
+*O-kyakusama no go-mokutekichi wa toho de wa shoushou toou gozaimasu node, basu wo go-annai itashimashou ka.*  
 Your destination is a little far to walk to: shall I give you directions to the bus?
-<br><br>
-<span class="keigo-jp"><code>観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。</code></span><br>
-<em>Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.</em><br>
+
+**観光スポットまでは少し距離がございますが、送迎バスにてご案内できます。**  
+*Kankou supotto made wa sukoshi kyori ga gozaimasu ga, sougei basu ni te go-annai dekimasu.*  
 The sightseeing spot is a short distance away, but we can take you there by shuttle bus.
-</div>
 
 ## Related Expressions
 

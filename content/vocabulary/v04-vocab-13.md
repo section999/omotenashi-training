@@ -9,19 +9,17 @@ When guests ask about the ドライヤー, whether they are wondering where it i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ドライヤーはバスルームの引き出しに入っております。</code></span><br>
-<em>Doraiyaa wa basurumu no hikidashi ni haitte orimasu.</em><br>
+**ドライヤーはバスルームの引き出しに入っております。**  
+*Doraiyaa wa basurumu no hikidashi ni haitte orimasu.*  
 The hair dryer is stored in the bathroom drawer.
-<br><br>
-<span class="keigo-jp"><code>ドライヤーはコンセントに差してからスイッチを入れてご使用ください。</code></span><br>
-<em>Doraiyaa wa konsento ni sashite kara suitchi wo irete goshiyou kudasai.</em><br>
+
+**ドライヤーはコンセントに差してからスイッチを入れてご使用ください。**  
+*Doraiyaa wa konsento ni sashite kara suitchi wo irete goshiyou kudasai.*  
 Please plug the hair dryer in and turn on the switch before use.
-<br><br>
-<span class="keigo-jp"><code>ドライヤーの調子が悪い場合は、すぐに新しいものをご用意いたします。</code></span><br>
-<em>Doraiyaa no choushi ga warui baai wa, sugu ni atarashii mono wo goyo'i itashimasu.</em><br>
+
+**ドライヤーの調子が悪い場合は、すぐに新しいものをご用意いたします。**  
+*Doraiyaa no choushi ga warui baai wa, sugu ni atarashii mono wo goyo'i itashimasu.*  
 If the hair dryer is not working properly, we will provide a new one right away.
-</div>
 
 ## Related Expressions
 

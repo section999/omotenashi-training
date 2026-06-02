@@ -6,23 +6,21 @@ title: 延長 (enchou)
 
 延長 (enchou) means "extension," the act of prolonging something beyond its original endpoint. In hotel operations, it most often refers to 滞在延長 (taizai enchou), extending a guest's stay beyond the checkout date already in the system. The term also covers other situations: a late checkout request, continued use of a meeting room, or extended rental of hotel equipment. In Japanese hospitality culture, being able to accommodate a guest who wants to stay longer is viewed positively, a small but meaningful mark of service quality. Handling 延長 requests smoothly is an important skill for hotel staff to develop.
 
-When a guest asks about 延長, the front desk process has three steps that must happen before the staff member gives any answer: check whether the room is available for the extra night, confirm that no other guest is already scheduled to check into that same room, and establish any applicable rate differences. Only after those three things are confirmed should the staff member respond. The appropriate phrasing is ご延長のご希望を承りました。本日の料金は〜円でご案内いたします. A common error is skipping one of those steps in the moment, especially the incoming guest check, and that is how double-booking conflicts happen.
+When a guest asks about 延長, the front desk process has three steps that must happen before the staff member gives any answer: check whether the room is available for the extra night, confirm that no other guest is already scheduled to check into that same room, and establish any applicable rate differences. Only after those three things are confirmed should the staff member respond. The appropriate phrasing is ご延長のご希望を承りました。本日の料金は○○円でご案内いたします. A common error is skipping one of those steps in the moment, especially the incoming guest check, and that is how double-booking conflicts happen.
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>滞在を1泊延長したいのですが、可能でしょうか。</code></span><br>
-<em>Taizai wo ippaku enchou shitai no desu ga, kanou deshou ka.</em><br>
+**滞在を1泊延長したいのですが、可能でしょうか。**  
+*Taizai wo ippaku enchou shitai no desu ga, kanou deshou ka.*  
 I would like to extend my stay by one night: is that possible?
-<br><br>
-<span class="keigo-jp"><code>ご延長の件、ただいまシステムで確認いたします。少々お待ちくださいませ。</code></span><br>
-<em>Go-enchou no ken, tadaima shisutemu de kakunin itashimasu. Shoushou o-machi kudasaimase.</em><br>
+
+**ご延長の件、ただいまシステムで確認いたします。少々お待ちくださいませ。**  
+*Go-enchou no ken, tadaima shisutemu de kakunin itashimasu. Shoushou o-machi kudasaimase.*  
 Regarding your request to extend the stay, I am checking the system now. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>本日も同じお部屋にてご延長が可能でございます。追加料金は1泊〜円でございます。</code></span><br>
-<em>Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku〜en de gozaimasu.</em><br>
+
+**本日も同じお部屋にてご延長が可能でございます。追加料金は1泊○○円でございます。**  
+*Honjitsu mo onaji o-heya nite go-enchou ga kanou de gozaimasu. Tsuika ryoukin wa ippaku○○en de gozaimasu.*  
 We are able to extend the stay in the same room tonight. The additional charge is [amount] yen per night.
-</div>
 
 ## Related Expressions
 

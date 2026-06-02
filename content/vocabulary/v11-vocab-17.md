@@ -9,19 +9,17 @@ The standard recovery script opens with an apology before anything else: 先ほ�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>通話中に切断されました。大変申し訳ございません。</code></span><br>
-<em>Tsuuwachuu ni setsudan saremashita. Taihen moushiwake gozaimasen.</em><br>
+**通話中に切断されました。大変申し訳ございません。**  
+*Tsuuwachuu ni setsudan saremashita. Taihen moushiwake gozaimasen.*  
 The call was disconnected mid-conversation. I sincerely apologize.
-<br><br>
-<span class="keigo-jp"><code>先ほどは切断されてしまい、ご不便をおかけいたしました。</code></span><br>
-<em>Sakihodo wa setsudan sarete shimai, go-fuben wo okake itashimashita.</em><br>
+
+**先ほどは切断されてしまい、ご不便をおかけいたしました。**  
+*Sakihodo wa setsudan sarete shimai, go-fuben wo okake itashimashita.*  
 I apologize for the inconvenience caused by the disconnection earlier.
-<br><br>
-<span class="keigo-jp"><code>万が一切断された場合は、こちらからすぐにおかけ直しいたします。</code></span><br>
-<em>Mangaichi setsudan sareta baai wa, kochira kara sugu ni okake naoshi itashimasu.</em><br>
+
+**万が一切断された場合は、こちらからすぐにおかけ直しいたします。**  
+*Mangaichi setsudan sareta baai wa, kochira kara sugu ni okake naoshi itashimasu.*  
 If the call is disconnected for any reason, we will call you back immediately.
-</div>
 
 ## Related Expressions
 

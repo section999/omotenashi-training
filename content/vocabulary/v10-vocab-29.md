@@ -9,19 +9,17 @@ Whenever staff quote a 税別 price, they should immediately follow up with the 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらの料金は税別でございます。</code></span><br>
-<em>Kochira no ryōkin wa zeibetsu de gozaimasu.</em><br>
+**こちらの料金は税別でございます。**  
+*Kochira no ryōkin wa zeibetsu de gozaimasu.*  
 This rate is exclusive of tax.
-<br><br>
-<span class="keigo-jp"><code>税別一万円ですので、税込では一万千円となります。</code></span><br>
-<em>Zeibetsu ichiman-en desu node, zeikomi de wa ichiman issen-en to narimasu.</em><br>
+
+**税別一万円ですので、税込では一万千円となります。**  
+*Zeibetsu ichiman-en desu node, zeikomi de wa ichiman issen-en to narimasu.*  
 The price is 10,000 yen excluding tax, so the total including tax will be 11,000 yen.
-<br><br>
-<span class="keigo-jp"><code>メニューの価格はすべて税別となっておりますのでご了承ください。</code></span><br>
-<em>Menyū no kakaku wa subete zeibetsu to natte orimasu node goryōshō kudasai.</em><br>
+
+**メニューの価格はすべて税別となっておりますのでご了承ください。**  
+*Menyū no kakaku wa subete zeibetsu to natte orimasu node goryōshō kudasai.*  
 Please note that all prices on the menu are exclusive of tax.
-</div>
 
 ## Related Expressions
 

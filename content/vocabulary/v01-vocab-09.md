@@ -13,19 +13,17 @@ The phrase is always in the past tense (ました), which conveys immediate comp
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>かしこまりました。ただいまお持ちいたします。</code></span><br>
-<em>Kashikomarimashita. Tadaima o-mochi itashimasu.</em><br>
+**かしこまりました。ただいまお持ちいたします。**  
+*Kashikomarimashita. Tadaima o-mochi itashimasu.*  
 Certainly. I will bring it to you right now.
-<br><br>
-<span class="keigo-jp"><code>かしこまりました。ご要望を承りました。</code></span><br>
-<em>Kashikomarimashita. Go-yōbō wo uketamawarimashita.</em><br>
+
+**かしこまりました。ご要望を承りました。**  
+*Kashikomarimashita. Go-yōbō wo uketamawarimashita.*  
 Certainly. I have received your request.
-<br><br>
-<span class="keigo-jp"><code>かしこまりました。お部屋まで直ちにお届けいたします。</code></span><br>
-<em>Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.</em><br>
+
+**かしこまりました。お部屋まで直ちにお届けいたします。**  
+*Kashikomarimashita. O-heya made tadachi ni o-todoke itashimasu.*  
 Certainly. I will have it delivered to the room immediately.
-</div>
 
 ## Related Expressions
 

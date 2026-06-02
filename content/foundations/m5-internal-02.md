@@ -31,10 +31,13 @@ Every supervisor report should contain three elements in this order:
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>〇〇の件、完了いたしました。</code></span><br>
+<em>〇 〇 no ken, kanryou itashimashita.</em><br>
 The matter of [task] has been completed.<br><br>
 <span class="keigo-jp"><code>○○のご対応が完了いたしましたのでご報告いたします。</code></span><br>
+<em>○ ○ no go-taiou ga kanryou itashimashita node go-houkoku itashimasu.</em><br>
 I am reporting that we have completed [matter].<br><br>
 <span class="keigo-jp"><code>問題なく対応できました。</code></span><br>
+<em>mondai naku taiou dekimashita.</em><br>
 It was handled without any issues.
 </div>
 
@@ -42,10 +45,13 @@ It was handled without any issues.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>〇〇にて問題が発生いたしました。ご報告いたします。</code></span><br>
+<em>〇 〇 nite mondai ga hassei itashimashita. go-houkoku itashimasu.</em><br>
 A problem has occurred with [matter]. I am reporting this now.<br><br>
 <span class="keigo-jp"><code>〇〇号室のエアコンが作動しておりません。お客様よりご連絡いただきました。</code></span><br>
+<em>〇 〇 gou shitsu no eakon ga sadou shite ori mase n. okyakusama yori go-renraku itadakimashita.</em><br>
 The air conditioning in Room [X] is not functioning. We received a report from the guest.<br><br>
 <span class="keigo-jp"><code>ただいまのところ〇〇の状況です。いかがいたしましょうか。</code></span><br>
+<em>tada ima no tokoro 〇 〇 no joukyou desu. ika ga itashi masho u ka.</em><br>
 The current situation is [X]. How would you like me to proceed?
 </div>
 
@@ -53,10 +59,13 @@ The current situation is [X]. How would you like me to proceed?
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>〇〇様よりご要望がございました。ご確認いただけますでしょうか。</code></span><br>
+<em>〇 〇 you yori go-youbou ga gozaimashita. go-kakunin itadake masu deshou ka.</em><br>
 We have received a request from Mr./Ms. [Name]. Could you please take a look?<br><br>
 <span class="keigo-jp"><code>〇〇様がご不満のようで、私では対応が難しい状況です。ご対応いただけますでしょうか。</code></span><br>
+<em>〇 〇 you ga go fuman no you de, watashi de wa taiou ga muzukashii joukyou desu. go-taiou itadake masu deshou ka.</em><br>
 Mr./Ms. [Name] appears to be dissatisfied, and the situation is beyond what I can handle alone. Could you step in?<br><br>
 <span class="keigo-jp"><code>詳細はこちらです。</code></span><br>
+<em>shousai wa kochira desu.</em><br>
 Here are the details.
 </div>
 
@@ -73,10 +82,10 @@ Here are the details.
 
 **A staff member wants to report to their supervisor that a guest in Room 805 has complained about noise. Which opening is correct?**
 
-- A. 「805号室のお客様が、なんか、うるさいって言ってました」
-- B. 「805号室のお客様より騒音のご苦情がございました。ご報告いたします」
-- C. 「うるさい部屋があるみたいです」
-- D. 「大変でした。805号室のお客様がすごく怒っていて...」
+- A. 805号室のお客様が、なんか、うるさいって言ってました
+- B. 805号室のお客様より騒音のご苦情がございました。ご報告いたします
+- C. うるさい部屋があるみたいです
+- D. 大変でした。805号室のお客様がすごく怒っていて...
 
 **Correct Answer:** B
 

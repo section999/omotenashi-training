@@ -10,19 +10,17 @@ In a hospitality context, the key handover is a notable carefully choreographed 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞ。</code></span><br>
-<em>Kochira ga o-heya no kagi de gozaimasu. Dōzo.</em><br>
+**こちらがお部屋の鍵でございます。どうぞ。**  
+*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*  
 Here is the room key. Please.
-<br><br>
-<span class="keigo-jp"><code>ご出発の際は、鍵のご返却をお願いいたします。</code></span><br>
-<em>Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.</em><br>
+
+**ご出発の際は、鍵のご返却をお願いいたします。**  
+*Go-shuppatsu no sai wa, kagi no go-henkyaku wo o-negai itashimasu.*  
 We kindly ask that you return the key when one depart.
-<br><br>
-<span class="keigo-jp"><code>鍵をお忘れの場合は、フロントまでお申し付けください。</code></span><br>
-<em>Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.</em><br>
+
+**鍵をお忘れの場合は、フロントまでお申し付けください。**  
+*Kagi wo o-wasure no baai wa, furonto made o-mōshitsuke kudasai.*  
 If you forget your key, please let us know at the front desk.
-</div>
 
 ## Related Expressions
 

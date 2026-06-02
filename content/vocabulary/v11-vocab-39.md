@@ -10,19 +10,17 @@ The phrase is most effective when framed with a polite apology at the front and 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、もう一度お願いします。お名前をはっきりお聞かせいただけますか。</code></span><br>
-<em>Osore irimasu ga, mouichido onegai shimasu. Onamae wo hakkiri okikase itadakemasu ka.</em><br>
+**恐れ入りますが、もう一度お願いします。お名前をはっきりお聞かせいただけますか。**  
+*Osore irimasu ga, mouichido onegai shimasu. Onamae wo hakkiri okikase itadakemasu ka.*  
 I beg your pardon, but could I ask you once more? Could you please tell me your name clearly?
-<br><br>
-<span class="keigo-jp"><code>申し訳ございません、チェックイン日をもう一度お願いします。</code></span><br>
-<em>Moushiwake gozaimasen, chekkuin bi wo mouichido onegai shimasu.</em><br>
+
+**申し訳ございません、チェックイン日をもう一度お願いします。**  
+*Moushiwake gozaimasen, chekkuin bi wo mouichido onegai shimasu.*  
 I sincerely apologize: could you please repeat your check-in date once more?
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、もう一度おっしゃっていただけますでしょうか。確認のため復唱いたします。</code></span><br>
-<em>Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.</em><br>
+
+**恐れ入りますが、もう一度おっしゃっていただけますでしょうか。確認のため復唱いたします。**  
+*Osore irimasu ga, mouichido osshatte itadakemasu deshou ka. Kakunin no tame fukushou itashimasu.*  
 I'm very sorry to trouble you, but could you say that once more? I will read it back for confirmation.
-</div>
 
 ## Related Expressions
 

@@ -39,6 +39,7 @@ I need to report something. I made a verification error regarding [matter]. The 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご報告いたします。先ほど田中様のチェックインの際に、お部屋を702号室でご案内してしまいましたが、正しくは703号室でございました。現在、田中様は702号室にいらっしゃいます。お鍵の交換とお部屋の移動をご案内すべきかと思いますが、ご指示いただけますでしょうか。</code></span><br>
+<em>go-houkoku itashimasu. saki hodo tanaka sama no chekkuin no sai ni, o-heya o 702 gou shitsu de go-annai shite shimaimashita ga, masashiku wa 703 gou shitsu de gozaimashita. genzai, tanaka sama wa 702 gou shitsu ni irasshaimasu. o kagi no koukan to o-heya no idou o go-annai su beki ka to omoimasu ga, go shiji itadake masu deshou ka.</em><br>
 I need to report something. When checking in Mr./Ms. Tanaka a moment ago, I directed them to Room 702, but the correct room is 703. Mr./Ms. Tanaka is currently in Room 702. I believe we should arrange a key exchange and room move. Could you advise on how to handle this?
 </div>
 
@@ -48,10 +49,13 @@ Escalation is not failure; it is professional judgment. The ability to recognize
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>私の対応範囲を超えていると判断し、ご相談いたします。</code></span><br>
+<em>watashi no taiou han'i o koe te iru to handan shi, go-soudan itashimasu.</em><br>
 I have judged that this is beyond what I can handle on my own and am bringing it to you.<br><br>
 <span class="keigo-jp"><code>〇〇様のご要望につきまして、私での対応が難しく、ご対応をお願いできますでしょうか。</code></span><br>
+<em>〇 〇 you no go-youbou ni tsuki mashite, watashi de no taiou ga muzukashiku, go-taiou o onegai dekimasu deshou ka.</em><br>
 Regarding Mr./Ms. [Name]'s request, I am not able to handle this myself. Could you step in?<br><br>
 <span class="keigo-jp"><code>お客様はまだフロントにいらっしゃいます。</code></span><br>
+<em>okyakusama wa mada furonto ni irasshaimasu.</em><br>
 The guest is still at the front desk.
 </div>
 

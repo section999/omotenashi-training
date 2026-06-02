@@ -9,19 +9,17 @@ In Japanese hospitality, 問題 (mondai) is the standard, neutral term for a pro
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>何かご問題がございましたら、いつでもフロントまでお知らせください。</code></span><br>
-<em>Nanika go-mondai ga gozaimashitara, itsudemo furonto made oshirase kudasai.</em><br>
+**何かご問題がございましたら、いつでもフロントまでお知らせください。**  
+*Nanika go-mondai ga gozaimashitara, itsudemo furonto made oshirase kudasai.*  
 If there is any problem at all, please let the front desk know at any time.
-<br><br>
-<span class="keigo-jp"><code>ただいまお部屋の問題を確認しております。少々お待ちくださいませ。</code></span><br>
-<em>Tadaima oheya no mondai wo kakunin shite orimasu. Shoushou omachi kudasaimase.</em><br>
+
+**ただいまお部屋の問題を確認しております。少々お待ちくださいませ。**  
+*Tadaima oheya no mondai wo kakunin shite orimasu. Shoushou omachi kudasaimase.*  
 We are currently checking the problem in the room. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>ご宿泊中に問題が発生した場合は、すぐにお申し付けいただけますと幸いです。</code></span><br>
-<em>Go-shukuhaku-chuu ni mondai ga hassei shita baai wa, sugu ni o-moushitsuke itadakemasu to saiwai desu.</em><br>
+
+**ご宿泊中に問題が発生した場合は、すぐにお申し付けいただけますと幸いです。**  
+*Go-shukuhaku-chuu ni mondai ga hassei shita baai wa, sugu ni o-moushitsuke itadakemasu to saiwai desu.*  
 If a problem arises during the stay, we would be grateful if one could inform us immediately.
-</div>
 
 ## Related Expressions
 
@@ -48,5 +46,5 @@ A common error is confusing 問題 with クレーム (kuremu) and treating them 
 
 **Correct Answer:** 問題 (problem)
 
-**Explanation:** 問題 is the neutral, professional word for a problem or issue, which is precisely what 何かご〜がございましたら, a polite conditional phrase meaning "if there is anything," is inviting the guest to report. 注文, 提供, and 確認 all belong to service delivery rather than problem acknowledgement, so they would make the sentence meaningless in this context.
+**Explanation:** 問題 is the neutral, professional word for a problem or issue, which is precisely what 何かご○○がございましたら, a polite conditional phrase meaning "if there is anything," is inviting the guest to report. 注文, 提供, and 確認 all belong to service delivery rather than problem acknowledgement, so they would make the sentence meaningless in this context.
 

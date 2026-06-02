@@ -10,19 +10,17 @@ The omotenashi mindset holds that a guest who complains is still giving the esta
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様の苦情を真摯に受け止め、早急に対応いたします。</code></span><br>
-<em>O-kyaku-sama no kujou wo shinshi ni uketome, sakkyu ni taiou itashimasu.</em><br>
+**お客様の苦情を真摯に受け止め、早急に対応いたします。**  
+*O-kyaku-sama no kujou wo shinshi ni uketome, sakkyu ni taiou itashimasu.*  
 We will take your complaint sincerely to heart and respond as quickly as possible.
-<br><br>
-<span class="keigo-jp"><code>ご苦情をいただきまして、ありがとうございます。改善に努めてまいります。</code></span><br>
-<em>Go-kujou wo itadakimashite, arigatou gozaimasu. Kaizen ni tsutomete mairimasu.</em><br>
+
+**ご苦情をいただきまして、ありがとうございます。改善に努めてまいります。**  
+*Go-kujou wo itadakimashite, arigatou gozaimasu. Kaizen ni tsutomete mairimasu.*  
 Thank you for bringing your complaint to our attention. We will strive to make improvements.
-<br><br>
-<span class="keigo-jp"><code>苦情内容を詳しくお聞かせいただけますでしょうか。</code></span><br>
-<em>Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.</em><br>
+
+**苦情内容を詳しくお聞かせいただけますでしょうか。**  
+*Kujou naiyou wo kuwashiku o-kikase itadakemasu deshoo ka.*  
 Could you please tell me the details of your complaint?
-</div>
 
 ## Related Expressions
 

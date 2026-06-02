@@ -10,19 +10,17 @@ Responses can range from adjusting the heating system, to offering extra blanket
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お寒いとのことで、毛布をお持ちいたします。少々お待ちくださいませ。</code></span><br>
-<em>O-samui to no koto de, moufu wo o-mochi itashimasu. Shoushou omachi kudasaimase.</em><br>
+**お寒いとのことで、毛布をお持ちいたします。少々お待ちくださいませ。**  
+*O-samui to no koto de, moufu wo o-mochi itashimasu. Shoushou omachi kudasaimase.*  
 As one is feeling cold, we will bring you a blanket. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。</code></span><br>
-<em>Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.</em><br>
+
+**暖房の設定を変更いたしましょうか。ご希望の温度をお聞かせいただけますか。**  
+*Danbou no settei wo henkou itashimashou ka. Go-kibou no ondo wo o-kikase itadakemasu ka.*  
 Shall we change the heating settings? Could you tell us your preferred temperature?
-<br><br>
-<span class="keigo-jp"><code>寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。</code></span><br>
-<em>Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.</em><br>
+
+**寒い場合は、空調の温度を調整いたしますので、遠慮なくお申し付けください。**  
+*Samui baai wa, kuuchou no ondo wo chousei itashimasu no de, enryo naku o-moushitsuke kudasai.*  
 If you feel cold, please do not hesitate to let us know and we will adjust the air conditioning temperature.
-</div>
 
 ## Related Expressions
 

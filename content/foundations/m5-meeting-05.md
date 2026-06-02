@@ -109,10 +109,10 @@ A VIP guest is scheduled to arrive during the evening shift.
 
 **Which is the correct handover entry for a noise complaint in Room 210?**
 
-- A. 「ちょっと騒音問題がありました」
-- B. 「たぶんうるさかったみたいです」
-- C. 「お客様がうるさいと言っていました」
-- D. 「210号室：騒音クレームあり。夜間スタッフ対応済み。」
+- A. ちょっと騒音問題がありました
+- B. たぶんうるさかったみたいです
+- C. お客様がうるさいと言っていました
+- D. 210号室：騒音クレームあり。夜間スタッフ対応済み。
 
 **Correct Answer:** D
 

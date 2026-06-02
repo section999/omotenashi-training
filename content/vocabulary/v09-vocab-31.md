@@ -10,19 +10,17 @@ From an operations standpoint, 当日予約 means the front desk needs to verify
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>当日予約でも空室がございましたら、喜んでご案内させていただきます。</code></span><br>
-<em>Toujitsu yoyaku demo kuushitsu ga gozaimashitara, yorokonde go-annai sasete itadakimasu.</em><br>
+**当日予約でも空室がございましたら、喜んでご案内させていただきます。**  
+*Toujitsu yoyaku demo kuushitsu ga gozaimashitara, yorokonde go-annai sasete itadakimasu.*  
 If we have availability, we are happy to accommodate same-day reservations.
-<br><br>
-<span class="keigo-jp"><code>ご当日のご予約を承りました。チェックインは午後3時からご案内できます。</code></span><br>
-<em>Go-toujitsu no go-yoyaku wo uketamawarimashita. Chekkuin wa gogo sanji kara go-annai dekimasu.</em><br>
+
+**ご当日のご予約を承りました。チェックインは午後3時からご案内できます。**  
+*Go-toujitsu no go-yoyaku wo uketamawarimashita. Chekkuin wa gogo sanji kara go-annai dekimasu.*  
 I have received your same-day reservation. We will be able to check you in from 3:00 PM.
-<br><br>
-<span class="keigo-jp"><code>当日予約でも可能ですが、早割プランは適用されず、通常料金でのご案内となります。</code></span><br>
-<em>Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.</em><br>
+
+**当日予約でも可能ですが、早割プランは適用されず、通常料金でのご案内となります。**  
+*Toujitsu yoyaku demo kanou desu ga, hayawari puran wa tekiyou sarezu, tsuujou ryoukin de no go-annai to narimasu.*  
 Same-day reservations are accepted, but the early bird discount will not apply: the standard rate will be quoted.
-</div>
 
 ## Related Expressions
 

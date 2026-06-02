@@ -9,19 +9,17 @@ In daily hotel work, staff encounter 汚れ in a wide range of forms: carpet sta
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のご指摘の汚れを、ただちに清掃いたします。</code></span><br>
-<em>Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.</em><br>
+**お客様のご指摘の汚れを、ただちに清掃いたします。**  
+*Okyaku-sama no go-shiteki no yogore wo, tadachi ni seisou itashimasu.*  
 We will immediately clean the stain that the guest has pointed out.
-<br><br>
-<span class="keigo-jp"><code>カーペットに汚れを発見しましたので、ご報告いたします。</code></span><br>
-<em>Kaapetto ni yogore wo hakken shimashita node, go-houkoku itashimasu.</em><br>
+
+**カーペットに汚れを発見しましたので、ご報告いたします。**  
+*Kaapetto ni yogore wo hakken shimashita node, go-houkoku itashimasu.*  
 We have found a stain on the carpet and are reporting it.
-<br><br>
-<span class="keigo-jp"><code>頑固な汚れには専用のクリーナーをお使いください。</code></span><br>
-<em>Ganko na yogore ni wa senyou no kuriinaa wo o-tsukai kudasai.</em><br>
+
+**頑固な汚れには専用のクリーナーをお使いください。**  
+*Ganko na yogore ni wa senyou no kuriinaa wo o-tsukai kudasai.*  
 Please use the dedicated cleaner for stubborn stains.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ Practical guidance centers on the connection steps themselves. staff might say �
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>接続方法をご案内いたしますので、少々お待ちください。</code></span><br>
-<em>Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.</em><br>
+**接続方法をご案内いたしますので、少々お待ちください。**  
+*Setsuzoku houhou wo go-annai itashimasu no de, shoushou o-machi kudasai.*  
 I will guide you on how to connect, so please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。</code></span><br>
-<em>Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.</em><br>
+
+**Wi-Fiへの接続がうまくいかない場合は、一度電源をお切りになり、再度お試しください。**  
+*Waifai e no setsuzoku ga umaku ikanai baai wa, ichido dengen wo o-kiri ni nari, saido o-tameshi kudasai.*  
 If the Wi-Fi connection is not working, please turn off your device once and try again.
-<br><br>
-<span class="keigo-jp"><code>お客様のお部屋では接続が安定しているか、担当者が確認いたします。</code></span><br>
-<em>O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.</em><br>
+
+**お客様のお部屋では接続が安定しているか、担当者が確認いたします。**  
+*O-kyaku-sama no o-heya de wa setsuzoku ga antei shite iru ka, tantousha ga kakunin itashimasu.*  
 A member of staff will check whether the connection is stable in the room.
-</div>
 
 ## Related Expressions
 

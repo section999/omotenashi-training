@@ -20,15 +20,21 @@ An apology email is one of the most critical communications a hotel sends. It ca
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【ご不便のお詫び】ご滞在中のご不便について</code></span><br><br>
+<em>【 go fuben no owabi 】 go-taizai chu no go fuben nitsuite</em><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
+<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-jp"><code>ご滞在中に[issue]によりご不便をおかけしましたこと、重ねてお詫び申し上げます。</code></span><br>
+<em>go-taizai chu ni [ issue ] niyori go fuben o okake shimashita koto, kasane te owabi moushiage masu.</em><br>
 We sincerely apologize again for the inconvenience caused during your stay by [issue].<br><br>
 <span class="keigo-jp"><code>現在、[specific action taken or planned]に向けて取り組んでおります。</code></span><br>
+<em>genzai, [ specific action taken or planned ] ni muke te torikun de orimasu.</em><br>
 We are currently working on [specific action taken or planned].<br><br>
 <span class="keigo-jp"><code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります。</code></span><br>
+<em>douyou no jitai ga saihatsu shi nai you, sutaffu ichi dou kaizen ni tsutome te mairimasu.</em><br>
 All of our staff will work to prevent the same situation from occurring again.<br><br>
 <span class="keigo-jp"><code>今後ともどうぞよろしくお願い申し上げます。ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>kongo to mo douzo yoroshiku onegai moushiage masu. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 We humbly ask for your continued support. Please feel free to contact us if you have any questions.
 </div>
 
@@ -40,7 +46,9 @@ Name the specific issue. A general apology without naming what happened sounds d
 
 <div class="keigo-card blue">
 <strong>Excuse language:</strong> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br><br>
+<em>setsubi no roukyu ka niyori go fuben o okake shimashita</em><br>
 <strong>Overly cheerful closing:</strong> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
+<em>mata no okoshi o omachi shite orimasu!</em><br>
 <strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span>
 </div>
 

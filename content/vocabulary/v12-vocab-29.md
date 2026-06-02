@@ -10,19 +10,17 @@ When issuing 指示 to guests during emergencies, the phrasing needs to balance 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>避難の際は、スタッフの指示に従って安全にお移りください。</code></span><br>
-<em>Hinan no sai wa, sutaffu no shiji ni shitagatte anzen ni oatsuri kudasai.</em><br>
+**避難の際は、スタッフの指示に従って安全にお移りください。**  
+*Hinan no sai wa, sutaffu no shiji ni shitagatte anzen ni oatsuri kudasai.*  
 During the evacuation, please move to safety by following the instructions of our staff.
-<br><br>
-<span class="keigo-jp"><code>支配人から緊急時の対応について詳しい指示をいただきました。</code></span><br>
-<em>Shihainin kara kinkyuu ji no taiou ni tsuite kuwashii shiji wo itadakimashita.</em><br>
+
+**支配人から緊急時の対応について詳しい指示をいただきました。**  
+*Shihainin kara kinkyuu ji no taiou ni tsuite kuwashii shiji wo itadakimashita.*  
 We received detailed instructions from the manager regarding emergency procedures.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、スタッフの指示をご確認ください。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, sutaffu no shiji wo go-kakunin kudasai.</em><br>
+
+**ご不明な点がございましたら、スタッフの指示をご確認ください。**  
+*Go-fumeina ten ga gozaimashitara, sutaffu no shiji wo go-kakunin kudasai.*  
 If you have any questions, please check the instructions of our staff.
-</div>
 
 ## Related Expressions
 

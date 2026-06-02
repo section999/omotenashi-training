@@ -49,15 +49,17 @@ The body must be organized, specific, and easy to read. Japanese hotel email bod
 <div class="keigo-card blue">
 <strong>Use でございます for facts</strong><br>
 <span class="keigo-jp"><code>チェックインは15時からでございます。</code></span><br>
+<em>chekkuin wa 15 ji kara de gozaimasu.</em><br>
 Check-in begins at 15:00.<br><br>
 <strong>Use soft verb forms for requests</strong><br>
 <span class="keigo-jp"><code>パスポートをご持参いただけますと幸いでございます。</code></span><br>
+<em>pasupouto o go jisan itadake masu to saiwai de gozaimasu.</em><br>
 We would appreciate it if you could bring your passport.
 </div>
 
 Each paragraph should cover one subject. Do not combine reservation details with parking instructions in the same paragraph.
 
-でございます sounds professional without being stiff. 〜いただけますと幸いでございます is softer than 〜ください and appropriate for guest-facing requests.
+でございます sounds professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and appropriate for guest-facing requests.
 
 Long compound sentences are harder to read. Break them into shorter units.
 
@@ -66,14 +68,21 @@ Long compound sentences are harder to read. Break them into shorter units.
 <div class="keigo-card blue">
 <strong>件名 (Subject):</strong><br>
 <span class="keigo-jp"><code>【ご予約確認】山田様 8月10日〜11日 1泊</code></span><br><br>
+<em>【 go-yoyaku kakunin 】 yamada sama 8 tsuki 10 nichi 〜 11 nichi 1 haku</em><br>
 <strong>Opening:</strong><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 <strong>Body:</strong><br>
 <span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
 <span class="keigo-jp"><code>チェックイン：8月10日（土）15:00〜</code></span><br>
+<em>chekkuin : 8 tsuki 10 nichi ( do ) 15 : 00 〜</em><br>
 <span class="keigo-jp"><code>チェックアウト：8月11日（日）11:00</code></span><br>
+<em>chekku auto : 8 tsuki 11 nichi ( hi ) 11 : 00</em><br>
 <span class="keigo-jp"><code>ご宿泊人数：2名様</code></span><br><br>
+<em>go shukuhaku ninzu : 2 mei sama</em><br>
 <span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span><br><br>
+<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni o toiawase kudasaimase.</em><br>
 <strong>Closing:</strong><br>
 <span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span>
 </div>
@@ -102,10 +111,10 @@ No casual language, excessive keigo, or abrupt endings
 
 **Which subject line is most appropriate for a hotel email confirming a reservation?**
 
-- A. 「ご確認ください」
-- B. 「メールをお送りします」
-- C. 「【ご予約確認】田中様 9月5日〜6日 1泊」
-- D. 「ありがとうございます」
+- A. ご確認ください
+- B. メールをお送りします
+- C. 【ご予約確認】田中様 9月5日〜6日 1泊
+- D. ありがとうございます
 
 **Correct Answer:** C
 

@@ -9,19 +9,17 @@ In a hospitality context, 隣 appears in sentences like レストランの隣に
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。</code></span><br>
-<em>Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.</em><br>
+**レストランの隣にカフェがあります。朝食後のコーヒーにぜひご利用ください。**  
+*Resutoran no tonari ni kafe ga arimasu. Choushoku go no koohii ni zehi goriyou kudasai.*  
 There is a café next to the restaurant. Please feel free to use it for coffee after breakfast.
-<br><br>
-<span class="keigo-jp"><code>お部屋の右隣に自動販売機がございますので、ご自由にお使いください。</code></span><br>
-<em>Oheya no migi tonari ni jidouhanbaiki ga gozaimasu node, gojiyuu ni otsukai kudasai.</em><br>
+
+**お部屋の右隣に自動販売機がございますので、ご自由にお使いください。**  
+*Oheya no migi tonari ni jidouhanbaiki ga gozaimasu node, gojiyuu ni otsukai kudasai.*  
 There is a vending machine to the right of the room; please feel free to use it.
-<br><br>
-<span class="keigo-jp"><code>エレベーターホールの隣がフィットネスセンターでございます。</code></span><br>
-<em>Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.</em><br>
+
+**エレベーターホールの隣がフィットネスセンターでございます。**  
+*Erebeetaa hooeru no tonari ga fittonesu sentaa de gozaimasu.*  
 The fitness center is adjacent to the elevator hall.
-</div>
 
 ## Related Expressions
 

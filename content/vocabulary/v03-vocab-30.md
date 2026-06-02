@@ -9,19 +9,17 @@ title: 交換 (koukan)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>タオルを交換いたします。少々お待ちくださいませ。</code></span><br>
-<em>Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.</em><br>
+**タオルを交換いたします。少々お待ちくださいませ。**  
+*Taoru wo koukan itashimasu. Shoushou o-machi kudasaimase.*  
 I will replace the towels. Please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>リネンの交換は毎日午前中に行っております。</code></span><br>
-<em>Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.</em><br>
+
+**リネンの交換は毎日午前中に行っております。**  
+*Rinen no koukan wa mainichi gozenchuu ni okonatte orimasu.*  
 Linen replacement is carried out every morning.
-<br><br>
-<span class="keigo-jp"><code>ご不便をおかけして大変申し訳ございません。すぐに交換いたします。</code></span><br>
-<em>Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.</em><br>
+
+**ご不便をおかけして大変申し訳ございません。すぐに交換いたします。**  
+*Go-fuben wo o-kake shite taihen moushiwake gozaimasen. Sugu ni koukan itashimasu.*  
 I sincerely apologize for the inconvenience. I will replace it right away.
-</div>
 
 ## Related Expressions
 

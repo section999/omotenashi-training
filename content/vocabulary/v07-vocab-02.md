@@ -9,19 +9,17 @@ During fire drills and actual emergencies, 階段 becomes critical operational v
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>非常時にはエレベーターをご使用にならず、階段をご利用くださいませ。</code></span><br>
-<em>Hijouji ni wa erebeetaa wo go-shiyou ni narazu, kaidan wo go-riyou kudasaimase.</em><br>
+**非常時にはエレベーターをご使用にならず、階段をご利用くださいませ。**  
+*Hijouji ni wa erebeetaa wo go-shiyou ni narazu, kaidan wo go-riyou kudasaimase.*  
 In an emergency, please do not use the elevator: please use the stairs.
-<br><br>
-<span class="keigo-jp"><code>お部屋は2階でございますので、階段がご便利かと存じます。</code></span><br>
-<em>O-heya wa nikai de gozaimasu node, kaidan ga go-benri ka to zonjimasu.</em><br>
+
+**お部屋は2階でございますので、階段がご便利かと存じます。**  
+*O-heya wa nikai de gozaimasu node, kaidan ga go-benri ka to zonjimasu.*  
 Your room is on the second floor, so the stairs may be the most convenient option for you.
-<br><br>
-<span class="keigo-jp"><code>階段は廊下の突き当たり、エレベーターホールの右手にございます。</code></span><br>
-<em>Kaidan wa rouka no tsukiatari, erebeetaa hooru no migite ni gozaimasu.</em><br>
+
+**階段は廊下の突き当たり、エレベーターホールの右手にございます。**  
+*Kaidan wa rouka no tsukiatari, erebeetaa hooru no migite ni gozaimasu.*  
 The staircase is at the end of the corridor, to the right of the elevator hall.
-</div>
 
 ## Related Expressions
 

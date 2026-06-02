@@ -9,19 +9,17 @@ The チェックイン process requires staff to speak clearly, use appropriate 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックインでございますか？ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>Chekku-in de gozaimasu ka? Go-yoyaku no o-namae o o-ukagai shite mo yoroshii deshō ka.</em><br>
+**チェックインでございますか？ご予約のお名前をお伺いしてもよろしいでしょうか。**  
+*Chekku-in de gozaimasu ka? Go-yoyaku no o-namae o o-ukagai shite mo yoroshii deshō ka.*  
 Are you checking in? May I ask the name on your reservation?
-<br><br>
-<span class="keigo-jp"><code>チェックインのお手続きが完了いたしました。こちらがルームキーでございます。</code></span><br>
-<em>Chekku-in no o-tetsuzuki ga kanryō itashimashita. Kochira ga rūmu-kī de gozaimasu.</em><br>
+
+**チェックインのお手続きが完了いたしました。こちらがルームキーでございます。**  
+*Chekku-in no o-tetsuzuki ga kanryō itashimashita. Kochira ga rūmu-kī de gozaimasu.*  
 Your check-in is now complete. Here is the room key.
-<br><br>
-<span class="keigo-jp"><code>チェックインは午後3時よりご利用いただけます。</code></span><br>
-<em>Chekku-in wa gogo san-ji yori go-riyō itadakemasu.</em><br>
+
+**チェックインは午後3時よりご利用いただけます。**  
+*Chekku-in wa gogo san-ji yori go-riyō itadakemasu.*  
 Check-in is available from 3:00 p.m.
-</div>
 
 ## Related Expressions
 

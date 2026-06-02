@@ -10,19 +10,17 @@ For employees, the シフト isn't just about hours on a page. It's the accounta
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>明日のシフトは午前9時から午後5時までです。</code></span><br>
-<em>Ashita no shifuto wa gozen kuji kara gogo goji made desu.</em><br>
+**明日のシフトは午前9時から午後5時までです。**  
+*Ashita no shifuto wa gozen kuji kara gogo goji made desu.*  
 Tomorrow's shift is from 9 AM to 5 PM.
-<br><br>
-<span class="keigo-jp"><code>来週のシフト表を確認してから予定を入れます。</code></span><br>
-<em>Raishuu no shifuto-hyou o kakunin shite kara yotei o iremasu.</em><br>
+
+**来週のシフト表を確認してから予定を入れます。**  
+*Raishuu no shifuto-hyou o kakunin shite kara yotei o iremasu.*  
 I will check next week's shift schedule before making personal plans.
-<br><br>
-<span class="keigo-jp"><code>夜間のシフトには必ずフロントに二名のスタッフを配置してください。</code></span><br>
-<em>Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.</em><br>
+
+**夜間のシフトには必ずフロントに二名のスタッフを配置してください。**  
+*Yakan no shifuto ni wa kanarazu furonto ni nimei no sutaffu o haichi shite kudasai.*  
 Please make sure two staff members are always assigned to the front desk during the night shift.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ title: 業務 (gyoumu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>毎朝、シフト開始前に業務内容を確認するようにしております。</code></span><br>
-<em>Maiasa, shifuto kaishi mae ni gyoumu naiyou wo kakunin suru you ni shite orimasu.</em><br>
+**毎朝、シフト開始前に業務内容を確認するようにしております。**  
+*Maiasa, shifuto kaishi mae ni gyoumu naiyou wo kakunin suru you ni shite orimasu.*  
 Every morning, I make a point of reviewing my duties before the shift begins.
-<br><br>
-<span class="keigo-jp"><code>本日の業務でご不明な点がございましたら、上長にご確認ください。</code></span><br>
-<em>Honjitsu no gyoumu de go-fumei na ten ga gozaimashitara, jouchou ni go-kakunin kudasai.</em><br>
+
+**本日の業務でご不明な点がございましたら、上長にご確認ください。**  
+*Honjitsu no gyoumu de go-fumei na ten ga gozaimashitara, jouchou ni go-kakunin kudasai.*  
 If you have any questions regarding today's duties, please confirm with your supervisor.
-<br><br>
-<span class="keigo-jp"><code>フロント業務では、笑顔と迅速な対応が最も重要です。</code></span><br>
-<em>Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.</em><br>
+
+**フロント業務では、笑顔と迅速な対応が最も重要です。**  
+*Furonto gyoumu de wa, egao to jinsoku na taiou ga mottomo juuyou desu.*  
 In front desk duties, a smile and prompt response are the most important things.
-</div>
 
 ## Related Expressions
 

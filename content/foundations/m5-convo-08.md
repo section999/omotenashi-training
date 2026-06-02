@@ -40,31 +40,25 @@ Professional hotel speech is a carefully calibrated performance, not in the thea
 
 Read each phrase aloud, following the phrasing and pause guides below. The goal is not speed, it is developing the correct vocal quality for each expression. Repeat each phrase 5 to 10 times until the delivery feels natural rather than memorized.
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか。</code></span><br>
-<em>go-yoyaku no | o-namae wo | o-kikase itadakemasu | deshou ka.</em><br>
+**ご予約のお名前をお聞かせいただけますでしょうか。**  
+*go-yoyaku no | o-namae wo | o-kikase itadakemasu | deshou ka.*  
 May I ask for the name on your reservation?
-</div>
 
 Focus points: pause slightly after お名前を to create a sense of gentle request. Soften でしょうか with a slight downward close so it sounds inviting rather than interrogating. Avoid strong rising intonation at the end -- the question should feel like an invitation, not a demand. The goal is for the guest to feel guided, not questioned.
 
 ## Shadowing Practice 2: Presenting the Room Key
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。お部屋は7階の702号室でございます。</code></span><br>
-<em>kochira ga | o-heya no kagi de gozaimasu. | o-heya wa | nana-kai no | nana-maru-ni-goushitsu | de gozaimasu.</em><br>
+**こちらがお部屋の鍵でございます。お部屋は7階の702号室でございます。**  
+*kochira ga | o-heya no kagi de gozaimasu. | o-heya wa | nana-kai no | nana-maru-ni-goushitsu | de gozaimasu.*  
 Here is your room key. Your room is Room 702 on the 7th floor.
-</div>
 
 Use slow, deliberate pacing so the guest can understand and remember the room number. Place slight emphasis on the floor number and room number. Maintain stable, reassuring volume. The goal is for the guest to leave this exchange with absolute clarity about their room.
 
 ## Shadowing Practice 3: The Farewell
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ。</code></span><br>
-<em>go-yukkuri | o-sugoshi | kudasaimase.</em><br>
+**ごゆっくりお過ごしくださいませ。**  
+*go-yukkuri | o-sugoshi | kudasaimase.*  
 We hope you enjoy a relaxing stay.
-</div>
 
 Deliver this phrase with warm emotional intent, as it is the final impression of the check-in experience. The ending ませ should close softly rather than sharply. A slight downward intonation conveys sincerity and completion. The goal is for the guest to feel genuinely cared for as they walk toward the elevator.
 
@@ -101,12 +95,16 @@ This is why Japanese hospitality speech is not simply about avoiding mistakes. I
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご予約のお名前をお聞かせいただけますでしょうか</code></span><br>
+<em>go-yoyaku no o-namae o o kika se i ta dake masu deshou ka</em><br>
 May I ask for the name on your reservation?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます</code></span><br>
+<em>kochira ga o-heya no kagi de gozaimasu</em><br>
 Here is your room key.<br><br>
 <span class="keigo-jp"><code>かしこまりました</code></span><br>
+<em>kashikomarimashita</em><br>
 Certainly.<br><br>
 <span class="keigo-jp"><code>ごゆっくりお過ごしくださいませ</code></span><br>
+<em>go yukkuri osugoshi kudasaimase</em><br>
 We hope you enjoy a relaxing stay.
 </div>
 

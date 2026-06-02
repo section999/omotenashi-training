@@ -10,19 +10,17 @@ title: 右 (migi)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>次の角を右に曲がってください。</code></span><br>
-<em>Tsugi no kado wo migi ni magatte kudasai.</em><br>
+**次の角を右に曲がってください。**  
+*Tsugi no kado wo migi ni magatte kudasai.*  
 Please turn right at the next corner.
-<br><br>
-<span class="keigo-jp"><code>エレベーターはフロントを出て右手にございます。</code></span><br>
-<em>Erebeetaa wa furonto wo dete migi-te ni gozaimasu.</em><br>
+
+**エレベーターはフロントを出て右手にございます。**  
+*Erebeetaa wa furonto wo dete migi-te ni gozaimasu.*  
 The elevator is to the right as one exit the front desk.
-<br><br>
-<span class="keigo-jp"><code>右側のドアからお入りください。</code></span><br>
-<em>Migi-gawa no doa kara o-hairi kudasai.</em><br>
+
+**右側のドアからお入りください。**  
+*Migi-gawa no doa kara o-hairi kudasai.*  
 Please enter through the door on the right side.
-</div>
 
 ## Related Expressions
 

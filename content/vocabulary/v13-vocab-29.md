@@ -9,19 +9,17 @@ title: 改善 (kaizen)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様からのご意見をもとに、フロントサービスの改善を進めております。</code></span><br>
-<em>Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.</em><br>
+**お客様からのご意見をもとに、フロントサービスの改善を進めております。**  
+*Okyakusama kara no go-iken wo moto ni, furonto saabisu no kaizen wo susumete orimasu.*  
 We are advancing improvements to our front desk service based on feedback from guests.
-<br><br>
-<span class="keigo-jp"><code>先月の改善提案が採用され、清掃時間が15分短縮されました。</code></span><br>
-<em>Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.</em><br>
+
+**先月の改善提案が採用され、清掃時間が15分短縮されました。**  
+*Sengetsu no kaizen teian ga saiyou sare, seisou jikan ga juugo-fun tanshuku saremashita.*  
 Last month's improvement proposal was adopted, reducing cleaning time by 15 minutes.
-<br><br>
-<span class="keigo-jp"><code>小さな改善の積み重ねが、最終的に大きな品質向上につながります。</code></span><br>
-<em>Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.</em><br>
+
+**小さな改善の積み重ねが、最終的に大きな品質向上につながります。**  
+*Chiisana kaizen no tsumikasane ga, saishuu-teki ni ooki na hinshitsu koujou ni tsunagarimasu.*  
 The accumulation of small improvements ultimately leads to significant quality enhancement.
-</div>
 
 ## Related Expressions
 

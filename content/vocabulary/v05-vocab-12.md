@@ -9,19 +9,17 @@ title: おかわり (okawari)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お飲み物のおかわりはいかがでしょうか。</code></span><br>
-<em>O-nomimono no okawari wa ikaga deshou ka.</em><br>
+**お飲み物のおかわりはいかがでしょうか。**  
+*O-nomimono no okawari wa ikaga deshou ka.*  
 Would you like a refill for your drink?
-<br><br>
-<span class="keigo-jp"><code>コーヒーのおかわりをすぐにお持ちいたします。</code></span><br>
-<em>Koohii no okawari wo sugu ni o-mochi itashimasu.</em><br>
+
+**コーヒーのおかわりをすぐにお持ちいたします。**  
+*Koohii no okawari wo sugu ni o-mochi itashimasu.*  
 I will bring a coffee refill right away.
-<br><br>
-<span class="keigo-jp"><code>ご飯のおかわりはご自由にどうぞ。バイキングコーナーにてご用意しております。</code></span><br>
-<em>Go-han no okawari wa go-jiyuu ni douzo. Baikingu koonaa nite go-youi shite orimasu.</em><br>
+
+**ご飯のおかわりはご自由にどうぞ。バイキングコーナーにてご用意しております。**  
+*Go-han no okawari wa go-jiyuu ni douzo. Baikingu koonaa nite go-youi shite orimasu.*  
 Please feel free to help yourself to more rice: it is available at the buffet corner.
-</div>
 
 ## Related Expressions
 
@@ -47,4 +45,4 @@ The most significant error is waiting for a guest to ask for おかわり rather
 
 **Correct Answer:** おかわり (refill / second helping)
 
-**Explanation:** おかわり means a refill or second helping, the only word that fits お飲み物の〜はいかがでしょうか as an offer to top up a guest's drink. Offering おかわり before the guest has to ask is a practical expression of kikubari, the attentive anticipation of needs that defines quality F&B service. The other options name an order, a provision of food, or water itself, none of which belong in this refill offer.
+**Explanation:** おかわり means a refill or second helping, the only word that fits お飲み物の○○はいかがでしょうか as an offer to top up a guest's drink. Offering おかわり before the guest has to ask is a practical expression of kikubari, the attentive anticipation of needs that defines quality F&B service. The other options name an order, a provision of food, or water itself, none of which belong in this refill offer.

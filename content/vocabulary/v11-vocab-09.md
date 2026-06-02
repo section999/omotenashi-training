@@ -10,19 +10,17 @@ title: 不在 (fuzai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>担当者はただいま不在でございますが、ご伝言をお預かりいたしましょうか。</code></span><br>
-<em>Tantōsha wa tadaima fuzai de gozaimasu ga, godengon wo oazukari itashimashō ka.</em><br>
+**担当者はただいま不在でございますが、ご伝言をお預かりいたしましょうか。**  
+*Tantōsha wa tadaima fuzai de gozaimasu ga, godengon wo oazukari itashimashō ka.*  
 The person in charge is currently unavailable; may I take a message for you?
-<br><br>
-<span class="keigo-jp"><code>午後3時以降には戻る予定でございますので、折り返しご連絡いたします。</code></span><br>
-<em>Gogo sanji ikō ni wa modoru yotei de gozaimasu no de, orikaeshi gorenraku itashimasu.</em><br>
+
+**午後3時以降には戻る予定でございますので、折り返しご連絡いたします。**  
+*Gogo sanji ikō ni wa modoru yotei de gozaimasu no de, orikaeshi gorenraku itashimasu.*  
 They are expected back after 3:00 p.m., and we will call you back at that time.
-<br><br>
-<span class="keigo-jp"><code>担当者が不在の場合は、代わりにフロントスタッフが対応いたします。</code></span><br>
-<em>Tantōsha ga fuzai no baai wa, kawari ni furonto sutaffu ga taiō itashimasu.</em><br>
+
+**担当者が不在の場合は、代わりにフロントスタッフが対応いたします。**  
+*Tantōsha ga fuzai no baai wa, kawari ni furonto sutaffu ga taiō itashimasu.*  
 If the person in charge is unavailable, front desk staff will assist you instead.
-</div>
 
 ## Related Expressions
 

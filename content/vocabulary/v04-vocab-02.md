@@ -9,19 +9,17 @@ Housekeeping staff hang the 清掃中 sign or card on the door handle before ent
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいまお部屋が清掃中でございます。しばらくお待ちいただけますでしょうか。</code></span><br>
-<em>Tadaima oheya ga seisou-chuu de gozaimasu. Shibaraku omachi itadakemasu deshou ka.</em><br>
+**ただいまお部屋が清掃中でございます。しばらくお待ちいただけますでしょうか。**  
+*Tadaima oheya ga seisou-chuu de gozaimasu. Shibaraku omachi itadakemasu deshou ka.*  
 Your room is currently being cleaned. Would you mind waiting a little while?
-<br><br>
-<span class="keigo-jp"><code>清掃中のドアサインは、スタッフが作業中であることをお知らせするものです。</code></span><br>
-<em>Seisou-chuu no doa sain wa, sutaffu ga sagyou-chuu de aru koto wo oshirase suru mono desu.</em><br>
+
+**清掃中のドアサインは、スタッフが作業中であることをお知らせするものです。**  
+*Seisou-chuu no doa sain wa, sutaffu ga sagyou-chuu de aru koto wo oshirase suru mono desu.*  
 The'cleaning in progress' door sign lets guests know that staff are working inside.
-<br><br>
-<span class="keigo-jp"><code>清掃中にお客様がいらっしゃいましたので、一時退室いたしました。</code></span><br>
-<em>Seisou-chuu ni okyaku-sama ga irasshaimashita node, ichiji taishitsu itashimashita.</em><br>
+
+**清掃中にお客様がいらっしゃいましたので、一時退室いたしました。**  
+*Seisou-chuu ni okyaku-sama ga irasshaimashita node, ichiji taishitsu itashimashita.*  
 A guest arrived while cleaning was in progress, so I temporarily stepped out of the room.
-</div>
 
 ## Related Expressions
 

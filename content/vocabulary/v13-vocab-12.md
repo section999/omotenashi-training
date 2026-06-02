@@ -9,19 +9,17 @@ title: 研修 (kenshuu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>新入社員は入社後に1週間の研修があります。</code></span><br>
-<em>Shinnyu-shain wa nyuusha-go ni isshuukan no kenshuu ga arimasu.</em><br>
+**新入社員は入社後に1週間の研修があります。**  
+*Shinnyu-shain wa nyuusha-go ni isshuukan no kenshuu ga arimasu.*  
 New employees have a one-week training programme after joining.
-<br><br>
-<span class="keigo-jp"><code>フロントスタッフ向けに接客マナーの研修を実施しました。</code></span><br>
-<em>Furonto sutaffu muke ni sekkyaku manaa no kenshuu o jisshi shimashita.</em><br>
+
+**フロントスタッフ向けに接客マナーの研修を実施しました。**  
+*Furonto sutaffu muke ni sekkyaku manaa no kenshuu o jisshi shimashita.*  
 We conducted a guest service manner training for front-desk staff.
-<br><br>
-<span class="keigo-jp"><code>研修期間中は先輩スタッフが丁寧に指導してくれます。</code></span><br>
-<em>Kenshuu-kikan-chuu wa senpai sutaffu ga teinei ni shidou shite kuremasu.</em><br>
+
+**研修期間中は先輩スタッフが丁寧に指導してくれます。**  
+*Kenshuu-kikan-chuu wa senpai sutaffu ga teinei ni shidou shite kuremasu.*  
 During the training period, senior staff will guide you carefully.
-</div>
 
 ## Related Expressions
 

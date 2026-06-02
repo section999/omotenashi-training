@@ -9,19 +9,17 @@ When giving a guest an 内線番号, the standard phrasing is 内線〇〇番で
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>内線101におかけください。ルームサービスにつながります。</code></span><br>
-<em>Naisen hyakuichi ni okake kudasai. Rūmu sābisu ni tsunagarimasu.</em><br>
+**内線101におかけください。ルームサービスにつながります。**  
+*Naisen hyakuichi ni okake kudasai. Rūmu sābisu ni tsunagarimasu.*  
 Please dial extension 101. It will connect you to room service.
-<br><br>
-<span class="keigo-jp"><code>フロントへのお電話は内線0番でございます。</code></span><br>
-<em>Furonto e no odenwa wa naisen zero-ban de gozaimasu.</em><br>
+
+**フロントへのお電話は内線0番でございます。**  
+*Furonto e no odenwa wa naisen zero-ban de gozaimasu.*  
 To reach the front desk, please dial extension 0.
-<br><br>
-<span class="keigo-jp"><code>ただいま内線にてハウスキーピングに確認いたします。</code></span><br>
-<em>Tadaima naisen nite hausukīpingu ni kakunin itashimasu.</em><br>
+
+**ただいま内線にてハウスキーピングに確認いたします。**  
+*Tadaima naisen nite hausukīpingu ni kakunin itashimasu.*  
 I will check with housekeeping via the internal line right now.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ For hotel staff, 人気 is useful in service conversations. When a guest asks fo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この神社は観光客にとても人気があります。</code></span><br>
-<em>Kono jinja wa kankoukyaku ni totemo ninki ga arimasu.</em><br>
+**この神社は観光客にとても人気があります。**  
+*Kono jinja wa kankoukyaku ni totemo ninki ga arimasu.*  
 This shrine is very popular among tourists.
-<br><br>
-<span class="keigo-jp"><code>当ホテルの朝食ビュッフェはお客様の間で大変人気でございます。</code></span><br>
-<em>Tou hoteru no choushoku byuffe wa okyakusama no aida de taihen ninki de gozaimasu.</em><br>
+
+**当ホテルの朝食ビュッフェはお客様の間で大変人気でございます。**  
+*Tou hoteru no choushoku byuffe wa okyakusama no aida de taihen ninki de gozaimasu.*  
 Our hotel's breakfast buffet is extremely popular among guests.
-<br><br>
-<span class="keigo-jp"><code>今の季節は富士山のツアーが一番人気です。</code></span><br>
-<em>Ima no kisetsu wa Fujisan no tsuaa ga ichiban ninki desu.</em><br>
+
+**今の季節は富士山のツアーが一番人気です。**  
+*Ima no kisetsu wa Fujisan no tsuaa ga ichiban ninki desu.*  
 At this time of year, the Mount Fuji tour is the most popular.
-</div>
 
 ## Related Expressions
 

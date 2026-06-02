@@ -9,19 +9,17 @@ In practical hotel work, staff use 雑巾 as part of regular room turnover and d
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>テーブルは清潔な雑巾で丁寧に拭いてください。</code></span><br>
-<em>Teeburu wa seiketsu na zoukin de teinei ni fuite kudasai.</em><br>
+**テーブルは清潔な雑巾で丁寧に拭いてください。**  
+*Teeburu wa seiketsu na zoukin de teinei ni fuite kudasai.*  
 Please wipe the table carefully with a clean cloth.
-<br><br>
-<span class="keigo-jp"><code>濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。</code></span><br>
-<em>Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.</em><br>
+
+**濡れた雑巾で汚れを落とした後、乾いた雑巾で仕上げます。**  
+*Nureta zoukin de yogore wo otoshita ato, kawaita zoukin de shiageimasu.*  
 After removing the stain with a damp cloth, we finish with a dry cloth.
-<br><br>
-<span class="keigo-jp"><code>用途ごとに色分けされた雑巾をご使用ください。</code></span><br>
-<em>Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.</em><br>
+
+**用途ごとに色分けされた雑巾をご使用ください。**  
+*Youto goto ni iroduke sareta zoukin wo go-shiyou kudasai.*  
 Please use the color-coded cloths designated for each purpose.
-</div>
 
 ## Related Expressions
 

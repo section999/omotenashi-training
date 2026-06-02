@@ -28,10 +28,13 @@ The core principle of 連絡 is completeness. A partial message causes the recip
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>〇〇の件、お伝えしておきます。</code></span><br>
+<em>〇 〇 no ken, otsutae shite okimasu.</em><br>
 I'd like to pass along something about [matter].<br><br>
 <span class="keigo-jp"><code>〇〇様から追加の枕のご依頼がありました。対応お願いできますか。</code></span><br>
+<em>〇 〇 you kara tsuika no makura no go-irai ga arimashita. taiou onegai dekimasu ka.</em><br>
 Mr./Ms. [Name] has requested extra pillows. Could you take care of that?<br><br>
 <span class="keigo-jp"><code>チェックインがあと3組ほど控えています。ご確認ください。</code></span><br>
+<em>chekkuin ga ato 3 kumi hodo hikae te imasu. go-kakunin kudasai.</em><br>
 There are about three more check-ins expected. Please be aware.
 </div>
 
@@ -39,10 +42,13 @@ There are about three more check-ins expected. Please be aware.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご連絡させていただきます。</code></span><br>
+<em>go-renraku sa se te itadakimasu.</em><br>
 I would like to share some information with you.<br><br>
 <span class="keigo-jp"><code>〇〇号室のお客様が16時ごろチェックアウト予定とのことです。</code></span><br>
+<em>〇 〇 gou shitsu no okyakusama ga 16 ji goro chekku auto yotei to no koto desu.</em><br>
 The guest in Room [X] is expected to check out around 4:00 PM.<br><br>
 <span class="keigo-jp"><code>ご参考までにお伝えしておきます。</code></span><br>
+<em>go sankou made ni otsutae shite okimasu.</em><br>
 I am sharing this for your reference.
 </div>
 
@@ -50,10 +56,13 @@ I am sharing this for your reference.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>〇〇の件を共有しておきます。</code></span><br>
+<em>〇 〇 no ken o kyouyu shite okimasu.</em><br>
 I want to share something about [matter].<br><br>
 <span class="keigo-jp"><code>〇〇様のご到着が17時に変更になりました。</code></span><br>
+<em>〇 〇 you no go touchaku ga 17 ji ni henkou ni narimashita.</em><br>
 Mr./Ms. [Name]'s arrival has been changed to 5:00 PM.<br><br>
 <span class="keigo-jp"><code>対応よろしくお願いします。</code></span><br>
+<em>taiou yoroshiku onegai shimasu.</em><br>
 Please handle this accordingly.
 </div>
 
@@ -90,10 +99,10 @@ The guest in Room 503 has reported that the shower has no hot water. As of 2:00 
 
 **A front desk colleague is about to go on break. You need to pass along that a guest in Room 612 has requested an extra blanket and it has not yet been delivered. What is the correct 連絡?**
 
-- A. 「612号室、何かあったっけ？」
-- B. 「612号室のお客様より毛布の追加のご依頼があります。未対応ですので、対応よろしくお願いします」
-- C. 「誰かが毛布を持っていくはずです」
-- D. 「ご報告いたします。612号室に問題が発生しました」
+- A. 612号室、何かあったっけ？
+- B. 612号室のお客様より毛布の追加のご依頼があります。未対応ですので、対応よろしくお願いします
+- C. 誰かが毛布を持っていくはずです
+- D. ご報告いたします。612号室に問題が発生しました
 
 **Correct Answer:** B
 

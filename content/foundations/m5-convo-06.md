@@ -24,12 +24,16 @@ Face-to-face complaints are more complex than telephone complaints. When a guest
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋が汚れています。フロアに髪の毛が落ちていて、タオルも取り替えられていません。</code></span><br>
+<em>heya ga yogore te imasu. furoa ni kaminoke ga ochi te i te, taoru mo torikae rare te i mase n.</em><br>
 My room is dirty. There are hairs on the floor and the towels haven't been changed.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変失礼いたしました。ご不快な思いをおかけしてしまい、誠に申し訳ございません。</code></span><br>
+<em>taihen shitsurei itashimashita. go fukai na omoi o okake shite shimai, makotoni moushiwake gozaimase n.</em><br>
 [Listen + Apologize] We are truly sorry for this. I sincerely apologize for the discomfort we have caused you.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ただいますぐハウスキーピングをお部屋に伺わせます。</code></span><br>
+<em>tadaima sugu hausukipingu o o-heya ni ukagawa se masu.</em><br>
 [Act] I will send housekeeping to your room immediately.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>15分ほどで完了いたします。お部屋のご確認後、改めてご連絡いたします。</code></span><br>
+<em>15 fun hodo de kanryou itashimasu. o-heya no go-kakunin go, aratamete go-renraku itashimasu.</em><br>
 [Assure + Follow up] It will be completed in approximately 15 minutes. I will contact you after the room has been cleaned to confirm everything is satisfactory.
 </div>
 
@@ -37,12 +41,16 @@ My room is dirty. There are hairs on the floor and the towels haven't been chang
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>さっきフロントで頼んだことが全然対応されていません。</code></span><br>
+<em>sakki furonto de tanon da koto ga zenzen taiou sa re te i mase n.</em><br>
 The request I made at the front desk earlier has not been handled at all.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけしてしまい、大変申し訳ございませんでした。</code></span><br>
+<em>go fuben o okake shite shimai, taihen moushiwake gozaimase n deshita.</em><br>
 [Apologize] I am deeply sorry for the inconvenience we have caused you.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>先ほどのご依頼の内容を確認させていただけますでしょうか。</code></span><br>
+<em>saki hodo no go-irai no naiyou o kakunin sa se te itadake masu deshou ka.</em><br>
 [Acknowledge] Could you help me understand the details of your earlier request?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ただいまこちらで対応いたします。担当者にも共有いたします。</code></span><br>
+<em>kashikomarimashita. tadaima kochira de taiou itashimasu. tantou sha ni mo kyouyu itashimasu.</em><br>
 [Act] Understood. I will handle this now and also inform the responsible staff.
 </div>
 
@@ -71,6 +79,7 @@ Some complaints require escalation, particularly if the issue involves compensat
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当のマネージャーをお呼びいたします。少々お待ちくださいませ。</code></span><br>
+<em>makotoni osoreirimasu ga, tada ima tantou no maneja o oyobi itashimasu. shoushou omachi kudasaimase.</em><br>
 I am sorry to ask you to wait, but I will call the manager now. Please give me just a moment.
 </div>
 
@@ -83,8 +92,10 @@ The most powerful step in complaint resolution is the follow-up, returning after
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>先ほどのお部屋の件でございますが、ご確認いただけましたでしょうか。</code></span><br>
+<em>saki hodo no o-heya no ken de gozaimasu ga, go-kakunin itadake mashita deshou ka.</em><br>
 Regarding the issue with your room earlier, were you able to confirm that everything has been taken care of?<br><br>
 <span class="keigo-jp"><code>ご不便をおかけし、改めて申し訳ございませんでした。今後ともよろしくお願いいたします。</code></span><br>
+<em>go fuben o okake shi, aratamete moushiwake gozaimase n deshita. kongo to mo yoroshiku onegai itashimasu.</em><br>
 We sincerely apologize again for the inconvenience. We hope to continue serving you well.
 </div>
 

@@ -21,15 +21,21 @@ The one thing this email must not do: make the guest feel like they are receivin
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【ご滞在のお礼】[Name]様 ありがとうございました</code></span><br><br>
+<em>【 go-taizai no orei 】[ Name ] sama arigatou gozaimashita</em><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
 Thank you very much for staying at our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
+<em>go-taizai wa ikaga deshita deshou ka.</em><br>
 How was your stay?<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code></span><br>
+<em>kaiteki ni osugoshi itadake mashitara, sutaffu ichidou taihen ureshiku zonjimasu.</em><br>
 If you had a comfortable stay, all of our staff would be very pleased to hear it.<br><br>
 <span class="keigo-jp"><code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code></span><br>
+<em>moshi go fuman ya okizuki no ten nado gozai mashitara, zehi o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
 If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.<br><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to the day we can welcome you again.
 </div>
 
@@ -39,10 +45,13 @@ Note: ありがとうございました (past tense). The stay is complete. Usin
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか</code></span><br>
+<em>go-taizai wa ikaga deshita deshou ka</em><br>
 "How was your stay?"<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
+<em>kaiteki ni osugoshi itadake mashitara saiwai de gozaimasu</em><br>
 "If you had a comfortable stay, we would be happy."<br><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
 "We sincerely look forward to the day we can meet you again."
 </div>
 
@@ -58,8 +67,10 @@ The second body sentence invites feedback without demanding it. This is a delibe
 
 <div class="keigo-card blue">
 <strong>Avoid:</strong> <span class="keigo-jp"><code>アンケートにご回答ください。</code></span><br>
+<em>anketo ni go kaitou kudasai.</em><br>
 Sounds like a requirement, not an invitation.<br><br>
 <strong>Better:</strong> <span class="keigo-jp"><code>お気づきの点などございましたら、お聞かせいただけますと幸いでございます。</code></span><br>
+<em>okizuki no ten nado gozai mashitara, o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
 Sounds genuinely interested in the guest's experience without creating obligation.
 </div>
 

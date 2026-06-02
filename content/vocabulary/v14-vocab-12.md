@@ -9,19 +9,17 @@ In restaurant settings, the おすすめ is often written on a small daily board
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日のおすすめは、地元の新鮮な魚介類を使った会席料理でございます。</code></span><br>
-<em>Honjitsu no osusume wa, jimoto no shinsen na gyokai rui wo tsukatta kaiseki ryouri de gozaimasu.</em><br>
+**本日のおすすめは、地元の新鮮な魚介類を使った会席料理でございます。**  
+*Honjitsu no osusume wa, jimoto no shinsen na gyokai rui wo tsukatta kaiseki ryouri de gozaimasu.*  
 Today's recommendation is a kaiseki course featuring fresh local seafood.
-<br><br>
-<span class="keigo-jp"><code>この時期のおすすめの観光地は、紅葉が美しい〇〇公園でございます。</code></span><br>
-<em>Kono jiki no osusume no kankouchi wa, kouyou ga utsukushii ○○ kouen de gozaimasu.</em><br>
+
+**この時期のおすすめの観光地は、紅葉が美しい〇〇公園でございます。**  
+*Kono jiki no osusume no kankouchi wa, kouyou ga utsukushii ○○ kouen de gozaimasu.*  
 The recommended tourist spot for this season is ○○ Park, where the autumn foliage is beautiful.
-<br><br>
-<span class="keigo-jp"><code>スタッフおすすめの近くのカフェをご紹介いたしましょうか。</code></span><br>
-<em>Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.</em><br>
+
+**スタッフおすすめの近くのカフェをご紹介いたしましょうか。**  
+*Sutaffu osusume no chikaku no kafe wo goshoukai itashimashou ka.*  
 Shall I introduce you to a nearby café that our staff recommend?
-</div>
 
 ## Related Expressions
 

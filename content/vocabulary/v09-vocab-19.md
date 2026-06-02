@@ -9,19 +9,17 @@ The key difference from 朝食付き is that dinner at most properties is not op
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のプランは夕食付きでございます。夕食は18時から20時の間にお召し上がりいただけます。</code></span><br>
-<em>O-kyaku-sama no puran wa yuushoku-tsuki de gozaimasu. Yuushoku wa juuhachi-ji kara nijuu-ji no aida ni o-meshiagari itadakemasu.</em><br>
+**お客様のプランは夕食付きでございます。夕食は18時から20時の間にお召し上がりいただけます。**  
+*O-kyaku-sama no puran wa yuushoku-tsuki de gozaimasu. Yuushoku wa juuhachi-ji kara nijuu-ji no aida ni o-meshiagari itadakemasu.*  
 Your plan includes dinner. Dinner is available between 6:00 and 8:00 p.m.
-<br><br>
-<span class="keigo-jp"><code>夕食付きプランのお客様は、ご希望のお食事時間をフロントにてお知らせください。</code></span><br>
-<em>Yuushoku-tsuki puran no o-kyaku-sama wa, go-kibou no o-shokuji jikan wo furonto nite o-shirase kudasai.</em><br>
+
+**夕食付きプランのお客様は、ご希望のお食事時間をフロントにてお知らせください。**  
+*Yuushoku-tsuki puran no o-kyaku-sama wa, go-kibou no o-shokuji jikan wo furonto nite o-shirase kudasai.*  
 Guests on the dinner-included plan, please let us know your preferred dining time at the front desk.
-<br><br>
-<span class="keigo-jp"><code>夕食付きプランには、旬の食材を使った会席料理が含まれております。</code></span><br>
-<em>Yuushoku-tsuki puran ni wa, shun no shokuzai wo tsukatta kaiseki ryouri ga fukumarete orimasu.</em><br>
+
+**夕食付きプランには、旬の食材を使った会席料理が含まれております。**  
+*Yuushoku-tsuki puran ni wa, shun no shokuzai wo tsukatta kaiseki ryouri ga fukumarete orimasu.*  
 The dinner-included plan features kaiseki cuisine made with seasonal ingredients.
-</div>
 
 ## Related Expressions
 

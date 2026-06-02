@@ -41,17 +41,20 @@ Sonkeigo is used when describing the **guest's** actions, decisions, condition, 
 
 Kenjogo is used when describing the **staff's own actions**. By choosing a humble verb form, the staff positions themselves below the guest. This is the structural opposite of sonkeigo: sonkeigo raises the guest; kenjogo lowers the staff. Together they create the defining relationship of Japanese hospitality service.
 
-| Plain Form | Kenjogo Form | Meaning |
+| Plain Form | Kenjogo Form | Meaning in Context |
 |---|---|---|
-| 行く (to go) | 参ります / 伺います | I go (to the guest) |
-| 来る (to come) | 参ります | I come |
-| いる (to be) | おります | I am |
-| もらう (to receive) | いただきます | I humbly receive |
-| 言う (to say) | 申します | I say |
-| する (to do) | いたします | I do |
-| 聞く (to hear/ask) | 伺います | I ask / I visit |
-| 見る (to look) | 拝見します | I look at |
-| もらう (to receive action) | いただきます | I humbly receive your action |
+| <span>行く</span> | <span>参ります</span> | I go (toward the guest) |
+| <span>行く</span> | <span>伺います</span> | I visit / go humbly |
+| <span>来る</span> | <span>参ります</span> | I come |
+| <span>いる</span> | <span>おります</span> | I am here |
+| <span>言う</span> | <span>申します</span> | I say |
+| <span>する</span> | <span>いたします</span> | I do |
+| <span>聞く / 訪ねる</span> | <span>伺います</span> | I ask / I visit |
+| <span>もらう</span> | <span>いただきます</span> | I humbly receive |
+| <span>見る</span> | <span>拝見します</span> | I look at / I read (humbly) |
+| <span>知る</span> | <span>存じます</span> | I know |
+| <span>食べる / 飲む</span> | <span>いただきます</span> | I humbly eat / drink |
+| <span>あげる</span> | <span>差し上げます</span> | I give (to the guest) |
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -73,13 +76,29 @@ Kenjogo is used when describing the **staff's own actions**. By choosing a humbl
 Teineigo creates the general atmosphere of professional, refined communication. It is not strongly respectful toward the guest or strongly humble for the staff. It simply ensures the overall tone sounds polished and appropriate for a hotel environment.
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>〜でございます</code></span> (polished form of です)<br>
-<span class="keigo-jp"><code>〜しております</code></span> (polished form of しています)<br>
-<span class="keigo-jp"><code>ありがとうございます</code></span> (the standard polite thank you)<br>
-<span class="keigo-jp"><code>〜でございますね</code></span> (polished confirmation form)<br><br>
-Examples:<br>
-<span class="keigo-jp"><code>朝食は1階でございます。</code></span> Breakfast is on the 1st floor.<br>
-<span class="keigo-jp"><code>ただいま確認しております。</code></span> I am confirming that now.
+<span class="keigo-jp"><code>○○でございます</code></span><br>
+<em>○○ de gozaimasu</em><br>
+Polished replacement for です. Used to state facts, provide information, or present items to the guest.<br><br>
+<span class="keigo-jp"><code>○○しております</code></span><br>
+<em>○○ shite orimasu</em><br>
+Polished replacement for しています. Used when describing something currently in progress.<br><br>
+<span class="keigo-jp"><code>ありがとうございます</code></span><br>
+<em>arigatou gozaimasu</em><br>
+The standard polite thank you. Used at every point of gratitude in a guest interaction.<br><br>
+<span class="keigo-jp"><code>○○でございますね</code></span><br>
+<em>○○ de gozaimasu ne</em><br>
+Polished confirmation form. The ね at the end invites gentle agreement without pressure.
+</div>
+
+**In context:**
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>朝食は1階でございます。</code></span><br>
+<em>choushoku wa 1-kai de gozaimasu.</em><br>
+Breakfast is on the first floor.<br><br>
+<span class="keigo-jp"><code>ただいま確認しております。</code></span><br>
+<em>tadaima kakunin shite orimasu.</em><br>
+I am currently confirming that for you.
 </div>
 
 ## How All Three Work Together
@@ -88,10 +107,13 @@ In a real hotel interaction, all three types are used in the same breath. A sing
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
+<em>yamada sama de irasshaimasu ne.</em><br>
 You are Mr./Ms. Yamada, correct?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
+<em>kochira ga o-heya no kagi de gozaimasu.</em><br>
 Here is your room key.<br><br>
 <span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
+<em>sutaffu ga go-annai itashimasu.</em><br>
 A staff member will guide you.
 </div>
 

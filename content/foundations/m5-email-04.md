@@ -21,6 +21,7 @@ This is the safest, most versatile closing. It fits reservation emails, informat
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions, please feel free to contact us.
 </div>
 
@@ -32,6 +33,7 @@ Used in reservation confirmations and pre-arrival emails. Creates emotional warm
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to your arrival.
 </div>
 
@@ -43,6 +45,7 @@ Used when expressing appreciation for continued patronage. Best suited to emails
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます。</code></span><br>
+<em>kongo to mo yoroshiku onegai moushiage masu.</em><br>
 We look forward to your continued patronage.
 </div>
 
@@ -54,6 +57,7 @@ Used specifically in post-stay emails to express hope for a future visit.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to the day we can welcome you again.
 </div>
 
@@ -65,6 +69,7 @@ After an apology, the closing must emphasize support and care, not future busine
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 Please feel free to contact us if you have any questions.
 </div>
 
@@ -84,9 +89,9 @@ Avoid 今後ともよろしくお願い申し上げます immediately after a se
 
 **A reservation confirmation email has just been written. Which closing is most appropriate?**
 
-- A. 「またのお越しを心よりお待ちしております」
-- B. 「ご到着を心よりお待ち申し上げております」
-- C. 「今後ともよろしくお願い申し上げます」
+- A. またのお越しを心よりお待ちしております
+- B. ご到着を心よりお待ち申し上げております
+- C. 今後ともよろしくお願い申し上げます
 - D. No closing needed; ending on the body is sufficient
 
 **Correct Answer:** B

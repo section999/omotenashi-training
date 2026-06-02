@@ -9,19 +9,17 @@ Knowing when to shift between 部屋 and 客室 is a key skill in hospitality Ja
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋はいかがでしたか？</code></span><br>
-<em>O-heya wa ikaga deshita ka?</em><br>
+**お部屋はいかがでしたか？**  
+*O-heya wa ikaga deshita ka?*  
 How was the room?
-<br><br>
-<span class="keigo-jp"><code>お部屋のカードキーをこちらにお持ちいただけますか？</code></span><br>
-<em>O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?</em><br>
+
+**お部屋のカードキーをこちらにお持ちいただけますか？**  
+*O-heya no kaado kii wo kochira ni o-mochi itadakemasu ka?*  
 Could you bring the room card key here?
-<br><br>
-<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞご確認ください。</code></span><br>
-<em>Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.</em><br>
+
+**こちらがお部屋の鍵でございます。どうぞご確認ください。**  
+*Kochira ga o-heya no kagi de gozaimasu. Douzo go-kakunin kudasai.*  
 This is the key to the room. Please check it.
-</div>
 
 ## Related Expressions
 

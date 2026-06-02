@@ -10,19 +10,17 @@ Practically, 曲がる is used constantly at the front desk when giving walking 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>二つ目の交差点で左に曲がってください。</code></span><br>
-<em>Futatsu-me no kousaten de hidari ni magatte kudasai.</em><br>
+**二つ目の交差点で左に曲がってください。**  
+*Futatsu-me no kousaten de hidari ni magatte kudasai.*  
 Please turn left at the second intersection.
-<br><br>
-<span class="keigo-jp"><code>エレベーターを出て右に曲がると、お部屋がございます。</code></span><br>
-<em>Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.</em><br>
+
+**エレベーターを出て右に曲がると、お部屋がございます。**  
+*Erebeetaa wo dete migi ni magaru to, o-heya ga gozaimasu.*  
 When you exit the elevator and turn right, one will find the room.
-<br><br>
-<span class="keigo-jp"><code>ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。</code></span><br>
-<em>Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.</em><br>
+
+**ロビーを出て最初の角を右に曲がってください。駅はそこからまっすぐでございます。**  
+*Robii wo dete saisho no kado wo migi ni magatte kudasai. Eki wa soko kara massugu de gozaimasu.*  
 Exit the lobby and turn right at the first corner. The station is straight from there.
-</div>
 
 ## Related Expressions
 
@@ -49,4 +47,4 @@ A common error is giving the direction (右に曲がる) without specifying the 
 
 **Correct Answer:** ロビーを出て右に曲がってください (turn right when you exit the lobby)
 
-**Explanation:** ロビーを出て右に曲がってください uses the 〜を出て construction to anchor the turn to a landmark the guest can see before acting, which is exactly what makes directional guidance reliable. Options B, C, and D either give no turn at all, stop the guest, or send them backward, none of which help someone reach the elevator.
+**Explanation:** ロビーを出て右に曲がってください uses the ○○を出て construction to anchor the turn to a landmark the guest can see before acting, which is exactly what makes directional guidance reliable. Options B, C, and D either give no turn at all, stop the guest, or send them backward, none of which help someone reach the elevator.

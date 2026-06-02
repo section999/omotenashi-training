@@ -9,19 +9,17 @@ The right phrase for requesting a passport is パスポートを拝見しても�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>パスポートを拝見してもよろしいでしょうか。</code></span><br>
-<em>Pasupōto o haiken shite mo yoroshii deshō ka.</em><br>
+**パスポートを拝見してもよろしいでしょうか。**  
+*Pasupōto o haiken shite mo yoroshii deshō ka.*  
 May I see your passport?
-<br><br>
-<span class="keigo-jp"><code>パスポートをお返しいたします。ありがとうございました。</code></span><br>
-<em>Pasupōto o o-kaeshi itashimasu. Arigatō gozaimashita.</em><br>
+
+**パスポートをお返しいたします。ありがとうございました。**  
+*Pasupōto o o-kaeshi itashimasu. Arigatō gozaimashita.*  
 Here is your passport back. Thank you very much.
-<br><br>
-<span class="keigo-jp"><code>記録のためにパスポートのコピーを取らせていただきます。</code></span><br>
-<em>Kiroku no tame ni pasupōto no kopī o torasete itadakimasu.</em><br>
+
+**記録のためにパスポートのコピーを取らせていただきます。**  
+*Kiroku no tame ni pasupōto no kopī o torasete itadakimasu.*  
 We will make a copy of your passport for our records.
-</div>
 
 ## Related Expressions
 

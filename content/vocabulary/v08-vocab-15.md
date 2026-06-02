@@ -10,19 +10,17 @@ In a hospitality context, 入口 appears most often in directional phrases such 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ホテルの入口は正面にございます。どうぞこちらへお進みください。</code></span><br>
-<em>Hoteru no iriguchi wa shoumen ni gozaimasu. Douzo kochira e osusumi kudasai.</em><br>
+**ホテルの入口は正面にございます。どうぞこちらへお進みください。**  
+*Hoteru no iriguchi wa shoumen ni gozaimasu. Douzo kochira e osusumi kudasai.*  
 The hotel entrance is at the front. Please proceed this way.
-<br><br>
-<span class="keigo-jp"><code>宴会場の入口はエレベーターを降りて左手にございます。</code></span><br>
-<em>Enkaijou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.</em><br>
+
+**宴会場の入口はエレベーターを降りて左手にございます。**  
+*Enkaijou no iriguchi wa erebeetaa o orite hidarite ni gozaimasu.*  
 The banquet hall entrance is on the left after you exit the elevator.
-<br><br>
-<span class="keigo-jp"><code>レストランのお客様用入口はこちらでございます。スタッフ用は裏口をご利用ください。</code></span><br>
-<em>Resutoran no okyakusama you iriguchi wa kochira de gozaimasu. Sutaffu you wa uraguchi o goriyou kudasai.</em><br>
+
+**レストランのお客様用入口はこちらでございます。スタッフ用は裏口をご利用ください。**  
+*Resutoran no okyakusama you iriguchi wa kochira de gozaimasu. Sutaffu you wa uraguchi o goriyou kudasai.*  
 The guest entrance to the restaurant is here. Staff should use the back entrance.
-</div>
 
 ## Related Expressions
 

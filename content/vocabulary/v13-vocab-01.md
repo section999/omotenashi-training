@@ -9,19 +9,17 @@ In day-to-day operations, 従業員 is the word managers use when writing roster
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ホテルの従業員は毎日チェックイン業務を行います。</code></span><br>
-<em>Hoteru no juugyouin wa mainichi chekku-in gyoumu o okonaimasu.</em><br>
+**ホテルの従業員は毎日チェックイン業務を行います。**  
+*Hoteru no juugyouin wa mainichi chekku-in gyoumu o okonaimasu.*  
 Hotel employees handle check-in duties every day.
-<br><br>
-<span class="keigo-jp"><code>新しい従業員は来週から研修を受けます。</code></span><br>
-<em>Atarashii juugyouin wa raishuu kara kenshuu o ukemasu.</em><br>
+
+**新しい従業員は来週から研修を受けます。**  
+*Atarashii juugyouin wa raishuu kara kenshuu o ukemasu.*  
 The new employees will attend training starting next week.
-<br><br>
-<span class="keigo-jp"><code>全ての従業員はお客様への対応マニュアルを熟読してください。</code></span><br>
-<em>Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.</em><br>
+
+**全ての従業員はお客様への対応マニュアルを熟読してください。**  
+*Subete no juugyouin wa okyakusama e no taiou manyuaru o jukudoku shite kudasai.*  
 All employees, please read the guest service manual thoroughly.
-</div>
 
 ## Related Expressions
 

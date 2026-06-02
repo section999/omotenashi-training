@@ -10,19 +10,17 @@ In daily hospitality use, 出口 appears in sentences like 出口は右手にご
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>非常口の出口は右側です。ご確認いただけますようお願いいたします。</code></span><br>
-<em>Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.</em><br>
+**非常口の出口は右側です。ご確認いただけますようお願いいたします。**  
+*Hijouguchi no deguchi wa migigawa desu. Gokakunin itadakemasu you onegai itashimasu.*  
 The emergency exit is on the right side. We ask that you please take note of it.
-<br><br>
-<span class="keigo-jp"><code>ご宴会終了後、出口はこちらの扉からお進みください。</code></span><br>
-<em>Go-enkai shuuryou go, deguchi wa kochira no tobira kara osusumi kudasai.</em><br>
+
+**ご宴会終了後、出口はこちらの扉からお進みください。**  
+*Go-enkai shuuryou go, deguchi wa kochira no tobira kara osusumi kudasai.*  
 After the banquet, please proceed toward the exit through this door.
-<br><br>
-<span class="keigo-jp"><code>駐車場の出口は建物を出て正面の信号をお渡りください。</code></span><br>
-<em>Chuushajou no deguchi wa tatemono o dete shoumen no shingou o owatari kudasai.</em><br>
+
+**駐車場の出口は建物を出て正面の信号をお渡りください。**  
+*Chuushajou no deguchi wa tatemono o dete shoumen no shingou o owatari kudasai.*  
 For the parking exit, please leave the building and cross the traffic light directly ahead.
-</div>
 
 ## Related Expressions
 

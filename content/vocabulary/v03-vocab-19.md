@@ -9,19 +9,17 @@ In a hospitality context, staff typically point out the エアコン remote cont
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エアコンはこちらで操作できますので、温度はご自由にお調節ください。</code></span><br>
-<em>Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.</em><br>
+**エアコンはこちらで操作できますので、温度はご自由にお調節ください。**  
+*Eakon wa kochira de sousa dekimasu node, ondo wa go-jiyuu ni o-chousetsu kudasai.*  
 You can operate the air conditioner here: please adjust the temperature as one like.
-<br><br>
-<span class="keigo-jp"><code>エアコンのリモコンはテレビ台の上にございます。</code></span><br>
-<em>Eakon no rimokon wa terebi dai no ue ni gozaimasu.</em><br>
+
+**エアコンのリモコンはテレビ台の上にございます。**  
+*Eakon no rimokon wa terebi dai no ue ni gozaimasu.*  
 The air conditioner remote is on the TV stand.
-<br><br>
-<span class="keigo-jp"><code>エアコンの調子がよくない場合は、フロントまでお知らせください。</code></span><br>
-<em>Eakon no choushi ga yokunai baai wa, furonto made o-shirase kudasai.</em><br>
+
+**エアコンの調子がよくない場合は、フロントまでお知らせください。**  
+*Eakon no choushi ga yokunai baai wa, furonto made o-shirase kudasai.*  
 If the air conditioner is not working properly, please let the front desk know.
-</div>
 
 ## Related Expressions
 

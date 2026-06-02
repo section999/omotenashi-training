@@ -10,19 +10,17 @@ The scope of 応急処置 in a hotel includes wound cleaning and bandaging, ice 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様が転倒されましたので、ただいま応急処置を行っております。</code></span><br>
-<em>Okyakusama ga tondou saremashita node, tadaima oukyuu shochi wo okonatte orimasu.</em><br>
+**お客様が転倒されましたので、ただいま応急処置を行っております。**  
+*Okyakusama ga tondou saremashita node, tadaima oukyuu shochi wo okonatte orimasu.*  
 A guest has fallen, and we are currently administering first aid.
-<br><br>
-<span class="keigo-jp"><code>救急車が到着するまでの間、応急処置を続けてください。</code></span><br>
-<em>Kyuukyuusha ga touchaku suru made no aida, oukyuu shochi wo tsuzukete kudasai.</em><br>
+
+**救急車が到着するまでの間、応急処置を続けてください。**  
+*Kyuukyuusha ga touchaku suru made no aida, oukyuu shochi wo tsuzukete kudasai.*  
 Please continue first aid until the ambulance arrives.
-<br><br>
-<span class="keigo-jp"><code>当ホテルのスタッフは全員、応急処置の訓練を受けております。</code></span><br>
-<em>Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.</em><br>
+
+**当ホテルのスタッフは全員、応急処置の訓練を受けております。**  
+*Tou hoteru no sutaffu wa zen'in, oukyuu shochi no kunren wo ukete orimasu.*  
 All staff at this hotel have received first aid training.
-</div>
 
 ## Related Expressions
 

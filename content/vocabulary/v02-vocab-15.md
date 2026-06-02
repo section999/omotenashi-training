@@ -9,19 +9,17 @@ Staff should proactively ask whether the guest requires a 領収書 rather than 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>領収書はご入用でしょうか。</code></span><br>
-<em>Ryōshūsho wa go-iriyo deshō ka.</em><br>
+**領収書はご入用でしょうか。**  
+*Ryōshūsho wa go-iriyo deshō ka.*  
 Would you like a receipt?
-<br><br>
-<span class="keigo-jp"><code>はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。</code></span><br>
-<em>Hai, ryōshūsho o go-yōi itashimasu. Atena wa dono yō ni itashimashō ka.</em><br>
+
+**はい、領収書をご用意いたします。宛名はどのようにいたしましょうか。**  
+*Hai, ryōshūsho o go-yōi itashimasu. Atena wa dono yō ni itashimashō ka.*  
 I will prepare a receipt. How would you like the payee name written?
-<br><br>
-<span class="keigo-jp"><code>こちらが領収書でございます。ご確認くださいませ。</code></span><br>
-<em>Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.</em><br>
+
+**こちらが領収書でございます。ご確認くださいませ。**  
+*Kochira ga ryōshūsho de gozaimasu. Go-kakunin kudasaimase.*  
 Here is your receipt. Please take a moment to review it.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ For international guests, walking into a Japanese 病院 can be daunting. Langua
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>最寄りの病院までの地図をご用意いたします。</code></span><br>
-<em>Moyori no byouin made no chizu wo goyoui itashimasu.</em><br>
+**最寄りの病院までの地図をご用意いたします。**  
+*Moyori no byouin made no chizu wo goyoui itashimasu.*  
 I will prepare a map to the nearest hospital for you.
-<br><br>
-<span class="keigo-jp"><code>緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。</code></span><br>
-<em>Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.</em><br>
+
+**緊急の場合は、すぐに病院へお連れいたします。タクシーを手配しましょうか。**  
+*Kinkyuu no baai wa, sugu ni byouin e otsure itashimasu. Takushii wo tehai shimashou ka.*  
 In an emergency, we will take you to the hospital right away. Shall I arrange a taxi?
-<br><br>
-<span class="keigo-jp"><code>外国語対応の病院をご案内することも可能でございます。</code></span><br>
-<em>Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.</em><br>
+
+**外国語対応の病院をご案内することも可能でございます。**  
+*Gaikokugo taiou no byouin wo goannai suru koto mo kanou de gozaimasu.*  
 We are also able to direct you to hospitals that offer services in foreign languages.
-</div>
 
 ## Related Expressions
 

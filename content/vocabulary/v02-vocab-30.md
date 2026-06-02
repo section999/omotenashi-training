@@ -10,19 +10,17 @@ title: フロント係 (furonto kakari)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>私はフロント係でございます。何かお手伝いできることがあればおっしゃってください。</code></span><br>
-<em>Watashi wa furonto kakari de gozaimasu. Nanika o-tetsudai dekiru koto ga areba osshatte kudasai.</em><br>
+**私はフロント係でございます。何かお手伝いできることがあればおっしゃってください。**  
+*Watashi wa furonto kakari de gozaimasu. Nanika o-tetsudai dekiru koto ga areba osshatte kudasai.*  
 I am the front desk staff. Please let me know if there is anything I can help you with.
-<br><br>
-<span class="keigo-jp"><code>フロント係は二十四時間対応しております。</code></span><br>
-<em>Furonto kakari wa nijū-yo-jikan taiō shite orimasu.</em><br>
+
+**フロント係は二十四時間対応しております。**  
+*Furonto kakari wa nijū-yo-jikan taiō shite orimasu.*  
 Our front desk staff are available twenty-four hours a day.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点はフロント係までお気軽にお申し付けください。</code></span><br>
-<em>Go-fumei na ten wa furonto kakari made o-kigaru ni o-mōshitsuke kudasai.</em><br>
+
+**ご不明な点はフロント係までお気軽にお申し付けください。**  
+*Go-fumei na ten wa furonto kakari made o-kigaru ni o-mōshitsuke kudasai.*  
 Please feel free to contact the front desk staff with any questions.
-</div>
 
 ## Related Expressions
 

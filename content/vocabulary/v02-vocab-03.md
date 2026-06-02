@@ -9,19 +9,17 @@ title: チェックアウト (check-out)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。</code></span><br>
-<em>Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.</em><br>
+**ごチェックアウトはお済みでしょうか。お会計をご用意いたしております。**  
+*Go-chekku-auto wa o-sumi deshō ka. O-kaikei o go-yōi itashite orimasu.*  
 Have you finished checking out? We have your bill ready.
-<br><br>
-<span class="keigo-jp"><code>チェックアウトの際には、フロントまでルームキーをお返しください。</code></span><br>
-<em>Chekku-auto no sai niwa, furonto made rūmu-kī o o-kaeshi kudasai.</em><br>
+
+**チェックアウトの際には、フロントまでルームキーをお返しください。**  
+*Chekku-auto no sai niwa, furonto made rūmu-kī o o-kaeshi kudasai.*  
 At the time of check-out, please return the room key to the front desk.
-<br><br>
-<span class="keigo-jp"><code>ご滞在はいかがでしたか。またのお越しを心よりお待ち申し上げております。</code></span><br>
-<em>Go-taizai wa ikaga deshita ka. Mata no o-koshi o kokoro yori o-machi mōshi agemasu.</em><br>
+
+**ご滞在はいかがでしたか。またのお越しを心よりお待ち申し上げております。**  
+*Go-taizai wa ikaga deshita ka. Mata no o-koshi o kokoro yori o-machi mōshi agemasu.*  
 How was the stay? We look forward to welcoming you again.
-</div>
 
 ## Related Expressions
 
@@ -48,4 +46,4 @@ How was the stay? We look forward to welcoming you again.
 
 **Correct Answer:** チェックアウト (check-out)
 
-**Explanation:** ご〜はお済みでしょうか is a polite way to confirm whether a process is complete. ご + チェックアウト elevates the expression, making it suitable for front desk use when checking if a guest has finished their departure formalities.
+**Explanation:** ご○○はお済みでしょうか is a polite way to confirm whether a process is complete. ご + チェックアウト elevates the expression, making it suitable for front desk use when checking if a guest has finished their departure formalities.

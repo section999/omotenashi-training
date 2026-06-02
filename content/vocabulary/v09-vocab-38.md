@@ -9,19 +9,17 @@ In a hospitality context, a complete answer to a question about 受付時間 has
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。</code></span><br>
-<em>Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.</em><br>
+**受付時間は午前7時から午後10時までとなっております。夜間はインターホンをご利用ください。**  
+*Uketsuke jikan wa gozen shichiji kara gogo juuji made to natte orimasu. Yakan wa intaahon wo go-riyou kudasai.*  
 Reception hours are from 7:00 AM to 10:00 PM. For after-hours assistance, please use the intercom.
-<br><br>
-<span class="keigo-jp"><code>ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。</code></span><br>
-<em>Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.</em><br>
+
+**ご到着が受付時間外となる場合は、事前にご連絡いただけますと対応いたします。**  
+*Go-touchaku ga uketsuke jikan-gai to naru baai wa, jizen ni go-renraku itadakemasu to taiou itashimasu.*  
 If your arrival falls outside our reception hours, please contact us in advance and we will make appropriate arrangements.
-<br><br>
-<span class="keigo-jp"><code>受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。</code></span><br>
-<em>Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.</em><br>
+
+**受付時間内であれば、フロントスタッフが24時間対応いたします。夜間も緊急のご要望にはご対応可能です。**  
+*Uketsuke jikan-nai de areba, furonto sutaffu ga nijuuyojikan taiou itashimasu. Yakan mo kinkyuu no go-youbou ni wa go-taiou kanou desu.*  
 Our front desk staff provide full service during reception hours. Emergency requests can also be handled during nighttime hours.
-</div>
 
 ## Related Expressions
 

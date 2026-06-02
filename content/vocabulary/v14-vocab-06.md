@@ -9,19 +9,17 @@ This means knowing airport transfer options inside out, which train lines serve 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>出国の手続きには時間がかかる場合がございますので、早めに空港へお向かいください。</code></span><br>
-<em>Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e omukaikudasai.</em><br>
+**出国の手続きには時間がかかる場合がございますので、早めに空港へお向かいください。**  
+*Shukkoku no tetsuzuki ni wa jikan ga kakaru baai ga gozaimasu node, hayame ni kuukou e omukaikudasai.*  
 Entry procedures can take time, so please head to the airport early.
-<br><br>
-<span class="keigo-jp"><code>出国前に免税ショップでお買い物を楽しまれるお客様も多くいらっしゃいます。</code></span><br>
-<em>Shukkoku mae ni menzei shoppu de okaimono wo tanoshimareru okyakusama mo ooku irasshaimasu.</em><br>
+
+**出国前に免税ショップでお買い物を楽しまれるお客様も多くいらっしゃいます。**  
+*Shukkoku mae ni menzei shoppu de okaimono wo tanoshimareru okyakusama mo ooku irasshaimasu.*  
 Many guests enjoy shopping at duty-free stores before their departure.
-<br><br>
-<span class="keigo-jp"><code>本日ご出国のお客様は、フロントにてお荷物をお預かりいたします。</code></span><br>
-<em>Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.</em><br>
+
+**本日ご出国のお客様は、フロントにてお荷物をお預かりいたします。**  
+*Honjitsu goshukkoku no okyakusama wa, furonto nite onimotsu wo oazukari itashimasu.*  
 For guests departing the country today, we can hold your luggage at the front desk.
-</div>
 
 ## Related Expressions
 

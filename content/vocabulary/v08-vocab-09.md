@@ -10,19 +10,17 @@ Directing a guest to 二階 should always include access instructions: エレベ
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レストランは二階にございます。</code></span><br>
-<em>Resutoran wa nikai ni gozaimasu.</em><br>
+**レストランは二階にございます。**  
+*Resutoran wa nikai ni gozaimasu.*  
 The restaurant is on the second floor.
-<br><br>
-<span class="keigo-jp"><code>二階のラウンジにてウェルカムドリンクをご用意しております。</code></span><br>
-<em>Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.</em><br>
+
+**二階のラウンジにてウェルカムドリンクをご用意しております。**  
+*Nikai no raunji nite werukamuDorinku wo go-youi shite orimasu.*  
 We have a welcome drink prepared for you in the second-floor lounge.
-<br><br>
-<span class="keigo-jp"><code>会議室は二階の突き当たり左にございます。</code></span><br>
-<em>Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.</em><br>
+
+**会議室は二階の突き当たり左にございます。**  
+*Kaigishitsu wa nikai no tsukiatari hidari ni gozaimasu.*  
 The conference room is on the second floor at the end of the corridor on the left.
-</div>
 
 ## Related Expressions
 

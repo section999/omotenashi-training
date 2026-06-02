@@ -9,19 +9,17 @@ title: 教育 (kyouiku)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>会社は従業員の教育に力を入れています。</code></span><br>
-<em>Kaisha wa juugyouin no kyouiku ni chikara o irete imasu.</em><br>
+**会社は従業員の教育に力を入れています。**  
+*Kaisha wa juugyouin no kyouiku ni chikara o irete imasu.*  
 The company focuses on employee education.
-<br><br>
-<span class="keigo-jp"><code>当館では接客の教育を段階的に行っております。</code></span><br>
-<em>Toukan de wa sekkyaku no kyouiku o dankai-teki ni okonatte orimasu.</em><br>
+
+**当館では接客の教育を段階的に行っております。**  
+*Toukan de wa sekkyaku no kyouiku o dankai-teki ni okonatte orimasu.*  
 At our establishment, guest service education is conducted in stages.
-<br><br>
-<span class="keigo-jp"><code>新人の教育担当として、先輩スタッフを指名しました。</code></span><br>
-<em>Shinjin no kyouiku tantou to shite, senpai sutaffu o shimei shimashita.</em><br>
+
+**新人の教育担当として、先輩スタッフを指名しました。**  
+*Shinjin no kyouiku tantou to shite, senpai sutaffu o shimei shimashita.*  
 We designated a senior staff member as the person in charge of new hire education.
-</div>
 
 ## Related Expressions
 

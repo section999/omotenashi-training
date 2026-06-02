@@ -10,19 +10,17 @@ During check-in, reading back the 宿泊日 to the guest is a routine part of re
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご宿泊日は4月10日から4月12日までのご予定でよろしいでしょうか。</code></span><br>
-<em>Go-shukuhaku bi wa shi-gatsu touka kara shi-gatsu juunichi made no go-yotei de yoroshii deshou ka.</em><br>
+**ご宿泊日は4月10日から4月12日までのご予定でよろしいでしょうか。**  
+*Go-shukuhaku bi wa shi-gatsu touka kara shi-gatsu juunichi made no go-yotei de yoroshii deshou ka.*  
 Are the stay dates from April 10 to April 12, as planned?
-<br><br>
-<span class="keigo-jp"><code>宿泊日をもとに、お部屋の準備を進めております。</code></span><br>
-<em>Shukuhaku bi o moto ni, o-heya no junbi o susumete orimasu.</em><br>
+
+**宿泊日をもとに、お部屋の準備を進めております。**  
+*Shukuhaku bi o moto ni, o-heya no junbi o susumete orimasu.*  
 We are preparing the room based on the stay dates.
-<br><br>
-<span class="keigo-jp"><code>宿泊日の変更をご希望の場合は、空き状況を確認いたします。</code></span><br>
-<em>Shukuhaku bi no henkou o go-kibou no baai wa, aki joukyou o kakunin itashimasu.</em><br>
+
+**宿泊日の変更をご希望の場合は、空き状況を確認いたします。**  
+*Shukuhaku bi no henkou o go-kibou no baai wa, aki joukyou o kakunin itashimasu.*  
 If you wish to change the stay dates, we will check availability.
-</div>
 
 ## Related Expressions
 

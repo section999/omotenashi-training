@@ -10,19 +10,17 @@ Staff use 無料 proactively when describing complimentary services: 「朝食�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>当ホテルのWi-Fiは全館無料でご利用いただけます。</code></span><br>
-<em>Tou hoteru no waifai wa zenkan muryou de go-riyou itadakemasu.</em><br>
+**当ホテルのWi-Fiは全館無料でご利用いただけます。**  
+*Tou hoteru no waifai wa zenkan muryou de go-riyou itadakemasu.*  
 Wi-Fi at our hotel is available free of charge throughout the entire building.
-<br><br>
-<span class="keigo-jp"><code>ロビーのコーヒーは無料にてご提供しております。どうぞご自由にお召し上がりください。</code></span><br>
-<em>Robii no koohii wa muryou nite go-teikyou shite orimasu. Douzo go-jiyuu ni o-meshi-agari kudasai.</em><br>
+
+**ロビーのコーヒーは無料にてご提供しております。どうぞご自由にお召し上がりください。**  
+*Robii no koohii wa muryou nite go-teikyou shite orimasu. Douzo go-jiyuu ni o-meshi-agari kudasai.*  
 The coffee in the lobby is provided complimentary. Please help yourself freely.
-<br><br>
-<span class="keigo-jp"><code>空港シャトルバスのご利用は無料でございますが、事前のご予約が必要でございます。</code></span><br>
-<em>Kuukou shatorubasu no go-riyou wa muryou de gozaimasu ga, jizen no go-yoyaku ga hitsuyou de gozaimasu.</em><br>
+
+**空港シャトルバスのご利用は無料でございますが、事前のご予約が必要でございます。**  
+*Kuukou shatorubasu no go-riyou wa muryou de gozaimasu ga, jizen no go-yoyaku ga hitsuyou de gozaimasu.*  
 The airport shuttle bus is complimentary, but advance reservation is required.
-</div>
 
 ## Related Expressions
 

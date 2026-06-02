@@ -9,19 +9,17 @@ In a hospitality context, the workflow is fairly consistent: acknowledge the req
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約の変更は可能でございます。</code></span><br>
-<em>Go-yoyaku no henkō wa kanō de gozaimasu.</em><br>
+**ご予約の変更は可能でございます。**  
+*Go-yoyaku no henkō wa kanō de gozaimasu.*  
 Changes to your reservation are possible.
-<br><br>
-<span class="keigo-jp"><code>お日にちの変更をご希望でしょうか。</code></span><br>
-<em>O-hinichi no henkō wo go-kibō deshō ka.</em><br>
+
+**お日にちの変更をご希望でしょうか。**  
+*O-hinichi no henkō wo go-kibō deshō ka.*  
 Are you hoping to change the date?
-<br><br>
-<span class="keigo-jp"><code>変更内容を確認させていただきます。</code></span><br>
-<em>Henkō naiyō wo kakunin sasete itadakimasu.</em><br>
+
+**変更内容を確認させていただきます。**  
+*Henkō naiyō wo kakunin sasete itadakimasu.*  
 Allow me to confirm the details of your change.
-</div>
 
 ## Related Expressions
 

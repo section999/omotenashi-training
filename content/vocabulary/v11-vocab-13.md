@@ -9,19 +9,17 @@ In a hospitality context, 音声案内 appears whenever a hotel routes incoming 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>音声案内に従って、1番を押してフロントにお繋ぎください。</code></span><br>
-<em>Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.</em><br>
+**音声案内に従って、1番を押してフロントにお繋ぎください。**  
+*Onsei annai ni shitagatte, ichibang wo oshite furonto ni otsunagi kudasai.*  
 Please follow the voice guidance and press 1 to connect to the front desk.
-<br><br>
-<span class="keigo-jp"><code>音声案内がわかりにくい場合は、そのままお待ちいただければオペレーターにお繋ぎいたします。</code></span><br>
-<em>Onsei annai ga wakarinikoui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.</em><br>
+
+**音声案内がわかりにくい場合は、そのままお待ちいただければオペレーターにお繋ぎいたします。**  
+*Onsei annai ga wakarinikoui baai wa, sono mama omachi itadakereba opereetaa ni otsunagi itashimasu.*  
 If the voice guidance is unclear, please stay on the line and we will connect you to an operator.
-<br><br>
-<span class="keigo-jp"><code>ただいま音声案内のシステムをご利用いただいております。</code></span><br>
-<em>Tadaima onsei annai no shisutemu wo goriyou itadaite orimasu.</em><br>
+
+**ただいま音声案内のシステムをご利用いただいております。**  
+*Tadaima onsei annai no shisutemu wo goriyou itadaite orimasu.*  
 You are currently using our voice guidance system.
-</div>
 
 ## Related Expressions
 

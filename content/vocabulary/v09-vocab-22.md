@@ -9,19 +9,17 @@ A common error is to overlook that a 期限 needs both a date and a time. Saying
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>仮予約の確認期限は、今月15日の午前11時でございます。</code></span><br>
-<em>Kari-yoyaku no kakunin kigen wa, kongetsu juugo-nichi no gozen juuichi-ji de gozaimasu.</em><br>
+**仮予約の確認期限は、今月15日の午前11時でございます。**  
+*Kari-yoyaku no kakunin kigen wa, kongetsu juugo-nichi no gozen juuichi-ji de gozaimasu.*  
 The confirmation deadline for the tentative reservation is the 15th of this month at 11:00 a.m.
-<br><br>
-<span class="keigo-jp"><code>無料キャンセルの期限は、ご宿泊日の3日前の午後3時までとなっております。</code></span><br>
-<em>Muryou kyanseru no kigen wa, go-shukuhaku-bi no mikkamae no gogo san-ji made to natte orimasu.</em><br>
+
+**無料キャンセルの期限は、ご宿泊日の3日前の午後3時までとなっております。**  
+*Muryou kyanseru no kigen wa, go-shukuhaku-bi no mikkamae no gogo san-ji made to natte orimasu.*  
 The free cancellation deadline is 3:00 p.m., 3 days before the stay.
-<br><br>
-<span class="keigo-jp"><code>ご予約の変更期限を過ぎた場合、キャンセル料が発生する場合がございます。</code></span><br>
-<em>Go-yoyaku no henkou kigen wo sugita baai, kyanseru ryou ga hassei suru baai ga gozaimasu.</em><br>
+
+**ご予約の変更期限を過ぎた場合、キャンセル料が発生する場合がございます。**  
+*Go-yoyaku no henkou kigen wo sugita baai, kyanseru ryou ga hassei suru baai ga gozaimasu.*  
 If the reservation change deadline has passed, a cancellation fee may apply.
-</div>
 
 ## Related Expressions
 

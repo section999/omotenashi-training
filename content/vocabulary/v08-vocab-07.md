@@ -10,26 +10,24 @@ The pronunciation of 階 changes depending on the number it attaches to: 一階 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>客室は3階にございます。</code></span><br>
-<em>Kyakushitsu wa san-gai ni gozaimasu.</em><br>
+**客室は3階にございます。**  
+*Kyakushitsu wa san-gai ni gozaimasu.*  
 The guest rooms are on the 3rd floor.
-<br><br>
-<span class="keigo-jp"><code>大浴場は5階にございます。エレベーターをご利用ください。</code></span><br>
-<em>Daiyokujou wa go-kai ni gozaimasu. Erebeetaa wo go-riyou kudasai.</em><br>
+
+**大浴場は5階にございます。エレベーターをご利用ください。**  
+*Daiyokujou wa go-kai ni gozaimasu. Erebeetaa wo go-riyou kudasai.*  
 The large communal bath is on the 5th floor. Please use the elevator.
-<br><br>
-<span class="keigo-jp"><code>レストランは2階、スパは4階にございます。</code></span><br>
-<em>Resutoran wa ni-kai, supa wa yon-kai ni gozaimasu.</em><br>
+
+**レストランは2階、スパは4階にございます。**  
+*Resutoran wa ni-kai, supa wa yon-kai ni gozaimasu.*  
 The restaurant is on the 2nd floor and the spa is on the 4th floor.
-</div>
 
 ## Related Expressions
 
 | Expression | Description |
 |---|---|
 | フロア<br>furoa | the loanword for "floor," borrowed from English; used interchangeably with 階 in some modern hotel settings, particularly on digital displays or in English-heavy environments, but 階 remains the standard in formal Japanese hospitality speech |
-| 〜番地<br>〜banchi | the address-specific numbering system used outdoors; entirely different from 階, which applies strictly to vertical floor levels within a building |
+| ○○番地<br>○○banchi | the address-specific numbering system used outdoors; entirely different from 階, which applies strictly to vertical floor levels within a building |
 
 ## Common Mistakes
 

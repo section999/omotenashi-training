@@ -9,19 +9,17 @@ Restaurant and banquet venues within hotels sometimes extend 後払い to in-hou
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お食事代はお部屋付けにて後払いでお承りいたします。</code></span><br>
-<em>O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.</em><br>
+**お食事代はお部屋付けにて後払いでお承りいたします。**  
+*O-shokuji dai wa o-heya tsuke nite atobarai de o-uketamawari itashimasu.*  
 The dining charges can be billed to the room and settled at checkout.
-<br><br>
-<span class="keigo-jp"><code>法人のお客様には、後払いでの請求書払いも承っております。</code></span><br>
-<em>Houjin no o-kyakusama ni wa, atobarai de no seikyuusho barai mo uketamatte orimasu.</em><br>
+
+**法人のお客様には、後払いでの請求書払いも承っております。**  
+*Houjin no o-kyakusama ni wa, atobarai de no seikyuusho barai mo uketamatte orimasu.*  
 For corporate clients, we also accept invoice-based deferred payment.
-<br><br>
-<span class="keigo-jp"><code>後払いご希望の場合は、事前にフロントにてご登録が必要です。</code></span><br>
-<em>Atobarai go-kibou no baai wa, jizen ni furonto nite go-touroku ga hitsuyou desu.</em><br>
+
+**後払いご希望の場合は、事前にフロントにてご登録が必要です。**  
+*Atobarai go-kibou no baai wa, jizen ni furonto nite go-touroku ga hitsuyou desu.*  
 If you would like to use deferred payment, prior registration at the front desk is required.
-</div>
 
 ## Related Expressions
 

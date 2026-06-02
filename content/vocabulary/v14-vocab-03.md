@@ -9,19 +9,17 @@ The small details of how staff handle the document matter as much as the check i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックインの際に、外国のお客様にはパスポート確認をお願いしております。</code></span><br>
-<em>Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.</em><br>
+**チェックインの際に、外国のお客様にはパスポート確認をお願いしております。**  
+*Chekku-in no sai ni, gaikoku no okyakusama ni wa pasupoto kakunin wo onegai shite orimasu.*  
 We ask foreign guests to undergo a passport check at the time of check-in.
-<br><br>
-<span class="keigo-jp"><code>パスポート確認は法律上の義務ですので、ご協力をお願いいたします。</code></span><br>
-<em>Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.</em><br>
+
+**パスポート確認は法律上の義務ですので、ご協力をお願いいたします。**  
+*Pasupoto kakunin wa houritsu jou no gimu desu node, gokyouryoku wo onegai itashimasu.*  
 Passport verification is a legal requirement, so we appreciate your cooperation.
-<br><br>
-<span class="keigo-jp"><code>フロントスタッフはパスポート確認の後、情報を台帳に記入します。</code></span><br>
-<em>Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.</em><br>
+
+**フロントスタッフはパスポート確認の後、情報を台帳に記入します。**  
+*Furonto sutaffu wa pasupoto kakunin no nochi, jouhou wo daichou ni kinyuu shimasu.*  
 After the passport check, front desk staff record the information in the register.
-</div>
 
 ## Related Expressions
 

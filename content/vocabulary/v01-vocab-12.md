@@ -13,19 +13,17 @@ During the walk itself, the guiding staff member typically walks slightly ahead 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらへどうぞ。お部屋までご案内いたします。</code></span><br>
-<em>Kochira e dōzo. O-heya made go-annai itashimasu.</em><br>
+**こちらへどうぞ。お部屋までご案内いたします。**  
+*Kochira e dōzo. O-heya made go-annai itashimasu.*  
 Please come this way. I will show you to the room.
-<br><br>
-<span class="keigo-jp"><code>レストランはこちらでございます。こちらへどうぞ。</code></span><br>
-<em>Resutoran wa kochira de gozaimasu. Kochira e dōzo.</em><br>
+
+**レストランはこちらでございます。こちらへどうぞ。**  
+*Resutoran wa kochira de gozaimasu. Kochira e dōzo.*  
 The restaurant is this way. Please follow me.
-<br><br>
-<span class="keigo-jp"><code>こちらへどうぞ。足元にお気をつけくださいませ。</code></span><br>
-<em>Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.</em><br>
+
+**こちらへどうぞ。足元にお気をつけくださいませ。**  
+*Kochira e dōzo. Ashimoto ni o-ki wo tsukete kudasaimase.*  
 Please come this way. Please watch your step.
-</div>
 
 ## Related Expressions
 

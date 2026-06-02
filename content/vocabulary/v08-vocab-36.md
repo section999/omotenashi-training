@@ -10,19 +10,17 @@ The cultural weight of proactive safety communication in Japanese hospitality is
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>非常口は廊下の突き当たり、右手にございます。火災の際はこちらからお逃げください。</code></span><br>
-<em>Hijouguchi wa rouka no tsukiatari, migite ni gozaimasu. Kasai no sai wa kochira kara o-nige kudasai.</em><br>
+**非常口は廊下の突き当たり、右手にございます。火災の際はこちらからお逃げください。**  
+*Hijouguchi wa rouka no tsukiatari, migite ni gozaimasu. Kasai no sai wa kochira kara o-nige kudasai.*  
 The emergency exit is at the end of the corridor on the right. In the event of a fire, please evacuate from here.
-<br><br>
-<span class="keigo-jp"><code>ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。</code></span><br>
-<em>Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.</em><br>
+
+**ご宿泊中の安全のため、各階の非常口の位置をご確認いただくことをお勧めいたします。**  
+*Go-shukuhaku-chuu no anzen no tame, kaku-kai no hijouguchi no ichi wo go-kakunin itadaku koto wo o-susume itashimasu.*  
 For your safety during the stay, we recommend confirming the location of emergency exits on each floor.
-<br><br>
-<span class="keigo-jp"><code>こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。</code></span><br>
-<em>Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.</em><br>
+
+**こちらのカードに各階の非常口と避難経路が記載されております。ご一読ください。**  
+*Kochira no kaado ni kaku-kai no hijouguchi to hinan keiro ga kisai sarete orimasu. Go-ichidoku kudasai.*  
 This card contains information on emergency exits and evacuation routes for each floor. Please read it.
-</div>
 
 ## Related Expressions
 

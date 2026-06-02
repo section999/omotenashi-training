@@ -10,19 +10,17 @@ The pronunciation is ikkai, not ichi-kai, and this is one of those irregular cou
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ロビーは一階にございます。</code></span><br>
-<em>Robii wa ikkai ni gozaimasu.</em><br>
+**ロビーは一階にございます。**  
+*Robii wa ikkai ni gozaimasu.*  
 The lobby is on the first floor.
-<br><br>
-<span class="keigo-jp"><code>フロントデスクは一階、入ってすぐ正面にございます。</code></span><br>
-<em>Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.</em><br>
+
+**フロントデスクは一階、入ってすぐ正面にございます。**  
+*Furonto desuku wa ikkai, haitte sugu shoumen ni gozaimasu.*  
 The front desk is on the first floor, directly ahead as one enter.
-<br><br>
-<span class="keigo-jp"><code>お土産店は一階のロビー横にございます。</code></span><br>
-<em>O-miyage-ten wa ikkai no robii yoko ni gozaimasu.</em><br>
+
+**お土産店は一階のロビー横にございます。**  
+*O-miyage-ten wa ikkai no robii yoko ni gozaimasu.*  
 The souvenir shop is on the first floor, next to the lobby.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ For properties that do accept 外貨, the exchange rate must be checked daily, n
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>外貨でのお支払いを承っております。</code></span><br>
-<em>Gaika de no oshiharai o uketamatteotte orimasu.</em><br>
+**外貨でのお支払いを承っております。**  
+*Gaika de no oshiharai o uketamatteotte orimasu.*  
 We accept payment in foreign currency.
-<br><br>
-<span class="keigo-jp"><code>本日お取り扱いできる外貨の種類はこちらになります。</code></span><br>
-<em>Honjitsu otoriatsukai dekiru gaika no shurui wa kochira ni narimasu.</em><br>
+
+**本日お取り扱いできる外貨の種類はこちらになります。**  
+*Honjitsu otoriatsukai dekiru gaika no shurui wa kochira ni narimasu.*  
 The foreign currencies we can handle today are as follows.
-<br><br>
-<span class="keigo-jp"><code>外貨でのお支払いの場合、本日の為替レートを適用いたします。</code></span><br>
-<em>Gaika de no oshiharai no baai, honjitsu no kawase reeto o tekiyou itashimasu.</em><br>
+
+**外貨でのお支払いの場合、本日の為替レートを適用いたします。**  
+*Gaika de no oshiharai no baai, honjitsu no kawase reeto o tekiyou itashimasu.*  
 For payments in foreign currency, today's exchange rate will be applied.
-</div>
 
 ## Related Expressions
 

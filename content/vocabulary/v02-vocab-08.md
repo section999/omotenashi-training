@@ -9,19 +9,17 @@ The standard professional approach involves three things: an apology first (大�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>大変申し訳ございませんが、本日は満室でございます。</code></span><br>
-<em>Taihen mōshiwake gozaimasen ga, honjitsu wa manshitsu de gozaimasu.</em><br>
+**大変申し訳ございませんが、本日は満室でございます。**  
+*Taihen mōshiwake gozaimasen ga, honjitsu wa manshitsu de gozaimasu.*  
 We sincerely apologise, but we are fully booked for today.
-<br><br>
-<span class="keigo-jp"><code>本日は満室でございますが、明日以降でしたらご空室をご用意できます。</code></span><br>
-<em>Honjitsu wa manshitsu de gozaimasu ga, ashita ikō deshitara go-kūshitsu o go-yōi dekimasu.</em><br>
+
+**本日は満室でございますが、明日以降でしたらご空室をご用意できます。**  
+*Honjitsu wa manshitsu de gozaimasu ga, ashita ikō deshitara go-kūshitsu o go-yōi dekimasu.*  
 We are fully booked today, but we can accommodate you from tomorrow onward.
-<br><br>
-<span class="keigo-jp"><code>満室の際は、近隣のホテルをご案内することも可能でございます。</code></span><br>
-<em>Manshitsu no sai wa, kinrin no hoteru o go-annai suru koto mo kanō de gozaimasu.</em><br>
+
+**満室の際は、近隣のホテルをご案内することも可能でございます。**  
+*Manshitsu no sai wa, kinrin no hoteru o go-annai suru koto mo kanō de gozaimasu.*  
 When we are fully booked, we can also direct you to nearby hotels.
-</div>
 
 ## Related Expressions
 

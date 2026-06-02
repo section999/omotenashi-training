@@ -10,19 +10,17 @@ When a guest asks about availability, staff should respond immediately and with 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいま空いている席へご案内いたします。</code></span><br>
-<em>Tadaima aiteiru seki e go-annai itashimasu.</em><br>
+**ただいま空いている席へご案内いたします。**  
+*Tadaima aiteiru seki e go-annai itashimasu.*  
 I will guide you to an available seat right away.
-<br><br>
-<span class="keigo-jp"><code>窓際に空いている席がございます。いかがでしょうか。</code></span><br>
-<em>Madogiwa ni aiteiru seki ga gozaimasu. Ikaga deshou ka.</em><br>
+
+**窓際に空いている席がございます。いかがでしょうか。**  
+*Madogiwa ni aiteiru seki ga gozaimasu. Ikaga deshou ka.*  
 There is an available seat by the window. Would that suit you?
-<br><br>
-<span class="keigo-jp"><code>ただいまお席はすべて埋まっておりますが、15分ほどで空く予定でございます。</code></span><br>
-<em>Tadaima o-seki wa subete umatte orimasu ga, juugo-fun hodo de aku yotei de gozaimasu.</em><br>
+
+**ただいまお席はすべて埋まっておりますが、15分ほどで空く予定でございます。**  
+*Tadaima o-seki wa subete umatte orimasu ga, juugo-fun hodo de aku yotei de gozaimasu.*  
 All seats are currently occupied, but one should become available in about 15 minutes.
-</div>
 
 ## Related Expressions
 

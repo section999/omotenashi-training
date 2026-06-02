@@ -9,19 +9,17 @@ Hotel staff are asked about バス routes constantly, and airport transfers are 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>空港から市内までバスで行きました。</code></span><br>
-<em>Kuukou kara shinai made basu de ikimashita.</em><br>
+**空港から市内までバスで行きました。**  
+*Kuukou kara shinai made basu de ikimashita.*  
 I went from the airport to the city by bus.
-<br><br>
-<span class="keigo-jp"><code>京都の主な観光地は市バスで巡ることができます。</code></span><br>
-<em>Kyouto no omo na kankoukyaku chi wa shi basu de meguru koto ga dekimasu.</em><br>
+
+**京都の主な観光地は市バスで巡ることができます。**  
+*Kyouto no omo na kankoukyaku chi wa shi basu de meguru koto ga dekimasu.*  
 You can visit Kyoto's main tourist attractions by city bus.
-<br><br>
-<span class="keigo-jp"><code>リムジンバスのご予約はフロントにてお手続きいただけます。</code></span><br>
-<em>Rimujin basu no goyoyaku wa furonto nite otetsuzuki itadakemasu.</em><br>
+
+**リムジンバスのご予約はフロントにてお手続きいただけます。**  
+*Rimujin basu no goyoyaku wa furonto nite otetsuzuki itadakemasu.*  
 Limousine bus reservations can be arranged at the front desk.
-</div>
 
 ## Related Expressions
 

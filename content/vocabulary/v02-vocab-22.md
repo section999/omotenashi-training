@@ -10,19 +10,17 @@ The procedure is straightforward once the steps are clear. Start by checking ava
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>延泊は可能でございます。</code></span><br>
-<em>Enpaku wa kanō de gozaimasu.</em><br>
+**延泊は可能でございます。**  
+*Enpaku wa kanō de gozaimasu.*  
 An extension of stay is possible.
-<br><br>
-<span class="keigo-jp"><code>延泊のご希望でございますね。ただいま空き状況をご確認いたします。</code></span><br>
-<em>Enpaku no go-kibō de gozaimasu ne. Tadaima aki jōkyō wo go-kakunin itashimasu.</em><br>
+
+**延泊のご希望でございますね。ただいま空き状況をご確認いたします。**  
+*Enpaku no go-kibō de gozaimasu ne. Tadaima aki jōkyō wo go-kakunin itashimasu.*  
 You would like to extend the stay. I will check availability right now.
-<br><br>
-<span class="keigo-jp"><code>大変申し訳ございませんが、明日は満室のため延泊が難しい状況でございます。</code></span><br>
-<em>Taihen mōshiwake gozaimasen ga, ashita wa manseki no tame enpaku ga muzukashii jōkyō de gozaimasu.</em><br>
+
+**大変申し訳ございませんが、明日は満室のため延泊が難しい状況でございます。**  
+*Taihen mōshiwake gozaimasen ga, ashita wa manseki no tame enpaku ga muzukashii jōkyō de gozaimasu.*  
 We sincerely apologize, but as we are fully booked tomorrow, extending the stay would be difficult.
-</div>
 
 ## Related Expressions
 

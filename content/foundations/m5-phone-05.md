@@ -16,20 +16,28 @@ Acknowledgment → Identity verification → Reservation check → Cancellation 
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約をキャンセルしたいのですが。</code></span><br>
+<em>yoyaku o kyanseru shitai no desu ga.</em><br>
 I'd like to cancel my reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
 Certainly. May I have the name on the reservation?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>山田です。</code></span><br>
+<em>yamada desu.</em><br>
 Yamada.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。確認いたしますので少々お待ちくださいませ。</code></span><br>
+<em>yamada sama de gozaimasu ne. kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
 Mr./Ms. Yamada. I will check now, please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お待たせいたしました。6月10日から2泊、ツインルームのご予約でございますね。</code></span><br>
+<em>o-matase itashimashita. 6 tsuki 10 nichi kara 2 haku, tsuin rumu no go-yoyaku de gozaimasu ne.</em><br>
 Thank you for waiting. Your reservation is a twin room, June 10th for two nights, correct?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>はい、そうです。</code></span><br>
+<em>hai, sou desu.</em><br>
 Yes, that's right.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。キャンセルを承りました。</code></span><br>
+<em>kashikomarimashita. kyanseru o uketamawarimashita.</em><br>
 Certainly. Your cancellation has been processed.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>またのご利用をお待ちしております。お電話ありがとうございました。</code></span><br>
+<em>mata no go-riyou o omachi shite orimasu. o-denwa arigatou gozaimashita.</em><br>
 We look forward to welcoming you in the future. Thank you for your call.
 </div>
 
@@ -58,11 +66,9 @@ Your cancellation has been received.<br><br>
 
 If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly, frame it as policy, not punishment:
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。</code></span><br>
-<em>makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.</em><br>
+**誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。**  
+*makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.*  
 I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.
-</div>
 
 誠に恐れ入りますが softens the delivery of unwelcome information. The fee is framed as policy, not a personal decision by the hotel.
 

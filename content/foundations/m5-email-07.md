@@ -18,19 +18,29 @@ The reservation confirmation is often the first direct communication from the ho
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【ご予約確認】[Name]様 [Date]〜[Date] [Number]泊</code></span><br><br>
+<em>【 go-yoyaku kakunin 】[ Name ] sama [ Date ]〜[ Date ] [ Number ] haku</em><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
 Your reservation details are as follows.<br><br>
 <span class="keigo-jp"><code>チェックイン：[Date]（[Day]）[Time]〜</code></span><br>
+<em>chekkuin :[ Date ]([ Day ])[ Time ]〜</em><br>
 <span class="keigo-jp"><code>チェックアウト：[Date]（[Day]）[Time]</code></span><br>
+<em>chekku auto :[ Date ]([ Day ])[ Time ]</em><br>
 <span class="keigo-jp"><code>ご宿泊人数：[Number]名様</code></span><br>
+<em>go shukuhaku ninzu :[ Number ] mei sama</em><br>
 <span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span><br><br>
+<em>o-heya taipu :[ Room type ]</em><br>
 <span class="keigo-jp"><code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code></span><br>
+<em>go-taizai chu, kaiteki ni osugoshi itadake masu you, sutaffu ichi dou jumbi o susume te orimasu.</em><br>
 All of our staff are preparing to ensure you have a comfortable stay.<br><br>
 <span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions before your arrival, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to your arrival.
 </div>
 
@@ -38,7 +48,9 @@ We sincerely look forward to your arrival.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>スタッフ一同</code></span> (staffu ichidou): "all of our staff"<br><br>
+<em>sutaffu ichidou</em><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけますよう</code></span>: "so that you may have a comfortable stay"<br><br>
+<em>kaiteki ni osugoshi itadake masu you</em><br>
 <span class="keigo-jp"><code>心よりお待ち申し上げております</code></span>: "sincerely look forward to"
 </div>
 
@@ -52,6 +64,7 @@ We sincerely look forward to your arrival.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>いつもお世話になっております。この度もご予約いただき、誠にありがとうございます。</code></span><br>
+<em>itsumo osewa ni natte orimasu. kono tabi mo go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you for your continued support. Thank you very much for booking with us again on this occasion.
 </div>
 

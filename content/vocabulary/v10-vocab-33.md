@@ -9,19 +9,17 @@ When a guest presents a バウチャー, staff should check three things before 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バウチャーをフロントにてご提示ください。</code></span><br>
-<em>Bauchā o furonto nite goteiji kudasai.</em><br>
+**バウチャーをフロントにてご提示ください。**  
+*Bauchā o furonto nite goteiji kudasai.*  
 Please present your voucher at the front desk.
-<br><br>
-<span class="keigo-jp"><code>こちらのバウチャーはお食事付きのご宿泊に適用されます。</code></span><br>
-<em>Kochira no bauchā wa oshokuji-tsuki no goshukuhaku ni tekiyō saremasu.</em><br>
+
+**こちらのバウチャーはお食事付きのご宿泊に適用されます。**  
+*Kochira no bauchā wa oshokuji-tsuki no goshukuhaku ni tekiyō saremasu.*  
 This voucher applies to an accommodation stay with meals included.
-<br><br>
-<span class="keigo-jp"><code>バウチャーの内容を確認させていただきます。</code></span><br>
-<em>Bauchā no naiyō o kakunin sasete itadakimasu.</em><br>
+
+**バウチャーの内容を確認させていただきます。**  
+*Bauchā no naiyō o kakunin sasete itadakimasu.*  
 Allow me to verify the details of your voucher.
-</div>
 
 ## Related Expressions
 

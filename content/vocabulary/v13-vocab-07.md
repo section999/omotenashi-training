@@ -10,19 +10,17 @@ From a management perspective, 出勤 records let supervisors spot patterns of l
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>毎朝9時に出勤します。</code></span><br>
-<em>Maiasa kuji ni shukkin shimasu.</em><br>
+**毎朝9時に出勤します。**  
+*Maiasa kuji ni shukkin shimasu.*  
 I go to work at 9 AM every morning.
-<br><br>
-<span class="keigo-jp"><code>本日は台風のため、出勤が難しい場合は上司に連絡してください。</code></span><br>
-<em>Honjitsu wa taifuu no tame, shukkin ga muzukashii baai wa joushi ni renraku shite kudasai.</em><br>
+
+**本日は台風のため、出勤が難しい場合は上司に連絡してください。**  
+*Honjitsu wa taifuu no tame, shukkin ga muzukashii baai wa joushi ni renraku shite kudasai.*  
 If coming in to work is difficult today due to the typhoon, please contact your supervisor.
-<br><br>
-<span class="keigo-jp"><code>出勤時にタイムカードを押すことを忘れないでください。</code></span><br>
-<em>Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.</em><br>
+
+**出勤時にタイムカードを押すことを忘れないでください。**  
+*Shukkin-ji ni taimu-kaado o osu koto o wasurenaide kudasai.*  
 Please do not forget to clock in when one arrive for the shift.
-</div>
 
 ## Related Expressions
 

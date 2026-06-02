@@ -11,19 +11,17 @@ Staff members stationed at the フロント are expected to maintain impeccable 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>フロントはこちらでございます。どうぞこちらへお越しください。</code></span><br>
-<em>Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.</em><br>
+**フロントはこちらでございます。どうぞこちらへお越しください。**  
+*Furonto wa kochira de gozaimasu. Dōzo kochira e okoshi kudasai.*  
 The front desk is right here. Please come this way.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、いつでもフロントまでお申し付けください。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.</em><br>
+
+**ご不明な点がございましたら、いつでもフロントまでお申し付けください。**  
+*Go-fumeina ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*  
 If you have any questions at all, please do not hesitate to let the front desk know.
-<br><br>
-<span class="keigo-jp"><code>フロントにて、お荷物をお預かりすることが可能でございます。</code></span><br>
-<em>Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.</em><br>
+
+**フロントにて、お荷物をお預かりすることが可能でございます。**  
+*Furonto nite, o-nimotsu o o-azukari suru koto ga kanō de gozaimasu.*  
 We are able to hold your luggage at the front desk.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ The standard phrase is 「〇〇には追加料金が発生いたします」, w
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。</code></span><br>
-<em>Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.</em><br>
+**エキストラベッドのご利用には、1泊あたり3,000円の追加料金が発生いたします。**  
+*Ekisutora beddo no go-riyou ni wa, ippaku atari sanzento-en no tsuika ryoukin ga hassei itashimasu.*  
 An additional charge of 3,000 yen per night applies for the use of an extra bed.
-<br><br>
-<span class="keigo-jp"><code>レイトチェックアウトをご希望の場合、追加料金をご確認ください。</code></span><br>
-<em>Reito chekku-auto o go-kibou no baai, tsuika ryoukin o go-kakunin kudasai.</em><br>
+
+**レイトチェックアウトをご希望の場合、追加料金をご確認ください。**  
+*Reito chekku-auto o go-kibou no baai, tsuika ryoukin o go-kakunin kudasai.*  
 If you would like a late checkout, please check the additional fee.
-<br><br>
-<span class="keigo-jp"><code>追加料金はチェックアウト時に精算いたします。</code></span><br>
-<em>Tsuika ryoukin wa chekku-auto ji ni seisan itashimasu.</em><br>
+
+**追加料金はチェックアウト時に精算いたします。**  
+*Tsuika ryoukin wa chekku-auto ji ni seisan itashimasu.*  
 Additional charges will be settled at checkout.
-</div>
 
 ## Related Expressions
 
@@ -48,4 +46,4 @@ Saying nothing about 追加料金 and then presenting an unexpected figure at ch
 
 **Correct Answer:** 追加料金 (additional charge)
 
-**Explanation:** 追加料金 is the term for any charge that applies on top of the reservation price, which is exactly what adding an extra bed represents. Quoting a specific amount using the phrase 追加料金が〜円発生いたします before the service is provided prevents checkout surprises, which are a notable common triggers for guest complaints.
+**Explanation:** 追加料金 is the term for any charge that applies on top of the reservation price, which is exactly what adding an extra bed represents. Quoting a specific amount using the phrase 追加料金が○○円発生いたします before the service is provided prevents checkout surprises, which are a notable common triggers for guest complaints.

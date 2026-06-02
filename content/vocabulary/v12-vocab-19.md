@@ -10,19 +10,17 @@ Japanese staff are trained to give structured information when making a 通報 c
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災を発見次第、ただちに消防署に通報してください。</code></span><br>
-<em>Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.</em><br>
+**火災を発見次第、ただちに消防署に通報してください。**  
+*Kasai wo hakken shidai, tadachi ni shoushousha ni tsuuhou shite kudasai.*  
 Upon discovering a fire, report it to the fire department immediately.
-<br><br>
-<span class="keigo-jp"><code>スタッフは緊急時には119番に通報する手順を熟知しています。</code></span><br>
-<em>Sutaffu wa kinkyuu ji ni wa hyakujuukyuuban ni tsuuhou suru tejun wo jukuchi shite imasu.</em><br>
+
+**スタッフは緊急時には119番に通報する手順を熟知しています。**  
+*Sutaffu wa kinkyuu ji ni wa hyakujuukyuuban ni tsuuhou suru tejun wo jukuchi shite imasu.*  
 Staff are thoroughly familiar with the procedure for reporting emergencies to 119.
-<br><br>
-<span class="keigo-jp"><code>不審者を発見した場合は、直ちに警察に通報するとともに、支配人に報告してください。</code></span><br>
-<em>Fushinsya wo hakken shita baai wa, tadachi ni keisatsu ni tsuuhou suru to tomo ni, shihainin ni houkoku shite kudasai.</em><br>
+
+**不審者を発見した場合は、直ちに警察に通報するとともに、支配人に報告してください。**  
+*Fushinsya wo hakken shita baai wa, tadachi ni keisatsu ni tsuuhou suru to tomo ni, shihainin ni houkoku shite kudasai.*  
 If you discover a suspicious individual, report to the police immediately and notify the manager.
-</div>
 
 ## Related Expressions
 

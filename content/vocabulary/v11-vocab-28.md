@@ -9,19 +9,17 @@ When working with international guests, especially when neither party is speakin
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>英語でも会話できますので、お気軽にお声がけください。</code></span><br>
-<em>Eigo demo kaiwa dekimasu node, okigaru ni okoe gake kudasai.</em><br>
+**英語でも会話できますので、お気軽にお声がけください。**  
+*Eigo demo kaiwa dekimasu node, okigaru ni okoe gake kudasai.*  
 We are able to have a conversation in English as well, so please feel free to speak with us.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、フロントにてご会話いただけます。</code></span><br>
-<em>Go-fumei na ten ga gozaimashitara, furonto nite go-kaiwa itadakemasu.</em><br>
+
+**ご不明な点がございましたら、フロントにてご会話いただけます。**  
+*Go-fumei na ten ga gozaimashitara, furonto nite go-kaiwa itadakemasu.*  
 If you have any questions, we can have a conversation at the front desk.
-<br><br>
-<span class="keigo-jp"><code>電話での会話は、ゆっくりはっきりとお話しするよう心がけております。</code></span><br>
-<em>Denwa de no kaiwa wa, yukkuri hakkiri to ohanashi suru you kokorogakete orimasu.</em><br>
+
+**電話での会話は、ゆっくりはっきりとお話しするよう心がけております。**  
+*Denwa de no kaiwa wa, yukkuri hakkiri to ohanashi suru you kokorogakete orimasu.*  
 We make a point of speaking slowly and clearly during telephone conversations.
-</div>
 
 ## Related Expressions
 

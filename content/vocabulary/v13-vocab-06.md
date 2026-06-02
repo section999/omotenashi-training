@@ -10,19 +10,17 @@ Managers in hotels and ryokan use 勤務 when discussing attendance records, eva
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>彼の勤務は毎日午前8時から始まります。</code></span><br>
-<em>Kare no kinmu wa mainichi gozen hachiji kara hajimarimasu.</em><br>
+**彼の勤務は毎日午前8時から始まります。**  
+*Kare no kinmu wa mainichi gozen hachiji kara hajimarimasu.*  
 His duty starts every day at 8 AM.
-<br><br>
-<span class="keigo-jp"><code>勤務中はスマートフォンの私的利用を禁止しています。</code></span><br>
-<em>Kinmu-chuu wa sumaatofon no shiteki riyou o kinshi shite imasu.</em><br>
+
+**勤務中はスマートフォンの私的利用を禁止しています。**  
+*Kinmu-chuu wa sumaatofon no shiteki riyou o kinshi shite imasu.*  
 Personal use of smartphones is prohibited during working hours.
-<br><br>
-<span class="keigo-jp"><code>長年の勤務に感謝し、表彰状をお贈りします。</code></span><br>
-<em>Naganen no kinmu ni kansha shi, hyoushoujou o ookuri shimasu.</em><br>
+
+**長年の勤務に感謝し、表彰状をお贈りします。**  
+*Naganen no kinmu ni kansha shi, hyoushoujou o ookuri shimasu.*  
 In appreciation of your many years of dedicated service, we present you with this certificate of commendation.
-</div>
 
 ## Related Expressions
 

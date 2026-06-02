@@ -9,19 +9,17 @@ Every interaction with a スイートルーム guest should be unhurried, measur
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>スイートルームへのご宿泊を心よりお待ち申し上げておりました。</code></span><br>
-<em>Suiito-ruumu e no go-shukuhaku wo kokoro yori o-machi moushi-agete orimashita.</em><br>
+**スイートルームへのご宿泊を心よりお待ち申し上げておりました。**  
+*Suiito-ruumu e no go-shukuhaku wo kokoro yori o-machi moushi-agete orimashita.*  
 We have been looking forward to welcoming you to the suite with all our hearts.
-<br><br>
-<span class="keigo-jp"><code>スイートルームはリビングと寝室が別々になっておりますので、ごゆっくりおくつろぎください。</code></span><br>
-<em>Suiito-ruumu wa ribingu to shinshitsu ga betsubetsu ni natte orimasu no de, go-yukkuri o-kutsurogi kudasai.</em><br>
+
+**スイートルームはリビングと寝室が別々になっておりますので、ごゆっくりおくつろぎください。**  
+*Suiito-ruumu wa ribingu to shinshitsu ga betsubetsu ni natte orimasu no de, go-yukkuri o-kutsurogi kudasai.*  
 The suite has a separate living room and bedroom, so please relax at your leisure.
-<br><br>
-<span class="keigo-jp"><code>ご不要なものがございましたら、いつでもスイートルームよりフロントへお申し付けください。</code></span><br>
-<em>Go-fuyou na mono ga gozaimashitara, itsudemo suiito-ruumu yori furonto e o-moushitsuke kudasai.</em><br>
+
+**ご不要なものがございましたら、いつでもスイートルームよりフロントへお申し付けください。**  
+*Go-fuyou na mono ga gozaimashitara, itsudemo suiito-ruumu yori furonto e o-moushitsuke kudasai.*  
 If there is anything you need, please let us know from the suite at any time.
-</div>
 
 ## Related Expressions
 

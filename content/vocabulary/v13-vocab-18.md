@@ -9,19 +9,17 @@ Unlike 報告 (which flows upward to supervisors), 連絡 is typically horizonta
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様の到着が早まりましたので、客室係に連絡をいたしました。</code></span><br>
-<em>Okyaku-sama no touchaku ga hayamarimashita node, kyakushitsu-gakari ni renraku wo itashimashita.</em><br>
+**お客様の到着が早まりましたので、客室係に連絡をいたしました。**  
+*Okyaku-sama no touchaku ga hayamarimashita node, kyakushitsu-gakari ni renraku wo itashimashita.*  
 The guest's arrival has moved earlier, so I contacted the room attendant.
-<br><br>
-<span class="keigo-jp"><code>急なキャンセルが入りましたので、レストランへの連絡をお願いいたします。</code></span><br>
-<em>Kyuu na kyanseru ga hairimashita node, resutoran e no renraku wo onegai itashimasu.</em><br>
+
+**急なキャンセルが入りましたので、レストランへの連絡をお願いいたします。**  
+*Kyuu na kyanseru ga hairimashita node, resutoran e no renraku wo onegai itashimasu.*  
 A sudden cancellation has come in, so please contact the restaurant.
-<br><br>
-<span class="keigo-jp"><code>何かご不明な点がございましたら、担当者まで遠慮なくご連絡ください。</code></span><br>
-<em>Nani ka go-fuumei na ten ga gozaimashitara, tantousha made enryo naku go-renraku kudasai.</em><br>
+
+**何かご不明な点がございましたら、担当者まで遠慮なくご連絡ください。**  
+*Nani ka go-fuumei na ten ga gozaimashitara, tantousha made enryo naku go-renraku kudasai.*  
 If you have any questions, please do not hesitate to contact the person in charge.
-</div>
 
 ## Related Expressions
 

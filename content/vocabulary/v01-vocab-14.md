@@ -12,19 +12,17 @@ The key thing to understand is that 恐れ入ります is always about humbling 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。</code></span><br>
-<em>Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.</em><br>
+**恐れ入りますが、お名前をもう一度お聞かせいただけますでしょうか。**  
+*Osore irimasu ga, o-namae wo mō ichido o-kikase itadakemasu deshō ka.*  
 I am terribly sorry to trouble you, but could I ask your name once more?
-<br><br>
-<span class="keigo-jp"><code>恐れ入ります。ただいまご確認いたします。</code></span><br>
-<em>Osore irimasu. Tadaima go-kakunin itashimasu.</em><br>
+
+**恐れ入ります。ただいまご確認いたします。**  
+*Osore irimasu. Tadaima go-kakunin itashimasu.*  
 Thank you: excuse me for a moment while I confirm.
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、少々お待ちいただけますでしょうか。</code></span><br>
-<em>Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.</em><br>
+
+**恐れ入りますが、少々お待ちいただけますでしょうか。**  
+*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*  
 I am terribly sorry to trouble you, but could you wait just a moment?
-</div>
 
 ## Related Expressions
 

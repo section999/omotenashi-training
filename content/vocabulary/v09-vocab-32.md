@@ -10,19 +10,17 @@ Hotels often handle 直前予約 differently from advance bookings. Special prom
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>直前予約は通常料金にてお受けいたします。お部屋の準備に少々お時間をいただきます。</code></span><br>
-<em>Chokuzen yoyaku wa tsuujou ryoukin nite o-uke itashimasu. O-heya no junbi ni shoushou o-jikan wo itadakimasu.</em><br>
+**直前予約は通常料金にてお受けいたします。お部屋の準備に少々お時間をいただきます。**  
+*Chokuzen yoyaku wa tsuujou ryoukin nite o-uke itashimasu. O-heya no junbi ni shoushou o-jikan wo itadakimasu.*  
 Last-minute reservations are accepted at the standard rate. Please allow us a short time to prepare the room.
-<br><br>
-<span class="keigo-jp"><code>ただいまご準備いたしますので、ご到着は何時頃をご予定でしょうか。</code></span><br>
-<em>Tadaima go-junbi itashimasu node, go-touchaku wa nanji goro wo go-yotei deshou ka.</em><br>
+
+**ただいまご準備いたしますので、ご到着は何時頃をご予定でしょうか。**  
+*Tadaima go-junbi itashimasu node, go-touchaku wa nanji goro wo go-yotei deshou ka.*  
 We will begin preparing right away: approximately what time do you expect to arrive?
-<br><br>
-<span class="keigo-jp"><code>直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。</code></span><br>
-<em>Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.</em><br>
+
+**直前予約のお客様につきましては、空き状況によってご希望のお部屋タイプをご提供できない場合もございます。**  
+*Chokuzen yoyaku no o-kyaku-sama ni tsukimashite wa, aki joukyou ni yotte go-kibou no o-heya taipu wo go-teikyou dekinai baai mo gozaimasu.*  
 For last-minute reservation guests, please be aware that we may not be able to offer your preferred room type depending on current availability.
-</div>
 
 ## Related Expressions
 

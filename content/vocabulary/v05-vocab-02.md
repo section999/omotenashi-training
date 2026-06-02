@@ -10,19 +10,17 @@ Staff should not wait for guests to ask about breakfast. The key details should 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>朝食は7時より1階レストランにてご用意しております。</code></span><br>
-<em>Choushoku wa shichi-ji yori ikkai resutoran nite go-youi shite orimasu.</em><br>
+**朝食は7時より1階レストランにてご用意しております。**  
+*Choushoku wa shichi-ji yori ikkai resutoran nite go-youi shite orimasu.*  
 Breakfast is prepared in the first-floor restaurant from 7:00 a.m.
-<br><br>
-<span class="keigo-jp"><code>ご朝食はお部屋代に含まれております。</code></span><br>
-<em>Go-choushoku wa o-heya-dai ni fukumarete orimasu.</em><br>
+
+**ご朝食はお部屋代に含まれております。**  
+*Go-choushoku wa o-heya-dai ni fukumarete orimasu.*  
 Breakfast is included in the room rate.
-<br><br>
-<span class="keigo-jp"><code>ご朝食のご希望のお時間をお教えいただけますでしょうか。</code></span><br>
-<em>Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.</em><br>
+
+**ご朝食のご希望のお時間をお教えいただけますでしょうか。**  
+*Go-choushoku no go-kibou no o-jikan wo oshiete itadakemasu deshou ka.*  
 Could you let us know your preferred breakfast time?
-</div>
 
 ## Related Expressions
 

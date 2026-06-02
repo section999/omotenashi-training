@@ -10,19 +10,17 @@ When informing a guest that housekeeping will visit their room, the phrase 「�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>清掃係がまいりますので、少々お待ちくださいませ。</code></span><br>
-<em>Seisou kakari ga mairimasu node, shoushou o-machi kudasaimase.</em><br>
+**清掃係がまいりますので、少々お待ちくださいませ。**  
+*Seisou kakari ga mairimasu node, shoushou o-machi kudasaimase.*  
 The cleaning staff will come shortly, so please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>ご要望のタオルは清掃係がお届けいたします。</code></span><br>
-<em>Go-youbou no taoru wa seisou kakari ga o-todoke itashimasu.</em><br>
+
+**ご要望のタオルは清掃係がお届けいたします。**  
+*Go-youbou no taoru wa seisou kakari ga o-todoke itashimasu.*  
 The towels you requested will be delivered by the cleaning staff.
-<br><br>
-<span class="keigo-jp"><code>清掃係に関するご要望は、フロントにお申し付けいただければ手配いたします。</code></span><br>
-<em>Seisou kakari ni kansuru go-youbou wa, furonto ni o-moushitsuke itadakereba tehai itashimasu.</em><br>
+
+**清掃係に関するご要望は、フロントにお申し付けいただければ手配いたします。**  
+*Seisou kakari ni kansuru go-youbou wa, furonto ni o-moushitsuke itadakereba tehai itashimasu.*  
 For any requests regarding cleaning staff, please let the front desk know and we will arrange it.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In daily operations, staff refer to モップ when discussing floor-cleaning sch
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ただいまモップで廊下を清掃いたしております。</code></span><br>
-<em>Tadaima moppu de rouka wo seisou itashite orimasu.</em><br>
+**ただいまモップで廊下を清掃いたしております。**  
+*Tadaima moppu de rouka wo seisou itashite orimasu.*  
 We are currently cleaning the corridor with a mop.
-<br><br>
-<span class="keigo-jp"><code>飲み物がこぼれましたので、モップで床を拭かせていただきます。</code></span><br>
-<em>Nomimono ga koboremashita node, moppu de yuka wo fukasete itadakimasu.</em><br>
+
+**飲み物がこぼれましたので、モップで床を拭かせていただきます。**  
+*Nomimono ga koboremashita node, moppu de yuka wo fukasete itadakimasu.*  
 A drink has been spilled, so we will mop the floor.
-<br><br>
-<span class="keigo-jp"><code>清掃用具入れにモップとバケツがございます。</code></span><br>
-<em>Seisou yougu ire ni moppu to baketsu ga gozaimasu.</em><br>
+
+**清掃用具入れにモップとバケツがございます。**  
+*Seisou yougu ire ni moppu to baketsu ga gozaimasu.*  
 There are a mop and bucket in the cleaning supply room.
-</div>
 
 ## Related Expressions
 

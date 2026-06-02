@@ -9,19 +9,17 @@ Multi-night guests and families especially tend to request extra タオル, so s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお部屋にご用意したタオルでございます。</code></span><br>
-<em>Kochira ga o-heya ni go-youi shita taoru de gozaimasu.</em><br>
+**こちらがお部屋にご用意したタオルでございます。**  
+*Kochira ga o-heya ni go-youi shita taoru de gozaimasu.*  
 This is the towel we have prepared for the room.
-<br><br>
-<span class="keigo-jp"><code>タオルが足りない場合は、フロントまでお申し付けください。すぐにお持ちいたします。</code></span><br>
-<em>Taoru ga tarinai baai wa, furonto made o-moushitsuke kudasai. Sugu ni o-mochi itashimasu.</em><br>
+
+**タオルが足りない場合は、フロントまでお申し付けください。すぐにお持ちいたします。**  
+*Taoru ga tarinai baai wa, furonto made o-moushitsuke kudasai. Sugu ni o-mochi itashimasu.*  
 If towels are not enough, please let the front desk know. We will bring them right away.
-<br><br>
-<span class="keigo-jp"><code>ご滞在中、タオルはお一人様につき二枚ご用意しております。</code></span><br>
-<em>Go-taizai-chuu, taoru wa o-hitorisama ni tsuki nimai go-youi shite orimasu.</em><br>
+
+**ご滞在中、タオルはお一人様につき二枚ご用意しております。**  
+*Go-taizai-chuu, taoru wa o-hitorisama ni tsuki nimai go-youi shite orimasu.*  
 During the stay, two towels are prepared per person.
-</div>
 
 ## Related Expressions
 
@@ -48,5 +46,5 @@ Treating タオル as a catch-all word for any towel leads to delivery errors. B
 
 **Correct Answer:** タオル (towel)
 
-**Explanation:** タオル is the correct item in this sentence because こちらがご用意した〜でございます is a presentation phrase used when handing something to a guest, and the context is about what was prepared for the room. シーツ, 毛布, and 枕 are all room items, but none of them is a towel, and placing them here would misname what is being presented.
+**Explanation:** タオル is the correct item in this sentence because こちらがご用意した○○でございます is a presentation phrase used when handing something to a guest, and the context is about what was prepared for the room. シーツ, 毛布, and 枕 are all room items, but none of them is a towel, and placing them here would misname what is being presented.
 

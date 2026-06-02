@@ -10,19 +10,17 @@ Staff use 会計 when presenting the bill, directing guests to the cashier, or c
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お会計はこちらで承ります。</code></span><br>
-<em>O-kaikei wa kochira de uketamawarimasu.</em><br>
+**お会計はこちらで承ります。**  
+*O-kaikei wa kochira de uketamawarimasu.*  
 We will take care of the bill here.
-<br><br>
-<span class="keigo-jp"><code>お会計をお持ちいたします。少々お待ちくださいませ。</code></span><br>
-<em>O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
+
+**お会計をお持ちいたします。少々お待ちくださいませ。**  
+*O-kaikei wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*  
 I will bring your bill. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>お会計はカードでもお支払いいただけます。</code></span><br>
-<em>O-kaikei wa kaado demo o-shiharai itadakemasu.</em><br>
+
+**お会計はカードでもお支払いいただけます。**  
+*O-kaikei wa kaado demo o-shiharai itadakemasu.*  
 You may also pay the bill by card.
-</div>
 
 ## Related Expressions
 
@@ -50,4 +48,4 @@ A frequent mistake is using the casual チェック (check), borrowed from Engli
 
 **Correct Answer:** 会計 (billing / accounting)
 
-**Explanation:** 会計 means the bill or the act of settling payment, making it the word that completes お〜はこちらで承ります correctly. 承ります is the humble form of receiving a request or payment, which sets exactly the right respectful tone at the point of checkout. The other options refer to ordering, the menu, or serving food, which belong to earlier stages of the dining experience.
+**Explanation:** 会計 means the bill or the act of settling payment, making it the word that completes お○○はこちらで承ります correctly. 承ります is the humble form of receiving a request or payment, which sets exactly the right respectful tone at the point of checkout. The other options refer to ordering, the menu, or serving food, which belong to earlier stages of the dining experience.

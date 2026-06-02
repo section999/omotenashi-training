@@ -12,22 +12,31 @@ Greeting → Date inquiry → Availability check → Option presentation → Gue
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約したいんですが。</code></span><br>
+<em>yoyaku shitai n desu ga.</em><br>
 I'd like to make a reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>お電話ありがとうございます。ご希望のお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
+<em>o-denwa arigatou gozaimasu. go-kibou no o hinichi o o ukagai shite mo yoroshii deshou ka.</em><br>
 Thank you for your call. May I ask for your preferred dates?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>6月10日から2泊です。</code></span><br>
+<em>6 tsuki 10 nichi kara 2 haku desu.</em><br>
 June 10th for two nights.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊でございますね。確認いたしますので少々お待ちくださいませ。</code></span><br>
+<em>6 tsuki 10 nichi kara 2 haku de gozaimasu ne. kakunin itashimasu node shoushou omachi kudasaimase.</em><br>
 June 10th for two nights, correct? I will check availability now, please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。ツインルームとデラックスルームに空きがございます。いかがなさいますか。</code></span><br>
+<em>taihen o-matase itashimashita. tsuin rumu to derakkusu rumu ni aki ga gozaimasu. ika ga nasaimasu ka.</em><br>
 Thank you for waiting. We have availability in twin rooms and deluxe rooms. Which would you prefer?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>ツインでお願いします。</code></span><br>
+<em>tsuin de onegai shimasu.</em><br>
 A twin room, please.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
 Certainly. May I ask for the name on the reservation?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>山田です。</code></span><br>
+<em>yamada desu.</em><br>
 Yamada.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。6月10日から2泊、ツインルームで承りました。ご連絡先のお電話番号をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>yamada sama de gozaimasu ne. 6 tsuki 10 nichi kara 2 haku, tsuin rumu de uketamawarimashita. go-renraku saki no o-denwa bangou o o ukagai shite mo yoroshii deshou ka.</em><br>
 Mr./Ms. Yamada. I have confirmed your reservation: twin room, June 10th for two nights. May I also take a contact phone number?
 </div>
 
@@ -54,18 +63,25 @@ Acknowledge request → Verify identity → Confirm current booking → Ask for 
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>予約の日程を変更したいのですが。</code></span><br>
+<em>yoyaku no nittei o henkou shitai no desu ga.</em><br>
 I'd like to change my reservation dates.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご予約のお名前をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>kashikomarimashita. go-yoyaku no o-namae o o ukagai shite mo yoroshii deshou ka.</em><br>
 Certainly. May I have the name on the reservation?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>山田様でございますね。現在のご予約内容を確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>yamada sama de gozaimasu ne. genzai no go-yoyaku naiyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 Mr./Ms. Yamada. I will check your current reservation. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>6月10日から2泊、ツインルームのご予約でございますね。ご希望の新しいお日にちをお伺いしてもよろしいでしょうか。</code></span><br>
+<em>6 tsuki 10 nichi kara 2 haku, tsuin rumu no go-yoyaku de gozaimasu ne. go-kibou no atarashii o hinichi o o ukagai shite mo yoroshii deshou ka.</em><br>
 Your current reservation is a twin room, June 10th for two nights. May I ask your new preferred dates?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>6月15日から2泊にしたいです。</code></span><br>
+<em>6 tsuki 15 nichi kara 2 haku ni shitai desu.</em><br>
 I'd like to change to June 15th for two nights.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>6月15日から2泊へのご変更でございますね。確認いたします。少々お待ちくださいませ。</code></span><br>
+<em>6 tsuki 15 nichi kara 2 haku e no go henkou de gozaimasu ne. kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 A change to June 15th for two nights, correct? I will check availability. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月15日から2泊、ツインルームにてご変更を承りました。</code></span><br>
+<em>taihen o-matase itashimashita. 6 tsuki 15 nichi kara 2 haku, tsuin rumu nite go henkou o uketamawarimashita.</em><br>
 Thank you for waiting. I have updated your reservation to June 15th for two nights in a twin room.
 </div>
 

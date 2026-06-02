@@ -9,19 +9,17 @@ Hotels typically assign clear ownership over which team monitors each department
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>留守番電話にメッセージを残しました。</code></span><br>
-<em>Rusuban denwa ni messeeji wo nokoshimashita.</em><br>
+**留守番電話にメッセージを残しました。**  
+*Rusuban denwa ni messeeji wo nokoshimashita.*  
 I left a message on the voicemail.
-<br><br>
-<span class="keigo-jp"><code>先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。</code></span><br>
-<em>Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.</em><br>
+
+**先ほど留守番電話にご伝言をいただきありがとうございます。折り返しご連絡いたします。**  
+*Sakihodo rusuban denwa ni go-dengon wo itadaki arigatou gozaimasu. Orikaeshi go-renraku itashimasu.*  
 Thank you for the message you left on voicemail earlier. We will call you back shortly.
-<br><br>
-<span class="keigo-jp"><code>ただいま担当者が不在のため、留守番電話に切り替わります。</code></span><br>
-<em>Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.</em><br>
+
+**ただいま担当者が不在のため、留守番電話に切り替わります。**  
+*Tadaima tantousha ga fuzai no tame, rusuban denwa ni kiriawarimasu.*  
 The person in charge is currently unavailable, so the call will switch to voicemail.
-</div>
 
 ## Related Expressions
 

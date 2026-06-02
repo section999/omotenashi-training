@@ -13,15 +13,13 @@ For hospitality professionals, いらっしゃいませ is more than a scripted 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いらっしゃいませ。本日はお越しいただきありがとうございます。</code></span><br>
-<em>Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.</em><br>
+**いらっしゃいませ。本日はお越しいただきありがとうございます。**  
+*Irasshaimase. Honjitsu wa okoshi itadaki arigatō gozaimasu.*  
 Welcome. Thank you so much for visiting us today.
-<br><br>
-<span class="keigo-jp"><code>いらっしゃいませ。お荷物をお持ちいたします。</code></span><br>
-<em>Irasshaimase. O-nimotsu wo o-mochi itashimasu.</em><br>
+
+**いらっしゃいませ。お荷物をお持ちいたします。**  
+*Irasshaimase. O-nimotsu wo o-mochi itashimasu.*  
 Welcome. Allow me to carry your luggage.
-</div>
 
 ## Related Expressions
 

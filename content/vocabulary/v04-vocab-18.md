@@ -9,19 +9,17 @@ In daily operations, staff encounter 破損 during room inspections (点検), ch
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>客室の椅子に破損がございましたため、至急ご報告いたします。</code></span><br>
-<em>Kyakushitsu no isu ni hason ga gozaimashita tame, shikkyuu go-houkoku itashimasu.</em><br>
+**客室の椅子に破損がございましたため、至急ご報告いたします。**  
+*Kyakushitsu no isu ni hason ga gozaimashita tame, shikkyuu go-houkoku itashimasu.*  
 There is damage to the chair in the guest room, so we are reporting it urgently.
-<br><br>
-<span class="keigo-jp"><code>破損した備品は速やかに交換のご手配をいたします。</code></span><br>
-<em>Hason shita bihin wa sumiyaka ni koukan no go-tehai wo itashimasu.</em><br>
+
+**破損した備品は速やかに交換のご手配をいたします。**  
+*Hason shita bihin wa sumiyaka ni koukan no go-tehai wo itashimasu.*  
 We will promptly arrange a replacement for the damaged item.
-<br><br>
-<span class="keigo-jp"><code>ご使用前に破損がないか確認をお願いいたします。</code></span><br>
-<em>Go-shiyou mae ni hason ga nai ka kakunin wo onegai itashimasu.</em><br>
+
+**ご使用前に破損がないか確認をお願いいたします。**  
+*Go-shiyou mae ni hason ga nai ka kakunin wo onegai itashimasu.*  
 Please check for any damage before use.
-</div>
 
 ## Related Expressions
 

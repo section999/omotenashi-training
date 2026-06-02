@@ -10,19 +10,17 @@ Minor injuries like small cuts can often be handled with the hotel's first aid k
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様が浴室で怪我をされました。すぐに応急処置を行います。</code></span><br>
-<em>Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.</em><br>
+**お客様が浴室で怪我をされました。すぐに応急処置を行います。**  
+*Okyakusama ga yokushitsu de kega wo saremashita. Sugu ni oukyuu shochi wo okonaimasu.*  
 A guest has been injured in the bathroom. We will administer first aid immediately.
-<br><br>
-<span class="keigo-jp"><code>怪我の状態を確認いたしましたので、救急車を手配しております。</code></span><br>
-<em>Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.</em><br>
+
+**怪我の状態を確認いたしましたので、救急車を手配しております。**  
+*Kega no joutai wo kakunin itashimashita node, kyuukyuusha wo tehai shite orimasu.*  
 We have assessed the injury and are arranging an ambulance.
-<br><br>
-<span class="keigo-jp"><code>怪我をされた場合は、どうかスタッフまでお申し付けください。</code></span><br>
-<em>Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.</em><br>
+
+**怪我をされた場合は、どうかスタッフまでお申し付けください。**  
+*Kega wo sareta baai wa, douka sutaffu made omoushitsuke kudasai.*  
 If one is injured, please do not hesitate to notify a staff member.
-</div>
 
 ## Related Expressions
 

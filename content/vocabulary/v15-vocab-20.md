@@ -9,19 +9,17 @@ How staff communicate 延長料金 matters as much as whether they charge it. An
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックアウト時刻を過ぎますと、延長料金が発生いたします。</code></span><br>
-<em>Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.</em><br>
+**チェックアウト時刻を過ぎますと、延長料金が発生いたします。**  
+*Chekku-auto jikoku wo sugimasu to, enchou ryoukin ga hassei itashimasu.*  
 An extension fee will apply if you exceed the checkout time.
-<br><br>
-<span class="keigo-jp"><code>コインロッカーの延長料金は1時間ごとに100円となっております。</code></span><br>
-<em>Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.</em><br>
+
+**コインロッカーの延長料金は1時間ごとに100円となっております。**  
+*Koin-rokkaa no enchou ryoukin wa ichi-jikan goto ni hyaku-en to natte orimasu.*  
 The coin locker extension fee is 100 yen per hour.
-<br><br>
-<span class="keigo-jp"><code>延長料金についてご不明な点がございましたら、フロントまでお申し付けください。</code></span><br>
-<em>Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.</em><br>
+
+**延長料金についてご不明な点がございましたら、フロントまでお申し付けください。**  
+*Enchou ryoukin ni tsuite go-fumei na ten ga gozaimashitara, furonto made o-moushitsuke kudasai.*  
 If you have any questions about the extension fee, please do not hesitate to contact the front desk.
-</div>
 
 ## Related Expressions
 

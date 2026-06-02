@@ -10,19 +10,17 @@ The trickier part of 分 is its pronunciation changes, and this is where common 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。</code></span><br>
-<em>Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.</em><br>
+**空港まで車で30分です。出発の2時間前にはお出かけいただくことをお勧めいたします。**  
+*Kuukou made kuruma de sanjuppun desu. Shuppatsu no nijikan mae ni wa odekake itadaku koto o osusume itashimasu.*  
 It is 30 minutes by car to the airport. We recommend departing at least 2 hours before your flight.
-<br><br>
-<span class="keigo-jp"><code>ただいまお席の準備中でございます。約5分でご案内できます。</code></span><br>
-<em>Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.</em><br>
+
+**ただいまお席の準備中でございます。約5分でご案内できます。**  
+*Tadaima oseki no junchuu de gozaimasu. Yaku gofun de goannai dekimasu.*  
 We are currently preparing your table. We can seat you in approximately 5 minutes.
-<br><br>
-<span class="keigo-jp"><code>エレベーターで3分、徒歩ですと約10分でお着きになれます。</code></span><br>
-<em>Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.</em><br>
+
+**エレベーターで3分、徒歩ですと約10分でお着きになれます。**  
+*Erebeetaa de sanpun, toho desu to yaku juppun de otsuki ni naremasu.*  
 It is 3 minutes by elevator or approximately 10 minutes on foot.
-</div>
 
 ## Related Expressions
 

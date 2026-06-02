@@ -10,19 +10,17 @@ The idea of 担当 goes deep into how Japanese hotels organise their teams. Staf
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のご担当をさせていただきます、コンシェルジュの田中と申します。</code></span><br>
-<em>Okyaku-sama no go-tantou wo sasete itadakimasu, konshieruju no Tanaka to moushimasu.</em><br>
+**お客様のご担当をさせていただきます、コンシェルジュの田中と申します。**  
+*Okyaku-sama no go-tantou wo sasete itadakimasu, konshieruju no Tanaka to moushimasu.*  
 My name is Tanaka from concierge, and I will be the one in charge of assisting you.
-<br><br>
-<span class="keigo-jp"><code>本件のご担当者様にお取り次ぎいたします。少々お待ちください。</code></span><br>
-<em>Honken no go-tantousha-sama ni o-toritsugii itashimasu. Shoushou o-machi kudasai.</em><br>
+
+**本件のご担当者様にお取り次ぎいたします。少々お待ちください。**  
+*Honken no go-tantousha-sama ni o-toritsugii itashimasu. Shoushou o-machi kudasai.*  
 I will connect you with the person in charge of this matter. Please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>彼女はVIPのお客様の担当として、滞在中ずっとサポートいたしました。</code></span><br>
-<em>Kanojo wa VIP no okyaku-sama no tantou to shite, taizai-chuu zutto sapooto itashimashita.</em><br>
+
+**彼女はVIPのお客様の担当として、滞在中ずっとサポートいたしました。**  
+*Kanojo wa VIP no okyaku-sama no tantou to shite, taizai-chuu zutto sapooto itashimashita.*  
 She served as the designated staff member for the VIP guest, supporting them throughout their stay.
-</div>
 
 ## Related Expressions
 

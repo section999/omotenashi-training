@@ -10,19 +10,17 @@ In practical terms, employees are expected to report task progress to their 上�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>上司に報告書を提出しました。</code></span><br>
-<em>Joushi ni houkokusho o teishutsu shimashita.</em><br>
+**上司に報告書を提出しました。**  
+*Joushi ni houkokusho o teishutsu shimashita.*  
 I submitted the report to my boss.
-<br><br>
-<span class="keigo-jp"><code>チェックアウトのトラブルについて上司に相談しました。</code></span><br>
-<em>Chekku-auto no toraburu ni tsuite joushi ni soudan shimashita.</em><br>
+
+**チェックアウトのトラブルについて上司に相談しました。**  
+*Chekku-auto no toraburu ni tsuite joushi ni soudan shimashita.*  
 I consulted my supervisor about the check-out issue.
-<br><br>
-<span class="keigo-jp"><code>上司の承認を得てから、お客様に返答いたします。</code></span><br>
-<em>Joushi no shounin o ete kara, okyakusama ni hentou itashimasu.</em><br>
+
+**上司の承認を得てから、お客様に返答いたします。**  
+*Joushi no shounin o ete kara, okyakusama ni hentou itashimasu.*  
 I will reply to the guest after obtaining my supervisor's approval.
-</div>
 
 ## Related Expressions
 

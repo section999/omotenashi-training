@@ -9,19 +9,17 @@ title: お問い合わせ (otoiawase)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お問い合わせありがとうございます。○○ホテルでございます。</code></span><br>
-<em>Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.</em><br>
+**お問い合わせありがとうございます。○○ホテルでございます。**  
+*Otoiawase arigatou gozaimasu. ○○ hoteru de gozaimasu.*  
 Thank you for your inquiry. This is ○○ Hotel.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、いつでもお問い合わせください。</code></span><br>
-<em>Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.</em><br>
+
+**ご不明な点がございましたら、いつでもお問い合わせください。**  
+*Go-fumei na ten ga gozaimashitara, itsudemo otoiawase kudasai.*  
 If you have any questions, please feel free to contact us at any time.
-<br><br>
-<span class="keigo-jp"><code>お問い合わせの内容を担当部署に確認いたします。</code></span><br>
-<em>Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.</em><br>
+
+**お問い合わせの内容を担当部署に確認いたします。**  
+*Otoiawase no naiyou wo tantou busho ni kakunin itashimasu.*  
 I will check the details of your inquiry with the relevant department.
-</div>
 
 ## Related Expressions
 

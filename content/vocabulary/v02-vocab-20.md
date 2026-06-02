@@ -9,19 +9,17 @@ In a hospitality context, staff encounter キャンセル requests over the phon
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約をキャンセルされますか。</code></span><br>
-<em>Go-yoyaku wo kyanseru saremasu ka.</em><br>
+**ご予約をキャンセルされますか。**  
+*Go-yoyaku wo kyanseru saremasu ka.*  
 Would you like to cancel your reservation?
-<br><br>
-<span class="keigo-jp"><code>キャンセル料につきましては、チェックイン日の三日前よりご請求となります。</code></span><br>
-<em>Kyanseru-ryō ni tsukimashite wa, chekku-in-bi no mik-ka mae yori go-seikyū to narimasu.</em><br>
+
+**キャンセル料につきましては、チェックイン日の三日前よりご請求となります。**  
+*Kyanseru-ryō ni tsukimashite wa, chekku-in-bi no mik-ka mae yori go-seikyū to narimasu.*  
 Cancellation fees will apply from three days before your check-in date.
-<br><br>
-<span class="keigo-jp"><code>キャンセルのお手続きが完了いたしました。</code></span><br>
-<em>Kyanseru no o-tetsuzuki ga kanryō itashimashita.</em><br>
+
+**キャンセルのお手続きが完了いたしました。**  
+*Kyanseru no o-tetsuzuki ga kanryō itashimashita.*  
 Your cancellation has been completed.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ In modern hotel and restaurant settings, 奥 is used practically to direct guest
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>レストランのお手洗いは奥にございます。</code></span><br>
-<em>Resutoran no o-tearai wa oku ni gozaimasu.</em><br>
+**レストランのお手洗いは奥にございます。**  
+*Resutoran no o-tearai wa oku ni gozaimasu.*  
 The restroom is at the back of the restaurant.
-<br><br>
-<span class="keigo-jp"><code>お席は奥の窓際にご用意しております。</code></span><br>
-<em>O-seki wa oku no madogiwa ni go-youi shite orimasu.</em><br>
+
+**お席は奥の窓際にご用意しております。**  
+*O-seki wa oku no madogiwa ni go-youi shite orimasu.*  
 Your table is prepared at the back by the window.
-<br><br>
-<span class="keigo-jp"><code>ロッカールームは廊下の奥、突き当たりを右にございます。</code></span><br>
-<em>Rokkaa ruumu wa rouka no oku, tsukiatari wo migi ni gozaimasu.</em><br>
+
+**ロッカールームは廊下の奥、突き当たりを右にございます。**  
+*Rokkaa ruumu wa rouka no oku, tsukiatari wo migi ni gozaimasu.*  
 The locker room is at the back of the corridor: turn right at the end.
-</div>
 
 ## Related Expressions
 

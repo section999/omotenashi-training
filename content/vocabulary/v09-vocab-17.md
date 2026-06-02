@@ -9,19 +9,17 @@ Confirming that no meals are included is the starting point. The omotenashi appr
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様のご予約は素泊まりプランでございます。お食事のご用意はございませんが、近くにレストランがいくつかございます。</code></span><br>
-<em>O-kyaku-sama no go-yoyaku wa sudomari puran de gozaimasu. O-shokuji no go-youi wa gozaimasen ga, chikaku ni resutoran ga ikutsuka gozaimasu.</em><br>
+**お客様のご予約は素泊まりプランでございます。お食事のご用意はございませんが、近くにレストランがいくつかございます。**  
+*O-kyaku-sama no go-yoyaku wa sudomari puran de gozaimasu. O-shokuji no go-youi wa gozaimasen ga, chikaku ni resutoran ga ikutsuka gozaimasu.*  
 Your reservation is under the room-only plan. Meals are not included, but there are several restaurants nearby.
-<br><br>
-<span class="keigo-jp"><code>素泊まりのお客様には、朝食を別途ご注文いただけます。</code></span><br>
-<em>Sudomari no o-kyaku-sama ni wa, choushoku wo betto go-chuumon itadakemasu.</em><br>
+
+**素泊まりのお客様には、朝食を別途ご注文いただけます。**  
+*Sudomari no o-kyaku-sama ni wa, choushoku wo betto go-chuumon itadakemasu.*  
 Guests on the room-only plan may order breakfast separately.
-<br><br>
-<span class="keigo-jp"><code>素泊まりプランの場合、チェックアウトは11時までとなっております。</code></span><br>
-<em>Sudomari puran no baai, chekku-auto wa juuichi-ji made to natte orimasu.</em><br>
+
+**素泊まりプランの場合、チェックアウトは11時までとなっております。**  
+*Sudomari puran no baai, chekku-auto wa juuichi-ji made to natte orimasu.*  
 For the room-only plan, check-out is by 11:00 a.m.
-</div>
 
 ## Related Expressions
 

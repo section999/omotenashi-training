@@ -13,19 +13,17 @@ This phrase is often part of a farewell sequence: *honjitsu wa go-riyō arigatō
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご利用ありがとうございました。またお越しくださいませ。</code></span><br>
-<em>Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.</em><br>
+**ご利用ありがとうございました。またお越しくださいませ。**  
+*Go-riyō arigatō gozaimashita. Mata o-koshi kudasaimase.*  
 Thank you for staying with us. Please come again.
-<br><br>
-<span class="keigo-jp"><code>本日はご来館いただきありがとうございました。またお越しくださいませ。</code></span><br>
-<em>Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.</em><br>
+
+**本日はご来館いただきありがとうございました。またお越しくださいませ。**  
+*Honjitsu wa go-raikan itadaki arigatō gozaimashita. Mata o-koshi kudasaimase.*  
 Thank you for visiting us today. Please come again.
-<br><br>
-<span class="keigo-jp"><code>またのお越しを、スタッフ一同心よりお待ち申し上げております。</code></span><br>
-<em>Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.</em><br>
+
+**またのお越しを、スタッフ一同心よりお待ち申し上げております。**  
+*Mata no o-koshi wo, sutaffu ichidō kokoro yori o-machi mōshiagemasu.*  
 All of our staff look forward with all their hearts to your next visit.
-</div>
 
 ## Related Expressions
 

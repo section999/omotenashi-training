@@ -10,19 +10,17 @@ This is how it works. When a guest drops off luggage for storage, staff record t
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。</code></span><br>
-<em>Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.</em><br>
+**こちらがお荷物の管理番号でございます。お受け取りの際にご提示ください。**  
+*Kochira ga o-nimotsu no kanri bangou de gozaimasu. O-uketori no sai ni go-teiji kudasai.*  
 This is the tracking number for your luggage. Please present it when one comes to collect it.
-<br><br>
-<span class="keigo-jp"><code>管理番号でお調べいたしますので、少々お待ちください。</code></span><br>
-<em>Kanri bangou de o-shirabe itashimasu node, shoushou o-machi kudasai.</em><br>
+
+**管理番号でお調べいたしますので、少々お待ちください。**  
+*Kanri bangou de o-shirabe itashimasu node, shoushou o-machi kudasai.*  
 We will look it up using the tracking number, so please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>宅配便の管理番号をお控えいただくと、配達状況をご確認いただけます。</code></span><br>
-<em>Takkyuubin no kanri bangou wo o-hikae itadaku to, haitatsu joukyou wo go-kakunin itadakemasu.</em><br>
+
+**宅配便の管理番号をお控えいただくと、配達状況をご確認いただけます。**  
+*Takkyuubin no kanri bangou wo o-hikae itadaku to, haitatsu joukyou wo go-kakunin itadakemasu.*  
 If you keep a note of the courier tracking number, you will be able to check the delivery status.
-</div>
 
 ## Related Expressions
 

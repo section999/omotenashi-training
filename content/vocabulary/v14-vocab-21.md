@@ -9,19 +9,17 @@ Hotel staff need to direct guests to the correct 乗り場 on a daily basis, esp
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バスの乗り場は駅の正面にあります。</code></span><br>
-<em>Basu no noriba wa eki no shoumen ni arimasu.</em><br>
+**バスの乗り場は駅の正面にあります。**  
+*Basu no noriba wa eki no shoumen ni arimasu.*  
 The bus boarding area is in front of the station.
-<br><br>
-<span class="keigo-jp"><code>タクシー乗り場はホテルの玄関を出て右手にございます。</code></span><br>
-<em>Takushii noriba wa hoteru no genkan wo dete migite ni gozaimasu.</em><br>
+
+**タクシー乗り場はホテルの玄関を出て右手にございます。**  
+*Takushii noriba wa hoteru no genkan wo dete migite ni gozaimasu.*  
 The taxi stand is to the right as one exit the hotel entrance.
-<br><br>
-<span class="keigo-jp"><code>リムジンバスの乗り場は第一ターミナルの一階、三番乗り場でございます。</code></span><br>
-<em>Rimujin basu no noriba wa daiichi taaaminaru no ikkai, sanban noriba de gozaimasu.</em><br>
+
+**リムジンバスの乗り場は第一ターミナルの一階、三番乗り場でございます。**  
+*Rimujin basu no noriba wa daiichi taaaminaru no ikkai, sanban noriba de gozaimasu.*  
 The limousine bus boarding area is on the first floor of Terminal 1, boarding bay number three.
-</div>
 
 ## Related Expressions
 

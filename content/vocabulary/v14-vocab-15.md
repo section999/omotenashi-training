@@ -9,19 +9,17 @@ Concierge staff need to be fluent in describing different ツアー types. The k
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>京都の観光ツアーに参加しました。</code></span><br>
-<em>Kyouto no kankoukyaku tsuaa ni sanka shimashita.</em><br>
+**京都の観光ツアーに参加しました。**  
+*Kyouto no kankoukyaku tsuaa ni sanka shimashita.*  
 I joined a sightseeing tour in Kyoto.
-<br><br>
-<span class="keigo-jp"><code>日帰りツアーでは奈良の鹿園もご覧いただけます。</code></span><br>
-<em>Higaeri tsuaa de wa Nara no shikien mo goran itadakemasu.</em><br>
+
+**日帰りツアーでは奈良の鹿園もご覧いただけます。**  
+*Higaeri tsuaa de wa Nara no shikien mo goran itadakemasu.*  
 On the day-trip tour, one can also see the deer park in Nara.
-<br><br>
-<span class="keigo-jp"><code>プライベートツアーをご希望でしたら、フロントにてお手配いたします。</code></span><br>
-<em>Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.</em><br>
+
+**プライベートツアーをご希望でしたら、フロントにてお手配いたします。**  
+*Puraibeetoo tsuaa wo gokibou deshitara, furonto nite otehaisuru itashimasu.*  
 If you would like a private tour, we can arrange it at the front desk.
-</div>
 
 ## Related Expressions
 

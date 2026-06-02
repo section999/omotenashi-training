@@ -10,19 +10,17 @@ Understanding 表示 as a concept is important because it shapes how staff teach
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お手洗いは廊下の表示に従ってお進みください。</code></span><br>
-<em>O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.</em><br>
+**お手洗いは廊下の表示に従ってお進みください。**  
+*O-tearai wa rouka no hyouji ni shitagatte o-susumi kudasai.*  
 Please follow the signs along the corridor to the restroom.
-<br><br>
-<span class="keigo-jp"><code>非常口は赤い表示で示されておりますので、ご確認ください。</code></span><br>
-<em>Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.</em><br>
+
+**非常口は赤い表示で示されておりますので、ご確認ください。**  
+*Hijouguchi wa akai hyouji de shimesarete orimasu no de, go-kakunin kudasai.*  
 The emergency exits are indicated by red signs, so please take note of them.
-<br><br>
-<span class="keigo-jp"><code>エレベーターの表示が示す通り、レストランは3階にございます。</code></span><br>
-<em>Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.</em><br>
+
+**エレベーターの表示が示す通り、レストランは3階にございます。**  
+*Erebeetaa no hyouji ga shimesu toori, resutoran wa san-kai ni gozaimasu.*  
 As indicated by the elevator display, the restaurant is on the third floor.
-</div>
 
 ## Related Expressions
 

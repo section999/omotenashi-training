@@ -9,19 +9,17 @@ title: 理解しました (rikai shimashita)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご要望の内容を理解しました。直ちに手配いたします。</code></span><br>
-<em>Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.</em><br>
+**ご要望の内容を理解しました。直ちに手配いたします。**  
+*Go-youbou no naiyou wo rikai shimashita. Tadachi ni tehai itashimasu.*  
 I have understood the content of your request. I will arrange it immediately.
-<br><br>
-<span class="keigo-jp"><code>ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。</code></span><br>
-<em>Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.</em><br>
+
+**ご説明いただいた内容は理解しました。確認後、折り返しご連絡いたします。**  
+*Go-setsumei itadaita naiyou wa rikai shimashita. Kakunin go, orikaeshi go-renraku itashimasu.*  
 I have understood the details you explained. I will confirm and call you back.
-<br><br>
-<span class="keigo-jp"><code>状況を理解しましたので、担当部署と調整いたします。</code></span><br>
-<em>Joukyou wo rikai shimashita node, tantou busho to chousei itashimasu.</em><br>
+
+**状況を理解しましたので、担当部署と調整いたします。**  
+*Joukyou wo rikai shimashita node, tantou busho to chousei itashimasu.*  
 I have understood the situation, and I will coordinate with the relevant department.
-</div>
 
 ## Related Expressions
 

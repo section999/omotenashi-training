@@ -9,19 +9,17 @@ Staff should memorize the 避難場所 for their assigned floor or section and r
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災の際は、速やかに最寄りの避難場所へお移りください。</code></span><br>
-<em>Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.</em><br>
+**火災の際は、速やかに最寄りの避難場所へお移りください。**  
+*Kasai no sai wa, sumiyaka ni moyori no hinan basho e oatsuri kudasai.*  
 In case of fire, please move immediately to the nearest evacuation area.
-<br><br>
-<span class="keigo-jp"><code>避難場所はホテル正面玄関前の広場となっております。</code></span><br>
-<em>Hinan basho wa hoteru shoumen genkan mae no hiroba to natte orimasu.</em><br>
+
+**避難場所はホテル正面玄関前の広場となっております。**  
+*Hinan basho wa hoteru shoumen genkan mae no hiroba to natte orimasu.*  
 The evacuation area is the open plaza in front of the hotel's main entrance.
-<br><br>
-<span class="keigo-jp"><code>緊急時はスタッフの誘導に従い、避難場所までお進みください。</code></span><br>
-<em>Kinkyuu ji wa sutaffu no yuudou ni shitagatte, hinan basho made osusumi kudasai.</em><br>
+
+**緊急時はスタッフの誘導に従い、避難場所までお進みください。**  
+*Kinkyuu ji wa sutaffu no yuudou ni shitagatte, hinan basho made osusumi kudasai.*  
 During an emergency, please proceed to the evacuation area by following staff guidance.
-</div>
 
 ## Related Expressions
 

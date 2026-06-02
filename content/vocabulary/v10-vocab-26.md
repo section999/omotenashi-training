@@ -10,19 +10,17 @@ A clean approach is to post the current 為替レート visibly near the front d
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日の為替レートは〇〇円でございます。</code></span><br>
-<em>Honjitsu no kawase reeto wa 〇〇-en de gozaimasu.</em><br>
+**本日の為替レートは〇〇円でございます。**  
+*Honjitsu no kawase reeto wa 〇〇-en de gozaimasu.*  
 Today's exchange rate is 〇〇 yen.
-<br><br>
-<span class="keigo-jp"><code>為替レートは毎日更新されております。</code></span><br>
-<em>Kawase reeto wa mainichi koushin sarete orimasu.</em><br>
+
+**為替レートは毎日更新されております。**  
+*Kawase reeto wa mainichi koushin sarete orimasu.*  
 The exchange rate is updated every day.
-<br><br>
-<span class="keigo-jp"><code>為替レートの変動により、お支払い金額が異なる場合がございます。</code></span><br>
-<em>Kawase reeto no hendou ni yori, oshiharai kingaku ga kotonaru baai ga gozaimasu.</em><br>
+
+**為替レートの変動により、お支払い金額が異なる場合がございます。**  
+*Kawase reeto no hendou ni yori, oshiharai kingaku ga kotonaru baai ga gozaimasu.*  
 Due to fluctuations in the exchange rate, the payment amount may vary.
-</div>
 
 ## Related Expressions
 

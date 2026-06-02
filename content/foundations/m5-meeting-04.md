@@ -31,8 +31,10 @@ Every handover entry uses the same structure. This makes scanning fast even unde
 <div class="keigo-card blue">
 <strong>[Location/Guest] + [Issue/Request] + [Status]</strong><br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
+<em>305 gou shitsu : kuchou furyou. shuri tehai zumi ( ashita taiou yotei ).</em><br>
 Room 305: AC issue. Repair arranged (planned for tomorrow).<br><br>
 <span class="keigo-badge info">Example</span> <span class="keigo-jp"><code>501号室：延泊希望あり。フロント確認待ち。</code></span><br>
+<em>501 gou shitsu : nobe haku kibou ari. furonto kakunin machi.</em><br>
 Room 501: Extension request. Awaiting front desk confirmation.<br><br>
 Three questions this format answers: What happened? To whom? What was done?
 </div>
@@ -43,10 +45,15 @@ Certain words belong to casual spoken Japanese and have no place in handover not
 
 <div class="keigo-card blue">
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>ちょっと</code></span>: softening word; vague<br>
+<em>chotto</em><br>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>たぶん</code></span>: "probably"; uncertain<br>
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>〜と思います</code></span>: "I think"; expresses opinion, not fact<br>
+<em>tabun</em><br>
+<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>○○と思います</code></span>: "I think"; expresses opinion, not fact<br>
+<em>○○ to omoimasu</em><br>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>なんか</code></span>: filler word; unprofessional<br>
+<em>nanka</em><br>
 <span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>感じです</code></span>: "it feels like"; vague assessment<br><br>
+<em>kanji desu</em><br>
 If you are not certain about a fact, either verify it before writing or mark it clearly as unconfirmed, not tentative.
 </div>
 
@@ -106,4 +113,4 @@ Before submitting the handover, read it from the perspective of someone who was 
 
 **Correct Answer:** B
 
-**Explanation:** たぶん means "probably" and introduces uncertainty into an operational record. The incoming staff cannot determine whether the repair has been arranged or is merely expected. Handover notes must state only confirmed facts: 修理手配済み (repair arranged) if confirmed, or 修理手配中 (repair being arranged) if still in progress. Vague words like たぶん, ちょっと, and 〜と思います are not permitted in professional handover writing.
+**Explanation:** たぶん means "probably" and introduces uncertainty into an operational record. The incoming staff cannot determine whether the repair has been arranged or is merely expected. Handover notes must state only confirmed facts: 修理手配済み (repair arranged) if confirmed, or 修理手配中 (repair being arranged) if still in progress. Vague words like たぶん, ちょっと, and ○○と思います are not permitted in professional handover writing.

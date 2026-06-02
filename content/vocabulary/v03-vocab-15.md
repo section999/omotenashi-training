@@ -10,19 +10,17 @@ Staff typically explain the shower during the room orientation given at check-in
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋のシャワーは温度調節が可能でございます。</code></span><br>
-<em>Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.</em><br>
+**お部屋のシャワーは温度調節が可能でございます。**  
+*Oheya no shawaa wa ondo chousetsu ga kanou de gozaimasu.*  
 The shower in the room allows you to adjust the temperature.
-<br><br>
-<span class="keigo-jp"><code>シャワーの使い方についてご説明してもよろしいでしょうか。</code></span><br>
-<em>Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.</em><br>
+
+**シャワーの使い方についてご説明してもよろしいでしょうか。**  
+*Shawaa no tsukaikata ni tsuite go-setsumei shite mo yoroshii deshou ka.*  
 May I explain how to use the shower?
-<br><br>
-<span class="keigo-jp"><code>シャワーヘッドは取り外しができますので、ご自由にお使いください。</code></span><br>
-<em>Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.</em><br>
+
+**シャワーヘッドは取り外しができますので、ご自由にお使いください。**  
+*Shawaa heddo wa torihazushi ga dekimasu node, go-jiyuu ni o-tsukai kudasai.*  
 The showerhead can be detached, so please use it freely.
-</div>
 
 ## Related Expressions
 

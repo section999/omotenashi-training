@@ -9,19 +9,17 @@ For shorter stays or charges, 一括払い is usually appropriate. When a bill i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご一括払いでよろしいでしょうか、それとも分割払いをご希望でしょうか。</code></span><br>
-<em>Go-ikkatsu barai de yoroshii deshou ka, soretomo bunkatsu barai wo go-kibou deshou ka.</em><br>
+**ご一括払いでよろしいでしょうか、それとも分割払いをご希望でしょうか。**  
+*Go-ikkatsu barai de yoroshii deshou ka, soretomo bunkatsu barai wo go-kibou deshou ka.*  
 Would you like to pay in full, or would you prefer installments?
-<br><br>
-<span class="keigo-jp"><code>宿泊料金は一括払いにてお承りいたします。</code></span><br>
-<em>Shukuhaku ryoukin wa ikkatsu barai nite o-uketamawari itashimasu.</em><br>
+
+**宿泊料金は一括払いにてお承りいたします。**  
+*Shukuhaku ryoukin wa ikkatsu barai nite o-uketamawari itashimasu.*  
 We will process the accommodation fee as a single lump-sum payment.
-<br><br>
-<span class="keigo-jp"><code>クレジットカードでの一括払いの場合、手数料はかかりません。</code></span><br>
-<em>Kurejitto kaado de no ikkatsu barai no baai, tesuuryou wa kakarimasen.</em><br>
+
+**クレジットカードでの一括払いの場合、手数料はかかりません。**  
+*Kurejitto kaado de no ikkatsu barai no baai, tesuuryou wa kakarimasen.*  
 There is no processing fee when paying by credit card in a single payment.
-</div>
 
 ## Related Expressions
 

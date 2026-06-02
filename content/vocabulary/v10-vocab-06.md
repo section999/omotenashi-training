@@ -10,19 +10,17 @@ Staff should prepare the statement before the guest arrives at the front desk so
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックアウトの際に、フロントにて精算をお願いいたします。</code></span><br>
-<em>Chekkuauto no sai ni, furonto nite seisan wo o-negai itashimasu.</em><br>
+**チェックアウトの際に、フロントにて精算をお願いいたします。**  
+*Chekkuauto no sai ni, furonto nite seisan wo o-negai itashimasu.*  
 Please settle your account at the front desk upon checkout.
-<br><br>
-<span class="keigo-jp"><code>ただいま精算書をご用意しておりますので、少々お待ちください。</code></span><br>
-<em>Tadaima seisansho wo go-youi shite orimasu no de, shoushou o-machi kudasai.</em><br>
+
+**ただいま精算書をご用意しておりますので、少々お待ちください。**  
+*Tadaima seisansho wo go-youi shite orimasu no de, shoushou o-machi kudasai.*  
 We are preparing your settlement statement now: please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>精算の前に内訳をご確認いただけますでしょうか。</code></span><br>
-<em>Seisan no mae ni uchiwake wo go-kakunin itadakemasu deshou ka.</em><br>
+
+**精算の前に内訳をご確認いただけますでしょうか。**  
+*Seisan no mae ni uchiwake wo go-kakunin itadakemasu deshou ka.*  
 Would you like to review the itemized charges before we finalize the bill?
-</div>
 
 ## Related Expressions
 

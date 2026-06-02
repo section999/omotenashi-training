@@ -9,19 +9,17 @@ title: あちら側 (achira gawa)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お手洗いはあちら側にございます。どうぞ、ご案内いたします。</code></span><br>
-<em>O-tearai wa achira gawa ni gozaimasu. Douzo, go-annai itashimasu.</em><br>
+**お手洗いはあちら側にございます。どうぞ、ご案内いたします。**  
+*O-tearai wa achira gawa ni gozaimasu. Douzo, go-annai itashimasu.*  
 The restroom is on that side over there. Please allow me to guide you.
-<br><br>
-<span class="keigo-jp"><code>レストランはロビーのあちら側、エレベーターの奥にございます。</code></span><br>
-<em>Resutoran wa robii no achira gawa, erebeetaa no oku ni gozaimasu.</em><br>
+
+**レストランはロビーのあちら側、エレベーターの奥にございます。**  
+*Resutoran wa robii no achira gawa, erebeetaa no oku ni gozaimasu.*  
 The restaurant is on that far side of the lobby, beyond the elevators.
-<br><br>
-<span class="keigo-jp"><code>宴会場はこの廊下をまっすぐ進んでいただき、あちら側の扉からお入りください。</code></span><br>
-<em>Enkaijou wa kono rouka wo massugu susunde itadaki, achira gawa no tobira kara o-hairi kudasai.</em><br>
+
+**宴会場はこの廊下をまっすぐ進んでいただき、あちら側の扉からお入りください。**  
+*Enkaijou wa kono rouka wo massugu susunde itadaki, achira gawa no tobira kara o-hairi kudasai.*  
 For the banquet hall, please proceed straight along this corridor and enter through the door on that far side.
-</div>
 
 ## Related Expressions
 

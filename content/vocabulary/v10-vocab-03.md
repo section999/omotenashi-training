@@ -9,19 +9,17 @@ The 分割払い option appears on the card terminal during payment, and staff g
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>高額のご利用の場合、分割払いもご利用いただけます。</code></span><br>
-<em>Kougaku no go-riyou no baai, bunkatsu barai mo go-riyou itadakemasu.</em><br>
+**高額のご利用の場合、分割払いもご利用いただけます。**  
+*Kougaku no go-riyou no baai, bunkatsu barai mo go-riyou itadakemasu.*  
 For larger amounts, installment payment is also available.
-<br><br>
-<span class="keigo-jp"><code>何回払いをご希望でしょうか。</code></span><br>
-<em>Nankai barai wo go-kibou deshou ka.</em><br>
+
+**何回払いをご希望でしょうか。**  
+*Nankai barai wo go-kibou deshou ka.*  
 How many installments would you prefer?
-<br><br>
-<span class="keigo-jp"><code>分割払いをお選びの場合、カード会社によって手数料が発生することがございます。</code></span><br>
-<em>Bunkatsu barai wo o-erabi no baai, kaado gaisha ni yotte tesuuryou ga hassei suru koto ga gozaimasu.</em><br>
+
+**分割払いをお選びの場合、カード会社によって手数料が発生することがございます。**  
+*Bunkatsu barai wo o-erabi no baai, kaado gaisha ni yotte tesuuryou ga hassei suru koto ga gozaimasu.*  
 Please be aware that your card issuer may charge a fee if one choose installment payment.
-</div>
 
 ## Related Expressions
 

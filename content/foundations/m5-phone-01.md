@@ -49,6 +49,7 @@ Uses でございます, establishes formal service register
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
+<em>o-denwa arigatou gozaimasu. hoteru ○ ○ de gozaimasu.</em><br>
 Thank you for your call. This is Hotel ○○.
 </div>
 

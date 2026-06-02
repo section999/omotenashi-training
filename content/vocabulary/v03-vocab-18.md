@@ -9,19 +9,17 @@ During check-in or room orientation, staff might say 「洗面所はお部屋の
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>洗面所はお部屋の奥にございます。</code></span><br>
-<em>Senmenjo wa oheya no oku ni gozaimasu.</em><br>
+**洗面所はお部屋の奥にございます。**  
+*Senmenjo wa oheya no oku ni gozaimasu.*  
 The washroom is located at the back of the room.
-<br><br>
-<span class="keigo-jp"><code>洗面所には歯ブラシ、髭剃り、タオルをご用意しております。</code></span><br>
-<em>Senmenjo ni wa haburashi, higesori, taoru wo go-youi shite orimasu.</em><br>
+
+**洗面所には歯ブラシ、髭剃り、タオルをご用意しております。**  
+*Senmenjo ni wa haburashi, higesori, taoru wo go-youi shite orimasu.*  
 The washroom is stocked with a toothbrush, razor, and towels.
-<br><br>
-<span class="keigo-jp"><code>洗面所のアメニティが不足している場合は、フロントにお申し付けください。</code></span><br>
-<em>Senmenjo no ameniti ga fusoku shite iru baai wa, furonto ni o-moushitsuke kudasai.</em><br>
+
+**洗面所のアメニティが不足している場合は、フロントにお申し付けください。**  
+*Senmenjo no ameniti ga fusoku shite iru baai wa, furonto ni o-moushitsuke kudasai.*  
 If washroom amenities are insufficient, please let the front desk know.
-</div>
 
 ## Related Expressions
 

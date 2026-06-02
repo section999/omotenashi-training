@@ -10,19 +10,17 @@ The professional practice is to verify before asserting. A staff member who tell
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々お待ちください。ただいま空き状況を確認いたします。</code></span><br>
-<em>Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.</em><br>
+**少々お待ちください。ただいま空き状況を確認いたします。**  
+*Shoushou o-machi kudasai. Tadaima aki joukyou wo kakunin itashimasu.*  
 Please wait a moment. I will check availability now.
-<br><br>
-<span class="keigo-jp"><code>4月10日の空き状況を確認しましたところ、スタンダードルームが2室ございます。</code></span><br>
-<em>Shigatsu tooka no aki joukyou wo kakunin shimashita tokoro, sutandaado ruumu ga ni-shitsu gozaimasu.</em><br>
+
+**4月10日の空き状況を確認しましたところ、スタンダードルームが2室ございます。**  
+*Shigatsu tooka no aki joukyou wo kakunin shimashita tokoro, sutandaado ruumu ga ni-shitsu gozaimasu.*  
 Upon checking availability for April 10th, we have two standard rooms available.
-<br><br>
-<span class="keigo-jp"><code>空き状況はリアルタイムで変動いたしますので、早めのご予約をお勧めいたします。</code></span><br>
-<em>Aki joukyou wa riaru-taimu de hendou itashimasu node, hayame no go-yoyaku wo o-susume itashimasu.</em><br>
+
+**空き状況はリアルタイムで変動いたしますので、早めのご予約をお勧めいたします。**  
+*Aki joukyou wa riaru-taimu de hendou itashimasu node, hayame no go-yoyaku wo o-susume itashimasu.*  
 As availability changes in real time, we recommend booking as early as possible.
-</div>
 
 ## Related Expressions
 

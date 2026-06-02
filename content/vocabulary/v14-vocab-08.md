@@ -9,19 +9,17 @@ Many large international hotels offer currency exchange at the front desk, which
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>空港内の両替所は到着ロビーの左側にございます。</code></span><br>
-<em>Kuukou nai no ryougaejo wa touchaku robii no hidarigawa ni gozaimasu.</em><br>
+**空港内の両替所は到着ロビーの左側にございます。**  
+*Kuukou nai no ryougaejo wa touchaku robii no hidarigawa ni gozaimasu.*  
 The currency exchange office inside the airport is on the left side of the arrivals lobby.
-<br><br>
-<span class="keigo-jp"><code>当ホテルのフロントでも両替が可能ですが、近くの銀行の方がレートがよい場合がございます。</code></span><br>
-<em>Tou hoteru no furonto de mo ryougae ga kanou desu ga, chikaku no ginkou no hou ga reeto ga yoi baai ga gozaimasu.</em><br>
+
+**当ホテルのフロントでも両替が可能ですが、近くの銀行の方がレートがよい場合がございます。**  
+*Tou hoteru no furonto de mo ryougae ga kanou desu ga, chikaku no ginkou no hou ga reeto ga yoi baai ga gozaimasu.*  
 Currency exchange is also available at our hotel front desk, but the bank nearby may offer a better rate.
-<br><br>
-<span class="keigo-jp"><code>両替所での手数料はご利用の前にご確認されることをお勧めいたします。</code></span><br>
-<em>Ryougaejo de no tesuuryou wa goriyou no mae ni gokakunin sareru koto wo osusume itashimasu.</em><br>
+
+**両替所での手数料はご利用の前にご確認されることをお勧めいたします。**  
+*Ryougaejo de no tesuuryou wa goriyou no mae ni gokakunin sareru koto wo osusume itashimasu.*  
 We recommend confirming the fee at the exchange office before using the service.
-</div>
 
 ## Related Expressions
 

@@ -13,19 +13,17 @@ In written contexts such as emails, printed confirmations, and room service menu
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのご予約内容をご確認ください。</code></span><br>
-<em>Kochira no go-yoyaku naiyō wo go-kakunin kudasai.</em><br>
+**こちらのご予約内容をご確認ください。**  
+*Kochira no go-yoyaku naiyō wo go-kakunin kudasai.*  
 Please confirm the details of your reservation.
-<br><br>
-<span class="keigo-jp"><code>お名前のスペルをご確認いただけますでしょうか。</code></span><br>
-<em>O-namae no superu wo go-kakunin itadakemasu deshō ka.</em><br>
+
+**お名前のスペルをご確認いただけますでしょうか。**  
+*O-namae no superu wo go-kakunin itadakemasu deshō ka.*  
 Could I ask you to confirm the spelling of your name?
-<br><br>
-<span class="keigo-jp"><code>ご請求書をご確認の上、ご署名をお願いいたします。</code></span><br>
-<em>Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.</em><br>
+
+**ご請求書をご確認の上、ご署名をお願いいたします。**  
+*Go-seikūsho wo go-kakunin no ue, go-shomei wo o-negai itashimasu.*  
 Please review the invoice and then sign.
-</div>
 
 ## Related Expressions
 

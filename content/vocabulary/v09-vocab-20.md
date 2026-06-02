@@ -9,19 +9,17 @@ Professional service requires knowing not just that the fee exists, but also the
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>このプランのキャンセル料は、3日前から宿泊料金の50%となっております。</code></span><br>
-<em>Kono puran no kyanseru ryou wa, mikkamae kara shukuhaku ryoukin no gojuu-paasento to natte orimasu.</em><br>
+**このプランのキャンセル料は、3日前から宿泊料金の50%となっております。**  
+*Kono puran no kyanseru ryou wa, mikkamae kara shukuhaku ryoukin no gojuu-paasento to natte orimasu.*  
 The cancellation fee for this plan is 50% of the accommodation charge from 3 days before the stay.
-<br><br>
-<span class="keigo-jp"><code>キャンセルのご連絡は、お早めにいただけますようお願い申し上げます。</code></span><br>
-<em>Kyanseru no go-renraku wa, o-hayame ni itadakemasu you o-negai moushiagemasu.</em><br>
+
+**キャンセルのご連絡は、お早めにいただけますようお願い申し上げます。**  
+*Kyanseru no go-renraku wa, o-hayame ni itadakemasu you o-negai moushiagemasu.*  
 We kindly ask that you contact us as early as possible if one needs to cancel.
-<br><br>
-<span class="keigo-jp"><code>当日キャンセルの場合、キャンセル料として宿泊料金の全額をいただく場合がございます。</code></span><br>
-<em>Toujitsu kyanseru no baai, kyanseru ryou toshite shukuhaku ryoukin no zengaku wo itadaku baai ga gozaimasu.</em><br>
+
+**当日キャンセルの場合、キャンセル料として宿泊料金の全額をいただく場合がございます。**  
+*Toujitsu kyanseru no baai, kyanseru ryou toshite shukuhaku ryoukin no zengaku wo itadaku baai ga gozaimasu.*  
 In the case of a same-day cancellation, the full accommodation charge may be collected as a cancellation fee.
-</div>
 
 ## Related Expressions
 

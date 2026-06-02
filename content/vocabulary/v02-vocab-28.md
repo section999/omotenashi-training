@@ -9,19 +9,17 @@ title: 案内 (annai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋へご案内いたします。こちらへどうぞ。</code></span><br>
-<em>O-heya e go-annai itashimasu. Kochira e dōzo.</em><br>
+**お部屋へご案内いたします。こちらへどうぞ。**  
+*O-heya e go-annai itashimasu. Kochira e dōzo.*  
 I will show you to the room. This way, please.
-<br><br>
-<span class="keigo-jp"><code>施設についてご案内させていただいてもよろしいでしょうか。</code></span><br>
-<em>Shisetsu ni tsuite go-annai sasete itadaite mo yoroshii deshō ka.</em><br>
+
+**施設についてご案内させていただいてもよろしいでしょうか。**  
+*Shisetsu ni tsuite go-annai sasete itadaite mo yoroshii deshō ka.*  
 May I take a moment to guide you through our facilities?
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、いつでもご案内いたします。</code></span><br>
-<em>Go-fumei na ten ga gozaimashita ra, itsu demo go-annai itashimasu.</em><br>
+
+**ご不明な点がございましたら、いつでもご案内いたします。**  
+*Go-fumei na ten ga gozaimashita ra, itsu demo go-annai itashimasu.*  
 If you have any questions, we are always happy to assist you.
-</div>
 
 ## Related Expressions
 

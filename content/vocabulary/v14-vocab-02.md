@@ -9,19 +9,17 @@ Major destinations like Kyoto, Nikko, and Hiroshima lean heavily on 観光客 tr
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。</code></span><br>
-<em>Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.</em><br>
+**京都には毎年多くの観光客が訪れ、旅館は予約でいっぱいになります。**  
+*Kyouto ni wa maitoshi ooku no kankoukyaku ga otozure, ryokan wa yoyaku de ippai ni narimasu.*  
 Kyoto receives many tourists every year, and the ryokans fill up with reservations.
-<br><br>
-<span class="keigo-jp"><code>観光客のお客様に、近くの名所をご案内しております。</code></span><br>
-<em>Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.</em><br>
+
+**観光客のお客様に、近くの名所をご案内しております。**  
+*Kankoukyaku no okyakusama ni, chikaku no meisho wo goannai shite orimasu.*  
 We provide guidance to tourist guests about nearby famous sites.
-<br><br>
-<span class="keigo-jp"><code>外国からの観光客が増えているため、英語のパンフレットを用意しました。</code></span><br>
-<em>Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.</em><br>
+
+**外国からの観光客が増えているため、英語のパンフレットを用意しました。**  
+*Gaikoku kara no kankoukyaku ga fuete iru tame, eigo no panfuretto wo youi shimashita.*  
 We have prepared English-language brochures because the number of foreign tourists is increasing.
-</div>
 
 ## Related Expressions
 

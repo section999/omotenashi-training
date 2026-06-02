@@ -9,19 +9,17 @@ Staff encounter 回線 in contexts such as reporting a guest's phone problem to 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この部屋の回線は高速ですので、快適にインターネットをご利用いただけます。</code></span><br>
-<em>Kono heya no kaisen wa kousoku desu node, kaiteki ni intaanetto wo goriyou itadakemasu.</em><br>
+**この部屋の回線は高速ですので、快適にインターネットをご利用いただけます。**  
+*Kono heya no kaisen wa kousoku desu node, kaiteki ni intaanetto wo goriyou itadakemasu.*  
 The line in this room is high-speed, so one can use the internet comfortably.
-<br><br>
-<span class="keigo-jp"><code>回線の問題を確認いたしますので、少々お待ちください。</code></span><br>
-<em>Kaisen no mondai wo kakunin itashimasu node, shoushou omachi kudasai.</em><br>
+
+**回線の問題を確認いたしますので、少々お待ちください。**  
+*Kaisen no mondai wo kakunin itashimasu node, shoushou omachi kudasai.*  
 I will check the line for any issues, so please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>ただいま回線が混み合っており、繋がりにくい状況でございます。</code></span><br>
-<em>Tadaima kaisen ga komiatte ori, tsunagarinikui joukyou de gozaimasu.</em><br>
+
+**ただいま回線が混み合っており、繋がりにくい状況でございます。**  
+*Tadaima kaisen ga komiatte ori, tsunagarinikui joukyou de gozaimasu.*  
 The lines are currently congested, making it difficult to connect.
-</div>
 
 ## Related Expressions
 

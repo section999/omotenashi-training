@@ -9,19 +9,17 @@ title: 落ち着いてください (ochitsuite kudasai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご安心ください。落ち着いてください。スタッフが誘導いたします。</code></span><br>
-<em>Go-anshin kudasai. Ochitsuite kudasai. Sutaffu ga yuudou itashimasu.</em><br>
+**ご安心ください。落ち着いてください。スタッフが誘導いたします。**  
+*Go-anshin kudasai. Ochitsuite kudasai. Sutaffu ga yuudou itashimasu.*  
 Please be reassured. Please stay calm. Our staff will guide you.
-<br><br>
-<span class="keigo-jp"><code>火災報知機が鳴っておりますが、落ち着いてください。順序よく避難してください。</code></span><br>
-<em>Kasai houchi ki ga natte orimasu ga, ochitsuite kudasai. Junjo yoku hinan shite kudasai.</em><br>
+
+**火災報知機が鳴っておりますが、落ち着いてください。順序よく避難してください。**  
+*Kasai houchi ki ga natte orimasu ga, ochitsuite kudasai. Junjo yoku hinan shite kudasai.*  
 The fire alarm is sounding, but please remain calm. Please evacuate in an orderly manner.
-<br><br>
-<span class="keigo-jp"><code>落ち着いてください。深呼吸して、スタッフの指示をお聞きください。</code></span><br>
-<em>Ochitsuite kudasai. Shinkokyuu shite, sutaffu no shiji wo okiki kudasai.</em><br>
+
+**落ち着いてください。深呼吸して、スタッフの指示をお聞きください。**  
+*Ochitsuite kudasai. Shinkokyuu shite, sutaffu no shiji wo okiki kudasai.*  
 Please stay calm. Take a deep breath and listen to the staff's instructions.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ In a hospitality telephone setting, 聞き取れません is not used on its own
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、お声が少々聞き取れませんでした。</code></span><br>
-<em>Osore irimasu ga, okoe ga shoushou kikitoremasen deshita.</em><br>
+**恐れ入りますが、お声が少々聞き取れませんでした。**  
+*Osore irimasu ga, okoe ga shoushou kikitoremasen deshita.*  
 I beg your pardon, but I had some difficulty hearing your voice.
-<br><br>
-<span class="keigo-jp"><code>申し訳ございません、只今お声が聞き取れません。もう少し大きな声でおっしゃっていただけますか。</code></span><br>
-<em>Moushiwake gozaimasen, tadaima okoe ga kikitorimasen. Mou sukoshi ooki na koe de osshatte itadakemasu ka.</em><br>
+
+**申し訳ございません、只今お声が聞き取れません。もう少し大きな声でおっしゃっていただけますか。**  
+*Moushiwake gozaimasen, tadaima okoe ga kikitorimasen. Mou sukoshi ooki na koe de osshatte itadakemasu ka.*  
 I sincerely apologize, I cannot hear you at the moment. Could you please speak a little louder?
-<br><br>
-<span class="keigo-jp"><code>電話の状態が悪く、聞き取れませんでした。折り返しご連絡いたしましょうか。</code></span><br>
-<em>Denwa no joutai ga waruku, kikitoremasen deshita. Orikaeshi go-renraku itashimashou ka.</em><br>
+
+**電話の状態が悪く、聞き取れませんでした。折り返しご連絡いたしましょうか。**  
+*Denwa no joutai ga waruku, kikitoremasen deshita. Orikaeshi go-renraku itashimashou ka.*  
 The phone connection was poor and I could not make out what you said. Shall I call you back?
-</div>
 
 ## Related Expressions
 

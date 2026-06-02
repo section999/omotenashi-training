@@ -10,19 +10,17 @@ The distinction between 日数 and 何泊 is a common source of billing errors. 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>今回のご滞在日数は3日間でございます。</code></span><br>
-<em>Konkai no go-taizai nissuu wa mikka-kan de gozaimasu.</em><br>
+**今回のご滞在日数は3日間でございます。**  
+*Konkai no go-taizai nissuu wa mikka-kan de gozaimasu.*  
 The total number of days for the stay this time is 3.
-<br><br>
-<span class="keigo-jp"><code>駐車場のご利用料金は滞在日数に応じてご請求いたします。</code></span><br>
-<em>Chuushajou no go-riyou ryoukin wa taizai nissuu ni oujite go-seikyuu itashimasu.</em><br>
+
+**駐車場のご利用料金は滞在日数に応じてご請求いたします。**  
+*Chuushajou no go-riyou ryoukin wa taizai nissuu ni oujite go-seikyuu itashimasu.*  
 Parking fees will be charged based on the total number of days of the stay.
-<br><br>
-<span class="keigo-jp"><code>日数を確認のうえ、合計金額をご案内いたします。</code></span><br>
-<em>Nissuu o kakunin no ue, goukei kingaku o go-annai itashimasu.</em><br>
+
+**日数を確認のうえ、合計金額をご案内いたします。**  
+*Nissuu o kakunin no ue, goukei kingaku o go-annai itashimasu.*  
 We will confirm the number of days before advising you of the total amount.
-</div>
 
 ## Related Expressions
 

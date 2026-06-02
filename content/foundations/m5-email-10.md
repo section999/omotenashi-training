@@ -20,17 +20,25 @@ Hotels occasionally must notify guests about maintenance schedules, temporary fa
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【設備点検のお知らせ】[Date] [Affected facility]一時休止のご案内</code></span><br><br>
+<em>【 setsubi tenken no oshirase 】[ Date ] [ Affected facility ] ichi ji kyushi no go-annai</em><br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
+<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for your continued use of our hotel.<br><br>
 <span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
+<em>kaki no nittei nite kannai setsubi tenken o jisshi itashimasu.</em><br>
 We will be conducting facility inspections on the following schedule.<br><br>
 <span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
+<em>nittei :[ Date ]([ Day ])[ Time ]〜[ Time ]</em><br>
 <span class="keigo-jp"><code>対象：[Affected facility]</code></span><br><br>
+<em>taishou :[ Affected facility ]</em><br>
 <span class="keigo-jp"><code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code></span><br>
+<em>tenken sagyou chu wa, [ affected facility ] ga go-riyou itadake nai jikan tai ga gozaimasu.</em><br>
 During the inspection, [affected facility] will be unavailable for some time.<br><br>
 <span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
+<em>okyakusama ni wa go fuben o okakeitashimasu ga, nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
 We apologize for the inconvenience and humbly ask for your understanding.<br><br>
 <span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions, please feel free to contact us.
 </div>
 
@@ -38,6 +46,7 @@ If you have any questions, please feel free to contact us.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>
+<em>nanitozo go rikai no hodo yoroshiku onegai moushiage masu</em><br>
 We humbly ask for your understanding.
 </div>
 
@@ -49,10 +58,13 @@ This phrase is standard in Japanese professional notice emails. It requests the 
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>現在、ホテルの一部エリアにて改装工事を実施しております。</code></span><br>
+<em>genzai, hoteru no ichibu eria nite kaisou kouji o jisshi shite orimasu.</em><br>
 We are currently conducting renovation work in part of the hotel.<br><br>
 <span class="keigo-jp"><code>工事期間中は音や振動によりご迷惑をおかけする場合がございます。何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
+<em>kouji kikan chu wa oto ya shindou niyori go-meiwaku o okake suru baai ga gozaimasu. nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
 During the construction period, there may be noise or vibrations. We humbly ask for your understanding.<br><br>
 <span class="keigo-jp"><code>ご滞在のご不便を最小限に抑えるよう努めてまいります。</code></span><br>
+<em>go-taizai no go fuben o saishougen ni osaeru you tsutome te mairimasu.</em><br>
 We will do our best to minimize any inconvenience to your stay.
 </div>
 
@@ -62,10 +74,10 @@ We will do our best to minimize any inconvenience to your stay.
 
 **Which phrase is the standard way to request guest understanding in a facility notice email?**
 
-- A. 「また来てください」
-- B. 「ご確認ください」
-- C. 「何卒ご理解のほどよろしくお願い申し上げます」
-- D. 「問題ありません」
+- A. また来てください
+- B. ご確認ください
+- C. 何卒ご理解のほどよろしくお願い申し上げます
+- D. 問題ありません
 
 **Correct Answer:** C
 

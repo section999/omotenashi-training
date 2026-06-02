@@ -10,9 +10,14 @@ Hotel Japanese is distinct from ordinary polite Japanese. The goal is not simply
 
 Before analyzing specific phrases, it helps to understand that Japanese politeness has three distinct levels that hotels use strategically:
 
-- **Plain/Casual:** Used between friends and colleagues. *Example: 名前を教えてください, Tell me your name.*
-- **Standard Polite (ていねい語):** Normal formal speech. *Example: お名前を教えてください, Could you tell me your name?*
-- **Hospitality Keigo (尊敬語 + 謙譲語):** Hotel-level formal speech. *Example: ご予約のお名前をお聞かせいただけますでしょうか, May I ask for the name on your reservation?*
+- **Plain/Casual:** Used between friends and colleagues.
+  Example: 名前を教えてください, Tell me your name.
+
+- **Standard Polite (丁寧語):** Normal formal speech.
+  Example: お名前を教えてください, Could you tell me your name?
+
+- **Hospitality Keigo (尊敬語 + 謙譲語):** Hotel-level formal speech.
+  Example: ご予約のお名前をお聞かせいただけますでしょうか, May I ask for the name on your reservation?
 
 Hotels operate almost exclusively at the third level. The difference is not just vocabulary, it is a fundamentally different relationship between speaker and listener.
 
@@ -54,9 +59,8 @@ The question itself communicates respect
 
 ## Expression 2: Confirming the Guest's Identity
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>田中様でいらっしゃいますね</code></span><br>
-<em>Tanaka-sama de irasshaimasu ne</em><br>
+**田中様でいらっしゃいますね**  
+*Tanaka-sama de irasshaimasu ne*  
 You are Mr./Ms. Tanaka, correct?<br><br>
 
 | Version | Register | Feel |
@@ -64,7 +68,6 @@ You are Mr./Ms. Tanaka, correct?<br><br>
 | 田中さんですか？ | Casual polite | Sounds like a question; slightly interrogative |
 | 田中様ですね | Standard formal | Acceptable but lacks hospitality warmth |
 | 田中様でいらっしゃいますね | Hospitality keigo | Confirms gently; guest feels elevated |
-</div>
 
 いらっしゃいます is the honorific (尊敬語) form of いる (to be). It elevates the guest's existence, so "you are" becomes an expression of respect rather than a neutral statement. The soft ending ね transforms the confirmation from a question into a collaborative verification, which feels cooperative rather than interrogative.
 

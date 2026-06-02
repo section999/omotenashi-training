@@ -10,19 +10,17 @@ When staff help a guest with 発送, the job is more than just handing them a fo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。</code></span><br>
-<em>O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.</em><br>
+**お土産の荷物をご自宅に発送するお手伝いをいたします。伝票のご記入をお願いいたします。**  
+*O-miyage no nimotsu o go-jitaku ni hassou suru o-tetsudai o itashimasu. Denpyou no go-kinyuu o o-negai itashimasu.*  
 We can help you send your souvenir bags to your home. Please fill in the shipping form.
-<br><br>
-<span class="keigo-jp"><code>国内発送でしたら、翌々日にはお届けできる見込みです。</code></span><br>
-<em>Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.</em><br>
+
+**国内発送でしたら、翌々日にはお届けできる見込みです。**  
+*Kokunai hassou de shitara, yokuyokujitsu ni wa o-todoke dekiru mikomi desu.*  
 For domestic shipping, we expect delivery within two days.
-<br><br>
-<span class="keigo-jp"><code>発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。</code></span><br>
-<em>Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.</em><br>
+
+**発送後、追跡番号をお渡しいたしますので、配達状況をご確認いただけます。**  
+*Hassou go, tsuiseki bangou o o-watashi itashimasu no de, haitatsu joukyou o go-kakunin itadakemasu.*  
 After shipping, we will give you a tracking number so one can check the delivery status.
-</div>
 
 ## Related Expressions
 

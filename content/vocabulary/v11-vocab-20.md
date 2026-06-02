@@ -10,19 +10,17 @@ In hotel telephone scripts, this phrase typically appears early in a call, right
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お名前を頂戴できますか？</code></span><br>
-<em>Onamae wo choudai dekimasu ka.</em><br>
+**お名前を頂戴できますか？**  
+*Onamae wo choudai dekimasu ka.*  
 May I have your name?
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、お名前を頂戴できますか？</code></span><br>
-<em>Osoreirimasu ga, onamae wo choudai dekimasu ka.</em><br>
+
+**恐れ入りますが、お名前を頂戴できますか？**  
+*Osoreirimasu ga, onamae wo choudai dekimasu ka.*  
 I apologize for the inconvenience, but may I have your name?
-<br><br>
-<span class="keigo-jp"><code>ご予約の確認のため、お名前を頂戴できますか？</code></span><br>
-<em>Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.</em><br>
+
+**ご予約の確認のため、お名前を頂戴できますか？**  
+*Goyoyaku no kakunin no tame, onamae wo choudai dekimasu ka.*  
 May I have your name in order to confirm your reservation?
-</div>
 
 ## Related Expressions
 

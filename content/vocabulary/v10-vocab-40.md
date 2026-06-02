@@ -9,19 +9,17 @@ Guests typically receive a 確認番号 at the time of booking via email, SMS, o
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。</code></span><br>
-<em>Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.</em><br>
+**恐れ入りますが、ご予約の確認番号をお聞かせいただけますでしょうか。**  
+*Osoreirimasu ga, goyoyaku no kakunin bangō o okikase itadakemasu deshō ka.*  
 I apologize for the trouble: could you please provide your reservation confirmation number?
-<br><br>
-<span class="keigo-jp"><code>確認番号はご予約確認メールに記載されております。</code></span><br>
-<em>Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.</em><br>
+
+**確認番号はご予約確認メールに記載されております。**  
+*Kakunin bangō wa goyoyaku kakunin mēru ni kisai sarete orimasu.*  
 Your confirmation number is included in your reservation confirmation email.
-<br><br>
-<span class="keigo-jp"><code>確認番号〇〇番のご予約を確認いたしました。</code></span><br>
-<em>Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.</em><br>
+
+**確認番号〇〇番のご予約を確認いたしました。**  
+*Kakunin bangō 〇〇-ban no goyoyaku o kakunin itashimashita.*  
 I have confirmed the reservation under confirmation number [number].
-</div>
 
 ## Related Expressions
 

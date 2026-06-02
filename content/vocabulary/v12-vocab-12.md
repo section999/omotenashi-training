@@ -10,19 +10,17 @@ The response sequence is important: attend to the injured person first, then sec
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ホテル内で事故が発生した場合、フロントにご報告ください。</code></span><br>
-<em>Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.</em><br>
+**ホテル内で事故が発生した場合、フロントにご報告ください。**  
+*Hoteru nai de jiko ga hassei shita baai, furonto ni gohoukoku kudasai.*  
 Report to the front desk if an accident occurs in the hotel.
-<br><br>
-<span class="keigo-jp"><code>駐車場で車同士の接触事故が起き、スタッフがすぐに現場に駆けつけました。</code></span><br>
-<em>Chuushajou de kuruma doushi no sesshoku jiko ga oki, sutaffu ga sugu ni genba ni kaketsukemashita.</em><br>
+
+**駐車場で車同士の接触事故が起き、スタッフがすぐに現場に駆けつけました。**  
+*Chuushajou de kuruma doushi no sesshoku jiko ga oki, sutaffu ga sugu ni genba ni kaketsukemashita.*  
 A collision between two cars occurred in the parking lot, and staff rushed to the scene immediately.
-<br><br>
-<span class="keigo-jp"><code>事故の詳細は報告書にまとめ、翌日マネージャーに提出しました。</code></span><br>
-<em>Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.</em><br>
+
+**事故の詳細は報告書にまとめ、翌日マネージャーに提出しました。**  
+*Jiko no shousai wa houkokusho ni matomete, yokujitsu manēijā ni teishutsu shimashita.*  
 The details of the accident were compiled in a report and submitted to the manager the following day.
-</div>
 
 ## Related Expressions
 

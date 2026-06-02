@@ -10,19 +10,17 @@ The value of an 案内図 shows when a guest needs multi-step directions. Verbal
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ロビーに案内図がございます。ご出発前にぜひご確認ください。</code></span><br>
-<em>Robii ni annaizu ga gozaimasu. Go-shuppatsu mae ni zehi go-kakunin kudasai.</em><br>
+**ロビーに案内図がございます。ご出発前にぜひご確認ください。**  
+*Robii ni annaizu ga gozaimasu. Go-shuppatsu mae ni zehi go-kakunin kudasai.*  
 There is a guide map in the lobby. Please be sure to check it before heading out.
-<br><br>
-<span class="keigo-jp"><code>こちらの案内図でレストランの場所をご確認いただけます。現在地はこちらでございます。</code></span><br>
-<em>Kochira no annaizu de resutoran no basho wo go-kakunin itadakemasu. Genzaichi wa kochira de gozaimasu.</em><br>
+
+**こちらの案内図でレストランの場所をご確認いただけます。現在地はこちらでございます。**  
+*Kochira no annaizu de resutoran no basho wo go-kakunin itadakemasu. Genzaichi wa kochira de gozaimasu.*  
 You can confirm the restaurant's location on this guide map. Your current position is here.
-<br><br>
-<span class="keigo-jp"><code>案内図をご覧ください。プールはホテル敷地の南側、こちらの位置にございます。</code></span><br>
-<em>Annaizu wo go-ran kudasai. Puuru wa hoteru shikichi no minamigawa, kochira no ichi ni gozaimasu.</em><br>
+
+**案内図をご覧ください。プールはホテル敷地の南側、こちらの位置にございます。**  
+*Annaizu wo go-ran kudasai. Puuru wa hoteru shikichi no minamigawa, kochira no ichi ni gozaimasu.*  
 Please refer to the guide map. The pool is on the south side of the hotel grounds, at this location.
-</div>
 
 ## Related Expressions
 

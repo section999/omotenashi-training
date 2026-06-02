@@ -12,19 +12,17 @@ A common error is to use ようこそ in everyday spoken greetings, where it end
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ようこそ、〇〇ホテルへ。心よりお待ちしておりました。</code></span><br>
-<em>Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.</em><br>
+**ようこそ、〇〇ホテルへ。心よりお待ちしておりました。**  
+*Yōkoso, ○○ hoteru e. Kokoro yori o-machi shite orimashita.*  
 Welcome to ○○ Hotel. We have been truly looking forward to your arrival.
-<br><br>
-<span class="keigo-jp"><code>ようこそ日本へ。ご旅行をどうぞお楽しみください。</code></span><br>
-<em>Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.</em><br>
+
+**ようこそ日本へ。ご旅行をどうぞお楽しみください。**  
+*Yōkoso Nihon e. Go-ryokō wo dōzo o-tanoshimikudasai.*  
 Welcome to Japan. Please enjoy your journey.
-<br><br>
-<span class="keigo-jp"><code>ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。</code></span><br>
-<em>Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.</em><br>
+
+**ウェルカムカードより：この度は当館にようこそ。心よりお迎え申し上げます。**  
+*Uerukamu kādo yori: Kono tabi wa tōkan ni yōkoso. Kokoro yori o-mukae mōshiagemasu.*  
 From your welcome card: Welcome to our inn. We welcome you with all our hearts.
-</div>
 
 ## Related Expressions
 

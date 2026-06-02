@@ -9,19 +9,17 @@ The philosophy of 管理 in Japanese hospitality is proactive rather than reacti
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>客室のアメニティの在庫管理は、ハウスキーピング部門が担当しております。</code></span><br>
-<em>Kyakushitsu no ameniti no zaiko kanri wa, hausu kiipingu bumon ga tantou shite orimasu.</em><br>
+**客室のアメニティの在庫管理は、ハウスキーピング部門が担当しております。**  
+*Kyakushitsu no ameniti no zaiko kanri wa, hausu kiipingu bumon ga tantou shite orimasu.*  
 The housekeeping department is responsible for managing the inventory of guest room amenities.
-<br><br>
-<span class="keigo-jp"><code>衛生管理を徹底するため、毎日の清掃チェックリストを導入いたしました。</code></span><br>
-<em>Eisei kanri wo tettei suru tame, mainichi no seisou chekku risuto wo donyu itashimashita.</em><br>
+
+**衛生管理を徹底するため、毎日の清掃チェックリストを導入いたしました。**  
+*Eisei kanri wo tettei suru tame, mainichi no seisou chekku risuto wo donyu itashimashita.*  
 In order to ensure thorough hygiene management, we have introduced a daily cleaning checklist.
-<br><br>
-<span class="keigo-jp"><code>顧客情報の管理は、プライバシーポリシーに従い、厳格に行っております。</code></span><br>
-<em>Kokyaku jouhou no kanri wa, puraibashii porishii ni shitagaii, genkaku ni okonatte orimasu.</em><br>
+
+**顧客情報の管理は、プライバシーポリシーに従い、厳格に行っております。**  
+*Kokyaku jouhou no kanri wa, puraibashii porishii ni shitagaii, genkaku ni okonatte orimasu.*  
 Guest information management is handled strictly in accordance with our privacy policy.
-</div>
 
 ## Related Expressions
 

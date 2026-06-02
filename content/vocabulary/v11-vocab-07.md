@@ -9,19 +9,17 @@ title: 担当者 (tantousha)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約内容につきまして、担当者よりご連絡いたします。</code></span><br>
-<em>Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.</em><br>
+**ご予約内容につきまして、担当者よりご連絡いたします。**  
+*Goyoyaku naiyō ni tsukimashite, tantōsha yori gorenraku itashimasu.*  
 The person in charge of your reservation will contact you.
-<br><br>
-<span class="keigo-jp"><code>担当者にお取り次ぎいたしますので、少々お待ちください。</code></span><br>
-<em>Tantōsha ni otorikitsugi itashimasu no de, shōshō omachi kudasai.</em><br>
+
+**担当者にお取り次ぎいたしますので、少々お待ちください。**  
+*Tantōsha ni otorikitsugi itashimasu no de, shōshō omachi kudasai.*  
 I will put you through to the person in charge; please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>ただいま担当者が不在ですが、ご伝言をお預かりいたしましょうか。</code></span><br>
-<em>Tadaima tantōsha ga fuzai desu ga, godengon wo oazukari itashimashō ka.</em><br>
+
+**ただいま担当者が不在ですが、ご伝言をお預かりいたしましょうか。**  
+*Tadaima tantōsha ga fuzai desu ga, godengon wo oazukari itashimashō ka.*  
 The person in charge is currently unavailable; may I take a message?
-</div>
 
 ## Related Expressions
 

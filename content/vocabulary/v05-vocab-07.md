@@ -10,19 +10,17 @@ The language staff use when taking an order tells a guest a great deal about the
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご注文はお決まりでしょうか。</code></span><br>
-<em>Go-chuumon wa o-kimari deshou ka.</em><br>
+**ご注文はお決まりでしょうか。**  
+*Go-chuumon wa o-kimari deshou ka.*  
 Have you decided on your order?
-<br><br>
-<span class="keigo-jp"><code>ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。</code></span><br>
-<em>Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.</em><br>
+
+**ご注文をお伺いいたします。本日のおすすめはいかがでしょうか。**  
+*Go-chuumon wo o-ukagai itashimasu. Honjitsu no osusume wa ikaga deshou ka.*  
 I will take your order. How about today's recommendation?
-<br><br>
-<span class="keigo-jp"><code>ご注文の内容を繰り返させていただきます。</code></span><br>
-<em>Go-chuumon no naiyou wo kurikaesasete itadakimasu.</em><br>
+
+**ご注文の内容を繰り返させていただきます。**  
+*Go-chuumon no naiyou wo kurikaesasete itadakimasu.*  
 Allow me to repeat your order to confirm.
-</div>
 
 ## Related Expressions
 

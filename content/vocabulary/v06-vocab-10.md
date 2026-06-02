@@ -9,19 +9,17 @@ The response to a 暑い complaint depends on the cause. The air conditioning ma
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>「お部屋が暑い」とのことで、ただいま空調を確認いたします。</code></span><br>
-<em>"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.</em><br>
+**「お部屋が暑い」とのことで、ただいま空調を確認いたします。**  
+*"Oheya ga atsui" to no koto de, tadaima kuuchou wo kakunin itashimasu.*  
 We understand that the room is warm: we will check the air conditioning right away.
-<br><br>
-<span class="keigo-jp"><code>空調の温度調整が必要でございましたら、スタッフまでお申し付けください。</code></span><br>
-<em>Kuuchou no ondo chousei ga hitsuyou de gozaimashitara, sutaffu made o-moushitsuke kudasai.</em><br>
+
+**空調の温度調整が必要でございましたら、スタッフまでお申し付けください。**  
+*Kuuchou no ondo chousei ga hitsuyou de gozaimashitara, sutaffu made o-moushitsuke kudasai.*  
 If you need the air conditioning temperature adjusted, please let a member of staff know.
-<br><br>
-<span class="keigo-jp"><code>暑くてお休みになれないとのこと、大変失礼いたしました。すぐに係の者をお送りします。</code></span><br>
-<em>Atsukute o-yasumi ni narenai to no koto, taihen shitsurei itashimashita. Sugu ni kakari no mono wo o-okuri shimasu.</em><br>
+
+**暑くてお休みになれないとのこと、大変失礼いたしました。すぐに係の者をお送りします。**  
+*Atsukute o-yasumi ni narenai to no koto, taihen shitsurei itashimashita. Sugu ni kakari no mono wo o-okuri shimasu.*  
 We sincerely apologise that the heat has prevented you from resting. We will send someone to the room right away.
-</div>
 
 ## Related Expressions
 

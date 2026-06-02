@@ -10,19 +10,17 @@ When a guest contacts the hotel by phone, email, or in person, asking for the �
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約番号をお知らせいただけますでしょうか。</code></span><br>
-<em>Go-yoyaku bangou o oshirase itadakemasu deshou ka.</em><br>
+**ご予約番号をお知らせいただけますでしょうか。**  
+*Go-yoyaku bangou o oshirase itadakemasu deshou ka.*  
 Could you please provide your reservation number?
-<br><br>
-<span class="keigo-jp"><code>予約番号は確認メールに記載されております。</code></span><br>
-<em>Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.</em><br>
+
+**予約番号は確認メールに記載されております。**  
+*Yoyaku bangou wa kakunin meeru ni kisai sarete orimasu.*  
 Your reservation number is listed in the confirmation email.
-<br><br>
-<span class="keigo-jp"><code>予約番号をもとにご予約内容を確認いたします。</code></span><br>
-<em>Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.</em><br>
+
+**予約番号をもとにご予約内容を確認いたします。**  
+*Yoyaku bangou o moto ni go-yoyaku naiyou o kakunin itashimasu.*  
 We will verify your reservation details using your reservation number.
-</div>
 
 ## Related Expressions
 

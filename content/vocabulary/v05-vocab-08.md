@@ -10,19 +10,17 @@ Timing is where 提供 gets challenging, and it is where strong communication be
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お料理は順番に提供いたしますので、しばらくお待ちくださいませ。</code></span><br>
-<em>O-ryouri wa junban ni teikyou itashimasu no de, shibaraku o-machi kudasaimase.</em><br>
+**お料理は順番に提供いたしますので、しばらくお待ちくださいませ。**  
+*O-ryouri wa junban ni teikyou itashimasu no de, shibaraku o-machi kudasaimase.*  
 We will serve the dishes in order, so please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>ただいまお料理を提供いたします。こちらが本日のアミューズでございます。</code></span><br>
-<em>Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.</em><br>
+
+**ただいまお料理を提供いたします。こちらが本日のアミューズでございます。**  
+*Tadaima o-ryouri wo teikyou itashimasu. Kochira ga honjitsu no amyuuzu de gozaimasu.*  
 I will serve your dish now. This is today's amuse-bouche.
-<br><br>
-<span class="keigo-jp"><code>ドリンクの提供にお時間をいただいております。大変申し訳ございません。</code></span><br>
-<em>Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.</em><br>
+
+**ドリンクの提供にお時間をいただいております。大変申し訳ございません。**  
+*Dorinku no teikyou ni o-jikan wo itadaite orimasu. Taihen moushiwake gozaimasen.*  
 We apologize for the wait with your drink service.
-</div>
 
 ## Related Expressions
 

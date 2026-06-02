@@ -10,19 +10,17 @@ Hotel staff are trained to begin initial 救助 actions while simultaneously ale
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災発生時には、スタッフが速やかにお客様の救助に当たります。</code></span><br>
-<em>Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.</em><br>
+**火災発生時には、スタッフが速やかにお客様の救助に当たります。**  
+*Kasai hassei ji ni wa, sutaffu ga sumiyaka ni okyakusama no kyuujo ni atarimasu.*  
 In the event of a fire, staff will promptly carry out guest rescue operations.
-<br><br>
-<span class="keigo-jp"><code>エレベーターに閉じ込められたお客様の救助は、保守業者と連携して行います。</code></span><br>
-<em>Erebeetaa ni tojikoimerareta okyakusama no kyuujo wa, hoshuu gyousha to renkei shite okonaimasu.</em><br>
+
+**エレベーターに閉じ込められたお客様の救助は、保守業者と連携して行います。**  
+*Erebeetaa ni tojikoimerareta okyakusama no kyuujo wa, hoshuu gyousha to renkei shite okonaimasu.*  
 Rescue of guests trapped in the elevator will be carried out in coordination with the maintenance company.
-<br><br>
-<span class="keigo-jp"><code>救助が必要な場合は、119番に通報するとともにフロントへお知らせください。</code></span><br>
-<em>Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.</em><br>
+
+**救助が必要な場合は、119番に通報するとともにフロントへお知らせください。**  
+*Kyuujo ga hitsuyou na baai wa, hyakujuukyuuban ni tsuuhou suru to tomo ni furonto e oshirase kudasai.*  
 If rescue is needed, please notify the front desk and call 119.
-</div>
 
 ## Related Expressions
 

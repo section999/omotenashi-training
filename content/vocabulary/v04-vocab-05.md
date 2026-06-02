@@ -9,19 +9,17 @@ When guests ask where to throw something away, staff should point them to the ne
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ゴミ箱はデスクの横にございます。</code></span><br>
-<em>Gomibako wa desuku no yoko ni gozaimasu.</em><br>
+**ゴミ箱はデスクの横にございます。**  
+*Gomibako wa desuku no yoko ni gozaimasu.*  
 The trash can is next to the desk.
-<br><br>
-<span class="keigo-jp"><code>清掃の際、全てのゴミ箱を空にして、新しいビニール袋をご用意いたします。</code></span><br>
-<em>Seisou no sai, subete no gomibako wo kara ni shite, atarashii biniiru bukuro wo goyo'i itashimasu.</em><br>
+
+**清掃の際、全てのゴミ箱を空にして、新しいビニール袋をご用意いたします。**  
+*Seisou no sai, subete no gomibako wo kara ni shite, atarashii biniiru bukuro wo goyo'i itashimasu.*  
 During cleaning, we empty all the trash cans and provide fresh liners.
-<br><br>
-<span class="keigo-jp"><code>ゴミ箱はこちらでございます。バスルームにもご用意しております。</code></span><br>
-<em>Gomibako wa kochira de gozaimasu. Basurumu ni mo goyo'i shite orimasu.</em><br>
+
+**ゴミ箱はこちらでございます。バスルームにもご用意しております。**  
+*Gomibako wa kochira de gozaimasu. Basurumu ni mo goyo'i shite orimasu.*  
 The trash can is here. There is also one provided in the bathroom.
-</div>
 
 ## Related Expressions
 

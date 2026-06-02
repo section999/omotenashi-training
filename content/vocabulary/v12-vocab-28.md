@@ -9,19 +9,17 @@ Staff responsibilities within 緊急対応 differ by role. Front desk handles gu
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>火災発生時は、緊急対応マニュアルに従って速やかに行動してください。</code></span><br>
-<em>Kasai hassei ji wa, kinkyuu taiou manyuaru ni shitagatte sumiyaka ni koudou shite kudasai.</em><br>
+**火災発生時は、緊急対応マニュアルに従って速やかに行動してください。**  
+*Kasai hassei ji wa, kinkyuu taiou manyuaru ni shitagatte sumiyaka ni koudou shite kudasai.*  
 In the event of a fire, please act immediately in accordance with the emergency response manual.
-<br><br>
-<span class="keigo-jp"><code>本日の緊急対応訓練にご参加いただき、ありがとうございました。</code></span><br>
-<em>Honjitsu no kinkyuu taiou kunren ni gosanka itadaki, arigatou gozaimashita.</em><br>
+
+**本日の緊急対応訓練にご参加いただき、ありがとうございました。**  
+*Honjitsu no kinkyuu taiou kunren ni gosanka itadaki, arigatou gozaimashita.*  
 Thank you for participating in today's emergency response drill.
-<br><br>
-<span class="keigo-jp"><code>お客様の安全を確保するため、緊急対応チームが直ちに現場へ向かいました。</code></span><br>
-<em>Okyakusama no anzen wo kakuho suru tame, kinkyuu taiou chiimu ga tadachi ni genba e mukaimashita.</em><br>
+
+**お客様の安全を確保するため、緊急対応チームが直ちに現場へ向かいました。**  
+*Okyakusama no anzen wo kakuho suru tame, kinkyuu taiou chiimu ga tadachi ni genba e mukaimashita.*  
 The emergency response team headed to the scene immediately to ensure guest safety.
-</div>
 
 ## Related Expressions
 

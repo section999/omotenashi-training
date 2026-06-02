@@ -10,19 +10,17 @@ When a 地震 occurs, staying calm, using simple and reassuring language with gu
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>地震が起きたら、机の下に隠れてください。</code></span><br>
-<em>Jishin ga okitara, tsukue no shita ni kakurete kudasai.</em><br>
+**地震が起きたら、机の下に隠れてください。**  
+*Jishin ga okitara, tsukue no shita ni kakurete kudasai.*  
 During an earthquake, take cover under a desk.
-<br><br>
-<span class="keigo-jp"><code>ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。</code></span><br>
-<em>Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.</em><br>
+
+**ただいま地震が発生しました。あわてずに、その場でしゃがんで頭を守ってください。**  
+*Tadaima jishin ga hassei shimashita. Awatezu ni, sono ba de shagande atama wo mamotte kudasai.*  
 An earthquake has just occurred. Please do not panic: crouch down where one is and protect your head.
-<br><br>
-<span class="keigo-jp"><code>地震後は安全確認が完了するまで、エレベーターはご利用になれません。</code></span><br>
-<em>Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.</em><br>
+
+**地震後は安全確認が完了するまで、エレベーターはご利用になれません。**  
+*Jishin go wa anzen kakunin ga kanryou suru made, erebētā wa goriyou ni naremasen.*  
 After the earthquake, the elevators will not be available until a safety check is completed.
-</div>
 
 ## Related Expressions
 

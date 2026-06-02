@@ -9,19 +9,17 @@ staff use this expression when logging requests in operational systems (「タ�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>タオルの交換をご希望でございますね。すぐにお持ちいたします。</code></span><br>
-<em>Taoru no koukan wo go-kibou de gozaimasu ne. Sugu ni o-mochi itashimasu.</em><br>
+**タオルの交換をご希望でございますね。すぐにお持ちいたします。**  
+*Taoru no koukan wo go-kibou de gozaimasu ne. Sugu ni o-mochi itashimasu.*  
 You would like a replacement towel, is that right? I will bring one right away.
-<br><br>
-<span class="keigo-jp"><code>お客様より寝具の交換希望をいただきましたので、ハウスキーピングに手配いたします。</code></span><br>
-<em>O-kyaku-sama yori shingu no koukan kibou wo itadakimashita no de, hausukiipingu ni tearai itashimasu.</em><br>
+
+**お客様より寝具の交換希望をいただきましたので、ハウスキーピングに手配いたします。**  
+*O-kyaku-sama yori shingu no koukan kibou wo itadakimashita no de, hausukiipingu ni tearai itashimasu.*  
 We have received a bedding replacement request from the guest, so I will arrange it with housekeeping.
-<br><br>
-<span class="keigo-jp"><code>リモコンが故障している場合は、交換希望としてフロントにご連絡ください。</code></span><br>
-<em>Rimokon ga koshou shite iru baai wa, koukan kibou toshite furonto ni go-renraku kudasai.</em><br>
+
+**リモコンが故障している場合は、交換希望としてフロントにご連絡ください。**  
+*Rimokon ga koshou shite iru baai wa, koukan kibou toshite furonto ni go-renraku kudasai.*  
 If the remote control is not working, please contact the front desk with a replacement request.
-</div>
 
 ## Related Expressions
 

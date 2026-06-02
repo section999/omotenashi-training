@@ -9,19 +9,17 @@ When a guest reports 騒音, staff should respond without dismissing or minimisi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>騒音についてのご不便をおかけしており、大変申し訳ございません。</code></span><br>
-<em>Souon ni tsuite no go-fuben wo okake shite ori, taihen moushiwake gozaimasen.</em><br>
+**騒音についてのご不便をおかけしており、大変申し訳ございません。**  
+*Souon ni tsuite no go-fuben wo okake shite ori, taihen moushiwake gozaimasen.*  
 We sincerely apologise for the inconvenience caused by the noise.
-<br><br>
-<span class="keigo-jp"><code>騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。</code></span><br>
-<em>Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.</em><br>
+
+**騒音の原因を確認いたしますので、少々お時間をいただけますでしょうか。**  
+*Souon no gen-in wo kakunin itashimasu no de, shoushou o-jikan wo itadakemasu deshoo ka.*  
 We will look into the cause of the noise: could you give us just a little time?
-<br><br>
-<span class="keigo-jp"><code>騒音が続く場合は、別のお部屋へのご移動もご提案できます。</code></span><br>
-<em>Souon ga tsuzuku baai wa, betsu no oheya e no go-idou mo go-teian dekimasu.</em><br>
+
+**騒音が続く場合は、別のお部屋へのご移動もご提案できます。**  
+*Souon ga tsuzuku baai wa, betsu no oheya e no go-idou mo go-teian dekimasu.*  
 If the noise continues, we can also offer to move you to a different room.
-</div>
 
 ## Related Expressions
 

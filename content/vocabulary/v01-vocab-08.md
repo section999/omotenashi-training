@@ -13,19 +13,17 @@ The phrase is equally important in phone contexts. When placing a caller on hold
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々お待ちください。ただいまご確認いたします。</code></span><br>
-<em>Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.</em><br>
+**少々お待ちください。ただいまご確認いたします。**  
+*Shōshō o-machi kudasai. Tadaima go-kakunin itashimasu.*  
 Please wait just a moment. I will check on that right now.
-<br><br>
-<span class="keigo-jp"><code>恐れ入りますが、少々お待ちいただけますでしょうか。</code></span><br>
-<em>Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.</em><br>
+
+**恐れ入りますが、少々お待ちいただけますでしょうか。**  
+*Osore irimasu ga, shōshō o-machi itadakemasu deshō ka.*  
 I'm sorry to trouble you, but could you wait just a moment?
-<br><br>
-<span class="keigo-jp"><code>大変お待たせいたしました。先ほどの件でございますが…</code></span><br>
-<em>Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…</em><br>
+
+**大変お待たせいたしました。先ほどの件でございますが…**  
+*Taihen o-matase itashimashita. Sakihodo no ken de gozaimasu ga…*  
 Thank you very much for waiting. Regarding the matter from a moment ago…
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ When a guest reports 接続不良, the response follows a clear structure: ackno
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>接続不良で通話が途切れました。別の回線をお試しいただけますか。</code></span><br>
-<em>Setsuzoku furyou de tsuuwa ga togireimashita. Betsu no kaisen wo otameshi itadakemasu ka.</em><br>
+**接続不良で通話が途切れました。別の回線をお試しいただけますか。**  
+*Setsuzoku furyou de tsuuwa ga togireimashita. Betsu no kaisen wo otameshi itadakemasu ka.*  
 The call was interrupted due to poor connection. Could you try a different line?
-<br><br>
-<span class="keigo-jp"><code>お客様のお部屋で接続不良が発生しているようです。技術担当に確認いたします。</code></span><br>
-<em>Okyakusama no oheya de setsuzoku furyou ga hassei shite iru you desu. Gijutsu tantou ni kakunin itashimasu.</em><br>
+
+**お客様のお部屋で接続不良が発生しているようです。技術担当に確認いたします。**  
+*Okyakusama no oheya de setsuzoku furyou ga hassei shite iru you desu. Gijutsu tantou ni kakunin itashimasu.*  
 It appears there is a poor connection in the room. I will check with our technical staff.
-<br><br>
-<span class="keigo-jp"><code>接続不良が続く場合は、フロントまでお知らせください。</code></span><br>
-<em>Setsuzoku furyou ga tsuzuku baai wa, furonto made oshirase kudasai.</em><br>
+
+**接続不良が続く場合は、フロントまでお知らせください。**  
+*Setsuzoku furyou ga tsuzuku baai wa, furonto made oshirase kudasai.*  
 If the poor connection continues, please let the front desk know.
-</div>
 
 ## Related Expressions
 

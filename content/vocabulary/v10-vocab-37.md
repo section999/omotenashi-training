@@ -9,19 +9,17 @@ When a transaction calls for a 暗証番号, the PIN pad should be turned toward
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、暗証番号をご入力ください。</code></span><br>
-<em>Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.</em><br>
+**恐れ入りますが、暗証番号をご入力ください。**  
+*Osoreirimasu ga, anshō bangō o gonyūryoku kudasai.*  
 I apologize for the inconvenience: please enter your PIN.
-<br><br>
-<span class="keigo-jp"><code>端末をお客様の方へお向けいたします。</code></span><br>
-<em>Tanmatsu o okyakusama no hō e omuke itashimasu.</em><br>
+
+**端末をお客様の方へお向けいたします。**  
+*Tanmatsu o okyakusama no hō e omuke itashimasu.*  
 I will turn the terminal toward you.
-<br><br>
-<span class="keigo-jp"><code>暗証番号はお客様ご自身でご入力いただきますようお願いいたします。</code></span><br>
-<em>Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.</em><br>
+
+**暗証番号はお客様ご自身でご入力いただきますようお願いいたします。**  
+*Anshō bangō wa okyakusama gojishin de gonyūryoku itadakimasu yō onegai itashimasu.*  
 We ask that you enter your PIN yourself.
-</div>
 
 ## Related Expressions
 

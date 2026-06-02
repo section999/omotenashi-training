@@ -9,19 +9,17 @@ Handling these requests both proactively and transparently is important. If a gu
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>早朝チェックインをご希望の場合、追加料金が発生する場合がございます。</code></span><br>
-<em>Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.</em><br>
+**早朝チェックインをご希望の場合、追加料金が発生する場合がございます。**  
+*Sōchō chekku-in wo go-kibō no baai, tsuika ryōkin ga hassei suru baai ga gozaimasu.*  
 If you would like early check-in, an additional charge may apply.
-<br><br>
-<span class="keigo-jp"><code>お部屋の準備が整い次第、早朝チェックインのご案内をいたします。</code></span><br>
-<em>O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.</em><br>
+
+**お部屋の準備が整い次第、早朝チェックインのご案内をいたします。**  
+*O-heya no junbi ga totonoi shidai, sōchō chekku-in no go-annai wo itashimasu.*  
 We will guide you to the room as soon as it is ready for early check-in.
-<br><br>
-<span class="keigo-jp"><code>早朝チェックインのご予約はお済みでしょうか。</code></span><br>
-<em>Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.</em><br>
+
+**早朝チェックインのご予約はお済みでしょうか。**  
+*Sōchō chekku-in no go-yoyaku wa o-sumi deshō ka.*  
 Have you made a reservation for early check-in?
-</div>
 
 ## Related Expressions
 

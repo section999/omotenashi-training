@@ -9,19 +9,17 @@ Beyond basic recommendations, good hospitality staff understand the seasonal dyn
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。</code></span><br>
-<em>Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.</em><br>
+**近くの観光地へは、当ホテルの無料シャトルバスでご案内しております。**  
+*Chikaku no kankouchi e wa, tou hoteru no muryou shatoru basu de goannai shite orimasu.*  
 We provide guided access to nearby tourist spots via our complimentary hotel shuttle.
-<br><br>
-<span class="keigo-jp"><code>このあたりの観光地をまとめたマップを無料でお配りしております。</code></span><br>
-<em>Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.</em><br>
+
+**このあたりの観光地をまとめたマップを無料でお配りしております。**  
+*Kono atari no kankouchi wo matometa mappu wo muryou de okubari shite orimasu.*  
 We offer a free map featuring the tourist spots in this area.
-<br><br>
-<span class="keigo-jp"><code>観光地によっては入場料が必要な場合がございますので、事前にご確認ください。</code></span><br>
-<em>Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.</em><br>
+
+**観光地によっては入場料が必要な場合がございますので、事前にご確認ください。**  
+*Kankouchi ni yotte wa nyuujouryou ga hitsuyou na baai ga gozaimasu node, jizen ni gokakunin kudasai.*  
 Some tourist spots have an admission fee, so please check in advance.
-</div>
 
 ## Related Expressions
 

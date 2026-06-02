@@ -10,19 +10,17 @@ When a 故障 is reported or discovered, the standard procedure is to confirm th
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エレベーターが故障中のため、ご不便をおかけして大変申し訳ございません。</code></span><br>
-<em>Erebeetaa ga koshou-chuu no tame, go-fuben wo okake shite taihen moushiwake gozaimasen.</em><br>
+**エレベーターが故障中のため、ご不便をおかけして大変申し訳ございません。**  
+*Erebeetaa ga koshou-chuu no tame, go-fuben wo okake shite taihen moushiwake gozaimasen.*  
 The elevator is currently out of order, and we sincerely apologise for the inconvenience.
-<br><br>
-<span class="keigo-jp"><code>ご客室のエアコンの故障を確認いたしました。ただいま修理の手配をしております。</code></span><br>
-<em>Go-kyakushitsu no eakon no koshou wo kakunin itashimashita. Tadaima shuuri no tehai wo shite orimasu.</em><br>
+
+**ご客室のエアコンの故障を確認いたしました。ただいま修理の手配をしております。**  
+*Go-kyakushitsu no eakon no koshou wo kakunin itashimashita. Tadaima shuuri no tehai wo shite orimasu.*  
 We have confirmed that the air conditioner in the room is malfunctioning. We are currently arranging for repairs.
-<br><br>
-<span class="keigo-jp"><code>設備の故障が発生した場合は、すぐにフロントまでお知らせいただけますと幸いです。</code></span><br>
-<em>Setsubi no koshou ga hassei shita baai wa, sugu ni furonto made o-shirase itadakemasu to saiwai desu.</em><br>
+
+**設備の故障が発生した場合は、すぐにフロントまでお知らせいただけますと幸いです。**  
+*Setsubi no koshou ga hassei shita baai wa, sugu ni furonto made o-shirase itadakemasu to saiwai desu.*  
 If any equipment breaks down, we would be grateful if one could let the front desk know immediately.
-</div>
 
 ## Related Expressions
 

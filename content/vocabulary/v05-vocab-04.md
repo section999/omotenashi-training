@@ -9,19 +9,17 @@ Because 夕食 often involves advance reservations, table assignments, and menu 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご夕食は18時より大広間にてご用意しております。</code></span><br>
-<em>Go-yuushoku wa juuhachi-ji yori ohiroma nite go-youi shite orimasu.</em><br>
+**ご夕食は18時より大広間にてご用意しております。**  
+*Go-yuushoku wa juuhachi-ji yori ohiroma nite go-youi shite orimasu.*  
 Dinner is prepared in the main hall from 6:00 p.m.
-<br><br>
-<span class="keigo-jp"><code>夕食の開始時間は事前にお部屋にてお伺いいたします。</code></span><br>
-<em>Yuushoku no kaishi jikan wa jizen ni o-heya nite o-ukagai itashimasu.</em><br>
+
+**夕食の開始時間は事前にお部屋にてお伺いいたします。**  
+*Yuushoku no kaishi jikan wa jizen ni o-heya nite o-ukagai itashimasu.*  
 We will ask your preferred dinner start time in advance at the room.
-<br><br>
-<span class="keigo-jp"><code>本日の夕食には旬の食材を使ったお料理をご用意しております。</code></span><br>
-<em>Honjitsu no yuushoku ni wa shun no shokuzai wo tsukatta o-ryouri wo go-youi shite orimasu.</em><br>
+
+**本日の夕食には旬の食材を使ったお料理をご用意しております。**  
+*Honjitsu no yuushoku ni wa shun no shokuzai wo tsukatta o-ryouri wo go-youi shite orimasu.*  
 Tonight's dinner features dishes prepared with seasonal ingredients.
-</div>
 
 ## Related Expressions
 

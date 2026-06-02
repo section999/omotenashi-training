@@ -10,19 +10,17 @@ In daily restaurant and room service work, staff refer to ナイフ when setting
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お料理に合わせてナイフとフォークをご用意いたします。</code></span><br>
-<em>O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.</em><br>
+**お料理に合わせてナイフとフォークをご用意いたします。**  
+*O-ryouri ni awasete naifu to fooku wo go-youi itashimasu.*  
 We will prepare a knife and fork to match your dish.
-<br><br>
-<span class="keigo-jp"><code>ナイフが必要でございましたら、すぐにお持ちいたします。</code></span><br>
-<em>Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.</em><br>
+
+**ナイフが必要でございましたら、すぐにお持ちいたします。**  
+*Naifu ga hitsuyou de gozaimashita ra, sugu ni o-mochi itashimasu.*  
 If you need a knife, I will bring one right away.
-<br><br>
-<span class="keigo-jp"><code>ステーキナイフをご用意してもよろしいでしょうか。</code></span><br>
-<em>Suteeki naifu wo go-youi shite mo yoroshii deshou ka.</em><br>
+
+**ステーキナイフをご用意してもよろしいでしょうか。**  
+*Suteeki naifu wo go-youi shite mo yoroshii deshou ka.*  
 May I prepare a steak knife for you?
-</div>
 
 ## Related Expressions
 

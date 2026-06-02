@@ -9,19 +9,17 @@ Staff most commonly offer 利用明細 at checkout, either as a printed document
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご精算時に利用明細をお渡しいたします。</code></span><br>
-<em>Go-seisan-ji ni riyou meisai o owatashi itashimasu.</em><br>
+**ご精算時に利用明細をお渡しいたします。**  
+*Go-seisan-ji ni riyou meisai o owatashi itashimasu.*  
 We will provide your usage statement at checkout.
-<br><br>
-<span class="keigo-jp"><code>利用明細はメールにてお送りすることも可能でございます。</code></span><br>
-<em>Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.</em><br>
+
+**利用明細はメールにてお送りすることも可能でございます。**  
+*Riyou meisai wa meeru nite okuri suru koto mo kanou de gozaimasu.*  
 We can also send your usage statement by email.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、利用明細をご確認ください。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.</em><br>
+
+**ご不明な点がございましたら、利用明細をご確認ください。**  
+*Go-fumeina ten ga gozaimashitara, riyou meisai o go-kakunin kudasai.*  
 If you have any questions, please refer to your usage statement.
-</div>
 
 ## Related Expressions
 

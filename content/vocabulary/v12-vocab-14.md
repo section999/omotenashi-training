@@ -10,19 +10,17 @@ When a guest reports feeling ill, staff should ask about their symptoms clearly 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。</code></span><br>
-<em>Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.</em><br>
+**お客様がご気分がお悪いとのことで、ただいまお医者様を手配しております。**  
+*Okyakusama ga gokibun ga owaru i to no koto de, tadaima oishasha-sama wo tehai shite orimasu.*  
 A guest is feeling unwell, and we are currently arranging a doctor.
-<br><br>
-<span class="keigo-jp"><code>病気の症状がございましたら、すぐにフロントまでお知らせください。</code></span><br>
-<em>Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.</em><br>
+
+**病気の症状がございましたら、すぐにフロントまでお知らせください。**  
+*Byouki no shoujou ga gozaimashitara, sugu ni furonto made oshirase kudasai.*  
 If you experience any symptoms of illness, please inform the front desk immediately.
-<br><br>
-<span class="keigo-jp"><code>お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。</code></span><br>
-<em>Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.</em><br>
+
+**お子様がご病気になりましたら、最寄りの小児科病院へご案内いたします。**  
+*Okosama ga go-byouki ni narimashitara, moyori no shōnika byouin e goannai itashimasu.*  
 If your child falls ill, we will direct you to the nearest paediatric hospital.
-</div>
 
 ## Related Expressions
 

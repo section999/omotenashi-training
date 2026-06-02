@@ -9,19 +9,17 @@ In daily operations, housekeeping staff work from printed checklists to track wh
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>アメニティの補充は、毎日の清掃時に行っております。</code></span><br>
-<em>Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.</em><br>
+**アメニティの補充は、毎日の清掃時に行っております。**  
+*Ameniti no hojuu wa, mainichi no seisou ji ni okonatte orimasu.*  
 Replenishment of amenities is carried out during the daily cleaning.
-<br><br>
-<span class="keigo-jp"><code>ミニバーの補充が必要かどうか、確認してまいります。</code></span><br>
-<em>Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.</em><br>
+
+**ミニバーの補充が必要かどうか、確認してまいります。**  
+*Minibaа no hojuu ga hitsuyou ka douka, kakunin shite mairimasu.*  
 I will go and check whether the minibar needs to be restocked.
-<br><br>
-<span class="keigo-jp"><code>お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。</code></span><br>
-<em>Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.</em><br>
+
+**お茶の補充をご希望でしたら、いつでもフロントにお申し付けください。**  
+*Ocha no hojuu wo gokibou deshitara, itsudemo furonto ni omoushitsuke kudasai.*  
 If you would like your tea replenished, please let the front desk know at any time.
-</div>
 
 ## Related Expressions
 

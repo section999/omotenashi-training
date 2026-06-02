@@ -10,19 +10,17 @@ Keeping track of 残高 is a quiet but critical part of smooth hospitality opera
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>現在のご残高は〇〇円でございます。</code></span><br>
-<em>Genzai no go-zandaka wa 〇〇-en de gozaimasu.</em><br>
+**現在のご残高は〇〇円でございます。**  
+*Genzai no go-zandaka wa 〇〇-en de gozaimasu.*  
 Your current balance is 〇〇 yen.
-<br><br>
-<span class="keigo-jp"><code>残高が不足している場合はお知らせいたします。</code></span><br>
-<em>Zandaka ga fusoku shite iru baai wa oshirase itashimasu.</em><br>
+
+**残高が不足している場合はお知らせいたします。**  
+*Zandaka ga fusoku shite iru baai wa oshirase itashimasu.*  
 We will notify you if your balance is insufficient.
-<br><br>
-<span class="keigo-jp"><code>プリペイドカードの残高をご確認いただけますか。</code></span><br>
-<em>Puripeido kaado no zandaka o go-kakunin itadakemasu ka.</em><br>
+
+**プリペイドカードの残高をご確認いただけますか。**  
+*Puripeido kaado no zandaka o go-kakunin itadakemasu ka.*  
 Could you please check the balance on your prepaid card?
-</div>
 
 ## Related Expressions
 

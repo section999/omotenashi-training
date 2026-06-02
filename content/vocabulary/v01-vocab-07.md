@@ -13,19 +13,17 @@ The phrase covers a wide range of situations, all sharing the same underlying lo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>失礼いたします。お部屋にご案内いたします。</code></span><br>
-<em>Shitsurei itashimasu. O-heya ni go-annai itashimasu.</em><br>
+**失礼いたします。お部屋にご案内いたします。**  
+*Shitsurei itashimasu. O-heya ni go-annai itashimasu.*  
 Excuse me. I will show you to the room.
-<br><br>
-<span class="keigo-jp"><code>失礼いたします。少々お時間をいただいてもよろしいでしょうか。</code></span><br>
-<em>Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.</em><br>
+
+**失礼いたします。少々お時間をいただいてもよろしいでしょうか。**  
+*Shitsurei itashimasu. Shōshō o-jikan wo itadaite mo yoroshii deshō ka.*  
 Excuse me. May I take a moment of your time?
-<br><br>
-<span class="keigo-jp"><code>失礼いたします。（ドアをノックして部屋に入る際に）</code></span><br>
-<em>Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)</em><br>
+
+**失礼いたします。（ドアをノックして部屋に入る際に）**  
+*Shitsurei itashimasu. (Doa wo nokku shite heya ni hairu sai ni)*  
 Excuse me.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ When staff need to make the request themselves, framing it with an apology is re
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか。</code></span><br>
-<em>Moushiwake gozaimasen ga, mou sukoshi yukkuri ohanashi itadakemasu deshou ka.</em><br>
+**申し訳ございませんが、もう少しゆっくりお話しいただけますでしょうか。**  
+*Moushiwake gozaimasen ga, mou sukoshi yukkuri ohanashi itadakemasu deshou ka.*  
 I sincerely apologize, but could you please speak a little more slowly?
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、ゆっくり話してください。何度でもお聞きいたします。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, yukkuri hanashite kudasai. Nandodemo okiki itashimasu.</em><br>
+
+**ご不明な点がございましたら、ゆっくり話してください。何度でもお聞きいたします。**  
+*Go-fumeina ten ga gozaimashitara, yukkuri hanashite kudasai. Nandodemo okiki itashimasu.*  
 If there is anything unclear, please speak slowly. I will listen as many times as necessary.
-<br><br>
-<span class="keigo-jp"><code>少々聞き取りにくい部分がございましたので、ゆっくり話していただきありがとうございます。</code></span><br>
-<em>Shoushou kikitorinikui bubun ga gozaimashita node, yukkuri hanashite itadaki arigatou gozaimasu.</em><br>
+
+**少々聞き取りにくい部分がございましたので、ゆっくり話していただきありがとうございます。**  
+*Shoushou kikitorinikui bubun ga gozaimashita node, yukkuri hanashite itadaki arigatou gozaimasu.*  
 There were parts that were a little difficult to catch, so thank you very much for speaking slowly.
-</div>
 
 ## Related Expressions
 

@@ -62,10 +62,13 @@ Using only one register is not enough. A hotel interaction that uses only teinei
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>山田様でいらっしゃいますね。</code></span> <span class="keigo-badge info">尊敬語</span><br>
+<em>yamada sama de irasshaimasu ne.</em><br>
 You are Mr./Ms. Yamada, correct?<br><br>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span> <span class="keigo-badge info">丁寧語</span><br>
+<em>kochira ga o-heya no kagi de gozaimasu.</em><br>
 Here is your room key.<br><br>
 <span class="keigo-jp"><code>スタッフがご案内いたします。</code></span> <span class="keigo-badge info">謙譲語</span><br>
+<em>sutaffu ga go-annai itashimasu.</em><br>
 A staff member will guide you.
 </div>
 
@@ -86,12 +89,6 @@ Said while glancing at a screen, mid-task.<br><br>
 Said after pausing, turning toward the guest, with eye contact.<br><br>
 <span class="keigo-badge good">Correct</span> Same phrase. The standard is in the delivery, not just the vocabulary.
 </div>
-</div>
-
-<div class="keigo-card blue">
-A guest should never feel: <em>"This staff member sounds untrained."</em><br><br>
-Not once. Not during a complaint. Not at 2am. Not when the staff member is tired or stressed.<br><br>
-This is why keigo is trained as an operational standard, not left to personality.
 </div>
 
 ---

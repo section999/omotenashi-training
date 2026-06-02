@@ -10,19 +10,17 @@ Direction-giving for エスカレーター needs to include which direction it i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>上りのエスカレーターは正面にございます。足元にお気をつけください。</code></span><br>
-<em>Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.</em><br>
+**上りのエスカレーターは正面にございます。足元にお気をつけください。**  
+*Nobori no esukareetaa wa shoumen ni gozaimasu. Ashimoto ni o-ki wo tsukete kudasai.*  
 The up escalator is straight ahead. Please watch your step.
-<br><br>
-<span class="keigo-jp"><code>大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。</code></span><br>
-<em>Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.</em><br>
+
+**大きなお荷物がございますので、エスカレーターよりエレベーターのご利用をお勧めいたします。**  
+*Ookina o-nimotsu ga gozaimasu no de, esukareetaa yori erebeetaa no go-riyou wo o-susume itashimasu.*  
 As you have large luggage, we recommend using the elevator rather than the escalator.
-<br><br>
-<span class="keigo-jp"><code>ショッピングフロアへは、こちらのエスカレーターで3階までお上がりください。</code></span><br>
-<em>Shoppingu furoa e wa, kochira no esukareetaa de san-kai made o-agari kudasai.</em><br>
+
+**ショッピングフロアへは、こちらのエスカレーターで3階までお上がりください。**  
+*Shoppingu furoa e wa, kochira no esukareetaa de san-kai made o-agari kudasai.*  
 To reach the shopping floor, please take this escalator up to the third floor.
-</div>
 
 ## Related Expressions
 

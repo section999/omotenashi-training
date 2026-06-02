@@ -13,19 +13,17 @@ Two important distinctions: ありがとうございます (present form) is use
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ありがとうございます。ただいまお部屋にご案内いたします。</code></span><br>
-<em>Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.</em><br>
+**ありがとうございます。ただいまお部屋にご案内いたします。**  
+*Arigatō gozaimasu. Tadaima o-heya ni go-annai itashimasu.*  
 Thank you. I will show you to the room now.
-<br><br>
-<span class="keigo-jp"><code>ご予約ありがとうございます。心よりお待ち申し上げております。</code></span><br>
-<em>Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.</em><br>
+
+**ご予約ありがとうございます。心よりお待ち申し上げております。**  
+*Go-yoyaku arigatō gozaimasu. Kokoro yori o-machi mōshiagemasu.*  
 Thank you for your reservation. We look forward to welcoming you.
-<br><br>
-<span class="keigo-jp"><code>この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。</code></span><br>
-<em>Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.</em><br>
+
+**この度はご利用ありがとうございました。またのお越しをお待ち申し上げております。**  
+*Kono tabi wa go-riyō arigatō gozaimashita. Mata no o-koshi wo o-machi mōshiagemasu.*  
 Thank you very much for staying with us. We look forward to welcoming you again.
-</div>
 
 ## Related Expressions
 

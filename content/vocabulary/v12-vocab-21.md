@@ -10,19 +10,17 @@ When something is 点検中, posting a sign is only the first step. Staff should
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>大変申し訳ございませんが、ただいまプールは点検中でございます。</code></span><br>
-<em>Taihen moushiwake gozaimasenga, tadaima puuru wa tenken chuu de gozaimasu.</em><br>
+**大変申し訳ございませんが、ただいまプールは点検中でございます。**  
+*Taihen moushiwake gozaimasenga, tadaima puuru wa tenken chuu de gozaimasu.*  
 We sincerely apologise, but the pool is currently under inspection.
-<br><br>
-<span class="keigo-jp"><code>エレベーターが点検中のため、こちらの階段をご利用くださいますようお願いいたします。</code></span><br>
-<em>Erebeetaa ga tenken chuu no tame, kochira no kaidan wo goriyou kudasaimasuyou onegai itashimasu.</em><br>
+
+**エレベーターが点検中のため、こちらの階段をご利用くださいますようお願いいたします。**  
+*Erebeetaa ga tenken chuu no tame, kochira no kaidan wo goriyou kudasaimasuyou onegai itashimasu.*  
 As the elevator is under inspection, we ask that you please use these stairs.
-<br><br>
-<span class="keigo-jp"><code>点検中のジムの機器は、本日午後3時より再度ご利用いただけます。</code></span><br>
-<em>Tenken chuu no jimu no kiki wa, honjitsu gogo sanji yori saido goriyou itadakemasu.</em><br>
+
+**点検中のジムの機器は、本日午後3時より再度ご利用いただけます。**  
+*Tenken chuu no jimu no kiki wa, honjitsu gogo sanji yori saido goriyou itadakemasu.*  
 The gym equipment currently under inspection will be available again from 3:00 pm today.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Staff evaluations in Japanese hotels typically follow a regular cycle -- monthly
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>今月のサービス品質評価の結果をスタッフ全員と共有いたします。</code></span><br>
-<em>Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.</em><br>
+**今月のサービス品質評価の結果をスタッフ全員と共有いたします。**  
+*Kongetsu no saabisu hinshitsu hyouka no kekka wo sutaffu zen'in to kyouyuu itashimasu.*  
 We will share the results of this month's service quality evaluation with all staff.
-<br><br>
-<span class="keigo-jp"><code>お客様からの評価が高まっているのは、皆様の日々の努力の成果です。</code></span><br>
-<em>Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.</em><br>
+
+**お客様からの評価が高まっているのは、皆様の日々の努力の成果です。**  
+*Okyakusama kara no hyouka ga takamatte iru no wa, minasama no hibi no doryoku no seika desu.*  
 The improvement in our guests' evaluations is a result of everyyour daily efforts.
-<br><br>
-<span class="keigo-jp"><code>定期的な評価を通じて、各スタッフの成長をサポートしてまいります。</code></span><br>
-<em>Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.</em><br>
+
+**定期的な評価を通じて、各スタッフの成長をサポートしてまいります。**  
+*Teikiteki na hyouka wo tsuujite, kaku sutaffu no seichou wo sapooto shite mairimasu.*  
 We will continue to support the growth of each staff member through regular evaluations.
-</div>
 
 ## Related Expressions
 

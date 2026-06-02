@@ -9,19 +9,17 @@ title: フォーク (fooku)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>フォークをお持ちいたします。少々お待ちくださいませ。</code></span><br>
-<em>Fooku wo o-mochi itashimasu. Shoushou o-machi kudasaimase.</em><br>
+**フォークをお持ちいたします。少々お待ちくださいませ。**  
+*Fooku wo o-mochi itashimasu. Shoushou o-machi kudasaimase.*  
 I will bring a fork. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>フォークとナイフのセットをご用意いたしました。</code></span><br>
-<em>Fooku to naifu no setto wo go-youi itashimashita.</em><br>
+
+**フォークとナイフのセットをご用意いたしました。**  
+*Fooku to naifu no setto wo go-youi itashimashita.*  
 I have prepared a set of fork and knife for you.
-<br><br>
-<span class="keigo-jp"><code>デザートフォークもご一緒にお持ちいたしましょうか。</code></span><br>
-<em>Dezaato fooku mo go-issho ni o-mochi itashimashou ka.</em><br>
+
+**デザートフォークもご一緒にお持ちいたしましょうか。**  
+*Dezaato fooku mo go-issho ni o-mochi itashimashou ka.*  
 Shall I also bring a dessert fork along with that?
-</div>
 
 ## Related Expressions
 

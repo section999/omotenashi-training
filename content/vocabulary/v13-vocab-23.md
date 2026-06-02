@@ -10,19 +10,17 @@ Staff 配置 is communicated through a 配置図 (haichi-zu, a placement diagram
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ウェディングパーティーのスタッフ配置を見直し、各エリアに担当者を配置いたしました。</code></span><br>
-<em>Wedingu paatii no sutaffu haichi wo minaooshi, kaku eria ni tantousha wo haichi itashimashita.</em><br>
+**ウェディングパーティーのスタッフ配置を見直し、各エリアに担当者を配置いたしました。**  
+*Wedingu paatii no sutaffu haichi wo minaooshi, kaku eria ni tantousha wo haichi itashimashita.*  
 We reviewed the staff placement for the wedding party and assigned a person in charge to each area.
-<br><br>
-<span class="keigo-jp"><code>イベント当日の配置図をスタッフ全員に共有しておきます。</code></span><br>
-<em>Ibento toujitsu no haichi-zu wo sutaffu zen'in ni kyouyuu shite okimasu.</em><br>
+
+**イベント当日の配置図をスタッフ全員に共有しておきます。**  
+*Ibento toujitsu no haichi-zu wo sutaffu zen'in ni kyouyuu shite okimasu.*  
 I will share the placement diagram for the day of the event with all staff in advance.
-<br><br>
-<span class="keigo-jp"><code>繁忙期には追加スタッフを各フロアに配置し、対応力を高める予定です。</code></span><br>
-<em>Hanbou-ki ni wa tsuika sutaffu wo kaku furoa ni haichi shi, taiouryoku wo takameru yotei desu.</em><br>
+
+**繁忙期には追加スタッフを各フロアに配置し、対応力を高める予定です。**  
+*Hanbou-ki ni wa tsuika sutaffu wo kaku furoa ni haichi shi, taiouryoku wo takameru yotei desu.*  
 During peak season, we plan to place additional staff on each floor to enhance our response capability.
-</div>
 
 ## Related Expressions
 

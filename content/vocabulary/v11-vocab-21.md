@@ -10,19 +10,17 @@ The standard phrase ご用件をお伺いします (may I ask the purpose of the
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご用件をお伺いしてもよろしいですか。</code></span><br>
-<em>Goyouken wo oukagai shite mo yoroshii desu ka.</em><br>
+**ご用件をお伺いしてもよろしいですか。**  
+*Goyouken wo oukagai shite mo yoroshii desu ka.*  
 May I ask the purpose of your call / visit?
-<br><br>
-<span class="keigo-jp"><code>ご用件を承りましたので、担当者にお繋ぎいたします。</code></span><br>
-<em>Goyouken wo uketamawarimashita node, tantousha ni otsunagi itashimasu.</em><br>
+
+**ご用件を承りましたので、担当者にお繋ぎいたします。**  
+*Goyouken wo uketamawarimashita node, tantousha ni otsunagi itashimasu.*  
 I have noted your inquiry and will connect you with the person in charge.
-<br><br>
-<span class="keigo-jp"><code>ご用件は予約のご変更でしょうか。</code></span><br>
-<em>Goyouken wa yoyaku no go-henkou deshou ka.</em><br>
+
+**ご用件は予約のご変更でしょうか。**  
+*Goyouken wa yoyaku no go-henkou deshou ka.*  
 Is your matter regarding a change to your reservation?
-</div>
 
 ## Related Expressions
 

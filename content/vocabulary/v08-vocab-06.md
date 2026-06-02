@@ -10,19 +10,17 @@ When using 交差点 in guidance, specifying what the guest should do at it is i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>交差点を渡って左に曲がってください。</code></span><br>
-<em>Kousaten wo watatte hidari ni magatte kudasai.</em><br>
+**交差点を渡って左に曲がってください。**  
+*Kousaten wo watatte hidari ni magatte kudasai.*  
 Please cross the intersection and turn left.
-<br><br>
-<span class="keigo-jp"><code>二つ目の交差点で信号をお待ちいただき、右にお進みください。</code></span><br>
-<em>Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.</em><br>
+
+**二つ目の交差点で信号をお待ちいただき、右にお進みください。**  
+*Futatsu-me no kousaten de shingou wo o-machi itadaki, migi ni o-susumi kudasai.*  
 At the second intersection, please wait for the signal and then proceed to the right.
-<br><br>
-<span class="keigo-jp"><code>駅はこの交差点を直進すると左手にございます。</code></span><br>
-<em>Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.</em><br>
+
+**駅はこの交差点を直進すると左手にございます。**  
+*Eki wa kono kousaten wo chokushin suru to hidari-te ni gozaimasu.*  
 The station is on the left if one go straight through this intersection.
-</div>
 
 ## Related Expressions
 

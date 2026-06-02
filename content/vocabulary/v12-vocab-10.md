@@ -10,19 +10,17 @@ In daily operations, 安全 shows up in equipment inspections, food hygiene prac
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>安全を確保するため、全ての設備を点検しました。</code></span><br>
-<em>Anzen wo kakuho suru tame, subete no setsubi wo tenken shimashita.</em><br>
+**安全を確保するため、全ての設備を点検しました。**  
+*Anzen wo kakuho suru tame, subete no setsubi wo tenken shimashita.*  
 We inspected all equipment to ensure safety.
-<br><br>
-<span class="keigo-jp"><code>お客様の安全を最優先に考え、台風の接近中は屋外施設を閉鎖しました。</code></span><br>
-<em>Okyakusama no anzen wo saiyuusen ni kangae, taifuu no secchin chuu wa okugai shisetsu wo heisa shimashita.</em><br>
+
+**お客様の安全を最優先に考え、台風の接近中は屋外施設を閉鎖しました。**  
+*Okyakusama no anzen wo saiyuusen ni kangae, taifuu no secchin chuu wa okugai shisetsu wo heisa shimashita.*  
 Prioritising guest safety, we closed the outdoor facilities while the typhoon approached.
-<br><br>
-<span class="keigo-jp"><code>新入スタッフは初日に安全に関する研修を受けなければなりません。</code></span><br>
-<em>Shinnyuu sutaffu wa shonichi ni anzen ni kansuru kenshuu wo ukenakereba narimasen.</em><br>
+
+**新入スタッフは初日に安全に関する研修を受けなければなりません。**  
+*Shinnyuu sutaffu wa shonichi ni anzen ni kansuru kenshuu wo ukenakereba narimasen.*  
 New staff must attend a safety training session on their first day.
-</div>
 
 ## Related Expressions
 

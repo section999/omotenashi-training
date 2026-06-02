@@ -9,19 +9,17 @@ staff will encounter 電話 in instructions such as お電話でのご予約 (re
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お電話ありがとうございます。グランドホテル東京でございます。</code></span><br>
-<em>Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.</em><br>
+**お電話ありがとうございます。グランドホテル東京でございます。**  
+*Odenwa arigatou gozaimasu. Gurando Hoteru Tōkyō de gozaimasu.*  
 Thank you for calling. This is Grand Hotel Tokyo.
-<br><br>
-<span class="keigo-jp"><code>客室から内線電話をかけることができます。</code></span><br>
-<em>Kyakushitsu kara naisen denwa wo kakeru koto ga dekimasu.</em><br>
+
+**客室から内線電話をかけることができます。**  
+*Kyakushitsu kara naisen denwa wo kakeru koto ga dekimasu.*  
 You can make calls from the in-room telephone.
-<br><br>
-<span class="keigo-jp"><code>ご予約のお電話は、午前9時から午後8時の間にお願いいたします。</code></span><br>
-<em>Goyoyaku no odenwa wa, gozen kuji kara gogo hachiji no aida ni onegai itashimasu.</em><br>
+
+**ご予約のお電話は、午前9時から午後8時の間にお願いいたします。**  
+*Goyoyaku no odenwa wa, gozen kuji kara gogo hachiji no aida ni onegai itashimasu.*  
 For reservation calls, please contact us between 9:00 a.m. and 8:00 p.m.
-</div>
 
 ## Related Expressions
 

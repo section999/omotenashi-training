@@ -9,19 +9,17 @@ title: 少々お待ちください (shoushou omachi kudasai)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々お待ちください。ただいまご予約を確認いたします。</code></span><br>
-<em>Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.</em><br>
+**少々お待ちください。ただいまご予約を確認いたします。**  
+*Shoushou o-machi kudasai. Tadaima go-yoyaku wo kakunin itashimasu.*  
 Please wait just a moment. I will check your reservation right now.
-<br><br>
-<span class="keigo-jp"><code>お荷物をお預かりいたします。少々お待ちくださいませ。</code></span><br>
-<em>O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.</em><br>
+
+**お荷物をお預かりいたします。少々お待ちくださいませ。**  
+*O-nimotsu wo o-azukari itashimasu. Shoushou o-machi kudasaimase.*  
 I will take your luggage. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>少々お待ちいただけますか。担当の者にお繋ぎいたします。</code></span><br>
-<em>Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.</em><br>
+
+**少々お待ちいただけますか。担当の者にお繋ぎいたします。**  
+*Shoushou o-machi itadakemasu ka. Tantou no mono ni o-tsunagi itashimasu.*  
 Could you kindly wait just a moment? I will transfer you to the relevant staff member.
-</div>
 
 ## Related Expressions
 

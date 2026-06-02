@@ -9,19 +9,17 @@ confirming 有効 means checking three things: the 有効期限 (expiry date), w
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのバウチャーは有効でございます。</code></span><br>
-<em>Kochira no bauchā wa yūkō de gozaimasu.</em><br>
+**こちらのバウチャーは有効でございます。**  
+*Kochira no bauchā wa yūkō de gozaimasu.*  
 This voucher is valid.
-<br><br>
-<span class="keigo-jp"><code>クーポンの有効期限を確認いたしましたところ、本日もご利用いただけます。</code></span><br>
-<em>Kūpon no yūkō kigen o kakunin itashimashita tokoro, honjitsu mo goriyō itadakemasu.</em><br>
+
+**クーポンの有効期限を確認いたしましたところ、本日もご利用いただけます。**  
+*Kūpon no yūkō kigen o kakunin itashimashita tokoro, honjitsu mo goriyō itadakemasu.*  
 I have checked the coupon's expiry date and it can be used today.
-<br><br>
-<span class="keigo-jp"><code>ご予約は有効でございますので、そのままチェックインいただけます。</code></span><br>
-<em>Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.</em><br>
+
+**ご予約は有効でございますので、そのままチェックインいただけます。**  
+*Goyoyaku wa yūkō de gozaimasu node, sono mama chekku-in itadakemasu.*  
 Your reservation is valid, so one may proceed directly to check-in.
-</div>
 
 ## Related Expressions
 

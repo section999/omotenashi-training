@@ -10,19 +10,17 @@ F&B staff should treat 伝票 management as a core daily skill. Keeping slips or
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この伝票にご署名をいただけますでしょうか。お部屋付けの確認となります。</code></span><br>
-<em>Kono denpyou ni go-shomei wo itadakemasu deshou ka. O-heya tsuke no kakunin to narimasu.</em><br>
+**この伝票にご署名をいただけますでしょうか。お部屋付けの確認となります。**  
+*Kono denpyou ni go-shomei wo itadakemasu deshou ka. O-heya tsuke no kakunin to narimasu.*  
 Could you please sign this slip? It serves as confirmation that the charges will be billed to the room.
-<br><br>
-<span class="keigo-jp"><code>キッチンへの伝票にテーブル番号と注文内容を正確にご記入ください。</code></span><br>
-<em>Kicchin e no denpyou ni teeburu bangou to chuumon naiyou wo seikaku ni go-kinyuu kudasai.</em><br>
+
+**キッチンへの伝票にテーブル番号と注文内容を正確にご記入ください。**  
+*Kicchin e no denpyou ni teeburu bangou to chuumon naiyou wo seikaku ni go-kinyuu kudasai.*  
 Please accurately fill in the table number and order details on the kitchen slip.
-<br><br>
-<span class="keigo-jp"><code>伝票の内容をご確認いただき、不明な点があればお申し付けください。</code></span><br>
-<em>Denpyou no naiyou wo go-kakunin itadaki, fumeina ten ga areba o-moushitsuke kudasai.</em><br>
+
+**伝票の内容をご確認いただき、不明な点があればお申し付けください。**  
+*Denpyou no naiyou wo go-kakunin itadaki, fumeina ten ga areba o-moushitsuke kudasai.*  
 Please check the contents of the slip, and let us know if anything is unclear.
-</div>
 
 ## Related Expressions
 

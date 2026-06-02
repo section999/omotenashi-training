@@ -9,19 +9,17 @@ a senior concierge or front desk supervisor will give 指導 by walking a new hi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>先輩が新人スタッフにフロント業務の指導をしております。</code></span><br>
-<em>Senpai ga shinjin sutaffu ni furonto gyoumu no shidou wo shite orimasu.</em><br>
+**先輩が新人スタッフにフロント業務の指導をしております。**  
+*Senpai ga shinjin sutaffu ni furonto gyoumu no shidou wo shite orimasu.*  
 A senior staff member is providing guidance on front desk operations to the new employee.
-<br><br>
-<span class="keigo-jp"><code>丁寧なご指導のおかげで、業務に自信が持てるようになりました。</code></span><br>
-<em>Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.</em><br>
+
+**丁寧なご指導のおかげで、業務に自信が持てるようになりました。**  
+*Teinei na go-shidou no okage de, gyoumu ni jishin ga moteru you ni narimashita.*  
 Thanks to your thorough guidance, I have grown confident in my duties.
-<br><br>
-<span class="keigo-jp"><code>新人研修では、接客マナーについての指導を重点的に行っています。</code></span><br>
-<em>Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.</em><br>
+
+**新人研修では、接客マナーについての指導を重点的に行っています。**  
+*Shinjin kenshuu de wa, sekkyaku manaa ni tsuite no shidou wo juutenteki ni okonatte imasu.*  
 In new employee training, we focus heavily on guidance regarding guest service etiquette.
-</div>
 
 ## Related Expressions
 

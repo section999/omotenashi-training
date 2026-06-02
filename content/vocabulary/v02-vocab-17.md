@@ -9,19 +9,17 @@ In a hospitality context, staff typically confirm the payment method toward the 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お支払いは現金でよろしいでしょうか。</code></span><br>
-<em>O-shiharai wa genkin de yoroshii deshō ka.</em><br>
+**お支払いは現金でよろしいでしょうか。**  
+*O-shiharai wa genkin de yoroshii deshō ka.*  
 Will cash payment be acceptable?
-<br><br>
-<span class="keigo-jp"><code>現金のみのお取り扱いとなっております。</code></span><br>
-<em>Genkin nomi no o-tori-atsukai to natte orimasu.</em><br>
+
+**現金のみのお取り扱いとなっております。**  
+*Genkin nomi no o-tori-atsukai to natte orimasu.*  
 We only accept cash payments.
-<br><br>
-<span class="keigo-jp"><code>現金でお支払いの場合、お釣りをご用意いたします。</code></span><br>
-<em>Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.</em><br>
+
+**現金でお支払いの場合、お釣りをご用意いたします。**  
+*Genkin de o-shiharai no baai, o-tsuri wo go-yōi itashimasu.*  
 If one is paying by cash, we will prepare your change.
-</div>
 
 ## Related Expressions
 

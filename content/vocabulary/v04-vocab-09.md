@@ -9,19 +9,17 @@ When a guest asks for more 石鹸, staff should respond promptly with polite, hu
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バスルームには石鹸をご用意しております。</code></span><br>
-<em>Basurumu ni wa sekken wo goyo'i shite orimasu.</em><br>
+**バスルームには石鹸をご用意しております。**  
+*Basurumu ni wa sekken wo goyo'i shite orimasu.*  
 Soap is provided in the bathroom.
-<br><br>
-<span class="keigo-jp"><code>石鹸をお持ちいたします。少々お待ちいただけますでしょうか。</code></span><br>
-<em>Sekken wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.</em><br>
+
+**石鹸をお持ちいたします。少々お待ちいただけますでしょうか。**  
+*Sekken wo omochi itashimasu. Shoushou omachi itadakemasu deshou ka.*  
 I will bring you soap. Would you mind waiting just a moment?
-<br><br>
-<span class="keigo-jp"><code>新しい石鹸をバスルームのシンク横にご用意いたしました。</code></span><br>
-<em>Atarashii sekken wo basurumu no shinku yoko ni goyo'i itashimashita.</em><br>
+
+**新しい石鹸をバスルームのシンク横にご用意いたしました。**  
+*Atarashii sekken wo basurumu no shinku yoko ni goyo'i itashimashita.*  
 I have placed a fresh bar of soap next to the bathroom sink.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In a hospitality context, staff most often encounter 支払い at check-out, tho
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お支払いはチェックアウトの際にお願いいたします。</code></span><br>
-<em>O-shiharai wa chekku-auto no sai ni o-negai itashimasu.</em><br>
+**お支払いはチェックアウトの際にお願いいたします。**  
+*O-shiharai wa chekku-auto no sai ni o-negai itashimasu.*  
 We kindly ask that payment be made at the time of check-out.
-<br><br>
-<span class="keigo-jp"><code>お支払いの方法はいかがなさいますか。</code></span><br>
-<em>O-shiharai no hōhō wa ikaga nasaimasu ka.</em><br>
+
+**お支払いの方法はいかがなさいますか。**  
+*O-shiharai no hōhō wa ikaga nasaimasu ka.*  
 How would you like to make your payment?
-<br><br>
-<span class="keigo-jp"><code>本日のお支払い合計は三万円でございます。</code></span><br>
-<em>Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.</em><br>
+
+**本日のお支払い合計は三万円でございます。**  
+*Honjitsu no o-shiharai gōkei wa san-man en de gozaimasu.*  
 Your total payment for today is 30,000 yen.
-</div>
 
 ## Related Expressions
 

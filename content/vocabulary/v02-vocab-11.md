@@ -9,19 +9,17 @@ The same humble language principles that apply to passport requests apply here t
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>身分証明書を拝見してもよろしいでしょうか。</code></span><br>
-<em>Mibun shōmeisho o haiken shite mo yoroshii deshō ka.</em><br>
+**身分証明書を拝見してもよろしいでしょうか。**  
+*Mibun shōmeisho o haiken shite mo yoroshii deshō ka.*  
 May I see your identification?
-<br><br>
-<span class="keigo-jp"><code>運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。</code></span><br>
-<em>Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.</em><br>
+
+**運転免許証や健康保険証など、身分証明書をお持ちでしたら、ご提示をお願いいたします。**  
+*Unten menkyo-shō ya kenkō hoken-shō nado, mibun shōmeisho o o-mochi deshitara, go-teiji o o-negai itashimasu.*  
 If you have an identification document such as a driver's licence or health insurance card, please present it.
-<br><br>
-<span class="keigo-jp"><code>身分証明書はご確認後すぐにお返しいたします。</code></span><br>
-<em>Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.</em><br>
+
+**身分証明書はご確認後すぐにお返しいたします。**  
+*Mibun shōmeisho wa go-kakunin-go sugu ni o-kaeshi itashimasu.*  
 We will return your identification immediately after reviewing it.
-</div>
 
 ## Related Expressions
 
@@ -32,7 +30,7 @@ We will return your identification immediately after reviewing it.
 
 ## Common Mistakes
 
-Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見〜よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. Staff should not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
+Using 身分証明書を見せてください is grammatically fine but sounds like a demand rather than a request; the 拝見○○よろしいでしょうか construction is always the right choice here. A more serious error is requesting 身分証明書 only from guests who appear to be foreign. Japanese hotels are required to verify identity for all guests, and selective requests can easily come across as discriminatory. Staff should not confuse 身分証明書 (identity document) with 在留カード (zairyū kādo, residence card), which is a separate category specific to foreign residents of Japan.
 
 ---
 

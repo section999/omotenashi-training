@@ -10,19 +10,17 @@ In daily restaurant operations, 予約席 are typically marked with reservation 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらは予約席でございます。誠に恐れ入りますが、別のお席へご案内いたします。</code></span><br>
-<em>Kochira wa yoyaku seki de gozaimasu. Makoto ni osore irimasu ga, betsu no o-seki e go-annai itashimasu.</em><br>
+**こちらは予約席でございます。誠に恐れ入りますが、別のお席へご案内いたします。**  
+*Kochira wa yoyaku seki de gozaimasu. Makoto ni osore irimasu ga, betsu no o-seki e go-annai itashimasu.*  
 This is a reserved seat. I am very sorry, but I will guide you to another table.
-<br><br>
-<span class="keigo-jp"><code>窓際のお席は本日すべて予約席となっております。</code></span><br>
-<em>Madogiwa no o-seki wa honjitsu subete yoyaku seki to natte orimasu.</em><br>
+
+**窓際のお席は本日すべて予約席となっております。**  
+*Madogiwa no o-seki wa honjitsu subete yoyaku seki to natte orimasu.*  
 All window seats are reserved today.
-<br><br>
-<span class="keigo-jp"><code>ご予約のお客様のために、予約席をご用意しております。</code></span><br>
-<em>Go-yoyaku no okyaku-sama no tame ni, yoyaku seki wo go-youi shite orimasu.</em><br>
+
+**ご予約のお客様のために、予約席をご用意しております。**  
+*Go-yoyaku no okyaku-sama no tame ni, yoyaku seki wo go-youi shite orimasu.*  
 We have reserved seats prepared for guests with reservations.
-</div>
 
 ## Related Expressions
 

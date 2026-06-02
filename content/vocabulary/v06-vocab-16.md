@@ -10,19 +10,17 @@ Staff typically present パスワード on a printed card in the room, on the ke
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。</code></span><br>
-<em>Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.</em><br>
+**Wi-Fiのパスワードはこちらでございます。どうぞご確認ください。**  
+*Waifai no pasuwaado wa kochira de gozaimasu. Douzo go-kakunin kudasai.*  
 Here is the Wi-Fi password. Please check it.
-<br><br>
-<span class="keigo-jp"><code>パスワードは大文字と小文字を区別してご入力ください。</code></span><br>
-<em>Pasuwaado wa oumoji to komoji wo kubetsu shite go-nyuuryoku kudasai.</em><br>
+
+**パスワードは大文字と小文字を区別してご入力ください。**  
+*Pasuwaado wa oumoji to komoji wo kubetsu shite go-nyuuryoku kudasai.*  
 Please enter the password distinguishing between uppercase and lowercase letters.
-<br><br>
-<span class="keigo-jp"><code>パスワードがご不明の場合は、いつでもフロントへお申しつけください。</code></span><br>
-<em>Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.</em><br>
+
+**パスワードがご不明の場合は、いつでもフロントへお申しつけください。**  
+*Pasuwaado ga go-fumei no baai wa, itsudemo furonto e o-moushitsuke kudasai.*  
 If one is unsure of the password, please contact the front desk at any time.
-</div>
 
 ## Related Expressions
 

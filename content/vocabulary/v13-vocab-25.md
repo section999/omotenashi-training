@@ -10,19 +10,17 @@ A common observation is that Japanese hotels seem to catch errors before they be
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。</code></span><br>
-<em>Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.</em><br>
+**客室のご準備が整いましたら、必ず確認作業を行ってからお客様をご案内ください。**  
+*Kyakushitsu no go-junbi ga totonoimashitara, kanarazu kakunin sagyou wo okonatte kara okyaku-sama wo go-annai kudasai.*  
 Once the guest room is ready, please always carry out the verification check before escorting the guest.
-<br><br>
-<span class="keigo-jp"><code>提出書類の確認作業を徹底することで、ミスを未然に防ぐことができます。</code></span><br>
-<em>Teishutsu shorui no kakunin sagyou wo tettei suru koto de, misu wo mizen ni fusegu koto ga dekimasu.</em><br>
+
+**提出書類の確認作業を徹底することで、ミスを未然に防ぐことができます。**  
+*Teishutsu shorui no kakunin sagyou wo tettei suru koto de, misu wo mizen ni fusegu koto ga dekimasu.*  
 By thoroughly carrying out document verification, mistakes can be prevented before they occur.
-<br><br>
-<span class="keigo-jp"><code>バンケット開始1時間前に会場の確認作業を完了させる予定です。</code></span><br>
-<em>Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.</em><br>
+
+**バンケット開始1時間前に会場の確認作業を完了させる予定です。**  
+*Banketto kaishi ichijikan mae ni kaijou no kakunin sagyou wo kanryou saseru yotei desu.*  
 We plan to complete the venue verification check one hour before the banquet begins.
-</div>
 
 ## Related Expressions
 

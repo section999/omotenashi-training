@@ -9,19 +9,17 @@ The omotenashi approach recommends offering 英語対応 proactively. A well-tra
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>フロントでは英語対応が可能でございます。お気軽にご利用ください。</code></span><br>
-<em>Furonto de wa eigo taiou ga kanou de gozaimasu. Okigaru ni go-riyou kudasai.</em><br>
+**フロントでは英語対応が可能でございます。お気軽にご利用ください。**  
+*Furonto de wa eigo taiou ga kanou de gozaimasu. Okigaru ni go-riyou kudasai.*  
 English support is available at the front desk. Please feel free to use this service.
-<br><br>
-<span class="keigo-jp"><code>英語対応のスタッフが常駐しておりますので、ご安心ください。</code></span><br>
-<em>Eigo taiou no sutaffu ga jouchuu shite orimasu node, go-anshin kudasai.</em><br>
+
+**英語対応のスタッフが常駐しておりますので、ご安心ください。**  
+*Eigo taiou no sutaffu ga jouchuu shite orimasu node, go-anshin kudasai.*  
 English-capable staff are always on duty, so please rest assured.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、英語対応のスタッフがお手伝いいたします。</code></span><br>
-<em>Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.</em><br>
+
+**ご不明な点がございましたら、英語対応のスタッフがお手伝いいたします。**  
+*Go-fumei na ten ga gozaimashitara, eigo taiou no sutaffu ga otetsudai itashimasu.*  
 If you have any questions, an English-speaking staff member will assist you.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Staff mark a room 清掃済み by updating the room management system, placing a
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。</code></span><br>
-<em>Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.</em><br>
+**お部屋の清掃済みの確認が取れましたので、チェックインのご案内ができます。**  
+*Oheya no seisou zumi no kakunin ga toremashita node, chekku-in no goannai ga dekimasu.*  
 We have confirmed that the room has been cleaned, so we can now proceed with check-in.
-<br><br>
-<span class="keigo-jp"><code>この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。</code></span><br>
-<em>Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.</em><br>
+
+**この部屋は清掃済みでございます。どうぞごゆっくりお過ごしください。**  
+*Kono heya wa seisou zumi de gozaimasu. Douzo goyukkuri osugoshi kudasai.*  
 This room has been cleaned. Please enjoy the stay at your leisure.
-<br><br>
-<span class="keigo-jp"><code>清掃済みのお部屋リストを、フロントに提出いたします。</code></span><br>
-<em>Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.</em><br>
+
+**清掃済みのお部屋リストを、フロントに提出いたします。**  
+*Seisou zumi no oheya risuto wo, furonto ni teishutsu itashimasu.*  
 I will submit the list of cleaned rooms to the front desk.
-</div>
 
 ## Related Expressions
 

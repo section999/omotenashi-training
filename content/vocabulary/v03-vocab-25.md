@@ -10,19 +10,17 @@ In a standard room orientation, two phrases carry most of the weight. 「窓か�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>窓からは庭園の景色がご覧いただけます。</code></span><br>
-<em>Mado kara wa teien no keshiki ga go-ran itadakemasu.</em><br>
+**窓からは庭園の景色がご覧いただけます。**  
+*Mado kara wa teien no keshiki ga go-ran itadakemasu.*  
 From the window one can enjoy a view of the garden.
-<br><br>
-<span class="keigo-jp"><code>窓は手前に引いて開けてください。</code></span><br>
-<em>Mado wa temae ni hiite akete kudasai.</em><br>
+
+**窓は手前に引いて開けてください。**  
+*Mado wa temae ni hiite akete kudasai.*  
 Please pull the window toward you to open it.
-<br><br>
-<span class="keigo-jp"><code>安全のため、窓は一定の幅までしか開かない仕様になっております。</code></span><br>
-<em>Anzen no tame, mado wa ittei no haba made shika akanai shiyou ni natte orimasu.</em><br>
+
+**安全のため、窓は一定の幅までしか開かない仕様になっております。**  
+*Anzen no tame, mado wa ittei no haba made shika akanai shiyou ni natte orimasu.*  
 For safety reasons, the window is designed to open only to a certain width.
-</div>
 
 ## Related Expressions
 

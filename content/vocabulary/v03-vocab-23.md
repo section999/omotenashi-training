@@ -9,19 +9,17 @@ During room orientation, staff cover the basics clearly: 「ドアはオート�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。</code></span><br>
-<em>Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.</em><br>
+**ドアはオートロックになっておりますので、お出かけの際はカードキーをお持ちください。**  
+*Doa wa ootoo rokku ni natte orimasu node, o-dekake no sai wa kaado kii wo o-mochi kudasai.*  
 The door is auto-locking, so please take your key card when one go out.
-<br><br>
-<span class="keigo-jp"><code>ドアは内側から鍵を回してください。</code></span><br>
-<em>Doa wa uchigawa kara kagi wo mawashite kudasai.</em><br>
+
+**ドアは内側から鍵を回してください。**  
+*Doa wa uchigawa kara kagi wo mawashite kudasai.*  
 Please lock the door from the inside.
-<br><br>
-<span class="keigo-jp"><code>ご就寝の際は、チェーンロックもご使用いただくと安心でございます。</code></span><br>
-<em>Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.</em><br>
+
+**ご就寝の際は、チェーンロックもご使用いただくと安心でございます。**  
+*Go-shuushin no sai wa, cheen rokku mo go-shiyou itadaku to anshin de gozaimasu.*  
 For added security when sleeping, we recommend also using the chain lock.
-</div>
 
 ## Related Expressions
 

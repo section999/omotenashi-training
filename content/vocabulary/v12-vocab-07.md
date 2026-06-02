@@ -10,19 +10,17 @@ When calling the 警察, staff should give the facility name and full address, d
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>盗難が発生した場合は警察に通報してください。</code></span><br>
-<em>Tounan ga hassei shita baai wa keisatsu ni tsuuhou shite kudasai.</em><br>
+**盗難が発生した場合は警察に通報してください。**  
+*Tounan ga hassei shita baai wa keisatsu ni tsuuhou shite kudasai.*  
 Report to the police if theft occurs.
-<br><br>
-<span class="keigo-jp"><code>お客様のお部屋に不審者が侵入した疑いがありますので、ただちに警察を呼びました。</code></span><br>
-<em>Okyakusama no oheya ni fushinsho ga shinnyuu shita utagaiga arimasu node, tadachi ni keisatsu wo yobimashita.</em><br>
+
+**お客様のお部屋に不審者が侵入した疑いがありますので、ただちに警察を呼びました。**  
+*Okyakusama no oheya ni fushinsho ga shinnyuu shita utagaiga arimasu node, tadachi ni keisatsu wo yobimashita.*  
 There is suspicion that an intruder entered a guest's room, so we have immediately called the police.
-<br><br>
-<span class="keigo-jp"><code>警察が到着するまで、現場を保存し、お客様を別の場所でお待ちいただきました。</code></span><br>
-<em>Keisatsu ga touchaku suru made, genba wo hozon shi, okyakusama wo betsu no basho de omachi itadakimashita.</em><br>
+
+**警察が到着するまで、現場を保存し、お客様を別の場所でお待ちいただきました。**  
+*Keisatsu ga touchaku suru made, genba wo hozon shi, okyakusama wo betsu no basho de omachi itadakimashita.*  
 We preserved the scene and had the guest wait in another location until the police arrived.
-</div>
 
 ## Related Expressions
 

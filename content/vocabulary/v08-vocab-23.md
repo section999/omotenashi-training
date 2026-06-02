@@ -9,19 +9,17 @@ title: 徒歩 (toho)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駅まで徒歩10分です。地図をお持ちいたしましょうか。</code></span><br>
-<em>Eki made toho juppun desu. Chizu o omochi itashimashou ka.</em><br>
+**駅まで徒歩10分です。地図をお持ちいたしましょうか。**  
+*Eki made toho juppun desu. Chizu o omochi itashimashou ka.*  
 It is a 10-minute walk to the station. Shall I bring you a map?
-<br><br>
-<span class="keigo-jp"><code>観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。</code></span><br>
-<em>Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.</em><br>
+
+**観光名所までは徒歩約15分でございます。途中に桜並木がございますのでお楽しみください。**  
+*Kankoumeisho made wa toho yaku juugofun de gozaimasu. Tochuu ni sakura namiki ga gozaimasu node otanoshimi kudasai.*  
 It is approximately a 15-minute walk to the sightseeing landmark. There is a row of cherry trees along the way, so please enjoy them.
-<br><br>
-<span class="keigo-jp"><code>お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。</code></span><br>
-<em>Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.</em><br>
+
+**お荷物がございますので、タクシーはいかがでしょうか。徒歩ですと約20分かかります。**  
+*Onimotsu ga gozaimasu node, takushii wa ikaga deshou ka. Toho desu to yaku nijuppun kakarimasu.*  
 Since you have luggage, how about a taxi? It takes about 20 minutes on foot.
-</div>
 
 ## Related Expressions
 

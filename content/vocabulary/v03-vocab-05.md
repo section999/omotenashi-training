@@ -10,19 +10,17 @@ During check-in, confirming the bed arrangement out loud is a good practice, eve
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。</code></span><br>
-<em>Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.</em><br>
+**ご予約はツインルームでよろしいでしょうか？ベッドがふたつのお部屋でございます。**  
+*Go-yoyaku wa tsuin-ruumu de yoroshii deshou ka? Beddo ga futatsu no o-heya de gozaimasu.*  
 Is your reservation for a twin room? It is a room with two beds.
-<br><br>
-<span class="keigo-jp"><code>ツインルームは四階にございます。エレベーターでお越しください。</code></span><br>
-<em>Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.</em><br>
+
+**ツインルームは四階にございます。エレベーターでお越しください。**  
+*Tsuin-ruumu wa yon-kai ni gozaimasu. Erebeetaa de o-koshi kudasai.*  
 The twin room is on the fourth floor. Please take the elevator.
-<br><br>
-<span class="keigo-jp"><code>本日はツインルームへのアップグレードをご提供できますので、いかがでしょうか？</code></span><br>
-<em>Honjitsu wa tsuin-ruumu e no appugureedu wo go-teikyou dekimasu no de, ikaga deshou ka?</em><br>
+
+**本日はツインルームへのアップグレードをご提供できますので、いかがでしょうか？**  
+*Honjitsu wa tsuin-ruumu e no appugureedu wo go-teikyou dekimasu no de, ikaga deshou ka?*  
 We can offer you an upgrade to a twin room today: would you like that?
-</div>
 
 ## Related Expressions
 

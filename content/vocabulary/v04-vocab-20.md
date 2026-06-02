@@ -9,19 +9,17 @@ In hotel operations, 点検 takes many forms: daily room checks before guest arr
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>安全のため、定期的に設備の点検を行っております。</code></span><br>
-<em>Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.</em><br>
+**安全のため、定期的に設備の点検を行っております。**  
+*Anzen no tame, teikiteki ni setsubi no tenken wo okonatte orimasu.*  
 For safety, we conduct regular inspections of the facilities.
-<br><br>
-<span class="keigo-jp"><code>チェックイン前に客室の点検を完了いたしました。</code></span><br>
-<em>Chekkuin mae ni kyakushitsu no tenken wo kanryou itashimashita.</em><br>
+
+**チェックイン前に客室の点検を完了いたしました。**  
+*Chekkuin mae ni kyakushitsu no tenken wo kanryou itashimashita.*  
 We have completed the room inspection prior to check-in.
-<br><br>
-<span class="keigo-jp"><code>ただいまエレベーターの点検中でございます。ご不便をおかけして申し訳ございません。</code></span><br>
-<em>Tadaima erebeetaa no tenken-chuu de gozaimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.</em><br>
+
+**ただいまエレベーターの点検中でございます。ご不便をおかけして申し訳ございません。**  
+*Tadaima erebeetaa no tenken-chuu de gozaimasu. Go-fuben wo o-kake shite moushiwake gozaimasen.*  
 The elevator is currently under inspection. We sincerely apologize for the inconvenience.
-</div>
 
 ## Related Expressions
 

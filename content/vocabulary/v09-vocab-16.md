@@ -9,19 +9,17 @@ The プラン should be referred to by its actual name rather than saying "their
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様は朝食付きスタンダードプランでご予約いただいております。</code></span><br>
-<em>O-kyaku-sama wa choushoku-tsuki sutandaado puran de go-yoyaku itadaite orimasu.</em><br>
+**お客様は朝食付きスタンダードプランでご予約いただいております。**  
+*O-kyaku-sama wa choushoku-tsuki sutandaado puran de go-yoyaku itadaite orimasu.*  
 You have a reservation under the Standard Plan with Breakfast.
-<br><br>
-<span class="keigo-jp"><code>こちらのプランには夕食と温泉入浴が含まれております。</code></span><br>
-<em>Kochira no puran ni wa yuushoku to onsen nyuuyoku ga fukumarete orimasu.</em><br>
+
+**こちらのプランには夕食と温泉入浴が含まれております。**  
+*Kochira no puran ni wa yuushoku to onsen nyuuyoku ga fukumarete orimasu.*  
 This plan includes dinner and onsen bathing.
-<br><br>
-<span class="keigo-jp"><code>プランの内容についてご不明な点がございましたら、いつでもお申し付けください。</code></span><br>
-<em>Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.</em><br>
+
+**プランの内容についてご不明な点がございましたら、いつでもお申し付けください。**  
+*Puran no naiyou ni tsuite go-fumei na ten ga gozaimashitara, itsudemo o-moushitsuke kudasai.*  
 If you have any questions about the contents of your plan, please feel free to let us know at any time.
-</div>
 
 ## Related Expressions
 

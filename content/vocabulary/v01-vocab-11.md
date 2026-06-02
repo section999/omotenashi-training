@@ -13,19 +13,17 @@ The word almost always comes with a physical gesture. Presenting an item with bo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお部屋の鍵でございます。どうぞ。</code></span><br>
-<em>Kochira ga o-heya no kagi de gozaimasu. Dōzo.</em><br>
+**こちらがお部屋の鍵でございます。どうぞ。**  
+*Kochira ga o-heya no kagi de gozaimasu. Dōzo.*  
 Here is the room key. Please.
-<br><br>
-<span class="keigo-jp"><code>こちらのお席にどうぞ。</code></span><br>
-<em>Kochira no o-seki ni dōzo.</em><br>
+
+**こちらのお席にどうぞ。**  
+*Kochira no o-seki ni dōzo.*  
 Please take this seat.
-<br><br>
-<span class="keigo-jp"><code>温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。</code></span><br>
-<em>Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.</em><br>
+
+**温かいお飲み物でございます。どうぞ、ごゆっくりどうぞ。**  
+*Atatakai o-nomimono de gozaimasu. Dōzo, goyukkuri dōzo.*  
 Here is a warm drink for you. Please, take your time and enjoy.
-</div>
 
 ## Related Expressions
 

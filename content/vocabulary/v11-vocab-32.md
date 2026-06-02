@@ -9,19 +9,17 @@ title: 日本語対応 (nihongo taiou)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>海外のお客様にも、日本語対応のスタッフがご対応いたします。</code></span><br>
-<em>Kaigai no okyakusama ni mo, nihongo taiou no sutaffu ga go-taiou itashimasu.</em><br>
+**海外のお客様にも、日本語対応のスタッフがご対応いたします。**  
+*Kaigai no okyakusama ni mo, nihongo taiou no sutaffu ga go-taiou itashimasu.*  
 For overseas guests as well, Japanese-speaking staff will be available to assist you.
-<br><br>
-<span class="keigo-jp"><code>日本語対応可能なコンシェルジュが、ご滞在中いつでもお手伝いします。</code></span><br>
-<em>Nihongo taiou kanou na konsheruju ga, go-taizaichuu itsudemo otetsudai shimasu.</em><br>
+
+**日本語対応可能なコンシェルジュが、ご滞在中いつでもお手伝いします。**  
+*Nihongo taiou kanou na konsheruju ga, go-taizaichuu itsudemo otetsudai shimasu.*  
 A Japanese-capable concierge is available at any time during the stay.
-<br><br>
-<span class="keigo-jp"><code>ご予約の際に日本語対応をご希望の場合は、あらかじめお知らせください。</code></span><br>
-<em>Go-yoyaku no sai ni nihongo taiou wo go-kibou no baai wa, arakajime oshirase kudasai.</em><br>
+
+**ご予約の際に日本語対応をご希望の場合は、あらかじめお知らせください。**  
+*Go-yoyaku no sai ni nihongo taiou wo go-kibou no baai wa, arakajime oshirase kudasai.*  
 If you wish to have Japanese-language support at the time of booking, please let us know in advance.
-</div>
 
 ## Related Expressions
 

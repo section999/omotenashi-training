@@ -385,6 +385,12 @@
     [data-theme="light"] .keigo-card.amber .keigo-card-title { color: #b8860b; }
     [data-theme="light"] .keigo-card.red .keigo-card-title { color: #c5442a; }
     [data-theme="light"] .keigo-pair > div { background: #fafafa; }
+    /* ── PHRASE BLOCK ────────────────────────────────────────────── */
+    .phrase-block { background: var(--bg-tertiary); border: 1px solid var(--border-default); border-left: 4px solid var(--accent-blue); border-radius: 8px; padding: 14px 18px; margin: 1rem 0; }
+    .phrase-jp { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: var(--text-primary); }
+    .phrase-romaji { font-style: italic; color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 4px; }
+    .phrase-en { color: var(--text-primary); font-size: 0.9rem; }
+    [data-theme="light"] .phrase-block { background: #f5f6f7; border-color: #d8d8e0; }
     [data-theme="light"] .keigo-pair .bad-col { background: rgba(197,68,42,0.04); }
     [data-theme="light"] .keigo-pair .good-col { background: rgba(26,144,88,0.04); }
     /* ── DIALOGUE EN (inline meaning) ──────────────────────────── */
@@ -3130,13 +3136,18 @@ async function render() {
 
   // Wrap Japanese terms in table first-cells with clickable speak spans
   bodyHtml = bodyHtml.replace(
-    /<td>([\u3040-\u30ff\u3400-\u9fff\uff00-\uffef\u3000-\u303f\u30a0-\u30ff\u3005]+)(<br>|<\/td>)/g,
+    /<td>([\u3040-\u30ff\u3400-\u9fff\uff00-\uffef\u3000-\u303f\u30a0-\u30ff\u3005\u25a0-\u25ff]+)(<br>|<\/td>)/g,
     '<td><span class="jp-speak">$1</span>$2'
   );
   // Wrap Example Sentences Japanese text in keigo-jp code blocks with jp-speak
   bodyHtml = bodyHtml.replace(
     /<span class="keigo-jp"><code>([\s\S]*?)<\/code><\/span>/g,
     '<span class="keigo-jp"><span class="jp-speak">$1</span></span>'
+  );
+  // Detect phrase blocks: **JP**  (hard br) *romaji*  (hard br) English
+  bodyHtml = bodyHtml.replace(
+    /<p><strong>([\s\S]*?)<\/strong><br>\n<em>([\s\S]*?)<\/em><br>\n([\s\S]*?)<\/p>/g,
+    (_, jp, romaji, en) => `<div class="phrase-block"><div class="phrase-jp"><span class="jp-speak">${jp.trim()}</span></div><div class="phrase-romaji">${romaji.trim()}</div><div class="phrase-en">${en.trim()}</div></div>`
   );
 
   const stepIndicator = (sectionNum && total)
@@ -3370,7 +3381,10 @@ async function render() {
           const isStaff = line.classList.contains('dialogue-staff');
           const bubble = line.querySelector('.dialogue-bubble');
           if (!bubble) return;
-          const t = bubble.textContent.trim();
+          const clone = bubble.cloneNode(true);
+          const enDiv = clone.querySelector('.dialogue-en');
+          if (enDiv) enDiv.remove();
+          const t = clone.textContent.trim();
           if (t) turns.push({ role: isStaff ? 'staff' : 'guest', text: t });
         });
         if (!turns.length) return;

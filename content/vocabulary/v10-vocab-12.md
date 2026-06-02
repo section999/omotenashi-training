@@ -10,19 +10,17 @@ The distinction from 領収書 (receipt) matters both procedurally and legally. 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>請求書は後日、ご担当者様宛にメールにてお送りいたします。</code></span><br>
-<em>Seikyuusho wa gojitsu, go-tantousha-sama ate ni meeru nite o-okuri itashimasu.</em><br>
+**請求書は後日、ご担当者様宛にメールにてお送りいたします。**  
+*Seikyuusho wa gojitsu, go-tantousha-sama ate ni meeru nite o-okuri itashimasu.*  
 We will send the invoice by email to the person in charge at a later date.
-<br><br>
-<span class="keigo-jp"><code>請求書のお支払い期限は、発行日より30日以内でございます。</code></span><br>
-<em>Seikyuusho no o-shiharai kigen wa, hakkou bi yori sanjuu nichi inai de gozaimasu.</em><br>
+
+**請求書のお支払い期限は、発行日より30日以内でございます。**  
+*Seikyuusho no o-shiharai kigen wa, hakkou bi yori sanjuu nichi inai de gozaimasu.*  
 The payment due date on the invoice is within 30 days of the issue date.
-<br><br>
-<span class="keigo-jp"><code>ご確認の上、お振込みをお願いいたします。</code></span><br>
-<em>Go-kakunin no ue, o-furikomi wo o-negai itashimasu.</em><br>
+
+**ご確認の上、お振込みをお願いいたします。**  
+*Go-kakunin no ue, o-furikomi wo o-negai itashimasu.*  
 Please review the invoice and arrange payment by bank transfer.
-</div>
 
 ## Related Expressions
 

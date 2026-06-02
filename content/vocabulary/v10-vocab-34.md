@@ -9,19 +9,17 @@ Staff need to know which 電子決済 methods the property accepts and where the
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>電子決済はPayPayとクレジットカードがご利用いただけます。</code></span><br>
-<em>Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.</em><br>
+**電子決済はPayPayとクレジットカードがご利用いただけます。**  
+*Denshi kessai wa PayPay to kurejitto kādo ga goriyō itadakemasu.*  
 For electronic payment, we accept PayPay and credit cards.
-<br><br>
-<span class="keigo-jp"><code>こちらのQRコードをスキャンして電子決済をお願いします。</code></span><br>
-<em>Kochira no kyūāru kōdo o sukyan shite denshi kessai o onegai shimasu.</em><br>
+
+**こちらのQRコードをスキャンして電子決済をお願いします。**  
+*Kochira no kyūāru kōdo o sukyan shite denshi kessai o onegai shimasu.*  
 Please scan this QR code to complete the electronic payment.
-<br><br>
-<span class="keigo-jp"><code>ただいま電子決済のシステムに不具合が生じておりまして、大変申し訳ございません。</code></span><br>
-<em>Tadaima denshi kessai no shisutemu ni fuguai ga shōjite orimashite, taihen mōshiwake gozaimasen.</em><br>
+
+**ただいま電子決済のシステムに不具合が生じておりまして、大変申し訳ございません。**  
+*Tadaima denshi kessai no shisutemu ni fuguai ga shōjite orimashite, taihen mōshiwake gozaimasen.*  
 We are currently experiencing a technical issue with our electronic payment system, and we sincerely apologize for the inconvenience.
-</div>
 
 ## Related Expressions
 

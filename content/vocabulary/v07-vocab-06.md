@@ -10,19 +10,17 @@ In daily hotel operations, 近く appears in responses to questions about the su
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駅はホテルの近くにございます。徒歩で約5分でございます。</code></span><br>
-<em>Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.</em><br>
+**駅はホテルの近くにございます。徒歩で約5分でございます。**  
+*Eki wa hoteru no chikaku ni gozaimasu. Toho de yaku go-fun de gozaimasu.*  
 The station is near the hotel: approximately a five-minute walk.
-<br><br>
-<span class="keigo-jp"><code>ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。</code></span><br>
-<em>Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.</em><br>
+
+**ご夕食には、ホテルの近くに評判のよい和食のお店がいくつかございます。**  
+*Go-yuushoku ni wa, hoteru no chikaku ni hyouban no yoi washoku no o-mise ga ikutsuka gozaimasu.*  
 For dinner, there are several well-regarded Japanese restaurants near the hotel.
-<br><br>
-<span class="keigo-jp"><code>コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。</code></span><br>
-<em>Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.</em><br>
+
+**コンビニエンスストアはすぐ近くでございますので、ご不便はないかと存じます。**  
+*Konbiniensu sutoa wa sugu chikaku de gozaimasu node, go-fuben wa nai ka to zonjimasu.*  
 There is a convenience store just nearby, so I trust one will find everything you need.
-</div>
 
 ## Related Expressions
 

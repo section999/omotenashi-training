@@ -10,19 +10,17 @@ When directing guests to 地下, specifying the elevator button or stair access 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駐車場は地下にございます。</code></span><br>
-<em>Chuushajou wa chika ni gozaimasu.</em><br>
+**駐車場は地下にございます。**  
+*Chuushajou wa chika ni gozaimasu.*  
 The parking lot is in the basement.
-<br><br>
-<span class="keigo-jp"><code>フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。</code></span><br>
-<em>Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.</em><br>
+
+**フィットネスセンターは地下一階にございます。エレベーターのB1ボタンをお押しください。**  
+*Fittonesu sentaa wa chika ikkai ni gozaimasu. Erebeetaa no B-wan botan wo o-oshi kudasai.*  
 The fitness center is on basement level 1. Please press the B1 button in the elevator.
-<br><br>
-<span class="keigo-jp"><code>ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。</code></span><br>
-<em>Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.</em><br>
+
+**ランドリーは地下にございます。階段をご利用の場合はこちらからどうぞ。**  
+*Randorii wa chika ni gozaimasu. Kaidan wo go-riyou no baai wa kochira kara douzo.*  
 The laundry room is in the basement. If you prefer the stairs, please use these.
-</div>
 
 ## Related Expressions
 

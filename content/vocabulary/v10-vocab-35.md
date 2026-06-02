@@ -9,19 +9,17 @@ When guiding a guest through a QRコード payment, staff should present the cod
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのQRコードでお支払いいただけます。</code></span><br>
-<em>Kochira no kyūāru kōdo de oshiharai itadakemasu.</em><br>
+**こちらのQRコードでお支払いいただけます。**  
+*Kochira no kyūāru kōdo de oshiharai itadakemasu.*  
 You can pay using this QR code.
-<br><br>
-<span class="keigo-jp"><code>スマートフォンのカメラでQRコードをお読み取りください。</code></span><br>
-<em>Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.</em><br>
+
+**スマートフォンのカメラでQRコードをお読み取りください。**  
+*Sumātofon no kamera de kyūāru kōdo o oyomitori kudasai.*  
 Please scan the QR code with your smartphone camera.
-<br><br>
-<span class="keigo-jp"><code>お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。</code></span><br>
-<em>Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.</em><br>
+
+**お支払い金額がアプリ上でご確認いただけましたら、決済をお進めください。**  
+*Oshiharai kingaku ga apuri jō de gokakunin itadakemashitara, kessai o osusume kudasai.*  
 Once you have confirmed the payment amount in the app, please proceed with the payment.
-</div>
 
 ## Related Expressions
 

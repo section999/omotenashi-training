@@ -26,9 +26,9 @@ Each paragraph covers one topic
 
 Facts are stated using でございます
 
-Requests are written in soft form: 〜いただけますと幸いでございます
+Requests are written in soft form: ○○いただけますと幸いでございます
 
-No vague answers (たぶん, 〜かもしれない) for questions that require clear answers
+No vague answers (たぶん, ○○かもしれない) for questions that require clear answers
 
 No excuses in apology emails
 
@@ -50,26 +50,39 @@ The overall tone fits the email purpose: warm and welcoming (reservation), suppo
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます</code></span>: First-time reservation<br>
+<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu</em><br>
 <span class="keigo-jp"><code>いつもお世話になっております</code></span>: Repeat guest<br>
+<em>itsumo osewa ni natte orimasu</em><br>
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます</code></span>: General notice<br>
+<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu</em><br>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません</code></span>: Apology<br>
+<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n</em><br>
 <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました</code></span>: Post-stay
 </div>
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>〜は以下のとおりでございます</code></span>: Details are as follows<br>
-<span class="keigo-jp"><code>〜でございます</code></span>: [Fact] is / This is [fact]<br>
-<span class="keigo-jp"><code>〜いただけますと幸いでございます</code></span>: We would appreciate if you could 〜<br>
+<span class="keigo-jp"><code>○○は以下のとおりでございます</code></span>: Details are as follows<br>
+<em>○○ wa ika no touri de gozaimasu</em><br>
+<span class="keigo-jp"><code>○○でございます</code></span>: [Fact] is / This is [fact]<br>
+<em>○○ de gozaimasu</em><br>
+<span class="keigo-jp"><code>○○いただけますと幸いでございます</code></span>: We would appreciate if you could ○○<br>
+<em>○○ itadake masu to saiwai de gozaimasu</em><br>
 <span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span>: We would appreciate your confirmation<br>
+<em>go-kakunin itadake masu to saiwai de gozaimasu</em><br>
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span>: We humbly ask for your understanding
 </div>
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival close<br>
+<em>go touchaku o kokoro yori omachi moushiage te orimasu</em><br>
 <span class="keigo-jp"><code>スタッフ一同ご到着を心よりお待ち申し上げております</code></span>: Pre-arrival (collective)<br>
+<em>sutaffu ichidou go touchaku o kokoro yori omachi moushiage te orimasu</em><br>
 <span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span>: Post-stay close<br>
+<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
 <span class="keigo-jp"><code>今後ともよろしくお願い申し上げます</code></span>: Repeat guest / relationship<br>
+<em>kongo to mo yoroshiku onegai moushiage masu</em><br>
 <span class="keigo-jp"><code>お気軽にご連絡くださいませ</code></span>: Universal support close<br>
+<em>o kigaru ni go-renraku kudasaimase</em><br>
 <span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ</code></span>: Apology / inquiry close
 </div>
 

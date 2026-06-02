@@ -9,19 +9,17 @@ Staff need to know whether a property uses individual travel-sized bottles, larg
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋のバスルームにはシャンプーをご用意しております。</code></span><br>
-<em>Oheya no basurumu ni wa shanpuu wo goyo'i shite orimasu.</em><br>
+**お部屋のバスルームにはシャンプーをご用意しております。**  
+*Oheya no basurumu ni wa shanpuu wo goyo'i shite orimasu.*  
 Shampoo is provided in the room's bathroom.
-<br><br>
-<span class="keigo-jp"><code>シャンプーが足りない場合は、お申し付けいただければすぐにお持ちいたします。</code></span><br>
-<em>Shanpuu ga tarinai baai wa, omoushitsuke itadakereba sugu ni omochi itashimasu.</em><br>
+
+**シャンプーが足りない場合は、お申し付けいただければすぐにお持ちいたします。**  
+*Shanpuu ga tarinai baai wa, omoushitsuke itadakereba sugu ni omochi itashimasu.*  
 If you need more shampoo, please let us know and we will bring it immediately.
-<br><br>
-<span class="keigo-jp"><code>本日、バスルームのシャンプーを新しいものに交換いたしました。</code></span><br>
-<em>Honjitsu, basurumu no shanpuu wo atarashii mono ni koukan itashimashita.</em><br>
+
+**本日、バスルームのシャンプーを新しいものに交換いたしました。**  
+*Honjitsu, basurumu no shanpuu wo atarashii mono ni koukan itashimashita.*  
 Today, we have replaced the shampoo in the bathroom with a fresh bottle.
-</div>
 
 ## Related Expressions
 

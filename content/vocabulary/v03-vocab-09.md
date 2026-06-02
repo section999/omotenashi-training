@@ -9,19 +9,17 @@ The ベッド is the core element of any guest's sleep experience, and the sleep
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋にはキングサイズのベッドがございます。</code></span><br>
-<em>O-heya ni wa kingu-saizu no beddo ga gozaimasu.</em><br>
+**お部屋にはキングサイズのベッドがございます。**  
+*O-heya ni wa kingu-saizu no beddo ga gozaimasu.*  
 Your room has a king-size bed.
-<br><br>
-<span class="keigo-jp"><code>ベッドの硬さについてご不満がございましたら、お気軽にお申し付けください。</code></span><br>
-<em>Beddo no katasa ni tsuite go-fuman ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.</em><br>
+
+**ベッドの硬さについてご不満がございましたら、お気軽にお申し付けください。**  
+*Beddo no katasa ni tsuite go-fuman ga gozaimashitara, o-ki-garu ni o-moushitsuke kudasai.*  
 If you have any dissatisfaction with the firmness of the bed, please feel free to let us know.
-<br><br>
-<span class="keigo-jp"><code>追加のベッドが必要でございましたら、エキストラベッドをご用意することも可能でございます。</code></span><br>
-<em>Tsuika no beddo ga hitsuyou de gozaimashitara, ekisutora-beddo wo go-youi suru koto mo kanou de gozaimasu.</em><br>
+
+**追加のベッドが必要でございましたら、エキストラベッドをご用意することも可能でございます。**  
+*Tsuika no beddo ga hitsuyou de gozaimashitara, ekisutora-beddo wo go-youi suru koto mo kanou de gozaimasu.*  
 If you need an extra bed, we can also arrange an extra bed for you.
-</div>
 
 ## Related Expressions
 

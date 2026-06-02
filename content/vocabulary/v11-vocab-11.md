@@ -10,19 +10,17 @@ The protocol for handling 伝言 has three steps: receiving the message carefull
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>担当者はただいま不在ですが、伝言をお預かりいたしましょうか。</code></span><br>
-<em>Tantōsha wa tadaima fuzai desu ga, dengon wo oazukari itashimashō ka.</em><br>
+**担当者はただいま不在ですが、伝言をお預かりいたしましょうか。**  
+*Tantōsha wa tadaima fuzai desu ga, dengon wo oazukari itashimashō ka.*  
 The person in charge is currently unavailable; may I take a message?
-<br><br>
-<span class="keigo-jp"><code>ご伝言の内容を復唱いたします。〇〇様よりお電話があった旨、お伝えいたします。</code></span><br>
-<em>Godengon no naiyō wo fukushō itashimasu. Maru-maru-sama yori odenwa ga atta mune, otsutatae itashimasu.</em><br>
+
+**ご伝言の内容を復唱いたします。〇〇様よりお電話があった旨、お伝えいたします。**  
+*Godengon no naiyō wo fukushō itashimasu. Maru-maru-sama yori odenwa ga atta mune, otsutatae itashimasu.*  
 I will repeat your message back to you. I will let them know that Mr./Ms. [Name] called.
-<br><br>
-<span class="keigo-jp"><code>伝言をお預かりしましたので、戻り次第ご連絡いたします。</code></span><br>
-<em>Dengon wo oazukari shimashita no de, modori shidai gorenraku itashimasu.</em><br>
+
+**伝言をお預かりしましたので、戻り次第ご連絡いたします。**  
+*Dengon wo oazukari shimashita no de, modori shidai gorenraku itashimasu.*  
 I have taken your message and will have them contact you as soon as they return.
-</div>
 
 ## Related Expressions
 

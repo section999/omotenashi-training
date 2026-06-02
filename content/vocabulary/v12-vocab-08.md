@@ -10,19 +10,17 @@ When contacting the dispatcher, staff should state the facility name and complet
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>怪我をしたら救急車を呼んでください。</code></span><br>
-<em>Kega wo shitara kyuukyuusha wo yonde kudasai.</em><br>
+**怪我をしたら救急車を呼んでください。**  
+*Kega wo shitara kyuukyuusha wo yonde kudasai.*  
 Call an ambulance if someone is injured.
-<br><br>
-<span class="keigo-jp"><code>お客様が客室で倒れているとのご連絡を受け、すぐに救急車を手配しました。</code></span><br>
-<em>Okyakusama ga kyakushitsu de taorete iru to no gorenraku wo uke, sugu ni kyuukyuusha wo tehai shimashita.</em><br>
+
+**お客様が客室で倒れているとのご連絡を受け、すぐに救急車を手配しました。**  
+*Okyakusama ga kyakushitsu de taorete iru to no gorenraku wo uke, sugu ni kyuukyuusha wo tehai shimashita.*  
 We received a report that a guest had collapsed in their room, and we immediately arranged an ambulance.
-<br><br>
-<span class="keigo-jp"><code>救急車が到着するまでの間、スタッフが応急処置を施しました。</code></span><br>
-<em>Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.</em><br>
+
+**救急車が到着するまでの間、スタッフが応急処置を施しました。**  
+*Kyuukyuusha ga touchaku suru made no aida, sutaffu ga oukyuu shochi wo hodokoshimashita.*  
 While waiting for the ambulance, staff administered first aid.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Best practice in Japanese hotel phone etiquette is to name the destination befor
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>宿泊予約担当者にお繋ぎいたします。少々お待ちください。</code></span><br>
-<em>Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.</em><br>
+**宿泊予約担当者にお繋ぎいたします。少々お待ちください。**  
+*Shukuhaku yoyaku tantōsha ni otsunagi itashimasu. Shōshō omachi kudasai.*  
 I will connect you to the accommodation reservations team. Please wait a moment.
-<br><br>
-<span class="keigo-jp"><code>フロントマネージャーにお繋ぎしますので、そのままお待ちいただけますか。</code></span><br>
-<em>Furonto manējā ni otsunagi shimasu no de, sono mama omachi itadakemasu ka.</em><br>
+
+**フロントマネージャーにお繋ぎしますので、そのままお待ちいただけますか。**  
+*Furonto manējā ni otsunagi shimasu no de, sono mama omachi itadakemasu ka.*  
 I will connect you to the front desk manager; could you please stay on the line?
-<br><br>
-<span class="keigo-jp"><code>ただいま担当者に状況をお伝えしてからお繋ぎいたします。</code></span><br>
-<em>Tadaima tantōsha ni jōkyō wo otsutatae shite kara otsunagi itashimasu.</em><br>
+
+**ただいま担当者に状況をお伝えしてからお繋ぎいたします。**  
+*Tadaima tantōsha ni jōkyō wo otsutatae shite kara otsunagi itashimasu.*  
 I will brief the person in charge before connecting you.
-</div>
 
 ## Related Expressions
 

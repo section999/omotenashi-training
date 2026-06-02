@@ -9,19 +9,17 @@ In ryokan settings, バスタオル may be supplemented or replaced by tradition
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バスタオルはこちらにご用意いたしました。ご入浴の際にお使いください。</code></span><br>
-<em>Basu taoru wa kochira ni go-youi itashimashita. Go-nyuuyoku no sai ni o-tsukai kudasai.</em><br>
+**バスタオルはこちらにご用意いたしました。ご入浴の際にお使いください。**  
+*Basu taoru wa kochira ni go-youi itashimashita. Go-nyuuyoku no sai ni o-tsukai kudasai.*  
 We have prepared a bath towel here. Please use it when one bathe.
-<br><br>
-<span class="keigo-jp"><code>追加のバスタオルが必要でしたら、いつでもお申し付けください。</code></span><br>
-<em>Tsuika no basu taoru ga hitsuyou deshitara, itsudemo o-moushitsuke kudasai.</em><br>
+
+**追加のバスタオルが必要でしたら、いつでもお申し付けください。**  
+*Tsuika no basu taoru ga hitsuyou deshitara, itsudemo o-moushitsuke kudasai.*  
 If you need extra bath towels, please let us know at any time.
-<br><br>
-<span class="keigo-jp"><code>バスタオルをお持ちいたしました。よろしければ、お部屋の中にお入れいたしましょうか？</code></span><br>
-<em>Basu taoru wo o-mochi itashimashita. Yoroshikereba, o-heya no naka ni o-ire itashimashou ka?</em><br>
+
+**バスタオルをお持ちいたしました。よろしければ、お部屋の中にお入れいたしましょうか？**  
+*Basu taoru wo o-mochi itashimashita. Yoroshikereba, o-heya no naka ni o-ire itashimashou ka?*  
 I have brought the bath towels. If you like, shall I bring them inside the room?
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ A confident menu explanation matters more than it may appear. When a guest seems
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。</code></span><br>
-<em>Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.</em><br>
+**こちらが本日のメニューでございます。どうぞごゆっくりご覧ください。**  
+*Kochira ga honjitsu no menyuu de gozaimasu. Douzo go-yukkuri go-ran kudasai.*  
 This is today's menu. Please take your time looking through it.
-<br><br>
-<span class="keigo-jp"><code>メニューについてご不明な点がございましたら、お気軽にお申し付けください。</code></span><br>
-<em>Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.</em><br>
+
+**メニューについてご不明な点がございましたら、お気軽にお申し付けください。**  
+*Menyuu ni tsuite go-fuumei na ten ga gozaimashitara, o-kigaru ni o-moushitsuke kudasai.*  
 If you have any questions about the menu, please do not hesitate to ask.
-<br><br>
-<span class="keigo-jp"><code>季節のおすすめメニューについてご説明してもよろしいでしょうか。</code></span><br>
-<em>Kisetsu no osusume menyuu ni tsuite go-setsumei shite mo yoroshii deshou ka.</em><br>
+
+**季節のおすすめメニューについてご説明してもよろしいでしょうか。**  
+*Kisetsu no osusume menyuu ni tsuite go-setsumei shite mo yoroshii deshou ka.*  
 May I explain our seasonal recommended menu to you?
-</div>
 
 ## Related Expressions
 
@@ -50,5 +48,5 @@ A common mistake is placing the menu on the table without any accompanying words
 
 **Correct Answer:** メニュー (menu)
 
-**Explanation:** メニュー is the word for the menu itself, the item being presented in this sentence. 注文 means an order, 提供 means provision or serving, and 会計 means billing, so none of them fit the act of handing over the document guests read before ordering. こちらが本日の〜でございます is the standard tableside presentation phrase, and only メニュー completes it correctly.
+**Explanation:** メニュー is the word for the menu itself, the item being presented in this sentence. 注文 means an order, 提供 means provision or serving, and 会計 means billing, so none of them fit the act of handing over the document guests read before ordering. こちらが本日の○○でございます is the standard tableside presentation phrase, and only メニュー completes it correctly.
 

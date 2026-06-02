@@ -9,19 +9,17 @@ title: 避難 (hinan)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>避難経路に従って安全な場所へ移動してください。</code></span><br>
-<em>Hinan keiro ni shitagatte anzen na basho e idou shite kudasai.</em><br>
+**避難経路に従って安全な場所へ移動してください。**  
+*Hinan keiro ni shitagatte anzen na basho e idou shite kudasai.*  
 Please follow the evacuation route and move to a safe location.
-<br><br>
-<span class="keigo-jp"><code>火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。</code></span><br>
-<em>Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.</em><br>
+
+**火災警報が鳴り響いたため、全スタッフはただちに避難誘導を開始してください。**  
+*Kasai keihou ga naribiiita tame, zen sutaffu wa tadachi ni hinan yuudou wo kaishi shite kudasai.*  
 As the fire alarm is sounding, all staff please begin evacuation guidance immediately.
-<br><br>
-<span class="keigo-jp"><code>避難の際は、エレベーターをご利用にならず、非常階段をお使いください。</code></span><br>
-<em>Hinan no sai wa, erebētā wo goriyou ni narazu, hijou kaidan wo otsukai kudasai.</em><br>
+
+**避難の際は、エレベーターをご利用にならず、非常階段をお使いください。**  
+*Hinan no sai wa, erebētā wo goriyou ni narazu, hijou kaidan wo otsukai kudasai.*  
 During evacuation, please do not use the elevators: use the emergency staircase.
-</div>
 
 ## Related Expressions
 

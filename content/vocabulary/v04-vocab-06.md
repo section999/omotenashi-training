@@ -9,19 +9,17 @@ Staff should know the property's policy on 連泊 (multi-night) stays and be rea
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日、ベッドのシーツ交換を行わせていただきました。</code></span><br>
-<em>Honjitsu, beddo no shiitsu koukan wo okonawasete itadakimashita.</em><br>
+**本日、ベッドのシーツ交換を行わせていただきました。**  
+*Honjitsu, beddo no shiitsu koukan wo okonawasete itadakimashita.*  
 We have performed the bed sheet change for you today.
-<br><br>
-<span class="keigo-jp"><code>シーツ交換をご希望の場合は、フロントまでお申し付けください。</code></span><br>
-<em>Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.</em><br>
+
+**シーツ交換をご希望の場合は、フロントまでお申し付けください。**  
+*Shiitsu koukan wo gokibou no baai wa, furonto made omoushitsuke kudasai.*  
 If you would like your sheets changed, please let us know at the front desk.
-<br><br>
-<span class="keigo-jp"><code>連泊のお客様には、三日に一度シーツ交換をご提供しております。</code></span><br>
-<em>Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.</em><br>
+
+**連泊のお客様には、三日に一度シーツ交換をご提供しております。**  
+*Renpaku no okyaku-sama ni wa, mikkka ni ichido shiitsu koukan wo goteikyo shite orimasu.*  
 For guests staying multiple nights, we provide a sheet change once every three days.
-</div>
 
 ## Related Expressions
 

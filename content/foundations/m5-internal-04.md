@@ -31,10 +31,13 @@ A 相談 without Part 2 sounds like you are handing the problem over. A 相談 w
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>少しご相談してもよろしいでしょうか。</code></span><br>
+<em>sukoshi go-soudan shite mo yoroshii deshou ka.</em><br>
 May I consult with you for a moment?<br><br>
 <span class="keigo-jp"><code>〇〇様よりご要望がございまして、私の判断では対応が難しく、ご意見をいただけますでしょうか。</code></span><br>
+<em>〇 〇 you yori go-youbou ga gozai mashite, watashi no handan de wa taiou ga muzukashiku, go-iken o itadake masu deshou ka.</em><br>
 We have received a request from Mr./Ms. [Name] that I am not sure how to handle. Could I get your guidance?<br><br>
 <span class="keigo-jp"><code>〇〇については〇〇と対応しようと考えておりますが、いかがでしょうか。</code></span><br>
+<em>〇 〇 nitsuite wa 〇 〇 to taiou shiyou to kangae te orimasu ga, ikaga deshou ka.</em><br>
 Regarding [matter], I was thinking of [approach]. Does that seem right to you?
 </div>
 
@@ -42,10 +45,13 @@ Regarding [matter], I was thinking of [approach]. Does that seem right to you?
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>経験をお借りしてよろしいでしょうか。</code></span><br>
+<em>keiken o o kari shite yoroshii deshou ka.</em><br>
 May I benefit from your experience for a moment?<br><br>
 <span class="keigo-jp"><code>お時間よろしければ、〇〇についてお聞きしてもよろしいですか。</code></span><br>
+<em>o-jikan yoroshikere ba, 〇 〇 nitsuite o-kiki shite mo yoroshii desu ka.</em><br>
 If you have a moment, may I ask you about [matter]?<br><br>
 <span class="keigo-jp"><code>〇〇の場合はどのように対応されていますか。</code></span><br>
+<em>〇 〇 no baai wa dono you ni taiou sa re te imasu ka.</em><br>
 How do you usually handle [situation]?
 </div>
 
@@ -72,10 +78,13 @@ After a supervisor or senpai provides guidance, acknowledge it clearly:
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>かしこまりました。そのように対応いたします。</code></span><br>
+<em>kashikomarimashita. sono you ni taiou itashimasu.</em><br>
 Understood. I will proceed accordingly.<br><br>
 <span class="keigo-jp"><code>ありがとうございます。参考にいたします。</code></span><br>
+<em>arigatou gozaimasu. sankou ni itashimasu.</em><br>
 Thank you. I will keep that in mind.<br><br>
 <span class="keigo-jp"><code>結果についてはまたご報告いたします。</code></span><br>
+<em>kekka nitsuite wa mata go-houkoku itashimasu.</em><br>
 I will report back on the outcome.
 </div>
 
@@ -85,10 +94,10 @@ I will report back on the outcome.
 
 **Which 相談 opening best demonstrates the three-part consultation structure?**
 
-- A. 「どうしたらいいですか」
-- B. 「田中様がレイトチェックアウトを希望されています。通常料金でご対応してよろしいでしょうか、それとも特別対応が必要でしょうか。ご判断いただけますでしょうか」
-- C. 「マネージャーさん、ちょっといいですか」
-- D. 「問題が起きました」
+- A. どうしたらいいですか
+- B. 田中様がレイトチェックアウトを希望されています。通常料金でご対応してよろしいでしょうか、それとも特別対応が必要でしょうか。ご判断いただけますでしょうか
+- C. マネージャーさん、ちょっといいですか
+- D. 問題が起きました
 
 **Correct Answer:** B
 

@@ -10,19 +10,17 @@ Offering a フロアマップ proactively is a recognized expression of kikubari
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。</code></span><br>
-<em>Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.</em><br>
+**こちらがフロアマップでございます。現在地はこちら、お部屋はこちらになります。**  
+*Kochira ga furoamappu de gozaimasu. Genzaichi wa kochira, o-heya wa kochira ni narimasu.*  
 Here is the floor map. Your current location is here, and the room is here.
-<br><br>
-<span class="keigo-jp"><code>エレベーターの横にフロアマップがございますので、ご自由にお取りください。</code></span><br>
-<em>Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.</em><br>
+
+**エレベーターの横にフロアマップがございますので、ご自由にお取りください。**  
+*Erebeetaa no yoko ni furoamappu ga gozaimasu no de, go-jiyuu ni o-tori kudasai.*  
 There is a floor map by the elevator, so please feel free to take one.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。</code></span><br>
-<em>Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.</em><br>
+
+**ご不明な点がございましたら、フロアマップをご参照いただくか、フロントまでお申し付けください。**  
+*Go-fuumei na ten ga gozaimashitara, furoamappu wo go-sanshou itadaku ka, furonto made o-moushitsuke kudasai.*  
 If you have any questions, please refer to the floor map or let us know at the front desk.
-</div>
 
 ## Related Expressions
 

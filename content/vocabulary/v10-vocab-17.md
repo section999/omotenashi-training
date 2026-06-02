@@ -9,19 +9,17 @@ In a hospitality context, 承認 is most commonly used in checkout and billing s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらの返金には上司の承認が必要でございます。</code></span><br>
-<em>Kochira no henkin ni wa joushi no shounin ga hitsuyou de gozaimasu.</em><br>
+**こちらの返金には上司の承認が必要でございます。**  
+*Kochira no henkin ni wa joushi no shounin ga hitsuyou de gozaimasu.*  
 A supervisor's approval is required for this refund.
-<br><br>
-<span class="keigo-jp"><code>承認が下りましたら、すぐにご対応いたします。</code></span><br>
-<em>Shounin ga orimashitara, sugu ni go-taiou itashimasu.</em><br>
+
+**承認が下りましたら、すぐにご対応いたします。**  
+*Shounin ga orimashitara, sugu ni go-taiou itashimasu.*  
 As soon as approval is granted, we will assist you right away.
-<br><br>
-<span class="keigo-jp"><code>割引のご適用には責任者の承認をいただいております。</code></span><br>
-<em>Waribiki no go-tekiyou ni wa sekininsha no shounin o itadaite orimasu.</em><br>
+
+**割引のご適用には責任者の承認をいただいております。**  
+*Waribiki no go-tekiyou ni wa sekininsha no shounin o itadaite orimasu.*  
 Applying a discount requires approval from a person in charge.
-</div>
 
 ## Related Expressions
 

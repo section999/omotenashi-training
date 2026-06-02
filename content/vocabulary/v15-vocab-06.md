@@ -10,19 +10,17 @@ Staff should know the basics of fabric and heat. Cotton and linen handle high te
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>アイロンとアイロン台は備え付けのクロゼットの中にございます。</code></span><br>
-<em>Airon to airon dai wa sonaetsuke no kurozetto no naka ni gozaimasu.</em><br>
+**アイロンとアイロン台は備え付けのクロゼットの中にございます。**  
+*Airon to airon dai wa sonaetsuke no kurozetto no naka ni gozaimasu.*  
 The iron and ironing board are inside the built-in closet.
-<br><br>
-<span class="keigo-jp"><code>シルクのブラウスには低温でアイロンをおかけになることをお勧めいたします。</code></span><br>
-<em>Shiruku no burausu ni wa teion de airon o o-kake ni naru koto o o-susume itashimasu.</em><br>
+
+**シルクのブラウスには低温でアイロンをおかけになることをお勧めいたします。**  
+*Shiruku no burausu ni wa teion de airon o o-kake ni naru koto o o-susume itashimasu.*  
 We recommend ironing your silk blouse on a low heat setting.
-<br><br>
-<span class="keigo-jp"><code>アイロンのご入用でしたら、フロントまでお申し付けいただければすぐにお持ちいたします。</code></span><br>
-<em>Airon no go-inyou de shitara, furonto made o-moushitsuke itadakereba sugu ni o-mochi itashimasu.</em><br>
+
+**アイロンのご入用でしたら、フロントまでお申し付けいただければすぐにお持ちいたします。**  
+*Airon no go-inyou de shitara, furonto made o-moushitsuke itadakereba sugu ni o-mochi itashimasu.*  
 If you need an iron, please let the front desk know and we will bring one to you right away.
-</div>
 
 ## Related Expressions
 

@@ -100,17 +100,20 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 
 ## Error 5: Using わかりました Instead of かしこまりました
 
-わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment.
+わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment. The difference is not just vocabulary; it reflects how seriously the staff is receiving the guest's instruction.
 
-| Expression | Register | When to Use |
+| Expression | Register | Appropriate Context |
 |---|---|---|
-| わかった | Casual | Never in hotel service |
-| わかりました | Everyday polite | Not appropriate at hotel standard |
-| 承知しました | Business polite | Internal staff communication |
-| かしこまりました | Hotel keigo | Every guest-facing acknowledgment |
+| <span>わかった</span> | Casual | Never in hotel service |
+| <span>わかりました</span> | Everyday polite | Between colleagues only |
+| <span>承知しました</span> | Business polite | Internal staff communication |
+| <span>かしこまりました</span> | Hotel keigo | Every guest-facing acknowledgment |
 
+<div class="keigo-card blue">
 <span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
+<em>kashikomarimashita. tadaima go-kakunin itashimasu.</em><br>
 Certainly. I will confirm that right now.
+</div>
 
 ## The Underlying Pattern
 

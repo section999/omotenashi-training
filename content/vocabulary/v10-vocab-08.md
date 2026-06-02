@@ -9,19 +9,17 @@ The 内訳 appears on the 精算書 (settlement statement) or 明細書 (itemize
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご料金の内訳はこちらでございます。ご確認をお願いいたします。</code></span><br>
-<em>Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.</em><br>
+**ご料金の内訳はこちらでございます。ご確認をお願いいたします。**  
+*Go-ryoukin no uchiwake wa kochira de gozaimasu. Go-kakunin wo o-negai itashimasu.*  
 Here is the itemized breakdown of your charges. Please review it at your convenience.
-<br><br>
-<span class="keigo-jp"><code>内訳をご覧いただくと、お食事代とルームサービス代が別々に記載されております。</code></span><br>
-<em>Uchiwake wo go-ran itadaku to, o-shokuji dai to ruumu saabisu dai ga betsubetsu ni kisai sarete orimasu.</em><br>
+
+**内訳をご覧いただくと、お食事代とルームサービス代が別々に記載されております。**  
+*Uchiwake wo go-ran itadaku to, o-shokuji dai to ruumu saabisu dai ga betsubetsu ni kisai sarete orimasu.*  
 As one can see from the breakdown, the dining charges and room service fees are listed separately.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、内訳についてご説明いたします。</code></span><br>
-<em>Go-fumeina ten ga gozaimashitara, uchiwake ni tsuite go-setsumei itashimasu.</em><br>
+
+**ご不明な点がございましたら、内訳についてご説明いたします。**  
+*Go-fumeina ten ga gozaimashitara, uchiwake ni tsuite go-setsumei itashimasu.*  
 If there is anything unclear, I am happy to explain any item in the breakdown.
-</div>
 
 ## Related Expressions
 

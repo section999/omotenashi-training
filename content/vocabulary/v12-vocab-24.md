@@ -9,19 +9,17 @@ Hotel staff may issue a verbal 警告 when observing a guest engaging in risky b
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この機械室には高電圧設備があるため、警告表示を必ずご確認ください。</code></span><br>
-<em>Kono kikai shitsu ni wa koudennatsu setsubi ga aru tame, keikoku hyouji wo kanarazu gokakunin kudasai.</em><br>
+**この機械室には高電圧設備があるため、警告表示を必ずご確認ください。**  
+*Kono kikai shitsu ni wa koudennatsu setsubi ga aru tame, keikoku hyouji wo kanarazu gokakunin kudasai.*  
 This equipment room contains high-voltage installations, so please be sure to check the warning notices.
-<br><br>
-<span class="keigo-jp"><code>プールの深い区画には警告サインが掲示されておりますので、十分にご注意ください。</code></span><br>
-<em>Puuru no fukai kukaku ni wa keikoku sain ga keiji sarete orimasu node, juubun ni gochuui kudasai.</em><br>
+
+**プールの深い区画には警告サインが掲示されておりますので、十分にご注意ください。**  
+*Puuru no fukai kukaku ni wa keikoku sain ga keiji sarete orimasu node, juubun ni gochuui kudasai.*  
 Warning signs are posted in the deep section of the pool, so please exercise great care.
-<br><br>
-<span class="keigo-jp"><code>警告を無視して立ち入った場合、重大な事故が発生する可能性がございます。</code></span><br>
-<em>Keikoku wo mushi shite tachiita baai, juudai na jiko ga hassei suru kanousei ga gozaimasu.</em><br>
+
+**警告を無視して立ち入った場合、重大な事故が発生する可能性がございます。**  
+*Keikoku wo mushi shite tachiita baai, juudai na jiko ga hassei suru kanousei ga gozaimasu.*  
 Entering while ignoring the warning carries the possibility of a serious accident occurring.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ A common error is to underestimate how much the phrasing matters here. The reque
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックインの際に、緊急連絡先をお教えいただけますか。</code></span><br>
-<em>Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.</em><br>
+**チェックインの際に、緊急連絡先をお教えいただけますか。**  
+*Chekkuinu no sai ni, kinkyuu renrakusaki wo oshiete itadakemasu ka.*  
 When checking in, could you provide us with your emergency contact information?
-<br><br>
-<span class="keigo-jp"><code>緊急連絡先はご家族の番号でよろしいでしょうか。</code></span><br>
-<em>Kinkyuu renrakusaki wa go-kazoku no bangou de yoroshii deshou ka.</em><br>
+
+**緊急連絡先はご家族の番号でよろしいでしょうか。**  
+*Kinkyuu renrakusaki wa go-kazoku no bangou de yoroshii deshou ka.*  
 Would a family member's number be appropriate as your emergency contact?
-<br><br>
-<span class="keigo-jp"><code>万が一の際のため、緊急連絡先をお控えいただいております。</code></span><br>
-<em>Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.</em><br>
+
+**万が一の際のため、緊急連絡先をお控えいただいております。**  
+*Mangaichi no sai no tame, kinkyuu renrakusaki wo okontae itadaite orimasu.*  
 We keep your emergency contact information on file in case of any unforeseen situation.
-</div>
 
 ## Related Expressions
 

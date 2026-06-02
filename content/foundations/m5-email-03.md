@@ -12,8 +12,10 @@ For emails triggered by a booking action (new reservation, modification, cancell
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご変更のご連絡をいただき、ありがとうございます。</code></span><br>
+<em>kono tabi wa, go henkou no go-renraku o itadaki, arigatou gozaimasu.</em><br>
 Thank you for contacting us regarding your modification.
 </div>
 
@@ -25,6 +27,7 @@ For informational emails (check-in time reminders, facility updates, policy chan
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
+<em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for your continued use of our hotel.
 </div>
 
@@ -36,8 +39,10 @@ Apology emails require a fundamentally different opening. The first line must ac
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
+<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-jp"><code>この度は、ご迷惑をおかけし、誠に申し訳ございません。</code></span><br>
+<em>kono tabi wa, go-meiwaku o okake shi, makotoni moushiwake gozaimase n.</em><br>
 We sincerely apologize for the trouble caused on this occasion.
 </div>
 
@@ -49,6 +54,7 @@ After a guest departs, the opening must shift tense to reflect the completed sta
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
 Thank you very much for staying at our hotel on this occasion.
 </div>
 
@@ -72,10 +78,10 @@ Different email types and property types call for different formality levels wit
 
 **A hotel sends an email notifying guests about temporary pool maintenance. Which opening is most appropriate?**
 
-- A. 「この度は、ご不便をおかけし、誠に申し訳ございません」
-- B. 「平素より当ホテルをご利用いただき、誠にありがとうございます」
-- C. 「この度は、ご予約いただき、誠にありがとうございます」
-- D. 「ありがとうございます！」
+- A. この度は、ご不便をおかけし、誠に申し訳ございません
+- B. 平素より当ホテルをご利用いただき、誠にありがとうございます
+- C. この度は、ご予約いただき、誠にありがとうございます
+- D. ありがとうございます！
 
 **Correct Answer:** B
 

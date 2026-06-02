@@ -9,19 +9,17 @@ Knowing the vocabulary is only the beginning. Guests need help with things like 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>日本の交通機関はとても便利です。</code></span><br>
-<em>Nihon no koutsuu kikan wa totemo benri desu.</em><br>
+**日本の交通機関はとても便利です。**  
+*Nihon no koutsuu kikan wa totemo benri desu.*  
 Transportation in Japan is very convenient.
-<br><br>
-<span class="keigo-jp"><code>当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。</code></span><br>
-<em>Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.</em><br>
+
+**当ホテルは主要な交通機関へのアクセスが大変便利な立地にございます。**  
+*Tou hoteru wa shuuyou na koutsuu kikan e no akusesu ga taihen benri na ricchi ni gozaimasu.*  
 Our hotel is situated with very convenient access to major transportation systems.
-<br><br>
-<span class="keigo-jp"><code>交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。</code></span><br>
-<em>Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.</em><br>
+
+**交通機関の乗り換えについてご不明な点がございましたら、フロントまでお声がけください。**  
+*Koutsuu kikan no norikae ni tsuite gofumei na ten ga gozaimashitara, furonto made okoe-gake kudasai.*  
 If you have any questions about transferring between transport systems, please do not hesitate to contact the front desk.
-</div>
 
 ## Related Expressions
 

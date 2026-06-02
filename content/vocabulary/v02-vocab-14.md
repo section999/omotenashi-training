@@ -9,19 +9,17 @@ Many Japanese hotels quote room rates as tax-inclusive to simplify billing, and 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>料金には消費税が含まれております。</code></span><br>
-<em>Ryōkin ni wa shōhi-zei ga fukumarete orimasu.</em><br>
+**料金には消費税が含まれております。**  
+*Ryōkin ni wa shōhi-zei ga fukumarete orimasu.*  
 Consumption tax is included in the charge.
-<br><br>
-<span class="keigo-jp"><code>こちらの明細に税金の内訳が記載されております。</code></span><br>
-<em>Kochira no meisai ni zeikin no uchiwake ga kisai sarete orimasu.</em><br>
+
+**こちらの明細に税金の内訳が記載されております。**  
+*Kochira no meisai ni zeikin no uchiwake ga kisai sarete orimasu.*  
 The tax breakdown is listed on this itemised statement.
-<br><br>
-<span class="keigo-jp"><code>当市では宿泊税として別途200円をいただいております。</code></span><br>
-<em>Tōshi de wa shukuhaku-zei to shite betto ni-hyaku-en o itadaite orimasu.</em><br>
+
+**当市では宿泊税として別途200円をいただいております。**  
+*Tōshi de wa shukuhaku-zei to shite betto ni-hyaku-en o itadaite orimasu.*  
 In this city, we collect a separate accommodation tax of 200 yen.
-</div>
 
 ## Related Expressions
 

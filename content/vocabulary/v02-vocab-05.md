@@ -9,19 +9,17 @@ The standard phrase for starting this process is ご予約の確認をさせて�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。</code></span><br>
-<em>Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.</em><br>
+**ご予約の確認をさせていただきます。田中様のお名前で、3名様、2泊のご予定でございますね。**  
+*Go-yoyaku no kakunin o sasete itadakimasu. Tanaka-sama no o-namae de, san-mei-sama, futa-haku no go-yotei de gozaimasu ne.*  
 Allow me to confirm your reservation. You have a booking under the name Tanaka, for three guests, two nights: is that correct?
-<br><br>
-<span class="keigo-jp"><code>お電話でご予約の確認を承っております。</code></span><br>
-<em>O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.</em><br>
+
+**お電話でご予約の確認を承っております。**  
+*O-denwa de go-yoyaku no kakunin o uketamawatte orimasu.*  
 We also handle reservation confirmations by phone.
-<br><br>
-<span class="keigo-jp"><code>予約確認のメールをお送りいたしましたので、ご確認くださいませ。</code></span><br>
-<em>Yoyaku kakunin no mēru o o-okuri itashimashita node, go-kakunin kudasaimase.</em><br>
+
+**予約確認のメールをお送りいたしましたので、ご確認くださいませ。**  
+*Yoyaku kakunin no mēru o o-okuri itashimashita node, go-kakunin kudasaimase.*  
 We have sent you a reservation confirmation email; please take a moment to review it.
-</div>
 
 ## Related Expressions
 

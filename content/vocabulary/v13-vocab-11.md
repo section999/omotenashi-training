@@ -10,19 +10,17 @@ Management in hotels and ryokan has to balance genuine operational flexibility w
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>今日は残業で夜9時まで働きました。</code></span><br>
-<em>Kyou wa zangyou de yoru kuji made hatarakimashita.</em><br>
+**今日は残業で夜9時まで働きました。**  
+*Kyou wa zangyou de yoru kuji made hatarakimashita.*  
 I worked overtime until 9 PM today.
-<br><br>
-<span class="keigo-jp"><code>大型連休前は予約が集中するため、残業が増えることがあります。</code></span><br>
-<em>Oogata renkyuu mae wa yoyaku ga shuuchuu suru tame, zangyou ga fueru koto ga arimasu.</em><br>
+
+**大型連休前は予約が集中するため、残業が増えることがあります。**  
+*Oogata renkyuu mae wa yoyaku ga shuuchuu suru tame, zangyou ga fueru koto ga arimasu.*  
 Overtime tends to increase before major holiday periods due to a concentration of reservations.
-<br><br>
-<span class="keigo-jp"><code>残業をする場合は事前に上司の承認を得てください。</code></span><br>
-<em>Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.</em><br>
+
+**残業をする場合は事前に上司の承認を得てください。**  
+*Zangyou o suru baai wa jizen ni joushi no shounin o ete kudasai.*  
 If you need to work overtime, please obtain your supervisor's approval in advance.
-</div>
 
 ## Related Expressions
 

@@ -60,10 +60,15 @@ Room changes, late check-outs, behavioral concerns, medical notes.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>引き継ぎ</code></span> (hikitsugi), the handover process<br>
+<em>hikitsugi</em><br>
 <span class="keigo-jp"><code>申し送り</code></span> (moushiokuri), the written handover notes<br>
+<em>moushiokuri</em><br>
 <span class="keigo-jp"><code>対応中</code></span> (taiouchuu), currently being handled<br>
+<em>taiou chu</em><br>
 <span class="keigo-jp"><code>要対応</code></span> (youtaiou), requires action<br>
+<em>you taiou</em><br>
 <span class="keigo-jp"><code>対応済み</code></span> (taiouzumi), already handled<br>
+<em>taiou zumi</em><br>
 <span class="keigo-jp"><code>未対応</code></span> (mitaiou), not yet handled
 </div>
 

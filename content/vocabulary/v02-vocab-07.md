@@ -9,19 +9,17 @@ title: 空室 (kuushitsu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々お待ちください。ただいま空室をお調べいたします。</code></span><br>
-<em>Shōshō o-machi kudasai. Tadaima kūshitsu o o-shirabe itashimasu.</em><br>
+**少々お待ちください。ただいま空室をお調べいたします。**  
+*Shōshō o-machi kudasai. Tadaima kūshitsu o o-shirabe itashimasu.*  
 One moment please. I will check available rooms for you now.
-<br><br>
-<span class="keigo-jp"><code>本日はシングルルームのご空室が1室ございます。</code></span><br>
-<em>Honjitsu wa shinguru-rūmu no go-kūshitsu ga ichi-shitsu gozaimasu.</em><br>
+
+**本日はシングルルームのご空室が1室ございます。**  
+*Honjitsu wa shinguru-rūmu no go-kūshitsu ga ichi-shitsu gozaimasu.*  
 We have one single room available today.
-<br><br>
-<span class="keigo-jp"><code>空室がございましたら、すぐにご連絡いたします。</code></span><br>
-<em>Kūshitsu ga gozaimashitara, sugu ni go-renraku itashimasu.</em><br>
+
+**空室がございましたら、すぐにご連絡いたします。**  
+*Kūshitsu ga gozaimashitara, sugu ni go-renraku itashimasu.*  
 As soon as a room becomes available, we will contact you right away.
-</div>
 
 ## Related Expressions
 
@@ -32,7 +30,7 @@ As soon as a room becomes available, we will contact you right away.
 
 ## Common Mistakes
 
-Responding to walk-in availability inquiries with 満室です before checking the system is a serious service error. The default first response should always be ただいまお調べいたします, no matter how busy the period looks. On pronunciation, 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen, speak carefully. When stating how many rooms are available, use the correct counter suffix: rooms are counted with 〜室 (shitsu), so 1室, 2室, 3室.
+Responding to walk-in availability inquiries with 満室です before checking the system is a serious service error. The default first response should always be ただいまお調べいたします, no matter how busy the period looks. On pronunciation, 空室 (kūshitsu) and 空港 (kūkō, airport) share a similar opening sound, and the mix-up does happen, speak carefully. When stating how many rooms are available, use the correct counter suffix: rooms are counted with ○○室 (shitsu), so 1室, 2室, 3室.
 
 ---
 

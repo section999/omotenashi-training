@@ -9,19 +9,17 @@ When confirming any reservation, the 出発日 should be verified explicitly alo
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご出発日は4月12日のご予定でよろしいでしょうか。</code></span><br>
-<em>Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.</em><br>
+**ご出発日は4月12日のご予定でよろしいでしょうか。**  
+*Go-shuppatsu bi wa shi-gatsu juunichi no go-yotei de yoroshii deshou ka.*  
 Is April 12 your planned departure date?
-<br><br>
-<span class="keigo-jp"><code>出発日の当日、チェックアウトは午前11時までにお願いしております。</code></span><br>
-<em>Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.</em><br>
+
+**出発日の当日、チェックアウトは午前11時までにお願いしております。**  
+*Shuppatsu bi no toujitsu, chekku-auto wa gozen juuichi-ji made ni o-negai shite orimasu.*  
 On your departure day, we ask that you check out by 11:00 AM.
-<br><br>
-<span class="keigo-jp"><code>出発日を1日延長されたい場合は、空き状況を確認いたします。</code></span><br>
-<em>Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.</em><br>
+
+**出発日を1日延長されたい場合は、空き状況を確認いたします。**  
+*Shuppatsu bi o ichinichi enchou saretai baai wa, aki joukyou o kakunin itashimasu.*  
 If you would like to extend your departure by one day, we will check room availability.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ Proactive communication about 特典 is considered good practice. Raising it pro
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。</code></span><br>
-<em>Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.</em><br>
+**こちらのプランには、特典として朝食とレイトチェックアウトが含まれております。**  
+*Kochira no puran ni wa, tokuten toshite choushoku to reito chekku-auto ga fukumarete orimasu.*  
 This plan includes breakfast and late check-out as perks.
-<br><br>
-<span class="keigo-jp"><code>特典のスパ利用は、ご滞在中に一度お使いいただけます。</code></span><br>
-<em>Tokuten no supa riyou wa, go-taizai-chuu ni ichido o-tsukai itadakemasu.</em><br>
+
+**特典のスパ利用は、ご滞在中に一度お使いいただけます。**  
+*Tokuten no supa riyou wa, go-taizai-chuu ni ichido o-tsukai itadakemasu.*  
 The spa access perk can be used once during the stay.
-<br><br>
-<span class="keigo-jp"><code>会員様限定の特典として、お部屋のアップグレードをご用意しております。</code></span><br>
-<em>Kaiin-sama gentei no tokuten toshite, o-heya no appugureedo wo go-youi shite orimasu.</em><br>
+
+**会員様限定の特典として、お部屋のアップグレードをご用意しております。**  
+*Kaiin-sama gentei no tokuten toshite, o-heya no appugureedo wo go-youi shite orimasu.*  
 As an exclusive member perk, we have prepared a room upgrade.
-</div>
 
 ## Related Expressions
 

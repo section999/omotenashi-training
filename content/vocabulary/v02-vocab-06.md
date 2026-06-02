@@ -9,19 +9,17 @@ title: 宿泊 (shukuhaku)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご宿泊の期間はいつからいつまででしょうか。</code></span><br>
-<em>Go-shukuhaku no kikan wa itsu kara itsu made deshō ka.</em><br>
+**ご宿泊の期間はいつからいつまででしょうか。**  
+*Go-shukuhaku no kikan wa itsu kara itsu made deshō ka.*  
 From when to when will you be staying with us?
-<br><br>
-<span class="keigo-jp"><code>本日より2泊ご宿泊のご予定でよろしいでしょうか。</code></span><br>
-<em>Honjitsu yori futa-haku go-shukuhaku no go-yotei de yoroshii deshō ka.</em><br>
+
+**本日より2泊ご宿泊のご予定でよろしいでしょうか。**  
+*Honjitsu yori futa-haku go-shukuhaku no go-yotei de yoroshii deshō ka.*  
 Is a two-night stay beginning today correct?
-<br><br>
-<span class="keigo-jp"><code>ご宿泊中、何かご不明な点がございましたら、いつでもフロントまでお申し付けください。</code></span><br>
-<em>Go-shukuhaku-chū, nanika go-fumei na ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.</em><br>
+
+**ご宿泊中、何かご不明な点がございましたら、いつでもフロントまでお申し付けください。**  
+*Go-shukuhaku-chū, nanika go-fumei na ten ga gozaimashitara, itsudemo furonto made o-mōshitsuke kudasai.*  
 During the stay, please do not hesitate to contact the front desk at any time with any questions.
-</div>
 
 ## Related Expressions
 

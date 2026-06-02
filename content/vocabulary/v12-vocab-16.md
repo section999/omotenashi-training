@@ -10,19 +10,17 @@ Front desk staff are usually the ones who coordinate contact with an 医者 when
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。</code></span><br>
-<em>Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.</em><br>
+**お気分がすぐれないとのこと、ただいまお医者様をお呼びいたします。**  
+*Okibun ga sugure nai to no koto, tadaima oishasha-sama wo oyobi itashimasu.*  
 Since one is not feeling well, I will call a doctor for you immediately.
-<br><br>
-<span class="keigo-jp"><code>医者の診察を受けられましたか。何かお手伝いできることはございますか。</code></span><br>
-<em>Isha no shinsatsu wo ukereremashita ka. Nanika otetsudai dekiru koto wa gozaimasu ka.</em><br>
+
+**医者の診察を受けられましたか。何かお手伝いできることはございますか。**  
+*Isha no shinsatsu wo ukereremashita ka. Nanika otetsudai dekiru koto wa gozaimasu ka.*  
 Have you seen the doctor? Is there anything we can assist you with?
-<br><br>
-<span class="keigo-jp"><code>当ホテルでは、24時間対応の医者をご手配することができます。</code></span><br>
-<em>Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.</em><br>
+
+**当ホテルでは、24時間対応の医者をご手配することができます。**  
+*Tou hoteru de wa, nijuuyojikan taiou no isha wo gotehai suru koto ga dekimasu.*  
 Our hotel is able to arrange a doctor available around the clock.
-</div>
 
 ## Related Expressions
 

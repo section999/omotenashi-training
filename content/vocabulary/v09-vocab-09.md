@@ -10,19 +10,17 @@ Note that 人数 comes up at several different points during a guest's visit, no
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約のお人数をご確認させていただきます。</code></span><br>
-<em>Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.</em><br>
+**ご予約のお人数をご確認させていただきます。**  
+*Go-yoyaku no o-ninzuu o go-kakunin sasete itadakimasu.*  
 Allow me to confirm the number of guests in your reservation.
-<br><br>
-<span class="keigo-jp"><code>ご人数は大人2名、お子様1名でよろしいでしょうか。</code></span><br>
-<em>Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.</em><br>
+
+**ご人数は大人2名、お子様1名でよろしいでしょうか。**  
+*Go-ninzuu wa otona ni-mei, o-ko-sama ichi-mei de yoroshii deshou ka.*  
 Is the party 2 adults and 1 child?
-<br><br>
-<span class="keigo-jp"><code>お部屋の最大人数は4名様となっております。</code></span><br>
-<em>O-heya no saidai ninzuu wa yo-mei-sama to natte orimasu.</em><br>
+
+**お部屋の最大人数は4名様となっております。**  
+*O-heya no saidai ninzuu wa yo-mei-sama to natte orimasu.*  
 The maximum occupancy for this room is 4 guests.
-</div>
 
 ## Related Expressions
 

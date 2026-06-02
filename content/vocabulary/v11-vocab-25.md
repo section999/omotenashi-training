@@ -9,19 +9,17 @@ title: 対応中 (taiou chuu)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご依頼は現在対応中です。もう少々お待ちください。</code></span><br>
-<em>Goirai wa genzai taiouchuu desu. Mou shoushou omachi kudasai.</em><br>
+**ご依頼は現在対応中です。もう少々お待ちください。**  
+*Goirai wa genzai taiouchuu desu. Mou shoushou omachi kudasai.*  
 Your request is currently being handled. Please wait just a little longer.
-<br><br>
-<span class="keigo-jp"><code>ただいま対応中でございます。あと10分ほどでご連絡いたします。</code></span><br>
-<em>Tadaima taiouchuu de gozaimasu. Ato juppun hodo de go-renraku itashimasu.</em><br>
+
+**ただいま対応中でございます。あと10分ほどでご連絡いたします。**  
+*Tadaima taiouchuu de gozaimasu. Ato juppun hodo de go-renraku itashimasu.*  
 It is currently being handled. We will contact you in approximately 10 minutes.
-<br><br>
-<span class="keigo-jp"><code>フロントにて対応中のため、担当者が席を外しております。</code></span><br>
-<em>Furonto nite taiouchuu no tame, tantousha ga seki wo hazashite orimasu.</em><br>
+
+**フロントにて対応中のため、担当者が席を外しております。**  
+*Furonto nite taiouchuu no tame, tantousha ga seki wo hazashite orimasu.*  
 The person in charge is away from their desk as they are currently handling a matter at the front desk.
-</div>
 
 ## Related Expressions
 

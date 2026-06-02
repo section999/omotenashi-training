@@ -10,19 +10,17 @@ When a guest comes to the front desk asking about ランドリー, staff should 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お客様、ランドリーサービスをご利用になりますか？本日の受付は午後3時までとなっております。</code></span><br>
-<em>Okyakusama, randorii saabisu o go-riyou ni narimasu ka? Honjitsu no uketsuke wa gogo san-ji made to natte orimasu.</em><br>
+**お客様、ランドリーサービスをご利用になりますか？本日の受付は午後3時までとなっております。**  
+*Okyakusama, randorii saabisu o go-riyou ni narimasu ka? Honjitsu no uketsuke wa gogo san-ji made to natte orimasu.*  
 Would you like to use our laundry service? Today's cut-off for same-day processing is 3:00 PM.
-<br><br>
-<span class="keigo-jp"><code>コイン式のランドリールームは2階にございます。洗剤は無料でお使いいただけます。</code></span><br>
-<em>Koin-shiki no randorii ruumu wa ni-kai ni gozaimasu. Senzai wa muryou de o-tsukai itadakemasu.</em><br>
+
+**コイン式のランドリールームは2階にございます。洗剤は無料でお使いいただけます。**  
+*Koin-shiki no randorii ruumu wa ni-kai ni gozaimasu. Senzai wa muryou de o-tsukai itadakemasu.*  
 The coin-operated laundry room is on the second floor. Detergent is available free of charge.
-<br><br>
-<span class="keigo-jp"><code>旅館では翌朝までにランドリーを仕上げてお部屋にお届けいたします。</code></span><br>
-<em>Ryokan de wa yokuasa made ni randorii o shiagete o-heya ni o-todoke itashimasu.</em><br>
+
+**旅館では翌朝までにランドリーを仕上げてお部屋にお届けいたします。**  
+*Ryokan de wa yokuasa made ni randorii o shiagete o-heya ni o-todoke itashimasu.*  
 At our ryokan, we will have your laundry finished and delivered to the room by the following morning.
-</div>
 
 ## Related Expressions
 

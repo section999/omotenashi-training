@@ -9,19 +9,17 @@ Effective 説明 follows a structure: telling the guest what one is about to exp
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋の設備についてご説明いたします。</code></span><br>
-<em>Oheya no setsubi ni tsuite go-setsumei itashimasu.</em><br>
+**お部屋の設備についてご説明いたします。**  
+*Oheya no setsubi ni tsuite go-setsumei itashimasu.*  
 I will explain the facilities in the room.
-<br><br>
-<span class="keigo-jp"><code>チェックアウトの手順をご説明いたしますので、よろしければお聞きください。</code></span><br>
-<em>Chekkuauto no tejun wo go-setsumei itashimasu node, yoroshikereba okiki kudasai.</em><br>
+
+**チェックアウトの手順をご説明いたしますので、よろしければお聞きください。**  
+*Chekkuauto no tejun wo go-setsumei itashimasu node, yoroshikereba okiki kudasai.*  
 I will explain the check-out procedure: please listen at your convenience.
-<br><br>
-<span class="keigo-jp"><code>以上がご朝食会場へのご説明でございます。ご不明な点はございますでしょうか。</code></span><br>
-<em>Ijou ga go-choushoku kaijou e no go-setsumei de gozaimasu. Go-fumei na ten wa gozaimasu deshou ka.</em><br>
+
+**以上がご朝食会場へのご説明でございます。ご不明な点はございますでしょうか。**  
+*Ijou ga go-choushoku kaijou e no go-setsumei de gozaimasu. Go-fumei na ten wa gozaimasu deshou ka.*  
 That concludes the explanation of the breakfast venue. Do you have any questions?
-</div>
 
 ## Related Expressions
 

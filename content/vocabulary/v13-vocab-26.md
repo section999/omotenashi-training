@@ -10,19 +10,17 @@ title: 手順 (tejun)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。</code></span><br>
-<em>Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.</em><br>
+**清掃の手順に沿って作業を進めることで、客室の品質を一定に保てます。**  
+*Seisou no tejun ni sotte sagyou wo susumeru koto de, kyakushitsu no hinshitsu wo ittei ni tamote masu.*  
 By following the cleaning procedure, we can maintain consistent guest room quality.
-<br><br>
-<span class="keigo-jp"><code>緊急時の対応手順については、全スタッフが熟知しておく必要があります。</code></span><br>
-<em>Kinkyuuji no taiou tejun ni tsuite wa, zen sutaffu ga jukuchi shite oku hitsuyou ga arimasu.</em><br>
+
+**緊急時の対応手順については、全スタッフが熟知しておく必要があります。**  
+*Kinkyuuji no taiou tejun ni tsuite wa, zen sutaffu ga jukuchi shite oku hitsuyou ga arimasu.*  
 All staff must be thoroughly familiar with the emergency response procedure.
-<br><br>
-<span class="keigo-jp"><code>新しい予約システムの操作手順を、マニュアルにまとめてご案内いたします。</code></span><br>
-<em>Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.</em><br>
+
+**新しい予約システムの操作手順を、マニュアルにまとめてご案内いたします。**  
+*Atarashii yoyaku shisutemu no sousa tejun wo, manyuaru ni matomete go-annai itashimasu.*  
 I will compile the operating procedure for the new reservation system into a manual and provide guidance.
-</div>
 
 ## Related Expressions
 

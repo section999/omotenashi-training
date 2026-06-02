@@ -52,7 +52,9 @@ The most important words in any handover entry are the status terms. They tell t
 <div class="keigo-card blue">
 Always write: <strong>[Location] + [Problem] + [Status]</strong><br><br>
 <span class="keigo-badge good">Correct</span> <span class="keigo-jp"><code>305号室：空調不良。修理手配済み（明日対応予定）。</code></span><br>
+<em>305 gou shitsu : kuchou furyou. shuri tehai zumi ( ashita taiou yotei ).</em><br>
 <span class="keigo-badge bad">Wrong</span> <span class="keigo-jp"><code>エアコン壊れています。</code></span><br><br>
+<em>eakon koware te imasu.</em><br>
 A problem without location and status is unusable information.
 </div>
 

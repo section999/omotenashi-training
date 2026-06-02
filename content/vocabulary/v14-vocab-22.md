@@ -10,19 +10,17 @@ Concierge staff who can read a 時刻表 quickly, or who know how to pull one up
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>電車の時刻表を確認しました。</code></span><br>
-<em>Densha no jikokuhyou wo kakunin shimashita.</em><br>
+**電車の時刻表を確認しました。**  
+*Densha no jikokuhyou wo kakunin shimashita.*  
 I checked the train timetable.
-<br><br>
-<span class="keigo-jp"><code>最終バスの時刻表をご確認のうえ、お時間に余裕をもってお出かけください。</code></span><br>
-<em>Saishuu basu no jikokuhyou wo gokakunin no ue, ojikan ni yoyuu wo motte odekake kudasai.</em><br>
+
+**最終バスの時刻表をご確認のうえ、お時間に余裕をもってお出かけください。**  
+*Saishuu basu no jikokuhyou wo gokakunin no ue, ojikan ni yoyuu wo motte odekake kudasai.*  
 Please check the last bus timetable and allow yourself plenty of time.
-<br><br>
-<span class="keigo-jp"><code>新幹線の時刻表はこちらのタブレットからご覧いただけます。</code></span><br>
-<em>Shinkansen no jikokuhyou wa kochira no taburetto kara goran itadakemasu.</em><br>
+
+**新幹線の時刻表はこちらのタブレットからご覧いただけます。**  
+*Shinkansen no jikokuhyou wa kochira no taburetto kara goran itadakemasu.*  
 You can view the shinkansen timetable on this tablet.
-</div>
 
 ## Related Expressions
 

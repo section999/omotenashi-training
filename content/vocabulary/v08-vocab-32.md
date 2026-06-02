@@ -10,19 +10,17 @@ That weather awareness is where 外 connects to omotenashi. Telling a guest the 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>喫煙所は建物の外、正面玄関を出て右手にございます。</code></span><br>
-<em>Kitsuenjo wa tatemono no soto, shoumen genkan wo dete migite ni gozaimasu.</em><br>
+**喫煙所は建物の外、正面玄関を出て右手にございます。**  
+*Kitsuenjo wa tatemono no soto, shoumen genkan wo dete migite ni gozaimasu.*  
 The smoking area is outside the building, to the right after exiting the main entrance.
-<br><br>
-<span class="keigo-jp"><code>プールはホテルの外、庭園の奥にございます。</code></span><br>
-<em>Puuru wa hoteru no soto, teien no oku ni gozaimasu.</em><br>
+
+**プールはホテルの外、庭園の奥にございます。**  
+*Puuru wa hoteru no soto, teien no oku ni gozaimasu.*  
 The pool is outside the hotel, at the far end of the garden.
-<br><br>
-<span class="keigo-jp"><code>タクシー乗り場は外に出ていただき、左手にございます。本日は雨でございますので、傘をお持ちください。</code></span><br>
-<em>Takushii noriba wa soto ni dete itadaki, hidarite ni gozaimasu. Honjitsu wa ame de gozaimasu no de, kasa wo o-mochi kudasai.</em><br>
+
+**タクシー乗り場は外に出ていただき、左手にございます。本日は雨でございますので、傘をお持ちください。**  
+*Takushii noriba wa soto ni dete itadaki, hidarite ni gozaimasu. Honjitsu wa ame de gozaimasu no de, kasa wo o-mochi kudasai.*  
 The taxi stand is outside to the left. As it is raining today, please take an umbrella.
-</div>
 
 ## Related Expressions
 

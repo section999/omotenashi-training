@@ -18,21 +18,30 @@ A pre-arrival email is sent several days before the guest's check-in date. Its p
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>【ご到着前のご案内】[Name]様 ご滞在について</code></span><br><br>
+<em>【 go touchaku mae no go-annai 】[ Name ] sama go-taizai nitsuite</em><br>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
 <span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。</code></span><br>
+<em>go touchaku mae no go-annai o ookuri itashimasu.</em><br>
 We are sending you the following information before your arrival.<br><br>
 <span class="keigo-jp"><code>チェックイン開始時間は15:00からでございます。</code></span><br>
+<em>chekkuin kaishi jikan wa 15 : 00 kara de gozaimasu.</em><br>
 Check-in begins at 15:00.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11:00でございます。</code></span><br>
+<em>chekku auto wa 11 : 00 de gozaimasu.</em><br>
 Checkout is at 11:00.<br><br>
 <span class="keigo-jp"><code>駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。</code></span><br>
+<em>chusha jou o go-riyou no okyakusama wa, hoteru shoumen iriguchi made okoshi kudasaimase.</em><br>
 Guests using the parking lot, please proceed to the hotel front entrance.<br><br>
 <span class="keigo-jp"><code>チェックイン時にパスポートまたは身分証明書をご提示いただけますと幸いでございます。</code></span><br>
+<em>chekkuin ji ni pasupouto matawa mibun shoumei sho o go teiji itadake masu to saiwai de gozaimasu.</em><br>
 We would appreciate it if you could present your passport or ID at check-in.<br><br>
 <span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code></span><br>
+<em>go fumei na ten ya go-youbou nado gozai mashitara, touchaku mae ni mo o kigaru ni go-renraku kudasaimase.</em><br>
 If you have any questions or requests before your arrival, please feel free to contact us.<br><br>
 <span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
 All of our staff sincerely look forward to your arrival.
 </div>
 
@@ -50,7 +59,7 @@ Every operational fact (check-in time, checkout time, location) should use で�
 
 **Use soft forms for requests**
 
-When asking the guest to bring something or do something, use 〜いただけますと幸いでございます rather than a direct command.
+When asking the guest to bring something or do something, use ○○いただけますと幸いでございます rather than a direct command.
 
 
 **Do not overwhelm**
@@ -62,9 +71,11 @@ A pre-arrival email should cover only the most important practical information. 
 <div class="keigo-card blue">
 <strong>Transportation:</strong><br>
 <span class="keigo-jp"><code>最寄り駅は〇〇駅でございます。徒歩5分ほどでございます。</code></span><br>
+<em>moyorieki wa 〇 〇 eki de gozaimasu. toho 5 fun hodo de gozaimasu.</em><br>
 The nearest station is [Station]. It is approximately a 5-minute walk.<br><br>
 <strong>Amenity note:</strong><br>
 <span class="keigo-jp"><code>プールは10:00〜21:00にご利用いただけます。</code></span><br>
+<em>puru wa 10 : 00 〜 21 : 00 ni go-riyou itadake masu.</em><br>
 The pool is available from 10:00 to 21:00.
 </div>
 

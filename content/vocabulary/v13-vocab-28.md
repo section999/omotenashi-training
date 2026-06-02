@@ -9,19 +9,17 @@ The concept of 効率 is closely linked to 改善 (kaizen, continuous improvemen
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックイン業務の効率を高めるため、タブレット端末を導入いたしました。</code></span><br>
-<em>Chekku-in gyoumu no kouritsu wo takameru tame, taburetto tanmatsu wo dounyuu itashimashita.</em><br>
+**チェックイン業務の効率を高めるため、タブレット端末を導入いたしました。**  
+*Chekku-in gyoumu no kouritsu wo takameru tame, taburetto tanmatsu wo dounyuu itashimashita.*  
 We have introduced tablet devices in order to improve the efficiency of check-in operations.
-<br><br>
-<span class="keigo-jp"><code>効率よく客室を清掃するために、各フロアの担当エリアを見直しました。</code></span><br>
-<em>Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoiimashita.</em><br>
+
+**効率よく客室を清掃するために、各フロアの担当エリアを見直しました。**  
+*Kouritsu yoku kyakushitsu wo seisou suru tame ni, kaku furoa no tantou eria wo minaoiimashita.*  
 We have reviewed the assigned areas on each floor in order to clean guest rooms more efficiently.
-<br><br>
-<span class="keigo-jp"><code>スタッフの皆様のご協力のおかげで、業務効率が大幅に改善されました。</code></span><br>
-<em>Sutaffu no minasama no go-kyouryoku no okage de, gyoumu kouritsu ga oohaba ni kaizen saremashita.</em><br>
+
+**スタッフの皆様のご協力のおかげで、業務効率が大幅に改善されました。**  
+*Sutaffu no minasama no go-kyouryoku no okage de, gyoumu kouritsu ga oohaba ni kaizen saremashita.*  
 Thanks to the cooperation of all staff members, operational efficiency has improved significantly.
-</div>
 
 ## Related Expressions
 

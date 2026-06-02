@@ -10,19 +10,17 @@ The term is borrowed directly from English and used consistently across hotel ch
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約内容はシングルルーム一泊でございます。</code></span><br>
-<em>Go-yoyaku naiyou wa shinguru-ruumu ippaku de gozaimasu.</em><br>
+**ご予約内容はシングルルーム一泊でございます。**  
+*Go-yoyaku naiyou wa shinguru-ruumu ippaku de gozaimasu.*  
 Your reservation is for a single room, one night.
-<br><br>
-<span class="keigo-jp"><code>シングルルームにご案内いたします。エレベーターはあちらでございます。</code></span><br>
-<em>Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.</em><br>
+
+**シングルルームにご案内いたします。エレベーターはあちらでございます。**  
+*Shinguru-ruumu ni go-annai itashimasu. Erebeetaa wa achira de gozaimasu.*  
 I will show you to your single room. The elevator is over there.
-<br><br>
-<span class="keigo-jp"><code>シングルルームのベッドはセミダブルサイズでございますのでご安心ください。</code></span><br>
-<em>Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.</em><br>
+
+**シングルルームのベッドはセミダブルサイズでございますのでご安心ください。**  
+*Shinguru-ruumu no beddo wa semi-daburu saizu de gozaimasu no de go-anshin kudasai.*  
 Please be assured that the single room's bed is semi-double size.
-</div>
 
 ## Related Expressions
 

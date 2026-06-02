@@ -9,19 +9,17 @@ Note for day-to-day work: many countries have visa-exemption agreements with Jap
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>観光目的でご入国の場合、ビザが必要かどうかは国籍によって異なります。</code></span><br>
-<em>Kankou mokuteki de gonyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.</em><br>
+**観光目的でご入国の場合、ビザが必要かどうかは国籍によって異なります。**  
+*Kankou mokuteki de gonyuukoku no baai, biza ga hitsuyou ka dou ka wa kokuseki ni yotte kotonari masu.*  
 Whether a visa is required for entry for tourism purposes depends on the guest's nationality.
-<br><br>
-<span class="keigo-jp"><code>お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。</code></span><br>
-<em>Okyakusama no biza no yuukoukigen wo furonto nite gokakunin itadakemasu deshou ka.</em><br>
+
+**お客様のビザの有効期限をフロントにてご確認いただけますでしょうか。**  
+*Okyakusama no biza no yuukoukigen wo furonto nite gokakunin itadakemasu deshou ka.*  
 Would you be able to confirm your visa's expiry date at the front desk?
-<br><br>
-<span class="keigo-jp"><code>ビザの延長については、最寄りの入国管理局にお問い合わせください。</code></span><br>
-<em>Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.</em><br>
+
+**ビザの延長については、最寄りの入国管理局にお問い合わせください。**  
+*Biza no enchoku ni tsuite wa, moyori no nyuukoku kanrikyoku ni otoiawase kudasai.*  
 For visa extensions, please contact the nearest immigration office.
-</div>
 
 ## Related Expressions
 

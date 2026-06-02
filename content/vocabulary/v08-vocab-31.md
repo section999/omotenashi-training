@@ -10,19 +10,17 @@ Saying 中へどうぞ is not just directional; it carries a sense of invitation
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>会議室は建物の中、3階の奥にございます。</code></span><br>
-<em>Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.</em><br>
+**会議室は建物の中、3階の奥にございます。**  
+*Kaigishitsu wa tatemono no naka, san-kai no oku ni gozaimasu.*  
 The conference room is inside the building, at the far end of the third floor.
-<br><br>
-<span class="keigo-jp"><code>アメニティはバスルームの中にご用意しております。</code></span><br>
-<em>Amenitii wa basurumu no naka ni go-youi shite orimasu.</em><br>
+
+**アメニティはバスルームの中にご用意しております。**  
+*Amenitii wa basurumu no naka ni go-youi shite orimasu.*  
 The amenities are prepared inside the bathroom.
-<br><br>
-<span class="keigo-jp"><code>レストランはホテルの建物の中にございますので、外へお出になる必要はございません。</code></span><br>
-<em>Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.</em><br>
+
+**レストランはホテルの建物の中にございますので、外へお出になる必要はございません。**  
+*Resutoran wa hoteru no tatemono no naka ni gozaimasu no de, soto e o-de ni naru hitsuyou wa gozaimasen.*  
 The restaurant is inside the hotel building, so there is no need to go outside.
-</div>
 
 ## Related Expressions
 

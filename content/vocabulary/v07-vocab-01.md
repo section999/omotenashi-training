@@ -9,19 +9,17 @@ Staff must know not only the location of each elevator bank but also any access 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エレベーターは正面玄関を入ってすぐ左手にございます。</code></span><br>
-<em>Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.</em><br>
+**エレベーターは正面玄関を入ってすぐ左手にございます。**  
+*Erebeetaa wa shoumen genkan wo haitte sugu hidarite ni gozaimasu.*  
 The elevator is immediately to your left as one enter the main entrance.
-<br><br>
-<span class="keigo-jp"><code>エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。</code></span><br>
-<em>Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.</em><br>
+
+**エレベーターで10階までお上がりください。お部屋は右手の廊下の突き当たりでございます。**  
+*Erebeetaa de jukkai made o-agari kudasai. O-heya wa migite no rouka no tsukiatari de gozaimasu.*  
 Please take the elevator to the 10th floor. Your room is at the end of the corridor on the right.
-<br><br>
-<span class="keigo-jp"><code>ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。</code></span><br>
-<em>Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.</em><br>
+
+**ただいまエレベーターが混み合っておりますので、少々お待ちいただけますでしょうか。**  
+*Tadaima erebeetaa ga komiate orimasu node, shoushou o-machi itadakemasu deshou ka.*  
 The elevators are quite busy at the moment: would you mind waiting just a moment?
-</div>
 
 ## Related Expressions
 

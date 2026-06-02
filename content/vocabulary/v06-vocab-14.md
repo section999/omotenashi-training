@@ -9,19 +9,17 @@ title: 停電 (teiden)
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。</code></span><br>
-<em>Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.</em><br>
+**現在、停電が発生しております。ご不便をおかけして誠に申し訳ございません。**  
+*Genzai, teiden ga hassei shite orimasu. Go-fuben wo okake shite makoto ni moushiwake gozaimasen.*  
 A power outage is currently occurring. We sincerely apologize for the inconvenience.
-<br><br>
-<span class="keigo-jp"><code>停電の復旧まで、非常用照明をご利用ください。</code></span><br>
-<em>Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.</em><br>
+
+**停電の復旧まで、非常用照明をご利用ください。**  
+*Teiden no fukkyuu made, hijiyou-you shoumei wo go-riyou kudasai.*  
 Please use the emergency lighting until power is restored.
-<br><br>
-<span class="keigo-jp"><code>停電の影響で、エレベーターが一時的にご利用いただけません。</code></span><br>
-<em>Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.</em><br>
+
+**停電の影響で、エレベーターが一時的にご利用いただけません。**  
+*Teiden no eikyou de, erebeetaa ga ichijiteki ni go-riyou itadakemasen.*  
 Due to the power outage, the elevator is temporarily out of service.
-</div>
 
 ## Related Expressions
 

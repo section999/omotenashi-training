@@ -10,19 +10,17 @@ The most common mistake with 折り返し is leaving out the timeframe. Saying �
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>担当者より1時間以内に折り返しご連絡いたします。</code></span><br>
-<em>Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.</em><br>
+**担当者より1時間以内に折り返しご連絡いたします。**  
+*Tantōsha yori ichijikan inai ni orikaeshi gorenraku itashimasu.*  
 The person in charge will call you back within one hour.
-<br><br>
-<span class="keigo-jp"><code>折り返しのお電話のため、お電話番号をお伺いできますか。</code></span><br>
-<em>Orikaeshi no odenwa no tame, odenwa bangō wo oukagai dekimasu ka.</em><br>
+
+**折り返しのお電話のため、お電話番号をお伺いできますか。**  
+*Orikaeshi no odenwa no tame, odenwa bangō wo oukagai dekimasu ka.*  
 May I have your phone number so we can call you back?
-<br><br>
-<span class="keigo-jp"><code>折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。</code></span><br>
-<em>Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.</em><br>
+
+**折り返しのご連絡が遅くなりまして、大変申し訳ございませんでした。**  
+*Orikaeshi no gorenraku ga osoku narimashite, taihen mōshiwake gozaimashendeshita.*  
 We sincerely apologize for the delay in returning your call.
-</div>
 
 ## Related Expressions
 

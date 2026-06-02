@@ -10,19 +10,17 @@ One phrase that works well in these situations is 「日本では～という習
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>日本では、靴を脱いでから施設に入る習慣がございます。</code></span><br>
-<em>Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.</em><br>
+**日本では、靴を脱いでから施設に入る習慣がございます。**  
+*Nihon de wa, kutsu wo nuide kara shisetsu ni hairu shuukan ga gozaimasu.*  
 In Japan, there is a custom of removing your shoes before entering the facility.
-<br><br>
-<span class="keigo-jp"><code>お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。</code></span><br>
-<em>O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.</em><br>
+
+**お風呂の前に体を洗う習慣は、日本の温泉文化において非常に重要です。**  
+*O-furo no mae ni karada wo arau shuukan wa, nihon no onsen bunka ni oite hijou ni juuyou desu.*  
 The custom of washing your body before bathing is extremely important in Japan's hot spring culture.
-<br><br>
-<span class="keigo-jp"><code>チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。</code></span><br>
-<em>Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.</em><br>
+
+**チップを渡す習慣は日本にはございませんので、サービスは料金に含まれております。**  
+*Chippu wo watasu shuukan wa nihon ni wa gozaimasen no de, saabisu wa ryoukin ni fukumarete orimasu.*  
 There is no custom of tipping in Japan, as the service charge is included in the price.
-</div>
 
 ## Related Expressions
 

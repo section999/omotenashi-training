@@ -10,19 +10,17 @@ When posting a 使用禁止 notice, staff should ensure it is visible at every a
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>安全点検のため、このジムのトレッドミルは使用禁止となっております。</code></span><br>
-<em>Anzen tenken no tame, kono jimu no toreddoMiru wa shiyou kinshi to natte orimasu.</em><br>
+**安全点検のため、このジムのトレッドミルは使用禁止となっております。**  
+*Anzen tenken no tame, kono jimu no toreddoMiru wa shiyou kinshi to natte orimasu.*  
 This gym treadmill is prohibited from use due to a safety inspection.
-<br><br>
-<span class="keigo-jp"><code>使用禁止の表示がある機器はご利用になれませんので、ご了承ください。</code></span><br>
-<em>Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.</em><br>
+
+**使用禁止の表示がある機器はご利用になれませんので、ご了承ください。**  
+*Shiyou kinshi no hyouji ga aru kiki wa goriyou ni narenmasen node, goryoushou kudasai.*  
 Please note that equipment displaying a'do not use' sign cannot be operated.
-<br><br>
-<span class="keigo-jp"><code>プールの水質検査が完了次第、使用禁止を解除いたします。</code></span><br>
-<em>Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.</em><br>
+
+**プールの水質検査が完了次第、使用禁止を解除いたします。**  
+*Puuru no suishitsu kensa ga kanryou shidai, shiyou kinshi wo kaijo itashimasu.*  
 The pool's'do not use' restriction will be lifted as soon as the water quality inspection is complete.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ One practical nuance worth getting comfortable with: 下 as a general "downward"
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>駐車場は地下2階の下にございます。エレベーターをご利用ください。</code></span><br>
-<em>Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.</em><br>
+**駐車場は地下2階の下にございます。エレベーターをご利用ください。**  
+*Chuushajou wa chika ni-kai no shita ni gozaimasu. Erebeetaa wo go-riyou kudasai.*  
 The parking lot is below on basement level 2. Please use the elevator.
-<br><br>
-<span class="keigo-jp"><code>スパ施設は下の階、地下1階にてお待ちしております。</code></span><br>
-<em>Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.</em><br>
+
+**スパ施設は下の階、地下1階にてお待ちしております。**  
+*Supa shisetsu wa shita no kai, chika ikkai nite o-machi shite orimasu.*  
 The spa facilities are on the floor below, basement level 1.
-<br><br>
-<span class="keigo-jp"><code>ベッドの下にセーフティボックスがございますので、ご確認ください。</code></span><br>
-<em>Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.</em><br>
+
+**ベッドの下にセーフティボックスがございますので、ご確認ください。**  
+*Beddo no shita ni seefu-tii bokkusu ga gozaimasu no de, go-kakunin kudasai.*  
 There is a safety box under the bed, so please take note.
-</div>
 
 ## Related Expressions
 

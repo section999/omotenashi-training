@@ -9,19 +9,17 @@ The most important principle when speaking with a guest about a 水漏れ is to 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>バスルームの水漏れのご報告をありがとうございます。ただいまメンテナンスをお送りいたします。</code></span><br>
-<em>Basuroomu no mizumore no go-houkoku wo arigatou gozaimasu. Tadaima mentenansu wo o-okuri itashimasu.</em><br>
+**バスルームの水漏れのご報告をありがとうございます。ただいまメンテナンスをお送りいたします。**  
+*Basuroomu no mizumore no go-houkoku wo arigatou gozaimasu. Tadaima mentenansu wo o-okuri itashimasu.*  
 Thank you for reporting the water leak in the bathroom. We are sending maintenance right away.
-<br><br>
-<span class="keigo-jp"><code>水漏れが確認されましたので、お部屋を変更させていただいてもよろしいでしょうか。</code></span><br>
-<em>Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshoo ka.</em><br>
+
+**水漏れが確認されましたので、お部屋を変更させていただいてもよろしいでしょうか。**  
+*Mizumore ga kakunin saremashita no de, oheya wo henkou sasete itadaite mo yoroshii deshoo ka.*  
 We have confirmed the water leak, so may we change the room?
-<br><br>
-<span class="keigo-jp"><code>水漏れの状況を確認いたしますので、ただいまお部屋にお伺いしてもよろしいでしょうか。</code></span><br>
-<em>Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshoo ka.</em><br>
+
+**水漏れの状況を確認いたしますので、ただいまお部屋にお伺いしてもよろしいでしょうか。**  
+*Mizumore no joukyou wo kakunin itashimasu no de, tadaima oheya ni o-ukagai shite mo yoroshii deshoo ka.*  
 May we come to the room now to check the water leak situation?
-</div>
 
 ## Related Expressions
 

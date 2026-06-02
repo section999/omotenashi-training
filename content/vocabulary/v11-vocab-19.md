@@ -10,19 +10,17 @@ On the practical side, 確認いたします comes up constantly: verifying rese
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>担当者に確認いたします。少々お待ちいただけますか。</code></span><br>
-<em>Tantousha ni kakunin itashimasu. Shoushou omachi itadakemasu ka.</em><br>
+**担当者に確認いたします。少々お待ちいただけますか。**  
+*Tantousha ni kakunin itashimasu. Shoushou omachi itadakemasu ka.*  
 I will check with the person in charge. Could you wait a moment?
-<br><br>
-<span class="keigo-jp"><code>ご予約の内容を確認いたします。</code></span><br>
-<em>Goyoyaku no naiyou wo kakunin itashimasu.</em><br>
+
+**ご予約の内容を確認いたします。**  
+*Goyoyaku no naiyou wo kakunin itashimasu.*  
 I will confirm the details of your reservation.
-<br><br>
-<span class="keigo-jp"><code>確認に少々時間をいただいております。もう少々お待ちください。</code></span><br>
-<em>Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.</em><br>
+
+**確認に少々時間をいただいております。もう少々お待ちください。**  
+*Kakunin ni shoushou jikan wo itadaite orimasu. Mou shoushou omachi kudasai.*  
 I am currently taking a moment to confirm. Please wait just a little longer.
-</div>
 
 ## Related Expressions
 

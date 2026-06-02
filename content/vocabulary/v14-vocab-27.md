@@ -10,19 +10,17 @@ Knowing how to frame cultural differences diplomatically is a notably useful ski
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>日本の伝統文化をご体験いただけるプランをご用意しております。</code></span><br>
-<em>Nihon no dentou bunka wo go-taiken itadakeru puran wo go-youi shite orimasu.</em><br>
+**日本の伝統文化をご体験いただけるプランをご用意しております。**  
+*Nihon no dentou bunka wo go-taiken itadakeru puran wo go-youi shite orimasu.*  
 We have prepared plans that allow you to experience traditional Japanese culture.
-<br><br>
-<span class="keigo-jp"><code>茶道は日本文化の美しさと精神を体現した芸術です。</code></span><br>
-<em>Sadou wa nihon bunka no utsukushisa to seishin wo taigen shita geijutsu desu.</em><br>
+
+**茶道は日本文化の美しさと精神を体現した芸術です。**  
+*Sadou wa nihon bunka no utsukushisa to seishin wo taigen shita geijutsu desu.*  
 The tea ceremony is an art form that embodies the beauty and spirit of Japanese culture.
-<br><br>
-<span class="keigo-jp"><code>異なる文化を尊重し合うことが、すばらしい旅の体験につながります。</code></span><br>
-<em>Kotonaru bunka wo sonchou shi au koto ga, subarashii tabi no taiken ni tsunagarimasu.</em><br>
+
+**異なる文化を尊重し合うことが、すばらしい旅の体験につながります。**  
+*Kotonaru bunka wo sonchou shi au koto ga, subarashii tabi no taiken ni tsunagarimasu.*  
 Mutually respecting different cultures leads to a wonderful travel experience.
-</div>
 
 ## Related Expressions
 

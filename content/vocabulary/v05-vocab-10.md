@@ -9,19 +9,17 @@ The phrase 食後にコーヒーはいかがでしょうか is a standard exampl
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>食後にコーヒーはいかがでしょうか。</code></span><br>
-<em>Shokugo ni koohii wa ikaga deshou ka.</em><br>
+**食後にコーヒーはいかがでしょうか。**  
+*Shokugo ni koohii wa ikaga deshou ka.*  
 How about coffee after your meal?
-<br><br>
-<span class="keigo-jp"><code>コーヒーはホットとアイス、どちらになさいますか。</code></span><br>
-<em>Koohii wa hotto to aisu, dochira ni nasaimasu ka.</em><br>
+
+**コーヒーはホットとアイス、どちらになさいますか。**  
+*Koohii wa hotto to aisu, dochira ni nasaimasu ka.*  
 Would you like your coffee hot or iced?
-<br><br>
-<span class="keigo-jp"><code>本日のコーヒーはエチオピア産の豆を使用しております。</code></span><br>
-<em>Honjitsu no koohii wa Echiopia-san no mame wo shiyou shite orimasu.</em><br>
+
+**本日のコーヒーはエチオピア産の豆を使用しております。**  
+*Honjitsu no koohii wa Echiopia-san no mame wo shiyou shite orimasu.*  
 Today's coffee is made using beans sourced from Ethiopia.
-</div>
 
 ## Related Expressions
 

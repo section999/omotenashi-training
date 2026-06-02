@@ -10,19 +10,17 @@ Beyond the guest experience, 禁煙 has legal and safety implications. Smoking i
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約は禁煙室でよろしいでしょうか？</code></span><br>
-<em>Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?</em><br>
+**ご予約は禁煙室でよろしいでしょうか？**  
+*Go-yoyaku wa kin'en-shitsu de yoroshii deshou ka?*  
 Is your reservation for a non-smoking room?
-<br><br>
-<span class="keigo-jp"><code>当ホテルの上層階はすべて禁煙フロアとなっております。</code></span><br>
-<em>Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.</em><br>
+
+**当ホテルの上層階はすべて禁煙フロアとなっております。**  
+*Tou-hoteru no joususou-kai wa subete kin'en-furoa to natte orimasu.*  
 All upper floors of our hotel are non-smoking.
-<br><br>
-<span class="keigo-jp"><code>禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。</code></span><br>
-<em>Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.</em><br>
+
+**禁煙室でのご喫煙はご遠慮いただいております。お困りの際はフロントまでお申し付けください。**  
+*Kin'en-shitsu de no go-kitsuen wa go-enryo itadaite orimasu. O-komari no sai wa furonto made o-moushitsuke kudasai.*  
 We ask guests to refrain from smoking in non-smoking rooms. If you have any concerns, please contact the front desk.
-</div>
 
 ## Related Expressions
 

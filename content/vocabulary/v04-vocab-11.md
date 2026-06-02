@@ -9,19 +9,17 @@ Staff should be ready to tell guests exactly where the コンディショナー 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>コンディショナーはシャンプーの隣にシャワー横の棚にございます。</code></span><br>
-<em>Kondishonaa wa shanpuu no tonari ni shawaa yoko no tana ni gozaimasu.</em><br>
+**コンディショナーはシャンプーの隣にシャワー横の棚にございます。**  
+*Kondishonaa wa shanpuu no tonari ni shawaa yoko no tana ni gozaimasu.*  
 The conditioner is on the shelf next to the shower, beside the shampoo.
-<br><br>
-<span class="keigo-jp"><code>コンディショナーをお持ちいたします。少々お待ちくださいませ。</code></span><br>
-<em>Kondishonaa wo omochi itashimasu. Shoushou omachi kudasaimase.</em><br>
+
+**コンディショナーをお持ちいたします。少々お待ちくださいませ。**  
+*Kondishonaa wo omochi itashimasu. Shoushou omachi kudasaimase.*  
 I will bring you conditioner. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>バスルームにはシャンプーとコンディショナーをご用意しております。</code></span><br>
-<em>Basurumu ni wa shanpuu to kondishonaa wo goyo'i shite orimasu.</em><br>
+
+**バスルームにはシャンプーとコンディショナーをご用意しております。**  
+*Basurumu ni wa shanpuu to kondishonaa wo goyo'i shite orimasu.*  
 Both shampoo and conditioner are provided in the bathroom.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ This phrase comes up most when a guest is about to pay or when explaining bookin
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>本日ご利用いただける支払い方法は、現金、クレジットカード、電子決済の三種類でございます。</code></span><br>
-<em>Honjitsu go-riyou itadakeru shiharai houhou wa, genkin, kurejitto kaado, denshi kessai no sanshu rui de gozaimasu.</em><br>
+**本日ご利用いただける支払い方法は、現金、クレジットカード、電子決済の三種類でございます。**  
+*Honjitsu go-riyou itadakeru shiharai houhou wa, genkin, kurejitto kaado, denshi kessai no sanshu rui de gozaimasu.*  
 The payment methods available today are cash, credit card, and electronic payment: three options in total.
-<br><br>
-<span class="keigo-jp"><code>チェックイン前に支払い方法をご確認いただけますでしょうか。</code></span><br>
-<em>Chekkuin mae ni shiharai houhou wo go-kakunin itadakemasu deshou ka.</em><br>
+
+**チェックイン前に支払い方法をご確認いただけますでしょうか。**  
+*Chekkuin mae ni shiharai houhou wo go-kakunin itadakemasu deshou ka.*  
 Could we confirm your preferred payment method before check-in?
-<br><br>
-<span class="keigo-jp"><code>分割払いをご希望の場合は、支払い方法の変更が必要でございます。</code></span><br>
-<em>Bunkatsu barai wo go-kibou no baai wa, shiharai houhou no henkou ga hitsuyou de gozaimasu.</em><br>
+
+**分割払いをご希望の場合は、支払い方法の変更が必要でございます。**  
+*Bunkatsu barai wo go-kibou no baai wa, shiharai houhou no henkou ga hitsuyou de gozaimasu.*  
 If you would like to pay in installments, we will need to change the payment method.
-</div>
 
 ## Related Expressions
 

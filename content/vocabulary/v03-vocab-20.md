@@ -9,19 +9,17 @@ In room-orientation briefings, staff typically explain: 「テレビはリモコ
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋のテレビはリモコンで操作可能でございます。</code></span><br>
-<em>Oheya no terebi wa rimokon de sousa kanou de gozaimasu.</em><br>
+**お部屋のテレビはリモコンで操作可能でございます。**  
+*Oheya no terebi wa rimokon de sousa kanou de gozaimasu.*  
 The TV in the room can be operated with the remote.
-<br><br>
-<span class="keigo-jp"><code>1チャンネルにはホテルの案内が放映されております。</code></span><br>
-<em>Ichi channeru ni wa hoteru no annai ga housai sarete orimasu.</em><br>
+
+**1チャンネルにはホテルの案内が放映されております。**  
+*Ichi channeru ni wa hoteru no annai ga housai sarete orimasu.*  
 Channel 1 broadcasts hotel information.
-<br><br>
-<span class="keigo-jp"><code>テレビのご使用方法についてご不明な点がございましたら、フロントへお申し付けください。</code></span><br>
-<em>Terebi no go-shiyou houhou ni tsuite go-fumeina ten ga gozaimashitara, furonto e o-moushitsuke kudasai.</em><br>
+
+**テレビのご使用方法についてご不明な点がございましたら、フロントへお申し付けください。**  
+*Terebi no go-shiyou houhou ni tsuite go-fumeina ten ga gozaimashitara, furonto e o-moushitsuke kudasai.*  
 If you have any questions about how to use the TV, please let the front desk know.
-</div>
 
 ## Related Expressions
 

@@ -13,19 +13,17 @@ In Japanese service culture, いいえ requires particular care. Directly refusi
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>はい、かしこまりました。すぐにご用意いたします。</code></span><br>
-<em>Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.</em><br>
+**はい、かしこまりました。すぐにご用意いたします。**  
+*Hai, kashikomarimashita. Sugu ni go-yōi itashimasu.*  
 Yes, certainly. I will prepare it right away.
-<br><br>
-<span class="keigo-jp"><code>はい、ご予約を確認いたしました。</code></span><br>
-<em>Hai, go-yoyaku wo kakunin itashimashita.</em><br>
+
+**はい、ご予約を確認いたしました。**  
+*Hai, go-yoyaku wo kakunin itashimashita.*  
 Yes, I have confirmed your reservation.
-<br><br>
-<span class="keigo-jp"><code>申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。</code></span><br>
-<em>Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.</em><br>
+
+**申し訳ございませんが、ただいまそのお部屋はご利用いただけない状況でございます。**  
+*Moushiwake gozaimasen ga, tadaima sono o-heya wa go-riyō itadakenai jōkyō de gozaimasu.*  
 I am very sorry, but that room is currently not available.
-</div>
 
 ## Related Expressions
 
@@ -33,7 +31,7 @@ I am very sorry, but that room is currently not available.
 |---|---|
 | かしこまりました<br>kashikomarimashita | "Certainly." A more complete and formal affirmative response than はい alone. Reach for this when a guest makes a request. |
 | 左様でございます<br>sayō de gozaimasu | "That is correct." A formal confirmation used when agreeing with or affirming something a guest has stated. |
-| あいにく〜でございます<br>ainiku ~ de gozaimasu | "Unfortunately, ~." A polite way to introduce a refusal or unavailability without reaching for a blunt negative. |
+| あいにく○○でございます<br>ainiku ~ de gozaimasu | "Unfortunately, ~." A polite way to introduce a refusal or unavailability without reaching for a blunt negative. |
 
 ## Common Mistakes
 

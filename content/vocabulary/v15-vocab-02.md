@@ -10,19 +10,17 @@ When explaining 洗濯 options, staff should cover the essentials: whether there
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋に洗濯機と乾燥機がございますので、ご自由にご利用ください。</code></span><br>
-<em>O-heya ni sentakuki to kansouki ga gozaimasu no de, go-jiyuu ni go-riyou kudasai.</em><br>
+**お部屋に洗濯機と乾燥機がございますので、ご自由にご利用ください。**  
+*O-heya ni sentakuki to kansouki ga gozaimasu no de, go-jiyuu ni go-riyou kudasai.*  
 Your room has a washing machine and dryer, so please feel free to use them.
-<br><br>
-<span class="keigo-jp"><code>フロントで洗濯のご依頼を承っております。翌朝9時にお届けいたします。</code></span><br>
-<em>Furonto de sentaku no go-irai o uketamawaite orimasu. Yokuasa ku-ji ni o-todoke itashimasu.</em><br>
+
+**フロントで洗濯のご依頼を承っております。翌朝9時にお届けいたします。**  
+*Furonto de sentaku no go-irai o uketamawaite orimasu. Yokuasa ku-ji ni o-todoke itashimasu.*  
 We accept laundry requests at the front desk. We will deliver them to you by 9:00 AM the next morning.
-<br><br>
-<span class="keigo-jp"><code>デリケートな衣類の洗濯は、クリーニングサービスをお勧めしております。</code></span><br>
-<em>Derikeeto na irui no sentaku wa, kuriiningu saabisu o o-susume shite orimasu.</em><br>
+
+**デリケートな衣類の洗濯は、クリーニングサービスをお勧めしております。**  
+*Derikeeto na irui no sentaku wa, kuriiningu saabisu o o-susume shite orimasu.*  
 For washing delicate garments, we recommend our dry cleaning service.
-</div>
 
 ## Related Expressions
 

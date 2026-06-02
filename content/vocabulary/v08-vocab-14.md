@@ -5,24 +5,22 @@ title: 手前 (temae)
 ---
 手前 means "the near side," "just before," or "in front of" in a spatial sense, specifically indicating a location that is close to the speaker or to the entrance of a space, as opposed to farther inside. It forms the natural counterpart to 奥 (the far interior), and together these two words describe the near-far axis that is fundamental to Japanese wayfinding language. In hospitality, 手前 is particularly useful when a facility or counter is located near the entrance or in the first part of a room, so guests do not need to walk all the way in. That distinction saves time and prevents the frustration of overshooting a destination in a large lobby or corridor.
 
-The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). In a hospitality context, that last usage is especially important: 手前 can mean "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (〜で). Blurring these distinctions can send guests past where they needed to stop
+The practical usage of 手前 appears in phrases like 入り口の手前にございます (just before the entrance), 角の手前を右に (turn right just before the corner), or エレベーターの手前 (just before the elevator). In a hospitality context, that last usage is especially important: 手前 can mean "stop before reaching X," which is navigationally different from "next to X" (隣) or "at X" (○○で). Blurring these distinctions can send guests past where they needed to stop
 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>受付カウンターは入り口の手前にございます。</code></span><br>
-<em>Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.</em><br>
+**受付カウンターは入り口の手前にございます。**  
+*Uketsuke kauntaa wa iriguchi no temae ni gozaimasu.*  
 The reception counter is just before the entrance.
-<br><br>
-<span class="keigo-jp"><code>お手洗いはエレベーターの手前、左側にございます。</code></span><br>
-<em>O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.</em><br>
+
+**お手洗いはエレベーターの手前、左側にございます。**  
+*O-tearai wa erebeetaa no temae, hidari-gawa ni gozaimasu.*  
 The restroom is just before the elevator, on the left side.
-<br><br>
-<span class="keigo-jp"><code>レストランのご予約受付は入り口の手前のカウンターでお承りしております。</code></span><br>
-<em>Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.</em><br>
+
+**レストランのご予約受付は入り口の手前のカウンターでお承りしております。**  
+*Resutoran no go-yoyaku uketsuke wa iriguchi no temae no kauntaa de o-uketamawari shite orimasu.*  
 Restaurant reservations are accepted at the counter just before the entrance.
-</div>
 
 ## Related Expressions
 

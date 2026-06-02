@@ -10,19 +10,17 @@ Staff use 利用 when explaining what facilities or services guests may access: 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>施設は自由にご利用いただけます。お気軽にお申しつけください。</code></span><br>
-<em>Shisetsu wa jiyuu ni go-riyou itadakemasu. O-ki-garu ni o-moushitsuke kudasai.</em><br>
+**施設は自由にご利用いただけます。お気軽にお申しつけください。**  
+*Shisetsu wa jiyuu ni go-riyou itadakemasu. O-ki-garu ni o-moushitsuke kudasai.*  
 You may freely use the facilities. Please feel free to ask us anything.
-<br><br>
-<span class="keigo-jp"><code>本日もご利用いただきまして、誠にありがとうございます。</code></span><br>
-<em>Honjitsu mo go-riyou itadakimashite, makoto ni arigatou gozaimasu.</em><br>
+
+**本日もご利用いただきまして、誠にありがとうございます。**  
+*Honjitsu mo go-riyou itadakimashite, makoto ni arigatou gozaimasu.*  
 Thank you very much for using our services again today.
-<br><br>
-<span class="keigo-jp"><code>ランドリーサービスのご利用をご希望の場合は、フロントまでお申しつけください。</code></span><br>
-<em>Randorii saabisu no go-riyou wo go-kibou no baai wa, furonto made o-moushitsuke kudasai.</em><br>
+
+**ランドリーサービスのご利用をご希望の場合は、フロントまでお申しつけください。**  
+*Randorii saabisu no go-riyou wo go-kibou no baai wa, furonto made o-moushitsuke kudasai.*  
 If you would like to use the laundry service, please let us know at the front desk.
-</div>
 
 ## Related Expressions
 

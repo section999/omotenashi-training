@@ -9,19 +9,17 @@ The word itself is derived from 打ち合う (to strike together), suggesting a 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>イベント開始前に、スタッフ全員で打ち合わせを行いました。</code></span><br>
-<em>Ibento kaishi mae ni, sutaffu zen'in de uchiawase wo okonaimashita.</em><br>
+**イベント開始前に、スタッフ全員で打ち合わせを行いました。**  
+*Ibento kaishi mae ni, sutaffu zen'in de uchiawase wo okonaimashita.*  
 Before the event started, all staff held a briefing together.
-<br><br>
-<span class="keigo-jp"><code>明日の宴会の流れについて、料理長と打ち合わせをしたいと思います。</code></span><br>
-<em>Ashita no enkai no nagare ni tsuite, ryouriche to uchiawase wo shitai to omoimasu.</em><br>
+
+**明日の宴会の流れについて、料理長と打ち合わせをしたいと思います。**  
+*Ashita no enkai no nagare ni tsuite, ryouriche to uchiawase wo shitai to omoimasu.*  
 I would like to have a briefing with the head chef regarding tomorrow's banquet flow.
-<br><br>
-<span class="keigo-jp"><code>シフト交代の前に、引き継ぎの打ち合わせをしっかり行ってください。</code></span><br>
-<em>Shifuto koutai no mae ni, hikitsugi no uchiawase wo shikkari okonatte kudasai.</em><br>
+
+**シフト交代の前に、引き継ぎの打ち合わせをしっかり行ってください。**  
+*Shifuto koutai no mae ni, hikitsugi no uchiawase wo shikkari okonatte kudasai.*  
 Please conduct the handover briefing thoroughly before shift changeover.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In guest-facing communication, staff typically inform guests of the 清掃 sched
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>清掃は午前10時までに完了いたします。</code></span><br>
-<em>Seisou wa gozen juuji made ni kanryou itashimasu.</em><br>
+**清掃は午前10時までに完了いたします。**  
+*Seisou wa gozen juuji made ni kanryou itashimasu.*  
 Cleaning will be completed by 10 a.m.
-<br><br>
-<span class="keigo-jp"><code>ご不在の間に清掃をご希望の場合はフロントまでお申し付けください。</code></span><br>
-<em>Go-fuzai no aida ni seisou wo go-kibou no baai wa furonto made o-moushitsuke kudasai.</em><br>
+
+**ご不在の間に清掃をご希望の場合はフロントまでお申し付けください。**  
+*Go-fuzai no aida ni seisou wo go-kibou no baai wa furonto made o-moushitsuke kudasai.*  
 If you would like cleaning done while one is away, please let the front desk know.
-<br><br>
-<span class="keigo-jp"><code>清掃不要の場合は、ドアノブに「清掃不要」カードをおかけください。</code></span><br>
-<em>Seisou fuyou no baai wa, doa nobu ni "seisou fuyou" kaado wo o-kake kudasai.</em><br>
+
+**清掃不要の場合は、ドアノブに「清掃不要」カードをおかけください。**  
+*Seisou fuyou no baai wa, doa nobu ni "seisou fuyou" kaado wo o-kake kudasai.*  
 If you do not require cleaning, please hang the'No Cleaning' card on the door handle.
-</div>
 
 ## Related Expressions
 

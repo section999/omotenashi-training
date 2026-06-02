@@ -9,19 +9,17 @@ Daily cleaning includes タオル交換 as a matter, but guests may ask for extr
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>タオル交換はご希望のときにいつでも承ります。</code></span><br>
-<em>Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.</em><br>
+**タオル交換はご希望のときにいつでも承ります。**  
+*Taoru koukan wa gokibou no toki ni itsudemo uketamawarimasu.*  
 We are happy to exchange your towels whenever you wish.
-<br><br>
-<span class="keigo-jp"><code>バスタオルとフェイスタオルの交換をご用意いたしました。</code></span><br>
-<em>Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.</em><br>
+
+**バスタオルとフェイスタオルの交換をご用意いたしました。**  
+*Basutaoru to feisu taoru no koukan wo goyo'i itashimashita.*  
 We have prepared replacements for both your bath towel and face towel.
-<br><br>
-<span class="keigo-jp"><code>タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。</code></span><br>
-<em>Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.</em><br>
+
+**タオルを床にお置きいただいた場合、清掃時に新しいものとお取り替えいたします。**  
+*Taoru wo yuka ni ookiitadaita baai, seisou ji ni atarashii mono to otoriae itashimasu.*  
 If you leave your towels on the floor, we will replace them with fresh ones during cleaning.
-</div>
 
 ## Related Expressions
 

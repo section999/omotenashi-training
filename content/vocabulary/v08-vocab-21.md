@@ -9,19 +9,17 @@ In a hospitality context, 近くに on its own is not sufficient. Staff should f
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>コンビニはホテルの近くにございます。徒歩約3分でございます。</code></span><br>
-<em>Konbini wa hoteru no chikaku ni gozaimasu. Toho yaku sanpun de gozaimasu.</em><br>
+**コンビニはホテルの近くにございます。徒歩約3分でございます。**  
+*Konbini wa hoteru no chikaku ni gozaimasu. Toho yaku sanpun de gozaimasu.*  
 There is a convenience store near the hotel. It is approximately a 3-minute walk.
-<br><br>
-<span class="keigo-jp"><code>近くに観光スポットがいくつかございますので、地図をお持ちいたしましょうか。</code></span><br>
-<em>Chikaku ni kankouspot to ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.</em><br>
+
+**近くに観光スポットがいくつかございますので、地図をお持ちいたしましょうか。**  
+*Chikaku ni kankouspot to ga ikutsuka gozaimasu node, chizu o omochi itashimashou ka.*  
 There are several tourist spots nearby; shall I bring you a map?
-<br><br>
-<span class="keigo-jp"><code>レストランは駅の近くにございます。徒歩5分ほどでお着きになれます。</code></span><br>
-<em>Resutoran wa eki no chikaku ni gozaimasu. Toho gofun hodo de otsuki ni naremasu.</em><br>
+
+**レストランは駅の近くにございます。徒歩5分ほどでお着きになれます。**  
+*Resutoran wa eki no chikaku ni gozaimasu. Toho gofun hodo de otsuki ni naremasu.*  
 The restaurant is near the station. You can reach it in about a 5-minute walk.
-</div>
 
 ## Related Expressions
 

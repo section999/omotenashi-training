@@ -9,19 +9,17 @@ When presenting the total charge, use こちらが料金でございます while
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらが料金でございます。ご確認いただけますでしょうか。</code></span><br>
-<em>Kochira ga ryōkin de gozaimasu. Go-kakunin itadakemasu deshō ka.</em><br>
+**こちらが料金でございます。ご確認いただけますでしょうか。**  
+*Kochira ga ryōkin de gozaimasu. Go-kakunin itadakemasu deshō ka.*  
 This is the charge. Could you please take a moment to review it?
-<br><br>
-<span class="keigo-jp"><code>料金にはお食事代と消費税が含まれております。</code></span><br>
-<em>Ryōkin ni wa o-shokuji-dai to shōhi-zei ga fukumarete orimasu.</em><br>
+
+**料金にはお食事代と消費税が含まれております。**  
+*Ryōkin ni wa o-shokuji-dai to shōhi-zei ga fukumarete orimasu.*  
 The charge includes the cost of meals and consumption tax.
-<br><br>
-<span class="keigo-jp"><code>ルームサービスの追加料金はチェックアウト時にまとめてご請求いたします。</code></span><br>
-<em>Rūmu-sābisu no tsuika ryōkin wa chekku-auto-ji ni matomete go-seikyū itashimasu.</em><br>
+
+**ルームサービスの追加料金はチェックアウト時にまとめてご請求いたします。**  
+*Rūmu-sābisu no tsuika ryōkin wa chekku-auto-ji ni matomete go-seikyū itashimasu.*  
 Additional room service charges will be billed together at the time of check-out.
-</div>
 
 ## Related Expressions
 

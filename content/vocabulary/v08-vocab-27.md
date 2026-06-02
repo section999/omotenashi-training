@@ -10,19 +10,17 @@ In daily hospitality use, こちら側 comes into its own when staff need to des
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>エレベーターはこちら側にございます。どうぞこちらへお進みください。</code></span><br>
-<em>Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.</em><br>
+**エレベーターはこちら側にございます。どうぞこちらへお進みください。**  
+*Erebeetaa wa kochira gawa ni gozaimasu. Douzo kochira e osusumi kudasai.*  
 The elevator is on this side. Please proceed this way.
-<br><br>
-<span class="keigo-jp"><code>窓側のお席はこちら側でございます。お眺めをどうぞお楽しみください。</code></span><br>
-<em>Madogawa no oseki wa kochira gawa de gozaimasu. Onagame o douzo otanoshimi kudasai.</em><br>
+
+**窓側のお席はこちら側でございます。お眺めをどうぞお楽しみください。**  
+*Madogawa no oseki wa kochira gawa de gozaimasu. Onagame o douzo otanoshimi kudasai.*  
 The window seats are on this side. Please enjoy the view.
-<br><br>
-<span class="keigo-jp"><code>喫煙エリアはあちら側、禁煙エリアはこちら側でございます。</code></span><br>
-<em>Kitsuen eria wa achira gawa, kin-en eria wa kochira gawa de gozaimasu.</em><br>
+
+**喫煙エリアはあちら側、禁煙エリアはこちら側でございます。**  
+*Kitsuen eria wa achira gawa, kin-en eria wa kochira gawa de gozaimasu.*  
 The smoking area is on that side; the non-smoking area is on this side.
-</div>
 
 ## Related Expressions
 

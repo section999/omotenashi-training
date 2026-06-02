@@ -10,19 +10,17 @@ A reliable three-part structure makes these conversations much smoother: state t
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>チェックアウト時間を超過されたため、追加料金が発生いたします。</code></span><br>
-<em>Chekkuauto jikan o chouka sareta tame, tsuika ryoukin ga hassei itashimasu.</em><br>
+**チェックアウト時間を超過されたため、追加料金が発生いたします。**  
+*Chekkuauto jikan o chouka sareta tame, tsuika ryoukin ga hassei itashimasu.*  
 Because you have exceeded the checkout time, an additional charge will apply.
-<br><br>
-<span class="keigo-jp"><code>お荷物の重量が制限を超過しております。</code></span><br>
-<em>Onimotsu no juuryou ga seigen o chouka shite orimasu.</em><br>
+
+**お荷物の重量が制限を超過しております。**  
+*Onimotsu no juuryou ga seigen o chouka shite orimasu.*  
 Your luggage exceeds the weight limit.
-<br><br>
-<span class="keigo-jp"><code>超過料金についてご説明させていただきます。</code></span><br>
-<em>Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.</em><br>
+
+**超過料金についてご説明させていただきます。**  
+*Chouka ryoukin ni tsuite go-setsumei sasete itadakimasu.*  
 Allow me to explain the excess charge.
-</div>
 
 ## Related Expressions
 

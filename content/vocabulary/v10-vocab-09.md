@@ -9,19 +9,17 @@ The expected protocol is: state the amount received, confirm the total, then sta
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>1万円お預かりいたします。お釣りは2,500円でございます。</code></span><br>
-<em>Ichi-man en o-azukari itashimasu. O-tsuri wa ni-sen go-hyaku en de gozaimasu.</em><br>
+**1万円お預かりいたします。お釣りは2,500円でございます。**  
+*Ichi-man en o-azukari itashimasu. O-tsuri wa ni-sen go-hyaku en de gozaimasu.*  
 I will take 10,000 yen. Your change is 2,500 yen.
-<br><br>
-<span class="keigo-jp"><code>お釣りをお盆に乗せてお渡しいたします。</code></span><br>
-<em>O-tsuri wo o-bon ni nosete o-watashi itashimasu.</em><br>
+
+**お釣りをお盆に乗せてお渡しいたします。**  
+*O-tsuri wo o-bon ni nosete o-watashi itashimasu.*  
 I will hand you your change on a tray.
-<br><br>
-<span class="keigo-jp"><code>お釣りは500円硬貨1枚でございます。ご確認をお願いいたします。</code></span><br>
-<em>O-tsuri wa go-hyaku en kouka ichi-mai de gozaimasu. Go-kakunin wo o-negai itashimasu.</em><br>
+
+**お釣りは500円硬貨1枚でございます。ご確認をお願いいたします。**  
+*O-tsuri wa go-hyaku en kouka ichi-mai de gozaimasu. Go-kakunin wo o-negai itashimasu.*  
 Your change is one 500-yen coin. Please verify the amount.
-</div>
 
 ## Related Expressions
 

@@ -9,19 +9,17 @@ In a hospitality context, staff introduce デポジット early in the check-in 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>デポジットとして一万円をお預かりいたします。</code></span><br>
-<em>Depojitto to shite ichi-man en wo o-azukari itashimasu.</em><br>
+**デポジットとして一万円をお預かりいたします。**  
+*Depojitto to shite ichi-man en wo o-azukari itashimasu.*  
 We will hold a deposit of 10,000 yen.
-<br><br>
-<span class="keigo-jp"><code>デポジットはチェックアウト時にご返金いたします。</code></span><br>
-<em>Depojitto wa chekku-auto ji ni go-henkin itashimasu.</em><br>
+
+**デポジットはチェックアウト時にご返金いたします。**  
+*Depojitto wa chekku-auto ji ni go-henkin itashimasu.*  
 The deposit will be refunded at check-out.
-<br><br>
-<span class="keigo-jp"><code>デポジットはクレジットカードで仮押さえとなります。</code></span><br>
-<em>Depojitto wa kurejitto kādo de kari-osae to narimasu.</em><br>
+
+**デポジットはクレジットカードで仮押さえとなります。**  
+*Depojitto wa kurejitto kādo de kari-osae to narimasu.*  
 The deposit will be a pre-authorization hold on your credit card.
-</div>
 
 ## Related Expressions
 

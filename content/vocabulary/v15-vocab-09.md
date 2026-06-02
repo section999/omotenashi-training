@@ -10,19 +10,17 @@ Knowing the related services is just as important as knowing the word. Luggage s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。</code></span><br>
-<em>O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.</em><br>
+**お荷物はこちらでお預かりいたします。お部屋の準備が整い次第、お届けいたします。**  
+*O-nimotsu wa kochira de o-azukari itashimasu. O-heya no junbi ga totonoi shidai, o-todoke itashimasu.*  
 We will hold your luggage here. We will bring it to the room as soon as it is ready.
-<br><br>
-<span class="keigo-jp"><code>チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。</code></span><br>
-<em>Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.</em><br>
+
+**チェックアウト後も、ご出発まで荷物をフロントでお預かりできます。**  
+*Chekku-auto go mo, go-shuppatsu made nimotsu o furonto de o-azukari dekimasu.*  
 Even after check-out, we can hold your luggage at the front desk until your departure.
-<br><br>
-<span class="keigo-jp"><code>お荷物の中に壊れやすいものはございますか？特別に対応いたします。</code></span><br>
-<em>O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.</em><br>
+
+**お荷物の中に壊れやすいものはございますか？特別に対応いたします。**  
+*O-nimotsu no naka ni koware-yasui mono wa gozaimasu ka? Tokubetsu ni taiou itashimasu.*  
 Are there any fragile items in your luggage? We will handle them with special care.
-</div>
 
 ## Related Expressions
 

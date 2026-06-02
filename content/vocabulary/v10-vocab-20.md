@@ -10,19 +10,17 @@ The phrasing staff choose matters here. お金が足りません can come across
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>恐れ入りますが、〇〇円ご不足でございます。</code></span><br>
-<em>Osore irimasu ga, 〇〇-en go-fusoku de gozaimasu.</em><br>
+**恐れ入りますが、〇〇円ご不足でございます。**  
+*Osore irimasu ga, 〇〇-en go-fusoku de gozaimasu.*  
 I am sorry to inform you, but one is 〇〇 yen short.
-<br><br>
-<span class="keigo-jp"><code>不足分は別の方法でお支払いいただけますか。</code></span><br>
-<em>Fusoku-bun wa betsu no houhou de oshiharai itadakemasu ka.</em><br>
+
+**不足分は別の方法でお支払いいただけますか。**  
+*Fusoku-bun wa betsu no houhou de oshiharai itadakemasu ka.*  
 Could you pay the shortfall by another method?
-<br><br>
-<span class="keigo-jp"><code>残高が不足しているため、追加のお支払いが必要です。</code></span><br>
-<em>Zandaka ga fusoku shite iru tame, tsuika no oshiharai ga hitsuyou desu.</em><br>
+
+**残高が不足しているため、追加のお支払いが必要です。**  
+*Zandaka ga fusoku shite iru tame, tsuika no oshiharai ga hitsuyou desu.*  
 Because the balance is insufficient, an additional payment is required.
-</div>
 
 ## Related Expressions
 

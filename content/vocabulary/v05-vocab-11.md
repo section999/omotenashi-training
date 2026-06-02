@@ -9,19 +9,17 @@ When offering 紅茶 to a guest, staff should present accompaniment choices clea
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>紅茶もご用意できますが、いかがでしょうか。</code></span><br>
-<em>Koucha mo go-youi dekimasu ga, ikaga deshou ka.</em><br>
+**紅茶もご用意できますが、いかがでしょうか。**  
+*Koucha mo go-youi dekimasu ga, ikaga deshou ka.*  
 We can also prepare black tea: would you like some?
-<br><br>
-<span class="keigo-jp"><code>紅茶はダージリンとアールグレイをご用意しております。</code></span><br>
-<em>Koucha wa Daajirin to Aarugurai wo go-youi shite orimasu.</em><br>
+
+**紅茶はダージリンとアールグレイをご用意しております。**  
+*Koucha wa Daajirin to Aarugurai wo go-youi shite orimasu.*  
 For black tea, we have Darjeeling and Earl Grey available.
-<br><br>
-<span class="keigo-jp"><code>ミルクとレモン、どちらをお付けしましょうか。</code></span><br>
-<em>Miruku to remon, dochira wo o-tsuke shimashou ka.</em><br>
+
+**ミルクとレモン、どちらをお付けしましょうか。**  
+*Miruku to remon, dochira wo o-tsuke shimashou ka.*  
 Shall I bring milk or lemon with that?
-</div>
 
 ## Related Expressions
 

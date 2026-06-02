@@ -9,19 +9,17 @@ The most common scenario staff will face is a guest at a traditional ryokan who 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。</code></span><br>
-<em>Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.</em><br>
+**日本の通貨は円で、ほとんどの場所で現金でのお支払いが可能です。**  
+*Nihon no tsuuka wa en de, hotondo no basho de genkin de no oshiharai ga kanou desu.*  
 Japan's currency is the yen, and cash payment is possible at most places.
-<br><br>
-<span class="keigo-jp"><code>当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。</code></span><br>
-<em>Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.</em><br>
+
+**当館では外国通貨のお支払いはお受けしておりませんが、近くに両替所がございます。**  
+*Touquan de wa gaikoku tsuuka no oshiharai wa ousuke shite orimasen ga, chikaku ni ryougaejo ga gozaimasu.*  
 We do not accept foreign currency at this establishment, but there is an exchange office nearby.
-<br><br>
-<span class="keigo-jp"><code>通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。</code></span><br>
-<em>Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.</em><br>
+
+**通貨の両替レートはその日によって変わりますので、最新情報をご確認ください。**  
+*Tsuuka no ryougae reeto wa sono hi ni yotte kawari masu node, saishin jouhou wo gokakunin kudasai.*  
 Currency exchange rates change daily, so please check for the latest information.
-</div>
 
 ## Related Expressions
 

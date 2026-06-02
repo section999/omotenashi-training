@@ -9,19 +9,17 @@ Staff encounter 追加 most often at the front desk and through housekeeping req
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>追加でタオルをお持ちいたします。少々お待ちください。</code></span><br>
-<em>Tsuika de taoru wo o-mochi itashimasu. Shoushou o-machi kudasai.</em><br>
+**追加でタオルをお持ちいたします。少々お待ちください。**  
+*Tsuika de taoru wo o-mochi itashimasu. Shoushou o-machi kudasai.*  
 I will bring additional towels. Please wait just a moment.
-<br><br>
-<span class="keigo-jp"><code>ご朝食に一品追加いただく場合は、別途料金が発生いたします。</code></span><br>
-<em>Go-choushoku ni ippin tsuika itadaku baai wa, betto ryoukin ga hassei itashimasu.</em><br>
+
+**ご朝食に一品追加いただく場合は、別途料金が発生いたします。**  
+*Go-choushoku ni ippin tsuika itadaku baai wa, betto ryoukin ga hassei itashimasu.*  
 If you add an item to your breakfast, a separate charge will apply.
-<br><br>
-<span class="keigo-jp"><code>枕の追加が必要でしたら、いつでもフロントまでお申しつけください。</code></span><br>
-<em>Makura no tsuika ga hitsuyou deshitara, itsudemo furonto made o-moushitsuke kudasai.</em><br>
+
+**枕の追加が必要でしたら、いつでもフロントまでお申しつけください。**  
+*Makura no tsuika ga hitsuyou deshitara, itsudemo furonto made o-moushitsuke kudasai.*  
 If you need an additional pillow, please let us know at the front desk at any time.
-</div>
 
 ## Related Expressions
 

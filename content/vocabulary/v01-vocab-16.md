@@ -13,19 +13,17 @@ Use this phrase when showing a guest to their room for the first time, presentin
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>こちらがお部屋でございます。ごゆっくりどうぞ。</code></span><br>
-<em>Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.</em><br>
+**こちらがお部屋でございます。ごゆっくりどうぞ。**  
+*Kochira ga o-heya de gozaimasu. Goyukkuri dōzo.*  
 This is the room. Please make yourself at home: take your time.
-<br><br>
-<span class="keigo-jp"><code>本日のお食事でございます。ごゆっくりどうぞ。</code></span><br>
-<em>Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.</em><br>
+
+**本日のお食事でございます。ごゆっくりどうぞ。**  
+*Honjitsu no o-shokuji de gozaimasu. Goyukkuri dōzo.*  
 Here is today's meal. Please enjoy it at your leisure.
-<br><br>
-<span class="keigo-jp"><code>どうぞ、ごゆっくりおくつろぎください。</code></span><br>
-<em>Dōzo, goyukkuri o-kutsurogikudasai.</em><br>
+
+**どうぞ、ごゆっくりおくつろぎください。**  
+*Dōzo, goyukkuri o-kutsurogikudasai.*  
 Please, relax fully and take all the time you need.
-</div>
 
 ## Related Expressions
 

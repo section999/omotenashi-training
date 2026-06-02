@@ -10,19 +10,17 @@ Cooperation with 消防 (fire service) personnel is legally required once they a
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>消防車が現場に到着しました。</code></span><br>
-<em>Shoubousha ga genba ni touchaku shimashita.</em><br>
+**消防車が現場に到着しました。**  
+*Shoubousha ga genba ni touchaku shimashita.*  
 The fire truck has arrived at the site.
-<br><br>
-<span class="keigo-jp"><code>火災の通報を受けて、消防車と救急車が同時に駆けつけました。</code></span><br>
-<em>Kasai no tsuuhou wo ukete, shoubousha to kyuukyuusha ga douji ni kaketsukemashita.</em><br>
+
+**火災の通報を受けて、消防車と救急車が同時に駆けつけました。**  
+*Kasai no tsuuhou wo ukete, shoubousha to kyuukyuusha ga douji ni kaketsukemashita.*  
 Upon receiving the fire report, both the fire truck and ambulance rushed to the scene simultaneously.
-<br><br>
-<span class="keigo-jp"><code>ホテルの駐車場への入口を開放し、消防車がスムーズに進入できるようにしました。</code></span><br>
-<em>Hoteru no chuushajou e no iriguchi wo kaihou shi, shoubousha ga sumuuzu ni shinnyuu dekiru you ni shimashita.</em><br>
+
+**ホテルの駐車場への入口を開放し、消防車がスムーズに進入できるようにしました。**  
+*Hoteru no chuushajou e no iriguchi wo kaihou shi, shoubousha ga sumuuzu ni shinnyuu dekiru you ni shimashita.*  
 We opened the hotel parking lot entrance to allow the fire truck to enter smoothly.
-</div>
 
 ## Related Expressions
 

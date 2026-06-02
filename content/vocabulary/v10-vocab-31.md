@@ -10,19 +10,17 @@ In operations, the accommodation collects 宿泊税 on behalf of the local gover
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>宿泊税は料金に別途含まれております。</code></span><br>
-<em>Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.</em><br>
+**宿泊税は料金に別途含まれております。**  
+*Shukuhaku zei wa ryōkin ni betto fukumarete orimasu.*  
 The accommodation tax is included as a separate item in the rate.
-<br><br>
-<span class="keigo-jp"><code>東京都の宿泊税は一泊のお部屋代によって異なります。</code></span><br>
-<em>Tōkyō-to no shukuhaku zei wa ippaku no oheya-dai ni yotte kotonari masu.</em><br>
+
+**東京都の宿泊税は一泊のお部屋代によって異なります。**  
+*Tōkyō-to no shukuhaku zei wa ippaku no oheya-dai ni yotte kotonari masu.*  
 Tokyo's accommodation tax varies depending on the room rate per night.
-<br><br>
-<span class="keigo-jp"><code>こちらのご請求書に宿泊税の内訳が記載されております。</code></span><br>
-<em>Kochira no goseikyu-sho ni shukuhaku zei no uchiwake ga kisai sarete orimasu.</em><br>
+
+**こちらのご請求書に宿泊税の内訳が記載されております。**  
+*Kochira no goseikyu-sho ni shukuhaku zei no uchiwake ga kisai sarete orimasu.*  
 The breakdown of accommodation tax is listed on this invoice.
-</div>
 
 ## Related Expressions
 

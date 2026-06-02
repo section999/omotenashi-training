@@ -10,19 +10,17 @@ The key difference between 立入禁止 and a sign like 使用禁止 (do not use
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>改装工事中のため、3階の一部エリアは立入禁止となっております。</code></span><br>
-<em>Kaisou kouji chuu no tame, sangai no ichibu eria wa tachiiri kinshi to natte orimasu.</em><br>
+**改装工事中のため、3階の一部エリアは立入禁止となっております。**  
+*Kaisou kouji chuu no tame, sangai no ichibu eria wa tachiiri kinshi to natte orimasu.*  
 Part of the third floor is designated as a no-entry zone due to ongoing renovation works.
-<br><br>
-<span class="keigo-jp"><code>立入禁止区域には、安全上の理由より何人もお入りいただけません。</code></span><br>
-<em>Tachiiri kinshi kuiki ni wa, anzen jou no riyuu yori nannin mo ohairi itadakemasen.</em><br>
+
+**立入禁止区域には、安全上の理由より何人もお入りいただけません。**  
+*Tachiiri kinshi kuiki ni wa, anzen jou no riyuu yori nannin mo ohairi itadakemasen.*  
 No person may enter the no-entry zone for safety reasons.
-<br><br>
-<span class="keigo-jp"><code>スタッフ専用エリアは立入禁止となっておりますので、ご了承くださいませ。</code></span><br>
-<em>Sutaffu senyou eria wa tachiiri kinshi to natte orimasu node, goryoushou kudasaimase.</em><br>
+
+**スタッフ専用エリアは立入禁止となっておりますので、ご了承くださいませ。**  
+*Sutaffu senyou eria wa tachiiri kinshi to natte orimasu node, goryoushou kudasaimase.*  
 Please be aware that staff-only areas are designated as no-entry zones.
-</div>
 
 ## Related Expressions
 

@@ -10,19 +10,17 @@ The pronunciation follows an irregular counter pattern that is often missed: 地
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ジムは地下一階にございます。</code></span><br>
-<em>Jimu wa chika ikkai ni gozaimasu.</em><br>
+**ジムは地下一階にございます。**  
+*Jimu wa chika ikkai ni gozaimasu.*  
 The gym is on basement level 1.
-<br><br>
-<span class="keigo-jp"><code>お車は地下一階の駐車場にお停めいただけます。エレベーターのB1ボタンをどうぞ。</code></span><br>
-<em>O-kuruma wa chika ikkai no chuushajou ni o-tome itadakemasu. Erebeetaa no B-wan botan wo douzo.</em><br>
+
+**お車は地下一階の駐車場にお停めいただけます。エレベーターのB1ボタンをどうぞ。**  
+*O-kuruma wa chika ikkai no chuushajou ni o-tome itadakemasu. Erebeetaa no B-wan botan wo douzo.*  
 You may park your car in the basement-level-1 parking lot. Please press the B1 button in the elevator.
-<br><br>
-<span class="keigo-jp"><code>プールは地下一階、エレベーターを降りて左にございます。</code></span><br>
-<em>Puuru wa chika ikkai, erebeetaa wo orite hidari ni gozaimasu.</em><br>
+
+**プールは地下一階、エレベーターを降りて左にございます。**  
+*Puuru wa chika ikkai, erebeetaa wo orite hidari ni gozaimasu.*  
 The pool is on basement level 1: turn left after exiting the elevator.
-</div>
 
 ## Related Expressions
 

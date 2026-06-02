@@ -9,19 +9,17 @@ The phrase is only as good as what follows it. If the wait goes beyond about 30 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>少々お待ちください。ただいま担当者に確認いたします。</code></span><br>
-<em>Shōshō omachi kudasai. Tadaima tantōsha ni kakunin itashimasu.</em><br>
+**少々お待ちください。ただいま担当者に確認いたします。**  
+*Shōshō omachi kudasai. Tadaima tantōsha ni kakunin itashimasu.*  
 Please wait a moment. I will check with the person in charge right away.
-<br><br>
-<span class="keigo-jp"><code>お部屋の状況を確認いたしますので、少々お待ちいただけますでしょうか。</code></span><br>
-<em>Oheya no jōkyō wo kakunin itashimasu no de, shōshō omachi itadakemasu deshō ka.</em><br>
+
+**お部屋の状況を確認いたしますので、少々お待ちいただけますでしょうか。**  
+*Oheya no jōkyō wo kakunin itashimasu no de, shōshō omachi itadakemasu deshō ka.*  
 Could you wait a moment while I check the status of the room?
-<br><br>
-<span class="keigo-jp"><code>お待たせいたしました。お調べした結果をご報告いたします。</code></span><br>
-<em>Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.</em><br>
+
+**お待たせいたしました。お調べした結果をご報告いたします。**  
+*Omatase itashimashita. Oshirabe shita kekka wo gohoukoku itashimasu.*  
 Thank you for your patience. I will now share the results of my inquiry.
-</div>
 
 ## Related Expressions
 

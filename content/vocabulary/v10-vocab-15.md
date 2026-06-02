@@ -10,19 +10,17 @@ In hotels and ryokan, the 会計係 may also review itemized charges (利用明�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>会計係がお支払いの手続きをいたします。</code></span><br>
-<em>Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.</em><br>
+**会計係がお支払いの手続きをいたします。**  
+*Kaikei kakari ga oshiharai no tetsuzuki o itashimasu.*  
 The cashier will handle your payment procedure.
-<br><br>
-<span class="keigo-jp"><code>ご不明な点は会計係にお尋ねください。</code></span><br>
-<em>Go-fumeina ten wa kaikei kakari ni otazune kudasai.</em><br>
+
+**ご不明な点は会計係にお尋ねください。**  
+*Go-fumeina ten wa kaikei kakari ni otazune kudasai.*  
 Please ask the cashier if one has any questions.
-<br><br>
-<span class="keigo-jp"><code>会計係より領収書をお渡しいたします。</code></span><br>
-<em>Kaikei kakari yori ryoushuusho o owatashi itashimasu.</em><br>
+
+**会計係より領収書をお渡しいたします。**  
+*Kaikei kakari yori ryoushuusho o owatashi itashimasu.*  
 The cashier will provide you with a receipt.
-</div>
 
 ## Related Expressions
 

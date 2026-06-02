@@ -9,19 +9,17 @@ In daily use, 向かい most commonly appears anchored to a known landmark: 郵�
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>郵便局は駅の向かいにございます。改札を出てすぐ正面です。</code></span><br>
-<em>Yuubinkyoku wa eki no mukai ni gozaimasu. Kaisatsu o dete sugu shoumen desu.</em><br>
+**郵便局は駅の向かいにございます。改札を出てすぐ正面です。**  
+*Yuubinkyoku wa eki no mukai ni gozaimasu. Kaisatsu o dete sugu shoumen desu.*  
 The post office is directly across from the station. It is straight ahead as soon as one exit the ticket gates.
-<br><br>
-<span class="keigo-jp"><code>コンビニはホテルの向かいにございますので、徒歩約1分でございます。</code></span><br>
-<em>Konbini wa hoteru no mukai ni gozaimasu node, toho yaku ippun de gozaimasu.</em><br>
+
+**コンビニはホテルの向かいにございますので、徒歩約1分でございます。**  
+*Konbini wa hoteru no mukai ni gozaimasu node, toho yaku ippun de gozaimasu.*  
 The convenience store is across from the hotel, so it is approximately a one-minute walk.
-<br><br>
-<span class="keigo-jp"><code>フィットネスルームはプールの向かいにございます。タオルはフロントでお貸しいたします。</code></span><br>
-<em>Fittonesu ruumu wa puuru no mukai ni gozaimasu. Taoru wa furonto de okashi itashimasu.</em><br>
+
+**フィットネスルームはプールの向かいにございます。タオルはフロントでお貸しいたします。**  
+*Fittonesu ruumu wa puuru no mukai ni gozaimasu. Taoru wa furonto de okashi itashimasu.*  
 The fitness room is directly across from the pool. We can lend you a towel at the front desk.
-</div>
 
 ## Related Expressions
 

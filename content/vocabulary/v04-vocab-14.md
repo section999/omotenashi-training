@@ -9,19 +9,17 @@ Because the 掃除機 is noisy, timing matters. Housekeeping staff should avoid 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>カーペットの清掃には掃除機を使用しております。</code></span><br>
-<em>Kaapetto no seisou ni wa soujiki wo shiyou shite orimasu.</em><br>
+**カーペットの清掃には掃除機を使用しております。**  
+*Kaapetto no seisou ni wa soujiki wo shiyou shite orimasu.*  
 We use a vacuum cleaner for cleaning the carpeted areas.
-<br><br>
-<span class="keigo-jp"><code>掃除機の音でご不便をおかけしまして、大変申し訳ございませんでした。</code></span><br>
-<em>Soujiki no oto de gofuben wo okakeshimashite, taihen moushiwake gozaimasen deshita.</em><br>
+
+**掃除機の音でご不便をおかけしまして、大変申し訳ございませんでした。**  
+*Soujiki no oto de gofuben wo okakeshimashite, taihen moushiwake gozaimasen deshita.*  
 I sincerely apologize for any inconvenience caused by the noise of the vacuum cleaner.
-<br><br>
-<span class="keigo-jp"><code>清掃の際、掃除機を使用してお部屋の床を丁寧にお掃除いたします。</code></span><br>
-<em>Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni osoujii itashimasu.</em><br>
+
+**清掃の際、掃除機を使用してお部屋の床を丁寧にお掃除いたします。**  
+*Seisou no sai, soujiki wo shiyou shite oheya no yuka wo teinei ni osoujii itashimasu.*  
 During cleaning, we carefully vacuum the floor of the room using a vacuum cleaner.
-</div>
 
 ## Related Expressions
 

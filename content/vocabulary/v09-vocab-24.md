@@ -9,19 +9,17 @@ Staff use 確定 most visibly at check-in when verbally reassuring guests that t
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>ご予約は確定しております。予約番号は12345でございます。</code></span><br>
-<em>Go-yoyaku wa kakutei shite orimasu. Yoyaku bangou wa ichi-ni-san-yon-go de gozaimasu.</em><br>
+**ご予約は確定しております。予約番号は12345でございます。**  
+*Go-yoyaku wa kakutei shite orimasu. Yoyaku bangou wa ichi-ni-san-yon-go de gozaimasu.*  
 Your reservation is confirmed. Your reservation number is 12345.
-<br><br>
-<span class="keigo-jp"><code>お支払いが完了いたしましたので、ご予約が確定となりました。</code></span><br>
-<em>O-shiharai ga kanryou itashimashita node, go-yoyaku ga kakutei to narimashita.</em><br>
+
+**お支払いが完了いたしましたので、ご予約が確定となりました。**  
+*O-shiharai ga kanryou itashimashita node, go-yoyaku ga kakutei to narimashita.*  
 Your payment has been completed, and your reservation is now confirmed.
-<br><br>
-<span class="keigo-jp"><code>確定後は内容の変更に制限がある場合がございますので、ご確認をお願いいたします。</code></span><br>
-<em>Kakutei go wa naiyou no henkou ni seigen ga aru baai ga gozaimasu node, go-kakunin wo o-negai itashimasu.</em><br>
+
+**確定後は内容の変更に制限がある場合がございますので、ご確認をお願いいたします。**  
+*Kakutei go wa naiyou no henkou ni seigen ga aru baai ga gozaimasu node, go-kakunin wo o-negai itashimasu.*  
 Please note that there may be restrictions on changes after confirmation.
-</div>
 
 ## Related Expressions
 

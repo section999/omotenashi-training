@@ -10,19 +10,17 @@ When a guest reports a 紛失, the first step is to gather precise information c
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>パスポートの紛失について、ただいま確認いたします。</code></span><br>
-<em>Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.</em><br>
+**パスポートの紛失について、ただいま確認いたします。**  
+*Pasupooto no funshitsu ni tsuite, tadaima kakunin itashimasu.*  
 We will look into the matter of your lost passport immediately.
-<br><br>
-<span class="keigo-jp"><code>紛失のご報告をいただきました場合、館内を調査いたします。</code></span><br>
-<em>Funshitsu no go-houkoku wo itadakimashita baai, kannai wo chousa itashimasu.</em><br>
+
+**紛失のご報告をいただきました場合、館内を調査いたします。**  
+*Funshitsu no go-houkoku wo itadakimashita baai, kannai wo chousa itashimasu.*  
 When we receive a report of a lost item, we will conduct a search of the premises.
-<br><br>
-<span class="keigo-jp"><code>お客様のご紛失物が見つかり次第、すぐにご連絡いたします。</code></span><br>
-<em>O-kyaku-sama no go-funshitsubutsu ga mitsukari shidai, sugu ni go-renraku itashimasu.</em><br>
+
+**お客様のご紛失物が見つかり次第、すぐにご連絡いたします。**  
+*O-kyaku-sama no go-funshitsubutsu ga mitsukari shidai, sugu ni go-renraku itashimasu.*  
 As soon as your lost item is found, we will contact you immediately.
-</div>
 
 ## Related Expressions
 

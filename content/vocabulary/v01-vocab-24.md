@@ -13,19 +13,17 @@ The phrase carries responsibility. Once staff say ご案内いたします, one 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>お部屋までご案内いたします。こちらへどうぞ。</code></span><br>
-<em>O-heya made go-annai itashimasu. Kochira e dōzo.</em><br>
+**お部屋までご案内いたします。こちらへどうぞ。**  
+*O-heya made go-annai itashimasu. Kochira e dōzo.*  
 I will show you to the room. Please come this way.
-<br><br>
-<span class="keigo-jp"><code>レストランまでご案内いたします。足元にお気をつけください。</code></span><br>
-<em>Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.</em><br>
+
+**レストランまでご案内いたします。足元にお気をつけください。**  
+*Resutoran made go-annai itashimasu. Ashimoto ni o-ki wo tsukete kudasai.*  
 I will guide you to the restaurant. Please watch your step.
-<br><br>
-<span class="keigo-jp"><code>チェックアウトの際には、出口までご案内いたします。</code></span><br>
-<em>Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.</em><br>
+
+**チェックアウトの際には、出口までご案内いたします。**  
+*Chekku-auto no sai ni wa, deguchi made go-annai itashimasu.*  
 At checkout, I will escort you to the entrance.
-</div>
 
 ## Related Expressions
 

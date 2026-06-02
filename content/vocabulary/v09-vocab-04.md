@@ -10,19 +10,17 @@ Operationally, 到着日 comes up when guests request early check-in, when trans
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>到着日のご予定をお知らせいただけますでしょうか。</code></span><br>
-<em>Touchaku bi no go-yotei o oshirase itadakemasu deshou ka.</em><br>
+**到着日のご予定をお知らせいただけますでしょうか。**  
+*Touchaku bi no go-yotei o oshirase itadakemasu deshou ka.*  
 Could you please let us know your planned arrival date?
-<br><br>
-<span class="keigo-jp"><code>到着日の午後3時以降にチェックインが可能でございます。</code></span><br>
-<em>Touchaku bi no gogo san-ji ikou ni chekku-in ga kanou de gozaimasu.</em><br>
+
+**到着日の午後3時以降にチェックインが可能でございます。**  
+*Touchaku bi no gogo san-ji ikou ni chekku-in ga kanou de gozaimasu.*  
 Check-in is available from 3:00 PM on your arrival date.
-<br><br>
-<span class="keigo-jp"><code>到着日を早める場合は、事前にご連絡をいただけますと幸いです。</code></span><br>
-<em>Touchaku bi o hayameru baai wa, jizen ni go-renraku o itadakemasu to saiwai desu.</em><br>
+
+**到着日を早める場合は、事前にご連絡をいただけますと幸いです。**  
+*Touchaku bi o hayameru baai wa, jizen ni go-renraku o itadakemasu to saiwai desu.*  
 If you plan to arrive earlier than scheduled, we would appreciate advance notice.
-</div>
 
 ## Related Expressions
 

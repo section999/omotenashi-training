@@ -9,19 +9,17 @@ having 外国語 skills on their team is only part of the picture. Hotels that h
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>外国語でのお問い合わせも、スタッフが対応いたします。</code></span><br>
-<em>Gaikokugo de no otoiawase mo, sutaffu ga taiou itashimasu.</em><br>
+**外国語でのお問い合わせも、スタッフが対応いたします。**  
+*Gaikokugo de no otoiawase mo, sutaffu ga taiou itashimasu.*  
 Our staff will also handle inquiries in foreign languages.
-<br><br>
-<span class="keigo-jp"><code>外国語パンフレットをご用意しておりますので、どうぞご自由にお取りください。</code></span><br>
-<em>Gaikokugo panfuretto wo go-youi shite orimasu node, douzo go-jiyuu ni otori kudasai.</em><br>
+
+**外国語パンフレットをご用意しておりますので、どうぞご自由にお取りください。**  
+*Gaikokugo panfuretto wo go-youi shite orimasu node, douzo go-jiyuu ni otori kudasai.*  
 We have brochures available in foreign languages, so please feel free to take one.
-<br><br>
-<span class="keigo-jp"><code>外国語でのご案内が必要なお客様は、フロントまでお申し付けください。</code></span><br>
-<em>Gaikokugo de no go-annai ga hitsuyou na okyakusama wa, furonto made omoshitsuke kudasai.</em><br>
+
+**外国語でのご案内が必要なお客様は、フロントまでお申し付けください。**  
+*Gaikokugo de no go-annai ga hitsuyou na okyakusama wa, furonto made omoshitsuke kudasai.*  
 Guests who need guidance in a foreign language are welcome to contact the front desk.
-</div>
 
 ## Related Expressions
 

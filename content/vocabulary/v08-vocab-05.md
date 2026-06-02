@@ -10,19 +10,17 @@ In hotel communication, 角 most frequently appears as 次の角 (the next corne
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>次の角を右に曲がってください。</code></span><br>
-<em>Tsugi no kado wo migi ni magatte kudasai.</em><br>
+**次の角を右に曲がってください。**  
+*Tsugi no kado wo migi ni magatte kudasai.*  
 Please turn right at the next corner.
-<br><br>
-<span class="keigo-jp"><code>二つ目の角を左に曲がると、レストランのご入口がございます。</code></span><br>
-<em>Futatsu-me no kado wo hidari ni magaru to, resutoran no go-iriguchi ga gozaimasu.</em><br>
+
+**二つ目の角を左に曲がると、レストランのご入口がございます。**  
+*Futatsu-me no kado wo hidari ni magaru to, resutoran no go-iriguchi ga gozaimasu.*  
 Turn left at the second corner and one will find the restaurant entrance.
-<br><br>
-<span class="keigo-jp"><code>この角を曲がると正面に駐車場がございます。</code></span><br>
-<em>Kono kado wo magaru to shoumen ni chuushajou ga gozaimasu.</em><br>
+
+**この角を曲がると正面に駐車場がございます。**  
+*Kono kado wo magaru to shoumen ni chuushajou ga gozaimasu.*  
 Turn at this corner and the parking lot will be directly ahead of you.
-</div>
 
 ## Related Expressions
 

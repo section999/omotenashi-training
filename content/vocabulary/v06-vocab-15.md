@@ -10,19 +10,17 @@ Wi-Fi information is typically shown on a card in the room, printed on the key s
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>当ホテルでは、全館で無料のWi-Fiをご利用いただけます。</code></span><br>
-<em>Tou hoteru de wa, zenkan de muryou no waifai wo go-riyou itadakemasu.</em><br>
+**当ホテルでは、全館で無料のWi-Fiをご利用いただけます。**  
+*Tou hoteru de wa, zenkan de muryou no waifai wo go-riyou itadakemasu.*  
 At our hotel, complimentary Wi-Fi is available throughout the entire building.
-<br><br>
-<span class="keigo-jp"><code>Wi-FiのネットワークIDとパスワードは、お部屋のカードにご記載しております。</code></span><br>
-<em>Waifai no nettowaaку ID to pasuwaado wa, o-heya no kaado ni go-kisai shite orimasu.</em><br>
+
+**Wi-FiのネットワークIDとパスワードは、お部屋のカードにご記載しております。**  
+*Waifai no nettowaaку ID to pasuwaado wa, o-heya no kaado ni go-kisai shite orimasu.*  
 The Wi-Fi network ID and password are printed on the card in the room.
-<br><br>
-<span class="keigo-jp"><code>Wi-Fiに接続できない場合は、フロントまでお申しつけください。</code></span><br>
-<em>Waifai ni setsuzoku dekinai baai wa, furonto made o-moushitsuke kudasai.</em><br>
+
+**Wi-Fiに接続できない場合は、フロントまでお申しつけください。**  
+*Waifai ni setsuzoku dekinai baai wa, furonto made o-moushitsuke kudasai.*  
 If one is unable to connect to Wi-Fi, please let us know at the front desk.
-</div>
 
 ## Related Expressions
 

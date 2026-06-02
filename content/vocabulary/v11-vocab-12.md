@@ -10,19 +10,17 @@ The key distinction between メッセージ and 伝言 is breadth. Where 伝言 
 
 ## Example Sentences
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>山田様へのメッセージをお預かりしております。</code></span><br>
-<em>Yamada-sama e no messēji wo oazukari shite orimasu.</em><br>
+**山田様へのメッセージをお預かりしております。**  
+*Yamada-sama e no messēji wo oazukari shite orimasu.*  
 We have a message here for Mr./Ms. Yamada.
-<br><br>
-<span class="keigo-jp"><code>ルームサービスよりメッセージカードをお届けいたします。</code></span><br>
-<em>Rūmu sābisu yori messēji kādo wo otodoke itashimasu.</em><br>
+
+**ルームサービスよりメッセージカードをお届けいたします。**  
+*Rūmu sābisu yori messēji kādo wo otodoke itashimasu.*  
 Room service will deliver a message card to the room.
-<br><br>
-<span class="keigo-jp"><code>メッセージを残してもよろしいですか。折り返しご連絡いただけますでしょうか。</code></span><br>
-<em>Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.</em><br>
+
+**メッセージを残してもよろしいですか。折り返しご連絡いただけますでしょうか。**  
+*Messēji wo nokoshite mo yoroshii desu ka. Orikaeshi gorenraku itadakemasu deshō ka.*  
 May I leave a message? Could you please call me back?
-</div>
 
 ## Related Expressions
 
