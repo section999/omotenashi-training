@@ -1,148 +1,77 @@
 ---
 id: m5-keigo-10
 section: 10
-title: Common Keigo Errors and How to Correct Them
+title: 承ります: Receiving Requests Humbly
 ---
 
-Even experienced hotel staff make recurring keigo errors. Understanding why these errors happen, not just what to avoid, is what builds lasting accuracy. This lesson covers the five most common keigo mistakes in hotel service and gives exact corrections.
+Among all humble forms, 承ります (uketamawarimasu) deserves special attention. It is the most service-specific humble verb in hotel keigo; its meaning goes beyond "I received" and signals that the staff has fully accepted responsibility for the guest's request.
 
-## Error 1: Using Plain Verbs for the Guest's Actions
+## What 承ります Communicates
 
-This is the most widespread error. Staff use plain or everyday polite forms when describing what the guest does, instead of applying sonkeigo.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Error</span>
-<span class="keigo-jp"><code>お客様は食べましたか？</code></span><br>
-Has the guest eaten?<br><br>
-<span class="keigo-jp"><code>何時に来ますか？</code></span><br>
-What time will you come?<br><br>
-<span class="keigo-badge bad">Why it happens</span> Plain verbs are instinctive. Sonkeigo requires a conscious choice.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correction</span>
-<span class="keigo-jp"><code>お客様はもう召し上がりましたか？</code></span><br>
-Has the guest already eaten?<br><br>
-<span class="keigo-jp"><code>何時頃お越しになりますか？</code></span><br>
-Around what time will you be arriving?<br><br>
-<span class="keigo-badge good">Rule</span> Guest as subject = always 尊敬語 verb.
-</div>
-</div>
-
-## Error 2: Applying Sonkeigo to Staff
-
-Using sonkeigo verbs to describe your own actions or a colleague's actions elevates the staff above or equal to the guest, reversing the hospitality relationship.
+承ります is the humble form for receiving requests, reservations, orders, and instructions. While いただきます means "I humbly receive," 承ります carries the additional meaning: "I humbly accept this and will act on it." It is the difference between acknowledging and committing.
 
 <div class="keigo-pair">
 <div class="bad-col">
-<span class="keigo-pair-label">Error</span>
-<span class="keigo-jp"><code>私がご案内していらっしゃいます。</code></span><br>
-(using sonkeigo for self)<br><br>
-<span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
-(using sonkeigo for a colleague)<br><br>
-<span class="keigo-badge bad">Why it happens</span> Confusion about which direction the hierarchy runs.
+<span class="keigo-pair-label">いただきます (general receiving)</span>
+<span class="keigo-jp"><code>ご要望をいただきました。</code></span><br>
+I received your request.<br><br>
+<span class="keigo-badge bad">Incomplete</span> Grammatically humble, but sounds like a passive acknowledgment rather than a service commitment.
 </div>
 <div class="good-col">
-<span class="keigo-pair-label">Correction</span>
-<span class="keigo-jp"><code>私がご案内いたします。</code></span><br>
-(kenjogo for self)<br><br>
-<span class="keigo-jp"><code>担当者がおります。</code></span><br>
-(humble form for colleague)<br><br>
-<span class="keigo-badge good">Rule</span> Staff and colleagues = 謙譲語. Only the guest gets 尊敬語.
+<span class="keigo-pair-label">承ります (service receiving)</span>
+<span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
+I have received and accepted your request.<br><br>
+<span class="keigo-badge good">Preferred</span> 承ります signals active responsibility; the staff is not just acknowledging but committing to act.
 </div>
 </div>
 
-## Error 3: Double Keigo (過剰敬語)
+## Core Usage Patterns
 
-Double keigo means stacking two humble forms on top of each other, creating an unnatural expression that sounds excessive rather than polished.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Error</span>
-<span class="keigo-jp"><code>お伺いさせていただきます。</code></span><br>
-(お伺い is already humble; adding させていただく is redundant)<br><br>
-<span class="keigo-jp"><code>ご覧になられました。</code></span><br>
-(ご覧になる is already sonkeigo; adding られる is redundant)<br><br>
-<span class="keigo-badge bad">Why it happens</span> Staff trying to be maximally polite end up stacking forms.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correction</span>
-<span class="keigo-jp"><code>お伺いいたします。</code></span><br>
-(one humble layer is correct)<br><br>
-<span class="keigo-jp"><code>ご覧になりました。</code></span><br>
-(correct sonkeigo form, no extra passive layer needed)<br><br>
-<span class="keigo-badge good">Rule</span> One keigo form per verb. Stacking two humble or two honorific forms creates over-keigo.
-</div>
-</div>
-
-## Error 4: Mixing Registers Mid-Sentence
-
-A sentence that starts in hotel keigo and drifts into casual or plain language creates an inconsistent tone that guests perceive as unprofessional.
-
-<div class="keigo-pair">
-<div class="bad-col">
-<span class="keigo-pair-label">Error</span>
-<span class="keigo-jp"><code>少々お待ちください。</code></span><br>
-(お待ち is polite, but くださいませ is the hotel standard, not ください alone)<br><br>
-<span class="keigo-jp"><code>かしこまりました。確認します。</code></span><br>
-(first phrase is high keigo; 確認します is plain)<br><br>
-<span class="keigo-badge bad">Why it happens</span> Fatigue or habit causes the second half of the sentence to revert.
-</div>
-<div class="good-col">
-<span class="keigo-pair-label">Correction</span>
-<span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>
-(consistently hotel-register throughout)<br><br>
-<span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
-(both phrases at hotel keigo level)<br><br>
-<span class="keigo-badge good">Rule</span> Match the register of the entire sentence, from opening word to ending particle.
-</div>
-</div>
-
-## Error 5: Using わかりました Instead of かしこまりました
-
-わかりました is grammatically correct and polite, but in hotel service it signals a casual register. かしこまりました communicates both understanding and a service commitment. The difference is not just vocabulary; it reflects how seriously the staff is receiving the guest's instruction.
-
-| Expression | Register | Appropriate Context |
-|---|---|---|
-| <span>わかった</span> | Casual | Never in hotel service |
-| <span>わかりました</span> | Everyday polite | Between colleagues only |
-| <span>承知しました</span> | Business polite | Internal staff communication |
-| <span>かしこまりました</span> | Hotel keigo | Every guest-facing acknowledgment |
+承ります is used when receiving requests, reservations, or instructions in any service context.
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
-<em>kashikomarimashita. tadaima go-kakunin itashimasu.</em><br>
-Certainly. I will confirm that right now.
+<span class="keigo-jp"><code>ご予約を承りました。</code></span><br>
+<em>go-yoyaku o uketamawarimashita.</em><br>
+I have received your reservation.<br><br>
+<span class="keigo-jp"><code>ご注文を承ります。</code></span><br>
+<em>go-chumon o uketamawarimasu.</em><br>
+I will take your order.<br><br>
+<span class="keigo-jp"><code>ご要望を承りました。</code></span><br>
+<em>go-youbou o uketamawarimashita.</em><br>
+I have received your request.<br><br>
+<span class="keigo-jp"><code>かしこまりました。確かに承りました。</code></span><br>
+<em>kashikomarimashita. tashika ni uketamawarimashita.</em><br>
+Certainly. I have confirmed receipt of your request.
 </div>
 
-## The Underlying Pattern
+## When to Use 承ります vs かしこまりました
 
-All five errors have the same root cause: reverting to the language that feels instinctive rather than applying the trained hotel standard.
+These two forms are often used together. Each plays a distinct role.
 
-Errors happen most often when staff are:
+| Form | Function |
+|---|---|
+| <span>かしこまりました</span> | Acknowledges the guest's instruction; "I understand and comply" |
+| <span>承りました</span> | Confirms receipt of a specific item (reservation, order, request) |
 
-- Tired or operating under stress
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>かしこまりました。ご予約を承りました。</code></span><br>
+<em>kashikomarimashita. go-yoyaku o uketawarimashita.</em><br>
+Certainly. I have received your reservation.
+</div>
 
-- Handling an unexpected situation for the first time
-
-- Switching between guest interactions quickly
-
-- Speaking with colleagues and then immediately turning to a guest
-
-
-The solution is not more vocabulary. It is enough repetition that the hotel forms become the instinctive ones, replacing the casual defaults.
+The two forms work together: かしこまりました acknowledges the guest's intent, and 承りました confirms the specific action has been accepted.
 
 ---
 
 ## Quiz
 
-**A front desk staff member says 「お伺いさせていただきます」. What is the error?**
+**A front desk staff member confirms a guest's reservation by phone. Which phrase is most appropriate?**
 
-- A. お伺い is incorrect and should be replaced with a different verb
-- B. This is correct and natural hotel keigo
-- C. This is double keigo: お伺い is already a humble form, and adding させていただく creates an over-humble expression
-- D. さていただく should be replaced with くださいませ
+- A. 予約がありますね。
+- B. 予約をもらいました。
+- C. ご予約を承りました。
+- D. ご予約をいただきました。
 
 **Correct Answer:** C
 
-**Explanation:** お伺いします is already a fully humble 謙譲語 form. Adding させていただく (another humble expression meaning "to be permitted to do") creates double keigo that sounds excessive and unnatural. The correct form is simply 「お伺いいたします」, which uses one humble layer (お伺い) plus the polished auxiliary いたします. Hotel keigo requires one keigo form per verb, not stacked humility.
+**Explanation:** ご予約を承りました is the standard hotel phrase for confirming receipt of a reservation. 承ります is the most appropriate humble form for formally receiving service-related requests. Option A is plain language with no keigo. Option B uses もらいました, a casual everyday form. Option D uses いただきました, which is humble but lacks the service-commitment nuance that 承ります carries. In hotel front desk and reservation contexts, 承ります is the preferred form.
