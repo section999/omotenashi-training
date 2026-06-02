@@ -875,16 +875,7 @@ const FILE_MAP = {
   'content/foundations/m5-phone-14.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:14, total:17, prev:'content/foundations/m5-phone-13.md', next:'content/foundations/m5-phone-15.md' },
   'content/foundations/m5-phone-15.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:15, total:17, prev:'content/foundations/m5-phone-14.md', next:'content/foundations/m5-phone-16.md' },
   'content/foundations/m5-phone-16.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:16, total:17, prev:'content/foundations/m5-phone-15.md', next:'content/foundations/m5-phone-17.md' },
-  'content/foundations/m5-phone-17.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:17, total:17, prev:'content/foundations/m5-phone-16.md', next:'content/foundations/m5-convo-01.md' },
-    // m5-convo (8)
-  'content/foundations/m5-convo-01.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:1, total:8, prev:'content/foundations/m5-phone-17.md', next:'content/foundations/m5-convo-02.md' },
-  'content/foundations/m5-convo-02.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:2, total:8, prev:'content/foundations/m5-convo-01.md', next:'content/foundations/m5-convo-03.md' },
-  'content/foundations/m5-convo-03.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:3, total:8, prev:'content/foundations/m5-convo-02.md', next:'content/foundations/m5-convo-04.md' },
-  'content/foundations/m5-convo-04.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:4, total:8, prev:'content/foundations/m5-convo-03.md', next:'content/foundations/m5-convo-05.md' },
-  'content/foundations/m5-convo-05.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:5, total:8, prev:'content/foundations/m5-convo-04.md', next:'content/foundations/m5-convo-06.md' },
-  'content/foundations/m5-convo-06.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:6, total:8, prev:'content/foundations/m5-convo-05.md', next:'content/foundations/m5-convo-07.md' },
-  'content/foundations/m5-convo-07.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:7, total:8, prev:'content/foundations/m5-convo-06.md', next:'content/foundations/m5-convo-08.md' },
-  'content/foundations/m5-convo-08.md': { module:'Honorific Language for Guest Service', lesson:'Situational Conversation', section:8, total:8, prev:'content/foundations/m5-convo-07.md', next:null },
+  'content/foundations/m5-phone-17.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:17, total:17, prev:'content/foundations/m5-phone-16.md', next:null },
     // m5-internal (14)
   'content/foundations/m5-internal-01.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:1, total:14, prev:'content/foundations/m5-meeting-15.md', next:'content/foundations/m5-internal-02.md' },
   'content/foundations/m5-internal-02.md': { module:'Honorific Language for Guest Service', lesson:'Internal Communication', section:2, total:14, prev:'content/foundations/m5-internal-01.md', next:'content/foundations/m5-internal-03.md' },
@@ -3369,7 +3360,6 @@ async function render() {
 
   // ── Romaji lookup for Key Phrases tables ──────────────────────────────────
   const _ROMAJI = {
-    // m5-convo-01
     'ご予約のお名前をお聞かせいただけますでしょうか？': 'go-yoyaku no o-namae o o-kikase itadakemasu deshou ka?',
     '〇〇様でいらっしゃいますね': 'marumaru-sama de irasshaimasu ne',
     'ご予約いただいております': 'go-yoyaku itadaite orimasu',
@@ -3391,7 +3381,6 @@ async function render() {
     '朝食は1階です': 'choushoku wa 1-kai desu',
     '1階レストランで承っております': '1-kai resutoran de uketamawatte orimasu',
     'Wi-Fiパスワードです': 'Wi-Fi pasuwaado desu',
-    // m5-convo-02
     'チェックアウトのお手続きでございますね': 'chekkuauto no o-tetsuzuki de gozaimasu ne',
     'お部屋番号をお聞かせいただけますでしょうか？': 'o-heya bangou o o-kikase itadakemasu deshou ka?',
     '少々お待ちくださいませ': 'shoushou o-machi kudasaimase',
@@ -3406,7 +3395,6 @@ async function render() {
     '気をつけて帰ってください': 'ki o tsukete kaette kudasai',
     'ミニバー使いましたか？': 'minibaa tsukaimashita ka?',
     '部屋番号は？': 'heya bangou wa?',
-    // m5-convo-03
     'お2名様でいらっしゃいますか？': 'o-ni-mei-sama de irasshaimasu ka?',
     '窓際のお席をご用意できますが、いかがでしょうか？': 'madogiwa no o-seki o go-youi dekimasu ga, ikaga deshou ka?',
     'こちらがメニューでございます': 'kochira ga menyuu de gozaimasu',
@@ -3421,7 +3409,6 @@ async function render() {
     'これでいいですか？': 'kore de ii desu ka?',
     '料理はどうですか？': 'ryouri wa dou desu ka?',
     '会計しますね': 'kaikei shimasu ne',
-    // m5-convo-04
     'どのような場所にご興味がおありますか？': 'dono youna basho ni go-kyoumi ga o-arimasu ka?',
     '浅草や鎌倉はいかがでしょうか？': 'asakusa ya kamakura wa ikaga deshou ka?',
     '当ホテルから電車で30分ほどでございます': 'tou hoteru kara densha de sanjuppun hodo de gozaimasu',
@@ -3433,7 +3420,6 @@ async function render() {
     'ここから30分です': 'koko kara sanjuppun desu',
     '地図を持ってきます': 'chizu o motte kimasu',
     '待ってください': 'matte kudasai',
-    // m5-convo-05
     '結婚記念日なんですけど': 'kekkin kinenbi nan desu kedo',
     'お部屋にシャンパンとお花をご用意させていただくことは可能でございます': 'o-heya ni shanpan to o-hana o go-youi sasete itadaku koto wa kanou de gozaimasu',
     'デザートプレートにメッセージをお入れすることもできますが、いかがでしょうか？': 'dezaato pureeto ni messeeji o o-ire suru koto mo dekimasu ga, ikaga deshou ka?',
@@ -3441,7 +3427,6 @@ async function render() {
     '何時頃がご都合よろしいでしょうか？': 'nan-ji goro ga go-tsugou yoroshii deshou ka?',
     'お部屋にお届けいたします': 'o-heya ni o-todoke itashimasu',
     '何か他にご要望がございましたら、お申し付けくださいませ': 'nanika hoka ni go-youbou ga gozaimashitara, o-moushi-tsuke kudasaimase',
-    // m5-convo-06
     'エアコンがお部屋でうまく作動していないとのこと、大変申し訳ございません': 'eakon ga o-heya de umaku sadou shite inai to no koto, taihen moushiwake gozaimasen',
     'すぐに確認してまいります': 'sugu ni kakunin shite mairimasu',
     '少々お待ちいただけますでしょうか？': 'shoushou o-machi itadakemasu deshou ka?',
@@ -3452,7 +3437,6 @@ async function render() {
     '修理します': 'shuuri shimasu',
     '部屋を変えますか？': 'heya o kaemasu ka?',
     'ごめんなさい': 'gomen nasai',
-    // m5-convo-07
     'ただいま火災報知器が作動しております': 'tadaima kasai houshiki ga sadou shite orimasu',
     '係員の指示に従って、落ち着いて避難してください': 'kakariin no shiji ni shitagatte, ochitsuite hinan shite kudasai',
     'エレベーターはご使用にならず、階段をご利用ください': 'erebeetaa wa go-shiyou ni narazu, kaidan o go-riyou kudasai',
@@ -3462,7 +3446,6 @@ async function render() {
     'エレベーターを使わないで': 'erebeetaa o tsukawanaide',
     '荷物を置いて': 'nimotsu o oite',
     'あとで案内します': 'ato de annai shimasu',
-    // m5-convo-08
     '予約をしていないんですけど、部屋はありますか？': 'yoyaku o shite inai n desu kedo, heya wa arimasu ka?',
     'ただ今、空室状況を確認いたします': 'tadaima, kushitsu joukyou o kakunin itashimasu',
     'シングルルームは一泊12,000円でございます': 'shinguru ruumu wa ippaku 12,000-en de gozaimasu',
