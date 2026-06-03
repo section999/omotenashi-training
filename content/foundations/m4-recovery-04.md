@@ -25,12 +25,12 @@ Even if the guest's account of events contains inaccuracies, this is not the mom
 
 ## Common Recovery Actions
 
-• Room upgrade or room change
-• Complimentary meal, beverage, or amenity
-• Waived charge for the affected item or service
-• Priority rebooking or arrangement assistance
-• Personal attention from a senior staff member or manager
-• Written follow-up or thank-you note
+- Room upgrade or room change
+- Complimentary meal, beverage, or amenity
+- Waived charge for the affected item or service
+- Priority rebooking or arrangement assistance
+- Personal attention from a senior staff member or manager
+- Written follow-up or thank-you note
 
 
 ## Offering the Solution

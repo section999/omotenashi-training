@@ -12,9 +12,9 @@ A yukata is a lightweight cotton robe provided for guests to wear within the ryo
 
 How to wear a yukata:
 
-• Left side over right. Right over left is reserved for the deceased, a critical distinction.
-• Tied with the *obi* (sash) in a simple bow at the front.
-• The hem should fall at the ankle.
+- Left side over right. Right over left is reserved for the deceased, a critical distinction.
+- Tied with the *obi* (sash) in a simple bow at the front.
+- The hem should fall at the ankle.
 
 
 When explaining this to guests:
@@ -29,10 +29,10 @@ When a guest offers to help prepare their own futon, accept the gesture gracious
 
 Many international guests have never used a communal bath before, and a brief explanation at check-in helps everyone. Key points to communicate clearly:
 
-• Wash and rinse thoroughly at the shower station **before** entering the bath.
-• Towels are not taken into the bath; small towels may be placed on the head or folded at the edge.
-• Tattoo policies vary by property; inform guests of the policy at check-in, not at the bath entrance.
-• Silence and calm are expected; the onsen is a place of rest.
+- Wash and rinse thoroughly at the shower station **before** entering the bath.
+- Towels are not taken into the bath; small towels may be placed on the head or folded at the edge.
+- Tattoo policies vary by property; inform guests of the policy at check-in, not at the bath entrance.
+- Silence and calm are expected; the onsen is a place of rest.
 
 
 ---

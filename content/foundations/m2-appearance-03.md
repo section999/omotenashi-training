@@ -16,10 +16,10 @@ Guests read these cues immediately, often below the level of conscious thought. 
 
 Move with purpose and calm, not hurried, not ambling. In guest-facing areas, movement should be quiet. Avoid:
 
-• Running (suggests loss of control)
-• Loud footsteps (suggests inattention to the environment)
-• Cutting across a guest's path without acknowledgment
-• Walking in groups that block corridors
+- Running (suggests loss of control)
+- Loud footsteps (suggests inattention to the environment)
+- Cutting across a guest's path without acknowledgment
+- Walking in groups that block corridors
 
 
 When passing a guest in a corridor, slow slightly, make eye contact, and offer a small nod or bow. This acknowledges the guest's presence without interrupting their movement.

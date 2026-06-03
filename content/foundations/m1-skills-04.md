@@ -25,9 +25,9 @@ The concept of **ma (間)**: the Japanese aesthetic principle of meaningful paus
 
 ## Practical Calibration
 
-• If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated, adjust the intervals.
-• If a guest has finished eating while their companion is still on the first course, do not remove the finished plate until both have finished, unless they specifically request it.
-• If a guest's room is being cleaned and they are waiting in the lobby, the pace of housekeeping directly affects their stay. Communicate proactively rather than leaving them to wait in uncertainty.
+- If courses are consistently arriving behind schedule, the pace of the meal has been miscalculated, adjust the intervals.
+- If a guest has finished eating while their companion is still on the first course, do not remove the finished plate until both have finished, unless they specifically request it.
+- If a guest's room is being cleaned and they are waiting in the lobby, the pace of housekeeping directly affects their stay. Communicate proactively rather than leaving them to wait in uncertainty.
 
 
 ---

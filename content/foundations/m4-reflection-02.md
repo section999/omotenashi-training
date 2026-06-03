@@ -14,10 +14,10 @@ title: Kaizen, Continuous Improvement
 
 Small, specific observations turned into small, specific improvements are what kaizen looks like in a hospitality setting:
 
-• Noticing that guests frequently stop at the same spot in the lobby to ask where the elevator is, and suggesting a small sign that removes the question entirely
-• Realising that a form's current layout is causing delays at check-out, and proposing a simpler order of fields
-• Identifying that a handover procedure is consistently losing details, and drafting a clearer template
-• Discovering through hansei practice that pausing one second before responding to a guest question produces noticeably better answers, and deliberately building that pause in
+- Noticing that guests frequently stop at the same spot in the lobby to ask where the elevator is, and suggesting a small sign that removes the question entirely
+- Realising that a form's current layout is causing delays at check-out, and proposing a simpler order of fields
+- Identifying that a handover procedure is consistently losing details, and drafting a clearer template
+- Discovering through hansei practice that pausing one second before responding to a guest question produces noticeably better answers, and deliberately building that pause in
 
 
 Each of these is a small thing. None of them alone is remarkable. A person who does this consistently, and a team that shares and builds on each other's observations, creates a standard that waiting for a training course to fix things simply cannot match.

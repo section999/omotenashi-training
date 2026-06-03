@@ -29,9 +29,9 @@ The Japanese concept of **kokorozukai (心遣い)**: literally "the use of the h
 
 Examples include:
 
-• A birthday card left on the pillow
-• A note explaining the origin of the ingredients in a meal
-• Remembering a guest's name on their second visit
+- A birthday card left on the pillow
+- A note explaining the origin of the ingredients in a meal
+- Remembering a guest's name on their second visit
 
 
 These actions take moments to execute but show that the guest was held in mind. Kokorozukai is not occasional. It is a way of moving through every interaction with a habit of consideration, asking not only "what does this guest need?" but "what would make this person feel genuinely cared for?"

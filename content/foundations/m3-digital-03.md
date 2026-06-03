@@ -10,9 +10,9 @@ Online reviews on platforms such as Google, TripAdvisor, and booking sites are a
 
 Responding to reviews has a direct impact on how the property is perceived:
 
-• A thoughtful response to a negative review can recover the reviewer's confidence and reassure future readers. It shows the property listens and takes feedback seriously.
-• Responding to positive reviews acknowledges loyal guests and reinforces the relationship. A brief, warm reply costs almost nothing and leaves a lasting impression.
-• No response to a negative review reads as indifference, which is often more damaging than the original complaint.
+- A thoughtful response to a negative review can recover the reviewer's confidence and reassure future readers. It shows the property listens and takes feedback seriously.
+- Responding to positive reviews acknowledges loyal guests and reinforces the relationship. A brief, warm reply costs almost nothing and leaves a lasting impression.
+- No response to a negative review reads as indifference, which is often more damaging than the original complaint.
 
 
 ## Structure of a Response to a Negative Review

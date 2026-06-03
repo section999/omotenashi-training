@@ -26,18 +26,18 @@ Only after the apology do you move to action: "Allow me to find a solution for y
 
 ## What an Apology Is Not
 
-• Repeating a formula without genuine presence behind it
-• Explaining what went wrong as a substitute for accountability
-• Jumping straight to compensation before the guest has felt heard
-• Saying "this won't happen again" with no conviction behind it
+- Repeating a formula without genuine presence behind it
+- Explaining what went wrong as a substitute for accountability
+- Jumping straight to compensation before the guest has felt heard
+- Saying "this won't happen again" with no conviction behind it
 
 
 ## The Physical Apology
 
 The bow during an apology carries as much meaning as the words. Its depth and duration communicate the gravity of what is being acknowledged.
 
-• For a minor inconvenience, a brief bow of around 15 degrees is appropriate
-• For a significant service failure, a deeper bow of 30 to 45 degrees, held for a moment, is expected
+- For a minor inconvenience, a brief bow of around 15 degrees is appropriate
+- For a significant service failure, a deeper bow of 30 to 45 degrees, held for a moment, is expected
 
 
 The bow should feel like giving something, not performing a gesture.

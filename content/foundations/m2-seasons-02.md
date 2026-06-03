@@ -12,25 +12,25 @@ For hospitality professionals, spring presents rich opportunities to create mean
 
 The following phrases are appropriate from March through May:
 
-• *春らしい陽気になってまいりました。* "The weather has begun to feel like spring."
-• *桜の季節を迎え、心よりお喜び申し上げます。* "We are delighted to welcome you in this cherry blossom season."
+- *春らしい陽気になってまいりました。* "The weather has begun to feel like spring."
+- *桜の季節を迎え、心よりお喜び申し上げます。* "We are delighted to welcome you in this cherry blossom season."
 
 
 ## Seasonal Environment
 
 Spring decorations and amenities reflect the lightness and freshness of the season:
 
-• Pale pink and white floral arrangements; cherry blossom branches in minimalist vases
-• Green tea from the season's first harvest (一番茶, *ichibancha*) as a room amenity
-• Sakura-flavoured sweets (*wagashi*) presented with tea service
-• Light, airy table linens in cream or pale greens
+- Pale pink and white floral arrangements; cherry blossom branches in minimalist vases
+- Green tea from the season's first harvest (一番茶, *ichibancha*) as a room amenity
+- Sakura-flavoured sweets (*wagashi*) presented with tea service
+- Light, airy table linens in cream or pale greens
 
 
 ## Seasonal Food and Drink
 
-• Spring vegetables: bamboo shoots (*takenoko*), spring cabbage, fiddlehead ferns (*warabi*)
-• Sakura-flavoured desserts, spring miso soup, light dashi broths
-• New season green tea, particularly the prized 新茶 (*shincha*), which arrives in April and May
+- Spring vegetables: bamboo shoots (*takenoko*), spring cabbage, fiddlehead ferns (*warabi*)
+- Sakura-flavoured desserts, spring miso soup, light dashi broths
+- New season green tea, particularly the prized 新茶 (*shincha*), which arrives in April and May
 
 
 ## Service Attitude in Spring

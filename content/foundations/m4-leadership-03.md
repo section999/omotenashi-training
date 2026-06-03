@@ -10,10 +10,10 @@ Exceptional hospitality is a team performance. No individual, however skilled, c
 
 The pre-shift briefing is one of the most important rituals in hospitality. It is the moment when the team aligns on the critical information that will shape the coming hours: which guests are arriving, who has special requirements, what events are happening in the hotel or nearby, what issues carried over from the previous shift. A well-run briefing is brief, structured, and complete. It covers:
 
-• VIP and returning guests: names, preferences, and any standing instructions
-• Special requests: allergy notifications, accessibility requirements, celebration occasions
-• Known issues: anything unresolved from the previous shift that may require follow-up
-• Operational notes: events, reservations, expected volumes, and scheduling
+- VIP and returning guests: names, preferences, and any standing instructions
+- Special requests: allergy notifications, accessibility requirements, celebration occasions
+- Known issues: anything unresolved from the previous shift that may require follow-up
+- Operational notes: events, reservations, expected volumes, and scheduling
 
 
 Even a five-minute briefing run well is worth more than a thirty-minute one run loosely.

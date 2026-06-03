@@ -12,10 +12,10 @@ The Japanese concept of **kokorozukai (心遣い)**, literally "the use of the h
 
 Examples of kokorozukai in practice:
 
-• Noticing that a guest mentioned their child is starting school in September, and leaving a small, appropriate book among the room's amenities
-• Preparing a second copy of the day's recommended walking route for a couple so they do not have to share one
-• Bringing a second cup to a guest who has just received tea, in anticipation of a companion still in the elevator
-• Adding a brief note to a property gift explaining the cultural significance of the item, turning a nice gesture into an actual experience
+- Noticing that a guest mentioned their child is starting school in September, and leaving a small, appropriate book among the room's amenities
+- Preparing a second copy of the day's recommended walking route for a couple so they do not have to share one
+- Bringing a second cup to a guest who has just received tea, in anticipation of a companion still in the elevator
+- Adding a brief note to a property gift explaining the cultural significance of the item, turning a nice gesture into an actual experience
 
 
 ## The Power of Names
@@ -28,9 +28,9 @@ Learn names before guests arrive. Practise pronunciations that are unfamiliar. W
 
 The opposite of kokorozukai is formulaic care: the scripted gesture that looks like thoughtfulness but is identical for every guest.
 
-• A card that says "Happy Birthday" with nothing personal
-• A welcome gift identical regardless of who is receiving it
-• An anniversary upgrade given by default rather than with a note that actually acknowledges the occasion
+- A card that says "Happy Birthday" with nothing personal
+- A welcome gift identical regardless of who is receiving it
+- An anniversary upgrade given by default rather than with a note that actually acknowledges the occasion
 
 
 Guests receive these things without feeling them. The standard for kokorozukai is not simply a gesture, but this gesture for this person at this moment. That specificity is what makes it meaningful.

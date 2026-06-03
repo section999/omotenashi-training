@@ -12,9 +12,9 @@ Muslim guests require halal food: meat slaughtered according to Islamic law, fre
 
 Key points:
 
-• Confirm with the kitchen whether dishes contain sake, mirin, or pork-based dashi. These are standard in Japanese cooking and completely invisible to the guest.
-• If the kitchen cannot guarantee halal preparation, be honest. A guest who trusts your word and discovers later that the food was not halal has been seriously failed.
-• Facilitate alternatives: point guests toward certified halal restaurants in the area.
+- Confirm with the kitchen whether dishes contain sake, mirin, or pork-based dashi. These are standard in Japanese cooking and completely invisible to the guest.
+- If the kitchen cannot guarantee halal preparation, be honest. A guest who trusts your word and discovers later that the food was not halal has been seriously failed.
+- Facilitate alternatives: point guests toward certified halal restaurants in the area.
 
 
 ## Vegetarian and Beef Restrictions (Hinduism)

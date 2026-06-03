@@ -11,13 +11,13 @@ Not every quiet, withdrawn, or irritable guest is dissatisfied with the service.
 
 <div class="keigo-card blue">
 <span class="keigo-badge info">Physical Signs</span><br>
-• Glazed or heavy-lidded eyes<br>• Slower movement, shuffling steps<br>• Slumped posture or leaning against surfaces<br>• Pale or puffy complexion<br>• Frequent yawning or rubbing of the face
+- Glazed or heavy-lidded eyes<br>• Slower movement, shuffling steps<br>• Slumped posture or leaning against surfaces<br>• Pale or puffy complexion<br>• Frequent yawning or rubbing of the face
 <br><br>
 <span class="keigo-badge info">Cognitive Signs</span><br>
-• Difficulty processing information; asking for things to be repeated; slow to respond<br>• Confusion about simple details such as room number or floor<br>• Short-term forgetfulness, leaving items at the desk, returning moments later<br>• Reduced decision-making ability; struggling to choose between options
+- Difficulty processing information; asking for things to be repeated; slow to respond<br>• Confusion about simple details such as room number or floor<br>• Short-term forgetfulness, leaving items at the desk, returning moments later<br>• Reduced decision-making ability; struggling to choose between options
 <br><br>
 <span class="keigo-badge info">Emotional Signs</span><br>
-• Flat affect, little expression, neither positive nor negative<br>• Low tolerance for minor delays or complications<br>• Brief irritability that passes quickly<br>• Quiet withdrawal rather than engagement
+- Flat affect, little expression, neither positive nor negative<br>• Low tolerance for minor delays or complications<br>• Brief irritability that passes quickly<br>• Quiet withdrawal rather than engagement
 </div>
 
 ## Fatigue vs. Dissatisfaction
@@ -48,9 +48,9 @@ When the signals are ambiguous, respond with simplicity and gentleness in either
 
 For a travel-fatigued guest, omoiyari takes practical forms:
 
-• A glass of water placed quietly on the desk without comment
-• A faster check-in process
-• A softer voice and reduced information
+- A glass of water placed quietly on the desk without comment
+- A faster check-in process
+- A softer voice and reduced information
 
 
 The care is genuine, but it is made invisible. The guest experiences only the comfort it creates.

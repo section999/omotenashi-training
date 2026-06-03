@@ -18,10 +18,10 @@ Culture is built through consistency and ceremony. Consistency means that the le
 
 ## Rituals That Build Culture
 
-• The recognition moment: beginning briefings with a genuine acknowledgement of something excellent from the previous shift
-• The reflection question: ending shifts with "What was one moment today when you truly felt you made a difference?"
-• The standard question: when a new practice is proposed, asking "Does this serve the guest, or just us?" as the primary filter
-• The open door: maintaining a genuine openness to feedback from junior staff, the people closest to the guest experience often see things that leaders cannot
+- The recognition moment: beginning briefings with a genuine acknowledgement of something excellent from the previous shift
+- The reflection question: ending shifts with "What was one moment today when you truly felt you made a difference?"
+- The standard question: when a new practice is proposed, asking "Does this serve the guest, or just us?" as the primary filter
+- The open door: maintaining a genuine openness to feedback from junior staff, the people closest to the guest experience often see things that leaders cannot
 
 
 ## The Long View

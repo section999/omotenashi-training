@@ -3915,6 +3915,11 @@ async function render() {
       exSentences.slice(1).forEach(({ el }) => el.remove());
     }
 
+    // Remove inline jp-speak underlines — vocab files use explicit ▶ buttons
+    bodyEl.querySelectorAll('.jp-speak').forEach(span => {
+      span.replaceWith(document.createTextNode(span.textContent));
+    });
+
   }
 
 }

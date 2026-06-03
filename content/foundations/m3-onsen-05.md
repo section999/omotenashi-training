@@ -12,10 +12,10 @@ Hot spring water at 40 to 44°C raises core body temperature and places strain o
 
 Guests who should be advised to consult a doctor before bathing, or to use cooler baths if available:
 
-• Those with heart conditions, high blood pressure, or circulatory disorders
-• Pregnant guests, particularly in the first trimester
-• Elderly guests, particularly those unaccompanied
-• Guests who have recently consumed alcohol
+- Those with heart conditions, high blood pressure, or circulatory disorders
+- Pregnant guests, particularly in the first trimester
+- Elderly guests, particularly those unaccompanied
+- Guests who have recently consumed alcohol
 
 
 ## Alcohol and Onsen

@@ -10,27 +10,27 @@ Winter in Japanese hospitality is shaped by two emotional poles: the intimacy of
 
 The following phrases are appropriate from December through February:
 
-• *寒い日が続いておりますが、どうかお体にお気をつけください。* "Cold days continue, please take care of yourself."
-• *本年もお世話になりました。来年もどうぞよろしくお願いいたします。* "Thank you for your support this year. We look forward to continuing our relationship next year."
-• *明けましておめでとうございます。本年もよろしくお願い申し上げます。* New Year's greeting, used from January 1st until approximately January 7th.
+- *寒い日が続いておりますが、どうかお体にお気をつけください。* "Cold days continue, please take care of yourself."
+- *本年もお世話になりました。来年もどうぞよろしくお願いいたします。* "Thank you for your support this year. We look forward to continuing our relationship next year."
+- *明けましておめでとうございます。本年もよろしくお願い申し上げます。* New Year's greeting, used from January 1st until approximately January 7th.
 
 
 ## Seasonal Environment
 
 Traditional New Year's decorations reflect the cultural significance of the season:
 
-• 門松 (*Kadomatsu*): pine and bamboo gate decorations placed at entrances
-• 注連飾り (*Shimekazari*): sacred rope ornaments displayed above doorways
-• 鏡餅 (*Kagami mochi*): stacked rice cakes displayed as a symbol of the New Year
-• Warm lighting, dark lacquerware, and heavy ceramics with winter motifs
-• After New Year, subtle plum blossom (*ume*) themes signal the arrival of late winter
+- 門松 (*Kadomatsu*): pine and bamboo gate decorations placed at entrances
+- 注連飾り (*Shimekazari*): sacred rope ornaments displayed above doorways
+- 鏡餅 (*Kagami mochi*): stacked rice cakes displayed as a symbol of the New Year
+- Warm lighting, dark lacquerware, and heavy ceramics with winter motifs
+- After New Year, subtle plum blossom (*ume*) themes signal the arrival of late winter
 
 
 ## Seasonal Food and Drink
 
-• おせち料理 (*Osechi ryōri*): the traditional New Year's meal, in which each dish carries symbolic meaning, black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
-• Winter hot pot (*nabe*): communal, warming, and deeply seasonal
-• Warming sake, amazake (甘酒, sweet fermented rice drink), and yuzu-based drinks
+- おせち料理 (*Osechi ryōri*): the traditional New Year's meal, in which each dish carries symbolic meaning, black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
+- Winter hot pot (*nabe*): communal, warming, and deeply seasonal
+- Warming sake, amazake (甘酒, sweet fermented rice drink), and yuzu-based drinks
 
 
 ## Year-End Gratitude

@@ -17,13 +17,13 @@ This does not require performance. It requires the genuine understanding that th
 
 <div class="keigo-card blue">
 <span class="keigo-badge info">Luggage</span><br>
-• When collecting bags at arrival, identify each piece clearly before lifting and confirm with the guest: "May I take all three pieces?"<br>• Walk at the guest's pace, not ahead of them, which leaves them behind, and not behind them, which many guests find unsettling. Slightly ahead and to the side is the right position.<br>• Place bags on the luggage rack with the guest's access in mind: handles facing outward, heavier items stable, anything fragile visible and separated.<br>• Do not place luggage on the floor unless there is genuinely no other option.
+- When collecting bags at arrival, identify each piece clearly before lifting and confirm with the guest: "May I take all three pieces?"<br>• Walk at the guest's pace, not ahead of them, which leaves them behind, and not behind them, which many guests find unsettling. Slightly ahead and to the side is the right position.<br>• Place bags on the luggage rack with the guest's access in mind: handles facing outward, heavier items stable, anything fragile visible and separated.<br>• Do not place luggage on the floor unless there is genuinely no other option.
 <br><br>
 <span class="keigo-badge info">Coats</span><br>
-• Accept with both hands and offer a hanger immediately.<br>• Hang facing the correct direction (back of the coat outward) at a height the guest can reach without stretching.<br>• Note where the coat is stored and be ready to retrieve it promptly at departure.
+- Accept with both hands and offer a hanger immediately.<br>• Hang facing the correct direction (back of the coat outward) at a height the guest can reach without stretching.<br>• Note where the coat is stored and be ready to retrieve it promptly at departure.
 <br><br>
 <span class="keigo-badge info">Personal Items (bags, briefcases, shopping)</span><br>
-• If a guest places a bag on the floor at a restaurant table, offer a bag hook or dedicated chair: "May I offer somewhere to place that?"<br>• At a counter, items should be placed on the surface and returned to the guest with both hands.
+- If a guest places a bag on the floor at a restaurant table, offer a bag hook or dedicated chair: "May I offer somewhere to place that?"<br>• At a counter, items should be placed on the surface and returned to the guest with both hands.
 </div>
 
 ## Returning Items

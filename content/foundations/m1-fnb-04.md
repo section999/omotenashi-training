@@ -16,10 +16,10 @@ If you have not tasted a dish, you cannot recommend it with real honesty. If you
 
 A trustworthy recommendation:
 
-• Follows from what the guest has already expressed or ordered
-• Is specific, not "the fish is very good" but "the flounder tonight is from the Seto Inland Sea, it's the best I've had this season, and it's only available until the end of the month"
-• Is offered once, not pushed, if the guest declines, accept it gracefully and move on
-• Is honest, if something is not at its best tonight, say so and point the guest toward the better option
+- Follows from what the guest has already expressed or ordered
+- Is specific, not "the fish is very good" but "the flounder tonight is from the Seto Inland Sea, it's the best I've had this season, and it's only available until the end of the month"
+- Is offered once, not pushed, if the guest declines, accept it gracefully and move on
+- Is honest, if something is not at its best tonight, say so and point the guest toward the better option
 
 
 Steering a guest away from a menu item may feel counterintuitive, but it is exactly what builds trust. A guest who learns you redirected them away from an off night will trust every recommendation you make from that point on.

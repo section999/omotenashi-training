@@ -29,9 +29,9 @@ Staying grounded when a guest is upset is genuinely demanding. The role is not t
 
 Before responding to a frustrated guest:
 
-• Take a slow breath and return attention to what the person actually needs, not how they are expressing it
-• Open, neutral posture reinforces calm
-• Recognising that the guest's frustration is about the situation, not about you personally, helps maintain perspective
+- Take a slow breath and return attention to what the person actually needs, not how they are expressing it
+- Open, neutral posture reinforces calm
+- Recognising that the guest's frustration is about the situation, not about you personally, helps maintain perspective
 
 
 ## The Gold Standard Response
