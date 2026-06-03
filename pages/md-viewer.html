@@ -3824,10 +3824,19 @@ async function render() {
     });
 
     // 4. **JP**  *romaji*  English format → single keigo-card
+    // Only matches paragraphs where <strong> is immediately followed by <br>
+    // (i.e. trailing-space hard linebreak), which distinguishes genuine example
+    // sentences from body paragraphs that open with a bold term.
     const exSentences = [];
     bodyEl.querySelectorAll('p').forEach(p => {
       const strong = p.firstElementChild;
       if (!strong || strong.tagName !== 'STRONG') return;
+      // Require a <br> directly after <strong> (skip empty text nodes only)
+      let afterStrong = strong.nextSibling;
+      while (afterStrong && afterStrong.nodeType === Node.TEXT_NODE && !afterStrong.textContent.trim()) {
+        afterStrong = afterStrong.nextSibling;
+      }
+      if (!afterStrong || afterStrong.nodeName !== 'BR') return;
       let em = null;
       for (const child of p.children) {
         if (child.tagName === 'EM') { em = child; break; }
@@ -3874,6 +3883,66 @@ async function render() {
       exSentences[0].el.replaceWith(card);
       exSentences.slice(1).forEach(({ el }) => el.remove());
     }
+
+    // 5. Related Expressions table (Expression | Description) → keigo-card
+    bodyEl.querySelectorAll('table').forEach(table => {
+      const ths = Array.from(table.querySelectorAll('thead th'));
+      const exprIdx = ths.findIndex(th => /^expression$/i.test(th.textContent.trim()));
+      const descIdx = ths.findIndex(th => /^description$/i.test(th.textContent.trim()));
+      if (exprIdx < 0 || descIdx < 0) return;
+
+      const card = document.createElement('div');
+      card.className = 'keigo-card blue';
+
+      table.querySelectorAll('tbody tr').forEach(tr => {
+        const tds = tr.querySelectorAll('td');
+        const exprTd = tds[exprIdx];
+        const descTd = tds[descIdx];
+        if (!exprTd || !descTd) return;
+
+        // Extract JP (before <br>) and romaji (after <br>), skip button spans
+        let jp = '', romaji = '', foundBr = false;
+        exprTd.childNodes.forEach(node => {
+          if (node.nodeName === 'BR') { foundBr = true; return; }
+          if (node.nodeType === Node.ELEMENT_NODE && node.classList.contains('jp-action-btns')) return;
+          const text = node.textContent;
+          if (!foundBr) jp += text;
+          else romaji += text;
+        });
+        jp = jp.trim();
+        romaji = romaji.trim();
+        const desc = descTd.textContent.trim();
+        if (!jp) return;
+
+        const item = document.createElement('div');
+        item.className = 'vocab-ex-item';
+
+        const row = document.createElement('div');
+        row.className = 'vocab-ex-row';
+
+        const jpSpan = document.createElement('span');
+        jpSpan.className = 'vocab-ex-jp';
+        jpSpan.textContent = jp;
+
+        const romajiEl = document.createElement('div');
+        romajiEl.className = 'phrase-romaji';
+        romajiEl.textContent = romaji;
+
+        const enEl = document.createElement('div');
+        enEl.className = 'phrase-en';
+        enEl.textContent = desc;
+
+        row.appendChild(jpSpan);
+        row.appendChild(makeJpActionBtns(jp, romaji ? romajiEl : null));
+        item.appendChild(row);
+        if (romaji) item.appendChild(romajiEl);
+        item.appendChild(enEl);
+        card.appendChild(item);
+      });
+
+      const wrapper = table.closest('.table-wrap') || table;
+      wrapper.replaceWith(card);
+    });
   }
 
 }
