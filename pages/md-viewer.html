@@ -415,7 +415,11 @@
     .section-body td.vocab-reading-cell.shown { color: #7eb8f7 !important; }
     [data-theme="light"] .section-body td.vocab-reading-cell.shown { color: #1a5fae !important; }
     /* JP action buttons */
-    .jp-action-btns { display: inline-flex; gap: 4px; align-items: center; flex-shrink: 0; }
+    .jp-action-btns { display: inline-flex; gap: 4px; align-items: center; flex-shrink: 0; margin-left: 6px; vertical-align: middle; }
+    .phrase-block .jp-action-btns, .vocab-ex-row .jp-action-btns { margin-left: 0; }
+    /* Inline flex wrapper: aligns JP text + buttons perfectly */
+    .jp-inline-wrap { display: inline-flex; align-items: center; }
+    .jp-inline-wrap .jp-action-btns { margin-left: 6px; }
     .jp-action-btn { display: inline-flex; align-items: center; justify-content: center; height: 20px; padding: 0 8px; border-radius: 99px; border: 1px solid rgba(255,255,255,0.1); background: rgba(255,255,255,0.04); color: rgba(255,255,255,0.35); font-size: 0.6rem; font-family: var(--font-mono); letter-spacing: 0.03em; cursor: pointer; white-space: nowrap; transition: background 0.15s, color 0.15s, border-color 0.15s, box-shadow 0.15s; }
     .jp-action-btn:hover { background: rgba(255,255,255,0.09); color: rgba(255,255,255,0.75); border-color: rgba(255,255,255,0.22); }
     .jp-speak-btn:hover { background: rgba(100,160,255,0.1); color: #7eb8f7; border-color: rgba(100,160,255,0.3); box-shadow: 0 0 0 2px rgba(100,160,255,0.08); }
@@ -2187,7 +2191,22 @@ function initTableRomaji(root) {
     const jpText = Array.from(span.childNodes)
       .filter(n => n.nodeName !== 'EM' && n.nodeName !== 'BR')
       .map(n => n.textContent).join('').trim();
-    span.after(makeJpActionBtns(jpText, em));
+    const br = span.querySelector('br');
+    if (br) {
+      const wrap = document.createElement('span');
+      wrap.className = 'jp-inline-wrap';
+      let cur = span.firstChild;
+      while (cur && cur !== br) {
+        const next = cur.nextSibling;
+        wrap.appendChild(cur);
+        cur = next;
+      }
+      wrap.appendChild(makeJpActionBtns(jpText, em));
+      span.insertBefore(wrap, br);
+    } else {
+      span.appendChild(makeJpActionBtns(jpText, em));
+    }
+    em.closest('tr').style.verticalAlign = 'top';
   });
 
   // Pattern D: Expression | Description table — JP<br>romaji in Expression cell
@@ -2206,10 +2225,9 @@ function initTableRomaji(root) {
       while (cur && cur !== br) { jp += cur.textContent; cur = cur.nextSibling; }
       jp = jp.trim();
       if (!jp) return;
-      // Wrap romaji nodes (after <br>) in a hidden span
-      const romajiSpan = document.createElement('span');
-      romajiSpan.className = 'phrase-romaji';
-      romajiSpan.style.display = 'none';
+      // Wrap romaji nodes (after <br>) in a hidden em (matches td-romaji style)
+      const romajiSpan = document.createElement('em');
+      romajiSpan.className = 'td-romaji';
       let afterBr = br.nextSibling;
       while (afterBr) {
         const next = afterBr.nextSibling;
@@ -2217,7 +2235,18 @@ function initTableRomaji(root) {
         afterBr = next;
       }
       br.after(romajiSpan);
-      exprTd.appendChild(makeJpActionBtns(jp, romajiSpan));
+      // Wrap JP text nodes + buttons in inline-flex for perfect alignment
+      const wrap = document.createElement('span');
+      wrap.className = 'jp-inline-wrap';
+      let node = exprTd.firstChild;
+      while (node && node !== br) {
+        const next = node.nextSibling;
+        wrap.appendChild(node);
+        node = next;
+      }
+      wrap.appendChild(makeJpActionBtns(jp, romajiSpan));
+      br.before(wrap);
+      tr.style.verticalAlign = 'top';
     });
   });
 
@@ -2235,7 +2264,12 @@ function initTableRomaji(root) {
         .map(n => n.textContent).join('').trim();
       if (!JP_RE_TBL.test(jpText)) return;
       if (td.querySelector('.jp-action-btns')) return;
-      td.appendChild(makeJpActionBtns(jpText, null));
+      const btns = makeJpActionBtns(jpText, null);
+      const wrap = document.createElement('span');
+      wrap.className = 'jp-inline-wrap';
+      span.replaceWith(wrap);
+      wrap.appendChild(span);
+      wrap.appendChild(btns);
     });
   });
 }
