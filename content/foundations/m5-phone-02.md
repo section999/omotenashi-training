@@ -8,61 +8,61 @@ Professional telephone communications are not free-flowing conversations. They f
 
 **The 7 Steps:** Greeting → Identification → Recognition → Confirmation → Action → Result → Closing
 
-## Step 1: Greeting
-
-**お電話ありがとうございます。**  
-*o-denwa arigatou gozaimasu.*  
-Thank you for your call.
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 1: Greeting</span>
+<span class="keigo-jp"><code>お電話ありがとうございます。</code></span><br>
+<em>o-denwa arigatou gozaimasu.</em><br>
+Thank you for your call.<br><br>
 Creates an immediate sense of welcome. Communicates that the call is expected and valued before a single request is made.
+</div>
 
-## Step 2: Identification
-
-**フロントでございます。**  
-*furonto de gozaimasu.*  
-This is the front desk.
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 2: Identification</span>
+<span class="keigo-jp"><code>フロントでございます。</code></span><br>
+<em>furonto de gozaimasu.</em><br>
+This is the front desk.<br><br>
 Tells the guest who they are speaking with. Creates accountability from the first moment. If the guest is transferred, they know where they started.
+</div>
 
-## Step 3: Recognition
-
-**ご予約についてでございますね。**  
-*go-yoyaku ni tsuite de gozaimasu ne.*  
-This is about your reservation, correct?
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 3: Recognition</span>
+<span class="keigo-jp"><code>ご予約についてでございますね。</code></span><br>
+<em>go-yoyaku ni tsuite de gozaimasu ne.</em><br>
+This is about your reservation, correct?<br><br>
 Shows the guest their topic was understood before any action is taken. Reduces anxiety and prevents mishandled requests. The soft ending ね invites confirmation without pressure.
+</div>
 
-## Step 4: Confirmation
-
-**6月10日から2泊でございますね。**  
-*rokugatsu touka kara nihaku de gozaimasu ne.*  
-June 10th for two nights, is that correct?
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 4: Confirmation</span>
+<span class="keigo-jp"><code>6月10日から2泊でございますね。</code></span><br>
+<em>rokugatsu touka kara nihaku de gozaimasu ne.</em><br>
+June 10th for two nights, is that correct?<br><br>
 Verifies names, dates, and room types before processing. Every repeated detail is a checkpoint. Missing one creates a gap where errors enter.
+</div>
 
-## Step 5: Action
-
-**確認いたしますので少々お待ちくださいませ。**  
-*kakunin itashimasu node shoushou o-machi kudasaimase.*  
-I will confirm that now, so please wait a moment.
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 5: Action</span>
+<span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>
+<em>kakunin itashimasu node shoushou o-machi kudasaimase.</em><br>
+I will confirm that now, so please wait a moment.<br><br>
 Tells the guest exactly what is happening. Since the guest cannot see the staff member's screen, unexplained silence creates anxiety. Always narrate the action before the wait.
+</div>
 
-## Step 6: Result
-
-**かしこまりました。6月10日から2泊、ツインルームにて承っております。**  
-*kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketsukete orimasu.*  
-Certainly. We have your reservation: twin room, June 10th for two nights.
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 6: Result</span>
+<span class="keigo-jp"><code>かしこまりました。6月10日から2泊、ツインルームにて承っております。</code></span><br>
+<em>kashikomarimashita. rokugatsu touka kara nihaku, tsuin ruumu nite uketsukete orimasu.</em><br>
+Certainly. We have your reservation: twin room, June 10th for two nights.<br><br>
 Confirms that the transaction was completed correctly. The guest should leave this step with no uncertainty about what was processed.
+</div>
 
-## Step 7: Closing
-
-**お電話ありがとうございました。またのご連絡をお待ちしております。**  
-*o-denwa arigatou gozaimashita. mata no go-renraku wo o-machi shite orimasu.*  
-Thank you for your call. We look forward to hearing from you again.
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Step 7: Closing</span>
+<span class="keigo-jp"><code>お電話ありがとうございました。またのご連絡をお待ちしております。</code></span><br>
+<em>o-denwa arigatou gozaimashita. mata no go-renraku wo o-machi shite orimasu.</em><br>
+Thank you for your call. We look forward to hearing from you again.<br><br>
 Ends the interaction gracefully and leaves a positive final impression. Note: ありがとうございました uses past tense (mashita), not present (masu), because the call has now concluded.
+</div>
 
 ## What Happens If You Skip a Step
 

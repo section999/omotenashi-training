@@ -4,40 +4,34 @@ section: 16
 title: Guest Inquiry Response Template
 ---
 
-Guests frequently contact hotels with questions before booking: room availability, facilities, accessibility, policies, or special requests. Responding to inquiries with clear, warm, and helpful language is not just customer service. It directly influences whether the guest books or moves on.
+Guests frequently contact hotels with questions before making a booking, such as room availability, facilities, accessibility, policies, or special requests. Responding to these inquiries with clear, warm, and helpful language is not just customer service; it directly influences whether the guest proceeds with a booking or looks elsewhere.
 
-## What This Email Must Accomplish
-
-**1. Acknowledge:** Thank the guest for their inquiry immediately.
-
-**2. Answer:** Provide clear, accurate information about what was asked.
-
-**3. Invite:** Close with an offer for further questions and a gentle booking invitation if appropriate.
+This email must accomplish three key goals: acknowledge the guest's inquiry immediately with appreciation; provide clear and accurate answers to the questions asked; and close by inviting further questions while, when appropriate, offering a gentle and natural prompt to proceed with a booking.
 
 ## Full Template: Availability Inquiry
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, tou hoteru e o toiawase itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for your inquiry to our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご質問いただきました[topic]についてご回答いたします。</code></span><br>
-<em>go shitsumon itadakimashita [ topic ] nitsuite go kaitou itashimasu.</em><br>
-I will answer your question regarding [topic].<br><br>
-<span class="keigo-jp"><code>[Answer in clear, organized form]</code></span><br><br>
-<em>[ Answer in clear, organized form ]</em><br>
-For room availability:<br>
-<span class="keigo-jp"><code>ご指定のお日にちにつきましては、現在ご予約が可能でございます。</code></span><br>
-<em>go shitei no o hinichi ni tsuki mashite wa, genzai go-yoyaku ga kanou de gozaimasu.</em><br>
-Regarding your specified dates, reservations are currently available.<br><br>
-<span class="keigo-jp"><code>ご希望のお部屋タイプや人数などございましたら、お知らせくださいませ。</code></span><br>
-<em>go-kibou no o-heya taipu ya ninzu nado gozai mashitara, oshirase kudasaimase.</em><br>
-If you have a preferred room type or number of guests, please let us know.<br><br>
-<span class="keigo-jp"><code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>ta ni go fumei na ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-Please feel free to contact us if you have any other questions.<br><br>
-<span class="keigo-jp"><code>ご来訪を心よりお待ち申し上げております。</code></span><br>
-<em>go raihou o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to welcoming you.
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、当ホテルへお問い合わせいただき、誠にありがとうございます。</code><br>
+<em>kono tabi wa, tou hoteru e o-toiawase itadaki, makotoni arigatou gozaimasu.</em><br>
+<span class="email-en">Thank you very much for your inquiry to our hotel on this occasion.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご質問いただきました[topic]についてご回答いたします。</code><br>
+<em>go-shitsumon itadakimashita [topic] ni tsuite go-kaitou itashimasu.</em><br>
+<span class="email-en">I will answer your question regarding [topic].</span><br><br>
+<code>ご指定のお日にちにつきましては、現在ご予約が可能でございます。</code><br>
+<em>go-shitei no o-hinichi ni tsukimashite wa, genzai go-yoyaku ga kanou de gozaimasu.</em><br>
+<span class="email-en">Regarding your specified dates, reservations are currently available.</span><br><br>
+<code>ご希望のお部屋タイプや人数などございましたら、お知らせくださいませ。</code><br>
+<em>go-kibou no o-heya taipu ya ninzuu nado gozaimashitara, o-shirase kudasaimase.</em><br>
+<span class="email-en">If you have a preferred room type or number of guests, please let us know.</span><br><br>
+<code>他にご不明な点などございましたら、お気軽にご連絡くださいませ。</code><br>
+<em>ta ni go-fumei na ten nado gozaimashitara, o-kigaru ni go-renraku kudasaimase.</em><br>
+<span class="email-en">Please feel free to contact us if you have any other questions.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>ご来訪を心よりお待ち申し上げております。</code><br>
+<em>go-raihou o kokoro yori omachi moushiagete orimasu.</em><br>
+<span class="email-en">We sincerely look forward to welcoming you.</span>
 </div>
 
 ## Template Variation: Special Request Inquiry

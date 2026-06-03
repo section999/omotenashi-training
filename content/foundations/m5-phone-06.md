@@ -34,7 +34,17 @@ A change to June 15th for two nights, correct? I will check availability. Please
 Thank you for waiting. I have updated your reservation to June 15th for two nights in a twin room.
 </div>
 
-**Reservation calls are not conversations. They are verification chains.**
+## The Verification Chain for Modifications
+
+Each step in a modification call exists to prevent a specific error. Skipping any step risks completing the wrong change or confirming dates that cannot be honoured.
+
+| Step | Purpose |
+|---|---|
+| Verify identity | Ensures you are modifying the correct reservation |
+| Confirm current booking | Establishes the baseline before any change is made |
+| Repeat new dates back | Catches mishearing before availability is checked |
+| Check availability | Confirms the new dates are actually open |
+| Final confirmation | Gives the guest a clear record of what changed |
 
 ---
 

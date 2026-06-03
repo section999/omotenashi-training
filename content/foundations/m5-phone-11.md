@@ -9,18 +9,18 @@ Late arrival notices are among the most operationally consequential schedule-bas
 ## Late Arrival Notices
 
 <div class="keigo-card blue">
-<strong>Guest:</strong> <span class="keigo-jp"><code>チェックインが遅くなります。</code></span><br>
-<em>chekkuin ga osoku narimasu.</em><br>
-My check-in will be late.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご到着の予定時刻をお伺いしてもよろしいでしょうか。</code></span><br>
-<em>kashikomarimashita. go touchaku no yotei jikoku o o ukagai shite mo yoroshii deshou ka.</em><br>
-Certainly. May I ask your estimated arrival time?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>予約しております山田ですが、チェックインが遅くなりそうで…</code></span><br>
+<em>yoyaku shite orimasu yamada desu ga, chekkuin ga osoku narisou de...</em><br>
+I have a reservation under Yamada. It looks like my check-in may be late...<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>山田様、かしこまりました。ご到着の予定時刻をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>yamada sama, kashikomarimashita. go touchaku no yotei jikoku o o ukagai shite mo yoroshii deshou ka.</em><br>
+Mr./Ms. Yamada, certainly. May I ask your estimated arrival time?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>夜の11時頃になると思います。</code></span><br>
 <em>yoru no 11 ji goro ni naru to omoimasu.</em><br>
 Around 11:00 PM, I think.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>夜11時頃でございますね。承知いたしました。フロントで確かにお待ちしております。お名前をもう一度お伺いしてもよろしいでしょうか。</code></span><br>
-<em>yoru 11 ji goro de gozaimasu ne. shouchi itashimashita. furonto de tashika ni omachi shite orimasu. o-namae o mouichido o ukagai shite mo yoroshii deshou ka.</em><br>
-Around 11:00 PM. Understood. We will expect you at the front desk. May I also confirm your name?
+<strong>Staff:</strong> <span class="keigo-jp"><code>夜11時頃でございますね。承知いたしました。フロントにてお待ちしております。お気をつけてお越しくださいませ。</code></span><br>
+<em>yoru 11 ji goro de gozaimasu ne. shouchi itashimashita. furonto nite omachi shite orimasu. o-ki wo tsukete o-koshi kudasaimase.</em><br>
+Around 11:00 PM. Understood. We will be waiting at the front desk. Please take care on your way.
 </div>
 
 ## Why Time Repetition Cannot Be Skipped

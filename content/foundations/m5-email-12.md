@@ -4,38 +4,31 @@ section: 12
 title: Post-Stay Thank-You Template
 ---
 
-A post-stay thank-you email is sent within 24 to 48 hours of checkout. It strengthens the guest relationship, expresses genuine appreciation, and opens the door for a return visit. The tone must be warm, appreciative, and sincere, never promotional or transactional.
+A post-stay thank-you email is sent within 24 to 48 hours after checkout. It strengthens the guest relationship by expressing genuine appreciation and opening the door to a future visit. The tone should be warm, sincere, and appreciative, while avoiding anything that feels promotional or transactional.
 
-## What This Email Must Accomplish
-
-**1. Thank:** Express genuine gratitude for the guest's stay.
-
-**2. Care:** Show interest in how the stay went, without assuming it was perfect.
-
-**3. Invite:** Gently encourage a future visit without being promotional.
-
-
-The one thing this email must not do: make the guest feel like they are receiving a sales message.
+This email must accomplish three key goals: thank the guest sincerely for their stay, show genuine care for their experience without assuming it was perfect, and gently invite a future visit in a natural and non-promotional way. Above all, it must never feel like a sales message, but rather a sincere expression of gratitude and hospitality.
 
 ## Full Template
 
-<div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code><br>
 <em>kono tabi wa, tou hoteru o go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
-Thank you very much for staying at our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご滞在はいかがでしたでしょうか。</code></span><br>
+<span class="email-en">Thank you very much for staying at our hotel on this occasion.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご滞在はいかがでしたでしょうか。</code><br>
 <em>go-taizai wa ikaga deshita deshou ka.</em><br>
-How was your stay?<br><br>
-<span class="keigo-jp"><code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code></span><br>
-<em>kaiteki ni osugoshi itadake mashitara, sutaffu ichidou taihen ureshiku zonjimasu.</em><br>
-If you had a comfortable stay, all of our staff would be very pleased to hear it.<br><br>
-<span class="keigo-jp"><code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code></span><br>
-<em>moshi go fuman ya okizuki no ten nado gozai mashitara, zehi o kika se i ta dake masu to saiwai de gozaimasu.</em><br>
-If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.<br><br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to the day we can welcome you again.
+<span class="email-en">How was your stay?</span><br><br>
+<code>快適にお過ごしいただけましたら、スタッフ一同大変嬉しく存じます。</code><br>
+<em>kaiteki ni osugoshi itadakemashitara, sutaffu ichidou taihen ureshiku zonjimasu.</em><br>
+<span class="email-en">If you had a comfortable stay, all of our staff would be very pleased to hear it.</span><br><br>
+<code>もしご不満やお気づきの点などございましたら、ぜひお聞かせいただけますと幸いでございます。</code><br>
+<em>moshi go-fuman ya o-kizuki no ten nado gozaimashitara, zehi o-kikase itadakemasu to saiwai de gozaimasu.</em><br>
+<span class="email-en">If there is anything that was not to your satisfaction or that you noticed, we would be very grateful to hear your thoughts.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>またお会いできる日を心よりお待ち申し上げております。</code><br>
+<em>mata o-ai dekiru hi o kokoro yori omachi moushiagete orimasu.</em><br>
+<span class="email-en">We sincerely look forward to the day we can welcome you again.</span>
 </div>
 
 Note: ありがとうございました (past tense). The stay is complete. Using present tense (ありがとうございます) is a common error in post-stay emails.
@@ -49,8 +42,8 @@ How was your stay?<br><br>
 <span class="keigo-jp"><code>快適にお過ごしいただけましたら幸いでございます</code></span><br>
 <em>kaiteki ni osugoshi itadake mashitara saiwai de gozaimasu</em><br>
 If you had a comfortable stay, we would be happy.<br><br>
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております</code></span><br>
-<em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu</em><br>
+<span class="keigo-jp"><code>またお会いできる日を心よりお待ち申し上げております</code></span><br>
+<em>mata o ai dekiru hi o kokoro yori omachi moushiage te orimasu</em><br>
 We sincerely look forward to the day we can meet you again.
 </div>
 

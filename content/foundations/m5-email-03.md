@@ -4,26 +4,30 @@ section: 3
 title: Opening Lines by Email Type
 ---
 
-While the guest relationship determines the recognition phrase in the opening, the email type determines the overall opening tone. A reservation confirmation should feel welcoming. An apology email should begin with sincere acknowledgment. A general information notice needs a neutral professional tone. This lesson covers the right opening for each email situation.
+The guest relationship determines the recognition phrase, but the email type determines the opening tone. This lesson covers the correct opening for each situation.
 
 ## Email Type 1: Reservation or Booking Related
 
-For emails triggered by a booking action (new reservation, modification, cancellation confirmation), the opening connects the gratitude to that action.
+For emails triggered by a booking action, the opening names the specific action so the guest immediately understands the subject.
 
 <div class="keigo-card blue">
+<span class="keigo-pair-label">New reservation</span>
 <span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
 Thank you very much for reserving our hotel on this occasion.<br><br>
+<span class="keigo-pair-label">Modification</span>
 <span class="keigo-jp"><code>この度は、ご変更のご連絡をいただき、ありがとうございます。</code></span><br>
-<em>kono tabi wa, go henkou no go-renraku o itadaki, arigatou gozaimasu.</em><br>
-Thank you for contacting us regarding your modification.
+<em>kono tabi wa, go-henkou no go-renraku o itadaki, arigatou gozaimasu.</em><br>
+Thank you for contacting us regarding your modification.<br><br>
+<span class="keigo-pair-label">Cancellation</span>
+<span class="keigo-jp"><code>この度は、ご予約のキャンセルを承りましたことをお知らせいたします。</code></span><br>
+<em>kono tabi wa, go-yoyaku no kyanseru o uketamawarimashita koto o o-shirase itashimasu.</em><br>
+We are writing to inform you that your cancellation has been processed.
 </div>
-
-The opening names the specific action (予約, 変更, etc.) so the guest immediately understands the subject of the email.
 
 ## Email Type 2: General Information or Operational Notice
 
-For informational emails (check-in time reminders, facility updates, policy changes), the opening should sound professional and neutral without the specific action reference.
+For informational emails (check-in reminders, facility updates, policy changes), the opening should be professional and neutral without referencing a specific action.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
@@ -31,26 +35,28 @@ For informational emails (check-in time reminders, facility updates, policy chan
 Thank you very much for your continued use of our hotel.
 </div>
 
-平素より (always, habitually) creates a professional, general tone appropriate for operational announcements. It does not assume a specific recent action, making it suitable for notices sent to all guests or to a guest without a specific transaction happening.
+平素より (habitually, always) creates a neutral professional tone. It does not reference a specific action, making it appropriate for notices sent broadly or when no transaction is taking place.
 
 ## Email Type 3: Apology Email
 
-Apology emails require a fundamentally different opening. The first line must acknowledge the inconvenience immediately. Leading with gratitude in an apology email sounds tone-deaf.
+The first line of an apology email must acknowledge the inconvenience immediately. Leading with gratitude in an apology context sounds dismissive.
 
 <div class="keigo-card blue">
+<span class="keigo-pair-label">General inconvenience</span>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
+<em>kono tabi wa, go-fuben o okake shi, makoto ni moushiwake gozaimasen.</em><br>
 We sincerely apologize for the inconvenience caused on this occasion.<br><br>
+<span class="keigo-pair-label">Significant trouble</span>
 <span class="keigo-jp"><code>この度は、ご迷惑をおかけし、誠に申し訳ございません。</code></span><br>
-<em>kono tabi wa, go-meiwaku o okake shi, makotoni moushiwake gozaimase n.</em><br>
+<em>kono tabi wa, go-meiwaku o okake shi, makoto ni moushiwake gozaimasen.</em><br>
 We sincerely apologize for the trouble caused on this occasion.
 </div>
 
-Key elements: この度は anchors the apology to a specific incident. ご不便をおかけし / ご迷惑をおかけし acknowledges the impact on the guest. 誠に申し訳ございません is the most sincere form of apology.
+ご不便 refers to inconvenience (something that disrupted ease or comfort). ご迷惑 refers to trouble caused to others (a stronger imposition). Use ご不便 for operational issues such as facility closures or delays. Use ご迷惑 when the hotel's action or error directly affected the guest's plans or experience.
 
 ## Email Type 4: Post-Stay or Thank-You
 
-After a guest departs, the opening must shift tense to reflect the completed stay.
+After a guest departs, the opening must shift to past tense to reflect the completed stay.
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>この度は、当ホテルをご利用いただき、誠にありがとうございました。</code></span><br>
@@ -58,19 +64,7 @@ After a guest departs, the opening must shift tense to reflect the completed sta
 Thank you very much for staying at our hotel on this occasion.
 </div>
 
-Note the past tense: ありがとうございました (past) instead of ありがとうございます (present). This is essential. A post-stay email written with present tense sounds like a pre-stay email that was sent at the wrong time.
-
-## The Formality Spectrum
-
-Different email types and property types call for different formality levels within each category.
-
-| Level | Opening Phrase | Use |
-|---|---|---|
-| Highest (luxury / VIP) | <span>平素より格別のご愛顧を賜り、誠にありがとうございます</span> | VIP letters, formal announcements |
-| Standard hotel | <span>平素より当ホテルをご利用いただき、誠にありがとうございます</span> | General notices |
-| Reservation specific | <span>この度は、ご予約いただき、誠にありがとうございます</span> | Booking confirmations |
-| Apology | <span>この度は、ご不便をおかけし、誠に申し訳ございません</span> | Any apology situation |
-| Post-stay | <span>この度は、ご利用いただき、誠にありがとうございました</span> | Thank-you emails |
+ありがとうございます (present) expresses gratitude for something ongoing or anticipated. ありがとうございました (past) expresses gratitude for something already completed. In a post-stay email, the stay is over; the past tense is the only correct choice. Using present tense signals that the writer did not notice the stay had ended.
 
 ---
 

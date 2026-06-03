@@ -11,15 +11,15 @@ Knowing what not to say is as important as knowing what to say. In complaint sit
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Defensive, Escalates the situation</span>
-<span class="keigo-jp"><code>それはですね…</code></span>
-<br><em>sore wa desu ne...</em><br>
-"Well, about that..."<br><br>
+<span class="keigo-jp"><code>それはですね…</code></span><br>
+<em>sore wa desu ne...</em><br>
+Well, about that...<br><br>
 <span class="keigo-badge bad">Why it fails</span> Signals defensiveness before hearing the complaint fully. The guest feels they are about to be argued with.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Calm, De-escalates immediately</span>
-<span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span>
-<br><em>go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
+<span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span><br>
+<em>go-fuben wo okake shi, makoto ni moushiwake gozaimasen.</em><br>
 I sincerely apologize for the inconvenience.<br><br>
 <span class="keigo-badge good">Why it works</span> The guest's frustration is acknowledged before any explanation. Emotional pressure releases immediately.
 </div>
@@ -27,13 +27,14 @@ I sincerely apologize for the inconvenience.<br><br>
 
 ## Escalation to a Manager
 
-When a complaint requires a manager's involvement:
+When a complaint requires a manager's involvement, never transfer abruptly. Always apologize before connecting, so the guest feels guided rather than passed on.
 
-**誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。**
-*makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.*
-I am sorry to trouble you, but I will now connect you to the responsible person. Please wait a moment.
-
-Never escalate abruptly. Always apologize before transferring, and never make the guest feel "passed on."
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Standard escalation phrase</span>
+<span class="keigo-jp"><code>誠に恐れ入りますが、ただいま担当の者にお繋ぎいたします。少々お待ちくださいませ。</code></span><br>
+<em>makoto ni osore irimasu ga, tadaima tantou no mono ni o-tsunagi itashimasu. shoushou o-machi kudasaimase.</em><br>
+I am sorry to trouble you, but I will now connect you to the person in charge. Please wait a moment.
+</div>
 
 ---
 

@@ -4,41 +4,33 @@ section: 1
 title: What Hotel Email Communication Requires
 ---
 
-Email is far more than a written form of communication in the hotel industry. It is an essential service touchpoint. Before guests arrive, before they interact with staff, and often before they commit to a booking, the emails they receive help shape their expectations and overall impression of the hotel.
+In the hotel industry, email is not simply a written message. It is a service touchpoint. Before guests arrive, before they speak with staff, and often before they commit to a booking, the emails they receive are already shaping their expectations and their impression of the hotel.
 
-This lesson explores the fundamental principles that guide all hotel email communication and serve as the foundation for every email covered in this module.
+When a guest reads a reservation confirmation, a pre-arrival notice, or an apology letter, they are forming an opinion based entirely on the language, not on the room, the amenities, or the food. All four impressions below are formed before the guest reads the first piece of information in the body of the email.
 
-## Email Is Part of the Guest Experience
-
-A guest reading a reservation confirmation, a pre-arrival notice, or an apology letter is forming an opinion about the hotel. That opinion is based entirely on the language, not on the room, the pool, or the food.
-
-- **Professionalism:** Does this hotel know how to communicate?
-- **Care:** Did they pay attention to who I am?
-- **Trust:** Can I rely on this hotel to handle my stay properly?
-- **Warmth:** Do they actually want me here?
-
-All four questions are answered before the guest reads the first piece of information in the body of the email.
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Professionalism</span>
+Does this hotel know how to communicate?<br><br>
+<span class="keigo-pair-label">Care</span>
+Did they pay attention to who I am?<br><br>
+<span class="keigo-pair-label">Trust</span>
+Can I rely on this hotel to handle my stay properly?<br><br>
+<span class="keigo-pair-label">Warmth</span>
+Do they actually want me here?
+</div>
 
 ## The Four Requirements of Hotel Email Language
 
-**1. Appropriate Register**
-
-The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).
-
-
-**2. Tone Consistency**
-
-The opening, body, and closing must maintain the same register throughout. A formal opening with a casual closing signals carelessness.
-
-
-**3. Guest Orientation**
-
-Every sentence should be written from the guest's perspective. What does the guest need to know? How does the guest feel reading this?
-
-
-**4. Warmth Within Professionalism**
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">1. Appropriate Register</span>
+The level of formality must match the relationship (first-time guest, repeat guest, VIP) and the email type (confirmation, apology, notice).<br><br>
+<span class="keigo-pair-label">2. Tone Consistency</span>
+The opening, body, and closing must maintain the same register throughout. A formal opening with a casual closing signals carelessness.<br><br>
+<span class="keigo-pair-label">3. Guest Orientation</span>
+Every sentence should be written from the guest's perspective. What does the guest need to know? How does the guest feel reading this?<br><br>
+<span class="keigo-pair-label">4. Warmth Within Professionalism</span>
 Hotel emails are not cold business correspondence. They carry the emotional warmth of Japanese hospitality while maintaining professional clarity.
+</div>
 
 ## What Happens When Email Language Is Wrong
 
@@ -52,17 +44,26 @@ Hotel emails are not cold business correspondence. They carry the emotional warm
 
 ## The Balance: Professional and Human
 
-The target for all hotel email writing is professional warmth. Not overly formal. Not casually friendly. The guest should feel:
+The target for all hotel email writing is professional warmth. Not overly formal. Not casually friendly. The guest should feel: *this hotel is organized, attentive, and genuinely glad I am coming.*
 
-"This hotel is organized, attentive, and genuinely glad I am coming."
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Too stiff</span>
+<span class="keigo-jp"><code>深甚なる謝意を表明申し上げます。</code></span><br><br>
+Overly ceremonial and emotionally cold despite formal politeness.
+</div>
+<div class="bad-col">
+<span class="keigo-pair-label">Too casual</span>
+<span class="keigo-jp"><code>ありがとうございます！また来てくださいね！</code></span><br><br>
+Friendly but not appropriate for professional hotel correspondence.
+</div>
+</div>
 
-| Register | Phrase |
-|---|---|
-| Too stiff | <span>深甚なる謝意を表明申し上げます。</span> |
-| Too casual | <span>ありがとうございます！また来てくださいね！</span> |
-| Hotel standard | <span>誠にありがとうございます。ご到着を心よりお待ち申し上げております。</span> |
-
-The "too stiff" example is overly ceremonial and emotionally cold despite formal politeness. The "too casual" example is friendly but not appropriate for professional hotel correspondence. The hotel standard is polite, warm, and appropriately professional.
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Hotel standard</span>
+<span class="keigo-jp"><code>誠にありがとうございます。ご到着を心よりお待ち申し上げております。</code></span><br><br>
+Polite, warm, and appropriately professional.
+</div>
 
 ---
 
@@ -77,4 +78,4 @@ The "too stiff" example is overly ceremonial and emotionally cold despite formal
 
 **Correct Answer:** B
 
-**Explanation:** Hotel email is part of the guest experience. The language shapes the guest's impression of the hotel before any in-person interaction takes place. The goal is not linguistic complexity but professional warmth: the guest should feel the hotel is organized, attentive, and genuinely welcoming. That feeling comes from appropriate register, tone consistency, and guest-oriented writing, not from difficult vocabulary or grammatical perfection.
+**Explanation:** Hotel email communication is part of the guest experience. The language shapes the guest's impression of the hotel before any in-person interaction takes place. The goal is not linguistic complexity but professional warmth: the guest should feel the hotel is organized, attentive, and genuinely welcoming. That feeling comes from appropriate register, tone consistency, and guest-oriented writing, not from difficult vocabulary or grammatical perfection.

@@ -4,7 +4,7 @@ section: 17
 title: Email Writing Mistakes and Corrections (Part 1)
 ---
 
-Even well-intentioned hotel emails contain recurring errors that undermine their professional quality. This lesson presents the first three common mistakes found in hotel email writing, explains why each one is a problem, and provides the correct version.
+Even well-intentioned hotel emails often contain recurring mistakes that undermine their professional quality. This lesson introduces the first three common errors in hotel email writing, explains why they are problematic, and provides corrected versions for reference.
 
 ## Mistake 1: Wrong Tense in Post-Stay Email
 
@@ -14,13 +14,15 @@ Using present tense in an email about a completed stay is one of the most common
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimasu.</em><br><br>
+<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you very much for using our hotel on this occasion.<br><br>
 <span class="keigo-badge bad">Present tense</span> ありがとうございます is used for ongoing or current situations. The guest has already checked out.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました。</code></span><br>
-<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita.</em><br><br>
+<em>kono tabi wa, go-riyou itadaki, makotoni arigatou gozaimashita.</em><br>
+Thank you very much for using our hotel on this occasion.<br><br>
 <span class="keigo-badge good">Past tense</span> ありがとうございました correctly reflects that the event is complete.
 </div>
 </div>
@@ -33,13 +35,15 @@ Beginning an apology with ありがとうございます before acknowledging th
 <div class="bad-col">
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>いつもお世話になっております。この度は誠に申し訳ございません。</code></span><br>
-<em>itsumo osewa ni natte orimasu. kono tabi wa makotoni moushiwake gozaimase n.</em><br><br>
+<em>itsumo osewa ni natte orimasu. kono tabi wa makotoni moushiwake gozaimasen.</em><br>
+Thank you for your continued support. We sincerely apologize for the inconvenience on this occasion.<br><br>
 <span class="keigo-badge bad">Wrong priority</span> The gratitude opener delays the apology and feels tone-deaf to the guest's frustration.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br><br>
+<em>kono tabi wa, go-fuben o okake shi, makotoni moushiwake gozaimasen.</em><br>
+We sincerely apologize for the inconvenience caused on this occasion.<br><br>
 <span class="keigo-badge good">Apology first</span> The opening immediately acknowledges the inconvenience.
 </div>
 </div>
@@ -51,13 +55,15 @@ Beginning an apology with ありがとうございます before acknowledging th
 <span class="keigo-pair-label">Wrong</span>
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
 <em>itsumo osewa ni natte orimasu.</em><br>
+Thank you for your continued support.<br>
 (sent to a guest with no booking history)<br><br>
 <span class="keigo-badge bad">Wrong relationship</span> いつも assumes repeated contact. This signals carelessness.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct</span>
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br><br>
+<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you very much for your reservation on this occasion.<br><br>
 <span class="keigo-badge good">Correct relationship</span> この度は signals a new interaction.
 </div>
 </div>

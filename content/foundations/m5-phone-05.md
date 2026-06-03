@@ -42,18 +42,14 @@ Mr./Ms. Yamada. I have confirmed your reservation: twin room, June 10th for two 
 
 ## Why Repetition Is Not Redundant
 
-Some learners feel that repeating dates and names back to the guest sounds unnecessary. In hotel operations, this repetition is essential:
+Some learners feel that repeating dates and names back to the guest sounds unnecessary. In hotel operations, this repetition is a verification chain: each repeated detail is a checkpoint, and missing one creates a gap where errors enter undetected.
 
-Dates repeated → prevents June 10th vs June 1st errors
-
-Room type repeated → prevents twin vs single booking mistakes
-
-Name repeated → confirms the correct guest identity
-
-Final summary → gives the guest verbal confirmation before the call ends
-
-
-Each repetition is a checkpoint. Missing one creates a gap where operational errors enter undetected.
+| What is repeated | What it prevents |
+|---|---|
+| Dates | June 10th vs June 1st errors |
+| Room type | Twin vs single booking mistakes |
+| Guest name | Processing a reservation under the wrong identity |
+| Final summary | Guest hangs up without verbal confirmation of what was booked |
 
 ---
 

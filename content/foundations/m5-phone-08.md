@@ -15,6 +15,7 @@ Do you have availability on June 10th?<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>本日6月10日の空室状況を確認いたします。少々お待ちくださいませ。</code></span><br>
 <em>honjitsu 6 tsuki 10 nichi no sora shitsu joukyou o kakunin itashimasu. shoushou omachi kudasaimase.</em><br>
 I will check availability for June 10th. Please wait a moment.<br><br>
+<em>[ Staff checks the system ]</em><br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。6月10日はツインルームとスタンダードルームにお部屋がございます。いかがなさいますか。</code></span><br>
 <em>taihen o-matase itashimashita. 6 tsuki 10 nichi wa tsuin rumu to sutandado rumu ni o-heya ga gozaimasu. ika ga nasaimasu ka.</em><br>
 Thank you for waiting. We have twin rooms and standard rooms available on June 10th. Which would you prefer?
@@ -27,8 +28,8 @@ When there are no rooms available, the word あいにく is essential. It soften
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Abrupt</span>
-<span class="keigo-jp"><code>満室です。</code></span>
-<br><em>manshitsu desu.</em><br>
+<span class="keigo-jp"><code>満室です。</code></span><br>
+<em>manshitsu desu.</em><br>
 We are fully booked.<br><br>
 <span class="keigo-badge bad">Problem</span> Blunt, cold, and closes the interaction. The guest feels rejected.
 </div>

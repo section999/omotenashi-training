@@ -63,13 +63,15 @@ Using the wrong opening communicates either carelessness or system automation. B
 <span class="keigo-pair-label">Wrong: Repeat phrase for new guest</span>
 <span class="keigo-jp"><code>いつもお世話になっております。</code></span><br>
 <em>itsumo osewa ni natte orimasu.</em><br>
+Thank you for your continued support.<br>
 (sent to someone who has never stayed before)<br><br>
 <span class="keigo-badge bad">Error</span> いつも assumes a history that does not exist. The guest feels seen as a number.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correct: New guest opening</span>
 <span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
-<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br><br>
+<em>kono tabi wa, go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
+Thank you very much for your reservation.<br><br>
 <span class="keigo-badge good">Correct</span> Acknowledges this as a new relationship beginning.
 </div>
 </div>

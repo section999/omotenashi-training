@@ -11,7 +11,7 @@ This lesson continues from Part 1 with two more closing types and a reference ta
 Used specifically in post-stay emails to express hope for a future visit.
 
 <div class="keigo-card blue">
-<span class="keigo-jp"><code>またお会いできます日を心よりお待ち申し上げております。</code></span><br>
+<span class="keigo-jp"><code>またお会いできる日を心よりお待ち申し上げております。</code></span><br>
 <em>mata o ai dekimasu hi o kokoro yori omachi moushiage te orimasu.</em><br>
 We sincerely look forward to the day we can welcome you again.
 </div>
@@ -28,17 +28,53 @@ After an apology, the closing must emphasize support and care, not future busine
 Please feel free to contact us if you have any questions.
 </div>
 
-Avoid 今後ともよろしくお願い申し上げます immediately after a serious apology. It can read as pivoting to future business before the guest's concern has been fully respected. If the situation calls for it, 今後とも変わらぬご愛顧のほど、何卒よろしくお願い申し上げます is acceptable as a softer variation.
+Avoid 今後ともよろしくお願い申し上げます immediately after a serious apology. It can read as pivoting to future business before the guest's concern has been fully respected. If the situation calls for a warmer close, the following is acceptable as a softer variation:
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>今後とも変わらぬご愛顧のほど、何卒よろしくお願い申し上げます。</code></span><br>
+<em>kongo to mo kawaranu go-aiko no hodo, nanitozo yoroshiku onegai moushiagemasu.</em><br>
+We humbly ask for your continued and unchanged patronage going forward.
+</div>
 
 ## Matching Opening to Closing
 
-| Context | Opening | Closing |
-|---|---|---|
-| Pre-arrival | <span>この度は、ご予約いただき、誠にありがとうございます</span> | <span>ご到着を心よりお待ち申し上げております</span> |
-| Post-stay | <span>この度は、ご利用いただき、誠にありがとうございました</span> | <span>またお会いできます日を心よりお待ち申し上げております</span> |
-| Apology | <span>この度は、ご不便をおかけし、誠に申し訳ございません</span> | <span>ご不明点などございましたら、お気軽にご連絡くださいませ</span> |
-
 The opening and closing must form a coherent pair. A formal apology opening followed by a cheerful return-invitation closing sends a conflicting signal to the guest.
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Pre-arrival</span>
+<span class="keigo-badge use">Opening</span><br>
+<span class="keigo-jp"><code>この度は、ご予約いただき、誠にありがとうございます。</code></span><br>
+<em>kono tabi wa, go-yoyaku itadaki, makoto ni arigatou gozaimasu.</em><br>
+Thank you very much for your reservation.<br><br>
+<span class="keigo-badge use">Closing</span><br>
+<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
+<em>go-touchaku o kokoro yori o-machi moushiagete orimasu.</em><br>
+We sincerely look forward to your arrival.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Post-stay</span>
+<span class="keigo-badge use">Opening</span><br>
+<span class="keigo-jp"><code>この度は、ご利用いただき、誠にありがとうございました。</code></span><br>
+<em>kono tabi wa, go-riyou itadaki, makoto ni arigatou gozaimashita.</em><br>
+Thank you very much for staying with us.<br><br>
+<span class="keigo-badge use">Closing</span><br>
+<span class="keigo-jp"><code>またお会いできる日を心よりお待ち申し上げております。</code></span><br>
+<em>mata o-ai dekiru hi o kokoro yori o-machi moushiagete orimasu.</em><br>
+We sincerely look forward to the day we can welcome you again.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Apology</span>
+<span class="keigo-badge use">Opening</span><br>
+<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
+<em>kono tabi wa, go-fuben o okake shi, makoto ni moushiwake gozaimasen.</em><br>
+We sincerely apologize for the inconvenience caused on this occasion.<br><br>
+<span class="keigo-badge use">Closing</span><br>
+<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go-fumei-ten nado gozaimashitara, o-kigaru ni go-renraku kudasaimase.</em><br>
+If you have any questions, please feel free to contact us.
+</div>
 
 ---
 

@@ -4,64 +4,57 @@ section: 8
 title: Building a Complete Hotel Email (Part 1)
 ---
 
-A hotel email has three required sections: the opening, the body, and the closing. Each section has a distinct function. This lesson covers the structural foundation: how the three parts work, how to write an effective subject line, and the principles for the body.
+A well-written hotel email is built around three key components: the opening, the body, and the closing. Each section plays a distinct role in shaping the guest's experience and ensuring effective communication.
+
+In this lesson, you will learn the structural foundations of hotel email writing, including the characteristics of effective subject lines, the principles of writing a clear and professional email body, and the purpose of each section within the overall message.
 
 ## The Three-Part Structure
 
-**Opening**
-
-Purpose: establish who you are addressing, recognize the relationship, and set the emotional tone
-
-Length: one to two sentences
-
-
-**Body**
-
-Purpose: deliver the specific information, request, or response
-
-Length: as needed, organized clearly, one topic per sentence or paragraph
-
-
-**Closing**
-
-Purpose: leave the guest with a feeling of support, warmth, or welcome
-
-Length: one to two sentences
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Opening</span>
+Establish who you are addressing, recognize the guest relationship, and set the emotional tone.<br>
+Length: one to two sentences.<br><br>
+<span class="keigo-pair-label">Body</span>
+Deliver the specific information, request, or response. Keep it organized and easy to read, with one topic per paragraph.<br>
+Length: as needed.<br><br>
+<span class="keigo-pair-label">Closing</span>
+Leave the guest with a feeling of support, warmth, or welcome.<br>
+Length: one to two sentences.
+</div>
 
 ## The Subject Line
 
-Before the opening, the subject line must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
+The subject line is the first thing a guest sees. It must be clear and specific. A vague subject line causes the guest to delay reading or miss the email entirely.
 
-| Result | Subject Line |
-|---|---|
-| Correct | <span>【ご予約確認】山田様 7月15日〜16日 1泊</span> |
-| Correct | <span>【設備点検のお知らせ】7月20日(土) プール一時休止</span> |
-| Wrong | <span>ご確認ください</span> |
+<div class="keigo-card blue">
+<span class="keigo-badge good">Correct</span> <code>【ご予約確認】山田様 7月15日〜16日 1泊</code><br>
+Guest name, dates, and purpose are all visible at a glance.<br><br>
+<span class="keigo-badge good">Correct</span> <code>【設備点検のお知らせ】7月20日(土) プール一時休止</code><br>
+Date and affected facility are immediately clear.<br><br>
+<span class="keigo-badge bad">Wrong</span> <code>ご確認ください</code><br>
+Vague. The guest cannot tell what the email is about before opening it.
+</div>
 
-The first example has the guest name, dates, and purpose visible at a glance. The second identifies the date and affected facility immediately. The wrong example is vague and does not tell the guest what to expect inside.
-
-Use 【】 brackets to mark the email type. This is standard in Japanese professional email.
+Use 【】 brackets to label the email type. This is standard in Japanese professional email.
 
 ## Body Writing Principles
 
-The body must be organized, specific, and easy to read. Japanese hotel email bodies never include long, unstructured paragraphs.
+The body must be organized, specific, and easy to read. Avoid long unstructured paragraphs.
 
 <div class="keigo-card blue">
-<strong>Use でございます for facts</strong><br>
+<span class="keigo-pair-label">Use でございます for facts</span>
 <span class="keigo-jp"><code>チェックインは15時からでございます。</code></span><br>
-<em>chekkuin wa 15 ji kara de gozaimasu.</em><br>
+<em>chekkuin wa 15-ji kara de gozaimasu.</em><br>
 Check-in begins at 15:00.<br><br>
-<strong>Use soft verb forms for requests</strong><br>
+<span class="keigo-pair-label">Use soft verb forms for requests</span>
 <span class="keigo-jp"><code>パスポートをご持参いただけますと幸いでございます。</code></span><br>
-<em>pasupouto o go jisan itadake masu to saiwai de gozaimasu.</em><br>
-We would appreciate it if you could bring your passport.
+<em>pasupouto o go-jisan itadakemasu to saiwai de gozaimasu.</em><br>
+We would appreciate it if you could bring your passport.<br><br>
+<span class="keigo-pair-label">One topic per paragraph</span>
+Do not combine reservation details with parking instructions in the same paragraph. Each paragraph should cover one subject only.
 </div>
 
-Each paragraph should cover one subject. Do not combine reservation details with parking instructions in the same paragraph.
-
-でございます sounds professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and appropriate for guest-facing requests.
-
-Long compound sentences are harder to read. Break them into shorter units.
+でございます is professional without being stiff. ○○いただけますと幸いでございます is softer than ○○ください and more appropriate for guest-facing requests. Long compound sentences are harder to read; break them into shorter units.
 
 ---
 

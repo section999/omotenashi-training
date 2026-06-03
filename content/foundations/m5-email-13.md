@@ -4,43 +4,40 @@ section: 13
 title: Facility and Operational Notice Template
 ---
 
-Hotels occasionally must notify guests about maintenance schedules, temporary facility closures, service changes, or renovation work. These operational emails require a professional, respectful tone that acknowledges the inconvenience to the guest without sounding dismissive or overly apologetic.
+Hotels occasionally need to notify guests about maintenance schedules, temporary facility closures, service changes, or renovation work. These operational emails require a professional and respectful tone that clearly communicates the situation while acknowledging the guest's inconvenience without being overly apologetic or dismissive.
 
-## What This Email Must Accomplish
-
-**1. Inform:** State clearly what is happening, when, and which facilities or services are affected.
-
-**2. Acknowledge:** Recognize that this creates inconvenience without over-apologizing.
-
-**3. Request:** Ask for the guest's understanding using appropriate humble language.
-
-**4. Support:** Close with an offer to answer questions.
+These emails must accomplish four key goals: clearly inform the guest about what is happening, when it will take place, and which facilities or services are affected; acknowledge the inconvenience it may cause in a balanced and respectful way; request the guest's understanding using appropriate humble and considerate language; and provide support by inviting the guest to reach out with any questions or concerns.
 
 ## Full Template
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code></span><br>
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>平素より当ホテルをご利用いただき、誠にありがとうございます。</code><br>
 <em>heiso yori tou hoteru o go-riyou itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for your continued use of our hotel.<br><br>
-<span class="keigo-jp"><code>下記の日程にて館内設備点検を実施いたします。</code></span><br>
+<span class="email-en">Thank you very much for your continued use of our hotel.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>下記の日程にて館内設備点検を実施いたします。</code><br>
 <em>kaki no nittei nite kannai setsubi tenken o jisshi itashimasu.</em><br>
-We will be conducting facility inspections on the following schedule.<br><br>
-<span class="keigo-jp"><code>日程：[Date]（[Day]）[Time]〜[Time]</code></span><br>
-<em>nittei :[ Date ]([ Day ])[ Time ]〜[ Time ]</em><br>
-<span class="keigo-jp"><code>対象：[Affected facility]</code></span><br><br>
-<em>taishou :[ Affected facility ]</em><br>
-<span class="keigo-jp"><code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code></span><br>
-<em>tenken sagyou chu wa, [ affected facility ] ga go-riyou itadake nai jikan tai ga gozaimasu.</em><br>
-During the inspection, [affected facility] will be unavailable for some time.<br><br>
-<span class="keigo-jp"><code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code></span><br>
-<em>okyakusama ni wa go fuben o okakeitashimasu ga, nanitozo go rikai no hodo yoroshiku onegai moushiage masu.</em><br>
-We apologize for the inconvenience and humbly ask for your understanding.<br><br>
-<span class="keigo-jp"><code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei na ten ga gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions, please feel free to contact us.
+<span class="email-en">We will be conducting facility inspections on the following schedule.</span><br><br>
+<div class="email-details">
+<code>日程：[Date]（[Day]）[Time]〜[Time]</code>
+<em>nittei: [Date] ([Day]) [Time]〜[Time]</em>
+<code>対象：[Affected facility]</code>
+<em>taishou: [Affected facility]</em>
+</div><br>
+<code>点検作業中は、[affected facility]がご利用いただけない時間帯がございます。</code><br>
+<em>tenken sagyou-chuu wa, [affected facility] ga go-riyou itadakenai jikantai ga gozaimasu.</em><br>
+<span class="email-en">During the inspection, [affected facility] will be unavailable for some time.</span><br><br>
+<code>お客様にはご不便をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。</code><br>
+<em>okyakusama ni wa go-fuben o o-kake itashimasu ga, nanitozo go-rikai no hodo yoroshiku onegai moushiagemasu.</em><br>
+<span class="email-en">We apologize for the inconvenience and humbly ask for your understanding.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>ご不明な点がございましたら、お気軽にご連絡くださいませ。</code><br>
+<em>go-fumei na ten ga gozaimashitara, o-kigaru ni go-renraku kudasaimase.</em><br>
+<span class="email-en">If you have any questions, please feel free to contact us.</span>
 </div>
 
-## Key Phrase: 何卒ご理解のほど
+## Key Phrase
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>何卒ご理解のほどよろしくお願い申し上げます</code></span><br>

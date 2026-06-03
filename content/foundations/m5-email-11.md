@@ -4,81 +4,60 @@ section: 11
 title: Pre-Arrival Guidance Template
 ---
 
-A pre-arrival email is sent several days before the guest's check-in date. Its purpose is to reduce anxiety and prepare the guest by providing essential practical information: arrival time, transportation, parking, and what to bring. The tone should be informative, supportive, and organized. Clarity is the priority.
+A pre-arrival email is sent several days before the guest's check-in date. Its purpose is to reduce uncertainty and help the guest prepare by providing essential practical information such as arrival time, transportation options, parking details, and anything they may need to bring. The tone should be informative, supportive, and well-structured, with clarity as the top priority.
 
-## What This Email Must Accomplish
-
-**1. Organize:** Present practical information clearly and in logical order so the guest does not have to search or ask.
-
-**2. Reassure:** The guest should feel everything is arranged and under control.
-
-**3. Welcome:** Even a practical email must carry warmth. Close with genuine anticipation.
+The email must accomplish three key goals. First, it should organize practical information in a clear and logical order so the guest can easily understand everything without needing to search or follow up. Second, it should reassure the guest by making it clear that all arrangements are in place and under control. Finally, it should still convey warmth and hospitality, closing with a genuine sense of anticipation for the guest's arrival.
 
 ## Full Template
 
-<div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for reserving our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご到着前のご案内をお送りいたします。</code></span><br>
-<em>go touchaku mae no go-annai o ookuri itashimasu.</em><br>
-We are sending you the following information before your arrival.<br><br>
-<span class="keigo-jp"><code>チェックイン開始時間は15:00からでございます。</code></span><br>
-<em>chekkuin kaishi jikan wa 15 : 00 kara de gozaimasu.</em><br>
-Check-in begins at 15:00.<br><br>
-<span class="keigo-jp"><code>チェックアウトは11:00でございます。</code></span><br>
-<em>chekku auto wa 11 : 00 de gozaimasu.</em><br>
-Checkout is at 11:00.<br><br>
-<span class="keigo-jp"><code>駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。</code></span><br>
-<em>chusha jou o go-riyou no okyakusama wa, hoteru shoumen iriguchi made okoshi kudasaimase.</em><br>
-Guests using the parking lot, please proceed to the hotel front entrance.<br><br>
-<span class="keigo-jp"><code>チェックイン時にパスポートまたは身分証明書をご提示いただけますと幸いでございます。</code></span><br>
-<em>chekkuin ji ni pasupouto matawa mibun shoumei sho o go teiji itadake masu to saiwai de gozaimasu.</em><br>
-We would appreciate it if you could present your passport or ID at check-in.<br><br>
-<span class="keigo-jp"><code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei na ten ya go-youbou nado gozai mashitara, touchaku mae ni mo o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions or requests before your arrival, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-All of our staff sincerely look forward to your arrival.
+<span class="email-en">Thank you very much for reserving our hotel on this occasion.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご到着前のご案内をお送りいたします。</code><br>
+<em>go-touchaku mae no go-annai o o-okuri itashimasu.</em><br>
+<span class="email-en">We are sending you the following information before your arrival.</span><br><br>
+<div class="email-details">
+<code>チェックイン開始時間は15:00からでございます。</code>
+<em>chekkuin kaishi jikan wa 15:00 kara de gozaimasu.</em>
+<span class="email-en">Check-in begins at 15:00.</span>
+<code>チェックアウトは11:00でございます。</code>
+<em>chekku-auto wa 11:00 de gozaimasu.</em>
+<span class="email-en">Check-out is at 11:00.</span>
+</div><br>
+<code>駐車場をご利用のお客様は、ホテル正面入口までお越しくださいませ。</code><br>
+<em>chushajou o go-riyou no okyakusama wa, hoteru shoumen iriguchi made o-koshi kudasaimase.</em><br>
+<span class="email-en">Guests using the parking lot, please proceed to the hotel front entrance.</span><br><br>
+<code>チェックイン時にパスポートまたは身分証明書をご提示いただけますと幸いでございます。</code><br>
+<em>chekkuin-ji ni pasupouto matawa mibun-shoumeisho o go-teiji itadakemasu to saiwai de gozaimasu.</em><br>
+<span class="email-en">We would appreciate it if you could present your passport or ID at check-in.</span><br><br>
+<code>ご不明な点やご要望などございましたら、到着前にもお気軽にご連絡くださいませ。</code><br>
+<em>go-fumei na ten ya go-youbou nado gozaimashitara, touchaku mae ni mo o-kigaru ni go-renraku kudasaimase.</em><br>
+<span class="email-en">If you have any questions or requests before your arrival, please feel free to contact us.</span><br>
+<span class="keigo-pair-label">Optional</span>
+<code>最寄り駅は〇〇駅でございます。徒歩5分ほどでございます。</code><br>
+<em>moyori-eki wa 〇〇-eki de gozaimasu. toho go-fun hodo de gozaimasu.</em><br>
+<span class="email-en">The nearest station is [Station]. It is approximately a 5-minute walk.</span><br><br>
+<code>プールは10:00〜21:00にご利用いただけます。</code><br>
+<em>puuru wa 10:00 kara 21:00 ni go-riyou itadakemasu.</em><br>
+<span class="email-en">The pool is available from 10:00 to 21:00.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code><br>
+<em>sutaffu ichidou, go-touchaku o kokoro yori omachi moushiagete orimasu.</em><br>
+<span class="email-en">All of our staff sincerely look forward to your arrival.</span>
 </div>
 
 ## Writing Principles for This Email
 
-**One piece of information per sentence**
+Keep one idea per sentence and avoid combining multiple facts into a single sentence so that each piece of information remains clear and easy to understand.
 
-Do not write: "Check-in is at 15:00 and check-out is at 11:00 and the parking lot is at the front." Separate each fact into its own sentence.
+Use でございます for all factual information, including key operational details such as check-in time, check-out time, and location, in order to maintain a consistent and formal tone.
 
+Use soft, polite phrasing for requests, such as ○○いただけますと幸いでございます, rather than direct instructions, to ensure a respectful and considerate tone.
 
-**Use でございます for all stated facts**
-
-Every operational fact (check-in time, checkout time, location) should use でございます as the sentence ending.
-
-
-**Use soft forms for requests**
-
-When asking the guest to bring something or do something, use ○○いただけますと幸いでございます rather than a direct command.
-
-
-**Do not overwhelm**
-
-A pre-arrival email should cover only the most important practical information. Every detail will be communicated again at check-in. Long emails reduce readability.
-
-## Optional Additions
-
-<div class="keigo-card blue">
-<strong>Transportation:</strong><br>
-<span class="keigo-jp"><code>最寄り駅は〇〇駅でございます。徒歩5分ほどでございます。</code></span><br>
-<em>moyorieki wa 〇 〇 eki de gozaimasu. toho 5 fun hodo de gozaimasu.</em><br>
-The nearest station is [Station]. It is approximately a 5-minute walk.<br><br>
-<strong>Amenity note:</strong><br>
-<span class="keigo-jp"><code>プールは10:00〜21:00にご利用いただけます。</code></span><br>
-<em>puru wa 10 : 00 〜 21 : 00 ni go-riyou itadake masu.</em><br>
-The pool is available from 10:00 to 21:00.
-</div>
-
-Add only information that reduces the guest's planning effort. Omit anything the guest does not need to know before arriving.
+Keep the email concise by including only essential pre-arrival information. Additional details can be provided at check-in, and too much information in advance can reduce readability.
 
 ---
 

@@ -4,43 +4,41 @@ section: 10
 title: Reservation Confirmation Template
 ---
 
-The reservation confirmation is often the first direct communication from the hotel to the guest. It must do three things: confirm the booking accurately, reassure the guest that everything is in order, and make them feel genuinely welcomed before they arrive.
+The reservation confirmation is often the first direct communication between a hotel and its guest. It must accomplish three key goals: accurately confirm the booking, reassure the guest that everything is in order, and make the guest feel genuinely welcomed before arrival.
 
-## What This Email Must Accomplish
-
-**1. Confirm:** The guest must see their reservation details clearly and be able to verify them.
-
-**2. Reassure:** The hotel is prepared and handling their stay properly.
-
-**3. Welcome:** The guest should feel the hotel is looking forward to their arrival, not just processing a transaction.
+First, it must confirm the reservation clearly so the guest can easily review and verify all details. Next, it should reassure the guest that the hotel is fully prepared and everything is being handled properly. Finally, it should create a sense of welcome by showing that the hotel is sincerely looking forward to the guest's arrival, rather than simply processing a transaction.
 
 ## Full Template
 
-<div class="keigo-card blue">
-
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br>
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-Thank you very much for reserving our hotel on this occasion.<br><br>
-<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<span class="email-en">Thank you very much for reserving our hotel on this occasion.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご予約内容は以下のとおりでございます。</code><br>
 <em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
-Your reservation details are as follows.<br><br>
-<span class="keigo-jp"><code>チェックイン：[Date]（[Day]）[Time]〜</code></span><br>
-<em>chekkuin :[ Date ]([ Day ])[ Time ]〜</em><br>
-<span class="keigo-jp"><code>チェックアウト：[Date]（[Day]）[Time]</code></span><br>
-<em>chekku auto :[ Date ]([ Day ])[ Time ]</em><br>
-<span class="keigo-jp"><code>ご宿泊人数：[Number]名様</code></span><br>
-<em>go shukuhaku ninzu :[ Number ] mei sama</em><br>
-<span class="keigo-jp"><code>お部屋タイプ：[Room type]</code></span><br><br>
-<em>o-heya taipu :[ Room type ]</em><br>
-<span class="keigo-jp"><code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code></span><br>
-<em>go-taizai chu, kaiteki ni osugoshi itadake masu you, sutaffu ichi dou jumbi o susume te orimasu.</em><br>
-All of our staff are preparing to ensure you have a comfortable stay.<br><br>
-<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-If you have any questions before your arrival, please feel free to contact us.<br><br>
-<span class="keigo-jp"><code>ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-We sincerely look forward to your arrival.
+<span class="email-en">Your reservation details are as follows.</span><br><br>
+<div class="email-details">
+<code>チェックイン：[Date]（[Day]）[Time]〜</code>
+<em>chekkuin: [Date] ([Day]) [Time]〜</em>
+<code>チェックアウト：[Date]（[Day]）[Time]</code>
+<em>chekku-auto: [Date] ([Day]) [Time]</em>
+<code>ご宿泊人数：[Number]名様</code>
+<em>go-shukuhaku ninzuu: [Number] mei-sama</em>
+<code>お部屋タイプ：[Room type]</code>
+<em>o-heya taipu: [Room type]</em>
+</div><br>
+<code>ご滞在中、快適にお過ごしいただけますよう、スタッフ一同準備を進めております。</code><br>
+<em>go-taizai chuu, kaiteki ni osugoshi itadakemasu you, sutaffu ichidou junbi o susumete orimasu.</em><br>
+<span class="email-en">All of our staff are preparing to ensure you have a comfortable stay.</span><br><br>
+<code>ご到着前にご不明点などございましたら、お気軽にご連絡くださいませ。</code><br>
+<em>go-touchaku mae ni go-fumeiten nado gozaimashitara, o-kigaru ni go-renraku kudasaimase.</em><br>
+<span class="email-en">If you have any questions before your arrival, please feel free to contact us.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>ご到着を心よりお待ち申し上げております。</code><br>
+<em>go-touchaku o kokoro yori omachi moushiagete orimasu.</em><br>
+<span class="email-en">We sincerely look forward to your arrival.</span>
 </div>
 
 ## Key Phrases Explained

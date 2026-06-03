@@ -10,10 +10,16 @@ The closing of a hotel email creates the final impression. A well-constructed op
 
 Every email closing serves one or more of these purposes:
 
-- **Support:** The hotel remains available; please feel free to ask
-- **Welcome:** We look forward to seeing you
-- **Relationship:** We value your continued patronage
-- **Care:** We want your experience to be excellent
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Support</span>
+The hotel remains available; please feel free to ask.<br><br>
+<span class="keigo-pair-label">Welcome</span>
+We look forward to seeing you.<br><br>
+<span class="keigo-pair-label">Relationship</span>
+We value your continued patronage.<br><br>
+<span class="keigo-pair-label">Care</span>
+We want your experience to be excellent.
+</div>
 
 ## Closing Type 1: Support Closing (Universal)
 
@@ -49,7 +55,15 @@ Used when expressing appreciation for continued patronage. Best suited to emails
 We look forward to your continued patronage.
 </div>
 
-今後とも (from now on as well) explicitly acknowledges an ongoing relationship. Do not use this closing for first-time guests. またのお越しをお待ちしております is a lighter alternative for less formal repeat-guest emails.
+今後とも (from now on as well) explicitly acknowledges an ongoing relationship. Do not use this closing for first-time guests.
+
+For a lighter, less formal tone with repeat guests:
+
+<div class="keigo-card blue">
+<span class="keigo-jp"><code>またのお越しをお待ちしております。</code></span><br>
+<em>mata no o-koshi o o-machi shite orimasu.</em><br>
+We look forward to welcoming you again.
+</div>
 
 ---
 
@@ -59,7 +73,7 @@ We look forward to your continued patronage.
 
 - A. 今後ともよろしくお願い申し上げます
 - B. ご到着を心よりお待ち申し上げております
-- C. またお会いできます日を心よりお待ち申し上げております
+- C. またお会いできる日を心よりお待ち申し上げております
 - D. No closing is needed for a short confirmation email
 
 **Correct Answer:** B

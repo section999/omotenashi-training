@@ -13,25 +13,23 @@ The opening, body, and closing must all operate at the same formality level. A s
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Register break</span>
-<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
-<em>makotoni arigatou gozaimasu.</em><br>
-<span class="keigo-jp"><code>また来てくださいね！</code></span><br>
-<em>mata kite kudasai ne!</em><br><br>
+<span class="keigo-jp"><code>誠にありがとうございます。また来てくださいね！</code></span><br>
+<em>makotoni arigatou gozaimasu. mata kite kudasai ne!</em><br>
+Thank you sincerely. Come again!<br><br>
 <span class="keigo-badge bad">Inconsistent</span> The first sentence is formal hotel language. The second shifts to casual shopkeeper language. The guest feels the hotel is not paying attention.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Consistent register</span>
-<span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
-<em>makotoni arigatou gozaimasu.</em><br>
-<span class="keigo-jp"><code>またのお越しを心よりお待ち申し上げております。</code></span><br>
-<em>mata no okoshi o kokoro yori omachi moushiage te orimasu.</em><br><br>
+<span class="keigo-jp"><code>誠にありがとうございます。またのお越しを心よりお待ち申し上げております。</code></span><br>
+<em>makotoni arigatou gozaimasu. mata no okoshi o kokoro yori omachi moushiage te orimasu.</em><br>
+Thank you sincerely. We look forward to welcoming you again.<br><br>
 <span class="keigo-badge good">Consistent</span> Both sentences maintain the same professional warmth.
 </div>
 </div>
 
 ## Rule 2: Balance Warmth and Professionalism
 
-Hotel email language is not cold business Japanese and it is not casual friendly Japanese. It sits between the two.
+Hotel email communication is neither strictly business-oriented nor overly casual. Its purpose is to balance professionalism with genuine hospitality.
 
 | Register | Phrase |
 |---|---|
@@ -39,23 +37,25 @@ Hotel email language is not cold business Japanese and it is not casual friendly
 | Too casual | <span>チェックしてくださいね！</span> |
 | Hotel standard | <span>ご確認いただけますと幸いでございます。</span> |
 
-The "too cold" form is grammatically polite but emotionally distant. The "too casual" form is friendly but not appropriate for hotel correspondence. The hotel standard is polite, gentle, warm, and professional.
+An overly formal tone may be polite on the surface, but it can feel cold and detached. An overly casual tone may seem friendly, but it lacks the professionalism expected in hotel communication. The standard for hotel correspondence is a balance of courtesy, warmth, professionalism, and genuine hospitality.
 
 ## Rule 3: Avoid Overly Complex Keigo
 
-Excessive keigo sounds unnatural and emotionally distant. Guests feel addressed by a machine rather than by a person.
+Excessive keigo can feel unnatural and impersonal. Guests are more likely to feel as though they are being addressed by a script than by a genuine hospitality professional.
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Over-keigo</span>
 <span class="keigo-jp"><code>深甚なる謝意を申し上げ奉ります。</code></span><br>
-<em>shinjin naru sha-i o moushiage tatematsuri masu.</em><br><br>
+<em>shinjin naru sha-i o moushiage tatematsuri masu.</em><br>
+I humbly offer my deepest gratitude.<br><br>
 <span class="keigo-badge bad">Unnatural</span> Ceremonial language from a different era. Most guests find this stiff and uncomfortable.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Natural hotel language</span>
 <span class="keigo-jp"><code>誠にありがとうございます。</code></span><br>
-<em>makotoni arigatou gozaimasu.</em><br><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+Thank you sincerely.<br><br>
 <span class="keigo-badge good">Natural</span> Simple, warm, and appropriate. Professional keigo is never about complexity.
 </div>
 </div>

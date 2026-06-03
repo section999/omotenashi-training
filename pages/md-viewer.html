@@ -372,6 +372,25 @@
     .keigo-badge.bad { background: rgba(197,68,42,0.15); color: var(--accent-red); }
     .keigo-badge.good { background: rgba(31,173,105,0.15); color: var(--accent-green); }
     .keigo-badge.info { background: rgba(10,42,106,0.25); color: #6eb5ff; }
+    .keigo-badge.use { background: rgba(200,150,0,0.15); color: #d4a500; }
+    .email-toggle-btn { display: block; margin-bottom: 14px; padding: 5px 14px; font-size: 0.8rem; font-family: inherit; background: rgba(100,160,255,0.1); color: #7eb8f7; border: 1px solid rgba(100,160,255,0.3); border-radius: 6px; cursor: pointer; transition: background 0.15s; }
+    .email-toggle-btn:hover { background: rgba(100,160,255,0.2); }
+    [data-theme="light"] .email-toggle-btn { background: rgba(26,95,180,0.07); color: #1a5fae; border-color: rgba(26,95,180,0.25); }
+    [data-theme="light"] .email-toggle-btn:hover { background: rgba(26,95,180,0.14); }
+    .email-example { font-size: 0.95rem; }
+    .email-example .keigo-pair-label { display: block; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.09em; color: #7eb8f7; margin: 16px 0 8px; padding-bottom: 5px; border-bottom: 1px solid rgba(100,160,255,0.2); }
+    [data-theme="light"] .email-example .keigo-pair-label { color: #1a5fae; border-bottom-color: rgba(26,95,180,0.2); }
+    .email-example .email-details { padding: 8px 12px; margin: 6px 0 0; background: rgba(100,160,255,0.05); border-left: 2px solid rgba(100,160,255,0.25); border-radius: 0 6px 6px 0; }
+    [data-theme="light"] .email-example .email-details { background: rgba(26,95,180,0.04); border-left-color: rgba(26,95,180,0.2); }
+    .email-example .email-details code { display: block; padding: 2px 0; }
+    .email-example em { display: none; font-style: normal; font-size: 0.8rem; color: #7eb8f7; letter-spacing: 0.03em; }
+    [data-theme="light"] .email-example em { color: #1a5fae; }
+    .email-example .email-en { display: none; color: var(--text-secondary); font-size: 0.85rem; }
+    .email-example em + br,
+    .email-example .email-en + br,
+    .email-example .email-en + br + br { display: none; }
+    .email-example.show-all em,
+    .email-example.show-all .email-en { display: block; margin-top: 3px; }
     .keigo-pair { display: flex; gap: 12px; margin: 0.5rem 0; }
     .keigo-pair > div { flex: 1; padding: 10px 14px; border-radius: 6px; border: 1px solid var(--border-default); min-width: 0; }
     .keigo-pair .bad-col { background: rgba(197,68,42,0.06); border-color: rgba(197,68,42,0.2); }
@@ -380,10 +399,10 @@
     .keigo-pair .bad-col .keigo-pair-label { color: var(--accent-red); }
     .keigo-pair .good-col .keigo-pair-label { color: var(--accent-green); }
     .keigo-jp code { background: rgba(241,190,50,0.08); padding: 1px 6px; border-radius: 3px; font-size: 0.95rem; font-weight: 600; color: var(--text-primary); }
-    /* JP sentence wrapper — column layout for dropdown romaji */
+    /* JP sentence wrapper: column layout for dropdown romaji */
     .jp-sentence-wrap { display: inline-flex; flex-direction: column; vertical-align: top; max-width: 100%; }
     .jp-top-line { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-    /* Romaji — distinct font, dropdown below JP text */
+    /* Romaji: distinct font, dropdown below JP text */
     em.keigo-romaji { display: none; font-style: normal; font-family: 'Menlo','Courier New',monospace; font-size: 0.78rem; letter-spacing: 0.05em; color: #7eb8f7; background: rgba(100,160,255,0.07); border-left: 2px solid rgba(100,160,255,0.35); border-radius: 0 4px 4px 0; padding: 3px 10px; margin-top: 5px; line-height: 1.5; }
     em.keigo-romaji.shown { display: block; }
     [data-theme="light"] em.keigo-romaji { color: #1a5fae; background: rgba(26,95,180,0.06); border-left-color: rgba(26,95,180,0.3); }
@@ -826,25 +845,26 @@ const FILE_MAP = {
   'content/foundations/m5-keigo-30.md': { module:'Honorific Language for Guest Service', lesson:'Keigo Basics', section:30, total:30, prev:'content/foundations/m5-keigo-29.md', next:'content/foundations/m5-meeting-01.md' },
 
   'content/foundations/m5-meeting-01.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:1, total:15, prev:'content/foundations/m5-keigo-30.md', next:'content/foundations/m5-meeting-02.md' },
-  'content/foundations/m5-email-01.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:1, total:19, prev:'content/foundations/m5-internal-14.md', next:'content/foundations/m5-email-02.md' },
-  'content/foundations/m5-email-02.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:2, total:19, prev:'content/foundations/m5-email-01.md', next:'content/foundations/m5-email-03.md' },
-  'content/foundations/m5-email-03.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:3, total:19, prev:'content/foundations/m5-email-02.md', next:'content/foundations/m5-email-04.md' },
-  'content/foundations/m5-email-04.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:4, total:19, prev:'content/foundations/m5-email-03.md', next:'content/foundations/m5-email-05.md' },
-  'content/foundations/m5-email-05.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:5, total:19, prev:'content/foundations/m5-email-04.md', next:'content/foundations/m5-email-06.md' },
-  'content/foundations/m5-email-06.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:6, total:19, prev:'content/foundations/m5-email-05.md', next:'content/foundations/m5-email-07.md' },
-  'content/foundations/m5-email-07.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:7, total:19, prev:'content/foundations/m5-email-06.md', next:'content/foundations/m5-email-08.md' },
-  'content/foundations/m5-email-08.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:8, total:19, prev:'content/foundations/m5-email-07.md', next:'content/foundations/m5-email-09.md' },
-  'content/foundations/m5-email-09.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:9, total:19, prev:'content/foundations/m5-email-08.md', next:'content/foundations/m5-email-10.md' },
-  'content/foundations/m5-email-10.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:10, total:19, prev:'content/foundations/m5-email-09.md', next:'content/foundations/m5-email-11.md' },
-  'content/foundations/m5-email-11.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:11, total:19, prev:'content/foundations/m5-email-10.md', next:'content/foundations/m5-email-12.md' },
-  'content/foundations/m5-email-12.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:12, total:19, prev:'content/foundations/m5-email-11.md', next:'content/foundations/m5-email-13.md' },
-  'content/foundations/m5-email-13.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:13, total:19, prev:'content/foundations/m5-email-12.md', next:'content/foundations/m5-email-14.md' },
-  'content/foundations/m5-email-14.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:14, total:19, prev:'content/foundations/m5-email-13.md', next:'content/foundations/m5-email-15.md' },
-  'content/foundations/m5-email-15.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:15, total:19, prev:'content/foundations/m5-email-14.md', next:'content/foundations/m5-email-16.md' },
-  'content/foundations/m5-email-16.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:16, total:19, prev:'content/foundations/m5-email-15.md', next:'content/foundations/m5-email-17.md' },
-  'content/foundations/m5-email-17.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:17, total:19, prev:'content/foundations/m5-email-16.md', next:'content/foundations/m5-email-18.md' },
-  'content/foundations/m5-email-18.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:18, total:19, prev:'content/foundations/m5-email-17.md', next:'content/foundations/m5-email-19.md' },
-  'content/foundations/m5-email-19.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:19, total:19, prev:'content/foundations/m5-email-18.md', next:'content/foundations/m5-phone-01.md' },
+  'content/foundations/m5-email-01.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:1, total:20, prev:'content/foundations/m5-internal-14.md', next:'content/foundations/m5-email-02.md' },
+  'content/foundations/m5-email-02.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:2, total:20, prev:'content/foundations/m5-email-01.md', next:'content/foundations/m5-email-03.md' },
+  'content/foundations/m5-email-03.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:3, total:20, prev:'content/foundations/m5-email-02.md', next:'content/foundations/m5-email-04.md' },
+  'content/foundations/m5-email-04.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:4, total:20, prev:'content/foundations/m5-email-03.md', next:'content/foundations/m5-email-05.md' },
+  'content/foundations/m5-email-05.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:5, total:20, prev:'content/foundations/m5-email-04.md', next:'content/foundations/m5-email-06.md' },
+  'content/foundations/m5-email-06.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:6, total:20, prev:'content/foundations/m5-email-05.md', next:'content/foundations/m5-email-07.md' },
+  'content/foundations/m5-email-07.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:7, total:20, prev:'content/foundations/m5-email-06.md', next:'content/foundations/m5-email-08.md' },
+  'content/foundations/m5-email-08.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:8, total:20, prev:'content/foundations/m5-email-07.md', next:'content/foundations/m5-email-09.md' },
+  'content/foundations/m5-email-09.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:9, total:20, prev:'content/foundations/m5-email-08.md', next:'content/foundations/m5-email-10.md' },
+  'content/foundations/m5-email-10.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:10, total:20, prev:'content/foundations/m5-email-09.md', next:'content/foundations/m5-email-11.md' },
+  'content/foundations/m5-email-11.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:11, total:20, prev:'content/foundations/m5-email-10.md', next:'content/foundations/m5-email-12.md' },
+  'content/foundations/m5-email-12.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:12, total:20, prev:'content/foundations/m5-email-11.md', next:'content/foundations/m5-email-13.md' },
+  'content/foundations/m5-email-13.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:13, total:20, prev:'content/foundations/m5-email-12.md', next:'content/foundations/m5-email-14.md' },
+  'content/foundations/m5-email-14.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:14, total:20, prev:'content/foundations/m5-email-13.md', next:'content/foundations/m5-email-15.md' },
+  'content/foundations/m5-email-15.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:15, total:20, prev:'content/foundations/m5-email-14.md', next:'content/foundations/m5-email-16.md' },
+  'content/foundations/m5-email-16.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:16, total:20, prev:'content/foundations/m5-email-15.md', next:'content/foundations/m5-email-17.md' },
+  'content/foundations/m5-email-17.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:17, total:20, prev:'content/foundations/m5-email-16.md', next:'content/foundations/m5-email-18.md' },
+  'content/foundations/m5-email-18.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:18, total:20, prev:'content/foundations/m5-email-17.md', next:'content/foundations/m5-email-19.md' },
+  'content/foundations/m5-email-19.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:19, total:20, prev:'content/foundations/m5-email-18.md', next:'content/foundations/m5-email-20.md' },
+  'content/foundations/m5-email-20.md': { module:'Honorific Language for Guest Service', lesson:'Email Communication', section:20, total:20, prev:'content/foundations/m5-email-19.md', next:'content/foundations/m5-phone-01.md' },
   'content/foundations/m5-meeting-02.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:2, total:15, prev:'content/foundations/m5-meeting-01.md', next:'content/foundations/m5-meeting-03.md' },
   'content/foundations/m5-meeting-03.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:3, total:15, prev:'content/foundations/m5-meeting-02.md', next:'content/foundations/m5-meeting-04.md' },
   'content/foundations/m5-meeting-04.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:4, total:15, prev:'content/foundations/m5-meeting-03.md', next:'content/foundations/m5-meeting-05.md' },
@@ -860,7 +880,7 @@ const FILE_MAP = {
   'content/foundations/m5-meeting-14.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:14, total:15, prev:'content/foundations/m5-meeting-13.md', next:'content/foundations/m5-meeting-15.md' },
   'content/foundations/m5-meeting-15.md': { module:'Honorific Language for Guest Service', lesson:'Handover Communication', section:15, total:15, prev:'content/foundations/m5-meeting-14.md', next:'content/foundations/m5-internal-01.md' },
   // m5-phone (17)
-  'content/foundations/m5-phone-01.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:17, prev:'content/foundations/m5-email-19.md', next:'content/foundations/m5-phone-02.md' },
+  'content/foundations/m5-phone-01.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:1, total:17, prev:'content/foundations/m5-email-20.md', next:'content/foundations/m5-phone-02.md' },
   'content/foundations/m5-phone-02.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:2, total:17, prev:'content/foundations/m5-phone-01.md', next:'content/foundations/m5-phone-03.md' },
   'content/foundations/m5-phone-03.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:3, total:17, prev:'content/foundations/m5-phone-02.md', next:'content/foundations/m5-phone-04.md' },
   'content/foundations/m5-phone-04.md': { module:'Honorific Language for Guest Service', lesson:'Telephone Communication', section:4, total:17, prev:'content/foundations/m5-phone-03.md', next:'content/foundations/m5-phone-05.md' },
@@ -1985,7 +2005,7 @@ function makeJpActionBtns(jpText, romajiEl) {
 // Remove TTS/romaji from .bad-col (wrong examples should not be practiced)
 function cleanBadCol(root) {
   root.querySelectorAll('.bad-col').forEach(col => {
-    // Unwrap .jp-speak spans — replace with plain text node
+    // Unwrap .jp-speak spans - replace with plain text node
     col.querySelectorAll('.jp-speak').forEach(span => {
       span.parentNode.replaceChild(document.createTextNode(span.textContent), span);
     });
@@ -2006,10 +2026,11 @@ function wrapKeigoJpCodes(root) {
     const keigoJp = inner.closest('.keigo-jp');
     if (!keigoJp) return;
     if (keigoJp.closest('.bad-col')) return;
+    if (keigoJp.closest('.email-example')) return;
     inner.classList.add('jp-word');
 
     // Find adjacent <em> romaji before any DOM changes.
-    // Only link if separated by at most 1 <br> (double-br means a new paragraph — not romaji).
+    // Only link if separated by at most 1 <br> (double-br means a new paragraph, not romaji).
     let sib = keigoJp.nextSibling;
     let brCount = 0;
     while (sib && (sib.nodeType === Node.TEXT_NODE || (sib.nodeType === Node.ELEMENT_NODE && (sib.tagName === 'BR' || sib.classList.contains('keigo-badge'))))) {
@@ -2058,6 +2079,19 @@ function wrapKeigoJpCodes(root) {
   });
 }
 
+function initEmailExamples(root) {
+  root.querySelectorAll('.email-example').forEach(card => {
+    const btn = document.createElement('button');
+    btn.className = 'email-toggle-btn';
+    btn.textContent = 'Show Romaji & Translation';
+    btn.addEventListener('click', () => {
+      const isShown = card.classList.toggle('show-all');
+      btn.textContent = isShown ? 'Hide Romaji & Translation' : 'Show Romaji & Translation';
+    });
+    card.prepend(btn);
+  });
+}
+
 // Add buttons to vocab tables and td span em patterns
 function initTableRomaji(root) {
   // Pattern A: table with a "Reading" column header
@@ -2089,7 +2123,7 @@ function initTableRomaji(root) {
     span.after(makeJpActionBtns(jpText, em));
   });
 
-  // Pattern C: table without "Reading" column — speak-only button for Japanese term cells
+  // Pattern C: table without "Reading" column - speak-only button for Japanese term cells
   const JP_RE_TBL = /[\u3040-\u9FFF\uFF00-\uFFEF]/;
   root.querySelectorAll('table').forEach(table => {
     const ths = Array.from(table.querySelectorAll('thead th'));
@@ -2097,7 +2131,7 @@ function initTableRomaji(root) {
     table.querySelectorAll('tbody td').forEach(td => {
       const span = td.querySelector('span');
       if (!span) return;
-      // Only match direct text nodes — skip spans where Japanese is inside a <code> child
+      // Only match direct text nodes - skip spans where Japanese is inside a <code> child
       const jpText = Array.from(span.childNodes)
         .filter(n => n.nodeType === Node.TEXT_NODE)
         .map(n => n.textContent).join('').trim();
@@ -3414,6 +3448,7 @@ async function render() {
   if (bodyEl) wrapJapanese(bodyEl);
   if (bodyEl) wrapKeigoJpCodes(bodyEl);
   if (bodyEl) initTableRomaji(bodyEl);
+  if (bodyEl) initEmailExamples(bodyEl);
   if (bodyEl) initPhraseBlockBtns(bodyEl);
   if (bodyEl) cleanBadCol(bodyEl);
 

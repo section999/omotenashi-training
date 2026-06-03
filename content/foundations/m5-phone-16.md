@@ -11,30 +11,33 @@ Emergency calls, power failure, medical concern, fire alarm, injury, require a r
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Panic Response</span>
-<span class="keigo-jp"><code>えっ、どうしましょう！すぐ誰かを呼びますね！</code></span>
-<br><em>e', dou shimashou! sugu dareka o yobi masu ne!</em><br>
-<br>
+<span class="keigo-jp"><code>えっ、どうしましょう！すぐ誰かを呼びますね！</code></span><br>
+<em>e', dou shimashou! sugu dareka o yobimasune!</em><br>
+Oh, what should we do! I'll call someone right away!<br><br>
 <span class="keigo-badge bad">Destroys trust</span> Sounds unprepared. The guest feels the hotel cannot handle the situation.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Controlled Response</span>
-<span class="keigo-jp"><code>申し訳ございません。ただいますぐ対応いたします。</code></span>
-<br><em>moushiwake gozaimase n. tada ima sugu taiou itashimasu.</em><br>
-<br>
+<span class="keigo-jp"><code>申し訳ございません。ただいますぐ対応いたします。</code></span><br>
+<em>moushiwake gozaimasen. tadaima sugu taiou itashimasu.</em><br>
+I sincerely apologize. We will address this immediately.<br><br>
 <span class="keigo-badge good">Builds trust</span> Calm and decisive. The guest feels the hotel is in control.
 </div>
 </div>
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>部屋の電気が全部消えました。</code></span><br>
-<em>heya no denki ga zembu kie mashita.</em><br>
+<em>heya no denki ga zenbu kiemashita.</em><br>
 All the lights in my room went out.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ただいまスタッフがお部屋へお伺いいたします。少々お待ちくださいませ。</code></span><br>
-<em>moushiwake gozaimase n. tadaima sutaffu ga o-heya e o ukagai itashimasu. shoushou omachi kudasaimase.</em><br>
-I sincerely apologize. A staff member will come to your room immediately. Please wait a moment.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>お部屋番号をご確認させていただけますでしょうか。</code></span><br>
-<em>o-heya bangou o go-kakunin sa se te itadake masu deshou ka.</em><br>
-May I confirm your room number?
+<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。お部屋番号をお教えいただけますでしょうか。</code></span><br>
+<em>moushiwake gozaimasen. o-heya bangou o o-oshie itadake masu deshou ka.</em><br>
+I sincerely apologize. Could you tell me your room number?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>503号室です。</code></span><br>
+<em>go-hyaku-san goushitsu desu.</em><br>
+Room 503.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>503号室でございますね。ただいまスタッフがお部屋へ向かいます。少々お待ちくださいませ。</code></span><br>
+<em>go-hyaku-san goushitsu de gozaimasu ne. tadaima sutaffu ga o-heya e mukaimasu. shoushou o-machi kudasaimase.</em><br>
+Room 503, understood. A staff member is heading to your room now. Please wait a moment.
 </div>
 
 <div class="keigo-card blue">
@@ -44,10 +47,12 @@ I feel unwell. Please help.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。すぐに対応いたします。お部屋番号をお教えいただけますでしょうか。</code></span><br>
 <em>kashikomarimashita. sugu ni taiou itashimasu. o-heya bangou o o oshie itadake masu deshou ka.</em><br>
 Understood. We will respond immediately. Could you tell me your room number?<br><br>
-<em>[After getting room number]</em><br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ただいまスタッフが向かいます。お電話を切らずにいらっしゃいますか。</code></span><br>
-<em>tadaima sutaffu ga mukaimasu. o-denwa o kira zu ni irasshaimasu ka.</em><br>
-Staff are on their way now. Are you able to stay on the line?
+<strong>Guest:</strong> <span class="keigo-jp"><code>302号室です。</code></span><br>
+<em>sanbyaku-ni goushitsu desu.</em><br>
+Room 302.<br><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>302号室でございますね。ただいますぐスタッフが向かいます。お電話を切らずにいらっしゃいますか。</code></span><br>
+<em>sanbyaku-ni goushitsu de gozaimasu ne. tadaima sugu sutaffu ga mukaimasu. o-denwa wo kirazu ni irasshaimasu ka.</em><br>
+Room 302, understood. Staff are heading to you right now. Are you able to stay on the line?
 </div>
 
 ---

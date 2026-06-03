@@ -13,8 +13,8 @@ Transferring a call is not a handoff; it is coordination. The framing of the tra
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Mechanical</span>
-<span class="keigo-jp"><code>回します。</code></span>
-<br><em>まわします</em><br>
+<span class="keigo-jp"><code>回します。</code></span><br>
+<em>まわします</em><br>
 I'll put you through.<br><br>
 <span class="keigo-badge bad">Problem</span> Sounds like the guest is being handed off as a task. Informal and impersonal. The guest feels processed, not served.
 </div>
@@ -32,12 +32,18 @@ I will connect you to the restaurant.<br><br>
 <em>resutoran no yoyaku o shitai no desu ga.</em><br>
 I'd like to make a restaurant reservation.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。レストラン担当へおつなぎいたします。少々お待ちくださいませ。</code></span><br>
-<em>kashikomarimashita. resutoran tantou e o tsunagi itashimasu. shoushou omachi kudasaimase.</em><br>
+<em>kashikomarimashita. resutoran tantou e o-tsunagi itashimasu. shoushou o-machi kudasaimase.</em><br>
 Certainly. I will connect you to our restaurant team. Please wait a moment.<br><br>
-<em>[After connecting]</em><br><br>
-<strong>Restaurant staff:</strong> <span class="keigo-jp"><code>レストランでございます。お電話ありがとうございます。</code></span><br>
-<em>resutoran de gozaimasu. o-denwa arigatou gozaimasu.</em><br>
-This is the restaurant. Thank you for your call.
+<em>[ Transferring to restaurant ]</em><br><br>
+<strong>Restaurant staff:</strong> <span class="keigo-jp"><code>レストランでございます。お電話ありがとうございます。ご予約のご希望でしょうか。</code></span><br>
+<em>resutoran de gozaimasu. o-denwa arigatou gozaimasu. go-yoyaku no go-kibou deshou ka.</em><br>
+This is the restaurant. Thank you for your call. Are you looking to make a reservation?<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>はい、明日の夜、2名でお願いしたいのですが。</code></span><br>
+<em>hai, ashita no yoru, 2 mei de onegai shitai no desu ga.</em><br>
+Yes, I'd like a table for two tomorrow evening.<br><br>
+<strong>Restaurant staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu ka.</em><br>
+Certainly. Do you have a preferred time?
 </div>
 
 When transferring, **always state the destination before placing the guest on hold**. Never silently connect without explanation.

@@ -8,49 +8,54 @@ This lesson applies the structure from Part 1 to a complete email example, then 
 
 ## A Complete Email Example
 
-<div class="keigo-card blue">
-<strong>件名 (Subject):</strong><br>
-<span class="keigo-jp"><code>【ご予約確認】山田様 8月10日〜11日 1泊</code></span><br><br>
-<em>【 go-yoyaku kakunin 】 yamada sama 8 tsuki 10 nichi 〜 11 nichi 1 haku</em><br>
-<strong>Opening:</strong><br>
-<span class="keigo-jp"><code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code></span><br><br>
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">件名 (Subject)</span>
+<code>【ご予約確認】山田様 8月10日〜11日 1泊</code><br>
+<span class="email-en">Reservation Confirmation – Mr. Yamada | August 10–11 (1 Night)</span><br>
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、当ホテルをご予約いただき、誠にありがとうございます。</code><br>
 <em>kono tabi wa, tou hoteru o go-yoyaku itadaki, makotoni arigatou gozaimasu.</em><br>
-<strong>Body:</strong><br>
-<span class="keigo-jp"><code>ご予約内容は以下のとおりでございます。</code></span><br>
+<span class="email-en">Thank you very much for choosing our hotel. We are pleased to confirm your reservation.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご予約内容は以下のとおりでございます。</code><br>
 <em>go-yoyaku naiyou wa ika no touri de gozaimasu.</em><br>
-<span class="keigo-jp"><code>チェックイン：8月10日（土）15:00〜</code></span><br>
-<em>chekkuin : 8 tsuki 10 nichi ( do ) 15 : 00 〜</em><br>
-<span class="keigo-jp"><code>チェックアウト：8月11日（日）11:00</code></span><br>
-<em>chekku auto : 8 tsuki 11 nichi ( hi ) 11 : 00</em><br>
-<span class="keigo-jp"><code>ご宿泊人数：2名様</code></span><br><br>
-<em>go shukuhaku ninzu : 2 mei sama</em><br>
-<span class="keigo-jp"><code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code></span><br><br>
-<em>go touchaku mae ni go fumei ten nado gozai mashitara, o kigaru ni o toiawase kudasaimase.</em><br>
-<strong>Closing:</strong><br>
-<span class="keigo-jp"><code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code></span><br>
-<em>sutaffu ichidou, go touchaku o kokoro yori omachi moushiage te orimasu.</em><br>
-All of our staff sincerely look forward to your arrival.
+<span class="email-en">Your reservation details are as follows:</span><br><br>
+<div class="email-details">
+<code>チェックイン：8月10日（土）15:00〜</code>
+<span class="email-en">Check-in: Saturday, August 10, from 3:00 PM</span>
+<code>チェックアウト：8月11日（日）11:00</code>
+<span class="email-en">Check-out: Sunday, August 11, by 11:00 AM</span>
+<code>ご宿泊人数：2名様</code>
+<span class="email-en">Number of Guests: 2</span>
+</div><br>
+<code>ご到着前にご不明点などございましたら、お気軽にお問い合わせくださいませ。</code><br>
+<em>go-touchaku mae ni go-fumeiten nado gozaimashitara, o-kigaru ni o-toiawase kudasaimase.</em><br>
+<span class="email-en">If you have any questions before your arrival, please do not hesitate to contact us.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>スタッフ一同、ご到着を心よりお待ち申し上げております。</code><br>
+<em>sutaffu ichidou, go-touchaku o kokoro yori omachi moushiagete orimasu.</em><br>
+<span class="email-en">We look forward to welcoming you to our hotel.</span>
 </div>
 
 Notice how all three parts work together: the opening acknowledges the new booking with this-occasion language (この度は), the body states facts using でございます and handles the mid-body question invitation with くださいませ, and the closing uses the collective warmth of スタッフ一同 with a sincere pre-arrival expression.
 
 ## The Tone Check
 
-Before sending, verify the email meets the standard at each level.
+Before sending an email, verify that it meets the hotel standard at every level:
 
-Subject line is specific and clearly labeled with 【】
+- The subject line is specific and clearly labeled using 【】.
 
-Opening matches the guest's relationship type (first-time / repeat / VIP)
+- The opening is appropriate for the guest relationship (first-time guest, returning guest, or VIP).
 
-Opening matches the email type (reservation / notice / apology / post-stay)
+- The opening matches the purpose of the email (reservation confirmation, notification, apology, or post-stay follow-up).
 
-Body is organized with one topic per paragraph
+- The body is well organized, with one main topic per paragraph.
 
-Closing creates the right emotional impression for the email type
+- The closing creates the appropriate final impression for the type of email.
 
-Register is consistent from opening to closing
+- The tone remains consistent from the opening to the closing.
 
-No casual language, excessive keigo, or abrupt endings
+- The email contains no casual language, excessive keigo, or abrupt endings.
 
 ---
 

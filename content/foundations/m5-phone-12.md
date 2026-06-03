@@ -4,60 +4,51 @@ section: 12
 title: Complaint Calls: The 4-A Framework
 ---
 
-Complaint calls are the highest emotional risk scenario in telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem; they are communicating that their experience did not meet expectations.
+Complaint calls represent one of the highest-stakes interactions in hotel telephone service. Guests who contact the hotel with a complaint are often experiencing frustration, disappointment, or dissatisfaction. In many cases, they are not only reporting an issue but also expressing that their expectations have not been met.
 
-The staff member's primary goal is **not to solve the problem immediately**. It is to stabilize the guest's emotional state first. An upset guest cannot process solutions. A calm guest can.
-
-## The Complaint Handling Principle
-
-Guest emotion follows a predictable path:
-
-Frustration → Need to be heard → Need to be validated → Ready to hear solutions
-
-If staff skip to "solutions" before the guest feels heard, the emotional tension escalates rather than resolves. The fastest path to resolution is always: acknowledge first, solve second.
+For this reason, the staff member's immediate objective is not to provide a solution as quickly as possible. The first step is to restore trust and reduce the guest's level of frustration. Once guests feel that their concerns have been acknowledged and understood, they are much more willing to engage in finding a resolution.
 
 ## The 4-A Framework
 
-- **1. Apologize:** Express genuine regret immediately, before asking any questions.
-- **2. Acknowledge:** Confirm you understand what the guest has experienced.
-- **3. Act:** State clearly what action will be taken, and when.
-- **4. Assure:** Confirm the situation will be resolved and that the guest can rely on the staff.
+Guest emotion follows a predictable path: Frustration → Need to be heard → Need to be validated → Ready to hear solutions. Skipping to solutions before the guest feels heard escalates tension rather than resolving it. The 4-A Framework follows this emotional path step by step.
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">1. Apologize</span>
+Express genuine regret immediately, before asking any questions.<br><br>
+<span class="keigo-pair-label">2. Acknowledge</span>
+Confirm you understand what the guest has experienced.<br><br>
+<span class="keigo-pair-label">3. Act</span>
+State clearly what action will be taken, and when.<br><br>
+<span class="keigo-pair-label">4. Assure</span>
+Confirm the situation will be resolved and that the guest can rely on the staff.
+</div>
 
 ## Noise Complaint Script
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>隣の部屋がうるさくて眠れません。</code></span><br>
-<em>tonari no heya ga urusaku te nemure mase n.</em><br>
+<em>tonari no heya ga urusaku te nemure masen.</em><br>
 The room next to mine is so noisy I can't sleep.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
-[Apologize] I sincerely apologize for the inconvenience this is causing you.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ただいまの状況、確かに承りました。</code></span><br>
-<em>tada ima no joukyou, tashika ni uketamawarimashita.</em><br>
-[Acknowledge] I have clearly understood the situation you are experiencing.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>すぐにスタッフが確認にまいります。</code></span><br>
-<em>sugu ni sutaffu ga kakunin ni mairimasu.</em><br>
-[Act] A staff member will check on it immediately.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>必ず対応いたしますので、もう少々お待ちいただけますでしょうか。</code></span><br>
-<em>kanarazu taiou itashimasu node, mou shoushou omachi itadake masu deshou ka.</em><br>
-[Assure] We will absolutely resolve this. Could you please wait just a little longer?
+<strong>Staff:</strong> <span class="keigo-jp"><code>誠に申し訳ございません。隣のお部屋の音でご不便をおかけしてしまっておりますね。</code></span><br>
+<em>makoto ni moushiwake gozaimasen. tonari no o-heya no oto de go-fuben wo okake shite shimatte orimasu ne.</em><br>
+<span class="keigo-badge bad">Apologize</span> I sincerely apologize. <span class="keigo-badge info">Acknowledge</span> I completely understand how uncomfortable that must be.<br><br>
+<span class="keigo-jp"><code>ただいまスタッフが確認にまいります。ご対応いたしますので、少々お待ちいただけますでしょうか。</code></span><br>
+<em>tadaima sutaffu ga kakunin ni mairimasu. go-taiou itashimasu node, shoushou o-machi itadake masu deshou ka.</em><br>
+<span class="keigo-badge good">Act</span> A staff member will check on it right away. <span class="keigo-badge use">Assure</span> We will take care of this. Could you please wait just a moment?
 </div>
 
 ## Facility Problem Script
 
 <div class="keigo-card blue">
 <strong>Guest:</strong> <span class="keigo-jp"><code>エアコンが動きません。</code></span><br>
-<em>eakon ga ugoki mase n.</em><br>
+<em>eakon ga ugokimasen.</em><br>
 The air conditioning isn't working.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>申し訳ございません。ご不便をおかけしております。</code></span><br>
-<em>moushiwake gozaimase n. go fuben o okake shite orimasu.</em><br>
-I am very sorry. We apologize for the inconvenience.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>すぐに担当スタッフがお部屋へお伺いいたします。</code></span><br>
-<em>sugu ni tantou sutaffu ga o-heya e o ukagai itashimasu.</em><br>
-Our maintenance staff will come to your room immediately.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>ご不便の間、何かご用意できることがあればお申し付けくださいませ。</code></span><br>
-<em>go fuben no ma, nani ka go-youi dekiru koto ga are ba o moushitsuke kudasaimase.</em><br>
-While we are resolving this, please let us know if there is anything we can provide for your comfort.
+<strong>Staff:</strong> <span class="keigo-jp"><code>誠に申し訳ございません。エアコンの件、大変ご不便をおかけしております。</code></span><br>
+<em>makoto ni moushiwake gozaimasen. eakon no ken, taihen go-fuben wo okake shite orimasu.</em><br>
+<span class="keigo-badge bad">Apologize</span> I sincerely apologize. <span class="keigo-badge info">Acknowledge</span> I understand how uncomfortable that must be.<br><br>
+<span class="keigo-jp"><code>ただいまメンテナンススタッフがお部屋へ向かいます。ご不便の間、何かお持ちできるものがございましたらお申し付けくださいませ。</code></span><br>
+<em>tadaima mentenansu sutaffu ga o-heya e mukaimasu. go-fuben no aida, nanika o-mochi dekiru mono ga gozaimashitara o-moushitsuke kudasaimase.</em><br>
+<span class="keigo-badge good">Act</span> Our maintenance staff will head to your room right away. <span class="keigo-badge use">Assure</span> While we resolve this, please let us know if there is anything we can bring you.
 </div>
 
 ---

@@ -25,8 +25,8 @@ In everyday Japanese, telephone communications begin with もしもし (moshi mo
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Casual Opening</span>
-<span class="keigo-jp"><code>もしもし / はい</code></span>
-<br><em>moshi moshi / hai</em><br><br>
+<span class="keigo-jp"><code>もしもし / はい</code></span><br>
+<em>moshi moshi / hai</em><br><br>
 <span class="keigo-badge bad">Problems</span>
 Does not identify the hotel<br>
 Does not welcome the guest<br>
@@ -35,8 +35,8 @@ Signals no service preparation
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Professional Opening</span>
-<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span>
-<br><em>o-denwa arigatou gozaimasu. hoteru ○○ de gozaimasu.</em><br>
+<span class="keigo-jp"><code>お電話ありがとうございます。ホテル○○でございます。</code></span><br>
+<em>o-denwa arigatou gozaimasu. hoteru ○○ de gozaimasu.</em><br>
 Thank you for your call. This is Hotel ○○.<br><br>
 <span class="keigo-badge good">Achieves</span>
 Thanks the guest, reduces tension immediately<br>

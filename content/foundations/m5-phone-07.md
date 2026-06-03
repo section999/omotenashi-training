@@ -36,6 +36,9 @@ Yes, that's right.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。キャンセルを承りました。</code></span><br>
 <em>kashikomarimashita. kyanseru o uketamawarimashita.</em><br>
 Certainly. Your cancellation has been processed.<br><br>
+<strong>Guest:</strong> <span class="keigo-jp"><code>ありがとうございます。</code></span><br>
+<em>arigatou gozaimasu.</em><br>
+Thank you.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>またのご利用をお待ちしております。お電話ありがとうございました。</code></span><br>
 <em>mata no go-riyou o omachi shite orimasu. o-denwa arigatou gozaimashita.</em><br>
 We look forward to welcoming you in the future. Thank you for your call.
@@ -48,8 +51,8 @@ The choice of words when confirming a cancellation matters significantly:
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Cold and Transactional</span>
-<span class="keigo-jp"><code>キャンセルしました</code></span>
-<br><em>kyanseru shimashita</em><br>
+<span class="keigo-jp"><code>キャンセルしました</code></span><br>
+<em>kyanseru shimashita</em><br>
 The reservation was cancelled.<br><br>
 <span class="keigo-badge bad">Problem</span> Sounds mechanical and detached. Signals that the relationship is over.
 </div>
@@ -64,13 +67,16 @@ Your cancellation has been received.<br><br>
 
 ## Communicating Cancellation Fees
 
-If a cancellation fee applies, it must be communicated clearly but gently. Never state a fee bluntly; frame it as policy, not punishment:
+If a cancellation fee applies, frame it as policy, not a personal decision. Never state a fee bluntly.
 
-**誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。**
-*makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.*
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Standard phrase</span>
+<span class="keigo-jp"><code>誠に恐れ入りますが、ご予約のキャンセルポリシーにより、キャンセル料が発生いたします。</code></span><br>
+<em>makoto ni osore irimasu ga, go-yoyaku no kyanseru porishii ni yori, kyanseru ryou ga hassei itashimasu.</em><br>
 I am sorry to inform you, but per the reservation cancellation policy, a cancellation fee will apply.
+</div>
 
-誠に恐れ入りますが softens the delivery of unwelcome information. The fee is framed as policy, not a personal decision by the hotel.
+誠に恐れ入りますが softens the delivery of unwelcome information. Attributing the fee to policy (キャンセルポリシーにより) makes clear it is not a personal decision by the staff member.
 
 ## The Philosophy of the Warm Closing
 

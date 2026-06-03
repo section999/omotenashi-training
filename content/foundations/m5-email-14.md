@@ -4,36 +4,31 @@ section: 14
 title: Apology Email Template
 ---
 
-An apology email is one of the most critical communications a hotel sends. It can either restore trust or damage it further, depending entirely on how it is written. The language must be sincere, take clear responsibility, explain what is being done, and close with care, all without making excuses.
+An apology email is one of the most critical communications a hotel can send, as it can either restore guest trust or further damage it depending on how it is written. The language must be sincere and accountable, clearly addressing the issue, explaining what is being done to resolve it, and closing with care, without making excuses.
 
-## What This Email Must Accomplish
-
-**1. Acknowledge:** Name the specific inconvenience immediately. Do not delay the apology with an unrelated opening.
-
-**2. Accept:** Take clear responsibility. Never blame circumstances, other guests, or equipment.
-
-**3. Act:** State what has been done or will be done to resolve or prevent recurrence.
-
-**4. Support:** End with an offer for continued assistance, not a sales-oriented closing.
+This email must accomplish four key goals: acknowledge the specific inconvenience immediately without delaying the apology with unrelated information; accept responsibility clearly without shifting blame to circumstances, equipment, or other guests; explain what actions have been taken or will be taken to resolve the issue and prevent recurrence; and close with a supportive offer of further assistance rather than a promotional or sales-oriented message.
 
 ## Full Template
 
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>この度は、ご不便をおかけし、誠に申し訳ございません。</code></span><br>
-<em>kono tabi wa, go fuben o okake shi, makotoni moushiwake gozaimase n.</em><br>
-We sincerely apologize for the inconvenience caused on this occasion.<br><br>
-<span class="keigo-jp"><code>ご滞在中に[issue]によりご不便をおかけしましたこと、重ねてお詫び申し上げます。</code></span><br>
-<em>go-taizai chu ni [ issue ] niyori go fuben o okake shimashita koto, kasane te owabi moushiage masu.</em><br>
-We sincerely apologize again for the inconvenience caused during your stay by [issue].<br><br>
-<span class="keigo-jp"><code>現在、[specific action taken or planned]に向けて取り組んでおります。</code></span><br>
-<em>genzai, [ specific action taken or planned ] ni muke te torikun de orimasu.</em><br>
-We are currently working on [specific action taken or planned].<br><br>
-<span class="keigo-jp"><code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります。</code></span><br>
-<em>douyou no jitai ga saihatsu shi nai you, sutaffu ichi dou kaizen ni tsutome te mairimasu.</em><br>
-All of our staff will work to prevent the same situation from occurring again.<br><br>
-<span class="keigo-jp"><code>今後ともどうぞよろしくお願い申し上げます。ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>kongo to mo douzo yoroshiku onegai moushiage masu. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
-We humbly ask for your continued support. Please feel free to contact us if you have any questions.
+<div class="keigo-card blue email-example">
+<span class="keigo-pair-label">Opening</span>
+<code>この度は、ご不便をおかけし、誠に申し訳ございません。</code><br>
+<em>kono tabi wa, go-fuben o okake shi, makotoni moushiwake gozaimasen.</em><br>
+<span class="email-en">We sincerely apologize for the inconvenience caused on this occasion.</span><br>
+<span class="keigo-pair-label">Body</span>
+<code>ご滞在中に[issue]によりご不便をおかけしましたこと、重ねてお詫び申し上げます。</code><br>
+<em>go-taizai-chuu ni [issue] ni yori go-fuben o o-kake shimashita koto, kasanete o-wabi moushiagemasu.</em><br>
+<span class="email-en">We sincerely apologize again for the inconvenience caused during your stay by [issue].</span><br><br>
+<code>現在、[specific action taken or planned]に向けて取り組んでおります。</code><br>
+<em>genzai, [specific action taken or planned] ni mukete torikunde orimasu.</em><br>
+<span class="email-en">We are currently working on [specific action taken or planned].</span><br><br>
+<code>同様の事態が再発しないよう、スタッフ一同改善に努めてまいります。</code><br>
+<em>douyou no jitai ga saihatsu shinai you, sutaffu ichidou kaizen ni tsutomete mairimasu.</em><br>
+<span class="email-en">All of our staff will work to prevent the same situation from occurring again.</span><br>
+<span class="keigo-pair-label">Closing</span>
+<code>今後ともどうぞよろしくお願い申し上げます。ご不明点などございましたら、お気軽にご連絡くださいませ。</code><br>
+<em>kongo to mo douzo yoroshiku onegai moushiagemasu. go-fumeiten nado gozaimashitara, o-kigaru ni go-renraku kudasaimase.</em><br>
+<span class="email-en">We humbly ask for your continued support. Please feel free to contact us if you have any questions.</span>
 </div>
 
 The apology is stated in the opening line. There is no gratitude phrase before it. Starting with ありがとうございます before acknowledging an apology sounds tone-deaf and signals that the hotel is following a template without reading the situation.
@@ -43,19 +38,19 @@ Name the specific issue. A general apology without naming what happened sounds d
 ## Phrases to Avoid in Apology Emails
 
 <div class="keigo-card blue">
-<strong>Excuse language:</strong> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br><br>
-<em>setsubi no roukyu ka niyori go fuben o okake shimashita</em><br>
-<strong>Overly cheerful closing:</strong> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br><br>
-<em>mata no okoshi o omachi shite orimasu!</em><br>
-<strong>Vague resolution:</strong> <span class="keigo-jp"><code>今後気をつけます</code></span><br>
-<em>kongo ki o tsuke masu</em>
-</div>
-
-Blaming equipment age shifts responsibility away from the hotel. The guest does not care why; they care about the impact and the response.
-
-After a genuine apology, an enthusiastic return invitation sounds like the hotel has already moved on from the guest's experience.
-
+<span class="keigo-pair-label">Excuse language</span>
+<span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>設備の老朽化によりご不便をおかけしました</code></span><br>
+<em>setsubi no roukyuuka ni yori go-fuben o o-kake shimashita.</em><br>
+Blaming equipment age shifts responsibility away from the hotel. The guest does not care why; they care about the impact and the response.<br><br>
+<span class="keigo-pair-label">Overly cheerful closing</span>
+<span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>またのお越しをお待ちしております！</code></span><br>
+<em>mata no o-koshi o o-machi shite orimasu!</em><br>
+After a genuine apology, an enthusiastic return invitation sounds like the hotel has already moved on from the guest's experience.<br><br>
+<span class="keigo-pair-label">Vague resolution</span>
+<span class="keigo-badge bad">Avoid</span> <span class="keigo-jp"><code>今後気をつけます</code></span><br>
+<em>kongo ki o tsukemasu.</em><br>
 "We will be more careful in the future" with no specifics sounds empty. Name the actual action being taken.
+</div>
 
 ## The Tone of a Sincere Apology
 

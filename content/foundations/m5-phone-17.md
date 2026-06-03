@@ -10,11 +10,11 @@ This lesson covers the five most frequent mistakes in telephone communication an
 
 | Mistake | Example | Operational Consequence |
 |---|---|---|
-| Casual language | 分かりました、OKです | Reduces guest perception of hotel quality |
-| Missing confirmation | Processing without repeating details | Booking errors, wrong dates, wrong names |
-| Unexplained silence | Going silent during system checks | Guest anxiety, calls feel disconnected |
-| Emotional reaction | Sighing, surprised responses | Escalates complaints, loses trust |
-| Skipping the closing | Ending abruptly | Interaction feels incomplete; negative final impression |
+| Casual language | <span>分かりました、OKです</span> instead of <span>かしこまりました</span> | Guest perceives the hotel as unprofessional; service register is broken |
+| Missing confirmation | Taking a reservation without repeating dates or name back | Booking errors enter the system undetected; wrong dates, wrong guest |
+| Unexplained silence | Going quiet during a system check with no narration | Guest believes the call has failed or the staff is confused |
+| Emotional reaction | <span>えっ！どうしましょう！</span> in response to a complaint | Guest loses confidence in the hotel's ability to handle the situation |
+| Skipping the closing | Ending the call abruptly after the request is handled | Guest's final impression is incomplete; relationship does not close warmly |
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>確認いたしますので少々お待ちくださいませ。</code></span><br>

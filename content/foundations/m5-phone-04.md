@@ -10,22 +10,28 @@ This lesson covers apology and closing expressions, along with one of the most i
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>申し訳ございません</code></span><br>
-<em>moushiwake gozaimasen</em>: I am very sorry (standard formal apology)<br><br>
+<em>moushiwake gozaimasen</em><br>
+I am very sorry (standard formal apology)<br><br>
 <span class="keigo-jp"><code>ご不便をおかけし申し訳ございません</code></span><br>
-<em>go-fuben wo okake shi moushiwake gozaimasen</em>: I sincerely apologize for the inconvenience caused<br><br>
+<em>go-fuben wo okake shi moushiwake gozaimasen</em><br>
+I sincerely apologize for the inconvenience caused<br><br>
 <span class="keigo-jp"><code>誠に恐れ入りますが</code></span><br>
-<em>makoto ni osore irimasu ga</em>: I am truly sorry to trouble you, but... (soft prefix before a refusal or limitation)
+<em>makoto ni osore irimasu ga</em><br>
+I am truly sorry to trouble you, but... (soft prefix before a refusal or limitation)
 </div>
 
 ## Closing Expressions
 
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>お電話ありがとうございました</code></span><br>
-<em>o-denwa arigatou gozaimashita</em>: Thank you for your call<br><br>
+<em>o-denwa arigatou gozaimashita</em><br>
+Thank you for your call<br><br>
 <span class="keigo-jp"><code>またのご利用をお待ちしております</code></span><br>
-<em>mata no go-riyou wo o-machi shite orimasu</em>: We look forward to serving you again<br><br>
+<em>mata no go-riyou wo o-machi shite orimasu</em><br>
+We look forward to serving you again<br><br>
 <span class="keigo-jp"><code>どうぞよろしくお願いいたします</code></span><br>
-<em>douzo yoroshiku o-negai itashimasu</em>: Thank you in advance (closing before action is taken on your behalf)
+<em>douzo yoroshiku o-negai itashimasu</em><br>
+Thank you in advance (closing before action is taken on your behalf)
 </div>
 
 ## Critical Distinction: Three Ways to Say "I Understand"

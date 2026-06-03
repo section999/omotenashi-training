@@ -8,55 +8,78 @@ This lesson continues with two more polish rules and a practical test for review
 
 ## Rule 4: Never End Abruptly
 
-An email that ends with the last piece of information, without a closing phrase, feels cold and incomplete. Even short emails need a proper closing.
+An email that ends without a closing statement can feel abrupt and cold. Even the shortest emails benefit from a courteous closing that conveys professionalism and hospitality.
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Abrupt ending</span>
 <span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
 <em>go-yoyaku o kakunin itashimashita.</em><br>
+We have confirmed your reservation.<br>
 [End of email]<br><br>
 <span class="keigo-badge bad">Cold</span> Grammatically correct but emotionally flat. The guest feels processed, not welcomed.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Complete ending</span>
-<span class="keigo-jp"><code>ご予約を確認いたしました。</code></span><br>
-<em>go-yoyaku o kakunin itashimashita.</em><br>
-<span class="keigo-jp"><code>ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
-<em>go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br><br>
+<span class="keigo-jp"><code>ご予約を確認いたしました。ご不明点などございましたら、お気軽にご連絡くださいませ。</code></span><br>
+<em>go-yoyaku o kakunin itashimashita. go fumei ten nado gozai mashitara, o kigaru ni go-renraku kudasaimase.</em><br>
+We have confirmed your reservation. If you have any questions, please feel free to contact us.<br><br>
 <span class="keigo-badge good">Complete</span> Adds support and warmth after the information.
 </div>
 </div>
 
 ## Rule 5: Sentence-Level Polish
 
-Small word choices within the body of an email create a significant difference in perceived quality. Know the hotel-standard replacements.
+Small word choices can have a significant impact on how an email is perceived by guests. Understanding the preferred language used in hotel communication helps create a more professional and polished impression.
 
-| Everyday Form | Hotel Email Standard | Why It Changes |
-|---|---|---|
-| <span>ありがとうございます</span> | <span>誠にありがとうございます</span> | <span>誠に adds genuine sincerity; prevents the phrase from sounding automatic</span> |
-| <span>ください</span> | <span>くださいませ</span> | <span>ませ softens the request; the guest feels guided rather than instructed</span> |
-| <span>確認してください</span> | <span>ご確認いただけますと幸いでございます</span> | Transforms a command into a humble invitation; the guest retains full autonomy |
-| <span>問題ありません</span> | <span>ご安心くださいませ</span> | Shifts focus from dismissing the concern to caring for the guest's peace of mind |
-| <span>また来てください</span> | <span>またのお越しをお待ちしております</span> | Expresses genuine anticipation from the hotel's side rather than an instruction to the guest |
-| <span>わかりました</span> | <span>かしこまりました / 承りました</span> | Signals both full understanding and service commitment, not just acknowledgment |
+<div class="keigo-card blue">
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>ありがとうございます</code></span><br>
+<em>arigatou gozaimasu.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>誠にありがとうございます</code></span><br>
+<em>makotoni arigatou gozaimasu.</em><br>
+誠に adds genuine sincerity; prevents the phrase from sounding automatic.<br><br>
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>ください</code></span><br>
+<em>kudasai.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>くださいませ</code></span><br>
+<em>kudasaimase.</em><br>
+ませ softens the request; the guest feels guided rather than instructed.<br><br>
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>確認してください</code></span><br>
+<em>kakunin shite kudasai.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>ご確認いただけますと幸いでございます</code></span><br>
+<em>go-kakunin itadakemasu to saiwai de gozaimasu.</em><br>
+Transforms a command into a humble invitation; the guest retains full autonomy.<br><br>
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>問題ありません</code></span><br>
+<em>mondai arimasen.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>ご安心くださいませ</code></span><br>
+<em>go-anshin kudasaimase.</em><br>
+Shifts focus from dismissing the concern to caring for the guest's peace of mind.<br><br>
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>また来てください</code></span><br>
+<em>mata kite kudasai.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>またのお越しをお待ちしております</code></span><br>
+<em>mata no okoshi o omachi shite orimasu.</em><br>
+Expresses genuine anticipation from the hotel's side rather than an instruction to the guest.<br><br>
+<span class="keigo-badge bad">Everyday</span> <span class="keigo-jp"><code>わかりました</code></span><br>
+<em>wakarimashita.</em><br>
+<span class="keigo-badge good">Hotel</span> <span class="keigo-jp"><code>かしこまりました / 承りました</code></span><br>
+<em>kashikomarimashita / uketamawarimashita.</em><br>
+Signals both full understanding and service commitment, not just acknowledgment.
+</div>
 
-## The Test: Read from the Guest's Perspective
+## A Final Check: Read from the Guest's Perspective
 
-Before sending any email, read it as if you are the guest receiving it for the first time. Ask:
+Before sending any email, take a moment to read it as if you were the guest receiving it for the first time. Ask yourself:
 
-1. Does the opening match the guest's relationship type?
+- Does the opening feel appropriate for this guest and situation?
 
-2. Is the register consistent from opening to closing?
+- Is the tone consistent throughout the email?
 
-3. Is there anything that sounds too casual, too stiff, or emotionally cold?
+- Does any part of the message sound too casual, overly formal, or lacking in warmth?
 
-4. Does the closing create the right final impression?
+- Does the closing leave a positive and professional final impression?
 
-5. Would a guest reading this feel genuinely welcomed and cared for?
+- Would the guest feel genuinely welcomed, valued, and cared for?
 
-
-If any answer is no, revise before sending.
+If the answer to any of these questions is no, revise the email before sending it.
 
 ---
 
