@@ -16,7 +16,7 @@ Only after this acknowledgement should the bill or formalities follow. Leading w
 
 ## The Farewell at the Entrance
 
-In a ryokan, staff traditionally accompany the guest to the entrance and remain there, bowing, until the guest's vehicle is out of sight. This is called **お見送り (*osōkuri*)**, the send-off. It communicates that the guest's departure is genuinely felt, not simply processed.
+In a ryokan, staff traditionally accompany the guest to the entrance and remain there, bowing, until the guest's vehicle is out of sight. This is called **お見送り**, the send-off. It communicates that the guest's departure is genuinely felt, not simply processed.
 
 Even in hotel contexts where a full osōkuri is impractical, the principle still applies. Make eye contact, bow, and do not turn away until the guest has passed through the door.
 

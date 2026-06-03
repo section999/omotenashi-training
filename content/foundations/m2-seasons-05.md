@@ -19,17 +19,17 @@ The following phrases are appropriate from December through February:
 
 Traditional New Year's decorations reflect the cultural significance of the season:
 
-- 門松 (*Kadomatsu*): pine and bamboo gate decorations placed at entrances
-- 注連飾り (*Shimekazari*): sacred rope ornaments displayed above doorways
-- 鏡餅 (*Kagami mochi*): stacked rice cakes displayed as a symbol of the New Year
+- 門松: pine and bamboo gate decorations placed at entrances
+- 注連飾り: sacred rope ornaments displayed above doorways
+- 鏡餅: stacked rice cakes displayed as a symbol of the New Year
 - Warm lighting, dark lacquerware, and heavy ceramics with winter motifs
-- After New Year, subtle plum blossom (*ume*) themes signal the arrival of late winter
+- After New Year, subtle plum blossom (梅) themes signal the arrival of late winter
 
 
 ## Seasonal Food and Drink
 
-- おせち料理 (*Osechi ryōri*): the traditional New Year's meal, in which each dish carries symbolic meaning, black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
-- Winter hot pot (*nabe*): communal, warming, and deeply seasonal
+- おせち料理: the traditional New Year's meal, in which each dish carries symbolic meaning, black beans for health, herring roe for fertility, and so on. Knowing the symbolism allows staff to explain the meal meaningfully to guests.
+- Winter hot pot (鍋): communal, warming, and deeply seasonal
 - Warming sake, amazake (甘酒, sweet fermented rice drink), and yuzu-based drinks
 
 

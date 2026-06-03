@@ -10,9 +10,9 @@ title: Bowing, Ojigi, the Language of Respect
 
 | Angle | Name | Context |
 |---|---|---|
-| 15° | 会釈 (*eshaku*) | Passing a colleague in a corridor; brief acknowledgement |
-| 30° | 敬礼 (*keirei*) | Standard greeting and farewell with guests; thank-you |
-| 45° | 最敬礼 (*saikeirei*) | Deep gratitude; sincere apology; VIP reception |
+| 15° | 会釈 | Passing a colleague in a corridor; brief acknowledgement |
+| 30° | 敬礼 | Standard greeting and farewell with guests; thank-you |
+| 45° | 最敬礼 | Deep gratitude; sincere apology; VIP reception |
 
 ## Correct Bowing Technique
 

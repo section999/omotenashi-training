@@ -16,7 +16,7 @@ The communal onsen operates according to a set of customs that are not merely po
 ## In the Bath
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">Enter slowly and quietly.</span> Onsen are places of calm. Splashing, loud conversation, and running are inappropriate.<br><br><span class="keigo-badge info">Small towel handling.</span> The small modesty towel (*tenugui*) does not go into the bath. It may be placed folded on the head or left at the bath's edge.<br><br><span class="keigo-badge info">No swimming or vigorous movement.</span> The bath is for soaking, not exercise.<br><br><span class="keigo-badge info">Time your soak.</span> Onsen water is hot, typically 40 to 44°C. First-time bathers should soak in shorter intervals (10 to 15 minutes) and rest between sessions.<br><br><span class="keigo-badge info">Hair must not touch the water.</span> Long hair should be tied up or pinned.
+<span class="keigo-badge info">Enter slowly and quietly.</span> Onsen are places of calm. Splashing, loud conversation, and running are inappropriate.<br><br><span class="keigo-badge info">Small towel handling.</span> The small modesty towel (手拭い) does not go into the bath. It may be placed folded on the head or left at the bath's edge.<br><br><span class="keigo-badge info">No swimming or vigorous movement.</span> The bath is for soaking, not exercise.<br><br><span class="keigo-badge info">Time your soak.</span> Onsen water is hot, typically 40 to 44°C. First-time bathers should soak in shorter intervals (10 to 15 minutes) and rest between sessions.<br><br><span class="keigo-badge info">Hair must not touch the water.</span> Long hair should be tied up or pinned.
 </div>
 
 

@@ -24,7 +24,7 @@ Different springs carry different minerals, and each is associated with specific
 
 | Type | Japanese | Associated benefits |
 |---|---|---|
-| Sulphur | 硫黄泉 (*iōsen*) | Skin conditions, circulation |
+| Sulphur | 硫黄泉 | Skin conditions, circulation |
 | Sodium chloride | 塩化物泉 | Warming, joint pain |
 | Bicarbonate | 炭酸水素塩泉 | Skin softening, "beauty bath" |
 | Iron | 含鉄泉 | Anaemia, fatigue |

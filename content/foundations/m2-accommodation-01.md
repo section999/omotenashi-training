@@ -13,7 +13,7 @@ Traditional Japanese rooms are floored with *tatami*, woven rush mats with a dis
 Key elements of the washitsu:
 
 <div class="keigo-card blue">
-<span class="keigo-badge info">Tokonoma (床の間)</span> an alcove displaying a hanging scroll (*kakejiku*) and a seasonal flower arrangement. This is the spiritual and aesthetic focal point of the room. Nothing should be placed inside the tokonoma, by guests or by staff.<br><br><span class="keigo-badge info">Chabudai (ちゃぶ台)</span> a low table where guests sit on floor cushions (*zabuton*).<br><br><span class="keigo-badge info">Futon</span> stored in the closet (*oshiire*) during the day, laid out by staff in the evening.
+<span class="keigo-badge info">Tokonoma (床の間)</span> an alcove displaying a hanging scroll (掛け軸) and a seasonal flower arrangement. This is the spiritual and aesthetic focal point of the room. Nothing should be placed inside the tokonoma, by guests or by staff.<br><br><span class="keigo-badge info">Chabudai (ちゃぶ台)</span> a low table where guests sit on floor cushions (座布団).<br><br><span class="keigo-badge info">Futon</span> stored in the closet (押し入れ) during the day, laid out by staff in the evening.
 </div>
 
 

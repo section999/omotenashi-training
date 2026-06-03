@@ -34,9 +34,9 @@ Summer decorations and amenities emphasise coolness and lightness:
 ## Seasonal Food and Drink
 
 - Cold noodles: *sōmen*, *hiyashi chūka*, *zaru soba*
-- Shaved ice (*kakigōri*): a summer classic, available in regional flavour variations
+- Shaved ice (かき氷): a summer classic, available in regional flavour variations
 - Mugicha (麦茶, barley tea): the standard cold drink of Japanese summers, naturally caffeine-free
-- Edamame, cold tofu (*hiyayakko*), cucumber dishes: light, refreshing, and cooling
+- Edamame, cold tofu (冷奴), cucumber dishes: light, refreshing, and cooling
 
 
 ---

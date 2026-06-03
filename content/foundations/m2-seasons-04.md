@@ -26,8 +26,8 @@ Autumn decorations reflect the rich colours and textures of the season:
 ## Seasonal Food and Drink
 
 - Mushrooms: matsutake (松茸), shiitake, nameko, autumn is peak season for Japanese fungi
-- Sweet potato (*satsumaimo*), chestnuts (*kuri*), persimmon (*kaki*)
-- New rice (新米, *shinmai*): the autumn rice harvest produces the freshest, most fragrant cooked rice of the year, a significant event in Japanese food culture
+- Sweet potato (さつまいも), chestnuts (栗), persimmon (柿)
+- New rice (新米): the autumn rice harvest produces the freshest, most fragrant cooked rice of the year, a significant event in Japanese food culture
 - Warm sake, hojicha (roasted green tea), and warming soups return to the menu
 
 
