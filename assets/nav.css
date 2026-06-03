@@ -54,6 +54,8 @@
   .nav-cta-label { display: none; }
   .logo-large { display: none !important; }
   .logo-small { display: block !important; }
+  #banner-text { display: none !important; }
+  #banner-btn  { display: none !important; }
 }
 .logo-small { display: none; }
 
