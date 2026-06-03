@@ -1919,13 +1919,19 @@ function _speakGoogleTts(text) {
   const url = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ja&q=' + encodeURIComponent(text);
   const audio = new Audio(url);
   const toast = document.getElementById('jp-toast');
+  let handled = false;
 
   const onEnd = () => {
+    if (handled) return;
+    handled = true;
     if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
     _toastTimer = setTimeout(() => toast.classList.remove('show'), 800);
     _ttsProcessQueue();
   };
   const onError = () => {
+    if (handled) return;
+    handled = true;
+    audio.pause();
     _googleTtsFailed = true;
     _speakWebSpeech(text);
   };
