@@ -1890,7 +1890,8 @@ function speakJapanese(text, el) {
   if (!_ttsPlaying) _ttsProcessQueue();
 }
 
-let _googleTtsFailed = false;
+const _isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+let _googleTtsFailed = _isIOS;
 
 function _ttsProcessQueue() {
   if (!_ttsQueue.length) { _ttsPlaying = false; return; }
