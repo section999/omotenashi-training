@@ -21,7 +21,7 @@
   <style>
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html { font-size: 18px; }
+    html { font-size: clamp(15px, 1vw + 13px, 18px); }
 
     body {
       background: var(--bg-secondary);
@@ -292,7 +292,10 @@
       <button onclick="submitSignIn()" style="width:100%;background:var(--accent-blue);color:#fff;border:none;border-radius:6px;padding:11px;font-size:0.95rem;font-weight:700;cursor:pointer;">
         Start Learning
       </button>
-      <hr style="border:none;border-top:1px solid var(--border-default);margin:20px 0;" />
+      <button onclick="closeSignInModal()" style="width:100%;background:transparent;color:var(--text-secondary);border:none;border-radius:6px;padding:8px;font-size:0.85rem;cursor:pointer;margin-top:6px;">
+        Skip for now
+      </button>
+      <hr style="border:none;border-top:1px solid var(--border-default);margin:16px 0;" />
       <p style="font-size:0.78rem;color:var(--text-muted);margin-bottom:10px;">Progress is saved in this browser only. Use export/import to move it across devices.</p>
       <div style="display:flex;gap:8px;">
         <button onclick="exportProgress()" style="flex:1;background:transparent;color:var(--text-secondary);border:1px solid var(--border-default);border-radius:6px;padding:8px;font-size:0.82rem;font-weight:600;cursor:pointer;">
@@ -1642,6 +1645,15 @@
       t.classList.toggle('open');
       el.setAttribute('aria-expanded', t.classList.contains('open') ? 'true' : 'false');
     }
+
+    // Show name modal on first visit if no name saved
+    (function() {
+      try {
+        if (!localStorage.getItem('omotenashi:user:name') && !sessionStorage.getItem('omotenashi:modal:skipped')) {
+          setTimeout(function(){ if(typeof openSignInModal !== 'undefined') openSignInModal(); }, 800);
+        }
+      } catch(e) {}
+    })();
   </script>
 
 <script src="../assets/search-init.js"></script>

@@ -184,6 +184,29 @@ function importProgress() {
   input.click();
 }
 
+// ── SIGN-IN MODAL ─────────────────────────────────────────────────────────────
+function openSignInModal() {
+  var modal = document.getElementById('signin-modal');
+  if (!modal) return;
+  modal.style.display = 'flex';
+  var input = document.getElementById('signin-name');
+  if (input) { input.value = ''; setTimeout(function(){ input.focus(); }, 50); }
+}
+function closeSignInModal() {
+  var modal = document.getElementById('signin-modal');
+  if (modal) modal.style.display = 'none';
+  try { sessionStorage.setItem('omotenashi:modal:skipped', '1'); } catch(e) {}
+}
+function submitSignIn() {
+  var input = document.getElementById('signin-name');
+  var name = input ? input.value.trim() : '';
+  if (name) {
+    try { localStorage.setItem('omotenashi:user:name', name); } catch(e) {}
+    updateBanner(name);
+  }
+  closeSignInModal();
+}
+
 // Init banner
 (function () {
   var name = localStorage.getItem('omotenashi:user:name');

@@ -36,7 +36,7 @@
     [data-theme="light"] .modal-btn-next:hover { background:#d8d8e0 !important; }
     [data-theme="light"] #jp-toast { background:#ffffff; border-color:#c8c9cc; color:#1b1b32; }
     *, *::before, *::after { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
-    html { font-size:18px; }
+    html { font-size:clamp(15px, 1vw + 13px, 18px); }
     body { background:var(--bg-secondary); color:var(--text-primary); font-family:var(--font-sans); min-height:100vh; }
 
     /* NAV */
@@ -975,6 +975,16 @@ function simShowResult() {
     }
   } catch(e) {}
 })();
+
+// Keyboard shortcuts: 1/2/3 to select choice buttons
+document.addEventListener('keydown', function(e) {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  const n = parseInt(e.key, 10);
+  if (n >= 1 && n <= 3) {
+    const btns = document.querySelectorAll('#chatChoices .choice-btn:not(:disabled)');
+    if (btns[n - 1]) { e.preventDefault(); btns[n - 1].click(); }
+  }
+});
 </script>
 <script src="../assets/search-init.js"></script>
 <script src="../assets/nav.js"></script>

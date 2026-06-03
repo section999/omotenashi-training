@@ -53,7 +53,7 @@
     [data-theme="light"] .quiz-opt:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
     [data-theme="light"] .tf-btn:hover { background: rgba(0,0,0,0.04); border-color: rgba(0,0,0,0.2); }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html { font-size: 18px; }
+    html { font-size: clamp(15px, 1vw + 13px, 18px); }
     body { background: var(--bg-secondary); color: var(--text-primary); font-family: var(--font-sans); min-height: 100vh; }
 
     /* NAV */
@@ -435,8 +435,14 @@
     .phrase-jp { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; color: var(--text-primary); }
     .phrase-romaji { font-style: italic; color: var(--text-secondary); font-size: 0.9rem; margin-bottom: 4px; display: none; }
     .phrase-romaji.shown { display: block; }
-    .phrase-jp { display: flex; align-items: center; flex-wrap: wrap; gap: 4px; }
-    .phrase-en { color: var(--text-primary); font-size: 0.9rem; }
+    .phrase-jp { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; }
+    .phrase-en { color: var(--text-primary); font-size: 0.9rem; margin-top: 6px; }
+    /* Phrase-block: bigger buttons pushed to right */
+    .phrase-block .jp-action-btns { gap: 6px; margin-left: auto; flex-shrink: 0; }
+    .phrase-block .jp-action-btn { height: 28px; padding: 0 12px; font-size: 0.7rem; border-radius: 6px; }
+    /* Example number badge */
+    .phrase-num { font-family: var(--font-mono); font-size: 0.62rem; font-weight: 700; letter-spacing: 0.08em; color: var(--accent-blue); opacity: 0.75; flex-shrink: 0; }
+    [data-theme="light"] .phrase-num { color: #1a5fae; }
     [data-theme="light"] .phrase-block { background: #f5f6f7; border-color: #d8d8e0; }
     [data-theme="light"] .keigo-pair .bad-col { background: rgba(197,68,42,0.04); }
     [data-theme="light"] .keigo-pair .good-col { background: rgba(26,144,88,0.04); }
@@ -660,11 +666,11 @@
 
 
 <!-- COMPLETION MODAL -->
-<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalSectionTitle" onclick="if(event.target===this)closeModal()">
   <div class="modal">
     <div class="modal-bar">
       <span class="modal-bar-title">You're unstoppable!</span>
-      <button class="modal-close" onclick="closeModal()">✕</button>
+      <button class="modal-close" onclick="closeModal()" aria-label="Close">✕</button>
     </div>
     <div class="modal-body">
       <div class="modal-check">
@@ -1746,10 +1752,29 @@ function showCompletionModal() {
     const interval = intervals[Math.min(reps - 1, 4)];
     localStorage.setItem(srsKey, JSON.stringify({ reps, interval, nextReview: Date.now() + interval * 86400000 }));
   }
-  document.getElementById('modalOverlay').classList.add('open');
+  const overlay = document.getElementById('modalOverlay');
+  overlay.classList.add('open');
+  // Move focus into modal
+  const closeBtn = overlay.querySelector('.modal-close');
+  if (closeBtn) closeBtn.focus();
+  // Trap focus within modal
+  overlay._prevFocus = document.activeElement;
+  overlay.addEventListener('keydown', _modalTrapFocus);
 }
 function closeModal() {
-  document.getElementById('modalOverlay').classList.remove('open');
+  const overlay = document.getElementById('modalOverlay');
+  overlay.classList.remove('open');
+  overlay.removeEventListener('keydown', _modalTrapFocus);
+  if (overlay._prevFocus) { overlay._prevFocus.focus(); overlay._prevFocus = null; }
+}
+function _modalTrapFocus(e) {
+  if (e.key === 'Escape') { closeModal(); return; }
+  if (e.key !== 'Tab') return;
+  const focusable = Array.from(this.querySelectorAll('button,a[href],[tabindex]:not([tabindex="-1"])'));
+  if (!focusable.length) return;
+  const first = focusable[0], last = focusable[focusable.length - 1];
+  if (e.shiftKey) { if (document.activeElement === first) { e.preventDefault(); last.focus(); } }
+  else { if (document.activeElement === last) { e.preventDefault(); first.focus(); } }
 }
 document.addEventListener('keydown', e => {
   if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
@@ -2019,6 +2044,7 @@ function makeJpActionBtns(jpText, romajiEl) {
   const speakBtn = document.createElement('button');
   speakBtn.className = 'jp-action-btn jp-speak-btn';
   speakBtn.title = '発音を聞く';
+  speakBtn.setAttribute('aria-label', 'Play pronunciation');
   speakBtn.textContent = '▶';
   speakBtn.addEventListener('click', e => { e.stopPropagation(); speakJapanese(jpText, speakBtn); });
   wrap.appendChild(speakBtn);
@@ -3340,7 +3366,9 @@ async function render() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     raw = (await res.text()).replace(/\r\n/g, '\n');
   } catch(e) {
-    document.getElementById('main').innerHTML = `<div class="loading">Could not load file (${e.message}). <button onclick="location.reload()" style="background:var(--bg-tertiary);color:var(--text-primary);border:1px solid var(--border-default);border-radius:4px;padding:6px 14px;cursor:pointer;margin:0 8px;font:inherit;">Retry</button> <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>`;
+    const _is404 = e.message && e.message.includes('404');
+    const _errMsg = _is404 ? 'Lesson not found.' : `Could not load content (${e.message}).`;
+    document.getElementById('main').innerHTML = `<div class="loading">${_errMsg} <button onclick="location.reload()" style="background:var(--bg-tertiary);color:var(--text-primary);border:1px solid var(--border-default);border-radius:4px;padding:6px 14px;cursor:pointer;margin:0 8px;font:inherit;">Retry</button> <a href="curriculum.html" style="color:var(--accent-blue);">← Back to Curriculum</a></div>`;
     return;
   }
 
@@ -3487,6 +3515,18 @@ async function render() {
   if (bodyEl) initTableRomaji(bodyEl);
   if (bodyEl) initEmailExamples(bodyEl);
   if (bodyEl) initPhraseBlockBtns(bodyEl);
+  if (isVocabFile && bodyEl) {
+    let n = 0;
+    bodyEl.querySelectorAll('.phrase-block').forEach(block => {
+      n++;
+      const jpDiv = block.querySelector('.phrase-jp');
+      if (!jpDiv) return;
+      const badge = document.createElement('span');
+      badge.className = 'phrase-num';
+      badge.textContent = n + '.';
+      jpDiv.insertBefore(badge, jpDiv.firstChild);
+    });
+  }
   if (bodyEl) cleanBadCol(bodyEl);
 
   // ── Wrap tables in overflow-auto containers (so table fills content width) ──

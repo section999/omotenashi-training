@@ -19,7 +19,7 @@
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html { font-size: 18px; scroll-behavior: smooth; }
+    html { font-size: clamp(15px, 1vw + 13px, 18px); scroll-behavior: smooth; }
     body { background: var(--bg-primary); color: var(--text-primary); font-family: var(--font-sans); line-height: 1.6; min-height: 100vh; }
     :focus-visible { outline: 2px solid var(--accent-yellow); outline-offset: 3px; }
     ::-webkit-scrollbar { width: 6px; }
@@ -365,6 +365,7 @@
     <div class="stat-card" style="--stat-color:var(--accent-purple)">
       <div class="stat-value" id="stat-due">0</div>
       <div class="stat-label">Due for Review</div>
+      <div class="stat-sub" id="stat-due-sub" style="font-size:0.72rem;color:var(--text-muted);margin-top:4px;"></div>
     </div>
   </div>
 
@@ -388,6 +389,9 @@
       <div class="vocab-card-label">Not Started</div>
     </div>
   </div>
+
+  <!-- Storage warning -->
+  <div id="storage-warning" style="display:none;background:rgba(197,68,42,0.1);border:1px solid rgba(197,68,42,0.4);border-radius:8px;padding:10px 16px;margin-bottom:20px;font-size:0.82rem;color:#e06050;"></div>
 
   <!-- SRS due today -->
   <div class="section-label">// due for review</div>
@@ -527,6 +531,45 @@ function render(MODULES) {
   // Due reviews
   const due = getDueReviews();
   document.getElementById('stat-due').textContent = due.length;
+
+  // SRS schedule breakdown
+  const weekMs = 7 * 24 * 3600 * 1000;
+  const now = Date.now();
+  let dueThisWeek = 0;
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (!key.startsWith('omotenashi:srs:')) continue;
+    try {
+      const data = JSON.parse(localStorage.getItem(key));
+      if (data.nextReview && data.nextReview > now && data.nextReview <= now + weekMs) dueThisWeek++;
+    } catch(e) {}
+  }
+  const subEl = document.getElementById('stat-due-sub');
+  if (subEl) {
+    if (due.length === 0 && dueThisWeek === 0) subEl.textContent = 'None upcoming';
+    else if (dueThisWeek > 0) subEl.textContent = dueThisWeek + ' more this week';
+    else subEl.textContent = '';
+  }
+
+  // localStorage quota check
+  try {
+    let totalChars = 0;
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      totalChars += k.length + (localStorage.getItem(k) || '').length;
+    }
+    const usagePct = (totalChars * 2) / (5 * 1024 * 1024);
+    const warnEl = document.getElementById('storage-warning');
+    if (warnEl) {
+      if (usagePct > 0.8) {
+        warnEl.style.display = 'block';
+        warnEl.textContent = 'Storage is ' + Math.round(usagePct * 100) + '% full. Export your progress to avoid data loss.';
+      } else {
+        warnEl.style.display = 'none';
+      }
+    }
+  } catch(e) {}
+
   const dueEl = document.getElementById('due-list');
   if (due.length === 0) {
     dueEl.innerHTML = '<div class="due-empty">No reviews due - check back later.</div>';
