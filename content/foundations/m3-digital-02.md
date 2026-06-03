@@ -4,7 +4,7 @@ section: 2
 title: Telephone Manner in Japanese Hospitality
 ---
 
-The telephone call occupies a more formal register in Japanese business culture than in many other contexts. A caller who chooses to speak by phone is signalling that the matter is important enough to warrant a direct voice conversation. Receiving that call well is a core professional skill.
+The telephone communication occupies a more formal register in Japanese business culture than in many other contexts. A caller who chooses to speak by phone is signalling that the matter is important enough to warrant a direct voice conversation. Receiving that call well is a core professional skill.
 
 ## Answering the Phone
 
@@ -18,7 +18,7 @@ The phrase *"いつもお世話になっております"* (thank you for your co
 
 ## Active Listening Signals
 
-In Japanese telephone conversation, the listener regularly signals that they are following the speaker. Common responses include:
+In Japanese telephone communication, the listener regularly signals that they are following the speaker. Common responses include:
 
 • *"はい"* (yes)
 • *"承知いたしました"* (understood)

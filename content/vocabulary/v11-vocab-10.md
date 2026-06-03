@@ -27,7 +27,7 @@ We sincerely apologize for the delay in returning your call.
 | Expression | Description |
 |---|---|
 | ご連絡 | the general word for making contact; 折り返しご連絡 carries a directional quality that plain ご連絡 does not, specifying that the hotel is reaching back out in response to a prior call. |
-| 不在 | the situation that most often triggers a 折り返し offer; these two terms naturally pair together in telephone scripts, since every 不在 notification needs a clear next step for the caller. |
+| 不在 | the situation that most often triggers a 折り返し offer; these two terms naturally pair together in telephone communication scripts, since every 不在 notification needs a clear next step for the caller. |
 
 ## Common Mistakes
 

@@ -26,11 +26,11 @@ I will guide you to the lobby, so please wait just a moment.
 | Expression | Description |
 |---|---|
 | ご案内いたします<br>go-annai itashimasu | the humble keigo form of 案内します and the expected phrasing in upscale hotels and any formal guest-facing situation. This should be the default rather than the plain 案内します when speaking with guests. |
-| 道案内<br>michi annai | directional guidance specifically for routes and paths. this compound is used when a guest needs step-by-step directions to the hotel or to a nearby location, particularly in telephone situations where a physical map is not available. |
+| 道案内<br>michi annai | directional guidance specifically for routes and paths. this compound is used when a guest needs step-by-step directions to the hotel or to a nearby location, particularly in telephone communication situations where a physical map is not available. |
 
 ## Common Mistakes
 
-Dropping the ご prefix and saying 案内します in a guest-facing situation is a register error that is acceptable in casual conversation but falls short in hotel service. ご案内いたします should be the automatic default when speaking with guests. Another common mistake is giving all the directions at once in one long sentence during a telephone call. The guest may be reaching for a pen and cannot keep up. The route should be broken into short pieces with pauses to confirm understanding at each step. A common error is mixing up 案内します (directional guidance) with 説明します (explaining information): 案内 is about getting someone somewhere, 説明 is about making something understood.
+Dropping the ご prefix and saying 案内します in a guest-facing situation is a register error that is acceptable in casual conversation but falls short in hotel service. ご案内いたします should be the automatic default when speaking with guests. Another common mistake is giving all the directions at once in one long sentence during a telephone communication. The guest may be reaching for a pen and cannot keep up. The route should be broken into short pieces with pauses to confirm understanding at each step. A common error is mixing up 案内します (directional guidance) with 説明します (explaining information): 案内 is about getting someone somewhere, 説明 is about making something understood.
 
 ---
 

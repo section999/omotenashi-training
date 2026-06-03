@@ -4,7 +4,9 @@ section: 1
 title: What Hotel Email Communication Requires
 ---
 
-Hotel email is not simply written Japanese. It is a service medium. Before the guest arrives, before they speak to any staff member, and sometimes before they have committed to a booking, the email they receive shapes their entire impression of the hotel. This lesson establishes the principles behind every email this module will teach.
+Email is far more than a written form of communication in the hotel industry. It is an essential service touchpoint. Before guests arrive, before they interact with staff, and often before they commit to a booking, the emails they receive help shape their expectations and overall impression of the hotel.
+
+This lesson explores the fundamental principles that guide all hotel email communication and serve as the foundation for every email covered in this module.
 
 ## Email Is Part of the Guest Experience
 

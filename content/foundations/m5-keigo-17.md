@@ -27,7 +27,7 @@ Some Chinese-origin words have become fixed polite expressions with お in the s
 
 | Word | Type | English |
 |---|---|---|
-| <span>お電話</span> | <span>漢語</span> | telephone call |
+| <span>お電話</span> | <span>漢語</span> | telephone communication |
 | <span>お料理</span> | <span>漢語</span> | cooking / food |
 | <span>お会計</span> | <span>漢語</span> | bill / payment |
 | <span>お掃除</span> | <span>漢語</span> | cleaning |

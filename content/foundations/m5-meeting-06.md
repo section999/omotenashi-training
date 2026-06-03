@@ -44,19 +44,15 @@ Three questions this format answers: What happened? To whom? What was done?
 
 Certain words belong to casual spoken Japanese and have no place in handover notes. They create uncertainty and signal that the information may not be reliable.
 
-<div class="keigo-card blue">
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>ちょっと</code></span>: softening word; vague<br>
-<em>chotto</em><br>
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>たぶん</code></span>: "probably"; uncertain<br>
-<em>tabun</em><br>
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>○○と思います</code></span>: "I think"; expresses opinion, not fact<br>
-<em>○○ to omoimasu</em><br>
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>なんか</code></span>: filler word; unprofessional<br>
-<em>nanka</em><br>
-<span class="keigo-badge bad">Remove</span> <span class="keigo-jp"><code>感じです</code></span>: "it feels like"; vague assessment<br>
-<em>kanji desu</em><br><br>
+| Word | Meaning | Why to avoid |
+|---|---|---|
+| <span><code>ちょっと</code></span> | a little / a bit | softens the statement; leaves the actual situation unclear |
+| <span><code>たぶん</code></span> | probably | signals guessing; incoming staff cannot act on uncertain information |
+| <span><code>○○と思います</code></span> | I think ○○ | personal opinion, not a confirmed fact |
+| <span><code>なんか</code></span> | like / kind of | spoken filler; carries no meaning in written records |
+| <span><code>感じです</code></span> | it feels like | vague impression; not a verifiable fact |
+
 If you are not certain about a fact, either verify it before writing or mark it clearly as unconfirmed; do not use tentative language.
-</div>
 
 ---
 

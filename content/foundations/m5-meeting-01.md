@@ -18,8 +18,6 @@ The next shift must be able to serve every guest as if they themselves had been 
 
 Service failures caused by handover gaps are among the most damaging to guest satisfaction. They are also among the most preventable.
 
-<div class="keigo-card blue">
-
 | Failure | Consequence |
 |---|---|
 | VIP not flagged | Special service not prepared |
@@ -28,9 +26,7 @@ Service failures caused by handover gaps are among the most damaging to guest sa
 | Pending request missing | Request forgotten entirely |
 | Medical need not transferred | Potential safety risk |
 
-<br>
 The worst outcome is a guest saying: "I already told someone this yesterday." That phrase signals a complete handover failure and is very difficult to recover from.
-</div>
 
 ## Why Handover Is Treated as a Professional Standard
 
@@ -69,7 +65,6 @@ Room changes, late check-outs, behavioral concerns, medical notes.
 <em>you taiou</em><br>
 <span class="keigo-jp"><code>対応済み</code></span> (taiouzumi), already handled<br>
 <em>taiou zumi</em><br>
-<span class="keigo-jp"><code>未対応</code></span> (mitaiou), not yet handled
 </div>
 
 ---

@@ -4,7 +4,7 @@ section: 12
 title: Complaint Calls: The 4-A Framework
 ---
 
-Complaint calls are the highest emotional risk scenario in hotel telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem; they are communicating that their experience did not meet expectations.
+Complaint calls are the highest emotional risk scenario in telephone communication. The guest is upset, frustrated, or disappointed. They are not just reporting a problem; they are communicating that their experience did not meet expectations.
 
 The staff member's primary goal is **not to solve the problem immediately**. It is to stabilize the guest's emotional state first. An upset guest cannot process solutions. A calm guest can.
 

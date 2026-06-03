@@ -4,7 +4,7 @@ section: 2
 title: The 7-Step Call Structure
 ---
 
-Professional hotel telephone calls are not free-flowing conversations. They follow a defined structure. This is not a stylistic preference, it is a **risk control system**. Each step exists to prevent a specific category of operational failure.
+Professional telephone communications are not free-flowing conversations. They follow a defined structure. This is not a stylistic preference, it is a **risk control system**. Each step exists to prevent a specific category of operational failure.
 
 **The 7 Steps:** Greeting → Identification → Recognition → Confirmation → Action → Result → Closing
 

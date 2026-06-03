@@ -6,7 +6,7 @@ title: Core Telephone Keigo: Acknowledgment, Wait, and Transfer
 
 In high-pressure situations, complaints, rush hours, unexpected requests, there is no time to construct polished sentences from scratch. Fixed telephone expressions eliminate this risk. They allow staff to respond immediately, accurately, and professionally without hesitation.
 
-This lesson covers acknowledgment, wait and hold, and transfer expressions: the three most frequent categories in hotel telephone calls.
+This lesson covers acknowledgment, wait and hold, and transfer expressions: the three most frequent categories in telephone communications.
 
 ## Acknowledgment Expressions
 

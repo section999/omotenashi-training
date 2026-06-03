@@ -1,7 +1,7 @@
 ---
 id: m5-internal-05
 section: 5
-title: "連絡: Passing Information Completely"
+title: 連絡 (Passing Information Completely)
 ---
 
 連絡 (renraku) is the act of passing factual information to colleagues or departments who need it. Unlike 報告, which flows upward to supervisors, 連絡 moves in any direction: between peers, from senior to junior, from one department to another.

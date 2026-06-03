@@ -36,22 +36,31 @@ Checkout is at 11:00.<br><br>
 ## Core Usage Patterns
 
 <div class="keigo-card blue">
-<strong>Stating facts:</strong><br>
+<span class="keigo-pair-label">Stating facts</span>
 <span class="keigo-jp"><code>朝食は1階でございます。</code></span><br>
 <em>choushoku wa ikkai de gozaimasu.</em><br>
 Breakfast is on the 1st floor.<br><br>
 <span class="keigo-jp"><code>チェックアウトは11時でございます。</code></span><br>
 <em>chekku-auto wa juuichi-ji de gozaimasu.</em><br>
-Checkout is at 11:00.<br><br>
-<strong>Identifying the guest:</strong><br>
+Checkout is at 11:00.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Identifying the guest</span>
 <span class="keigo-jp"><code>山田様でございますね。</code></span><br>
 <em>yamada-sama de gozaimasu ne.</em><br>
-You are Mr./Ms. Yamada, correct?<br><br>
-<strong>Confirming a reservation:</strong><br>
+You are Mr./Ms. Yamada, correct?
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Confirming a reservation</span>
 <span class="keigo-jp"><code>2泊でございますね。</code></span><br>
 <em>nihaku de gozaimasu ne.</em><br>
-That is a 2-night stay, correct?<br><br>
-<strong>Presenting objects:</strong><br>
+That is a 2-night stay, correct?
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Presenting objects</span>
 <span class="keigo-jp"><code>こちらがお部屋の鍵でございます。</code></span><br>
 <em>kochira ga o-heya no kagi de gozaimasu.</em><br>
 Here is your room key.

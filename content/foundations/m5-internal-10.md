@@ -1,7 +1,7 @@
 ---
 id: m5-internal-10
 section: 10
-title: "Cross-Department Communication: Extended Scenarios"
+title: Cross-Department Communication (Extended Scenarios)
 ---
 
 This lesson continues from the previous lesson's standards with three additional cross-department scenarios: a concierge-to-restaurant reservation, a reverse direction exchange (housekeeping contacting the front desk), and the important case where the receiving department cannot fulfill the request immediately.

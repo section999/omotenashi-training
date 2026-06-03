@@ -15,9 +15,11 @@ Double keigo means stacking two humble forms on top of each other. This creates 
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>お伺いさせていただきます。</code></span><br>
 <em>o-ukagai sasete itadakimasu.</em><br>
+I will come to you.<br>
 (お伺い is already humble; adding させていただく is redundant)<br><br>
 <span class="keigo-jp"><code>ご覧になられました。</code></span><br>
 <em>go-ran ni nararemashita.</em><br>
+Have you seen it?<br>
 (ご覧になる is already sonkeigo; adding られる is redundant)<br><br>
 <span class="keigo-badge bad">Why it happens</span> Staff trying to be maximally polite end up stacking forms.
 </div>
@@ -25,9 +27,11 @@ Double keigo means stacking two humble forms on top of each other. This creates 
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>お伺いいたします。</code></span><br>
 <em>o-ukagai itashimasu.</em><br>
+I will come to you.<br>
 (one humble layer is correct)<br><br>
 <span class="keigo-jp"><code>ご覧になりました。</code></span><br>
 <em>go-ran ni narimashita.</em><br>
+Have you seen it?<br>
 (correct sonkeigo form, no extra passive layer)<br><br>
 <span class="keigo-badge good">Rule</span> One keigo form per verb. Stacking two humble or two honorific forms creates over-keigo.
 </div>
@@ -42,9 +46,11 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>少々お待ちください。</code></span><br>
 <em>shoushou o-machi kudasai.</em><br>
+Please wait a moment.<br>
 (お待ち is polite, but くださいませ is the hotel standard; not ください alone)<br><br>
 <span class="keigo-jp"><code>かしこまりました。確認します。</code></span><br>
 <em>kashikomarimashita. kakunin shimasu.</em><br>
+Certainly. I will confirm.<br>
 (first phrase is high keigo; 確認します is plain)<br><br>
 <span class="keigo-badge bad">Why it happens</span> Fatigue or habit causes the second half of the sentence to revert.
 </div>
@@ -52,9 +58,11 @@ A sentence that starts in hotel keigo and drifts into casual or plain language c
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>少々お待ちくださいませ。</code></span><br>
 <em>shoushou o-machi kudasaimase.</em><br>
+Please wait a moment.<br>
 (consistently hotel-register throughout)<br><br>
 <span class="keigo-jp"><code>かしこまりました。ただいまご確認いたします。</code></span><br>
 <em>kashikomarimashita. tadaima go-kakunin itashimasu.</em><br>
+Certainly. I will confirm right away.<br>
 (both phrases at hotel keigo level)<br><br>
 <span class="keigo-badge good">Rule</span> Match the register of the entire sentence, from opening word to ending particle.
 </div>

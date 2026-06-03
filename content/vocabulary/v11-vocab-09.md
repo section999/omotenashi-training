@@ -27,7 +27,7 @@ If the person in charge is unavailable, front desk staff will assist you instead
 | Expression | Description |
 |---|---|
 | 留守 | a more casual or domestic word for being away; 不在 is its formal professional equivalent, so reach for 不在 at the front desk and leave 留守 to everyday conversation and compound words like 留守番電話. |
-| 折り返し | the callback offer that almost always follows 不在; together, these two words form a natural pairing in telephone scripts, because every unavailability notification needs a clear next step. |
+| 折り返し | the callback offer that almost always follows 不在; together, these two words form a natural pairing in telephone communication scripts, because every unavailability notification needs a clear next step. |
 
 ## Common Mistakes
 

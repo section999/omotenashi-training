@@ -11,14 +11,14 @@ Knowing sonkeigo forms in isolation is not enough. This lesson applies them to r
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Plain form (wrong)</span>
-<span class="keigo-jp"><code>なんじにチェックインしますか？</code></span><br>
+<span class="keigo-jp"><code>何時にチェックインしますか？</code></span><br>
 <em>nanji ni chekku-in shimasu ka?</em><br>
 What time will you check in?<br><br>
 <span class="keigo-badge bad">Wrong</span> Guest's action described without 尊敬語.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">尊敬語 (correct)</span>
-<span class="keigo-jp"><code>なんじごろお越しになりますか？</code></span><br>
+<span class="keigo-jp"><code>何時頃お越しになりますか？</code></span><br>
 <em>nanji goro o-koshi ni narimasu ka?</em><br>
 Around what time will you be arriving?<br><br>
 <span class="keigo-badge good">Correct</span> お越しになる is the honorific for 来る in this context.
@@ -89,8 +89,10 @@ These three patterns cover the majority of questions directed at guests in a hot
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>○○でいらっしゃいますか</code></span><br>
 <em>○○ de irasshaimasu ka</em><br>
-Are you ○○? Used to confirm the guest's identity or status.<br>
-Example: <span class="keigo-jp"><code>田中様でいらっしゃいますか。</code></span><br>
+Are you ○○?<br>
+(Used to confirm the guest's identity or status.)<br><br>
+<span class="vocab-example-label">Example</span>
+<span class="keigo-jp"><code>田中様でいらっしゃいますか。</code></span><br>
 <em>tanaka-sama de irasshaimasu ka.</em><br>
 Are you Mr./Ms. Tanaka?
 </div>
@@ -98,8 +100,10 @@ Are you Mr./Ms. Tanaka?
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>○○はいかがでしょうか</code></span><br>
 <em>○○ wa ikaga deshou ka</em><br>
-Would you like ○○? Used to offer something without applying pressure.<br>
-Example: <span class="keigo-jp"><code>お飲み物はいかがでしょうか。</code></span><br>
+Would you like ○○?<br>
+(Used to offer something without applying pressure.)<br><br>
+<span class="vocab-example-label">Example</span>
+<span class="keigo-jp"><code>お飲み物はいかがでしょうか。</code></span><br>
 <em>o-nomimono wa ikaga deshou ka.</em><br>
 Would you like something to drink?
 </div>
@@ -107,8 +111,10 @@ Would you like something to drink?
 <div class="keigo-card blue">
 <span class="keigo-jp"><code>○○はいかがなさいますか</code></span><br>
 <em>○○ wa ikaga nasaimasu ka</em><br>
-How would you like to handle ○○? Used when asking the guest to make a decision.<br>
-Example: <span class="keigo-jp"><code>朝食はいかがなさいますか。</code></span><br>
+How would you like to handle ○○?<br>
+(Used when asking the guest to make a decision.)<br><br>
+<span class="vocab-example-label">Example</span>
+<span class="keigo-jp"><code>朝食はいかがなさいますか。</code></span><br>
 <em>choushoku wa ikaga nasaimasu ka.</em><br>
 How would you like to handle breakfast?
 </div>

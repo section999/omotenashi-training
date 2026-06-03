@@ -1,7 +1,7 @@
 ---
 id: m5-internal-09
 section: 9
-title: "Cross-Department Communication: Standards"
+title: Cross-Department Communication (Standards)
 ---
 
 A hotel operates as a network of departments that depend on each other to deliver seamless guest service. The front desk coordinates with housekeeping, maintenance, the restaurant, and the concierge dozens of times each day. The quality of these cross-department exchanges directly determines how quickly guest needs are met.

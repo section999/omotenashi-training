@@ -12,8 +12,8 @@ Before selecting any verb form in hotel speech, ask one question: **who is perfo
 
 | Subject | Keigo Type | Function |
 |---|---|---|
-| Guest is acting | <span>尊敬語</span> | Elevates the guest's action |
-| Staff is acting | <span>謙譲語</span> | Lowers the staff's position |
+| Guest | <span>尊敬語</span> | Elevates the guest's action |
+| Staff | <span>謙譲語</span> | Lowers the staff's position |
 | General statement | <span>丁寧語</span> | Maintains professional tone |
 
 This single decision drives every verb choice in hotel keigo.
@@ -54,4 +54,4 @@ The correction is not about using fancier words. It reflects whether the staff h
 
 **Correct Answer:** B
 
-**Explanation:** 尊敬語 is required whenever the guest is the subject performing the action. It is not triggered by the type of noun, the presence of a colleague, or general explanations. The core rule is simple: guest as actor equals 尊敬語. This decision comes before any other grammatical choice in hotel speech.
+**Explanation:** 尊敬語 is required whenever the guest is the subject performing the action. It is not triggered by the type of noun, the presence of a colleague, or general explanations. The core rule is simple: guest as subject equals 尊敬語. This decision comes before any other grammatical choice in hotel speech.

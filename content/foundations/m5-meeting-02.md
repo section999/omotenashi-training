@@ -9,63 +9,44 @@ Every professional handover follows the same five-section structure. The order i
 ## The Five-Section Structure
 
 <div class="keigo-card blue">
+<strong>1. 最優先情報 (Priority Guests)</strong><br>
 The first thing the incoming shift reads. Covers any guest who requires elevated attention.<br><br>
 <span class="keigo-badge info">VIP</span> VIP guests, first-time VIPs, VIP family members<br>
 <span class="keigo-badge info">Repeat</span> Valued repeat guests, long-stay members<br>
-<span class="keigo-badge info">Active Complaint</span> Guests with complaints in progress or not fully resolved<br><br>
-<strong>Why first:</strong> The incoming staff must prepare their service posture before the guest arrives at the desk. Knowing a VIP is in-house changes everything about how staff approach the next few hours.
+<span class="keigo-badge info">Active Complaint</span> Guests with complaints in progress or not fully resolved
 </div>
 
 <div class="keigo-card blue">
+<strong>2. 対応中案件 (Active Issues)</strong><br>
 Issues currently being managed that the incoming staff must continue or monitor.<br><br>
 <span class="keigo-badge info">Maintenance</span> Room or facility issues in progress<br>
 <span class="keigo-badge info">Complaint</span> Guest complaints being handled<br>
-<span class="keigo-badge info">Requests</span> Ongoing special requests (extra items, room changes, etc.)<br><br>
-<strong>Why second:</strong> Unresolved problems are operational risks. The incoming staff must know exactly where each issue stands so nothing falls through the gap between shifts.
+<span class="keigo-badge info">Requests</span> Ongoing special requests (extra items, room changes, etc.)
 </div>
 
 <div class="keigo-card blue">
+<strong>3. 客室状況 (Room Status)</strong><br>
 Any deviation from the standard room assignment or condition.<br><br>
 <span class="keigo-badge info">Changes</span> Room upgrades or moves completed or in progress<br>
 <span class="keigo-badge info">Delays</span> Cleaning not completed, late check-outs<br>
-<span class="keigo-badge info">Out of Order</span> Rooms that cannot be assigned<br><br>
-<strong>Why third:</strong> Room status affects every check-in and assignment decision. A room shown as available in the system may not actually be ready.
+<span class="keigo-badge info">Out of Order</span> Rooms that cannot be assigned
 </div>
 
 <div class="keigo-card blue">
+<strong>4. 未完了タスク (Pending Tasks)</strong><br>
 Requests received but not yet completed, and items requiring the incoming shift to take action.<br><br>
 <span class="keigo-badge info">Pending Requests</span> Items the guest asked for that have not been delivered<br>
 <span class="keigo-badge info">Follow-Up Required</span> Callbacks, confirmations, or arrangements not yet made<br>
-<span class="keigo-badge info">Awaiting Approval</span> Items requiring manager or department authorization<br><br>
-<strong>Why fourth:</strong> These are the action items. The incoming staff needs to know exactly what to do and in what order.
+<span class="keigo-badge info">Awaiting Approval</span> Items requiring manager or department authorization
 </div>
 
 <div class="keigo-card blue">
+<strong>5. 特記事項 (Special Notes)</strong><br>
 Anything that does not fit the above categories but must be communicated.<br><br>
 <span class="keigo-badge info">Medical</span> Allergies, medications, health concerns<br>
 <span class="keigo-badge info">Behavioral</span> Noise concerns, sensitive situations<br>
-<span class="keigo-badge info">Preferences</span> Guest preferences confirmed or noted during the shift<br><br>
-<strong>Why last:</strong> These are context items rather than action items. They inform how staff approach a guest, rather than what specific action to take.
+<span class="keigo-badge info">Preferences</span> Guest preferences confirmed or noted during the shift
 </div>
-
-## The Structure in Practice
-
-```
-最優先情報 (Priority guest information)
-305号室：VIPゲスト（鈴木様）。ウェルカムフルーツ対応済み。
-
-対応中案件 (Active issues)
-210号室：騒音クレーム。夜間スタッフ対応済み。経過確認要。
-
-客室状況 (Room status)
-412号室：清掃未完了。15:00頃対応予定。
-
-未完了タスク (Pending tasks)
-延泊希望あり（501号室）。フロント確認待ち。
-
-特記事項 (Special notes)
-604号室：ナッツアレルギーあり。レストランに申し送り済み。
-```
 
 ---
 

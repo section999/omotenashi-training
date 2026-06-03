@@ -1,7 +1,7 @@
 ---
 id: m5-internal-06
 section: 6
-title: "連絡 in Practice: Templates"
+title: 連絡 in Practice (Templates)
 ---
 
 The four most common 連絡 scenarios each require slightly different language. This lesson covers the three directional patterns (same level, upward, downward) and the contrast between incomplete and complete 連絡.
@@ -60,6 +60,7 @@ Something happened in Room 503.<br><br>
 <div class="good-col">
 <span class="keigo-pair-label">Complete (enables action)</span>
 <span class="keigo-jp"><code>503号室のお客様より、シャワーのお湯が出ないとのご連絡がありました。14時現在未対応です。メンテナンスへのご連絡をお願いできますでしょうか。</code></span><br>
+<em>go-hyaku-san goushitsu no okyakusama yori, shawaa no oyu ga denai to no go-renraku ga arimashita. juuyo-ji genzai mi-taiou desu. mentenansu e no go-renraku wo onegai deki masu deshou ka.</em><br>
 The guest in Room 503 has reported that the shower has no hot water. As of 2:00 PM this has not yet been addressed. Could you please contact maintenance?<br><br>
 <span class="keigo-badge good">Complete</span> Who (Room 503 guest), what (no hot water), when (as of 2PM), next step (contact maintenance).
 </div>

@@ -3,7 +3,7 @@ id: v11-vocab
 section: 27
 title: 転送 (tensou)
 ---
-転送 means to forward or redirect a telephone call, built from 転 (to turn or transfer) and 送 (to send). In hotel operations it is one of the routine telephone actions performed by staff, connecting guests to room service, the concierge, housekeeping, or whoever can help them. When handled well the guest barely notices the transfer happened. When handled poorly they either get disconnected or have to repeat their entire request from scratch, which is a frustrating experience that reflects badly on the whole hotel.
+転送 means to forward or redirect a telephone communication, built from 転 (to turn or transfer) and 送 (to send). In hotel operations it is one of the routine telephone actions performed by staff, connecting guests to room service, the concierge, housekeeping, or whoever can help them. When handled well the guest barely notices the transfer happened. When handled poorly they either get disconnected or have to repeat their entire request from scratch, which is a frustrating experience that reflects badly on the whole hotel.
 
 The recommended standard is what practitioners call a warm transfer. Before connecting the guest, staff reach the receiving party first, briefly explains the guest's situation, and then brings them together. One signals this to the guest with 担当者に状況をお伝えしてからお繋ぎします (I will brief the responsible person and then connect one). This takes an extra thirty seconds but changes the experience for the guest. A cold transfer, where staff forwards the call without any preparation, is discouraged in omotenashi settings
 
@@ -25,7 +25,7 @@ Before I transfer you, I will inform the responsible staff member of the details
 
 | Expression | Description |
 |---|---|
-| お繋ぎします<br>otsunagi shimasu | a softer, more guest-centered way to say "I will connect you." This phrasing is preferred over 転送します in face-to-face situations and in higher-register telephone settings because it puts the focus on serving the guest rather than describing the technical action. |
+| お繋ぎします<br>otsunagi shimasu | a softer, more guest-centered way to say "I will connect you." This phrasing is preferred over 転送します in face-to-face situations and in higher-register telephone communication settings because it puts the focus on serving the guest rather than describing the technical action. |
 | 直通<br>chokutsuu | a direct line, as in 直通番号 (direct number). Knowing which departments have direct lines matters when staff arranges a 転送, because routing a call directly avoids extra rings and the risk of the guest being passed through an unnecessary switchboard step. |
 
 ## Common Mistakes

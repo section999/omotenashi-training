@@ -22,6 +22,7 @@ I'm sorry, it might be my fault, I'm not really sure...<br><br>
 <div class="good-col">
 <span class="keigo-pair-label">What to say</span>
 <span class="keigo-jp"><code>ご報告いたします。〇〇の際に私の確認ミスがございました。現在〇〇の状況です。対応についてご指示をいただけますでしょうか。</code></span><br>
+<em>go-houkoku itashimasu. ○○ no sai ni watashi no kakunin misu ga gozaimashita. genzai ○○ no joukyou desu. taiou ni tsuite go-shiji wo itadake masu deshou ka.</em><br>
 I need to report something. I made a verification error regarding [matter]. The current situation is [X]. Could I have your guidance on how to proceed?<br><br>
 <span class="keigo-badge good">Complete</span> What happened, current status, specific request for guidance.
 </div>

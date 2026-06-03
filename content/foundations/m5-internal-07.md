@@ -1,7 +1,7 @@
 ---
 id: m5-internal-07
 section: 7
-title: "相談: When and How to Consult"
+title: 相談 (When and How to Consult)
 ---
 
 相談 (soudan) is the act of bringing an uncertain situation to a supervisor or experienced colleague and asking for guidance. It is the most complex of the three ホウレンソウ types because it requires a staff member to present a problem they have not yet solved, and to do so in a way that is structured, respectful, and actionable.

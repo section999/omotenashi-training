@@ -1715,7 +1715,7 @@ var SEARCH_INDEX = [
 
   // ── m5-phone ──────────────────────────────────────────────────────────
   { url:"pages/md-viewer.html?file=content/foundations/m5-phone-01.md", lesson:"Honorific Language for Guest Service", sub:"Telephone Service & Etiquette",
-    title:"Why Telephone Service Requires Special Skills",
+    title:"Why Telephone Service Requires Specialized Skills",
     text:"The hotel telephone is one of the most demanding service channels in hospitality. Unlike face-to-face interaction, telephone communication strips away all visual context. The guest forms their entire impression of the hotel solely through voice, word choice, and response structure." },
   { url:"pages/md-viewer.html?file=content/foundations/m5-phone-02.md", lesson:"Honorific Language for Guest Service", sub:"Telephone Service & Etiquette",
     title:"The 7-Step Call Structure",

@@ -11,41 +11,80 @@ This lesson identifies the five most common internal communication errors and pr
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Error 1: Story-first reporting</span>
-<span class="keigo-jp"><code>「今日お客様が来て、なんかいろいろあって、最終的に...」</code></span><br>
-Background before conclusion; supervisor has to wait for the key fact.<br><br>
-<span class="keigo-pair-label">Error 2: Vague 連絡</span>
-<span class="keigo-jp"><code>「なんか503号室で問題あります」</code></span><br>
-No specifics; the recipient cannot act.
+<span class="keigo-jp"><code>今日304号室のお客様が来て、なんかいろいろあって、最終的にお部屋のことでクレームになって...</code></span><br>
+A guest in Room 304 came today, and there were all sorts of things, and it ended up being a complaint about the room...<br><br>
+<span class="keigo-badge bad">Problem</span> The key fact (a complaint) appears at the end. The supervisor has to wait through the background before understanding what happened.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction 1</span>
-<span class="keigo-jp"><code>「〇〇号室のお客様より〇〇のご苦情がございました。ご報告いたします」</code></span><br>
-Key fact first.<br><br>
+<span class="keigo-jp"><code>304号室のお客様より、お部屋の清掃に関するご苦情がございました。ご報告いたします。</code></span><br>
+<em>sanbyaku-yon goushitsu no okyakusama yori, o-heya no seisou ni kansuru go-kujo ga gozaimashita. go-houkoku itashimasu.</em><br>
+The guest in Room 304 has lodged a complaint regarding room cleaning. I am reporting this now.<br><br>
+<span class="keigo-badge good">Key fact first</span> The complaint is stated immediately. The supervisor can act before the full explanation is given.
+</div>
+</div>
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error 2: Vague 連絡</span>
+<span class="keigo-jp"><code>なんか503号室で問題あります。</code></span><br>
+There's like a problem with Room 503.<br><br>
+<span class="keigo-badge bad">Problem</span> No room, no issue type, no action requested. The recipient cannot act without asking several follow-up questions.
+</div>
+<div class="good-col">
 <span class="keigo-pair-label">Correction 2</span>
-<span class="keigo-jp"><code>「503号室のお客様よりシャワーが使えないとのご報告がありました。メンテナンスの連絡をお願いできますでしょうか」</code></span><br>
-Room, issue, action needed.
+<span class="keigo-jp"><code>503号室のお客様よりシャワーが使えないとのご報告がありました。メンテナンスへのご連絡をお願いできますでしょうか。</code></span><br>
+<em>go-hyaku-san goushitsu no okyakusama yori shawaa ga tsukaenai to no go-houkoku ga arimashita. mentenansu e no go-renraku wo onegai deki masu deshou ka.</em><br>
+The guest in Room 503 has reported that the shower is not working. Could you please contact maintenance?<br><br>
+<span class="keigo-badge good">Room, issue, action needed</span> The recipient knows exactly what happened and what to do next.
 </div>
 </div>
 
 <div class="keigo-pair">
 <div class="bad-col">
 <span class="keigo-pair-label">Error 3: Vague 相談</span>
-<span class="keigo-jp"><code>「どうしたらいいですか？」</code></span><br>
-No situation, no context, no specific question; supervisor must ask multiple follow-up questions.<br><br>
-<span class="keigo-pair-label">Error 4: Avoiding error reports</span>
-Waiting to see if the problem resolves itself before telling a supervisor.<br><br>
-<span class="keigo-pair-label">Error 5: Using guest-facing language internally</span>
-<span class="keigo-jp"><code>「誠に恐れ入りますが、ご確認いただけますでしょうか」</code></span><br>
-This level of formality is unusual internally and slows down communication.
+<span class="keigo-jp"><code>どうしたらいいですか？</code></span><br>
+What should I do?<br><br>
+<span class="keigo-badge bad">Problem</span> No room, no situation, no specific question. The supervisor must ask multiple follow-up questions before they can give any guidance.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Correction 3</span>
-Provide the situation, what you have considered, and your specific question before asking for guidance.<br><br>
+<span class="keigo-jp"><code>206号室のお客様がアーリーチェックインをご希望です。13時のご到着予定ですが、現在お部屋の清掃が完了しておりません。対応についてご指示をいただけますでしょうか。</code></span><br>
+<em>nihyaku-roku goushitsu no okyakusama ga aaree chekku-in wo go-kibou desu. juusan-ji no go-touchaku yotei desu ga, genzai o-heya no seisou ga kanryou shite ori masen. taiou ni tsuite go-shiji wo itadake masu deshou ka.</em><br>
+The guest in Room 206 is requesting early check-in. They are scheduled to arrive at 1:00 PM, but the room cleaning is not yet complete. Could you advise on how to proceed?<br><br>
+<span class="keigo-badge good">Situation, constraint, specific question</span> The supervisor has everything needed to give a clear decision.
+</div>
+</div>
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error 4: Delaying an error report</span>
+<span class="keigo-jp"><code>実は2時間前からお客様にご不便をおかけしていたんですが、様子を見ていて...</code></span><br>
+Actually, the guest has been inconvenienced for the past two hours, but I was waiting to see what happened...<br><br>
+<span class="keigo-badge bad">Problem</span> The supervisor lost two hours of response time. Early problems are easier to resolve; delayed reports limit options.
+</div>
+<div class="good-col">
 <span class="keigo-pair-label">Correction 4</span>
-Report immediately. The earlier a supervisor knows, the more options they have to resolve it smoothly.<br><br>
+<span class="keigo-jp"><code>ただいまご報告いたします。〇〇の件で問題が発生いたしました。</code></span><br>
+<em>tadaima go-houkoku itashimasu. ○○ no ken de mondai ga hassei itashimashita.</em><br>
+I need to report something right now. A problem has occurred regarding [X].<br><br>
+<span class="keigo-badge good">Report immediately</span> The supervisor is informed as soon as the problem is identified, while options are still available.
+</div>
+</div>
+
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Error 5: Guest-facing language used internally</span>
+<span class="keigo-jp"><code>誠に恐れ入りますが、ご確認いただけますでしょうか。</code></span><br>
+I am terribly sorry to trouble you, but could you kindly verify this?<br><br>
+<span class="keigo-badge bad">Problem</span> This register is for guests; used internally it slows communication and sounds unnatural.
+</div>
+<div class="good-col">
 <span class="keigo-pair-label">Correction 5</span>
-<span class="keigo-jp"><code>「〇〇の件、確認いただけますか」</code></span><br>
-Functional and professional without over-formality.
+<span class="keigo-jp"><code>〇〇の件、確認いただけますか。</code></span><br>
+<em>○○ no ken, kakunin itadakemasu ka.</em><br>
+Could you check on [X]?<br><br>
+<span class="keigo-badge good">Functional and professional</span> Direct and clear without being rude. Internal communication should be efficient; reserve high-formality keigo for guests.
 </div>
 </div>
 

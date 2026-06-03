@@ -4,7 +4,7 @@ section: 16
 title: Emergency Call Protocol
 ---
 
-Emergency calls, power failure, medical concern, fire alarm, injury, require a response that is the opposite of natural instinct. The human instinct in an emergency is to react with urgency, ask many questions, and show concern vocally. In hotel telephone service, this is exactly what must be avoided.
+Emergency calls, power failure, medical concern, fire alarm, injury, require a response that is the opposite of natural instinct. The human instinct in an emergency is to react with urgency, ask many questions, and show concern vocally. In telephone service, this is exactly what must be avoided.
 
 **Staff must act as a stabilizing force.** If the staff member sounds panicked or confused, the guest's anxiety immediately increases. The call must project calm and controlled authority from the first word.
 

@@ -8,43 +8,27 @@ The technical skills of handover writing are learnable in hours. The professiona
 
 ## What the Professional Standard Looks Like
 
-A professional handover is not defined by what is in the notes. It is defined by the effect on the next shift.
-
-**Traceable:** Can the incoming staff trace every guest situation from start to current state?
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Traceable</span>
+<em>Can the incoming staff trace every guest situation from start to current state?</em><br><br>
 Every entry must include who, what, and what was done. Time, room number, and responsible party should always be present.
+</div>
 
-**Actionable:** Does every entry tell the incoming staff what to do?
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Actionable</span>
+<em>Does every entry tell the incoming staff what to do?</em><br><br>
 If an entry contains only a problem with no status or next step, it is not actionable. It is noise.
+</div>
 
-**Complete:** Is there anything the incoming staff would need to ask about?
-
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Complete</span>
+<em>Is there anything the incoming staff would need to ask about?</em><br><br>
 If the answer is yes, the handover is not done yet.
+</div>
 
 ## The Shift-End Mindset
 
-Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought.
-
-The shift-end mindset is not "the clock hit 22:00 and I went home." It is: every VIP is flagged, every active problem has a clear status, every pending task has an owner, and the incoming staff has confirmed they understand the situation.
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>引き継ぎが完了するまでが、あなたのシフトです。</code></span><br>
-<em>hikitsugi ga kanryou suru made ga, anata no shifuto desu.</em><br>
-Your shift continues until the handover is complete.
-</div>
-
-## What Good Handover Creates
-
-When every staff member meets this standard, the result is not just better notes. It is a different quality of guest experience.
-
-Guests never repeat themselves across shifts. No VIP arrives without the right preparation. No complaint stays unresolved because it was lost between shifts. No maintenance issue surprises the incoming team.
-
-All of this happens because of what is written, when it is written, and how well it communicates. The guest never sees the handover. But they feel whether it was done well.
-
-## The Golden Rule
-
-If the incoming staff cannot act immediately based on what you wrote, the handover is not complete.
+Hotel shifts do not end when the clock changes. They end when the incoming staff has everything they need to take over without any gaps. This means finishing the handover is part of the job, not an afterthought. Your shift continues until the handover is complete.
 
 ---
 

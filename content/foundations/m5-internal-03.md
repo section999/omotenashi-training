@@ -1,7 +1,7 @@
 ---
 id: m5-internal-03
 section: 3
-title: "報告: The Conclusion-First Principle"
+title: 報告 (The Conclusion-First Principle)
 ---
 
 報告 (houkoku) is the act of reporting outcomes, problems, or guest situations to a supervisor. In Japanese professional culture, reporting is not optional; it is a core duty. A staff member who completes a task but does not report the outcome leaves their supervisor without the information needed to manage the floor effectively.
@@ -14,10 +14,20 @@ In casual conversation, we often build toward a conclusion: "I went to the room,
 
 The correct structure is: **conclusion, then situation, then action taken or needed**.
 
-| Style | Example |
-|---|---|
-| Story-first (avoid) | <span>「702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...」</span> |
-| Conclusion-first (correct) | <span>「702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。」</span> |
+<div class="keigo-pair">
+<div class="bad-col">
+<span class="keigo-pair-label">Story-first (avoid)</span>
+<span class="keigo-jp"><code>702号室に行ったのですが、チェックアウト後に清掃を始めようとしたら、まだお客様がいらっしゃって...</code></span><br>
+<em>702 goushitsu ni itta no desu ga, chekku-auto go ni seisou wo hajimeyou to shitara, mada okyakusama ga irasshatte...</em><br>
+I went to Room 702, and when I tried to start cleaning after checkout, the guest was still there...
+</div>
+<div class="good-col">
+<span class="keigo-pair-label">Conclusion-first (correct)</span>
+<span class="keigo-jp"><code>702号室のご退出が遅れております。チェックアウト予定の11時を過ぎておりますが、まだご在室のようです。</code></span><br>
+<em>702 goushitsu no go-taishutsu ga okureteori masu. chekku-auto yotei no juuichi-ji wo sugite ori masu ga, mada go-zaishitsu no you desu.</em><br>
+Room 702's departure is delayed. It is past the scheduled 11:00 checkout, and the guest appears to still be in the room.
+</div>
+</div>
 
 ## The Three-Part Report Structure
 

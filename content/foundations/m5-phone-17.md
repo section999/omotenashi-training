@@ -4,7 +4,7 @@ section: 17
 title: Common Telephone Mistakes and Professional Standards
 ---
 
-This lesson covers the five most frequent mistakes in hotel telephone communication and the professional mindset that separates excellent telephone service from merely adequate communication.
+This lesson covers the five most frequent mistakes in telephone communication and the professional mindset that separates excellent telephone service from merely adequate communication.
 
 ## Common Telephone Mistakes and Their Consequences
 
@@ -26,7 +26,7 @@ When a staff member is checking the system, they can see what is happening. The 
 
 ## The Professional Telephone Mindset
 
-"In a telephone call, my voice is the hotel."
+"In a telephone communication, my voice is the hotel."
 
 There is no physical environment, no smile, no lobby atmosphere. Everything the guest experiences of the hotel's quality comes through the voice, structure, and language of the call. This is not an exaggeration; it is the operational reality.
 
@@ -35,13 +35,13 @@ There is no physical environment, no smile, no lobby atmosphere. Everything the 
 - **Calm** over enthusiasm. The goal is reassurance, not energy.
 - **Consistency** over variation. Every call should sound the same. Guests trust predictability.
 
-The goal of hotel telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable**, the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
+The goal of telephone communication is not to sound human and warm in the way a friend sounds warm. It is to sound **system-reliable**, the way a trusted institution sounds reliable. Guests call a hotel because they need something. The most powerful reassurance the staff member can offer is the sense that the system behind the voice will deliver on every request, consistently.
 
 ---
 
 ## Quiz
 
-**Which telephone mistake has the most direct operational consequence?**
+**Which telephone communication mistake has the most direct operational consequence?**
 
 - A. Thanking the guest at the end of the call
 - B. Processing a request without repeating the details back for confirmation
@@ -50,4 +50,4 @@ The goal of hotel telephone communication is not to sound human and warm in the 
 
 **Correct Answer:** B
 
-**Explanation:** Skipping confirmation before processing means errors in names, dates, and room types enter the system undetected. A booking under the wrong name or for the wrong date requires operational correction, and in peak periods such errors may be irreversible. Of the five common telephone mistakes, missing confirmation has the most direct and concrete impact on hotel operations. Casual language reduces perceived quality, but confirmation errors create real booking failures.
+**Explanation:** Skipping confirmation before processing means errors in names, dates, and room types enter the system undetected. A booking under the wrong name or for the wrong date requires operational correction, and in peak periods such errors may be irreversible. Of the five common telephone communication mistakes, missing confirmation has the most direct and concrete impact on hotel operations. Casual language reduces perceived quality, but confirmation errors create real booking failures.

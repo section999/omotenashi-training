@@ -52,14 +52,16 @@ A common misunderstanding is that keigo is a performance, like putting on a mask
 <span class="keigo-pair-label">Keigo as performance</span>
 <span class="keigo-jp"><code>かしこまりました。</code></span><br>
 <em>kashikomarimashita.</em><br>
-Said while glancing at a screen, mid-task.<br><br>
+Certainly.<br>
+(Said while glancing at a screen, mid-task.)<br><br>
 <span class="keigo-badge bad">Wrong</span> The correct words are present, but the delivery reveals the staff is not fully present. Guests notice immediately.
 </div>
 <div class="good-col">
 <span class="keigo-pair-label">Keigo as trained standard</span>
 <span class="keigo-jp"><code>かしこまりました。</code></span><br>
 <em>kashikomarimashita.</em><br>
-Said after pausing, turning toward the guest, with eye contact.<br><br>
+Certainly.<br>
+(Said after pausing, turning toward the guest, with eye contact.)<br><br>
 <span class="keigo-badge good">Correct</span> Same phrase. The standard is in the delivery, not just the vocabulary.
 </div>
 </div>

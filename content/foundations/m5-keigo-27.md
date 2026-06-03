@@ -42,9 +42,11 @@ Using 尊敬語 verbs to describe your own actions or a colleague's actions elev
 <span class="keigo-pair-label">Error</span>
 <span class="keigo-jp"><code>私がご案内していらっしゃいます。</code></span><br>
 <em>watashi ga go-annai shite irasshaimasu.</em><br>
+I will guide you.<br>
 (using 尊敬語 for self)<br><br>
 <span class="keigo-jp"><code>担当者がいらっしゃいます。</code></span><br>
 <em>tantousha ga irasshaimasu.</em><br>
+The person in charge is here.<br>
 (using 尊敬語 for a colleague)<br><br>
 <span class="keigo-badge bad">Why it happens</span> Confusion about which direction the hierarchy runs.
 </div>
@@ -52,9 +54,11 @@ Using 尊敬語 verbs to describe your own actions or a colleague's actions elev
 <span class="keigo-pair-label">Correction</span>
 <span class="keigo-jp"><code>私がご案内いたします。</code></span><br>
 <em>watashi ga go-annai itashimasu.</em><br>
+I will guide you.<br>
 (謙譲語 for self)<br><br>
 <span class="keigo-jp"><code>担当者がおります。</code></span><br>
 <em>tantousha ga orimasu.</em><br>
+The person in charge is here.<br>
 (humble form for colleague)<br><br>
 <span class="keigo-badge good">Rule</span> Staff and colleagues = 謙譲語. Only the guest gets 尊敬語.
 </div>

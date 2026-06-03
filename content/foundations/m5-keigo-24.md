@@ -12,47 +12,69 @@ Every keigo choice comes down to one question: who is performing the action?
 
 | Subject | Keigo Type | Verb Approach |
 |---|---|---|
-| Guest is acting | <span>尊敬語</span> | Use an honorific verb form |
-| Staff is acting | <span>謙譲語</span> | Use a humble verb form |
-| Object, situation, or general information | <span>丁寧語</span> | Use a refined baseline form |
+| Guest | <span>尊敬語</span> | Use an honorific verb form |
+| Staff | <span>謙譲語</span> | Use a humble verb form |
+| None | <span>丁寧語</span> | Use a refined baseline form |
 
 Once the subject is identified, apply the correct verb form and prefixes to build the full sentence.
 
 ## Practice Set: Applying the Decision
 
+### 尊敬語 (Subject: Guest)
+
 <div class="keigo-card blue">
-<strong>「お客様が食事をします」</strong><br>
-Actor: guest. Type: 尊敬語.<br><br>
+<span class="keigo-pair-label">Example</span>
+「お客様が食事をします」<br><br>
+<span class="vocab-example-label">Keigo form</span>
 <span class="keigo-jp"><code>お客様がお食事を召し上がります。</code></span><br>
 <em>okyakusama ga o-shokuji o meshiagarimasu.</em><br>
-The guest is eating.<br><br>
-<strong>「私が荷物を運びます」</strong><br>
-Actor: staff. Type: 謙譲語.<br><br>
+The guest is eating.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Practice</span>
+The guest is walking to the elevator.<br><br>
+<span class="vocab-example-label">Keigo form</span>
+<span class="keigo-jp"><code>エレベーターへいらっしゃいますか。こちらでございます。ご案内いたします。</code></span><br>
+<em>erebeta e irasshaimasu ka. kochira de gozaimasu. go-annai itashimasu.</em><br>
+Are you heading to the elevator? It is this way. I will guide you.
+</div>
+
+### 謙譲語 (Subject: Staff)
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Example</span>
+「私が荷物を運びます」<br><br>
+<span class="vocab-example-label">Keigo form</span>
 <span class="keigo-jp"><code>お荷物をお運びいたします。</code></span><br>
 <em>o-nimotsu o o-hakobi itashimasu.</em><br>
-I will carry your luggage.<br><br>
-<strong>「朝食は1階です」</strong><br>
-Actor: none (fact). Type: 丁寧語.<br><br>
+I will carry your luggage.
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Practice</span>
+You are about to bring the guest's luggage to their room.<br><br>
+<span class="vocab-example-label">Keigo form</span>
+<span class="keigo-jp"><code>お荷物をお部屋にお届けいたします。</code></span><br>
+<em>o-nimotsu o o-heya ni o-todoke itashimasu.</em><br>
+I will bring your luggage to your room.
+</div>
+
+### 丁寧語 (Subject: None)
+
+<div class="keigo-card blue">
+<span class="keigo-pair-label">Example</span>
+「朝食は1階です」<br><br>
+<span class="vocab-example-label">Keigo form</span>
 <span class="keigo-jp"><code>朝食は1階でございます。</code></span><br>
 <em>choushoku wa ikkai de gozaimasu.</em><br>
 Breakfast is on the 1st floor.
 </div>
 
-## Rapid Judgment Practice
-
 <div class="keigo-card blue">
-<strong>Situation A:</strong> The guest is walking to the elevator.<br>
-Guest is acting → 尊敬語<br><br>
-<span class="keigo-jp"><code>エレベーターへいらっしゃいますか。こちらでございます。ご案内いたします。</code></span><br>
-<em>erebeta e irasshaimasu ka. kochira de gozaimasu. go-annai itashimasu.</em><br>
-Are you heading to the elevator? It is this way. I will guide you.<br><br>
-<strong>Situation B:</strong> You are about to bring the guest's luggage to their room.<br>
-Staff is acting → 謙譲語<br><br>
-<span class="keigo-jp"><code>お荷物をお部屋にお届けいたします。</code></span><br>
-<em>o-nimotsu o o-heya ni o-todoke itashimasu.</em><br>
-I will bring your luggage to your room.<br><br>
-<strong>Situation C:</strong> You are telling the guest the pool is on the 3rd floor.<br>
-No actor (fact) → 丁寧語<br><br>
+<span class="keigo-pair-label">Practice</span>
+You are telling the guest the pool is on the 3rd floor.<br><br>
+<span class="vocab-example-label">Keigo form</span>
 <span class="keigo-jp"><code>プールは3階にございます。</code></span><br>
 <em>puru wa sankai ni gozaimasu.</em><br>
 The pool is on the 3rd floor.

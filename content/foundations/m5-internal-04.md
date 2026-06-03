@@ -1,7 +1,7 @@
 ---
 id: m5-internal-04
 section: 4
-title: "報告 in Practice: Templates and Timing"
+title: 報告 in Practice (Templates and Timing)
 ---
 
 Knowing the conclusion-first principle is not enough on its own. You also need ready-made language for the three most common reporting situations: task completion, problem discovery, and guest situations requiring supervisor awareness. This lesson provides those templates and covers the timing rules for when to report.

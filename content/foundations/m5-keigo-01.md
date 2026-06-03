@@ -39,7 +39,7 @@ Thank you. We look forward to welcoming you again.<br><br>
 
 Keigo operates on three levels simultaneously in every sentence:
 
-- **Who is acting**: the guest, the staff, or neither
+- **Who the subject is**: the guest, the staff, or neither
 - **What kind of words are used**: prefixes, verb forms, and sentence endings
 - **How the overall tone is maintained**: from the first word to the last particle
 

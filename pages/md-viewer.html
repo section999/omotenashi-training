@@ -368,6 +368,7 @@
     .keigo-card.amber .keigo-card-title { color: var(--accent-yellow); }
     .keigo-card.red .keigo-card-title { color: var(--accent-red); }
     .keigo-badge { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 4px; margin-right: 6px; }
+    .jp-sentence-wrap > .keigo-badge { margin-right: 0; margin-bottom: 5px; align-self: flex-start; }
     .keigo-badge.bad { background: rgba(197,68,42,0.15); color: var(--accent-red); }
     .keigo-badge.good { background: rgba(31,173,105,0.15); color: var(--accent-green); }
     .keigo-badge.info { background: rgba(10,42,106,0.25); color: #6eb5ff; }
@@ -1838,6 +1839,26 @@ function renumberOrder(qId) {
   })
 }
 // ── JAPANESE TTS ──────────────────────────────────────────────────────────────
+// Pronunciation corrections for kanji that browser TTS commonly misreads.
+// Maps display text (substring) → phonetic hiragana replacement for TTS only.
+const TTS_CORRECTIONS = {
+  '要対応':   'ようたいおう',
+  '要確認':   'ようかくにん',
+  '要注意':   'ようちゅうい',
+  '雑巾':     'ぞうきん',
+  '素泊まり': 'すどまり',
+  '後払い':   'あとばらい',
+  '早割':     'はやわり',
+  '引換券':   'ひきかえけん',
+  '何時':     'なんじ',
+};
+function _applyTtsCorrections(text) {
+  for (const [kanji, kana] of Object.entries(TTS_CORRECTIONS)) {
+    text = text.replaceAll(kanji, kana);
+  }
+  return text;
+}
+
 let _toastTimer = null;
 let _activeSpeakEl = null;
 let _ttsQueue = [];
@@ -1867,7 +1888,7 @@ function _ttsProcessQueue() {
 
   // Chrome needs a small delay after cancel() before speak()
   setTimeout(() => {
-    const utt = new SpeechSynthesisUtterance(text);
+    const utt = new SpeechSynthesisUtterance(_applyTtsCorrections(text));
     utt.lang = 'ja-JP';
     utt.rate  = _jaVoiceParams ? _jaVoiceParams.rate  : 0.85;
     utt.pitch = _jaVoiceParams ? _jaVoiceParams.pitch : 1.0;
@@ -1905,6 +1926,7 @@ function wrapJapanese(root) {
     const tag = node.tagName;
     if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'CODE' || tag === 'PRE') return;
     if (node.classList && node.classList.contains('dialogue-bubble')) return;
+    if (node.classList && node.classList.contains('bad-col')) return;
     node.childNodes.forEach(c => collectTextNodes(c, acc));
   }
   const textNodes = [];
@@ -1960,18 +1982,37 @@ function makeJpActionBtns(jpText, romajiEl) {
   return wrap;
 }
 
+// Remove TTS/romaji from .bad-col (wrong examples should not be practiced)
+function cleanBadCol(root) {
+  root.querySelectorAll('.bad-col').forEach(col => {
+    // Unwrap .jp-speak spans — replace with plain text node
+    col.querySelectorAll('.jp-speak').forEach(span => {
+      span.parentNode.replaceChild(document.createTextNode(span.textContent), span);
+    });
+    // Remove romaji <em> and its adjacent <br> nodes
+    col.querySelectorAll('em').forEach(em => {
+      const prev = em.previousSibling;
+      const next = em.nextSibling;
+      if (prev && prev.nodeName === 'BR') prev.remove();
+      if (next && next.nodeName === 'BR') next.remove();
+      em.remove();
+    });
+  });
+}
+
 // Wrap .keigo-jp sentences: [jp + btns] with romaji dropdown below
 function wrapKeigoJpCodes(root) {
   root.querySelectorAll('.keigo-jp .jp-speak, .keigo-jp code').forEach(inner => {
-    inner.classList.add('jp-word');
     const keigoJp = inner.closest('.keigo-jp');
     if (!keigoJp) return;
+    if (keigoJp.closest('.bad-col')) return;
+    inner.classList.add('jp-word');
 
     // Find adjacent <em> romaji before any DOM changes.
     // Only link if separated by at most 1 <br> (double-br means a new paragraph — not romaji).
     let sib = keigoJp.nextSibling;
     let brCount = 0;
-    while (sib && (sib.nodeType === Node.TEXT_NODE || (sib.nodeType === Node.ELEMENT_NODE && sib.tagName === 'BR'))) {
+    while (sib && (sib.nodeType === Node.TEXT_NODE || (sib.nodeType === Node.ELEMENT_NODE && (sib.tagName === 'BR' || sib.classList.contains('keigo-badge'))))) {
       if (sib.tagName === 'BR') brCount++;
       sib = sib.nextSibling;
     }
@@ -1981,13 +2022,25 @@ function wrapKeigoJpCodes(root) {
       inner.dataset.romaji = romajiEm.textContent.trim();
     }
 
-    // Build: .jp-sentence-wrap > [.jp-top-line: keigoJp + btns] + [romajiEm]
+    // Find adjacent .keigo-badge sibling before any DOM changes
+    let badgeSib = keigoJp.nextSibling;
+    let badgeEl = null;
+    while (badgeSib) {
+      if (badgeSib.nodeType === Node.ELEMENT_NODE && badgeSib.classList.contains('keigo-badge')) {
+        badgeEl = badgeSib; break;
+      }
+      if (badgeSib.nodeType !== Node.TEXT_NODE) break;
+      badgeSib = badgeSib.nextSibling;
+    }
+
+    // Build: .jp-sentence-wrap > [badge?] + [.jp-top-line: keigoJp + btns] + [romajiEm]
     const wrapper = document.createElement('span');
     wrapper.className = 'jp-sentence-wrap';
     const topLine = document.createElement('span');
     topLine.className = 'jp-top-line';
 
     keigoJp.parentNode.insertBefore(wrapper, keigoJp);
+    if (badgeEl) wrapper.appendChild(badgeEl);
     topLine.appendChild(keigoJp);
     topLine.appendChild(makeJpActionBtns(inner.textContent.trim(), romajiEm));
     wrapper.appendChild(topLine);
@@ -2034,6 +2087,24 @@ function initTableRomaji(root) {
       .filter(n => n.nodeName !== 'EM' && n.nodeName !== 'BR')
       .map(n => n.textContent).join('').trim();
     span.after(makeJpActionBtns(jpText, em));
+  });
+
+  // Pattern C: table without "Reading" column — speak-only button for Japanese term cells
+  const JP_RE_TBL = /[\u3040-\u9FFF\uFF00-\uFFEF]/;
+  root.querySelectorAll('table').forEach(table => {
+    const ths = Array.from(table.querySelectorAll('thead th'));
+    if (ths.some(th => /^reading$/i.test(th.textContent.trim()))) return;
+    table.querySelectorAll('tbody td').forEach(td => {
+      const span = td.querySelector('span');
+      if (!span) return;
+      // Only match direct text nodes — skip spans where Japanese is inside a <code> child
+      const jpText = Array.from(span.childNodes)
+        .filter(n => n.nodeType === Node.TEXT_NODE)
+        .map(n => n.textContent).join('').trim();
+      if (!JP_RE_TBL.test(jpText)) return;
+      if (td.querySelector('.jp-action-btns')) return;
+      td.appendChild(makeJpActionBtns(jpText, null));
+    });
   });
 }
 
@@ -2510,7 +2581,7 @@ function speakJp(text, rateOverride, voiceOverride, pitchOffset) {
   speechSynthesis.cancel();
   if (_ttsKeepAliveTimer) { clearTimeout(_ttsKeepAliveTimer); _ttsKeepAliveTimer = null; }
 
-  const chunks = _splitJp(text);
+  const chunks = _splitJp(_applyTtsCorrections(text));
   const { rate: defaultRate, pitch: basePitch } = voice === _jaVoiceSecondary && _jaVoiceSecondaryParams ? _jaVoiceSecondaryParams : _jaVoiceParams;
   const rate = rateOverride != null ? rateOverride : defaultRate;
 
@@ -3344,6 +3415,7 @@ async function render() {
   if (bodyEl) wrapKeigoJpCodes(bodyEl);
   if (bodyEl) initTableRomaji(bodyEl);
   if (bodyEl) initPhraseBlockBtns(bodyEl);
+  if (bodyEl) cleanBadCol(bodyEl);
 
   // ── Wrap tables in overflow-auto containers (so table fills content width) ──
   if (bodyEl) {

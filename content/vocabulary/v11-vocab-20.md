@@ -6,7 +6,7 @@ title: お名前を頂戴できますか (onamae wo choudai dekimasu ka)
 
 お名前を頂戴できますか is the standard phrase for asking a guest or caller for their name. The word 頂戴 (choudai) translates as "to humbly receive," which frames the guest's name as something being graciously offered rather than demanded. This reflects the omotenashi principle that the guest is always treated as the social superior, and every interaction is shaped by humility and gratitude on the staff's part.
 
-In hotel telephone scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, the name should be repeated back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name reduces transcription errors and routing mistakes, which saves time
+In telephone communication scripts, this phrase typically appears early in a call, right after the initial greeting, to establish who the caller is before proceeding with their inquiry. It also comes up at check-in and when confirming reservations. After asking, the name should be repeated back slowly and clearly: ○○様でいらっしゃいますね (one is Mr./Ms. ○○, correct?). Speaking slowly when asking for a name reduces transcription errors and routing mistakes, which saves time
 
 ## Example Sentences
 
@@ -48,4 +48,4 @@ Shortening the phrase to お名前は？ or お名前を教えてください wh
 
 **Correct Answer:** お名前を頂戴できますか (may I have your name?)
 
-**Explanation:** お名前を頂戴できますか uses 頂戴 to frame the guest's name as something graciously offered rather than demanded, which reflects the humility that formal hospitality register requires. The more direct alternatives, お名前は何ですか or お名前は？, carry the right meaning but sound abrupt on a hotel telephone line. After asking, the name should be repeated back clearly to the caller, because this phrase opens a loop that only closes when staff confirm.
+**Explanation:** お名前を頂戴できますか uses 頂戴 to frame the guest's name as something graciously offered rather than demanded, which reflects the humility that formal hospitality register requires. The more direct alternatives, お名前は何ですか or お名前は？, carry the right meaning but sound abrupt on a telephone line. After asking, the name should be repeated back clearly to the caller, because this phrase opens a loop that only closes when staff confirm.

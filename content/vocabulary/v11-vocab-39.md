@@ -4,7 +4,7 @@ section: 39
 title: もう一度お願いします (mouichido onegai shimasu)
 ---
 
-もう一度お願いします means "please say that once more," and in hotel telephone communication it is a notably important practical phrase in hotel telephone communication. Mishearing a single digit in a phone number or one syllable in a guest's name can cascade into errors across reservations, billing records, and guest room assignments. Japanese hospitality culture values accuracy, and asking for clarification is considered responsible rather than incompetent. A common error is to hold back from using this phrase out of hesitation, but the alternative, guessing, is more damaging than asking.
+もう一度お願いします means "please say that once more," and in telephone communication it is a notably important practical phrase in telephone communication. Mishearing a single digit in a phone number or one syllable in a guest's name can cascade into errors across reservations, billing records, and guest room assignments. Japanese hospitality culture values accuracy, and asking for clarification is considered responsible rather than incompetent. A common error is to hold back from using this phrase out of hesitation, but the alternative, guessing, is more damaging than asking.
 
 The phrase is most effective when framed with a polite apology at the front and a read-back confirmation at the back: 恐れ入りますが、もう一度おっしゃっていただけますか, and then once the caller repeats the information, confirming it back with ご確認のために繰り返させていただきます. That loop of request, repeat, and read-back is how professional telephone handling prevents errors. Luxury hotel settings call for the more refined form もう一度おっしゃっていただけますでしょうか because it uses the honorific verb おっしゃる for the guest's speech and the softened conditional ending for additional politeness
 

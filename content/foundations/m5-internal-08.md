@@ -1,7 +1,7 @@
 ---
 id: m5-internal-08
 section: 8
-title: "相談 in Practice: Templates"
+title: 相談 in Practice (Templates)
 ---
 
 Once you understand when and why to consult, you need ready-made language for each consulting scenario. This lesson covers the three consultation patterns and the correct way to receive guidance once it has been given.
@@ -46,6 +46,7 @@ The guest in Room 603 is saying something. What should I do?<br><br>
 <div class="good-col">
 <span class="keigo-pair-label">Structured consultation (correct)</span>
 <span class="keigo-jp"><code>603号室の田中様がレイトチェックアウトをご希望でいらっしゃいます。13時を希望されておりますが、当日は満室のため通常は難しい状況です。ご判断いただけますでしょうか。</code></span><br>
+<em>roku-hyaku-san goushitsu no tanaka-sama ga reeto chekku-auto wo go-kibou de irasshaimasu. juusan-ji wo kibou sarete ori masu ga, toujitsu wa manshou no tame tsujou wa muzukashii joukyou desu. go-handan itadake masu deshou ka.</em><br>
 Mr. Tanaka in Room 603 is requesting a late checkout until 1:00 PM. As the hotel is fully booked today, this is normally difficult to accommodate. Could you advise on how to proceed?<br><br>
 <span class="keigo-badge good">Complete</span> Situation + constraint + specific decision needed.
 </div>

@@ -8,41 +8,41 @@ Facility, maintenance, and time vocabulary allows you to describe physical probl
 
 ## Facility and Room Terms
 
-| Term | Reading | Meaning |
-|---|---|---|
-| <span>客室</span> | <span>kyakushitsu</span> | guest room |
-| <span>フロント</span> | <span>furonto</span> | front desk |
-| <span>レストラン</span> | <span>resutoran</span> | restaurant |
-| <span>空調</span> | <span>kuchou</span> | air conditioning |
-| <span>清掃</span> | <span>seisou</span> | cleaning / housekeeping |
-| <span>設備</span> | <span>setsubi</span> | facility / equipment |
-| <span>廊下</span> | <span>rouka</span> | corridor / hallway |
+| Term | Meaning |
+|---|---|
+| <span>客室<br><em>kyakushitsu</em></span> | guest room |
+| <span>フロント<br><em>furonto</em></span> | front desk |
+| <span>レストラン<br><em>resutoran</em></span> | restaurant |
+| <span>空調<br><em>kuchou</em></span> | air conditioning |
+| <span>清掃<br><em>seisou</em></span> | cleaning / housekeeping |
+| <span>設備<br><em>setsubi</em></span> | facility / equipment |
+| <span>廊下<br><em>rouka</em></span> | corridor / hallway |
 
 空調 is the correct operational term for air conditioning in handover entries. エアコン appears in spoken language and in quotes from guests, but 空調不良 is the written standard for recording an AC issue.
 
 ## Maintenance Terms
 
-| Term | Reading | Meaning |
-|---|---|---|
-| <span>故障</span> | <span>koshou</span> | breakdown / failure |
-| <span>不具合</span> | <span>fuguai</span> | malfunction / problem |
-| <span>修理手配</span> | <span>shuri tehai</span> | repair arranged |
-| <span>点検</span> | <span>tenken</span> | inspection / check |
-| <span>対応予定</span> | <span>taiou yotei</span> | scheduled for action |
-| <span>申し送り</span> | <span>moushiokuri</span> | written handover record |
+| Term | Meaning |
+|---|---|
+| <span>故障<br><em>koshou</em></span> | breakdown / failure |
+| <span>不具合<br><em>fuguai</em></span> | malfunction / problem |
+| <span>修理手配<br><em>shuri tehai</em></span> | repair arranged |
+| <span>点検<br><em>tenken</em></span> | inspection / check |
+| <span>対応予定<br><em>taiou yotei</em></span> | scheduled for action |
+| <span>申し送り<br><em>moushiokuri</em></span> | written handover record |
 
 修理手配済み means the repair has been arranged (confirmed). 修理手配中 means it is still being arranged. Use the exact form that reflects the actual status.
 
 ## Time Terms
 
-| Term | Reading | Meaning |
-|---|---|---|
-| <span>本日中</span> | <span>honjitsu chuu</span> | by end of today |
-| <span>至急</span> | <span>shikyuu</span> | urgent / immediately |
-| <span>○○頃</span> | <span>○○ goro</span> | around ○○ (approximate time) |
-| <span>○○まで</span> | <span>○○ made</span> | by ○○ (deadline) |
-| <span>本日</span> | <span>honjitsu</span> | today (formal) |
-| <span>翌日</span> | <span>yokujitsu</span> | the following day |
+| Term | Meaning |
+|---|---|
+| <span>本日中<br><em>honjitsu chuu</em></span> | by end of today |
+| <span>至急<br><em>shikyuu</em></span> | urgent / immediately |
+| <span>○○頃<br><em>○○ goro</em></span> | around ○○ (approximate time) |
+| <span>○○まで<br><em>○○ made</em></span> | by ○○ (deadline) |
+| <span>本日<br><em>honjitsu</em></span> | today (formal) |
+| <span>翌日<br><em>yokujitsu</em></span> | the following day |
 
 ○○頃 signals an approximation; use it only when no confirmed time is available. If a time is confirmed, state it directly (18:00ご到着予定, not 18:00頃ご到着予定).
 
