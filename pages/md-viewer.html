@@ -1890,12 +1890,13 @@ function speakJapanese(text, el) {
   if (!_ttsPlaying) _ttsProcessQueue();
 }
 
+let _googleTtsFailed = false;
+
 function _ttsProcessQueue() {
   if (!_ttsQueue.length) { _ttsPlaying = false; return; }
   _ttsPlaying = true;
   var item = _ttsQueue.shift();
   var text = item.text, el = item.el;
-  speechSynthesis.cancel();
 
   if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); }
   _activeSpeakEl = el || null;
@@ -1906,14 +1907,43 @@ function _ttsProcessQueue() {
   toast.classList.add('show');
   clearTimeout(_toastTimer);
 
-  // Chrome needs a small delay after cancel() before speak()
+  const corrected = _applyTtsCorrections(text);
+  if (!_googleTtsFailed) {
+    _speakGoogleTts(corrected);
+  } else {
+    _speakWebSpeech(corrected);
+  }
+}
+
+function _speakGoogleTts(text) {
+  const url = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ja&q=' + encodeURIComponent(text);
+  const audio = new Audio(url);
+  const toast = document.getElementById('jp-toast');
+
+  const onEnd = () => {
+    if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
+    _toastTimer = setTimeout(() => toast.classList.remove('show'), 800);
+    _ttsProcessQueue();
+  };
+  const onError = () => {
+    _googleTtsFailed = true;
+    _speakWebSpeech(text);
+  };
+
+  audio.onended = onEnd;
+  audio.onerror = onError;
+  audio.play().catch(onError);
+}
+
+function _speakWebSpeech(text) {
+  speechSynthesis.cancel();
   setTimeout(() => {
-    const utt = new SpeechSynthesisUtterance(_applyTtsCorrections(text));
-    utt.lang = 'ja-JP';
+    const utt = new SpeechSynthesisUtterance(text);
+    utt.lang  = 'ja-JP';
     utt.rate  = _jaVoiceParams ? _jaVoiceParams.rate  : 0.85;
     utt.pitch = _jaVoiceParams ? _jaVoiceParams.pitch : 1.0;
     if (_jaVoice) utt.voice = _jaVoice;
-
+    const toast = document.getElementById('jp-toast');
     utt.onend = () => {
       if (_activeSpeakEl) { _activeSpeakEl.classList.remove('speaking'); _activeSpeakEl = null; }
       _toastTimer = setTimeout(() => toast.classList.remove('show'), 800);
