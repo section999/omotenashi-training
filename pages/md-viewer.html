@@ -2190,6 +2190,37 @@ function initTableRomaji(root) {
     span.after(makeJpActionBtns(jpText, em));
   });
 
+  // Pattern D: Expression | Description table — JP<br>romaji in Expression cell
+  root.querySelectorAll('table').forEach(table => {
+    const ths = Array.from(table.querySelectorAll('thead th'));
+    if (!ths.some(th => /^expression$/i.test(th.textContent.trim()))) return;
+    const exprIdx = ths.findIndex(th => /^expression$/i.test(th.textContent.trim()));
+    table.querySelectorAll('tbody tr').forEach(tr => {
+      const exprTd = tr.querySelectorAll('td')[exprIdx];
+      if (!exprTd || exprTd.querySelector('.jp-action-btns')) return;
+      const br = exprTd.querySelector('br');
+      if (!br) return;
+      // JP text = all content before <br>
+      let jp = '';
+      let cur = exprTd.firstChild;
+      while (cur && cur !== br) { jp += cur.textContent; cur = cur.nextSibling; }
+      jp = jp.trim();
+      if (!jp) return;
+      // Wrap romaji nodes (after <br>) in a hidden span
+      const romajiSpan = document.createElement('span');
+      romajiSpan.className = 'phrase-romaji';
+      romajiSpan.style.display = 'none';
+      let afterBr = br.nextSibling;
+      while (afterBr) {
+        const next = afterBr.nextSibling;
+        romajiSpan.appendChild(afterBr);
+        afterBr = next;
+      }
+      br.after(romajiSpan);
+      exprTd.appendChild(makeJpActionBtns(jp, romajiSpan));
+    });
+  });
+
   // Pattern C: table without "Reading" column - speak-only button for Japanese term cells
   const JP_RE_TBL = /[\u3040-\u9FFF\uFF00-\uFFEF]/;
   root.querySelectorAll('table').forEach(table => {
@@ -3884,65 +3915,6 @@ async function render() {
       exSentences.slice(1).forEach(({ el }) => el.remove());
     }
 
-    // 5. Related Expressions table (Expression | Description) → keigo-card
-    bodyEl.querySelectorAll('table').forEach(table => {
-      const ths = Array.from(table.querySelectorAll('thead th'));
-      const exprIdx = ths.findIndex(th => /^expression$/i.test(th.textContent.trim()));
-      const descIdx = ths.findIndex(th => /^description$/i.test(th.textContent.trim()));
-      if (exprIdx < 0 || descIdx < 0) return;
-
-      const card = document.createElement('div');
-      card.className = 'keigo-card blue';
-
-      table.querySelectorAll('tbody tr').forEach(tr => {
-        const tds = tr.querySelectorAll('td');
-        const exprTd = tds[exprIdx];
-        const descTd = tds[descIdx];
-        if (!exprTd || !descTd) return;
-
-        // Extract JP (before <br>) and romaji (after <br>), skip button spans
-        let jp = '', romaji = '', foundBr = false;
-        exprTd.childNodes.forEach(node => {
-          if (node.nodeName === 'BR') { foundBr = true; return; }
-          if (node.nodeType === Node.ELEMENT_NODE && node.classList.contains('jp-action-btns')) return;
-          const text = node.textContent;
-          if (!foundBr) jp += text;
-          else romaji += text;
-        });
-        jp = jp.trim();
-        romaji = romaji.trim();
-        const desc = descTd.textContent.trim();
-        if (!jp) return;
-
-        const item = document.createElement('div');
-        item.className = 'vocab-ex-item';
-
-        const row = document.createElement('div');
-        row.className = 'vocab-ex-row';
-
-        const jpSpan = document.createElement('span');
-        jpSpan.className = 'vocab-ex-jp';
-        jpSpan.textContent = jp;
-
-        const romajiEl = document.createElement('div');
-        romajiEl.className = 'phrase-romaji';
-        romajiEl.textContent = romaji;
-
-        const enEl = document.createElement('div');
-        enEl.className = 'phrase-en';
-        enEl.textContent = desc;
-
-        row.appendChild(jpSpan);
-        row.appendChild(makeJpActionBtns(jp, romaji ? romajiEl : null));
-        item.appendChild(row);
-        if (romaji) item.appendChild(romajiEl);
-        item.appendChild(enEl);
-        card.appendChild(item);
-      });
-
-      const wrapper = table.closest('.table-wrap') || table;
-      wrapper.replaceWith(card);
-    });
   }
 
 }

@@ -1,4 +1,4 @@
-const CACHE = 'omotenashi-v46'
+const CACHE = 'omotenashi-v47'
 
 const BASE = self.location.pathname.replace(/\/[^/]*$/, '/')
 
