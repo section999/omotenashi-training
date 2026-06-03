@@ -440,9 +440,12 @@
     /* Phrase-block: bigger buttons pushed to right */
     .phrase-block .jp-action-btns { gap: 6px; margin-left: auto; flex-shrink: 0; }
     .phrase-block .jp-action-btn { height: 28px; padding: 0 12px; font-size: 0.7rem; border-radius: 6px; }
-    /* Example number badge */
-    .phrase-num { font-family: var(--font-mono); font-size: 0.62rem; font-weight: 700; letter-spacing: 0.08em; color: var(--accent-blue); opacity: 0.75; flex-shrink: 0; }
-    [data-theme="light"] .phrase-num { color: #1a5fae; }
+    /* Vocab Example Sentences card items */
+    .vocab-ex-item:not(:last-child) { border-bottom: 1px solid var(--border-default); padding-bottom: 12px; margin-bottom: 12px; }
+    .vocab-ex-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 4px; }
+    .vocab-ex-jp { font-size: 1rem; font-weight: 700; color: var(--text-primary); flex: 1; min-width: 0; }
+    .vocab-ex-row .jp-action-btns { gap: 6px; flex-shrink: 0; }
+    .vocab-ex-row .jp-action-btn { height: 28px; padding: 0 12px; font-size: 0.7rem; border-radius: 6px; }
     [data-theme="light"] .phrase-block { background: #f5f6f7; border-color: #d8d8e0; }
     [data-theme="light"] .keigo-pair .bad-col { background: rgba(197,68,42,0.04); }
     [data-theme="light"] .keigo-pair .good-col { background: rgba(26,144,88,0.04); }
@@ -2088,6 +2091,7 @@ function wrapKeigoJpCodes(root) {
   root.querySelectorAll('.keigo-jp .jp-speak, .keigo-jp code').forEach(inner => {
     const keigoJp = inner.closest('.keigo-jp');
     if (!keigoJp) return;
+    if (keigoJp.closest('.jp-sentence-wrap')) return; // already processed
     if (keigoJp.closest('.bad-col')) return;
     if (keigoJp.closest('.email-example')) return;
     inner.classList.add('jp-word');
@@ -2211,6 +2215,7 @@ function initPhraseBlockBtns(root) {
     const jpDiv = block.querySelector('.phrase-jp');
     const romajiDiv = block.querySelector('.phrase-romaji');
     if (!jpDiv) return;
+    if (jpDiv.querySelector('.jp-action-btns')) return; // already initialized
     const jpText = jpDiv.querySelector('.jp-speak')?.textContent.trim() || jpDiv.textContent.trim();
     jpDiv.appendChild(makeJpActionBtns(jpText, romajiDiv));
   });
@@ -3476,10 +3481,14 @@ async function render() {
     '<span class="keigo-jp"><span class="jp-speak">$1</span></span>'
   );
   // Detect phrase blocks: **JP**  (hard br) *romaji*  (hard br) English
-  bodyHtml = bodyHtml.replace(
-    /<p><strong>([\s\S]*?)<\/strong><br>\n<em>([\s\S]*?)<\/em><br>\n([\s\S]*?)<\/p>/g,
-    (_, jp, romaji, en) => `<div class="phrase-block"><div class="phrase-jp"><span class="jp-speak">${jp.trim()}</span></div><div class="phrase-romaji">${romaji.trim()}</div><div class="phrase-en">${en.trim()}</div></div>`
-  );
+  // Skip for vocab files — they use keigo-card via DOM post-processing
+  const isVocabFile = /^content\/vocabulary\/v\d+-vocab-\d+\.md$/.test(file);
+  if (!isVocabFile) {
+    bodyHtml = bodyHtml.replace(
+      /<p><strong>([\s\S]*?)<\/strong><br>\n?<em>([\s\S]*?)<\/em><br>\n?([\s\S]*?)<\/p>/g,
+      (_, jp, romaji, en) => `<div class="phrase-block"><div class="phrase-jp"><span class="jp-speak">${jp.trim()}</span></div><div class="phrase-romaji">${romaji.trim()}</div><div class="phrase-en">${en.trim()}</div></div>`
+    );
+  }
 
   const stepIndicator = (sectionNum && total)
     ? `<div class="step-indicator">Step ${sectionNum} of ${total}</div>`
@@ -3505,9 +3514,6 @@ async function render() {
     </div>
   `;
 
-  // Wrap Japanese text in body (not quiz) with clickable pronunciation spans
-  const isVocabFile = /^content\/vocabulary\/v\d+-vocab-\d+\.md$/.test(file);
-
   // wrapJapanese on all pages (vocab gets both widget and inline click-to-speak)
   const bodyEl = document.querySelector('.section-body');
   if (bodyEl) wrapJapanese(bodyEl);
@@ -3515,18 +3521,6 @@ async function render() {
   if (bodyEl) initTableRomaji(bodyEl);
   if (bodyEl) initEmailExamples(bodyEl);
   if (bodyEl) initPhraseBlockBtns(bodyEl);
-  if (isVocabFile && bodyEl) {
-    let n = 0;
-    bodyEl.querySelectorAll('.phrase-block').forEach(block => {
-      n++;
-      const jpDiv = block.querySelector('.phrase-jp');
-      if (!jpDiv) return;
-      const badge = document.createElement('span');
-      badge.className = 'phrase-num';
-      badge.textContent = n + '.';
-      jpDiv.insertBefore(badge, jpDiv.firstChild);
-    });
-  }
   if (bodyEl) cleanBadCol(bodyEl);
 
   // ── Wrap tables in overflow-auto containers (so table fills content width) ──
@@ -3828,6 +3822,58 @@ async function render() {
           .replace(/\n<small>/g, '<br><small>')
           .replace(/<\/small>\s*/g, '</small><br>');
     });
+
+    // 4. **JP**  *romaji*  English format → single keigo-card
+    const exSentences = [];
+    bodyEl.querySelectorAll('p').forEach(p => {
+      const strong = p.firstElementChild;
+      if (!strong || strong.tagName !== 'STRONG') return;
+      let em = null;
+      for (const child of p.children) {
+        if (child.tagName === 'EM') { em = child; break; }
+      }
+      if (!em) return;
+      const jp = strong.textContent.trim();
+      const romaji = em.textContent.trim();
+      let en = '';
+      let nd = em.nextSibling;
+      while (nd) {
+        if (nd.nodeType === Node.TEXT_NODE) en += nd.textContent;
+        nd = nd.nextSibling;
+      }
+      en = en.replace(/\s+/g, ' ').trim();
+      exSentences.push({ el: p, jp, romaji, en });
+    });
+    if (exSentences.length) {
+      const card = document.createElement('div');
+      card.className = 'keigo-card blue';
+      exSentences.forEach(({ jp, romaji, en }, i) => {
+        const item = document.createElement('div');
+        item.className = 'vocab-ex-item';
+        // Header row: number + JP text + buttons
+        const row = document.createElement('div');
+        row.className = 'vocab-ex-row';
+        const jpSpan = document.createElement('span');
+        jpSpan.className = 'vocab-ex-jp';
+        jpSpan.textContent = jp;
+        // Romaji element (hidden, toggled by abc button)
+        const romajiEl = document.createElement('div');
+        romajiEl.className = 'phrase-romaji';
+        romajiEl.textContent = romaji;
+        // English
+        const enEl = document.createElement('div');
+        enEl.className = 'phrase-en';
+        enEl.textContent = en;
+        row.appendChild(jpSpan);
+        row.appendChild(makeJpActionBtns(jp, romajiEl));
+        item.appendChild(row);
+        item.appendChild(romajiEl);
+        item.appendChild(enEl);
+        card.appendChild(item);
+      });
+      exSentences[0].el.replaceWith(card);
+      exSentences.slice(1).forEach(({ el }) => el.remove());
+    }
   }
 
 }
