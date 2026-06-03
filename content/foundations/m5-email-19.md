@@ -4,7 +4,7 @@ section: 19
 title: Email Writing Checklist (Quick SOP Reference)
 ---
 
-Professional hotel emails must follow consistent standards across all staff and situations. Use this checklist before sending any email.
+A single incorrect phrase can undermine an otherwise well-written email. The five areas below highlight where errors most commonly occur. Use this checklist before sending any hotel email.
 
 ## The Pre-Send Checklist
 

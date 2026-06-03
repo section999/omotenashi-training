@@ -4,7 +4,7 @@ section: 20
 title: Expression Quick Reference: Review
 ---
 
-This lesson reviews all 16 expressions from the Quick Reference in Section 19. Each entry includes a usage note explaining when and why the expression is used.
+This lesson reviews the key expressions covered throughout the Email Communication lessons. For each expression, read the usage note carefully and consider when it should be used before reviewing the Japanese version.
 
 ## Openings
 

@@ -291,7 +291,7 @@
     /* ── SUB-MODULE ROWS ── */
     .sub-rows { margin-top: 14px; display: flex; flex-direction: column; gap: 6px; }
     .sub-row { display: flex; align-items: center; gap: 10px; }
-    .sub-row-name { font-size: 0.75rem; color: var(--text-secondary); min-width: 100px; flex-shrink: 0; }
+    .sub-row-name { font-size: 0.75rem; color: var(--text-secondary); flex: 0 0 200px; }
     .sub-row-count { font-family: var(--font-mono); font-size: 0.68rem; color: var(--text-muted); min-width: 44px; text-align: right; flex-shrink: 0; }
     .sub-row-track { flex: 1; height: 4px; background: var(--bg-tertiary); border-radius: 2px; overflow: hidden; }
     .sub-row-fill { height: 100%; border-radius: 2px; transition: width 0.7s cubic-bezier(.4,0,.2,1); min-width: 0; }
@@ -407,14 +407,21 @@ async function fetchModules() {
       if (!nameEl) return;
       const name = nameEl.textContent.trim();
       const color = MODULE_COLORS[idx] || '#f1be32';
-      const stems = {};
-      tree.querySelectorAll('a.step-btn').forEach(btn => {
-        const href = btn.getAttribute('href') || '';
-        const fn = href.split('/').pop();
-        const m = fn.match(/^(.+)-(\d+)\.md$/);
-        if (m) stems[m[1]] = Math.max(stems[m[1]] || 0, parseInt(m[2]));
+      const lessons = [];
+      tree.querySelectorAll('.tree-l2').forEach(l2 => {
+        const labelEl = l2.querySelector('.tree-l2-label');
+        const label = labelEl ? labelEl.textContent.trim() : '';
+        const stems = {};
+        l2.querySelectorAll('a.step-btn').forEach(btn => {
+          const href = btn.getAttribute('href') || '';
+          const fn = href.split('/').pop();
+          const m = fn.match(/^(.+)-(\d+)\.md$/);
+          if (m) stems[m[1]] = Math.max(stems[m[1]] || 0, parseInt(m[2]));
+        });
+        Object.entries(stems).forEach(([stem, count]) => {
+          lessons.push({ stem, count, label });
+        });
       });
-      const lessons = Object.entries(stems).map(([stem, count]) => ({ stem, count }));
       if (lessons.length) modules.push({ name, color, lessons });
     });
     return modules.length ? modules : null;
@@ -477,14 +484,14 @@ function render(MODULES) {
     const { done, total } = countModuleDone(mod);
     totalDone += done;
     const pct = total > 0 ? Math.round((done / total) * 100) : 0;
-    const subRows = mod.lessons.map(({ stem, count }) => {
+    const subRows = mod.lessons.map(({ stem, count, label }) => {
       let subDone = 0;
       for (let i = 1; i <= count; i++) {
         if (localStorage.getItem('omotenashi:' + stem + ':' + i)) subDone++;
       }
       const subPct = count > 0 ? Math.round((subDone / count) * 100) : 0;
-      const label = stem.replace(/^m\d+-/, '');
-      const displayLabel = label.charAt(0).toUpperCase() + label.slice(1);
+      const fallback = stem.replace(/^m\d+-/, '');
+      const displayLabel = label || (fallback.charAt(0).toUpperCase() + fallback.slice(1));
       return `<div class="sub-row">
         <span class="sub-row-name">${displayLabel}</span>
         <span class="sub-row-count">${subDone}/${count}</span>
@@ -496,9 +503,6 @@ function render(MODULES) {
         <div class="module-row-top">
           <span class="module-name">${mod.name}</span>
           <span class="module-count">${done} / ${total}<span class="module-pct">${pct}%</span></span>
-        </div>
-        <div class="progress-track">
-          <div class="progress-fill" style="width:${pct}%;background:${mod.color}"></div>
         </div>
         <div class="sub-rows">${subRows}</div>
       </div>`;
