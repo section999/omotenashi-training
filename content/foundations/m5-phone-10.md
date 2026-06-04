@@ -37,14 +37,14 @@ Room 702, we will call you tomorrow morning at 6:00. Thank you.
 <strong>Guest:</strong> <span class="keigo-jp"><code>タクシーを手配してもらえますか。</code></span><br>
 <em>takushi o tehai shite morae masu ka.</em><br>
 Can you arrange a taxi for me?<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますでしょうか。</code></span><br>
-<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu deshou ka.</em><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>かしこまりました。ご希望のお時間はございますか。</code></span><br>
+<em>kashikomarimashita. go-kibou no o-jikan wa gozaimasu ka.</em><br>
 Certainly. Do you have a preferred time?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>午後3時にお願いします。</code></span><br>
 <em>gogo 3 ji ni onegai shimasu.</em><br>
 3:00 PM, please.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>午後3時でございますね。お向かい先はございますでしょうか。</code></span><br>
-<em>gogo 3 ji de gozaimasu ne. o mukai saki wa gozaimasu deshou ka.</em><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>午後3時でございますね。行き先をお伺いしてもよろしいでしょうか。</code></span><br>
+<em>gogo 3 ji de gozaimasu ne. iki saki o o ukagai shite mo yoroshii deshou ka.</em><br>
 3:00 PM. May I ask for the destination?<br><br>
 <strong>Guest:</strong> <span class="keigo-jp"><code>東京駅までです。</code></span><br>
 <em>toukyou eki made desu.</em><br>

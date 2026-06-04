@@ -29,8 +29,8 @@ Confirm the situation will be resolved and that the guest can rely on the staff.
 <strong>Guest:</strong> <span class="keigo-jp"><code>隣の部屋がうるさくて眠れません。</code></span><br>
 <em>tonari no heya ga urusaku te nemure masen.</em><br>
 The room next to mine is so noisy I can't sleep.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>誠に申し訳ございません。隣のお部屋の音でご不便をおかけしてしまっておりますね。</code></span><br>
-<em>makoto ni moushiwake gozaimasen. tonari no o-heya no oto de go-fuben wo okake shite shimatte orimasu ne.</em><br>
+<strong>Staff:</strong> <span class="keigo-jp"><code>誠に申し訳ございません。隣のお部屋の音でご不便をおかけしておりますね。</code></span><br>
+<em>makoto ni moushiwake gozaimasen. tonari no o-heya no oto de go-fuben wo okake shite orimasu ne.</em><br>
 <span class="keigo-badge bad">Apologize</span> I sincerely apologize. <span class="keigo-badge info">Acknowledge</span> I completely understand how uncomfortable that must be.<br><br>
 <span class="keigo-jp"><code>ただいまスタッフが確認にまいります。ご対応いたしますので、少々お待ちいただけますでしょうか。</code></span><br>
 <em>tadaima sutaffu ga kakunin ni mairimasu. go-taiou itashimasu node, shoushou o-machi itadake masu deshou ka.</em><br>

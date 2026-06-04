@@ -49,9 +49,9 @@ I will check. Please wait a moment.<br><br>
 <strong>Staff:</strong> <span class="keigo-jp"><code>大変お待たせいたしました。あいにく6月10日は満室となっております。</code></span><br>
 <em>taihen o-matase itashimashita. ainiku 6 tsuki 10 nichi wa manshitsu to natte orimasu.</em><br>
 Thank you for waiting. Unfortunately, June 10th is fully booked.<br><br>
-<strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。ご都合はいかがでしょうか。</code></span><br>
-<em>moshi yoroshikere ba, zengo no nittei deshi tara go-annai ga kanou de gozaimasu. go tsugou wa ikaga deshou ka.</em><br>
-If you would like, we can offer alternative dates nearby. Would that work for you?
+<strong>Staff:</strong> <span class="keigo-jp"><code>もしよろしければ、前後の日程でしたらご案内が可能でございます。いかがでしょうか。</code></span><br>
+<em>moshi yoroshikere ba, zengo no nittei deshi tara go-annai ga kanou de gozaimasu. ikaga deshou ka.</em><br>
+If you would like, we can offer alternative dates nearby. Would that suit you?
 </div>
 
 **The key rule: never end a call with "no availability." Always extend service options.** Ending with a refusal closes the relationship. Ending with an alternative offer keeps it open.
