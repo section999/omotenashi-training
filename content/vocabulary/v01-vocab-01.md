@@ -30,7 +30,7 @@ Welcome. Allow me to carry your luggage.
 
 ## Common Mistakes
 
-The most common mistake is delivering いらっしゃいませ without making eye contact or pausing from another task. The guest should feel they are being welcomed, not that the phrase is being broadcast to the room. Divided attention is visible: a quick glance at a screen while speaking undermines the phrase. A second mistake is rushing the pronunciation: the っしゃ syllable is often compressed into something closer to *sa*, which sounds abrupt. Slowing the greeting down and letting each syllable carry its weight helps maintain its warmth.
+The most common mistake is delivering いらっしゃいませ without eye contact or while remaining partially engaged in another task. The guest should feel that they are being personally welcomed, not that the phrase is being broadcast generically into the space. Divided attention is immediately noticeable: even a brief glance at a screen while speaking can weaken the impact of the greeting. A second common issue is rushing the pronunciation. The っしゃ syllable is often compressed into something closer to sa, which makes the greeting sound abrupt and unnatural. Slowing the phrase slightly and allowing each syllable to carry its weight helps preserve its warmth and clarity.
 
 ---
 
