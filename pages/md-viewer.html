@@ -2422,43 +2422,56 @@ function vocabPractice(jp, btn) {
   const fb = document.getElementById('vocabPronFeedback');
   if (!SR) { if (fb) fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Speech recognition not supported. Try Chrome.</div>'; return; }
   if (_vocabActiveRec) { _vocabActiveRec.abort(); _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice'; return; }
-  const recognition = new SR();
-  recognition.lang = 'ja-JP';
-  recognition.interimResults = false;
-  recognition.maxAlternatives = 3;
-  _vocabActiveRec = recognition;
-  btn.style.opacity = '0.6';
-  btn.textContent = '🔴 Listening…';
-  let got = false;
-  recognition.onresult = e => {
-    got = true; _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
-    const best = Array.from(e.results[0]).reduce((a, b) => a.confidence > b.confidence ? a : b);
-    const analysis = simAnalyzePronunciation(best.transcript.trim(), jp);
-    vocabShowScore(analysis, best.transcript.trim(), best.confidence);
-  };
-  recognition.onerror = (e) => {
-    _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
-    if (fb) {
-      const msg = e.error === 'not-allowed'  ? 'Microphone access denied. Check browser permissions.' :
-                  e.error === 'no-speech'    ? 'No speech detected. Speak closer to the mic.' :
-                  e.error === 'network'      ? 'Network error. Speech recognition requires internet.' :
-                  e.error === 'aborted'      ? '' :
-                  'Recognition failed (' + e.error + '). Try again.';
-      if (msg) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">' + msg + '</div>'; fb.style.display = 'block'; }
-    }
-  };
-  recognition.onend = () => {
-    if (!got) {
+  const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent);
+  function _startRec() {
+    const recognition = new SR();
+    recognition.lang = 'ja-JP';
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 3;
+    _vocabActiveRec = recognition;
+    btn.style.opacity = '0.6';
+    btn.textContent = '🔴 Listening…';
+    let got = false;
+    recognition.onresult = e => {
+      got = true; _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+      const best = Array.from(e.results[0]).reduce((a, b) => a.confidence > b.confidence ? a : b);
+      const analysis = simAnalyzePronunciation(best.transcript.trim(), jp);
+      vocabShowScore(analysis, best.transcript.trim(), best.confidence);
+    };
+    recognition.onerror = (e) => {
       _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
-      if (fb && !fb.querySelector('.pron-score')) {
-        fb.innerHTML = '<div class="pron-score" style="color:#e07060;">No speech detected. Try speaking closer to the mic.</div>';
-        fb.style.display = 'block';
+      if (fb) {
+        const msg = e.error === 'not-allowed'         ? 'Microphone access denied. Check browser permissions.' :
+                    e.error === 'service-not-allowed' ? (isIOS ? 'Allow microphone access in Settings \u2192 Safari \u2192 Microphone, then try again.' : 'Speech recognition blocked. Try a different browser.') :
+                    e.error === 'no-speech'           ? 'No speech detected. Speak closer to the mic.' :
+                    e.error === 'network'             ? 'Network error. Speech recognition requires internet.' :
+                    e.error === 'aborted'             ? '' :
+                    'Recognition failed (' + e.error + '). Try again.';
+        if (msg) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">' + msg + '</div>'; fb.style.display = 'block'; }
       }
+    };
+    recognition.onend = () => {
+      if (!got) {
+        _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+        if (fb && !fb.querySelector('.pron-score')) {
+          fb.innerHTML = '<div class="pron-score" style="color:#e07060;">No speech detected. Try speaking closer to the mic.</div>';
+          fb.style.display = 'block';
+        }
+      }
+    };
+    try { recognition.start(); } catch(e) {
+      _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
+      if (fb) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Could not start microphone. Try again.</div>'; fb.style.display = 'block'; }
     }
-  };
-  try { recognition.start(); } catch(e) {
-    _vocabActiveRec = null; btn.style.opacity = ''; btn.textContent = '🎤 Practice';
-    if (fb) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Could not start microphone. Try again.</div>'; fb.style.display = 'block'; }
+  }
+  if (isIOS && navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+    navigator.mediaDevices.getUserMedia({ audio: true })
+      .then(stream => { stream.getTracks().forEach(t => t.stop()); _startRec(); })
+      .catch(() => {
+        if (fb) { fb.innerHTML = '<div class="pron-score" style="color:#e07060;">Microphone access denied. Allow in Settings \u2192 Safari \u2192 Microphone.</div>'; fb.style.display = 'block'; }
+      });
+  } else {
+    _startRec();
   }
 }
 
@@ -2835,11 +2848,25 @@ function simStartPractice(expectedText, btn) {
   btn.textContent = '⏹';
   // Show wave bar
   simShowWave(btn, true);
-  try { recognition.start(); }
-  catch (e) {
-    btn.classList.remove('listening'); btn.textContent = '🎤';
-    simShowWave(btn, false);
-    simShowPracticeResult(btn, null, null, null); return;
+  const _simIsIOS = /iPhone|iPad|iPod/.test(navigator.userAgent);
+  function _simStartRec() {
+    try { recognition.start(); }
+    catch (e) {
+      btn.classList.remove('listening'); btn.textContent = '🎤';
+      simShowWave(btn, false);
+      simShowPracticeResult(btn, null, null, null);
+    }
+  }
+  if (_simIsIOS && navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+    navigator.mediaDevices.getUserMedia({ audio: true })
+      .then(stream => { stream.getTracks().forEach(t => t.stop()); _simStartRec(); })
+      .catch(() => {
+        btn.classList.remove('listening'); btn.textContent = '🎤';
+        simShowWave(btn, false);
+        simShowPracticeResult(btn, 'Microphone access denied. Allow in Settings \u2192 Safari \u2192 Microphone.', null, null);
+      });
+  } else {
+    _simStartRec();
   }
   recognition.onresult = function(event) {
     gotResult = true; _simActiveRec = null;
@@ -2896,6 +2923,7 @@ function simStartPractice(expectedText, btn) {
     simShowWave(btn, false);
     if (event.error === 'aborted') return;
     if (event.error === 'not-allowed') simShowPracticeResult(btn, 'Microphone access denied. Please allow microphone access in your browser settings and try again.\nマイクへのアクセスが拒否されました。ブラウザの設定でマイクを許可してからもう一度お試しください。', null, null);
+    else if (event.error === 'service-not-allowed') simShowPracticeResult(btn, /iPhone|iPad|iPod/.test(navigator.userAgent) ? 'Allow microphone in Settings \u2192 Safari \u2192 Microphone, then try again.' : 'Speech recognition blocked. Try a different browser.', null, null);
     else if (event.error === 'network') simShowPracticeResult(btn, 'ネットワークエラーです。接続を確認してください', null, null);
     else simShowPracticeResult(btn, null, null, null);
   };
