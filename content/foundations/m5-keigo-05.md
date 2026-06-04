@@ -4,15 +4,15 @@ section: 5
 title: Regular 尊敬語 Patterns
 ---
 
-Not every verb has an irregular sonkeigo form. For the majority of verbs, sonkeigo is built using one of two regular patterns depending on the word origin.
+While some commonly used verbs have irregular sonkeigo forms, most verbs follow one of two regular patterns. Which pattern is used depends on the verb's origin.
 
 ## Group 2: お + Masu-stem + になります
 
-For native Japanese verbs (和語) without an irregular sonkeigo form, apply this formula:
+For native Japanese verbs (和語) without an irregular sonkeigo form, sonkeigo is formed using the following pattern:
 
 **お + [masu-stem] + になります**
 
-The masu-stem is the verb's ます form with ます removed.
+The masu-stem is the part of the verb that remains after removing ます from its ます-form.
 
 | Plain | <span>ます form</span> | Masu-stem | Sonkeigo |
 |---|---|---|---|
@@ -42,9 +42,11 @@ Guest carries / has
 
 ## Group 3: ご + Sino-Japanese Verb Stems + になります
 
-For verbs of Chinese origin (漢語), typically two-kanji compounds used with する, apply:
+For verbs of Chinese origin (漢語), usually formed by adding する to a Sino-Japanese noun, use the following sonkeigo patterns:
 
-**ご + [漢語 noun stem] + になります / なさいます**
+**ご + [noun stem] + になります**
+
+**ご + [noun stem] + なさいます**
 
 | <span>Plain (する form)</span> | Noun stem | Sonkeigo |
 |---|---|---|

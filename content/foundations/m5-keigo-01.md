@@ -4,11 +4,11 @@ section: 1
 title: Keigo as a Service Control System
 ---
 
-Ask most learners what keigo is and they will say: "polite Japanese." That is a starting point, but in hotel operations it is not enough. In hospitality, keigo is a **service-control system**. It manages how guests feel, how staff are perceived, how the hotel's brand is communicated, and how conflicts are prevented or resolved.
+Ask most learners what keigo is, and they will say: "polite Japanese." That is a useful starting point, but in hotel operations it is not sufficient. In hospitality contexts, keigo functions as a **service control system**. It governs how guests feel, how staff are perceived, how the hotel's brand is communicated, and how conflicts are prevented or resolved.
 
 ## Why "Being Polite" Is Not the Goal
 
-Friendliness and politeness are different things. A staff member can be friendly and still sound unprofessional. A staff member can be grammatically polite and still make a guest feel rushed, looked down on, or ignored. Keigo works at a deeper level than vocabulary selection. It controls the *emotional atmosphere* of every interaction.
+Friendliness and politeness are not the same thing. A staff member can be friendly yet still sound unprofessional. A staff member can also be grammatically polite and still make a guest feel rushed, dismissed, or ignored. Keigo operates at a deeper level than vocabulary choice. It shapes the *emotional atmosphere* of every interaction.
 
 | What Keigo Controls | Effect on the Guest |
 |---|---|
@@ -37,13 +37,13 @@ Thank you. We look forward to welcoming you again.<br><br>
 
 ## What Keigo Controls in Practice
 
-Keigo operates on three levels simultaneously in every sentence:
+Keigo operates on three levels simultaneously within every sentence:
 
-- **Who the subject is**: the guest, the staff, or neither
-- **What kind of words are used**: prefixes, verb forms, and sentence endings
-- **How the overall tone is maintained**: from the first word to the last particle
+- **Who the subject is**: the guest, the staff member, or neither
+- **What linguistic tools are used**: prefixes, verb forms, and sentence endings
+- **How the overall tone is maintained**: from the first word to the final particle
 
-A single check-in sentence contains all three levels at once. Every word choice either reinforces or weakens the hospitality atmosphere.
+A single check-in sentence activates all three levels at once. Every word choice either reinforces or weakens the hospitality atmosphere.
 
 ---
 

@@ -8,7 +8,7 @@ title: ご確認ください (go-kakunin kudasai)
 
 Unconfirmed information leads to errors, and errors in a hospitality context directly affect the guest's experience. Asking a guest to confirm their name, their stay dates, and their room preference at check-in is not merely bureaucratic. It is an act of care that prevents problems before they occur. The guest who is asked to confirm their details feels that the property is attentive; the guest whose information was not confirmed and ends up in the wrong room does not.
 
-In written contexts such as emails, printed confirmations, and room service menus, ご確認ください appears frequently as a closing instruction. It tells the reader that the document calls for a response. In spoken contexts, it is often preceded by 恐れ入りますが or 申し訳ございませんが to soften the request
+In written contexts such as emails, printed confirmations, and room service menus, ご確認ください appears frequently as a closing instruction. It tells the guest that the document calls for a response. In spoken contexts, it is often preceded by 恐れ入りますが or 申し訳ございませんが to soften the request
 
 
 ## Example Sentences

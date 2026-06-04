@@ -4,7 +4,7 @@ section: 4
 title: Irregular 尊敬語 Verbs
 ---
 
-The most important sonkeigo verbs are irregular. They have entirely new forms with no connection to the plain verb. Because they are the most frequently used verbs in hotel interactions, they must be memorized.
+The most important sonkeigo verbs are irregular, meaning they use completely different forms rather than following the standard sonkeigo patterns. Because these verbs appear frequently in hotel and customer-service interactions, they are essential to memorize.
 
 ## Group 1: Irregular Sonkeigo Verbs
 
@@ -22,26 +22,6 @@ The most important sonkeigo verbs are irregular. They have entirely new forms wi
 | <span>くれる</span> | <span>くださいます</span> | Guest gives |
 | <span>休む</span> | <span>お休みになります</span> | Guest rests |
 
-## Key Verbs in Context
-
-<div class="keigo-card blue">
-<span class="keigo-jp"><code>いらっしゃいますか。</code></span><br>
-<em>irasshaimasu ka.</em><br>
-Are you here? / Are you coming? / Are you going?<br><br>
-<span class="keigo-jp"><code>朝食はお召し上がりになりますか。</code></span><br>
-<em>choushoku wa o-meshiagari ni narimasu ka.</em><br>
-Will you be having breakfast?<br><br>
-<span class="keigo-jp"><code>何かおっしゃいましたか。</code></span><br>
-<em>nani ka osshaimashita ka.</em><br>
-Did you say something?<br><br>
-<span class="keigo-jp"><code>チェックインはなさいますか。</code></span><br>
-<em>chekku-in wa nasaimasu ka.</em><br>
-Will you be checking in?<br><br>
-<span class="keigo-jp"><code>パンフレットをご覧になりますか。</code></span><br>
-<em>panfuretto o go-ran ni narimasu ka.</em><br>
-Would you like to look at the brochure?
-</div>
-
 ## One Verb, Three Meanings
 
 いらっしゃいます is the sonkeigo form for いる, 来る, and 行く. Context determines which meaning is intended.
@@ -53,9 +33,48 @@ Are you in the lobby? (いる)<br><br>
 <span class="keigo-jp"><code>何時頃いらっしゃいますか。</code></span><br>
 <em>nanji goro irasshaimasu ka.</em><br>
 Around what time will you arrive? (来る)<br><br>
-<span class="keigo-jp"><code>レストランにいらっしゃいますか。</code></span><br>
-<em>resutoran ni irasshaimasu ka.</em><br>
+<span class="keigo-jp"><code>レストランへいらっしゃいますか。</code></span><br>
+<em>resutoran e irasshaimasu ka.</em><br>
 Will you be going to the restaurant? (行く)
+</div>
+
+## Key Verbs in Context
+
+<div class="keigo-card blue">
+<span class="keigo-badge info">いらっしゃいます : いる / 来る / 行く</span><br>
+<span class="keigo-jp"><code>こちらにいらっしゃいますか。</code></span><br>
+<em>kochira ni irasshaimasu ka.</em><br>
+Are you here?<br><br>
+<span class="keigo-jp"><code>明日いらっしゃいますか。</code></span><br>
+<em>ashita irasshaimasu ka.</em><br>
+Are you coming tomorrow?<br><br>
+<span class="keigo-jp"><code>今夜のパーティーにいらっしゃいますか。</code></span><br>
+<em>konya no paatii ni irasshaimasu ka.</em><br>
+Will you be attending the party tonight?<br><br>
+<span class="keigo-jp"><code>チェックインでいらっしゃいますか。</code></span><br>
+<em>chekku-in de irasshaimasu ka.</em><br>
+Are you here to check in?
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-badge info">召し上がります : 食べる / 飲む</span><br>
+<span class="keigo-jp"><code>朝食はお召し上がりになりますか。</code></span><br>
+<em>choushoku wa o-meshiagari ni narimasu ka.</em><br>
+Will you be having breakfast?
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-badge info">おっしゃいます : 言う</span><br>
+<span class="keigo-jp"><code>何かおっしゃいましたか。</code></span><br>
+<em>nani ka osshaimashita ka.</em><br>
+Did you say something?
+</div>
+
+<div class="keigo-card blue">
+<span class="keigo-badge info">ご覧になります : 見る</span><br>
+<span class="keigo-jp"><code>パンフレットをご覧になりますか。</code></span><br>
+<em>panfuretto o go-ran ni narimasu ka.</em><br>
+Would you like to take a look at the brochure?
 </div>
 
 ---

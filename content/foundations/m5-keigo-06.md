@@ -4,7 +4,7 @@ section: 6
 title: Applied 尊敬語: Scenarios and Question Forms
 ---
 
-Knowing sonkeigo forms in isolation is not enough. This lesson applies them to real hotel scenarios, addresses the most critical error in sonkeigo use, and introduces the three question patterns used most frequently with guests.
+Knowing sonkeigo forms in isolation is not enough. In this lesson, you will learn how to use them in realistic hotel scenarios, avoid the most common sonkeigo mistake, and master the three question patterns most frequently used with guests.
 
 ## Applied Sonkeigo: Hotel Scenarios
 
@@ -42,11 +42,11 @@ Will you be having breakfast?<br><br>
 </div>
 </div>
 
-## Critical Error: Sonkeigo Applied to Staff
+## Critical Error: Using Sonkeigo for Staff
 
-Sonkeigo verbs elevate whoever performs the action. If a staff member uses them to describe their own actions or a colleague's, it linguistically places the staff above the guest; this is the opposite of what hospitality requires.
+Sonkeigo elevates the person performing the action. If a staff member uses sonkeigo to describe their own actions or those of a colleague, it inadvertently places the staff member above the guest. This is the opposite of the hierarchy required in hospitality Japanese.
 
-**Rule: 尊敬語 verbs are for guests only. For staff, use 謙譲語.**
+**Rule: Use 尊敬語 (sonkeigo) for guests and 謙譲語 (kenjōgo) for staff.**
 
 <div class="keigo-pair">
 <div class="bad-col">
@@ -127,7 +127,7 @@ How would you like to handle breakfast?
 
 - A. チェックインしますか？
 - B. チェックインいたしますか？
-- C. チェックインなさいますか？
+- C. チェックインでいらっしゃいますか？
 - D. チェックインされていますか？
 
 **Correct Answer:** C
