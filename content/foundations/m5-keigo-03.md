@@ -8,15 +8,13 @@ title: 尊敬語: The Core Rule
 
 ## The Core Decision
 
-Before selecting any verb form in hotel speech, ask one question: **who is performing this action?**
+Before selecting any verb form in hotel speech, ask one question: **who is performing this action?** This single decision drives every verb choice in keigo.
 
 | Subject | Keigo Type | Function |
 |---|---|---|
 | Guest | <span>尊敬語</span> | Elevates the guest's action |
 | Staff | <span>謙譲語</span> | Lowers the staff's position |
 | General statement | <span>丁寧語</span> | Maintains professional tone |
-
-This single decision drives every verb choice in hotel keigo.
 
 ## Why the Rule Matters
 
